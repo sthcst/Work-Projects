@@ -1,0 +1,10 @@
+From: Amir Nguyen <amir.nguyen@example.org>
+To: records@company.co
+Date: February 13, 1963
+Subject: Meeting
+
+Please update the record:
+Name: Amir Nguyen
+Address: 4287 Washington Pl, Sydney, AU
+Phone: +72 177723844
+SSN: 448-24-9409

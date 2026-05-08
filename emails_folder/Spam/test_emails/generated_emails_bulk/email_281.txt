@@ -1,0 +1,10 @@
+From: Sophia Patel <sophia.patel@example.org>
+To: records@company.co
+Date: September 23, 1982
+Subject: Your Details
+
+Please update the record:
+Name: Sophia Patel
+Address: 9475 Queen St, Los Angeles, CA
+Phone: (973) 318-1860
+SSN: 508-70-5937

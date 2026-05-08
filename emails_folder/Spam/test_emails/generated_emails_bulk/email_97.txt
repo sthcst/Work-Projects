@@ -1,0 +1,10 @@
+From john.anderson@example.org Mon May  4 21:36:46 2026
+{
+  "subject": "Invoice",
+  "name": "John Anderson",
+  "email": "john.anderson@example.org",
+  "phone": "(309) 543-5662",
+  "ssn": "756-79-9590",
+  "address": "623 Oak Ln, Chicago, IL",
+  "date": "April 23, 1984"
+}

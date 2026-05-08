@@ -1,0 +1,8 @@
+From mia.anderson@company.co Mon May  4 21:36:46 2026
+subject: Your Details
+name: Mia Anderson
+email: mia.anderson@company.co
+phone: (247) 305-9529
+ssn: 900533293
+address: 5105 Maple Ave, New York, NY
+date: 01/13/1968

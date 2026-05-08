@@ -1,0 +1,9 @@
+{
+  "subject": "Important",
+  "name": "Mia Johnson",
+  "email": "mia.johnson@example.com",
+  "phone": "+67 838993835",
+  "ssn": "202265468",
+  "address": "212 King Way, London, UK",
+  "date": "October 31, 1978"
+}

@@ -1,0 +1,13 @@
+Subject: Your Details
+
+Hello Sophia,
+
+Your details:
+Email: sophia.wilson@example.com
+Phone: +37 178954113
+SSN: 561-80-5582
+Address: 9353 Market Blvd, Sydney, AU
+DOB: November 30, 1995
+
+Thanks,
+Sophia

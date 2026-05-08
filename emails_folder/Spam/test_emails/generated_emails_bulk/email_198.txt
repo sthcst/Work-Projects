@@ -1,0 +1,10 @@
+From john.garcia@test.org Mon May  4 21:36:46 2026
+{
+  "subject": "Important",
+  "name": "John Garcia",
+  "email": "john.garcia@test.org",
+  "phone": "+57 509539711",
+  "ssn": "776-13-8765",
+  "address": "4758 Broadway Ave, Berlin, DE",
+  "date": "January 09, 1954"
+}

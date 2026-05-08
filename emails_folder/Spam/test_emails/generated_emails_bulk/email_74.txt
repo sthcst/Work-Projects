@@ -1,0 +1,10 @@
+From: Lucas Lopez <lucas.lopez@company.co>
+To: records@company.co
+Date: 05/08/1972
+Subject: Invoice
+
+Please update the record:
+Name: Lucas Lopez
+Address: 2362 Broadway Pl, Apt 362, Los Angeles, CA
+Phone: (446) 784-7825
+SSN: 784-20-9576

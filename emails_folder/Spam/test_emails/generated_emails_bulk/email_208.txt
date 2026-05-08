@@ -1,0 +1,10 @@
+From: Carlos Nguyen <carlos.nguyen@example.org>
+To: records@company.co
+Date: April 25, 1956
+Subject: Meeting
+
+Please update the record:
+Name: Carlos Nguyen
+Address: 7901 Washington Blvd, Paris, FR
+Phone: +77 253235987
+SSN: 980954894

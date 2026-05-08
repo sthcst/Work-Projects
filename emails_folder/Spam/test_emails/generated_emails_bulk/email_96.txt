@@ -1,0 +1,13 @@
+Subject: Your Details
+
+Hello Hiro,
+
+Your details:
+Email: hiro.wang@example.org
+Phone: +8 925412179
+SSN: 687-39-9767
+Address: 3277 Broadway Dr, Auckland, NZ
+DOB: November 15, 2004
+
+Thanks,
+Hiro

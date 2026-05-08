@@ -1,0 +1,9 @@
+{
+  "subject": "Meeting",
+  "name": "Aisha Davis",
+  "email": "aisha.davis@example.org",
+  "phone": "+48 509573649",
+  "ssn": "556-15-5313",
+  "address": "4351 Pine Terrace, Auckland, NZ",
+  "date": "06/14/1979"
+}

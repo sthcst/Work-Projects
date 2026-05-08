@@ -1,0 +1,8 @@
+subject: Invoice
+name: Aisha Khan
+email: aisha.khan@example.com
+phone: (988) 412-8404
+ssn: 371-25-2481
+address: 7645 King Pl, Apt 367, Houston, TX
+date: February 20, 1954
+PO Box 5470

@@ -1,0 +1,9 @@
+{
+  "subject": "Your Details",
+  "name": "Mia Wilson",
+  "email": "mia.wilson@example.com",
+  "phone": "+49 147143794",
+  "ssn": "459910894",
+  "address": "8393 River Rd, Berlin, DE",
+  "date": "September 25, 1990"
+}

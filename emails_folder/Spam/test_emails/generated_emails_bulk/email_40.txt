@@ -1,0 +1,7 @@
+subject: Invoice
+name: Aisha Smith
+email: aisha.smith@company.co
+phone: (295) 430-2858
+ssn: 220-92-3522
+address: 5101 Market St, Los Angeles, CA
+date: September 16, 1984

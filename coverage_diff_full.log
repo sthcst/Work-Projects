@@ -1,0 +1,9 @@
+Final deletions measured by unique-span diff:
+EMAIL: 4917
+PHONE: 1039
+SSN: 0
+DOB: 815
+ADDRESS: 973
+PERSON: 0
+Wrote low-confidence audit CSV to low_confidence_audit.csv
+Wrote low_confidence_audit.csv (1792 rows)

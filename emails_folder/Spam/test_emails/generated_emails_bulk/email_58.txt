@@ -1,0 +1,14 @@
+From aisha.wilson@company.co Mon May  4 21:36:46 2026
+Subject: Invoice
+
+Hello Aisha,
+
+Your details:
+Email: aisha.wilson@company.co
+Phone: +72 924024405
+SSN: 758819288
+Address: 4574 Garden Blvd, Toronto, ON
+DOB: July 21, 2000
+
+Thanks,
+Aisha

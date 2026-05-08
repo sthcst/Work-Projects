@@ -1,0 +1,9 @@
+{
+  "subject": "Your Details",
+  "name": "Sophia Brown",
+  "email": "sophia.brown@example.com",
+  "phone": "(754) 261-2130",
+  "ssn": "606882594",
+  "address": "752 George Dr, New York, NY",
+  "date": "11/05/1942"
+}

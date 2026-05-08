@@ -1,0 +1,10 @@
+From: Wei Patel <wei.patel@example.com>
+To: records@company.co
+Date: 04/30/1984
+Subject: Invoice
+
+Please update the record:
+Name: Wei Patel
+Address: 3242 Washington Rd, Chicago, IL
+Phone: (871) 277-3902
+SSN: 774254861

@@ -1,0 +1,12 @@
+From amir.perez@example.com Mon May  4 21:36:46 2026
+From: Amir Perez <amir.perez@example.com>
+To: records@company.co
+Date: 08/21/1948
+Subject: Invoice
+
+Please update the record:
+Name: Amir Perez
+Address: 6325 Elm Ave, Apt 536, Houston, TX
+Phone: (716) 900-7877
+SSN: 750162509
+PO Box 8806

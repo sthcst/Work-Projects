@@ -1,0 +1,8 @@
+From sven.smith@mail.com Mon May  4 21:36:46 2026
+subject: Meeting
+name: Sven Smith
+email: sven.smith@mail.com
+phone: +83 493342201
+ssn: 680-14-3513
+address: 580 Elm Ave, Paris, FR
+date: 12/02/2000

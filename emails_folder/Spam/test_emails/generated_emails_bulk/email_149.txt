@@ -1,0 +1,13 @@
+Subject: Your Details
+
+Hello Carlos,
+
+Your details:
+Email: carlos.perez@company.co
+Phone: +12 990514408
+SSN: 231563076
+Address: 367 Church Road, London, UK
+DOB: October 31, 1943
+
+Thanks,
+Carlos

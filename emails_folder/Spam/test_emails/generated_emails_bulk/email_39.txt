@@ -1,0 +1,10 @@
+From: Emma Brown <emma.brown@test.org>
+To: records@company.co
+Date: 08/18/1944
+Subject: Your Details
+
+Please update the record:
+Name: Emma Brown
+Address: 8441 Oak Terrace, Houston, TX
+Phone: (255) 392-9494
+SSN: 874-73-8242

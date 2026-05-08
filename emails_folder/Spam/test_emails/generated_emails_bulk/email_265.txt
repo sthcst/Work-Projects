@@ -1,0 +1,13 @@
+Subject: Invoice
+
+Hello John,
+
+Your details:
+Email: john.nguyen@example.com
+Phone: +62 886452604
+SSN: 433245127
+Address: 7917 Station Rd, Apt 946, Auckland, NZ
+DOB: 05/14/1969
+
+Thanks,
+John

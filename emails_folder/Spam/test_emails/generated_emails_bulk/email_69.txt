@@ -1,0 +1,9 @@
+{
+  "subject": "Your Details",
+  "name": "Fatima Patel",
+  "email": "fatima.patel@mail.com",
+  "phone": "(956) 739-1618",
+  "ssn": "997-89-3147",
+  "address": "4856 Cedar Terrace, New York, NY",
+  "date": "07/31/1993"
+}

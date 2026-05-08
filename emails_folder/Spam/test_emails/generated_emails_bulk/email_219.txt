@@ -1,0 +1,10 @@
+From: Olga Lopez <olga.lopez@test.org>
+To: records@company.co
+Date: 09/07/1995
+Subject: Meeting
+
+Please update the record:
+Name: Olga Lopez
+Address: 1974 Pine Court, New York, NY
+Phone: (982) 754-1692
+SSN: 498569245

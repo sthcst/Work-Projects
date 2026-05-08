@@ -1,0 +1,7 @@
+subject: Meeting
+name: Olivia Thomas
+email: olivia.thomas@example.org
+phone: +69 527044165
+ssn: 539-37-9105
+address: 1536 Church Dr, Toronto, ON
+date: 02/03/1964

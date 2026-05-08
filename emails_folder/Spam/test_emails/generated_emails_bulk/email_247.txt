@@ -1,0 +1,8 @@
+subject: Meeting
+name: Wei Smith
+email: wei.smith@example.org
+phone: +90 763534625
+ssn: 576-93-1136
+address: 4195 Washington St, Paris, FR
+date: 12/22/1945
+International: 3797 Cedar Street, London, UK

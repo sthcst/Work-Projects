@@ -1,0 +1,9 @@
+{
+  "subject": "Your Details",
+  "name": "Liam Davis",
+  "email": "liam.davis@test.org",
+  "phone": "(357) 255-6911",
+  "ssn": "189-47-8869",
+  "address": "823 Victoria Terrace, New York, NY",
+  "date": "11/29/1957"
+}

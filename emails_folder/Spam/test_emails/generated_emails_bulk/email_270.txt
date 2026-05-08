@@ -1,0 +1,8 @@
+From emily.garcia@example.org Mon May  4 21:36:46 2026
+subject: Invoice
+name: Emily Garcia
+email: emily.garcia@example.org
+phone: (556) 818-3087
+ssn: 515-23-6339
+address: 7852 Church Rd, Chicago, IL
+date: November 22, 1989

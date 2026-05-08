@@ -1,0 +1,10 @@
+From: Olivia Garcia <olivia.garcia@example.org>
+To: records@company.co
+Date: October 18, 1985
+Subject: Invoice
+
+Please update the record:
+Name: Olivia Garcia
+Address: 7148 Garden Pl, Los Angeles, CA
+Phone: (605) 517-6562
+SSN: 897-31-2251

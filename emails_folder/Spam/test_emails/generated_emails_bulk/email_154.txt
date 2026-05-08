@@ -1,0 +1,7 @@
+subject: Meeting
+name: Sven Miller
+email: sven.miller@example.com
+phone: (573) 274-7120
+ssn: 810966933
+address: 9621 Elm Ave, Los Angeles, CA
+date: June 28, 1975

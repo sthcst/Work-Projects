@@ -1,0 +1,7 @@
+subject: Your Details
+name: Emma Lee
+email: emma.lee@example.org
+phone: (288) 636-7421
+ssn: 710-85-8304
+address: 485 High St, Apt 56, Los Angeles, CA
+date: 04/17/1995

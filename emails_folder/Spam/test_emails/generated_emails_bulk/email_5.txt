@@ -1,0 +1,9 @@
+{
+  "subject": "Invoice",
+  "name": "Emma Nguyen",
+  "email": "emma.nguyen@example.org",
+  "phone": "+72 678722458",
+  "ssn": "698-64-7543",
+  "address": "2350 Main Rd, Sydney, AU",
+  "date": "06/22/1972"
+}

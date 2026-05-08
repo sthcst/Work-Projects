@@ -1,0 +1,9 @@
+{
+  "subject": "Your Details",
+  "name": "Olivia Anderson",
+  "email": "olivia.anderson@company.co",
+  "phone": "(663) 769-5093",
+  "ssn": "204-27-2989",
+  "address": "4272 Washington St, Chicago, IL",
+  "date": "01/26/1941"
+}

@@ -1,0 +1,7 @@
+subject=Update Request
+name=Sarah Smith
+email=sarah.smith@example.com
+phone=519-886-3329
+ssn=721-45-1604
+address=6764 Main St, Houston, IL
+date=2026-06-08

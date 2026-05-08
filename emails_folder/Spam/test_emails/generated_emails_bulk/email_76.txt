@@ -1,0 +1,14 @@
+From sven.thomas@example.org Mon May  4 21:36:46 2026
+Subject: Your Details
+
+Hello Sven,
+
+Your details:
+Email: sven.thomas@example.org
+Phone: (244) 404-1686
+SSN: 417-75-7524
+Address: 1043 Church St, Los Angeles, CA
+DOB: 09/19/1988
+
+Thanks,
+Sven

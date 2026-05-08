@@ -1,0 +1,9 @@
+{
+  "subject": "Your Details",
+  "name": "Emma Patel",
+  "email": "emma.patel@example.org",
+  "phone": "+63 876914430",
+  "ssn": "602-68-3756",
+  "address": "8190 Market Dr, Paris, FR",
+  "date": "September 27, 2005"
+}

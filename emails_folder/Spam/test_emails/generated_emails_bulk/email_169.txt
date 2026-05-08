@@ -1,0 +1,8 @@
+From liam.taylor@example.org Mon May  4 21:36:46 2026
+subject: Invoice
+name: Liam Taylor
+email: liam.taylor@example.org
+phone: +67 985097007
+ssn: 698-23-1120
+address: 4138 Lake Court, Toronto, ON
+date: November 21, 1985

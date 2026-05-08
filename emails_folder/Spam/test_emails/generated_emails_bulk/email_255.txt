@@ -1,0 +1,8 @@
+From mia.thomas@example.com Mon May  4 21:36:46 2026
+subject: Your Details
+name: Mia Thomas
+email: mia.thomas@example.com
+phone: +42 584135007
+ssn: 564-85-4308
+address: 2955 Garden Terrace, Apt 424, Berlin, DE
+date: 10/16/1980

@@ -1,0 +1,10 @@
+From: Amir Brown <amir.brown@test.org>
+To: records@company.co
+Date: November 02, 2002
+Subject: Important
+
+Please update the record:
+Name: Amir Brown
+Address: 6368 Market Pl, New York, NY
+Phone: (482) 732-8506
+SSN: 113275526

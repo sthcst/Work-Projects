@@ -1,0 +1,10 @@
+From liam.taylor@example.org Mon May  4 21:36:46 2026
+{
+  "subject": "Invoice",
+  "name": "Liam Taylor",
+  "email": "liam.taylor@example.org",
+  "phone": "+92 338760659",
+  "ssn": "753-70-6873",
+  "address": "9562 Garden Blvd, Sydney, AU",
+  "date": "07/06/1985"
+}

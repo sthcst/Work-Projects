@@ -1,0 +1,55 @@
+file,span,likely_tp,has_digit,has_street,has_postal,has_apt
+email_1.txt,"1774 Maple Pl, Sydney, AU",True,True,True,False,False
+email_1.txt,"1774 Maple Pl, Sydney, AU",True,True,True,False,False
+email_1.txt,"1774 Maple Pl, Sydney, AU",True,True,True,False,False
+email_1.txt,"1774 Maple Pl, Sydney, AU",True,True,True,False,False
+email_10.txt,"2026
+Subject",True,True,False,False,False
+email_10.txt,"7520 Washington Pl, Chicago, IL",True,True,True,False,False
+email_10.txt,"7520 Washington Pl, Chicago, IL",True,True,True,False,False
+email_10.txt,"7520 Washington Pl, Chicago, IL",True,True,True,False,False
+email_10.txt,"7520 Washington Pl, Chicago, IL",True,True,True,False,False
+email_10.txt,"7520 Washington Pl, Chicago, IL",True,True,True,False,False
+email_100.txt,"2026
+Subject",True,True,False,False,False
+email_100.txt,"9525 Pine Road, London, UK",True,True,True,False,False
+email_100.txt,"9525 Pine Road, London, UK",True,True,True,False,False
+email_100.txt,"9525 Pine Road, London, UK",True,True,True,False,False
+email_100.txt,"9525 Pine Road, London, UK",True,True,True,False,False
+email_100.txt,"9525 Pine Road, London, UK",True,True,True,False,False
+email_100.txt,"9525 Pine Road, London, UK",True,True,True,False,False
+email_100.txt,"9525 Pine Road, London, UK",True,True,True,False,False
+email_100.txt,"9525 Pine Road, London, UK",True,True,True,False,False
+email_100.txt,"9525 Pine Road, London, UK",True,True,True,False,False
+email_100.txt,"9525 Pine Road, London, UK",True,True,True,False,False
+email_100.txt,"9525 Pine Road, London, UK",True,True,True,False,False
+email_11.txt,"1301 Queen Street, London, UK",True,True,True,False,False
+email_11.txt,"1301 Queen Street, London, UK",True,True,True,False,False
+email_11.txt,"1301 Queen Street, London, UK",True,True,True,False,False
+email_11.txt,"1301 Queen Street, London, UK",True,True,True,False,False
+email_11.txt,"1301 Queen Street, London, UK",True,True,True,False,False
+email_12.txt,"2026
+Subject",True,True,False,False,False
+email_12.txt,"1549 High Terrace, Berlin, DE",True,True,True,False,False
+email_12.txt,"1549 High Terrace, Berlin, DE",True,True,True,False,False
+email_13.txt,"5844 Garden Ln, Sydney, AU",True,True,True,False,False
+email_13.txt,"5844 Garden Ln, Sydney, AU",True,True,True,False,False
+email_13.txt,"5844 Garden Ln, Sydney, AU",True,True,True,False,False
+email_14.txt,"2026
+Subject",True,True,False,False,False
+email_14.txt,"660 Lake Blvd, Paris, FR",True,True,True,False,False
+email_14.txt,"660 Lake Blvd, Paris, FR",True,True,True,False,False
+email_14.txt,"660 Lake Blvd, Paris, FR",True,True,True,False,False
+email_14.txt,"660 Lake Blvd, Paris, FR",True,True,True,False,False
+email_14.txt,"660 Lake Blvd, Paris, FR",True,True,True,False,False
+email_15.txt,"6706 Main Dr, Auckland, NZ",True,True,True,False,False
+email_15.txt,"6706 Main Dr, Auckland, NZ",True,True,True,False,False
+email_15.txt,"6706 Main Dr, Auckland, NZ",True,True,True,False,False
+email_15.txt,"6706 Main Dr, Auckland, NZ",True,True,True,False,False
+email_16.txt,"8331 High Terrace, Paris, FR",True,True,True,False,False
+email_16.txt,"8331 High Terrace, Paris, FR",True,True,True,False,False
+email_16.txt,"8331 High Terrace, Paris, FR",True,True,True,False,False
+email_16.txt,"8331 High Terrace, Paris, FR",True,True,True,False,False
+email_16.txt,"8331 High Terrace, Paris, FR",True,True,True,False,False
+email_16.txt,"8331 High Terrace, Paris, FR",True,True,True,False,False
+email_16.txt,"8331 High Terrace, Paris, FR",True,True,True,False,False

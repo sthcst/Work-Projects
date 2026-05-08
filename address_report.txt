@@ -1,0 +1,13 @@
+Address detection & redaction report
+Input folder: emails_folder/Spam/test_emails/generated_emails_bulk_long
+
+ADDRESS_LABEL_matches: 0
+ADDRESS_LOOSE_matches: 838
+ADDRESS_matches: 783
+APT_matches: 135
+POSTAL_CODE_matches: 0
+address_replacements: 664
+email_replacements: 767
+files_processed: 100
+person_replacements: 925
+phone_replacements: 927

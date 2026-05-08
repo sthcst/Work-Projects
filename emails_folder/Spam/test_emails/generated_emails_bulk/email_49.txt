@@ -1,0 +1,7 @@
+subject: Meeting
+name: Noah Miller
+email: noah.miller@example.com
+phone: +72 492747974
+ssn: 504-11-5332
+address: 2316 Hill Pl, Auckland, NZ
+date: 02/20/1988

@@ -1,0 +1,10 @@
+From noah.garcia@example.org Mon May  4 21:36:46 2026
+{
+  "subject": "Your Details",
+  "name": "Noah Garcia",
+  "email": "noah.garcia@example.org",
+  "phone": "+28 716019237",
+  "ssn": "864-97-4115",
+  "address": "9095 Washington Court, Toronto, ON",
+  "date": "October 07, 1984"
+}

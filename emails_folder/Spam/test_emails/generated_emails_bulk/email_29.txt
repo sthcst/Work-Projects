@@ -1,0 +1,10 @@
+From: Emma Smith <emma.smith@example.org>
+To: records@company.co
+Date: March 25, 1964
+Subject: Important
+
+Please update the record:
+Name: Emma Smith
+Address: 7112 Queen Court, Auckland, NZ
+Phone: +56 289125618
+SSN: 798423334

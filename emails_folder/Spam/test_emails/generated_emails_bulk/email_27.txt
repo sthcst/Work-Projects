@@ -1,0 +1,10 @@
+From: Olga Garcia <olga.garcia@example.com>
+To: records@company.co
+Date: 02/03/1973
+Subject: Verification
+
+Please update the record:
+Name: Olga Garcia
+Address: 3276 Oak Rd, Los Angeles, CA
+Phone: (684) 885-2874
+SSN: 323-69-5198

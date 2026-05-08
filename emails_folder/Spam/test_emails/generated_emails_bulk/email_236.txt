@@ -1,0 +1,14 @@
+From carlos.lee@example.org Mon May  4 21:36:46 2026
+Subject: Your Details
+
+Hello Carlos,
+
+Your details:
+Email: carlos.lee@example.org
+Phone: (856) 529-2809
+SSN: 774-18-1717
+Address: 9045 Elm Ln, Houston, TX
+DOB: 08/23/1951
+
+Thanks,
+Carlos

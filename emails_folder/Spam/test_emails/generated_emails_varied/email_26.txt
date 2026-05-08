@@ -1,0 +1,7 @@
+subject: YAML Format
+name: Michael Brown
+email: michael.brown@example.com
+phone: 597-400-4182
+ssn: 103-62-7056
+address: 1785 Pine Rd, Los Angeles, NY
+date: 2026-07-18

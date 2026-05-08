@@ -1,0 +1,7 @@
+subject: Important
+name: Emily Garcia
+email: emily.garcia@example.com
+phone: +4 634764290
+ssn: 685809361
+address: 3463 Garden Pl, Paris, FR
+date: December 26, 1965

@@ -1,0 +1,10 @@
+From mia.lopez@example.com Mon May  4 21:36:46 2026
+{
+  "subject": "Important",
+  "name": "Mia Lopez",
+  "email": "mia.lopez@example.com",
+  "phone": "(944) 823-9647",
+  "ssn": "894-46-4893",
+  "address": "4203 Lake Rd, New York, NY",
+  "date": "01/07/1967"
+}

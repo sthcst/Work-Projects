@@ -1,0 +1,9 @@
+{
+  "subject": "Meeting",
+  "name": "Isabella Brown",
+  "email": "isabella.brown@test.org",
+  "phone": "(512) 698-2783",
+  "ssn": "721-20-5597",
+  "address": "7873 Church Court, Chicago, IL",
+  "date": "July 23, 1952"
+}

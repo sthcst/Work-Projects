@@ -1,0 +1,7 @@
+subject: Your Details
+name: Olivia Davis
+email: olivia.davis@example.org
+phone: (536) 330-9624
+ssn: 786-64-9331
+address: 5082 Market Pl, New York, NY
+date: 06/17/1972

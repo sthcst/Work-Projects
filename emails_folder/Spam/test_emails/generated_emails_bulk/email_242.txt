@@ -1,0 +1,7 @@
+subject: Meeting
+name: Sophia Perez
+email: sophia.perez@mail.com
+phone: (906) 919-2562
+ssn: 407-14-7251
+address: 7915 Washington Court, Chicago, IL
+date: January 15, 1947

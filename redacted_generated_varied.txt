@@ -1,0 +1,398 @@
+
+--- EMAIL START ---
+SOURCE: email_6.txt
+[[DOB]6] USER=[PERSON]]
+[[DOB]6] PHONE=[PHONE] SSN=[SSN]
+[[DOB]7] ADDRESS="9637 Oak Ave, Houston, NY"
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_7.txt
+From: [PERSON] <[EMAIL]>
+To: [EMAIL]
+Date: [DOB]7
+Subject: [PERSON]
+
+Hi,
+
+My phone is [PHONE] and SSN is [SSN].
+
+Thanks,
+[PERSON]
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_5.txt
+{
+  "subject": "Verification",
+  "name": "[PERSON]",
+  "email": "[EMAIL]",
+  "phone": "[PHONE]",
+  "ssn": "[SSN]",
+  "address": "1120 [PERSON], New York, TX",
+  "date": "[DOB]1"
+}
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_4.txt
+From: [PERSON] <[EMAIL]>
+To: [EMAIL]
+Date: [DOB]3
+Subject: [PERSON]
+
+Hi,
+
+My phone is [PHONE] and SSN is [SSN].
+
+Thanks,
+[PERSON]
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_1.txt
+{
+  "subject": "Verification",
+  "name": "[PERSON]",
+  "email": "[EMAIL]",
+  "phone": "[PHONE]",
+  "ssn": "[SSN]",
+  "address": "6657 Maple Dr, Houston, TX",
+  "date": "[DOB]4"
+}
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_3.txt
+{
+  "subject": "Verification",
+  "name": "[PERSON]",
+  "email": "[EMAIL]",
+  "phone": "[PHONE]",
+  "ssn": "[SSN]",
+  "address": "9293 Pine Rd, Los Angeles, NY",
+  "date": "[DOB]7"
+}
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_2.txt
+subject=[PERSON]
+name=[PERSON]
+email=[EMAIL]
+phone=[PHONE]
+ssn=[SSN]
+address=6764 [PERSON], Houston, IL
+date=[DOB]
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_20.txt
+From: [PERSON] <[EMAIL]>
+To: [EMAIL]
+Date: [DOB]
+Subject: [PERSON]
+
+Hi,
+
+My phone is [PHONE] and SSN is [SSN].
+
+Thanks,
+[PERSON]
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_21.txt
+name,email,phone,ssn,address,date
+[PERSON] Brown,[EMAIL],[PHONE],[SSN],5376 Maple Dr, Chicago, CA,[DOB]4
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_23.txt
+[PERSON]:
+- Name: [PERSON]: [EMAIL]
+- Phone: [PHONE]
+- SSN: [SSN]
+- Address: 9517 [PERSON], New York, IL
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_22.txt
+From: [PERSON] <[EMAIL]>
+To: [EMAIL]
+Date: [DOB]
+Subject: [PERSON]
+
+Hi,
+
+My phone is [PHONE] and SSN is [SSN].
+
+Thanks,
+[PERSON]
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_26.txt
+subject: YAML [PERSON]
+name: [PERSON]
+email: [EMAIL]
+phone: [PHONE]
+ssn: [SSN]
+address: 1785 Pine Rd, Los Angeles, NY
+date: [DOB]8
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_27.txt
+{
+  "subject": "Verification",
+  "name": "[PERSON]",
+  "email": "[EMAIL]",
+  "phone": "[PHONE]",
+  "ssn": "[SSN]",
+  "address": "6182 [PERSON], Houston, TX",
+  "date": "[DOB]"
+}
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_19.txt
+name,email,phone,ssn,address,date
+[PERSON] Doe,[EMAIL],[PHONE],[SSN],6333 [PERSON], Houston, NY,[DOB]
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_25.txt
+[PERSON] reached out on [DOB]3 saying their email is [EMAIL] and phone number is [PHONE]. They also mentioned their SSN as [SSN] and currently live at 7289 Pine Rd, Houston, NY. Please follow up.
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_24.txt
+[[DOB]0] USER=[PERSON]]
+[[DOB]2] PHONE=[PHONE] SSN=[SSN]
+[[DOB]] ADDRESS="4199 Maple Dr, Chicago, IL"
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_30.txt
+*** RANDOM EMAIL ***
+NAME>>> [PERSON]??? [EMAIL]
+CALL@@@ [PHONE]
+SSN### [SSN]
+ADDR::: 7596 Oak Ave, Houston, NY
+DATE===[DOB]
+---END---
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_18.txt
+{
+  "subject": "Verification",
+  "name": "[PERSON]",
+  "email": "[EMAIL]",
+  "phone": "[PHONE]",
+  "ssn": "[SSN]",
+  "address": "3050 [PERSON], Chicago, CA",
+  "date": "[DOB]8"
+}
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_15.txt
+Subject: [PERSON]
+
+Hello [PERSON] [PERSON],
+
+Your details:
+Email: [EMAIL]
+Phone: [PHONE]
+SSN: [SSN]
+Address: 6985 Oak Ave, New York, NY
+
+Thanks.
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_29.txt
+[PERSON] reached out on [DOB]6 saying their email is [EMAIL] and phone number is [PHONE]. They also mentioned their SSN as [SSN] and currently live at 3161 Oak Ave, Chicago, CA. Please follow up.
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_28.txt
+Subject: [PERSON]
+
+Hello [PERSON] Doe,
+
+Your details:
+Email: [EMAIL]
+Phone: [PHONE]
+SSN: [SSN]
+Address: 7613 Oak Ave, New York, TX
+
+Thanks.
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_14.txt
+Subject: [PERSON]
+
+Hello [PERSON] [PERSON],
+
+Your details:
+Email: [EMAIL]
+Phone: [PHONE]
+SSN: [SSN]
+Address: 2173 Pine Rd, Los Angeles, IL
+
+Thanks.
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_16.txt
+Subject: [PERSON]
+
+Hello [PERSON] [PERSON],
+
+Your details:
+Email: [EMAIL]
+Phone: [PHONE]
+SSN: [SSN]
+Address: 8914 [PERSON], New York, TX
+
+Thanks.
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_17.txt
+[PERSON]:
+- Name: Emily Doe
+- Email: [EMAIL]
+- Phone: [PHONE]
+- SSN: [SSN]
+- Address: 3546 [PERSON], Los Angeles, IL
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_13.txt
+subject: YAML [PERSON]
+name: [PERSON]
+email: [EMAIL]
+phone: [PHONE]
+ssn: [SSN]
+address: [PERSON], Chicago, CA
+date: [DOB]0
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_12.txt
+subject=[PERSON]
+name=[PERSON]
+email=[EMAIL]
+phone=[PHONE]
+ssn=[SSN]
+address=2925 [PERSON], New York, CA
+date=[DOB]5
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_10.txt
+From: [PERSON] <[EMAIL]>
+To: [EMAIL]
+Date: [DOB]5
+Subject: [PERSON]
+
+Hi,
+
+My phone is [PHONE] and SSN is [SSN].
+
+Thanks,
+[PERSON]
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_11.txt
+[PERSON] reached out on [DOB]7 saying their email is [EMAIL] and phone number is [PHONE]. They also mentioned their SSN as [SSN] and currently live at 3474 Oak Ave, Houston, TX. Please follow up.
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_9.txt
+*** RANDOM EMAIL ***
+NAME>>> [PERSON]
+EMAIL??? [EMAIL]
+CALL@@@ [PHONE]
+SSN### [SSN]
+ADDR::: 283 Main St, Chicago, TX
+DATE===[DOB]8
+---END---
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_8.txt
+[[DOB]2] USER=[PERSON]]
+[[DOB]4] PHONE=[PHONE] SSN=[SSN]
+[[DOB]] ADDRESS="1816 Oak Ave, Chicago, TX"
+
+--- EMAIL END ---
+
+
+=== AGGREGATED REDACTION STATS ===
+DOB_REPLACED: 30
+EMAIL_REPLACED: 35
+FALLBACK_MULTI_REPLACED: 10
+NER_PERSON_REPLACED: 43
+PHONE_REPLACED: 30
+SIGNOFF_PERSON_REPLACED: 5
+SSN_REPLACED: 30

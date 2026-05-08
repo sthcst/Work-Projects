@@ -1,0 +1,11 @@
+From liam.nguyen@example.com Mon May  4 21:36:46 2026
+From: Liam Nguyen <liam.nguyen@example.com>
+To: records@company.co
+Date: February 26, 1946
+Subject: Your Details
+
+Please update the record:
+Name: Liam Nguyen
+Address: 3485 River St, Apt 342, Auckland, NZ
+Phone: +32 235209737
+SSN: 320337809

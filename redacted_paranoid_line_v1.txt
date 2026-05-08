@@ -1,0 +1,814 @@
+
+--- EMAIL START ---
+SOURCE: email_94.txt
+[PERSON]
+
+[PHONE]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_80.txt
+[ADDRESS]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_6.txt
+[EMAIL]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_57.txt
+[EMAIL]r records show the following entry for your account. This is a follow-up regarding your recent submission. If any of the data is incorrect, reply to this message with updates. This is a follow-up regarding your recent submission. Our records show the following entry for your account.
+
+[ADDRESS]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_43.txt
+[PERSON]
+
+[SSN]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_42.txt
+[ADDRESS]eed. We need to verify the following information to proceed. Please confirm the details below when you have a moment.
+
+[DOB]
+
+[ADDRESS]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_56.txt
+[EMAIL]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_7.txt
+[PERSON]
+
+[SSN]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_81.txt
+[PERSON] [PHONE]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_95.txt
+[PERSON]
+
+[SSN]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_83.txt
+[PERSON]
+
+[EMAIL]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_97.txt
+[PERSON]
+
+[PHONE]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_5.txt
+[PERSON]
+
+[DOB]to this message with updates. Our records show the following entry for your account.
+
+[ADDRESS]
+
+[DOB]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_40.txt
+[PERSON]
+
+[PHONE]
+
+[DOB]
+
+[PHONE]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_54.txt
+[PERSON]
+
+[DOB]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_68.txt
+[EMAIL]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_69.txt
+[PERSON]
+
+[PHONE]This is a follow-up regarding your recent submission. We need to verify the following information to proceed. Please confirm the details below when you have a moment.
+
+[EMAIL]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_55.txt
+[EMAIL]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_41.txt
+[PERSON]
+
+[EMAIL]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_4.txt
+[PERSON]
+
+[ADDRESS]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_96.txt
+[PERSON] [DOB]
+
+[PHONE]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_82.txt
+[PERSON]
+
+[PHONE]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_100.txt
+[ADDRESS]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_86.txt
+[EMAIL]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_92.txt
+[EMAIL]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_79.txt
+[PERSON]
+
+[PHONE]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_45.txt
+[PERSON]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_51.txt
+[PERSON]
+
+[PHONE]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_50.txt
+[PERSON]
+
+[PHONE]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_44.txt
+[PERSON]
+
+[ADDRESS]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_78.txt
+[PERSON]
+
+If any of the data is incorrect, reply to this message with updates. Please confirm the details below when you have a moment. Our records show the following entry for your account. Our records show the following entry for your account. This is a follow-up regarding your recent submission. If any of the data is incorrect, reply to this message with updates. This is a follow-up regarding your recent submission.
+
+[PHONE]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_93.txt
+[EMAIL]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_87.txt
+[PERSON]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_1.txt
+[PERSON]
+
+[EMAIL]
+
+We need to verify the following information to proceed. If any of the data is incorrect, reply to this message with updates. Our records show the following entry for your account. We need to verify the following information to proceed.
+
+[PERSON]
+
+[PHONE]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_3.txt
+[EMAIL]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_91.txt
+[EMAIL]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_85.txt
+[PERSON]
+
+[PHONE]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_52.txt
+[PERSON]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_46.txt
+[PERSON]
+
+[DOB]recent submission. If any of the data is incorrect, reply to this message with updates. Our records show the following entry for your account. If any of the data is incorrect, reply to this message with updates. Our records show the following entry for your account. Please confirm the details below when you have a moment. Please confirm the details below when you have a moment. This is a follow-up regarding your recent submission. If any of the data is incorrect, reply to this message with updates. Our records show the following entry for your account.
+
+[DOB]
+
+We need to verify the following information to proceed. We need to verify the following information to proceed. If any of the data is incorrect, reply to this message with updates. This is a follow-up regarding your recent submission. This is a follow-up regarding your recent submission. If any of the data is incorrect, reply to this message with updates. This is a follow-up regarding your recent submission. This is a follow-up regarding your recent submission.
+
+[PERSON]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_47.txt
+[PERSON] [SSN]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_53.txt
+[PERSON]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_84.txt
+[EMAIL]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_90.txt
+[PERSON]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_2.txt
+[ADDRESS]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_34.txt
+[PERSON]
+
+[DOB]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_20.txt
+[PERSON]
+
+We need to verify the following information to proceed. We need to verify the following information to proceed. Please confirm the details below when you have a moment. This is a follow-up regarding your recent submission.
+
+[PERSON]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_21.txt
+[EMAIL]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_35.txt
+[PERSON]
+
+[ADDRESS]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_23.txt
+[EMAIL]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_37.txt
+[PERSON]
+
+If any of the data is incorrect, reply to this message with updates. Please confirm the details below when you have a moment. If any of the data is incorrect, reply to this message with updates. Our records show the following entry for your account.
+
+[ADDRESS]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_36.txt
+[PERSON]
+
+[PHONE]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_22.txt
+[PERSON]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_26.txt
+[PERSON]
+
+[EMAIL]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_32.txt
+[PERSON]
+
+[EMAIL]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_33.txt
+[PERSON]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_27.txt
+[EMAIL]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_19.txt
+[PERSON]
+
+[SSN]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_31.txt
+[PERSON]
+
+[DOB]
+
+[SSN]
+
+[PHONE] to this message with updates. Our records show the following entry for your account. Our records show the following entry for your account. We need to verify the following information to proceed.
+
+This is a follow-up regarding your recent submission. We need to verify the following information to proceed. This is a follow-up regarding your recent submission. Please confirm the details below when you have a moment. Please confirm the details below when you have a moment. We need to verify the following information to proceed. Please confirm the details below when you have a moment. This is a follow-up regarding your recent submission. Please confirm the details below when you have a moment. This is a follow-up regarding your recent submission.
+
+[SSN]
+
+[PHONE]
+
+[PERSON]
+
+[DOB]
+
+[SSN]
+
+[PERSON]
+
+[PHONE]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_25.txt
+[PERSON]
+
+[PHONE]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_24.txt
+[PERSON]
+
+[PHONE]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_30.txt
+[PERSON]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_18.txt
+[PERSON]
+
+[SSN]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_15.txt
+[PERSON]
+
+[EMAIL]
+
+[ADDRESS]
+
+[PERSON]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_29.txt
+[PERSON]
+
+[ADDRESS]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_28.txt
+[PERSON]
+
+[ADDRESS]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_14.txt
+[EMAIL]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_16.txt
+[PERSON]
+
+[ADDRESS]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_17.txt
+[EMAIL]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_13.txt
+[PERSON]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_12.txt
+[ADDRESS]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_38.txt
+[PERSON]
+
+[PHONE]
+
+[SSN]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_10.txt
+[PERSON]rrect, reply to this message with updates. Please confirm the details below when you have a moment. If any of the data is incorrect, reply to this message with updates.
+
+Our records show the following entry for your account. We need to verify the following information to proceed. This is a follow-up regarding your recent submission. We need to verify the following information to proceed. This is a follow-up regarding your recent submission. If any of the data is incorrect, reply to this message with updates. We need to verify the following information to proceed. We need to verify the following information to proceed. We need to verify the following information to proceed. If any of the data is incorrect, reply to this message with updates.
+
+[PHONE]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_11.txt
+[PERSON]
+
+[DOB]
+
+[SSN]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_39.txt
+[PERSON]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_89.txt
+[PERSON]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_76.txt
+[PERSON]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_62.txt
+[PERSON]
+
+This is a follow-up regarding your recent submission. We need to verify the following information to proceed. If any of the data is incorrect, reply to this message with updates. This is a follow-up regarding your recent submission.
+
+[EMAIL]records show the following entry for your account.
+
+[PERSON]
+
+This is a follow-up regarding your recent submission. This is a follow-up regarding your recent submission. We need to verify the following information to proceed. This is a follow-up regarding your recent submission. Our records show the following entry for your account. This is a follow-up regarding your recent submission.
+
+Our records show the following entry for your account. Our records show the following entry for your account. This is a follow-up regarding your recent submission. This is a follow-up regarding your recent submission. We need to verify the following information to proceed.
+
+[PERSON]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_63.txt
+[PERSON]
+
+[DOB]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_77.txt
+[EMAIL]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_88.txt
+[PERSON]
+
+[EMAIL]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_61.txt
+[PERSON]
+
+[EMAIL]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_75.txt
+[PERSON]
+
+[DOB]
+
+[PERSON]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_49.txt
+[PERSON]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_48.txt
+[EMAIL]age with updates. This is a follow-up regarding your recent submission. We need to verify the following information to proceed. We need to verify the following information to proceed. Our records show the following entry for your account. Our records show the following entry for your account.
+
+[ADDRESS]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_74.txt
+[PERSON]
+
+[SSN]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_60.txt
+[PERSON]
+
+[ADDRESS]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_9.txt
+[ADDRESS]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_58.txt
+[PERSON]
+
+[PHONE]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_64.txt
+[PERSON]
+
+[EMAIL]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_70.txt
+[PERSON]
+
+[SSN]
+
+[PERSON]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_71.txt
+[PERSON]
+
+[EMAIL]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_65.txt
+[PERSON] [EMAIL]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_59.txt
+[PERSON]
+
+[SSN]
+
+[PHONE]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_8.txt
+[PERSON]
+
+[PHONE]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_98.txt
+[PERSON]
+
+[DOB]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_73.txt
+[PERSON]
+
+If any of the data is incorrect, reply to this message with updates. If any of the data is incorrect, reply to this message with updates. We need to verify the following information to proceed. Please confirm the details below when you have a moment. Please confirm the details below when you have a moment.
+
+[PERSON]ceed. Please confirm the details below when you have a moment.
+
+[PERSON]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_67.txt
+[ADDRESS]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_66.txt
+[PERSON]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_72.txt
+[PERSON]
+
+[PHONE]
+
+If any of the data is incorrect, reply to this message with updates. This is a follow-up regarding your recent submission. Please confirm the details below when you have a moment. We need to verify the following information to proceed. If any of the data is incorrect, reply to this message with updates. If any of the data is incorrect, reply to this message with updates. Our records show the following entry for your account.
+
+[DOB] following information to proceed. This is a follow-up regarding your recent submission. We need to verify the following information to proceed.
+
+[ADDRESS]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_99.txt
+[PERSON]
+--- EMAIL END ---
+
+
+=== AGGREGATED REDACTION STATS ===
+ADDRESS_REPLACED: 21
+DOB_REPLACED: 16
+EMAIL_REPLACED: 31
+PERSON_REPLACED: 87
+PHONE_REPLACED: 26
+SSN_REPLACED: 14

@@ -1,0 +1,9 @@
+{
+  "subject": "Your Details",
+  "name": "Emma Patel",
+  "email": "emma.patel@example.org",
+  "phone": "(593) 830-7850",
+  "ssn": "986-30-6364",
+  "address": "7376 Hill Rd, Apt 298, Chicago, IL",
+  "date": "October 29, 1991"
+}

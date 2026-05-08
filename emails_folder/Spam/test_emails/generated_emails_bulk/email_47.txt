@@ -1,0 +1,7 @@
+subject: Your Details
+name: Sophia Brown
+email: sophia.brown@example.com
+phone: +30 751831074
+ssn: 335154329
+address: 9945 High Ln, Paris, FR
+date: 02/10/1997

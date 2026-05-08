@@ -1,0 +1,8 @@
+From sven.garcia@example.org Mon May  4 21:36:46 2026
+subject: Invoice
+name: Sven Garcia
+email: sven.garcia@example.org
+phone: +26 513061224
+ssn: 214518079
+address: 6961 Main Court, Toronto, ON
+date: 04/12/1961

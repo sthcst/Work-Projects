@@ -1,0 +1,11 @@
+From emily.martin@example.com Mon May  4 21:36:46 2026
+From: Emily Martin <emily.martin@example.com>
+To: records@company.co
+Date: 03/19/1975
+Subject: Meeting
+
+Please update the record:
+Name: Emily Martin
+Address: 9677 Lake St, Paris, FR
+Phone: +70 679473892
+SSN: 893-29-6993

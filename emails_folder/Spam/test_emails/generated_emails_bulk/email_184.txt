@@ -1,0 +1,10 @@
+From: Priya Thomas <priya.thomas@example.com>
+To: records@company.co
+Date: January 06, 1940
+Subject: Invoice
+
+Please update the record:
+Name: Priya Thomas
+Address: 5188 Cedar Court, Auckland, NZ
+Phone: +3 210212429
+SSN: 136-81-9996

@@ -1,0 +1,8 @@
+From wei.moore@example.com Mon May  4 21:36:46 2026
+subject: Meeting
+name: Wei Moore
+email: wei.moore@example.com
+phone: (667) 215-3361
+ssn: 770-29-2225
+address: 1654 Church Ave, Chicago, IL
+date: February 13, 1982

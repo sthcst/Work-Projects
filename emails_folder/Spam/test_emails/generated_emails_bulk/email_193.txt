@@ -1,0 +1,8 @@
+From priya.brown@example.com Mon May  4 21:36:46 2026
+subject: Important
+name: Priya Brown
+email: priya.brown@example.com
+phone: +77 154605613
+ssn: 771482340
+address: 2546 Maple Rd, Toronto, ON
+date: March 25, 1995

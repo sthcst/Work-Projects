@@ -1,0 +1,11 @@
+From john.anderson@example.org Mon May  4 21:36:46 2026
+From: John Anderson <john.anderson@example.org>
+To: records@company.co
+Date: 06/21/1957
+Subject: Invoice
+
+Please update the record:
+Name: John Anderson
+Address: 9798 Maple Rd, Paris, FR
+Phone: +57 111500207
+SSN: 772-76-5685

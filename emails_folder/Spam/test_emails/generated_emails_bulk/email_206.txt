@@ -1,0 +1,8 @@
+From lucas.lopez@example.com Mon May  4 21:36:46 2026
+subject: Verification
+name: Lucas Lopez
+email: lucas.lopez@example.com
+phone: +36 327114760
+ssn: 261-56-2938
+address: 7217 Washington Blvd, Apt 659, Berlin, DE
+date: 04/24/1999

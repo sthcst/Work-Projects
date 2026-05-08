@@ -1,0 +1,23 @@
+Sample of redacted lines (up to 20)
+Format: source_file | line_number | labels | redacted_line
+
+email_1.txt | 3 | PERSON | [PERSON]
+email_1.txt | 5 | EMAIL | [EMAIL]
+email_1.txt | 9 | PERSON | [PERSON]
+email_1.txt | 11 | DOB;PHONE;SSN | [DOB] [PHONE] [SSN]
+email_1.txt | 13 | DOB;EMAIL;PHONE;SSN | [DOB] [EMAIL] [PHONE] [SSN]
+email_1.txt | 15 | PERSON;PHONE;SSN | [PERSON] [PHONE] [SSN]
+email_1.txt | 17 | PHONE;SSN | [PHONE] [SSN]
+email_1.txt | 19 | DOB;PHONE;SSN | [DOB] [PHONE] [SSN]
+email_1.txt | 21 | DOB;PHONE;SSN | [DOB] [PHONE] [SSN]
+email_1.txt | 23 | EMAIL | [EMAIL]
+email_1.txt | 25 | PHONE;SSN | [PHONE] [SSN]
+email_1.txt | 27 | ADDRESS;DOB;PERSON | [ADDRESS] [DOB] [PERSON]
+email_1.txt | 29 | ADDRESS;PERSON | [ADDRESS] [PERSON]
+email_1.txt | 33 | ADDRESS;DOB;PERSON;PHONE;SSN | [ADDRESS] [DOB] [PERSON] [PHONE] [SSN]
+email_1.txt | 37 | ADDRESS;PERSON | [ADDRESS] [PERSON]
+email_1.txt | 39 | EMAIL;PERSON;PHONE;SSN | [EMAIL] [PERSON] [PHONE] [SSN]
+email_1.txt | 41 | PHONE;SSN | [PHONE] [SSN]
+email_1.txt | 45 | EMAIL;PHONE;SSN | [EMAIL] [PHONE] [SSN]
+email_1.txt | 47 | DOB;EMAIL | [DOB] [EMAIL]
+email_1.txt | 49 | PERSON | [PERSON]

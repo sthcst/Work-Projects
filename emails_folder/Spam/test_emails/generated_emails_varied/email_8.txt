@@ -1,0 +1,3 @@
+[2026-02-22] USER=Sarah Davis EMAIL=sarah.davis@example.com
+[2026-05-24] PHONE=258-652-9502 SSN=432-63-5603
+[2026-05-03] ADDRESS="1816 Oak Ave, Chicago, TX"

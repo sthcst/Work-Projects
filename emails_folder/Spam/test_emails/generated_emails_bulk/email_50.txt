@@ -1,0 +1,9 @@
+{
+  "subject": "Invoice",
+  "name": "Aisha Patel",
+  "email": "aisha.patel@example.org",
+  "phone": "(509) 864-7689",
+  "ssn": "146-14-5986",
+  "address": "3636 Pine Court, Chicago, IL",
+  "date": "03/12/1984"
+}

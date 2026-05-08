@@ -1,0 +1,13 @@
+Subject: Your Details
+
+Hello Sophia,
+
+Your details:
+Email: sophia.smith@test.org
+Phone: +22 835852444
+SSN: 242-44-5933
+Address: 1397 Market Blvd, Sydney, AU
+DOB: 01/30/1964
+
+Thanks,
+Sophia

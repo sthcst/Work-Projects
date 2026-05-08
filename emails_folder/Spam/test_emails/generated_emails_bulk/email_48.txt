@@ -1,0 +1,7 @@
+subject: Your Details
+name: Noah Thomas
+email: noah.thomas@example.com
+phone: +54 288592093
+ssn: 905-79-6994
+address: 2163 Pine Ln, Paris, FR
+date: August 16, 1987

@@ -1,0 +1,7 @@
+subject: YAML Format
+name: Jane Brown
+email: jane.brown@test.org
+phone: 457-416-9358
+ssn: 443-18-8835
+address: 8089 Maple Dr, Chicago, CA
+date: 2026-03-30

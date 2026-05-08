@@ -1,0 +1,7 @@
+subject: Your Details
+name: Aisha Moore
+email: aisha.moore@example.com
+phone: +84 420824516
+ssn: 629-40-1930
+address: 5337 Main Ln, Toronto, ON
+date: 10/30/1993

@@ -1,0 +1,9 @@
+{
+  "subject": "Your Details",
+  "name": "Noah Thomas",
+  "email": "noah.thomas@company.co",
+  "phone": "+63 485742696",
+  "ssn": "277042316",
+  "address": "7115 Elm Dr, Paris, FR",
+  "date": "03/10/1976"
+}International: 2027 Main Way, London, UK

@@ -1,0 +1,14 @@
+From mia.lee@example.org Mon May  4 21:36:46 2026
+Subject: Meeting
+
+Hello Mia,
+
+Your details:
+Email: mia.lee@example.org
+Phone: +48 725464884
+SSN: 540-26-1685
+Address: 1842 Pine Rd, Berlin, DE
+DOB: 08/28/1967
+
+Thanks,
+Mia

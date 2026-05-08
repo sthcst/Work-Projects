@@ -1,0 +1,14 @@
+From hiro.taylor@company.co Mon May  4 21:36:46 2026
+Subject: Your Details
+
+Hello Hiro,
+
+Your details:
+Email: hiro.taylor@company.co
+Phone: +93 921938559
+SSN: 928-94-7868
+Address: 4065 Church Dr, Apt 194, Sydney, AU
+DOB: March 02, 1995
+
+Thanks,
+Hiro

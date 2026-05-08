@@ -1,0 +1,9 @@
+From john.wilson@mail.com Mon May  4 21:36:46 2026
+subject: Your Details
+name: John Wilson
+email: john.wilson@mail.com
+phone: +72 946711815
+ssn: 455-66-4161
+address: 2071 High Blvd, Berlin, DE
+date: November 30, 1941
+International: 9169 Lake Way, London, UK

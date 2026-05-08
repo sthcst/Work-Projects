@@ -1,0 +1,9 @@
+{
+  "subject": "Invoice",
+  "name": "Lucas Garcia",
+  "email": "lucas.garcia@example.com",
+  "phone": "(991) 687-3079",
+  "ssn": "755-44-9570",
+  "address": "1470 Garden Ln, Los Angeles, CA",
+  "date": "05/29/1980"
+}

@@ -1,0 +1,7 @@
+subject: Important
+name: Liam Lee
+email: liam.lee@mail.com
+phone: +40 551478978
+ssn: 455749066
+address: 3651 Queen Blvd, Toronto, ON
+date: 05/06/1973

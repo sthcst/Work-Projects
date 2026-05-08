@@ -1,0 +1,11 @@
+From priya.moore@example.com Mon May  4 21:36:46 2026
+From: Priya Moore <priya.moore@example.com>
+To: records@company.co
+Date: 09/02/1993
+Subject: Important
+
+Please update the record:
+Name: Priya Moore
+Address: 5340 Market Ave, Paris, FR
+Phone: +23 430750834
+SSN: 174740628

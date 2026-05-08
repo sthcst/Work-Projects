@@ -1,0 +1,9 @@
+{
+  "subject": "Your Details",
+  "name": "John Thomas",
+  "email": "john.thomas@company.co",
+  "phone": "(233) 660-5305",
+  "ssn": "936-21-8193",
+  "address": "1687 Hill Ln, Houston, TX",
+  "date": "July 13, 1950"
+}

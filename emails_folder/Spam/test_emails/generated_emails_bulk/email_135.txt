@@ -1,0 +1,14 @@
+From sven.johnson@example.org Mon May  4 21:36:46 2026
+Subject: Important
+
+Hello Sven,
+
+Your details:
+Email: sven.johnson@example.org
+Phone: +76 342870588
+SSN: 555-11-1132
+Address: 7042 Pine Road, London, UK
+DOB: 05/28/2002
+
+Thanks,
+Sven

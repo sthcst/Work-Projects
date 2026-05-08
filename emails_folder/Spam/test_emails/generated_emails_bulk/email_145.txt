@@ -1,0 +1,14 @@
+Subject: Invoice
+
+Hello Mateo,
+
+Your details:
+Email: mateo.patel@example.org
+Phone: +67 543516366
+SSN: 499960213
+Address: 2342 Main Ave, Apt 238, Auckland, NZ
+DOB: February 16, 1981
+
+Thanks,
+Mateo
+PO Box 2287

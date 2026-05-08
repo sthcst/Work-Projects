@@ -1,0 +1,13 @@
+Subject: Invoice
+
+Hello Priya,
+
+Your details:
+Email: priya.khan@company.co
+Phone: (716) 234-7974
+SSN: 590-99-2605
+Address: 734 Maple Court, Houston, TX
+DOB: 08/03/1980
+
+Thanks,
+Priya

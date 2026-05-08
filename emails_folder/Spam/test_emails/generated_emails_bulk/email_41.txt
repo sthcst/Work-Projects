@@ -1,0 +1,13 @@
+Subject: Meeting
+
+Hello Lucas,
+
+Your details:
+Email: lucas.patel@example.org
+Phone: +18 174958005
+SSN: 908-63-6568
+Address: 6294 Lake Terrace, Berlin, DE
+DOB: 07/20/1985
+
+Thanks,
+Lucas

@@ -1,0 +1,7 @@
+subject: Invoice
+name: Priya Smith
+email: priya.smith@test.org
+phone: +81 360757540
+ssn: 891-48-2983
+address: 6508 Lake Ave, Paris, FR
+date: October 09, 1990

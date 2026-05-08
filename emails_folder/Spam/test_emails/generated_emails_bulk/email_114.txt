@@ -1,0 +1,10 @@
+From: Aisha Martin <aisha.martin@example.com>
+To: records@company.co
+Date: May 28, 1941
+Subject: Your Details
+
+Please update the record:
+Name: Aisha Martin
+Address: 9296 High Ln, Apt 77, Los Angeles, CA
+Phone: (900) 487-9897
+SSN: 133-32-6152

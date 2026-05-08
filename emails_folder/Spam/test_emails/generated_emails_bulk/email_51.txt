@@ -1,0 +1,8 @@
+From hiro.taylor@company.co Mon May  4 21:36:46 2026
+subject: Invoice
+name: Hiro Taylor
+email: hiro.taylor@company.co
+phone: (486) 233-7070
+ssn: 555-40-6942
+address: 1632 High Pl, Houston, TX
+date: November 29, 1948

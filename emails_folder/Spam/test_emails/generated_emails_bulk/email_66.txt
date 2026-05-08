@@ -1,0 +1,13 @@
+Subject: Your Details
+
+Hello Mia,
+
+Your details:
+Email: mia.perez@company.co
+Phone: (713) 354-2013
+SSN: 930-53-2381
+Address: 9376 Lake Dr, Houston, TX
+DOB: April 07, 1985
+
+Thanks,
+Mia

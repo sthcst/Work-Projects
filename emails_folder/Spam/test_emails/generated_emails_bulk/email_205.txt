@@ -1,0 +1,9 @@
+{
+  "subject": "Invoice",
+  "name": "Mia Johnson",
+  "email": "mia.johnson@example.com",
+  "phone": "+73 286669820",
+  "ssn": "487-56-2275",
+  "address": "8552 Main Ln, Toronto, ON",
+  "date": "05/09/1986"
+}

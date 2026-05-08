@@ -1,0 +1,8 @@
+From wei.wang@example.org Mon May  4 21:36:46 2026
+subject: Verification
+name: Wei Wang
+email: wei.wang@example.org
+phone: +71 112327652
+ssn: 217-97-9797
+address: 6314 Victoria Court, Paris, FR
+date: December 09, 1963

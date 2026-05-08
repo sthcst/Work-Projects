@@ -1,0 +1,10 @@
+From: Hiro Nguyen <hiro.nguyen@mail.com>
+To: records@company.co
+Date: August 08, 1971
+Subject: Invoice
+
+Please update the record:
+Name: Hiro Nguyen
+Address: 5667 Elm Rd, Chicago, IL
+Phone: (910) 852-6281
+SSN: 916875967

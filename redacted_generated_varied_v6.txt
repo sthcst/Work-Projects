@@ -1,0 +1,381 @@
+
+--- EMAIL START ---
+SOURCE: email_6.txt
+[[DOB]6] USER=[PERSON] EMAIL=[EMAIL]
+[[DOB]6] PHONE=[PHONE] SSN=[SSN]
+[[DOB]7] [ADDRESS], Houston, NY"
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_7.txt
+From: [PERSON] <[EMAIL]>
+To: [EMAIL]
+Date: [DOB]7
+Subject: [PERSON]
+
+Hi,
+
+My phone is [PHONE] and SSN is [SSN].
+
+Thanks,
+[PERSON]
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_5.txt
+{
+  "subject": "Verification",
+  "name": "[PERSON]",
+  "email": "[EMAIL]",
+  "phone": "[PHONE]",
+  "ssn": "[SSN]",
+  "address": "[ADDRESS] [PERSON] [ADDRESS]",
+  "date": "[DOB]1"
+}
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_4.txt
+From: [PERSON] <[EMAIL]>
+To: [EMAIL]
+Date: [DOB]3
+Subject: [PERSON]
+
+Hi,
+
+My phone is [PHONE] and SSN is [SSN].
+
+Thanks,
+[PERSON]
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_1.txt
+{
+  "subject": "Verification",
+  "name": "[PERSON]",
+  "email": "[EMAIL]",
+  "phone": "[PHONE]",
+  "ssn": "[SSN]",
+  "address": "[ADDRESS]",
+  "date": "[DOB]4"
+}
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_3.txt
+{
+  "subject": "Verification",
+  "name": "[PERSON]",
+  "email": "[EMAIL]",
+  "phone": "[PHONE]",
+  "ssn": "[SSN]",
+  "address": "[ADDRESS]",
+  "date": "[DOB]7"
+}
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_2.txt
+subject=[PERSON]
+name=[PERSON]
+email=[EMAIL]
+phone=[PHONE]
+ssn=[SSN]
+address=[ADDRESS] [PERSON] [ADDRESS]
+date=[DOB]
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_20.txt
+From: [PERSON] <[EMAIL]>
+To: [EMAIL]
+Date: [DOB]
+Subject: [PERSON]
+
+Hi,
+
+My phone is [PHONE] and SSN is [SSN].
+
+Thanks,
+[PERSON]
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_21.txt
+name,email,phone,ssn,address,date
+[PERSON],[EMAIL],[PHONE],[SSN],[ADDRESS],[DOB]4
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_23.txt
+[PERSON]:
+- Name: [PERSON]: [EMAIL]
+- Phone: [PHONE]
+- SSN: [SSN]
+- Address: [ADDRESS] [PERSON] [ADDRESS]
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_22.txt
+From: [PERSON] <[EMAIL]>
+To: [EMAIL]
+Date: [DOB]
+Subject: [PERSON]
+
+Hi,
+
+My phone is [PHONE] and SSN is [SSN].
+
+Thanks,
+[PERSON]
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_26.txt
+subject: YAML [PERSON]
+name: [PERSON]
+email: [EMAIL]
+phone: [PHONE]
+ssn: [SSN]
+address: [ADDRESS]
+date: [DOB]8
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_27.txt
+{
+  "subject": "Verification",
+  "name": "[PERSON]",
+  "email": "[EMAIL]",
+  "phone": "[PHONE]",
+  "ssn": "[SSN]",
+  "address": "[ADDRESS] [PERSON] [ADDRESS]",
+  "date": "[DOB]"
+}
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_19.txt
+name,email,phone,ssn,address,date
+[PERSON],[EMAIL],[PHONE],[SSN],[ADDRESS],[DOB]
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_25.txt
+[PERSON] reached out on [DOB]3 saying their email is [EMAIL] and phone number is [PHONE]. They also mentioned their SSN as [SSN] and currently live at [ADDRESS], Houston, NY. Please follow up.
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_24.txt
+[[DOB]0] USER=[PERSON]
+[[DOB]2] PHONE=[PHONE] SSN=[SSN]
+[[DOB]] [ADDRESS], Chicago, IL"
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_30.txt
+*** RANDOM EMAIL ***
+NAME>>> [PERSON]??? [EMAIL]
+CALL@@@ [PHONE]
+SSN[ADDRESS]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_18.txt
+{
+  "subject": "Verification",
+  "name": "[PERSON]",
+  "email": "[EMAIL]",
+  "phone": "[PHONE]",
+  "ssn": "[SSN]",
+  "address": "[ADDRESS] [PERSON] [ADDRESS]",
+  "date": "[DOB]8"
+}
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_15.txt
+Subject: [PERSON],
+
+Your details:
+Email: [EMAIL]
+Phone: [PHONE]
+SSN: [SSN]
+Address: [ADDRESS]
+
+Thanks.
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_29.txt
+[PERSON] reached out on [DOB]6 saying their email is [EMAIL] and phone number is [PHONE]. They also mentioned their SSN as [SSN] and currently live at [ADDRESS], Chicago, CA. Please follow up.
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_28.txt
+Subject: [PERSON] Doe,
+
+Your details:
+Email: [EMAIL]
+Phone: [PHONE]
+SSN: [SSN]
+Address: [ADDRESS]
+
+Thanks.
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_14.txt
+Subject: [PERSON],
+
+Your details:
+Email: [EMAIL]
+Phone: [PHONE]
+SSN: [SSN]
+Address: [ADDRESS]
+
+Thanks.
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_16.txt
+Subject: [PERSON],
+
+Your details:
+Email: [EMAIL]
+Phone: [PHONE]
+SSN: [SSN]
+Address: [ADDRESS] [PERSON] [ADDRESS]
+
+Thanks.
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_17.txt
+[PERSON]:
+- Name: Emily Doe
+- Email: [EMAIL]
+- Phone: [PHONE]
+- SSN: [SSN]
+- Address: [ADDRESS] [PERSON] [ADDRESS]
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_13.txt
+subject: YAML [PERSON]
+name: [PERSON]
+email: [EMAIL]
+phone: [PHONE]
+ssn: [SSN]
+address: [PERSON] [ADDRESS]
+date: [DOB]0
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_12.txt
+subject=[PERSON]
+name=[PERSON]
+email=[EMAIL]
+phone=[PHONE]
+ssn=[SSN]
+[ADDRESS] [PERSON] [ADDRESS]
+date=[DOB]5
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_10.txt
+From: [PERSON] <[EMAIL]>
+To: [EMAIL]
+Date: [DOB]5
+Subject: [PERSON]
+
+Hi,
+
+My phone is [PHONE] and SSN is [SSN].
+
+Thanks,
+[PERSON]
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_11.txt
+[PERSON] reached out on [DOB]7 saying their email is [EMAIL] and phone number is [PHONE]. They also mentioned their SSN as [SSN] and currently live at [ADDRESS], Houston, TX. Please follow up.
+
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_9.txt
+*** RANDOM EMAIL ***
+NAME>>> [PERSON]
+EMAIL??? [EMAIL]
+CALL@@@ [PHONE]
+SSN[ADDRESS] [PERSON] [ADDRESS]
+--- EMAIL END ---
+
+
+--- EMAIL START ---
+SOURCE: email_8.txt
+[[DOB]2] USER=[PERSON]
+[[DOB]4] PHONE=[PHONE] SSN=[SSN]
+[[DOB]] [ADDRESS], Chicago, TX"
+
+--- EMAIL END ---
+
+
+=== AGGREGATED REDACTION STATS ===
+ADDRESS_REPLACED: 1
+DOB_REPLACED: 3
+EMAIL_REPLACED: 0
+PERSON_REPLACED: 1
+PHONE_REPLACED: 1
+SSN_REPLACED: 1

@@ -1,0 +1,8 @@
+From sven.lopez@example.com Mon May  4 21:36:46 2026
+subject: Invoice
+name: Sven Lopez
+email: sven.lopez@example.com
+phone: (624) 479-4531
+ssn: 222210617
+address: 7269 George Court, Chicago, IL
+date: 12/19/1970

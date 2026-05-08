@@ -1,0 +1,10 @@
+From priya.martinez@example.org Mon May  4 21:36:46 2026
+{
+  "subject": "Invoice",
+  "name": "Priya Martinez",
+  "email": "priya.martinez@example.org",
+  "phone": "+71 564726604",
+  "ssn": "618544245",
+  "address": "8182 Oak Terrace, Auckland, NZ",
+  "date": "August 09, 1985"
+}

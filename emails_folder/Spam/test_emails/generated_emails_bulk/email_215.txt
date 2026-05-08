@@ -1,0 +1,11 @@
+From john.wilson@mail.com Mon May  4 21:36:46 2026
+From: John Wilson <john.wilson@mail.com>
+To: records@company.co
+Date: 04/22/1989
+Subject: Invoice
+
+Please update the record:
+Name: John Wilson
+Address: 1432 Main Pl, Los Angeles, CA
+Phone: (604) 615-4281
+SSN: 854-18-2477

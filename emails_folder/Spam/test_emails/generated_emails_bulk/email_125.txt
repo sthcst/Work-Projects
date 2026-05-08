@@ -1,0 +1,9 @@
+{
+  "subject": "Important",
+  "name": "Sven Patel",
+  "email": "sven.patel@company.co",
+  "phone": "(437) 614-4022",
+  "ssn": "773-65-7481",
+  "address": "5432 Market Pl, Los Angeles, CA",
+  "date": "August 14, 1942"
+}

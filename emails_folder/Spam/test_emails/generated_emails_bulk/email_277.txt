@@ -1,0 +1,7 @@
+subject: Important
+name: Mateo Brown
+email: mateo.brown@example.org
+phone: +15 723058861
+ssn: 807-20-3327
+address: 558 Maple Court, Berlin, DE
+date: July 04, 2005

@@ -1,0 +1,9 @@
+{
+  "subject": "Your Details",
+  "name": "Lucas Khan",
+  "email": "lucas.khan@company.co",
+  "phone": "+18 275864280",
+  "ssn": "133-62-1245",
+  "address": "6136 Washington Pl, Paris, FR",
+  "date": "March 17, 1964"
+}

@@ -1,0 +1,13 @@
+Subject: Your Details
+
+Hello Wei,
+
+Your details:
+Email: wei.lopez@example.com
+Phone: +4 241522640
+SSN: 908-40-6304
+Address: 2139 Cedar Way, London, UK
+DOB: 06/01/1941
+
+Thanks,
+Wei

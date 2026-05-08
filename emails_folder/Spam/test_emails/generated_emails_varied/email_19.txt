@@ -1,0 +1,2 @@
+name,email,phone,ssn,address,date
+Chris Doe,chris.doe@example.com,737-490-7017,793-53-3076,6333 Maple Dr, Houston, NY,2026-05-05

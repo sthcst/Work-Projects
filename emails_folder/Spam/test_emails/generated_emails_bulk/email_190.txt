@@ -1,0 +1,13 @@
+Subject: Meeting
+
+Hello Hiro,
+
+Your details:
+Email: hiro.davis@example.org
+Phone: (404) 473-3636
+SSN: 833784779
+Address: 424 Victoria Rd, Apt 58, New York, NY
+DOB: 06/24/1962
+
+Thanks,
+Hiro

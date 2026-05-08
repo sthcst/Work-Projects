@@ -1,0 +1,10 @@
+From: Carlos Martinez <carlos.martinez@example.com>
+To: records@company.co
+Date: August 05, 1987
+Subject: Your Details
+
+Please update the record:
+Name: Carlos Martinez
+Address: 4912 Elm Pl, Toronto, ON
+Phone: +97 242964672
+SSN: 793-28-2120

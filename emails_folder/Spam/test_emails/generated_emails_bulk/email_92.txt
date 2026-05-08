@@ -1,0 +1,7 @@
+subject: Important
+name: Emily Lopez
+email: emily.lopez@example.org
+phone: +19 982252092
+ssn: 132-83-2800
+address: 851 River Street, London, UK
+date: 02/11/1957

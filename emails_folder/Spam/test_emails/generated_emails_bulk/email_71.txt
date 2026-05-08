@@ -1,0 +1,7 @@
+subject: Important
+name: Mateo Taylor
+email: mateo.taylor@mail.com
+phone: (767) 305-9452
+ssn: 406084084
+address: 4106 Maple Court, Los Angeles, CA
+date: July 11, 1947

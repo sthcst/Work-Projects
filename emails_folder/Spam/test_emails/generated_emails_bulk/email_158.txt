@@ -1,0 +1,9 @@
+{
+  "subject": "Important",
+  "name": "Sven Anderson",
+  "email": "sven.anderson@mail.com",
+  "phone": "(641) 869-3703",
+  "ssn": "544-30-1877",
+  "address": "5546 River Court, New York, NY",
+  "date": "01/31/1949"
+}

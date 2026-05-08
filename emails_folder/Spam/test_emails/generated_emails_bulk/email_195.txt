@@ -1,0 +1,8 @@
+From emily.martinez@test.org Mon May  4 21:36:46 2026
+subject: Invoice
+name: Emily Martinez
+email: emily.martinez@test.org
+phone: +15 514331133
+ssn: 841-46-1404
+address: 4004 Maple Dr, Auckland, NZ
+date: May 15, 1986

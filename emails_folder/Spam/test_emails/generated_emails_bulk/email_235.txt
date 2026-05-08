@@ -1,0 +1,14 @@
+From olivia.miller@example.org Mon May  4 21:36:46 2026
+Subject: Invoice
+
+Hello Olivia,
+
+Your details:
+Email: olivia.miller@example.org
+Phone: +47 587563596
+SSN: 753-74-7210
+Address: 1138 Main Way, London, UK
+DOB: 10/26/2005
+
+Thanks,
+Olivia

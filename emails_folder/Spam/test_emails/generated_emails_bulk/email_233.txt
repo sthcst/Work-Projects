@@ -1,0 +1,10 @@
+From: Sven Brown <sven.brown@company.co>
+To: records@company.co
+Date: 11/06/1984
+Subject: Meeting
+
+Please update the record:
+Name: Sven Brown
+Address: 3992 Oak St, Houston, TX
+Phone: (907) 686-3539
+SSN: 191-41-3583
