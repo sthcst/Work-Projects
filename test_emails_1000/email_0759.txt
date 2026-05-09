@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Harris
+  email: ryan.harris2116@work.org
+  phone: 562-925-6999
+  ssn: 660044778
+  dob: 02/02/1950
+  address: 4726 Sixth Ln
+  city: San Jose
+  state: AZ

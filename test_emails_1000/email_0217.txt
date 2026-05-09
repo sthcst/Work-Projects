@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Miller,cynthia.miller8471@outlook.com,+1 861-662-2481,740-65-2854,10/23/1984,"6450 West Blvd",Seattle,NY

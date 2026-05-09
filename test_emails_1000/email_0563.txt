@@ -1,0 +1,9 @@
+contact:
+  name: Gary Carter
+  email: gary.carter4087@yahoo.com
+  phone: (655) 299-1645
+  ssn: 139 49 8746
+  dob: 08/06/1999
+  address: 9613 South Court
+  city: Philadelphia
+  state: WA

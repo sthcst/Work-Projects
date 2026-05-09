@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Evans,michael.evans6189@business.net,786 300 9001,103 89 4373,08-17-2001,"2740 Sixth Dr",Jacksonville,CO

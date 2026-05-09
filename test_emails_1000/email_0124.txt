@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Serrano
+  email: nicole.serrano982@outlook.com
+  phone: 295 244 4792
+  ssn: 919677767
+  dob: 06/15/1997
+  address: 9525 Pine Rd
+  city: Boston
+  state: IL

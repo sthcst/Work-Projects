@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Rodriguez,jane.rodriguez5610@company.com,411 429 3459,285782959,12/04/1981,"9339 Main Ln",San Antonio,FL

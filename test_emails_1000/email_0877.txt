@@ -1,0 +1,9 @@
+contact:
+  name: William Jackson
+  email: william.jackson7596@company.com
+  phone: 884-639-4825
+  ssn: 315296527
+  dob: 10/26/1968
+  address: 1071 Third Dr
+  city: Denver
+  state: GA

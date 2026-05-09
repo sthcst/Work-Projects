@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Peterson",
+    "email": "richard.peterson3525@gmail.com",
+    "phone": "+1 212-352-9948",
+    "ssn": "409-58-3782",
+    "dob": "03/25/1952",
+    "address": "9751 North Ln",
+    "city": "Boston",
+    "state": "MD"
+  }
+}

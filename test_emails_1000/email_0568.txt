@@ -1,0 +1,14 @@
+INVOICE 106620
+
+Bill To:
+Name: Rachel Lopez
+Email: rachel.lopez63@business.net
+Phone: (415) 251-2301
+SSN: 397-42-9672
+
+Address: 9929 Cedar Court
+San Jose, WA
+
+Date of Birth: 27/08/1962
+
+Amount Due: $1403

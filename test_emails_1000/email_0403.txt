@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Delgado,richard.delgado5140@outlook.com,365 269 5589,591-47-6789,06/02/1995,"4236 Second Dr",Seattle,MI

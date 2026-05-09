@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Miller
+  email: jeffrey.miller4986@yahoo.com
+  phone: 572 487 6751
+  ssn: 729 54 5046
+  dob: 01/06/1952
+  address: 864 North Ln
+  city: San Jose
+  state: DC

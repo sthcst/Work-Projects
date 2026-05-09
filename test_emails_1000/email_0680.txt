@@ -1,0 +1,14 @@
+INVOICE 524762
+
+Bill To:
+Name: Kevin Gomez
+Email: kevin.gomez478@mail.com
+Phone: (786) 968-8366
+SSN: 983 95 1375
+
+Address: 6609 Pine Court
+Washington, VA
+
+Date of Birth: 19/12/1984
+
+Amount Due: $8591

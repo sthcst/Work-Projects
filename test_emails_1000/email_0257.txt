@@ -1,0 +1,9 @@
+contact:
+  name: Mark Hernandez
+  email: mark.hernandez5501@gmail.com
+  phone: 252 313 7274
+  ssn: 375 60 1669
+  dob: 06/06/1991
+  address: 9197 Birch Rd
+  city: Austin
+  state: CA

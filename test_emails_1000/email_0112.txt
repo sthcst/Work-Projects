@@ -1,0 +1,9 @@
+contact:
+  name: Megan Gomez
+  email: megan.gomez972@example.com
+  phone: (918) 335-5090
+  ssn: 150-92-6277
+  dob: 11/13/1981
+  address: 9470 Spring Way
+  city: Boston
+  state: WA

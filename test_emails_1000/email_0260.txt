@@ -1,0 +1,14 @@
+INVOICE 398196
+
+Bill To:
+Name: Brian Gomez
+Email: brian.gomez9482@mail.com
+Phone: 697 807 9686
+SSN: 863 71 8295
+
+Address: 2823 Spring Ln
+Washington, FL
+
+Date of Birth: 05-19-1958
+
+Amount Due: $7569

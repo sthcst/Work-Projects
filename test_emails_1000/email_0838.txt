@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma White,emma.white5177@yahoo.com,385 325 8293,709 40 7694,11/7/1970,"7917 Third St",Houston,FL

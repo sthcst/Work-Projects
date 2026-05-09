@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Taylor,christopher.taylor2224@outlook.com,238 232 6234,238-76-3137,11-06-1953,"6199 Maple St",Houston,NJ

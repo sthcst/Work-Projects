@@ -1,0 +1,9 @@
+contact:
+  name: Emily Wilson
+  email: emily.wilson2737@yahoo.com
+  phone: (570) 360-5786
+  ssn: 726 57 9288
+  dob: 12/28/1956
+  address: 5969 North Rd
+  city: Houston
+  state: MO

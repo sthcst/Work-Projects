@@ -1,0 +1,14 @@
+INVOICE 809920
+
+Bill To:
+Name: Joshua Carter
+Email: joshua.carter7009@company.com
+Phone: 850 289 6007
+SSN: 417-99-6123
+
+Address: 1544 Cedar St
+Chicago, WA
+
+Date of Birth: 11/3/1954
+
+Amount Due: $8434

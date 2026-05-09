@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Reed
+  email: andrew.reed3641@company.com
+  phone: 548-614-3693
+  ssn: 267-11-6371
+  dob: 25/09/1971
+  address: 2924 North Way
+  city: Philadelphia
+  state: NC

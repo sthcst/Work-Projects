@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Romero
+  email: sarah.romero9955@work.org
+  phone: +1 377-684-9938
+  ssn: 827 14 1625
+  dob: 1/20/1995
+  address: 2908 Maple Ave
+  city: Denver
+  state: TN

@@ -1,0 +1,9 @@
+contact:
+  name: Mark Morgan
+  email: mark.morgan2368@yahoo.com
+  phone: +1 372-613-4393
+  ssn: 224 41 6787
+  dob: 05-08-1995
+  address: 3792 East Court
+  city: New York
+  state: NJ

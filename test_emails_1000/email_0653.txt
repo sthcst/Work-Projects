@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Hernandez
+  email: jeffrey.hernandez5274@work.org
+  phone: (897) 482-6532
+  ssn: 031-05-1188
+  dob: 11/23/1951
+  address: 1380 North Rd
+  city: Chicago
+  state: IL

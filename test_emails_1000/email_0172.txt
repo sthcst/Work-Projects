@@ -1,0 +1,14 @@
+INVOICE 273899
+
+Bill To:
+Name: Pamela Ramirez
+Email: pamela.ramirez601@example.com
+Phone: +1 869-993-3435
+SSN: 375514658
+
+Address: 7623 Third Ave
+Boston, FL
+
+Date of Birth: 12/28/1968
+
+Amount Due: $8523

@@ -1,0 +1,9 @@
+contact:
+  name: Brian Delgado
+  email: brian.delgado867@business.net
+  phone: 346-638-4242
+  ssn: 251 93 2181
+  dob: 5/6/1995
+  address: 210 East St
+  city: Los Angeles
+  state: PA

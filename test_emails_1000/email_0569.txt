@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Alvarado,rebecca.alvarado2358@company.com,919-979-2241,193-24-6265,03-13-1990,"9865 West Dr",San Antonio,CO

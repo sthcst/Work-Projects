@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Thomas",
+    "email": "katherine.thomas3397@business.net",
+    "phone": "+1 246-541-6728",
+    "ssn": "574-82-4478",
+    "dob": "11-07-1994",
+    "address": "4178 Elm Dr",
+    "city": "San Jose",
+    "state": "FL"
+  }
+}

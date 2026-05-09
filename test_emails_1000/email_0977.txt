@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela White",
+    "email": "pamela.white9673@company.com",
+    "phone": "580-294-9677",
+    "ssn": "946 98 2479",
+    "dob": "09-17-1959",
+    "address": "2413 East Blvd",
+    "city": "Austin",
+    "state": "NC"
+  }
+}

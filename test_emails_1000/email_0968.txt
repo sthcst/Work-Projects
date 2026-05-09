@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Nelson",
+    "email": "ryan.nelson9296@business.net",
+    "phone": "(894) 754-4955",
+    "ssn": "995-01-8287",
+    "dob": "04/13/2001",
+    "address": "840 Fourth St",
+    "city": "Phoenix",
+    "state": "CO"
+  }
+}

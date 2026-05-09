@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Delgado",
+    "email": "donald.delgado3703@yahoo.com",
+    "phone": "230-746-2998",
+    "ssn": "508-68-6837",
+    "dob": "03-04-1955",
+    "address": "9004 First Ave",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

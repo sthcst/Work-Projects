@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Cooper",
+    "email": "stephanie.cooper4191@business.net",
+    "phone": "(387) 381-7114",
+    "ssn": "081-64-5891",
+    "dob": "03-10-1950",
+    "address": "3515 Cedar Way",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

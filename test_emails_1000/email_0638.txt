@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Lee",
+    "email": "maria.lee9681@company.com",
+    "phone": "542-372-4033",
+    "ssn": "665732701",
+    "dob": "1/16/1963",
+    "address": "2784 Third Ln",
+    "city": "Denver",
+    "state": "NY"
+  }
+}

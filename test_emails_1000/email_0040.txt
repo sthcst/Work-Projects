@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Perez",
+    "email": "jennifer.perez2869@yahoo.com",
+    "phone": "+1 834-899-4945",
+    "ssn": "510-75-3344",
+    "dob": "21/08/1966",
+    "address": "4193 Main Court",
+    "city": "San Jose",
+    "state": "NJ"
+  }
+}

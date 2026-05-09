@@ -1,0 +1,9 @@
+contact:
+  name: Michael Martin
+  email: michael.martin814@gmail.com
+  phone: (304) 488-5410
+  ssn: 129928183
+  dob: 1/8/1955
+  address: 251 Second Ln
+  city: Austin
+  state: CO

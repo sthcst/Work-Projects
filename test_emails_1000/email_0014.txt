@@ -1,0 +1,9 @@
+contact:
+  name: Charles Alvarado
+  email: charles.alvarado2648@work.org
+  phone: +1 774-209-2832
+  ssn: 078893442
+  dob: 1/27/1973
+  address: 7051 Maple St
+  city: San Jose
+  state: FL

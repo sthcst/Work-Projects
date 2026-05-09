@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Moore",
+    "email": "kimberly.moore1983@gmail.com",
+    "phone": "(288) 784-4060",
+    "ssn": "681268308",
+    "dob": "09-12-1985",
+    "address": "7839 Elm Rd",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Martinez
+  email: amanda.martinez1855@work.org
+  phone: +1 368-248-4262
+  ssn: 535916465
+  dob: 04/09/2000
+  address: 1419 South Ln
+  city: Boston
+  state: CA

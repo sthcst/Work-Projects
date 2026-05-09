@@ -1,0 +1,14 @@
+INVOICE 648532
+
+Bill To:
+Name: Lauren Ramirez
+Email: lauren.ramirez2533@company.com
+Phone: (772) 828-9612
+SSN: 867 69 2867
+
+Address: 294 Second Blvd
+San Jose, VA
+
+Date of Birth: 8/3/1957
+
+Amount Due: $5704

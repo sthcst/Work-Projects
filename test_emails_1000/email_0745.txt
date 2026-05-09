@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Reyes",
+    "email": "anthony.reyes6877@company.com",
+    "phone": "767 344 7191",
+    "ssn": "548-93-7639",
+    "dob": "07/20/1979",
+    "address": "8660 Park Way",
+    "city": "Houston",
+    "state": "DC"
+  }
+}

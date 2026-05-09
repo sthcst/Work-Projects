@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Lee,anna.lee6877@outlook.com,644 588 1424,988-78-5055,05/04/1984,"8994 West Ave",Austin,MI

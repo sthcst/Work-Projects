@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Clark",
+    "email": "david.clark831@example.com",
+    "phone": "(424) 334-3139",
+    "ssn": "735 57 9159",
+    "dob": "3/23/1956",
+    "address": "6120 Birch St",
+    "city": "Phoenix",
+    "state": "FL"
+  }
+}

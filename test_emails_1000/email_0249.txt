@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Jackson",
+    "email": "michelle.jackson6802@outlook.com",
+    "phone": "766 368 8187",
+    "ssn": "250-75-1666",
+    "dob": "26/02/2004",
+    "address": "2594 Main Court",
+    "city": "Chicago",
+    "state": "NY"
+  }
+}

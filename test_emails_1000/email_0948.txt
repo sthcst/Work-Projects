@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Nelson",
+    "email": "christine.nelson5954@example.com",
+    "phone": "691 943 1929",
+    "ssn": "885693254",
+    "dob": "04/03/1978",
+    "address": "4749 East Ave",
+    "city": "Austin",
+    "state": "WA"
+  }
+}

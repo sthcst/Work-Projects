@@ -1,0 +1,14 @@
+INVOICE 735612
+
+Bill To:
+Name: Rachel Garcia
+Email: rachel.garcia2707@example.com
+Phone: 302 239 2349
+SSN: 041-79-1003
+
+Address: 1771 Spring Dr
+Chicago, TN
+
+Date of Birth: 13/03/2002
+
+Amount Due: $4359

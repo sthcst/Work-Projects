@@ -1,0 +1,9 @@
+contact:
+  name: Christine Perez
+  email: christine.perez8590@business.net
+  phone: (897) 448-1517
+  ssn: 587-90-2800
+  dob: 15/01/1970
+  address: 2491 West Ln
+  city: Denver
+  state: FL
