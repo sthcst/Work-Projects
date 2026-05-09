@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Phillips
+  email: shirley.phillips9852@business.net
+  phone: +1 304-698-8544
+  ssn: 822-92-4083
+  dob: 08/19/1950
+  address: 9367 Sixth Dr
+  city: Boston
+  state: WA

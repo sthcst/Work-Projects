@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Nunez",
+    "email": "charles.nunez9090@yahoo.com",
+    "phone": "(903) 566-9290",
+    "ssn": "240282256",
+    "dob": "8/24/1992",
+    "address": "6887 Third Way",
+    "city": "Dallas",
+    "state": "PA"
+  }
+}

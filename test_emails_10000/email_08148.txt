@@ -1,0 +1,9 @@
+contact:
+  name: Robert Serrano
+  email: robert.serrano2299@example.com
+  phone: 904 378 7035
+  ssn: 277 03 6395
+  dob: 1/27/1979
+  address: 9121 Spring Dr
+  city: San Diego
+  state: WI

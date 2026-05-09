@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Ramirez",
+    "email": "rebecca.ramirez3860@yahoo.com",
+    "phone": "493-920-1622",
+    "ssn": "470 46 9044",
+    "dob": "10/28/1980",
+    "address": "6127 Maple Dr",
+    "city": "Denver",
+    "state": "PA"
+  }
+}

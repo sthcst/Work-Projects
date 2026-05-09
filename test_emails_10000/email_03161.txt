@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Lee
+  email: nicholas.lee5361@business.net
+  phone: +1 907-358-5857
+  ssn: 125 78 6857
+  dob: 21/02/1973
+  address: 1146 Second Way
+  city: Philadelphia
+  state: MA

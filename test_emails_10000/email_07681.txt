@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Young",
+    "email": "helen.young7255@business.net",
+    "phone": "649-306-9722",
+    "ssn": "131 61 1699",
+    "dob": "11/18/1981",
+    "address": "8671 Sixth Way",
+    "city": "New York",
+    "state": "NJ"
+  }
+}

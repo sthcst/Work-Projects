@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Hall,christine.hall4669@business.net,(292) 629-2455,826906651,11-03-1974,"1892 Sixth St",Washington,CA

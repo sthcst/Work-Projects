@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Dominguez",
+    "email": "kenneth.dominguez8525@company.com",
+    "phone": "(355) 673-4465",
+    "ssn": "698976893",
+    "dob": "05-16-1955",
+    "address": "5879 North Ln",
+    "city": "San Jose",
+    "state": "NJ"
+  }
+}

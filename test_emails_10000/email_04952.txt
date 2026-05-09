@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Smith
+  email: katherine.smith1913@company.com
+  phone: +1 542-503-9854
+  ssn: 539256891
+  dob: 22/02/1971
+  address: 4017 Oak Blvd
+  city: Seattle
+  state: VA

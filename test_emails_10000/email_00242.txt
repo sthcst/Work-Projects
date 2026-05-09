@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Davis,rachel.davis9735@company.com,925-322-2415,877 78 3128,11/25/1991,"1826 Cedar Dr",San Jose,WA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Walker",
+    "email": "angela.walker2525@example.com",
+    "phone": "(924) 973-7361",
+    "ssn": "506 76 3469",
+    "dob": "02/11/1980",
+    "address": "2576 First Way",
+    "city": "San Antonio",
+    "state": "WA"
+  }
+}

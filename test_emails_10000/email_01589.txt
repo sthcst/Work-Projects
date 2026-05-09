@@ -1,0 +1,14 @@
+INVOICE 521688
+
+Bill To:
+Name: Jessica Phillips
+Email: jessica.phillips7700@example.com
+Phone: 351-206-2730
+SSN: 557 01 4161
+
+Address: 5835 Maple Dr
+New York, CA
+
+Date of Birth: 9/20/1963
+
+Amount Due: $398

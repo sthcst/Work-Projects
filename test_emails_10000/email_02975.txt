@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Anderson
+  email: nicholas.anderson5742@yahoo.com
+  phone: 851-752-9457
+  ssn: 570 91 4014
+  dob: 1/8/1960
+  address: 4870 Third Ave
+  city: San Diego
+  state: MA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Lopez",
+    "email": "kimberly.lopez1803@company.com",
+    "phone": "+1 514-787-6441",
+    "ssn": "636527544",
+    "dob": "3/26/1968",
+    "address": "2324 Spring Dr",
+    "city": "Jacksonville",
+    "state": "NC"
+  }
+}

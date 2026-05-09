@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Lee",
+    "email": "matthew.lee8468@business.net",
+    "phone": "(761) 752-6285",
+    "ssn": "548 43 4650",
+    "dob": "10-23-1969",
+    "address": "1456 Birch Blvd",
+    "city": "Phoenix",
+    "state": "NC"
+  }
+}

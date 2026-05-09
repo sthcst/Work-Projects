@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Davis",
+    "email": "anna.davis7028@example.com",
+    "phone": "(322) 722-1648",
+    "ssn": "712-74-1555",
+    "dob": "03-08-1980",
+    "address": "3921 Park Court",
+    "city": "Los Angeles",
+    "state": "IL"
+  }
+}

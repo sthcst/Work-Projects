@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Wilson,angela.wilson2178@yahoo.com,+1 740-316-8336,806 97 1277,3/23/1965,"8102 North Ave",Chicago,GA

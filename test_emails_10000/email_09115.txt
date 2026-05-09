@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Davis",
+    "email": "richard.davis9257@mail.com",
+    "phone": "712 446 8207",
+    "ssn": "879821082",
+    "dob": "10/04/1969",
+    "address": "6520 Park Ave",
+    "city": "San Antonio",
+    "state": "MA"
+  }
+}

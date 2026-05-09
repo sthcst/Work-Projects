@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Hall
+  email: cynthia.hall1971@outlook.com
+  phone: +1 430-366-7851
+  ssn: 187308838
+  dob: 12-14-1963
+  address: 5363 Fifth Way
+  city: Philadelphia
+  state: TN

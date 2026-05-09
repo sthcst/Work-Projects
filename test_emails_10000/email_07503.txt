@@ -1,0 +1,14 @@
+INVOICE 433423
+
+Bill To:
+Name: Jessica Sanchez
+Email: jessica.sanchez4930@company.com
+Phone: 713-895-6192
+SSN: 197-48-2587
+
+Address: 9878 North Way
+Seattle, FL
+
+Date of Birth: 12/16/2003
+
+Amount Due: $6128

@@ -1,0 +1,14 @@
+INVOICE 624036
+
+Bill To:
+Name: Paul Thompson
+Email: paul.thompson1080@outlook.com
+Phone: +1 545-431-3583
+SSN: 194 28 9800
+
+Address: 7208 West St
+Chicago, MO
+
+Date of Birth: 5/23/2002
+
+Amount Due: $1874

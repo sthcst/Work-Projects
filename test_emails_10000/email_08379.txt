@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Lewis,kimberly.lewis7025@business.net,840 838 8174,846301381,07/02/1989,"584 Fifth Court",Philadelphia,DC

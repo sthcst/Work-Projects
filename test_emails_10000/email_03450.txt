@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Moore
+  email: sarah.moore9109@work.org
+  phone: 761 986 3847
+  ssn: 552-91-4052
+  dob: 02/26/1962
+  address: 9578 First Ave
+  city: Phoenix
+  state: CA

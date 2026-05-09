@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Edwards",
+    "email": "matthew.edwards227@company.com",
+    "phone": "706 505 2064",
+    "ssn": "073-56-8968",
+    "dob": "18/02/2004",
+    "address": "7428 Elm Dr",
+    "city": "San Jose",
+    "state": "TN"
+  }
+}

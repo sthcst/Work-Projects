@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Edwards",
+    "email": "pamela.edwards877@company.com",
+    "phone": "209 494 7284",
+    "ssn": "664783899",
+    "dob": "05/06/1982",
+    "address": "6819 North Blvd",
+    "city": "New York",
+    "state": "WI"
+  }
+}

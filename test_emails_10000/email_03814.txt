@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Smith,sarah.smith9531@gmail.com,+1 316-661-1550,130-77-1409,12/24/1982,"1889 Park Ln",Phoenix,DC

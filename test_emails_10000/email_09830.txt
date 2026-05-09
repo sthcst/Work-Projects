@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Nelson",
+    "email": "katherine.nelson1567@outlook.com",
+    "phone": "307 549 4695",
+    "ssn": "758-41-8240",
+    "dob": "2/22/1991",
+    "address": "2195 Main Way",
+    "city": "Austin",
+    "state": "FL"
+  }
+}

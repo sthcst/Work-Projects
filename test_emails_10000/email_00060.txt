@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Gomez,emily.gomez5969@company.com,+1 825-491-8355,240 69 4918,08-27-1962,"9355 First Court",San Jose,AZ

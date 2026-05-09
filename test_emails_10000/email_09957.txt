@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Stewart,brian.stewart368@yahoo.com,913 373 2202,923-34-5840,12-26-1990,"1174 First Blvd",Los Angeles,TX

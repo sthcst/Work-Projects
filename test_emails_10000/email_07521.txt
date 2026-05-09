@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Nelson,jeffrey.nelson7537@company.com,(889) 775-5031,538-29-9500,04-21-1971,"7038 Park Ave",San Diego,CA

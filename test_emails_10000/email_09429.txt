@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Collins",
+    "email": "steven.collins9231@outlook.com",
+    "phone": "+1 479-451-8061",
+    "ssn": "506-06-1835",
+    "dob": "10/22/2004",
+    "address": "327 Elm Blvd",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

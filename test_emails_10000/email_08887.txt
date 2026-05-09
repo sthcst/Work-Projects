@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Thompson",
+    "email": "joshua.thompson8278@work.org",
+    "phone": "(259) 203-1657",
+    "ssn": "776 98 3892",
+    "dob": "13/02/2004",
+    "address": "2732 Sixth Dr",
+    "city": "Los Angeles",
+    "state": "MO"
+  }
+}

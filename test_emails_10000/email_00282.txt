@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Bell,nicole.bell4117@work.org,(219) 842-9457,884-24-9178,27/11/1997,"4399 Fourth Way",Los Angeles,FL

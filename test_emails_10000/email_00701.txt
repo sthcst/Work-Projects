@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Taylor
+  email: kimberly.taylor2446@gmail.com
+  phone: 337-573-7506
+  ssn: 747931889
+  dob: 04/06/1952
+  address: 4356 Fourth Court
+  city: Seattle
+  state: FL

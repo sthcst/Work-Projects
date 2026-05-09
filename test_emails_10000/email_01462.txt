@@ -1,0 +1,14 @@
+INVOICE 456395
+
+Bill To:
+Name: John Harris
+Email: john.harris1074@work.org
+Phone: (231) 881-6920
+SSN: 053-61-4433
+
+Address: 1737 Maple Court
+San Antonio, MD
+
+Date of Birth: 8/15/2004
+
+Amount Due: $946

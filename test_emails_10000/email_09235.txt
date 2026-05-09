@@ -1,0 +1,14 @@
+INVOICE 555363
+
+Bill To:
+Name: Michelle Taylor
+Email: michelle.taylor1684@yahoo.com
+Phone: 504 807 4871
+SSN: 102 97 7863
+
+Address: 3952 Spring Dr
+Philadelphia, FL
+
+Date of Birth: 04-01-1959
+
+Amount Due: $194

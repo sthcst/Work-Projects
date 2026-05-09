@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Miller,lisa.miller1747@yahoo.com,673 612 3173,006954418,11/4/1959,"8664 Fifth Blvd",Jacksonville,MI

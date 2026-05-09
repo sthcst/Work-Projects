@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Reyes",
+    "email": "joseph.reyes5673@business.net",
+    "phone": "468 588 9657",
+    "ssn": "204 40 5523",
+    "dob": "24/09/1988",
+    "address": "1997 Cedar Court",
+    "city": "Seattle",
+    "state": "MI"
+  }
+}

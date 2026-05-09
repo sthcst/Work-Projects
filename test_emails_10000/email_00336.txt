@@ -1,0 +1,9 @@
+contact:
+  name: Angela Dominguez
+  email: angela.dominguez7392@work.org
+  phone: +1 618-576-9151
+  ssn: 325-35-7264
+  dob: 03-15-1964
+  address: 1253 South Ave
+  city: San Jose
+  state: TN

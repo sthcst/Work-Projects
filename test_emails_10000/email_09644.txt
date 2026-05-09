@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Miller,william.miller8700@work.org,554 823 5552,618792411,9/19/1954,"2014 First Blvd",San Diego,TX

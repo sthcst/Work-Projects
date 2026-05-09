@@ -1,0 +1,14 @@
+INVOICE 555384
+
+Bill To:
+Name: Lauren Thompson
+Email: lauren.thompson6632@company.com
+Phone: +1 850-328-4084
+SSN: 893 19 3982
+
+Address: 271 Park Rd
+Dallas, TN
+
+Date of Birth: 16/09/1952
+
+Amount Due: $2232

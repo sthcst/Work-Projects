@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Guerrero
+  email: shirley.guerrero426@example.com
+  phone: 368 264 8498
+  ssn: 030-70-6531
+  dob: 09/09/1973
+  address: 6611 Oak Blvd
+  city: San Diego
+  state: NY

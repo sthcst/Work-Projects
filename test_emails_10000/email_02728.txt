@@ -1,0 +1,9 @@
+contact:
+  name: Steven Nunez
+  email: steven.nunez1761@yahoo.com
+  phone: 482-578-2815
+  ssn: 311 16 5191
+  dob: 12/18/1982
+  address: 8117 North Way
+  city: Chicago
+  state: CA

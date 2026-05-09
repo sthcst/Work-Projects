@@ -1,0 +1,9 @@
+contact:
+  name: Robert Gonzalez
+  email: robert.gonzalez7776@example.com
+  phone: +1 333-870-9043
+  ssn: 745-39-3560
+  dob: 11/11/1961
+  address: 5578 Fourth Court
+  city: San Antonio
+  state: CA

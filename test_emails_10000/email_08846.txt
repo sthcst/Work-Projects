@@ -1,0 +1,9 @@
+contact:
+  name: Gary Sanchez
+  email: gary.sanchez376@gmail.com
+  phone: (859) 640-4397
+  ssn: 293168395
+  dob: 1/27/1979
+  address: 7585 Fourth St
+  city: New York
+  state: MI

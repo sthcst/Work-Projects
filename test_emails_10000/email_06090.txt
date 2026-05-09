@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Jackson,jacob.jackson7247@yahoo.com,346-819-1763,832381551,6/15/1953,"2535 South Dr",Philadelphia,VA

@@ -1,0 +1,9 @@
+contact:
+  name: Christine Jackson
+  email: christine.jackson2630@company.com
+  phone: (527) 345-6564
+  ssn: 625 72 1702
+  dob: 21/11/1954
+  address: 6664 Pine Dr
+  city: Houston
+  state: WA

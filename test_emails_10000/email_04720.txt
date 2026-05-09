@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Thompson,katherine.thompson7063@company.com,944-580-3543,141929453,03-27-1950,"7705 Second Way",San Antonio,FL

@@ -1,0 +1,9 @@
+contact:
+  name: John Romero
+  email: john.romero6679@outlook.com
+  phone: (713) 937-2823
+  ssn: 125-45-3643
+  dob: 4/5/1985
+  address: 2975 Cedar Rd
+  city: San Jose
+  state: NY

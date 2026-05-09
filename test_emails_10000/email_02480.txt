@@ -1,0 +1,9 @@
+contact:
+  name: Jane Collins
+  email: jane.collins1562@example.com
+  phone: +1 210-657-4117
+  ssn: 887-64-3817
+  dob: 5/2/1965
+  address: 4898 Main Dr
+  city: San Jose
+  state: WI

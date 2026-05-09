@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Taylor,christine.taylor5497@business.net,489-593-8657,913663581,22/01/1963,"361 East Ave",Austin,VA

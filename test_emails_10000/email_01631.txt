@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Jimenez",
+    "email": "shirley.jimenez6222@work.org",
+    "phone": "(527) 946-1172",
+    "ssn": "486722533",
+    "dob": "1/22/1981",
+    "address": "8572 Park Dr",
+    "city": "Seattle",
+    "state": "TN"
+  }
+}

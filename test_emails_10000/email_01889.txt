@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Wilson
+  email: kathleen.wilson7983@business.net
+  phone: 518 617 2747
+  ssn: 827-34-2617
+  dob: 11/25/1987
+  address: 544 Pine Dr
+  city: Seattle
+  state: MO

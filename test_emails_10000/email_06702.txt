@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Collins",
+    "email": "shirley.collins9631@company.com",
+    "phone": "+1 487-251-7855",
+    "ssn": "496-38-5779",
+    "dob": "16/09/1992",
+    "address": "7792 Summer St",
+    "city": "Washington",
+    "state": "WA"
+  }
+}

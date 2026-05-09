@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Flores
+  email: cynthia.flores1676@mail.com
+  phone: 638-940-2949
+  ssn: 506105916
+  dob: 04/19/1980
+  address: 5138 Cedar Ln
+  city: New York
+  state: TX

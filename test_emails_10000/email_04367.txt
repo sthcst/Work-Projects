@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Williams,nicholas.williams5147@company.com,(818) 400-1154,603 25 7839,7/1/1978,"7106 Fourth Rd",San Jose,NY

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Rodriguez,donald.rodriguez7607@example.com,+1 319-343-1742,969 05 5986,2/4/1965,"6377 First Blvd",Denver,NC

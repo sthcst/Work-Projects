@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Cooper,rebecca.cooper943@business.net,+1 906-387-6039,633 71 6964,12/19/1955,"713 Birch St",Seattle,MO

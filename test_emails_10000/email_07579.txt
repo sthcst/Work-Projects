@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Harris
+  email: daniel.harris4606@yahoo.com
+  phone: 473 959 9876
+  ssn: 478-86-5907
+  dob: 12/19/1950
+  address: 7381 Sixth Dr
+  city: Phoenix
+  state: MD

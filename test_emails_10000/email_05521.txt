@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Collins",
+    "email": "ryan.collins3135@work.org",
+    "phone": "+1 286-416-4345",
+    "ssn": "919205096",
+    "dob": "27/08/1975",
+    "address": "8577 Elm Court",
+    "city": "Los Angeles",
+    "state": "NY"
+  }
+}

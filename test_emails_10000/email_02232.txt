@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Murillo
+  email: nicholas.murillo898@business.net
+  phone: +1 648-883-5632
+  ssn: 748 23 1150
+  dob: 11-23-1951
+  address: 7721 Fourth Dr
+  city: Boston
+  state: PA

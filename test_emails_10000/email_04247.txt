@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Lewis
+  email: jeffrey.lewis3809@gmail.com
+  phone: 971-278-3691
+  ssn: 605-95-9652
+  dob: 10/28/1959
+  address: 615 Oak Blvd
+  city: Austin
+  state: NY

@@ -1,0 +1,14 @@
+INVOICE 108608
+
+Bill To:
+Name: Steven Reed
+Email: steven.reed715@company.com
+Phone: (270) 645-8012
+SSN: 747203119
+
+Address: 6654 Second Ln
+Denver, GA
+
+Date of Birth: 05-03-1974
+
+Amount Due: $6342

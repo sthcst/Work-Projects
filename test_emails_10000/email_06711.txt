@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Reeves",
+    "email": "daniel.reeves3640@business.net",
+    "phone": "(829) 276-4749",
+    "ssn": "412929599",
+    "dob": "24/01/1987",
+    "address": "9989 Summer Rd",
+    "city": "Boston",
+    "state": "NJ"
+  }
+}

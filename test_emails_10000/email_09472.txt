@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Harris",
+    "email": "angela.harris5499@business.net",
+    "phone": "463-495-8175",
+    "ssn": "625-96-8799",
+    "dob": "1/4/1980",
+    "address": "5533 Fifth Rd",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

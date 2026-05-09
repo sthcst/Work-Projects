@@ -1,0 +1,14 @@
+INVOICE 457523
+
+Bill To:
+Name: Charles Reeves
+Email: charles.reeves4536@outlook.com
+Phone: 881 209 9777
+SSN: 374-95-2030
+
+Address: 7388 South St
+San Jose, CO
+
+Date of Birth: 06-10-2000
+
+Amount Due: $5020

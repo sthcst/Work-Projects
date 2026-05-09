@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Gonzalez,john.gonzalez1779@yahoo.com,+1 764-772-8631,293863746,3/5/2004,"2113 Summer Court",Dallas,IL

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Roberts,paul.roberts4765@example.com,(503) 808-9216,522164321,06-17-1981,"3616 Cedar Blvd",San Jose,TN

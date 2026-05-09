@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Morgan",
+    "email": "michelle.morgan9910@mail.com",
+    "phone": "+1 391-641-4392",
+    "ssn": "308 67 7138",
+    "dob": "11/1/1953",
+    "address": "4100 Main Court",
+    "city": "Philadelphia",
+    "state": "OH"
+  }
+}

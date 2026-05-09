@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Martin",
+    "email": "gary.martin9796@mail.com",
+    "phone": "+1 918-972-5731",
+    "ssn": "957 55 5854",
+    "dob": "12/03/1965",
+    "address": "7486 Maple St",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

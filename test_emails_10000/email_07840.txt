@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Lopez",
+    "email": "kevin.lopez198@example.com",
+    "phone": "+1 349-848-1123",
+    "ssn": "230-98-4037",
+    "dob": "07-18-1976",
+    "address": "48 East Way",
+    "city": "Philadelphia",
+    "state": "PA"
+  }
+}

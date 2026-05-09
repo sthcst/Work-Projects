@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Campbell
+  email: deborah.campbell1481@work.org
+  phone: +1 793-392-5734
+  ssn: 210-99-4277
+  dob: 08-14-1961
+  address: 3078 South Ave
+  city: Seattle
+  state: IL

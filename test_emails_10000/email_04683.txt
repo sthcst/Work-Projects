@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Dominguez,katherine.dominguez3463@mail.com,+1 335-647-3465,419 07 7136,2/9/1957,"3638 Summer Ave",Chicago,IL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Williams",
+    "email": "joshua.williams9761@mail.com",
+    "phone": "(367) 816-4589",
+    "ssn": "074132344",
+    "dob": "05-25-1991",
+    "address": "2701 Birch Ln",
+    "city": "San Diego",
+    "state": "AZ"
+  }
+}

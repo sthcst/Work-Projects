@@ -1,0 +1,14 @@
+INVOICE 846354
+
+Bill To:
+Name: Michelle Flores
+Email: michelle.flores5453@company.com
+Phone: 395 421 4851
+SSN: 271-12-7480
+
+Address: 9061 South Ave
+Los Angeles, FL
+
+Date of Birth: 03/12/2004
+
+Amount Due: $2763

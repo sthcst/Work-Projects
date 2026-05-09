@@ -1,0 +1,9 @@
+contact:
+  name: Brian Jackson
+  email: brian.jackson5253@business.net
+  phone: 936 799 3170
+  ssn: 285344299
+  dob: 10/5/1994
+  address: 9554 Birch Court
+  city: Dallas
+  state: MD

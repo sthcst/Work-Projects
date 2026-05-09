@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Alvarado,jennifer.alvarado820@business.net,855 754 4725,550573524,08-21-1959,"8296 Elm Rd",Phoenix,TX

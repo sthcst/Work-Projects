@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Romero
+  email: lauren.romero122@outlook.com
+  phone: 390 443 8008
+  ssn: 768 31 8232
+  dob: 22/12/1963
+  address: 4095 Fourth St
+  city: Chicago
+  state: TX

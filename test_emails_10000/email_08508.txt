@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Wilson",
+    "email": "cynthia.wilson7486@company.com",
+    "phone": "211 512 3538",
+    "ssn": "746 77 5619",
+    "dob": "15/05/1973",
+    "address": "7819 Spring Ln",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Lewis",
+    "email": "nicole.lewis4876@gmail.com",
+    "phone": "666 860 3883",
+    "ssn": "738 49 4133",
+    "dob": "11/25/1980",
+    "address": "5456 Oak Court",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

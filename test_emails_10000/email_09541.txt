@@ -1,0 +1,9 @@
+contact:
+  name: Angela Anderson
+  email: angela.anderson3927@mail.com
+  phone: 976-477-4398
+  ssn: 666-85-1665
+  dob: 24/10/1950
+  address: 1853 Oak Court
+  city: Chicago
+  state: VA

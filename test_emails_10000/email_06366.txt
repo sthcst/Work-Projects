@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Campbell,jennifer.campbell4335@outlook.com,+1 619-452-6060,216 61 2737,09/27/2003,"4529 Maple Ln",Austin,MA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Hall",
+    "email": "emma.hall3354@company.com",
+    "phone": "394-389-4040",
+    "ssn": "855 44 6535",
+    "dob": "01-24-1974",
+    "address": "773 Fifth Dr",
+    "city": "New York",
+    "state": "OH"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Reed",
+    "email": "emma.reed2954@company.com",
+    "phone": "(537) 940-4023",
+    "ssn": "526-12-3618",
+    "dob": "05/09/1998",
+    "address": "8358 Third St",
+    "city": "San Jose",
+    "state": "WA"
+  }
+}

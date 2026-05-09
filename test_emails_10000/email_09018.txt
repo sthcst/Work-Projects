@@ -1,0 +1,14 @@
+INVOICE 753326
+
+Bill To:
+Name: Brian Clark
+Email: brian.clark7860@mail.com
+Phone: 298-808-7591
+SSN: 897 08 4762
+
+Address: 5950 Elm Ln
+Washington, FL
+
+Date of Birth: 05/10/1959
+
+Amount Due: $3073

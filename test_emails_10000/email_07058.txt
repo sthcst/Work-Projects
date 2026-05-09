@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Martin",
+    "email": "jennifer.martin5925@company.com",
+    "phone": "+1 541-336-3509",
+    "ssn": "812 61 7566",
+    "dob": "10-02-1987",
+    "address": "1308 Cedar Rd",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

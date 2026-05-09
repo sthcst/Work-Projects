@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Campbell
+  email: timothy.campbell7867@outlook.com
+  phone: 865-452-3594
+  ssn: 425 42 9444
+  dob: 6/1/1962
+  address: 8060 Sixth St
+  city: Philadelphia
+  state: NJ

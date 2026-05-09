@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Rogers",
+    "email": "james.rogers1966@outlook.com",
+    "phone": "414 643 3525",
+    "ssn": "831 98 9741",
+    "dob": "6/4/1974",
+    "address": "9379 Birch Rd",
+    "city": "Dallas",
+    "state": "WA"
+  }
+}

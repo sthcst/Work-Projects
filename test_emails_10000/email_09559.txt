@@ -1,0 +1,14 @@
+INVOICE 768686
+
+Bill To:
+Name: Donald Garcia
+Email: donald.garcia9900@outlook.com
+Phone: 617-462-2119
+SSN: 308556267
+
+Address: 2919 Summer Court
+Los Angeles, PA
+
+Date of Birth: 20/05/1963
+
+Amount Due: $445

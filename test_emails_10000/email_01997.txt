@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Lewis
+  email: ryan.lewis4848@work.org
+  phone: +1 495-802-7842
+  ssn: 449 67 5778
+  dob: 12/5/1979
+  address: 3980 Pine Ave
+  city: Austin
+  state: CO

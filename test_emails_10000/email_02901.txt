@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Sanchez,jane.sanchez8038@outlook.com,787-409-1443,315121279,11/10/1985,"9613 West St",San Jose,CO

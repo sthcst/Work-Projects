@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Morris",
+    "email": "cynthia.morris3209@yahoo.com",
+    "phone": "886-662-9174",
+    "ssn": "439 54 8012",
+    "dob": "12/01/1961",
+    "address": "6859 Elm Rd",
+    "city": "New York",
+    "state": "MA"
+  }
+}

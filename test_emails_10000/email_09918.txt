@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Young",
+    "email": "paul.young8106@outlook.com",
+    "phone": "714-705-8795",
+    "ssn": "446-95-4431",
+    "dob": "06/15/1978",
+    "address": "2792 West Ave",
+    "city": "Phoenix",
+    "state": "WA"
+  }
+}

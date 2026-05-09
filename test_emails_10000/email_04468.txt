@@ -1,0 +1,14 @@
+INVOICE 861353
+
+Bill To:
+Name: Jeffrey Perez
+Email: jeffrey.perez5492@yahoo.com
+Phone: 321-435-3748
+SSN: 098 87 6810
+
+Address: 2127 Second St
+Washington, CA
+
+Date of Birth: 8/26/1990
+
+Amount Due: $8794

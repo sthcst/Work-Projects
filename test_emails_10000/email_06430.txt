@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Carter,john.carter9312@business.net,+1 346-882-9223,939-78-5574,3/1/1953,"2261 South Blvd",Houston,OH

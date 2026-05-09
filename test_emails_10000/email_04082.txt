@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Campbell",
+    "email": "ashley.campbell4789@gmail.com",
+    "phone": "674-383-3249",
+    "ssn": "831-47-9448",
+    "dob": "24/04/1987",
+    "address": "2179 Second Ave",
+    "city": "Denver",
+    "state": "MD"
+  }
+}

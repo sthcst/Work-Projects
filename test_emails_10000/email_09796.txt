@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Alvarado",
+    "email": "paul.alvarado2381@yahoo.com",
+    "phone": "469-235-9056",
+    "ssn": "053-11-8016",
+    "dob": "11/28/1971",
+    "address": "3336 Sixth Way",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

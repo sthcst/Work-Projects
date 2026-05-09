@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Gonzalez,rachel.gonzalez778@business.net,828 762 5965,680 99 6125,14/08/1997,"3899 Summer Blvd",San Jose,TX

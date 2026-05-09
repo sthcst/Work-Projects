@@ -1,0 +1,9 @@
+contact:
+  name: Richard Miller
+  email: richard.miller3299@company.com
+  phone: +1 438-317-4920
+  ssn: 108526505
+  dob: 02-20-2005
+  address: 9614 Birch Ln
+  city: Denver
+  state: TX

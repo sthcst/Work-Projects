@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Roberts,andrew.roberts3425@gmail.com,245-457-7585,066-19-4702,26/12/1969,"2721 Cedar Way",Los Angeles,TN

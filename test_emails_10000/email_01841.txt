@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Peterson",
+    "email": "anthony.peterson615@example.com",
+    "phone": "(475) 473-6314",
+    "ssn": "005 24 6757",
+    "dob": "8/21/1953",
+    "address": "1984 Second Rd",
+    "city": "Austin",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Carter,ronald.carter1706@mail.com,+1 224-847-9154,267791387,09/16/1998,"8424 First Rd",New York,OH

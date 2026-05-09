@@ -1,0 +1,14 @@
+INVOICE 748824
+
+Bill To:
+Name: Joshua Reeves
+Email: joshua.reeves2214@example.com
+Phone: (331) 597-1838
+SSN: 638 01 6090
+
+Address: 7184 Maple Court
+Philadelphia, TX
+
+Date of Birth: 6/1/1957
+
+Amount Due: $4278

@@ -1,0 +1,9 @@
+contact:
+  name: Gary Dominguez
+  email: gary.dominguez7958@gmail.com
+  phone: 473 515 8770
+  ssn: 823 10 9827
+  dob: 10/10/1992
+  address: 3736 Sixth St
+  city: Dallas
+  state: CA

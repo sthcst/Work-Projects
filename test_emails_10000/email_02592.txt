@@ -1,0 +1,14 @@
+INVOICE 876365
+
+Bill To:
+Name: Nicholas Smith
+Email: nicholas.smith5539@gmail.com
+Phone: +1 410-242-2013
+SSN: 493175098
+
+Address: 4078 East Way
+Boston, WA
+
+Date of Birth: 17/11/1970
+
+Amount Due: $6725

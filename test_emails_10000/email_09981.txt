@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Morgan
+  email: katherine.morgan5871@gmail.com
+  phone: (540) 628-1801
+  ssn: 472228909
+  dob: 17/05/1981
+  address: 3569 Fourth Court
+  city: Denver
+  state: MA

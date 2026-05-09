@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Nelson,kenneth.nelson4043@company.com,(424) 230-2021,449477434,18/07/2002,"590 Sixth Rd",Boston,CA

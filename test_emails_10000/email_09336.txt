@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Romero",
+    "email": "richard.romero9719@yahoo.com",
+    "phone": "740 770 5296",
+    "ssn": "947244297",
+    "dob": "10-15-1993",
+    "address": "2427 First Court",
+    "city": "Austin",
+    "state": "AZ"
+  }
+}

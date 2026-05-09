@@ -1,0 +1,14 @@
+INVOICE 129808
+
+Bill To:
+Name: Brenda Edwards
+Email: brenda.edwards7938@example.com
+Phone: (516) 902-3348
+SSN: 032 48 4230
+
+Address: 7804 Birch Ln
+San Diego, CO
+
+Date of Birth: 9/12/1991
+
+Amount Due: $5013

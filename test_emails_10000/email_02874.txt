@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Serrano
+  email: kenneth.serrano1367@work.org
+  phone: +1 309-527-6478
+  ssn: 420389546
+  dob: 12/13/1966
+  address: 2509 Maple Dr
+  city: Boston
+  state: NC

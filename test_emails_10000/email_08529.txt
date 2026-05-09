@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Rodriguez,christine.rodriguez4724@example.com,(845) 570-9036,089378585,11/19/1966,"717 Fifth Court",Seattle,AZ

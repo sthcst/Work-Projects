@@ -1,0 +1,9 @@
+contact:
+  name: Brian Phillips
+  email: brian.phillips678@business.net
+  phone: (310) 331-3502
+  ssn: 336-45-6460
+  dob: 2/19/1979
+  address: 6800 Birch Ave
+  city: Seattle
+  state: NJ

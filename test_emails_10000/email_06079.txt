@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Hernandez
+  email: ryan.hernandez9493@example.com
+  phone: 627 959 3595
+  ssn: 998 73 9306
+  dob: 24/07/1964
+  address: 2518 West Way
+  city: San Antonio
+  state: IL

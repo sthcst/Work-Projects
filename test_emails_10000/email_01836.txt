@@ -1,0 +1,14 @@
+INVOICE 144813
+
+Bill To:
+Name: Donald Collins
+Email: donald.collins9296@company.com
+Phone: 995-769-3543
+SSN: 989248340
+
+Address: 9384 South Ln
+Austin, CA
+
+Date of Birth: 04/09/1967
+
+Amount Due: $7287

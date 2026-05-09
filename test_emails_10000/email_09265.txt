@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Carter",
+    "email": "deborah.carter2695@mail.com",
+    "phone": "286 625 1416",
+    "ssn": "029 73 1236",
+    "dob": "04-25-1978",
+    "address": "287 Elm Court",
+    "city": "San Diego",
+    "state": "FL"
+  }
+}

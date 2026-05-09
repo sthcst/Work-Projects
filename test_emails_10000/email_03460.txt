@@ -1,0 +1,9 @@
+contact:
+  name: Helen Campbell
+  email: helen.campbell1181@business.net
+  phone: 735 504 2031
+  ssn: 909-36-5753
+  dob: 17/07/2003
+  address: 307 South Rd
+  city: Jacksonville
+  state: TN

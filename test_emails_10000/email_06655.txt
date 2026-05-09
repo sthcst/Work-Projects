@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Lewis",
+    "email": "george.lewis5438@company.com",
+    "phone": "(924) 608-3475",
+    "ssn": "757-69-6420",
+    "dob": "01-25-1975",
+    "address": "1662 Maple Ave",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

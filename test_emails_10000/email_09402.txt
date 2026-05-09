@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Hernandez
+  email: shirley.hernandez6480@business.net
+  phone: 832 455 8731
+  ssn: 615991826
+  dob: 02/07/1980
+  address: 9002 Birch Dr
+  city: San Diego
+  state: CA

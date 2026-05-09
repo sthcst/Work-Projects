@@ -1,0 +1,14 @@
+INVOICE 112510
+
+Bill To:
+Name: Daniel Thomas
+Email: daniel.thomas1647@example.com
+Phone: 819-371-9376
+SSN: 090-88-9573
+
+Address: 40 Main Dr
+San Jose, OH
+
+Date of Birth: 20/10/1990
+
+Amount Due: $8084

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Jones,sarah.jones1838@gmail.com,691 433 1277,545-30-6576,23/02/1955,"8563 Summer Dr",Philadelphia,MI

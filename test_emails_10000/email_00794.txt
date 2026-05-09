@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Roberts",
+    "email": "jacob.roberts7864@gmail.com",
+    "phone": "201-343-7895",
+    "ssn": "992 72 8606",
+    "dob": "10/05/1984",
+    "address": "8143 East Dr",
+    "city": "Seattle",
+    "state": "NC"
+  }
+}

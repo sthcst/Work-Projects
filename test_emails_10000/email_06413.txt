@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Flores
+  email: lauren.flores5461@business.net
+  phone: 898 696 7531
+  ssn: 299 19 6179
+  dob: 01/26/1980
+  address: 6665 North St
+  city: Houston
+  state: WA

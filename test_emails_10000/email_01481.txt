@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Martinez
+  email: kevin.martinez7424@company.com
+  phone: +1 929-291-4957
+  ssn: 337 45 7511
+  dob: 10/14/1965
+  address: 8900 Fifth Blvd
+  city: Denver
+  state: NJ

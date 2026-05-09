@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Johnson,brian.johnson1312@mail.com,(933) 945-9723,985021865,09/07/2003,"2011 North Court",Seattle,MA

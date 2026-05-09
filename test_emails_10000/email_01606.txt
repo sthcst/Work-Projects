@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Phillips,brenda.phillips5848@mail.com,336 618 2805,323 16 1494,01-24-1972,"8164 Main Blvd",Philadelphia,OH

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Peterson",
+    "email": "jason.peterson4964@gmail.com",
+    "phone": "999 229 8777",
+    "ssn": "227-59-4424",
+    "dob": "05/03/1972",
+    "address": "6339 Birch Rd",
+    "city": "Dallas",
+    "state": "TN"
+  }
+}

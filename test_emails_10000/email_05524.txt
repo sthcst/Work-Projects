@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Brown",
+    "email": "amanda.brown730@yahoo.com",
+    "phone": "+1 465-715-4636",
+    "ssn": "969322400",
+    "dob": "14/01/1992",
+    "address": "1976 Third Blvd",
+    "city": "San Jose",
+    "state": "OH"
+  }
+}

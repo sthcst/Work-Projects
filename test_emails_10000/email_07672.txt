@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Phillips",
+    "email": "anthony.phillips3818@gmail.com",
+    "phone": "(437) 932-7826",
+    "ssn": "252 79 5067",
+    "dob": "9/4/1962",
+    "address": "2224 Fifth Ln",
+    "city": "Boston",
+    "state": "CO"
+  }
+}

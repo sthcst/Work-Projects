@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Parker",
+    "email": "paul.parker3682@example.com",
+    "phone": "(431) 492-4111",
+    "ssn": "097025710",
+    "dob": "06/23/1952",
+    "address": "2897 First Way",
+    "city": "Houston",
+    "state": "GA"
+  }
+}

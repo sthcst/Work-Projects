@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Wilson,ryan.wilson9401@business.net,237-484-1387,175 12 5391,05-03-2001,"5485 Fifth Way",Seattle,TX

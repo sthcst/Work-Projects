@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Peterson",
+    "email": "nicholas.peterson8300@business.net",
+    "phone": "(481) 331-7983",
+    "ssn": "293111771",
+    "dob": "27/05/1970",
+    "address": "8748 Fifth Ave",
+    "city": "Seattle",
+    "state": "GA"
+  }
+}

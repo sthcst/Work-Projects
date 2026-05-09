@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Serrano,stephanie.serrano7658@gmail.com,426-998-1749,043117623,03-26-1958,"3232 North Ln",Los Angeles,TX

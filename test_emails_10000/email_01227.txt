@@ -1,0 +1,9 @@
+contact:
+  name: Emma Carter
+  email: emma.carter245@company.com
+  phone: (430) 791-2109
+  ssn: 731744737
+  dob: 3/11/1958
+  address: 6601 First Ave
+  city: Philadelphia
+  state: MA

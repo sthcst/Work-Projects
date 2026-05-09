@@ -1,0 +1,12 @@
+SUPPORT TICKET #29415
+
+Customer: Charles Perez
+Email: charles.perez6148@example.com
+Phone: (857) 213-2271
+Account: 641 27 4191
+
+Issue Description: Technical problem reported
+DOB on file: 11/27/1950
+Address: 2296 First Blvd, San Antonio, MA
+
+Status: OPEN

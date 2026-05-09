@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Stewart",
+    "email": "donald.stewart9364@gmail.com",
+    "phone": "+1 464-345-5492",
+    "ssn": "081403344",
+    "dob": "10-22-1951",
+    "address": "5893 First Court",
+    "city": "Denver",
+    "state": "PA"
+  }
+}

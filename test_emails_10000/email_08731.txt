@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Taylor
+  email: joseph.taylor5304@company.com
+  phone: 943-763-9725
+  ssn: 584-34-8330
+  dob: 12/14/1955
+  address: 946 Spring Ave
+  city: San Antonio
+  state: MA

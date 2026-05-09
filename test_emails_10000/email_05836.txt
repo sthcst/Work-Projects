@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Williams",
+    "email": "robert.williams5806@outlook.com",
+    "phone": "(630) 560-5044",
+    "ssn": "749 77 8243",
+    "dob": "12/14/1990",
+    "address": "4606 Sixth Blvd",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

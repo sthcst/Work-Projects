@@ -1,0 +1,14 @@
+INVOICE 517927
+
+Bill To:
+Name: Angela Romero
+Email: angela.romero632@company.com
+Phone: 698-505-3566
+SSN: 478233847
+
+Address: 8700 Oak Court
+Jacksonville, NC
+
+Date of Birth: 01/09/1988
+
+Amount Due: $3503

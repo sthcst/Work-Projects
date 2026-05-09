@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Serrano
+  email: daniel.serrano1950@work.org
+  phone: +1 792-401-5209
+  ssn: 223 15 8836
+  dob: 3/8/1952
+  address: 6088 Maple Way
+  city: New York
+  state: PA

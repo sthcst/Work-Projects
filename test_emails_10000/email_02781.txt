@@ -1,0 +1,9 @@
+contact:
+  name: Christine Jones
+  email: christine.jones4466@outlook.com
+  phone: 510-322-6952
+  ssn: 148 31 8370
+  dob: 09/16/2001
+  address: 450 Main Blvd
+  city: Dallas
+  state: WI

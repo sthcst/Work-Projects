@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Romero",
+    "email": "megan.romero1349@company.com",
+    "phone": "947-936-7488",
+    "ssn": "672 51 7894",
+    "dob": "12/19/1998",
+    "address": "2845 West Court",
+    "city": "Jacksonville",
+    "state": "MO"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Lopez",
+    "email": "nicholas.lopez3873@work.org",
+    "phone": "+1 208-737-1508",
+    "ssn": "883-89-6452",
+    "dob": "09/06/1984",
+    "address": "2890 Maple Ln",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

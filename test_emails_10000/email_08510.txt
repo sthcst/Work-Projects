@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Gomez",
+    "email": "robert.gomez9940@example.com",
+    "phone": "889-290-6776",
+    "ssn": "133241518",
+    "dob": "11/27/1986",
+    "address": "2314 Cedar Way",
+    "city": "Phoenix",
+    "state": "IL"
+  }
+}

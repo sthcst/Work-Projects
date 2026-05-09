@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Lewis",
+    "email": "lisa.lewis7981@company.com",
+    "phone": "(231) 385-6870",
+    "ssn": "216434786",
+    "dob": "07-11-1998",
+    "address": "113 Cedar Court",
+    "city": "Denver",
+    "state": "TN"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Wilson
+  email: kenneth.wilson6421@outlook.com
+  phone: +1 699-569-1717
+  ssn: 095 92 6080
+  dob: 09/08/1991
+  address: 4400 East Blvd
+  city: New York
+  state: TN

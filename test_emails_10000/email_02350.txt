@@ -1,0 +1,14 @@
+INVOICE 459712
+
+Bill To:
+Name: James Hall
+Email: james.hall8935@business.net
+Phone: +1 240-678-7223
+SSN: 716799811
+
+Address: 4475 Spring Ave
+Houston, GA
+
+Date of Birth: 07-28-2005
+
+Amount Due: $4404

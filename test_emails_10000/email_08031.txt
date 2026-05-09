@@ -1,0 +1,14 @@
+INVOICE 956308
+
+Bill To:
+Name: Maria Hernandez
+Email: maria.hernandez3294@mail.com
+Phone: (568) 552-8926
+SSN: 482-60-4996
+
+Address: 7496 Main Ave
+Dallas, MI
+
+Date of Birth: 07-04-1989
+
+Amount Due: $9393

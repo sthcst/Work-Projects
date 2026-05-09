@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Miller,rachel.miller56@example.com,430 738 8546,847453708,06-05-1980,"8273 Fifth Blvd",Chicago,AZ

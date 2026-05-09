@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Robinson,james.robinson1276@business.net,403 370 8693,562-71-2388,09/04/1974,"5032 South Dr",Jacksonville,MA

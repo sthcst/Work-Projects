@@ -1,0 +1,9 @@
+contact:
+  name: Emma Phillips
+  email: emma.phillips9601@gmail.com
+  phone: 236-248-7084
+  ssn: 374673069
+  dob: 04-21-1983
+  address: 1696 West Ln
+  city: Austin
+  state: AZ

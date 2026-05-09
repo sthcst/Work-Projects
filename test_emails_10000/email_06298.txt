@@ -1,0 +1,14 @@
+INVOICE 612622
+
+Bill To:
+Name: Andrew Flores
+Email: andrew.flores7750@work.org
+Phone: 322 571 1029
+SSN: 523845563
+
+Address: 2837 Birch Way
+Houston, FL
+
+Date of Birth: 9/12/1972
+
+Amount Due: $9808

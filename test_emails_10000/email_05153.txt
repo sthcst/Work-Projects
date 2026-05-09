@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Miller",
+    "email": "deborah.miller2010@business.net",
+    "phone": "766-327-7718",
+    "ssn": "140-81-2379",
+    "dob": "11/02/1990",
+    "address": "7949 Summer Ln",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

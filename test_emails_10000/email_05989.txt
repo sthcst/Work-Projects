@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Davis",
+    "email": "nicole.davis1135@example.com",
+    "phone": "643 825 3819",
+    "ssn": "471-53-5354",
+    "dob": "24/01/2000",
+    "address": "3447 Spring St",
+    "city": "Austin",
+    "state": "NY"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Helen Reed
+  email: helen.reed9733@company.com
+  phone: 723-642-1115
+  ssn: 446-91-3655
+  dob: 11-26-1957
+  address: 3971 Third Court
+  city: San Jose
+  state: CA

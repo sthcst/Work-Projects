@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Cooper",
+    "email": "sarah.cooper431@business.net",
+    "phone": "707 519 8331",
+    "ssn": "271 55 6150",
+    "dob": "10/7/1966",
+    "address": "8533 Fourth Way",
+    "city": "Boston",
+    "state": "CA"
+  }
+}

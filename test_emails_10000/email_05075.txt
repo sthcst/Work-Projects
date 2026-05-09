@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Williams,michael.williams9470@gmail.com,781-450-5736,957275149,13/08/1980,"8148 Cedar Court",San Antonio,MI

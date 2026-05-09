@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Carter",
+    "email": "kathleen.carter6999@outlook.com",
+    "phone": "474-219-2334",
+    "ssn": "901701197",
+    "dob": "08/20/1967",
+    "address": "243 West Blvd",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

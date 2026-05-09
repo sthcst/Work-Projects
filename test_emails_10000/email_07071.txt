@@ -1,0 +1,14 @@
+INVOICE 600495
+
+Bill To:
+Name: Jason Bell
+Email: jason.bell7673@company.com
+Phone: 614 817 1349
+SSN: 438189767
+
+Address: 6834 Spring Court
+Washington, TX
+
+Date of Birth: 8/11/1985
+
+Amount Due: $1225

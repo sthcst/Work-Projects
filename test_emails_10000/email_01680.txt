@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Peterson
+  email: joseph.peterson1549@example.com
+  phone: 762-359-4117
+  ssn: 108 01 2045
+  dob: 02/23/1978
+  address: 9874 Fifth Dr
+  city: Austin
+  state: WA

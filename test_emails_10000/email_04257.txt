@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Thomas",
+    "email": "stephanie.thomas6571@outlook.com",
+    "phone": "(417) 230-9768",
+    "ssn": "546861550",
+    "dob": "12/04/1973",
+    "address": "1438 Spring Rd",
+    "city": "Houston",
+    "state": "OH"
+  }
+}

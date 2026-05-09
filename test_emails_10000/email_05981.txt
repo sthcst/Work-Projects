@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Alvarado
+  email: amanda.alvarado1915@example.com
+  phone: (767) 872-2352
+  ssn: 033 99 6332
+  dob: 03/08/2000
+  address: 2043 Oak Court
+  city: Dallas
+  state: AZ

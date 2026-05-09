@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Miller",
+    "email": "nicole.miller253@work.org",
+    "phone": "+1 922-460-1973",
+    "ssn": "650618160",
+    "dob": "06-25-1974",
+    "address": "4241 Sixth Rd",
+    "city": "Austin",
+    "state": "MA"
+  }
+}

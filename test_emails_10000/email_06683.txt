@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Morgan,timothy.morgan2478@business.net,+1 264-720-1482,128 55 7861,11/25/2005,"5757 North Way",Chicago,TX

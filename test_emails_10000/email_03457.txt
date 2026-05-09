@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Clark
+  email: timothy.clark3371@company.com
+  phone: 795-239-8091
+  ssn: 926846691
+  dob: 11/5/1959
+  address: 81 Main Dr
+  city: Boston
+  state: CA

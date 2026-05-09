@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Carter",
+    "email": "joseph.carter291@business.net",
+    "phone": "714-248-9779",
+    "ssn": "768-26-4190",
+    "dob": "02/06/1969",
+    "address": "9510 Pine Ave",
+    "city": "Philadelphia",
+    "state": "OH"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Romero,robert.romero7524@business.net,259 662 8681,322-85-6910,3/25/1984,"1121 Sixth Ave",Los Angeles,FL

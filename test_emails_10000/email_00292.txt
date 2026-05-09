@@ -1,0 +1,9 @@
+contact:
+  name: Paul Martinez
+  email: paul.martinez1562@gmail.com
+  phone: 540-440-8715
+  ssn: 931-46-1745
+  dob: 17/05/1989
+  address: 4966 East Blvd
+  city: Phoenix
+  state: MD

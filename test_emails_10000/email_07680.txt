@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Hall",
+    "email": "jeffrey.hall324@work.org",
+    "phone": "428 849 7036",
+    "ssn": "970431257",
+    "dob": "10/04/1960",
+    "address": "8697 Fourth Dr",
+    "city": "Austin",
+    "state": "AZ"
+  }
+}

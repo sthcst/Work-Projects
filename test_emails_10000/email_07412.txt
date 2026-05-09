@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Miller,stephanie.miller3503@gmail.com,+1 601-939-1537,478-61-5042,20/12/1962,"944 Sixth Blvd",Jacksonville,NC

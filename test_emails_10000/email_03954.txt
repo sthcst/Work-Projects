@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Ramirez
+  email: kevin.ramirez415@outlook.com
+  phone: (646) 588-6976
+  ssn: 974-83-9489
+  dob: 12/21/1991
+  address: 8258 Pine Dr
+  city: San Jose
+  state: AZ

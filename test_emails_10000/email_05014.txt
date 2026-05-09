@@ -1,0 +1,9 @@
+contact:
+  name: Megan Campbell
+  email: megan.campbell6630@yahoo.com
+  phone: (259) 792-6300
+  ssn: 999 17 1390
+  dob: 10/22/2001
+  address: 7375 Third Dr
+  city: Philadelphia
+  state: GA

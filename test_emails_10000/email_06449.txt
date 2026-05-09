@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Harris,amanda.harris3795@work.org,836 535 7225,625717651,08/06/1951,"7079 Oak Blvd",Chicago,MI

@@ -1,0 +1,14 @@
+INVOICE 306892
+
+Bill To:
+Name: Brian Jones
+Email: brian.jones2190@example.com
+Phone: 641 828 4454
+SSN: 241557469
+
+Address: 7718 North Dr
+San Diego, CO
+
+Date of Birth: 08-20-1967
+
+Amount Due: $7959

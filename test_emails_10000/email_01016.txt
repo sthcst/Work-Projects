@@ -1,0 +1,14 @@
+INVOICE 178697
+
+Bill To:
+Name: Joshua Miller
+Email: joshua.miller1248@company.com
+Phone: 543-423-6431
+SSN: 053538099
+
+Address: 8986 Spring Blvd
+Austin, PA
+
+Date of Birth: 13/03/1954
+
+Amount Due: $133

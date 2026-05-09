@@ -1,0 +1,9 @@
+contact:
+  name: Jane Carter
+  email: jane.carter1745@mail.com
+  phone: 854 490 9002
+  ssn: 314-64-4939
+  dob: 05-23-1964
+  address: 9983 Second Ln
+  city: Denver
+  state: AZ

@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Gomez
+  email: sarah.gomez3077@business.net
+  phone: 651 528 6602
+  ssn: 090 66 7452
+  dob: 07/04/1966
+  address: 3104 North Dr
+  city: Dallas
+  state: NY

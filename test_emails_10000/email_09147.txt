@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Jackson",
+    "email": "kimberly.jackson8982@outlook.com",
+    "phone": "(424) 682-2431",
+    "ssn": "426571652",
+    "dob": "07/22/1998",
+    "address": "1720 Oak Blvd",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

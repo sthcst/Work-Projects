@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Ortiz",
+    "email": "robert.ortiz2612@company.com",
+    "phone": "648-797-3822",
+    "ssn": "992-23-6847",
+    "dob": "13/02/1975",
+    "address": "9838 Cedar St",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

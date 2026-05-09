@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Dominguez",
+    "email": "rebecca.dominguez9789@example.com",
+    "phone": "+1 714-829-7994",
+    "ssn": "395 16 2019",
+    "dob": "02/28/1966",
+    "address": "498 Spring Ln",
+    "city": "San Jose",
+    "state": "MA"
+  }
+}

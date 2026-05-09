@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Lopez,jeffrey.lopez7397@gmail.com,+1 457-821-2921,312-40-6331,04-16-1994,"2946 Main Ave",Jacksonville,MA

@@ -1,0 +1,9 @@
+contact:
+  name: Anna Hernandez
+  email: anna.hernandez7284@yahoo.com
+  phone: (597) 490-5533
+  ssn: 346-78-3914
+  dob: 09/07/2001
+  address: 9659 Fourth Blvd
+  city: Chicago
+  state: AZ

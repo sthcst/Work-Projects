@@ -1,0 +1,9 @@
+contact:
+  name: Jason Alvarado
+  email: jason.alvarado4001@mail.com
+  phone: (518) 312-8892
+  ssn: 451 55 6043
+  dob: 10/6/1989
+  address: 4730 Third Court
+  city: New York
+  state: CO

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul White",
+    "email": "paul.white8777@example.com",
+    "phone": "749-914-9733",
+    "ssn": "782 65 7010",
+    "dob": "11/08/1982",
+    "address": "3009 Fourth Blvd",
+    "city": "Phoenix",
+    "state": "IL"
+  }
+}

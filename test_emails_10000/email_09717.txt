@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Anderson,nicholas.anderson9696@outlook.com,709 770 1232,182-28-5089,08/03/1997,"7176 Sixth Blvd",Washington,TX

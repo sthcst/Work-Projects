@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Lopez,kimberly.lopez5496@yahoo.com,+1 620-870-1345,654535365,02-23-1985,"597 Maple Dr",Jacksonville,NY

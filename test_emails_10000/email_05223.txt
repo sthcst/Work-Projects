@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Davis",
+    "email": "rebecca.davis366@company.com",
+    "phone": "583-686-2426",
+    "ssn": "836014393",
+    "dob": "7/3/1994",
+    "address": "4426 Park Way",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Delgado,michelle.delgado351@example.com,918-830-1559,351 09 8284,10/10/1982,"7862 Fourth Ln",San Jose,CA

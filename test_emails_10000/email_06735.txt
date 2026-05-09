@@ -1,0 +1,12 @@
+SUPPORT TICKET #35989
+
+Customer: George Ramirez
+Email: george.ramirez1924@example.com
+Phone: (506) 529-6265
+Account: 952114282
+
+Issue Description: Technical problem reported
+DOB on file: 26/02/1958
+Address: 5942 Elm Ln, Dallas, TX
+
+Status: OPEN

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Jackson,jeffrey.jackson5819@business.net,+1 641-306-2694,165475778,03/07/1963,"246 Fourth St",Jacksonville,MA

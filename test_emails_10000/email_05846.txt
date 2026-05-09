@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Dominguez
+  email: samantha.dominguez210@business.net
+  phone: 518 325 3875
+  ssn: 636-58-5749
+  dob: 05-01-1965
+  address: 55 Oak Dr
+  city: Dallas
+  state: FL

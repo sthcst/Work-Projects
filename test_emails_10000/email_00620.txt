@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Nunez
+  email: kenneth.nunez6631@gmail.com
+  phone: 463 309 3424
+  ssn: 569-29-4587
+  dob: 08-05-1956
+  address: 6770 East Way
+  city: Austin
+  state: CA

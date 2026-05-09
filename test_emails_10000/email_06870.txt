@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Cooper
+  email: kathleen.cooper3956@gmail.com
+  phone: +1 847-724-3286
+  ssn: 504-22-8429
+  dob: 03/07/1968
+  address: 1493 Birch Ln
+  city: Phoenix
+  state: TX

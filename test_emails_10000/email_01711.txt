@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Perez,joseph.perez1750@business.net,381 897 7109,062 72 2925,10/11/1988,"5060 Park Ave",Austin,NY

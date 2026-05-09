@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Dominguez
+  email: kevin.dominguez8651@example.com
+  phone: +1 385-600-5000
+  ssn: 178 44 9069
+  dob: 11/22/1956
+  address: 2899 Maple Court
+  city: Phoenix
+  state: FL

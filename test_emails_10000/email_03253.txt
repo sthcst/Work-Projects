@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Rodriguez",
+    "email": "lisa.rodriguez8966@gmail.com",
+    "phone": "796-320-9203",
+    "ssn": "717-01-8813",
+    "dob": "11/06/1999",
+    "address": "8514 Fifth Blvd",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

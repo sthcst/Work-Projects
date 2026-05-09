@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Stewart",
+    "email": "daniel.stewart9626@company.com",
+    "phone": "+1 512-648-3757",
+    "ssn": "470 04 8668",
+    "dob": "9/7/2001",
+    "address": "7240 Spring Dr",
+    "city": "Dallas",
+    "state": "TN"
+  }
+}

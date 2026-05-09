@@ -1,0 +1,14 @@
+INVOICE 549211
+
+Bill To:
+Name: Shirley Harris
+Email: shirley.harris3359@company.com
+Phone: +1 237-247-4149
+SSN: 217 60 3375
+
+Address: 6244 Birch Ln
+Philadelphia, TX
+
+Date of Birth: 21/07/1975
+
+Amount Due: $6297

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Gomez,james.gomez8147@example.com,(907) 753-6127,931 40 1837,10/09/1992,"4262 Park Dr",Washington,MD

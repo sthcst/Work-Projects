@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Smith",
+    "email": "gary.smith318@mail.com",
+    "phone": "918-242-3929",
+    "ssn": "540 63 6115",
+    "dob": "11/03/1959",
+    "address": "2420 Cedar St",
+    "city": "Chicago",
+    "state": "WA"
+  }
+}

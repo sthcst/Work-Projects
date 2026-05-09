@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Reyes",
+    "email": "kathleen.reyes462@mail.com",
+    "phone": "+1 456-320-4759",
+    "ssn": "082 91 1382",
+    "dob": "07/13/1999",
+    "address": "2524 Sixth Court",
+    "city": "Phoenix",
+    "state": "OH"
+  }
+}

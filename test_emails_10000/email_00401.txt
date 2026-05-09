@@ -1,0 +1,14 @@
+INVOICE 785999
+
+Bill To:
+Name: Charles Gonzalez
+Email: charles.gonzalez5429@business.net
+Phone: 714-993-3460
+SSN: 025 76 7260
+
+Address: 4763 Cedar Rd
+Seattle, IL
+
+Date of Birth: 10/28/2004
+
+Amount Due: $2407

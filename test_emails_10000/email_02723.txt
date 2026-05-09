@@ -1,0 +1,14 @@
+INVOICE 212513
+
+Bill To:
+Name: Nicole Hernandez
+Email: nicole.hernandez9703@example.com
+Phone: 940-229-3974
+SSN: 878653909
+
+Address: 2904 West Dr
+Phoenix, TN
+
+Date of Birth: 07/07/1996
+
+Amount Due: $2740

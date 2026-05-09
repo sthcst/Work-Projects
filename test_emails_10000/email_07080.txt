@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Smith",
+    "email": "sarah.smith9796@yahoo.com",
+    "phone": "790-604-4748",
+    "ssn": "068-18-6114",
+    "dob": "21/10/1952",
+    "address": "4074 East Ln",
+    "city": "Los Angeles",
+    "state": "TN"
+  }
+}

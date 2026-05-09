@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Martin",
+    "email": "joseph.martin580@outlook.com",
+    "phone": "447 420 4555",
+    "ssn": "547044266",
+    "dob": "10-06-1966",
+    "address": "2610 North Dr",
+    "city": "Denver",
+    "state": "MA"
+  }
+}

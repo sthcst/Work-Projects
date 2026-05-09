@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela White",
+    "email": "pamela.white11@outlook.com",
+    "phone": "(674) 357-4729",
+    "ssn": "383 78 8081",
+    "dob": "12/15/1972",
+    "address": "4688 Birch Way",
+    "city": "San Antonio",
+    "state": "NC"
+  }
+}

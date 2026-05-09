@@ -1,0 +1,14 @@
+INVOICE 872662
+
+Bill To:
+Name: Michael Harris
+Email: michael.harris2281@example.com
+Phone: 882 910 7608
+SSN: 275-09-2399
+
+Address: 3965 Sixth Blvd
+San Antonio, TX
+
+Date of Birth: 08-07-1956
+
+Amount Due: $7748

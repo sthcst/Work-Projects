@@ -1,0 +1,14 @@
+INVOICE 765448
+
+Bill To:
+Name: Angela Dominguez
+Email: angela.dominguez9526@example.com
+Phone: +1 872-616-6583
+SSN: 851235887
+
+Address: 4504 Second Ln
+Washington, TX
+
+Date of Birth: 12/24/1950
+
+Amount Due: $7808

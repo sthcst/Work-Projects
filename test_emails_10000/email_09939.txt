@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Gomez",
+    "email": "nicole.gomez3556@gmail.com",
+    "phone": "412-849-7536",
+    "ssn": "611 38 9164",
+    "dob": "9/17/1966",
+    "address": "6605 Pine Rd",
+    "city": "Houston",
+    "state": "TN"
+  }
+}

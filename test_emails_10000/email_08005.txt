@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Smith",
+    "email": "ronald.smith7901@yahoo.com",
+    "phone": "+1 577-924-2371",
+    "ssn": "524 78 6586",
+    "dob": "12/21/1953",
+    "address": "7478 Fifth Blvd",
+    "city": "Los Angeles",
+    "state": "MI"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Reed,kimberly.reed2613@business.net,+1 805-398-5072,855-45-2155,05/05/1975,"9609 Maple Ln",Seattle,AZ

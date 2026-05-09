@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Delgado",
+    "email": "edward.delgado453@work.org",
+    "phone": "444 626 2190",
+    "ssn": "706 82 6222",
+    "dob": "05/24/1985",
+    "address": "7962 Sixth Dr",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

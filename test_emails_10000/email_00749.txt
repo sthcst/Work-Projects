@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Garcia,nicholas.garcia5226@business.net,(202) 791-3318,130-47-9141,12/19/1951,"1048 East Ln",Austin,CO

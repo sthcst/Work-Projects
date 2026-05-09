@@ -1,0 +1,14 @@
+INVOICE 933972
+
+Bill To:
+Name: Samantha Johnson
+Email: samantha.johnson934@mail.com
+Phone: (803) 820-5317
+SSN: 148 29 3147
+
+Address: 3234 Spring Rd
+San Antonio, PA
+
+Date of Birth: 6/22/1966
+
+Amount Due: $219

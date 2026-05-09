@@ -1,0 +1,14 @@
+INVOICE 486996
+
+Bill To:
+Name: Kenneth Williams
+Email: kenneth.williams4171@mail.com
+Phone: 787 927 5982
+SSN: 591 92 9400
+
+Address: 4157 First St
+Los Angeles, MD
+
+Date of Birth: 02-03-1987
+
+Amount Due: $2360

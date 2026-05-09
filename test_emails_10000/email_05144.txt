@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Reed",
+    "email": "megan.reed8813@mail.com",
+    "phone": "397 376 3520",
+    "ssn": "541-51-2336",
+    "dob": "08-03-1965",
+    "address": "4011 West Ln",
+    "city": "Jacksonville",
+    "state": "TN"
+  }
+}

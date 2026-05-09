@@ -1,0 +1,14 @@
+INVOICE 195544
+
+Bill To:
+Name: Ronald Clark
+Email: ronald.clark1219@outlook.com
+Phone: 293-879-4466
+SSN: 960-52-4837
+
+Address: 7694 Birch Dr
+Houston, NY
+
+Date of Birth: 22/05/1959
+
+Amount Due: $3438

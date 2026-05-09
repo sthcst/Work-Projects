@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Ortiz
+  email: nicholas.ortiz9148@gmail.com
+  phone: 410 206 4215
+  ssn: 981206176
+  dob: 03-08-1993
+  address: 9100 Birch St
+  city: Phoenix
+  state: AZ

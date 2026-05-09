@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Parker",
+    "email": "ryan.parker2410@example.com",
+    "phone": "(829) 865-8232",
+    "ssn": "014364148",
+    "dob": "11-24-2001",
+    "address": "9422 Summer St",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 918302
+
+Bill To:
+Name: Angela Ortiz
+Email: angela.ortiz4311@company.com
+Phone: +1 722-477-9013
+SSN: 750 13 1282
+
+Address: 3130 Cedar Rd
+Austin, MO
+
+Date of Birth: 4/17/2001
+
+Amount Due: $2794

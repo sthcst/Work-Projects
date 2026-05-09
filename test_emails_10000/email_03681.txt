@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Phillips,gary.phillips8790@business.net,+1 270-365-2194,008-54-9665,6/15/1978,"9643 First Ln",Dallas,IL

@@ -1,0 +1,12 @@
+SUPPORT TICKET #98522
+
+Customer: David Phillips
+Email: david.phillips8279@example.com
+Phone: 831 291 3577
+Account: 475-84-9033
+
+Issue Description: Technical problem reported
+DOB on file: 01-12-1952
+Address: 2221 Main Rd, San Jose, TX
+
+Status: OPEN

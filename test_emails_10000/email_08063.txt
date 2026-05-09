@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Murillo",
+    "email": "gary.murillo2184@example.com",
+    "phone": "640-413-4847",
+    "ssn": "603-21-4826",
+    "dob": "10/20/1951",
+    "address": "5273 Main Ln",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

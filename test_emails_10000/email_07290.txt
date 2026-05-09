@@ -1,0 +1,9 @@
+contact:
+  name: Helen Ortiz
+  email: helen.ortiz9670@business.net
+  phone: +1 830-851-6977
+  ssn: 836-55-9043
+  dob: 27/01/1996
+  address: 930 Oak Dr
+  city: San Antonio
+  state: GA

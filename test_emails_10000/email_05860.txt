@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Dominguez,brenda.dominguez8065@work.org,977-786-1231,779958337,01/04/1996,"5327 First Court",Seattle,CO

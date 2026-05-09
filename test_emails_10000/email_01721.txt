@@ -1,0 +1,9 @@
+contact:
+  name: Paul Moore
+  email: paul.moore4558@work.org
+  phone: 630-494-2058
+  ssn: 601-15-7383
+  dob: 11-14-1987
+  address: 365 Second Rd
+  city: Austin
+  state: OH

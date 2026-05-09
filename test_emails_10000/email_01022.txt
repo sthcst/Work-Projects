@@ -1,0 +1,11 @@
+INCIDENT REPORT
+
+Reported By: Charles Smith
+Contact Email: charles.smith7155@example.com
+Contact Phone: 854-917-6888
+ID/SSN: 980631670
+Residence: 2101 Fourth St, Chicago, NY
+Birth Date: 08/17/1965
+
+Description: Security incident investigation in progress.
+Status: PENDING

@@ -1,0 +1,9 @@
+contact:
+  name: Jason Wilson
+  email: jason.wilson7276@example.com
+  phone: 328 769 6039
+  ssn: 019-11-8749
+  dob: 14/06/1981
+  address: 5212 First Court
+  city: Philadelphia
+  state: MA

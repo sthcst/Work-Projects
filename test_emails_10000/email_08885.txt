@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Rogers",
+    "email": "stephanie.rogers5612@company.com",
+    "phone": "+1 504-347-1348",
+    "ssn": "385204135",
+    "dob": "11/02/1983",
+    "address": "1173 Summer Dr",
+    "city": "New York",
+    "state": "FL"
+  }
+}

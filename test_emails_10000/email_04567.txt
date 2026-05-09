@@ -1,0 +1,9 @@
+contact:
+  name: Emma Campbell
+  email: emma.campbell7001@work.org
+  phone: (652) 969-6470
+  ssn: 440127863
+  dob: 2/10/1994
+  address: 7621 South Dr
+  city: Seattle
+  state: TX

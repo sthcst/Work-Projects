@@ -1,0 +1,9 @@
+contact:
+  name: Maria Anderson
+  email: maria.anderson1@company.com
+  phone: (277) 206-3334
+  ssn: 886-10-7493
+  dob: 5/20/1994
+  address: 7351 Pine Blvd
+  city: San Diego
+  state: FL

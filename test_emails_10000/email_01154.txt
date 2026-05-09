@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Garcia",
+    "email": "angela.garcia8491@company.com",
+    "phone": "+1 490-581-7593",
+    "ssn": "038-16-8560",
+    "dob": "20/04/2002",
+    "address": "1661 Main Ave",
+    "city": "Seattle",
+    "state": "FL"
+  }
+}

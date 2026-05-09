@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Thomas",
+    "email": "katherine.thomas8250@company.com",
+    "phone": "913-616-1615",
+    "ssn": "521 69 8635",
+    "dob": "06-26-1965",
+    "address": "1372 Third Court",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

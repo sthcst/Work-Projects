@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Collins",
+    "email": "gary.collins3459@mail.com",
+    "phone": "555-515-2639",
+    "ssn": "126681095",
+    "dob": "06/12/1979",
+    "address": "2969 Oak Ave",
+    "city": "San Antonio",
+    "state": "MI"
+  }
+}

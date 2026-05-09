@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Evans",
+    "email": "steven.evans3471@yahoo.com",
+    "phone": "+1 359-276-4868",
+    "ssn": "075 09 1130",
+    "dob": "8/2/1955",
+    "address": "9964 Elm St",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

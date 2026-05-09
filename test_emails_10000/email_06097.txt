@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Robinson,ronald.robinson1640@outlook.com,(261) 519-9175,011 86 2280,06/22/1955,"2990 Summer Dr",Austin,AZ

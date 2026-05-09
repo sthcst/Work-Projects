@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Peterson
+  email: daniel.peterson538@work.org
+  phone: 938 204 8649
+  ssn: 189791335
+  dob: 01/01/1971
+  address: 9519 North Ave
+  city: San Antonio
+  state: MA

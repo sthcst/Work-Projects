@@ -1,0 +1,14 @@
+INVOICE 739527
+
+Bill To:
+Name: John Campbell
+Email: john.campbell9173@outlook.com
+Phone: 616-468-6700
+SSN: 390191486
+
+Address: 2900 Second Ln
+Denver, AZ
+
+Date of Birth: 1/20/1985
+
+Amount Due: $7564

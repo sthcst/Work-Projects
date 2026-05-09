@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Ramirez
+  email: ryan.ramirez598@yahoo.com
+  phone: (449) 872-9402
+  ssn: 236-84-8821
+  dob: 01/13/1983
+  address: 9241 Summer St
+  city: San Antonio
+  state: CA

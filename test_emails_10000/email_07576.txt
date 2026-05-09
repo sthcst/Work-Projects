@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Rodriguez,jason.rodriguez3639@company.com,(611) 425-4591,781-46-3107,12/27/1986,"301 Birch Rd",Washington,IL

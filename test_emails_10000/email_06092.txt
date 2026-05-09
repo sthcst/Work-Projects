@@ -1,0 +1,9 @@
+contact:
+  name: Gary Evans
+  email: gary.evans3210@company.com
+  phone: +1 352-210-1498
+  ssn: 382-26-8050
+  dob: 10/08/1999
+  address: 6611 Cedar Ln
+  city: Austin
+  state: NJ

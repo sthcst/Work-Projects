@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Cooper,brian.cooper2418@mail.com,+1 874-245-9341,093 01 6279,09/27/1982,"166 Summer Blvd",San Antonio,TX

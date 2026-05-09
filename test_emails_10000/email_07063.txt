@@ -1,0 +1,9 @@
+contact:
+  name: Charles Parker
+  email: charles.parker9529@gmail.com
+  phone: +1 523-250-3423
+  ssn: 246 21 9944
+  dob: 11-15-1964
+  address: 9831 Birch Ln
+  city: Jacksonville
+  state: WI

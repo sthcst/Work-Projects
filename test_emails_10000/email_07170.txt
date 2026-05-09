@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Lopez,christopher.lopez7744@mail.com,+1 727-944-1507,905-33-4346,04/10/1974,"4962 Oak Ave",San Antonio,MA

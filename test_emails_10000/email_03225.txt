@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Lopez",
+    "email": "jane.lopez1793@gmail.com",
+    "phone": "251-780-3841",
+    "ssn": "839-72-3757",
+    "dob": "07/01/2004",
+    "address": "8393 Pine Blvd",
+    "city": "Houston",
+    "state": "MD"
+  }
+}

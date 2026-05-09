@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Johnson,david.johnson520@company.com,932-493-7357,570-37-7251,6/2/1995,"9989 South Way",Washington,TX

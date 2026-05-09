@@ -1,0 +1,9 @@
+contact:
+  name: Christine Jackson
+  email: christine.jackson5633@company.com
+  phone: (273) 483-1961
+  ssn: 660541818
+  dob: 06-08-1985
+  address: 5955 Summer Court
+  city: San Antonio
+  state: WA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Alvarado",
+    "email": "katherine.alvarado3810@company.com",
+    "phone": "+1 835-976-6416",
+    "ssn": "193-11-2647",
+    "dob": "03-08-1992",
+    "address": "9448 Main Dr",
+    "city": "Philadelphia",
+    "state": "MA"
+  }
+}

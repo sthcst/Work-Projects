@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Delgado
+  email: joshua.delgado6000@mail.com
+  phone: 480-414-3531
+  ssn: 356 99 3106
+  dob: 1/5/1962
+  address: 5178 Maple Ln
+  city: Denver
+  state: PA

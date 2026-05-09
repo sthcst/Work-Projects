@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Rogers,andrew.rogers5949@yahoo.com,408 477 5759,957-19-2377,02-15-1971,"9444 Spring Dr",Austin,DC

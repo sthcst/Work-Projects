@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Hall
+  email: shirley.hall1414@yahoo.com
+  phone: (546) 502-7051
+  ssn: 738-40-4019
+  dob: 08/05/1975
+  address: 8991 Park Rd
+  city: San Jose
+  state: WA

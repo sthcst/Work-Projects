@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Sanchez,amanda.sanchez7640@company.com,(361) 750-4097,081 64 9693,7/20/1988,"6013 Fourth Court",Los Angeles,MI

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Hall",
+    "email": "jessica.hall4310@yahoo.com",
+    "phone": "+1 643-382-6570",
+    "ssn": "145-08-1943",
+    "dob": "07-21-1988",
+    "address": "8400 Sixth Ln",
+    "city": "San Jose",
+    "state": "MO"
+  }
+}

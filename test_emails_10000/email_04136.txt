@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Reeves",
+    "email": "jennifer.reeves1002@business.net",
+    "phone": "601 224 1477",
+    "ssn": "832 12 7056",
+    "dob": "02/13/1977",
+    "address": "7779 Cedar Way",
+    "city": "Austin",
+    "state": "FL"
+  }
+}

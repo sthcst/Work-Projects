@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Morris
+  email: kathleen.morris2225@yahoo.com
+  phone: (902) 951-1223
+  ssn: 272-44-5692
+  dob: 5/25/1963
+  address: 4469 Birch Blvd
+  city: Washington
+  state: CO

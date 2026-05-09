@@ -1,0 +1,14 @@
+INVOICE 670006
+
+Bill To:
+Name: Gary Carter
+Email: gary.carter2513@mail.com
+Phone: 403 691 5022
+SSN: 764482919
+
+Address: 8230 Spring Dr
+Washington, CO
+
+Date of Birth: 02/12/1982
+
+Amount Due: $7728

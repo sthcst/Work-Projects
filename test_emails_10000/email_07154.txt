@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Reeves",
+    "email": "amanda.reeves552@gmail.com",
+    "phone": "+1 357-394-8129",
+    "ssn": "407-75-5740",
+    "dob": "03-15-1961",
+    "address": "8550 First Ave",
+    "city": "Seattle",
+    "state": "MD"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 220483
+
+Bill To:
+Name: Joseph Rogers
+Email: joseph.rogers2427@mail.com
+Phone: 305-907-5074
+SSN: 998-77-1567
+
+Address: 3157 Spring Ln
+Philadelphia, TX
+
+Date of Birth: 10/19/2001
+
+Amount Due: $6079

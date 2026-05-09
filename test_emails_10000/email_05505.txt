@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Young",
+    "email": "lauren.young7926@example.com",
+    "phone": "933-556-2658",
+    "ssn": "494-63-9876",
+    "dob": "25/08/1993",
+    "address": "2086 Birch Rd",
+    "city": "Houston",
+    "state": "OH"
+  }
+}

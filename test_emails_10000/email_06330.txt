@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Edwards,megan.edwards8068@work.org,(681) 331-7540,190-30-3272,10-27-1997,"3767 Third St",Philadelphia,NY

@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Stewart
+  email: cynthia.stewart4177@example.com
+  phone: 246 980 9721
+  ssn: 268 69 6807
+  dob: 8/21/1990
+  address: 6647 Birch Blvd
+  city: San Diego
+  state: IL

@@ -1,0 +1,9 @@
+contact:
+  name: Helen Parker
+  email: helen.parker8232@mail.com
+  phone: (946) 423-2960
+  ssn: 245-71-8637
+  dob: 5/21/2005
+  address: 6110 Pine Blvd
+  city: Washington
+  state: CA

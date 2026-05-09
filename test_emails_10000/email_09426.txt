@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Lee",
+    "email": "james.lee6357@yahoo.com",
+    "phone": "+1 808-961-1330",
+    "ssn": "182782632",
+    "dob": "1/8/1952",
+    "address": "3955 Main Court",
+    "city": "Jacksonville",
+    "state": "FL"
+  }
+}

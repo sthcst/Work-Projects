@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Martinez",
+    "email": "mark.martinez2887@outlook.com",
+    "phone": "357-333-8573",
+    "ssn": "860 83 7865",
+    "dob": "12/04/1993",
+    "address": "9430 Main Ln",
+    "city": "San Diego",
+    "state": "MD"
+  }
+}

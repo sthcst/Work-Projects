@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Phillips,deborah.phillips2377@outlook.com,365-201-4145,800 61 4497,01-01-1956,"5286 Cedar Ln",Philadelphia,CA

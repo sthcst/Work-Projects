@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Gomez",
+    "email": "kenneth.gomez1618@work.org",
+    "phone": "(358) 586-8239",
+    "ssn": "597527755",
+    "dob": "11-23-2004",
+    "address": "9530 Pine Rd",
+    "city": "Boston",
+    "state": "MI"
+  }
+}

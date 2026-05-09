@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Garcia",
+    "email": "robert.garcia6421@company.com",
+    "phone": "691 345 9250",
+    "ssn": "842-81-3410",
+    "dob": "6/10/1955",
+    "address": "7675 Cedar Rd",
+    "city": "Houston",
+    "state": "PA"
+  }
+}

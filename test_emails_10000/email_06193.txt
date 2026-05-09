@@ -1,0 +1,14 @@
+INVOICE 532338
+
+Bill To:
+Name: Jason Dominguez
+Email: jason.dominguez5277@example.com
+Phone: +1 421-713-7962
+SSN: 449-66-4819
+
+Address: 9752 Park Blvd
+San Antonio, MO
+
+Date of Birth: 04/17/1966
+
+Amount Due: $7466

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Edwards,christopher.edwards1853@mail.com,706 584 7709,434 52 6283,05/27/1968,"3906 Oak St",Austin,TN

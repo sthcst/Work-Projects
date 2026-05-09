@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Reed
+  email: lisa.reed2788@company.com
+  phone: 509 703 6708
+  ssn: 562 94 4443
+  dob: 9/20/1987
+  address: 9499 Elm Way
+  city: Chicago
+  state: CA

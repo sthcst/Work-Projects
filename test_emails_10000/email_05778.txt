@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Thomas",
+    "email": "sarah.thomas5905@business.net",
+    "phone": "(797) 829-4331",
+    "ssn": "574021176",
+    "dob": "02/12/2002",
+    "address": "6027 Pine Court",
+    "city": "Houston",
+    "state": "PA"
+  }
+}

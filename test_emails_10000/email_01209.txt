@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Ramirez,jennifer.ramirez9489@outlook.com,+1 739-766-5815,790368961,02/10/1987,"3183 West Ave",Austin,AZ

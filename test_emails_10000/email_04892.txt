@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Taylor,jacob.taylor2225@outlook.com,(294) 575-7192,530-61-5964,4/26/2003,"8917 Pine Rd",San Antonio,MA

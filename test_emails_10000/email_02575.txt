@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Stewart",
+    "email": "andrew.stewart418@yahoo.com",
+    "phone": "643-884-1619",
+    "ssn": "830133571",
+    "dob": "05/23/2004",
+    "address": "9095 Pine Ave",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

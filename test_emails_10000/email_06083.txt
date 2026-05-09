@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Cooper
+  email: katherine.cooper5671@company.com
+  phone: 633-564-9920
+  ssn: 800156997
+  dob: 12/26/1963
+  address: 2110 Maple Ave
+  city: Jacksonville
+  state: CA

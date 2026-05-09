@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Brown,katherine.brown6486@mail.com,663 844 2272,004998785,07/28/1988,"5695 Summer Ln",Chicago,MD

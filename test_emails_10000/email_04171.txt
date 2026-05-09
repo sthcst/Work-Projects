@@ -1,0 +1,14 @@
+INVOICE 741676
+
+Bill To:
+Name: Timothy Clark
+Email: timothy.clark5244@work.org
+Phone: (275) 346-6387
+SSN: 630-12-7967
+
+Address: 5958 Cedar Ave
+Austin, AZ
+
+Date of Birth: 04/27/1986
+
+Amount Due: $3093

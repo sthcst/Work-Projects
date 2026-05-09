@@ -1,0 +1,9 @@
+contact:
+  name: George Hall
+  email: george.hall9860@example.com
+  phone: 242 402 7108
+  ssn: 162-74-3277
+  dob: 6/17/1981
+  address: 5522 Cedar St
+  city: Los Angeles
+  state: CA

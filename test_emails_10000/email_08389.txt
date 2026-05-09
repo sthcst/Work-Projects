@@ -1,0 +1,9 @@
+contact:
+  name: Megan Ramirez
+  email: megan.ramirez8172@company.com
+  phone: 262 218 2173
+  ssn: 371405470
+  dob: 09/15/1970
+  address: 1098 East Dr
+  city: Los Angeles
+  state: AZ

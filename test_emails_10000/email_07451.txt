@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Lewis
+  email: katherine.lewis5503@example.com
+  phone: +1 963-737-6084
+  ssn: 946 53 4766
+  dob: 06-15-1971
+  address: 2030 Second St
+  city: San Antonio
+  state: PA

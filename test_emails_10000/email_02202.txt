@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Walker",
+    "email": "daniel.walker6415@gmail.com",
+    "phone": "386 333 7278",
+    "ssn": "830 98 7686",
+    "dob": "02-10-1966",
+    "address": "8349 East Blvd",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

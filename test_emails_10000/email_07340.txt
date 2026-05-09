@@ -1,0 +1,14 @@
+INVOICE 325336
+
+Bill To:
+Name: Ryan Rodriguez
+Email: ryan.rodriguez7314@company.com
+Phone: +1 529-982-8012
+SSN: 589996897
+
+Address: 6639 Main Rd
+Washington, MI
+
+Date of Birth: 9/24/1975
+
+Amount Due: $3115

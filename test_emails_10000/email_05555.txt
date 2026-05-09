@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Gonzalez,james.gonzalez3262@gmail.com,329 847 5980,294088475,7/10/1977,"6223 Maple St",Chicago,MI

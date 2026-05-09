@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Martin",
+    "email": "christine.martin2824@work.org",
+    "phone": "+1 521-753-6341",
+    "ssn": "188101718",
+    "dob": "04-06-2005",
+    "address": "8983 Fifth Way",
+    "city": "Phoenix",
+    "state": "MO"
+  }
+}

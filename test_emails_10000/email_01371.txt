@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Flores,nicholas.flores4155@mail.com,888 304 4393,932 32 9162,09-15-1950,"8284 Main Court",Chicago,AZ

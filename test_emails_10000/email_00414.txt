@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Johnson,emma.johnson9721@outlook.com,832-924-9907,943-11-7265,24/12/1958,"5877 Cedar Ln",San Diego,CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Murillo",
+    "email": "matthew.murillo6434@company.com",
+    "phone": "(577) 552-5390",
+    "ssn": "920-99-5506",
+    "dob": "08/02/1984",
+    "address": "8063 Spring Ave",
+    "city": "San Jose",
+    "state": "MD"
+  }
+}

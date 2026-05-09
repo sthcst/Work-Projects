@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Gomez
+  email: kenneth.gomez8347@company.com
+  phone: (705) 550-1218
+  ssn: 751 01 8126
+  dob: 12/08/1950
+  address: 9719 Elm Way
+  city: Jacksonville
+  state: MA

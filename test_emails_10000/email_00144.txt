@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Lewis,jane.lewis4136@example.com,633 585 6713,471 33 4575,22/05/1983,"9586 Pine St",Jacksonville,GA

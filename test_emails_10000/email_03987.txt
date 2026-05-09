@@ -1,0 +1,14 @@
+INVOICE 821048
+
+Bill To:
+Name: Donald Rodriguez
+Email: donald.rodriguez6371@mail.com
+Phone: +1 321-354-1764
+SSN: 363-07-2797
+
+Address: 7922 Elm Ln
+Phoenix, NY
+
+Date of Birth: 3/22/1963
+
+Amount Due: $2046

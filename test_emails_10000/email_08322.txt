@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Hall
+  email: pamela.hall501@business.net
+  phone: 298 383 9613
+  ssn: 819745516
+  dob: 10/22/1973
+  address: 3792 Pine Blvd
+  city: Philadelphia
+  state: CA

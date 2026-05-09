@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Ramirez
+  email: lauren.ramirez3350@gmail.com
+  phone: (222) 424-4232
+  ssn: 260 53 8675
+  dob: 02/24/1994
+  address: 7018 First Blvd
+  city: New York
+  state: WA

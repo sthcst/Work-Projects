@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Jackson",
+    "email": "nicole.jackson607@work.org",
+    "phone": "411-682-3875",
+    "ssn": "933948726",
+    "dob": "04-16-1983",
+    "address": "6201 Oak Ave",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

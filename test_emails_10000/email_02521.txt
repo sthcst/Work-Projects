@@ -1,0 +1,9 @@
+contact:
+  name: James Johnson
+  email: james.johnson8611@outlook.com
+  phone: 654-298-1022
+  ssn: 914 67 8423
+  dob: 09/11/1965
+  address: 5573 Sixth Way
+  city: San Jose
+  state: NJ

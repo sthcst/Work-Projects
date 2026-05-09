@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Phillips
+  email: rebecca.phillips4774@gmail.com
+  phone: 977-958-3684
+  ssn: 472-75-3646
+  dob: 06/10/1970
+  address: 2856 Birch Way
+  city: Houston
+  state: TN

@@ -1,0 +1,14 @@
+INVOICE 896456
+
+Bill To:
+Name: Sarah Robinson
+Email: sarah.robinson7613@yahoo.com
+Phone: (299) 427-8284
+SSN: 257317594
+
+Address: 9062 North Blvd
+Washington, MA
+
+Date of Birth: 10-01-1970
+
+Amount Due: $4658

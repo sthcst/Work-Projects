@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Delgado
+  email: shirley.delgado8373@business.net
+  phone: (395) 546-6805
+  ssn: 708 58 1217
+  dob: 08/08/1997
+  address: 2808 Birch Ave
+  city: Austin
+  state: TX

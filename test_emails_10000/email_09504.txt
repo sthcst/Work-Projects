@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Young",
+    "email": "john.young6895@business.net",
+    "phone": "893 386 1348",
+    "ssn": "848586503",
+    "dob": "11/1/1996",
+    "address": "1373 Summer St",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

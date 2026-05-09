@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Stewart,katherine.stewart7326@yahoo.com,465 238 3821,412 48 7318,05/07/1963,"7274 Cedar Way",Boston,WI

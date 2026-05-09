@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Carter,samantha.carter6523@gmail.com,761-880-4372,549561061,10/14/1969,"6905 Summer St",New York,MO

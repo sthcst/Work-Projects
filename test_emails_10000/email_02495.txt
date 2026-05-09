@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Lopez,brenda.lopez1130@mail.com,(771) 425-4646,972497367,5/10/1987,"4642 First Dr",San Diego,CA

@@ -1,0 +1,14 @@
+INVOICE 808587
+
+Bill To:
+Name: Michelle Garcia
+Email: michelle.garcia2549@example.com
+Phone: 671 715 4348
+SSN: 009-58-6472
+
+Address: 8160 Main Ln
+Dallas, NC
+
+Date of Birth: 2/13/1962
+
+Amount Due: $5772

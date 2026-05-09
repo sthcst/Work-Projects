@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Edwards,john.edwards6599@gmail.com,452-780-2210,135-53-8790,5/5/1956,"7876 Elm St",Los Angeles,CA

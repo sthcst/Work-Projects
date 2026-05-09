@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Walker
+  email: nicholas.walker7123@business.net
+  phone: 782 705 1685
+  ssn: 388846126
+  dob: 12/20/1950
+  address: 9237 East Dr
+  city: San Diego
+  state: WA

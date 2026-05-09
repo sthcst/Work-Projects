@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Anderson",
+    "email": "katherine.anderson8808@mail.com",
+    "phone": "+1 481-261-8364",
+    "ssn": "240 51 8099",
+    "dob": "06-20-2001",
+    "address": "2776 Fifth Blvd",
+    "city": "Washington",
+    "state": "GA"
+  }
+}

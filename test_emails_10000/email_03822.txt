@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Rogers",
+    "email": "deborah.rogers2323@yahoo.com",
+    "phone": "781 690 5236",
+    "ssn": "852-18-2029",
+    "dob": "22/07/2001",
+    "address": "4582 East Court",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

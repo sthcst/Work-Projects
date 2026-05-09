@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Garcia,megan.garcia1104@company.com,(869) 251-4352,816-40-3449,09-19-1986,"1560 Fourth Rd",San Jose,CA

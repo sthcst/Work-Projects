@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Murillo",
+    "email": "rebecca.murillo7508@work.org",
+    "phone": "215-262-1900",
+    "ssn": "026 94 6944",
+    "dob": "06-09-1986",
+    "address": "8132 Birch Ave",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

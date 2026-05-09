@@ -1,0 +1,14 @@
+INVOICE 667265
+
+Bill To:
+Name: Shirley Alvarado
+Email: shirley.alvarado664@work.org
+Phone: 558 597 4918
+SSN: 849-89-9293
+
+Address: 3565 Cedar Blvd
+Boston, MA
+
+Date of Birth: 07/07/1980
+
+Amount Due: $1356

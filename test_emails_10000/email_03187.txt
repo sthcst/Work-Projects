@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Perez,richard.perez6179@outlook.com,996 660 5433,990 66 5600,07-23-1981,"6340 North Blvd",New York,FL

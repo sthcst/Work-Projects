@@ -1,0 +1,9 @@
+contact:
+  name: Brian Morgan
+  email: brian.morgan8284@mail.com
+  phone: 284 336 2181
+  ssn: 048138063
+  dob: 14/02/1982
+  address: 6385 Spring Ln
+  city: Washington
+  state: MO

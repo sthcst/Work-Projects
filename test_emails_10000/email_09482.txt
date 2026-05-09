@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Evans,jessica.evans2178@gmail.com,849 290 3862,972-82-5440,5/16/1954,"327 Fourth St",Los Angeles,GA

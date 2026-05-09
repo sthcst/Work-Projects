@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Robinson
+  email: rachel.robinson1551@mail.com
+  phone: +1 386-299-5306
+  ssn: 937 76 8893
+  dob: 8/10/1987
+  address: 5808 East St
+  city: San Diego
+  state: DC

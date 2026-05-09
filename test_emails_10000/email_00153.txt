@@ -1,0 +1,14 @@
+INVOICE 954551
+
+Bill To:
+Name: Maria Flores
+Email: maria.flores821@yahoo.com
+Phone: (240) 497-6901
+SSN: 821 87 6123
+
+Address: 168 Maple Rd
+Austin, FL
+
+Date of Birth: 12/04/1956
+
+Amount Due: $5715

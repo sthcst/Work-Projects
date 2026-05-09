@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Hall,michael.hall7778@yahoo.com,376 696 3181,745-02-6682,12-27-1962,"4681 Pine Dr",Houston,AZ

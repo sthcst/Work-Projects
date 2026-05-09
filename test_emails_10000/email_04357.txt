@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Ramirez",
+    "email": "brenda.ramirez5594@company.com",
+    "phone": "(503) 407-5282",
+    "ssn": "328-59-2915",
+    "dob": "28/07/1962",
+    "address": "918 Park Blvd",
+    "city": "Dallas",
+    "state": "MD"
+  }
+}

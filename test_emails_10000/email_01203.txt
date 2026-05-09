@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Reyes",
+    "email": "helen.reyes745@mail.com",
+    "phone": "611 412 5975",
+    "ssn": "255972464",
+    "dob": "21/01/1991",
+    "address": "3442 Fifth Rd",
+    "city": "New York",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Lee",
+    "email": "nicholas.lee5430@company.com",
+    "phone": "(914) 701-5744",
+    "ssn": "324 29 8272",
+    "dob": "1/3/1997",
+    "address": "6311 Fourth Dr",
+    "city": "Los Angeles",
+    "state": "WI"
+  }
+}

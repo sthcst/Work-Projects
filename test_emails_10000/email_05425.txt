@@ -1,0 +1,14 @@
+INVOICE 782695
+
+Bill To:
+Name: John Harris
+Email: john.harris6272@outlook.com
+Phone: +1 995-808-6754
+SSN: 092914967
+
+Address: 990 Birch Court
+Denver, NC
+
+Date of Birth: 05-08-1975
+
+Amount Due: $7975

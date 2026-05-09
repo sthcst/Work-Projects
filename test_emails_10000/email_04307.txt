@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Guerrero
+  email: pamela.guerrero3749@business.net
+  phone: (374) 940-6014
+  ssn: 730-24-1231
+  dob: 07/13/1978
+  address: 4335 Third Rd
+  city: Los Angeles
+  state: IL

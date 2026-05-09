@@ -1,0 +1,14 @@
+INVOICE 340702
+
+Bill To:
+Name: Anthony Moore
+Email: anthony.moore2787@yahoo.com
+Phone: +1 667-536-1895
+SSN: 138455114
+
+Address: 9417 Elm St
+San Antonio, PA
+
+Date of Birth: 11/20/1983
+
+Amount Due: $8075

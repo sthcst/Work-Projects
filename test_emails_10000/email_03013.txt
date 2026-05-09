@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Ortiz,christine.ortiz6975@yahoo.com,212 592 3515,402 03 1714,05/05/1985,"3530 South Court",Dallas,CA

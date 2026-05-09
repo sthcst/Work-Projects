@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Romero
+  email: nicole.romero992@yahoo.com
+  phone: +1 715-774-2625
+  ssn: 238-46-5324
+  dob: 03/03/1984
+  address: 2181 West Dr
+  city: Houston
+  state: FL

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Morris,daniel.morris7263@mail.com,942 305 7331,455-16-1008,05-28-1971,"1353 Third Court",Seattle,AZ

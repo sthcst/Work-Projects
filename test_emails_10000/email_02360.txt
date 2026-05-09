@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Flores",
+    "email": "emma.flores8407@company.com",
+    "phone": "397-299-9031",
+    "ssn": "174-77-5366",
+    "dob": "20/10/1963",
+    "address": "5749 Elm Ln",
+    "city": "Washington",
+    "state": "CO"
+  }
+}

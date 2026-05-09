@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Johnson
+  email: timothy.johnson3121@gmail.com
+  phone: (929) 812-5525
+  ssn: 481949344
+  dob: 15/03/1963
+  address: 8085 Spring Ave
+  city: Los Angeles
+  state: DC

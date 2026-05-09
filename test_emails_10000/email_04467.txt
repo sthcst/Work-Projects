@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Thomas
+  email: sarah.thomas612@yahoo.com
+  phone: +1 992-865-5049
+  ssn: 826-55-1553
+  dob: 06-06-1998
+  address: 9397 Birch Ln
+  city: Jacksonville
+  state: WI

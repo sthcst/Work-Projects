@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Delgado
+  email: jessica.delgado4614@mail.com
+  phone: 552-846-7548
+  ssn: 681-43-8282
+  dob: 02-15-2000
+  address: 1647 Summer Court
+  city: Denver
+  state: AZ

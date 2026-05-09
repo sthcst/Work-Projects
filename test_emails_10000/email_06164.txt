@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Lewis,christopher.lewis5829@outlook.com,323-724-8488,146-73-3747,05-18-1998,"1334 First Ave",Chicago,FL

@@ -1,0 +1,14 @@
+INVOICE 112372
+
+Bill To:
+Name: Kenneth Perez
+Email: kenneth.perez7140@mail.com
+Phone: 795 852 6237
+SSN: 229 57 1658
+
+Address: 4857 Elm Blvd
+Seattle, CA
+
+Date of Birth: 08-26-1972
+
+Amount Due: $2936

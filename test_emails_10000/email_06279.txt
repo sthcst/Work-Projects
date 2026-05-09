@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Thompson,stephanie.thompson9177@company.com,256-722-8283,154-02-2042,09/07/1994,"6051 Summer Ave",Philadelphia,CA

@@ -1,0 +1,14 @@
+INVOICE 127625
+
+Bill To:
+Name: Megan Peterson
+Email: megan.peterson24@work.org
+Phone: +1 974-369-2109
+SSN: 264255118
+
+Address: 5634 Birch Court
+Chicago, FL
+
+Date of Birth: 13/09/1986
+
+Amount Due: $5934

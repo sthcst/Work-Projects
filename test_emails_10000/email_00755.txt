@@ -1,0 +1,9 @@
+contact:
+  name: Donald Hall
+  email: donald.hall4909@company.com
+  phone: 381 525 4733
+  ssn: 392 81 5881
+  dob: 03-18-1953
+  address: 5482 Oak Court
+  city: Seattle
+  state: WI

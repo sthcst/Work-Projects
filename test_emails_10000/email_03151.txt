@@ -1,0 +1,9 @@
+contact:
+  name: Jane Walker
+  email: jane.walker3415@mail.com
+  phone: 307-382-4729
+  ssn: 172-73-1092
+  dob: 2/25/1957
+  address: 4375 Sixth Ln
+  city: Dallas
+  state: TX

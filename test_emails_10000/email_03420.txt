@@ -1,0 +1,14 @@
+INVOICE 408491
+
+Bill To:
+Name: Cynthia Gomez
+Email: cynthia.gomez4815@mail.com
+Phone: 631 807 1113
+SSN: 220 25 7533
+
+Address: 5607 Second Dr
+San Diego, CA
+
+Date of Birth: 05/11/1965
+
+Amount Due: $4128

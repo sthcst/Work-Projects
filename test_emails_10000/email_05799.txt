@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Morgan",
+    "email": "brenda.morgan5564@business.net",
+    "phone": "+1 280-659-4312",
+    "ssn": "723-40-5004",
+    "dob": "03/26/1960",
+    "address": "748 Second Ln",
+    "city": "San Diego",
+    "state": "DC"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Davis,michelle.davis7808@example.com,808-586-7458,572042475,2/24/1993,"8685 Main Rd",Los Angeles,MA

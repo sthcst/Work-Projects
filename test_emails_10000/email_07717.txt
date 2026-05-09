@@ -1,0 +1,9 @@
+contact:
+  name: Angela Martinez
+  email: angela.martinez7760@example.com
+  phone: 322 737 8392
+  ssn: 526 62 6931
+  dob: 28/03/1999
+  address: 5402 Spring St
+  city: Washington
+  state: TX

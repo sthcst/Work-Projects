@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Young
+  email: pamela.young1625@outlook.com
+  phone: +1 730-589-6995
+  ssn: 423668681
+  dob: 13/10/1994
+  address: 3324 First Blvd
+  city: Boston
+  state: GA

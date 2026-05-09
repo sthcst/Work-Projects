@@ -1,0 +1,9 @@
+contact:
+  name: James Martin
+  email: james.martin7423@yahoo.com
+  phone: +1 588-744-6945
+  ssn: 356-81-9018
+  dob: 3/15/1953
+  address: 1542 Birch St
+  city: Washington
+  state: WA

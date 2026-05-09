@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Lopez,christine.lopez4740@example.com,+1 601-559-1996,575-08-4292,05/17/1953,"3153 Second Dr",Jacksonville,CA

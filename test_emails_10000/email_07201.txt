@@ -1,0 +1,9 @@
+contact:
+  name: Edward Gonzalez
+  email: edward.gonzalez9693@company.com
+  phone: (608) 285-2424
+  ssn: 607-34-5685
+  dob: 12/05/1996
+  address: 9519 Second Ln
+  city: Dallas
+  state: OH

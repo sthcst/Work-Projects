@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Hall,sarah.hall5249@outlook.com,+1 228-543-2790,993 95 9223,24/05/1997,"4540 Pine Ln",Washington,AZ

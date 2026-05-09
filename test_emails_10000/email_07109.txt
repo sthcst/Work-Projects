@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Wilson
+  email: shirley.wilson6962@work.org
+  phone: (898) 447-3807
+  ssn: 106166976
+  dob: 17/05/1992
+  address: 846 Summer Court
+  city: Jacksonville
+  state: GA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Carter,michelle.carter9979@yahoo.com,360 389 4723,643-36-8565,10/23/2005,"5605 First Dr",Houston,AZ

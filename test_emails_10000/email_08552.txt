@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Stewart",
+    "email": "angela.stewart4163@yahoo.com",
+    "phone": "(890) 658-1405",
+    "ssn": "030373483",
+    "dob": "9/21/1970",
+    "address": "1175 Pine Way",
+    "city": "Los Angeles",
+    "state": "IL"
+  }
+}

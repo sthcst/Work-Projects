@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Jones",
+    "email": "shirley.jones9560@example.com",
+    "phone": "276 968 5891",
+    "ssn": "511 47 4408",
+    "dob": "28/07/1962",
+    "address": "9113 Cedar Blvd",
+    "city": "Denver",
+    "state": "WI"
+  }
+}

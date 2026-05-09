@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Gomez",
+    "email": "kimberly.gomez976@mail.com",
+    "phone": "(565) 485-7602",
+    "ssn": "723-70-4306",
+    "dob": "05-19-1984",
+    "address": "8737 Second Ln",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

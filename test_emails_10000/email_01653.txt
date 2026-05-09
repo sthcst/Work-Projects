@@ -1,0 +1,9 @@
+contact:
+  name: David Morgan
+  email: david.morgan8695@company.com
+  phone: 617-772-5273
+  ssn: 700 65 4345
+  dob: 04/09/1977
+  address: 2662 Birch Way
+  city: Denver
+  state: TX

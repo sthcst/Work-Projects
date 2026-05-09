@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Hall",
+    "email": "katherine.hall9205@example.com",
+    "phone": "+1 255-608-4009",
+    "ssn": "627-27-9336",
+    "dob": "1/22/1958",
+    "address": "5465 Summer Rd",
+    "city": "Dallas",
+    "state": "MD"
+  }
+}

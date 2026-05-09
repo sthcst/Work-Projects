@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Parker
+  email: jacob.parker8648@company.com
+  phone: (978) 622-7553
+  ssn: 108 90 3900
+  dob: 06-04-1974
+  address: 5169 Birch Rd
+  city: Los Angeles
+  state: PA

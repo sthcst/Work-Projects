@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Lee",
+    "email": "matthew.lee5385@gmail.com",
+    "phone": "450 721 7408",
+    "ssn": "328-25-2530",
+    "dob": "04-11-1985",
+    "address": "8512 Spring Rd",
+    "city": "Los Angeles",
+    "state": "NC"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Christine Thompson
+  email: christine.thompson2268@outlook.com
+  phone: +1 493-690-3445
+  ssn: 514-32-5013
+  dob: 5/24/1965
+  address: 6215 Oak Ln
+  city: Philadelphia
+  state: AZ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Campbell",
+    "email": "lauren.campbell4460@business.net",
+    "phone": "873-650-4106",
+    "ssn": "144-58-5876",
+    "dob": "22/01/1978",
+    "address": "6301 First Dr",
+    "city": "New York",
+    "state": "NY"
+  }
+}

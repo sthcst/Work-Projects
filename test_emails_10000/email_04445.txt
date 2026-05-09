@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Harris,stephanie.harris4952@work.org,(661) 784-1209,523 92 5094,11/26/1981,"8651 Main Dr",Philadelphia,OH

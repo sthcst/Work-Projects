@@ -1,0 +1,9 @@
+contact:
+  name: Emily Reeves
+  email: emily.reeves6224@outlook.com
+  phone: (509) 379-7251
+  ssn: 672 52 7733
+  dob: 12-03-1987
+  address: 2080 Third St
+  city: Phoenix
+  state: TN

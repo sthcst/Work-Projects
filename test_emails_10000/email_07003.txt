@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Walker
+  email: lauren.walker8635@company.com
+  phone: 619 294 1149
+  ssn: 357-01-1574
+  dob: 04-21-1964
+  address: 7467 South Blvd
+  city: Austin
+  state: GA

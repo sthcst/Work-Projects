@@ -1,0 +1,14 @@
+INVOICE 559994
+
+Bill To:
+Name: Brian Lopez
+Email: brian.lopez7459@business.net
+Phone: (828) 711-7333
+SSN: 244 20 9585
+
+Address: 1286 Sixth Way
+Austin, CO
+
+Date of Birth: 06/05/1963
+
+Amount Due: $448

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Brown,william.brown7399@gmail.com,623-944-5023,637472450,03/04/1952,"8825 South St",Los Angeles,TN

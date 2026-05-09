@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Campbell,kathleen.campbell8897@yahoo.com,(755) 873-9539,124-74-2023,02-25-2004,"5503 West Court",Boston,WA

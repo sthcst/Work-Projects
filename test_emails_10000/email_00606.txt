@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Perez",
+    "email": "donald.perez6280@company.com",
+    "phone": "364-293-5419",
+    "ssn": "829-63-3040",
+    "dob": "4/28/1976",
+    "address": "3975 First Rd",
+    "city": "Philadelphia",
+    "state": "WI"
+  }
+}

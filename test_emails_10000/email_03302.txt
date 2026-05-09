@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Brown,michael.brown4770@mail.com,(291) 234-1599,175 42 1740,12/08/1968,"7157 Sixth Ave",Seattle,TX

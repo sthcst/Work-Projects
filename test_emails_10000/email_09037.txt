@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Nunez",
+    "email": "joshua.nunez5036@outlook.com",
+    "phone": "374 510 6619",
+    "ssn": "130-18-5985",
+    "dob": "12/17/1952",
+    "address": "9082 Oak Way",
+    "city": "San Jose",
+    "state": "MD"
+  }
+}

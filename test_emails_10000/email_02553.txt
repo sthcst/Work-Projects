@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Stewart",
+    "email": "jason.stewart6307@company.com",
+    "phone": "(708) 402-5216",
+    "ssn": "197409956",
+    "dob": "10/03/1989",
+    "address": "423 Main St",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Reed",
+    "email": "andrew.reed7902@outlook.com",
+    "phone": "(571) 512-4550",
+    "ssn": "883826224",
+    "dob": "03/06/2000",
+    "address": "2775 Fourth Rd",
+    "city": "Philadelphia",
+    "state": "PA"
+  }
+}

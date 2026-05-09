@@ -1,0 +1,9 @@
+contact:
+  name: Mark Serrano
+  email: mark.serrano7100@gmail.com
+  phone: 462-602-3629
+  ssn: 805-03-4786
+  dob: 25/07/1987
+  address: 3205 Birch Blvd
+  city: Houston
+  state: NY

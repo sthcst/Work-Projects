@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda White",
+    "email": "brenda.white8895@gmail.com",
+    "phone": "+1 428-720-7368",
+    "ssn": "146-09-6137",
+    "dob": "5/16/1993",
+    "address": "8462 South Ave",
+    "city": "Phoenix",
+    "state": "NC"
+  }
+}

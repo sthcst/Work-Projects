@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Bell",
+    "email": "anna.bell6828@outlook.com",
+    "phone": "+1 904-259-7597",
+    "ssn": "619 19 1310",
+    "dob": "02-15-1989",
+    "address": "9117 Fourth Ln",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}

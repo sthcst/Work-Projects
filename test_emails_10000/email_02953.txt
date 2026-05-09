@@ -1,0 +1,14 @@
+INVOICE 923664
+
+Bill To:
+Name: Kathleen Hernandez
+Email: kathleen.hernandez8328@example.com
+Phone: 345-589-5129
+SSN: 843-04-6334
+
+Address: 2865 Maple Court
+Boston, NC
+
+Date of Birth: 6/5/1988
+
+Amount Due: $7553

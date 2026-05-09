@@ -1,0 +1,9 @@
+contact:
+  name: Angela Bell
+  email: angela.bell8879@company.com
+  phone: (806) 904-7261
+  ssn: 683 30 1132
+  dob: 05/23/1974
+  address: 6083 South Way
+  city: San Antonio
+  state: DC

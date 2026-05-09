@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark White",
+    "email": "mark.white5210@yahoo.com",
+    "phone": "766-206-8514",
+    "ssn": "811147631",
+    "dob": "11-12-1963",
+    "address": "2214 West Blvd",
+    "city": "Philadelphia",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Gonzalez",
+    "email": "emma.gonzalez2105@work.org",
+    "phone": "218-238-2312",
+    "ssn": "973-25-5248",
+    "dob": "11-22-1950",
+    "address": "37 Oak Ln",
+    "city": "San Jose",
+    "state": "MI"
+  }
+}

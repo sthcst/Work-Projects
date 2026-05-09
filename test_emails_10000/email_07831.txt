@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Rogers,ronald.rogers6655@example.com,(227) 698-3412,517 97 1494,24/02/1971,"4486 Fourth Dr",Denver,WA

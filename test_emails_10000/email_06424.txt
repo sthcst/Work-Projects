@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Alvarado,andrew.alvarado1483@yahoo.com,708 771 8425,210-47-4582,5/6/1961,"4115 Spring Court",Philadelphia,TX

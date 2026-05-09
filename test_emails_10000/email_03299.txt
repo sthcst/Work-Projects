@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Martinez
+  email: katherine.martinez8660@outlook.com
+  phone: 850-678-9744
+  ssn: 007 99 9140
+  dob: 07-04-1973
+  address: 5867 Third St
+  city: Denver
+  state: TX

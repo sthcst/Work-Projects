@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Dominguez,megan.dominguez8628@example.com,+1 644-787-9198,768 43 6478,03/23/1958,"6623 Third Ave",San Diego,MI

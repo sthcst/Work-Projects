@@ -1,0 +1,9 @@
+contact:
+  name: Mark Wilson
+  email: mark.wilson6512@outlook.com
+  phone: (937) 710-7090
+  ssn: 251-92-5938
+  dob: 11-21-1951
+  address: 6740 East St
+  city: Seattle
+  state: CA

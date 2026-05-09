@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Edwards,jane.edwards5477@yahoo.com,550 620 8997,281-52-5931,03/15/1962,"619 West Ln",Boston,CA

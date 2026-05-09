@@ -1,0 +1,9 @@
+contact:
+  name: Emma Harris
+  email: emma.harris6229@business.net
+  phone: 479-283-5115
+  ssn: 090605986
+  dob: 9/10/1995
+  address: 4031 First Dr
+  city: Los Angeles
+  state: GA

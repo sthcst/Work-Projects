@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Johnson,edward.johnson87@business.net,254-961-1604,911 22 3068,11/09/1974,"4367 West St",San Antonio,AZ

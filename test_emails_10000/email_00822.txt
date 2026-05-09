@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Walker
+  email: lauren.walker7112@example.com
+  phone: 200-276-4110
+  ssn: 159-85-9287
+  dob: 4/8/1995
+  address: 1634 Fourth Ln
+  city: Jacksonville
+  state: MD

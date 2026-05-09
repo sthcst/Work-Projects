@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Peterson
+  email: amanda.peterson2074@mail.com
+  phone: (285) 852-3596
+  ssn: 332-97-9228
+  dob: 09-15-1995
+  address: 5750 Pine Rd
+  city: Los Angeles
+  state: CA

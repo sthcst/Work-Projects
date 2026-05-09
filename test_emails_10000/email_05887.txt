@@ -1,0 +1,9 @@
+contact:
+  name: Megan Phillips
+  email: megan.phillips2592@work.org
+  phone: +1 541-698-3178
+  ssn: 854-47-5311
+  dob: 08/05/1968
+  address: 5872 Maple Ave
+  city: Dallas
+  state: WA

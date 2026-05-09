@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Hall
+  email: anthony.hall2241@yahoo.com
+  phone: 516-651-1546
+  ssn: 594-47-3153
+  dob: 11/05/1997
+  address: 2887 Birch Rd
+  city: Jacksonville
+  state: FL

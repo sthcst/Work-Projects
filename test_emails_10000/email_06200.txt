@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Morgan,lauren.morgan819@mail.com,(763) 629-8751,993-34-8070,01/04/1989,"1588 West Blvd",New York,WA

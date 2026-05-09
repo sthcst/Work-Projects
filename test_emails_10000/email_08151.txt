@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Miller,james.miller3043@yahoo.com,+1 592-455-7772,318 49 1750,4/22/1964,"8029 Sixth St",Chicago,CA

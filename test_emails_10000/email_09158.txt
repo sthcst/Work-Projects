@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Carter,katherine.carter764@gmail.com,+1 327-391-9076,152825552,10-22-1954,"6069 Summer Rd",Dallas,GA

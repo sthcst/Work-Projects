@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Miller
+  email: kenneth.miller2234@business.net
+  phone: 695 635 5164
+  ssn: 653532731
+  dob: 11-19-1958
+  address: 8003 First Blvd
+  city: New York
+  state: WI

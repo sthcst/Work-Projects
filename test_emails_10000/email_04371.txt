@@ -1,0 +1,14 @@
+INVOICE 166800
+
+Bill To:
+Name: Joshua Martin
+Email: joshua.martin6717@example.com
+Phone: 380 480 1252
+SSN: 829 04 6558
+
+Address: 3512 Second Blvd
+Phoenix, WA
+
+Date of Birth: 23/04/1972
+
+Amount Due: $5351

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Hernandez,samantha.hernandez6613@mail.com,338 492 5265,797843795,06/01/1989,"793 Main Blvd",Boston,DC

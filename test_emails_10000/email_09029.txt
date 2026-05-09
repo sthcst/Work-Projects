@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Stewart",
+    "email": "christine.stewart7843@gmail.com",
+    "phone": "+1 681-537-7051",
+    "ssn": "844 40 7220",
+    "dob": "04/07/2000",
+    "address": "9362 Sixth Dr",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Lee
+  email: jacob.lee822@example.com
+  phone: 950-392-7234
+  ssn: 606 90 7113
+  dob: 11/12/1976
+  address: 4213 Birch Ln
+  city: Houston
+  state: CO

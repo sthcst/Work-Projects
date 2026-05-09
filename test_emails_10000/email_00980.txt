@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Nunez",
+    "email": "shirley.nunez9872@gmail.com",
+    "phone": "578 722 7399",
+    "ssn": "172524442",
+    "dob": "18/05/1982",
+    "address": "6744 Birch St",
+    "city": "Phoenix",
+    "state": "NY"
+  }
+}

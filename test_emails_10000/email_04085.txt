@@ -1,0 +1,9 @@
+contact:
+  name: Angela Sanchez
+  email: angela.sanchez777@mail.com
+  phone: 896-339-3962
+  ssn: 030524103
+  dob: 08/02/1978
+  address: 5691 Sixth Rd
+  city: Chicago
+  state: FL

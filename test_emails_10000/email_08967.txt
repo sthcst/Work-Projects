@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Lee,jane.lee7066@example.com,+1 377-453-3664,650063351,13/07/1986,"3557 Pine Blvd",Washington,IL

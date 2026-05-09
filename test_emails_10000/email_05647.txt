@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Jones
+  email: nicholas.jones5025@work.org
+  phone: 830-882-9613
+  ssn: 225857819
+  dob: 9/22/1986
+  address: 193 Sixth Court
+  city: San Diego
+  state: NY

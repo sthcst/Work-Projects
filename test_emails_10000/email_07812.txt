@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Serrano,donald.serrano4603@business.net,+1 252-208-5166,483084564,05/07/1971,"2706 North Blvd",Chicago,MD

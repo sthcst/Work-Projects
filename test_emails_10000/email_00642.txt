@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Phillips",
+    "email": "jacob.phillips3340@business.net",
+    "phone": "494-344-5643",
+    "ssn": "287-23-7982",
+    "dob": "08/26/1998",
+    "address": "9618 First Blvd",
+    "city": "San Jose",
+    "state": "MI"
+  }
+}

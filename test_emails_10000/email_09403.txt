@@ -1,0 +1,9 @@
+contact:
+  name: Matthew Romero
+  email: matthew.romero4224@business.net
+  phone: 569-705-8050
+  ssn: 006582680
+  dob: 11/06/1951
+  address: 6117 Oak St
+  city: Denver
+  state: OH

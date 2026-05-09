@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Gonzalez
+  email: anthony.gonzalez46@mail.com
+  phone: (707) 592-4411
+  ssn: 175948662
+  dob: 10/27/1993
+  address: 8168 Summer Way
+  city: Philadelphia
+  state: PA

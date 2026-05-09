@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Ramirez
+  email: kenneth.ramirez7049@mail.com
+  phone: 973-532-4611
+  ssn: 161-64-7903
+  dob: 20/11/1970
+  address: 8465 South Ave
+  city: Dallas
+  state: MI

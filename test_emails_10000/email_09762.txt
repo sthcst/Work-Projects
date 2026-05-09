@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Morgan",
+    "email": "robert.morgan9023@company.com",
+    "phone": "277-262-5721",
+    "ssn": "931195075",
+    "dob": "11/14/2000",
+    "address": "5706 East Blvd",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

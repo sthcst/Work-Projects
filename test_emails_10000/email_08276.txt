@@ -1,0 +1,14 @@
+INVOICE 545946
+
+Bill To:
+Name: Timothy Serrano
+Email: timothy.serrano4667@company.com
+Phone: +1 749-617-9579
+SSN: 244-70-2313
+
+Address: 9548 Third St
+Seattle, WI
+
+Date of Birth: 6/3/1963
+
+Amount Due: $8408

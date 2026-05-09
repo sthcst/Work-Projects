@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Lee",
+    "email": "jacob.lee7363@gmail.com",
+    "phone": "+1 869-570-4516",
+    "ssn": "233 46 3885",
+    "dob": "03-07-1985",
+    "address": "4116 Fourth Rd",
+    "city": "San Diego",
+    "state": "VA"
+  }
+}

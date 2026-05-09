@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Smith,joseph.smith6260@work.org,+1 830-730-8812,864-09-1649,05/20/1969,"1346 West Ln",Philadelphia,GA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Gomez,kathleen.gomez3325@gmail.com,452-973-2033,967916212,06-12-1976,"3580 Pine Ave",Houston,CA

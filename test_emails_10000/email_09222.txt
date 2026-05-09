@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Cooper
+  email: lauren.cooper5099@work.org
+  phone: 663 374 8799
+  ssn: 374 88 3889
+  dob: 6/8/1984
+  address: 9332 Third Blvd
+  city: Washington
+  state: TX

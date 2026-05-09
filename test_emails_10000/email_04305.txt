@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Brown,maria.brown7129@yahoo.com,+1 712-591-4057,723 57 8515,11/14/1968,"4567 East Rd",New York,WA

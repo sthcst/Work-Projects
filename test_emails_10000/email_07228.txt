@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Reed
+  email: ryan.reed1645@gmail.com
+  phone: (245) 867-7578
+  ssn: 022 89 7064
+  dob: 12-17-1978
+  address: 9689 Fifth Ave
+  city: San Diego
+  state: CA

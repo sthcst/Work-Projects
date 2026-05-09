@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Parker,lauren.parker9550@mail.com,486-796-6884,335694103,28/08/1963,"9005 Oak Court",Philadelphia,OH

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Bell",
+    "email": "kathleen.bell4815@yahoo.com",
+    "phone": "+1 812-283-7533",
+    "ssn": "169 41 5731",
+    "dob": "09/12/1965",
+    "address": "221 East Ln",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

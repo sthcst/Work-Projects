@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Taylor
+  email: kenneth.taylor9199@company.com
+  phone: +1 619-424-8391
+  ssn: 725563779
+  dob: 22/07/1997
+  address: 3641 First Dr
+  city: Chicago
+  state: OH

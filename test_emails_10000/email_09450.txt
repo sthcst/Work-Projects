@@ -1,0 +1,14 @@
+INVOICE 916992
+
+Bill To:
+Name: Deborah Morris
+Email: deborah.morris9840@example.com
+Phone: +1 481-336-1401
+SSN: 001039830
+
+Address: 6804 Pine Ln
+Washington, TN
+
+Date of Birth: 5/21/1991
+
+Amount Due: $2720

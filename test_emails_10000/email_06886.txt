@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Bell",
+    "email": "jane.bell1212@gmail.com",
+    "phone": "(440) 586-9913",
+    "ssn": "431 55 6013",
+    "dob": "01/07/2000",
+    "address": "8376 Elm Ln",
+    "city": "Denver",
+    "state": "VA"
+  }
+}

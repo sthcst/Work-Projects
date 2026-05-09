@@ -1,0 +1,14 @@
+INVOICE 145280
+
+Bill To:
+Name: Samantha Stewart
+Email: samantha.stewart721@company.com
+Phone: 553 725 1686
+SSN: 659-44-4578
+
+Address: 5702 Sixth Court
+San Jose, AZ
+
+Date of Birth: 11/03/1971
+
+Amount Due: $5112

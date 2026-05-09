@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Rodriguez",
+    "email": "paul.rodriguez551@business.net",
+    "phone": "(717) 608-5119",
+    "ssn": "511-81-3925",
+    "dob": "16/02/1995",
+    "address": "1337 Pine Dr",
+    "city": "Seattle",
+    "state": "WA"
+  }
+}

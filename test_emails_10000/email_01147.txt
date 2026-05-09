@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Nelson,christine.nelson4728@business.net,656-774-1366,852-62-6626,11/26/1986,"9957 Third Ave",Seattle,DC

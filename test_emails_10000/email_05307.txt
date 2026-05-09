@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Martinez",
+    "email": "deborah.martinez6649@mail.com",
+    "phone": "+1 944-354-8210",
+    "ssn": "649-30-2478",
+    "dob": "19/05/1964",
+    "address": "4907 Third Court",
+    "city": "Seattle",
+    "state": "NC"
+  }
+}

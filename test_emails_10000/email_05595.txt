@@ -1,0 +1,9 @@
+contact:
+  name: Gary Dominguez
+  email: gary.dominguez7579@gmail.com
+  phone: 651-614-4259
+  ssn: 597 91 2448
+  dob: 12-02-1969
+  address: 9886 Cedar Ln
+  city: Dallas
+  state: NC

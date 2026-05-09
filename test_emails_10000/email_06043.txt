@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Harris,rachel.harris3052@gmail.com,814 807 9290,346-30-8594,02-24-1990,"1652 Fourth St",Boston,TX

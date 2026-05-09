@@ -1,0 +1,9 @@
+contact:
+  name: Richard Alvarado
+  email: richard.alvarado7122@mail.com
+  phone: 298 284 3377
+  ssn: 029254776
+  dob: 02/12/1973
+  address: 7091 West Dr
+  city: Phoenix
+  state: TX

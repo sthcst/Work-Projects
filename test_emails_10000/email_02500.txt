@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Roberts",
+    "email": "timothy.roberts9867@work.org",
+    "phone": "(989) 791-8386",
+    "ssn": "403678599",
+    "dob": "13/12/1973",
+    "address": "4851 Second Ave",
+    "city": "Chicago",
+    "state": "NJ"
+  }
+}

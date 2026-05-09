@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Smith,jennifer.smith6345@business.net,+1 677-388-1338,289-94-5101,1/14/1953,"1713 South Way",San Jose,MI

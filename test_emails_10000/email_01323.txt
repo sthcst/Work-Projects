@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Jones,angela.jones878@outlook.com,216-878-3399,754 60 4342,11/13/1964,"5759 East Court",San Antonio,WA

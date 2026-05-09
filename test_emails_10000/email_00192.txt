@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Brown,robert.brown6505@yahoo.com,468-832-3544,087 84 7387,04-08-1997,"7270 Maple Rd",Philadelphia,NY

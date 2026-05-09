@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Sanchez
+  email: michelle.sanchez8452@company.com
+  phone: 259 737 5549
+  ssn: 891566024
+  dob: 07/12/2000
+  address: 5777 First Ln
+  city: Dallas
+  state: CA

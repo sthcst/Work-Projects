@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles White,charles.white4240@outlook.com,222-523-2880,543079690,25/09/1976,"1242 Park Rd",San Jose,AZ

@@ -1,0 +1,9 @@
+contact:
+  name: Robert Jimenez
+  email: robert.jimenez8936@mail.com
+  phone: +1 308-257-4576
+  ssn: 193-70-7097
+  dob: 01/01/1952
+  address: 992 West Ln
+  city: Phoenix
+  state: TX

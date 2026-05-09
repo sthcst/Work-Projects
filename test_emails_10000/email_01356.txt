@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Romero",
+    "email": "rachel.romero311@example.com",
+    "phone": "(585) 458-9667",
+    "ssn": "098117730",
+    "dob": "06-19-1972",
+    "address": "9061 South Dr",
+    "city": "Philadelphia",
+    "state": "IL"
+  }
+}

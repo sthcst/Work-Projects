@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Collins,donald.collins9394@business.net,700-272-6801,195534377,11-26-1988,"9260 Maple Blvd",Phoenix,AZ

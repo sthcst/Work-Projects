@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Romero",
+    "email": "charles.romero1623@business.net",
+    "phone": "+1 965-797-3472",
+    "ssn": "371423066",
+    "dob": "11/02/1971",
+    "address": "2854 East St",
+    "city": "New York",
+    "state": "CA"
+  }
+}

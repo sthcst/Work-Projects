@@ -1,0 +1,9 @@
+contact:
+  name: Emily Martinez
+  email: emily.martinez6770@business.net
+  phone: +1 536-371-9000
+  ssn: 686 52 3233
+  dob: 06/02/1954
+  address: 9677 Fourth Ave
+  city: Chicago
+  state: TX

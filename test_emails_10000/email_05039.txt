@@ -1,0 +1,9 @@
+contact:
+  name: William Reed
+  email: william.reed4471@gmail.com
+  phone: +1 930-486-5926
+  ssn: 696697697
+  dob: 23/03/1995
+  address: 97 Elm Rd
+  city: Denver
+  state: WA

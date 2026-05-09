@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Anderson",
+    "email": "emily.anderson9436@mail.com",
+    "phone": "396-236-4725",
+    "ssn": "555-83-1772",
+    "dob": "01-15-1995",
+    "address": "9195 Cedar Dr",
+    "city": "Boston",
+    "state": "IL"
+  }
+}

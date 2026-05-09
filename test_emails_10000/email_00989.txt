@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Hernandez",
+    "email": "joshua.hernandez7980@example.com",
+    "phone": "634-265-8240",
+    "ssn": "004-44-1215",
+    "dob": "03/03/1982",
+    "address": "6637 Fifth Ave",
+    "city": "San Jose",
+    "state": "MD"
+  }
+}

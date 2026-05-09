@@ -1,0 +1,14 @@
+INVOICE 518728
+
+Bill To:
+Name: Daniel White
+Email: daniel.white7963@work.org
+Phone: +1 469-294-5892
+SSN: 623-06-1431
+
+Address: 5490 North Ave
+San Antonio, TN
+
+Date of Birth: 9/11/1950
+
+Amount Due: $7982

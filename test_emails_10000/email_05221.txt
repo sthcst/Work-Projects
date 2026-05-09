@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Campbell,emma.campbell4559@gmail.com,(290) 912-5527,385627278,09/13/1957,"5641 Oak Dr",New York,FL

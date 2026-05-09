@@ -1,0 +1,14 @@
+INVOICE 708839
+
+Bill To:
+Name: Christopher Lopez
+Email: christopher.lopez7644@company.com
+Phone: 490-571-6996
+SSN: 010467731
+
+Address: 278 Maple Dr
+Dallas, CO
+
+Date of Birth: 12/10/1991
+
+Amount Due: $6158

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Campbell,steven.campbell5072@business.net,269-361-8919,930 65 6414,08-12-1964,"9347 Pine Ave",Phoenix,FL

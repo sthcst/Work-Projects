@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Reed,sarah.reed8924@outlook.com,+1 220-217-8881,403236444,10/25/1976,"1781 Spring Rd",Boston,WI

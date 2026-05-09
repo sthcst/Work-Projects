@@ -1,0 +1,14 @@
+INVOICE 653102
+
+Bill To:
+Name: Gary Brown
+Email: gary.brown9965@gmail.com
+Phone: (539) 999-6708
+SSN: 819943736
+
+Address: 5425 Main Ave
+Seattle, DC
+
+Date of Birth: 15/10/1953
+
+Amount Due: $3449

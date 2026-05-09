@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Davis",
+    "email": "jeffrey.davis2056@business.net",
+    "phone": "+1 663-604-6425",
+    "ssn": "844-22-8432",
+    "dob": "09-21-1969",
+    "address": "3375 Fifth Court",
+    "city": "Dallas",
+    "state": "OH"
+  }
+}

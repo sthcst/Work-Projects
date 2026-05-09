@@ -1,0 +1,14 @@
+INVOICE 658347
+
+Bill To:
+Name: Michelle Jimenez
+Email: michelle.jimenez5168@company.com
+Phone: (564) 586-7214
+SSN: 253679448
+
+Address: 7326 Main Way
+Washington, DC
+
+Date of Birth: 3/17/1960
+
+Amount Due: $5216

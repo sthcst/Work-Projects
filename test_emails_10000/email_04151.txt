@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Perez,kimberly.perez8348@yahoo.com,+1 627-972-2337,134-50-9575,2/21/1997,"5040 Fifth Ln",Phoenix,GA

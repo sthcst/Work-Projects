@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Morris,ashley.morris6894@business.net,(568) 884-2230,681-55-4694,10/13/1980,"521 Main Rd",San Diego,CO

@@ -1,0 +1,9 @@
+contact:
+  name: Jane Parker
+  email: jane.parker3076@company.com
+  phone: 446-475-2393
+  ssn: 584731735
+  dob: 08-02-1953
+  address: 1537 Summer St
+  city: Jacksonville
+  state: AZ

@@ -1,0 +1,14 @@
+INVOICE 765879
+
+Bill To:
+Name: John White
+Email: john.white2241@outlook.com
+Phone: 990-347-4849
+SSN: 695968419
+
+Address: 2270 Third Court
+Los Angeles, NJ
+
+Date of Birth: 1/22/1964
+
+Amount Due: $5869

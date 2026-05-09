@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Moore",
+    "email": "rebecca.moore4649@example.com",
+    "phone": "(322) 513-7538",
+    "ssn": "098 02 1267",
+    "dob": "10-17-1962",
+    "address": "712 Oak Blvd",
+    "city": "Houston",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 242110
+
+Bill To:
+Name: Charles White
+Email: charles.white7359@work.org
+Phone: (593) 923-3223
+SSN: 526211000
+
+Address: 4677 Maple St
+Phoenix, AZ
+
+Date of Birth: 02/06/1978
+
+Amount Due: $6945

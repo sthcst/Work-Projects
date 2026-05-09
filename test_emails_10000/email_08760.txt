@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Romero,lisa.romero6765@yahoo.com,361 858 7434,863 96 9236,02/01/2000,"4689 Birch Rd",Jacksonville,MA

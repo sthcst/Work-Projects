@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Dominguez,daniel.dominguez4221@outlook.com,(646) 473-4716,609 85 9028,1/10/1960,"9227 East Ln",Houston,TX

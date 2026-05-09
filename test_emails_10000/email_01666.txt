@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Nelson,helen.nelson2172@mail.com,(692) 547-1108,377529866,11-02-1982,"8621 Cedar St",Seattle,PA

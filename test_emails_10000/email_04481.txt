@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Nunez,david.nunez1312@gmail.com,(324) 477-3513,128 05 7279,04/25/1989,"3787 Sixth Ave",Austin,OH

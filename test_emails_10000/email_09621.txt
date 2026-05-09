@@ -1,0 +1,14 @@
+INVOICE 131135
+
+Bill To:
+Name: Charles Rodriguez
+Email: charles.rodriguez5808@mail.com
+Phone: +1 356-775-2758
+SSN: 180-14-5275
+
+Address: 8143 Oak Blvd
+San Diego, CA
+
+Date of Birth: 12/03/1952
+
+Amount Due: $1598

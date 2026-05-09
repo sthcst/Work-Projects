@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Moore",
+    "email": "kimberly.moore3530@gmail.com",
+    "phone": "+1 617-356-2383",
+    "ssn": "918-74-2958",
+    "dob": "27/11/1978",
+    "address": "4651 Oak St",
+    "city": "Boston",
+    "state": "CA"
+  }
+}

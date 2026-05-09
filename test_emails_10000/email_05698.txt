@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Martin
+  email: cynthia.martin2328@company.com
+  phone: 930-287-5144
+  ssn: 622-89-6823
+  dob: 16/08/1985
+  address: 974 Cedar Dr
+  city: Boston
+  state: WI

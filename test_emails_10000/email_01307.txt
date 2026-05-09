@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Bell,helen.bell8060@yahoo.com,(249) 341-7792,907 42 7199,15/11/1995,"1580 Elm Blvd",Phoenix,MD

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Dominguez",
+    "email": "michael.dominguez2157@example.com",
+    "phone": "402 281 3020",
+    "ssn": "936-41-9068",
+    "dob": "05/09/1999",
+    "address": "5508 Maple Rd",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

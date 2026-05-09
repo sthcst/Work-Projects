@@ -1,0 +1,9 @@
+contact:
+  name: Christine Guerrero
+  email: christine.guerrero4930@yahoo.com
+  phone: 545-202-8097
+  ssn: 533421344
+  dob: 03/08/1965
+  address: 4875 West Rd
+  city: Houston
+  state: CA

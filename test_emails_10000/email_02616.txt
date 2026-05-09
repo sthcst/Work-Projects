@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Murillo",
+    "email": "gary.murillo4889@yahoo.com",
+    "phone": "445 668 8295",
+    "ssn": "170213928",
+    "dob": "6/11/1977",
+    "address": "1290 Spring Ln",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

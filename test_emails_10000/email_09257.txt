@@ -1,0 +1,14 @@
+INVOICE 160388
+
+Bill To:
+Name: Donald Reyes
+Email: donald.reyes4751@gmail.com
+Phone: 715 453 6996
+SSN: 332245607
+
+Address: 9332 South Ln
+Phoenix, WA
+
+Date of Birth: 12/11/1955
+
+Amount Due: $118

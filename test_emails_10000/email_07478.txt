@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Cooper
+  email: deborah.cooper8853@mail.com
+  phone: 503-219-1613
+  ssn: 130-16-4231
+  dob: 09-20-1973
+  address: 1402 North Way
+  city: San Jose
+  state: MA

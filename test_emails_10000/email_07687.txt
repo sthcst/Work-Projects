@@ -1,0 +1,9 @@
+contact:
+  name: Anna Wilson
+  email: anna.wilson4382@yahoo.com
+  phone: 284-810-2823
+  ssn: 162-09-5416
+  dob: 10/13/2002
+  address: 7742 Main Rd
+  city: Washington
+  state: WA

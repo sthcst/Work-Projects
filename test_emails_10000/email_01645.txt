@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Hernandez
+  email: ashley.hernandez8984@work.org
+  phone: 582 704 9812
+  ssn: 869293078
+  dob: 03/27/1988
+  address: 476 Oak Blvd
+  city: New York
+  state: TX

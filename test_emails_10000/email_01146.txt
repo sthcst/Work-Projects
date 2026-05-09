@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Garcia",
+    "email": "edward.garcia2797@yahoo.com",
+    "phone": "528 939 4563",
+    "ssn": "571321321",
+    "dob": "08-15-1971",
+    "address": "9005 Maple Ave",
+    "city": "Philadelphia",
+    "state": "MA"
+  }
+}

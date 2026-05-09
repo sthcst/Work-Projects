@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Jones",
+    "email": "pamela.jones3899@work.org",
+    "phone": "474 408 8787",
+    "ssn": "430 56 3513",
+    "dob": "28/10/1983",
+    "address": "7382 Cedar Rd",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 336654
+
+Bill To:
+Name: Kimberly Dominguez
+Email: kimberly.dominguez5177@mail.com
+Phone: 600 205 6583
+SSN: 602-97-3909
+
+Address: 5252 Pine Way
+Houston, MO
+
+Date of Birth: 4/17/1987
+
+Amount Due: $1784

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Hernandez",
+    "email": "john.hernandez7724@outlook.com",
+    "phone": "+1 300-296-9826",
+    "ssn": "726 08 6339",
+    "dob": "02/12/2000",
+    "address": "9397 Sixth Ln",
+    "city": "Philadelphia",
+    "state": "CA"
+  }
+}

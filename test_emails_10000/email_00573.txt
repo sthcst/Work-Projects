@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Nunez,nicholas.nunez7092@business.net,(699) 881-1979,362 14 2096,12-16-1988,"2327 Park Court",San Antonio,CO

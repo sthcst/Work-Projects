@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Miller",
+    "email": "jeffrey.miller4911@mail.com",
+    "phone": "(270) 848-8197",
+    "ssn": "290112933",
+    "dob": "12/16/1965",
+    "address": "7724 West St",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

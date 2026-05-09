@@ -1,0 +1,9 @@
+contact:
+  name: Emma Johnson
+  email: emma.johnson7113@company.com
+  phone: (768) 919-8737
+  ssn: 635 68 2068
+  dob: 10-09-1995
+  address: 7033 Oak Way
+  city: Austin
+  state: TX

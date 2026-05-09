@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Sanchez,joseph.sanchez4405@business.net,606-483-7171,079413436,7/25/1971,"2486 Maple Rd",Dallas,MD

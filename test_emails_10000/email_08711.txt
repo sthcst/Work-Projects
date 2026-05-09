@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Collins",
+    "email": "william.collins3185@work.org",
+    "phone": "+1 422-478-7182",
+    "ssn": "774799725",
+    "dob": "01-24-1967",
+    "address": "2391 West Ln",
+    "city": "Philadelphia",
+    "state": "NJ"
+  }
+}

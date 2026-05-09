@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Lee,emma.lee5992@gmail.com,706 648 9271,184549317,8/5/1956,"9331 South St",Phoenix,TX

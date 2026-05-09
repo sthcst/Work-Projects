@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Perez",
+    "email": "paul.perez2632@outlook.com",
+    "phone": "202 320 5566",
+    "ssn": "431332010",
+    "dob": "3/10/2004",
+    "address": "8187 Main Court",
+    "city": "Washington",
+    "state": "PA"
+  }
+}

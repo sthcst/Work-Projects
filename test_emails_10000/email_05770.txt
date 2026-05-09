@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Serrano",
+    "email": "rebecca.serrano8746@outlook.com",
+    "phone": "(576) 789-7820",
+    "ssn": "221 45 9461",
+    "dob": "12/07/1952",
+    "address": "1168 East St",
+    "city": "Denver",
+    "state": "OH"
+  }
+}

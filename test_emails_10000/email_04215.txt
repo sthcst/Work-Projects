@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Cooper,kenneth.cooper3990@company.com,706-329-8722,671-28-2083,26/12/1971,"9327 East Way",Houston,VA

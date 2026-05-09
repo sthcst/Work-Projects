@@ -1,0 +1,14 @@
+INVOICE 679028
+
+Bill To:
+Name: Jacob Williams
+Email: jacob.williams4480@company.com
+Phone: (528) 430-2658
+SSN: 466 25 3399
+
+Address: 2570 Maple Dr
+Chicago, IL
+
+Date of Birth: 07-04-1972
+
+Amount Due: $1803

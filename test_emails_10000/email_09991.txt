@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Rodriguez,joseph.rodriguez5473@gmail.com,877-756-2383,982-73-8035,3/14/1953,"4199 West Blvd",New York,DC

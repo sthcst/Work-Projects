@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Ortiz",
+    "email": "brenda.ortiz8891@company.com",
+    "phone": "726 764 5621",
+    "ssn": "350361529",
+    "dob": "09/14/1981",
+    "address": "3442 Third Rd",
+    "city": "San Diego",
+    "state": "VA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Nunez",
+    "email": "william.nunez6484@mail.com",
+    "phone": "876 863 5947",
+    "ssn": "071 58 8718",
+    "dob": "6/18/1958",
+    "address": "1671 West Blvd",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

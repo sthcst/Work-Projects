@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Romero,brenda.romero8871@example.com,(710) 434-6997,298-49-1634,4/7/1970,"3650 Third Ln",Seattle,CA

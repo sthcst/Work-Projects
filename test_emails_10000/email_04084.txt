@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Alvarado,george.alvarado2306@mail.com,(948) 452-9176,595 72 1419,04/02/2002,"7142 Sixth Blvd",Washington,WI

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Roberts,angela.roberts6062@gmail.com,786-540-6019,521-12-6598,07-20-1959,"6091 Fifth Way",Boston,CA

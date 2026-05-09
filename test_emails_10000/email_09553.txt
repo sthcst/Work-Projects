@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Lee",
+    "email": "lisa.lee1631@work.org",
+    "phone": "+1 749-368-7920",
+    "ssn": "542-78-7029",
+    "dob": "11/04/1987",
+    "address": "7282 Second Blvd",
+    "city": "Phoenix",
+    "state": "FL"
+  }
+}

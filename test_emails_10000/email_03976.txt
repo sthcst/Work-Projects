@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Davis,emily.davis1621@business.net,(765) 756-2153,486633144,03/01/2001,"183 Birch Rd",San Diego,IL

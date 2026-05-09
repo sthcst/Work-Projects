@@ -1,0 +1,9 @@
+contact:
+  name: Angela Brown
+  email: angela.brown8719@outlook.com
+  phone: (700) 684-9432
+  ssn: 766-88-9152
+  dob: 01/11/1952
+  address: 1293 Elm Dr
+  city: New York
+  state: FL

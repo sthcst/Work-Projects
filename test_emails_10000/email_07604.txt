@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Murillo,amanda.murillo1394@yahoo.com,580-391-6703,840-88-5827,3/7/1987,"9302 Elm Blvd",Seattle,AZ

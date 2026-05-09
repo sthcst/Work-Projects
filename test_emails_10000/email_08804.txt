@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Edwards",
+    "email": "matthew.edwards5293@example.com",
+    "phone": "250-421-4000",
+    "ssn": "152-55-8037",
+    "dob": "14/05/1989",
+    "address": "8620 Pine Blvd",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

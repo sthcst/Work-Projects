@@ -1,0 +1,9 @@
+contact:
+  name: Angela Lewis
+  email: angela.lewis8438@work.org
+  phone: (622) 466-8771
+  ssn: 307 70 2290
+  dob: 01-14-1981
+  address: 5473 Birch Ln
+  city: San Jose
+  state: VA

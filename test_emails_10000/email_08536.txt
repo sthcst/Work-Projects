@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Morris
+  email: stephanie.morris8031@work.org
+  phone: 304 857 9159
+  ssn: 524-36-8777
+  dob: 24/06/1958
+  address: 9275 Elm Dr
+  city: Jacksonville
+  state: NJ

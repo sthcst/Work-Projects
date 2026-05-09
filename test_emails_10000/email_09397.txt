@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Clark
+  email: jennifer.clark9687@example.com
+  phone: 831 807 3773
+  ssn: 212-90-3838
+  dob: 15/05/1997
+  address: 4287 Birch Ave
+  city: Austin
+  state: FL

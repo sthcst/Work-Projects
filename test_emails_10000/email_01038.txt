@@ -1,0 +1,9 @@
+contact:
+  name: Mark Moore
+  email: mark.moore676@yahoo.com
+  phone: 997-481-1496
+  ssn: 835-50-6785
+  dob: 12-14-1975
+  address: 3024 West Court
+  city: San Diego
+  state: MO

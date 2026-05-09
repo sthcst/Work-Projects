@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Lopez
+  email: michelle.lopez9971@business.net
+  phone: (646) 472-3900
+  ssn: 167 19 8823
+  dob: 19/09/1954
+  address: 884 Spring Blvd
+  city: Dallas
+  state: WI

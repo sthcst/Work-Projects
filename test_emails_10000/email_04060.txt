@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Garcia",
+    "email": "kenneth.garcia9692@work.org",
+    "phone": "999 315 9435",
+    "ssn": "142532872",
+    "dob": "10/17/1988",
+    "address": "5529 Maple Way",
+    "city": "Houston",
+    "state": "CA"
+  }
+}

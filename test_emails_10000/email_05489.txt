@@ -1,0 +1,14 @@
+INVOICE 541235
+
+Bill To:
+Name: Gary Thomas
+Email: gary.thomas955@company.com
+Phone: +1 527-895-2163
+SSN: 912847870
+
+Address: 9336 Park St
+Seattle, GA
+
+Date of Birth: 10/14/2003
+
+Amount Due: $1715

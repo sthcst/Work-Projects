@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Lewis,kathleen.lewis5808@company.com,451-997-2540,716531693,04-19-1960,"8626 Summer Way",Dallas,CA

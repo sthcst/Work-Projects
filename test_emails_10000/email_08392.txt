@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Walker,john.walker941@work.org,+1 986-266-4749,003 80 9616,09-20-1964,"9112 Fifth Rd",Chicago,AZ

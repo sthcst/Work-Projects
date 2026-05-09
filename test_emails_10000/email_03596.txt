@@ -1,0 +1,14 @@
+INVOICE 551970
+
+Bill To:
+Name: Charles Perez
+Email: charles.perez7489@work.org
+Phone: 739 238 8940
+SSN: 436-51-7764
+
+Address: 5028 South Rd
+Austin, TX
+
+Date of Birth: 10-25-1976
+
+Amount Due: $4966

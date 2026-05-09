@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Rogers,edward.rogers5830@gmail.com,344-267-2326,269-87-6701,06-07-1971,"3886 Main Ave",Boston,FL

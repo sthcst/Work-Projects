@@ -1,0 +1,9 @@
+contact:
+  name: Angela Jimenez
+  email: angela.jimenez1945@yahoo.com
+  phone: (476) 291-3621
+  ssn: 020-17-4211
+  dob: 21/12/1996
+  address: 6062 Cedar Ln
+  city: Boston
+  state: VA

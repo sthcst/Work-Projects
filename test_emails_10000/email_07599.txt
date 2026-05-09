@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Walker",
+    "email": "pamela.walker322@example.com",
+    "phone": "713 302 1797",
+    "ssn": "451-84-9668",
+    "dob": "11-15-1985",
+    "address": "4282 Main Ave",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

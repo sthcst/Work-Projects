@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Nunez
+  email: samantha.nunez9561@mail.com
+  phone: 211 819 4749
+  ssn: 504673823
+  dob: 01/12/1971
+  address: 5761 Cedar Ln
+  city: Chicago
+  state: MA

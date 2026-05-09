@@ -1,0 +1,14 @@
+INVOICE 195436
+
+Bill To:
+Name: Amanda White
+Email: amanda.white1489@work.org
+Phone: +1 571-473-5981
+SSN: 373 61 5564
+
+Address: 6652 First Rd
+Phoenix, CA
+
+Date of Birth: 10/10/1950
+
+Amount Due: $6764

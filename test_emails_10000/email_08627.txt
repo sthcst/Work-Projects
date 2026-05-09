@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Martinez",
+    "email": "steven.martinez9833@outlook.com",
+    "phone": "462-601-7904",
+    "ssn": "043312501",
+    "dob": "07/06/1983",
+    "address": "6729 First Ln",
+    "city": "Phoenix",
+    "state": "NY"
+  }
+}

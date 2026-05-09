@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Hernandez,michelle.hernandez8613@example.com,(474) 423-6312,739035229,02-27-1999,"8925 South Ln",Boston,MD

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Romero",
+    "email": "katherine.romero9270@work.org",
+    "phone": "(730) 401-4867",
+    "ssn": "884-03-7997",
+    "dob": "05-09-1963",
+    "address": "7336 South Dr",
+    "city": "Washington",
+    "state": "FL"
+  }
+}

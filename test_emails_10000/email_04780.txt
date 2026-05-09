@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Nunez,deborah.nunez6272@mail.com,941-868-1793,705-04-8547,06/24/1999,"419 Second Dr",Los Angeles,AZ

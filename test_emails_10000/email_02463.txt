@@ -1,0 +1,14 @@
+INVOICE 285340
+
+Bill To:
+Name: Paul Wilson
+Email: paul.wilson1307@company.com
+Phone: +1 541-467-6703
+SSN: 164-43-6130
+
+Address: 6821 Sixth Ln
+Denver, CA
+
+Date of Birth: 08-25-1974
+
+Amount Due: $6778

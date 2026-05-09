@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Dominguez,angela.dominguez8096@example.com,(227) 568-3372,464 54 4597,22/05/1965,"53 First St",Denver,AZ

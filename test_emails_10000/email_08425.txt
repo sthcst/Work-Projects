@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Taylor
+  email: anthony.taylor9024@business.net
+  phone: +1 282-885-1214
+  ssn: 902 33 6160
+  dob: 2/20/1955
+  address: 177 South Rd
+  city: Philadelphia
+  state: FL

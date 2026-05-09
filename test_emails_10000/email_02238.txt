@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Miller,katherine.miller2354@example.com,601 824 9605,284459876,12/01/1988,"6229 East St",San Jose,WA

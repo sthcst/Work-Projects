@@ -1,0 +1,14 @@
+INVOICE 222958
+
+Bill To:
+Name: Helen Delgado
+Email: helen.delgado6123@example.com
+Phone: +1 241-478-6069
+SSN: 275 01 5007
+
+Address: 7864 Spring Blvd
+Washington, NY
+
+Date of Birth: 20/03/1970
+
+Amount Due: $8836

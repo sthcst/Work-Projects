@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Wilson,angela.wilson1703@gmail.com,+1 253-860-4019,161 64 5603,03/07/1956,"4031 South Blvd",New York,WA

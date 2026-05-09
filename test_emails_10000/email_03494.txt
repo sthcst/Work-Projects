@@ -1,0 +1,9 @@
+contact:
+  name: Charles Guerrero
+  email: charles.guerrero13@business.net
+  phone: 994 430 7296
+  ssn: 952-51-2725
+  dob: 12/3/1957
+  address: 3551 First Rd
+  city: Chicago
+  state: TX

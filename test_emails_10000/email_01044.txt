@@ -1,0 +1,14 @@
+INVOICE 555989
+
+Bill To:
+Name: Mark Clark
+Email: mark.clark3482@business.net
+Phone: +1 891-790-7242
+SSN: 024663726
+
+Address: 1415 Birch Way
+New York, MO
+
+Date of Birth: 20/09/1975
+
+Amount Due: $9920

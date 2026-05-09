@@ -1,0 +1,14 @@
+INVOICE 939097
+
+Bill To:
+Name: Shirley Smith
+Email: shirley.smith9537@gmail.com
+Phone: +1 239-306-5951
+SSN: 217017018
+
+Address: 6571 Birch Dr
+Dallas, TX
+
+Date of Birth: 09/10/1978
+
+Amount Due: $1687

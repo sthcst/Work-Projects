@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Cooper
+  email: sarah.cooper7878@company.com
+  phone: (418) 732-4019
+  ssn: 456-50-6242
+  dob: 05/18/1992
+  address: 2926 Summer Way
+  city: Boston
+  state: FL

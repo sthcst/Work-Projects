@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Smith
+  email: kathleen.smith6846@business.net
+  phone: 353 548 4551
+  ssn: 166 66 4093
+  dob: 10/08/1950
+  address: 1213 Pine Court
+  city: Philadelphia
+  state: TX

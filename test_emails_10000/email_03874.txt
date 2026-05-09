@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Bell
+  email: michelle.bell6170@example.com
+  phone: (512) 776-5641
+  ssn: 074 70 3782
+  dob: 6/25/1968
+  address: 702 First Ave
+  city: San Jose
+  state: MI

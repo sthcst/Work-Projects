@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Hall",
+    "email": "emily.hall7792@example.com",
+    "phone": "(621) 796-5719",
+    "ssn": "869897256",
+    "dob": "12/01/1968",
+    "address": "3769 North Dr",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

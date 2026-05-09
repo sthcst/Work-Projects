@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Peterson,daniel.peterson5777@mail.com,831 384 5297,376-72-1824,4/24/1996,"1987 Main Ave",Jacksonville,MI

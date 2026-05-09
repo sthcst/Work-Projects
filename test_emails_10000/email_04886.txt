@@ -1,0 +1,14 @@
+INVOICE 180448
+
+Bill To:
+Name: Joshua Jones
+Email: joshua.jones7098@company.com
+Phone: 328 209 1392
+SSN: 702 60 9936
+
+Address: 602 Park Rd
+Houston, TX
+
+Date of Birth: 9/16/2002
+
+Amount Due: $9304

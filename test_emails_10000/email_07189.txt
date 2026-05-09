@@ -1,0 +1,9 @@
+contact:
+  name: Angela Collins
+  email: angela.collins720@gmail.com
+  phone: 326-408-6946
+  ssn: 306216927
+  dob: 11/28/1998
+  address: 1089 West Rd
+  city: Los Angeles
+  state: PA

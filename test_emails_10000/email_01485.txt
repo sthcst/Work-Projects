@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Taylor,brenda.taylor5293@company.com,483-214-4850,055 83 9102,06-28-1988,"1083 Spring Rd",Los Angeles,AZ

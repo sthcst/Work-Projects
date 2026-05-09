@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Carter
+  email: shirley.carter969@mail.com
+  phone: 645 801 2583
+  ssn: 087949555
+  dob: 4/22/2002
+  address: 3904 First Blvd
+  city: Dallas
+  state: AZ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Moore",
+    "email": "emily.moore2522@work.org",
+    "phone": "(997) 804-8950",
+    "ssn": "288-08-5246",
+    "dob": "23/01/1952",
+    "address": "6407 East Ln",
+    "city": "Seattle",
+    "state": "AZ"
+  }
+}

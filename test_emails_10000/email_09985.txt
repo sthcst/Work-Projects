@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Nunez",
+    "email": "paul.nunez6281@gmail.com",
+    "phone": "+1 623-554-2658",
+    "ssn": "829-42-6110",
+    "dob": "03/04/1950",
+    "address": "8544 Second Ln",
+    "city": "Boston",
+    "state": "FL"
+  }
+}

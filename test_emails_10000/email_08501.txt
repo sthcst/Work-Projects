@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Rodriguez",
+    "email": "katherine.rodriguez9225@yahoo.com",
+    "phone": "+1 202-266-2862",
+    "ssn": "067-04-2464",
+    "dob": "10/7/1955",
+    "address": "2879 Maple St",
+    "city": "Boston",
+    "state": "MO"
+  }
+}

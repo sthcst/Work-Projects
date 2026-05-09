@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Sanchez",
+    "email": "shirley.sanchez879@yahoo.com",
+    "phone": "(320) 725-8337",
+    "ssn": "161-20-8469",
+    "dob": "07/20/1960",
+    "address": "2240 Cedar Rd",
+    "city": "Philadelphia",
+    "state": "WA"
+  }
+}

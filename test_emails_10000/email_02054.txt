@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Perez,andrew.perez1459@gmail.com,366 217 9338,927382471,18/03/1990,"5261 Spring St",Seattle,GA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Jones,andrew.jones1823@outlook.com,(883) 941-7830,505 17 7057,24/11/1975,"1755 Fourth Dr",Jacksonville,WI

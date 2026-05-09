@@ -1,0 +1,14 @@
+INVOICE 300181
+
+Bill To:
+Name: Helen Guerrero
+Email: helen.guerrero8673@gmail.com
+Phone: 752-397-5282
+SSN: 874 60 7653
+
+Address: 7371 Third Ave
+Chicago, TX
+
+Date of Birth: 09/08/1953
+
+Amount Due: $2708

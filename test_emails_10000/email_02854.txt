@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Clark,jennifer.clark2120@gmail.com,+1 627-349-8407,914-18-6571,8/1/1954,"620 Main Dr",Los Angeles,DC

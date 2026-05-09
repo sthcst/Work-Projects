@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Carter,daniel.carter4762@example.com,596 556 7205,055-21-7049,21/06/1988,"1661 Birch Way",San Diego,DC

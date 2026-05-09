@@ -1,0 +1,9 @@
+contact:
+  name: Angela Martin
+  email: angela.martin9108@business.net
+  phone: +1 440-440-8613
+  ssn: 998911532
+  dob: 08/26/1963
+  address: 2295 West Rd
+  city: Washington
+  state: MI

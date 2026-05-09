@@ -1,0 +1,14 @@
+INVOICE 243121
+
+Bill To:
+Name: Donald Garcia
+Email: donald.garcia6284@yahoo.com
+Phone: 724-579-6206
+SSN: 673 63 1896
+
+Address: 4182 Main Way
+Dallas, TX
+
+Date of Birth: 19/02/1962
+
+Amount Due: $3076

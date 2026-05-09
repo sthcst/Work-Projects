@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Phillips",
+    "email": "george.phillips8588@yahoo.com",
+    "phone": "(658) 896-1914",
+    "ssn": "703118393",
+    "dob": "12-01-1970",
+    "address": "5590 Pine Ave",
+    "city": "Washington",
+    "state": "MA"
+  }
+}

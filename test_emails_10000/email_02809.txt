@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Davis
+  email: sarah.davis6626@example.com
+  phone: +1 497-381-9731
+  ssn: 512 32 5932
+  dob: 11/15/1974
+  address: 5994 Third Court
+  city: San Antonio
+  state: TX

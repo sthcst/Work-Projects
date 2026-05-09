@@ -1,0 +1,14 @@
+INVOICE 789474
+
+Bill To:
+Name: Emily Martinez
+Email: emily.martinez3991@outlook.com
+Phone: +1 376-273-1794
+SSN: 893-97-6137
+
+Address: 994 Pine Dr
+Philadelphia, AZ
+
+Date of Birth: 08/04/1967
+
+Amount Due: $9060

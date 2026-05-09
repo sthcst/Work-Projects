@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Edwards
+  email: jacob.edwards8015@work.org
+  phone: +1 853-675-5902
+  ssn: 316503778
+  dob: 01/13/1950
+  address: 1326 Main St
+  city: Jacksonville
+  state: GA

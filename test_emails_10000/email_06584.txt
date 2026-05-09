@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Lopez",
+    "email": "timothy.lopez5221@mail.com",
+    "phone": "(438) 248-6790",
+    "ssn": "052-73-1519",
+    "dob": "7/19/1990",
+    "address": "551 South Ave",
+    "city": "San Antonio",
+    "state": "MI"
+  }
+}

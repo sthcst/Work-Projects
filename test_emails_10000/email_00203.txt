@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Morgan",
+    "email": "nicole.morgan956@example.com",
+    "phone": "951-272-5979",
+    "ssn": "080-28-9511",
+    "dob": "24/02/1964",
+    "address": "3114 Birch Ln",
+    "city": "Philadelphia",
+    "state": "GA"
+  }
+}

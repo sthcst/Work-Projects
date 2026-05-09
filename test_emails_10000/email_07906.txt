@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Miller",
+    "email": "brenda.miller9746@gmail.com",
+    "phone": "201 387 4123",
+    "ssn": "702671837",
+    "dob": "10/11/1954",
+    "address": "2792 Elm Court",
+    "city": "Dallas",
+    "state": "MI"
+  }
+}

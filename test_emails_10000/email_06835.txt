@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Parker",
+    "email": "brenda.parker215@business.net",
+    "phone": "+1 386-395-9511",
+    "ssn": "942-73-5672",
+    "dob": "21/07/1963",
+    "address": "3057 South Blvd",
+    "city": "San Diego",
+    "state": "GA"
+  }
+}

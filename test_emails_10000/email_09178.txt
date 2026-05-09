@@ -1,0 +1,9 @@
+contact:
+  name: Gary Ortiz
+  email: gary.ortiz585@company.com
+  phone: 836-295-1241
+  ssn: 260-60-7778
+  dob: 24/09/1993
+  address: 8049 Elm Ave
+  city: Houston
+  state: FL

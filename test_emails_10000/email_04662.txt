@@ -1,0 +1,9 @@
+contact:
+  name: Angela Johnson
+  email: angela.johnson6673@mail.com
+  phone: 405-292-2830
+  ssn: 935 12 9048
+  dob: 10/08/1956
+  address: 559 Park Ave
+  city: New York
+  state: NY

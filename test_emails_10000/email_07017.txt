@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Campbell",
+    "email": "jennifer.campbell8368@business.net",
+    "phone": "(422) 902-2871",
+    "ssn": "212911201",
+    "dob": "03/10/2004",
+    "address": "5264 Spring Blvd",
+    "city": "Jacksonville",
+    "state": "MA"
+  }
+}

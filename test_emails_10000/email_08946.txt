@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Brown",
+    "email": "john.brown2222@gmail.com",
+    "phone": "820-958-8700",
+    "ssn": "278-45-6950",
+    "dob": "07/13/1957",
+    "address": "5459 Second Blvd",
+    "city": "Seattle",
+    "state": "NY"
+  }
+}

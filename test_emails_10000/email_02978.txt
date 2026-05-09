@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Murillo
+  email: joseph.murillo5134@gmail.com
+  phone: 678-250-4339
+  ssn: 822 88 8199
+  dob: 2/7/1970
+  address: 4726 Maple Ave
+  city: Denver
+  state: NC

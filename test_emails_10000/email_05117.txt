@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Nelson,ryan.nelson5700@yahoo.com,+1 605-979-9845,879 34 9206,02/08/1984,"551 Second Blvd",Washington,MO

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Clark,pamela.clark8939@example.com,(362) 480-8842,828-83-7917,02-10-1964,"3632 Third Ln",San Diego,FL

@@ -1,0 +1,9 @@
+contact:
+  name: Donald Garcia
+  email: donald.garcia6663@gmail.com
+  phone: 285-968-9272
+  ssn: 509 98 6364
+  dob: 15/02/1982
+  address: 9062 Third St
+  city: New York
+  state: WI

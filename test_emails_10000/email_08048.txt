@@ -1,0 +1,9 @@
+contact:
+  name: Paul Moore
+  email: paul.moore8327@work.org
+  phone: 245 622 1501
+  ssn: 753 39 3906
+  dob: 23/09/1995
+  address: 4034 Elm Rd
+  city: Houston
+  state: FL

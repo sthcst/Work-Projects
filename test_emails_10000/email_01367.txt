@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Robinson,edward.robinson8733@work.org,+1 410-406-5773,947 51 8655,14/11/1967,"7085 Oak Ln",San Antonio,MO

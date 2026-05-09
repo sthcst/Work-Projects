@@ -1,0 +1,9 @@
+contact:
+  name: George Martin
+  email: george.martin4590@gmail.com
+  phone: 838 863 8858
+  ssn: 497926280
+  dob: 08/06/1968
+  address: 558 Park St
+  city: San Antonio
+  state: IL

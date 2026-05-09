@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Clark
+  email: ashley.clark8506@yahoo.com
+  phone: 726 663 9612
+  ssn: 818 49 9182
+  dob: 08/03/1954
+  address: 9534 Oak Ln
+  city: San Antonio
+  state: MI

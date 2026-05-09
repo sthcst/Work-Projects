@@ -1,0 +1,9 @@
+contact:
+  name: John Garcia
+  email: john.garcia6284@gmail.com
+  phone: 563 429 5230
+  ssn: 014 65 4465
+  dob: 10-15-1981
+  address: 317 First Ln
+  city: Jacksonville
+  state: MD

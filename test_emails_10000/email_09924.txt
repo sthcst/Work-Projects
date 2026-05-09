@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Stewart,rachel.stewart6438@business.net,959-527-3844,560-02-4828,7/9/1988,"1699 East St",Houston,CO

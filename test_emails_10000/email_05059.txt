@@ -1,0 +1,14 @@
+INVOICE 268832
+
+Bill To:
+Name: Sarah Jones
+Email: sarah.jones5920@example.com
+Phone: +1 734-998-4724
+SSN: 105 69 5941
+
+Address: 4594 West Dr
+Chicago, OH
+
+Date of Birth: 02/09/1967
+
+Amount Due: $6354

@@ -1,0 +1,9 @@
+contact:
+  name: David White
+  email: david.white9870@mail.com
+  phone: (854) 779-2705
+  ssn: 960 64 3304
+  dob: 12-03-1965
+  address: 5244 Cedar Ave
+  city: Austin
+  state: WA

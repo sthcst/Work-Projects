@@ -1,0 +1,14 @@
+INVOICE 804923
+
+Bill To:
+Name: Katherine Brown
+Email: katherine.brown6772@example.com
+Phone: (399) 363-2930
+SSN: 571072807
+
+Address: 8822 Main Way
+San Jose, TN
+
+Date of Birth: 04/12/1975
+
+Amount Due: $3665

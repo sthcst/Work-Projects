@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Anderson",
+    "email": "timothy.anderson7199@outlook.com",
+    "phone": "226 524 1181",
+    "ssn": "327 40 8265",
+    "dob": "28/05/1963",
+    "address": "8383 First St",
+    "city": "Denver",
+    "state": "PA"
+  }
+}

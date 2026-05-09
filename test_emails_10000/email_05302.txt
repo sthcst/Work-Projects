@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Hall
+  email: jeffrey.hall7455@mail.com
+  phone: 594-308-9294
+  ssn: 184 58 6235
+  dob: 04-05-1989
+  address: 8634 Fourth Blvd
+  city: Dallas
+  state: MD

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Serrano",
+    "email": "brian.serrano406@mail.com",
+    "phone": "(784) 655-2870",
+    "ssn": "714-27-3261",
+    "dob": "16/03/1968",
+    "address": "5362 East St",
+    "city": "Los Angeles",
+    "state": "MA"
+  }
+}

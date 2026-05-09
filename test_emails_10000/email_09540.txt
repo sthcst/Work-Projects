@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Davis",
+    "email": "kathleen.davis7819@gmail.com",
+    "phone": "229-464-2673",
+    "ssn": "769 20 2523",
+    "dob": "27/06/1986",
+    "address": "8217 Third Blvd",
+    "city": "San Antonio",
+    "state": "MI"
+  }
+}

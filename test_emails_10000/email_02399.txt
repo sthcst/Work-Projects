@@ -1,0 +1,9 @@
+contact:
+  name: Michael Hall
+  email: michael.hall2738@mail.com
+  phone: +1 944-554-5416
+  ssn: 190-30-8539
+  dob: 06-07-1994
+  address: 9275 First Rd
+  city: San Jose
+  state: FL

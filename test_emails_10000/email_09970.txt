@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Moore",
+    "email": "emma.moore2917@outlook.com",
+    "phone": "(240) 255-5037",
+    "ssn": "084 10 2033",
+    "dob": "07-03-1950",
+    "address": "8785 First St",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

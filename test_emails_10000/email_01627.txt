@@ -1,0 +1,9 @@
+contact:
+  name: Christine White
+  email: christine.white4472@outlook.com
+  phone: (695) 889-5800
+  ssn: 898 93 7456
+  dob: 6/23/1992
+  address: 4882 Third Ln
+  city: Los Angeles
+  state: FL

@@ -1,0 +1,9 @@
+contact:
+  name: Angela Martin
+  email: angela.martin6374@outlook.com
+  phone: +1 658-665-8737
+  ssn: 596425290
+  dob: 04/20/1972
+  address: 6440 Sixth Dr
+  city: Boston
+  state: CA

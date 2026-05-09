@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Collins
+  email: nicholas.collins590@business.net
+  phone: +1 620-810-7161
+  ssn: 747967967
+  dob: 06/13/1974
+  address: 5305 Fifth Rd
+  city: Los Angeles
+  state: TN

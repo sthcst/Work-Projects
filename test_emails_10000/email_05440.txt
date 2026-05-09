@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Johnson
+  email: sarah.johnson437@work.org
+  phone: (930) 261-1969
+  ssn: 827189173
+  dob: 08/04/1957
+  address: 6235 Sixth Dr
+  city: Boston
+  state: NY

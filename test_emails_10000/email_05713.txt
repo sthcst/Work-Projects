@@ -1,0 +1,9 @@
+contact:
+  name: Jason Robinson
+  email: jason.robinson5988@gmail.com
+  phone: (596) 495-6531
+  ssn: 460775727
+  dob: 9/7/2000
+  address: 6013 Oak Blvd
+  city: Philadelphia
+  state: NJ

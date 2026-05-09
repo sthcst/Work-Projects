@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Reyes
+  email: christopher.reyes6004@work.org
+  phone: 466 264 3576
+  ssn: 594913780
+  dob: 10/15/1976
+  address: 1827 Sixth Ave
+  city: Chicago
+  state: MA

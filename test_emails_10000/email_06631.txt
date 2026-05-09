@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Gomez
+  email: kathleen.gomez8227@mail.com
+  phone: +1 779-459-6381
+  ssn: 596-98-9912
+  dob: 04/07/1979
+  address: 3866 Maple Way
+  city: San Jose
+  state: MD

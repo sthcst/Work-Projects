@@ -1,0 +1,14 @@
+INVOICE 667622
+
+Bill To:
+Name: Andrew Morris
+Email: andrew.morris3628@mail.com
+Phone: +1 663-693-9125
+SSN: 911686934
+
+Address: 5567 Third Ln
+Denver, IL
+
+Date of Birth: 03-23-1989
+
+Amount Due: $9366

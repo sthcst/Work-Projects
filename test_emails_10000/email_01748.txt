@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Nelson",
+    "email": "amanda.nelson1439@gmail.com",
+    "phone": "966 294 5743",
+    "ssn": "105171361",
+    "dob": "01/16/1966",
+    "address": "4513 South Ave",
+    "city": "Austin",
+    "state": "CO"
+  }
+}

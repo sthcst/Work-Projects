@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Hall",
+    "email": "angela.hall7425@mail.com",
+    "phone": "602-337-3374",
+    "ssn": "486892428",
+    "dob": "01-03-1981",
+    "address": "4691 Park Ave",
+    "city": "Dallas",
+    "state": "OH"
+  }
+}

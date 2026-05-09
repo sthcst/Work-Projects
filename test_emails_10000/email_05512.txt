@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Peterson
+  email: ronald.peterson1755@example.com
+  phone: +1 810-864-6059
+  ssn: 298373715
+  dob: 04-12-1987
+  address: 4069 East Court
+  city: Boston
+  state: TX

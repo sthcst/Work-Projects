@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Bell,anna.bell2791@mail.com,347 988 9587,909 96 8817,22/03/2003,"8416 Second Dr",Washington,TX

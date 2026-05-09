@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Stewart
+  email: daniel.stewart3033@work.org
+  phone: +1 599-735-6761
+  ssn: 479437000
+  dob: 07-27-1999
+  address: 5117 Maple Rd
+  city: Washington
+  state: DC

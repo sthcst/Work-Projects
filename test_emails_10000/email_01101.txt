@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Alvarado",
+    "email": "lisa.alvarado5866@example.com",
+    "phone": "412-940-5123",
+    "ssn": "326 30 2537",
+    "dob": "07/07/1999",
+    "address": "9891 Park St",
+    "city": "Washington",
+    "state": "OH"
+  }
+}

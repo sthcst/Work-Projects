@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Taylor,steven.taylor2670@mail.com,+1 292-649-8423,615 12 9436,01/13/1969,"9744 First Court",San Diego,AZ

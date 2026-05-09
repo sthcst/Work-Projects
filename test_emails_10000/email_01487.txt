@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Collins,steven.collins3958@outlook.com,+1 686-844-4614,502 56 6809,05/15/1975,"7179 Maple Court",Jacksonville,DC

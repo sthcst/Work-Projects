@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Thomas",
+    "email": "timothy.thomas461@business.net",
+    "phone": "(897) 907-5635",
+    "ssn": "318-83-2425",
+    "dob": "02/05/1995",
+    "address": "2015 Cedar Blvd",
+    "city": "Seattle",
+    "state": "GA"
+  }
+}

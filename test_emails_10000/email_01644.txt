@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Alvarado",
+    "email": "maria.alvarado9846@business.net",
+    "phone": "645-448-6245",
+    "ssn": "186 44 8846",
+    "dob": "08-16-1980",
+    "address": "3893 First Rd",
+    "city": "Chicago",
+    "state": "AZ"
+  }
+}

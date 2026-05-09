@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Moore,sarah.moore3086@gmail.com,339-365-5621,200-79-8209,12/11/1952,"791 Maple Ln",San Jose,TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Thomas",
+    "email": "kenneth.thomas2505@company.com",
+    "phone": "443 852 8710",
+    "ssn": "024 31 8557",
+    "dob": "13/03/2005",
+    "address": "8409 South Court",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

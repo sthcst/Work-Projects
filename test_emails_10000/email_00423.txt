@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Lopez",
+    "email": "katherine.lopez3132@mail.com",
+    "phone": "904-253-5254",
+    "ssn": "905-06-2815",
+    "dob": "05-03-1966",
+    "address": "6228 Spring Rd",
+    "city": "Phoenix",
+    "state": "NC"
+  }
+}

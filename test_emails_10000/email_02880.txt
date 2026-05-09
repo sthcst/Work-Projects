@@ -1,0 +1,9 @@
+contact:
+  name: Robert Gomez
+  email: robert.gomez2480@work.org
+  phone: (464) 485-8442
+  ssn: 954 02 8027
+  dob: 12/05/1950
+  address: 1071 West Rd
+  city: San Diego
+  state: NC

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Flores,joseph.flores9860@example.com,253 546 2249,300959411,08-07-1973,"6031 Cedar Rd",San Diego,PA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Garcia,kevin.garcia4291@outlook.com,692-593-5288,700-60-6053,24/12/1980,"2157 East Ln",Philadelphia,CO

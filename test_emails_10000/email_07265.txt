@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Garcia,katherine.garcia3480@example.com,911 630 4527,274407387,14/09/1988,"324 Second Rd",New York,OH

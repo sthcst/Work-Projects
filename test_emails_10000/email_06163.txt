@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Nunez",
+    "email": "katherine.nunez17@work.org",
+    "phone": "+1 763-401-7353",
+    "ssn": "749507548",
+    "dob": "05/13/1972",
+    "address": "9720 Cedar Rd",
+    "city": "Philadelphia",
+    "state": "IL"
+  }
+}

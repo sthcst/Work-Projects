@@ -1,0 +1,9 @@
+contact:
+  name: Emma Ramirez
+  email: emma.ramirez5448@mail.com
+  phone: +1 662-489-6682
+  ssn: 888-17-7832
+  dob: 12/10/1982
+  address: 3211 Second Rd
+  city: Austin
+  state: CA

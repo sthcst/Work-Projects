@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Clark
+  email: joseph.clark9732@yahoo.com
+  phone: 827 981 7221
+  ssn: 907-90-2710
+  dob: 08-23-1967
+  address: 5875 Main Dr
+  city: Houston
+  state: WA

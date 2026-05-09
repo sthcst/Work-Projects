@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Dominguez,katherine.dominguez2107@company.com,(534) 543-9701,558152390,12/23/2003,"2720 First Court",Denver,TX

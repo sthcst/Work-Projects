@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Guerrero,michelle.guerrero2740@business.net,(947) 476-8285,107774824,2/14/1970,"7281 First Ln",New York,GA

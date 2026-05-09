@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Bell",
+    "email": "rachel.bell5210@yahoo.com",
+    "phone": "438 287 3173",
+    "ssn": "066382175",
+    "dob": "4/23/1983",
+    "address": "8231 Second St",
+    "city": "Denver",
+    "state": "NJ"
+  }
+}

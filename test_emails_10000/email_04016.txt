@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Jones
+  email: jessica.jones3435@gmail.com
+  phone: (383) 484-3713
+  ssn: 900-60-4494
+  dob: 7/13/1965
+  address: 4564 Elm St
+  city: Chicago
+  state: AZ

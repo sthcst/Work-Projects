@@ -1,0 +1,9 @@
+contact:
+  name: Anna Robinson
+  email: anna.robinson2750@yahoo.com
+  phone: 389 715 5896
+  ssn: 827 85 6302
+  dob: 13/06/1994
+  address: 6130 Elm Rd
+  city: New York
+  state: IL

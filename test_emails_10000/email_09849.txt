@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Rogers",
+    "email": "stephanie.rogers1568@business.net",
+    "phone": "907 989 7867",
+    "ssn": "546-08-1157",
+    "dob": "14/08/1962",
+    "address": "8129 Third Blvd",
+    "city": "Los Angeles",
+    "state": "CO"
+  }
+}

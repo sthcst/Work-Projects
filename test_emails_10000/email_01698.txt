@@ -1,0 +1,14 @@
+INVOICE 902101
+
+Bill To:
+Name: Stephanie Lewis
+Email: stephanie.lewis8530@yahoo.com
+Phone: +1 897-273-3091
+SSN: 597-20-2393
+
+Address: 3931 Birch St
+Houston, NY
+
+Date of Birth: 06/04/1956
+
+Amount Due: $826

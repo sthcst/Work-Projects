@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Flores,jane.flores9989@gmail.com,818 697 4555,711-63-2103,04/03/1953,"3799 Sixth Way",San Diego,AZ

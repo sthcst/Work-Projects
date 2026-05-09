@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Taylor",
+    "email": "james.taylor7859@outlook.com",
+    "phone": "+1 295-252-7824",
+    "ssn": "986-63-6656",
+    "dob": "08/18/1981",
+    "address": "2423 South St",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

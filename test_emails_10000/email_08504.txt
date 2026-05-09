@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Guerrero,robert.guerrero795@outlook.com,+1 598-624-4679,199-69-7240,8/21/1980,"6678 Summer Ln",Washington,GA

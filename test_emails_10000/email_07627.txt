@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Reyes,nicholas.reyes8745@business.net,+1 515-792-5688,956-62-7005,09-27-1998,"4286 Oak Dr",Houston,NY

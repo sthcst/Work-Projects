@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Lopez,angela.lopez1732@yahoo.com,589-894-9031,865-69-9026,05-17-1953,"1922 Spring Way",Denver,WA

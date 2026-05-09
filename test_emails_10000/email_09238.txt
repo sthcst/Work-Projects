@@ -1,0 +1,9 @@
+contact:
+  name: Robert Collins
+  email: robert.collins7705@mail.com
+  phone: 541 516 9253
+  ssn: 486 80 2561
+  dob: 1/6/1953
+  address: 2018 Second Dr
+  city: Phoenix
+  state: MA

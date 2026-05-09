@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Clark,maria.clark7657@mail.com,429-678-3065,986-11-1621,4/20/1970,"8677 Spring Way",San Jose,VA

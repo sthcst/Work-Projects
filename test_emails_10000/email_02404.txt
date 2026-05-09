@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Gonzalez",
+    "email": "william.gonzalez5557@example.com",
+    "phone": "588-722-3821",
+    "ssn": "303 78 8608",
+    "dob": "01-25-1972",
+    "address": "9412 Pine Ave",
+    "city": "Dallas",
+    "state": "MD"
+  }
+}

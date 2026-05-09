@@ -1,0 +1,9 @@
+contact:
+  name: Mark Romero
+  email: mark.romero2144@work.org
+  phone: +1 702-458-8162
+  ssn: 744-53-9795
+  dob: 08-23-2001
+  address: 9717 Park St
+  city: Los Angeles
+  state: MA

@@ -1,0 +1,9 @@
+contact:
+  name: James Perez
+  email: james.perez7015@gmail.com
+  phone: 725-235-9754
+  ssn: 321-76-1675
+  dob: 06-20-1985
+  address: 2973 Sixth Ave
+  city: Boston
+  state: MO

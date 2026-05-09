@@ -1,0 +1,9 @@
+contact:
+  name: Angela Reed
+  email: angela.reed8485@outlook.com
+  phone: 221 436 9369
+  ssn: 695-91-2445
+  dob: 10-07-2003
+  address: 462 North Dr
+  city: Austin
+  state: FL

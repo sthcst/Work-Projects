@@ -1,0 +1,9 @@
+contact:
+  name: Emily Jimenez
+  email: emily.jimenez7768@business.net
+  phone: 518-991-3205
+  ssn: 634944242
+  dob: 22/11/1992
+  address: 6999 East Court
+  city: San Jose
+  state: CA

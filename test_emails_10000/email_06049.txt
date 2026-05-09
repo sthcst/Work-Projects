@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey White,jeffrey.white4154@work.org,795 842 6456,541-03-9534,10-10-1999,"7413 South Court",Boston,WA

@@ -1,0 +1,14 @@
+INVOICE 575713
+
+Bill To:
+Name: Jeffrey Serrano
+Email: jeffrey.serrano7932@example.com
+Phone: (349) 524-9159
+SSN: 852-26-4736
+
+Address: 8550 East Blvd
+Jacksonville, DC
+
+Date of Birth: 25/10/1968
+
+Amount Due: $2830

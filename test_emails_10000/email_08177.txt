@@ -1,0 +1,14 @@
+INVOICE 373203
+
+Bill To:
+Name: Sarah Evans
+Email: sarah.evans4107@example.com
+Phone: +1 753-541-4371
+SSN: 992 97 1076
+
+Address: 2425 Summer Ave
+Chicago, IL
+
+Date of Birth: 9/7/1965
+
+Amount Due: $5473

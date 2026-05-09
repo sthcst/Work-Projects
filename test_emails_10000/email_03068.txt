@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Parker,george.parker5581@outlook.com,803-241-3725,406-61-3036,06-18-2000,"194 Summer Court",Denver,MA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Miller,nicole.miller7653@outlook.com,+1 460-652-3060,012258055,05-16-1955,"5553 Cedar Blvd",Philadelphia,MI

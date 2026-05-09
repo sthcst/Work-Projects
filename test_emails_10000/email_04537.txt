@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Moore
+  email: joseph.moore6357@work.org
+  phone: 446 795 6312
+  ssn: 223 17 3778
+  dob: 24/01/1985
+  address: 5654 Third Rd
+  city: Seattle
+  state: IL

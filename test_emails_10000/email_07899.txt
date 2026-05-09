@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Murillo
+  email: nicholas.murillo7364@business.net
+  phone: (850) 705-9151
+  ssn: 672-44-9421
+  dob: 12/01/1978
+  address: 169 Sixth Ln
+  city: San Antonio
+  state: CA

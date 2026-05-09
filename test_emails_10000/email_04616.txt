@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Collins,ashley.collins711@work.org,(925) 783-2703,913-78-7879,11-14-1956,"4784 Sixth Dr",Phoenix,AZ

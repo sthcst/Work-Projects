@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Cooper",
+    "email": "mark.cooper8690@company.com",
+    "phone": "873 256 6322",
+    "ssn": "858-87-8388",
+    "dob": "10/07/1966",
+    "address": "9915 Fifth Ave",
+    "city": "Denver",
+    "state": "NJ"
+  }
+}

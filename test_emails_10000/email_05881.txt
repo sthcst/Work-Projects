@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Lee",
+    "email": "megan.lee8669@work.org",
+    "phone": "538 937 6407",
+    "ssn": "969 34 4869",
+    "dob": "1/14/1983",
+    "address": "6497 Second Way",
+    "city": "Philadelphia",
+    "state": "NJ"
+  }
+}

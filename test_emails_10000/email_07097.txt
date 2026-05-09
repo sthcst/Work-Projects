@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Collins,anthony.collins9637@example.com,764-656-5062,197576580,01/23/1960,"5584 Second Ln",Jacksonville,CA

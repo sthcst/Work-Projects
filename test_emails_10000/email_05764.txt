@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Walker,kenneth.walker5204@outlook.com,+1 615-938-2347,116-63-7490,4/9/1951,"6419 Park Way",San Jose,TX

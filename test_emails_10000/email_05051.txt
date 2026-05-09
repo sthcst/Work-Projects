@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Reyes",
+    "email": "jane.reyes8535@gmail.com",
+    "phone": "+1 669-805-4525",
+    "ssn": "778239649",
+    "dob": "22/02/1962",
+    "address": "9218 Birch St",
+    "city": "Boston",
+    "state": "TN"
+  }
+}

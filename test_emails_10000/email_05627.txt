@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Murillo,steven.murillo1718@yahoo.com,626 812 2228,347926355,02-26-1985,"203 Third Blvd",Philadelphia,NJ

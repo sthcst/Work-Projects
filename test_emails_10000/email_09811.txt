@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Gonzalez,emma.gonzalez3771@example.com,564-841-4023,539257970,11/03/2003,"30 Park St",New York,CA

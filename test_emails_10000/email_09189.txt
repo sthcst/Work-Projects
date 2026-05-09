@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Sanchez
+  email: jennifer.sanchez8203@company.com
+  phone: (655) 244-8678
+  ssn: 921343891
+  dob: 22/07/1977
+  address: 3693 Fifth St
+  city: Seattle
+  state: FL

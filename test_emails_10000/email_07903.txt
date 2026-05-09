@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Gonzalez
+  email: michelle.gonzalez5318@company.com
+  phone: +1 460-998-2841
+  ssn: 140 98 3469
+  dob: 16/11/1979
+  address: 698 Birch Rd
+  city: Houston
+  state: AZ

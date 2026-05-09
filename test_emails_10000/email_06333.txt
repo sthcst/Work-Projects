@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Walker
+  email: nicholas.walker6343@yahoo.com
+  phone: 719-861-2455
+  ssn: 580-89-3013
+  dob: 25/05/1978
+  address: 4041 South Dr
+  city: Philadelphia
+  state: NJ

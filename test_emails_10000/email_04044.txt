@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Robinson",
+    "email": "joseph.robinson3813@gmail.com",
+    "phone": "690-507-8135",
+    "ssn": "167677592",
+    "dob": "02-04-1953",
+    "address": "81 West Ln",
+    "city": "Jacksonville",
+    "state": "FL"
+  }
+}

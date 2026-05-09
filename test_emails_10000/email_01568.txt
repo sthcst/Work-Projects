@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Ortiz",
+    "email": "kevin.ortiz4421@gmail.com",
+    "phone": "715 839 4042",
+    "ssn": "244-87-1211",
+    "dob": "01/07/1974",
+    "address": "8018 Third Court",
+    "city": "Houston",
+    "state": "OH"
+  }
+}

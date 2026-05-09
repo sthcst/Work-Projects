@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Serrano",
+    "email": "sarah.serrano5220@outlook.com",
+    "phone": "864-444-6023",
+    "ssn": "270 58 8093",
+    "dob": "09/01/1997",
+    "address": "1324 North St",
+    "city": "Phoenix",
+    "state": "MO"
+  }
+}

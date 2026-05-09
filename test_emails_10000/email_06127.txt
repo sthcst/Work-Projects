@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Carter,nicole.carter4309@business.net,843-746-9499,855 65 8756,8/13/2005,"7267 Second Dr",Phoenix,FL

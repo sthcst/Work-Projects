@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Hall,amanda.hall933@example.com,862-257-3362,553154376,03-26-1962,"6468 Maple Way",Chicago,TX

@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Jones
+  email: samantha.jones1812@business.net
+  phone: (819) 501-4601
+  ssn: 841 51 7650
+  dob: 2/3/1958
+  address: 7736 Summer Court
+  city: San Antonio
+  state: IL

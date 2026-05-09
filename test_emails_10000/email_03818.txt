@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Serrano,timothy.serrano2190@work.org,279 742 6933,399609699,7/24/1963,"1765 East Rd",San Antonio,NC

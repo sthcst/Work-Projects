@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Thompson",
+    "email": "william.thompson6933@example.com",
+    "phone": "+1 916-312-7347",
+    "ssn": "647-63-2699",
+    "dob": "01-02-1978",
+    "address": "1266 Fifth Rd",
+    "city": "Houston",
+    "state": "GA"
+  }
+}

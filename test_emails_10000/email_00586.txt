@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Brown",
+    "email": "amanda.brown7808@outlook.com",
+    "phone": "315-288-4847",
+    "ssn": "467 75 5475",
+    "dob": "23/01/1986",
+    "address": "1046 Maple Ln",
+    "city": "Chicago",
+    "state": "MA"
+  }
+}

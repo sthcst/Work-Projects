@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Murillo,samantha.murillo206@business.net,847-853-3479,366 16 8962,04/10/1961,"469 Fourth Dr",San Diego,OH

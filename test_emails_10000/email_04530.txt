@@ -1,0 +1,14 @@
+INVOICE 686389
+
+Bill To:
+Name: Michelle Reyes
+Email: michelle.reyes494@example.com
+Phone: 604 697 6977
+SSN: 570036107
+
+Address: 3314 Birch Blvd
+Los Angeles, WA
+
+Date of Birth: 04/22/1951
+
+Amount Due: $3220

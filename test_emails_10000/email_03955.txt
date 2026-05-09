@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Anderson
+  email: samantha.anderson8455@gmail.com
+  phone: 393 966 4355
+  ssn: 484946155
+  dob: 2/28/2002
+  address: 2513 Cedar Blvd
+  city: San Antonio
+  state: MA

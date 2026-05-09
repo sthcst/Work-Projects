@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Moore
+  email: rebecca.moore2129@gmail.com
+  phone: +1 379-485-1504
+  ssn: 475 21 8478
+  dob: 04-11-2003
+  address: 6311 Fifth Ln
+  city: Phoenix
+  state: FL

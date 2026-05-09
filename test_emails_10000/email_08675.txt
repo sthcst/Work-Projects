@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Romero",
+    "email": "angela.romero4668@business.net",
+    "phone": "592 927 2004",
+    "ssn": "600253373",
+    "dob": "05-08-1987",
+    "address": "4633 South Ln",
+    "city": "Houston",
+    "state": "MA"
+  }
+}

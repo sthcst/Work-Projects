@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Martin
+  email: rachel.martin1333@company.com
+  phone: (248) 719-5074
+  ssn: 231-80-4180
+  dob: 5/14/1959
+  address: 6709 Spring Rd
+  city: Dallas
+  state: NY

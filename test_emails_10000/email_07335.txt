@@ -1,0 +1,14 @@
+INVOICE 785746
+
+Bill To:
+Name: Joseph Roberts
+Email: joseph.roberts3465@mail.com
+Phone: 716-674-1301
+SSN: 696-24-9446
+
+Address: 4182 South Way
+Los Angeles, DC
+
+Date of Birth: 03/05/1974
+
+Amount Due: $2619

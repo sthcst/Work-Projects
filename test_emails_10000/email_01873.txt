@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Perez,jacob.perez1187@example.com,756-320-1644,062593636,01-17-1992,"7725 Sixth St",Houston,MI

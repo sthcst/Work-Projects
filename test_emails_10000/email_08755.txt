@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Clark
+  email: sarah.clark2936@company.com
+  phone: (900) 502-7987
+  ssn: 720 43 5692
+  dob: 01-27-2001
+  address: 1175 Fifth Ln
+  city: Seattle
+  state: MO

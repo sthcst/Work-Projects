@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Johnson,richard.johnson8555@yahoo.com,654-840-2872,356 60 5426,09-22-1999,"5471 Cedar Blvd",Seattle,TX

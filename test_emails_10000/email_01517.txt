@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Romero",
+    "email": "angela.romero261@outlook.com",
+    "phone": "230 827 4976",
+    "ssn": "590657568",
+    "dob": "07-07-1995",
+    "address": "6303 Summer Dr",
+    "city": "Dallas",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 579744
+
+Bill To:
+Name: Joseph Reed
+Email: joseph.reed1533@outlook.com
+Phone: 245 920 2087
+SSN: 542-13-3387
+
+Address: 9715 Pine Ave
+Houston, WA
+
+Date of Birth: 11/22/1988
+
+Amount Due: $6055

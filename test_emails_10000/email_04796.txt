@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Anderson
+  email: ryan.anderson7558@yahoo.com
+  phone: 691 326 9780
+  ssn: 641 47 1520
+  dob: 08/07/1969
+  address: 2249 North St
+  city: Denver
+  state: PA

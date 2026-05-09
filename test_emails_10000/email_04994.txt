@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Ortiz
+  email: ashley.ortiz5777@outlook.com
+  phone: +1 801-606-2358
+  ssn: 739829212
+  dob: 06/23/1994
+  address: 2976 Third Court
+  city: New York
+  state: TX

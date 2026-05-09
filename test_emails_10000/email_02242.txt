@@ -1,0 +1,9 @@
+contact:
+  name: Donald Martinez
+  email: donald.martinez1014@company.com
+  phone: (423) 437-9925
+  ssn: 955 85 6799
+  dob: 15/04/1995
+  address: 7892 Park St
+  city: Jacksonville
+  state: GA

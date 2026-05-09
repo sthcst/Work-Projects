@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Perez,maria.perez6572@outlook.com,860-845-7928,947145807,04-09-1983,"2702 Main Blvd",Dallas,WA

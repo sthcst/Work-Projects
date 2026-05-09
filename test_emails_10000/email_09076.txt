@@ -1,0 +1,9 @@
+contact:
+  name: Edward Perez
+  email: edward.perez1022@outlook.com
+  phone: 824 799 5304
+  ssn: 001 69 6906
+  dob: 23/10/2005
+  address: 1907 Cedar Ln
+  city: Washington
+  state: IL

@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Jimenez
+  email: jennifer.jimenez7592@mail.com
+  phone: 266 793 3327
+  ssn: 495 05 1842
+  dob: 7/11/1971
+  address: 9121 Park Court
+  city: Phoenix
+  state: MO

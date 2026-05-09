@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Martinez
+  email: shirley.martinez6550@gmail.com
+  phone: (454) 335-6351
+  ssn: 099048986
+  dob: 02-12-1972
+  address: 8764 Second St
+  city: Dallas
+  state: MI

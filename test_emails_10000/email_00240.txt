@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Cooper,ronald.cooper7776@example.com,(743) 645-1194,296587258,06/17/1993,"1605 Fourth Blvd",Denver,OH

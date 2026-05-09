@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Lewis
+  email: cynthia.lewis7555@business.net
+  phone: (824) 359-1623
+  ssn: 435 54 6739
+  dob: 14/06/1991
+  address: 8126 Oak Ln
+  city: Seattle
+  state: CA

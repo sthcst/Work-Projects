@@ -1,0 +1,14 @@
+INVOICE 562901
+
+Bill To:
+Name: James Evans
+Email: james.evans7212@gmail.com
+Phone: 323-422-3030
+SSN: 637-75-9629
+
+Address: 7659 First Rd
+Phoenix, TX
+
+Date of Birth: 1/18/1996
+
+Amount Due: $3307

@@ -1,0 +1,9 @@
+contact:
+  name: Anna Guerrero
+  email: anna.guerrero3859@mail.com
+  phone: (921) 484-5825
+  ssn: 661 14 8123
+  dob: 12/05/1987
+  address: 3725 Sixth Dr
+  city: Los Angeles
+  state: WI

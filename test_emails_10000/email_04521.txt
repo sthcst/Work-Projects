@@ -1,0 +1,9 @@
+contact:
+  name: Donald Carter
+  email: donald.carter4559@mail.com
+  phone: +1 352-772-3593
+  ssn: 398 15 9318
+  dob: 19/08/1975
+  address: 2801 Second Rd
+  city: Jacksonville
+  state: NC

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Brown",
+    "email": "william.brown1680@mail.com",
+    "phone": "314 592 4870",
+    "ssn": "319 10 6480",
+    "dob": "6/4/1958",
+    "address": "4739 Cedar Rd",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

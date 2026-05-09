@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Lopez
+  email: jessica.lopez5593@example.com
+  phone: 956-696-6557
+  ssn: 208 88 2609
+  dob: 09/21/1958
+  address: 598 Cedar Way
+  city: Austin
+  state: MO

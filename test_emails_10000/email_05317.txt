@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Brown",
+    "email": "rebecca.brown6815@outlook.com",
+    "phone": "(814) 480-8150",
+    "ssn": "434-16-6713",
+    "dob": "7/3/1964",
+    "address": "5793 Birch Ave",
+    "city": "San Diego",
+    "state": "WA"
+  }
+}

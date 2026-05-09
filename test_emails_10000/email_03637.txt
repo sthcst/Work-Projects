@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Rodriguez,lisa.rodriguez381@company.com,+1 220-955-9734,628-01-6548,08-16-1989,"1073 Sixth Way",Jacksonville,AZ

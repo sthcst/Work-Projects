@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Perez,deborah.perez9608@yahoo.com,618-828-6517,569-76-2928,02-15-1978,"889 Park Ln",Philadelphia,MA

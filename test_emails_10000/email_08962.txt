@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Smith",
+    "email": "kenneth.smith9708@work.org",
+    "phone": "794 628 7308",
+    "ssn": "286468618",
+    "dob": "12/24/1986",
+    "address": "8100 Oak Ln",
+    "city": "Houston",
+    "state": "TN"
+  }
+}

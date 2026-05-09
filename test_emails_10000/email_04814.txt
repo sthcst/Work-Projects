@@ -1,0 +1,9 @@
+contact:
+  name: Robert Flores
+  email: robert.flores7376@business.net
+  phone: +1 547-888-6116
+  ssn: 517-51-7765
+  dob: 10/20/1983
+  address: 8451 Pine Blvd
+  city: Philadelphia
+  state: MA

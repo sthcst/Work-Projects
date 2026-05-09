@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Reed,edward.reed3574@outlook.com,(456) 879-1218,729277096,2/13/2003,"2746 Summer Way",San Antonio,MD

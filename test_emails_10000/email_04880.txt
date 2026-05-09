@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Rogers,anna.rogers1517@work.org,+1 766-693-4830,913867038,01/08/1970,"5289 South Ln",Austin,CA

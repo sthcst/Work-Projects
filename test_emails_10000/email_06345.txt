@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Reyes",
+    "email": "steven.reyes1999@outlook.com",
+    "phone": "840 597 8465",
+    "ssn": "921368062",
+    "dob": "11/13/2000",
+    "address": "8249 Cedar Dr",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Johnson",
+    "email": "rebecca.johnson3165@yahoo.com",
+    "phone": "631-391-2493",
+    "ssn": "225901904",
+    "dob": "27/10/2002",
+    "address": "6418 Cedar Rd",
+    "city": "New York",
+    "state": "CO"
+  }
+}

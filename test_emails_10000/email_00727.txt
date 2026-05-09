@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Reed
+  email: kimberly.reed9004@work.org
+  phone: 718 590 6117
+  ssn: 706 12 6362
+  dob: 10/09/1970
+  address: 1822 Pine Rd
+  city: Philadelphia
+  state: CA

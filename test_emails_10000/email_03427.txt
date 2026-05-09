@@ -1,0 +1,14 @@
+INVOICE 836272
+
+Bill To:
+Name: Kenneth Carter
+Email: kenneth.carter9555@company.com
+Phone: +1 513-980-8934
+SSN: 593 02 9276
+
+Address: 8423 Spring Ave
+Denver, NC
+
+Date of Birth: 12/23/1977
+
+Amount Due: $6600

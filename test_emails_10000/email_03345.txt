@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Dominguez",
+    "email": "kimberly.dominguez6066@company.com",
+    "phone": "+1 556-581-9723",
+    "ssn": "272-78-2571",
+    "dob": "18/11/1961",
+    "address": "5090 Cedar Dr",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

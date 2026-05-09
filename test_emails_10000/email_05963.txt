@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Alvarado",
+    "email": "jeffrey.alvarado5084@gmail.com",
+    "phone": "479-442-9570",
+    "ssn": "135 93 6092",
+    "dob": "2/4/1989",
+    "address": "4820 Fourth Blvd",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

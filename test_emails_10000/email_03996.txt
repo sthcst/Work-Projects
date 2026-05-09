@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Reed,nicholas.reed5498@work.org,320 252 6964,039252656,08/24/1955,"1920 First St",Washington,WI

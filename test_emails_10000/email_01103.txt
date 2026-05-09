@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Jimenez",
+    "email": "jeffrey.jimenez472@work.org",
+    "phone": "(323) 690-4708",
+    "ssn": "724381183",
+    "dob": "3/10/1958",
+    "address": "2807 Spring Ave",
+    "city": "San Diego",
+    "state": "MA"
+  }
+}

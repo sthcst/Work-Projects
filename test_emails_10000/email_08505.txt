@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Hall",
+    "email": "katherine.hall6172@company.com",
+    "phone": "+1 748-549-1130",
+    "ssn": "082921209",
+    "dob": "4/8/2003",
+    "address": "3234 Fifth St",
+    "city": "Dallas",
+    "state": "NJ"
+  }
+}

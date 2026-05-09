@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Bell,anna.bell4025@example.com,831 299 1642,520-67-6701,5/18/1984,"1409 Sixth Rd",Seattle,WA

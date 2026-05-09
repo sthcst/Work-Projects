@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Morris
+  email: nicholas.morris9495@business.net
+  phone: 328-493-6918
+  ssn: 059309269
+  dob: 12/25/1972
+  address: 727 First Ave
+  city: Phoenix
+  state: CO

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Rogers,stephanie.rogers8104@example.com,(399) 731-1174,556245823,16/06/1959,"7014 Fifth St",Phoenix,WA

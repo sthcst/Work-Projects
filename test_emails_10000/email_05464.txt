@@ -1,0 +1,9 @@
+contact:
+  name: Mark Lewis
+  email: mark.lewis9853@business.net
+  phone: 294 403 1844
+  ssn: 009448194
+  dob: 16/08/1978
+  address: 1339 Summer Court
+  city: Chicago
+  state: MA

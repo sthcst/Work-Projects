@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Walker,katherine.walker84@work.org,356 646 6581,963653210,03/21/1983,"6993 Summer Rd",New York,CA

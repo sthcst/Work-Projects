@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Jackson",
+    "email": "gary.jackson5967@business.net",
+    "phone": "+1 367-606-9537",
+    "ssn": "732-18-7776",
+    "dob": "03/08/1997",
+    "address": "2161 Oak Court",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

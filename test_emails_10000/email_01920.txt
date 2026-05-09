@@ -1,0 +1,14 @@
+INVOICE 495017
+
+Bill To:
+Name: Jason Serrano
+Email: jason.serrano6158@example.com
+Phone: 986-750-8443
+SSN: 470-75-6945
+
+Address: 9051 Birch St
+Seattle, CA
+
+Date of Birth: 07/03/1967
+
+Amount Due: $997

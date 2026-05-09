@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Martinez",
+    "email": "ronald.martinez6742@outlook.com",
+    "phone": "+1 325-510-6140",
+    "ssn": "539-92-1798",
+    "dob": "7/6/1963",
+    "address": "8322 West Way",
+    "city": "San Jose",
+    "state": "CO"
+  }
+}

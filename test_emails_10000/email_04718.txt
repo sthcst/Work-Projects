@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Robinson",
+    "email": "lisa.robinson6509@company.com",
+    "phone": "+1 509-682-8149",
+    "ssn": "803 74 3330",
+    "dob": "01/25/1975",
+    "address": "4259 Maple Blvd",
+    "city": "Boston",
+    "state": "IL"
+  }
+}

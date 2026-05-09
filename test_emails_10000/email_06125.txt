@@ -1,0 +1,14 @@
+INVOICE 438847
+
+Bill To:
+Name: Andrew Anderson
+Email: andrew.anderson9526@outlook.com
+Phone: 212 900 6241
+SSN: 100014877
+
+Address: 6389 Fourth Blvd
+Houston, CA
+
+Date of Birth: 2/8/2001
+
+Amount Due: $6616

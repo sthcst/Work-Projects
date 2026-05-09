@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Morris
+  email: nicole.morris8334@gmail.com
+  phone: 859-907-4761
+  ssn: 400-37-3634
+  dob: 2/19/1989
+  address: 3345 Main Dr
+  city: Denver
+  state: TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Reeves",
+    "email": "matthew.reeves8499@example.com",
+    "phone": "+1 604-233-9004",
+    "ssn": "584819809",
+    "dob": "12/22/1990",
+    "address": "7300 Summer Blvd",
+    "city": "Washington",
+    "state": "NJ"
+  }
+}

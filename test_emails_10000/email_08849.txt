@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Parker,emma.parker9908@gmail.com,+1 567-375-3257,566-84-7981,10-20-2002,"9496 Fifth Court",Houston,FL

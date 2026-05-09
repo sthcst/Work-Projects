@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Jackson
+  email: cynthia.jackson7044@business.net
+  phone: 617-837-1376
+  ssn: 572 61 3539
+  dob: 04/11/1979
+  address: 510 First Rd
+  city: San Antonio
+  state: CA

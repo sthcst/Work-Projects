@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Hernandez,ronald.hernandez8036@gmail.com,+1 306-529-8931,625 50 6011,05/25/1993,"8653 Oak Ln",Chicago,CA

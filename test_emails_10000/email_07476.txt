@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Young",
+    "email": "angela.young9461@business.net",
+    "phone": "+1 316-955-7322",
+    "ssn": "772-98-1827",
+    "dob": "06/11/1992",
+    "address": "1714 Main Ln",
+    "city": "Houston",
+    "state": "AZ"
+  }
+}

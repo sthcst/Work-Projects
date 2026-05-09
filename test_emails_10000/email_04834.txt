@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Jackson,shirley.jackson7601@company.com,231 247 7020,359-10-7056,10/04/1963,"8896 Maple St",Chicago,AZ

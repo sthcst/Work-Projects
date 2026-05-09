@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Sanchez",
+    "email": "jacob.sanchez9412@mail.com",
+    "phone": "(393) 991-3429",
+    "ssn": "212-40-3975",
+    "dob": "01/18/1988",
+    "address": "2096 Fourth Blvd",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

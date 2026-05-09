@@ -1,0 +1,9 @@
+contact:
+  name: James Gomez
+  email: james.gomez9486@gmail.com
+  phone: +1 295-461-3785
+  ssn: 150304550
+  dob: 09/11/1968
+  address: 9613 Fifth St
+  city: Boston
+  state: WA

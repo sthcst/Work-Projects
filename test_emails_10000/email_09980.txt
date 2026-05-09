@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Davis",
+    "email": "jane.davis9800@example.com",
+    "phone": "776 945 2278",
+    "ssn": "774 24 9042",
+    "dob": "04-01-1985",
+    "address": "727 Maple Blvd",
+    "city": "Washington",
+    "state": "WA"
+  }
+}

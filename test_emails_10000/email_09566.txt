@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Martinez
+  email: lisa.martinez6766@company.com
+  phone: 749-323-4747
+  ssn: 944 39 7448
+  dob: 12-08-2005
+  address: 1221 Main Rd
+  city: Houston
+  state: MI

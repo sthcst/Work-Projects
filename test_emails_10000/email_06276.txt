@@ -1,0 +1,9 @@
+contact:
+  name: Matthew Brown
+  email: matthew.brown5841@company.com
+  phone: +1 728-201-8834
+  ssn: 581-21-2911
+  dob: 10/02/1970
+  address: 3801 Elm Dr
+  city: Los Angeles
+  state: WI

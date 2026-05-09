@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Serrano",
+    "email": "anthony.serrano7247@company.com",
+    "phone": "500 658 2754",
+    "ssn": "939-80-9928",
+    "dob": "04/06/1956",
+    "address": "9178 Main Blvd",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

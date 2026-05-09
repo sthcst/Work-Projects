@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Evans",
+    "email": "brenda.evans6220@mail.com",
+    "phone": "246 559 9295",
+    "ssn": "575 10 2345",
+    "dob": "01/01/1986",
+    "address": "5156 Elm Court",
+    "city": "Seattle",
+    "state": "PA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Harris",
+    "email": "amanda.harris6640@outlook.com",
+    "phone": "897 762 1176",
+    "ssn": "791 91 5362",
+    "dob": "8/16/1988",
+    "address": "3271 Fourth Ln",
+    "city": "Austin",
+    "state": "MA"
+  }
+}

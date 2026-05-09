@@ -1,0 +1,9 @@
+contact:
+  name: Gary Lee
+  email: gary.lee9853@mail.com
+  phone: 580 728 6454
+  ssn: 516296599
+  dob: 7/27/2005
+  address: 9802 Fifth Ave
+  city: Phoenix
+  state: DC
