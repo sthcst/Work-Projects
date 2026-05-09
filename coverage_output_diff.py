@@ -40,6 +40,10 @@ def collect_spans(text):
     # PHONE - always include regex-based matches (fallback), and also try phonenumbers for more robust parsing
     for m in redact.PHONE.finditer(text):
         spans['PHONE'].add((m.start(), m.end()))
+    # Also include labeled phone pattern
+    if hasattr(redact, 'PHONE_LABELED') and redact.PHONE_LABELED is not None:
+        for m in redact.PHONE_LABELED.finditer(text):
+            spans['PHONE'].add((m.start(), m.end()))
     try:
         import phonenumbers
         # use US as a sensible default region for parsing; phonenumbers will still find international numbers

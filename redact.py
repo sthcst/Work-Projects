@@ -125,6 +125,8 @@ OBFUSCATED_EMAIL = re.compile(r"\b[\w.+-]+\s*(?:\(|\[)?(?:at|@)(?:\)|\])?\s*[\w.
 # Broader phone regex to catch more international-ish variants (still heuristic)
 # Require at least 7 digits to avoid matching short numeric/date-like sequences.
 PHONE = re.compile(r"\b(?=(?:.*\d){7,})(?:\+?\d{1,3}[\s.-]?)?(?:\(?\d{1,4}\)?[\s.-]?)?\d{3,4}[\s.-]?\d{3,4}\b")
+# Labeled phone pattern: matches phone numbers that come after labels like "phone:", "PHONE=", etc.
+PHONE_LABELED = re.compile(r"(?:phone|tel|telephone|call|mobile|cell|fax|contact)[:\s=\-]*[\"']?(?:\+?\d{1,3}[\s.-]?)?(?:\(?\d{1,4}\)?[\s.-]?)?\d{3,4}[\s.-]?\d{3,4}[\"']?", re.IGNORECASE)
 # US Social Security Number (SSN) patterns:
 # - strict: 123-45-6789 or 123 45 6789 or 123456789 (dashed, space-separated, or no separator)
 # - loose: 9 digits (only accepted when nearby 'ssn' label is present)
@@ -305,32 +307,43 @@ def redact(text: str, stats: Optional[Dict[str, int]] = None, source_name: Optio
             except Exception:
                 continue
     except Exception:
-        # fallback to regex-based detection
-        phone_cues = {'phone', 'tel', 'telephone', 'call', 'mobile', 'cell', 'fax', 'contact'}
-        for m in PHONE.finditer(text):
-            s, e = m.start(), m.end()
-            candidate = text[s:e]
-            digits = re.sub(r'\D', '', candidate)
-            if len(digits) < 7:
-                continue
-            if ':' in candidate and re.search(r'\d{1,2}:\d{2}', candidate):
-                continue
-            line_start = text.rfind('\n', 0, s)
-            if line_start == -1:
-                line_start = 0
-            else:
-                line_start += 1
-            line_end = text.find('\n', e)
-            if line_end == -1:
-                line_end = len(text)
-            line = text[line_start:line_end]
-            if 'http://' in line or 'https://' in line or '://' in line or line.strip().startswith('```') or '`' in line:
-                continue
-            ctx = text[max(0, s-30):s].lower()
-            score = 0.85
-            if any(cue in ctx for cue in phone_cues):
-                score = 0.95
-            spans.append((s, e, 'PHONE', 'regex_phone', float(score)))
+        pass
+    
+    # Always add labeled phone pattern matches (high confidence in labeled contexts)
+    for m in PHONE_LABELED.finditer(text):
+        s, e = m.start(), m.end()
+        candidate = text[s:e]
+        digits = re.sub(r'\D', '', candidate)
+        if len(digits) >= 7:
+            spans.append((s, e, 'PHONE', 'regex_phone_labeled', 0.95))
+    
+    # Fallback to regex-based detection for non-labeled phones
+    phone_cues = {'phone', 'tel', 'telephone', 'call', 'mobile', 'cell', 'fax', 'contact'}
+    for m in PHONE.finditer(text):
+        s, e = m.start(), m.end()
+        candidate = text[s:e]
+        digits = re.sub(r'\D', '', candidate)
+        if len(digits) < 7:
+            continue
+        if ':' in candidate and re.search(r'\d{1,2}:\d{2}', candidate):
+            continue
+        line_start = text.rfind('\n', 0, s)
+        if line_start == -1:
+            line_start = 0
+        else:
+            line_start += 1
+        line_end = text.find('\n', e)
+        if line_end == -1:
+            line_end = len(text)
+        line = text[line_start:line_end]
+        if 'http://' in line or 'https://' in line or '://' in line or line.strip().startswith('```') or '`' in line:
+            continue
+        ctx = text[max(0, s-30):s].lower()
+        score = 0.85
+        if any(cue in ctx for cue in phone_cues):
+            score = 0.95
+        spans.append((s, e, 'PHONE', 'regex_phone', float(score)))
+    
     add_regex_spans(SSN_STRICT, 'SSN', source='regex_ssn_strict', score=0.98)
     # Add loose 9-digit SSN matches only when a nearby 'ssn' cue exists (lower confidence)
     for m in SSN_LOOSE.finditer(text):
