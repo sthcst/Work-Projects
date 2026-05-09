@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Romero,jacob.romero5167@yahoo.com,+1 845-394-2152,661-05-8432,08-24-1952,"2314 Second Dr",San Jose,MI

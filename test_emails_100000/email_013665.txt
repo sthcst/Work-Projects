@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Thompson
-  email: jeffrey.thompson295@business.net
-  phone: 892 617 7544
-  ssn: 458783718
-  dob: 07/03/1996
-  address: 1425 Sixth Court
-  city: Dallas
-  state: NJ

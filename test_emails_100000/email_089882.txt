@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Jimenez,nicholas.jimenez6777@business.net,(440) 703-9721,749-14-7158,10/06/1973,"937 South Ln",Boston,MA

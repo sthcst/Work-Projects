@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Nunez
-  email: joseph.nunez2076@yahoo.com
-  phone: (624) 718-9294
-  ssn: 438894259
-  dob: 17/09/1976
-  address: 7573 Park Way
-  city: Houston
-  state: OH

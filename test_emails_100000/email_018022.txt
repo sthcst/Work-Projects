@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Phillips
-  email: ryan.phillips4124@example.com
-  phone: (529) 549-9543
-  ssn: 787-14-4715
-  dob: 05/10/1967
-  address: 4524 Pine Ave
-  city: Philadelphia
-  state: FL

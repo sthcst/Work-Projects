@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Alvarado
-  email: lisa.alvarado546@outlook.com
-  phone: 682-526-7966
-  ssn: 763368867
-  dob: 3/20/1995
-  address: 5543 First St
-  city: Los Angeles
-  state: GA

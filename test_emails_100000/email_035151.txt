@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Ramirez,andrew.ramirez1406@gmail.com,396 718 1327,120628896,17/08/1997,"8577 Spring Court",San Jose,GA

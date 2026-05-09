@@ -1,9 +1,0 @@
-contact:
-  name: Paul Flores
-  email: paul.flores7934@business.net
-  phone: +1 372-523-3830
-  ssn: 204 27 2431
-  dob: 23/11/2003
-  address: 1074 Summer Court
-  city: Chicago
-  state: MO

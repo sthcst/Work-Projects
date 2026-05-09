@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Brown,nicholas.brown45@company.com,+1 522-535-3714,501-78-8859,05/10/1997,"3075 Third Court",Boston,CA

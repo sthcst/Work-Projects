@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Collins,timothy.collins2879@outlook.com,594 502 5169,023 66 1145,01/09/1965,"585 Fourth Ave",Austin,NC

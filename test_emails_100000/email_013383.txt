@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Gomez,jacob.gomez4035@mail.com,+1 392-674-7148,761758220,20/01/1994,"726 Second Rd",Phoenix,MA

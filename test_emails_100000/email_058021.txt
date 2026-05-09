@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Walker
-  email: kevin.walker8355@business.net
-  phone: +1 971-603-8333
-  ssn: 385-74-3190
-  dob: 01/01/1950
-  address: 7741 Fourth Dr
-  city: San Jose
-  state: NY

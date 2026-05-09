@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Thomas
-  email: pamela.thomas9182@business.net
-  phone: 691-624-8425
-  ssn: 048597353
-  dob: 06/04/1962
-  address: 578 Main Blvd
-  city: San Antonio
-  state: MA

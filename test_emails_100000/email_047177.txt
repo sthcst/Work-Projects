@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Roberts,jeffrey.roberts9333@example.com,+1 358-782-7030,812546193,21/10/1987,"94 Third Court",New York,MA

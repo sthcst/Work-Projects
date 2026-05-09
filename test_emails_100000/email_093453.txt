@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Miller,james.miller2603@outlook.com,+1 914-469-7278,068 48 8871,27/03/1950,"9001 South Way",San Antonio,CA

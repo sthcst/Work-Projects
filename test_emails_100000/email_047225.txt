@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Martinez,timothy.martinez4713@company.com,(368) 530-4471,628862852,06-02-1956,"6947 Maple Ln",San Jose,GA

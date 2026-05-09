@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Thompson
-  email: pamela.thompson1252@yahoo.com
-  phone: 982 832 8154
-  ssn: 259-53-4186
-  dob: 06/02/1994
-  address: 8183 Fourth Dr
-  city: Seattle
-  state: MA

@@ -1,9 +1,0 @@
-contact:
-  name: Paul Flores
-  email: paul.flores7618@business.net
-  phone: (474) 728-2543
-  ssn: 476544063
-  dob: 11-26-1960
-  address: 7472 Birch Way
-  city: Philadelphia
-  state: NJ

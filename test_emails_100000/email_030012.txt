@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Davis,lauren.davis364@outlook.com,+1 654-533-5028,864695328,5/15/1994,"2423 Summer Blvd",New York,NY

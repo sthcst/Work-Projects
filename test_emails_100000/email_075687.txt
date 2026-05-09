@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Smith
-  email: kimberly.smith8947@yahoo.com
-  phone: 840 964 6325
-  ssn: 689-83-5746
-  dob: 12-15-1960
-  address: 5082 Birch Ave
-  city: San Jose
-  state: NJ

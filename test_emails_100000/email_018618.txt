@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Smith,edward.smith4829@yahoo.com,+1 879-952-7571,964592988,27/04/1969,"9159 Summer Ave",Washington,GA

@@ -1,9 +1,0 @@
-contact:
-  name: Jane Morgan
-  email: jane.morgan4079@outlook.com
-  phone: 557-300-2433
-  ssn: 912742791
-  dob: 05/19/2001
-  address: 8284 Pine Ln
-  city: Los Angeles
-  state: CA

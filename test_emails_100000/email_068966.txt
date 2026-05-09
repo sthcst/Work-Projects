@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Delgado,stephanie.delgado7059@gmail.com,897 812 9499,797 13 1445,08/16/1974,"8225 Second Ln",San Jose,GA

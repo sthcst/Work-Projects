@@ -1,9 +1,0 @@
-contact:
-  name: Emily Campbell
-  email: emily.campbell6455@company.com
-  phone: 456 444 8620
-  ssn: 024 65 6426
-  dob: 11/16/1956
-  address: 5977 North Way
-  city: Seattle
-  state: VA

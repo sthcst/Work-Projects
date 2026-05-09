@@ -1,9 +1,0 @@
-contact:
-  name: Jane Robinson
-  email: jane.robinson535@company.com
-  phone: 832 506 7377
-  ssn: 883-65-3519
-  dob: 11/17/1996
-  address: 1095 Sixth Ln
-  city: Houston
-  state: TX

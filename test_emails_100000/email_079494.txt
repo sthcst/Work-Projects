@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Reyes,cynthia.reyes7810@gmail.com,(967) 988-1653,970-22-3338,09/11/1974,"9708 Second St",Dallas,MA

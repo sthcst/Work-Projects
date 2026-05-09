@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Harris
-  email: anthony.harris5899@example.com
-  phone: +1 225-548-4946
-  ssn: 287-59-7017
-  dob: 18/09/1964
-  address: 2356 Summer Way
-  city: Dallas
-  state: MI

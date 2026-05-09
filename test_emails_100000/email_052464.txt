@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Ramirez
-  email: ronald.ramirez3920@work.org
-  phone: 709 520 2109
-  ssn: 313 94 4138
-  dob: 1/15/1992
-  address: 6952 North Blvd
-  city: Los Angeles
-  state: TX

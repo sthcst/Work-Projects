@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Harris
-  email: sarah.harris9954@example.com
-  phone: +1 772-225-7826
-  ssn: 980-38-7444
-  dob: 06/15/1969
-  address: 6106 Main Blvd
-  city: Philadelphia
-  state: VA

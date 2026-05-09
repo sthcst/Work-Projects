@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Flores
-  email: samantha.flores5858@outlook.com
-  phone: +1 687-838-6092
-  ssn: 968 37 6230
-  dob: 08/20/1995
-  address: 2074 Fourth Rd
-  city: Washington
-  state: MO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Harris,jason.harris9473@business.net,+1 585-967-7346,992 19 5959,08-05-1997,"7037 East Ln",Houston,MD

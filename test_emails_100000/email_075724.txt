@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Miller
-  email: kevin.miller3398@example.com
-  phone: 349 451 2665
-  ssn: 580 21 5275
-  dob: 17/06/1961
-  address: 1213 Maple St
-  city: Austin
-  state: AZ

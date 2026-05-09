@@ -1,9 +1,0 @@
-contact:
-  name: Helen Edwards
-  email: helen.edwards7632@work.org
-  phone: (836) 501-9230
-  ssn: 407-78-9763
-  dob: 11-22-1971
-  address: 3428 Fifth Blvd
-  city: Jacksonville
-  state: NC

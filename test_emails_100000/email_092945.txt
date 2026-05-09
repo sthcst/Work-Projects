@@ -1,9 +1,0 @@
-contact:
-  name: Jane Bell
-  email: jane.bell6067@business.net
-  phone: (849) 323-2145
-  ssn: 375885978
-  dob: 10/22/1999
-  address: 2328 Main Ln
-  city: Denver
-  state: TX

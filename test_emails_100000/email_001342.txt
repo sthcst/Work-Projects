@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Rodriguez
-  email: daniel.rodriguez5963@work.org
-  phone: (411) 288-3416
-  ssn: 331-19-5481
-  dob: 04-11-1959
-  address: 6404 Oak St
-  city: Austin
-  state: WA

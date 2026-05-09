@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Jimenez,kevin.jimenez4956@yahoo.com,754-377-3771,639-64-3944,05-15-1990,"5953 Cedar Ave",San Jose,IL

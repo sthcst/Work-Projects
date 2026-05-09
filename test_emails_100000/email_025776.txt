@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Martinez,pamela.martinez6359@yahoo.com,(734) 358-7130,164 89 5497,11/6/1968,"6733 Sixth Ave",Los Angeles,TN

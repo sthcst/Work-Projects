@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Roberts,christopher.roberts3901@mail.com,724-250-8945,511 06 5678,11/03/2004,"4645 Summer Ln",Houston,MI

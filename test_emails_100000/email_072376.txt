@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Miller
-  email: rachel.miller9483@example.com
-  phone: 725 494 7544
-  ssn: 795-30-1542
-  dob: 03/11/2001
-  address: 9090 Summer Blvd
-  city: Boston
-  state: IL

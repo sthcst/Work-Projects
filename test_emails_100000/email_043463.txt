@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Nunez
-  email: joshua.nunez9139@business.net
-  phone: 500 893 9539
-  ssn: 203-73-6272
-  dob: 27/04/1977
-  address: 7602 Oak Way
-  city: San Antonio
-  state: DC

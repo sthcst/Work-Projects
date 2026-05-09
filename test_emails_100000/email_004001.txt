@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Williams,deborah.williams5566@outlook.com,562 439 2518,120 46 9668,01/15/1988,"4308 Fourth Ave",San Antonio,OH

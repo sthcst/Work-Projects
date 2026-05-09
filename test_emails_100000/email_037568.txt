@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Morris,shirley.morris5569@company.com,+1 593-286-6086,671181623,18/08/1992,"4304 Elm Ln",Los Angeles,CA

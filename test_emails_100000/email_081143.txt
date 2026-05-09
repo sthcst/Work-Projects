@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Parker
-  email: jennifer.parker9782@yahoo.com
-  phone: 751 680 1771
-  ssn: 827126162
-  dob: 21/02/1994
-  address: 5690 First Ave
-  city: New York
-  state: DC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Ortiz,mark.ortiz3152@gmail.com,(979) 954-6846,048757459,06-07-1975,"3287 Maple Blvd",San Diego,CO

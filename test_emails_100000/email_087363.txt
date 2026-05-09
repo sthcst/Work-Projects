@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Williams,joseph.williams8632@example.com,+1 477-598-2317,659-74-6337,10/12/2000,"9372 East St",Chicago,FL

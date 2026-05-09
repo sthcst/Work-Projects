@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Jones
-  email: ashley.jones4366@company.com
-  phone: (859) 407-5674
-  ssn: 402 17 6085
-  dob: 4/21/1954
-  address: 5388 Birch Ln
-  city: Los Angeles
-  state: TX

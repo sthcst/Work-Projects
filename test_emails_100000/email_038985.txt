@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Walker
-  email: anthony.walker5119@gmail.com
-  phone: (557) 856-5494
-  ssn: 497111175
-  dob: 03/03/1979
-  address: 8257 First Rd
-  city: Seattle
-  state: AZ

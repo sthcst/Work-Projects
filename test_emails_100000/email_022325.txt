@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Parker,katherine.parker381@work.org,689 852 9470,414-54-5132,09/09/1994,"387 Elm Ln",Seattle,CA

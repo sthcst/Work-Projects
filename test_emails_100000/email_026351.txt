@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Dominguez,kenneth.dominguez6335@company.com,+1 700-929-1014,619 56 6430,01/07/1991,"1438 Main Court",Boston,TN

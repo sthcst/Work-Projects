@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Dominguez,amanda.dominguez3055@work.org,(852) 726-7547,212977419,03-01-1996,"1769 East Way",Philadelphia,AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Davis
-  email: amanda.davis7335@company.com
-  phone: +1 564-813-7818
-  ssn: 069-01-6689
-  dob: 2/26/1997
-  address: 5526 Sixth Ln
-  city: Boston
-  state: WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Peterson,jason.peterson4990@gmail.com,(778) 424-7768,020 62 9967,03/01/1985,"7389 Spring Ln",Boston,TX

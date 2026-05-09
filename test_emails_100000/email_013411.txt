@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Reeves,samantha.reeves4578@work.org,+1 213-522-1878,374-12-4080,07/13/1964,"9715 Cedar Blvd",Denver,TX

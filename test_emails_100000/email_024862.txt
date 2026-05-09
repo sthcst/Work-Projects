@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Carter,edward.carter7986@work.org,536-463-1396,415-91-5055,01/14/1977,"9405 Summer Court",Jacksonville,AZ

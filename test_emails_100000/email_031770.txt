@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Flores
-  email: matthew.flores9088@business.net
-  phone: 337-279-3620
-  ssn: 048 68 9453
-  dob: 10/16/1973
-  address: 4860 Sixth St
-  city: Boston
-  state: WA

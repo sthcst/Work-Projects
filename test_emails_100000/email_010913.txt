@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Martinez
-  email: daniel.martinez6076@yahoo.com
-  phone: (484) 614-8838
-  ssn: 398 38 2793
-  dob: 26/02/1985
-  address: 6734 Park Ln
-  city: San Jose
-  state: MA

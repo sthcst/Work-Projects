@@ -1,9 +1,0 @@
-contact:
-  name: Angela Reeves
-  email: angela.reeves3666@company.com
-  phone: 842 971 7906
-  ssn: 125 55 6186
-  dob: 4/22/1962
-  address: 2200 Birch Ln
-  city: New York
-  state: MO

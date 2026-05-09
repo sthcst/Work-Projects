@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Brown,kenneth.brown9210@business.net,499 469 4651,035-97-8985,11/15/1953,"3699 West St",Jacksonville,TX

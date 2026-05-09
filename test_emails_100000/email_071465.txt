@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Hall,timothy.hall1112@work.org,+1 913-680-9726,686-43-7853,03-06-1976,"3977 Park Blvd",Denver,WA

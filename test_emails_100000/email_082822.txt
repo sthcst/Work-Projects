@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Sanchez,amanda.sanchez4237@yahoo.com,+1 827-840-2302,519011259,07-23-1981,"9481 Fifth Blvd",Houston,GA

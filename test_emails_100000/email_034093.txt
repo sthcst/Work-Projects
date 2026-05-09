@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Davis
-  email: michelle.davis6154@yahoo.com
-  phone: (954) 974-2019
-  ssn: 104 12 8208
-  dob: 19/06/1987
-  address: 6409 Third St
-  city: Washington
-  state: FL

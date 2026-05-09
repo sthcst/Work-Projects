@@ -1,9 +1,0 @@
-contact:
-  name: Donald Smith
-  email: donald.smith524@gmail.com
-  phone: 346-944-7356
-  ssn: 719632942
-  dob: 4/5/1982
-  address: 1427 Sixth St
-  city: Denver
-  state: AZ

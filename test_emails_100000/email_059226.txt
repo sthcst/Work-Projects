@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Morris
-  email: shirley.morris3427@example.com
-  phone: +1 215-463-2546
-  ssn: 109 72 5446
-  dob: 05/27/1964
-  address: 2314 Pine Ln
-  city: Los Angeles
-  state: TX

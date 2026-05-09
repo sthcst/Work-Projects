@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Alvarado,joseph.alvarado512@yahoo.com,312 768 7581,725-39-4061,12/04/1987,"451 South Ln",Denver,AZ

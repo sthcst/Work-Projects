@@ -1,9 +1,0 @@
-contact:
-  name: Donald Johnson
-  email: donald.johnson962@outlook.com
-  phone: +1 280-822-5236
-  ssn: 856122583
-  dob: 02/17/2005
-  address: 3394 Cedar Ln
-  city: Houston
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Charles Nunez
-  email: charles.nunez1926@company.com
-  phone: (953) 508-9992
-  ssn: 159-75-1386
-  dob: 09/10/1951
-  address: 1874 Second Dr
-  city: Denver
-  state: CA

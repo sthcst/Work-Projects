@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Clark,jeffrey.clark605@gmail.com,(667) 726-2705,200925653,11/2/1982,"2707 South Ln",Philadelphia,PA

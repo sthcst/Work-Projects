@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Lewis,katherine.lewis7930@business.net,+1 605-848-4378,842-61-8467,07/15/2004,"6440 Second Court",San Diego,AZ

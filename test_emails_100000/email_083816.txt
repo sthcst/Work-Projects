@@ -1,9 +1,0 @@
-contact:
-  name: Christine Reyes
-  email: christine.reyes3124@example.com
-  phone: +1 402-871-1361
-  ssn: 761 85 3690
-  dob: 07/10/1997
-  address: 3617 East Court
-  city: Philadelphia
-  state: WA

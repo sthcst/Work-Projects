@@ -1,9 +1,0 @@
-contact:
-  name: Paul Evans
-  email: paul.evans2002@business.net
-  phone: (344) 304-2475
-  ssn: 097928450
-  dob: 08/24/2000
-  address: 8929 Oak Ln
-  city: San Diego
-  state: NC

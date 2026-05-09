@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Robinson,christine.robinson1901@gmail.com,(312) 338-5482,476-14-7555,09/12/1992,"1355 Second St",Boston,MA

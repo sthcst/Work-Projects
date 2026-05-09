@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Johnson,lauren.johnson1312@work.org,(486) 742-2439,283 99 7115,02/23/1972,"1041 Oak Court",San Antonio,DC

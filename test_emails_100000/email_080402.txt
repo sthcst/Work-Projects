@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Campbell
-  email: jessica.campbell637@business.net
-  phone: 790 761 6444
-  ssn: 145 57 3382
-  dob: 03-01-1985
-  address: 6745 East Court
-  city: Seattle
-  state: DC

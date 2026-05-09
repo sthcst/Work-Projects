@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Harris,paul.harris5513@mail.com,705-745-2651,387-46-5544,11/14/1975,"5859 South Dr",Philadelphia,NY

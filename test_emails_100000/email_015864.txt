@@ -1,9 +1,0 @@
-contact:
-  name: Michael Miller
-  email: michael.miller232@company.com
-  phone: 428-735-6211
-  ssn: 773-48-5668
-  dob: 9/26/1984
-  address: 4827 Oak Ln
-  city: Denver
-  state: NY

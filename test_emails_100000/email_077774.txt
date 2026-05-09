@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Flores,jason.flores5057@example.com,661-943-1842,973 24 4260,01-03-1969,"90 Birch Way",Seattle,MA

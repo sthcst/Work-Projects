@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Alvarado
-  email: anthony.alvarado9047@example.com
-  phone: 899 898 3723
-  ssn: 981-58-4276
-  dob: 06-20-1969
-  address: 8478 Spring Ln
-  city: San Diego
-  state: NJ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Serrano,kimberly.serrano597@business.net,(540) 963-4071,603-03-7940,10/26/1996,"7751 Cedar Ave",Seattle,TX

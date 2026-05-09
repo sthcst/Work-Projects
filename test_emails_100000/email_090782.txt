@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Morgan,rebecca.morgan803@company.com,(390) 320-6426,743657637,1/4/1961,"9618 Fourth Blvd",Phoenix,TX

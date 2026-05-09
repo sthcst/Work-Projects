@@ -1,9 +1,0 @@
-contact:
-  name: Paul Young
-  email: paul.young7143@yahoo.com
-  phone: +1 532-713-3992
-  ssn: 251-82-9674
-  dob: 8/12/1999
-  address: 1991 North Dr
-  city: San Antonio
-  state: MA

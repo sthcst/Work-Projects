@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Lopez,richard.lopez5491@business.net,638 271 6313,696391592,26/03/1992,"8798 Park Ave",Los Angeles,CA

@@ -1,9 +1,0 @@
-contact:
-  name: Charles Jackson
-  email: charles.jackson8591@example.com
-  phone: 634-907-7174
-  ssn: 270 13 5289
-  dob: 10/13/1998
-  address: 6294 Spring Blvd
-  city: Washington
-  state: CA

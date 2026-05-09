@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Martin,daniel.martin5078@gmail.com,775-954-9211,434433663,22/09/1968,"9846 Sixth Blvd",Dallas,AZ

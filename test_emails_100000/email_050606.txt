@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Robinson
-  email: rachel.robinson5939@outlook.com
-  phone: 492-801-7979
-  ssn: 038-20-6644
-  dob: 02/20/1974
-  address: 2325 Birch St
-  city: Jacksonville
-  state: MO

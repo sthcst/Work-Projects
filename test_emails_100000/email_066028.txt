@@ -1,9 +1,0 @@
-contact:
-  name: Donald Ramirez
-  email: donald.ramirez4685@gmail.com
-  phone: (334) 223-7274
-  ssn: 486387814
-  dob: 2/26/1980
-  address: 6727 First Court
-  city: Houston
-  state: MI

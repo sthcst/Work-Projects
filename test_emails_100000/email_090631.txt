@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Young
-  email: jessica.young6443@yahoo.com
-  phone: 898 639 9593
-  ssn: 945179257
-  dob: 23/11/1962
-  address: 3050 Main Way
-  city: Dallas
-  state: WA

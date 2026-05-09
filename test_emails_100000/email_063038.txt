@@ -1,9 +1,0 @@
-contact:
-  name: Richard Romero
-  email: richard.romero3571@yahoo.com
-  phone: (703) 927-5164
-  ssn: 218-21-4260
-  dob: 05/06/1982
-  address: 2352 Maple Ave
-  city: Los Angeles
-  state: NY

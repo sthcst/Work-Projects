@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Carter
-  email: lisa.carter9537@business.net
-  phone: 896-886-7552
-  ssn: 460 02 4418
-  dob: 03-23-1997
-  address: 5133 West Ave
-  city: San Jose
-  state: OH

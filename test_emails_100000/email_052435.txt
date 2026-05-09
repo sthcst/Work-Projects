@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Reed,sarah.reed6113@business.net,569-542-7671,450707116,6/13/1999,"7247 Sixth Dr",Seattle,MA

@@ -1,9 +1,0 @@
-contact:
-  name: George Jackson
-  email: george.jackson1335@mail.com
-  phone: 569-216-4177
-  ssn: 370-42-8983
-  dob: 01/05/1967
-  address: 3791 Birch Ln
-  city: Jacksonville
-  state: AZ

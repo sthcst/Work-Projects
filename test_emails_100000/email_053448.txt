@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Lopez
-  email: timothy.lopez6394@business.net
-  phone: +1 696-527-1471
-  ssn: 305522524
-  dob: 17/11/1989
-  address: 6551 Fourth Ln
-  city: Houston
-  state: TN

@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Parker
-  email: andrew.parker7424@mail.com
-  phone: 523-803-8951
-  ssn: 915232083
-  dob: 20/05/1989
-  address: 7000 Summer St
-  city: Los Angeles
-  state: TN

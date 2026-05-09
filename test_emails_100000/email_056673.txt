@@ -1,9 +1,0 @@
-contact:
-  name: Helen Rodriguez
-  email: helen.rodriguez814@company.com
-  phone: (603) 410-3164
-  ssn: 251 14 4276
-  dob: 12/22/2002
-  address: 2739 Sixth Rd
-  city: Austin
-  state: MA

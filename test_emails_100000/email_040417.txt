@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Martinez
-  email: rachel.martinez4293@business.net
-  phone: (944) 872-4387
-  ssn: 258 60 8046
-  dob: 14/10/1967
-  address: 736 North Ln
-  city: New York
-  state: OH

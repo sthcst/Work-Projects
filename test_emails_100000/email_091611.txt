@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Flores,brian.flores8487@example.com,612-436-9153,575 97 7475,11/26/1974,"3115 South St",Washington,MD

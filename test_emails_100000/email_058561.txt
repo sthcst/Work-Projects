@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Thomas
-  email: stephanie.thomas2582@gmail.com
-  phone: 636-798-7255
-  ssn: 999844397
-  dob: 3/6/1979
-  address: 9391 Pine Blvd
-  city: Philadelphia
-  state: TX

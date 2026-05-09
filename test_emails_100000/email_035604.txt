@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Garcia
-  email: andrew.garcia8164@business.net
-  phone: 256-573-7071
-  ssn: 405 04 7464
-  dob: 8/20/1964
-  address: 5262 East Rd
-  city: Philadelphia
-  state: MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Hernandez,angela.hernandez8655@work.org,+1 930-744-7801,371652798,03/24/1980,"337 Fourth Way",Dallas,NY

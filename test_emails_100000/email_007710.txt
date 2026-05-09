@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Taylor
-  email: sarah.taylor2031@yahoo.com
-  phone: 543-499-3817
-  ssn: 903 48 7948
-  dob: 08/09/1974
-  address: 5968 Spring Court
-  city: Washington
-  state: TX

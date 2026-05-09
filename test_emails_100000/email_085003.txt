@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Hernandez,kimberly.hernandez7078@work.org,(729) 573-5304,647473456,10/02/1977,"7728 Summer Ave",New York,NC

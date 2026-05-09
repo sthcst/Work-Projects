@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Rogers
-  email: stephanie.rogers3956@yahoo.com
-  phone: +1 527-249-5163
-  ssn: 005 73 4510
-  dob: 01/03/1997
-  address: 8502 North Way
-  city: Seattle
-  state: TX

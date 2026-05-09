@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Serrano,edward.serrano7963@example.com,366-551-4991,041224565,24/03/1989,"6195 Third Ave",New York,MA

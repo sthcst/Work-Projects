@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Morris
-  email: katherine.morris4771@business.net
-  phone: +1 914-524-5826
-  ssn: 031579541
-  dob: 07-08-2001
-  address: 655 Spring Dr
-  city: Boston
-  state: MI

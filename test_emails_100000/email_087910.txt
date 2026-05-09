@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Rodriguez
-  email: jessica.rodriguez9054@example.com
-  phone: 510 426 8011
-  ssn: 351972336
-  dob: 8/22/1981
-  address: 9007 Maple Court
-  city: Phoenix
-  state: TX

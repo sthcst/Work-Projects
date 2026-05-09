@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Miller,stephanie.miller4882@company.com,329 249 1957,441 34 8983,11-25-1994,"1757 Sixth Court",Chicago,NY

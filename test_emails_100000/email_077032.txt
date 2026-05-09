@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Sanchez,rebecca.sanchez5464@mail.com,(458) 316-3904,559-98-5553,01/12/1982,"5318 Elm Ln",Boston,NY

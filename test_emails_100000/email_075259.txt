@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Davis,michael.davis6208@work.org,+1 505-271-6875,223929175,08/13/1999,"9344 Oak Court",Washington,MO

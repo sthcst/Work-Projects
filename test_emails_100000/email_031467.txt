@@ -1,9 +1,0 @@
-contact:
-  name: Jane Gonzalez
-  email: jane.gonzalez7054@outlook.com
-  phone: 246 581 2214
-  ssn: 211-93-3123
-  dob: 10/15/1998
-  address: 1228 Third Way
-  city: Seattle
-  state: TX

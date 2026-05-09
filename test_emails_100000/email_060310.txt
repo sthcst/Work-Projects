@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Cooper,brenda.cooper7004@mail.com,409 589 9414,101-67-1245,09-27-1970,"7865 Cedar Rd",Washington,WA

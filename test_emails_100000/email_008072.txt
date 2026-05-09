@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Dominguez
-  email: brenda.dominguez9990@gmail.com
-  phone: 856 682 7743
-  ssn: 430 21 5431
-  dob: 06-22-1961
-  address: 5020 Fourth Dr
-  city: New York
-  state: CO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Clark,jeffrey.clark5016@work.org,+1 929-480-4511,611 16 6995,09/23/2001,"7771 Elm St",San Jose,MD

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Evans,lisa.evans471@mail.com,+1 506-809-1282,953682633,2/11/1978,"8543 Third Court",Phoenix,TX

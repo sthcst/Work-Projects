@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Martinez,kathleen.martinez1253@company.com,+1 329-912-2510,135098429,07-08-1957,"6316 Sixth Ln",Phoenix,CA

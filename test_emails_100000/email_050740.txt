@@ -1,9 +1,0 @@
-contact:
-  name: Angela Campbell
-  email: angela.campbell6163@example.com
-  phone: (805) 859-4680
-  ssn: 093-75-1716
-  dob: 23/10/1951
-  address: 7787 Birch Court
-  city: San Jose
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Thomas
-  email: nicole.thomas8647@gmail.com
-  phone: +1 875-737-9525
-  ssn: 452-41-5410
-  dob: 10-10-1965
-  address: 3992 South Ln
-  city: Seattle
-  state: TX

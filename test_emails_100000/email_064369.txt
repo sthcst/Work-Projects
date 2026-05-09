@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Young
-  email: kevin.young5968@work.org
-  phone: (781) 814-8554
-  ssn: 619 01 1738
-  dob: 06/02/1955
-  address: 2634 Main Ln
-  city: San Antonio
-  state: MO

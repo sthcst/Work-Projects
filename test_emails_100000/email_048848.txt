@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Sanchez
-  email: ryan.sanchez3057@outlook.com
-  phone: +1 436-482-3507
-  ssn: 699-74-2282
-  dob: 08/26/1983
-  address: 2883 Sixth Rd
-  city: San Jose
-  state: CO

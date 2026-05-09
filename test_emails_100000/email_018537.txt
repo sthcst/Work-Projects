@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Alvarado,edward.alvarado3820@yahoo.com,656-775-3959,879266742,04/02/1980,"8690 Birch Way",Seattle,MA

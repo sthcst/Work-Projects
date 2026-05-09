@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Garcia,william.garcia6806@example.com,905 739 4795,023596420,02/23/1984,"9952 Fifth Ave",Boston,CA

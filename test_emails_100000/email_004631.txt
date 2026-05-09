@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Reed
-  email: jeffrey.reed4960@mail.com
-  phone: 628 355 9406
-  ssn: 468 48 2048
-  dob: 09/04/1959
-  address: 6855 Elm Rd
-  city: Houston
-  state: NY

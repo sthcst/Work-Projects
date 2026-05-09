@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Delgado
-  email: ashley.delgado4184@outlook.com
-  phone: 665-499-1531
-  ssn: 508 94 3236
-  dob: 07-05-1979
-  address: 8762 North Court
-  city: New York
-  state: NJ

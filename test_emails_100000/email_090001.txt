@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Stewart,emily.stewart5523@company.com,336-725-3480,221554460,12/02/2001,"3013 Birch Dr",Boston,CO

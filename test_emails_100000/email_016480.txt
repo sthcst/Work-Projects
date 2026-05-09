@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Thompson
-  email: joseph.thompson8055@outlook.com
-  phone: +1 612-974-1392
-  ssn: 137651835
-  dob: 10/20/2005
-  address: 8068 Fourth Ln
-  city: New York
-  state: AZ

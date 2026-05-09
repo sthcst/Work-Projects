@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Alvarado,jessica.alvarado5286@yahoo.com,968-212-7605,588-94-7510,7/13/1994,"1133 Spring Ln",Houston,FL

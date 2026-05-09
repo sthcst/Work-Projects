@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Garcia
-  email: nicole.garcia3007@company.com
-  phone: (616) 422-7256
-  ssn: 528 34 8814
-  dob: 12-13-1990
-  address: 9051 North Way
-  city: New York
-  state: MA

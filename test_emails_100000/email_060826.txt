@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Davis,ashley.davis4268@business.net,852 959 5804,607-13-6813,03-21-1975,"6713 Fourth Blvd",Austin,NC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Parker,james.parker3696@work.org,+1 719-743-1212,562883248,12/11/1998,"5151 Sixth Dr",New York,FL

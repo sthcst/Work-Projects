@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Anderson
-  email: ronald.anderson336@yahoo.com
-  phone: 865 529 6970
-  ssn: 743 89 6577
-  dob: 01-21-1986
-  address: 2180 Fifth Ln
-  city: Austin
-  state: MA

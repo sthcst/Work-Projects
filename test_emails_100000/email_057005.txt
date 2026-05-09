@@ -1,9 +1,0 @@
-contact:
-  name: Donald Anderson
-  email: donald.anderson883@outlook.com
-  phone: 579-410-2533
-  ssn: 507-62-1527
-  dob: 12-08-1964
-  address: 7002 West Court
-  city: Phoenix
-  state: MI

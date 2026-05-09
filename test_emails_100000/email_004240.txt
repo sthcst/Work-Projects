@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Johnson,kevin.johnson4501@company.com,+1 402-694-2133,674 17 6368,10/24/1984,"1625 Main Dr",Washington,MI

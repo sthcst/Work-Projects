@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Bell
-  email: jennifer.bell9633@company.com
-  phone: 302 508 2924
-  ssn: 745 24 3303
-  dob: 06/11/1978
-  address: 1059 Maple Blvd
-  city: Denver
-  state: DC

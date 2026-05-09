@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Jimenez,maria.jimenez4106@example.com,913 977 8221,671-57-9984,7/6/1990,"3392 Birch Ln",Chicago,CO

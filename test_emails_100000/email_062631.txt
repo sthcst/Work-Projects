@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Cooper,steven.cooper3769@work.org,492 236 8130,514 71 4866,07-06-1974,"5301 Spring Way",Seattle,NJ

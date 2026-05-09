@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Jones,kimberly.jones837@company.com,371-888-5050,989653990,07/02/1973,"1858 Main Way",New York,NJ

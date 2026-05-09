@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Gomez,jennifer.gomez8873@mail.com,891 594 2595,104062367,10-13-1992,"384 Fourth St",Denver,NY

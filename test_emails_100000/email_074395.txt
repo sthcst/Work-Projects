@@ -1,9 +1,0 @@
-contact:
-  name: Jason Nunez
-  email: jason.nunez3595@mail.com
-  phone: (829) 636-2317
-  ssn: 817 73 6618
-  dob: 12/09/2004
-  address: 3477 Second Ln
-  city: San Antonio
-  state: PA

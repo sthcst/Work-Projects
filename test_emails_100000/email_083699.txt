@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Alvarado
-  email: jessica.alvarado8003@example.com
-  phone: (725) 804-4871
-  ssn: 604557889
-  dob: 11/21/1984
-  address: 4671 Elm Court
-  city: Austin
-  state: WA

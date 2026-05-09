@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Evans
-  email: samantha.evans3218@outlook.com
-  phone: 783-978-4111
-  ssn: 096 92 9631
-  dob: 24/07/1988
-  address: 4283 Cedar Rd
-  city: New York
-  state: WA

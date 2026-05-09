@@ -1,9 +1,0 @@
-contact:
-  name: Mark Dominguez
-  email: mark.dominguez100@work.org
-  phone: 334-642-6661
-  ssn: 190 70 1499
-  dob: 4/15/1978
-  address: 5977 Elm Ln
-  city: Houston
-  state: CO

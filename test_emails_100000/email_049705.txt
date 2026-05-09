@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Walker,katherine.walker634@gmail.com,(407) 257-3543,789 52 8567,26/12/2005,"5560 Spring Way",Seattle,NY

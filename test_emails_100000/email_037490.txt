@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Davis,mark.davis6671@mail.com,+1 549-321-7241,193 64 7147,13/05/1987,"9266 Cedar Rd",New York,TN

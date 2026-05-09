@@ -1,9 +1,0 @@
-contact:
-  name: Robert Delgado
-  email: robert.delgado7058@example.com
-  phone: 943 631 9919
-  ssn: 345566869
-  dob: 2/13/1975
-  address: 4310 Elm Blvd
-  city: Houston
-  state: TX

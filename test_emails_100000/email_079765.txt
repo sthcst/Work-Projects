@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Cooper,joseph.cooper4196@business.net,525-689-6722,075-05-2318,16/04/1995,"2980 Fourth Blvd",Houston,VA

@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Smith
-  email: pamela.smith1808@business.net
-  phone: 602-291-7607
-  ssn: 647 89 2117
-  dob: 11/22/2003
-  address: 7423 Main Way
-  city: Denver
-  state: TX

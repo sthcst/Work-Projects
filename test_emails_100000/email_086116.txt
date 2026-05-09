@@ -1,9 +1,0 @@
-contact:
-  name: Steven Nunez
-  email: steven.nunez5979@company.com
-  phone: 680 677 1992
-  ssn: 393 54 4455
-  dob: 07/06/1984
-  address: 6517 North Dr
-  city: Denver
-  state: CO

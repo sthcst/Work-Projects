@@ -1,9 +1,0 @@
-contact:
-  name: Charles Gonzalez
-  email: charles.gonzalez4283@business.net
-  phone: +1 208-963-8358
-  ssn: 544-26-5213
-  dob: 03/27/1970
-  address: 1681 Fifth Ln
-  city: Los Angeles
-  state: FL

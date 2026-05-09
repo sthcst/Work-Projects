@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Taylor
-  email: kathleen.taylor5777@outlook.com
-  phone: +1 925-496-4308
-  ssn: 685036848
-  dob: 2/11/1994
-  address: 1639 Cedar Ave
-  city: Austin
-  state: MI

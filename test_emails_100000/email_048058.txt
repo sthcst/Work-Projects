@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Ramirez,nicole.ramirez6807@work.org,(910) 605-2862,777-61-1713,01/05/1957,"7171 Cedar Court",Austin,MD

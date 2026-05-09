@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Rodriguez,joshua.rodriguez8436@example.com,994-645-9786,714713310,08-07-1964,"2535 Second Blvd",Houston,TX

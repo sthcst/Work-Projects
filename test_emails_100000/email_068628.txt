@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Robinson
-  email: andrew.robinson3448@business.net
-  phone: +1 676-516-7687
-  ssn: 631 31 2854
-  dob: 3/9/1980
-  address: 61 East Blvd
-  city: Philadelphia
-  state: MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Rodriguez,shirley.rodriguez7387@mail.com,837 383 8803,181-60-5493,07/09/1984,"5434 Summer Rd",Jacksonville,VA

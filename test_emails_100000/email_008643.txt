@@ -1,9 +1,0 @@
-contact:
-  name: Emma Sanchez
-  email: emma.sanchez9100@business.net
-  phone: +1 422-628-5736
-  ssn: 527401738
-  dob: 08/25/1992
-  address: 973 Second Court
-  city: Denver
-  state: NY

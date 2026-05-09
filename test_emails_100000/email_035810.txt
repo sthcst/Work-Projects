@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Serrano
-  email: ronald.serrano280@outlook.com
-  phone: 409-404-7927
-  ssn: 674 79 5587
-  dob: 11/26/1970
-  address: 9126 Summer Way
-  city: Chicago
-  state: MI

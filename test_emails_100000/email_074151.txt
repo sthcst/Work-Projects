@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Jimenez,christopher.jimenez1952@work.org,241 262 2837,419 11 6703,5/25/1951,"3558 East St",Austin,DC

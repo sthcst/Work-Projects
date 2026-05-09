@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Parker,mark.parker6923@outlook.com,(371) 623-5046,121957912,05-05-2003,"3919 Main Ave",Washington,AZ

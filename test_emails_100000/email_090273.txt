@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Miller
-  email: timothy.miller786@company.com
-  phone: 728 469 9642
-  ssn: 107137418
-  dob: 7/2/1994
-  address: 2551 First Ave
-  city: Philadelphia
-  state: NC

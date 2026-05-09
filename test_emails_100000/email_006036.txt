@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Walker,emily.walker3528@work.org,+1 222-320-2040,829 41 1051,02/14/1987,"757 Fifth Rd",Denver,FL

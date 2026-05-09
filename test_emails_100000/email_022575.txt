@@ -1,9 +1,0 @@
-contact:
-  name: William Jimenez
-  email: william.jimenez5510@work.org
-  phone: 537 219 2629
-  ssn: 524917305
-  dob: 04-07-1976
-  address: 3619 Third St
-  city: Philadelphia
-  state: NY

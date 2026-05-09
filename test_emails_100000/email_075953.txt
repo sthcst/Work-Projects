@@ -1,9 +1,0 @@
-contact:
-  name: Emily Johnson
-  email: emily.johnson7577@company.com
-  phone: 337-393-8385
-  ssn: 303303426
-  dob: 27/06/1969
-  address: 4699 East Ln
-  city: Dallas
-  state: TX

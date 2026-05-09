@@ -1,9 +1,0 @@
-contact:
-  name: Charles Garcia
-  email: charles.garcia6310@work.org
-  phone: +1 677-619-7121
-  ssn: 650-56-3300
-  dob: 5/5/1995
-  address: 3733 Fourth Blvd
-  city: Philadelphia
-  state: AZ

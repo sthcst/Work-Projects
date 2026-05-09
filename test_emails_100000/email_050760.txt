@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Morgan,jennifer.morgan839@mail.com,642 535 2100,894 94 9426,12/14/1989,"8827 Third Dr",Boston,AZ

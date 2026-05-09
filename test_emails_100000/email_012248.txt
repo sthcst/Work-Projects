@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Bell,matthew.bell1466@business.net,342-825-4071,215 55 3816,12/02/1952,"7330 Pine Dr",San Jose,MA

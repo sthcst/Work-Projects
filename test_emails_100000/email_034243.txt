@@ -1,9 +1,0 @@
-contact:
-  name: James Gonzalez
-  email: james.gonzalez6957@company.com
-  phone: (330) 595-6920
-  ssn: 555-65-6339
-  dob: 01/15/1976
-  address: 6325 Cedar Dr
-  city: Austin
-  state: CA

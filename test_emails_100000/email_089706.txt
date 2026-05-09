@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Flores,sarah.flores1560@work.org,+1 912-678-1326,815-46-8843,1/22/1958,"8774 Summer Rd",Jacksonville,IL

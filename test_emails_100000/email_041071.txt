@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Stewart,william.stewart1666@gmail.com,482 697 8731,006-68-1689,03-12-1973,"2545 Oak Dr",Houston,TX

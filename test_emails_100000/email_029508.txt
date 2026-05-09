@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Lopez,charles.lopez8586@outlook.com,(868) 559-8660,629-73-8451,09/17/1997,"2645 West Blvd",Washington,NJ

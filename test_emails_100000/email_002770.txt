@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Collins
-  email: kathleen.collins3296@yahoo.com
-  phone: 342 337 4517
-  ssn: 393-42-4905
-  dob: 03/08/1966
-  address: 2936 South St
-  city: Washington
-  state: MA

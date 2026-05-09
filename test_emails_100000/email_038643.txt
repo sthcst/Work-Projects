@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Parker,ryan.parker5322@mail.com,(278) 478-4873,898 34 6379,11-08-1983,"9204 North Blvd",Jacksonville,CA

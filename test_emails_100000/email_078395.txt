@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Carter,kevin.carter440@gmail.com,977 672 9207,853392731,1/2/1970,"6319 Cedar Ln",Phoenix,GA

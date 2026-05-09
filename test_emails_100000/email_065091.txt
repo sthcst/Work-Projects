@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Taylor,matthew.taylor6083@yahoo.com,490 364 3914,958991264,08/11/1988,"6995 Birch Way",San Diego,NY

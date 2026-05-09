@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Peterson
-  email: andrew.peterson8252@work.org
-  phone: 570-983-5110
-  ssn: 993-88-7358
-  dob: 9/6/1987
-  address: 954 Birch Ln
-  city: Austin
-  state: FL

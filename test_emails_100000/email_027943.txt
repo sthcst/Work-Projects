@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Robinson,sarah.robinson4881@business.net,352 925 4262,279 30 1410,17/11/2004,"1145 Maple Way",Boston,CA

@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Peterson
-  email: andrew.peterson5813@company.com
-  phone: +1 850-953-1917
-  ssn: 244-85-8380
-  dob: 19/01/1953
-  address: 6522 Oak Dr
-  city: Chicago
-  state: OH

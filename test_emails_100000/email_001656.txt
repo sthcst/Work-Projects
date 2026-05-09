@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Johnson
-  email: ronald.johnson8569@yahoo.com
-  phone: +1 984-896-2877
-  ssn: 089447008
-  dob: 7/14/1955
-  address: 4671 Main Dr
-  city: Seattle
-  state: NJ

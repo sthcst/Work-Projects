@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Bell,rebecca.bell6936@gmail.com,951 403 4729,720 31 7221,04-11-1958,"2262 Cedar Rd",Chicago,IL

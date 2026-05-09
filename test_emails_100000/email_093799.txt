@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Hall
-  email: christopher.hall6912@gmail.com
-  phone: +1 440-941-9302
-  ssn: 885-24-6380
-  dob: 08/03/1997
-  address: 9842 Fifth Ave
-  city: Chicago
-  state: MD

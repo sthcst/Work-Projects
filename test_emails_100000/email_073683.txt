@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Guerrero,lisa.guerrero7531@work.org,906 648 9137,443 10 5410,02/11/1965,"8258 Pine Ln",Philadelphia,MD

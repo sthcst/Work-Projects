@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Thompson
-  email: rachel.thompson2737@outlook.com
-  phone: (613) 973-5191
-  ssn: 451 30 1419
-  dob: 09/12/1991
-  address: 9541 Oak St
-  city: Philadelphia
-  state: MA

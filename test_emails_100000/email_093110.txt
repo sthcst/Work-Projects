@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Jackson,jessica.jackson9456@mail.com,621-728-6862,709-28-7055,08/25/1970,"6188 Fifth Court",New York,TX

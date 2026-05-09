@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Walker
-  email: ryan.walker5365@mail.com
-  phone: +1 918-968-2788
-  ssn: 191 94 2408
-  dob: 05/05/1971
-  address: 6490 North Rd
-  city: Philadelphia
-  state: NJ

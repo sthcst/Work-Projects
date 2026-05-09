@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Young,kathleen.young9831@work.org,+1 636-823-3825,419 97 5643,11/11/1956,"379 Second Dr",San Antonio,TX

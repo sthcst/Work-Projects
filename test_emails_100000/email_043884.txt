@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Edwards,christine.edwards5308@outlook.com,+1 205-988-3199,430-40-2102,26/11/1971,"8518 Maple Court",Austin,TX

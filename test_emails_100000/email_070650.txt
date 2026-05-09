@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Serrano,pamela.serrano6225@yahoo.com,264 416 3602,751 49 5478,19/05/1997,"7505 Birch Blvd",San Antonio,WA

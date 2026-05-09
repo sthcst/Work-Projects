@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Reed,helen.reed9638@business.net,(985) 536-2948,155-48-8565,04/20/1992,"1764 West Blvd",New York,TX

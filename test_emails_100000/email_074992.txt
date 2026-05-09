@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Hall
-  email: rebecca.hall4629@example.com
-  phone: +1 206-605-1565
-  ssn: 179602596
-  dob: 13/01/1955
-  address: 2678 Summer Blvd
-  city: Los Angeles
-  state: TX

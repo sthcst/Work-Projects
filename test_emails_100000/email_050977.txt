@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Parker
-  email: katherine.parker5241@business.net
-  phone: 754-342-3515
-  ssn: 961696904
-  dob: 07-05-1974
-  address: 8345 West Dr
-  city: Philadelphia
-  state: NY

@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Lopez
-  email: shirley.lopez8614@work.org
-  phone: +1 242-704-8814
-  ssn: 120136910
-  dob: 12/24/1972
-  address: 5237 North Rd
-  city: Dallas
-  state: DC

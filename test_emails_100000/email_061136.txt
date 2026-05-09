@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Lee,jacob.lee3042@outlook.com,776 392 9536,873336135,9/12/1982,"73 South Way",Los Angeles,IL

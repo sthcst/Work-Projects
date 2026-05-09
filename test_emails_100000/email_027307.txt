@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Lewis,lisa.lewis800@mail.com,926 480 9614,827-45-5040,12/04/1960,"2969 West Court",Houston,DC

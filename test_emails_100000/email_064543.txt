@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Flores
-  email: anthony.flores1949@business.net
-  phone: 703 410 1360
-  ssn: 812-72-6373
-  dob: 8/8/1970
-  address: 6601 First Rd
-  city: Houston
-  state: DC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Reyes,anthony.reyes9015@yahoo.com,456 338 1754,917 30 7225,07-09-1955,"7509 Summer Way",Phoenix,TX

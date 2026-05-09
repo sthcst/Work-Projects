@@ -1,9 +1,0 @@
-contact:
-  name: Emily Hall
-  email: emily.hall1388@outlook.com
-  phone: 382-368-7291
-  ssn: 341-26-7952
-  dob: 02/19/1970
-  address: 1806 Main Court
-  city: Houston
-  state: PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Flores,joshua.flores7826@outlook.com,(372) 808-1575,988 39 5866,9/3/1960,"4642 West Ln",Houston,CA

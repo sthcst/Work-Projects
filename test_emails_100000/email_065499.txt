@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Evans
-  email: samantha.evans5431@business.net
-  phone: (928) 589-3343
-  ssn: 715 21 5641
-  dob: 2/9/1957
-  address: 7588 Spring Way
-  city: Houston
-  state: MI

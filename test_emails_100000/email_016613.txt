@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Reyes,michael.reyes8436@example.com,(418) 500-3146,704305300,01/06/1961,"7644 Sixth Dr",Dallas,NY

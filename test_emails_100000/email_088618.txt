@@ -1,9 +1,0 @@
-contact:
-  name: Paul Bell
-  email: paul.bell9771@outlook.com
-  phone: (959) 318-8760
-  ssn: 168634384
-  dob: 12/3/1961
-  address: 6152 Main Ave
-  city: San Diego
-  state: PA

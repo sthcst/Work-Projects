@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Jimenez,jacob.jimenez5173@work.org,(363) 798-7207,580644694,17/05/1950,"1889 South Court",Denver,CO

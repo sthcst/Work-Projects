@@ -1,9 +1,0 @@
-contact:
-  name: James Lopez
-  email: james.lopez1246@gmail.com
-  phone: 298-214-8454
-  ssn: 755-30-7855
-  dob: 12/07/1991
-  address: 5083 Fourth Ln
-  city: New York
-  state: DC

@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Edwards
-  email: katherine.edwards2034@company.com
-  phone: +1 366-616-4564
-  ssn: 613-90-6365
-  dob: 03-14-1997
-  address: 4794 Spring Ln
-  city: Seattle
-  state: GA

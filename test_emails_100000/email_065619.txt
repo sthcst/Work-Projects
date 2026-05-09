@@ -1,9 +1,0 @@
-contact:
-  name: Megan Serrano
-  email: megan.serrano5353@work.org
-  phone: (340) 764-7076
-  ssn: 900 27 3624
-  dob: 9/15/1960
-  address: 7022 South Court
-  city: San Antonio
-  state: NJ

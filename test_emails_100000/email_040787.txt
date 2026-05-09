@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Thompson
-  email: ronald.thompson8690@mail.com
-  phone: 602 759 9425
-  ssn: 708042902
-  dob: 05-04-1978
-  address: 2391 Sixth Ln
-  city: New York
-  state: MD

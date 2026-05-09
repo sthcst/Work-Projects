@@ -1,9 +1,0 @@
-contact:
-  name: Steven Nelson
-  email: steven.nelson8666@example.com
-  phone: 971 557 6447
-  ssn: 290-57-3249
-  dob: 07-20-1994
-  address: 1375 Third Rd
-  city: Seattle
-  state: FL

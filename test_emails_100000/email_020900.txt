@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Nelson,mark.nelson3505@company.com,+1 431-940-1513,476133680,11-11-1997,"2052 Fourth St",Denver,TX

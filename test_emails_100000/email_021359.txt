@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Jackson,joseph.jackson9101@gmail.com,+1 475-889-3811,570-82-3108,13/05/1964,"2415 First Way",Denver,CO

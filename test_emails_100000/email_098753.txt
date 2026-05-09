@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Reed
-  email: samantha.reed9788@outlook.com
-  phone: 624 364 3660
-  ssn: 117418932
-  dob: 11/21/1972
-  address: 2329 East Ln
-  city: Washington
-  state: NJ

@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Lee
-  email: ryan.lee5455@gmail.com
-  phone: (280) 305-5020
-  ssn: 322-15-3868
-  dob: 20/04/1958
-  address: 8334 West Ln
-  city: Philadelphia
-  state: FL

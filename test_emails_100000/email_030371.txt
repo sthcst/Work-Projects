@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Romero
-  email: samantha.romero9638@company.com
-  phone: +1 786-353-4158
-  ssn: 758 94 1761
-  dob: 03-22-1953
-  address: 6968 Sixth Court
-  city: San Jose
-  state: TX

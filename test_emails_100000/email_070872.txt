@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Lee
-  email: brenda.lee5298@outlook.com
-  phone: (926) 763-8508
-  ssn: 415 06 9552
-  dob: 05-07-1956
-  address: 9777 Fifth Dr
-  city: San Jose
-  state: VA

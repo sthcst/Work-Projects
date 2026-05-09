@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Martin,jason.martin8089@outlook.com,470 736 3365,833-57-4854,06/09/1963,"2558 Oak Ln",Los Angeles,WA

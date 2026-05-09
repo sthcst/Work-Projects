@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Bell
-  email: kathleen.bell3122@example.com
-  phone: 822 414 9591
-  ssn: 043-81-6265
-  dob: 19/06/1970
-  address: 3303 Maple Blvd
-  city: Los Angeles
-  state: VA

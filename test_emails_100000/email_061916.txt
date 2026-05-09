@@ -1,9 +1,0 @@
-contact:
-  name: Steven Taylor
-  email: steven.taylor3072@outlook.com
-  phone: (552) 489-7776
-  ssn: 444 28 5467
-  dob: 06/09/1993
-  address: 6646 Main Dr
-  city: Washington
-  state: TX

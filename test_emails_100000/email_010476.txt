@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Peterson,richard.peterson5071@mail.com,+1 233-584-7963,066587796,04-28-2000,"2994 Summer Dr",Austin,FL

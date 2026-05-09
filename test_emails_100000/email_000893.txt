@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Jimenez,shirley.jimenez7030@example.com,521-396-6270,422581946,17/08/1988,"8198 North Blvd",Dallas,PA

@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Davis
-  email: shirley.davis8827@example.com
-  phone: 813-232-5330
-  ssn: 818826634
-  dob: 25/03/2004
-  address: 5312 Third Rd
-  city: Jacksonville
-  state: PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Murillo,amanda.murillo5495@work.org,885-759-7164,757 27 5037,06/24/1992,"4497 Cedar Ln",Washington,TX

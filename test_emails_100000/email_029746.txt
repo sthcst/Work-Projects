@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Nelson,stephanie.nelson32@gmail.com,(405) 297-9857,952 71 4173,01/15/1997,"3316 Park Ln",Chicago,PA

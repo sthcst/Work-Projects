@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Serrano
-  email: brenda.serrano8024@business.net
-  phone: +1 930-489-8404
-  ssn: 792 51 2117
-  dob: 11/08/1972
-  address: 9423 Cedar Way
-  city: Boston
-  state: FL

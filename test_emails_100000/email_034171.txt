@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Johnson,jessica.johnson22@company.com,289-834-2997,326375582,03/04/2002,"3213 Fifth Rd",Los Angeles,GA

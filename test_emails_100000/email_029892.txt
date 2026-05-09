@@ -1,9 +1,0 @@
-contact:
-  name: Emma Carter
-  email: emma.carter3023@gmail.com
-  phone: (672) 348-3739
-  ssn: 873876112
-  dob: 10-22-1972
-  address: 489 South Ln
-  city: San Jose
-  state: NC

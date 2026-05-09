@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven White,steven.white4165@outlook.com,(360) 493-9931,096633695,10-16-1957,"4605 Fifth Blvd",Washington,GA

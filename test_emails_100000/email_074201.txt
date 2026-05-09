@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Campbell
-  email: pamela.campbell3015@example.com
-  phone: +1 285-565-5079
-  ssn: 733981628
-  dob: 12-17-1988
-  address: 8357 East Dr
-  city: Houston
-  state: WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Thompson,gary.thompson9143@outlook.com,776 770 8820,213-94-3691,06-02-1996,"5271 Maple Court",Phoenix,AZ

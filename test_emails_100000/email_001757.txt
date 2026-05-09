@@ -1,9 +1,0 @@
-contact:
-  name: Emily Nelson
-  email: emily.nelson8749@company.com
-  phone: (461) 626-6215
-  ssn: 553498501
-  dob: 11/05/1974
-  address: 3004 Pine Ln
-  city: Chicago
-  state: NJ

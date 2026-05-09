@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Flores,ryan.flores5606@work.org,+1 765-732-6131,961 26 8349,2/10/1953,"1118 Sixth Blvd",New York,CA

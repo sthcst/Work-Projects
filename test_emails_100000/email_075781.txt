@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Bell,sarah.bell6159@example.com,(936) 403-2150,896 66 8018,22/10/1982,"4779 Main Rd",Seattle,VA

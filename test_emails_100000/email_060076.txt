@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Lewis,katherine.lewis6465@example.com,654 837 5165,647-22-1506,9/19/1951,"3516 Oak Ln",New York,TN

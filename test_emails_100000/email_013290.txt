@@ -1,9 +1,0 @@
-contact:
-  name: James Johnson
-  email: james.johnson5861@yahoo.com
-  phone: +1 513-636-5320
-  ssn: 264-15-4803
-  dob: 01/12/1964
-  address: 747 Third Ave
-  city: Dallas
-  state: GA

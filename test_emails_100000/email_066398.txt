@@ -1,9 +1,0 @@
-contact:
-  name: Emily Stewart
-  email: emily.stewart5805@business.net
-  phone: 745 631 6930
-  ssn: 487-10-6976
-  dob: 04-09-1975
-  address: 5404 Second Rd
-  city: Los Angeles
-  state: CO

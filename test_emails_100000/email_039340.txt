@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Lee
-  email: lisa.lee6106@mail.com
-  phone: 648 253 3860
-  ssn: 461-46-5780
-  dob: 08/16/1950
-  address: 7188 North Court
-  city: Dallas
-  state: NC

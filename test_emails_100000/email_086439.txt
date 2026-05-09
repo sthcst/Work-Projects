@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Jackson
-  email: jacob.jackson7922@example.com
-  phone: +1 997-408-6540
-  ssn: 461671232
-  dob: 10-23-1991
-  address: 1854 Cedar St
-  city: Houston
-  state: MA

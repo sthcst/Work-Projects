@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Ramirez,helen.ramirez5897@yahoo.com,(436) 786-2245,458 37 6556,03/28/1999,"8729 Maple Blvd",Austin,TX

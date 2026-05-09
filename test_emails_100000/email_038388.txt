@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Morgan,ronald.morgan4143@gmail.com,+1 988-233-7608,079-41-7828,07/26/2001,"2526 Elm Way",Jacksonville,VA

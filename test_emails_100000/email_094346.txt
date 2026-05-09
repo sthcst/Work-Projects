@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Alvarado
-  email: timothy.alvarado225@outlook.com
-  phone: 470-344-1709
-  ssn: 197 19 6239
-  dob: 04/01/1976
-  address: 3204 Birch Dr
-  city: Denver
-  state: TN

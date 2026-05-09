@@ -1,9 +1,0 @@
-contact:
-  name: Helen Peterson
-  email: helen.peterson6889@business.net
-  phone: (952) 234-5126
-  ssn: 748758084
-  dob: 07/24/1956
-  address: 3741 Maple St
-  city: Jacksonville
-  state: TX

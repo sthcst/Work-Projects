@@ -1,9 +1,0 @@
-contact:
-  name: Donald Evans
-  email: donald.evans987@work.org
-  phone: (581) 473-3185
-  ssn: 498-51-5823
-  dob: 16/08/2000
-  address: 7659 East Dr
-  city: San Antonio
-  state: TX

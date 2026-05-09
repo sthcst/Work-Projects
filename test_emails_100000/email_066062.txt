@@ -1,9 +1,0 @@
-contact:
-  name: Jane Garcia
-  email: jane.garcia1488@company.com
-  phone: 814-832-3476
-  ssn: 964-19-2358
-  dob: 04/02/2001
-  address: 7605 Park Blvd
-  city: Los Angeles
-  state: WI

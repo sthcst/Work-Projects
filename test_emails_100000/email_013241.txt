@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Williams,john.williams2438@example.com,417 968 1922,916-09-5288,11-09-1998,"1668 Main Ave",New York,CO

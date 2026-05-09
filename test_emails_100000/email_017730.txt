@@ -1,9 +1,0 @@
-contact:
-  name: Anna Reyes
-  email: anna.reyes4160@gmail.com
-  phone: 996-434-4243
-  ssn: 225 44 5362
-  dob: 05-15-1975
-  address: 6632 Summer Rd
-  city: Denver
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Reed
-  email: shirley.reed9844@example.com
-  phone: (580) 492-1963
-  ssn: 886 52 6128
-  dob: 06-11-1961
-  address: 8896 East Ln
-  city: Houston
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Harris,ryan.harris9810@outlook.com,971 752 7515,916 37 8506,05-03-1994,"6619 Fifth Rd",San Antonio,IL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Taylor,lauren.taylor5328@business.net,550 626 2441,351-38-9615,08-18-1964,"8492 Summer St",Austin,VA

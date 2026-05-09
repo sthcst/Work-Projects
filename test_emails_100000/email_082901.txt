@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Reed,rebecca.reed7835@business.net,(319) 953-6187,768 58 9849,11/02/2003,"1089 Third Court",Philadelphia,NC

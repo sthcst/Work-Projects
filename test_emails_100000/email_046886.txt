@@ -1,9 +1,0 @@
-contact:
-  name: Robert Lopez
-  email: robert.lopez2020@outlook.com
-  phone: 512 530 8050
-  ssn: 456 05 3051
-  dob: 9/7/2005
-  address: 5131 First Rd
-  city: Phoenix
-  state: DC

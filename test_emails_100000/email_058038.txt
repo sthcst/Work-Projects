@@ -1,9 +1,0 @@
-contact:
-  name: George Rodriguez
-  email: george.rodriguez3953@business.net
-  phone: (482) 813-9014
-  ssn: 246 60 7239
-  dob: 04/18/2000
-  address: 2001 Sixth Rd
-  city: Dallas
-  state: MD

@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Phillips
-  email: katherine.phillips1617@business.net
-  phone: +1 365-742-7909
-  ssn: 154-45-5951
-  dob: 12/11/1952
-  address: 8928 Main Way
-  city: Los Angeles
-  state: OH

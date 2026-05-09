@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Robinson,jason.robinson5987@outlook.com,284-758-4828,664607543,9/10/1975,"850 Second Way",Phoenix,AZ

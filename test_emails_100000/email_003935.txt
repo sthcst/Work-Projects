@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Rogers
-  email: shirley.rogers6564@mail.com
-  phone: +1 638-303-1376
-  ssn: 567219529
-  dob: 04/09/1977
-  address: 9919 Main Way
-  city: Jacksonville
-  state: TX

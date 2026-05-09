@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Collins,james.collins5930@work.org,784 818 8987,489 53 8815,3/3/1966,"8332 First Ave",Boston,NC

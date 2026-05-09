@@ -1,9 +1,0 @@
-contact:
-  name: Michael Dominguez
-  email: michael.dominguez8771@company.com
-  phone: +1 456-786-5012
-  ssn: 753-24-6237
-  dob: 05/06/1993
-  address: 8139 Fifth Rd
-  city: Austin
-  state: AZ

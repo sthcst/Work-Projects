@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Smith
-  email: joshua.smith7090@work.org
-  phone: +1 562-346-8491
-  ssn: 150-10-9305
-  dob: 12/22/1981
-  address: 592 First Ln
-  city: San Diego
-  state: MD

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Hernandez,george.hernandez150@example.com,+1 657-626-9092,276-85-4553,04-23-1981,"6185 Fifth Court",Boston,NJ

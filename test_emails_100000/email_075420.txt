@@ -1,9 +1,0 @@
-contact:
-  name: Angela Hall
-  email: angela.hall8196@mail.com
-  phone: (300) 630-5246
-  ssn: 668302042
-  dob: 4/5/2002
-  address: 8757 Third Ave
-  city: Washington
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Stewart,kathleen.stewart7645@mail.com,276 748 6367,761 30 3974,19/03/1982,"8397 Maple Dr",Boston,FL

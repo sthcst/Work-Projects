@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer White,jennifer.white1724@company.com,650-516-7956,441 12 7372,11/06/1980,"4469 West Court",San Diego,MO

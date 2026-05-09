@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Campbell
-  email: shirley.campbell5906@example.com
-  phone: 798 673 3888
-  ssn: 256 21 4385
-  dob: 16/04/1998
-  address: 1300 Second Court
-  city: Philadelphia
-  state: MO

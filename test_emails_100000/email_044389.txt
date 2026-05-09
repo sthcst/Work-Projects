@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Martinez,christine.martinez7764@gmail.com,497 821 6196,958203705,4/11/1992,"4869 West St",San Diego,AZ

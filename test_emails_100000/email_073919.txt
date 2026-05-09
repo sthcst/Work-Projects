@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Cooper,william.cooper2256@mail.com,285-682-2188,521746908,9/13/1983,"5848 Maple Dr",San Antonio,NJ

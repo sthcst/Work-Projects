@@ -1,9 +1,0 @@
-contact:
-  name: Michael Collins
-  email: michael.collins5667@mail.com
-  phone: +1 757-705-1318
-  ssn: 244253353
-  dob: 4/20/1984
-  address: 3567 Fifth Way
-  city: New York
-  state: IL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Rogers,maria.rogers9271@yahoo.com,967 761 9606,110-71-9166,08-24-2000,"9317 Elm Dr",San Antonio,NC

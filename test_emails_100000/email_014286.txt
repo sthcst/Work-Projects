@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Delgado
-  email: matthew.delgado7462@business.net
-  phone: +1 504-881-4179
-  ssn: 770593691
-  dob: 13/11/1986
-  address: 6043 Birch Dr
-  city: Dallas
-  state: FL

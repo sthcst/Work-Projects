@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Murillo,william.murillo8452@work.org,694-754-6469,886-58-4526,03-27-1979,"4901 Oak Blvd",Washington,TX

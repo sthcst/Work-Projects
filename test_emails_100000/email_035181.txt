@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Cooper,ryan.cooper6424@mail.com,607 994 2046,828967191,7/5/1988,"3993 Elm Blvd",Phoenix,AZ

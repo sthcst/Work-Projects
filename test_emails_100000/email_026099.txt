@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Anderson,lisa.anderson1098@example.com,+1 944-347-6054,888-17-2067,12/7/1989,"2551 Cedar Ln",San Antonio,CO

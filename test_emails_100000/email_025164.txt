@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Stewart,pamela.stewart9090@gmail.com,489-907-3388,941 99 9957,01-22-1970,"791 Sixth Court",Jacksonville,CA

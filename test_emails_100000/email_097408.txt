@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Miller,nicholas.miller4368@gmail.com,+1 454-547-1530,480 25 7782,1/16/1973,"1875 Birch Blvd",Seattle,CO

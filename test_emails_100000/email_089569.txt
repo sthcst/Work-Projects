@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Jackson,kimberly.jackson9111@gmail.com,495-660-4380,428 81 4336,14/06/2003,"6317 Second Rd",Boston,AZ

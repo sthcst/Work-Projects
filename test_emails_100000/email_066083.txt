@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Anderson,pamela.anderson2344@company.com,863 765 3636,849-72-4269,01-05-1990,"4993 West Blvd",San Diego,NJ

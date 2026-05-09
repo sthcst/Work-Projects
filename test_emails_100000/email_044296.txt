@@ -1,9 +1,0 @@
-contact:
-  name: Charles Phillips
-  email: charles.phillips7935@yahoo.com
-  phone: 999 420 4584
-  ssn: 019-43-1583
-  dob: 12/25/1976
-  address: 4895 Maple Blvd
-  city: San Antonio
-  state: GA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Reyes,kenneth.reyes4972@outlook.com,559-230-9087,207578368,11-12-1995,"5028 Second Ln",San Diego,TN

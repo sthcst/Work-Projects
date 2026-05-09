@@ -1,9 +1,0 @@
-contact:
-  name: Anna Nunez
-  email: anna.nunez1386@outlook.com
-  phone: 880-858-1947
-  ssn: 883953208
-  dob: 22/03/1952
-  address: 5757 Fourth St
-  city: Chicago
-  state: OH

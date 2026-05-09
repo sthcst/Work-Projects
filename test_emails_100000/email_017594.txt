@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Parker,christine.parker8628@work.org,(456) 243-9742,496791992,12/10/1952,"5710 First Dr",Austin,OH

@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Flores
-  email: joseph.flores3617@yahoo.com
-  phone: +1 943-710-3273
-  ssn: 704 55 7483
-  dob: 06/01/1988
-  address: 7671 Main Dr
-  city: New York
-  state: FL

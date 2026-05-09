@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Martin,megan.martin3828@yahoo.com,813-350-9686,463-13-1271,3/27/1966,"5767 Maple Court",Jacksonville,CA

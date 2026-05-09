@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Phillips,nicholas.phillips3932@example.com,601-776-3874,152 55 8887,14/02/1981,"4971 East Dr",Washington,WA

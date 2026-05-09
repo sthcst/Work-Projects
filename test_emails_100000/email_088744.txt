@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Peterson
-  email: timothy.peterson8966@yahoo.com
-  phone: (343) 892-5520
-  ssn: 655-86-4752
-  dob: 3/24/1969
-  address: 7741 Cedar Ave
-  city: Philadelphia
-  state: AZ

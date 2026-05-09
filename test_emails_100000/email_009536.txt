@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Clark,steven.clark9822@company.com,567-301-4148,188944938,11/20/1955,"7986 Summer Way",Houston,CA

@@ -1,9 +1,0 @@
-contact:
-  name: Paul Stewart
-  email: paul.stewart5929@mail.com
-  phone: 667 597 7548
-  ssn: 723-53-4986
-  dob: 08-07-1964
-  address: 6219 Oak Way
-  city: Washington
-  state: TX

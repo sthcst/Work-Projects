@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Roberts
-  email: amanda.roberts9727@yahoo.com
-  phone: (903) 368-1509
-  ssn: 860-24-9928
-  dob: 5/24/1990
-  address: 4327 Pine Rd
-  city: Boston
-  state: CO

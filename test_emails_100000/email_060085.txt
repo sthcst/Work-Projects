@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Roberts
-  email: samantha.roberts5574@example.com
-  phone: +1 207-685-6612
-  ssn: 040844673
-  dob: 12/19/1997
-  address: 373 Pine Dr
-  city: Los Angeles
-  state: MO

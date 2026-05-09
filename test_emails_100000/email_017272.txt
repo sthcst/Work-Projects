@@ -1,9 +1,0 @@
-contact:
-  name: Helen Nelson
-  email: helen.nelson5113@example.com
-  phone: (600) 579-3770
-  ssn: 916529605
-  dob: 09/16/1951
-  address: 6967 Oak St
-  city: Seattle
-  state: TX

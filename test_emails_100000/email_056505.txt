@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Martinez
-  email: matthew.martinez1163@work.org
-  phone: 749 749 7694
-  ssn: 059824032
-  dob: 09/27/1950
-  address: 3365 North Rd
-  city: San Antonio
-  state: MA

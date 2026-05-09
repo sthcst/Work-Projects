@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Campbell,edward.campbell3754@mail.com,+1 605-239-9123,098 72 3420,07/10/1965,"168 Park Way",Seattle,AZ

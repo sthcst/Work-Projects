@@ -1,9 +1,0 @@
-contact:
-  name: George Wilson
-  email: george.wilson1822@gmail.com
-  phone: 947 544 8422
-  ssn: 525321002
-  dob: 03/09/1991
-  address: 9384 Spring Ln
-  city: Jacksonville
-  state: AZ

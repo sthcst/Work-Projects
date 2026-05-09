@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Jimenez,stephanie.jimenez7065@outlook.com,+1 254-762-1994,449-43-8003,09/11/1956,"2473 South Ave",Chicago,PA

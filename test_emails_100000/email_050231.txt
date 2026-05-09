@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Thomas,brenda.thomas8452@work.org,(810) 766-8192,505606869,01/22/1976,"7598 Elm St",San Antonio,MA

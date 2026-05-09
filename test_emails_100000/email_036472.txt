@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Murillo
-  email: katherine.murillo329@company.com
-  phone: 973-261-4174
-  ssn: 458-63-6691
-  dob: 11/27/1992
-  address: 1267 Park Way
-  city: Chicago
-  state: FL

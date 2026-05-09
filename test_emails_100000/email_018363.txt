@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Morris,mark.morris6879@mail.com,225-218-8313,426 33 9542,07/07/1998,"2451 Birch Way",Washington,CO

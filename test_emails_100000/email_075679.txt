@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Walker
-  email: lisa.walker3160@company.com
-  phone: +1 281-728-1042
-  ssn: 023968059
-  dob: 07/07/1998
-  address: 9888 Pine St
-  city: Philadelphia
-  state: VA

@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Cooper
-  email: samantha.cooper3409@mail.com
-  phone: 738 892 1344
-  ssn: 351 79 2281
-  dob: 15/06/1951
-  address: 8663 Cedar Ave
-  city: Boston
-  state: MD

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Gomez,kenneth.gomez8960@outlook.com,298 737 2477,979 78 2179,04/20/2000,"953 West St",Austin,IL

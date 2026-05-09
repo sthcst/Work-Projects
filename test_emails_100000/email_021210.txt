@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Parker
-  email: nicholas.parker273@yahoo.com
-  phone: +1 967-369-7269
-  ssn: 873377118
-  dob: 13/09/1989
-  address: 9885 Main Dr
-  city: Washington
-  state: MO

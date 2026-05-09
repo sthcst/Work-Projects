@@ -1,9 +1,0 @@
-contact:
-  name: Brian Stewart
-  email: brian.stewart6293@gmail.com
-  phone: +1 789-743-8016
-  ssn: 506099266
-  dob: 10/16/1979
-  address: 692 Third Way
-  city: Washington
-  state: PA

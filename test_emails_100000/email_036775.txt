@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Reeves
-  email: ashley.reeves3235@company.com
-  phone: 781-872-3239
-  ssn: 547-18-1861
-  dob: 07/24/1984
-  address: 3719 East Ave
-  city: Denver
-  state: PA

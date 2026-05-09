@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Moore,jason.moore3007@company.com,644-826-1094,734161821,06-22-2004,"4781 Oak Ave",Washington,NY

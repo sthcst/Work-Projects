@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Rogers
-  email: anthony.rogers4312@gmail.com
-  phone: 394-435-4589
-  ssn: 258 46 5829
-  dob: 12/01/1975
-  address: 3191 Second St
-  city: Los Angeles
-  state: NY

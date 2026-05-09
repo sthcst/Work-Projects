@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Anderson
-  email: sarah.anderson6503@example.com
-  phone: +1 388-971-7285
-  ssn: 974158380
-  dob: 11-15-1988
-  address: 5236 East Ave
-  city: Chicago
-  state: AZ

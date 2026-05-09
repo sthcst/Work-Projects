@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Rogers
-  email: pamela.rogers898@company.com
-  phone: (229) 710-1479
-  ssn: 117-67-8571
-  dob: 15/10/1957
-  address: 4910 East Rd
-  city: San Antonio
-  state: MA

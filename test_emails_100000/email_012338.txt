@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Young,shirley.young3947@outlook.com,+1 415-935-8377,005701869,02/13/1997,"8448 Main Ave",Los Angeles,FL

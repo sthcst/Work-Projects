@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Martin,maria.martin6626@yahoo.com,484-235-8432,645-10-6016,01/28/1953,"5867 Spring Ave",New York,MA

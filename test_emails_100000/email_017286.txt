@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Jones,megan.jones4416@company.com,(823) 922-5046,026-42-2809,11/6/1998,"8349 East Way",Philadelphia,CO

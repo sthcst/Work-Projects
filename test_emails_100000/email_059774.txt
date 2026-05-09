@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Williams,jessica.williams734@company.com,+1 867-948-1737,923779392,08-13-1992,"1187 Fourth Ln",Seattle,TX

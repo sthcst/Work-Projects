@@ -1,9 +1,0 @@
-contact:
-  name: David Hall
-  email: david.hall2061@company.com
-  phone: 393 661 4137
-  ssn: 886-72-6846
-  dob: 23/07/2005
-  address: 8876 Fifth Ave
-  city: Philadelphia
-  state: OH

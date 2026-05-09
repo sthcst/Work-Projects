@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Romero,richard.romero8108@example.com,+1 504-677-7758,185-40-8982,09/12/1982,"3112 Third Way",Boston,WI

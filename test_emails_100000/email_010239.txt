@@ -1,9 +1,0 @@
-contact:
-  name: Mark Stewart
-  email: mark.stewart2953@example.com
-  phone: (468) 694-8995
-  ssn: 661 86 4660
-  dob: 22/11/1968
-  address: 9012 Park Blvd
-  city: Jacksonville
-  state: CO

@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Flores
-  email: joshua.flores8940@business.net
-  phone: 468 750 4729
-  ssn: 055 56 2115
-  dob: 03/11/1988
-  address: 6945 Third Blvd
-  city: New York
-  state: MA

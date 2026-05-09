@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Reeves
-  email: matthew.reeves2979@yahoo.com
-  phone: (294) 490-6148
-  ssn: 632 41 2184
-  dob: 8/1/1982
-  address: 7892 Maple Way
-  city: Philadelphia
-  state: AZ

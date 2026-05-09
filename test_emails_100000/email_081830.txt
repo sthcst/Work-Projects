@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Evans,jacob.evans1906@work.org,+1 283-351-9306,920407230,09/02/1995,"5810 South Way",Denver,WA

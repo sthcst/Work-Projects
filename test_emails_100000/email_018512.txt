@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Rogers,timothy.rogers2670@gmail.com,462-912-7093,001481963,02/08/1956,"6511 Fourth Way",Phoenix,CA

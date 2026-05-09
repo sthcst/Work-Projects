@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Serrano
-  email: andrew.serrano6895@gmail.com
-  phone: +1 408-284-6684
-  ssn: 726821364
-  dob: 11/07/1986
-  address: 8602 Spring Dr
-  city: Washington
-  state: NY

@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Davis
-  email: cynthia.davis5602@outlook.com
-  phone: 571-996-3902
-  ssn: 252937334
-  dob: 07-07-1984
-  address: 482 Second Dr
-  city: New York
-  state: TX

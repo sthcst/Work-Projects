@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Serrano,daniel.serrano3843@mail.com,215 537 4508,320 19 8577,09/11/1979,"8948 Fourth Ln",San Antonio,GA

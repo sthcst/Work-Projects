@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Walker
-  email: andrew.walker9150@outlook.com
-  phone: (685) 988-9602
-  ssn: 638 77 6831
-  dob: 08-22-1990
-  address: 7810 Park Court
-  city: San Antonio
-  state: GA

@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Gonzalez
-  email: michelle.gonzalez6768@example.com
-  phone: 552-807-1134
-  ssn: 131 09 9462
-  dob: 9/10/1989
-  address: 306 South Blvd
-  city: Los Angeles
-  state: MA

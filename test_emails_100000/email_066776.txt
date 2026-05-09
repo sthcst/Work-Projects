@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Reed,jeffrey.reed3769@outlook.com,989-864-1932,351362405,04/28/2001,"3784 Birch Dr",Phoenix,PA

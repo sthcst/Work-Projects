@@ -1,9 +1,0 @@
-contact:
-  name: James Reeves
-  email: james.reeves3705@business.net
-  phone: (468) 219-4549
-  ssn: 675848099
-  dob: 13/04/2004
-  address: 5538 South St
-  city: Washington
-  state: FL

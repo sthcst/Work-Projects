@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Murillo,charles.murillo8528@mail.com,560 661 1998,665-98-9753,03/09/1987,"5405 Spring Court",Philadelphia,CA

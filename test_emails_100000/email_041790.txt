@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Murillo,charles.murillo1467@business.net,(936) 997-4484,378-74-9446,01/23/1953,"960 Maple Blvd",Philadelphia,AZ

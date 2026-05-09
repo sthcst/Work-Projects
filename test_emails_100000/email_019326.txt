@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Flores
-  email: jennifer.flores1042@company.com
-  phone: 416 205 6787
-  ssn: 736641296
-  dob: 09/28/1979
-  address: 4138 Elm Blvd
-  city: San Antonio
-  state: CA

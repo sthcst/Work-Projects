@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Clark
-  email: jacob.clark9060@outlook.com
-  phone: +1 245-374-8294
-  ssn: 972211506
-  dob: 16/12/1963
-  address: 1296 West Blvd
-  city: Los Angeles
-  state: TN

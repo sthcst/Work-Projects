@@ -1,9 +1,0 @@
-contact:
-  name: Gary Miller
-  email: gary.miller2054@example.com
-  phone: (750) 685-7957
-  ssn: 996-31-6959
-  dob: 07/02/1953
-  address: 401 Spring Rd
-  city: Houston
-  state: WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Robinson,paul.robinson373@outlook.com,+1 557-579-8886,914 65 3241,11/4/1957,"998 Maple Court",Phoenix,DC

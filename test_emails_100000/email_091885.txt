@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Reeves,kenneth.reeves7346@example.com,+1 438-328-8793,236524860,02-17-1988,"434 West Ln",Los Angeles,NJ

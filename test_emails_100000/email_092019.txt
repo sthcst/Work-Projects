@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Romero
-  email: matthew.romero4140@mail.com
-  phone: +1 662-724-9136
-  ssn: 401586312
-  dob: 11-05-1973
-  address: 5058 First Rd
-  city: San Diego
-  state: TX

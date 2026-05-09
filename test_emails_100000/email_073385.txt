@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Stewart,timothy.stewart3226@example.com,848 485 5091,022 51 3695,10/05/1954,"8719 Park Ave",Phoenix,MA

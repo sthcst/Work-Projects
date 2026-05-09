@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Edwards
-  email: amanda.edwards1377@company.com
-  phone: 901-631-2495
-  ssn: 903-72-7985
-  dob: 07/20/1978
-  address: 2629 Second Rd
-  city: Austin
-  state: OH

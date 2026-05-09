@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Morris
-  email: cynthia.morris4664@outlook.com
-  phone: 817 746 3594
-  ssn: 825 15 9846
-  dob: 02/23/2002
-  address: 2041 Cedar Rd
-  city: San Jose
-  state: WA

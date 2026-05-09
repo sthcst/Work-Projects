@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Morgan,gary.morgan5593@work.org,431-814-9404,566 36 9904,2/6/1992,"968 Fifth Way",New York,AZ

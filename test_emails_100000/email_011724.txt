@@ -1,9 +1,0 @@
-contact:
-  name: Helen Reed
-  email: helen.reed9213@yahoo.com
-  phone: +1 379-858-8439
-  ssn: 836-94-1547
-  dob: 05-18-1995
-  address: 949 Elm Court
-  city: Boston
-  state: DC

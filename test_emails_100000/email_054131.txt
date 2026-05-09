@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Taylor
-  email: nicholas.taylor658@example.com
-  phone: +1 562-987-7818
-  ssn: 458-66-4718
-  dob: 02-19-1950
-  address: 106 Elm Ave
-  city: Los Angeles
-  state: DC

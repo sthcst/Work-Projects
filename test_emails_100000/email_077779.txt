@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Williams
-  email: brenda.williams4090@mail.com
-  phone: 512 374 8378
-  ssn: 335 39 2369
-  dob: 24/12/1981
-  address: 4692 Birch Blvd
-  city: San Diego
-  state: IL

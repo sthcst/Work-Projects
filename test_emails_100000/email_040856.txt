@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Lopez
-  email: lisa.lopez5111@business.net
-  phone: (565) 570-3811
-  ssn: 029 53 3026
-  dob: 03/15/1991
-  address: 9269 Main St
-  city: Los Angeles
-  state: MI

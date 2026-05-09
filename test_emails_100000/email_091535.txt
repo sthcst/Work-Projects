@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Wilson,robert.wilson7283@gmail.com,(860) 382-4565,094821839,19/02/1994,"3413 Fifth Ln",Los Angeles,TX

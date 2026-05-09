@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Serrano,anthony.serrano963@example.com,+1 210-525-9176,503 62 8020,09-28-1992,"7801 North Ln",Chicago,TN

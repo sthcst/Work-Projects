@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Alvarado
-  email: amanda.alvarado7491@mail.com
-  phone: 493-517-6184
-  ssn: 880 81 8308
-  dob: 12-18-1960
-  address: 7205 West Blvd
-  city: Jacksonville
-  state: NC

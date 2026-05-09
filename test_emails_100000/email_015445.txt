@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Ramirez
-  email: samantha.ramirez3844@business.net
-  phone: 366-775-8397
-  ssn: 305 72 8344
-  dob: 6/8/1955
-  address: 8279 Fifth Ave
-  city: Austin
-  state: WA

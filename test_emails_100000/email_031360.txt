@@ -1,9 +1,0 @@
-contact:
-  name: Maria Jackson
-  email: maria.jackson6743@mail.com
-  phone: 483 603 2836
-  ssn: 415 53 3107
-  dob: 01-18-1953
-  address: 8696 Third Dr
-  city: Jacksonville
-  state: CA

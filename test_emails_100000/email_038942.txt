@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Williams,edward.williams4117@example.com,229 597 8177,461 63 2972,19/04/2002,"2100 Maple Court",Houston,WI

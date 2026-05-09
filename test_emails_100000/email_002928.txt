@@ -1,9 +1,0 @@
-contact:
-  name: Edward Young
-  email: edward.young5277@mail.com
-  phone: +1 990-766-9572
-  ssn: 022-90-9731
-  dob: 6/5/1974
-  address: 7342 Park Rd
-  city: Seattle
-  state: MA

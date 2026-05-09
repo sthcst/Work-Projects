@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Lewis,cynthia.lewis9915@company.com,429-908-4447,606337692,2/21/2003,"2976 Oak Dr",Philadelphia,NY

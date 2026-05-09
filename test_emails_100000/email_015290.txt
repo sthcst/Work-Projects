@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Anderson
-  email: jennifer.anderson6370@example.com
-  phone: 408-539-4366
-  ssn: 845-72-1886
-  dob: 06-25-1992
-  address: 6981 North Ln
-  city: Boston
-  state: WA

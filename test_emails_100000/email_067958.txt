@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Lopez,samantha.lopez5854@outlook.com,+1 543-618-7012,630-59-8155,04-16-1978,"3730 Pine St",San Diego,WI

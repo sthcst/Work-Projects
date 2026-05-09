@@ -1,9 +1,0 @@
-contact:
-  name: Helen Wilson
-  email: helen.wilson8071@company.com
-  phone: +1 342-857-7618
-  ssn: 739682681
-  dob: 15/11/1954
-  address: 5226 Oak Ave
-  city: Austin
-  state: PA

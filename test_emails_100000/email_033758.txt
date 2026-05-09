@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Campbell
-  email: jennifer.campbell9436@business.net
-  phone: +1 325-219-6745
-  ssn: 841-08-3876
-  dob: 3/18/1974
-  address: 9559 Oak Way
-  city: Los Angeles
-  state: VA

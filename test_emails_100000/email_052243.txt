@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Jones
-  email: christopher.jones1001@business.net
-  phone: (893) 997-8806
-  ssn: 052-08-2312
-  dob: 9/16/1960
-  address: 7481 Pine Way
-  city: Phoenix
-  state: CA

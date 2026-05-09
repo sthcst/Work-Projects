@@ -1,9 +1,0 @@
-contact:
-  name: Megan Thomas
-  email: megan.thomas9925@mail.com
-  phone: (754) 477-4447
-  ssn: 726115079
-  dob: 11-14-1961
-  address: 9455 Elm Blvd
-  city: Dallas
-  state: AZ

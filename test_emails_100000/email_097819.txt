@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Murillo,james.murillo375@work.org,+1 388-609-2947,789-34-5248,03/06/1977,"3271 Birch Ave",Seattle,CA

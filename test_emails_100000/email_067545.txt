@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Williams,katherine.williams3218@yahoo.com,510 851 5995,995 14 7606,03/23/1955,"7496 Cedar Way",Boston,MI

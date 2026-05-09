@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Ramirez,william.ramirez5204@outlook.com,+1 973-260-9360,852 03 2845,4/14/1981,"5347 North Ln",Los Angeles,CA

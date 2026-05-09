@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Carter
-  email: anthony.carter3064@mail.com
-  phone: +1 446-897-9842
-  ssn: 930139411
-  dob: 17/05/1975
-  address: 6859 Spring Blvd
-  city: Philadelphia
-  state: DC

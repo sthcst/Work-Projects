@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Dominguez,rebecca.dominguez6205@mail.com,+1 852-681-8489,068-64-7012,01-14-1998,"1924 Main St",Seattle,FL

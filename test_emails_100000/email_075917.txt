@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Romero,christopher.romero8877@example.com,+1 626-908-1602,032 37 7651,9/6/1991,"8328 North Dr",Denver,OH

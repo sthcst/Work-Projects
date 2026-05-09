@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Bell
-  email: rebecca.bell2300@work.org
-  phone: +1 699-701-3477
-  ssn: 839-73-5716
-  dob: 11/5/1967
-  address: 2557 First Blvd
-  city: Los Angeles
-  state: TN

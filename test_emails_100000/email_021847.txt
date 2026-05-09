@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Rogers,kathleen.rogers4223@mail.com,890 872 5114,110 45 1510,10-03-1956,"133 Park Ave",Boston,NY

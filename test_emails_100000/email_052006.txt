@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Williams
-  email: ronald.williams2028@yahoo.com
-  phone: (501) 840-9582
-  ssn: 901 22 8321
-  dob: 05/16/1988
-  address: 991 West Way
-  city: San Diego
-  state: TX

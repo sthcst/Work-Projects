@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Bell,ronald.bell8389@outlook.com,495 489 3760,093-58-6805,18/04/1967,"6686 Oak Dr",Jacksonville,TX

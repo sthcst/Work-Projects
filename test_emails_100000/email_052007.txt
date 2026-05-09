@@ -1,9 +1,0 @@
-contact:
-  name: Jane Morris
-  email: jane.morris3346@gmail.com
-  phone: 897 696 9697
-  ssn: 157064334
-  dob: 5/8/1995
-  address: 2016 West Way
-  city: Seattle
-  state: WA

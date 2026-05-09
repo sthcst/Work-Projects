@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Peterson
-  email: ashley.peterson1866@outlook.com
-  phone: 646 480 1010
-  ssn: 901-93-9059
-  dob: 01/23/1999
-  address: 16 Main St
-  city: San Jose
-  state: NC

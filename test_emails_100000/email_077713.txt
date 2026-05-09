@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Serrano,matthew.serrano7482@mail.com,(281) 626-7628,699-26-9353,06/03/1965,"1494 Fifth Dr",Austin,AZ

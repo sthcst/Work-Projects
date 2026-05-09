@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Reeves
-  email: andrew.reeves3287@example.com
-  phone: 509 944 7977
-  ssn: 634-16-5405
-  dob: 12-21-1997
-  address: 788 East Court
-  city: San Diego
-  state: VA

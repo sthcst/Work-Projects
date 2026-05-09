@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Wilson,deborah.wilson1866@gmail.com,+1 306-467-3002,793-52-4834,24/08/1989,"3761 Third Way",New York,NJ

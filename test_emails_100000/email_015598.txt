@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Williams,matthew.williams8921@mail.com,+1 344-789-1540,948-68-6580,13/01/1974,"5712 Second Rd",Austin,CA

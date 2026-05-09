@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Phillips,pamela.phillips5241@company.com,(659) 558-9589,142-85-7161,8/8/1983,"3784 Park Dr",New York,AZ

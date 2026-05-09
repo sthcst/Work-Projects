@@ -1,9 +1,0 @@
-contact:
-  name: James Brown
-  email: james.brown9934@gmail.com
-  phone: 356 338 7678
-  ssn: 643 73 9907
-  dob: 11/17/1998
-  address: 3204 Birch Rd
-  city: Philadelphia
-  state: MD

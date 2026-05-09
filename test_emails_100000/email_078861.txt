@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Flores,samantha.flores1133@business.net,849-320-2581,930-59-1076,06-01-2002,"540 Main Court",New York,NJ

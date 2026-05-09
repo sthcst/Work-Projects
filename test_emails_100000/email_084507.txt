@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Taylor
-  email: jacob.taylor6575@company.com
-  phone: 390-884-7768
-  ssn: 377-85-2134
-  dob: 11/01/1950
-  address: 8065 Third Blvd
-  city: Seattle
-  state: CA

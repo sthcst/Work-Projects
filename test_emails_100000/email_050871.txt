@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Hernandez,robert.hernandez8787@work.org,764 984 8985,685 40 9767,8/2/1959,"6495 Maple St",Boston,MO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Collins,daniel.collins8304@company.com,(331) 565-4881,894-93-3171,3/4/1970,"4892 Third Ave",New York,TN

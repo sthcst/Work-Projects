@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Thompson,lauren.thompson7332@company.com,690 504 5339,437-57-4190,2/20/1952,"9648 Birch St",Dallas,NJ

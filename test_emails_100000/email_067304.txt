@@ -1,9 +1,0 @@
-contact:
-  name: Paul Ortiz
-  email: paul.ortiz3612@gmail.com
-  phone: +1 202-993-3358
-  ssn: 215-86-7088
-  dob: 04/18/1981
-  address: 2496 Birch Blvd
-  city: Dallas
-  state: FL

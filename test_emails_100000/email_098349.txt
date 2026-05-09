@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Gonzalez
-  email: kimberly.gonzalez726@yahoo.com
-  phone: +1 581-782-2984
-  ssn: 841 74 4616
-  dob: 1/14/1994
-  address: 8557 Maple St
-  city: Chicago
-  state: MO

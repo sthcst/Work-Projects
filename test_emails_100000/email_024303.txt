@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Nunez
-  email: pamela.nunez6856@business.net
-  phone: 979 793 8423
-  ssn: 239-62-5323
-  dob: 8/24/1958
-  address: 5460 Cedar Dr
-  city: Washington
-  state: FL

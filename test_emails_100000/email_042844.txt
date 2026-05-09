@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Dominguez
-  email: kimberly.dominguez7735@work.org
-  phone: 811 221 4766
-  ssn: 367-21-6500
-  dob: 12/19/1994
-  address: 6563 West Rd
-  city: San Diego
-  state: FL

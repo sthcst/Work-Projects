@@ -1,9 +1,0 @@
-contact:
-  name: Emily Miller
-  email: emily.miller8314@outlook.com
-  phone: (261) 929-9590
-  ssn: 866-35-5218
-  dob: 4/7/1974
-  address: 3248 Summer St
-  city: Chicago
-  state: TX

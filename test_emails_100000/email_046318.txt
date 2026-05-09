@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Peterson,george.peterson2676@company.com,824 761 3740,722631059,14/01/1988,"6256 Oak St",San Jose,NY

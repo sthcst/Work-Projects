@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Hall
-  email: matthew.hall1116@gmail.com
-  phone: 609 377 4354
-  ssn: 616-59-5054
-  dob: 05/22/1972
-  address: 193 Main Dr
-  city: San Diego
-  state: GA

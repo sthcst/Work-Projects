@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Thomas,pamela.thomas6745@yahoo.com,(394) 683-6824,232-10-2247,01-11-1968,"7534 Fourth Blvd",Austin,WI

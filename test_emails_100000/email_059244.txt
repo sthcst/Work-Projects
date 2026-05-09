@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Evans
-  email: ryan.evans2232@example.com
-  phone: 346-598-4439
-  ssn: 427-23-8319
-  dob: 7/23/1950
-  address: 3821 South Ave
-  city: Phoenix
-  state: FL

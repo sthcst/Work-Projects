@@ -1,9 +1,0 @@
-contact:
-  name: Mark White
-  email: mark.white6603@mail.com
-  phone: 681 778 9767
-  ssn: 330859421
-  dob: 25/03/1951
-  address: 7342 Pine St
-  city: Washington
-  state: CA

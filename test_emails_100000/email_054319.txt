@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Guerrero,jacob.guerrero2227@gmail.com,(600) 732-3004,562-43-7759,06-20-1958,"9365 Elm Rd",Houston,CA

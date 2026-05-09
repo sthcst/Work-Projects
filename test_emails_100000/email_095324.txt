@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Gomez,george.gomez3621@yahoo.com,929-433-4068,373347895,08-22-1964,"9000 First Blvd",Phoenix,FL

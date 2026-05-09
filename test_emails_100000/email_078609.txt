@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Nelson,jacob.nelson5786@yahoo.com,+1 431-910-2816,376148139,12/16/1980,"8220 East Way",Seattle,PA

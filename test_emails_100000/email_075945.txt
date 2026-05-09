@@ -1,9 +1,0 @@
-contact:
-  name: Robert Jones
-  email: robert.jones8434@work.org
-  phone: (912) 827-5332
-  ssn: 077-48-2010
-  dob: 12/20/1959
-  address: 7186 Second Dr
-  city: Austin
-  state: AZ

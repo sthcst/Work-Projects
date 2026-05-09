@@ -1,9 +1,0 @@
-contact:
-  name: George Hall
-  email: george.hall4448@gmail.com
-  phone: +1 399-235-2676
-  ssn: 928055693
-  dob: 08-13-2002
-  address: 7914 Oak Blvd
-  city: San Diego
-  state: MA

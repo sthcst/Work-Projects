@@ -1,9 +1,0 @@
-contact:
-  name: Donald Wilson
-  email: donald.wilson2205@mail.com
-  phone: (612) 242-5667
-  ssn: 197-61-3186
-  dob: 17/06/1991
-  address: 9836 Oak Blvd
-  city: Austin
-  state: MI

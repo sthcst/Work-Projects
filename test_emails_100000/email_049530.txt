@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Nunez
-  email: stephanie.nunez1680@yahoo.com
-  phone: 696-405-2653
-  ssn: 379498865
-  dob: 18/04/1978
-  address: 4427 Park Way
-  city: Denver
-  state: NY

@@ -1,9 +1,0 @@
-contact:
-  name: Paul Davis
-  email: paul.davis408@company.com
-  phone: 662 565 3505
-  ssn: 843 94 5292
-  dob: 05/02/1959
-  address: 526 North Way
-  city: Houston
-  state: NJ

@@ -1,9 +1,0 @@
-contact:
-  name: Ashley White
-  email: ashley.white5974@work.org
-  phone: (909) 891-8493
-  ssn: 972-87-5406
-  dob: 08/10/1983
-  address: 3468 North Rd
-  city: Chicago
-  state: IL

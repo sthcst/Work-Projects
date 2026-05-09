@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Brown,brian.brown9046@gmail.com,(725) 570-5626,849 81 9728,05-09-1993,"3005 Elm Ave",Los Angeles,FL

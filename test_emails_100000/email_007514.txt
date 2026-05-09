@@ -1,9 +1,0 @@
-contact:
-  name: Emma Thompson
-  email: emma.thompson93@gmail.com
-  phone: 265 645 1072
-  ssn: 488-59-9757
-  dob: 14/08/1972
-  address: 666 Pine Dr
-  city: Austin
-  state: NJ

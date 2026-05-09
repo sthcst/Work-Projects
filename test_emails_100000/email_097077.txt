@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Ramirez,samantha.ramirez8037@yahoo.com,427-524-5632,654 34 4254,10/28/1974,"2482 Summer Ln",San Diego,PA

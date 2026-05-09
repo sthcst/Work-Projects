@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Delgado,deborah.delgado8514@company.com,852-919-8690,462182264,10/25/1980,"8904 Park St",Houston,MI

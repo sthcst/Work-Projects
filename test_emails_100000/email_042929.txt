@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Carter
-  email: joseph.carter6369@mail.com
-  phone: 809-428-7691
-  ssn: 496071869
-  dob: 06-11-2000
-  address: 8547 Second St
-  city: Phoenix
-  state: FL

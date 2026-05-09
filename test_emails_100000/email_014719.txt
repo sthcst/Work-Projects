@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Stewart,maria.stewart5297@mail.com,(953) 206-7936,278 37 9853,10-22-1966,"9522 Second Ave",San Antonio,IL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Clark,deborah.clark4232@mail.com,+1 402-456-9262,009-87-6593,01/10/1991,"7452 Birch Ave",San Diego,CA

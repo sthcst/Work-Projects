@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Phillips
-  email: stephanie.phillips5540@work.org
-  phone: 470 340 9139
-  ssn: 577 43 1441
-  dob: 09-21-1964
-  address: 6953 Birch St
-  city: Boston
-  state: CA

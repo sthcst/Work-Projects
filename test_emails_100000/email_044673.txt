@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Romero,lisa.romero4846@outlook.com,(358) 461-4340,402 66 6781,5/10/1985,"1392 Park Court",Austin,MO

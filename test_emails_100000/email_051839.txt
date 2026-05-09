@@ -1,9 +1,0 @@
-contact:
-  name: David Clark
-  email: david.clark920@outlook.com
-  phone: (708) 848-7680
-  ssn: 742 41 5227
-  dob: 4/15/1995
-  address: 9958 Maple Court
-  city: Dallas
-  state: NY

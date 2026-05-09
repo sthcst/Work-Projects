@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Jones,steven.jones8648@work.org,517-219-5877,827 20 9408,06-04-1998,"6879 Elm Court",Dallas,WA

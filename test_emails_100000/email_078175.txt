@@ -1,9 +1,0 @@
-contact:
-  name: Helen Anderson
-  email: helen.anderson4148@work.org
-  phone: 213 389 3246
-  ssn: 461-82-9719
-  dob: 9/7/1995
-  address: 9636 Oak Ave
-  city: New York
-  state: PA

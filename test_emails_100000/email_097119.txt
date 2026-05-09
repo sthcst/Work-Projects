@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Dominguez,amanda.dominguez5060@outlook.com,(439) 254-3893,260 44 1877,11-18-1979,"1240 South Rd",Philadelphia,NY

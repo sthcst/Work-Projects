@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Perez
-  email: joseph.perez2460@company.com
-  phone: 332-564-9623
-  ssn: 697 20 6453
-  dob: 07-17-1986
-  address: 3857 Summer Ave
-  city: Dallas
-  state: WI

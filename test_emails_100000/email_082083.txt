@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Parker,ronald.parker4685@gmail.com,+1 431-525-1752,192299904,9/18/1961,"8939 Birch Ln",Washington,MO

@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Campbell
-  email: matthew.campbell6203@company.com
-  phone: 575-276-3644
-  ssn: 640 15 3015
-  dob: 5/25/1981
-  address: 4133 East Dr
-  city: Philadelphia
-  state: NC

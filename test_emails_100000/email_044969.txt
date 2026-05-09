@@ -1,9 +1,0 @@
-contact:
-  name: Paul Wilson
-  email: paul.wilson7444@company.com
-  phone: 658 389 2545
-  ssn: 764 03 7228
-  dob: 16/02/1963
-  address: 3809 Spring Rd
-  city: Austin
-  state: TX

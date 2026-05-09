@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Parker
-  email: stephanie.parker8646@gmail.com
-  phone: 923-753-1025
-  ssn: 790-83-1133
-  dob: 23/04/1951
-  address: 4412 Fifth St
-  city: New York
-  state: CO

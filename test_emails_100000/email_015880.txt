@@ -1,9 +1,0 @@
-contact:
-  name: Edward Hall
-  email: edward.hall8186@gmail.com
-  phone: 963 562 1909
-  ssn: 638-58-3664
-  dob: 07-08-2004
-  address: 4134 Main Ln
-  city: Dallas
-  state: NC

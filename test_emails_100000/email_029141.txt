@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Morgan
-  email: sarah.morgan6412@example.com
-  phone: 479 455 3823
-  ssn: 746 16 6597
-  dob: 18/10/1972
-  address: 2504 Main Blvd
-  city: Dallas
-  state: NC

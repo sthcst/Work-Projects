@@ -1,9 +1,0 @@
-contact:
-  name: William Hernandez
-  email: william.hernandez22@gmail.com
-  phone: 282-343-8970
-  ssn: 550-16-6274
-  dob: 06-22-1955
-  address: 2480 North St
-  city: Los Angeles
-  state: FL

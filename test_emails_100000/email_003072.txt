@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Young
-  email: lisa.young2090@work.org
-  phone: +1 606-290-7165
-  ssn: 983 28 9223
-  dob: 09/04/2000
-  address: 7522 Maple Rd
-  city: Austin
-  state: TX

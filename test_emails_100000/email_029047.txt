@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Reeves,kathleen.reeves5834@example.com,751-706-6763,261-40-1482,10-01-1986,"6004 Third Way",Denver,OH

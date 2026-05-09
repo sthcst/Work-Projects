@@ -1,9 +1,0 @@
-contact:
-  name: James Davis
-  email: james.davis2996@work.org
-  phone: +1 793-801-5280
-  ssn: 305-67-3141
-  dob: 05/13/1987
-  address: 1221 First Rd
-  city: Seattle
-  state: PA

@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Stewart
-  email: timothy.stewart9200@example.com
-  phone: 438-688-2444
-  ssn: 932673495
-  dob: 11/05/1986
-  address: 4257 Second St
-  city: San Jose
-  state: CA

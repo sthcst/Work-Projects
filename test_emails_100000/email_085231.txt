@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Phillips
-  email: jeffrey.phillips2025@mail.com
-  phone: 677 390 7147
-  ssn: 524-20-1753
-  dob: 06-16-1971
-  address: 4490 Elm Court
-  city: Los Angeles
-  state: FL

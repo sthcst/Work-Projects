@@ -1,9 +1,0 @@
-contact:
-  name: Edward Edwards
-  email: edward.edwards5479@example.com
-  phone: +1 670-275-1486
-  ssn: 171804851
-  dob: 10/03/1960
-  address: 3854 Cedar Way
-  city: Chicago
-  state: MA

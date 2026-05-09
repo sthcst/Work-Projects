@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Smith,ryan.smith4722@yahoo.com,(561) 556-3826,960 62 7076,10/21/2000,"1066 Fifth Way",Boston,TX

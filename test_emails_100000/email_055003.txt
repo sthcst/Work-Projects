@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Serrano,lauren.serrano5820@example.com,296 826 6406,555-23-3227,04/27/1985,"3750 Maple Rd",Denver,FL

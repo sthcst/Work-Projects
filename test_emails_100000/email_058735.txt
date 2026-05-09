@@ -1,9 +1,0 @@
-contact:
-  name: Paul Moore
-  email: paul.moore3761@mail.com
-  phone: 789-504-7606
-  ssn: 309 94 3400
-  dob: 12/25/1997
-  address: 933 North Way
-  city: Boston
-  state: AZ

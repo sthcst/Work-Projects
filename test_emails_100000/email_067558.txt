@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Thompson,ryan.thompson6568@outlook.com,+1 531-860-6328,524 08 2746,06/08/1981,"6885 Fifth Court",San Diego,PA

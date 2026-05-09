@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Dominguez,shirley.dominguez9501@example.com,927-206-2387,593 40 5300,11/27/1973,"8796 Spring Dr",Jacksonville,NJ

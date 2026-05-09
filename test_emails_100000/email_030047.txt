@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Clark,christopher.clark6598@gmail.com,901-261-3428,924737835,2/22/1989,"5241 Oak Rd",San Diego,TX

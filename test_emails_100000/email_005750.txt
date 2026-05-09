@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Peterson,andrew.peterson4628@mail.com,+1 432-812-3631,518-44-5178,02/05/1981,"9161 Second Way",San Jose,MD

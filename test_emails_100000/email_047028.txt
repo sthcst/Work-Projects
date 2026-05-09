@@ -1,9 +1,0 @@
-contact:
-  name: Christine Robinson
-  email: christine.robinson4361@example.com
-  phone: 314 216 2419
-  ssn: 020178431
-  dob: 08-04-1953
-  address: 327 Maple Dr
-  city: Houston
-  state: TX

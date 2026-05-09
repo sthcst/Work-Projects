@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Moore,rebecca.moore195@company.com,+1 424-884-2546,104-16-6389,2/8/1997,"7343 East Way",Boston,FL

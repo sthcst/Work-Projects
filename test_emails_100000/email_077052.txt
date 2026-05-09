@@ -1,9 +1,0 @@
-contact:
-  name: Angela Reed
-  email: angela.reed4088@outlook.com
-  phone: +1 637-870-2070
-  ssn: 088979184
-  dob: 11/19/1960
-  address: 5138 Elm St
-  city: Austin
-  state: OH

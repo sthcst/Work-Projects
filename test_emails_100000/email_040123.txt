@@ -1,9 +1,0 @@
-contact:
-  name: Paul Sanchez
-  email: paul.sanchez8587@business.net
-  phone: (779) 862-6358
-  ssn: 487-70-2512
-  dob: 24/10/1955
-  address: 1882 Oak Way
-  city: Los Angeles
-  state: PA

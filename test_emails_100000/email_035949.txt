@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Rodriguez
-  email: pamela.rodriguez4989@mail.com
-  phone: 747 787 2266
-  ssn: 895-33-9763
-  dob: 16/09/1983
-  address: 9105 South Dr
-  city: Philadelphia
-  state: CA

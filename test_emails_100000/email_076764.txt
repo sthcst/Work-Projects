@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Martinez,kenneth.martinez853@company.com,346-807-4947,372 93 8697,08-10-1978,"7834 First Dr",Seattle,IL

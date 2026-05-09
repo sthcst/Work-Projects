@@ -1,9 +1,0 @@
-contact:
-  name: Edward Murillo
-  email: edward.murillo9780@gmail.com
-  phone: (365) 381-4226
-  ssn: 288-18-7926
-  dob: 09/04/1975
-  address: 1883 Main Rd
-  city: Austin
-  state: WA

@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Cooper
-  email: kevin.cooper7956@work.org
-  phone: 577-823-6799
-  ssn: 331-69-7690
-  dob: 3/7/1977
-  address: 6912 South Rd
-  city: New York
-  state: MD

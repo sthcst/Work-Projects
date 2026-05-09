@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Reed
-  email: katherine.reed8635@gmail.com
-  phone: +1 576-454-4836
-  ssn: 037-39-6926
-  dob: 09/06/1956
-  address: 3922 Park Ln
-  city: Chicago
-  state: WI

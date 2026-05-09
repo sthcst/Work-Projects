@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Bell,daniel.bell7163@mail.com,882-426-4586,207378590,06/17/1995,"5974 Main Blvd",Los Angeles,MA

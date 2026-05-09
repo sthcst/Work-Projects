@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Lewis
-  email: pamela.lewis6033@company.com
-  phone: +1 837-696-4904
-  ssn: 620 48 2002
-  dob: 26/02/1953
-  address: 5356 Third Blvd
-  city: Washington
-  state: NC

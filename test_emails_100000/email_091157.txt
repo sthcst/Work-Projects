@@ -1,9 +1,0 @@
-contact:
-  name: Gary Anderson
-  email: gary.anderson8913@business.net
-  phone: 851-638-3908
-  ssn: 935 76 2153
-  dob: 03/14/1965
-  address: 348 Cedar Court
-  city: New York
-  state: TX

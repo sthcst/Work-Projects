@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Young
-  email: anthony.young5466@work.org
-  phone: +1 280-528-2193
-  ssn: 345222204
-  dob: 05-03-1982
-  address: 3945 South Ln
-  city: Philadelphia
-  state: FL

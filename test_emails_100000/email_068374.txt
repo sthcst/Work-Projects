@@ -1,9 +1,0 @@
-contact:
-  name: Paul Hall
-  email: paul.hall3650@business.net
-  phone: 461-466-8270
-  ssn: 605833905
-  dob: 03/18/1976
-  address: 1567 Second Way
-  city: Dallas
-  state: NY

@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Ramirez
-  email: nicole.ramirez186@business.net
-  phone: +1 372-602-9651
-  ssn: 789-94-4719
-  dob: 1/15/1974
-  address: 2231 Maple Rd
-  city: Dallas
-  state: MA

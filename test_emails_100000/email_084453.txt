@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Stewart,charles.stewart2605@work.org,(388) 301-8158,102-35-3197,04-21-1990,"7012 Spring Rd",San Diego,TX

@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Miller
-  email: nicole.miller2516@outlook.com
-  phone: 234-716-7565
-  ssn: 530596251
-  dob: 11-09-1964
-  address: 4211 Fourth Ave
-  city: San Diego
-  state: NY

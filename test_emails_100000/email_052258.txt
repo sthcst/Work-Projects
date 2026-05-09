@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Rogers,christine.rogers9110@outlook.com,233-309-8683,132493441,02/23/1979,"1962 Elm Court",Houston,TX

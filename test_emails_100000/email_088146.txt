@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Johnson,charles.johnson8358@work.org,(755) 964-6168,232-90-8306,06/23/1951,"6679 Fifth Rd",Seattle,TX

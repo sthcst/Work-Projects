@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Smith,nicholas.smith294@business.net,+1 226-946-6267,887-70-2567,4/1/1953,"8896 First Dr",Washington,CA

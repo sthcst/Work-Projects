@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Gomez
-  email: joshua.gomez7162@example.com
-  phone: 677 490 7180
-  ssn: 015-89-3931
-  dob: 06/11/1972
-  address: 2346 East Way
-  city: San Diego
-  state: FL

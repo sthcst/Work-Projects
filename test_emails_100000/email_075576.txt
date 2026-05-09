@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Parker
-  email: timothy.parker779@example.com
-  phone: 219 799 2942
-  ssn: 899-98-7033
-  dob: 03/20/1968
-  address: 382 Third Court
-  city: Philadelphia
-  state: CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Rodriguez,jessica.rodriguez3131@example.com,+1 357-935-3661,257-98-3560,05-14-1966,"2725 Elm Ave",Chicago,PA

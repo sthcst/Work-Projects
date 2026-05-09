@@ -1,9 +1,0 @@
-contact:
-  name: Gary Nelson
-  email: gary.nelson2612@yahoo.com
-  phone: +1 437-737-6788
-  ssn: 032-65-1145
-  dob: 01/17/1999
-  address: 7257 Birch Ln
-  city: Houston
-  state: GA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Davis,joseph.davis7375@example.com,(347) 969-4088,634 55 7784,03-18-1990,"1731 Spring Ave",New York,FL

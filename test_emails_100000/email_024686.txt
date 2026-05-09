@@ -1,9 +1,0 @@
-contact:
-  name: Angela Nelson
-  email: angela.nelson1542@outlook.com
-  phone: +1 489-604-5027
-  ssn: 158254023
-  dob: 10-14-1982
-  address: 6076 East Way
-  city: Phoenix
-  state: TX

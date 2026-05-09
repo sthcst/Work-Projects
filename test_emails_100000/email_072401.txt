@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Sanchez,lisa.sanchez535@company.com,+1 221-955-9617,529559027,4/22/1979,"6313 Sixth Way",Dallas,WA

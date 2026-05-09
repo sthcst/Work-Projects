@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Flores
-  email: daniel.flores8314@mail.com
-  phone: +1 495-785-2599
-  ssn: 016-77-8353
-  dob: 12-24-1985
-  address: 6322 Pine St
-  city: San Jose
-  state: IL

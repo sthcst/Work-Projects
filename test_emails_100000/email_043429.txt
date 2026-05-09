@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Romero
-  email: kathleen.romero8356@business.net
-  phone: 667-521-3843
-  ssn: 334-61-4952
-  dob: 11-24-1981
-  address: 1486 Maple St
-  city: Seattle
-  state: MI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Jones,cynthia.jones6783@outlook.com,(995) 471-1546,812 35 3471,04/12/1969,"4357 West Ln",Dallas,NC

@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Gomez
-  email: matthew.gomez3274@outlook.com
-  phone: (308) 619-4306
-  ssn: 878571859
-  dob: 11/06/1985
-  address: 8110 First Rd
-  city: New York
-  state: MA

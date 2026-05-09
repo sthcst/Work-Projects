@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Cooper,timothy.cooper7903@company.com,693 664 7698,257303494,06/10/2004,"9509 Oak Ln",Phoenix,DC

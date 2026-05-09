@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Martin
-  email: ronald.martin972@gmail.com
-  phone: +1 205-777-1676
-  ssn: 360 31 8310
-  dob: 1/23/1968
-  address: 9390 Spring Court
-  city: Philadelphia
-  state: AZ

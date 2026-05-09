@@ -1,9 +1,0 @@
-contact:
-  name: Steven Thomas
-  email: steven.thomas7614@outlook.com
-  phone: 823-711-8732
-  ssn: 210 44 6940
-  dob: 10-28-1963
-  address: 4381 South Court
-  city: San Antonio
-  state: TN

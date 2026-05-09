@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Martin,michelle.martin5926@gmail.com,+1 619-412-3465,705 18 8008,23/10/1984,"3495 Elm Dr",Austin,CA

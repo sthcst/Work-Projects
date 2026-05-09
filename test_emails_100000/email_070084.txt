@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Moore,brenda.moore4660@yahoo.com,(899) 809-3161,397218421,28/08/1959,"2709 Second Blvd",Houston,WA

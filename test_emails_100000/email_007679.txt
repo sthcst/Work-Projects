@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Murillo,paul.murillo2688@example.com,677 230 6794,193-36-2067,10/12/1955,"381 Birch St",San Jose,FL

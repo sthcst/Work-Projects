@@ -1,9 +1,0 @@
-contact:
-  name: Emma Wilson
-  email: emma.wilson1228@example.com
-  phone: (729) 361-5974
-  ssn: 301-25-2606
-  dob: 09/20/1975
-  address: 4009 West Ave
-  city: Dallas
-  state: PA

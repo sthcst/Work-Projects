@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Thomas,daniel.thomas6931@yahoo.com,+1 649-734-9698,180-37-2843,02-11-1998,"1879 Fifth Way",Phoenix,MD

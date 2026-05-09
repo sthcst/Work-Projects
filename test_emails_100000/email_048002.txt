@@ -1,9 +1,0 @@
-contact:
-  name: Donald Nelson
-  email: donald.nelson5825@gmail.com
-  phone: 850 601 9403
-  ssn: 284-20-2950
-  dob: 09/17/1983
-  address: 7254 Sixth Court
-  city: New York
-  state: NY

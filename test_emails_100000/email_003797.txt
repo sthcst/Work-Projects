@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Collins,helen.collins4566@yahoo.com,(713) 227-5519,815-79-4222,06-22-1998,"3488 Spring St",New York,NC

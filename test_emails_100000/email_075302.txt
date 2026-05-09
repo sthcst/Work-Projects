@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Gomez,maria.gomez5394@outlook.com,+1 410-522-2867,860-91-6667,2/13/1958,"5993 Second Rd",Austin,MA

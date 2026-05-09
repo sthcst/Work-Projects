@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Lewis,david.lewis5381@company.com,+1 831-901-1470,821-41-5377,09-27-1957,"8807 First Blvd",San Diego,MD

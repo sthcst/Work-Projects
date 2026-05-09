@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Ortiz,shirley.ortiz3925@outlook.com,(512) 566-5160,135-74-8346,5/10/1988,"244 Maple Court",San Jose,VA

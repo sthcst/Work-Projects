@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Nunez,kevin.nunez9615@company.com,+1 870-653-9705,663 51 3526,08/10/1957,"7617 Spring Dr",Chicago,GA

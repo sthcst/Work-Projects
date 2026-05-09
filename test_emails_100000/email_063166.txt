@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Moore
-  email: katherine.moore9655@yahoo.com
-  phone: (512) 286-2810
-  ssn: 602-18-9562
-  dob: 17/02/1961
-  address: 8200 South Court
-  city: Seattle
-  state: MO

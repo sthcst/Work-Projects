@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Moore
-  email: brenda.moore3305@mail.com
-  phone: 431 574 2111
-  ssn: 167 76 1313
-  dob: 18/06/2001
-  address: 3599 Fourth Blvd
-  city: Jacksonville
-  state: AZ

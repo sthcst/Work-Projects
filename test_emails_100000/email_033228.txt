@@ -1,9 +1,0 @@
-contact:
-  name: Charles Williams
-  email: charles.williams4403@work.org
-  phone: 702-922-6971
-  ssn: 848 73 6756
-  dob: 11-23-2005
-  address: 8204 Elm Blvd
-  city: San Antonio
-  state: TX

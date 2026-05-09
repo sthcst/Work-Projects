@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Phillips
-  email: stephanie.phillips5058@work.org
-  phone: 631-563-7913
-  ssn: 924-59-2432
-  dob: 22/07/1961
-  address: 5903 Maple Rd
-  city: Boston
-  state: MO

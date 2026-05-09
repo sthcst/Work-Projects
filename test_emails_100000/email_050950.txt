@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Delgado
-  email: katherine.delgado3377@business.net
-  phone: 423 404 6681
-  ssn: 574-93-5812
-  dob: 02/13/1962
-  address: 3430 North Rd
-  city: Washington
-  state: DC

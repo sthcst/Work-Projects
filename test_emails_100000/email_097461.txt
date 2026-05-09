@@ -1,9 +1,0 @@
-contact:
-  name: Michael Gonzalez
-  email: michael.gonzalez5687@gmail.com
-  phone: +1 364-762-2703
-  ssn: 050 75 4729
-  dob: 4/13/1989
-  address: 7067 Elm Way
-  city: San Jose
-  state: CA

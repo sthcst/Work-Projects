@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Taylor
-  email: daniel.taylor3058@outlook.com
-  phone: +1 970-567-8653
-  ssn: 804768905
-  dob: 09/07/1965
-  address: 7044 Elm Dr
-  city: Los Angeles
-  state: TN

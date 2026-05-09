@@ -1,9 +1,0 @@
-contact:
-  name: Mark Phillips
-  email: mark.phillips5704@yahoo.com
-  phone: 207-739-6391
-  ssn: 625 54 2390
-  dob: 10/04/1977
-  address: 460 Oak Ln
-  city: Boston
-  state: CA

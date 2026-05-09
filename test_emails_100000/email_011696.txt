@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Carter,lauren.carter2419@company.com,+1 503-301-8101,949 40 2915,05-22-1976,"8073 Sixth St",Dallas,TX

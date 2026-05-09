@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Delgado,matthew.delgado6286@business.net,(854) 726-6807,167853630,1/2/2005,"9611 Main Ave",San Jose,PA

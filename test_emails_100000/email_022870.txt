@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Anderson,robert.anderson3575@work.org,651 932 2432,238687746,11-02-1988,"5860 Oak Rd",Phoenix,NJ

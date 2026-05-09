@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Evans,pamela.evans4730@example.com,(522) 481-8373,584 75 3081,4/7/1959,"5021 Main St",Philadelphia,CA

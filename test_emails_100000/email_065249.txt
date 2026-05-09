@@ -1,9 +1,0 @@
-contact:
-  name: Emily Hall
-  email: emily.hall2438@company.com
-  phone: (765) 507-9035
-  ssn: 906 15 8038
-  dob: 06/05/1986
-  address: 1313 Spring St
-  city: San Jose
-  state: AZ

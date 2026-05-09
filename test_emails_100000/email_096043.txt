@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Morgan,ashley.morgan5356@company.com,+1 883-597-4207,910424697,26/04/1977,"7200 Second Court",San Jose,MA

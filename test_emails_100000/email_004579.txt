@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Clark,stephanie.clark8745@business.net,941-469-3543,698082140,02/10/1951,"9992 North Dr",Washington,MA

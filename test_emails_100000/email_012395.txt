@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Lewis
-  email: anthony.lewis7398@gmail.com
-  phone: (922) 998-3188
-  ssn: 915 36 8990
-  dob: 08-12-1999
-  address: 8793 Park Dr
-  city: Houston
-  state: GA

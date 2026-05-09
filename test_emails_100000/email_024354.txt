@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Guerrero,anna.guerrero953@business.net,(982) 928-8844,556 05 1134,06/20/1984,"1511 Cedar Ave",Washington,AZ

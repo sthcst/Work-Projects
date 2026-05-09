@@ -1,9 +1,0 @@
-contact:
-  name: Charles Reed
-  email: charles.reed3917@example.com
-  phone: (852) 687-5714
-  ssn: 729-32-5549
-  dob: 04-10-1999
-  address: 932 Sixth Ave
-  city: Philadelphia
-  state: MD

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Rodriguez,donald.rodriguez9298@gmail.com,+1 359-207-6992,057 75 9476,04-28-1979,"3966 West St",Boston,NC

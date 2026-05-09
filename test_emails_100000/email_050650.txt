@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Johnson,david.johnson7418@company.com,(812) 789-8109,587 02 4069,01/15/1990,"3131 West Dr",New York,TN

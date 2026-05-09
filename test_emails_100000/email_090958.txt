@@ -1,9 +1,0 @@
-contact:
-  name: John Brown
-  email: john.brown2179@outlook.com
-  phone: (743) 788-9431
-  ssn: 230-90-9997
-  dob: 09-07-1999
-  address: 9844 Second Way
-  city: Phoenix
-  state: WI

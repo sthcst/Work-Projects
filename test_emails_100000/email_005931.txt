@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Young
-  email: deborah.young7180@gmail.com
-  phone: 882 553 8247
-  ssn: 799-70-9560
-  dob: 06-10-1952
-  address: 8248 First St
-  city: San Diego
-  state: FL

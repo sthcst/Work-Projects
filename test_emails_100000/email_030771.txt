@@ -1,9 +1,0 @@
-contact:
-  name: Richard Gomez
-  email: richard.gomez7@business.net
-  phone: +1 220-807-5847
-  ssn: 724 32 5637
-  dob: 6/14/2000
-  address: 1467 Pine Dr
-  city: San Diego
-  state: TX

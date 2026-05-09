@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Murillo
-  email: shirley.murillo8827@mail.com
-  phone: 207 901 2949
-  ssn: 262 96 2025
-  dob: 12/14/1964
-  address: 3421 West Ln
-  city: New York
-  state: TX

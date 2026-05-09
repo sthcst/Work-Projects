@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Reed,brenda.reed1041@example.com,794-528-3391,916-15-9032,04-11-1969,"2755 South Ave",Philadelphia,TX

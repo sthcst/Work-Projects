@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Hernandez,anna.hernandez1158@business.net,695 543 6690,771 83 4766,2/22/2001,"9217 West Rd",Boston,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Wilson,james.wilson3953@example.com,450 975 9682,944249143,01-05-1951,"9084 West Blvd",New York,DC

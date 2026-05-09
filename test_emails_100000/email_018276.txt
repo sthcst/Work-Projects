@@ -1,9 +1,0 @@
-contact:
-  name: Emma Reed
-  email: emma.reed4663@company.com
-  phone: 624-467-4870
-  ssn: 060118575
-  dob: 10/22/1953
-  address: 7619 Fifth Way
-  city: Boston
-  state: GA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Gonzalez,helen.gonzalez9518@example.com,(957) 725-9530,777 20 4132,02/03/1952,"5991 South Way",Philadelphia,MA

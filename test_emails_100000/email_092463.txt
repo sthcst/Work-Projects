@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Roberts,michael.roberts1535@work.org,(499) 832-6343,322239120,11-01-1996,"1159 First Court",Boston,MA

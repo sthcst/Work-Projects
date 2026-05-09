@@ -1,9 +1,0 @@
-contact:
-  name: Richard Serrano
-  email: richard.serrano7815@business.net
-  phone: 335-809-1660
-  ssn: 769-27-4388
-  dob: 12-06-1968
-  address: 9037 First Court
-  city: San Diego
-  state: IL

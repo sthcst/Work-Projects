@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Jackson,ryan.jackson8789@yahoo.com,366-574-5887,256-58-8694,02/04/1964,"3957 North Blvd",San Diego,AZ

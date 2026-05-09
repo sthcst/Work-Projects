@@ -1,9 +1,0 @@
-contact:
-  name: Maria Davis
-  email: maria.davis3278@yahoo.com
-  phone: 580 507 4858
-  ssn: 316492287
-  dob: 02/17/1959
-  address: 5489 Fifth Way
-  city: Austin
-  state: FL

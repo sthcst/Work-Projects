@@ -1,9 +1,0 @@
-contact:
-  name: John Brown
-  email: john.brown1201@outlook.com
-  phone: +1 928-362-5271
-  ssn: 687-50-5898
-  dob: 12/09/1981
-  address: 2098 Pine Ave
-  city: Jacksonville
-  state: OH

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Phillips,george.phillips9250@mail.com,+1 270-496-1744,213687116,02/22/1973,"498 Summer St",San Diego,NJ

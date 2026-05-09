@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Thompson,anthony.thompson2830@gmail.com,(385) 255-6001,289675812,12-08-2005,"1848 Sixth Court",Houston,CO

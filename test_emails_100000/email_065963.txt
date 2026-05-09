@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Thompson
-  email: daniel.thompson5222@gmail.com
-  phone: (439) 582-7349
-  ssn: 416-38-9133
-  dob: 2/1/1999
-  address: 3598 Birch Way
-  city: Phoenix
-  state: NC

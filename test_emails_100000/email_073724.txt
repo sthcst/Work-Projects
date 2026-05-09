@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Smith
-  email: jacob.smith630@business.net
-  phone: (862) 452-9665
-  ssn: 231-95-8031
-  dob: 06/11/1963
-  address: 1689 North Dr
-  city: New York
-  state: NJ

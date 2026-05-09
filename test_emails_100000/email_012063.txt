@@ -1,9 +1,0 @@
-contact:
-  name: Brian Jimenez
-  email: brian.jimenez5567@mail.com
-  phone: +1 846-709-2454
-  ssn: 430-10-8453
-  dob: 08/10/1982
-  address: 4091 South Dr
-  city: Houston
-  state: NC

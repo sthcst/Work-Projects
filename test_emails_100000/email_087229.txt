@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Dominguez
-  email: joshua.dominguez596@gmail.com
-  phone: +1 561-208-4542
-  ssn: 444561426
-  dob: 8/17/1994
-  address: 25 Fifth Rd
-  city: New York
-  state: DC

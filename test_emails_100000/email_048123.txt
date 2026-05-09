@@ -1,9 +1,0 @@
-contact:
-  name: Richard Robinson
-  email: richard.robinson4991@business.net
-  phone: 919-727-3979
-  ssn: 923272273
-  dob: 12-11-1962
-  address: 8077 Park St
-  city: San Antonio
-  state: AZ

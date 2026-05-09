@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Reeves,michelle.reeves2891@outlook.com,+1 684-548-6664,420 82 3298,08/06/1997,"5749 Maple Dr",Houston,MA

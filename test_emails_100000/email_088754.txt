@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Hall
-  email: christopher.hall2053@yahoo.com
-  phone: (354) 949-9707
-  ssn: 897 04 4932
-  dob: 05-14-2001
-  address: 8816 Cedar Dr
-  city: Los Angeles
-  state: AZ

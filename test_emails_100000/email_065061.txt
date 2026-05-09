@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Morris,kimberly.morris3431@yahoo.com,922 923 4796,453 31 2026,09-23-1992,"6443 Fifth Way",San Antonio,CA

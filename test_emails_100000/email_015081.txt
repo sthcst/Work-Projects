@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Miller,kenneth.miller3765@example.com,935 726 9122,844-39-3515,5/9/1954,"9926 Spring Rd",Phoenix,CO

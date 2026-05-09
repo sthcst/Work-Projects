@@ -1,9 +1,0 @@
-contact:
-  name: Edward Phillips
-  email: edward.phillips1628@outlook.com
-  phone: +1 592-834-7173
-  ssn: 354297560
-  dob: 06-09-1989
-  address: 8728 Spring St
-  city: Chicago
-  state: AZ

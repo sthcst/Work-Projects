@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Morgan,shirley.morgan4712@yahoo.com,311-747-8464,957-56-5117,08-15-1969,"9720 Park Rd",Phoenix,FL

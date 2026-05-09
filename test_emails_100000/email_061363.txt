@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Robinson
-  email: andrew.robinson2155@gmail.com
-  phone: 951 920 4139
-  ssn: 652285870
-  dob: 07-23-1979
-  address: 3971 South Dr
-  city: Houston
-  state: IL

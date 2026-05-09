@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Bell,george.bell1564@mail.com,511 836 7791,248-55-5190,3/27/1958,"750 Birch Way",Chicago,MO

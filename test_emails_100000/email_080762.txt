@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Sanchez
-  email: jacob.sanchez6396@example.com
-  phone: 371-365-2847
-  ssn: 254761656
-  dob: 06/15/1971
-  address: 4644 East Ave
-  city: New York
-  state: CA

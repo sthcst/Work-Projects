@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Clark
-  email: samantha.clark847@work.org
-  phone: 607 296 7274
-  ssn: 053 19 6306
-  dob: 01-20-1969
-  address: 4650 Maple Way
-  city: New York
-  state: MD

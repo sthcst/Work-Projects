@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Gonzalez
-  email: ryan.gonzalez2279@gmail.com
-  phone: +1 422-276-5809
-  ssn: 375 51 1450
-  dob: 27/03/1998
-  address: 1152 Oak Ave
-  city: Houston
-  state: WI

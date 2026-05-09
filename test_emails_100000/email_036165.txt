@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Guerrero
-  email: anthony.guerrero5049@work.org
-  phone: +1 858-399-3760
-  ssn: 172 87 6657
-  dob: 07-21-1957
-  address: 3167 Spring Ave
-  city: Denver
-  state: GA

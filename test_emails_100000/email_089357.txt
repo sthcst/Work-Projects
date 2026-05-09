@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Delgado,paul.delgado4795@yahoo.com,(349) 564-6160,236 48 8394,03-16-1984,"5960 Sixth Blvd",Houston,WA

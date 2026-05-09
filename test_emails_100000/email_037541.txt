@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Rodriguez
-  email: deborah.rodriguez2982@business.net
-  phone: +1 381-404-9503
-  ssn: 501 15 3505
-  dob: 12/17/1952
-  address: 6450 West Rd
-  city: San Diego
-  state: MO

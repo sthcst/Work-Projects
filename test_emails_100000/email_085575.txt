@@ -1,9 +1,0 @@
-contact:
-  name: Robert Romero
-  email: robert.romero1086@business.net
-  phone: 758 233 1601
-  ssn: 361-82-3917
-  dob: 12/11/1980
-  address: 3687 Summer St
-  city: San Jose
-  state: MD

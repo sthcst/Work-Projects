@@ -1,9 +1,0 @@
-contact:
-  name: John Johnson
-  email: john.johnson6404@outlook.com
-  phone: 488 937 2753
-  ssn: 780833124
-  dob: 1/24/2003
-  address: 4155 Maple Court
-  city: Washington
-  state: TN

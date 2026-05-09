@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Johnson,david.johnson7443@outlook.com,+1 416-620-4507,722339734,03/07/1969,"8056 Elm Dr",Washington,IL

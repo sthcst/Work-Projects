@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Serrano,jane.serrano2400@outlook.com,(742) 260-9595,654-99-2272,03/23/1959,"1082 Second Way",Denver,TX

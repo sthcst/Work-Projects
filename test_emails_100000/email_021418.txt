@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Jones
-  email: katherine.jones8759@work.org
-  phone: (775) 760-2443
-  ssn: 828592955
-  dob: 05/09/1952
-  address: 4998 Fourth St
-  city: Austin
-  state: CA

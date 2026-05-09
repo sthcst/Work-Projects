@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Phillips,brian.phillips2983@work.org,(395) 250-1151,342-02-1091,03-13-1967,"5749 West Rd",Denver,WA

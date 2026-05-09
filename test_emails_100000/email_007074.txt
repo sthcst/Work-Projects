@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Collins,lauren.collins1242@gmail.com,(286) 763-7319,926874606,08-21-2000,"5212 Sixth Rd",Dallas,IL

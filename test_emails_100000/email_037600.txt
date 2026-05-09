@@ -1,9 +1,0 @@
-contact:
-  name: Angela Ortiz
-  email: angela.ortiz6256@mail.com
-  phone: 448-588-4631
-  ssn: 457074119
-  dob: 11/20/1969
-  address: 5907 Spring Blvd
-  city: New York
-  state: FL

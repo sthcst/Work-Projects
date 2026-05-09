@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Davis
-  email: samantha.davis3997@example.com
-  phone: (592) 775-6763
-  ssn: 463 39 6452
-  dob: 10-02-1973
-  address: 7745 Oak Ln
-  city: Jacksonville
-  state: MD

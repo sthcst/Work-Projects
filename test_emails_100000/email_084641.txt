@@ -1,9 +1,0 @@
-contact:
-  name: Angela Carter
-  email: angela.carter8924@gmail.com
-  phone: (938) 386-7579
-  ssn: 766 30 9617
-  dob: 09-01-1974
-  address: 8531 Second Ln
-  city: Houston
-  state: TX

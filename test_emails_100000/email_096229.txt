@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Gonzalez
-  email: samantha.gonzalez4111@example.com
-  phone: 815-538-6229
-  ssn: 404502825
-  dob: 12-13-1991
-  address: 37 Summer Way
-  city: Jacksonville
-  state: CO

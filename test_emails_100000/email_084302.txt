@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Johnson
-  email: joseph.johnson698@outlook.com
-  phone: +1 471-395-8100
-  ssn: 030-50-8143
-  dob: 10/01/1989
-  address: 4277 Sixth Court
-  city: Houston
-  state: TN

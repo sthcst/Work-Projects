@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Hall
-  email: shirley.hall5194@example.com
-  phone: 880-434-9744
-  ssn: 001 10 8636
-  dob: 05/03/1990
-  address: 907 East Blvd
-  city: Seattle
-  state: CA

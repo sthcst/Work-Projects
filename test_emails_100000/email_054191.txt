@@ -1,9 +1,0 @@
-contact:
-  name: Helen Jimenez
-  email: helen.jimenez2038@company.com
-  phone: +1 392-988-9651
-  ssn: 801873842
-  dob: 04-13-1957
-  address: 2618 East Dr
-  city: Chicago
-  state: CO

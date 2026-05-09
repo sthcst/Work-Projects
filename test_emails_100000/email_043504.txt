@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Gonzalez
-  email: deborah.gonzalez4647@mail.com
-  phone: 985-296-5133
-  ssn: 645-12-7590
-  dob: 13/04/1957
-  address: 6746 First Blvd
-  city: Washington
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Delgado
-  email: jennifer.delgado2070@gmail.com
-  phone: 774 206 8899
-  ssn: 023219531
-  dob: 03/15/1961
-  address: 9416 Park St
-  city: San Antonio
-  state: TX

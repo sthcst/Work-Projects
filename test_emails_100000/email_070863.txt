@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Williams,lauren.williams8165@yahoo.com,213 270 1778,720 07 6615,09/12/1999,"5566 First Ave",Austin,MI

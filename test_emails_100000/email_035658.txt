@@ -1,9 +1,0 @@
-contact:
-  name: Edward Gomez
-  email: edward.gomez8566@mail.com
-  phone: 794 318 6244
-  ssn: 154444719
-  dob: 2/12/1991
-  address: 8661 Spring Blvd
-  city: Denver
-  state: CA

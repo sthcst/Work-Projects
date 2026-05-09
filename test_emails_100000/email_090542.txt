@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Romero,jessica.romero2844@company.com,(718) 560-9136,799-18-8618,9/11/1981,"2494 First Ln",Seattle,CA

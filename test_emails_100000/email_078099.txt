@@ -1,9 +1,0 @@
-contact:
-  name: John Ramirez
-  email: john.ramirez3059@gmail.com
-  phone: 566 862 9471
-  ssn: 447016460
-  dob: 5/27/1995
-  address: 3313 South Blvd
-  city: San Jose
-  state: TX

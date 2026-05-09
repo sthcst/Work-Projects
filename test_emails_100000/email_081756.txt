@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Robinson
-  email: joseph.robinson4567@yahoo.com
-  phone: 831-593-8565
-  ssn: 194-27-4118
-  dob: 08-08-1999
-  address: 8375 Maple Way
-  city: New York
-  state: TX

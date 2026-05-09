@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Garcia
-  email: kimberly.garcia2790@mail.com
-  phone: (389) 230-4028
-  ssn: 062-87-6019
-  dob: 09/26/1962
-  address: 5056 Main Rd
-  city: New York
-  state: AZ

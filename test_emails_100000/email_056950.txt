@@ -1,9 +1,0 @@
-contact:
-  name: Mark Jackson
-  email: mark.jackson6775@yahoo.com
-  phone: 633-938-7889
-  ssn: 041 48 8723
-  dob: 3/4/1951
-  address: 7435 Oak Blvd
-  city: Houston
-  state: MA

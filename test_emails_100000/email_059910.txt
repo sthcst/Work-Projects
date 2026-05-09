@@ -1,9 +1,0 @@
-contact:
-  name: Jane Davis
-  email: jane.davis6891@outlook.com
-  phone: 765 624 5322
-  ssn: 246 02 7856
-  dob: 8/7/1971
-  address: 4232 Park Court
-  city: Los Angeles
-  state: CA

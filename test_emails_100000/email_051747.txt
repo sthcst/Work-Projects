@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Martin,gary.martin8279@gmail.com,+1 210-241-9862,660301332,1/23/1961,"6288 Cedar Ln",Austin,MI

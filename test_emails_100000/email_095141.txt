@@ -1,9 +1,0 @@
-contact:
-  name: Maria Garcia
-  email: maria.garcia8179@work.org
-  phone: 863 643 9690
-  ssn: 946906960
-  dob: 26/05/1989
-  address: 9661 Third Ln
-  city: Washington
-  state: OH

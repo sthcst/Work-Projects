@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Reeves
-  email: timothy.reeves4823@company.com
-  phone: 813 853 4616
-  ssn: 493892201
-  dob: 1/11/1952
-  address: 6050 Oak Ave
-  city: Denver
-  state: WI

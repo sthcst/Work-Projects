@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Reeves,ryan.reeves9091@example.com,(935) 850-4953,536-93-3875,28/07/1971,"8066 North Dr",San Diego,NY

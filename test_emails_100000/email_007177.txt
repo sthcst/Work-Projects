@@ -1,9 +1,0 @@
-contact:
-  name: Anna Nunez
-  email: anna.nunez2587@gmail.com
-  phone: (424) 472-8146
-  ssn: 347-81-5551
-  dob: 10/04/1962
-  address: 8836 Summer Dr
-  city: Philadelphia
-  state: WI

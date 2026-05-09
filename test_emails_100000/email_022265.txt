@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Taylor,john.taylor8535@example.com,351 535 4050,458-62-2130,11/19/1952,"4805 Maple St",Philadelphia,MA

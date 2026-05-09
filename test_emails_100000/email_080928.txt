@@ -1,9 +1,0 @@
-contact:
-  name: Brian Cooper
-  email: brian.cooper3283@outlook.com
-  phone: (778) 735-2450
-  ssn: 538725032
-  dob: 01/08/2001
-  address: 3211 Sixth Dr
-  city: Chicago
-  state: VA

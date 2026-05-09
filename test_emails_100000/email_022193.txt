@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Robinson,nicholas.robinson8960@example.com,907 218 7384,735-22-2950,07-18-1972,"2621 Summer Way",San Diego,TX

@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Stewart
-  email: deborah.stewart3170@yahoo.com
-  phone: +1 626-999-5888
-  ssn: 835 83 8374
-  dob: 14/07/1963
-  address: 4658 Park St
-  city: Dallas
-  state: GA

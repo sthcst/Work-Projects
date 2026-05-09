@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Morris,sarah.morris2458@gmail.com,817-607-8587,077 19 4823,04-27-1965,"2434 Second Ave",New York,MA

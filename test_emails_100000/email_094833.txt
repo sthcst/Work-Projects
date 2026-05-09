@@ -1,9 +1,0 @@
-contact:
-  name: Richard Miller
-  email: richard.miller4098@mail.com
-  phone: 798-483-5732
-  ssn: 730 53 7419
-  dob: 9/11/1984
-  address: 9330 Maple Rd
-  city: Seattle
-  state: WI

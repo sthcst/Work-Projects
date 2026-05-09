@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Lopez
-  email: stephanie.lopez3443@gmail.com
-  phone: 829 706 1017
-  ssn: 405-49-5319
-  dob: 09/23/1984
-  address: 395 South Blvd
-  city: New York
-  state: PA

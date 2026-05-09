@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Nunez,mark.nunez166@company.com,+1 456-453-9524,125 43 8487,04/16/1973,"8335 Summer Ln",Seattle,TX

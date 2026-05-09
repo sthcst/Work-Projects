@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Ortiz
-  email: jennifer.ortiz4525@work.org
-  phone: (870) 364-5354
-  ssn: 544 58 3496
-  dob: 01-27-1994
-  address: 8388 First Court
-  city: Chicago
-  state: OH

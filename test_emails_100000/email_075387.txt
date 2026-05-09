@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Rodriguez
-  email: matthew.rodriguez5737@business.net
-  phone: (631) 895-1286
-  ssn: 036 32 6176
-  dob: 08/11/1980
-  address: 7636 Third Rd
-  city: Denver
-  state: CA

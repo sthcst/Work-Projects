@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Flores
-  email: daniel.flores295@company.com
-  phone: +1 955-861-3545
-  ssn: 156222328
-  dob: 04/01/1981
-  address: 6299 Third Blvd
-  city: Seattle
-  state: TX

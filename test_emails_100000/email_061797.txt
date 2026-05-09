@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Guerrero
-  email: ashley.guerrero2947@work.org
-  phone: 598-606-2095
-  ssn: 945 23 9884
-  dob: 11/18/1985
-  address: 778 Elm Dr
-  city: Seattle
-  state: TX

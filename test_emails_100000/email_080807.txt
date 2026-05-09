@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Moore,steven.moore4436@gmail.com,+1 851-353-5693,480253332,06/03/1955,"3460 Cedar Dr",San Antonio,CA

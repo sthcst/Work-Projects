@@ -1,9 +1,0 @@
-contact:
-  name: Emma Jimenez
-  email: emma.jimenez8551@mail.com
-  phone: 555 276 5135
-  ssn: 961413782
-  dob: 09-25-1957
-  address: 554 Elm St
-  city: San Jose
-  state: MI

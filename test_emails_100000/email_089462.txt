@@ -1,9 +1,0 @@
-contact:
-  name: Maria White
-  email: maria.white7504@company.com
-  phone: 606-791-1885
-  ssn: 845979665
-  dob: 06/07/1995
-  address: 3923 Summer Ave
-  city: Seattle
-  state: WA

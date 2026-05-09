@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Romero
-  email: michelle.romero5470@example.com
-  phone: 378 791 2273
-  ssn: 589 78 1792
-  dob: 01-05-1961
-  address: 5540 Main Ln
-  city: New York
-  state: NJ

@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Nelson
-  email: kimberly.nelson5291@mail.com
-  phone: 633 481 5577
-  ssn: 400488526
-  dob: 2/6/1956
-  address: 5612 Birch Blvd
-  city: San Diego
-  state: IL

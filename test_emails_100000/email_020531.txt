@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Lewis
-  email: katherine.lewis3037@business.net
-  phone: 881 621 8290
-  ssn: 958667150
-  dob: 23/12/1998
-  address: 386 East Rd
-  city: Austin
-  state: WA

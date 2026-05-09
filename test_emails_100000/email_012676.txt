@@ -1,9 +1,0 @@
-contact:
-  name: Emily Roberts
-  email: emily.roberts5456@gmail.com
-  phone: +1 434-572-4086
-  ssn: 081-59-3722
-  dob: 4/2/2001
-  address: 4314 First Ave
-  city: San Diego
-  state: MO

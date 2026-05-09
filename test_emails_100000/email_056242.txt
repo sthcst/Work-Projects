@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Rogers,sarah.rogers4164@business.net,759 732 5639,095-48-7989,01/05/1990,"6249 Fifth Way",Philadelphia,NJ

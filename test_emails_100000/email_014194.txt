@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Reeves
-  email: deborah.reeves9575@example.com
-  phone: +1 709-320-8888
-  ssn: 457 69 3533
-  dob: 02/27/2001
-  address: 9854 Sixth Dr
-  city: San Jose
-  state: AZ

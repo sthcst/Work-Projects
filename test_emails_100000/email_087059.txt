@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Reed,deborah.reed3875@example.com,+1 553-681-8978,525 16 6498,05/19/2003,"5259 Park Rd",Boston,WI

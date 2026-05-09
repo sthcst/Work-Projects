@@ -1,9 +1,0 @@
-contact:
-  name: Mark Stewart
-  email: mark.stewart4350@work.org
-  phone: (831) 628-3857
-  ssn: 390 21 4649
-  dob: 10/11/1968
-  address: 6807 Third Blvd
-  city: San Diego
-  state: WA

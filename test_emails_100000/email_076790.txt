@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Cooper,edward.cooper5947@mail.com,(684) 875-3417,131 19 5463,02-17-1976,"7743 Third Ave",Dallas,IL

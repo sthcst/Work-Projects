@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Murillo
-  email: sarah.murillo7158@yahoo.com
-  phone: 468 954 8485
-  ssn: 825 72 7499
-  dob: 26/05/1966
-  address: 7606 Oak Way
-  city: Philadelphia
-  state: AZ

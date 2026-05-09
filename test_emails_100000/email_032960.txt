@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Brown,jason.brown671@company.com,789 946 3156,258589308,28/04/1964,"9394 Cedar Rd",Phoenix,TX

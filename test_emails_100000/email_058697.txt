@@ -1,9 +1,0 @@
-contact:
-  name: Helen Wilson
-  email: helen.wilson9950@yahoo.com
-  phone: +1 462-968-5308
-  ssn: 426-84-6705
-  dob: 07/05/1982
-  address: 6495 Spring Dr
-  city: Chicago
-  state: FL

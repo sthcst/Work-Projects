@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Collins,emily.collins4103@business.net,344 892 8411,104-18-5682,12/3/1974,"739 Spring Ln",Dallas,NC

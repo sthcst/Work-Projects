@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Jimenez,angela.jimenez9779@gmail.com,991 920 6885,885024634,04/09/2004,"3107 Maple Blvd",Los Angeles,WA

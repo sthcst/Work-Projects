@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Guerrero,katherine.guerrero1982@work.org,595-680-4012,980 10 8415,08-01-1999,"9012 West Way",Dallas,NY

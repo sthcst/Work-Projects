@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Bell
-  email: matthew.bell1564@yahoo.com
-  phone: 785-515-1018
-  ssn: 025876049
-  dob: 9/25/1973
-  address: 2176 Park Court
-  city: Phoenix
-  state: AZ

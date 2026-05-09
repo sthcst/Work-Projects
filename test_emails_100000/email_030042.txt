@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Ramirez,jessica.ramirez2779@business.net,+1 723-348-7189,871-30-8665,07/21/1972,"1240 Spring Way",Denver,NJ

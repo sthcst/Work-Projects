@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Clark
-  email: lisa.clark3585@work.org
-  phone: 450 319 8461
-  ssn: 232-88-7454
-  dob: 13/12/1956
-  address: 518 First Ave
-  city: Jacksonville
-  state: MD

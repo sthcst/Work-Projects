@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Miller,john.miller1248@example.com,611-767-2175,060556549,12/12/1993,"3352 East Ln",Phoenix,CO

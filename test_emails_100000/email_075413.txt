@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Wilson
-  email: jessica.wilson7976@outlook.com
-  phone: 913-422-5930
-  ssn: 653615114
-  dob: 11/08/1973
-  address: 6571 Park Blvd
-  city: Austin
-  state: WI

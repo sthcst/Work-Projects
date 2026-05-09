@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Murillo,timothy.murillo7249@yahoo.com,+1 374-445-4425,501-31-6954,19/03/1977,"9042 Fourth St",Boston,AZ

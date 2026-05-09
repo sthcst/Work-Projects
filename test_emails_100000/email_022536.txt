@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Murillo,edward.murillo7267@example.com,+1 561-964-7778,718-77-9745,10/18/1992,"2535 Spring Blvd",Austin,AZ

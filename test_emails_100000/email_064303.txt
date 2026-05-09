@@ -1,9 +1,0 @@
-contact:
-  name: Angela Morris
-  email: angela.morris1181@yahoo.com
-  phone: 836-467-3246
-  ssn: 799074151
-  dob: 1/9/1960
-  address: 7251 Pine Way
-  city: Washington
-  state: MI

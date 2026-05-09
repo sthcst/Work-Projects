@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Lee,john.lee2331@mail.com,508-884-7291,600-23-9218,07/12/1984,"149 West Way",Phoenix,CA

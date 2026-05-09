@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Smith,joseph.smith4709@gmail.com,(657) 657-6637,083-30-6782,27/08/2004,"7458 Cedar St",Austin,MA

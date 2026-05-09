@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Jimenez
-  email: kenneth.jimenez9134@work.org
-  phone: 247-363-2615
-  ssn: 215-78-2006
-  dob: 12/10/1999
-  address: 5600 North Way
-  city: San Jose
-  state: TX

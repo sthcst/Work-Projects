@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Romero
-  email: christopher.romero9991@mail.com
-  phone: 533 245 7789
-  ssn: 786135395
-  dob: 12/8/1951
-  address: 900 Birch St
-  city: Denver
-  state: CA

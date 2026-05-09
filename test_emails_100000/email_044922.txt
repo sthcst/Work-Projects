@@ -1,9 +1,0 @@
-contact:
-  name: Helen Murillo
-  email: helen.murillo1162@company.com
-  phone: 372 568 5017
-  ssn: 047-55-9462
-  dob: 28/04/1971
-  address: 7258 Fourth Ave
-  city: Denver
-  state: MO

@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Parker
-  email: nicole.parker632@example.com
-  phone: 567 813 6554
-  ssn: 773-90-2010
-  dob: 5/4/2000
-  address: 6782 Oak St
-  city: San Antonio
-  state: MA

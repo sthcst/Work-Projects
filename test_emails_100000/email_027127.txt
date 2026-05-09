@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Young
-  email: christopher.young2306@outlook.com
-  phone: 840 336 9882
-  ssn: 366015674
-  dob: 12-28-1952
-  address: 8536 Spring Court
-  city: Philadelphia
-  state: WA

@@ -1,9 +1,0 @@
-contact:
-  name: Angela Anderson
-  email: angela.anderson2693@yahoo.com
-  phone: 914-596-8686
-  ssn: 411-11-5775
-  dob: 17/05/1958
-  address: 3710 East Dr
-  city: San Antonio
-  state: MD

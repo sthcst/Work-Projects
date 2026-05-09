@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Lee,paul.lee6572@work.org,463 362 5402,533 83 2565,04-07-2001,"5464 Elm Ln",Los Angeles,TN

@@ -1,9 +1,0 @@
-contact:
-  name: Angela Nunez
-  email: angela.nunez9353@mail.com
-  phone: +1 584-958-6909
-  ssn: 363-42-7915
-  dob: 10-28-1988
-  address: 67 Park Rd
-  city: Chicago
-  state: TX

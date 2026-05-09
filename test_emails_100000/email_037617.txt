@@ -1,9 +1,0 @@
-contact:
-  name: Mark Phillips
-  email: mark.phillips5089@company.com
-  phone: 422 344 4139
-  ssn: 907 10 4541
-  dob: 16/07/1973
-  address: 6703 First Dr
-  city: San Antonio
-  state: TX

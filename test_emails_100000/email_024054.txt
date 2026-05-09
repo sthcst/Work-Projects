@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Ortiz
-  email: samantha.ortiz3189@business.net
-  phone: +1 272-954-7843
-  ssn: 452 13 6547
-  dob: 11/1/1996
-  address: 7109 Main Court
-  city: San Antonio
-  state: CA

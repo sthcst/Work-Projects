@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Reyes
-  email: brenda.reyes1237@yahoo.com
-  phone: 756 767 4239
-  ssn: 952218417
-  dob: 8/19/2000
-  address: 9532 Second Ave
-  city: Houston
-  state: AZ

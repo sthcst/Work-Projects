@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Miller
-  email: samantha.miller9269@example.com
-  phone: 761 367 7219
-  ssn: 307 24 3466
-  dob: 01-07-1998
-  address: 6378 Third Way
-  city: Philadelphia
-  state: WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Garcia,kathleen.garcia1080@gmail.com,759-233-9960,552 65 1807,20/06/2003,"5608 Summer Court",Dallas,IL

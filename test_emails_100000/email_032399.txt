@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Evans,richard.evans1762@business.net,872 676 5504,913804730,06/27/1997,"6550 Fifth Ave",Houston,AZ

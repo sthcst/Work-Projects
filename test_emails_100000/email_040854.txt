@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Nelson,cynthia.nelson1179@company.com,389-228-6855,286-10-9005,06-13-1983,"4692 First Rd",Jacksonville,FL

@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Taylor
-  email: joseph.taylor4323@gmail.com
-  phone: 339 635 8234
-  ssn: 228 58 9992
-  dob: 04-11-1974
-  address: 3253 Elm Court
-  city: Phoenix
-  state: CO

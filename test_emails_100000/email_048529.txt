@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Lee
-  email: ronald.lee6792@gmail.com
-  phone: 552-580-2331
-  ssn: 778 75 6673
-  dob: 28/02/1963
-  address: 6653 Third Ln
-  city: Los Angeles
-  state: MD

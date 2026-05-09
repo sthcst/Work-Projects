@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Reyes,edward.reyes787@company.com,491-613-4411,573-23-9726,02/03/1958,"7567 Fifth Way",Boston,MD

@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Delgado
-  email: jeffrey.delgado5185@example.com
-  phone: +1 963-467-8356
-  ssn: 722-71-6049
-  dob: 07/09/1959
-  address: 9485 Elm Ln
-  city: San Diego
-  state: CA

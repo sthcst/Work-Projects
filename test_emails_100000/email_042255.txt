@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Moore,kenneth.moore2539@gmail.com,+1 957-482-3817,307326597,03/09/1982,"791 West Rd",Jacksonville,OH

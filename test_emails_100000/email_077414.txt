@@ -1,9 +1,0 @@
-contact:
-  name: John Roberts
-  email: john.roberts4004@company.com
-  phone: +1 790-384-1278
-  ssn: 446-69-8956
-  dob: 11-23-1976
-  address: 433 Main St
-  city: Seattle
-  state: AZ

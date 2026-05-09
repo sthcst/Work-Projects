@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Parker
-  email: samantha.parker7025@example.com
-  phone: +1 852-587-8662
-  ssn: 668-68-4628
-  dob: 02/08/1971
-  address: 7927 Birch Blvd
-  city: San Jose
-  state: NJ

@@ -1,9 +1,0 @@
-contact:
-  name: Steven Morris
-  email: steven.morris4745@company.com
-  phone: +1 445-550-5319
-  ssn: 768 73 6331
-  dob: 17/09/1985
-  address: 3749 Maple Way
-  city: New York
-  state: MO

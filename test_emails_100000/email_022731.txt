@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Nunez,emma.nunez8433@company.com,409-724-5698,693 19 2422,03-27-2005,"9376 Maple Dr",Houston,TX

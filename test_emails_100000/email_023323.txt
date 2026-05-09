@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Ramirez,kenneth.ramirez9585@mail.com,(713) 903-5772,295889958,06/10/1986,"9440 Cedar St",San Diego,MO

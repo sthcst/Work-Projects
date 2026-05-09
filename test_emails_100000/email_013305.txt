@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Phillips
-  email: stephanie.phillips7165@work.org
-  phone: 272 455 9846
-  ssn: 918 52 9935
-  dob: 2/22/1988
-  address: 626 Second Ave
-  city: Boston
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Miller
-  email: rachel.miller207@example.com
-  phone: 933 647 8163
-  ssn: 939186049
-  dob: 02-11-1991
-  address: 8859 West Way
-  city: Philadelphia
-  state: MA

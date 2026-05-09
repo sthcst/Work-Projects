@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Lopez,anthony.lopez7141@company.com,+1 641-888-6801,756 20 3048,12/02/1974,"72 Birch Ln",Philadelphia,CA

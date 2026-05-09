@@ -1,9 +1,0 @@
-contact:
-  name: George Jimenez
-  email: george.jimenez9224@business.net
-  phone: 844-379-3831
-  ssn: 484-95-6975
-  dob: 04-25-1996
-  address: 5217 Birch Dr
-  city: New York
-  state: CA

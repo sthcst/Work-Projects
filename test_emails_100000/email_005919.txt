@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Parker,jason.parker6967@example.com,966 240 8069,001893500,03/05/1965,"3958 Cedar Dr",Dallas,MD

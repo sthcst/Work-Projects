@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Ortiz,katherine.ortiz6096@gmail.com,+1 357-330-3966,631 24 7256,07/15/1987,"9486 Cedar Blvd",Philadelphia,DC

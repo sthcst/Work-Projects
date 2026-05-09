@@ -1,9 +1,0 @@
-contact:
-  name: John Collins
-  email: john.collins5538@work.org
-  phone: 601-781-2083
-  ssn: 201096102
-  dob: 05-22-1958
-  address: 9331 Fourth Way
-  city: New York
-  state: WA

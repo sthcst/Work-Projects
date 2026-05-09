@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Morris,gary.morris9463@yahoo.com,934 973 5238,400-55-8533,02-09-1987,"4144 Maple Ave",New York,NY

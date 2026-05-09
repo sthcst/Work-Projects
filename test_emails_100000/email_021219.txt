@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Davis
-  email: lisa.davis5207@work.org
-  phone: (617) 982-1401
-  ssn: 348 11 1718
-  dob: 08/06/1978
-  address: 1576 Maple Ln
-  city: Washington
-  state: MA

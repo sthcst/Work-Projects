@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Hall
-  email: matthew.hall3927@work.org
-  phone: 746-469-5819
-  ssn: 702889494
-  dob: 22/04/1960
-  address: 5163 Pine Ave
-  city: San Jose
-  state: AZ

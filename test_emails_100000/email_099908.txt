@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Serrano,timothy.serrano8877@example.com,829 870 4170,968 01 6375,2/12/1952,"1303 Oak Court",Phoenix,WA

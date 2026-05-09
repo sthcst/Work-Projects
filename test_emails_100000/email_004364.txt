@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Murillo,timothy.murillo1802@work.org,+1 924-659-1579,286-30-2607,26/03/1968,"8166 East Blvd",Chicago,MA

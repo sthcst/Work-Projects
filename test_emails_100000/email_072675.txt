@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Wilson,michael.wilson5827@business.net,328 753 8461,897507339,23/06/1999,"9708 Main Way",Washington,IL

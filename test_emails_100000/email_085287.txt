@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Lopez,anna.lopez7274@example.com,(911) 943-9891,429 05 5534,11/10/1991,"1683 Fourth Way",New York,WI

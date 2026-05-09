@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Smith,brenda.smith9130@example.com,396 931 9236,443415877,22/08/1983,"1647 Pine St",Washington,WA

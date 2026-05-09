@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Cooper
-  email: michelle.cooper5682@business.net
-  phone: 473 859 5090
-  ssn: 055-80-8779
-  dob: 3/22/1981
-  address: 3847 West Way
-  city: San Diego
-  state: VA

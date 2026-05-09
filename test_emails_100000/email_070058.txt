@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Phillips,jessica.phillips145@gmail.com,723 908 9065,284 63 6834,12/1/2001,"3724 Third Blvd",Philadelphia,AZ

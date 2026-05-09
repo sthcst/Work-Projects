@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Lee,jason.lee5898@work.org,+1 693-484-4045,035 37 8690,7/27/1991,"5039 Birch Rd",San Diego,WI

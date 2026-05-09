@@ -1,9 +1,0 @@
-contact:
-  name: Emma Martinez
-  email: emma.martinez6563@mail.com
-  phone: +1 636-672-4471
-  ssn: 236 79 9065
-  dob: 01/07/2000
-  address: 3904 Birch St
-  city: Jacksonville
-  state: IL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Nelson,donald.nelson8593@company.com,(408) 628-3032,900209978,09-25-2001,"6626 Third Ln",Philadelphia,CA

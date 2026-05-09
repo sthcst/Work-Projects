@@ -1,9 +1,0 @@
-contact:
-  name: Mark Morris
-  email: mark.morris1252@company.com
-  phone: 569-336-8251
-  ssn: 025-67-1544
-  dob: 12/15/1991
-  address: 1714 West Ln
-  city: Dallas
-  state: WA

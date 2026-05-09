@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Murillo,lauren.murillo8444@business.net,456 204 3581,234537817,05-05-1999,"7191 Fifth St",Washington,WA

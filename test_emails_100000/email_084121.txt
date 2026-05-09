@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Taylor,michael.taylor2463@mail.com,815-882-6238,209-39-4155,07-21-1991,"8691 Sixth Rd",Houston,IL

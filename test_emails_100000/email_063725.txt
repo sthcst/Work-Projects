@@ -1,9 +1,0 @@
-contact:
-  name: James Evans
-  email: james.evans4181@mail.com
-  phone: +1 211-366-6815
-  ssn: 194-57-6757
-  dob: 08/24/1983
-  address: 5830 Summer Dr
-  city: Washington
-  state: CA

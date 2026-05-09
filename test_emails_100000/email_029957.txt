@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Ramirez,joshua.ramirez7383@example.com,+1 238-898-4448,948 03 5412,22/12/2003,"5539 East Way",Houston,CA

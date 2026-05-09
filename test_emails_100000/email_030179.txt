@@ -1,9 +1,0 @@
-contact:
-  name: Jason Peterson
-  email: jason.peterson641@work.org
-  phone: (368) 759-9167
-  ssn: 335-35-9864
-  dob: 25/04/1973
-  address: 1444 Summer Court
-  city: Austin
-  state: MO

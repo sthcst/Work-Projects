@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Smith
-  email: joseph.smith3043@yahoo.com
-  phone: 639-746-3347
-  ssn: 201322769
-  dob: 10-24-1995
-  address: 1524 Maple Ln
-  city: Phoenix
-  state: MA

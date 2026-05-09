@@ -1,9 +1,0 @@
-contact:
-  name: Edward Murillo
-  email: edward.murillo2618@mail.com
-  phone: (699) 882-3516
-  ssn: 501 07 2354
-  dob: 08/02/1992
-  address: 1822 Elm Blvd
-  city: Philadelphia
-  state: PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Flores,kimberly.flores6127@business.net,+1 921-931-7215,313466018,03/07/1982,"3290 Summer Court",Dallas,NY

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Sanchez,anna.sanchez4133@outlook.com,(276) 271-1570,727-64-8902,09-13-1979,"9580 Oak Court",Austin,CO

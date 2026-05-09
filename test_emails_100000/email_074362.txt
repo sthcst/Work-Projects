@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Jones
-  email: nicholas.jones3340@mail.com
-  phone: +1 277-738-2361
-  ssn: 492804448
-  dob: 16/12/1987
-  address: 5280 Pine Dr
-  city: Boston
-  state: IL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Young,sarah.young8085@work.org,628 577 9698,769566243,09/12/1975,"3437 Fourth Blvd",Philadelphia,WA

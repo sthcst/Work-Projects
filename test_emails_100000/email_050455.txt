@@ -1,9 +1,0 @@
-contact:
-  name: Helen Clark
-  email: helen.clark6781@outlook.com
-  phone: (430) 727-6290
-  ssn: 694 54 3829
-  dob: 2/16/1956
-  address: 8304 South Blvd
-  city: San Antonio
-  state: NY

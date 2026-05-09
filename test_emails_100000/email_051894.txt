@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Young,richard.young3051@work.org,(642) 453-2921,309-50-4491,09-18-1984,"9919 North St",Chicago,MI

@@ -1,9 +1,0 @@
-contact:
-  name: Helen Edwards
-  email: helen.edwards5913@company.com
-  phone: 719-418-2581
-  ssn: 507-28-5449
-  dob: 28/04/1999
-  address: 7203 East St
-  city: Houston
-  state: TX

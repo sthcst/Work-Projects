@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Cooper,jennifer.cooper6141@yahoo.com,+1 340-580-9311,206-56-2129,07-19-2000,"7086 Third Dr",Phoenix,WA

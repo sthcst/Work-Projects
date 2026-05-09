@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Thompson,brian.thompson5103@yahoo.com,(233) 318-2170,655-48-4133,12/19/1997,"5798 South St",San Jose,MI

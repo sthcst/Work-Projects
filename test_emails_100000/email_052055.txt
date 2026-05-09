@@ -1,9 +1,0 @@
-contact:
-  name: Steven Jackson
-  email: steven.jackson2425@company.com
-  phone: 849-613-1500
-  ssn: 689222981
-  dob: 03/03/1955
-  address: 2721 Park Ln
-  city: Austin
-  state: OH

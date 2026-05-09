@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Lee,anna.lee9684@business.net,263 327 8507,926998425,12-19-1990,"7019 Third Way",Dallas,AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Stewart,matthew.stewart1035@company.com,(506) 957-9220,382 69 5076,02/19/1962,"3280 Main Way",Denver,MI

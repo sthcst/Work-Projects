@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Morgan
-  email: michelle.morgan725@outlook.com
-  phone: 786 646 7191
-  ssn: 945719570
-  dob: 12/23/1953
-  address: 3784 Sixth Way
-  city: Boston
-  state: MI

@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Jones
-  email: kathleen.jones184@yahoo.com
-  phone: +1 696-989-8060
-  ssn: 760-09-6238
-  dob: 03/23/1950
-  address: 6268 North Court
-  city: Chicago
-  state: TX

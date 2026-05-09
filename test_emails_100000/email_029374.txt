@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Murillo,david.murillo702@outlook.com,+1 981-299-4174,484 51 9608,09/08/1985,"9384 South Ave",San Diego,MD

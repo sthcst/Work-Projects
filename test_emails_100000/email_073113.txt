@@ -1,9 +1,0 @@
-contact:
-  name: Gary Nelson
-  email: gary.nelson7955@gmail.com
-  phone: +1 445-285-5309
-  ssn: 056321434
-  dob: 11/15/2004
-  address: 2598 Park Ave
-  city: Jacksonville
-  state: TN

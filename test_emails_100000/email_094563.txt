@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Alvarado,richard.alvarado400@outlook.com,674 707 2368,300-22-1092,22/02/1961,"5831 Park Court",Houston,OH

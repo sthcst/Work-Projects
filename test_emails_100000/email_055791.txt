@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Perez
-  email: cynthia.perez2226@mail.com
-  phone: +1 742-836-4827
-  ssn: 876295982
-  dob: 11/15/1957
-  address: 1737 Elm Court
-  city: San Diego
-  state: TX

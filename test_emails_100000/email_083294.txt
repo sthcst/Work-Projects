@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Murillo,jessica.murillo9218@company.com,(646) 353-1041,542-83-8705,02-19-1985,"9284 Sixth Ln",Jacksonville,WI

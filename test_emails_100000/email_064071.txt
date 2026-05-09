@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Murillo
-  email: kimberly.murillo7768@business.net
-  phone: (665) 631-9448
-  ssn: 251 88 2997
-  dob: 12/26/1977
-  address: 4090 Fifth Rd
-  city: Austin
-  state: MD

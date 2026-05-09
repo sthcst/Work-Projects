@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Young
-  email: matthew.young9343@mail.com
-  phone: 284-380-5864
-  ssn: 888-46-8791
-  dob: 03-02-1965
-  address: 7520 Third St
-  city: San Antonio
-  state: CO

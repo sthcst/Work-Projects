@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Reed
-  email: jennifer.reed7757@work.org
-  phone: 202 707 5229
-  ssn: 228-45-5512
-  dob: 9/6/1971
-  address: 8512 East St
-  city: Denver
-  state: DC

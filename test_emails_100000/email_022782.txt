@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Roberts,kenneth.roberts9233@outlook.com,(771) 495-2237,643741827,10-22-1993,"3774 First Way",Philadelphia,NY

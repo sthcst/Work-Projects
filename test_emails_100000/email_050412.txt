@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Young
-  email: kimberly.young9632@work.org
-  phone: (298) 315-2540
-  ssn: 598 73 9832
-  dob: 23/12/1965
-  address: 6836 Birch Ave
-  city: Washington
-  state: TX

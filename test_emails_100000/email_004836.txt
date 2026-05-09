@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Edwards
-  email: deborah.edwards8399@work.org
-  phone: (934) 561-3637
-  ssn: 476-78-5769
-  dob: 10/23/1981
-  address: 9997 Main Ln
-  city: Boston
-  state: PA

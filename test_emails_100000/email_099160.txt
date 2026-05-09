@@ -1,9 +1,0 @@
-contact:
-  name: Brian Romero
-  email: brian.romero7207@mail.com
-  phone: 412 998 7823
-  ssn: 114-76-9340
-  dob: 04-10-1969
-  address: 6326 Main Ln
-  city: Jacksonville
-  state: TN

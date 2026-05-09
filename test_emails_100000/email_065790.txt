@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Lopez
-  email: timothy.lopez9987@company.com
-  phone: +1 567-561-8400
-  ssn: 990963856
-  dob: 3/14/1956
-  address: 1245 Summer Way
-  city: San Antonio
-  state: MA

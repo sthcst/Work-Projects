@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Thompson
-  email: samantha.thompson8456@outlook.com
-  phone: +1 517-546-7818
-  ssn: 447898462
-  dob: 21/01/1986
-  address: 9230 Birch Dr
-  city: San Diego
-  state: TX

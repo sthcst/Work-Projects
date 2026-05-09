@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Gonzalez,lauren.gonzalez7246@gmail.com,890-378-2729,557022810,05/06/1972,"9539 Birch Ave",San Antonio,TX

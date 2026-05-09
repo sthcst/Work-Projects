@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Cooper,rebecca.cooper3487@outlook.com,276 751 2744,668-49-3976,7/18/1950,"6138 South Blvd",San Antonio,GA

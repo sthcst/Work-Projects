@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Lewis,joshua.lewis5530@outlook.com,(862) 851-1763,761807483,05/27/1969,"9422 East Rd",Washington,OH

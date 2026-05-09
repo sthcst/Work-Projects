@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Gomez
-  email: kimberly.gomez3089@gmail.com
-  phone: 856 417 3397
-  ssn: 552 96 3021
-  dob: 11/23/1968
-  address: 3785 Third Ave
-  city: Philadelphia
-  state: VA

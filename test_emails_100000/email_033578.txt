@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Parker,kevin.parker3881@yahoo.com,(595) 283-7971,638599164,04/22/1997,"3361 First Court",New York,MD

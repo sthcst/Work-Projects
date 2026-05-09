@@ -1,9 +1,0 @@
-contact:
-  name: Brian Rodriguez
-  email: brian.rodriguez3415@gmail.com
-  phone: 671 325 4988
-  ssn: 797-52-8251
-  dob: 09/26/1954
-  address: 1943 East Dr
-  city: Houston
-  state: GA

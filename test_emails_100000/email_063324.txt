@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Wilson
-  email: anthony.wilson6538@yahoo.com
-  phone: +1 326-888-3972
-  ssn: 639097498
-  dob: 8/27/1992
-  address: 7221 Pine Blvd
-  city: Chicago
-  state: AZ

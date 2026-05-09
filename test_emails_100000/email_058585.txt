@@ -1,9 +1,0 @@
-contact:
-  name: Angela Ortiz
-  email: angela.ortiz7284@business.net
-  phone: 318-416-8666
-  ssn: 862 44 7287
-  dob: 7/19/1976
-  address: 5992 Second Dr
-  city: Austin
-  state: FL

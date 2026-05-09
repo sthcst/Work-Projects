@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Lee,paul.lee4392@outlook.com,385-754-6421,582104330,5/25/1999,"154 Oak Rd",Dallas,WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Hernandez,steven.hernandez5024@work.org,+1 249-222-4694,555 72 8791,10-21-1970,"8480 Third Dr",Seattle,WI

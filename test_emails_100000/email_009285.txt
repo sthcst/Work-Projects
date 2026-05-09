@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Stewart,kenneth.stewart2617@company.com,(431) 644-2630,218803427,11-09-1953,"7808 Elm Court",Los Angeles,TX

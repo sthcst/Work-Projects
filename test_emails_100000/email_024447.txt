@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Lee
-  email: lisa.lee4797@work.org
-  phone: +1 612-868-9175
-  ssn: 583 19 5870
-  dob: 17/06/1985
-  address: 2561 Oak Blvd
-  city: Austin
-  state: CA

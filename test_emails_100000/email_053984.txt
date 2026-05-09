@@ -1,9 +1,0 @@
-contact:
-  name: Anna Nelson
-  email: anna.nelson4979@company.com
-  phone: 585-534-2813
-  ssn: 098 85 8046
-  dob: 14/02/1973
-  address: 7694 Third Rd
-  city: Washington
-  state: WI

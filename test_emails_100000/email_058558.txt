@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Sanchez
-  email: christopher.sanchez9439@company.com
-  phone: +1 578-227-3283
-  ssn: 668 23 4066
-  dob: 09/24/1991
-  address: 407 Sixth Way
-  city: Houston
-  state: MA

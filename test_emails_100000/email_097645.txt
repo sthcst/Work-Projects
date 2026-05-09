@@ -1,9 +1,0 @@
-contact:
-  name: Donald Roberts
-  email: donald.roberts4828@business.net
-  phone: 967 384 2494
-  ssn: 218959898
-  dob: 06/08/1974
-  address: 8193 West Blvd
-  city: Houston
-  state: CA

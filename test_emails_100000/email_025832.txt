@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Thomas,jane.thomas3787@business.net,487 727 5901,476129656,9/8/1993,"6119 Spring Rd",Houston,TX

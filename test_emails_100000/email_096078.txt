@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Alvarado,steven.alvarado2164@example.com,(490) 335-3076,378615213,02/28/1953,"2644 Spring Court",Los Angeles,NY

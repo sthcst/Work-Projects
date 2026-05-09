@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Hernandez,brenda.hernandez1931@gmail.com,941-449-4876,226-74-2257,16/08/1954,"158 North Ln",Jacksonville,FL

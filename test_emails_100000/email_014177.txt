@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Ramirez
-  email: ashley.ramirez8998@example.com
-  phone: +1 536-498-2781
-  ssn: 760 26 6508
-  dob: 01-12-1986
-  address: 8429 Elm Blvd
-  city: Philadelphia
-  state: IL

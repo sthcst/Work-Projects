@@ -1,9 +1,0 @@
-contact:
-  name: Donald Cooper
-  email: donald.cooper1812@outlook.com
-  phone: 634 974 6542
-  ssn: 310525712
-  dob: 01-22-1953
-  address: 7261 Park St
-  city: Houston
-  state: GA

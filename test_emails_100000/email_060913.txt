@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Jackson,lauren.jackson8309@example.com,+1 517-707-5987,481 72 5940,18/08/1975,"2420 Fifth Court",San Antonio,WI

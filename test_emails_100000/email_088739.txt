@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Garcia
-  email: lauren.garcia1947@outlook.com
-  phone: 606-340-9201
-  ssn: 568 74 4203
-  dob: 01/22/2004
-  address: 1695 Fifth St
-  city: Los Angeles
-  state: MA

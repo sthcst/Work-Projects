@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Jackson,emily.jackson2014@outlook.com,+1 524-575-4434,355-34-1622,02-23-1982,"2400 West Blvd",Austin,NY

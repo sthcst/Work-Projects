@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Evans,samantha.evans3476@business.net,757 927 9730,040 61 4483,03-02-1951,"1846 Fourth Way",Chicago,CA

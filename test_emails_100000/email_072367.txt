@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Garcia
-  email: sarah.garcia5756@yahoo.com
-  phone: 653-248-5947
-  ssn: 110 90 5223
-  dob: 6/25/1961
-  address: 5146 Summer Court
-  city: Austin
-  state: TX

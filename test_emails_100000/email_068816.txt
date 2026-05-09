@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Harris,edward.harris8110@business.net,(452) 434-8813,472956947,2/26/1990,"9906 Birch Court",Phoenix,AZ

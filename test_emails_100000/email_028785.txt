@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Thompson
-  email: samantha.thompson3410@mail.com
-  phone: +1 379-256-4021
-  ssn: 515 35 7515
-  dob: 05/17/1988
-  address: 6601 Park Blvd
-  city: Boston
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Morgan
-  email: sarah.morgan7717@business.net
-  phone: (200) 931-2060
-  ssn: 147783405
-  dob: 3/18/1999
-  address: 8958 Maple Dr
-  city: Washington
-  state: MI

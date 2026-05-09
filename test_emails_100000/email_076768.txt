@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Jimenez,cynthia.jimenez4014@work.org,(584) 493-3730,375-45-2241,08-16-1963,"2437 Maple Court",Seattle,OH

@@ -1,9 +1,0 @@
-contact:
-  name: Brian Evans
-  email: brian.evans545@mail.com
-  phone: 327-325-7063
-  ssn: 200-07-4261
-  dob: 01-28-1953
-  address: 7645 Fourth Dr
-  city: Denver
-  state: MI

@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Ortiz
-  email: jeffrey.ortiz5665@company.com
-  phone: 980 668 3473
-  ssn: 804173566
-  dob: 08/26/1960
-  address: 2366 Summer Dr
-  city: Austin
-  state: CO

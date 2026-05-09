@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Moore
-  email: andrew.moore6492@gmail.com
-  phone: (382) 353-2207
-  ssn: 165 88 9909
-  dob: 02/10/1954
-  address: 1972 Park Ave
-  city: Denver
-  state: GA

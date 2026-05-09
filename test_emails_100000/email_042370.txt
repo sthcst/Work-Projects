@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Ortiz,joseph.ortiz2606@mail.com,829 402 9262,906-56-6422,01/19/1983,"5390 Cedar St",New York,FL

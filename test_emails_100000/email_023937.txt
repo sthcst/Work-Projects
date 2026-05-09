@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Lopez
-  email: jacob.lopez1333@outlook.com
-  phone: 498 684 6932
-  ssn: 428974437
-  dob: 10/01/1976
-  address: 3958 North Blvd
-  city: Washington
-  state: AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Reyes,john.reyes2549@company.com,(461) 226-9294,946 52 3340,08/07/1975,"6332 North Ave",New York,TX

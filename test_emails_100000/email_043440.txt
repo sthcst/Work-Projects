@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Morgan
-  email: amanda.morgan2320@mail.com
-  phone: 839 202 2416
-  ssn: 007 30 9064
-  dob: 04-16-1957
-  address: 559 Park Court
-  city: New York
-  state: AZ

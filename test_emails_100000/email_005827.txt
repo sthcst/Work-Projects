@@ -1,9 +1,0 @@
-contact:
-  name: William Perez
-  email: william.perez993@gmail.com
-  phone: (780) 496-1066
-  ssn: 797 37 5521
-  dob: 12-15-1973
-  address: 7706 Maple Rd
-  city: Philadelphia
-  state: NC

@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Gonzalez
-  email: jacob.gonzalez7720@business.net
-  phone: 714 297 1824
-  ssn: 810552049
-  dob: 11/28/1951
-  address: 3994 First Way
-  city: Dallas
-  state: TX

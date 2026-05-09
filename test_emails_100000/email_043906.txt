@@ -1,9 +1,0 @@
-contact:
-  name: Robert Lewis
-  email: robert.lewis334@company.com
-  phone: 747-356-1513
-  ssn: 497-73-2878
-  dob: 10/15/1977
-  address: 909 Fifth Ln
-  city: San Diego
-  state: WA

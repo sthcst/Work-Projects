@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Nunez,joseph.nunez4742@work.org,+1 366-525-3301,947 46 2621,8/12/1989,"4039 Maple Dr",Seattle,FL

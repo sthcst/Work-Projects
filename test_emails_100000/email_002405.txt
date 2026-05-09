@@ -1,9 +1,0 @@
-contact:
-  name: Helen Gonzalez
-  email: helen.gonzalez2974@business.net
-  phone: +1 900-855-5481
-  ssn: 612 03 8504
-  dob: 4/12/1956
-  address: 8423 Park Dr
-  city: Jacksonville
-  state: CO

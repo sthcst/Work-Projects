@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Morris,andrew.morris9206@example.com,602-584-1256,970-59-2770,06-11-1969,"3691 Birch Rd",Austin,MD

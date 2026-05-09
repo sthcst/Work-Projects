@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Davis,paul.davis1775@outlook.com,776-633-3712,499 29 4534,8/15/1963,"6574 Pine Blvd",Los Angeles,MD

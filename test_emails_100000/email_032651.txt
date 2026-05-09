@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Clark
-  email: jennifer.clark8928@work.org
-  phone: 955-350-8288
-  ssn: 967381695
-  dob: 06-27-2001
-  address: 1278 Park Blvd
-  city: Los Angeles
-  state: WI

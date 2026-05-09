@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Peterson,michelle.peterson5865@outlook.com,(364) 235-4460,861-34-8289,12-17-1999,"1444 Spring Court",Denver,OH

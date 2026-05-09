@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Hall,katherine.hall7872@yahoo.com,670 993 5154,235273409,09/06/1972,"3270 Fifth Court",Seattle,NC

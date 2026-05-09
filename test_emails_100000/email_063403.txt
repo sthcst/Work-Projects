@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Evans,christopher.evans8546@work.org,758-405-5558,559317193,02/22/1969,"1145 West St",Houston,MA

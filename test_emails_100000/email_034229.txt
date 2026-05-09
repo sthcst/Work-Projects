@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Flores,ronald.flores6807@outlook.com,(601) 690-1060,261 64 4743,08/10/1972,"8841 East Rd",Philadelphia,DC

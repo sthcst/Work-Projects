@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Cooper,shirley.cooper1315@work.org,817-540-2629,481 73 2163,11/27/1979,"9229 Second Blvd",New York,OH

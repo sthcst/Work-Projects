@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa White,lisa.white680@example.com,262-295-4390,950421437,21/10/1980,"1779 Fourth Ln",Boston,TX

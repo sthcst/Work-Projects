@@ -1,9 +1,0 @@
-contact:
-  name: Gary Anderson
-  email: gary.anderson2820@example.com
-  phone: 602-453-4614
-  ssn: 897-88-3443
-  dob: 01/26/1972
-  address: 951 East Rd
-  city: New York
-  state: CA

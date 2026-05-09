@@ -1,9 +1,0 @@
-contact:
-  name: Michael Lopez
-  email: michael.lopez8033@company.com
-  phone: 698 428 6434
-  ssn: 694-86-2484
-  dob: 11/14/1993
-  address: 4085 Sixth Court
-  city: Chicago
-  state: DC

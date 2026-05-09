@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Gomez,nicholas.gomez7415@outlook.com,+1 972-879-3408,638046858,02/19/1987,"3370 Pine Blvd",Houston,MA

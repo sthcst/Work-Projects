@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Gomez
-  email: joshua.gomez8870@work.org
-  phone: +1 562-347-2324
-  ssn: 042 08 9622
-  dob: 09-14-1970
-  address: 2882 South Blvd
-  city: Denver
-  state: VA

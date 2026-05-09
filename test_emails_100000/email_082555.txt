@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Reeves,samantha.reeves758@yahoo.com,363 939 4293,102-57-5260,03/06/2002,"1101 Main Rd",Austin,MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Morgan,jacob.morgan3687@company.com,(837) 207-4061,827 02 5765,03/08/1997,"1491 Third Rd",New York,TX

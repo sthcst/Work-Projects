@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Gomez,ryan.gomez1049@yahoo.com,927-810-4715,216-88-7982,01-24-2002,"1930 East Ln",Austin,CA

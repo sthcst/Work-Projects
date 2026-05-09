@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Miller,william.miller6252@gmail.com,+1 634-283-1757,194823052,4/23/1973,"4960 First Rd",Austin,TX

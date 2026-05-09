@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Stewart
-  email: katherine.stewart3610@outlook.com
-  phone: 423-951-2629
-  ssn: 510-93-6961
-  dob: 6/28/1994
-  address: 9229 Elm Dr
-  city: New York
-  state: CA

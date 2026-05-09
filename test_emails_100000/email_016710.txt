@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Hernandez,michelle.hernandez2894@company.com,(521) 998-9684,017 03 5465,16/12/1999,"1418 Summer Way",Austin,VA

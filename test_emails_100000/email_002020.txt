@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Peterson,rebecca.peterson4502@example.com,902 306 5740,241581074,05-07-1993,"2550 Summer Ave",Denver,AZ

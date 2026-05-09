@@ -1,9 +1,0 @@
-contact:
-  name: William Morris
-  email: william.morris8343@outlook.com
-  phone: 806-736-4517
-  ssn: 754887139
-  dob: 13/06/1973
-  address: 9541 Third Dr
-  city: Phoenix
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Williams
-  email: kenneth.williams7099@mail.com
-  phone: 277 412 3332
-  ssn: 462 99 4670
-  dob: 10/3/1981
-  address: 5720 Pine Court
-  city: Houston
-  state: MA

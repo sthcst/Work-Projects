@@ -1,9 +1,0 @@
-contact:
-  name: Angela Romero
-  email: angela.romero3010@example.com
-  phone: 927-424-8051
-  ssn: 548968393
-  dob: 11/10/1969
-  address: 7400 Cedar St
-  city: Chicago
-  state: FL

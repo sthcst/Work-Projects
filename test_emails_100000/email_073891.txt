@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Harris
-  email: joshua.harris5962@company.com
-  phone: 213 400 9538
-  ssn: 384119045
-  dob: 09/10/1985
-  address: 6788 Spring Way
-  city: Jacksonville
-  state: PA

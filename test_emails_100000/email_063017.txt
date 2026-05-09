@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Williams,gary.williams6781@yahoo.com,(860) 909-8303,439-66-1849,20/09/1957,"1356 Cedar Rd",San Diego,CA

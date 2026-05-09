@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Taylor
-  email: rebecca.taylor6947@work.org
-  phone: +1 788-384-2269
-  ssn: 314614011
-  dob: 06/09/1995
-  address: 2127 Maple Court
-  city: Denver
-  state: AZ

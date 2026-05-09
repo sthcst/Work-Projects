@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Romero
-  email: stephanie.romero176@gmail.com
-  phone: +1 554-462-5407
-  ssn: 566228190
-  dob: 09/22/1992
-  address: 2816 West St
-  city: New York
-  state: AZ

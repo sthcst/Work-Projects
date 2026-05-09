@@ -1,9 +1,0 @@
-contact:
-  name: Angela Rogers
-  email: angela.rogers2480@yahoo.com
-  phone: 396-809-3793
-  ssn: 283-37-7591
-  dob: 20/04/1973
-  address: 3324 Spring Court
-  city: Dallas
-  state: CA

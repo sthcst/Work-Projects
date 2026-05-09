@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Alvarado,kimberly.alvarado3317@mail.com,344 207 7429,109221013,06-01-1960,"7200 Second Rd",Los Angeles,NC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Flores,john.flores5938@outlook.com,+1 788-874-5856,801 20 9784,03/16/1976,"8529 Oak Rd",Jacksonville,WI

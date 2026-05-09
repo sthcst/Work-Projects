@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Murillo,paul.murillo6859@business.net,662-325-6696,756-81-1889,05/02/1959,"6832 Oak Way",Austin,MA

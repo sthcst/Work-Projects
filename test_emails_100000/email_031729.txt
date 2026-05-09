@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Phillips,emma.phillips4658@work.org,(507) 772-2615,591123753,6/10/1994,"8257 Main Ave",New York,OH

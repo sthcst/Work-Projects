@@ -1,9 +1,0 @@
-contact:
-  name: Maria Edwards
-  email: maria.edwards8061@outlook.com
-  phone: +1 239-690-8919
-  ssn: 759-46-7033
-  dob: 06/10/1988
-  address: 6399 Maple Ln
-  city: Los Angeles
-  state: OH

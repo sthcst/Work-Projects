@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Morris,sarah.morris201@gmail.com,+1 418-980-4502,556463267,20/12/2003,"3593 Maple Dr",Boston,WI

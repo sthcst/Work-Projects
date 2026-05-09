@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Lopez,shirley.lopez2947@mail.com,250-682-1898,416178390,12/11/1996,"4557 Spring St",New York,DC

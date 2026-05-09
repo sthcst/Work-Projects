@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Roberts,emma.roberts779@outlook.com,+1 419-451-4982,539 55 1767,5/16/1980,"9550 Pine Blvd",Philadelphia,OH

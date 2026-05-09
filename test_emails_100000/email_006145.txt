@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Perez,paul.perez6266@business.net,553 672 9444,671 90 7811,10-10-1993,"326 Elm Court",Washington,PA

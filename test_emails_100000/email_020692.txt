@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Dominguez,joseph.dominguez178@outlook.com,676 806 5270,174-36-1407,20/10/1983,"4377 Oak St",San Diego,WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Carter,emily.carter7717@yahoo.com,770-928-1506,806 05 5961,1/3/1970,"1157 Pine Blvd",Denver,CA

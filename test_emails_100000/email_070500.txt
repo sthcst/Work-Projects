@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Martin,donald.martin4924@business.net,(591) 880-6078,070 34 7046,01-06-1961,"8534 South Court",New York,CA

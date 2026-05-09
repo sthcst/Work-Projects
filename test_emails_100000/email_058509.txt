@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua White,joshua.white1325@work.org,(529) 365-9494,573891556,16/06/1977,"2705 Maple Court",San Diego,TN

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Sanchez,steven.sanchez4385@outlook.com,(662) 458-4666,796-54-3429,4/19/1983,"7928 Oak St",Boston,CO

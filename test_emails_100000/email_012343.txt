@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Moore,joshua.moore1969@yahoo.com,361-845-8258,512167949,08/03/1986,"2224 East Ave",Seattle,NJ

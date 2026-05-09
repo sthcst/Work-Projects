@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Reyes,brenda.reyes8697@work.org,+1 366-836-9396,177-64-8562,8/23/1977,"5747 Park Rd",Phoenix,TX

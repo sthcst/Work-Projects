@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Serrano,john.serrano2787@company.com,784 268 2742,315-63-8616,04/20/1966,"6879 Cedar Court",Washington,NY

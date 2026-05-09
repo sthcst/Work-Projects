@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Serrano,george.serrano793@gmail.com,+1 365-948-4178,337312483,12/08/1957,"3975 East Court",New York,GA

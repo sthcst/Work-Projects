@@ -1,9 +1,0 @@
-contact:
-  name: Gary Serrano
-  email: gary.serrano9630@example.com
-  phone: 919-457-5876
-  ssn: 686 57 7751
-  dob: 05/27/1963
-  address: 1994 South Ave
-  city: San Jose
-  state: MA

@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Delgado
-  email: jacob.delgado5564@company.com
-  phone: +1 992-965-5054
-  ssn: 465293029
-  dob: 18/02/1990
-  address: 2842 Elm Ave
-  city: San Diego
-  state: DC

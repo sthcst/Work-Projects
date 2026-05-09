@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Campbell,steven.campbell2884@yahoo.com,931-591-3506,149169033,02/22/1960,"6407 Elm Way",Boston,CA

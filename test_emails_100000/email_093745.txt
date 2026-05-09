@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Williams,mark.williams7853@example.com,+1 823-774-9598,677341866,9/27/1952,"65 Summer Ln",Boston,MI

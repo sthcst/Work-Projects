@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Flores,ashley.flores6474@business.net,584-371-5728,140-78-4111,09/01/1957,"7782 Oak Ave",Seattle,WA

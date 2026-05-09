@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Lopez,mark.lopez7806@company.com,(647) 421-6897,967 17 2008,05/04/1970,"542 Pine Rd",Denver,IL

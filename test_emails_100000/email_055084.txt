@@ -1,9 +1,0 @@
-contact:
-  name: Emma Collins
-  email: emma.collins3201@company.com
-  phone: 217-877-5372
-  ssn: 159 82 7733
-  dob: 03-18-1950
-  address: 9971 Oak Way
-  city: Phoenix
-  state: IL

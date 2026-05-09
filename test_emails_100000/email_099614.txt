@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Martinez,andrew.martinez8967@yahoo.com,840-222-3668,687 27 1607,08/18/1977,"5690 Elm Rd",Denver,NJ

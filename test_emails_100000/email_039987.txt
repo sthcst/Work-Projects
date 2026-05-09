@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Nelson
-  email: joseph.nelson5286@work.org
-  phone: (307) 616-7190
-  ssn: 910 96 9711
-  dob: 03/24/1967
-  address: 8306 Birch Way
-  city: Los Angeles
-  state: TX

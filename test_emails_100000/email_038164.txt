@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Garcia,katherine.garcia2333@mail.com,+1 488-795-9707,788242040,01-12-1957,"2713 Oak Blvd",Houston,AZ

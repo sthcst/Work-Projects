@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Romero
-  email: deborah.romero7073@gmail.com
-  phone: (937) 554-7690
-  ssn: 934382952
-  dob: 07-27-1977
-  address: 7510 Elm Rd
-  city: Denver
-  state: VA

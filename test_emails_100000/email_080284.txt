@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Evans
-  email: christopher.evans6840@work.org
-  phone: 791 838 2989
-  ssn: 391 61 6226
-  dob: 11/5/1999
-  address: 482 Sixth Dr
-  city: San Jose
-  state: DC

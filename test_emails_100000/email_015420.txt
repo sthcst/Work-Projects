@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Nunez
-  email: rebecca.nunez910@mail.com
-  phone: (459) 629-2986
-  ssn: 148 84 1155
-  dob: 02-11-1971
-  address: 6441 North Dr
-  city: San Jose
-  state: PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Collins,maria.collins2598@yahoo.com,917-435-4801,204854034,11-14-1984,"2163 First Dr",Philadelphia,FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Ramirez,kathleen.ramirez5906@work.org,674 222 6375,435268041,1/7/1997,"7461 Pine Ln",New York,FL

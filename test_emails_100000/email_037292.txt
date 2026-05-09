@@ -1,9 +1,0 @@
-contact:
-  name: Richard Wilson
-  email: richard.wilson5577@work.org
-  phone: (337) 725-8892
-  ssn: 315121596
-  dob: 9/6/1986
-  address: 9685 East Rd
-  city: New York
-  state: CA

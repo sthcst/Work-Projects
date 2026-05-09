@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Campbell,edward.campbell6144@gmail.com,+1 542-253-1032,301488848,07/19/1960,"8263 Park Rd",San Antonio,TX

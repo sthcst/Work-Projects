@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Parker
-  email: kimberly.parker9426@example.com
-  phone: +1 546-343-8062
-  ssn: 690-88-6834
-  dob: 07/06/1968
-  address: 8043 Spring Ave
-  city: Chicago
-  state: CO

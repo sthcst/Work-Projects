@@ -1,9 +1,0 @@
-contact:
-  name: Mark Sanchez
-  email: mark.sanchez4310@example.com
-  phone: +1 333-367-1166
-  ssn: 942689910
-  dob: 25/10/1956
-  address: 996 Fifth Ln
-  city: Washington
-  state: CA

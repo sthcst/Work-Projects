@@ -1,9 +1,0 @@
-contact:
-  name: Anna Lewis
-  email: anna.lewis76@outlook.com
-  phone: +1 690-827-1070
-  ssn: 720-59-4984
-  dob: 12/07/1976
-  address: 5990 Pine Dr
-  city: Jacksonville
-  state: GA

@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Nelson
-  email: anthony.nelson1247@gmail.com
-  phone: 678-784-6700
-  ssn: 549015482
-  dob: 14/06/1992
-  address: 878 Birch Blvd
-  city: Denver
-  state: VA

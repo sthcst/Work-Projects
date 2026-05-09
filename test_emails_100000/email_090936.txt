@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Lopez
-  email: katherine.lopez2631@outlook.com
-  phone: (937) 895-9534
-  ssn: 303148967
-  dob: 2/24/1994
-  address: 3906 West Ave
-  city: Washington
-  state: MA

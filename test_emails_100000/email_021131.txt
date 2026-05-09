@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Murillo,pamela.murillo2972@company.com,(902) 343-7812,177683273,28/12/1995,"2763 North Ln",San Diego,MA

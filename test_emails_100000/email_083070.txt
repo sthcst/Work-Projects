@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Edwards,ryan.edwards6314@gmail.com,880-681-9151,253402954,01/13/1983,"470 Elm Court",New York,GA

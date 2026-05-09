@@ -1,9 +1,0 @@
-contact:
-  name: Gary Reeves
-  email: gary.reeves1890@work.org
-  phone: 898 364 6542
-  ssn: 648 16 6803
-  dob: 14/11/1953
-  address: 8390 Main Dr
-  city: Chicago
-  state: TX

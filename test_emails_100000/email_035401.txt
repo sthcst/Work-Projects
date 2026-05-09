@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Parker
-  email: jennifer.parker7880@mail.com
-  phone: (456) 288-2637
-  ssn: 280 24 9388
-  dob: 5/1/1989
-  address: 9287 Elm St
-  city: Philadelphia
-  state: OH

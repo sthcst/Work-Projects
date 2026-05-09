@@ -1,9 +1,0 @@
-contact:
-  name: Maria Rodriguez
-  email: maria.rodriguez3258@mail.com
-  phone: 324 249 2165
-  ssn: 079048310
-  dob: 13/07/1959
-  address: 1815 East Rd
-  city: Jacksonville
-  state: CA

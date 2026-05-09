@@ -1,9 +1,0 @@
-contact:
-  name: Edward Wilson
-  email: edward.wilson6396@company.com
-  phone: +1 447-453-5600
-  ssn: 086344694
-  dob: 04/19/1955
-  address: 7717 Elm Rd
-  city: New York
-  state: MO

@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Johnson
-  email: jessica.johnson7811@yahoo.com
-  phone: (833) 838-2207
-  ssn: 861-86-1761
-  dob: 02/12/2004
-  address: 5675 East Blvd
-  city: Austin
-  state: CA

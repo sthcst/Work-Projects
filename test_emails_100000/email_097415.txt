@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Phillips
-  email: brenda.phillips9170@mail.com
-  phone: 628-720-6234
-  ssn: 467 63 1714
-  dob: 03-20-1971
-  address: 9231 West Rd
-  city: Seattle
-  state: NC

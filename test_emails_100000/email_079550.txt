@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Murillo,deborah.murillo9577@yahoo.com,804-344-5110,491832890,4/8/1988,"7184 Elm Ave",New York,DC

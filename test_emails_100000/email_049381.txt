@@ -1,9 +1,0 @@
-contact:
-  name: Robert Dominguez
-  email: robert.dominguez6445@business.net
-  phone: +1 279-652-7548
-  ssn: 842-53-4414
-  dob: 12/25/1988
-  address: 9050 Sixth Dr
-  city: Los Angeles
-  state: CO

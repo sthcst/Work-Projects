@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Williams,matthew.williams2049@example.com,(238) 281-2573,361-82-1761,11/28/2000,"5897 Second Rd",Jacksonville,NJ

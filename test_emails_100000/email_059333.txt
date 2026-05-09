@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Garcia
-  email: katherine.garcia1843@example.com
-  phone: (312) 570-8949
-  ssn: 006 96 4441
-  dob: 04/08/1975
-  address: 8247 Elm Ln
-  city: Philadelphia
-  state: AZ

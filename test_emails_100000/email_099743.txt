@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Moore,daniel.moore3368@mail.com,+1 394-632-3751,435 65 4404,07/13/1961,"7415 Spring Ln",Phoenix,CA

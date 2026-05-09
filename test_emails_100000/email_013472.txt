@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Clark
-  email: amanda.clark574@work.org
-  phone: 949 898 2982
-  ssn: 923917977
-  dob: 21/04/1993
-  address: 9124 Park Ave
-  city: Los Angeles
-  state: AZ

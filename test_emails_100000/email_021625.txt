@@ -1,9 +1,0 @@
-contact:
-  name: Steven Lee
-  email: steven.lee895@outlook.com
-  phone: 522 502 2388
-  ssn: 665 04 9537
-  dob: 12/6/1950
-  address: 1026 Sixth Court
-  city: Houston
-  state: OH

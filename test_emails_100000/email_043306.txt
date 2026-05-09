@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Martin,christine.martin5354@example.com,(758) 985-3795,420 95 8667,21/10/1973,"8359 Spring Ave",Phoenix,WA

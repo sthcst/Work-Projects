@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Jackson
-  email: christopher.jackson4003@company.com
-  phone: 226 633 4566
-  ssn: 116 80 9844
-  dob: 02/25/1982
-  address: 8144 Second Court
-  city: Denver
-  state: WA

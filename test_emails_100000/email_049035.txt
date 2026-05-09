@@ -1,9 +1,0 @@
-contact:
-  name: Mark Rodriguez
-  email: mark.rodriguez5155@gmail.com
-  phone: +1 520-748-4273
-  ssn: 370-32-2039
-  dob: 08/23/1989
-  address: 3343 South Ln
-  city: Seattle
-  state: AZ

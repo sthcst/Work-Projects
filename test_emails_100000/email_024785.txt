@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary White,gary.white5941@example.com,723 392 8632,867403097,21/12/2004,"7923 Fourth Dr",Phoenix,PA

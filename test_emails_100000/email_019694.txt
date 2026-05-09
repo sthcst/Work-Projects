@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Garcia,kimberly.garcia663@yahoo.com,+1 647-645-6183,467-54-3864,07-25-1981,"2856 North Ave",Denver,CO

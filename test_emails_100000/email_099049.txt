@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Harris,emily.harris9259@company.com,966 362 2585,132635642,01-22-1998,"8522 Oak Court",Denver,DC

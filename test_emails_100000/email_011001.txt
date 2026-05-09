@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Brown
-  email: katherine.brown4196@yahoo.com
-  phone: 766-792-7407
-  ssn: 658-46-1372
-  dob: 25/04/1973
-  address: 92 Fourth Court
-  city: Denver
-  state: NC

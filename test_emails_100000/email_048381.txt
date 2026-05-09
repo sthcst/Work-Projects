@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Hall
-  email: cynthia.hall6775@gmail.com
-  phone: 673-534-7042
-  ssn: 742-68-2291
-  dob: 23/11/2005
-  address: 2305 Second Way
-  city: Chicago
-  state: CO

@@ -1,9 +1,0 @@
-contact:
-  name: Steven Edwards
-  email: steven.edwards1068@outlook.com
-  phone: 937-293-7007
-  ssn: 151234706
-  dob: 07-24-1997
-  address: 6468 East Dr
-  city: Chicago
-  state: TN

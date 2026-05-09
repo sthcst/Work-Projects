@@ -1,9 +1,0 @@
-contact:
-  name: Steven Garcia
-  email: steven.garcia8351@gmail.com
-  phone: 761-737-2844
-  ssn: 438 76 6631
-  dob: 8/23/1976
-  address: 3473 Elm Way
-  city: San Antonio
-  state: TN

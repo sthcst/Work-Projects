@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Rodriguez
-  email: samantha.rodriguez3143@company.com
-  phone: +1 575-889-7031
-  ssn: 973 45 9690
-  dob: 10-18-1966
-  address: 4844 Fifth Court
-  city: Chicago
-  state: IL

@@ -1,9 +1,0 @@
-contact:
-  name: Richard Garcia
-  email: richard.garcia3433@mail.com
-  phone: 369-573-5286
-  ssn: 123-24-5521
-  dob: 25/12/1953
-  address: 4407 East Court
-  city: Phoenix
-  state: CA

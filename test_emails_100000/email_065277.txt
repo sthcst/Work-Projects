@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Stewart,shirley.stewart181@yahoo.com,438 227 2843,834 11 8972,04-25-1952,"8155 Cedar Way",San Diego,AZ

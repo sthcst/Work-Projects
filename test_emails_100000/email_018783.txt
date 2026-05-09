@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Rogers,anthony.rogers5476@mail.com,280 591 1454,144-55-2035,12-05-1998,"84 Third Way",Phoenix,WI

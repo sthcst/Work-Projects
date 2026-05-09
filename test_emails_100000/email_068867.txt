@@ -1,9 +1,0 @@
-contact:
-  name: Brian Lopez
-  email: brian.lopez3700@example.com
-  phone: (459) 688-6655
-  ssn: 267425902
-  dob: 11-01-1999
-  address: 9978 North Way
-  city: Dallas
-  state: MA

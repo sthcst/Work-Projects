@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Jackson
-  email: kimberly.jackson2395@mail.com
-  phone: (859) 400-6231
-  ssn: 804142235
-  dob: 11/09/1963
-  address: 3182 Fifth Rd
-  city: Chicago
-  state: TX

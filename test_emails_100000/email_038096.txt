@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Martinez
-  email: sarah.martinez1826@mail.com
-  phone: 549-332-8459
-  ssn: 545-96-7201
-  dob: 01/08/1951
-  address: 6526 Second Rd
-  city: Chicago
-  state: AZ

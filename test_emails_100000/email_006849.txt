@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Perez,charles.perez2392@gmail.com,+1 896-955-5499,022-37-7398,09/12/1998,"863 Pine Rd",Houston,AZ

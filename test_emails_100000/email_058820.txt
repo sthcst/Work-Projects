@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Phillips
-  email: pamela.phillips5588@business.net
-  phone: +1 515-275-2149
-  ssn: 895446221
-  dob: 25/08/1968
-  address: 7356 Main Ave
-  city: Houston
-  state: MO

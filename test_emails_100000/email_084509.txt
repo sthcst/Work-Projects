@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Rodriguez
-  email: christopher.rodriguez2998@gmail.com
-  phone: (883) 530-4244
-  ssn: 290 75 5571
-  dob: 11/03/1961
-  address: 3274 North Rd
-  city: Chicago
-  state: TX

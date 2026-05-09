@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Young
-  email: nicole.young3503@example.com
-  phone: (825) 506-1938
-  ssn: 878-24-1819
-  dob: 1/2/1952
-  address: 2377 Birch Blvd
-  city: San Antonio
-  state: DC

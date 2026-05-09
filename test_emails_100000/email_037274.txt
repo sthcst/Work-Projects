@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Wilson,rachel.wilson6485@business.net,(550) 803-4957,951 51 1879,02-09-1995,"5499 Pine St",San Jose,CA

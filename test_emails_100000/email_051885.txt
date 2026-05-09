@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine White,christine.white5968@example.com,497-561-6733,440304919,03/06/1971,"1387 East St",Philadelphia,NJ

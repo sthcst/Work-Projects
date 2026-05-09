@@ -1,9 +1,0 @@
-contact:
-  name: Steven Hernandez
-  email: steven.hernandez4195@work.org
-  phone: 739-415-3275
-  ssn: 048 91 3839
-  dob: 11/03/1982
-  address: 3316 Maple Ln
-  city: Los Angeles
-  state: TX

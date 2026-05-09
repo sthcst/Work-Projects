@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Garcia
-  email: nicholas.garcia4814@business.net
-  phone: +1 582-894-3914
-  ssn: 305-79-2250
-  dob: 09-19-1964
-  address: 9511 Elm Ln
-  city: Chicago
-  state: CA

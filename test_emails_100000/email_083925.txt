@@ -1,9 +1,0 @@
-contact:
-  name: James Stewart
-  email: james.stewart7031@mail.com
-  phone: (997) 231-9917
-  ssn: 850 48 7770
-  dob: 26/06/1976
-  address: 4928 Park Way
-  city: Denver
-  state: NY

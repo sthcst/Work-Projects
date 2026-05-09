@@ -1,9 +1,0 @@
-contact:
-  name: Charles Walker
-  email: charles.walker7394@mail.com
-  phone: 774 206 6265
-  ssn: 744 11 5703
-  dob: 10-10-1981
-  address: 8229 Summer Rd
-  city: Phoenix
-  state: MI

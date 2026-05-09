@@ -1,9 +1,0 @@
-contact:
-  name: James Guerrero
-  email: james.guerrero2472@company.com
-  phone: 773-728-1972
-  ssn: 233 37 2901
-  dob: 21/01/1963
-  address: 7654 West Dr
-  city: Phoenix
-  state: MA

@@ -1,9 +1,0 @@
-contact:
-  name: Emma Gomez
-  email: emma.gomez15@example.com
-  phone: 361 855 1168
-  ssn: 618514483
-  dob: 9/18/1995
-  address: 9397 Second Dr
-  city: San Jose
-  state: MD

@@ -1,9 +1,0 @@
-contact:
-  name: Megan Walker
-  email: megan.walker3292@example.com
-  phone: +1 211-761-2451
-  ssn: 447 82 9281
-  dob: 02-23-1990
-  address: 618 Fourth Way
-  city: Jacksonville
-  state: TX

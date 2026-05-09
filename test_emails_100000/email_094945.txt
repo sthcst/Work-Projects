@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Hall,jessica.hall1704@yahoo.com,965 786 5968,141-35-8235,3/7/1988,"5868 South Rd",Austin,IL

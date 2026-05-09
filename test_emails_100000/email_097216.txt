@@ -1,9 +1,0 @@
-contact:
-  name: Anna Guerrero
-  email: anna.guerrero6706@gmail.com
-  phone: +1 819-896-1018
-  ssn: 149 64 4593
-  dob: 03/16/1977
-  address: 4651 West Dr
-  city: San Jose
-  state: GA

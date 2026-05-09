@@ -1,9 +1,0 @@
-contact:
-  name: Megan Romero
-  email: megan.romero8099@example.com
-  phone: +1 362-812-3778
-  ssn: 626-56-1350
-  dob: 20/01/1952
-  address: 5662 Spring Court
-  city: Washington
-  state: NJ

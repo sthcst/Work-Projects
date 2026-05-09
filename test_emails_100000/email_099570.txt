@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Young
-  email: katherine.young4512@outlook.com
-  phone: +1 245-446-7076
-  ssn: 525-41-4352
-  dob: 12/15/1988
-  address: 8539 Pine St
-  city: Dallas
-  state: MA

@@ -1,9 +1,0 @@
-contact:
-  name: John Alvarado
-  email: john.alvarado9467@yahoo.com
-  phone: 518 833 7384
-  ssn: 356 84 5735
-  dob: 06/08/1975
-  address: 6001 First Dr
-  city: Los Angeles
-  state: TX

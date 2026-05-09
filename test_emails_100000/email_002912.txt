@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua White,joshua.white2192@example.com,(946) 499-1939,605-26-5160,7/25/1999,"6715 Park Dr",Dallas,CA

@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Jimenez
-  email: pamela.jimenez4600@gmail.com
-  phone: +1 915-250-1508
-  ssn: 550-53-3448
-  dob: 09/18/1988
-  address: 8048 Summer Way
-  city: Houston
-  state: WA

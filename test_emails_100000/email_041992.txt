@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Martin,michael.martin1840@company.com,947-797-7209,223-90-4340,12/15/1953,"649 South Way",Houston,TX

@@ -1,9 +1,0 @@
-contact:
-  name: Michael Reeves
-  email: michael.reeves1875@business.net
-  phone: 587-312-7717
-  ssn: 087 45 7533
-  dob: 10/25/1974
-  address: 765 Summer Ave
-  city: San Jose
-  state: VA

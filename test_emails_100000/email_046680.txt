@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Clark,ashley.clark7807@outlook.com,(214) 982-6130,070 26 6234,11-20-1968,"255 Birch Blvd",New York,FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Parker,timothy.parker673@work.org,+1 994-991-9585,338-02-5973,7/11/1989,"2095 First Court",Boston,TN

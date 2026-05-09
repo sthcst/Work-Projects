@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Collins,brian.collins3833@yahoo.com,+1 748-586-3167,673-96-7060,12-03-1968,"1098 Fifth St",Phoenix,NJ

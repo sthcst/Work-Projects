@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Robinson,john.robinson9650@business.net,986-497-3345,487079941,10/22/1991,"9621 South St",San Diego,MO

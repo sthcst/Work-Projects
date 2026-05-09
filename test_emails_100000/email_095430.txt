@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Wilson,ashley.wilson9430@mail.com,+1 897-731-4841,283-08-1287,2/14/2004,"4644 Fourth Ave",Phoenix,WA

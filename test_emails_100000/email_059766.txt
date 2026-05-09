@@ -1,9 +1,0 @@
-contact:
-  name: Emma Morris
-  email: emma.morris2847@yahoo.com
-  phone: +1 931-550-9355
-  ssn: 327 62 7766
-  dob: 08/05/1964
-  address: 9280 Elm Way
-  city: New York
-  state: WI

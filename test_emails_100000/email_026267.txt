@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Rodriguez,matthew.rodriguez873@mail.com,861-700-2353,024-09-9196,6/26/1951,"2122 Third Rd",Austin,CA

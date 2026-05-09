@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Moore,jacob.moore5641@work.org,591 936 8536,507309745,1/11/1954,"9964 Pine Rd",San Diego,AZ

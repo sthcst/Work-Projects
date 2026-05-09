@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Reed,ashley.reed5663@mail.com,(423) 299-1754,354529929,04/11/1967,"6048 Maple Court",Dallas,FL

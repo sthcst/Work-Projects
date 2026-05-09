@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Smith
-  email: amanda.smith6588@mail.com
-  phone: 417-921-6207
-  ssn: 076-88-8334
-  dob: 9/20/1972
-  address: 3157 Birch Ave
-  city: San Diego
-  state: WI

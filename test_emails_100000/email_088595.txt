@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Garcia
-  email: nicole.garcia3@yahoo.com
-  phone: 978-324-4525
-  ssn: 530 95 2959
-  dob: 07/07/2002
-  address: 5435 Birch Court
-  city: Chicago
-  state: AZ

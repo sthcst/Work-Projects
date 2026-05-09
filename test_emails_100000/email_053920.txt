@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Bell,matthew.bell5422@outlook.com,648 431 4459,673181236,25/08/1957,"7222 Spring Court",San Diego,MA

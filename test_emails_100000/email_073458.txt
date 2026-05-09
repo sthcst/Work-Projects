@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Murillo,katherine.murillo9869@gmail.com,+1 312-298-9140,037158036,07-19-2003,"9753 Elm Ave",Boston,WI

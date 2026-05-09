@@ -1,9 +1,0 @@
-contact:
-  name: Jason Reeves
-  email: jason.reeves3845@work.org
-  phone: 320-259-7722
-  ssn: 482-05-8649
-  dob: 11/15/1997
-  address: 2267 Main Ave
-  city: Chicago
-  state: FL

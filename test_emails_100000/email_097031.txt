@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Evans
-  email: rebecca.evans3624@gmail.com
-  phone: (518) 271-8565
-  ssn: 328-09-7161
-  dob: 12-01-1950
-  address: 387 Summer Ln
-  city: Austin
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: David Hernandez
-  email: david.hernandez3036@example.com
-  phone: 352-570-8829
-  ssn: 267-81-7252
-  dob: 02-25-1991
-  address: 1006 Main Ln
-  city: Jacksonville
-  state: WA

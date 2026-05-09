@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Anderson,emma.anderson1158@gmail.com,387 414 2233,654-93-4835,10/3/1994,"5441 Spring Ln",New York,CA

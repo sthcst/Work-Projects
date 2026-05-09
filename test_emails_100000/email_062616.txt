@@ -1,9 +1,0 @@
-contact:
-  name: William Anderson
-  email: william.anderson8339@business.net
-  phone: 328 313 7382
-  ssn: 475-25-6684
-  dob: 05/05/1960
-  address: 4781 South St
-  city: San Jose
-  state: GA

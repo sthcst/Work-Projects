@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Bell,edward.bell1115@mail.com,(611) 936-7799,680069353,06-13-1977,"7045 Fourth Rd",Boston,VA

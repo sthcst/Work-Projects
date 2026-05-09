@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Bell
-  email: kenneth.bell3383@business.net
-  phone: 544 769 7106
-  ssn: 035-95-8613
-  dob: 5/13/1976
-  address: 4092 Third Ln
-  city: Denver
-  state: CA

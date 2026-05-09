@@ -1,9 +1,0 @@
-contact:
-  name: John Miller
-  email: john.miller729@company.com
-  phone: (774) 652-2842
-  ssn: 811-97-9367
-  dob: 02-10-1976
-  address: 5162 Fifth Ln
-  city: Washington
-  state: WI

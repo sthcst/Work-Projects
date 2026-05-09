@@ -1,9 +1,0 @@
-contact:
-  name: Michael Anderson
-  email: michael.anderson9684@mail.com
-  phone: +1 535-909-6688
-  ssn: 365-17-6303
-  dob: 11/22/1988
-  address: 6107 Maple Way
-  city: Jacksonville
-  state: OH

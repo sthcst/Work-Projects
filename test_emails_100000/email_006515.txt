@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Martin,edward.martin365@mail.com,697 957 1667,952-46-9616,03/28/1956,"3818 First Dr",Seattle,OH

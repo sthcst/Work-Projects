@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Roberts,nicole.roberts4998@gmail.com,712-631-1799,644-41-7161,07/27/1957,"2888 Oak Rd",Dallas,IL

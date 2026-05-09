@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Miller,lauren.miller9400@company.com,+1 870-379-2702,829611438,04/05/1958,"529 Third Court",Philadelphia,WA

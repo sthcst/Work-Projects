@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Serrano,samantha.serrano8933@business.net,+1 973-875-1714,423-34-9467,20/01/1959,"3922 Summer Court",San Antonio,TX

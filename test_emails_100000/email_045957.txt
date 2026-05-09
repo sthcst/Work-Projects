@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Nelson,nicholas.nelson127@example.com,987-516-3220,841-86-6420,11/16/1955,"5162 Spring Ln",Dallas,FL

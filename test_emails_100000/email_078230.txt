@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Morris,george.morris9507@example.com,623-206-8231,247 21 6354,4/23/1981,"7931 Fifth Ln",Jacksonville,TX

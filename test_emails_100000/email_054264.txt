@@ -1,9 +1,0 @@
-contact:
-  name: Edward Flores
-  email: edward.flores7353@company.com
-  phone: 226 941 4160
-  ssn: 494-11-9095
-  dob: 18/04/1997
-  address: 1275 Cedar Ave
-  city: Jacksonville
-  state: WA

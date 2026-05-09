@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Collins
-  email: jessica.collins4309@work.org
-  phone: 261 289 2972
-  ssn: 748-47-5532
-  dob: 12/27/1972
-  address: 2311 South Rd
-  city: Boston
-  state: PA

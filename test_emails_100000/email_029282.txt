@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Edwards,rebecca.edwards6898@example.com,(974) 746-4029,772 57 5416,6/18/1970,"9878 First Blvd",Phoenix,MD

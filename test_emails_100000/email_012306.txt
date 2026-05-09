@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Jackson,kathleen.jackson5812@work.org,697-255-1420,097967080,11/02/1977,"2678 Sixth Court",Los Angeles,CA

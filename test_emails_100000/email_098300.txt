@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Perez
-  email: jacob.perez6666@business.net
-  phone: 691-252-7985
-  ssn: 118-03-4281
-  dob: 11/06/1950
-  address: 3952 East Ave
-  city: Houston
-  state: WA

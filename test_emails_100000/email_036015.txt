@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Williams,john.williams4792@outlook.com,(621) 992-9827,429807616,08-18-1980,"8431 Sixth Blvd",Austin,PA

@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Johnson
-  email: kimberly.johnson5559@gmail.com
-  phone: +1 302-517-8573
-  ssn: 108633199
-  dob: 06/03/1980
-  address: 5965 Elm Rd
-  city: Philadelphia
-  state: AZ

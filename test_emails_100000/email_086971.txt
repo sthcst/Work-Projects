@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Alvarado
-  email: lauren.alvarado5086@work.org
-  phone: (662) 578-4810
-  ssn: 677887788
-  dob: 02/18/1967
-  address: 1774 North Ln
-  city: Phoenix
-  state: MA

@@ -1,9 +1,0 @@
-contact:
-  name: Jane Edwards
-  email: jane.edwards7034@mail.com
-  phone: (752) 843-2041
-  ssn: 209 12 8659
-  dob: 12-12-1956
-  address: 3201 Main Ave
-  city: Jacksonville
-  state: WA

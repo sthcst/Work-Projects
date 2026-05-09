@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Reed
-  email: katherine.reed2903@business.net
-  phone: (989) 541-7250
-  ssn: 475229070
-  dob: 08/14/1979
-  address: 5953 Pine Dr
-  city: Seattle
-  state: VA

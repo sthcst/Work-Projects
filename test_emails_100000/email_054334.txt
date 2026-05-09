@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Parker,sarah.parker9011@work.org,910-925-3537,951 04 7263,10/22/1975,"1198 West Way",Seattle,MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Harris,maria.harris7917@outlook.com,(330) 356-2907,516169396,02/15/1951,"624 Park Way",Jacksonville,IL

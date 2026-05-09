@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Gonzalez
-  email: joshua.gonzalez8765@gmail.com
-  phone: (877) 255-8555
-  ssn: 208 46 7423
-  dob: 10/20/1968
-  address: 1494 North Dr
-  city: Dallas
-  state: NY

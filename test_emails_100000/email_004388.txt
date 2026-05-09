@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Gonzalez
-  email: matthew.gonzalez7478@example.com
-  phone: +1 692-835-4882
-  ssn: 999 91 4635
-  dob: 08/26/1977
-  address: 1817 Second Way
-  city: Houston
-  state: CO

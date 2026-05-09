@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Martinez,edward.martinez9469@outlook.com,+1 985-535-2587,308223192,01-03-1977,"7461 Park Court",Dallas,NJ

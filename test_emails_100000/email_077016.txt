@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Thomas
-  email: andrew.thomas2879@mail.com
-  phone: 486 291 2019
-  ssn: 118 20 8148
-  dob: 11-24-1998
-  address: 339 Oak Ave
-  city: Houston
-  state: NJ

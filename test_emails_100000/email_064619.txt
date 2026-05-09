@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Romero
-  email: matthew.romero686@business.net
-  phone: (607) 769-3675
-  ssn: 447 59 9834
-  dob: 6/9/1981
-  address: 3977 Summer Court
-  city: Boston
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Gonzalez
-  email: stephanie.gonzalez6596@mail.com
-  phone: +1 765-219-8963
-  ssn: 101 33 6956
-  dob: 15/01/1999
-  address: 2006 Maple Dr
-  city: Denver
-  state: MA

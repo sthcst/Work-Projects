@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Flores,megan.flores7542@work.org,837 888 1683,291035112,19/02/1973,"5436 Fourth Court",San Diego,VA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Williams,samantha.williams4144@company.com,(351) 522-7948,341156217,24/08/1975,"1905 Third Court",Chicago,MD

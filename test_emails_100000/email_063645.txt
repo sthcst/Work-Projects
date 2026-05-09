@@ -1,9 +1,0 @@
-contact:
-  name: Maria Robinson
-  email: maria.robinson3358@work.org
-  phone: +1 886-688-4252
-  ssn: 466843164
-  dob: 12/10/2001
-  address: 5623 Oak St
-  city: San Diego
-  state: MI

@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Thomas
-  email: shirley.thomas9090@gmail.com
-  phone: (433) 607-7713
-  ssn: 908 48 7402
-  dob: 14/09/1969
-  address: 3006 Fifth Dr
-  city: San Jose
-  state: CO

@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Edwards
-  email: anthony.edwards8433@example.com
-  phone: (714) 580-4491
-  ssn: 443221419
-  dob: 23/05/1970
-  address: 3878 Park Blvd
-  city: Dallas
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Paul Evans
-  email: paul.evans5373@company.com
-  phone: 353-642-3794
-  ssn: 364 95 4782
-  dob: 02/03/1983
-  address: 9617 East Ln
-  city: New York
-  state: GA

@@ -1,9 +1,0 @@
-contact:
-  name: James Reyes
-  email: james.reyes3388@business.net
-  phone: +1 217-613-9019
-  ssn: 366 61 7533
-  dob: 26/11/1999
-  address: 6758 Spring Dr
-  city: Philadelphia
-  state: MI

@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Davis
-  email: cynthia.davis8288@work.org
-  phone: 440-947-3775
-  ssn: 449 38 3529
-  dob: 17/03/1951
-  address: 6498 Third Ln
-  city: Washington
-  state: NJ

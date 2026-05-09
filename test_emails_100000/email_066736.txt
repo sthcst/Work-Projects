@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Edwards,brian.edwards9732@gmail.com,790-472-2860,926406753,11-12-1992,"1643 Sixth Way",Austin,MD

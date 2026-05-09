@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Hernandez
-  email: lauren.hernandez5708@outlook.com
-  phone: 988-996-8942
-  ssn: 792126930
-  dob: 12/27/1954
-  address: 6958 Sixth Blvd
-  city: San Jose
-  state: CO

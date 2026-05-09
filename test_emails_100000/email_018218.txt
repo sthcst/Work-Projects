@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Collins
-  email: andrew.collins3593@mail.com
-  phone: 756-987-2224
-  ssn: 002-73-9679
-  dob: 07/07/1952
-  address: 8321 West Dr
-  city: Denver
-  state: OH

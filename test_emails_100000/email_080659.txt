@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Gomez
-  email: katherine.gomez1505@outlook.com
-  phone: 408-817-3529
-  ssn: 913-90-8890
-  dob: 11-26-1981
-  address: 7197 Park Ln
-  city: Austin
-  state: MI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Reed,deborah.reed1905@outlook.com,+1 378-271-4744,234 13 7898,3/23/1957,"6240 Birch Dr",Chicago,TX

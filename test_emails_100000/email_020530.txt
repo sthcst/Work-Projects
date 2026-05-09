@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Alvarado
-  email: michelle.alvarado1041@yahoo.com
-  phone: (932) 850-9771
-  ssn: 611 30 3576
-  dob: 11/04/1994
-  address: 7657 Third Rd
-  city: Denver
-  state: MA

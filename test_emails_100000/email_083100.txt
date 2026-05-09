@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Garcia,timothy.garcia1067@gmail.com,313 284 7195,774-93-5162,12/13/1958,"958 Fourth Way",Seattle,WA

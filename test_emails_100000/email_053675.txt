@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Smith
-  email: pamela.smith6823@example.com
-  phone: 736-533-8491
-  ssn: 416487145
-  dob: 25/04/2002
-  address: 9512 Fifth St
-  city: Phoenix
-  state: CA

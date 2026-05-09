@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Serrano
-  email: matthew.serrano3638@gmail.com
-  phone: +1 355-350-1608
-  ssn: 468-03-6847
-  dob: 05/26/1961
-  address: 2541 West Ln
-  city: San Jose
-  state: MI

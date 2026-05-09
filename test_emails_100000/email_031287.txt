@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Lopez,andrew.lopez330@work.org,251 558 9459,335-93-5394,13/06/1986,"9498 Park Court",Jacksonville,WA

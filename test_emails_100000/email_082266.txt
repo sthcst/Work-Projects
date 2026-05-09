@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Collins,edward.collins7132@work.org,928 350 9094,412 67 9175,4/7/1995,"6849 Summer Blvd",Dallas,CA

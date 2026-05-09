@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Collins,kenneth.collins8869@company.com,(472) 827-8749,725 35 5123,01/08/2005,"715 Summer Ln",San Antonio,TX

@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Smith
-  email: cynthia.smith6608@business.net
-  phone: +1 770-515-9042
-  ssn: 659555754
-  dob: 07-06-1997
-  address: 363 North Dr
-  city: Chicago
-  state: CO

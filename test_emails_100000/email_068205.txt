@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Robinson,david.robinson4767@mail.com,(574) 991-9195,654 26 9959,04/24/1993,"2681 Maple St",Chicago,PA

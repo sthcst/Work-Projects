@@ -1,9 +1,0 @@
-contact:
-  name: Edward Peterson
-  email: edward.peterson8438@company.com
-  phone: 682-483-9934
-  ssn: 165647191
-  dob: 09/25/1957
-  address: 1181 Summer Rd
-  city: New York
-  state: AZ

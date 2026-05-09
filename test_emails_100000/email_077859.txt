@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Carter
-  email: amanda.carter4518@outlook.com
-  phone: 392 918 4472
-  ssn: 110-06-6557
-  dob: 03/26/1971
-  address: 4392 East Ave
-  city: Washington
-  state: FL

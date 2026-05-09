@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Murillo
-  email: katherine.murillo9575@yahoo.com
-  phone: 264-422-5728
-  ssn: 401-74-1816
-  dob: 2/3/1966
-  address: 9927 Third Dr
-  city: Houston
-  state: FL

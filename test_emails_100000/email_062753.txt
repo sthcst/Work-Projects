@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Brown,rebecca.brown2874@mail.com,+1 508-509-1419,056 88 2851,6/1/1967,"2651 Third Ave",Washington,IL

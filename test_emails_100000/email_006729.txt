@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Bell,jacob.bell9309@example.com,217-229-9353,071 03 4766,07/20/2000,"8097 First Ln",San Antonio,OH

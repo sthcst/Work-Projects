@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Jackson,kathleen.jackson5028@company.com,315-995-8742,323 52 3910,09-28-1984,"1547 Summer Ln",New York,TX

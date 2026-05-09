@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Phillips,andrew.phillips6244@gmail.com,649 556 9430,444 79 9527,28/05/1996,"2319 Third St",Jacksonville,AZ

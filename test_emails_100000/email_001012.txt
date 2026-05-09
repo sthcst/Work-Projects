@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Hernandez,joshua.hernandez409@gmail.com,871 365 1633,155 68 7835,02/13/1984,"1195 Sixth St",San Diego,CA

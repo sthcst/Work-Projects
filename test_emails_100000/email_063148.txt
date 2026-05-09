@@ -1,9 +1,0 @@
-contact:
-  name: Gary Taylor
-  email: gary.taylor7215@example.com
-  phone: +1 388-346-3210
-  ssn: 962 66 8756
-  dob: 21/08/1982
-  address: 2598 Main Ln
-  city: Boston
-  state: AZ

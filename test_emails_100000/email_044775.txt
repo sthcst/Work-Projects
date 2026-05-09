@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Nelson,andrew.nelson9503@work.org,+1 343-464-3566,697312750,06-20-2001,"8657 Cedar Dr",Philadelphia,NJ

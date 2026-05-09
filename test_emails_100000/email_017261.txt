@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Morgan,helen.morgan809@business.net,+1 751-402-2979,452133409,26/05/1957,"9827 North Dr",Houston,DC

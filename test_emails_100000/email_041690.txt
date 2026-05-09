@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Guerrero,cynthia.guerrero7209@gmail.com,(590) 397-5647,749269887,12-18-2003,"5774 Second Ave",Jacksonville,AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Collins
-  email: michelle.collins5066@business.net
-  phone: (972) 366-5218
-  ssn: 060-98-3307
-  dob: 12/15/1960
-  address: 9996 Sixth Rd
-  city: New York
-  state: AZ

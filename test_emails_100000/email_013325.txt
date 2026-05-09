@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Davis,rebecca.davis9064@business.net,975 329 6453,072 24 1658,06-23-1977,"2631 Fourth Dr",Austin,FL

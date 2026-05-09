@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Jackson,angela.jackson325@company.com,391-509-8767,888049762,03-17-1989,"3714 Fourth Court",Phoenix,AZ

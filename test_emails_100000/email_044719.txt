@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Guerrero
-  email: kimberly.guerrero1319@business.net
-  phone: (416) 625-3139
-  ssn: 420251990
-  dob: 24/05/1996
-  address: 4343 South Rd
-  city: Seattle
-  state: MO

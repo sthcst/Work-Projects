@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Stewart,edward.stewart8038@yahoo.com,+1 451-848-1755,971 48 3397,12-26-1957,"106 First Ln",Philadelphia,MA

@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Bell
-  email: kathleen.bell6330@mail.com
-  phone: 659 946 5062
-  ssn: 210 54 8087
-  dob: 5/15/2003
-  address: 1338 East Court
-  city: Washington
-  state: IL

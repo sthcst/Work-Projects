@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Hernandez
-  email: joseph.hernandez3654@outlook.com
-  phone: 759-896-3746
-  ssn: 212813860
-  dob: 08/03/1979
-  address: 1550 Second Ave
-  city: Chicago
-  state: PA

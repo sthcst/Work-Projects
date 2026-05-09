@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Perez
-  email: kimberly.perez2348@example.com
-  phone: 370 903 9549
-  ssn: 590 98 1971
-  dob: 4/25/1963
-  address: 3139 Third Court
-  city: San Jose
-  state: WA

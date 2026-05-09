@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Gomez,ronald.gomez6466@yahoo.com,(702) 211-9195,366 58 2114,11/17/1963,"2639 Maple Rd",Philadelphia,CA

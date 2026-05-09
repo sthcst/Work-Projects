@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Clark
-  email: michelle.clark6622@company.com
-  phone: (514) 237-6282
-  ssn: 638 68 4622
-  dob: 9/27/1990
-  address: 3716 Maple Rd
-  city: Chicago
-  state: MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Hernandez,andrew.hernandez6062@mail.com,+1 553-731-7026,582-36-5271,04/24/1985,"9035 North Dr",Chicago,AZ

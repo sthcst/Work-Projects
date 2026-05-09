@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Flores,ryan.flores3536@example.com,253-575-3206,133 83 4203,10/16/1998,"2601 West Ln",San Jose,IL

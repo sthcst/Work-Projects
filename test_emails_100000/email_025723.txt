@@ -1,9 +1,0 @@
-contact:
-  name: Deborah White
-  email: deborah.white5046@business.net
-  phone: 843-627-7969
-  ssn: 676-63-7048
-  dob: 9/27/1990
-  address: 5288 Elm Dr
-  city: San Antonio
-  state: WI

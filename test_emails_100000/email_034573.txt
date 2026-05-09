@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Lee,katherine.lee4072@business.net,(354) 595-2413,854-03-3656,07/16/1962,"4543 Main Way",Denver,TN

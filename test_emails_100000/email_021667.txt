@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Nunez
-  email: michelle.nunez5916@example.com
-  phone: +1 433-296-2892
-  ssn: 950 26 1117
-  dob: 11/06/1995
-  address: 8501 Spring Rd
-  city: San Diego
-  state: TX

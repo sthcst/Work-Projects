@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Davis
-  email: sarah.davis2014@mail.com
-  phone: +1 885-422-1713
-  ssn: 693992780
-  dob: 07/03/1982
-  address: 4772 Spring Ave
-  city: San Diego
-  state: WI

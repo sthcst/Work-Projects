@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Carter,ronald.carter9276@mail.com,652-773-9137,337896274,10/20/1997,"137 Summer St",San Jose,MI

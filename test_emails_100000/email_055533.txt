@@ -1,9 +1,0 @@
-contact:
-  name: Edward Phillips
-  email: edward.phillips6656@company.com
-  phone: (621) 310-5739
-  ssn: 808-05-1022
-  dob: 2/8/2004
-  address: 5703 Second Way
-  city: Seattle
-  state: NC

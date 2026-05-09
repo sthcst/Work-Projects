@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Guerrero,anna.guerrero5924@company.com,(860) 930-8308,447 72 8563,8/13/1969,"8939 Oak Dr",Washington,WI

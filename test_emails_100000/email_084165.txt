@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Thompson
-  email: shirley.thompson336@mail.com
-  phone: 751 299 7363
-  ssn: 493 15 9566
-  dob: 4/27/1970
-  address: 524 Maple Court
-  city: Boston
-  state: MI

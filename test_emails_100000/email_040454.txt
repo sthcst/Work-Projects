@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Ramirez,andrew.ramirez1546@company.com,994-235-7783,452 78 5222,19/12/1975,"5940 Sixth St",Austin,WI

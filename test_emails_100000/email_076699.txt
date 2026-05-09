@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Cooper
-  email: ronald.cooper4014@mail.com
-  phone: +1 315-210-3439
-  ssn: 421 71 4827
-  dob: 10/27/1954
-  address: 6989 East Ave
-  city: San Antonio
-  state: FL

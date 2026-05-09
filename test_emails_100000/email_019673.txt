@@ -1,9 +1,0 @@
-contact:
-  name: Gary Rodriguez
-  email: gary.rodriguez2009@work.org
-  phone: (518) 909-6024
-  ssn: 483489784
-  dob: 9/12/1987
-  address: 3828 Fourth Dr
-  city: Dallas
-  state: WA

@@ -1,9 +1,0 @@
-contact:
-  name: Emma Hall
-  email: emma.hall8735@gmail.com
-  phone: 319-405-1803
-  ssn: 820 49 8909
-  dob: 10/07/1950
-  address: 2941 Pine Rd
-  city: Boston
-  state: CA

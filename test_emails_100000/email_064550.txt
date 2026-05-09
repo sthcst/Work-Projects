@@ -1,9 +1,0 @@
-contact:
-  name: Christine Morris
-  email: christine.morris4831@work.org
-  phone: 459 413 8545
-  ssn: 223718804
-  dob: 10/05/1982
-  address: 7129 Pine Ln
-  city: San Diego
-  state: MI

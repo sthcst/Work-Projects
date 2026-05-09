@@ -1,9 +1,0 @@
-contact:
-  name: Gary Anderson
-  email: gary.anderson8735@work.org
-  phone: +1 934-711-6458
-  ssn: 267815610
-  dob: 11/02/1990
-  address: 1245 Cedar St
-  city: San Antonio
-  state: MD

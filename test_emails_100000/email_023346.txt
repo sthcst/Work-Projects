@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Hernandez
-  email: joseph.hernandez5052@outlook.com
-  phone: 605-896-6162
-  ssn: 568-29-9161
-  dob: 11/23/1964
-  address: 7927 East Blvd
-  city: Dallas
-  state: CA

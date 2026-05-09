@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Rogers,amanda.rogers2020@yahoo.com,655-771-1336,417 73 5406,06/20/1976,"2231 Summer Ln",Dallas,WI

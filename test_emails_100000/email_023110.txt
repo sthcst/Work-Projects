@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Jackson,gary.jackson7403@mail.com,929 841 5958,893319408,23/07/1984,"8383 East Ln",San Jose,OH

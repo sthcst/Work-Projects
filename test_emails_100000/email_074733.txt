@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Reyes,daniel.reyes7049@mail.com,607 682 3345,904-56-3191,07-03-1988,"6941 Maple Court",San Diego,AZ

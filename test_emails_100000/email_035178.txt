@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Williams
-  email: michelle.williams615@example.com
-  phone: 352-662-2622
-  ssn: 663339608
-  dob: 22/03/1974
-  address: 5445 Maple Rd
-  city: Houston
-  state: AZ

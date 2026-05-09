@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Morgan
-  email: matthew.morgan8662@yahoo.com
-  phone: +1 270-998-1503
-  ssn: 396 87 6199
-  dob: 08/25/1953
-  address: 77 Sixth Dr
-  city: San Diego
-  state: FL

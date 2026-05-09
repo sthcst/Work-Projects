@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Cooper,joshua.cooper672@business.net,868 720 6864,108-61-7406,13/01/1958,"700 Elm Blvd",Seattle,OH

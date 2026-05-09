@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Brown,paul.brown2561@business.net,992-627-4767,150977294,06/09/1956,"7992 Sixth Ln",Seattle,AZ

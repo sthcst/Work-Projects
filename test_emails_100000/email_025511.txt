@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Cooper,christine.cooper2510@gmail.com,834-400-9366,377425076,28/10/1965,"5309 Oak Dr",Dallas,MI

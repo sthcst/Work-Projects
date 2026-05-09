@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Parker
-  email: michelle.parker9305@outlook.com
-  phone: 858 303 6757
-  ssn: 889894669
-  dob: 28/08/1986
-  address: 9886 South Court
-  city: Boston
-  state: MA

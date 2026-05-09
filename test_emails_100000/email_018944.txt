@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Taylor,joshua.taylor194@gmail.com,765 667 2295,326 70 9495,25/08/1967,"3249 Oak Rd",Los Angeles,PA

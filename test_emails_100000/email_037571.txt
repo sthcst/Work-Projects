@@ -1,9 +1,0 @@
-contact:
-  name: Christine Gonzalez
-  email: christine.gonzalez6356@example.com
-  phone: 755 943 6088
-  ssn: 066-68-7950
-  dob: 5/14/1994
-  address: 1538 Sixth Dr
-  city: Seattle
-  state: IL

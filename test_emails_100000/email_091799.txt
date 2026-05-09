@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Lopez
-  email: samantha.lopez9565@company.com
-  phone: +1 474-255-6526
-  ssn: 463422144
-  dob: 08/07/1953
-  address: 7304 Birch Way
-  city: San Antonio
-  state: MO

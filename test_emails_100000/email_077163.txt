@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Morgan,katherine.morgan1280@mail.com,449-907-6389,765-85-2366,03-24-1998,"4542 North St",San Jose,MA

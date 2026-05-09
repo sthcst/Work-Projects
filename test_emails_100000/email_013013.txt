@@ -1,9 +1,0 @@
-contact:
-  name: Helen Martinez
-  email: helen.martinez1954@mail.com
-  phone: +1 203-874-1663
-  ssn: 983 80 3281
-  dob: 8/11/1986
-  address: 2151 North Way
-  city: New York
-  state: GA

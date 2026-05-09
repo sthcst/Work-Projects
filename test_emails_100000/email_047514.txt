@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Rodriguez
-  email: samantha.rodriguez821@mail.com
-  phone: +1 877-405-8371
-  ssn: 390 81 7487
-  dob: 05/23/1991
-  address: 8329 North Dr
-  city: Washington
-  state: WA

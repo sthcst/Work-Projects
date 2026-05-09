@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Smith,daniel.smith9504@example.com,(305) 612-4248,829 27 3903,03/19/1954,"7990 East Blvd",Dallas,CA

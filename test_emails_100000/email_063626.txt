@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Carter,jason.carter2556@outlook.com,+1 866-200-4178,229 55 3487,1/12/1951,"2223 Park St",Seattle,FL

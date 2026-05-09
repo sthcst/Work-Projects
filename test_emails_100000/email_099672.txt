@@ -1,9 +1,0 @@
-contact:
-  name: Edward Morris
-  email: edward.morris5535@business.net
-  phone: 809-527-8146
-  ssn: 023 69 5606
-  dob: 04/27/1989
-  address: 2607 East St
-  city: Washington
-  state: CO

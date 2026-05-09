@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren White,lauren.white5248@company.com,878-860-6101,015 17 6824,05-15-1992,"7768 Maple Blvd",Washington,TX

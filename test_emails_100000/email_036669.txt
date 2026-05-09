@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Walker,deborah.walker6779@mail.com,+1 717-872-2672,774053670,18/10/1968,"9599 Park Way",Houston,NY

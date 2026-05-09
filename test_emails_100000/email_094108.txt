@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Robinson,anthony.robinson8324@business.net,(387) 943-4624,885 13 7239,10/4/1960,"3814 Oak Blvd",Dallas,CA

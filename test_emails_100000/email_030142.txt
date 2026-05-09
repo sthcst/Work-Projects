@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Perez,christine.perez2468@gmail.com,+1 292-908-8352,156-45-8728,5/8/1981,"4137 Summer Way",Los Angeles,CO

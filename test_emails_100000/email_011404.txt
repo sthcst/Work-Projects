@@ -1,9 +1,0 @@
-contact:
-  name: Edward Collins
-  email: edward.collins711@company.com
-  phone: +1 207-252-2024
-  ssn: 495463585
-  dob: 04/09/1966
-  address: 8383 Fifth Dr
-  city: Los Angeles
-  state: TN

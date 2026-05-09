@@ -1,9 +1,0 @@
-contact:
-  name: Maria Wilson
-  email: maria.wilson667@outlook.com
-  phone: (798) 794-2310
-  ssn: 550095480
-  dob: 05-07-1967
-  address: 7529 South Way
-  city: Chicago
-  state: WA

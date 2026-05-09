@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Brown,michael.brown3225@business.net,+1 987-916-1013,870-82-7545,3/24/2001,"5508 Sixth Dr",Boston,CO

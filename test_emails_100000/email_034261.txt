@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Harris,mark.harris1715@work.org,(591) 997-5092,072 63 4259,16/09/1968,"6454 North Court",San Diego,CA

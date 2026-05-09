@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Anderson,michelle.anderson6384@yahoo.com,(258) 668-9356,675779314,04/20/2000,"7866 Third Ave",Dallas,IL

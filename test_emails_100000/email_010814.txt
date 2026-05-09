@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Ortiz,katherine.ortiz3695@outlook.com,428 336 6393,130489823,5/8/1992,"7086 Second St",Chicago,TX

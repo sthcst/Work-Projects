@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Peterson,anthony.peterson3122@outlook.com,867-735-3661,012 94 3735,1/2/1998,"4477 Elm Ave",New York,CA

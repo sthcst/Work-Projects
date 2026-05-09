@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Sanchez,jennifer.sanchez4258@yahoo.com,+1 872-527-2837,225 76 6947,06/08/1983,"181 Oak Ave",Denver,OH

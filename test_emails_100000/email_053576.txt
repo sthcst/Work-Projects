@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Edwards
-  email: lauren.edwards3720@company.com
-  phone: +1 541-365-8440
-  ssn: 575 12 2843
-  dob: 09/08/1951
-  address: 7873 Summer Ave
-  city: San Diego
-  state: MA

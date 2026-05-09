@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Sanchez
-  email: kenneth.sanchez270@yahoo.com
-  phone: 640-784-4528
-  ssn: 324 65 4104
-  dob: 23/05/1961
-  address: 6582 First Ln
-  city: Seattle
-  state: MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Reeves,michael.reeves7159@business.net,444 632 3999,828-12-6552,8/9/1960,"1930 Pine St",Denver,MA

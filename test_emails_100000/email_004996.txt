@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Dominguez,george.dominguez3963@gmail.com,+1 538-846-3440,327 01 4670,08-16-1976,"8868 North St",San Diego,CA

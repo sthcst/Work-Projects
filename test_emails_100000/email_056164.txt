@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Cooper
-  email: amanda.cooper7109@yahoo.com
-  phone: 753 651 1489
-  ssn: 885 14 2764
-  dob: 08/07/1974
-  address: 7690 Birch St
-  city: Boston
-  state: PA

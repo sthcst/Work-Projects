@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Evans,helen.evans2093@outlook.com,773 218 4573,212 76 1149,09-04-1983,"8952 Maple Court",New York,TX

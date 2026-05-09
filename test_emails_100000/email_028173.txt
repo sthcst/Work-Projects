@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Young,brian.young3017@outlook.com,+1 933-915-2873,747717486,21/07/2002,"9775 Sixth Dr",San Diego,CA

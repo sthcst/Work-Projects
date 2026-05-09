@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Reyes,megan.reyes8901@outlook.com,985 836 7772,822589337,04-06-1965,"3678 Main Court",San Diego,TX

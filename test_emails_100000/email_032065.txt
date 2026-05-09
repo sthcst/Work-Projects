@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Parker,angela.parker7357@gmail.com,511-507-2608,789-90-7763,04-17-1998,"6030 East Ln",Houston,WA

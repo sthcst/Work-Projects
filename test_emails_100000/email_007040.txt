@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Reeves,john.reeves4359@outlook.com,526-547-7191,780245939,13/03/1988,"4953 Fifth Way",Denver,CA

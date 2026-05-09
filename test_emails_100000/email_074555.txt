@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Dominguez
-  email: pamela.dominguez176@example.com
-  phone: (930) 296-8173
-  ssn: 105035895
-  dob: 03/28/1965
-  address: 8391 Summer Way
-  city: Boston
-  state: FL

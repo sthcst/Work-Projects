@@ -1,9 +1,0 @@
-contact:
-  name: John Carter
-  email: john.carter3477@gmail.com
-  phone: (763) 873-3876
-  ssn: 957-84-6971
-  dob: 04/25/1965
-  address: 2413 Park Court
-  city: San Antonio
-  state: MO

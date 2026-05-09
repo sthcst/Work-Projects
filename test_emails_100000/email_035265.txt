@@ -1,9 +1,0 @@
-contact:
-  name: Jason Young
-  email: jason.young4786@work.org
-  phone: 618-693-6559
-  ssn: 837475139
-  dob: 10/20/1996
-  address: 7074 South Ln
-  city: San Antonio
-  state: OH

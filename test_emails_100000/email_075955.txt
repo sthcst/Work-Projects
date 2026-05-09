@@ -1,9 +1,0 @@
-contact:
-  name: Maria Dominguez
-  email: maria.dominguez2819@company.com
-  phone: 954 558 9794
-  ssn: 307 39 1272
-  dob: 11/03/1969
-  address: 7313 Pine St
-  city: Chicago
-  state: WA

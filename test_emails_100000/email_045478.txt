@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Ortiz,angela.ortiz7088@work.org,+1 747-815-2163,693-02-3849,2/10/2001,"8223 Fifth Ave",San Jose,CA

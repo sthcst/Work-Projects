@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Dominguez,cynthia.dominguez5508@example.com,(749) 727-6943,682 60 9779,1/6/1965,"2860 Sixth Blvd",San Antonio,IL

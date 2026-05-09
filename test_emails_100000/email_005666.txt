@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Stewart,angela.stewart9582@company.com,895-844-9587,351-45-2668,12/03/1997,"4637 First Court",Philadelphia,MA

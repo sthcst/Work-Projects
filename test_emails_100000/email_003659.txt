@@ -1,9 +1,0 @@
-contact:
-  name: Anna Cooper
-  email: anna.cooper995@mail.com
-  phone: 541-562-9264
-  ssn: 098398483
-  dob: 11/22/1956
-  address: 3023 South Ave
-  city: Austin
-  state: DC

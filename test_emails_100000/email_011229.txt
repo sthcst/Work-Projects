@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Jimenez,ronald.jimenez4113@gmail.com,+1 740-659-3562,372224368,5/27/1972,"2998 Maple Ave",Philadelphia,WA

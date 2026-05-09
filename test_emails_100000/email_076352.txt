@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Carter,kenneth.carter2334@gmail.com,877-573-7695,551-83-7438,12/16/1991,"9949 Birch Rd",New York,GA

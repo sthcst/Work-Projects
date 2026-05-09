@@ -1,9 +1,0 @@
-contact:
-  name: Charles Smith
-  email: charles.smith427@mail.com
-  phone: +1 521-942-3070
-  ssn: 591091852
-  dob: 01/04/1977
-  address: 2188 Sixth Ln
-  city: San Jose
-  state: TX

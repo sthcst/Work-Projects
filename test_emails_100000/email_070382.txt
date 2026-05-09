@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Edwards
-  email: nicholas.edwards6033@work.org
-  phone: 768-512-3321
-  ssn: 390504817
-  dob: 2/13/1976
-  address: 6895 Summer Ave
-  city: Washington
-  state: TX

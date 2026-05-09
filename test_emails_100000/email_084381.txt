@@ -1,9 +1,0 @@
-contact:
-  name: Jason Nunez
-  email: jason.nunez2395@mail.com
-  phone: 781-956-9536
-  ssn: 235-42-8475
-  dob: 5/16/1994
-  address: 9673 Spring Ln
-  city: San Jose
-  state: TX

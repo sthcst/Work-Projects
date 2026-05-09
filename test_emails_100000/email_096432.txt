@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Murillo,jason.murillo7102@example.com,+1 361-751-4644,625-30-1747,02-03-1958,"5170 Second Blvd",Philadelphia,GA

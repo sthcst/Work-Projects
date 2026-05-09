@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Gonzalez
-  email: rebecca.gonzalez5673@company.com
-  phone: +1 775-643-4619
-  ssn: 127 67 2521
-  dob: 09/08/1973
-  address: 3339 Fifth St
-  city: Philadelphia
-  state: WA

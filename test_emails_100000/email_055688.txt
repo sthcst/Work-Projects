@@ -1,9 +1,0 @@
-contact:
-  name: Brian Jimenez
-  email: brian.jimenez6641@yahoo.com
-  phone: +1 508-300-8651
-  ssn: 887 96 1047
-  dob: 10/23/2002
-  address: 5208 Sixth Rd
-  city: Dallas
-  state: WA

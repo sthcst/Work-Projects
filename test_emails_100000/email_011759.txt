@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Johnson,lisa.johnson1779@work.org,312 485 3797,752-24-2417,04-08-1966,"1489 Fifth Ln",Austin,MA

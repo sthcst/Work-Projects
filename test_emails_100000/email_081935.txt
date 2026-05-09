@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Hernandez,kathleen.hernandez8434@work.org,865 608 4317,283-82-8891,16/05/1997,"5629 Sixth Blvd",Houston,NY

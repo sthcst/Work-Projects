@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Thomas,charles.thomas5788@outlook.com,+1 719-461-8113,961 62 5589,10/5/1977,"5044 Spring Ln",Jacksonville,MO

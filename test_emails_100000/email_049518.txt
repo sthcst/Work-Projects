@@ -1,9 +1,0 @@
-contact:
-  name: Gary Reyes
-  email: gary.reyes5652@outlook.com
-  phone: +1 741-585-5622
-  ssn: 572 51 4489
-  dob: 08/11/1950
-  address: 5738 Summer Dr
-  city: San Antonio
-  state: NC

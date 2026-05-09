@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Bell,william.bell148@gmail.com,(277) 380-6513,238 69 9997,01/02/1955,"8059 Main Way",Chicago,TN

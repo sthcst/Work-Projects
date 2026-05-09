@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Parker,katherine.parker7418@work.org,521 723 3136,864-55-7729,24/10/1957,"1622 Sixth Ln",Houston,NJ

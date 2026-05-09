@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Nunez
-  email: deborah.nunez5317@work.org
-  phone: 767-785-6929
-  ssn: 150 72 9923
-  dob: 26/10/1968
-  address: 7966 Elm Blvd
-  city: Dallas
-  state: TX

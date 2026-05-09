@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Jimenez,william.jimenez8114@gmail.com,370 768 7356,559-52-5509,10/8/2001,"5834 South Blvd",Boston,CO

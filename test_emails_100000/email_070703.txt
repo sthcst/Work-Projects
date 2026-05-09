@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Clark,michelle.clark4772@work.org,(877) 635-3106,830048453,07-21-1983,"8927 South Ln",Denver,WA

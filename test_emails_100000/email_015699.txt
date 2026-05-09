@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Jimenez,pamela.jimenez7863@mail.com,+1 685-226-1776,546-90-4703,5/27/1998,"9361 Maple St",Chicago,CO

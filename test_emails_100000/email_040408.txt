@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Lee
-  email: deborah.lee459@company.com
-  phone: +1 805-282-1872
-  ssn: 969-84-4115
-  dob: 12/09/1964
-  address: 2257 Cedar Blvd
-  city: San Antonio
-  state: NJ

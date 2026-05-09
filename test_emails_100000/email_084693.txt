@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Romero,katherine.romero1974@company.com,+1 304-551-9010,554 13 6257,12/5/1951,"173 Second Court",Chicago,VA

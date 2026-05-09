@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Hernandez,george.hernandez8266@example.com,759-471-6081,906 44 2635,14/04/1984,"9596 Oak St",Phoenix,CO

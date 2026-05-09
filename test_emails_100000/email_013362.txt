@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Ramirez
-  email: daniel.ramirez233@outlook.com
-  phone: +1 389-994-6205
-  ssn: 066073079
-  dob: 8/28/1999
-  address: 1230 Second Dr
-  city: San Antonio
-  state: CO

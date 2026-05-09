@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Thomas
-  email: brenda.thomas5530@outlook.com
-  phone: (458) 899-4464
-  ssn: 772 98 8398
-  dob: 26/09/2002
-  address: 6573 Park Rd
-  city: San Antonio
-  state: IL

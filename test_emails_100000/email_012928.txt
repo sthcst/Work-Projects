@@ -1,9 +1,0 @@
-contact:
-  name: Megan Smith
-  email: megan.smith3760@gmail.com
-  phone: 551 549 5467
-  ssn: 172 87 8857
-  dob: 06/07/1959
-  address: 2837 Third Court
-  city: New York
-  state: CA

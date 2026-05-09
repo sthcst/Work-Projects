@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Gomez,michael.gomez9336@business.net,738-435-1967,118 90 4262,07-11-1951,"1338 Cedar Ln",Jacksonville,AZ

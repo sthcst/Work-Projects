@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Miller,michael.miller7430@business.net,+1 415-731-1693,569819510,18/05/1973,"471 Oak Court",Jacksonville,TX

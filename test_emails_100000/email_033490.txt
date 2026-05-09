@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Johnson,ryan.johnson4201@yahoo.com,885 275 9628,108515942,09/23/1952,"3799 Maple Ln",Seattle,MI

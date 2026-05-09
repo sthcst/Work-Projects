@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Serrano,emma.serrano7629@example.com,734-772-7677,408903449,09/22/1984,"4980 Main Court",Los Angeles,OH

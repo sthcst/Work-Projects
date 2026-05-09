@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Thompson,sarah.thompson1180@gmail.com,+1 348-310-3637,490 23 9978,07-16-1983,"3766 North Court",Philadelphia,TX

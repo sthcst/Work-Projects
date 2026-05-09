@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Garcia,rachel.garcia1491@work.org,786 670 7049,333478969,3/25/1975,"4894 Pine Rd",San Diego,VA

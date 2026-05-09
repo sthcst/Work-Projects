@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Nunez
-  email: lauren.nunez778@yahoo.com
-  phone: (908) 383-1653
-  ssn: 238085735
-  dob: 11/17/1980
-  address: 2124 Fourth Court
-  city: Chicago
-  state: NC

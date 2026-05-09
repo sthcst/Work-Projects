@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Gomez,mark.gomez3572@outlook.com,+1 376-428-8873,211881966,10/16/1952,"687 Spring Ave",Houston,AZ

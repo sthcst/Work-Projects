@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Roberts,cynthia.roberts1525@outlook.com,222 868 7935,891-48-8572,11-07-1954,"6076 Sixth St",Houston,TX

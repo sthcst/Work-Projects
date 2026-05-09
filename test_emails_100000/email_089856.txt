@@ -1,9 +1,0 @@
-contact:
-  name: Gary Young
-  email: gary.young1813@mail.com
-  phone: +1 401-477-2459
-  ssn: 126691035
-  dob: 11-14-1969
-  address: 8128 Third Ave
-  city: San Antonio
-  state: DC

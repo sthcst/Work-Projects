@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Williams,nicole.williams289@gmail.com,713 834 7874,594412277,25/02/1971,"6592 Fourth Ave",Houston,MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Hall,nicole.hall6456@business.net,+1 292-243-8583,520-78-9121,7/5/1954,"1295 First Court",San Diego,WA

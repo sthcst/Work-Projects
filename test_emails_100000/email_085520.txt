@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Miller,james.miller1503@company.com,336-407-9160,857035724,06/01/1959,"5893 Cedar Court",San Antonio,NY

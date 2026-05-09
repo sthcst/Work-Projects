@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Peterson,maria.peterson3772@outlook.com,273-915-6184,986-30-3673,17/10/1972,"1439 Elm Way",Boston,NY

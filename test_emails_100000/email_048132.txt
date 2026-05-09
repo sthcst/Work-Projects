@@ -1,9 +1,0 @@
-contact:
-  name: Helen Peterson
-  email: helen.peterson4683@mail.com
-  phone: +1 389-370-3593
-  ssn: 217909247
-  dob: 08-22-1988
-  address: 7208 North Way
-  city: San Jose
-  state: CA

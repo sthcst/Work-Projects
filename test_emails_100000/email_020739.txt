@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Garcia
-  email: rachel.garcia9924@gmail.com
-  phone: (315) 236-5773
-  ssn: 344541179
-  dob: 05-09-1966
-  address: 3925 East Blvd
-  city: Boston
-  state: AZ

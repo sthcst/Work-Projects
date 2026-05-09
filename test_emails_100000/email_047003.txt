@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Jackson
-  email: sarah.jackson27@work.org
-  phone: (206) 722-2958
-  ssn: 254 39 1420
-  dob: 1/26/1953
-  address: 6777 Pine Blvd
-  city: Seattle
-  state: WI

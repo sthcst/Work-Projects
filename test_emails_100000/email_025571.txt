@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Hernandez,gary.hernandez8712@example.com,488-467-4726,112-33-8888,9/21/2002,"8861 South Ln",Philadelphia,TN

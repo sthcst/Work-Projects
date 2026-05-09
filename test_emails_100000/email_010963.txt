@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Hernandez,jacob.hernandez6564@example.com,684 919 6873,530044962,12/03/1976,"9362 Third Court",Los Angeles,OH

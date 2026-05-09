@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Reed,daniel.reed1394@yahoo.com,957-716-3753,991 78 2471,07/01/1971,"9481 Third Blvd",Chicago,TX

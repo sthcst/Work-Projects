@@ -1,9 +1,0 @@
-contact:
-  name: Anna Bell
-  email: anna.bell7196@company.com
-  phone: +1 906-694-1854
-  ssn: 885 52 7479
-  dob: 06/02/1989
-  address: 9382 Fourth Court
-  city: Dallas
-  state: TX

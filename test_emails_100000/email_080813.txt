@@ -1,9 +1,0 @@
-contact:
-  name: Christine Parker
-  email: christine.parker2640@business.net
-  phone: 796 326 2567
-  ssn: 548 80 3813
-  dob: 7/27/1970
-  address: 8833 Sixth Dr
-  city: San Diego
-  state: NJ

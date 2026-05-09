@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Young
-  email: jessica.young9594@gmail.com
-  phone: 773-204-3141
-  ssn: 166378516
-  dob: 23/06/1959
-  address: 7673 Maple St
-  city: Houston
-  state: AZ

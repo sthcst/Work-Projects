@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Robinson
-  email: jacob.robinson7231@business.net
-  phone: (287) 503-6919
-  ssn: 037 51 9551
-  dob: 06/05/1988
-  address: 9193 Elm Dr
-  city: Dallas
-  state: AZ

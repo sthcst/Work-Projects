@@ -1,9 +1,0 @@
-contact:
-  name: Maria Robinson
-  email: maria.robinson482@outlook.com
-  phone: +1 724-830-2590
-  ssn: 080 59 6047
-  dob: 07-04-1990
-  address: 1057 Cedar St
-  city: Jacksonville
-  state: TX

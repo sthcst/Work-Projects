@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Miller
-  email: kevin.miller5145@mail.com
-  phone: +1 404-376-3996
-  ssn: 707-81-6517
-  dob: 01/02/1997
-  address: 6427 Oak Way
-  city: Seattle
-  state: TX

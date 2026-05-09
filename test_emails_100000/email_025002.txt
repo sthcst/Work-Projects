@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Williams
-  email: timothy.williams6216@gmail.com
-  phone: (718) 531-1361
-  ssn: 753-30-4099
-  dob: 24/02/1976
-  address: 6532 Spring Way
-  city: Washington
-  state: TX

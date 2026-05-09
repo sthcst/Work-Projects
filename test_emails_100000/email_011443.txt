@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Martin
-  email: nicole.martin9824@gmail.com
-  phone: 323-772-6494
-  ssn: 079-86-4765
-  dob: 14/02/1983
-  address: 4587 First St
-  city: Washington
-  state: MA

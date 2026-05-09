@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Perez,katherine.perez3177@business.net,+1 877-695-9508,152 95 7475,07/11/1972,"415 Fifth Court",Jacksonville,MA

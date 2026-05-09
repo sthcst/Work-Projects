@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Campbell
-  email: ashley.campbell7292@gmail.com
-  phone: 916 740 3804
-  ssn: 106789120
-  dob: 08-02-1977
-  address: 6698 West Way
-  city: Jacksonville
-  state: WA

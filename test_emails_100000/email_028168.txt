@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Robinson,donald.robinson6964@example.com,+1 509-393-6800,931 01 5588,10/08/1983,"1725 Spring Ave",Seattle,MI

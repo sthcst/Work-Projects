@@ -1,9 +1,0 @@
-contact:
-  name: Christine Nunez
-  email: christine.nunez129@outlook.com
-  phone: (609) 801-1449
-  ssn: 750 96 3494
-  dob: 09/22/1969
-  address: 8690 Fifth Blvd
-  city: Chicago
-  state: AZ

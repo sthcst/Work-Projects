@@ -1,9 +1,0 @@
-contact:
-  name: William Hernandez
-  email: william.hernandez6898@example.com
-  phone: 209 471 3755
-  ssn: 769056457
-  dob: 10/20/1954
-  address: 103 Birch Way
-  city: San Jose
-  state: AZ

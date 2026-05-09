@@ -1,9 +1,0 @@
-contact:
-  name: Mark Reeves
-  email: mark.reeves3984@work.org
-  phone: 848 980 2678
-  ssn: 561 50 7733
-  dob: 11/07/2004
-  address: 4840 East Ave
-  city: Los Angeles
-  state: TX

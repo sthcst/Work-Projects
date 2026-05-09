@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Harris
-  email: kevin.harris8210@mail.com
-  phone: 837 697 8412
-  ssn: 746-05-7662
-  dob: 06-07-1985
-  address: 4864 Summer St
-  city: San Antonio
-  state: OH

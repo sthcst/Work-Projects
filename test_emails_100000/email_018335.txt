@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Reyes,edward.reyes4319@gmail.com,733-849-2265,753-40-5789,12-02-1951,"9766 Elm Court",Houston,PA

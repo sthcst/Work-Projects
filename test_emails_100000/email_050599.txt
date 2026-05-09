@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Dominguez
-  email: rebecca.dominguez4723@work.org
-  phone: (322) 673-9081
-  ssn: 109-67-3083
-  dob: 7/22/1994
-  address: 1572 Second Rd
-  city: Phoenix
-  state: WI

@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Morgan
-  email: pamela.morgan8962@example.com
-  phone: +1 226-472-3923
-  ssn: 092-11-7623
-  dob: 04/19/1989
-  address: 7260 Second Court
-  city: San Antonio
-  state: OH

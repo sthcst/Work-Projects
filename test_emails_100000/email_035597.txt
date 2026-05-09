@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Delgado,joseph.delgado5141@yahoo.com,281 728 7338,401 52 1803,3/20/2002,"2048 Summer Ln",Boston,TX

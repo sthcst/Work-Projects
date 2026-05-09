@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Jimenez,brian.jimenez650@gmail.com,537-892-1555,862 91 4971,04/04/2004,"2525 Sixth Rd",San Antonio,WA

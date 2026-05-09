@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Sanchez
-  email: michelle.sanchez4164@work.org
-  phone: 897-951-5523
-  ssn: 916-52-4713
-  dob: 07-24-1976
-  address: 4795 Maple Court
-  city: San Antonio
-  state: CA

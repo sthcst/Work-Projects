@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Guerrero
-  email: kathleen.guerrero6794@mail.com
-  phone: 583-815-4924
-  ssn: 064-43-5557
-  dob: 24/02/1982
-  address: 6636 Pine Court
-  city: Seattle
-  state: FL

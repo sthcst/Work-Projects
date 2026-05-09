@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Murillo,kenneth.murillo2987@example.com,+1 666-435-7398,275798250,03/19/1991,"7956 East Way",Philadelphia,TX

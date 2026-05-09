@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Reeves
-  email: sarah.reeves9668@business.net
-  phone: (995) 368-9592
-  ssn: 156-30-4605
-  dob: 8/16/1981
-  address: 7089 Summer Ln
-  city: San Antonio
-  state: TX

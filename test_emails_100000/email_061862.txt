@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Lee
-  email: ryan.lee9328@yahoo.com
-  phone: 282 305 6018
-  ssn: 185027352
-  dob: 09/09/1986
-  address: 9308 Elm Way
-  city: Jacksonville
-  state: GA

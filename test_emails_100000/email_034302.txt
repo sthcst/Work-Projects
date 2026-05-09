@@ -1,9 +1,0 @@
-contact:
-  name: Steven Thompson
-  email: steven.thompson1083@example.com
-  phone: 421-532-1979
-  ssn: 268 40 1184
-  dob: 9/16/1981
-  address: 5616 Summer Dr
-  city: Dallas
-  state: MA

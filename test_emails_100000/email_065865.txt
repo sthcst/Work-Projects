@@ -1,9 +1,0 @@
-contact:
-  name: Christine Jimenez
-  email: christine.jimenez5442@company.com
-  phone: (344) 740-4243
-  ssn: 558289367
-  dob: 04-02-1962
-  address: 967 Spring Ln
-  city: Chicago
-  state: TN

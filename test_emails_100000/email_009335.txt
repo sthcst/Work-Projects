@@ -1,9 +1,0 @@
-contact:
-  name: Paul Williams
-  email: paul.williams2832@example.com
-  phone: 315-998-2759
-  ssn: 982 82 7617
-  dob: 1/9/1994
-  address: 6481 Maple Blvd
-  city: Seattle
-  state: TN

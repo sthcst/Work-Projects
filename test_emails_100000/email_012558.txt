@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Collins,pamela.collins4151@outlook.com,746-834-8285,481-32-6957,11/08/1959,"2319 Birch Way",San Antonio,MD

@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Moore
-  email: lauren.moore9212@work.org
-  phone: (701) 308-6402
-  ssn: 418-40-9833
-  dob: 11/5/1995
-  address: 4591 Park Way
-  city: Chicago
-  state: MI

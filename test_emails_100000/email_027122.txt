@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Moore
-  email: stephanie.moore9482@example.com
-  phone: 511-543-1599
-  ssn: 697-38-6886
-  dob: 11/3/1973
-  address: 1671 East Rd
-  city: Jacksonville
-  state: CA

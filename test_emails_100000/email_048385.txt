@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Rogers
-  email: nicholas.rogers6590@mail.com
-  phone: 265 652 1094
-  ssn: 806608046
-  dob: 06/10/1995
-  address: 8320 Sixth St
-  city: Chicago
-  state: PA

@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Ramirez
-  email: anthony.ramirez4884@yahoo.com
-  phone: 906-813-7488
-  ssn: 436142252
-  dob: 08-16-1961
-  address: 9308 Fifth Ave
-  city: Austin
-  state: MO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Rogers,sarah.rogers2417@example.com,+1 419-203-4411,877881224,04/27/1960,"6142 Third Rd",Washington,AZ

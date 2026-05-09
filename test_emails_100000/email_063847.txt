@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Evans,samantha.evans785@mail.com,(522) 893-4008,487752409,10-27-1963,"7967 Spring Way",Denver,WA

@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Murillo
-  email: joshua.murillo5136@business.net
-  phone: (389) 636-1243
-  ssn: 771456010
-  dob: 10/11/1983
-  address: 2849 Main Ave
-  city: San Antonio
-  state: NC

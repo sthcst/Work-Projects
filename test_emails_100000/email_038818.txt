@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Hernandez,pamela.hernandez9654@yahoo.com,+1 204-415-9805,663-84-9774,05/16/1969,"2079 Park Blvd",Austin,FL

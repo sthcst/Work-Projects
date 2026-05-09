@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Guerrero,mark.guerrero7325@company.com,303 653 7016,828959069,02/10/1967,"5279 East Way",Washington,NC

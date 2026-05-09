@@ -1,9 +1,0 @@
-contact:
-  name: Paul Anderson
-  email: paul.anderson5345@gmail.com
-  phone: (574) 393-4598
-  ssn: 119319451
-  dob: 06-19-1970
-  address: 9329 Summer Ave
-  city: Seattle
-  state: WI

@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Reed
-  email: kathleen.reed414@work.org
-  phone: +1 441-890-7501
-  ssn: 127412340
-  dob: 10/07/1986
-  address: 8859 Birch Way
-  city: Seattle
-  state: NY

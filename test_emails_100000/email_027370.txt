@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Nunez
-  email: kathleen.nunez208@yahoo.com
-  phone: 476-864-9010
-  ssn: 402266890
-  dob: 3/13/2001
-  address: 5995 Main Way
-  city: Chicago
-  state: CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Morris,christopher.morris3523@yahoo.com,204 222 5787,132262284,09/05/1994,"6309 Third Rd",Los Angeles,CA

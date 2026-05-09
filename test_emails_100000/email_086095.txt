@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Young,samantha.young5841@mail.com,+1 940-341-4138,118172625,03/04/1985,"7273 Elm Blvd",San Diego,WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Hernandez,gary.hernandez1730@business.net,421 386 9381,361-87-5058,04-19-2003,"4938 Second Ln",Los Angeles,GA

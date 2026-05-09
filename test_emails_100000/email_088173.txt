@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Delgado,jennifer.delgado9367@example.com,+1 634-609-8220,777-03-6659,12-16-1969,"7539 Spring St",Houston,DC

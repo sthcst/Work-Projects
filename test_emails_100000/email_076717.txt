@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Williams,megan.williams9123@outlook.com,710 412 2352,038-77-9657,06/10/1984,"1491 Park St",Jacksonville,NJ

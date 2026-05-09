@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Brown
-  email: brenda.brown7963@outlook.com
-  phone: (302) 530-2067
-  ssn: 799-29-4558
-  dob: 01/16/1991
-  address: 6132 West Blvd
-  city: San Antonio
-  state: AZ

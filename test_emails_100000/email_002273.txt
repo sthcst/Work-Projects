@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Thompson
-  email: stephanie.thompson1291@company.com
-  phone: 768-796-7514
-  ssn: 034-41-1572
-  dob: 05/13/1956
-  address: 7770 Park Dr
-  city: Chicago
-  state: DC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Flores,anna.flores9332@work.org,742 820 7450,126-02-2200,1/25/1984,"7108 Elm Dr",Seattle,DC

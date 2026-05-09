@@ -1,9 +1,0 @@
-contact:
-  name: George Reed
-  email: george.reed6379@example.com
-  phone: (408) 947-2780
-  ssn: 116 98 1081
-  dob: 11/2/1957
-  address: 6161 Park Ave
-  city: San Jose
-  state: PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Taylor,sarah.taylor6675@company.com,+1 447-233-7948,342-50-7823,02/15/1992,"4519 First Court",Jacksonville,GA

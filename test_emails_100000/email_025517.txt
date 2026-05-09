@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Rodriguez,samantha.rodriguez203@outlook.com,+1 363-954-1148,956-77-7106,17/01/1990,"725 Spring Way",Washington,CA

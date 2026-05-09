@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Taylor,jessica.taylor1484@work.org,(690) 270-3039,277 87 6451,1/5/1955,"7041 Summer Way",Houston,WA

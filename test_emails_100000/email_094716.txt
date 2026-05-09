@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Gomez,amanda.gomez710@company.com,559 702 1202,728553971,6/7/2005,"4947 Maple Way",Dallas,MA

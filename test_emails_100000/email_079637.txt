@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Thompson,rebecca.thompson281@business.net,831-921-5203,756 75 7488,8/10/1989,"3107 Maple Ave",Austin,AZ

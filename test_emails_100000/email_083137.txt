@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Ortiz
-  email: jennifer.ortiz6230@outlook.com
-  phone: 372 706 5888
-  ssn: 711444035
-  dob: 06/19/1962
-  address: 88 East St
-  city: Jacksonville
-  state: WI

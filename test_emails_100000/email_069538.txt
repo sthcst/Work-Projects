@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Reeves
-  email: jeffrey.reeves7188@example.com
-  phone: 916 534 3741
-  ssn: 530 93 1335
-  dob: 19/06/1958
-  address: 7772 Spring Ave
-  city: Jacksonville
-  state: NJ

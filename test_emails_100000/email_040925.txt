@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Flores
-  email: katherine.flores4753@work.org
-  phone: 264 809 7456
-  ssn: 286-83-3538
-  dob: 01/11/1994
-  address: 6325 Elm Blvd
-  city: San Antonio
-  state: WA

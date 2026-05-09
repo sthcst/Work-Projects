@@ -1,9 +1,0 @@
-contact:
-  name: Megan Lopez
-  email: megan.lopez9300@company.com
-  phone: +1 569-801-3381
-  ssn: 305-72-7697
-  dob: 01/27/2000
-  address: 9914 Maple Rd
-  city: Philadelphia
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Martinez
-  email: jessica.martinez5148@work.org
-  phone: (444) 854-8315
-  ssn: 423858331
-  dob: 09-13-1981
-  address: 7562 Sixth Court
-  city: Boston
-  state: VA

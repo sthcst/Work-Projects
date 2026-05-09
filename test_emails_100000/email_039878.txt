@@ -1,9 +1,0 @@
-contact:
-  name: Anna Martinez
-  email: anna.martinez1269@outlook.com
-  phone: (625) 494-1579
-  ssn: 495 30 1708
-  dob: 12/08/1954
-  address: 2683 Second Ln
-  city: Seattle
-  state: TX

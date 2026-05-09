@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Reyes
-  email: katherine.reyes7999@outlook.com
-  phone: +1 472-315-6586
-  ssn: 872-05-8245
-  dob: 12/06/1979
-  address: 3665 Maple Court
-  city: Austin
-  state: MD

@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Cooper
-  email: cynthia.cooper4712@outlook.com
-  phone: 300-714-2729
-  ssn: 782-83-1348
-  dob: 04/06/1950
-  address: 6158 South Ave
-  city: New York
-  state: MA

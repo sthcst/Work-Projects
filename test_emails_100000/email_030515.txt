@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Robinson,christopher.robinson1218@company.com,274-509-4571,879 12 6957,09/03/1993,"137 Maple Blvd",Los Angeles,DC

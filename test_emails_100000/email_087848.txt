@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Reyes
-  email: joshua.reyes7399@example.com
-  phone: 926 941 7460
-  ssn: 827 60 8749
-  dob: 12/06/1958
-  address: 7521 Birch St
-  city: Austin
-  state: MD

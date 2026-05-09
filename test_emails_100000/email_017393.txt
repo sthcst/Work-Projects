@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Brown
-  email: kimberly.brown1681@business.net
-  phone: 791-604-5650
-  ssn: 096-06-6932
-  dob: 10/19/1977
-  address: 331 Summer Ave
-  city: Austin
-  state: FL

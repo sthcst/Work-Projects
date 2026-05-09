@@ -1,9 +1,0 @@
-contact:
-  name: Brian Stewart
-  email: brian.stewart6880@mail.com
-  phone: 633-590-4142
-  ssn: 918461708
-  dob: 03-10-1994
-  address: 1399 Third Ave
-  city: Boston
-  state: CA

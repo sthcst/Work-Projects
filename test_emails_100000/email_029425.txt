@@ -1,9 +1,0 @@
-contact:
-  name: Edward Lopez
-  email: edward.lopez9711@work.org
-  phone: 982 886 9622
-  ssn: 328 20 1067
-  dob: 28/09/2003
-  address: 3717 North Ln
-  city: Los Angeles
-  state: TX

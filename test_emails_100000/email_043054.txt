@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Taylor,kimberly.taylor9425@outlook.com,390-440-9340,617 57 3950,7/28/1984,"7940 Elm Way",Boston,MD

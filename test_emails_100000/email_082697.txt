@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Edwards
-  email: sarah.edwards9006@company.com
-  phone: 965 689 7643
-  ssn: 763794824
-  dob: 22/03/1999
-  address: 7549 North Ave
-  city: San Diego
-  state: VA

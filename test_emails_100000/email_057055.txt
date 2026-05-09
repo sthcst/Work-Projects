@@ -1,9 +1,0 @@
-contact:
-  name: Maria Martinez
-  email: maria.martinez2496@company.com
-  phone: 880-577-6273
-  ssn: 815592946
-  dob: 02/12/2004
-  address: 6737 Cedar Blvd
-  city: Denver
-  state: TN

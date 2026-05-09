@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Collins
-  email: samantha.collins5112@example.com
-  phone: 571 700 2558
-  ssn: 563738353
-  dob: 05-27-1972
-  address: 9220 Third Ave
-  city: Houston
-  state: TX

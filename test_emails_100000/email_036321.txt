@@ -1,9 +1,0 @@
-contact:
-  name: Angela Martinez
-  email: angela.martinez3890@work.org
-  phone: 928-413-2357
-  ssn: 740 08 3739
-  dob: 5/26/1951
-  address: 301 Fifth Rd
-  city: Los Angeles
-  state: GA

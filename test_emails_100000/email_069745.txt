@@ -1,9 +1,0 @@
-contact:
-  name: Angela Clark
-  email: angela.clark2491@gmail.com
-  phone: +1 210-599-6496
-  ssn: 889 23 1078
-  dob: 26/02/2005
-  address: 5618 Third Blvd
-  city: Houston
-  state: MA

@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Williams
-  email: pamela.williams6844@business.net
-  phone: 223-926-3754
-  ssn: 667 95 8254
-  dob: 20/12/1950
-  address: 1325 Summer St
-  city: Washington
-  state: VA

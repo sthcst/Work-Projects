@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Morris,katherine.morris1415@mail.com,945 529 4009,960 32 7476,02/12/1961,"7500 East Blvd",Jacksonville,AZ

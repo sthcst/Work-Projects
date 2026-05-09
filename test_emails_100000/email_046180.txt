@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Jackson
-  email: anthony.jackson4419@business.net
-  phone: 744 630 4957
-  ssn: 573-33-5719
-  dob: 10-08-1960
-  address: 7282 East St
-  city: San Antonio
-  state: AZ

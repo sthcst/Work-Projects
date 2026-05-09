@@ -1,9 +1,0 @@
-contact:
-  name: Donald Perez
-  email: donald.perez5877@work.org
-  phone: (933) 255-5291
-  ssn: 800962878
-  dob: 07-24-1995
-  address: 8377 Oak St
-  city: Dallas
-  state: CA

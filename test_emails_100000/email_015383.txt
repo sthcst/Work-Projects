@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Jimenez,andrew.jimenez2834@outlook.com,+1 463-691-2942,096-64-9320,09-17-1988,"5132 Second St",San Diego,TX

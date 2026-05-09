@@ -1,9 +1,0 @@
-contact:
-  name: Paul Carter
-  email: paul.carter2338@business.net
-  phone: 965 573 5081
-  ssn: 159141965
-  dob: 12/8/1985
-  address: 2593 East Way
-  city: Boston
-  state: WA

@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Lee
-  email: rebecca.lee5163@mail.com
-  phone: +1 313-237-1707
-  ssn: 484507654
-  dob: 07-22-1977
-  address: 8197 East Way
-  city: Boston
-  state: TX

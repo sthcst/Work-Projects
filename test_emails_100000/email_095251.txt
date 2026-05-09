@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Perez,richard.perez137@business.net,939 826 4641,165-90-1979,14/06/1961,"1239 Birch Ave",Houston,WA

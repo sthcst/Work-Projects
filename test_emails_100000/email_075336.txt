@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Dominguez
-  email: timothy.dominguez2453@mail.com
-  phone: 387 627 1278
-  ssn: 840 85 6634
-  dob: 8/1/1995
-  address: 6207 Pine Ave
-  city: San Antonio
-  state: MA

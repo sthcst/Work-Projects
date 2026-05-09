@@ -1,9 +1,0 @@
-contact:
-  name: Richard Rogers
-  email: richard.rogers4861@business.net
-  phone: (658) 892-9311
-  ssn: 072-45-4420
-  dob: 09/16/1963
-  address: 7680 Park St
-  city: Washington
-  state: FL

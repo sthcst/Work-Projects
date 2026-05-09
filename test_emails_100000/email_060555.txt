@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Martinez,cynthia.martinez6498@yahoo.com,+1 289-600-8780,216 20 4563,10/06/1989,"627 Main St",Austin,CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Thompson,cynthia.thompson8011@work.org,554 243 5166,740-66-2740,9/18/1955,"910 East Ave",San Diego,CA

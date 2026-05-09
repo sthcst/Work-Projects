@@ -1,9 +1,0 @@
-contact:
-  name: Robert Garcia
-  email: robert.garcia5513@company.com
-  phone: 719 973 7573
-  ssn: 048 20 2238
-  dob: 7/20/1989
-  address: 6812 Birch Ave
-  city: Los Angeles
-  state: IL

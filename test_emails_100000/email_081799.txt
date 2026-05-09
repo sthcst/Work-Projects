@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Parker,amanda.parker1801@work.org,(509) 730-3194,879191592,06-28-1952,"2043 Cedar Ave",Boston,OH

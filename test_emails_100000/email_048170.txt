@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Serrano
-  email: deborah.serrano8806@business.net
-  phone: 958-864-9967
-  ssn: 637768433
-  dob: 2/7/1987
-  address: 2041 East Ln
-  city: Seattle
-  state: DC

@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Ramirez
-  email: daniel.ramirez4367@outlook.com
-  phone: +1 599-513-2518
-  ssn: 111 58 7972
-  dob: 10-23-1958
-  address: 4511 Elm Dr
-  city: Boston
-  state: VA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Alvarado,john.alvarado9367@example.com,+1 527-417-2944,262-78-1624,24/11/1953,"7945 Birch St",Los Angeles,TN

@@ -1,9 +1,0 @@
-contact:
-  name: Richard Thompson
-  email: richard.thompson3405@yahoo.com
-  phone: 418-222-4488
-  ssn: 286 47 4039
-  dob: 27/05/1984
-  address: 136 Second St
-  city: Boston
-  state: FL

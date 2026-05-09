@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Martinez,ronald.martinez8588@example.com,+1 710-514-6514,076-42-7788,08-07-1962,"77 Birch Ln",Chicago,NY

@@ -1,9 +1,0 @@
-contact:
-  name: Edward Miller
-  email: edward.miller8384@company.com
-  phone: 662 776 5156
-  ssn: 805-37-3384
-  dob: 12-04-1999
-  address: 1266 Cedar Dr
-  city: San Jose
-  state: TN

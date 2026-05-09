@@ -1,9 +1,0 @@
-contact:
-  name: Paul Anderson
-  email: paul.anderson2820@example.com
-  phone: 295 406 1266
-  ssn: 599-54-4479
-  dob: 02-21-1983
-  address: 1224 North Dr
-  city: Houston
-  state: TX

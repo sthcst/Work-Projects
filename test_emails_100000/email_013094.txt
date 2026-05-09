@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Collins,rachel.collins6110@gmail.com,+1 365-539-8019,258 06 3239,9/12/1989,"4174 South Court",San Antonio,NC

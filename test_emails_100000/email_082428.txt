@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Evans,rachel.evans9413@business.net,803 523 8143,571-23-7743,21/02/1968,"5812 Sixth Court",New York,CA

@@ -1,9 +1,0 @@
-contact:
-  name: Donald Ramirez
-  email: donald.ramirez2346@gmail.com
-  phone: +1 987-239-3792
-  ssn: 507-21-7613
-  dob: 05/11/2001
-  address: 9590 Maple Dr
-  city: Denver
-  state: CA

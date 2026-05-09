@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Murillo,rachel.murillo7460@yahoo.com,900-298-1908,799-34-2374,9/28/1960,"3116 Summer Ave",Houston,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Thompson,timothy.thompson2263@outlook.com,762 643 8940,896893394,04/06/1999,"6391 East Court",Jacksonville,MD

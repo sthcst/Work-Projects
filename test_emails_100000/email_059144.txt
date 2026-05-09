@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Clark
-  email: katherine.clark2360@mail.com
-  phone: +1 295-754-8499
-  ssn: 463 59 2209
-  dob: 06/17/1961
-  address: 2302 Maple Way
-  city: Boston
-  state: NC

@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Nunez
-  email: katherine.nunez8355@business.net
-  phone: (855) 753-5276
-  ssn: 639-78-8349
-  dob: 05/13/1964
-  address: 8816 Birch Court
-  city: San Antonio
-  state: TX

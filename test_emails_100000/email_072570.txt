@@ -1,9 +1,0 @@
-contact:
-  name: Donald Hernandez
-  email: donald.hernandez2097@company.com
-  phone: 545-558-7976
-  ssn: 599396879
-  dob: 26/06/1995
-  address: 6770 First Blvd
-  city: Boston
-  state: CA

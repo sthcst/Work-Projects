@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Parker
-  email: joshua.parker2040@example.com
-  phone: 404 291 3627
-  ssn: 082895783
-  dob: 03-23-1967
-  address: 342 Oak Rd
-  city: Boston
-  state: IL

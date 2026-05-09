@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Sanchez
-  email: kathleen.sanchez6202@company.com
-  phone: 489 385 1122
-  ssn: 622-25-2223
-  dob: 06-22-1962
-  address: 645 Fourth Ln
-  city: Washington
-  state: TN

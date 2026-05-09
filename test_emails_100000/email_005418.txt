@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Sanchez,jacob.sanchez3513@work.org,611-630-2996,086-44-6031,3/8/1957,"8819 Elm Dr",Jacksonville,CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Carter,gary.carter7191@mail.com,(738) 438-2939,414084891,02/14/1996,"2137 Fourth St",Denver,MO

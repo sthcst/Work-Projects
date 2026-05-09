@@ -1,9 +1,0 @@
-contact:
-  name: Paul Brown
-  email: paul.brown1050@yahoo.com
-  phone: +1 995-504-3739
-  ssn: 866-03-7745
-  dob: 11/24/1968
-  address: 3734 Birch Rd
-  city: Boston
-  state: CA

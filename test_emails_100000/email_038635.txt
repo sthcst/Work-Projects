@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Martin
-  email: joshua.martin3040@mail.com
-  phone: 597-215-6023
-  ssn: 283-70-4838
-  dob: 6/8/1985
-  address: 5087 Maple Court
-  city: San Antonio
-  state: AZ

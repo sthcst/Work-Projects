@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Clark,michael.clark3608@yahoo.com,(846) 788-3009,746 92 5196,09-23-1989,"9977 Sixth Ln",New York,OH

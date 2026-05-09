@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Jimenez,lisa.jimenez5016@mail.com,+1 225-374-9557,172 99 2401,12-22-1970,"480 Oak Dr",Jacksonville,DC

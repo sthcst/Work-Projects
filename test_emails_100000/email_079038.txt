@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Bell
-  email: anthony.bell7045@work.org
-  phone: 579-852-8594
-  ssn: 777 78 7591
-  dob: 05/25/1970
-  address: 981 Second Dr
-  city: Chicago
-  state: TX

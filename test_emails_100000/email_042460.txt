@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Hernandez
-  email: jeffrey.hernandez4832@mail.com
-  phone: (574) 282-7079
-  ssn: 548 38 8650
-  dob: 17/03/1959
-  address: 870 Main St
-  city: Houston
-  state: NJ

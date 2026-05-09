@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Walker
-  email: daniel.walker7830@business.net
-  phone: 711-595-8340
-  ssn: 556 35 7325
-  dob: 10/2/1975
-  address: 4220 Elm Rd
-  city: Houston
-  state: PA

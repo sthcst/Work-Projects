@@ -1,9 +1,0 @@
-contact:
-  name: Emily Guerrero
-  email: emily.guerrero3252@business.net
-  phone: 505 999 1488
-  ssn: 719 12 4672
-  dob: 05-24-1974
-  address: 1489 Third Ave
-  city: Houston
-  state: TX

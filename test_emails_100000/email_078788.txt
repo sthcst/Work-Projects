@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Cooper
-  email: ashley.cooper592@company.com
-  phone: (502) 572-3397
-  ssn: 008424392
-  dob: 09-25-1983
-  address: 6327 West Ave
-  city: Phoenix
-  state: MI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Lee,charles.lee4971@example.com,312 565 7690,650-25-4717,11-10-1962,"5824 Main Rd",Denver,CA

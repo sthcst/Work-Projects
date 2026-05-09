@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Martinez
-  email: ryan.martinez2858@company.com
-  phone: 337 484 7493
-  ssn: 361-82-2197
-  dob: 05/03/1986
-  address: 6403 Oak Dr
-  city: San Diego
-  state: WA

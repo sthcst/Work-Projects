@@ -1,9 +1,0 @@
-contact:
-  name: Jason Murillo
-  email: jason.murillo6498@outlook.com
-  phone: +1 597-887-7280
-  ssn: 375217830
-  dob: 28/10/1993
-  address: 3058 South Dr
-  city: New York
-  state: WI

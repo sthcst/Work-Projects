@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Jones
-  email: lisa.jones2869@business.net
-  phone: (237) 606-9116
-  ssn: 191-96-5742
-  dob: 01/10/1986
-  address: 5499 Summer Court
-  city: Washington
-  state: MD

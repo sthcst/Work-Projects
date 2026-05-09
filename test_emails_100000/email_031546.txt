@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Lopez
-  email: pamela.lopez3426@outlook.com
-  phone: +1 627-233-6252
-  ssn: 588-34-6710
-  dob: 12/11/1955
-  address: 3968 Elm Way
-  city: Denver
-  state: WA

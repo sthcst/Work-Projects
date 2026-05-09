@@ -1,9 +1,0 @@
-contact:
-  name: Ronald White
-  email: ronald.white1550@company.com
-  phone: (951) 344-2052
-  ssn: 761847433
-  dob: 07/17/1956
-  address: 4088 Oak Court
-  city: Denver
-  state: TX

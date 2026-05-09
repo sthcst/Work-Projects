@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Cooper
-  email: joshua.cooper7769@mail.com
-  phone: 853 869 4177
-  ssn: 934523350
-  dob: 12/23/1968
-  address: 4322 First Dr
-  city: Boston
-  state: GA

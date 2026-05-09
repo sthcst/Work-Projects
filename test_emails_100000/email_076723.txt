@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Peterson,shirley.peterson5472@business.net,431-500-3842,708391741,13/08/1960,"9826 Fourth Blvd",Seattle,TX

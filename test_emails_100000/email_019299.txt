@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Flores,michael.flores3849@yahoo.com,(753) 564-6542,361 59 7900,07/12/1988,"3804 Second Rd",San Diego,WI

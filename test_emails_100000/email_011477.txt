@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Collins,sarah.collins7212@outlook.com,(507) 747-1992,027 97 3001,05-16-1988,"2441 Fifth Dr",Chicago,MA

@@ -1,9 +1,0 @@
-contact:
-  name: Helen Martin
-  email: helen.martin8445@work.org
-  phone: 674-791-1896
-  ssn: 800 05 4171
-  dob: 1/7/1951
-  address: 8133 East Ave
-  city: Chicago
-  state: NC

@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Thompson
-  email: nicholas.thompson4128@mail.com
-  phone: (909) 565-8644
-  ssn: 426865280
-  dob: 9/27/1998
-  address: 7866 East St
-  city: Phoenix
-  state: GA

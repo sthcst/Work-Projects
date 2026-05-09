@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Brown,brenda.brown6995@business.net,671 824 9045,629 13 5963,06/02/2001,"8763 West Blvd",Austin,NJ

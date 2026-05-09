@@ -1,9 +1,0 @@
-contact:
-  name: Mark Clark
-  email: mark.clark1732@outlook.com
-  phone: (323) 955-6826
-  ssn: 183321146
-  dob: 11/01/1955
-  address: 6733 South Rd
-  city: San Antonio
-  state: WI

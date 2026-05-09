@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Nunez,brenda.nunez3302@business.net,(962) 224-6809,095144675,27/02/1991,"5232 Spring Court",Phoenix,WA

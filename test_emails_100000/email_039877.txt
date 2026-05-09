@@ -1,9 +1,0 @@
-contact:
-  name: Jane Anderson
-  email: jane.anderson928@mail.com
-  phone: +1 759-897-6285
-  ssn: 182 50 8194
-  dob: 6/4/1984
-  address: 9566 Spring Court
-  city: Boston
-  state: DC

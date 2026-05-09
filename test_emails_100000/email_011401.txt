@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Thompson,steven.thompson3120@example.com,(900) 847-2477,327-43-9070,22/04/1981,"181 Park Rd",Washington,CA

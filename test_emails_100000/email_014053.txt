@@ -1,9 +1,0 @@
-contact:
-  name: Jane Phillips
-  email: jane.phillips665@business.net
-  phone: 826-964-6826
-  ssn: 606 80 1770
-  dob: 11/06/1995
-  address: 1557 West Court
-  city: New York
-  state: IL

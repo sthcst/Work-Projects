@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Nelson,timothy.nelson3320@company.com,268 367 1896,184882952,06/20/1958,"1145 South Court",Los Angeles,MA

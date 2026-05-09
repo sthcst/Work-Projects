@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Campbell,jeffrey.campbell2645@outlook.com,+1 510-349-1147,410 86 4487,11-15-2001,"3949 First Blvd",Houston,TX

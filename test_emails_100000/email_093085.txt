@@ -1,9 +1,0 @@
-contact:
-  name: George Rodriguez
-  email: george.rodriguez2246@yahoo.com
-  phone: 731 369 4950
-  ssn: 730708123
-  dob: 12-26-1993
-  address: 1123 Spring Ave
-  city: Los Angeles
-  state: MA

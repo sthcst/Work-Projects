@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Clark,ryan.clark8324@mail.com,711-423-4135,296-66-5749,02/27/1962,"8812 North St",Seattle,DC

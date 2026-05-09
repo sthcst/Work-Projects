@@ -1,9 +1,0 @@
-contact:
-  name: Jane Dominguez
-  email: jane.dominguez6649@business.net
-  phone: 775 451 4935
-  ssn: 388 03 4172
-  dob: 6/4/1985
-  address: 1653 Elm Dr
-  city: San Antonio
-  state: CA

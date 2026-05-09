@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Reed,timothy.reed9439@example.com,+1 816-453-1902,131724229,03/15/2003,"7718 Third Blvd",Philadelphia,DC

@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Sanchez
-  email: rebecca.sanchez4598@yahoo.com
-  phone: (532) 849-1947
-  ssn: 106-17-5131
-  dob: 10-22-1984
-  address: 5149 Sixth Court
-  city: New York
-  state: CA

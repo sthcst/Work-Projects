@@ -1,9 +1,0 @@
-contact:
-  name: Edward Sanchez
-  email: edward.sanchez8543@work.org
-  phone: +1 998-700-1635
-  ssn: 164-71-8830
-  dob: 8/18/1972
-  address: 3703 Sixth Ave
-  city: Los Angeles
-  state: MA

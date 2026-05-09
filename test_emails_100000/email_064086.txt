@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Roberts,kimberly.roberts9767@business.net,+1 307-761-4326,420 92 1109,09/08/1960,"2792 Spring Dr",Philadelphia,DC

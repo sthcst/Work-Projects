@@ -1,9 +1,0 @@
-contact:
-  name: Emily Nelson
-  email: emily.nelson5057@example.com
-  phone: (285) 707-5693
-  ssn: 765 75 4508
-  dob: 26/01/1954
-  address: 1348 West Court
-  city: Boston
-  state: CA

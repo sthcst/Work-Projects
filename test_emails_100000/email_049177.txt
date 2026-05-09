@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Jones,charles.jones2900@gmail.com,(550) 472-8321,070132880,06/13/1967,"4603 Oak St",Philadelphia,TN

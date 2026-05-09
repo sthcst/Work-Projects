@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Lopez
-  email: ronald.lopez4333@outlook.com
-  phone: +1 454-767-6668
-  ssn: 067-48-6872
-  dob: 08-16-1991
-  address: 1963 Second Ave
-  city: Dallas
-  state: WA

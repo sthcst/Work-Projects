@@ -1,9 +1,0 @@
-contact:
-  name: George Gomez
-  email: george.gomez8972@yahoo.com
-  phone: 210 821 7428
-  ssn: 787 78 5321
-  dob: 09/20/1976
-  address: 3990 Main St
-  city: Phoenix
-  state: AZ

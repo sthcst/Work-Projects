@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Nelson,ashley.nelson7799@work.org,487-982-9900,549681809,9/14/1994,"8346 Cedar St",Chicago,IL

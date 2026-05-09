@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Collins,jane.collins3349@mail.com,+1 467-556-8796,971 58 3297,08-18-1991,"5878 West Way",San Antonio,FL

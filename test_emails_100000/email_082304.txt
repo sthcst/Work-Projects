@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Campbell
-  email: sarah.campbell8252@business.net
-  phone: (523) 311-3244
-  ssn: 129465625
-  dob: 09/07/1982
-  address: 2416 Oak Ln
-  city: Seattle
-  state: TX

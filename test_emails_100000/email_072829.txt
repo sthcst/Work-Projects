@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Taylor,gary.taylor8388@company.com,291 822 2397,157-76-5609,1/14/1966,"9061 Fifth Blvd",Boston,WI

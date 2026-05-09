@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Taylor,katherine.taylor5137@business.net,+1 242-230-6903,463 57 9529,16/11/1984,"4387 West Ave",Dallas,MA

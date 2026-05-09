@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Thomas,daniel.thomas8327@yahoo.com,804-545-2056,253 76 8931,14/12/1985,"5251 Maple Court",Houston,MA

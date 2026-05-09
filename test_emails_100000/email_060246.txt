@@ -1,9 +1,0 @@
-contact:
-  name: Christine Walker
-  email: christine.walker7672@example.com
-  phone: 934-510-8447
-  ssn: 755 71 7654
-  dob: 11/24/1975
-  address: 7591 Elm Rd
-  city: San Jose
-  state: CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Walker,shirley.walker3521@yahoo.com,+1 638-659-1440,035316704,12/16/1976,"7020 Fifth Dr",Houston,TX

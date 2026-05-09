@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Robinson,amanda.robinson2010@gmail.com,810-712-6153,043-02-7533,06/05/1951,"9268 North Rd",New York,MD

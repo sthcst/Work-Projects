@@ -1,9 +1,0 @@
-contact:
-  name: Angela Miller
-  email: angela.miller6615@example.com
-  phone: (798) 604-2178
-  ssn: 902 61 7333
-  dob: 10-12-1953
-  address: 1812 East Ln
-  city: Jacksonville
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Anna Collins
-  email: anna.collins9181@yahoo.com
-  phone: 571 316 2673
-  ssn: 630 77 5660
-  dob: 9/4/1966
-  address: 2145 North Court
-  city: Washington
-  state: MD

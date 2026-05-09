@@ -1,9 +1,0 @@
-contact:
-  name: Brian Nunez
-  email: brian.nunez9893@outlook.com
-  phone: 649-964-9355
-  ssn: 982 40 3972
-  dob: 09-01-1964
-  address: 142 Sixth Court
-  city: New York
-  state: TX

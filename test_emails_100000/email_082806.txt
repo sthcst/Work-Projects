@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Murillo,emily.murillo2242@outlook.com,916-950-9075,941-08-3181,12/08/2005,"1990 Park Rd",Austin,CA

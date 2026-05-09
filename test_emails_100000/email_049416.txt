@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Smith,stephanie.smith2653@business.net,449 562 5402,133-11-4948,11/10/1979,"8389 Park Way",Los Angeles,OH

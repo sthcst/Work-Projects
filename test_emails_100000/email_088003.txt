@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Hall,katherine.hall5677@example.com,(455) 465-1215,101 02 2412,07/12/2000,"5113 Sixth Rd",New York,IL

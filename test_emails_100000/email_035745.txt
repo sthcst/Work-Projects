@@ -1,9 +1,0 @@
-contact:
-  name: James Young
-  email: james.young9692@gmail.com
-  phone: +1 531-416-8350
-  ssn: 334878281
-  dob: 03-25-1977
-  address: 5446 Elm Way
-  city: Chicago
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Sanchez
-  email: joshua.sanchez3067@yahoo.com
-  phone: +1 207-251-4399
-  ssn: 720067322
-  dob: 05/05/1980
-  address: 178 South Court
-  city: Denver
-  state: TN

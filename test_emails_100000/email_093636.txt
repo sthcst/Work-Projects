@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Murillo,cynthia.murillo1819@business.net,(326) 430-2401,181151916,05/04/1978,"2795 Park Blvd",Los Angeles,GA

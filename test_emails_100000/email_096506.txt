@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Collins
-  email: joseph.collins760@company.com
-  phone: +1 825-741-7555
-  ssn: 997-03-9282
-  dob: 2/20/1963
-  address: 3957 East Dr
-  city: Jacksonville
-  state: WA

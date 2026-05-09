@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Jimenez
-  email: rebecca.jimenez6670@gmail.com
-  phone: (626) 256-2585
-  ssn: 595-39-7201
-  dob: 01/05/1960
-  address: 5225 West St
-  city: Los Angeles
-  state: WA

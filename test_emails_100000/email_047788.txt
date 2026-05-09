@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Thomas
-  email: ryan.thomas1915@example.com
-  phone: 428 758 2940
-  ssn: 182-21-6718
-  dob: 14/07/1964
-  address: 9874 Elm Court
-  city: Seattle
-  state: TX

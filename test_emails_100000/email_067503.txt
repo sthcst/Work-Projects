@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Thompson
-  email: shirley.thompson6578@example.com
-  phone: +1 900-795-2735
-  ssn: 617548661
-  dob: 19/02/1970
-  address: 6451 Birch St
-  city: New York
-  state: VA

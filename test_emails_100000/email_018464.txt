@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Alvarado,rachel.alvarado4343@gmail.com,998-521-7790,838-53-6390,02/02/1991,"5266 Main Ave",Los Angeles,MO

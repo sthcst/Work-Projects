@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Guerrero,kenneth.guerrero2864@mail.com,914-759-6687,369 35 6793,5/15/1999,"3744 West Blvd",Los Angeles,OH

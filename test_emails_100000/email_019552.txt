@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Jimenez
-  email: cynthia.jimenez2905@work.org
-  phone: 212-601-1428
-  ssn: 844-16-7100
-  dob: 02-22-1960
-  address: 6850 South Dr
-  city: Los Angeles
-  state: TN

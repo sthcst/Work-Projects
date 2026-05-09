@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Harris
-  email: amanda.harris8542@mail.com
-  phone: 259 215 1916
-  ssn: 847-41-2831
-  dob: 02/16/1993
-  address: 6693 Fifth Court
-  city: San Antonio
-  state: TN

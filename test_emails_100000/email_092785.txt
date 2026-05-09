@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Lopez,katherine.lopez6283@example.com,+1 525-738-6165,780 12 7306,18/09/1976,"9263 West Ave",Boston,VA

@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Jimenez
-  email: kathleen.jimenez8416@company.com
-  phone: 806-334-4343
-  ssn: 738-60-5868
-  dob: 15/05/1993
-  address: 512 North Blvd
-  city: Washington
-  state: TX

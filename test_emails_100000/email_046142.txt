@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Robinson,jason.robinson3991@example.com,976-597-1747,565-73-9648,07/09/1951,"5841 Cedar Blvd",Seattle,MA

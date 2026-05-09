@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Walker,robert.walker7850@company.com,827-598-4503,401816007,08/19/1990,"689 Maple St",San Jose,TX

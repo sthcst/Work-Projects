@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Moore
-  email: timothy.moore8385@example.com
-  phone: 434 467 7937
-  ssn: 085616723
-  dob: 02/12/1953
-  address: 6003 Pine Court
-  city: Denver
-  state: TX

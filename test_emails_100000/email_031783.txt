@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Serrano,paul.serrano4116@mail.com,(573) 782-7287,426-28-1604,06-17-2003,"7000 North Way",San Jose,CA

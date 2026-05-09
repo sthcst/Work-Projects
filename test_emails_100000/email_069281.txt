@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Lewis
-  email: joshua.lewis759@outlook.com
-  phone: 898 913 5770
-  ssn: 421876333
-  dob: 06/08/1967
-  address: 5353 Birch Blvd
-  city: Jacksonville
-  state: CO

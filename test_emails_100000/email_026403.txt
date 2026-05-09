@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Reeves,katherine.reeves8959@company.com,(800) 976-9435,037-58-7694,12-27-1994,"613 Second Ave",Dallas,IL

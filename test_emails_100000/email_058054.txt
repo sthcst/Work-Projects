@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Lopez
-  email: lisa.lopez9965@work.org
-  phone: +1 849-280-4614
-  ssn: 584-23-3705
-  dob: 5/9/1981
-  address: 8572 First Rd
-  city: Los Angeles
-  state: CA

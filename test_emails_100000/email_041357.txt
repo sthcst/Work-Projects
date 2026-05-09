@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Phillips
-  email: cynthia.phillips4347@yahoo.com
-  phone: +1 971-217-6160
-  ssn: 497-12-6029
-  dob: 6/19/1960
-  address: 9485 Spring St
-  city: Denver
-  state: AZ

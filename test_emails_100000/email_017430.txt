@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Murillo,mark.murillo5878@example.com,(487) 669-4913,729055692,03/20/1967,"6722 Fourth Court",Washington,VA

@@ -1,9 +1,0 @@
-contact:
-  name: John Johnson
-  email: john.johnson5669@gmail.com
-  phone: +1 896-388-5675
-  ssn: 071 11 5212
-  dob: 03-10-1991
-  address: 3204 Spring Way
-  city: Washington
-  state: TX

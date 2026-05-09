@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Stewart,deborah.stewart5306@outlook.com,684 627 7860,247-43-7142,21/01/1972,"1580 Pine Way",Philadelphia,CA

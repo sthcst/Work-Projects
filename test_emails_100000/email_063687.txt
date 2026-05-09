@@ -1,9 +1,0 @@
-contact:
-  name: Donald Campbell
-  email: donald.campbell862@business.net
-  phone: +1 382-202-7822
-  ssn: 368 52 2258
-  dob: 08-28-1974
-  address: 4552 East St
-  city: Houston
-  state: OH

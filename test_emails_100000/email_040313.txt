@@ -1,9 +1,0 @@
-contact:
-  name: Angela Jimenez
-  email: angela.jimenez1170@outlook.com
-  phone: (919) 783-6061
-  ssn: 365 82 8170
-  dob: 11/09/1988
-  address: 4200 Sixth Dr
-  city: San Jose
-  state: MA

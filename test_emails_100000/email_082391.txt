@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Nelson
-  email: ashley.nelson4252@outlook.com
-  phone: (657) 696-1217
-  ssn: 253864268
-  dob: 11/5/1955
-  address: 8021 Elm Rd
-  city: Houston
-  state: AZ

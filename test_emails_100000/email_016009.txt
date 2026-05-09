@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Young,edward.young2510@example.com,(583) 614-4736,124428196,02/18/2004,"3772 Cedar Dr",San Diego,MI

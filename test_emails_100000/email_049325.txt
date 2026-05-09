@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Lee,rebecca.lee7328@outlook.com,917 704 2429,409-81-9007,07-25-1997,"5859 Spring Rd",Seattle,FL

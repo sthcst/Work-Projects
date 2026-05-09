@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Campbell,mark.campbell3357@mail.com,+1 860-754-5151,724 03 1629,12-26-1999,"8840 East Ave",Austin,TN

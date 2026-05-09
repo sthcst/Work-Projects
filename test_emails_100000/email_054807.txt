@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Carter
-  email: amanda.carter5409@outlook.com
-  phone: (791) 253-9659
-  ssn: 296 99 9377
-  dob: 25/11/1989
-  address: 3154 Park St
-  city: New York
-  state: MA

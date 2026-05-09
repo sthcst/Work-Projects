@@ -1,9 +1,0 @@
-contact:
-  name: John Smith
-  email: john.smith4665@yahoo.com
-  phone: 391 281 8702
-  ssn: 631-01-3301
-  dob: 04-26-1968
-  address: 1413 Maple Ln
-  city: Seattle
-  state: NY

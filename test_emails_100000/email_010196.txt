@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Smith,charles.smith6997@yahoo.com,253 318 1764,045689426,9/21/1956,"900 East Ln",Philadelphia,NC

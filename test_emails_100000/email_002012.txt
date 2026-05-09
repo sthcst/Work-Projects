@@ -1,9 +1,0 @@
-contact:
-  name: Angela Young
-  email: angela.young4631@gmail.com
-  phone: (950) 399-8731
-  ssn: 524287428
-  dob: 2/12/2003
-  address: 6384 West Way
-  city: Boston
-  state: MI

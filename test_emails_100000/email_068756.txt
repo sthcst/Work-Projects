@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Edwards
-  email: ryan.edwards2021@business.net
-  phone: 375 586 1472
-  ssn: 003-62-8753
-  dob: 05/12/2000
-  address: 615 Oak St
-  city: Chicago
-  state: TX

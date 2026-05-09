@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Jimenez,nicole.jimenez717@company.com,(397) 962-8904,315 21 9545,05-01-1985,"5798 Maple Dr",San Diego,TX

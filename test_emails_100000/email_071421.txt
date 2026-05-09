@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Smith,kimberly.smith9495@company.com,975-487-7975,792869507,05-04-1981,"9557 First Way",Dallas,IL

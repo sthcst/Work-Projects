@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Alvarado,lisa.alvarado8345@work.org,(635) 685-4570,512306425,7/11/1958,"306 Spring Rd",Austin,MA

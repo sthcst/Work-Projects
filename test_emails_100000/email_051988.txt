@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Alvarado
-  email: stephanie.alvarado7767@company.com
-  phone: 872-942-8505
-  ssn: 973-89-5375
-  dob: 08-09-1959
-  address: 7094 Park Ln
-  city: New York
-  state: MA

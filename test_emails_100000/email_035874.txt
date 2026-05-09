@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela White,pamela.white9776@mail.com,(879) 725-9983,136671677,14/09/2002,"6460 Park Blvd",San Diego,FL

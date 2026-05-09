@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Williams
-  email: kathleen.williams9873@company.com
-  phone: 511-224-3601
-  ssn: 482118779
-  dob: 03/07/1960
-  address: 8177 Third Rd
-  city: Phoenix
-  state: IL

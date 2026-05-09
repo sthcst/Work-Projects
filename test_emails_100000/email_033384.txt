@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Romero,angela.romero8428@company.com,(348) 420-1915,084081798,01/09/1965,"8690 Birch Dr",Los Angeles,MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Carter,ryan.carter8456@mail.com,(681) 522-7209,924371744,02/21/1970,"5527 Maple Ln",Los Angeles,AZ

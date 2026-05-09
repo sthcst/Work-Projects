@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Peterson
-  email: ashley.peterson9450@company.com
-  phone: +1 973-350-4474
-  ssn: 940-80-7862
-  dob: 13/11/1961
-  address: 527 Maple Rd
-  city: Jacksonville
-  state: CA

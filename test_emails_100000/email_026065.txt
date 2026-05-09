@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Young,helen.young9389@business.net,777 606 6925,637743212,4/28/1954,"7835 Fifth Ln",San Antonio,MA

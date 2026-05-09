@@ -1,9 +1,0 @@
-contact:
-  name: William Clark
-  email: william.clark4714@company.com
-  phone: +1 638-212-8890
-  ssn: 089-93-9799
-  dob: 11-07-1961
-  address: 6894 Sixth Court
-  city: San Diego
-  state: IL

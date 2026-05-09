@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Thompson,emily.thompson5440@mail.com,592-214-5401,937 04 2537,08-23-1976,"6387 Maple Ave",Houston,TN

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Alvarado,daniel.alvarado953@business.net,(962) 293-7863,707597122,2/6/1968,"1231 Main Dr",Seattle,NJ

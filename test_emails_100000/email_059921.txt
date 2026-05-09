@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Edwards,jessica.edwards8140@outlook.com,+1 846-909-2767,973745579,5/28/1954,"528 Fifth Dr",Dallas,MA

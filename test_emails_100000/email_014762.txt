@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Nunez,jane.nunez7738@company.com,(260) 623-8874,082 74 1879,7/21/1999,"9843 Fifth Ave",Phoenix,MO

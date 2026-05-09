@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Rodriguez,kenneth.rodriguez6507@outlook.com,666 390 2672,808325730,10/28/1964,"3699 First St",Washington,MA

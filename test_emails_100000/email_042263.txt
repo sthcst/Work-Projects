@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Taylor,katherine.taylor4438@mail.com,394-983-5064,390421289,03/23/1961,"1436 Cedar St",New York,WI

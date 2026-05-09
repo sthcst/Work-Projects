@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Edwards
-  email: shirley.edwards1407@business.net
-  phone: (915) 903-7881
-  ssn: 704922830
-  dob: 01-15-1992
-  address: 5185 Fourth Blvd
-  city: Washington
-  state: CO

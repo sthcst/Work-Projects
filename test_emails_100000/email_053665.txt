@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Morris,samantha.morris4525@outlook.com,(984) 314-2197,029 93 6740,08-17-1962,"5195 Second Dr",Boston,GA

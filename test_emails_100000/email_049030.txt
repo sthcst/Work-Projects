@@ -1,9 +1,0 @@
-contact:
-  name: Michael Guerrero
-  email: michael.guerrero250@company.com
-  phone: +1 475-347-2471
-  ssn: 230-68-6206
-  dob: 08-22-2004
-  address: 84 Summer Ln
-  city: Seattle
-  state: NJ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Martin,jessica.martin61@work.org,+1 644-996-9974,448-26-2429,11/10/1953,"3556 Fourth Dr",Philadelphia,CA

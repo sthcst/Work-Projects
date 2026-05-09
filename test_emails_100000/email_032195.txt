@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Alvarado,michelle.alvarado421@example.com,+1 942-425-8334,837448029,09/09/1980,"1050 Pine Ave",New York,FL

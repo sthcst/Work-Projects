@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Harris
-  email: kevin.harris5143@outlook.com
-  phone: 304-908-1047
-  ssn: 133264209
-  dob: 03/09/1971
-  address: 353 Maple St
-  city: Washington
-  state: MA

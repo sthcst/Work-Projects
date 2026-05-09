@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Wilson,samantha.wilson1400@example.com,609-971-8931,503 39 8712,07/09/1965,"9965 Park Dr",Philadelphia,IL

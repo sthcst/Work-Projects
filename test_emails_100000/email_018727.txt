@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Walker,andrew.walker6538@gmail.com,+1 726-468-1514,550956043,11/7/1951,"9044 Spring Court",San Jose,TN

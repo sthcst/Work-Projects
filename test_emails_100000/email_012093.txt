@@ -1,9 +1,0 @@
-contact:
-  name: James Rogers
-  email: james.rogers9127@yahoo.com
-  phone: +1 281-715-3003
-  ssn: 068-03-2759
-  dob: 2/7/1985
-  address: 6151 Sixth Ln
-  city: Philadelphia
-  state: GA

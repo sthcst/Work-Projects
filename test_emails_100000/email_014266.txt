@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Ramirez,cynthia.ramirez2420@example.com,834 205 2294,120-49-2341,16/12/1987,"5801 Spring St",Los Angeles,DC

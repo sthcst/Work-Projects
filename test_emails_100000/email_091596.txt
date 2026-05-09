@@ -1,9 +1,0 @@
-contact:
-  name: Richard Reed
-  email: richard.reed4639@mail.com
-  phone: 439-881-8784
-  ssn: 676-70-4259
-  dob: 01-27-1993
-  address: 2672 West Blvd
-  city: New York
-  state: CA

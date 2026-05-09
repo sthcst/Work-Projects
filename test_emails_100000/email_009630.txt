@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Jackson,jessica.jackson9711@yahoo.com,963-235-8229,385 17 3213,02/16/1956,"2863 Fifth Ave",San Diego,NY

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Garcia,katherine.garcia1142@outlook.com,+1 671-994-5575,696 70 3777,05-15-1977,"1602 Summer Rd",Phoenix,TX

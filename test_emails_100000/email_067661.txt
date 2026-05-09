@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Ramirez,charles.ramirez8415@mail.com,968 681 9610,444469066,16/06/1978,"6432 Cedar Blvd",Los Angeles,IL

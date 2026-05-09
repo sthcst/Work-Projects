@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Miller
-  email: stephanie.miller1111@example.com
-  phone: 785 851 6863
-  ssn: 078-52-6952
-  dob: 01-26-1988
-  address: 4284 Birch St
-  city: San Jose
-  state: MA

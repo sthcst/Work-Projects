@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Delgado,jason.delgado9549@business.net,386 631 7935,187 98 5573,11-22-1965,"1208 Summer Way",San Diego,CA

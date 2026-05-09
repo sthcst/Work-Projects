@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Young
-  email: jessica.young2534@example.com
-  phone: 955-424-1976
-  ssn: 925-10-2970
-  dob: 1/22/1994
-  address: 7513 Second Ave
-  city: New York
-  state: AZ

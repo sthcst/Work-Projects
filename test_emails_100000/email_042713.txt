@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Rodriguez,andrew.rodriguez6313@yahoo.com,(327) 674-3888,162 27 4864,12-16-1959,"7533 Pine Blvd",Washington,TX

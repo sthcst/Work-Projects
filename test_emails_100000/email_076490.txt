@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Clark
-  email: andrew.clark4286@gmail.com
-  phone: 618 800 7874
-  ssn: 025-53-4974
-  dob: 19/05/1964
-  address: 1866 West St
-  city: San Antonio
-  state: MA

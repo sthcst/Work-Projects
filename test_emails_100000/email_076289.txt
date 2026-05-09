@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Stewart,emma.stewart190@outlook.com,935 363 5221,687942527,2/26/1983,"7833 East Court",Austin,CO

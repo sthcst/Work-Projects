@@ -1,9 +1,0 @@
-contact:
-  name: Angela Lewis
-  email: angela.lewis4500@mail.com
-  phone: 488-665-6860
-  ssn: 545-40-2405
-  dob: 10/06/1957
-  address: 5426 West Ave
-  city: Dallas
-  state: MO

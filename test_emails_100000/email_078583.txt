@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Morris,anthony.morris5804@gmail.com,521-584-1479,240982943,3/17/1992,"9361 Second Rd",Washington,MO

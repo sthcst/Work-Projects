@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Parker
-  email: christopher.parker6964@mail.com
-  phone: (210) 213-1401
-  ssn: 349 70 5328
-  dob: 03-14-1990
-  address: 6768 Main Ln
-  city: Jacksonville
-  state: TX

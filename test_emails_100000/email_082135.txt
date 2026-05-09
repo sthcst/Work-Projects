@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Rodriguez
-  email: nicholas.rodriguez4978@gmail.com
-  phone: +1 817-315-2287
-  ssn: 352475907
-  dob: 12-13-1975
-  address: 1734 Sixth Ave
-  city: Denver
-  state: PA

@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Carter
-  email: lisa.carter6119@yahoo.com
-  phone: 579-277-8999
-  ssn: 459586481
-  dob: 16/07/1974
-  address: 4405 Oak Dr
-  city: Washington
-  state: OH

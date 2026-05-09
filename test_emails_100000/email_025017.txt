@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Phillips,william.phillips7228@example.com,467 600 5135,535 14 6137,24/10/1973,"9522 South Dr",Boston,TX

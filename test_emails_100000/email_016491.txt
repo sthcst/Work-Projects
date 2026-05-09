@@ -1,9 +1,0 @@
-contact:
-  name: Michael Evans
-  email: michael.evans9982@gmail.com
-  phone: 757-330-5711
-  ssn: 549-46-6705
-  dob: 06/08/1971
-  address: 1341 East St
-  city: Chicago
-  state: NY

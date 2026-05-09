@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Robinson
-  email: sarah.robinson4749@yahoo.com
-  phone: 494-323-7803
-  ssn: 206-71-4841
-  dob: 12-05-1985
-  address: 8559 North Ave
-  city: San Diego
-  state: CA

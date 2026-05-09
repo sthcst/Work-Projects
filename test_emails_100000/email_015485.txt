@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Edwards
-  email: jessica.edwards5424@outlook.com
-  phone: +1 205-866-1090
-  ssn: 818 50 8284
-  dob: 07/28/2001
-  address: 609 Fourth Ave
-  city: Boston
-  state: WI

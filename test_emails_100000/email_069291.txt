@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Romero,kenneth.romero4609@mail.com,+1 806-432-2452,721-87-7885,05-24-2003,"8047 Fifth St",Austin,MA

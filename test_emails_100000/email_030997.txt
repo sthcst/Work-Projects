@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Carter,jason.carter4457@example.com,934-343-9540,888-37-8183,06-13-1992,"2261 First Ave",Boston,TN

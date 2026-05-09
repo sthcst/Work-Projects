@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Guerrero
-  email: rachel.guerrero7233@work.org
-  phone: (914) 918-9576
-  ssn: 911 93 7541
-  dob: 02-11-1958
-  address: 3893 First Ln
-  city: Boston
-  state: MO

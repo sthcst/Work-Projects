@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Nelson,gary.nelson7216@work.org,392-741-7289,989 53 9525,06/14/1987,"223 Summer Dr",Phoenix,AZ

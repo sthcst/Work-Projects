@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Thomas,rebecca.thomas4229@outlook.com,981 651 2476,266-16-5460,2/4/1993,"5314 West Court",Jacksonville,VA

@@ -1,9 +1,0 @@
-contact:
-  name: Gary Reeves
-  email: gary.reeves3842@company.com
-  phone: (582) 574-7593
-  ssn: 656608499
-  dob: 27/05/1981
-  address: 8542 Spring Ave
-  city: Seattle
-  state: TN

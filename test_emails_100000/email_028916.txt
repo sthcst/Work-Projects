@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Miller,edward.miller3340@outlook.com,(506) 555-4208,568-41-1229,23/04/1965,"7556 Birch Way",Phoenix,TX

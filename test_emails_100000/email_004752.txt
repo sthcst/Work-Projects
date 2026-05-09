@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Evans,pamela.evans6303@company.com,(685) 857-2826,893-36-5923,02-23-1982,"6937 South Ln",New York,VA

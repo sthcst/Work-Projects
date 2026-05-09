@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Phillips,samantha.phillips7613@example.com,546 714 7243,002939257,05/09/1978,"2927 Sixth Ln",San Jose,CO

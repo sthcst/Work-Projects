@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Brown,john.brown9483@outlook.com,+1 869-246-5072,509-53-7533,4/25/1971,"7490 Third Way",Phoenix,CA

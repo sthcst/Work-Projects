@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Flores,ronald.flores9200@mail.com,584-360-3015,352 17 6094,2/7/1960,"9285 Pine Court",Philadelphia,VA

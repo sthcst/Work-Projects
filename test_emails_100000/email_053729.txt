@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Harris
-  email: brenda.harris592@outlook.com
-  phone: (803) 778-9022
-  ssn: 535 07 6360
-  dob: 12/04/1990
-  address: 8882 North Rd
-  city: Philadelphia
-  state: MA

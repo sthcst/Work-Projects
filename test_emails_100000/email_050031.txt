@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Anderson,megan.anderson308@business.net,639-758-6978,237 97 1788,06/17/1982,"4230 Maple Rd",San Diego,NJ

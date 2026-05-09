@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony White,anthony.white916@example.com,583-280-6605,224 79 3685,07/03/1959,"2680 Sixth St",Washington,NY

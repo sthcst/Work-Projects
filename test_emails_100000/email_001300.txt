@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Bell,katherine.bell363@mail.com,547 926 5417,389-45-5230,12/13/1982,"6232 Third Dr",San Diego,DC

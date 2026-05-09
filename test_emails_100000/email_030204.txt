@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Anderson,katherine.anderson1583@business.net,210 305 4109,939-47-9648,02/19/1967,"9956 Second Dr",Philadelphia,OH

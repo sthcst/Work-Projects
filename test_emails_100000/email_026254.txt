@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Carter,gary.carter1307@example.com,+1 468-800-9058,540204318,08/04/1962,"7049 Elm Ave",New York,MA

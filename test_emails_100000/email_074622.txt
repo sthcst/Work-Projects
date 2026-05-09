@@ -1,9 +1,0 @@
-contact:
-  name: George Jackson
-  email: george.jackson471@business.net
-  phone: 374 721 6351
-  ssn: 596-78-9883
-  dob: 02/20/2005
-  address: 6988 South Blvd
-  city: Jacksonville
-  state: CA

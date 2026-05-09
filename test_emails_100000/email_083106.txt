@@ -1,9 +1,0 @@
-contact:
-  name: Maria Nunez
-  email: maria.nunez5216@work.org
-  phone: +1 359-720-2612
-  ssn: 695-56-6530
-  dob: 10/09/1981
-  address: 2909 Maple Court
-  city: San Jose
-  state: AZ

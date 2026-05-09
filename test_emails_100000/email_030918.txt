@@ -1,9 +1,0 @@
-contact:
-  name: James Clark
-  email: james.clark4442@outlook.com
-  phone: 810-698-6158
-  ssn: 774-28-6474
-  dob: 2/17/1992
-  address: 8223 Third Rd
-  city: Washington
-  state: TX

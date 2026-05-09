@@ -1,9 +1,0 @@
-contact:
-  name: Gary Collins
-  email: gary.collins6323@gmail.com
-  phone: (359) 854-6379
-  ssn: 762504402
-  dob: 07-04-1954
-  address: 2684 Oak Dr
-  city: Houston
-  state: CA

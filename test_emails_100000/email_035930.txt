@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Campbell
-  email: timothy.campbell9305@example.com
-  phone: +1 492-709-6576
-  ssn: 995 76 9903
-  dob: 6/7/1989
-  address: 9990 Fifth Blvd
-  city: Washington
-  state: GA

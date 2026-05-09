@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Alvarado,emma.alvarado4439@work.org,(513) 235-8084,516125231,08/14/1973,"7805 West Ln",Denver,AZ

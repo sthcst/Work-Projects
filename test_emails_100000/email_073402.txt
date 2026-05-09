@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Roberts,lisa.roberts1164@work.org,431 331 5596,231-23-4774,7/19/1969,"4176 Birch Court",San Antonio,CA

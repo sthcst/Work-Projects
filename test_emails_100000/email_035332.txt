@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Phillips,robert.phillips9016@mail.com,+1 636-324-4753,963 47 9361,06/08/1988,"2952 Summer Rd",Jacksonville,MO

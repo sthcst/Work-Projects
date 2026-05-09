@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Jones
-  email: nicole.jones2466@yahoo.com
-  phone: 388 980 2940
-  ssn: 196-18-8773
-  dob: 11/02/1968
-  address: 3083 Cedar Dr
-  city: Boston
-  state: OH

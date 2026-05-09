@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Brown
-  email: deborah.brown3891@yahoo.com
-  phone: 492-549-7809
-  ssn: 922 97 3980
-  dob: 11/07/1972
-  address: 4684 Spring Court
-  city: Seattle
-  state: FL

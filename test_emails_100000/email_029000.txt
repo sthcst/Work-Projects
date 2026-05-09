@@ -1,9 +1,0 @@
-contact:
-  name: William Murillo
-  email: william.murillo3737@outlook.com
-  phone: +1 557-392-2134
-  ssn: 904 88 8027
-  dob: 07/17/1973
-  address: 5105 North St
-  city: Boston
-  state: PA

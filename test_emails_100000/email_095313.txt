@@ -1,9 +1,0 @@
-contact:
-  name: Jason Young
-  email: jason.young6067@outlook.com
-  phone: 685-894-5914
-  ssn: 808-75-8243
-  dob: 20/05/1975
-  address: 208 Fourth Court
-  city: San Antonio
-  state: AZ

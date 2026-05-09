@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Smith
-  email: jennifer.smith983@example.com
-  phone: +1 273-337-7880
-  ssn: 761556315
-  dob: 20/10/1975
-  address: 6734 South Blvd
-  city: San Antonio
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Sanchez
-  email: timothy.sanchez6911@work.org
-  phone: 810-869-1255
-  ssn: 614901634
-  dob: 03/17/1971
-  address: 4495 North Way
-  city: Los Angeles
-  state: TN

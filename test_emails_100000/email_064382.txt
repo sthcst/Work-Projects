@@ -1,9 +1,0 @@
-contact:
-  name: Megan Rodriguez
-  email: megan.rodriguez1395@outlook.com
-  phone: 865-686-9363
-  ssn: 286-98-6285
-  dob: 24/07/1965
-  address: 3570 Spring Court
-  city: Boston
-  state: TX

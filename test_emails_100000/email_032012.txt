@@ -1,9 +1,0 @@
-contact:
-  name: William Gomez
-  email: william.gomez395@outlook.com
-  phone: +1 357-517-7674
-  ssn: 388 68 9772
-  dob: 2/25/1996
-  address: 4638 Cedar Ave
-  city: Houston
-  state: CA

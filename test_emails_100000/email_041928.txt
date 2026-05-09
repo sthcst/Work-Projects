@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Martinez,kenneth.martinez8198@example.com,799 996 2434,847433266,06/23/1984,"5752 Fourth Way",San Jose,VA

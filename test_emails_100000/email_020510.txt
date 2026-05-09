@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Martin
-  email: jacob.martin4979@mail.com
-  phone: 565 939 2581
-  ssn: 759088862
-  dob: 11/27/1958
-  address: 5753 Maple St
-  city: Washington
-  state: CA

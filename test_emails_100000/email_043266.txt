@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Lewis,gary.lewis2631@outlook.com,+1 221-678-5783,054 14 9037,6/15/1971,"635 Second Court",Chicago,FL

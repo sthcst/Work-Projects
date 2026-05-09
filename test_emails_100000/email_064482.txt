@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Lee,maria.lee7240@outlook.com,(443) 616-8150,144-48-5691,11/08/1957,"7279 Third Rd",Seattle,NY

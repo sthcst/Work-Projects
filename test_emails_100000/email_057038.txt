@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Collins,brian.collins324@mail.com,592-447-3478,076-29-8901,10-04-1951,"4645 Pine Blvd",Boston,AZ

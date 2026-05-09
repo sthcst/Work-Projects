@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Robinson
-  email: jeffrey.robinson6026@work.org
-  phone: +1 437-701-7052
-  ssn: 710 23 8229
-  dob: 12/12/1950
-  address: 3340 Third Way
-  city: Dallas
-  state: TN

@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Parker
-  email: kevin.parker1789@business.net
-  phone: 700-864-4964
-  ssn: 615 90 8494
-  dob: 02-27-1999
-  address: 7324 North Ln
-  city: Boston
-  state: GA

@@ -1,9 +1,0 @@
-contact:
-  name: Anna Smith
-  email: anna.smith8610@yahoo.com
-  phone: (239) 372-9909
-  ssn: 218177328
-  dob: 12/10/1968
-  address: 1455 Cedar St
-  city: Los Angeles
-  state: DC

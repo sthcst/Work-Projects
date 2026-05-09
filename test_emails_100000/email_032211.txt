@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Robinson
-  email: katherine.robinson7508@business.net
-  phone: 565 970 7434
-  ssn: 348598620
-  dob: 11/6/1982
-  address: 223 Cedar St
-  city: Seattle
-  state: MA

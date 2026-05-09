@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Martin,joshua.martin7641@example.com,+1 324-939-1284,464-73-8324,08-24-1986,"4330 Third Blvd",Austin,WA

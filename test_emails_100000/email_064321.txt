@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Collins,matthew.collins6533@yahoo.com,552 374 4853,432239742,12/01/1977,"9711 South Court",San Antonio,MD

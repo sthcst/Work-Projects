@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Flores,kathleen.flores114@mail.com,+1 865-230-3262,617 81 3512,01/22/1983,"5474 South Ln",Dallas,TX

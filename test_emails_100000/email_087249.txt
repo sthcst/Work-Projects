@@ -1,9 +1,0 @@
-contact:
-  name: Megan Williams
-  email: megan.williams7598@mail.com
-  phone: (857) 419-7592
-  ssn: 138995161
-  dob: 05-01-1999
-  address: 9369 Main Way
-  city: Houston
-  state: NY

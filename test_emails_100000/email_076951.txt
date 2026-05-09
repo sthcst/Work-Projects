@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Nelson,samantha.nelson3553@business.net,+1 774-312-6409,990999443,28/03/2004,"4978 Main Blvd",Denver,FL

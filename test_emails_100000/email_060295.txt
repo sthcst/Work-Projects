@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Phillips,emma.phillips9007@business.net,681 861 1524,601423353,19/11/1992,"6254 Oak Ln",Houston,PA

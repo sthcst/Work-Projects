@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Guerrero,richard.guerrero389@yahoo.com,520-937-7897,179-45-9112,6/5/1991,"9429 Spring St",Houston,NC

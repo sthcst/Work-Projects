@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Rodriguez
-  email: joseph.rodriguez2640@company.com
-  phone: 393 865 5062
-  ssn: 104-97-2729
-  dob: 5/5/1987
-  address: 8864 Spring Rd
-  city: Austin
-  state: TX

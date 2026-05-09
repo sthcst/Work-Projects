@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Morgan
-  email: pamela.morgan1536@work.org
-  phone: +1 456-894-6320
-  ssn: 334-29-3995
-  dob: 05/10/1951
-  address: 3572 Spring Dr
-  city: Phoenix
-  state: MI

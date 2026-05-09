@@ -1,9 +1,0 @@
-contact:
-  name: Christine Miller
-  email: christine.miller7373@outlook.com
-  phone: 752-244-5019
-  ssn: 056-04-6653
-  dob: 1/12/1953
-  address: 5482 Pine St
-  city: Boston
-  state: AZ

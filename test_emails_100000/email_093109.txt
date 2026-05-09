@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Smith
-  email: sarah.smith9553@gmail.com
-  phone: (990) 324-1298
-  ssn: 759-69-5980
-  dob: 10/12/1997
-  address: 8455 Third St
-  city: Houston
-  state: MI

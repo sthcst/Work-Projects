@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Cooper
-  email: ryan.cooper8199@gmail.com
-  phone: +1 269-235-3703
-  ssn: 204599812
-  dob: 11/24/1975
-  address: 7123 Main Dr
-  city: Chicago
-  state: CO

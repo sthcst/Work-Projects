@@ -1,9 +1,0 @@
-contact:
-  name: Megan Serrano
-  email: megan.serrano6036@yahoo.com
-  phone: 975 425 6198
-  ssn: 378 80 9791
-  dob: 7/22/2005
-  address: 4826 Pine Blvd
-  city: San Diego
-  state: WA

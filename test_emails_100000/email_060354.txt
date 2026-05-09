@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Gomez,anna.gomez5932@company.com,(437) 809-6779,484 13 7926,8/2/1990,"6977 West St",Austin,TX

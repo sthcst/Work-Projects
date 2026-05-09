@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Lopez,michelle.lopez8772@yahoo.com,736-933-2938,395-28-3554,12/26/1960,"9477 Maple Way",Austin,MA

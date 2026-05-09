@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Murillo
-  email: sarah.murillo936@mail.com
-  phone: 993-416-5103
-  ssn: 509-44-3730
-  dob: 06-02-2005
-  address: 7722 Elm Dr
-  city: Phoenix
-  state: AZ

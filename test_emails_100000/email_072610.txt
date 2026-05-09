@@ -1,9 +1,0 @@
-contact:
-  name: Richard Miller
-  email: richard.miller1894@gmail.com
-  phone: (833) 719-5349
-  ssn: 294221171
-  dob: 5/18/1977
-  address: 7533 Fifth St
-  city: Washington
-  state: MA

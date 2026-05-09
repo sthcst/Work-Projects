@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Morgan,emma.morgan7103@company.com,780-493-5073,943-33-4106,26/05/1994,"9765 Oak Way",Phoenix,MD

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Lewis,angela.lewis8791@yahoo.com,(833) 605-2389,293407447,1/21/2001,"7349 Pine Ave",Chicago,CA

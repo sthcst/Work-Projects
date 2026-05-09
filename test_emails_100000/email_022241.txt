@@ -1,9 +1,0 @@
-contact:
-  name: Gary Martinez
-  email: gary.martinez1014@gmail.com
-  phone: (733) 769-2936
-  ssn: 752907232
-  dob: 10/22/1969
-  address: 3959 Oak Dr
-  city: Jacksonville
-  state: MI

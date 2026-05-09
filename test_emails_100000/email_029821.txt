@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Serrano
-  email: ronald.serrano7558@business.net
-  phone: +1 826-456-1652
-  ssn: 651-60-7165
-  dob: 7/4/2001
-  address: 5255 Pine Way
-  city: Washington
-  state: PA

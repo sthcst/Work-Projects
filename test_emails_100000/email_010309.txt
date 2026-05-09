@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Roberts,christopher.roberts561@yahoo.com,486-515-5165,927816882,10-12-2000,"2542 Summer Court",Seattle,MI

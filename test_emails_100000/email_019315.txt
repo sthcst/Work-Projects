@@ -1,9 +1,0 @@
-contact:
-  name: Megan Jackson
-  email: megan.jackson9862@mail.com
-  phone: 521 778 5746
-  ssn: 858451256
-  dob: 07-05-1981
-  address: 3580 Birch St
-  city: Jacksonville
-  state: FL

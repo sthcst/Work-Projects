@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Reeves,jacob.reeves9329@gmail.com,+1 663-625-8313,167-24-2858,08/04/1955,"3634 Fourth Rd",Seattle,WI

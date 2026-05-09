@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Perez,emma.perez5356@work.org,789-395-7188,286424220,08-11-2003,"1817 West Ln",Philadelphia,TX

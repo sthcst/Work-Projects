@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Hall
-  email: katherine.hall8997@mail.com
-  phone: 675-930-8701
-  ssn: 955793672
-  dob: 05-02-2000
-  address: 1585 Park Blvd
-  city: Los Angeles
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Thompson,david.thompson442@example.com,448-302-9112,858619282,15/03/1950,"9522 Oak Blvd",Boston,CA

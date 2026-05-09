@@ -1,9 +1,0 @@
-contact:
-  name: Maria Rogers
-  email: maria.rogers5656@example.com
-  phone: (725) 557-3294
-  ssn: 145-96-3324
-  dob: 12-27-1972
-  address: 5697 Second Court
-  city: Philadelphia
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Sanchez,kevin.sanchez4077@company.com,412-922-8523,264259289,20/12/1961,"3114 Elm Blvd",Jacksonville,AZ

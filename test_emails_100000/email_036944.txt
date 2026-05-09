@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Jackson,charles.jackson5440@gmail.com,299-801-7238,744-75-3561,7/3/1968,"7213 Birch Ave",Seattle,CA

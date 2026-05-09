@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Lewis,rebecca.lewis8614@business.net,236-348-2275,188 91 9880,8/11/1984,"2002 Sixth St",Seattle,DC

@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Lee
-  email: jennifer.lee9465@gmail.com
-  phone: +1 758-598-3036
-  ssn: 955-10-8530
-  dob: 05-08-1987
-  address: 9821 Main Dr
-  city: Washington
-  state: MD

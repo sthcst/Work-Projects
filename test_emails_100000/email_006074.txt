@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Jackson
-  email: katherine.jackson6082@business.net
-  phone: 624-936-7841
-  ssn: 981 72 8673
-  dob: 04-12-1981
-  address: 5346 Park Ave
-  city: Jacksonville
-  state: CA

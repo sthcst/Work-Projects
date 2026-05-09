@@ -1,9 +1,0 @@
-contact:
-  name: Anna Parker
-  email: anna.parker5094@business.net
-  phone: 580 587 2223
-  ssn: 561107473
-  dob: 1/9/1961
-  address: 3266 Maple Court
-  city: San Jose
-  state: WI

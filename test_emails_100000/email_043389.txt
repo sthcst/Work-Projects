@@ -1,9 +1,0 @@
-contact:
-  name: Richard Phillips
-  email: richard.phillips515@mail.com
-  phone: (946) 604-2112
-  ssn: 105997761
-  dob: 06-17-1954
-  address: 4266 West St
-  city: San Antonio
-  state: AZ

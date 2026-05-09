@@ -1,9 +1,0 @@
-contact:
-  name: George Johnson
-  email: george.johnson6419@work.org
-  phone: 406 326 7400
-  ssn: 654-68-4001
-  dob: 9/4/1979
-  address: 2908 West Dr
-  city: San Antonio
-  state: TX

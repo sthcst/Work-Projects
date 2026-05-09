@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Robinson
-  email: matthew.robinson638@business.net
-  phone: +1 849-349-3272
-  ssn: 296-78-2016
-  dob: 6/25/1971
-  address: 5047 Summer Ln
-  city: Boston
-  state: AZ

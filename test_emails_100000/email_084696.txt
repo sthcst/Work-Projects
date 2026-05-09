@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Smith,gary.smith9291@gmail.com,730 461 9836,183 03 3347,01/21/1950,"7836 Cedar Way",Seattle,NY

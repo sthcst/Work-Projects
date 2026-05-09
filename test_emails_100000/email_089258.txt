@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Morris
-  email: lisa.morris5385@gmail.com
-  phone: 973 893 5770
-  ssn: 754 87 3544
-  dob: 03-15-1970
-  address: 6687 Second Ln
-  city: Chicago
-  state: MI

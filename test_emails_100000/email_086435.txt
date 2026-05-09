@@ -1,9 +1,0 @@
-contact:
-  name: Michael Gonzalez
-  email: michael.gonzalez424@work.org
-  phone: (504) 227-5041
-  ssn: 240986276
-  dob: 03/08/1953
-  address: 3563 Summer Dr
-  city: New York
-  state: TX

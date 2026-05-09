@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Rodriguez
-  email: joshua.rodriguez9645@gmail.com
-  phone: 594 723 3189
-  ssn: 153765900
-  dob: 12/26/1995
-  address: 1177 Maple Rd
-  city: Austin
-  state: TX

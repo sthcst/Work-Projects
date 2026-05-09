@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Thomas,jane.thomas2605@example.com,944 401 3603,273-19-3572,11/01/1957,"8227 Cedar Ave",New York,CO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Peterson,gary.peterson4798@example.com,448 503 9212,084 89 1695,07/11/1992,"5508 Park Ave",Houston,VA

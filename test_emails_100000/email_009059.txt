@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Nelson,kimberly.nelson6386@mail.com,(810) 867-6675,898-83-9946,20/12/1962,"2005 Pine Blvd",Boston,MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Martin,jeffrey.martin8251@gmail.com,+1 971-547-2969,606-13-1603,3/15/1958,"6122 Oak Rd",San Antonio,MI

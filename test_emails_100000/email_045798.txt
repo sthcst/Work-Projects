@@ -1,9 +1,0 @@
-contact:
-  name: Anna Rodriguez
-  email: anna.rodriguez1806@company.com
-  phone: 960-930-2362
-  ssn: 877-83-4190
-  dob: 02-12-1960
-  address: 4592 Pine Ln
-  city: Phoenix
-  state: IL

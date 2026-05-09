@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Lewis
-  email: deborah.lewis9655@work.org
-  phone: 341-326-4674
-  ssn: 078-42-2338
-  dob: 6/21/2000
-  address: 8837 Spring Rd
-  city: Philadelphia
-  state: GA

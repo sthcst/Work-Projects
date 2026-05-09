@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Nelson,amanda.nelson4929@outlook.com,325 291 1350,052348108,2/23/1976,"4252 Pine Dr",San Diego,TX

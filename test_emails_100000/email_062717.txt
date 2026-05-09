@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Roberts
-  email: jacob.roberts9243@business.net
-  phone: 355 805 4946
-  ssn: 196 13 4054
-  dob: 06-20-1970
-  address: 5350 Summer Ave
-  city: Jacksonville
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Gary Dominguez
-  email: gary.dominguez4733@business.net
-  phone: +1 670-428-8613
-  ssn: 747 43 9382
-  dob: 06/07/2001
-  address: 9926 First Rd
-  city: Los Angeles
-  state: CO

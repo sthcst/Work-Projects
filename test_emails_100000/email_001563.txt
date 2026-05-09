@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Bell,kimberly.bell9380@company.com,767-818-5526,108272758,11/09/1986,"8166 Elm Ln",Phoenix,TX

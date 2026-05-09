@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Robinson,cynthia.robinson6862@gmail.com,(900) 996-7779,566-85-8471,04/24/1952,"8998 Elm Ln",Seattle,NC

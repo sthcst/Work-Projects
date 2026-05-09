@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Edwards,cynthia.edwards2773@work.org,+1 553-596-6000,804-56-6231,12-28-1955,"94 Main Court",Dallas,GA

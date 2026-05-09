@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Phillips
-  email: michelle.phillips2266@company.com
-  phone: 706 875 2156
-  ssn: 620-76-9606
-  dob: 01/10/2001
-  address: 5439 North Ave
-  city: Austin
-  state: TN

@@ -1,9 +1,0 @@
-contact:
-  name: Christine Johnson
-  email: christine.johnson4931@gmail.com
-  phone: +1 642-476-4908
-  ssn: 433851503
-  dob: 11-27-1976
-  address: 7765 Pine Court
-  city: Jacksonville
-  state: WA

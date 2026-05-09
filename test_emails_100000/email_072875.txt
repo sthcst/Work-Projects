@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Romero,jane.romero7@work.org,868 349 6511,017615134,2/7/1965,"1139 North Ave",Jacksonville,TN

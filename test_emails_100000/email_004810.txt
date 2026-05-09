@@ -1,9 +1,0 @@
-contact:
-  name: Robert Martinez
-  email: robert.martinez1358@yahoo.com
-  phone: (927) 401-8505
-  ssn: 300253623
-  dob: 05/17/1964
-  address: 3029 Pine St
-  city: Seattle
-  state: FL

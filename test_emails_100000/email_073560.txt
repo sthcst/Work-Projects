@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Collins
-  email: sarah.collins2114@mail.com
-  phone: +1 210-551-1300
-  ssn: 176 85 1026
-  dob: 12/02/1979
-  address: 1031 Elm Ln
-  city: Austin
-  state: TX

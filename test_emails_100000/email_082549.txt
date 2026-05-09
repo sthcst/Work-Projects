@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Alvarado,stephanie.alvarado4639@business.net,992-988-2867,350408991,05/09/1992,"8214 Spring St",New York,DC

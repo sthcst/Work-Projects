@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Harris,helen.harris7864@work.org,+1 369-972-4327,402-22-4756,26/07/1962,"761 Park Rd",San Diego,PA

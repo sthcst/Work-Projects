@@ -1,9 +1,0 @@
-contact:
-  name: Steven Parker
-  email: steven.parker3792@gmail.com
-  phone: 431-795-5504
-  ssn: 163-19-2412
-  dob: 12/6/1983
-  address: 1397 First Way
-  city: Los Angeles
-  state: CA

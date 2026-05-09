@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Collins,david.collins926@work.org,(992) 237-3062,794085331,06/02/1986,"6097 East Blvd",San Antonio,TX

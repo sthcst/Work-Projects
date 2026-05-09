@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Evans,jennifer.evans2267@yahoo.com,+1 722-367-1927,571-21-5995,11/16/1978,"8131 North St",Phoenix,CO

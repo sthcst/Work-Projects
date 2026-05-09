@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Wilson
-  email: deborah.wilson5484@yahoo.com
-  phone: +1 448-516-9812
-  ssn: 494-09-9558
-  dob: 2/9/1978
-  address: 8732 First Blvd
-  city: Philadelphia
-  state: CA

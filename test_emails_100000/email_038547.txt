@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Ramirez,ryan.ramirez2923@yahoo.com,354 316 8497,595089686,12/10/1992,"2433 East Ln",Seattle,IL

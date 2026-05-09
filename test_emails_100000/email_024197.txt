@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Lewis,stephanie.lewis1485@gmail.com,423-467-7461,286067701,02/04/1997,"3194 Fifth Rd",Washington,CA

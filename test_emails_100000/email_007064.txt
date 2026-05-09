@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Garcia
-  email: shirley.garcia5702@yahoo.com
-  phone: (729) 234-7744
-  ssn: 676-52-2667
-  dob: 09/11/2000
-  address: 1742 Pine Ln
-  city: San Antonio
-  state: OH

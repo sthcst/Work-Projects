@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Davis,david.davis9174@yahoo.com,+1 863-430-4450,928-94-1724,04/04/2001,"185 Main Way",San Diego,TX

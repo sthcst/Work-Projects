@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Moore,timothy.moore5280@business.net,(265) 611-3127,568501229,04/09/1974,"2782 Main Blvd",Dallas,PA

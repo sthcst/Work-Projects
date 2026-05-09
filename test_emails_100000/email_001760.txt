@@ -1,9 +1,0 @@
-contact:
-  name: Emma Moore
-  email: emma.moore525@example.com
-  phone: 651-733-5493
-  ssn: 733-52-5146
-  dob: 11/02/1978
-  address: 4831 West Way
-  city: Phoenix
-  state: TX

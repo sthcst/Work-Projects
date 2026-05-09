@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Stewart
-  email: nicole.stewart9521@business.net
-  phone: 427-800-1590
-  ssn: 377801198
-  dob: 02-28-1987
-  address: 9477 Fourth St
-  city: Washington
-  state: TX

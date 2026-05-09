@@ -1,9 +1,0 @@
-contact:
-  name: Angela Morgan
-  email: angela.morgan8358@mail.com
-  phone: (775) 971-9646
-  ssn: 088 94 3730
-  dob: 04-14-1984
-  address: 2222 Third Ln
-  city: Los Angeles
-  state: PA

@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Flores
-  email: nicole.flores8802@outlook.com
-  phone: +1 730-944-6613
-  ssn: 839231643
-  dob: 02-20-1975
-  address: 8246 Third St
-  city: Jacksonville
-  state: WA

@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Guerrero
-  email: amanda.guerrero2831@yahoo.com
-  phone: 557 473 9363
-  ssn: 147013916
-  dob: 7/6/1950
-  address: 8844 South Court
-  city: Phoenix
-  state: TN

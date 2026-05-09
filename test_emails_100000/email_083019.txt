@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Reyes,steven.reyes4131@yahoo.com,525 285 3180,057315968,23/02/1979,"5950 Second Blvd",Los Angeles,VA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Thomas,amanda.thomas3049@business.net,245-725-4052,898525476,6/5/1961,"4059 First Ave",Seattle,CA

@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Cooper
-  email: katherine.cooper4808@example.com
-  phone: +1 288-221-4227
-  ssn: 088 95 5902
-  dob: 08-08-1951
-  address: 7519 North St
-  city: San Diego
-  state: IL

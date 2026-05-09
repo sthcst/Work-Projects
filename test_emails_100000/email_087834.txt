@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Rodriguez,ashley.rodriguez2592@company.com,+1 978-771-2409,500 55 6578,17/09/1989,"7408 First Blvd",Chicago,NC

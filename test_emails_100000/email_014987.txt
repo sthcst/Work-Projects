@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Nunez,maria.nunez4845@gmail.com,478 949 3444,772176783,19/01/1998,"2148 Park Ave",Boston,MA

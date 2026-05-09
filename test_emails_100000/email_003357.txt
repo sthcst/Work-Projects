@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Hall,emma.hall6777@mail.com,(268) 536-8928,901195727,11/10/1974,"5339 Spring Way",San Jose,TX

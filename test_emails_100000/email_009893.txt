@@ -1,9 +1,0 @@
-contact:
-  name: Emily Thomas
-  email: emily.thomas7477@gmail.com
-  phone: +1 393-242-7192
-  ssn: 449-11-4882
-  dob: 6/1/1967
-  address: 1970 Summer Ave
-  city: Denver
-  state: AZ

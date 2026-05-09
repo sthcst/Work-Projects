@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Peterson,james.peterson1916@outlook.com,(945) 666-1575,306-18-9864,06-18-1950,"2811 Cedar Ln",Boston,FL

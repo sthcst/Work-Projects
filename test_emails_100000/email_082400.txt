@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Perez,rebecca.perez7244@gmail.com,926-363-3304,408-47-9378,26/10/2003,"7133 First St",Austin,MO

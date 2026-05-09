@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Perez,jacob.perez8503@gmail.com,208 317 5384,407737241,02-20-1985,"7966 West Dr",Chicago,TX

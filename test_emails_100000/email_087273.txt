@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Collins
-  email: katherine.collins9550@company.com
-  phone: 809-310-8974
-  ssn: 067826056
-  dob: 05/05/1966
-  address: 5312 Sixth Dr
-  city: Washington
-  state: FL

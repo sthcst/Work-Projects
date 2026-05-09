@@ -1,9 +1,0 @@
-contact:
-  name: Helen Roberts
-  email: helen.roberts556@outlook.com
-  phone: +1 270-835-7082
-  ssn: 536-07-6920
-  dob: 06/05/1975
-  address: 7386 Elm Court
-  city: San Diego
-  state: CA

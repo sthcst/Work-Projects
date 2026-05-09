@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Morgan,cynthia.morgan3773@gmail.com,(567) 330-7938,523-44-3101,12/9/1956,"7792 East Blvd",San Jose,FL

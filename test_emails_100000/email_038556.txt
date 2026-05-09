@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Flores,robert.flores9932@work.org,(644) 741-2858,173 86 7223,5/14/1955,"5832 Main Blvd",Jacksonville,AZ

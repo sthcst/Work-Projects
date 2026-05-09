@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Hernandez,anna.hernandez8755@company.com,+1 464-943-5191,007-21-8099,27/05/1966,"580 Birch Way",Denver,WI

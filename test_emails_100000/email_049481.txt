@@ -1,9 +1,0 @@
-contact:
-  name: Angela Perez
-  email: angela.perez6961@company.com
-  phone: 671-211-3439
-  ssn: 331945429
-  dob: 11/8/1983
-  address: 7402 First Way
-  city: Washington
-  state: MA

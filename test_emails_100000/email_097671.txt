@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Ramirez
-  email: cynthia.ramirez1994@yahoo.com
-  phone: 850-405-1590
-  ssn: 865 63 2245
-  dob: 24/12/1958
-  address: 6633 Main Rd
-  city: Los Angeles
-  state: MD

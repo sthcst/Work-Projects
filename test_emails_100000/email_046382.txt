@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Flores,kevin.flores609@outlook.com,+1 736-299-6155,253682874,11/19/1992,"1816 Spring Ln",Boston,MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Rodriguez,samantha.rodriguez5893@example.com,+1 357-521-4366,296265733,08-03-1990,"4951 Elm Blvd",Phoenix,TX

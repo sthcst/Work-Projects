@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Ortiz,rebecca.ortiz250@yahoo.com,+1 512-355-8403,589-02-4586,02/12/1986,"3977 Pine Dr",Washington,MD

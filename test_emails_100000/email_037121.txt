@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Taylor,emma.taylor692@outlook.com,(205) 895-2695,364 94 5044,07-18-1951,"1255 Third St",Seattle,IL

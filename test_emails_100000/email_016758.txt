@@ -1,9 +1,0 @@
-contact:
-  name: Christine Guerrero
-  email: christine.guerrero609@company.com
-  phone: +1 275-949-3980
-  ssn: 221-53-7102
-  dob: 02-16-1999
-  address: 4946 Fifth Dr
-  city: Austin
-  state: CA

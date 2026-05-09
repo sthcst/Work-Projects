@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Rodriguez,rebecca.rodriguez8692@mail.com,937 366 4468,205 39 4097,06/07/2000,"4625 Third Blvd",Philadelphia,TX

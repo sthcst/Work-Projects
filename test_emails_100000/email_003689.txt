@@ -1,9 +1,0 @@
-contact:
-  name: Robert Martin
-  email: robert.martin2524@outlook.com
-  phone: +1 999-478-3525
-  ssn: 717128750
-  dob: 06/11/1994
-  address: 7244 Elm St
-  city: Jacksonville
-  state: VA

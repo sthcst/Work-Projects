@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Rodriguez,emma.rodriguez5884@outlook.com,851-777-1708,350 07 6481,10-07-1997,"1485 Pine Blvd",Phoenix,IL

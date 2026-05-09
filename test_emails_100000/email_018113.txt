@@ -1,9 +1,0 @@
-contact:
-  name: Charles Robinson
-  email: charles.robinson1080@company.com
-  phone: (689) 373-4162
-  ssn: 068211096
-  dob: 5/6/1973
-  address: 1558 Cedar Ln
-  city: Chicago
-  state: WI

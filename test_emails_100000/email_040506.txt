@@ -1,9 +1,0 @@
-contact:
-  name: Michael Martinez
-  email: michael.martinez6966@example.com
-  phone: +1 751-885-6383
-  ssn: 582 84 2891
-  dob: 05-17-1958
-  address: 9600 Main Way
-  city: New York
-  state: AZ

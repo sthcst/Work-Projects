@@ -1,9 +1,0 @@
-contact:
-  name: Megan Stewart
-  email: megan.stewart6162@business.net
-  phone: +1 473-452-9548
-  ssn: 430 80 1205
-  dob: 11-06-1964
-  address: 8823 East Dr
-  city: Philadelphia
-  state: MD

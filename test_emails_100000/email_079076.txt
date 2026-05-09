@@ -1,9 +1,0 @@
-contact:
-  name: Jason Garcia
-  email: jason.garcia1260@outlook.com
-  phone: 257 686 6046
-  ssn: 606 31 7615
-  dob: 1/19/1999
-  address: 6031 Oak Way
-  city: Austin
-  state: MA

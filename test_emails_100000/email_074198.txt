@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Stewart,jane.stewart2710@business.net,889 597 4064,156 73 6638,11-02-2000,"9150 West Dr",New York,CA

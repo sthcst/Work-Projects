@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Bell,daniel.bell4586@company.com,(398) 690-6286,981-86-3983,12-24-1958,"8620 East Way",New York,NY

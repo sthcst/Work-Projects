@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Martin,kathleen.martin170@yahoo.com,291 296 8887,533-01-1520,05-06-1950,"2529 North Blvd",Seattle,DC

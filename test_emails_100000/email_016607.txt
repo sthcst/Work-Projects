@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Jimenez,matthew.jimenez9131@outlook.com,353-842-4014,404334187,11-09-2001,"8096 Cedar Ln",San Diego,PA

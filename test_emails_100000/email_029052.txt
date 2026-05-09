@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Davis,kevin.davis1320@gmail.com,(374) 671-9197,030 50 2327,03/25/1968,"6042 West Dr",San Antonio,MD

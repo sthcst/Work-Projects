@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Phillips
-  email: joseph.phillips2736@yahoo.com
-  phone: (298) 248-7046
-  ssn: 137 49 8052
-  dob: 10-09-1958
-  address: 5112 Cedar Blvd
-  city: Denver
-  state: GA

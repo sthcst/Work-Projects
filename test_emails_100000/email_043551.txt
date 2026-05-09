@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Harris,ronald.harris1552@yahoo.com,933 562 2541,324816389,6/5/1991,"5620 South Rd",Los Angeles,CA

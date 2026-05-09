@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Taylor,helen.taylor3228@company.com,553 932 7695,314949453,2/28/2001,"4529 Second Blvd",Houston,MD

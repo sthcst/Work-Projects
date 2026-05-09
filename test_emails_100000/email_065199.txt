@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Smith,amanda.smith167@outlook.com,835 906 3818,525707311,23/12/1971,"6162 West Ln",Philadelphia,MA

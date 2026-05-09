@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Bell,christine.bell1117@yahoo.com,+1 460-976-4468,268-65-6621,16/05/2004,"3201 Cedar Court",San Jose,TX

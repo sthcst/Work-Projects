@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Davis,charles.davis9729@work.org,+1 737-714-5813,350 76 6927,02/07/2005,"2268 First Rd",Dallas,GA

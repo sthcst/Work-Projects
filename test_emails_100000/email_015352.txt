@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Jackson,charles.jackson1818@example.com,535 396 5708,618-46-3920,03-26-1984,"358 South St",Denver,PA

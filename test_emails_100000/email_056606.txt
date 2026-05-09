@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Lee
-  email: kenneth.lee9990@work.org
-  phone: 952-550-2322
-  ssn: 601531605
-  dob: 22/02/1996
-  address: 1917 Birch Dr
-  city: Chicago
-  state: TX

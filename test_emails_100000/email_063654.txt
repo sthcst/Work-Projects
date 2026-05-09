@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Miller,ryan.miller5203@mail.com,(863) 757-4344,975 01 4411,08/04/1978,"9051 Main Ln",Dallas,MD

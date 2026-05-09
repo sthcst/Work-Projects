@@ -1,9 +1,0 @@
-contact:
-  name: David Hernandez
-  email: david.hernandez3167@mail.com
-  phone: 672 593 7191
-  ssn: 865-22-2336
-  dob: 04/23/1955
-  address: 1229 First Way
-  city: Seattle
-  state: CA

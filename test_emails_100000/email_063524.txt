@@ -1,9 +1,0 @@
-contact:
-  name: Robert Parker
-  email: robert.parker9620@business.net
-  phone: (949) 306-2238
-  ssn: 198763888
-  dob: 18/10/1981
-  address: 7545 Main Way
-  city: Boston
-  state: NC

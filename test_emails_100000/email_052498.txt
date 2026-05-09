@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Lee,gary.lee4963@outlook.com,493-955-2694,371288665,4/10/1961,"9714 Third St",Los Angeles,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Rogers,angela.rogers3283@work.org,(381) 682-4591,452 91 1943,05/05/1986,"9797 Oak Blvd",Chicago,WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Taylor,mark.taylor3522@mail.com,+1 886-320-4293,129-64-5411,08/14/1954,"9735 Main Rd",San Jose,PA

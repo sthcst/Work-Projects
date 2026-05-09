@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Johnson
-  email: anthony.johnson4421@work.org
-  phone: (271) 642-7021
-  ssn: 965-50-7347
-  dob: 27/12/1995
-  address: 5265 Main Ln
-  city: Austin
-  state: NY

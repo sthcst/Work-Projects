@@ -1,9 +1,0 @@
-contact:
-  name: Angela Lewis
-  email: angela.lewis7505@business.net
-  phone: 251 285 1716
-  ssn: 880 35 8181
-  dob: 11/19/1971
-  address: 7209 South St
-  city: Seattle
-  state: MI

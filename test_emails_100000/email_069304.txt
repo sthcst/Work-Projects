@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Flores,donald.flores6875@company.com,680-558-3433,769-71-2216,12-22-1981,"5323 Pine Ave",Houston,CO

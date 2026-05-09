@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Roberts
-  email: shirley.roberts2779@company.com
-  phone: +1 495-632-3880
-  ssn: 439-80-1839
-  dob: 06/22/1971
-  address: 1437 South Dr
-  city: New York
-  state: TX

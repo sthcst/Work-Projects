@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Campbell,jeffrey.campbell5189@mail.com,419-207-6798,125-61-9245,11/05/1987,"1413 Fifth Court",Boston,NY

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Stewart,ronald.stewart1917@outlook.com,(493) 409-5345,282088657,01/17/1999,"6799 Birch Ave",San Diego,NC

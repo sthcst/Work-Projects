@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Sanchez
-  email: christopher.sanchez1729@gmail.com
-  phone: 277 456 1839
-  ssn: 742-94-8192
-  dob: 10/06/1974
-  address: 8710 West Ln
-  city: Philadelphia
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Reeves
-  email: rachel.reeves5999@work.org
-  phone: (880) 997-6716
-  ssn: 392768200
-  dob: 26/03/1997
-  address: 4180 Birch Way
-  city: Dallas
-  state: WA

@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Peterson
-  email: katherine.peterson1489@work.org
-  phone: +1 387-535-7798
-  ssn: 912549625
-  dob: 28/12/1990
-  address: 4242 Maple Way
-  city: San Diego
-  state: CO

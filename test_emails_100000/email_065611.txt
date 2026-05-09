@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Rogers,paul.rogers152@company.com,805 356 4157,532-06-7005,05/09/1988,"8873 West St",Philadelphia,TX

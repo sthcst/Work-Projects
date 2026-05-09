@@ -1,9 +1,0 @@
-contact:
-  name: Angela Campbell
-  email: angela.campbell8678@company.com
-  phone: (667) 597-2372
-  ssn: 615 33 1114
-  dob: 05-13-1974
-  address: 1987 South Dr
-  city: New York
-  state: TX

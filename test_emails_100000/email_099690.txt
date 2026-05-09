@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Anderson
-  email: jacob.anderson6819@work.org
-  phone: (904) 958-7541
-  ssn: 850-16-2940
-  dob: 25/08/1957
-  address: 1861 Fifth Rd
-  city: Denver
-  state: CA

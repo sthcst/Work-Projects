@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Serrano,steven.serrano3046@yahoo.com,+1 658-720-9030,655-98-7293,5/14/1995,"4319 East Ave",Phoenix,TX

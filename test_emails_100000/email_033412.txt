@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Hall
-  email: ryan.hall3080@business.net
-  phone: +1 680-387-6178
-  ssn: 861-51-7194
-  dob: 11-25-1960
-  address: 1558 East Way
-  city: Los Angeles
-  state: FL

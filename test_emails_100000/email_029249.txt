@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Guerrero,steven.guerrero1912@business.net,+1 744-904-9089,890 12 3391,02-19-1960,"7544 South Rd",San Jose,DC

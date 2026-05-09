@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Bell
-  email: rebecca.bell6541@outlook.com
-  phone: +1 387-272-7576
-  ssn: 479-81-3674
-  dob: 01/11/1989
-  address: 809 Elm St
-  city: Denver
-  state: FL

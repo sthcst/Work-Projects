@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Perez,michelle.perez3021@mail.com,488-248-4640,867 73 9057,11/06/2004,"6481 Elm St",Chicago,TX

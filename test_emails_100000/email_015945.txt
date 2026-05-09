@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Lee,cynthia.lee1748@mail.com,+1 322-276-5009,793037948,08/06/1982,"3960 Sixth Way",Chicago,TX

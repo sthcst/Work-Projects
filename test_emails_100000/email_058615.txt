@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Perez,kevin.perez3264@yahoo.com,441 742 7029,434-18-6743,07/12/1968,"9701 West Rd",Seattle,CA

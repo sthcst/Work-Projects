@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Nunez
-  email: jacob.nunez8780@gmail.com
-  phone: 370 832 7573
-  ssn: 510544951
-  dob: 07/12/1962
-  address: 9851 Oak Blvd
-  city: San Jose
-  state: MA

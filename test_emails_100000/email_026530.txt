@@ -1,9 +1,0 @@
-contact:
-  name: Gary Harris
-  email: gary.harris760@work.org
-  phone: (375) 206-6753
-  ssn: 030149451
-  dob: 4/12/1997
-  address: 9519 Sixth St
-  city: Philadelphia
-  state: CA

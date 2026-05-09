@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Clark,richard.clark5080@company.com,+1 893-936-3860,704 28 7262,04/21/1971,"7286 Cedar Ave",Jacksonville,MD

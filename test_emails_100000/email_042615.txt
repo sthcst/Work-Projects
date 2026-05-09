@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Lopez,amanda.lopez1293@mail.com,(785) 254-1020,952017830,18/06/1963,"7402 Birch Ln",San Jose,TN

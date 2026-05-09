@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Nelson,ashley.nelson4703@example.com,529 384 5005,209 40 7499,10/02/2003,"9428 Oak St",Chicago,MI

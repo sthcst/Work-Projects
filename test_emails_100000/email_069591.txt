@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Hall,anthony.hall8837@gmail.com,818-892-8771,291594321,5/8/2003,"7340 Pine Ln",San Antonio,VA

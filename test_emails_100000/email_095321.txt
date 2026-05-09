@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Phillips
-  email: daniel.phillips4991@business.net
-  phone: +1 953-706-1670
-  ssn: 623 68 9481
-  dob: 09-16-1996
-  address: 2648 Summer Way
-  city: San Jose
-  state: AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Thomas,steven.thomas7266@gmail.com,477 584 4614,852-56-3295,8/24/1992,"2803 South Way",Austin,IL

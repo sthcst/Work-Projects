@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Reeves,shirley.reeves1181@mail.com,438 998 6937,650-93-2092,04/21/1961,"9030 Spring Court",Dallas,FL

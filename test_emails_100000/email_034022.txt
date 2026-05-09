@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Moore
-  email: samantha.moore5329@business.net
-  phone: +1 968-993-2327
-  ssn: 989 15 3688
-  dob: 09/17/1954
-  address: 8367 East Way
-  city: San Diego
-  state: PA

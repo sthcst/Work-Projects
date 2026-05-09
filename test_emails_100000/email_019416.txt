@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Thomas,timothy.thomas6601@business.net,280 388 6685,009 38 6395,09/28/1964,"1100 North Court",Philadelphia,TX

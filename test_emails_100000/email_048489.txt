@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Parker
-  email: nicholas.parker3030@yahoo.com
-  phone: (727) 691-3981
-  ssn: 366 40 5569
-  dob: 08-08-1960
-  address: 6128 Pine Dr
-  city: Los Angeles
-  state: AZ

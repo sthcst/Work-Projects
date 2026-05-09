@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Thompson
-  email: samantha.thompson5229@outlook.com
-  phone: 685 457 3349
-  ssn: 182 90 6743
-  dob: 2/24/1958
-  address: 326 Cedar Rd
-  city: Dallas
-  state: AZ

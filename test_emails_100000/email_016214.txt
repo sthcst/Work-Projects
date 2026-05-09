@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Moore,richard.moore6370@company.com,731-337-7789,749 99 1752,02/02/1969,"240 Birch Ave",Philadelphia,NC

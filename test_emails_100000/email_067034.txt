@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Serrano,rebecca.serrano1524@business.net,+1 808-669-5971,291 02 8492,23/06/1950,"8378 South Ave",Jacksonville,WI

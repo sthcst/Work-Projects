@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Rodriguez
-  email: christopher.rodriguez6515@work.org
-  phone: (579) 776-6531
-  ssn: 888266806
-  dob: 01-02-1986
-  address: 8050 West Court
-  city: Austin
-  state: MA

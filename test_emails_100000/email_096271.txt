@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Morris,angela.morris7165@gmail.com,265 321 1069,842 92 6234,04-17-2004,"1635 Fourth Ln",Dallas,CA

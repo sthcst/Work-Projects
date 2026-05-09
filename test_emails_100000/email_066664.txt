@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Peterson,william.peterson8618@company.com,203-496-8544,990-15-5038,06/13/1990,"623 Sixth Rd",Austin,TX

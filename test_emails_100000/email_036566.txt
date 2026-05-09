@@ -1,9 +1,0 @@
-contact:
-  name: Jane Martinez
-  email: jane.martinez4692@gmail.com
-  phone: (807) 932-2731
-  ssn: 617 39 5487
-  dob: 12/05/1984
-  address: 9621 Main Ave
-  city: Boston
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Romero
-  email: joseph.romero8742@example.com
-  phone: (661) 734-9639
-  ssn: 254-32-2258
-  dob: 4/3/1994
-  address: 3929 West Ln
-  city: Austin
-  state: FL

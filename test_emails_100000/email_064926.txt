@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Hernandez
-  email: nicole.hernandez4943@business.net
-  phone: 471 759 7497
-  ssn: 837652968
-  dob: 03-08-2005
-  address: 2660 Park Way
-  city: New York
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Martin
-  email: stephanie.martin8828@business.net
-  phone: 335-216-7134
-  ssn: 352-41-2171
-  dob: 04-16-1989
-  address: 5400 Elm Blvd
-  city: Denver
-  state: TN

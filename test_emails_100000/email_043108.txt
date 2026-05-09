@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Clark,pamela.clark4547@business.net,(426) 840-6699,055 70 7876,4/12/1995,"553 Elm Way",Denver,AZ

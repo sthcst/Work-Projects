@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Rogers
-  email: daniel.rogers3106@work.org
-  phone: 365 694 3731
-  ssn: 081-22-2223
-  dob: 3/23/1969
-  address: 9688 Elm Blvd
-  city: San Antonio
-  state: TX

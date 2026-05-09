@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Alvarado,joshua.alvarado293@yahoo.com,+1 361-487-2322,060594082,07/16/2005,"893 Pine Way",San Diego,FL

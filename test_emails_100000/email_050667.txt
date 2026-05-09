@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Wilson,timothy.wilson6245@company.com,(484) 348-4955,505-64-4434,01/01/1987,"9484 Main Blvd",San Diego,MO

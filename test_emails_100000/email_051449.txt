@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Nelson
-  email: joshua.nelson4569@yahoo.com
-  phone: (330) 484-1117
-  ssn: 319198472
-  dob: 17/02/1978
-  address: 7501 Summer Way
-  city: Jacksonville
-  state: VA

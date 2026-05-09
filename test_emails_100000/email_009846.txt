@@ -1,9 +1,0 @@
-contact:
-  name: Robert Stewart
-  email: robert.stewart25@yahoo.com
-  phone: (965) 722-4039
-  ssn: 668093840
-  dob: 25/09/1985
-  address: 119 Third Blvd
-  city: Boston
-  state: VA

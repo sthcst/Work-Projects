@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Morgan
-  email: ronald.morgan9857@business.net
-  phone: (816) 425-4876
-  ssn: 280 22 3479
-  dob: 2/27/1972
-  address: 790 Main Blvd
-  city: San Jose
-  state: WI

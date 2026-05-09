@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Reed
-  email: joshua.reed601@example.com
-  phone: 216 404 7312
-  ssn: 608-26-1262
-  dob: 11/22/1954
-  address: 6572 Summer St
-  city: San Jose
-  state: DC

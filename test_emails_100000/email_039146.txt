@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Ortiz,lisa.ortiz2587@yahoo.com,(235) 678-6882,273244279,06/25/1976,"582 Third Dr",Jacksonville,CO

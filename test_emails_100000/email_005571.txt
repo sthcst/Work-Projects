@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Anderson
-  email: kevin.anderson3413@gmail.com
-  phone: (694) 646-8875
-  ssn: 490-57-3595
-  dob: 02/15/1971
-  address: 3418 Fourth Blvd
-  city: Philadelphia
-  state: GA

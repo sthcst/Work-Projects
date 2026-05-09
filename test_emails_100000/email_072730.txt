@@ -1,9 +1,0 @@
-contact:
-  name: Paul Evans
-  email: paul.evans4823@mail.com
-  phone: 441 744 6271
-  ssn: 568035225
-  dob: 19/09/1990
-  address: 810 Pine St
-  city: San Antonio
-  state: AZ

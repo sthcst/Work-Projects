@@ -1,9 +1,0 @@
-contact:
-  name: Michael Smith
-  email: michael.smith4366@mail.com
-  phone: +1 565-731-7224
-  ssn: 654495089
-  dob: 07/06/1960
-  address: 3162 South St
-  city: New York
-  state: FL

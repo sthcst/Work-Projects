@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Reyes,william.reyes4056@example.com,456-374-4992,018745810,05-10-1982,"3852 West Rd",Dallas,MA

@@ -1,9 +1,0 @@
-contact:
-  name: Donald Thomas
-  email: donald.thomas769@company.com
-  phone: (686) 916-9202
-  ssn: 580 44 1538
-  dob: 13/10/1963
-  address: 1674 First Ln
-  city: Houston
-  state: WA

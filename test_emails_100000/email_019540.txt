@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Serrano,robert.serrano2288@business.net,508-336-2758,954-41-4162,19/05/1979,"6371 Fourth Blvd",San Jose,CO

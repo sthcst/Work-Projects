@@ -1,9 +1,0 @@
-contact:
-  name: Emily Bell
-  email: emily.bell5946@company.com
-  phone: 668 373 2319
-  ssn: 778397835
-  dob: 12/26/1980
-  address: 6784 Elm Dr
-  city: Jacksonville
-  state: MA

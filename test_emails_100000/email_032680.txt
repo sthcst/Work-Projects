@@ -1,9 +1,0 @@
-contact:
-  name: David Gonzalez
-  email: david.gonzalez5204@mail.com
-  phone: 839 235 7511
-  ssn: 906 68 9755
-  dob: 10/07/1986
-  address: 8756 Summer Ave
-  city: Austin
-  state: CO

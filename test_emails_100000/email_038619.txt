@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Parker,donald.parker3298@company.com,+1 435-634-8312,072-63-3266,08-19-1951,"2631 Spring Way",Dallas,TX

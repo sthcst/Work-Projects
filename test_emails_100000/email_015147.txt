@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Edwards,nicole.edwards2306@work.org,836 607 6640,367-53-3860,04/02/1968,"2470 South St",Phoenix,TX

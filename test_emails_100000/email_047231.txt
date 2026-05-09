@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Phillips
-  email: joshua.phillips7015@outlook.com
-  phone: 345 866 1844
-  ssn: 734-65-7007
-  dob: 19/12/1988
-  address: 7381 Main Dr
-  city: San Jose
-  state: MA

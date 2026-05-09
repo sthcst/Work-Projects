@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Guerrero
-  email: joseph.guerrero5312@gmail.com
-  phone: 469 944 2311
-  ssn: 997895378
-  dob: 2/7/1977
-  address: 3320 Pine St
-  city: Philadelphia
-  state: OH

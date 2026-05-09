@@ -1,9 +1,0 @@
-contact:
-  name: Megan Rodriguez
-  email: megan.rodriguez6763@example.com
-  phone: 319 798 9249
-  ssn: 442-15-4330
-  dob: 10/02/2004
-  address: 4945 Sixth St
-  city: San Diego
-  state: DC

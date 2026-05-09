@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Gomez
-  email: nicholas.gomez6236@outlook.com
-  phone: 264-466-4122
-  ssn: 637179538
-  dob: 1/8/1994
-  address: 5629 North Dr
-  city: Washington
-  state: AZ

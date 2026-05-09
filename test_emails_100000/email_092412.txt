@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Rodriguez
-  email: kevin.rodriguez9189@business.net
-  phone: +1 489-865-5036
-  ssn: 420 99 3931
-  dob: 12-17-1955
-  address: 467 Oak Dr
-  city: San Diego
-  state: DC

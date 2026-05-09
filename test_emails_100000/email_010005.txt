@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Rodriguez,anthony.rodriguez4613@business.net,951 577 9619,501-23-7429,2/5/2004,"9185 Fourth Court",Washington,TX

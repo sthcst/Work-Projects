@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Young,michael.young9969@example.com,274-805-9705,096987407,03/11/1996,"3781 Spring Ln",Houston,TX

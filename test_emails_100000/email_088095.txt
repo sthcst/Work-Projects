@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Brown,ashley.brown5861@gmail.com,+1 640-346-2055,843-01-7503,11/11/1979,"3540 Cedar Dr",Boston,TX

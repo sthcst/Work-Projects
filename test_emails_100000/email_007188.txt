@@ -1,9 +1,0 @@
-contact:
-  name: Maria Flores
-  email: maria.flores9455@work.org
-  phone: 406-303-2984
-  ssn: 705-90-3721
-  dob: 09-25-2005
-  address: 300 North Ln
-  city: Jacksonville
-  state: WA

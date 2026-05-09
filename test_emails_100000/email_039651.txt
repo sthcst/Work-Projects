@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Taylor,samantha.taylor2791@gmail.com,391-759-5583,926242763,9/23/1952,"3471 Pine Ave",Jacksonville,GA

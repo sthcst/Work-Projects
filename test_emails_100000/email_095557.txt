@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Reeves
-  email: kathleen.reeves4542@business.net
-  phone: (504) 732-8824
-  ssn: 514 54 1224
-  dob: 10/10/1972
-  address: 4557 Fourth Court
-  city: Chicago
-  state: CA

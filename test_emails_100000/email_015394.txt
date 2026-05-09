@@ -1,9 +1,0 @@
-contact:
-  name: Paul Reyes
-  email: paul.reyes7499@mail.com
-  phone: 332-884-3229
-  ssn: 611914139
-  dob: 06/12/2004
-  address: 4294 North Rd
-  city: Los Angeles
-  state: TX

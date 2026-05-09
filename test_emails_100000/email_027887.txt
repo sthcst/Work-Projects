@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Lewis,jane.lewis4553@gmail.com,899-558-1259,945 70 8984,10-19-1955,"5686 Birch St",Dallas,WA

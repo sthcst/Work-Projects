@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Edwards,jane.edwards2965@outlook.com,679 774 5043,206-34-7763,1/9/1952,"3957 Sixth Dr",Philadelphia,NY

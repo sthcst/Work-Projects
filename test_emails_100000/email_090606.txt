@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Murillo,edward.murillo7807@yahoo.com,756 590 6625,814-88-5503,1/7/1987,"8542 Second Ave",San Antonio,WA

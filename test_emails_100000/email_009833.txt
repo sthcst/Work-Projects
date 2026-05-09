@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Peterson,anna.peterson2943@business.net,+1 204-804-5691,089 47 6278,12-09-1974,"8485 Fifth Court",Austin,DC

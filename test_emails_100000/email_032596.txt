@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Murillo,emma.murillo7692@company.com,918-741-9415,507592911,02/10/1957,"7006 East Ln",Chicago,FL

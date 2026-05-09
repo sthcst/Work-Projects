@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Jimenez,jason.jimenez6707@mail.com,(982) 320-7486,230-68-9487,12/02/1952,"9603 East Ave",Philadelphia,MA

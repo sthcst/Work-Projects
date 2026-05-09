@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Perez,michael.perez8462@business.net,+1 608-545-8891,856-59-7455,8/18/1973,"192 West Court",San Antonio,PA

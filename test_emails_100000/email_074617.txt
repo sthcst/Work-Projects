@@ -1,9 +1,0 @@
-contact:
-  name: Edward Rogers
-  email: edward.rogers8277@yahoo.com
-  phone: +1 330-914-4241
-  ssn: 402401359
-  dob: 12/11/1961
-  address: 9817 Elm Blvd
-  city: San Jose
-  state: MA

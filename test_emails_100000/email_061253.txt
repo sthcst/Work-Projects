@@ -1,9 +1,0 @@
-contact:
-  name: Steven Williams
-  email: steven.williams7833@mail.com
-  phone: (748) 932-4074
-  ssn: 105-10-1194
-  dob: 06/27/1995
-  address: 8472 Spring Court
-  city: Phoenix
-  state: NJ

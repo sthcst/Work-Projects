@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Gonzalez,christopher.gonzalez5924@yahoo.com,727-268-3204,860 69 6835,06/24/1961,"3943 Pine Way",Chicago,MD

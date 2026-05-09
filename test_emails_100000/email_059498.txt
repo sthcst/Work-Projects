@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Gomez
-  email: kevin.gomez8938@yahoo.com
-  phone: 878 638 2643
-  ssn: 513321535
-  dob: 08-27-1993
-  address: 6804 Second Court
-  city: Dallas
-  state: MA

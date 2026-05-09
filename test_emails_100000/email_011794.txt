@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Martinez,helen.martinez8860@outlook.com,470-895-7963,070 65 7350,1/9/1952,"1489 North St",Jacksonville,TN

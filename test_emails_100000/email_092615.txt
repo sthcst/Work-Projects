@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Delgado
-  email: lauren.delgado3842@yahoo.com
-  phone: 835 517 5364
-  ssn: 400069393
-  dob: 03/05/2005
-  address: 1992 North Rd
-  city: San Antonio
-  state: CA

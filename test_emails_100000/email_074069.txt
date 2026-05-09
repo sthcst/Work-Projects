@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Morris
-  email: cynthia.morris2538@company.com
-  phone: +1 770-576-8245
-  ssn: 112-46-6338
-  dob: 07/10/1999
-  address: 6464 South Court
-  city: Phoenix
-  state: FL

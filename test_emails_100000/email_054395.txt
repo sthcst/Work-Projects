@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Johnson
-  email: amanda.johnson3759@yahoo.com
-  phone: 615 716 6417
-  ssn: 368293825
-  dob: 9/11/1962
-  address: 2481 Pine Rd
-  city: Los Angeles
-  state: TX

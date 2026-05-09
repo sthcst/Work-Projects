@@ -1,9 +1,0 @@
-contact:
-  name: Angela Flores
-  email: angela.flores3657@outlook.com
-  phone: (235) 756-2436
-  ssn: 683921253
-  dob: 10/08/2002
-  address: 1557 Third Rd
-  city: Dallas
-  state: NC

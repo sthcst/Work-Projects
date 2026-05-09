@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Perez
-  email: kenneth.perez3123@example.com
-  phone: 671-681-8279
-  ssn: 721 75 5119
-  dob: 12/20/1958
-  address: 3488 Sixth Court
-  city: New York
-  state: FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Morgan,maria.morgan953@outlook.com,556 687 8504,998356042,8/3/1963,"709 Cedar Dr",Chicago,MO

@@ -1,9 +1,0 @@
-contact:
-  name: Edward Jimenez
-  email: edward.jimenez2896@outlook.com
-  phone: (776) 337-3470
-  ssn: 357574152
-  dob: 10/07/1995
-  address: 6887 Fifth Way
-  city: Phoenix
-  state: DC

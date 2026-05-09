@@ -1,9 +1,0 @@
-contact:
-  name: Robert Edwards
-  email: robert.edwards819@yahoo.com
-  phone: 702 536 5895
-  ssn: 494279882
-  dob: 1/18/1968
-  address: 7951 Summer St
-  city: Boston
-  state: PA

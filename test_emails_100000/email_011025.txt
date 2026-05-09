@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Serrano,robert.serrano5903@example.com,773-264-7929,282258829,27/09/1975,"831 Sixth Way",Chicago,CA

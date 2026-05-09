@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Morgan,jacob.morgan8070@mail.com,937-242-2084,241 89 2093,04/24/1962,"5410 Sixth Court",Seattle,MI

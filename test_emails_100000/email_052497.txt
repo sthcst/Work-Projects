@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Reyes,katherine.reyes403@business.net,610-902-8391,735737820,07-16-1995,"3581 Spring Court",Jacksonville,WA

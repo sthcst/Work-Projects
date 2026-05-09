@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Smith,timothy.smith2424@business.net,+1 269-772-9094,280568036,6/12/1983,"2085 First Dr",Phoenix,NJ

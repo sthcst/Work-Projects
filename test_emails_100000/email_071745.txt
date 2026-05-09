@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Bell,kevin.bell4974@business.net,606-718-1736,080 84 4958,12/2/1991,"1159 Birch Court",Chicago,WI

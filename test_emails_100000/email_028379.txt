@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Jimenez,kathleen.jimenez472@example.com,(448) 782-4592,420 37 9735,02/14/1969,"2452 Second St",Seattle,AZ

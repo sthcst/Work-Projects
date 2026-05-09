@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Brown
-  email: samantha.brown4221@mail.com
-  phone: 636 498 4115
-  ssn: 507965019
-  dob: 12/23/2005
-  address: 6643 Second Dr
-  city: Washington
-  state: MI

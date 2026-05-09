@@ -1,9 +1,0 @@
-contact:
-  name: James Parker
-  email: james.parker7457@example.com
-  phone: 912-809-7617
-  ssn: 774 66 7989
-  dob: 01/09/1981
-  address: 6360 Second Rd
-  city: San Jose
-  state: FL

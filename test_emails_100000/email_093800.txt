@@ -1,9 +1,0 @@
-contact:
-  name: John Williams
-  email: john.williams1052@outlook.com
-  phone: (619) 376-5900
-  ssn: 178 61 1627
-  dob: 08/20/1981
-  address: 7237 Oak Way
-  city: San Antonio
-  state: TN

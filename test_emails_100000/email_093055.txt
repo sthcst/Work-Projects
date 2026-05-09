@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Moore,david.moore8662@yahoo.com,+1 962-670-8265,419 43 9462,4/4/1978,"303 West St",Boston,CO

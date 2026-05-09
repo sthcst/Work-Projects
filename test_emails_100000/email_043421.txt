@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Nunez,charles.nunez6377@gmail.com,+1 671-906-5634,243733584,22/02/1993,"4440 Fifth St",Houston,MA

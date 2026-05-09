@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Nunez
-  email: andrew.nunez7701@example.com
-  phone: 260 788 3591
-  ssn: 260704287
-  dob: 03/05/2000
-  address: 3652 Maple Blvd
-  city: San Antonio
-  state: MO

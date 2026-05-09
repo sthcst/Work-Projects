@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Hernandez
-  email: christopher.hernandez6193@work.org
-  phone: +1 574-870-3142
-  ssn: 803 94 5043
-  dob: 11-27-1995
-  address: 6580 North Ave
-  city: Philadelphia
-  state: WI

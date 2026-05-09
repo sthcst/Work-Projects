@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Guerrero
-  email: brenda.guerrero2996@business.net
-  phone: 855-638-9834
-  ssn: 860705517
-  dob: 11/9/1992
-  address: 2722 Sixth Rd
-  city: Boston
-  state: TN

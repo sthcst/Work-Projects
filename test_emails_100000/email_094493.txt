@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Sanchez,stephanie.sanchez4069@business.net,+1 414-695-4145,398-81-4196,2/23/1980,"9511 South Dr",Jacksonville,GA

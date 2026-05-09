@@ -1,9 +1,0 @@
-contact:
-  name: Michael Alvarado
-  email: michael.alvarado2994@business.net
-  phone: 597 595 3281
-  ssn: 093-64-2269
-  dob: 03/08/1994
-  address: 3797 First Court
-  city: San Diego
-  state: TX

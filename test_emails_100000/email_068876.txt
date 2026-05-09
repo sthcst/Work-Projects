@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Lewis,amanda.lewis8694@yahoo.com,694-307-3035,477 45 1607,7/21/1996,"9992 West St",Denver,CA

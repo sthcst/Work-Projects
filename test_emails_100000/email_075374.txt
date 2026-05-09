@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Alvarado,nicole.alvarado5344@example.com,283-527-8694,465418680,14/10/1981,"1526 Fifth Way",Denver,PA

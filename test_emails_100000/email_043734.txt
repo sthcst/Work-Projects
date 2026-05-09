@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Gonzalez
-  email: ryan.gonzalez9420@business.net
-  phone: 749-584-1942
-  ssn: 129-52-6354
-  dob: 08-14-1986
-  address: 7603 Birch Way
-  city: Dallas
-  state: MO

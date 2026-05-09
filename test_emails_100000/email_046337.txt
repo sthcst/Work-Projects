@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Williams,richard.williams9988@work.org,(944) 916-4386,952 16 6779,03/03/2001,"4038 East Ln",San Diego,MD

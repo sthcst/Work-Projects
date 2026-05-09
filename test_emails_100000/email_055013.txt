@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Gonzalez
-  email: kimberly.gonzalez8463@example.com
-  phone: 296-310-9722
-  ssn: 987-39-1651
-  dob: 13/12/1958
-  address: 1806 South St
-  city: Phoenix
-  state: WI

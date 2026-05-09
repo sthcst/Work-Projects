@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Dominguez,lauren.dominguez9836@example.com,(863) 825-7036,666691333,06/03/1962,"3691 West St",New York,TX

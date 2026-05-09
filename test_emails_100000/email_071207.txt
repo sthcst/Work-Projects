@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Ramirez,helen.ramirez8869@yahoo.com,(668) 831-4133,130 60 9850,1/18/2004,"6639 Park Ln",New York,OH

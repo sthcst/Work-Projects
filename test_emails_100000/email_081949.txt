@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Morris,nicole.morris8373@example.com,+1 567-409-7036,681-84-4203,22/03/1962,"1607 Fourth Ln",Philadelphia,NJ

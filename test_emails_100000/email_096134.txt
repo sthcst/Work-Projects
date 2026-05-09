@@ -1,9 +1,0 @@
-contact:
-  name: Michael Murillo
-  email: michael.murillo4570@outlook.com
-  phone: 500-252-7868
-  ssn: 638 72 1665
-  dob: 09/07/1994
-  address: 6777 Fourth Way
-  city: Jacksonville
-  state: TX

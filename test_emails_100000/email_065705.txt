@@ -1,9 +1,0 @@
-contact:
-  name: Gary Flores
-  email: gary.flores8549@gmail.com
-  phone: 908 539 4427
-  ssn: 614-87-4860
-  dob: 06/20/1993
-  address: 3938 Park Blvd
-  city: Houston
-  state: OH

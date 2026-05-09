@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Thompson
-  email: rachel.thompson8424@yahoo.com
-  phone: (273) 818-3620
-  ssn: 408-12-2935
-  dob: 04/01/1987
-  address: 2475 Second Ln
-  city: San Antonio
-  state: MD

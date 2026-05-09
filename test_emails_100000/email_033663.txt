@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Murillo
-  email: jeffrey.murillo6798@example.com
-  phone: +1 747-509-9093
-  ssn: 176-95-3375
-  dob: 5/7/1996
-  address: 7969 Second Way
-  city: San Jose
-  state: IL

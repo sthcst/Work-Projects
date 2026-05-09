@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Murillo,stephanie.murillo2238@business.net,+1 397-745-9206,330-41-5401,06-11-1980,"8188 Summer Ave",San Jose,AZ

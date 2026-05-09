@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Thompson,george.thompson5995@example.com,(660) 523-5533,978062480,11/26/1985,"7276 First Ave",Washington,GA

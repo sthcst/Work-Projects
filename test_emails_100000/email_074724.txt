@@ -1,9 +1,0 @@
-contact:
-  name: David Morris
-  email: david.morris991@yahoo.com
-  phone: +1 573-983-8208
-  ssn: 009-06-7272
-  dob: 2/24/1951
-  address: 2017 Summer Way
-  city: Boston
-  state: TX

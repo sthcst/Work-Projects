@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Johnson,kathleen.johnson6007@outlook.com,(774) 531-3079,349 59 1346,11/05/2003,"2703 Oak Ln",Dallas,TX

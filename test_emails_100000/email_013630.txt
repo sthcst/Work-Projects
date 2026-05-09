@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Clark,angela.clark6632@gmail.com,891-858-6492,013 03 5115,09-24-1989,"6520 Summer Blvd",Phoenix,GA

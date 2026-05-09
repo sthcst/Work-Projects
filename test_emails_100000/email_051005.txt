@@ -1,9 +1,0 @@
-contact:
-  name: Angela Romero
-  email: angela.romero4908@business.net
-  phone: (349) 846-2765
-  ssn: 393-81-2841
-  dob: 10-25-1981
-  address: 7784 Summer Dr
-  city: Phoenix
-  state: OH

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Lewis,mark.lewis9024@example.com,+1 615-574-4119,622-75-9145,04/02/1966,"7242 Oak Way",San Diego,WI

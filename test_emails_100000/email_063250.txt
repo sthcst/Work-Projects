@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Walker
-  email: katherine.walker5260@business.net
-  phone: +1 379-870-9473
-  ssn: 322946011
-  dob: 9/17/1974
-  address: 1778 Spring Way
-  city: New York
-  state: NC

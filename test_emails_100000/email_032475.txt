@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Flores,katherine.flores7502@company.com,633-515-3596,734 61 5552,10/01/1961,"4339 Fourth Dr",Seattle,MI

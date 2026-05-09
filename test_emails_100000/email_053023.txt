@@ -1,9 +1,0 @@
-contact:
-  name: Brian Clark
-  email: brian.clark1645@work.org
-  phone: 699 586 7924
-  ssn: 255 39 6715
-  dob: 1/4/1986
-  address: 2645 Cedar Rd
-  city: San Diego
-  state: MO

@@ -1,9 +1,0 @@
-contact:
-  name: Christine Stewart
-  email: christine.stewart991@example.com
-  phone: +1 237-285-5401
-  ssn: 899414270
-  dob: 18/03/1964
-  address: 4562 Second Way
-  city: New York
-  state: MO

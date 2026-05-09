@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Reyes,shirley.reyes2057@outlook.com,226-866-7407,678 10 5858,8/2/1999,"7230 Third Dr",Boston,AZ

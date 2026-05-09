@@ -1,9 +1,0 @@
-contact:
-  name: David Alvarado
-  email: david.alvarado375@mail.com
-  phone: 406 745 5052
-  ssn: 241998616
-  dob: 06/13/1976
-  address: 395 Maple Blvd
-  city: San Diego
-  state: IL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Cooper,lauren.cooper1372@company.com,+1 471-839-3963,783936595,7/16/1965,"5820 Cedar St",San Antonio,AZ

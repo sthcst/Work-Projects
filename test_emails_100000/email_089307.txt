@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Murillo,stephanie.murillo7460@gmail.com,882-409-1904,162 03 4118,11/20/1974,"3030 South Rd",New York,IL

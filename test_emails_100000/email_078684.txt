@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Clark,samantha.clark813@gmail.com,947 942 7481,393182414,11/11/1950,"1878 Main Dr",New York,IL

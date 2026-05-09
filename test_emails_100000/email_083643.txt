@@ -1,9 +1,0 @@
-contact:
-  name: Angela Delgado
-  email: angela.delgado7498@example.com
-  phone: +1 316-709-3640
-  ssn: 443914714
-  dob: 12/18/1982
-  address: 3886 Spring Court
-  city: Houston
-  state: MA

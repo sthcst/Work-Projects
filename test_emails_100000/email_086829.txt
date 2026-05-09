@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Gonzalez,cynthia.gonzalez1931@outlook.com,575-337-8122,727 93 5350,07-03-1964,"8733 Third Ln",San Jose,WA

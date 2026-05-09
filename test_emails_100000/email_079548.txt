@@ -1,9 +1,0 @@
-contact:
-  name: Emma Jackson
-  email: emma.jackson7696@outlook.com
-  phone: (704) 332-7495
-  ssn: 598416995
-  dob: 04-16-2002
-  address: 7519 Oak Ln
-  city: Philadelphia
-  state: DC

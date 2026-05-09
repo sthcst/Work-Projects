@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Smith,george.smith7243@mail.com,(606) 952-4520,546319189,8/22/1965,"2975 Birch St",Boston,CO

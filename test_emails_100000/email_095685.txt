@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Bell
-  email: daniel.bell9182@work.org
-  phone: +1 407-607-4904
-  ssn: 738-86-4829
-  dob: 07-25-1995
-  address: 79 Fifth Court
-  city: Austin
-  state: GA

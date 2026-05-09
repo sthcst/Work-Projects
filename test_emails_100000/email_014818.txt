@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Jones,anthony.jones7700@gmail.com,744-243-8596,429127328,7/26/1955,"7766 North Ln",Denver,TX

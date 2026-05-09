@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Evans,helen.evans3383@yahoo.com,(649) 469-7674,711-33-5795,05/28/1983,"323 Second Rd",Los Angeles,PA

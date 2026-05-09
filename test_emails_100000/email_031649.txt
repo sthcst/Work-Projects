@@ -1,9 +1,0 @@
-contact:
-  name: Mark Lee
-  email: mark.lee346@company.com
-  phone: 528-240-5824
-  ssn: 007 48 3715
-  dob: 12/10/1959
-  address: 5360 Pine Way
-  city: Austin
-  state: DC

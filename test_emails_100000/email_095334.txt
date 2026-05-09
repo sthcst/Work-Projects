@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Stewart,charles.stewart7144@mail.com,(765) 216-5279,651-21-9586,20/01/1951,"483 South Ave",New York,FL

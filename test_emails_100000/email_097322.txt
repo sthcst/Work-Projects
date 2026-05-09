@@ -1,9 +1,0 @@
-contact:
-  name: Michael Ramirez
-  email: michael.ramirez1337@mail.com
-  phone: (592) 431-2420
-  ssn: 627935735
-  dob: 11/05/1961
-  address: 9038 Park St
-  city: Seattle
-  state: MI

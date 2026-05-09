@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Jackson,george.jackson7243@outlook.com,+1 627-506-5134,153 90 1950,04/21/1961,"4932 First Way",Seattle,CA

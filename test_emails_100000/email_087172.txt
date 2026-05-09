@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Sanchez,david.sanchez5976@example.com,(614) 614-8567,612-29-6716,12/15/1962,"1711 Maple St",Phoenix,WA

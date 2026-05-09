@@ -1,9 +1,0 @@
-contact:
-  name: Jason Dominguez
-  email: jason.dominguez2457@mail.com
-  phone: 278-799-7756
-  ssn: 522334336
-  dob: 01/13/1995
-  address: 4193 Fifth St
-  city: San Diego
-  state: MA

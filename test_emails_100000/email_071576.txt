@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Hall,john.hall783@yahoo.com,(401) 966-2745,116-98-4868,01/18/1999,"7663 North Rd",Philadelphia,FL

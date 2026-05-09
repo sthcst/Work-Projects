@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Williams
-  email: ryan.williams7389@work.org
-  phone: +1 546-464-6492
-  ssn: 809-05-7599
-  dob: 04-21-2005
-  address: 1580 Elm Court
-  city: Philadelphia
-  state: TX

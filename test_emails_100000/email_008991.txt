@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Wilson
-  email: joseph.wilson8313@business.net
-  phone: (689) 266-3814
-  ssn: 908-83-8447
-  dob: 04-16-1974
-  address: 8236 Oak Ln
-  city: Los Angeles
-  state: WI

@@ -1,9 +1,0 @@
-contact:
-  name: Emma Guerrero
-  email: emma.guerrero2230@gmail.com
-  phone: (474) 299-4493
-  ssn: 615282921
-  dob: 15/05/1950
-  address: 1715 Sixth Way
-  city: Dallas
-  state: NY

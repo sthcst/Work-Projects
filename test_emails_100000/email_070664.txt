@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Guerrero,cynthia.guerrero7279@example.com,963 489 2083,946 55 5814,4/6/1961,"1627 North Way",San Antonio,FL

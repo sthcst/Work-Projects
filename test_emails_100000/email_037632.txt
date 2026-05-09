@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Anderson
-  email: anthony.anderson9330@company.com
-  phone: 206 979 2018
-  ssn: 516 46 4292
-  dob: 3/25/1963
-  address: 7847 Sixth Court
-  city: Los Angeles
-  state: AZ

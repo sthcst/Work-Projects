@@ -1,9 +1,0 @@
-contact:
-  name: Emma Lee
-  email: emma.lee2686@outlook.com
-  phone: (741) 551-9633
-  ssn: 462561957
-  dob: 12/2/1971
-  address: 6221 Birch St
-  city: San Diego
-  state: NJ

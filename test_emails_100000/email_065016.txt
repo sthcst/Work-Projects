@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Ortiz
-  email: amanda.ortiz2635@business.net
-  phone: 734 788 6529
-  ssn: 218-95-4739
-  dob: 13/11/1978
-  address: 4902 Oak Court
-  city: San Antonio
-  state: FL

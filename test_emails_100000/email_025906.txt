@@ -1,9 +1,0 @@
-contact:
-  name: Jason Reeves
-  email: jason.reeves4935@mail.com
-  phone: +1 418-329-7398
-  ssn: 514826908
-  dob: 07/28/1986
-  address: 2120 Sixth Blvd
-  city: San Diego
-  state: IL

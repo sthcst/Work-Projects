@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Alvarado,michael.alvarado6894@gmail.com,793-713-9745,976 81 8079,7/16/1998,"3224 Spring Blvd",Dallas,CA

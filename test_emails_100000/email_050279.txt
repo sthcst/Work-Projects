@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Dominguez
-  email: anthony.dominguez3000@business.net
-  phone: 738-910-3806
-  ssn: 200-32-3165
-  dob: 6/7/1974
-  address: 4078 Sixth Rd
-  city: San Diego
-  state: MI

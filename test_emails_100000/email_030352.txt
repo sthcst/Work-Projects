@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Roberts,joseph.roberts3605@work.org,(528) 583-1703,269101498,09/25/1974,"404 Summer Dr",Washington,VA

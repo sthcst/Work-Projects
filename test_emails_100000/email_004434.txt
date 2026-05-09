@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Thomas
-  email: pamela.thomas1860@gmail.com
-  phone: 786 452 1770
-  ssn: 844-61-9347
-  dob: 01/12/1956
-  address: 2874 Sixth Blvd
-  city: Seattle
-  state: DC

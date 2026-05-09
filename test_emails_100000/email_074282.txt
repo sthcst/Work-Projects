@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Lopez
-  email: anthony.lopez8677@example.com
-  phone: +1 675-752-3416
-  ssn: 071-84-5583
-  dob: 6/1/1967
-  address: 4820 First Blvd
-  city: New York
-  state: MD

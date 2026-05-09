@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Edwards
-  email: amanda.edwards5017@yahoo.com
-  phone: +1 266-811-4356
-  ssn: 043-73-2187
-  dob: 4/18/1956
-  address: 4522 Oak Ln
-  city: San Jose
-  state: GA

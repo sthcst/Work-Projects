@@ -1,9 +1,0 @@
-contact:
-  name: James Serrano
-  email: james.serrano4851@company.com
-  phone: +1 479-711-3430
-  ssn: 458-28-7670
-  dob: 7/8/1993
-  address: 7940 Second Blvd
-  city: Phoenix
-  state: MD

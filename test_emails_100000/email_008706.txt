@@ -1,9 +1,0 @@
-contact:
-  name: Michael Young
-  email: michael.young1401@example.com
-  phone: 731-935-6078
-  ssn: 315 03 1341
-  dob: 07/07/1955
-  address: 7395 Maple Ave
-  city: Washington
-  state: PA

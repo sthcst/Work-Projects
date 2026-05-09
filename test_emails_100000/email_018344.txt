@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Reeves,christine.reeves8544@yahoo.com,(262) 321-1933,549 45 6265,06/10/1962,"6427 Cedar Way",Chicago,MI

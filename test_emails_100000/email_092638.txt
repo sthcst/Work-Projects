@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Robinson
-  email: kenneth.robinson1834@outlook.com
-  phone: 851-516-5286
-  ssn: 971702019
-  dob: 03-20-2003
-  address: 6741 Summer Way
-  city: Denver
-  state: CA

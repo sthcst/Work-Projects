@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Murillo,brenda.murillo7566@example.com,964-766-4870,138525896,6/12/1962,"7172 Summer Ave",Seattle,FL

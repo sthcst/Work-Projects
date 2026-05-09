@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Thomas,nicholas.thomas757@yahoo.com,+1 915-283-1565,914468453,22/02/1975,"7304 Fifth St",San Antonio,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Dominguez,amanda.dominguez6577@company.com,593-439-9097,833944674,26/04/1963,"4176 Fourth Rd",San Antonio,TX

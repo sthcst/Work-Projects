@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Young,helen.young3968@work.org,+1 526-603-9871,539-19-8858,3/27/1985,"405 Birch Ln",Los Angeles,MO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Collins,kimberly.collins6816@business.net,(302) 880-6838,481-02-5476,3/6/2000,"8082 Maple Way",San Diego,VA

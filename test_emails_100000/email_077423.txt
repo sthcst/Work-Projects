@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Cooper
-  email: jessica.cooper7163@outlook.com
-  phone: (585) 270-6658
-  ssn: 351 83 9636
-  dob: 22/09/1987
-  address: 8558 Maple Way
-  city: Dallas
-  state: CA

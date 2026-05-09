@@ -1,9 +1,0 @@
-contact:
-  name: Angela Jackson
-  email: angela.jackson2565@outlook.com
-  phone: +1 790-517-3697
-  ssn: 363 87 5047
-  dob: 17/03/1975
-  address: 4223 Oak Rd
-  city: Chicago
-  state: MA

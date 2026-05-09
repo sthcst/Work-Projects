@@ -1,9 +1,0 @@
-contact:
-  name: Mark Morgan
-  email: mark.morgan4680@business.net
-  phone: (274) 582-9054
-  ssn: 426 37 9953
-  dob: 4/12/1951
-  address: 4220 North St
-  city: Houston
-  state: TX

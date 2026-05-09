@@ -1,9 +1,0 @@
-contact:
-  name: Ronald White
-  email: ronald.white4476@work.org
-  phone: (376) 231-6781
-  ssn: 837 39 7920
-  dob: 04-06-1983
-  address: 8623 Fourth Blvd
-  city: Chicago
-  state: IL

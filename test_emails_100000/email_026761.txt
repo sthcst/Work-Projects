@@ -1,9 +1,0 @@
-contact:
-  name: Brian Hall
-  email: brian.hall2706@example.com
-  phone: (929) 914-3174
-  ssn: 942 71 4134
-  dob: 04/11/1969
-  address: 7238 Park Ave
-  city: Dallas
-  state: NC

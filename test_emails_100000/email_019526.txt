@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Gonzalez,brenda.gonzalez3081@gmail.com,(713) 292-9645,566 87 4912,12/7/1974,"3049 Maple Rd",Washington,CO

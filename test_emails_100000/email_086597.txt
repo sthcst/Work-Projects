@@ -1,9 +1,0 @@
-contact:
-  name: Helen Morris
-  email: helen.morris3249@company.com
-  phone: (521) 400-2262
-  ssn: 555 82 4090
-  dob: 9/20/1962
-  address: 4314 Fifth Ave
-  city: Houston
-  state: FL

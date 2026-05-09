@@ -1,9 +1,0 @@
-contact:
-  name: Michelle White
-  email: michelle.white6949@outlook.com
-  phone: 546-483-5052
-  ssn: 935-72-6485
-  dob: 10/01/1957
-  address: 1262 Pine Court
-  city: Los Angeles
-  state: PA

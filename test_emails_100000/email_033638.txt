@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Sanchez
-  email: ronald.sanchez5193@gmail.com
-  phone: 432 706 9437
-  ssn: 099 71 2076
-  dob: 06/18/1969
-  address: 9156 Fourth Way
-  city: Los Angeles
-  state: NY

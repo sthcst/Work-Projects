@@ -1,9 +1,0 @@
-contact:
-  name: William Brown
-  email: william.brown1887@company.com
-  phone: 510-711-1508
-  ssn: 505-03-1771
-  dob: 6/15/1969
-  address: 9146 North Way
-  city: Denver
-  state: CO

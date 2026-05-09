@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Perez
-  email: nicole.perez1364@business.net
-  phone: (547) 492-8037
-  ssn: 364-31-7861
-  dob: 6/18/1973
-  address: 4921 Elm Rd
-  city: Dallas
-  state: WI

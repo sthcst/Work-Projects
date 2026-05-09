@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Garcia,mark.garcia9285@mail.com,(234) 661-8009,613303907,02-11-2005,"1453 East Dr",Chicago,FL

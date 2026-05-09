@@ -1,9 +1,0 @@
-contact:
-  name: Paul Morris
-  email: paul.morris7808@outlook.com
-  phone: 842-370-4605
-  ssn: 557594817
-  dob: 05/10/1991
-  address: 2660 Cedar Ave
-  city: Los Angeles
-  state: MA

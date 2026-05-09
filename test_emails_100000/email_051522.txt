@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Perez
-  email: nicole.perez3822@yahoo.com
-  phone: 620 642 1687
-  ssn: 287996650
-  dob: 06-02-1973
-  address: 6508 Cedar Way
-  city: Austin
-  state: PA

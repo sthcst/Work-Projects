@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Peterson,deborah.peterson8231@business.net,632 559 5088,177-74-2373,05/11/1956,"5084 Third Rd",Denver,MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Martin,george.martin5051@work.org,+1 883-489-1326,523 14 5023,07/21/1968,"1171 Maple St",Philadelphia,IL

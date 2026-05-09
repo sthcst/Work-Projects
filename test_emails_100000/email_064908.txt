@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Romero
-  email: lauren.romero7523@company.com
-  phone: 962 997 3593
-  ssn: 589-84-3645
-  dob: 04-20-1973
-  address: 7341 Oak Way
-  city: San Jose
-  state: MA

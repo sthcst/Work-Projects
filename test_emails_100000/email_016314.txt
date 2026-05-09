@@ -1,9 +1,0 @@
-contact:
-  name: Donald Lopez
-  email: donald.lopez1703@example.com
-  phone: (237) 236-8661
-  ssn: 861 54 7816
-  dob: 06/13/1971
-  address: 5544 Second Rd
-  city: San Diego
-  state: WI

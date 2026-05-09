@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Ramirez
-  email: andrew.ramirez6561@mail.com
-  phone: (274) 326-6822
-  ssn: 532929768
-  dob: 08/26/1953
-  address: 9980 West Court
-  city: Washington
-  state: MA

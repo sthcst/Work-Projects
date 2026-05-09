@@ -1,9 +1,0 @@
-contact:
-  name: Emily Harris
-  email: emily.harris8909@work.org
-  phone: (868) 507-2575
-  ssn: 059 81 7504
-  dob: 16/04/1954
-  address: 9359 Fifth Blvd
-  city: Jacksonville
-  state: FL

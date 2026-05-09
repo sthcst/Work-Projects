@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Collins
-  email: kimberly.collins3938@outlook.com
-  phone: 411-626-4141
-  ssn: 726657809
-  dob: 12/08/1968
-  address: 5852 Elm Rd
-  city: Denver
-  state: NC

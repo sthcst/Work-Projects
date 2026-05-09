@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Lopez
-  email: jacob.lopez8411@mail.com
-  phone: (409) 417-7052
-  ssn: 120-95-4992
-  dob: 08/28/1957
-  address: 7674 Fourth Court
-  city: Dallas
-  state: CA

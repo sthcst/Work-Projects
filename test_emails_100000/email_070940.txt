@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Brown,donald.brown1621@company.com,932 580 3432,425756637,7/11/1962,"2546 Third Ln",San Jose,MD

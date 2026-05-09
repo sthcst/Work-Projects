@@ -1,9 +1,0 @@
-contact:
-  name: Richard Jimenez
-  email: richard.jimenez6655@company.com
-  phone: (613) 730-7523
-  ssn: 375-97-1165
-  dob: 07-11-1999
-  address: 6818 Cedar Court
-  city: Austin
-  state: NC

@@ -1,9 +1,0 @@
-contact:
-  name: Edward Cooper
-  email: edward.cooper8628@gmail.com
-  phone: 954-756-8069
-  ssn: 734-46-3903
-  dob: 12/22/1952
-  address: 1877 Main Way
-  city: Boston
-  state: MA

@@ -1,9 +1,0 @@
-contact:
-  name: Helen Walker
-  email: helen.walker8831@company.com
-  phone: +1 875-998-3968
-  ssn: 928 65 6437
-  dob: 25/11/1984
-  address: 1611 Fifth Way
-  city: San Antonio
-  state: MA

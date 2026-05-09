@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Harris
-  email: ryan.harris4165@business.net
-  phone: (683) 571-4721
-  ssn: 019432319
-  dob: 11/11/2003
-  address: 4264 Spring Ave
-  city: Seattle
-  state: TX

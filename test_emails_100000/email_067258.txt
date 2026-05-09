@@ -1,9 +1,0 @@
-contact:
-  name: Michael Gonzalez
-  email: michael.gonzalez2567@work.org
-  phone: +1 631-435-6472
-  ssn: 439-11-3270
-  dob: 10/12/1979
-  address: 9619 East Court
-  city: Seattle
-  state: TN

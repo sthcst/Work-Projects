@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Phillips
-  email: ronald.phillips7919@example.com
-  phone: +1 970-751-3015
-  ssn: 084-47-8820
-  dob: 05/13/1984
-  address: 2610 Sixth Court
-  city: Seattle
-  state: CA

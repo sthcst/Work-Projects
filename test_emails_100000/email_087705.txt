@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Guerrero,angela.guerrero8302@company.com,(902) 819-4658,123-16-1650,2/14/1956,"2027 Sixth Ln",Los Angeles,GA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Ortiz,katherine.ortiz2827@mail.com,(611) 869-5759,273-95-8408,03/09/1971,"478 Sixth St",Houston,FL

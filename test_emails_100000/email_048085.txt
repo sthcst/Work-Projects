@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Moore,katherine.moore161@mail.com,+1 859-230-8985,235 49 5388,12-13-1980,"6723 Maple Way",Chicago,PA

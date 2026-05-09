@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Collins
-  email: lauren.collins382@gmail.com
-  phone: (451) 951-1698
-  ssn: 181438409
-  dob: 28/08/1981
-  address: 4897 Park Ln
-  city: Boston
-  state: MD

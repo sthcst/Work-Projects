@@ -1,9 +1,0 @@
-contact:
-  name: Emily Bell
-  email: emily.bell7054@work.org
-  phone: 973 795 9503
-  ssn: 010-97-5395
-  dob: 10/25/1988
-  address: 6602 Oak Ln
-  city: San Antonio
-  state: NJ

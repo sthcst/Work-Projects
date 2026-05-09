@@ -1,9 +1,0 @@
-contact:
-  name: James Lewis
-  email: james.lewis4276@business.net
-  phone: 907-456-1203
-  ssn: 354-22-8135
-  dob: 10/11/1986
-  address: 1042 Cedar Ave
-  city: Philadelphia
-  state: GA

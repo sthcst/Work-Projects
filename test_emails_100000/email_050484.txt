@@ -1,9 +1,0 @@
-contact:
-  name: Anna Collins
-  email: anna.collins6165@company.com
-  phone: (727) 222-4482
-  ssn: 210-95-2187
-  dob: 08/02/1993
-  address: 8014 First Ln
-  city: Los Angeles
-  state: TX

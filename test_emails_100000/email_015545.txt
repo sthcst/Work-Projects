@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Parker,jacob.parker8873@example.com,300 700 6568,902 01 4656,05/27/2000,"1368 Elm Blvd",Washington,NY

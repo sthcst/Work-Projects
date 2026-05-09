@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Garcia
-  email: samantha.garcia9218@work.org
-  phone: (907) 253-1309
-  ssn: 669-54-7316
-  dob: 07/09/2002
-  address: 3690 Birch Way
-  city: Boston
-  state: GA

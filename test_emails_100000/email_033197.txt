@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Hernandez
-  email: jeffrey.hernandez2187@company.com
-  phone: +1 907-288-2033
-  ssn: 950-78-6568
-  dob: 11-20-2002
-  address: 4018 South Ave
-  city: Houston
-  state: DC

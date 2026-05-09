@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Wilson
-  email: kimberly.wilson5440@example.com
-  phone: 456-962-2559
-  ssn: 984 79 6953
-  dob: 02-26-1971
-  address: 7555 West Way
-  city: Phoenix
-  state: FL

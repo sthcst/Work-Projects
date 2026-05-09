@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Brown,jane.brown5437@outlook.com,(629) 263-5007,654 40 8348,09/12/1968,"9268 Park Rd",New York,IL

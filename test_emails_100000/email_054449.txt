@@ -1,9 +1,0 @@
-contact:
-  name: Angela Ramirez
-  email: angela.ramirez959@company.com
-  phone: 436 376 7270
-  ssn: 660768972
-  dob: 2/15/1964
-  address: 6726 Third Rd
-  city: Austin
-  state: GA

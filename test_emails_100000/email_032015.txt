@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Roberts
-  email: brenda.roberts9646@outlook.com
-  phone: 287-408-4050
-  ssn: 253574233
-  dob: 4/21/2002
-  address: 5373 Cedar Ave
-  city: Jacksonville
-  state: MI

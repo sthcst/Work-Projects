@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Miller,katherine.miller7322@example.com,702 604 2950,386-90-9238,06/03/1967,"1387 Park Dr",Washington,TX

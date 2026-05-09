@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Flores
-  email: anthony.flores8001@company.com
-  phone: 634 915 9144
-  ssn: 073805830
-  dob: 11/11/1971
-  address: 9014 Cedar Ave
-  city: New York
-  state: CO

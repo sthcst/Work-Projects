@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Delgado
-  email: joseph.delgado6224@work.org
-  phone: 267-239-7713
-  ssn: 178 57 3307
-  dob: 12/14/1969
-  address: 4407 Third Ln
-  city: Denver
-  state: MO

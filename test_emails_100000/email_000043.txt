@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Flores
-  email: joseph.flores1234@outlook.com
-  phone: (892) 941-7511
-  ssn: 991-72-6992
-  dob: 07/01/1966
-  address: 7461 South Dr
-  city: Boston
-  state: TN

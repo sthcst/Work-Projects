@@ -1,9 +1,0 @@
-contact:
-  name: Helen Collins
-  email: helen.collins175@company.com
-  phone: (953) 495-5872
-  ssn: 608-77-1308
-  dob: 04-20-1965
-  address: 7451 Maple Ave
-  city: Austin
-  state: OH

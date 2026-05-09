@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Harris,mark.harris179@company.com,+1 535-378-2975,233 28 8212,3/10/2001,"4271 Spring Dr",Austin,CA

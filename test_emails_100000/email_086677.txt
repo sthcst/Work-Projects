@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Rogers
-  email: andrew.rogers4105@example.com
-  phone: +1 803-939-4249
-  ssn: 413-59-4740
-  dob: 05/04/1957
-  address: 680 Elm Ave
-  city: Chicago
-  state: TX

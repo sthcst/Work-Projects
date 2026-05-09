@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Edwards
-  email: matthew.edwards1684@business.net
-  phone: 703-648-8728
-  ssn: 093-80-3328
-  dob: 01/10/1979
-  address: 5869 West Ln
-  city: Phoenix
-  state: NC

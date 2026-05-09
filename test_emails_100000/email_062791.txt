@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Smith,angela.smith4478@mail.com,+1 704-913-1218,243 98 6603,04/10/1970,"3885 Fourth Court",Washington,FL

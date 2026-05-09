@@ -1,9 +1,0 @@
-contact:
-  name: Christine White
-  email: christine.white1079@outlook.com
-  phone: 264 473 2108
-  ssn: 554759885
-  dob: 08-03-1992
-  address: 2382 Elm Ave
-  city: Seattle
-  state: PA

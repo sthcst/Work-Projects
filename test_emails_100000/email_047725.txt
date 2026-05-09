@@ -1,9 +1,0 @@
-contact:
-  name: James Murillo
-  email: james.murillo1340@mail.com
-  phone: 853 931 9103
-  ssn: 693806102
-  dob: 03-14-1971
-  address: 3256 Park Ave
-  city: San Antonio
-  state: MI

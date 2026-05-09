@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Peterson
-  email: ronald.peterson8971@gmail.com
-  phone: 976 602 3109
-  ssn: 918 67 5760
-  dob: 10-24-1977
-  address: 3589 Fourth Dr
-  city: Houston
-  state: MO

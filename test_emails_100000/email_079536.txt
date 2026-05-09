@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Robinson,john.robinson9229@example.com,(305) 251-2009,552 30 4192,01/07/1975,"8446 Sixth St",Jacksonville,TX

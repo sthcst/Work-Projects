@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane White,jane.white5897@company.com,+1 978-498-6263,220-11-8934,03-02-1997,"9304 Pine Dr",Boston,FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Delgado,charles.delgado3823@example.com,(320) 240-9984,691 64 2620,11/15/1990,"4635 Pine Rd",Washington,NJ

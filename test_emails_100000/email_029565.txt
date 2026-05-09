@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Serrano,lauren.serrano261@yahoo.com,985 810 5680,071913686,08/06/1992,"2295 Cedar Court",Austin,PA

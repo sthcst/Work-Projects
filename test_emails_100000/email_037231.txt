@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Flores,maria.flores1533@work.org,(399) 839-9686,426012834,04/08/1952,"519 East Way",San Diego,NY

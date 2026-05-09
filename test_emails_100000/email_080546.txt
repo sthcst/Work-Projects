@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Johnson,jane.johnson6594@example.com,319-710-7644,184-44-1545,5/18/2004,"9332 North St",Seattle,CA

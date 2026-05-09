@@ -1,9 +1,0 @@
-contact:
-  name: Jane Phillips
-  email: jane.phillips8246@mail.com
-  phone: +1 870-637-3799
-  ssn: 711 89 4027
-  dob: 10/16/1966
-  address: 6260 Cedar Ave
-  city: San Antonio
-  state: NC

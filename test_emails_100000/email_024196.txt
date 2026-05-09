@@ -1,9 +1,0 @@
-contact:
-  name: Emma Smith
-  email: emma.smith7616@yahoo.com
-  phone: 207 508 8107
-  ssn: 831368595
-  dob: 05/23/1981
-  address: 5273 South Dr
-  city: Philadelphia
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Ortiz
-  email: ryan.ortiz3552@mail.com
-  phone: +1 429-370-4780
-  ssn: 553823596
-  dob: 08-27-1957
-  address: 3155 North Blvd
-  city: San Antonio
-  state: CA

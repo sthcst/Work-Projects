@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Reeves,ashley.reeves3886@work.org,(324) 636-8021,225585999,4/13/1958,"6724 Oak Dr",Philadelphia,MA

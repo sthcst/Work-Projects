@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Cooper
-  email: katherine.cooper9611@business.net
-  phone: 742 732 7620
-  ssn: 726 52 8602
-  dob: 12/7/1979
-  address: 6031 West Blvd
-  city: Phoenix
-  state: VA

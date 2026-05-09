@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Morris,maria.morris6292@outlook.com,(306) 349-2814,549 75 2086,11/11/1983,"9126 Summer Rd",San Diego,NC

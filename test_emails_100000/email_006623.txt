@@ -1,9 +1,0 @@
-contact:
-  name: Donald Campbell
-  email: donald.campbell3609@outlook.com
-  phone: 589-964-6679
-  ssn: 648-84-6579
-  dob: 10/15/1998
-  address: 5729 Summer Ln
-  city: San Antonio
-  state: MI

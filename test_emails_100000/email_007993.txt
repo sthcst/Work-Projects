@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Rodriguez,jessica.rodriguez3733@gmail.com,938-269-3083,387-17-3419,10/11/1993,"4968 Summer Blvd",Houston,MI

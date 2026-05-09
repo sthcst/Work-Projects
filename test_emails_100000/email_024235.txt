@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Parker,jason.parker2099@outlook.com,865-282-4030,548 47 6828,8/23/1976,"4190 Third St",Boston,TX

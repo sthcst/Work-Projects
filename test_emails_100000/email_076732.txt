@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Flores
-  email: joshua.flores2072@company.com
-  phone: (532) 248-6103
-  ssn: 935-31-3378
-  dob: 02/28/1986
-  address: 1709 Summer Ln
-  city: Jacksonville
-  state: MD

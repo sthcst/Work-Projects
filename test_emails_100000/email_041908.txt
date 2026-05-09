@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Clark,david.clark2459@mail.com,+1 781-820-2887,714-73-1120,11-11-1998,"5813 West Ave",New York,MA

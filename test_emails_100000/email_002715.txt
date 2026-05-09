@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Nunez
-  email: nicole.nunez5838@company.com
-  phone: +1 210-200-5521
-  ssn: 854 41 5977
-  dob: 8/20/1968
-  address: 8140 South Ln
-  city: Seattle
-  state: TX

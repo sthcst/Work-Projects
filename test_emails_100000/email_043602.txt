@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Anderson,mark.anderson3308@company.com,+1 462-353-4635,299 75 8774,12-09-1971,"5543 Spring Ln",Phoenix,TX

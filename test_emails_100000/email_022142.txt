@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Flores,samantha.flores4245@business.net,(586) 751-5220,937305849,12-13-1993,"5261 Summer Blvd",Phoenix,PA

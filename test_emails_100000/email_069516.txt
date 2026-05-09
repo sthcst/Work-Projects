@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Edwards,daniel.edwards6494@business.net,+1 314-506-5151,346-78-8525,13/12/1962,"6462 Birch Ln",San Jose,CO

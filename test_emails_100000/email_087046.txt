@@ -1,9 +1,0 @@
-contact:
-  name: John Romero
-  email: john.romero1967@example.com
-  phone: 410-310-6289
-  ssn: 785614984
-  dob: 2/13/1960
-  address: 1612 Summer Blvd
-  city: New York
-  state: CA

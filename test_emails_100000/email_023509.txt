@@ -1,9 +1,0 @@
-contact:
-  name: Helen Clark
-  email: helen.clark4338@company.com
-  phone: +1 336-533-6686
-  ssn: 296602314
-  dob: 05-25-1976
-  address: 4925 South Ave
-  city: San Jose
-  state: IL

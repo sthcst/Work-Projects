@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Morris,william.morris2804@outlook.com,537 854 6585,390192307,01-08-1984,"4085 Fourth Ave",Dallas,TX

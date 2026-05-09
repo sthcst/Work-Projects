@@ -1,9 +1,0 @@
-contact:
-  name: Mark Cooper
-  email: mark.cooper4899@mail.com
-  phone: (293) 926-4014
-  ssn: 570795192
-  dob: 2/21/1993
-  address: 865 Pine Ave
-  city: Los Angeles
-  state: VA

@@ -1,9 +1,0 @@
-contact:
-  name: William Edwards
-  email: william.edwards3810@gmail.com
-  phone: +1 349-685-8342
-  ssn: 800-01-2803
-  dob: 16/01/1955
-  address: 877 Spring Dr
-  city: Washington
-  state: TN

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Dominguez,jacob.dominguez1214@business.net,(830) 898-4131,677-22-1611,08-27-1988,"761 First Rd",San Antonio,MD

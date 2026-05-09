@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Guerrero,richard.guerrero262@business.net,788 939 6075,479 75 2842,08/12/1985,"560 Second Dr",Chicago,CA

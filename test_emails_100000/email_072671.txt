@@ -1,9 +1,0 @@
-contact:
-  name: Jason Reyes
-  email: jason.reyes9905@gmail.com
-  phone: 827 774 6604
-  ssn: 262384162
-  dob: 1/5/1987
-  address: 4017 East Way
-  city: Austin
-  state: TX

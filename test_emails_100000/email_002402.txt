@@ -1,9 +1,0 @@
-contact:
-  name: Jason Young
-  email: jason.young8898@company.com
-  phone: +1 586-625-5584
-  ssn: 656 97 4092
-  dob: 06-17-1974
-  address: 1171 Sixth Court
-  city: Austin
-  state: MO

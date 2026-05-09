@@ -1,9 +1,0 @@
-contact:
-  name: Helen Guerrero
-  email: helen.guerrero6665@yahoo.com
-  phone: 844 669 7775
-  ssn: 343 60 4359
-  dob: 8/16/1996
-  address: 9693 Pine Way
-  city: Houston
-  state: NJ

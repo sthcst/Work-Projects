@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Ramirez
-  email: shirley.ramirez5962@outlook.com
-  phone: 358-284-7549
-  ssn: 021516158
-  dob: 09/23/1995
-  address: 1898 West Dr
-  city: Dallas
-  state: TN

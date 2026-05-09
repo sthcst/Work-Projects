@@ -1,9 +1,0 @@
-contact:
-  name: Steven Hall
-  email: steven.hall1413@work.org
-  phone: 590-457-9360
-  ssn: 889579446
-  dob: 12-02-1976
-  address: 487 First Court
-  city: Chicago
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Serrano
-  email: andrew.serrano1285@gmail.com
-  phone: +1 375-695-5121
-  ssn: 309-75-3640
-  dob: 09/27/1986
-  address: 7785 Maple St
-  city: Dallas
-  state: CA

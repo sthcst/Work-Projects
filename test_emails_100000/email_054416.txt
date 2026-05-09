@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Reeves
-  email: nicole.reeves4323@business.net
-  phone: (992) 647-5059
-  ssn: 276-57-2180
-  dob: 8/4/1973
-  address: 446 Second Rd
-  city: Houston
-  state: TN

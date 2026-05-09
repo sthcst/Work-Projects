@@ -1,9 +1,0 @@
-contact:
-  name: Jason Harris
-  email: jason.harris7636@work.org
-  phone: (219) 798-4559
-  ssn: 351 60 2218
-  dob: 01-12-1974
-  address: 2879 Main Ave
-  city: Washington
-  state: WA

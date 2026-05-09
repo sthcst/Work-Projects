@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Martinez,daniel.martinez5028@company.com,(731) 918-5363,746326548,5/24/1973,"8426 First Ln",Jacksonville,TX

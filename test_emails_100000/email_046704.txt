@@ -1,9 +1,0 @@
-contact:
-  name: David Ramirez
-  email: david.ramirez7101@work.org
-  phone: (752) 908-4529
-  ssn: 021 41 6549
-  dob: 10-23-1983
-  address: 2692 Park Rd
-  city: Chicago
-  state: AZ

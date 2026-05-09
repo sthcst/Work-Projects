@@ -1,9 +1,0 @@
-contact:
-  name: Charles Nelson
-  email: charles.nelson2877@gmail.com
-  phone: +1 999-391-3420
-  ssn: 425812464
-  dob: 11/23/1962
-  address: 279 East Blvd
-  city: Seattle
-  state: OH

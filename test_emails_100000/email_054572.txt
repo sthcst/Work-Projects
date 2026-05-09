@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Alvarado
-  email: ronald.alvarado5689@gmail.com
-  phone: (468) 736-2244
-  ssn: 762123989
-  dob: 18/08/1952
-  address: 2364 Sixth Court
-  city: Philadelphia
-  state: IL

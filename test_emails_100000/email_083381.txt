@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Romero
-  email: kimberly.romero6075@business.net
-  phone: 892 891 9154
-  ssn: 337-02-9503
-  dob: 05/17/1969
-  address: 5370 Summer Dr
-  city: Washington
-  state: MA

@@ -1,9 +1,0 @@
-contact:
-  name: Megan Gomez
-  email: megan.gomez8464@outlook.com
-  phone: (490) 740-7112
-  ssn: 570-39-5666
-  dob: 6/19/1958
-  address: 644 Elm Blvd
-  city: Houston
-  state: AZ

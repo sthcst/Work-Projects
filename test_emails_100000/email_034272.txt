@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Davis,christopher.davis3797@work.org,+1 448-487-4838,637645600,02-12-1957,"4834 Second Ave",Phoenix,DC

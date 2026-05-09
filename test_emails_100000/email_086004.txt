@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Serrano
-  email: samantha.serrano6471@outlook.com
-  phone: 580 743 9499
-  ssn: 806674791
-  dob: 08-04-1995
-  address: 5216 Summer Court
-  city: New York
-  state: WA

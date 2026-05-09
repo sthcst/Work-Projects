@@ -1,9 +1,0 @@
-contact:
-  name: Emily Davis
-  email: emily.davis6882@business.net
-  phone: +1 389-365-1081
-  ssn: 107688302
-  dob: 10/04/1976
-  address: 1833 Spring St
-  city: San Jose
-  state: CA

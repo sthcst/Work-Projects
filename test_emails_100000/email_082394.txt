@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Wilson
-  email: nicholas.wilson1454@example.com
-  phone: 787 981 8232
-  ssn: 373 59 3591
-  dob: 10/06/1968
-  address: 9515 South St
-  city: Seattle
-  state: MA

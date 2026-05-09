@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Jones,ronald.jones7758@example.com,756-228-4798,433826693,08-27-1950,"6279 Spring Blvd",Denver,MA

@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Roberts
-  email: kenneth.roberts2985@gmail.com
-  phone: (243) 877-1773
-  ssn: 192-70-6685
-  dob: 07/10/1967
-  address: 7937 Spring Court
-  city: New York
-  state: MA

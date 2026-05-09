@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Lewis,charles.lewis2233@gmail.com,(343) 650-2303,062-62-4898,3/11/1983,"3991 Cedar Rd",San Diego,WA

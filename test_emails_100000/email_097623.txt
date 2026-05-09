@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Rodriguez,brian.rodriguez4635@outlook.com,857 375 7612,555 49 8711,08/23/1977,"5574 Pine Dr",Austin,MA

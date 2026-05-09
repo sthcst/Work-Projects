@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Reyes,lauren.reyes7274@yahoo.com,(685) 447-6804,606-43-4686,01/05/1968,"9812 South Court",Boston,WA

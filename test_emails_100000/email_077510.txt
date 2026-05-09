@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Johnson,charles.johnson8571@company.com,+1 499-546-7785,506447832,05-16-1963,"2369 Sixth Court",Jacksonville,CA

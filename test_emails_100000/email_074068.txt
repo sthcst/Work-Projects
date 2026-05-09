@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Cooper
-  email: joseph.cooper2637@mail.com
-  phone: 744-948-1098
-  ssn: 151382687
-  dob: 12/03/1976
-  address: 7400 North Ave
-  city: Austin
-  state: PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Murillo,ashley.murillo5058@business.net,299 858 1494,893 17 6127,06-25-1983,"8856 Main Ave",Houston,TX

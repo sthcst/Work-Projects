@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela White,pamela.white2369@yahoo.com,+1 857-508-7718,046 33 6855,08/14/1952,"2241 Cedar Blvd",San Jose,WA

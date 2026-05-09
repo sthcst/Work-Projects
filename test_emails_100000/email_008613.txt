@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Guerrero,joseph.guerrero3045@example.com,259 758 3938,642-38-8826,08/02/1986,"3939 Third Ave",New York,NY

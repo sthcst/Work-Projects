@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Delgado,christine.delgado9036@company.com,336-572-9812,093189457,07-27-1974,"7896 Spring St",Phoenix,MO

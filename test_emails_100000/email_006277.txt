@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Dominguez
-  email: kevin.dominguez4390@business.net
-  phone: +1 810-209-6238
-  ssn: 342479930
-  dob: 06-01-1977
-  address: 886 Oak Ave
-  city: San Antonio
-  state: CO

@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Perez
-  email: samantha.perez6312@company.com
-  phone: 827-993-3004
-  ssn: 335 99 4108
-  dob: 12/06/1960
-  address: 8311 Park Blvd
-  city: Austin
-  state: MD

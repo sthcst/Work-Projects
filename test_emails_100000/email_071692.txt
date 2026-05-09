@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Reyes,steven.reyes4692@mail.com,(751) 557-4005,753625949,03/06/1971,"1291 First St",Washington,MA

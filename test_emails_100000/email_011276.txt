@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Garcia
-  email: christopher.garcia7956@example.com
-  phone: 229 841 3913
-  ssn: 926 26 9262
-  dob: 9/8/1988
-  address: 6052 East Ave
-  city: Denver
-  state: MI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Johnson,amanda.johnson963@outlook.com,(543) 210-1634,332-97-2548,05/19/1985,"810 First Ave",New York,CA

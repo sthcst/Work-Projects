@@ -1,9 +1,0 @@
-contact:
-  name: Donald Rodriguez
-  email: donald.rodriguez1549@gmail.com
-  phone: 801 351 5722
-  ssn: 857-83-1845
-  dob: 09/20/1963
-  address: 6361 Birch Dr
-  city: San Diego
-  state: PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Garcia,timothy.garcia8533@work.org,(587) 242-4231,257-93-6324,18/01/1993,"3254 North Rd",Houston,OH

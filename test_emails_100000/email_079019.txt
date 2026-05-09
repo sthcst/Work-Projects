@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Martin,ronald.martin1714@outlook.com,(559) 819-5062,415-69-2777,09/27/1966,"9752 Fifth Rd",Seattle,FL

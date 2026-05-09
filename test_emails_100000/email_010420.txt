@@ -1,9 +1,0 @@
-contact:
-  name: Christine Evans
-  email: christine.evans4751@yahoo.com
-  phone: 528-932-5986
-  ssn: 605 26 5259
-  dob: 10-13-1972
-  address: 6079 Fifth Court
-  city: Los Angeles
-  state: NC

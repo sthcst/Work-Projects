@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Davis
-  email: deborah.davis3091@yahoo.com
-  phone: +1 982-565-8106
-  ssn: 883-78-2638
-  dob: 11/13/1971
-  address: 7298 Fourth Ln
-  city: Los Angeles
-  state: WI

@@ -1,9 +1,0 @@
-contact:
-  name: Gary Phillips
-  email: gary.phillips6093@business.net
-  phone: 769 795 9947
-  ssn: 549354200
-  dob: 07-18-1968
-  address: 3718 Fourth St
-  city: Boston
-  state: MD

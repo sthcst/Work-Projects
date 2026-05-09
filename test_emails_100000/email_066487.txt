@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Lewis
-  email: rachel.lewis5695@example.com
-  phone: +1 393-234-7587
-  ssn: 853 40 3202
-  dob: 05/23/1954
-  address: 4134 Elm Blvd
-  city: Los Angeles
-  state: TX

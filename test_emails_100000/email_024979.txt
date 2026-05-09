@@ -1,9 +1,0 @@
-contact:
-  name: William Alvarado
-  email: william.alvarado511@outlook.com
-  phone: 534-979-1035
-  ssn: 348-90-8321
-  dob: 02-05-1975
-  address: 5987 Maple Way
-  city: Philadelphia
-  state: OH

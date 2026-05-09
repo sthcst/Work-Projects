@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Martinez
-  email: joshua.martinez565@yahoo.com
-  phone: 825 561 6866
-  ssn: 524-79-4080
-  dob: 4/27/1983
-  address: 7133 Summer Dr
-  city: Chicago
-  state: MO

@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Ortiz
-  email: jennifer.ortiz4092@work.org
-  phone: +1 243-949-9240
-  ssn: 341 06 5994
-  dob: 12/11/1989
-  address: 7593 West Ln
-  city: San Diego
-  state: WA

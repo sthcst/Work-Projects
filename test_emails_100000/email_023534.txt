@@ -1,9 +1,0 @@
-contact:
-  name: Anna Evans
-  email: anna.evans9832@outlook.com
-  phone: (426) 835-7041
-  ssn: 613 32 3730
-  dob: 05/04/1991
-  address: 2925 Elm Blvd
-  city: Seattle
-  state: WA

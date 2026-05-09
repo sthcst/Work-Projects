@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Davis
-  email: lisa.davis3985@yahoo.com
-  phone: (437) 708-2249
-  ssn: 834 46 1946
-  dob: 7/4/1957
-  address: 9940 Spring Court
-  city: Dallas
-  state: FL

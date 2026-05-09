@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Perez,kimberly.perez8157@yahoo.com,728-819-8548,311 84 9271,07-03-1985,"1635 Elm St",San Diego,AZ

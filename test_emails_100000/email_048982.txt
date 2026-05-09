@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Alvarado,anthony.alvarado7914@outlook.com,520 561 6522,962044332,02/09/1988,"6440 West Rd",Houston,TX

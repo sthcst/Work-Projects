@@ -1,9 +1,0 @@
-contact:
-  name: Paul Thompson
-  email: paul.thompson9787@yahoo.com
-  phone: 742 674 2677
-  ssn: 630 57 8962
-  dob: 10/04/1973
-  address: 464 East Court
-  city: Philadelphia
-  state: WA

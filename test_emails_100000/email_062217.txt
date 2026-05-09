@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Garcia,joseph.garcia3185@mail.com,614-558-3556,330973516,11-14-1999,"6663 Birch Court",Los Angeles,TX

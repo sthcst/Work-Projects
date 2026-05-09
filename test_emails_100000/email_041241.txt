@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine White,katherine.white1348@outlook.com,863 887 7922,524 43 3071,12/09/1966,"7662 Birch Dr",Phoenix,MI

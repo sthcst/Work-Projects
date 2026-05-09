@@ -1,9 +1,0 @@
-contact:
-  name: William Williams
-  email: william.williams4084@example.com
-  phone: 621-222-3629
-  ssn: 730-20-9383
-  dob: 17/08/1966
-  address: 6432 First Ln
-  city: Los Angeles
-  state: MA

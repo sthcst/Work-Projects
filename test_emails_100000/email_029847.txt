@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Clark,paul.clark3338@mail.com,+1 429-206-5657,762-47-8997,13/04/1994,"7098 Pine Way",San Antonio,NY

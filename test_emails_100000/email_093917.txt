@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Campbell
-  email: kathleen.campbell2804@company.com
-  phone: +1 626-847-2852
-  ssn: 247 72 3499
-  dob: 08/08/1986
-  address: 6001 West Ave
-  city: Washington
-  state: AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Dominguez,emma.dominguez7851@gmail.com,534 223 7862,882366949,07/03/1964,"1507 Third Ln",San Diego,IL

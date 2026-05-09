@@ -1,9 +1,0 @@
-contact:
-  name: Emma Lopez
-  email: emma.lopez4331@outlook.com
-  phone: 515 732 4459
-  ssn: 952-80-5182
-  dob: 15/12/1973
-  address: 2638 Birch St
-  city: Boston
-  state: IL

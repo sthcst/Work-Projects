@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Hernandez,michael.hernandez7842@yahoo.com,795-296-3401,129269515,03/25/1958,"415 South Blvd",Jacksonville,MA

@@ -1,9 +1,0 @@
-contact:
-  name: James Nelson
-  email: james.nelson8315@example.com
-  phone: +1 372-990-3010
-  ssn: 727442159
-  dob: 12-03-1975
-  address: 4692 Maple Dr
-  city: San Jose
-  state: TX

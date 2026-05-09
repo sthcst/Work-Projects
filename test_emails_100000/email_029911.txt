@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Martinez,nicole.martinez9890@mail.com,+1 939-524-7601,862 22 9851,17/12/1968,"3289 Cedar Rd",San Jose,DC

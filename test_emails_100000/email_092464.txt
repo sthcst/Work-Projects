@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Jackson,ronald.jackson9720@yahoo.com,+1 942-514-9183,619 33 2775,10/3/1976,"4020 Fifth Way",San Jose,IL

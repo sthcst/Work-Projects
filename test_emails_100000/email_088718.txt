@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Nelson,nicole.nelson4498@yahoo.com,(414) 495-2251,829-84-7577,02/20/2000,"5163 Cedar Way",Dallas,AZ

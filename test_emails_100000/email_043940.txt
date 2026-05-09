@@ -1,9 +1,0 @@
-contact:
-  name: Steven Jimenez
-  email: steven.jimenez238@company.com
-  phone: +1 425-921-7454
-  ssn: 750-34-7386
-  dob: 7/16/1995
-  address: 9411 Fourth Way
-  city: Phoenix
-  state: MD

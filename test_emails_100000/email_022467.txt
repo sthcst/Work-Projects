@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Cooper,anthony.cooper1184@work.org,(904) 654-4438,621-43-6610,04/24/1987,"4269 Main Court",San Antonio,IL

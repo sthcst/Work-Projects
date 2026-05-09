@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Morgan,jacob.morgan5587@outlook.com,233-258-7576,140 77 2097,10/14/1980,"8720 Birch Rd",San Diego,GA

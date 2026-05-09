@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Reyes
-  email: ronald.reyes5218@example.com
-  phone: 978-282-2033
-  ssn: 750786121
-  dob: 3/24/1965
-  address: 1095 Summer Court
-  city: New York
-  state: VA

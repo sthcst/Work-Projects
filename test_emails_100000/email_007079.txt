@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Morgan,ronald.morgan7261@yahoo.com,917 616 6462,694-68-8768,16/04/2005,"7929 Summer Ave",Phoenix,TX

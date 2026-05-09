@@ -1,9 +1,0 @@
-contact:
-  name: Mark Campbell
-  email: mark.campbell3258@outlook.com
-  phone: +1 261-209-9161
-  ssn: 547735713
-  dob: 04-14-1953
-  address: 3409 Elm Dr
-  city: San Jose
-  state: GA

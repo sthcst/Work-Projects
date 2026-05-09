@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Lewis,pamela.lewis5772@outlook.com,272 542 6297,781876982,05/08/1965,"9939 Second Way",Jacksonville,DC

@@ -1,9 +1,0 @@
-contact:
-  name: George Williams
-  email: george.williams8195@business.net
-  phone: +1 645-278-4703
-  ssn: 875 17 1452
-  dob: 5/15/1962
-  address: 7135 Spring Court
-  city: Denver
-  state: TX

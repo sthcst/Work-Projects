@@ -1,9 +1,0 @@
-contact:
-  name: Helen Ortiz
-  email: helen.ortiz11@outlook.com
-  phone: 428-683-9639
-  ssn: 990221429
-  dob: 23/02/1996
-  address: 4005 Elm Rd
-  city: Jacksonville
-  state: NC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Jackson,maria.jackson4860@mail.com,(690) 687-4130,731442845,07-13-1951,"7510 Fourth Court",Denver,AZ

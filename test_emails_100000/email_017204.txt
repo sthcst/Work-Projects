@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Harris,katherine.harris7520@yahoo.com,634 339 7023,578 11 9289,07/04/1997,"4283 West Dr",Chicago,DC

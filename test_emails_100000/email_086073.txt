@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Walker
-  email: nicole.walker5825@business.net
-  phone: 637 539 1532
-  ssn: 123 17 2611
-  dob: 2/15/1960
-  address: 1750 Spring Ln
-  city: Denver
-  state: OH

@@ -1,9 +1,0 @@
-contact:
-  name: Donald Ortiz
-  email: donald.ortiz7062@work.org
-  phone: +1 803-422-1011
-  ssn: 773982398
-  dob: 01/07/1984
-  address: 4506 West Rd
-  city: Seattle
-  state: TX

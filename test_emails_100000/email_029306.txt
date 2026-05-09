@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Edwards,jennifer.edwards7020@yahoo.com,+1 809-223-6896,125 81 1154,10-12-1970,"7758 Cedar Blvd",Austin,WI

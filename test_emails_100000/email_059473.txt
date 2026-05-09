@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Reyes,anna.reyes6712@company.com,671-691-7904,482938595,07/10/1989,"4018 Park Way",Phoenix,GA

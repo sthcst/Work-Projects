@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Cooper,kenneth.cooper8651@work.org,+1 577-949-1607,739-90-4026,12-15-1993,"228 Summer Rd",Chicago,WA

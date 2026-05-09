@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Stewart
-  email: joseph.stewart8597@example.com
-  phone: 202-355-1789
-  ssn: 310-64-3078
-  dob: 09/02/1976
-  address: 5441 Second St
-  city: San Antonio
-  state: MO

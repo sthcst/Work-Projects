@@ -1,9 +1,0 @@
-contact:
-  name: Michael Reed
-  email: michael.reed3888@yahoo.com
-  phone: (762) 901-6798
-  ssn: 113-20-5177
-  dob: 02/20/1964
-  address: 966 Spring St
-  city: Boston
-  state: PA

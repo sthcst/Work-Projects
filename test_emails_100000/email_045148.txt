@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Brown,kenneth.brown2292@outlook.com,(624) 492-1865,536 11 2373,05/14/1958,"2146 South Ln",Los Angeles,VA

@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Lewis
-  email: jacob.lewis7672@company.com
-  phone: (739) 431-4364
-  ssn: 242102328
-  dob: 15/04/1996
-  address: 4574 First Ave
-  city: New York
-  state: TX

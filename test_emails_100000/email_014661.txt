@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Roberts,robert.roberts3311@company.com,+1 450-616-5652,892-88-4969,24/10/1961,"2008 Park Ln",Los Angeles,CA

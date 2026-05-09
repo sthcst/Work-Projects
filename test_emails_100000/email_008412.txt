@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Evans
-  email: jeffrey.evans2016@work.org
-  phone: 907-366-5524
-  ssn: 446 34 1877
-  dob: 02-28-1960
-  address: 2599 Summer Dr
-  city: Houston
-  state: VA

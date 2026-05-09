@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Alvarado
-  email: shirley.alvarado8183@gmail.com
-  phone: +1 401-356-8824
-  ssn: 778 11 8099
-  dob: 02/18/1989
-  address: 1661 First Court
-  city: Houston
-  state: MI

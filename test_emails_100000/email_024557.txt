@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Guerrero,katherine.guerrero1078@example.com,(225) 461-4882,113488742,01/19/1996,"666 Cedar Court",San Jose,WI

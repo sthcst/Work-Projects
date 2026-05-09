@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Peterson,pamela.peterson5403@example.com,539-879-8412,301941266,03-02-1953,"7712 Cedar St",Chicago,DC

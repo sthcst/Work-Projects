@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Peterson
-  email: kimberly.peterson2393@work.org
-  phone: +1 300-396-5748
-  ssn: 303 53 2918
-  dob: 04-26-1970
-  address: 6081 Oak Court
-  city: Chicago
-  state: AZ

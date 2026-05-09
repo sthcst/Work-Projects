@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Clark,helen.clark5023@mail.com,(303) 923-5618,653-71-9854,09-20-1959,"73 Second St",Jacksonville,NC

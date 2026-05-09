@@ -1,9 +1,0 @@
-contact:
-  name: Maria Nelson
-  email: maria.nelson1641@work.org
-  phone: +1 976-629-9911
-  ssn: 336 49 7177
-  dob: 03-05-1981
-  address: 6081 Second Dr
-  city: Phoenix
-  state: NC

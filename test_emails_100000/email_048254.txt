@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Robinson,lisa.robinson3125@yahoo.com,221-635-1739,289-08-3917,11/17/1985,"2078 East Blvd",Denver,MO

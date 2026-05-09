@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Collins
-  email: deborah.collins389@outlook.com
-  phone: 586 391 2800
-  ssn: 445-43-8724
-  dob: 1/21/1984
-  address: 1598 Elm Ln
-  city: Philadelphia
-  state: DC

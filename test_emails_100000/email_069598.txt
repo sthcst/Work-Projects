@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Wilson
-  email: ryan.wilson974@mail.com
-  phone: 508 836 1432
-  ssn: 925 76 8181
-  dob: 17/07/1970
-  address: 1812 Fourth Ave
-  city: Philadelphia
-  state: FL

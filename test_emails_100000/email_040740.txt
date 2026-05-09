@@ -1,9 +1,0 @@
-contact:
-  name: Helen Nelson
-  email: helen.nelson4271@gmail.com
-  phone: +1 358-964-1371
-  ssn: 155-89-5690
-  dob: 05/02/1970
-  address: 3323 Sixth Blvd
-  city: Los Angeles
-  state: NJ

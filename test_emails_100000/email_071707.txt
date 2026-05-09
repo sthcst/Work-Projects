@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Morgan
-  email: kevin.morgan7414@mail.com
-  phone: 992 693 5461
-  ssn: 084-79-8526
-  dob: 05-25-1958
-  address: 3017 Summer Rd
-  city: Philadelphia
-  state: NY

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel White,daniel.white1922@business.net,922 691 8778,414-05-9314,28/04/1952,"7274 First Dr",Houston,CA

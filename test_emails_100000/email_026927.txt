@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Garcia,john.garcia8036@mail.com,+1 329-994-3533,261-94-9724,8/18/1995,"527 West Ln",San Diego,FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Bell,kenneth.bell8532@work.org,(285) 868-8409,895-25-3480,02-05-1976,"5109 Main Ln",Houston,FL

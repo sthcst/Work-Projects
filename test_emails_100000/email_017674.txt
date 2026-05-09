@@ -1,9 +1,0 @@
-contact:
-  name: Anna Murillo
-  email: anna.murillo6487@yahoo.com
-  phone: (895) 415-7353
-  ssn: 383377982
-  dob: 1/2/1972
-  address: 5816 West Rd
-  city: San Jose
-  state: TN

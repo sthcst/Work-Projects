@@ -1,9 +1,0 @@
-contact:
-  name: Mark Young
-  email: mark.young4589@work.org
-  phone: 562 395 3830
-  ssn: 835038043
-  dob: 2/4/2002
-  address: 5412 Third Blvd
-  city: San Diego
-  state: WA

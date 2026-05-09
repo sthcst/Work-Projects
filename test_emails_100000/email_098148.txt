@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Brown,lisa.brown6340@business.net,924 411 2010,317139272,06-08-1976,"8010 Summer Way",San Diego,TN

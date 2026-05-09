@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Reed,kimberly.reed1444@mail.com,(281) 530-2078,275-35-4682,05-02-1954,"7269 Maple Ave",Washington,CA

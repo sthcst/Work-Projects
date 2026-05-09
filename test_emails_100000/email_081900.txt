@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Campbell
-  email: amanda.campbell7696@gmail.com
-  phone: +1 848-721-4182
-  ssn: 758-71-9285
-  dob: 07/12/2003
-  address: 6346 Maple Ave
-  city: New York
-  state: TX

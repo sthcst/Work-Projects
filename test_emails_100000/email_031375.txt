@@ -1,9 +1,0 @@
-contact:
-  name: Helen Thomas
-  email: helen.thomas1562@work.org
-  phone: 239 541 5787
-  ssn: 395964162
-  dob: 03/05/2003
-  address: 9959 Second Way
-  city: Jacksonville
-  state: FL

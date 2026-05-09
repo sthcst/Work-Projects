@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Lee,james.lee2686@example.com,(840) 294-7855,318349053,06-27-1956,"3393 Fifth Court",Houston,CO

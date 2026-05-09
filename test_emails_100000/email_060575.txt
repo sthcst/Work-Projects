@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Roberts,brenda.roberts6992@business.net,639 663 6518,001 12 5594,09/28/2000,"1255 Elm Way",Phoenix,TX

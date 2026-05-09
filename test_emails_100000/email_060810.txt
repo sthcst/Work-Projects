@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly White,kimberly.white8643@outlook.com,873-341-5806,266-22-8065,10/26/1979,"4977 Second Ln",Washington,WA

@@ -1,9 +1,0 @@
-contact:
-  name: John Gonzalez
-  email: john.gonzalez2644@business.net
-  phone: (270) 464-2266
-  ssn: 086-51-8058
-  dob: 07-10-1967
-  address: 4117 Fourth Dr
-  city: San Antonio
-  state: TN

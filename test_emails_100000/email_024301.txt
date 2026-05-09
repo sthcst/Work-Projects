@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Lee,charles.lee2014@yahoo.com,+1 588-921-4304,394 60 6865,6/4/1998,"3631 Birch Way",Phoenix,WI

@@ -1,9 +1,0 @@
-contact:
-  name: Jane Carter
-  email: jane.carter5355@example.com
-  phone: 710 549 3644
-  ssn: 071 77 8516
-  dob: 25/06/1994
-  address: 389 Oak Dr
-  city: Boston
-  state: NC

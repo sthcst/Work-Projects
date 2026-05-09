@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Lopez,jeffrey.lopez7821@gmail.com,+1 202-963-9587,584 54 8606,06/20/1958,"6360 East St",Washington,GA

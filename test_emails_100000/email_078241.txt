@@ -1,9 +1,0 @@
-contact:
-  name: Jane Peterson
-  email: jane.peterson5714@business.net
-  phone: 891 956 4536
-  ssn: 219-41-7459
-  dob: 02/10/2002
-  address: 2904 Fourth Court
-  city: Denver
-  state: IL

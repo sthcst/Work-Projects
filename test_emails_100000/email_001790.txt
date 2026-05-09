@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Morgan,lauren.morgan9340@business.net,(680) 751-2405,816292935,10/03/1973,"8409 Elm Ln",Boston,MA

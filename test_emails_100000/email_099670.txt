@@ -1,9 +1,0 @@
-contact:
-  name: Maria Romero
-  email: maria.romero4148@gmail.com
-  phone: +1 998-876-2561
-  ssn: 051 57 1924
-  dob: 08/11/1983
-  address: 7009 East Dr
-  city: San Diego
-  state: IL

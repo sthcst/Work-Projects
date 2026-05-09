@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Reed
-  email: lauren.reed5564@example.com
-  phone: +1 377-653-2749
-  ssn: 365 18 2484
-  dob: 21/07/1969
-  address: 1475 Main Ln
-  city: Washington
-  state: MD

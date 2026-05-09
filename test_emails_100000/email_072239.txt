@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Taylor,nicholas.taylor3167@gmail.com,(469) 597-9300,706 06 8645,1/5/1974,"8209 Fifth Blvd",Phoenix,CA

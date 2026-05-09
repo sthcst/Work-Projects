@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Phillips,jane.phillips1980@mail.com,+1 919-859-9574,367 83 7133,05/10/1993,"5825 West St",Denver,DC

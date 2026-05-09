@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Gomez,angela.gomez5494@mail.com,725 241 3881,574626321,10/20/1993,"7507 Fifth St",Denver,DC

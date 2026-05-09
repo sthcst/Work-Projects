@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Morris,ronald.morris8735@example.com,(617) 339-4522,687-50-1925,03-23-1985,"9541 Fifth Rd",Philadelphia,MO

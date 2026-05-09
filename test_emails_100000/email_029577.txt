@@ -1,9 +1,0 @@
-contact:
-  name: Megan Serrano
-  email: megan.serrano6776@yahoo.com
-  phone: +1 216-581-6461
-  ssn: 128678462
-  dob: 12-21-1998
-  address: 185 Oak Way
-  city: Denver
-  state: NY

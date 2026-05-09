@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Williams
-  email: ashley.williams7078@company.com
-  phone: 676 803 7874
-  ssn: 083 41 7308
-  dob: 08-03-1953
-  address: 4975 Park Blvd
-  city: Dallas
-  state: MI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Morgan,kenneth.morgan1305@gmail.com,756-219-5743,350966307,04-14-1955,"581 First Court",Jacksonville,GA

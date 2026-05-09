@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Reeves
-  email: andrew.reeves8474@outlook.com
-  phone: 513-791-4368
-  ssn: 624-52-1869
-  dob: 09-11-2002
-  address: 4360 West Blvd
-  city: New York
-  state: IL

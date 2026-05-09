@@ -1,9 +1,0 @@
-contact:
-  name: Angela Perez
-  email: angela.perez316@yahoo.com
-  phone: (336) 510-9312
-  ssn: 088 75 8419
-  dob: 2/23/1967
-  address: 590 First Rd
-  city: Boston
-  state: CA

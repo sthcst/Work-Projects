@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Hall,jeffrey.hall8688@mail.com,(541) 581-5056,723-69-6732,04/24/1983,"881 North St",New York,FL

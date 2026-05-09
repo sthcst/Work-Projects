@@ -1,9 +1,0 @@
-contact:
-  name: Anna Clark
-  email: anna.clark2828@example.com
-  phone: +1 672-809-6216
-  ssn: 658-15-4251
-  dob: 8/9/1998
-  address: 7110 Pine Blvd
-  city: Chicago
-  state: WA

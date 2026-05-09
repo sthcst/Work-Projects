@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Jones
-  email: katherine.jones9277@work.org
-  phone: (213) 300-9097
-  ssn: 645 48 4569
-  dob: 05/08/1968
-  address: 915 Main Ln
-  city: Seattle
-  state: AZ

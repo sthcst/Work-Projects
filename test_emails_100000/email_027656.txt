@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Thomas,pamela.thomas4247@example.com,984 678 1445,771 39 8661,10/20/1964,"5523 Summer Blvd",San Antonio,OH

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Dominguez,shirley.dominguez176@business.net,943 488 2943,848456607,06-20-1999,"9344 West Way",San Jose,WI

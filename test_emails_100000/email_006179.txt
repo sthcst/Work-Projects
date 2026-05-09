@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Reed,richard.reed5897@business.net,722-828-1717,806-44-2991,05/19/2003,"3612 Pine Rd",Boston,WA

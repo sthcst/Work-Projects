@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Murillo,anthony.murillo2059@company.com,(866) 607-7890,731 38 3783,08/28/1966,"5873 Summer Ave",New York,TN

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Hernandez,paul.hernandez5635@yahoo.com,+1 263-983-7097,933988660,07/21/1983,"7037 Oak Dr",Houston,VA

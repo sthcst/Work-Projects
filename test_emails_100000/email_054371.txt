@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Rogers,robert.rogers9935@outlook.com,(357) 887-5912,414343084,7/9/1996,"6523 Maple Ln",Philadelphia,GA

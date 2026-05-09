@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Peterson
-  email: stephanie.peterson3437@business.net
-  phone: 532 281 6719
-  ssn: 505584567
-  dob: 03/04/1998
-  address: 4336 Second Court
-  city: Washington
-  state: CA

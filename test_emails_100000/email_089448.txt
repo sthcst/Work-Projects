@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Cooper,gary.cooper4387@mail.com,820-432-8069,211995517,12-03-1975,"8330 Third Rd",San Jose,MD

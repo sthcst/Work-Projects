@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Phillips
-  email: jessica.phillips6193@mail.com
-  phone: (826) 779-8029
-  ssn: 619701141
-  dob: 01-17-1998
-  address: 6021 East Rd
-  city: Chicago
-  state: IL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Romero,cynthia.romero8192@company.com,(204) 868-5223,404 60 1564,03/02/1997,"4097 South Blvd",San Antonio,WI

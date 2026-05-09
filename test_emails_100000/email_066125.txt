@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Miller,katherine.miller3552@yahoo.com,811 629 9187,463 34 9870,11-15-1982,"8838 Birch Court",Dallas,WA

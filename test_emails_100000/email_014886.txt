@@ -1,9 +1,0 @@
-contact:
-  name: Maria Stewart
-  email: maria.stewart2061@gmail.com
-  phone: (675) 667-3887
-  ssn: 109-91-7521
-  dob: 01-19-1993
-  address: 8752 Spring St
-  city: San Antonio
-  state: AZ

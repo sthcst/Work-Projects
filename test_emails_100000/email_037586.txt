@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Rodriguez,maria.rodriguez8127@work.org,(731) 234-7279,517056916,02/11/1984,"737 Main Way",Seattle,FL

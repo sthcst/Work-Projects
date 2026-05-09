@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Walker,maria.walker5971@company.com,+1 326-903-8018,009 31 2347,11/24/1961,"5725 Second Dr",Austin,DC

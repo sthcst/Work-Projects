@@ -1,9 +1,0 @@
-contact:
-  name: Gary Clark
-  email: gary.clark5626@yahoo.com
-  phone: +1 925-445-5118
-  ssn: 247-95-2529
-  dob: 03/03/1990
-  address: 8449 Cedar St
-  city: Los Angeles
-  state: OH

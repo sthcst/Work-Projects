@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Wilson,kimberly.wilson3999@business.net,936-870-9911,705 61 8584,09/21/1987,"6095 Sixth Blvd",Boston,FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Martin,michelle.martin8563@work.org,(773) 225-2127,067 72 6053,02-23-1992,"7293 North Dr",Seattle,AZ

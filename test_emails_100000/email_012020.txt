@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Jimenez,kevin.jimenez6722@example.com,+1 447-895-8960,681867858,12/13/1990,"6654 Birch St",Houston,DC

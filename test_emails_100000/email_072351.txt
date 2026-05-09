@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Thompson
-  email: michelle.thompson3186@example.com
-  phone: 367 615 6312
-  ssn: 391-48-8602
-  dob: 11-06-1968
-  address: 111 East Ave
-  city: Washington
-  state: IL

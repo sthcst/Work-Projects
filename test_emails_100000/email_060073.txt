@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Roberts,anna.roberts3956@gmail.com,(901) 548-2607,376 54 4390,2/21/1966,"524 Elm Blvd",Denver,VA

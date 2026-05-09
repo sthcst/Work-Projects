@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Lopez
-  email: jeffrey.lopez7159@yahoo.com
-  phone: 946 980 1691
-  ssn: 710-71-3072
-  dob: 3/27/1951
-  address: 215 Fourth Rd
-  city: Seattle
-  state: TX

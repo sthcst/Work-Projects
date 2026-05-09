@@ -1,9 +1,0 @@
-contact:
-  name: George Thomas
-  email: george.thomas1541@work.org
-  phone: +1 335-797-7760
-  ssn: 861-96-8251
-  dob: 09-18-1999
-  address: 4071 Elm Way
-  city: Boston
-  state: IL

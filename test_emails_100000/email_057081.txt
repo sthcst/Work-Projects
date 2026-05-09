@@ -1,9 +1,0 @@
-contact:
-  name: Donald Jones
-  email: donald.jones5361@company.com
-  phone: +1 821-255-2918
-  ssn: 848-09-9109
-  dob: 12/09/1959
-  address: 8637 Spring Ave
-  city: Chicago
-  state: NC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Perez,helen.perez8495@mail.com,+1 623-251-9364,749-06-4952,07-03-1991,"7023 Park St",Chicago,WA

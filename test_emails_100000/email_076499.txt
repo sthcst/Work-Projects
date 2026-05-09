@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Anderson,stephanie.anderson9941@company.com,287-225-6354,230653050,03-25-1970,"6411 North Court",Austin,TX

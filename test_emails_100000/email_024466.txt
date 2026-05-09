@@ -1,9 +1,0 @@
-contact:
-  name: William Roberts
-  email: william.roberts702@mail.com
-  phone: +1 621-894-5607
-  ssn: 844-64-2453
-  dob: 05-02-1958
-  address: 9084 Park Ave
-  city: Houston
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Thomas
-  email: daniel.thomas2740@work.org
-  phone: 636-872-9051
-  ssn: 572-19-7596
-  dob: 12/05/1951
-  address: 6463 Third Rd
-  city: Philadelphia
-  state: NJ

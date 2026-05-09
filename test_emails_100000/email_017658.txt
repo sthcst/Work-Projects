@@ -1,9 +1,0 @@
-contact:
-  name: Richard Reeves
-  email: richard.reeves1630@example.com
-  phone: 716 609 2086
-  ssn: 378-06-5890
-  dob: 09/10/1953
-  address: 8980 Pine St
-  city: San Antonio
-  state: VA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Moore,michelle.moore742@gmail.com,(858) 229-5218,481953123,02/17/1971,"1287 Fifth Ave",Chicago,WI

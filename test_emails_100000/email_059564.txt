@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Reeves
-  email: joseph.reeves7082@yahoo.com
-  phone: +1 916-364-3327
-  ssn: 626 51 8378
-  dob: 4/4/1959
-  address: 7180 Maple Ln
-  city: Chicago
-  state: MD

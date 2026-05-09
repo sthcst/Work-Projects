@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Morris,stephanie.morris4362@example.com,(504) 974-5332,883572942,10/24/1959,"3161 Park St",Jacksonville,TX

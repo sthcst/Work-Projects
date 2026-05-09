@@ -1,9 +1,0 @@
-contact:
-  name: Emily Jackson
-  email: emily.jackson2506@yahoo.com
-  phone: 933 821 3871
-  ssn: 989873845
-  dob: 06/04/2002
-  address: 5937 Spring Dr
-  city: Austin
-  state: CO

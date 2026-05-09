@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Smith
-  email: deborah.smith5030@gmail.com
-  phone: (469) 618-5410
-  ssn: 151915229
-  dob: 20/04/1996
-  address: 8718 Spring Ln
-  city: Los Angeles
-  state: NY

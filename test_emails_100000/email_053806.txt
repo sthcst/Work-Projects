@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Rodriguez,samantha.rodriguez7740@outlook.com,794 899 1125,772-42-5532,10-02-1957,"8923 Oak Blvd",San Jose,AZ

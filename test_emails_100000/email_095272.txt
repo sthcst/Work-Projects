@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Morgan
-  email: kevin.morgan4139@yahoo.com
-  phone: 568 377 4366
-  ssn: 715 59 1969
-  dob: 04/08/1954
-  address: 7893 Pine Blvd
-  city: San Antonio
-  state: TN

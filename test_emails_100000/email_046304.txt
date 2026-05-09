@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Miller
-  email: lauren.miller2824@work.org
-  phone: (454) 323-6918
-  ssn: 023-25-5214
-  dob: 10/11/2003
-  address: 223 Fifth Ln
-  city: New York
-  state: TX

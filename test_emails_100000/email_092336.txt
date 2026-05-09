@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Edwards
-  email: timothy.edwards106@company.com
-  phone: (804) 631-6346
-  ssn: 366718502
-  dob: 23/11/1983
-  address: 2004 Sixth Ave
-  city: Dallas
-  state: CA

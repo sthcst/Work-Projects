@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Reeves
-  email: christopher.reeves242@example.com
-  phone: 224 460 1640
-  ssn: 779-51-8127
-  dob: 23/04/1989
-  address: 9207 Fifth Dr
-  city: Chicago
-  state: MD

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Cooper,jeffrey.cooper6298@work.org,491 575 5447,158 79 3130,02-11-1994,"3391 South Way",New York,MA

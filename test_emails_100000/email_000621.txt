@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Reyes
-  email: jessica.reyes6651@business.net
-  phone: (624) 684-1501
-  ssn: 342 48 2937
-  dob: 16/04/1981
-  address: 9650 Birch Way
-  city: Denver
-  state: MO

@@ -1,9 +1,0 @@
-contact:
-  name: Michael Flores
-  email: michael.flores6146@outlook.com
-  phone: +1 311-675-2704
-  ssn: 273-64-8467
-  dob: 09/11/1955
-  address: 1023 East Rd
-  city: Seattle
-  state: CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Wilson,deborah.wilson9405@mail.com,376-473-1033,980-87-7715,03/20/1950,"983 Birch Dr",Denver,TX

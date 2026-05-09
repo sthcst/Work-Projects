@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Lewis
-  email: ryan.lewis3767@example.com
-  phone: +1 479-861-2020
-  ssn: 023 69 9080
-  dob: 16/12/1954
-  address: 8001 Main Rd
-  city: San Diego
-  state: GA

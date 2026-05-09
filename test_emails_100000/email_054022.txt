@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Ortiz
-  email: amanda.ortiz4628@yahoo.com
-  phone: 253 697 5294
-  ssn: 780-95-7094
-  dob: 01/18/1977
-  address: 7960 Fourth St
-  city: Austin
-  state: VA

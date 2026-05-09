@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard White,richard.white8785@outlook.com,856-481-8026,546-08-7636,16/01/1959,"3274 East Blvd",San Antonio,TN

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Young,anthony.young4301@gmail.com,+1 378-624-9338,748-93-5001,05/02/1998,"1033 Birch Dr",San Antonio,NC

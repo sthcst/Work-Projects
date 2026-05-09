@@ -1,9 +1,0 @@
-contact:
-  name: Emily Murillo
-  email: emily.murillo1128@yahoo.com
-  phone: (628) 291-5396
-  ssn: 935731975
-  dob: 17/02/1952
-  address: 9044 Main Ln
-  city: Washington
-  state: VA

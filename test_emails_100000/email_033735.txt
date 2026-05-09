@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Rodriguez,edward.rodriguez2367@company.com,541 862 1957,791077465,10/9/1971,"7758 Third Blvd",Seattle,IL

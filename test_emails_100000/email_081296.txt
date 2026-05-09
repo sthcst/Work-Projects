@@ -1,9 +1,0 @@
-contact:
-  name: Angela Reed
-  email: angela.reed4438@example.com
-  phone: 365 397 5079
-  ssn: 266 81 8153
-  dob: 03-25-1971
-  address: 4235 Cedar St
-  city: Philadelphia
-  state: MO

@@ -1,9 +1,0 @@
-contact:
-  name: Donald Roberts
-  email: donald.roberts3308@work.org
-  phone: 476 801 9057
-  ssn: 289324348
-  dob: 08/09/1951
-  address: 3542 First Rd
-  city: Los Angeles
-  state: MI

@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Lee
-  email: anthony.lee9835@outlook.com
-  phone: 913-992-7575
-  ssn: 907-40-4753
-  dob: 14/09/1961
-  address: 1607 Second St
-  city: Philadelphia
-  state: FL

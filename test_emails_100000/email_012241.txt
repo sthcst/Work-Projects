@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Reed
-  email: brenda.reed4468@outlook.com
-  phone: 235-216-5247
-  ssn: 142826604
-  dob: 06-26-2004
-  address: 2068 East Court
-  city: San Diego
-  state: TX

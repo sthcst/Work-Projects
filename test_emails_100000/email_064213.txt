@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Hernandez
-  email: kimberly.hernandez4560@work.org
-  phone: 867 671 5051
-  ssn: 068 68 9519
-  dob: 18/04/1979
-  address: 8430 First St
-  city: San Diego
-  state: AZ

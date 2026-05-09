@@ -1,9 +1,0 @@
-contact:
-  name: Edward Sanchez
-  email: edward.sanchez4057@company.com
-  phone: (999) 888-1383
-  ssn: 758-05-3173
-  dob: 11/19/1991
-  address: 6714 Spring Way
-  city: San Jose
-  state: TX

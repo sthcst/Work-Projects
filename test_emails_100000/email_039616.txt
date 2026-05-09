@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Ramirez
-  email: shirley.ramirez7604@mail.com
-  phone: 709 302 4436
-  ssn: 085 81 8382
-  dob: 01/13/1961
-  address: 6770 Fifth Dr
-  city: Houston
-  state: FL

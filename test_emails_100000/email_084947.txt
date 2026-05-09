@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Reeves,andrew.reeves3443@outlook.com,727-891-1002,174-86-1732,10/6/1960,"5072 Oak Court",San Diego,MD

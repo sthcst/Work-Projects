@@ -1,9 +1,0 @@
-contact:
-  name: Jane Peterson
-  email: jane.peterson5549@business.net
-  phone: 778-751-7403
-  ssn: 040 50 3379
-  dob: 05/20/1986
-  address: 7996 West Ln
-  city: Jacksonville
-  state: NY

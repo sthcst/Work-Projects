@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Lopez
-  email: anthony.lopez7607@gmail.com
-  phone: (732) 714-3915
-  ssn: 635912627
-  dob: 02/11/1964
-  address: 5551 Maple Rd
-  city: San Antonio
-  state: WI

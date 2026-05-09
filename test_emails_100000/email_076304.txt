@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Rogers
-  email: andrew.rogers8238@yahoo.com
-  phone: +1 922-591-1323
-  ssn: 812 51 3895
-  dob: 05/08/1970
-  address: 5586 Cedar St
-  city: Phoenix
-  state: GA

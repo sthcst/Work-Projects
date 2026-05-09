@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Evans,shirley.evans4502@mail.com,+1 487-227-8685,350 44 5444,07/18/1966,"7031 Pine Rd",New York,DC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Stewart,emily.stewart4449@company.com,+1 936-569-4489,542 14 1130,04-17-1956,"2739 First Rd",Austin,GA

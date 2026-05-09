@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Cooper
-  email: pamela.cooper2233@gmail.com
-  phone: (648) 529-3487
-  ssn: 603-37-8714
-  dob: 3/27/1976
-  address: 2699 Oak Rd
-  city: San Diego
-  state: NJ

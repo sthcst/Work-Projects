@@ -1,9 +1,0 @@
-contact:
-  name: Emma Nelson
-  email: emma.nelson9859@gmail.com
-  phone: 783 470 4937
-  ssn: 713-77-9155
-  dob: 06-10-2001
-  address: 9063 Oak Ln
-  city: Jacksonville
-  state: VA

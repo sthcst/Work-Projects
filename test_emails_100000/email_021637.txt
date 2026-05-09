@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Murillo
-  email: samantha.murillo3437@outlook.com
-  phone: 396 345 5402
-  ssn: 530881395
-  dob: 27/03/1968
-  address: 2042 North St
-  city: Dallas
-  state: WA

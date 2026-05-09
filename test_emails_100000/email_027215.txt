@@ -1,9 +1,0 @@
-contact:
-  name: Charles Miller
-  email: charles.miller9750@gmail.com
-  phone: (599) 576-5319
-  ssn: 057-87-7164
-  dob: 07-04-1982
-  address: 6200 Cedar Rd
-  city: Denver
-  state: WA

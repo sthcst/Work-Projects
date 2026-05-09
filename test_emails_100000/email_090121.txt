@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Martinez
-  email: jacob.martinez8910@example.com
-  phone: (240) 899-1150
-  ssn: 031288917
-  dob: 11/05/2000
-  address: 4251 Pine Rd
-  city: San Antonio
-  state: PA

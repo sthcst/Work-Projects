@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Clark
-  email: joshua.clark3648@business.net
-  phone: 525-518-1005
-  ssn: 435 73 2604
-  dob: 4/28/1998
-  address: 4301 Oak Ave
-  city: Boston
-  state: WA

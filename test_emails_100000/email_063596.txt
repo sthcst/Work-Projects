@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Bell
-  email: rebecca.bell7440@yahoo.com
-  phone: 414-586-3576
-  ssn: 590 80 6029
-  dob: 14/07/1971
-  address: 454 Oak St
-  city: Austin
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Lopez,kenneth.lopez6914@yahoo.com,(432) 617-7091,168704244,04-08-2004,"8077 North Court",Dallas,MD

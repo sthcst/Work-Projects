@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Walker,william.walker628@outlook.com,(985) 297-1054,978615012,3/23/1959,"1333 Birch Dr",Houston,CA

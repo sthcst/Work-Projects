@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Martin
-  email: katherine.martin1061@work.org
-  phone: (781) 348-3270
-  ssn: 613 56 2250
-  dob: 12/17/1973
-  address: 5574 Oak Way
-  city: Jacksonville
-  state: AZ

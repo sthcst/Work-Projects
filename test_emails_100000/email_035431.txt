@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Taylor
-  email: matthew.taylor4818@business.net
-  phone: 969-337-2789
-  ssn: 750 30 2782
-  dob: 02/12/1961
-  address: 1003 First Court
-  city: Denver
-  state: GA

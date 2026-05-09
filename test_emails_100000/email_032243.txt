@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Smith
-  email: jessica.smith80@company.com
-  phone: (906) 981-1454
-  ssn: 894-93-2891
-  dob: 10-14-1959
-  address: 2355 North Rd
-  city: Denver
-  state: PA

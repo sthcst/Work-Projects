@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Evans
-  email: jacob.evans5814@work.org
-  phone: 915-300-6617
-  ssn: 392 67 2840
-  dob: 04/10/1979
-  address: 1262 Summer Way
-  city: New York
-  state: MI

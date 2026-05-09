@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Gonzalez,steven.gonzalez3951@gmail.com,+1 963-991-1238,805943218,10/03/1982,"2238 Spring Court",Denver,FL

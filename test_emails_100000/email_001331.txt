@@ -1,9 +1,0 @@
-contact:
-  name: Richard Lewis
-  email: richard.lewis8448@mail.com
-  phone: 967 200 1424
-  ssn: 172 76 6549
-  dob: 04/26/1983
-  address: 1745 Main Ave
-  city: Philadelphia
-  state: MO

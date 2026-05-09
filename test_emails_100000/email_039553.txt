@@ -1,9 +1,0 @@
-contact:
-  name: Anna Hall
-  email: anna.hall4781@outlook.com
-  phone: 450 734 3611
-  ssn: 236123467
-  dob: 08/25/1979
-  address: 4045 First Ave
-  city: Chicago
-  state: DC

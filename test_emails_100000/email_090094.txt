@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Hernandez
-  email: jeffrey.hernandez4586@mail.com
-  phone: 391 754 9049
-  ssn: 473347405
-  dob: 06-15-1978
-  address: 5348 Birch Blvd
-  city: Austin
-  state: IL

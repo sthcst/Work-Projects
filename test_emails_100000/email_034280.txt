@@ -1,9 +1,0 @@
-contact:
-  name: Donald Jimenez
-  email: donald.jimenez3797@outlook.com
-  phone: +1 634-243-2610
-  ssn: 134-60-7465
-  dob: 12-23-1971
-  address: 8262 Sixth Dr
-  city: San Jose
-  state: CO

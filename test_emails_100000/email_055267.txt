@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Smith,angela.smith2785@business.net,(592) 395-1597,001963759,02-12-1961,"5244 Spring Ln",Los Angeles,TX

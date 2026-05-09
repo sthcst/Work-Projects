@@ -1,9 +1,0 @@
-contact:
-  name: Robert Johnson
-  email: robert.johnson7187@work.org
-  phone: 322 717 5390
-  ssn: 656526906
-  dob: 4/26/1961
-  address: 6407 Oak Ln
-  city: Philadelphia
-  state: NJ

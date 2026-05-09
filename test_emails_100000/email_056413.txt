@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Williams
-  email: rachel.williams4440@company.com
-  phone: (202) 572-7544
-  ssn: 774741751
-  dob: 15/01/1962
-  address: 5125 North Rd
-  city: Houston
-  state: TX

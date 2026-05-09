@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Thompson,anthony.thompson6851@mail.com,+1 972-805-9068,214-19-7450,01/12/1950,"9337 Main Court",Boston,CA

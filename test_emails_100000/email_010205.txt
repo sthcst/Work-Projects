@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Gonzalez
-  email: anthony.gonzalez3941@business.net
-  phone: 699-804-3881
-  ssn: 995-45-8080
-  dob: 09-05-1995
-  address: 6932 Fourth Rd
-  city: New York
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Angela Gomez
-  email: angela.gomez7756@mail.com
-  phone: (251) 668-3842
-  ssn: 795-13-8307
-  dob: 15/12/1998
-  address: 3807 Birch Rd
-  city: San Antonio
-  state: VA

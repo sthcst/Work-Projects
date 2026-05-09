@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Ramirez,katherine.ramirez5569@mail.com,724-223-6754,407 25 6842,12/12/1957,"3835 Third Dr",Dallas,FL

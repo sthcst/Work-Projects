@@ -1,9 +1,0 @@
-contact:
-  name: Angela Wilson
-  email: angela.wilson2099@gmail.com
-  phone: 796 850 4203
-  ssn: 824 52 2299
-  dob: 8/14/1954
-  address: 5736 Third Rd
-  city: San Diego
-  state: MI

@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Guerrero
-  email: ryan.guerrero8143@mail.com
-  phone: (808) 914-6202
-  ssn: 843 76 7082
-  dob: 04/13/1989
-  address: 502 Elm Blvd
-  city: Chicago
-  state: MI

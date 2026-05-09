@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Robinson
-  email: pamela.robinson4956@outlook.com
-  phone: 307 800 1902
-  ssn: 507121063
-  dob: 11-10-1971
-  address: 3960 Main Dr
-  city: Houston
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Rodriguez
-  email: timothy.rodriguez9880@outlook.com
-  phone: 914 774 2029
-  ssn: 418 42 2275
-  dob: 04/06/2005
-  address: 9232 Park Rd
-  city: San Jose
-  state: WI

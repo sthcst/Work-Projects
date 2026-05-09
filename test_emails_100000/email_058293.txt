@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Martin
-  email: jacob.martin2918@business.net
-  phone: (287) 267-3740
-  ssn: 043 88 3910
-  dob: 08/08/1994
-  address: 4411 Park Way
-  city: Washington
-  state: TX

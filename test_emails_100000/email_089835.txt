@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Walker,timothy.walker831@mail.com,284-329-2432,243-92-4490,01/02/1997,"3471 Park Blvd",Seattle,PA

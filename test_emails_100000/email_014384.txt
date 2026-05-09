@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Stewart,katherine.stewart617@yahoo.com,671-396-2379,143455835,8/11/1980,"1035 North Ave",Dallas,WA

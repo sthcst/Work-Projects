@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Robinson
-  email: daniel.robinson7918@work.org
-  phone: 210 882 3395
-  ssn: 533-34-1319
-  dob: 07/10/1955
-  address: 4841 Summer Blvd
-  city: Denver
-  state: IL

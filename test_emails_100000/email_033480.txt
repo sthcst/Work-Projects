@@ -1,9 +1,0 @@
-contact:
-  name: David Edwards
-  email: david.edwards7766@company.com
-  phone: +1 414-348-5996
-  ssn: 384 17 6670
-  dob: 02/03/1974
-  address: 3268 Park Way
-  city: San Diego
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Edward Jackson
-  email: edward.jackson3060@yahoo.com
-  phone: (532) 527-6514
-  ssn: 840 42 4351
-  dob: 11/05/1992
-  address: 5034 Second Rd
-  city: Philadelphia
-  state: AZ

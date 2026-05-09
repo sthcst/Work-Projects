@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Hernandez,stephanie.hernandez3132@example.com,332-362-6328,090-65-7202,19/09/1968,"6932 Birch St",Denver,TX

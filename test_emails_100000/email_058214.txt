@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Jones
-  email: lauren.jones9868@company.com
-  phone: (324) 939-1518
-  ssn: 371 93 3657
-  dob: 07-25-1968
-  address: 6219 South Dr
-  city: Washington
-  state: IL

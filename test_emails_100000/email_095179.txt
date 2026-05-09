@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Sanchez
-  email: rachel.sanchez5393@mail.com
-  phone: +1 774-674-1147
-  ssn: 547458731
-  dob: 4/18/1975
-  address: 1756 Park Ln
-  city: Houston
-  state: TX

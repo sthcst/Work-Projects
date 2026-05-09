@@ -1,9 +1,0 @@
-contact:
-  name: William Harris
-  email: william.harris6701@business.net
-  phone: 738 755 2755
-  ssn: 835 36 7599
-  dob: 12/08/1953
-  address: 99 Park Way
-  city: Austin
-  state: MI

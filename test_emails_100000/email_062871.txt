@@ -1,9 +1,0 @@
-contact:
-  name: Edward Gonzalez
-  email: edward.gonzalez4513@yahoo.com
-  phone: +1 745-760-8363
-  ssn: 698143725
-  dob: 1/6/1976
-  address: 3897 North Way
-  city: Philadelphia
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Reyes,shirley.reyes1966@mail.com,515-236-3639,916 01 9033,06/19/1967,"1130 Fourth Dr",Denver,CA

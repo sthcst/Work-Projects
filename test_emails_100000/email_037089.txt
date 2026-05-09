@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Young,megan.young817@yahoo.com,475 316 3407,271556379,07-24-1972,"9933 Pine Ln",Washington,MI

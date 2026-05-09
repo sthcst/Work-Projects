@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Roberts
-  email: kathleen.roberts7533@mail.com
-  phone: 540 814 3790
-  ssn: 553 44 6479
-  dob: 3/3/2005
-  address: 8200 East Rd
-  city: Jacksonville
-  state: WI

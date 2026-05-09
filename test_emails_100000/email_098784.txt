@@ -1,9 +1,0 @@
-contact:
-  name: George Carter
-  email: george.carter2821@yahoo.com
-  phone: 385-510-4664
-  ssn: 866-07-2114
-  dob: 4/28/1980
-  address: 8458 North Ln
-  city: Philadelphia
-  state: DC

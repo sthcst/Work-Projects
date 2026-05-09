@@ -1,9 +1,0 @@
-contact:
-  name: Helen Martinez
-  email: helen.martinez1006@example.com
-  phone: (908) 282-6730
-  ssn: 540-31-2928
-  dob: 09/18/1971
-  address: 377 South Rd
-  city: New York
-  state: NY

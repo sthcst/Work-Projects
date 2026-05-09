@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Murillo,joshua.murillo7582@business.net,913 286 8282,741 35 1406,8/23/1972,"7487 Fifth St",Houston,MD

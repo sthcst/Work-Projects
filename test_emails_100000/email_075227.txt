@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Serrano,james.serrano290@company.com,537 264 2277,004-10-3833,05-22-1980,"6169 West Way",Houston,AZ

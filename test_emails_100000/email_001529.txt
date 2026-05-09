@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Brown,emma.brown2186@mail.com,+1 833-847-7276,436921247,07-07-1972,"7677 East St",Washington,TX

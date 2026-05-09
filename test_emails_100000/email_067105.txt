@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Campbell
-  email: lauren.campbell2509@work.org
-  phone: 563 264 1279
-  ssn: 524 89 7220
-  dob: 07-21-1988
-  address: 2564 Maple Way
-  city: Philadelphia
-  state: WA

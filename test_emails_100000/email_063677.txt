@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Murillo,mark.murillo2655@example.com,332 509 2999,294408081,01/11/1994,"4952 Cedar Dr",Chicago,CO

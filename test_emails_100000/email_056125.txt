@@ -1,9 +1,0 @@
-contact:
-  name: Emily Parker
-  email: emily.parker9272@yahoo.com
-  phone: 711 988 5741
-  ssn: 255178764
-  dob: 01/12/1985
-  address: 2785 Fourth Ave
-  city: San Antonio
-  state: MI

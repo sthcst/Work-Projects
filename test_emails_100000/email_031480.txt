@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Hernandez
-  email: nicholas.hernandez4233@outlook.com
-  phone: (750) 274-6117
-  ssn: 468 23 6594
-  dob: 20/06/1999
-  address: 8778 Maple Ave
-  city: Washington
-  state: WA

@@ -1,9 +1,0 @@
-contact:
-  name: John Davis
-  email: john.davis9202@gmail.com
-  phone: 768-921-3973
-  ssn: 416741101
-  dob: 10/6/1951
-  address: 3189 Sixth St
-  city: Boston
-  state: CO

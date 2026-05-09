@@ -1,9 +1,0 @@
-contact:
-  name: John Cooper
-  email: john.cooper2410@outlook.com
-  phone: +1 874-913-2968
-  ssn: 076245558
-  dob: 07/26/1969
-  address: 4492 Spring Ave
-  city: Jacksonville
-  state: IL

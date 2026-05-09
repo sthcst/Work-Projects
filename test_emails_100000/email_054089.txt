@@ -1,9 +1,0 @@
-contact:
-  name: Jane Nunez
-  email: jane.nunez4653@work.org
-  phone: +1 280-707-9055
-  ssn: 638 41 3900
-  dob: 11/01/1990
-  address: 6020 Second Court
-  city: Jacksonville
-  state: MI

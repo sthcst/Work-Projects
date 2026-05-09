@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Carter
-  email: jeffrey.carter9326@gmail.com
-  phone: +1 729-545-4127
-  ssn: 897-83-8145
-  dob: 04/11/1961
-  address: 2516 First Court
-  city: Philadelphia
-  state: MA

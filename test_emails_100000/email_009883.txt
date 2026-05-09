@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Dominguez,joseph.dominguez1755@business.net,+1 522-642-2996,243-01-3018,02/12/2002,"6286 Summer Dr",Boston,AZ

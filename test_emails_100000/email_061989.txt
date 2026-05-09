@@ -1,9 +1,0 @@
-contact:
-  name: George Smith
-  email: george.smith9242@company.com
-  phone: +1 638-554-6825
-  ssn: 879928584
-  dob: 09-25-1968
-  address: 3186 Oak Court
-  city: Los Angeles
-  state: AZ

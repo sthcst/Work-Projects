@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Thompson
-  email: jeffrey.thompson2895@outlook.com
-  phone: +1 735-495-2187
-  ssn: 125159154
-  dob: 12-15-1997
-  address: 8561 Summer Ln
-  city: Phoenix
-  state: MD

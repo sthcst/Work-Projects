@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Reyes,kenneth.reyes1130@yahoo.com,975 900 5420,351 78 7395,01/19/1990,"8478 Cedar St",Phoenix,IL

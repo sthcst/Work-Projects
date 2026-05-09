@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Murillo,jason.murillo1110@work.org,(600) 725-5874,854815486,05/12/1980,"8764 Main Blvd",Dallas,FL

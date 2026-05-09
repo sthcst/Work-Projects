@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Hall
-  email: jessica.hall6817@outlook.com
-  phone: 919-991-2270
-  ssn: 078049866
-  dob: 04/01/1994
-  address: 182 Spring Rd
-  city: Jacksonville
-  state: AZ

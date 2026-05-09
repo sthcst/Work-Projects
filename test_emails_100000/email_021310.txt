@@ -1,9 +1,0 @@
-contact:
-  name: David Jones
-  email: david.jones894@work.org
-  phone: (549) 267-4298
-  ssn: 141-54-5481
-  dob: 10/1/1971
-  address: 9772 Spring Ln
-  city: Austin
-  state: TX

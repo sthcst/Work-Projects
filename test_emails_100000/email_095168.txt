@@ -1,9 +1,0 @@
-contact:
-  name: Megan Nunez
-  email: megan.nunez6962@business.net
-  phone: (650) 407-1334
-  ssn: 442 76 2600
-  dob: 3/11/1966
-  address: 5477 South Blvd
-  city: San Jose
-  state: FL

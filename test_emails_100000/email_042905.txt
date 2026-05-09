@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Nelson,jason.nelson7725@outlook.com,(252) 977-8880,997-37-3237,02/11/1966,"5779 Elm Court",Los Angeles,DC

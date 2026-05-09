@@ -1,9 +1,0 @@
-contact:
-  name: James Guerrero
-  email: james.guerrero4894@example.com
-  phone: 753 413 9136
-  ssn: 445 90 5843
-  dob: 11/5/1991
-  address: 2608 First Dr
-  city: San Diego
-  state: AZ

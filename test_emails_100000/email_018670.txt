@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Flores,kevin.flores6353@mail.com,590-429-6954,866-66-2773,6/6/1986,"8695 Oak Blvd",Los Angeles,TN

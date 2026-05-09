@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Gomez,charles.gomez5502@company.com,377 935 6195,322083280,03-22-1960,"2931 Fifth Rd",Boston,CA

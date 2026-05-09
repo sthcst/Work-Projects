@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Hernandez
-  email: cynthia.hernandez4414@business.net
-  phone: 879-608-3685
-  ssn: 266-71-4935
-  dob: 21/01/1964
-  address: 6862 Spring Blvd
-  city: Los Angeles
-  state: MO

@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Delgado
-  email: timothy.delgado7306@work.org
-  phone: 344-254-5186
-  ssn: 351-87-5454
-  dob: 08/24/2005
-  address: 468 South Ave
-  city: San Jose
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Gomez,samantha.gomez7440@yahoo.com,322 898 9214,602-80-5698,11/20/1986,"8553 Fifth Ave",Boston,AZ

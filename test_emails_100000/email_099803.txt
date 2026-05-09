@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Davis
-  email: jessica.davis2540@business.net
-  phone: 939-779-6997
-  ssn: 534246886
-  dob: 03/22/1957
-  address: 1102 Spring Blvd
-  city: Houston
-  state: WA

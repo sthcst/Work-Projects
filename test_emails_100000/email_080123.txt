@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Jackson
-  email: ashley.jackson1664@mail.com
-  phone: 276 406 9990
-  ssn: 579162060
-  dob: 5/8/1968
-  address: 3087 Summer Rd
-  city: San Jose
-  state: VA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Jimenez,charles.jimenez2967@business.net,(751) 711-8171,392-85-1446,02/11/1992,"3051 North Ave",San Antonio,WA

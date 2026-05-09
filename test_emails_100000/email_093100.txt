@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Lopez
-  email: jessica.lopez8311@gmail.com
-  phone: 574-572-4487
-  ssn: 637812395
-  dob: 15/01/2001
-  address: 8993 South Dr
-  city: Dallas
-  state: AZ

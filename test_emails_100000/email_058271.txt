@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Ortiz,jessica.ortiz7309@company.com,(930) 254-4738,742 34 2968,03/20/1974,"7998 First Way",San Diego,AZ

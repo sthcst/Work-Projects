@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Smith,pamela.smith2826@outlook.com,(559) 500-4764,363-71-1952,04-06-1979,"9502 South Way",New York,WA

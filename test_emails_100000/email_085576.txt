@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Smith,steven.smith9064@work.org,(846) 692-7455,681773122,28/06/2004,"674 Fifth Dr",Seattle,DC

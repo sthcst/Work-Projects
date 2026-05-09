@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Wilson,gary.wilson8501@work.org,775-345-1746,125579739,16/04/1971,"5366 Summer Blvd",Boston,IL

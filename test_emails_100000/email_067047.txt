@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Young,emma.young4108@yahoo.com,894 798 3098,697-67-5633,01/12/1978,"2271 Fifth Ln",Chicago,CA

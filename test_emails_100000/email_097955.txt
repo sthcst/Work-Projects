@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Brown,jacob.brown7173@outlook.com,694 372 7299,804 49 9755,08/28/1991,"369 North Rd",Austin,CO

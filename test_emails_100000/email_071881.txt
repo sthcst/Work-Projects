@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Garcia
-  email: kenneth.garcia4113@business.net
-  phone: 514-577-9638
-  ssn: 223 07 5469
-  dob: 08/03/1984
-  address: 7592 First Dr
-  city: New York
-  state: TX

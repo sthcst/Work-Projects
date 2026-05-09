@@ -1,9 +1,0 @@
-contact:
-  name: Joseph White
-  email: joseph.white8951@business.net
-  phone: +1 920-606-1381
-  ssn: 143393457
-  dob: 04/07/1995
-  address: 3643 Main Court
-  city: Austin
-  state: CO

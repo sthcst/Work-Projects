@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Rogers
-  email: jeffrey.rogers270@business.net
-  phone: (761) 432-1102
-  ssn: 043-92-4374
-  dob: 10/07/1961
-  address: 4308 Main Blvd
-  city: Phoenix
-  state: WA

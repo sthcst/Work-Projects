@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Bell
-  email: pamela.bell6741@example.com
-  phone: +1 466-930-8139
-  ssn: 923 64 5400
-  dob: 03-03-1965
-  address: 6037 Third Court
-  city: San Jose
-  state: OH

@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Edwards
-  email: christopher.edwards5575@example.com
-  phone: +1 341-814-8453
-  ssn: 262-56-9761
-  dob: 01/28/2002
-  address: 3227 West Rd
-  city: San Jose
-  state: TX

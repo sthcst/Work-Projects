@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Lee,michael.lee4420@gmail.com,695 336 6435,675-15-3018,05-07-1966,"879 Fourth Blvd",Seattle,CA

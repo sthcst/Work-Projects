@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Delgado,deborah.delgado7028@company.com,431-810-6646,751338450,6/23/1997,"7642 South Court",Dallas,WI

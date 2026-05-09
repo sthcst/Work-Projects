@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Clark,joseph.clark107@gmail.com,852 527 2330,903-70-3177,01-23-1993,"329 Sixth Ave",Philadelphia,OH

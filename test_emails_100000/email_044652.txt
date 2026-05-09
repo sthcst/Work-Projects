@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Clark,maria.clark3364@outlook.com,217 765 2101,503143048,02/25/1987,"7714 Main Blvd",Washington,MA

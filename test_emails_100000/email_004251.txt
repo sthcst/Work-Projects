@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Dominguez
-  email: stephanie.dominguez2456@example.com
-  phone: 874 999 9616
-  ssn: 402259352
-  dob: 12/15/1980
-  address: 5177 East Blvd
-  city: Houston
-  state: CA

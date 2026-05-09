@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Reeves
-  email: katherine.reeves1504@outlook.com
-  phone: 344 641 8283
-  ssn: 177-79-5648
-  dob: 01/21/1990
-  address: 6472 Park Dr
-  city: New York
-  state: GA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Phillips,amanda.phillips3824@example.com,(846) 493-6066,443693139,3/6/1999,"8905 Oak Dr",Houston,CA

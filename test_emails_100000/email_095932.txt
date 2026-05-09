@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Jackson,daniel.jackson3542@outlook.com,(865) 401-9998,569-34-3039,03/02/2003,"2126 Cedar Ln",Jacksonville,TX

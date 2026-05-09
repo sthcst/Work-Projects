@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Martin
-  email: michelle.martin8860@example.com
-  phone: 284 769 2941
-  ssn: 990141390
-  dob: 17/09/1974
-  address: 9323 Park St
-  city: Chicago
-  state: MA

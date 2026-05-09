@@ -1,9 +1,0 @@
-contact:
-  name: William Davis
-  email: william.davis2012@business.net
-  phone: (908) 373-5595
-  ssn: 282 10 7284
-  dob: 18/06/2000
-  address: 9676 Main Court
-  city: Austin
-  state: FL

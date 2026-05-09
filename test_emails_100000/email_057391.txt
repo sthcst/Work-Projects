@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Robinson,edward.robinson4959@outlook.com,(893) 817-4578,213 08 9719,12-20-1989,"360 Second Ln",New York,CA

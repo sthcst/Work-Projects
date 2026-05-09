@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Lewis,edward.lewis8375@company.com,+1 238-549-5665,686 83 5299,06/08/1970,"7023 First Ave",New York,GA

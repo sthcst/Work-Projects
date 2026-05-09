@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Davis,rachel.davis9269@gmail.com,738 879 5416,987 88 4725,05/07/1969,"4486 Sixth Court",San Diego,WA

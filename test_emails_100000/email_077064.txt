@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Phillips
-  email: nicole.phillips967@company.com
-  phone: 841-416-5512
-  ssn: 188486212
-  dob: 01/08/1954
-  address: 9442 South Rd
-  city: Phoenix
-  state: TN

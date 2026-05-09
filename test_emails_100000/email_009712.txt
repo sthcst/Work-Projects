@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Jones
-  email: sarah.jones343@example.com
-  phone: (523) 515-2547
-  ssn: 063-91-9263
-  dob: 11/12/1966
-  address: 5242 Fourth Ln
-  city: Houston
-  state: CA

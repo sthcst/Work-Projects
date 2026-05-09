@@ -1,9 +1,0 @@
-contact:
-  name: Christine Morgan
-  email: christine.morgan3729@outlook.com
-  phone: (585) 956-7158
-  ssn: 851-72-7841
-  dob: 25/05/1961
-  address: 5681 Summer Way
-  city: Houston
-  state: TN

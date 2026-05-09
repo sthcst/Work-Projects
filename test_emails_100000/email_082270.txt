@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Alvarado,john.alvarado1315@company.com,962 499 5730,232 69 4532,02-26-1991,"1728 Third Way",Boston,FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Reyes,rachel.reyes2968@outlook.com,+1 902-594-7771,358383960,11-02-1979,"3499 Spring Court",Seattle,TN

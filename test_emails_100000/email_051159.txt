@@ -1,9 +1,0 @@
-contact:
-  name: Richard Hall
-  email: richard.hall6155@yahoo.com
-  phone: (953) 626-9642
-  ssn: 761795734
-  dob: 02/11/1991
-  address: 6827 Birch Blvd
-  city: Washington
-  state: MD

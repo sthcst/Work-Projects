@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Romero,jason.romero9551@yahoo.com,923 812 7936,489754374,09-27-1972,"4264 Fifth Dr",Dallas,WA

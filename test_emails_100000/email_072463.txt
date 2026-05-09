@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Brown
-  email: rebecca.brown3185@company.com
-  phone: 271-444-8161
-  ssn: 234 23 8414
-  dob: 02/05/1994
-  address: 9010 Third St
-  city: San Antonio
-  state: WA

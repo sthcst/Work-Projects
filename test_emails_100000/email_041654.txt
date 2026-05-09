@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Collins
-  email: michelle.collins6622@work.org
-  phone: +1 229-724-6105
-  ssn: 940234506
-  dob: 6/18/1977
-  address: 4898 Cedar Dr
-  city: Washington
-  state: WI

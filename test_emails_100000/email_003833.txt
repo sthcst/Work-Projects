@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Lee
-  email: matthew.lee7785@yahoo.com
-  phone: +1 965-682-1217
-  ssn: 231 16 1203
-  dob: 04/24/1981
-  address: 8679 Oak Rd
-  city: New York
-  state: MO

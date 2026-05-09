@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Morris,megan.morris4496@gmail.com,584 362 6396,803071749,04-25-1980,"3360 Elm Ave",Houston,NJ

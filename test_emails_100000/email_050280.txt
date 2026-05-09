@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Martinez,andrew.martinez9025@mail.com,+1 447-955-3979,022204830,03-20-1988,"8195 Elm Ln",Philadelphia,AZ

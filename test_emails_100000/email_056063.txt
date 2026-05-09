@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Hall,robert.hall8932@gmail.com,+1 269-561-7554,716-11-6320,08/02/1962,"8821 Elm Ave",Dallas,NJ

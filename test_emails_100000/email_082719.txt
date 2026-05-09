@@ -1,9 +1,0 @@
-contact:
-  name: John Anderson
-  email: john.anderson3413@company.com
-  phone: (977) 753-3004
-  ssn: 853 94 3600
-  dob: 08/11/1977
-  address: 1482 First Way
-  city: Jacksonville
-  state: WI

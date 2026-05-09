@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Robinson
-  email: michelle.robinson1644@outlook.com
-  phone: 555-838-8289
-  ssn: 046159383
-  dob: 03-15-1967
-  address: 7161 Fifth Ln
-  city: New York
-  state: VA

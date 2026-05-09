@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Perez
-  email: ashley.perez3230@gmail.com
-  phone: (795) 790-6886
-  ssn: 327533892
-  dob: 03-23-1986
-  address: 1266 North Court
-  city: Washington
-  state: MA

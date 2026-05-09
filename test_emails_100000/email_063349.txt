@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Hernandez
-  email: amanda.hernandez322@company.com
-  phone: (457) 334-8794
-  ssn: 723498280
-  dob: 08-28-1958
-  address: 9515 Fourth Court
-  city: Dallas
-  state: MI

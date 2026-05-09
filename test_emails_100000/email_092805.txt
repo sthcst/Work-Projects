@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Jimenez,andrew.jimenez8419@gmail.com,618 368 2284,635 25 2715,24/06/1984,"3285 North Blvd",Washington,FL

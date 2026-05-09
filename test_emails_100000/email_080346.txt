@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Brown,matthew.brown180@company.com,362-272-5131,385-81-8837,13/11/1959,"3064 West Way",Boston,CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Delgado,jessica.delgado5589@company.com,885 536 3933,754-78-9082,06/04/1991,"1953 Spring Rd",San Diego,WI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Rogers,jennifer.rogers944@mail.com,(430) 451-5271,973261569,04-03-1955,"8677 Second Way",New York,FL

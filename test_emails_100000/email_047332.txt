@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Harris,george.harris6158@yahoo.com,(986) 631-6574,117168478,5/17/1989,"2223 Pine Blvd",Denver,GA

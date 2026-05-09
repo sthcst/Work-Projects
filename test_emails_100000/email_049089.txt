@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Taylor,deborah.taylor8397@business.net,388-434-3920,315-67-9947,16/02/2005,"3087 East Ave",San Antonio,FL

@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Reed
-  email: ashley.reed3766@mail.com
-  phone: +1 210-776-8709
-  ssn: 708028462
-  dob: 1/9/1995
-  address: 2352 Cedar Ave
-  city: Austin
-  state: TX

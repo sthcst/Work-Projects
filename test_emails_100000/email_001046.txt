@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Ramirez,robert.ramirez8584@gmail.com,461 853 2116,063 37 2006,03/04/1972,"6317 Third Blvd",Chicago,NJ

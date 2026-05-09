@@ -1,9 +1,0 @@
-contact:
-  name: Christine Reeves
-  email: christine.reeves8446@gmail.com
-  phone: 887-249-2145
-  ssn: 517865002
-  dob: 5/26/1988
-  address: 1619 Spring Dr
-  city: Seattle
-  state: IL

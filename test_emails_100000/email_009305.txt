@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Edwards,angela.edwards4286@mail.com,(768) 235-6389,635-17-5096,13/01/1987,"3502 Pine Ln",Denver,TX

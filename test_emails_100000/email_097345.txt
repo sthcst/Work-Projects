@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Carter
-  email: joshua.carter6887@gmail.com
-  phone: +1 272-675-1138
-  ssn: 308 20 8428
-  dob: 04-15-1952
-  address: 4929 Pine St
-  city: Austin
-  state: NC

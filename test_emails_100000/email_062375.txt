@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Thompson,stephanie.thompson6606@gmail.com,+1 636-640-2142,855-76-4595,11/3/1999,"2330 Second St",San Diego,DC

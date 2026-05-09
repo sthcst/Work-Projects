@@ -1,9 +1,0 @@
-contact:
-  name: John Williams
-  email: john.williams2064@work.org
-  phone: 515 301 9888
-  ssn: 507281557
-  dob: 06-12-1990
-  address: 6982 South Rd
-  city: Boston
-  state: FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Garcia,christine.garcia2906@business.net,252 383 7388,831493081,11-17-1953,"5916 First St",Jacksonville,DC

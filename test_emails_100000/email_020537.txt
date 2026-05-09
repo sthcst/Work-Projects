@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Stewart,paul.stewart6971@example.com,(578) 764-9981,793186337,3/15/1985,"4778 South Court",Denver,PA

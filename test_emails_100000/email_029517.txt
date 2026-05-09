@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Hall
-  email: ryan.hall3242@example.com
-  phone: 324-637-3756
-  ssn: 322 09 9866
-  dob: 09-19-1996
-  address: 3684 Park Court
-  city: Chicago
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Maria Delgado
-  email: maria.delgado1292@yahoo.com
-  phone: 332 618 7502
-  ssn: 357-25-4292
-  dob: 27/07/1978
-  address: 3596 Sixth Blvd
-  city: San Jose
-  state: TX

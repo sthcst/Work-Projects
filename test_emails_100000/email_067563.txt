@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Garcia,deborah.garcia9953@outlook.com,+1 775-374-7753,261-10-7445,5/17/1973,"5830 Birch Dr",San Diego,CO

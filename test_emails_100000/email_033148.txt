@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Flores,rebecca.flores2071@work.org,(718) 650-6993,288 26 8841,20/06/1991,"8614 Maple Ave",Phoenix,TX

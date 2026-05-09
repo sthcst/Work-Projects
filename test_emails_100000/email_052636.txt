@@ -1,9 +1,0 @@
-contact:
-  name: Maria Clark
-  email: maria.clark9023@outlook.com
-  phone: (411) 560-9265
-  ssn: 608 47 1921
-  dob: 11/23/1990
-  address: 3133 Fourth Ln
-  city: Boston
-  state: WI

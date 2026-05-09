@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Garcia,gary.garcia61@company.com,+1 530-592-5643,630 90 5047,11/02/1980,"6828 Cedar St",Jacksonville,GA

@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Cooper
-  email: ashley.cooper2816@example.com
-  phone: (744) 222-2560
-  ssn: 096-92-9284
-  dob: 12/22/1996
-  address: 8656 East Blvd
-  city: Los Angeles
-  state: TX

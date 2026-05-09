@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Lopez,jennifer.lopez4002@yahoo.com,(344) 722-4327,772-69-5203,09/28/1950,"4373 Fifth St",San Antonio,AZ

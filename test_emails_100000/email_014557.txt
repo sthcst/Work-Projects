@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Lewis,mark.lewis6199@example.com,440-591-9103,249 83 5808,03-10-1993,"9896 Spring Ln",Chicago,NC

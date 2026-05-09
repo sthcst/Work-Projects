@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Roberts,stephanie.roberts3889@gmail.com,+1 973-443-7202,704-51-7237,09-03-2002,"8713 Park Dr",Dallas,WA

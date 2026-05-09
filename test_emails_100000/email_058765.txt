@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Clark,rachel.clark7909@example.com,919-817-4620,169-57-2345,18/03/1972,"2498 East Court",Washington,IL

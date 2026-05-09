@@ -1,9 +1,0 @@
-contact:
-  name: Charles Reyes
-  email: charles.reyes4379@gmail.com
-  phone: (550) 936-7031
-  ssn: 099174294
-  dob: 25/01/1968
-  address: 4796 Pine Court
-  city: Seattle
-  state: AZ

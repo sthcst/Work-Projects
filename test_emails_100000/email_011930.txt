@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Edwards,stephanie.edwards3347@business.net,(235) 313-2194,284382438,6/25/1950,"2415 Cedar Way",Jacksonville,DC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Evans,rachel.evans9732@business.net,804 600 3685,079126394,12/7/2002,"7304 Second Way",Seattle,TX

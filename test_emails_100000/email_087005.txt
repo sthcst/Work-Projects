@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Brown,jane.brown1283@company.com,264-649-9449,523841794,24/10/1992,"5031 Maple Blvd",Seattle,NJ

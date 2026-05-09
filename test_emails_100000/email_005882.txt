@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Stewart
-  email: katherine.stewart4098@gmail.com
-  phone: (308) 505-8702
-  ssn: 828 04 2951
-  dob: 4/18/1985
-  address: 3072 Park Rd
-  city: Philadelphia
-  state: DC

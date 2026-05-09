@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Davis
-  email: cynthia.davis4802@company.com
-  phone: +1 647-587-5196
-  ssn: 162-45-6550
-  dob: 12/22/1975
-  address: 8802 Maple Dr
-  city: Austin
-  state: TX

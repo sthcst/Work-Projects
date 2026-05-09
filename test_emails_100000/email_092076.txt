@@ -1,9 +1,0 @@
-contact:
-  name: Angela Robinson
-  email: angela.robinson2024@example.com
-  phone: +1 405-827-3836
-  ssn: 455-85-8603
-  dob: 06-13-1987
-  address: 507 Elm Ave
-  city: New York
-  state: MD

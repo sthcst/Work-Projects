@@ -1,9 +1,0 @@
-contact:
-  name: Maria Bell
-  email: maria.bell3211@outlook.com
-  phone: 899-689-2497
-  ssn: 296653604
-  dob: 06/10/2003
-  address: 2129 Cedar Blvd
-  city: Jacksonville
-  state: TX

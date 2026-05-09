@@ -1,9 +1,0 @@
-contact:
-  name: Maria Morgan
-  email: maria.morgan4596@work.org
-  phone: (298) 441-5017
-  ssn: 874-54-2115
-  dob: 10/20/1959
-  address: 6139 Fifth Way
-  city: Phoenix
-  state: CO

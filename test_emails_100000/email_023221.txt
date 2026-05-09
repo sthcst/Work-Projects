@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Lewis,maria.lewis9230@work.org,+1 728-599-2069,203121770,05/07/1970,"218 Summer Ave",San Jose,DC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Brown,christine.brown3237@example.com,+1 536-795-3529,230-33-5501,18/01/1991,"418 West Court",Washington,TN

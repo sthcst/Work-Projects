@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Martinez,deborah.martinez7761@gmail.com,(423) 851-7821,531657910,09/02/1974,"4360 Cedar Ln",Boston,MI

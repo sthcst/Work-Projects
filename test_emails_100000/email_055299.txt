@@ -1,9 +1,0 @@
-contact:
-  name: Richard Morris
-  email: richard.morris8854@mail.com
-  phone: (701) 673-3470
-  ssn: 998715029
-  dob: 09-14-1965
-  address: 6574 Sixth Court
-  city: Austin
-  state: MD

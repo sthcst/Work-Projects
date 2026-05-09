@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Ortiz,emily.ortiz6046@gmail.com,352 631 4728,467-97-2281,03-04-1973,"3548 Summer Ln",Chicago,DC

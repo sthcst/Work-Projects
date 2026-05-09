@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Perez,daniel.perez9792@work.org,709 497 9560,972-58-9211,10-16-1954,"5863 Second Dr",Phoenix,VA

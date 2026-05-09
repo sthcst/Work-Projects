@@ -1,9 +1,0 @@
-contact:
-  name: Angela Moore
-  email: angela.moore5086@mail.com
-  phone: 442-845-1464
-  ssn: 736 49 3104
-  dob: 8/16/1997
-  address: 4895 Second Court
-  city: New York
-  state: MA

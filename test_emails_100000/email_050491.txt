@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Ortiz
-  email: kevin.ortiz6259@business.net
-  phone: +1 832-398-7907
-  ssn: 188-53-6862
-  dob: 10/24/2005
-  address: 1027 East Court
-  city: Boston
-  state: MD

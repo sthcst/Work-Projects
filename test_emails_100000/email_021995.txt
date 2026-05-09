@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Alvarado,andrew.alvarado9193@yahoo.com,985-302-6282,393 51 4067,11/6/1976,"5621 Cedar Dr",San Jose,CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Rogers,brian.rogers8468@company.com,+1 467-355-5498,535 22 5841,26/08/1962,"9630 Cedar Court",Dallas,CA

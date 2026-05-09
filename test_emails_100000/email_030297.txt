@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Williams,katherine.williams328@example.com,+1 852-566-8869,966-75-9178,11-22-1969,"4293 West Ave",San Antonio,WA

@@ -1,9 +1,0 @@
-contact:
-  name: Robert Carter
-  email: robert.carter899@yahoo.com
-  phone: 297-430-6922
-  ssn: 207 05 9313
-  dob: 6/3/1960
-  address: 3417 Second Ave
-  city: Dallas
-  state: NY

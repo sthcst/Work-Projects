@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Hall,samantha.hall2656@company.com,(551) 460-7264,397576371,9/24/1975,"8327 Fourth St",New York,TX

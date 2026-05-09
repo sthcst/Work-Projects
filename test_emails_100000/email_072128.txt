@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Evans,kevin.evans5703@mail.com,+1 590-252-5876,889408495,11/25/1964,"8095 Oak Dr",Phoenix,FL

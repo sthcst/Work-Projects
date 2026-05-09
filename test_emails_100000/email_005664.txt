@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Campbell,michael.campbell2149@business.net,+1 907-745-1713,296 87 1934,11/4/1952,"2106 Sixth Way",Chicago,MI

@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Robinson
-  email: kevin.robinson4532@work.org
-  phone: 284 867 7658
-  ssn: 669 06 9819
-  dob: 16/08/1983
-  address: 9304 Park Ave
-  city: New York
-  state: MD

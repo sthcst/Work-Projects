@@ -1,9 +1,0 @@
-contact:
-  name: Angela Dominguez
-  email: angela.dominguez6193@business.net
-  phone: 532 264 2057
-  ssn: 401-87-4461
-  dob: 7/19/1986
-  address: 8830 Birch Ave
-  city: San Diego
-  state: MA

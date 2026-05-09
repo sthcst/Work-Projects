@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Hall
-  email: jennifer.hall5764@mail.com
-  phone: (219) 832-2313
-  ssn: 311858400
-  dob: 02-09-1969
-  address: 8037 Second Dr
-  city: Washington
-  state: CA

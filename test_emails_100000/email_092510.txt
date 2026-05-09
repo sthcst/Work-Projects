@@ -1,9 +1,0 @@
-contact:
-  name: Steven Gomez
-  email: steven.gomez176@example.com
-  phone: +1 574-631-7273
-  ssn: 030631003
-  dob: 11/22/1977
-  address: 3099 West Ave
-  city: San Antonio
-  state: AZ

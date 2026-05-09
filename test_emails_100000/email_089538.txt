@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Morris
-  email: rachel.morris5324@mail.com
-  phone: (317) 572-7585
-  ssn: 755 72 5853
-  dob: 08-11-1956
-  address: 8756 Summer Ln
-  city: Seattle
-  state: PA

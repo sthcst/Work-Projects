@@ -1,9 +1,0 @@
-contact:
-  name: George Williams
-  email: george.williams2974@company.com
-  phone: 224 740 1456
-  ssn: 792-11-3772
-  dob: 19/09/1964
-  address: 4628 Spring Blvd
-  city: Austin
-  state: TX

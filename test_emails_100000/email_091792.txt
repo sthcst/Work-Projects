@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Williams,richard.williams8649@company.com,679 402 8085,899-83-9582,11/4/1958,"6499 Elm Blvd",Seattle,PA

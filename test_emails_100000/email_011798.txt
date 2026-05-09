@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Jackson,lisa.jackson6087@yahoo.com,(413) 711-6460,857 92 4223,5/13/1970,"2827 Oak Court",Philadelphia,AZ

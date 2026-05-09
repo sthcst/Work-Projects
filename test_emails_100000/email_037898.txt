@@ -1,9 +1,0 @@
-contact:
-  name: Jane Perez
-  email: jane.perez8476@business.net
-  phone: (532) 340-4949
-  ssn: 536507921
-  dob: 13/11/1970
-  address: 4605 Spring Dr
-  city: Houston
-  state: MD

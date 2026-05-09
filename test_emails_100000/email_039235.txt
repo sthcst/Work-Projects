@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Morgan,timothy.morgan4339@work.org,229 910 6134,298 56 4521,7/14/1973,"3719 Birch St",San Antonio,NC

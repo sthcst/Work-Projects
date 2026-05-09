@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Martin,shirley.martin6598@yahoo.com,697-443-2832,888-86-2062,03/23/1964,"3578 First St",Los Angeles,AZ

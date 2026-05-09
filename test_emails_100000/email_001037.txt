@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Walker
-  email: stephanie.walker1199@company.com
-  phone: (465) 647-6645
-  ssn: 614 85 9228
-  dob: 7/20/1963
-  address: 7853 Fourth Dr
-  city: Houston
-  state: DC

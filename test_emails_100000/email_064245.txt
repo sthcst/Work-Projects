@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Nelson,ronald.nelson1189@business.net,+1 304-394-2305,572-91-3858,03-09-1951,"9347 First Way",Seattle,FL

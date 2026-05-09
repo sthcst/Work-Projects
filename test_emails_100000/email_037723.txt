@@ -1,9 +1,0 @@
-contact:
-  name: Brian Johnson
-  email: brian.johnson4638@company.com
-  phone: 323-578-2113
-  ssn: 436 06 3150
-  dob: 25/11/1974
-  address: 5685 Main Dr
-  city: San Jose
-  state: FL

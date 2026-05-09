@@ -1,9 +1,0 @@
-contact:
-  name: William Cooper
-  email: william.cooper3602@outlook.com
-  phone: (692) 509-7954
-  ssn: 807-27-5849
-  dob: 23/08/1951
-  address: 749 South Ln
-  city: Phoenix
-  state: CO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Dominguez,jessica.dominguez278@outlook.com,430 779 3609,954839334,09/15/2005,"7898 Oak Dr",San Diego,OH

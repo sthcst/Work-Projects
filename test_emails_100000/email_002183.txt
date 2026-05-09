@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Clark
-  email: samantha.clark5460@company.com
-  phone: (369) 684-1561
-  ssn: 134 65 7583
-  dob: 07-17-1977
-  address: 8846 Spring Ln
-  city: Chicago
-  state: IL

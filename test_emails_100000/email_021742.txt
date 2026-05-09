@@ -1,9 +1,0 @@
-contact:
-  name: Robert Reed
-  email: robert.reed2076@yahoo.com
-  phone: +1 749-925-3688
-  ssn: 685-47-2163
-  dob: 10-25-1994
-  address: 70 Oak Dr
-  city: Washington
-  state: IL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Brown,jacob.brown425@business.net,+1 433-581-2277,127223014,08-19-1993,"9954 Fifth Court",Washington,NC

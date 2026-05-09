@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Lopez
-  email: jennifer.lopez1006@business.net
-  phone: +1 842-279-9856
-  ssn: 189956065
-  dob: 2/14/1978
-  address: 9213 Pine Blvd
-  city: Phoenix
-  state: TX

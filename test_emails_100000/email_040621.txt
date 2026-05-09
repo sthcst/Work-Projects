@@ -1,9 +1,0 @@
-contact:
-  name: Brian Brown
-  email: brian.brown3196@work.org
-  phone: 897 991 6888
-  ssn: 528 25 7309
-  dob: 02-02-1950
-  address: 5624 Pine Blvd
-  city: San Diego
-  state: CA

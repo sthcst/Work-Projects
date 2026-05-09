@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Thompson
-  email: katherine.thompson9914@mail.com
-  phone: 465 537 3658
-  ssn: 956 34 3419
-  dob: 04-23-1987
-  address: 8520 Cedar Ln
-  city: San Jose
-  state: TX

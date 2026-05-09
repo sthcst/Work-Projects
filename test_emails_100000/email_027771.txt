@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Smith
-  email: nicholas.smith2590@work.org
-  phone: 573-469-4353
-  ssn: 312-18-3138
-  dob: 04-02-2004
-  address: 948 Second Ln
-  city: Washington
-  state: PA

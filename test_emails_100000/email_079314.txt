@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Reyes
-  email: deborah.reyes6566@example.com
-  phone: 381-701-4591
-  ssn: 420-62-9806
-  dob: 9/1/1991
-  address: 70 First Ln
-  city: Philadelphia
-  state: TX

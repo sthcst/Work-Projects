@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Stewart,maria.stewart4647@example.com,+1 364-654-9498,936 64 3862,26/05/1978,"1252 First Dr",New York,CO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Jones,samantha.jones3652@business.net,391-526-7909,967-42-7710,11/05/2002,"2391 Elm Blvd",Washington,CA

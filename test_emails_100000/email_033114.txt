@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Serrano,helen.serrano7680@outlook.com,807 974 5627,100-31-7578,11/04/1966,"8545 Main Court",New York,MO

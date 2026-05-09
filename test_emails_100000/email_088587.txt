@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Campbell
-  email: kathleen.campbell4784@work.org
-  phone: +1 695-469-2104
-  ssn: 928 78 1491
-  dob: 11/10/1996
-  address: 6490 Spring Court
-  city: Chicago
-  state: MI

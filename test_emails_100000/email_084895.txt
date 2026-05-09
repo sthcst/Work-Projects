@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Delgado,pamela.delgado9322@mail.com,750-297-2418,340-07-3478,15/10/1995,"8511 Oak Way",Philadelphia,FL

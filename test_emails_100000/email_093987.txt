@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Morris
-  email: lauren.morris1770@yahoo.com
-  phone: (324) 466-5166
-  ssn: 960 33 3631
-  dob: 06/04/1992
-  address: 4593 Sixth Rd
-  city: Dallas
-  state: TN

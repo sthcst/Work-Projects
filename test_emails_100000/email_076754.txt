@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Rogers,jane.rogers3685@business.net,301 589 1662,064538763,08-22-1969,"6479 Third Ln",Denver,AZ

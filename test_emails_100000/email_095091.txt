@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Lewis
-  email: brenda.lewis6054@outlook.com
-  phone: (424) 648-7499
-  ssn: 764 21 3072
-  dob: 08-10-1976
-  address: 8139 Fifth St
-  city: Chicago
-  state: WI

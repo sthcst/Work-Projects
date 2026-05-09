@@ -1,9 +1,0 @@
-contact:
-  name: John Martin
-  email: john.martin8401@work.org
-  phone: 782-332-9760
-  ssn: 310 40 5489
-  dob: 12/22/1991
-  address: 8570 Main Dr
-  city: San Antonio
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Bell,jessica.bell3606@work.org,(667) 510-5589,164384991,1/25/1988,"1859 Elm Way",Jacksonville,CA

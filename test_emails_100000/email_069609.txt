@@ -1,9 +1,0 @@
-contact:
-  name: Christine Jimenez
-  email: christine.jimenez8239@work.org
-  phone: (738) 401-8790
-  ssn: 904638514
-  dob: 6/16/1981
-  address: 1162 Main Ln
-  city: San Diego
-  state: CO

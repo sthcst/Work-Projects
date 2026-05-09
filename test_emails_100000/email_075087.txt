@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Smith,cynthia.smith3234@gmail.com,+1 576-554-2775,576-52-1590,11/13/1999,"9220 Elm Way",Dallas,FL

@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Parker
-  email: kathleen.parker6388@company.com
-  phone: 592 467 8879
-  ssn: 264 73 8102
-  dob: 10/04/1965
-  address: 1371 Main Ave
-  city: Jacksonville
-  state: AZ

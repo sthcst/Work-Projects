@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Stewart
-  email: deborah.stewart634@business.net
-  phone: (658) 684-5013
-  ssn: 710-71-4535
-  dob: 10/28/1954
-  address: 6476 Fifth Blvd
-  city: San Antonio
-  state: FL

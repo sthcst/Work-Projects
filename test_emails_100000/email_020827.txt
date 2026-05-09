@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Young,jacob.young644@outlook.com,692-324-3239,807246323,1/2/1999,"4689 Fifth Dr",New York,IL

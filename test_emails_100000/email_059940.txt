@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Gonzalez
-  email: jennifer.gonzalez9935@yahoo.com
-  phone: +1 812-671-9947
-  ssn: 367286401
-  dob: 02-03-1991
-  address: 4268 First Court
-  city: New York
-  state: WA

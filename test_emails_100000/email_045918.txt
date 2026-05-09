@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Delgado,jane.delgado9773@company.com,(466) 312-5869,997-21-7988,5/15/1996,"8544 West Court",Los Angeles,TX

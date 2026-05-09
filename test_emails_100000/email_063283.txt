@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Jimenez,cynthia.jimenez202@example.com,839 656 8516,359 70 5628,03/09/1981,"6904 North Ave",Denver,MO

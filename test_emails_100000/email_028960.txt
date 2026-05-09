@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Hernandez
-  email: daniel.hernandez5169@business.net
-  phone: 674 771 7135
-  ssn: 597747137
-  dob: 4/3/1970
-  address: 4160 Spring Way
-  city: Los Angeles
-  state: IL

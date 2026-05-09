@@ -1,9 +1,0 @@
-contact:
-  name: Christine Martinez
-  email: christine.martinez6485@work.org
-  phone: 876 478 2439
-  ssn: 655595480
-  dob: 8/24/1960
-  address: 6308 Park Blvd
-  city: Dallas
-  state: TX

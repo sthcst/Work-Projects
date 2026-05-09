@@ -1,9 +1,0 @@
-contact:
-  name: John Bell
-  email: john.bell3138@outlook.com
-  phone: 204-718-6528
-  ssn: 945 56 4288
-  dob: 07-09-2000
-  address: 6497 Oak Rd
-  city: Jacksonville
-  state: WA

@@ -1,9 +1,0 @@
-contact:
-  name: William Jones
-  email: william.jones6647@mail.com
-  phone: 233 955 1357
-  ssn: 501447525
-  dob: 04-08-1988
-  address: 9806 Birch Rd
-  city: Dallas
-  state: TN

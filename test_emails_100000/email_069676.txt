@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Thomas
-  email: rachel.thomas694@yahoo.com
-  phone: +1 494-863-3541
-  ssn: 622 55 6725
-  dob: 07/11/1972
-  address: 3676 South Rd
-  city: Philadelphia
-  state: MI

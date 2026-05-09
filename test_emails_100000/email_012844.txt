@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Collins
-  email: amanda.collins3957@gmail.com
-  phone: (719) 924-2539
-  ssn: 390 70 7490
-  dob: 01-13-1987
-  address: 3088 Fourth Ave
-  city: San Diego
-  state: TX

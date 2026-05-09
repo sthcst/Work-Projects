@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Martinez
-  email: rachel.martinez8142@work.org
-  phone: 933 476 4243
-  ssn: 121 55 9639
-  dob: 04/12/1983
-  address: 443 Pine Blvd
-  city: Philadelphia
-  state: CA

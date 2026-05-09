@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Morgan,angela.morgan5045@work.org,592 703 7374,475 69 5028,08/25/1959,"5293 North Way",Boston,OH

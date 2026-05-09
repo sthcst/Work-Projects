@@ -1,9 +1,0 @@
-contact:
-  name: Jane Martinez
-  email: jane.martinez6074@yahoo.com
-  phone: 942-220-5994
-  ssn: 743279410
-  dob: 10/07/1952
-  address: 9623 Birch Court
-  city: Denver
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Lewis
-  email: katherine.lewis2454@yahoo.com
-  phone: 832 327 9618
-  ssn: 366-32-3617
-  dob: 04-26-1994
-  address: 9065 North Blvd
-  city: San Jose
-  state: NJ

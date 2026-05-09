@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Nunez,joseph.nunez6323@yahoo.com,(957) 843-5253,099 85 1563,10-12-1962,"1413 South Way",San Diego,IL

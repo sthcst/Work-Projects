@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Moore,anthony.moore2834@mail.com,442-341-5680,359111536,05/09/1987,"8400 Park Way",Boston,MD

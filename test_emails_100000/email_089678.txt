@@ -1,9 +1,0 @@
-contact:
-  name: Jason Walker
-  email: jason.walker4627@business.net
-  phone: (640) 209-9003
-  ssn: 864 29 9138
-  dob: 11/06/2004
-  address: 6293 First Dr
-  city: Jacksonville
-  state: TX

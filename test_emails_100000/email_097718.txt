@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Smith,lisa.smith1384@company.com,601-965-6648,090887520,22/08/1996,"6711 Cedar Blvd",Austin,WI

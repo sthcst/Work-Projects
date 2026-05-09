@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Morgan,joseph.morgan1294@work.org,481-571-7965,099-83-3815,08/16/1977,"5449 Elm Court",Denver,MI

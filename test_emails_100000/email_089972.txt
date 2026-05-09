@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Miller,william.miller9087@example.com,(280) 305-9140,133-93-7931,05-02-1989,"4280 Second St",Denver,TX

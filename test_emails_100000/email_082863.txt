@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Campbell
-  email: amanda.campbell5853@company.com
-  phone: +1 418-481-4459
-  ssn: 307 87 6606
-  dob: 11/5/1986
-  address: 5495 Second Ave
-  city: Chicago
-  state: MA

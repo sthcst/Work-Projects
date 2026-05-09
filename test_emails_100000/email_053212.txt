@@ -1,9 +1,0 @@
-contact:
-  name: Robert Lee
-  email: robert.lee5861@mail.com
-  phone: +1 257-403-1926
-  ssn: 878 48 4443
-  dob: 1/12/1994
-  address: 2560 Spring Way
-  city: Seattle
-  state: IL

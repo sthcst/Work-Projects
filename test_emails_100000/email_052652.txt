@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Edwards,nicole.edwards9392@business.net,689-992-7180,440-22-5663,06/02/2000,"4906 Second Ave",San Jose,GA

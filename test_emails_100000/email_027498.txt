@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Morgan
-  email: brenda.morgan1180@gmail.com
-  phone: +1 433-968-6758
-  ssn: 469225231
-  dob: 06-16-1975
-  address: 7580 Second Ln
-  city: Boston
-  state: TX

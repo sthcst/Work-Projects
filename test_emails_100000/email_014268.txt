@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Dominguez,kenneth.dominguez4488@outlook.com,(279) 964-7430,335-02-2753,07/26/1970,"6978 Oak Ave",Denver,MA

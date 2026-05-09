@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Johnson,ryan.johnson6395@outlook.com,(640) 406-8536,323495127,01/15/1965,"5594 Maple Ave",New York,CA

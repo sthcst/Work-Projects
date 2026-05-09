@@ -1,9 +1,0 @@
-contact:
-  name: Michael Hall
-  email: michael.hall8266@business.net
-  phone: 402 966 8343
-  ssn: 763-62-7797
-  dob: 4/18/1974
-  address: 2132 South Way
-  city: Austin
-  state: WA

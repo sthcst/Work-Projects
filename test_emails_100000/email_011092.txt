@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Reyes,angela.reyes2547@company.com,(279) 734-8404,168-45-5930,02-01-1971,"7738 Cedar Court",Phoenix,MA

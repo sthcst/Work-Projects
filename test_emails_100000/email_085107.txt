@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Ortiz
-  email: samantha.ortiz6529@work.org
-  phone: 797 743 2902
-  ssn: 043-86-5862
-  dob: 03/13/1961
-  address: 3103 Elm St
-  city: Seattle
-  state: CA

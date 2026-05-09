@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Cooper,lisa.cooper9916@company.com,242-820-8740,516-11-3222,02-10-1982,"3281 West St",San Jose,FL

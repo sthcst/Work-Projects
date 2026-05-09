@@ -1,9 +1,0 @@
-contact:
-  name: Paul Garcia
-  email: paul.garcia6858@work.org
-  phone: (599) 316-3452
-  ssn: 221433335
-  dob: 28/05/1972
-  address: 4098 South Court
-  city: Washington
-  state: CA

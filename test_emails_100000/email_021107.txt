@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Romero,james.romero1820@example.com,372-377-1089,790 72 2925,6/22/1950,"4743 West Rd",Philadelphia,TX

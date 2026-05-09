@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Guerrero,jessica.guerrero3283@work.org,(924) 683-6284,052-76-1974,3/23/1971,"763 Park Dr",Phoenix,GA

@@ -1,9 +1,0 @@
-contact:
-  name: Donald Lewis
-  email: donald.lewis8692@yahoo.com
-  phone: +1 789-854-6454
-  ssn: 922 14 7164
-  dob: 05-04-1985
-  address: 9513 Park Way
-  city: New York
-  state: CO

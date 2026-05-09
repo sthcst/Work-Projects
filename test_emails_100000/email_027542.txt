@@ -1,9 +1,0 @@
-contact:
-  name: Christine Lewis
-  email: christine.lewis8331@example.com
-  phone: (666) 449-1234
-  ssn: 472 53 9147
-  dob: 11/21/1950
-  address: 6088 South Rd
-  city: Los Angeles
-  state: FL

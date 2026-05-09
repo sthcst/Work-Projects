@@ -1,9 +1,0 @@
-contact:
-  name: Paul Lopez
-  email: paul.lopez3347@business.net
-  phone: 831 393 6748
-  ssn: 539766742
-  dob: 22/01/1963
-  address: 3302 Main Ln
-  city: Denver
-  state: TX

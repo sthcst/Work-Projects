@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Harris,rachel.harris3540@example.com,+1 432-590-7541,418-62-9965,2/10/1953,"302 Maple Way",Phoenix,NY

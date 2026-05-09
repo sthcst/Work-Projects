@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Walker,helen.walker6628@work.org,(916) 426-7152,279 05 5006,12-01-1978,"3732 Elm Ave",Austin,WI

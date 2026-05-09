@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Parker,brenda.parker1116@mail.com,(813) 872-3103,727-96-1987,03/03/2002,"2284 East Ln",San Diego,VA

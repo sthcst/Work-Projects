@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Ramirez,paul.ramirez2777@business.net,(955) 269-4001,518058373,19/10/1991,"627 North Rd",Seattle,WI

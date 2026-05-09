@@ -1,9 +1,0 @@
-contact:
-  name: Angela Murillo
-  email: angela.murillo7254@work.org
-  phone: 363 316 7585
-  ssn: 823 38 3495
-  dob: 05/03/1995
-  address: 6788 Elm Court
-  city: Boston
-  state: TX

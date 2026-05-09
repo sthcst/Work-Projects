@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Carter
-  email: rebecca.carter7581@company.com
-  phone: 721-547-3340
-  ssn: 089634961
-  dob: 06-16-1986
-  address: 3628 Third Way
-  city: Jacksonville
-  state: WA

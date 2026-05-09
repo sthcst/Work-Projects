@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Phillips,william.phillips828@gmail.com,594 719 8876,576 54 2741,12/5/1969,"5260 Elm St",Philadelphia,AZ

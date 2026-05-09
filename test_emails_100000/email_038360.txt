@@ -1,9 +1,0 @@
-contact:
-  name: Emily Ortiz
-  email: emily.ortiz8485@outlook.com
-  phone: 309 287 4836
-  ssn: 645-37-1943
-  dob: 10/4/1991
-  address: 6489 Second Way
-  city: Los Angeles
-  state: MO

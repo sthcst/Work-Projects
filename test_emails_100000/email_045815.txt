@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Delgado
-  email: nicholas.delgado4070@example.com
-  phone: (873) 294-9244
-  ssn: 010-93-2844
-  dob: 06/28/1976
-  address: 8162 Third Way
-  city: San Antonio
-  state: TX

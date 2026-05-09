@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Thomas,emma.thomas9142@example.com,+1 297-667-2945,145-49-4460,04/05/1983,"9794 East St",San Diego,NC

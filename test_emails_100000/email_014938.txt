@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Serrano
-  email: kathleen.serrano5307@mail.com
-  phone: (722) 378-6867
-  ssn: 091-21-1603
-  dob: 12/01/2004
-  address: 17 Cedar Way
-  city: Chicago
-  state: MO

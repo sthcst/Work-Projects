@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Garcia,samantha.garcia3898@mail.com,497-883-4788,193 47 5305,11-04-1959,"6009 Pine Ln",San Diego,OH

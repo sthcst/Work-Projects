@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Robinson,mark.robinson3519@gmail.com,(585) 466-4742,376-46-5809,22/03/1956,"3316 Fifth Ave",San Antonio,WA

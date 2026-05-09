@@ -1,9 +1,0 @@
-contact:
-  name: William Edwards
-  email: william.edwards8467@business.net
-  phone: (926) 441-3871
-  ssn: 246 56 2052
-  dob: 06/18/1995
-  address: 4204 Spring Rd
-  city: Austin
-  state: MD

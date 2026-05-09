@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Walker
-  email: katherine.walker4918@outlook.com
-  phone: 407-965-3073
-  ssn: 530 35 8921
-  dob: 08/03/1976
-  address: 2508 Pine St
-  city: Denver
-  state: OH

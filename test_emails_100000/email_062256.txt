@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Lewis,emma.lewis6908@company.com,381-456-5536,628142790,9/5/1964,"9947 Maple Ave",Philadelphia,CA

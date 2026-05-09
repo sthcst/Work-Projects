@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Gonzalez,christine.gonzalez2862@mail.com,+1 383-296-2472,637 11 7954,25/10/1980,"8719 Main Dr",Houston,MA

@@ -1,9 +1,0 @@
-contact:
-  name: Richard Romero
-  email: richard.romero3432@mail.com
-  phone: +1 768-339-1108
-  ssn: 883209053
-  dob: 01/12/1990
-  address: 8881 Park Ln
-  city: Seattle
-  state: WA

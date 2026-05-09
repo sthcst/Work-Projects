@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Miller,nicole.miller1657@yahoo.com,(988) 294-3405,967 67 3569,10/16/1999,"5111 East St",Washington,IL

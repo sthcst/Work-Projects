@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Hall
-  email: joseph.hall3265@business.net
-  phone: 941 447 6847
-  ssn: 063-15-7885
-  dob: 07/08/1989
-  address: 5219 Oak St
-  city: San Diego
-  state: IL

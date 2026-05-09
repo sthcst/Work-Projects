@@ -1,9 +1,0 @@
-contact:
-  name: Jason Phillips
-  email: jason.phillips6232@business.net
-  phone: +1 582-920-7710
-  ssn: 451-20-5008
-  dob: 05-14-1980
-  address: 5129 Third Rd
-  city: Seattle
-  state: NY

@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Ramirez
-  email: lisa.ramirez8432@example.com
-  phone: (503) 536-1123
-  ssn: 816 98 8564
-  dob: 08-27-1963
-  address: 1385 Main Ave
-  city: New York
-  state: MI

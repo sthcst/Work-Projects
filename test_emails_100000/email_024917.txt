@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Evans
-  email: pamela.evans7231@work.org
-  phone: +1 683-836-5478
-  ssn: 926541400
-  dob: 01-22-1986
-  address: 1081 Birch St
-  city: Dallas
-  state: MI

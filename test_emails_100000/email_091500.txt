@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Martinez,shirley.martinez23@yahoo.com,+1 218-817-2945,165 62 2192,3/26/1985,"1637 Second Ln",Houston,CA

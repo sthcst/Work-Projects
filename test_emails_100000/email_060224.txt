@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Collins
-  email: joseph.collins7756@example.com
-  phone: 679-481-5132
-  ssn: 214-61-7111
-  dob: 06-06-1956
-  address: 1313 Maple Dr
-  city: Seattle
-  state: AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Martin,megan.martin2078@company.com,939 203 1568,777 41 2862,01-28-1998,"6859 Fifth St",Phoenix,CO

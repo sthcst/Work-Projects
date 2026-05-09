@@ -1,9 +1,0 @@
-contact:
-  name: George Phillips
-  email: george.phillips8054@yahoo.com
-  phone: 626 691 4168
-  ssn: 575-48-9375
-  dob: 08/28/1967
-  address: 8917 Main Way
-  city: San Diego
-  state: MA

@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Wilson
-  email: ronald.wilson6993@outlook.com
-  phone: +1 778-791-7001
-  ssn: 460-94-7796
-  dob: 01/19/1955
-  address: 861 Elm Court
-  city: San Antonio
-  state: WA

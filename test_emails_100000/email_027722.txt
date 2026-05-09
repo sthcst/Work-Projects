@@ -1,9 +1,0 @@
-contact:
-  name: Helen Delgado
-  email: helen.delgado6800@outlook.com
-  phone: +1 597-202-4399
-  ssn: 613-48-3251
-  dob: 04/17/1980
-  address: 5364 Elm Ave
-  city: Austin
-  state: CO

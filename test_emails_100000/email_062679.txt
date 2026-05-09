@@ -1,9 +1,0 @@
-contact:
-  name: James Hernandez
-  email: james.hernandez3635@gmail.com
-  phone: 888-780-1012
-  ssn: 062-05-6892
-  dob: 12-01-1995
-  address: 7297 Main Dr
-  city: Chicago
-  state: TX

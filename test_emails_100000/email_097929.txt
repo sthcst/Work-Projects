@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Clark,matthew.clark4184@work.org,235 973 9434,408 35 9070,5/25/1979,"4673 Sixth Ave",Philadelphia,MI

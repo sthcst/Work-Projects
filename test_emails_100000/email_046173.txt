@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Gomez,jason.gomez5891@work.org,+1 966-726-7456,751127021,03/07/1990,"2858 Main St",Denver,FL

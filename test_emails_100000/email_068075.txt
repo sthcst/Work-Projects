@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Robinson,paul.robinson7174@yahoo.com,653-263-3957,898407840,04/10/1962,"9321 Cedar Rd",Los Angeles,GA

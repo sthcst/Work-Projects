@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Reed
-  email: stephanie.reed6395@mail.com
-  phone: (620) 651-9610
-  ssn: 037-20-3822
-  dob: 03/03/1963
-  address: 3481 Third St
-  city: Boston
-  state: NY

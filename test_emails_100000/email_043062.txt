@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Moore
-  email: jessica.moore6361@yahoo.com
-  phone: 535 969 3007
-  ssn: 494 58 2908
-  dob: 08/10/1955
-  address: 1416 Summer Rd
-  city: San Jose
-  state: TX

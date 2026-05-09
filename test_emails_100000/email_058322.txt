@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Nunez,richard.nunez8286@gmail.com,+1 383-389-3921,307-04-5525,05-25-1955,"5869 Fourth Dr",Philadelphia,CA

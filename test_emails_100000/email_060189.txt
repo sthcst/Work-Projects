@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Taylor
-  email: lauren.taylor5480@business.net
-  phone: +1 554-443-6061
-  ssn: 062 97 6497
-  dob: 1/15/1959
-  address: 1046 Sixth Ln
-  city: Austin
-  state: WA

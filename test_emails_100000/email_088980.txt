@@ -1,9 +1,0 @@
-contact:
-  name: Charles Carter
-  email: charles.carter4710@business.net
-  phone: 213-899-9400
-  ssn: 703269833
-  dob: 08/20/1979
-  address: 1334 Park Dr
-  city: Chicago
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: James Ortiz
-  email: james.ortiz6207@company.com
-  phone: 397 683 1960
-  ssn: 640-93-3357
-  dob: 25/07/1963
-  address: 3091 Summer Court
-  city: Dallas
-  state: TX

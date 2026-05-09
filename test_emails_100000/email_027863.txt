@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Lee,angela.lee2508@example.com,+1 686-268-1882,658316465,09-09-1967,"3289 Sixth Blvd",Los Angeles,CA

@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Wilson
-  email: ronald.wilson3624@yahoo.com
-  phone: 734-544-6082
-  ssn: 410-23-1389
-  dob: 11/13/1998
-  address: 9455 Cedar Way
-  city: San Diego
-  state: CO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Ortiz,matthew.ortiz5597@outlook.com,373-332-7105,923 70 4769,6/4/2001,"4697 Fifth St",San Diego,TN

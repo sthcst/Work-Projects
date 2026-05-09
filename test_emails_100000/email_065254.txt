@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Thompson,mark.thompson7551@outlook.com,868-546-5244,972-60-5661,16/12/1978,"2273 Third Court",Los Angeles,FL

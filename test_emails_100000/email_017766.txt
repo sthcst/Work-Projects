@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Serrano,matthew.serrano7603@example.com,+1 824-744-8203,367714009,03-08-1950,"7913 South Way",Austin,MO

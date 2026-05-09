@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Clark
-  email: matthew.clark3508@work.org
-  phone: 412-806-1440
-  ssn: 615471984
-  dob: 01/09/2001
-  address: 1706 Main Ave
-  city: Jacksonville
-  state: OH

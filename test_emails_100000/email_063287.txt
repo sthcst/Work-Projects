@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Hernandez,anna.hernandez6630@work.org,296-204-6059,971-22-2860,08-17-2002,"6975 Fifth Court",Jacksonville,WI

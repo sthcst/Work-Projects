@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Davis,ashley.davis3739@outlook.com,(928) 807-3343,374-43-1311,09/03/1950,"7432 Fourth Dr",San Antonio,MA

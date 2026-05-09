@@ -1,9 +1,0 @@
-contact:
-  name: Emma Clark
-  email: emma.clark4206@gmail.com
-  phone: (799) 277-6763
-  ssn: 880 04 7790
-  dob: 10/12/1953
-  address: 4882 Fifth St
-  city: Jacksonville
-  state: TX

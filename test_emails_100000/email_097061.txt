@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Johnson,maria.johnson3490@gmail.com,+1 434-503-4856,033 90 6404,10/25/1950,"8012 Sixth Dr",Los Angeles,MA

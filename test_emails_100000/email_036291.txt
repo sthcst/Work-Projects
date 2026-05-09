@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Parker
-  email: sarah.parker419@yahoo.com
-  phone: 383 427 9792
-  ssn: 592-30-7953
-  dob: 06/07/1983
-  address: 1158 Cedar Ave
-  city: Philadelphia
-  state: DC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Clark,lauren.clark9767@gmail.com,397 330 4690,302-21-2352,10/22/1974,"9106 Sixth St",Phoenix,WA

@@ -1,9 +1,0 @@
-contact:
-  name: Michael Lee
-  email: michael.lee2809@business.net
-  phone: (486) 684-2735
-  ssn: 945362869
-  dob: 22/02/1964
-  address: 3980 Elm Court
-  city: Seattle
-  state: CO

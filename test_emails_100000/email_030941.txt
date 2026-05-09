@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Nelson
-  email: jeffrey.nelson2122@company.com
-  phone: +1 432-366-2421
-  ssn: 615 50 9434
-  dob: 11/25/1970
-  address: 1783 Elm St
-  city: Jacksonville
-  state: MO

@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Garcia
-  email: joseph.garcia2328@example.com
-  phone: (764) 453-4714
-  ssn: 492192670
-  dob: 04/15/1976
-  address: 2692 Fifth Way
-  city: San Diego
-  state: WA

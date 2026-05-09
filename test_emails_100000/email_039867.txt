@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Parker
-  email: matthew.parker9957@yahoo.com
-  phone: +1 857-239-2481
-  ssn: 028288569
-  dob: 14/06/1981
-  address: 9739 Main Rd
-  city: San Antonio
-  state: PA

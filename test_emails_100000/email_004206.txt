@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Wilson,lisa.wilson551@yahoo.com,999-987-3744,475-34-9096,11/11/1968,"9880 Third Blvd",Boston,WA

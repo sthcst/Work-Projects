@@ -1,9 +1,0 @@
-contact:
-  name: Donald Carter
-  email: donald.carter8669@gmail.com
-  phone: 429-207-1522
-  ssn: 360 64 6901
-  dob: 27/06/1985
-  address: 3655 North Blvd
-  city: Philadelphia
-  state: MA

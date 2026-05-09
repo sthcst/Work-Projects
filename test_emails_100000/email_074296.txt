@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Ramirez
-  email: timothy.ramirez7194@work.org
-  phone: +1 743-970-8423
-  ssn: 397 75 5064
-  dob: 17/09/1981
-  address: 3868 Cedar Court
-  city: Chicago
-  state: WA

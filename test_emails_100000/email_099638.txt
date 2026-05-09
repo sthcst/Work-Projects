@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Campbell,daniel.campbell4741@outlook.com,+1 392-905-4459,213-65-2339,08-16-1967,"1775 Main Rd",Seattle,AZ

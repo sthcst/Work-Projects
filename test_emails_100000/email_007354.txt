@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Jimenez
-  email: joshua.jimenez2112@mail.com
-  phone: (879) 650-5427
-  ssn: 957 06 6398
-  dob: 7/10/1969
-  address: 8033 Summer Rd
-  city: Los Angeles
-  state: CO

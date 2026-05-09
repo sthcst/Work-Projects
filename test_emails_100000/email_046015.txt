@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Rodriguez,kathleen.rodriguez1483@mail.com,535-678-2778,053362105,09/28/2002,"3525 Main St",Boston,TX

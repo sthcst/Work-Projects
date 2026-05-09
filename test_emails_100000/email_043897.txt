@@ -1,9 +1,0 @@
-contact:
-  name: George Lee
-  email: george.lee8897@mail.com
-  phone: +1 567-866-4256
-  ssn: 037892393
-  dob: 15/10/2004
-  address: 4017 Pine Court
-  city: Seattle
-  state: NY

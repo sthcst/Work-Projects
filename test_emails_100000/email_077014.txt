@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Miller,brenda.miller3754@company.com,(915) 845-4015,528385558,05-01-1993,"8017 Main St",San Diego,CA

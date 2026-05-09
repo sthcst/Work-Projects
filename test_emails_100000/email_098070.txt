@@ -1,9 +1,0 @@
-contact:
-  name: Charles Perez
-  email: charles.perez3830@gmail.com
-  phone: 226 849 4451
-  ssn: 417-28-3695
-  dob: 5/14/1975
-  address: 7282 Pine Ave
-  city: Houston
-  state: CA

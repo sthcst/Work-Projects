@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Reeves
-  email: rebecca.reeves6550@work.org
-  phone: (272) 442-8471
-  ssn: 015 88 9191
-  dob: 05-13-1979
-  address: 2073 Fifth Blvd
-  city: Los Angeles
-  state: MA

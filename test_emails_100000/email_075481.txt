@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Williams
-  email: deborah.williams2057@outlook.com
-  phone: (542) 918-5601
-  ssn: 520-15-1194
-  dob: 04-18-2002
-  address: 4728 North St
-  city: Austin
-  state: NY

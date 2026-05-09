@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Harris,katherine.harris8919@company.com,+1 642-974-2202,449-64-8884,11/16/1950,"7786 Oak Ave",Austin,TX

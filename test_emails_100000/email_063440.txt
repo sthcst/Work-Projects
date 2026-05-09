@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Phillips,rebecca.phillips4246@gmail.com,947-227-9577,785-55-6968,22/02/1957,"4451 Main Rd",Boston,PA

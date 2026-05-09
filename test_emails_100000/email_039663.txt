@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Collins,jason.collins6626@example.com,893-483-6621,487-76-7345,9/11/1985,"8294 Second Court",San Jose,IL

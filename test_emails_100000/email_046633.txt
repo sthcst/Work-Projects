@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Jimenez,deborah.jimenez8722@example.com,+1 985-964-4398,736 90 6245,16/11/1989,"9059 Fifth Rd",Houston,CA

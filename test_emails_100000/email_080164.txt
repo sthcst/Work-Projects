@@ -1,9 +1,0 @@
-contact:
-  name: Charles Stewart
-  email: charles.stewart2907@work.org
-  phone: 520-643-6644
-  ssn: 258 53 1241
-  dob: 5/16/1953
-  address: 4905 North Rd
-  city: San Antonio
-  state: TN

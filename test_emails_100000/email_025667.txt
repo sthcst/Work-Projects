@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Davis
-  email: katherine.davis4971@work.org
-  phone: 213-975-1294
-  ssn: 560 04 9713
-  dob: 04/27/1991
-  address: 6362 North Court
-  city: Houston
-  state: TX

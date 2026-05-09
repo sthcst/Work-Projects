@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Reed,katherine.reed7943@company.com,639-607-6477,543-34-2574,19/09/1990,"1103 Park Blvd",Denver,WA

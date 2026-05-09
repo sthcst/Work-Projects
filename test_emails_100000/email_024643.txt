@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Morgan
-  email: christopher.morgan3469@company.com
-  phone: 596-580-2444
-  ssn: 990094689
-  dob: 9/11/2002
-  address: 2744 Oak Way
-  city: San Jose
-  state: NC

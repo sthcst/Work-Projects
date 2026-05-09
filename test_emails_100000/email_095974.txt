@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Rogers
-  email: lauren.rogers4683@company.com
-  phone: 712 340 9764
-  ssn: 004 66 3349
-  dob: 12-06-1966
-  address: 953 Elm Court
-  city: San Antonio
-  state: CO

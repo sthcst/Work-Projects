@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Stewart
-  email: jacob.stewart8653@business.net
-  phone: 753 426 1284
-  ssn: 580 21 3964
-  dob: 02/22/1959
-  address: 3820 Birch Dr
-  city: Chicago
-  state: WI

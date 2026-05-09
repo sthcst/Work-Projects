@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Stewart
-  email: jennifer.stewart7528@work.org
-  phone: +1 565-489-5547
-  ssn: 098068683
-  dob: 11/08/1989
-  address: 7910 Elm Way
-  city: Washington
-  state: DC

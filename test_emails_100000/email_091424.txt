@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Lewis,mark.lewis8077@outlook.com,635-855-3699,919437253,08-18-1951,"2940 Third Ln",Philadelphia,NC

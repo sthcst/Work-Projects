@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Perez,pamela.perez2754@mail.com,(374) 401-2807,287-77-2097,7/13/1968,"2984 Sixth Way",Dallas,WI

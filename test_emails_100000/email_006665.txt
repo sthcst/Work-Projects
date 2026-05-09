@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Young
-  email: amanda.young9191@gmail.com
-  phone: 342-951-3125
-  ssn: 632-78-1839
-  dob: 10/12/1963
-  address: 5026 Fourth St
-  city: Washington
-  state: MA

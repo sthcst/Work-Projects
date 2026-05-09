@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Romero
-  email: timothy.romero6289@mail.com
-  phone: (210) 740-3853
-  ssn: 249-79-6197
-  dob: 4/25/1965
-  address: 1708 Third St
-  city: Chicago
-  state: VA

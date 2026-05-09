@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Morgan,jeffrey.morgan8564@mail.com,547-808-2491,398-37-4344,12/1/1959,"9897 Sixth Ave",Phoenix,TX

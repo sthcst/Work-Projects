@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Clark,shirley.clark821@work.org,541-447-2259,546 32 4630,21/11/1995,"5999 Oak Rd",Philadelphia,TX

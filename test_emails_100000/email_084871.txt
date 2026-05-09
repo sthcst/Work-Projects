@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Lee,lauren.lee1619@business.net,+1 442-890-6460,883631714,08-23-1981,"8844 Main Rd",San Antonio,NC

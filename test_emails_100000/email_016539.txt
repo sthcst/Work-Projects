@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Jimenez,anna.jimenez4077@yahoo.com,+1 493-241-1180,047-48-2824,06/04/1980,"505 Summer Blvd",Philadelphia,TN

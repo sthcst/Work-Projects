@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Sanchez,brian.sanchez1684@business.net,+1 838-827-2456,014498552,3/27/1991,"5489 West Court",Denver,MI

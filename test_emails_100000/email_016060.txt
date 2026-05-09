@@ -1,9 +1,0 @@
-contact:
-  name: Emily Martinez
-  email: emily.martinez9258@yahoo.com
-  phone: 570-322-6376
-  ssn: 067644910
-  dob: 07-28-1999
-  address: 2229 Third Court
-  city: Chicago
-  state: MO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Nelson,rachel.nelson7561@mail.com,508 367 6453,621 89 7136,01/12/1955,"9504 Fourth Rd",Phoenix,TX

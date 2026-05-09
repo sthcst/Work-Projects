@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Jones
-  email: rebecca.jones7607@work.org
-  phone: 606-538-4373
-  ssn: 122 71 1779
-  dob: 02-07-1988
-  address: 8794 First Ave
-  city: San Diego
-  state: CA

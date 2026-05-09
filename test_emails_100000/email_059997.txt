@@ -1,9 +1,0 @@
-contact:
-  name: Anna Roberts
-  email: anna.roberts6964@company.com
-  phone: +1 335-334-7598
-  ssn: 156 71 7239
-  dob: 07/09/1953
-  address: 1728 Sixth Blvd
-  city: Houston
-  state: AZ

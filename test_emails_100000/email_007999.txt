@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Murillo
-  email: jeffrey.murillo3937@business.net
-  phone: 740 537 1954
-  ssn: 218 43 8206
-  dob: 02/12/1959
-  address: 6865 Summer Rd
-  city: New York
-  state: TX

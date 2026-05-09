@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Romero,michael.romero7496@gmail.com,+1 727-373-3497,930 22 9183,11/05/1987,"2358 Park Rd",San Diego,TN

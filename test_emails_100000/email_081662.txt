@@ -1,9 +1,0 @@
-contact:
-  name: Paul Jones
-  email: paul.jones9202@outlook.com
-  phone: +1 634-916-9838
-  ssn: 721-17-3423
-  dob: 01-10-1956
-  address: 449 Second St
-  city: Austin
-  state: VA

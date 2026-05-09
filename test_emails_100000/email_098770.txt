@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Reed,jennifer.reed4325@mail.com,+1 756-313-5097,582 55 8596,8/24/1991,"759 Elm Ln",San Diego,MO

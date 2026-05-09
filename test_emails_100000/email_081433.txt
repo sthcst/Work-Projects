@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Bell
-  email: kathleen.bell1854@gmail.com
-  phone: (584) 892-6049
-  ssn: 174536547
-  dob: 4/26/1956
-  address: 507 Fourth Dr
-  city: Los Angeles
-  state: GA

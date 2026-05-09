@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Carter,lauren.carter3935@example.com,+1 548-885-6567,834-57-2459,06/16/1995,"4666 South Way",Boston,GA

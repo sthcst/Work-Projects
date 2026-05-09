@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Collins,amanda.collins9916@business.net,+1 355-669-7531,627166151,19/11/1970,"6962 Third Ln",Denver,DC

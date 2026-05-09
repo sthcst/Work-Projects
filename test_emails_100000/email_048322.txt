@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Lewis
-  email: nicole.lewis8021@company.com
-  phone: 740 940 7505
-  ssn: 369-13-6340
-  dob: 19/02/1996
-  address: 9391 First Rd
-  city: Chicago
-  state: MD

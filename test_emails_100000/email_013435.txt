@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Wilson,pamela.wilson5939@company.com,(259) 617-3611,630 78 6359,22/08/1980,"9231 Elm Ln",Houston,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Peterson,nicholas.peterson4649@gmail.com,393 641 7233,904-73-6711,02-23-1964,"7942 Fifth Way",Washington,TX

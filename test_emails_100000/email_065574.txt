@@ -1,9 +1,0 @@
-contact:
-  name: Jane Morgan
-  email: jane.morgan6039@outlook.com
-  phone: 737 313 4861
-  ssn: 411 75 8724
-  dob: 08-02-1972
-  address: 1003 Main Ave
-  city: Boston
-  state: TX

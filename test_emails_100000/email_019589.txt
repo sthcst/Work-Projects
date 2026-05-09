@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Bell,anna.bell5352@company.com,360-213-6489,229769020,10/04/1970,"6542 Sixth St",San Antonio,DC

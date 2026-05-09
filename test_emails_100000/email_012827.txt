@@ -1,9 +1,0 @@
-contact:
-  name: Michael Brown
-  email: michael.brown9122@mail.com
-  phone: 794 213 2226
-  ssn: 050669541
-  dob: 03/10/1985
-  address: 8689 Pine Ln
-  city: San Diego
-  state: AZ

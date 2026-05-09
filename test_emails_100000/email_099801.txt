@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Nunez
-  email: joshua.nunez8446@yahoo.com
-  phone: 472 716 8650
-  ssn: 807-51-6681
-  dob: 16/05/1977
-  address: 9775 Park Rd
-  city: Boston
-  state: NC

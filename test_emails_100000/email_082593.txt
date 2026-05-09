@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Delgado
-  email: christopher.delgado1380@gmail.com
-  phone: 256 288 8284
-  ssn: 604 89 4064
-  dob: 05-02-1988
-  address: 3283 First Rd
-  city: New York
-  state: NJ

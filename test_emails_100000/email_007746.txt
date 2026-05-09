@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Thomas,michelle.thomas4884@example.com,683 392 7449,774207022,01/09/1963,"9572 West Way",Chicago,CA

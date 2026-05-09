@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Taylor,katherine.taylor4662@mail.com,+1 275-537-6340,076 64 5717,11/04/1997,"1910 Oak Blvd",Washington,MA

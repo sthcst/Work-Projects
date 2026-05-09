@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Morris,deborah.morris7168@outlook.com,+1 666-718-5192,584-28-8883,28/01/1976,"9711 Summer St",Washington,VA

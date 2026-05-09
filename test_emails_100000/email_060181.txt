@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Collins
-  email: deborah.collins3991@business.net
-  phone: +1 811-400-5440
-  ssn: 599 22 7597
-  dob: 1/8/1951
-  address: 5259 Second Rd
-  city: San Diego
-  state: FL

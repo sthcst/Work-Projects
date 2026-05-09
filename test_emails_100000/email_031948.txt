@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Romero
-  email: ashley.romero2392@outlook.com
-  phone: +1 237-651-5502
-  ssn: 726 19 1388
-  dob: 3/3/1995
-  address: 7220 Maple Ln
-  city: Philadelphia
-  state: MO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Morgan,timothy.morgan5634@company.com,876 601 6521,553347348,12/21/1963,"8847 Park St",Washington,OH

@@ -1,9 +1,0 @@
-contact:
-  name: Christine Peterson
-  email: christine.peterson7731@yahoo.com
-  phone: 761-841-2631
-  ssn: 685-80-1355
-  dob: 06-21-1971
-  address: 9094 Maple Court
-  city: Seattle
-  state: TX

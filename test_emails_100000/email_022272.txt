@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Moore,joshua.moore2703@business.net,220-495-4994,565555246,10/10/1973,"1354 Sixth Dr",Phoenix,WI

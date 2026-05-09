@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Reyes
-  email: samantha.reyes6481@work.org
-  phone: (297) 392-4570
-  ssn: 560-57-1370
-  dob: 02/13/1970
-  address: 2736 East Ln
-  city: Los Angeles
-  state: OH

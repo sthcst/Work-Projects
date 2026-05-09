@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Martin
-  email: rachel.martin9483@mail.com
-  phone: +1 444-536-8094
-  ssn: 352 34 8925
-  dob: 11-21-1996
-  address: 3437 Cedar Way
-  city: Jacksonville
-  state: CA

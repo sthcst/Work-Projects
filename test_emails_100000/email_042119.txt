@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Morgan
-  email: lauren.morgan9138@work.org
-  phone: 459 872 7283
-  ssn: 281067769
-  dob: 6/1/1962
-  address: 5579 Cedar St
-  city: San Antonio
-  state: FL

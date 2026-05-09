@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Guerrero
-  email: samantha.guerrero18@yahoo.com
-  phone: 405 632 8184
-  ssn: 654-63-7934
-  dob: 08/06/1973
-  address: 6118 East Ln
-  city: New York
-  state: IL

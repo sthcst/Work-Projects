@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Nunez
-  email: pamela.nunez243@yahoo.com
-  phone: 969-733-7505
-  ssn: 304925997
-  dob: 08/07/2003
-  address: 7392 Birch Dr
-  city: New York
-  state: DC

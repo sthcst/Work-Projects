@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Taylor
-  email: jessica.taylor2730@mail.com
-  phone: +1 800-350-4924
-  ssn: 743-20-6422
-  dob: 10/4/1990
-  address: 58 South Way
-  city: Dallas
-  state: CO

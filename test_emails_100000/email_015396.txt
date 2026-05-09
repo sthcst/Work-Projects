@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Sanchez,katherine.sanchez5485@work.org,(256) 290-9985,804122800,12/14/1959,"4913 West Rd",Boston,TX

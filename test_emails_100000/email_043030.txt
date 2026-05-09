@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Phillips
-  email: daniel.phillips47@mail.com
-  phone: 774-966-3374
-  ssn: 537-19-4972
-  dob: 11/07/1992
-  address: 9217 Pine Way
-  city: Phoenix
-  state: OH

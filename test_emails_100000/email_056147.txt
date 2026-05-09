@@ -1,9 +1,0 @@
-contact:
-  name: Anna Phillips
-  email: anna.phillips2246@gmail.com
-  phone: +1 526-859-4765
-  ssn: 688 81 6555
-  dob: 11/13/1968
-  address: 8481 Main St
-  city: Denver
-  state: AZ

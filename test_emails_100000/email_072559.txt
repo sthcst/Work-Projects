@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Peterson
-  email: ashley.peterson4482@gmail.com
-  phone: +1 588-600-6316
-  ssn: 396-74-5979
-  dob: 03/24/1950
-  address: 4362 West Court
-  city: Boston
-  state: WI

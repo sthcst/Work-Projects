@@ -1,9 +1,0 @@
-contact:
-  name: Maria Harris
-  email: maria.harris677@yahoo.com
-  phone: +1 803-864-8995
-  ssn: 644-86-6458
-  dob: 12/13/1950
-  address: 8362 Fifth Blvd
-  city: Seattle
-  state: WI

@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Miller
-  email: lauren.miller4994@business.net
-  phone: 489 635 6254
-  ssn: 469 22 8514
-  dob: 07-27-1975
-  address: 1774 Maple Rd
-  city: Philadelphia
-  state: NY

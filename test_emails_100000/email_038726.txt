@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Taylor,kathleen.taylor5436@work.org,821 411 1472,201-26-7428,04-13-1978,"8812 Birch Ln",Washington,WI

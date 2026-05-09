@@ -1,9 +1,0 @@
-contact:
-  name: Megan Robinson
-  email: megan.robinson3979@company.com
-  phone: +1 642-452-3332
-  ssn: 031 40 4561
-  dob: 11/01/1955
-  address: 211 West Court
-  city: Houston
-  state: PA

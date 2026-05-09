@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Rogers
-  email: brenda.rogers3082@gmail.com
-  phone: 831 943 6314
-  ssn: 937-47-1628
-  dob: 06/27/1997
-  address: 6496 Oak Ave
-  city: Boston
-  state: TX

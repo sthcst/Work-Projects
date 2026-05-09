@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Hernandez,joseph.hernandez2701@yahoo.com,(670) 520-8041,886 06 1782,6/22/1975,"754 North St",San Jose,MA

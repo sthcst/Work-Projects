@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Walker,robert.walker9473@business.net,487 423 1825,320 76 9549,03-17-1976,"4021 Pine Blvd",Washington,FL

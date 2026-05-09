@@ -1,9 +1,0 @@
-contact:
-  name: Christine Reed
-  email: christine.reed8802@work.org
-  phone: (222) 306-2287
-  ssn: 861968726
-  dob: 11/14/1979
-  address: 2231 West Way
-  city: San Diego
-  state: FL

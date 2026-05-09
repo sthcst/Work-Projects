@@ -1,9 +1,0 @@
-contact:
-  name: James Hall
-  email: james.hall2605@gmail.com
-  phone: +1 333-570-9011
-  ssn: 161-52-3225
-  dob: 10-07-1969
-  address: 8452 North Blvd
-  city: Denver
-  state: MD

@@ -1,9 +1,0 @@
-contact:
-  name: Jason Miller
-  email: jason.miller7393@mail.com
-  phone: 871 820 1029
-  ssn: 475 24 7762
-  dob: 05/06/1965
-  address: 7621 Second Blvd
-  city: Chicago
-  state: CO

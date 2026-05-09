@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Reed,sarah.reed5379@yahoo.com,809 836 1115,710486185,12/07/1997,"1857 Spring Ave",San Diego,CO

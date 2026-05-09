@@ -1,9 +1,0 @@
-contact:
-  name: Paul Harris
-  email: paul.harris813@work.org
-  phone: 646-733-1989
-  ssn: 072-90-9443
-  dob: 2/1/1951
-  address: 391 Cedar Rd
-  city: San Diego
-  state: WA

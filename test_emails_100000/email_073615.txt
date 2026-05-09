@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Collins
-  email: ashley.collins7287@gmail.com
-  phone: 391 476 6258
-  ssn: 636874909
-  dob: 13/02/1980
-  address: 6904 Maple Blvd
-  city: Houston
-  state: TX

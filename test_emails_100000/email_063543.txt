@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Martinez
-  email: rebecca.martinez9991@yahoo.com
-  phone: (675) 975-7987
-  ssn: 506-52-5447
-  dob: 07/08/1963
-  address: 8206 Fourth Ln
-  city: San Jose
-  state: TX

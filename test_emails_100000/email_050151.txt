@@ -1,9 +1,0 @@
-contact:
-  name: John Collins
-  email: john.collins4882@company.com
-  phone: 842 754 2034
-  ssn: 725-59-2142
-  dob: 09/06/1964
-  address: 4122 Fourth Dr
-  city: Houston
-  state: CA

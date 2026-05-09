@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Stewart,anna.stewart9487@work.org,453 591 2706,982142898,08-04-1983,"8870 South Ave",Chicago,NY

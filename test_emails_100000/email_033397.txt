@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Nelson,steven.nelson6943@outlook.com,+1 223-914-6461,237-03-5917,05-08-1990,"2006 East Way",Jacksonville,CA

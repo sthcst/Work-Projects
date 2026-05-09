@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Evans,jane.evans3548@work.org,+1 559-568-7358,078-23-4295,6/16/1969,"4869 Main Ave",Houston,TX

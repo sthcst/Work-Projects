@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Bell,jennifer.bell5255@mail.com,474 610 3334,089397848,12-20-1971,"5942 Spring Rd",San Diego,CA

@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Morris
-  email: anthony.morris1867@example.com
-  phone: +1 618-332-7190
-  ssn: 178 97 2023
-  dob: 10/6/1959
-  address: 8565 East Ln
-  city: Boston
-  state: GA

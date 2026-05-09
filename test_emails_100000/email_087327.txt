@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Carter
-  email: joshua.carter3273@example.com
-  phone: +1 914-580-3173
-  ssn: 838 87 6919
-  dob: 01/07/1981
-  address: 37 Pine St
-  city: Los Angeles
-  state: NJ

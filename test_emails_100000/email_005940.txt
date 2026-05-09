@@ -1,9 +1,0 @@
-contact:
-  name: Maria Young
-  email: maria.young2125@business.net
-  phone: +1 516-759-2935
-  ssn: 987851772
-  dob: 11/8/1975
-  address: 5058 North Way
-  city: Los Angeles
-  state: PA

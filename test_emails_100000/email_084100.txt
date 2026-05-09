@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Jackson
-  email: nicole.jackson3438@gmail.com
-  phone: (293) 499-9248
-  ssn: 835 73 3903
-  dob: 11-11-1988
-  address: 286 Pine Dr
-  city: Austin
-  state: TX

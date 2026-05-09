@@ -1,9 +1,0 @@
-contact:
-  name: Helen Brown
-  email: helen.brown8335@work.org
-  phone: 828 490 2999
-  ssn: 789621227
-  dob: 10/12/1978
-  address: 8971 Park Ln
-  city: Phoenix
-  state: TN

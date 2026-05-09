@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Miller,matthew.miller185@outlook.com,+1 668-495-1022,085-78-3840,19/08/1984,"3077 Maple Rd",Los Angeles,NJ

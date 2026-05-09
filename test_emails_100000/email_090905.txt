@@ -1,9 +1,0 @@
-contact:
-  name: Edward Peterson
-  email: edward.peterson9133@work.org
-  phone: 988-587-8064
-  ssn: 602 44 9082
-  dob: 11/24/1958
-  address: 263 Maple St
-  city: Austin
-  state: CO

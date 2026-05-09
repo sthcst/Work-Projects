@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Thompson,gary.thompson1490@company.com,269-579-9167,580 17 6848,03/21/1955,"1071 Fourth Ln",Phoenix,GA

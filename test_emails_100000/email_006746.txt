@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Brown
-  email: stephanie.brown6536@work.org
-  phone: (549) 971-2679
-  ssn: 997 61 3703
-  dob: 05-03-1984
-  address: 6440 Cedar Blvd
-  city: Seattle
-  state: WA

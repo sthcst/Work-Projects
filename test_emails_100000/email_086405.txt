@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Carter,angela.carter1718@business.net,+1 645-413-9893,802743583,11-22-1994,"5303 Sixth St",Dallas,TX

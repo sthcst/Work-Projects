@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Walker,anthony.walker6090@work.org,650-853-5750,476 02 6376,17/09/1960,"2321 Summer St",Philadelphia,WA

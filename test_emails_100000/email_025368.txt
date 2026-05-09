@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Wilson
-  email: jessica.wilson9355@work.org
-  phone: (274) 250-9419
-  ssn: 353 77 8478
-  dob: 10/01/1971
-  address: 5668 Maple Dr
-  city: Washington
-  state: TX

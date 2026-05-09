@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Alvarado,christopher.alvarado1948@outlook.com,(773) 374-9267,661-80-1237,10/02/1996,"1224 Oak Dr",Jacksonville,GA

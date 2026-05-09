@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Reyes
-  email: anthony.reyes5297@business.net
-  phone: +1 984-430-9468
-  ssn: 614 09 9315
-  dob: 02-19-1951
-  address: 1185 Sixth Ln
-  city: Seattle
-  state: NC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Perez,george.perez3420@mail.com,556-601-6881,597 47 2293,11-12-1962,"5021 Birch Court",Los Angeles,MA

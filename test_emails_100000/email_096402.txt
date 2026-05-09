@@ -1,9 +1,0 @@
-contact:
-  name: Edward Parker
-  email: edward.parker2286@gmail.com
-  phone: 608-748-3765
-  ssn: 041 80 8672
-  dob: 4/7/2000
-  address: 4640 South Blvd
-  city: San Jose
-  state: TN

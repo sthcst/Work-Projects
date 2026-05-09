@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Young
-  email: stephanie.young1065@company.com
-  phone: (797) 525-2659
-  ssn: 514-95-1082
-  dob: 8/28/2004
-  address: 6342 Pine Dr
-  city: Washington
-  state: GA

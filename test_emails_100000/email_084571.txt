@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Young,rachel.young4594@business.net,470 287 9970,453-90-2796,03-23-1984,"4382 Second Way",San Antonio,WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Perez,katherine.perez2818@example.com,980 424 7620,627603242,01/07/1975,"7381 Pine Way",Los Angeles,DC

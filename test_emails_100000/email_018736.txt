@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Martin
-  email: kenneth.martin3113@outlook.com
-  phone: 832 717 7927
-  ssn: 907 58 9459
-  dob: 14/10/2004
-  address: 7515 Second Ave
-  city: Jacksonville
-  state: NY

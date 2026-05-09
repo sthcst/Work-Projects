@@ -1,9 +1,0 @@
-contact:
-  name: Angela Smith
-  email: angela.smith9220@example.com
-  phone: (695) 351-4543
-  ssn: 422524833
-  dob: 10/9/2005
-  address: 5432 Maple St
-  city: San Diego
-  state: CA

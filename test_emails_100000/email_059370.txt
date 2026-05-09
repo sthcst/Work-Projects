@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Lewis
-  email: cynthia.lewis1614@company.com
-  phone: +1 810-867-3757
-  ssn: 955898250
-  dob: 11/28/1984
-  address: 8490 South Way
-  city: Jacksonville
-  state: NJ

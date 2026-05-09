@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Garcia
-  email: rebecca.garcia6234@outlook.com
-  phone: (562) 730-4091
-  ssn: 044-18-3334
-  dob: 06/09/1964
-  address: 1986 Spring Ave
-  city: Phoenix
-  state: MD

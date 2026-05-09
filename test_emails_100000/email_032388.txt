@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Johnson
-  email: rachel.johnson6883@business.net
-  phone: 498 860 7604
-  ssn: 153-58-7195
-  dob: 12/4/1996
-  address: 1188 Third Blvd
-  city: San Diego
-  state: PA

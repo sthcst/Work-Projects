@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Perez,timothy.perez279@gmail.com,+1 206-475-8756,378 68 3315,26/05/1993,"1237 Sixth Blvd",Seattle,CA

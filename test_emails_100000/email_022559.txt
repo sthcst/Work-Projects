@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Garcia
-  email: kenneth.garcia1973@yahoo.com
-  phone: 293 980 2712
-  ssn: 882-47-6152
-  dob: 5/6/1987
-  address: 3541 Summer Way
-  city: Austin
-  state: VA

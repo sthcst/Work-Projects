@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Campbell
-  email: nicole.campbell7612@work.org
-  phone: 316-630-7149
-  ssn: 142033473
-  dob: 4/7/1974
-  address: 8064 Main Way
-  city: Jacksonville
-  state: AZ

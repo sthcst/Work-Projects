@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Murillo,joshua.murillo9340@work.org,848 536 5033,710 51 7480,5/12/1970,"1114 Third St",Austin,MD

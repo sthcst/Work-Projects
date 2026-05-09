@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Nelson
-  email: michelle.nelson4936@company.com
-  phone: +1 563-478-5140
-  ssn: 169-54-9163
-  dob: 5/10/1971
-  address: 4626 Cedar Ave
-  city: Seattle
-  state: VA

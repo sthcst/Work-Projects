@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Flores,gary.flores8569@work.org,(546) 201-7328,550-29-4632,2/22/1994,"6004 Park Rd",Boston,MA

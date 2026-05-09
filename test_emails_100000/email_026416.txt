@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Serrano,david.serrano4001@yahoo.com,615-508-3034,363 34 9725,25/09/1959,"4716 Fourth Blvd",Chicago,MI

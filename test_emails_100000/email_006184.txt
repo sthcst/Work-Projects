@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Sanchez,kathleen.sanchez8451@outlook.com,799 497 2590,912243930,08-02-2002,"7460 Fourth Court",San Antonio,TX

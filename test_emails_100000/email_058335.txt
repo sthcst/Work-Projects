@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Lopez,steven.lopez3365@mail.com,859-922-8229,234-80-1931,1/26/1957,"9724 Sixth St",Phoenix,AZ

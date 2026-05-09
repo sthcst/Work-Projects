@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Lee
-  email: timothy.lee2052@outlook.com
-  phone: 245 310 7338
-  ssn: 271-01-5986
-  dob: 09/10/1956
-  address: 5480 East Ln
-  city: New York
-  state: NJ

@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Reeves
-  email: daniel.reeves1138@company.com
-  phone: 706 737 6374
-  ssn: 940497488
-  dob: 06/03/1989
-  address: 5568 Second Blvd
-  city: Washington
-  state: FL

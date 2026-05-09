@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Murillo,joseph.murillo7447@work.org,(873) 769-1255,444-93-4283,12-24-1970,"7229 Fifth Blvd",Boston,TX

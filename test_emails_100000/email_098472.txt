@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Davis,ryan.davis2545@example.com,+1 648-583-1924,768491379,09-01-1950,"7527 Fifth Blvd",San Jose,CA

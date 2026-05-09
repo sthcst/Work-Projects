@@ -1,9 +1,0 @@
-contact:
-  name: Helen Reeves
-  email: helen.reeves3538@company.com
-  phone: +1 806-394-2699
-  ssn: 154 15 3212
-  dob: 14/08/1980
-  address: 6937 Elm Ave
-  city: Chicago
-  state: WI

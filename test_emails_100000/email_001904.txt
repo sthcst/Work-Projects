@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Morgan,kathleen.morgan578@mail.com,+1 417-983-4208,494068002,06/21/1956,"8571 Pine Way",Houston,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Jones,steven.jones3207@yahoo.com,613-414-8563,798-46-1270,1/4/1989,"1626 South Dr",Philadelphia,PA

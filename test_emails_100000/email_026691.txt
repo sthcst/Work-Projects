@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Hall
-  email: lauren.hall7006@work.org
-  phone: 710-946-1546
-  ssn: 978-82-9914
-  dob: 01/03/1992
-  address: 315 Second Dr
-  city: Washington
-  state: AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Young,amanda.young3210@example.com,(604) 865-4205,127918275,8/7/1980,"6860 Oak Ave",Denver,DC

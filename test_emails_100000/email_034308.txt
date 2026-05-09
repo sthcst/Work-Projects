@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Murillo,michael.murillo5076@outlook.com,+1 323-574-8710,695438150,01-12-1997,"7288 Third Ave",Philadelphia,TX

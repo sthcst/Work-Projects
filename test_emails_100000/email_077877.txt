@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Clark
-  email: nicole.clark2203@gmail.com
-  phone: (875) 511-5692
-  ssn: 385-11-2119
-  dob: 05/11/1984
-  address: 3024 Pine Ave
-  city: Philadelphia
-  state: AZ

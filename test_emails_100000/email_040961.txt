@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Cooper,william.cooper2497@outlook.com,914-375-7670,237 41 6677,07/17/1964,"9113 Main Way",San Jose,TX

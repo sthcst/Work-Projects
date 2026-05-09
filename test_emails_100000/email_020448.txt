@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Stewart,christopher.stewart9765@yahoo.com,346-871-7937,876531676,3/18/1970,"176 Sixth Ln",San Antonio,TX

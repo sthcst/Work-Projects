@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Evans,andrew.evans7884@mail.com,350-630-3534,011 10 1752,09/03/1999,"9977 Fifth Rd",Los Angeles,FL

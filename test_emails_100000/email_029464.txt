@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Brown,emily.brown7155@gmail.com,(564) 957-7377,274-59-1088,04/10/1970,"4902 East Rd",Austin,FL

@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Johnson
-  email: christopher.johnson4347@business.net
-  phone: 576-372-9756
-  ssn: 638524991
-  dob: 10/27/1961
-  address: 1066 Maple Blvd
-  city: San Antonio
-  state: CA

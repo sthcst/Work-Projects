@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Hernandez,edward.hernandez3863@example.com,+1 818-383-7623,508 60 2091,11-03-1955,"815 Fifth Rd",Chicago,TX

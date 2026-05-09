@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Peterson
-  email: daniel.peterson9380@gmail.com
-  phone: 302 421 3239
-  ssn: 349 69 9482
-  dob: 09/01/1957
-  address: 6914 West Dr
-  city: Philadelphia
-  state: VA

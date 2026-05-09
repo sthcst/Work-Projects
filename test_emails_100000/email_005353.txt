@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Ortiz,cynthia.ortiz5778@example.com,+1 912-626-2421,076208827,05-07-1960,"5136 Fourth Dr",San Jose,NY

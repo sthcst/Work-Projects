@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Flores
-  email: michelle.flores5807@yahoo.com
-  phone: (822) 748-1698
-  ssn: 201099941
-  dob: 06-11-1955
-  address: 2982 Fifth St
-  city: Phoenix
-  state: MO

@@ -1,9 +1,0 @@
-contact:
-  name: James Jimenez
-  email: james.jimenez5642@company.com
-  phone: +1 566-395-7708
-  ssn: 148-37-1035
-  dob: 6/28/1956
-  address: 4366 First Dr
-  city: Austin
-  state: MA

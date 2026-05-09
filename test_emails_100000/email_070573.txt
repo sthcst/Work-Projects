@@ -1,9 +1,0 @@
-contact:
-  name: Gary Morris
-  email: gary.morris8996@work.org
-  phone: 207-220-9067
-  ssn: 025 77 7354
-  dob: 07/06/1999
-  address: 1064 North Rd
-  city: Philadelphia
-  state: MA

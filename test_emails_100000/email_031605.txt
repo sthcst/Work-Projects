@@ -1,9 +1,0 @@
-contact:
-  name: David Young
-  email: david.young9904@work.org
-  phone: 552 893 6864
-  ssn: 389-39-3959
-  dob: 02/01/1980
-  address: 4464 Birch Court
-  city: New York
-  state: TN

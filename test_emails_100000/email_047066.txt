@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Jimenez,kevin.jimenez2731@outlook.com,+1 555-892-8567,909-86-4801,7/8/1967,"5296 Pine Rd",Dallas,AZ

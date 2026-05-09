@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Campbell,ryan.campbell6899@gmail.com,547-285-3947,078 74 1933,11/16/1988,"7865 Sixth Court",San Jose,FL

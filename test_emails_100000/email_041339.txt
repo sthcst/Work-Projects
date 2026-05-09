@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Nunez
-  email: jennifer.nunez1005@mail.com
-  phone: 932 321 8859
-  ssn: 955 71 1778
-  dob: 28/05/1994
-  address: 1687 Spring Court
-  city: New York
-  state: VA

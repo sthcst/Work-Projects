@@ -1,9 +1,0 @@
-contact:
-  name: Jane Davis
-  email: jane.davis9754@yahoo.com
-  phone: 294-220-7264
-  ssn: 598-96-8260
-  dob: 7/21/1999
-  address: 8477 Spring St
-  city: San Jose
-  state: FL

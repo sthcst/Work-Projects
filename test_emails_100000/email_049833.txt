@@ -1,9 +1,0 @@
-contact:
-  name: Michael Nunez
-  email: michael.nunez9080@mail.com
-  phone: (846) 885-5927
-  ssn: 740-97-1917
-  dob: 01/12/2001
-  address: 8214 Maple St
-  city: Boston
-  state: CA

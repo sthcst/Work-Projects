@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Flores
-  email: pamela.flores903@example.com
-  phone: 674 408 1510
-  ssn: 680-80-3876
-  dob: 18/11/1987
-  address: 707 Oak Way
-  city: Houston
-  state: TX

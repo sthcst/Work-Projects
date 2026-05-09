@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Nunez,ryan.nunez7458@gmail.com,(740) 590-8557,619 77 7378,11-25-1975,"9983 Sixth Court",San Antonio,GA

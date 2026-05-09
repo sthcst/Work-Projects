@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Delgado
-  email: jacob.delgado5557@outlook.com
-  phone: 457-533-9895
-  ssn: 578 67 4208
-  dob: 10/26/1997
-  address: 629 Park Court
-  city: New York
-  state: MA

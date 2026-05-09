@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Miller,anthony.miller2324@company.com,263-964-9564,186-09-1903,01/26/1956,"6649 North Rd",Austin,NY

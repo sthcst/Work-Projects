@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael White,michael.white4600@company.com,231-359-3416,193 20 2764,06-07-1962,"5865 Main Dr",San Diego,TX

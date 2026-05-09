@@ -1,9 +1,0 @@
-contact:
-  name: Christine Dominguez
-  email: christine.dominguez6391@outlook.com
-  phone: 937-675-6403
-  ssn: 711304329
-  dob: 02-21-1950
-  address: 4045 Elm Rd
-  city: New York
-  state: CA

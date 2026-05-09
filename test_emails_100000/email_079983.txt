@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Parker,joseph.parker3818@business.net,(831) 529-9175,855654252,26/09/1997,"5926 Pine St",Dallas,TX

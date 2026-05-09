@@ -1,9 +1,0 @@
-contact:
-  name: Emma Martinez
-  email: emma.martinez4903@gmail.com
-  phone: +1 842-957-9675
-  ssn: 788-43-7542
-  dob: 10/24/1978
-  address: 8312 East Blvd
-  city: Los Angeles
-  state: PA

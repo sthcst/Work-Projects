@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Murillo
-  email: lisa.murillo292@example.com
-  phone: (322) 815-8811
-  ssn: 212-37-6065
-  dob: 09/09/1959
-  address: 9108 East Rd
-  city: Seattle
-  state: CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Harris,richard.harris4940@business.net,814-202-2013,527 48 4689,11/21/2005,"5023 Park Ln",Austin,TN

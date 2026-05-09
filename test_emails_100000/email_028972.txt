@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Edwards
-  email: nicole.edwards6591@outlook.com
-  phone: (335) 989-6830
-  ssn: 563 37 2855
-  dob: 12-20-1958
-  address: 9692 Main Rd
-  city: Seattle
-  state: CO

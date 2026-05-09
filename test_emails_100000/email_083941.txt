@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Bell,ronald.bell3198@mail.com,475 907 6716,951-78-4790,05/02/1954,"1700 Main Dr",Los Angeles,IL

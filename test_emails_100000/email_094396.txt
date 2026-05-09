@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Wilson
-  email: joshua.wilson9430@company.com
-  phone: 617 489 5594
-  ssn: 245 91 1001
-  dob: 24/06/2005
-  address: 9960 First Court
-  city: Dallas
-  state: CA

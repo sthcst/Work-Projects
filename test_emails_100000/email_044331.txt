@@ -1,9 +1,0 @@
-contact:
-  name: Edward Williams
-  email: edward.williams1414@company.com
-  phone: (709) 500-9913
-  ssn: 956 25 3740
-  dob: 12-08-1952
-  address: 8657 Fourth Ln
-  city: Boston
-  state: AZ

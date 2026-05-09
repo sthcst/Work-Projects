@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Roberts,cynthia.roberts2651@mail.com,937 492 4684,456024124,11/11/1990,"9931 Cedar Blvd",Austin,IL

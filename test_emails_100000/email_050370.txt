@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Sanchez
-  email: lisa.sanchez3812@mail.com
-  phone: 814-374-7939
-  ssn: 673-95-4525
-  dob: 03/22/1974
-  address: 8092 West Blvd
-  city: San Diego
-  state: AZ

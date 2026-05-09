@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Anderson
-  email: joshua.anderson6830@mail.com
-  phone: (383) 535-4470
-  ssn: 942033634
-  dob: 10-26-1963
-  address: 9963 East Ln
-  city: Los Angeles
-  state: MA

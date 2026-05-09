@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Johnson,christopher.johnson2310@mail.com,846-909-7593,200 84 6576,12/02/2002,"6476 Park Rd",Seattle,TX

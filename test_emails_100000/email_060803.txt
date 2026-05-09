@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Johnson,jessica.johnson5146@mail.com,+1 258-941-4075,724-49-2077,09/01/1975,"1994 Oak Blvd",Washington,CA

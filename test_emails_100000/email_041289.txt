@@ -1,9 +1,0 @@
-contact:
-  name: Charles Young
-  email: charles.young2420@business.net
-  phone: 841 217 8923
-  ssn: 162-38-4051
-  dob: 9/4/1973
-  address: 6841 First Dr
-  city: Dallas
-  state: MA

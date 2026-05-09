@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Phillips,robert.phillips9988@company.com,(640) 419-2678,427-58-5077,10/1/1973,"3487 Park Rd",Phoenix,DC

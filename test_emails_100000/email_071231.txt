@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Moore
-  email: pamela.moore3366@outlook.com
-  phone: 203-884-1772
-  ssn: 328396913
-  dob: 9/12/2003
-  address: 1978 East Dr
-  city: Denver
-  state: DC

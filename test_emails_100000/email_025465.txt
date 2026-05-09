@@ -1,9 +1,0 @@
-contact:
-  name: Steven Wilson
-  email: steven.wilson1126@mail.com
-  phone: 656 465 8972
-  ssn: 125 54 7595
-  dob: 02/05/1952
-  address: 371 Maple Court
-  city: Boston
-  state: TX

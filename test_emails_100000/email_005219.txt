@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Lee,rebecca.lee4712@yahoo.com,824-496-5412,812783936,02-15-1999,"5604 Fifth Dr",Phoenix,NY

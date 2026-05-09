@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Nunez
-  email: matthew.nunez3971@mail.com
-  phone: 410-882-1768
-  ssn: 333-09-2688
-  dob: 07/28/1970
-  address: 5524 Third Rd
-  city: San Antonio
-  state: MO

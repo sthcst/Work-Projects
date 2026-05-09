@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Jimenez,matthew.jimenez4850@example.com,+1 976-768-2475,690193319,15/04/1986,"9257 North Dr",Philadelphia,CA

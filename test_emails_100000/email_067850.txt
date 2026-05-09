@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Clark
-  email: nicholas.clark5694@example.com
-  phone: +1 305-220-9397
-  ssn: 002 94 6187
-  dob: 26/02/1960
-  address: 9488 Cedar Way
-  city: Houston
-  state: MA

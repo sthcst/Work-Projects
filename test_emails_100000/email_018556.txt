@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Jackson
-  email: deborah.jackson1463@example.com
-  phone: (630) 694-7066
-  ssn: 082185452
-  dob: 03-15-1971
-  address: 9869 Park Rd
-  city: Boston
-  state: PA

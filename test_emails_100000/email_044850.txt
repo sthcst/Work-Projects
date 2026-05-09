@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Peterson
-  email: ashley.peterson1054@outlook.com
-  phone: +1 870-568-2645
-  ssn: 798346177
-  dob: 2/12/1983
-  address: 3115 Oak Way
-  city: Dallas
-  state: FL

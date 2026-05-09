@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Garcia
-  email: kevin.garcia7433@gmail.com
-  phone: (235) 350-9859
-  ssn: 191269783
-  dob: 05-07-2003
-  address: 9521 Fifth Rd
-  city: Washington
-  state: NJ

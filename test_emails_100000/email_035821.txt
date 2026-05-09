@@ -1,9 +1,0 @@
-contact:
-  name: Michael Martin
-  email: michael.martin5670@yahoo.com
-  phone: +1 664-229-7143
-  ssn: 148049173
-  dob: 12/16/1990
-  address: 1676 East Court
-  city: Washington
-  state: OH

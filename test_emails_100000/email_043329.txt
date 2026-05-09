@@ -1,9 +1,0 @@
-contact:
-  name: Christine Martinez
-  email: christine.martinez1009@example.com
-  phone: 764 482 8837
-  ssn: 976-55-5490
-  dob: 11/23/1958
-  address: 4969 Elm St
-  city: Boston
-  state: NY

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Harris,daniel.harris4046@mail.com,+1 763-833-7703,217752650,15/12/1998,"6275 First Court",San Diego,NY

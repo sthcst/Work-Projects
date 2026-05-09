@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Campbell
-  email: cynthia.campbell7196@gmail.com
-  phone: 978 698 6106
-  ssn: 259 83 3749
-  dob: 12/18/1994
-  address: 7922 Oak St
-  city: Phoenix
-  state: IL

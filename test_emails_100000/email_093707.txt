@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Taylor
-  email: ashley.taylor3206@example.com
-  phone: 324 437 5737
-  ssn: 756032393
-  dob: 12/19/1975
-  address: 192 Fifth Court
-  city: Phoenix
-  state: DC

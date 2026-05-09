@@ -1,9 +1,0 @@
-contact:
-  name: William Johnson
-  email: william.johnson3505@example.com
-  phone: 910 212 5726
-  ssn: 778934142
-  dob: 11-25-1980
-  address: 4901 Birch Rd
-  city: Los Angeles
-  state: PA

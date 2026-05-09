@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Flores
-  email: amanda.flores7705@mail.com
-  phone: 936 396 2837
-  ssn: 195-14-7705
-  dob: 2/5/1957
-  address: 4890 Sixth St
-  city: Dallas
-  state: CA

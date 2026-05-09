@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Serrano,lisa.serrano895@mail.com,470 213 1545,096743334,07/19/1992,"9535 Maple Rd",Phoenix,TX

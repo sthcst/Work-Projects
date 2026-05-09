@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Morgan
-  email: nicole.morgan3018@company.com
-  phone: 795-662-6560
-  ssn: 459-86-6430
-  dob: 9/28/1952
-  address: 6002 Park Dr
-  city: Boston
-  state: PA

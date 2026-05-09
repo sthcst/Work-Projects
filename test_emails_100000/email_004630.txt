@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Robinson,jennifer.robinson7340@yahoo.com,883-925-8856,382 89 8811,04-21-1987,"3461 Maple Ave",Houston,TX

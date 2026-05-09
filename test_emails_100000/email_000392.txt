@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Smith
-  email: christopher.smith3676@gmail.com
-  phone: (637) 594-3414
-  ssn: 362-84-5699
-  dob: 11/13/1993
-  address: 8067 Cedar Ave
-  city: San Diego
-  state: TX

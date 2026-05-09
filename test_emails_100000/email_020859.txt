@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Evans,nicholas.evans3466@mail.com,469-451-1084,613 34 2294,11-10-1983,"6061 West St",Jacksonville,TX

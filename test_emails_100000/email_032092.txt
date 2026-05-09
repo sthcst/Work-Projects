@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Jackson,jeffrey.jackson8161@example.com,658-759-1424,813822767,9/12/1986,"7727 Birch Dr",Jacksonville,WI

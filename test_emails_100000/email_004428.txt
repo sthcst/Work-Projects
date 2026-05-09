@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Nunez,katherine.nunez6556@company.com,825-631-7085,041-05-5931,02-03-1977,"5767 Third Ave",Seattle,MI

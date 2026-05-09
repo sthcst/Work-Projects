@@ -1,9 +1,0 @@
-contact:
-  name: Paul Collins
-  email: paul.collins6321@company.com
-  phone: 285-862-5290
-  ssn: 043125485
-  dob: 10/05/1999
-  address: 5152 Spring Ave
-  city: Dallas
-  state: NJ

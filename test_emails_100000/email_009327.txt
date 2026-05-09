@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Phillips
-  email: joshua.phillips9911@example.com
-  phone: 901 489 2171
-  ssn: 202 84 9234
-  dob: 07/10/1957
-  address: 2537 Summer Dr
-  city: San Antonio
-  state: CA

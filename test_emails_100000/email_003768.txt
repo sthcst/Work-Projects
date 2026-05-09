@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Lee
-  email: lisa.lee8919@example.com
-  phone: 256-674-9395
-  ssn: 865187791
-  dob: 11/20/1963
-  address: 3560 Cedar Dr
-  city: Houston
-  state: WI

@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Ramirez
-  email: joshua.ramirez8268@work.org
-  phone: +1 326-496-4443
-  ssn: 225-35-9853
-  dob: 4/27/1980
-  address: 2665 Sixth Dr
-  city: Washington
-  state: MA

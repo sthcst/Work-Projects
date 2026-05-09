@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Evans,robert.evans1389@yahoo.com,+1 639-929-6712,952 59 6333,11/01/1975,"4748 Oak St",New York,CA

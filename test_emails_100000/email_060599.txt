@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Sanchez,nicole.sanchez4144@mail.com,937-548-3180,874873928,02-21-1991,"9856 West Dr",Austin,FL

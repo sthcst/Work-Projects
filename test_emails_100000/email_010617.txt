@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Martin
-  email: matthew.martin7792@business.net
-  phone: 428-310-1607
-  ssn: 954521648
-  dob: 09/04/1984
-  address: 675 Birch Dr
-  city: New York
-  state: AZ

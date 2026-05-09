@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Johnson,mark.johnson6368@business.net,750 371 2743,971 97 4963,07/16/1993,"1154 North Rd",Dallas,OH

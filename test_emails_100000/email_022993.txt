@@ -1,9 +1,0 @@
-contact:
-  name: David Romero
-  email: david.romero141@yahoo.com
-  phone: +1 517-527-6458
-  ssn: 417326166
-  dob: 20/11/1991
-  address: 1834 Elm Ln
-  city: San Diego
-  state: FL

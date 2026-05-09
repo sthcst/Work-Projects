@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Parker,kathleen.parker9472@company.com,+1 314-345-8100,846609871,2/13/1973,"5038 First Ln",Jacksonville,FL

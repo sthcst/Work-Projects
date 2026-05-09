@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Phillips
-  email: anthony.phillips2379@work.org
-  phone: 360-719-4025
-  ssn: 655434386
-  dob: 2/15/1982
-  address: 9663 Third Blvd
-  city: Boston
-  state: FL

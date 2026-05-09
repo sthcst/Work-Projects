@@ -1,9 +1,0 @@
-contact:
-  name: Maria Hernandez
-  email: maria.hernandez2138@company.com
-  phone: 481-386-8341
-  ssn: 172-07-6127
-  dob: 11/24/1989
-  address: 4549 Maple Rd
-  city: San Diego
-  state: CO

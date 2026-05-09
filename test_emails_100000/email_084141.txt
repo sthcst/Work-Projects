@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Anderson
-  email: ashley.anderson5719@mail.com
-  phone: +1 275-709-9019
-  ssn: 893923845
-  dob: 16/03/1979
-  address: 2958 Second Rd
-  city: Dallas
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Edward Taylor
-  email: edward.taylor7295@mail.com
-  phone: 737-608-7403
-  ssn: 608-01-9977
-  dob: 04/13/2003
-  address: 4538 Pine St
-  city: Austin
-  state: TX

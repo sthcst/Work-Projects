@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Flores
-  email: ryan.flores5807@outlook.com
-  phone: (661) 347-8877
-  ssn: 798-45-4593
-  dob: 06/09/1972
-  address: 8244 Sixth Blvd
-  city: Washington
-  state: WA

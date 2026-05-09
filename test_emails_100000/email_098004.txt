@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Flores,robert.flores1758@business.net,+1 401-265-9791,827 84 1960,02-16-1955,"90 Oak Dr",Philadelphia,PA

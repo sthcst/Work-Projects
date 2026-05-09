@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Edwards,lisa.edwards6239@mail.com,266-873-5272,991 40 4352,07/25/1973,"4950 West Way",Austin,VA

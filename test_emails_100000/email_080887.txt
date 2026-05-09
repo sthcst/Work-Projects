@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Walker
-  email: nicholas.walker4612@work.org
-  phone: (541) 426-8036
-  ssn: 034-90-6019
-  dob: 01/06/1995
-  address: 9521 West Way
-  city: Washington
-  state: WA

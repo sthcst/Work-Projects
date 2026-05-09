@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Jimenez,samantha.jimenez6303@work.org,766 531 8385,119356227,9/21/1958,"4611 Elm Dr",Chicago,MI

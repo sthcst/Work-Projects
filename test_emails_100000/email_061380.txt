@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Robinson
-  email: anthony.robinson8126@company.com
-  phone: 745 425 4657
-  ssn: 062-97-1328
-  dob: 04-19-1999
-  address: 3223 North Court
-  city: Los Angeles
-  state: MO

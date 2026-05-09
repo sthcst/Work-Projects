@@ -1,9 +1,0 @@
-contact:
-  name: David Delgado
-  email: david.delgado5531@company.com
-  phone: (296) 303-4839
-  ssn: 911819911
-  dob: 12/20/2001
-  address: 4070 Third Way
-  city: New York
-  state: NY

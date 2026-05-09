@@ -1,9 +1,0 @@
-contact:
-  name: Steven Nunez
-  email: steven.nunez2115@outlook.com
-  phone: (362) 545-1241
-  ssn: 956403673
-  dob: 03-18-2000
-  address: 9212 East Dr
-  city: Chicago
-  state: DC

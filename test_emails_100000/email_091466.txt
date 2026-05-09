@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Martinez,shirley.martinez580@outlook.com,(934) 490-8677,615203178,09/24/1987,"1691 Oak Ln",Boston,FL

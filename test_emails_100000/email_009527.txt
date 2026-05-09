@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Garcia,amanda.garcia6427@mail.com,507 472 4663,065 54 4661,12-10-1981,"3273 Oak Blvd",New York,PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Brown,william.brown2744@yahoo.com,+1 643-612-4560,910419770,07/06/1955,"3751 Oak Ln",Boston,MD

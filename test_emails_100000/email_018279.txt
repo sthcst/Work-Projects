@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Walker,maria.walker6784@business.net,+1 769-404-8932,833-70-2613,12/12/1967,"1886 Oak Blvd",New York,CA

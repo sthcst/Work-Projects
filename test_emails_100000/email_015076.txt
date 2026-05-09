@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly White
-  email: kimberly.white5645@work.org
-  phone: (971) 917-2730
-  ssn: 735-85-2541
-  dob: 27/03/2003
-  address: 4210 Pine Blvd
-  city: Seattle
-  state: VA

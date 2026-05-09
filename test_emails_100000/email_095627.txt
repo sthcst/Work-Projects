@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Jackson,rachel.jackson1240@work.org,(908) 406-5060,751-10-1765,25/09/1971,"4881 East Ave",Chicago,WA

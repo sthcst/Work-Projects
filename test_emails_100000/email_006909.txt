@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Lewis,jennifer.lewis8584@business.net,+1 417-789-9600,101-99-5346,01/16/1994,"4316 North Dr",Dallas,PA

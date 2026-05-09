@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Thompson,edward.thompson6014@outlook.com,361 966 7736,584064704,11/21/1961,"7121 Cedar Way",Jacksonville,TX

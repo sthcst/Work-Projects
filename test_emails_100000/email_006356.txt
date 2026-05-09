@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Evans
-  email: samantha.evans8463@gmail.com
-  phone: 702 251 9946
-  ssn: 652-42-2767
-  dob: 10-10-1953
-  address: 840 First Ave
-  city: Chicago
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Michael Taylor
-  email: michael.taylor1566@outlook.com
-  phone: 698 892 6142
-  ssn: 721734128
-  dob: 01/11/1957
-  address: 2799 Oak Ln
-  city: Chicago
-  state: DC

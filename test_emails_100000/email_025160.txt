@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Lee,amanda.lee7987@mail.com,+1 990-803-6830,225 31 4771,11/17/1992,"5641 Maple Rd",Philadelphia,AZ

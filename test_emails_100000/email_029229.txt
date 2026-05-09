@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Martinez
-  email: ashley.martinez2296@work.org
-  phone: (806) 748-5884
-  ssn: 700424438
-  dob: 01/12/1955
-  address: 6324 Fifth Dr
-  city: Phoenix
-  state: NJ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Bell,shirley.bell9342@yahoo.com,(234) 588-6710,802 71 8032,11/13/1984,"1763 Fourth Dr",San Diego,TX

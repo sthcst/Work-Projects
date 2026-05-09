@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Parker
-  email: kevin.parker7839@business.net
-  phone: +1 392-938-6011
-  ssn: 463347718
-  dob: 04/28/1982
-  address: 7804 South Rd
-  city: Houston
-  state: MD

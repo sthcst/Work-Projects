@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Thomas
-  email: sarah.thomas8370@company.com
-  phone: 519 702 9853
-  ssn: 442759992
-  dob: 10-04-1959
-  address: 5337 West St
-  city: Houston
-  state: VA

@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Williams
-  email: ronald.williams9595@gmail.com
-  phone: (815) 935-6810
-  ssn: 528-18-1001
-  dob: 6/24/1953
-  address: 3401 South Dr
-  city: Jacksonville
-  state: CO

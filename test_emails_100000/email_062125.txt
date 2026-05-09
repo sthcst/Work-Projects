@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Ortiz
-  email: brenda.ortiz1913@gmail.com
-  phone: 363 717 5931
-  ssn: 990-44-8141
-  dob: 8/4/1976
-  address: 7681 North St
-  city: Chicago
-  state: MO

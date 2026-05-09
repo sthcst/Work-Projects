@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Brown,deborah.brown8534@business.net,+1 951-754-8998,182-27-4567,08-23-1958,"4522 Cedar Ave",Seattle,MD

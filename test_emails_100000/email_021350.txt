@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Martin
-  email: rebecca.martin1808@gmail.com
-  phone: (902) 915-5035
-  ssn: 223651080
-  dob: 09/18/2003
-  address: 9111 Birch Way
-  city: Chicago
-  state: FL

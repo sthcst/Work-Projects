@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Romero
-  email: kathleen.romero5870@outlook.com
-  phone: (277) 678-1660
-  ssn: 249 30 9404
-  dob: 04/02/2003
-  address: 7083 Maple Court
-  city: Seattle
-  state: TX

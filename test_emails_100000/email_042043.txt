@@ -1,9 +1,0 @@
-contact:
-  name: Megan Anderson
-  email: megan.anderson8306@mail.com
-  phone: +1 447-224-3164
-  ssn: 892 32 3378
-  dob: 04-20-1961
-  address: 4326 Oak St
-  city: Denver
-  state: FL

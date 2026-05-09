@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Romero,kathleen.romero6908@work.org,(969) 573-6414,938 77 8187,07/07/1972,"9742 Pine Rd",Dallas,MO

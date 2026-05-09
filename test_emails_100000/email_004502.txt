@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Perez
-  email: ryan.perez4988@example.com
-  phone: (338) 443-3103
-  ssn: 677 94 4987
-  dob: 20/11/1960
-  address: 9395 Elm Way
-  city: Los Angeles
-  state: CA

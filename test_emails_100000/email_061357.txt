@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Collins,gary.collins4431@outlook.com,764-897-5500,497673705,13/04/1973,"9155 West Ave",Seattle,TX

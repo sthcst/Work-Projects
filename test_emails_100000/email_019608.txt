@@ -1,9 +1,0 @@
-contact:
-  name: Angela White
-  email: angela.white375@yahoo.com
-  phone: +1 769-834-8518
-  ssn: 027 95 5560
-  dob: 03/11/1963
-  address: 6484 Park Dr
-  city: Phoenix
-  state: MO

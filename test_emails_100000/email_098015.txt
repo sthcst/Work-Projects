@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela White,pamela.white715@business.net,+1 660-532-4142,726 15 4570,05-13-2004,"7020 Second St",Phoenix,CO

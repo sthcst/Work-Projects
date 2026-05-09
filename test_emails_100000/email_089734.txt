@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Robinson,joshua.robinson9085@business.net,733 817 7330,948-05-9729,08-25-1958,"8416 First Ln",Denver,FL

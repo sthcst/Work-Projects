@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Johnson,jennifer.johnson8856@work.org,+1 355-970-8099,573959368,11-13-1952,"4921 West Dr",Denver,OH

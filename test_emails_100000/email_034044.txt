@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Martin,john.martin5809@yahoo.com,(657) 879-3299,608 61 7278,10/21/1988,"7532 South Way",Washington,TN

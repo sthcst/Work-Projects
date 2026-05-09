@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Phillips,lauren.phillips9712@mail.com,729-957-2800,779-71-3292,04-09-1975,"1161 Pine Ln",Austin,FL

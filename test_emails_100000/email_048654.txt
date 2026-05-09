@@ -1,9 +1,0 @@
-contact:
-  name: Paul Flores
-  email: paul.flores2829@example.com
-  phone: 528 262 3281
-  ssn: 642-39-5930
-  dob: 5/20/1992
-  address: 9875 Fourth Ln
-  city: Boston
-  state: FL

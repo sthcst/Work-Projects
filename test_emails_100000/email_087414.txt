@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Sanchez
-  email: sarah.sanchez6581@work.org
-  phone: (322) 868-5407
-  ssn: 981308181
-  dob: 11-17-1992
-  address: 4564 Oak Blvd
-  city: Seattle
-  state: DC

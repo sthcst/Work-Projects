@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Romero,jessica.romero2233@example.com,(386) 246-9520,183-72-4664,10-05-1980,"8783 Cedar Rd",Philadelphia,OH

@@ -1,9 +1,0 @@
-contact:
-  name: Gary Romero
-  email: gary.romero2552@example.com
-  phone: (470) 502-3501
-  ssn: 736 30 9009
-  dob: 6/14/1972
-  address: 7243 Pine Court
-  city: Washington
-  state: WA

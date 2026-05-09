@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Jackson,maria.jackson2900@example.com,+1 664-507-8810,489133356,10/25/1978,"9313 Second St",San Diego,CO

@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Romero
-  email: cynthia.romero5744@yahoo.com
-  phone: (207) 425-9733
-  ssn: 004-18-4503
-  dob: 09-20-1981
-  address: 1743 Spring Rd
-  city: San Antonio
-  state: WA

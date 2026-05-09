@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Guerrero
-  email: christopher.guerrero4671@mail.com
-  phone: 876 438 2992
-  ssn: 775362009
-  dob: 22/05/1989
-  address: 7008 Pine Ave
-  city: Denver
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Charles Reed
-  email: charles.reed4161@work.org
-  phone: +1 670-991-4328
-  ssn: 242 08 9040
-  dob: 14/02/1977
-  address: 8345 Fourth Court
-  city: Dallas
-  state: IL

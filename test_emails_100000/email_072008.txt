@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Gomez
-  email: daniel.gomez3242@mail.com
-  phone: +1 788-360-7889
-  ssn: 531-32-8551
-  dob: 02/08/1950
-  address: 8426 Summer St
-  city: New York
-  state: PA

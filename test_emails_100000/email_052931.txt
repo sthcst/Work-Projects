@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Perez,maria.perez6645@business.net,720-355-4634,753 15 6911,10-27-1999,"8072 East Way",Chicago,FL

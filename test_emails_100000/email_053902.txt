@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Thomas,nicole.thomas9179@yahoo.com,272 868 8999,697159601,12-04-1988,"7880 Third St",San Diego,IL

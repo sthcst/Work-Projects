@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Cooper,katherine.cooper2751@example.com,+1 470-808-2890,593736911,7/10/1979,"8731 Main Dr",Seattle,AZ

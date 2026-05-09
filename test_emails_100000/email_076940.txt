@@ -1,9 +1,0 @@
-contact:
-  name: Richard Taylor
-  email: richard.taylor3108@work.org
-  phone: 335-735-9472
-  ssn: 603-67-6838
-  dob: 03/26/1993
-  address: 4347 Sixth St
-  city: Seattle
-  state: NC

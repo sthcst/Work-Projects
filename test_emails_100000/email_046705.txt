@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Young,christopher.young39@example.com,372-694-1967,119971230,28/07/2003,"7095 Second St",Phoenix,NC

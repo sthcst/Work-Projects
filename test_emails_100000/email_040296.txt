@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Davis
-  email: kimberly.davis5983@mail.com
-  phone: 533 419 8150
-  ssn: 731-06-7226
-  dob: 12/07/1975
-  address: 1299 West Way
-  city: Seattle
-  state: FL

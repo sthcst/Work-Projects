@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Garcia,ashley.garcia365@business.net,(918) 752-6421,868 80 6380,6/2/1969,"9232 Fourth Way",San Antonio,TN

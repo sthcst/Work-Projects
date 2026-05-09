@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Jones,christine.jones8549@company.com,+1 768-955-3984,699 13 5651,28/05/1983,"6331 Fifth Court",Phoenix,DC

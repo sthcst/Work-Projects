@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Thompson,lauren.thompson6653@work.org,688-211-5453,549 40 2981,10/12/1976,"3901 Birch Dr",Dallas,MA

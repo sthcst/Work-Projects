@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Edwards,brian.edwards9048@yahoo.com,940-284-2730,733-15-4982,7/24/1961,"1546 Birch Rd",San Antonio,FL

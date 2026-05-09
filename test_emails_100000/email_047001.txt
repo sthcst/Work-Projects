@@ -1,9 +1,0 @@
-contact:
-  name: George Serrano
-  email: george.serrano9109@gmail.com
-  phone: 400 658 4557
-  ssn: 818 67 4393
-  dob: 7/27/1997
-  address: 3966 Main Court
-  city: Chicago
-  state: WI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Carter,ronald.carter1477@mail.com,624-898-2363,508 81 6224,06/03/1993,"8065 East St",Boston,WA

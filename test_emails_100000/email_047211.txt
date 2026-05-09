@@ -1,9 +1,0 @@
-contact:
-  name: Paul Campbell
-  email: paul.campbell8954@mail.com
-  phone: 440-729-4620
-  ssn: 570 02 6982
-  dob: 09/12/1952
-  address: 6214 Summer Way
-  city: San Diego
-  state: AZ

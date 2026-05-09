@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Clark
-  email: christopher.clark331@business.net
-  phone: +1 476-557-7401
-  ssn: 646-72-3703
-  dob: 01-13-1962
-  address: 5735 Birch Way
-  city: San Diego
-  state: TN

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Miller,david.miller3254@work.org,(503) 589-7985,190953252,11/11/1964,"4212 Spring Court",San Jose,MA

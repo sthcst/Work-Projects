@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Edwards,cynthia.edwards4224@example.com,(244) 526-5683,766725612,05/11/1964,"2047 Fourth St",Houston,VA

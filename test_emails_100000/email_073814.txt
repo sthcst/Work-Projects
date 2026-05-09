@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Campbell,john.campbell2674@gmail.com,917 697 8131,820772718,11/06/1984,"7859 North St",Dallas,VA

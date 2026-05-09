@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Collins,anna.collins7500@mail.com,+1 566-523-8191,928-65-5995,06-18-2005,"4678 Main Ave",Chicago,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Ortiz,mark.ortiz4070@gmail.com,878-755-5217,464 91 8600,06-03-1987,"6841 First Rd",Denver,CA

@@ -1,9 +1,0 @@
-contact:
-  name: David Edwards
-  email: david.edwards8251@outlook.com
-  phone: (877) 260-5797
-  ssn: 202-56-6666
-  dob: 04-02-1965
-  address: 5668 Third Rd
-  city: Washington
-  state: PA

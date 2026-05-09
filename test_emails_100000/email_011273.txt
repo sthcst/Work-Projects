@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Hernandez,timothy.hernandez5208@mail.com,(803) 842-5509,168 72 5362,09/14/1954,"1673 Main Ln",Los Angeles,WI

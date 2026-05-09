@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Reed
-  email: pamela.reed5443@business.net
-  phone: 598 578 2643
-  ssn: 451-81-6202
-  dob: 11/10/1978
-  address: 5385 Fourth Blvd
-  city: Dallas
-  state: OH

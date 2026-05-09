@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Evans,donald.evans2288@gmail.com,(416) 720-6120,633-92-6129,05-17-1993,"4000 Oak Blvd",Chicago,TX

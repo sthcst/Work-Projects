@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Ramirez,ryan.ramirez682@company.com,+1 307-256-5549,260142163,1/11/1956,"5985 Second Way",Houston,MA

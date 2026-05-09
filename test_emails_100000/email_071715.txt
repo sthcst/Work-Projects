@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Campbell,kimberly.campbell9970@company.com,855 674 7504,098 01 7126,6/18/2004,"909 Cedar Rd",San Antonio,TN

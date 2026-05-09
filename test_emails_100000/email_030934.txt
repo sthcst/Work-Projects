@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Evans,lauren.evans166@work.org,955-891-4468,678075372,05/27/2005,"6786 Oak Dr",Phoenix,NC

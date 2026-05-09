@@ -1,9 +1,0 @@
-contact:
-  name: Michael Reeves
-  email: michael.reeves5763@company.com
-  phone: 349 779 6564
-  ssn: 890 48 7516
-  dob: 3/17/1970
-  address: 7879 Fifth Ln
-  city: Washington
-  state: MI

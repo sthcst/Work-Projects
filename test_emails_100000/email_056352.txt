@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Lewis,christopher.lewis5423@gmail.com,393 751 2218,061 53 1454,08/12/1961,"5992 Oak Ln",Austin,AZ

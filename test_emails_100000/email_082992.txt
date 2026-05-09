@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Hall
-  email: joshua.hall8219@example.com
-  phone: (878) 296-5354
-  ssn: 364189211
-  dob: 12/10/1990
-  address: 4680 North Ave
-  city: Seattle
-  state: TX

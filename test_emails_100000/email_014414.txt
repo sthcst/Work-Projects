@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Moore,matthew.moore8371@gmail.com,+1 415-659-5519,117 69 2691,09/06/1957,"2502 Summer Ln",Jacksonville,CA

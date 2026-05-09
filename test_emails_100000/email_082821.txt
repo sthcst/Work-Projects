@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Thompson,samantha.thompson5578@yahoo.com,996 787 1483,543-44-2248,5/26/1956,"9524 Third Dr",Denver,NY

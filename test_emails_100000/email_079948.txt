@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Cooper,amanda.cooper9923@business.net,284-731-2523,437 20 4572,08-23-1962,"2155 Pine Ln",Washington,IL

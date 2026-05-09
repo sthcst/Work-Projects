@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Anderson,donald.anderson5612@yahoo.com,(933) 882-6306,339-46-1524,21/02/1957,"2559 Third Dr",Boston,VA

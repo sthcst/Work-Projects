@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Nelson
-  email: rebecca.nelson6583@example.com
-  phone: +1 702-509-1442
-  ssn: 345 88 8754
-  dob: 01/28/1959
-  address: 4027 Second Ln
-  city: New York
-  state: NY

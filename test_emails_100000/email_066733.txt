@@ -1,9 +1,0 @@
-contact:
-  name: Angela Delgado
-  email: angela.delgado2727@company.com
-  phone: +1 744-452-2524
-  ssn: 288602405
-  dob: 05/02/1993
-  address: 1018 West Blvd
-  city: San Antonio
-  state: CA

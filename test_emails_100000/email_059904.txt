@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Edwards
-  email: shirley.edwards2835@yahoo.com
-  phone: 768 594 4915
-  ssn: 339451118
-  dob: 12-02-1956
-  address: 1080 Cedar Dr
-  city: New York
-  state: AZ

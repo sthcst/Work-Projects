@@ -1,9 +1,0 @@
-contact:
-  name: Donald Rogers
-  email: donald.rogers8515@company.com
-  phone: 701-546-5604
-  ssn: 764-75-9580
-  dob: 18/09/1965
-  address: 3017 Pine Ln
-  city: Austin
-  state: FL

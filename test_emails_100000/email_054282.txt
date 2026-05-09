@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Young,jennifer.young7360@work.org,238-228-7990,909-46-9146,04/10/2004,"4592 Maple St",Dallas,FL

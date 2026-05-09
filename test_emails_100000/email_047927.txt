@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Martin,rebecca.martin8472@outlook.com,859 565 9167,865-63-8600,12-24-1995,"3654 Spring Ave",San Diego,NY

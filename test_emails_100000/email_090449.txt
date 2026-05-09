@@ -1,9 +1,0 @@
-contact:
-  name: Mark Ramirez
-  email: mark.ramirez8956@gmail.com
-  phone: (836) 399-7230
-  ssn: 580-84-5324
-  dob: 26/12/1950
-  address: 2629 Spring Court
-  city: Boston
-  state: WA

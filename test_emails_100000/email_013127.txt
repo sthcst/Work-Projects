@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Cooper,maria.cooper3889@yahoo.com,738 955 3191,621055575,09/05/1977,"2737 West Rd",Denver,MO

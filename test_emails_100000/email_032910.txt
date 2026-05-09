@@ -1,9 +1,0 @@
-contact:
-  name: Michael Miller
-  email: michael.miller6936@outlook.com
-  phone: +1 720-928-9807
-  ssn: 642-87-4463
-  dob: 3/15/1961
-  address: 4537 Pine Rd
-  city: Chicago
-  state: GA

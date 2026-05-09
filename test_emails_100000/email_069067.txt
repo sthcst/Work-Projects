@@ -1,9 +1,0 @@
-contact:
-  name: Anna Rogers
-  email: anna.rogers8903@yahoo.com
-  phone: 315 686 1189
-  ssn: 157741029
-  dob: 12/02/1968
-  address: 4471 North Court
-  city: Philadelphia
-  state: FL

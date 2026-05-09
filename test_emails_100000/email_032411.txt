@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Anderson,matthew.anderson7847@example.com,(973) 611-3770,735516813,06-15-1974,"8328 Third Dr",Phoenix,CO

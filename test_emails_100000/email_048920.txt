@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Miller,matthew.miller4638@business.net,+1 377-949-9708,313-59-8724,6/19/1969,"7117 West Way",Jacksonville,OH

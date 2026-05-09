@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Garcia
-  email: michelle.garcia1862@example.com
-  phone: 594-826-9208
-  ssn: 649-83-8419
-  dob: 08/05/1985
-  address: 2937 Third Dr
-  city: Denver
-  state: AZ

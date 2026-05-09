@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Moore
-  email: christopher.moore3983@business.net
-  phone: (844) 643-8666
-  ssn: 367-38-7154
-  dob: 01/22/1954
-  address: 6119 West Way
-  city: San Antonio
-  state: WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Jones,nicholas.jones3659@business.net,774 986 7376,500-24-5180,10/03/2000,"8493 East Way",San Jose,MA

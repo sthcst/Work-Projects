@@ -1,9 +1,0 @@
-contact:
-  name: Emma Gonzalez
-  email: emma.gonzalez3245@company.com
-  phone: 364-845-3704
-  ssn: 963-37-5631
-  dob: 09-15-1977
-  address: 2009 East Dr
-  city: Houston
-  state: AZ

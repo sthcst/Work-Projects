@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren White,lauren.white9389@gmail.com,647 803 7995,251 88 3660,24/05/1992,"3549 East Ave",Seattle,TX

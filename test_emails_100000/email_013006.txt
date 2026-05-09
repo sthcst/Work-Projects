@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth White
-  email: kenneth.white8896@company.com
-  phone: +1 650-516-5090
-  ssn: 957438738
-  dob: 11/19/1977
-  address: 4578 Park Ln
-  city: Houston
-  state: NJ

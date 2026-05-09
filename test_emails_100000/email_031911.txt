@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Jones
-  email: nicole.jones6011@gmail.com
-  phone: 763 310 2442
-  ssn: 990-30-4385
-  dob: 07/20/1974
-  address: 3207 North Blvd
-  city: Philadelphia
-  state: TX

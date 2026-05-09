@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Jackson
-  email: brenda.jackson1546@work.org
-  phone: 447 221 7669
-  ssn: 293-64-5938
-  dob: 10/21/1962
-  address: 6413 Third Ln
-  city: San Jose
-  state: FL

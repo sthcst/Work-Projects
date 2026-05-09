@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Wilson
-  email: brenda.wilson3257@example.com
-  phone: 498-880-2137
-  ssn: 646 37 3359
-  dob: 4/12/1958
-  address: 7645 Spring Ln
-  city: Los Angeles
-  state: TX

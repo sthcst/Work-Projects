@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Murillo,jane.murillo5224@work.org,257-246-3677,579 96 9411,11/24/1976,"7235 Main Rd",Denver,NY

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Young,jennifer.young2324@mail.com,228-617-8345,773095142,3/16/1966,"8490 Summer Way",Los Angeles,VA

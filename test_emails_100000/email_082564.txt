@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Romero,helen.romero8172@mail.com,412-759-4521,382 82 7858,7/20/1978,"8908 Cedar Rd",San Diego,AZ

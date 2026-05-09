@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Jackson,anna.jackson9242@outlook.com,+1 957-642-2118,531 39 8017,11/19/2000,"9421 Second Ave",Los Angeles,WA

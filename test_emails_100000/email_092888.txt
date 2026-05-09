@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Cooper,cynthia.cooper961@business.net,(771) 664-1373,084 94 4924,01/16/1983,"4419 Summer Ave",Denver,TX

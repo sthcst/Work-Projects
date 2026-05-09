@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Wilson,amanda.wilson9998@mail.com,+1 969-538-4529,294533087,09/10/1998,"8663 East Ave",San Jose,WA

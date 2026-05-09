@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Evans,daniel.evans4104@outlook.com,713 566 5521,142-08-7886,10/06/1987,"6168 Pine Blvd",Austin,WA

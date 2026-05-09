@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Williams
-  email: ashley.williams8277@example.com
-  phone: +1 528-753-9650
-  ssn: 018413098
-  dob: 01-28-1978
-  address: 7529 Sixth Ln
-  city: Boston
-  state: FL

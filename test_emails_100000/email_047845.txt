@@ -1,9 +1,0 @@
-contact:
-  name: George Gonzalez
-  email: george.gonzalez6559@yahoo.com
-  phone: (661) 925-6763
-  ssn: 328-83-8496
-  dob: 12/02/1980
-  address: 118 Fourth Court
-  city: Seattle
-  state: TN

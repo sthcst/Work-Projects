@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Nelson,maria.nelson4295@yahoo.com,+1 610-839-1419,373-36-1400,3/16/1964,"2217 Second Blvd",Denver,NY

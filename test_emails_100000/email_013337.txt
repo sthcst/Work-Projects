@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Rodriguez,jessica.rodriguez2163@work.org,587 762 7635,933 82 1389,11-27-1994,"6830 Spring Dr",San Diego,OH

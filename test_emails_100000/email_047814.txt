@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Roberts,brenda.roberts2354@outlook.com,367-282-5964,519 83 1051,23/01/2000,"6008 Spring Blvd",San Jose,MA

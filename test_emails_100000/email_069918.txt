@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Gomez
-  email: lisa.gomez9655@business.net
-  phone: 329 275 3992
-  ssn: 664 70 9398
-  dob: 01-20-1992
-  address: 904 East Blvd
-  city: Chicago
-  state: OH

@@ -1,9 +1,0 @@
-contact:
-  name: Charles Nelson
-  email: charles.nelson3447@work.org
-  phone: (886) 460-6414
-  ssn: 968 49 6687
-  dob: 09-20-1982
-  address: 9793 Oak Ave
-  city: San Antonio
-  state: MD

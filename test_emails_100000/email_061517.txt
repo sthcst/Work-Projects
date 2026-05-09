@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Jones,edward.jones7980@mail.com,471-901-3802,930-94-9535,23/01/1989,"2302 Fifth Dr",Denver,WA

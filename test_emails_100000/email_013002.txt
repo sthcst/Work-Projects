@@ -1,9 +1,0 @@
-contact:
-  name: Emma Thomas
-  email: emma.thomas8393@yahoo.com
-  phone: +1 245-291-2122
-  ssn: 157643322
-  dob: 3/28/1961
-  address: 7561 Park St
-  city: Boston
-  state: CA

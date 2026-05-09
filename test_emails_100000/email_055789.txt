@@ -1,9 +1,0 @@
-contact:
-  name: Anna Johnson
-  email: anna.johnson9289@yahoo.com
-  phone: (848) 847-1309
-  ssn: 607-30-8744
-  dob: 4/3/2005
-  address: 4367 East Ave
-  city: Austin
-  state: CA

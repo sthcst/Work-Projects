@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Delgado,robert.delgado1523@example.com,(661) 986-4435,996 53 3480,27/04/1955,"4987 Spring St",Dallas,TX

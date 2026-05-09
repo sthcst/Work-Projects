@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Martinez,emily.martinez3836@yahoo.com,+1 813-725-8822,890-16-9342,05/12/2000,"5233 East Rd",San Diego,MO

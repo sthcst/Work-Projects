@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Davis
-  email: matthew.davis8972@mail.com
-  phone: (474) 979-6202
-  ssn: 817-43-1236
-  dob: 11/4/1977
-  address: 736 Second Ln
-  city: San Antonio
-  state: FL

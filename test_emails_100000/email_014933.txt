@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Hall,mark.hall7642@gmail.com,744-832-8616,221 41 1387,05-20-2001,"3978 West Rd",Denver,TX

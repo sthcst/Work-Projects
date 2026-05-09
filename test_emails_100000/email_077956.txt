@@ -1,9 +1,0 @@
-contact:
-  name: Helen Sanchez
-  email: helen.sanchez7156@business.net
-  phone: 575-220-2691
-  ssn: 863 67 5676
-  dob: 03/25/1957
-  address: 5121 Oak Court
-  city: New York
-  state: OH

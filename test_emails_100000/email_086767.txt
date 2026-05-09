@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Reeves
-  email: ryan.reeves9166@company.com
-  phone: (587) 556-2235
-  ssn: 626712304
-  dob: 03-11-1987
-  address: 3479 Sixth Ave
-  city: Dallas
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Nelson
-  email: rebecca.nelson1631@gmail.com
-  phone: 515-610-2087
-  ssn: 474255712
-  dob: 02/26/1989
-  address: 7640 East Ln
-  city: Denver
-  state: VA

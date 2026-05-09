@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Campbell,shirley.campbell7726@company.com,772-657-9408,087-85-4545,9/1/1995,"4675 North Ln",Houston,CA

@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Brown
-  email: brenda.brown4542@mail.com
-  phone: +1 720-255-6119
-  ssn: 055 23 6700
-  dob: 05/04/1988
-  address: 8419 Elm Rd
-  city: Austin
-  state: TX

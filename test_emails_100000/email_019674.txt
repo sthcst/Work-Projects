@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Parker,emily.parker4243@example.com,367 582 8114,324 14 4123,12/22/1976,"7124 Birch St",San Antonio,TX

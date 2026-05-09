@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Thomas
-  email: jessica.thomas141@mail.com
-  phone: (437) 756-8597
-  ssn: 849576006
-  dob: 01-10-1986
-  address: 8669 Summer Way
-  city: Houston
-  state: FL

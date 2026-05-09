@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Ramirez,john.ramirez6880@company.com,(869) 321-8086,158 60 4718,06-25-1950,"3834 North Ln",New York,AZ

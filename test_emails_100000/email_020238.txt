@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Ortiz,cynthia.ortiz7626@gmail.com,245 988 4275,890-80-7093,11-21-1951,"8673 Pine St",Los Angeles,CO

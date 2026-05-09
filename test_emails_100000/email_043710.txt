@@ -1,9 +1,0 @@
-contact:
-  name: Helen Hall
-  email: helen.hall233@company.com
-  phone: 230-697-1649
-  ssn: 826711761
-  dob: 03-19-2000
-  address: 1374 Main St
-  city: San Jose
-  state: TX

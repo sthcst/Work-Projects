@@ -1,9 +1,0 @@
-contact:
-  name: Anna Anderson
-  email: anna.anderson4528@mail.com
-  phone: 602 295 3027
-  ssn: 130-60-2906
-  dob: 04-26-1970
-  address: 4431 Fourth Ln
-  city: San Diego
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Parker,jennifer.parker265@company.com,+1 592-682-4798,755713176,12/24/1952,"8619 Fourth Blvd",San Antonio,MD

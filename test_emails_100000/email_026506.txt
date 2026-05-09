@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Parker,ronald.parker924@work.org,435-830-3256,310-21-2051,05-11-2002,"5843 Spring Way",New York,MD

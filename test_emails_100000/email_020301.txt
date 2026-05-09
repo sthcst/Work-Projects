@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Harris,christine.harris9335@gmail.com,+1 278-503-2008,840612920,03/01/1952,"5265 Maple Ln",Jacksonville,VA

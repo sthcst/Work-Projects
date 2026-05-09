@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Hall
-  email: michelle.hall7575@company.com
-  phone: (201) 506-9983
-  ssn: 829 82 3058
-  dob: 8/9/1988
-  address: 1465 First Dr
-  city: San Diego
-  state: AZ

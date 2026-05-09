@@ -1,9 +1,0 @@
-contact:
-  name: Richard Reeves
-  email: richard.reeves7587@gmail.com
-  phone: +1 643-460-8555
-  ssn: 861-16-9903
-  dob: 03/09/1998
-  address: 7733 Birch Blvd
-  city: San Diego
-  state: VA

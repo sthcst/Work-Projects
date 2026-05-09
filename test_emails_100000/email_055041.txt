@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Evans,steven.evans6620@business.net,+1 814-244-3235,466-89-7979,02-15-1958,"5271 East Ave",San Antonio,TX

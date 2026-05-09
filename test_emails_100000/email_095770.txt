@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Anderson
-  email: stephanie.anderson5027@company.com
-  phone: (296) 927-9900
-  ssn: 684 02 7311
-  dob: 1/26/1979
-  address: 7953 First Blvd
-  city: New York
-  state: VA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Nelson,jeffrey.nelson9189@gmail.com,+1 697-486-6670,037 50 2459,8/15/1998,"6571 Elm Ave",Jacksonville,MD

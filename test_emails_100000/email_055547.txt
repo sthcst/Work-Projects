@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Collins
-  email: lisa.collins7365@yahoo.com
-  phone: 294-952-8027
-  ssn: 164-21-4711
-  dob: 01/06/1961
-  address: 4749 Third Court
-  city: Seattle
-  state: TX

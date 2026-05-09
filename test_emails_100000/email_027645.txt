@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Roberts,cynthia.roberts2897@mail.com,638-430-1122,040936528,07/19/1951,"6115 First St",San Diego,CO

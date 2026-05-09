@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Phillips,rebecca.phillips9789@example.com,216-835-9040,798-81-3824,8/22/2002,"2433 North Ln",Austin,NC

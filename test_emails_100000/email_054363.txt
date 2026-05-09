@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Sanchez
-  email: sarah.sanchez5888@gmail.com
-  phone: 955-451-7485
-  ssn: 935 98 5892
-  dob: 05/07/1973
-  address: 4503 West Rd
-  city: Phoenix
-  state: MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Evans,joseph.evans2171@gmail.com,356-323-8929,339 79 6801,05/11/1987,"7111 Fifth Ln",Seattle,MD

@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Jones
-  email: brenda.jones5971@mail.com
-  phone: (368) 747-4979
-  ssn: 924629393
-  dob: 01-16-1996
-  address: 3541 South Ave
-  city: Houston
-  state: MO

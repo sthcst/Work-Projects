@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Reed,kathleen.reed9884@mail.com,+1 548-776-3421,381-44-2450,28/05/2001,"4555 Pine Court",Philadelphia,DC

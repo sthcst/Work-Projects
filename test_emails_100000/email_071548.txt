@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Jones,paul.jones7683@outlook.com,+1 498-649-6979,694 58 7619,7/16/1957,"8666 North Blvd",Denver,CO

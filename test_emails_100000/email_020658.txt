@@ -1,9 +1,0 @@
-contact:
-  name: Emma Thompson
-  email: emma.thompson9757@work.org
-  phone: +1 412-228-5355
-  ssn: 850 61 7840
-  dob: 04-27-1957
-  address: 4166 Maple Way
-  city: Boston
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Michael Gonzalez
-  email: michael.gonzalez5758@company.com
-  phone: +1 931-806-7181
-  ssn: 735-57-7394
-  dob: 10-06-2005
-  address: 9480 Main Blvd
-  city: Los Angeles
-  state: WA

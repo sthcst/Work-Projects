@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Reed
-  email: nicole.reed9490@mail.com
-  phone: +1 804-459-3111
-  ssn: 853 52 7641
-  dob: 12-02-1964
-  address: 8988 Oak Ln
-  city: San Antonio
-  state: TX

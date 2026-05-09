@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Carter
-  email: stephanie.carter1569@mail.com
-  phone: +1 474-479-8397
-  ssn: 255-30-8326
-  dob: 04/15/1995
-  address: 2370 East Court
-  city: Philadelphia
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: Megan Jones
-  email: megan.jones1550@business.net
-  phone: 882 916 8427
-  ssn: 556097058
-  dob: 02/01/1987
-  address: 4756 Park Blvd
-  city: Dallas
-  state: FL

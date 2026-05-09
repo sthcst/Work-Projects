@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Martin,kenneth.martin2152@company.com,(813) 810-2102,050528290,02-21-1983,"6809 Birch Dr",Austin,DC

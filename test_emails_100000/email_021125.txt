@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Nunez,jeffrey.nunez4153@gmail.com,(392) 783-7026,735033186,07/24/1974,"5152 Third Court",San Jose,MI

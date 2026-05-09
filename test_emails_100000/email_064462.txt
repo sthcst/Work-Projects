@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Jackson,pamela.jackson3364@example.com,633-484-3588,722996033,06/01/2004,"2901 North Ln",Phoenix,WA

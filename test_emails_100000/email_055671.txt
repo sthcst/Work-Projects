@@ -1,9 +1,0 @@
-contact:
-  name: Anna Ramirez
-  email: anna.ramirez5400@outlook.com
-  phone: 826 562 7563
-  ssn: 423 19 7151
-  dob: 03-07-1969
-  address: 2132 Maple Ave
-  city: Boston
-  state: TX

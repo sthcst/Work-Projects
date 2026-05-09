@@ -1,9 +1,0 @@
-contact:
-  name: James Morris
-  email: james.morris9507@business.net
-  phone: 251-834-1471
-  ssn: 423738017
-  dob: 10-04-1974
-  address: 2154 Sixth Ln
-  city: Chicago
-  state: AZ

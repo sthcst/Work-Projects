@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Stewart
-  email: kenneth.stewart9139@outlook.com
-  phone: 585 947 5689
-  ssn: 235089758
-  dob: 11-27-1996
-  address: 4626 Third Ln
-  city: Jacksonville
-  state: TX

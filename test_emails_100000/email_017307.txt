@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Hall,paul.hall878@gmail.com,+1 259-419-7497,263162607,12/07/1960,"6137 Pine Way",Boston,PA

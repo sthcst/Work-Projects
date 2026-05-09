@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Davis,samantha.davis9587@outlook.com,863 862 8729,674264718,07/21/1974,"9491 Third Way",New York,NJ

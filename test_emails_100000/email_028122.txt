@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Gonzalez,sarah.gonzalez4617@outlook.com,656 692 8243,280 40 6725,2/14/1966,"3535 Pine St",Phoenix,WI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Jones,ashley.jones2169@business.net,+1 635-647-8104,029-92-3562,27/05/1996,"8798 North Court",San Antonio,IL

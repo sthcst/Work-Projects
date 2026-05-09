@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Anderson
-  email: matthew.anderson9247@mail.com
-  phone: +1 740-582-9716
-  ssn: 241 72 4925
-  dob: 18/06/1985
-  address: 470 East St
-  city: San Jose
-  state: TX

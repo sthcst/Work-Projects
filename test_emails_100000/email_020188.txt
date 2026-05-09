@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Jones,ashley.jones3074@business.net,301-516-2624,727 88 1192,02/02/1981,"6425 Pine Rd",Houston,MA

@@ -1,9 +1,0 @@
-contact:
-  name: Angela Lee
-  email: angela.lee9425@company.com
-  phone: 722 329 3815
-  ssn: 532 80 1542
-  dob: 06/23/1992
-  address: 6582 South Rd
-  city: Chicago
-  state: CA

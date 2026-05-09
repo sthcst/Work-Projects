@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Murillo
-  email: kevin.murillo8122@example.com
-  phone: (504) 930-8959
-  ssn: 835 98 2006
-  dob: 08/21/2001
-  address: 4792 Spring Rd
-  city: Los Angeles
-  state: VA

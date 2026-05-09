@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Morgan
-  email: samantha.morgan6045@mail.com
-  phone: 865 848 1631
-  ssn: 484-99-2008
-  dob: 4/3/1957
-  address: 8913 Main Court
-  city: Dallas
-  state: CA

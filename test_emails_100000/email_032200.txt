@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Collins
-  email: brenda.collins4973@yahoo.com
-  phone: (807) 744-3260
-  ssn: 484 11 2836
-  dob: 14/02/1954
-  address: 6402 First Dr
-  city: Houston
-  state: GA

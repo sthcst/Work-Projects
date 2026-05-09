@@ -1,9 +1,0 @@
-contact:
-  name: Donald Hernandez
-  email: donald.hernandez2853@mail.com
-  phone: 342 934 3345
-  ssn: 623791469
-  dob: 08/11/1950
-  address: 2246 South Blvd
-  city: Denver
-  state: NJ

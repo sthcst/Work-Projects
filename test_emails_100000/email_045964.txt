@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Parker,robert.parker3396@mail.com,+1 605-792-1243,113 96 4374,22/04/1973,"3202 East Court",Philadelphia,WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Jones,joshua.jones1454@example.com,+1 448-359-4744,340527225,15/06/2004,"6985 Third Ave",Austin,DC

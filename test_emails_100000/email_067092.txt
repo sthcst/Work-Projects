@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Bell
-  email: joshua.bell3526@outlook.com
-  phone: (635) 875-8212
-  ssn: 576018708
-  dob: 06/18/1966
-  address: 1724 Spring Ave
-  city: San Jose
-  state: MI

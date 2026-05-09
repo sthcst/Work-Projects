@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Bell
-  email: deborah.bell948@business.net
-  phone: +1 711-567-1896
-  ssn: 778-67-6540
-  dob: 4/27/1950
-  address: 2038 Spring St
-  city: Jacksonville
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Morris
-  email: amanda.morris2627@work.org
-  phone: 963 710 5439
-  ssn: 891682508
-  dob: 7/27/1974
-  address: 2712 Sixth Ave
-  city: Chicago
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Harris
-  email: katherine.harris2235@gmail.com
-  phone: 229 837 9675
-  ssn: 214515649
-  dob: 15/04/1957
-  address: 2027 West Way
-  city: Austin
-  state: NJ

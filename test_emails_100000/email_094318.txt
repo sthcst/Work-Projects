@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Serrano
-  email: jessica.serrano1194@work.org
-  phone: 672-373-3460
-  ssn: 943 41 6639
-  dob: 1/12/1957
-  address: 470 Fourth Way
-  city: Denver
-  state: WA

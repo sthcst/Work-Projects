@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Clark,george.clark5300@outlook.com,+1 732-742-5661,875843676,10/28/1954,"5875 Fifth Blvd",Austin,IL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Young,stephanie.young8811@mail.com,976-276-7443,681076049,11/13/1987,"4285 Main Blvd",Dallas,GA

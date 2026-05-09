@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Perez,william.perez8054@example.com,339 452 5776,731 32 8300,02/12/1960,"9396 Second Way",Boston,MA

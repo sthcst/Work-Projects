@@ -1,9 +1,0 @@
-contact:
-  name: Angela Anderson
-  email: angela.anderson6101@business.net
-  phone: (840) 615-8435
-  ssn: 110-32-4246
-  dob: 19/04/1970
-  address: 7361 Sixth Way
-  city: Denver
-  state: MD

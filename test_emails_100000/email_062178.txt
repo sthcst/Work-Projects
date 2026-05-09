@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Gomez,anthony.gomez7321@business.net,+1 860-482-5821,443514472,4/6/2000,"1219 Sixth Rd",Washington,CA

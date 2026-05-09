@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Hall,anthony.hall4090@gmail.com,+1 923-491-6896,104 21 3481,03/16/2000,"5304 Summer Blvd",New York,NY

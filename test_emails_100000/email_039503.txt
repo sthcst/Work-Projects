@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Evans
-  email: brenda.evans9790@company.com
-  phone: 793 979 5010
-  ssn: 380-88-5508
-  dob: 08-01-1971
-  address: 6425 Summer Dr
-  city: San Antonio
-  state: TX

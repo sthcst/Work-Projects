@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Miller,christine.miller2936@business.net,476-505-7686,547471912,11/03/1961,"3168 Oak St",Phoenix,NC

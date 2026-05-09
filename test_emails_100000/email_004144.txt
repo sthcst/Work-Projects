@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Cooper
-  email: ronald.cooper1461@yahoo.com
-  phone: (398) 986-9928
-  ssn: 014431748
-  dob: 11/23/1965
-  address: 5160 Main Dr
-  city: Philadelphia
-  state: FL

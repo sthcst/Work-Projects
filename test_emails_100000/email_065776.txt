@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Lee,christopher.lee6965@gmail.com,984-218-9530,405 44 8833,01-14-1972,"4305 Main Dr",San Antonio,AZ

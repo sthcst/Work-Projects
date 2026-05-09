@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Morgan
-  email: samantha.morgan519@business.net
-  phone: (987) 415-7865
-  ssn: 092-21-9762
-  dob: 05-12-1984
-  address: 9061 Elm Blvd
-  city: Los Angeles
-  state: CO

@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Reeves
-  email: lisa.reeves373@yahoo.com
-  phone: (207) 245-2603
-  ssn: 623 33 5848
-  dob: 09/05/1985
-  address: 5729 East Court
-  city: Denver
-  state: FL

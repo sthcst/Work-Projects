@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Lewis,rachel.lewis549@work.org,991-594-3262,163-28-9746,12/14/1973,"5327 Maple Ave",Boston,TX

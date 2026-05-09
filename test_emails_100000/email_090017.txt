@@ -1,9 +1,0 @@
-contact:
-  name: Gary Morgan
-  email: gary.morgan6474@yahoo.com
-  phone: 754 325 7373
-  ssn: 005-57-9656
-  dob: 10/02/1967
-  address: 5046 West Court
-  city: Dallas
-  state: NJ

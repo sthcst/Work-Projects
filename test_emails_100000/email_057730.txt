@@ -1,9 +1,0 @@
-contact:
-  name: Robert Johnson
-  email: robert.johnson5915@business.net
-  phone: (571) 542-4680
-  ssn: 259484942
-  dob: 06/02/1968
-  address: 6252 Oak Way
-  city: Chicago
-  state: TX

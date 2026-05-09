@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Guerrero
-  email: michelle.guerrero1442@business.net
-  phone: (383) 314-2561
-  ssn: 742-07-2212
-  dob: 10/25/1972
-  address: 8698 Second Ln
-  city: Chicago
-  state: NJ

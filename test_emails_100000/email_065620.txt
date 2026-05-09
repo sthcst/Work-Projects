@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Miller,paul.miller5235@work.org,887-608-6579,892 20 2655,03/06/1953,"1175 Sixth Way",San Jose,TX

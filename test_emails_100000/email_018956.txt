@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Martin
-  email: kenneth.martin3290@work.org
-  phone: 576 642 9227
-  ssn: 473-36-3868
-  dob: 02/01/1956
-  address: 1801 Sixth Court
-  city: Seattle
-  state: CO

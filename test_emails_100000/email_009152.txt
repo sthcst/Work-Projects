@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Parker
-  email: jessica.parker7126@mail.com
-  phone: 235 696 1504
-  ssn: 547 44 1235
-  dob: 03/24/1950
-  address: 453 Sixth Ave
-  city: Los Angeles
-  state: TN

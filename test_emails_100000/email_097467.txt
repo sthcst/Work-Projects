@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Peterson,deborah.peterson2900@example.com,398 591 2616,814-65-4854,05/12/1980,"5370 Fifth Dr",Jacksonville,CA

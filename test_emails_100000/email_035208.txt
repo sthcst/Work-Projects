@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Martinez
-  email: joseph.martinez8399@outlook.com
-  phone: +1 897-523-8820
-  ssn: 281 21 2779
-  dob: 14/12/1981
-  address: 9783 Oak Rd
-  city: Dallas
-  state: CO

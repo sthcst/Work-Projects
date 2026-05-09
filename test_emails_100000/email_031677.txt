@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Morris,maria.morris5399@mail.com,697 359 2916,231-97-8157,06/27/1955,"4987 West Rd",Boston,MO

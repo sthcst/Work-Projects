@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Roberts,cynthia.roberts9659@work.org,966-542-2032,509 42 8730,12-04-1980,"8698 First St",San Jose,AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Lewis
-  email: katherine.lewis6134@company.com
-  phone: 654-386-7350
-  ssn: 785-91-7867
-  dob: 10/3/2003
-  address: 1390 Main Blvd
-  city: Philadelphia
-  state: MA

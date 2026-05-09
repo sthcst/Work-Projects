@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Parker,charles.parker5646@mail.com,(879) 273-8628,477 70 3476,04-16-1998,"5362 Elm Ave",Washington,VA

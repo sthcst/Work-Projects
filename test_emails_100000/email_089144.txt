@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Serrano
-  email: timothy.serrano7805@work.org
-  phone: +1 470-636-6095
-  ssn: 203-65-9658
-  dob: 25/12/1966
-  address: 6633 Park Court
-  city: San Antonio
-  state: PA

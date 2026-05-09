@@ -1,9 +1,0 @@
-contact:
-  name: Jessica White
-  email: jessica.white6691@mail.com
-  phone: 538-825-2008
-  ssn: 119 33 7114
-  dob: 22/07/1955
-  address: 9491 Spring St
-  city: San Jose
-  state: CA

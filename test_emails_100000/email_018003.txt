@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Smith,pamela.smith7386@work.org,212 816 5591,788658301,05-16-1952,"6711 Sixth Court",Boston,GA

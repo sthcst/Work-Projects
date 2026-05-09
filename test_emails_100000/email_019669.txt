@@ -1,9 +1,0 @@
-contact:
-  name: Katherine White
-  email: katherine.white1967@gmail.com
-  phone: 564-572-7901
-  ssn: 961-90-6377
-  dob: 08/07/1959
-  address: 6582 Pine Court
-  city: Dallas
-  state: AZ

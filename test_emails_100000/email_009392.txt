@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Lewis,matthew.lewis5726@yahoo.com,(560) 902-5364,164-61-5370,1/26/1993,"5440 Birch Blvd",San Diego,NJ

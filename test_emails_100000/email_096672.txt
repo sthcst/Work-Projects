@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Reed,anna.reed1573@work.org,+1 629-565-5775,827 98 4628,03/10/1993,"1948 Main Rd",San Antonio,GA

@@ -1,9 +1,0 @@
-contact:
-  name: Brian Robinson
-  email: brian.robinson8833@yahoo.com
-  phone: 347-432-7213
-  ssn: 498704256
-  dob: 11-10-1964
-  address: 9350 Cedar Rd
-  city: Boston
-  state: CA

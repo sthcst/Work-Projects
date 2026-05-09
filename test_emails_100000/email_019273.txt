@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Miller
-  email: kathleen.miller6036@gmail.com
-  phone: 659-930-4005
-  ssn: 363752239
-  dob: 24/06/1960
-  address: 4452 Pine Ave
-  city: Los Angeles
-  state: TX

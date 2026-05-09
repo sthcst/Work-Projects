@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Edwards,kevin.edwards8058@work.org,683 488 8437,450337848,06/12/1977,"82 Park Dr",San Antonio,CA

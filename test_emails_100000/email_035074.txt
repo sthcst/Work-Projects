@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Anderson,gary.anderson1070@company.com,302-391-3524,925647021,10/11/2002,"3542 Second Court",Los Angeles,TX

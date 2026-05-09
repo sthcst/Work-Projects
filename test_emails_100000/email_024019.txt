@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Thompson,kenneth.thompson1632@mail.com,+1 605-809-9643,371 49 5118,04-15-1958,"9788 First Ave",New York,TX

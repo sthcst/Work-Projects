@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Lopez,emma.lopez3524@outlook.com,(337) 280-2591,578-60-5765,07-21-1972,"5377 Park Rd",San Jose,WA

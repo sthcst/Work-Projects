@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Carter,jane.carter6291@example.com,(697) 543-6792,151 69 5010,6/9/1973,"6811 South Court",San Antonio,CA

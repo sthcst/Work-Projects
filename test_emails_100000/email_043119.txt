@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Martin,helen.martin5988@work.org,515-788-7130,815504355,20/11/1994,"1527 Spring Way",Seattle,WA

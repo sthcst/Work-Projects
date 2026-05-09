@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Johnson,edward.johnson3226@outlook.com,815-433-2428,286-82-6886,07-19-2005,"4693 Spring Dr",San Antonio,TX

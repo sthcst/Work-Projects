@@ -1,9 +1,0 @@
-contact:
-  name: Richard Moore
-  email: richard.moore640@company.com
-  phone: 380-750-4956
-  ssn: 094 42 3079
-  dob: 02/09/1983
-  address: 61 Maple Dr
-  city: Denver
-  state: TN

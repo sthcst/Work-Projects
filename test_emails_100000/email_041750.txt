@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Jones,sarah.jones6225@yahoo.com,598-682-8026,941-91-1536,16/10/2004,"661 West Rd",Denver,MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Murillo,anna.murillo9786@mail.com,+1 689-200-8541,968 22 2963,03/25/1987,"9511 North Blvd",Seattle,MA

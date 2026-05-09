@@ -1,9 +1,0 @@
-contact:
-  name: Robert Ortiz
-  email: robert.ortiz2954@company.com
-  phone: 879 788 6010
-  ssn: 359 94 4272
-  dob: 3/26/1968
-  address: 5114 Summer Ave
-  city: Dallas
-  state: DC

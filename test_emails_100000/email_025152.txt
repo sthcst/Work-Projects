@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Ortiz
-  email: lisa.ortiz4128@mail.com
-  phone: +1 696-301-7205
-  ssn: 731-21-5550
-  dob: 11/21/1954
-  address: 7753 Main Rd
-  city: Chicago
-  state: MO

@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Sanchez
-  email: jessica.sanchez1386@example.com
-  phone: 471 206 2354
-  ssn: 827-90-5590
-  dob: 12/09/1970
-  address: 2051 Fifth St
-  city: Chicago
-  state: NY

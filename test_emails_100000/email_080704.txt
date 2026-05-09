@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Lewis
-  email: amanda.lewis9960@mail.com
-  phone: 458-905-5185
-  ssn: 687-98-2415
-  dob: 13/01/1989
-  address: 8713 Oak Way
-  city: San Antonio
-  state: VA

@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Taylor
-  email: kenneth.taylor2662@business.net
-  phone: (451) 777-4813
-  ssn: 106231843
-  dob: 10/16/1963
-  address: 7315 First St
-  city: Austin
-  state: IL

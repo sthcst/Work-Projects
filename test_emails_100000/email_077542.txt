@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Collins,christine.collins2591@example.com,480-933-2419,409753134,01/26/1990,"2893 Pine Ln",Denver,WA

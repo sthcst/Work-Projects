@@ -1,9 +1,0 @@
-contact:
-  name: George Brown
-  email: george.brown4962@outlook.com
-  phone: +1 307-482-2324
-  ssn: 907 67 9156
-  dob: 7/11/1971
-  address: 7762 Pine Rd
-  city: Seattle
-  state: OH

@@ -1,9 +1,0 @@
-contact:
-  name: Jason Ramirez
-  email: jason.ramirez5303@company.com
-  phone: 663 236 5395
-  ssn: 811 25 3238
-  dob: 16/05/1985
-  address: 8123 Fourth St
-  city: San Diego
-  state: WA

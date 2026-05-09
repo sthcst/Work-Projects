@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Alvarado,donald.alvarado7497@example.com,942-519-8105,999939609,09-18-1961,"8351 Summer Ln",San Antonio,MI

@@ -1,9 +1,0 @@
-contact:
-  name: Paul Peterson
-  email: paul.peterson5758@company.com
-  phone: 246 365 9750
-  ssn: 577-09-5925
-  dob: 7/23/1957
-  address: 9127 Spring Way
-  city: San Antonio
-  state: OH

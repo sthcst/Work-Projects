@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Reed
-  email: matthew.reed2394@yahoo.com
-  phone: 944-303-5848
-  ssn: 997091047
-  dob: 6/4/1958
-  address: 1832 Main Dr
-  city: Dallas
-  state: FL

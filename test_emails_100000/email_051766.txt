@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Wilson,sarah.wilson8927@business.net,(244) 381-9500,588 30 8399,20/06/1954,"3771 Park Court",Dallas,CA

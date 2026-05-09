@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Roberts,jason.roberts5405@example.com,(630) 497-8460,846 60 5843,01/08/1956,"5199 Elm Dr",Seattle,NY

@@ -1,9 +1,0 @@
-contact:
-  name: Michael Alvarado
-  email: michael.alvarado6079@mail.com
-  phone: (820) 739-7771
-  ssn: 191942198
-  dob: 5/26/1995
-  address: 3644 Summer Way
-  city: Houston
-  state: CA

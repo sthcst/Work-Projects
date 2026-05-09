@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Gonzalez,mark.gonzalez7677@company.com,637-811-4804,016-37-5014,06-01-1985,"6609 Maple Dr",Chicago,PA

@@ -1,9 +1,0 @@
-contact:
-  name: William Hall
-  email: william.hall2417@yahoo.com
-  phone: +1 869-204-8919
-  ssn: 927 16 4734
-  dob: 04-01-1967
-  address: 6198 Maple St
-  city: Austin
-  state: FL

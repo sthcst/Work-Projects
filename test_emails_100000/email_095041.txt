@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Serrano,james.serrano4498@company.com,(817) 380-6833,234-58-9990,09/06/2005,"140 East Way",San Jose,NY

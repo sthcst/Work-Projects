@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Peterson,david.peterson2945@company.com,(385) 576-4032,038-47-8085,04/16/1973,"5746 Park Blvd",Phoenix,MD

@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Martinez
-  email: kevin.martinez1670@outlook.com
-  phone: 636 853 7169
-  ssn: 783574104
-  dob: 04-24-1950
-  address: 1240 Main Court
-  city: Jacksonville
-  state: NY

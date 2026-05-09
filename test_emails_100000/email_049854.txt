@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Jackson,jessica.jackson5371@gmail.com,325 705 1974,590121743,08-08-1994,"954 Third Way",Chicago,NC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Martinez,emma.martinez4672@mail.com,(204) 650-3635,250-87-4282,04/03/1995,"4496 Maple Blvd",Jacksonville,IL

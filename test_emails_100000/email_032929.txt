@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Thompson,william.thompson6805@gmail.com,824 585 3240,222 26 8235,12/21/1996,"3102 Maple Court",Boston,NJ

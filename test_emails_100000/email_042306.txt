@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Lewis
-  email: kenneth.lewis4571@example.com
-  phone: (995) 257-5078
-  ssn: 562-89-5030
-  dob: 12-11-1962
-  address: 2950 Fourth St
-  city: Denver
-  state: IL

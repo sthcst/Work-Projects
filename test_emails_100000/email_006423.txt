@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Smith,donald.smith7100@yahoo.com,417 277 2226,190 37 8455,5/8/1966,"18 Cedar Way",Houston,NJ

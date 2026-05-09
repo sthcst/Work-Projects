@@ -1,9 +1,0 @@
-contact:
-  name: Angela Wilson
-  email: angela.wilson6575@work.org
-  phone: +1 222-931-7520
-  ssn: 420 28 3504
-  dob: 01/10/1967
-  address: 3648 Elm Ln
-  city: Seattle
-  state: WA

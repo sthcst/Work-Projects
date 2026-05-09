@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Robinson
-  email: anthony.robinson8715@business.net
-  phone: +1 972-623-6783
-  ssn: 108-35-5454
-  dob: 9/22/1982
-  address: 485 South Blvd
-  city: San Antonio
-  state: CO

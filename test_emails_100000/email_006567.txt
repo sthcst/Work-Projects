@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Peterson,gary.peterson7363@business.net,(852) 988-5351,099751525,7/11/1972,"7259 West Ave",Jacksonville,AZ

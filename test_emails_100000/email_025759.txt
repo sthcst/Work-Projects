@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Morgan,christopher.morgan4700@gmail.com,+1 346-200-4491,064 49 2222,10-10-2002,"4072 Second Court",Philadelphia,PA

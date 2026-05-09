@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Guerrero
-  email: michelle.guerrero9413@business.net
-  phone: 591 662 3211
-  ssn: 744843774
-  dob: 04/21/1992
-  address: 155 East Rd
-  city: San Diego
-  state: WI

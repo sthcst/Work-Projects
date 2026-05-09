@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Robinson,emily.robinson5764@work.org,(641) 581-7371,668987516,05/04/1990,"8669 Main Ln",New York,TX

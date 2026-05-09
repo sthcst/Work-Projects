@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Williams
-  email: nicholas.williams1751@yahoo.com
-  phone: 504 992 1634
-  ssn: 372555540
-  dob: 11/26/1958
-  address: 9491 Fourth St
-  city: San Jose
-  state: DC

@@ -1,9 +1,0 @@
-contact:
-  name: Jane Lewis
-  email: jane.lewis5464@business.net
-  phone: 224-398-4412
-  ssn: 059-66-8631
-  dob: 10/2/1991
-  address: 8086 Maple Court
-  city: Denver
-  state: TX

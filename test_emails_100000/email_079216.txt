@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Anderson,sarah.anderson4467@outlook.com,317 272 6202,082-08-8589,06-03-1995,"5009 East St",Houston,TX

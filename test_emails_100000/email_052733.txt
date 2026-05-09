@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Rogers,jeffrey.rogers662@yahoo.com,(765) 575-2500,223 71 6896,06/07/1976,"461 Pine Dr",Houston,WI

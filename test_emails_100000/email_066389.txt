@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Jones
-  email: ronald.jones2617@business.net
-  phone: 321-246-3579
-  ssn: 358 22 4288
-  dob: 8/27/1987
-  address: 4812 South Ave
-  city: Denver
-  state: VA

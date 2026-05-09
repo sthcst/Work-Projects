@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Flores,brenda.flores4927@yahoo.com,+1 881-474-7193,969568973,7/6/1970,"5146 Main Ave",Boston,MI

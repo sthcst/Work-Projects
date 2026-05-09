@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Martinez
-  email: kenneth.martinez7386@example.com
-  phone: (514) 773-4962
-  ssn: 673674405
-  dob: 07-24-1990
-  address: 7298 Oak Rd
-  city: San Diego
-  state: FL

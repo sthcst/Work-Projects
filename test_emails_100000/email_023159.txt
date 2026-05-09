@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Peterson,brian.peterson8803@gmail.com,995-798-6302,375287526,03-28-1968,"8437 Main Way",Washington,FL

@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Guerrero
-  email: shirley.guerrero9993@mail.com
-  phone: 382-897-8628
-  ssn: 649 11 2995
-  dob: 26/03/2001
-  address: 7661 Spring Dr
-  city: Chicago
-  state: MA

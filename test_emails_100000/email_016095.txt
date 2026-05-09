@@ -1,9 +1,0 @@
-contact:
-  name: Mark Lee
-  email: mark.lee4043@example.com
-  phone: +1 926-706-4326
-  ssn: 213-73-9829
-  dob: 03-02-1966
-  address: 5128 North Dr
-  city: Denver
-  state: FL

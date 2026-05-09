@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Clark,samantha.clark9511@gmail.com,901-838-3064,785 72 8291,05-12-1959,"4264 North Way",Los Angeles,WI

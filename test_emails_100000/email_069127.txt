@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Johnson,kathleen.johnson2319@work.org,472 492 6133,647404881,04-27-1989,"9517 Third Dr",Chicago,MA

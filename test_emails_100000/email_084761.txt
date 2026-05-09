@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Nunez,joseph.nunez1159@yahoo.com,+1 329-410-6089,756-45-7596,2/15/2004,"9583 Pine Ln",Philadelphia,FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Miller,christine.miller7496@yahoo.com,359 354 5849,790 74 4794,16/05/1994,"2064 Park Rd",San Antonio,NC

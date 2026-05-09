@@ -1,9 +1,0 @@
-contact:
-  name: Anna Perez
-  email: anna.perez2661@company.com
-  phone: (340) 626-3966
-  ssn: 923565282
-  dob: 11-28-1973
-  address: 9761 Park Blvd
-  city: Austin
-  state: NC

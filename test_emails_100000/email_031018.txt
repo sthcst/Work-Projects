@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Thompson,christopher.thompson7815@company.com,903-211-8007,434 40 6088,10-05-1952,"5505 West Court",Boston,OH

@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Serrano
-  email: amanda.serrano2507@company.com
-  phone: +1 604-822-8806
-  ssn: 196505843
-  dob: 10/12/2003
-  address: 5965 Second Ln
-  city: Chicago
-  state: CO

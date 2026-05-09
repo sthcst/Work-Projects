@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Reed
-  email: kathleen.reed5753@company.com
-  phone: (598) 554-1522
-  ssn: 090266717
-  dob: 09-13-1953
-  address: 9245 Maple Ln
-  city: Houston
-  state: MA

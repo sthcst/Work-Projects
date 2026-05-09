@@ -1,9 +1,0 @@
-contact:
-  name: Steven Nunez
-  email: steven.nunez4985@business.net
-  phone: 516 952 6337
-  ssn: 145 72 9704
-  dob: 12/20/1973
-  address: 7597 Park Rd
-  city: Denver
-  state: FL

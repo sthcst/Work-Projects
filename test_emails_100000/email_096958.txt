@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Robinson,michelle.robinson7308@company.com,(305) 639-2088,966 07 8166,06-08-1956,"9331 Maple Ln",San Antonio,MA

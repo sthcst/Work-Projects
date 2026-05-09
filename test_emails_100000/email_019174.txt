@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Peterson,brian.peterson9779@gmail.com,+1 461-247-3437,327-82-9054,16/11/1968,"1627 First St",Philadelphia,MI

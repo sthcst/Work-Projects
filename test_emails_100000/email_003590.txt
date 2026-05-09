@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Carter
-  email: kenneth.carter2011@outlook.com
-  phone: (485) 745-3817
-  ssn: 156 23 5852
-  dob: 02-12-1991
-  address: 1967 North Ave
-  city: Austin
-  state: MD

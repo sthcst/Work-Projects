@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Thompson
-  email: ronald.thompson1824@yahoo.com
-  phone: +1 710-562-9312
-  ssn: 468 51 5822
-  dob: 01/28/1995
-  address: 5056 Main Ave
-  city: Washington
-  state: IL

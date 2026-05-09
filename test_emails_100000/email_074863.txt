@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Jones,rebecca.jones2522@company.com,247-856-4156,115-25-7191,02/24/1988,"7010 North St",New York,WA

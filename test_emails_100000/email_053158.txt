@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Stewart
-  email: brenda.stewart554@work.org
-  phone: 798 354 3792
-  ssn: 482825784
-  dob: 05-24-1951
-  address: 3792 Birch Rd
-  city: San Jose
-  state: NC

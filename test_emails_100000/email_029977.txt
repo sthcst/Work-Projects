@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Robinson
-  email: nicole.robinson3321@business.net
-  phone: 668-939-5194
-  ssn: 901111920
-  dob: 05/21/1998
-  address: 1916 Park Court
-  city: San Jose
-  state: MI

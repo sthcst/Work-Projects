@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Martinez
-  email: ashley.martinez5806@example.com
-  phone: (354) 897-4131
-  ssn: 992-68-9419
-  dob: 03/24/1984
-  address: 1946 Spring Way
-  city: Philadelphia
-  state: PA

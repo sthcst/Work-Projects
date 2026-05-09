@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Ramirez
-  email: rebecca.ramirez7315@business.net
-  phone: (645) 408-4643
-  ssn: 317 07 3354
-  dob: 01/11/1951
-  address: 1737 Cedar Rd
-  city: New York
-  state: MA

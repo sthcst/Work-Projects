@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Roberts
-  email: kathleen.roberts9179@work.org
-  phone: (936) 864-1892
-  ssn: 500864786
-  dob: 1/10/1981
-  address: 3516 Spring St
-  city: San Jose
-  state: MO

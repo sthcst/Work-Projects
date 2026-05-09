@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Garcia
-  email: amanda.garcia6063@example.com
-  phone: +1 341-929-6650
-  ssn: 762-10-1759
-  dob: 02/12/1987
-  address: 9737 South Way
-  city: Philadelphia
-  state: FL

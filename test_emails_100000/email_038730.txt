@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Harris,edward.harris4598@gmail.com,(685) 532-1160,470 94 4242,28/09/1988,"7210 East Way",Seattle,MA

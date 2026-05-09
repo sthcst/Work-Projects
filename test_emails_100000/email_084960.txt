@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Smith,gary.smith5427@gmail.com,499 424 9851,711234561,06-11-1958,"3452 Maple Ln",Jacksonville,GA

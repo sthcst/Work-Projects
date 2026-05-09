@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Morgan,michael.morgan6643@business.net,279-708-3802,572 28 3966,04/02/1988,"8521 Park Court",San Diego,PA

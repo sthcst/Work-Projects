@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Stewart
-  email: amanda.stewart5500@yahoo.com
-  phone: (776) 702-9354
-  ssn: 624 43 9517
-  dob: 10-25-1998
-  address: 9436 Second St
-  city: San Jose
-  state: TX

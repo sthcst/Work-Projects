@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Alvarado,kathleen.alvarado1677@outlook.com,470 424 8721,908 10 4636,22/04/1975,"4893 Spring Dr",Jacksonville,TN

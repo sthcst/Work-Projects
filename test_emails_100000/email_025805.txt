@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Stewart,pamela.stewart1783@example.com,(824) 608-3007,814433814,28/11/1968,"5102 Fifth Ave",Dallas,MA

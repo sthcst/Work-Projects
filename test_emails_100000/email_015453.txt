@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Taylor,lauren.taylor5088@company.com,+1 672-605-1533,578 47 4745,07-03-1963,"9278 Third St",San Diego,OH

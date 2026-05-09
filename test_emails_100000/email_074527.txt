@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Clark
-  email: brenda.clark5395@outlook.com
-  phone: (744) 935-7810
-  ssn: 094-09-2778
-  dob: 2/27/1970
-  address: 4706 East Ln
-  city: San Diego
-  state: WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Gonzalez,michelle.gonzalez4369@example.com,623 875 5238,183 50 9816,02/01/1985,"3713 Third Way",San Diego,OH

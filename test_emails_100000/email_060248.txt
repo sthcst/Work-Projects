@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Rodriguez,edward.rodriguez6327@gmail.com,(454) 613-3118,684625088,05-23-1992,"5532 Sixth Way",Chicago,TX

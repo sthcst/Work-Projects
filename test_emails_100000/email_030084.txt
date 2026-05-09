@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Nelson,rachel.nelson9679@outlook.com,(421) 375-9415,857-08-7206,26/02/2002,"2401 First Ave",Seattle,IL

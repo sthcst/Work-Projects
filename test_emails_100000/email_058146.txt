@@ -1,9 +1,0 @@
-contact:
-  name: Edward Wilson
-  email: edward.wilson7728@outlook.com
-  phone: (779) 929-5373
-  ssn: 158-46-5248
-  dob: 19/08/2002
-  address: 25 Spring Rd
-  city: Chicago
-  state: MA

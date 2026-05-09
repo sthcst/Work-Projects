@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Morgan
-  email: katherine.morgan7606@gmail.com
-  phone: (863) 242-5710
-  ssn: 480 45 2304
-  dob: 8/2/1986
-  address: 509 Fourth Ln
-  city: Boston
-  state: MA

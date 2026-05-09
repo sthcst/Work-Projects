@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Williams,maria.williams7907@yahoo.com,455 672 3148,143955184,18/08/1972,"5137 Sixth St",Philadelphia,CA

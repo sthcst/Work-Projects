@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Taylor,ryan.taylor6441@gmail.com,477-822-9651,135-64-6243,06-25-2003,"5107 Second Court",Chicago,MI

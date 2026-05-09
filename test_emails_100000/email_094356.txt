@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Miller,emily.miller5784@mail.com,979 613 8704,921 60 7444,11-05-1971,"9161 Third St",Philadelphia,MA

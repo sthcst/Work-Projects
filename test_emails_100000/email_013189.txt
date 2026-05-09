@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Morgan,stephanie.morgan3579@mail.com,344-939-6768,816697787,24/01/1967,"8286 Fourth Court",Phoenix,FL

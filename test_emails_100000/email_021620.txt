@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Harris,donald.harris8553@mail.com,(485) 731-9952,686 61 9739,10-09-1963,"7414 Third Ln",Los Angeles,TX

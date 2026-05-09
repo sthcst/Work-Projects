@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Phillips,daniel.phillips590@company.com,+1 388-870-2201,810523070,22/04/1955,"4525 First Rd",Seattle,VA

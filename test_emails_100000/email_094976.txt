@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Alvarado,charles.alvarado608@outlook.com,448 414 4756,921 10 9850,09-25-1968,"6926 First Court",Philadelphia,MO

@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Jackson
-  email: kenneth.jackson3296@yahoo.com
-  phone: 228-747-9434
-  ssn: 513341343
-  dob: 12-08-1963
-  address: 9728 Fourth Court
-  city: Denver
-  state: FL

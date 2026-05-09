@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Delgado,christopher.delgado6202@yahoo.com,664-383-5690,094 69 8551,12/14/2004,"9732 Birch Dr",Washington,CA

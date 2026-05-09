@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Guerrero,joseph.guerrero6304@business.net,+1 795-958-1326,860489282,17/09/1955,"7672 East St",Phoenix,WA

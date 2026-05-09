@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Stewart,pamela.stewart7319@outlook.com,+1 410-527-5535,916 87 1571,01-02-2002,"2442 Maple Court",Seattle,TX

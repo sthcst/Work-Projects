@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Serrano
-  email: shirley.serrano5810@business.net
-  phone: (331) 297-5429
-  ssn: 581418050
-  dob: 4/6/1996
-  address: 2973 Third Blvd
-  city: Chicago
-  state: MD

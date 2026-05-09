@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Martinez
-  email: andrew.martinez3255@example.com
-  phone: 733-317-4133
-  ssn: 081 73 1738
-  dob: 20/12/1988
-  address: 2507 South St
-  city: Los Angeles
-  state: WI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Murillo,christine.murillo6306@gmail.com,351 322 5009,657 76 1895,01-03-1994,"4165 Sixth Ln",San Antonio,CO

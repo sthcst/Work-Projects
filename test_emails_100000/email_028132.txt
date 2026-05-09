@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Reyes,anna.reyes3634@business.net,332 244 8847,749-73-8563,26/05/1975,"2001 Second Blvd",Houston,DC

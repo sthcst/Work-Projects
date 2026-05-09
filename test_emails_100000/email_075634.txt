@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Smith,michael.smith6132@example.com,+1 979-993-4494,098 12 7146,01/18/1981,"9367 Third Dr",New York,OH

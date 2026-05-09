@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Parker,daniel.parker2374@mail.com,+1 831-364-1662,379 72 5529,7/27/1998,"4614 South Rd",Austin,NY

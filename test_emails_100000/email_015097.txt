@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Clark,jessica.clark8923@example.com,+1 401-887-9722,432826404,03-07-1967,"4841 Pine St",Phoenix,WI

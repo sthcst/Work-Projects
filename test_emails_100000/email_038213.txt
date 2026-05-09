@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Brown
-  email: andrew.brown430@company.com
-  phone: 583-707-6200
-  ssn: 829 90 7833
-  dob: 03/26/1975
-  address: 4011 Summer Ave
-  city: Chicago
-  state: PA

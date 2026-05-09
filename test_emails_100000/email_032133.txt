@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Perez,brian.perez848@business.net,+1 877-356-1809,038491209,8/18/1990,"5934 Pine Rd",Jacksonville,NC

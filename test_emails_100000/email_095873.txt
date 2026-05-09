@@ -1,9 +1,0 @@
-contact:
-  name: Robert Clark
-  email: robert.clark4265@yahoo.com
-  phone: 428 529 7739
-  ssn: 417892346
-  dob: 09-04-1970
-  address: 7305 Elm Blvd
-  city: Dallas
-  state: MO

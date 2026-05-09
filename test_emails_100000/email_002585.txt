@@ -1,9 +1,0 @@
-contact:
-  name: Angela Edwards
-  email: angela.edwards4463@mail.com
-  phone: 414-640-5509
-  ssn: 039-17-5887
-  dob: 12/05/1994
-  address: 9200 North Blvd
-  city: New York
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Charles Nunez
-  email: charles.nunez8402@business.net
-  phone: 354-427-6793
-  ssn: 461828460
-  dob: 17/12/1965
-  address: 9837 West Dr
-  city: New York
-  state: TX

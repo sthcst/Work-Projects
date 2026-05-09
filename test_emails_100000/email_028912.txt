@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Peterson,sarah.peterson6045@mail.com,+1 561-415-4563,644885063,07-28-1969,"7136 Fourth St",Jacksonville,AZ

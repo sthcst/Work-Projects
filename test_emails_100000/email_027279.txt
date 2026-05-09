@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Miller,daniel.miller1641@outlook.com,(566) 325-1393,915-43-6382,15/07/1993,"5539 Second Way",Dallas,AZ

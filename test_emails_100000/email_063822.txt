@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Davis
-  email: timothy.davis1230@yahoo.com
-  phone: 833-708-6675
-  ssn: 349199904
-  dob: 6/20/1962
-  address: 6919 Summer Blvd
-  city: Austin
-  state: OH

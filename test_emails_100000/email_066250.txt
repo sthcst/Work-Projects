@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Bell
-  email: stephanie.bell8826@yahoo.com
-  phone: 505-333-6145
-  ssn: 322 83 5434
-  dob: 01/21/1982
-  address: 434 Maple Way
-  city: Philadelphia
-  state: NY

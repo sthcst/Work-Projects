@@ -1,9 +1,0 @@
-contact:
-  name: Brian Morgan
-  email: brian.morgan3377@company.com
-  phone: 994 892 4735
-  ssn: 124858452
-  dob: 06/09/1986
-  address: 3657 South Ave
-  city: Jacksonville
-  state: NC

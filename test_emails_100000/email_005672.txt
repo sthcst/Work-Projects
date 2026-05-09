@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Moore,ryan.moore3139@company.com,918 796 9370,803 85 9026,07/05/1951,"560 West Ave",Chicago,NJ

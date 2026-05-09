@@ -1,9 +1,0 @@
-contact:
-  name: George Serrano
-  email: george.serrano1125@outlook.com
-  phone: +1 268-621-3687
-  ssn: 229542541
-  dob: 04-05-2002
-  address: 4224 Third Way
-  city: San Antonio
-  state: TX

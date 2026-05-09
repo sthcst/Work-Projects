@@ -1,9 +1,0 @@
-contact:
-  name: James Lewis
-  email: james.lewis2163@work.org
-  phone: 411 869 2742
-  ssn: 469 44 2011
-  dob: 02-20-1976
-  address: 1185 Spring Court
-  city: Boston
-  state: VA

@@ -1,9 +1,0 @@
-contact:
-  name: Edward Peterson
-  email: edward.peterson2411@mail.com
-  phone: 857 730 2276
-  ssn: 715974970
-  dob: 07/13/1976
-  address: 8741 Fourth St
-  city: Los Angeles
-  state: OH

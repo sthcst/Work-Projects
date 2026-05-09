@@ -1,9 +1,0 @@
-contact:
-  name: Angela Murillo
-  email: angela.murillo7846@outlook.com
-  phone: 676-590-1920
-  ssn: 402-93-2106
-  dob: 12-26-1967
-  address: 1218 Fifth Dr
-  city: San Diego
-  state: AZ

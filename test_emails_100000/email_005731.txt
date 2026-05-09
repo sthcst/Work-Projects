@@ -1,9 +1,0 @@
-contact:
-  name: Mark Martin
-  email: mark.martin7722@yahoo.com
-  phone: +1 699-331-7953
-  ssn: 895 21 9108
-  dob: 08/12/2002
-  address: 4521 East Way
-  city: Denver
-  state: OH

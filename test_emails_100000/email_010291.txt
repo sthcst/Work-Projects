@@ -1,9 +1,0 @@
-contact:
-  name: David Hernandez
-  email: david.hernandez8959@company.com
-  phone: +1 938-879-8476
-  ssn: 305235576
-  dob: 02/11/1968
-  address: 6868 North Ave
-  city: Washington
-  state: CA

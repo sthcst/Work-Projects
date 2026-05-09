@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Moore
-  email: andrew.moore8952@gmail.com
-  phone: +1 540-710-7699
-  ssn: 361-87-6236
-  dob: 08/05/1979
-  address: 8732 Third Ln
-  city: San Antonio
-  state: AZ

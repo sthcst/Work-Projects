@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Martin
-  email: matthew.martin8781@yahoo.com
-  phone: 297-558-1261
-  ssn: 982979922
-  dob: 19/10/1983
-  address: 507 Fifth Ln
-  city: San Jose
-  state: IL

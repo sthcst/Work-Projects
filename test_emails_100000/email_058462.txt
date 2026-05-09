@@ -1,9 +1,0 @@
-contact:
-  name: Emma Gonzalez
-  email: emma.gonzalez3596@yahoo.com
-  phone: +1 882-772-2772
-  ssn: 397568183
-  dob: 3/1/1993
-  address: 9419 Birch Ln
-  city: Seattle
-  state: NY

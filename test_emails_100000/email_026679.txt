@@ -1,9 +1,0 @@
-contact:
-  name: William Robinson
-  email: william.robinson4445@yahoo.com
-  phone: +1 677-968-9227
-  ssn: 520 73 6675
-  dob: 03/04/1989
-  address: 1509 Elm Ave
-  city: Seattle
-  state: MI

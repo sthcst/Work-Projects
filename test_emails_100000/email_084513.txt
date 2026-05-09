@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Smith
-  email: ashley.smith9730@example.com
-  phone: 503-818-2581
-  ssn: 635 20 9982
-  dob: 26/11/1991
-  address: 5991 Summer Ave
-  city: Washington
-  state: TX

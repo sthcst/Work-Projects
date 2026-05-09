@@ -1,9 +1,0 @@
-contact:
-  name: Brian Edwards
-  email: brian.edwards9089@business.net
-  phone: +1 841-722-3571
-  ssn: 968-18-3385
-  dob: 12/07/1960
-  address: 9267 South Ln
-  city: San Diego
-  state: TX

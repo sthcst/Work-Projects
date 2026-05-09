@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Morris,rebecca.morris1904@work.org,539-863-4918,757 46 9001,9/10/1950,"1560 North St",New York,AZ

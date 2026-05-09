@@ -1,9 +1,0 @@
-contact:
-  name: Maria Harris
-  email: maria.harris8141@company.com
-  phone: 966-542-9795
-  ssn: 542 39 6423
-  dob: 10/02/1983
-  address: 9897 Main St
-  city: Boston
-  state: WI

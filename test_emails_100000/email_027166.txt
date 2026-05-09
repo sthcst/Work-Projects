@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Evans,daniel.evans2387@example.com,+1 535-613-8202,040-63-1901,6/13/1992,"3043 First Court",Philadelphia,VA

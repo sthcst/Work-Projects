@@ -1,9 +1,0 @@
-contact:
-  name: William Reyes
-  email: william.reyes9541@yahoo.com
-  phone: 826-312-8785
-  ssn: 502637912
-  dob: 18/07/1980
-  address: 918 Park Ln
-  city: Jacksonville
-  state: CA

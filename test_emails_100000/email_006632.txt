@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Collins
-  email: joseph.collins848@example.com
-  phone: +1 213-769-6545
-  ssn: 634879855
-  dob: 1/3/2002
-  address: 9056 Elm Court
-  city: San Diego
-  state: MO

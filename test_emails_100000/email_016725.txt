@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Smith
-  email: anthony.smith6859@company.com
-  phone: (856) 942-1583
-  ssn: 784 80 2400
-  dob: 2/1/1988
-  address: 7654 Elm Ln
-  city: Boston
-  state: NJ

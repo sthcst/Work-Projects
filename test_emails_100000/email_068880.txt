@@ -1,9 +1,0 @@
-contact:
-  name: John Miller
-  email: john.miller4494@yahoo.com
-  phone: +1 700-771-7026
-  ssn: 937 23 4915
-  dob: 11/17/1951
-  address: 2320 Elm Court
-  city: Dallas
-  state: CO

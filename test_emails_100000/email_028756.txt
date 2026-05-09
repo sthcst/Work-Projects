@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Walker
-  email: rachel.walker8931@yahoo.com
-  phone: 703-251-9670
-  ssn: 763-99-3270
-  dob: 10/09/1965
-  address: 597 First Court
-  city: Houston
-  state: MD

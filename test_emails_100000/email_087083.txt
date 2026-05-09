@@ -1,9 +1,0 @@
-contact:
-  name: David Ortiz
-  email: david.ortiz3645@mail.com
-  phone: (584) 440-1446
-  ssn: 630-50-1915
-  dob: 7/27/1977
-  address: 903 North Ave
-  city: San Antonio
-  state: FL

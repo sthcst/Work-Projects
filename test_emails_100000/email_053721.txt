@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Harris,james.harris9458@outlook.com,(709) 623-3220,415 82 7466,8/26/1964,"5798 Sixth Ln",Austin,MA

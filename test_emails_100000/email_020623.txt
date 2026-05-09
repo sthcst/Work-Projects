@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Ramirez,paul.ramirez1104@company.com,(655) 486-1979,685063450,05/11/1965,"2088 East Ln",Boston,MO

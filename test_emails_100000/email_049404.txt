@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Johnson,david.johnson4294@company.com,+1 791-605-6877,052 34 4418,6/26/1961,"7383 Summer Ave",San Jose,VA

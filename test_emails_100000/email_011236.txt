@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Nunez,david.nunez5171@mail.com,377 772 4434,320-12-7381,01/11/1960,"1810 Pine Way",Chicago,MD

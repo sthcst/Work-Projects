@@ -1,9 +1,0 @@
-contact:
-  name: George Nelson
-  email: george.nelson534@example.com
-  phone: (530) 277-8134
-  ssn: 473-43-7755
-  dob: 4/17/1985
-  address: 6440 Elm Court
-  city: Chicago
-  state: CO

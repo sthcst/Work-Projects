@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Bell,michelle.bell5181@business.net,877 840 2797,521-04-5309,1/10/1951,"843 Elm Ave",Seattle,TX

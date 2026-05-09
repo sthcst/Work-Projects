@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Moore,katherine.moore6068@work.org,(461) 800-1030,673068389,6/26/1974,"5308 Park St",San Antonio,FL

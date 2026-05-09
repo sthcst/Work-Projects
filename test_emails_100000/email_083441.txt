@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Campbell
-  email: lauren.campbell7695@example.com
-  phone: 773 577 9789
-  ssn: 737972011
-  dob: 10/07/1974
-  address: 4640 Maple St
-  city: Los Angeles
-  state: AZ

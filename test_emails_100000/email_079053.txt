@@ -1,9 +1,0 @@
-contact:
-  name: Gary Martinez
-  email: gary.martinez9994@mail.com
-  phone: 395-889-9748
-  ssn: 771-32-2210
-  dob: 04-27-1977
-  address: 5434 South Ave
-  city: Boston
-  state: NJ

@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Taylor
-  email: andrew.taylor9089@company.com
-  phone: 371-762-8059
-  ssn: 993281925
-  dob: 12/5/1975
-  address: 7274 Summer Rd
-  city: Denver
-  state: DC

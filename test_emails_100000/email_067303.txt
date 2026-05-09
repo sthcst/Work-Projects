@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Carter,ashley.carter4439@company.com,(718) 808-8838,382-11-7243,23/06/1984,"4550 Park Ln",Philadelphia,WI

@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Romero
-  email: timothy.romero6751@example.com
-  phone: (906) 775-2182
-  ssn: 189418129
-  dob: 07/11/2000
-  address: 7222 Summer St
-  city: Philadelphia
-  state: AZ

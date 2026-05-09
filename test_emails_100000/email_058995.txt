@@ -1,9 +1,0 @@
-contact:
-  name: Jane Robinson
-  email: jane.robinson5779@gmail.com
-  phone: 223-280-8020
-  ssn: 916-75-4292
-  dob: 06/04/1983
-  address: 4885 Cedar Ln
-  city: San Antonio
-  state: TX

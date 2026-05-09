@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Davis,jessica.davis7022@gmail.com,778-462-2487,277-87-2241,08/02/1995,"1771 Second Rd",Houston,MI

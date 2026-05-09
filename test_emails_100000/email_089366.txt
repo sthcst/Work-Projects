@@ -1,9 +1,0 @@
-contact:
-  name: Mark Reed
-  email: mark.reed7691@business.net
-  phone: 424 445 3670
-  ssn: 290519497
-  dob: 7/12/2004
-  address: 1189 West Rd
-  city: Denver
-  state: DC

@@ -1,9 +1,0 @@
-contact:
-  name: Robert Ortiz
-  email: robert.ortiz8886@work.org
-  phone: 383 245 6714
-  ssn: 558-48-4892
-  dob: 02/18/1951
-  address: 6489 Oak Way
-  city: San Antonio
-  state: NY

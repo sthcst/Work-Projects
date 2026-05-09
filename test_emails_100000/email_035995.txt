@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Johnson
-  email: cynthia.johnson3779@outlook.com
-  phone: 638 779 5018
-  ssn: 485 38 6861
-  dob: 03-07-1966
-  address: 6443 Fourth Court
-  city: Austin
-  state: CA

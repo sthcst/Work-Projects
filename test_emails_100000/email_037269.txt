@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Hernandez
-  email: lauren.hernandez5740@company.com
-  phone: (298) 341-6855
-  ssn: 403155432
-  dob: 02-27-1997
-  address: 2351 Spring Court
-  city: Chicago
-  state: FL

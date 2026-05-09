@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Morgan
-  email: lisa.morgan7901@yahoo.com
-  phone: (330) 435-2387
-  ssn: 448-03-5661
-  dob: 01/07/1994
-  address: 9726 Sixth St
-  city: Philadelphia
-  state: NJ

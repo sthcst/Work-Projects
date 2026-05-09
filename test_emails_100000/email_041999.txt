@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Martinez
-  email: nicholas.martinez2965@example.com
-  phone: +1 488-361-7186
-  ssn: 499 32 9790
-  dob: 17/08/1991
-  address: 8291 South Ln
-  city: Los Angeles
-  state: MA

@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Nelson
-  email: katherine.nelson1090@example.com
-  phone: 705-642-1901
-  ssn: 550-73-2679
-  dob: 3/15/1954
-  address: 3379 Spring Blvd
-  city: Dallas
-  state: TX

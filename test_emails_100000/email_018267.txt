@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Martinez,shirley.martinez2449@work.org,+1 570-331-3153,883 88 7961,11/25/1990,"8638 First Way",Boston,WA

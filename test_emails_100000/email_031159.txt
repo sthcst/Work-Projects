@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Taylor
-  email: jacob.taylor2441@work.org
-  phone: +1 630-892-8531
-  ssn: 431-20-2941
-  dob: 10/5/1973
-  address: 4730 East Ln
-  city: New York
-  state: FL

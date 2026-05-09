@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Morris
-  email: katherine.morris3527@business.net
-  phone: 861 537 4947
-  ssn: 133 93 7808
-  dob: 16/03/1966
-  address: 5371 First Blvd
-  city: Boston
-  state: TX

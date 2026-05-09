@@ -1,9 +1,0 @@
-contact:
-  name: David Jones
-  email: david.jones8744@business.net
-  phone: +1 793-749-1095
-  ssn: 481622654
-  dob: 6/18/1969
-  address: 4971 North Ave
-  city: San Diego
-  state: TX

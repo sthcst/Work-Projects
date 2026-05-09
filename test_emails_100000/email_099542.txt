@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Peterson,gary.peterson5392@gmail.com,(837) 605-4231,323-59-8769,5/18/1998,"6872 Pine Blvd",San Antonio,AZ

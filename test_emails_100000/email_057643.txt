@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Serrano
-  email: nicole.serrano8753@gmail.com
-  phone: (502) 952-3225
-  ssn: 608-47-4396
-  dob: 08-16-1982
-  address: 5824 Cedar Dr
-  city: New York
-  state: TX

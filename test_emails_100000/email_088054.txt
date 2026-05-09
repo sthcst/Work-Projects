@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Moore,rachel.moore1877@work.org,+1 287-503-3938,532516005,3/27/1985,"3248 East Ave",Dallas,DC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Gonzalez,richard.gonzalez9439@example.com,(386) 833-9093,360457296,10/19/1966,"3620 Second Way",Washington,MA

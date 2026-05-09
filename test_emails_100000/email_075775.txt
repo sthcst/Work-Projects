@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Roberts
-  email: katherine.roberts5576@example.com
-  phone: (892) 907-3806
-  ssn: 226882234
-  dob: 26/11/1973
-  address: 9609 First Ln
-  city: Denver
-  state: CA

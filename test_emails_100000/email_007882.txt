@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Moore,anna.moore5326@business.net,+1 290-409-5513,920 76 7729,11/06/1960,"7235 Sixth Rd",Austin,NC

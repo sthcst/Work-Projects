@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Lopez,ryan.lopez5039@business.net,+1 841-263-4147,783123175,07/25/1988,"4084 Maple Ave",Dallas,WI

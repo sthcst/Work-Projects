@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Morris
-  email: kevin.morris9192@yahoo.com
-  phone: 518 288 8043
-  ssn: 281-60-2131
-  dob: 9/27/1999
-  address: 4047 Pine Blvd
-  city: Jacksonville
-  state: NC

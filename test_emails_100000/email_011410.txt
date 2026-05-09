@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Wilson
-  email: nicholas.wilson3033@yahoo.com
-  phone: 201-648-2602
-  ssn: 952-31-7047
-  dob: 12/23/1951
-  address: 1104 Third Ave
-  city: Jacksonville
-  state: MI

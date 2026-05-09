@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Peterson
-  email: amanda.peterson4225@work.org
-  phone: 856 303 6620
-  ssn: 191 70 5499
-  dob: 7/13/2005
-  address: 3442 Maple Rd
-  city: Houston
-  state: CA

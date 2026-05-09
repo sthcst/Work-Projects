@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas White,nicholas.white6349@business.net,(987) 267-8631,448021461,07/20/2004,"3745 Sixth Blvd",San Antonio,AZ

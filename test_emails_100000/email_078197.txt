@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Rodriguez,amanda.rodriguez7310@mail.com,(894) 865-2119,507236661,26/03/1955,"3228 West Blvd",San Jose,NC

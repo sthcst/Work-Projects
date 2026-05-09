@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Walker
-  email: cynthia.walker7225@mail.com
-  phone: 235-353-8364
-  ssn: 561473162
-  dob: 03-02-1970
-  address: 7616 Third Dr
-  city: Seattle
-  state: MO

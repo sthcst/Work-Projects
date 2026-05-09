@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Miller
-  email: nicole.miller354@work.org
-  phone: (665) 390-1030
-  ssn: 166-45-7834
-  dob: 08-12-1965
-  address: 6513 West Ave
-  city: Seattle
-  state: DC

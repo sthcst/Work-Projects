@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Thomas
-  email: jennifer.thomas7938@outlook.com
-  phone: 924 401 6217
-  ssn: 063788531
-  dob: 15/05/1980
-  address: 4433 First Dr
-  city: Houston
-  state: TN

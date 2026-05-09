@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Stewart,amanda.stewart4525@outlook.com,+1 449-791-5062,404 83 6003,04/21/1983,"3569 East Blvd",Houston,GA

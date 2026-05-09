@@ -1,9 +1,0 @@
-contact:
-  name: Donald Lee
-  email: donald.lee1627@example.com
-  phone: +1 726-732-2218
-  ssn: 747229659
-  dob: 08-21-1984
-  address: 1197 Second Way
-  city: Washington
-  state: TN

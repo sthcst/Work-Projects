@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Evans,deborah.evans2545@gmail.com,996 621 1629,296469632,04/04/1958,"7859 North Rd",San Diego,NY

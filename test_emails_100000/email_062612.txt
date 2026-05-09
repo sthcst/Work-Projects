@@ -1,9 +1,0 @@
-contact:
-  name: Michael Nunez
-  email: michael.nunez8085@outlook.com
-  phone: (417) 982-5923
-  ssn: 040-93-8581
-  dob: 09/08/1951
-  address: 9856 First Dr
-  city: Jacksonville
-  state: NY

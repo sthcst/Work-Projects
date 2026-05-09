@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Hall,jessica.hall2497@example.com,(568) 600-9542,487-13-6180,01/06/1978,"4440 Summer Ave",Los Angeles,TX

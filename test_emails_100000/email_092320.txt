@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Murillo,angela.murillo4878@gmail.com,+1 358-247-3513,150-86-1340,22/05/1991,"9924 Summer Ln",Seattle,CA

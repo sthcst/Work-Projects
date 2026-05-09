@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Martin,jason.martin105@outlook.com,727 956 3747,942-48-5717,2/17/1963,"8912 Pine Rd",San Antonio,TN

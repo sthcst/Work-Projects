@@ -1,9 +1,0 @@
-contact:
-  name: David Martinez
-  email: david.martinez9784@mail.com
-  phone: 686-372-7642
-  ssn: 068766351
-  dob: 02/20/1952
-  address: 3268 Spring Dr
-  city: Houston
-  state: TX

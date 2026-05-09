@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Edwards,maria.edwards3055@mail.com,384 605 1301,175 82 3273,10/12/1983,"2673 Second Blvd",San Diego,WI

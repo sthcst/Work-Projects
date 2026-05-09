@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Phillips
-  email: andrew.phillips8400@outlook.com
-  phone: 620 260 1681
-  ssn: 852636069
-  dob: 09/28/1950
-  address: 3913 Cedar Ln
-  city: Philadelphia
-  state: MA

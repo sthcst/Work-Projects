@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Alvarado,edward.alvarado3609@example.com,(446) 641-3082,788 62 7127,16/06/1994,"9596 Cedar Court",New York,MA

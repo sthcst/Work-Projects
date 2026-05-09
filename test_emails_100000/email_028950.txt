@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Robinson
-  email: brenda.robinson6689@example.com
-  phone: +1 200-507-3481
-  ssn: 472-33-9485
-  dob: 04/06/1958
-  address: 5480 East Court
-  city: New York
-  state: FL

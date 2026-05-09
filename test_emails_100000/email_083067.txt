@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Collins,kevin.collins3416@yahoo.com,+1 512-694-2727,281-08-3390,06/04/1997,"8005 First St",Chicago,NJ

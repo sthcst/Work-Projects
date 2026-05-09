@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Walker
-  email: joshua.walker4148@mail.com
-  phone: 292 218 1070
-  ssn: 148 61 3528
-  dob: 07/28/1956
-  address: 3671 Second Ave
-  city: Austin
-  state: NC

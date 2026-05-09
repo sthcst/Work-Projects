@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Walker
-  email: matthew.walker2482@work.org
-  phone: 315-912-3971
-  ssn: 109-76-8732
-  dob: 7/21/1996
-  address: 2349 Summer Way
-  city: Jacksonville
-  state: TX

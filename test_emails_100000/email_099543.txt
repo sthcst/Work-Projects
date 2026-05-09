@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Serrano,jason.serrano2518@mail.com,+1 600-603-9029,144284350,05-21-1966,"6917 Third Dr",Los Angeles,PA

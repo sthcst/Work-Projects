@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Thompson,jennifer.thompson6980@work.org,(601) 353-4160,314-95-6334,7/3/1964,"5015 Spring Ln",Seattle,MA

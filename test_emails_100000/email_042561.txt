@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Martinez
-  email: joseph.martinez9346@company.com
-  phone: +1 854-927-1585
-  ssn: 193 25 4383
-  dob: 04-02-1971
-  address: 8982 Sixth Dr
-  city: Denver
-  state: MO

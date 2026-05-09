@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Collins,lisa.collins1779@gmail.com,702 655 3015,524-56-8779,17/01/1972,"2885 East Rd",San Diego,OH

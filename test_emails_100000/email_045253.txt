@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Jones,jessica.jones4224@company.com,923-332-3463,560452828,08/07/1973,"517 Spring Way",Austin,CA

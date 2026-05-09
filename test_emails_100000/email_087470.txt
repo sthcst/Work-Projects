@@ -1,9 +1,0 @@
-contact:
-  name: Emma Morgan
-  email: emma.morgan482@mail.com
-  phone: (754) 451-9280
-  ssn: 312 57 9191
-  dob: 10-17-1999
-  address: 4072 West Dr
-  city: Austin
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Megan Gonzalez
-  email: megan.gonzalez5756@outlook.com
-  phone: (807) 213-6469
-  ssn: 862 61 2361
-  dob: 1/9/1990
-  address: 8229 Maple Ave
-  city: Jacksonville
-  state: MA

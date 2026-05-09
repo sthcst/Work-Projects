@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Taylor
-  email: kathleen.taylor4177@outlook.com
-  phone: 247 785 9104
-  ssn: 636541804
-  dob: 05-02-1973
-  address: 905 Elm Dr
-  city: Jacksonville
-  state: CA

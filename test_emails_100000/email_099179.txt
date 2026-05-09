@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Reed,anthony.reed2073@mail.com,+1 353-840-8796,318 53 1359,05-17-2005,"2207 Birch Dr",Denver,PA

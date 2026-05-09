@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Thomas,nicole.thomas1378@mail.com,(771) 562-8296,791921060,10-19-1982,"5830 Spring Blvd",Los Angeles,NJ

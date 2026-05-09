@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Serrano,anna.serrano1715@gmail.com,283-986-1652,421181731,08/24/1979,"6910 Maple Ave",San Antonio,CA

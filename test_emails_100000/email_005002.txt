@@ -1,9 +1,0 @@
-contact:
-  name: John Hall
-  email: john.hall8568@mail.com
-  phone: 907 929 6859
-  ssn: 748 34 2776
-  dob: 04/10/1956
-  address: 8304 Fifth Court
-  city: Denver
-  state: WI

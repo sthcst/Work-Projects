@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Johnson
-  email: cynthia.johnson3060@business.net
-  phone: 541-221-5614
-  ssn: 653-09-4672
-  dob: 08-12-2000
-  address: 8817 West Blvd
-  city: Phoenix
-  state: PA

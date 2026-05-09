@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Nelson,kimberly.nelson6153@mail.com,261 920 7197,963-31-1582,06/02/1950,"9782 South Way",Boston,CA

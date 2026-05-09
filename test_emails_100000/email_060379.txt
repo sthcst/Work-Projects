@@ -1,9 +1,0 @@
-contact:
-  name: John Garcia
-  email: john.garcia8215@company.com
-  phone: (940) 669-6630
-  ssn: 218-20-6969
-  dob: 05/01/1970
-  address: 8297 Pine Way
-  city: Austin
-  state: CA

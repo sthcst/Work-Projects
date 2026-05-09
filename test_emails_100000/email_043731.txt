@@ -1,9 +1,0 @@
-contact:
-  name: Richard Brown
-  email: richard.brown3535@work.org
-  phone: 280-891-9484
-  ssn: 513902061
-  dob: 12/24/1962
-  address: 5502 South St
-  city: Seattle
-  state: TX

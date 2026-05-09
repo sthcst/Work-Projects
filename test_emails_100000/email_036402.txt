@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Jimenez
-  email: ronald.jimenez6099@outlook.com
-  phone: 683-483-3983
-  ssn: 699013696
-  dob: 07/27/2005
-  address: 2080 North Court
-  city: Los Angeles
-  state: MD

@@ -1,9 +1,0 @@
-contact:
-  name: Helen Reed
-  email: helen.reed8537@gmail.com
-  phone: +1 739-914-6603
-  ssn: 102842654
-  dob: 2/27/1981
-  address: 4698 Second St
-  city: Boston
-  state: AZ

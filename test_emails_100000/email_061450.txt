@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Morgan,andrew.morgan7333@company.com,+1 528-937-4034,993928808,05-07-1963,"8999 Pine Blvd",Houston,TN

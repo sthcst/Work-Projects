@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Rodriguez,gary.rodriguez7840@gmail.com,743 242 8526,316-92-2344,11/22/1986,"7686 West St",San Antonio,WA

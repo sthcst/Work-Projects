@@ -1,9 +1,0 @@
-contact:
-  name: George Serrano
-  email: george.serrano5762@yahoo.com
-  phone: 280 203 8162
-  ssn: 031351676
-  dob: 04-15-1990
-  address: 8427 Birch Ln
-  city: Phoenix
-  state: OH

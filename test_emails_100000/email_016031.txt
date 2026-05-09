@@ -1,9 +1,0 @@
-contact:
-  name: George Thomas
-  email: george.thomas3255@mail.com
-  phone: 934 687 9067
-  ssn: 737848571
-  dob: 8/7/2002
-  address: 3144 Third Dr
-  city: San Jose
-  state: PA

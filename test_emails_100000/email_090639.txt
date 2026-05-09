@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Gomez,maria.gomez9520@work.org,(882) 981-2276,922-66-5779,03/11/2002,"8274 Summer Way",San Diego,NC

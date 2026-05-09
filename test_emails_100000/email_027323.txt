@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Serrano,steven.serrano9241@company.com,(507) 590-7411,522 32 1943,06-16-1981,"6570 West Court",New York,CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Carter,kathleen.carter6307@work.org,801-992-9662,304 62 4959,20/04/1951,"5903 Oak Ln",Houston,FL

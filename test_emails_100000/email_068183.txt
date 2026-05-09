@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Carter,ronald.carter3514@work.org,771-736-4972,884 81 1087,10/03/1976,"5645 South Ln",Chicago,PA

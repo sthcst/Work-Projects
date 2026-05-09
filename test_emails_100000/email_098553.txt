@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Evans,george.evans3637@work.org,528 222 2320,988-66-6602,03-12-1970,"4786 First Way",Boston,TX

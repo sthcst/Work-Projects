@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Bell
-  email: michelle.bell7624@example.com
-  phone: 821-537-8517
-  ssn: 625-41-1615
-  dob: 07/25/1980
-  address: 9809 Fifth Dr
-  city: New York
-  state: NY

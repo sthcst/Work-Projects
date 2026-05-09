@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Harris
-  email: deborah.harris1497@yahoo.com
-  phone: (857) 542-9538
-  ssn: 130767475
-  dob: 01/21/2002
-  address: 1582 Spring Blvd
-  city: San Antonio
-  state: CA

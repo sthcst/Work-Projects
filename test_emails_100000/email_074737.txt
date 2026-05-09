@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Phillips,maria.phillips7012@work.org,695 733 3514,106 56 1590,19/08/1952,"2429 North Blvd",Phoenix,AZ

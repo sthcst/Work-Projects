@@ -1,9 +1,0 @@
-contact:
-  name: Angela Reed
-  email: angela.reed6811@yahoo.com
-  phone: +1 545-785-4503
-  ssn: 077 77 5043
-  dob: 5/8/1954
-  address: 2665 Fourth Blvd
-  city: Austin
-  state: CA

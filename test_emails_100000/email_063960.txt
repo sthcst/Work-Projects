@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Lee,lisa.lee7511@mail.com,(407) 904-9460,436304088,02/13/1953,"8148 South Way",Phoenix,IL

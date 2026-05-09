@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Thomas,brian.thomas6443@yahoo.com,(561) 771-7968,728706487,9/21/1965,"7570 West St",Chicago,WA

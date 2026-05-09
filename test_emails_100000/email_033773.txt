@@ -1,9 +1,0 @@
-contact:
-  name: Mark Young
-  email: mark.young7367@gmail.com
-  phone: 682-979-6819
-  ssn: 657 28 7932
-  dob: 17/03/1970
-  address: 7509 Pine Court
-  city: Dallas
-  state: MD

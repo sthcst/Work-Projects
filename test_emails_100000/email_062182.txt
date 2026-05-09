@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Rodriguez
-  email: anthony.rodriguez4739@yahoo.com
-  phone: 395-640-4722
-  ssn: 753 98 9959
-  dob: 7/9/1980
-  address: 4337 Second Way
-  city: Denver
-  state: CA

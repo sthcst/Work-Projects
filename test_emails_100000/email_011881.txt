@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Wilson
-  email: daniel.wilson7909@yahoo.com
-  phone: +1 527-723-6993
-  ssn: 751-52-1726
-  dob: 24/02/1952
-  address: 1058 Elm St
-  city: San Diego
-  state: MA

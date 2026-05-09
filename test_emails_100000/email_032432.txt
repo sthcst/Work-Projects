@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Ortiz
-  email: katherine.ortiz6117@outlook.com
-  phone: +1 480-817-5685
-  ssn: 050-51-6080
-  dob: 2/11/1999
-  address: 4611 Cedar Way
-  city: Philadelphia
-  state: MD

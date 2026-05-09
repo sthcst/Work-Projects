@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Lewis,ryan.lewis1585@yahoo.com,553-842-7369,395-88-8723,11/26/1954,"8125 Main Ave",Boston,WA

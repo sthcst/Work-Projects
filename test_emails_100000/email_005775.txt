@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Clark
-  email: shirley.clark9642@company.com
-  phone: 219 349 2626
-  ssn: 838 57 7613
-  dob: 03-18-1951
-  address: 4619 Main Dr
-  city: New York
-  state: MA

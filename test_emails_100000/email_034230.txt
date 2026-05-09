@@ -1,9 +1,0 @@
-contact:
-  name: John Young
-  email: john.young6743@work.org
-  phone: (873) 533-3706
-  ssn: 304-14-6751
-  dob: 07-28-1958
-  address: 4563 Second Court
-  city: San Diego
-  state: WA

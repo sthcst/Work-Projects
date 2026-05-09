@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Parker
-  email: lauren.parker8493@business.net
-  phone: 430-556-9399
-  ssn: 318-53-4952
-  dob: 7/25/1997
-  address: 1667 North Court
-  city: Boston
-  state: NC

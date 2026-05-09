@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Flores
-  email: timothy.flores2523@outlook.com
-  phone: +1 878-846-8109
-  ssn: 190-69-2444
-  dob: 13/08/1978
-  address: 7289 Fourth Way
-  city: Seattle
-  state: NJ

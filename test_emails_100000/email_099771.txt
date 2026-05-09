@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Evans,jeffrey.evans9444@mail.com,(927) 274-3349,215 49 4397,11/15/1960,"4668 Summer Way",Los Angeles,FL

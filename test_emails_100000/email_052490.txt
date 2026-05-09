@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Gonzalez,ronald.gonzalez9373@work.org,934-565-2394,271-22-3159,06-08-1966,"5417 North Court",Jacksonville,MD

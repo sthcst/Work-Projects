@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Young,deborah.young3914@outlook.com,883-398-3728,319 71 8565,10-06-1977,"3795 Third St",San Jose,CA

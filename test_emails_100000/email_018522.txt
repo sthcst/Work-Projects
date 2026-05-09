@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Gonzalez
-  email: stephanie.gonzalez4981@mail.com
-  phone: +1 447-687-8034
-  ssn: 163 46 1728
-  dob: 09-09-1981
-  address: 618 South Dr
-  city: New York
-  state: FL

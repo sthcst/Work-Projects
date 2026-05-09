@@ -1,9 +1,0 @@
-contact:
-  name: Emily Anderson
-  email: emily.anderson5498@outlook.com
-  phone: (667) 839-2611
-  ssn: 985-81-2256
-  dob: 11/10/1992
-  address: 243 West Way
-  city: Phoenix
-  state: MD

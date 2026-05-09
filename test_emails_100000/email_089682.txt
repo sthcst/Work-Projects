@@ -1,9 +1,0 @@
-contact:
-  name: Joshua White
-  email: joshua.white7902@yahoo.com
-  phone: 872-759-1478
-  ssn: 178771935
-  dob: 01/01/1977
-  address: 1690 North Court
-  city: Washington
-  state: NY

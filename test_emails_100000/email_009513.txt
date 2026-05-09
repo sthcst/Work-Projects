@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Flores,jacob.flores7139@work.org,730-647-2686,650 36 3594,06/22/2002,"3894 Sixth Blvd",Los Angeles,NC

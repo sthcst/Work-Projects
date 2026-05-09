@@ -1,9 +1,0 @@
-contact:
-  name: Steven Peterson
-  email: steven.peterson9049@mail.com
-  phone: 436 575 6842
-  ssn: 999 32 4258
-  dob: 02/22/1996
-  address: 1802 Sixth Ln
-  city: San Diego
-  state: MO

@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Murillo
-  email: katherine.murillo9326@business.net
-  phone: 693-478-8641
-  ssn: 047126908
-  dob: 05/11/1986
-  address: 6913 Fourth Blvd
-  city: Austin
-  state: CO

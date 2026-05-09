@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Clark
-  email: amanda.clark995@outlook.com
-  phone: 303 549 7099
-  ssn: 659637835
-  dob: 05-08-1985
-  address: 7030 Summer Ave
-  city: Boston
-  state: CA

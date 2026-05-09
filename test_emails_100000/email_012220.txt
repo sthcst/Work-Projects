@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Gonzalez
-  email: timothy.gonzalez4047@example.com
-  phone: (983) 398-1525
-  ssn: 156-74-8466
-  dob: 02-13-1956
-  address: 1149 Second Ln
-  city: Philadelphia
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Romero,michael.romero4615@outlook.com,(883) 639-6288,699923626,1/9/1953,"7966 Summer Ave",Austin,OH

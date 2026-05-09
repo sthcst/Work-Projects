@@ -1,9 +1,0 @@
-contact:
-  name: Nicole White
-  email: nicole.white7439@work.org
-  phone: +1 251-512-7240
-  ssn: 369389725
-  dob: 16/12/1991
-  address: 6755 Birch Dr
-  city: Los Angeles
-  state: PA

@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Hall
-  email: matthew.hall1606@outlook.com
-  phone: +1 811-905-7352
-  ssn: 956-67-6459
-  dob: 10/09/1968
-  address: 7376 Elm Blvd
-  city: Dallas
-  state: NC

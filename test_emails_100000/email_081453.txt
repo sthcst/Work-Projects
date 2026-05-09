@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Rodriguez
-  email: katherine.rodriguez7122@work.org
-  phone: 734-291-7818
-  ssn: 982-68-2783
-  dob: 18/10/1985
-  address: 2114 Elm Dr
-  city: Dallas
-  state: NY

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Cooper,mark.cooper9499@work.org,(828) 332-9632,138916304,10/4/1968,"5924 Main Ave",San Jose,TX

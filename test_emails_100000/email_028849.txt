@@ -1,9 +1,0 @@
-contact:
-  name: James Davis
-  email: james.davis5237@mail.com
-  phone: 238-479-4479
-  ssn: 419-05-8701
-  dob: 28/04/1977
-  address: 1091 Maple Rd
-  city: Los Angeles
-  state: WI

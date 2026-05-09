@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Reyes,mark.reyes4067@outlook.com,+1 258-503-4421,370-59-2646,11/28/1973,"4573 First Court",Austin,AZ

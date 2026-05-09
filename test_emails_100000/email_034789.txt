@@ -1,9 +1,0 @@
-contact:
-  name: Angela Gonzalez
-  email: angela.gonzalez7647@yahoo.com
-  phone: (577) 946-1972
-  ssn: 411951782
-  dob: 12/06/1984
-  address: 6801 South Ln
-  city: Dallas
-  state: CA

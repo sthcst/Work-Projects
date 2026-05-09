@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Evans,steven.evans5393@business.net,287-814-6909,047 78 7274,05/01/1974,"9685 Summer Rd",Jacksonville,AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Sanchez,brenda.sanchez1923@gmail.com,609 992 6113,633 94 7490,7/18/1952,"2184 Maple Ave",San Diego,WA

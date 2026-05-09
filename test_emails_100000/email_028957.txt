@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Ortiz
-  email: kevin.ortiz2344@company.com
-  phone: 820-499-1497
-  ssn: 922 44 8618
-  dob: 04/19/1975
-  address: 8412 Sixth Ln
-  city: Houston
-  state: GA

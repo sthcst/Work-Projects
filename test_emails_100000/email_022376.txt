@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Jackson
-  email: lisa.jackson196@outlook.com
-  phone: +1 646-389-3028
-  ssn: 861 12 9965
-  dob: 03-27-1963
-  address: 7321 Park Court
-  city: Philadelphia
-  state: WA

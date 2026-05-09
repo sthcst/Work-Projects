@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Anderson
-  email: lisa.anderson4422@example.com
-  phone: (556) 401-4799
-  ssn: 600058484
-  dob: 01/03/1996
-  address: 5576 Elm Ln
-  city: San Jose
-  state: PA

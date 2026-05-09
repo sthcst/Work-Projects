@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Collins,steven.collins2977@work.org,726 501 7011,989 87 9019,17/07/1950,"9325 Elm Dr",San Antonio,CA

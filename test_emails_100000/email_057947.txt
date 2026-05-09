@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Hernandez,kathleen.hernandez8849@business.net,(309) 621-6656,254-75-5550,9/8/1983,"4831 Spring Rd",Jacksonville,WA

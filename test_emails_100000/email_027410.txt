@@ -1,9 +1,0 @@
-contact:
-  name: Jason Jackson
-  email: jason.jackson5198@example.com
-  phone: (370) 452-8767
-  ssn: 833 08 9381
-  dob: 05/22/2004
-  address: 6616 Pine Ave
-  city: Washington
-  state: OH

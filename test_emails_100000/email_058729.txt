@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Lee
-  email: kimberly.lee6384@company.com
-  phone: 792-218-4129
-  ssn: 369085087
-  dob: 08-03-1998
-  address: 9830 Oak Way
-  city: Boston
-  state: WI

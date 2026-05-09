@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Lopez,jeffrey.lopez3705@outlook.com,291-566-6991,127-92-4434,25/01/2004,"1976 Spring Rd",Los Angeles,AZ

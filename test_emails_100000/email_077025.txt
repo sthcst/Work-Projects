@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Morris,megan.morris1836@company.com,417 577 9659,367-54-5998,03-23-1971,"8137 Spring Ave",Dallas,AZ

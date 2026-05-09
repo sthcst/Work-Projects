@@ -1,9 +1,0 @@
-contact:
-  name: Jason Martin
-  email: jason.martin8887@mail.com
-  phone: (316) 236-5575
-  ssn: 462 57 9088
-  dob: 03/01/1974
-  address: 9025 Park Rd
-  city: San Antonio
-  state: IL

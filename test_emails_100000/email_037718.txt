@@ -1,9 +1,0 @@
-contact:
-  name: Brian Dominguez
-  email: brian.dominguez3074@yahoo.com
-  phone: +1 241-930-8895
-  ssn: 445189219
-  dob: 11-27-1964
-  address: 8995 Elm Ln
-  city: San Antonio
-  state: NY

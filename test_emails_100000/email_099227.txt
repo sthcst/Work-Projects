@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Stewart,jacob.stewart2982@gmail.com,927-447-4892,955-77-5361,8/16/1992,"5797 Summer Way",Dallas,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Smith,lisa.smith6972@business.net,572-783-2379,844-39-8890,7/23/1964,"9965 Spring St",Chicago,WA

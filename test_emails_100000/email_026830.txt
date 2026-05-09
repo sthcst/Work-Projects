@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Young
-  email: matthew.young8437@work.org
-  phone: 735-402-2804
-  ssn: 493781912
-  dob: 17/01/1967
-  address: 3594 Fifth Ave
-  city: Denver
-  state: WA

@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Ortiz
-  email: jessica.ortiz7884@outlook.com
-  phone: 699-433-8134
-  ssn: 312-06-8153
-  dob: 16/10/1973
-  address: 7774 First Dr
-  city: Denver
-  state: MD

@@ -1,9 +1,0 @@
-contact:
-  name: Maria Lee
-  email: maria.lee4839@company.com
-  phone: 421 202 7758
-  ssn: 643 86 4320
-  dob: 7/4/1952
-  address: 5866 Fourth Court
-  city: Jacksonville
-  state: NJ

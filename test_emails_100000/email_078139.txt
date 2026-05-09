@@ -1,9 +1,0 @@
-contact:
-  name: Angela Garcia
-  email: angela.garcia9153@company.com
-  phone: +1 392-845-2768
-  ssn: 414 72 9614
-  dob: 5/7/1990
-  address: 3340 First Ave
-  city: Dallas
-  state: FL

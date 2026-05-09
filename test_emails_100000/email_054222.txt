@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Young,jane.young792@example.com,247 334 3537,728 11 1936,08-21-1996,"1916 Pine St",Seattle,MI

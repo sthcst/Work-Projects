@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Rodriguez,jane.rodriguez1932@work.org,(918) 272-7805,185-79-6826,05/11/1953,"1361 North Dr",Phoenix,MI

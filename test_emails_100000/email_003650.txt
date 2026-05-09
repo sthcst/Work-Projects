@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Campbell,daniel.campbell6636@business.net,(691) 298-1609,594 75 7563,02-06-1966,"6376 Fourth Ave",Chicago,TX

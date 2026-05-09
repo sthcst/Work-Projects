@@ -1,9 +1,0 @@
-contact:
-  name: Mark Lopez
-  email: mark.lopez8848@example.com
-  phone: 420 232 6940
-  ssn: 761456219
-  dob: 12-18-1964
-  address: 2732 North Rd
-  city: Phoenix
-  state: PA

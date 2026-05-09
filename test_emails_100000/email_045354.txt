@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Morris
-  email: nicole.morris2097@yahoo.com
-  phone: 761 803 4961
-  ssn: 435 59 1266
-  dob: 09/12/1955
-  address: 9167 Park Blvd
-  city: Phoenix
-  state: MA

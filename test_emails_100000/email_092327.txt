@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Harris,cynthia.harris5703@mail.com,(908) 665-1374,253-02-9246,09/05/1961,"6723 Spring Blvd",New York,CA

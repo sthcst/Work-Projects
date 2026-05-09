@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Hernandez
-  email: michelle.hernandez8754@work.org
-  phone: +1 378-817-6041
-  ssn: 871 24 5327
-  dob: 02-12-1975
-  address: 1937 East Court
-  city: Chicago
-  state: CA

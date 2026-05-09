@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Lee
-  email: jacob.lee8886@gmail.com
-  phone: 658-785-3150
-  ssn: 296-91-6917
-  dob: 22/12/1989
-  address: 2858 West Dr
-  city: Dallas
-  state: WI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Moore,kathleen.moore7341@outlook.com,645-479-3678,450-47-6919,09-10-1981,"1183 West Way",Chicago,MA

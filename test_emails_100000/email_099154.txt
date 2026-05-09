@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Reed,megan.reed1351@company.com,+1 659-993-7595,771 23 7402,07/03/1979,"8059 Second St",Los Angeles,WA

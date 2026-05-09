@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Morris,jessica.morris9749@gmail.com,392-301-4306,336 56 3709,03/03/1974,"556 Maple Ln",Houston,MO

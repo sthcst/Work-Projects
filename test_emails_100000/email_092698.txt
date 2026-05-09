@@ -1,9 +1,0 @@
-contact:
-  name: Joseph White
-  email: joseph.white1498@gmail.com
-  phone: +1 700-912-1839
-  ssn: 443 21 1081
-  dob: 07/07/1971
-  address: 7492 Pine Dr
-  city: Phoenix
-  state: MA

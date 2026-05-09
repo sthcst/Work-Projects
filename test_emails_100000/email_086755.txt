@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Walker,christine.walker7829@outlook.com,548 380 9192,945-22-8407,17/08/1989,"6448 Pine Ave",Phoenix,DC

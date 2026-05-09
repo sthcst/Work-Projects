@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Jimenez
-  email: kimberly.jimenez8419@example.com
-  phone: +1 888-671-2154
-  ssn: 045 68 6734
-  dob: 12/11/1988
-  address: 1746 East Ln
-  city: Los Angeles
-  state: NC

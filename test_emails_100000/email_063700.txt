@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Guerrero,joseph.guerrero6341@example.com,536-390-3660,683153247,17/02/1981,"5277 Main Dr",San Diego,IL

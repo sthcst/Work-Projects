@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Morris,william.morris3280@business.net,+1 438-441-1841,375-98-3723,01/02/1958,"4978 Birch Court",San Antonio,TN

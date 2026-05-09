@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Evans,ronald.evans1187@mail.com,488 881 3654,825 59 4245,14/09/1950,"8385 Third Court",Houston,AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Nelson,robert.nelson3888@outlook.com,656 315 8752,168735034,02/04/1979,"1531 Fourth Court",Dallas,CA

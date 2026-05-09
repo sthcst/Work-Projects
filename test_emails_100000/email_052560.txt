@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Evans,lisa.evans4547@company.com,392 228 6453,332-96-2939,09-09-1959,"9683 First Ln",Chicago,MD

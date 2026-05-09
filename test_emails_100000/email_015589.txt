@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Robinson,brian.robinson5352@company.com,+1 354-723-4351,294554269,12/21/1994,"3999 Elm Court",Jacksonville,MI

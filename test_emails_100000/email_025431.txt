@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Cooper
-  email: kevin.cooper3985@company.com
-  phone: +1 862-868-7285
-  ssn: 261196783
-  dob: 05-25-1954
-  address: 9859 Maple St
-  city: Houston
-  state: WI

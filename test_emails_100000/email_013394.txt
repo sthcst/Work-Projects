@@ -1,9 +1,0 @@
-contact:
-  name: John Bell
-  email: john.bell5256@outlook.com
-  phone: +1 489-405-2214
-  ssn: 920-38-4072
-  dob: 01/07/1965
-  address: 2311 Third Ln
-  city: Boston
-  state: MA

@@ -1,9 +1,0 @@
-contact:
-  name: William Morris
-  email: william.morris5288@yahoo.com
-  phone: +1 248-359-1963
-  ssn: 736 53 6590
-  dob: 9/19/1961
-  address: 8825 Fourth Dr
-  city: San Jose
-  state: WA

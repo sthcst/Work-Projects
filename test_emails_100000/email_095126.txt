@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Williams,emily.williams7160@company.com,743-763-1630,216-66-9492,05/06/1976,"7041 Third Ave",San Jose,WA

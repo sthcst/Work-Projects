@@ -1,9 +1,0 @@
-contact:
-  name: Jane Taylor
-  email: jane.taylor7119@gmail.com
-  phone: +1 421-387-5939
-  ssn: 080 52 6446
-  dob: 12-24-1950
-  address: 6739 Park Court
-  city: New York
-  state: NJ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Murillo,daniel.murillo2809@mail.com,(721) 828-3174,899-65-7087,19/12/1955,"6808 Third Blvd",Boston,MO

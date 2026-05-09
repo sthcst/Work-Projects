@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Clark
-  email: jessica.clark3844@outlook.com
-  phone: 343 663 1401
-  ssn: 651-94-5822
-  dob: 15/05/1951
-  address: 7418 Maple Ln
-  city: Boston
-  state: TN

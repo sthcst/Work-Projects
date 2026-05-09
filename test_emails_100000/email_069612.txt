@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Morris
-  email: joshua.morris1604@yahoo.com
-  phone: 762 608 1783
-  ssn: 829 67 4050
-  dob: 08-14-1985
-  address: 4887 Maple Ave
-  city: Jacksonville
-  state: TN

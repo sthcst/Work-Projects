@@ -1,9 +1,0 @@
-contact:
-  name: Angela Brown
-  email: angela.brown7991@gmail.com
-  phone: 664-513-6871
-  ssn: 969964499
-  dob: 2/20/1994
-  address: 9684 Cedar St
-  city: Jacksonville
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: Megan Jackson
-  email: megan.jackson4924@yahoo.com
-  phone: 241 645 2432
-  ssn: 977 28 4303
-  dob: 08/06/1970
-  address: 5803 Second Rd
-  city: Washington
-  state: MA

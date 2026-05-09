@@ -1,9 +1,0 @@
-contact:
-  name: Maria Campbell
-  email: maria.campbell1410@yahoo.com
-  phone: 689-746-4469
-  ssn: 262-68-9661
-  dob: 9/18/1974
-  address: 5812 Summer Way
-  city: Seattle
-  state: WA

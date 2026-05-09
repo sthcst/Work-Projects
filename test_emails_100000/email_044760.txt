@@ -1,9 +1,0 @@
-contact:
-  name: Angela Reeves
-  email: angela.reeves1880@mail.com
-  phone: (293) 747-9548
-  ssn: 559 94 9049
-  dob: 11/14/1961
-  address: 4744 East Ln
-  city: Austin
-  state: OH

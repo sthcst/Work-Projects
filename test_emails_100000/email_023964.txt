@@ -1,9 +1,0 @@
-contact:
-  name: Robert Carter
-  email: robert.carter256@yahoo.com
-  phone: +1 347-665-3467
-  ssn: 062376388
-  dob: 4/27/1967
-  address: 7471 Elm Ln
-  city: New York
-  state: TN

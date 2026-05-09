@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Delgado,katherine.delgado7417@business.net,652 784 8069,262-08-3391,08-07-1969,"8258 Cedar Dr",New York,CA

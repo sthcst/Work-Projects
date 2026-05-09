@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Reed,nicholas.reed2320@mail.com,217 821 4612,694-49-4301,27/03/2004,"5838 Park Blvd",Boston,MI

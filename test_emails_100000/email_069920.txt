@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Jackson
-  email: stephanie.jackson5512@mail.com
-  phone: (496) 572-9583
-  ssn: 227 69 7138
-  dob: 08/21/1988
-  address: 7777 North Ave
-  city: San Antonio
-  state: CO

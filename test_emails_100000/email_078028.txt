@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Young,kathleen.young5357@mail.com,795 343 4982,763 69 1331,07/23/1978,"3870 Cedar St",New York,MD

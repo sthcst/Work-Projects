@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Rogers
-  email: shirley.rogers8681@yahoo.com
-  phone: 820-922-7775
-  ssn: 105 56 9343
-  dob: 10/17/1966
-  address: 4343 Fourth Court
-  city: Boston
-  state: NJ

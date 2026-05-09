@@ -1,9 +1,0 @@
-contact:
-  name: Gary Wilson
-  email: gary.wilson1279@work.org
-  phone: +1 323-723-4970
-  ssn: 938 75 5680
-  dob: 2/7/1997
-  address: 67 Maple Blvd
-  city: Chicago
-  state: CA

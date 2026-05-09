@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Gonzalez
-  email: jessica.gonzalez711@outlook.com
-  phone: 600-246-4088
-  ssn: 252-69-6634
-  dob: 01-19-1962
-  address: 8239 Main St
-  city: Washington
-  state: TX

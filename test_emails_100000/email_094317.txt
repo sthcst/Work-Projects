@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Morgan,kenneth.morgan8015@example.com,450-271-7461,839291658,08-18-1987,"5194 East Rd",Los Angeles,MD

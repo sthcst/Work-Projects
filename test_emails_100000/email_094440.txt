@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Sanchez
-  email: lisa.sanchez5663@business.net
-  phone: 422-600-3479
-  ssn: 707-88-3110
-  dob: 06-02-1954
-  address: 1229 South Ave
-  city: Chicago
-  state: CA

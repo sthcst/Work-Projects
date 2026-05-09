@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Morris,ashley.morris956@example.com,+1 805-299-8343,553 12 9657,11/10/1998,"9304 Cedar St",Chicago,MO

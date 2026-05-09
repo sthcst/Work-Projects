@@ -1,9 +1,0 @@
-contact:
-  name: Emily Guerrero
-  email: emily.guerrero6252@company.com
-  phone: 629-760-6623
-  ssn: 225725020
-  dob: 05-02-2005
-  address: 4815 South St
-  city: Los Angeles
-  state: MO

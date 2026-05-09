@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Roberts,anthony.roberts4727@gmail.com,+1 932-392-3217,694 26 8118,02/15/1983,"9570 Second Ln",Boston,TN

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Harris,daniel.harris2464@yahoo.com,(981) 226-7715,706-62-7726,25/10/1980,"222 Second Court",Jacksonville,TX

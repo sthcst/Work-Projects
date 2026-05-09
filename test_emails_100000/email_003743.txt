@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Clark,maria.clark5793@yahoo.com,(213) 247-5564,881926640,2/11/1982,"8975 Summer Ln",Boston,TX

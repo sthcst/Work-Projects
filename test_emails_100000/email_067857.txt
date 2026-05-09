@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Thomas
-  email: lauren.thomas2149@company.com
-  phone: (980) 814-4388
-  ssn: 904 11 4175
-  dob: 11-21-1966
-  address: 8700 Fourth Ln
-  city: Chicago
-  state: CA

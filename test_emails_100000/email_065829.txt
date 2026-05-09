@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Carter
-  email: kevin.carter5561@work.org
-  phone: (798) 660-6860
-  ssn: 364922573
-  dob: 04-11-1960
-  address: 8454 Sixth St
-  city: Washington
-  state: PA

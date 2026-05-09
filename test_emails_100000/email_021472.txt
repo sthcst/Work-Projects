@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Martin,kenneth.martin4717@mail.com,344 989 1862,201 99 3467,02/21/1996,"500 Oak Way",Houston,VA

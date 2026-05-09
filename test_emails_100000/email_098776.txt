@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Lopez,paul.lopez824@outlook.com,(862) 872-6687,153273897,18/08/2001,"2184 Oak Rd",Chicago,NJ

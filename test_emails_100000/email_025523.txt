@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Smith,jason.smith3235@business.net,328-242-2231,320 50 2510,10-27-2001,"2023 Oak Rd",Boston,GA

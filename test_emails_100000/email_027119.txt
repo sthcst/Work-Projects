@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Flores
-  email: joshua.flores7666@mail.com
-  phone: 311 348 5476
-  ssn: 441-23-8156
-  dob: 06/02/1989
-  address: 2670 Oak Rd
-  city: Houston
-  state: TX

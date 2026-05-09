@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Reeves
-  email: daniel.reeves5871@outlook.com
-  phone: +1 272-977-4782
-  ssn: 235 96 1404
-  dob: 06-06-1994
-  address: 8879 Pine Ln
-  city: Jacksonville
-  state: MI

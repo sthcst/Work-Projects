@@ -1,9 +1,0 @@
-contact:
-  name: Kevin White
-  email: kevin.white2423@example.com
-  phone: 464 896 9280
-  ssn: 640353769
-  dob: 04/04/1997
-  address: 2027 Third Ave
-  city: Phoenix
-  state: NJ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Bell,joseph.bell3594@outlook.com,+1 711-905-3085,099955175,3/5/1961,"4352 Park Way",Phoenix,FL

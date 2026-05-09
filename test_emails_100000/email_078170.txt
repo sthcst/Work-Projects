@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Thomas,jennifer.thomas9484@work.org,(610) 245-1870,437 75 8725,8/10/1991,"2470 Fifth Way",Houston,CA

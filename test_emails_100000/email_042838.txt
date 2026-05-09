@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Alvarado,william.alvarado5649@work.org,959 765 2389,493481580,04-04-1985,"6813 East Court",Philadelphia,NC

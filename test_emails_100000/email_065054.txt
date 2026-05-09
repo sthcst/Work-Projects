@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Miller,megan.miller4079@outlook.com,(381) 775-4894,808443568,10-15-1995,"3742 East Rd",Denver,OH

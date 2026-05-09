@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Perez
-  email: kathleen.perez3906@work.org
-  phone: 509-755-3176
-  ssn: 897-45-9515
-  dob: 21/02/1962
-  address: 8750 Main Rd
-  city: Houston
-  state: TX

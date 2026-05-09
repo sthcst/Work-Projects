@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Martinez
-  email: rachel.martinez2384@example.com
-  phone: (781) 367-5927
-  ssn: 393 60 8882
-  dob: 01/09/1961
-  address: 6948 Elm Rd
-  city: San Jose
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Wilson,rachel.wilson3908@outlook.com,582-913-6355,027-83-7125,20/08/1955,"2566 Cedar Way",Houston,TX

@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Evans
-  email: timothy.evans8375@company.com
-  phone: 464-318-2389
-  ssn: 788-42-9990
-  dob: 1/20/1958
-  address: 1274 Pine St
-  city: Dallas
-  state: TX

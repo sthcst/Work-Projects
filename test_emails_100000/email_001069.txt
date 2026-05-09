@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Cooper,michael.cooper2755@gmail.com,710-854-4204,021-18-5287,21/07/1995,"2285 Spring Court",Jacksonville,CA

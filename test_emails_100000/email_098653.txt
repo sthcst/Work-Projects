@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Hernandez
-  email: shirley.hernandez4954@outlook.com
-  phone: 817 252 1656
-  ssn: 506 60 8790
-  dob: 17/03/1991
-  address: 898 Elm Ave
-  city: Houston
-  state: NC

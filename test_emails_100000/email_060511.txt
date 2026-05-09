@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Thomas,angela.thomas843@gmail.com,(872) 512-2868,722-39-9701,13/09/1994,"8056 Maple Blvd",Seattle,CA

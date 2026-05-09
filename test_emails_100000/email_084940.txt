@@ -1,9 +1,0 @@
-contact:
-  name: John Martinez
-  email: john.martinez2616@outlook.com
-  phone: 785-842-4261
-  ssn: 005 97 6097
-  dob: 7/4/1985
-  address: 2341 Third St
-  city: San Jose
-  state: PA

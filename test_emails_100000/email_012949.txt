@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Delgado,kathleen.delgado4945@business.net,+1 622-753-1144,976-60-6055,08/02/1960,"6039 Elm Way",Phoenix,MO

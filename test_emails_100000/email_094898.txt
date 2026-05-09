@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Ortiz,michelle.ortiz3525@work.org,530 207 9516,218463135,6/9/1999,"353 Birch Way",Philadelphia,CA

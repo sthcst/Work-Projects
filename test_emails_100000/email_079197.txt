@@ -1,9 +1,0 @@
-contact:
-  name: David Dominguez
-  email: david.dominguez7033@outlook.com
-  phone: +1 711-844-6074
-  ssn: 121832853
-  dob: 02/23/1966
-  address: 3749 Main Ln
-  city: Dallas
-  state: MA

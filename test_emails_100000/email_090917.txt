@@ -1,9 +1,0 @@
-contact:
-  name: Christine Garcia
-  email: christine.garcia3586@example.com
-  phone: 247 849 9528
-  ssn: 934985236
-  dob: 3/25/2003
-  address: 8093 Sixth Way
-  city: Washington
-  state: OH

@@ -1,9 +1,0 @@
-contact:
-  name: Richard Campbell
-  email: richard.campbell3120@outlook.com
-  phone: +1 210-548-6204
-  ssn: 893 84 9515
-  dob: 12-11-2002
-  address: 6939 North Dr
-  city: San Jose
-  state: TX

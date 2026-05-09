@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Campbell,daniel.campbell4402@outlook.com,877 316 9210,982 77 4631,03/06/1969,"3719 Summer Court",Austin,TX

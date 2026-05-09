@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Reeves,robert.reeves9763@outlook.com,(570) 684-5608,895-21-2712,09-19-1998,"4504 North Court",Philadelphia,IL

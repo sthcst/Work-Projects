@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Evans
-  email: jacob.evans5056@mail.com
-  phone: (860) 375-6392
-  ssn: 212-15-6457
-  dob: 10-03-1999
-  address: 6647 South Court
-  city: Boston
-  state: PA

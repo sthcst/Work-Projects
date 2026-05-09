@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Martin,christine.martin551@yahoo.com,+1 547-591-5963,344112158,5/6/1991,"2751 Third Dr",Boston,CA

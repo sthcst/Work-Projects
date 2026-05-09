@@ -1,9 +1,0 @@
-contact:
-  name: Michael Johnson
-  email: michael.johnson7532@company.com
-  phone: 471-408-1418
-  ssn: 963-61-8620
-  dob: 05/13/1979
-  address: 8492 Maple Court
-  city: Dallas
-  state: WA

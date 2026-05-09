@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Parker,sarah.parker613@example.com,879 543 8868,940685412,10/06/1982,"6731 Cedar Way",Los Angeles,PA

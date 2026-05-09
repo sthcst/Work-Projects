@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Brown,joshua.brown3694@company.com,727-588-3836,843-24-2010,3/6/1991,"6206 Sixth St",San Antonio,NJ

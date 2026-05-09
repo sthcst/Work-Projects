@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Dominguez
-  email: lisa.dominguez5678@work.org
-  phone: +1 712-252-4068
-  ssn: 175372866
-  dob: 2/26/2004
-  address: 8533 Second Ln
-  city: Boston
-  state: DC

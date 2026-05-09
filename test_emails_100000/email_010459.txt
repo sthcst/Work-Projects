@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Carter
-  email: kevin.carter161@work.org
-  phone: 757 557 9677
-  ssn: 142 06 9341
-  dob: 06/08/1986
-  address: 7352 South Ln
-  city: New York
-  state: TX

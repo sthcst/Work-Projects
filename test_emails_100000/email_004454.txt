@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Peterson,donald.peterson4365@mail.com,835 523 1294,816 73 3207,04/04/1969,"9002 West Dr",Austin,MI

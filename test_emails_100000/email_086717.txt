@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Edwards
-  email: jennifer.edwards4040@yahoo.com
-  phone: 254-899-1290
-  ssn: 017738270
-  dob: 3/16/1982
-  address: 4440 Birch St
-  city: Washington
-  state: MO

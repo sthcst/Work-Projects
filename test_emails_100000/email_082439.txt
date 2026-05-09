@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Dominguez
-  email: timothy.dominguez8728@mail.com
-  phone: 943 396 4186
-  ssn: 713 27 6864
-  dob: 08/07/1966
-  address: 7106 Third Way
-  city: Jacksonville
-  state: CO

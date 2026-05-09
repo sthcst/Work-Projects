@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Reed
-  email: shirley.reed6121@gmail.com
-  phone: 483-802-4125
-  ssn: 443012710
-  dob: 02-18-1956
-  address: 6723 Second Dr
-  city: Dallas
-  state: VA

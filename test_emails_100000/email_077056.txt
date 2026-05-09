@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Johnson
-  email: michelle.johnson5900@business.net
-  phone: (612) 400-8016
-  ssn: 870 29 4860
-  dob: 03-26-1967
-  address: 4793 Main Blvd
-  city: Chicago
-  state: NY

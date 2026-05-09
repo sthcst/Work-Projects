@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Lewis,david.lewis8782@gmail.com,498 968 3837,921 77 4006,9/2/1973,"5007 Main St",Washington,GA

@@ -1,9 +1,0 @@
-contact:
-  name: George Hernandez
-  email: george.hernandez7410@example.com
-  phone: +1 267-971-4842
-  ssn: 633-76-7978
-  dob: 01/24/1970
-  address: 8384 South Ln
-  city: San Diego
-  state: WA

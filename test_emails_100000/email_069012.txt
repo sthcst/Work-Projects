@@ -1,9 +1,0 @@
-contact:
-  name: Jason Peterson
-  email: jason.peterson9597@yahoo.com
-  phone: 374-708-4483
-  ssn: 500 60 9957
-  dob: 5/13/1995
-  address: 7820 Sixth Way
-  city: Los Angeles
-  state: CA

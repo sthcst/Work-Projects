@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Thomas,kathleen.thomas1163@gmail.com,(598) 833-1631,559063791,2/4/1952,"7138 Main Way",Phoenix,CO

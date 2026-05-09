@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Edwards
-  email: lauren.edwards9741@mail.com
-  phone: (504) 424-9869
-  ssn: 768915503
-  dob: 08-23-1978
-  address: 7468 Park Rd
-  city: Washington
-  state: TX

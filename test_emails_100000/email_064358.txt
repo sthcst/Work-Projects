@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Morgan,pamela.morgan2594@mail.com,368-642-9860,314 41 3490,09/05/1985,"4829 Maple Way",San Antonio,AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Lopez
-  email: pamela.lopez8669@company.com
-  phone: 231-546-6810
-  ssn: 539-97-8962
-  dob: 01-01-1979
-  address: 3828 Second Ln
-  city: Seattle
-  state: IL

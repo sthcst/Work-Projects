@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Serrano,mark.serrano2066@yahoo.com,+1 868-731-8854,272-25-5565,02-04-1999,"5703 East Dr",Philadelphia,MA

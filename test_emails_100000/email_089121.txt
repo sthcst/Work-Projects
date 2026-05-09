@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Anderson,james.anderson5412@work.org,(564) 991-3827,899 35 1759,12-14-1961,"8245 North Rd",Chicago,VA

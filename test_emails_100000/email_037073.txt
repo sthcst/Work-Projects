@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Bell
-  email: amanda.bell8472@company.com
-  phone: +1 479-242-3579
-  ssn: 152 59 5738
-  dob: 09/27/1954
-  address: 878 East Dr
-  city: Jacksonville
-  state: PA

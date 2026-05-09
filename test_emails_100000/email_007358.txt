@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Garcia,nicole.garcia327@company.com,(934) 779-1443,183 26 4131,12-22-1951,"5513 Sixth Blvd",San Jose,NC

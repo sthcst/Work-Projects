@@ -1,9 +1,0 @@
-contact:
-  name: Michael Bell
-  email: michael.bell9214@business.net
-  phone: (996) 436-3053
-  ssn: 240-54-6126
-  dob: 12/08/1961
-  address: 1040 South Ave
-  city: Boston
-  state: TX

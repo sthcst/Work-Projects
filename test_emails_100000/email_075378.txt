@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Rodriguez
-  email: shirley.rodriguez4213@company.com
-  phone: (587) 206-3297
-  ssn: 242-21-5549
-  dob: 07-08-1953
-  address: 8760 First St
-  city: Denver
-  state: MA

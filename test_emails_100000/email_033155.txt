@@ -1,9 +1,0 @@
-contact:
-  name: Steven Garcia
-  email: steven.garcia3500@business.net
-  phone: +1 715-876-9986
-  ssn: 390-93-2010
-  dob: 26/12/1969
-  address: 4746 West Blvd
-  city: Houston
-  state: TX

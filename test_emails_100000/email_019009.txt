@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Phillips
-  email: brenda.phillips1206@yahoo.com
-  phone: 688-289-2796
-  ssn: 176-42-9824
-  dob: 7/28/1982
-  address: 1273 First Way
-  city: San Antonio
-  state: FL

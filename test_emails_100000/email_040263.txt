@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Jackson,deborah.jackson1352@work.org,+1 686-977-2659,772 39 2336,07-05-1987,"5466 Pine Dr",San Jose,MA

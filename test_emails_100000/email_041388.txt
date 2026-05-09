@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Serrano,megan.serrano7060@company.com,+1 780-756-7486,122 19 6603,03-26-1974,"958 West Rd",Dallas,TX

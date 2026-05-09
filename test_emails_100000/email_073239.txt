@@ -1,9 +1,0 @@
-contact:
-  name: Gary White
-  email: gary.white5214@work.org
-  phone: 956-760-9804
-  ssn: 509 25 2251
-  dob: 4/25/1987
-  address: 7086 First Blvd
-  city: Chicago
-  state: GA

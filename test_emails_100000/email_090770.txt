@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Delgado,christopher.delgado1690@example.com,(847) 832-7825,619-11-9720,06/11/1973,"2160 Sixth Dr",Philadelphia,CA

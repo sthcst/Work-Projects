@@ -1,9 +1,0 @@
-contact:
-  name: Mark Flores
-  email: mark.flores4570@mail.com
-  phone: +1 979-996-7524
-  ssn: 506 08 8345
-  dob: 08/24/1982
-  address: 5032 Fourth St
-  city: Phoenix
-  state: NC

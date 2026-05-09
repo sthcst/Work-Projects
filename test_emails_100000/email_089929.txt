@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Harris
-  email: rachel.harris4658@business.net
-  phone: +1 449-671-1668
-  ssn: 103-29-5171
-  dob: 11-15-1975
-  address: 6493 Summer Court
-  city: San Diego
-  state: FL

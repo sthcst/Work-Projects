@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Johnson,brian.johnson9354@company.com,+1 351-670-2584,369-28-2406,22/04/1975,"8912 Park Rd",Los Angeles,FL

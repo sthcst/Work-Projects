@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Clark
-  email: cynthia.clark1749@yahoo.com
-  phone: 557 968 8335
-  ssn: 048 54 8615
-  dob: 10-25-1989
-  address: 4514 Second Rd
-  city: Austin
-  state: IL

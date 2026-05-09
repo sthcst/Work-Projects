@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Sanchez
-  email: matthew.sanchez3547@business.net
-  phone: (413) 359-3014
-  ssn: 948699548
-  dob: 12/22/1951
-  address: 9251 Fourth Rd
-  city: Seattle
-  state: CA

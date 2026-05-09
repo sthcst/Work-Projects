@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Martinez,george.martinez7684@business.net,750 311 7926,053 68 6252,4/9/1977,"6080 West Dr",San Antonio,VA

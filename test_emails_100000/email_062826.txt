@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Peterson
-  email: ashley.peterson7543@yahoo.com
-  phone: (941) 485-2156
-  ssn: 647151564
-  dob: 02-02-1997
-  address: 9591 North Rd
-  city: New York
-  state: CA

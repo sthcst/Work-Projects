@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Peterson
-  email: jeffrey.peterson6951@business.net
-  phone: +1 715-619-7009
-  ssn: 744445164
-  dob: 08/12/1978
-  address: 94 Park Way
-  city: San Antonio
-  state: TN

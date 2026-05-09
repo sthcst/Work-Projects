@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Thomas
-  email: rebecca.thomas1971@outlook.com
-  phone: +1 769-213-1244
-  ssn: 360 67 4808
-  dob: 01-03-1991
-  address: 9485 Oak Rd
-  city: Phoenix
-  state: TX

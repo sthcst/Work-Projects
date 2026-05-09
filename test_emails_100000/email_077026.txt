@@ -1,9 +1,0 @@
-contact:
-  name: David Harris
-  email: david.harris9653@yahoo.com
-  phone: +1 275-288-2566
-  ssn: 936 24 1498
-  dob: 12/1/1994
-  address: 1201 First Way
-  city: Seattle
-  state: MI

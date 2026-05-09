@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Moore
-  email: joshua.moore5340@example.com
-  phone: (872) 874-6844
-  ssn: 046-45-7793
-  dob: 06-10-1955
-  address: 8946 Third Blvd
-  city: Houston
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Ortiz
-  email: michelle.ortiz1015@mail.com
-  phone: +1 584-559-8985
-  ssn: 003-40-1775
-  dob: 04-02-1962
-  address: 6079 Birch Rd
-  city: Phoenix
-  state: WI

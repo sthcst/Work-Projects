@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Johnson,david.johnson6288@company.com,983-367-6030,251-11-9616,11/16/1996,"7692 West Way",Denver,NJ

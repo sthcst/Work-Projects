@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Hall
-  email: kevin.hall3366@yahoo.com
-  phone: +1 949-756-6732
-  ssn: 672754135
-  dob: 2/17/1966
-  address: 2918 North Ln
-  city: Los Angeles
-  state: FL

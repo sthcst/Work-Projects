@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Martin,megan.martin7909@mail.com,345-483-5616,778-30-4532,04-03-1972,"4227 Fourth Dr",San Jose,GA

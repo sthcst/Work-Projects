@@ -1,9 +1,0 @@
-contact:
-  name: Charles Jackson
-  email: charles.jackson8459@outlook.com
-  phone: +1 318-312-6811
-  ssn: 675-27-7073
-  dob: 02-20-1963
-  address: 9596 Third Dr
-  city: Austin
-  state: MO

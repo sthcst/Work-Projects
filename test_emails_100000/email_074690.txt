@@ -1,9 +1,0 @@
-contact:
-  name: Donald Lewis
-  email: donald.lewis138@yahoo.com
-  phone: (540) 319-4227
-  ssn: 904-34-2012
-  dob: 09-23-1992
-  address: 4374 Pine Way
-  city: Los Angeles
-  state: AZ

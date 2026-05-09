@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Williams
-  email: amanda.williams7798@gmail.com
-  phone: 512 888 3895
-  ssn: 951-29-1168
-  dob: 12-15-1993
-  address: 3638 Cedar Court
-  city: Austin
-  state: WI

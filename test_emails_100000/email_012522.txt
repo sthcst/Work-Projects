@@ -1,9 +1,0 @@
-contact:
-  name: Jane Brown
-  email: jane.brown7153@example.com
-  phone: 643-731-4590
-  ssn: 760 64 5003
-  dob: 07/26/1980
-  address: 5777 Fifth Way
-  city: New York
-  state: NY

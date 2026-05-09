@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Parker,david.parker4287@example.com,+1 472-434-3062,183 58 4119,05/27/1980,"3711 Maple Court",San Jose,CA

@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Rogers
-  email: andrew.rogers6797@mail.com
-  phone: +1 713-238-8571
-  ssn: 692 26 9907
-  dob: 04-04-1963
-  address: 8779 Summer Ave
-  city: New York
-  state: GA

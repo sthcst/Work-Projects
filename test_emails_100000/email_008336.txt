@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Nunez
-  email: stephanie.nunez8241@yahoo.com
-  phone: 327 261 5464
-  ssn: 699-38-5002
-  dob: 03/25/1953
-  address: 6883 Cedar Way
-  city: Washington
-  state: FL

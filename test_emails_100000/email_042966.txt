@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Collins
-  email: nicole.collins3302@mail.com
-  phone: +1 809-279-6855
-  ssn: 646 64 1122
-  dob: 1/15/1995
-  address: 1026 Fourth Rd
-  city: Dallas
-  state: MO

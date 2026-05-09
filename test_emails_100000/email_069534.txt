@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Romero
-  email: ryan.romero6684@outlook.com
-  phone: (397) 340-2472
-  ssn: 195-63-7805
-  dob: 08-24-1972
-  address: 3070 Second Way
-  city: Dallas
-  state: MI

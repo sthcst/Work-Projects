@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Robinson
-  email: kenneth.robinson3394@mail.com
-  phone: (769) 413-6503
-  ssn: 976 17 8276
-  dob: 03/21/1965
-  address: 3164 Elm Ln
-  city: Denver
-  state: IL

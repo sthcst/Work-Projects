@@ -1,9 +1,0 @@
-contact:
-  name: Michael Moore
-  email: michael.moore3668@yahoo.com
-  phone: +1 252-885-3188
-  ssn: 131-11-9207
-  dob: 4/11/1997
-  address: 9705 Park Dr
-  city: Chicago
-  state: CO

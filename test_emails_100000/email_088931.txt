@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Alvarado,samantha.alvarado3585@company.com,430 337 6274,104-66-2269,2/7/1979,"254 Cedar Ave",Boston,CA

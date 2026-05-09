@@ -1,9 +1,0 @@
-contact:
-  name: Megan Flores
-  email: megan.flores6083@example.com
-  phone: 676 450 7036
-  ssn: 268 95 7828
-  dob: 20/02/1996
-  address: 7166 Second Dr
-  city: Seattle
-  state: CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Lopez,ashley.lopez8575@company.com,796 448 2351,541-40-1538,4/18/1950,"430 Park Rd",Houston,WA

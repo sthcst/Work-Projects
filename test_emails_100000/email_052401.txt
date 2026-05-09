@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Martinez
-  email: daniel.martinez9470@mail.com
-  phone: 585 834 4129
-  ssn: 004-77-8912
-  dob: 03/12/1977
-  address: 2587 Cedar Blvd
-  city: Chicago
-  state: WI

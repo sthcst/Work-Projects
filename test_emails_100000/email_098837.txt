@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Nunez,paul.nunez1043@gmail.com,254 501 5775,016-83-3465,12-07-1977,"523 Third Ln",Boston,IL

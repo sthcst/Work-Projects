@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Garcia,kathleen.garcia724@mail.com,(490) 791-6685,829 57 5134,11-09-1981,"6442 Oak Blvd",Philadelphia,WA

@@ -1,9 +1,0 @@
-contact:
-  name: Mark Harris
-  email: mark.harris5119@business.net
-  phone: 606-788-3355
-  ssn: 533 12 6461
-  dob: 11/21/1950
-  address: 9079 Cedar Ave
-  city: Phoenix
-  state: TN

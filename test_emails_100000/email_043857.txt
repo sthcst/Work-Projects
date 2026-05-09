@@ -1,9 +1,0 @@
-contact:
-  name: Charles Jones
-  email: charles.jones7354@yahoo.com
-  phone: +1 365-763-7455
-  ssn: 488-85-5177
-  dob: 11/13/1981
-  address: 5553 Birch Way
-  city: Denver
-  state: AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Rogers,kathleen.rogers3452@example.com,(231) 205-1614,132414185,05/06/1990,"3847 Third Way",Phoenix,NJ

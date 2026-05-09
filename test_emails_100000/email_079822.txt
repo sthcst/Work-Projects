@@ -1,9 +1,0 @@
-contact:
-  name: Steven Collins
-  email: steven.collins1024@mail.com
-  phone: 513 748 9889
-  ssn: 268-76-2174
-  dob: 09/11/1988
-  address: 3509 Cedar Blvd
-  city: Dallas
-  state: CA

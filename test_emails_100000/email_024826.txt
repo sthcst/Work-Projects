@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Collins,joseph.collins7514@outlook.com,+1 663-821-7241,625416301,15/02/1954,"9057 Birch St",Jacksonville,CA

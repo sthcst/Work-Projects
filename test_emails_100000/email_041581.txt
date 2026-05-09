@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Flores
-  email: jessica.flores8507@outlook.com
-  phone: 461-877-5270
-  ssn: 590 42 9107
-  dob: 11/10/1980
-  address: 6998 Main Ave
-  city: San Jose
-  state: AZ

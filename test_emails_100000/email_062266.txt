@@ -1,9 +1,0 @@
-contact:
-  name: Jason Stewart
-  email: jason.stewart7532@business.net
-  phone: 605 898 6911
-  ssn: 663 01 7231
-  dob: 01/05/1992
-  address: 3241 Elm Ln
-  city: New York
-  state: WA

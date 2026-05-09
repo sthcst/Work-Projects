@@ -1,9 +1,0 @@
-contact:
-  name: Shirley White
-  email: shirley.white2151@gmail.com
-  phone: (907) 302-4832
-  ssn: 709 49 4157
-  dob: 13/11/1996
-  address: 2654 South Court
-  city: Chicago
-  state: TN

@@ -1,9 +1,0 @@
-contact:
-  name: Mark Cooper
-  email: mark.cooper8285@work.org
-  phone: 996 594 1131
-  ssn: 920 30 2268
-  dob: 05-25-1970
-  address: 7457 Second Way
-  city: Denver
-  state: WA

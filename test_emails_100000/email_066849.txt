@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Reeves
-  email: daniel.reeves1308@outlook.com
-  phone: 480-691-3075
-  ssn: 964 02 1178
-  dob: 04-06-1992
-  address: 6111 Birch Court
-  city: Philadelphia
-  state: GA

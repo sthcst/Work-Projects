@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Gomez,ryan.gomez4146@gmail.com,607 809 2519,362745220,08-24-1962,"4034 Main Dr",Dallas,MA

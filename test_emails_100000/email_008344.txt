@@ -1,9 +1,0 @@
-contact:
-  name: Megan Wilson
-  email: megan.wilson823@mail.com
-  phone: 319-433-6593
-  ssn: 037-23-8518
-  dob: 06/22/1970
-  address: 572 Sixth Ln
-  city: Austin
-  state: TX

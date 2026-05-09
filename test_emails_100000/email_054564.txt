@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Hall
-  email: katherine.hall6143@yahoo.com
-  phone: +1 542-734-9651
-  ssn: 224 35 3352
-  dob: 10-21-1982
-  address: 6147 Summer St
-  city: Houston
-  state: AZ

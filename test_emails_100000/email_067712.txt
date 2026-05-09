@@ -1,9 +1,0 @@
-contact:
-  name: Megan Flores
-  email: megan.flores1041@yahoo.com
-  phone: 786 929 7460
-  ssn: 403 48 9774
-  dob: 04-09-1984
-  address: 7003 Cedar Dr
-  city: San Jose
-  state: TN

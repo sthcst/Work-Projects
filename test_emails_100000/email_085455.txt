@@ -1,9 +1,0 @@
-contact:
-  name: Charles Phillips
-  email: charles.phillips2602@company.com
-  phone: 450 546 2491
-  ssn: 891338398
-  dob: 1/6/1996
-  address: 9133 Summer Dr
-  city: Houston
-  state: AZ

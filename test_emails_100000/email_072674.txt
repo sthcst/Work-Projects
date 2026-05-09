@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Gomez
-  email: cynthia.gomez8843@gmail.com
-  phone: (634) 485-9108
-  ssn: 974289535
-  dob: 10/09/1978
-  address: 8838 Elm Ave
-  city: Dallas
-  state: CA

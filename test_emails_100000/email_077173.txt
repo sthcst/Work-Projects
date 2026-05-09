@@ -1,9 +1,0 @@
-contact:
-  name: Maria Jones
-  email: maria.jones6641@company.com
-  phone: +1 948-491-2686
-  ssn: 614819338
-  dob: 12/28/1950
-  address: 267 First Court
-  city: Phoenix
-  state: DC

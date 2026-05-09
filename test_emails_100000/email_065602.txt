@@ -1,9 +1,0 @@
-contact:
-  name: Robert Lopez
-  email: robert.lopez4148@example.com
-  phone: 761 257 9882
-  ssn: 391-67-7294
-  dob: 02/05/2001
-  address: 2040 Sixth Dr
-  city: San Antonio
-  state: NC

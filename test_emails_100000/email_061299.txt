@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian White,brian.white5809@business.net,609 924 1193,768-66-5264,12/19/1970,"7192 North Way",Austin,TX

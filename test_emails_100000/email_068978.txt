@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Rogers
-  email: cynthia.rogers9265@gmail.com
-  phone: 635 259 5890
-  ssn: 540566995
-  dob: 07/03/1971
-  address: 3306 Oak St
-  city: Boston
-  state: TX

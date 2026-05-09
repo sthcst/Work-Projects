@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Evans,joshua.evans7250@mail.com,927 734 2494,795 29 9786,6/4/1965,"9238 Sixth Rd",Boston,WA

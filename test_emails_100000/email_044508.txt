@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Davis,andrew.davis2322@yahoo.com,(319) 956-5087,994563386,09-04-1975,"539 Fourth Blvd",Philadelphia,CA

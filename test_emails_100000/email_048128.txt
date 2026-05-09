@@ -1,9 +1,0 @@
-contact:
-  name: Gary Perez
-  email: gary.perez3418@gmail.com
-  phone: (391) 702-8475
-  ssn: 887 19 3603
-  dob: 04/07/1978
-  address: 8124 Oak Court
-  city: Houston
-  state: TX

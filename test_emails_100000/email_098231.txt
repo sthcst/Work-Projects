@@ -1,9 +1,0 @@
-contact:
-  name: Brian Nelson
-  email: brian.nelson352@company.com
-  phone: (309) 611-7985
-  ssn: 338913732
-  dob: 01/12/1971
-  address: 5150 Main Blvd
-  city: Phoenix
-  state: TX

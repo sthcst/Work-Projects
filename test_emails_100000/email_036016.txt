@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Ramirez
-  email: sarah.ramirez6426@outlook.com
-  phone: 974-700-1920
-  ssn: 003 30 2959
-  dob: 02-06-1999
-  address: 3635 Second Blvd
-  city: Philadelphia
-  state: WA

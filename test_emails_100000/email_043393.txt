@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Robinson
-  email: michelle.robinson2272@company.com
-  phone: (427) 656-4658
-  ssn: 963288661
-  dob: 4/2/1991
-  address: 8261 Second Court
-  city: San Antonio
-  state: VA

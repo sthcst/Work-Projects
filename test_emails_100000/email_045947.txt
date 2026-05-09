@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Martin
-  email: brenda.martin5267@business.net
-  phone: +1 389-341-1636
-  ssn: 631064937
-  dob: 03/03/1966
-  address: 412 First Rd
-  city: San Antonio
-  state: MD

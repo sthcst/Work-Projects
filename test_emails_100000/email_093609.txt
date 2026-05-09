@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Parker,richard.parker4841@yahoo.com,(556) 346-2231,247269794,07-10-1991,"6551 East Rd",Boston,NJ

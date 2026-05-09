@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Jackson,emma.jackson3967@work.org,(296) 381-2539,616-82-1444,12/19/1987,"5342 Pine Ln",Houston,IL

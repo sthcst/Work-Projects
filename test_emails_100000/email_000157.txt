@@ -1,9 +1,0 @@
-contact:
-  name: Michael Wilson
-  email: michael.wilson6610@business.net
-  phone: 770-762-1002
-  ssn: 846125990
-  dob: 07/09/1991
-  address: 5594 South St
-  city: San Diego
-  state: MO

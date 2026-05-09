@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Nelson,pamela.nelson4064@gmail.com,(560) 911-1968,080712172,02/01/1960,"830 South St",Philadelphia,TX

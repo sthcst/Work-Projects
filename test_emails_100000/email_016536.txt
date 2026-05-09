@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Ramirez
-  email: ashley.ramirez2780@work.org
-  phone: 651 881 8922
-  ssn: 501271268
-  dob: 11/3/1977
-  address: 1063 Sixth Ave
-  city: Seattle
-  state: FL

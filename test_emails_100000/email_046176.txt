@@ -1,9 +1,0 @@
-contact:
-  name: Donald Gomez
-  email: donald.gomez6217@work.org
-  phone: (760) 645-6593
-  ssn: 720897673
-  dob: 10-04-1986
-  address: 8387 Main Dr
-  city: Boston
-  state: CO

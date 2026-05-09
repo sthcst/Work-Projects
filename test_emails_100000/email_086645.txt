@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Reyes,matthew.reyes958@outlook.com,(810) 981-3737,439504635,12/05/1991,"81 East St",Houston,NY

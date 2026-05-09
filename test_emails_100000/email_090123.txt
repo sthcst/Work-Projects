@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Stewart,ronald.stewart3937@work.org,(888) 947-2290,239-69-9751,07/20/1954,"6288 North Ave",Dallas,NJ

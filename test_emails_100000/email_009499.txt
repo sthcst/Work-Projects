@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Walker,jason.walker1813@company.com,+1 558-654-8805,877788845,09-08-1969,"8659 West Ln",Austin,CO

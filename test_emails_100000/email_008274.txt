@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Jackson
-  email: deborah.jackson8532@company.com
-  phone: 967 744 7100
-  ssn: 410-98-5721
-  dob: 5/21/2005
-  address: 1522 Fifth Ave
-  city: Chicago
-  state: TX

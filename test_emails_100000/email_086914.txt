@@ -1,9 +1,0 @@
-contact:
-  name: George Clark
-  email: george.clark7266@yahoo.com
-  phone: +1 999-770-2189
-  ssn: 662-71-9507
-  dob: 04/24/2005
-  address: 9179 First Ave
-  city: Los Angeles
-  state: MI

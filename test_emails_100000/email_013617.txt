@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa White,lisa.white2844@business.net,236-465-9749,144538347,15/10/1973,"8328 Elm Rd",Los Angeles,MO

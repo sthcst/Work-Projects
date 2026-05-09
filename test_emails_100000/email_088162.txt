@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Phillips,john.phillips9236@company.com,+1 743-277-4471,428-28-6801,05/02/1974,"1502 South Ln",Austin,CO

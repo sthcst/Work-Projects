@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Campbell
-  email: kenneth.campbell3801@outlook.com
-  phone: 583 856 2949
-  ssn: 044666047
-  dob: 03/09/1987
-  address: 8964 Fifth Ave
-  city: Houston
-  state: FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Lee,charles.lee5621@mail.com,(575) 605-2572,237955243,08-05-1994,"5540 Maple Ave",Seattle,CO

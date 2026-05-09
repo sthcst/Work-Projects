@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Clark,charles.clark2523@example.com,(898) 562-2872,196 31 2336,09/12/1986,"1954 Third St",Boston,AZ

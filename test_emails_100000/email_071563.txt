@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Ortiz
-  email: ronald.ortiz606@company.com
-  phone: +1 727-463-2160
-  ssn: 254-77-1964
-  dob: 10/3/1960
-  address: 3176 North Ln
-  city: San Diego
-  state: MI

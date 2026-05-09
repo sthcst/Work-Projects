@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Peterson,christopher.peterson9462@example.com,+1 569-728-8901,299 95 7103,7/20/1972,"4432 Pine Rd",Los Angeles,IL

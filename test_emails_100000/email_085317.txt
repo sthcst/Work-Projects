@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Jones,maria.jones5714@gmail.com,834 491 2767,911121590,12/15/1977,"8325 East St",Philadelphia,NJ

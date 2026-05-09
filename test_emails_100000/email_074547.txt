@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Collins,john.collins4874@example.com,510-469-8033,219-22-4877,03-07-1956,"7250 South St",Austin,MA

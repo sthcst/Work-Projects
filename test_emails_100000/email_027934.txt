@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Ortiz
-  email: andrew.ortiz3441@business.net
-  phone: 293-329-6149
-  ssn: 485484963
-  dob: 05-15-1958
-  address: 9941 Maple Ln
-  city: San Jose
-  state: WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Anderson,kimberly.anderson3501@company.com,372 225 1125,510506651,27/07/1952,"7400 West Way",Dallas,TX

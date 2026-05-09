@@ -1,9 +1,0 @@
-contact:
-  name: Maria Campbell
-  email: maria.campbell4248@example.com
-  phone: 712-273-7240
-  ssn: 044-43-4261
-  dob: 07-14-1961
-  address: 3441 North Dr
-  city: Los Angeles
-  state: NJ

@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Young
-  email: andrew.young87@company.com
-  phone: 517-347-6128
-  ssn: 727 21 9244
-  dob: 10/15/1976
-  address: 828 Fifth Court
-  city: Chicago
-  state: AZ

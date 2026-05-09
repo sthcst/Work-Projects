@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Clark,ronald.clark2098@example.com,(939) 422-2632,235-21-2455,05/03/1957,"4935 Spring St",Austin,AZ

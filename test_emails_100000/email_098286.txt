@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Peterson,emma.peterson7623@mail.com,683-990-4835,359-10-1000,7/21/1954,"5248 North Way",Washington,GA

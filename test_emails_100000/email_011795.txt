@@ -1,9 +1,0 @@
-contact:
-  name: Jane Rogers
-  email: jane.rogers352@mail.com
-  phone: 511 221 4445
-  ssn: 720-71-4522
-  dob: 1/14/1965
-  address: 1412 Spring Ave
-  city: Austin
-  state: MA

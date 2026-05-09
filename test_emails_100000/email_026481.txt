@@ -1,9 +1,0 @@
-contact:
-  name: David Morris
-  email: david.morris8545@business.net
-  phone: 488-345-9666
-  ssn: 025 39 8538
-  dob: 01/05/1950
-  address: 3333 Elm Dr
-  city: Seattle
-  state: AZ

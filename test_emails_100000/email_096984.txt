@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Serrano
-  email: joseph.serrano9962@business.net
-  phone: +1 623-283-8519
-  ssn: 323-90-4686
-  dob: 10-24-1956
-  address: 8519 North Blvd
-  city: Denver
-  state: IL

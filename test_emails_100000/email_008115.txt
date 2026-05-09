@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Edwards,timothy.edwards2461@outlook.com,537-521-8399,641-72-8233,04/19/1983,"7155 Elm Way",Los Angeles,MO

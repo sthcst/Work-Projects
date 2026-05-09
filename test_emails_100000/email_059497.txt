@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Ortiz,lisa.ortiz8830@gmail.com,(808) 640-9728,652 23 9967,05-17-2003,"6346 Oak Dr",Chicago,TX

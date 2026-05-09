@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Hall,lisa.hall6708@work.org,947 417 2342,525444657,12/5/1997,"3773 South Blvd",Seattle,WA

@@ -1,9 +1,0 @@
-contact:
-  name: John Harris
-  email: john.harris1028@work.org
-  phone: 410 646 5759
-  ssn: 825 75 7656
-  dob: 7/12/1992
-  address: 7383 Sixth Dr
-  city: Jacksonville
-  state: TN

@@ -1,9 +1,0 @@
-contact:
-  name: Megan Murillo
-  email: megan.murillo6356@work.org
-  phone: +1 942-867-1040
-  ssn: 605 51 1924
-  dob: 16/06/2001
-  address: 639 Fourth Dr
-  city: Chicago
-  state: AZ

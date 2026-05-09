@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Edwards,gary.edwards7049@mail.com,707 983 4260,955-16-5939,7/9/2002,"2856 West Ln",Los Angeles,IL

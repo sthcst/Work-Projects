@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Jimenez,amanda.jimenez4272@work.org,(486) 526-7169,797329733,06/04/2000,"7373 Sixth Dr",Chicago,CO

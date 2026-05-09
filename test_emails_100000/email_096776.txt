@@ -1,9 +1,0 @@
-contact:
-  name: Richard Johnson
-  email: richard.johnson989@gmail.com
-  phone: (275) 479-5685
-  ssn: 994536754
-  dob: 07-28-1992
-  address: 9781 Maple Court
-  city: Denver
-  state: MD

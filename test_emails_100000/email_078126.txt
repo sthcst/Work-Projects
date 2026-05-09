@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Parker,mark.parker7068@yahoo.com,696 927 2845,283764781,02-15-1979,"9760 Pine Ave",Chicago,MO

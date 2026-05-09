@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Cooper,steven.cooper6229@outlook.com,+1 684-285-2220,300 66 4614,01/18/1998,"7477 East Rd",Philadelphia,NY

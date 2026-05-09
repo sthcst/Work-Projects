@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Murillo
-  email: nicholas.murillo3688@gmail.com
-  phone: (288) 749-6894
-  ssn: 528048480
-  dob: 03/23/1982
-  address: 7185 North Way
-  city: Denver
-  state: IL

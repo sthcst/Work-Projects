@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Edwards,maria.edwards3560@gmail.com,(586) 958-1228,559127926,6/5/1998,"4000 Sixth Ln",Boston,OH

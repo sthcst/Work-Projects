@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Peterson,andrew.peterson7903@outlook.com,727 625 4903,513-21-7625,7/26/1951,"4073 Birch Court",Seattle,WI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Collins,rachel.collins7459@outlook.com,323-533-1184,649051994,3/15/1969,"2454 Oak Ln",San Jose,VA

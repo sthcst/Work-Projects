@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Nunez,angela.nunez8693@company.com,+1 380-371-1894,937 80 3349,3/12/1991,"6830 North Rd",San Jose,IL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Davis,michelle.davis4201@example.com,806 984 5600,015-38-3596,07/25/1972,"4351 Elm Rd",Jacksonville,CA

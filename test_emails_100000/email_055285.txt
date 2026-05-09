@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Robinson,jacob.robinson7095@outlook.com,(207) 384-2430,702 78 6278,04/15/1994,"4114 East Ave",New York,AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Clark,jason.clark3280@company.com,735 497 4475,538 67 2065,11-25-1978,"9525 Sixth Ln",Denver,NC

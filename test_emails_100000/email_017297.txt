@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Edwards,andrew.edwards997@business.net,799 607 3412,723802626,10-22-1975,"2892 South Ln",Philadelphia,MD

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Gonzalez,christine.gonzalez6200@business.net,358 868 3353,959173724,3/27/1991,"786 Main Ave",Austin,CO

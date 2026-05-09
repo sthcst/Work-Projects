@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Carter,deborah.carter3914@outlook.com,601-220-4025,239545739,2/25/1983,"6210 East Way",Austin,MD

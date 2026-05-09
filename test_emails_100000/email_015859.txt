@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Sanchez
-  email: joshua.sanchez2262@mail.com
-  phone: 817-727-9308
-  ssn: 487 59 1591
-  dob: 04-23-1982
-  address: 9544 Cedar Way
-  city: Boston
-  state: MA

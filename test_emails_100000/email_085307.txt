@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Jackson,kevin.jackson2605@company.com,450-649-1344,678012661,02-20-1954,"5698 First Rd",New York,PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Campbell,emma.campbell3852@mail.com,+1 446-323-6670,748567455,11/09/2004,"7199 South Ave",Philadelphia,MO

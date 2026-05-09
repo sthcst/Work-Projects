@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Gomez
-  email: ronald.gomez6301@mail.com
-  phone: 853-606-1431
-  ssn: 613 50 2652
-  dob: 11/7/1998
-  address: 3168 Third Way
-  city: Los Angeles
-  state: VA

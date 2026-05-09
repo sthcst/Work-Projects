@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Rogers,stephanie.rogers5940@company.com,362-391-1264,537715397,4/9/2000,"5607 Fourth Court",Jacksonville,WA

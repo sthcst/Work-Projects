@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Cooper,david.cooper7276@yahoo.com,920-289-7655,441 33 5863,4/28/1990,"4784 Sixth Blvd",San Antonio,OH

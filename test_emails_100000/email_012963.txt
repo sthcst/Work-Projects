@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Phillips
-  email: joseph.phillips3668@business.net
-  phone: +1 999-748-6831
-  ssn: 002911288
-  dob: 19/07/1997
-  address: 7429 Main St
-  city: San Diego
-  state: AZ

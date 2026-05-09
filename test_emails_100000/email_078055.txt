@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Carter
-  email: katherine.carter5390@company.com
-  phone: 586-543-6825
-  ssn: 293 76 9028
-  dob: 1/23/1996
-  address: 6545 Birch Court
-  city: San Jose
-  state: MA

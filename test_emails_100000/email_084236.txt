@@ -1,9 +1,0 @@
-contact:
-  name: James Jones
-  email: james.jones5362@work.org
-  phone: (479) 830-4563
-  ssn: 834-67-2089
-  dob: 24/02/1969
-  address: 3226 Birch Way
-  city: Denver
-  state: MA

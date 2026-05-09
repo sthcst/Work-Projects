@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Parker,mark.parker3304@yahoo.com,+1 943-478-7817,779876407,06/13/1954,"3637 Summer Way",Los Angeles,NJ

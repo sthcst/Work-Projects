@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Ortiz
-  email: andrew.ortiz454@company.com
-  phone: 659-644-5748
-  ssn: 987 25 8522
-  dob: 09-03-1987
-  address: 4165 Birch Blvd
-  city: Los Angeles
-  state: MI

@@ -1,9 +1,0 @@
-contact:
-  name: Angela Edwards
-  email: angela.edwards1040@yahoo.com
-  phone: 502 427 7065
-  ssn: 432628715
-  dob: 1/5/2001
-  address: 1871 Third Way
-  city: Washington
-  state: TN

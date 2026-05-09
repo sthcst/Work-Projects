@@ -1,9 +1,0 @@
-contact:
-  name: Angela Wilson
-  email: angela.wilson8992@yahoo.com
-  phone: 982-536-5772
-  ssn: 994208757
-  dob: 5/13/1993
-  address: 214 Third Dr
-  city: Denver
-  state: MD

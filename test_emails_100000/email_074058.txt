@@ -1,9 +1,0 @@
-contact:
-  name: Megan Taylor
-  email: megan.taylor7240@outlook.com
-  phone: (939) 386-4449
-  ssn: 245 04 3361
-  dob: 02-15-1995
-  address: 5101 West Court
-  city: Los Angeles
-  state: TN

@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Lee
-  email: rebecca.lee2245@yahoo.com
-  phone: +1 796-877-5462
-  ssn: 025-26-3618
-  dob: 04-14-1950
-  address: 7059 Cedar Blvd
-  city: Los Angeles
-  state: NC

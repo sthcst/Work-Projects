@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Bell,kenneth.bell1692@mail.com,812-771-4975,768 06 9474,04/04/1977,"9164 Fifth St",Denver,PA

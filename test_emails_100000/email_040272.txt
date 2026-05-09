@@ -1,9 +1,0 @@
-contact:
-  name: William Jones
-  email: william.jones3599@business.net
-  phone: 639-385-1168
-  ssn: 468-88-9372
-  dob: 11/20/1951
-  address: 2617 Maple Ln
-  city: Philadelphia
-  state: TX

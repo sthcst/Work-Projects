@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Ortiz,christopher.ortiz6240@company.com,430 368 6033,925-53-5737,15/02/1970,"3768 Park Way",San Jose,TX

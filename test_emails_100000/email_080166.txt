@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Brown,michelle.brown7305@yahoo.com,(219) 478-9559,381 64 7996,02-17-1988,"3485 Elm Ln",Chicago,TX

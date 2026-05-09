@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Delgado,emily.delgado4117@yahoo.com,274-876-7688,105 94 1156,12-08-2003,"8527 First Blvd",Chicago,DC

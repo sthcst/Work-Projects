@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Murillo
-  email: ronald.murillo1053@company.com
-  phone: 655 404 8894
-  ssn: 911651354
-  dob: 10-25-2004
-  address: 640 North Ave
-  city: San Jose
-  state: MA

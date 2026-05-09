@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Thompson,michael.thompson1559@yahoo.com,215-205-4977,162-85-5919,25/06/1952,"2474 Birch Way",Austin,AZ

@@ -1,9 +1,0 @@
-contact:
-  name: David Edwards
-  email: david.edwards2009@company.com
-  phone: 424 341 4166
-  ssn: 555-10-2051
-  dob: 12-26-1984
-  address: 429 Maple Ave
-  city: Jacksonville
-  state: MO

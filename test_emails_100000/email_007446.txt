@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Phillips,michelle.phillips3437@mail.com,750-679-6620,362-02-5657,09-03-2000,"492 Sixth Rd",Washington,TX

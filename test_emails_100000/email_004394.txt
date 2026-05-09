@@ -1,9 +1,0 @@
-contact:
-  name: Angela Nelson
-  email: angela.nelson9951@mail.com
-  phone: (669) 848-4623
-  ssn: 138 27 8505
-  dob: 7/22/1994
-  address: 2713 East Way
-  city: Philadelphia
-  state: TX

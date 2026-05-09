@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Stewart
-  email: samantha.stewart5218@business.net
-  phone: 906-499-6301
-  ssn: 251 48 5869
-  dob: 1/17/1985
-  address: 8648 East St
-  city: Washington
-  state: FL

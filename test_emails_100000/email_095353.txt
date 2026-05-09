@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Thompson,edward.thompson7659@example.com,340-432-1296,863-69-8720,10/22/1981,"3216 Second Way",Chicago,TX

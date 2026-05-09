@@ -1,0 +1,19 @@
+================================================================================
+100000-EMAIL CORPUS COVERAGE REPORT
+================================================================================
+
+Emails processed: 100,000
+Processing time: 833.8 seconds
+Throughput: 120 emails/sec
+Total PII found: 760,882
+Total deleted: 760,882
+Total remaining: 0
+Overall coverage: 100.0%
+
+COVERAGE BY LABEL:
+--------------------------------------------------------------------------------
+EMAIL    — Total:  100000, Deleted:  100000, Remaining:       0 (100.0%)
+PHONE    — Total:  193247, Deleted:  193247, Remaining:       0 (100.0%)
+SSN      — Total:  100000, Deleted:  100000, Remaining:       0 (100.0%)
+DOB      — Total:   77237, Deleted:   77237, Remaining:       0 (100.0%)
+PERSON   — Total:  290398, Deleted:  290398, Remaining:       0 (100.0%)

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Young,james.young5098@work.org,(814) 971-3929,639 61 4012,09-24-1984,"8375 North Ave",Dallas,IL

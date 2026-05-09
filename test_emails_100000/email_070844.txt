@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Parker,robert.parker8714@work.org,(780) 809-4974,799 75 9465,10-23-2003,"6724 Spring Court",Philadelphia,FL

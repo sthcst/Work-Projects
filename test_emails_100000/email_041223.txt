@@ -1,9 +1,0 @@
-contact:
-  name: Edward Robinson
-  email: edward.robinson3101@company.com
-  phone: (607) 519-4387
-  ssn: 062802153
-  dob: 8/19/1996
-  address: 5518 North Rd
-  city: San Jose
-  state: MA

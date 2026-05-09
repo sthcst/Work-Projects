@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Davis,donald.davis8030@company.com,+1 255-268-1411,913 27 5227,6/12/1952,"5823 Cedar Ave",Austin,MD

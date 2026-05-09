@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Moore,william.moore4338@company.com,319-867-9102,087 86 6519,09-01-1966,"1862 Main Way",San Antonio,AZ

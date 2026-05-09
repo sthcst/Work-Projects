@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Wilson,maria.wilson3576@business.net,442-343-7614,581 55 3066,06/28/1978,"7718 Third Rd",Seattle,MD

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Jones,donald.jones9153@outlook.com,+1 994-747-9767,947-31-7337,24/04/1989,"7230 Oak Ave",Dallas,CA

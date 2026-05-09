@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Peterson
-  email: christopher.peterson5299@gmail.com
-  phone: 600-840-5357
-  ssn: 578 78 8645
-  dob: 07/15/1999
-  address: 6421 Birch Dr
-  city: Denver
-  state: TX

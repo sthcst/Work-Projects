@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Phillips,christopher.phillips5026@work.org,785 707 2094,228478403,02/28/1978,"9458 Sixth St",Jacksonville,WA

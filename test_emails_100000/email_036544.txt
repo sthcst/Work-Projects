@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Gomez
-  email: joseph.gomez2235@company.com
-  phone: 342 587 9278
-  ssn: 587-44-8000
-  dob: 6/12/1953
-  address: 2622 South Rd
-  city: Los Angeles
-  state: OH

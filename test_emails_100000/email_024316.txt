@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Stewart
-  email: lauren.stewart2700@company.com
-  phone: 572-735-2294
-  ssn: 379-28-2361
-  dob: 05/25/1999
-  address: 4215 Summer Dr
-  city: San Diego
-  state: CA

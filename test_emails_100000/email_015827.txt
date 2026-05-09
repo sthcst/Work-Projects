@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Rogers
-  email: nicole.rogers9479@gmail.com
-  phone: +1 784-296-8715
-  ssn: 518206813
-  dob: 12/26/1958
-  address: 3382 Second Ln
-  city: Austin
-  state: FL

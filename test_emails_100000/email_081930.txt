@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Dominguez
-  email: jeffrey.dominguez5473@yahoo.com
-  phone: +1 827-756-2795
-  ssn: 868 99 3598
-  dob: 12/27/1990
-  address: 2707 South Ave
-  city: Philadelphia
-  state: IL

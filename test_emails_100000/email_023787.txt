@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Collins,timothy.collins21@mail.com,212 410 4900,328-07-1835,12/16/1959,"8395 Main Court",Boston,WI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Rogers,richard.rogers1944@work.org,647 681 8717,836-94-8800,3/17/2005,"817 First Dr",Dallas,NJ

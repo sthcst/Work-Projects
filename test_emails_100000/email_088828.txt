@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Gomez,joshua.gomez6667@outlook.com,+1 757-607-9060,321 01 5634,28/05/1992,"4531 Fifth Court",Austin,AZ

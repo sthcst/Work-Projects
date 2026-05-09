@@ -1,9 +1,0 @@
-contact:
-  name: Donald Johnson
-  email: donald.johnson2663@gmail.com
-  phone: +1 327-956-7624
-  ssn: 241 50 5177
-  dob: 02/06/1996
-  address: 7120 Park Court
-  city: Chicago
-  state: IL

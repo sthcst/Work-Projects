@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Davis,ronald.davis9918@company.com,+1 395-978-5546,676253233,07/27/1969,"741 Park Rd",Denver,MA

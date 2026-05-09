@@ -1,9 +1,0 @@
-contact:
-  name: Paul Reed
-  email: paul.reed6426@company.com
-  phone: (268) 527-7372
-  ssn: 945897261
-  dob: 01/01/1997
-  address: 6846 Pine Rd
-  city: Washington
-  state: CA

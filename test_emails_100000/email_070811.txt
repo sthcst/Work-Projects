@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Phillips,helen.phillips3389@outlook.com,628 400 3924,214-64-6910,07-19-1983,"4476 Main Ln",New York,MA

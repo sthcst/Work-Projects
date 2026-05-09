@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Davis
-  email: daniel.davis6274@work.org
-  phone: +1 500-235-1458
-  ssn: 255 52 3877
-  dob: 03-20-1958
-  address: 5733 Birch Ln
-  city: Los Angeles
-  state: WA

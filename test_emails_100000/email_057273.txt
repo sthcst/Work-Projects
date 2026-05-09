@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Brown,christopher.brown5497@example.com,606 360 9957,421306904,02/16/1998,"6555 East Blvd",Phoenix,OH

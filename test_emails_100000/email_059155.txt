@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Rodriguez,charles.rodriguez4183@business.net,344 462 6346,622 71 4244,5/26/2001,"7229 Fourth Court",Dallas,PA

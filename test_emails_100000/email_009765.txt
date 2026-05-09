@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Sanchez,steven.sanchez6503@company.com,899-448-6413,186-47-1896,03/01/1979,"15 Elm Ln",Chicago,TX

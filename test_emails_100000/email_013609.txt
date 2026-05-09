@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Hernandez,david.hernandez120@business.net,+1 439-269-9439,883221542,20/08/1955,"2894 Pine Rd",Houston,CA

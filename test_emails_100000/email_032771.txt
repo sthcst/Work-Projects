@@ -1,9 +1,0 @@
-contact:
-  name: Gary Delgado
-  email: gary.delgado7975@example.com
-  phone: (986) 514-8809
-  ssn: 782 53 3674
-  dob: 01-19-1963
-  address: 4805 Main Dr
-  city: Jacksonville
-  state: TX

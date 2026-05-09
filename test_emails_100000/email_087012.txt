@@ -1,9 +1,0 @@
-contact:
-  name: Christine Nunez
-  email: christine.nunez4895@company.com
-  phone: 215 904 6071
-  ssn: 766 88 4329
-  dob: 8/5/1993
-  address: 7619 Sixth Ave
-  city: Jacksonville
-  state: FL

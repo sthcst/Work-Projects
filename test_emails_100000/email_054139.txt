@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Martin,brenda.martin8139@company.com,348 593 2467,563-66-1214,27/12/1991,"349 Fifth Ln",Seattle,CA

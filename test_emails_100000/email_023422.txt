@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Jimenez,paul.jimenez8880@business.net,(948) 332-1846,897 61 6436,07-13-1969,"1283 West St",San Antonio,OH

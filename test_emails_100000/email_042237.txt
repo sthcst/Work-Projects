@@ -1,9 +1,0 @@
-contact:
-  name: Paul Wilson
-  email: paul.wilson8042@gmail.com
-  phone: (913) 622-9550
-  ssn: 989-55-1842
-  dob: 4/10/1976
-  address: 7659 Pine St
-  city: Dallas
-  state: NC

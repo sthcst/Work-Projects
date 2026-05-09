@@ -1,9 +1,0 @@
-contact:
-  name: Emily Sanchez
-  email: emily.sanchez3471@business.net
-  phone: 490 599 3493
-  ssn: 720-63-2791
-  dob: 03-01-1963
-  address: 2683 Park Court
-  city: Chicago
-  state: WA

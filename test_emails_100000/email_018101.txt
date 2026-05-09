@@ -1,9 +1,0 @@
-contact:
-  name: Edward Martin
-  email: edward.martin7449@mail.com
-  phone: +1 801-868-8148
-  ssn: 580-10-4681
-  dob: 09/28/1979
-  address: 7788 Summer Way
-  city: Los Angeles
-  state: MA

@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Serrano
-  email: jacob.serrano3092@business.net
-  phone: 525-330-8582
-  ssn: 267 88 6629
-  dob: 10/06/1997
-  address: 9836 Elm St
-  city: Denver
-  state: PA

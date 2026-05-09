@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Johnson
-  email: kevin.johnson6443@work.org
-  phone: 356-729-2495
-  ssn: 720-51-5112
-  dob: 02-06-1992
-  address: 5133 West Ave
-  city: Denver
-  state: TX

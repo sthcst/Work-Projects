@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Gomez,david.gomez6587@business.net,846 454 4161,241482801,08/21/1980,"3394 First Ln",Dallas,FL

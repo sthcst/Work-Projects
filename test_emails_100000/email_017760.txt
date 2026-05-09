@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Nelson
-  email: matthew.nelson8991@example.com
-  phone: 730-705-7696
-  ssn: 795-84-3485
-  dob: 06/03/1966
-  address: 5818 First Court
-  city: Phoenix
-  state: MI

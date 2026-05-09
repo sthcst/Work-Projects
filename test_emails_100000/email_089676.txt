@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Taylor,angela.taylor241@business.net,(624) 270-7226,795102331,07/09/1981,"4283 Sixth Dr",Washington,TX

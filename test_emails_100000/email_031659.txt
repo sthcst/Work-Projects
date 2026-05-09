@@ -1,9 +1,0 @@
-contact:
-  name: John Perez
-  email: john.perez5785@gmail.com
-  phone: 941 845 6498
-  ssn: 510973998
-  dob: 07-27-1987
-  address: 5988 Birch Way
-  city: Phoenix
-  state: CA

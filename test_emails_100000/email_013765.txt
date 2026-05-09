@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Nunez
-  email: rebecca.nunez8580@company.com
-  phone: +1 236-531-4984
-  ssn: 678 34 5735
-  dob: 06-04-1964
-  address: 2020 South Ave
-  city: San Jose
-  state: PA

@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Ortiz
-  email: nicole.ortiz9480@example.com
-  phone: +1 491-537-8661
-  ssn: 033 06 4252
-  dob: 07-12-2001
-  address: 5573 Park Ln
-  city: San Antonio
-  state: CA

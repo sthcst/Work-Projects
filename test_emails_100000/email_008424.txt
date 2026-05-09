@@ -1,9 +1,0 @@
-contact:
-  name: Donald Martinez
-  email: donald.martinez794@mail.com
-  phone: 985-945-5067
-  ssn: 874 14 3881
-  dob: 02/01/1963
-  address: 3056 West St
-  city: Houston
-  state: CA

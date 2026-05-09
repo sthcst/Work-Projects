@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Edwards,emma.edwards8109@example.com,(534) 544-5812,149072694,12/25/1996,"8217 Cedar St",Boston,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Murillo,ryan.murillo2914@company.com,(542) 391-6675,476 85 9575,11/9/1960,"6640 Fifth Way",Chicago,NY

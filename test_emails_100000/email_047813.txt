@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Brown,william.brown7434@outlook.com,308-803-2899,137 88 5360,6/5/1952,"462 Spring Ave",Dallas,CA

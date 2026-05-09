@@ -1,9 +1,0 @@
-contact:
-  name: Edward Taylor
-  email: edward.taylor4821@work.org
-  phone: +1 436-462-6021
-  ssn: 181 44 5367
-  dob: 07/16/1968
-  address: 9362 First St
-  city: Boston
-  state: NY

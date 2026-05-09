@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Ramirez,kenneth.ramirez6424@yahoo.com,310 695 5197,233-95-4768,6/16/2003,"2551 Elm St",Los Angeles,CA

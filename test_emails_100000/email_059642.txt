@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Miller,christine.miller4087@yahoo.com,+1 257-842-7424,211726903,12/4/2003,"1508 Elm Court",San Diego,TX

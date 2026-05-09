@@ -1,9 +1,0 @@
-contact:
-  name: Steven Collins
-  email: steven.collins5432@outlook.com
-  phone: 249 497 9432
-  ssn: 318-51-6483
-  dob: 10-16-1977
-  address: 6378 Main Dr
-  city: Dallas
-  state: MA

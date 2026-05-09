@@ -1,9 +1,0 @@
-contact:
-  name: Charles Thompson
-  email: charles.thompson513@company.com
-  phone: 697-396-2617
-  ssn: 033747366
-  dob: 08-17-1989
-  address: 814 South Ln
-  city: Chicago
-  state: NY

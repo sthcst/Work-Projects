@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Guerrero
-  email: kathleen.guerrero4778@company.com
-  phone: +1 647-956-7399
-  ssn: 150595670
-  dob: 11/14/1981
-  address: 2692 Fifth Dr
-  city: Boston
-  state: MA

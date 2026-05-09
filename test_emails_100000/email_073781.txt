@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Wilson,jacob.wilson1337@example.com,+1 995-285-1464,754 52 1698,25/01/1954,"242 North Court",Boston,CA

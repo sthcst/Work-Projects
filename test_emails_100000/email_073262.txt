@@ -1,9 +1,0 @@
-contact:
-  name: Paul Moore
-  email: paul.moore86@company.com
-  phone: 538-361-9117
-  ssn: 567-17-3840
-  dob: 10/01/1967
-  address: 9413 Second St
-  city: Phoenix
-  state: MO

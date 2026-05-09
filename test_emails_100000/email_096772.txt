@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Harris
-  email: jennifer.harris1796@example.com
-  phone: 587 787 9935
-  ssn: 868353707
-  dob: 18/04/1964
-  address: 9404 West Blvd
-  city: Chicago
-  state: PA

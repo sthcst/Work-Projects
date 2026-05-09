@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Martin,pamela.martin2403@business.net,+1 881-969-3713,639345865,04/25/1977,"7735 Cedar Blvd",Boston,TN

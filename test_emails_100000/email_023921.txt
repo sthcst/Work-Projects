@@ -1,9 +1,0 @@
-contact:
-  name: Edward Gonzalez
-  email: edward.gonzalez9435@mail.com
-  phone: 662 257 7555
-  ssn: 343-86-3399
-  dob: 03-11-1952
-  address: 1263 Park Ln
-  city: Denver
-  state: MA

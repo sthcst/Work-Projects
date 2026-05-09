@@ -1,9 +1,0 @@
-contact:
-  name: Megan Guerrero
-  email: megan.guerrero5667@company.com
-  phone: 278 859 2306
-  ssn: 937-74-1298
-  dob: 02-27-1996
-  address: 7715 Elm Court
-  city: Denver
-  state: TX

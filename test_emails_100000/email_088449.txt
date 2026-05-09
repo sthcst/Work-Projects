@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Dominguez
-  email: jacob.dominguez7325@outlook.com
-  phone: (712) 465-8029
-  ssn: 742074726
-  dob: 05/06/1960
-  address: 6696 Spring Rd
-  city: Jacksonville
-  state: FL

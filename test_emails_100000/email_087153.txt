@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Wilson,andrew.wilson3402@work.org,(791) 840-6447,141-55-5170,01-22-1962,"4782 Third St",Dallas,NC

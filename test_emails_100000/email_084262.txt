@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Evans
-  email: katherine.evans3972@example.com
-  phone: 273-706-4131
-  ssn: 223-96-4833
-  dob: 03/02/1990
-  address: 6477 Fifth Ln
-  city: Dallas
-  state: FL

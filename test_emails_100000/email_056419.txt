@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Campbell
-  email: joseph.campbell1320@work.org
-  phone: 550-522-9643
-  ssn: 472905524
-  dob: 01-26-1978
-  address: 9159 West Ave
-  city: Los Angeles
-  state: WI

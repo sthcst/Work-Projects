@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Phillips
-  email: kenneth.phillips375@company.com
-  phone: 474-727-3875
-  ssn: 188162213
-  dob: 12-09-2001
-  address: 8100 Cedar St
-  city: Jacksonville
-  state: FL

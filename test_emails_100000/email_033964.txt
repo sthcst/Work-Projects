@@ -1,9 +1,0 @@
-contact:
-  name: Charles Thomas
-  email: charles.thomas1241@business.net
-  phone: (511) 962-2597
-  ssn: 436659579
-  dob: 9/13/1956
-  address: 7598 Spring Dr
-  city: Washington
-  state: GA

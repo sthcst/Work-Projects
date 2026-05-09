@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Garcia,jessica.garcia4550@work.org,+1 722-631-5229,987534898,25/11/1952,"3733 Pine Way",New York,NY

@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Bell
-  email: amanda.bell5869@gmail.com
-  phone: 782-330-3426
-  ssn: 846 95 9952
-  dob: 5/18/1972
-  address: 3167 Park Dr
-  city: San Jose
-  state: MA

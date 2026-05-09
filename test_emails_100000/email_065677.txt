@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Dominguez
-  email: rebecca.dominguez9251@outlook.com
-  phone: 319 209 6811
-  ssn: 047557974
-  dob: 11/7/1975
-  address: 3455 Oak Court
-  city: Philadelphia
-  state: CA

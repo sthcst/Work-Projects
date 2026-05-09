@@ -1,9 +1,0 @@
-contact:
-  name: Emily Evans
-  email: emily.evans1706@yahoo.com
-  phone: 489-692-5070
-  ssn: 409026685
-  dob: 20/04/1979
-  address: 3414 Elm Ave
-  city: Denver
-  state: FL

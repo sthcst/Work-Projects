@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Edwards,richard.edwards3378@mail.com,775-652-7703,741 75 5087,8/11/1994,"4988 West Court",New York,WA

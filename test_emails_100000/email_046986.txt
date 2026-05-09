@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Peterson
-  email: nicholas.peterson8666@mail.com
-  phone: (453) 652-9793
-  ssn: 909 12 8259
-  dob: 10-26-1994
-  address: 5927 North Ln
-  city: Dallas
-  state: WI

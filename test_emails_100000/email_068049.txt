@@ -1,9 +1,0 @@
-contact:
-  name: Gary Garcia
-  email: gary.garcia6660@outlook.com
-  phone: +1 627-764-1096
-  ssn: 506-69-9774
-  dob: 09-05-1980
-  address: 1726 South Rd
-  city: Jacksonville
-  state: AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Martinez,deborah.martinez2065@work.org,(981) 935-5452,684 67 5137,11/24/1982,"5045 First Ave",Dallas,CA

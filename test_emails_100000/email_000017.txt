@@ -1,9 +1,0 @@
-contact:
-  name: Emma Anderson
-  email: emma.anderson6312@company.com
-  phone: 245 925 8144
-  ssn: 002679821
-  dob: 12/24/1997
-  address: 5977 West Ave
-  city: Austin
-  state: OH

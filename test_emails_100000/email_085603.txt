@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Walker,ashley.walker6734@outlook.com,219 693 6522,380-84-7611,07/10/1957,"269 First Way",Jacksonville,NJ

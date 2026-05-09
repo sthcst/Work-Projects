@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Gomez,mark.gomez4341@mail.com,+1 695-271-8919,881 48 2156,4/10/1978,"3656 Summer Dr",Seattle,CO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Phillips,angela.phillips6898@gmail.com,(487) 226-8771,048-21-9373,07-09-1964,"3929 Maple Rd",Denver,NY

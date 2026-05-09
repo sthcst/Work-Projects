@@ -1,9 +1,0 @@
-contact:
-  name: Edward Morgan
-  email: edward.morgan2458@work.org
-  phone: +1 614-320-2688
-  ssn: 032596660
-  dob: 11/5/1954
-  address: 376 Fifth Way
-  city: Austin
-  state: CO

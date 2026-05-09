@@ -1,9 +1,0 @@
-contact:
-  name: Angela Lopez
-  email: angela.lopez7870@outlook.com
-  phone: 875 348 7868
-  ssn: 222-31-8058
-  dob: 5/22/1989
-  address: 1877 Sixth Rd
-  city: Chicago
-  state: CA

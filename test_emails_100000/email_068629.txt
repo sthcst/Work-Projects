@@ -1,9 +1,0 @@
-contact:
-  name: Paul Thomas
-  email: paul.thomas9457@business.net
-  phone: 832 694 7796
-  ssn: 960-04-7464
-  dob: 04-14-1969
-  address: 3319 Main St
-  city: San Antonio
-  state: TN

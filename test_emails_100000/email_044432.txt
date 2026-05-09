@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Nunez,jessica.nunez259@business.net,355-623-4802,360-04-1707,7/27/1969,"3174 Spring Rd",Denver,MA

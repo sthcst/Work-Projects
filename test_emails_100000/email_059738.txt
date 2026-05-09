@@ -1,9 +1,0 @@
-contact:
-  name: William Johnson
-  email: william.johnson3071@outlook.com
-  phone: (902) 902-2334
-  ssn: 252 72 1219
-  dob: 02/13/1999
-  address: 4471 Park Blvd
-  city: Philadelphia
-  state: TX

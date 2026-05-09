@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Morgan
-  email: katherine.morgan5879@business.net
-  phone: 222-606-5488
-  ssn: 575 74 3011
-  dob: 12/06/1981
-  address: 1311 Second Ln
-  city: Los Angeles
-  state: TN

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Hall,timothy.hall8539@company.com,446-206-7690,398 83 1092,06/22/2005,"5236 Spring Court",New York,NC

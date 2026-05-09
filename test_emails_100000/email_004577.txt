@@ -1,9 +1,0 @@
-contact:
-  name: Jason Evans
-  email: jason.evans1869@business.net
-  phone: 416-565-1448
-  ssn: 059667571
-  dob: 10/08/1969
-  address: 2239 South Way
-  city: Austin
-  state: TX

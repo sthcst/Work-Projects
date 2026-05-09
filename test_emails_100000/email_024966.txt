@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Anderson,emma.anderson1855@gmail.com,+1 936-435-7623,719 39 6400,6/20/1974,"4014 Sixth Court",San Diego,TX

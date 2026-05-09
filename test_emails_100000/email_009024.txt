@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Guerrero,katherine.guerrero2799@business.net,519 455 5477,101725096,08/05/1975,"4381 Fourth Court",Denver,MA

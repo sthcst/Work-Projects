@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Bell,anna.bell2758@gmail.com,+1 496-866-7104,831-93-5259,5/18/1998,"9484 Spring Blvd",Phoenix,NC

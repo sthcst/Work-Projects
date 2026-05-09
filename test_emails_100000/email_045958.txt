@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Evans,megan.evans4515@outlook.com,666-293-2689,490 24 7967,04/04/1972,"9542 Park Blvd",Denver,FL

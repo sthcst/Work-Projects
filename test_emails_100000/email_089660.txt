@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Martinez
-  email: samantha.martinez4858@outlook.com
-  phone: 974 894 4002
-  ssn: 146-59-4976
-  dob: 19/11/1980
-  address: 3016 Summer Blvd
-  city: San Antonio
-  state: TX

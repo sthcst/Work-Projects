@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Bell,angela.bell2037@outlook.com,(788) 591-6511,270-47-7913,07/13/1984,"1887 North Rd",Philadelphia,WI

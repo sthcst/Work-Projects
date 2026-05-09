@@ -1,9 +1,0 @@
-contact:
-  name: Anna Smith
-  email: anna.smith8625@business.net
-  phone: 665-348-4475
-  ssn: 385712662
-  dob: 09-01-1996
-  address: 9131 Summer Ln
-  city: Phoenix
-  state: TX

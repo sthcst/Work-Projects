@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Cooper
-  email: lauren.cooper9934@example.com
-  phone: +1 697-241-9940
-  ssn: 457048474
-  dob: 12/28/1972
-  address: 7658 Fourth Court
-  city: Seattle
-  state: NJ

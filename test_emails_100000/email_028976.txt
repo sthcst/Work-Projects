@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Young,katherine.young6617@outlook.com,(613) 517-8235,634784225,4/2/1969,"5331 Fifth Dr",San Jose,CA

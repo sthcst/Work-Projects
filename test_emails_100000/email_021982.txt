@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Flores,kathleen.flores9418@business.net,726 261 7742,474 72 2875,07/25/2002,"4858 Spring Dr",Dallas,NC

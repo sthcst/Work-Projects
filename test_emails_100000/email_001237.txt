@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Romero
-  email: brenda.romero5007@gmail.com
-  phone: (411) 201-5165
-  ssn: 383-36-5140
-  dob: 13/01/1956
-  address: 6415 Spring Court
-  city: New York
-  state: NY

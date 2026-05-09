@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Harris
-  email: daniel.harris6194@mail.com
-  phone: +1 972-804-4876
-  ssn: 927742206
-  dob: 11-23-1956
-  address: 1679 East Dr
-  city: Chicago
-  state: MA

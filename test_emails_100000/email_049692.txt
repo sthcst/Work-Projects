@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Anderson
-  email: ryan.anderson8831@work.org
-  phone: (423) 277-7600
-  ssn: 503 38 8846
-  dob: 5/21/1983
-  address: 3243 First Ln
-  city: Dallas
-  state: TX

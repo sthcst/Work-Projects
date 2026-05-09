@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Ramirez
-  email: samantha.ramirez2507@yahoo.com
-  phone: +1 376-601-6477
-  ssn: 472 15 1334
-  dob: 09/06/1984
-  address: 6202 Maple Ave
-  city: Chicago
-  state: IL

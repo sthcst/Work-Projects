@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Evans
-  email: rachel.evans5748@gmail.com
-  phone: (780) 714-2931
-  ssn: 079-48-4234
-  dob: 17/10/1971
-  address: 1363 Third Ave
-  city: Chicago
-  state: WA

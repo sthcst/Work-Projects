@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Williams
-  email: sarah.williams2487@gmail.com
-  phone: (584) 561-5653
-  ssn: 577 14 1016
-  dob: 3/10/1953
-  address: 2974 Spring Way
-  city: Austin
-  state: MO

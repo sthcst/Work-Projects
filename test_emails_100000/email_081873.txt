@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Taylor,robert.taylor5044@gmail.com,715 446 7776,892-63-2757,19/12/1955,"1447 East Dr",Chicago,MO

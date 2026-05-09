@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Hernandez,edward.hernandez3359@outlook.com,546 221 8221,621126837,16/11/1995,"9262 East Court",Austin,CA

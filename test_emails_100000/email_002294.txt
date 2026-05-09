@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Walker
-  email: nicole.walker1806@example.com
-  phone: (754) 677-1925
-  ssn: 385 15 2053
-  dob: 05/05/2004
-  address: 1851 Third Blvd
-  city: Dallas
-  state: OH

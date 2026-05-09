@@ -1,9 +1,0 @@
-contact:
-  name: George Johnson
-  email: george.johnson9314@business.net
-  phone: 457 892 3586
-  ssn: 636075478
-  dob: 06-17-1998
-  address: 5106 Park St
-  city: San Diego
-  state: TX

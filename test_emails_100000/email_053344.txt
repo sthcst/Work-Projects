@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Martinez,jason.martinez4124@yahoo.com,(531) 682-2394,368111479,10/18/1968,"1206 Maple Court",Denver,IL

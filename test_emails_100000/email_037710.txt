@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Morris,william.morris4282@work.org,742 599 3012,776 32 6671,27/10/1959,"6106 Birch Way",Seattle,NY

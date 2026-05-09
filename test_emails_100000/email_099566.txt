@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Dominguez
-  email: pamela.dominguez1879@mail.com
-  phone: +1 442-802-3375
-  ssn: 287-39-2595
-  dob: 22/03/1987
-  address: 6567 Oak Way
-  city: San Antonio
-  state: CO

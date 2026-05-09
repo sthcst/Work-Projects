@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Clark,anthony.clark6460@gmail.com,517 652 2535,512-43-7026,11/03/1980,"3790 Cedar Ln",New York,TX

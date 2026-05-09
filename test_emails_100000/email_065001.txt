@@ -1,9 +1,0 @@
-contact:
-  name: William Reyes
-  email: william.reyes1622@gmail.com
-  phone: 481-283-9093
-  ssn: 302-42-8132
-  dob: 12/17/2000
-  address: 8504 First Rd
-  city: Denver
-  state: WI

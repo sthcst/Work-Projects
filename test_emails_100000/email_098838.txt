@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Jackson,mark.jackson7274@gmail.com,+1 249-623-4668,634147042,11/02/1985,"2353 Third St",San Jose,TX

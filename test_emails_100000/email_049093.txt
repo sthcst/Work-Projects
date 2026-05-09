@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Dominguez,helen.dominguez7489@example.com,637-347-4210,041329869,08/07/1973,"4564 West Ln",New York,IL

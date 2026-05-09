@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Roberts
-  email: joshua.roberts550@yahoo.com
-  phone: 993-333-5414
-  ssn: 879 55 7413
-  dob: 23/08/2004
-  address: 7154 East Way
-  city: Seattle
-  state: FL

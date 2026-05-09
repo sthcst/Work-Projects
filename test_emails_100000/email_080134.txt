@@ -1,9 +1,0 @@
-contact:
-  name: William Thompson
-  email: william.thompson3249@company.com
-  phone: (642) 385-4870
-  ssn: 150-49-4891
-  dob: 04-18-1975
-  address: 5554 Main Ave
-  city: Austin
-  state: MO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Reeves,angela.reeves7602@gmail.com,+1 603-457-1780,814-73-4792,02/09/1954,"7467 East Ave",Washington,NJ

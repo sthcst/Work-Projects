@@ -1,9 +1,0 @@
-contact:
-  name: Donald Williams
-  email: donald.williams8989@company.com
-  phone: 859-673-1737
-  ssn: 249172607
-  dob: 08/01/1957
-  address: 6398 Spring Ave
-  city: Philadelphia
-  state: MD

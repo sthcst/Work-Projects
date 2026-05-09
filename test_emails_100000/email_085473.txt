@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Roberts,steven.roberts927@company.com,256 353 6621,510717635,01/05/2003,"7947 Third Dr",Phoenix,MO

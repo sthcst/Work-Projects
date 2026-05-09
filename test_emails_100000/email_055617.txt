@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Evans,james.evans828@example.com,(664) 596-7906,588526769,3/26/1964,"3650 West St",Dallas,CA

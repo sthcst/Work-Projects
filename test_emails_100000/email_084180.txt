@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Miller,cynthia.miller291@example.com,277-778-6152,361215796,12-04-1977,"4212 Fifth Ln",Seattle,DC

@@ -1,9 +1,0 @@
-contact:
-  name: Christine Ortiz
-  email: christine.ortiz2756@outlook.com
-  phone: (714) 442-7275
-  ssn: 258-98-6379
-  dob: 1/7/1960
-  address: 1822 Fourth Ln
-  city: Phoenix
-  state: MO

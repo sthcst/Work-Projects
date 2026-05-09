@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Moore,cynthia.moore7202@yahoo.com,(828) 200-9810,910114183,25/05/1968,"8922 Fifth St",Boston,WA

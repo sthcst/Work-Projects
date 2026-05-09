@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Hall,lauren.hall7413@yahoo.com,+1 881-608-6477,776458770,9/15/2003,"2798 Park Way",Chicago,NY

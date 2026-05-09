@@ -1,9 +1,0 @@
-contact:
-  name: Charles Reeves
-  email: charles.reeves8247@company.com
-  phone: (606) 334-6221
-  ssn: 618609105
-  dob: 10/8/1952
-  address: 6038 Third Dr
-  city: Boston
-  state: NC

@@ -1,9 +1,0 @@
-contact:
-  name: Christine Hall
-  email: christine.hall2517@mail.com
-  phone: +1 788-719-8572
-  ssn: 384 81 1554
-  dob: 21/11/2000
-  address: 9104 North Way
-  city: Denver
-  state: WI

@@ -1,9 +1,0 @@
-contact:
-  name: Robert Hall
-  email: robert.hall4308@business.net
-  phone: 587-811-7950
-  ssn: 153 35 9230
-  dob: 09-18-1970
-  address: 6990 First Dr
-  city: Austin
-  state: CO

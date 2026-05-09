@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Edwards,angela.edwards8665@business.net,394 980 3692,669549517,09/18/1988,"1457 Sixth Way",San Antonio,TX

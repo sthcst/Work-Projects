@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Reeves
-  email: stephanie.reeves4784@work.org
-  phone: +1 430-673-3066
-  ssn: 051425542
-  dob: 6/5/1974
-  address: 151 Second Dr
-  city: San Jose
-  state: CA

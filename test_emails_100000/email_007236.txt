@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Sanchez,richard.sanchez7801@business.net,(712) 746-9821,374399907,12/17/1977,"377 Maple Rd",Boston,MO

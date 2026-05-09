@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Dominguez,sarah.dominguez6233@outlook.com,(711) 202-8898,357022238,06/18/2005,"5205 Fourth St",San Diego,CA

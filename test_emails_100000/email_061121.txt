@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Jimenez,amanda.jimenez406@business.net,(726) 604-9208,872-03-9258,11/28/1985,"6624 Maple Rd",Los Angeles,TX

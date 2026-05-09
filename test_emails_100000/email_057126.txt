@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Reeves,kathleen.reeves6795@outlook.com,(980) 745-1639,893819344,04-08-1971,"4288 Summer Court",San Diego,NY

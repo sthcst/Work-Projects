@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Perez,rebecca.perez7110@company.com,847 911 3207,451 01 7954,8/10/1992,"5522 West Dr",Phoenix,WA

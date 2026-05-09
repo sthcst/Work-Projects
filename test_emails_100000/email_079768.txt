@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Harris,angela.harris966@company.com,721 886 8076,903979387,01-02-1964,"4188 Oak Way",San Diego,MA

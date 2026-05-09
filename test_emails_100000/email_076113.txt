@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Martin
-  email: pamela.martin7782@example.com
-  phone: 404 791 8853
-  ssn: 359041410
-  dob: 04/23/1986
-  address: 2144 Second St
-  city: Jacksonville
-  state: NJ

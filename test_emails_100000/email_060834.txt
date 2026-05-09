@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Young
-  email: joshua.young5854@company.com
-  phone: 342-761-4911
-  ssn: 924-10-6445
-  dob: 07/03/1952
-  address: 2304 Spring St
-  city: Chicago
-  state: TX

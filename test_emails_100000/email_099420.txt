@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Walker
-  email: jennifer.walker9009@mail.com
-  phone: 250-706-1190
-  ssn: 175-82-7015
-  dob: 03/03/1988
-  address: 6816 East St
-  city: Washington
-  state: MA

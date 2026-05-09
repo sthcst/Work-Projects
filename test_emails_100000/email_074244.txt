@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Garcia,michelle.garcia4993@company.com,620-735-7882,667865059,7/12/1954,"7014 Elm Blvd",San Antonio,TX

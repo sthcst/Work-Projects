@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Collins
-  email: stephanie.collins9993@company.com
-  phone: 928 511 5903
-  ssn: 869-66-3733
-  dob: 02-09-1981
-  address: 7419 Maple Ln
-  city: New York
-  state: WA

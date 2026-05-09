@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Hernandez,helen.hernandez3042@yahoo.com,349-499-1031,322 84 2257,3/22/1968,"2435 First Ave",Jacksonville,OH

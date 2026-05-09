@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Walker,charles.walker1083@business.net,370 372 8798,160-89-7313,9/20/1988,"3369 Sixth Way",Washington,MA

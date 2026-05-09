@@ -1,9 +1,0 @@
-contact:
-  name: Anna Ortiz
-  email: anna.ortiz650@company.com
-  phone: (749) 743-7890
-  ssn: 327 56 9703
-  dob: 03/21/1957
-  address: 3239 Elm Ave
-  city: Phoenix
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Smith,michael.smith4087@mail.com,854-688-7500,312-77-7198,05/22/1970,"8912 Pine Rd",Boston,CO

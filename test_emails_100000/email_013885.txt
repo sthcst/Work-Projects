@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Reyes,maria.reyes1094@example.com,(239) 836-3846,244-90-2398,26/01/1969,"6593 Third Blvd",San Antonio,DC

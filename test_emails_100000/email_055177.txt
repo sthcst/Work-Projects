@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Williams
-  email: anthony.williams3368@outlook.com
-  phone: 828-958-7681
-  ssn: 252-27-1099
-  dob: 3/28/1965
-  address: 4730 East Ave
-  city: New York
-  state: NJ

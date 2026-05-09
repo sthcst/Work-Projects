@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Martinez,john.martinez3402@company.com,349-782-1659,197-37-5557,07/26/1993,"5631 South Court",Boston,TX

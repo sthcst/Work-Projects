@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Peterson
-  email: deborah.peterson1837@mail.com
-  phone: (814) 232-2471
-  ssn: 552 65 2333
-  dob: 08-10-1959
-  address: 7179 Sixth Rd
-  city: Seattle
-  state: MO

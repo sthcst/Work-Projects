@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Parker,donald.parker9922@outlook.com,+1 347-204-2948,220 54 1074,20/01/1991,"7419 Park St",San Antonio,CA

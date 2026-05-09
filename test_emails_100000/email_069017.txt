@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Johnson,kimberly.johnson8752@mail.com,+1 245-682-1549,094-50-4727,9/26/1983,"778 North Rd",Houston,AZ

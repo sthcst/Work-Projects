@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Gomez,christine.gomez5183@company.com,+1 974-802-6602,743 38 8498,11-24-1987,"9543 Oak Way",Chicago,AZ

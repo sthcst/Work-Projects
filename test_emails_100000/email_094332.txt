@@ -1,9 +1,0 @@
-contact:
-  name: Emma Martinez
-  email: emma.martinez3601@gmail.com
-  phone: (339) 309-1128
-  ssn: 717 79 3094
-  dob: 8/2/1997
-  address: 4095 Sixth Ln
-  city: New York
-  state: FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Reed,kathleen.reed1022@work.org,797 272 7440,766-79-9556,11/06/1970,"1679 Birch Way",Los Angeles,MA

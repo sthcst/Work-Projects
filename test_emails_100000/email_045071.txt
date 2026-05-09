@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Gomez,sarah.gomez2710@business.net,(736) 270-7458,202 49 9655,06/13/1974,"8368 Spring Blvd",Seattle,CA

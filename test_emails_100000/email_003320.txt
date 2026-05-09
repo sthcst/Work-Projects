@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Perez,shirley.perez2692@yahoo.com,545 279 6181,416245887,08/10/1997,"2298 Fifth Blvd",Phoenix,CA

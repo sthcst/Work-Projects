@@ -1,9 +1,0 @@
-contact:
-  name: Richard Williams
-  email: richard.williams3095@yahoo.com
-  phone: 780 987 4845
-  ssn: 467 35 9013
-  dob: 01-15-1992
-  address: 6370 Main Court
-  city: Washington
-  state: WA

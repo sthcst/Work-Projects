@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Roberts,katherine.roberts4926@yahoo.com,+1 729-941-4823,891993875,04/09/1976,"6852 Spring Rd",Boston,WA

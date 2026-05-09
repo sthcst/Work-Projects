@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Serrano
-  email: lauren.serrano8768@mail.com
-  phone: 465-300-5175
-  ssn: 041-94-7285
-  dob: 12/26/1978
-  address: 4129 Maple Blvd
-  city: San Jose
-  state: VA

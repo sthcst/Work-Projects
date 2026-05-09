@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Roberts
-  email: nicole.roberts8055@outlook.com
-  phone: 306-414-5303
-  ssn: 074 68 2448
-  dob: 01-24-2002
-  address: 8050 Sixth St
-  city: San Jose
-  state: CA

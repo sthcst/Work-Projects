@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Hall,andrew.hall5129@gmail.com,(648) 838-9413,681-47-9036,05/28/1968,"6675 Pine Ln",San Antonio,MO

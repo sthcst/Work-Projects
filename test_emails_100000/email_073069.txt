@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Ortiz,lauren.ortiz5677@business.net,594 375 9124,211 12 7759,01/10/1992,"4513 Spring Ave",New York,VA

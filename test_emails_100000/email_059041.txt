@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Smith
-  email: jeffrey.smith327@company.com
-  phone: +1 791-829-9941
-  ssn: 602 75 5668
-  dob: 05/15/2004
-  address: 5908 Birch Dr
-  city: Los Angeles
-  state: TX

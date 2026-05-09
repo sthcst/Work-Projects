@@ -1,9 +1,0 @@
-contact:
-  name: Edward Campbell
-  email: edward.campbell8512@work.org
-  phone: 764-216-2253
-  ssn: 153-07-4442
-  dob: 04/05/1977
-  address: 2850 West Ln
-  city: San Antonio
-  state: FL

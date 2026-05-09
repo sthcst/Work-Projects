@@ -1,9 +1,0 @@
-contact:
-  name: Anna Edwards
-  email: anna.edwards2604@business.net
-  phone: 899 615 3713
-  ssn: 298825523
-  dob: 09/11/1993
-  address: 6638 Second Ave
-  city: Philadelphia
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Thompson
-  email: kevin.thompson3772@example.com
-  phone: 211 719 6820
-  ssn: 942-73-9017
-  dob: 20/06/1967
-  address: 8360 Cedar Court
-  city: Chicago
-  state: WA

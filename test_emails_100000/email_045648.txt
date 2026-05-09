@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Smith
-  email: daniel.smith4733@yahoo.com
-  phone: 728-842-1681
-  ssn: 010 08 1030
-  dob: 11-20-1996
-  address: 6954 Birch Court
-  city: Seattle
-  state: MI

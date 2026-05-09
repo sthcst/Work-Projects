@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Stewart,brian.stewart4093@business.net,(501) 402-2564,612-83-1513,17/04/1955,"8211 Sixth Dr",Philadelphia,OH

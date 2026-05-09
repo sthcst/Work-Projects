@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Harris,richard.harris3921@work.org,290-224-3755,067412898,07/26/2005,"9915 First Blvd",Phoenix,NC

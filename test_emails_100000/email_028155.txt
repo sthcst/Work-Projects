@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Wilson
-  email: nicole.wilson8505@company.com
-  phone: 460 291 7024
-  ssn: 620-39-9732
-  dob: 4/12/1986
-  address: 5717 Summer Dr
-  city: Houston
-  state: IL

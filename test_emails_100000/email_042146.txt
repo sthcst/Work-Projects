@@ -1,9 +1,0 @@
-contact:
-  name: Robert Delgado
-  email: robert.delgado3390@work.org
-  phone: +1 576-441-1956
-  ssn: 612-39-9426
-  dob: 12/04/1965
-  address: 5085 Park Rd
-  city: Houston
-  state: AZ

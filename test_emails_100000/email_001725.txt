@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Lee
-  email: joshua.lee8682@example.com
-  phone: +1 448-685-8853
-  ssn: 248-40-6316
-  dob: 12/8/1950
-  address: 7359 Second Rd
-  city: Chicago
-  state: WA

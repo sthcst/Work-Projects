@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Delgado
-  email: joseph.delgado8332@mail.com
-  phone: 900 719 8368
-  ssn: 868804052
-  dob: 08-22-1975
-  address: 3396 Elm Dr
-  city: Boston
-  state: NC

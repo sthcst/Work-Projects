@@ -1,9 +1,0 @@
-contact:
-  name: David Jones
-  email: david.jones2971@mail.com
-  phone: 684 325 8371
-  ssn: 342221237
-  dob: 09/06/2000
-  address: 6265 Spring Way
-  city: Los Angeles
-  state: MA

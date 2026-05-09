@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Gomez,christopher.gomez9395@example.com,(213) 723-6250,704029228,1/25/1993,"2334 Maple Way",Philadelphia,CA

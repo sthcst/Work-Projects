@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Hernandez,christopher.hernandez3992@work.org,(665) 936-1355,300-07-4811,09/19/1992,"3356 Main Ave",Philadelphia,PA

@@ -1,9 +1,0 @@
-contact:
-  name: Gary Williams
-  email: gary.williams4908@outlook.com
-  phone: 517-774-7059
-  ssn: 744 32 6048
-  dob: 05/05/1998
-  address: 5941 Oak Way
-  city: San Antonio
-  state: TX

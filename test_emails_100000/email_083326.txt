@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Alvarado
-  email: ashley.alvarado8632@gmail.com
-  phone: (811) 854-9204
-  ssn: 756-89-2900
-  dob: 5/16/1995
-  address: 3980 North Rd
-  city: Washington
-  state: TX

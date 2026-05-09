@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Peterson
-  email: katherine.peterson6008@yahoo.com
-  phone: 617-780-6756
-  ssn: 553184796
-  dob: 10/12/1981
-  address: 9975 Third Court
-  city: Washington
-  state: MA

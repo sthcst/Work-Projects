@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Hernandez
-  email: nicholas.hernandez490@company.com
-  phone: +1 889-547-4727
-  ssn: 292 63 7170
-  dob: 2/9/1968
-  address: 7694 Pine Court
-  city: San Jose
-  state: TX

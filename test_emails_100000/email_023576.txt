@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Martin
-  email: shirley.martin3975@outlook.com
-  phone: 777 728 5214
-  ssn: 664-98-4262
-  dob: 01/06/2003
-  address: 7975 Main Ln
-  city: New York
-  state: PA

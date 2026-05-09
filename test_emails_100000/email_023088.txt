@@ -1,9 +1,0 @@
-contact:
-  name: David Thomas
-  email: david.thomas2029@mail.com
-  phone: 715-628-7066
-  ssn: 311 23 9100
-  dob: 11/05/1992
-  address: 3992 Cedar Rd
-  city: Austin
-  state: MO

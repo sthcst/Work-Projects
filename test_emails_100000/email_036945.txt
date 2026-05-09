@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Miller,james.miller6480@business.net,836 623 6342,702-07-2212,03/01/1953,"6036 Second Court",New York,FL

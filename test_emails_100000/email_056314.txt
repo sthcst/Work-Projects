@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Sanchez
-  email: jessica.sanchez3157@gmail.com
-  phone: (424) 490-5900
-  ssn: 538-66-7191
-  dob: 03/20/1957
-  address: 2120 South St
-  city: San Diego
-  state: OH

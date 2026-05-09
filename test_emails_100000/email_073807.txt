@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Romero
-  email: rebecca.romero1660@example.com
-  phone: (911) 905-8305
-  ssn: 383-40-9868
-  dob: 8/19/1953
-  address: 1243 Sixth Way
-  city: Los Angeles
-  state: NJ

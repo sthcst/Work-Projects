@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Nunez,john.nunez9935@gmail.com,956 702 1656,493 66 4958,17/10/1981,"5397 Cedar Ln",Denver,TN

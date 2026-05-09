@@ -1,9 +1,0 @@
-contact:
-  name: Emily Murillo
-  email: emily.murillo4458@yahoo.com
-  phone: 555-734-9153
-  ssn: 503-12-7705
-  dob: 17/07/1969
-  address: 7678 Pine St
-  city: Boston
-  state: AZ

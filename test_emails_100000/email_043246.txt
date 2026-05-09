@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Sanchez,ryan.sanchez5623@gmail.com,391 944 1707,785-18-7584,06-02-2004,"9380 Birch Ln",Chicago,MO

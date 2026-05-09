@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Thomas
-  email: lisa.thomas4878@mail.com
-  phone: 968 673 6258
-  ssn: 101644065
-  dob: 04-12-2003
-  address: 4835 Birch Court
-  city: New York
-  state: CA

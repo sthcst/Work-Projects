@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Lopez,emily.lopez8900@work.org,(630) 451-9157,385 23 8893,02/03/1984,"797 Oak Rd",Houston,OH

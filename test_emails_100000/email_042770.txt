@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Perez
-  email: sarah.perez8184@yahoo.com
-  phone: 778 689 2144
-  ssn: 244-84-7880
-  dob: 04-18-1966
-  address: 9068 Park Blvd
-  city: Austin
-  state: CA

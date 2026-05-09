@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Collins,nicholas.collins4373@business.net,+1 278-212-6403,228142587,7/28/1996,"3726 Sixth St",Philadelphia,NJ

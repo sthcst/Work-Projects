@@ -1,9 +1,0 @@
-contact:
-  name: William Lee
-  email: william.lee6570@outlook.com
-  phone: (292) 737-3360
-  ssn: 041-46-7118
-  dob: 5/27/1952
-  address: 6166 Summer Ln
-  city: San Antonio
-  state: MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Johnson,angela.johnson3210@mail.com,399-498-9675,356-97-3222,06/10/1995,"5677 Spring Blvd",San Jose,FL

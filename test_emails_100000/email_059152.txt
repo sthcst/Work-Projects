@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Parker
-  email: jennifer.parker5517@business.net
-  phone: (900) 275-3675
-  ssn: 770846293
-  dob: 04/20/1999
-  address: 2936 Elm Ln
-  city: Austin
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Jane Walker
-  email: jane.walker3260@work.org
-  phone: (975) 959-6535
-  ssn: 160-44-6907
-  dob: 1/23/2004
-  address: 2008 Summer St
-  city: Washington
-  state: MI

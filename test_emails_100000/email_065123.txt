@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Serrano
-  email: kimberly.serrano5205@example.com
-  phone: 801 315 4566
-  ssn: 172-60-6841
-  dob: 15/08/1964
-  address: 9027 Fourth Rd
-  city: Phoenix
-  state: NC

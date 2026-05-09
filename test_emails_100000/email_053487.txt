@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Cooper,christine.cooper9035@company.com,+1 636-958-1971,417-23-7050,08/14/1976,"4974 Fourth Blvd",Denver,AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Roberts
-  email: jeffrey.roberts3291@outlook.com
-  phone: (803) 720-6783
-  ssn: 326-61-6784
-  dob: 09/02/1976
-  address: 1112 First Dr
-  city: Washington
-  state: PA

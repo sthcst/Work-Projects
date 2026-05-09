@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Lee,william.lee434@example.com,624 719 1424,901805215,10/02/1993,"3437 Cedar Ave",Philadelphia,MA

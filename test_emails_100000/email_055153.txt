@@ -1,9 +1,0 @@
-contact:
-  name: Gary White
-  email: gary.white5930@company.com
-  phone: 989 495 8514
-  ssn: 903414698
-  dob: 03/08/1965
-  address: 2754 Second Blvd
-  city: Philadelphia
-  state: OH

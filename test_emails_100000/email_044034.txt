@@ -1,9 +1,0 @@
-contact:
-  name: James Thomas
-  email: james.thomas96@yahoo.com
-  phone: 505 768 2996
-  ssn: 488 31 5961
-  dob: 19/12/1988
-  address: 1452 Second Ln
-  city: Jacksonville
-  state: VA

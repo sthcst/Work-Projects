@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Evans,mark.evans9422@example.com,(297) 665-7277,306865612,09/19/2002,"572 Pine Rd",Washington,AZ

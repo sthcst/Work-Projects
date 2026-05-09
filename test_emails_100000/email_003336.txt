@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Peterson,edward.peterson9961@mail.com,511 808 2235,753591987,11/09/1971,"6447 Park Dr",Houston,WA

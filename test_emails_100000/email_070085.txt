@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Nelson,nicholas.nelson9217@company.com,+1 230-333-1732,999-66-4818,11/7/1990,"4587 Fifth Blvd",Austin,TN

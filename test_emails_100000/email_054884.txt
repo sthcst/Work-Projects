@@ -1,9 +1,0 @@
-contact:
-  name: Gary Edwards
-  email: gary.edwards1499@mail.com
-  phone: 778-698-2813
-  ssn: 944-81-2297
-  dob: 12/03/1998
-  address: 5455 Third Blvd
-  city: San Antonio
-  state: TX

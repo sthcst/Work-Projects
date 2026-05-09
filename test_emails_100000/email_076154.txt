@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Smith,donald.smith1954@outlook.com,+1 624-638-6195,258 53 1478,12/12/1980,"9048 First Ln",Houston,MD

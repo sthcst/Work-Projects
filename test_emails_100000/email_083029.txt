@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Ramirez
-  email: michelle.ramirez9807@mail.com
-  phone: 240 219 4798
-  ssn: 308887961
-  dob: 5/24/1964
-  address: 5160 Spring Court
-  city: Denver
-  state: WI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Flores,brenda.flores334@gmail.com,884-532-4143,418 24 1895,07/08/1997,"6652 Maple St",Philadelphia,DC

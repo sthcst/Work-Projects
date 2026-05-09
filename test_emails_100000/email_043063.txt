@@ -1,9 +1,0 @@
-contact:
-  name: Edward Collins
-  email: edward.collins9487@work.org
-  phone: 799 509 1165
-  ssn: 629 26 5643
-  dob: 26/12/1967
-  address: 4581 Maple Dr
-  city: Chicago
-  state: MO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Ramirez,pamela.ramirez4438@business.net,+1 737-778-2450,197145775,06/28/1981,"4562 Spring Rd",Los Angeles,FL

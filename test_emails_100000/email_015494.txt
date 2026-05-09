@@ -1,9 +1,0 @@
-contact:
-  name: Christine Martin
-  email: christine.martin8291@outlook.com
-  phone: 335 967 3846
-  ssn: 091604161
-  dob: 11/15/1987
-  address: 8187 Fifth Blvd
-  city: Phoenix
-  state: OH

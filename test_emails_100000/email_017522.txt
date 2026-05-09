@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Gonzalez
-  email: ryan.gonzalez4289@mail.com
-  phone: +1 851-769-5967
-  ssn: 528 99 1662
-  dob: 23/01/1969
-  address: 5246 Main Dr
-  city: Phoenix
-  state: GA

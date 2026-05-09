@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Flores
-  email: ronald.flores9524@outlook.com
-  phone: 571 205 7987
-  ssn: 081914243
-  dob: 14/07/1962
-  address: 9595 Sixth Rd
-  city: New York
-  state: NJ

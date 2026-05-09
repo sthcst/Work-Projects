@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Campbell
-  email: ronald.campbell8811@business.net
-  phone: 230 658 4711
-  ssn: 889-10-1275
-  dob: 09/01/1977
-  address: 4278 Fifth Ave
-  city: Chicago
-  state: MA

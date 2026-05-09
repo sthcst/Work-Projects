@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Thompson,george.thompson9529@yahoo.com,+1 477-873-2004,932843029,04-28-1960,"7046 North Ave",Washington,VA

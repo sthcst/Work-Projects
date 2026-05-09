@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Parker,lauren.parker7669@yahoo.com,(230) 305-4377,011 67 2239,12-03-1996,"7156 Second Ave",Boston,TX

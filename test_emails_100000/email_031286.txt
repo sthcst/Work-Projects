@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Hernandez,robert.hernandez614@example.com,(368) 424-7015,342 12 9272,07/18/1966,"5068 Third Ave",Washington,IL

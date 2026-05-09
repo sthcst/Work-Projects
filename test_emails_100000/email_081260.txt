@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Anderson,william.anderson3879@gmail.com,+1 838-707-6615,108 51 8422,07-26-1982,"4990 First Ln",Philadelphia,MO

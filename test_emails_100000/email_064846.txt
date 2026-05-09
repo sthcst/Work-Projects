@@ -1,9 +1,0 @@
-contact:
-  name: Christine Clark
-  email: christine.clark4717@company.com
-  phone: 352 692 2132
-  ssn: 697554875
-  dob: 05-26-1952
-  address: 6110 Elm Court
-  city: Dallas
-  state: MO

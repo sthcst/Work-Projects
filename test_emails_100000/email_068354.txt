@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Lee,paul.lee5715@company.com,+1 540-676-1265,632-72-1458,01-16-1973,"9490 Elm Way",San Antonio,NC

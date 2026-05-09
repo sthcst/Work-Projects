@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Hall
-  email: cynthia.hall1637@yahoo.com
-  phone: (329) 395-1689
-  ssn: 084126665
-  dob: 12/10/2003
-  address: 1378 Main Ln
-  city: San Jose
-  state: TX

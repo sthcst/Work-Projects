@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Dominguez
-  email: sarah.dominguez3177@mail.com
-  phone: 592-648-1234
-  ssn: 140 29 2660
-  dob: 06/02/1983
-  address: 278 North Ln
-  city: Austin
-  state: AZ

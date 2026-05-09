@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Harris,katherine.harris5003@yahoo.com,(381) 934-5504,585 50 2302,1/10/1985,"2904 Spring St",Los Angeles,TN

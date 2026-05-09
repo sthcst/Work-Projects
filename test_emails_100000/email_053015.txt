@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Phillips,robert.phillips2520@company.com,+1 858-298-8309,614-33-7994,08/02/1963,"7045 Elm Rd",Boston,AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Anna Thompson
-  email: anna.thompson7211@business.net
-  phone: 357-457-3763
-  ssn: 151-92-1155
-  dob: 12/20/1958
-  address: 928 Pine Way
-  city: Chicago
-  state: CA

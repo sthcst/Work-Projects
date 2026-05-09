@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Brown,paul.brown826@company.com,299 723 2585,022161272,01-09-2002,"3628 Elm Ave",Houston,FL

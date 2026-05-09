@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Murillo
-  email: cynthia.murillo2873@gmail.com
-  phone: (455) 614-6420
-  ssn: 098939877
-  dob: 04/16/2005
-  address: 203 Elm Blvd
-  city: Philadelphia
-  state: WA

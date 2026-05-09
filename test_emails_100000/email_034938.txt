@@ -1,9 +1,0 @@
-contact:
-  name: James Gomez
-  email: james.gomez5702@business.net
-  phone: 784 987 3737
-  ssn: 738436437
-  dob: 3/14/1997
-  address: 2327 West Dr
-  city: Phoenix
-  state: FL

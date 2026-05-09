@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Carter,christopher.carter8654@outlook.com,(434) 263-7970,917383069,26/02/1955,"8385 Spring Way",Los Angeles,CA

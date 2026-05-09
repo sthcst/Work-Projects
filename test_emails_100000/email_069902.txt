@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Wilson,jennifer.wilson224@gmail.com,+1 478-946-7912,181213337,03/09/1951,"5745 Spring Rd",Chicago,WA

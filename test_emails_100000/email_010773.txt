@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Perez,edward.perez1015@work.org,977-644-5443,351-95-1415,14/04/1968,"194 North Ave",Los Angeles,CO

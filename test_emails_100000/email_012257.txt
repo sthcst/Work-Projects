@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Delgado,pamela.delgado2000@work.org,686 578 6800,276-89-1118,04/22/1965,"2639 North Court",San Jose,NC

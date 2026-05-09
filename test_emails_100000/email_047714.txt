@@ -1,9 +1,0 @@
-contact:
-  name: David Sanchez
-  email: david.sanchez6243@mail.com
-  phone: +1 221-335-3278
-  ssn: 669286415
-  dob: 08-27-2003
-  address: 7982 East St
-  city: Seattle
-  state: TX

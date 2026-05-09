@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Wilson,michelle.wilson4179@yahoo.com,(249) 974-7708,298-51-8898,6/2/1972,"5612 Fourth Way",Boston,IL

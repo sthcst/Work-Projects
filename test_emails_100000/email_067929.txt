@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Reed,timothy.reed4887@work.org,+1 969-219-8538,476 12 9249,11-21-1994,"4935 Cedar Dr",Phoenix,IL

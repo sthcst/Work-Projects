@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Jimenez
-  email: joseph.jimenez1898@yahoo.com
-  phone: 632-784-7697
-  ssn: 471747392
-  dob: 04-20-1961
-  address: 9588 West Rd
-  city: San Diego
-  state: CA

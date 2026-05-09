@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Dominguez
-  email: ryan.dominguez7288@mail.com
-  phone: +1 407-658-9162
-  ssn: 073 99 6528
-  dob: 04-28-1966
-  address: 6719 North Ln
-  city: Philadelphia
-  state: TX

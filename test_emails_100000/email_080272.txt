@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Flores,brenda.flores8427@business.net,+1 420-740-3607,151219248,02-13-1955,"3723 Elm Rd",San Jose,DC

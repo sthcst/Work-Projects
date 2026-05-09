@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Nunez,jessica.nunez263@company.com,+1 578-926-7487,645 79 7145,02/07/1983,"9616 Park Way",San Jose,MO

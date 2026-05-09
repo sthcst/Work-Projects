@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Evans
-  email: rebecca.evans8102@business.net
-  phone: 800-376-4817
-  ssn: 121-95-3619
-  dob: 11/25/1999
-  address: 3753 Sixth Dr
-  city: San Jose
-  state: MA

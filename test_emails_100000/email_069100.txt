@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Jimenez
-  email: anthony.jimenez5082@gmail.com
-  phone: +1 624-236-3116
-  ssn: 840-30-2554
-  dob: 9/27/1987
-  address: 2383 Summer Ln
-  city: San Diego
-  state: FL

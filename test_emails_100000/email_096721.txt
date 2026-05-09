@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Smith,daniel.smith6178@gmail.com,605 443 4430,652-78-2213,05/04/1953,"1421 Elm Ln",Seattle,DC

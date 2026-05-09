@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Guerrero
-  email: shirley.guerrero1920@outlook.com
-  phone: 945-927-2595
-  ssn: 728-34-9721
-  dob: 09/06/1957
-  address: 7672 West Dr
-  city: San Diego
-  state: GA

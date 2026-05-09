@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Alvarado
-  email: joshua.alvarado3576@outlook.com
-  phone: (290) 249-5552
-  ssn: 760 80 4518
-  dob: 07-12-1976
-  address: 7373 North St
-  city: Boston
-  state: WA

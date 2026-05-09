@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Moore,kathleen.moore5325@work.org,660 498 4752,103-35-2387,01-08-1951,"6620 Cedar Blvd",Dallas,TX

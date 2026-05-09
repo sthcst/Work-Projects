@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Morgan,brian.morgan36@mail.com,890-312-1268,767 18 9020,01/22/1955,"4650 First Ln",Boston,TX

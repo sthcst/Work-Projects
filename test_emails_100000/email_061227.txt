@@ -1,9 +1,0 @@
-contact:
-  name: George Bell
-  email: george.bell1645@company.com
-  phone: +1 768-302-6573
-  ssn: 981274456
-  dob: 6/21/1961
-  address: 2858 Pine Dr
-  city: New York
-  state: WI

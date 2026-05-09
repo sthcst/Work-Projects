@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Taylor
-  email: andrew.taylor4155@company.com
-  phone: 837 897 7531
-  ssn: 276 78 6310
-  dob: 01/04/1987
-  address: 8144 First Court
-  city: San Antonio
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Lee
-  email: rebecca.lee1007@company.com
-  phone: (950) 368-8471
-  ssn: 364 95 6664
-  dob: 14/09/1982
-  address: 8710 Pine Blvd
-  city: New York
-  state: WI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Walker,rachel.walker8171@work.org,(531) 712-3334,744089181,1/21/1967,"5436 Main Rd",San Diego,GA

@@ -1,9 +1,0 @@
-contact:
-  name: Steven Flores
-  email: steven.flores1007@company.com
-  phone: 386-531-7488
-  ssn: 585 54 1312
-  dob: 28/06/2004
-  address: 9400 Spring Blvd
-  city: Los Angeles
-  state: MA

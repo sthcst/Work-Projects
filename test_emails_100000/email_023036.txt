@@ -1,9 +1,0 @@
-contact:
-  name: Michael Guerrero
-  email: michael.guerrero5969@outlook.com
-  phone: 658-242-8544
-  ssn: 021217105
-  dob: 10/11/1984
-  address: 8076 South Dr
-  city: Dallas
-  state: MA

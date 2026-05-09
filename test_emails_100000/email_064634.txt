@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Ramirez
-  email: rachel.ramirez449@company.com
-  phone: (796) 751-6869
-  ssn: 302776557
-  dob: 05/12/1980
-  address: 3774 Second Rd
-  city: Jacksonville
-  state: TX

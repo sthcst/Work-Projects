@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Lopez,edward.lopez3833@outlook.com,+1 543-262-6242,821189953,12/09/1980,"9313 Cedar Court",Philadelphia,TN

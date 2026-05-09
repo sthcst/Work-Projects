@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Wilson,ashley.wilson8816@work.org,456-445-2903,603 39 2466,7/24/1952,"7533 Second St",Jacksonville,PA

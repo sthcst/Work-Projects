@@ -1,9 +1,0 @@
-contact:
-  name: Emma Martin
-  email: emma.martin2243@company.com
-  phone: 552-293-8924
-  ssn: 006-65-9725
-  dob: 07-23-1996
-  address: 3781 East Ln
-  city: Boston
-  state: IL

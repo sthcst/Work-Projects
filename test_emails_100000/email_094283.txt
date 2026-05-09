@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Ortiz,kathleen.ortiz2749@mail.com,488-382-7964,535646261,2/20/1994,"3416 Park Rd",Phoenix,TX

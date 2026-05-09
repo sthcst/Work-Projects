@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Morris
-  email: andrew.morris6030@business.net
-  phone: (783) 712-6096
-  ssn: 476 46 2288
-  dob: 02-25-1989
-  address: 3468 Fifth St
-  city: Washington
-  state: WA

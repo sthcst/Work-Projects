@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Romero,ronald.romero6338@work.org,(770) 213-3935,120-52-1503,12/18/1974,"8644 Spring St",Boston,CO

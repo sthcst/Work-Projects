@@ -1,9 +1,0 @@
-contact:
-  name: David Reeves
-  email: david.reeves3361@work.org
-  phone: +1 227-450-7805
-  ssn: 539 77 8315
-  dob: 05-26-1982
-  address: 4380 Park Ave
-  city: Jacksonville
-  state: MD

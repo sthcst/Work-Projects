@@ -1,9 +1,0 @@
-contact:
-  name: Helen Martinez
-  email: helen.martinez3214@yahoo.com
-  phone: (422) 769-3048
-  ssn: 608076609
-  dob: 13/02/1956
-  address: 6890 Sixth Court
-  city: Seattle
-  state: CA

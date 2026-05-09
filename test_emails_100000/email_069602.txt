@@ -1,9 +1,0 @@
-contact:
-  name: Donald Morgan
-  email: donald.morgan9322@outlook.com
-  phone: +1 492-520-9035
-  ssn: 035267762
-  dob: 1/3/1985
-  address: 790 East Rd
-  city: Chicago
-  state: OH

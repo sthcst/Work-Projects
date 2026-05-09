@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Gomez,jane.gomez265@gmail.com,862 650 4882,165 11 2525,02/01/1971,"678 Pine Dr",Boston,CA

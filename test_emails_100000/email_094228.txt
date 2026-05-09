@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Jackson,kathleen.jackson3972@gmail.com,(602) 891-1059,584545478,12/03/1961,"3210 West Blvd",Jacksonville,MO

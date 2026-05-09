@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Hall
-  email: brenda.hall9996@outlook.com
-  phone: 731 425 4262
-  ssn: 778-78-3726
-  dob: 8/3/1978
-  address: 6432 Spring Court
-  city: Dallas
-  state: AZ

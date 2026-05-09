@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Johnson
-  email: christopher.johnson261@outlook.com
-  phone: +1 997-576-5386
-  ssn: 181989168
-  dob: 1/9/1971
-  address: 6857 Elm Ln
-  city: Chicago
-  state: NC

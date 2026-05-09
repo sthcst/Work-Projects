@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Walker
-  email: michelle.walker4395@outlook.com
-  phone: +1 546-582-8235
-  ssn: 277154575
-  dob: 15/03/1956
-  address: 1932 Fourth Court
-  city: New York
-  state: FL

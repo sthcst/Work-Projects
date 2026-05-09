@@ -1,9 +1,0 @@
-contact:
-  name: Steven Jackson
-  email: steven.jackson5662@gmail.com
-  phone: 378-870-6545
-  ssn: 192336835
-  dob: 21/05/1956
-  address: 1818 Birch Way
-  city: Denver
-  state: TX

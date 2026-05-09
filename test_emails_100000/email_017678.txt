@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Smith,megan.smith7438@company.com,589 441 9884,231 39 8188,09-26-1976,"5225 West Ln",Dallas,IL

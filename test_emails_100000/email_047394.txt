@@ -1,9 +1,0 @@
-contact:
-  name: Charles Bell
-  email: charles.bell3497@example.com
-  phone: 403 890 4198
-  ssn: 886 68 9859
-  dob: 10/10/1966
-  address: 5472 Fourth Dr
-  city: Washington
-  state: MD

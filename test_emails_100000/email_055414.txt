@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Harris
-  email: kathleen.harris5625@business.net
-  phone: (818) 578-2935
-  ssn: 152 96 1705
-  dob: 7/5/1961
-  address: 1188 Sixth Dr
-  city: San Diego
-  state: TN

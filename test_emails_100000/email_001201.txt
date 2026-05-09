@@ -1,9 +1,0 @@
-contact:
-  name: John Anderson
-  email: john.anderson4758@work.org
-  phone: (847) 397-8505
-  ssn: 216 46 7880
-  dob: 1/15/1983
-  address: 481 Fourth Ln
-  city: Los Angeles
-  state: AZ

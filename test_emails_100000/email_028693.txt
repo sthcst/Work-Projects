@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Perez,rebecca.perez6214@mail.com,356-893-5879,284-75-6301,15/10/1996,"6716 Spring Ln",Washington,OH

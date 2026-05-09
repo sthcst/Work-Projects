@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Parker,michael.parker462@outlook.com,(359) 534-9260,032-26-6511,8/11/1988,"5428 Maple Rd",Seattle,TN

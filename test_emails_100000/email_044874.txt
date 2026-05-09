@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Clark,charles.clark2472@gmail.com,(670) 863-3633,475 21 9268,13/11/1979,"7202 Sixth Blvd",San Jose,MD

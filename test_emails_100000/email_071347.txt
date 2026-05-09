@@ -1,9 +1,0 @@
-contact:
-  name: Maria Moore
-  email: maria.moore6838@company.com
-  phone: 404 746 6139
-  ssn: 201 88 7843
-  dob: 10/19/1967
-  address: 5880 Third Ave
-  city: Austin
-  state: VA

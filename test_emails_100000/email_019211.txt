@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Gonzalez,donald.gonzalez8771@yahoo.com,645 257 2839,591953560,05-12-1971,"4991 Park Ln",Los Angeles,AZ

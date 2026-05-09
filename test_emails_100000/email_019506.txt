@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Rogers,robert.rogers2074@yahoo.com,(804) 916-8623,908-70-3975,08/23/1997,"5622 Fourth Dr",Washington,MD

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey White,jeffrey.white5595@company.com,+1 592-511-2854,173 50 4636,10/02/1975,"8627 Maple Ln",Phoenix,NY

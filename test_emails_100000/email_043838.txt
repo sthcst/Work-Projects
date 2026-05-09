@@ -1,9 +1,0 @@
-contact:
-  name: Brian Reeves
-  email: brian.reeves3709@mail.com
-  phone: 821 995 1969
-  ssn: 223 08 4159
-  dob: 18/09/1973
-  address: 9859 Second Way
-  city: Chicago
-  state: TX

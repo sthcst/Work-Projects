@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Jackson,kimberly.jackson2612@company.com,(482) 814-6911,492-26-6998,01/26/1970,"9432 Park St",Boston,TX

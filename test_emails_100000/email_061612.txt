@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Rodriguez,james.rodriguez1631@yahoo.com,+1 984-642-8777,638-78-9143,01/09/1987,"9414 Cedar St",Los Angeles,WA

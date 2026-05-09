@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Rodriguez
-  email: brenda.rodriguez2385@company.com
-  phone: 225-475-9476
-  ssn: 356272552
-  dob: 05/18/2003
-  address: 2973 Main Blvd
-  city: Los Angeles
-  state: WA

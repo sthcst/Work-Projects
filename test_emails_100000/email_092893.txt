@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Peterson,samantha.peterson6236@mail.com,(782) 708-1690,111707949,6/16/1954,"9883 Maple St",Los Angeles,VA

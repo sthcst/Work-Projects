@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Ortiz,cynthia.ortiz5765@yahoo.com,+1 591-347-7495,776738085,12/27/1956,"9493 Summer Rd",Austin,CA

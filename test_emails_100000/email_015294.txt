@@ -1,9 +1,0 @@
-contact:
-  name: David Collins
-  email: david.collins4452@example.com
-  phone: 671 744 3511
-  ssn: 360-53-8079
-  dob: 10/7/1967
-  address: 5280 Maple Rd
-  city: Philadelphia
-  state: PA

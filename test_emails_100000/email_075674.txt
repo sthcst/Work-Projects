@@ -1,9 +1,0 @@
-contact:
-  name: Maria Gomez
-  email: maria.gomez3144@mail.com
-  phone: 940-788-7263
-  ssn: 962784440
-  dob: 03/27/1996
-  address: 9468 Pine Ave
-  city: Jacksonville
-  state: FL

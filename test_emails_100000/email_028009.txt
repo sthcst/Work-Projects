@@ -1,9 +1,0 @@
-contact:
-  name: Helen Gomez
-  email: helen.gomez4778@gmail.com
-  phone: +1 405-314-4290
-  ssn: 943-84-2868
-  dob: 7/15/1956
-  address: 4523 First St
-  city: Houston
-  state: NJ

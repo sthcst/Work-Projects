@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Harris,charles.harris7309@company.com,245-391-2374,474-32-9655,10/09/1983,"410 Pine Blvd",Austin,WA

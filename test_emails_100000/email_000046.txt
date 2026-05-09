@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Rodriguez,mark.rodriguez9081@company.com,(438) 536-3417,808 77 1046,03-05-1984,"2868 Pine St",Phoenix,NY

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Morgan,anthony.morgan403@work.org,254 239 8490,581376081,12/14/1955,"5584 South Dr",Boston,MD

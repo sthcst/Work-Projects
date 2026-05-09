@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Gomez,samantha.gomez2434@mail.com,(327) 300-5992,471-41-1938,7/13/1951,"1972 Summer Dr",Boston,WI

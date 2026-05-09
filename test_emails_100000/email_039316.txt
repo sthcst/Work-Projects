@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Clark,angela.clark6339@business.net,(681) 458-4667,971215525,05-03-1978,"9408 Oak St",San Antonio,MA

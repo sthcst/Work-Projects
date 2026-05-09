@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Anderson,jacob.anderson8114@mail.com,264-591-8259,097-57-6947,10-23-1969,"3570 North Blvd",Jacksonville,AZ

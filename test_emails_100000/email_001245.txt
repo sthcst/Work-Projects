@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Johnson,robert.johnson67@work.org,(708) 801-5662,631 75 5869,06-15-1993,"5084 Spring Ave",Los Angeles,WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Martinez,anna.martinez8840@business.net,682-524-4437,098 30 1620,12/11/1969,"4915 East Dr",San Antonio,FL

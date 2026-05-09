@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Martinez,joseph.martinez263@yahoo.com,+1 989-811-3084,455 87 5472,1/19/1976,"1143 Spring St",New York,TX

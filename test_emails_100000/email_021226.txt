@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Delgado,deborah.delgado7297@business.net,(561) 692-9598,469-37-6899,07/03/1981,"6921 Pine Ave",Philadelphia,TX

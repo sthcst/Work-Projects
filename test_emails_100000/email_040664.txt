@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Ramirez,jacob.ramirez4421@work.org,490 960 3506,617051089,1/23/1992,"3801 First St",Houston,TX

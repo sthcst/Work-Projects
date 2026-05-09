@@ -1,9 +1,0 @@
-contact:
-  name: Gary Martinez
-  email: gary.martinez9141@outlook.com
-  phone: +1 276-920-3562
-  ssn: 778 06 8947
-  dob: 09-09-1999
-  address: 1347 East Blvd
-  city: Los Angeles
-  state: TN

@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Harris
-  email: jennifer.harris9017@business.net
-  phone: 428 795 4294
-  ssn: 825 57 8125
-  dob: 05-23-2003
-  address: 5634 Summer Ln
-  city: Phoenix
-  state: NJ

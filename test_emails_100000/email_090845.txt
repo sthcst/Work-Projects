@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Jackson,amanda.jackson4055@outlook.com,973 893 7745,717-10-2824,07/22/2001,"7155 Elm Way",San Jose,MI

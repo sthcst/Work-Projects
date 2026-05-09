@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Wilson,pamela.wilson6304@mail.com,(234) 696-3127,973062855,07/16/1987,"8239 Second Ave",Philadelphia,TX

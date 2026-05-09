@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Jones,shirley.jones1479@business.net,289-960-5712,392986793,12/5/1957,"780 Fifth St",Philadelphia,CA

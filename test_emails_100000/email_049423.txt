@@ -1,9 +1,0 @@
-contact:
-  name: Paul Serrano
-  email: paul.serrano5534@business.net
-  phone: 521-912-2147
-  ssn: 459-60-3527
-  dob: 10-10-1991
-  address: 8827 Pine Ln
-  city: Phoenix
-  state: IL

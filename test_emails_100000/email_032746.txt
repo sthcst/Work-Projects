@@ -1,9 +1,0 @@
-contact:
-  name: Steven Cooper
-  email: steven.cooper4566@company.com
-  phone: 653-949-9620
-  ssn: 867573118
-  dob: 6/21/1970
-  address: 9765 Pine Court
-  city: Phoenix
-  state: IL

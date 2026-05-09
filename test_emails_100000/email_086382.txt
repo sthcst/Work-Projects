@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Clark,jennifer.clark5906@yahoo.com,307-773-8330,159-15-4547,01/09/1977,"6900 Summer Blvd",Denver,FL

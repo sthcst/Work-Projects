@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Parker
-  email: ronald.parker3974@yahoo.com
-  phone: 757-667-7742
-  ssn: 612-84-6305
-  dob: 24/01/1982
-  address: 9783 Birch Ln
-  city: Los Angeles
-  state: NJ

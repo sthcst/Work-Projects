@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Cooper,donald.cooper3703@business.net,+1 411-795-4004,963 10 1607,1/25/1967,"1628 Sixth Dr",Jacksonville,TX

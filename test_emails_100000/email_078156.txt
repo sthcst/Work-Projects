@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Serrano,shirley.serrano7507@mail.com,451-440-8820,734 72 3660,3/24/1984,"1577 Park Dr",San Jose,WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Lewis,amanda.lewis9597@company.com,+1 502-274-4946,572 77 5172,27/02/1991,"6998 Second Way",San Jose,TX

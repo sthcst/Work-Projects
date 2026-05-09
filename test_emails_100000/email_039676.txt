@@ -1,9 +1,0 @@
-contact:
-  name: Donald Carter
-  email: donald.carter1654@company.com
-  phone: 812-538-3032
-  ssn: 254235135
-  dob: 8/18/1971
-  address: 4462 Park St
-  city: Boston
-  state: FL

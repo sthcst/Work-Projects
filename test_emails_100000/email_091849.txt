@@ -1,9 +1,0 @@
-contact:
-  name: Edward Perez
-  email: edward.perez4038@example.com
-  phone: +1 902-900-4659
-  ssn: 657585774
-  dob: 7/7/1981
-  address: 1250 Sixth Court
-  city: Phoenix
-  state: WI

@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Thompson
-  email: jacob.thompson405@gmail.com
-  phone: +1 339-514-5199
-  ssn: 869765239
-  dob: 07-22-1952
-  address: 5582 Birch Way
-  city: Houston
-  state: PA

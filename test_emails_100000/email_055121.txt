@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Garcia
-  email: michelle.garcia8036@gmail.com
-  phone: +1 561-280-9345
-  ssn: 191778449
-  dob: 10/01/1978
-  address: 294 Fourth Ave
-  city: Houston
-  state: AZ

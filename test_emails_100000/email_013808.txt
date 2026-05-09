@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Smith,amanda.smith9841@example.com,434-837-9109,185149497,01-09-1982,"3632 Third Way",New York,AZ

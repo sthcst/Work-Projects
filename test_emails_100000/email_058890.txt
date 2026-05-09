@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Thompson,timothy.thompson3606@work.org,758-908-3301,922-28-2404,10/26/1971,"1888 Oak Ln",San Antonio,TX

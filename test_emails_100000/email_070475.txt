@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Reeves
-  email: nicole.reeves5368@gmail.com
-  phone: +1 879-930-3667
-  ssn: 552124533
-  dob: 08/19/2003
-  address: 3290 Summer Court
-  city: Austin
-  state: OH

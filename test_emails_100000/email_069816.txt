@@ -1,9 +1,0 @@
-contact:
-  name: William Hall
-  email: william.hall1198@gmail.com
-  phone: 487-807-5775
-  ssn: 954843398
-  dob: 04-10-1960
-  address: 4518 East Dr
-  city: Denver
-  state: CA

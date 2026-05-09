@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Robinson,jessica.robinson1452@outlook.com,871-218-1342,052025686,01-10-1988,"1793 Second Dr",Jacksonville,MA

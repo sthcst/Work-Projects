@@ -1,9 +1,0 @@
-contact:
-  name: Edward Jones
-  email: edward.jones5616@business.net
-  phone: +1 455-762-8652
-  ssn: 364 35 1361
-  dob: 06-12-1991
-  address: 9616 West St
-  city: Denver
-  state: MD

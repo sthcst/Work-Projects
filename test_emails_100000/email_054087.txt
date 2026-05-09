@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Evans,samantha.evans7778@work.org,310 833 3163,722-21-8694,8/12/1954,"206 West Ave",San Jose,NC

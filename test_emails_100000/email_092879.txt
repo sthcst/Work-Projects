@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Morris,ashley.morris4631@work.org,242 568 5880,979 19 7925,11/10/1954,"6158 Main Rd",San Antonio,MA

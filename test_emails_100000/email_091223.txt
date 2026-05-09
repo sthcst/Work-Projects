@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Jimenez,emily.jimenez6704@mail.com,348 589 8239,139-22-4557,10/13/1960,"8674 Maple Way",Philadelphia,FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Taylor,paul.taylor9334@yahoo.com,319-577-7163,677144532,11/10/1958,"5321 Summer St",Boston,CA

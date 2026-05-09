@@ -1,9 +1,0 @@
-contact:
-  name: Angela Reyes
-  email: angela.reyes6567@business.net
-  phone: (837) 915-1954
-  ssn: 615 30 1579
-  dob: 04-08-1990
-  address: 1196 Birch Ave
-  city: San Jose
-  state: CA

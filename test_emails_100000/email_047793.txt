@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Cooper,lauren.cooper1654@example.com,367-807-3220,714409886,8/7/1991,"3796 Main Ave",Boston,NY

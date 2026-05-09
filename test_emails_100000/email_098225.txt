@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Nelson,richard.nelson3439@yahoo.com,(210) 466-3314,959 33 3912,05/05/1962,"9244 South Way",Los Angeles,MA

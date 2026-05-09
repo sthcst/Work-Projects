@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Delgado,rebecca.delgado5873@business.net,+1 865-611-9810,840-41-9914,4/1/1983,"5533 Spring Ave",Boston,WI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Flores,samantha.flores1438@company.com,235 770 8567,123 97 4013,15/05/1990,"9734 Sixth Way",Phoenix,WI

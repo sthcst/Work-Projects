@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Brown,kenneth.brown1313@example.com,(565) 302-8647,163-62-2620,06-28-2001,"8888 Second Dr",San Jose,CA

@@ -1,9 +1,0 @@
-contact:
-  name: Emma Rogers
-  email: emma.rogers7062@gmail.com
-  phone: 685-993-3258
-  ssn: 346103332
-  dob: 9/21/1999
-  address: 6223 Sixth Rd
-  city: Denver
-  state: GA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Johnson,michelle.johnson5952@mail.com,(587) 263-3407,407-16-5971,2/17/1952,"8540 Park Ave",Boston,MO

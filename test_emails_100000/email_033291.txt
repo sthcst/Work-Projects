@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Walker,rachel.walker2985@work.org,972 907 9349,356-66-7046,11/20/1986,"802 Elm Ln",Austin,MI

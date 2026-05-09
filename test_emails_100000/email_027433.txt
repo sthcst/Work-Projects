@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Collins,nicole.collins5407@example.com,600 607 4649,412-61-3717,7/25/1999,"3224 Fifth St",Dallas,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Rogers,john.rogers8822@example.com,388 587 1352,474142151,09-02-1996,"6329 Park St",Jacksonville,DC

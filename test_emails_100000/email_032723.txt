@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Perez,jacob.perez2770@company.com,(601) 585-9435,747 78 3428,03/24/1987,"9684 Spring Blvd",Houston,CA

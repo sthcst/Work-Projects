@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Jimenez,jason.jimenez3140@yahoo.com,(263) 618-3493,481-52-7828,09-19-1989,"3015 North Blvd",San Jose,MA

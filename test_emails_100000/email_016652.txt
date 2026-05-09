@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Flores,katherine.flores4186@company.com,(826) 393-6711,694542625,11-11-1972,"8223 West Court",Dallas,TX

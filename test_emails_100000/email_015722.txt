@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Jones
-  email: lauren.jones3299@outlook.com
-  phone: 397 840 8076
-  ssn: 558-98-3070
-  dob: 08/07/1974
-  address: 9989 South St
-  city: San Antonio
-  state: DC

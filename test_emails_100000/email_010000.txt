@@ -1,9 +1,0 @@
-contact:
-  name: Charles Perez
-  email: charles.perez9077@work.org
-  phone: +1 298-430-9186
-  ssn: 656179746
-  dob: 14/12/2001
-  address: 1518 Park Rd
-  city: Houston
-  state: PA

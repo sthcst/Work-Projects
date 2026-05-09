@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Roberts,brenda.roberts6806@gmail.com,962 671 6008,927 84 7608,05/13/2003,"4286 South Blvd",Dallas,GA

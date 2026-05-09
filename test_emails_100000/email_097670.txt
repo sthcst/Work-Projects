@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Wilson,ashley.wilson4831@example.com,+1 423-337-9301,208952483,26/12/1967,"9098 Main Ln",Denver,WA

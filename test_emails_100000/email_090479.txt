@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Parker
-  email: stephanie.parker8916@gmail.com
-  phone: (569) 756-2521
-  ssn: 390345973
-  dob: 08/11/1958
-  address: 7951 Cedar Ln
-  city: Houston
-  state: WA

@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Hernandez
-  email: nicole.hernandez5378@yahoo.com
-  phone: 526 687 5828
-  ssn: 426-11-9146
-  dob: 25/09/1957
-  address: 2524 North Blvd
-  city: Denver
-  state: FL

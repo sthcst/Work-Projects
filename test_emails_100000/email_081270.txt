@@ -1,9 +1,0 @@
-contact:
-  name: Angela Romero
-  email: angela.romero6282@gmail.com
-  phone: +1 477-408-9136
-  ssn: 467015112
-  dob: 1/16/1973
-  address: 6328 Fourth Ln
-  city: San Diego
-  state: MI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Dominguez,michelle.dominguez191@mail.com,871 866 5769,689-04-8793,01/13/1988,"3606 East Court",Los Angeles,CO

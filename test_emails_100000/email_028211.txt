@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Ortiz
-  email: amanda.ortiz4910@outlook.com
-  phone: 292-679-5349
-  ssn: 542 56 5502
-  dob: 11/7/1963
-  address: 5464 Sixth Blvd
-  city: Los Angeles
-  state: DC

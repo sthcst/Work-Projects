@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Jones,john.jones1440@business.net,(200) 958-5091,581837112,02-02-2001,"6240 Third Dr",Seattle,WI

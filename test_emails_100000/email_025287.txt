@@ -1,9 +1,0 @@
-contact:
-  name: Angela White
-  email: angela.white7061@company.com
-  phone: 510-254-6161
-  ssn: 201829369
-  dob: 05/03/1992
-  address: 1909 Summer Way
-  city: San Diego
-  state: NC

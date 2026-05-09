@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Martin
-  email: katherine.martin1702@yahoo.com
-  phone: 587-892-8862
-  ssn: 910 92 9044
-  dob: 8/23/1969
-  address: 8597 Fourth Ln
-  city: San Diego
-  state: PA

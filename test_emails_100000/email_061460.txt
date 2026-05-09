@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Harris,jeffrey.harris6314@company.com,+1 868-991-1299,081-38-3619,07/27/1995,"3916 Elm Way",Chicago,MO

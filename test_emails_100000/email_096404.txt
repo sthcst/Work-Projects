@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Thomas,megan.thomas4334@yahoo.com,273-395-2814,497 75 1052,03-05-1970,"7716 Fifth St",San Jose,GA

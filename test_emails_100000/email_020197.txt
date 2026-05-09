@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Jackson,james.jackson6642@business.net,(432) 413-9911,935107784,08/02/1987,"2915 Park Blvd",Los Angeles,CO

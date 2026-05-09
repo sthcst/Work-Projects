@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Taylor
-  email: katherine.taylor3380@company.com
-  phone: (812) 435-5454
-  ssn: 090 26 4417
-  dob: 11/08/2003
-  address: 3097 Pine Ave
-  city: Dallas
-  state: MI

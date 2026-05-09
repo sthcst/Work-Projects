@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Clark,katherine.clark4176@gmail.com,793-919-6249,034 44 4625,10/28/1950,"2812 East Rd",San Jose,VA

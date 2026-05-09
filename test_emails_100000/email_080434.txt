@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Nelson
-  email: kenneth.nelson3944@outlook.com
-  phone: 964-782-4962
-  ssn: 179-61-6632
-  dob: 3/23/1994
-  address: 4834 Park Way
-  city: San Jose
-  state: AZ

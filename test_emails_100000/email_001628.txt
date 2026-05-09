@@ -1,9 +1,0 @@
-contact:
-  name: James White
-  email: james.white3558@example.com
-  phone: (977) 440-6366
-  ssn: 238 56 8590
-  dob: 15/11/1993
-  address: 8164 First Ln
-  city: Dallas
-  state: MD

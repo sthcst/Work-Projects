@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Roberts
-  email: christopher.roberts1294@work.org
-  phone: 226 297 4375
-  ssn: 097-91-6956
-  dob: 05-11-1957
-  address: 1783 West Blvd
-  city: San Jose
-  state: MD

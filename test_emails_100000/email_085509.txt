@@ -1,9 +1,0 @@
-contact:
-  name: Michael Peterson
-  email: michael.peterson2300@company.com
-  phone: +1 211-315-7751
-  ssn: 777-33-4876
-  dob: 26/12/1959
-  address: 6688 Spring Blvd
-  city: San Antonio
-  state: TX

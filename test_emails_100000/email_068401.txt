@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Thompson
-  email: jennifer.thompson8030@outlook.com
-  phone: (583) 411-8080
-  ssn: 003 86 3875
-  dob: 08/16/1999
-  address: 9815 West Rd
-  city: Washington
-  state: VA

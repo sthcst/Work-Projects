@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Wilson,ashley.wilson1976@outlook.com,315 415 7887,519-29-9486,11-08-1975,"3044 Park Ln",Boston,CO

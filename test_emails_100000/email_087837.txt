@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Walker,nicholas.walker6883@gmail.com,(816) 532-2897,303 70 7916,1/11/1980,"2867 Park Court",San Diego,NY

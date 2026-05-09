@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Anderson,ronald.anderson1650@yahoo.com,+1 669-424-2362,936-30-4854,07-23-1984,"6889 Sixth Blvd",Denver,VA

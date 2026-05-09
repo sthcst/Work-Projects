@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Nunez
-  email: timothy.nunez1334@gmail.com
-  phone: +1 692-389-9906
-  ssn: 468 58 5970
-  dob: 05/26/1995
-  address: 4675 Elm Rd
-  city: Houston
-  state: OH

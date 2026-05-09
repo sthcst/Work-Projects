@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Moore,michelle.moore198@example.com,363 345 2762,260707106,05-18-1954,"9021 North Dr",New York,MI

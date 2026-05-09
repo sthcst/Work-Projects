@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Hall,jason.hall4017@business.net,(438) 959-9614,967-58-2737,05/01/1980,"6495 Third Ave",Los Angeles,NY

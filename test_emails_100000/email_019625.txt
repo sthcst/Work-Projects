@@ -1,9 +1,0 @@
-contact:
-  name: Anna Romero
-  email: anna.romero1037@company.com
-  phone: +1 686-258-8340
-  ssn: 323-78-1512
-  dob: 6/22/1976
-  address: 2957 First Rd
-  city: Austin
-  state: GA

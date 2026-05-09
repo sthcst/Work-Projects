@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Thompson,andrew.thompson9181@work.org,918-733-7414,192465379,28/09/1982,"5324 Elm Court",Denver,AZ

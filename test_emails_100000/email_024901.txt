@@ -1,9 +1,0 @@
-contact:
-  name: Paul Martin
-  email: paul.martin53@outlook.com
-  phone: +1 848-880-4870
-  ssn: 787 31 4741
-  dob: 03/18/1985
-  address: 1655 West Ln
-  city: Seattle
-  state: MA

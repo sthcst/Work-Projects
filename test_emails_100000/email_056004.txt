@@ -1,9 +1,0 @@
-contact:
-  name: George Lee
-  email: george.lee8518@business.net
-  phone: (953) 339-4408
-  ssn: 706722438
-  dob: 02-01-2002
-  address: 5298 Fourth Dr
-  city: Washington
-  state: TX

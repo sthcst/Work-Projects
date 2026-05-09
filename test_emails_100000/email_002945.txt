@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Campbell,joshua.campbell5106@business.net,293-671-6192,310777029,08/27/1954,"7236 Main Dr",Dallas,MI

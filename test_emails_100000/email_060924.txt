@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Walker,donald.walker1398@work.org,(501) 630-1055,184-33-2261,02-28-1954,"4037 Main Ave",Denver,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Jones,amanda.jones4803@mail.com,(332) 293-8035,014-07-6314,1/1/1992,"5276 West Dr",Phoenix,TX

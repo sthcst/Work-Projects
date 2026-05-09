@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Hernandez,katherine.hernandez3409@gmail.com,686-315-7638,846 09 3279,5/28/1987,"3597 Cedar Court",Jacksonville,IL

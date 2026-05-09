@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Clark,jennifer.clark8194@outlook.com,+1 992-230-6056,472 07 3458,03/07/1959,"5412 West Way",New York,WA

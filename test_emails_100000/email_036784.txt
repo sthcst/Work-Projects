@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Reed,maria.reed8429@company.com,917-669-9489,524-23-4886,8/1/1971,"2704 Fourth Way",Philadelphia,TX

@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Clark
-  email: joseph.clark8003@gmail.com
-  phone: 428 403 5987
-  ssn: 902342697
-  dob: 17/11/1981
-  address: 3934 Third Ln
-  city: Jacksonville
-  state: MA

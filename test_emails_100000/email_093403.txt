@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Hall,emma.hall7132@example.com,(277) 500-2271,419 31 9420,12-10-1956,"5956 Summer Dr",Dallas,WI

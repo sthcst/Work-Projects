@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Thompson
-  email: rebecca.thompson4813@work.org
-  phone: +1 991-745-6667
-  ssn: 153-44-5674
-  dob: 01-17-1952
-  address: 7221 Sixth Way
-  city: Dallas
-  state: TX

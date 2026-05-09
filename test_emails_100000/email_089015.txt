@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Rogers,donald.rogers9306@mail.com,256 941 7404,694 75 4435,08/25/1997,"9365 Main Ave",Houston,TX

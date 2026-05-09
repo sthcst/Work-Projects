@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Peterson,rachel.peterson4089@business.net,274-511-4054,752-32-3304,07-01-1973,"1296 Sixth Way",Washington,WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Phillips,brenda.phillips7970@yahoo.com,283-940-9479,270 70 8426,14/04/1959,"9120 East Way",Los Angeles,VA

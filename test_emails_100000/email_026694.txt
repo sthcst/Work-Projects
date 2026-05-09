@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Thomas
-  email: joseph.thomas3143@yahoo.com
-  phone: (907) 304-4542
-  ssn: 485 99 2149
-  dob: 15/03/1973
-  address: 2607 Fourth Ln
-  city: Boston
-  state: NC

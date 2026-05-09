@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Walker,angela.walker8337@outlook.com,+1 365-753-8076,707-58-8550,7/13/1950,"5591 First Rd",Los Angeles,NY

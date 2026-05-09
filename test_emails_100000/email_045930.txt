@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Flores
-  email: jessica.flores8376@outlook.com
-  phone: 787-862-5005
-  ssn: 594977834
-  dob: 07/10/1992
-  address: 5147 South Ave
-  city: San Jose
-  state: WA

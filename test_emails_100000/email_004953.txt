@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Perez,shirley.perez249@work.org,407-220-1375,678 81 6727,09/25/1963,"3972 Oak Blvd",Phoenix,MI

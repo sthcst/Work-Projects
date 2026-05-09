@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Alvarado
-  email: lauren.alvarado5959@example.com
-  phone: +1 844-224-2210
-  ssn: 804-14-5782
-  dob: 5/14/1956
-  address: 8985 Fifth Ln
-  city: New York
-  state: PA

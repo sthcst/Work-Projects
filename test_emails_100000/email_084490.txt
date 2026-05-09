@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Murillo,michael.murillo4824@company.com,746 291 5258,946999175,09/08/1964,"1490 Birch Ave",Los Angeles,FL

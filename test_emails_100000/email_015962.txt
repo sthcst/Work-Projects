@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Serrano,anthony.serrano7721@mail.com,334 781 4683,522221878,01/04/1978,"7489 Spring Ln",Houston,PA

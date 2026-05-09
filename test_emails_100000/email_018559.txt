@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Young,cynthia.young4542@mail.com,639 369 5411,104 87 5686,03-14-1989,"2444 Fourth Rd",Boston,WA

@@ -1,9 +1,0 @@
-contact:
-  name: Michael Reyes
-  email: michael.reyes4506@work.org
-  phone: 760-369-2648
-  ssn: 836992220
-  dob: 4/4/1989
-  address: 5371 Elm St
-  city: Denver
-  state: MO

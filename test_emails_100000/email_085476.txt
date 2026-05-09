@@ -1,9 +1,0 @@
-contact:
-  name: Brian Sanchez
-  email: brian.sanchez5138@yahoo.com
-  phone: (644) 795-8510
-  ssn: 230-25-4346
-  dob: 19/07/1998
-  address: 5654 First Way
-  city: Seattle
-  state: GA

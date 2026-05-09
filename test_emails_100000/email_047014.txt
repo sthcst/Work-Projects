@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Alvarado
-  email: pamela.alvarado4406@gmail.com
-  phone: 800-581-6412
-  ssn: 250 62 2289
-  dob: 6/10/1998
-  address: 1953 Cedar Way
-  city: Jacksonville
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Wilson,joshua.wilson3789@business.net,+1 582-907-3679,154 30 4284,10/14/1958,"6220 North Dr",Philadelphia,TN

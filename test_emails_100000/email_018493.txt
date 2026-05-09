@@ -1,9 +1,0 @@
-contact:
-  name: Donald Walker
-  email: donald.walker6620@business.net
-  phone: 789-518-4303
-  ssn: 243811402
-  dob: 05/15/2001
-  address: 9569 Cedar Blvd
-  city: San Antonio
-  state: AZ

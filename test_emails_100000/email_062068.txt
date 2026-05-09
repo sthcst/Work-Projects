@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Phillips,christine.phillips8897@example.com,527-876-1056,189-15-8244,9/7/1963,"1134 Third Ln",San Jose,GA

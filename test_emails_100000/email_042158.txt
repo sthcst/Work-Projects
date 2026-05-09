@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Alvarado,jessica.alvarado716@business.net,480 216 1883,268591198,11-14-1955,"362 Pine Way",Jacksonville,MA

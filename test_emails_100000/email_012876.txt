@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Smith
-  email: michelle.smith5909@work.org
-  phone: +1 951-808-4597
-  ssn: 720248961
-  dob: 2/12/1984
-  address: 8168 Fifth Ave
-  city: Philadelphia
-  state: TX

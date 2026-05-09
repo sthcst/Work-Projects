@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Collins,jacob.collins8059@business.net,513 791 7163,642-32-3992,05/18/2001,"9350 East Dr",Philadelphia,MO

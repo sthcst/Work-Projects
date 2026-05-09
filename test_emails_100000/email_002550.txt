@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Williams
-  email: stephanie.williams578@company.com
-  phone: (430) 236-3660
-  ssn: 012 15 3223
-  dob: 18/11/2005
-  address: 1001 Pine Court
-  city: San Diego
-  state: FL

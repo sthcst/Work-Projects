@@ -1,9 +1,0 @@
-contact:
-  name: Sarah White
-  email: sarah.white1531@outlook.com
-  phone: +1 452-366-1611
-  ssn: 934765185
-  dob: 11/15/1975
-  address: 8391 Park St
-  city: New York
-  state: CO

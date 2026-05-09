@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Stewart
-  email: pamela.stewart9358@business.net
-  phone: +1 545-799-6229
-  ssn: 597-50-8774
-  dob: 3/16/2003
-  address: 2197 Maple Way
-  city: San Jose
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: Edward Martin
-  email: edward.martin8906@yahoo.com
-  phone: 594 851 6176
-  ssn: 616-40-1091
-  dob: 03/12/2000
-  address: 1181 Spring Ln
-  city: Washington
-  state: MA

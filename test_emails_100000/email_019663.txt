@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Peterson,robert.peterson5585@mail.com,(576) 950-7281,985272120,2/6/1981,"4361 Second Court",San Diego,PA

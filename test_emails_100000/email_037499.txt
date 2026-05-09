@@ -1,9 +1,0 @@
-contact:
-  name: George White
-  email: george.white8514@work.org
-  phone: +1 329-676-9668
-  ssn: 011-25-6382
-  dob: 21/03/1963
-  address: 6751 Pine St
-  city: Phoenix
-  state: AZ

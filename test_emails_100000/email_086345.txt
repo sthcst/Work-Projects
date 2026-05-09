@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Collins,robert.collins4650@example.com,653-659-9448,913-42-7907,10/27/1977,"8408 Maple St",Los Angeles,WA

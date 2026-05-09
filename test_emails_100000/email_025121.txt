@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Ramirez,jason.ramirez5272@mail.com,717 702 8105,302 14 5214,20/05/1967,"9066 Spring Way",San Antonio,CO

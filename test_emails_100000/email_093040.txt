@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Wilson
-  email: stephanie.wilson9319@mail.com
-  phone: (946) 544-7904
-  ssn: 224-65-8941
-  dob: 08-14-1982
-  address: 3023 Park Ave
-  city: Los Angeles
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Serrano,lisa.serrano357@business.net,205 562 8761,734-21-9109,09/28/1952,"3991 East Blvd",Houston,TX

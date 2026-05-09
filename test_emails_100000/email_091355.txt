@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Garcia
-  email: cynthia.garcia907@outlook.com
-  phone: (886) 971-4573
-  ssn: 359189463
-  dob: 09/10/1995
-  address: 459 East Ln
-  city: Boston
-  state: TX

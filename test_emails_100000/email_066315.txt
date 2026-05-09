@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Campbell
-  email: joshua.campbell2879@example.com
-  phone: 451 305 5569
-  ssn: 530747333
-  dob: 02-19-1958
-  address: 2246 Pine Blvd
-  city: San Diego
-  state: CA

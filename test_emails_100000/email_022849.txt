@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Serrano,pamela.serrano9961@outlook.com,517-889-6247,118 05 3993,01/03/1985,"2937 Second Rd",Jacksonville,WA

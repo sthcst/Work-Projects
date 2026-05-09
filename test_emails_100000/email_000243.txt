@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Martinez,daniel.martinez4544@gmail.com,+1 597-540-1984,265 34 3915,16/02/1962,"2933 Second Ave",Phoenix,GA

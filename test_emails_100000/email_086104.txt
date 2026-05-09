@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Peterson,mark.peterson7294@work.org,399-335-7871,645-30-2285,03/05/1950,"3711 East Dr",New York,GA

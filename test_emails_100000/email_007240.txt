@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Dominguez,george.dominguez5368@example.com,+1 543-861-5514,222 28 5888,04-26-1963,"4363 Sixth Ln",San Jose,MI

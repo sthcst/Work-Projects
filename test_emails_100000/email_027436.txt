@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Jimenez
-  email: katherine.jimenez6412@work.org
-  phone: (639) 412-8908
-  ssn: 854 46 1100
-  dob: 12-12-1967
-  address: 2344 Summer Court
-  city: Houston
-  state: OH

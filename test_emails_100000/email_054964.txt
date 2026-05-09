@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Anderson,samantha.anderson8471@example.com,+1 959-755-3967,179-26-1306,05-14-1997,"1727 North St",New York,AZ

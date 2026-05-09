@@ -1,9 +1,0 @@
-contact:
-  name: Angela Reyes
-  email: angela.reyes7806@mail.com
-  phone: +1 589-501-8023
-  ssn: 193-78-2175
-  dob: 09/26/1955
-  address: 8190 Summer Ave
-  city: Boston
-  state: TX

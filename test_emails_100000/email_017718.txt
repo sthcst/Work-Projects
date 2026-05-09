@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Young
-  email: anthony.young8946@business.net
-  phone: (626) 478-9604
-  ssn: 794669480
-  dob: 1/14/1951
-  address: 6134 Maple Blvd
-  city: Boston
-  state: PA

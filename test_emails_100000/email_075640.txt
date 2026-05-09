@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Walker
-  email: matthew.walker5301@yahoo.com
-  phone: 345-994-1264
-  ssn: 950 37 4344
-  dob: 22/06/1971
-  address: 4078 Sixth St
-  city: Washington
-  state: WA

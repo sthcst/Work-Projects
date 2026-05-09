@@ -1,9 +1,0 @@
-contact:
-  name: James Thomas
-  email: james.thomas3606@business.net
-  phone: 614-430-1593
-  ssn: 090 52 7343
-  dob: 27/01/1969
-  address: 9852 East St
-  city: Houston
-  state: TX

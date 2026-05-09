@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Reed,kevin.reed9959@work.org,586-510-3392,677 48 1018,11-28-1989,"870 Sixth Ln",Washington,GA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Carter,ronald.carter3470@mail.com,637-358-2659,152-58-8958,05/25/1980,"8640 Park Blvd",Chicago,TX

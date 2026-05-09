@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Rodriguez,gary.rodriguez3181@mail.com,+1 257-913-7525,022 69 5641,04/19/1967,"3522 Maple Rd",Boston,MA

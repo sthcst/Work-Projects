@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Lopez
-  email: kenneth.lopez4067@yahoo.com
-  phone: 335 482 7555
-  ssn: 984229306
-  dob: 09/22/1951
-  address: 4290 Second Court
-  city: San Jose
-  state: WI

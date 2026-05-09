@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Nelson,kimberly.nelson9756@company.com,297-940-6313,594 26 7855,05-18-1984,"2549 Second Rd",Phoenix,MA

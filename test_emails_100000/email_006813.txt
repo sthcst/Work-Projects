@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Parker,paul.parker9619@company.com,+1 532-829-8360,264388084,03/16/1961,"1728 Maple Blvd",San Jose,AZ

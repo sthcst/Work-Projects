@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Dominguez
-  email: pamela.dominguez8683@mail.com
-  phone: 874 430 7387
-  ssn: 067 72 9083
-  dob: 06/18/1963
-  address: 4689 Fifth Ln
-  city: Chicago
-  state: WA

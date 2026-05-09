@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Martin,katherine.martin8152@work.org,(458) 330-9405,670544216,01-21-2003,"951 Third St",Houston,WA

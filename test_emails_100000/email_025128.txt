@@ -1,9 +1,0 @@
-contact:
-  name: James Reyes
-  email: james.reyes7744@company.com
-  phone: 644-296-1537
-  ssn: 344 98 9813
-  dob: 09-25-1984
-  address: 8325 South Court
-  city: San Jose
-  state: MI

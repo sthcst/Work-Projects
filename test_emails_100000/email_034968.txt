@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Lopez,james.lopez2242@company.com,(316) 400-5116,929293862,02-13-1959,"3064 Third St",Houston,MD

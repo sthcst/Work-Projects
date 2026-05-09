@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Davis,anna.davis2458@work.org,(359) 537-2776,630 41 6302,2/25/1989,"9833 Cedar Ln",Seattle,CA

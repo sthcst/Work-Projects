@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Reed,michael.reed5459@outlook.com,+1 938-499-4928,097323679,2/11/1977,"609 West Court",San Jose,NC

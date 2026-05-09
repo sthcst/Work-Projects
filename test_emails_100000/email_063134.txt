@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Brown,lauren.brown692@gmail.com,806 266 2679,076-80-8582,9/5/1969,"2098 Sixth Ave",San Jose,NJ

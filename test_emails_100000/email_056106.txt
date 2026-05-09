@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Peterson
-  email: shirley.peterson7119@business.net
-  phone: 242 661 3572
-  ssn: 893 36 6394
-  dob: 3/2/1952
-  address: 9116 Elm Court
-  city: Los Angeles
-  state: FL

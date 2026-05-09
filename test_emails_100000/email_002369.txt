@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Roberts,samantha.roberts4961@work.org,(385) 285-8777,656 58 9337,05-11-1979,"7825 First St",Boston,CA

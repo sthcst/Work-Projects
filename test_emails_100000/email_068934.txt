@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Ramirez,katherine.ramirez8477@outlook.com,593-793-9235,440924078,07-15-2003,"8869 Cedar Ln",San Antonio,CA

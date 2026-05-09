@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Collins,jennifer.collins447@outlook.com,+1 572-225-1881,978127122,14/05/1972,"541 Spring Way",Jacksonville,WI

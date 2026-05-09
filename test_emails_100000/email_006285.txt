@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Evans,donald.evans7791@mail.com,+1 257-553-9889,987-21-2008,02-19-1988,"1256 Maple Court",Phoenix,TX

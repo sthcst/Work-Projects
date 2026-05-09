@@ -1,9 +1,0 @@
-contact:
-  name: Brian Thomas
-  email: brian.thomas844@gmail.com
-  phone: 729 815 1118
-  ssn: 031-81-1321
-  dob: 08/16/1961
-  address: 8456 West Way
-  city: San Diego
-  state: OH

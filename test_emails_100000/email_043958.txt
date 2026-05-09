@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Robinson,rachel.robinson7784@company.com,(255) 753-3103,531-46-1251,18/12/1961,"2887 South St",New York,NC

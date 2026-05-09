@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Flores
-  email: matthew.flores6580@gmail.com
-  phone: 898 987 3347
-  ssn: 101316608
-  dob: 16/10/1981
-  address: 7870 Summer Dr
-  city: Austin
-  state: PA

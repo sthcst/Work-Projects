@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Harris,andrew.harris6507@mail.com,942-514-8864,624-92-7465,09-17-1953,"2834 East Court",Phoenix,WA

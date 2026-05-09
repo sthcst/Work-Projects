@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Thompson
-  email: deborah.thompson1454@yahoo.com
-  phone: 542 904 4871
-  ssn: 815 06 1765
-  dob: 10/03/1980
-  address: 9996 Summer St
-  city: Dallas
-  state: CO

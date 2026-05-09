@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Nelson,michelle.nelson38@mail.com,582-636-5875,710748319,7/19/1996,"4021 Maple Court",Houston,AZ

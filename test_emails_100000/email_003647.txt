@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Flores
-  email: rachel.flores2596@work.org
-  phone: 883 557 3220
-  ssn: 384654649
-  dob: 06/05/1971
-  address: 3005 Park Court
-  city: San Jose
-  state: TX

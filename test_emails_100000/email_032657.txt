@@ -1,9 +1,0 @@
-contact:
-  name: Donald Sanchez
-  email: donald.sanchez9554@gmail.com
-  phone: 472 376 2322
-  ssn: 087-94-5071
-  dob: 02-23-1979
-  address: 5969 Sixth Dr
-  city: Phoenix
-  state: WI

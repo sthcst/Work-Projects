@@ -1,9 +1,0 @@
-contact:
-  name: Maria Young
-  email: maria.young9440@work.org
-  phone: 702 567 6850
-  ssn: 068-26-6785
-  dob: 11-02-1971
-  address: 3059 Summer Ave
-  city: San Antonio
-  state: DC

@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Guerrero
-  email: stephanie.guerrero8264@company.com
-  phone: (324) 976-7583
-  ssn: 866023797
-  dob: 05-25-2005
-  address: 8687 Second Dr
-  city: Chicago
-  state: TN

@@ -1,9 +1,0 @@
-contact:
-  name: Angela Clark
-  email: angela.clark9079@mail.com
-  phone: 930 900 7339
-  ssn: 932-56-4761
-  dob: 12/18/1984
-  address: 8523 Summer Way
-  city: Dallas
-  state: FL

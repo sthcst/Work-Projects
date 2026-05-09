@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Guerrero
-  email: rachel.guerrero6132@company.com
-  phone: 293-797-6530
-  ssn: 491437226
-  dob: 7/28/1985
-  address: 7569 Second Ln
-  city: Jacksonville
-  state: DC

@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Lee
-  email: daniel.lee4983@gmail.com
-  phone: +1 852-857-5485
-  ssn: 417786084
-  dob: 15/12/1985
-  address: 183 South Way
-  city: Los Angeles
-  state: DC

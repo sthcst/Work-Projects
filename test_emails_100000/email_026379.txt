@@ -1,9 +1,0 @@
-contact:
-  name: Gary Jimenez
-  email: gary.jimenez6735@company.com
-  phone: 702-996-1273
-  ssn: 007-31-6496
-  dob: 04/03/1979
-  address: 9293 Elm Dr
-  city: San Diego
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Gary Robinson
-  email: gary.robinson6920@mail.com
-  phone: 574 268 2949
-  ssn: 049-94-7828
-  dob: 6/8/1954
-  address: 9067 Park St
-  city: Philadelphia
-  state: TX

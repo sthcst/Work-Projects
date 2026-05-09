@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Williams,emily.williams9388@gmail.com,(753) 293-7851,490 34 6034,19/01/1988,"7826 Fifth Way",Los Angeles,DC

@@ -1,9 +1,0 @@
-contact:
-  name: Helen Gomez
-  email: helen.gomez7671@yahoo.com
-  phone: (302) 649-5294
-  ssn: 315527224
-  dob: 04-18-1953
-  address: 3214 Elm Way
-  city: San Jose
-  state: WI

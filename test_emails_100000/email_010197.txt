@@ -1,9 +1,0 @@
-contact:
-  name: Angela Nunez
-  email: angela.nunez3962@work.org
-  phone: 365-591-8786
-  ssn: 594 19 6636
-  dob: 03/23/1995
-  address: 1437 West St
-  city: Jacksonville
-  state: PA

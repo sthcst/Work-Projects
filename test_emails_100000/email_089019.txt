@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Cooper
-  email: ashley.cooper2266@company.com
-  phone: 568-325-2626
-  ssn: 648-61-1828
-  dob: 10/6/1991
-  address: 9816 Third Court
-  city: Dallas
-  state: VA

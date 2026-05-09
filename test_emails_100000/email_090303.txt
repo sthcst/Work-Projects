@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Evans,stephanie.evans8858@work.org,+1 299-397-9843,148-24-6168,15/11/1988,"8659 Second Blvd",San Diego,PA

@@ -1,9 +1,0 @@
-contact:
-  name: George Jimenez
-  email: george.jimenez5922@company.com
-  phone: 334-603-9290
-  ssn: 708-34-6882
-  dob: 2/6/1969
-  address: 5871 Fourth Ln
-  city: San Jose
-  state: MO

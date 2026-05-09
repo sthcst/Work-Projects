@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Lee,katherine.lee644@work.org,(735) 782-9352,686 38 6796,06-04-1986,"8353 Fifth St",Seattle,NY

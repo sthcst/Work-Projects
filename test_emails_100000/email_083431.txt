@@ -1,9 +1,0 @@
-contact:
-  name: John Reeves
-  email: john.reeves3838@gmail.com
-  phone: 201 369 2924
-  ssn: 818153880
-  dob: 26/01/1976
-  address: 9504 Third Rd
-  city: Phoenix
-  state: TX

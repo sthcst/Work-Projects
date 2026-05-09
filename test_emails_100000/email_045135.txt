@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Dominguez,pamela.dominguez1446@business.net,+1 677-725-8908,204443324,02/10/1978,"2469 Cedar Court",Washington,CA

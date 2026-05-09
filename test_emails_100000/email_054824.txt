@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Thompson,jacob.thompson1301@yahoo.com,+1 949-379-1805,818383512,8/18/1985,"540 Sixth Ave",San Diego,CA

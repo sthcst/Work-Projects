@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Delgado,megan.delgado4959@yahoo.com,666 649 2777,461728503,02/08/1961,"4981 Spring Blvd",New York,FL

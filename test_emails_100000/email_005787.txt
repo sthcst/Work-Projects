@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Jimenez,ronald.jimenez9183@yahoo.com,557-818-9580,848872608,12/04/2001,"5892 North Ln",Austin,CA

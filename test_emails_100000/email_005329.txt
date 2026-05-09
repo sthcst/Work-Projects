@@ -1,9 +1,0 @@
-contact:
-  name: Gary Alvarado
-  email: gary.alvarado3257@outlook.com
-  phone: (395) 449-1512
-  ssn: 561-84-9133
-  dob: 05/15/1960
-  address: 4496 South St
-  city: Denver
-  state: TN

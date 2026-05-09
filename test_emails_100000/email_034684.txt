@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Davis
-  email: ryan.davis5414@work.org
-  phone: 924 363 8544
-  ssn: 655 60 6585
-  dob: 06-04-1987
-  address: 439 Sixth Blvd
-  city: Dallas
-  state: CO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Collins,gary.collins4101@business.net,(605) 558-9676,583 78 6521,07-21-1953,"5977 West Ave",Jacksonville,FL

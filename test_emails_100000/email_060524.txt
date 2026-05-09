@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Thomas
-  email: cynthia.thomas924@company.com
-  phone: +1 931-279-8237
-  ssn: 688359602
-  dob: 3/15/1965
-  address: 6463 Spring Rd
-  city: Boston
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Charles Gonzalez
-  email: charles.gonzalez9643@company.com
-  phone: (270) 635-2106
-  ssn: 168 05 9913
-  dob: 02-05-1950
-  address: 6623 Pine Way
-  city: Austin
-  state: DC

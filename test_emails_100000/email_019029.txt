@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Rogers,ashley.rogers8220@outlook.com,+1 643-995-8682,790 62 6525,04/17/1959,"4370 Sixth Way",Seattle,TN

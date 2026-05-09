@@ -1,9 +1,0 @@
-contact:
-  name: Richard Moore
-  email: richard.moore6752@mail.com
-  phone: (408) 860-7408
-  ssn: 763 35 1809
-  dob: 03/12/1961
-  address: 4737 Summer Dr
-  city: San Antonio
-  state: NJ

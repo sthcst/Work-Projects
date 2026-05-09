@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Romero
-  email: timothy.romero1927@mail.com
-  phone: 820 706 7235
-  ssn: 731 61 9140
-  dob: 10/28/1955
-  address: 5118 First St
-  city: Seattle
-  state: PA

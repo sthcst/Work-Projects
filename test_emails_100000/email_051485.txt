@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Romero,megan.romero2311@outlook.com,233 451 9943,241-26-9839,7/4/1972,"4487 Fourth Blvd",San Antonio,WA

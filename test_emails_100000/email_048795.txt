@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Taylor,john.taylor6707@company.com,590 848 9062,090373490,20/12/1955,"8522 Spring Dr",Seattle,NJ

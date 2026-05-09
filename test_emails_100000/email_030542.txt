@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Parker
-  email: jessica.parker8389@mail.com
-  phone: (531) 694-4509
-  ssn: 248423281
-  dob: 01/12/1966
-  address: 5883 South Ave
-  city: Dallas
-  state: TN

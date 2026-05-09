@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Morris,kenneth.morris595@work.org,828-898-9902,178 14 1664,25/04/1997,"5891 Fourth Ln",Philadelphia,DC

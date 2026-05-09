@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Lewis
-  email: jennifer.lewis593@outlook.com
-  phone: (291) 895-2199
-  ssn: 117128276
-  dob: 12/12/1994
-  address: 7597 Elm Way
-  city: Jacksonville
-  state: WA

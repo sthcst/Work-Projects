@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Lee,jeffrey.lee5088@work.org,470-724-3954,511 53 5456,04/04/1970,"1849 Summer St",Denver,NJ

@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Hernandez
-  email: brenda.hernandez8967@example.com
-  phone: (912) 949-9664
-  ssn: 695035349
-  dob: 3/6/1953
-  address: 871 Main Court
-  city: Boston
-  state: MO

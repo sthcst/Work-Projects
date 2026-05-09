@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Edwards,deborah.edwards997@mail.com,(438) 225-7171,692 22 7981,25/02/1958,"4128 First Way",New York,MA

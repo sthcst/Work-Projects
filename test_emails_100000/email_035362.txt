@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Thomas,joseph.thomas6780@outlook.com,(884) 992-3733,523718233,28/08/2004,"3991 West Court",New York,WA

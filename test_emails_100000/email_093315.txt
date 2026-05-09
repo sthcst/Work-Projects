@@ -1,9 +1,0 @@
-contact:
-  name: John Roberts
-  email: john.roberts1271@gmail.com
-  phone: +1 208-816-7234
-  ssn: 738-50-6110
-  dob: 22/02/1969
-  address: 2106 West Way
-  city: Washington
-  state: CA

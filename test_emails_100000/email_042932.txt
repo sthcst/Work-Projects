@@ -1,9 +1,0 @@
-contact:
-  name: Edward Williams
-  email: edward.williams9727@example.com
-  phone: 214 829 3046
-  ssn: 752312313
-  dob: 07/09/1992
-  address: 4565 North Way
-  city: Seattle
-  state: MI

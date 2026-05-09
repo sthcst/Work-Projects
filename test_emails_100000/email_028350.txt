@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Robinson,brenda.robinson5577@work.org,853 308 2281,605-97-6136,24/01/1960,"9990 North Rd",San Jose,WI

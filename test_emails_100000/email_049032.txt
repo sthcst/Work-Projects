@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Anderson,steven.anderson1938@mail.com,+1 637-236-5904,971-26-8869,03-19-1973,"8882 Fifth Blvd",Phoenix,PA

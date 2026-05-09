@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Roberts
-  email: jeffrey.roberts2977@outlook.com
-  phone: +1 205-302-4839
-  ssn: 467-53-1595
-  dob: 08/10/1982
-  address: 3064 First Court
-  city: San Jose
-  state: VA

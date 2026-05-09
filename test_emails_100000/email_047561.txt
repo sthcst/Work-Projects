@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Stewart
-  email: michelle.stewart3414@company.com
-  phone: +1 886-835-4688
-  ssn: 616 11 7405
-  dob: 03-14-1984
-  address: 3209 Maple Way
-  city: San Antonio
-  state: WA

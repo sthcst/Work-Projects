@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Wilson,maria.wilson6953@company.com,960 513 8560,770 35 4342,11-21-1991,"4048 Fourth St",Chicago,CA

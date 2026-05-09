@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Garcia
-  email: daniel.garcia3108@example.com
-  phone: (444) 374-3285
-  ssn: 045598126
-  dob: 09/12/1988
-  address: 3498 Maple Ave
-  city: Jacksonville
-  state: MD

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Carter,richard.carter1726@gmail.com,(472) 774-4507,841-83-3641,27/12/1983,"2751 Main Way",Seattle,NY

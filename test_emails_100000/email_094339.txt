@@ -1,9 +1,0 @@
-contact:
-  name: Brian Murillo
-  email: brian.murillo1858@company.com
-  phone: 984 278 3448
-  ssn: 429-45-9708
-  dob: 02-21-1991
-  address: 579 Maple Ave
-  city: Phoenix
-  state: AZ

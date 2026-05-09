@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Garcia,jeffrey.garcia4830@example.com,405-396-3205,505-61-6265,02-02-1979,"9481 Third Court",New York,WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Davis,michael.davis309@mail.com,941 888 5243,788-62-5512,1/13/1951,"7211 East Court",Austin,MA

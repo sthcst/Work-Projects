@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Hernandez,pamela.hernandez4776@outlook.com,(576) 789-4918,181 89 8354,11/26/1954,"4192 West Dr",Jacksonville,WI

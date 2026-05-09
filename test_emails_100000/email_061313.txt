@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Johnson,katherine.johnson8016@work.org,(367) 634-9956,724384346,14/07/1978,"789 Second Court",Austin,FL

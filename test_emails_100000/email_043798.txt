@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Moore,pamela.moore6998@yahoo.com,(285) 941-9908,631176379,12/20/1963,"6648 Maple Ln",Boston,CA

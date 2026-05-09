@@ -1,9 +1,0 @@
-contact:
-  name: Jason Walker
-  email: jason.walker2538@work.org
-  phone: 468-232-3041
-  ssn: 316 20 2670
-  dob: 02/17/1983
-  address: 1923 Second Rd
-  city: Washington
-  state: WA

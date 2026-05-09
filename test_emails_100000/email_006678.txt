@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Thompson,katherine.thompson3427@outlook.com,462-514-1407,863-17-1894,08-27-1988,"2576 Fourth Way",Chicago,CA

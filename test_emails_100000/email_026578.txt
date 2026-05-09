@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Jimenez,kimberly.jimenez279@example.com,+1 447-785-8947,307503311,2/12/1965,"9634 Second St",Boston,MA

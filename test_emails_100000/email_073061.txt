@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Gomez
-  email: timothy.gomez2410@gmail.com
-  phone: +1 716-703-1964
-  ssn: 563-79-9909
-  dob: 06/05/1952
-  address: 8570 Spring Ln
-  city: Philadelphia
-  state: AZ

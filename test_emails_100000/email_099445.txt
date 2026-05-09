@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Phillips
-  email: sarah.phillips4840@outlook.com
-  phone: +1 363-457-1863
-  ssn: 077219853
-  dob: 10-17-1997
-  address: 7956 North Way
-  city: San Antonio
-  state: WI

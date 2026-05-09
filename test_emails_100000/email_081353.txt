@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Roberts,matthew.roberts4922@company.com,+1 756-908-4298,269 32 1282,10-19-1953,"5824 Pine Ave",Los Angeles,WA

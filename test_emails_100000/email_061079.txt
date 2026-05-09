@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Martinez
-  email: ashley.martinez1267@example.com
-  phone: (408) 879-1415
-  ssn: 748 06 4106
-  dob: 11/09/1987
-  address: 5498 Summer Ln
-  city: Houston
-  state: CA

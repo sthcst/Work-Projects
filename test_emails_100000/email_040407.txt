@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Bell
-  email: lisa.bell9831@example.com
-  phone: (532) 356-4168
-  ssn: 889 28 9293
-  dob: 09/20/1973
-  address: 1171 North St
-  city: Austin
-  state: FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Martinez,shirley.martinez1491@yahoo.com,748 290 9037,232726715,10/6/1996,"3987 Main St",Boston,VA

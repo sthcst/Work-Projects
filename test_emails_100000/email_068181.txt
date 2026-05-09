@@ -1,9 +1,0 @@
-contact:
-  name: Angela Reed
-  email: angela.reed7646@yahoo.com
-  phone: 509 200 5184
-  ssn: 984-88-4726
-  dob: 13/08/1999
-  address: 6040 Summer Rd
-  city: Jacksonville
-  state: PA

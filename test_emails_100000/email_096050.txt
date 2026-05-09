@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Thompson
-  email: timothy.thompson5498@outlook.com
-  phone: 418-574-7478
-  ssn: 653 84 1646
-  dob: 22/05/1987
-  address: 4193 Maple Ln
-  city: Denver
-  state: DC

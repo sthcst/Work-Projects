@@ -1,9 +1,0 @@
-contact:
-  name: Anna Thompson
-  email: anna.thompson1331@outlook.com
-  phone: 256 689 8822
-  ssn: 574261336
-  dob: 12/17/2003
-  address: 2346 Summer Ave
-  city: Denver
-  state: CO

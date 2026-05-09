@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Morris,joshua.morris6961@company.com,734-906-1525,178 45 3886,1/2/1953,"3090 Fourth Rd",San Antonio,WA

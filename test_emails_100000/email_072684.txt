@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Taylor,daniel.taylor7616@mail.com,543-236-2814,640-09-2296,12/20/1962,"128 Sixth Rd",Los Angeles,NC

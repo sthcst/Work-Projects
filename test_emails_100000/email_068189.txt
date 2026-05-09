@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Delgado,jennifer.delgado6651@yahoo.com,+1 871-760-3974,390-34-8696,03/07/1999,"2129 Oak Rd",Los Angeles,TX

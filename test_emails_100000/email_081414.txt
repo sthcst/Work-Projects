@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Brown,gary.brown8908@mail.com,(777) 422-4897,686 08 5226,05-08-1998,"3074 North Blvd",San Jose,OH

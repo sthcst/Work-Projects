@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Moore
-  email: ronald.moore6065@example.com
-  phone: +1 438-961-1972
-  ssn: 257-26-3307
-  dob: 02-19-1986
-  address: 268 Fourth Rd
-  city: Washington
-  state: WA

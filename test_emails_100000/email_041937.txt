@@ -1,9 +1,0 @@
-contact:
-  name: Christine Parker
-  email: christine.parker1919@gmail.com
-  phone: 294-771-4868
-  ssn: 004 25 6901
-  dob: 20/06/1965
-  address: 9508 Main Way
-  city: Seattle
-  state: TN

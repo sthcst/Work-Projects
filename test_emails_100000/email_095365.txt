@@ -1,9 +1,0 @@
-contact:
-  name: Gary Brown
-  email: gary.brown5048@yahoo.com
-  phone: 582-674-4970
-  ssn: 690223317
-  dob: 04/01/2005
-  address: 3059 Sixth Ave
-  city: Phoenix
-  state: CA

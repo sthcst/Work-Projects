@@ -1,9 +1,0 @@
-contact:
-  name: Paul Nelson
-  email: paul.nelson4718@work.org
-  phone: +1 873-597-3349
-  ssn: 911019628
-  dob: 08/18/1950
-  address: 8005 Spring Court
-  city: San Jose
-  state: TN

@@ -1,9 +1,0 @@
-contact:
-  name: Richard Collins
-  email: richard.collins8804@outlook.com
-  phone: (564) 316-4413
-  ssn: 487108041
-  dob: 01/20/1984
-  address: 1944 West Ln
-  city: Seattle
-  state: WI

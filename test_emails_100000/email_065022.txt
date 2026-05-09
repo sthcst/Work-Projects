@@ -1,9 +1,0 @@
-contact:
-  name: George Edwards
-  email: george.edwards6490@business.net
-  phone: 879-789-8470
-  ssn: 186 40 4314
-  dob: 11/05/1961
-  address: 3291 Third Way
-  city: Boston
-  state: NY

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Hernandez,christine.hernandez7572@example.com,543-990-2187,670-06-7832,7/2/1964,"1567 Maple St",Phoenix,MA

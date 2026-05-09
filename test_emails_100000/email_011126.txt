@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Morris
-  email: jeffrey.morris4948@yahoo.com
-  phone: +1 766-683-9196
-  ssn: 407 79 8824
-  dob: 23/01/1961
-  address: 6408 Park Blvd
-  city: Phoenix
-  state: FL

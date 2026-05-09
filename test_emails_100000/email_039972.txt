@@ -1,9 +1,0 @@
-contact:
-  name: James Young
-  email: james.young5790@company.com
-  phone: (700) 825-8011
-  ssn: 822 88 4066
-  dob: 9/19/1955
-  address: 4260 Third Way
-  city: Dallas
-  state: CA

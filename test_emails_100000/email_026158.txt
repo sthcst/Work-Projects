@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Harris
-  email: rachel.harris2503@outlook.com
-  phone: (501) 686-5212
-  ssn: 468 65 5416
-  dob: 11/18/1960
-  address: 7518 West Dr
-  city: Austin
-  state: CA

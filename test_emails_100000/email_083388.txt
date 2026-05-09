@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Carter,maria.carter7592@example.com,648-543-4842,823813795,05-01-1988,"8276 Elm St",Denver,MI

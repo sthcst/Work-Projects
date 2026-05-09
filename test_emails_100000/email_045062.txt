@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Gonzalez,katherine.gonzalez2547@example.com,(619) 813-9022,200 08 7648,5/7/1968,"6243 Third Ln",Houston,NJ

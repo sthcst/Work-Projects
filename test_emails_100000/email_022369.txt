@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Campbell,steven.campbell1713@outlook.com,(253) 748-8140,812428792,2/20/1974,"4847 Elm Ave",Austin,NC

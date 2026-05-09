@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Gonzalez,emily.gonzalez4226@example.com,+1 702-657-3201,915-56-5843,21/09/1969,"1869 Maple Court",Dallas,MA

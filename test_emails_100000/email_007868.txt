@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Reyes,ronald.reyes7983@gmail.com,+1 253-229-3662,049 20 6155,03/16/1984,"2792 Park Court",Phoenix,DC

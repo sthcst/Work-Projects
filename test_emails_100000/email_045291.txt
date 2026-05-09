@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Martin
-  email: rachel.martin6348@example.com
-  phone: 387 472 1284
-  ssn: 353-03-4474
-  dob: 4/10/1977
-  address: 1668 Park Ave
-  city: Austin
-  state: PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Murillo,gary.murillo7675@gmail.com,+1 369-590-7842,002674173,03-21-1982,"4005 South Ave",San Jose,MD

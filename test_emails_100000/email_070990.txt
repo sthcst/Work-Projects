@@ -1,9 +1,0 @@
-contact:
-  name: David Delgado
-  email: david.delgado4793@mail.com
-  phone: 732-397-2620
-  ssn: 482-25-5945
-  dob: 12/16/1952
-  address: 762 Oak Ln
-  city: Phoenix
-  state: NC

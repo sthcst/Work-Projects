@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Nunez,lauren.nunez1735@yahoo.com,+1 267-529-9636,047-25-3439,05/07/1981,"9515 Summer Court",Los Angeles,CA

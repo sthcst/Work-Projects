@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Rodriguez,jacob.rodriguez7359@business.net,+1 774-961-2619,216 68 2566,06/16/2004,"5884 West Blvd",Seattle,MA

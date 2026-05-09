@@ -1,9 +1,0 @@
-contact:
-  name: Angela Flores
-  email: angela.flores1956@mail.com
-  phone: 662-995-4912
-  ssn: 882259582
-  dob: 8/20/1999
-  address: 578 Birch Dr
-  city: Chicago
-  state: WI

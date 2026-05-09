@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Ramirez,amanda.ramirez6903@yahoo.com,904-405-4926,846839538,14/03/1952,"8300 Fourth Rd",Chicago,FL

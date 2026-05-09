@@ -1,9 +1,0 @@
-contact:
-  name: Helen Lopez
-  email: helen.lopez9286@gmail.com
-  phone: +1 260-590-8482
-  ssn: 323668367
-  dob: 07-17-1971
-  address: 3459 Fifth Ave
-  city: San Antonio
-  state: CA

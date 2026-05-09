@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Morgan,ronald.morgan3793@outlook.com,302-202-1727,181-67-2195,12-18-1951,"2904 North St",Seattle,TX

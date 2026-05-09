@@ -1,9 +1,0 @@
-contact:
-  name: Richard Collins
-  email: richard.collins7790@outlook.com
-  phone: 858-570-5990
-  ssn: 735 82 8097
-  dob: 03/01/1991
-  address: 1243 Fifth Ave
-  city: Denver
-  state: AZ

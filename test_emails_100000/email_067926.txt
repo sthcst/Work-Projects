@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Phillips,samantha.phillips2155@company.com,429 322 1007,162-13-1626,5/16/1954,"8456 West St",San Jose,IL

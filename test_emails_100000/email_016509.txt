@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Carter,katherine.carter8237@work.org,916-394-8994,545 47 4149,09-22-1987,"7318 Third St",New York,MO

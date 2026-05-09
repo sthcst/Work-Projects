@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Thompson,anthony.thompson8599@business.net,872-990-9073,707062971,10/19/1971,"8640 South St",Washington,NJ

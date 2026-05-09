@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Edwards
-  email: sarah.edwards3347@yahoo.com
-  phone: (280) 502-8545
-  ssn: 096301405
-  dob: 11/05/1954
-  address: 7198 Park Rd
-  city: Austin
-  state: MO

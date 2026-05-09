@@ -1,9 +1,0 @@
-contact:
-  name: Mark Guerrero
-  email: mark.guerrero917@example.com
-  phone: 353-903-2806
-  ssn: 043-52-1929
-  dob: 11/13/1962
-  address: 7211 Second Dr
-  city: Austin
-  state: VA

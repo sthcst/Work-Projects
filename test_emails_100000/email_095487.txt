@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Reed
-  email: ronald.reed161@work.org
-  phone: +1 584-231-9892
-  ssn: 551 86 5266
-  dob: 8/18/1994
-  address: 1619 Elm Dr
-  city: San Antonio
-  state: FL

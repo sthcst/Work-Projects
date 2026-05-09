@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Miller
-  email: kenneth.miller2694@outlook.com
-  phone: +1 277-878-5308
-  ssn: 039332620
-  dob: 05/13/2004
-  address: 9322 Spring Blvd
-  city: Philadelphia
-  state: CA

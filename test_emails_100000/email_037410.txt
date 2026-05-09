@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Clark,jane.clark5793@company.com,+1 825-466-1437,858 86 8164,07/12/2000,"2236 East Ave",Denver,WA

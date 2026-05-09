@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Alvarado,paul.alvarado3954@mail.com,+1 881-792-2963,283 38 9151,12/11/1972,"1309 Summer Dr",San Diego,CA

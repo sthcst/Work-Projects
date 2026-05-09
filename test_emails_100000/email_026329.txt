@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Carter,jason.carter1408@gmail.com,(467) 318-8757,366 35 6064,03/03/1966,"6254 Third Dr",Jacksonville,NY

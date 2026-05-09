@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Stewart
-  email: kenneth.stewart496@gmail.com
-  phone: 661-662-5874
-  ssn: 681-05-2951
-  dob: 10/26/1980
-  address: 4055 Birch Rd
-  city: Houston
-  state: MA

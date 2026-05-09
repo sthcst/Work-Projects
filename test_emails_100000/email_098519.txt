@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Robinson,helen.robinson1424@outlook.com,(798) 323-5945,649394825,12/09/1950,"7338 Elm Ln",Denver,TX

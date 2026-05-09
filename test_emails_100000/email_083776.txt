@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Gomez
-  email: stephanie.gomez6256@company.com
-  phone: 460 283 8142
-  ssn: 848 80 8692
-  dob: 9/9/1995
-  address: 881 Second Dr
-  city: San Jose
-  state: WI

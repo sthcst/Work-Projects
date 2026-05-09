@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Wilson,brian.wilson6682@mail.com,701-327-3462,613-89-3131,01-27-1963,"4410 North Ln",Dallas,OH

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Walker,mark.walker4521@outlook.com,683-292-7738,824 73 9967,04/13/1967,"5498 Cedar Court",Denver,CO

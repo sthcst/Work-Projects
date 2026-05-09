@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Reeves,pamela.reeves652@work.org,483-912-4877,763-48-3994,16/06/1969,"5332 Spring Ave",Seattle,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Rogers,emma.rogers7411@yahoo.com,396 703 2989,776671791,11/5/1978,"9092 Second Ln",Phoenix,MO

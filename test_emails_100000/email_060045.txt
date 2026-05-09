@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Ortiz,jason.ortiz5813@outlook.com,+1 858-851-2373,175 42 1914,18/09/1965,"5131 Second Dr",Washington,AZ

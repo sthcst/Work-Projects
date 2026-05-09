@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Morris
-  email: cynthia.morris3333@business.net
-  phone: 420 632 3315
-  ssn: 466 04 2634
-  dob: 1/7/1950
-  address: 8912 Park Dr
-  city: Jacksonville
-  state: CA

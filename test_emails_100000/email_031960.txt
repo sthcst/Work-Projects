@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Garcia,donald.garcia4089@company.com,420-552-6429,652431210,1/21/1997,"3324 Maple St",Dallas,WI

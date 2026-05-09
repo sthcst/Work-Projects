@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Lopez,pamela.lopez6604@yahoo.com,(798) 929-2006,592963552,8/15/1971,"4145 Oak Ln",Jacksonville,WI

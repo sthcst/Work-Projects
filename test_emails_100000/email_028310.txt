@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Martin,angela.martin9718@example.com,(556) 905-1181,897-74-6028,05-03-1974,"6178 Birch Way",San Diego,DC

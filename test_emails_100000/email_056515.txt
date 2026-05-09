@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Rogers
-  email: nicholas.rogers4177@business.net
-  phone: +1 826-589-5715
-  ssn: 174183638
-  dob: 2/21/1955
-  address: 3486 Summer Ln
-  city: Los Angeles
-  state: TX

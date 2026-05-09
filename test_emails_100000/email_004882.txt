@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Flores,anna.flores4435@business.net,546 949 9742,551508431,08-17-1979,"9369 Birch Dr",Philadelphia,CA

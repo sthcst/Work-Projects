@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Carter,pamela.carter1433@example.com,(929) 719-7739,165 85 3350,01/16/1986,"2113 Park Court",Houston,MA

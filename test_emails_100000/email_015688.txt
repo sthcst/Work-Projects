@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Parker,david.parker1992@outlook.com,(725) 586-5336,841 36 4868,28/06/1962,"7996 Third St",San Jose,DC

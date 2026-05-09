@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Edwards,joseph.edwards8533@work.org,(866) 788-9193,505 40 8247,01/25/1954,"4048 Sixth Blvd",San Antonio,TX

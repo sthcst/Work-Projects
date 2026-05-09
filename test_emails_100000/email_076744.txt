@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Thompson,donald.thompson3651@gmail.com,(297) 337-9406,236-89-4639,07-18-1963,"5309 Second Blvd",Phoenix,OH

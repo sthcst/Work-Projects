@@ -1,9 +1,0 @@
-contact:
-  name: John Young
-  email: john.young4619@gmail.com
-  phone: 598-884-3207
-  ssn: 388 90 3959
-  dob: 9/18/1995
-  address: 9392 Second Rd
-  city: New York
-  state: WA

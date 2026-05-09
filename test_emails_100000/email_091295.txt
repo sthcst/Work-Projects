@@ -1,9 +1,0 @@
-contact:
-  name: Charles Gomez
-  email: charles.gomez9283@mail.com
-  phone: 260-978-9306
-  ssn: 526-31-4661
-  dob: 7/22/1988
-  address: 8735 Elm Ave
-  city: New York
-  state: FL

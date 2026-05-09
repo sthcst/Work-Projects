@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Roberts
-  email: matthew.roberts5819@mail.com
-  phone: +1 993-954-8322
-  ssn: 911117243
-  dob: 5/15/1990
-  address: 2755 North Way
-  city: Boston
-  state: MO

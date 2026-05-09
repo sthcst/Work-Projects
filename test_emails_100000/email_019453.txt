@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Reeves,mark.reeves2110@mail.com,775-286-8625,519163807,15/12/1997,"3922 Fifth Ave",New York,NJ

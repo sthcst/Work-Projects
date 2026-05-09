@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Lopez,michelle.lopez6935@work.org,627-215-9260,162 39 8603,06-08-1977,"703 West Way",San Jose,NC

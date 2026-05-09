@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Thompson,katherine.thompson4359@mail.com,450-444-3448,890308477,3/10/1999,"4354 Elm Court",Seattle,FL

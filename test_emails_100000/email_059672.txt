@@ -1,9 +1,0 @@
-contact:
-  name: Jane Hall
-  email: jane.hall1658@example.com
-  phone: (581) 610-4232
-  ssn: 656 82 3491
-  dob: 10-03-1960
-  address: 6206 Main Way
-  city: Houston
-  state: NJ

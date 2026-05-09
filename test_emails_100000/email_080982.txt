@@ -1,9 +1,0 @@
-contact:
-  name: Charles Reed
-  email: charles.reed234@mail.com
-  phone: 730 826 1582
-  ssn: 310-32-2281
-  dob: 12/02/1984
-  address: 9569 Elm Ln
-  city: New York
-  state: MI

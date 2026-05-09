@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Collins,christine.collins4239@outlook.com,+1 360-239-7558,548125964,04/13/1958,"1611 Maple Blvd",Phoenix,CO

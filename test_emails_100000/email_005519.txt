@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Robinson,andrew.robinson7502@mail.com,(913) 900-1213,737 04 7093,25/07/2004,"2216 Second Dr",Boston,AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Maria Ramirez
-  email: maria.ramirez346@yahoo.com
-  phone: +1 400-403-5847
-  ssn: 969-44-6690
-  dob: 02/01/1985
-  address: 3913 Park St
-  city: Houston
-  state: GA

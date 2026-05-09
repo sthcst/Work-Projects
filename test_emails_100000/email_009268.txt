@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Carter
-  email: ronald.carter2575@company.com
-  phone: (364) 417-1242
-  ssn: 902754850
-  dob: 11/19/1994
-  address: 8250 Sixth Way
-  city: Austin
-  state: DC

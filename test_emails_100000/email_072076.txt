@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Serrano,james.serrano3198@example.com,324-801-7045,365-24-6743,2/10/1959,"6245 East Dr",Dallas,CO

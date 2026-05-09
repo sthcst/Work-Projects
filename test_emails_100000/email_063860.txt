@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Jones
-  email: rebecca.jones1571@business.net
-  phone: (501) 439-6639
-  ssn: 507-17-1168
-  dob: 2/20/2003
-  address: 789 Oak Court
-  city: Phoenix
-  state: MO

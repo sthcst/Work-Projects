@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Lopez
-  email: rebecca.lopez3644@work.org
-  phone: (874) 683-1137
-  ssn: 237 26 7460
-  dob: 02/07/1981
-  address: 8002 Fourth Court
-  city: Jacksonville
-  state: NJ

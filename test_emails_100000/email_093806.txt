@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Carter,william.carter125@outlook.com,425 365 2772,032-66-8890,02-05-1990,"9496 South Ave",San Antonio,MA

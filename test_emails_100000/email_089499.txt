@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Lopez,edward.lopez1355@yahoo.com,+1 329-998-8835,489534015,01/08/1981,"2545 North Way",Seattle,WA

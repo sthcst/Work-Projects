@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Parker
-  email: nicole.parker6407@company.com
-  phone: +1 849-991-3794
-  ssn: 046144961
-  dob: 05-06-1965
-  address: 2031 Birch St
-  city: New York
-  state: AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Rodriguez,emily.rodriguez9648@work.org,+1 449-475-7586,641 83 6366,04/25/1965,"2697 Fifth Court",San Jose,WA

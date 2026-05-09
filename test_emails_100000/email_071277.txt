@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Guerrero
-  email: lisa.guerrero3969@gmail.com
-  phone: +1 927-664-1140
-  ssn: 611-95-1980
-  dob: 02/21/1971
-  address: 7715 Fifth Ave
-  city: Los Angeles
-  state: MD

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Jackson,gary.jackson9163@business.net,(630) 795-4920,574242311,01/04/1952,"3703 First Rd",Phoenix,WA

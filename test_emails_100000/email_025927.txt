@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Jackson,pamela.jackson9953@gmail.com,+1 202-224-8319,151019373,12-15-1982,"4199 South Dr",San Jose,CA

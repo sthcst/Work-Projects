@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Flores,rachel.flores4327@outlook.com,(833) 891-1506,116195296,05/12/2002,"8014 Oak Way",San Antonio,TX

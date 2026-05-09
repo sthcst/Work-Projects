@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Davis,helen.davis2526@business.net,905-461-8857,532-51-8253,11/9/1974,"3389 Cedar Ln",Phoenix,TN

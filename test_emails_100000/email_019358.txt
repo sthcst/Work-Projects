@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Jackson,mark.jackson2375@yahoo.com,905-638-8103,972 25 2266,11/15/1978,"2632 East Way",San Jose,TX

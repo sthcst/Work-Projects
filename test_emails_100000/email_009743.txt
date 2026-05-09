@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Davis,kathleen.davis6303@work.org,760-401-7006,401 83 5524,02-24-1957,"4145 West Rd",Chicago,NY

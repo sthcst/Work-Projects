@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Thompson
-  email: samantha.thompson8130@mail.com
-  phone: (237) 817-1556
-  ssn: 860 80 2894
-  dob: 06/15/1997
-  address: 8139 Third Dr
-  city: Dallas
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Gonzalez,katherine.gonzalez9466@company.com,339-527-6553,311236936,01/16/1957,"1031 Park Ave",Dallas,WA

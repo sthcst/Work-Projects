@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Smith,daniel.smith2516@work.org,332 970 6819,409238886,2/10/1969,"6799 Fifth Rd",Seattle,MA

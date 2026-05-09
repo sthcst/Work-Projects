@@ -1,9 +1,0 @@
-contact:
-  name: Helen Lee
-  email: helen.lee4020@company.com
-  phone: 778-487-4216
-  ssn: 797-46-6328
-  dob: 9/11/1996
-  address: 4679 Maple St
-  city: San Antonio
-  state: GA

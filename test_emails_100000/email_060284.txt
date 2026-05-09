@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Nelson
-  email: ashley.nelson5759@mail.com
-  phone: 366-658-2279
-  ssn: 840-64-1849
-  dob: 23/03/1987
-  address: 3181 Second St
-  city: Houston
-  state: WI

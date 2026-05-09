@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Roberts
-  email: joshua.roberts1276@mail.com
-  phone: +1 774-677-6222
-  ssn: 042 72 2148
-  dob: 10/10/1980
-  address: 1108 Sixth Ave
-  city: Chicago
-  state: TX

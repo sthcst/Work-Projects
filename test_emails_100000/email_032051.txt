@@ -1,9 +1,0 @@
-contact:
-  name: Gary Phillips
-  email: gary.phillips7537@work.org
-  phone: 863 814 6020
-  ssn: 368866541
-  dob: 8/11/1993
-  address: 7047 Sixth St
-  city: San Antonio
-  state: TX

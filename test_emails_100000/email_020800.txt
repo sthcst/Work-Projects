@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Williams,shirley.williams6600@gmail.com,558 290 2464,875 21 1652,07-05-1962,"6506 Main Court",San Antonio,IL

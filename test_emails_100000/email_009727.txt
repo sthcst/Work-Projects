@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Nelson
-  email: kimberly.nelson3914@company.com
-  phone: 928-944-5457
-  ssn: 790-37-2674
-  dob: 11/24/1985
-  address: 6813 West Ave
-  city: Chicago
-  state: NY

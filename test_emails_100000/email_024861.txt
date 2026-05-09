@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Sanchez,paul.sanchez6686@work.org,+1 614-463-5847,868153129,05-11-1952,"9295 Third Court",Dallas,FL

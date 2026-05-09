@@ -1,9 +1,0 @@
-contact:
-  name: Charles Morgan
-  email: charles.morgan1653@gmail.com
-  phone: 757-555-8092
-  ssn: 750655009
-  dob: 08-15-1989
-  address: 6670 Spring Court
-  city: Los Angeles
-  state: WA

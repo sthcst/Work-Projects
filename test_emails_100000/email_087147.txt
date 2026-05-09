@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Moore
-  email: christopher.moore4589@work.org
-  phone: 628-808-6692
-  ssn: 395 37 5312
-  dob: 02/27/1963
-  address: 8815 Summer St
-  city: Austin
-  state: TX

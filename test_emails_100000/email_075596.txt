@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Williams,anna.williams4480@gmail.com,+1 514-547-2437,566-63-2700,03-18-1981,"7145 South Dr",Boston,CA

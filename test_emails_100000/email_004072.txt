@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Ramirez,lauren.ramirez9764@gmail.com,902-653-9380,383 42 7937,06/15/1960,"351 First Ave",Philadelphia,AZ

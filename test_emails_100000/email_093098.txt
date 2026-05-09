@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Flores,katherine.flores3340@business.net,+1 631-820-8787,329 08 6115,6/13/1972,"1144 First Court",San Jose,VA

@@ -1,9 +1,0 @@
-contact:
-  name: Emily Parker
-  email: emily.parker6631@mail.com
-  phone: 462 372 7967
-  ssn: 922-20-9610
-  dob: 08/19/1977
-  address: 5176 Sixth Ave
-  city: San Diego
-  state: TX

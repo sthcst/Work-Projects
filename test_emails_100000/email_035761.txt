@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Hall,emma.hall4949@example.com,(638) 776-1836,025 21 5848,26/04/2000,"5912 Fifth Blvd",Jacksonville,MO

@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Moore
-  email: pamela.moore9123@work.org
-  phone: (454) 844-9243
-  ssn: 475369373
-  dob: 10/12/1959
-  address: 8781 Birch St
-  city: Washington
-  state: OH

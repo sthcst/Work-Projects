@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Martin,katherine.martin8429@outlook.com,+1 430-983-7047,562-41-4505,22/07/1989,"5480 Cedar Rd",Washington,TN

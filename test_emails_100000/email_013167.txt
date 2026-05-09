@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Alvarado
-  email: michelle.alvarado4711@outlook.com
-  phone: +1 547-550-7721
-  ssn: 225-73-2333
-  dob: 01/04/1997
-  address: 5355 West Court
-  city: Dallas
-  state: CA

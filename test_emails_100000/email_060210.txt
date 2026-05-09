@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Bell,john.bell5095@work.org,(771) 742-9032,736-91-2655,11/14/1977,"8855 Sixth Ave",Jacksonville,TX

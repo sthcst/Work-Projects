@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Davis,kathleen.davis2583@outlook.com,274-778-1342,299 33 1011,05/08/2003,"7361 Birch Dr",Philadelphia,FL

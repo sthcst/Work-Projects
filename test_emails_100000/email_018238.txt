@@ -1,9 +1,0 @@
-contact:
-  name: William Peterson
-  email: william.peterson8792@example.com
-  phone: (978) 957-2657
-  ssn: 562-42-9814
-  dob: 9/10/1993
-  address: 1210 Sixth Court
-  city: Los Angeles
-  state: PA

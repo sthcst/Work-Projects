@@ -1,9 +1,0 @@
-contact:
-  name: Steven Sanchez
-  email: steven.sanchez9154@gmail.com
-  phone: +1 605-488-8917
-  ssn: 409853999
-  dob: 19/12/1960
-  address: 8480 Elm St
-  city: Houston
-  state: TX

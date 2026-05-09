@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Peterson
-  email: joseph.peterson6512@company.com
-  phone: 941 764 6974
-  ssn: 545098388
-  dob: 05/07/2003
-  address: 9608 South Ln
-  city: Philadelphia
-  state: FL

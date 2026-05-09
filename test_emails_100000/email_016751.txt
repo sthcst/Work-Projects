@@ -1,9 +1,0 @@
-contact:
-  name: Charles Morgan
-  email: charles.morgan2914@mail.com
-  phone: +1 292-259-9634
-  ssn: 763974101
-  dob: 10/14/2001
-  address: 5451 Third Ln
-  city: Houston
-  state: MO

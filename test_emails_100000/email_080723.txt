@@ -1,9 +1,0 @@
-contact:
-  name: Gary Gomez
-  email: gary.gomez3064@yahoo.com
-  phone: 868 497 8468
-  ssn: 687 08 5054
-  dob: 09/28/1999
-  address: 6298 Fifth Way
-  city: Washington
-  state: AZ

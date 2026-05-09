@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Harris,kenneth.harris1420@mail.com,564-282-7263,689 87 4502,03/25/1977,"8579 Park Blvd",Philadelphia,PA

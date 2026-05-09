@@ -1,9 +1,0 @@
-contact:
-  name: Brian Williams
-  email: brian.williams1855@business.net
-  phone: 983-449-7532
-  ssn: 634 76 9313
-  dob: 5/1/1965
-  address: 7728 Elm Blvd
-  city: Los Angeles
-  state: MA

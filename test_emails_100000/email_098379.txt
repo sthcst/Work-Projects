@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Gonzalez
-  email: ashley.gonzalez768@outlook.com
-  phone: +1 885-874-7161
-  ssn: 016703093
-  dob: 10/05/1976
-  address: 8628 Sixth Dr
-  city: Jacksonville
-  state: CA

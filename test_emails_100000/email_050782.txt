@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Roberts,donald.roberts3314@gmail.com,(709) 880-4592,302424274,12/20/1977,"8753 North St",Washington,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Ortiz,george.ortiz7751@work.org,+1 819-423-2018,014 62 8360,02-26-1988,"5714 Maple Blvd",Austin,MA

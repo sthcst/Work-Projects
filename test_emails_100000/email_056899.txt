@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Dominguez,jennifer.dominguez4308@example.com,982-226-5360,896-91-2417,12-19-1961,"9119 Oak Blvd",Denver,MI

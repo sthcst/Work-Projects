@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Lopez
-  email: jeffrey.lopez4110@mail.com
-  phone: +1 587-866-6767
-  ssn: 921 84 9635
-  dob: 26/04/1985
-  address: 1899 Pine Dr
-  city: San Antonio
-  state: PA

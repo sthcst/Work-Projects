@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Campbell
-  email: timothy.campbell5352@company.com
-  phone: 229-773-3567
-  ssn: 678-32-8748
-  dob: 04/06/1985
-  address: 5887 Sixth Rd
-  city: Austin
-  state: CA

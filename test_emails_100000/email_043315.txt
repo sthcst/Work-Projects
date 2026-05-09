@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Jimenez,charles.jimenez3@example.com,617-640-3034,703-19-9550,05-04-1980,"7180 West Ln",Seattle,CO

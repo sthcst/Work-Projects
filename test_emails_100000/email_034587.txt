@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Thompson
-  email: stephanie.thompson1893@gmail.com
-  phone: +1 910-203-6883
-  ssn: 497 86 9101
-  dob: 25/12/1955
-  address: 9114 Sixth St
-  city: Seattle
-  state: WA

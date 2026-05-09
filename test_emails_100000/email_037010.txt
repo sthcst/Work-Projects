@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Morris,brenda.morris7359@business.net,(531) 394-5387,517-32-9397,07-05-1989,"7598 Fifth Court",Philadelphia,MD

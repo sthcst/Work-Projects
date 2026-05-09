@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Dominguez
-  email: joshua.dominguez7960@example.com
-  phone: 749 731 5172
-  ssn: 407-40-7607
-  dob: 08-06-2004
-  address: 6241 Main Blvd
-  city: Washington
-  state: TX

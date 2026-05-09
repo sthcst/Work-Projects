@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Garcia,lauren.garcia3171@outlook.com,+1 718-747-8779,384218034,5/25/1957,"5947 Main Way",Washington,MA

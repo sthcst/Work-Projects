@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Bell
-  email: jacob.bell1509@yahoo.com
-  phone: (478) 429-9006
-  ssn: 751 30 2649
-  dob: 03-05-1971
-  address: 626 Birch Ave
-  city: Dallas
-  state: CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Morgan,brian.morgan1829@mail.com,+1 439-874-9640,562483415,28/06/1973,"992 East Rd",Washington,CO

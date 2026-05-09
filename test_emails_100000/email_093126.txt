@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Martin,anna.martin818@work.org,+1 913-919-7787,112184263,08-11-2005,"8533 South Way",Philadelphia,CA

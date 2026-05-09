@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Reyes,nicholas.reyes2932@company.com,(807) 549-9847,326335376,11-22-1974,"7789 Fifth Way",Houston,FL

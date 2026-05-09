@@ -1,9 +1,0 @@
-contact:
-  name: Emily Miller
-  email: emily.miller6786@outlook.com
-  phone: 612 794 9648
-  ssn: 710-48-8375
-  dob: 9/18/1993
-  address: 3414 First Court
-  city: Seattle
-  state: FL

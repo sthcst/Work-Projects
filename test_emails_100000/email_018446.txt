@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Dominguez,stephanie.dominguez9504@company.com,355 963 1466,601-48-6084,15/11/1964,"3718 Sixth St",San Antonio,OH

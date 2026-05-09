@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Nunez,ashley.nunez5729@gmail.com,(629) 288-3938,990063402,06/27/1989,"9689 Birch Court",San Antonio,TX

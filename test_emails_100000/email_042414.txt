@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Carter,lauren.carter3170@outlook.com,+1 552-858-1312,597 33 9851,05/03/1961,"8551 Elm Court",San Antonio,MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Murillo,charles.murillo9781@outlook.com,+1 902-465-5024,113-29-4248,17/01/1985,"2124 Elm Rd",Austin,TX

@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Edwards
-  email: deborah.edwards665@business.net
-  phone: +1 681-654-8708
-  ssn: 940-32-7754
-  dob: 11-22-1958
-  address: 1149 South Ln
-  city: Austin
-  state: MA

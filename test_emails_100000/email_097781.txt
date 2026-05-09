@@ -1,9 +1,0 @@
-contact:
-  name: Anna Sanchez
-  email: anna.sanchez3099@yahoo.com
-  phone: 504 496 7669
-  ssn: 300-90-4647
-  dob: 02/02/1981
-  address: 2177 Fourth Rd
-  city: Jacksonville
-  state: TX

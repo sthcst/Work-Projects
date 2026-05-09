@@ -1,9 +1,0 @@
-contact:
-  name: Emma Williams
-  email: emma.williams8498@gmail.com
-  phone: +1 317-961-9233
-  ssn: 504-04-5593
-  dob: 07-02-1960
-  address: 3292 Summer Blvd
-  city: Austin
-  state: TX

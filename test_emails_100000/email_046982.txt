@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Young,joshua.young9861@example.com,(850) 504-5482,183 18 8784,05-18-1969,"490 Oak Ave",Seattle,WA

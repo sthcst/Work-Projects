@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Wilson,rebecca.wilson8810@work.org,+1 288-608-6246,692 26 3807,04-12-1992,"2787 Sixth St",New York,DC

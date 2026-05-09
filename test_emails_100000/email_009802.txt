@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Smith,steven.smith6380@example.com,(879) 568-1867,386 15 2008,3/11/1999,"9323 East Way",Los Angeles,CA

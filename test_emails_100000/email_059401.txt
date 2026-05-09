@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Taylor
-  email: pamela.taylor5420@yahoo.com
-  phone: 784-801-7874
-  ssn: 655-03-9690
-  dob: 12/15/1954
-  address: 4203 Fifth Blvd
-  city: Dallas
-  state: IL

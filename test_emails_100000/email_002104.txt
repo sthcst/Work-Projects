@@ -1,9 +1,0 @@
-contact:
-  name: Brian Delgado
-  email: brian.delgado9240@outlook.com
-  phone: (494) 548-6649
-  ssn: 709381432
-  dob: 11/09/1959
-  address: 359 Main Ave
-  city: San Jose
-  state: MI

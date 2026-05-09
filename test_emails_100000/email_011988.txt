@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Lopez
-  email: jennifer.lopez8623@business.net
-  phone: 815-371-5039
-  ssn: 379-44-8261
-  dob: 01/21/1985
-  address: 7431 North Dr
-  city: San Antonio
-  state: OH

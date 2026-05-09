@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Clark,ryan.clark3587@mail.com,474 448 1329,912665051,25/01/1990,"7941 Main Ave",San Diego,FL

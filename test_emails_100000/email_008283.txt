@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Harris,matthew.harris8150@outlook.com,(895) 850-9781,304-58-2774,10/12/1959,"9300 First Court",Dallas,MD

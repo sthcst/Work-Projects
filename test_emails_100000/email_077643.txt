@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Walker
-  email: pamela.walker3195@work.org
-  phone: (592) 621-5423
-  ssn: 159 24 8243
-  dob: 10/3/1972
-  address: 7705 Pine Dr
-  city: Houston
-  state: MA

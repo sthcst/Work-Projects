@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Bell
-  email: sarah.bell5576@company.com
-  phone: +1 647-297-1802
-  ssn: 638-06-1939
-  dob: 10/24/2003
-  address: 4513 Spring St
-  city: Washington
-  state: WA

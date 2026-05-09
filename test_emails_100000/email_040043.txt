@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Rogers
-  email: joshua.rogers6966@mail.com
-  phone: +1 962-304-5974
-  ssn: 715696909
-  dob: 06-25-1974
-  address: 363 Oak Way
-  city: Houston
-  state: MA

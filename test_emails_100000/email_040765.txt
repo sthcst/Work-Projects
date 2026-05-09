@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Sanchez
-  email: deborah.sanchez9567@outlook.com
-  phone: +1 472-329-9614
-  ssn: 695-51-2594
-  dob: 03-14-1999
-  address: 901 Park Blvd
-  city: Dallas
-  state: FL

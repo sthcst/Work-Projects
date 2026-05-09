@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy White,timothy.white7212@mail.com,(832) 674-6594,461-74-2970,15/02/1972,"5055 Elm Court",Jacksonville,CO

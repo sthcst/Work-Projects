@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Collins
-  email: rachel.collins3303@business.net
-  phone: (392) 244-7762
-  ssn: 955771051
-  dob: 10-07-2003
-  address: 2185 North Court
-  city: Houston
-  state: WA

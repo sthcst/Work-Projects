@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Reeves,lauren.reeves7678@business.net,896 248 6057,886 95 1920,04-02-1950,"1149 Spring Way",Chicago,NJ

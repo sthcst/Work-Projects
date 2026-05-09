@@ -1,9 +1,0 @@
-contact:
-  name: Jason Edwards
-  email: jason.edwards37@yahoo.com
-  phone: 568-505-7707
-  ssn: 887909319
-  dob: 11/14/1971
-  address: 2907 First St
-  city: Houston
-  state: CA

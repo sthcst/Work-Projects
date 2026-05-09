@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Rogers
-  email: jessica.rogers6403@example.com
-  phone: +1 644-310-6582
-  ssn: 295-86-4220
-  dob: 10/14/1997
-  address: 4453 North Rd
-  city: Jacksonville
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Hall
-  email: nicholas.hall6588@yahoo.com
-  phone: (461) 870-9069
-  ssn: 185416495
-  dob: 4/9/1983
-  address: 8274 Elm Way
-  city: Philadelphia
-  state: WI

@@ -1,9 +1,0 @@
-contact:
-  name: Donald White
-  email: donald.white6137@example.com
-  phone: (976) 256-5231
-  ssn: 563 52 5737
-  dob: 14/11/1965
-  address: 6200 Fifth Court
-  city: Dallas
-  state: TX

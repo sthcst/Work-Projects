@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Martinez,anna.martinez5359@yahoo.com,+1 640-534-1558,531 44 5248,10/28/1966,"5521 Third Blvd",Seattle,CO

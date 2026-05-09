@@ -1,9 +1,0 @@
-contact:
-  name: Angela Clark
-  email: angela.clark7232@business.net
-  phone: 402 459 8883
-  ssn: 317-78-6463
-  dob: 14/02/1979
-  address: 6831 South St
-  city: Phoenix
-  state: OH

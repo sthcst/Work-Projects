@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Morgan
-  email: jessica.morgan3406@company.com
-  phone: 352 767 4772
-  ssn: 699 59 2270
-  dob: 09-11-1987
-  address: 510 Cedar Way
-  city: Phoenix
-  state: VA

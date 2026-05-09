@@ -1,9 +1,0 @@
-contact:
-  name: Megan Gonzalez
-  email: megan.gonzalez8939@mail.com
-  phone: (554) 725-5099
-  ssn: 745 93 1835
-  dob: 08-02-1999
-  address: 7490 Elm Rd
-  city: Denver
-  state: TX

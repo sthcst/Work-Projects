@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Guerrero
-  email: cynthia.guerrero2024@mail.com
-  phone: 349-806-4220
-  ssn: 463585672
-  dob: 10/11/1962
-  address: 1994 Cedar Rd
-  city: Jacksonville
-  state: MA

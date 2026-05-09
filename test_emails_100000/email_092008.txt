@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Rogers,timothy.rogers3470@gmail.com,(256) 480-6839,288527267,22/06/1985,"3932 First Blvd",San Diego,OH

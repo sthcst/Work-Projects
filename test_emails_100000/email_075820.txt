@@ -1,9 +1,0 @@
-contact:
-  name: Jason Nelson
-  email: jason.nelson987@outlook.com
-  phone: 550 806 2002
-  ssn: 649744137
-  dob: 11/21/1953
-  address: 5952 Maple Rd
-  city: New York
-  state: FL

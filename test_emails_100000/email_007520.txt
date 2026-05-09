@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Evans,emily.evans7199@work.org,596 543 2940,569 15 5872,20/09/1958,"5714 Fourth Blvd",Denver,CA

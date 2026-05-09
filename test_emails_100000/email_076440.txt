@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Lopez
-  email: katherine.lopez1702@mail.com
-  phone: (510) 972-2447
-  ssn: 500 87 1065
-  dob: 14/04/1957
-  address: 3907 Cedar Court
-  city: Los Angeles
-  state: CA

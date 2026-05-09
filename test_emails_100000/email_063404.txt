@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Serrano,daniel.serrano4253@yahoo.com,479-786-5690,581-65-5368,07/09/2001,"1594 Park Dr",Los Angeles,NY

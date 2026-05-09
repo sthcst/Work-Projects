@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Williams
-  email: katherine.williams3379@yahoo.com
-  phone: 667-399-3376
-  ssn: 941563983
-  dob: 05-20-2005
-  address: 4856 Fourth Ave
-  city: Denver
-  state: MI

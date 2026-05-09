@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Brown,emily.brown638@example.com,(598) 544-8016,763 01 9011,05-26-2002,"4328 Cedar Rd",San Antonio,TX

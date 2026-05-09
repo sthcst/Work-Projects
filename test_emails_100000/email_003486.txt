@@ -1,9 +1,0 @@
-contact:
-  name: Anna Rogers
-  email: anna.rogers8362@outlook.com
-  phone: 345-873-5730
-  ssn: 061194485
-  dob: 02-09-1951
-  address: 782 Sixth Court
-  city: San Diego
-  state: IL

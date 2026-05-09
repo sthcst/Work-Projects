@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Romero
-  email: jacob.romero8042@example.com
-  phone: (574) 320-1724
-  ssn: 717 72 2453
-  dob: 21/06/1982
-  address: 9171 First Ave
-  city: Chicago
-  state: NC

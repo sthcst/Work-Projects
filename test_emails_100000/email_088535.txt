@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Flores,ashley.flores1971@company.com,+1 769-555-9697,116-41-3850,10/19/1984,"8300 First Court",Philadelphia,MA

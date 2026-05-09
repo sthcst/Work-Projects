@@ -1,9 +1,0 @@
-contact:
-  name: Jane Robinson
-  email: jane.robinson6381@mail.com
-  phone: +1 397-793-4221
-  ssn: 906418138
-  dob: 12/27/1976
-  address: 4686 West Ln
-  city: Seattle
-  state: WA

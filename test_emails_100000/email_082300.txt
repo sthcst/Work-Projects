@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Carter,jason.carter6866@business.net,518 525 2725,896634989,7/1/1996,"261 Sixth Rd",Dallas,VA

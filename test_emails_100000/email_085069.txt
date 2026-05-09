@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Flores,donald.flores8699@business.net,+1 896-395-1165,120-57-6068,9/9/2004,"7018 West Ave",San Jose,WA

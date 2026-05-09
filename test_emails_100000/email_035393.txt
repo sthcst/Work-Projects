@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Phillips
-  email: kathleen.phillips8746@outlook.com
-  phone: 480-205-1731
-  ssn: 897557572
-  dob: 24/02/1982
-  address: 6363 Sixth Ln
-  city: Austin
-  state: TX

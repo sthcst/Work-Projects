@@ -1,9 +1,0 @@
-contact:
-  name: Emma Smith
-  email: emma.smith544@example.com
-  phone: 812 942 9317
-  ssn: 052347558
-  dob: 04-17-1995
-  address: 2463 South Dr
-  city: San Antonio
-  state: CO

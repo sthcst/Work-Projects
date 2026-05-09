@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Alvarado,rachel.alvarado7479@example.com,494 790 3168,567 24 4933,03-21-1982,"425 Second Ln",Dallas,CA

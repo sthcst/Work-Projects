@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Stewart
-  email: kenneth.stewart2173@gmail.com
-  phone: 971 344 3500
-  ssn: 773465494
-  dob: 5/13/1972
-  address: 1372 Cedar St
-  city: Los Angeles
-  state: NJ

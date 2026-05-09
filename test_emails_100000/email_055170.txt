@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Reyes
-  email: daniel.reyes5892@company.com
-  phone: (223) 291-5629
-  ssn: 944096355
-  dob: 11/07/1958
-  address: 1963 Third Ave
-  city: Boston
-  state: GA

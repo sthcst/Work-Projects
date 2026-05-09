@@ -1,9 +1,0 @@
-contact:
-  name: George White
-  email: george.white167@example.com
-  phone: +1 490-805-3721
-  ssn: 395745060
-  dob: 10/02/1994
-  address: 3936 East Way
-  city: Philadelphia
-  state: TN

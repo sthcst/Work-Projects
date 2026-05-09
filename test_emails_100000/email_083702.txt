@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Miller
-  email: cynthia.miller5345@mail.com
-  phone: +1 309-959-9316
-  ssn: 153-08-5448
-  dob: 21/11/1981
-  address: 3364 Fifth Way
-  city: Austin
-  state: TN

@@ -1,9 +1,0 @@
-contact:
-  name: Mark Rogers
-  email: mark.rogers9633@gmail.com
-  phone: 990 840 8171
-  ssn: 717 64 4097
-  dob: 01-18-1950
-  address: 5697 East Ave
-  city: Seattle
-  state: AZ

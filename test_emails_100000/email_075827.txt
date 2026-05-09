@@ -1,9 +1,0 @@
-contact:
-  name: Paul Moore
-  email: paul.moore4246@business.net
-  phone: 431-311-9160
-  ssn: 387-34-7128
-  dob: 02-10-1968
-  address: 2170 Main Way
-  city: New York
-  state: MA

@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Jackson
-  email: jennifer.jackson6990@work.org
-  phone: 811 926 8367
-  ssn: 447709257
-  dob: 09/07/1976
-  address: 3244 South Court
-  city: Dallas
-  state: TX

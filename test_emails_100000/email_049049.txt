@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Lewis,timothy.lewis6227@work.org,902-349-5362,465548770,8/28/1978,"4911 North Ln",Philadelphia,WI

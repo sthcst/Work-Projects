@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Carter,kathleen.carter2537@yahoo.com,+1 354-923-1335,497-97-3437,02/21/1957,"4844 Park Blvd",Washington,AZ

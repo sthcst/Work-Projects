@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Williams,kimberly.williams9734@gmail.com,534-526-1854,681-49-5808,04-07-1992,"6294 Cedar Way",San Jose,NJ

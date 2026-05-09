@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Gomez,maria.gomez7479@gmail.com,835 506 7332,925012528,10/11/1990,"4779 First Rd",Philadelphia,WA

@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Gomez
-  email: ryan.gomez5142@yahoo.com
-  phone: +1 913-352-6178
-  ssn: 681 15 4906
-  dob: 11-26-1953
-  address: 5021 Pine Way
-  city: Chicago
-  state: WA

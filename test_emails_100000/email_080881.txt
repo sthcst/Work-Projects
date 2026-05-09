@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Davis,ronald.davis2221@outlook.com,526 859 6995,346589095,08-26-1951,"1481 First Way",Dallas,MO

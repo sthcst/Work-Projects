@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Young
-  email: ashley.young8960@gmail.com
-  phone: 792 567 2195
-  ssn: 626335578
-  dob: 6/9/1997
-  address: 2678 South Blvd
-  city: Austin
-  state: TX

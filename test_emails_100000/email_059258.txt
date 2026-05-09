@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Johnson,jason.johnson4507@business.net,365-347-1151,337 24 1797,6/20/1987,"4347 Birch Blvd",Chicago,IL

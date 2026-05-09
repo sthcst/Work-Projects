@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Peterson,emily.peterson6974@mail.com,+1 297-635-4951,490 99 4978,10/24/1998,"7362 Second Dr",Austin,FL

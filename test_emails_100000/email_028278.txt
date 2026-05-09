@@ -1,9 +1,0 @@
-contact:
-  name: Angela Young
-  email: angela.young5355@example.com
-  phone: +1 854-998-4692
-  ssn: 315-01-3366
-  dob: 1/8/1964
-  address: 8286 Park St
-  city: Phoenix
-  state: TX

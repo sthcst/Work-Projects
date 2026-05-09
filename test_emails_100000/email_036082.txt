@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Clark,lauren.clark2639@example.com,825-330-2920,188395783,11-28-1993,"8875 Pine Way",San Antonio,MI

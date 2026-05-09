@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Lewis,george.lewis9033@gmail.com,607 263 2981,440-01-9517,5/9/1966,"3698 Second Ave",Washington,TX

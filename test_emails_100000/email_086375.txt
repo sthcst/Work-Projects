@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Martinez,daniel.martinez5163@business.net,850 209 9378,067 40 1736,24/07/2001,"2725 Fourth Blvd",Boston,MA

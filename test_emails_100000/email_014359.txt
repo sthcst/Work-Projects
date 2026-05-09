@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Ramirez,jason.ramirez7530@yahoo.com,337 697 6320,862-33-6230,04/05/2002,"9214 Fifth Rd",Philadelphia,CA

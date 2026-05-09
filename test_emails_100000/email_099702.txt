@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Martinez
-  email: kenneth.martinez6802@company.com
-  phone: +1 542-297-1357
-  ssn: 730 64 3202
-  dob: 03/09/1966
-  address: 1305 Birch St
-  city: San Jose
-  state: TN

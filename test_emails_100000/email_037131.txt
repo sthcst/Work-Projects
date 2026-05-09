@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Reyes,deborah.reyes5225@business.net,364-405-6344,269-22-1929,12/08/1962,"3536 South Ln",Dallas,VA

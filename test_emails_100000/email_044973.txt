@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Hernandez
-  email: joseph.hernandez1938@mail.com
-  phone: 504 642 2273
-  ssn: 078-48-3683
-  dob: 10-14-1997
-  address: 5888 Birch St
-  city: Boston
-  state: TX

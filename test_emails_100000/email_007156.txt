@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Perez,cynthia.perez1008@example.com,(863) 616-3561,441-28-8428,02/01/1952,"5367 West St",Boston,NY

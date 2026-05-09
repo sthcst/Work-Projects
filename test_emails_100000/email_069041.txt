@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Reeves
-  email: katherine.reeves4393@company.com
-  phone: (417) 828-2058
-  ssn: 775 70 4448
-  dob: 01/03/1950
-  address: 7173 Main Rd
-  city: Washington
-  state: CA

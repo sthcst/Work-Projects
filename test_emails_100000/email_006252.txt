@@ -1,9 +1,0 @@
-contact:
-  name: Mark Romero
-  email: mark.romero1152@gmail.com
-  phone: 634 525 9231
-  ssn: 263285587
-  dob: 09/17/1964
-  address: 3242 North Blvd
-  city: New York
-  state: OH

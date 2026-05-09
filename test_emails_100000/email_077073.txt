@@ -1,9 +1,0 @@
-contact:
-  name: Angela Sanchez
-  email: angela.sanchez8271@company.com
-  phone: 745-770-2407
-  ssn: 981-14-5428
-  dob: 6/18/1997
-  address: 7903 Elm St
-  city: Dallas
-  state: FL

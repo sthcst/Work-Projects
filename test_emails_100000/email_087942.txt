@@ -1,9 +1,0 @@
-contact:
-  name: Mark Alvarado
-  email: mark.alvarado4075@yahoo.com
-  phone: 493-670-8964
-  ssn: 829 16 1827
-  dob: 14/12/1971
-  address: 4324 Birch Ln
-  city: Houston
-  state: IL

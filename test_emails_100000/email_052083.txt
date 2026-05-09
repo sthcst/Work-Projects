@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Young,john.young9856@yahoo.com,+1 757-415-6235,524-57-2540,05/02/1964,"4620 North Dr",Washington,NY

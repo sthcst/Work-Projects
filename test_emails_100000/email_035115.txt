@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Campbell,kevin.campbell8261@business.net,(417) 990-8344,945 54 6391,10/10/1955,"3702 Main Dr",Washington,MI

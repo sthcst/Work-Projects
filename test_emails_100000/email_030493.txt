@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Stewart
-  email: rebecca.stewart3354@gmail.com
-  phone: +1 755-711-4934
-  ssn: 375-77-3093
-  dob: 05/19/1983
-  address: 16 Sixth Court
-  city: San Diego
-  state: FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Anderson,emma.anderson6474@yahoo.com,588-893-8523,044-82-5963,08/03/1955,"481 Spring Way",Seattle,CA

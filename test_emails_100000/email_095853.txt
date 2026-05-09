@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Collins
-  email: lauren.collins8610@yahoo.com
-  phone: 266-779-6245
-  ssn: 901-23-8380
-  dob: 8/24/1970
-  address: 6962 Park Ln
-  city: Chicago
-  state: NC

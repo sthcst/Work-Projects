@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Flores
-  email: katherine.flores1211@business.net
-  phone: +1 459-252-6544
-  ssn: 728-26-2496
-  dob: 09/09/1986
-  address: 9882 Maple Way
-  city: Los Angeles
-  state: NJ

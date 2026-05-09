@@ -1,9 +1,0 @@
-contact:
-  name: Michael Walker
-  email: michael.walker2421@yahoo.com
-  phone: (307) 538-2972
-  ssn: 056 16 4672
-  dob: 01-15-1952
-  address: 6120 Main Dr
-  city: Jacksonville
-  state: CO

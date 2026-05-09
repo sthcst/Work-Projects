@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Carter
-  email: ashley.carter4135@mail.com
-  phone: 796-416-9465
-  ssn: 261726709
-  dob: 4/22/1955
-  address: 8852 Elm Ave
-  city: Los Angeles
-  state: MA

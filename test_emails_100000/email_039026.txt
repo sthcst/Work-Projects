@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Walker,rebecca.walker4436@outlook.com,(748) 673-6558,465-67-5482,05/09/1999,"5484 Oak Blvd",Dallas,WA

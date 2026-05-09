@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Lee
-  email: andrew.lee9485@business.net
-  phone: (760) 840-8945
-  ssn: 104 24 1851
-  dob: 12/10/1968
-  address: 3820 Spring Way
-  city: Phoenix
-  state: MD

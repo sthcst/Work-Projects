@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Jackson,william.jackson1908@yahoo.com,439 422 5403,426191997,06-18-1977,"957 Oak Way",Washington,WI

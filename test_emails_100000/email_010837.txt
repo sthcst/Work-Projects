@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Wilson
-  email: lisa.wilson122@example.com
-  phone: 287-270-5509
-  ssn: 028459543
-  dob: 05/03/1989
-  address: 93 Fourth Court
-  city: Denver
-  state: IL

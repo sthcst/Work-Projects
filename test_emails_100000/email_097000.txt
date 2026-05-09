@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Morris
-  email: jeffrey.morris751@business.net
-  phone: +1 653-932-2211
-  ssn: 454-06-4389
-  dob: 10/27/1974
-  address: 7123 South Court
-  city: San Jose
-  state: FL

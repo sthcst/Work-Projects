@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Evans,jeffrey.evans7129@company.com,+1 670-251-5737,844 09 6268,8/20/2002,"1979 Maple St",Seattle,CO

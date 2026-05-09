@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Nunez,gary.nunez2627@work.org,(306) 296-3692,450 09 7661,11-10-1990,"5582 West Blvd",Seattle,MA

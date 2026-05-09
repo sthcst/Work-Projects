@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Murillo,anna.murillo7636@yahoo.com,815-955-3070,211918215,09/04/2001,"4391 Spring Ln",Boston,WI

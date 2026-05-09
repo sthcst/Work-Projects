@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Edwards
-  email: ronald.edwards6919@yahoo.com
-  phone: 595 905 4596
-  ssn: 270631523
-  dob: 8/13/1952
-  address: 7865 Fifth Ave
-  city: San Antonio
-  state: GA

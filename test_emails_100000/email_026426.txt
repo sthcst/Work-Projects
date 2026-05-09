@@ -1,9 +1,0 @@
-contact:
-  name: William Morgan
-  email: william.morgan609@yahoo.com
-  phone: +1 324-826-2933
-  ssn: 604 46 3972
-  dob: 01/19/2001
-  address: 9805 First Ave
-  city: Austin
-  state: DC

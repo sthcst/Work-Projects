@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Johnson
-  email: kevin.johnson5175@gmail.com
-  phone: +1 509-901-3469
-  ssn: 956679300
-  dob: 07/07/1996
-  address: 8112 Oak Ave
-  city: Denver
-  state: NY

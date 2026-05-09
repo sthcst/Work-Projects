@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Martin,samantha.martin8173@business.net,(935) 870-5384,076-92-2207,27/12/1970,"6718 Cedar Ln",Seattle,TX

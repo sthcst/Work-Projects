@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Alvarado,pamela.alvarado7222@example.com,+1 629-569-7363,326-16-2900,12/20/1975,"2853 Main Ln",Jacksonville,MI

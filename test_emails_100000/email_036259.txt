@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Reeves,nicholas.reeves3902@yahoo.com,+1 967-263-8045,261 24 9539,05/12/1984,"9329 Sixth St",San Diego,TX

@@ -1,9 +1,0 @@
-contact:
-  name: Richard Walker
-  email: richard.walker6660@work.org
-  phone: 471 921 7458
-  ssn: 323565471
-  dob: 07/01/1973
-  address: 4843 Spring Rd
-  city: Los Angeles
-  state: AZ

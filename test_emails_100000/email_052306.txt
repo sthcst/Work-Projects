@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Guerrero,christine.guerrero9721@outlook.com,525-514-9345,843 98 3989,05-18-2001,"8619 Spring Dr",San Jose,WI

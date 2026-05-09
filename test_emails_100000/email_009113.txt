@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Edwards
-  email: jacob.edwards4165@yahoo.com
-  phone: 822 358 2911
-  ssn: 175 05 7699
-  dob: 27/11/1950
-  address: 9355 South Ave
-  city: Austin
-  state: CO

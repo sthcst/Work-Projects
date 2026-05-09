@@ -1,9 +1,0 @@
-contact:
-  name: Angela Reed
-  email: angela.reed1257@mail.com
-  phone: 514-412-4092
-  ssn: 346553529
-  dob: 09/10/1997
-  address: 3801 First Rd
-  city: Denver
-  state: MA

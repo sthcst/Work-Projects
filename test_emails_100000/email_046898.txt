@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Moore,katherine.moore7512@company.com,+1 460-837-6994,437 08 7889,05/15/1960,"3702 Park Blvd",Philadelphia,IL

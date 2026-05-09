@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Nunez
-  email: nicholas.nunez3365@example.com
-  phone: 826 361 8969
-  ssn: 127 81 3482
-  dob: 12/22/1977
-  address: 9161 Oak St
-  city: San Antonio
-  state: OH

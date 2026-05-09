@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Guerrero
-  email: kimberly.guerrero1649@gmail.com
-  phone: (858) 976-3537
-  ssn: 985823930
-  dob: 05-07-1984
-  address: 4560 East Court
-  city: Los Angeles
-  state: NY

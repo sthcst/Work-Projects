@@ -1,9 +1,0 @@
-contact:
-  name: John Hall
-  email: john.hall8321@business.net
-  phone: 979-332-9418
-  ssn: 483-52-1178
-  dob: 04/05/1998
-  address: 2964 West Blvd
-  city: Los Angeles
-  state: CO

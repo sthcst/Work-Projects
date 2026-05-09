@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Nelson
-  email: matthew.nelson6726@yahoo.com
-  phone: 581-395-9598
-  ssn: 987409996
-  dob: 10/02/1973
-  address: 3614 East St
-  city: Phoenix
-  state: MO

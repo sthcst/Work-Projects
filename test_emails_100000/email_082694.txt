@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Edwards,robert.edwards6179@company.com,561 729 5332,176-50-7764,5/23/1955,"2133 Third St",San Antonio,MA

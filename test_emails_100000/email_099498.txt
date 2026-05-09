@@ -1,9 +1,0 @@
-contact:
-  name: Michael Parker
-  email: michael.parker1333@gmail.com
-  phone: +1 219-261-2111
-  ssn: 713474672
-  dob: 07/05/1962
-  address: 8676 Elm Rd
-  city: Seattle
-  state: WA

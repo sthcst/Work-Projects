@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Dominguez
-  email: timothy.dominguez8601@example.com
-  phone: (689) 264-2579
-  ssn: 414 13 5111
-  dob: 03/06/1993
-  address: 3860 First Way
-  city: Phoenix
-  state: MA

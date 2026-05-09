@@ -1,9 +1,0 @@
-contact:
-  name: Megan Martinez
-  email: megan.martinez3347@yahoo.com
-  phone: (889) 568-1213
-  ssn: 638844781
-  dob: 10-25-2000
-  address: 5455 Pine Way
-  city: Washington
-  state: PA

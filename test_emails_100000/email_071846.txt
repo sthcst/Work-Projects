@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Miller,nicole.miller2797@business.net,668 989 1355,140533101,08-14-2001,"1638 South Ln",Jacksonville,WA

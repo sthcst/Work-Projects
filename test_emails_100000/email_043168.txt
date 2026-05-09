@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Serrano
-  email: sarah.serrano7718@company.com
-  phone: +1 500-680-1757
-  ssn: 554032103
-  dob: 08-09-1990
-  address: 5555 Sixth Rd
-  city: Phoenix
-  state: NY

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Delgado,michael.delgado419@business.net,+1 565-668-5797,451 83 7275,12/26/1981,"4514 Third Way",Dallas,PA

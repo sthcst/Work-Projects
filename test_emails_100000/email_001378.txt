@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Reyes,megan.reyes4498@outlook.com,300 716 6624,190476982,08/22/1976,"5523 North St",San Diego,CA

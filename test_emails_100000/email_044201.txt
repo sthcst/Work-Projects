@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Morris,michael.morris9606@outlook.com,641-696-6468,706416679,1/5/2002,"7255 South Dr",New York,MA

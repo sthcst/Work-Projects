@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Robinson
-  email: cynthia.robinson3780@yahoo.com
-  phone: (998) 808-8777
-  ssn: 091 02 2813
-  dob: 12-18-1991
-  address: 9892 Main Ave
-  city: Chicago
-  state: MA

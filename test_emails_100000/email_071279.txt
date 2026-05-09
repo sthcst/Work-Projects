@@ -1,9 +1,0 @@
-contact:
-  name: Steven Wilson
-  email: steven.wilson699@gmail.com
-  phone: 484-753-6945
-  ssn: 340871826
-  dob: 7/21/1985
-  address: 6926 East Way
-  city: Chicago
-  state: MD

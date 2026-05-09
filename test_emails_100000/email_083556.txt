@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Rodriguez
-  email: pamela.rodriguez6874@business.net
-  phone: 549-998-2566
-  ssn: 609941698
-  dob: 10/6/1972
-  address: 8232 Pine St
-  city: Chicago
-  state: AZ

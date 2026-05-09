@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Young
-  email: katherine.young95@mail.com
-  phone: (370) 775-8834
-  ssn: 051771504
-  dob: 07-28-1986
-  address: 2204 Birch Blvd
-  city: New York
-  state: AZ

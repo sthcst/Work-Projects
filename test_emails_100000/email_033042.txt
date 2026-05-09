@@ -1,9 +1,0 @@
-contact:
-  name: Paul Ramirez
-  email: paul.ramirez3467@example.com
-  phone: +1 878-376-8933
-  ssn: 631 72 3363
-  dob: 08-03-1997
-  address: 2587 Oak Ave
-  city: Boston
-  state: FL

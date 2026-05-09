@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Davis,brian.davis990@business.net,276 978 2249,825-55-1559,11/02/2005,"2776 Maple Ave",Phoenix,FL

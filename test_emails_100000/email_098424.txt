@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Murillo,pamela.murillo5724@work.org,(778) 200-3249,966 89 9637,06/08/1979,"641 Second Blvd",Boston,TX

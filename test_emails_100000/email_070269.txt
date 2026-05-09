@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Murillo,sarah.murillo2912@mail.com,+1 958-500-1104,407722795,08-18-1981,"3774 South Ln",San Jose,WA

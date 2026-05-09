@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Ramirez,emma.ramirez596@company.com,(992) 696-3954,147499835,05/05/1984,"166 Park St",San Diego,TX

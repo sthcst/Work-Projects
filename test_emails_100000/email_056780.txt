@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Harris,matthew.harris9012@example.com,(513) 950-4030,315 80 2565,21/02/1973,"3934 Sixth St",Boston,WA

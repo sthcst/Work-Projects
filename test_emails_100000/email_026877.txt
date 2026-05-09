@@ -1,9 +1,0 @@
-contact:
-  name: Brian Gomez
-  email: brian.gomez2426@example.com
-  phone: (992) 885-6655
-  ssn: 543954593
-  dob: 06/02/1956
-  address: 4408 Oak Way
-  city: Phoenix
-  state: MA

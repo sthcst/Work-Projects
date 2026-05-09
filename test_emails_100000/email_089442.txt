@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Miller,michelle.miller35@example.com,440-757-2202,147 52 7120,07/27/1967,"4427 North Ave",Jacksonville,MI

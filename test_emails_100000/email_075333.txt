@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Perez
-  email: deborah.perez1844@business.net
-  phone: 947-336-6816
-  ssn: 773113668
-  dob: 4/2/1986
-  address: 5063 North St
-  city: San Antonio
-  state: TN

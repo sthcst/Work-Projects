@@ -1,9 +1,0 @@
-contact:
-  name: Edward White
-  email: edward.white1096@work.org
-  phone: +1 637-947-7998
-  ssn: 849 83 9437
-  dob: 06/05/1958
-  address: 3008 Cedar Dr
-  city: Austin
-  state: TX

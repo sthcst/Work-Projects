@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Martinez,jessica.martinez8118@yahoo.com,554-999-3200,606-35-2585,01/22/1986,"3403 Third St",Philadelphia,MA

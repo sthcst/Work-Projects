@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Collins
-  email: christopher.collins4195@business.net
-  phone: 582-684-7639
-  ssn: 665751155
-  dob: 13/10/1959
-  address: 5893 Elm Blvd
-  city: Philadelphia
-  state: MA

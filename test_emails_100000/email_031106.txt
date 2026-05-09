@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Carter,daniel.carter9370@outlook.com,(233) 335-9052,257998579,08/05/1993,"4898 Second Rd",Austin,CA

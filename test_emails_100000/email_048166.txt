@@ -1,9 +1,0 @@
-contact:
-  name: Jason Taylor
-  email: jason.taylor6026@yahoo.com
-  phone: 602-960-2684
-  ssn: 428 94 7544
-  dob: 22/05/1967
-  address: 4864 Oak Way
-  city: Chicago
-  state: AZ

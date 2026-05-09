@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Martin,daniel.martin8234@outlook.com,946-572-7815,096-63-9732,11/2/1996,"2209 Summer Court",Chicago,CO

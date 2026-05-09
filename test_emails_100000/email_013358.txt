@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Flores
-  email: jeffrey.flores5229@gmail.com
-  phone: 710-741-5294
-  ssn: 526-54-2268
-  dob: 04-12-2005
-  address: 7630 Park Ln
-  city: Seattle
-  state: WI

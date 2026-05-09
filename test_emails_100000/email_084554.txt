@@ -1,9 +1,0 @@
-contact:
-  name: Brian Collins
-  email: brian.collins4383@example.com
-  phone: (223) 885-3085
-  ssn: 763 23 9158
-  dob: 4/26/1973
-  address: 1327 Cedar Rd
-  city: Phoenix
-  state: MO

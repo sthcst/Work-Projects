@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Brown,steven.brown2883@outlook.com,(347) 894-3595,852429282,12/13/1973,"2928 Main Ln",Dallas,CA

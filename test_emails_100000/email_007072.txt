@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Wilson,mark.wilson8940@yahoo.com,386 496 8873,090-43-7684,7/9/1963,"7802 Summer St",Houston,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Romero,jason.romero4036@company.com,362-554-9567,005997753,04-27-1987,"1505 Park Ave",Dallas,WA

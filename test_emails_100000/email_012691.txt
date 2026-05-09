@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Nunez
-  email: rebecca.nunez4644@work.org
-  phone: +1 839-634-5029
-  ssn: 021 91 5747
-  dob: 1/16/1996
-  address: 9109 Elm Dr
-  city: Dallas
-  state: MD

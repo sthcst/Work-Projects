@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Gomez,mark.gomez8071@business.net,964-440-3107,433976451,8/26/1974,"1379 Main St",San Antonio,TX

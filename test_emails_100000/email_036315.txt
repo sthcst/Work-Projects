@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Morris,david.morris3949@business.net,570-248-1381,317 53 7220,24/08/1969,"2454 Park Rd",San Antonio,FL

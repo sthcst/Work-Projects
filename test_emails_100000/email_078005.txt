@@ -1,9 +1,0 @@
-contact:
-  name: William Gonzalez
-  email: william.gonzalez5252@outlook.com
-  phone: (827) 519-1760
-  ssn: 313893810
-  dob: 11/17/1999
-  address: 2102 Park Blvd
-  city: Boston
-  state: PA

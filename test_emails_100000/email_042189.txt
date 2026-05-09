@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Miller
-  email: jeffrey.miller8431@gmail.com
-  phone: +1 912-642-6110
-  ssn: 502 41 5692
-  dob: 03-11-1963
-  address: 9301 Summer Blvd
-  city: San Jose
-  state: CA

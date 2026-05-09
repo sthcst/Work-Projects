@@ -1,9 +1,0 @@
-contact:
-  name: Emma Thomas
-  email: emma.thomas748@work.org
-  phone: (377) 265-9603
-  ssn: 589 88 1033
-  dob: 06/28/1958
-  address: 783 Spring Way
-  city: Houston
-  state: MI

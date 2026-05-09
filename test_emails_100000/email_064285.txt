@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Thompson
-  email: rebecca.thompson2747@company.com
-  phone: 471 559 4669
-  ssn: 872047890
-  dob: 11/22/1987
-  address: 385 First St
-  city: Phoenix
-  state: WA

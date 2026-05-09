@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Collins,helen.collins6037@outlook.com,899-806-1600,367912426,9/4/1962,"2341 Fourth Ln",Phoenix,NJ

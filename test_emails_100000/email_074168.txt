@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Thompson
-  email: sarah.thompson6302@company.com
-  phone: 827 489 9621
-  ssn: 675-35-9577
-  dob: 24/11/1951
-  address: 8076 West Ave
-  city: New York
-  state: NY

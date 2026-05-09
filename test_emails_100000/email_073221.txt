@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Phillips,lisa.phillips6472@example.com,301 892 8600,033 65 1290,10/16/1978,"9103 Pine Court",Los Angeles,WA

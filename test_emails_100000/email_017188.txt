@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Garcia
-  email: jessica.garcia2345@company.com
-  phone: 699 846 4356
-  ssn: 895799657
-  dob: 09/01/1950
-  address: 9887 Spring Blvd
-  city: San Jose
-  state: AZ

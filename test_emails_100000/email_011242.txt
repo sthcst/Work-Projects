@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Brown,brenda.brown8217@outlook.com,+1 283-714-8170,178-36-7887,02-04-1986,"9312 East Dr",Chicago,AZ

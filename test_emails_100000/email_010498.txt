@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Martinez
-  email: jeffrey.martinez7095@gmail.com
-  phone: 240 386 4747
-  ssn: 752 73 5005
-  dob: 02-24-1986
-  address: 2011 Park Rd
-  city: Philadelphia
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: James Roberts
-  email: james.roberts315@yahoo.com
-  phone: (296) 289-3599
-  ssn: 421-35-2164
-  dob: 09/22/1967
-  address: 5790 Cedar Court
-  city: Dallas
-  state: TX

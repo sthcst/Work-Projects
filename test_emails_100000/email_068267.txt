@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Lee,cynthia.lee1265@outlook.com,+1 634-288-3696,302423326,11-25-1989,"2486 Third Rd",New York,CA

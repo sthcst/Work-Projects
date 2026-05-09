@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Walker,mark.walker2793@work.org,808-221-4361,312319802,12/15/1982,"6190 Summer Ln",Seattle,CA

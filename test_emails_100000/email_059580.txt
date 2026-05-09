@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Reed,amanda.reed9324@gmail.com,813 532 8371,477-25-3112,02-10-1989,"9132 Oak Dr",New York,CA

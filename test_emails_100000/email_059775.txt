@@ -1,9 +1,0 @@
-contact:
-  name: Angela Guerrero
-  email: angela.guerrero4403@work.org
-  phone: (270) 266-7802
-  ssn: 745 25 2903
-  dob: 20/11/1980
-  address: 6373 Main Blvd
-  city: Jacksonville
-  state: WA

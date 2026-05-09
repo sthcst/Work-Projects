@@ -1,9 +1,0 @@
-contact:
-  name: Megan Jones
-  email: megan.jones1933@business.net
-  phone: 233-933-8066
-  ssn: 861 99 8360
-  dob: 02/12/1982
-  address: 8451 Pine Ave
-  city: Seattle
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Rogers
-  email: nicholas.rogers9114@company.com
-  phone: 944 669 4484
-  ssn: 430 93 9854
-  dob: 15/12/1959
-  address: 3527 North Way
-  city: Boston
-  state: CA

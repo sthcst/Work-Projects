@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Carter
-  email: jessica.carter8591@mail.com
-  phone: 903 780 1501
-  ssn: 665 58 5761
-  dob: 09-07-1966
-  address: 1653 Pine Blvd
-  city: San Antonio
-  state: GA

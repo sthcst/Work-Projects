@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Hernandez
-  email: nicole.hernandez1965@work.org
-  phone: 813 520 3304
-  ssn: 719-87-1943
-  dob: 3/8/1963
-  address: 8359 North Blvd
-  city: Jacksonville
-  state: TX

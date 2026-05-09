@@ -1,9 +1,0 @@
-contact:
-  name: Steven Bell
-  email: steven.bell1464@yahoo.com
-  phone: 278 781 4135
-  ssn: 405 95 5215
-  dob: 14/03/1967
-  address: 9636 Pine Ave
-  city: San Jose
-  state: GA

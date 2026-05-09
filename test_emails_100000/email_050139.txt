@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Nelson,john.nelson4453@work.org,(995) 214-8090,025-39-8681,04-18-1961,"1746 Second Ave",San Antonio,TX

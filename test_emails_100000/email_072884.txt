@@ -1,9 +1,0 @@
-contact:
-  name: Maria Martin
-  email: maria.martin1139@example.com
-  phone: 626 413 7860
-  ssn: 636-30-4256
-  dob: 07-22-1994
-  address: 4495 East Rd
-  city: Phoenix
-  state: TN

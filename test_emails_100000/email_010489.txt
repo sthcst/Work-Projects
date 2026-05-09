@@ -1,9 +1,0 @@
-contact:
-  name: Megan Campbell
-  email: megan.campbell7746@example.com
-  phone: +1 847-563-9801
-  ssn: 350-71-1889
-  dob: 8/22/1978
-  address: 381 Park Court
-  city: Philadelphia
-  state: DC

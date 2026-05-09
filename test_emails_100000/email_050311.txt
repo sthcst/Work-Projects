@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Morris
-  email: jeffrey.morris8934@outlook.com
-  phone: +1 748-458-5617
-  ssn: 177 74 1270
-  dob: 10/26/1961
-  address: 7118 North Ave
-  city: San Antonio
-  state: TX

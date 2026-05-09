@@ -1,9 +1,0 @@
-contact:
-  name: Gary Collins
-  email: gary.collins6931@work.org
-  phone: +1 376-559-5380
-  ssn: 764934872
-  dob: 06/16/1969
-  address: 6972 Third Ave
-  city: Philadelphia
-  state: AZ

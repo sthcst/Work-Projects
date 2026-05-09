@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Alvarado,paul.alvarado293@outlook.com,646-586-4906,304 80 2284,27/03/1977,"5625 Summer St",Jacksonville,WI

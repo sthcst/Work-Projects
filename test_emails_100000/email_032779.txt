@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Ortiz
-  email: katherine.ortiz1772@company.com
-  phone: 568-742-1620
-  ssn: 984 90 6667
-  dob: 01/01/1972
-  address: 6310 North Ln
-  city: Chicago
-  state: DC

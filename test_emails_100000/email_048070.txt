@@ -1,9 +1,0 @@
-contact:
-  name: Brian Brown
-  email: brian.brown7207@company.com
-  phone: 988-318-9961
-  ssn: 005734802
-  dob: 04/15/1994
-  address: 3754 First Ave
-  city: San Jose
-  state: CA

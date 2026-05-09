@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Flores
-  email: michelle.flores9996@business.net
-  phone: 588 660 4131
-  ssn: 977 48 2817
-  dob: 17/04/1984
-  address: 6974 Third St
-  city: Dallas
-  state: FL

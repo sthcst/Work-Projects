@@ -1,9 +1,0 @@
-contact:
-  name: Jason Romero
-  email: jason.romero9567@business.net
-  phone: 735 830 7443
-  ssn: 849684223
-  dob: 08-21-1990
-  address: 6738 Pine Ave
-  city: San Diego
-  state: CO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Carter,samantha.carter8012@mail.com,+1 255-586-9109,199 59 2379,15/11/1966,"3737 Fifth Court",Chicago,AZ

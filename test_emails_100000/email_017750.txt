@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Jones,david.jones2899@outlook.com,+1 299-726-8372,477 56 9349,20/08/1990,"9577 Spring Rd",Chicago,AZ

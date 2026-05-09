@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Stewart
-  email: katherine.stewart1456@work.org
-  phone: (200) 354-8518
-  ssn: 514206250
-  dob: 10-23-1963
-  address: 8300 North Blvd
-  city: Washington
-  state: TN

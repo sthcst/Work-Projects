@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Wilson,lisa.wilson8341@company.com,+1 250-898-4545,628179418,04/15/1951,"5600 Pine Ave",Austin,MD

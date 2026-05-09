@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Reeves,pamela.reeves4032@business.net,695 818 2081,018997247,12/02/1993,"9340 Pine Dr",San Antonio,DC

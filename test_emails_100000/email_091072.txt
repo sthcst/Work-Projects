@@ -1,9 +1,0 @@
-contact:
-  name: Angela Edwards
-  email: angela.edwards2470@mail.com
-  phone: 988 622 3812
-  ssn: 774422458
-  dob: 12/5/1985
-  address: 109 Cedar Court
-  city: Dallas
-  state: TX

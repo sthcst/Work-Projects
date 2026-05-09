@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Johnson,anna.johnson192@company.com,+1 562-818-5312,555-54-8175,10-23-1972,"2934 Park Rd",San Antonio,CA

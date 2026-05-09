@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Jones,angela.jones7934@gmail.com,(702) 916-3196,676-06-1860,12/26/1962,"2036 Second Ln",San Antonio,MD

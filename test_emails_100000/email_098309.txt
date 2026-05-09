@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Edwards
-  email: ryan.edwards5829@company.com
-  phone: 862 952 1879
-  ssn: 904475830
-  dob: 02/12/2001
-  address: 9227 Second Blvd
-  city: San Jose
-  state: TX

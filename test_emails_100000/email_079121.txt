@@ -1,9 +1,0 @@
-contact:
-  name: William Murillo
-  email: william.murillo2001@business.net
-  phone: 900 599 5555
-  ssn: 187-50-9953
-  dob: 05-13-1968
-  address: 2363 Summer Ln
-  city: Houston
-  state: IL

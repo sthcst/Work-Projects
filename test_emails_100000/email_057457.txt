@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Ramirez,joshua.ramirez612@mail.com,570-246-2021,191 14 7461,04/27/1961,"7214 Fourth Rd",Washington,CA

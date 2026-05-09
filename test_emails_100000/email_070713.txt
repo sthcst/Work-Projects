@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Reed,michelle.reed7661@company.com,673 566 3383,618 57 6295,04/11/1975,"6191 East Ave",Boston,CA

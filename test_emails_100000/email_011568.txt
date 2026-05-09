@@ -1,9 +1,0 @@
-contact:
-  name: Anna Rogers
-  email: anna.rogers606@yahoo.com
-  phone: 301-519-2078
-  ssn: 302 44 5316
-  dob: 02/21/2002
-  address: 9407 Cedar St
-  city: Houston
-  state: NC

@@ -1,9 +1,0 @@
-contact:
-  name: Brian Hernandez
-  email: brian.hernandez5972@outlook.com
-  phone: 654-771-2142
-  ssn: 535-16-5802
-  dob: 12/07/1957
-  address: 3492 South Dr
-  city: Washington
-  state: DC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Thompson,lauren.thompson313@business.net,690-437-2892,892 30 8472,20/06/1989,"903 North Ln",Austin,CA

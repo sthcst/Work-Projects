@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Hernandez,emma.hernandez2749@gmail.com,351 891 9364,459-04-1583,10/2/1974,"4695 West Blvd",Phoenix,MD

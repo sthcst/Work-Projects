@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Miller
-  email: shirley.miller6706@example.com
-  phone: (724) 964-8223
-  ssn: 785 78 6911
-  dob: 08/11/1959
-  address: 5320 North Way
-  city: Jacksonville
-  state: CO

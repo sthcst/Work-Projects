@@ -1,9 +1,0 @@
-contact:
-  name: James Morris
-  email: james.morris3958@work.org
-  phone: 548 295 9819
-  ssn: 596-21-3297
-  dob: 12-27-2002
-  address: 7970 West Rd
-  city: Chicago
-  state: NY

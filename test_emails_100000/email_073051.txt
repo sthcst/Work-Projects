@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Ortiz,brenda.ortiz2886@business.net,+1 472-929-3724,868 95 6491,02/18/1990,"3538 Fifth Court",Houston,CA

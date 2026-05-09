@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Dominguez
-  email: ashley.dominguez1943@business.net
-  phone: +1 557-843-9561
-  ssn: 700 92 6888
-  dob: 01/03/1982
-  address: 5688 South Ln
-  city: Washington
-  state: NC

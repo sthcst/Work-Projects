@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Miller,lisa.miller1602@yahoo.com,+1 524-352-9913,662171073,20/08/1950,"7929 Fifth Way",Houston,WI

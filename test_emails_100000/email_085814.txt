@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Gonzalez,andrew.gonzalez4381@yahoo.com,608 720 9383,791-44-3042,7/24/1971,"8183 Main Ln",Houston,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Anderson,emma.anderson2313@example.com,493-944-9889,277-92-8899,08/15/1987,"2046 Maple Way",Dallas,MO

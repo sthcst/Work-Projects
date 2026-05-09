@@ -1,9 +1,0 @@
-contact:
-  name: Gary Hernandez
-  email: gary.hernandez3379@outlook.com
-  phone: 400-919-8038
-  ssn: 999-72-3530
-  dob: 4/25/1950
-  address: 2104 Maple Rd
-  city: Washington
-  state: CA

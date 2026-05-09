@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Romero
-  email: kenneth.romero8221@mail.com
-  phone: 703 552 3944
-  ssn: 264424606
-  dob: 11/28/1984
-  address: 4869 Pine Way
-  city: Seattle
-  state: DC

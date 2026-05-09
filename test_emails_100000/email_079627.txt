@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Serrano,angela.serrano2627@business.net,+1 936-266-1672,079 73 6342,7/12/1992,"4401 Main St",Austin,DC

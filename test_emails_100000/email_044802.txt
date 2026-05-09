@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Campbell,kathleen.campbell5327@business.net,510-229-6903,989-76-2562,02/05/1975,"7923 West Court",San Diego,CA

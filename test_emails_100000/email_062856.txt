@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Garcia
-  email: kevin.garcia4657@mail.com
-  phone: (452) 791-4822
-  ssn: 336 11 4489
-  dob: 25/10/1964
-  address: 8809 Cedar Court
-  city: San Antonio
-  state: WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Thompson,lauren.thompson3879@outlook.com,520 939 5032,977234336,28/12/1972,"8285 Park Ln",San Jose,TX

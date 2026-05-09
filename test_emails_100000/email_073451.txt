@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Romero
-  email: ryan.romero3451@yahoo.com
-  phone: (958) 384-2819
-  ssn: 956 07 6767
-  dob: 10/10/1964
-  address: 5540 Elm Ln
-  city: Boston
-  state: CA

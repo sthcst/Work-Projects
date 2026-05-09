@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Jones
-  email: nicole.jones4923@outlook.com
-  phone: (816) 400-5047
-  ssn: 589-41-6448
-  dob: 03-11-1974
-  address: 5091 Main St
-  city: Houston
-  state: CA

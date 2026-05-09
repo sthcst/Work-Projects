@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Robinson
-  email: daniel.robinson4598@company.com
-  phone: +1 973-870-6450
-  ssn: 692 10 8477
-  dob: 05-16-1977
-  address: 6383 North Ave
-  city: Boston
-  state: CA

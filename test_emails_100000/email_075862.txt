@@ -1,9 +1,0 @@
-contact:
-  name: Edward Gomez
-  email: edward.gomez5283@company.com
-  phone: 992 729 5258
-  ssn: 695-89-9372
-  dob: 11-09-1973
-  address: 1528 Pine Way
-  city: San Antonio
-  state: MD

@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Harris
-  email: lisa.harris6212@business.net
-  phone: 491-701-7878
-  ssn: 641753278
-  dob: 11-13-1972
-  address: 1517 Sixth St
-  city: Los Angeles
-  state: WI

@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Serrano
-  email: jessica.serrano4345@outlook.com
-  phone: +1 720-970-4483
-  ssn: 135042585
-  dob: 08/26/1984
-  address: 3914 West Ave
-  city: Los Angeles
-  state: TX

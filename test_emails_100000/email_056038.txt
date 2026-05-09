@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Lee
-  email: anthony.lee6704@outlook.com
-  phone: +1 447-204-1093
-  ssn: 913044893
-  dob: 06-07-1999
-  address: 2871 Birch Court
-  city: Denver
-  state: MA

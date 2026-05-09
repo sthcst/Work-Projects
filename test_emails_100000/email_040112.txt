@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Anderson,katherine.anderson9172@work.org,407 280 8504,562331313,4/11/1961,"3983 Pine St",Dallas,TX

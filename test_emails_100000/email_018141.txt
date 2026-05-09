@@ -1,9 +1,0 @@
-contact:
-  name: Megan Jackson
-  email: megan.jackson8707@example.com
-  phone: (933) 515-4613
-  ssn: 013-50-8683
-  dob: 08/04/1951
-  address: 9517 Pine St
-  city: Dallas
-  state: TX

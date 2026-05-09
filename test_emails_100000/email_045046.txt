@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Reed,nicholas.reed6376@gmail.com,996 485 2344,403 28 7623,12/4/1981,"6175 Oak Ave",Jacksonville,WA

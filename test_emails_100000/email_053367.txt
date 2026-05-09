@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Nunez,kevin.nunez9949@company.com,483-898-1941,562 28 5581,12/5/1964,"3972 North Blvd",San Diego,MA

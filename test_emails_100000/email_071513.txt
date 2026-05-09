@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Gonzalez
-  email: jennifer.gonzalez9731@yahoo.com
-  phone: +1 658-278-4851
-  ssn: 808 10 3143
-  dob: 07/09/1960
-  address: 1445 Maple Way
-  city: Los Angeles
-  state: TX

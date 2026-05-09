@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Collins,robert.collins5154@work.org,492 823 6563,917 83 3556,22/02/1986,"7824 East Ave",Dallas,VA

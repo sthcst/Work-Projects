@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Ramirez,lisa.ramirez4340@business.net,(436) 259-7598,985-83-2128,9/22/1965,"4669 Cedar Court",Los Angeles,OH

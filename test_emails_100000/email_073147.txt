@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Lopez,paul.lopez9740@business.net,(638) 623-2036,755584485,07-15-1956,"5332 Oak Way",Seattle,TN

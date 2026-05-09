@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Brown,sarah.brown8371@outlook.com,458 703 4887,779 30 8667,06-02-1968,"4638 Third Court",San Diego,TX

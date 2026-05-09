@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Dominguez,lauren.dominguez1501@gmail.com,+1 282-851-8855,518-62-6425,07/27/1983,"6293 Third Ln",Chicago,TN

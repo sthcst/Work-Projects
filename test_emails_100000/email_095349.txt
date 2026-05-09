@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Ramirez,anna.ramirez4519@mail.com,+1 329-874-9499,450-88-8003,04/05/1965,"6035 Maple Way",New York,WA

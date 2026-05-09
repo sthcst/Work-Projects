@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Cooper,stephanie.cooper7124@gmail.com,711 778 9160,960-18-9671,08/17/1970,"8381 Fifth Court",San Diego,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Murillo,andrew.murillo3323@gmail.com,876 943 9016,908 53 5277,11/8/1996,"2996 Fourth Court",Jacksonville,MI

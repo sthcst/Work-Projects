@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Phillips,christopher.phillips5492@mail.com,+1 798-744-5125,304 42 6623,12-07-1982,"4683 West Ln",Seattle,FL

@@ -1,9 +1,0 @@
-contact:
-  name: Steven Moore
-  email: steven.moore1472@yahoo.com
-  phone: 674 682 5221
-  ssn: 502886331
-  dob: 02-16-1991
-  address: 330 East Court
-  city: Austin
-  state: PA

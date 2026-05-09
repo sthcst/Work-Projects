@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Johnson,rachel.johnson4416@outlook.com,973-259-4774,511-57-1195,06-07-1982,"8692 Cedar Rd",Boston,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Delgado,brian.delgado1854@business.net,391-583-5175,763-35-7524,27/05/1954,"6323 Second Ln",New York,CA

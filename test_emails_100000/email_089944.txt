@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Edwards,matthew.edwards7532@company.com,568 546 2777,163 93 9575,09-22-1994,"1909 Oak St",Philadelphia,CA

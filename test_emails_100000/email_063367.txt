@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Evans,kimberly.evans152@yahoo.com,+1 619-826-6491,558162692,01-24-1965,"6528 South Way",Los Angeles,VA

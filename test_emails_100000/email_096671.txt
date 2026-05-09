@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Harris
-  email: deborah.harris3132@example.com
-  phone: 772-754-9859
-  ssn: 006634135
-  dob: 10-23-1986
-  address: 2384 Fifth Court
-  city: Denver
-  state: TX

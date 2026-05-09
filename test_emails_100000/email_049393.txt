@@ -1,9 +1,0 @@
-contact:
-  name: Jane Martin
-  email: jane.martin6064@example.com
-  phone: 449 801 8835
-  ssn: 185-68-3304
-  dob: 07/26/1977
-  address: 1805 Fifth Ln
-  city: San Jose
-  state: VA

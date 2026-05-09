@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Stewart
-  email: brenda.stewart2557@yahoo.com
-  phone: +1 893-592-7330
-  ssn: 460366156
-  dob: 11-20-1960
-  address: 6711 First St
-  city: Chicago
-  state: NJ

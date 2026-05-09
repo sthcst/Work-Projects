@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Dominguez,jennifer.dominguez8325@mail.com,794 651 2903,930-69-2904,6/9/1986,"2908 Summer Rd",Houston,MI

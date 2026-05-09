@@ -1,9 +1,0 @@
-contact:
-  name: James Thompson
-  email: james.thompson8881@work.org
-  phone: (355) 913-9424
-  ssn: 323 47 4482
-  dob: 03/07/1970
-  address: 8326 Third Blvd
-  city: San Jose
-  state: MO

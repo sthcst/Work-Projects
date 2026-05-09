@@ -1,9 +1,0 @@
-contact:
-  name: Mark Garcia
-  email: mark.garcia4896@business.net
-  phone: 452 725 4354
-  ssn: 682-59-7676
-  dob: 1/12/1999
-  address: 4356 Park Way
-  city: Philadelphia
-  state: WA

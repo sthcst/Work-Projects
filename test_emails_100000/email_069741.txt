@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Hall
-  email: christopher.hall9541@company.com
-  phone: 381 465 7932
-  ssn: 233246172
-  dob: 07-03-1969
-  address: 9023 Elm Blvd
-  city: San Diego
-  state: TX

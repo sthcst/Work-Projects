@@ -1,9 +1,0 @@
-contact:
-  name: Angela Rodriguez
-  email: angela.rodriguez2498@business.net
-  phone: +1 349-344-2959
-  ssn: 790677237
-  dob: 11/03/1960
-  address: 537 Main Ave
-  city: Philadelphia
-  state: CA

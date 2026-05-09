@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Rodriguez,daniel.rodriguez3928@yahoo.com,991-729-8836,269 68 8234,10-09-1999,"9344 Elm Way",Houston,MD

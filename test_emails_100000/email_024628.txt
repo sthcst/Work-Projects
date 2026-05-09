@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Jimenez
-  email: matthew.jimenez1615@work.org
-  phone: 534 285 3813
-  ssn: 552-61-7261
-  dob: 08/22/1997
-  address: 4636 Sixth St
-  city: San Diego
-  state: NJ

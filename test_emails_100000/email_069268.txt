@@ -1,9 +1,0 @@
-contact:
-  name: David Thomas
-  email: david.thomas4082@yahoo.com
-  phone: 746 639 5420
-  ssn: 784 96 2571
-  dob: 10/24/1952
-  address: 1999 Birch Rd
-  city: Austin
-  state: NY

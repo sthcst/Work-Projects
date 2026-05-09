@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Edwards
-  email: jessica.edwards691@mail.com
-  phone: 555 732 1611
-  ssn: 912-12-8988
-  dob: 10/23/2005
-  address: 9183 East Rd
-  city: Austin
-  state: DC

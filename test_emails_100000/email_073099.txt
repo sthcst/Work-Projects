@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Reyes
-  email: brenda.reyes7862@company.com
-  phone: 325 606 3594
-  ssn: 077 93 6854
-  dob: 06-01-1999
-  address: 4202 Fourth Dr
-  city: New York
-  state: WA

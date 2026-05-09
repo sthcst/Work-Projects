@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Delgado
-  email: joseph.delgado4482@company.com
-  phone: 520-682-8447
-  ssn: 677-82-3610
-  dob: 09/12/1958
-  address: 3262 Cedar Ave
-  city: Los Angeles
-  state: MO

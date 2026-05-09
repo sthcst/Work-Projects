@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Walker,james.walker7275@mail.com,(271) 898-2784,508 47 4595,12/06/1950,"42 Second Dr",Chicago,MI

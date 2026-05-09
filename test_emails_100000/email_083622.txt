@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Serrano,emma.serrano8992@company.com,(930) 642-5738,242-82-6176,4/4/1996,"3848 Fifth Way",San Diego,MD

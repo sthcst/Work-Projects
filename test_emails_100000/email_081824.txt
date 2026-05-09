@@ -1,9 +1,0 @@
-contact:
-  name: William Garcia
-  email: william.garcia8428@company.com
-  phone: 759 272 3664
-  ssn: 839-33-4576
-  dob: 24/06/1984
-  address: 6417 Spring Ln
-  city: San Jose
-  state: FL

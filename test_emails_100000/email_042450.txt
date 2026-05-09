@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Rogers,helen.rogers4507@company.com,+1 590-611-8661,059 62 5407,08/01/1979,"5266 West Blvd",Chicago,NJ

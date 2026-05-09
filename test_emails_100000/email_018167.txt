@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Young,gary.young9135@outlook.com,(848) 989-7418,085 72 3891,2/28/1958,"1425 West St",Jacksonville,VA

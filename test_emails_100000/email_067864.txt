@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Peterson,jacob.peterson6770@example.com,301 535 1693,604598510,06-08-1967,"4603 Park Ave",Los Angeles,VA

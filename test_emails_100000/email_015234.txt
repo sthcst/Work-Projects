@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Ramirez,brenda.ramirez2988@yahoo.com,+1 447-797-3374,367 91 9398,07/09/1970,"2378 South Blvd",Phoenix,AZ

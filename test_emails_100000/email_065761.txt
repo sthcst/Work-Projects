@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Clark,anthony.clark8392@mail.com,200 492 1023,088-50-4585,08/08/1963,"7416 Second Ln",San Diego,MA

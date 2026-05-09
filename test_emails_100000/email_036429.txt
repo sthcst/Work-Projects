@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Miller,robert.miller2165@outlook.com,347 235 4560,468 22 4836,09-16-1953,"8075 Main Ln",San Antonio,TN

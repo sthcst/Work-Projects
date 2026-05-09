@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Thomas,michelle.thomas3907@mail.com,368-924-8869,181 54 6501,09/23/1959,"7093 Second Blvd",Denver,WA

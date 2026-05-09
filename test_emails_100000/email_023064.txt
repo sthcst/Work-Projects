@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Roberts,kenneth.roberts8591@company.com,916-897-9751,811 09 3966,19/10/2004,"4470 Birch Ave",Phoenix,MA

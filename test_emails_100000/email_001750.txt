@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Clark,christine.clark9991@example.com,340-860-6127,549 09 4634,7/19/1968,"7066 Summer Ln",Denver,FL

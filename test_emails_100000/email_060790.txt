@@ -1,9 +1,0 @@
-contact:
-  name: Edward Jackson
-  email: edward.jackson524@company.com
-  phone: 265-886-5863
-  ssn: 723919658
-  dob: 11-25-1997
-  address: 1148 Summer Blvd
-  city: Washington
-  state: CA

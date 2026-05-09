@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Martinez,gary.martinez912@outlook.com,(563) 316-9074,037 04 7174,1/22/1968,"6885 North Ave",Philadelphia,MO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Morris,maria.morris3627@gmail.com,885-680-8340,391-52-1026,16/08/1957,"3585 Second Court",Boston,CO

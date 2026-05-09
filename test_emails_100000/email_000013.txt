@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Johnson
-  email: kenneth.johnson9087@example.com
-  phone: 337-470-2891
-  ssn: 912 14 3546
-  dob: 05-20-1963
-  address: 3345 Spring Court
-  city: Dallas
-  state: MD

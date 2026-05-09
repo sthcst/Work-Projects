@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Miller,john.miller9167@company.com,+1 407-402-9447,705-92-1124,28/02/2004,"8604 Cedar Dr",Houston,TX

@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Robinson
-  email: rebecca.robinson9009@work.org
-  phone: (250) 780-3435
-  ssn: 855788795
-  dob: 7/20/1962
-  address: 1866 Fifth Ave
-  city: Boston
-  state: WA

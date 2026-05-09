@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Anderson
-  email: joseph.anderson669@business.net
-  phone: (802) 896-5231
-  ssn: 793544384
-  dob: 26/01/1987
-  address: 2242 West Dr
-  city: Washington
-  state: MA

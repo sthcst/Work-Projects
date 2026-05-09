@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Parker
-  email: joshua.parker562@company.com
-  phone: (865) 462-7165
-  ssn: 346-41-7965
-  dob: 5/12/1991
-  address: 7816 Spring Rd
-  city: Austin
-  state: NY

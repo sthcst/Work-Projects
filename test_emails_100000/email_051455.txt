@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Murillo,kenneth.murillo5969@example.com,315-848-7248,474 95 6915,23/07/1971,"6364 Pine Dr",Chicago,OH

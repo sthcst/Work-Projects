@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Taylor
-  email: ashley.taylor6531@business.net
-  phone: +1 598-748-1655
-  ssn: 144 67 3308
-  dob: 08/21/1964
-  address: 5765 Oak Court
-  city: Philadelphia
-  state: AZ

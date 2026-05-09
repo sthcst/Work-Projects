@@ -1,9 +1,0 @@
-contact:
-  name: William Edwards
-  email: william.edwards2954@gmail.com
-  phone: 292-753-2709
-  ssn: 812681089
-  dob: 01-20-1965
-  address: 9867 East Way
-  city: Jacksonville
-  state: MA

@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Harris
-  email: sarah.harris4788@work.org
-  phone: (456) 807-9389
-  ssn: 770721503
-  dob: 05/07/1991
-  address: 7397 Birch St
-  city: San Jose
-  state: IL

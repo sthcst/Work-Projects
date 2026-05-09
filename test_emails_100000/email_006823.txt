@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Bell,deborah.bell8380@example.com,+1 667-823-8395,136605721,5/2/1990,"2668 South Ln",San Diego,MA

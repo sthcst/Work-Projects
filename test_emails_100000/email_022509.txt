@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Romero
-  email: amanda.romero8903@mail.com
-  phone: 249 269 4955
-  ssn: 207-82-9303
-  dob: 01-04-1958
-  address: 6568 Third Court
-  city: New York
-  state: TX

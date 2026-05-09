@@ -1,9 +1,0 @@
-contact:
-  name: James Reyes
-  email: james.reyes6983@outlook.com
-  phone: 972-216-5524
-  ssn: 790 93 9779
-  dob: 11-27-1960
-  address: 8240 Spring Rd
-  city: Houston
-  state: CA

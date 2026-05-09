@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Lee,michael.lee9618@business.net,340 790 6559,823-15-1544,02/25/1956,"1544 West Ln",San Antonio,NY

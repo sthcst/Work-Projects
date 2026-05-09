@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Phillips,anna.phillips8904@company.com,+1 517-513-3221,283678414,08/24/1974,"8010 Summer Way",San Antonio,AZ

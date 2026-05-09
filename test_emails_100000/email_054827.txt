@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Flores,stephanie.flores7807@company.com,631 852 5258,111 51 6826,10/14/1974,"2002 Third Way",Phoenix,CA

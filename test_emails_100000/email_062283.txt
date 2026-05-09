@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Davis,timothy.davis4207@example.com,534 816 3652,825914639,5/3/1981,"6803 Pine Blvd",San Antonio,GA

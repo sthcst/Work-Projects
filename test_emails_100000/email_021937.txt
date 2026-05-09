@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Sanchez
-  email: joseph.sanchez1114@gmail.com
-  phone: (337) 767-7750
-  ssn: 998652221
-  dob: 13/10/1993
-  address: 1263 Third Court
-  city: San Diego
-  state: TX

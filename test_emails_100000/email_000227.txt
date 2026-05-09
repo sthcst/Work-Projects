@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Smith,joseph.smith5096@gmail.com,541-678-1755,106-67-6119,10/25/1969,"5267 Birch Ln",San Jose,TX

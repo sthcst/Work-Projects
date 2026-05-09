@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Hernandez,cynthia.hernandez1028@mail.com,(725) 364-3085,936305465,09-16-1985,"2860 Fifth Ave",San Jose,TX

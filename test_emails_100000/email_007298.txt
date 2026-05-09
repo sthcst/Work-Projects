@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer White
-  email: jennifer.white5665@work.org
-  phone: +1 381-809-7925
-  ssn: 993645299
-  dob: 3/18/1967
-  address: 8174 First Ave
-  city: Chicago
-  state: MA

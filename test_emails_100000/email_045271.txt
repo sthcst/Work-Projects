@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Perez,stephanie.perez3444@outlook.com,279 877 1003,867315725,12-27-1993,"9539 Elm Rd",Chicago,TX

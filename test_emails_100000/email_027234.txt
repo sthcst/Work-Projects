@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Cooper
-  email: ashley.cooper1806@outlook.com
-  phone: 558-212-6592
-  ssn: 927513539
-  dob: 3/4/1992
-  address: 3833 Fifth Dr
-  city: Philadelphia
-  state: PA

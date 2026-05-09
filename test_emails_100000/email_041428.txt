@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Serrano
-  email: joseph.serrano2625@example.com
-  phone: +1 362-616-2701
-  ssn: 484968604
-  dob: 04/02/2000
-  address: 307 Maple Ln
-  city: Philadelphia
-  state: AZ

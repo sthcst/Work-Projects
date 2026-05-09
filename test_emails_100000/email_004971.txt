@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Bell,jeffrey.bell5610@mail.com,+1 240-829-2571,495382041,10-13-1954,"906 Spring Blvd",Los Angeles,MD

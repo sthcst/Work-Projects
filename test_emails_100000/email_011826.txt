@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Jackson,pamela.jackson3600@company.com,284-768-6145,800-73-4104,01-10-1983,"9976 Second Way",Philadelphia,TN

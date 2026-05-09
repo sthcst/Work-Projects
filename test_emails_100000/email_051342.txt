@@ -1,9 +1,0 @@
-contact:
-  name: David Rodriguez
-  email: david.rodriguez2291@gmail.com
-  phone: 230 899 5489
-  ssn: 430594028
-  dob: 02/08/1971
-  address: 232 Summer Way
-  city: San Antonio
-  state: MD

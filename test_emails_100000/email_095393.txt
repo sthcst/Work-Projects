@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Rodriguez
-  email: joshua.rodriguez6066@example.com
-  phone: 497 219 7285
-  ssn: 900 56 6720
-  dob: 07/09/1972
-  address: 5810 Fourth Blvd
-  city: Los Angeles
-  state: NY

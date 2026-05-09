@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Stewart,shirley.stewart5670@business.net,+1 507-224-6826,762 51 2909,02/10/2004,"52 Fourth Ln",San Jose,PA

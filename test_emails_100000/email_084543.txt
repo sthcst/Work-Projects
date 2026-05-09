@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Evans,stephanie.evans3541@mail.com,879 576 5335,699 08 9015,12/5/1982,"6596 Park Court",Seattle,MA

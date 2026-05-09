@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Thomas,nicholas.thomas7075@business.net,508 708 3363,427-72-1681,5/7/1959,"1678 Fifth Dr",Denver,GA

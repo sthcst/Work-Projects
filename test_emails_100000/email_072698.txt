@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Nunez,katherine.nunez2654@gmail.com,956 413 2154,593-86-3816,03-02-2003,"5290 Sixth Court",Chicago,WA

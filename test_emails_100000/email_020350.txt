@@ -1,9 +1,0 @@
-contact:
-  name: George Gonzalez
-  email: george.gonzalez2890@example.com
-  phone: 570-748-8612
-  ssn: 229 80 9041
-  dob: 04/04/1974
-  address: 3018 Elm Ln
-  city: New York
-  state: MI

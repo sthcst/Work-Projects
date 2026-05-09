@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Taylor
-  email: rachel.taylor3455@yahoo.com
-  phone: 613 280 8587
-  ssn: 002 12 7945
-  dob: 2/17/1968
-  address: 1556 First Blvd
-  city: San Antonio
-  state: PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Morris,brian.morris5593@business.net,+1 433-518-7475,047603835,03/20/1959,"9708 Sixth Court",Jacksonville,MO

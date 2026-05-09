@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Smith,lauren.smith2327@company.com,398 546 5196,401815774,05-14-1997,"537 First Way",Washington,TX

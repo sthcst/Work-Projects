@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Gonzalez,richard.gonzalez4715@outlook.com,+1 748-469-9664,616608245,19/04/1968,"736 Oak Ln",Chicago,GA

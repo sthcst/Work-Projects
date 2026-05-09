@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Evans,pamela.evans7252@gmail.com,+1 745-424-2064,527367878,12/26/1981,"3331 Elm Ave",Dallas,NJ

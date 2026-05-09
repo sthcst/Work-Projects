@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Martinez,kenneth.martinez993@yahoo.com,(580) 445-5496,992-21-1475,06/27/1994,"5865 Pine Ave",Seattle,PA

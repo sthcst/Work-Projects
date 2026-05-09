@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Davis
-  email: ashley.davis5543@mail.com
-  phone: (527) 652-9479
-  ssn: 104-84-7337
-  dob: 02/01/1973
-  address: 8902 Elm Ln
-  city: Chicago
-  state: WA

@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Hall
-  email: ashley.hall7108@outlook.com
-  phone: (788) 273-2842
-  ssn: 446 04 4249
-  dob: 04/26/1977
-  address: 9989 Oak Ln
-  city: Los Angeles
-  state: MD

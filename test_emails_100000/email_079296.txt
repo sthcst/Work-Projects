@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Wilson,anna.wilson7394@gmail.com,+1 586-833-3421,538-94-2361,09/12/1970,"2907 Maple St",Los Angeles,NY

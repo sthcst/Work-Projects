@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Perez,maria.perez4562@yahoo.com,386-787-4099,065 03 8665,7/15/1985,"9895 Sixth Way",Dallas,WA

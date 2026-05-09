@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Brown,james.brown8669@business.net,(299) 558-6966,585-05-7162,09-06-1999,"3086 Sixth Blvd",Philadelphia,CA

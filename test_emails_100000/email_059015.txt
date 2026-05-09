@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Wilson
-  email: rachel.wilson5971@company.com
-  phone: +1 323-972-1338
-  ssn: 392-71-8043
-  dob: 05-03-1951
-  address: 7243 Oak Way
-  city: San Diego
-  state: MA

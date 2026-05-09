@@ -1,9 +1,0 @@
-contact:
-  name: David Hernandez
-  email: david.hernandez4558@gmail.com
-  phone: 850-786-6414
-  ssn: 592 05 1444
-  dob: 03/07/1952
-  address: 5411 Park Ln
-  city: Seattle
-  state: NJ

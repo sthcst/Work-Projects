@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Thompson,angela.thompson746@yahoo.com,(645) 517-6870,436344973,09/16/1977,"6141 Oak Blvd",Houston,TX

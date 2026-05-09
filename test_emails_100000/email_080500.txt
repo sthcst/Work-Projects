@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Clark,stephanie.clark5257@gmail.com,+1 575-946-3705,577175322,01/26/1960,"7385 North Ln",San Diego,VA

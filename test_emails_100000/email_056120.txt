@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Dominguez,megan.dominguez2984@outlook.com,660-711-5164,067 32 1666,12/18/1982,"3546 Oak Rd",Jacksonville,NC

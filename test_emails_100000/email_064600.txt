@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Moore,nicholas.moore5567@example.com,(653) 971-7232,956225820,09-28-1961,"2764 South Way",San Antonio,TN

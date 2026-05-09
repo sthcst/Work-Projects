@@ -1,9 +1,0 @@
-contact:
-  name: Emily Davis
-  email: emily.davis4689@mail.com
-  phone: +1 827-583-3939
-  ssn: 126321738
-  dob: 01-21-1974
-  address: 1570 Maple Blvd
-  city: Houston
-  state: PA

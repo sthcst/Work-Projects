@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Flores,michelle.flores7345@example.com,796-519-1609,417-91-2995,08/12/1975,"185 Summer St",Denver,DC

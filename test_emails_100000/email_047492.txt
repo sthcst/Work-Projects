@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Gonzalez
-  email: cynthia.gonzalez7317@yahoo.com
-  phone: +1 885-691-6157
-  ssn: 979-20-1494
-  dob: 5/6/1981
-  address: 3085 Main Court
-  city: Austin
-  state: IL

@@ -1,9 +1,0 @@
-contact:
-  name: Emma Morgan
-  email: emma.morgan9162@outlook.com
-  phone: +1 576-934-6542
-  ssn: 159-87-3904
-  dob: 17/05/1977
-  address: 330 West Ln
-  city: Dallas
-  state: TX

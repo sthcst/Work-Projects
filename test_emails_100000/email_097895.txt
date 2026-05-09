@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Miller,anthony.miller5691@yahoo.com,633-753-7952,128-37-9844,18/09/2001,"321 Spring Ln",San Antonio,CA

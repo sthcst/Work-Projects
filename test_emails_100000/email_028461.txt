@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Romero,kevin.romero4534@mail.com,(490) 414-3829,409-35-3304,08/14/1976,"6183 Main Ln",Denver,FL

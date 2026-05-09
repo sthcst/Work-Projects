@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Collins
-  email: ryan.collins6474@mail.com
-  phone: 426 521 3596
-  ssn: 147-36-8328
-  dob: 8/9/1991
-  address: 5824 West Ln
-  city: Boston
-  state: WA

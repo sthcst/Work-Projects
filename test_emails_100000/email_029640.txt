@@ -1,9 +1,0 @@
-contact:
-  name: Brian Ramirez
-  email: brian.ramirez6957@work.org
-  phone: 832 794 4260
-  ssn: 284-36-5194
-  dob: 9/17/1987
-  address: 22 Fifth Ln
-  city: Seattle
-  state: CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Johnson,rebecca.johnson7799@work.org,636-789-6147,465602796,05/21/1968,"2998 Third Rd",Austin,VA

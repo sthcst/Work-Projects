@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Gomez
-  email: lauren.gomez4961@example.com
-  phone: 959 565 3125
-  ssn: 522439623
-  dob: 19/01/1978
-  address: 6497 Cedar Dr
-  city: Los Angeles
-  state: OH

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Martinez,george.martinez7402@company.com,(599) 520-2470,418117114,1/6/1964,"2030 First Ave",Austin,NJ

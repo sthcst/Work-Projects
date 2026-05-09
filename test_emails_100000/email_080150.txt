@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Evans,richard.evans7439@company.com,275-583-1865,368 79 9976,11-19-1971,"5445 North Ave",Washington,AZ

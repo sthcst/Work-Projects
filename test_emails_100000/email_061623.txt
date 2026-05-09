@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Taylor
-  email: jennifer.taylor6021@outlook.com
-  phone: 635-214-9758
-  ssn: 465481584
-  dob: 11-04-1990
-  address: 729 South Ln
-  city: Austin
-  state: OH

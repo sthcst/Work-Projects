@@ -1,9 +1,0 @@
-contact:
-  name: Richard Jackson
-  email: richard.jackson1962@business.net
-  phone: 510-791-3938
-  ssn: 707-25-8314
-  dob: 6/7/1965
-  address: 9004 North St
-  city: Austin
-  state: FL

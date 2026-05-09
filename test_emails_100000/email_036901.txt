@@ -1,9 +1,0 @@
-contact:
-  name: Maria Martinez
-  email: maria.martinez1452@mail.com
-  phone: 800 339 5016
-  ssn: 999-10-3876
-  dob: 03/25/1999
-  address: 9273 Oak Way
-  city: Los Angeles
-  state: MA

@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Sanchez
-  email: lauren.sanchez8071@company.com
-  phone: 781 786 8803
-  ssn: 052-21-7222
-  dob: 08-05-1986
-  address: 4479 Second Blvd
-  city: Seattle
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: John Lewis
-  email: john.lewis8350@outlook.com
-  phone: 750 900 6309
-  ssn: 652-40-8187
-  dob: 11/16/2002
-  address: 165 North Rd
-  city: Los Angeles
-  state: DC

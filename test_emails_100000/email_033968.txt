@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Walker,sarah.walker797@yahoo.com,514-263-3159,909056204,8/3/2001,"5176 Birch Way",San Antonio,FL

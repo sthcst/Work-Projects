@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Taylor
-  email: timothy.taylor2081@mail.com
-  phone: 399 242 1258
-  ssn: 914882658
-  dob: 3/5/1973
-  address: 905 South Court
-  city: Denver
-  state: TX

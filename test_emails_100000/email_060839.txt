@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Reyes,richard.reyes813@yahoo.com,706 414 4463,092 58 9695,08/17/1989,"360 Cedar Way",Chicago,TX

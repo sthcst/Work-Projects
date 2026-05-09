@@ -1,9 +1,0 @@
-contact:
-  name: Gary Sanchez
-  email: gary.sanchez2457@outlook.com
-  phone: 395 933 6929
-  ssn: 971164440
-  dob: 28/12/1967
-  address: 824 Fourth Dr
-  city: Seattle
-  state: CA

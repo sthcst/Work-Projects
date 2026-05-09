@@ -1,9 +1,0 @@
-contact:
-  name: William Campbell
-  email: william.campbell7992@outlook.com
-  phone: +1 380-293-6306
-  ssn: 296 74 4064
-  dob: 10/24/1991
-  address: 8504 Birch Dr
-  city: Philadelphia
-  state: NJ

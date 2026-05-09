@@ -1,9 +1,0 @@
-contact:
-  name: Robert Morgan
-  email: robert.morgan8422@mail.com
-  phone: 947 268 2811
-  ssn: 828 52 8455
-  dob: 8/13/1976
-  address: 3712 Third Way
-  city: San Diego
-  state: NC

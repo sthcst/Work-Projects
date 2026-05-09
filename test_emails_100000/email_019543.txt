@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Bell
-  email: jessica.bell5149@yahoo.com
-  phone: 940-237-8657
-  ssn: 045728072
-  dob: 4/4/1950
-  address: 2741 Elm Ave
-  city: Washington
-  state: AZ

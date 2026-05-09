@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Delgado,rachel.delgado6633@gmail.com,+1 331-487-5681,638-91-6075,05-05-1969,"2857 Park Blvd",Houston,CO

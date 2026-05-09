@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Martin,ashley.martin4516@example.com,738 854 6698,220 31 7075,27/07/1988,"670 Maple Court",Philadelphia,TX

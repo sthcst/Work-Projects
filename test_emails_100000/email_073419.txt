@@ -1,9 +1,0 @@
-contact:
-  name: David Flores
-  email: david.flores623@work.org
-  phone: +1 990-248-2989
-  ssn: 866 42 6769
-  dob: 05-01-1971
-  address: 9788 First Court
-  city: Jacksonville
-  state: AZ

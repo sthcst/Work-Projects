@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Lopez
-  email: brenda.lopez7336@yahoo.com
-  phone: +1 306-396-8336
-  ssn: 729-93-4565
-  dob: 03-10-1972
-  address: 7537 Cedar Way
-  city: New York
-  state: PA

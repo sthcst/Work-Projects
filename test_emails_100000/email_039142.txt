@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Reeves
-  email: nicholas.reeves523@work.org
-  phone: 351-759-1502
-  ssn: 206784636
-  dob: 22/08/1980
-  address: 6496 Pine Rd
-  city: Washington
-  state: TX

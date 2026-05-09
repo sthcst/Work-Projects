@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Jones
-  email: jessica.jones3793@business.net
-  phone: 433-624-6890
-  ssn: 381326737
-  dob: 21/02/2002
-  address: 6404 Birch Rd
-  city: New York
-  state: MO

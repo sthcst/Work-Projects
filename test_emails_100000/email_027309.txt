@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Thompson
-  email: ryan.thompson1636@gmail.com
-  phone: 614-655-1373
-  ssn: 275-28-5064
-  dob: 20/08/1978
-  address: 6351 Sixth Dr
-  city: Austin
-  state: WA

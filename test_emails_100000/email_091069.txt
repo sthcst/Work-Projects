@@ -1,9 +1,0 @@
-contact:
-  name: Gary Harris
-  email: gary.harris8261@gmail.com
-  phone: 202 995 2104
-  ssn: 054 37 1305
-  dob: 7/24/1983
-  address: 9396 Elm Ave
-  city: Denver
-  state: FL

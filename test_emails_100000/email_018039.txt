@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Bell,amanda.bell7156@business.net,749 881 7525,515-71-9873,02/16/1998,"7248 Pine Rd",Phoenix,NJ

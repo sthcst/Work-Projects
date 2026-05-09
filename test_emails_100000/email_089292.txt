@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Jimenez
-  email: katherine.jimenez2892@outlook.com
-  phone: 272-378-4552
-  ssn: 712 97 3502
-  dob: 07/04/2000
-  address: 7605 Park Dr
-  city: Los Angeles
-  state: CA

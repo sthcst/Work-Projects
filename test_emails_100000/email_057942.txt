@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Cooper,jason.cooper6907@company.com,+1 631-998-9667,246502964,08-22-1993,"9513 South Ln",Austin,NY

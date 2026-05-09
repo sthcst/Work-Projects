@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Reyes
-  email: pamela.reyes2803@gmail.com
-  phone: 558-880-4582
-  ssn: 412 50 8178
-  dob: 16/12/1964
-  address: 5152 Park Blvd
-  city: Chicago
-  state: GA

@@ -1,9 +1,0 @@
-contact:
-  name: John Ramirez
-  email: john.ramirez4970@work.org
-  phone: 582 322 1362
-  ssn: 672 74 5263
-  dob: 07/04/1979
-  address: 9107 Cedar Dr
-  city: San Antonio
-  state: FL

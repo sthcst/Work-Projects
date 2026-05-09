@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Lewis
-  email: michelle.lewis2994@mail.com
-  phone: (595) 357-3196
-  ssn: 368-91-3381
-  dob: 24/09/1989
-  address: 2999 Main St
-  city: Austin
-  state: TX

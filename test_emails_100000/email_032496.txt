@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Flores,donald.flores3384@mail.com,(612) 509-5510,639-25-4582,03/10/1956,"6431 Elm Ave",Denver,PA

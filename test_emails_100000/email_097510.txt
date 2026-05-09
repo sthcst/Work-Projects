@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Gonzalez
-  email: pamela.gonzalez5536@mail.com
-  phone: +1 382-674-5079
-  ssn: 487319485
-  dob: 7/9/1976
-  address: 3657 Second Rd
-  city: Washington
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Angela Johnson
-  email: angela.johnson9746@example.com
-  phone: (626) 524-7179
-  ssn: 029 32 5883
-  dob: 05/02/1983
-  address: 1160 Third St
-  city: New York
-  state: DC

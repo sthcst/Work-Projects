@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Moore,amanda.moore9440@company.com,+1 260-357-4015,697-73-4060,04/08/2004,"6883 Third Ave",New York,MA

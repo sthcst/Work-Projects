@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Sanchez
-  email: kathleen.sanchez8941@yahoo.com
-  phone: (978) 456-8142
-  ssn: 388-93-5127
-  dob: 02/24/2001
-  address: 8735 East Rd
-  city: Philadelphia
-  state: FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Gonzalez,kimberly.gonzalez2181@company.com,497-572-4864,313966023,05-06-1981,"5794 Maple Ave",Washington,WA

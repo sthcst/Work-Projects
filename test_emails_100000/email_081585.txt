@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Flores,nicole.flores2731@work.org,+1 968-586-9517,932 97 3016,12/15/1973,"6428 Pine Ln",Philadelphia,TX

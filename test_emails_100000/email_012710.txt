@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Clark,deborah.clark5043@company.com,903-238-3051,764209153,03-10-1994,"7843 West Way",Dallas,TX

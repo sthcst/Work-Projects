@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Delgado,brenda.delgado8507@yahoo.com,(851) 727-2242,762-74-3284,11/07/1975,"750 North Way",San Jose,MA

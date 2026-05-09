@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Garcia,jessica.garcia12@mail.com,(394) 534-7644,576938062,12-02-2004,"3488 Maple St",San Antonio,NJ

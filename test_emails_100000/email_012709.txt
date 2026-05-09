@@ -1,9 +1,0 @@
-contact:
-  name: David Hall
-  email: david.hall4374@work.org
-  phone: 653-325-9383
-  ssn: 059 43 2688
-  dob: 04/15/1956
-  address: 8809 Third Rd
-  city: Phoenix
-  state: IL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Hernandez,donald.hernandez3094@company.com,640 912 3572,526 47 6040,10/17/1958,"2635 Third St",Dallas,CA

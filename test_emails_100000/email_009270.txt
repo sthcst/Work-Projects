@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Moore
-  email: andrew.moore4773@example.com
-  phone: 446 811 2196
-  ssn: 395-92-6186
-  dob: 23/06/1954
-  address: 9305 Fourth Ln
-  city: Denver
-  state: CA

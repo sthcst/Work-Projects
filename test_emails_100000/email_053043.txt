@@ -1,9 +1,0 @@
-contact:
-  name: Jason Delgado
-  email: jason.delgado9972@example.com
-  phone: +1 235-555-6660
-  ssn: 077838533
-  dob: 08-28-1981
-  address: 5041 Maple St
-  city: Los Angeles
-  state: MI

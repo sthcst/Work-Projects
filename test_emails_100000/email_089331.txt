@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Anderson
-  email: anthony.anderson64@work.org
-  phone: (627) 355-5856
-  ssn: 023-31-5002
-  dob: 03/26/1991
-  address: 3988 Park Way
-  city: Washington
-  state: WA

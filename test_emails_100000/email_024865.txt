@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Flores,timothy.flores2065@outlook.com,+1 424-560-5594,639909283,07/02/1954,"1827 Maple Blvd",San Jose,NC

@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Hernandez
-  email: deborah.hernandez5001@mail.com
-  phone: +1 448-723-2125
-  ssn: 480-38-2143
-  dob: 05/19/1964
-  address: 4361 Pine St
-  city: Dallas
-  state: NC

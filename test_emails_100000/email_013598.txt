@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Carter,jacob.carter4149@outlook.com,610 535 3006,203-87-2417,3/2/1999,"3499 Main Rd",Philadelphia,MD

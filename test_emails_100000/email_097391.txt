@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Reeves
-  email: andrew.reeves6851@mail.com
-  phone: +1 284-719-2404
-  ssn: 580 38 9976
-  dob: 09-26-1983
-  address: 7749 Main Ave
-  city: Washington
-  state: NC

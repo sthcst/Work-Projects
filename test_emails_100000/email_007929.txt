@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Bell
-  email: shirley.bell9486@company.com
-  phone: 556-667-2952
-  ssn: 415437223
-  dob: 25/02/1985
-  address: 5672 Birch St
-  city: San Diego
-  state: MI

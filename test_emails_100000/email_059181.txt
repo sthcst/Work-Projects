@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Gonzalez,james.gonzalez2823@gmail.com,886-367-5114,204-61-7768,24/06/1990,"2083 Cedar Rd",San Antonio,TX

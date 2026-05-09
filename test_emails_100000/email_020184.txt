@@ -1,9 +1,0 @@
-contact:
-  name: Emily Brown
-  email: emily.brown4037@mail.com
-  phone: +1 783-716-1297
-  ssn: 191-79-8936
-  dob: 17/09/1954
-  address: 3872 South Dr
-  city: Seattle
-  state: WA

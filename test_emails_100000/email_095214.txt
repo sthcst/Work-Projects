@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Hernandez,james.hernandez2294@example.com,+1 290-880-8847,496-04-4586,12/1/1952,"353 West Court",Seattle,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Harris,george.harris8730@mail.com,543 762 7151,169-39-5530,08-15-1963,"6747 Fifth Blvd",Phoenix,WA

@@ -1,9 +1,0 @@
-contact:
-  name: Donald Williams
-  email: donald.williams2837@business.net
-  phone: +1 625-364-4920
-  ssn: 049-85-2094
-  dob: 02/16/1966
-  address: 9710 Oak Ave
-  city: San Diego
-  state: FL

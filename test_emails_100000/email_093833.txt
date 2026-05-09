@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Phillips,samantha.phillips2035@business.net,(859) 381-8733,180 33 8305,11/20/1992,"2183 Spring Court",Dallas,WI

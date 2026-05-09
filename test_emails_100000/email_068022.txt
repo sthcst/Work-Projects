@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Campbell
-  email: brenda.campbell8950@outlook.com
-  phone: (822) 677-6585
-  ssn: 778 83 4557
-  dob: 04/06/1993
-  address: 5259 Sixth St
-  city: San Jose
-  state: CO

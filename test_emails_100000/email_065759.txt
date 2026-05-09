@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Reed
-  email: brenda.reed7787@company.com
-  phone: +1 887-934-5409
-  ssn: 565808715
-  dob: 06/23/1967
-  address: 7936 South Blvd
-  city: Seattle
-  state: MI

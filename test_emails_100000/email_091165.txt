@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Lewis
-  email: jennifer.lewis6780@example.com
-  phone: +1 451-943-7539
-  ssn: 234641883
-  dob: 12/08/1973
-  address: 650 Park Court
-  city: Houston
-  state: AZ

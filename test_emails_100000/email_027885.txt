@@ -1,9 +1,0 @@
-contact:
-  name: David Sanchez
-  email: david.sanchez5355@gmail.com
-  phone: 452 231 9615
-  ssn: 398433217
-  dob: 11/11/1962
-  address: 9004 South Way
-  city: Houston
-  state: WA

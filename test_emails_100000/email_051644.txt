@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Thompson,amanda.thompson9643@example.com,+1 743-561-5824,212 90 7542,01/11/1962,"8822 Fourth Dr",Boston,VA

@@ -1,9 +1,0 @@
-contact:
-  name: Richard Martin
-  email: richard.martin7927@mail.com
-  phone: (517) 319-9860
-  ssn: 820-37-2356
-  dob: 1/19/1972
-  address: 1933 Pine Dr
-  city: Chicago
-  state: CA

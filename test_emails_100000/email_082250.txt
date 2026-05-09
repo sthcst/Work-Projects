@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Dominguez
-  email: joseph.dominguez4469@gmail.com
-  phone: +1 897-565-6927
-  ssn: 857 42 7768
-  dob: 5/26/1980
-  address: 8770 West St
-  city: New York
-  state: WA

@@ -1,9 +1,0 @@
-contact:
-  name: Donald Williams
-  email: donald.williams3075@yahoo.com
-  phone: +1 438-649-7098
-  ssn: 358197337
-  dob: 03/15/1991
-  address: 2861 Park Blvd
-  city: Philadelphia
-  state: MO

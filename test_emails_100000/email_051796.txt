@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Jones,emma.jones6889@outlook.com,(893) 338-5437,758664880,9/14/1954,"8232 West Way",Jacksonville,WA

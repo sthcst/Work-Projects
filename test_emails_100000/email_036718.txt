@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Reyes,pamela.reyes1017@example.com,+1 924-352-7338,151887817,08-01-1971,"9763 Maple Ln",Seattle,CO

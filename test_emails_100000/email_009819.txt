@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Stewart,amanda.stewart8405@example.com,993 840 2722,479 56 2796,3/14/2002,"4595 Pine Dr",San Jose,GA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Jackson,charles.jackson2740@gmail.com,+1 978-725-8619,105203804,02-22-1960,"6752 Birch Court",San Antonio,VA

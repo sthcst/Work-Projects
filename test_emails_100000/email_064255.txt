@@ -1,9 +1,0 @@
-contact:
-  name: Richard Taylor
-  email: richard.taylor3082@mail.com
-  phone: 644-368-8705
-  ssn: 155-71-2504
-  dob: 01/07/1963
-  address: 3463 Pine Ln
-  city: Austin
-  state: NC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Miller,lisa.miller8380@example.com,+1 639-347-6024,222547642,12-20-1981,"675 Fourth St",Phoenix,NY

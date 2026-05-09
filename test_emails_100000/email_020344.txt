@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Young,william.young9325@example.com,882 996 1737,418-44-7469,7/8/1976,"6074 North Dr",Boston,WA

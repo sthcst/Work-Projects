@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Robinson
-  email: samantha.robinson3674@mail.com
-  phone: 689 648 9168
-  ssn: 412-21-3306
-  dob: 12-16-1983
-  address: 7569 Elm Blvd
-  city: San Diego
-  state: VA

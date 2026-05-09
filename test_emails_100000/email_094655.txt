@@ -1,9 +1,0 @@
-contact:
-  name: Paul Reed
-  email: paul.reed2033@company.com
-  phone: 750-891-4613
-  ssn: 059258286
-  dob: 5/19/1995
-  address: 2800 Fourth Dr
-  city: Los Angeles
-  state: DC

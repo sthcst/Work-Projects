@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Thompson,shirley.thompson1928@mail.com,712 212 3721,413 15 6095,2/27/1987,"2078 West Rd",Houston,WA

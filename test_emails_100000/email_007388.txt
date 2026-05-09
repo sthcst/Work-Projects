@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Brown,matthew.brown8314@example.com,+1 861-862-6375,802 44 8284,18/04/1956,"9095 Spring Rd",Houston,TN

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Collins,rebecca.collins9839@business.net,(656) 732-5086,641 72 8763,08-13-1971,"12 Maple Ln",San Jose,DC

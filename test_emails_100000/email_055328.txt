@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Ortiz,george.ortiz4161@gmail.com,+1 540-698-9653,252-69-3472,09-24-2005,"5098 West Ln",San Diego,FL

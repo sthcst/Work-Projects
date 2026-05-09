@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Rodriguez,kimberly.rodriguez1708@yahoo.com,796-380-6276,990 46 3288,01-22-1950,"7513 Sixth Court",San Antonio,TX

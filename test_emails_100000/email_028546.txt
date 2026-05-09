@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Garcia
-  email: lauren.garcia6978@mail.com
-  phone: (421) 931-2129
-  ssn: 681-98-9514
-  dob: 01-23-1978
-  address: 3120 Birch Rd
-  city: Denver
-  state: AZ

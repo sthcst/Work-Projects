@@ -1,9 +1,0 @@
-contact:
-  name: Emma Bell
-  email: emma.bell97@work.org
-  phone: 626 360 7676
-  ssn: 352 75 7463
-  dob: 17/09/1977
-  address: 1934 Spring Rd
-  city: Chicago
-  state: AZ

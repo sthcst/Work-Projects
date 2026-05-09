@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Lewis,anthony.lewis9164@mail.com,+1 979-457-5660,029821246,10/05/1991,"3802 First St",Boston,DC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Reyes,emily.reyes2326@mail.com,(599) 673-6552,575245688,11/12/2004,"6546 Birch Ave",Washington,CA

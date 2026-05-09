@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Lee
-  email: jessica.lee9859@outlook.com
-  phone: 743-213-7032
-  ssn: 949273909
-  dob: 01-12-1954
-  address: 5833 Maple St
-  city: Washington
-  state: MA

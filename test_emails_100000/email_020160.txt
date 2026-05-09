@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Smith,kathleen.smith8830@company.com,404-360-1391,103819570,01-13-1983,"3773 Maple Court",Jacksonville,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Phillips,anthony.phillips1779@yahoo.com,(228) 465-4197,369-97-7913,19/02/1955,"7476 Second Way",Seattle,TX

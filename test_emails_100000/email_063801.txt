@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Garcia,michael.garcia484@work.org,839 943 5968,647466063,06/10/1980,"6207 Sixth Dr",Phoenix,FL

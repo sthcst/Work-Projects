@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Cooper
-  email: ashley.cooper3982@work.org
-  phone: 551 254 9362
-  ssn: 951-79-1180
-  dob: 01/21/1969
-  address: 8145 Fifth Way
-  city: Phoenix
-  state: WA

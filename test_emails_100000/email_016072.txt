@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Collins,ashley.collins6951@outlook.com,252-612-5721,861-20-1324,02/26/1995,"7399 Oak Ave",Austin,MO

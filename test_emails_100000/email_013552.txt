@@ -1,9 +1,0 @@
-contact:
-  name: Edward Evans
-  email: edward.evans19@gmail.com
-  phone: (980) 262-5080
-  ssn: 904 75 6914
-  dob: 05/22/1976
-  address: 6107 Main Dr
-  city: Washington
-  state: PA

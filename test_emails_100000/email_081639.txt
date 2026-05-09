@@ -1,9 +1,0 @@
-contact:
-  name: Jason Clark
-  email: jason.clark9529@yahoo.com
-  phone: 639 350 8170
-  ssn: 167 61 1524
-  dob: 28/08/1979
-  address: 1459 Sixth Dr
-  city: Chicago
-  state: TX

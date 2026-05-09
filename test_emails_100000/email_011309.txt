@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Alvarado
-  email: matthew.alvarado8759@gmail.com
-  phone: +1 571-725-4556
-  ssn: 337 78 9712
-  dob: 01-22-1965
-  address: 7380 Sixth Ave
-  city: Philadelphia
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Jimenez
-  email: katherine.jimenez9712@mail.com
-  phone: +1 848-472-2083
-  ssn: 701-83-4005
-  dob: 4/20/1979
-  address: 9529 Oak Ave
-  city: Denver
-  state: NC

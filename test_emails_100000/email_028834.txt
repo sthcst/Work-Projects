@@ -1,9 +1,0 @@
-contact:
-  name: Jason Flores
-  email: jason.flores2866@work.org
-  phone: (697) 818-5188
-  ssn: 337949032
-  dob: 04-10-1962
-  address: 3544 Sixth Ave
-  city: Denver
-  state: MA

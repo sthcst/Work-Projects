@@ -1,9 +1,0 @@
-contact:
-  name: Brian Lee
-  email: brian.lee8831@work.org
-  phone: +1 263-421-8260
-  ssn: 935661862
-  dob: 12/3/1955
-  address: 9142 Maple Way
-  city: Denver
-  state: CA

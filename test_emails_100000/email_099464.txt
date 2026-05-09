@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Morgan,edward.morgan2457@work.org,(423) 953-9928,183 41 3998,08/03/1954,"5648 South Blvd",San Jose,NY

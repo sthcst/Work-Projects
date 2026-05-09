@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Smith,stephanie.smith1498@gmail.com,793-246-5531,337 77 7215,7/12/1987,"6511 East Court",Houston,TX

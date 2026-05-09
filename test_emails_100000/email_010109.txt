@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Martin,timothy.martin9767@gmail.com,+1 635-988-3476,167771864,06/19/1970,"1076 Fourth Dr",New York,NY

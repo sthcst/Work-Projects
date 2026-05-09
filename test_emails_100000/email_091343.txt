@@ -1,9 +1,0 @@
-contact:
-  name: James Hernandez
-  email: james.hernandez7511@company.com
-  phone: 868-593-6604
-  ssn: 405 17 1549
-  dob: 1/21/1972
-  address: 3497 Birch Ln
-  city: San Antonio
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Moore,james.moore5061@business.net,+1 844-730-7732,885-76-9289,10-17-1975,"1067 North Ln",Houston,TX

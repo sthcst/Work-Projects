@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Dominguez
-  email: lauren.dominguez4779@gmail.com
-  phone: 340 909 2336
-  ssn: 590 60 9548
-  dob: 21/11/1988
-  address: 6449 South Dr
-  city: Denver
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Steven Williams
-  email: steven.williams1883@mail.com
-  phone: 304 631 4867
-  ssn: 045908997
-  dob: 25/08/1980
-  address: 8855 Main St
-  city: Denver
-  state: WA

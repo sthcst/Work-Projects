@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Perez,jacob.perez797@gmail.com,(978) 958-9912,524 02 1958,15/02/1958,"5627 Sixth Rd",San Jose,MA

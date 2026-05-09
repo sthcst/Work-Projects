@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Gonzalez
-  email: rebecca.gonzalez4138@mail.com
-  phone: (582) 787-3127
-  ssn: 032 95 5003
-  dob: 11-03-1990
-  address: 9178 Fifth Way
-  city: Jacksonville
-  state: IL

@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Miller
-  email: stephanie.miller6957@company.com
-  phone: +1 467-958-2752
-  ssn: 765619839
-  dob: 03/05/1977
-  address: 807 Sixth Ln
-  city: Austin
-  state: MA

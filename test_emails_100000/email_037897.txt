@@ -1,9 +1,0 @@
-contact:
-  name: James Flores
-  email: james.flores5855@gmail.com
-  phone: 924-279-5236
-  ssn: 514 20 7595
-  dob: 11/16/1978
-  address: 339 Fourth St
-  city: Los Angeles
-  state: NC

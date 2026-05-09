@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Gonzalez,donald.gonzalez9752@example.com,709-379-4353,408099082,5/9/1957,"8460 Elm Blvd",Philadelphia,MD

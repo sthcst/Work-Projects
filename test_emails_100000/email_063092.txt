@@ -1,9 +1,0 @@
-contact:
-  name: Brian Miller
-  email: brian.miller9878@gmail.com
-  phone: (925) 635-4929
-  ssn: 465 45 7656
-  dob: 8/5/1977
-  address: 1345 Park Blvd
-  city: Austin
-  state: NJ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Jackson,angela.jackson4304@mail.com,833-901-5218,466428501,17/01/1978,"4200 Oak Rd",Houston,CA

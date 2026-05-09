@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Wilson
-  email: rebecca.wilson5795@outlook.com
-  phone: 653 519 8106
-  ssn: 155-70-9174
-  dob: 01/02/1989
-  address: 2694 Elm Court
-  city: Washington
-  state: MI

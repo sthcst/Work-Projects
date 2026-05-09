@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Nelson,emily.nelson8549@business.net,871-523-5719,146 26 7678,24/11/2005,"54 Spring Ave",Washington,FL

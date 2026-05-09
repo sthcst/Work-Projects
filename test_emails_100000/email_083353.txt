@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Guerrero
-  email: lisa.guerrero6341@outlook.com
-  phone: 605-210-9669
-  ssn: 989 65 9300
-  dob: 05/02/1984
-  address: 6323 Second St
-  city: Austin
-  state: WA

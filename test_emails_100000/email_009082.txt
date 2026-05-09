@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Taylor,katherine.taylor9659@work.org,(840) 647-4556,040-90-1728,06-03-1985,"2019 Second Blvd",Los Angeles,CA

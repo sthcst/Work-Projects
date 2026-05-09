@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Edwards,donald.edwards1066@mail.com,649 538 2527,379-61-2481,06-12-2000,"7452 Cedar Ln",Washington,AZ

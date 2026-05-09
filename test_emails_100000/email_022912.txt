@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Morris
-  email: joseph.morris1529@work.org
-  phone: +1 817-347-8428
-  ssn: 214-40-8005
-  dob: 04-04-1975
-  address: 5605 Pine Ln
-  city: San Diego
-  state: TX

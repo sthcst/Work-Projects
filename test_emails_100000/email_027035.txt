@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Gomez,daniel.gomez2658@gmail.com,+1 534-529-8471,685 87 5518,17/10/1967,"8072 First Dr",Boston,NJ

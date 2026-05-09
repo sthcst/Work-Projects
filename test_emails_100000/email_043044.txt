@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Morris,jane.morris5847@mail.com,(330) 418-5441,585224104,12-10-1973,"4346 South Ave",Phoenix,TX

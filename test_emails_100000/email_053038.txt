@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Reed,michelle.reed7471@outlook.com,392-522-7389,365 59 8202,01-21-1955,"1247 East St",Denver,NJ

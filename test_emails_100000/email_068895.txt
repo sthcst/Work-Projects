@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Serrano,maria.serrano9002@company.com,210 411 5633,807246364,02-02-1984,"8103 Fourth Ave",Boston,TX

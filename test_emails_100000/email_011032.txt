@@ -1,9 +1,0 @@
-contact:
-  name: Paul Clark
-  email: paul.clark4957@company.com
-  phone: +1 805-397-2408
-  ssn: 807-47-9695
-  dob: 11-03-1955
-  address: 2027 Pine Blvd
-  city: San Diego
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Brian Carter
-  email: brian.carter653@business.net
-  phone: (511) 512-2423
-  ssn: 150597198
-  dob: 07/24/1956
-  address: 5579 Fourth Ave
-  city: Houston
-  state: TX

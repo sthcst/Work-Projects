@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Thompson
-  email: sarah.thompson1199@yahoo.com
-  phone: 720-682-1087
-  ssn: 703-06-1067
-  dob: 9/28/1958
-  address: 2104 Oak Blvd
-  city: San Diego
-  state: AZ

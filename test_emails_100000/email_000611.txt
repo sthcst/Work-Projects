@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Romero,joshua.romero6935@outlook.com,(217) 400-2262,069 99 2663,18/03/1957,"9077 South Rd",Phoenix,GA

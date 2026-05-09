@@ -1,9 +1,0 @@
-contact:
-  name: Emma Taylor
-  email: emma.taylor1746@gmail.com
-  phone: 539 517 8111
-  ssn: 955 06 1824
-  dob: 09-27-1993
-  address: 648 Elm Ln
-  city: New York
-  state: WI

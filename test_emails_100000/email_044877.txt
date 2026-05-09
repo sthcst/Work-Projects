@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Stewart
-  email: ryan.stewart3283@business.net
-  phone: 264 936 2357
-  ssn: 166-20-9167
-  dob: 26/07/1977
-  address: 7767 Fifth Blvd
-  city: Houston
-  state: MA

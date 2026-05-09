@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Jones
-  email: deborah.jones6908@work.org
-  phone: +1 581-333-3313
-  ssn: 484408219
-  dob: 12/9/1996
-  address: 6807 Cedar Ln
-  city: Houston
-  state: WI

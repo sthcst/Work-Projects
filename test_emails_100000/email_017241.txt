@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Reed,matthew.reed5158@example.com,347 790 6666,991-70-8827,26/07/1982,"7676 Fourth Ave",San Antonio,OH

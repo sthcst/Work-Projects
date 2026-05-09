@@ -1,9 +1,0 @@
-contact:
-  name: Mark Guerrero
-  email: mark.guerrero3696@outlook.com
-  phone: 937 915 2942
-  ssn: 444 96 5889
-  dob: 08/11/1998
-  address: 1841 North Court
-  city: San Diego
-  state: CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Carter,charles.carter2133@example.com,+1 651-472-1796,254 79 9080,5/3/1978,"7655 Birch Court",Washington,VA

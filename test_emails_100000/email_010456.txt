@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Hernandez,charles.hernandez531@yahoo.com,809-849-6828,862 72 1224,27/09/1956,"9352 Main St",San Jose,CO

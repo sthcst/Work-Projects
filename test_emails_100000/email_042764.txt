@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Morris,brenda.morris8074@company.com,707-711-8426,022-23-2413,04/19/1974,"3491 West Ave",San Antonio,CA

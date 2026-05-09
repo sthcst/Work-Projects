@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Thompson,brian.thompson2909@company.com,(687) 981-1109,306 12 8391,3/13/1981,"2912 North Blvd",Dallas,MA

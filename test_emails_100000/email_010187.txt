@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Evans
-  email: christopher.evans4600@work.org
-  phone: 811 680 1618
-  ssn: 604-75-2290
-  dob: 4/23/1952
-  address: 1193 Pine Ave
-  city: San Antonio
-  state: NJ

@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Jackson
-  email: kenneth.jackson127@gmail.com
-  phone: 285 567 7793
-  ssn: 075398894
-  dob: 03-15-1990
-  address: 8916 South Ave
-  city: San Jose
-  state: NC

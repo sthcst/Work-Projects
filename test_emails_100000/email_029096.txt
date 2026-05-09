@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Rodriguez,michael.rodriguez2539@yahoo.com,555 219 7373,879 31 9134,08-23-1956,"3529 Birch Blvd",Chicago,TX

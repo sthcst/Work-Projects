@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Delgado,emma.delgado2615@mail.com,(218) 216-5779,916 99 4432,12/15/1987,"6022 Park Rd",Houston,MA

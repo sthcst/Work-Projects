@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Evans,kathleen.evans4809@company.com,655 847 8510,870586067,10/7/1992,"4775 Birch St",Los Angeles,WA

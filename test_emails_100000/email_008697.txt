@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Murillo,ryan.murillo950@mail.com,596-210-5112,864 76 2324,01-10-1998,"2207 Fourth Way",Jacksonville,WA

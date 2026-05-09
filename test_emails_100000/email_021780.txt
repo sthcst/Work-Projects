@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Bell,kathleen.bell3681@gmail.com,(301) 330-9400,830 23 2070,09/07/1995,"5011 Main Blvd",San Jose,WA

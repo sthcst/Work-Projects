@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Davis,amanda.davis4942@outlook.com,+1 506-859-2431,966-17-7291,10-17-1959,"8174 West Ln",Austin,WI

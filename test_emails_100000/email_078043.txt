@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Martin
-  email: sarah.martin249@example.com
-  phone: +1 300-761-9553
-  ssn: 517 73 9992
-  dob: 01-18-1982
-  address: 1623 Pine Dr
-  city: Denver
-  state: CA

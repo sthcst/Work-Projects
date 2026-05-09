@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Davis,kenneth.davis9605@company.com,(318) 215-5079,610-17-6472,07/02/1954,"111 East Blvd",Jacksonville,WA

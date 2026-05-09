@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Taylor,megan.taylor8553@mail.com,551 844 6955,846-43-5131,20/04/1975,"5323 Oak Way",San Diego,VA

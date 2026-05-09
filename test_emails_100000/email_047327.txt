@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Morris
-  email: christopher.morris9141@mail.com
-  phone: +1 600-626-9404
-  ssn: 057-78-2658
-  dob: 18/08/1966
-  address: 9948 Fifth Blvd
-  city: Denver
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Lewis
-  email: jacob.lewis3191@outlook.com
-  phone: 562 498 8843
-  ssn: 092269539
-  dob: 06-14-2002
-  address: 4058 Park Court
-  city: New York
-  state: WI

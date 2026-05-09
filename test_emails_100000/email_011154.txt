@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Bell
-  email: nicholas.bell9047@company.com
-  phone: +1 726-493-6896
-  ssn: 127 18 1481
-  dob: 08-04-1997
-  address: 907 South Ave
-  city: Los Angeles
-  state: TX

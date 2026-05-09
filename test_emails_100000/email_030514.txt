@@ -1,9 +1,0 @@
-contact:
-  name: David Parker
-  email: david.parker9967@outlook.com
-  phone: 755-974-8680
-  ssn: 037 97 6306
-  dob: 11/14/1974
-  address: 7302 Pine Way
-  city: Austin
-  state: MI

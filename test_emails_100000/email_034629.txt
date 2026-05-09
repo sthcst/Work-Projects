@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Rodriguez
-  email: daniel.rodriguez3256@company.com
-  phone: 641 444 8413
-  ssn: 330472058
-  dob: 06-17-1953
-  address: 7207 Pine Rd
-  city: Los Angeles
-  state: DC

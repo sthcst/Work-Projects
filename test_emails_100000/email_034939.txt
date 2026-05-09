@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Gomez
-  email: matthew.gomez6239@business.net
-  phone: 503 787 3998
-  ssn: 720-53-1511
-  dob: 26/09/1961
-  address: 2607 Birch St
-  city: Phoenix
-  state: TX

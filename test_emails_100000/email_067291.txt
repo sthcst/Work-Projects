@@ -1,9 +1,0 @@
-contact:
-  name: Steven Brown
-  email: steven.brown4111@example.com
-  phone: (923) 300-9050
-  ssn: 213 82 4976
-  dob: 09/04/2002
-  address: 1781 Maple Court
-  city: San Antonio
-  state: AZ

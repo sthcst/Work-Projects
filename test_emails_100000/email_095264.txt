@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Walker,james.walker2049@business.net,414 612 9613,117 42 5692,16/11/1969,"1898 Summer Dr",New York,MO

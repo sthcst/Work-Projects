@@ -1,9 +1,0 @@
-contact:
-  name: Ashley White
-  email: ashley.white8072@example.com
-  phone: +1 871-601-8833
-  ssn: 301 54 1426
-  dob: 10/19/1991
-  address: 6466 Pine Blvd
-  city: Jacksonville
-  state: WA

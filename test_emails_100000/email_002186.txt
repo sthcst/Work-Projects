@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Garcia,lauren.garcia4466@gmail.com,524-327-5947,764-14-5781,06-26-1953,"243 Elm Ln",Dallas,DC

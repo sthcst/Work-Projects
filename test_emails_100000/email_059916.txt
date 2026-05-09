@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Phillips,jason.phillips5388@business.net,235 249 1710,078-88-9844,06/02/1951,"8004 Maple Dr",Seattle,VA

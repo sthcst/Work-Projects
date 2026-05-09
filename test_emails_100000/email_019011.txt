@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Parker
-  email: anthony.parker4463@work.org
-  phone: 520-827-1732
-  ssn: 414-72-2676
-  dob: 03-12-1992
-  address: 521 Cedar Ln
-  city: Austin
-  state: MA

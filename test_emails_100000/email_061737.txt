@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Moore,timothy.moore9183@yahoo.com,309-492-3835,826565638,09-18-1964,"8810 Fourth Blvd",San Antonio,DC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Davis,jason.davis4837@business.net,+1 315-204-1148,119-33-1671,9/14/1986,"425 Birch St",Phoenix,TX

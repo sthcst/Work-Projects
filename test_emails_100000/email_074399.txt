@@ -1,9 +1,0 @@
-contact:
-  name: Emily Rogers
-  email: emily.rogers9295@example.com
-  phone: 740 220 6831
-  ssn: 002 97 7993
-  dob: 5/18/1989
-  address: 6730 Summer Ave
-  city: Chicago
-  state: CO

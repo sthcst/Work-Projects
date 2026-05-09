@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Walker
-  email: stephanie.walker9096@outlook.com
-  phone: 615-293-3995
-  ssn: 034-90-4253
-  dob: 19/09/1985
-  address: 8822 Main Court
-  city: Denver
-  state: FL

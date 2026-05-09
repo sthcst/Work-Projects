@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Robinson,ryan.robinson8159@example.com,581-511-9350,328 57 7118,06/25/1965,"9263 North Blvd",Philadelphia,MI

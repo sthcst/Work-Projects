@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Gomez,john.gomez3083@work.org,+1 836-954-7080,965-44-7773,09/18/1978,"2555 Second Ln",Boston,OH

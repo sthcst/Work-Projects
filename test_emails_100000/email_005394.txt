@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Lopez
-  email: christopher.lopez8742@example.com
-  phone: (766) 858-5271
-  ssn: 605-60-1270
-  dob: 26/05/2003
-  address: 564 Pine Ln
-  city: Jacksonville
-  state: CA

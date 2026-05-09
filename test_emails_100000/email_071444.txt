@@ -1,9 +1,0 @@
-contact:
-  name: Angela Moore
-  email: angela.moore4579@company.com
-  phone: 344 831 4715
-  ssn: 224095635
-  dob: 12/02/1993
-  address: 1953 Third Way
-  city: Phoenix
-  state: MD

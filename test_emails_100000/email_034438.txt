@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Wilson
-  email: rachel.wilson9411@mail.com
-  phone: +1 739-863-2252
-  ssn: 824-19-7065
-  dob: 06/13/1985
-  address: 7573 Birch Ave
-  city: Washington
-  state: MI

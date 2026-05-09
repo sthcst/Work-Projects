@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Reeves,ashley.reeves5139@outlook.com,920 407 9608,208043695,12/15/1964,"989 West Ln",Phoenix,TN

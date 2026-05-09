@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Davis,brenda.davis1407@work.org,740 795 1773,498 37 9678,22/03/2000,"5783 Pine St",Seattle,OH

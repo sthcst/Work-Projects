@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Romero,nicole.romero5918@example.com,(927) 302-9947,707973542,09-17-2002,"2474 Cedar Rd",San Jose,CA

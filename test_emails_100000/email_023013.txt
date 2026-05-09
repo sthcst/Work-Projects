@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Brown,donald.brown7882@company.com,(397) 930-4660,514-20-2971,08-03-1973,"2009 East Court",San Jose,WI

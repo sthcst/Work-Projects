@@ -1,9 +1,0 @@
-contact:
-  name: Christine Sanchez
-  email: christine.sanchez5446@work.org
-  phone: +1 347-896-3855
-  ssn: 821-01-7745
-  dob: 11-08-1988
-  address: 9732 Elm Court
-  city: San Antonio
-  state: MI

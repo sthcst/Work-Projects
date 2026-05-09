@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Roberts
-  email: amanda.roberts277@company.com
-  phone: 368-351-3684
-  ssn: 761485465
-  dob: 3/11/1993
-  address: 2666 East St
-  city: Denver
-  state: TX

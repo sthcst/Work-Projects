@@ -1,9 +1,0 @@
-contact:
-  name: Edward Gonzalez
-  email: edward.gonzalez5225@work.org
-  phone: 256-979-1304
-  ssn: 073 38 7197
-  dob: 12/05/1952
-  address: 2711 Third Blvd
-  city: Phoenix
-  state: MD

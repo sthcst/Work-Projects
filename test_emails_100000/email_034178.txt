@@ -1,9 +1,0 @@
-contact:
-  name: Lisa White
-  email: lisa.white2724@yahoo.com
-  phone: 882-458-5174
-  ssn: 829367951
-  dob: 11/03/1954
-  address: 3719 Sixth Ave
-  city: Boston
-  state: MA

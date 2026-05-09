@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Hernandez,deborah.hernandez3757@outlook.com,+1 414-867-9016,962312336,12/11/1990,"6025 Second Way",Chicago,MA

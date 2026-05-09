@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Guerrero
-  email: kenneth.guerrero3199@business.net
-  phone: +1 590-247-6318
-  ssn: 549245115
-  dob: 7/24/1953
-  address: 2930 Pine Ave
-  city: Chicago
-  state: TX

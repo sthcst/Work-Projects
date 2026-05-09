@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Perez,steven.perez5845@example.com,+1 612-438-9378,297-64-9664,10/19/1991,"2317 First Ave",Los Angeles,TX

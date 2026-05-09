@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Stewart,john.stewart1904@yahoo.com,(259) 840-1796,604-25-8186,01/03/1960,"6056 Fourth Dr",San Antonio,MA

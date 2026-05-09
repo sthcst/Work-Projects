@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Reyes
-  email: nicholas.reyes3915@business.net
-  phone: (388) 955-1723
-  ssn: 421 05 9534
-  dob: 08/01/1985
-  address: 3399 First Rd
-  city: San Antonio
-  state: CA

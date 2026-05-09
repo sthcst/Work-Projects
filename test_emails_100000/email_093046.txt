@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Anderson,michelle.anderson3879@yahoo.com,781 416 6264,112 84 8961,03/20/1963,"8707 West Blvd",Seattle,NY

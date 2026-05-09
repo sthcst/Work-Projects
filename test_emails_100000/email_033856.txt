@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Taylor,donald.taylor7053@gmail.com,+1 715-244-2500,187-73-8400,01/01/1991,"5455 East Dr",Austin,MO

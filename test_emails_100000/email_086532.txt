@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Gonzalez,emma.gonzalez1755@mail.com,+1 474-278-8666,072-42-6788,01-02-1972,"3877 Oak Ln",Philadelphia,DC

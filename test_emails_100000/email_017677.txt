@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Davis,matthew.davis3664@work.org,850 768 1523,036183400,08/01/1982,"8074 Maple Rd",Austin,FL

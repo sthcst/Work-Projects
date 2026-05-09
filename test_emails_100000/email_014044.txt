@@ -1,9 +1,0 @@
-contact:
-  name: Gary Johnson
-  email: gary.johnson5109@example.com
-  phone: (645) 374-7433
-  ssn: 070461898
-  dob: 03/07/1958
-  address: 729 First Rd
-  city: San Diego
-  state: OH

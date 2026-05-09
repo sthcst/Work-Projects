@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Gomez,anthony.gomez4938@business.net,770 367 5516,150-61-9837,11/21/1969,"1709 North Way",San Jose,AZ

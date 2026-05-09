@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Thompson
-  email: joseph.thompson2609@company.com
-  phone: (601) 258-5785
-  ssn: 659652805
-  dob: 01-24-1952
-  address: 84 Fifth Dr
-  city: Dallas
-  state: PA

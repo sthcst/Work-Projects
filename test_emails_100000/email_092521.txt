@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Stewart,katherine.stewart1635@outlook.com,+1 407-681-7600,511 51 4319,03/03/1995,"8989 Park Rd",Dallas,GA

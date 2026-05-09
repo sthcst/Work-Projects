@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Nelson
-  email: jennifer.nelson2446@outlook.com
-  phone: 580-680-1181
-  ssn: 609 76 1294
-  dob: 12/01/1985
-  address: 2748 Birch Court
-  city: San Antonio
-  state: OH

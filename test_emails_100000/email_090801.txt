@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Brown
-  email: ronald.brown1928@yahoo.com
-  phone: 235 777 9520
-  ssn: 288426526
-  dob: 6/7/1967
-  address: 9792 Spring Rd
-  city: Philadelphia
-  state: TN

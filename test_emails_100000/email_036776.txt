@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Martinez
-  email: daniel.martinez9585@work.org
-  phone: 511-839-8452
-  ssn: 274 11 8278
-  dob: 05/18/1967
-  address: 5707 West Court
-  city: Washington
-  state: WA

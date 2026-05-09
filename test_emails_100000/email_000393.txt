@@ -1,9 +1,0 @@
-contact:
-  name: William Garcia
-  email: william.garcia9905@outlook.com
-  phone: (638) 743-6486
-  ssn: 615-24-7967
-  dob: 11-22-1969
-  address: 5717 Pine Dr
-  city: Washington
-  state: NJ

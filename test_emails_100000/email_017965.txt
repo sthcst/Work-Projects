@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Hall,james.hall1476@company.com,+1 900-520-6537,443586808,22/07/1961,"2678 Main Court",Washington,CA

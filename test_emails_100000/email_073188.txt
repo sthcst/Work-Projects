@@ -1,9 +1,0 @@
-contact:
-  name: Christine Stewart
-  email: christine.stewart42@mail.com
-  phone: 850 243 1665
-  ssn: 580-74-8393
-  dob: 09/25/2000
-  address: 422 Cedar Court
-  city: Seattle
-  state: MO

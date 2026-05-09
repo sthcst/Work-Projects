@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Martin
-  email: jeffrey.martin3351@company.com
-  phone: 385-708-2870
-  ssn: 246-19-2772
-  dob: 1/2/1953
-  address: 9091 Summer Ave
-  city: Boston
-  state: TX

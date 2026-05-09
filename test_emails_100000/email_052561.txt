@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Thomas,michelle.thomas6293@business.net,(431) 560-6356,245 62 9854,10/7/1972,"1712 Cedar Ln",Dallas,CA

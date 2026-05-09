@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Gomez
-  email: kenneth.gomez5254@business.net
-  phone: 364-213-9407
-  ssn: 812-95-2307
-  dob: 07/02/1982
-  address: 6159 Oak Court
-  city: Washington
-  state: WA

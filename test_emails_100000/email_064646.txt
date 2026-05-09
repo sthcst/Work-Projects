@@ -1,9 +1,0 @@
-contact:
-  name: Mark Roberts
-  email: mark.roberts6860@gmail.com
-  phone: +1 871-335-2244
-  ssn: 324 59 8719
-  dob: 6/25/1974
-  address: 9921 East St
-  city: Denver
-  state: NC

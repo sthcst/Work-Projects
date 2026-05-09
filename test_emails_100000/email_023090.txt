@@ -1,9 +1,0 @@
-contact:
-  name: Michael Cooper
-  email: michael.cooper4965@example.com
-  phone: +1 697-377-5870
-  ssn: 648612120
-  dob: 02/01/1998
-  address: 9557 East Court
-  city: Boston
-  state: TN

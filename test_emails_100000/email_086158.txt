@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Clark,anna.clark6494@example.com,(914) 988-4335,626 90 2517,10/12/1979,"6390 Spring Way",San Jose,CA

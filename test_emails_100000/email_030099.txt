@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Harris
-  email: anthony.harris8114@mail.com
-  phone: 220 702 7098
-  ssn: 584197341
-  dob: 06-11-1956
-  address: 5554 Cedar Dr
-  city: Los Angeles
-  state: OH

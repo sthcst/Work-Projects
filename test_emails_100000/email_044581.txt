@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Thomas,brenda.thomas263@outlook.com,(879) 580-9320,191845076,11-07-1971,"5915 Second Ln",New York,DC

@@ -1,9 +1,0 @@
-contact:
-  name: Charles Morris
-  email: charles.morris3192@example.com
-  phone: +1 739-745-9789
-  ssn: 976423699
-  dob: 12/09/1991
-  address: 3052 Cedar St
-  city: Boston
-  state: WA

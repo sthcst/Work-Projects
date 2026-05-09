@@ -1,9 +1,0 @@
-contact:
-  name: Christine Robinson
-  email: christine.robinson1718@yahoo.com
-  phone: +1 921-228-5757
-  ssn: 962155607
-  dob: 9/26/1972
-  address: 5733 East Ave
-  city: San Jose
-  state: CA

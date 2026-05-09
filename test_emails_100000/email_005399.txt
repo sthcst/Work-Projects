@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Jimenez,edward.jimenez5537@mail.com,+1 591-845-3484,452 15 6529,05/02/1953,"9290 Cedar Court",Chicago,MA

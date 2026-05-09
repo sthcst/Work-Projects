@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Robinson
-  email: daniel.robinson9803@work.org
-  phone: +1 873-528-7640
-  ssn: 370-75-3345
-  dob: 8/5/1969
-  address: 9285 Cedar Blvd
-  city: Chicago
-  state: VA

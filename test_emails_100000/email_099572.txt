@@ -1,9 +1,0 @@
-contact:
-  name: Jane Morgan
-  email: jane.morgan5869@company.com
-  phone: (479) 603-4362
-  ssn: 808305986
-  dob: 11-28-2002
-  address: 7722 Fourth Ln
-  city: Phoenix
-  state: VA

@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Phillips
-  email: jacob.phillips179@example.com
-  phone: 813 952 2100
-  ssn: 094281282
-  dob: 7/1/1974
-  address: 6157 Pine Blvd
-  city: Dallas
-  state: TN

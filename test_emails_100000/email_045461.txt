@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Serrano
-  email: rebecca.serrano5495@work.org
-  phone: 899 528 2272
-  ssn: 025-81-7594
-  dob: 10/13/2002
-  address: 4302 Cedar Court
-  city: Chicago
-  state: VA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Murillo,pamela.murillo7381@mail.com,(959) 918-2043,366351214,03/20/1999,"9067 First Ave",Seattle,GA

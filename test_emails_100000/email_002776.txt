@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Dominguez,ronald.dominguez4950@business.net,(643) 576-1657,188 71 3622,23/08/1969,"4560 Fourth Rd",Austin,VA

@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Alvarado
-  email: ronald.alvarado5954@business.net
-  phone: (357) 783-9758
-  ssn: 757 94 2172
-  dob: 1/23/1976
-  address: 5944 Pine Dr
-  city: Dallas
-  state: PA

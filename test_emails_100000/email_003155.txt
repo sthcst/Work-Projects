@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Stewart
-  email: katherine.stewart9482@yahoo.com
-  phone: +1 449-339-5922
-  ssn: 776-93-4426
-  dob: 06-01-1984
-  address: 1481 Pine Rd
-  city: Seattle
-  state: TX

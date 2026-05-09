@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Gomez,katherine.gomez5207@company.com,886-572-4701,407-17-4444,02/19/1986,"4084 Summer St",Dallas,TX

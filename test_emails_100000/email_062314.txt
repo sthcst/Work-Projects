@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Hall,rachel.hall7009@example.com,881 817 1795,231 27 9035,23/10/1968,"1616 Maple Blvd",Dallas,NC

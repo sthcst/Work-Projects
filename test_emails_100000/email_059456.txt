@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Morris,michelle.morris3790@mail.com,268 539 9206,482 87 3841,03-02-1977,"2572 Oak Way",Chicago,MD

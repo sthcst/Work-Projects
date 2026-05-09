@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Johnson,jessica.johnson1308@company.com,435-306-3823,343-52-9352,09/01/1959,"2717 Cedar Ave",Washington,NC

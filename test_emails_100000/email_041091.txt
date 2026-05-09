@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Jones,andrew.jones7976@example.com,(223) 505-3192,429-12-7182,02/13/1985,"8852 Third Ln",Austin,WA

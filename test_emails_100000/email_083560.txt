@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Nelson,lisa.nelson8449@company.com,365-858-4346,680818893,08-27-1998,"7717 Oak Ave",Austin,MA

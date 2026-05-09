@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Thomas,richard.thomas9722@work.org,934-479-2030,862162459,1/26/1993,"5240 Maple Ln",Seattle,FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Phillips,paul.phillips7484@work.org,365 872 1925,289605914,8/2/1964,"4711 Maple Way",San Jose,VA

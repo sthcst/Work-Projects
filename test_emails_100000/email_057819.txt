@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Thompson,helen.thompson9403@company.com,(453) 210-2907,643718330,10-14-1977,"7203 Spring St",New York,MO

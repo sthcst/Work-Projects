@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Dominguez
-  email: nicole.dominguez8731@example.com
-  phone: (623) 833-2592
-  ssn: 950-42-8988
-  dob: 11-18-1978
-  address: 3244 East Rd
-  city: Dallas
-  state: NC

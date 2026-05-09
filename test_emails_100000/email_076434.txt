@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Smith
-  email: samantha.smith7623@yahoo.com
-  phone: (669) 995-4150
-  ssn: 767-75-1631
-  dob: 04-16-1974
-  address: 8302 Fourth Blvd
-  city: Washington
-  state: PA

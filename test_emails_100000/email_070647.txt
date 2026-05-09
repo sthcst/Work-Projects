@@ -1,9 +1,0 @@
-contact:
-  name: Paul Stewart
-  email: paul.stewart5005@business.net
-  phone: (673) 770-1961
-  ssn: 396852420
-  dob: 8/5/1990
-  address: 1349 West Court
-  city: Seattle
-  state: IL

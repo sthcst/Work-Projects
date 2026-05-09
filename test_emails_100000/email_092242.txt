@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Rodriguez,jacob.rodriguez3134@outlook.com,(694) 950-1310,915 35 7747,01/19/1970,"1143 Pine Ln",Denver,WA

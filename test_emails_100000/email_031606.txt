@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Campbell,lisa.campbell2198@work.org,943-568-7795,715 07 2910,07/19/1959,"2297 North Rd",San Antonio,TX

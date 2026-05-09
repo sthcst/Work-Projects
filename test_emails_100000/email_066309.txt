@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Lopez,kimberly.lopez3787@company.com,(960) 939-5248,564617950,1/5/1966,"320 Oak Rd",Los Angeles,NC

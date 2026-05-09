@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Anderson
-  email: ashley.anderson4729@business.net
-  phone: 597-356-8630
-  ssn: 498983715
-  dob: 24/09/1971
-  address: 9168 West Ave
-  city: San Diego
-  state: TN

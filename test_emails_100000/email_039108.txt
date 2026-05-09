@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Martinez,rachel.martinez4218@gmail.com,345 769 3587,054 83 4544,06/05/1965,"8445 West Dr",San Antonio,DC

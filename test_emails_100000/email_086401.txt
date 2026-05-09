@@ -1,9 +1,0 @@
-contact:
-  name: Jason Smith
-  email: jason.smith4365@business.net
-  phone: +1 404-461-9256
-  ssn: 936269659
-  dob: 06-23-1980
-  address: 4334 Sixth Court
-  city: Chicago
-  state: CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Rodriguez,maria.rodriguez482@company.com,228 705 6374,923608893,02/09/1969,"6160 East Ln",Denver,GA

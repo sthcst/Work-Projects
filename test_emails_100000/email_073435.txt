@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Collins,sarah.collins7933@business.net,(359) 682-7033,848919901,6/26/1991,"3705 North Dr",Dallas,VA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Dominguez,katherine.dominguez8294@yahoo.com,(466) 682-8795,075 39 4126,28/04/1993,"3194 Cedar Ave",Jacksonville,VA

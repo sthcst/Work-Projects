@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Lewis,gary.lewis7981@business.net,+1 671-491-9385,117744118,09/01/1952,"8806 Fourth Ln",San Antonio,NY

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Anderson,helen.anderson1824@business.net,445-950-1090,787 21 8352,22/02/1989,"3332 First Ln",Boston,TX

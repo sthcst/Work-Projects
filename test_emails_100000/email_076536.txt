@@ -1,9 +1,0 @@
-contact:
-  name: Robert Roberts
-  email: robert.roberts5828@gmail.com
-  phone: 672 247 4205
-  ssn: 419-85-2223
-  dob: 03-07-1998
-  address: 1329 Elm Blvd
-  city: Philadelphia
-  state: TX

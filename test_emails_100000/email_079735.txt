@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Davis,robert.davis4254@business.net,449 220 6230,379 50 2440,7/21/1967,"1188 Pine Way",Jacksonville,AZ

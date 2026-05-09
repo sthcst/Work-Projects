@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Lewis,michael.lewis8527@yahoo.com,+1 613-594-6944,299 02 9780,01/05/1995,"3558 Spring Dr",Jacksonville,NY

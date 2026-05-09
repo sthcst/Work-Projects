@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Alvarado
-  email: andrew.alvarado5939@company.com
-  phone: 560 788 2398
-  ssn: 262915179
-  dob: 5/6/1989
-  address: 7154 Sixth Way
-  city: Philadelphia
-  state: PA

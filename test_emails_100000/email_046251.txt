@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Young,shirley.young5164@example.com,230 692 9063,809-54-7940,12-03-1967,"6155 Elm Blvd",Washington,CO

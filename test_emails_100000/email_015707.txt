@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Cooper
-  email: rachel.cooper4184@company.com
-  phone: 793 772 6952
-  ssn: 878 08 8790
-  dob: 02/09/1964
-  address: 4305 Maple Way
-  city: Philadelphia
-  state: TX

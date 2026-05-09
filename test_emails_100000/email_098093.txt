@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Garcia,christine.garcia3568@mail.com,(246) 635-5458,781922253,06/06/1953,"1389 Third Ave",New York,TN

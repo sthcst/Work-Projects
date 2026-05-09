@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Walker,robert.walker1611@company.com,(533) 522-5173,466513509,08-22-1961,"1605 Elm St",Houston,MA

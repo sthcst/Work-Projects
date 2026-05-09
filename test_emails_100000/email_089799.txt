@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Nelson,joseph.nelson3719@mail.com,316-597-9217,589148743,10/06/1987,"5023 Park Way",Los Angeles,MI

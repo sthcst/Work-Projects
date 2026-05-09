@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Robinson
-  email: katherine.robinson457@gmail.com
-  phone: 209-209-5852
-  ssn: 636-15-7534
-  dob: 08-03-1975
-  address: 2457 Maple Rd
-  city: Seattle
-  state: TX

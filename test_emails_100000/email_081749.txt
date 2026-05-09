@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Clark,george.clark1266@outlook.com,377 406 2428,517-74-3377,04/08/1974,"1086 Park Way",Los Angeles,NY

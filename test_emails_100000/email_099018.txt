@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Martinez,shirley.martinez9054@mail.com,619-540-5895,773-61-6886,08-05-1972,"6248 Birch Rd",Austin,MO

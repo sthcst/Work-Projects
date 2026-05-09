@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Alvarado,cynthia.alvarado5170@outlook.com,702-706-1071,564534327,9/9/1958,"721 East Ln",Los Angeles,VA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Harris,donald.harris4082@work.org,(685) 956-8642,701014921,02-24-1990,"3954 East Court",Los Angeles,CO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Reed,jacob.reed3507@yahoo.com,330 977 6527,588256032,02/03/1990,"2589 Third Rd",Phoenix,TX

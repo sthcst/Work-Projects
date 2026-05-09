@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Sanchez,helen.sanchez4021@business.net,+1 865-990-4853,219-58-9146,20/04/1953,"882 North Blvd",Washington,AZ

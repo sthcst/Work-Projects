@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Johnson,jason.johnson2395@gmail.com,721 819 3969,868-25-4116,03/26/1979,"8078 Oak Rd",Denver,CA

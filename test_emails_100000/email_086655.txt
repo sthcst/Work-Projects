@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Stewart,kevin.stewart4522@outlook.com,+1 647-318-2058,956 79 3019,11/6/1985,"2930 Spring Blvd",New York,GA

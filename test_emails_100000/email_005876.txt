@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Serrano,joseph.serrano3776@gmail.com,(453) 341-9663,196 53 2505,11/21/1985,"7192 Fifth Rd",Denver,MA

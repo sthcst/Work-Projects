@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Ortiz
-  email: joseph.ortiz9492@outlook.com
-  phone: (204) 982-8441
-  ssn: 985 30 6945
-  dob: 13/09/1954
-  address: 9428 Sixth Way
-  city: San Diego
-  state: CA

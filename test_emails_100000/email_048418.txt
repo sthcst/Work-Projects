@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Phillips,samantha.phillips6053@mail.com,(981) 475-5160,965-46-9529,02/12/1993,"33 East Blvd",Phoenix,DC

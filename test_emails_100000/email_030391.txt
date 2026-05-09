@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Gomez,lisa.gomez700@company.com,+1 368-895-6698,637 17 5025,1/8/1974,"6709 Spring Way",Boston,MD

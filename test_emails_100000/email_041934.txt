@@ -1,9 +1,0 @@
-contact:
-  name: Charles Jones
-  email: charles.jones5448@outlook.com
-  phone: 768 797 5083
-  ssn: 326-28-9671
-  dob: 03-17-1989
-  address: 3161 Cedar Court
-  city: Washington
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Roberts
-  email: katherine.roberts1161@business.net
-  phone: (250) 454-1323
-  ssn: 997447898
-  dob: 07/05/1990
-  address: 5595 Third Dr
-  city: Philadelphia
-  state: NC

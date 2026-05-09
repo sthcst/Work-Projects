@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Thompson
-  email: michelle.thompson898@gmail.com
-  phone: +1 795-392-5945
-  ssn: 845-07-5680
-  dob: 05/11/1952
-  address: 2344 South Ave
-  city: Jacksonville
-  state: CA

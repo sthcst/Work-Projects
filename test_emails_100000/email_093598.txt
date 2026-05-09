@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Davis
-  email: daniel.davis959@yahoo.com
-  phone: 554 242 4045
-  ssn: 625 40 2091
-  dob: 02-15-1954
-  address: 4101 East St
-  city: Philadelphia
-  state: NC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Dominguez,cynthia.dominguez2433@business.net,307 524 8947,320-56-6672,9/9/1969,"2296 Spring Dr",Los Angeles,FL

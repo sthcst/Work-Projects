@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Gomez,kathleen.gomez2328@yahoo.com,(862) 477-7456,831 94 4000,10/05/1972,"3992 Birch Court",Jacksonville,DC

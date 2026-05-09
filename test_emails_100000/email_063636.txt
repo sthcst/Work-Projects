@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Lewis,ronald.lewis4304@business.net,(591) 952-9554,143-73-6942,02/15/1983,"4576 Maple Court",San Antonio,MD

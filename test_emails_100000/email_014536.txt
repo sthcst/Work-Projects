@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Thomas,kenneth.thomas5487@yahoo.com,+1 492-885-1275,347035401,09-06-1987,"3952 Park Blvd",Jacksonville,GA

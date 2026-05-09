@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Edwards,jane.edwards9340@mail.com,+1 496-633-4340,772 68 3600,7/3/1960,"6717 Spring Dr",San Jose,TX

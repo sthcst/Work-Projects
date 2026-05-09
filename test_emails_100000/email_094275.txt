@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Lewis,steven.lewis9763@mail.com,261 512 3075,735-62-9685,09/06/1977,"4462 Second St",Seattle,FL

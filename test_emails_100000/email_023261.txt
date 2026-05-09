@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Reeves,brenda.reeves432@yahoo.com,694-411-9215,107-79-1814,10/05/1951,"8702 Fifth Rd",Chicago,TX

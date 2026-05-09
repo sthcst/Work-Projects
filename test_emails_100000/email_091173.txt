@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Moore,steven.moore6496@yahoo.com,(897) 577-9736,415 33 6299,11-13-1997,"4989 First Way",Austin,MO

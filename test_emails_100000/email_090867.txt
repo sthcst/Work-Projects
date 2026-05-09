@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Reyes,helen.reyes1974@yahoo.com,+1 607-458-3911,315-31-1688,09-21-1993,"6437 Third Court",Seattle,AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Jones
-  email: pamela.jones5479@outlook.com
-  phone: (497) 261-9463
-  ssn: 407-45-9327
-  dob: 01/10/1992
-  address: 6671 North Court
-  city: Chicago
-  state: MA

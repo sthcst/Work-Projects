@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Johnson,james.johnson7862@yahoo.com,+1 333-367-1226,772429363,2/20/1981,"3640 Park Dr",San Jose,AZ

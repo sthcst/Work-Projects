@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Nunez,james.nunez1196@business.net,(787) 875-4310,091-85-1448,12/5/1972,"9870 Main Ave",Jacksonville,MA

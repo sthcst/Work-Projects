@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Rodriguez,jason.rodriguez4083@example.com,(635) 982-4899,523639779,05-17-1959,"1354 Cedar St",Houston,CA

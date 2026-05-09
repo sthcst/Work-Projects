@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Jimenez,ashley.jimenez7855@mail.com,678 849 8439,198 50 9758,08/14/1967,"1227 East Rd",Dallas,TN

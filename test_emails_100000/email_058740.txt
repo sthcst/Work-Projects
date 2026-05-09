@@ -1,9 +1,0 @@
-contact:
-  name: Jane Rodriguez
-  email: jane.rodriguez2640@example.com
-  phone: (653) 304-8748
-  ssn: 876-22-8915
-  dob: 11/8/1960
-  address: 1041 Sixth St
-  city: Jacksonville
-  state: NC

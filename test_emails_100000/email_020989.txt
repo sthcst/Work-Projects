@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Sanchez,cynthia.sanchez8995@business.net,323 920 8324,012 83 2328,6/28/1965,"698 Fifth Way",Seattle,OH

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Thomas,amanda.thomas589@mail.com,550-507-2302,142647335,01-14-1999,"5033 Elm Ave",Philadelphia,AZ

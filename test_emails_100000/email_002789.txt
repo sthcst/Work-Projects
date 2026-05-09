@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Parker,christopher.parker7151@business.net,(540) 622-6682,066-19-7089,7/26/2001,"8233 Main Rd",Boston,WI

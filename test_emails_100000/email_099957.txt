@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Robinson
-  email: kevin.robinson1947@yahoo.com
-  phone: +1 971-492-5553
-  ssn: 426287735
-  dob: 02/09/1968
-  address: 1653 Fourth Blvd
-  city: Boston
-  state: MA

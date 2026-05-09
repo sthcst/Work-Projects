@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Garcia,shirley.garcia7153@work.org,441-759-8434,406887908,09/18/2000,"2080 Birch Ln",Seattle,NJ

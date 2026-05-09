@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Ramirez
-  email: pamela.ramirez9302@work.org
-  phone: 639 288 9554
-  ssn: 725-24-1721
-  dob: 2/6/2005
-  address: 624 Second Rd
-  city: Denver
-  state: NC

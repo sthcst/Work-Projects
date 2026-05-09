@@ -1,9 +1,0 @@
-contact:
-  name: Christopher White
-  email: christopher.white9955@work.org
-  phone: (414) 461-7518
-  ssn: 116-26-4885
-  dob: 07-06-1979
-  address: 31 Park Rd
-  city: Philadelphia
-  state: TX

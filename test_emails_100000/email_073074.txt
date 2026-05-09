@@ -1,9 +1,0 @@
-contact:
-  name: Megan Bell
-  email: megan.bell1761@mail.com
-  phone: 496-570-3604
-  ssn: 386-24-2057
-  dob: 10/16/1976
-  address: 119 Second Ave
-  city: Los Angeles
-  state: CO

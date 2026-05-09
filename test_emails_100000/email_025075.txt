@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Lee
-  email: kenneth.lee2780@yahoo.com
-  phone: (289) 281-5614
-  ssn: 058-59-8114
-  dob: 4/14/1974
-  address: 746 Oak Way
-  city: Austin
-  state: PA

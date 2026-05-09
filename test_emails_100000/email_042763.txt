@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Harris,christopher.harris8611@yahoo.com,536 388 6628,379 54 7415,12-25-1976,"2623 Spring Court",Austin,CA

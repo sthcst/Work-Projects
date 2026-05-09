@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Peterson
-  email: andrew.peterson5531@company.com
-  phone: 403-423-5168
-  ssn: 009786843
-  dob: 09/26/1972
-  address: 1643 East Ave
-  city: Austin
-  state: TX

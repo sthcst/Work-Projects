@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Evans,donald.evans1053@outlook.com,+1 763-299-9813,098 26 2388,10/17/1970,"9648 Second Blvd",San Antonio,GA

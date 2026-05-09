@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Anderson,stephanie.anderson5828@company.com,+1 390-510-8568,222 51 2458,2/18/2000,"4416 Second Ave",New York,MA

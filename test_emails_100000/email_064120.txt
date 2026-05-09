@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Robinson
-  email: katherine.robinson8101@business.net
-  phone: +1 320-804-6004
-  ssn: 976 09 3165
-  dob: 6/19/1959
-  address: 9355 Spring Court
-  city: San Diego
-  state: CA

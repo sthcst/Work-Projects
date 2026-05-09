@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Evans
-  email: lisa.evans6798@company.com
-  phone: (678) 205-5698
-  ssn: 355815460
-  dob: 04-19-2002
-  address: 3154 Sixth Ln
-  city: Philadelphia
-  state: MI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Clark,daniel.clark368@gmail.com,+1 654-557-1779,513 66 5275,02/06/1990,"1835 Elm Way",San Antonio,TX

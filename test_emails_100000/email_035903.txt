@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Morris,brian.morris4316@gmail.com,924-919-2093,089-35-1284,10/04/1954,"2247 Cedar St",Boston,NC

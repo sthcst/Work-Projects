@@ -1,9 +1,0 @@
-contact:
-  name: John Taylor
-  email: john.taylor8743@business.net
-  phone: 509-533-7669
-  ssn: 355345576
-  dob: 12/4/1988
-  address: 7159 Maple Dr
-  city: Austin
-  state: CA

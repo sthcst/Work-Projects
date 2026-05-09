@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Garcia
-  email: samantha.garcia477@outlook.com
-  phone: +1 791-590-1367
-  ssn: 310-38-3572
-  dob: 05/16/1986
-  address: 7683 Elm Ln
-  city: Philadelphia
-  state: MA

@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Williams
-  email: kimberly.williams5597@example.com
-  phone: +1 678-944-2010
-  ssn: 111 33 3801
-  dob: 08-25-1993
-  address: 9790 Fifth Way
-  city: San Jose
-  state: OH

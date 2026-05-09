@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Robinson,andrew.robinson9799@company.com,375 827 4950,706479520,6/13/1983,"959 Fourth Rd",San Diego,TN

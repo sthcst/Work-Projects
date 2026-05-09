@@ -1,9 +1,0 @@
-contact:
-  name: Jane Cooper
-  email: jane.cooper4735@business.net
-  phone: (818) 877-9778
-  ssn: 476412549
-  dob: 21/02/1979
-  address: 6781 Park Blvd
-  city: Seattle
-  state: NJ

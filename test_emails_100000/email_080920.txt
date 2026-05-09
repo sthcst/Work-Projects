@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Alvarado,katherine.alvarado3870@mail.com,622 334 7974,548562564,4/28/1959,"1201 Park Court",Jacksonville,MA

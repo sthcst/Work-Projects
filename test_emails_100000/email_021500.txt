@@ -1,9 +1,0 @@
-contact:
-  name: Gary Jackson
-  email: gary.jackson1049@business.net
-  phone: 282 365 2767
-  ssn: 083 25 8829
-  dob: 05-27-1987
-  address: 5668 Elm Dr
-  city: Chicago
-  state: FL

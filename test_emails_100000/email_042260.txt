@@ -1,9 +1,0 @@
-contact:
-  name: Jane Edwards
-  email: jane.edwards962@company.com
-  phone: +1 540-467-8083
-  ssn: 231 59 7652
-  dob: 10/27/1989
-  address: 4287 Third Way
-  city: New York
-  state: NC

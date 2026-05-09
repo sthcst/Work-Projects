@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Ramirez
-  email: nicholas.ramirez72@gmail.com
-  phone: 277 806 5421
-  ssn: 218 72 9626
-  dob: 09-24-1956
-  address: 7258 Birch Ln
-  city: Jacksonville
-  state: AZ

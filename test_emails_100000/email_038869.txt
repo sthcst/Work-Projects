@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Campbell,kathleen.campbell5884@gmail.com,903 650 8512,181-64-8085,06/23/1959,"3372 South Blvd",Jacksonville,TN

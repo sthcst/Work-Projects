@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Rogers,emma.rogers1504@yahoo.com,+1 362-636-4849,591-33-1195,08-11-1994,"687 Maple St",Denver,FL

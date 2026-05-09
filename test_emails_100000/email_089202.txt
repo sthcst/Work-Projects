@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Ortiz,michael.ortiz6561@example.com,(607) 840-5770,980-68-2934,07/23/1989,"8686 Third Ln",Washington,MA

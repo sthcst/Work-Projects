@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Roberts,jane.roberts7523@yahoo.com,+1 827-374-6810,480 29 6725,12/08/1967,"4055 Summer Rd",Chicago,NC

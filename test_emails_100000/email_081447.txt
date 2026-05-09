@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Peterson
-  email: christopher.peterson5657@example.com
-  phone: (511) 590-9072
-  ssn: 783-44-4217
-  dob: 2/11/1952
-  address: 9405 Elm Rd
-  city: New York
-  state: PA

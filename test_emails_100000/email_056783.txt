@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Peterson,joseph.peterson8517@example.com,+1 859-340-1794,227372481,11/6/2001,"1114 North St",San Jose,FL

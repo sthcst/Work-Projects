@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Brown
-  email: kimberly.brown6316@company.com
-  phone: 492-842-6855
-  ssn: 575 31 8130
-  dob: 9/19/1993
-  address: 85 Elm St
-  city: Houston
-  state: AZ

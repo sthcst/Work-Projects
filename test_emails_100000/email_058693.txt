@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Reeves
-  email: rachel.reeves564@business.net
-  phone: +1 432-611-7735
-  ssn: 110 20 5966
-  dob: 01/01/1969
-  address: 2319 South Blvd
-  city: Austin
-  state: IL

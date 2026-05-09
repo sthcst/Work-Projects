@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Edwards,anthony.edwards1129@outlook.com,+1 903-964-4892,483-12-1694,02/07/1968,"7263 Spring Court",Jacksonville,FL

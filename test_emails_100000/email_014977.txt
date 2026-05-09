@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Hernandez,lisa.hernandez7108@business.net,(954) 688-7081,398 56 6333,03-22-1963,"4279 Park Dr",Seattle,NY

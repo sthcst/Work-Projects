@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Peterson
-  email: stephanie.peterson2195@outlook.com
-  phone: 777 982 1034
-  ssn: 313396748
-  dob: 06/22/1961
-  address: 8353 Maple Dr
-  city: Jacksonville
-  state: DC

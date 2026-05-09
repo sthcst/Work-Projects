@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Murillo,andrew.murillo4441@work.org,+1 868-732-5588,773 13 6296,10/05/1971,"4825 Summer Rd",Phoenix,AZ

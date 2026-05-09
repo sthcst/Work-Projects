@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Murillo
-  email: kenneth.murillo6802@company.com
-  phone: 504-931-5929
-  ssn: 513 10 8957
-  dob: 11/13/1977
-  address: 8463 Cedar Court
-  city: Austin
-  state: CA

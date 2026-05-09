@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Williams,lisa.williams9446@company.com,+1 284-567-6745,758335624,4/1/1986,"1654 Elm Ave",Philadelphia,VA

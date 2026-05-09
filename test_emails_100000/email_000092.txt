@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Harris
-  email: ashley.harris9627@company.com
-  phone: +1 413-540-5967
-  ssn: 980-02-4470
-  dob: 04/12/1997
-  address: 3984 Sixth Ln
-  city: Boston
-  state: WI

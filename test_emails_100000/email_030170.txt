@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Rodriguez,timothy.rodriguez1997@work.org,(471) 911-3444,906397911,06-05-1989,"4865 Fifth Way",San Jose,AZ

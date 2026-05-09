@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Campbell
-  email: nicholas.campbell1240@outlook.com
-  phone: (664) 756-3497
-  ssn: 976359776
-  dob: 04/08/1965
-  address: 7348 Spring St
-  city: Seattle
-  state: WA

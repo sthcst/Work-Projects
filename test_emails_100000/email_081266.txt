@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Jimenez
-  email: kimberly.jimenez5618@business.net
-  phone: 875-809-9196
-  ssn: 229155674
-  dob: 05/04/1981
-  address: 3358 Maple Ln
-  city: San Jose
-  state: OH

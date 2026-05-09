@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Delgado,brenda.delgado8763@gmail.com,446 658 6252,128-29-4848,20/11/2003,"7576 South Court",Denver,FL

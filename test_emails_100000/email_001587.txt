@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Collins,lauren.collins9578@gmail.com,320 770 3052,934 28 8645,03/04/1953,"7928 Spring Dr",Dallas,DC

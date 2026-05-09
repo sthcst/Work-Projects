@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Hernandez
-  email: amanda.hernandez7015@mail.com
-  phone: 339-206-1645
-  ssn: 044 20 6027
-  dob: 11/8/1987
-  address: 1201 Park Rd
-  city: Houston
-  state: MA

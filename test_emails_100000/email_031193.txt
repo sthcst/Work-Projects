@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Stewart
-  email: nicole.stewart2841@yahoo.com
-  phone: 478 623 9201
-  ssn: 974-90-7924
-  dob: 14/10/1998
-  address: 3372 East Ave
-  city: Phoenix
-  state: PA

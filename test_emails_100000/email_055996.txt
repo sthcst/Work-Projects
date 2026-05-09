@@ -1,9 +1,0 @@
-contact:
-  name: Helen Evans
-  email: helen.evans7419@work.org
-  phone: +1 946-855-7862
-  ssn: 862822372
-  dob: 07-24-1969
-  address: 5871 South Dr
-  city: Boston
-  state: CA

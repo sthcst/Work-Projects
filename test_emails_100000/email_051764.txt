@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Reed,william.reed3479@business.net,+1 857-932-7156,001985244,03/09/1964,"6849 Third St",Los Angeles,NC

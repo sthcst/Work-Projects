@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Rodriguez,richard.rodriguez6427@work.org,(277) 965-7107,937-58-8933,06/11/1992,"1907 Spring Ave",Houston,MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Thomas,kimberly.thomas2936@yahoo.com,(592) 993-9701,607-31-7313,09-06-2002,"6371 Summer Ave",Washington,CO

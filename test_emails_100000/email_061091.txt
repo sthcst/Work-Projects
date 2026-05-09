@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Smith,jane.smith8731@mail.com,+1 682-958-8226,769333242,27/09/1996,"532 Summer Way",Austin,IL

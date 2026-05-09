@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Ramirez,christine.ramirez8084@company.com,(631) 566-5433,893478804,25/11/1986,"5820 Spring Ave",Austin,TX

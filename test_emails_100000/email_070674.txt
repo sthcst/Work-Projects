@@ -1,9 +1,0 @@
-contact:
-  name: Christine Walker
-  email: christine.walker4612@yahoo.com
-  phone: 848-449-3838
-  ssn: 198241758
-  dob: 06/18/1957
-  address: 582 First Ave
-  city: Houston
-  state: AZ

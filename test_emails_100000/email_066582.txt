@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Young,emma.young6667@outlook.com,993-797-6115,601604384,21/04/1975,"7613 Main Rd",Jacksonville,TX

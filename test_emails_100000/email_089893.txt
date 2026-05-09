@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Moore,robert.moore5505@mail.com,+1 529-219-9975,467 40 7685,4/1/1999,"5138 Pine Dr",Denver,OH

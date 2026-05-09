@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Ramirez,jessica.ramirez4417@gmail.com,(825) 730-4162,831794849,04/10/1961,"2237 Spring Ln",Phoenix,WA

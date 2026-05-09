@@ -1,9 +1,0 @@
-contact:
-  name: George Parker
-  email: george.parker3900@mail.com
-  phone: (495) 981-3769
-  ssn: 530161625
-  dob: 18/03/1982
-  address: 4005 Main Blvd
-  city: Los Angeles
-  state: NC

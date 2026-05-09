@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Harris,anna.harris15@outlook.com,917-752-8409,028-11-1480,6/19/1983,"5195 Park Court",Los Angeles,FL

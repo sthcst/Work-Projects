@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Nelson
-  email: kenneth.nelson3971@yahoo.com
-  phone: +1 226-859-5879
-  ssn: 223 02 5675
-  dob: 05-25-1982
-  address: 2172 Pine Ln
-  city: Seattle
-  state: AZ

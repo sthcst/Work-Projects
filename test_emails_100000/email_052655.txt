@@ -1,9 +1,0 @@
-contact:
-  name: John Williams
-  email: john.williams8749@outlook.com
-  phone: (511) 212-3725
-  ssn: 912-72-9237
-  dob: 1/2/1982
-  address: 9785 West Way
-  city: Denver
-  state: MO

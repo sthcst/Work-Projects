@@ -1,9 +1,0 @@
-contact:
-  name: John Lee
-  email: john.lee1298@business.net
-  phone: +1 965-825-3641
-  ssn: 033-88-1214
-  dob: 22/10/1987
-  address: 3665 West Rd
-  city: Boston
-  state: OH

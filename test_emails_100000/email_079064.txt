@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Stewart
-  email: rebecca.stewart6925@outlook.com
-  phone: 238-599-9003
-  ssn: 410 62 6122
-  dob: 20/10/1967
-  address: 6223 Oak Ave
-  city: Los Angeles
-  state: FL

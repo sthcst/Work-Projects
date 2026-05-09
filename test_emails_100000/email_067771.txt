@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Evans,maria.evans1516@example.com,949 337 7848,438546185,12-15-1983,"5213 Third St",New York,MO

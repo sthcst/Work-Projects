@@ -1,9 +1,0 @@
-contact:
-  name: Anna Sanchez
-  email: anna.sanchez9856@work.org
-  phone: 610-865-3346
-  ssn: 929-98-6848
-  dob: 07/21/1995
-  address: 3880 South Blvd
-  city: Washington
-  state: GA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Moore,joseph.moore8180@outlook.com,306-885-6145,791978345,15/12/1991,"3602 Elm Dr",Seattle,MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Cooper,george.cooper6607@example.com,585 530 6429,334-43-5243,24/11/1954,"625 West Ln",Houston,NY

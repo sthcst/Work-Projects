@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Anderson
-  email: joseph.anderson5730@business.net
-  phone: 479-760-4392
-  ssn: 860 18 9379
-  dob: 05/05/1996
-  address: 1508 Oak Rd
-  city: Philadelphia
-  state: AZ

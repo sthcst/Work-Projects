@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Romero
-  email: amanda.romero8324@example.com
-  phone: 745-222-3349
-  ssn: 829-80-5073
-  dob: 26/11/1986
-  address: 8218 East Court
-  city: Denver
-  state: PA

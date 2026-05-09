@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Rogers
-  email: jeffrey.rogers5764@work.org
-  phone: 511 333 6047
-  ssn: 616 19 8886
-  dob: 08/12/1976
-  address: 202 Summer Rd
-  city: San Jose
-  state: NC

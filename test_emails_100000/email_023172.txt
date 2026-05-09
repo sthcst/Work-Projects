@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Miller
-  email: kimberly.miller4984@yahoo.com
-  phone: 727 693 4383
-  ssn: 971 73 2027
-  dob: 03/15/1953
-  address: 779 Second Blvd
-  city: San Antonio
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Taylor
-  email: jeffrey.taylor955@example.com
-  phone: 869 917 8522
-  ssn: 334 57 9978
-  dob: 01-07-1956
-  address: 9035 Elm Rd
-  city: Los Angeles
-  state: AZ

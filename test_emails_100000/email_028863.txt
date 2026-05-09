@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Gonzalez
-  email: amanda.gonzalez5057@business.net
-  phone: 264 654 6612
-  ssn: 896-56-9494
-  dob: 08/28/1966
-  address: 4184 Fifth Court
-  city: New York
-  state: MA

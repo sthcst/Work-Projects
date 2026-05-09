@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Campbell,jacob.campbell4252@yahoo.com,+1 951-397-5897,121-71-6820,03-11-1952,"319 Second Ln",Denver,IL

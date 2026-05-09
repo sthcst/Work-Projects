@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Hall,william.hall4680@mail.com,535-771-2100,063 81 2844,01-02-1967,"4637 Pine Ln",Washington,MA

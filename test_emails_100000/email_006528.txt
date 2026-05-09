@@ -1,9 +1,0 @@
-contact:
-  name: Robert Hall
-  email: robert.hall3441@business.net
-  phone: (351) 964-6446
-  ssn: 141-50-4920
-  dob: 03/22/1984
-  address: 3296 Main Blvd
-  city: Chicago
-  state: TX

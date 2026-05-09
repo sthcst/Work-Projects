@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Alvarado
-  email: samantha.alvarado9027@outlook.com
-  phone: +1 776-254-9504
-  ssn: 701967605
-  dob: 08/18/1985
-  address: 2193 West Blvd
-  city: Washington
-  state: CA

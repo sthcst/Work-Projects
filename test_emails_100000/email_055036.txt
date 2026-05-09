@@ -1,9 +1,0 @@
-contact:
-  name: Angela Robinson
-  email: angela.robinson3279@example.com
-  phone: 578 226 9269
-  ssn: 327 92 7655
-  dob: 12-04-1985
-  address: 5599 Cedar Way
-  city: Philadelphia
-  state: MI

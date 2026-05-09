@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Alvarado
-  email: jeffrey.alvarado6207@gmail.com
-  phone: 527 499 2561
-  ssn: 749106381
-  dob: 08/11/1957
-  address: 865 Fourth Ln
-  city: Dallas
-  state: IL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Perez,robert.perez7239@business.net,229-203-6204,972045888,11-04-1972,"5189 Second Ln",San Diego,DC

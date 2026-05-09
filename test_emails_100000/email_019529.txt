@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Roberts
-  email: lauren.roberts1501@example.com
-  phone: 990 933 7305
-  ssn: 245 68 7349
-  dob: 06/04/1997
-  address: 8300 Maple Ave
-  city: Houston
-  state: FL

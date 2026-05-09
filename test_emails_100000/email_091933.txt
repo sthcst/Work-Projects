@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Stewart
-  email: samantha.stewart6192@outlook.com
-  phone: +1 897-997-8692
-  ssn: 596282602
-  dob: 04-25-2003
-  address: 5793 Maple Court
-  city: San Antonio
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Phillips,steven.phillips5488@yahoo.com,532 413 1213,710-02-5611,7/18/2002,"6375 West St",Jacksonville,NY

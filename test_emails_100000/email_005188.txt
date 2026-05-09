@@ -1,9 +1,0 @@
-contact:
-  name: Emma Roberts
-  email: emma.roberts7403@mail.com
-  phone: 454 813 3514
-  ssn: 127-65-7967
-  dob: 5/26/1962
-  address: 5097 North Rd
-  city: Boston
-  state: FL

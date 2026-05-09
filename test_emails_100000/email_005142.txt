@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Clark,samantha.clark7688@yahoo.com,258 403 1992,203 09 8969,09-09-1968,"7017 Spring Way",Chicago,CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Gonzalez,christine.gonzalez7245@yahoo.com,340 427 6877,912 73 8162,08-10-2004,"187 South Way",New York,TX

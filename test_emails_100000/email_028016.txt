@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Johnson,lauren.johnson8555@outlook.com,(222) 224-6902,893 90 1952,03/06/1983,"5991 Fourth Ln",Houston,NJ

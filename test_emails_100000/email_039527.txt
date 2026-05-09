@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Delgado,jane.delgado5837@business.net,(430) 960-2639,254626318,01/07/1989,"5481 East Way",Los Angeles,AZ

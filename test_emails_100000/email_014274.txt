@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Morris,jennifer.morris5661@work.org,869-541-9453,207-13-9161,03/13/1980,"4143 Third Court",Dallas,OH

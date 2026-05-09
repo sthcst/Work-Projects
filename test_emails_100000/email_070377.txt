@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Moore,stephanie.moore3000@gmail.com,+1 779-956-3426,237698531,6/24/1999,"9501 Spring Blvd",New York,FL

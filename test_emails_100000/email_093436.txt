@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Lopez,james.lopez7679@yahoo.com,+1 604-858-7372,999682137,01/09/2005,"6178 Maple Rd",Chicago,FL

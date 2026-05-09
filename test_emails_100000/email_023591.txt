@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Walker
-  email: lisa.walker8978@company.com
-  phone: 291 912 2919
-  ssn: 856192579
-  dob: 06-04-1953
-  address: 8726 Cedar Blvd
-  city: Seattle
-  state: MD

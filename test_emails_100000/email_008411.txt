@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Perez,jason.perez486@example.com,603 450 8906,275677434,4/25/2003,"3954 South Blvd",Houston,VA

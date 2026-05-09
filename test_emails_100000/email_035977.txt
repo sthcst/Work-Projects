@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Davis,angela.davis1777@gmail.com,479 687 5926,154-21-5499,10/20/1978,"6198 Third Dr",Washington,MA

@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Peterson
-  email: ashley.peterson5861@business.net
-  phone: 870-734-5168
-  ssn: 895-97-6268
-  dob: 12/11/2000
-  address: 2782 Summer Way
-  city: San Diego
-  state: PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Perez,rachel.perez8328@work.org,+1 427-879-5138,602166277,25/04/1996,"4356 North Ave",Austin,CO

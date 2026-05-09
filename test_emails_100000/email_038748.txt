@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Cooper,kathleen.cooper2876@work.org,772 597 4850,239214621,01/09/1963,"6042 Summer Blvd",Chicago,AZ

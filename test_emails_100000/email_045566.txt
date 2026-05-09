@@ -1,9 +1,0 @@
-contact:
-  name: Christine Alvarado
-  email: christine.alvarado230@company.com
-  phone: 789 234 9890
-  ssn: 242468306
-  dob: 12/28/1997
-  address: 7325 Spring Ave
-  city: Austin
-  state: AZ

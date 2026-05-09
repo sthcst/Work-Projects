@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Campbell
-  email: pamela.campbell5654@mail.com
-  phone: 521 304 9922
-  ssn: 463 03 1960
-  dob: 11/2/1961
-  address: 2229 Sixth Way
-  city: Chicago
-  state: TX

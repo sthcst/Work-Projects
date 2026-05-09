@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Harris
-  email: joshua.harris1878@gmail.com
-  phone: 478 654 2910
-  ssn: 269874143
-  dob: 07/19/1971
-  address: 5575 Fifth Dr
-  city: Washington
-  state: NJ

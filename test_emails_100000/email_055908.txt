@@ -1,9 +1,0 @@
-contact:
-  name: Charles Reyes
-  email: charles.reyes9665@work.org
-  phone: +1 321-522-7009
-  ssn: 162 32 8532
-  dob: 1/19/1991
-  address: 3190 Elm Dr
-  city: Chicago
-  state: AZ

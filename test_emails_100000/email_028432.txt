@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Garcia,richard.garcia8558@yahoo.com,720-278-1432,614371235,12-18-1998,"6797 Sixth Court",San Diego,AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Emily Martinez
-  email: emily.martinez4769@example.com
-  phone: 556 739 2141
-  ssn: 114-75-2551
-  dob: 01/06/1987
-  address: 8850 West Dr
-  city: Denver
-  state: CO

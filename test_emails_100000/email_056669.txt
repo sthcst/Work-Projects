@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Wilson
-  email: pamela.wilson3455@outlook.com
-  phone: +1 309-671-7571
-  ssn: 062 73 8728
-  dob: 10-23-1979
-  address: 8667 Fourth Dr
-  city: Austin
-  state: AZ

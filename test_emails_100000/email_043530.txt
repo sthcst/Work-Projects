@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Hall
-  email: nicholas.hall8939@company.com
-  phone: 753 643 6448
-  ssn: 089-22-9171
-  dob: 02-05-1966
-  address: 6839 North Ln
-  city: Austin
-  state: DC

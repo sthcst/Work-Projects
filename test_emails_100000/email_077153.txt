@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Robinson,anthony.robinson2126@business.net,370 997 4029,982-45-1793,18/03/1976,"6710 Maple Ave",Houston,OH

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Guerrero,angela.guerrero2580@example.com,369 477 7618,219 68 2484,16/03/1959,"9003 Cedar St",Phoenix,OH

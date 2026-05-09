@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Walker
-  email: deborah.walker6407@yahoo.com
-  phone: (235) 779-9219
-  ssn: 905-33-5806
-  dob: 9/10/1994
-  address: 5502 Summer Blvd
-  city: Dallas
-  state: NC

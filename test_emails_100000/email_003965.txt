@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Jones,edward.jones4656@company.com,555-206-5954,812-40-3732,9/11/1957,"903 Park Way",Phoenix,CO

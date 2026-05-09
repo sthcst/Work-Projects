@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Stewart,kimberly.stewart7922@mail.com,637 269 3535,730514350,01/16/1971,"826 Third Blvd",Austin,AZ

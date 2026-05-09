@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Martinez
-  email: daniel.martinez1413@work.org
-  phone: 555 302 5344
-  ssn: 349-53-2368
-  dob: 11/15/1983
-  address: 7923 Fifth Ln
-  city: San Antonio
-  state: TX

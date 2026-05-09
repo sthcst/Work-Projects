@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Flores,rebecca.flores6071@mail.com,417-799-6621,154884216,06-20-1988,"9804 Third Ln",Philadelphia,OH

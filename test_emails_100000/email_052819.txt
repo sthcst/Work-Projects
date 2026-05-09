@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Gomez,kathleen.gomez4500@business.net,953 309 8624,682031120,02/22/1975,"3184 East Way",Houston,PA

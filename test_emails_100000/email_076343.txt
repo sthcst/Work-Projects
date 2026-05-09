@@ -1,9 +1,0 @@
-contact:
-  name: Paul Carter
-  email: paul.carter6717@business.net
-  phone: +1 467-540-4622
-  ssn: 549 53 5671
-  dob: 6/5/1953
-  address: 1980 Spring Ln
-  city: Phoenix
-  state: MA

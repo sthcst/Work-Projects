@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Parker,stephanie.parker8519@yahoo.com,331 909 1759,352 77 2593,10/3/1997,"676 Spring Way",Los Angeles,WI

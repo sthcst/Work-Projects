@@ -1,9 +1,0 @@
-contact:
-  name: Helen Lopez
-  email: helen.lopez4034@company.com
-  phone: (861) 711-7724
-  ssn: 602-81-3627
-  dob: 01-20-1951
-  address: 7526 Oak Way
-  city: Jacksonville
-  state: FL

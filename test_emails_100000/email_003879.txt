@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Jimenez,brenda.jimenez8793@gmail.com,230-267-4974,207 06 4133,10-01-1961,"7885 North Ave",Los Angeles,VA

@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Hernandez
-  email: rebecca.hernandez4618@company.com
-  phone: (481) 883-9039
-  ssn: 684 48 1946
-  dob: 4/8/2005
-  address: 5417 Elm Blvd
-  city: Chicago
-  state: GA

@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Evans
-  email: jacob.evans7259@gmail.com
-  phone: 623-766-6639
-  ssn: 614 96 3668
-  dob: 06/12/2002
-  address: 1970 Spring Dr
-  city: Jacksonville
-  state: MA

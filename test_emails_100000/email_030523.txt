@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Garcia
-  email: christopher.garcia2184@mail.com
-  phone: (815) 975-8069
-  ssn: 619-77-1718
-  dob: 22/12/1952
-  address: 6120 Fifth Way
-  city: Chicago
-  state: WI

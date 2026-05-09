@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Evans,michael.evans589@gmail.com,972 300 3508,438 54 2436,12-25-1960,"4556 Third Dr",Dallas,MD

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Edwards,richard.edwards4466@work.org,(387) 517-8749,358734785,06/24/1986,"4175 Summer Ln",Phoenix,TX

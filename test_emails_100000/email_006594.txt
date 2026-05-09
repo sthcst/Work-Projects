@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Robinson
-  email: nicholas.robinson6168@yahoo.com
-  phone: 521 775 8472
-  ssn: 348099724
-  dob: 05-08-1978
-  address: 9679 Elm Ave
-  city: Jacksonville
-  state: VA

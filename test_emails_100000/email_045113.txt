@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Gomez
-  email: stephanie.gomez5803@mail.com
-  phone: (471) 314-2483
-  ssn: 705035950
-  dob: 2/27/2004
-  address: 6352 East St
-  city: Washington
-  state: MD

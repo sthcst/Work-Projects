@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Brown,deborah.brown8426@gmail.com,(348) 841-3052,452793078,2/4/1976,"3139 South Court",Chicago,TX

@@ -1,9 +1,0 @@
-contact:
-  name: John Romero
-  email: john.romero311@outlook.com
-  phone: +1 713-215-8405
-  ssn: 321 68 5657
-  dob: 04-20-1951
-  address: 637 West Way
-  city: New York
-  state: CA

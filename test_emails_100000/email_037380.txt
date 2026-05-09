@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Walker
-  email: jacob.walker3595@outlook.com
-  phone: (828) 208-5593
-  ssn: 912 56 8431
-  dob: 02/09/1991
-  address: 5822 West Way
-  city: Seattle
-  state: WI

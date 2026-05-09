@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Murillo,robert.murillo1293@example.com,756 300 2099,145-66-1919,10-07-1960,"841 Sixth Ln",New York,MA

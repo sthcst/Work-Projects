@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Jackson,daniel.jackson7326@mail.com,230-439-6850,012 29 3207,7/24/1976,"8590 Fourth Dr",San Diego,DC

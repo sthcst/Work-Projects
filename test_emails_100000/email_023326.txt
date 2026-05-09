@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Carter
-  email: ryan.carter181@company.com
-  phone: (766) 625-7167
-  ssn: 911 75 1637
-  dob: 02/07/1987
-  address: 9334 Fourth Ln
-  city: Dallas
-  state: IL

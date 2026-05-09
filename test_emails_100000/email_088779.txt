@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Reed,richard.reed7619@yahoo.com,(376) 982-3203,320 87 4537,8/11/1989,"4113 East Court",Denver,NC

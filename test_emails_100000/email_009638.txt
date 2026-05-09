@@ -1,9 +1,0 @@
-contact:
-  name: Megan Gonzalez
-  email: megan.gonzalez2808@outlook.com
-  phone: +1 545-896-7074
-  ssn: 612-17-5160
-  dob: 7/12/1950
-  address: 6810 South St
-  city: Boston
-  state: PA

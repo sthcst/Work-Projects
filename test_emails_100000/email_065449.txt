@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Davis
-  email: rachel.davis1594@business.net
-  phone: +1 870-896-5498
-  ssn: 021 19 7855
-  dob: 08/01/1992
-  address: 2253 East Dr
-  city: San Antonio
-  state: MI

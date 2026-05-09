@@ -1,9 +1,0 @@
-contact:
-  name: Angela Clark
-  email: angela.clark9747@work.org
-  phone: 961 468 3887
-  ssn: 889 44 3147
-  dob: 04/24/1955
-  address: 5222 Pine Ave
-  city: Denver
-  state: CO

@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Moore
-  email: kenneth.moore923@outlook.com
-  phone: +1 837-209-9665
-  ssn: 293994430
-  dob: 11-08-1954
-  address: 5921 Spring Ave
-  city: New York
-  state: DC

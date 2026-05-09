@@ -1,9 +1,0 @@
-contact:
-  name: Jason Wilson
-  email: jason.wilson8680@yahoo.com
-  phone: 233 415 2052
-  ssn: 762148537
-  dob: 18/01/1969
-  address: 9659 Oak Ln
-  city: New York
-  state: AZ

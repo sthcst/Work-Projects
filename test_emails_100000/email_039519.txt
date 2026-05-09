@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Nelson,brenda.nelson9898@company.com,942 829 3500,290716744,10/07/2003,"8073 First Rd",Dallas,TX

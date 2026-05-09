@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Campbell,pamela.campbell7704@business.net,869 434 9491,637 60 2429,05/15/1966,"3009 Pine Way",Washington,TN

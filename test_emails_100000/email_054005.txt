@@ -1,9 +1,0 @@
-contact:
-  name: Megan Dominguez
-  email: megan.dominguez3667@gmail.com
-  phone: 900-945-7948
-  ssn: 345 89 1324
-  dob: 04/01/1951
-  address: 3623 Sixth Way
-  city: San Antonio
-  state: TX

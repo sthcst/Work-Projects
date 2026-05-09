@@ -1,9 +1,0 @@
-contact:
-  name: Richard Delgado
-  email: richard.delgado1569@work.org
-  phone: (303) 509-4287
-  ssn: 541-25-4071
-  dob: 25/02/1992
-  address: 4906 Spring St
-  city: Houston
-  state: FL

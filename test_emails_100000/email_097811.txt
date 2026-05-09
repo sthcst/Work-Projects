@@ -1,9 +1,0 @@
-contact:
-  name: Brian Rodriguez
-  email: brian.rodriguez3838@yahoo.com
-  phone: 605 212 1576
-  ssn: 211 74 1469
-  dob: 9/19/1986
-  address: 7719 First Rd
-  city: Dallas
-  state: WI

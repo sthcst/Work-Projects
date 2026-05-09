@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Carter,kimberly.carter1387@yahoo.com,738-409-5466,057 75 5089,11/07/1991,"5632 East Court",San Diego,TX

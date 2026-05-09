@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Gomez,christopher.gomez3848@company.com,532-290-7423,910-04-1563,02/03/1987,"5431 Maple Way",Austin,FL

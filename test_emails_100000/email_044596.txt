@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Alvarado,ashley.alvarado1779@gmail.com,551 367 8158,803215693,03/08/1993,"1157 Oak Court",Philadelphia,AZ

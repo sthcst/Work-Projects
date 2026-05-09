@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Hernandez
-  email: kathleen.hernandez9987@yahoo.com
-  phone: 973-993-8071
-  ssn: 904876807
-  dob: 06/05/1950
-  address: 5707 Main Rd
-  city: Philadelphia
-  state: MA

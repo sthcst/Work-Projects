@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Morris,deborah.morris9773@outlook.com,(254) 787-8286,394 21 9294,10-25-1996,"5579 Birch Dr",San Jose,CA

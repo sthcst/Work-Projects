@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Delgado,shirley.delgado8560@yahoo.com,880-631-3608,683 39 7074,7/20/1967,"3070 Fourth Dr",Austin,VA

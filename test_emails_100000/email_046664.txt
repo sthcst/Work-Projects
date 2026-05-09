@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Hernandez
-  email: jacob.hernandez34@company.com
-  phone: 219 871 7929
-  ssn: 193883460
-  dob: 09-11-1951
-  address: 34 North Rd
-  city: Seattle
-  state: CA

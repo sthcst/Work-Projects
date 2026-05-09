@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Lewis,lauren.lewis9614@mail.com,+1 719-724-6626,340-21-5228,11/05/1996,"8758 Birch Blvd",Houston,CA

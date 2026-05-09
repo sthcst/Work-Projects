@@ -1,9 +1,0 @@
-contact:
-  name: Gary Brown
-  email: gary.brown3338@company.com
-  phone: +1 293-695-4747
-  ssn: 594483174
-  dob: 01/01/1994
-  address: 8205 Oak Rd
-  city: San Diego
-  state: OH

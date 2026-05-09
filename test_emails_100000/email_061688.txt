@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Delgado,ashley.delgado9685@business.net,539 656 5608,977 17 1319,10-24-1977,"7945 Birch Ln",Philadelphia,NC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Gonzalez,gary.gonzalez4132@outlook.com,550 201 5069,458 27 6755,4/9/1990,"3183 East Court",Houston,OH

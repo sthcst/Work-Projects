@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Jackson,sarah.jackson5886@outlook.com,310-713-8617,929911600,05/02/1978,"5239 Second Dr",Chicago,TX

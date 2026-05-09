@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Nunez,jason.nunez7811@company.com,679 845 1551,915-79-5764,03-28-1984,"9619 Spring Blvd",Austin,FL

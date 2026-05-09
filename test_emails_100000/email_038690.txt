@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Romero
-  email: shirley.romero1751@business.net
-  phone: (628) 764-9008
-  ssn: 125-81-5955
-  dob: 05/04/1961
-  address: 1120 Second Blvd
-  city: Los Angeles
-  state: NY

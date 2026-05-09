@@ -1,9 +1,0 @@
-contact:
-  name: Megan Edwards
-  email: megan.edwards1105@gmail.com
-  phone: 718 483 3459
-  ssn: 276 76 7276
-  dob: 11-28-1959
-  address: 9197 First Ln
-  city: Philadelphia
-  state: MD

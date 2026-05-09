@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Jones
-  email: christopher.jones7631@example.com
-  phone: +1 525-738-7210
-  ssn: 953 08 2628
-  dob: 5/6/1979
-  address: 382 Second Dr
-  city: Chicago
-  state: IL

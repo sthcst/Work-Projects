@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Wilson
-  email: brenda.wilson2586@example.com
-  phone: +1 808-722-5104
-  ssn: 026 98 1665
-  dob: 07/01/1968
-  address: 2397 Cedar St
-  city: Phoenix
-  state: CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Collins,michelle.collins2764@company.com,751 821 2392,868-64-3238,12/04/1950,"6077 Oak Way",Jacksonville,CO

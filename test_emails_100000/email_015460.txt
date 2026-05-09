@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Johnson,cynthia.johnson3233@gmail.com,303-685-6459,322-86-9479,15/01/1988,"9304 Fifth Rd",San Jose,NY

@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Lewis
-  email: lauren.lewis5251@work.org
-  phone: 272-257-4150
-  ssn: 784-47-6640
-  dob: 12/05/1972
-  address: 2488 Oak Ln
-  city: Chicago
-  state: TX

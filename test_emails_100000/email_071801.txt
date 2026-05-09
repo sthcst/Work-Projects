@@ -1,9 +1,0 @@
-contact:
-  name: Donald Wilson
-  email: donald.wilson1279@company.com
-  phone: 310-409-2949
-  ssn: 297 58 2226
-  dob: 08-07-1974
-  address: 1912 Birch Court
-  city: Los Angeles
-  state: FL

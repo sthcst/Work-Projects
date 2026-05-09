@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Thomas
-  email: stephanie.thomas9684@work.org
-  phone: 709 892 9128
-  ssn: 422 51 3571
-  dob: 5/7/1962
-  address: 6490 Third Dr
-  city: Boston
-  state: TX

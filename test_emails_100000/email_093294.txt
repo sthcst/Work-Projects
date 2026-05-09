@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Hall,deborah.hall5464@example.com,998-697-9988,705 64 1304,09/17/1957,"5171 East Rd",Chicago,TX

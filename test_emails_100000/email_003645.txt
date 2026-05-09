@@ -1,9 +1,0 @@
-contact:
-  name: Robert Martinez
-  email: robert.martinez1757@example.com
-  phone: (383) 977-1790
-  ssn: 326945442
-  dob: 01/09/1964
-  address: 2699 Pine Court
-  city: Seattle
-  state: GA

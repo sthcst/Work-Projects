@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Parker,jessica.parker3328@business.net,+1 503-826-9131,945 94 6209,09/04/1974,"9901 Second Way",San Antonio,NC

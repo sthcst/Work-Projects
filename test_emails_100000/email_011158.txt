@@ -1,9 +1,0 @@
-contact:
-  name: Helen Jimenez
-  email: helen.jimenez1991@gmail.com
-  phone: (671) 732-9455
-  ssn: 135661294
-  dob: 10-06-1987
-  address: 9546 North Rd
-  city: Jacksonville
-  state: VA

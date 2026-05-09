@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Delgado
-  email: shirley.delgado6754@company.com
-  phone: +1 534-609-3540
-  ssn: 018159559
-  dob: 04-08-1974
-  address: 9468 Second Dr
-  city: Austin
-  state: CA

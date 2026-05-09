@@ -1,9 +1,0 @@
-contact:
-  name: Richard Young
-  email: richard.young8409@business.net
-  phone: 963-873-5822
-  ssn: 805274943
-  dob: 12/24/1964
-  address: 8515 Maple Court
-  city: New York
-  state: MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Flores,samantha.flores4982@company.com,545 614 7066,252-46-6300,24/11/1994,"3720 Second Ave",Seattle,MO

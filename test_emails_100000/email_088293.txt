@@ -1,9 +1,0 @@
-contact:
-  name: John Murillo
-  email: john.murillo1903@gmail.com
-  phone: +1 989-997-6216
-  ssn: 210 18 5242
-  dob: 01-24-1961
-  address: 4412 Fourth Ln
-  city: Chicago
-  state: NJ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Ortiz,joseph.ortiz4508@work.org,496 659 5786,738 17 1924,10/12/1972,"2252 East Rd",Denver,TX

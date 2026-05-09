@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Hernandez
-  email: lisa.hernandez7848@company.com
-  phone: +1 371-645-2468
-  ssn: 577-61-7863
-  dob: 5/8/1990
-  address: 208 West Way
-  city: New York
-  state: AZ

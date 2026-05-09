@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Robinson
-  email: samantha.robinson2273@example.com
-  phone: 503 780 3684
-  ssn: 896256258
-  dob: 04-28-1982
-  address: 67 Main Ave
-  city: New York
-  state: TN

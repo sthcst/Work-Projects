@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Roberts,kathleen.roberts4010@yahoo.com,+1 902-430-3850,234-52-4035,4/6/1959,"6340 South Ave",Dallas,GA

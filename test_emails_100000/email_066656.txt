@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Bell,jane.bell3302@outlook.com,245-499-7662,787467138,04-23-1970,"3049 Oak Way",San Jose,FL

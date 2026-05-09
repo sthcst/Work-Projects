@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Rogers,richard.rogers2576@company.com,+1 233-514-5964,188 15 3226,09-25-1973,"1463 First Ln",Denver,MD

@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Sanchez
-  email: rebecca.sanchez6827@yahoo.com
-  phone: 560-238-8661
-  ssn: 854 32 8615
-  dob: 10/19/1990
-  address: 5573 Birch Rd
-  city: Houston
-  state: CA

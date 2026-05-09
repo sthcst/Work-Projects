@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Evans,samantha.evans5454@business.net,(344) 981-3728,578 27 9949,05/16/1981,"1043 Third Way",Denver,NY

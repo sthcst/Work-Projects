@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Bell
-  email: kevin.bell4313@company.com
-  phone: (699) 626-1780
-  ssn: 927 83 8210
-  dob: 08-08-2002
-  address: 4212 Fourth St
-  city: San Jose
-  state: OH

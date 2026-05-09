@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Thompson
-  email: lisa.thompson8419@gmail.com
-  phone: 510 312 2972
-  ssn: 255 74 6648
-  dob: 07/19/1959
-  address: 29 Oak Dr
-  city: San Jose
-  state: MD

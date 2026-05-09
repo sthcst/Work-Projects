@@ -1,9 +1,0 @@
-contact:
-  name: Gary Stewart
-  email: gary.stewart4420@company.com
-  phone: 854-249-1356
-  ssn: 705577898
-  dob: 12/03/1974
-  address: 5143 Park Court
-  city: Houston
-  state: TX

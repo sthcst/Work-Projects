@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Taylor
-  email: ryan.taylor3263@business.net
-  phone: (442) 922-9246
-  ssn: 761 51 8350
-  dob: 08-07-1967
-  address: 4512 First Dr
-  city: Houston
-  state: WI

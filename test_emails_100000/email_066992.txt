@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Anderson,christopher.anderson3832@business.net,(243) 866-2202,991853904,6/24/1972,"3289 First Rd",San Antonio,MD

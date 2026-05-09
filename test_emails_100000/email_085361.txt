@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Garcia
-  email: deborah.garcia4502@work.org
-  phone: 456 762 6081
-  ssn: 049-97-3886
-  dob: 7/25/1969
-  address: 8246 Spring Ave
-  city: Boston
-  state: OH

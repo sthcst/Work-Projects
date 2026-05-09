@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Harris,emily.harris9580@example.com,299-874-2392,162 74 8881,01/05/2002,"2128 Oak Blvd",Houston,TX

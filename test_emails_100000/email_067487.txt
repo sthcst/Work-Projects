@@ -1,9 +1,0 @@
-contact:
-  name: Michael Ramirez
-  email: michael.ramirez5692@gmail.com
-  phone: (686) 670-6253
-  ssn: 621294578
-  dob: 10/04/1960
-  address: 1056 Sixth St
-  city: Houston
-  state: VA

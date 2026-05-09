@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Nunez
-  email: samantha.nunez6334@example.com
-  phone: 659-871-4705
-  ssn: 436-88-7341
-  dob: 3/15/2000
-  address: 4899 East Ave
-  city: Jacksonville
-  state: IL

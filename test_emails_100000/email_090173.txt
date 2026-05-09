@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Walker,lauren.walker9590@gmail.com,+1 329-990-3815,694715558,21/05/1967,"9880 Oak Way",Houston,CA

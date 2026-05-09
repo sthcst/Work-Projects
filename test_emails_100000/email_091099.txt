@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Serrano,robert.serrano2233@business.net,(621) 997-2302,194-86-7840,10/15/1996,"6705 East Rd",Denver,CO

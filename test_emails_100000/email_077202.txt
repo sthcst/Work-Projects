@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Thompson,jessica.thompson9362@work.org,(236) 694-5914,217-36-4510,3/3/1983,"687 Cedar Ln",New York,DC

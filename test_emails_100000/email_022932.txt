@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Campbell
-  email: rachel.campbell9817@work.org
-  phone: 532 782 3259
-  ssn: 252-62-9962
-  dob: 08/26/1969
-  address: 5439 Maple Ln
-  city: Boston
-  state: WA

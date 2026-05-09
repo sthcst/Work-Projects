@@ -1,9 +1,0 @@
-contact:
-  name: Steven Jones
-  email: steven.jones7885@mail.com
-  phone: 659-573-6390
-  ssn: 182293922
-  dob: 2/17/1985
-  address: 4514 North St
-  city: Houston
-  state: MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Lee,rachel.lee1009@mail.com,(886) 642-9991,004-81-2039,11/06/1985,"601 Elm St",Washington,MD

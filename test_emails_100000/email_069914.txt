@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Lewis
-  email: kathleen.lewis1744@example.com
-  phone: +1 705-536-6074
-  ssn: 113933832
-  dob: 8/15/1958
-  address: 4781 Main Ln
-  city: Philadelphia
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Ramirez
-  email: katherine.ramirez3682@mail.com
-  phone: +1 289-691-4405
-  ssn: 980 84 6864
-  dob: 09/04/1950
-  address: 493 Second Court
-  city: Los Angeles
-  state: MA

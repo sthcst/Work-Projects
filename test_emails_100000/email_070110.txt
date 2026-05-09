@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Peterson
-  email: shirley.peterson9017@company.com
-  phone: 648-767-3499
-  ssn: 874-62-4477
-  dob: 09/11/1962
-  address: 680 South St
-  city: Phoenix
-  state: GA

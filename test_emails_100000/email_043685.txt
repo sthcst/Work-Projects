@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Reed,lauren.reed9138@business.net,543-700-6608,053-51-7251,13/06/1964,"5140 Elm Ave",Houston,TN

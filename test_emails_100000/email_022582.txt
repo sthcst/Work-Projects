@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Jones,angela.jones3455@mail.com,538 397 5461,367177609,10/07/1978,"1519 Fifth Dr",Phoenix,MD

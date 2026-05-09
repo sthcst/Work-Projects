@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Lewis
-  email: nicholas.lewis1775@outlook.com
-  phone: 247-709-2314
-  ssn: 968905905
-  dob: 12-06-1983
-  address: 1010 West St
-  city: Houston
-  state: DC

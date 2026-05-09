@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Reyes
-  email: jeffrey.reyes9069@company.com
-  phone: 702-612-7479
-  ssn: 225-09-5281
-  dob: 03/11/1964
-  address: 5471 Fourth Way
-  city: Boston
-  state: WA

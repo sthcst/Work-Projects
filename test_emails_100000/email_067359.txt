@@ -1,9 +1,0 @@
-contact:
-  name: Gary Collins
-  email: gary.collins8490@gmail.com
-  phone: +1 939-438-3982
-  ssn: 685 02 6419
-  dob: 10-28-1951
-  address: 1298 South St
-  city: Boston
-  state: CO

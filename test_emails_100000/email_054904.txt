@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Johnson,emily.johnson677@mail.com,646 485 2603,766 26 2188,20/05/1988,"2061 Cedar Court",Austin,CA

@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Rogers
-  email: jeffrey.rogers2245@mail.com
-  phone: 976-693-2876
-  ssn: 696 53 7386
-  dob: 01/21/1985
-  address: 6463 Birch Ln
-  city: San Diego
-  state: AZ

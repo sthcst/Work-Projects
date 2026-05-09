@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Roberts,ryan.roberts1206@yahoo.com,392-290-5120,317 13 3760,05-13-1973,"2207 Fourth Dr",Los Angeles,VA

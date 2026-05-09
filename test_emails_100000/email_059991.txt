@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Stewart
-  email: ronald.stewart4413@business.net
-  phone: 713 277 6091
-  ssn: 667-42-3925
-  dob: 10/8/1965
-  address: 3191 Oak Dr
-  city: Philadelphia
-  state: MA

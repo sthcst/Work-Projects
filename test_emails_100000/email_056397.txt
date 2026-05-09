@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Gonzalez,ashley.gonzalez4858@gmail.com,408-254-2333,222931770,05/08/1988,"5002 North Ln",Los Angeles,AZ

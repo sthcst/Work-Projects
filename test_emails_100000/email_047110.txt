@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Roberts,william.roberts6304@example.com,772 215 6564,159-64-2362,25/06/1999,"4901 Cedar Ave",San Jose,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Evans,charles.evans4768@yahoo.com,(909) 623-8171,956741929,02/09/1961,"9286 Cedar Dr",Philadelphia,TX

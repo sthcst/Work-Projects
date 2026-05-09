@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Perez,edward.perez4986@example.com,871-900-6330,606 26 9349,10/26/1998,"6396 Fifth Court",Washington,MO

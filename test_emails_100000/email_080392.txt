@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Rogers
-  email: jessica.rogers7915@work.org
-  phone: +1 211-899-2377
-  ssn: 519 57 2509
-  dob: 06-13-1962
-  address: 425 Maple Rd
-  city: Washington
-  state: CA

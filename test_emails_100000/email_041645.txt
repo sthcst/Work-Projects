@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Gonzalez,helen.gonzalez9710@example.com,939 539 6172,737 71 3499,22/08/1964,"839 Main Way",New York,CA

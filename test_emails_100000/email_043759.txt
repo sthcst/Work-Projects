@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Peterson,george.peterson9452@outlook.com,+1 412-874-8573,210985521,2/3/1977,"4371 Maple Dr",San Diego,TX

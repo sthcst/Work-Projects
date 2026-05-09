@@ -1,9 +1,0 @@
-contact:
-  name: Brian Thompson
-  email: brian.thompson5379@gmail.com
-  phone: +1 442-473-5715
-  ssn: 417047516
-  dob: 07-17-1970
-  address: 7260 Fourth Court
-  city: Philadelphia
-  state: FL

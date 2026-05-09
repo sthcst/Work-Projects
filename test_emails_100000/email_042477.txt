@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Taylor
-  email: joseph.taylor8996@business.net
-  phone: (250) 643-3528
-  ssn: 433 99 6888
-  dob: 10/02/1996
-  address: 6718 South St
-  city: New York
-  state: TX

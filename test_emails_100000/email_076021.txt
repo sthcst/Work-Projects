@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Hall,anna.hall4920@example.com,(884) 425-6846,625-13-4380,27/07/2002,"7072 Main Ln",Phoenix,TX

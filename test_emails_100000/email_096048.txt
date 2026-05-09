@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Ortiz,angela.ortiz8047@mail.com,(683) 724-2029,296 58 2949,03-13-1973,"9432 Fourth Ave",Phoenix,MA

@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Carter
-  email: samantha.carter3668@business.net
-  phone: 395 970 1364
-  ssn: 459 46 6313
-  dob: 01/24/1972
-  address: 8472 Fifth Way
-  city: Philadelphia
-  state: NC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Collins,charles.collins9566@example.com,241 484 7857,354 01 5611,11/16/1960,"5843 Sixth Rd",Denver,CA

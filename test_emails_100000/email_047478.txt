@@ -1,9 +1,0 @@
-contact:
-  name: Michael Harris
-  email: michael.harris5953@mail.com
-  phone: (580) 230-8375
-  ssn: 796557156
-  dob: 01/21/1968
-  address: 9449 Pine Rd
-  city: Los Angeles
-  state: GA

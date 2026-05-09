@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Carter,brenda.carter5344@example.com,472-382-9194,373-28-9541,02/03/1990,"4131 Third St",Seattle,MI

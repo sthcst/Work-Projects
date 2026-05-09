@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Phillips,michael.phillips8320@yahoo.com,(992) 894-7404,452527685,9/3/1979,"2039 Fourth Ln",Jacksonville,WI

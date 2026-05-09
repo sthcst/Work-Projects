@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Reed,david.reed494@mail.com,458 356 5906,395539943,4/3/1995,"1787 Main Blvd",Houston,CA

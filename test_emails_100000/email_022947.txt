@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Morgan,nicole.morgan2744@gmail.com,634 631 6083,526-57-4740,28/01/1970,"4736 Main Ln",Boston,FL

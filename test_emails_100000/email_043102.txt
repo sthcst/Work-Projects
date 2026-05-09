@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Serrano,timothy.serrano188@gmail.com,818-772-9904,166977948,10/20/1962,"315 Spring St",Philadelphia,DC

@@ -1,9 +1,0 @@
-contact:
-  name: James Campbell
-  email: james.campbell1030@yahoo.com
-  phone: (464) 978-2144
-  ssn: 891-02-2944
-  dob: 22/05/1958
-  address: 1083 North St
-  city: Phoenix
-  state: FL

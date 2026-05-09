@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Carter
-  email: ryan.carter5542@work.org
-  phone: 695-217-1497
-  ssn: 543 54 1165
-  dob: 10-05-1998
-  address: 7580 North Rd
-  city: Washington
-  state: PA

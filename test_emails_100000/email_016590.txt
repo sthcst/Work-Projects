@@ -1,9 +1,0 @@
-contact:
-  name: Megan Dominguez
-  email: megan.dominguez1440@outlook.com
-  phone: 513-572-8249
-  ssn: 001 55 1513
-  dob: 12/16/1973
-  address: 9705 Birch Court
-  city: Philadelphia
-  state: NJ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Walker,maria.walker4791@example.com,+1 623-748-9062,320-48-9340,01/28/1993,"9321 Elm Ave",Phoenix,TX

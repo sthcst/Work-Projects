@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Harris,jason.harris3583@yahoo.com,817-913-3443,374 92 5299,12/09/1965,"4665 Pine Blvd",Philadelphia,WA

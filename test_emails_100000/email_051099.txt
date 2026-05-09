@@ -1,9 +1,0 @@
-contact:
-  name: Christine Harris
-  email: christine.harris7328@outlook.com
-  phone: +1 765-576-9501
-  ssn: 909 96 5703
-  dob: 4/19/1991
-  address: 5371 West Ave
-  city: Philadelphia
-  state: WA

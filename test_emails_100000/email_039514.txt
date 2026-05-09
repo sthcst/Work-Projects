@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Collins
-  email: ashley.collins9828@gmail.com
-  phone: (890) 820-4907
-  ssn: 666 83 5066
-  dob: 07/11/1980
-  address: 7556 West Blvd
-  city: Dallas
-  state: VA

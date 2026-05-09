@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Roberts
-  email: daniel.roberts3471@outlook.com
-  phone: 758-589-3257
-  ssn: 426684361
-  dob: 7/8/1958
-  address: 4729 Third Court
-  city: Los Angeles
-  state: FL

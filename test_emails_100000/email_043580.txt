@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Anderson,cynthia.anderson7301@work.org,637-218-5344,052-41-4568,12/11/1972,"3983 Birch Ln",San Antonio,MA

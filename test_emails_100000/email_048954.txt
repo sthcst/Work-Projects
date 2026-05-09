@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Evans
-  email: timothy.evans2641@work.org
-  phone: (446) 435-1346
-  ssn: 242 72 8608
-  dob: 09/23/1997
-  address: 4714 Fifth Ave
-  city: Boston
-  state: MO

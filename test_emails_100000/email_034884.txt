@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa White,lisa.white504@work.org,720 350 4252,247 55 8392,12/23/1983,"9677 Third Way",San Diego,GA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Morris,rebecca.morris7612@business.net,376 540 5469,613 98 8105,02-22-1985,"5110 East Ln",San Diego,TX

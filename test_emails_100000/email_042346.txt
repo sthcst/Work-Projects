@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Serrano,ryan.serrano1098@gmail.com,+1 982-209-4856,320-20-3284,03/17/1997,"1947 Fourth Ln",Denver,CA

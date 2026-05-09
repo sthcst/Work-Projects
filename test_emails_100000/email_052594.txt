@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Smith,jason.smith6201@gmail.com,734 602 7242,419 23 2026,6/7/1993,"6829 Pine Dr",San Jose,PA

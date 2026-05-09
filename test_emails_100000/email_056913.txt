@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy White,timothy.white2360@mail.com,274 544 2054,469774277,11/12/1964,"4921 Cedar Rd",Jacksonville,FL

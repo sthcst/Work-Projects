@@ -1,9 +1,0 @@
-contact:
-  name: Maria Reyes
-  email: maria.reyes8184@company.com
-  phone: (391) 928-3921
-  ssn: 639 10 3671
-  dob: 09-20-1971
-  address: 8769 First Court
-  city: New York
-  state: NY

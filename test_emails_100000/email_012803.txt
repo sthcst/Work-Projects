@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Bell,jessica.bell1902@company.com,(322) 387-5603,309497372,11/7/1960,"5833 East Dr",San Jose,TN

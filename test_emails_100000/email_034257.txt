@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Morris
-  email: sarah.morris9202@yahoo.com
-  phone: 299 618 6700
-  ssn: 588 45 2174
-  dob: 19/08/1969
-  address: 5658 First Rd
-  city: Seattle
-  state: CA

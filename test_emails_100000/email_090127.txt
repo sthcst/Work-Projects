@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Garcia,angela.garcia4310@mail.com,328 815 5897,248387962,11/08/1982,"2689 Oak Ave",Philadelphia,MO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Williams,charles.williams7779@gmail.com,768-811-7421,604321516,11/10/1983,"1592 Park Dr",Denver,PA

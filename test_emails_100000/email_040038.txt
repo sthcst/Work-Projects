@@ -1,9 +1,0 @@
-contact:
-  name: Christine Martin
-  email: christine.martin4945@gmail.com
-  phone: (261) 780-2634
-  ssn: 868 34 7381
-  dob: 6/3/1971
-  address: 6423 Fourth Way
-  city: Denver
-  state: TX

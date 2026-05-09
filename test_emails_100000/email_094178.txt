@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Stewart,samantha.stewart6703@company.com,769-382-3365,830 18 1438,04/18/1972,"768 Sixth Blvd",Phoenix,TX

@@ -1,9 +1,0 @@
-contact:
-  name: David Perez
-  email: david.perez3048@business.net
-  phone: (270) 582-5193
-  ssn: 788 12 5402
-  dob: 9/21/1954
-  address: 2105 Birch Court
-  city: Houston
-  state: AZ

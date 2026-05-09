@@ -1,9 +1,0 @@
-contact:
-  name: Gary Brown
-  email: gary.brown486@work.org
-  phone: 298 530 6361
-  ssn: 476 08 9966
-  dob: 2/14/1967
-  address: 3634 Spring Rd
-  city: Los Angeles
-  state: TN

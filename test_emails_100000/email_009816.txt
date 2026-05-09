@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Lopez,jane.lopez17@example.com,338 863 5995,298404987,25/10/1972,"5924 East Dr",San Jose,MO

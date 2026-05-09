@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Stewart,nicholas.stewart8834@company.com,319 658 9025,360552921,11/15/1958,"7438 Summer St",Austin,CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Serrano,jeffrey.serrano6437@outlook.com,660 874 7991,047 64 3766,18/11/1954,"9859 Second Ln",New York,MA

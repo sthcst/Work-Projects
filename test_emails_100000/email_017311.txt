@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Williams,katherine.williams6912@gmail.com,(436) 447-4777,068593552,08-17-1999,"6182 West St",Seattle,WA

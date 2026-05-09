@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Rogers,rachel.rogers4202@yahoo.com,384 304 7276,007-68-5015,17/02/1977,"4206 Main St",Philadelphia,WA

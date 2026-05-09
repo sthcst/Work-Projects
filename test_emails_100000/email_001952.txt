@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Smith,pamela.smith8570@business.net,290-220-7194,969556199,10/15/1982,"5096 Maple Blvd",Denver,FL

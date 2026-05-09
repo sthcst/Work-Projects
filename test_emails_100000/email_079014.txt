@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Perez,robert.perez6866@example.com,+1 993-327-9432,281-97-9001,24/03/1990,"6201 Oak Way",Austin,MD

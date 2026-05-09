@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Anderson
-  email: brenda.anderson3832@yahoo.com
-  phone: (939) 455-4424
-  ssn: 857789850
-  dob: 07/03/1980
-  address: 2371 Pine Ave
-  city: San Antonio
-  state: NY

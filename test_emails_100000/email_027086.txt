@@ -1,9 +1,0 @@
-contact:
-  name: Steven Serrano
-  email: steven.serrano8549@yahoo.com
-  phone: 737-809-4631
-  ssn: 011754716
-  dob: 02/21/1969
-  address: 4908 Elm Rd
-  city: Houston
-  state: CA

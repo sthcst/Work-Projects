@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Ramirez
-  email: jessica.ramirez1118@mail.com
-  phone: (409) 687-6450
-  ssn: 387656420
-  dob: 01/11/2005
-  address: 9021 Birch Ln
-  city: New York
-  state: OH

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Serrano,daniel.serrano6720@work.org,559 677 9614,261 83 4637,10/24/1972,"7193 Fourth St",San Diego,TX

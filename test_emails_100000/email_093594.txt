@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Miller,emily.miller6482@example.com,+1 940-843-4168,547874369,6/3/1995,"2360 Summer Ave",Washington,MI

@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Miller
-  email: rachel.miller1405@company.com
-  phone: 378-397-5200
-  ssn: 607 37 6661
-  dob: 3/1/1979
-  address: 2215 Main Rd
-  city: Chicago
-  state: MA

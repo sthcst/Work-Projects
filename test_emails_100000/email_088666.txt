@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Robinson
-  email: ryan.robinson4576@example.com
-  phone: +1 532-553-9797
-  ssn: 285 60 6520
-  dob: 05-08-1964
-  address: 765 East Blvd
-  city: Boston
-  state: GA

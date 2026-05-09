@@ -1,9 +1,0 @@
-contact:
-  name: Jane Delgado
-  email: jane.delgado8255@example.com
-  phone: 425 503 5399
-  ssn: 566-16-3803
-  dob: 01-18-1965
-  address: 650 Maple Dr
-  city: Phoenix
-  state: TX

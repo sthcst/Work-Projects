@@ -1,9 +1,0 @@
-contact:
-  name: Helen Harris
-  email: helen.harris1837@yahoo.com
-  phone: (274) 764-7796
-  ssn: 127-30-9292
-  dob: 01-25-1963
-  address: 6052 West Way
-  city: Chicago
-  state: PA

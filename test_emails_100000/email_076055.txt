@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Phillips
-  email: katherine.phillips1050@yahoo.com
-  phone: 683-520-1661
-  ssn: 474208890
-  dob: 06/10/1982
-  address: 8762 Pine Ln
-  city: Houston
-  state: CA

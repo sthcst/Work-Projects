@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Garcia,george.garcia9587@business.net,(534) 790-3726,407225197,11-14-1958,"8171 North Blvd",Phoenix,NJ

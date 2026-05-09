@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Lopez
-  email: lauren.lopez5032@business.net
-  phone: +1 540-984-5294
-  ssn: 459491692
-  dob: 10-11-1994
-  address: 2727 South Way
-  city: Philadelphia
-  state: TX

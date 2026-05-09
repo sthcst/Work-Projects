@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Harris
-  email: stephanie.harris7809@company.com
-  phone: 830-881-8955
-  ssn: 248 09 2886
-  dob: 5/2/1960
-  address: 2444 Second Way
-  city: Chicago
-  state: NY

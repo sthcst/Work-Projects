@@ -1,9 +1,0 @@
-contact:
-  name: Jane Walker
-  email: jane.walker4747@mail.com
-  phone: +1 784-698-5839
-  ssn: 144-03-5448
-  dob: 07/22/1966
-  address: 6819 Summer Rd
-  city: San Diego
-  state: WI

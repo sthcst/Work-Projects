@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Evans
-  email: matthew.evans7287@business.net
-  phone: 460 353 7683
-  ssn: 567-50-9504
-  dob: 17/03/1981
-  address: 4228 Summer Way
-  city: Austin
-  state: MA

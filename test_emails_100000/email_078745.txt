@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Miller,jason.miller2142@example.com,(311) 632-8663,564-68-8273,06-19-1996,"4316 North Rd",San Diego,NY

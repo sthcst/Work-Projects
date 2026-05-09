@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Martin,angela.martin7128@gmail.com,414 521 9400,774 47 1707,10-01-1961,"1482 Elm Ave",Philadelphia,NJ

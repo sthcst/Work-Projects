@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Guerrero,william.guerrero110@gmail.com,732-399-2542,917276616,8/3/2002,"1430 Fifth Blvd",Jacksonville,DC

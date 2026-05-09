@@ -1,9 +1,0 @@
-contact:
-  name: William Alvarado
-  email: william.alvarado7882@example.com
-  phone: 830 403 1872
-  ssn: 843-42-8268
-  dob: 08-02-1950
-  address: 3398 Spring Ave
-  city: Dallas
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Hernandez
-  email: jacob.hernandez2975@mail.com
-  phone: (822) 993-2178
-  ssn: 796965836
-  dob: 24/07/1976
-  address: 9198 Fourth Way
-  city: San Antonio
-  state: GA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Morris,michelle.morris6638@yahoo.com,947-269-8837,115-73-5935,01-14-2004,"7466 Oak St",New York,CA

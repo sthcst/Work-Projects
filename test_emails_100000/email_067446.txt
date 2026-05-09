@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Stewart,charles.stewart1617@gmail.com,(251) 552-1329,264 51 8784,08/05/1999,"3148 Spring Ave",Dallas,MA

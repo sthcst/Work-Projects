@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Martinez
-  email: nicholas.martinez4859@example.com
-  phone: 934 398 6371
-  ssn: 596-74-5640
-  dob: 8/23/1961
-  address: 3244 Fourth Court
-  city: New York
-  state: CA

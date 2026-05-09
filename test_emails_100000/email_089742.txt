@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Campbell,timothy.campbell1161@business.net,+1 995-749-5794,598 87 5880,6/4/1988,"9659 Fourth Blvd",New York,DC

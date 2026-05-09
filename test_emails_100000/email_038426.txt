@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Parker,matthew.parker5247@work.org,+1 620-321-8106,747639631,01/22/1961,"858 Fifth Ln",Seattle,WI

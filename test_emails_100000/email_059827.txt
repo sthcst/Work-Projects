@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Morris,jacob.morris2854@work.org,(642) 216-7693,852-77-5155,08/27/1985,"8234 Cedar Ave",Boston,TX

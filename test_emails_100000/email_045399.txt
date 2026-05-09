@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Nunez
-  email: shirley.nunez9170@mail.com
-  phone: 619-644-9947
-  ssn: 719-05-9357
-  dob: 10/26/1974
-  address: 6024 Second Ave
-  city: San Jose
-  state: DC

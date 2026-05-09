@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Campbell
-  email: nicholas.campbell240@company.com
-  phone: 341 464 4030
-  ssn: 758-75-1601
-  dob: 11/04/2003
-  address: 7609 Fifth Ln
-  city: Houston
-  state: MD

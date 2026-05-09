@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Rogers,jennifer.rogers9429@example.com,(641) 919-1527,810 21 8066,06-12-1973,"2740 Pine Ave",Dallas,MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Moore,deborah.moore9171@business.net,(745) 994-1732,512-80-7849,11/14/1960,"512 Elm Dr",New York,WI

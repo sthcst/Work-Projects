@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Lopez,kenneth.lopez5290@business.net,543 225 8778,890 65 6359,13/03/1996,"7701 Park Blvd",Washington,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Nelson,mark.nelson1583@example.com,714 214 3446,840132123,12-16-1982,"9384 Birch Rd",Washington,OH

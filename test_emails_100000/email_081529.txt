@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Anderson
-  email: kenneth.anderson3834@mail.com
-  phone: 580-673-3974
-  ssn: 093623649
-  dob: 22/09/1984
-  address: 3264 West Court
-  city: San Antonio
-  state: CA

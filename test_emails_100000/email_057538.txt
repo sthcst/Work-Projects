@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Phillips
-  email: kimberly.phillips5515@mail.com
-  phone: 794 998 1349
-  ssn: 834-70-8178
-  dob: 12/02/1971
-  address: 9821 East Way
-  city: Phoenix
-  state: WI

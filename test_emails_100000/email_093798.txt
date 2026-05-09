@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Jones,steven.jones7262@gmail.com,635-683-2601,935-55-7642,07-26-1983,"7428 Spring St",Philadelphia,TX

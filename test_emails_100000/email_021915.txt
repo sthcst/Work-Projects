@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Alvarado
-  email: matthew.alvarado9929@example.com
-  phone: +1 946-400-9255
-  ssn: 782-84-9098
-  dob: 12/27/1957
-  address: 5257 Sixth Blvd
-  city: Washington
-  state: NY

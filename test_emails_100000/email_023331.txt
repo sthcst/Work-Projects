@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Delgado,anna.delgado3938@business.net,561-779-1692,039109246,05-02-1955,"792 Sixth Blvd",Jacksonville,CO

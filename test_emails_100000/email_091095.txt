@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Harris,joshua.harris2040@company.com,732-970-1464,131 24 3041,05/11/1972,"4527 South Rd",Dallas,AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Ortiz,ryan.ortiz6487@gmail.com,+1 668-366-1049,040 48 4832,02/17/1956,"9567 Maple Blvd",Jacksonville,FL

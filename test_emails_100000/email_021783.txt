@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Reyes,cynthia.reyes1063@outlook.com,+1 988-756-7026,294-55-2556,11/8/2000,"2657 Second Ln",Los Angeles,IL

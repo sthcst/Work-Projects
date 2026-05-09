@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Jimenez,anthony.jimenez3105@outlook.com,(247) 538-8421,663 59 7835,12-26-1952,"313 Sixth Ave",Washington,MA

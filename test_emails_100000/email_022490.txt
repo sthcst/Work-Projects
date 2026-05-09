@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Davis
-  email: matthew.davis6609@outlook.com
-  phone: (595) 978-1802
-  ssn: 487793268
-  dob: 04-19-1972
-  address: 3678 Third Blvd
-  city: Philadelphia
-  state: AZ

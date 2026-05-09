@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Murillo,cynthia.murillo7366@outlook.com,725-438-7146,757-27-1322,07/12/1994,"8813 Oak Blvd",Jacksonville,TN

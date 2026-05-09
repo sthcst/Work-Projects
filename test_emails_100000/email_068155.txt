@@ -1,9 +1,0 @@
-contact:
-  name: John Phillips
-  email: john.phillips8136@yahoo.com
-  phone: 955 968 1902
-  ssn: 306 66 5964
-  dob: 9/19/1961
-  address: 5751 Pine Ave
-  city: New York
-  state: TX

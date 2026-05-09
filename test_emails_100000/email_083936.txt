@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Williams,brian.williams9686@yahoo.com,(718) 637-6068,087 01 5378,12/13/2003,"2516 Pine St",San Jose,OH

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Wilson,katherine.wilson4737@gmail.com,+1 794-628-9455,314949371,03-17-2000,"5679 West Ave",Austin,MA

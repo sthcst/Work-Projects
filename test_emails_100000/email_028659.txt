@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Phillips,jessica.phillips4687@business.net,(458) 725-5320,020 80 7221,02-13-1961,"2915 North Ave",New York,AZ

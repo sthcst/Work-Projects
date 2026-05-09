@@ -1,9 +1,0 @@
-contact:
-  name: James Gomez
-  email: james.gomez2697@gmail.com
-  phone: +1 421-928-6766
-  ssn: 386992563
-  dob: 09/14/1955
-  address: 8701 Fifth Ave
-  city: Seattle
-  state: OH

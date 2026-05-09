@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Taylor,samantha.taylor3933@outlook.com,262-682-9609,983 05 3170,5/12/1979,"7234 Oak Blvd",Phoenix,CA

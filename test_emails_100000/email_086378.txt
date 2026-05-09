@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Walker
-  email: sarah.walker85@work.org
-  phone: 527-359-4477
-  ssn: 091 60 7414
-  dob: 04-10-1983
-  address: 8029 Sixth Ln
-  city: Chicago
-  state: AZ

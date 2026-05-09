@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Hernandez,emily.hernandez4128@gmail.com,+1 591-501-5552,998-06-6573,10-27-1961,"5515 Cedar St",Washington,PA

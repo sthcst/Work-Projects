@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Ortiz
-  email: katherine.ortiz7937@yahoo.com
-  phone: +1 580-794-1184
-  ssn: 155 28 5977
-  dob: 26/07/1963
-  address: 8355 Maple St
-  city: Chicago
-  state: TX

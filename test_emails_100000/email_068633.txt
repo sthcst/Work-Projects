@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Davis
-  email: daniel.davis3423@outlook.com
-  phone: +1 314-924-3484
-  ssn: 136673348
-  dob: 09/17/1962
-  address: 6989 Maple St
-  city: Seattle
-  state: WI

@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Anderson
-  email: joshua.anderson7731@outlook.com
-  phone: 532-993-7779
-  ssn: 845203464
-  dob: 05/19/1962
-  address: 7190 Park Blvd
-  city: Dallas
-  state: GA

@@ -1,9 +1,0 @@
-contact:
-  name: Michael Nelson
-  email: michael.nelson5593@yahoo.com
-  phone: +1 305-740-2493
-  ssn: 676861983
-  dob: 3/27/1985
-  address: 8286 North Ln
-  city: Seattle
-  state: MI

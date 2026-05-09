@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Gomez
-  email: katherine.gomez1147@mail.com
-  phone: (653) 282-4269
-  ssn: 075 76 3327
-  dob: 09-20-1961
-  address: 4776 West St
-  city: Phoenix
-  state: MA

@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Lewis
-  email: jennifer.lewis673@work.org
-  phone: (305) 460-8006
-  ssn: 465 92 4732
-  dob: 03-21-1975
-  address: 8712 Oak Court
-  city: Houston
-  state: OH

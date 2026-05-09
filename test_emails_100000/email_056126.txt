@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Jimenez
-  email: katherine.jimenez8525@company.com
-  phone: 737-696-3377
-  ssn: 636-26-6703
-  dob: 02-03-2003
-  address: 1561 Second Blvd
-  city: Chicago
-  state: MA

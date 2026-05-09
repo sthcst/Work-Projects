@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Stewart
-  email: jeffrey.stewart5375@example.com
-  phone: +1 322-224-5290
-  ssn: 783936488
-  dob: 12/06/1997
-  address: 9116 Summer Dr
-  city: Denver
-  state: FL

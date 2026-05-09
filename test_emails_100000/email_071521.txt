@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Thompson,helen.thompson5511@outlook.com,+1 788-419-8104,160 39 8165,10/10/1994,"7465 Maple Blvd",Chicago,CA

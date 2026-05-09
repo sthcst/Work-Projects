@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Ramirez
-  email: brenda.ramirez4663@company.com
-  phone: (662) 690-5229
-  ssn: 125-08-6295
-  dob: 05-01-1976
-  address: 5650 First St
-  city: San Diego
-  state: TX

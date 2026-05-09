@@ -1,9 +1,0 @@
-contact:
-  name: Donald Walker
-  email: donald.walker5607@gmail.com
-  phone: 635 656 6935
-  ssn: 693-65-7231
-  dob: 04/08/1998
-  address: 5985 West Blvd
-  city: Austin
-  state: CA

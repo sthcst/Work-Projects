@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Taylor,anna.taylor8842@gmail.com,507 403 3743,940-77-9499,05-19-1966,"4993 Cedar Court",Dallas,AZ

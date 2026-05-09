@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Nunez,mark.nunez9465@yahoo.com,976-538-6488,329-58-7909,2/26/1963,"1904 Park Ave",San Jose,GA

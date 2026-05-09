@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Williams
-  email: nicholas.williams5107@yahoo.com
-  phone: +1 283-399-7114
-  ssn: 941-01-1004
-  dob: 05/04/1991
-  address: 1852 Elm Court
-  city: Seattle
-  state: GA

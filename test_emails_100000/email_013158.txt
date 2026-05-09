@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Parker,mark.parker9730@business.net,+1 777-358-9938,949-27-3238,02/09/1994,"495 Maple St",San Jose,TX

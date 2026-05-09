@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Evans,charles.evans8422@gmail.com,(782) 361-2698,803 83 4928,24/02/1964,"5649 South St",New York,TX

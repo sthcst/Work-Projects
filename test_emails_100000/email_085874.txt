@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Roberts,nicholas.roberts4843@business.net,(729) 271-5145,077 15 6046,10/09/1983,"3891 Oak St",Houston,MO

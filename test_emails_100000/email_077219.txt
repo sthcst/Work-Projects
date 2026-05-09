@@ -1,9 +1,0 @@
-contact:
-  name: John Thompson
-  email: john.thompson5779@company.com
-  phone: 415-767-5059
-  ssn: 655518003
-  dob: 09/28/1957
-  address: 7653 Park Ave
-  city: San Diego
-  state: TN

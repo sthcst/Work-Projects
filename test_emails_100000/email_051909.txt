@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Davis,andrew.davis1497@business.net,288-335-7642,650504535,25/10/1995,"5020 Cedar Blvd",Austin,TX

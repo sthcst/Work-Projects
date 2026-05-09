@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Thompson,anthony.thompson6405@example.com,+1 742-810-5658,482 30 3441,08-28-1965,"4545 Pine Rd",Seattle,WA

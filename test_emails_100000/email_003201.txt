@@ -1,9 +1,0 @@
-contact:
-  name: Charles Ramirez
-  email: charles.ramirez3533@gmail.com
-  phone: 889-791-3993
-  ssn: 481284789
-  dob: 6/5/1985
-  address: 5202 Second St
-  city: Phoenix
-  state: VA

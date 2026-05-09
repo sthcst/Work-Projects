@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Hall,rebecca.hall4190@yahoo.com,513 986 1928,726394445,12-01-1981,"5893 Spring St",Austin,AZ

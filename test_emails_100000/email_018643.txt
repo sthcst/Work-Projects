@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth White
-  email: kenneth.white8933@company.com
-  phone: 229 788 8679
-  ssn: 538-99-1029
-  dob: 12/02/1970
-  address: 3240 Summer Ave
-  city: Phoenix
-  state: WA

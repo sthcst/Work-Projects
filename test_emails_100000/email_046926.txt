@@ -1,9 +1,0 @@
-contact:
-  name: Robert Peterson
-  email: robert.peterson7388@company.com
-  phone: 980-206-6003
-  ssn: 954252263
-  dob: 04-11-2004
-  address: 4027 Second Ave
-  city: Dallas
-  state: NY

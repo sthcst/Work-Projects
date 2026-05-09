@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Alvarado,maria.alvarado416@mail.com,+1 287-381-1070,675 57 4468,16/04/1978,"5716 Third Dr",San Jose,NY

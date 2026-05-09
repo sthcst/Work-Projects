@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Parker,george.parker1788@outlook.com,(983) 961-5287,336-75-3825,03/26/1973,"2977 Summer Blvd",Austin,TN

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Carter,christopher.carter886@gmail.com,871 681 8544,465-13-8345,12-26-1996,"794 Oak Court",Phoenix,VA

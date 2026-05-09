@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Parker
-  email: brenda.parker2198@example.com
-  phone: 920-225-1723
-  ssn: 455721027
-  dob: 14/02/1962
-  address: 3247 South Dr
-  city: Phoenix
-  state: GA

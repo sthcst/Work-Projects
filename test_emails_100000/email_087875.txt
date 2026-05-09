@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Murillo
-  email: ashley.murillo946@mail.com
-  phone: 515 258 1347
-  ssn: 296 52 2036
-  dob: 11/1/1968
-  address: 7349 Fourth Dr
-  city: Philadelphia
-  state: TX

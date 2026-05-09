@@ -1,9 +1,0 @@
-contact:
-  name: Michael Wilson
-  email: michael.wilson2847@gmail.com
-  phone: (481) 352-8570
-  ssn: 614782079
-  dob: 23/12/1970
-  address: 5965 Cedar Rd
-  city: Dallas
-  state: MI

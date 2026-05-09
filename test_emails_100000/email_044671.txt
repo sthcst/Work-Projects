@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Reed,ryan.reed500@work.org,392-535-6791,724-87-8397,06-10-1984,"3380 North Blvd",San Jose,CA

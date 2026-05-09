@@ -1,9 +1,0 @@
-contact:
-  name: Donald Evans
-  email: donald.evans3904@company.com
-  phone: (366) 406-4219
-  ssn: 980657066
-  dob: 04/05/1989
-  address: 5936 South St
-  city: Washington
-  state: MI

@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Collins
-  email: jeffrey.collins137@work.org
-  phone: 490-746-5577
-  ssn: 468 76 4180
-  dob: 10/17/1989
-  address: 7235 Cedar Rd
-  city: Seattle
-  state: TN

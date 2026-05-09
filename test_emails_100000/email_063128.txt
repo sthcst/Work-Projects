@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Davis,joseph.davis3681@business.net,517 502 7491,813219245,5/16/1956,"5908 Pine Blvd",San Diego,IL

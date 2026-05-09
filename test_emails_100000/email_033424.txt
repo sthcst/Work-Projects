@@ -1,9 +1,0 @@
-contact:
-  name: George Romero
-  email: george.romero7482@outlook.com
-  phone: 912 731 8180
-  ssn: 898-70-9180
-  dob: 13/02/1985
-  address: 8264 Fourth Rd
-  city: Boston
-  state: NY

@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Reeves
-  email: stephanie.reeves7204@work.org
-  phone: +1 529-594-4530
-  ssn: 039785669
-  dob: 11-09-1993
-  address: 5245 Maple Ave
-  city: Boston
-  state: WA

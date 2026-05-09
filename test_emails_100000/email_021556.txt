@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Edwards
-  email: jennifer.edwards8128@mail.com
-  phone: +1 580-840-7212
-  ssn: 736 49 5092
-  dob: 09/22/1981
-  address: 8857 Third Rd
-  city: San Jose
-  state: AZ

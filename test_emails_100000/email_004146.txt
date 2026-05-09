@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Moore,katherine.moore7747@work.org,(403) 610-2144,920 31 2292,04/10/1958,"4108 Cedar Dr",San Diego,WA

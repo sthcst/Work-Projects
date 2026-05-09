@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Reyes
-  email: joshua.reyes5310@company.com
-  phone: (571) 561-5062
-  ssn: 049836860
-  dob: 05/13/1955
-  address: 2862 West Court
-  city: Houston
-  state: GA

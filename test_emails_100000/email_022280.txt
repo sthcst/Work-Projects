@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Nelson,christine.nelson5130@company.com,+1 905-580-1032,730 06 1008,2/2/1977,"7623 West Way",Los Angeles,MA

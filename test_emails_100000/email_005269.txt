@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew White,andrew.white9571@mail.com,675-526-8869,835 39 6983,4/17/2001,"3991 Sixth St",Washington,WA

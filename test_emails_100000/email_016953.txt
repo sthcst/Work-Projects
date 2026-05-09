@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Jones
-  email: rebecca.jones2524@yahoo.com
-  phone: +1 966-880-5141
-  ssn: 661 26 1047
-  dob: 08/01/1989
-  address: 5691 South Dr
-  city: Houston
-  state: CA

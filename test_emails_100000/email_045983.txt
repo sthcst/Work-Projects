@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Wilson
-  email: nicole.wilson9454@gmail.com
-  phone: 709 319 4692
-  ssn: 795 89 8614
-  dob: 05-09-1991
-  address: 7967 Fifth St
-  city: Phoenix
-  state: WA

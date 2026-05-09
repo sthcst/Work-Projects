@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Roberts,emma.roberts4162@yahoo.com,394 691 4797,140 83 1732,5/20/1989,"2570 South St",San Antonio,TX

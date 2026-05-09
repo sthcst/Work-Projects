@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Gomez
-  email: samantha.gomez3895@example.com
-  phone: 215 740 9948
-  ssn: 032 17 3887
-  dob: 12/10/2000
-  address: 90 Second Dr
-  city: San Jose
-  state: IL

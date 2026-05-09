@@ -1,9 +1,0 @@
-contact:
-  name: Charles Martinez
-  email: charles.martinez9807@outlook.com
-  phone: (797) 717-7249
-  ssn: 278-69-5559
-  dob: 09-26-1990
-  address: 6222 West St
-  city: Dallas
-  state: DC

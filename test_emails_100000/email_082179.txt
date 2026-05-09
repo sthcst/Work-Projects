@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Alvarado,joshua.alvarado3762@gmail.com,725-470-4734,096-25-7314,6/15/1950,"5562 Elm Way",Los Angeles,WA

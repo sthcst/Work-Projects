@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Stewart,deborah.stewart871@company.com,582-416-5681,602-85-6663,24/04/1979,"1478 Main Ln",San Antonio,IL

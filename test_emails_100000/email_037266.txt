@@ -1,9 +1,0 @@
-contact:
-  name: Donald Johnson
-  email: donald.johnson9155@example.com
-  phone: 256 374 6827
-  ssn: 103 15 1483
-  dob: 20/01/1969
-  address: 8361 Pine St
-  city: Los Angeles
-  state: VA

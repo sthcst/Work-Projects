@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Ortiz
-  email: pamela.ortiz4969@company.com
-  phone: (824) 340-2547
-  ssn: 392-19-8116
-  dob: 28/09/1989
-  address: 1684 Summer Ln
-  city: San Diego
-  state: WA

@@ -1,9 +1,0 @@
-contact:
-  name: Megan Gomez
-  email: megan.gomez4417@company.com
-  phone: 934 326 1701
-  ssn: 171 49 6629
-  dob: 08-27-1964
-  address: 7773 South Dr
-  city: San Diego
-  state: VA

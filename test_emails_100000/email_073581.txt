@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Collins,william.collins727@example.com,726-619-9392,829429642,06-07-1971,"6323 North Court",Los Angeles,WA

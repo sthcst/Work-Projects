@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Nelson,john.nelson9947@company.com,+1 531-832-8555,020922817,11/13/1986,"2996 West Blvd",Houston,FL

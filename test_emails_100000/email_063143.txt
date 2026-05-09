@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Lopez
-  email: amanda.lopez6021@work.org
-  phone: (346) 830-7370
-  ssn: 529-53-2451
-  dob: 12/22/1968
-  address: 5203 Pine Rd
-  city: San Antonio
-  state: PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Martinez,sarah.martinez4051@business.net,247 684 8888,399-42-8814,05/26/1970,"2070 Fourth Way",Philadelphia,TX

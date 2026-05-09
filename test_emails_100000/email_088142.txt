@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Moore,matthew.moore7867@company.com,240-785-1316,341-58-6726,03/08/1989,"4195 Second St",Chicago,CA

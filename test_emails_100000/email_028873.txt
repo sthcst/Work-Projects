@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Phillips
-  email: pamela.phillips1647@yahoo.com
-  phone: +1 820-775-7504
-  ssn: 784 95 5394
-  dob: 08/01/1981
-  address: 1112 West Dr
-  city: Phoenix
-  state: CA

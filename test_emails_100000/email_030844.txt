@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Clark,jennifer.clark1359@outlook.com,(536) 304-5839,802 64 3456,3/4/1968,"9978 Pine Court",San Diego,MA

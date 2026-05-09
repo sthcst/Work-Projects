@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Walker,michael.walker6028@outlook.com,863-519-3776,578-93-7385,11-14-1970,"5779 West Court",San Diego,MO

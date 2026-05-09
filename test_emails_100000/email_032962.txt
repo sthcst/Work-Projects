@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Jimenez
-  email: lauren.jimenez9254@mail.com
-  phone: (670) 228-8032
-  ssn: 172458442
-  dob: 2/20/1954
-  address: 8101 Park Blvd
-  city: Jacksonville
-  state: TX

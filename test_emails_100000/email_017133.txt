@@ -1,9 +1,0 @@
-contact:
-  name: Helen White
-  email: helen.white4829@outlook.com
-  phone: +1 378-628-2096
-  ssn: 578178751
-  dob: 01-24-1997
-  address: 4600 Oak Court
-  city: Washington
-  state: IL

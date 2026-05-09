@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Gomez,john.gomez9859@business.net,761 325 6694,166-66-1439,07-08-1988,"703 North Dr",Dallas,MA

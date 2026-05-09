@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Ortiz
-  email: ashley.ortiz3470@outlook.com
-  phone: +1 331-290-4470
-  ssn: 478019413
-  dob: 7/9/1986
-  address: 8366 East Way
-  city: Seattle
-  state: TX

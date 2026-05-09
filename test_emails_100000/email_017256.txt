@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Delgado,stephanie.delgado5776@gmail.com,618-253-7658,367-08-1296,09/09/1995,"412 Fourth Blvd",San Jose,WI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Guerrero,jane.guerrero7044@outlook.com,654 220 2207,102 16 4964,12/4/1986,"2186 Summer Dr",Chicago,CA

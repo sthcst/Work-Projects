@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Nunez,nicholas.nunez9293@example.com,789 449 4496,008 92 4485,04/18/1952,"3029 Maple Rd",Phoenix,CA

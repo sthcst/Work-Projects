@@ -1,9 +1,0 @@
-contact:
-  name: Maria Collins
-  email: maria.collins7859@company.com
-  phone: 461-269-1992
-  ssn: 387-03-3816
-  dob: 02/10/1956
-  address: 1732 North Rd
-  city: San Jose
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Alvarado
-  email: jessica.alvarado6735@gmail.com
-  phone: 732-382-5000
-  ssn: 410737177
-  dob: 11/27/2003
-  address: 6958 Fifth St
-  city: Philadelphia
-  state: NJ

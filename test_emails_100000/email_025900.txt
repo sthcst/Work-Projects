@@ -1,9 +1,0 @@
-contact:
-  name: David Nelson
-  email: david.nelson6835@company.com
-  phone: 303-901-5347
-  ssn: 015-95-7305
-  dob: 10-06-1989
-  address: 4856 Third Dr
-  city: San Jose
-  state: TX

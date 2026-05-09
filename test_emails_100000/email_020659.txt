@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Taylor,jacob.taylor2024@example.com,981-929-4523,046-86-3501,09/08/2003,"9333 Park Dr",Jacksonville,DC

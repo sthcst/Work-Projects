@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Phillips,charles.phillips136@yahoo.com,978 981 8120,838 31 9602,2/24/1977,"4673 Fifth St",Houston,IL

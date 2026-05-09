@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Hernandez
-  email: kimberly.hernandez2354@yahoo.com
-  phone: 508 228 6283
-  ssn: 245668901
-  dob: 12/6/1957
-  address: 9829 Fourth Ave
-  city: San Jose
-  state: OH

@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Thompson
-  email: anthony.thompson1933@yahoo.com
-  phone: (645) 528-3304
-  ssn: 234 14 5097
-  dob: 3/12/2003
-  address: 9171 Pine Blvd
-  city: Los Angeles
-  state: MI

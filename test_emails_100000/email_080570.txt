@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Roberts,timothy.roberts9509@outlook.com,(700) 678-4881,869 62 7980,09/11/2002,"9505 Fourth Way",Phoenix,CO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Brown,jennifer.brown5985@gmail.com,(447) 216-3860,335865137,07-07-2004,"5538 First Ln",New York,WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Young,anna.young1191@work.org,+1 430-908-9473,476-11-4493,06/12/2000,"754 Second Court",Austin,DC

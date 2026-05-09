@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Taylor,lauren.taylor5061@mail.com,425-248-2777,970 99 6675,08/19/1988,"5259 Park Ave",Houston,NC

@@ -1,9 +1,0 @@
-contact:
-  name: Donald Lee
-  email: donald.lee8690@company.com
-  phone: (858) 854-3852
-  ssn: 036951617
-  dob: 04-23-1984
-  address: 739 Third St
-  city: New York
-  state: NC

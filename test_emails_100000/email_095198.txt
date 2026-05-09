@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Morgan
-  email: jeffrey.morgan3461@mail.com
-  phone: 655-910-7702
-  ssn: 416 63 7704
-  dob: 1/11/1998
-  address: 7371 Second Dr
-  city: Houston
-  state: MA

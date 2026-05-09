@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Reed,emma.reed2@example.com,+1 937-492-8022,398-50-1504,07/02/1971,"8967 First Ln",Houston,WI

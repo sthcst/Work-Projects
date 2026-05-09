@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Gonzalez
-  email: ryan.gonzalez9092@outlook.com
-  phone: 355 774 7768
-  ssn: 736 33 7822
-  dob: 04/14/1954
-  address: 8411 Sixth Rd
-  city: Phoenix
-  state: TX

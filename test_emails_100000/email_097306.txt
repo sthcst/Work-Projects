@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Delgado
-  email: christopher.delgado8578@gmail.com
-  phone: +1 231-244-1360
-  ssn: 140701011
-  dob: 12/14/1992
-  address: 5881 Fifth St
-  city: Boston
-  state: TX

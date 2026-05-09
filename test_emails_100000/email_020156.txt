@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Martin,katherine.martin3779@company.com,767 228 4321,666 71 6552,03/06/1995,"6819 Fifth Ave",Jacksonville,CA

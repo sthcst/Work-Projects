@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Taylor,nicholas.taylor5134@work.org,819-690-3916,869696215,22/11/1992,"6997 Summer Ave",Seattle,TX

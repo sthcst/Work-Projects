@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Martinez,rachel.martinez2767@gmail.com,326 485 5339,937 91 9514,03-15-1981,"7278 Elm St",Houston,AZ

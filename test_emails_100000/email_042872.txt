@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Moore,anna.moore2008@gmail.com,(718) 599-3099,368-43-5596,28/12/1958,"939 Fourth Ln",Dallas,CA

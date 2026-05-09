@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Reeves
-  email: katherine.reeves3213@outlook.com
-  phone: +1 535-874-3404
-  ssn: 237-50-3090
-  dob: 11/8/1991
-  address: 6903 Pine Way
-  city: Austin
-  state: AZ

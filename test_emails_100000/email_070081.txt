@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Brown
-  email: nicholas.brown83@business.net
-  phone: +1 272-714-3828
-  ssn: 085761338
-  dob: 09/01/1966
-  address: 1364 Second St
-  city: Denver
-  state: TN

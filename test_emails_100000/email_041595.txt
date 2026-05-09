@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Edwards,ashley.edwards4321@outlook.com,926-490-7040,036-49-8462,11/13/1997,"5100 Second Ave",Seattle,NY

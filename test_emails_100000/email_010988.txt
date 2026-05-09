@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Gomez,richard.gomez1884@work.org,881-263-4667,515554189,1/14/1974,"2117 South Rd",New York,WA

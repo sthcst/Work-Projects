@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Gomez
-  email: ashley.gomez5383@work.org
-  phone: +1 706-297-7406
-  ssn: 901 10 5313
-  dob: 03/12/1975
-  address: 2265 Summer Ln
-  city: San Antonio
-  state: NY

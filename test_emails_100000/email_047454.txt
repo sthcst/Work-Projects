@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Thomas
-  email: samantha.thomas44@example.com
-  phone: +1 496-843-2053
-  ssn: 580 57 6757
-  dob: 10/19/1957
-  address: 7372 Second St
-  city: Boston
-  state: CA

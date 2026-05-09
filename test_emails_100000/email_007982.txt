@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Dominguez,ryan.dominguez7069@company.com,(608) 331-7093,931 44 5795,08/05/1956,"8774 First Way",Houston,FL

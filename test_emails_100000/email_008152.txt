@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Williams,andrew.williams6582@mail.com,(771) 763-6732,393 36 5837,07/11/1959,"9492 Fifth Ave",San Antonio,CA

@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Sanchez
-  email: jacob.sanchez3540@business.net
-  phone: 314 876 8536
-  ssn: 321 91 3203
-  dob: 11/24/1954
-  address: 9420 East Court
-  city: Jacksonville
-  state: NC

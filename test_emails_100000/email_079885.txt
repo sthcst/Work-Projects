@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Carter
-  email: rachel.carter4664@yahoo.com
-  phone: (228) 323-5305
-  ssn: 449 84 4622
-  dob: 2/15/1953
-  address: 2506 Birch Ln
-  city: Boston
-  state: MA

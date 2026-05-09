@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Romero,kimberly.romero1746@yahoo.com,646-386-4789,770 20 3162,05/24/1999,"5266 First Ln",Philadelphia,TX

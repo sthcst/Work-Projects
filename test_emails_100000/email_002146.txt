@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Parker,jeffrey.parker6208@yahoo.com,447 442 1559,011-19-9139,03-15-1999,"991 Second Way",Washington,AZ

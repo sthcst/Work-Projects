@@ -1,9 +1,0 @@
-contact:
-  name: John Rogers
-  email: john.rogers3962@example.com
-  phone: +1 477-744-8875
-  ssn: 194-41-8898
-  dob: 09/02/2001
-  address: 8321 Fifth Blvd
-  city: Seattle
-  state: PA

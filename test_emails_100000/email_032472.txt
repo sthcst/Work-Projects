@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Lewis,angela.lewis739@outlook.com,750 948 9937,857-46-9709,09-11-1960,"208 Birch Court",New York,AZ

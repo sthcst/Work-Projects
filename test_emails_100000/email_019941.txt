@@ -1,9 +1,0 @@
-contact:
-  name: James Ortiz
-  email: james.ortiz1702@work.org
-  phone: +1 352-838-4969
-  ssn: 827976066
-  dob: 2/21/1974
-  address: 2935 Summer Ln
-  city: Seattle
-  state: MA

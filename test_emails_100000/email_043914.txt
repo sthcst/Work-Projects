@@ -1,9 +1,0 @@
-contact:
-  name: Richard Morgan
-  email: richard.morgan8661@work.org
-  phone: (829) 217-5056
-  ssn: 774 86 3379
-  dob: 01-02-1960
-  address: 6707 West Ln
-  city: Phoenix
-  state: CA

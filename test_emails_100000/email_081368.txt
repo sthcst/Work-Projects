@@ -1,9 +1,0 @@
-contact:
-  name: Steven Harris
-  email: steven.harris1796@yahoo.com
-  phone: (457) 388-9760
-  ssn: 304583438
-  dob: 14/07/1952
-  address: 1439 East Ln
-  city: San Diego
-  state: GA

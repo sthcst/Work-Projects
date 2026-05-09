@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Brown
-  email: kevin.brown5951@yahoo.com
-  phone: +1 418-451-9221
-  ssn: 307 57 3370
-  dob: 07-11-1980
-  address: 9281 East Ln
-  city: Jacksonville
-  state: MA

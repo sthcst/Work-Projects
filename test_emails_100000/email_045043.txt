@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Ramirez
-  email: kevin.ramirez8816@business.net
-  phone: (321) 392-1929
-  ssn: 412 85 3068
-  dob: 3/4/1965
-  address: 3521 East Rd
-  city: Houston
-  state: NC

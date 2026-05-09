@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Phillips
-  email: rebecca.phillips4706@mail.com
-  phone: 640-214-2855
-  ssn: 578-68-5950
-  dob: 01/23/1980
-  address: 8439 Third Way
-  city: Dallas
-  state: TN

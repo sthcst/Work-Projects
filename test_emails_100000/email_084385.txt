@@ -1,9 +1,0 @@
-contact:
-  name: James Lewis
-  email: james.lewis4024@yahoo.com
-  phone: +1 345-597-4799
-  ssn: 738 90 7568
-  dob: 08-06-1975
-  address: 9780 South Ln
-  city: Austin
-  state: AZ

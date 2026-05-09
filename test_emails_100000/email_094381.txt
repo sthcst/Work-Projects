@@ -1,9 +1,0 @@
-contact:
-  name: Donald Romero
-  email: donald.romero5045@outlook.com
-  phone: +1 365-752-4909
-  ssn: 243 28 8029
-  dob: 2/7/1961
-  address: 1577 West Ave
-  city: Seattle
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Donald White
-  email: donald.white7316@yahoo.com
-  phone: +1 851-716-9141
-  ssn: 475 38 5389
-  dob: 7/11/1982
-  address: 109 Oak Ave
-  city: Dallas
-  state: CO

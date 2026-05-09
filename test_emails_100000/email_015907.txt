@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Bell,jacob.bell1744@yahoo.com,380-600-9957,446163768,11/11/1999,"2678 Fifth St",Chicago,CO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Parker,helen.parker4670@gmail.com,618-804-4194,883-95-4900,12-09-1988,"5676 Summer Blvd",Austin,TX

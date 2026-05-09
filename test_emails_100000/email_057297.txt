@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Williams
-  email: matthew.williams4460@yahoo.com
-  phone: 552-384-6877
-  ssn: 871425490
-  dob: 05/03/1961
-  address: 910 Summer Dr
-  city: San Antonio
-  state: FL

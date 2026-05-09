@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Taylor,emma.taylor4986@outlook.com,511 893 7573,965-96-5924,14/04/1965,"5277 Birch Dr",Boston,WA

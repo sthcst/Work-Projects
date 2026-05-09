@@ -1,9 +1,0 @@
-contact:
-  name: Ashley White
-  email: ashley.white3306@business.net
-  phone: 599 215 6045
-  ssn: 659243837
-  dob: 02-28-2005
-  address: 5530 Fourth Dr
-  city: San Jose
-  state: NC

@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Walker
-  email: jacob.walker3926@gmail.com
-  phone: 286 641 3887
-  ssn: 611954748
-  dob: 03/09/1994
-  address: 2919 South Way
-  city: Chicago
-  state: GA

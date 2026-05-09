@@ -1,9 +1,0 @@
-contact:
-  name: Michael Reeves
-  email: michael.reeves5355@yahoo.com
-  phone: (401) 769-5979
-  ssn: 205281805
-  dob: 02/18/1966
-  address: 1848 Spring Way
-  city: Washington
-  state: MD

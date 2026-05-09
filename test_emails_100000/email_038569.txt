@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Morgan
-  email: amanda.morgan6530@business.net
-  phone: +1 540-456-2308
-  ssn: 343-08-2236
-  dob: 10-07-1956
-  address: 5156 Main Ln
-  city: Chicago
-  state: IL

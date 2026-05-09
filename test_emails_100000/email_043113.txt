@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Lopez
-  email: samantha.lopez4560@example.com
-  phone: 923 731 3720
-  ssn: 064-66-5941
-  dob: 05/04/2002
-  address: 8842 Main Dr
-  city: San Jose
-  state: IL

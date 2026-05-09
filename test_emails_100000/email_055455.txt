@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Reyes,stephanie.reyes99@company.com,458-556-3592,106089226,07/05/1985,"641 Pine Ln",San Diego,CA

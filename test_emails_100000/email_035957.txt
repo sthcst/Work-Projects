@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Lewis,lisa.lewis9110@yahoo.com,590-954-4871,912413790,09/05/1968,"1048 Spring Way",Jacksonville,PA

@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Morgan
-  email: sarah.morgan6803@work.org
-  phone: 378 976 3614
-  ssn: 929761133
-  dob: 6/24/1962
-  address: 1285 South Way
-  city: San Jose
-  state: TX

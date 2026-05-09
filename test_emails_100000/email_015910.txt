@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Cooper,stephanie.cooper3455@business.net,+1 588-886-2803,399 28 3095,11-08-1999,"5433 Birch Ave",Houston,MO

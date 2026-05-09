@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Perez,deborah.perez1811@outlook.com,+1 266-936-6245,146 52 2519,17/02/1976,"995 Fifth Way",San Diego,MO

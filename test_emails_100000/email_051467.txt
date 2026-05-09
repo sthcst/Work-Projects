@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Taylor,emily.taylor7885@business.net,+1 620-500-1256,460413073,10/07/1992,"1773 Sixth Ave",Philadelphia,TX

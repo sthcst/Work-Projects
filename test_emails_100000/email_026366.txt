@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Dominguez
-  email: nicholas.dominguez6127@gmail.com
-  phone: 965-908-3788
-  ssn: 170377288
-  dob: 12-28-1957
-  address: 8708 North Dr
-  city: San Diego
-  state: NY

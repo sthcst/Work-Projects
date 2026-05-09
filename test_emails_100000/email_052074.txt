@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Nelson
-  email: nicholas.nelson2809@gmail.com
-  phone: +1 518-865-2315
-  ssn: 515-76-1953
-  dob: 09-13-1973
-  address: 256 Fifth Way
-  city: Jacksonville
-  state: MI

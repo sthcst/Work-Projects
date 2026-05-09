@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Perez,lauren.perez745@business.net,+1 613-856-4673,780-89-4030,12-28-2002,"6790 Oak Court",Seattle,WA

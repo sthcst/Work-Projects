@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Ortiz,gary.ortiz9559@work.org,422 782 9944,981 27 5611,10/05/1991,"304 Second Court",Chicago,OH

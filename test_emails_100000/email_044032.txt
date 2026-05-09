@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Parker,angela.parker9687@business.net,842-691-7082,026491876,08-06-1983,"5488 Elm Ln",San Diego,MI

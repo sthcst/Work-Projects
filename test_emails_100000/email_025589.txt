@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Cooper,shirley.cooper6771@business.net,(962) 204-4790,073-44-2371,10/28/2000,"4088 Cedar Dr",San Jose,NY

@@ -1,9 +1,0 @@
-contact:
-  name: John Hernandez
-  email: john.hernandez4174@yahoo.com
-  phone: 627 932 7861
-  ssn: 538 83 5811
-  dob: 13/12/1957
-  address: 9187 North Ave
-  city: San Diego
-  state: WA

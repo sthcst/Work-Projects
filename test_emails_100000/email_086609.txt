@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Phillips
-  email: lisa.phillips742@gmail.com
-  phone: 384-876-4283
-  ssn: 652-17-7993
-  dob: 05-28-1963
-  address: 2090 Main Blvd
-  city: Washington
-  state: VA

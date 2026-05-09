@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Hernandez
-  email: jacob.hernandez2770@work.org
-  phone: 740 759 7453
-  ssn: 269 80 4375
-  dob: 12/12/1989
-  address: 5344 Park Way
-  city: Phoenix
-  state: TX

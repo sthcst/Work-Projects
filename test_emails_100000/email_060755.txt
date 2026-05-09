@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Miller,joshua.miller1478@yahoo.com,+1 688-934-3844,866692276,04/02/2005,"2910 Spring Way",Los Angeles,AZ

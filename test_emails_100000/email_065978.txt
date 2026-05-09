@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Clark,andrew.clark1800@business.net,+1 999-246-3631,860 32 5267,08-13-1971,"3442 South Ave",San Jose,OH

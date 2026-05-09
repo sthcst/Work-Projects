@@ -1,9 +1,0 @@
-contact:
-  name: George Alvarado
-  email: george.alvarado4902@mail.com
-  phone: 409-494-9821
-  ssn: 047-53-8791
-  dob: 8/8/1956
-  address: 9201 Second Blvd
-  city: Phoenix
-  state: TN

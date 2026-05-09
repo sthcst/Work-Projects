@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Lopez,amanda.lopez650@company.com,613 946 3670,327-62-7518,02/02/1996,"2344 Third St",Jacksonville,WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Garcia,lisa.garcia7619@company.com,964 865 2220,448 26 2749,04/15/2003,"1644 Second Court",Washington,CO

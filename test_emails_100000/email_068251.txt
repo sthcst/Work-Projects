@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Lopez,christopher.lopez9107@yahoo.com,972-223-4070,187-86-7975,25/07/1995,"5734 Oak Dr",Dallas,NJ

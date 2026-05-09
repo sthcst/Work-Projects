@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Clark,mark.clark4585@business.net,385-865-7149,994275024,06/13/1967,"6620 Cedar Court",Los Angeles,MA

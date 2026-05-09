@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Flores,kenneth.flores7951@gmail.com,(759) 501-3852,840-16-4599,25/01/1951,"5274 Summer Ave",Jacksonville,TX

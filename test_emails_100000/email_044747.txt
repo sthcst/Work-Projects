@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Murillo,joshua.murillo5005@outlook.com,805 510 9947,468 24 7395,28/01/1954,"7808 Birch Ln",Seattle,VA

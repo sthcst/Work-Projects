@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Miller
-  email: matthew.miller8333@mail.com
-  phone: 423 249 2295
-  ssn: 379-49-4018
-  dob: 12/05/1977
-  address: 1127 Spring Court
-  city: San Jose
-  state: MO

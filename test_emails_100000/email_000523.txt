@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Thomas
-  email: matthew.thomas2669@company.com
-  phone: 700-958-6871
-  ssn: 768-41-7801
-  dob: 04-03-2001
-  address: 7841 Spring Ave
-  city: Seattle
-  state: NY

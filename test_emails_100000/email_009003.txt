@@ -1,9 +1,0 @@
-contact:
-  name: Helen Carter
-  email: helen.carter7738@company.com
-  phone: 391-433-3342
-  ssn: 584638346
-  dob: 8/6/1998
-  address: 1963 Sixth Ln
-  city: Denver
-  state: NJ

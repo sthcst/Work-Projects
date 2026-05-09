@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Wilson,michael.wilson2412@company.com,(487) 958-2483,405-87-1717,07-13-1969,"3929 First St",Dallas,TX

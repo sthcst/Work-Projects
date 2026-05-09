@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Martinez
-  email: michelle.martinez7997@company.com
-  phone: 804 580 9745
-  ssn: 265-98-4382
-  dob: 06/20/1986
-  address: 9430 Sixth Rd
-  city: Jacksonville
-  state: CA

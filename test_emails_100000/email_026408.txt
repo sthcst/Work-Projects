@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Reeves,sarah.reeves3044@example.com,(277) 650-5358,994-61-5782,02/08/1988,"8397 Birch Court",Los Angeles,TX

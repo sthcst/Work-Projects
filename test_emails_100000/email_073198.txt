@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Morgan
-  email: andrew.morgan9151@example.com
-  phone: 504 838 3980
-  ssn: 220-73-3644
-  dob: 01/06/1971
-  address: 3905 Pine Dr
-  city: Dallas
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Hernandez
-  email: timothy.hernandez3412@yahoo.com
-  phone: +1 936-492-3531
-  ssn: 333 16 5475
-  dob: 03/07/1967
-  address: 5541 West Ln
-  city: Seattle
-  state: MO

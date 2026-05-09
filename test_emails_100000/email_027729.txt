@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Martin
-  email: nicholas.martin4886@example.com
-  phone: 285-812-7906
-  ssn: 935 12 7302
-  dob: 6/17/1975
-  address: 8888 Maple Blvd
-  city: Washington
-  state: AZ

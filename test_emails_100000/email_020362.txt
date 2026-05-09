@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Collins
-  email: jacob.collins3127@work.org
-  phone: 846-838-7550
-  ssn: 103 69 3217
-  dob: 9/1/1976
-  address: 3350 West Ave
-  city: Chicago
-  state: FL

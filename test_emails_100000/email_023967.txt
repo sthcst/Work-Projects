@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Perez,donald.perez3783@yahoo.com,476-838-3381,264 04 8976,12-27-1972,"1853 Pine St",Seattle,CA

@@ -1,9 +1,0 @@
-contact:
-  name: Maria Martinez
-  email: maria.martinez8536@company.com
-  phone: 742-555-4383
-  ssn: 873 11 1766
-  dob: 26/12/1979
-  address: 5090 Sixth Court
-  city: Washington
-  state: FL

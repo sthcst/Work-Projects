@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Harris,nicholas.harris2784@mail.com,246 889 6289,004 22 8617,02/12/1956,"9736 Main Ave",San Jose,NJ

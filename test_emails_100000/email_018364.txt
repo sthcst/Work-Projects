@@ -1,9 +1,0 @@
-contact:
-  name: Mark Taylor
-  email: mark.taylor1050@company.com
-  phone: 277-708-6442
-  ssn: 451 78 2334
-  dob: 07/07/1992
-  address: 777 West Rd
-  city: San Antonio
-  state: CO

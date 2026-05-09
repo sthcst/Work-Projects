@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Jimenez
-  email: rebecca.jimenez9965@company.com
-  phone: +1 407-218-9772
-  ssn: 621263637
-  dob: 08-15-2004
-  address: 9484 South St
-  city: Philadelphia
-  state: NC

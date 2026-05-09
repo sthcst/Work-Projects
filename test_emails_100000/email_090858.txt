@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Reyes,kenneth.reyes9511@company.com,300-807-2969,586416601,1/4/1987,"6597 Summer Ave",Dallas,MD

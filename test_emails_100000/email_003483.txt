@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Sanchez,matthew.sanchez8002@business.net,+1 424-659-9376,556-95-5082,02/04/2002,"6909 Second Ave",Phoenix,MI

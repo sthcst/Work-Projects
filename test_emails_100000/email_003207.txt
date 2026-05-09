@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Reyes,jason.reyes6297@outlook.com,791-269-4331,468-37-2101,09/26/1963,"7250 South Way",Washington,TX

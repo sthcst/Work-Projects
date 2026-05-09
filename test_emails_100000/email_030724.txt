@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Morgan,jane.morgan5891@company.com,447 295 1463,668 84 1756,10/1/1953,"2650 Elm Rd",San Jose,DC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Murillo,kimberly.murillo9331@yahoo.com,677 700 7468,252257648,06-12-1990,"9931 Park Way",Chicago,TX

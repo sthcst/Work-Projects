@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Gonzalez
-  email: michelle.gonzalez4532@outlook.com
-  phone: 651 858 7173
-  ssn: 506365717
-  dob: 10-23-1965
-  address: 1365 Pine Court
-  city: New York
-  state: TX

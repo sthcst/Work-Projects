@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Hernandez
-  email: daniel.hernandez1076@gmail.com
-  phone: (730) 388-7582
-  ssn: 558322322
-  dob: 05-13-1989
-  address: 9243 Summer Way
-  city: Jacksonville
-  state: IL

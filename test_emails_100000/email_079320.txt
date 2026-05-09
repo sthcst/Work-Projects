@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Campbell
-  email: christopher.campbell6728@mail.com
-  phone: +1 209-851-4405
-  ssn: 902273192
-  dob: 7/21/1968
-  address: 4896 Fifth Blvd
-  city: Boston
-  state: MI

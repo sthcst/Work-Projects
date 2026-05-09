@@ -1,9 +1,0 @@
-contact:
-  name: Emily Edwards
-  email: emily.edwards9082@work.org
-  phone: 746-971-8382
-  ssn: 784 82 4124
-  dob: 05-07-1999
-  address: 8440 Park Ave
-  city: Chicago
-  state: TX

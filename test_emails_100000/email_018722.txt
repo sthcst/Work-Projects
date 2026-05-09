@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Morgan,sarah.morgan727@work.org,557-429-1844,830-37-6164,11/2/1994,"1163 Maple Ave",Jacksonville,MO

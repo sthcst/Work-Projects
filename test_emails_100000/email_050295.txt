@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Perez
-  email: jennifer.perez5672@business.net
-  phone: 556 904 3880
-  ssn: 731834473
-  dob: 10-26-2001
-  address: 4706 Sixth Ave
-  city: Denver
-  state: MA

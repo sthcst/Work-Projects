@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Phillips
-  email: matthew.phillips3723@work.org
-  phone: 508-280-8430
-  ssn: 854 89 7256
-  dob: 10/24/1965
-  address: 2258 Fourth Court
-  city: San Diego
-  state: WA

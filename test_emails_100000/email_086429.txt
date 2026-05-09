@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Martinez,maria.martinez4911@mail.com,(680) 380-9527,612-24-1715,06/19/2003,"4234 Elm St",Washington,TX

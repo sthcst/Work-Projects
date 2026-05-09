@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Jackson,andrew.jackson3378@gmail.com,988 850 3603,928 33 4455,15/09/1963,"1415 Fifth Court",Washington,CA

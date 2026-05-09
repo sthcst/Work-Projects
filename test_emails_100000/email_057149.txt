@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Morgan,george.morgan6150@work.org,652 296 6158,049 99 3415,04/12/1964,"7264 West Blvd",Denver,WI

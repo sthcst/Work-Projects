@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Johnson,ryan.johnson1429@work.org,(783) 896-4362,688 34 3376,04/19/1950,"645 South Court",San Diego,OH

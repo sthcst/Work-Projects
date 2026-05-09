@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Stewart
-  email: shirley.stewart7792@business.net
-  phone: +1 843-411-6615
-  ssn: 763 45 7326
-  dob: 01-23-1977
-  address: 2397 Pine Dr
-  city: Philadelphia
-  state: NC

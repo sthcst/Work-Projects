@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Brown
-  email: jessica.brown2454@mail.com
-  phone: 588 888 2886
-  ssn: 814 65 5749
-  dob: 5/6/1955
-  address: 9846 Fifth Court
-  city: San Jose
-  state: DC

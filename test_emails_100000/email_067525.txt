@@ -1,9 +1,0 @@
-contact:
-  name: Christine Garcia
-  email: christine.garcia4252@outlook.com
-  phone: 916 389 7316
-  ssn: 001174676
-  dob: 03/21/1961
-  address: 5697 Main Way
-  city: Los Angeles
-  state: TN

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Robinson,pamela.robinson5203@yahoo.com,916-370-4252,852 34 4980,04/11/2002,"8218 North Way",Washington,CA

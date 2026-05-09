@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Clark
-  email: cynthia.clark5892@yahoo.com
-  phone: 930-286-2078
-  ssn: 779-03-5364
-  dob: 18/02/1993
-  address: 3454 Park Rd
-  city: San Jose
-  state: FL

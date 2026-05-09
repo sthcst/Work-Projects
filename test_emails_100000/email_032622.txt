@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Jackson,pamela.jackson7676@example.com,386-966-9767,240-32-3824,19/04/1989,"9908 South St",Austin,TN

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Lopez,christopher.lopez9758@outlook.com,+1 930-513-5257,246 18 3310,09-05-2001,"8969 Second Way",Washington,PA

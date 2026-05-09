@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Rogers,kevin.rogers3744@yahoo.com,+1 665-745-7378,854 20 5728,11/09/1985,"1802 East Dr",Phoenix,TX

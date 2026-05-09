@@ -1,9 +1,0 @@
-contact:
-  name: Mark Morris
-  email: mark.morris1068@yahoo.com
-  phone: 280 374 1633
-  ssn: 946 33 8862
-  dob: 10/22/1997
-  address: 7372 West Blvd
-  city: New York
-  state: WA

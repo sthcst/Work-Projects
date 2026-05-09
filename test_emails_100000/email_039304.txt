@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Bell,brenda.bell1472@work.org,533-522-1535,634-06-4535,2/2/1958,"3163 East Court",Dallas,FL

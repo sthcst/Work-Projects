@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Sanchez
-  email: kathleen.sanchez4953@company.com
-  phone: (607) 776-9078
-  ssn: 753039220
-  dob: 07-26-1988
-  address: 3051 Second Dr
-  city: Austin
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Peterson
-  email: katherine.peterson7270@example.com
-  phone: 478-614-6272
-  ssn: 873-01-7537
-  dob: 6/23/1950
-  address: 1469 Third Rd
-  city: San Jose
-  state: MI

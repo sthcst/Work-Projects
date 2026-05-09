@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Bell,amanda.bell2281@mail.com,857 365 5342,195344234,01-22-1989,"3518 East Way",Seattle,AZ

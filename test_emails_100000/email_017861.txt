@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Davis,joseph.davis7762@outlook.com,+1 374-436-4478,002806779,12-06-2004,"2425 First Court",San Antonio,MD

@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Gonzalez
-  email: joshua.gonzalez6498@example.com
-  phone: +1 931-371-1959
-  ssn: 927 67 9926
-  dob: 01-25-1964
-  address: 1790 Birch Court
-  city: San Diego
-  state: VA

@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Murillo
-  email: nicole.murillo4435@outlook.com
-  phone: 678 848 4675
-  ssn: 093269381
-  dob: 9/7/2004
-  address: 9314 Pine Blvd
-  city: Houston
-  state: AZ

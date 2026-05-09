@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen White,kathleen.white8323@outlook.com,667 853 5580,514647603,03/01/1974,"7998 Fourth Rd",Los Angeles,AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Michael Young
-  email: michael.young4580@outlook.com
-  phone: 709-430-6106
-  ssn: 873-05-2151
-  dob: 04-11-2003
-  address: 5169 South Ln
-  city: Philadelphia
-  state: NY

@@ -1,9 +1,0 @@
-contact:
-  name: Christine Romero
-  email: christine.romero1831@outlook.com
-  phone: 700 655 9862
-  ssn: 182 52 6135
-  dob: 11/23/1986
-  address: 70 West Ln
-  city: San Jose
-  state: IL

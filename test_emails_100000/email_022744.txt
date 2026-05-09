@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Serrano,mark.serrano9684@example.com,(434) 873-3087,842401234,08-08-1957,"5692 Pine Ave",Houston,NY

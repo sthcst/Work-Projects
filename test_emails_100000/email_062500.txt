@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Hernandez
-  email: samantha.hernandez5120@outlook.com
-  phone: 780 888 5962
-  ssn: 248177793
-  dob: 12/15/1987
-  address: 5314 Maple Blvd
-  city: Jacksonville
-  state: WA

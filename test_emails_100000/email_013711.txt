@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Anderson,michael.anderson2866@mail.com,447 582 3427,940848407,02/05/1969,"4582 East St",Denver,TX

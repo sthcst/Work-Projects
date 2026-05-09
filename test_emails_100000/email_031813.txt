@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Stewart
-  email: samantha.stewart8976@example.com
-  phone: 480 888 4520
-  ssn: 591-29-2119
-  dob: 4/1/1999
-  address: 2540 Sixth Ln
-  city: Boston
-  state: PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Anderson,ronald.anderson5081@mail.com,972 509 2935,660854049,11/03/1982,"2773 North Ln",San Diego,MD

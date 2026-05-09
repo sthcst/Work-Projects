@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Lewis,sarah.lewis6783@business.net,+1 401-454-3782,941-87-4347,01/01/1983,"204 Sixth Dr",San Diego,TX

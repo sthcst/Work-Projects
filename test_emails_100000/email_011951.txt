@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Phillips,steven.phillips6512@example.com,+1 240-837-5336,965 76 8627,07/20/1968,"4003 Fifth Blvd",New York,GA

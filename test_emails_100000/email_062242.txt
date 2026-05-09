@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Morris,brenda.morris3487@outlook.com,(589) 431-7345,702 58 1344,10-16-1971,"8522 Park St",Dallas,TX

@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Cooper
-  email: cynthia.cooper9058@yahoo.com
-  phone: 377-880-2033
-  ssn: 653-79-8539
-  dob: 11-05-1972
-  address: 376 Main Rd
-  city: Washington
-  state: AZ

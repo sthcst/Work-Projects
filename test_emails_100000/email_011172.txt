@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Cooper
-  email: deborah.cooper5279@outlook.com
-  phone: 961-220-9363
-  ssn: 655-40-5600
-  dob: 4/28/1952
-  address: 2378 Fourth Way
-  city: Denver
-  state: TX

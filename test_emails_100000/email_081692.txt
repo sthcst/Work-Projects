@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Taylor,pamela.taylor4411@example.com,+1 422-805-5819,629 31 5475,10/07/1978,"7147 Sixth Dr",Houston,PA

@@ -1,9 +1,0 @@
-contact:
-  name: Michael White
-  email: michael.white5371@work.org
-  phone: 841-580-3170
-  ssn: 167-44-5015
-  dob: 05/22/1977
-  address: 442 Cedar Ave
-  city: Austin
-  state: TN

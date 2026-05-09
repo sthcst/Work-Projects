@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Anderson,michelle.anderson1877@example.com,307 741 9381,979 84 8035,01/10/1969,"4130 West St",Washington,NY

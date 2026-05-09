@@ -1,9 +1,0 @@
-contact:
-  name: John Clark
-  email: john.clark1246@mail.com
-  phone: +1 418-646-1963
-  ssn: 306-52-2128
-  dob: 03/10/1955
-  address: 3390 West Ave
-  city: Los Angeles
-  state: TX

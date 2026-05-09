@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Morgan
-  email: jessica.morgan6283@company.com
-  phone: 690-246-2327
-  ssn: 543 57 1750
-  dob: 05-09-1998
-  address: 2177 Fourth Dr
-  city: Phoenix
-  state: VA

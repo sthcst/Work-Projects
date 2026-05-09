@@ -1,9 +1,0 @@
-contact:
-  name: John Serrano
-  email: john.serrano2399@outlook.com
-  phone: 769 290 2659
-  ssn: 996884888
-  dob: 12/22/2000
-  address: 168 Maple St
-  city: Denver
-  state: CA

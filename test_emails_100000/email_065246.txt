@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Young,angela.young261@outlook.com,(692) 343-7226,932-10-5670,01/08/1953,"4591 Oak Dr",New York,NC

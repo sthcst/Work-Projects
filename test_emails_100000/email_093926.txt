@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Roberts,megan.roberts3573@gmail.com,383 359 9814,304 72 4983,17/03/1985,"7448 Park Rd",Washington,CO

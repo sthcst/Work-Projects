@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Delgado
-  email: kathleen.delgado4878@outlook.com
-  phone: 529-524-7380
-  ssn: 730264343
-  dob: 27/07/1966
-  address: 4813 West Way
-  city: Chicago
-  state: PA

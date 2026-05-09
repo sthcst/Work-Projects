@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Rodriguez,christine.rodriguez6142@gmail.com,844 874 1895,085701980,08/07/1980,"4208 North Rd",Los Angeles,CO

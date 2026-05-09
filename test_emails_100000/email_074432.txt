@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Moore,angela.moore6557@gmail.com,+1 793-920-3327,959852464,10-16-1991,"3432 Second St",Austin,NY

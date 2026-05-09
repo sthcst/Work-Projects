@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Lewis
-  email: andrew.lewis9764@business.net
-  phone: 692-918-4299
-  ssn: 395-87-3007
-  dob: 26/01/1993
-  address: 2419 North St
-  city: San Antonio
-  state: TX

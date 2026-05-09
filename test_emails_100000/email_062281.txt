@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Jones
-  email: jessica.jones6747@work.org
-  phone: +1 705-278-6543
-  ssn: 673368844
-  dob: 10/05/1993
-  address: 6507 Fifth St
-  city: San Diego
-  state: GA

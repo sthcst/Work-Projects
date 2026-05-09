@@ -1,9 +1,0 @@
-contact:
-  name: Brian Taylor
-  email: brian.taylor786@example.com
-  phone: (451) 524-2306
-  ssn: 721066784
-  dob: 08-22-1980
-  address: 5901 Maple St
-  city: San Jose
-  state: NJ

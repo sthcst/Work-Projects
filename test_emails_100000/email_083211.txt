@@ -1,9 +1,0 @@
-contact:
-  name: Daniel White
-  email: daniel.white424@outlook.com
-  phone: 937 905 8868
-  ssn: 027-01-5218
-  dob: 8/1/1970
-  address: 2549 First Ln
-  city: Austin
-  state: PA

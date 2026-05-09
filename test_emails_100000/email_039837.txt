@@ -1,9 +1,0 @@
-contact:
-  name: Angela Sanchez
-  email: angela.sanchez7638@company.com
-  phone: +1 597-498-7087
-  ssn: 053 61 3638
-  dob: 10-11-1973
-  address: 671 East Ln
-  city: San Diego
-  state: VA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Flores,emma.flores5529@gmail.com,(579) 604-3438,746353324,3/18/1983,"2591 Third Ave",Boston,IL

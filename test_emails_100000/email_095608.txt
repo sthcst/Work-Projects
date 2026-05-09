@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Evans,george.evans8298@mail.com,(493) 888-4165,971-27-4985,13/04/1994,"3987 Fourth St",Washington,WI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Brown,david.brown8647@business.net,(338) 696-4122,329-35-2757,10-17-1983,"4361 Pine Way",Philadelphia,WI

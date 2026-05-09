@@ -1,9 +1,0 @@
-contact:
-  name: Richard Jones
-  email: richard.jones2281@yahoo.com
-  phone: +1 474-613-3869
-  ssn: 900 02 3685
-  dob: 12/09/1989
-  address: 6047 Summer Dr
-  city: Los Angeles
-  state: WI

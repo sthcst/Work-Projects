@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Hernandez,jason.hernandez9298@outlook.com,(896) 876-8629,650-78-4800,08/22/1973,"4291 First Blvd",Seattle,WA

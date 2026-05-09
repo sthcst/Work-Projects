@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Jackson
-  email: joseph.jackson6807@yahoo.com
-  phone: (224) 668-5448
-  ssn: 107 03 1189
-  dob: 3/27/1992
-  address: 9346 East Court
-  city: Washington
-  state: NY

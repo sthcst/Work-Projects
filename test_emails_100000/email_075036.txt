@@ -1,9 +1,0 @@
-contact:
-  name: Michael Flores
-  email: michael.flores7361@yahoo.com
-  phone: +1 784-339-3529
-  ssn: 927-58-1225
-  dob: 11-01-1989
-  address: 159 First Blvd
-  city: Chicago
-  state: GA

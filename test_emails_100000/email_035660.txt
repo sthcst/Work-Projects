@@ -1,9 +1,0 @@
-contact:
-  name: Charles Morgan
-  email: charles.morgan9909@mail.com
-  phone: (530) 450-2290
-  ssn: 090677893
-  dob: 21/08/2005
-  address: 7916 First Ln
-  city: San Antonio
-  state: CA

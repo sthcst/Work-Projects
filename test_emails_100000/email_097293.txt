@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Sanchez,kathleen.sanchez4191@yahoo.com,(625) 674-9083,036 94 7293,07/08/1965,"3945 Pine Ave",Austin,TX

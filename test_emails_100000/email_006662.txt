@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Young,samantha.young537@mail.com,+1 744-562-8062,756 93 1432,09/12/1993,"5516 Second Ln",Boston,PA

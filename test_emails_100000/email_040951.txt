@@ -1,9 +1,0 @@
-contact:
-  name: William Delgado
-  email: william.delgado4456@outlook.com
-  phone: (202) 777-7697
-  ssn: 591 54 5463
-  dob: 1/1/1962
-  address: 1183 Sixth Way
-  city: San Diego
-  state: NY

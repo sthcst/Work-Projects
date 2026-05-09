@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Jackson,amanda.jackson6126@company.com,694-936-9421,522-71-7753,06-22-1984,"176 Spring Way",Washington,VA

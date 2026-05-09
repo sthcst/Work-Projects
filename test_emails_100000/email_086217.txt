@@ -1,9 +1,0 @@
-contact:
-  name: Helen Brown
-  email: helen.brown7568@company.com
-  phone: (866) 202-1750
-  ssn: 474 34 1203
-  dob: 8/25/1955
-  address: 7211 Summer St
-  city: New York
-  state: AZ

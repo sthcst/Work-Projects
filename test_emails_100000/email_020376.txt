@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Delgado
-  email: jacob.delgado4857@yahoo.com
-  phone: 486-902-1703
-  ssn: 382 09 8505
-  dob: 5/21/1982
-  address: 3132 Park Blvd
-  city: Houston
-  state: CA

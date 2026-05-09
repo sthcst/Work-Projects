@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Moore,jacob.moore3743@mail.com,+1 745-229-1271,297 96 9922,04-15-2005,"1480 Cedar Court",San Diego,WA

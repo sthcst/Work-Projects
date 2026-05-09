@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Robinson
-  email: jessica.robinson4680@company.com
-  phone: 607-789-6251
-  ssn: 522 63 9753
-  dob: 06/17/1990
-  address: 5232 Spring Dr
-  city: Phoenix
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Charles Rogers
-  email: charles.rogers2064@example.com
-  phone: +1 656-437-7510
-  ssn: 780-60-6610
-  dob: 09/18/1957
-  address: 9237 West Blvd
-  city: Los Angeles
-  state: PA

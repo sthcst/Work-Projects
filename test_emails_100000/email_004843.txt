@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Gonzalez
-  email: amanda.gonzalez9248@company.com
-  phone: +1 931-220-9804
-  ssn: 689525339
-  dob: 01-06-1996
-  address: 9348 First Court
-  city: Los Angeles
-  state: CO

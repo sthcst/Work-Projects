@@ -1,9 +1,0 @@
-contact:
-  name: John Roberts
-  email: john.roberts2131@business.net
-  phone: 741-432-5348
-  ssn: 918-61-7172
-  dob: 05/20/1973
-  address: 9936 First Court
-  city: Dallas
-  state: TX

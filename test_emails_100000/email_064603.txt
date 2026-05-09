@@ -1,9 +1,0 @@
-contact:
-  name: David Johnson
-  email: david.johnson2315@example.com
-  phone: +1 919-590-8612
-  ssn: 451-99-3386
-  dob: 11/18/1992
-  address: 8982 First Blvd
-  city: Houston
-  state: NC

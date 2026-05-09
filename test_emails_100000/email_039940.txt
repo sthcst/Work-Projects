@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Anderson,donald.anderson644@gmail.com,267 584 6931,080-81-8036,01/12/1966,"4975 Park Ln",Washington,CO

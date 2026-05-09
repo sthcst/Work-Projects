@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Reyes
-  email: amanda.reyes5208@company.com
-  phone: +1 296-734-8047
-  ssn: 161-17-9667
-  dob: 19/03/1967
-  address: 837 Cedar St
-  city: Jacksonville
-  state: WA

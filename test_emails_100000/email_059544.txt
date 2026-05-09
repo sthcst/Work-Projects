@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Miller,brian.miller9356@mail.com,203 954 7411,499243872,02/05/1959,"7370 Sixth Way",Dallas,MO

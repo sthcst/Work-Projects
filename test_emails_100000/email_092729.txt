@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Edwards,paul.edwards2866@yahoo.com,(625) 450-5420,058-12-9726,27/08/1963,"4301 North Ave",San Diego,AZ

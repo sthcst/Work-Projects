@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Parker,deborah.parker8757@example.com,(207) 469-9128,348108413,1/26/1983,"7132 Summer Ave",Philadelphia,DC

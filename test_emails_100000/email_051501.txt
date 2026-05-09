@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Thomas
-  email: nicole.thomas2038@work.org
-  phone: (602) 289-5383
-  ssn: 316735608
-  dob: 06/11/1999
-  address: 2704 Pine Dr
-  city: Austin
-  state: TN

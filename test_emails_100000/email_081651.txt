@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Roberts
-  email: shirley.roberts2679@outlook.com
-  phone: 883-713-3630
-  ssn: 255 25 4231
-  dob: 5/9/1967
-  address: 4043 Spring Dr
-  city: Austin
-  state: TN

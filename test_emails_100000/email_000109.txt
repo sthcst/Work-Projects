@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Morris,robert.morris158@work.org,(399) 593-9281,669647703,14/08/1995,"8016 Cedar Ave",New York,MA

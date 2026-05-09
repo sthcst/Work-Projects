@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Jimenez,nicholas.jimenez2379@example.com,(301) 992-1080,404228522,4/16/1997,"925 Cedar Way",San Diego,CO

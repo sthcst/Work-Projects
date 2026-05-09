@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Carter,kevin.carter8166@yahoo.com,324 955 6658,348466934,04/06/1988,"4832 Maple Rd",San Antonio,PA

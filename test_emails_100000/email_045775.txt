@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Hall,timothy.hall7726@work.org,441-716-8947,803 69 6624,07/04/1982,"6757 Second Ln",Jacksonville,TX

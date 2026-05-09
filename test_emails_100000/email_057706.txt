@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Davis,kevin.davis349@mail.com,(563) 664-1403,996022556,04/03/1970,"5133 Main Court",San Jose,MA

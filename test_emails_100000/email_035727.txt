@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Jackson,shirley.jackson54@mail.com,+1 395-227-6800,245-13-2653,12-03-1983,"180 Pine Way",Chicago,WI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Reeves,timothy.reeves8839@outlook.com,277 650 3194,164-60-9598,01-12-1984,"2682 Summer Court",San Diego,AZ

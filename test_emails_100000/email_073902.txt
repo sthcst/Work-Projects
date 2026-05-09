@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Serrano,katherine.serrano6793@yahoo.com,208 290 4066,900 31 5048,1/18/1996,"4644 Sixth Court",San Jose,MA

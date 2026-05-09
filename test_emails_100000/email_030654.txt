@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Reyes
-  email: anthony.reyes1156@mail.com
-  phone: 791-909-3148
-  ssn: 239 29 9909
-  dob: 08/12/1993
-  address: 4727 Main Court
-  city: San Jose
-  state: FL

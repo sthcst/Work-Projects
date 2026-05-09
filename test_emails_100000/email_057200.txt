@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Young,amanda.young4474@business.net,+1 298-208-4811,156-81-3516,8/19/2005,"3906 Pine Ave",Austin,CA

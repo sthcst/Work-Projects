@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Martin
-  email: sarah.martin9727@gmail.com
-  phone: +1 784-238-4816
-  ssn: 334274720
-  dob: 02/25/1953
-  address: 853 Maple Ln
-  city: Jacksonville
-  state: CA

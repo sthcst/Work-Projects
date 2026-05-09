@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Reeves,katherine.reeves3963@outlook.com,+1 831-652-8016,566 59 2488,17/03/1983,"2064 First Blvd",San Diego,WI

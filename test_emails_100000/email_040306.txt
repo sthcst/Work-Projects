@@ -1,9 +1,0 @@
-contact:
-  name: Brian Edwards
-  email: brian.edwards7268@outlook.com
-  phone: (769) 788-8599
-  ssn: 471812258
-  dob: 5/7/1979
-  address: 6115 Birch Way
-  city: Seattle
-  state: OH

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Gomez,kevin.gomez2047@gmail.com,+1 212-384-4253,777-30-5707,07/11/1972,"2137 Park Rd",Phoenix,TX

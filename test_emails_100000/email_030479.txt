@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Alvarado,cynthia.alvarado3865@example.com,+1 293-312-7826,030 17 4167,12/9/1971,"8619 Spring Rd",Seattle,NJ

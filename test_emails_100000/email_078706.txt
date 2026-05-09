@@ -1,9 +1,0 @@
-contact:
-  name: Emily Peterson
-  email: emily.peterson6502@example.com
-  phone: +1 229-229-1501
-  ssn: 596 03 7611
-  dob: 4/6/1996
-  address: 1579 East Way
-  city: Houston
-  state: TX

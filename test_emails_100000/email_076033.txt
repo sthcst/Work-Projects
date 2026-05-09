@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Hall,robert.hall1069@outlook.com,861 479 9714,519-69-8831,3/15/1983,"6827 Maple St",Boston,PA

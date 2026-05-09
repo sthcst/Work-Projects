@@ -1,9 +1,0 @@
-contact:
-  name: Angela Serrano
-  email: angela.serrano596@work.org
-  phone: +1 353-770-2018
-  ssn: 421399047
-  dob: 06-26-1999
-  address: 6587 East St
-  city: Houston
-  state: VA

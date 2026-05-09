@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Stewart,stephanie.stewart6163@company.com,577 241 2951,953 37 4292,02-05-1994,"4669 Oak Blvd",Chicago,WA

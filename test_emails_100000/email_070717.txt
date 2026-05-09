@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Morgan
-  email: sarah.morgan6509@mail.com
-  phone: (528) 230-9650
-  ssn: 386-54-9301
-  dob: 20/10/1960
-  address: 313 Summer Blvd
-  city: San Diego
-  state: GA

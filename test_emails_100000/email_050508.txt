@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Gonzalez
-  email: timothy.gonzalez6394@company.com
-  phone: 440 896 6184
-  ssn: 982-17-3813
-  dob: 24/07/1972
-  address: 7803 Birch Dr
-  city: Dallas
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: John Johnson
-  email: john.johnson6791@work.org
-  phone: +1 927-415-2689
-  ssn: 631498474
-  dob: 07/27/1965
-  address: 3236 Birch Rd
-  city: Philadelphia
-  state: CA

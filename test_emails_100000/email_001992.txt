@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Ramirez
-  email: anthony.ramirez9253@business.net
-  phone: 241-653-2854
-  ssn: 933 14 5631
-  dob: 06-02-1992
-  address: 3024 Maple St
-  city: Houston
-  state: IL

@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Collins
-  email: jessica.collins7599@outlook.com
-  phone: 344 435 5425
-  ssn: 844 62 5421
-  dob: 06/06/1984
-  address: 5370 East St
-  city: Washington
-  state: TX

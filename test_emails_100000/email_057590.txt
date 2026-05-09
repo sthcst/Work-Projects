@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Taylor,nicholas.taylor1261@outlook.com,911-400-2483,827 04 3154,07-16-1959,"611 South Ave",San Diego,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Murillo,jane.murillo6413@yahoo.com,+1 405-554-1913,686983401,05-14-1958,"5301 Pine St",Washington,DC

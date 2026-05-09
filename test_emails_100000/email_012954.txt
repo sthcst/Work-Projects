@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Reyes,george.reyes9135@gmail.com,+1 756-579-9961,922 39 3427,01/25/1998,"4247 Fifth Blvd",Philadelphia,MA

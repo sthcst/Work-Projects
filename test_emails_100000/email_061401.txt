@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Flores
-  email: shirley.flores7493@gmail.com
-  phone: +1 822-768-3410
-  ssn: 349545679
-  dob: 20/03/1982
-  address: 7817 Pine Blvd
-  city: Los Angeles
-  state: TX

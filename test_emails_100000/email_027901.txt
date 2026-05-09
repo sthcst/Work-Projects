@@ -1,9 +1,0 @@
-contact:
-  name: Jane Flores
-  email: jane.flores8701@gmail.com
-  phone: (590) 469-2976
-  ssn: 780 20 2349
-  dob: 10/13/1956
-  address: 7557 Cedar Dr
-  city: Denver
-  state: PA

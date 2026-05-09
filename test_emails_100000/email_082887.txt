@@ -1,9 +1,0 @@
-contact:
-  name: Angela Young
-  email: angela.young1380@yahoo.com
-  phone: 770-323-7709
-  ssn: 402-31-1183
-  dob: 2/26/2001
-  address: 1318 Third Court
-  city: Chicago
-  state: WA

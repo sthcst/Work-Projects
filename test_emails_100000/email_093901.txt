@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Miller
-  email: kimberly.miller3823@yahoo.com
-  phone: +1 509-790-4223
-  ssn: 721543815
-  dob: 02/08/1998
-  address: 4519 Summer St
-  city: San Diego
-  state: WA

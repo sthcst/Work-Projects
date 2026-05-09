@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Sanchez,william.sanchez3508@work.org,+1 280-940-8891,620 39 1024,09/25/1953,"9323 Second Rd",Phoenix,WI

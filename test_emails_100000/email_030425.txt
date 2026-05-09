@@ -1,9 +1,0 @@
-contact:
-  name: Robert Clark
-  email: robert.clark5755@company.com
-  phone: (935) 399-6532
-  ssn: 272-19-3371
-  dob: 1/16/1967
-  address: 6576 Maple Dr
-  city: Denver
-  state: AZ

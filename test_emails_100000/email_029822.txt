@@ -1,9 +1,0 @@
-contact:
-  name: Maria Stewart
-  email: maria.stewart4328@example.com
-  phone: +1 725-333-7027
-  ssn: 642-65-1467
-  dob: 12/21/1950
-  address: 9544 Main Ln
-  city: Chicago
-  state: WI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Nunez,richard.nunez7272@business.net,(868) 243-1518,083-88-5642,21/11/1987,"2259 East Ave",Denver,WA

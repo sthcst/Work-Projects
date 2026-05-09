@@ -1,9 +1,0 @@
-contact:
-  name: Anna Phillips
-  email: anna.phillips8361@outlook.com
-  phone: 974 724 7309
-  ssn: 708 32 9223
-  dob: 09/04/1994
-  address: 1629 Elm Dr
-  city: San Jose
-  state: CA

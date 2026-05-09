@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Reyes
-  email: christopher.reyes4629@mail.com
-  phone: (572) 309-6571
-  ssn: 972766713
-  dob: 10-14-1971
-  address: 9688 Summer Rd
-  city: Boston
-  state: TX

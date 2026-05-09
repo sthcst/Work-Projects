@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Perez,lauren.perez6471@business.net,691 622 3560,865278021,5/8/1976,"3053 Second Court",Denver,CA

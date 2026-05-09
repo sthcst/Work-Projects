@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Thomas,paul.thomas894@example.com,515-889-3728,623915875,20/04/1995,"6368 Birch Ave",Philadelphia,GA

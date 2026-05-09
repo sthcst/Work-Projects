@@ -1,9 +1,0 @@
-contact:
-  name: Emma Carter
-  email: emma.carter9837@gmail.com
-  phone: (251) 303-9980
-  ssn: 192 07 6455
-  dob: 05/16/1996
-  address: 6149 Spring Ave
-  city: Chicago
-  state: TX

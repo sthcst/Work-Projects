@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Martinez,george.martinez8617@business.net,(264) 242-6335,556-70-7901,24/02/1990,"9302 East Dr",Denver,GA

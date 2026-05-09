@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Gomez,ryan.gomez5492@mail.com,537 396 3036,049-22-3742,07/08/1973,"8366 Summer St",Washington,CA

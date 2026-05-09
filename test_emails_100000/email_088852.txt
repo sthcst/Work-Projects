@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Parker,ronald.parker8408@gmail.com,867-776-5658,656083996,12-07-1997,"9944 Spring Dr",Los Angeles,CA

@@ -1,9 +1,0 @@
-contact:
-  name: Megan Lopez
-  email: megan.lopez5237@work.org
-  phone: +1 842-738-7760
-  ssn: 967 52 3578
-  dob: 05/06/1989
-  address: 3680 North St
-  city: San Antonio
-  state: MO

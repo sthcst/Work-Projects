@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Robinson,william.robinson5034@work.org,383-662-8481,436-13-7726,08/17/1975,"7096 Pine St",San Antonio,AZ

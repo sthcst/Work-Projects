@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Roberts,ronald.roberts2002@company.com,927 315 1010,875 28 1423,17/08/1976,"7822 Third Court",Phoenix,CA

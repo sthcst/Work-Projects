@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Parker,lauren.parker700@company.com,(968) 851-3125,708 26 4221,01/04/1966,"3935 Fourth Way",Dallas,CO

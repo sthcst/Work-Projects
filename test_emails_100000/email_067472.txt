@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Moore
-  email: lauren.moore3350@mail.com
-  phone: +1 899-910-7866
-  ssn: 371-97-4356
-  dob: 09/15/2000
-  address: 9187 Summer St
-  city: Dallas
-  state: FL

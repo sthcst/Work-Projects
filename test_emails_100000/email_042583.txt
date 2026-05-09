@@ -1,9 +1,0 @@
-contact:
-  name: Helen Delgado
-  email: helen.delgado88@outlook.com
-  phone: 549 513 4193
-  ssn: 167065905
-  dob: 11/27/1999
-  address: 3978 Second Ave
-  city: Denver
-  state: OH

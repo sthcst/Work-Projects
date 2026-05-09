@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Reyes,amanda.reyes6827@work.org,(753) 707-9405,106 19 3777,11/26/1959,"4949 Spring St",Jacksonville,MA

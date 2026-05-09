@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Martinez,donald.martinez1347@gmail.com,418 745 6387,155 96 4247,03-05-1992,"8878 Fourth St",Denver,TX

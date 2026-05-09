@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Perez,emma.perez5540@mail.com,+1 746-669-8938,668-09-1549,3/13/1950,"7396 Park Ln",Jacksonville,MI

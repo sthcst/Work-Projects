@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Gomez,james.gomez1988@mail.com,845-421-7011,898 30 6918,21/05/1971,"6111 Spring Ave",Houston,CA

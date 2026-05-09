@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Smith,richard.smith6080@yahoo.com,905-519-7788,325-90-8528,3/25/1970,"3665 Maple Ln",Jacksonville,CA

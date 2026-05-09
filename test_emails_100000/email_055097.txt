@@ -1,9 +1,0 @@
-contact:
-  name: Megan Hernandez
-  email: megan.hernandez3330@business.net
-  phone: (927) 938-4093
-  ssn: 588 75 1810
-  dob: 10/24/1967
-  address: 5856 Elm Ave
-  city: Los Angeles
-  state: PA

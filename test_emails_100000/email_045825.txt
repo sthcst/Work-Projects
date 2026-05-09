@@ -1,9 +1,0 @@
-contact:
-  name: Paul Harris
-  email: paul.harris5054@outlook.com
-  phone: (431) 686-7669
-  ssn: 205-44-3432
-  dob: 1/24/1988
-  address: 2820 Second Dr
-  city: Boston
-  state: WA

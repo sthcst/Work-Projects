@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Gomez
-  email: ashley.gomez4123@outlook.com
-  phone: 800-942-2731
-  ssn: 866882050
-  dob: 20/12/2005
-  address: 1989 Main Blvd
-  city: San Diego
-  state: CA

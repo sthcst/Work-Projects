@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Morris,brian.morris3274@work.org,611 421 6538,203 67 1628,08/06/1958,"6100 Oak Way",Seattle,IL

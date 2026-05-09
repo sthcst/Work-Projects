@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Nelson
-  email: ashley.nelson529@work.org
-  phone: +1 813-670-5033
-  ssn: 986 97 4559
-  dob: 08-16-2002
-  address: 5061 South Rd
-  city: Los Angeles
-  state: VA

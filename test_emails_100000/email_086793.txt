@@ -1,9 +1,0 @@
-contact:
-  name: Angela Lee
-  email: angela.lee7262@outlook.com
-  phone: (579) 266-1254
-  ssn: 033797076
-  dob: 4/28/1986
-  address: 7155 West Ln
-  city: Dallas
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Peterson
-  email: jennifer.peterson2709@mail.com
-  phone: +1 882-242-3714
-  ssn: 321965688
-  dob: 04/06/1995
-  address: 6465 Elm Ave
-  city: Phoenix
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Guerrero
-  email: samantha.guerrero8511@outlook.com
-  phone: 273 982 8550
-  ssn: 159501021
-  dob: 3/20/1965
-  address: 2675 Fifth Rd
-  city: Los Angeles
-  state: TX

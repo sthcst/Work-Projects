@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Reed,ronald.reed1966@yahoo.com,955-894-5119,848-22-2726,21/12/1992,"1464 Fourth Ln",Los Angeles,NY

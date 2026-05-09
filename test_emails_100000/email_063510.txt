@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Thomas
-  email: amanda.thomas6195@outlook.com
-  phone: 449-757-5078
-  ssn: 148748631
-  dob: 17/02/1975
-  address: 91 Spring Rd
-  city: Chicago
-  state: MI

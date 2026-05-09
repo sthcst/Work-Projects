@@ -1,9 +1,0 @@
-contact:
-  name: Angela Delgado
-  email: angela.delgado3787@gmail.com
-  phone: (548) 660-7707
-  ssn: 608-49-6379
-  dob: 4/18/1967
-  address: 838 First Blvd
-  city: Jacksonville
-  state: AZ

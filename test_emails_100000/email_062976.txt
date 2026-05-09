@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Garcia,christine.garcia4689@business.net,687-858-9282,985 08 4207,02/22/1989,"7319 First Ln",Phoenix,PA

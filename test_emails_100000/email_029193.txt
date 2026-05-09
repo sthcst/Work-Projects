@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Parker,kimberly.parker6374@company.com,(278) 902-2982,668-42-6196,05-10-1965,"8897 Sixth Rd",San Jose,FL

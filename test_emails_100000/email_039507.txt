@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Garcia
-  email: amanda.garcia5013@outlook.com
-  phone: +1 589-645-8875
-  ssn: 007 29 6887
-  dob: 01-22-1989
-  address: 4346 Elm Court
-  city: Jacksonville
-  state: MI

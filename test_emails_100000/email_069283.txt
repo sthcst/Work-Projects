@@ -1,9 +1,0 @@
-contact:
-  name: William Perez
-  email: william.perez8248@mail.com
-  phone: (486) 427-8910
-  ssn: 789 43 9108
-  dob: 8/6/1964
-  address: 1756 Elm Ln
-  city: Denver
-  state: IL

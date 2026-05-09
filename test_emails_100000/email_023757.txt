@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Johnson,nicholas.johnson5499@mail.com,897-785-9842,837-35-8719,21/11/1968,"3801 Cedar Dr",Phoenix,AZ

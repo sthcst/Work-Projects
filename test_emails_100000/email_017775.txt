@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Bell,joshua.bell8023@company.com,966 260 5637,124-08-7697,02/26/1974,"9917 First Court",New York,TX

@@ -1,9 +1,0 @@
-contact:
-  name: Gary Jones
-  email: gary.jones3080@business.net
-  phone: 644-619-3878
-  ssn: 535-81-3189
-  dob: 14/10/1972
-  address: 1976 Pine Way
-  city: Boston
-  state: CO

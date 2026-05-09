@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Moore
-  email: shirley.moore8772@company.com
-  phone: (832) 246-9352
-  ssn: 094-75-7326
-  dob: 04-07-1973
-  address: 2691 Sixth Blvd
-  city: Denver
-  state: MI

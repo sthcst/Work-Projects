@@ -1,9 +1,0 @@
-contact:
-  name: Edward White
-  email: edward.white2632@outlook.com
-  phone: 282 933 4314
-  ssn: 809-43-1282
-  dob: 09/07/1950
-  address: 2321 First Rd
-  city: Seattle
-  state: AZ

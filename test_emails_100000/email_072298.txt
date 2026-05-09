@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Lee,pamela.lee2721@company.com,871-354-2512,297434469,28/12/1950,"664 Main Way",Philadelphia,WA

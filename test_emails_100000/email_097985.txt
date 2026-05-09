@@ -1,9 +1,0 @@
-contact:
-  name: Edward Rogers
-  email: edward.rogers5775@gmail.com
-  phone: (703) 459-1928
-  ssn: 395792857
-  dob: 12/03/1952
-  address: 1509 Oak Court
-  city: Seattle
-  state: AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Moore,katherine.moore3720@company.com,(525) 793-9125,409-80-5320,11/24/1957,"8153 Fifth Ave",Philadelphia,FL

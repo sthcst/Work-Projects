@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Martin
-  email: jessica.martin5736@example.com
-  phone: 737-815-3647
-  ssn: 117 87 7437
-  dob: 04-01-1961
-  address: 9900 First Way
-  city: Austin
-  state: MA

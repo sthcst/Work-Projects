@@ -1,9 +1,0 @@
-contact:
-  name: Christine Hall
-  email: christine.hall5129@yahoo.com
-  phone: (733) 697-3511
-  ssn: 011188908
-  dob: 11-13-1966
-  address: 1830 Cedar Ave
-  city: Denver
-  state: MD

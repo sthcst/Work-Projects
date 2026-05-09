@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Walker
-  email: pamela.walker1223@yahoo.com
-  phone: 603 789 8779
-  ssn: 104928719
-  dob: 14/02/1958
-  address: 8186 Fourth Rd
-  city: Chicago
-  state: TX

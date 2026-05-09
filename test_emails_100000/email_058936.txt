@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Morgan
-  email: ryan.morgan4962@business.net
-  phone: +1 844-815-2080
-  ssn: 246547925
-  dob: 10/17/1990
-  address: 9335 East Way
-  city: Houston
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Maria White
-  email: maria.white4769@mail.com
-  phone: +1 465-406-3086
-  ssn: 979507253
-  dob: 11/12/1979
-  address: 7570 North Dr
-  city: Denver
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Young,rebecca.young1818@work.org,805 627 2385,740299782,15/01/1983,"3608 Fourth Blvd",Washington,MA

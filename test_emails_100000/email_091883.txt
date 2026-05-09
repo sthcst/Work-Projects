@@ -1,9 +1,0 @@
-contact:
-  name: Michael Parker
-  email: michael.parker5636@outlook.com
-  phone: (371) 542-7528
-  ssn: 405042217
-  dob: 6/2/1989
-  address: 3952 Main Ave
-  city: Seattle
-  state: FL

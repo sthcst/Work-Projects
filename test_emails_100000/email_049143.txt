@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Taylor,george.taylor9969@mail.com,+1 790-715-6100,451 89 4031,03/24/1964,"1119 West Court",Boston,WA

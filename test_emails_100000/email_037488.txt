@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Evans,william.evans7469@business.net,318-574-7144,120927263,08/28/1952,"7615 West Ave",Dallas,FL

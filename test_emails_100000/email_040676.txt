@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Rogers,nicholas.rogers8272@work.org,838 317 6115,461-79-1082,03/09/1994,"486 Maple Blvd",Chicago,CO

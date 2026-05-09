@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Moore
-  email: nicholas.moore8864@example.com
-  phone: 742 705 2561
-  ssn: 867398259
-  dob: 09/03/1984
-  address: 3514 First St
-  city: San Jose
-  state: TX

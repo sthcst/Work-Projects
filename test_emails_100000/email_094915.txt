@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Ortiz,joshua.ortiz6100@company.com,(783) 552-4882,967 38 4392,04/19/1953,"2225 Birch Way",Boston,WI

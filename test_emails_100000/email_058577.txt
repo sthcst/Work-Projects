@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Evans,george.evans2655@work.org,569-229-4323,014-36-1135,18/09/1982,"7687 Maple Ave",Austin,TN

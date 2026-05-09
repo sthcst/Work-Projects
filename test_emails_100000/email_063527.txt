@@ -1,9 +1,0 @@
-contact:
-  name: Edward Thompson
-  email: edward.thompson2430@business.net
-  phone: 320-240-6577
-  ssn: 668705133
-  dob: 26/01/1989
-  address: 1340 Spring St
-  city: San Diego
-  state: FL

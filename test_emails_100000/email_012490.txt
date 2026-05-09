@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Ramirez,kevin.ramirez2214@example.com,(363) 446-8803,407756826,10/28/2005,"4392 Main Blvd",Los Angeles,MA

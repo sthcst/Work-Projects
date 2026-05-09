@@ -1,9 +1,0 @@
-contact:
-  name: Paul Lee
-  email: paul.lee9839@business.net
-  phone: (726) 929-8079
-  ssn: 313922217
-  dob: 03-02-2001
-  address: 7985 Cedar Ave
-  city: Chicago
-  state: OH

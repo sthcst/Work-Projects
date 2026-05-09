@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Lopez,christine.lopez2653@business.net,694-725-8169,840 23 6053,02/02/1951,"3310 First Court",Los Angeles,MO

@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Johnson
-  email: timothy.johnson7231@work.org
-  phone: 287-587-4353
-  ssn: 293-56-8209
-  dob: 2/13/1982
-  address: 8710 Park Ave
-  city: Jacksonville
-  state: MA

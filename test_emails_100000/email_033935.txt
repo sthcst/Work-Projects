@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Martinez,sarah.martinez6359@outlook.com,+1 844-618-8081,646972122,02-21-1978,"2456 Park Ave",Boston,IL

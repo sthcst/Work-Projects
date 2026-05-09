@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Wilson
-  email: pamela.wilson8106@yahoo.com
-  phone: 522 969 1240
-  ssn: 268 12 5095
-  dob: 12-01-1992
-  address: 7258 South St
-  city: San Diego
-  state: NJ

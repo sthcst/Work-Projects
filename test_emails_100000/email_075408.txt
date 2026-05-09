@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Evans
-  email: rachel.evans6442@business.net
-  phone: (773) 463-9856
-  ssn: 718 59 9230
-  dob: 02/24/1950
-  address: 5013 Summer Way
-  city: Chicago
-  state: FL

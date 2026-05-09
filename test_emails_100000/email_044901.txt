@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Jimenez
-  email: timothy.jimenez3139@example.com
-  phone: 384-858-3071
-  ssn: 329-91-9948
-  dob: 09-15-1970
-  address: 9400 Summer St
-  city: San Diego
-  state: AZ

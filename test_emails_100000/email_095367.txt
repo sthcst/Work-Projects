@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Reeves
-  email: pamela.reeves8594@business.net
-  phone: 278-883-2077
-  ssn: 225107378
-  dob: 01/01/1987
-  address: 4281 Oak Ln
-  city: San Jose
-  state: FL

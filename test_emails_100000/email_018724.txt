@@ -1,9 +1,0 @@
-contact:
-  name: Angela Stewart
-  email: angela.stewart5111@work.org
-  phone: (773) 467-6057
-  ssn: 912-35-2820
-  dob: 01-21-1988
-  address: 9813 Main St
-  city: Los Angeles
-  state: CA

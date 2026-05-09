@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Jimenez,cynthia.jimenez5068@mail.com,+1 536-236-5906,661 98 7533,09/18/1962,"8944 Third Rd",Los Angeles,MD

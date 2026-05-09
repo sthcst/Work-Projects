@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Bell
-  email: samantha.bell583@business.net
-  phone: 672 756 9326
-  ssn: 125737054
-  dob: 05/18/1973
-  address: 5190 Fourth St
-  city: Jacksonville
-  state: NY

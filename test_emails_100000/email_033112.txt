@@ -1,9 +1,0 @@
-contact:
-  name: William Campbell
-  email: william.campbell2107@company.com
-  phone: 629 750 3701
-  ssn: 860 74 7472
-  dob: 7/22/1988
-  address: 3424 Cedar Dr
-  city: Seattle
-  state: WA

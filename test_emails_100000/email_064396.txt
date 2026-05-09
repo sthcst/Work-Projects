@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Hernandez,helen.hernandez6719@business.net,793 360 7843,209 49 9291,8/23/1976,"8903 Summer Blvd",Los Angeles,NY

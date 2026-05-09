@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Harris,stephanie.harris732@work.org,723 538 3213,065 28 5125,08-07-2002,"7845 Fifth Ave",San Jose,AZ

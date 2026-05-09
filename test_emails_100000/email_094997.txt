@@ -1,9 +1,0 @@
-contact:
-  name: Charles Gomez
-  email: charles.gomez3657@company.com
-  phone: 921-341-8791
-  ssn: 893 26 3617
-  dob: 2/26/1996
-  address: 3087 Park St
-  city: San Jose
-  state: WA

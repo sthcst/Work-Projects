@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Wilson
-  email: kimberly.wilson6715@outlook.com
-  phone: 556 244 5931
-  ssn: 780 80 7318
-  dob: 09/20/1968
-  address: 5187 Sixth Rd
-  city: San Jose
-  state: CA

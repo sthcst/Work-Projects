@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Gonzalez,amanda.gonzalez7234@mail.com,(869) 521-5117,728-65-2537,09-27-2005,"1534 Cedar Ln",Austin,NY

@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Hernandez
-  email: kevin.hernandez8339@example.com
-  phone: (932) 390-5578
-  ssn: 836 40 6931
-  dob: 12/10/2002
-  address: 5121 Cedar Blvd
-  city: Jacksonville
-  state: MI

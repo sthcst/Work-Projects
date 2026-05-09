@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Peterson,maria.peterson5847@gmail.com,+1 549-389-7874,132 47 8740,11/05/1957,"1687 Fifth Ave",Austin,TX

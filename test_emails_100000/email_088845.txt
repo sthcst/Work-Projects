@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Martinez,deborah.martinez8770@company.com,+1 626-477-4167,990522188,09/08/2001,"8619 Oak Ave",New York,GA

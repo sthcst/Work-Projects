@@ -1,9 +1,0 @@
-contact:
-  name: Maria Hall
-  email: maria.hall265@mail.com
-  phone: 814-440-6729
-  ssn: 112 10 9305
-  dob: 2/17/1954
-  address: 3353 North Blvd
-  city: Denver
-  state: IL

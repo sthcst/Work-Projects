@@ -1,9 +1,0 @@
-contact:
-  name: Brian Peterson
-  email: brian.peterson9200@yahoo.com
-  phone: 432-991-4526
-  ssn: 341889159
-  dob: 03/01/1989
-  address: 8776 South Dr
-  city: Chicago
-  state: AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Cooper,joseph.cooper3460@outlook.com,(618) 966-9692,061 93 1927,02/06/1968,"3625 Fourth Ave",San Antonio,PA

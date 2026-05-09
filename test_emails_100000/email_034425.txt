@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Reeves
-  email: anthony.reeves2817@company.com
-  phone: 704-659-9538
-  ssn: 873-69-3318
-  dob: 14/11/1963
-  address: 461 South Court
-  city: Austin
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Lee
-  email: daniel.lee2443@company.com
-  phone: 828-514-8621
-  ssn: 723 21 2850
-  dob: 19/01/1986
-  address: 9849 Spring Blvd
-  city: Jacksonville
-  state: WI

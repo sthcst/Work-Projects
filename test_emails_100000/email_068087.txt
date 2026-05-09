@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Gonzalez
-  email: pamela.gonzalez1990@yahoo.com
-  phone: 942-708-7049
-  ssn: 090843155
-  dob: 04/13/1994
-  address: 8951 Fourth Ln
-  city: Boston
-  state: FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Phillips,donald.phillips4861@business.net,205-881-9549,461-88-1610,17/12/1950,"3342 Maple Ave",Denver,WA

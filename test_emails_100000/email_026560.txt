@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Sanchez,amanda.sanchez8230@mail.com,(901) 599-9038,997 19 4275,07/01/1992,"3392 Third Blvd",Chicago,AZ

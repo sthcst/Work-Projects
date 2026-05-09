@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Lewis,kevin.lewis3992@company.com,604-725-1816,542 31 6466,12/22/1980,"3526 Elm St",Washington,CA

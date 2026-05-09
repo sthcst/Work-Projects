@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Edwards,lisa.edwards9475@gmail.com,455 399 4226,639-24-2907,16/03/2004,"2517 Elm Rd",Jacksonville,CA

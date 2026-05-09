@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Taylor,sarah.taylor3940@work.org,636-708-7070,950491238,05/03/1954,"5417 West Ave",Phoenix,CA

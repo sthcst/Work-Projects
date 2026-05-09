@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Nelson,timothy.nelson3354@mail.com,889 901 3604,627 65 8430,17/07/1984,"2437 Fourth Ln",Austin,CA

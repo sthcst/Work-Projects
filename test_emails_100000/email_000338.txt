@@ -1,9 +1,0 @@
-contact:
-  name: Mark Romero
-  email: mark.romero3830@work.org
-  phone: +1 548-287-6129
-  ssn: 867258025
-  dob: 07/07/1978
-  address: 9159 Main Blvd
-  city: Phoenix
-  state: NC

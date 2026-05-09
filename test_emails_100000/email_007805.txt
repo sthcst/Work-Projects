@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Moore,timothy.moore5011@business.net,645 476 1699,600-98-7232,7/21/1976,"4294 Sixth Ln",Dallas,NJ

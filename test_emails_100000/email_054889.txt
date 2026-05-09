@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Young
-  email: katherine.young8448@mail.com
-  phone: 925-936-7673
-  ssn: 031 42 2410
-  dob: 02-17-1970
-  address: 3327 Third Blvd
-  city: San Diego
-  state: TX

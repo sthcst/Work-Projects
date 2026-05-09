@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Delgado
-  email: timothy.delgado4632@business.net
-  phone: (938) 459-6406
-  ssn: 259036736
-  dob: 04/01/1995
-  address: 9888 Birch Ln
-  city: Denver
-  state: NY

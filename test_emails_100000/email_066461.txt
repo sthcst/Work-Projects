@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Campbell,stephanie.campbell4336@outlook.com,329-297-7176,646-93-5677,12-22-1958,"298 East Rd",Austin,MA

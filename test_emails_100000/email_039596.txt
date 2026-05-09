@@ -1,9 +1,0 @@
-contact:
-  name: Donald Rodriguez
-  email: donald.rodriguez5873@gmail.com
-  phone: 948 661 2644
-  ssn: 920-94-2881
-  dob: 6/17/1969
-  address: 1542 Fifth Ln
-  city: Philadelphia
-  state: TX

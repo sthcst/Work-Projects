@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Nunez
-  email: katherine.nunez84@yahoo.com
-  phone: (340) 363-7671
-  ssn: 092 88 6714
-  dob: 07/07/1963
-  address: 8857 Spring Rd
-  city: Phoenix
-  state: TX

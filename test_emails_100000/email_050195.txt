@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Jones,ashley.jones6990@company.com,(948) 268-3434,861825339,02/04/1991,"5852 Elm Ln",Austin,OH

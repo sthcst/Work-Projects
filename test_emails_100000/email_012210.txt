@@ -1,9 +1,0 @@
-contact:
-  name: Gary Morgan
-  email: gary.morgan978@company.com
-  phone: 344 499 9301
-  ssn: 265 76 5749
-  dob: 11/28/1962
-  address: 2681 Fifth Court
-  city: Austin
-  state: TX

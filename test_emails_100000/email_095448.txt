@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Lee,mark.lee9188@company.com,405-359-4698,125395820,03/02/1989,"7030 Sixth Ave",Boston,PA

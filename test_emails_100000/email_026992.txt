@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Rogers
-  email: daniel.rogers8345@example.com
-  phone: 360 771 2779
-  ssn: 804799013
-  dob: 04/08/1950
-  address: 484 Cedar St
-  city: Los Angeles
-  state: AZ

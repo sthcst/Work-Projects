@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Harris
-  email: jacob.harris4313@example.com
-  phone: +1 953-493-6811
-  ssn: 407201873
-  dob: 04/23/1962
-  address: 7558 West Blvd
-  city: Austin
-  state: WA

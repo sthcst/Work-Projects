@@ -1,9 +1,0 @@
-contact:
-  name: Angela Romero
-  email: angela.romero5366@example.com
-  phone: +1 521-661-6646
-  ssn: 309454861
-  dob: 18/03/1977
-  address: 7691 Pine Ave
-  city: San Jose
-  state: CO

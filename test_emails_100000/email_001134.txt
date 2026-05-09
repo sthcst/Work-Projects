@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Collins,cynthia.collins3052@gmail.com,893 724 1377,724 19 9454,01/26/1974,"4729 Fourth St",Philadelphia,MA

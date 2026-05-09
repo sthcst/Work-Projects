@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Rogers,helen.rogers279@gmail.com,(942) 270-5397,612 42 1459,15/08/2005,"5734 Sixth Ave",Seattle,TX

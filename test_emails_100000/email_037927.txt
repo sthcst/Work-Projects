@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Carter
-  email: jacob.carter5135@example.com
-  phone: (462) 962-7620
-  ssn: 849 45 4856
-  dob: 20/09/1993
-  address: 6934 Sixth Ln
-  city: Dallas
-  state: MI

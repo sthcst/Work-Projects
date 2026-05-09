@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Morgan
-  email: rachel.morgan4901@company.com
-  phone: (763) 606-3006
-  ssn: 786184874
-  dob: 02/27/1981
-  address: 1045 Second Way
-  city: Phoenix
-  state: FL

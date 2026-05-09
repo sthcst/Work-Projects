@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Perez
-  email: joseph.perez2346@outlook.com
-  phone: (712) 427-7631
-  ssn: 009 18 6524
-  dob: 07-26-1994
-  address: 1330 Cedar St
-  city: Los Angeles
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Johnson
-  email: anthony.johnson3817@business.net
-  phone: +1 880-698-5837
-  ssn: 849172522
-  dob: 03/11/1977
-  address: 2336 Fifth Ave
-  city: New York
-  state: IL

@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Morgan
-  email: anthony.morgan6017@yahoo.com
-  phone: 992-416-9844
-  ssn: 924425130
-  dob: 09-06-1991
-  address: 7774 Birch Ln
-  city: Houston
-  state: FL

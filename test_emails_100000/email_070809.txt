@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Evans
-  email: ryan.evans4139@yahoo.com
-  phone: 488 958 9677
-  ssn: 196922300
-  dob: 10-07-1984
-  address: 7167 Park Blvd
-  city: Phoenix
-  state: FL

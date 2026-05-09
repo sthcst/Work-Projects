@@ -1,9 +1,0 @@
-contact:
-  name: Angela Perez
-  email: angela.perez6656@outlook.com
-  phone: +1 639-992-6928
-  ssn: 402 97 1794
-  dob: 04/07/1969
-  address: 9822 Pine Way
-  city: Dallas
-  state: MA

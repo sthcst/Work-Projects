@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Thomas
-  email: jeffrey.thomas6874@business.net
-  phone: 311 713 1675
-  ssn: 497-69-6419
-  dob: 18/08/1962
-  address: 572 Third Way
-  city: San Jose
-  state: OH

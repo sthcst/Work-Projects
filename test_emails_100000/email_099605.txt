@@ -1,9 +1,0 @@
-contact:
-  name: Michael Ramirez
-  email: michael.ramirez3955@yahoo.com
-  phone: (738) 540-4380
-  ssn: 064 64 7344
-  dob: 09/07/2002
-  address: 494 Fifth Ln
-  city: Houston
-  state: IL

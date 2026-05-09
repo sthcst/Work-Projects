@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Parker
-  email: christopher.parker5188@company.com
-  phone: (294) 597-9050
-  ssn: 237-27-8775
-  dob: 11-23-1967
-  address: 6280 Spring St
-  city: San Antonio
-  state: TX

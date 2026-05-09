@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Thompson,timothy.thompson4916@outlook.com,939-888-2491,541801837,07/27/1955,"8810 Summer Ave",San Antonio,MI

@@ -1,9 +1,0 @@
-contact:
-  name: Donald Rodriguez
-  email: donald.rodriguez3255@work.org
-  phone: +1 901-323-7792
-  ssn: 392-78-5794
-  dob: 7/13/1956
-  address: 3553 Second Dr
-  city: Los Angeles
-  state: DC

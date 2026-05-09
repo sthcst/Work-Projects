@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Perez
-  email: ashley.perez6110@business.net
-  phone: +1 388-515-5272
-  ssn: 681427046
-  dob: 14/03/1965
-  address: 8415 West Court
-  city: New York
-  state: CA

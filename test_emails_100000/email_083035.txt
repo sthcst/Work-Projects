@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Morris,anthony.morris498@mail.com,666 840 1917,020538424,10/1/1985,"8247 Pine Court",Austin,TN

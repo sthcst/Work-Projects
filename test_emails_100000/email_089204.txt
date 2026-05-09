@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Smith
-  email: rebecca.smith4560@mail.com
-  phone: 803 572 9493
-  ssn: 771-61-5482
-  dob: 10/26/1957
-  address: 3500 Cedar Blvd
-  city: Philadelphia
-  state: CA

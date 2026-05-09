@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Serrano,shirley.serrano8201@outlook.com,(620) 889-5848,236 59 9233,16/06/1969,"9929 Main St",Boston,AZ

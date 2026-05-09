@@ -1,9 +1,0 @@
-contact:
-  name: Angela Reed
-  email: angela.reed3379@work.org
-  phone: (328) 958-8746
-  ssn: 995978543
-  dob: 03/06/1977
-  address: 3567 First Way
-  city: Austin
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Brian Smith
-  email: brian.smith5039@yahoo.com
-  phone: (807) 655-3559
-  ssn: 399-55-6546
-  dob: 4/20/1979
-  address: 2658 Summer Rd
-  city: San Diego
-  state: IL

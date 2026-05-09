@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Serrano
-  email: jessica.serrano295@outlook.com
-  phone: 580 692 6065
-  ssn: 507665357
-  dob: 10/10/1969
-  address: 8132 Park Rd
-  city: Seattle
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Reyes
-  email: ronald.reyes4253@example.com
-  phone: +1 729-242-7934
-  ssn: 788-35-1281
-  dob: 08/04/1977
-  address: 3825 Cedar Court
-  city: Boston
-  state: VA

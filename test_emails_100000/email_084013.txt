@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Morris,brenda.morris3993@mail.com,424 453 3076,258 66 9709,05-12-2005,"2530 Birch Blvd",Jacksonville,AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Taylor
-  email: daniel.taylor6593@example.com
-  phone: 261 884 1319
-  ssn: 884 56 2296
-  dob: 10/25/1988
-  address: 5675 Maple Ln
-  city: Boston
-  state: CO

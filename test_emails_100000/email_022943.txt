@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Rodriguez
-  email: joshua.rodriguez6090@work.org
-  phone: (228) 219-6360
-  ssn: 767-75-1962
-  dob: 27/01/2005
-  address: 7160 Birch Blvd
-  city: San Diego
-  state: MI

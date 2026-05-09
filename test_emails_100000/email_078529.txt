@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Martin,amanda.martin9311@mail.com,959 625 5331,486-70-4939,11/14/1981,"446 Spring Court",Philadelphia,WA

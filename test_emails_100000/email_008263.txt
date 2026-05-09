@@ -1,9 +1,0 @@
-contact:
-  name: Edward Morgan
-  email: edward.morgan1781@company.com
-  phone: 710-744-9435
-  ssn: 555061151
-  dob: 03/11/1969
-  address: 8803 Pine Dr
-  city: Austin
-  state: TX

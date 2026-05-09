@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Lewis,katherine.lewis5082@business.net,578 334 8783,668 59 5560,02-14-1980,"2267 Cedar Dr",Boston,PA

@@ -1,9 +1,0 @@
-contact:
-  name: David Jones
-  email: david.jones4778@example.com
-  phone: +1 418-833-5530
-  ssn: 508 87 7873
-  dob: 05/02/1963
-  address: 4631 Pine Rd
-  city: Houston
-  state: AZ

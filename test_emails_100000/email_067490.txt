@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Campbell,shirley.campbell701@example.com,(836) 805-4037,456024899,04-08-1983,"1449 Maple Blvd",Jacksonville,NJ

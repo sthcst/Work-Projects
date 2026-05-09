@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Taylor,kimberly.taylor3683@gmail.com,699-744-6021,740 08 1324,09/05/2000,"4092 Second Way",Philadelphia,FL

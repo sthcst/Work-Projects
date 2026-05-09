@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Evans,michael.evans7923@outlook.com,+1 539-557-1267,551-56-7926,17/03/1960,"6652 Maple Ln",Phoenix,CA

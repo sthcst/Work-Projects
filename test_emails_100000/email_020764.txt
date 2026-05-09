@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Smith
-  email: rebecca.smith721@yahoo.com
-  phone: +1 588-533-8996
-  ssn: 131-76-3366
-  dob: 5/7/1973
-  address: 2989 East St
-  city: Jacksonville
-  state: MI

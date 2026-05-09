@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Gomez,michelle.gomez8261@work.org,707 957 2010,791 49 3665,05/22/1999,"1031 Maple St",Washington,CA

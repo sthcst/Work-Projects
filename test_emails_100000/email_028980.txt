@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Edwards,joshua.edwards2231@example.com,675-837-4785,296-73-2854,01/11/1976,"6096 South Way",Dallas,WI

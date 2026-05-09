@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Dominguez,brian.dominguez6297@work.org,532 703 5117,862 73 8754,02/16/2000,"4132 Fourth Way",Washington,CA

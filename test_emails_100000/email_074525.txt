@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Murillo,kathleen.murillo2065@business.net,784 434 3738,940703718,3/28/1967,"3316 Pine St",Boston,VA

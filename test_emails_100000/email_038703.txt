@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Robinson,nicholas.robinson7384@gmail.com,+1 276-634-2539,953 64 3353,12-13-1963,"7882 Fifth Ave",Seattle,TX

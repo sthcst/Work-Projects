@@ -1,9 +1,0 @@
-contact:
-  name: John Reyes
-  email: john.reyes684@outlook.com
-  phone: (366) 343-2333
-  ssn: 459-02-8592
-  dob: 01/06/1964
-  address: 8528 Sixth Dr
-  city: Philadelphia
-  state: AZ

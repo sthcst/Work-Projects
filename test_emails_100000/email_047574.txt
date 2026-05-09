@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Ramirez,robert.ramirez6814@mail.com,(629) 600-8531,153-12-8232,27/04/1992,"9549 Maple Ln",Washington,VA

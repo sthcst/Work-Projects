@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Delgado
-  email: brenda.delgado8371@company.com
-  phone: 835 725 3451
-  ssn: 616 69 6157
-  dob: 11/12/1983
-  address: 95 Sixth Ln
-  city: San Jose
-  state: MA

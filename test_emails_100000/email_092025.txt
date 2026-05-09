@@ -1,9 +1,0 @@
-contact:
-  name: Edward Brown
-  email: edward.brown1608@business.net
-  phone: (683) 832-9825
-  ssn: 328061504
-  dob: 9/2/2000
-  address: 287 Birch Way
-  city: San Diego
-  state: CA

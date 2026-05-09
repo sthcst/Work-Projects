@@ -1,9 +1,0 @@
-contact:
-  name: James Gonzalez
-  email: james.gonzalez9412@yahoo.com
-  phone: +1 820-661-8225
-  ssn: 232774013
-  dob: 25/07/1986
-  address: 9579 Pine Blvd
-  city: Los Angeles
-  state: OH

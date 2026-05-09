@@ -1,9 +1,0 @@
-contact:
-  name: Emma Morris
-  email: emma.morris369@outlook.com
-  phone: (707) 838-5296
-  ssn: 185-40-2767
-  dob: 11-03-1966
-  address: 3892 Sixth Ln
-  city: Los Angeles
-  state: AZ

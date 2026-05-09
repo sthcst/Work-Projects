@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Flores,donald.flores2689@outlook.com,+1 847-473-5965,139091681,02/17/1989,"4340 South Dr",Jacksonville,TX

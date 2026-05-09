@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Parker,charles.parker1916@company.com,279-390-7833,848-09-9039,6/12/1991,"9951 Sixth Ave",Washington,CA

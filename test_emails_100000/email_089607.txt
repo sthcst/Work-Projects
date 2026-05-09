@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Harris,rachel.harris6499@yahoo.com,+1 248-549-9690,803-80-6305,6/8/1969,"4367 North Rd",Los Angeles,TX

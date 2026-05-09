@@ -1,9 +1,0 @@
-contact:
-  name: Megan Jackson
-  email: megan.jackson7848@example.com
-  phone: 775 329 8279
-  ssn: 218 62 4664
-  dob: 19/03/1992
-  address: 2260 North Rd
-  city: New York
-  state: DC

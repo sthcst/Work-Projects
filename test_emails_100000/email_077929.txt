@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Jones
-  email: kathleen.jones7900@example.com
-  phone: (780) 223-2394
-  ssn: 193 10 3827
-  dob: 08-21-1993
-  address: 4039 Third Court
-  city: Dallas
-  state: WA

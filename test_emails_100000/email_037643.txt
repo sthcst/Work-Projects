@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Gonzalez,rachel.gonzalez5156@example.com,215-832-8441,289-68-6450,06/12/1992,"7038 Pine Ave",Denver,MA

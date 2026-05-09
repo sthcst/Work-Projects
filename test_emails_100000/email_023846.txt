@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Hall
-  email: kenneth.hall2561@mail.com
-  phone: +1 416-495-9367
-  ssn: 642-68-1120
-  dob: 5/25/1958
-  address: 3136 Maple St
-  city: Dallas
-  state: GA

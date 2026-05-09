@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Morgan,helen.morgan6377@company.com,871-956-2503,566-70-9691,27/07/1963,"8605 Pine Ave",Philadelphia,TX

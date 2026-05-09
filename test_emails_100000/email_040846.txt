@@ -1,9 +1,0 @@
-contact:
-  name: Robert Walker
-  email: robert.walker6488@company.com
-  phone: +1 542-560-8384
-  ssn: 050571986
-  dob: 02-14-1986
-  address: 4046 Sixth Rd
-  city: Phoenix
-  state: TX

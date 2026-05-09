@@ -1,9 +1,0 @@
-contact:
-  name: Robert Nunez
-  email: robert.nunez2863@business.net
-  phone: 462 204 2931
-  ssn: 901235597
-  dob: 05-17-1961
-  address: 9203 Sixth Way
-  city: Chicago
-  state: VA

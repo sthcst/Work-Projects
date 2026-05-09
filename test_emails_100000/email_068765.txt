@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Moore
-  email: andrew.moore8850@mail.com
-  phone: 653-440-9234
-  ssn: 182012456
-  dob: 01-18-1977
-  address: 1946 Spring Rd
-  city: Chicago
-  state: OH

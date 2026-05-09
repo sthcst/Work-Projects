@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Gomez
-  email: samantha.gomez3446@business.net
-  phone: +1 985-360-3010
-  ssn: 800-87-1388
-  dob: 21/09/1969
-  address: 6919 East Way
-  city: Washington
-  state: CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Morris,ashley.morris4693@mail.com,(919) 427-8759,768-96-4025,3/7/1961,"466 Third Way",Washington,OH

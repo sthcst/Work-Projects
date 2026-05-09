@@ -1,9 +1,0 @@
-contact:
-  name: Michael Perez
-  email: michael.perez1300@example.com
-  phone: (666) 793-7695
-  ssn: 779 57 3117
-  dob: 18/07/1985
-  address: 8662 West Rd
-  city: San Antonio
-  state: MA

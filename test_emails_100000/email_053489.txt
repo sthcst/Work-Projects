@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Morgan,john.morgan6744@work.org,493 965 4624,920865657,9/24/2002,"6027 Park Dr",Houston,TX

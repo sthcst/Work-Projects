@@ -1,9 +1,0 @@
-contact:
-  name: Edward Rogers
-  email: edward.rogers4516@outlook.com
-  phone: +1 972-255-4447
-  ssn: 880522180
-  dob: 06-05-2003
-  address: 1704 North Court
-  city: Los Angeles
-  state: IL

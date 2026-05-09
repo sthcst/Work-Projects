@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Walker,megan.walker3227@business.net,+1 313-894-3078,708293954,01/17/1970,"6665 Fifth Rd",Washington,TN

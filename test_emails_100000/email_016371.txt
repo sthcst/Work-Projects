@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Anderson
-  email: jeffrey.anderson6695@mail.com
-  phone: +1 688-442-5786
-  ssn: 381 79 4810
-  dob: 12/16/1991
-  address: 261 Oak Way
-  city: San Jose
-  state: TX

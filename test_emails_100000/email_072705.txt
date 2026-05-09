@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Jackson,ronald.jackson1728@company.com,554 221 3734,411-47-8005,06-19-1984,"1589 Elm Way",Jacksonville,NY

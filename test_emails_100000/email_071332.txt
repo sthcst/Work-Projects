@@ -1,9 +1,0 @@
-contact:
-  name: Emily Reed
-  email: emily.reed3760@mail.com
-  phone: 917 893 3087
-  ssn: 405-22-2636
-  dob: 15/11/1966
-  address: 6643 Park Dr
-  city: Seattle
-  state: MO

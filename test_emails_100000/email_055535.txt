@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Williams,maria.williams9802@yahoo.com,491 388 3212,414969605,08/03/1994,"3962 Spring Blvd",Dallas,FL

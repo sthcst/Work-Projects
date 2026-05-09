@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Nelson
-  email: katherine.nelson6654@company.com
-  phone: 965 645 9603
-  ssn: 663987254
-  dob: 10-24-1976
-  address: 9570 Park Blvd
-  city: Washington
-  state: WA

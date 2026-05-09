@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Moore,christine.moore1056@company.com,+1 667-927-4903,721-59-2996,9/27/1973,"5429 Second Way",Houston,CA

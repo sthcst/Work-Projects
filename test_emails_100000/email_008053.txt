@@ -1,9 +1,0 @@
-contact:
-  name: Maria Flores
-  email: maria.flores212@outlook.com
-  phone: 468 529 2776
-  ssn: 651-20-2286
-  dob: 4/27/1955
-  address: 8659 Birch Court
-  city: New York
-  state: IL

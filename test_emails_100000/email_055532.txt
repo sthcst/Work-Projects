@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Brown,shirley.brown7362@mail.com,(202) 629-3202,136-15-5065,12-05-1964,"6667 South Court",Chicago,MI

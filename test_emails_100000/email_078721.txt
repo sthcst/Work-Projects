@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Flores
-  email: kathleen.flores7734@company.com
-  phone: 539 374 2882
-  ssn: 956 39 8728
-  dob: 09/20/1968
-  address: 2025 Park Dr
-  city: Boston
-  state: TX

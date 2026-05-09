@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Miller,steven.miller614@gmail.com,+1 674-949-8031,090-54-7910,04/23/1970,"4840 East St",San Diego,MD

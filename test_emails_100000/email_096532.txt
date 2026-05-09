@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Dominguez,lisa.dominguez1617@mail.com,+1 844-289-8209,951 71 9142,10/04/1984,"5774 Second Ave",Chicago,CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Roberts,david.roberts4541@company.com,470 732 4689,599-13-8998,05-05-1992,"7044 First Way",Austin,FL

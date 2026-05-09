@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Stewart,jane.stewart7528@mail.com,(726) 518-4803,633728199,12/03/1974,"6669 East Blvd",Phoenix,CA

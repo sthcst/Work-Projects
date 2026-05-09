@@ -1,9 +1,0 @@
-contact:
-  name: John Smith
-  email: john.smith9172@work.org
-  phone: 456-599-3979
-  ssn: 596-71-2000
-  dob: 21/04/1982
-  address: 6503 West Ave
-  city: San Jose
-  state: MD

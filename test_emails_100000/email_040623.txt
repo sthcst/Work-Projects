@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Flores,donald.flores1837@gmail.com,708 607 3929,244-70-6827,10/28/1977,"6238 Sixth Dr",San Diego,FL

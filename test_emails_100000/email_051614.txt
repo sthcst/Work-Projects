@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Perez,george.perez2042@outlook.com,+1 835-387-5932,233139684,05-12-1971,"444 Pine Court",Austin,OH

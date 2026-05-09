@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Hernandez,steven.hernandez666@example.com,529-590-5546,923-72-1146,09-19-1959,"9194 Fifth Rd",Washington,MI

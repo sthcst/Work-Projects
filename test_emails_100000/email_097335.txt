@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Miller
-  email: nicole.miller8315@yahoo.com
-  phone: (295) 582-5755
-  ssn: 691-10-8869
-  dob: 06/16/1996
-  address: 2497 Sixth Blvd
-  city: Washington
-  state: TN

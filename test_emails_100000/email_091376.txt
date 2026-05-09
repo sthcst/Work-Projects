@@ -1,9 +1,0 @@
-contact:
-  name: Anna Delgado
-  email: anna.delgado8004@mail.com
-  phone: (442) 658-1203
-  ssn: 030-90-2678
-  dob: 27/04/1972
-  address: 5175 Elm Dr
-  city: Philadelphia
-  state: FL

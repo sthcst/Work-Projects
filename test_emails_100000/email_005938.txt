@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Martin,john.martin7968@work.org,(751) 511-5445,609175469,09-13-1965,"9498 South Ln",Phoenix,TX

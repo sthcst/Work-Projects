@@ -1,9 +1,0 @@
-contact:
-  name: Maria Parker
-  email: maria.parker1059@work.org
-  phone: 383-426-3422
-  ssn: 083 29 3164
-  dob: 10-28-1960
-  address: 7576 Birch Blvd
-  city: Jacksonville
-  state: MA

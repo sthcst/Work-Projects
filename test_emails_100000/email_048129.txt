@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Clark,christopher.clark8535@yahoo.com,412-258-7571,070 42 3981,10-22-1990,"2167 North Ave",San Jose,CO

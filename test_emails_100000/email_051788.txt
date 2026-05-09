@@ -1,9 +1,0 @@
-contact:
-  name: Christine Davis
-  email: christine.davis8675@example.com
-  phone: (489) 815-6949
-  ssn: 307 82 9560
-  dob: 11-10-1971
-  address: 6962 Cedar Ave
-  city: Austin
-  state: DC

@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Stewart
-  email: matthew.stewart6939@work.org
-  phone: +1 882-871-4060
-  ssn: 158 08 2482
-  dob: 01/13/1968
-  address: 154 Second Ln
-  city: San Jose
-  state: WA

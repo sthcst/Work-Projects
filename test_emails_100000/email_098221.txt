@@ -1,9 +1,0 @@
-contact:
-  name: Jane Moore
-  email: jane.moore8556@work.org
-  phone: 505-831-2875
-  ssn: 277532374
-  dob: 07/05/1976
-  address: 219 South Court
-  city: Washington
-  state: MI

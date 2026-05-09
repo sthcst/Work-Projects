@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Bell,jason.bell4991@company.com,+1 856-405-4902,684 63 2702,02-02-1997,"4403 Third Dr",Los Angeles,MA

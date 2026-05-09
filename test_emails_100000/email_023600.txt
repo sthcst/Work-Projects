@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Martin,kathleen.martin9507@mail.com,584 338 9533,257764962,9/6/2002,"2539 Birch Blvd",Washington,MI

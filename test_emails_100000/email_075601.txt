@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Hall,christine.hall3441@work.org,379 572 8440,351357172,04/05/1981,"2414 Elm Blvd",Chicago,WA

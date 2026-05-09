@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Roberts,sarah.roberts5982@gmail.com,844 858 7829,897936075,12-01-2003,"2374 Main St",San Jose,CA

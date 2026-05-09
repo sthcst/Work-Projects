@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Hall
-  email: rachel.hall22@work.org
-  phone: +1 502-295-6548
-  ssn: 095-36-1258
-  dob: 10/20/1950
-  address: 9752 Fifth Rd
-  city: Seattle
-  state: TX

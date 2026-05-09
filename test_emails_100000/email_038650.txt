@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Nelson,michael.nelson3159@outlook.com,835-844-4469,324 71 3224,12/09/2004,"3980 North Ave",Philadelphia,DC

@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Reyes
-  email: stephanie.reyes9308@mail.com
-  phone: 783 764 2886
-  ssn: 256-20-2158
-  dob: 10/04/1967
-  address: 3432 Main St
-  city: Houston
-  state: GA

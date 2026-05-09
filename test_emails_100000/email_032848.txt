@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Perez,andrew.perez6931@example.com,706-258-4155,664-18-1573,03-25-1959,"2469 First Ln",Dallas,PA

@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Miller
-  email: lisa.miller9365@outlook.com
-  phone: (401) 947-3299
-  ssn: 912-12-6725
-  dob: 11/6/1983
-  address: 3546 Park Rd
-  city: Los Angeles
-  state: IL

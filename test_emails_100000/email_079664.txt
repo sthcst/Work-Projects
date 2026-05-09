@@ -1,9 +1,0 @@
-contact:
-  name: David Gomez
-  email: david.gomez2755@work.org
-  phone: (592) 645-6756
-  ssn: 284501585
-  dob: 06-13-2002
-  address: 8596 Birch Court
-  city: San Jose
-  state: MD

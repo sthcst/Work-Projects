@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Delgado,joseph.delgado8032@work.org,(847) 611-6106,218142141,03-19-1986,"4042 Maple Ave",Seattle,MA

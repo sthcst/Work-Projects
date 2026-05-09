@@ -1,9 +1,0 @@
-contact:
-  name: Emma Martin
-  email: emma.martin6156@example.com
-  phone: (242) 881-4918
-  ssn: 643294017
-  dob: 07-20-1968
-  address: 1979 Spring Dr
-  city: Washington
-  state: MA

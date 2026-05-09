@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Wilson
-  email: sarah.wilson1501@business.net
-  phone: +1 868-432-8582
-  ssn: 884-56-9401
-  dob: 06-03-1951
-  address: 8800 West Dr
-  city: Denver
-  state: MI

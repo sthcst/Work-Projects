@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Reed,rebecca.reed9722@work.org,841 381 6969,619 10 8725,14/06/1970,"8559 Fifth Blvd",San Jose,WA

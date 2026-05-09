@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Morris
-  email: nicholas.morris3118@example.com
-  phone: +1 920-490-7576
-  ssn: 950108173
-  dob: 9/4/1955
-  address: 5378 Third Ave
-  city: San Antonio
-  state: TX

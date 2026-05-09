@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Ortiz,nicholas.ortiz6241@mail.com,+1 913-828-4893,076277379,1/14/1991,"2271 Fifth St",Chicago,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Harris,christine.harris7661@company.com,+1 698-497-4832,659 53 7334,2/28/1961,"6072 Oak Way",Denver,GA

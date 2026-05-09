@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Lee
-  email: lisa.lee7948@company.com
-  phone: +1 705-572-9650
-  ssn: 829-06-1065
-  dob: 01-21-1952
-  address: 2494 Birch St
-  city: Dallas
-  state: WA

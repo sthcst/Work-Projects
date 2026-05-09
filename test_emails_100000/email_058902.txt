@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Robinson
-  email: kathleen.robinson4870@work.org
-  phone: 452 360 5904
-  ssn: 814 51 8423
-  dob: 2/10/1977
-  address: 4892 Elm Ave
-  city: Boston
-  state: TX

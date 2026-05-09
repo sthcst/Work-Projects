@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Young
-  email: christopher.young1908@example.com
-  phone: (446) 442-8893
-  ssn: 760-38-7666
-  dob: 8/3/1984
-  address: 8265 Sixth St
-  city: Phoenix
-  state: TX

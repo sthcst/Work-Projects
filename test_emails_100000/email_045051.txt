@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Alvarado,charles.alvarado3576@example.com,619-285-2803,033-98-9994,2/25/1978,"8042 Third Ave",Austin,GA

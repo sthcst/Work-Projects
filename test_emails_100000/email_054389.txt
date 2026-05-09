@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Perez
-  email: matthew.perez2810@business.net
-  phone: (400) 998-9167
-  ssn: 588-20-9022
-  dob: 06-11-1958
-  address: 7062 West Rd
-  city: Houston
-  state: TX

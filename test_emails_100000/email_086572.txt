@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Anderson
-  email: brenda.anderson6610@gmail.com
-  phone: +1 388-871-7220
-  ssn: 286-17-1926
-  dob: 8/22/1964
-  address: 8504 Spring Court
-  city: Los Angeles
-  state: WA

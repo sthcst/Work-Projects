@@ -1,9 +1,0 @@
-contact:
-  name: Helen Romero
-  email: helen.romero9149@outlook.com
-  phone: 707 208 2620
-  ssn: 132 71 5966
-  dob: 04/25/1991
-  address: 3733 North Dr
-  city: Chicago
-  state: TX

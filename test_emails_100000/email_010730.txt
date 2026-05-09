@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Rogers,lauren.rogers8644@company.com,+1 264-628-5160,264-53-5073,21/06/1950,"1885 West Blvd",Dallas,NJ

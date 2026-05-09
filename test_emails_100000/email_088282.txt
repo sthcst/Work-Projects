@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Reeves
-  email: lisa.reeves619@business.net
-  phone: (216) 393-7673
-  ssn: 714442107
-  dob: 04/02/1953
-  address: 5670 Second Ave
-  city: Phoenix
-  state: MD

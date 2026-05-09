@@ -1,9 +1,0 @@
-contact:
-  name: Emma Delgado
-  email: emma.delgado5288@company.com
-  phone: 647-242-7490
-  ssn: 389-27-6281
-  dob: 07/11/1976
-  address: 2078 Summer Ln
-  city: Austin
-  state: AZ

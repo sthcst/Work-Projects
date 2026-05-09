@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Rodriguez,lauren.rodriguez121@company.com,785 858 5648,846951312,05-10-1997,"2784 North Ave",Seattle,CA

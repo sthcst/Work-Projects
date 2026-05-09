@@ -1,9 +1,0 @@
-contact:
-  name: Steven Lopez
-  email: steven.lopez7416@yahoo.com
-  phone: 537-399-4965
-  ssn: 319986663
-  dob: 1/27/1950
-  address: 2295 Birch Way
-  city: Seattle
-  state: FL

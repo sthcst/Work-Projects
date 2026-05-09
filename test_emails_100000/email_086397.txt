@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Nunez
-  email: andrew.nunez2059@outlook.com
-  phone: +1 966-837-2834
-  ssn: 487 48 7475
-  dob: 26/01/2000
-  address: 7833 Main Ave
-  city: San Antonio
-  state: WI

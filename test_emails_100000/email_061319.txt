@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Parker
-  email: katherine.parker9762@company.com
-  phone: +1 908-266-6364
-  ssn: 888 01 1040
-  dob: 07/02/1957
-  address: 9865 Fifth Dr
-  city: New York
-  state: PA

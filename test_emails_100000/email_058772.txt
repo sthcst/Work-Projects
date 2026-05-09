@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Wilson,pamela.wilson4777@example.com,+1 573-275-2200,319-48-5727,12/25/1974,"9600 Sixth Ln",San Jose,TX

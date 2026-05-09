@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Nelson,john.nelson3844@business.net,601 355 1910,895917939,7/28/1973,"4273 Fourth Rd",San Diego,TX

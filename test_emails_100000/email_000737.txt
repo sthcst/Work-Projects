@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Hall,emily.hall5390@company.com,595-823-4760,333939934,3/9/1989,"5433 Park Dr",New York,CA

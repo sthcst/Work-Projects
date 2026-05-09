@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Hernandez
-  email: kimberly.hernandez1413@example.com
-  phone: 332 479 4426
-  ssn: 785 93 5867
-  dob: 11/01/1988
-  address: 7069 Elm Court
-  city: Boston
-  state: NC

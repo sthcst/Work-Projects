@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Evans
-  email: christopher.evans2480@gmail.com
-  phone: +1 543-350-5811
-  ssn: 931136029
-  dob: 7/15/1980
-  address: 5398 North Way
-  city: Denver
-  state: TX

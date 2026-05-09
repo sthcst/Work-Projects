@@ -1,9 +1,0 @@
-contact:
-  name: Gary Carter
-  email: gary.carter8885@example.com
-  phone: +1 819-526-5682
-  ssn: 724-40-6245
-  dob: 08/06/1980
-  address: 7075 Summer Dr
-  city: Austin
-  state: MA

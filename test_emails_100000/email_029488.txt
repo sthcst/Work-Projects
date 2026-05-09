@@ -1,9 +1,0 @@
-contact:
-  name: David Roberts
-  email: david.roberts1319@gmail.com
-  phone: 943-891-9649
-  ssn: 524 95 3064
-  dob: 12/28/1990
-  address: 4580 Fifth Court
-  city: Dallas
-  state: CA

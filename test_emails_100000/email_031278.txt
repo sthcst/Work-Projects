@@ -1,9 +1,0 @@
-contact:
-  name: Michael Peterson
-  email: michael.peterson4204@work.org
-  phone: +1 353-474-9015
-  ssn: 955934767
-  dob: 09/10/1967
-  address: 6280 Pine Dr
-  city: Los Angeles
-  state: MA

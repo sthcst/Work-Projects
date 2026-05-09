@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Wilson,george.wilson6294@company.com,430-919-7775,405 13 7711,5/6/1983,"4784 Fourth Dr",Los Angeles,CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Guerrero,david.guerrero308@mail.com,510 942 5314,665914444,08/05/1999,"8808 Second Court",Houston,TX

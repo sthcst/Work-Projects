@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Thompson,sarah.thompson8665@yahoo.com,(737) 372-1622,752983736,16/11/1989,"5790 Sixth Way",New York,FL

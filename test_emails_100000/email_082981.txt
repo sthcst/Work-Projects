@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Walker,william.walker7800@example.com,(699) 997-1900,098 22 9271,19/09/1958,"2062 South Court",Washington,WA

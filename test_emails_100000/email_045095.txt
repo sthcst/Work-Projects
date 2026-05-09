@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Jimenez
-  email: timothy.jimenez7339@gmail.com
-  phone: +1 821-671-1552
-  ssn: 112 29 9415
-  dob: 04/07/1993
-  address: 8448 North Blvd
-  city: Phoenix
-  state: WI

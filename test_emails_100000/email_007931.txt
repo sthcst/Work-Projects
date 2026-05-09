@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Romero,steven.romero8437@business.net,312 424 6637,686538899,07-23-1969,"6776 Maple Rd",Chicago,MD

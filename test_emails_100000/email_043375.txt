@@ -1,9 +1,0 @@
-contact:
-  name: Anna Phillips
-  email: anna.phillips5832@outlook.com
-  phone: (689) 360-8603
-  ssn: 557-56-7523
-  dob: 7/12/1978
-  address: 9612 Spring Ave
-  city: Chicago
-  state: AZ

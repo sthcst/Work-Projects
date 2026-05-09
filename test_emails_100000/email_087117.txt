@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Martin
-  email: christopher.martin1323@gmail.com
-  phone: (356) 953-5843
-  ssn: 512 67 4490
-  dob: 03-21-1994
-  address: 8972 Park Court
-  city: New York
-  state: TX

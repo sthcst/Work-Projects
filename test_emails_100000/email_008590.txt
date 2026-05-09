@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Smith,megan.smith9785@outlook.com,+1 902-705-6752,868937019,23/01/1982,"5953 North Rd",Denver,VA

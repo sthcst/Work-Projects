@@ -1,9 +1,0 @@
-contact:
-  name: George White
-  email: george.white4697@work.org
-  phone: 695 450 9798
-  ssn: 446 55 6224
-  dob: 08/14/1973
-  address: 1087 Elm Ln
-  city: Jacksonville
-  state: TX

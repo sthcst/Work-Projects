@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Cooper,timothy.cooper2240@outlook.com,517-546-8773,183 82 7119,08/03/1984,"4085 West Blvd",Boston,MA

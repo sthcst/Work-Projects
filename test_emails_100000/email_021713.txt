@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Hall
-  email: jennifer.hall7769@company.com
-  phone: 918-515-2840
-  ssn: 405732940
-  dob: 11-18-1956
-  address: 6126 Pine Court
-  city: Chicago
-  state: WA

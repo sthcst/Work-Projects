@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Moore
-  email: sarah.moore2017@work.org
-  phone: (701) 710-1356
-  ssn: 726877396
-  dob: 6/13/1955
-  address: 5258 West Rd
-  city: Los Angeles
-  state: MD

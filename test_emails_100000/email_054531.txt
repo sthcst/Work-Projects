@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Rodriguez
-  email: matthew.rodriguez3872@business.net
-  phone: 500-524-4346
-  ssn: 189-76-3992
-  dob: 17/12/1993
-  address: 4538 West Ln
-  city: San Antonio
-  state: FL

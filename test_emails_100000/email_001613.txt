@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Reed
-  email: anthony.reed2601@gmail.com
-  phone: +1 473-836-9343
-  ssn: 844725316
-  dob: 12/24/1970
-  address: 2830 East St
-  city: Phoenix
-  state: NY

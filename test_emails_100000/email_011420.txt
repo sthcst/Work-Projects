@@ -1,9 +1,0 @@
-contact:
-  name: Brian Bell
-  email: brian.bell424@company.com
-  phone: +1 737-272-2909
-  ssn: 902 77 3356
-  dob: 07-25-1958
-  address: 5403 Main Dr
-  city: Phoenix
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Emily White
-  email: emily.white6258@business.net
-  phone: 650-243-9036
-  ssn: 873 17 3819
-  dob: 06/14/1960
-  address: 8843 Maple Rd
-  city: Houston
-  state: TX

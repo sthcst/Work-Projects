@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Delgado
-  email: joseph.delgado2353@example.com
-  phone: (686) 783-2377
-  ssn: 194 56 9401
-  dob: 11-06-1993
-  address: 4996 Elm Ln
-  city: Dallas
-  state: WA

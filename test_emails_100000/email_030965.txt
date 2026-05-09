@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Carter,william.carter2433@business.net,+1 754-790-2016,756-76-7143,06/15/2001,"8440 Birch Dr",Chicago,AZ

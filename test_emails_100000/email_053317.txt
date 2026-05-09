@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Edwards
-  email: ronald.edwards4914@mail.com
-  phone: 911-641-8910
-  ssn: 713-24-5466
-  dob: 04/03/1958
-  address: 6847 Third St
-  city: Washington
-  state: MA

@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Davis
-  email: sarah.davis2925@yahoo.com
-  phone: 402-938-8157
-  ssn: 531 18 5869
-  dob: 01-01-1995
-  address: 2412 Birch Blvd
-  city: Houston
-  state: MA

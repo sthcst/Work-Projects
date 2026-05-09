@@ -1,9 +1,0 @@
-contact:
-  name: Jason Harris
-  email: jason.harris9257@company.com
-  phone: (522) 262-6068
-  ssn: 938 37 9941
-  dob: 06/11/1982
-  address: 2706 North Ave
-  city: Jacksonville
-  state: MI

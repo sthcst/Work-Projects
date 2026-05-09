@@ -1,9 +1,0 @@
-contact:
-  name: Richard White
-  email: richard.white5404@yahoo.com
-  phone: +1 464-211-5393
-  ssn: 113 79 9636
-  dob: 7/28/1992
-  address: 7773 West Ln
-  city: Chicago
-  state: CA

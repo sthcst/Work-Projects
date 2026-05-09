@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Ramirez,gary.ramirez3296@example.com,(448) 687-2245,668 85 5652,10-09-1962,"2586 Park Court",San Antonio,TN

@@ -1,9 +1,0 @@
-contact:
-  name: Angela Reyes
-  email: angela.reyes5139@business.net
-  phone: 777-274-2526
-  ssn: 801235826
-  dob: 11/23/1986
-  address: 4862 Oak Ave
-  city: Phoenix
-  state: DC

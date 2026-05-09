@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Martinez
-  email: michelle.martinez7504@example.com
-  phone: 212-397-8435
-  ssn: 222 12 3166
-  dob: 04/06/1976
-  address: 3262 South Ln
-  city: Phoenix
-  state: DC

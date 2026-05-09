@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Dominguez
-  email: ronald.dominguez6061@mail.com
-  phone: 772-531-2783
-  ssn: 965 16 7717
-  dob: 11-12-1952
-  address: 3760 Third St
-  city: Boston
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Hernandez,jason.hernandez6186@yahoo.com,+1 797-404-6827,185 01 5494,05/20/1959,"5629 Cedar Dr",Phoenix,MA

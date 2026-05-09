@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Flores,katherine.flores3194@business.net,(610) 420-3489,128131859,03-04-1985,"5559 Cedar Ave",Austin,NY

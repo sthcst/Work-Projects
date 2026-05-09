@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Parker,michelle.parker3851@yahoo.com,+1 377-736-8767,950 05 5314,5/21/1970,"5585 Main Blvd",Austin,TN

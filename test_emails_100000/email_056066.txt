@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Bell
-  email: ashley.bell3426@gmail.com
-  phone: 698 694 6435
-  ssn: 677 21 3103
-  dob: 08/08/1996
-  address: 4358 Main St
-  city: San Diego
-  state: CA

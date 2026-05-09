@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Perez,angela.perez974@yahoo.com,(848) 722-5951,741084072,13/06/1962,"5409 Fifth Blvd",Washington,WI

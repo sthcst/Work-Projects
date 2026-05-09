@@ -1,9 +1,0 @@
-contact:
-  name: Angela Reed
-  email: angela.reed8280@mail.com
-  phone: 514 477 3160
-  ssn: 433179822
-  dob: 11/16/1979
-  address: 9043 West Ave
-  city: New York
-  state: WA

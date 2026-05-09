@@ -1,9 +1,0 @@
-contact:
-  name: Emma Hall
-  email: emma.hall9844@company.com
-  phone: 612 626 5994
-  ssn: 352308492
-  dob: 02/12/1950
-  address: 1803 Main St
-  city: Austin
-  state: TX

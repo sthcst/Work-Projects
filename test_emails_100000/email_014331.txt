@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Hall,deborah.hall3212@outlook.com,(293) 678-1159,298-48-2230,3/11/1978,"2670 Spring Dr",Boston,TX

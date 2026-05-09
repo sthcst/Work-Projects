@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Garcia,emma.garcia4786@example.com,422-244-5863,797 74 3091,02/12/1981,"2050 Pine Ave",San Jose,MA

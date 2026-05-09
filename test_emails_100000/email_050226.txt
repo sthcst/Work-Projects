@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Lee,pamela.lee4733@mail.com,+1 667-572-6033,013-61-6801,4/12/1974,"3405 North Rd",Washington,CA

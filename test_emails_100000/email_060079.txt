@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Serrano
-  email: lauren.serrano8963@company.com
-  phone: +1 668-254-3152
-  ssn: 755994103
-  dob: 10-28-1980
-  address: 9773 North Way
-  city: Dallas
-  state: GA

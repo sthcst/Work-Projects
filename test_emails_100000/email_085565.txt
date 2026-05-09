@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Rogers
-  email: lisa.rogers5001@mail.com
-  phone: (634) 948-5749
-  ssn: 861-28-5644
-  dob: 07/24/1959
-  address: 1328 Cedar Ave
-  city: Seattle
-  state: FL

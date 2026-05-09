@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Reyes,megan.reyes3551@yahoo.com,710 330 9076,681662041,24/01/1956,"458 Fourth St",Philadelphia,VA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Moore,paul.moore4867@company.com,562 368 1264,771822856,08/07/1956,"6172 West Way",Chicago,FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Morris,jacob.morris9679@company.com,(781) 554-5507,532 72 5295,7/12/1962,"5273 Cedar Rd",Seattle,WI

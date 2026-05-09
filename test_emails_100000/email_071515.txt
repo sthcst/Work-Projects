@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Hernandez
-  email: kenneth.hernandez62@company.com
-  phone: 458 751 5949
-  ssn: 099247398
-  dob: 11-08-1988
-  address: 728 Park Rd
-  city: Washington
-  state: NJ

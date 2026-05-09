@@ -1,9 +1,0 @@
-contact:
-  name: Brian Jimenez
-  email: brian.jimenez2857@gmail.com
-  phone: 982 358 9398
-  ssn: 350127320
-  dob: 09-16-1970
-  address: 8443 Spring Ln
-  city: Los Angeles
-  state: MA

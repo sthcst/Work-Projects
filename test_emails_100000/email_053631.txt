@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Garcia
-  email: nicole.garcia6048@yahoo.com
-  phone: +1 978-476-1500
-  ssn: 275192484
-  dob: 11-05-1988
-  address: 6016 First Dr
-  city: Houston
-  state: CA

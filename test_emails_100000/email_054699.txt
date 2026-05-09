@@ -1,9 +1,0 @@
-contact:
-  name: James Moore
-  email: james.moore464@mail.com
-  phone: 283 246 4612
-  ssn: 381 78 4870
-  dob: 14/12/1997
-  address: 3549 Fifth Court
-  city: Phoenix
-  state: NY

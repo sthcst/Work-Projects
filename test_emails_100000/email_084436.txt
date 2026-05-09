@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Romero,jacob.romero7327@company.com,870 464 4648,458226540,9/6/1991,"13 East Way",New York,MA

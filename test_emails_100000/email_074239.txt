@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Thomas,anna.thomas6570@example.com,968-326-7880,202 24 8177,7/24/1992,"493 Park Dr",Philadelphia,WA

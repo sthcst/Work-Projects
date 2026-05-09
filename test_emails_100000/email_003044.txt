@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Gonzalez
-  email: lisa.gonzalez4049@company.com
-  phone: +1 957-236-6828
-  ssn: 715613429
-  dob: 1/22/1978
-  address: 1463 Elm Blvd
-  city: Denver
-  state: DC

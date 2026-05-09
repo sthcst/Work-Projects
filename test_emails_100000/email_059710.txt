@@ -1,9 +1,0 @@
-contact:
-  name: Donald Nelson
-  email: donald.nelson7735@mail.com
-  phone: (699) 498-8406
-  ssn: 280768449
-  dob: 08-08-1963
-  address: 5436 South Ave
-  city: Washington
-  state: IL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Garcia,nicole.garcia962@mail.com,+1 841-232-4178,021-83-4688,05/10/1962,"6343 Spring Dr",Austin,NJ

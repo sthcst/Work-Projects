@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Edwards,jennifer.edwards7381@outlook.com,747 890 6028,636265591,08-24-1977,"2940 Park Way",Seattle,TX

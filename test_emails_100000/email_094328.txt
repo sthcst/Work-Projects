@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Ramirez
-  email: pamela.ramirez957@work.org
-  phone: +1 465-949-4594
-  ssn: 569555629
-  dob: 7/7/1976
-  address: 6728 Sixth Dr
-  city: Phoenix
-  state: AZ

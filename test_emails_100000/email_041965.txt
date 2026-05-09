@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Wilson,megan.wilson1636@mail.com,+1 574-821-3213,306412439,12/12/1993,"3042 Second Ln",Seattle,MI

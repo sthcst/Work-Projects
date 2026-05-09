@@ -1,9 +1,0 @@
-contact:
-  name: Charles Williams
-  email: charles.williams2214@yahoo.com
-  phone: +1 834-746-5535
-  ssn: 677-92-5540
-  dob: 02-23-1960
-  address: 4663 West St
-  city: Los Angeles
-  state: NY

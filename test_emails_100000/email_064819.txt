@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Sanchez,andrew.sanchez8721@company.com,435 550 7843,120-96-2710,08/27/2002,"960 Maple St",Boston,FL

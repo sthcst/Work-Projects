@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Roberts
-  email: sarah.roberts4327@example.com
-  phone: 260 985 3056
-  ssn: 056 43 2415
-  dob: 02/16/1991
-  address: 7581 First Court
-  city: New York
-  state: WI

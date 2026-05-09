@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Ortiz
-  email: nicole.ortiz6041@yahoo.com
-  phone: (933) 939-5528
-  ssn: 088159143
-  dob: 9/26/1954
-  address: 5565 Pine Court
-  city: Dallas
-  state: NJ

@@ -1,9 +1,0 @@
-contact:
-  name: Emma Perez
-  email: emma.perez5828@work.org
-  phone: 856 785 4046
-  ssn: 102-30-4013
-  dob: 9/8/1952
-  address: 5512 East Court
-  city: Washington
-  state: MA

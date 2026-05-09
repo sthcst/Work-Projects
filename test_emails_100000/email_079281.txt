@@ -1,9 +1,0 @@
-contact:
-  name: Richard Rodriguez
-  email: richard.rodriguez1445@mail.com
-  phone: (772) 971-7695
-  ssn: 791626213
-  dob: 06/01/1964
-  address: 7363 First St
-  city: Chicago
-  state: IL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Ortiz,megan.ortiz6425@business.net,+1 784-752-4006,631484790,09/21/1954,"5719 Spring Ln",San Diego,NJ

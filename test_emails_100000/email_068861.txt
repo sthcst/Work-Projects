@@ -1,9 +1,0 @@
-contact:
-  name: Michael Reyes
-  email: michael.reyes2185@mail.com
-  phone: (266) 991-6272
-  ssn: 550246986
-  dob: 6/12/1974
-  address: 1878 Pine Court
-  city: Washington
-  state: TN

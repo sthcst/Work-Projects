@@ -1,9 +1,0 @@
-contact:
-  name: Anna Jimenez
-  email: anna.jimenez2556@business.net
-  phone: 884-941-9809
-  ssn: 872-62-3265
-  dob: 11-01-1975
-  address: 6522 Summer Court
-  city: San Jose
-  state: TX

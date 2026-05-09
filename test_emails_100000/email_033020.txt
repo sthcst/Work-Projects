@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Lopez
-  email: jessica.lopez7322@yahoo.com
-  phone: 664-246-1499
-  ssn: 901 70 8799
-  dob: 09/06/1962
-  address: 1668 Second Court
-  city: Seattle
-  state: CA

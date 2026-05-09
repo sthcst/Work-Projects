@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan White,ryan.white1797@outlook.com,+1 219-543-6104,699234951,09/05/1983,"6741 West St",Jacksonville,TX

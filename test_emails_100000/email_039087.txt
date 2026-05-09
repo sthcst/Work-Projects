@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Smith
-  email: brenda.smith4498@example.com
-  phone: 737 980 8517
-  ssn: 036 20 9371
-  dob: 06-18-1984
-  address: 9834 Second Rd
-  city: Chicago
-  state: PA

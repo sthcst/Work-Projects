@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Morris,charles.morris1535@mail.com,+1 617-920-4237,833 31 9768,01-10-1958,"3368 Summer Ln",Philadelphia,TN

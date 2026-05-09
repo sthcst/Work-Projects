@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Cooper
-  email: deborah.cooper3370@business.net
-  phone: 890 539 6644
-  ssn: 497-54-2489
-  dob: 9/28/1963
-  address: 8563 Pine Dr
-  city: Houston
-  state: TX

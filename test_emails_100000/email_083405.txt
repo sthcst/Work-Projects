@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Alvarado
-  email: ronald.alvarado7021@yahoo.com
-  phone: +1 590-815-4202
-  ssn: 208 59 7411
-  dob: 05-16-1969
-  address: 3814 Oak Blvd
-  city: Los Angeles
-  state: MA

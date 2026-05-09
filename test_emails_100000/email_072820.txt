@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Rodriguez,gary.rodriguez8075@gmail.com,979-267-3936,310777816,12/03/1995,"6670 Third Rd",Chicago,OH

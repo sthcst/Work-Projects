@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Serrano
-  email: kathleen.serrano1182@outlook.com
-  phone: (875) 697-1303
-  ssn: 025-93-6599
-  dob: 05/07/2000
-  address: 4747 Pine Ln
-  city: San Antonio
-  state: PA

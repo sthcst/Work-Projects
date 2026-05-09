@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Smith,rebecca.smith2158@example.com,329 295 6467,039878919,28/12/1990,"6544 Fifth Rd",San Jose,TX

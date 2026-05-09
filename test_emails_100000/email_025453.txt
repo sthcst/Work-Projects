@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Dominguez
-  email: matthew.dominguez1814@work.org
-  phone: 805-619-2388
-  ssn: 127-69-4413
-  dob: 22/04/1987
-  address: 27 Fourth Dr
-  city: Houston
-  state: NY

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna White,anna.white9937@yahoo.com,634-217-1112,330 52 4550,10/17/1966,"7924 Park Ave",Houston,WI

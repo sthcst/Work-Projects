@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah White,deborah.white4673@outlook.com,+1 340-618-8026,476 32 2669,04/13/1994,"9876 Park Dr",Chicago,NJ

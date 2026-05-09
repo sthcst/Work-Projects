@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Jimenez,pamela.jimenez2279@yahoo.com,(930) 383-2968,284951342,17/12/1961,"419 South Way",Denver,DC

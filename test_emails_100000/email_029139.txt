@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Delgado,james.delgado1491@outlook.com,724-357-9098,133 85 6677,08-10-1982,"1059 East Ln",Jacksonville,TX

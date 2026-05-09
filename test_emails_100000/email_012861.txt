@@ -1,9 +1,0 @@
-contact:
-  name: Paul Perez
-  email: paul.perez8691@example.com
-  phone: (423) 813-4764
-  ssn: 232803872
-  dob: 06-25-1978
-  address: 5669 Fifth Blvd
-  city: Philadelphia
-  state: TN

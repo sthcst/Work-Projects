@@ -1,9 +1,0 @@
-contact:
-  name: Christine Morris
-  email: christine.morris9534@business.net
-  phone: 884 440 6063
-  ssn: 606537424
-  dob: 8/18/2001
-  address: 5280 Park Way
-  city: Washington
-  state: FL

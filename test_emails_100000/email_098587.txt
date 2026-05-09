@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Martinez,matthew.martinez3270@business.net,290-377-9510,783-03-6228,14/08/1962,"9274 Fifth Court",Houston,WI

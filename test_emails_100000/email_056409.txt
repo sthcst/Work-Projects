@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Edwards
-  email: shirley.edwards7932@example.com
-  phone: 491 296 6832
-  ssn: 259102922
-  dob: 02/12/1980
-  address: 6182 West Way
-  city: Los Angeles
-  state: MD

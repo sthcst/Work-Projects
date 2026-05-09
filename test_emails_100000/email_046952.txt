@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Gonzalez,edward.gonzalez7888@outlook.com,811 284 2039,245 86 5878,01/17/1995,"8842 Sixth Ave",Seattle,CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah White,sarah.white8944@mail.com,823 679 4812,588-23-7445,02/06/1952,"6207 Elm Ln",Denver,NY

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Guerrero,sarah.guerrero7938@work.org,363 285 4023,517-95-9096,28/07/1953,"7554 Birch Court",Austin,WA

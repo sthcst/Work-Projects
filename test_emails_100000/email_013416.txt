@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Phillips
-  email: samantha.phillips1948@gmail.com
-  phone: (245) 789-9292
-  ssn: 592249758
-  dob: 02/04/1995
-  address: 5752 Birch Ln
-  city: New York
-  state: DC

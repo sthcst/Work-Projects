@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Alvarado,jeffrey.alvarado2286@outlook.com,680 318 2066,448 76 1959,06-04-1981,"1871 Park Ave",San Diego,MA

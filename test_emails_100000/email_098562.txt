@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Robinson,matthew.robinson7442@business.net,212-798-1038,063 71 5539,06-22-1964,"2653 Birch Way",Austin,CA

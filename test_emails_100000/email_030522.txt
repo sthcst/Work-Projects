@@ -1,9 +1,0 @@
-contact:
-  name: Angela Thomas
-  email: angela.thomas8889@outlook.com
-  phone: +1 298-954-3443
-  ssn: 909-14-6689
-  dob: 17/02/1973
-  address: 289 Oak Court
-  city: Washington
-  state: CA

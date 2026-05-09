@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Bell
-  email: nicholas.bell6138@mail.com
-  phone: 314-890-3841
-  ssn: 387-92-8750
-  dob: 19/03/1959
-  address: 5317 Cedar Way
-  city: Houston
-  state: WI

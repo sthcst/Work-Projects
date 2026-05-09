@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Reeves,christopher.reeves2207@yahoo.com,(904) 714-8279,442-34-9537,08/10/2005,"5620 First Rd",Dallas,MO

@@ -1,9 +1,0 @@
-contact:
-  name: John Garcia
-  email: john.garcia6983@work.org
-  phone: +1 352-385-7240
-  ssn: 604 62 9973
-  dob: 07-14-1996
-  address: 7720 East Court
-  city: Dallas
-  state: FL

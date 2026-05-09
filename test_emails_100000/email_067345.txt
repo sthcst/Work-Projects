@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Flores,andrew.flores9131@outlook.com,+1 487-211-6492,239 21 7688,3/23/1991,"5548 Spring Rd",New York,PA

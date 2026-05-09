@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Anderson,john.anderson9253@yahoo.com,+1 382-706-9669,547486138,6/4/1951,"3650 Maple Rd",Philadelphia,MA

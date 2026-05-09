@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Harris
-  email: joseph.harris9904@mail.com
-  phone: 273-881-5825
-  ssn: 429512645
-  dob: 3/16/1951
-  address: 3191 Pine Blvd
-  city: Austin
-  state: WI

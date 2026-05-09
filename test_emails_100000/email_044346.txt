@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Cooper
-  email: sarah.cooper1383@gmail.com
-  phone: 283 717 5836
-  ssn: 525-84-9974
-  dob: 10-09-1963
-  address: 168 Elm Ln
-  city: Chicago
-  state: MA

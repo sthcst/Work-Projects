@@ -1,9 +1,0 @@
-contact:
-  name: Jason Carter
-  email: jason.carter8498@work.org
-  phone: +1 281-571-6578
-  ssn: 988 94 8639
-  dob: 04/02/1963
-  address: 7300 Second Dr
-  city: Boston
-  state: NC

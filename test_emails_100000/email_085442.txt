@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Jackson
-  email: jennifer.jackson9879@business.net
-  phone: 492-844-1918
-  ssn: 805527645
-  dob: 7/7/1950
-  address: 5348 Fifth Way
-  city: Los Angeles
-  state: NY

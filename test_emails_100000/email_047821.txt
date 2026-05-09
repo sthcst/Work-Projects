@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Hall,john.hall6017@business.net,(726) 761-9530,865 12 4863,11/21/1969,"6122 Elm Ave",San Jose,CA

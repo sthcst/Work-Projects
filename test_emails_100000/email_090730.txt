@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Murillo,jennifer.murillo3415@business.net,258-664-4286,393 51 8726,20/01/1976,"7639 North Ln",Houston,VA

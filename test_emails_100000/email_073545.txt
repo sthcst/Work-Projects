@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Serrano
-  email: joshua.serrano1722@business.net
-  phone: (825) 909-5043
-  ssn: 533-27-9532
-  dob: 04/12/1967
-  address: 9155 Summer St
-  city: Denver
-  state: FL

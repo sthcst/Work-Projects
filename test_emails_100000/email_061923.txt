@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Edwards
-  email: kathleen.edwards3377@yahoo.com
-  phone: 658 661 6513
-  ssn: 246-07-9976
-  dob: 16/09/1972
-  address: 8699 Fifth Blvd
-  city: Phoenix
-  state: CO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Moore,james.moore5407@gmail.com,(676) 540-5868,341087064,01/22/1985,"1762 North Blvd",Austin,TX

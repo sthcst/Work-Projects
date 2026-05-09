@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Serrano,megan.serrano4567@example.com,694-916-6151,546433895,9/14/1956,"1243 Sixth Court",Denver,WA

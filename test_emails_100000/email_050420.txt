@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Reed
-  email: nicole.reed8773@yahoo.com
-  phone: 642 929 8733
-  ssn: 908341269
-  dob: 11/06/1955
-  address: 7962 West Ave
-  city: Denver
-  state: MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Cooper,sarah.cooper9424@company.com,204-890-1038,493442185,06-16-1985,"8469 Elm Blvd",Boston,CA

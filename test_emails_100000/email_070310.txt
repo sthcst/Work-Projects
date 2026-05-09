@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Young,daniel.young7683@yahoo.com,(313) 842-5712,680-80-8626,10/04/1979,"9824 North Court",San Jose,WI

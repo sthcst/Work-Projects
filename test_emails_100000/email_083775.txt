@@ -1,9 +1,0 @@
-contact:
-  name: Megan Gonzalez
-  email: megan.gonzalez2714@example.com
-  phone: 883-912-7557
-  ssn: 748 53 6872
-  dob: 02/12/1972
-  address: 178 Maple Court
-  city: Philadelphia
-  state: NJ

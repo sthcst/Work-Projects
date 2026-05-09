@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Delgado,joshua.delgado7272@outlook.com,(983) 220-5397,779454451,04/11/1968,"9452 Fourth Rd",Phoenix,WI

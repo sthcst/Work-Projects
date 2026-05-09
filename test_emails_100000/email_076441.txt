@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Cooper
-  email: cynthia.cooper5539@mail.com
-  phone: 351-226-7945
-  ssn: 816 90 1123
-  dob: 26/05/1993
-  address: 9941 Sixth Court
-  city: Denver
-  state: WA

@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Garcia
-  email: kenneth.garcia6386@mail.com
-  phone: 334-395-2207
-  ssn: 163-89-4440
-  dob: 19/01/1993
-  address: 9111 Second Ln
-  city: Boston
-  state: AZ

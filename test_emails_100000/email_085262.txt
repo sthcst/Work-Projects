@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Stewart,brenda.stewart502@business.net,+1 526-266-8147,300-62-2426,06-19-1974,"7718 First Rd",San Diego,FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Lopez,daniel.lopez5382@outlook.com,+1 780-589-2926,213308105,04-17-1975,"5511 Spring Blvd",Boston,FL

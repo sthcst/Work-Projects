@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Edwards
-  email: katherine.edwards2455@example.com
-  phone: (695) 759-9007
-  ssn: 558996501
-  dob: 6/28/1981
-  address: 136 West Rd
-  city: Seattle
-  state: IL

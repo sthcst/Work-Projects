@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Moore,rebecca.moore1922@yahoo.com,+1 980-644-7217,207 38 8456,06/12/1955,"1500 Elm Dr",Chicago,AZ

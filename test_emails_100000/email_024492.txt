@@ -1,9 +1,0 @@
-contact:
-  name: Helen Reeves
-  email: helen.reeves8597@example.com
-  phone: (310) 718-9534
-  ssn: 618-52-2528
-  dob: 12/10/1980
-  address: 930 West Rd
-  city: Washington
-  state: OH

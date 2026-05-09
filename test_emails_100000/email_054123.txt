@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Sanchez
-  email: lisa.sanchez1354@yahoo.com
-  phone: 473-339-9251
-  ssn: 874379676
-  dob: 10-23-1966
-  address: 5980 First Ln
-  city: Austin
-  state: AZ

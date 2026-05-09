@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Flores
-  email: kimberly.flores713@business.net
-  phone: 488 733 4268
-  ssn: 687 13 6279
-  dob: 13/09/1970
-  address: 8745 East Court
-  city: Houston
-  state: MA

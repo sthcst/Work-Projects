@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Williams
-  email: deborah.williams8255@outlook.com
-  phone: 291 264 5829
-  ssn: 069 45 4003
-  dob: 07/05/1963
-  address: 8645 Second Ln
-  city: Chicago
-  state: MD

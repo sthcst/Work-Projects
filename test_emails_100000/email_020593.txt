@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Rodriguez,cynthia.rodriguez7312@company.com,(396) 691-5677,006503809,22/07/1956,"7453 First Ave",Phoenix,FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Gomez,megan.gomez192@yahoo.com,930 246 8875,818-48-8611,12/19/1970,"2915 Main St",New York,FL

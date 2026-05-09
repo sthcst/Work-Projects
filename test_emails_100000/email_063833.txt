@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Ortiz
-  email: pamela.ortiz7997@company.com
-  phone: 926 298 4932
-  ssn: 513835705
-  dob: 07-05-1993
-  address: 7596 South Way
-  city: Los Angeles
-  state: NY

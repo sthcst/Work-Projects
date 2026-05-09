@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Ortiz
-  email: timothy.ortiz8823@gmail.com
-  phone: 871 925 2129
-  ssn: 686921136
-  dob: 16/02/1980
-  address: 5445 Fifth Court
-  city: San Jose
-  state: IL

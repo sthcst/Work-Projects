@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Rogers
-  email: anthony.rogers6647@gmail.com
-  phone: (643) 273-1480
-  ssn: 291-18-2924
-  dob: 1/22/1993
-  address: 660 Fifth Dr
-  city: Denver
-  state: TX

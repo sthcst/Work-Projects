@@ -1,9 +1,0 @@
-contact:
-  name: Megan Jones
-  email: megan.jones7543@example.com
-  phone: (706) 405-7333
-  ssn: 800-22-1188
-  dob: 05/04/1969
-  address: 5194 Second Ln
-  city: Houston
-  state: CO

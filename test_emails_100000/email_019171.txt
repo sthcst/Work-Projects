@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Lee
-  email: timothy.lee6636@business.net
-  phone: +1 444-300-5078
-  ssn: 263 88 9649
-  dob: 05/15/1974
-  address: 9781 Park Dr
-  city: Denver
-  state: NY

@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Alvarado
-  email: andrew.alvarado6773@outlook.com
-  phone: 612 467 8858
-  ssn: 920761337
-  dob: 28/09/1958
-  address: 9306 Pine Blvd
-  city: Phoenix
-  state: AZ

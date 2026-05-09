@@ -1,9 +1,0 @@
-contact:
-  name: Gary Brown
-  email: gary.brown523@gmail.com
-  phone: (388) 735-7006
-  ssn: 048583110
-  dob: 12/02/1980
-  address: 2843 Spring Ln
-  city: Houston
-  state: TX

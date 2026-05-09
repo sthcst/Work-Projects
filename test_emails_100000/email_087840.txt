@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Moore
-  email: joseph.moore8144@company.com
-  phone: 405 748 9014
-  ssn: 605-72-4403
-  dob: 10-27-1958
-  address: 5553 Main St
-  city: Austin
-  state: FL

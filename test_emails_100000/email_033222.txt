@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Williams,matthew.williams806@yahoo.com,757 772 2445,332 78 8063,7/13/1975,"6262 Oak St",San Jose,NY

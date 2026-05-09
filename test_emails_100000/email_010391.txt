@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Morgan,andrew.morgan4239@yahoo.com,372 679 6062,118 92 6094,12-01-1958,"3937 Spring Ln",San Diego,WI

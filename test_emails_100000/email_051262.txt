@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Williams,kevin.williams7975@outlook.com,962 393 5135,701-42-3470,12-03-1967,"2559 Maple Blvd",Chicago,CA

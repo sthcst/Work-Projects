@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Rogers,mark.rogers3227@example.com,+1 888-792-3375,449 35 1981,10/6/1955,"8396 Park Blvd",Denver,NJ

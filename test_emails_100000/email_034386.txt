@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Ramirez
-  email: stephanie.ramirez45@mail.com
-  phone: 272-720-4560
-  ssn: 468-52-9563
-  dob: 12-14-1982
-  address: 980 Maple Rd
-  city: Dallas
-  state: WI

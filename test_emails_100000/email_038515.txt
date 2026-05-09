@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Anderson
-  email: amanda.anderson3632@example.com
-  phone: (556) 961-4762
-  ssn: 874 29 3559
-  dob: 3/19/2001
-  address: 5462 Elm Dr
-  city: Washington
-  state: MD

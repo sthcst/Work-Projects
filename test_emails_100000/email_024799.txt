@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Parker
-  email: anthony.parker1403@yahoo.com
-  phone: 834 226 3425
-  ssn: 886-36-7072
-  dob: 5/20/1964
-  address: 2842 North Ave
-  city: Phoenix
-  state: AZ

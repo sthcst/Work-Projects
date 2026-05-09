@@ -1,9 +1,0 @@
-contact:
-  name: Angela Davis
-  email: angela.davis5255@mail.com
-  phone: 331 922 1267
-  ssn: 487 02 8085
-  dob: 03-13-1981
-  address: 8453 Oak Ave
-  city: New York
-  state: CA

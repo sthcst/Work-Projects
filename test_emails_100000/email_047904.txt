@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Davis
-  email: timothy.davis3680@outlook.com
-  phone: (580) 735-9024
-  ssn: 882-06-2137
-  dob: 01/21/1960
-  address: 2353 Main St
-  city: Los Angeles
-  state: NY

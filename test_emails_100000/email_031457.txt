@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Sanchez,matthew.sanchez4030@gmail.com,959 251 5481,872 77 1499,6/2/2004,"6625 East St",Dallas,TX

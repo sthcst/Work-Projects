@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Williams
-  email: joshua.williams6148@company.com
-  phone: 423 393 5246
-  ssn: 614476553
-  dob: 07/08/1993
-  address: 2306 Pine Ave
-  city: San Jose
-  state: FL

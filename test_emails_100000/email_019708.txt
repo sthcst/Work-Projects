@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Alvarado,katherine.alvarado9027@work.org,257-382-5913,919-29-7272,15/05/1982,"5768 Birch Way",San Jose,MA

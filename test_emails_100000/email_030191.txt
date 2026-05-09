@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Garcia
-  email: nicholas.garcia1220@company.com
-  phone: 264-478-2117
-  ssn: 417-97-7967
-  dob: 8/14/1992
-  address: 7859 Birch Ave
-  city: Denver
-  state: VA

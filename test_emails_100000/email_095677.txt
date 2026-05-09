@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Sanchez,ryan.sanchez7303@gmail.com,615-502-6892,898-22-3248,08/22/1964,"8568 Maple Ave",Philadelphia,NC

@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Campbell
-  email: stephanie.campbell521@yahoo.com
-  phone: 427-490-7749
-  ssn: 992 83 7776
-  dob: 12/17/1985
-  address: 2926 Fourth Ave
-  city: Denver
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Flores,emma.flores5919@company.com,+1 665-315-1832,267 38 6898,20/05/1984,"2647 Maple Ave",Los Angeles,WI

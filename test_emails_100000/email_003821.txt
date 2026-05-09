@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Cooper
-  email: joshua.cooper1048@yahoo.com
-  phone: (742) 466-6127
-  ssn: 893-12-4096
-  dob: 12/05/1988
-  address: 3855 Main Ln
-  city: Washington
-  state: AZ

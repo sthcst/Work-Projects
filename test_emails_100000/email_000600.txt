@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Jimenez,timothy.jimenez9936@company.com,(690) 829-9348,911-53-3576,17/10/1968,"1239 West St",Denver,IL

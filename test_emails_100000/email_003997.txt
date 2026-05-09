@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Gomez,deborah.gomez8291@example.com,+1 588-692-6130,887-05-7360,05/09/1979,"9581 Spring Dr",San Jose,PA

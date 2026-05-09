@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Stewart,katherine.stewart3386@business.net,543-488-1290,688 52 9339,12/02/1957,"7439 Second Way",San Diego,MA

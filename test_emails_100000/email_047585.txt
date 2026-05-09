@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Gonzalez
-  email: joshua.gonzalez7452@gmail.com
-  phone: 277 458 6428
-  ssn: 774-83-5477
-  dob: 08/27/1956
-  address: 7423 Sixth Rd
-  city: Houston
-  state: TX

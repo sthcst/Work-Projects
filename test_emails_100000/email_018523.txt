@@ -1,9 +1,0 @@
-contact:
-  name: Jane Martinez
-  email: jane.martinez212@work.org
-  phone: (782) 334-3391
-  ssn: 783-70-2267
-  dob: 05/04/1981
-  address: 5335 Main Dr
-  city: Austin
-  state: MI

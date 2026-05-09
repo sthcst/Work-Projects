@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Phillips
-  email: stephanie.phillips4005@company.com
-  phone: 632 501 1288
-  ssn: 958274001
-  dob: 12-10-2003
-  address: 1121 North Way
-  city: Jacksonville
-  state: MA

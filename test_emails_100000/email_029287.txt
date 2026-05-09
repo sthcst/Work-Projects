@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Jimenez,jason.jimenez1502@gmail.com,(943) 768-9250,431569864,02-09-1998,"1580 Cedar Ln",Denver,TX

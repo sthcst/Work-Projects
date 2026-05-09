@@ -1,9 +1,0 @@
-contact:
-  name: Brian White
-  email: brian.white5928@mail.com
-  phone: 854 860 4634
-  ssn: 206025840
-  dob: 23/08/1976
-  address: 7512 North Blvd
-  city: Houston
-  state: TX

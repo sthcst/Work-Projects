@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Lewis
-  email: joseph.lewis7441@outlook.com
-  phone: +1 631-804-2894
-  ssn: 351 34 3354
-  dob: 05/24/1972
-  address: 1488 Oak Ln
-  city: Seattle
-  state: TN

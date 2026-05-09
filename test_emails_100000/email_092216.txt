@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Garcia,shirley.garcia3558@yahoo.com,+1 259-696-2395,999-54-1338,03-10-2001,"7384 Spring Way",Dallas,TN

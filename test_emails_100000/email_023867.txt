@@ -1,9 +1,0 @@
-contact:
-  name: Donald Harris
-  email: donald.harris6450@yahoo.com
-  phone: +1 917-867-1563
-  ssn: 624668959
-  dob: 3/2/1954
-  address: 1013 Spring Ave
-  city: Denver
-  state: CO

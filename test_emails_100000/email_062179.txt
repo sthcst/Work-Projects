@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Harris,jessica.harris5665@mail.com,(510) 601-9674,451-67-3254,07/26/1984,"4470 Sixth St",Austin,FL

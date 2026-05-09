@@ -1,9 +1,0 @@
-contact:
-  name: Jane Wilson
-  email: jane.wilson9765@example.com
-  phone: 466-353-7049
-  ssn: 121 68 6224
-  dob: 05-24-1955
-  address: 959 South Dr
-  city: San Jose
-  state: CO

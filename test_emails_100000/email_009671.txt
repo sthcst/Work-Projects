@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Delgado,anna.delgado47@yahoo.com,760 466 5074,851-61-3738,21/03/1982,"4978 Fifth Blvd",San Jose,CA

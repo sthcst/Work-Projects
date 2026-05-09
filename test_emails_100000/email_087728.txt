@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Gomez,charles.gomez9313@business.net,+1 422-393-7958,142686622,08/12/2000,"8037 West Court",Boston,WA

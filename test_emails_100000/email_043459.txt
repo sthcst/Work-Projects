@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Wilson,jennifer.wilson4740@company.com,+1 302-426-2537,122898294,6/10/2000,"6868 Sixth Court",Chicago,CA

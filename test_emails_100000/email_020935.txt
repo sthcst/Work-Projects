@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Morris,kenneth.morris3291@outlook.com,689 377 6767,301312414,02/16/1966,"8761 First Blvd",New York,WI

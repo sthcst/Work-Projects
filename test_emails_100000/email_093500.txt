@@ -1,9 +1,0 @@
-contact:
-  name: Paul Young
-  email: paul.young2237@company.com
-  phone: +1 388-211-4383
-  ssn: 888432292
-  dob: 27/05/1951
-  address: 2898 Elm Blvd
-  city: Seattle
-  state: NY

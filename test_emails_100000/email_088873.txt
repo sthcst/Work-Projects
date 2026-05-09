@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Campbell
-  email: kenneth.campbell9615@outlook.com
-  phone: (895) 725-6000
-  ssn: 263-83-9258
-  dob: 06/01/1953
-  address: 8015 Birch Rd
-  city: Houston
-  state: WA

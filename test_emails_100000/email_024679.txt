@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Evans,nicole.evans7184@yahoo.com,+1 753-398-8501,563-23-1152,01/13/1964,"7604 East St",Los Angeles,MD

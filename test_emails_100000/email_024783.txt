@@ -1,9 +1,0 @@
-contact:
-  name: Christine Davis
-  email: christine.davis4416@business.net
-  phone: (493) 435-4634
-  ssn: 819-13-2125
-  dob: 12-11-1990
-  address: 4327 Fourth Blvd
-  city: San Jose
-  state: MI

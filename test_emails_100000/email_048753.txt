@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Campbell,rebecca.campbell2023@mail.com,(344) 766-4942,704101029,4/3/1978,"512 North Dr",New York,TX

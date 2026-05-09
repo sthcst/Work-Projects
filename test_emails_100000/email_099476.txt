@@ -1,9 +1,0 @@
-contact:
-  name: Helen Sanchez
-  email: helen.sanchez476@outlook.com
-  phone: +1 826-879-6846
-  ssn: 872 38 4258
-  dob: 12-23-1951
-  address: 273 Sixth Ave
-  city: Jacksonville
-  state: CA

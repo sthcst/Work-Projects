@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Clark
-  email: jessica.clark8271@yahoo.com
-  phone: 638-773-9645
-  ssn: 679 18 5899
-  dob: 07/22/1967
-  address: 3914 Maple Way
-  city: Chicago
-  state: MA

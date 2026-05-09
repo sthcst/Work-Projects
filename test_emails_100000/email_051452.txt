@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Gomez,michelle.gomez2720@gmail.com,268 533 4917,084063885,21/06/1981,"2899 Sixth Ave",Phoenix,WA

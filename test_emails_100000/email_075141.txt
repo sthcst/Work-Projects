@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Gonzalez,stephanie.gonzalez3741@example.com,639 732 3861,776 82 8072,5/11/1990,"4241 Park St",Jacksonville,NY

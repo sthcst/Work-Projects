@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Parker,rachel.parker585@example.com,+1 244-587-8268,135 93 9236,11/20/1953,"8000 North Court",Jacksonville,VA

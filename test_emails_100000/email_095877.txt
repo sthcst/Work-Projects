@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Robinson
-  email: kenneth.robinson8366@example.com
-  phone: +1 767-921-2381
-  ssn: 563511410
-  dob: 06/03/1960
-  address: 9349 Elm St
-  city: Philadelphia
-  state: FL

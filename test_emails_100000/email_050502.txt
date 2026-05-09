@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Garcia,kenneth.garcia4712@work.org,255-735-8619,503828101,12/18/1976,"930 Maple Rd",Washington,PA

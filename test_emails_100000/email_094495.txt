@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Anderson,ronald.anderson3543@gmail.com,711 799 4214,042 29 8183,12/12/1996,"5200 South Blvd",San Jose,MD

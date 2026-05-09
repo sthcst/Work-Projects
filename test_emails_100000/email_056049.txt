@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Alvarado
-  email: lisa.alvarado7113@work.org
-  phone: 479 684 3643
-  ssn: 120 48 9092
-  dob: 08/16/1970
-  address: 2125 Park Blvd
-  city: Seattle
-  state: TN

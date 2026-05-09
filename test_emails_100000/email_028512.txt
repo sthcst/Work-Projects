@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Evans
-  email: christopher.evans3982@business.net
-  phone: 769 307 3298
-  ssn: 760-09-3603
-  dob: 4/7/1997
-  address: 1474 First Blvd
-  city: San Antonio
-  state: MA

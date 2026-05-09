@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Collins,john.collins6697@gmail.com,(934) 980-4186,076217987,22/02/1961,"5419 West Ln",San Antonio,CA

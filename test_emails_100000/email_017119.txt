@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Gomez,donald.gomez7276@outlook.com,+1 387-828-2985,001144613,09/13/1979,"6808 Pine Ave",San Jose,TX

@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Parker
-  email: anthony.parker4212@mail.com
-  phone: 381-233-6457
-  ssn: 264058245
-  dob: 01/12/1956
-  address: 6753 North St
-  city: Houston
-  state: TX

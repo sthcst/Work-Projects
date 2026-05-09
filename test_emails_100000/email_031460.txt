@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Rodriguez
-  email: jeffrey.rodriguez8562@gmail.com
-  phone: 896-365-8544
-  ssn: 338238500
-  dob: 07/16/1992
-  address: 1886 Summer Blvd
-  city: Chicago
-  state: MI

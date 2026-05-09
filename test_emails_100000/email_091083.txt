@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Ramirez
-  email: joshua.ramirez4062@business.net
-  phone: 896-717-9487
-  ssn: 097-59-9760
-  dob: 1/3/1993
-  address: 912 Oak Dr
-  city: Los Angeles
-  state: OH

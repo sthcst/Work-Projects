@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Davis,christopher.davis7347@work.org,+1 708-372-2118,459828745,03/05/1982,"2498 Summer Court",San Antonio,PA

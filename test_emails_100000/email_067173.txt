@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Brown
-  email: jessica.brown9986@company.com
-  phone: 501-397-3635
-  ssn: 231-29-3104
-  dob: 03-18-1964
-  address: 3804 West Dr
-  city: Philadelphia
-  state: TX

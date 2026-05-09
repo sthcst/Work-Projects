@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Robinson,kathleen.robinson9839@outlook.com,532 363 2019,588751599,22/11/1952,"9773 Third Ave",Boston,CA

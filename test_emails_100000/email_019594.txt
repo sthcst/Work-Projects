@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Delgado,james.delgado9964@outlook.com,414 700 1480,478 25 4709,01-06-1973,"3786 Fifth Blvd",Austin,TX

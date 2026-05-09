@@ -1,9 +1,0 @@
-contact:
-  name: Richard Alvarado
-  email: richard.alvarado3970@outlook.com
-  phone: (815) 242-7453
-  ssn: 530657691
-  dob: 07/08/1950
-  address: 6826 Cedar Court
-  city: San Antonio
-  state: MA

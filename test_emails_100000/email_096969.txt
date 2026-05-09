@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Brown,katherine.brown1439@work.org,651-958-1527,082231121,8/26/1962,"8887 Second Blvd",San Diego,PA

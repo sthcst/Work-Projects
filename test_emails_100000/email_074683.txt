@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Thompson,jennifer.thompson9092@gmail.com,653 805 3515,564 62 2020,09-20-1991,"9546 Oak Court",Phoenix,MO

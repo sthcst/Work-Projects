@@ -1,9 +1,0 @@
-contact:
-  name: David Thompson
-  email: david.thompson565@mail.com
-  phone: +1 896-200-2664
-  ssn: 528075033
-  dob: 12/04/1955
-  address: 8489 Oak St
-  city: Phoenix
-  state: DC

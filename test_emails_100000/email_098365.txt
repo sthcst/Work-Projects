@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Walker,amanda.walker1550@outlook.com,(202) 305-5638,844287264,01-19-1983,"9951 Maple Ln",Dallas,VA

@@ -1,9 +1,0 @@
-contact:
-  name: John Johnson
-  email: john.johnson7643@mail.com
-  phone: (530) 814-4431
-  ssn: 376192540
-  dob: 10-18-1994
-  address: 3512 Spring Ave
-  city: Philadelphia
-  state: GA

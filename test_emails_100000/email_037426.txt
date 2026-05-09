@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Campbell
-  email: daniel.campbell9613@gmail.com
-  phone: 666 981 6945
-  ssn: 356-77-7118
-  dob: 8/2/1977
-  address: 3560 Pine Blvd
-  city: San Jose
-  state: NJ

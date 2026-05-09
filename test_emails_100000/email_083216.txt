@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Thomas,pamela.thomas7530@mail.com,(287) 451-6131,362678836,28/04/1964,"2430 Sixth Ln",Dallas,MD

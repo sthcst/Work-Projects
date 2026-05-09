@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Robinson
-  email: cynthia.robinson2051@mail.com
-  phone: +1 581-530-8825
-  ssn: 496514557
-  dob: 11/10/1951
-  address: 9489 Sixth Rd
-  city: Denver
-  state: MI

@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Nunez
-  email: kathleen.nunez6094@example.com
-  phone: 430-873-3210
-  ssn: 332-89-4066
-  dob: 11-27-2002
-  address: 3204 Birch Dr
-  city: New York
-  state: GA

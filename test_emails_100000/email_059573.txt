@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Garcia,donald.garcia7346@yahoo.com,886 747 3870,622-08-5037,10/26/1994,"6091 Oak Dr",Austin,AZ

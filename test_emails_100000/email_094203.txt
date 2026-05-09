@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Perez,maria.perez3639@outlook.com,468 953 7452,047365102,21/09/1975,"128 Main St",Austin,CA

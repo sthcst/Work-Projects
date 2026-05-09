@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Romero
-  email: lisa.romero199@outlook.com
-  phone: 817-706-2117
-  ssn: 844-84-7078
-  dob: 09/02/1967
-  address: 5168 Cedar Court
-  city: Phoenix
-  state: MI

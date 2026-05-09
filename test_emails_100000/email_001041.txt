@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Ramirez
-  email: ryan.ramirez4218@example.com
-  phone: (274) 334-2806
-  ssn: 309-56-7082
-  dob: 3/5/2000
-  address: 4805 Second Court
-  city: New York
-  state: CA

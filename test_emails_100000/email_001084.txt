@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Serrano,samantha.serrano17@work.org,554 809 2326,383 26 1925,05/11/1953,"2919 Main Rd",Boston,WA

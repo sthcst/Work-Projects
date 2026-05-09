@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Nelson,andrew.nelson2549@work.org,(516) 526-4875,047367072,11-09-1979,"4303 Oak Way",San Jose,TX

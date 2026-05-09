@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Garcia,gary.garcia6901@work.org,+1 354-432-8169,988573618,10/02/1975,"2532 Summer St",Austin,MO

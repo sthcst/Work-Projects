@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Bell,megan.bell2378@outlook.com,(914) 224-7358,599 56 9598,7/18/1975,"681 Fifth Ave",San Diego,WA

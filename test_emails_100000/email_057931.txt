@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Hernandez,christine.hernandez9607@work.org,778 928 4785,342-98-6372,10/01/1978,"5327 Third Ln",Chicago,CO

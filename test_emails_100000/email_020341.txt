@@ -1,9 +1,0 @@
-contact:
-  name: Steven Garcia
-  email: steven.garcia1429@outlook.com
-  phone: 222-379-3680
-  ssn: 615795273
-  dob: 04/11/1991
-  address: 5270 Oak Court
-  city: Philadelphia
-  state: OH

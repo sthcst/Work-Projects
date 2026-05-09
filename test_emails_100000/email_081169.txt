@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Garcia
-  email: kimberly.garcia5562@business.net
-  phone: 754-312-9131
-  ssn: 286708982
-  dob: 04/04/1953
-  address: 6339 Pine Rd
-  city: Washington
-  state: TX

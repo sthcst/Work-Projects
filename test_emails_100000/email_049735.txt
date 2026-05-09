@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Robinson,amanda.robinson1295@business.net,+1 596-605-8803,469 31 1320,11/10/1977,"9748 Cedar Ave",Austin,GA

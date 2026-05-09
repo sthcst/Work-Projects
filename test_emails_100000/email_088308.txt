@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Murillo
-  email: cynthia.murillo3114@example.com
-  phone: +1 289-532-4357
-  ssn: 088 58 7388
-  dob: 10-10-1969
-  address: 5012 Fourth Ln
-  city: San Antonio
-  state: OH

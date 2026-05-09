@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Lee,robert.lee1322@business.net,550 745 3926,272445838,07-09-2000,"7425 South Rd",Dallas,MA

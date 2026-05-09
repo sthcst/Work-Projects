@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Smith
-  email: christopher.smith3984@yahoo.com
-  phone: +1 266-996-1717
-  ssn: 005 25 4425
-  dob: 06-01-1986
-  address: 3574 Summer Way
-  city: Chicago
-  state: TN

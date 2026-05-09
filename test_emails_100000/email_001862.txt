@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Smith
-  email: jeffrey.smith8135@yahoo.com
-  phone: (718) 490-8448
-  ssn: 815-43-2195
-  dob: 12/25/1966
-  address: 7599 Spring Ave
-  city: Austin
-  state: NY

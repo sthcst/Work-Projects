@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Parker
-  email: samantha.parker232@yahoo.com
-  phone: 694-460-7906
-  ssn: 325-71-5875
-  dob: 23/03/1982
-  address: 6917 Elm Ave
-  city: Jacksonville
-  state: AZ

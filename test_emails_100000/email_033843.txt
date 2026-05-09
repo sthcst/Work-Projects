@@ -1,9 +1,0 @@
-contact:
-  name: David White
-  email: david.white3151@work.org
-  phone: 200 817 7217
-  ssn: 327-04-7712
-  dob: 25/02/1961
-  address: 2167 Birch Court
-  city: Houston
-  state: NJ

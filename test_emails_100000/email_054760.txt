@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Collins,stephanie.collins121@outlook.com,+1 641-980-1037,430-89-1361,11/8/1952,"2396 Second Ln",Philadelphia,TX

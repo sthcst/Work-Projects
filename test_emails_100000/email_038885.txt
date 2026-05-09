@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Reyes
-  email: jessica.reyes5241@company.com
-  phone: 904-326-7635
-  ssn: 104-23-9744
-  dob: 7/5/1968
-  address: 2903 Maple Ave
-  city: Dallas
-  state: CA

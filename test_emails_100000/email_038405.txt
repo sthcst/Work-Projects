@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Collins,jane.collins2615@company.com,+1 477-369-2077,732-43-2492,4/10/1994,"290 Sixth Rd",Seattle,MO

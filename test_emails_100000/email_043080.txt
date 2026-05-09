@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Ortiz,shirley.ortiz5404@company.com,(647) 714-1548,949491388,07-24-1961,"8002 Second Court",San Diego,TX

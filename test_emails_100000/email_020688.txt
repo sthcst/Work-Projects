@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Anderson
-  email: ronald.anderson6047@company.com
-  phone: +1 954-752-9336
-  ssn: 286 32 7245
-  dob: 10-06-1986
-  address: 8455 Third Rd
-  city: Washington
-  state: CA

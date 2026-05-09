@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Romero
-  email: kimberly.romero1194@yahoo.com
-  phone: 626 768 8799
-  ssn: 295 84 5477
-  dob: 8/11/1993
-  address: 9755 South St
-  city: San Antonio
-  state: PA

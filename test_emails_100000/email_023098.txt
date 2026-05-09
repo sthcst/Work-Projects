@@ -1,9 +1,0 @@
-contact:
-  name: Maria Serrano
-  email: maria.serrano7022@mail.com
-  phone: +1 818-554-2648
-  ssn: 708-32-2655
-  dob: 17/09/1953
-  address: 6752 Summer Rd
-  city: Jacksonville
-  state: IL

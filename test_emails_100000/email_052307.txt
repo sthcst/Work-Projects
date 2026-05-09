@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Perez,mark.perez9065@work.org,631 390 6576,217202032,19/09/2000,"8204 Oak Dr",San Jose,VA

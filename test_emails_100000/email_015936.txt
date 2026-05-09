@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Hall,james.hall9995@company.com,321-900-3462,775975536,08-27-2000,"5906 Summer Dr",New York,TX

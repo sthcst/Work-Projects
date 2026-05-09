@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Garcia
-  email: sarah.garcia9547@mail.com
-  phone: 615 414 7676
-  ssn: 809 13 4515
-  dob: 22/07/1955
-  address: 5486 Maple Court
-  city: Houston
-  state: MD

@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Perez
-  email: ryan.perez9603@company.com
-  phone: +1 885-706-5864
-  ssn: 184-24-5967
-  dob: 08-08-1994
-  address: 1555 Birch St
-  city: San Diego
-  state: WA

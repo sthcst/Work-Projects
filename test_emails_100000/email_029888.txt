@@ -1,9 +1,0 @@
-contact:
-  name: Anna Peterson
-  email: anna.peterson2399@business.net
-  phone: (529) 231-3149
-  ssn: 631 67 6702
-  dob: 02-18-1990
-  address: 525 Third Dr
-  city: San Jose
-  state: NC

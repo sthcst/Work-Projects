@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Gomez,rachel.gomez9615@gmail.com,792 475 9975,398113579,03-12-1969,"3191 Third Blvd",Houston,CA

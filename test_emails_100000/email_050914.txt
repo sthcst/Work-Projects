@@ -1,9 +1,0 @@
-contact:
-  name: James Flores
-  email: james.flores1425@work.org
-  phone: (291) 600-4790
-  ssn: 731262271
-  dob: 6/23/1951
-  address: 3098 Fifth Way
-  city: Seattle
-  state: MA

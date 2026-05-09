@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Flores,nicole.flores3728@mail.com,+1 945-725-9194,415 60 1642,4/5/1988,"1018 West Dr",Boston,NC

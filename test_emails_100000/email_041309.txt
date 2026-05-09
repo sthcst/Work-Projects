@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Harris,rachel.harris3045@example.com,+1 514-956-4366,069 51 1678,03/01/1980,"4175 Main St",San Jose,NC

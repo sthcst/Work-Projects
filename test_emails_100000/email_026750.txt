@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Guerrero,donald.guerrero5131@work.org,(975) 846-5335,642 25 6576,01-27-1967,"962 Birch Way",Dallas,TX

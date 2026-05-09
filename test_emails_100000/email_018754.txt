@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Morris,ashley.morris7799@example.com,(445) 955-8366,118 70 6929,3/10/1998,"485 Second Ave",Dallas,TN

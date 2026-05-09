@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Nunez,pamela.nunez759@example.com,(778) 574-1353,247035338,6/11/2005,"4580 Elm Ln",Washington,GA

@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Parker
-  email: shirley.parker6606@work.org
-  phone: +1 475-577-4974
-  ssn: 377-42-8861
-  dob: 07/07/1957
-  address: 7573 Second Dr
-  city: Philadelphia
-  state: TX

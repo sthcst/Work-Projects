@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Bell,lauren.bell1289@company.com,+1 679-364-5845,809-19-5855,12/10/1991,"8066 Fourth Dr",Jacksonville,GA

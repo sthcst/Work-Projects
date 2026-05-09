@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Collins
-  email: ryan.collins3619@company.com
-  phone: (614) 356-4338
-  ssn: 345-11-4251
-  dob: 06/09/1952
-  address: 1369 West Ln
-  city: New York
-  state: MD

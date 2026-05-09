@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Johnson,paul.johnson1395@gmail.com,271-337-8130,359 73 7885,04/08/1982,"2974 Fifth Rd",Seattle,MI

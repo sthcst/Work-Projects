@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Young,pamela.young948@work.org,321 318 1934,790409663,10/27/1976,"2830 Second Way",Boston,WI

@@ -1,9 +1,0 @@
-contact:
-  name: Helen Smith
-  email: helen.smith3544@company.com
-  phone: 399-483-4719
-  ssn: 377341883
-  dob: 04/10/1996
-  address: 3134 Spring Way
-  city: Austin
-  state: FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Guerrero,lisa.guerrero1554@mail.com,998-449-9554,506 79 2367,9/9/1973,"4731 Third Ln",Seattle,TN

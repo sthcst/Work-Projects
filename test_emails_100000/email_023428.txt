@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Martin
-  email: rachel.martin1678@business.net
-  phone: (457) 353-5170
-  ssn: 814163377
-  dob: 9/19/1967
-  address: 7515 Summer St
-  city: San Diego
-  state: TX

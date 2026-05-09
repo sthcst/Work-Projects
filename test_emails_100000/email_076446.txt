@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Smith,timothy.smith2610@yahoo.com,233-375-1723,894 65 4240,7/16/1966,"4489 West Way",Chicago,AZ

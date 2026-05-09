@@ -1,9 +1,0 @@
-contact:
-  name: Gary Young
-  email: gary.young2661@business.net
-  phone: 529 429 1061
-  ssn: 244393336
-  dob: 06-03-1952
-  address: 690 East Dr
-  city: Austin
-  state: CA

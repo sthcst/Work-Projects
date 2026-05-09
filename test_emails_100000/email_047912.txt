@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Serrano,angela.serrano7220@work.org,799-588-4477,033 72 7383,25/05/1962,"3621 West Dr",Philadelphia,TX

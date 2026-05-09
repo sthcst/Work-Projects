@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Davis,emily.davis4009@gmail.com,(323) 828-2696,931-34-3281,11/11/1974,"4022 Elm Ln",Boston,TX

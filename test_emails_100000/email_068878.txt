@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Morgan,angela.morgan3022@yahoo.com,+1 928-545-4416,135776806,28/11/1955,"2499 Park Ave",Denver,TX

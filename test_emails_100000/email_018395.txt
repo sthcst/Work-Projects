@@ -1,9 +1,0 @@
-contact:
-  name: Donald Miller
-  email: donald.miller5944@gmail.com
-  phone: +1 680-309-5505
-  ssn: 283593931
-  dob: 18/04/2004
-  address: 9322 Park Dr
-  city: San Antonio
-  state: CA

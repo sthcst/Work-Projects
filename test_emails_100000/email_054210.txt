@@ -1,9 +1,0 @@
-contact:
-  name: Anna Wilson
-  email: anna.wilson4495@work.org
-  phone: (873) 400-2412
-  ssn: 381035703
-  dob: 04/16/2000
-  address: 6714 Cedar St
-  city: Dallas
-  state: CA

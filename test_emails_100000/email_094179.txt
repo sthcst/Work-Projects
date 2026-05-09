@@ -1,9 +1,0 @@
-contact:
-  name: Brian Robinson
-  email: brian.robinson7751@work.org
-  phone: (768) 905-3518
-  ssn: 511 46 6171
-  dob: 3/21/1964
-  address: 1827 Fourth Dr
-  city: Austin
-  state: CA

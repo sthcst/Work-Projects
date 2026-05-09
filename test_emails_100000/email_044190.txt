@@ -1,9 +1,0 @@
-contact:
-  name: Anna Romero
-  email: anna.romero9116@work.org
-  phone: (256) 255-9779
-  ssn: 643107442
-  dob: 03/19/1988
-  address: 9660 Fourth Ave
-  city: Denver
-  state: CA

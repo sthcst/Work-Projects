@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Collins,cynthia.collins9887@yahoo.com,376 877 8969,559-47-2196,01/03/1952,"9595 Maple Blvd",Chicago,CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Ortiz,megan.ortiz6376@mail.com,699 332 8997,716-02-8833,8/18/1985,"7181 Park Way",Dallas,AZ

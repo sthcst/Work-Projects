@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Walker,ashley.walker5737@example.com,(694) 233-6027,196-52-1423,03-11-2003,"5361 Oak Way",Los Angeles,TN

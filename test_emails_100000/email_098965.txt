@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Harris,george.harris473@example.com,+1 796-858-5508,481-86-8298,10/20/1971,"8525 South Court",Philadelphia,NC

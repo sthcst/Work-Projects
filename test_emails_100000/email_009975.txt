@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Carter,anthony.carter5542@example.com,+1 443-725-5046,527 64 4084,11/04/1963,"1379 Summer St",Phoenix,DC

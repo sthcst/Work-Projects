@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Roberts,rebecca.roberts8528@work.org,+1 878-259-9162,096 17 1717,05/06/1962,"1008 First Blvd",Houston,CA

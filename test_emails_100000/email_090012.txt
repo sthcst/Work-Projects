@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Rogers
-  email: jennifer.rogers1366@company.com
-  phone: 949 426 6385
-  ssn: 943-06-5415
-  dob: 24/02/1993
-  address: 8581 Fifth Way
-  city: Phoenix
-  state: WA

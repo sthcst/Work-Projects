@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Nelson,helen.nelson6967@yahoo.com,(429) 496-6432,356 13 9201,06-09-1963,"3095 Maple Court",Jacksonville,TN

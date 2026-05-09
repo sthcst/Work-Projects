@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Collins,christopher.collins7221@mail.com,(704) 497-4345,178-58-2169,1/20/2005,"7230 Main St",Los Angeles,WA

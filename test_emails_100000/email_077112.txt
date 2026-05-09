@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Smith
-  email: samantha.smith3042@business.net
-  phone: (305) 804-3963
-  ssn: 216591814
-  dob: 07-03-1958
-  address: 3707 Second Blvd
-  city: Houston
-  state: WA

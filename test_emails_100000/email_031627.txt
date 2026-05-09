@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Morris,john.morris6339@company.com,+1 563-571-5037,079 38 5467,3/5/1974,"9218 Spring Ave",Phoenix,NC

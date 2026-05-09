@@ -1,9 +1,0 @@
-contact:
-  name: Maria Cooper
-  email: maria.cooper4721@gmail.com
-  phone: +1 536-416-7849
-  ssn: 429044381
-  dob: 07-02-1961
-  address: 5915 Oak Dr
-  city: Houston
-  state: VA

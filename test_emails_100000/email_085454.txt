@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Lewis,robert.lewis8559@company.com,(300) 293-8471,301-27-8302,10/03/1982,"2223 Cedar Ln",Seattle,OH

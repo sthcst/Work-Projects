@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Alvarado
-  email: jeffrey.alvarado8976@company.com
-  phone: +1 267-963-7552
-  ssn: 668888506
-  dob: 6/22/1957
-  address: 5800 Maple Way
-  city: Phoenix
-  state: TX

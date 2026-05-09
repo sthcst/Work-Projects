@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Gonzalez,donald.gonzalez5687@outlook.com,+1 809-787-7532,843-43-7068,05-02-1984,"6788 Fifth St",New York,MI

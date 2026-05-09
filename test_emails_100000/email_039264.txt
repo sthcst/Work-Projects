@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Thompson,michelle.thompson4041@work.org,448-380-2961,021-20-6350,9/4/1993,"7349 First St",Seattle,TN

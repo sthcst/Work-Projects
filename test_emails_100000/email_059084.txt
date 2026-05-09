@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Lopez,maria.lopez3855@work.org,237-258-7240,144-97-5778,21/09/1953,"4154 Fifth Court",New York,CO

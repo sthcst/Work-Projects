@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Stewart,jacob.stewart9822@example.com,(572) 818-8530,877507586,10/25/1974,"6303 Elm Court",Dallas,TX

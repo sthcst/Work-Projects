@@ -1,9 +1,0 @@
-contact:
-  name: Richard Clark
-  email: richard.clark8612@yahoo.com
-  phone: 987 749 5696
-  ssn: 715 56 5160
-  dob: 26/04/1958
-  address: 5483 Maple Court
-  city: Jacksonville
-  state: CA

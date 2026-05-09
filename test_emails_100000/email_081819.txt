@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Reed,gary.reed8568@work.org,482-876-6050,750437790,12/7/2000,"5799 Summer Ln",Washington,PA

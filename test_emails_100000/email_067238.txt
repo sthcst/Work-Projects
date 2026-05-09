@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Smith
-  email: christopher.smith2620@yahoo.com
-  phone: 333-573-1402
-  ssn: 331-34-6654
-  dob: 12/03/1984
-  address: 4434 Sixth St
-  city: Austin
-  state: IL

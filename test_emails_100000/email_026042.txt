@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Nelson,brian.nelson4964@company.com,+1 385-854-1284,856-20-5417,06-22-1967,"9728 Cedar Ave",Dallas,AZ

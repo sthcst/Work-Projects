@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Morgan,paul.morgan6331@gmail.com,+1 753-664-9489,805 84 4768,7/19/1981,"6073 North Ln",Austin,NJ

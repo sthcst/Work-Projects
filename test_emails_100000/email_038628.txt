@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Morgan,michael.morgan7707@gmail.com,+1 756-520-8497,575145751,03-14-1973,"699 Maple St",Seattle,DC

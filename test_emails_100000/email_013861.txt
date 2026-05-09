@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Bell,andrew.bell8328@outlook.com,+1 769-627-6977,763 01 4802,2/25/1999,"914 Oak Ave",San Jose,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley White,shirley.white1522@gmail.com,+1 415-738-3175,752 26 7810,07/11/1993,"8745 Pine Ln",Dallas,WI

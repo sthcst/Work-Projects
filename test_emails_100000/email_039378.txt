@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Evans,ryan.evans8391@gmail.com,(524) 340-5936,263993956,28/10/1974,"8467 Fourth Ln",Chicago,NY

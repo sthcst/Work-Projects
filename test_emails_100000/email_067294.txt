@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Moore
-  email: matthew.moore233@yahoo.com
-  phone: 623 661 5123
-  ssn: 939 21 1899
-  dob: 4/7/1973
-  address: 5262 Oak Ln
-  city: Boston
-  state: NJ

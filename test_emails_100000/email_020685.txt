@@ -1,9 +1,0 @@
-contact:
-  name: David Reed
-  email: david.reed2047@gmail.com
-  phone: 508 766 4479
-  ssn: 286 80 3709
-  dob: 12/23/1971
-  address: 4708 North Blvd
-  city: Los Angeles
-  state: MA

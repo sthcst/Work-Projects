@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Hernandez,jennifer.hernandez8319@gmail.com,775 666 7271,687-96-3835,04-04-1975,"2239 Cedar Blvd",Boston,VA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Stewart,gary.stewart9477@business.net,657-425-6857,555 04 6953,11/12/2003,"5524 Spring Dr",Dallas,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Lopez,matthew.lopez327@mail.com,(289) 931-8163,386419006,01/16/1996,"9747 Fourth St",Jacksonville,GA

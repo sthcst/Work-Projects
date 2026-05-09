@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Romero
-  email: lauren.romero8954@example.com
-  phone: 315-773-2680
-  ssn: 602-90-1096
-  dob: 4/4/1953
-  address: 2457 First Dr
-  city: San Antonio
-  state: AZ

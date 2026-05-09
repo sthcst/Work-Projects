@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Lee
-  email: pamela.lee2625@gmail.com
-  phone: (495) 303-4808
-  ssn: 665 61 3011
-  dob: 04-26-2003
-  address: 7199 Fifth Blvd
-  city: Denver
-  state: MA

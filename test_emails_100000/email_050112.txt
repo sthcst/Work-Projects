@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Martinez
-  email: timothy.martinez7965@work.org
-  phone: 321-963-6746
-  ssn: 854425310
-  dob: 6/8/1964
-  address: 2855 First St
-  city: Phoenix
-  state: MI

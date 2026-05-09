@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Edwards
-  email: rebecca.edwards6953@outlook.com
-  phone: 971 553 2551
-  ssn: 672 84 8149
-  dob: 04/09/1999
-  address: 7217 Second Court
-  city: Phoenix
-  state: MA

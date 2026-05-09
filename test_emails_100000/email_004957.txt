@@ -1,9 +1,0 @@
-contact:
-  name: Steven Roberts
-  email: steven.roberts8558@example.com
-  phone: +1 597-437-9584
-  ssn: 940-72-9503
-  dob: 01/06/1963
-  address: 8852 North Blvd
-  city: Washington
-  state: CA

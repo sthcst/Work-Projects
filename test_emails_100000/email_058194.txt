@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Ortiz
-  email: nicholas.ortiz5588@company.com
-  phone: +1 312-754-7333
-  ssn: 512-21-4058
-  dob: 11/08/1972
-  address: 760 Main Court
-  city: San Jose
-  state: PA

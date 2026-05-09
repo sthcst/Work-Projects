@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Dominguez
-  email: katherine.dominguez15@yahoo.com
-  phone: (372) 625-9785
-  ssn: 279-30-2743
-  dob: 11/09/1988
-  address: 6901 Oak Dr
-  city: Boston
-  state: WA

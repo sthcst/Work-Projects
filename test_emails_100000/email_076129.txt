@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Carter,lisa.carter9336@mail.com,846-625-9831,136-54-7617,08-15-1953,"1831 Main Dr",Philadelphia,VA

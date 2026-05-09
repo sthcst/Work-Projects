@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Clark,samantha.clark9951@outlook.com,916 863 5020,610-26-3851,08-08-1951,"8925 East Way",Chicago,NJ

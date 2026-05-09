@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Brown
-  email: jennifer.brown377@gmail.com
-  phone: 963-498-4666
-  ssn: 801-13-1651
-  dob: 21/07/1953
-  address: 433 West Court
-  city: Los Angeles
-  state: TX

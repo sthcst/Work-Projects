@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Smith,kenneth.smith8775@mail.com,237 982 1822,891461591,08/08/2003,"705 Spring Blvd",Dallas,CA

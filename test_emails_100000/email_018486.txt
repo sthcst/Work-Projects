@@ -1,9 +1,0 @@
-contact:
-  name: John Bell
-  email: john.bell589@example.com
-  phone: 558-495-3874
-  ssn: 711388019
-  dob: 14/04/1983
-  address: 3013 Pine Court
-  city: Los Angeles
-  state: MO

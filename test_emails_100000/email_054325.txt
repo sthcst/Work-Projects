@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Gomez,jeffrey.gomez3012@company.com,739 822 4177,139-35-5739,04/11/1973,"2879 Sixth Rd",Dallas,CA

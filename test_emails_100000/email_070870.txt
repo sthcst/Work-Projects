@@ -1,9 +1,0 @@
-contact:
-  name: Robert Campbell
-  email: robert.campbell530@example.com
-  phone: 269 977 7438
-  ssn: 367407903
-  dob: 9/6/1952
-  address: 715 Third St
-  city: San Diego
-  state: WA

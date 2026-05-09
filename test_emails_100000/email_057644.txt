@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Lee,rebecca.lee3977@yahoo.com,239 214 9538,349 88 5744,07/11/1993,"1459 South Blvd",New York,WI

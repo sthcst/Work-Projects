@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Martin
-  email: christopher.martin5915@mail.com
-  phone: 903-831-8704
-  ssn: 266 40 8223
-  dob: 05-23-1958
-  address: 5922 First Court
-  city: Washington
-  state: NC

@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Ortiz
-  email: joseph.ortiz8101@outlook.com
-  phone: (566) 924-5531
-  ssn: 046 66 3564
-  dob: 09/14/1992
-  address: 1675 Summer Way
-  city: Austin
-  state: MD

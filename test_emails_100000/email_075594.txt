@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Jackson
-  email: christopher.jackson6600@mail.com
-  phone: 321-633-5429
-  ssn: 620-60-6924
-  dob: 25/06/1974
-  address: 9779 North Court
-  city: Dallas
-  state: MD

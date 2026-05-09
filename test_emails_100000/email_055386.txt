@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Lee,samantha.lee2359@example.com,+1 875-850-3701,377-75-1516,09/22/1986,"3200 Birch Dr",San Jose,WA

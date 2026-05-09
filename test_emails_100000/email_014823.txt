@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Miller,jeffrey.miller5435@work.org,721 736 6486,872-02-3933,12-26-1964,"4187 West Way",Houston,CO

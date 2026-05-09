@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Nelson,katherine.nelson8747@yahoo.com,+1 538-829-8134,208-48-5988,05-08-2005,"9726 West Way",Boston,FL

@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Alvarado
-  email: nicholas.alvarado485@work.org
-  phone: +1 378-595-4686
-  ssn: 483 82 2174
-  dob: 04-22-1962
-  address: 2913 Birch Blvd
-  city: Seattle
-  state: NY

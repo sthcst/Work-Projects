@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Reyes
-  email: rebecca.reyes4187@mail.com
-  phone: 522 628 7998
-  ssn: 916286787
-  dob: 06/02/1997
-  address: 188 Fifth St
-  city: San Diego
-  state: MA

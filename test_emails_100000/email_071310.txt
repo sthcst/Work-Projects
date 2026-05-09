@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Anderson,brian.anderson299@gmail.com,384-530-4409,509 19 5199,02-08-2005,"2027 Summer Dr",New York,TN

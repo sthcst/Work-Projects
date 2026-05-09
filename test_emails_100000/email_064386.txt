@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Ramirez
-  email: ronald.ramirez6264@company.com
-  phone: (774) 668-4476
-  ssn: 271048076
-  dob: 20/03/1973
-  address: 6438 Main Dr
-  city: San Jose
-  state: WA

@@ -1,9 +1,0 @@
-contact:
-  name: Christine Harris
-  email: christine.harris1691@company.com
-  phone: (659) 282-6566
-  ssn: 693-47-4339
-  dob: 08-02-1997
-  address: 180 Oak Blvd
-  city: Houston
-  state: MI

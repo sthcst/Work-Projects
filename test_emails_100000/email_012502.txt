@@ -1,9 +1,0 @@
-contact:
-  name: Maria Johnson
-  email: maria.johnson2563@company.com
-  phone: 852 773 9489
-  ssn: 200564413
-  dob: 05/04/1968
-  address: 5567 West Rd
-  city: Dallas
-  state: AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Lewis,jennifer.lewis4645@yahoo.com,416-674-4262,039485406,4/16/1978,"9571 Summer Way",Austin,TX

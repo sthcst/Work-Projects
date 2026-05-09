@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Ortiz,jacob.ortiz4566@work.org,201 738 9216,823 40 5134,06/07/1966,"3974 Elm Blvd",Jacksonville,PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Dominguez,richard.dominguez5354@work.org,+1 420-294-2546,006-82-4920,11-22-1985,"64 Park Blvd",Dallas,TX

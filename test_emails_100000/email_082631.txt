@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Morgan,cynthia.morgan4162@business.net,799-802-3372,250243316,11/9/1957,"868 Maple Rd",Philadelphia,WI

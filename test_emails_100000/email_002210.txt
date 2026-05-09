@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Stewart,emily.stewart1454@gmail.com,685 438 1027,643-72-1501,9/6/1956,"1873 Elm Dr",Philadelphia,CA

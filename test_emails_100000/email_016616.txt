@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Moore,matthew.moore4204@company.com,+1 671-555-6323,976298939,8/8/1995,"9993 West Dr",Houston,CA

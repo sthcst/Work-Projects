@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Martin,donald.martin1359@gmail.com,(608) 866-4172,030-94-3982,2/21/1974,"223 North Way",Chicago,GA

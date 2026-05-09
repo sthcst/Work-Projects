@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Dominguez,michelle.dominguez4545@outlook.com,393-494-3773,662 46 7173,03/04/1957,"6614 Sixth Court",San Diego,TX

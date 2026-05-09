@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Peterson
-  email: jeffrey.peterson3939@outlook.com
-  phone: 908-478-9171
-  ssn: 477 66 3425
-  dob: 04/14/1964
-  address: 8811 Park Way
-  city: New York
-  state: TX

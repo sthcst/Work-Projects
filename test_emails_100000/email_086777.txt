@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Reeves
-  email: jessica.reeves3263@example.com
-  phone: 430-309-6308
-  ssn: 531 90 8976
-  dob: 8/8/1967
-  address: 5118 Second Dr
-  city: Jacksonville
-  state: CA

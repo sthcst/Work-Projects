@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Murillo,brian.murillo4438@yahoo.com,(548) 771-1164,472 98 4142,7/27/1975,"6627 South Way",New York,CO

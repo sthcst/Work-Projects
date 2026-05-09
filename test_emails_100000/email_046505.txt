@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Lee
-  email: michelle.lee1588@gmail.com
-  phone: (298) 911-6883
-  ssn: 146-10-3677
-  dob: 06/09/2004
-  address: 2312 East Rd
-  city: Boston
-  state: MD

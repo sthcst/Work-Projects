@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Williams,kenneth.williams7741@work.org,863-728-4347,846 36 6149,08/01/1974,"1988 Third Dr",Washington,CO

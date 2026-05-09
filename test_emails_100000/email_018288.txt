@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Moore
-  email: amanda.moore5025@gmail.com
-  phone: 581-797-3105
-  ssn: 705-22-4393
-  dob: 13/11/1969
-  address: 1197 Oak Court
-  city: Philadelphia
-  state: NJ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Thomas,anna.thomas9511@outlook.com,(706) 655-7224,682092183,01-22-1950,"2694 Main Ln",New York,NJ

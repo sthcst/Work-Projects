@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph White,joseph.white72@yahoo.com,314 753 3401,504 25 7164,10/21/1981,"5353 Spring Blvd",Houston,OH

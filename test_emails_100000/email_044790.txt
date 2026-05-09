@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Williams,michael.williams793@company.com,(480) 545-9394,604303116,12/08/1968,"607 East St",Houston,FL

@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Murillo
-  email: amanda.murillo3071@yahoo.com
-  phone: 254 341 8726
-  ssn: 047 30 7434
-  dob: 13/03/1966
-  address: 7879 Birch Blvd
-  city: Los Angeles
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Anderson,ryan.anderson9143@outlook.com,+1 654-553-9587,211 09 2906,12-12-1979,"5412 Fifth Rd",Houston,WI

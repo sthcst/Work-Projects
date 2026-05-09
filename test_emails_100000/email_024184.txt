@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Carter,lauren.carter1516@company.com,322-629-6904,084-12-3021,12/19/2003,"6871 North Way",Phoenix,NJ

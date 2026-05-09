@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Carter
-  email: rachel.carter4300@gmail.com
-  phone: (222) 622-5456
-  ssn: 559-23-8907
-  dob: 11-03-1966
-  address: 6365 Park Dr
-  city: Boston
-  state: PA

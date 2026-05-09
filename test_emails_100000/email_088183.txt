@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Guerrero
-  email: christopher.guerrero7421@mail.com
-  phone: +1 997-830-5927
-  ssn: 524-91-7614
-  dob: 07-04-2005
-  address: 4911 Maple Rd
-  city: Washington
-  state: NC

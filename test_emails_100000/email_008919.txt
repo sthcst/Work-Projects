@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Rogers
-  email: amanda.rogers8240@outlook.com
-  phone: (723) 246-2942
-  ssn: 309736285
-  dob: 6/18/1985
-  address: 9116 South Blvd
-  city: Chicago
-  state: PA

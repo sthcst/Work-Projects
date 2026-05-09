@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Flores
-  email: amanda.flores4873@gmail.com
-  phone: 657 644 4635
-  ssn: 046-66-6767
-  dob: 10/20/1994
-  address: 1056 Fourth Blvd
-  city: Austin
-  state: VA

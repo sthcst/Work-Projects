@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Smith
-  email: samantha.smith5053@example.com
-  phone: +1 550-998-3009
-  ssn: 496-05-6588
-  dob: 02/17/1987
-  address: 6720 Spring Dr
-  city: Phoenix
-  state: WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Reyes,lisa.reyes449@business.net,(379) 663-3509,557097168,07-09-1993,"250 Fifth Blvd",New York,FL

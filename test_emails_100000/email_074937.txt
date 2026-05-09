@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Alvarado
-  email: kenneth.alvarado4852@mail.com
-  phone: (950) 724-6633
-  ssn: 388-87-3580
-  dob: 05/24/1981
-  address: 3355 Main Way
-  city: Los Angeles
-  state: OH

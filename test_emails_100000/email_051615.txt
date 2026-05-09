@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Perez,amanda.perez5815@business.net,985 994 3753,371-18-4682,07-15-1966,"546 South Court",Seattle,WA

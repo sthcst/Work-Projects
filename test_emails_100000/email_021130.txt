@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Rogers,emma.rogers3286@yahoo.com,(909) 463-8596,255801194,26/08/1953,"589 First Ln",Philadelphia,WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Alvarado,jason.alvarado7294@example.com,443 923 5965,723 92 5870,11/05/1979,"5099 Maple St",Denver,IL

@@ -1,9 +1,0 @@
-contact:
-  name: John Perez
-  email: john.perez9834@business.net
-  phone: 231-234-5476
-  ssn: 670229586
-  dob: 03/27/2001
-  address: 111 Maple Ln
-  city: San Diego
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: William Lee
-  email: william.lee5540@yahoo.com
-  phone: 450 291 2204
-  ssn: 898-55-2096
-  dob: 09-27-1970
-  address: 8089 South Court
-  city: Boston
-  state: IL

@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Moore
-  email: jennifer.moore5878@outlook.com
-  phone: +1 392-302-1273
-  ssn: 363-25-7016
-  dob: 11/27/1969
-  address: 5159 Pine Court
-  city: Seattle
-  state: WA

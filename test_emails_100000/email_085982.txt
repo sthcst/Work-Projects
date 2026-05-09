@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Edwards
-  email: nicholas.edwards8530@company.com
-  phone: (828) 214-3353
-  ssn: 277-99-9909
-  dob: 4/1/2003
-  address: 515 Birch Blvd
-  city: Boston
-  state: OH

@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Johnson
-  email: pamela.johnson697@work.org
-  phone: 942 388 4645
-  ssn: 505136540
-  dob: 05-25-2001
-  address: 2278 Third Ave
-  city: Dallas
-  state: MD

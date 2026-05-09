@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Flores
-  email: jeffrey.flores3109@outlook.com
-  phone: +1 221-883-1306
-  ssn: 511-13-6654
-  dob: 12-26-1968
-  address: 6316 North St
-  city: Denver
-  state: CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Dominguez,ronald.dominguez968@company.com,+1 994-895-1161,898487289,12/18/1999,"6682 Spring St",San Antonio,MA

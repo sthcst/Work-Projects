@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Williams,william.williams4747@outlook.com,+1 694-447-4655,556939075,09-22-2003,"7161 Park Ln",Phoenix,TX

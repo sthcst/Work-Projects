@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Stewart
-  email: jeffrey.stewart9464@company.com
-  phone: 634-268-2351
-  ssn: 416106400
-  dob: 11-19-1987
-  address: 1598 Sixth Blvd
-  city: Washington
-  state: TX

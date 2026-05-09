@@ -1,9 +1,0 @@
-contact:
-  name: Angela Lee
-  email: angela.lee9088@outlook.com
-  phone: 432 638 7343
-  ssn: 834-98-5400
-  dob: 08-07-1955
-  address: 5883 Summer Blvd
-  city: Los Angeles
-  state: WA

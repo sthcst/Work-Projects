@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Roberts,kevin.roberts2553@gmail.com,(526) 203-2935,490 42 1953,03/07/1991,"834 Maple Way",Dallas,MA

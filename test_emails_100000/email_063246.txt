@@ -1,9 +1,0 @@
-contact:
-  name: Mark Lee
-  email: mark.lee9894@company.com
-  phone: 353 664 1623
-  ssn: 682 71 2707
-  dob: 11/4/1975
-  address: 5926 Spring Blvd
-  city: San Diego
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Moore
-  email: jacob.moore2026@outlook.com
-  phone: 620-493-4564
-  ssn: 830889743
-  dob: 9/21/1956
-  address: 3270 Birch Blvd
-  city: San Antonio
-  state: NY

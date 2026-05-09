@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Moore
-  email: rachel.moore4848@work.org
-  phone: 998 314 3176
-  ssn: 986 14 4599
-  dob: 02/01/1963
-  address: 7862 Cedar Ave
-  city: Philadelphia
-  state: VA

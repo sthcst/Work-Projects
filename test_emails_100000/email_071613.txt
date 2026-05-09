@@ -1,9 +1,0 @@
-contact:
-  name: Helen Hernandez
-  email: helen.hernandez5622@business.net
-  phone: 713 879 5121
-  ssn: 269 60 7706
-  dob: 04-21-1977
-  address: 7153 Third Court
-  city: San Diego
-  state: AZ

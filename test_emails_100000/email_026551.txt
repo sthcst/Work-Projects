@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Ramirez,kevin.ramirez1912@mail.com,+1 481-616-5704,462-25-8326,11/20/1997,"5300 Summer Way",Phoenix,CA

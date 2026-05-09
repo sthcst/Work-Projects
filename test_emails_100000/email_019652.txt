@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Romero,pamela.romero780@gmail.com,966 612 6153,201 89 5352,5/26/2004,"5603 Fourth Blvd",Dallas,WA

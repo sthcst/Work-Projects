@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Lee,stephanie.lee2387@business.net,+1 404-258-1212,719283535,05-07-1959,"2144 Second Dr",Boston,FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Lee,pamela.lee1022@yahoo.com,390-919-5291,629805511,10/26/1957,"3465 Cedar St",San Antonio,GA

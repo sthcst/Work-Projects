@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Lopez
-  email: shirley.lopez1374@yahoo.com
-  phone: 605 530 2891
-  ssn: 076247928
-  dob: 4/7/1987
-  address: 5127 Second Way
-  city: Denver
-  state: AZ

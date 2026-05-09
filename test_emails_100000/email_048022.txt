@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Reyes
-  email: jessica.reyes506@example.com
-  phone: 522-222-1934
-  ssn: 436664938
-  dob: 05/06/1989
-  address: 4455 Pine St
-  city: Boston
-  state: WA

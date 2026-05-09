@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Dominguez,nicole.dominguez18@company.com,+1 552-848-9156,159-59-8930,02-14-1997,"1831 North Way",Seattle,MA

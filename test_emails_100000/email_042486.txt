@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Flores,rebecca.flores3700@yahoo.com,(902) 649-2686,525734582,14/11/1954,"8151 Pine Ln",Dallas,NY

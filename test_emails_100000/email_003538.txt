@@ -1,9 +1,0 @@
-contact:
-  name: Maria Rodriguez
-  email: maria.rodriguez8508@business.net
-  phone: 638 669 4293
-  ssn: 562478049
-  dob: 05/22/1983
-  address: 408 Pine Rd
-  city: Austin
-  state: WA

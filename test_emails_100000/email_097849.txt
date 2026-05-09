@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Wilson,lisa.wilson5041@yahoo.com,+1 933-842-1441,586529144,07/12/1968,"3700 Birch Court",Seattle,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Guerrero,jennifer.guerrero8834@company.com,+1 851-881-8115,841 75 4389,23/09/1971,"8036 Park St",Austin,TX

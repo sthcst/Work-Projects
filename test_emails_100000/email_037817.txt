@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Rodriguez,jacob.rodriguez8095@work.org,(880) 411-2732,419-84-7341,04-06-1999,"2416 Elm St",San Jose,CO

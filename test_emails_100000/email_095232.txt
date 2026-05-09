@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Collins,emily.collins9894@mail.com,819 800 2390,029 37 2935,10/13/1989,"5522 Sixth Ln",Los Angeles,AZ

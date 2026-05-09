@@ -1,9 +1,0 @@
-contact:
-  name: John Lopez
-  email: john.lopez504@yahoo.com
-  phone: +1 418-264-9967
-  ssn: 894 28 9821
-  dob: 8/11/1955
-  address: 3518 First Way
-  city: Chicago
-  state: PA

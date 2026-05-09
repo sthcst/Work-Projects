@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Cooper,charles.cooper1478@business.net,493 326 5958,948 08 1074,9/9/1952,"8450 Spring Ave",Austin,VA

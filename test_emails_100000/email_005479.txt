@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Gonzalez,kathleen.gonzalez1691@company.com,611-934-2096,650463994,18/10/1965,"2735 North St",Denver,DC

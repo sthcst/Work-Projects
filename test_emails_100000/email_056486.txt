@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Collins,sarah.collins8382@gmail.com,(263) 591-8050,414-12-9511,08/06/1976,"6903 Park Ave",Jacksonville,TX

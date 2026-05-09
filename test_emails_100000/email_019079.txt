@@ -1,9 +1,0 @@
-contact:
-  name: Michael Young
-  email: michael.young1999@yahoo.com
-  phone: +1 240-239-8722
-  ssn: 860-31-7621
-  dob: 09-27-1983
-  address: 7428 West Rd
-  city: Jacksonville
-  state: MA

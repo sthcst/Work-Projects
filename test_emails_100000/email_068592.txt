@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Martinez,maria.martinez6571@work.org,646 765 6086,853 04 1788,9/18/1954,"5483 Cedar St",Houston,TX

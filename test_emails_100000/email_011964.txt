@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Hernandez,jacob.hernandez5654@example.com,(853) 883-6883,201-74-1313,05/07/1993,"7335 First Ln",Chicago,WI

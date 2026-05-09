@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Reeves,brenda.reeves4342@business.net,(357) 798-9022,462 99 3406,7/6/1991,"3496 Fourth Dr",Denver,TX

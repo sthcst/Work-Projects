@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Campbell,sarah.campbell1111@gmail.com,907-968-3035,906 80 4417,01/08/1974,"6660 West Court",San Antonio,TX

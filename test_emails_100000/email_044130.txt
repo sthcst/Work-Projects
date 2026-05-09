@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Wilson
-  email: joseph.wilson7858@yahoo.com
-  phone: (869) 398-7884
-  ssn: 454-51-6182
-  dob: 07/01/1977
-  address: 1977 Maple Ave
-  city: Austin
-  state: MO

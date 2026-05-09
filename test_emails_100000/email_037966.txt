@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Stewart,robert.stewart8534@outlook.com,215-755-1344,210926114,08/12/1983,"4736 Third St",Boston,FL

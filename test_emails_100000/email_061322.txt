@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Brown
-  email: amanda.brown3895@company.com
-  phone: (668) 819-8312
-  ssn: 222284830
-  dob: 02/11/1992
-  address: 861 Maple Court
-  city: Dallas
-  state: NC

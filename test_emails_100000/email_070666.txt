@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Williams,shirley.williams8907@business.net,502-238-4681,903 43 6650,7/18/1994,"5588 First Rd",San Diego,TN

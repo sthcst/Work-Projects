@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Serrano,cynthia.serrano5910@mail.com,233-827-4613,714-81-2405,12/06/1964,"9217 Fifth Rd",New York,FL

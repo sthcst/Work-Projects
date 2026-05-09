@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Ramirez
-  email: ronald.ramirez3341@example.com
-  phone: 254 716 5635
-  ssn: 488746733
-  dob: 03/03/1968
-  address: 2314 Elm Blvd
-  city: Austin
-  state: CO

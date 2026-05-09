@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Collins
-  email: pamela.collins9179@gmail.com
-  phone: +1 269-277-2173
-  ssn: 092 25 3398
-  dob: 07/25/1964
-  address: 4697 Maple Ave
-  city: San Antonio
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Angela Dominguez
-  email: angela.dominguez7342@outlook.com
-  phone: +1 515-572-6976
-  ssn: 644-67-5837
-  dob: 05/09/1951
-  address: 1892 Maple St
-  city: New York
-  state: MO

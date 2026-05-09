@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Martinez,helen.martinez738@yahoo.com,(690) 905-6539,285064186,07/16/1992,"4944 North Rd",New York,MD

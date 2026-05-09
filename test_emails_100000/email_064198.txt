@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Gomez,anthony.gomez1256@example.com,+1 897-593-6102,245 79 4125,7/8/1968,"4980 Spring Ln",San Jose,MA

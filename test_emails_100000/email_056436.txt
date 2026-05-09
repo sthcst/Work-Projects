@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Martinez
-  email: amanda.martinez9660@outlook.com
-  phone: +1 709-203-7396
-  ssn: 669 77 2971
-  dob: 16/06/1996
-  address: 1379 Birch Dr
-  city: Austin
-  state: MA

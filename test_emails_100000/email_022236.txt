@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Sanchez
-  email: brenda.sanchez2006@work.org
-  phone: (469) 702-1273
-  ssn: 358-85-8043
-  dob: 04/10/1989
-  address: 4096 Elm Way
-  city: Chicago
-  state: MO

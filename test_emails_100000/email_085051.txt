@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Taylor
-  email: rachel.taylor1694@company.com
-  phone: 753 211 7697
-  ssn: 395312177
-  dob: 10/07/1982
-  address: 2844 Main Ave
-  city: Philadelphia
-  state: WI

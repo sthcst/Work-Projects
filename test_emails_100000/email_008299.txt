@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Brown,emily.brown1172@gmail.com,(807) 519-5347,061967634,07-26-1968,"1982 Spring Way",Boston,TX

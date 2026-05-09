@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Harris
-  email: matthew.harris3992@mail.com
-  phone: +1 972-601-1020
-  ssn: 228 01 7018
-  dob: 11/1/1975
-  address: 2475 First Ln
-  city: Philadelphia
-  state: AZ

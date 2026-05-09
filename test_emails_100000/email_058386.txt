@@ -1,9 +1,0 @@
-contact:
-  name: David Jackson
-  email: david.jackson1637@example.com
-  phone: 301-578-1653
-  ssn: 338-95-4019
-  dob: 4/24/1959
-  address: 7352 Main Court
-  city: Chicago
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Thompson
-  email: sarah.thompson3179@mail.com
-  phone: 888 690 8774
-  ssn: 817 05 3224
-  dob: 03-21-1979
-  address: 7587 West St
-  city: San Jose
-  state: NC

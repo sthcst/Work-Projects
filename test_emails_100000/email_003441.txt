@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Smith,jane.smith6397@work.org,678 914 2567,587-79-2154,01/27/1992,"1106 Pine Way",Phoenix,TN

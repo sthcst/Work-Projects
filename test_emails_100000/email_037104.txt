@@ -1,9 +1,0 @@
-contact:
-  name: Emily Roberts
-  email: emily.roberts3523@mail.com
-  phone: 877-750-2951
-  ssn: 405106000
-  dob: 18/01/2003
-  address: 3528 Fourth Blvd
-  city: San Jose
-  state: CA

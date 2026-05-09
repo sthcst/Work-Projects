@@ -1,9 +1,0 @@
-contact:
-  name: Jason Romero
-  email: jason.romero8445@outlook.com
-  phone: 511-408-7244
-  ssn: 267-25-4879
-  dob: 01/07/1968
-  address: 2962 Main Ln
-  city: Seattle
-  state: NJ

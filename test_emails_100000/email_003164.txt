@@ -1,9 +1,0 @@
-contact:
-  name: Richard Jimenez
-  email: richard.jimenez5972@outlook.com
-  phone: 889 246 8485
-  ssn: 717 45 9470
-  dob: 2/26/1965
-  address: 4492 Second Dr
-  city: Jacksonville
-  state: TN

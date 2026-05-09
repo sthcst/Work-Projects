@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Evans
-  email: cynthia.evans6410@gmail.com
-  phone: 903-595-8924
-  ssn: 147 55 5061
-  dob: 07/06/1983
-  address: 7834 Park St
-  city: Austin
-  state: OH

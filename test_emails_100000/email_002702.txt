@@ -1,9 +1,0 @@
-contact:
-  name: Emily Lewis
-  email: emily.lewis5454@work.org
-  phone: 849 855 4478
-  ssn: 384-83-6003
-  dob: 09-26-1970
-  address: 2617 Main Dr
-  city: Jacksonville
-  state: MI

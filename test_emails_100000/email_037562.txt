@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Young,joshua.young3892@mail.com,+1 267-372-2776,040-77-6959,04/03/1990,"5321 First St",Seattle,MI

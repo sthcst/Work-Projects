@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Clark
-  email: samantha.clark6635@business.net
-  phone: 850-301-7586
-  ssn: 092 42 6997
-  dob: 08-17-1988
-  address: 6453 Fifth Blvd
-  city: Chicago
-  state: CA

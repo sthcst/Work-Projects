@@ -1,9 +1,0 @@
-contact:
-  name: Maria Young
-  email: maria.young9901@work.org
-  phone: 562-851-4910
-  ssn: 994 15 2141
-  dob: 09-20-1965
-  address: 6053 Third Court
-  city: Chicago
-  state: CO

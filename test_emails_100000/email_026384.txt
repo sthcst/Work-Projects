@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Davis,pamela.davis9677@yahoo.com,900 998 8705,092 92 3483,6/27/1950,"7677 Cedar Blvd",Philadelphia,DC

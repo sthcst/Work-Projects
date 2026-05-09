@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Reyes,sarah.reyes1272@business.net,666-649-6703,151-87-2637,03/03/1977,"6904 Pine Rd",Phoenix,NC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Ortiz,jennifer.ortiz6460@example.com,513-307-7773,690981574,02-11-1987,"690 Oak Way",Washington,MO

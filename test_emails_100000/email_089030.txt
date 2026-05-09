@@ -1,9 +1,0 @@
-contact:
-  name: Megan Cooper
-  email: megan.cooper6804@gmail.com
-  phone: 239 673 5493
-  ssn: 518355428
-  dob: 04/26/1969
-  address: 6545 Maple St
-  city: Dallas
-  state: DC

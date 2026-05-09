@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Nelson
-  email: katherine.nelson3622@example.com
-  phone: (219) 342-5596
-  ssn: 393-07-1431
-  dob: 4/23/1953
-  address: 2801 Sixth Court
-  city: Seattle
-  state: CA

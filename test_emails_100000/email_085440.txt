@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Jones
-  email: jennifer.jones9713@work.org
-  phone: 243-931-6774
-  ssn: 710791743
-  dob: 8/3/1970
-  address: 3410 East Ave
-  city: Chicago
-  state: OH

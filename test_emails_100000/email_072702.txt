@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Murillo
-  email: matthew.murillo1027@yahoo.com
-  phone: +1 737-259-1518
-  ssn: 499505456
-  dob: 07/13/2001
-  address: 7724 Birch Ave
-  city: Phoenix
-  state: NJ

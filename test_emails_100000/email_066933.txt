@@ -1,9 +1,0 @@
-contact:
-  name: Anna Morgan
-  email: anna.morgan3632@gmail.com
-  phone: 801-599-4152
-  ssn: 737-28-2922
-  dob: 24/04/1976
-  address: 3926 East St
-  city: Denver
-  state: CA

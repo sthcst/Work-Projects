@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Moore,daniel.moore9417@outlook.com,(373) 717-9118,351876187,11/11/1953,"8144 West Ln",Austin,MI

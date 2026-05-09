@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Perez
-  email: pamela.perez3779@gmail.com
-  phone: 521-250-6803
-  ssn: 313992107
-  dob: 08/06/1964
-  address: 5647 Cedar Rd
-  city: San Jose
-  state: PA

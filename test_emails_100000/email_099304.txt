@@ -1,9 +1,0 @@
-contact:
-  name: Helen Dominguez
-  email: helen.dominguez235@company.com
-  phone: 484 981 1182
-  ssn: 024314065
-  dob: 12/09/2005
-  address: 6551 Birch Blvd
-  city: Jacksonville
-  state: OH

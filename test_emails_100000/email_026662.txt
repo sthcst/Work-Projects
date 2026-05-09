@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Davis,brenda.davis4508@work.org,329 223 2008,548 87 9764,6/27/2004,"7479 West Dr",Seattle,CA

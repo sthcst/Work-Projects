@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Evans,emily.evans864@yahoo.com,467 224 7455,003911381,08-10-1994,"8470 First Court",Los Angeles,IL

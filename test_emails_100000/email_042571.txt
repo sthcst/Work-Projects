@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Garcia,jane.garcia9682@mail.com,314 549 1882,792 51 6529,7/13/1993,"4247 Main Court",Chicago,NC

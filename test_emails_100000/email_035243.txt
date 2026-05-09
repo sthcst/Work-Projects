@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Moore,rachel.moore2653@yahoo.com,666-752-3924,144-64-7895,3/9/1980,"2492 First Rd",Austin,IL

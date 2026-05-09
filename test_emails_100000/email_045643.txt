@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Clark,joseph.clark3896@example.com,322 966 9097,930 76 9577,06/07/1969,"479 Second Ave",Jacksonville,TX

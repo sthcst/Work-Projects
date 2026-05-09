@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Peterson,michael.peterson2163@mail.com,276 565 3930,599-48-6481,11/03/1997,"6527 Sixth Ave",New York,TX

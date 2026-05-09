@@ -1,9 +1,0 @@
-contact:
-  name: James Campbell
-  email: james.campbell4072@yahoo.com
-  phone: 314-770-6072
-  ssn: 771 94 3249
-  dob: 01/08/1971
-  address: 3319 First Ln
-  city: San Antonio
-  state: FL

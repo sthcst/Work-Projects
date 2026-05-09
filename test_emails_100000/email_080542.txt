@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Campbell,ronald.campbell556@example.com,210-968-2390,607 16 5286,06-11-1965,"4590 East Rd",Seattle,TN

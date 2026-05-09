@@ -1,9 +1,0 @@
-contact:
-  name: Brian Lee
-  email: brian.lee7122@work.org
-  phone: +1 847-804-2163
-  ssn: 391 99 5769
-  dob: 05/20/1980
-  address: 7129 Sixth Ave
-  city: San Jose
-  state: TX

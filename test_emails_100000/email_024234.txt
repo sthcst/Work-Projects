@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Miller
-  email: jeffrey.miller4135@business.net
-  phone: +1 756-391-2645
-  ssn: 321-90-3697
-  dob: 12/16/1993
-  address: 5853 Park Blvd
-  city: New York
-  state: WI

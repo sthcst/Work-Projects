@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Sanchez,shirley.sanchez1744@business.net,+1 373-394-8526,740 50 4246,8/25/1967,"7550 Park Ln",Chicago,NJ

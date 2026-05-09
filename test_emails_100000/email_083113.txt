@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Johnson,sarah.johnson5463@example.com,510-436-3505,756505758,06-05-1956,"4984 Elm Way",Jacksonville,CA

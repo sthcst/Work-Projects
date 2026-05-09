@@ -1,9 +1,0 @@
-contact:
-  name: Gary Rodriguez
-  email: gary.rodriguez8167@company.com
-  phone: 347-728-6026
-  ssn: 207-85-8067
-  dob: 8/27/1992
-  address: 3112 North Ln
-  city: Houston
-  state: FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Serrano,lauren.serrano2753@business.net,+1 536-908-4528,667 26 4498,05/17/1973,"3868 Maple Dr",Houston,OH

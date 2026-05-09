@@ -1,9 +1,0 @@
-contact:
-  name: Michael Thomas
-  email: michael.thomas2163@yahoo.com
-  phone: 456 830 4630
-  ssn: 398 96 4584
-  dob: 21/04/1979
-  address: 3166 Pine Court
-  city: Phoenix
-  state: NJ

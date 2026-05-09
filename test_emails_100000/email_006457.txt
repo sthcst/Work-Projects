@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Campbell,nicole.campbell3139@mail.com,+1 469-551-5502,892-50-8497,01/25/1955,"5863 West Ave",Houston,VA

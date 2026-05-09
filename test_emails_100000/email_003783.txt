@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Serrano,cynthia.serrano516@yahoo.com,826 375 8371,587-13-1824,13/12/1989,"5108 Maple St",Boston,MA

@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Walker
-  email: rachel.walker8792@work.org
-  phone: +1 597-969-4179
-  ssn: 655-51-6101
-  dob: 10-22-1994
-  address: 3276 Spring Rd
-  city: Philadelphia
-  state: TN

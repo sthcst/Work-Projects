@@ -1,9 +1,0 @@
-contact:
-  name: Anna Brown
-  email: anna.brown1644@yahoo.com
-  phone: +1 356-957-3769
-  ssn: 076227184
-  dob: 01-21-1954
-  address: 7741 Pine Dr
-  city: Dallas
-  state: CO

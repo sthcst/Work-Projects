@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Gomez,lauren.gomez8478@mail.com,600-419-5886,334 68 6585,23/12/1987,"7953 Elm St",San Jose,FL

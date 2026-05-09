@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Perez,christopher.perez8331@yahoo.com,661-435-3782,572144102,08/24/1964,"80 Sixth Court",San Diego,TX

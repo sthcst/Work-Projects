@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Perez,jacob.perez4421@yahoo.com,425 970 4419,181568866,01-10-1993,"2215 Maple St",Boston,CA

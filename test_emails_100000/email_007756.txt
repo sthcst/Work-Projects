@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Johnson
-  email: jennifer.johnson7774@outlook.com
-  phone: (210) 592-3665
-  ssn: 782 70 4476
-  dob: 10/15/1998
-  address: 5921 South Rd
-  city: Chicago
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Jones
-  email: rachel.jones4725@business.net
-  phone: (833) 695-6235
-  ssn: 402 04 3657
-  dob: 01-07-1953
-  address: 4796 Cedar Rd
-  city: Philadelphia
-  state: NJ

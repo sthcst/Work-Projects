@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Dominguez
-  email: jacob.dominguez8457@gmail.com
-  phone: (616) 899-7503
-  ssn: 176824483
-  dob: 05/05/1998
-  address: 3691 West Court
-  city: San Antonio
-  state: TN

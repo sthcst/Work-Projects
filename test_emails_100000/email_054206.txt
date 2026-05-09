@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Stewart,shirley.stewart7478@company.com,449 230 5214,449-88-1081,10/10/1995,"4611 Pine Ln",San Diego,WI

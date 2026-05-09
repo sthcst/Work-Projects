@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Rogers,jane.rogers6635@mail.com,(200) 951-3603,185498615,06/10/1976,"1103 North Ln",Philadelphia,AZ

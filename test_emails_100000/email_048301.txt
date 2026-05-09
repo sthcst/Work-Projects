@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Morris
-  email: joseph.morris5060@company.com
-  phone: 383 389 5513
-  ssn: 891-64-2850
-  dob: 03/06/1965
-  address: 3213 Spring Ave
-  city: San Antonio
-  state: TX

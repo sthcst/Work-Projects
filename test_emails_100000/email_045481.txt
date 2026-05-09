@@ -1,9 +1,0 @@
-contact:
-  name: John Lee
-  email: john.lee9328@example.com
-  phone: 618-965-2214
-  ssn: 109-24-7549
-  dob: 04/27/1978
-  address: 8964 First St
-  city: San Jose
-  state: NJ

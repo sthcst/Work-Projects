@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Serrano
-  email: ronald.serrano3014@gmail.com
-  phone: +1 366-342-8778
-  ssn: 629482333
-  dob: 08-12-2004
-  address: 5729 Elm Dr
-  city: Chicago
-  state: TX

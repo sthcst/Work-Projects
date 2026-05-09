@@ -1,9 +1,0 @@
-contact:
-  name: Mark Harris
-  email: mark.harris9295@yahoo.com
-  phone: 630-623-2583
-  ssn: 689861700
-  dob: 9/17/1987
-  address: 3576 Fifth Ave
-  city: San Diego
-  state: FL

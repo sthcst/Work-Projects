@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Reed,katherine.reed7961@example.com,753 691 5995,075-74-4784,19/04/1963,"196 Summer Ln",Boston,NJ

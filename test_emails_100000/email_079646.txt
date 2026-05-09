@@ -1,9 +1,0 @@
-contact:
-  name: Richard Gonzalez
-  email: richard.gonzalez2599@mail.com
-  phone: (744) 583-9006
-  ssn: 689-91-7855
-  dob: 08/04/1974
-  address: 5634 Sixth Ave
-  city: Washington
-  state: GA

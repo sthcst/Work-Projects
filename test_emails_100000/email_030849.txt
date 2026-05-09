@@ -1,9 +1,0 @@
-contact:
-  name: Megan Nunez
-  email: megan.nunez5402@mail.com
-  phone: 264 230 1014
-  ssn: 479-03-5709
-  dob: 8/5/1974
-  address: 2920 North St
-  city: San Diego
-  state: GA

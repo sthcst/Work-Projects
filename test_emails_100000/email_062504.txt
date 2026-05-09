@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Ramirez,daniel.ramirez1101@company.com,875 440 4477,725 57 5781,11-21-1975,"8702 Fourth Dr",San Diego,IL

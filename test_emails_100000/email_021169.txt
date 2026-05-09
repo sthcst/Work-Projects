@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Jimenez,steven.jimenez7318@example.com,943-729-3572,382-75-8077,17/02/1978,"2696 Maple Dr",Austin,TX

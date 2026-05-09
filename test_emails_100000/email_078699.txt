@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Thompson,lisa.thompson7749@outlook.com,543-841-2567,552-26-5258,01-02-1984,"4600 Third Dr",Boston,OH

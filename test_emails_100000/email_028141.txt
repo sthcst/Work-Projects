@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Robinson
-  email: nicholas.robinson2125@example.com
-  phone: (510) 317-2613
-  ssn: 368 65 4141
-  dob: 12/22/1960
-  address: 1341 Second Ave
-  city: Denver
-  state: CA

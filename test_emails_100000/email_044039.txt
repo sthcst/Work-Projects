@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Delgado,pamela.delgado2666@outlook.com,(616) 909-4581,067-79-6629,11-11-1994,"5889 Park Ln",Austin,FL

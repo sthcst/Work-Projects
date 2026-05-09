@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Romero,ronald.romero7241@work.org,(946) 419-6022,091-85-3900,04-19-1962,"4260 Maple Way",San Diego,TX

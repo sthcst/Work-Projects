@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Wilson,kenneth.wilson670@company.com,+1 734-872-9961,300301768,01/24/1984,"607 Fifth Ln",San Diego,GA

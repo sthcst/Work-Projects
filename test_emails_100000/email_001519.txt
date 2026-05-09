@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Alvarado,joseph.alvarado2183@yahoo.com,607 906 4215,262-89-6625,7/7/1975,"8663 Fourth Way",Philadelphia,MD

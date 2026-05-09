@@ -1,9 +1,0 @@
-contact:
-  name: George Martin
-  email: george.martin4510@yahoo.com
-  phone: 491 914 5114
-  ssn: 829398970
-  dob: 10-28-2004
-  address: 654 West Rd
-  city: Chicago
-  state: WA

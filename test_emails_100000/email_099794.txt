@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Clark,nicole.clark8032@example.com,940 256 7783,939-52-4784,05-02-2003,"7569 Cedar St",San Antonio,MA

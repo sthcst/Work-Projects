@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Sanchez,cynthia.sanchez2272@work.org,+1 441-227-7723,530282242,11-19-1978,"4286 West Blvd",San Diego,MO

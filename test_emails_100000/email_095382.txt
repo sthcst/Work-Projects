@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Williams,samantha.williams6770@company.com,650 991 9145,917 28 6070,19/05/1971,"8598 West Way",Denver,WI

@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Moore
-  email: joshua.moore6122@mail.com
-  phone: +1 987-915-5836
-  ssn: 910-16-1761
-  dob: 6/8/1962
-  address: 4044 Second Way
-  city: Austin
-  state: CO

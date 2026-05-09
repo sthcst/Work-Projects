@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Davis,deborah.davis5572@business.net,+1 729-599-8155,147 79 8192,05/01/1970,"8020 Elm St",Austin,NC

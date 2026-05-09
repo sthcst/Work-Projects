@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven White,steven.white202@yahoo.com,964 545 2075,078 15 9629,04/01/2000,"9416 East Way",Jacksonville,TX

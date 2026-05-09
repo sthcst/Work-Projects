@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Alvarado
-  email: matthew.alvarado255@example.com
-  phone: +1 360-588-2501
-  ssn: 964 09 8030
-  dob: 15/01/2002
-  address: 2380 Maple Ln
-  city: New York
-  state: AZ

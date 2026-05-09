@@ -1,9 +1,0 @@
-contact:
-  name: David Phillips
-  email: david.phillips7055@gmail.com
-  phone: 595 899 8242
-  ssn: 999 39 1549
-  dob: 03/10/2002
-  address: 1791 Third Court
-  city: Washington
-  state: TX

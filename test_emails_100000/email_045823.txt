@@ -1,9 +1,0 @@
-contact:
-  name: Gary Serrano
-  email: gary.serrano8844@yahoo.com
-  phone: (666) 482-2112
-  ssn: 185172948
-  dob: 04-27-1973
-  address: 7852 Birch Court
-  city: Boston
-  state: CO

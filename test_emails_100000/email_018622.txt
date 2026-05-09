@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Hernandez
-  email: matthew.hernandez653@business.net
-  phone: +1 707-521-3706
-  ssn: 118128701
-  dob: 02-18-2004
-  address: 1388 East Dr
-  city: Chicago
-  state: GA

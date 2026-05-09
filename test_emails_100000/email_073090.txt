@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Clark,james.clark2004@work.org,772-578-7963,229543371,17/04/1984,"5156 Pine Ln",Phoenix,NC

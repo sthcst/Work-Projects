@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Collins,jennifer.collins4016@work.org,+1 948-835-2707,365908531,5/7/1993,"647 Fifth Dr",Dallas,PA

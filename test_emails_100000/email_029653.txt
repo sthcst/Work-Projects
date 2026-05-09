@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Garcia,cynthia.garcia7272@outlook.com,(614) 981-4703,557 77 1756,22/01/1997,"5475 Spring St",Phoenix,WA

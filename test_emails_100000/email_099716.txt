@@ -1,9 +1,0 @@
-contact:
-  name: Michael Brown
-  email: michael.brown3150@example.com
-  phone: (858) 791-1746
-  ssn: 459 83 2881
-  dob: 07-14-1956
-  address: 5036 West Blvd
-  city: New York
-  state: GA

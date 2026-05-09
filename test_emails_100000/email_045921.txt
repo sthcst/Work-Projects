@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Martinez,charles.martinez6478@gmail.com,(970) 823-9391,286374269,27/06/1970,"4269 Birch Ave",Phoenix,TX

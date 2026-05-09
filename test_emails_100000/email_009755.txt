@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Lewis,kenneth.lewis5000@work.org,(783) 200-1584,055898053,01/13/1963,"6571 Second Blvd",Washington,NY

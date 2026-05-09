@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Reed,edward.reed1778@gmail.com,(355) 842-9858,753 87 4136,10/11/1981,"3877 Oak Ln",Philadelphia,OH

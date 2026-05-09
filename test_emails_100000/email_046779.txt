@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Jimenez,christine.jimenez9440@business.net,+1 504-203-6445,923-40-3708,23/03/1978,"9628 Cedar Court",San Antonio,CA

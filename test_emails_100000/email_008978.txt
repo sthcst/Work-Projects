@@ -1,9 +1,0 @@
-contact:
-  name: Mark Morris
-  email: mark.morris597@outlook.com
-  phone: 969-925-1868
-  ssn: 010021654
-  dob: 3/1/1996
-  address: 1347 Cedar St
-  city: Los Angeles
-  state: IL

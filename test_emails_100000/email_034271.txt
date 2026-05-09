@@ -1,9 +1,0 @@
-contact:
-  name: Gary Nunez
-  email: gary.nunez8817@work.org
-  phone: +1 423-674-8152
-  ssn: 486-77-6994
-  dob: 01-11-1971
-  address: 6509 Sixth St
-  city: Denver
-  state: CO

@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Perez
-  email: lauren.perez8989@outlook.com
-  phone: 737-655-5849
-  ssn: 685867206
-  dob: 19/06/1973
-  address: 707 Second Rd
-  city: Washington
-  state: CA

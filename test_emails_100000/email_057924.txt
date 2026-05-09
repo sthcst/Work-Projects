@@ -1,9 +1,0 @@
-contact:
-  name: George Gomez
-  email: george.gomez2137@business.net
-  phone: +1 943-799-6417
-  ssn: 694 56 9418
-  dob: 20/08/1979
-  address: 2932 East Ln
-  city: Washington
-  state: TX

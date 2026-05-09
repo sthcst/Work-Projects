@@ -1,9 +1,0 @@
-contact:
-  name: Richard Evans
-  email: richard.evans5123@company.com
-  phone: +1 223-912-8234
-  ssn: 144 30 7847
-  dob: 7/24/1950
-  address: 1924 Third Dr
-  city: Dallas
-  state: MI

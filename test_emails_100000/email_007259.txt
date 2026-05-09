@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Jones
-  email: michelle.jones3179@outlook.com
-  phone: 568-600-3772
-  ssn: 696-10-6208
-  dob: 13/01/1990
-  address: 8467 Spring Ln
-  city: Austin
-  state: TX

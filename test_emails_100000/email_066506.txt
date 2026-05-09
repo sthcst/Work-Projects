@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Sanchez,rachel.sanchez8420@business.net,720-221-3905,200-08-8377,23/08/1980,"123 Sixth Court",San Antonio,NC

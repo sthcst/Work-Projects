@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Phillips,cynthia.phillips539@yahoo.com,572 455 1130,646 29 6735,2/8/1954,"87 Maple St",San Antonio,OH

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Brown,emily.brown4832@yahoo.com,774 758 5276,729376212,06/19/1973,"294 Sixth Dr",San Diego,DC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Ramirez,steven.ramirez6964@work.org,(788) 696-9340,180859150,12-11-1991,"314 Elm Ln",Jacksonville,NY

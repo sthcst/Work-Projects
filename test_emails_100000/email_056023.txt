@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Garcia
-  email: ashley.garcia1301@work.org
-  phone: +1 922-749-8895
-  ssn: 194-45-8842
-  dob: 06-25-1994
-  address: 934 Main Court
-  city: New York
-  state: MO

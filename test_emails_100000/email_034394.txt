@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Romero
-  email: lauren.romero5517@yahoo.com
-  phone: (825) 654-4636
-  ssn: 390 45 1191
-  dob: 01/08/1957
-  address: 5071 Birch Court
-  city: Los Angeles
-  state: CA

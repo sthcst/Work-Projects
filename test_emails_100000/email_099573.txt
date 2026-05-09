@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Lewis
-  email: joseph.lewis4677@outlook.com
-  phone: +1 560-522-4720
-  ssn: 769 20 6933
-  dob: 15/11/1954
-  address: 2603 First Court
-  city: Los Angeles
-  state: AZ

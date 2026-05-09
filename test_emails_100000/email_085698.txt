@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Rodriguez
-  email: andrew.rodriguez2770@work.org
-  phone: 703-532-1103
-  ssn: 445139776
-  dob: 12/24/1952
-  address: 9116 Maple Dr
-  city: Austin
-  state: OH

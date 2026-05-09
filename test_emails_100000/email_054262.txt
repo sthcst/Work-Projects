@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Martinez
-  email: kathleen.martinez2476@business.net
-  phone: 979-755-9807
-  ssn: 440658272
-  dob: 10/17/1989
-  address: 5149 Cedar Rd
-  city: Jacksonville
-  state: TX

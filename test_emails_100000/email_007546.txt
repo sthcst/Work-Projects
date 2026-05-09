@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Flores,angela.flores265@outlook.com,422 857 3671,185-82-2298,04-16-1957,"5436 Summer St",Jacksonville,FL

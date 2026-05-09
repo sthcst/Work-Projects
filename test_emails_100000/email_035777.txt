@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Perez,katherine.perez9210@company.com,848-839-7613,626 93 2840,7/8/1966,"2243 Birch Dr",Chicago,TX

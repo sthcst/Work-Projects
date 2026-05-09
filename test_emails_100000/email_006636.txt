@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Gonzalez,kenneth.gonzalez1195@outlook.com,732-451-5912,051183690,11/12/2000,"5190 West Way",Seattle,AZ

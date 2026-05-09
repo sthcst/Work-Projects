@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Robinson
-  email: jessica.robinson9619@gmail.com
-  phone: 780-239-8474
-  ssn: 701-25-5650
-  dob: 27/11/1956
-  address: 2017 Birch Blvd
-  city: Jacksonville
-  state: MO

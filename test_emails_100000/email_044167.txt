@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Rodriguez,michael.rodriguez2845@yahoo.com,(328) 987-4600,193696183,02/08/1997,"7691 Cedar St",Boston,TN

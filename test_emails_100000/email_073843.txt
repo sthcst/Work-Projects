@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Rodriguez,kathleen.rodriguez2940@example.com,+1 221-972-7335,229857129,07/02/1972,"8020 Spring St",Phoenix,MA

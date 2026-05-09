@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Reeves
-  email: samantha.reeves9231@outlook.com
-  phone: (343) 768-6032
-  ssn: 267-93-1927
-  dob: 08-14-1974
-  address: 9067 Fourth Court
-  city: Los Angeles
-  state: TX

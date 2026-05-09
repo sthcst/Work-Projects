@@ -1,9 +1,0 @@
-contact:
-  name: Angela Bell
-  email: angela.bell3044@example.com
-  phone: +1 525-647-2572
-  ssn: 396421420
-  dob: 25/01/1966
-  address: 3548 Birch Dr
-  city: Denver
-  state: WI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Ramirez,daniel.ramirez6662@yahoo.com,358 531 9362,230 80 4317,8/2/2003,"2327 Fourth Court",Boston,MO

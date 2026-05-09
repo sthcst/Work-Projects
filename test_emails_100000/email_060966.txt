@@ -1,9 +1,0 @@
-contact:
-  name: Michael Guerrero
-  email: michael.guerrero9615@outlook.com
-  phone: +1 832-727-8683
-  ssn: 572 26 2709
-  dob: 08-02-1962
-  address: 4576 Third Ln
-  city: Phoenix
-  state: NJ

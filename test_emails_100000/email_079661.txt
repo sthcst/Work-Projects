@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Garcia
-  email: jeffrey.garcia9258@company.com
-  phone: (675) 333-4143
-  ssn: 877-91-2288
-  dob: 10/04/1993
-  address: 3495 Pine Ave
-  city: Los Angeles
-  state: FL

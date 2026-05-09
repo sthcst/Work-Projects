@@ -1,9 +1,0 @@
-contact:
-  name: Mark Gomez
-  email: mark.gomez3686@yahoo.com
-  phone: 983 560 9210
-  ssn: 911 41 2381
-  dob: 02/11/1981
-  address: 7323 Birch Dr
-  city: Jacksonville
-  state: NC

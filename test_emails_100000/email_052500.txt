@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Stewart
-  email: andrew.stewart1703@business.net
-  phone: +1 635-680-5743
-  ssn: 090-34-1378
-  dob: 17/05/1953
-  address: 2352 South Ln
-  city: Seattle
-  state: MA

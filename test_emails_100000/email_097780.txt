@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Martin
-  email: rachel.martin7917@gmail.com
-  phone: 351 412 1574
-  ssn: 343-27-8743
-  dob: 03/10/1959
-  address: 1166 Sixth St
-  city: Houston
-  state: NY

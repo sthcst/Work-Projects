@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Young,ronald.young6374@business.net,+1 595-774-6434,034 89 2123,03-18-1980,"4404 Third Blvd",New York,DC

@@ -1,9 +1,0 @@
-contact:
-  name: Angela Jackson
-  email: angela.jackson1690@outlook.com
-  phone: 791 577 2767
-  ssn: 523-35-8431
-  dob: 15/08/1977
-  address: 8371 Birch Dr
-  city: Houston
-  state: PA

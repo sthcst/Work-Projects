@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Jackson,michelle.jackson7591@work.org,(563) 305-7764,723248601,07/28/1961,"5406 Fourth Ave",San Jose,DC

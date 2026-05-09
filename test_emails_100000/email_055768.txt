@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Peterson
-  email: kathleen.peterson3436@gmail.com
-  phone: (539) 825-5400
-  ssn: 278353316
-  dob: 4/24/1978
-  address: 6349 Fifth Rd
-  city: Chicago
-  state: CO

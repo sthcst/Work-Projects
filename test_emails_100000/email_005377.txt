@@ -1,9 +1,0 @@
-contact:
-  name: Robert Anderson
-  email: robert.anderson5994@outlook.com
-  phone: (448) 290-2571
-  ssn: 741-84-7993
-  dob: 10/02/1987
-  address: 6461 Maple Blvd
-  city: Los Angeles
-  state: MI

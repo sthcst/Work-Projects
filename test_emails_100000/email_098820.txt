@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Perez,paul.perez5992@example.com,+1 917-839-8398,429 04 4052,10-21-1954,"9395 Fourth Blvd",Los Angeles,TX

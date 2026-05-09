@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Hernandez,david.hernandez9108@yahoo.com,552 345 3155,620198455,12/5/1976,"7158 North Ave",San Jose,NJ

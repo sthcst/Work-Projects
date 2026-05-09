@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Parker
-  email: jessica.parker9835@business.net
-  phone: 512 643 8997
-  ssn: 870815744
-  dob: 07/05/1955
-  address: 6017 Spring Blvd
-  city: Phoenix
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Thomas
-  email: kimberly.thomas6066@gmail.com
-  phone: 457-542-6187
-  ssn: 666-37-6041
-  dob: 22/03/1953
-  address: 5596 Spring St
-  city: Denver
-  state: CA

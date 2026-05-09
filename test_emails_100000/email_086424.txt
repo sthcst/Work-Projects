@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Evans
-  email: jacob.evans2843@company.com
-  phone: (640) 226-3982
-  ssn: 711-55-1517
-  dob: 1/10/1989
-  address: 3307 Sixth Ln
-  city: Houston
-  state: TN

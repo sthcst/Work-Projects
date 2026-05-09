@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Hall
-  email: jeffrey.hall7707@outlook.com
-  phone: 791 213 1629
-  ssn: 441 88 9925
-  dob: 01-28-1950
-  address: 3545 Cedar Court
-  city: Philadelphia
-  state: FL

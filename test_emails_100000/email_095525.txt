@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Bell
-  email: kenneth.bell1067@gmail.com
-  phone: +1 956-282-8914
-  ssn: 277-20-9789
-  dob: 03/14/1966
-  address: 5535 First Rd
-  city: Los Angeles
-  state: WA

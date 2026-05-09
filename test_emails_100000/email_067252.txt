@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Guerrero
-  email: samantha.guerrero2582@company.com
-  phone: 601-495-6447
-  ssn: 057122833
-  dob: 6/6/1990
-  address: 9001 Birch Way
-  city: Washington
-  state: MO

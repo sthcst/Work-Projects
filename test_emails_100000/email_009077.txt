@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Rogers,michael.rogers2773@business.net,+1 573-243-1892,998-13-5748,3/6/1963,"8912 Fourth Blvd",Phoenix,MI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Morgan,rachel.morgan2324@yahoo.com,471-644-4361,924 30 4895,04-17-1986,"9536 Fourth Way",Denver,MD

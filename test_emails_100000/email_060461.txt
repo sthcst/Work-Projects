@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Lee,joseph.lee6248@yahoo.com,+1 854-829-7579,054 72 2135,10/11/1998,"2979 Maple Way",Phoenix,MI

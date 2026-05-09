@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Nelson
-  email: ryan.nelson6138@example.com
-  phone: 576 298 2900
-  ssn: 171 94 6019
-  dob: 09/27/1957
-  address: 4055 Sixth Way
-  city: Washington
-  state: WI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Morris,brenda.morris3729@gmail.com,695-581-5684,710167544,04/03/1992,"4959 Elm Dr",Boston,WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Bell,christine.bell7909@business.net,623 886 8361,033-63-9434,02-22-1971,"4860 Spring St",Dallas,MI

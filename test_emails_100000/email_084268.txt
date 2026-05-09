@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael White,michael.white5635@outlook.com,(905) 417-5107,294 91 3110,02-07-1956,"4729 First St",San Diego,CO

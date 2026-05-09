@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Stewart,christine.stewart1363@gmail.com,769 748 7107,580 96 5840,04/12/1976,"9521 Fourth Blvd",San Jose,FL

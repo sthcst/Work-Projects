@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Lopez,brenda.lopez6708@business.net,793 206 1055,353 17 4843,11-08-1997,"7774 Oak Way",Los Angeles,NC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Lee,rebecca.lee1047@work.org,(270) 920-7846,918 79 1789,11/7/1978,"7493 Summer Dr",Jacksonville,NY

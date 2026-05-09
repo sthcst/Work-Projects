@@ -1,9 +1,0 @@
-contact:
-  name: Angela Ortiz
-  email: angela.ortiz8918@business.net
-  phone: +1 252-236-8616
-  ssn: 378568124
-  dob: 16/08/1951
-  address: 9747 East Way
-  city: Dallas
-  state: GA

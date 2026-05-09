@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Serrano
-  email: christopher.serrano1475@company.com
-  phone: +1 643-355-8815
-  ssn: 300 79 9107
-  dob: 5/19/1994
-  address: 1235 Main Ave
-  city: San Jose
-  state: NY

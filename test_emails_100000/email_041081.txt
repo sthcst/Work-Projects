@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Harris,george.harris9212@gmail.com,931 326 8560,095-30-5906,17/06/1980,"4708 Maple Rd",San Jose,FL

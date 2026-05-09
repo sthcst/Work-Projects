@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Jones
-  email: joseph.jones1512@example.com
-  phone: (961) 776-2131
-  ssn: 041721683
-  dob: 05/09/1950
-  address: 179 Fourth Court
-  city: Chicago
-  state: TX

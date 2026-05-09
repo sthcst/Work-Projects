@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Moore,michael.moore5560@company.com,+1 875-483-1073,668-25-2996,02-19-1988,"1252 Fifth St",Seattle,AZ

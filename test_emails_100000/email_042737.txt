@@ -1,9 +1,0 @@
-contact:
-  name: Donald Morris
-  email: donald.morris5770@outlook.com
-  phone: (581) 339-6967
-  ssn: 583 18 5033
-  dob: 2/7/1959
-  address: 9786 Fourth St
-  city: Seattle
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Edwards,brian.edwards2675@business.net,(827) 854-9684,312-50-8863,8/15/2001,"3516 Pine Court",Boston,WA

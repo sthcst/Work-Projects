@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Lee
-  email: ashley.lee3202@business.net
-  phone: +1 593-233-9326
-  ssn: 673-71-3835
-  dob: 03/08/1973
-  address: 1181 Park Blvd
-  city: Philadelphia
-  state: PA

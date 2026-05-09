@@ -1,9 +1,0 @@
-contact:
-  name: David Collins
-  email: david.collins8857@gmail.com
-  phone: (755) 367-3369
-  ssn: 648635605
-  dob: 3/26/1970
-  address: 6804 South Blvd
-  city: Seattle
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Jane Phillips
-  email: jane.phillips5445@outlook.com
-  phone: +1 762-266-5639
-  ssn: 922 61 1583
-  dob: 11-24-1977
-  address: 7563 Pine Court
-  city: Phoenix
-  state: NC

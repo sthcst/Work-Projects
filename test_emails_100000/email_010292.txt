@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Bell,pamela.bell4898@example.com,389 683 2643,497-46-8420,1/11/1959,"1982 Fifth Court",Austin,VA

@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Morgan
-  email: joshua.morgan4206@yahoo.com
-  phone: 938-908-5039
-  ssn: 502 01 5436
-  dob: 11/09/1974
-  address: 4845 Third Dr
-  city: Los Angeles
-  state: TX

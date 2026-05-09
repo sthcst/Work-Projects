@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Robinson,ronald.robinson4383@yahoo.com,+1 596-309-8279,210631414,05/06/1966,"4047 North Ln",Los Angeles,MO

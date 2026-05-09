@@ -1,9 +1,0 @@
-contact:
-  name: Richard Bell
-  email: richard.bell4012@work.org
-  phone: (697) 680-6287
-  ssn: 595-59-8081
-  dob: 21/06/1955
-  address: 5668 Park Way
-  city: Jacksonville
-  state: VA

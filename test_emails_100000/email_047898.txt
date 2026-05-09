@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Perez
-  email: lauren.perez7169@example.com
-  phone: (910) 404-4870
-  ssn: 031881851
-  dob: 07-13-1954
-  address: 7270 Pine Dr
-  city: Philadelphia
-  state: MI

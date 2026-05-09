@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Jones,gary.jones9476@example.com,873 750 2646,114-42-6228,6/21/1966,"1660 First St",Dallas,MA

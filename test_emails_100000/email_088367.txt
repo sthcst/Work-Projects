@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Clark,jessica.clark6666@example.com,(769) 371-6680,392 04 8364,08/06/1950,"2777 Sixth Court",Chicago,FL

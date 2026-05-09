@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Davis,robert.davis3936@business.net,(262) 426-8204,394 16 7962,10-19-1968,"8276 Second St",Los Angeles,FL

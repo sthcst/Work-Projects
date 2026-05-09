@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Robinson,angela.robinson6897@gmail.com,742-807-3008,201 94 2129,5/3/1962,"2943 Pine Ln",Dallas,PA

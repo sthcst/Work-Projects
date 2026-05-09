@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Gonzalez,matthew.gonzalez4371@yahoo.com,+1 962-629-8309,091 27 8719,06/09/2004,"9486 North Rd",Denver,WA

@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Phillips
-  email: ryan.phillips4435@yahoo.com
-  phone: (848) 294-7359
-  ssn: 216 25 2556
-  dob: 01/08/1956
-  address: 9383 Third Rd
-  city: Austin
-  state: MI

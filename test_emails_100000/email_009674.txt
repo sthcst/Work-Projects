@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Guerrero,donald.guerrero6128@business.net,433-234-1255,097 43 8557,28/07/1969,"670 Oak Ave",Denver,WA

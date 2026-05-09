@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Martin,kathleen.martin2953@gmail.com,571-379-5399,310 44 5030,06/24/1952,"6419 Oak Rd",San Diego,IL

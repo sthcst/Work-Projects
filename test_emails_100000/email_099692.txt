@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Evans,jeffrey.evans829@yahoo.com,244-248-9596,403019697,02-25-1998,"2911 Sixth Dr",Los Angeles,WA

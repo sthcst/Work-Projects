@@ -1,9 +1,0 @@
-contact:
-  name: David Edwards
-  email: david.edwards5221@mail.com
-  phone: 349 336 4577
-  ssn: 697 46 9282
-  dob: 4/16/2005
-  address: 975 First Ln
-  city: New York
-  state: AZ

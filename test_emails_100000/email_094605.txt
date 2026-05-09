@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Roberts
-  email: katherine.roberts6586@example.com
-  phone: (571) 691-3459
-  ssn: 527708649
-  dob: 03-10-1960
-  address: 6432 Main Blvd
-  city: Dallas
-  state: NY

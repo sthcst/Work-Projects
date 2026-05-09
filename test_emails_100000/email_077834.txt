@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Nunez,james.nunez1709@mail.com,497 546 5623,370836874,13/07/1987,"1551 Fourth Blvd",Houston,AZ

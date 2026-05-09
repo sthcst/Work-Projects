@@ -1,9 +1,0 @@
-contact:
-  name: James Roberts
-  email: james.roberts146@yahoo.com
-  phone: +1 731-254-2672
-  ssn: 675-26-9989
-  dob: 22/12/1978
-  address: 7891 Oak Ave
-  city: Denver
-  state: DC

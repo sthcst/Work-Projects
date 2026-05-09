@@ -1,9 +1,0 @@
-contact:
-  name: Anna Ramirez
-  email: anna.ramirez6043@yahoo.com
-  phone: 614 220 8937
-  ssn: 631 23 7583
-  dob: 05/05/1997
-  address: 5700 East Dr
-  city: Seattle
-  state: TX

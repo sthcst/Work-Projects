@@ -1,9 +1,0 @@
-contact:
-  name: William Bell
-  email: william.bell984@yahoo.com
-  phone: 516-844-9464
-  ssn: 376-46-4446
-  dob: 04/01/1983
-  address: 8814 Third Rd
-  city: Philadelphia
-  state: NJ

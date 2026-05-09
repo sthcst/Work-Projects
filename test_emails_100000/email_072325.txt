@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Roberts
-  email: nicole.roberts1015@example.com
-  phone: 663 569 8701
-  ssn: 390-72-9088
-  dob: 12/05/1957
-  address: 9935 Oak Rd
-  city: San Diego
-  state: MO

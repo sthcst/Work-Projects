@@ -1,9 +1,0 @@
-contact:
-  name: George Young
-  email: george.young6737@mail.com
-  phone: 728-777-9593
-  ssn: 520 05 9393
-  dob: 03-01-1997
-  address: 8497 Fifth Ave
-  city: Los Angeles
-  state: PA

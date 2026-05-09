@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Brown
-  email: christopher.brown1451@gmail.com
-  phone: 235 918 1136
-  ssn: 580 90 8219
-  dob: 17/06/1955
-  address: 3220 Sixth Way
-  city: Dallas
-  state: AZ

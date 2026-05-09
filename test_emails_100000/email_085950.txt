@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Perez
-  email: ashley.perez650@yahoo.com
-  phone: +1 449-289-7537
-  ssn: 114067276
-  dob: 03/08/1965
-  address: 1234 Elm Ln
-  city: Dallas
-  state: TX

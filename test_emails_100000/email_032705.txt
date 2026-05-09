@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Morgan
-  email: rebecca.morgan4017@outlook.com
-  phone: (958) 950-3187
-  ssn: 090323034
-  dob: 06-28-1981
-  address: 5041 Sixth Ln
-  city: San Diego
-  state: MA

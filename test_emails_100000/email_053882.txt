@@ -1,9 +1,0 @@
-contact:
-  name: John Taylor
-  email: john.taylor7774@yahoo.com
-  phone: 289-995-3370
-  ssn: 253 18 1926
-  dob: 12/15/1952
-  address: 8233 Main Rd
-  city: Los Angeles
-  state: TX

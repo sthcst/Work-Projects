@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Ortiz,nicole.ortiz6063@mail.com,344-560-2136,192-17-7112,1/20/1990,"3535 Birch Blvd",Seattle,CA

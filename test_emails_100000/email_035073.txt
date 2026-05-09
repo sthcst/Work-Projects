@@ -1,9 +1,0 @@
-contact:
-  name: Angela Moore
-  email: angela.moore9813@example.com
-  phone: (675) 277-1060
-  ssn: 842 31 7680
-  dob: 8/15/1980
-  address: 8609 Elm Ave
-  city: Dallas
-  state: TX

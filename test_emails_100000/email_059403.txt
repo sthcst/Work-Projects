@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Thomas
-  email: jennifer.thomas9614@gmail.com
-  phone: 680-482-9664
-  ssn: 395908077
-  dob: 07/08/1956
-  address: 5034 Fifth Way
-  city: New York
-  state: CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Wilson,david.wilson9387@company.com,681-697-4428,983-13-2715,12/18/1952,"5571 Fourth Way",San Jose,CA

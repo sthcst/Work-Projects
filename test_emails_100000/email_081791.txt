@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Sanchez,angela.sanchez1588@company.com,(912) 357-4871,408811132,3/2/2004,"962 South Rd",Chicago,CA

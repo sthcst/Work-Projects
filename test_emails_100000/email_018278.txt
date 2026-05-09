@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Dominguez
-  email: katherine.dominguez9523@mail.com
-  phone: 258-295-8464
-  ssn: 737912277
-  dob: 09/05/1973
-  address: 2431 Fifth Blvd
-  city: Seattle
-  state: AZ

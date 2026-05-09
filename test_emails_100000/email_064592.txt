@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Romero,jason.romero5770@outlook.com,+1 919-387-6530,238 73 4430,14/11/1963,"3662 Pine Dr",Boston,CA

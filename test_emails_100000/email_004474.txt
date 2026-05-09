@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Harris
-  email: katherine.harris678@yahoo.com
-  phone: +1 632-568-1518
-  ssn: 127239663
-  dob: 26/01/1990
-  address: 7497 Cedar Ave
-  city: Phoenix
-  state: IL

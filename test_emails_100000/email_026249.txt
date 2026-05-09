@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Edwards,matthew.edwards2423@work.org,+1 730-943-1280,488-65-1924,12-01-1980,"442 Second Dr",Boston,CA

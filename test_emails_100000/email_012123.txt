@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Ortiz
-  email: samantha.ortiz2418@yahoo.com
-  phone: +1 482-377-9297
-  ssn: 191 53 8419
-  dob: 5/24/1950
-  address: 2000 Oak Rd
-  city: Austin
-  state: MA

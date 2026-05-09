@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Stewart,anthony.stewart4538@gmail.com,775-261-8458,706-41-4583,9/15/1989,"1904 Maple Ln",Philadelphia,DC

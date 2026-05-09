@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Guerrero,charles.guerrero1435@outlook.com,268 924 1924,022-23-8886,06/14/2002,"5082 Fourth Blvd",Denver,WA

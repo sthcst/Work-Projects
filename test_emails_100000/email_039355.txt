@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Williams,joshua.williams4439@outlook.com,(830) 700-6159,646 56 9930,04/22/1951,"8999 West Blvd",Boston,MD

@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Guerrero
-  email: kevin.guerrero967@mail.com
-  phone: 995-578-7790
-  ssn: 042 50 6671
-  dob: 07/04/1951
-  address: 1812 Elm Ln
-  city: Los Angeles
-  state: CO

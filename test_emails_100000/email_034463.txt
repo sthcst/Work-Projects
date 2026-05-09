@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Garcia,anthony.garcia1530@outlook.com,+1 367-986-9453,467-96-7023,26/03/1969,"5900 Sixth Way",Chicago,GA

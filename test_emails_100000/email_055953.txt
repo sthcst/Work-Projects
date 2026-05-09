@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Miller,nicole.miller8379@outlook.com,+1 906-735-3284,238-86-6384,05-08-1979,"8618 Sixth Dr",Boston,CA

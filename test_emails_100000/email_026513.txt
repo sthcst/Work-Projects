@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Ortiz
-  email: ryan.ortiz5967@business.net
-  phone: +1 450-414-3780
-  ssn: 268-35-2063
-  dob: 11/12/1983
-  address: 4315 Oak Ln
-  city: New York
-  state: MA

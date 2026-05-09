@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth White
-  email: kenneth.white7275@work.org
-  phone: 312-691-3236
-  ssn: 720 81 4899
-  dob: 7/10/1954
-  address: 7772 Elm Blvd
-  city: Dallas
-  state: TX

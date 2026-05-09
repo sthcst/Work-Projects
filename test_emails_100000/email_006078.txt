@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Gomez,anna.gomez1387@mail.com,973-794-3676,213 16 5293,08/11/1992,"8053 Maple Way",San Diego,MI

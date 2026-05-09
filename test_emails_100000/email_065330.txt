@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Sanchez
-  email: samantha.sanchez3740@business.net
-  phone: (462) 758-2557
-  ssn: 598403493
-  dob: 3/17/1957
-  address: 6292 Cedar St
-  city: San Antonio
-  state: NC

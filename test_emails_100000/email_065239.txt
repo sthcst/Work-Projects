@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Stewart,charles.stewart2954@gmail.com,826 624 9742,986 15 1304,20/02/1986,"3839 Cedar Blvd",Boston,NC

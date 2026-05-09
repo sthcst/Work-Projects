@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Ramirez
-  email: rebecca.ramirez8233@outlook.com
-  phone: 279 531 7955
-  ssn: 679997584
-  dob: 05/16/1964
-  address: 5900 Cedar Blvd
-  city: Los Angeles
-  state: TN

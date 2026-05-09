@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Davis,megan.davis2153@mail.com,(307) 588-7966,026-94-1997,03-17-1980,"8084 Fourth Blvd",San Jose,GA

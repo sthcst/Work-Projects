@@ -1,9 +1,0 @@
-contact:
-  name: Mark Jones
-  email: mark.jones1982@gmail.com
-  phone: (771) 840-3875
-  ssn: 678383702
-  dob: 05/09/1976
-  address: 5801 Park Court
-  city: Los Angeles
-  state: TX

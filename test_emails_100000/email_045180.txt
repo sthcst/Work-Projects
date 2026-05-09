@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Delgado
-  email: joshua.delgado6781@work.org
-  phone: (546) 304-9065
-  ssn: 224789730
-  dob: 12/26/2004
-  address: 7765 First Court
-  city: Denver
-  state: VA

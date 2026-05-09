@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Clark,joseph.clark9712@work.org,206 352 7291,514-62-4637,06/12/1970,"2965 Fifth Blvd",Philadelphia,MD

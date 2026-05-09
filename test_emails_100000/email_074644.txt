@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Johnson,richard.johnson1836@company.com,401-334-3923,118828923,09/12/1985,"119 First Blvd",Jacksonville,WA

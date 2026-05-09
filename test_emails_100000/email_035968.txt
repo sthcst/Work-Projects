@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Martin,david.martin4739@company.com,+1 242-799-2025,231 53 6276,3/9/1955,"6776 East Ln",Jacksonville,MO

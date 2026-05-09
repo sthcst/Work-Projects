@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Guerrero,anthony.guerrero657@yahoo.com,+1 664-215-9988,829 09 5372,08-07-1953,"5990 Birch Rd",Boston,DC

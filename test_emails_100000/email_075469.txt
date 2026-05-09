@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Alvarado,samantha.alvarado751@yahoo.com,500-504-3023,655587835,9/9/1984,"348 Pine St",Jacksonville,TX

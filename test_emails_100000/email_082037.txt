@@ -1,9 +1,0 @@
-contact:
-  name: George Smith
-  email: george.smith5521@outlook.com
-  phone: 714 514 7919
-  ssn: 489-95-7042
-  dob: 06/08/1955
-  address: 3696 South Way
-  city: Washington
-  state: TN

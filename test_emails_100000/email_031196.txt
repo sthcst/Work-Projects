@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Alvarado
-  email: katherine.alvarado9335@example.com
-  phone: 368-214-7372
-  ssn: 475 36 4722
-  dob: 7/5/1974
-  address: 1677 Fourth Dr
-  city: Boston
-  state: WI

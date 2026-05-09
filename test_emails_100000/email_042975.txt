@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Lopez,brian.lopez7613@gmail.com,+1 290-656-9958,811 77 2351,4/3/1988,"429 Park Ave",Seattle,AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Martin,lisa.martin9242@yahoo.com,(882) 838-9096,736911333,01/11/1950,"1587 Fifth Dr",Seattle,WI

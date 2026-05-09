@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Guerrero,emily.guerrero4935@work.org,794 976 1417,696-95-6448,09/08/1964,"1333 Sixth Court",San Diego,AZ

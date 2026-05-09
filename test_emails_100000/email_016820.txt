@@ -1,9 +1,0 @@
-contact:
-  name: Joseph White
-  email: joseph.white2550@example.com
-  phone: +1 315-274-1357
-  ssn: 511346487
-  dob: 07/08/1965
-  address: 9402 Fifth Court
-  city: Chicago
-  state: TX

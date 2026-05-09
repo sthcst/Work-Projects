@@ -1,9 +1,0 @@
-contact:
-  name: Jane Clark
-  email: jane.clark3327@example.com
-  phone: (578) 925-9248
-  ssn: 581 84 1593
-  dob: 5/5/1952
-  address: 1843 South St
-  city: Jacksonville
-  state: CA

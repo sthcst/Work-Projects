@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Edwards
-  email: katherine.edwards2029@example.com
-  phone: 337-327-7145
-  ssn: 257-48-1654
-  dob: 9/20/1993
-  address: 5167 South Dr
-  city: Jacksonville
-  state: VA

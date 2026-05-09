@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Campbell
-  email: katherine.campbell7692@yahoo.com
-  phone: 635 334 2406
-  ssn: 692111205
-  dob: 08/05/1963
-  address: 9568 Park Blvd
-  city: San Diego
-  state: MI

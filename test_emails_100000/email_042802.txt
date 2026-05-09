@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Miller,helen.miller2646@yahoo.com,+1 713-239-2684,961 08 1787,5/12/1962,"8987 Pine Ln",Denver,FL

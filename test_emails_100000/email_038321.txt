@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Ortiz,anna.ortiz1989@yahoo.com,+1 507-910-8172,978-48-5048,07-04-1961,"9362 First Court",Boston,FL

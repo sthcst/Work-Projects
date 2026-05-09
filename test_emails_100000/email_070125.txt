@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Martin,emily.martin5295@outlook.com,942 443 1280,426-99-5722,01/01/1969,"2970 Fifth Ln",Phoenix,WA

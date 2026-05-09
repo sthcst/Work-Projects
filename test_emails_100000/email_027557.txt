@@ -1,9 +1,0 @@
-contact:
-  name: Paul Williams
-  email: paul.williams2154@mail.com
-  phone: 946 399 7876
-  ssn: 401 97 2722
-  dob: 07/11/1952
-  address: 9751 East Way
-  city: Boston
-  state: NY

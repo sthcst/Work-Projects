@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Roberts
-  email: katherine.roberts1851@outlook.com
-  phone: (360) 245-5635
-  ssn: 609221453
-  dob: 03-28-1992
-  address: 3181 First Dr
-  city: Denver
-  state: TX

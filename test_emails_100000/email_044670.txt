@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Thompson,samantha.thompson3122@company.com,287 352 4493,129 60 9744,09/03/2001,"4701 East St",San Antonio,NJ

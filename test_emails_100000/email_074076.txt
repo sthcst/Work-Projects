@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Nunez,michael.nunez1622@company.com,679 761 7872,171-56-8952,21/09/1988,"5023 Third Court",Jacksonville,CA

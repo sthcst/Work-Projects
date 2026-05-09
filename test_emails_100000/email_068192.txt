@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Reed
-  email: matthew.reed9087@mail.com
-  phone: +1 213-215-3685
-  ssn: 503-60-4637
-  dob: 08/17/1970
-  address: 87 Elm Way
-  city: Dallas
-  state: MO

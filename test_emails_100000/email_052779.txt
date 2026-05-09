@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Alvarado
-  email: sarah.alvarado7676@company.com
-  phone: +1 602-384-5503
-  ssn: 341 29 6299
-  dob: 11/8/1986
-  address: 4865 Park Dr
-  city: San Antonio
-  state: GA

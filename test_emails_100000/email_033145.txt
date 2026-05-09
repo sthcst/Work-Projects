@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Jimenez,joseph.jimenez4711@business.net,(762) 957-8785,164504029,04/26/1951,"7361 Pine Blvd",Boston,PA

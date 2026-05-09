@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Anderson,nicholas.anderson4292@work.org,434-988-5116,471636211,05/01/1971,"9449 Fifth Dr",Austin,CO

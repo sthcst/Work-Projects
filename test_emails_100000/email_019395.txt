@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Morgan
-  email: lisa.morgan3240@work.org
-  phone: (730) 866-4435
-  ssn: 386-05-5992
-  dob: 14/10/1958
-  address: 9267 East Way
-  city: San Jose
-  state: AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Nelson,stephanie.nelson7099@business.net,867-386-1022,667 74 4831,2/17/1987,"9563 North Blvd",Los Angeles,MO

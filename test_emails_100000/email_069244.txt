@@ -1,9 +1,0 @@
-contact:
-  name: Megan Stewart
-  email: megan.stewart1457@work.org
-  phone: (903) 631-2250
-  ssn: 487 95 1290
-  dob: 8/25/1983
-  address: 2031 South St
-  city: Austin
-  state: FL

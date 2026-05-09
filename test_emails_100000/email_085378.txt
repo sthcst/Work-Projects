@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Lewis,timothy.lewis9198@mail.com,+1 716-296-1385,385 31 7690,08/24/1993,"5840 Oak Court",San Jose,CO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Jackson,andrew.jackson7625@yahoo.com,+1 941-839-7970,324 54 5617,6/24/1963,"8545 Spring St",San Antonio,TX

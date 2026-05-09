@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Flores
-  email: ryan.flores9128@work.org
-  phone: +1 845-537-9008
-  ssn: 241 20 5764
-  dob: 12/01/1992
-  address: 592 South St
-  city: Phoenix
-  state: VA

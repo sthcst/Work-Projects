@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Gonzalez
-  email: lauren.gonzalez7145@company.com
-  phone: (621) 517-9332
-  ssn: 932 89 4322
-  dob: 24/04/1960
-  address: 2932 Summer St
-  city: Seattle
-  state: CA

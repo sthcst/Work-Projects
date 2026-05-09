@@ -1,9 +1,0 @@
-contact:
-  name: Mark Dominguez
-  email: mark.dominguez5906@outlook.com
-  phone: (324) 904-2251
-  ssn: 536167170
-  dob: 2/20/1957
-  address: 6202 Cedar Ave
-  city: Jacksonville
-  state: IL

@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Martin
-  email: ryan.martin2431@gmail.com
-  phone: 373 307 8491
-  ssn: 955-61-1764
-  dob: 01/11/1983
-  address: 952 Park Blvd
-  city: Houston
-  state: TX

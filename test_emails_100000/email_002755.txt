@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Romero,stephanie.romero7955@gmail.com,950-569-4927,199679108,3/22/1984,"9614 Cedar Ave",Phoenix,TN

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Nelson,michael.nelson8044@gmail.com,983 804 4723,821 21 4586,08/24/1979,"9506 Park Rd",Chicago,MA

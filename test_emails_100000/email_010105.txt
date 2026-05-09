@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Ramirez,christopher.ramirez1781@company.com,(407) 622-5799,156 63 2295,01-15-1951,"8848 West Blvd",Phoenix,NJ

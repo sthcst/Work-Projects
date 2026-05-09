@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Nunez,christine.nunez1858@business.net,325 694 1957,723 03 3231,11/23/1997,"7563 Oak Rd",San Antonio,IL

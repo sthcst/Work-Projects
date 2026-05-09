@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Stewart
-  email: sarah.stewart2163@outlook.com
-  phone: 846-590-1022
-  ssn: 732-29-5489
-  dob: 09/09/1959
-  address: 3324 Second Blvd
-  city: Denver
-  state: CA

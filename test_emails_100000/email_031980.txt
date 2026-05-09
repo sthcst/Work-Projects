@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Parker,kathleen.parker5546@work.org,697-753-8501,138-93-6918,23/12/2005,"8381 West Blvd",Los Angeles,MA

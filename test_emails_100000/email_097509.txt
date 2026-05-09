@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Nunez
-  email: ryan.nunez352@company.com
-  phone: (889) 392-4373
-  ssn: 154-98-7386
-  dob: 08-24-1952
-  address: 8446 Fourth Way
-  city: Houston
-  state: AZ

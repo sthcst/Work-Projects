@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Ramirez
-  email: amanda.ramirez8839@gmail.com
-  phone: 782-667-2959
-  ssn: 660 68 4585
-  dob: 03-12-1970
-  address: 5602 First St
-  city: Austin
-  state: AZ

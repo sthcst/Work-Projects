@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Reed
-  email: deborah.reed915@yahoo.com
-  phone: 609-946-6572
-  ssn: 170-74-5765
-  dob: 04/26/2000
-  address: 7512 Park St
-  city: Denver
-  state: NC

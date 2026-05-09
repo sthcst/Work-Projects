@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Perez,james.perez2258@mail.com,(613) 585-7725,279416892,09/03/1992,"7242 First Way",Los Angeles,CO

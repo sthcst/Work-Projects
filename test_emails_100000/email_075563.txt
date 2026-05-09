@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Moore,john.moore5948@example.com,855-268-9157,299028032,06/19/1962,"3589 Cedar Court",Houston,NC

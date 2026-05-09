@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Gomez
-  email: ashley.gomez4885@outlook.com
-  phone: (998) 375-9153
-  ssn: 938 12 3090
-  dob: 8/28/1972
-  address: 6058 Sixth Way
-  city: San Antonio
-  state: MA

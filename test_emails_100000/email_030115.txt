@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Morgan
-  email: joshua.morgan8669@outlook.com
-  phone: 609 717 4306
-  ssn: 874 92 5204
-  dob: 22/09/1984
-  address: 5560 Summer Dr
-  city: San Jose
-  state: GA

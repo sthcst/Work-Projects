@@ -1,9 +1,0 @@
-contact:
-  name: Anna Clark
-  email: anna.clark436@example.com
-  phone: 544 560 6688
-  ssn: 103167443
-  dob: 07-17-2000
-  address: 3138 North Blvd
-  city: Austin
-  state: GA

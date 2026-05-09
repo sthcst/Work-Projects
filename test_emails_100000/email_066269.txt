@@ -1,9 +1,0 @@
-contact:
-  name: Emily Bell
-  email: emily.bell4121@business.net
-  phone: 483-365-5214
-  ssn: 447-17-6111
-  dob: 10/05/1962
-  address: 7015 Elm Court
-  city: Boston
-  state: CA

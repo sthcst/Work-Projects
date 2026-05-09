@@ -1,9 +1,0 @@
-contact:
-  name: George Gonzalez
-  email: george.gonzalez2808@work.org
-  phone: 954-624-8513
-  ssn: 096-50-2230
-  dob: 08/02/1956
-  address: 1609 Main Court
-  city: San Antonio
-  state: MO

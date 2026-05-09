@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Ramirez
-  email: rebecca.ramirez224@work.org
-  phone: +1 375-621-9526
-  ssn: 850-10-7534
-  dob: 09-17-2005
-  address: 5157 Oak Ln
-  city: San Antonio
-  state: CA

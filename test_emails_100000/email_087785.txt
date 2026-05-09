@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Stewart,david.stewart8976@work.org,(762) 816-2276,459-90-5026,01/11/1975,"6864 East St",Austin,MA

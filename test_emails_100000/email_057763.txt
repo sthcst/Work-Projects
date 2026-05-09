@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Flores
-  email: joseph.flores7599@mail.com
-  phone: (658) 952-7305
-  ssn: 712429436
-  dob: 5/14/1976
-  address: 3792 Fourth Ln
-  city: Houston
-  state: AZ

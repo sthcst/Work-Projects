@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Moore
-  email: timothy.moore3062@work.org
-  phone: 882 630 5119
-  ssn: 833 56 8250
-  dob: 04-24-2004
-  address: 4711 Fourth St
-  city: San Antonio
-  state: VA

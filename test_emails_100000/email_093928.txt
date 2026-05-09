@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Wilson,nicole.wilson8577@work.org,538 587 6199,046892233,12-25-1977,"1758 Fifth Court",Phoenix,VA

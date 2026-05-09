@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Robinson
-  email: amanda.robinson9785@company.com
-  phone: (950) 584-3012
-  ssn: 649-92-4729
-  dob: 12/19/1986
-  address: 3104 Sixth Court
-  city: Denver
-  state: CA

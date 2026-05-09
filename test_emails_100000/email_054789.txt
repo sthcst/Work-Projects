@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Campbell,andrew.campbell9128@yahoo.com,+1 789-929-3884,220875912,12/13/1989,"6401 Fourth Court",Seattle,NC

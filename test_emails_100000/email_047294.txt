@@ -1,9 +1,0 @@
-contact:
-  name: Anthony White
-  email: anthony.white2840@yahoo.com
-  phone: +1 416-957-8974
-  ssn: 324 97 4357
-  dob: 11/03/1955
-  address: 3480 Third Rd
-  city: Denver
-  state: PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Taylor,anna.taylor5248@mail.com,468 538 1344,420 82 1932,04-07-1951,"3511 East Ln",Phoenix,WA

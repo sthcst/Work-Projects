@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Brown
-  email: brenda.brown5983@business.net
-  phone: (445) 835-8928
-  ssn: 627-43-4429
-  dob: 11/05/1967
-  address: 3525 First Ln
-  city: Austin
-  state: NC

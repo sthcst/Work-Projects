@@ -1,9 +1,0 @@
-contact:
-  name: Jane Gonzalez
-  email: jane.gonzalez8915@example.com
-  phone: 564 667 4266
-  ssn: 236-74-2530
-  dob: 10/2/1992
-  address: 3819 Birch St
-  city: Phoenix
-  state: WI

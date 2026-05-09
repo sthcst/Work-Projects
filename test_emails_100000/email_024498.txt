@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Morgan,michael.morgan173@mail.com,406-956-7937,033-68-1421,12/15/1978,"6117 Sixth St",Philadelphia,CA

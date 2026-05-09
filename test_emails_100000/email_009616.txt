@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Miller,ronald.miller8312@example.com,272 688 9067,707-85-3807,13/12/2004,"8776 First Court",Jacksonville,NY

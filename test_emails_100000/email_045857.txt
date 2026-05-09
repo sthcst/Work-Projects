@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Phillips,matthew.phillips7933@work.org,941-979-7939,780649364,06/02/1973,"1023 Cedar Rd",Seattle,MA

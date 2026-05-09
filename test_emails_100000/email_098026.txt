@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Nunez
-  email: joseph.nunez8220@yahoo.com
-  phone: +1 629-287-9123
-  ssn: 003-42-5014
-  dob: 01/10/1970
-  address: 4836 Park Ln
-  city: Jacksonville
-  state: TX

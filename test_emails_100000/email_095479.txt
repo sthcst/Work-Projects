@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Romero,lisa.romero9089@mail.com,475 601 7086,756-97-2549,02-06-1956,"4878 Pine Way",New York,GA

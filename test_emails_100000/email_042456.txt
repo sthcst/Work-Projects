@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Miller,andrew.miller7217@business.net,362 768 8352,221785815,08/07/1960,"698 Main Rd",New York,NY

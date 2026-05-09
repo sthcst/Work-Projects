@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Lewis
-  email: michelle.lewis8953@company.com
-  phone: +1 913-518-9288
-  ssn: 260 35 2483
-  dob: 12/11/1988
-  address: 7039 First Ln
-  city: Dallas
-  state: DC

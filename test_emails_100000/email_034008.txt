@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Robinson
-  email: nicholas.robinson6370@gmail.com
-  phone: 781 683 8293
-  ssn: 045124486
-  dob: 23/04/1984
-  address: 4842 First Court
-  city: Philadelphia
-  state: NC

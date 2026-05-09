@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Roberts
-  email: kenneth.roberts2923@outlook.com
-  phone: +1 254-342-5779
-  ssn: 610-05-2289
-  dob: 12/02/1978
-  address: 7967 Summer Blvd
-  city: Seattle
-  state: IL

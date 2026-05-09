@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Lewis,katherine.lewis6707@yahoo.com,+1 535-558-7532,204-99-3632,16/03/1974,"3363 First Dr",Boston,CA

@@ -1,9 +1,0 @@
-contact:
-  name: John Jones
-  email: john.jones7354@work.org
-  phone: (227) 515-3791
-  ssn: 041502231
-  dob: 10/11/1972
-  address: 7421 Elm St
-  city: San Jose
-  state: MA

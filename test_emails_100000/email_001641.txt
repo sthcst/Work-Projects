@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Sanchez,lisa.sanchez7857@outlook.com,(909) 640-3789,515 15 2216,06/01/1963,"4764 Birch Court",San Diego,CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Nelson,kevin.nelson4102@example.com,+1 546-667-3892,437-37-8750,11/2/1969,"4141 South Dr",San Diego,MA

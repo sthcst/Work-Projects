@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Harris,donald.harris2705@gmail.com,584-962-6097,507674208,09-04-1957,"6379 Pine Rd",Seattle,FL

@@ -1,9 +1,0 @@
-contact:
-  name: Jason Rodriguez
-  email: jason.rodriguez4683@mail.com
-  phone: 910 373 3647
-  ssn: 564-89-7099
-  dob: 06/07/1976
-  address: 6304 Third Blvd
-  city: Austin
-  state: NJ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Edwards,michelle.edwards5361@company.com,918-817-6753,166-77-1616,03/28/1974,"2431 Fifth Dr",San Jose,MO

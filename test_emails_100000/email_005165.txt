@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Lopez
-  email: kimberly.lopez5809@company.com
-  phone: +1 534-305-9998
-  ssn: 547 76 1059
-  dob: 06/03/1958
-  address: 166 Pine Dr
-  city: Chicago
-  state: CO

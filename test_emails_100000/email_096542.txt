@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Peterson,mark.peterson6505@gmail.com,(576) 459-5805,787 97 2455,20/07/1977,"1189 Birch Dr",Seattle,WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Gomez,timothy.gomez8856@company.com,319 427 2502,635 24 5278,20/11/1990,"993 West Rd",Los Angeles,NC

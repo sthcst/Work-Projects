@@ -1,9 +1,0 @@
-contact:
-  name: Donald Thomas
-  email: donald.thomas7546@example.com
-  phone: 750 888 6490
-  ssn: 829902989
-  dob: 6/9/1967
-  address: 3662 Birch Dr
-  city: Dallas
-  state: CA

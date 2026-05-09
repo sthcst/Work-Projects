@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Rogers,ryan.rogers9511@outlook.com,633 888 4466,318 80 1409,5/25/1984,"7564 Cedar Way",Austin,MA

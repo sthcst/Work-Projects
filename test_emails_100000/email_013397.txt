@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Anderson,kathleen.anderson2917@example.com,(817) 403-7166,463941307,01/02/1968,"9648 South Rd",Dallas,TX

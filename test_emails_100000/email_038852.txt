@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Rogers,mark.rogers1307@company.com,+1 404-411-4277,974184692,06/07/2000,"7337 West Ln",Philadelphia,CA

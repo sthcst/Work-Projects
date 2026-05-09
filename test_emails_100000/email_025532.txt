@@ -1,9 +1,0 @@
-contact:
-  name: Brian Gonzalez
-  email: brian.gonzalez6832@example.com
-  phone: (727) 681-1021
-  ssn: 085607548
-  dob: 03-12-1992
-  address: 2076 First Court
-  city: San Jose
-  state: MA

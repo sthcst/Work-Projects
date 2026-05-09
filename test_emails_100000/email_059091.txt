@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Edwards
-  email: jeffrey.edwards6008@example.com
-  phone: 965 565 8387
-  ssn: 082-26-5594
-  dob: 06/28/1990
-  address: 7522 Fifth St
-  city: Philadelphia
-  state: DC

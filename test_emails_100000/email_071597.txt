@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Edwards
-  email: jeffrey.edwards9661@mail.com
-  phone: 656-532-4503
-  ssn: 691 33 4357
-  dob: 08/08/1968
-  address: 1649 Cedar Dr
-  city: Washington
-  state: VA

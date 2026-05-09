@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Morgan,james.morgan1610@example.com,764 659 7457,669-31-4739,11-17-1969,"9668 Elm Ln",Philadelphia,OH

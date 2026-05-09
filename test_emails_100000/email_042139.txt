@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Reed
-  email: sarah.reed6500@example.com
-  phone: +1 246-849-1165
-  ssn: 212-75-9266
-  dob: 08/17/1972
-  address: 9789 Fourth St
-  city: Philadelphia
-  state: MA

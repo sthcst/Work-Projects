@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Young
-  email: sarah.young1605@outlook.com
-  phone: (986) 562-8277
-  ssn: 608-34-3401
-  dob: 5/8/2003
-  address: 2078 Birch Court
-  city: Dallas
-  state: MA

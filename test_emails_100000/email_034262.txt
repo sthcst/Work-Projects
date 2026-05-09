@@ -1,9 +1,0 @@
-contact:
-  name: Angela Lopez
-  email: angela.lopez6033@mail.com
-  phone: (764) 938-9751
-  ssn: 177 33 9903
-  dob: 05/02/1970
-  address: 791 Summer Court
-  city: San Jose
-  state: WA

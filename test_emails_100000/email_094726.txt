@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Edwards,rebecca.edwards9151@business.net,+1 540-409-1522,543-55-1910,6/16/1990,"9097 East Ln",Jacksonville,OH

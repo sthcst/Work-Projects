@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Wilson,samantha.wilson8801@example.com,488 288 6867,246948973,8/11/1987,"384 Second Blvd",San Diego,MI

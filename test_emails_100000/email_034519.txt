@@ -1,9 +1,0 @@
-contact:
-  name: Anna Bell
-  email: anna.bell8428@outlook.com
-  phone: (705) 310-3416
-  ssn: 188 92 3463
-  dob: 10/22/1994
-  address: 1351 Elm St
-  city: Dallas
-  state: CA

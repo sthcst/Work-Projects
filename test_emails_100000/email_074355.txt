@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Johnson,gary.johnson2810@business.net,306 553 6293,157-42-9706,04/17/1988,"3214 Second Ln",Denver,WI

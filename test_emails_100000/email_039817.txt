@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Taylor,donald.taylor7088@yahoo.com,(659) 604-8752,220107619,08/06/1995,"9216 Oak Rd",Philadelphia,GA

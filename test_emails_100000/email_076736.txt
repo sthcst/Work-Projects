@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Smith,robert.smith4387@example.com,(315) 624-8520,238 57 6470,02/10/1971,"5309 Third Blvd",San Jose,CA

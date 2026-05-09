@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Peterson,gary.peterson7832@example.com,318-838-5397,513-18-9240,11/04/1956,"3268 First Ave",Phoenix,AZ

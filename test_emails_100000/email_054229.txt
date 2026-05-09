@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Lewis,anthony.lewis5249@gmail.com,+1 985-836-7764,736-17-5751,9/13/1986,"4981 Sixth Rd",New York,GA

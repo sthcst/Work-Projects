@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Reeves,richard.reeves8202@business.net,(973) 988-2705,895-66-8218,25/06/1954,"8449 Fourth Ave",Boston,TX

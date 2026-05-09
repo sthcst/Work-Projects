@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Williams
-  email: kathleen.williams4768@yahoo.com
-  phone: 780-948-8715
-  ssn: 990-81-8681
-  dob: 07/18/2000
-  address: 442 West Dr
-  city: Phoenix
-  state: TX

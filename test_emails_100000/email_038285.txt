@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Delgado
-  email: christopher.delgado570@work.org
-  phone: +1 801-579-5310
-  ssn: 938 86 8263
-  dob: 12/27/1997
-  address: 8895 South Rd
-  city: Denver
-  state: NY

@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Gonzalez
-  email: sarah.gonzalez8704@business.net
-  phone: 745-365-5246
-  ssn: 913 41 1041
-  dob: 13/09/1956
-  address: 3570 Birch Dr
-  city: San Antonio
-  state: NY

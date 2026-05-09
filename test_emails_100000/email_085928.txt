@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Taylor
-  email: katherine.taylor7356@outlook.com
-  phone: 272 983 3343
-  ssn: 762762112
-  dob: 07-17-1976
-  address: 6719 Spring Court
-  city: San Jose
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Reyes
-  email: lisa.reyes742@work.org
-  phone: +1 816-406-1702
-  ssn: 089 28 3249
-  dob: 9/28/1992
-  address: 2176 North Way
-  city: Phoenix
-  state: CO

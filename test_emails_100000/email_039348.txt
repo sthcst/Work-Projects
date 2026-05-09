@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Parker,angela.parker8260@business.net,503-823-4304,584-65-5512,04/01/1975,"9787 Fourth St",Philadelphia,CA

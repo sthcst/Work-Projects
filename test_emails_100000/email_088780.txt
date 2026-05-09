@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Wilson,lisa.wilson1527@example.com,558-618-3771,162-44-1481,12/15/2005,"4690 West Blvd",Houston,FL

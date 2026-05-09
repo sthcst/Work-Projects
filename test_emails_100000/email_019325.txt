@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Moore,amanda.moore6772@mail.com,434 505 2303,041-06-2351,09-21-1981,"6820 Third Court",Phoenix,TX

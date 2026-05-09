@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Dominguez,samantha.dominguez8437@example.com,872-898-9528,177 91 3535,04-14-1998,"5591 Fifth Ave",Dallas,TX

@@ -1,9 +1,0 @@
-contact:
-  name: Nicole White
-  email: nicole.white6753@yahoo.com
-  phone: 227 527 8138
-  ssn: 945-31-1564
-  dob: 03-05-1950
-  address: 7013 Fourth Rd
-  city: San Diego
-  state: FL

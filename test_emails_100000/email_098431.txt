@@ -1,9 +1,0 @@
-contact:
-  name: Jason Stewart
-  email: jason.stewart671@company.com
-  phone: +1 480-784-9432
-  ssn: 042363559
-  dob: 15/08/1995
-  address: 2982 Oak Way
-  city: San Diego
-  state: NY

@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Reeves
-  email: andrew.reeves5770@mail.com
-  phone: 544 657 5479
-  ssn: 098 95 4525
-  dob: 06-20-1972
-  address: 6335 Second Ave
-  city: Los Angeles
-  state: NY

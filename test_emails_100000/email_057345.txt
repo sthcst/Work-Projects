@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Thompson,jason.thompson8180@business.net,(792) 884-7758,205-41-8126,1/4/2004,"2334 Pine Rd",Washington,CO

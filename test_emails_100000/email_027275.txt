@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Lewis,megan.lewis462@company.com,+1 277-401-6698,706-15-1828,25/09/1991,"4743 Pine Blvd",Jacksonville,TX

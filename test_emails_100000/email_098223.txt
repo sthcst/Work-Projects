@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Romero
-  email: nicole.romero9908@business.net
-  phone: 937 643 7296
-  ssn: 303-59-2152
-  dob: 13/10/1962
-  address: 194 Fourth Way
-  city: Philadelphia
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Alvarado,christine.alvarado3306@work.org,+1 488-716-8245,995-23-8555,08/18/1956,"147 Fourth Ave",Dallas,IL

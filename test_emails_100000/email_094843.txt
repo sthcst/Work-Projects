@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Lee,timothy.lee5101@company.com,448 201 4541,497773795,12/11/1992,"362 Oak St",Houston,AZ

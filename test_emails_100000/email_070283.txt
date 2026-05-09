@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Parker,jeffrey.parker132@example.com,+1 583-859-7150,300-34-9291,11/3/1966,"1336 West Blvd",Seattle,CO

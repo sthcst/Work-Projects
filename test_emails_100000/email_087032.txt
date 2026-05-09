@@ -1,9 +1,0 @@
-contact:
-  name: Jane Rodriguez
-  email: jane.rodriguez1300@outlook.com
-  phone: 624-720-2181
-  ssn: 821151871
-  dob: 2/16/1957
-  address: 1278 Fifth Court
-  city: Phoenix
-  state: TX

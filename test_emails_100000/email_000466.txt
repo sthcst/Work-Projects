@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Serrano,stephanie.serrano3066@work.org,334 403 2453,974-67-4509,7/3/1981,"2928 Oak Way",Dallas,OH

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Robinson,george.robinson8963@business.net,+1 859-787-1285,862-51-3708,10/08/1983,"5662 Oak Blvd",Los Angeles,GA

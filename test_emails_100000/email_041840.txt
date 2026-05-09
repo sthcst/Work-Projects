@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Nelson,timothy.nelson9642@business.net,333-688-2512,487 64 8374,8/5/1974,"5839 Elm Court",San Antonio,WA

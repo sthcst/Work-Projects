@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Clark
-  email: kimberly.clark7323@mail.com
-  phone: +1 970-357-9258
-  ssn: 558662162
-  dob: 04-01-1968
-  address: 8747 North Way
-  city: Philadelphia
-  state: CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Garcia,daniel.garcia4506@work.org,304 368 7702,137-66-2857,27/01/1963,"3517 Spring Ave",Boston,TX

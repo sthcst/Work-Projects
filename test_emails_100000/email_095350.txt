@@ -1,9 +1,0 @@
-contact:
-  name: Steven Lewis
-  email: steven.lewis4448@gmail.com
-  phone: 421-742-3216
-  ssn: 517-14-9877
-  dob: 05/26/1987
-  address: 5626 South Ln
-  city: Jacksonville
-  state: TX

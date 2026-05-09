@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Serrano
-  email: kathleen.serrano6818@business.net
-  phone: 345 793 9693
-  ssn: 226-24-6580
-  dob: 06/13/1954
-  address: 6774 Main Ln
-  city: New York
-  state: AZ

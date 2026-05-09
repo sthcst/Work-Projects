@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Peterson,shirley.peterson2413@gmail.com,(631) 974-9250,617 30 7621,9/21/1979,"3051 Fourth Dr",Seattle,WA

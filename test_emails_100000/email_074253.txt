@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Martin
-  email: joshua.martin189@outlook.com
-  phone: 657 679 1276
-  ssn: 143248693
-  dob: 08-20-1970
-  address: 126 West Ave
-  city: Denver
-  state: WI

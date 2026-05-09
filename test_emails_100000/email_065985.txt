@@ -1,9 +1,0 @@
-contact:
-  name: Jane Thomas
-  email: jane.thomas5619@company.com
-  phone: (336) 496-7516
-  ssn: 442-05-7463
-  dob: 11/23/1957
-  address: 2251 South Way
-  city: Boston
-  state: WA

@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Alvarado
-  email: michelle.alvarado563@gmail.com
-  phone: 715 314 3859
-  ssn: 774 15 6985
-  dob: 13/01/1958
-  address: 8536 Cedar Court
-  city: Houston
-  state: AZ

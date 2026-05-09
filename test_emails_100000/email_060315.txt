@@ -1,9 +1,0 @@
-contact:
-  name: James Dominguez
-  email: james.dominguez8177@example.com
-  phone: +1 636-698-2425
-  ssn: 375 17 7156
-  dob: 07-22-1957
-  address: 5777 Park Ln
-  city: Jacksonville
-  state: FL

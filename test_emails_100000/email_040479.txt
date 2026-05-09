@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Jimenez,jane.jimenez2438@work.org,+1 301-334-2652,735-85-9531,10-02-1963,"8283 Main Dr",San Jose,AZ

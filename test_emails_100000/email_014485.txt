@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Rogers
-  email: rebecca.rogers3064@business.net
-  phone: 262 301 6593
-  ssn: 946 53 8576
-  dob: 07-24-1998
-  address: 3973 Park Rd
-  city: Chicago
-  state: MA

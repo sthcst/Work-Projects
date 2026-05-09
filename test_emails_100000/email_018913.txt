@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Thompson
-  email: michelle.thompson5339@work.org
-  phone: 477 237 7445
-  ssn: 959 88 8735
-  dob: 28/09/1972
-  address: 6423 Spring Way
-  city: New York
-  state: NJ

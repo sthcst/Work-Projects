@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Campbell,gary.campbell5011@mail.com,440-386-3445,159-43-3431,04/01/1990,"4782 Cedar Dr",Dallas,NY

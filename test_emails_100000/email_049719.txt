@@ -1,9 +1,0 @@
-contact:
-  name: Mark Cooper
-  email: mark.cooper7649@business.net
-  phone: (651) 621-9450
-  ssn: 962-34-2264
-  dob: 4/14/1978
-  address: 318 North Court
-  city: Philadelphia
-  state: WA

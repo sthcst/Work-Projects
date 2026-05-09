@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Moore
-  email: michelle.moore3046@outlook.com
-  phone: 521-542-6861
-  ssn: 234-15-4704
-  dob: 08/24/1961
-  address: 9353 Fourth Dr
-  city: Philadelphia
-  state: MI

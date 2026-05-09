@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Brown,jeffrey.brown6635@outlook.com,(735) 389-8019,821128080,05-05-2002,"6250 Main Court",Chicago,WA

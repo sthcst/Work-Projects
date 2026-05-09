@@ -1,9 +1,0 @@
-contact:
-  name: Jane Harris
-  email: jane.harris4018@gmail.com
-  phone: 338 719 2740
-  ssn: 974715905
-  dob: 12/22/1993
-  address: 3301 East Ln
-  city: Washington
-  state: CA

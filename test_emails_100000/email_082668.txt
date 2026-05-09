@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Rogers
-  email: michelle.rogers1529@mail.com
-  phone: 489 562 6303
-  ssn: 404787683
-  dob: 12-22-1978
-  address: 638 Summer Way
-  city: Philadelphia
-  state: MO

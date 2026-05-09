@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Stewart,sarah.stewart1461@business.net,713 370 6427,704-93-7815,06/17/1998,"1075 Main Ln",Jacksonville,FL

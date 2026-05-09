@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Rodriguez,amanda.rodriguez2370@outlook.com,+1 235-870-9201,737081794,28/07/1990,"1441 Elm St",San Jose,MA

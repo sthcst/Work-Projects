@@ -1,9 +1,0 @@
-contact:
-  name: Donald Jimenez
-  email: donald.jimenez1948@mail.com
-  phone: (790) 576-9450
-  ssn: 142-19-7447
-  dob: 22/04/2000
-  address: 3538 Spring St
-  city: Boston
-  state: MO

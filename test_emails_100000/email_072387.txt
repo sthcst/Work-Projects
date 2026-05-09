@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Lewis,william.lewis2950@outlook.com,+1 510-554-4070,887-19-7017,9/22/1960,"4785 Birch St",Boston,NY

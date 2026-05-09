@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Harris,anna.harris6367@yahoo.com,+1 698-215-3520,471-79-5997,6/19/1956,"7799 Cedar Rd",Jacksonville,FL

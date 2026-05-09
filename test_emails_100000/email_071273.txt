@@ -1,9 +1,0 @@
-contact:
-  name: Steven Roberts
-  email: steven.roberts1830@work.org
-  phone: 385 607 7504
-  ssn: 754-25-3941
-  dob: 04/12/2003
-  address: 1413 North Dr
-  city: Phoenix
-  state: AZ

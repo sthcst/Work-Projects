@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Jackson
-  email: kimberly.jackson9204@example.com
-  phone: (542) 506-4367
-  ssn: 555406612
-  dob: 15/08/2002
-  address: 9191 Main Dr
-  city: Boston
-  state: MI

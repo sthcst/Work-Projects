@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Perez,emily.perez8117@work.org,702 795 1318,912 05 2280,5/10/1977,"4180 West Dr",Boston,CA

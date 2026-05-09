@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Reyes
-  email: ronald.reyes2729@business.net
-  phone: +1 722-360-3429
-  ssn: 616-80-1833
-  dob: 12/20/1967
-  address: 1212 Park Dr
-  city: Phoenix
-  state: NY

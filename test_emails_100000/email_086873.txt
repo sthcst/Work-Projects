@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Smith,amanda.smith8603@mail.com,(625) 659-2295,544484796,10/21/1964,"4036 Sixth Rd",Phoenix,CO

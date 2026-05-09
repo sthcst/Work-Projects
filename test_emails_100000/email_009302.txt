@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Edwards,john.edwards8404@outlook.com,(898) 348-7240,219 02 2551,07/12/1999,"4951 First Blvd",Houston,OH

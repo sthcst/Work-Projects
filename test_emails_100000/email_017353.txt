@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Phillips,angela.phillips3173@business.net,389-988-3220,824-38-2988,07-11-1996,"5035 Elm Way",Houston,VA

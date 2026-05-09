@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Gomez
-  email: samantha.gomez970@mail.com
-  phone: 361-832-7286
-  ssn: 840-66-5892
-  dob: 22/11/2005
-  address: 7871 Oak Rd
-  city: Dallas
-  state: FL

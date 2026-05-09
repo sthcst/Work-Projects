@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Jimenez
-  email: rachel.jimenez7226@yahoo.com
-  phone: 633-909-6543
-  ssn: 773531324
-  dob: 11/04/1956
-  address: 1345 East Court
-  city: Boston
-  state: WI

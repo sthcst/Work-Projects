@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Nelson,christopher.nelson53@mail.com,461 826 6976,535609217,11-12-1984,"7824 Main Blvd",Jacksonville,TX

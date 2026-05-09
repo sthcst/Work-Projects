@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Evans,joseph.evans3062@company.com,301 551 7272,021 31 9221,12/05/1975,"2158 Pine Dr",Philadelphia,TX

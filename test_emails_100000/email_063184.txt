@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Morgan
-  email: kathleen.morgan8721@business.net
-  phone: (763) 209-1347
-  ssn: 874-16-7236
-  dob: 10-28-1962
-  address: 9565 Fifth Blvd
-  city: Houston
-  state: CA

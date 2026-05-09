@@ -1,9 +1,0 @@
-contact:
-  name: Brian Campbell
-  email: brian.campbell6166@gmail.com
-  phone: 599 464 8237
-  ssn: 595-27-5134
-  dob: 05/23/1989
-  address: 7680 Fifth Ave
-  city: Los Angeles
-  state: TX

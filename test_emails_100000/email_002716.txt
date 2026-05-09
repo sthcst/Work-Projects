@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Jimenez
-  email: rebecca.jimenez2413@example.com
-  phone: 480 783 8803
-  ssn: 741-16-3677
-  dob: 07/19/1970
-  address: 4763 Park Way
-  city: Philadelphia
-  state: WI

@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Parker
-  email: katherine.parker5113@company.com
-  phone: +1 474-330-3830
-  ssn: 331951880
-  dob: 01/05/1957
-  address: 6911 Cedar Way
-  city: Los Angeles
-  state: CO

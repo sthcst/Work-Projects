@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Jackson,amanda.jackson2358@example.com,+1 656-970-8193,302-93-8323,17/05/1979,"3351 Pine Ln",Austin,MA

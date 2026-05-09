@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Nunez,emma.nunez4070@outlook.com,966 965 8201,132 39 2852,4/26/1959,"9671 Maple Rd",Philadelphia,CA

@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Reeves
-  email: timothy.reeves5738@company.com
-  phone: +1 734-769-7117
-  ssn: 662162091
-  dob: 3/15/1976
-  address: 5895 Pine Blvd
-  city: Chicago
-  state: MD

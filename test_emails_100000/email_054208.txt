@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Wilson,anna.wilson1618@gmail.com,(210) 279-3582,277551875,3/13/1989,"9538 Birch Ave",Los Angeles,WI

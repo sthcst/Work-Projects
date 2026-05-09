@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Reyes,megan.reyes8601@business.net,735-502-8704,571-86-1373,11-09-1966,"6957 Summer Ave",Seattle,CA

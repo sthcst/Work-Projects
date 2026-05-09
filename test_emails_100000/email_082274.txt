@@ -1,9 +1,0 @@
-contact:
-  name: George Parker
-  email: george.parker3108@work.org
-  phone: +1 785-694-4892
-  ssn: 965-49-3738
-  dob: 04/24/1951
-  address: 3001 Main Dr
-  city: New York
-  state: MD

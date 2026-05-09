@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Garcia
-  email: nicole.garcia1061@gmail.com
-  phone: (466) 243-5219
-  ssn: 265088553
-  dob: 05/09/1987
-  address: 8794 Spring St
-  city: Phoenix
-  state: CO

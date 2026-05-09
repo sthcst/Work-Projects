@@ -1,9 +1,0 @@
-contact:
-  name: William Roberts
-  email: william.roberts2836@outlook.com
-  phone: (410) 334-3698
-  ssn: 334 99 2145
-  dob: 3/8/1989
-  address: 6172 Fourth Dr
-  city: San Diego
-  state: CA

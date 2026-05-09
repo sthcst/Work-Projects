@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Lewis
-  email: samantha.lewis9032@outlook.com
-  phone: (310) 311-8589
-  ssn: 684-57-7142
-  dob: 8/8/1975
-  address: 8880 Main St
-  city: Dallas
-  state: WA

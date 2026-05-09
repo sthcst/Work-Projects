@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen White
-  email: kathleen.white695@gmail.com
-  phone: +1 521-616-9729
-  ssn: 451-66-7408
-  dob: 28/03/2001
-  address: 3008 Second Dr
-  city: Phoenix
-  state: VA

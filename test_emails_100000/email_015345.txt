@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Alvarado
-  email: daniel.alvarado4436@company.com
-  phone: +1 744-411-9807
-  ssn: 998429861
-  dob: 07/18/1968
-  address: 2391 Elm Dr
-  city: Seattle
-  state: MD

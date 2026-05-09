@@ -1,9 +1,0 @@
-contact:
-  name: William Jimenez
-  email: william.jimenez8957@gmail.com
-  phone: 717 627 8234
-  ssn: 862949328
-  dob: 12-10-1979
-  address: 1214 Third Way
-  city: Seattle
-  state: MD

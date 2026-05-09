@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Perez,samantha.perez8923@outlook.com,878 441 6454,063839000,02-23-1964,"3782 Cedar Blvd",Boston,TX

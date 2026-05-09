@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Thompson,cynthia.thompson8280@company.com,+1 749-637-6472,532 03 3990,07/03/1986,"8096 Pine Dr",Jacksonville,WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Thomas,samantha.thomas6253@gmail.com,(697) 314-2059,920 92 8454,04/25/1971,"3521 Park Rd",New York,FL

@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Edwards
-  email: jeffrey.edwards2948@yahoo.com
-  phone: 832 936 2259
-  ssn: 140-17-5004
-  dob: 08/09/1987
-  address: 4108 Elm Blvd
-  city: Philadelphia
-  state: WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Murillo,steven.murillo5840@company.com,209 237 3609,559 85 6247,11-05-1954,"1275 Fifth Rd",San Antonio,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Lee,michelle.lee9464@business.net,768-863-3502,881-29-6488,11/07/1951,"6690 Park Ln",Dallas,CO

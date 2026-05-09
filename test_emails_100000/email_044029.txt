@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Parker
-  email: cynthia.parker3338@business.net
-  phone: +1 215-694-3614
-  ssn: 727 81 8377
-  dob: 1/20/1968
-  address: 6564 Pine Way
-  city: Austin
-  state: WA

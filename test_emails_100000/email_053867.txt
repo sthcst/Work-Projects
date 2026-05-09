@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Jackson,gary.jackson1408@example.com,631-972-3321,496198551,15/07/1970,"8237 Sixth Ave",Chicago,CA

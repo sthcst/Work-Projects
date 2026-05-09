@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Thompson,michael.thompson5064@work.org,(759) 854-6040,164-35-8021,05/24/1982,"6520 Oak Way",Philadelphia,DC

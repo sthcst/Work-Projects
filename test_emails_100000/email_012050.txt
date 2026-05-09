@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Thompson
-  email: daniel.thompson8234@work.org
-  phone: +1 280-842-1570
-  ssn: 693-82-7214
-  dob: 08/05/1974
-  address: 3701 Main St
-  city: Phoenix
-  state: CA

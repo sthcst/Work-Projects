@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Flores,david.flores3505@business.net,(365) 367-2586,036086020,08/06/1999,"8199 Pine Court",Dallas,MO

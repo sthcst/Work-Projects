@@ -1,9 +1,0 @@
-contact:
-  name: Christine Jones
-  email: christine.jones5750@company.com
-  phone: +1 358-477-6899
-  ssn: 026-91-8270
-  dob: 11-10-1997
-  address: 2988 Sixth St
-  city: Denver
-  state: FL

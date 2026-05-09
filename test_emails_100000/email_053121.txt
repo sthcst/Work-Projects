@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Romero
-  email: jacob.romero5925@example.com
-  phone: (725) 916-5693
-  ssn: 891 59 9709
-  dob: 20/07/1994
-  address: 8608 Main Way
-  city: Austin
-  state: MA

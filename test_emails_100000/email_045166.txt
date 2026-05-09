@@ -1,9 +1,0 @@
-contact:
-  name: Brian Martin
-  email: brian.martin4108@mail.com
-  phone: (990) 912-8715
-  ssn: 914 18 4519
-  dob: 1/11/1957
-  address: 1588 Second Dr
-  city: Washington
-  state: MO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Delgado,mark.delgado627@example.com,(910) 521-5191,259-99-2408,19/11/1964,"4711 Cedar Rd",Denver,AZ

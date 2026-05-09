@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Rogers,donald.rogers4506@yahoo.com,228-530-4631,497 73 4971,07-10-1979,"9355 Sixth Court",New York,FL

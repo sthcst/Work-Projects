@@ -1,9 +1,0 @@
-contact:
-  name: George Guerrero
-  email: george.guerrero9570@gmail.com
-  phone: 795-320-9841
-  ssn: 190 10 4489
-  dob: 1/3/1991
-  address: 633 Second Court
-  city: Boston
-  state: FL

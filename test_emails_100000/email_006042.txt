@@ -1,9 +1,0 @@
-contact:
-  name: Brian Hernandez
-  email: brian.hernandez4165@example.com
-  phone: 873 830 5787
-  ssn: 185 49 4111
-  dob: 10/27/1978
-  address: 9765 Spring Rd
-  city: Washington
-  state: AZ

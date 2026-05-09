@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Bell
-  email: amanda.bell441@example.com
-  phone: (753) 798-4631
-  ssn: 645-76-5239
-  dob: 16/06/1991
-  address: 4098 Maple Ave
-  city: Chicago
-  state: NY

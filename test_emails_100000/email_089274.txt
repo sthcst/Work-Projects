@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Taylor
-  email: kathleen.taylor8897@outlook.com
-  phone: (675) 373-2228
-  ssn: 296-49-7942
-  dob: 11/18/1968
-  address: 7059 Sixth Court
-  city: San Diego
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Jane Campbell
-  email: jane.campbell146@example.com
-  phone: 836-603-4903
-  ssn: 217-81-5129
-  dob: 07-23-1986
-  address: 7945 Spring Way
-  city: New York
-  state: CA

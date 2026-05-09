@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Clark,edward.clark6749@company.com,544 715 2836,483-60-7615,21/09/1989,"5505 Second Dr",Boston,TX

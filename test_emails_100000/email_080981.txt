@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Flores,lauren.flores9825@mail.com,+1 785-590-9494,195-63-8944,06/08/1968,"4789 Third Blvd",San Antonio,CA

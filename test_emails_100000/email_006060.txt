@@ -1,9 +1,0 @@
-contact:
-  name: Anna Bell
-  email: anna.bell8462@outlook.com
-  phone: +1 443-477-7076
-  ssn: 749707472
-  dob: 03-20-1982
-  address: 3667 Pine Ave
-  city: Chicago
-  state: GA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Ortiz,edward.ortiz8068@yahoo.com,+1 542-509-4216,478 49 6885,2/25/1972,"9907 First Ave",Austin,MI

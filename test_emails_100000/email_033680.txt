@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Smith
-  email: rachel.smith2172@work.org
-  phone: 518-975-2811
-  ssn: 529-56-6504
-  dob: 11/11/1978
-  address: 7483 Main St
-  city: Phoenix
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Miller,lauren.miller3319@gmail.com,+1 747-704-9981,592-10-3635,11/3/1999,"8921 Park Blvd",Washington,FL

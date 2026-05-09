@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Walker
-  email: kevin.walker9097@mail.com
-  phone: 361-702-4176
-  ssn: 798 23 3125
-  dob: 11-23-1998
-  address: 7404 Park Dr
-  city: Washington
-  state: CA

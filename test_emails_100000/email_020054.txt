@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Collins
-  email: katherine.collins247@business.net
-  phone: +1 626-918-6946
-  ssn: 503 11 9669
-  dob: 02-28-2005
-  address: 3485 Fourth Court
-  city: Dallas
-  state: WI

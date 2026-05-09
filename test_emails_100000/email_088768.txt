@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Dominguez,william.dominguez4521@work.org,+1 770-692-8536,969-13-7809,10/04/1994,"6152 Spring St",Dallas,OH

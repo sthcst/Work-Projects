@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Smith
-  email: jennifer.smith926@business.net
-  phone: 935 442 3233
-  ssn: 034894649
-  dob: 11-21-1956
-  address: 6027 Birch Way
-  city: Washington
-  state: FL

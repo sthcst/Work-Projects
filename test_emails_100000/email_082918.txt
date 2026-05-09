@@ -1,9 +1,0 @@
-contact:
-  name: George Hall
-  email: george.hall6445@work.org
-  phone: 823 900 4212
-  ssn: 628 73 1371
-  dob: 05-05-1998
-  address: 2969 West Blvd
-  city: San Jose
-  state: DC

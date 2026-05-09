@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Garcia
-  email: ashley.garcia8444@gmail.com
-  phone: (971) 920-1802
-  ssn: 598216802
-  dob: 04-11-1979
-  address: 2638 First Dr
-  city: Houston
-  state: CA

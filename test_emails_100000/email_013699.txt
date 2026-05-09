@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Clark,anthony.clark3902@example.com,(619) 428-9048,657 61 3327,3/17/1961,"4712 Park Rd",Washington,FL

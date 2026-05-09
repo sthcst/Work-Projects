@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Robinson
-  email: rebecca.robinson6842@gmail.com
-  phone: +1 958-765-4637
-  ssn: 012-02-1058
-  dob: 11/9/1987
-  address: 8376 Birch Ave
-  city: Austin
-  state: GA

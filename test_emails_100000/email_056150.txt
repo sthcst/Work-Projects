@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Bell,rachel.bell9280@work.org,+1 716-369-3291,461492428,02-17-1964,"7291 First Dr",Los Angeles,CA

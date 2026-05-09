@@ -1,9 +1,0 @@
-contact:
-  name: Maria Miller
-  email: maria.miller7017@gmail.com
-  phone: 580-409-5132
-  ssn: 325-79-5583
-  dob: 22/01/2004
-  address: 758 Spring St
-  city: Dallas
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Rogers,brenda.rogers4864@outlook.com,393 706 3128,721-45-6313,18/05/1996,"8348 Elm Dr",Los Angeles,CA

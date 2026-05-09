@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Roberts,michael.roberts4672@business.net,743 953 4729,909 52 1513,12/09/1989,"1284 Third Blvd",San Antonio,TX

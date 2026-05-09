@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Martin,michelle.martin2694@gmail.com,337-456-1564,802 53 4841,11/16/1982,"9021 Second Dr",Dallas,PA

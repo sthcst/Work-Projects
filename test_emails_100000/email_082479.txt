@@ -1,9 +1,0 @@
-contact:
-  name: Angela Stewart
-  email: angela.stewart1695@work.org
-  phone: +1 422-909-7907
-  ssn: 159378989
-  dob: 10/17/1961
-  address: 6116 Sixth Ln
-  city: Washington
-  state: MI

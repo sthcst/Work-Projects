@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Lewis
-  email: jeffrey.lewis8720@mail.com
-  phone: (360) 910-1890
-  ssn: 180414577
-  dob: 9/4/1950
-  address: 7955 Sixth Rd
-  city: Washington
-  state: NY

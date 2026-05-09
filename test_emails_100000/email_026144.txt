@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Clark
-  email: joshua.clark7976@company.com
-  phone: (374) 922-1400
-  ssn: 230 93 3706
-  dob: 26/04/2005
-  address: 4823 North Dr
-  city: Austin
-  state: GA

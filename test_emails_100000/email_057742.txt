@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Hernandez
-  email: rachel.hernandez8224@gmail.com
-  phone: 426-834-3558
-  ssn: 018-64-7779
-  dob: 03/01/1975
-  address: 9573 Main Way
-  city: Houston
-  state: MI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Brown,michelle.brown7036@company.com,+1 978-912-3380,924491335,5/14/2005,"8605 East Ave",New York,CO

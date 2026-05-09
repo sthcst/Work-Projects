@@ -1,9 +1,0 @@
-contact:
-  name: Robert Roberts
-  email: robert.roberts4334@gmail.com
-  phone: 699 366 9317
-  ssn: 533 96 7211
-  dob: 11/10/1997
-  address: 9613 Park Court
-  city: Austin
-  state: WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Collins,shirley.collins7186@mail.com,781-859-9303,529 67 5951,13/07/1956,"1344 Second Rd",Philadelphia,FL

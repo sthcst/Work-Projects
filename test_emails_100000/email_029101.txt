@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Brown,katherine.brown3950@gmail.com,(831) 910-2572,893 69 4025,06-03-1965,"1112 Cedar Dr",San Jose,AZ

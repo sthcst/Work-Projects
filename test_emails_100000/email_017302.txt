@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Williams
-  email: shirley.williams6246@company.com
-  phone: +1 996-315-5174
-  ssn: 403419279
-  dob: 13/07/1967
-  address: 8391 North Ave
-  city: Seattle
-  state: WA

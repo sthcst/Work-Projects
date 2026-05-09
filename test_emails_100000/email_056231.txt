@@ -1,9 +1,0 @@
-contact:
-  name: Michael Taylor
-  email: michael.taylor5060@example.com
-  phone: 696 819 4020
-  ssn: 423-18-3678
-  dob: 1/24/1973
-  address: 5010 Fourth Court
-  city: Washington
-  state: TX

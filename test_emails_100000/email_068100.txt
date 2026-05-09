@@ -1,9 +1,0 @@
-contact:
-  name: Angela Carter
-  email: angela.carter7800@mail.com
-  phone: (583) 785-4173
-  ssn: 127394491
-  dob: 04-05-1954
-  address: 9701 Second Way
-  city: San Antonio
-  state: CA

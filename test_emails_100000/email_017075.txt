@@ -1,9 +1,0 @@
-contact:
-  name: Emma Ramirez
-  email: emma.ramirez516@company.com
-  phone: 476 481 2518
-  ssn: 268-31-5389
-  dob: 04/02/1968
-  address: 1203 Oak St
-  city: San Jose
-  state: NC

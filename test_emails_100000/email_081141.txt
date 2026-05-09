@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Rogers,jeffrey.rogers6708@company.com,+1 737-706-3188,002-53-2270,2/7/1953,"76 Park St",Jacksonville,TX

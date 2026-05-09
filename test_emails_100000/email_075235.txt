@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Ramirez,edward.ramirez3539@mail.com,824 509 9327,236-06-6162,11/03/1957,"3121 First St",Phoenix,IL

@@ -1,9 +1,0 @@
-contact:
-  name: Megan Sanchez
-  email: megan.sanchez1544@gmail.com
-  phone: +1 376-581-5539
-  ssn: 055-49-4111
-  dob: 04-20-1992
-  address: 5823 Cedar Dr
-  city: Denver
-  state: CA

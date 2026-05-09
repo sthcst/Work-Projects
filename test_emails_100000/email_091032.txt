@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Murillo,shirley.murillo8254@yahoo.com,+1 785-965-3425,824 03 1107,06/04/1986,"3190 First Rd",Los Angeles,TN

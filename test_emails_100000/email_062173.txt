@@ -1,9 +1,0 @@
-contact:
-  name: Donald Reyes
-  email: donald.reyes7531@business.net
-  phone: 734-572-6947
-  ssn: 671 54 4498
-  dob: 06/03/1993
-  address: 2451 Summer Ln
-  city: Seattle
-  state: CA

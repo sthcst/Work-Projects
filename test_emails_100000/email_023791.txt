@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Anderson,timothy.anderson4445@yahoo.com,522-354-2419,383-74-7706,1/23/2002,"2604 Elm Rd",San Jose,IL

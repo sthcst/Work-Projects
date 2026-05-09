@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Morgan
-  email: cynthia.morgan5453@outlook.com
-  phone: 771-259-7153
-  ssn: 037-24-8496
-  dob: 11-17-1982
-  address: 7218 Fourth Court
-  city: Seattle
-  state: AZ

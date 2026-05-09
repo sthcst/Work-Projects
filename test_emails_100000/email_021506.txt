@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Rodriguez,cynthia.rodriguez1317@business.net,212-302-1532,470-43-2145,05/03/1999,"8828 First Dr",Dallas,CA

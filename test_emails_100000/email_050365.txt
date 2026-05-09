@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Lopez
-  email: kenneth.lopez6045@yahoo.com
-  phone: (768) 678-8793
-  ssn: 423-58-3602
-  dob: 09-04-1977
-  address: 652 First St
-  city: San Diego
-  state: CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Cooper,matthew.cooper9819@example.com,(731) 839-3757,938-35-8326,07/24/1953,"2721 Elm St",San Diego,WA

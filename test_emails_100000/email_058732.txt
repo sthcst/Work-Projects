@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Morris
-  email: rebecca.morris6024@outlook.com
-  phone: 957-866-7371
-  ssn: 081-05-7006
-  dob: 04/12/1957
-  address: 8830 North Blvd
-  city: Seattle
-  state: WI

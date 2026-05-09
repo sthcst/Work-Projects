@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Collins,pamela.collins5358@gmail.com,438-740-8586,005-29-6571,27/09/1951,"2833 Maple Court",Boston,GA

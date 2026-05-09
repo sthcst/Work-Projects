@@ -1,9 +1,0 @@
-contact:
-  name: Mark Gomez
-  email: mark.gomez1460@work.org
-  phone: +1 758-830-4198
-  ssn: 057374626
-  dob: 4/23/1976
-  address: 2585 East Ave
-  city: Austin
-  state: AZ

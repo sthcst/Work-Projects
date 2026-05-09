@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Carter,anthony.carter6765@company.com,678-963-2912,374-55-6067,04/09/1976,"3303 Fourth Court",Dallas,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Serrano,jennifer.serrano369@yahoo.com,911 404 8214,806-56-6430,1/7/1953,"943 South Ave",San Diego,MD

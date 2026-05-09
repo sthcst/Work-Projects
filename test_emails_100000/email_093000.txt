@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Harris,jane.harris7646@gmail.com,758-548-7133,258 88 5251,9/4/1966,"3424 Oak Blvd",Houston,CO

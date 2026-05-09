@@ -1,9 +1,0 @@
-contact:
-  name: William Campbell
-  email: william.campbell2184@gmail.com
-  phone: +1 997-681-7406
-  ssn: 373 77 2163
-  dob: 01-06-1986
-  address: 5963 Pine Ave
-  city: Los Angeles
-  state: IL

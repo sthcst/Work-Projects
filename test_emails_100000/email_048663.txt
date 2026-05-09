@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Jackson
-  email: deborah.jackson5700@yahoo.com
-  phone: 460-358-5485
-  ssn: 652 27 4658
-  dob: 02/22/1960
-  address: 9236 Park Rd
-  city: Houston
-  state: FL

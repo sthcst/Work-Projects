@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Ortiz,samantha.ortiz9345@work.org,278 883 1007,597047475,11/12/1999,"4645 Main Court",Philadelphia,TN

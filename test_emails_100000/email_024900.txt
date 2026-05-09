@@ -1,9 +1,0 @@
-contact:
-  name: Paul Moore
-  email: paul.moore831@mail.com
-  phone: +1 889-401-7719
-  ssn: 948387093
-  dob: 07/09/1992
-  address: 5129 First Blvd
-  city: San Antonio
-  state: PA

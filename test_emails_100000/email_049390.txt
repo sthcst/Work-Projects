@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Stewart
-  email: anthony.stewart9204@company.com
-  phone: 927 306 4241
-  ssn: 864781713
-  dob: 2/4/1967
-  address: 5303 Fourth St
-  city: San Jose
-  state: TX

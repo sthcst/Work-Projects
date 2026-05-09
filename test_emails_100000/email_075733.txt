@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Cooper,rachel.cooper1631@outlook.com,(810) 842-1427,260538662,01/01/1995,"5438 North Rd",San Jose,WA

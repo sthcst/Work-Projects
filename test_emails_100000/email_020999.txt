@@ -1,9 +1,0 @@
-contact:
-  name: Emma Rogers
-  email: emma.rogers5554@example.com
-  phone: 717-326-4229
-  ssn: 586-94-4885
-  dob: 10-19-1987
-  address: 8860 Second Rd
-  city: Houston
-  state: CO

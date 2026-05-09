@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Taylor,joseph.taylor4075@outlook.com,877-283-6784,538 48 3512,5/18/1998,"825 Birch Blvd",Phoenix,CA

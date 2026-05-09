@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William White,william.white7063@work.org,(924) 808-2105,602-42-8100,4/17/1997,"3984 Third Way",Seattle,GA

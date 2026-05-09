@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Dominguez
-  email: jessica.dominguez3073@outlook.com
-  phone: (462) 913-9218
-  ssn: 997215903
-  dob: 12-14-1976
-  address: 2111 Sixth Ln
-  city: Jacksonville
-  state: PA

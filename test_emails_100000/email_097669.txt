@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Thompson
-  email: timothy.thompson7285@gmail.com
-  phone: 596 269 1961
-  ssn: 040-44-7429
-  dob: 07/09/1968
-  address: 7068 Summer Way
-  city: Phoenix
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Thomas
-  email: lauren.thomas6208@example.com
-  phone: 302 948 5243
-  ssn: 353 99 8475
-  dob: 05/10/1973
-  address: 311 Spring Way
-  city: New York
-  state: DC

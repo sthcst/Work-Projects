@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Stewart,katherine.stewart8077@outlook.com,652-542-3034,420375721,10/01/1988,"2240 Elm Ave",Dallas,NY

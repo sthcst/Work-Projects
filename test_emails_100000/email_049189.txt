@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Murillo,gary.murillo6369@outlook.com,645-866-4656,216 86 3067,08-22-1995,"9928 Elm Ave",Philadelphia,FL

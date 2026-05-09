@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Reyes,jane.reyes4831@mail.com,(647) 459-7945,482609409,12/6/2000,"7658 North Dr",Washington,AZ

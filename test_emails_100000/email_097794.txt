@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Smith
-  email: jacob.smith7148@example.com
-  phone: (734) 933-9935
-  ssn: 970067356
-  dob: 08-06-1978
-  address: 191 Birch St
-  city: San Diego
-  state: FL

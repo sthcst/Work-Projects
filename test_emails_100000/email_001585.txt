@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Robinson,james.robinson9844@example.com,(255) 452-3765,375 06 3758,5/20/1975,"3937 Fourth Ln",San Jose,CA

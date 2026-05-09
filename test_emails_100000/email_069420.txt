@@ -1,9 +1,0 @@
-contact:
-  name: Michael Cooper
-  email: michael.cooper7830@company.com
-  phone: +1 681-672-8620
-  ssn: 335-14-4685
-  dob: 6/12/1959
-  address: 9574 Elm Ln
-  city: Houston
-  state: IL

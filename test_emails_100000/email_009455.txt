@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Delgado
-  email: cynthia.delgado6281@company.com
-  phone: 478 805 8593
-  ssn: 413-54-7845
-  dob: 09/12/1952
-  address: 5184 Park St
-  city: San Jose
-  state: MA

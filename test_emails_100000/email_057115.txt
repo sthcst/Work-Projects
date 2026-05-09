@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Flores
-  email: stephanie.flores7671@example.com
-  phone: 351 400 4664
-  ssn: 031-86-9627
-  dob: 08-27-2000
-  address: 7649 Maple Dr
-  city: Jacksonville
-  state: AZ

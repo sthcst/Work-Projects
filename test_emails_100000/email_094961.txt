@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Hall,jane.hall7484@mail.com,(808) 827-5217,454834691,08-12-1955,"9622 Park St",Denver,WI

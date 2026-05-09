@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Young
-  email: timothy.young6479@work.org
-  phone: 291-455-7190
-  ssn: 905 22 6447
-  dob: 12/06/2002
-  address: 2503 Fifth Dr
-  city: Houston
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Walker
-  email: jeffrey.walker630@gmail.com
-  phone: 892 667 8749
-  ssn: 075 34 1055
-  dob: 2/16/1984
-  address: 9359 Cedar Way
-  city: San Jose
-  state: CA

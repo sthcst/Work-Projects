@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Hernandez,john.hernandez7785@yahoo.com,+1 351-396-6744,419-86-8959,26/04/1977,"8821 South Ln",New York,NC

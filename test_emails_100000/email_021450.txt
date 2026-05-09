@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Thompson
-  email: ronald.thompson7052@work.org
-  phone: 236-874-4323
-  ssn: 568-70-9868
-  dob: 02/15/1954
-  address: 8183 Main Way
-  city: Dallas
-  state: MA

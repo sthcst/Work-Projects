@@ -1,9 +1,0 @@
-contact:
-  name: Edward Wilson
-  email: edward.wilson1388@company.com
-  phone: (633) 801-3512
-  ssn: 326921985
-  dob: 11/28/1967
-  address: 1314 Birch Ln
-  city: Seattle
-  state: FL

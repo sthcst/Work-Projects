@@ -1,9 +1,0 @@
-contact:
-  name: Helen Morgan
-  email: helen.morgan173@gmail.com
-  phone: 930-445-7919
-  ssn: 108994910
-  dob: 8/25/1983
-  address: 1210 North Ln
-  city: Los Angeles
-  state: FL

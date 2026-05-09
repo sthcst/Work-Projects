@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria White,maria.white160@company.com,(556) 630-1657,822347409,02-14-1963,"7173 West Ave",Houston,AZ

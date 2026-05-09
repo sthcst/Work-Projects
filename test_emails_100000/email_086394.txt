@@ -1,9 +1,0 @@
-contact:
-  name: Jane Lewis
-  email: jane.lewis4871@company.com
-  phone: +1 546-949-3995
-  ssn: 977-17-5527
-  dob: 6/24/1962
-  address: 3208 Maple Way
-  city: San Antonio
-  state: GA

@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Hernandez
-  email: nicholas.hernandez7710@gmail.com
-  phone: 640-931-8709
-  ssn: 902895643
-  dob: 07-02-1986
-  address: 4558 Elm Dr
-  city: San Antonio
-  state: MO

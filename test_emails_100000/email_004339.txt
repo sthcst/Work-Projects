@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Campbell,william.campbell6235@yahoo.com,(881) 952-5769,890 38 7475,01/09/1982,"8973 Maple Ave",Boston,MI

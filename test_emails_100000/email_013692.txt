@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Moore
-  email: samantha.moore8972@company.com
-  phone: 698 741 8897
-  ssn: 261 61 8144
-  dob: 10/03/1975
-  address: 834 Park Ave
-  city: Boston
-  state: WI

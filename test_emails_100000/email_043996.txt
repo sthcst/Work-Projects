@@ -1,9 +1,0 @@
-contact:
-  name: Megan Phillips
-  email: megan.phillips353@example.com
-  phone: 290 613 5445
-  ssn: 540678686
-  dob: 5/16/1969
-  address: 5479 Maple Rd
-  city: San Diego
-  state: TN

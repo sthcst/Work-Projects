@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Smith,angela.smith3746@gmail.com,(261) 719-9932,988-33-3496,2/10/1980,"1814 First Ave",New York,MI

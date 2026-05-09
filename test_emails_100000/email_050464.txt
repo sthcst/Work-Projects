@@ -1,9 +1,0 @@
-contact:
-  name: Mark Hernandez
-  email: mark.hernandez5346@gmail.com
-  phone: (572) 257-1564
-  ssn: 479-80-4514
-  dob: 5/15/1979
-  address: 4322 East St
-  city: San Antonio
-  state: NJ

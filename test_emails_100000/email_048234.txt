@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Taylor,cynthia.taylor9656@business.net,929 255 9159,033776755,01-02-2004,"2115 Spring Rd",Los Angeles,NY

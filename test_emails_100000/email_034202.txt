@@ -1,9 +1,0 @@
-contact:
-  name: Maria Murillo
-  email: maria.murillo2456@outlook.com
-  phone: +1 706-268-3952
-  ssn: 981-77-4729
-  dob: 12-04-1957
-  address: 6377 Cedar Blvd
-  city: Jacksonville
-  state: IL

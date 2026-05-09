@@ -1,9 +1,0 @@
-contact:
-  name: Helen Martin
-  email: helen.martin4876@outlook.com
-  phone: 777 733 5615
-  ssn: 436 38 9160
-  dob: 11/08/1970
-  address: 1034 Fourth Blvd
-  city: Washington
-  state: WA

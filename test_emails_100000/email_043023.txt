@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Clark
-  email: jeffrey.clark1241@gmail.com
-  phone: +1 755-840-8100
-  ssn: 541-12-8467
-  dob: 08/01/1990
-  address: 3827 South Way
-  city: Dallas
-  state: TX

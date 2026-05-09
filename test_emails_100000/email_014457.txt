@@ -1,9 +1,0 @@
-contact:
-  name: Michael Robinson
-  email: michael.robinson2521@yahoo.com
-  phone: +1 853-974-7164
-  ssn: 271 13 7083
-  dob: 05/04/2004
-  address: 4332 North Court
-  city: San Diego
-  state: TX

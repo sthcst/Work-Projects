@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Harris
-  email: shirley.harris6482@gmail.com
-  phone: 857-502-9478
-  ssn: 112 88 6278
-  dob: 09/19/1961
-  address: 6574 East Dr
-  city: Houston
-  state: MA

@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Reeves
-  email: anthony.reeves874@example.com
-  phone: (405) 328-3254
-  ssn: 407061060
-  dob: 24/12/2000
-  address: 7839 Fifth Way
-  city: Denver
-  state: MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Williams,maria.williams692@work.org,521 450 3381,950 03 8045,1/22/1985,"1567 Cedar Way",San Diego,TX

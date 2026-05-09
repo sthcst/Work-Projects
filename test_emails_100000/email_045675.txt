@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth White,kenneth.white5549@outlook.com,393-760-9609,408 01 9367,18/04/1967,"32 Park St",Houston,TX

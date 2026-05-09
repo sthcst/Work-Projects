@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Davis,william.davis5339@example.com,912-801-7963,989 25 8780,5/23/2001,"9088 Pine Ln",Chicago,CA

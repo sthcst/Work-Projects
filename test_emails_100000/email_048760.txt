@@ -1,9 +1,0 @@
-contact:
-  name: Donald Parker
-  email: donald.parker4312@work.org
-  phone: 847 861 7295
-  ssn: 306-66-8909
-  dob: 07-07-1959
-  address: 9834 Cedar Ave
-  city: Washington
-  state: FL

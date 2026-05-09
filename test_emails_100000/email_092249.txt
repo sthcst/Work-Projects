@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Guerrero,rebecca.guerrero4593@example.com,543 298 3951,267199383,25/08/1982,"7187 Cedar Ave",San Diego,IL

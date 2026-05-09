@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Thomas
-  email: nicholas.thomas6649@mail.com
-  phone: (773) 328-1693
-  ssn: 484789517
-  dob: 7/27/1963
-  address: 7772 Birch Ave
-  city: Los Angeles
-  state: MD

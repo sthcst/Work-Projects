@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Collins,james.collins5109@gmail.com,+1 948-934-4101,010149229,08/25/1951,"764 Cedar Ln",San Antonio,TX

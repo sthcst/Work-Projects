@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Alvarado
-  email: shirley.alvarado1565@company.com
-  phone: (808) 426-5406
-  ssn: 570077856
-  dob: 09-13-1979
-  address: 257 Summer Ln
-  city: Houston
-  state: AZ

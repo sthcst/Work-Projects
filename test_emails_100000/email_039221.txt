@@ -1,9 +1,0 @@
-contact:
-  name: Brian Wilson
-  email: brian.wilson1788@business.net
-  phone: 496 418 7425
-  ssn: 684 55 6769
-  dob: 07/20/1979
-  address: 2733 Oak Dr
-  city: Boston
-  state: MD

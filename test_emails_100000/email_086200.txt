@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Ramirez,shirley.ramirez1308@work.org,411-935-8167,404972408,01-11-1997,"6803 Summer Ave",Denver,MI

@@ -1,9 +1,0 @@
-contact:
-  name: Christine Campbell
-  email: christine.campbell2575@company.com
-  phone: +1 590-900-6772
-  ssn: 243-50-8367
-  dob: 12/25/2004
-  address: 1890 First Court
-  city: Jacksonville
-  state: TX

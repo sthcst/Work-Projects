@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Collins,megan.collins4413@example.com,848-248-5079,340 86 1960,6/15/1993,"1751 Elm Ave",Phoenix,AZ

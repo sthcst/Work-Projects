@@ -1,9 +1,0 @@
-contact:
-  name: James Gomez
-  email: james.gomez7163@yahoo.com
-  phone: +1 456-892-2992
-  ssn: 867619255
-  dob: 01/12/2000
-  address: 103 Main Way
-  city: Los Angeles
-  state: TN

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Davis,sarah.davis7210@gmail.com,995-250-7537,154-17-9254,6/12/2001,"8125 Cedar Ave",Denver,NC

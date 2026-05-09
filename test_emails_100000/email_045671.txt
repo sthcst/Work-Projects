@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Peterson,deborah.peterson7135@work.org,274 645 7521,741 73 7879,05-15-1966,"3077 Birch Court",Phoenix,CA

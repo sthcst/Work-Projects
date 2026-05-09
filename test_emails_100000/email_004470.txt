@@ -1,9 +1,0 @@
-contact:
-  name: Gary Davis
-  email: gary.davis3516@work.org
-  phone: (325) 864-5471
-  ssn: 009673282
-  dob: 06-22-1988
-  address: 6901 Main Way
-  city: San Jose
-  state: WI

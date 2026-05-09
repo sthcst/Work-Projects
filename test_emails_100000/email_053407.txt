@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Alvarado
-  email: cynthia.alvarado5608@example.com
-  phone: (289) 601-3108
-  ssn: 437 14 8087
-  dob: 10/07/1985
-  address: 9476 Second Ln
-  city: Denver
-  state: TN

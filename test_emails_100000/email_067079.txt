@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Evans,andrew.evans4246@mail.com,+1 315-900-5938,085096997,01-17-1968,"2823 Maple Ave",Washington,WA

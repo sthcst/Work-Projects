@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Ortiz
-  email: lisa.ortiz1105@company.com
-  phone: (704) 987-3179
-  ssn: 717-42-6581
-  dob: 8/24/1981
-  address: 1900 Fourth St
-  city: Philadelphia
-  state: WA

@@ -1,9 +1,0 @@
-contact:
-  name: Donald Guerrero
-  email: donald.guerrero5052@company.com
-  phone: 624 448 8536
-  ssn: 383562816
-  dob: 05/09/2004
-  address: 944 Second Court
-  city: Jacksonville
-  state: OH

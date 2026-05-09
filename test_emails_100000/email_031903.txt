@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Ramirez,jason.ramirez285@company.com,(599) 948-7392,957-24-1423,10/20/1982,"1407 Birch Rd",Seattle,TX

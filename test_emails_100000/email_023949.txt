@@ -1,9 +1,0 @@
-contact:
-  name: James Reed
-  email: james.reed7069@company.com
-  phone: 478 609 4081
-  ssn: 847 90 3357
-  dob: 03-21-1969
-  address: 1011 Sixth Blvd
-  city: Dallas
-  state: MO

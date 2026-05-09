@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Phillips
-  email: pamela.phillips4420@business.net
-  phone: 637 314 3107
-  ssn: 560-69-7918
-  dob: 9/24/1985
-  address: 2115 Summer Ln
-  city: Dallas
-  state: AZ

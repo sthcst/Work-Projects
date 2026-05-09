@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Gomez,james.gomez8477@outlook.com,(448) 727-7800,930382321,07-22-2000,"7247 South Ln",Seattle,NJ

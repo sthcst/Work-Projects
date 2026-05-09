@@ -1,9 +1,0 @@
-contact:
-  name: Donald Romero
-  email: donald.romero422@yahoo.com
-  phone: (607) 559-9547
-  ssn: 681514912
-  dob: 09/03/1953
-  address: 7836 North Blvd
-  city: Seattle
-  state: WA

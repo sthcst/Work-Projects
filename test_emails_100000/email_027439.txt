@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Romero,katherine.romero2035@yahoo.com,(970) 347-2544,065873111,3/5/1959,"6820 Main Ln",Denver,NC

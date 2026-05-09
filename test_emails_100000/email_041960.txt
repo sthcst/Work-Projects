@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Ramirez,stephanie.ramirez197@yahoo.com,+1 891-571-8580,590 99 6413,05/21/1965,"6520 Park Ln",Los Angeles,OH

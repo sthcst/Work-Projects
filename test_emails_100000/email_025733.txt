@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Hernandez
-  email: sarah.hernandez3324@outlook.com
-  phone: 849 213 6231
-  ssn: 809 83 5436
-  dob: 06-08-1984
-  address: 3028 Maple Way
-  city: San Antonio
-  state: TN

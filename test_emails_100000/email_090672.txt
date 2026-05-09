@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Moore,james.moore9216@mail.com,366-856-5351,284 35 8788,03/02/2000,"3768 North Rd",San Jose,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Ortiz,kevin.ortiz2654@yahoo.com,843 270 2606,892 44 3822,10/15/1971,"3185 Second Blvd",Dallas,TX

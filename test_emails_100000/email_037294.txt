@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Hall,john.hall4753@work.org,(372) 918-3589,721-80-9030,23/07/1971,"6816 Spring St",Los Angeles,MI

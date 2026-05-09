@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Morgan,christopher.morgan7183@example.com,(822) 468-6766,157 52 6320,07/02/1981,"5750 Cedar Ln",Seattle,FL

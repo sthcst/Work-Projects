@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Flores,rebecca.flores6050@mail.com,304-731-8672,055985192,02-15-1979,"5514 Cedar Court",Seattle,AZ

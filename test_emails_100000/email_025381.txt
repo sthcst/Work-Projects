@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Walker,maria.walker8388@business.net,365 758 6983,696575402,04-22-1954,"540 Sixth Way",Austin,VA

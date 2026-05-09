@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Taylor
-  email: amanda.taylor5673@business.net
-  phone: (474) 572-7039
-  ssn: 260 04 3962
-  dob: 11-15-1954
-  address: 5988 Second Ln
-  city: Phoenix
-  state: GA

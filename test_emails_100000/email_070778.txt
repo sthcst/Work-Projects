@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Perez,ryan.perez8189@company.com,970-403-2419,909-51-1954,7/1/1967,"3707 Fifth Dr",Phoenix,WI

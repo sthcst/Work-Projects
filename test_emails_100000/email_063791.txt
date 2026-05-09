@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Delgado,robert.delgado3252@business.net,570-748-6392,261 29 1506,12/3/1982,"5405 First St",Austin,CA

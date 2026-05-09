@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Roberts,george.roberts9770@company.com,603-535-8709,282 48 1255,11-26-1950,"5341 West Rd",Chicago,MI

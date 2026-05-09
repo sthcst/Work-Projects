@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Nunez,jennifer.nunez7681@work.org,353 509 8490,279-18-9412,03-12-1974,"2934 Oak St",San Jose,TN

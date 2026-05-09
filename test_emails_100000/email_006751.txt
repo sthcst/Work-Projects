@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Thomas,charles.thomas7115@example.com,+1 205-879-9948,569 06 1868,07-07-1980,"3787 Fifth Ln",San Antonio,NC

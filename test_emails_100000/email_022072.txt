@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Evans,lisa.evans9126@business.net,627 952 3981,453294030,07/16/1971,"7548 Third Dr",Los Angeles,CA

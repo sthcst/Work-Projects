@@ -1,9 +1,0 @@
-contact:
-  name: Jason Ortiz
-  email: jason.ortiz1385@company.com
-  phone: (307) 401-8681
-  ssn: 282 14 3015
-  dob: 21/02/1967
-  address: 9693 Main Way
-  city: Houston
-  state: CA

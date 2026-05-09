@@ -1,9 +1,0 @@
-contact:
-  name: Charles Young
-  email: charles.young2053@mail.com
-  phone: 598 721 9425
-  ssn: 866-32-3359
-  dob: 16/05/1972
-  address: 990 Summer Dr
-  city: Denver
-  state: VA

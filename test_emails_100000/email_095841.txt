@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Thomas,rebecca.thomas9486@example.com,+1 911-842-9524,690-44-3693,12-24-1965,"3168 Oak Ave",San Jose,MD

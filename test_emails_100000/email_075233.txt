@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Reed
-  email: christopher.reed6219@mail.com
-  phone: +1 773-438-6652
-  ssn: 337023472
-  dob: 06/09/1959
-  address: 633 Fourth Rd
-  city: Austin
-  state: MI

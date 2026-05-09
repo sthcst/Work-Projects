@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Martinez
-  email: cynthia.martinez1891@outlook.com
-  phone: (806) 440-2934
-  ssn: 765815340
-  dob: 09/15/1995
-  address: 5462 Sixth Ln
-  city: Houston
-  state: AZ

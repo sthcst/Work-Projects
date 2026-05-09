@@ -1,9 +1,0 @@
-contact:
-  name: Richard Roberts
-  email: richard.roberts2073@gmail.com
-  phone: (453) 889-5115
-  ssn: 183632219
-  dob: 11/11/1991
-  address: 321 Oak Dr
-  city: Denver
-  state: WI

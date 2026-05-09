@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Smith
-  email: brenda.smith829@business.net
-  phone: 613-297-3002
-  ssn: 264-90-1109
-  dob: 07-13-1969
-  address: 2106 Oak Blvd
-  city: San Jose
-  state: MA

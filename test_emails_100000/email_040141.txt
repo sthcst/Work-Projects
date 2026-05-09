@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Bell,anna.bell2509@gmail.com,769-793-3559,833421910,04/22/1970,"8341 Main Rd",Dallas,DC

@@ -1,9 +1,0 @@
-contact:
-  name: Anna Collins
-  email: anna.collins7821@yahoo.com
-  phone: +1 491-232-4487
-  ssn: 032 19 5181
-  dob: 11/16/1980
-  address: 4641 Summer St
-  city: Boston
-  state: CA

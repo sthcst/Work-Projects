@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Robinson,amanda.robinson1033@outlook.com,932 957 4363,590386412,06-11-1954,"2047 Fourth Dr",Boston,CA

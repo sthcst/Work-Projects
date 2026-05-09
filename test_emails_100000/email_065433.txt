@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Harris
-  email: kenneth.harris3463@work.org
-  phone: 582 216 5953
-  ssn: 947036790
-  dob: 01/13/1989
-  address: 3571 East Court
-  city: Denver
-  state: WA

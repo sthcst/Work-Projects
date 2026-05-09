@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Reyes,charles.reyes3519@yahoo.com,+1 528-490-4803,903-03-2446,08/05/1965,"5952 Maple Dr",Austin,TN

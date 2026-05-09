@@ -1,9 +1,0 @@
-contact:
-  name: Mark Gomez
-  email: mark.gomez8991@example.com
-  phone: (671) 536-2849
-  ssn: 354-05-4717
-  dob: 5/9/1997
-  address: 9791 Park Rd
-  city: San Jose
-  state: WA

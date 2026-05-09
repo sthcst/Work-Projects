@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Robinson
-  email: daniel.robinson7441@mail.com
-  phone: (425) 833-9493
-  ssn: 050754121
-  dob: 08/08/1953
-  address: 8686 South Court
-  city: San Antonio
-  state: OH

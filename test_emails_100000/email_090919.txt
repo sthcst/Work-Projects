@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Young,william.young3616@business.net,+1 728-444-5366,458 06 8491,08/14/1980,"8313 Third Blvd",New York,FL

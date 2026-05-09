@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Thompson
-  email: anthony.thompson7936@example.com
-  phone: 536 549 9737
-  ssn: 492082147
-  dob: 18/05/1956
-  address: 4586 Elm Blvd
-  city: Denver
-  state: TX

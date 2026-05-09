@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Morgan,angela.morgan1468@business.net,367-442-6615,946 83 4423,2/20/1993,"3421 Fourth Dr",San Diego,DC

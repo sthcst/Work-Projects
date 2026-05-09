@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Jimenez,nicholas.jimenez8163@work.org,+1 800-673-1928,091-40-1147,8/20/1953,"2798 Pine Way",Jacksonville,CO

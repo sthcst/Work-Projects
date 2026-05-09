@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Delgado,shirley.delgado6146@outlook.com,+1 885-472-4616,995-21-6996,06/01/1990,"4393 Oak Dr",Houston,DC

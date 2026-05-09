@@ -1,9 +1,0 @@
-contact:
-  name: John Reyes
-  email: john.reyes4505@mail.com
-  phone: 928-940-7629
-  ssn: 079959753
-  dob: 10/18/1986
-  address: 1206 West Way
-  city: Jacksonville
-  state: CA

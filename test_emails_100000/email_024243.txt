@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Murillo
-  email: kathleen.murillo1444@yahoo.com
-  phone: 782-744-5482
-  ssn: 919 45 5248
-  dob: 06-15-1983
-  address: 6860 First Rd
-  city: San Antonio
-  state: AZ

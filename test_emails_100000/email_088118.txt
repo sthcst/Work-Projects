@@ -1,9 +1,0 @@
-contact:
-  name: Mark Reeves
-  email: mark.reeves3691@outlook.com
-  phone: +1 542-261-5779
-  ssn: 883-30-7582
-  dob: 05-10-2003
-  address: 9060 Fourth Ln
-  city: Denver
-  state: WA

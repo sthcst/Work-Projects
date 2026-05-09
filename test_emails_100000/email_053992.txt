@@ -1,9 +1,0 @@
-contact:
-  name: Daniel White
-  email: daniel.white4986@yahoo.com
-  phone: 925-858-5197
-  ssn: 981-12-1084
-  dob: 28/03/1958
-  address: 8721 Maple Way
-  city: San Diego
-  state: MI

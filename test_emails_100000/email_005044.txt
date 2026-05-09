@@ -1,9 +1,0 @@
-contact:
-  name: Megan Miller
-  email: megan.miller1258@yahoo.com
-  phone: 613 874 7336
-  ssn: 705425804
-  dob: 24/02/1987
-  address: 6076 Fifth Ln
-  city: Austin
-  state: WA

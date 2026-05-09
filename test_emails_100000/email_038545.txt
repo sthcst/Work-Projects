@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Campbell,george.campbell8725@work.org,905-645-3514,542-33-6362,01-10-1994,"4664 Spring St",Phoenix,NY

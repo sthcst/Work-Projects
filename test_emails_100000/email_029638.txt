@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Jackson
-  email: andrew.jackson2842@example.com
-  phone: 963-231-2421
-  ssn: 422 92 5828
-  dob: 02/03/1952
-  address: 3359 South St
-  city: Austin
-  state: VA

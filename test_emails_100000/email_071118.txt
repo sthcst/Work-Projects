@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Moore
-  email: kevin.moore3171@example.com
-  phone: 590 272 4368
-  ssn: 781 33 5780
-  dob: 21/04/1970
-  address: 350 Pine St
-  city: Boston
-  state: AZ

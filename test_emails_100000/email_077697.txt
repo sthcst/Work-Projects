@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Lewis
-  email: christopher.lewis6288@mail.com
-  phone: 362-736-1301
-  ssn: 796-58-5675
-  dob: 02/23/1999
-  address: 1434 Main St
-  city: Boston
-  state: FL

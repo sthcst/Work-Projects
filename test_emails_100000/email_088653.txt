@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Cooper
-  email: matthew.cooper4920@work.org
-  phone: (497) 645-9602
-  ssn: 242 35 6360
-  dob: 09/07/1984
-  address: 8292 Spring Court
-  city: San Jose
-  state: WA

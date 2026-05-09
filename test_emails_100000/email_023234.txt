@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Gonzalez,cynthia.gonzalez7463@company.com,+1 478-489-9276,516111498,10-25-1986,"7136 North Blvd",Los Angeles,TN

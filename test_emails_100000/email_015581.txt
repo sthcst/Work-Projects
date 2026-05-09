@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Murillo,christopher.murillo7453@work.org,655-336-9400,081609347,17/01/1974,"3884 West St",Philadelphia,MA

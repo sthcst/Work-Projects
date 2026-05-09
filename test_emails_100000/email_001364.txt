@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Ortiz,maria.ortiz1283@mail.com,843 955 4909,282 57 5140,11/2/1995,"4158 Main Blvd",San Diego,WA

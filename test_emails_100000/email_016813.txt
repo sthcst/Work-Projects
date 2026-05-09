@@ -1,9 +1,0 @@
-contact:
-  name: Angela Miller
-  email: angela.miller5647@example.com
-  phone: +1 555-219-7146
-  ssn: 086-22-9594
-  dob: 06/06/1992
-  address: 8075 Summer Way
-  city: Washington
-  state: AZ

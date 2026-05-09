@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Jones
-  email: jessica.jones6522@yahoo.com
-  phone: +1 281-457-7050
-  ssn: 368-45-2639
-  dob: 05/09/1956
-  address: 9575 Pine St
-  city: Los Angeles
-  state: MD

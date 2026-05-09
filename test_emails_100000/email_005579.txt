@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Rogers,jane.rogers8619@gmail.com,824-942-1038,686154081,07/08/1950,"6683 North Ave",Philadelphia,CA

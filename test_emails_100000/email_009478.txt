@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Dominguez
-  email: nicole.dominguez292@business.net
-  phone: +1 553-775-2439
-  ssn: 852 43 4289
-  dob: 07/01/1992
-  address: 1804 Spring Rd
-  city: Washington
-  state: FL

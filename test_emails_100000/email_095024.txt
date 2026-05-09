@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Brown
-  email: rebecca.brown3800@work.org
-  phone: 380 994 4802
-  ssn: 236-39-4470
-  dob: 8/9/1984
-  address: 6603 Elm Rd
-  city: Boston
-  state: CA

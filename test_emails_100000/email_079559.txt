@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Jimenez,nicole.jimenez6134@yahoo.com,(880) 527-5699,525-52-7268,27/06/1966,"7065 Oak Ave",Los Angeles,WA

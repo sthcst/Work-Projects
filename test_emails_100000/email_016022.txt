@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Guerrero,robert.guerrero7482@gmail.com,981 213 3579,640123926,25/06/1961,"1816 Elm St",Chicago,TX

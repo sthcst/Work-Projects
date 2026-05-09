@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Ortiz,william.ortiz6929@gmail.com,(867) 247-9995,596 40 9247,25/01/2000,"2285 Maple Court",Seattle,WA

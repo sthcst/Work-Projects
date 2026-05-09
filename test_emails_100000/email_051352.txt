@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Murillo,john.murillo198@example.com,(474) 302-2456,306-89-9294,9/11/1979,"3743 Oak Rd",Jacksonville,GA

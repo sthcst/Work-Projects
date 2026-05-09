@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Hall,paul.hall3329@example.com,203-498-4060,975021396,06/02/2000,"9772 Main Dr",Seattle,VA

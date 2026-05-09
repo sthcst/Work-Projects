@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Lopez,lisa.lopez34@work.org,(393) 372-6045,026-89-4900,03-17-1966,"3388 Maple Blvd",Austin,GA

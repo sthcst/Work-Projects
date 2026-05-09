@@ -1,9 +1,0 @@
-contact:
-  name: Emma Robinson
-  email: emma.robinson281@work.org
-  phone: 710 597 9916
-  ssn: 612476216
-  dob: 05/07/1965
-  address: 4600 Birch Ave
-  city: Jacksonville
-  state: AZ

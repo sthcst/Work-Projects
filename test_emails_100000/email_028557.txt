@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Clark,jane.clark139@company.com,696 589 6281,646 11 5703,10/02/2000,"7889 First Way",Philadelphia,VA

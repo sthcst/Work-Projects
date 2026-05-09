@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Delgado,jessica.delgado2699@example.com,+1 273-611-6999,098-26-2301,07/01/1972,"6076 Sixth Rd",Philadelphia,CA

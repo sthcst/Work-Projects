@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Edwards,kevin.edwards3640@company.com,(389) 256-3447,687462302,5/10/1959,"2226 Cedar Rd",Houston,VA

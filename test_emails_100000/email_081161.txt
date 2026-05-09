@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Thomas
-  email: pamela.thomas1360@yahoo.com
-  phone: (527) 744-8344
-  ssn: 872371910
-  dob: 05-23-1993
-  address: 1359 Cedar Court
-  city: Jacksonville
-  state: AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Morris,rebecca.morris6434@gmail.com,+1 789-318-7645,057669197,04-12-2005,"2660 South Way",Austin,WA

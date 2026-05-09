@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Carter,richard.carter7956@outlook.com,663 882 2956,733 14 5760,27/11/1992,"2501 Main Court",San Diego,VA

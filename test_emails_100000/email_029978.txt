@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Reeves,kenneth.reeves4324@outlook.com,555 301 3323,872164940,06/14/1975,"2305 Summer Ln",Phoenix,CA

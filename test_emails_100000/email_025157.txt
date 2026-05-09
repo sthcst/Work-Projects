@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Nelson
-  email: joshua.nelson1723@gmail.com
-  phone: 467-622-6552
-  ssn: 850119699
-  dob: 04-10-1981
-  address: 2412 East Court
-  city: Boston
-  state: NJ

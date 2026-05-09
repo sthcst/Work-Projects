@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Lopez,john.lopez8721@example.com,859-322-7133,752397047,07/09/1981,"9683 Elm St",Phoenix,FL

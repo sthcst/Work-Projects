@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Collins
-  email: joseph.collins3791@gmail.com
-  phone: 779-792-8144
-  ssn: 511 90 9069
-  dob: 07-11-1998
-  address: 5639 Spring Way
-  city: Denver
-  state: WA

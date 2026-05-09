@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Reeves
-  email: samantha.reeves4958@outlook.com
-  phone: (775) 667-8027
-  ssn: 979-14-2938
-  dob: 9/19/1976
-  address: 9033 Summer Ln
-  city: San Diego
-  state: TX

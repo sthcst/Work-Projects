@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Brown,pamela.brown964@work.org,(610) 602-5270,946 73 2186,21/11/2001,"7798 Park Rd",Austin,CA

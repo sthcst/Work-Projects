@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Alvarado,ryan.alvarado1138@business.net,679 321 8827,572-76-6722,05/10/1993,"4068 Second Dr",Jacksonville,CA

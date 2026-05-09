@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Carter
-  email: shirley.carter4992@company.com
-  phone: +1 645-427-6635
-  ssn: 771627709
-  dob: 12/11/1966
-  address: 477 Fourth Way
-  city: Seattle
-  state: FL

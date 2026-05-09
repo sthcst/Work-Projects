@@ -1,9 +1,0 @@
-contact:
-  name: Angela Taylor
-  email: angela.taylor4759@mail.com
-  phone: 920 701 4901
-  ssn: 268283313
-  dob: 7/11/1984
-  address: 2093 Fourth Court
-  city: New York
-  state: TN

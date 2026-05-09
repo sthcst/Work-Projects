@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Davis,jacob.davis8122@gmail.com,742-814-6060,744 11 4449,2/21/1950,"8396 Park Blvd",San Diego,PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Johnson,steven.johnson2855@example.com,+1 665-331-9986,268-23-8819,21/03/1970,"4871 Birch Ln",Philadelphia,MI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Morris,emma.morris266@yahoo.com,805-871-1983,639 36 6952,10-01-1965,"4582 Third St",Denver,WI

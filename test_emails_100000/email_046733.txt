@@ -1,9 +1,0 @@
-contact:
-  name: James Delgado
-  email: james.delgado5124@mail.com
-  phone: +1 800-936-3157
-  ssn: 811966241
-  dob: 20/03/1988
-  address: 5030 Cedar St
-  city: New York
-  state: NC

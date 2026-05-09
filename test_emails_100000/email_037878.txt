@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Collins,william.collins9019@example.com,+1 906-537-6080,063272422,08/06/1980,"1173 Third Ave",Dallas,FL

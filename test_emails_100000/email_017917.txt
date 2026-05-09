@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Flores,megan.flores2997@business.net,702 876 3379,348 24 9037,8/18/1995,"8525 Oak Blvd",Boston,GA

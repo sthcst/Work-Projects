@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Morris,maria.morris9745@outlook.com,920 887 9574,163 35 4176,02/09/1990,"8134 East Ln",Austin,CO

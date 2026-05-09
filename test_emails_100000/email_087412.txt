@@ -1,9 +1,0 @@
-contact:
-  name: Megan Phillips
-  email: megan.phillips9842@company.com
-  phone: 432-433-3637
-  ssn: 177 92 6835
-  dob: 24/10/1978
-  address: 9470 Fifth Ln
-  city: Chicago
-  state: NJ

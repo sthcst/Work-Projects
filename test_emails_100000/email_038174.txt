@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Martin,katherine.martin7195@yahoo.com,(384) 614-4942,325 22 5521,06/22/1964,"6673 Summer Ln",San Diego,CA

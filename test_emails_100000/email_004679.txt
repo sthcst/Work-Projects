@@ -1,9 +1,0 @@
-contact:
-  name: Michael Roberts
-  email: michael.roberts7066@mail.com
-  phone: 671 528 2496
-  ssn: 313-17-3142
-  dob: 3/4/2001
-  address: 9395 Fifth St
-  city: Washington
-  state: VA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Miller,jason.miller4158@work.org,+1 916-691-4810,459 76 9087,17/07/1985,"8265 Cedar Rd",Jacksonville,MD

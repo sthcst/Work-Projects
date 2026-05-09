@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Nunez,christine.nunez2951@outlook.com,617 927 7372,520791765,12/20/1959,"6858 Fourth Blvd",Philadelphia,AZ

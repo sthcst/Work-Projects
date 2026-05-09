@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Parker,sarah.parker7350@gmail.com,877-505-1228,277-04-3601,10/27/1956,"8921 Second Ave",San Jose,WI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Nunez,emily.nunez587@work.org,(979) 750-5937,452685405,4/26/1950,"4176 Third Blvd",Seattle,TX

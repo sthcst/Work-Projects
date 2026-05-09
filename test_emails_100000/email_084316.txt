@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Parker,anthony.parker5895@yahoo.com,+1 435-269-9452,115-77-8671,05-25-1999,"8615 Fourth Ave",Boston,CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Roberts,ryan.roberts4575@mail.com,933-380-2860,221-63-4955,02-18-1979,"857 Pine Blvd",Austin,DC

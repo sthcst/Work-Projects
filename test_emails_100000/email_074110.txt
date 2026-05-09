@@ -1,9 +1,0 @@
-contact:
-  name: Robert Serrano
-  email: robert.serrano9234@example.com
-  phone: 863 560 5312
-  ssn: 462 06 6229
-  dob: 02-06-1973
-  address: 5400 Third Court
-  city: Dallas
-  state: NY

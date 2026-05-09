@@ -1,9 +1,0 @@
-contact:
-  name: David Jimenez
-  email: david.jimenez3684@example.com
-  phone: +1 813-203-2341
-  ssn: 801462942
-  dob: 27/11/2001
-  address: 2769 Fifth Ave
-  city: Los Angeles
-  state: IL

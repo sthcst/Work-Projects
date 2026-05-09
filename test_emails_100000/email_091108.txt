@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Reyes
-  email: christopher.reyes5120@example.com
-  phone: +1 894-943-6267
-  ssn: 404-62-4841
-  dob: 18/06/1997
-  address: 5843 Elm Rd
-  city: Washington
-  state: NC

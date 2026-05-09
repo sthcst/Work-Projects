@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Collins,ronald.collins5703@mail.com,(736) 690-6489,957352837,11/12/1966,"776 Park Rd",Phoenix,MI

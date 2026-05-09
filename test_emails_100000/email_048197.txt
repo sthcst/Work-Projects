@@ -1,9 +1,0 @@
-contact:
-  name: Charles Garcia
-  email: charles.garcia1204@business.net
-  phone: +1 881-389-6319
-  ssn: 791-05-1790
-  dob: 08-28-1960
-  address: 2734 Third Ln
-  city: New York
-  state: TX

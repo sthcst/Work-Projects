@@ -1,9 +1,0 @@
-contact:
-  name: Gary Jones
-  email: gary.jones3764@example.com
-  phone: 278 214 3877
-  ssn: 697 81 6387
-  dob: 11-18-1966
-  address: 2943 Fifth Ln
-  city: Dallas
-  state: NY

@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Thompson
-  email: amanda.thompson3544@yahoo.com
-  phone: +1 260-377-2174
-  ssn: 213 15 1278
-  dob: 17/11/1965
-  address: 6055 Main Rd
-  city: Boston
-  state: CO

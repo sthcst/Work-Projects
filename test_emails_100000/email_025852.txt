@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Garcia,joseph.garcia5185@business.net,+1 737-648-6211,587176724,07/02/1975,"6489 Fourth Ave",Jacksonville,TX

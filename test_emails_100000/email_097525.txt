@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Jones,timothy.jones6050@work.org,+1 522-761-2155,703285126,01-14-1961,"8706 Main Way",Boston,MA

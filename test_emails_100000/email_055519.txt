@@ -1,9 +1,0 @@
-contact:
-  name: Brian Peterson
-  email: brian.peterson2404@business.net
-  phone: 603 796 6174
-  ssn: 449 83 5688
-  dob: 12/20/1973
-  address: 2758 Sixth Blvd
-  city: Chicago
-  state: OH

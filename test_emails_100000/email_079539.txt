@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Nunez,timothy.nunez1375@company.com,+1 304-746-9338,681 58 5525,01-02-2005,"1710 West Way",Washington,WI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Peterson,george.peterson7525@mail.com,(636) 730-3227,443495911,12/24/1953,"7373 East Way",San Antonio,MI

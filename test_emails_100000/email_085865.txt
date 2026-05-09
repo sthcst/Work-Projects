@@ -1,9 +1,0 @@
-contact:
-  name: Richard Clark
-  email: richard.clark2405@outlook.com
-  phone: 367-664-9834
-  ssn: 693-09-7344
-  dob: 10/8/1998
-  address: 6365 South Way
-  city: San Jose
-  state: MO

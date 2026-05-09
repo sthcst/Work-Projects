@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Garcia,sarah.garcia1462@example.com,331-763-5801,419091488,10/06/1997,"2236 Summer Court",Washington,MA

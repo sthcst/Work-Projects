@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Cooper,rebecca.cooper9727@mail.com,487-339-7524,951-11-2506,03/02/1974,"1448 West St",New York,WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Hall,robert.hall3855@yahoo.com,450 446 1537,975208491,08/21/1976,"781 Summer St",Philadelphia,MA

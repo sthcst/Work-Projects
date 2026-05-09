@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Wilson
-  email: lauren.wilson5437@outlook.com
-  phone: +1 525-217-2423
-  ssn: 845 54 4453
-  dob: 03/14/2000
-  address: 6348 Cedar Dr
-  city: Phoenix
-  state: NC

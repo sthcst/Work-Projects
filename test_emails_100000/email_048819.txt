@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Bell,michael.bell3693@company.com,725-608-8440,766 51 3041,2/26/1979,"4991 Maple Ave",Jacksonville,TX

@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Lopez
-  email: deborah.lopez4098@outlook.com
-  phone: (463) 238-2023
-  ssn: 813-11-1440
-  dob: 09/06/1990
-  address: 3997 Pine Ave
-  city: Chicago
-  state: MA

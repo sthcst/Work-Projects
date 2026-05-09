@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Jones
-  email: matthew.jones1638@example.com
-  phone: 372-596-6766
-  ssn: 040-25-9447
-  dob: 05/04/1984
-  address: 7934 South Blvd
-  city: Los Angeles
-  state: OH

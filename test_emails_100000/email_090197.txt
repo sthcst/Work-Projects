@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Collins,michelle.collins3715@work.org,(988) 615-8819,642 90 3349,05/01/1980,"8247 Oak Ave",Houston,WA

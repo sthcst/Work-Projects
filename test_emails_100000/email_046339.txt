@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Romero,rachel.romero1341@yahoo.com,849 839 6887,470-44-9449,01-27-1990,"9391 Elm St",Washington,FL

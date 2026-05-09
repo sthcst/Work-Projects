@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Johnson,nicholas.johnson9959@mail.com,751 453 5120,942 06 4963,13/01/1991,"35 Sixth Rd",Washington,AZ

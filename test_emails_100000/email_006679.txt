@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Peterson,donald.peterson700@mail.com,313-931-5217,311451461,5/27/1999,"7967 Summer St",San Jose,NJ

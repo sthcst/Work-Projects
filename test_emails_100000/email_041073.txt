@@ -1,9 +1,0 @@
-contact:
-  name: Angela Thomas
-  email: angela.thomas2943@mail.com
-  phone: +1 649-582-9607
-  ssn: 585 30 3565
-  dob: 05-04-1973
-  address: 5525 Main Ave
-  city: Boston
-  state: WA

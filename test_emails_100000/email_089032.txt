@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Jackson
-  email: katherine.jackson6648@outlook.com
-  phone: 515 216 8501
-  ssn: 411039870
-  dob: 01/25/1979
-  address: 2566 North Ln
-  city: Jacksonville
-  state: NY

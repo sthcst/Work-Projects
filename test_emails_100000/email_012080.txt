@@ -1,9 +1,0 @@
-contact:
-  name: David Thompson
-  email: david.thompson8724@business.net
-  phone: 995 742 8916
-  ssn: 258 11 6657
-  dob: 05/05/1982
-  address: 6079 Third Blvd
-  city: Boston
-  state: MI

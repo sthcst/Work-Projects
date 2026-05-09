@@ -1,9 +1,0 @@
-contact:
-  name: Charles Stewart
-  email: charles.stewart736@example.com
-  phone: 514 406 8051
-  ssn: 535371175
-  dob: 11-21-1968
-  address: 3240 Oak Way
-  city: Boston
-  state: CO

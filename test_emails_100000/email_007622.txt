@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Williams
-  email: kathleen.williams6369@gmail.com
-  phone: 808 539 5605
-  ssn: 230337589
-  dob: 10/06/1998
-  address: 7027 Elm Dr
-  city: Los Angeles
-  state: AZ

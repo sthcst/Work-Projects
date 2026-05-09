@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Miller
-  email: matthew.miller2127@work.org
-  phone: 917-802-8227
-  ssn: 138-55-8399
-  dob: 11/18/1993
-  address: 5127 South Dr
-  city: Denver
-  state: NC

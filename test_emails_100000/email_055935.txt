@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Gomez,paul.gomez2097@example.com,668-776-5457,387 95 7445,19/06/1979,"7582 West Blvd",Chicago,DC

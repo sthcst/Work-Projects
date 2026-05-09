@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Cooper
-  email: lauren.cooper4710@work.org
-  phone: +1 786-936-9501
-  ssn: 267 21 7247
-  dob: 12/08/1958
-  address: 4608 Spring Ave
-  city: San Diego
-  state: AZ

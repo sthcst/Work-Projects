@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Jimenez
-  email: sarah.jimenez2715@mail.com
-  phone: +1 844-487-7519
-  ssn: 690 50 4140
-  dob: 12/05/1965
-  address: 4457 Third Rd
-  city: San Diego
-  state: MA

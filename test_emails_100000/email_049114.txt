@@ -1,9 +1,0 @@
-contact:
-  name: Donald Serrano
-  email: donald.serrano1093@example.com
-  phone: 233 696 8389
-  ssn: 416527030
-  dob: 02-15-1978
-  address: 2555 East Court
-  city: San Antonio
-  state: TX

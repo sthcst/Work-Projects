@@ -1,9 +1,0 @@
-contact:
-  name: Angela Jones
-  email: angela.jones7385@mail.com
-  phone: (733) 595-3870
-  ssn: 676-42-1429
-  dob: 07-12-1958
-  address: 6728 Park Blvd
-  city: Los Angeles
-  state: MA

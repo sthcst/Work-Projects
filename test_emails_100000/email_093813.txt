@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Thomas
-  email: joshua.thomas5752@work.org
-  phone: +1 341-827-4695
-  ssn: 804 91 6127
-  dob: 11/12/1953
-  address: 1792 Oak Court
-  city: Seattle
-  state: CA

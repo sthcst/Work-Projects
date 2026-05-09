@@ -1,9 +1,0 @@
-contact:
-  name: Charles Parker
-  email: charles.parker4415@yahoo.com
-  phone: 576 375 2472
-  ssn: 902 01 4640
-  dob: 11/02/1998
-  address: 6733 Park Ln
-  city: Los Angeles
-  state: TX

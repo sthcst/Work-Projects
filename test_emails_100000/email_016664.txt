@@ -1,9 +1,0 @@
-contact:
-  name: Paul Roberts
-  email: paul.roberts6498@outlook.com
-  phone: +1 465-747-3575
-  ssn: 160 51 4746
-  dob: 05-21-1955
-  address: 8200 Fifth Ave
-  city: New York
-  state: NJ

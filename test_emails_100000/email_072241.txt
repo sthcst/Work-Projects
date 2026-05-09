@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Martin
-  email: pamela.martin6895@yahoo.com
-  phone: (353) 470-1668
-  ssn: 157-21-8951
-  dob: 04-05-1959
-  address: 5129 Second Ave
-  city: Seattle
-  state: CA

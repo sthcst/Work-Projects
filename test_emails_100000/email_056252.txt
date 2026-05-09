@@ -1,9 +1,0 @@
-contact:
-  name: Gary Edwards
-  email: gary.edwards9192@business.net
-  phone: +1 337-890-4064
-  ssn: 734 64 9152
-  dob: 17/05/2005
-  address: 1555 Maple Court
-  city: Washington
-  state: NY

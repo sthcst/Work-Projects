@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Ramirez
-  email: christopher.ramirez5096@business.net
-  phone: 747 421 2470
-  ssn: 436 64 7449
-  dob: 10-25-1981
-  address: 3446 Summer Ln
-  city: Chicago
-  state: TX

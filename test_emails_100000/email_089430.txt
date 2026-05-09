@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Moore
-  email: jennifer.moore8970@work.org
-  phone: 514 252 7234
-  ssn: 828 50 2911
-  dob: 5/27/1960
-  address: 8631 Summer Ave
-  city: Houston
-  state: CO

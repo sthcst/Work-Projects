@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Parker
-  email: stephanie.parker7014@work.org
-  phone: (947) 853-3746
-  ssn: 464 78 4721
-  dob: 08-18-1953
-  address: 3046 Fifth Dr
-  city: Jacksonville
-  state: NY

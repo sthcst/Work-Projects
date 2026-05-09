@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Smith
-  email: christopher.smith1850@company.com
-  phone: 396 536 1382
-  ssn: 118 74 7498
-  dob: 6/2/1971
-  address: 3306 Cedar Way
-  city: Austin
-  state: WA

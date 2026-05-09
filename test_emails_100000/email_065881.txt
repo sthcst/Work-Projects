@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Gomez,matthew.gomez6381@yahoo.com,(676) 251-4484,555-40-8537,03/11/1978,"2620 Second Ln",San Diego,MA

@@ -1,9 +1,0 @@
-contact:
-  name: William Thomas
-  email: william.thomas7226@yahoo.com
-  phone: +1 985-343-3252
-  ssn: 973583929
-  dob: 01-25-1983
-  address: 969 Maple Dr
-  city: San Jose
-  state: MA

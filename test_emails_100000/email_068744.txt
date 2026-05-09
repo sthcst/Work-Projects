@@ -1,9 +1,0 @@
-contact:
-  name: Emily Edwards
-  email: emily.edwards5791@mail.com
-  phone: 234-447-7390
-  ssn: 404 91 3766
-  dob: 12/12/1984
-  address: 7995 Second Court
-  city: New York
-  state: CO

@@ -1,9 +1,0 @@
-contact:
-  name: Steven Thompson
-  email: steven.thompson2178@example.com
-  phone: (727) 986-7132
-  ssn: 747 95 1549
-  dob: 25/04/2005
-  address: 1075 Spring Way
-  city: Phoenix
-  state: MO

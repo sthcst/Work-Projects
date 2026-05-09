@@ -1,9 +1,0 @@
-contact:
-  name: Jane Martinez
-  email: jane.martinez9435@example.com
-  phone: 617 596 6572
-  ssn: 379074749
-  dob: 04/10/1965
-  address: 3276 Oak Ave
-  city: Austin
-  state: MI

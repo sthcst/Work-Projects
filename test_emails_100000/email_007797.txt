@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Rogers
-  email: kenneth.rogers9882@outlook.com
-  phone: +1 467-272-4707
-  ssn: 892-38-1019
-  dob: 11-03-1958
-  address: 6490 Birch Rd
-  city: Seattle
-  state: WA

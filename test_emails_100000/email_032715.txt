@@ -1,9 +1,0 @@
-contact:
-  name: Jane Edwards
-  email: jane.edwards6182@work.org
-  phone: 931 689 6216
-  ssn: 360838693
-  dob: 01-21-1987
-  address: 3943 Fifth Way
-  city: Phoenix
-  state: OH

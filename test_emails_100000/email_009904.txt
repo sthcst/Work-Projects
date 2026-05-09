@@ -1,9 +1,0 @@
-contact:
-  name: Christine Evans
-  email: christine.evans9495@company.com
-  phone: +1 655-329-5374
-  ssn: 702-04-3007
-  dob: 04-25-1992
-  address: 6674 Birch Rd
-  city: Seattle
-  state: WA

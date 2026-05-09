@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Murillo,joshua.murillo3752@example.com,865-564-9474,281 56 2782,6/14/1963,"9118 Spring Ln",Denver,CA

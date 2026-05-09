@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Jackson,jacob.jackson1990@work.org,620 635 2350,392-33-1789,02/05/1998,"3363 Spring Rd",Jacksonville,CA

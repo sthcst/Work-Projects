@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Brown,anna.brown463@yahoo.com,907 519 7814,182-64-3384,27/06/1969,"3700 First Ave",Denver,AZ

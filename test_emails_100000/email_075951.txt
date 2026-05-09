@@ -1,9 +1,0 @@
-contact:
-  name: Richard Young
-  email: richard.young3473@mail.com
-  phone: +1 437-343-9666
-  ssn: 027 88 2495
-  dob: 17/02/1971
-  address: 1095 East Ave
-  city: Denver
-  state: MI

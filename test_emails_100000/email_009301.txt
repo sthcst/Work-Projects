@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Gonzalez,james.gonzalez5370@yahoo.com,+1 836-489-8334,679-56-1319,6/11/1964,"832 Maple Blvd",Seattle,CA

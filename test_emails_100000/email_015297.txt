@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Robinson,nicole.robinson3266@mail.com,873 901 8349,825-40-4826,20/09/2002,"9463 North Ave",San Antonio,CA

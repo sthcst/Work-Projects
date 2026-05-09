@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Wilson
-  email: kevin.wilson5785@outlook.com
-  phone: (333) 637-7121
-  ssn: 836 73 8984
-  dob: 24/06/1980
-  address: 1770 Elm St
-  city: Chicago
-  state: MA

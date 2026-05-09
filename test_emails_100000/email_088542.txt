@@ -1,9 +1,0 @@
-contact:
-  name: George Bell
-  email: george.bell5836@company.com
-  phone: (300) 924-9893
-  ssn: 623-83-1395
-  dob: 04/15/1995
-  address: 3403 Sixth Rd
-  city: San Jose
-  state: NC

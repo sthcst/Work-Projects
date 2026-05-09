@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Murillo,joshua.murillo4185@yahoo.com,(451) 960-7104,180 51 2150,05/24/1994,"3933 Cedar Way",Dallas,TX

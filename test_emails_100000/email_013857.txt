@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Campbell,kenneth.campbell4427@work.org,431-821-3888,209088334,02-09-1992,"4579 East Ave",Denver,TX

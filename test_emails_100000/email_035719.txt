@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Stewart,cynthia.stewart7988@company.com,943-994-3972,599-84-4018,03-22-1975,"8593 Cedar Way",Los Angeles,MA

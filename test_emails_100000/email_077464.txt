@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Clark
-  email: michelle.clark8260@outlook.com
-  phone: (895) 767-3403
-  ssn: 976992791
-  dob: 06/05/1974
-  address: 8023 Pine Blvd
-  city: San Antonio
-  state: NY

@@ -1,9 +1,0 @@
-contact:
-  name: Anna Campbell
-  email: anna.campbell5816@company.com
-  phone: 428 570 2387
-  ssn: 735-73-4064
-  dob: 12/17/1995
-  address: 6056 Sixth Dr
-  city: Philadelphia
-  state: CA

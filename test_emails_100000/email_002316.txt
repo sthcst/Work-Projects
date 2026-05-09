@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Alvarado,steven.alvarado7432@example.com,278-615-1558,745665347,08/18/1993,"9152 Cedar Rd",Philadelphia,TX

@@ -1,9 +1,0 @@
-contact:
-  name: James Nelson
-  email: james.nelson5492@outlook.com
-  phone: (761) 404-6867
-  ssn: 846 13 2343
-  dob: 12-05-1950
-  address: 5804 Fourth Dr
-  city: Denver
-  state: PA

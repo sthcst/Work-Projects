@@ -1,9 +1,0 @@
-contact:
-  name: Megan Alvarado
-  email: megan.alvarado6161@outlook.com
-  phone: +1 248-822-5352
-  ssn: 112-64-8246
-  dob: 8/11/1994
-  address: 9715 South Ln
-  city: New York
-  state: GA

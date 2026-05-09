@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Rodriguez,kenneth.rodriguez9939@mail.com,+1 875-810-3646,475482598,07/27/1975,"9435 West St",Los Angeles,NC

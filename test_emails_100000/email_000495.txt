@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Reyes,jacob.reyes796@work.org,240 324 9021,472471820,12/11/1966,"5538 Summer St",Dallas,PA

@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Gomez
-  email: kathleen.gomez8712@outlook.com
-  phone: 324 763 2220
-  ssn: 125-98-8929
-  dob: 09-01-1958
-  address: 4823 Spring Way
-  city: Philadelphia
-  state: MA

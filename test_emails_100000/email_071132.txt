@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Jackson,jessica.jackson4787@mail.com,(441) 508-2966,429 81 4282,07-01-1990,"1333 Fifth Ln",New York,MD

@@ -1,9 +1,0 @@
-contact:
-  name: Angela Perez
-  email: angela.perez7859@mail.com
-  phone: +1 366-922-5415
-  ssn: 784766903
-  dob: 12/12/1963
-  address: 3832 Park St
-  city: Seattle
-  state: GA

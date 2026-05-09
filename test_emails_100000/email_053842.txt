@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Evans
-  email: kimberly.evans3197@outlook.com
-  phone: +1 618-443-5791
-  ssn: 652 51 7029
-  dob: 09-05-1985
-  address: 5175 West Dr
-  city: Washington
-  state: NC

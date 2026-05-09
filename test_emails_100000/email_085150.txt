@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Davis,rebecca.davis242@yahoo.com,739 930 9404,249764459,09/20/1962,"2989 Second Court",San Jose,GA

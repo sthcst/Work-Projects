@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Collins,nicholas.collins2045@gmail.com,+1 802-335-6634,884459978,01-20-2002,"817 Fourth Ln",New York,OH

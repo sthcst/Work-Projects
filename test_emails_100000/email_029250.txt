@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Alvarado,kimberly.alvarado9046@work.org,434-880-8937,682214827,10-03-1965,"8098 Pine Dr",San Diego,IL

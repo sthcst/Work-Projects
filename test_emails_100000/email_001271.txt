@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Flores
-  email: jacob.flores7711@mail.com
-  phone: 485 537 9400
-  ssn: 265-58-5831
-  dob: 04/09/1950
-  address: 2241 Fifth Ln
-  city: Denver
-  state: MD

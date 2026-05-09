@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Gomez,katherine.gomez9320@business.net,(226) 575-5883,046333704,16/10/2001,"5680 Spring St",Boston,NC

@@ -1,9 +1,0 @@
-contact:
-  name: Paul Gonzalez
-  email: paul.gonzalez167@yahoo.com
-  phone: 222-896-8347
-  ssn: 087 08 6377
-  dob: 11/04/1997
-  address: 2926 West Ln
-  city: San Diego
-  state: MI

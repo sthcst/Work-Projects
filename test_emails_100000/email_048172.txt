@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Jones,michael.jones5054@business.net,966 912 8005,045-63-4139,13/10/1982,"8041 West Rd",Chicago,TX

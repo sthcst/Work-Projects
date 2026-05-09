@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Morgan,donald.morgan5485@example.com,+1 367-647-6552,261-04-4443,07-25-1952,"595 Birch Ln",New York,AZ

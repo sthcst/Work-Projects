@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Williams,michael.williams4951@business.net,(207) 968-3714,211-70-8045,09/06/2003,"4092 Summer Ave",San Antonio,TX

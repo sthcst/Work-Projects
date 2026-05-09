@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Carter
-  email: ashley.carter6262@example.com
-  phone: (481) 674-2792
-  ssn: 211-95-6166
-  dob: 11/01/1977
-  address: 4070 Fourth St
-  city: San Antonio
-  state: MA

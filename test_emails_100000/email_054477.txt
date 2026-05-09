@@ -1,9 +1,0 @@
-contact:
-  name: Brian Rogers
-  email: brian.rogers3352@company.com
-  phone: (374) 753-6370
-  ssn: 299425292
-  dob: 9/27/1967
-  address: 3364 Park Dr
-  city: Washington
-  state: WI

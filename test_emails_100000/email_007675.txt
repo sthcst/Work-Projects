@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Stewart,jane.stewart8610@yahoo.com,+1 791-341-1882,933 53 1898,11/08/1971,"4145 Oak Rd",New York,NY

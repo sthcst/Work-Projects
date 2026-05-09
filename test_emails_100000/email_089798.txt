@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Clark
-  email: rebecca.clark8061@mail.com
-  phone: 257-380-7308
-  ssn: 533-45-9017
-  dob: 02/10/1970
-  address: 6513 Summer Ave
-  city: Seattle
-  state: TX

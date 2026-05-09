@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Delgado,christine.delgado1939@outlook.com,468-599-9553,751 35 4999,03-03-1962,"9766 Second Ave",New York,VA

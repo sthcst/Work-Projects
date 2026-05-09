@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Lee,charles.lee5100@mail.com,603 648 1414,412936981,16/07/1991,"857 North Dr",San Antonio,WI

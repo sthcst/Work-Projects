@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Romero,brian.romero9615@outlook.com,411-361-9364,122661361,02/26/1975,"7400 East Ave",Chicago,CO

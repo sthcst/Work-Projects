@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Clark,amanda.clark1511@work.org,+1 948-245-5424,802218455,02/02/1980,"5932 Fifth Blvd",Phoenix,TN

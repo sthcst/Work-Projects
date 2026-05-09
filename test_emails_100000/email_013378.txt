@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Roberts,helen.roberts7057@gmail.com,357 834 1089,184856697,8/13/2003,"8596 Fourth Way",Denver,NY

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Davis,jessica.davis5568@mail.com,926-427-9729,129 64 9282,01/12/1970,"6483 Oak Ln",Chicago,TN

@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Nunez
-  email: kevin.nunez1837@company.com
-  phone: 367 919 9018
-  ssn: 801 62 2060
-  dob: 16/01/1954
-  address: 2734 Birch Blvd
-  city: Chicago
-  state: MD

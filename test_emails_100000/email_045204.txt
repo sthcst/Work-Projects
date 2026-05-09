@@ -1,9 +1,0 @@
-contact:
-  name: Steven Thomas
-  email: steven.thomas1406@mail.com
-  phone: 717 923 2504
-  ssn: 131-64-7301
-  dob: 18/09/1954
-  address: 3595 North Way
-  city: Phoenix
-  state: DC

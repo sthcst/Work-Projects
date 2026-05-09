@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Hernandez,richard.hernandez8008@gmail.com,602 994 2225,560752287,26/05/2004,"8311 Elm Rd",Denver,FL

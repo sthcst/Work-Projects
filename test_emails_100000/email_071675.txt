@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Perez,pamela.perez6790@example.com,573 583 5760,098024243,24/12/1989,"45 West St",San Antonio,TX

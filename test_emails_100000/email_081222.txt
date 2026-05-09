@@ -1,9 +1,0 @@
-contact:
-  name: Robert Edwards
-  email: robert.edwards3739@business.net
-  phone: 978-486-3850
-  ssn: 713239056
-  dob: 06/24/1961
-  address: 2952 Fifth Ln
-  city: Philadelphia
-  state: CO

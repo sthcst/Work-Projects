@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Nelson
-  email: shirley.nelson5808@company.com
-  phone: 544-817-5835
-  ssn: 365-20-7569
-  dob: 4/8/1967
-  address: 4620 Sixth Rd
-  city: Jacksonville
-  state: PA

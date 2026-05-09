@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Harris,jacob.harris2252@mail.com,711-412-2248,777 89 7554,20/11/1951,"4085 Cedar St",Austin,GA

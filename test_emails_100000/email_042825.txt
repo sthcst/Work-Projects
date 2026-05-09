@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Ortiz,anna.ortiz4194@mail.com,396-818-5121,684913721,9/17/1953,"532 North Blvd",Philadelphia,DC

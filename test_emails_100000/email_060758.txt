@@ -1,9 +1,0 @@
-contact:
-  name: David Anderson
-  email: david.anderson1271@outlook.com
-  phone: 564 661 6426
-  ssn: 249264940
-  dob: 02-25-1969
-  address: 9864 Fifth Dr
-  city: Washington
-  state: AZ

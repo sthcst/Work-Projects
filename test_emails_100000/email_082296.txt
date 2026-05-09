@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Garcia
-  email: ronald.garcia2654@work.org
-  phone: 993 408 5183
-  ssn: 240-55-7555
-  dob: 27/06/2003
-  address: 5044 Maple St
-  city: Austin
-  state: TX

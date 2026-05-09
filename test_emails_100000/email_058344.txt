@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Carter,maria.carter5630@business.net,364-229-1915,506649797,12-01-1975,"4200 Park Way",Jacksonville,MI

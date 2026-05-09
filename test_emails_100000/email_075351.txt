@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Garcia
-  email: katherine.garcia5984@yahoo.com
-  phone: 493 979 8486
-  ssn: 086989640
-  dob: 3/4/1985
-  address: 9304 Summer Ln
-  city: Los Angeles
-  state: CO

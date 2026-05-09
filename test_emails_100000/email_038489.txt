@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Gonzalez
-  email: rebecca.gonzalez3878@example.com
-  phone: 993-321-5537
-  ssn: 515 22 7719
-  dob: 12-15-1970
-  address: 3181 Cedar Rd
-  city: Los Angeles
-  state: CO

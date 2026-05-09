@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Phillips
-  email: katherine.phillips342@company.com
-  phone: (707) 312-9707
-  ssn: 391 16 9891
-  dob: 06-04-1953
-  address: 6728 Birch Blvd
-  city: Chicago
-  state: CA

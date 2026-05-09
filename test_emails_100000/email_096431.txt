@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Brown,george.brown8369@yahoo.com,(367) 687-1528,192425744,09/23/1954,"174 Park St",Chicago,DC

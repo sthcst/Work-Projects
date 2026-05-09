@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Young,angela.young4916@business.net,+1 835-908-2120,732-67-8616,11/12/1976,"7973 Elm Rd",Phoenix,MD

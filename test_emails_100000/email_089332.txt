@@ -1,9 +1,0 @@
-contact:
-  name: Donald Jackson
-  email: donald.jackson3394@business.net
-  phone: +1 320-420-3536
-  ssn: 268-99-3000
-  dob: 04-03-1984
-  address: 9892 Sixth Blvd
-  city: Phoenix
-  state: IL

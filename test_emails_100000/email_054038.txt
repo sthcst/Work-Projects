@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Harris
-  email: amanda.harris6331@mail.com
-  phone: (267) 940-8941
-  ssn: 602313419
-  dob: 01/06/1980
-  address: 4440 Fourth Blvd
-  city: Seattle
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Miller
-  email: kathleen.miller9025@example.com
-  phone: 281-338-8108
-  ssn: 004 91 6353
-  dob: 07/18/1990
-  address: 1805 Birch St
-  city: Houston
-  state: GA

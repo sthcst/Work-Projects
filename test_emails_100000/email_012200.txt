@@ -1,9 +1,0 @@
-contact:
-  name: Mark Reyes
-  email: mark.reyes3248@example.com
-  phone: +1 233-773-2653
-  ssn: 823-65-7955
-  dob: 04-14-1972
-  address: 4804 Pine Ln
-  city: Jacksonville
-  state: CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Taylor,shirley.taylor5160@work.org,(968) 591-5645,030305162,6/9/1969,"6095 West Blvd",Boston,OH

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Stewart,maria.stewart5846@mail.com,+1 219-409-3063,575-70-7582,06/01/1992,"3168 Elm St",New York,NC

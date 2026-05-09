@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Perez,timothy.perez7938@business.net,288 331 4725,211-11-9015,11/02/1950,"7903 North Blvd",Chicago,MA

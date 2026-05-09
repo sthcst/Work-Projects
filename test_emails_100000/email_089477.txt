@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Evans
-  email: kathleen.evans3612@work.org
-  phone: 455-714-4164
-  ssn: 956364414
-  dob: 23/09/1975
-  address: 3097 Birch Court
-  city: Los Angeles
-  state: FL

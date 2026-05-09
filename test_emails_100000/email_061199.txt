@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Alvarado
-  email: kenneth.alvarado4716@example.com
-  phone: (540) 472-4925
-  ssn: 021 61 4176
-  dob: 11/26/1952
-  address: 2431 Oak Court
-  city: San Jose
-  state: NJ

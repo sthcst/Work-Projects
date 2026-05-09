@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Morgan,daniel.morgan7998@example.com,788-217-3352,401299967,01/01/1957,"3893 Second St",Los Angeles,DC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Alvarado,andrew.alvarado2674@company.com,429-451-7341,633 16 6977,4/21/1981,"7599 Cedar Ave",Seattle,NC

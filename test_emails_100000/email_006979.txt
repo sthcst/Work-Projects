@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Reyes,stephanie.reyes9243@outlook.com,400-638-3597,102323519,10/14/1978,"8280 West Court",San Antonio,MA

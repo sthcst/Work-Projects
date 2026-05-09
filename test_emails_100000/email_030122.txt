@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Murillo
-  email: stephanie.murillo4340@example.com
-  phone: +1 980-730-5511
-  ssn: 041 01 4402
-  dob: 12/13/2001
-  address: 677 Elm Dr
-  city: San Antonio
-  state: AZ

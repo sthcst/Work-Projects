@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Stewart,kimberly.stewart9936@work.org,(319) 253-9012,727535687,7/12/1955,"5799 Second Dr",Phoenix,TN

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Davis,richard.davis2364@example.com,+1 602-254-9792,988378704,12-07-2005,"5448 Spring St",Washington,WA

@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Lee
-  email: lisa.lee8341@company.com
-  phone: 861 657 4421
-  ssn: 456 99 9226
-  dob: 15/10/2004
-  address: 8344 North Way
-  city: Chicago
-  state: MD

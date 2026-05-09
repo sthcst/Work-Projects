@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Carter,christine.carter2486@mail.com,(650) 520-4711,238 11 5315,03-22-1985,"2397 Maple Way",Phoenix,MA

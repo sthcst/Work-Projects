@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Campbell
-  email: amanda.campbell5857@work.org
-  phone: 460-345-8913
-  ssn: 060806664
-  dob: 09-16-1996
-  address: 6064 East Court
-  city: Boston
-  state: VA

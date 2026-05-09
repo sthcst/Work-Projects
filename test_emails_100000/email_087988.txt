@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Romero,rebecca.romero5103@yahoo.com,810 462 4051,410549137,5/1/1967,"7289 Cedar Court",Chicago,CA

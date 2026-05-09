@@ -1,9 +1,0 @@
-contact:
-  name: Angela Wilson
-  email: angela.wilson4926@outlook.com
-  phone: 752-284-1360
-  ssn: 486758542
-  dob: 2/10/1993
-  address: 835 Birch Way
-  city: Washington
-  state: MI

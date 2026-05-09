@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Romero,amanda.romero5355@gmail.com,(333) 990-6599,902-25-9330,03/18/1960,"8391 Main Ln",Boston,TX

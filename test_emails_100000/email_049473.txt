@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Rodriguez
-  email: andrew.rodriguez1040@work.org
-  phone: (713) 751-1662
-  ssn: 716-56-5151
-  dob: 05/09/1968
-  address: 1068 Birch Blvd
-  city: San Diego
-  state: TN

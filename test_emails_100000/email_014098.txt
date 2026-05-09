@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Thompson,william.thompson4517@company.com,(564) 355-8716,024-72-9597,08/03/1990,"5681 Sixth Blvd",Philadelphia,AZ

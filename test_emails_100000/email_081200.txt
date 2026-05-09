@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Anderson,jessica.anderson1702@mail.com,(437) 769-2112,111 69 7846,2/19/1981,"3939 Cedar Ave",Washington,TX

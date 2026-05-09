@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Nelson
-  email: matthew.nelson5390@gmail.com
-  phone: 461-782-2892
-  ssn: 940 83 5281
-  dob: 11/01/1959
-  address: 7083 West Court
-  city: New York
-  state: GA

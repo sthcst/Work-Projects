@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Martin
-  email: katherine.martin8831@business.net
-  phone: 993 726 6920
-  ssn: 589 12 2906
-  dob: 12-06-1966
-  address: 9604 Sixth Ln
-  city: San Antonio
-  state: AZ

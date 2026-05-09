@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Romero,brian.romero4860@example.com,+1 444-857-3106,693-22-6200,12/14/1998,"1365 West Ln",San Antonio,CO

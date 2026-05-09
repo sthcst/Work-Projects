@@ -1,9 +1,0 @@
-contact:
-  name: Edward Jackson
-  email: edward.jackson7280@gmail.com
-  phone: (575) 381-2926
-  ssn: 144-25-8883
-  dob: 23/06/1995
-  address: 4579 Sixth St
-  city: New York
-  state: OH

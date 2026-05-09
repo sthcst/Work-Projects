@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Stewart
-  email: jacob.stewart8416@business.net
-  phone: (871) 890-2611
-  ssn: 490136706
-  dob: 10-24-1979
-  address: 9514 East Blvd
-  city: San Antonio
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Emma Parker
-  email: emma.parker192@company.com
-  phone: 306 392 8203
-  ssn: 771 75 8269
-  dob: 12/10/1959
-  address: 317 Maple Ln
-  city: Austin
-  state: CO

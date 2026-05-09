@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Morgan
-  email: katherine.morgan3508@outlook.com
-  phone: 765-481-6447
-  ssn: 529 22 9334
-  dob: 07-01-1995
-  address: 2693 Summer St
-  city: Chicago
-  state: FL

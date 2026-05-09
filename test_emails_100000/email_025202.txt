@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Reeves
-  email: ashley.reeves3256@business.net
-  phone: +1 296-740-3278
-  ssn: 415-17-2108
-  dob: 10-14-1998
-  address: 808 South Court
-  city: Seattle
-  state: CA

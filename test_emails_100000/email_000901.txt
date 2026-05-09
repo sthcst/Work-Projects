@@ -1,9 +1,0 @@
-contact:
-  name: Maria Jones
-  email: maria.jones9582@company.com
-  phone: (360) 556-4152
-  ssn: 254-27-3839
-  dob: 03/08/1972
-  address: 677 Maple Blvd
-  city: Austin
-  state: FL

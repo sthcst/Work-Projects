@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Roberts
-  email: ryan.roberts5892@gmail.com
-  phone: 754 931 3163
-  ssn: 600297601
-  dob: 06/01/1952
-  address: 798 Third Court
-  city: San Jose
-  state: DC

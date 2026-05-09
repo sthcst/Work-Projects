@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Walker
-  email: joseph.walker8310@example.com
-  phone: +1 794-649-7255
-  ssn: 407196595
-  dob: 8/2/1970
-  address: 4116 Fifth Ave
-  city: New York
-  state: MO

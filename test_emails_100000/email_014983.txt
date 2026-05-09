@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Young
-  email: samantha.young7879@yahoo.com
-  phone: 773-461-2096
-  ssn: 787 64 3059
-  dob: 07-05-1954
-  address: 3751 Summer St
-  city: San Antonio
-  state: VA

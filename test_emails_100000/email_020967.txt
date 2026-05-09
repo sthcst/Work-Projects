@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Robinson,richard.robinson3865@work.org,932 423 5865,123775948,08/03/1959,"8047 West Court",Phoenix,NC

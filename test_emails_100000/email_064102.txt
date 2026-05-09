@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Alvarado,andrew.alvarado8582@yahoo.com,+1 879-967-2728,660-13-2923,06-11-1988,"5942 Cedar Court",Denver,FL

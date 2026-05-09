@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Hernandez,nicholas.hernandez8634@yahoo.com,(459) 878-5053,776 19 1481,15/08/1966,"7539 North Blvd",San Diego,CA

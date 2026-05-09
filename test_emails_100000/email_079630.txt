@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Reeves
-  email: jennifer.reeves5725@outlook.com
-  phone: 568 913 3868
-  ssn: 453019902
-  dob: 8/28/1987
-  address: 3446 Fifth St
-  city: Philadelphia
-  state: WA

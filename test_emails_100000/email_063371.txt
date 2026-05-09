@@ -1,9 +1,0 @@
-contact:
-  name: John Flores
-  email: john.flores9699@mail.com
-  phone: (550) 400-4243
-  ssn: 980672078
-  dob: 10/02/1992
-  address: 3001 Birch Way
-  city: Houston
-  state: TX

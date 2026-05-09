@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Reed
-  email: ashley.reed3122@business.net
-  phone: 224-787-3742
-  ssn: 854 06 6692
-  dob: 09-06-1959
-  address: 8499 Main Way
-  city: Denver
-  state: CA

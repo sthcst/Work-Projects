@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Jones,christine.jones7753@work.org,774 889 5576,226 42 6379,03-06-1974,"8761 First Rd",Chicago,TX

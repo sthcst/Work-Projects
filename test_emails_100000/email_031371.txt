@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Cooper
-  email: katherine.cooper6184@company.com
-  phone: 205 375 8130
-  ssn: 333-25-9099
-  dob: 06/28/1968
-  address: 840 Main Blvd
-  city: Dallas
-  state: TX

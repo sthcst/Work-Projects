@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Campbell
-  email: stephanie.campbell1316@yahoo.com
-  phone: 257 686 6212
-  ssn: 194048184
-  dob: 1/25/1992
-  address: 7715 Spring Dr
-  city: Houston
-  state: FL

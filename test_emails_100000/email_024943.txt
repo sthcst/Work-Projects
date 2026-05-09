@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Carter,ronald.carter5342@company.com,856 723 6730,094 53 1677,06-08-1968,"3230 Summer Court",Denver,MD

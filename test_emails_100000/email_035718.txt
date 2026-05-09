@@ -1,9 +1,0 @@
-contact:
-  name: Nicole White
-  email: nicole.white9761@gmail.com
-  phone: (369) 971-3027
-  ssn: 490 22 2129
-  dob: 09-06-1969
-  address: 3660 Summer St
-  city: Seattle
-  state: MA

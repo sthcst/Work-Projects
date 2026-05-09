@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Jones,joseph.jones1988@mail.com,+1 634-354-3926,268302609,04/08/1993,"661 Pine Dr",Phoenix,GA

@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Harris
-  email: deborah.harris8228@example.com
-  phone: 411-992-7149
-  ssn: 943 19 7334
-  dob: 2/22/1992
-  address: 4437 Maple Court
-  city: Phoenix
-  state: TX

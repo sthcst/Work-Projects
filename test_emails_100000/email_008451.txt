@@ -1,9 +1,0 @@
-contact:
-  name: Richard Roberts
-  email: richard.roberts9211@gmail.com
-  phone: (450) 892-6145
-  ssn: 210 43 1166
-  dob: 10/01/1994
-  address: 7179 Maple Blvd
-  city: Chicago
-  state: OH

@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Flores
-  email: kathleen.flores1418@work.org
-  phone: 209 775 6999
-  ssn: 306523007
-  dob: 08/18/1959
-  address: 2781 Second St
-  city: New York
-  state: NY

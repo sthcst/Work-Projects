@@ -1,9 +1,0 @@
-contact:
-  name: Angela Nelson
-  email: angela.nelson4479@gmail.com
-  phone: 760-694-9834
-  ssn: 119-30-2657
-  dob: 9/13/1975
-  address: 2347 Birch Blvd
-  city: Jacksonville
-  state: TX

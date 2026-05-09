@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Serrano
-  email: daniel.serrano1244@business.net
-  phone: 713-237-8302
-  ssn: 563 79 6724
-  dob: 23/08/1975
-  address: 2964 Summer Ave
-  city: Boston
-  state: MA

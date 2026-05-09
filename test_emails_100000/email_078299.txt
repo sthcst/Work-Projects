@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Reeves
-  email: kimberly.reeves3085@gmail.com
-  phone: 692-704-5326
-  ssn: 241 54 3972
-  dob: 12-09-1966
-  address: 5255 First Ln
-  city: Jacksonville
-  state: NJ

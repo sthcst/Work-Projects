@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Davis,john.davis6343@company.com,423 305 6062,990 15 6691,03/19/2002,"2502 East Court",Houston,AZ

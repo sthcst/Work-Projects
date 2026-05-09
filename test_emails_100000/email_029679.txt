@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Gonzalez,kathleen.gonzalez2071@yahoo.com,(318) 947-2664,568-81-3238,22/05/1952,"8069 South Blvd",Washington,MO

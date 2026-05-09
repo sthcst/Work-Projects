@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Morgan,brian.morgan6055@business.net,+1 268-292-2692,872-33-5699,05/19/1988,"6719 Sixth Ln",Washington,VA

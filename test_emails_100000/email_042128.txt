@@ -1,9 +1,0 @@
-contact:
-  name: Angela Miller
-  email: angela.miller5656@gmail.com
-  phone: +1 493-416-5109
-  ssn: 083-69-3707
-  dob: 03/26/1974
-  address: 3882 Pine Dr
-  city: Chicago
-  state: TX

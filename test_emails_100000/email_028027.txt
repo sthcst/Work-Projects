@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Ortiz,nicole.ortiz5640@work.org,531-437-8580,833901665,2/20/1972,"928 Pine St",New York,CA

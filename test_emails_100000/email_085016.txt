@@ -1,9 +1,0 @@
-contact:
-  name: Emma Clark
-  email: emma.clark6217@mail.com
-  phone: 644 882 5818
-  ssn: 674-55-4065
-  dob: 01-03-1955
-  address: 9846 Fifth Dr
-  city: New York
-  state: TX

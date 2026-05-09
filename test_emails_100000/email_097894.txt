@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Gonzalez,amanda.gonzalez6902@work.org,(811) 490-8357,785316091,02-18-2001,"2571 Summer Ave",Washington,TN

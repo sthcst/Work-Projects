@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Gonzalez
-  email: jessica.gonzalez628@mail.com
-  phone: +1 824-435-4835
-  ssn: 509 05 8602
-  dob: 05-24-1967
-  address: 3430 Park Way
-  city: Denver
-  state: NY

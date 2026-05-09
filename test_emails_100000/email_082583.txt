@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Phillips,angela.phillips1125@gmail.com,764-672-2784,015-23-5993,01/12/1955,"8240 Cedar Ave",Seattle,WA

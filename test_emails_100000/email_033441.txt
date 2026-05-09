@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Delgado,robert.delgado1461@work.org,944-413-1494,070 24 2814,17/04/1952,"3626 Park Ln",San Diego,CA

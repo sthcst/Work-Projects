@@ -1,9 +1,0 @@
-contact:
-  name: Paul Robinson
-  email: paul.robinson1175@mail.com
-  phone: (315) 226-7559
-  ssn: 131-35-3218
-  dob: 10-02-1999
-  address: 6331 Cedar Ln
-  city: San Jose
-  state: NJ

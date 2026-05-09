@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Harris
-  email: christopher.harris2193@outlook.com
-  phone: 948-275-5569
-  ssn: 232328446
-  dob: 01-25-1957
-  address: 8767 Sixth Rd
-  city: San Antonio
-  state: OH

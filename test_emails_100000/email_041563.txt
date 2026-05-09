@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Morgan
-  email: sarah.morgan4331@company.com
-  phone: +1 924-403-5845
-  ssn: 621251141
-  dob: 12/25/1990
-  address: 2227 East Rd
-  city: Houston
-  state: NC

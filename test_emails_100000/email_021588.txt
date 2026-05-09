@@ -1,9 +1,0 @@
-contact:
-  name: Brian Miller
-  email: brian.miller2661@outlook.com
-  phone: 913 955 2215
-  ssn: 159 25 2413
-  dob: 08/01/1952
-  address: 5973 First Court
-  city: Houston
-  state: NJ

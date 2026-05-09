@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Reed
-  email: andrew.reed9905@example.com
-  phone: 605-975-4442
-  ssn: 593-99-5337
-  dob: 1/7/1986
-  address: 7263 Fifth Ln
-  city: Seattle
-  state: TX

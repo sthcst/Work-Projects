@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Lewis,ryan.lewis6170@company.com,342-741-2573,067632189,5/26/2003,"3347 East Way",Seattle,DC

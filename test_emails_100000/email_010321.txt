@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Davis,emma.davis4873@gmail.com,608 977 6703,343497421,09-24-1968,"4812 Elm Ln",Seattle,MI

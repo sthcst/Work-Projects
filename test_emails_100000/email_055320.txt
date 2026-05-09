@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Cooper,samantha.cooper2453@mail.com,(325) 636-5604,849-81-3300,08-05-1990,"3030 Maple St",New York,AZ

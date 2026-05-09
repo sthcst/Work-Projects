@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Dominguez,matthew.dominguez2487@company.com,+1 242-797-2507,198-29-6912,06-27-1997,"613 Third Court",Seattle,TX

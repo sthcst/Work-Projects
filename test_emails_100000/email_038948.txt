@@ -1,9 +1,0 @@
-contact:
-  name: Robert Lee
-  email: robert.lee7170@outlook.com
-  phone: 653-856-9615
-  ssn: 614-13-2924
-  dob: 01-20-1951
-  address: 6602 Main St
-  city: San Jose
-  state: DC

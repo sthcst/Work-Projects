@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Davis,nicole.davis9927@work.org,510 511 5505,770461413,17/07/1959,"1890 North Court",Phoenix,OH

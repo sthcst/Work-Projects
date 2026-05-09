@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Robinson,pamela.robinson7500@example.com,690 743 5386,826-33-6227,04-19-1995,"5490 South Ave",Phoenix,AZ

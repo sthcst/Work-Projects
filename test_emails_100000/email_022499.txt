@@ -1,9 +1,0 @@
-contact:
-  name: David Phillips
-  email: david.phillips5228@yahoo.com
-  phone: 408-920-8213
-  ssn: 443-62-6879
-  dob: 09/01/1959
-  address: 3199 Spring Way
-  city: Austin
-  state: MA

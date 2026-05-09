@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Alvarado
-  email: joshua.alvarado6861@business.net
-  phone: 469-468-9011
-  ssn: 006-04-5678
-  dob: 07/16/1955
-  address: 8969 Park St
-  city: Boston
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Serrano
-  email: cynthia.serrano3201@mail.com
-  phone: 294 415 5554
-  ssn: 327-06-8138
-  dob: 12/28/1996
-  address: 8155 Sixth Way
-  city: New York
-  state: MA

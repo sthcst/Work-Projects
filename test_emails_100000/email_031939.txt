@@ -1,9 +1,0 @@
-contact:
-  name: Mark Wilson
-  email: mark.wilson9501@outlook.com
-  phone: (966) 855-8661
-  ssn: 556 63 5034
-  dob: 20/09/1958
-  address: 1372 North Rd
-  city: Washington
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Lewis,emily.lewis3965@work.org,534 370 3182,848 52 8863,17/07/1998,"4692 Sixth Rd",San Diego,MI

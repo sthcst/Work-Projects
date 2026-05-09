@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Taylor,timothy.taylor3140@example.com,677 355 6406,114-29-8054,23/05/1953,"3577 Spring Way",Washington,MI

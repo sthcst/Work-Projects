@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Martin
-  email: kathleen.martin5233@mail.com
-  phone: 524 536 4901
-  ssn: 370315016
-  dob: 01/02/2000
-  address: 6307 Fourth St
-  city: Houston
-  state: PA

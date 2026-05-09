@@ -1,9 +1,0 @@
-contact:
-  name: Christine Serrano
-  email: christine.serrano9882@work.org
-  phone: (378) 634-4464
-  ssn: 377 93 3148
-  dob: 6/4/1976
-  address: 4626 Spring Dr
-  city: Washington
-  state: WA

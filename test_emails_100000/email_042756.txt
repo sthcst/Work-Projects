@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Morgan,samantha.morgan7581@business.net,874 550 1896,852 37 3300,05-24-1957,"1368 Third Dr",San Jose,MA

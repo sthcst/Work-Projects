@@ -1,9 +1,0 @@
-contact:
-  name: Angela Brown
-  email: angela.brown4269@gmail.com
-  phone: +1 630-898-1754
-  ssn: 639-99-3028
-  dob: 8/15/1999
-  address: 1955 Park Blvd
-  city: Washington
-  state: NY

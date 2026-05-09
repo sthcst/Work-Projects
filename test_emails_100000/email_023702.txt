@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Ortiz,jane.ortiz8912@example.com,(353) 706-4136,371 76 4912,02/10/1959,"2486 Oak Blvd",San Diego,MA

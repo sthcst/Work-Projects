@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Peterson
-  email: lauren.peterson2089@company.com
-  phone: 937 701 4527
-  ssn: 119 74 2585
-  dob: 10/22/1968
-  address: 922 Birch Dr
-  city: Boston
-  state: TX

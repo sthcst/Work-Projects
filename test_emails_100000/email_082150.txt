@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Davis
-  email: matthew.davis2686@company.com
-  phone: 213-753-1444
-  ssn: 084217874
-  dob: 12-20-1985
-  address: 9024 Maple Court
-  city: Philadelphia
-  state: TX

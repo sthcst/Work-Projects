@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Thompson,kimberly.thompson2970@gmail.com,+1 946-322-6436,092137611,22/12/1974,"6257 Second Rd",Austin,PA

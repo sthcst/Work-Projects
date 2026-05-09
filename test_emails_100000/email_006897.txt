@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Smith,christine.smith4391@company.com,939 784 8890,585-63-3148,01/11/2004,"8999 Second Rd",San Diego,TX

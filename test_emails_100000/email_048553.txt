@@ -1,9 +1,0 @@
-contact:
-  name: Robert Ramirez
-  email: robert.ramirez7275@outlook.com
-  phone: 352 997 6908
-  ssn: 395204134
-  dob: 17/10/1997
-  address: 4942 Park St
-  city: Jacksonville
-  state: AZ

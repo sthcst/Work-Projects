@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Morris,kenneth.morris9914@company.com,+1 236-999-6308,493 29 1046,4/13/1956,"9833 Fifth St",Los Angeles,IL

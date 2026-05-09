@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Moore,mark.moore9132@gmail.com,(861) 746-8415,903919818,04/26/1961,"8947 Maple Blvd",Washington,PA

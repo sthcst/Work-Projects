@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Reyes,samantha.reyes494@work.org,633-910-5121,404 55 6399,4/26/1965,"8322 Birch Way",Denver,TX

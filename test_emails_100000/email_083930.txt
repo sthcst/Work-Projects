@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Cooper
-  email: sarah.cooper697@gmail.com
-  phone: 592-315-2737
-  ssn: 056 09 4483
-  dob: 10-08-1955
-  address: 455 Spring Ave
-  city: San Diego
-  state: CA

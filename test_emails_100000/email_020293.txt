@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Robinson
-  email: timothy.robinson2711@company.com
-  phone: 375-295-7984
-  ssn: 418-53-4747
-  dob: 11/07/1980
-  address: 2870 Fourth Blvd
-  city: Chicago
-  state: CA

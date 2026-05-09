@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Evans
-  email: stephanie.evans5157@yahoo.com
-  phone: 458 223 5746
-  ssn: 280 24 1347
-  dob: 02/24/1984
-  address: 3804 Park St
-  city: Philadelphia
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: David Guerrero
-  email: david.guerrero5360@gmail.com
-  phone: (622) 306-8305
-  ssn: 287279967
-  dob: 15/07/1965
-  address: 6277 Third Ave
-  city: Jacksonville
-  state: AZ

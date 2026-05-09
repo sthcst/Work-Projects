@@ -1,9 +1,0 @@
-contact:
-  name: Jane Collins
-  email: jane.collins2951@business.net
-  phone: (970) 501-4383
-  ssn: 656274244
-  dob: 10/08/1998
-  address: 1750 Summer Ln
-  city: Phoenix
-  state: VA

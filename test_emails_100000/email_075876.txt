@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Robinson
-  email: nicole.robinson2848@work.org
-  phone: 701-718-6075
-  ssn: 446 32 5640
-  dob: 19/09/1996
-  address: 1059 Elm St
-  city: Jacksonville
-  state: TX

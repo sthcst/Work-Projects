@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Delgado,joseph.delgado3519@work.org,(837) 504-1691,610-32-2918,24/12/1950,"6252 West Ln",Philadelphia,IL

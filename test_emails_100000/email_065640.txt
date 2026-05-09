@@ -1,9 +1,0 @@
-contact:
-  name: Jane Parker
-  email: jane.parker3865@outlook.com
-  phone: 328 263 1737
-  ssn: 308782342
-  dob: 04-11-1955
-  address: 7692 Sixth Court
-  city: Austin
-  state: FL

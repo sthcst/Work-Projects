@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Serrano,megan.serrano5650@example.com,432-978-5373,964-82-7778,1/25/1986,"1159 Cedar St",Seattle,TX

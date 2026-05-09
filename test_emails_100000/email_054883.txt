@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Walker,michelle.walker8940@work.org,932-521-9907,718-15-3149,8/7/1972,"9571 Second Ave",Jacksonville,MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Guerrero,emma.guerrero440@business.net,526 568 1981,400-31-7073,26/11/1955,"4678 Main Way",Philadelphia,GA

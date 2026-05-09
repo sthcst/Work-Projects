@@ -1,9 +1,0 @@
-contact:
-  name: Anna Phillips
-  email: anna.phillips3931@company.com
-  phone: 642 377 4303
-  ssn: 116999651
-  dob: 11/11/1958
-  address: 8531 West Way
-  city: Philadelphia
-  state: NJ

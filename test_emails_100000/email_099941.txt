@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Roberts
-  email: stephanie.roberts5363@mail.com
-  phone: (610) 662-1386
-  ssn: 974 22 1584
-  dob: 12/17/1969
-  address: 3880 Summer Blvd
-  city: Austin
-  state: FL

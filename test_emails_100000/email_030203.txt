@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Nelson,kenneth.nelson1493@company.com,(456) 398-7163,239 92 5208,2/21/1962,"4300 Cedar Ave",Philadelphia,TN

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Cooper,christine.cooper1467@company.com,246 922 1156,121-16-3046,01-18-1966,"4170 North Ln",San Diego,CA

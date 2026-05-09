@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Robinson,sarah.robinson5693@work.org,528 328 5809,235286689,05-01-1968,"9783 North St",Jacksonville,TX

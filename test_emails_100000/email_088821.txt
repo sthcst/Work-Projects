@@ -1,9 +1,0 @@
-contact:
-  name: Charles Collins
-  email: charles.collins7057@example.com
-  phone: 747-835-8256
-  ssn: 055363368
-  dob: 11/11/1959
-  address: 7247 Spring Way
-  city: Boston
-  state: FL

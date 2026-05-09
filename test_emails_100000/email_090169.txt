@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Hernandez
-  email: kimberly.hernandez8258@outlook.com
-  phone: 940 456 4844
-  ssn: 892-15-6894
-  dob: 08-09-1956
-  address: 1544 Maple Rd
-  city: Boston
-  state: MI

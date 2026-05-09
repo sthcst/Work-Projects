@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole White,nicole.white9290@company.com,(810) 903-9459,017367194,21/03/2002,"5300 Park Blvd",Phoenix,NJ

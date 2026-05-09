@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Collins
-  email: daniel.collins7621@outlook.com
-  phone: 371-390-7963
-  ssn: 574-94-9876
-  dob: 4/7/1989
-  address: 117 Cedar Way
-  city: Philadelphia
-  state: VA

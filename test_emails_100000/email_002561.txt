@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Ortiz,rachel.ortiz2377@business.net,357 278 4550,445 07 2863,2/10/1980,"2853 Maple Dr",Austin,TX

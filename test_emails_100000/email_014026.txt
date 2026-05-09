@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Jimenez,michelle.jimenez3807@mail.com,374-241-9714,020 63 6806,10-13-1982,"1208 Summer Blvd",Jacksonville,FL

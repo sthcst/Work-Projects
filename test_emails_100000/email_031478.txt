@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Wilson
-  email: christopher.wilson7047@gmail.com
-  phone: 548 565 6904
-  ssn: 888399339
-  dob: 11/26/2005
-  address: 1275 Maple Ave
-  city: Austin
-  state: OH

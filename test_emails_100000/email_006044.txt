@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Gonzalez,donald.gonzalez9932@gmail.com,633 869 8583,584651041,2/13/1992,"502 Maple Ln",Houston,TX

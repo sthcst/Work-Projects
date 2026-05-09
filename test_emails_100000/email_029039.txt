@@ -1,9 +1,0 @@
-contact:
-  name: Emily White
-  email: emily.white5934@business.net
-  phone: 349 491 7784
-  ssn: 079536164
-  dob: 02-05-2002
-  address: 3286 North St
-  city: Phoenix
-  state: CO

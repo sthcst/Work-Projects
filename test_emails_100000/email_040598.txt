@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Reeves
-  email: nicholas.reeves7415@yahoo.com
-  phone: 360 273 7308
-  ssn: 411 01 4776
-  dob: 3/9/1959
-  address: 2112 Fourth Ave
-  city: Denver
-  state: NY

@@ -1,9 +1,0 @@
-contact:
-  name: Jason Phillips
-  email: jason.phillips6993@business.net
-  phone: 999 812 8441
-  ssn: 650-17-3992
-  dob: 09/02/1961
-  address: 7569 Main St
-  city: Chicago
-  state: CA

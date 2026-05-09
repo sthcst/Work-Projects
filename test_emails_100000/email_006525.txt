@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Garcia,emma.garcia1832@mail.com,+1 811-664-7690,296211835,6/19/1951,"3332 Main Blvd",Washington,CA

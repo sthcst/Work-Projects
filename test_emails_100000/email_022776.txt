@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Bell
-  email: ronald.bell7749@mail.com
-  phone: 560-366-8121
-  ssn: 175961496
-  dob: 12/20/1969
-  address: 794 West Blvd
-  city: Phoenix
-  state: MI

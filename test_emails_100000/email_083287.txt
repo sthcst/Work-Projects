@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Ortiz,jennifer.ortiz283@example.com,(774) 436-9030,413 95 3562,06-18-2002,"3532 Summer Blvd",New York,TX

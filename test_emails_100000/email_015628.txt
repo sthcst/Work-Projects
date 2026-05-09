@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Morris
-  email: rachel.morris1145@company.com
-  phone: (369) 769-9062
-  ssn: 846-18-9024
-  dob: 06/16/1996
-  address: 9893 South St
-  city: Boston
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Sanchez,andrew.sanchez1364@business.net,351 402 6631,450-47-2109,12/07/1977,"6506 West Dr",Boston,WA

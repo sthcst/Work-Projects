@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Wilson
-  email: nicholas.wilson1793@outlook.com
-  phone: +1 373-920-3609
-  ssn: 573984430
-  dob: 14/09/1970
-  address: 9543 Fifth Ave
-  city: Phoenix
-  state: TX

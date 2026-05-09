@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Parker,rebecca.parker7226@mail.com,(821) 560-5633,791 66 6837,27/01/2000,"4049 Spring Dr",Chicago,VA

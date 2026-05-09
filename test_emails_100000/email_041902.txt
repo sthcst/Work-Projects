@@ -1,9 +1,0 @@
-contact:
-  name: Mark Roberts
-  email: mark.roberts7446@outlook.com
-  phone: +1 905-220-2530
-  ssn: 079-46-1121
-  dob: 04/05/1971
-  address: 4190 East Way
-  city: San Diego
-  state: MO

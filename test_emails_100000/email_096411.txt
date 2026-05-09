@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Rodriguez
-  email: christopher.rodriguez4135@example.com
-  phone: +1 751-503-7628
-  ssn: 694 21 3407
-  dob: 04/20/1995
-  address: 5950 West Court
-  city: Los Angeles
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: James Campbell
-  email: james.campbell6159@outlook.com
-  phone: 881-522-9810
-  ssn: 037 01 6650
-  dob: 03/17/1985
-  address: 6081 Birch Way
-  city: Houston
-  state: AZ

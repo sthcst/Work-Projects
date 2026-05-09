@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Edwards,nicole.edwards9267@mail.com,+1 302-657-9865,588-76-6413,2/2/1999,"1789 Fifth Court",San Diego,TX

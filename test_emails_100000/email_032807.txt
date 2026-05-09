@@ -1,9 +1,0 @@
-contact:
-  name: Edward Jones
-  email: edward.jones1953@yahoo.com
-  phone: 640 769 1726
-  ssn: 376 25 4057
-  dob: 09/08/1988
-  address: 4038 Main Blvd
-  city: Los Angeles
-  state: NJ

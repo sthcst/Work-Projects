@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Reyes,jacob.reyes7039@work.org,459-358-7337,281 62 1832,17/07/1950,"6476 Spring St",Los Angeles,PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Jimenez,andrew.jimenez1303@business.net,+1 598-358-4526,497894055,02/26/1980,"9171 Main Way",Jacksonville,FL

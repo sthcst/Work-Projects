@@ -1,9 +1,0 @@
-contact:
-  name: Richard Serrano
-  email: richard.serrano3525@outlook.com
-  phone: (462) 591-1781
-  ssn: 011646765
-  dob: 20/07/1994
-  address: 9395 North Ln
-  city: Washington
-  state: NY

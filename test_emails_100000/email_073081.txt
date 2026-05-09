@@ -1,9 +1,0 @@
-contact:
-  name: Emily Parker
-  email: emily.parker5016@business.net
-  phone: 934 454 4736
-  ssn: 647 57 3227
-  dob: 07-16-1986
-  address: 4035 South Ln
-  city: San Diego
-  state: MI

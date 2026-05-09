@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Lopez,anna.lopez3479@outlook.com,+1 328-970-9253,619092492,08-04-1972,"3343 South Rd",Seattle,DC

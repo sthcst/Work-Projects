@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Rogers,amanda.rogers2327@mail.com,852 909 4975,853-28-5101,4/13/1980,"7011 Fifth Blvd",Boston,MO

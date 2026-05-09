@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Hernandez
-  email: amanda.hernandez4468@business.net
-  phone: 892-269-1862
-  ssn: 615-37-8575
-  dob: 04/14/1968
-  address: 7378 Main Ln
-  city: New York
-  state: OH

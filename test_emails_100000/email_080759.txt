@@ -1,9 +1,0 @@
-contact:
-  name: James Reed
-  email: james.reed8340@business.net
-  phone: 369 485 1857
-  ssn: 875-41-7731
-  dob: 17/09/1968
-  address: 1947 Second Ave
-  city: Austin
-  state: MD

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Roberts,michelle.roberts1224@company.com,687 593 2588,591599790,01/17/1992,"1501 East Blvd",Boston,PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Lopez,joseph.lopez1450@example.com,519-918-1963,101802122,5/24/1984,"8645 Park Way",Philadelphia,CA

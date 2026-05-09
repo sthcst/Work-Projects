@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Morris,kevin.morris2956@yahoo.com,837 717 2028,872076581,03/02/1966,"720 Main Court",San Jose,AZ

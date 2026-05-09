@@ -1,9 +1,0 @@
-contact:
-  name: Anna Martinez
-  email: anna.martinez4965@company.com
-  phone: 386-896-8917
-  ssn: 910829706
-  dob: 11/26/1975
-  address: 8284 Elm Ave
-  city: Dallas
-  state: TX

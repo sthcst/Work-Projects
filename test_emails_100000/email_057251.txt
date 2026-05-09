@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Garcia,steven.garcia2086@example.com,+1 900-682-2208,261088276,05-10-1996,"7550 Park Blvd",Austin,WA

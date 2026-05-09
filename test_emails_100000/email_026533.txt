@@ -1,9 +1,0 @@
-contact:
-  name: Anna Edwards
-  email: anna.edwards2671@yahoo.com
-  phone: +1 276-338-7592
-  ssn: 746 65 7863
-  dob: 12-17-1971
-  address: 6781 Second Dr
-  city: Chicago
-  state: MO

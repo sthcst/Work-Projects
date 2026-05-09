@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Clark
-  email: christopher.clark4653@mail.com
-  phone: 570-497-8403
-  ssn: 100 02 1098
-  dob: 6/12/1969
-  address: 9401 Maple Way
-  city: Boston
-  state: GA

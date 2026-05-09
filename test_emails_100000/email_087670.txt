@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Roberts,jane.roberts9722@company.com,+1 405-824-3492,411-52-3330,12-17-1955,"3932 West Dr",San Antonio,TX

@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Lopez
-  email: andrew.lopez6395@gmail.com
-  phone: 737 344 6451
-  ssn: 792939259
-  dob: 12-12-1976
-  address: 3761 Fifth Dr
-  city: Phoenix
-  state: WI

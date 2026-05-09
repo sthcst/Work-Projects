@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Jones,paul.jones3549@gmail.com,557-577-3456,818506295,08/08/1952,"1012 Fourth Rd",Chicago,NY

@@ -1,9 +1,0 @@
-contact:
-  name: Robert Thompson
-  email: robert.thompson5108@business.net
-  phone: 895 586 4269
-  ssn: 173-71-2257
-  dob: 12/24/1950
-  address: 9649 Fourth Way
-  city: San Antonio
-  state: TX

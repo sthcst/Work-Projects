@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Brown,lauren.brown2837@work.org,550-721-4226,189 68 5101,5/21/1951,"9151 Second Way",Austin,NC

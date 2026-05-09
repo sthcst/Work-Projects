@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Nelson,stephanie.nelson2107@gmail.com,+1 663-395-4066,518 21 6935,05-28-2004,"3085 Maple Rd",Philadelphia,OH

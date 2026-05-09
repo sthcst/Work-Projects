@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Johnson,stephanie.johnson6956@gmail.com,+1 340-627-6819,451 44 7969,12/05/1960,"1025 Pine Dr",Dallas,CA

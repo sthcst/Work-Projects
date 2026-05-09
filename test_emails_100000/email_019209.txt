@@ -1,9 +1,0 @@
-contact:
-  name: Robert Robinson
-  email: robert.robinson1348@yahoo.com
-  phone: (756) 924-6045
-  ssn: 511 01 6136
-  dob: 10/17/1983
-  address: 491 Second Dr
-  city: Los Angeles
-  state: CA

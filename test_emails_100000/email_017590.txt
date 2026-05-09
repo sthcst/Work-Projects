@@ -1,9 +1,0 @@
-contact:
-  name: Paul Evans
-  email: paul.evans2967@yahoo.com
-  phone: +1 357-803-6648
-  ssn: 530 64 7464
-  dob: 16/07/1984
-  address: 531 Fourth Dr
-  city: San Diego
-  state: NJ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Hall,nicholas.hall1965@yahoo.com,806-394-1628,473014830,05-03-1987,"8641 Spring Blvd",San Antonio,DC

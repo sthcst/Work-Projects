@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Williams,mark.williams495@company.com,447 914 9117,868333117,12/04/1991,"7757 Elm Ln",Austin,NJ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Jones,david.jones3558@outlook.com,587 418 9205,898096617,09/26/1974,"9369 Summer St",San Diego,IL

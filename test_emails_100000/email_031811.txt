@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Evans,deborah.evans7914@business.net,+1 926-739-8057,592841911,05/25/2003,"4278 Main Dr",Los Angeles,FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Morris,steven.morris130@work.org,(861) 882-8536,138-82-5632,04/07/1980,"820 Maple Ln",New York,TX

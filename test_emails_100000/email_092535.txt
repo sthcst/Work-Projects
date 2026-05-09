@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Parker,joshua.parker1446@yahoo.com,361-907-7998,862-51-6012,25/03/1995,"5526 Summer Blvd",Seattle,PA

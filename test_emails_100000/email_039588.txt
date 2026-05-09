@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Young,stephanie.young1237@company.com,688 663 8554,572-82-2147,11/3/2002,"1077 First St",Seattle,TN

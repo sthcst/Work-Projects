@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Martin
-  email: cynthia.martin9680@gmail.com
-  phone: +1 837-415-4182
-  ssn: 897-37-3306
-  dob: 01-26-1957
-  address: 8728 Oak Dr
-  city: Seattle
-  state: GA

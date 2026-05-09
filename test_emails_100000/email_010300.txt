@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Perez
-  email: daniel.perez3254@company.com
-  phone: 760 609 1495
-  ssn: 890 31 9415
-  dob: 10-10-1955
-  address: 3881 Birch Way
-  city: Los Angeles
-  state: NY

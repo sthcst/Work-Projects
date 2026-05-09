@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Reyes,jennifer.reyes3073@yahoo.com,+1 465-545-4645,546 60 8042,9/20/1958,"2403 Sixth Rd",Washington,MI

@@ -1,9 +1,0 @@
-contact:
-  name: Angela Clark
-  email: angela.clark2786@company.com
-  phone: 899 653 2009
-  ssn: 928698463
-  dob: 08/03/1958
-  address: 5967 Second Rd
-  city: Jacksonville
-  state: FL

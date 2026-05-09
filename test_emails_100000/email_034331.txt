@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Murillo
-  email: anthony.murillo6699@mail.com
-  phone: 479 860 7108
-  ssn: 167 83 5260
-  dob: 08-24-1984
-  address: 3364 Sixth Ln
-  city: Austin
-  state: TX

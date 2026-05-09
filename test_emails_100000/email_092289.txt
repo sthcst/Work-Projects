@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Thompson
-  email: ashley.thompson4603@outlook.com
-  phone: 371 259 5910
-  ssn: 423-40-8494
-  dob: 10/22/2000
-  address: 5525 Pine St
-  city: New York
-  state: TX

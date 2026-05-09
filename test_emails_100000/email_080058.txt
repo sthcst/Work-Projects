@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Cooper,john.cooper483@work.org,519 387 2877,520397880,2/11/1968,"7275 Sixth St",Boston,WI

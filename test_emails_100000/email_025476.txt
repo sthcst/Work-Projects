@@ -1,9 +1,0 @@
-contact:
-  name: Emma Ortiz
-  email: emma.ortiz1843@mail.com
-  phone: 355 532 8339
-  ssn: 739 52 6396
-  dob: 11/14/1975
-  address: 9609 Maple Dr
-  city: San Diego
-  state: WA

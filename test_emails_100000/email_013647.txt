@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Peterson
-  email: katherine.peterson8937@company.com
-  phone: 280 542 9204
-  ssn: 668 10 7513
-  dob: 11-06-1973
-  address: 697 Oak Blvd
-  city: San Antonio
-  state: WI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Evans,ashley.evans4817@gmail.com,310-391-9205,798-66-1041,05/08/1969,"8767 Cedar Dr",Jacksonville,TX

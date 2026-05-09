@@ -1,9 +1,0 @@
-contact:
-  name: Donald Serrano
-  email: donald.serrano5484@example.com
-  phone: +1 386-598-1132
-  ssn: 402392808
-  dob: 09-18-1995
-  address: 9801 Pine Blvd
-  city: Houston
-  state: DC

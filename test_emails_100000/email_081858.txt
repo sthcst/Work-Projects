@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Brown,kevin.brown3122@gmail.com,(937) 703-8965,169-48-9006,03-02-1974,"6821 Spring Way",Los Angeles,CA

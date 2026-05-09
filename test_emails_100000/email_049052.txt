@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Sanchez,andrew.sanchez9856@company.com,970-848-7495,039-47-5365,12/9/1981,"5129 Fourth St",Boston,AZ

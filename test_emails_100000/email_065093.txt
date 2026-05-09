@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Smith
-  email: cynthia.smith8932@business.net
-  phone: (211) 869-9930
-  ssn: 330-24-6433
-  dob: 05/10/1967
-  address: 6667 Birch Ave
-  city: Philadelphia
-  state: MA

@@ -1,9 +1,0 @@
-contact:
-  name: Donald Alvarado
-  email: donald.alvarado5298@work.org
-  phone: 649 268 9263
-  ssn: 370-53-2973
-  dob: 02/12/1971
-  address: 1552 Park Ave
-  city: Los Angeles
-  state: MA

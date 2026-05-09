@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Lee,amanda.lee8024@yahoo.com,306 865 4260,420-14-9819,3/1/1969,"4201 West St",New York,PA

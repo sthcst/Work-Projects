@@ -1,9 +1,0 @@
-contact:
-  name: Angela Nelson
-  email: angela.nelson6298@gmail.com
-  phone: 843 407 8968
-  ssn: 930 41 9262
-  dob: 18/11/1965
-  address: 1474 Elm St
-  city: New York
-  state: TN

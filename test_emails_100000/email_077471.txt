@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Phillips
-  email: katherine.phillips4792@company.com
-  phone: +1 599-470-8201
-  ssn: 488128571
-  dob: 06-05-1967
-  address: 8647 Main Rd
-  city: Chicago
-  state: GA

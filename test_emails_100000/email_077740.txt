@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Miller,michael.miller7036@gmail.com,426-747-7653,946 31 8107,2/14/1969,"3615 Park St",Seattle,NJ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Guerrero,amanda.guerrero3815@outlook.com,299 981 1223,089 65 8125,9/1/1953,"7788 Summer Ln",Seattle,NJ

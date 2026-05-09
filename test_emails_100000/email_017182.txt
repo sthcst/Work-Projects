@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Perez,rachel.perez6803@mail.com,625-887-1164,875-95-8815,10/28/1982,"3836 Third Dr",San Antonio,MD

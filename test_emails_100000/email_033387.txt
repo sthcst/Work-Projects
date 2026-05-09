@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Dominguez,jessica.dominguez8792@mail.com,539 899 5130,560385001,08-08-1960,"6195 First St",Phoenix,WA

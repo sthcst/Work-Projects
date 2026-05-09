@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Ortiz,kenneth.ortiz8033@example.com,918 268 6127,800-77-7281,03-18-1983,"2625 Summer Dr",New York,MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Nunez,nicholas.nunez7234@work.org,(973) 595-5315,257 16 6450,12/13/1985,"8100 Summer Blvd",Denver,CA

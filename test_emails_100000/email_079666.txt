@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Evans,steven.evans3298@business.net,640 358 7592,102 90 3473,12/18/1998,"1131 Fifth Blvd",Los Angeles,CA

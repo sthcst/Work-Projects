@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Harris
-  email: sarah.harris1879@mail.com
-  phone: (233) 207-8155
-  ssn: 104 45 1004
-  dob: 25/07/1971
-  address: 5133 Pine Rd
-  city: Chicago
-  state: CA

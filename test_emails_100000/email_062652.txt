@@ -1,9 +1,0 @@
-contact:
-  name: Angela Martinez
-  email: angela.martinez8802@business.net
-  phone: (403) 868-8328
-  ssn: 527069044
-  dob: 04/11/1963
-  address: 9457 North Ave
-  city: San Jose
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Morgan
-  email: jessica.morgan7646@mail.com
-  phone: 365-249-1783
-  ssn: 673 99 6773
-  dob: 11/3/1975
-  address: 6903 Pine Blvd
-  city: Jacksonville
-  state: NY

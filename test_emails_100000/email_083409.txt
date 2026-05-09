@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Garcia,anthony.garcia7744@work.org,+1 930-439-2279,342 53 5145,07/08/1959,"2444 Sixth Dr",Seattle,FL

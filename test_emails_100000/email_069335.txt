@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Clark,rachel.clark5256@example.com,937-557-9388,537 10 9757,03-05-1952,"8180 Summer Blvd",San Antonio,MI

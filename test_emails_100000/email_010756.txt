@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Collins,michelle.collins1936@outlook.com,(523) 730-6818,262 12 1227,07-17-2000,"8217 Fifth Ln",Philadelphia,TX

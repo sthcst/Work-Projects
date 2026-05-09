@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Bell,samantha.bell7173@gmail.com,(372) 976-7656,504-40-2070,1/9/2003,"1935 Cedar Ln",Jacksonville,MI

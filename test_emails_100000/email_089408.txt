@@ -1,9 +1,0 @@
-contact:
-  name: William Campbell
-  email: william.campbell7998@mail.com
-  phone: (904) 219-2380
-  ssn: 104593917
-  dob: 01-06-1975
-  address: 6249 Oak Ave
-  city: Phoenix
-  state: NY

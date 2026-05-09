@@ -1,9 +1,0 @@
-contact:
-  name: William Gonzalez
-  email: william.gonzalez8146@gmail.com
-  phone: 679-321-6211
-  ssn: 530 66 3869
-  dob: 02-21-1978
-  address: 5900 Second Blvd
-  city: Philadelphia
-  state: FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Reyes,lisa.reyes6770@yahoo.com,302-997-8626,103-60-2658,09-18-1991,"8953 Fourth Rd",Phoenix,VA

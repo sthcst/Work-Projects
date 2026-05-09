@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Brown,steven.brown3214@company.com,841 604 7567,258 09 5221,09/22/1951,"4279 Third Court",Austin,NJ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Reyes,edward.reyes7947@business.net,280-834-2618,500401636,20/04/1969,"3617 Spring St",Phoenix,WA

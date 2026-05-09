@@ -1,9 +1,0 @@
-contact:
-  name: George Harris
-  email: george.harris9619@gmail.com
-  phone: (473) 377-2809
-  ssn: 786-04-3182
-  dob: 4/21/1977
-  address: 4001 Birch Court
-  city: Jacksonville
-  state: GA

@@ -1,9 +1,0 @@
-contact:
-  name: Steven Stewart
-  email: steven.stewart2986@company.com
-  phone: (421) 666-7526
-  ssn: 522-75-8630
-  dob: 01-08-1987
-  address: 3492 Second St
-  city: Philadelphia
-  state: NY

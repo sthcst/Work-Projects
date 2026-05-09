@@ -1,9 +1,0 @@
-contact:
-  name: Emma Jackson
-  email: emma.jackson233@gmail.com
-  phone: 839-961-2766
-  ssn: 410 12 4892
-  dob: 08-10-1966
-  address: 3573 Maple Way
-  city: Washington
-  state: WA

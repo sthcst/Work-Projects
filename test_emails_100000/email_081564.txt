@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Stewart,ryan.stewart6980@company.com,(466) 866-4993,722 31 8173,12/10/1980,"2464 Main St",San Antonio,MI

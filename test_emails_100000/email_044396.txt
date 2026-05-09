@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Rodriguez,robert.rodriguez7489@yahoo.com,574-859-5913,824 89 7002,12/26/1988,"1787 Cedar Court",Los Angeles,FL

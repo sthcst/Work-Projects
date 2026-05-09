@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Carter,gary.carter6476@outlook.com,(285) 720-2096,593747642,04/27/1991,"6180 North Dr",San Jose,VA

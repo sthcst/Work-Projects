@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Martinez,joseph.martinez181@company.com,452 472 1595,480-73-7183,26/10/1958,"149 Elm Ln",Seattle,TX

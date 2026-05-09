@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Perez
-  email: nicole.perez7877@example.com
-  phone: +1 336-636-5283
-  ssn: 726-28-4374
-  dob: 01-10-1996
-  address: 9614 West Rd
-  city: Los Angeles
-  state: MD

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Romero,daniel.romero3995@company.com,875-369-5806,450-06-6512,02/02/1969,"4521 North Way",Denver,CA

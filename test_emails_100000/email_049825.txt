@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Robinson,joseph.robinson4868@company.com,956-837-2521,303-84-6514,12/09/1960,"3175 Sixth Way",Houston,PA

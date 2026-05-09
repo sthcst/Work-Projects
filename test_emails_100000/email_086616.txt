@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Collins,cynthia.collins1217@company.com,638 261 4261,042176636,9/20/1958,"7739 Sixth Ave",Dallas,NJ

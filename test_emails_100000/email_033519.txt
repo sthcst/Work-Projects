@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Wilson,pamela.wilson5900@work.org,790-301-2867,901-80-7152,09/03/1952,"4144 Elm St",Denver,MA

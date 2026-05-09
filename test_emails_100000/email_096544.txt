@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Lewis
-  email: kimberly.lewis3121@company.com
-  phone: 627 555 6199
-  ssn: 180-43-3720
-  dob: 09/16/1992
-  address: 2357 West Way
-  city: Los Angeles
-  state: TN

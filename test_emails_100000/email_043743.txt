@@ -1,9 +1,0 @@
-contact:
-  name: Jane Williams
-  email: jane.williams1469@company.com
-  phone: 991-308-2867
-  ssn: 451 95 1229
-  dob: 15/10/1975
-  address: 9669 Main Court
-  city: Washington
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Ramirez
-  email: sarah.ramirez3825@company.com
-  phone: 650 648 3736
-  ssn: 629-89-1976
-  dob: 03-06-1984
-  address: 1243 Spring Ln
-  city: Seattle
-  state: AZ

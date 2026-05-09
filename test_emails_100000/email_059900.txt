@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Morris
-  email: ryan.morris4624@company.com
-  phone: 560 999 1614
-  ssn: 515362269
-  dob: 14/04/1981
-  address: 585 Main Ln
-  city: New York
-  state: MD

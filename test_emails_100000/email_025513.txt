@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Cooper,brenda.cooper5452@gmail.com,(393) 327-7861,556 55 7321,7/6/1952,"3656 Fourth Ave",Chicago,CO

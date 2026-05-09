@@ -1,9 +1,0 @@
-contact:
-  name: Christine Edwards
-  email: christine.edwards7878@gmail.com
-  phone: 427 610 3498
-  ssn: 745 01 2266
-  dob: 9/23/1998
-  address: 510 Oak Dr
-  city: Washington
-  state: VA

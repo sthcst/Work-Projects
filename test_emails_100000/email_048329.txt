@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Nunez,william.nunez4286@mail.com,437-940-4630,114 17 2958,11/20/1957,"5195 North Ln",Denver,FL

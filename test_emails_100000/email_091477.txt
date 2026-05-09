@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Jimenez,edward.jimenez7766@mail.com,372-635-9283,667 94 5567,23/03/1990,"9194 East St",San Antonio,MA

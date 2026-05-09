@@ -1,9 +1,0 @@
-contact:
-  name: Emily Gomez
-  email: emily.gomez202@business.net
-  phone: 648-534-7953
-  ssn: 585 55 5464
-  dob: 10/27/1975
-  address: 5588 South Rd
-  city: Philadelphia
-  state: CO

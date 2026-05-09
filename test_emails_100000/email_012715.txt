@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Wilson
-  email: jacob.wilson4301@example.com
-  phone: +1 754-457-6614
-  ssn: 913792423
-  dob: 12/8/1960
-  address: 350 North Rd
-  city: Denver
-  state: NC

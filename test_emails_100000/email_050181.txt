@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Hall,samantha.hall7408@example.com,810 555 6101,969-46-2406,12-23-1983,"8960 Second Dr",Washington,GA

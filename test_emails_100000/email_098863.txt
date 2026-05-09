@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Rodriguez,samantha.rodriguez728@gmail.com,(683) 228-6673,876 90 3447,11/12/1986,"2492 Fifth Way",Chicago,MI

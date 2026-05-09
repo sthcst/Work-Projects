@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Rodriguez,andrew.rodriguez9068@company.com,(675) 884-1931,157-30-2577,02/23/1978,"1213 Park Ln",New York,WI

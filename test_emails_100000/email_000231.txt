@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Bell
-  email: katherine.bell9676@business.net
-  phone: (835) 449-9977
-  ssn: 163-62-7288
-  dob: 07/06/2002
-  address: 7142 Fifth Blvd
-  city: San Diego
-  state: PA

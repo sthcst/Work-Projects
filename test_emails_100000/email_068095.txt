@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Alvarado
-  email: daniel.alvarado242@yahoo.com
-  phone: +1 765-998-3704
-  ssn: 347 59 5717
-  dob: 04/21/1999
-  address: 8128 South Ave
-  city: Philadelphia
-  state: NY

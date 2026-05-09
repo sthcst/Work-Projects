@@ -1,9 +1,0 @@
-contact:
-  name: Brian Serrano
-  email: brian.serrano4769@gmail.com
-  phone: 935 727 6850
-  ssn: 688-28-5963
-  dob: 08/05/1959
-  address: 6234 Oak Dr
-  city: Jacksonville
-  state: MD

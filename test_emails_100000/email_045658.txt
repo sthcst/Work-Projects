@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Hall,ashley.hall3752@mail.com,238-219-8417,905-19-6777,01-15-1954,"9938 North St",Boston,OH

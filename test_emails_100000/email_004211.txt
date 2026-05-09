@@ -1,9 +1,0 @@
-contact:
-  name: Gary Rodriguez
-  email: gary.rodriguez8113@company.com
-  phone: 882-387-2407
-  ssn: 365-52-1491
-  dob: 04-24-1987
-  address: 7750 East Blvd
-  city: Dallas
-  state: FL

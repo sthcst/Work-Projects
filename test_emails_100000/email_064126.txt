@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Sanchez,anthony.sanchez5084@outlook.com,968 292 2008,355841064,04/03/1997,"8034 Spring Ln",Seattle,AZ

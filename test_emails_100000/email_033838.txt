@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Perez,andrew.perez4148@yahoo.com,+1 242-865-3843,373 05 8274,02/03/1997,"6310 Spring Court",San Diego,TX

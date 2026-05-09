@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Moore
-  email: ronald.moore8034@company.com
-  phone: 957 493 9209
-  ssn: 863 75 7509
-  dob: 5/1/1955
-  address: 6061 Cedar Blvd
-  city: San Antonio
-  state: NY

@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Harris
-  email: kenneth.harris8963@example.com
-  phone: 859 586 2534
-  ssn: 189-73-9059
-  dob: 02/15/1996
-  address: 4366 Second Ave
-  city: Austin
-  state: WI

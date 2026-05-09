@@ -1,9 +1,0 @@
-contact:
-  name: Steven Harris
-  email: steven.harris35@company.com
-  phone: (925) 868-5974
-  ssn: 641854046
-  dob: 06-08-1995
-  address: 6067 Pine Court
-  city: Washington
-  state: TX

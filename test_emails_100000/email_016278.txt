@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Jimenez,michelle.jimenez1679@gmail.com,388 345 4061,446493369,10-13-1993,"9125 East Ave",San Jose,TX

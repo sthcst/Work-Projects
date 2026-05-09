@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Morgan,timothy.morgan8022@company.com,+1 567-874-8202,460-82-4753,08-09-1958,"9276 South Way",Jacksonville,PA

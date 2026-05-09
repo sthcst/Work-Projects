@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Jackson
-  email: jacob.jackson5212@yahoo.com
-  phone: 916 997 7558
-  ssn: 766 97 6056
-  dob: 5/22/2003
-  address: 48 Birch Blvd
-  city: Austin
-  state: WA

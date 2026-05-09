@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Campbell
-  email: samantha.campbell5322@company.com
-  phone: +1 676-730-8535
-  ssn: 346784308
-  dob: 2/8/1993
-  address: 6456 Spring St
-  city: New York
-  state: VA

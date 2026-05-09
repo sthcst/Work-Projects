@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda White,brenda.white7171@business.net,378 697 2657,858585602,09-15-1984,"9727 Birch Ave",San Jose,TN

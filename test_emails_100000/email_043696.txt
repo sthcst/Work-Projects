@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Gonzalez
-  email: ronald.gonzalez9190@company.com
-  phone: 431-958-8745
-  ssn: 103 93 5424
-  dob: 10-08-1968
-  address: 9858 Pine Way
-  city: Jacksonville
-  state: CA

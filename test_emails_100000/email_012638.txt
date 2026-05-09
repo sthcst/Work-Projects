@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Bell
-  email: rachel.bell3900@yahoo.com
-  phone: +1 751-942-7119
-  ssn: 916 88 3167
-  dob: 05/04/2001
-  address: 9754 Second Blvd
-  city: New York
-  state: NJ

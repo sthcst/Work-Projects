@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Morgan,jeffrey.morgan7277@business.net,519-866-6310,650229193,18/11/1980,"2999 Birch Way",San Diego,IL

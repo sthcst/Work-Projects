@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Nelson
-  email: pamela.nelson9249@mail.com
-  phone: 353-517-5815
-  ssn: 599-44-2705
-  dob: 9/9/1955
-  address: 1592 Spring Court
-  city: Seattle
-  state: PA

@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Davis
-  email: michelle.davis9882@outlook.com
-  phone: 441-486-5756
-  ssn: 320-53-8277
-  dob: 23/11/1956
-  address: 9061 Birch Blvd
-  city: San Jose
-  state: DC

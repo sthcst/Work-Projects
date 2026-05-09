@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Edwards,amanda.edwards3553@work.org,298 205 9012,227-40-4358,11/21/1977,"8348 West Way",Philadelphia,TX

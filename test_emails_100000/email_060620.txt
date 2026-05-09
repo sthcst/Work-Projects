@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Brown
-  email: nicole.brown7713@work.org
-  phone: 909 987 2409
-  ssn: 556-69-3458
-  dob: 4/7/1985
-  address: 1483 Sixth Dr
-  city: Denver
-  state: NJ

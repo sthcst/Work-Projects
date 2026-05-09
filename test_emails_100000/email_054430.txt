@@ -1,9 +1,0 @@
-contact:
-  name: Megan Jackson
-  email: megan.jackson2586@mail.com
-  phone: 894-494-2084
-  ssn: 257-34-8136
-  dob: 9/20/1972
-  address: 3997 West Ln
-  city: Chicago
-  state: VA

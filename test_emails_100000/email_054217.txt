@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Murillo,helen.murillo9983@example.com,(851) 448-5142,537768366,02-25-1959,"1680 Pine Dr",Los Angeles,IL

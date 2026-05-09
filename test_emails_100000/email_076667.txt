@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Roberts
-  email: joseph.roberts5927@company.com
-  phone: 350 568 3126
-  ssn: 386 03 7058
-  dob: 12/06/1987
-  address: 701 West Dr
-  city: Denver
-  state: CA

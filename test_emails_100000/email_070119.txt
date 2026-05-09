@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Guerrero,richard.guerrero7607@yahoo.com,768-278-2949,470-42-8518,08/14/1984,"5576 Second Way",Austin,TX

@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Miller
-  email: jacob.miller5233@business.net
-  phone: +1 587-565-4294
-  ssn: 202 02 4925
-  dob: 08-15-1995
-  address: 4674 Elm Dr
-  city: Austin
-  state: NC

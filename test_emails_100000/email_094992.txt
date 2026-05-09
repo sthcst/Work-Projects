@@ -1,9 +1,0 @@
-contact:
-  name: Gary Ortiz
-  email: gary.ortiz7902@company.com
-  phone: 908 240 8356
-  ssn: 678391599
-  dob: 05/20/1987
-  address: 4586 Maple Court
-  city: Dallas
-  state: WI

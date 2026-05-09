@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Thomas,anthony.thomas1363@gmail.com,(486) 440-5804,825-16-7388,02/24/1985,"2344 West Dr",Washington,MA

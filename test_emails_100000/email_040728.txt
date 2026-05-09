@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Campbell,jessica.campbell4742@mail.com,433-801-8227,830-83-2643,9/16/1975,"2163 Spring Court",Jacksonville,MA

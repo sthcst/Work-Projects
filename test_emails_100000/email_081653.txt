@@ -1,9 +1,0 @@
-contact:
-  name: Jason Hall
-  email: jason.hall7741@company.com
-  phone: (405) 404-1127
-  ssn: 935-20-6147
-  dob: 11/11/1990
-  address: 4308 West Blvd
-  city: Dallas
-  state: WI

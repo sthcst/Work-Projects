@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Taylor
-  email: jacob.taylor8311@example.com
-  phone: 991-798-4064
-  ssn: 387-33-7874
-  dob: 25/07/1988
-  address: 8851 Spring St
-  city: San Diego
-  state: NJ

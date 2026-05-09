@@ -1,9 +1,0 @@
-contact:
-  name: William Perez
-  email: william.perez3423@mail.com
-  phone: 725 965 4778
-  ssn: 446 54 3565
-  dob: 20/04/1974
-  address: 1857 Fourth Ln
-  city: Phoenix
-  state: AZ

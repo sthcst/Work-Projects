@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Gomez
-  email: ashley.gomez2868@business.net
-  phone: 922-750-2538
-  ssn: 192-48-8638
-  dob: 03/06/1954
-  address: 533 Spring Way
-  city: Houston
-  state: VA

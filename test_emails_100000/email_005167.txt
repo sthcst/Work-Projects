@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Cooper
-  email: ashley.cooper7165@work.org
-  phone: 887 566 4470
-  ssn: 967554722
-  dob: 4/24/2005
-  address: 3655 Second Ave
-  city: Austin
-  state: CO

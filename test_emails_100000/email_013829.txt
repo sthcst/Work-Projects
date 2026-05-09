@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Smith,kevin.smith6144@company.com,509 431 5110,331 84 4303,2/17/1955,"8612 West Blvd",Austin,FL

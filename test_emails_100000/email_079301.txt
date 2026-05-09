@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Reed,sarah.reed1279@mail.com,+1 910-685-5222,057-74-4574,3/16/1976,"3534 Park Ln",Boston,MD

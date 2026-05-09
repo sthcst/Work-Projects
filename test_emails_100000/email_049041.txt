@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Perez
-  email: lauren.perez3822@outlook.com
-  phone: (761) 245-3155
-  ssn: 440-06-2725
-  dob: 02/10/1971
-  address: 5630 Elm Blvd
-  city: San Antonio
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Gonzalez
-  email: kathleen.gonzalez5649@company.com
-  phone: 615-297-9761
-  ssn: 889-91-3879
-  dob: 12/12/1950
-  address: 8357 Main St
-  city: Boston
-  state: TN

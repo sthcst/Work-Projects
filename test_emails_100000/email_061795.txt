@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Perez,jennifer.perez2@example.com,(829) 727-2689,990401760,4/17/1957,"3189 Main Ave",Phoenix,OH

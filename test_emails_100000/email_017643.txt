@@ -1,9 +1,0 @@
-contact:
-  name: Angela Gomez
-  email: angela.gomez9123@mail.com
-  phone: (200) 265-2873
-  ssn: 413242196
-  dob: 10/06/1970
-  address: 2037 Elm St
-  city: Los Angeles
-  state: OH

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Wilson,kenneth.wilson4605@example.com,850-694-2815,278052863,28/08/1987,"3000 Third St",Boston,AZ

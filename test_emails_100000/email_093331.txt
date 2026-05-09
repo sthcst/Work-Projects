@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Wilson,katherine.wilson6672@example.com,+1 536-238-6805,261-15-8809,08-24-1976,"3984 Oak Ave",New York,WI

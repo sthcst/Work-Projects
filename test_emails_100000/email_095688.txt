@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Martin
-  email: ashley.martin7123@work.org
-  phone: (392) 546-1437
-  ssn: 842 26 7690
-  dob: 09/18/1983
-  address: 6756 Sixth Court
-  city: San Antonio
-  state: CO

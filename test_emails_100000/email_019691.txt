@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Lee,paul.lee3829@work.org,577-420-2657,786-15-2873,23/02/1990,"8062 North Ln",Philadelphia,CA

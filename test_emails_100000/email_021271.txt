@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Cooper,emma.cooper8688@yahoo.com,886-897-8454,776-07-2866,16/05/1984,"7272 Pine St",Boston,TX

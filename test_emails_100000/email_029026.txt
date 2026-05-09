@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Clark,brian.clark5934@outlook.com,243 290 2258,390 42 2894,09-08-1950,"5193 Elm St",Los Angeles,WA

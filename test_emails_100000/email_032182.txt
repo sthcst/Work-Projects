@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Stewart
-  email: deborah.stewart7181@company.com
-  phone: +1 305-967-3347
-  ssn: 238798665
-  dob: 12/5/1955
-  address: 1278 Spring Ln
-  city: Austin
-  state: OH

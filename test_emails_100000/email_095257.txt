@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Thompson
-  email: ashley.thompson7427@work.org
-  phone: 813 812 2589
-  ssn: 415-41-6677
-  dob: 04-04-1960
-  address: 4334 West Rd
-  city: Los Angeles
-  state: NC

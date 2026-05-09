@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Morgan,paul.morgan2730@company.com,(901) 378-5485,731683610,4/27/1985,"9823 First Ave",New York,PA

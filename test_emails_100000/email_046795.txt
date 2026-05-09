@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Jones,edward.jones3033@mail.com,552-861-5836,725699584,10/04/1986,"5324 North Rd",New York,TX

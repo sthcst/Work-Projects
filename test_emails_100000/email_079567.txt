@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen White,kathleen.white822@work.org,(445) 735-8692,375 53 5249,02/18/1996,"6400 Birch Blvd",Los Angeles,MD

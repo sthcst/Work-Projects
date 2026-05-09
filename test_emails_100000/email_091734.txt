@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Roberts,sarah.roberts1736@mail.com,+1 982-931-2363,601311222,07/10/1959,"463 West Blvd",Dallas,NY

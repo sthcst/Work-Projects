@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Williams
-  email: kathleen.williams5355@example.com
-  phone: +1 359-430-8233
-  ssn: 030 76 3835
-  dob: 9/22/1972
-  address: 9279 Pine Rd
-  city: Philadelphia
-  state: FL

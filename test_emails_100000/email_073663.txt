@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Serrano,timothy.serrano2435@yahoo.com,+1 929-618-5121,166 56 3406,20/09/1953,"6754 Spring Court",San Diego,MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Roberts,andrew.roberts809@example.com,294 737 4481,487-37-7178,3/23/1985,"9221 Oak Way",Jacksonville,PA

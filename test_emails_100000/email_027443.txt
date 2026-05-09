@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Alvarado,jeffrey.alvarado4484@work.org,505-704-4906,960836454,02/24/1967,"2674 Maple Blvd",Washington,IL

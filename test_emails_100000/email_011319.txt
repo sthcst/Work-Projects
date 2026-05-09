@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Delgado,katherine.delgado8329@outlook.com,(462) 416-1704,731-75-7376,09/17/1989,"193 Summer Court",Phoenix,OH

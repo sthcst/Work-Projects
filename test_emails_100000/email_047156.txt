@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Cooper,shirley.cooper6696@outlook.com,(531) 208-5334,119-70-7605,07-09-1973,"4990 Third Dr",San Jose,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Johnson,katherine.johnson3219@outlook.com,202 485 8850,702781527,8/18/1976,"2428 First Ave",Denver,OH

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Reeves,jacob.reeves9724@work.org,+1 629-298-8422,446033527,04-17-1996,"1552 Fourth Ave",San Jose,MD

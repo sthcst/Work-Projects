@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Moore,angela.moore9653@example.com,+1 680-484-6227,581 83 4479,25/09/1999,"141 Sixth Blvd",San Jose,MO

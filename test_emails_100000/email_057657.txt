@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Evans
-  email: ryan.evans3324@company.com
-  phone: 526-230-2687
-  ssn: 378105499
-  dob: 24/11/1994
-  address: 9763 Spring Court
-  city: Phoenix
-  state: CA

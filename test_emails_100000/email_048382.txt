@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Edwards,brian.edwards3525@mail.com,+1 867-625-3314,875-52-4253,6/22/1953,"3856 Fourth Ln",San Jose,CA

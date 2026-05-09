@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Phillips,george.phillips5316@work.org,632-961-7624,911-66-7280,2/5/1951,"1727 East Rd",Washington,MI

@@ -1,9 +1,0 @@
-contact:
-  name: James Morgan
-  email: james.morgan7881@yahoo.com
-  phone: 999-595-5481
-  ssn: 696 19 6965
-  dob: 11/15/1954
-  address: 9591 Second Blvd
-  city: Houston
-  state: WI

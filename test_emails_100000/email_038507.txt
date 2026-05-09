@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Anderson
-  email: michelle.anderson3638@outlook.com
-  phone: +1 258-936-8693
-  ssn: 351545912
-  dob: 03-23-1962
-  address: 821 Sixth Court
-  city: Denver
-  state: WA

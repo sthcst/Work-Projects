@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Jimenez,nicole.jimenez6917@example.com,480-636-2292,953 21 5552,09/02/1993,"2330 Elm Ln",Denver,CA

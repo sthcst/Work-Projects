@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Romero,daniel.romero9292@outlook.com,(316) 895-1869,767454325,1/25/1973,"8571 Main Court",Denver,TX

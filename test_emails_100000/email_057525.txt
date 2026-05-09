@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Lewis,lisa.lewis7166@company.com,+1 899-620-3584,994 55 4626,19/04/2001,"395 Pine Rd",San Antonio,AZ

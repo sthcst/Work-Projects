@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Dominguez,rebecca.dominguez756@work.org,(257) 228-1534,119-67-2528,08-10-1988,"7103 Main Blvd",Washington,NY

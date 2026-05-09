@@ -1,9 +1,0 @@
-contact:
-  name: Angela Thompson
-  email: angela.thompson7541@mail.com
-  phone: 967 544 3088
-  ssn: 951754765
-  dob: 25/12/1998
-  address: 106 Oak Rd
-  city: Denver
-  state: CO

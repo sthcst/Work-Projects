@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Rogers
-  email: ashley.rogers6466@business.net
-  phone: +1 731-537-8630
-  ssn: 135 89 8258
-  dob: 24/06/1950
-  address: 3145 First Ln
-  city: San Jose
-  state: FL

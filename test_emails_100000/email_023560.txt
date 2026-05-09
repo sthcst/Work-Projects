@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Garcia,jane.garcia3653@yahoo.com,975-264-4427,797 18 4143,01/04/1952,"2420 Maple Way",San Antonio,OH

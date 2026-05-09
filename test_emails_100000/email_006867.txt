@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Martinez,cynthia.martinez3897@work.org,+1 659-397-9743,704 21 6044,01/18/1996,"4486 Spring Way",Chicago,NC

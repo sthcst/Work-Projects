@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Taylor,donald.taylor1029@example.com,(614) 467-5753,901-50-4557,1/19/1994,"9122 East St",Denver,MO

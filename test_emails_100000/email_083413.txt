@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Reyes,joseph.reyes6406@gmail.com,723 630 5655,712 32 9661,22/08/1984,"8942 South Dr",Chicago,CA

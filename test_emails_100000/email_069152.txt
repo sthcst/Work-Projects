@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Murillo,daniel.murillo3065@example.com,+1 445-867-2017,568-98-7885,02/12/1958,"8130 Pine Dr",Phoenix,TX

@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Delgado
-  email: lauren.delgado3649@business.net
-  phone: +1 595-662-2731
-  ssn: 985734623
-  dob: 7/25/1958
-  address: 9652 Maple Way
-  city: Austin
-  state: TX

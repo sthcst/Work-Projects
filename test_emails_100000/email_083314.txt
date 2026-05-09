@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Bell,kevin.bell5205@outlook.com,+1 668-645-6683,213 89 2210,1/26/1965,"2360 Maple Ave",Philadelphia,NY

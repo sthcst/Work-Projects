@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Thompson,kimberly.thompson1358@mail.com,960-557-4972,195 15 8466,01/28/2000,"1829 Elm Ave",Dallas,TX

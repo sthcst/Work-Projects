@@ -1,9 +1,0 @@
-contact:
-  name: Steven Reyes
-  email: steven.reyes5087@yahoo.com
-  phone: (591) 708-2533
-  ssn: 521866387
-  dob: 01/11/1982
-  address: 2606 Spring Ln
-  city: San Diego
-  state: CO

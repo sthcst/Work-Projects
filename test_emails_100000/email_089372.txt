@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Jackson
-  email: kimberly.jackson9454@work.org
-  phone: +1 603-884-5809
-  ssn: 360 28 8696
-  dob: 23/04/1973
-  address: 6424 Pine Ave
-  city: Philadelphia
-  state: TX

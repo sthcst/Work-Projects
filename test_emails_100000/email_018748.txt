@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Rodriguez,richard.rodriguez2493@mail.com,(437) 557-3503,370249648,9/21/1973,"5939 Pine Way",Phoenix,DC

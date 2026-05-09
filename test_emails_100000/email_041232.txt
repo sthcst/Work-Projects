@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Garcia,brenda.garcia9841@work.org,(899) 950-9578,924 84 7770,21/05/1955,"6751 Third Dr",San Antonio,TN

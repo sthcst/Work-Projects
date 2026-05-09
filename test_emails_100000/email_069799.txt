@@ -1,9 +1,0 @@
-contact:
-  name: Helen Alvarado
-  email: helen.alvarado8839@example.com
-  phone: +1 807-991-1510
-  ssn: 587 01 4727
-  dob: 10/06/1975
-  address: 8393 Sixth Way
-  city: Phoenix
-  state: TX

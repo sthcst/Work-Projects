@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Lee
-  email: kimberly.lee3816@outlook.com
-  phone: 758-770-7614
-  ssn: 559 55 4647
-  dob: 09-14-1973
-  address: 673 East Court
-  city: Seattle
-  state: MA

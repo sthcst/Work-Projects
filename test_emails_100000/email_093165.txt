@@ -1,9 +1,0 @@
-contact:
-  name: Angela Morgan
-  email: angela.morgan6367@example.com
-  phone: 266-308-5760
-  ssn: 702961564
-  dob: 10-09-1958
-  address: 5053 Main St
-  city: San Jose
-  state: FL

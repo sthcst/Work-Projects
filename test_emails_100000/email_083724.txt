@@ -1,9 +1,0 @@
-contact:
-  name: Paul Nunez
-  email: paul.nunez9461@example.com
-  phone: 333-881-1518
-  ssn: 427162675
-  dob: 5/25/1972
-  address: 961 South Ave
-  city: Philadelphia
-  state: NC

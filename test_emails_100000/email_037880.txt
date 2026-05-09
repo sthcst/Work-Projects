@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Brown,robert.brown5815@company.com,416 701 8804,419-48-3870,08/19/1951,"4919 First Way",San Diego,FL

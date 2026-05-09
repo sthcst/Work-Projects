@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Anderson,jason.anderson6956@mail.com,(859) 606-1748,520724054,12/03/1985,"117 Third Court",Phoenix,AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Reed,brenda.reed9861@company.com,629 457 6438,291-79-6747,16/01/1984,"639 South Way",Austin,TX

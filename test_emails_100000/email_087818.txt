@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Carter
-  email: nicole.carter5877@example.com
-  phone: 250 534 9089
-  ssn: 522861517
-  dob: 06/02/1956
-  address: 5975 Third Dr
-  city: San Diego
-  state: MA

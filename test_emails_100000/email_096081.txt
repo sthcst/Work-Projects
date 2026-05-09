@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Nelson
-  email: nicholas.nelson1763@mail.com
-  phone: 740 945 8970
-  ssn: 313-49-8638
-  dob: 18/07/1974
-  address: 7230 South Ln
-  city: Houston
-  state: IL

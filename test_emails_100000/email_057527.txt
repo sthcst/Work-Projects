@@ -1,9 +1,0 @@
-contact:
-  name: Angela Rodriguez
-  email: angela.rodriguez1996@yahoo.com
-  phone: (960) 611-6080
-  ssn: 908-29-8327
-  dob: 02-01-1999
-  address: 5377 Park Rd
-  city: Phoenix
-  state: FL

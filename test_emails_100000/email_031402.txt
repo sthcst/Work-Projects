@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Wilson,paul.wilson4609@example.com,474-744-9006,425-20-5414,04/04/1977,"7618 Sixth Ave",Chicago,WA

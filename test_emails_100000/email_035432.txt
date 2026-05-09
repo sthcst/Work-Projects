@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Jimenez,megan.jimenez3090@example.com,771 885 4647,746503474,20/12/1986,"144 Park Way",Washington,NJ

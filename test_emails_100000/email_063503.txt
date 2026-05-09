@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Sanchez
-  email: rebecca.sanchez3505@work.org
-  phone: (503) 975-3142
-  ssn: 753 56 4203
-  dob: 27/12/1952
-  address: 3840 Fifth Rd
-  city: Boston
-  state: WA

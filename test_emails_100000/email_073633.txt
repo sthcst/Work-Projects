@@ -1,9 +1,0 @@
-contact:
-  name: Jane Walker
-  email: jane.walker947@work.org
-  phone: 957-487-2733
-  ssn: 276-07-5025
-  dob: 26/05/1989
-  address: 4342 Maple Rd
-  city: Seattle
-  state: NY

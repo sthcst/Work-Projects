@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Guerrero
-  email: michelle.guerrero1469@outlook.com
-  phone: (239) 964-1148
-  ssn: 970-41-3065
-  dob: 24/05/1976
-  address: 5055 First St
-  city: Houston
-  state: DC

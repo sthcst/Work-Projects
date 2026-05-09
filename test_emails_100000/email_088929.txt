@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Gonzalez,steven.gonzalez427@business.net,+1 691-948-3759,184 31 3753,07/04/1960,"258 Elm Blvd",Los Angeles,CA

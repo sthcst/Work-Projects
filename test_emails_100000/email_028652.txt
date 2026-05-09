@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Martin,timothy.martin2557@mail.com,+1 285-416-4079,560-46-6681,10/3/1987,"1540 Sixth Way",San Jose,CA

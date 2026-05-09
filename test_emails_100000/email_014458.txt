@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Dominguez
-  email: kenneth.dominguez4726@work.org
-  phone: 861-350-4060
-  ssn: 943-89-9199
-  dob: 08/15/2005
-  address: 2621 Sixth Way
-  city: San Diego
-  state: WA

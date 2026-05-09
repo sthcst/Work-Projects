@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Walker
-  email: michelle.walker2538@work.org
-  phone: +1 965-662-3277
-  ssn: 830409211
-  dob: 09-19-1960
-  address: 8340 Main Rd
-  city: Denver
-  state: TX

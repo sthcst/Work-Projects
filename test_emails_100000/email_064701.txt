@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Delgado,nicholas.delgado4295@example.com,603-618-6262,682 12 8837,8/9/1978,"775 Fifth St",Dallas,MO

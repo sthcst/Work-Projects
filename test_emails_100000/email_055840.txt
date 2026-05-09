@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Murillo
-  email: andrew.murillo8162@mail.com
-  phone: 454-230-5605
-  ssn: 850896181
-  dob: 07/20/1979
-  address: 4429 Second Court
-  city: Boston
-  state: AZ

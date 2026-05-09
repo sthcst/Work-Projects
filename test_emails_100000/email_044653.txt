@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Hernandez,kevin.hernandez8102@mail.com,272-560-5636,331 68 9752,09/13/1957,"9331 Main Ave",Austin,TX

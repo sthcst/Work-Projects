@@ -1,9 +1,0 @@
-contact:
-  name: Angela Lewis
-  email: angela.lewis7935@gmail.com
-  phone: 434-513-8740
-  ssn: 958-95-3938
-  dob: 22/02/1997
-  address: 1896 Sixth Ave
-  city: New York
-  state: MA

@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Morgan
-  email: jacob.morgan5836@mail.com
-  phone: 216 856 4895
-  ssn: 541 14 2869
-  dob: 02-13-1973
-  address: 4754 Second Dr
-  city: Houston
-  state: FL

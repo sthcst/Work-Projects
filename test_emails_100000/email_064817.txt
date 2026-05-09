@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Wilson
-  email: jacob.wilson9383@company.com
-  phone: (331) 993-9745
-  ssn: 060 47 9849
-  dob: 12-21-1957
-  address: 6105 Pine St
-  city: Washington
-  state: MA

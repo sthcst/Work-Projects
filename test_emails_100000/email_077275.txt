@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Evans,jeffrey.evans9567@work.org,442-207-1903,707 27 7239,11/05/1968,"7945 Third Court",Denver,CA

@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Gomez
-  email: shirley.gomez6853@yahoo.com
-  phone: 235-210-6286
-  ssn: 822811030
-  dob: 11/12/1992
-  address: 3240 Birch Rd
-  city: San Antonio
-  state: GA

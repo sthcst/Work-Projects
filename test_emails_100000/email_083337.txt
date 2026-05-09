@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Nunez,ryan.nunez5565@company.com,+1 405-626-2363,502 73 9904,07-09-1983,"2557 Fifth Dr",San Jose,FL

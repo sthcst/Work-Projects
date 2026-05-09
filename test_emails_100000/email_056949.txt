@@ -1,9 +1,0 @@
-contact:
-  name: George Lee
-  email: george.lee3125@company.com
-  phone: 461 767 7671
-  ssn: 256 30 6808
-  dob: 01/04/1976
-  address: 1535 Fifth Ave
-  city: Philadelphia
-  state: IL

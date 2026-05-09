@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Williams,helen.williams1302@yahoo.com,735 779 4584,839105296,25/06/1963,"7170 Summer Blvd",Boston,CA

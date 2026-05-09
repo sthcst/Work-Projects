@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Nunez,kathleen.nunez8877@outlook.com,488-715-4231,934188230,04-24-1971,"5988 Oak Way",Dallas,IL

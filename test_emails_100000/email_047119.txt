@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Smith
-  email: nicholas.smith4022@outlook.com
-  phone: 564-670-4345
-  ssn: 133697149
-  dob: 04/04/2005
-  address: 8757 Fourth Dr
-  city: Los Angeles
-  state: GA

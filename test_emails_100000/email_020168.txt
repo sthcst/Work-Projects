@@ -1,9 +1,0 @@
-contact:
-  name: Megan Harris
-  email: megan.harris9455@gmail.com
-  phone: +1 442-437-1132
-  ssn: 767363231
-  dob: 12/4/1963
-  address: 1380 Fourth St
-  city: Los Angeles
-  state: OH

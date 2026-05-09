@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Perez
-  email: andrew.perez7593@company.com
-  phone: 741-591-7431
-  ssn: 730-95-3905
-  dob: 11-10-1975
-  address: 8213 North St
-  city: Houston
-  state: IL

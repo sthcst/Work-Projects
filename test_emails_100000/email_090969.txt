@@ -1,9 +1,0 @@
-contact:
-  name: Brian Campbell
-  email: brian.campbell8704@company.com
-  phone: +1 982-997-6640
-  ssn: 863761913
-  dob: 08/21/1950
-  address: 7725 South Rd
-  city: Jacksonville
-  state: DC

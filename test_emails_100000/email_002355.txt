@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Gomez
-  email: daniel.gomez3332@work.org
-  phone: 272 800 9847
-  ssn: 497-87-1780
-  dob: 03/06/1970
-  address: 8451 Elm Ln
-  city: San Diego
-  state: OH

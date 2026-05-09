@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Thompson
-  email: cynthia.thompson1639@gmail.com
-  phone: 626 615 7575
-  ssn: 455457629
-  dob: 02/22/1953
-  address: 8486 Fifth Ave
-  city: Houston
-  state: MA

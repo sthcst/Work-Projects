@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Jackson
-  email: lisa.jackson5307@mail.com
-  phone: 606-501-1223
-  ssn: 700334087
-  dob: 05/03/1967
-  address: 5411 North Ln
-  city: Dallas
-  state: PA

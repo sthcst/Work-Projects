@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Martin,christine.martin7948@outlook.com,803 931 1465,408256640,12/8/1957,"1931 South Ave",Los Angeles,NY

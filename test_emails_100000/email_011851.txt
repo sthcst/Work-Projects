@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Gomez,stephanie.gomez1956@example.com,+1 784-524-4962,122 72 5774,19/10/1958,"2954 Elm Dr",New York,MA

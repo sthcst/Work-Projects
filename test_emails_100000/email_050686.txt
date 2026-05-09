@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Thompson,timothy.thompson2003@mail.com,+1 625-871-6580,627 90 3360,2/17/1968,"7580 Birch St",Washington,WA

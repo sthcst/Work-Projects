@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Martin
-  email: nicholas.martin9086@business.net
-  phone: 438-562-3206
-  ssn: 492-67-5426
-  dob: 9/25/1989
-  address: 2131 Summer Ln
-  city: Los Angeles
-  state: WI

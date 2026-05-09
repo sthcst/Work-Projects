@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Sanchez,jacob.sanchez6920@business.net,577-943-6403,366858867,02-20-1980,"8733 Spring Way",San Jose,CA

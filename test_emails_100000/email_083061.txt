@@ -1,9 +1,0 @@
-contact:
-  name: Helen Murillo
-  email: helen.murillo1667@yahoo.com
-  phone: +1 408-545-8157
-  ssn: 699829582
-  dob: 5/17/1964
-  address: 5929 Pine Way
-  city: Chicago
-  state: DC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Martin,jennifer.martin9217@work.org,266-422-8491,348-49-8087,03-17-1953,"2167 First Dr",Austin,GA

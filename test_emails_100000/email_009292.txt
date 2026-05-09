@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Nelson,emma.nelson8181@company.com,(330) 502-5308,987 30 8098,6/25/1964,"6681 East Court",Austin,NY

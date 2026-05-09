@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Martin,rebecca.martin8364@example.com,487 234 9392,728 27 9002,24/02/1965,"6331 Birch Ln",Seattle,TX

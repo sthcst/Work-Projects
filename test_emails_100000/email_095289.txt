@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Wilson,jacob.wilson7079@company.com,948 959 1089,901-77-8159,06-01-1997,"2736 Maple Ave",San Antonio,AZ

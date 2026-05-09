@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Delgado,michelle.delgado3297@company.com,579-593-6934,908964586,11/27/1976,"4183 Sixth Ln",Los Angeles,CA

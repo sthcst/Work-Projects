@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Reeves
-  email: nicholas.reeves2994@company.com
-  phone: (637) 248-3259
-  ssn: 211052560
-  dob: 06/22/1990
-  address: 9547 East Way
-  city: Washington
-  state: TX

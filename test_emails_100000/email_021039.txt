@@ -1,9 +1,0 @@
-contact:
-  name: John Rodriguez
-  email: john.rodriguez1581@yahoo.com
-  phone: (435) 885-2292
-  ssn: 869-13-5949
-  dob: 08/11/2004
-  address: 7292 Elm Way
-  city: Philadelphia
-  state: NJ

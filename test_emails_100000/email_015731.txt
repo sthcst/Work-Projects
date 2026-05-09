@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Williams,lauren.williams7557@gmail.com,497-648-9776,414 13 6985,20/09/1977,"5805 Fifth Court",Dallas,FL

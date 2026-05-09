@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Morgan,william.morgan7445@yahoo.com,852 458 7184,189456087,04/08/2001,"2446 Spring Rd",New York,AZ

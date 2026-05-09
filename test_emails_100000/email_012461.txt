@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Gonzalez,joshua.gonzalez1622@business.net,+1 224-859-8166,585-06-2236,21/08/1952,"3896 Park Ave",Jacksonville,OH

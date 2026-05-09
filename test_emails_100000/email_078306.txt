@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Serrano,john.serrano9875@company.com,695 834 7997,251-33-9782,10-06-1978,"6218 Pine Blvd",Austin,AZ

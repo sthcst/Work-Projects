@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Walker,emily.walker5598@mail.com,+1 611-333-9211,544-51-8235,13/07/1980,"1046 Spring Court",Austin,VA

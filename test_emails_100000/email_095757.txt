@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Perez
-  email: shirley.perez9295@work.org
-  phone: +1 508-797-1303
-  ssn: 926166320
-  dob: 8/25/1969
-  address: 5415 Maple Court
-  city: San Diego
-  state: NY

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Serrano,maria.serrano5104@mail.com,+1 767-975-1351,397 10 5796,10/5/1986,"7154 Third Ave",Boston,AZ

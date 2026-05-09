@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Clark,maria.clark8414@company.com,(831) 975-9345,605-31-8747,02/24/1982,"284 Second St",New York,CA

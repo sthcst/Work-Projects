@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Jackson,emma.jackson4565@mail.com,(630) 557-4052,070 66 2388,10/02/1965,"2423 Second St",Houston,WA

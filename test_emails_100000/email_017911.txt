@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Moore
-  email: jennifer.moore3313@company.com
-  phone: 395-842-1266
-  ssn: 317725152
-  dob: 09/23/1978
-  address: 6753 Fourth Rd
-  city: New York
-  state: WI

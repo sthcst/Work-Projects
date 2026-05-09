@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Harris
-  email: joseph.harris3919@example.com
-  phone: (288) 380-8846
-  ssn: 852-97-4237
-  dob: 01-24-1997
-  address: 8022 Sixth Blvd
-  city: Dallas
-  state: PA

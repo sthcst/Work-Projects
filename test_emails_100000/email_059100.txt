@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Lewis,anthony.lewis8729@yahoo.com,567 580 9231,232 73 8296,03/07/1977,"9223 Spring Court",San Antonio,AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Romero,michelle.romero6354@company.com,(988) 644-4177,665234682,02/04/1960,"433 Oak Rd",San Jose,PA

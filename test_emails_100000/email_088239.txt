@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Hernandez
-  email: lauren.hernandez6091@company.com
-  phone: 464-796-2069
-  ssn: 755174080
-  dob: 12/08/1954
-  address: 6557 Third Rd
-  city: Washington
-  state: NC

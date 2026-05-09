@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Bell
-  email: kenneth.bell8402@business.net
-  phone: (410) 719-3287
-  ssn: 655 68 6723
-  dob: 04-28-1982
-  address: 7882 Spring Ave
-  city: San Antonio
-  state: GA

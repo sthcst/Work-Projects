@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Hernandez
-  email: jessica.hernandez2624@work.org
-  phone: 987 569 5228
-  ssn: 063 11 7229
-  dob: 9/17/1973
-  address: 673 South Ln
-  city: San Antonio
-  state: AZ

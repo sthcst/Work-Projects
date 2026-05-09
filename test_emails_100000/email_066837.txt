@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Martin,lauren.martin2639@outlook.com,(204) 422-3035,865 61 5420,08-15-1986,"8761 Cedar Way",Dallas,MA

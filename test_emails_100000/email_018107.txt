@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Lopez
-  email: daniel.lopez2027@business.net
-  phone: 348-486-5555
-  ssn: 455366881
-  dob: 08-18-1986
-  address: 5066 East Rd
-  city: Seattle
-  state: NY

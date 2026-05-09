@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Parker
-  email: anthony.parker3452@company.com
-  phone: 570 263 5567
-  ssn: 139-01-1976
-  dob: 01/20/1968
-  address: 495 South Ave
-  city: Jacksonville
-  state: AZ

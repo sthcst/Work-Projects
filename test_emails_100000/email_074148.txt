@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Campbell
-  email: jessica.campbell1920@business.net
-  phone: 377 393 1997
-  ssn: 328038534
-  dob: 01/26/1988
-  address: 5045 East Rd
-  city: San Diego
-  state: MA

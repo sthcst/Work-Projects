@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Hernandez
-  email: timothy.hernandez3863@outlook.com
-  phone: 895-773-4517
-  ssn: 957 35 5890
-  dob: 12/26/1950
-  address: 1265 Spring Ln
-  city: Boston
-  state: CA

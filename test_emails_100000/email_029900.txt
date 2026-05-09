@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Morgan
-  email: stephanie.morgan3762@business.net
-  phone: (729) 673-1366
-  ssn: 620-72-7403
-  dob: 11/12/1991
-  address: 8375 Third St
-  city: San Antonio
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Jimenez
-  email: ryan.jimenez4711@mail.com
-  phone: +1 347-860-8378
-  ssn: 624 28 1618
-  dob: 09/15/2003
-  address: 2151 Fourth Ln
-  city: Austin
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Lopez
-  email: matthew.lopez5610@company.com
-  phone: 354-930-5441
-  ssn: 268-85-8066
-  dob: 13/03/1978
-  address: 7919 Oak Court
-  city: Austin
-  state: PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Phillips,daniel.phillips7421@gmail.com,688-788-8688,399 65 6991,28/06/1963,"4132 Maple Rd",Philadelphia,FL

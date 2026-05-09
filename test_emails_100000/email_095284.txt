@@ -1,9 +1,0 @@
-contact:
-  name: Christine Delgado
-  email: christine.delgado320@business.net
-  phone: 624 216 9750
-  ssn: 872 72 1579
-  dob: 04-20-2000
-  address: 4068 Oak Ave
-  city: Washington
-  state: VA

@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Martinez
-  email: nicholas.martinez4887@company.com
-  phone: (923) 415-8837
-  ssn: 017-44-5505
-  dob: 02/28/1972
-  address: 3494 East Ln
-  city: Denver
-  state: MA

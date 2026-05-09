@@ -1,9 +1,0 @@
-contact:
-  name: Anna Carter
-  email: anna.carter4863@gmail.com
-  phone: (677) 648-7387
-  ssn: 061-15-3071
-  dob: 02-13-1958
-  address: 7732 South Ave
-  city: New York
-  state: CA

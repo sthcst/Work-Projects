@@ -1,9 +1,0 @@
-contact:
-  name: Gary Davis
-  email: gary.davis5117@gmail.com
-  phone: +1 628-371-9812
-  ssn: 075 33 4608
-  dob: 02/09/1968
-  address: 5321 Birch Ave
-  city: Boston
-  state: TX

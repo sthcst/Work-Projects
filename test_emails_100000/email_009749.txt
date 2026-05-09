@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Gomez,ronald.gomez9687@business.net,809 893 4024,702-72-3448,15/10/1985,"4102 Fifth Ln",Austin,IL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Alvarado,nicholas.alvarado9524@mail.com,(746) 240-1447,620 74 9839,03-15-1956,"5159 Fifth Ln",San Jose,NC

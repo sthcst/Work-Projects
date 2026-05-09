@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Lopez,rebecca.lopez2051@mail.com,596-213-6647,645-69-1938,4/24/1994,"2993 Sixth Dr",Dallas,FL

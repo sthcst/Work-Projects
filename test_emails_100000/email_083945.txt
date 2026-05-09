@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Romero
-  email: jacob.romero7285@work.org
-  phone: 656 246 8211
-  ssn: 396 92 5257
-  dob: 24/09/1971
-  address: 7527 Birch St
-  city: Chicago
-  state: IL

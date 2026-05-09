@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Rodriguez,edward.rodriguez1058@mail.com,994 506 4788,962-25-8349,12-22-1962,"791 Oak Ln",Chicago,GA

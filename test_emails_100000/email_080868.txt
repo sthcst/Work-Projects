@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Parker
-  email: rachel.parker385@gmail.com
-  phone: 245 973 2695
-  ssn: 458 44 7762
-  dob: 14/02/1976
-  address: 9825 Pine Rd
-  city: Jacksonville
-  state: GA

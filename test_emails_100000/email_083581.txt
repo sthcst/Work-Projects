@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Young
-  email: michelle.young6854@gmail.com
-  phone: 272-690-5503
-  ssn: 963204450
-  dob: 11/23/1983
-  address: 4286 Pine Dr
-  city: Washington
-  state: MO

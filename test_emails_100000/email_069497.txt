@@ -1,9 +1,0 @@
-contact:
-  name: Robert Perez
-  email: robert.perez1488@gmail.com
-  phone: +1 552-987-3135
-  ssn: 358-38-4680
-  dob: 02/26/1998
-  address: 3770 Cedar Ave
-  city: Jacksonville
-  state: CO

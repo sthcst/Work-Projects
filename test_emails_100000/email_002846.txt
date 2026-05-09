@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Reyes,amanda.reyes7109@gmail.com,913 212 1448,756754688,18/07/1996,"696 Elm Court",Phoenix,IL

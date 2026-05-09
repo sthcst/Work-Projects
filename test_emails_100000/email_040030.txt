@@ -1,9 +1,0 @@
-contact:
-  name: Angela Nelson
-  email: angela.nelson6807@mail.com
-  phone: 380 406 4037
-  ssn: 851931593
-  dob: 3/20/1970
-  address: 2030 East Ln
-  city: San Diego
-  state: CA

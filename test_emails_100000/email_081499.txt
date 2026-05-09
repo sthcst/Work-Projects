@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Parker
-  email: amanda.parker7050@outlook.com
-  phone: 785 238 2668
-  ssn: 551-91-6934
-  dob: 01/11/1970
-  address: 4609 Park St
-  city: Jacksonville
-  state: GA

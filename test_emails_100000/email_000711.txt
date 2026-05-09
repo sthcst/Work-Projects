@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Jones
-  email: amanda.jones3396@gmail.com
-  phone: +1 767-435-2644
-  ssn: 461-52-5524
-  dob: 08/06/1977
-  address: 8929 Main Ave
-  city: Jacksonville
-  state: WA

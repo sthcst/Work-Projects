@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Rogers
-  email: jennifer.rogers874@business.net
-  phone: +1 425-715-7928
-  ssn: 842656512
-  dob: 07-06-1984
-  address: 6591 Fifth Blvd
-  city: Phoenix
-  state: TN

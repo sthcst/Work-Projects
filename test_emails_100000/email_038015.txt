@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Delgado,george.delgado3194@mail.com,+1 507-507-5489,906 61 9246,11-26-1975,"667 Park Ave",Seattle,TX

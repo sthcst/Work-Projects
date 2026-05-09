@@ -1,9 +1,0 @@
-contact:
-  name: Michael Garcia
-  email: michael.garcia4349@mail.com
-  phone: +1 862-740-4267
-  ssn: 293 67 7978
-  dob: 08/23/1999
-  address: 517 North Blvd
-  city: Houston
-  state: WA

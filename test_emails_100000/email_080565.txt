@@ -1,9 +1,0 @@
-contact:
-  name: Megan Ramirez
-  email: megan.ramirez7377@example.com
-  phone: +1 885-811-2297
-  ssn: 094-47-2018
-  dob: 05-15-1961
-  address: 6639 Summer Dr
-  city: San Antonio
-  state: VA

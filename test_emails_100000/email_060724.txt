@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Sanchez
-  email: stephanie.sanchez1545@mail.com
-  phone: (808) 519-3910
-  ssn: 524318951
-  dob: 12-05-1980
-  address: 401 South St
-  city: Los Angeles
-  state: PA

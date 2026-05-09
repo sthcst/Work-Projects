@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Romero,kimberly.romero9362@company.com,211 331 8266,894-02-4182,01/16/1982,"3572 West Ave",Jacksonville,NC

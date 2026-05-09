@@ -1,9 +1,0 @@
-contact:
-  name: Maria Smith
-  email: maria.smith5905@example.com
-  phone: 795-632-5508
-  ssn: 419844901
-  dob: 05-24-1999
-  address: 5493 Main Court
-  city: San Jose
-  state: WA

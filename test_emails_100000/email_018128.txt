@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Lee,george.lee1051@business.net,212 532 1524,200 02 6657,24/02/2000,"5583 First St",Chicago,TX

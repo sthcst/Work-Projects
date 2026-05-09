@@ -1,9 +1,0 @@
-contact:
-  name: Emily Walker
-  email: emily.walker610@gmail.com
-  phone: (508) 927-3119
-  ssn: 869 33 8287
-  dob: 01/05/1980
-  address: 9857 First Ln
-  city: Denver
-  state: MO

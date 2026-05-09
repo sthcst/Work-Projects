@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Cooper,angela.cooper2995@outlook.com,(339) 965-3442,313 33 2119,10-18-2002,"2522 East Court",San Antonio,MO

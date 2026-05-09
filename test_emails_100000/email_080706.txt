@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Murillo,matthew.murillo5150@work.org,482-617-7670,826-93-6627,7/13/2002,"2614 West Way",Washington,MA

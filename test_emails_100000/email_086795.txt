@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Hall
-  email: katherine.hall9826@work.org
-  phone: 657-900-1147
-  ssn: 104-69-6299
-  dob: 04-06-1991
-  address: 9685 North Ln
-  city: Denver
-  state: VA

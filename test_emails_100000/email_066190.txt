@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Williams,shirley.williams6458@outlook.com,+1 603-576-1532,849-15-7565,12/2/1952,"8718 Sixth Rd",Houston,OH

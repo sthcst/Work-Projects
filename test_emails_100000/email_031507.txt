@@ -1,9 +1,0 @@
-contact:
-  name: Richard Wilson
-  email: richard.wilson6181@mail.com
-  phone: (203) 308-6958
-  ssn: 680 98 9478
-  dob: 5/25/1952
-  address: 899 Spring St
-  city: San Jose
-  state: WA

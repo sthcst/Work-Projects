@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Davis
-  email: ryan.davis427@outlook.com
-  phone: 469 831 1497
-  ssn: 522 31 1605
-  dob: 19/08/1989
-  address: 1129 Oak Dr
-  city: San Diego
-  state: NC

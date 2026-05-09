@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Wilson,megan.wilson2771@yahoo.com,+1 329-864-9293,962 30 6580,04-06-1976,"215 Fourth Dr",Denver,DC

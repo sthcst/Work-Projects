@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Campbell,jennifer.campbell2409@outlook.com,732-442-1636,766 62 7157,4/20/1973,"9933 North Ln",Dallas,MA

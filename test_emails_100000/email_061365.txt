@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Jackson
-  email: kenneth.jackson4380@company.com
-  phone: (409) 549-1704
-  ssn: 901444865
-  dob: 07/08/1981
-  address: 9288 Oak St
-  city: Seattle
-  state: NC

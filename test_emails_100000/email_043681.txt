@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Martinez
-  email: andrew.martinez6450@work.org
-  phone: 955 753 5150
-  ssn: 238 67 9819
-  dob: 11/10/1973
-  address: 3008 Second Way
-  city: Phoenix
-  state: WI

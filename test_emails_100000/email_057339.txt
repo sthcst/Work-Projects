@@ -1,9 +1,0 @@
-contact:
-  name: Steven Ortiz
-  email: steven.ortiz4134@gmail.com
-  phone: 604 284 5195
-  ssn: 077584805
-  dob: 09/04/1951
-  address: 8249 Elm Ave
-  city: Seattle
-  state: OH

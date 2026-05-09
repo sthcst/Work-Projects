@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Morris
-  email: matthew.morris308@outlook.com
-  phone: (305) 389-4306
-  ssn: 117-99-6793
-  dob: 28/07/1984
-  address: 3189 Cedar Blvd
-  city: Denver
-  state: DC

@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Jones
-  email: kathleen.jones3097@business.net
-  phone: 283 868 5782
-  ssn: 817-13-4112
-  dob: 11/20/2004
-  address: 4386 First Court
-  city: San Jose
-  state: TX

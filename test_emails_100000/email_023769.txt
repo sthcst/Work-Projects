@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Walker,megan.walker6893@gmail.com,(378) 808-2419,594 21 9623,4/16/1980,"6173 Park St",New York,CA

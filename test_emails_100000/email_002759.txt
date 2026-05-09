@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Lee,anna.lee2251@company.com,(231) 979-4610,603635288,09/02/2002,"9940 Cedar Ln",Denver,WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Alvarado,charles.alvarado6863@yahoo.com,+1 671-962-3978,943-71-3635,6/28/1953,"2775 Birch Rd",Los Angeles,MA

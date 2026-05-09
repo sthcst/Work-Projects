@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Ramirez,gary.ramirez9303@mail.com,+1 559-545-9204,766345727,09/28/1975,"8155 Sixth Rd",San Diego,MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Johnson,charles.johnson4535@gmail.com,+1 883-428-7341,445-06-8992,06/11/2005,"9022 Pine Ln",Washington,MI

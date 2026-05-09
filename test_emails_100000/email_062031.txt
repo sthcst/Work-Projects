@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Lewis
-  email: kathleen.lewis7781@work.org
-  phone: +1 774-279-5316
-  ssn: 344157744
-  dob: 1/6/1997
-  address: 914 Maple St
-  city: San Jose
-  state: TN

@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Cooper
-  email: stephanie.cooper9144@business.net
-  phone: +1 989-901-2883
-  ssn: 261 74 2281
-  dob: 10/13/1985
-  address: 1462 South Blvd
-  city: Houston
-  state: NY

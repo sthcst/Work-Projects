@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Miller,james.miller3097@yahoo.com,667 294 9396,580 46 9314,10-18-1992,"618 Summer Ln",Houston,MA

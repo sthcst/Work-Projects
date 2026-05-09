@@ -1,9 +1,0 @@
-contact:
-  name: Richard Edwards
-  email: richard.edwards1591@business.net
-  phone: (390) 320-5901
-  ssn: 919-98-4372
-  dob: 01/08/1972
-  address: 1048 Summer Ln
-  city: New York
-  state: MA

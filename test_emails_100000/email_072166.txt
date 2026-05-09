@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Brown,nicole.brown9864@example.com,670-791-5710,920097760,13/09/1985,"6111 First Blvd",Boston,AZ

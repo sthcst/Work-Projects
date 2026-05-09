@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Morris
-  email: jennifer.morris2942@example.com
-  phone: 981-513-3803
-  ssn: 246-19-5463
-  dob: 11/15/1973
-  address: 9119 Fifth Court
-  city: Jacksonville
-  state: MA

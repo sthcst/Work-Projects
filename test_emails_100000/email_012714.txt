@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Wilson,jason.wilson6778@company.com,270-524-6315,072267312,4/19/1987,"6687 Birch Rd",Los Angeles,TX

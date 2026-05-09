@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Thompson,robert.thompson8701@gmail.com,869-754-1165,672154837,11/2/1972,"7535 East St",Denver,FL

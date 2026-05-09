@@ -1,9 +1,0 @@
-contact:
-  name: Jane Perez
-  email: jane.perez3217@business.net
-  phone: 264 374 8768
-  ssn: 555138154
-  dob: 09/27/1980
-  address: 9281 Pine Ave
-  city: Austin
-  state: MA

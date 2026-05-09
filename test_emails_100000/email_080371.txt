@@ -1,9 +1,0 @@
-contact:
-  name: Maria Evans
-  email: maria.evans4845@yahoo.com
-  phone: +1 297-311-6008
-  ssn: 599797849
-  dob: 10/28/1984
-  address: 9501 Maple Ln
-  city: Denver
-  state: TX

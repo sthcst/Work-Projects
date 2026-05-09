@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Nunez,william.nunez677@mail.com,(445) 741-4577,303-42-4575,02-08-1992,"8543 North Dr",Jacksonville,OH

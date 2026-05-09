@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Clark
-  email: kenneth.clark6121@company.com
-  phone: +1 293-228-3824
-  ssn: 639087407
-  dob: 27/01/1951
-  address: 6585 South Blvd
-  city: Los Angeles
-  state: NC

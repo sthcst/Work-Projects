@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Harris
-  email: timothy.harris3757@yahoo.com
-  phone: +1 922-811-2765
-  ssn: 218848589
-  dob: 9/22/1965
-  address: 87 North Blvd
-  city: Seattle
-  state: MA

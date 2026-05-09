@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Delgado,ryan.delgado7720@example.com,+1 671-571-6985,979-15-6058,09-14-1997,"8573 Cedar Ln",New York,FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Taylor,christopher.taylor2822@outlook.com,435-463-1133,468 83 4387,7/27/1956,"9075 Second Rd",Washington,MD

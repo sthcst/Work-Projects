@@ -1,9 +1,0 @@
-contact:
-  name: Angela Martinez
-  email: angela.martinez268@company.com
-  phone: +1 462-752-2037
-  ssn: 300-16-8474
-  dob: 17/02/1993
-  address: 963 Second Court
-  city: Jacksonville
-  state: WI

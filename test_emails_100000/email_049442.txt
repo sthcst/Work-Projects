@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Rogers
-  email: christopher.rogers4967@work.org
-  phone: +1 931-953-6524
-  ssn: 026 91 5861
-  dob: 12-03-1993
-  address: 4367 East Ln
-  city: Houston
-  state: MA

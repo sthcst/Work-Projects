@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Rogers,rachel.rogers6923@gmail.com,+1 206-775-5194,645 32 5442,03/04/1960,"9748 Pine Ave",Denver,NY

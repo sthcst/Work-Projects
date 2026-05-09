@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Robinson,nicholas.robinson588@outlook.com,(530) 723-6584,558792116,18/10/2001,"7926 Spring Ln",Denver,WA

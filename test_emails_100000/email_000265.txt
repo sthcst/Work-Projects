@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Jackson,rachel.jackson3405@example.com,+1 737-543-2083,956-76-7156,01-14-1990,"6801 Cedar Court",Phoenix,TX

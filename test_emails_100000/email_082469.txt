@@ -1,9 +1,0 @@
-contact:
-  name: Emily Garcia
-  email: emily.garcia216@business.net
-  phone: 633 514 4713
-  ssn: 921 93 6449
-  dob: 05-04-1968
-  address: 8114 Spring Way
-  city: San Diego
-  state: MI

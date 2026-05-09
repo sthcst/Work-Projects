@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Thompson,steven.thompson7762@company.com,+1 851-992-5367,926751755,10-09-1992,"8158 Elm Ave",San Antonio,TN

@@ -1,9 +1,0 @@
-contact:
-  name: Jane Reed
-  email: jane.reed2379@company.com
-  phone: 614-540-8666
-  ssn: 732426642
-  dob: 07/02/1997
-  address: 812 South Rd
-  city: Jacksonville
-  state: MO

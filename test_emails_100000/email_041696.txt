@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Gomez
-  email: rebecca.gomez5747@mail.com
-  phone: 240 916 1047
-  ssn: 697-02-3989
-  dob: 02/03/1994
-  address: 7001 Park Blvd
-  city: Austin
-  state: WA

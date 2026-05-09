@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Evans,jane.evans8974@business.net,(749) 504-2679,306 94 5587,3/24/1955,"2069 Sixth Ave",Phoenix,DC

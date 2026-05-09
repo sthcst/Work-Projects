@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Reeves
-  email: kimberly.reeves2491@example.com
-  phone: +1 575-835-3807
-  ssn: 495-11-8248
-  dob: 24/08/1977
-  address: 1913 Park Ave
-  city: Washington
-  state: NJ

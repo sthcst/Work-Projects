@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Stewart,christine.stewart2373@outlook.com,334 658 1872,070958176,12/09/2001,"2889 Third Court",Boston,TX

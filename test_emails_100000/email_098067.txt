@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Jones,pamela.jones1557@outlook.com,(826) 369-6566,333-43-3944,17/06/1991,"6026 North Dr",Philadelphia,CA

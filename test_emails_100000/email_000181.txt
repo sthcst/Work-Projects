@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Smith,brenda.smith1493@outlook.com,+1 814-645-2444,066 34 4633,20/02/1952,"6574 Sixth Dr",Los Angeles,AZ

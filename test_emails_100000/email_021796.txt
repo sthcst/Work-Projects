@@ -1,9 +1,0 @@
-contact:
-  name: Steven Thomas
-  email: steven.thomas6625@company.com
-  phone: 715 640 1656
-  ssn: 076774583
-  dob: 3/21/1960
-  address: 9128 North Blvd
-  city: Houston
-  state: CA

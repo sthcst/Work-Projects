@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Peterson,brian.peterson5078@outlook.com,316-755-6128,291-52-6093,11/15/1969,"2388 Oak Blvd",Chicago,NC

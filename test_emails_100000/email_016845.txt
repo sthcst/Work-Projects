@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Carter,katherine.carter8090@work.org,955 566 4568,583511844,01-27-1972,"2543 Fifth St",Austin,TX

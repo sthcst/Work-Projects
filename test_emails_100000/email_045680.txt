@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Jackson,edward.jackson7255@yahoo.com,438 416 9357,393757208,04/01/1987,"2970 South St",New York,FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Ramirez,cynthia.ramirez6458@yahoo.com,395 977 7140,030 05 9043,05/21/1999,"5789 Maple Court",Seattle,IL

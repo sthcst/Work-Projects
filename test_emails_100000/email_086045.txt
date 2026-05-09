@@ -1,9 +1,0 @@
-contact:
-  name: Helen Delgado
-  email: helen.delgado7369@business.net
-  phone: +1 309-567-5461
-  ssn: 145011958
-  dob: 04/18/1993
-  address: 4413 Cedar Court
-  city: Denver
-  state: NY

@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Perez
-  email: nicole.perez8029@yahoo.com
-  phone: 344 330 6229
-  ssn: 583 48 1471
-  dob: 07-13-1974
-  address: 4741 Fourth Rd
-  city: Washington
-  state: NC

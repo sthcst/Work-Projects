@@ -1,9 +1,0 @@
-contact:
-  name: George Guerrero
-  email: george.guerrero9061@work.org
-  phone: 817 672 5830
-  ssn: 756668260
-  dob: 6/13/1957
-  address: 1602 Fifth Ln
-  city: Houston
-  state: NC

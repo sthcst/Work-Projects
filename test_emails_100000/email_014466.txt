@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Alvarado,jennifer.alvarado6701@work.org,+1 229-659-1386,888111867,03-18-1974,"8101 Pine Ave",Washington,TX

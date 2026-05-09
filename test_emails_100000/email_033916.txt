@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda White,amanda.white7843@outlook.com,+1 817-824-3260,487 58 7031,6/4/1966,"5176 Fifth Blvd",Washington,TX

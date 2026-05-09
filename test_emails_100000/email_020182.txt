@@ -1,9 +1,0 @@
-contact:
-  name: James Brown
-  email: james.brown5852@business.net
-  phone: (437) 521-9491
-  ssn: 235-98-4297
-  dob: 12/12/1952
-  address: 6927 South Blvd
-  city: San Antonio
-  state: NC

@@ -1,9 +1,0 @@
-contact:
-  name: Michael Peterson
-  email: michael.peterson4934@yahoo.com
-  phone: (994) 356-9041
-  ssn: 152 87 8908
-  dob: 06/07/2001
-  address: 4647 South Ave
-  city: San Antonio
-  state: TX

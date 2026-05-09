@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Collins,joshua.collins6446@mail.com,399 667 3953,054-36-1609,03-03-1952,"1788 Third Dr",Jacksonville,NJ

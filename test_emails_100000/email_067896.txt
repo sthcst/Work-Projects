@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Robinson,robert.robinson6838@work.org,703-537-3844,552 44 7471,13/08/2002,"3182 Third Ln",Philadelphia,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Rodriguez,lisa.rodriguez5783@company.com,927-569-6100,607 53 1384,05/17/1957,"1989 Third Ave",Washington,CO

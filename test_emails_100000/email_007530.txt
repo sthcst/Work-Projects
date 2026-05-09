@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Serrano
-  email: andrew.serrano1636@example.com
-  phone: 913-522-6667
-  ssn: 512 20 6043
-  dob: 1/12/1992
-  address: 8816 Third Court
-  city: San Diego
-  state: CO

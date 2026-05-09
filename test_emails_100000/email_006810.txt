@@ -1,9 +1,0 @@
-contact:
-  name: Megan Young
-  email: megan.young9817@company.com
-  phone: 836-236-3076
-  ssn: 219854997
-  dob: 01-25-1981
-  address: 5177 East Ln
-  city: Jacksonville
-  state: CA

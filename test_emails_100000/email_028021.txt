@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Guerrero
-  email: pamela.guerrero844@example.com
-  phone: (608) 715-6334
-  ssn: 578 07 5098
-  dob: 07-14-1950
-  address: 8322 North Ave
-  city: Seattle
-  state: OH

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Thompson,andrew.thompson5739@company.com,721 601 7921,799948339,04/02/1985,"5779 Oak Ave",Boston,DC

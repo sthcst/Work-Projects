@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Reed,anna.reed7180@business.net,834 759 1415,390-56-3035,12/16/1992,"9518 Elm Court",Dallas,TX

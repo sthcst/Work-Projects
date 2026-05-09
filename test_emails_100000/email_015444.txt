@@ -1,9 +1,0 @@
-contact:
-  name: James Taylor
-  email: james.taylor573@outlook.com
-  phone: +1 525-622-7773
-  ssn: 229924025
-  dob: 11/22/1965
-  address: 5402 Summer Court
-  city: Philadelphia
-  state: OH

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Johnson,michelle.johnson4918@business.net,(879) 956-9494,829 25 7293,2/16/1981,"7728 South Way",San Diego,MA

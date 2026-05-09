@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Serrano,richard.serrano7134@business.net,+1 616-470-4860,455 65 5283,2/22/1968,"6955 Pine Blvd",Washington,CO

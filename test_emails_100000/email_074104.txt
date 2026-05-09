@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Alvarado,katherine.alvarado8288@mail.com,(676) 582-1356,807 67 1513,03-21-1981,"5715 Summer Court",Seattle,AZ

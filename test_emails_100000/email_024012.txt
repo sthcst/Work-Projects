@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Harris
-  email: rachel.harris6421@yahoo.com
-  phone: 392 326 8672
-  ssn: 248131894
-  dob: 12/4/2001
-  address: 1525 Sixth St
-  city: Houston
-  state: CA

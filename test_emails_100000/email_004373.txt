@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Gomez
-  email: matthew.gomez5436@yahoo.com
-  phone: 203 867 6837
-  ssn: 948 66 5049
-  dob: 1/19/2000
-  address: 7633 Pine Ave
-  city: Dallas
-  state: WA

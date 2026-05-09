@@ -1,9 +1,0 @@
-contact:
-  name: Robert Delgado
-  email: robert.delgado8304@mail.com
-  phone: 622 259 6819
-  ssn: 267-38-3646
-  dob: 01/12/1979
-  address: 6111 Summer St
-  city: Chicago
-  state: MA

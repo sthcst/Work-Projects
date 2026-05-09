@@ -1,9 +1,0 @@
-contact:
-  name: Maria Moore
-  email: maria.moore490@mail.com
-  phone: 716 440 7562
-  ssn: 520596069
-  dob: 16/10/1975
-  address: 5871 Fifth St
-  city: Houston
-  state: GA

@@ -1,9 +1,0 @@
-contact:
-  name: Michael Morgan
-  email: michael.morgan2770@work.org
-  phone: 322-664-4176
-  ssn: 078 91 2890
-  dob: 10/3/1987
-  address: 50 Birch Blvd
-  city: Washington
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: Michael Jackson
-  email: michael.jackson7994@company.com
-  phone: (208) 984-6399
-  ssn: 306-99-8461
-  dob: 26/11/1965
-  address: 2552 Oak Dr
-  city: New York
-  state: TX

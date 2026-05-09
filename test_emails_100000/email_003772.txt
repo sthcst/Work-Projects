@@ -1,9 +1,0 @@
-contact:
-  name: John Gonzalez
-  email: john.gonzalez831@outlook.com
-  phone: +1 332-439-4771
-  ssn: 213-19-7690
-  dob: 10/24/1965
-  address: 156 Maple St
-  city: Seattle
-  state: OH

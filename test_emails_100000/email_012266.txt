@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Ortiz,joshua.ortiz1340@example.com,209-738-3191,212262616,11/1/1998,"8986 Pine Dr",Houston,TX

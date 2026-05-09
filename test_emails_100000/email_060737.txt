@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Gonzalez
-  email: pamela.gonzalez1048@business.net
-  phone: 781 481 7350
-  ssn: 622 63 9462
-  dob: 22/12/1994
-  address: 302 Elm Ln
-  city: San Diego
-  state: MA

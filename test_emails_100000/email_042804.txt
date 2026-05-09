@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Brown,deborah.brown9874@company.com,200-445-1647,838 27 3982,18/07/1969,"305 Oak St",Phoenix,NC

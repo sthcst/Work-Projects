@@ -1,9 +1,0 @@
-contact:
-  name: Robert Nunez
-  email: robert.nunez1917@yahoo.com
-  phone: (881) 795-5820
-  ssn: 690-86-1579
-  dob: 10/15/2002
-  address: 4218 East Court
-  city: New York
-  state: TX

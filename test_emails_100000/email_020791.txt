@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Rogers
-  email: rachel.rogers8078@company.com
-  phone: +1 287-600-7638
-  ssn: 673-81-5060
-  dob: 06-05-1972
-  address: 3613 Second Ln
-  city: Los Angeles
-  state: PA

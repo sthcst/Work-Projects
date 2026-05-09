@@ -1,9 +1,0 @@
-contact:
-  name: Robert Phillips
-  email: robert.phillips8635@outlook.com
-  phone: (232) 377-2630
-  ssn: 117 06 2125
-  dob: 10/3/1965
-  address: 2278 Cedar St
-  city: Washington
-  state: MD

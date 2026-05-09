@@ -1,9 +1,0 @@
-contact:
-  name: Megan Roberts
-  email: megan.roberts1985@yahoo.com
-  phone: 531-699-8288
-  ssn: 520 10 9187
-  dob: 4/6/1975
-  address: 3445 Main Court
-  city: Austin
-  state: MA

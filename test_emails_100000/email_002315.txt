@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Parker
-  email: jennifer.parker4389@gmail.com
-  phone: +1 991-619-8138
-  ssn: 366 60 8751
-  dob: 06-10-1963
-  address: 9776 Cedar Ave
-  city: Dallas
-  state: CO

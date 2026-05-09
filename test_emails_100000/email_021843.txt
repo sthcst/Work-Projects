@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Alvarado,christine.alvarado3723@outlook.com,+1 528-959-3733,171221007,02-20-1988,"2241 Maple Way",Dallas,CO

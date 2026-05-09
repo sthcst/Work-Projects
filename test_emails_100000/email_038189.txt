@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Wilson,megan.wilson7786@gmail.com,975-728-2983,754-74-3183,11/12/2005,"7026 Fifth Blvd",Austin,WI

@@ -1,9 +1,0 @@
-contact:
-  name: Helen Hall
-  email: helen.hall6174@company.com
-  phone: +1 737-470-2505
-  ssn: 283306329
-  dob: 15/11/1951
-  address: 8855 Pine Rd
-  city: San Antonio
-  state: FL

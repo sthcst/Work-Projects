@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Jimenez,amanda.jimenez2202@outlook.com,235 463 5754,603-34-1830,07-07-1969,"8351 Sixth Rd",Boston,WA

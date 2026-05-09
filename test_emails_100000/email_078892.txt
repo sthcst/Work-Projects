@@ -1,9 +1,0 @@
-contact:
-  name: Maria Walker
-  email: maria.walker5677@mail.com
-  phone: (540) 722-2635
-  ssn: 552579427
-  dob: 08/28/1951
-  address: 2634 South St
-  city: Philadelphia
-  state: NC

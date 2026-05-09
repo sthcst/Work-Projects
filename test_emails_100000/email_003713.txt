@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Sanchez
-  email: timothy.sanchez2129@work.org
-  phone: +1 545-477-1266
-  ssn: 890 43 7040
-  dob: 1/26/1984
-  address: 4301 Fourth Dr
-  city: New York
-  state: TX

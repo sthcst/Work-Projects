@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Parker,richard.parker2084@work.org,636 782 7640,070-15-7797,07/02/2000,"4973 Spring Rd",Washington,DC

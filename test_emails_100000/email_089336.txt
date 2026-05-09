@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Roberts
-  email: sarah.roberts2137@gmail.com
-  phone: 653 459 4563
-  ssn: 544725126
-  dob: 07/04/1976
-  address: 276 Cedar Way
-  city: San Antonio
-  state: MA

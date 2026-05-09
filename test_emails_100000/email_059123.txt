@@ -1,9 +1,0 @@
-contact:
-  name: Mark Cooper
-  email: mark.cooper8675@business.net
-  phone: (841) 587-5679
-  ssn: 045535586
-  dob: 07-10-1973
-  address: 4308 North Way
-  city: Dallas
-  state: TX

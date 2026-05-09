@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Perez,stephanie.perez9548@company.com,(831) 323-3697,356-20-2666,03-22-1976,"2594 Oak Rd",Denver,TX

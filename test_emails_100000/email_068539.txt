@@ -1,9 +1,0 @@
-contact:
-  name: George Lopez
-  email: george.lopez377@mail.com
-  phone: (782) 246-4386
-  ssn: 399618342
-  dob: 15/12/1991
-  address: 2005 Fifth Blvd
-  city: Philadelphia
-  state: TX

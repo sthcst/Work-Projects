@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Rodriguez,ashley.rodriguez7017@gmail.com,(709) 611-4929,770 87 7144,12-16-1973,"5644 Summer Blvd",Chicago,GA

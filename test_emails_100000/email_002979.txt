@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Lee
-  email: kenneth.lee7610@outlook.com
-  phone: 478 854 8174
-  ssn: 355984322
-  dob: 11/18/1978
-  address: 562 Elm Dr
-  city: Phoenix
-  state: MD

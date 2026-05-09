@@ -1,9 +1,0 @@
-contact:
-  name: Charles Bell
-  email: charles.bell1952@business.net
-  phone: 968-994-1189
-  ssn: 323 46 2902
-  dob: 9/23/2003
-  address: 4397 Maple St
-  city: Seattle
-  state: TX

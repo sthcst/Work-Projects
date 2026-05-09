@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Rogers
-  email: deborah.rogers9756@outlook.com
-  phone: (637) 631-7888
-  ssn: 179308965
-  dob: 2/2/1953
-  address: 7206 Summer Blvd
-  city: Boston
-  state: IL

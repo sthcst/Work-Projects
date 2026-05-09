@@ -1,9 +1,0 @@
-contact:
-  name: Paul Rodriguez
-  email: paul.rodriguez695@work.org
-  phone: +1 995-934-5005
-  ssn: 724568176
-  dob: 12/03/1992
-  address: 1481 Fourth Dr
-  city: Los Angeles
-  state: NC

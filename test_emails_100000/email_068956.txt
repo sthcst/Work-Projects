@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Flores
-  email: rachel.flores9401@business.net
-  phone: 592 261 6281
-  ssn: 367168627
-  dob: 06/02/1977
-  address: 7412 Spring Ln
-  city: Boston
-  state: CA

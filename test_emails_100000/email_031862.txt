@@ -1,9 +1,0 @@
-contact:
-  name: George Garcia
-  email: george.garcia2686@outlook.com
-  phone: (784) 986-9273
-  ssn: 376343098
-  dob: 06-18-1995
-  address: 4293 Pine St
-  city: Jacksonville
-  state: NC

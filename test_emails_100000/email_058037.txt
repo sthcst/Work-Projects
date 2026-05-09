@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Smith
-  email: nicole.smith5306@company.com
-  phone: +1 821-727-6656
-  ssn: 356-64-1124
-  dob: 09/20/1998
-  address: 2085 Summer Ave
-  city: Denver
-  state: TX

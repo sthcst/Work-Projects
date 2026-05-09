@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Flores,katherine.flores788@outlook.com,+1 463-540-7623,830-80-4768,09/10/1967,"6597 East Ave",Los Angeles,VA

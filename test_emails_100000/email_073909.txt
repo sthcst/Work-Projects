@@ -1,9 +1,0 @@
-contact:
-  name: Richard Serrano
-  email: richard.serrano9169@gmail.com
-  phone: 597 871 2099
-  ssn: 222389127
-  dob: 02-06-1984
-  address: 8381 West St
-  city: San Jose
-  state: WA

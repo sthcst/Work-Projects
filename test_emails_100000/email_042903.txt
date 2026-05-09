@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Morgan,kimberly.morgan7111@work.org,255 602 3389,012245910,11-15-1987,"9813 Fifth Blvd",New York,GA

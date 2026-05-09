@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Jimenez,lisa.jimenez8239@business.net,(766) 974-3560,777411477,10-21-1989,"2254 Spring Ave",San Jose,FL

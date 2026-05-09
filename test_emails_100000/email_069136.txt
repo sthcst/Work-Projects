@@ -1,9 +1,0 @@
-contact:
-  name: Donald Evans
-  email: donald.evans319@gmail.com
-  phone: 262-454-7087
-  ssn: 385656866
-  dob: 05/09/1972
-  address: 5060 Second Way
-  city: Denver
-  state: MA

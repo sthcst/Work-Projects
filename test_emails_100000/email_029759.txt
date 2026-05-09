@@ -1,9 +1,0 @@
-contact:
-  name: George Thomas
-  email: george.thomas3171@example.com
-  phone: 748-984-3601
-  ssn: 716 97 9239
-  dob: 10-21-1970
-  address: 3654 First Court
-  city: New York
-  state: MI

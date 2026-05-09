@@ -1,9 +1,0 @@
-contact:
-  name: Emma Jones
-  email: emma.jones2848@business.net
-  phone: +1 714-287-6611
-  ssn: 729 48 8171
-  dob: 5/11/1981
-  address: 6821 First Court
-  city: New York
-  state: MA

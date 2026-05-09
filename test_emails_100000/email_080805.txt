@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Morris,shirley.morris6387@yahoo.com,517-870-2269,976 09 8902,09/27/1995,"765 West Ln",Philadelphia,AZ

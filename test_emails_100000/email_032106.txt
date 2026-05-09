@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Serrano,lisa.serrano5187@example.com,732 510 6774,342 12 9140,04/11/2003,"4181 Cedar Rd",Houston,TX

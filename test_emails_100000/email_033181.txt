@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Lopez
-  email: deborah.lopez7867@business.net
-  phone: 859 451 6508
-  ssn: 785 45 6129
-  dob: 05-08-1988
-  address: 7748 Maple Way
-  city: Seattle
-  state: CA

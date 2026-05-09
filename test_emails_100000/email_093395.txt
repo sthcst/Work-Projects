@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Bell
-  email: michelle.bell9846@business.net
-  phone: 522 737 5408
-  ssn: 122971148
-  dob: 12/4/1962
-  address: 606 North Ave
-  city: Washington
-  state: MD

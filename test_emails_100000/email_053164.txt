@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Cooper,ronald.cooper6627@yahoo.com,+1 338-318-3175,829 80 3602,04-22-1963,"7058 Pine Rd",New York,OH

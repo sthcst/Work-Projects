@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Peterson
-  email: lisa.peterson8445@gmail.com
-  phone: 800-978-4162
-  ssn: 171038190
-  dob: 07/10/1968
-  address: 7805 South Blvd
-  city: Phoenix
-  state: TN

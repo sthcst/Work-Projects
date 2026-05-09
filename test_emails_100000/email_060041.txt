@@ -1,9 +1,0 @@
-contact:
-  name: Jane Morris
-  email: jane.morris6645@company.com
-  phone: 669-464-7788
-  ssn: 515 95 3054
-  dob: 03-14-1989
-  address: 9899 Fourth Blvd
-  city: Seattle
-  state: AZ

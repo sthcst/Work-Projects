@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Serrano
-  email: ryan.serrano9289@outlook.com
-  phone: 993 715 8630
-  ssn: 593 35 4966
-  dob: 01/04/1950
-  address: 5153 First Blvd
-  city: San Diego
-  state: MO

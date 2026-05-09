@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Garcia,daniel.garcia8884@mail.com,(320) 360-7851,277152437,4/10/2004,"6663 Cedar St",Chicago,CA

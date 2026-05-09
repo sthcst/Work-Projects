@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Carter
-  email: shirley.carter4279@example.com
-  phone: (353) 729-4937
-  ssn: 922087620
-  dob: 06/22/1958
-  address: 8158 Summer Dr
-  city: Denver
-  state: MA

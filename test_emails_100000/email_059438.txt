@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Anderson
-  email: jeffrey.anderson2700@company.com
-  phone: 503 469 3711
-  ssn: 415-18-5208
-  dob: 18/07/1952
-  address: 3045 Summer Court
-  city: Boston
-  state: CA

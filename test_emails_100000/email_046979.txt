@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Robinson
-  email: joshua.robinson1700@yahoo.com
-  phone: 782 577 2985
-  ssn: 816344007
-  dob: 08-15-1995
-  address: 1642 West Ln
-  city: Philadelphia
-  state: TX

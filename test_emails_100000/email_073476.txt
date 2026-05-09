@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Robinson
-  email: katherine.robinson8271@example.com
-  phone: (293) 420-7296
-  ssn: 949-03-6915
-  dob: 01/10/2000
-  address: 7913 North Way
-  city: Denver
-  state: OH

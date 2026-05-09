@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Romero,kathleen.romero8660@gmail.com,926 746 1299,446 28 1231,11/06/1970,"9590 Elm Ln",San Diego,FL

@@ -1,9 +1,0 @@
-contact:
-  name: Mark Davis
-  email: mark.davis1604@yahoo.com
-  phone: 646-386-5243
-  ssn: 253 41 8966
-  dob: 02/20/1985
-  address: 3591 Park Dr
-  city: San Antonio
-  state: VA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Romero,jeffrey.romero8060@business.net,+1 933-397-7769,858716838,27/10/1991,"5610 South Blvd",Houston,WA

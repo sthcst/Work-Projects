@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Collins
-  email: pamela.collins4788@business.net
-  phone: 907-471-1846
-  ssn: 771-60-8597
-  dob: 05-01-1970
-  address: 2297 Spring Dr
-  city: Jacksonville
-  state: OH

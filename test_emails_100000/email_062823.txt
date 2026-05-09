@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Guerrero
-  email: nicole.guerrero1618@company.com
-  phone: +1 944-781-6225
-  ssn: 956213246
-  dob: 02/10/1992
-  address: 791 Third St
-  city: Philadelphia
-  state: OH

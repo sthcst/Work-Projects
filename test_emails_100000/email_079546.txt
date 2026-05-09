@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Williams,jason.williams9859@gmail.com,405-989-1587,908 56 3527,5/26/1993,"130 Birch St",Chicago,TX

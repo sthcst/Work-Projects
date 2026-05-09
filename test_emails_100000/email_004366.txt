@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Gonzalez
-  email: ashley.gonzalez4704@yahoo.com
-  phone: 293-552-2968
-  ssn: 527 36 1868
-  dob: 04/11/1999
-  address: 8281 Second Way
-  city: Seattle
-  state: FL

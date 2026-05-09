@@ -1,9 +1,0 @@
-contact:
-  name: Mark Perez
-  email: mark.perez2954@yahoo.com
-  phone: 299 251 5810
-  ssn: 593541617
-  dob: 08/11/1980
-  address: 754 Park Court
-  city: San Jose
-  state: MO

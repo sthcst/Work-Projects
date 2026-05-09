@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Martin,ronald.martin4905@mail.com,754-999-4963,510 49 9328,03-17-1954,"4017 Fifth Blvd",Dallas,DC

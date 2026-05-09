@@ -1,9 +1,0 @@
-contact:
-  name: Maria Garcia
-  email: maria.garcia7500@outlook.com
-  phone: 261 557 2658
-  ssn: 854431935
-  dob: 10/5/1971
-  address: 9942 Elm Court
-  city: Boston
-  state: WI

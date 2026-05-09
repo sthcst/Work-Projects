@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Brown,jane.brown394@company.com,455 700 6932,520 85 9451,07/15/1963,"1628 Elm St",Philadelphia,AZ

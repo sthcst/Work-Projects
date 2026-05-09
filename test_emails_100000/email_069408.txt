@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Flores,michelle.flores9218@business.net,+1 607-227-7477,117-91-8219,11/06/2000,"2931 West Way",Houston,DC

@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Peterson
-  email: michelle.peterson7964@mail.com
-  phone: (415) 461-3283
-  ssn: 747801376
-  dob: 07/05/1988
-  address: 7701 West Way
-  city: Denver
-  state: CA

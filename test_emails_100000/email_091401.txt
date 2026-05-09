@@ -1,9 +1,0 @@
-contact:
-  name: Jane Jimenez
-  email: jane.jimenez3717@mail.com
-  phone: +1 757-548-2254
-  ssn: 632972299
-  dob: 22/10/1975
-  address: 5993 East Blvd
-  city: Austin
-  state: TX

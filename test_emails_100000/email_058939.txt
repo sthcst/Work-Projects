@@ -1,9 +1,0 @@
-contact:
-  name: John Ramirez
-  email: john.ramirez444@example.com
-  phone: 591 736 3997
-  ssn: 077 26 3616
-  dob: 6/23/1962
-  address: 3876 First Blvd
-  city: Denver
-  state: NJ

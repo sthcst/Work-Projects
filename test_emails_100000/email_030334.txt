@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Jones,charles.jones6386@example.com,(208) 260-3469,100015885,09-08-2001,"4678 North Rd",Chicago,TX

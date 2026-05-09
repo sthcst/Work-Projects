@@ -1,9 +1,0 @@
-contact:
-  name: Donald Nunez
-  email: donald.nunez7126@yahoo.com
-  phone: 661 812 7162
-  ssn: 029 50 2594
-  dob: 01-04-1982
-  address: 5823 Main Rd
-  city: Seattle
-  state: MD

@@ -1,9 +1,0 @@
-contact:
-  name: Brian Roberts
-  email: brian.roberts5048@work.org
-  phone: 934-310-9825
-  ssn: 001 76 3547
-  dob: 6/28/1971
-  address: 7561 Oak Court
-  city: Jacksonville
-  state: DC

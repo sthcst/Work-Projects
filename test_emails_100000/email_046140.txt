@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Morris
-  email: jessica.morris2131@business.net
-  phone: (630) 649-6469
-  ssn: 207-95-9026
-  dob: 24/05/1987
-  address: 5482 North Blvd
-  city: Los Angeles
-  state: OH

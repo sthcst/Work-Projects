@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Young,kenneth.young7503@example.com,(358) 567-8128,511 45 9010,04-14-1975,"2374 West St",Philadelphia,WA

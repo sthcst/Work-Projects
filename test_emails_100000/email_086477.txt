@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Martin
-  email: michelle.martin8640@business.net
-  phone: (579) 498-9727
-  ssn: 121-91-5337
-  dob: 27/12/1972
-  address: 6610 Park Ave
-  city: Houston
-  state: FL

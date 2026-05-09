@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Thomas
-  email: amanda.thomas6156@work.org
-  phone: 301 275 2541
-  ssn: 137-92-5047
-  dob: 12/20/1984
-  address: 4820 First Court
-  city: Washington
-  state: NJ

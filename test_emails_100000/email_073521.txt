@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Jimenez
-  email: rachel.jimenez5748@mail.com
-  phone: 308 946 9437
-  ssn: 362 81 2302
-  dob: 08/06/1964
-  address: 6617 Third St
-  city: Houston
-  state: MA

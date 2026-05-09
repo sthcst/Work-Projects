@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Rodriguez,lauren.rodriguez6382@example.com,431-604-6869,754484904,3/14/1996,"5326 Sixth Ave",Phoenix,IL

@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Morris
-  email: matthew.morris4700@outlook.com
-  phone: (810) 652-5093
-  ssn: 777 51 9849
-  dob: 9/4/1951
-  address: 1602 Spring Ave
-  city: Los Angeles
-  state: CA

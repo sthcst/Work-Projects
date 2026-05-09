@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Jones
-  email: katherine.jones6417@business.net
-  phone: 688 830 8642
-  ssn: 786 58 8218
-  dob: 25/04/1970
-  address: 6220 Third Ave
-  city: San Diego
-  state: VA

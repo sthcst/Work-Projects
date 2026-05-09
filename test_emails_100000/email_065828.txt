@@ -1,9 +1,0 @@
-contact:
-  name: Anna Clark
-  email: anna.clark1781@business.net
-  phone: +1 488-654-8875
-  ssn: 922 15 6949
-  dob: 05-06-1972
-  address: 1779 South Ave
-  city: San Antonio
-  state: IL

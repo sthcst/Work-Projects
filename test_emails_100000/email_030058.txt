@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Harris,edward.harris9965@work.org,(679) 960-9965,870 06 3820,10/26/1956,"7145 First Ave",Boston,PA

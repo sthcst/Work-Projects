@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Taylor
-  email: samantha.taylor3610@business.net
-  phone: +1 513-216-8030
-  ssn: 535-16-9198
-  dob: 4/13/1979
-  address: 3387 Maple Rd
-  city: Houston
-  state: MO

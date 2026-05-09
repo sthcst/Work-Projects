@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Brown
-  email: jeffrey.brown713@business.net
-  phone: +1 622-816-1879
-  ssn: 876309450
-  dob: 06-10-2003
-  address: 7614 Park Way
-  city: Seattle
-  state: CA

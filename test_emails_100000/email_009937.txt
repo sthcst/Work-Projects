@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Parker,kenneth.parker568@mail.com,756-709-9325,370307281,03/14/1951,"9254 First Rd",Phoenix,MA

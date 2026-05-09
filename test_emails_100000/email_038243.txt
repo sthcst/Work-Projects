@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Wilson,jessica.wilson8947@company.com,988-827-1096,793377163,06-09-1961,"7979 Birch St",San Antonio,FL

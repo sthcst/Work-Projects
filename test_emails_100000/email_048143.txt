@@ -1,9 +1,0 @@
-contact:
-  name: Edward Lee
-  email: edward.lee7898@company.com
-  phone: +1 610-407-6048
-  ssn: 390 43 2511
-  dob: 03/10/1987
-  address: 1256 Main Ave
-  city: Philadelphia
-  state: TX

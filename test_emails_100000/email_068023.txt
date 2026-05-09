@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Williams,deborah.williams9100@business.net,(590) 698-6019,057266340,16/10/1981,"7361 First Blvd",Philadelphia,NJ

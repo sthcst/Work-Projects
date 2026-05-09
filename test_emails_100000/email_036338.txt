@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Robinson,jane.robinson7270@example.com,275 932 6797,658 27 3936,10/04/1975,"3035 Park Ave",Phoenix,MD

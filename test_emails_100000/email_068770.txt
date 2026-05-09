@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Reed,ronald.reed2458@yahoo.com,699 359 6789,020 29 7764,03/21/1953,"1948 Elm Court",Dallas,TX

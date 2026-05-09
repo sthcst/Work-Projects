@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Young
-  email: deborah.young5992@yahoo.com
-  phone: 292-264-3686
-  ssn: 336105597
-  dob: 03-11-1994
-  address: 2632 South Ln
-  city: San Antonio
-  state: FL

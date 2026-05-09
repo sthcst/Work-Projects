@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Morris,kevin.morris2461@work.org,+1 590-573-5789,031 47 8481,03/09/1997,"48 East Way",Chicago,TX

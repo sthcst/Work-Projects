@@ -1,9 +1,0 @@
-contact:
-  name: Paul Edwards
-  email: paul.edwards850@example.com
-  phone: +1 851-635-6819
-  ssn: 099-19-3967
-  dob: 4/17/2004
-  address: 5723 Elm Dr
-  city: Austin
-  state: WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Hall,nicole.hall696@company.com,595-944-8545,223-48-9331,8/23/1987,"1177 East St",Jacksonville,PA

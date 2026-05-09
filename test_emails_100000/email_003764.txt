@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Miller,donald.miller5192@yahoo.com,(532) 577-2812,936247785,5/1/1951,"9117 First Blvd",Austin,OH

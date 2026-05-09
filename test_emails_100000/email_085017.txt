@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Martin,pamela.martin1993@mail.com,995-332-1721,234 08 2347,8/14/1978,"5761 Fifth Ln",Jacksonville,WI

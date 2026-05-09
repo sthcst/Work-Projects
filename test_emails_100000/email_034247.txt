@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Evans,william.evans6991@work.org,+1 729-789-7502,652-23-2250,8/5/1983,"5120 East Ln",San Jose,GA

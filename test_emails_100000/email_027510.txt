@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Bell,kevin.bell6602@business.net,987 538 3105,445-65-9376,01-03-1997,"3860 Birch Court",New York,NJ

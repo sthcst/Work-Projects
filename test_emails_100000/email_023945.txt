@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Guerrero,rebecca.guerrero3138@mail.com,789 672 4807,793 53 4274,04-02-1971,"687 Pine Ave",Jacksonville,MD

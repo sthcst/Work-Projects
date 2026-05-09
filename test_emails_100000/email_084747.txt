@@ -1,9 +1,0 @@
-contact:
-  name: Anna Ramirez
-  email: anna.ramirez7738@outlook.com
-  phone: (536) 460-7758
-  ssn: 909244980
-  dob: 3/8/1958
-  address: 5094 Cedar Way
-  city: Jacksonville
-  state: MA

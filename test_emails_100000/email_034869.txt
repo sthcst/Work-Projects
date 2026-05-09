@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Peterson,brenda.peterson4182@business.net,612-853-1662,655234191,04-04-1978,"1965 First St",Phoenix,GA

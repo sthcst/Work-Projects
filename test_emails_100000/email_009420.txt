@@ -1,9 +1,0 @@
-contact:
-  name: Paul White
-  email: paul.white6539@business.net
-  phone: +1 466-337-6127
-  ssn: 545 80 6144
-  dob: 23/04/1996
-  address: 992 South Ave
-  city: San Jose
-  state: IL

@@ -1,9 +1,0 @@
-contact:
-  name: Angela Brown
-  email: angela.brown2320@outlook.com
-  phone: 416-384-6161
-  ssn: 188 67 9547
-  dob: 08/04/1967
-  address: 8078 Elm Ave
-  city: Washington
-  state: NY

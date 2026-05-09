@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Morris,richard.morris8199@business.net,411-999-8382,279714664,06/03/1975,"8595 Park Blvd",San Diego,VA

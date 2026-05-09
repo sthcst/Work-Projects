@@ -1,9 +1,0 @@
-contact:
-  name: Paul Serrano
-  email: paul.serrano5214@mail.com
-  phone: (591) 788-4726
-  ssn: 320-61-1552
-  dob: 10/8/1959
-  address: 1819 Third Blvd
-  city: San Diego
-  state: MD

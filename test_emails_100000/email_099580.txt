@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Alvarado
-  email: jennifer.alvarado6062@outlook.com
-  phone: (967) 475-2363
-  ssn: 044-83-8780
-  dob: 07/18/1954
-  address: 2997 Oak Dr
-  city: Denver
-  state: CO

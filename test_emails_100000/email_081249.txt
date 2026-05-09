@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Roberts,charles.roberts6756@company.com,961-271-6767,665 16 1769,04-24-1973,"4202 South Rd",Denver,MA

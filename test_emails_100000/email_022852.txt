@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Reed,paul.reed4570@outlook.com,285-646-4091,403086882,7/17/1994,"1963 Oak Blvd",Washington,WA

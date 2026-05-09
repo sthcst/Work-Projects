@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Gonzalez,rebecca.gonzalez5526@company.com,471 537 6558,771566200,06-03-1950,"8255 Pine Ln",Jacksonville,FL

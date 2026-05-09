@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Perez,shirley.perez8895@company.com,(484) 800-6246,125128926,01-03-2003,"6983 Park Rd",Austin,MA

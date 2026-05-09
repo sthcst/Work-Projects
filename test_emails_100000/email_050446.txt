@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Lee,christine.lee3953@yahoo.com,405-777-2582,374904398,10-02-1986,"2706 Spring Rd",Houston,NY

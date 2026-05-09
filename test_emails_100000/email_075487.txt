@@ -1,9 +1,0 @@
-contact:
-  name: Anna Gomez
-  email: anna.gomez3932@outlook.com
-  phone: 989-758-6241
-  ssn: 556-99-1393
-  dob: 04/06/1974
-  address: 4386 First St
-  city: Seattle
-  state: CA

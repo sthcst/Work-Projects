@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Morris,steven.morris769@yahoo.com,(919) 876-3873,912-61-8235,11/02/1951,"3071 Fourth Way",San Diego,NY

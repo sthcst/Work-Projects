@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Evans,mark.evans7102@outlook.com,540-698-3228,799523141,09-11-1961,"3861 Fifth Blvd",Seattle,MI

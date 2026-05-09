@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Delgado
-  email: brenda.delgado1594@gmail.com
-  phone: +1 936-929-6858
-  ssn: 188-40-8329
-  dob: 16/08/1984
-  address: 8276 Fourth Blvd
-  city: Jacksonville
-  state: IL

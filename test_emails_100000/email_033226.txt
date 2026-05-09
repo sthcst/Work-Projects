@@ -1,9 +1,0 @@
-contact:
-  name: Emily Jackson
-  email: emily.jackson9266@business.net
-  phone: 928-901-4789
-  ssn: 404 12 6622
-  dob: 14/01/1974
-  address: 5630 Spring Rd
-  city: New York
-  state: CA

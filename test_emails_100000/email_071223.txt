@@ -1,9 +1,0 @@
-contact:
-  name: Edward Taylor
-  email: edward.taylor3368@yahoo.com
-  phone: 801 330 4249
-  ssn: 345 39 5818
-  dob: 03/23/1993
-  address: 2376 Fourth Court
-  city: Seattle
-  state: WI

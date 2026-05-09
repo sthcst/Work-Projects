@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Jones,cynthia.jones1833@company.com,(536) 760-7302,044-69-4336,07-05-1989,"1036 First Rd",San Jose,IL

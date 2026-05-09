@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Bell
-  email: katherine.bell964@gmail.com
-  phone: (980) 757-5326
-  ssn: 756-74-5704
-  dob: 06-08-1964
-  address: 7175 East Ln
-  city: Philadelphia
-  state: TX

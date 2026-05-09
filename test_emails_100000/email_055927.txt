@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Williams,charles.williams6534@example.com,655-609-6293,560-97-9395,08/02/1990,"7613 North Dr",Chicago,MO

@@ -1,9 +1,0 @@
-contact:
-  name: Charles Brown
-  email: charles.brown1476@company.com
-  phone: 207 548 8997
-  ssn: 735286120
-  dob: 01/27/1972
-  address: 5205 Third Rd
-  city: Los Angeles
-  state: PA

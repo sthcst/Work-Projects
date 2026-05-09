@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Collins,joseph.collins4140@company.com,(212) 464-4479,609322846,01-23-2002,"2363 Fourth Court",Los Angeles,MI

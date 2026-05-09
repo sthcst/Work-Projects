@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Garcia,anna.garcia9284@work.org,325-854-5652,159 71 4224,7/15/1993,"99 Birch Rd",Denver,MA

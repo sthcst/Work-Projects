@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Rodriguez
-  email: joseph.rodriguez4896@gmail.com
-  phone: (558) 999-1621
-  ssn: 551946241
-  dob: 10-13-1984
-  address: 2200 Oak Dr
-  city: San Antonio
-  state: CA

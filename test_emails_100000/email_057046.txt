@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Roberts
-  email: pamela.roberts8011@gmail.com
-  phone: +1 628-243-3124
-  ssn: 499-93-5898
-  dob: 4/17/1967
-  address: 5092 Spring Ln
-  city: Jacksonville
-  state: MI

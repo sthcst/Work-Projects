@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Roberts
-  email: samantha.roberts830@work.org
-  phone: (206) 631-3440
-  ssn: 249-32-5372
-  dob: 07-27-1995
-  address: 6942 Elm Way
-  city: San Antonio
-  state: PA

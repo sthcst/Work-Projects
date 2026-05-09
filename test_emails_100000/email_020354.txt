@@ -1,9 +1,0 @@
-contact:
-  name: David Stewart
-  email: david.stewart9515@example.com
-  phone: (727) 747-7495
-  ssn: 490183105
-  dob: 07-16-1958
-  address: 7612 West St
-  city: Washington
-  state: DC

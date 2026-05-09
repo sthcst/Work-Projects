@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Walker
-  email: michelle.walker1875@yahoo.com
-  phone: 673-279-1097
-  ssn: 949-55-3158
-  dob: 12-09-1999
-  address: 2732 Birch Rd
-  city: Austin
-  state: MI

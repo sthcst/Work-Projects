@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Delgado,katherine.delgado3867@yahoo.com,+1 887-887-2216,858559579,06/05/1958,"2553 Third Blvd",Jacksonville,CO

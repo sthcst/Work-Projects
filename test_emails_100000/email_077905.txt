@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Clark,john.clark8600@yahoo.com,555-864-7989,007607177,11/08/1956,"4021 Maple Ln",Jacksonville,MA

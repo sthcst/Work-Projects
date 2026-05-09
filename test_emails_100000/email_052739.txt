@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Morris,donald.morris6798@company.com,(307) 529-3286,014746139,04-07-1967,"9890 Third Ln",San Jose,WI

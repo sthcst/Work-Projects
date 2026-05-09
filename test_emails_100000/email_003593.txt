@@ -1,9 +1,0 @@
-contact:
-  name: William Lewis
-  email: william.lewis9974@gmail.com
-  phone: 302 213 5606
-  ssn: 925-07-7398
-  dob: 04/04/1967
-  address: 6472 Second Ln
-  city: New York
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Thomas
-  email: katherine.thomas2653@gmail.com
-  phone: 530-408-4058
-  ssn: 282808862
-  dob: 21/04/1990
-  address: 3823 North Ln
-  city: Jacksonville
-  state: CA

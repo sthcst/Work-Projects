@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Lee,edward.lee4417@gmail.com,764 591 1071,908 16 7942,22/10/1966,"696 Cedar Ave",Denver,CA

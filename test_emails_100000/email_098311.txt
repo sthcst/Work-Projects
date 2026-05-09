@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Hernandez
-  email: andrew.hernandez3274@yahoo.com
-  phone: +1 487-291-9278
-  ssn: 611 40 6294
-  dob: 05/04/1984
-  address: 6706 Oak St
-  city: Houston
-  state: MD

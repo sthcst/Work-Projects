@@ -1,9 +1,0 @@
-contact:
-  name: Megan White
-  email: megan.white3331@company.com
-  phone: 842-770-3017
-  ssn: 405646401
-  dob: 05/04/1962
-  address: 2420 Fourth St
-  city: Seattle
-  state: TX

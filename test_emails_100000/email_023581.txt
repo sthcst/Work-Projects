@@ -1,9 +1,0 @@
-contact:
-  name: Jason Davis
-  email: jason.davis5721@gmail.com
-  phone: 328 791 5150
-  ssn: 113 25 7537
-  dob: 11/03/1952
-  address: 8809 Park Way
-  city: San Antonio
-  state: NC

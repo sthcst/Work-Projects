@@ -1,9 +1,0 @@
-contact:
-  name: Helen Rogers
-  email: helen.rogers7265@gmail.com
-  phone: +1 822-695-8354
-  ssn: 349309096
-  dob: 1/6/1962
-  address: 5618 Main Blvd
-  city: Los Angeles
-  state: NY

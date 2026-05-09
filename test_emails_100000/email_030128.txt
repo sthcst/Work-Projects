@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Dominguez,michael.dominguez747@example.com,(902) 976-9462,816 53 6921,04/12/2005,"120 West Court",San Jose,WI

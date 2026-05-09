@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Thompson
-  email: rebecca.thompson8063@mail.com
-  phone: +1 935-990-5209
-  ssn: 612-97-6209
-  dob: 11/4/1982
-  address: 8503 Fifth Dr
-  city: Boston
-  state: NJ

@@ -1,9 +1,0 @@
-contact:
-  name: Charles Rodriguez
-  email: charles.rodriguez5218@mail.com
-  phone: (842) 938-7339
-  ssn: 774729070
-  dob: 05-20-1986
-  address: 6013 Pine St
-  city: Philadelphia
-  state: MI

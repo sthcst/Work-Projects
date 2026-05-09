@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Gonzalez,lauren.gonzalez1264@yahoo.com,896 462 6276,072682927,15/08/1969,"7846 Park Blvd",Boston,MA

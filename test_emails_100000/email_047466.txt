@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Morris,kathleen.morris833@yahoo.com,+1 860-252-3131,169899488,09/25/1992,"7244 Pine Blvd",Los Angeles,CA

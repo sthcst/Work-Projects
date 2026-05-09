@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Lewis,william.lewis4139@gmail.com,+1 984-396-8217,416999788,5/28/1952,"7308 West Court",San Diego,WA

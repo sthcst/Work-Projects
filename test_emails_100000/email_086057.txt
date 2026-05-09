@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Morris
-  email: kathleen.morris3301@mail.com
-  phone: +1 539-352-2659
-  ssn: 566-91-4808
-  dob: 03/02/1957
-  address: 1045 Pine Blvd
-  city: Denver
-  state: VA

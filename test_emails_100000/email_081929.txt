@@ -1,9 +1,0 @@
-contact:
-  name: Michael Young
-  email: michael.young4819@business.net
-  phone: 398-605-3799
-  ssn: 616364381
-  dob: 11/24/1971
-  address: 1592 Elm Ln
-  city: San Diego
-  state: MD

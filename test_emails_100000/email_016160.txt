@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Wilson
-  email: matthew.wilson2699@business.net
-  phone: 624 895 6805
-  ssn: 439-31-6330
-  dob: 03/16/1972
-  address: 1726 Third Ln
-  city: Los Angeles
-  state: TX

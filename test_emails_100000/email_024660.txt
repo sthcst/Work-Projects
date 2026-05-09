@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Martinez,anthony.martinez836@outlook.com,(390) 644-2978,299 75 8510,05-13-1997,"8941 Spring Rd",Seattle,WA

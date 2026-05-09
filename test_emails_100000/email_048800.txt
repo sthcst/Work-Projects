@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Nelson
-  email: joshua.nelson8221@business.net
-  phone: 301-643-4483
-  ssn: 235-36-5601
-  dob: 5/24/1963
-  address: 7083 Second Court
-  city: Denver
-  state: TN

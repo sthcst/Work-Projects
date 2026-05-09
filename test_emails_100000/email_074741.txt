@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Reeves,helen.reeves8070@company.com,+1 333-461-6971,200408218,09/03/1972,"6844 Second Court",Austin,CA

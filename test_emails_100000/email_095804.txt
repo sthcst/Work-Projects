@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Lopez
-  email: sarah.lopez7066@outlook.com
-  phone: 950-262-7098
-  ssn: 222 29 3765
-  dob: 26/09/1981
-  address: 5389 Summer Dr
-  city: Dallas
-  state: CA

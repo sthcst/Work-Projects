@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Reed,stephanie.reed153@gmail.com,(531) 449-5543,909 80 2650,11-04-1968,"4415 East Ave",Boston,TX

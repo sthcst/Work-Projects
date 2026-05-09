@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Collins,kathleen.collins6858@company.com,748 431 7122,257101990,06/04/1996,"7583 Fourth Court",Denver,MO

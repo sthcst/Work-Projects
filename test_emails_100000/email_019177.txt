@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Reyes,daniel.reyes6673@gmail.com,795-567-5576,943-22-4357,07/11/1978,"6680 Fourth Ave",Jacksonville,NJ

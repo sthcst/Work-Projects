@@ -1,9 +1,0 @@
-contact:
-  name: Maria Phillips
-  email: maria.phillips7261@business.net
-  phone: 879-979-3704
-  ssn: 833585297
-  dob: 04-08-1966
-  address: 8182 Fifth Court
-  city: Philadelphia
-  state: CO

@@ -1,9 +1,0 @@
-contact:
-  name: Angela Wilson
-  email: angela.wilson4941@company.com
-  phone: 809-839-4875
-  ssn: 018 30 4916
-  dob: 17/09/2001
-  address: 519 Oak Blvd
-  city: Washington
-  state: TX

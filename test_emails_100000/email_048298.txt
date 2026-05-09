@@ -1,9 +1,0 @@
-contact:
-  name: Robert Reeves
-  email: robert.reeves3741@gmail.com
-  phone: +1 576-773-3999
-  ssn: 031 27 9998
-  dob: 24/04/1954
-  address: 540 Third Ave
-  city: San Antonio
-  state: AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Anderson,brian.anderson8904@yahoo.com,735 661 5007,320-68-7489,4/8/1992,"9836 Sixth Dr",San Diego,DC

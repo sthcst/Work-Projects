@@ -1,9 +1,0 @@
-contact:
-  name: James Reed
-  email: james.reed6513@outlook.com
-  phone: (629) 986-4143
-  ssn: 345 72 3570
-  dob: 28/09/1954
-  address: 3431 First Way
-  city: Houston
-  state: WI

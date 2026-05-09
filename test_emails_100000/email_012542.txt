@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Edwards
-  email: kathleen.edwards7479@mail.com
-  phone: (468) 992-5459
-  ssn: 181058173
-  dob: 13/12/1974
-  address: 7069 Pine Court
-  city: New York
-  state: TX

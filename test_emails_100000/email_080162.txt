@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Taylor
-  email: ashley.taylor6514@outlook.com
-  phone: +1 521-825-1804
-  ssn: 241-06-1017
-  dob: 3/15/1954
-  address: 7278 Main Rd
-  city: New York
-  state: CA

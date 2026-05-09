@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Anderson,maria.anderson977@business.net,359 803 4352,652 08 2354,03/11/1981,"8629 Fifth Ave",San Jose,DC

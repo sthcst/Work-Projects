@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Hernandez,emma.hernandez5110@company.com,949 337 6800,166748492,7/8/1995,"3870 Oak Blvd",Denver,TX

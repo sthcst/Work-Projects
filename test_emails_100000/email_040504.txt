@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Bell,katherine.bell6272@work.org,+1 476-849-4797,156 66 5239,11/08/1964,"9530 Elm Blvd",Boston,IL

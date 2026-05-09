@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Reed,joseph.reed7871@company.com,290-925-8561,316 13 9938,08-18-2000,"1644 Fourth Dr",Jacksonville,TN

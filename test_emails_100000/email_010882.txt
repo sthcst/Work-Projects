@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Ortiz,mark.ortiz4192@mail.com,940 626 4471,490175683,15/03/1994,"1782 Summer Blvd",New York,IL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Hernandez,paul.hernandez6500@yahoo.com,+1 656-739-3426,392 12 9266,8/12/1982,"9657 Spring Ln",Los Angeles,FL

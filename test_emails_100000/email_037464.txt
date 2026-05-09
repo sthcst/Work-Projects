@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Gonzalez
-  email: deborah.gonzalez9262@gmail.com
-  phone: (688) 469-6301
-  ssn: 155069287
-  dob: 12/18/2004
-  address: 3506 Park St
-  city: Washington
-  state: WA

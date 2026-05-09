@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Bell,andrew.bell9868@outlook.com,747 859 1891,412 18 1764,07/20/1994,"103 Oak St",Houston,CA

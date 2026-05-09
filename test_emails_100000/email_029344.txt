@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Campbell,angela.campbell7100@example.com,(672) 282-5755,064-29-2177,6/25/1958,"4680 Summer Rd",Austin,NY

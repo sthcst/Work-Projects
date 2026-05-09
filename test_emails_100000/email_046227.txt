@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Thomas,katherine.thomas666@business.net,+1 452-344-4163,065889412,6/27/1983,"5459 Summer Ln",Chicago,GA

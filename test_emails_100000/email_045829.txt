@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Moore,charles.moore2680@gmail.com,+1 317-460-5865,634-45-7931,12/02/1950,"4322 Main Dr",Dallas,DC

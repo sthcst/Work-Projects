@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Garcia,brian.garcia400@yahoo.com,659-643-6833,706136870,02/12/1979,"9369 Main St",San Jose,TX

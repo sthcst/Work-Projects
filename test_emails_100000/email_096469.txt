@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Delgado,maria.delgado9478@outlook.com,311-780-6094,340-68-3398,06-21-1991,"1012 East Blvd",Phoenix,PA

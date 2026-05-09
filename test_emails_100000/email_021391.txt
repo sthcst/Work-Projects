@@ -1,9 +1,0 @@
-contact:
-  name: Mark Collins
-  email: mark.collins8234@example.com
-  phone: 729-426-3242
-  ssn: 635 01 3903
-  dob: 11/14/2002
-  address: 5509 Birch Dr
-  city: Washington
-  state: NY

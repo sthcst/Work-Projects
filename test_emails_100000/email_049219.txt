@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Reeves
-  email: jennifer.reeves4677@mail.com
-  phone: 691-598-7704
-  ssn: 554 47 8947
-  dob: 3/1/2004
-  address: 453 Second Way
-  city: San Antonio
-  state: IL

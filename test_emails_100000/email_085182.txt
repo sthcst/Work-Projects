@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Thompson,joseph.thompson9353@business.net,+1 524-430-7965,366294688,06-12-2005,"9057 West St",Washington,MD

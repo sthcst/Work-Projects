@@ -1,9 +1,0 @@
-contact:
-  name: Robert Bell
-  email: robert.bell4859@outlook.com
-  phone: +1 559-200-2852
-  ssn: 144 34 4617
-  dob: 9/21/1959
-  address: 9905 Spring Dr
-  city: San Antonio
-  state: TX

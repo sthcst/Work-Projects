@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Morris,timothy.morris8417@gmail.com,(628) 932-1005,148182366,03-05-2002,"1794 Summer Ln",Austin,NC

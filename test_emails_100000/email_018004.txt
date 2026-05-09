@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Garcia
-  email: kathleen.garcia7867@mail.com
-  phone: (522) 764-8148
-  ssn: 225 24 3872
-  dob: 12/12/1979
-  address: 6564 First Ave
-  city: New York
-  state: MA

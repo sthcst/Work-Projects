@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Robinson,lauren.robinson8205@mail.com,659-429-7652,506515736,7/4/1968,"1555 Maple Way",San Antonio,CA

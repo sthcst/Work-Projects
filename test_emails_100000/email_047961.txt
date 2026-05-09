@@ -1,9 +1,0 @@
-contact:
-  name: Richard Roberts
-  email: richard.roberts7176@outlook.com
-  phone: (744) 510-6637
-  ssn: 847-21-7163
-  dob: 07-26-1961
-  address: 1963 First Dr
-  city: San Jose
-  state: GA

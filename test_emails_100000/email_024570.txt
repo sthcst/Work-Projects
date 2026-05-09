@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Gonzalez,anna.gonzalez5688@mail.com,+1 688-600-3884,922352934,05/02/1967,"3054 Elm St",Dallas,NC

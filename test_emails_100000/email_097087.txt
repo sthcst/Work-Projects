@@ -1,9 +1,0 @@
-contact:
-  name: Christine Anderson
-  email: christine.anderson2567@gmail.com
-  phone: (690) 924-7733
-  ssn: 094361593
-  dob: 10/12/2004
-  address: 2787 Second Court
-  city: San Jose
-  state: CA

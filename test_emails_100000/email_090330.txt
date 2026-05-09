@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Harris
-  email: timothy.harris8449@business.net
-  phone: 734-974-9782
-  ssn: 721 35 9323
-  dob: 01/08/1989
-  address: 2539 Fourth Blvd
-  city: Philadelphia
-  state: NC

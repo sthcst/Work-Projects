@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Nunez,daniel.nunez10@business.net,+1 228-347-8826,147-69-6836,1/16/1950,"5665 Second Dr",Seattle,MD

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Murillo,ronald.murillo1243@gmail.com,(448) 811-2575,960865408,2/14/1980,"309 Oak Ln",Austin,TX

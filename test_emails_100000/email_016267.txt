@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Flores,rebecca.flores591@business.net,777 380 2492,970936534,01-20-1989,"3688 Main Court",Austin,MI

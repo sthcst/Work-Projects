@@ -1,9 +1,0 @@
-contact:
-  name: Donald Brown
-  email: donald.brown9097@work.org
-  phone: 754-596-1593
-  ssn: 701 16 5703
-  dob: 20/03/1961
-  address: 4086 Second Way
-  city: Dallas
-  state: VA

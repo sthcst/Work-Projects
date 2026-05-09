@@ -1,9 +1,0 @@
-contact:
-  name: Angela Miller
-  email: angela.miller538@company.com
-  phone: 527 949 3582
-  ssn: 238809484
-  dob: 8/16/1996
-  address: 2910 West Ln
-  city: San Diego
-  state: CO

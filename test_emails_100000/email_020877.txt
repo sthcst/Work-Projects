@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Flores,kenneth.flores9499@work.org,+1 717-490-3972,076864794,09-16-1998,"1589 Main Blvd",New York,DC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Thompson,maria.thompson8485@mail.com,976-536-6799,882-83-6568,09-17-1990,"26 Spring Ave",New York,VA

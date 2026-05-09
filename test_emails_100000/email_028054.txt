@@ -1,9 +1,0 @@
-contact:
-  name: Anna Evans
-  email: anna.evans936@work.org
-  phone: 695 712 7592
-  ssn: 092 67 8919
-  dob: 15/09/1978
-  address: 6229 North St
-  city: Los Angeles
-  state: MA

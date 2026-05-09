@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Phillips,paul.phillips3302@gmail.com,(324) 408-1606,782332998,03/25/1972,"1596 Park Ln",Philadelphia,WA

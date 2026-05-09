@@ -1,9 +1,0 @@
-contact:
-  name: Richard Flores
-  email: richard.flores4986@yahoo.com
-  phone: (411) 529-8226
-  ssn: 401-74-9997
-  dob: 06/07/1962
-  address: 4715 Maple Blvd
-  city: San Antonio
-  state: MO

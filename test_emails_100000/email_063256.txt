@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Jackson,stephanie.jackson5413@yahoo.com,(925) 447-9644,155253660,02-11-1958,"3838 Sixth Way",New York,NY

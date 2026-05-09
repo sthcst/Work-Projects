@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Roberts
-  email: shirley.roberts3756@yahoo.com
-  phone: (939) 463-2451
-  ssn: 358-79-7420
-  dob: 04/19/1958
-  address: 9751 East Court
-  city: San Jose
-  state: PA

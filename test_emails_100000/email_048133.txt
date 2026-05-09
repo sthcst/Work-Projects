@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Hall
-  email: sarah.hall4862@work.org
-  phone: (438) 982-1977
-  ssn: 625313022
-  dob: 8/12/1975
-  address: 2785 Fifth Dr
-  city: San Jose
-  state: OH

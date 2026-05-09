@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Phillips
-  email: kimberly.phillips2569@yahoo.com
-  phone: (850) 473-2181
-  ssn: 323955465
-  dob: 15/06/2004
-  address: 4752 First St
-  city: Houston
-  state: AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Campbell,steven.campbell1533@mail.com,(419) 590-9137,215-77-9150,9/7/1969,"3049 South Rd",Phoenix,AZ

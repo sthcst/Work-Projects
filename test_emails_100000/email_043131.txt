@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Anderson,ronald.anderson7128@outlook.com,786-320-1298,275 25 9542,12/05/1981,"3950 South Rd",Denver,VA

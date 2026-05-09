@@ -1,9 +1,0 @@
-contact:
-  name: Anna Rodriguez
-  email: anna.rodriguez6973@mail.com
-  phone: 817 218 3310
-  ssn: 988297854
-  dob: 05/04/1965
-  address: 9956 Main Ln
-  city: San Jose
-  state: TN

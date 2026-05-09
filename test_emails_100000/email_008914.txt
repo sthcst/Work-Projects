@@ -1,9 +1,0 @@
-contact:
-  name: Robert Guerrero
-  email: robert.guerrero6106@outlook.com
-  phone: 939-306-9817
-  ssn: 494-28-2348
-  dob: 06/24/1953
-  address: 4251 Maple Dr
-  city: New York
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: Robert Young
-  email: robert.young6563@business.net
-  phone: 238 646 7944
-  ssn: 726 68 7070
-  dob: 11-28-1985
-  address: 4642 Spring Ln
-  city: Phoenix
-  state: TX

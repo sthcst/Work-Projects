@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Garcia,robert.garcia4101@gmail.com,(973) 972-5774,704-26-1802,06/11/2002,"7469 Fifth Ave",San Jose,WI

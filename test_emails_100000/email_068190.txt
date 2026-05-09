@@ -1,9 +1,0 @@
-contact:
-  name: Megan Robinson
-  email: megan.robinson6810@mail.com
-  phone: 692 298 9099
-  ssn: 583225570
-  dob: 11/02/1961
-  address: 9980 Sixth Rd
-  city: Los Angeles
-  state: WI

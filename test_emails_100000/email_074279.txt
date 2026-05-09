@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Taylor
-  email: pamela.taylor6611@example.com
-  phone: (500) 852-3055
-  ssn: 418 71 6282
-  dob: 10-18-1998
-  address: 2057 East Blvd
-  city: Seattle
-  state: IL

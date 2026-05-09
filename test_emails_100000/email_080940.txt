@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Davis,pamela.davis7551@company.com,+1 245-563-4488,955082175,23/06/1965,"7555 Second Dr",Philadelphia,MI

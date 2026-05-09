@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Bell,emma.bell8319@example.com,+1 989-699-7447,673497392,03-15-1983,"8188 Elm Rd",Chicago,IL

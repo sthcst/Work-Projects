@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Gonzalez,ryan.gonzalez7008@work.org,289 810 5865,781-60-4170,24/08/2000,"3758 South Ave",Los Angeles,NC

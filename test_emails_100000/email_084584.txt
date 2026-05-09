@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Alvarado,james.alvarado9078@company.com,612 344 2627,415 63 3244,01/24/1969,"1894 East Dr",Houston,CO

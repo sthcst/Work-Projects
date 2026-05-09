@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Walker
-  email: matthew.walker4418@company.com
-  phone: 727 647 4292
-  ssn: 218 58 4625
-  dob: 2/21/1976
-  address: 7499 Elm Way
-  city: Dallas
-  state: MI

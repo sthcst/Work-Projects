@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Morris
-  email: jacob.morris6944@gmail.com
-  phone: 243 314 8731
-  ssn: 040-19-9021
-  dob: 01/01/1985
-  address: 8816 Birch Court
-  city: Houston
-  state: TX

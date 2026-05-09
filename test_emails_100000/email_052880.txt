@@ -1,9 +1,0 @@
-contact:
-  name: Helen Flores
-  email: helen.flores2384@business.net
-  phone: 525 749 5871
-  ssn: 476 73 1200
-  dob: 14/03/2002
-  address: 5390 Cedar Ln
-  city: San Diego
-  state: IL

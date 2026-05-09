@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Reeves
-  email: michelle.reeves7146@example.com
-  phone: +1 872-334-6129
-  ssn: 363 92 9859
-  dob: 04-08-1972
-  address: 8492 North Blvd
-  city: Denver
-  state: CA

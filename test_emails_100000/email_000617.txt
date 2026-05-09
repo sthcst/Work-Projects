@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Roberts,shirley.roberts6029@gmail.com,648-976-8987,444-98-9420,11/25/1985,"2522 East Blvd",Seattle,WA

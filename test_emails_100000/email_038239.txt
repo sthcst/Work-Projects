@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Stewart
-  email: ashley.stewart55@work.org
-  phone: 580-757-7933
-  ssn: 405-11-4388
-  dob: 05/09/1980
-  address: 6186 Oak Rd
-  city: Denver
-  state: WA

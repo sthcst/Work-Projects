@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Evans,jessica.evans4015@yahoo.com,439 467 8294,562 05 5541,06-26-1996,"8674 Maple Ln",Boston,CO

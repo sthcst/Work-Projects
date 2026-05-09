@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Davis,kenneth.davis97@gmail.com,(860) 664-1992,860-19-6244,03-04-1999,"7153 North Dr",Washington,MI

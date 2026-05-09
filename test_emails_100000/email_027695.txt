@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Jimenez,rachel.jimenez6617@outlook.com,392-211-2698,728426971,10-26-2003,"4644 West Dr",Boston,GA

@@ -1,9 +1,0 @@
-contact:
-  name: Michael Martinez
-  email: michael.martinez22@outlook.com
-  phone: +1 323-820-7625
-  ssn: 087-39-5983
-  dob: 02/12/1970
-  address: 1880 West St
-  city: Jacksonville
-  state: TX

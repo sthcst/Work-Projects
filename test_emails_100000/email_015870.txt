@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Roberts
-  email: lauren.roberts8877@work.org
-  phone: (422) 714-9144
-  ssn: 873 09 9626
-  dob: 19/10/1989
-  address: 1391 West Dr
-  city: San Jose
-  state: PA

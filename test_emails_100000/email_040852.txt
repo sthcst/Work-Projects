@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Romero,jessica.romero6559@company.com,(428) 365-4117,708664988,18/11/1985,"5032 South Dr",New York,TX

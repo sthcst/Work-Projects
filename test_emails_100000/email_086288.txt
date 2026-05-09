@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Parker
-  email: katherine.parker6782@example.com
-  phone: 961 271 8458
-  ssn: 278-60-5325
-  dob: 08/06/1967
-  address: 418 Elm Way
-  city: Seattle
-  state: TX

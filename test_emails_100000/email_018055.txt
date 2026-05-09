@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Morris,edward.morris7964@gmail.com,+1 397-494-8230,879681311,25/11/1993,"7906 East Ave",San Jose,DC

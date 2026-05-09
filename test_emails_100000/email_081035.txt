@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Campbell,nicole.campbell1981@company.com,(518) 456-7459,298558091,08/07/1965,"6397 West Rd",Chicago,FL

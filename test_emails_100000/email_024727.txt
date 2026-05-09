@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Phillips,christine.phillips2088@example.com,254 729 3765,880-42-1857,2/7/2005,"7074 North Rd",Austin,WI

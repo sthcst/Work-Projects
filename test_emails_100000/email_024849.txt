@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Robinson
-  email: cynthia.robinson2285@example.com
-  phone: 953-742-4621
-  ssn: 374 79 1152
-  dob: 09/08/1974
-  address: 1065 East Blvd
-  city: Boston
-  state: NJ

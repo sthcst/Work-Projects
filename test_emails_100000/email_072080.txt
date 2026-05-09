@@ -1,9 +1,0 @@
-contact:
-  name: Christine Williams
-  email: christine.williams6509@mail.com
-  phone: (735) 498-8805
-  ssn: 305-06-7140
-  dob: 27/02/1996
-  address: 7742 Second St
-  city: Phoenix
-  state: CO

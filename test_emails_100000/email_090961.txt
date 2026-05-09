@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Carter,jeffrey.carter9050@outlook.com,+1 383-685-8808,729-22-3869,14/03/1960,"2754 South Ln",Los Angeles,TX

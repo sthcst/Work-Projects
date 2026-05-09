@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Martinez,kimberly.martinez5422@company.com,992 216 8754,304849069,02/11/1972,"3184 Park Rd",San Jose,OH

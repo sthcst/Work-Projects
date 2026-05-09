@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Dominguez,ryan.dominguez1843@yahoo.com,+1 934-638-4907,365962452,05/05/1960,"8993 Third Way",Phoenix,NC

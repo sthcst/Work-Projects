@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Harris,matthew.harris6986@work.org,(566) 209-6946,109-44-5385,08/01/1974,"4717 West Ln",San Antonio,TN

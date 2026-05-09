@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Peterson
-  email: pamela.peterson3975@work.org
-  phone: 557 740 7822
-  ssn: 231 89 8141
-  dob: 26/07/1970
-  address: 2907 South Rd
-  city: Philadelphia
-  state: TX

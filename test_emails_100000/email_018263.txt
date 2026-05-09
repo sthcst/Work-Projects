@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Miller
-  email: rachel.miller5137@outlook.com
-  phone: 954-699-9160
-  ssn: 459-52-3198
-  dob: 02-15-1992
-  address: 8108 Second Ln
-  city: Philadelphia
-  state: MO

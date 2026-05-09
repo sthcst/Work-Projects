@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Clark,amanda.clark986@yahoo.com,+1 858-501-3750,874657686,08/27/1987,"1603 Maple Dr",Denver,OH

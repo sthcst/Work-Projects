@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Evans,charles.evans7494@yahoo.com,748-800-3746,799383498,05/01/2004,"5200 East Ln",Washington,AZ

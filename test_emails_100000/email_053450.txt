@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Ortiz
-  email: cynthia.ortiz7708@mail.com
-  phone: 327-254-8196
-  ssn: 933-76-7064
-  dob: 28/08/2002
-  address: 2714 Maple Blvd
-  city: Philadelphia
-  state: WA

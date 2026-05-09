@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Clark
-  email: ronald.clark2166@outlook.com
-  phone: +1 473-879-9188
-  ssn: 617-63-4397
-  dob: 02-22-2002
-  address: 4693 Third Ln
-  city: Dallas
-  state: DC

@@ -1,9 +1,0 @@
-contact:
-  name: Robert Jimenez
-  email: robert.jimenez7426@outlook.com
-  phone: 241 904 2410
-  ssn: 591 56 3613
-  dob: 11/5/1960
-  address: 4268 Summer Rd
-  city: San Diego
-  state: GA

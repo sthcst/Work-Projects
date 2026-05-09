@@ -1,9 +1,0 @@
-contact:
-  name: Jason Rogers
-  email: jason.rogers7215@mail.com
-  phone: 810 925 3941
-  ssn: 848-11-9613
-  dob: 7/11/1973
-  address: 9875 First Dr
-  city: Boston
-  state: AZ

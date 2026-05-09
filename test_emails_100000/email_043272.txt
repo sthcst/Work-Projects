@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Campbell,anthony.campbell1511@company.com,701 920 5820,581718387,05/23/1966,"1860 South Dr",Dallas,GA

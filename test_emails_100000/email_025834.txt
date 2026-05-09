@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Jones,cynthia.jones7112@example.com,+1 702-909-6238,821888693,09-02-1972,"464 South Ave",Philadelphia,FL

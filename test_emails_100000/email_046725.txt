@@ -1,9 +1,0 @@
-contact:
-  name: Jane Morgan
-  email: jane.morgan9534@business.net
-  phone: 395 750 4576
-  ssn: 953976946
-  dob: 14/02/1979
-  address: 790 Maple Court
-  city: San Jose
-  state: TX

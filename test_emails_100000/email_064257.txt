@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Flores,matthew.flores1379@company.com,534-227-2101,027 48 6532,07/06/1971,"8668 Spring Dr",Los Angeles,WI

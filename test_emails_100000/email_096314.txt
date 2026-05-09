@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Walker
-  email: joshua.walker3711@gmail.com
-  phone: (858) 226-7021
-  ssn: 264 89 2180
-  dob: 05/12/1991
-  address: 3036 Cedar Way
-  city: Los Angeles
-  state: TX

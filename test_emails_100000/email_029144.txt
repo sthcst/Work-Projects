@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Jimenez
-  email: jeffrey.jimenez8310@mail.com
-  phone: +1 556-246-8094
-  ssn: 705408545
-  dob: 02/07/1996
-  address: 9324 Oak St
-  city: San Antonio
-  state: MD

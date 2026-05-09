@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Clark
-  email: katherine.clark54@example.com
-  phone: (437) 920-6457
-  ssn: 100725274
-  dob: 23/05/1991
-  address: 5390 Cedar Court
-  city: Seattle
-  state: MO

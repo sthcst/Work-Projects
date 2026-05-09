@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Harris
-  email: ronald.harris3159@gmail.com
-  phone: +1 720-996-6527
-  ssn: 751 91 3689
-  dob: 12-19-2003
-  address: 7291 Second Blvd
-  city: Austin
-  state: TX

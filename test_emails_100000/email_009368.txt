@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Edwards,emily.edwards6615@company.com,+1 282-467-4553,866 60 5022,05/18/1960,"9047 Pine Court",Seattle,MI

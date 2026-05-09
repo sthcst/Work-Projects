@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Carter,anthony.carter5403@gmail.com,748 773 8984,517854266,18/08/1969,"6837 Maple Way",Houston,FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Cooper,donald.cooper7103@example.com,348 743 8504,817645923,09/27/1995,"7837 Park Court",San Diego,FL

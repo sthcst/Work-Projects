@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Dominguez,william.dominguez4209@outlook.com,+1 462-769-5919,695 96 2895,05-23-2004,"4228 South St",Seattle,TN

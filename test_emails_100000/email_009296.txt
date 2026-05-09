@@ -1,9 +1,0 @@
-contact:
-  name: Robert Parker
-  email: robert.parker4694@yahoo.com
-  phone: 244-541-4217
-  ssn: 469 46 4494
-  dob: 03-26-1984
-  address: 951 Oak Ln
-  city: Seattle
-  state: MO

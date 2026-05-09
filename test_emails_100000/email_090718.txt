@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Campbell
-  email: jennifer.campbell1443@example.com
-  phone: 685 259 2365
-  ssn: 185194064
-  dob: 4/19/1974
-  address: 4083 Fourth Blvd
-  city: Chicago
-  state: VA

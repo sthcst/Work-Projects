@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Harris
-  email: katherine.harris2879@business.net
-  phone: +1 457-663-4851
-  ssn: 511047418
-  dob: 04/04/1999
-  address: 2233 Oak Ln
-  city: San Jose
-  state: CA

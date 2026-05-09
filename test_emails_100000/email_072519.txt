@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Robinson,kevin.robinson9880@gmail.com,(632) 317-9163,091876227,25/03/1980,"5664 Park Ave",Houston,OH

@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Jackson
-  email: brenda.jackson1309@outlook.com
-  phone: +1 628-920-6627
-  ssn: 499 65 1400
-  dob: 19/04/2003
-  address: 6681 Pine Dr
-  city: San Diego
-  state: CA

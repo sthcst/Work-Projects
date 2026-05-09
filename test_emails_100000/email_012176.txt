@@ -1,9 +1,0 @@
-contact:
-  name: Anna Taylor
-  email: anna.taylor1914@yahoo.com
-  phone: 777-995-5341
-  ssn: 797191458
-  dob: 02/01/1997
-  address: 4467 Main Blvd
-  city: Philadelphia
-  state: MD

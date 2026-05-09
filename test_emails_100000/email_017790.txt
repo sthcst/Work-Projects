@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Walker,andrew.walker347@gmail.com,353-454-4487,606 23 7531,03/18/1966,"7388 Elm Rd",Chicago,CO

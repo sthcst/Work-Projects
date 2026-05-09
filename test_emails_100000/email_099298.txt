@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Thompson,amanda.thompson6797@gmail.com,(869) 429-7419,781 79 7431,11/16/1995,"2489 First Blvd",Philadelphia,MA

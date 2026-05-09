@@ -1,9 +1,0 @@
-contact:
-  name: George Cooper
-  email: george.cooper764@gmail.com
-  phone: 598-754-2966
-  ssn: 218-80-2627
-  dob: 10/13/1998
-  address: 9149 West Rd
-  city: Phoenix
-  state: VA

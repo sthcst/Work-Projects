@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Reyes
-  email: samantha.reyes9304@example.com
-  phone: +1 603-912-4889
-  ssn: 909 35 4760
-  dob: 10/21/1982
-  address: 71 Pine Ln
-  city: Seattle
-  state: MA

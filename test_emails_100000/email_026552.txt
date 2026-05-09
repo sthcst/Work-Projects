@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Wilson
-  email: pamela.wilson6829@mail.com
-  phone: (578) 331-6006
-  ssn: 228802367
-  dob: 08-08-1952
-  address: 8129 Second Blvd
-  city: Austin
-  state: TX

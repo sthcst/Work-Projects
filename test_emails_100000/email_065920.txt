@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Thomas
-  email: cynthia.thomas6107@work.org
-  phone: (280) 382-2308
-  ssn: 302-64-8034
-  dob: 01/08/1984
-  address: 9634 East Dr
-  city: Chicago
-  state: NC

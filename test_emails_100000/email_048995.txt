@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Roberts,brian.roberts702@company.com,670 479 8935,566382561,13/10/1979,"5449 Second Way",Phoenix,OH

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Parker,matthew.parker4738@outlook.com,+1 801-480-9244,417947700,11/04/1958,"8445 Third Blvd",Denver,PA

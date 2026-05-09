@@ -1,9 +1,0 @@
-contact:
-  name: George Campbell
-  email: george.campbell7205@company.com
-  phone: +1 755-563-5403
-  ssn: 745-02-1615
-  dob: 6/26/1985
-  address: 369 Pine Blvd
-  city: Phoenix
-  state: NY

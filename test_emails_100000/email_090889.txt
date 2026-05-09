@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Gomez,angela.gomez8315@work.org,563-597-7044,298 15 6053,2/2/1957,"4698 Sixth Rd",San Antonio,VA

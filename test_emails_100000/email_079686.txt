@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Walker
-  email: lisa.walker7728@example.com
-  phone: +1 923-709-9403
-  ssn: 344-63-9544
-  dob: 05/04/1961
-  address: 8443 Birch Rd
-  city: Los Angeles
-  state: CO

@@ -1,9 +1,0 @@
-contact:
-  name: Katherine White
-  email: katherine.white1572@company.com
-  phone: +1 731-329-4966
-  ssn: 559 16 1121
-  dob: 25/03/1960
-  address: 6942 West Dr
-  city: Austin
-  state: VA

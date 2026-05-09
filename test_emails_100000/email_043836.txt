@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Perez,lauren.perez7332@outlook.com,228-735-6568,682-99-4144,04-24-1964,"5498 Fourth Rd",New York,TN

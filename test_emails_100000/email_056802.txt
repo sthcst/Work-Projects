@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Harris
-  email: nicole.harris9285@company.com
-  phone: (386) 809-6264
-  ssn: 718-30-6320
-  dob: 11-14-1950
-  address: 2793 Third Dr
-  city: Phoenix
-  state: WI

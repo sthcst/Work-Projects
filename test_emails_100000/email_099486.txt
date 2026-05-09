@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Taylor,kathleen.taylor8590@work.org,604-535-2234,369037784,07/12/1959,"6377 South Blvd",Philadelphia,WA

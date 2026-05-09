@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Perez
-  email: sarah.perez2494@company.com
-  phone: +1 276-964-2524
-  ssn: 920 11 4946
-  dob: 24/01/1977
-  address: 5789 Cedar St
-  city: Boston
-  state: CA

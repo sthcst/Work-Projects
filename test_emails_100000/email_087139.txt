@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Romero,amanda.romero1542@example.com,938 293 3566,703 57 7688,7/24/1981,"866 East St",San Antonio,FL

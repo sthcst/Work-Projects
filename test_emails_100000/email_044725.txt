@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Lee
-  email: ashley.lee1541@outlook.com
-  phone: 251-387-8003
-  ssn: 047 82 2571
-  dob: 10/27/1976
-  address: 616 Sixth Blvd
-  city: Washington
-  state: VA

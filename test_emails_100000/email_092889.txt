@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Reyes,jacob.reyes9017@example.com,+1 765-436-9030,723715893,24/03/1991,"9382 West Rd",Chicago,OH

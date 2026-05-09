@@ -1,9 +1,0 @@
-contact:
-  name: Anna Gomez
-  email: anna.gomez9296@example.com
-  phone: 620 513 5257
-  ssn: 979-01-6883
-  dob: 7/22/1954
-  address: 9425 First Ln
-  city: New York
-  state: CA

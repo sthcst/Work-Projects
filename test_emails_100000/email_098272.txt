@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Murillo,sarah.murillo8264@work.org,(932) 429-6229,737 22 8228,04-27-1999,"4089 First Court",San Antonio,OH

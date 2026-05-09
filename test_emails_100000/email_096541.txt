@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew White,andrew.white1353@yahoo.com,(516) 658-9546,045688239,28/06/1975,"2558 Park Court",Seattle,MD

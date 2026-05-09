@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Jackson,robert.jackson300@example.com,470-279-1130,472-14-2131,10-25-2001,"4095 Park Court",Los Angeles,WI

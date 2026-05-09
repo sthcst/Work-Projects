@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Young,kevin.young677@outlook.com,735-536-7393,347 01 5561,8/5/1988,"239 East Blvd",Los Angeles,TX

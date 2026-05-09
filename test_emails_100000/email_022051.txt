@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Guerrero,megan.guerrero831@mail.com,+1 910-788-8539,498 88 2412,06/23/2001,"7793 Elm St",Philadelphia,NJ

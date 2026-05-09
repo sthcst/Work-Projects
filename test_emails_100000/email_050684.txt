@@ -1,9 +1,0 @@
-contact:
-  name: Paul Lee
-  email: paul.lee2247@outlook.com
-  phone: +1 829-283-5563
-  ssn: 188 11 9366
-  dob: 11/20/1978
-  address: 2415 North Rd
-  city: San Antonio
-  state: AZ

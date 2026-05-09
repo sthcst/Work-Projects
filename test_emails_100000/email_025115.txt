@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Nunez,shirley.nunez6111@yahoo.com,941-935-1503,620 85 4188,09-28-2003,"141 Oak Way",Seattle,CA

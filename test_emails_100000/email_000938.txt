@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Alvarado
-  email: lauren.alvarado9154@business.net
-  phone: (782) 995-9932
-  ssn: 944 05 7062
-  dob: 09/05/1950
-  address: 7773 South Ln
-  city: New York
-  state: WA

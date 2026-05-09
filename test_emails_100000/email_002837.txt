@@ -1,9 +1,0 @@
-contact:
-  name: Jason Guerrero
-  email: jason.guerrero7872@business.net
-  phone: +1 766-868-8303
-  ssn: 750 01 7961
-  dob: 02/02/1982
-  address: 1097 Main Court
-  city: Phoenix
-  state: MD

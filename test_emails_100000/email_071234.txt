@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Walker
-  email: anthony.walker1330@work.org
-  phone: 882-441-6700
-  ssn: 630 24 3987
-  dob: 08/04/1963
-  address: 5024 East Ave
-  city: Seattle
-  state: IL

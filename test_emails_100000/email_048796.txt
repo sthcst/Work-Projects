@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Garcia,jacob.garcia830@yahoo.com,+1 296-514-6207,997383690,06-02-1952,"2456 West St",Austin,FL

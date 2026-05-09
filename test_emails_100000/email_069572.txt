@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Perez,timothy.perez7715@gmail.com,602 643 9213,920 58 7851,05/04/1957,"9417 Birch St",San Diego,WA

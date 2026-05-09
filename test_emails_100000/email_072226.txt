@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Clark,steven.clark9752@outlook.com,207 854 3714,078-28-4549,1/15/2001,"9544 Main Blvd",San Diego,NY

@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Stewart
-  email: anthony.stewart3589@outlook.com
-  phone: (917) 222-5203
-  ssn: 100796067
-  dob: 08/03/1973
-  address: 9272 Pine Ave
-  city: Chicago
-  state: TX

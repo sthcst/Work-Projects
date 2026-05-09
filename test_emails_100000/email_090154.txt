@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Rogers,kimberly.rogers1765@company.com,699 327 6874,147 37 2149,1/25/1967,"9504 North Way",Jacksonville,OH

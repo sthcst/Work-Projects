@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Nunez
-  email: kevin.nunez3976@work.org
-  phone: (972) 834-1899
-  ssn: 470-67-9151
-  dob: 10-05-1961
-  address: 2634 First Way
-  city: Austin
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: James Morris
-  email: james.morris4069@business.net
-  phone: 883-705-5857
-  ssn: 982-38-4940
-  dob: 05/02/1991
-  address: 308 Birch Dr
-  city: San Antonio
-  state: GA

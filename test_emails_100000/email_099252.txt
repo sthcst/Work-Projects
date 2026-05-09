@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Lopez
-  email: jeffrey.lopez308@company.com
-  phone: (924) 794-9187
-  ssn: 721-26-6765
-  dob: 4/18/2004
-  address: 5184 Third Ln
-  city: Seattle
-  state: FL

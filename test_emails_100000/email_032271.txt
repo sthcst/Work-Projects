@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Ortiz,angela.ortiz9570@gmail.com,238-540-1359,574092140,10-02-1966,"1262 North Ln",Seattle,AZ

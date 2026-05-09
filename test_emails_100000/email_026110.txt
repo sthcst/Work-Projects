@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Clark,jeffrey.clark3788@outlook.com,(717) 588-6871,220-29-1930,09/07/1957,"1962 Birch Blvd",New York,MO

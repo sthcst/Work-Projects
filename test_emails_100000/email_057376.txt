@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Martinez,lisa.martinez2342@yahoo.com,(978) 817-6061,255-65-4200,3/9/1973,"3033 Pine Dr",Washington,NJ

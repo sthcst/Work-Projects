@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Perez,ashley.perez1809@gmail.com,530 941 9290,086809672,07-14-1999,"742 North Blvd",Los Angeles,WA

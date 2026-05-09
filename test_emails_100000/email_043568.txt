@@ -1,9 +1,0 @@
-contact:
-  name: Megan Robinson
-  email: megan.robinson9207@outlook.com
-  phone: 997 594 8530
-  ssn: 721774980
-  dob: 02/07/1951
-  address: 9207 Second Court
-  city: Philadelphia
-  state: PA

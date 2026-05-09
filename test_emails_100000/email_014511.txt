@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Collins
-  email: samantha.collins4447@company.com
-  phone: (917) 836-6218
-  ssn: 684-85-9635
-  dob: 07-14-2005
-  address: 5970 First Dr
-  city: Phoenix
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: Mark Nelson
-  email: mark.nelson1828@yahoo.com
-  phone: +1 976-823-4678
-  ssn: 479 71 1659
-  dob: 4/10/1975
-  address: 9057 West Rd
-  city: Boston
-  state: WA

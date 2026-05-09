@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Walker
-  email: kevin.walker1695@business.net
-  phone: (269) 816-1971
-  ssn: 420 47 5287
-  dob: 03/12/2002
-  address: 8095 Fourth Rd
-  city: New York
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Johnson
-  email: shirley.johnson1759@business.net
-  phone: 716 896 9272
-  ssn: 510-39-1854
-  dob: 10/01/1983
-  address: 7197 South Way
-  city: Jacksonville
-  state: FL

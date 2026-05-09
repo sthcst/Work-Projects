@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Hall,nicholas.hall4618@outlook.com,+1 326-587-6567,600315695,08-10-1961,"1864 Maple Rd",Austin,NY

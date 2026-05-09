@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Hall,david.hall4588@outlook.com,+1 342-873-7659,419792382,02-18-1990,"857 Main Blvd",Houston,FL

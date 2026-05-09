@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Clark,jacob.clark4763@yahoo.com,877-887-9861,038-18-8323,05-04-1988,"7874 Birch St",Phoenix,WA

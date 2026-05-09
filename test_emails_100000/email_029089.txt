@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Reyes
-  email: cynthia.reyes6526@work.org
-  phone: 579 274 8719
-  ssn: 411 68 6344
-  dob: 04-01-1990
-  address: 935 Fourth Way
-  city: New York
-  state: FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Jimenez,jason.jimenez5832@gmail.com,(878) 405-3004,603-11-1385,07-23-1972,"3057 Cedar Ave",Jacksonville,CO

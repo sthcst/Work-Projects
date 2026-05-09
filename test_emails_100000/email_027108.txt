@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Ramirez,lisa.ramirez4073@example.com,311-915-9058,520 07 2680,01/03/1989,"9382 Park Dr",Houston,WA

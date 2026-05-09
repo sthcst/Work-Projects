@@ -1,9 +1,0 @@
-contact:
-  name: Angela Robinson
-  email: angela.robinson3479@yahoo.com
-  phone: +1 719-398-2013
-  ssn: 835 11 2894
-  dob: 14/09/1997
-  address: 3458 Cedar Ln
-  city: Seattle
-  state: IL

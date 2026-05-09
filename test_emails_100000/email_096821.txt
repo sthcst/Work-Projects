@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Clark
-  email: jennifer.clark6459@outlook.com
-  phone: 631-558-4210
-  ssn: 752046232
-  dob: 01-19-1962
-  address: 1683 Second Blvd
-  city: Houston
-  state: AZ

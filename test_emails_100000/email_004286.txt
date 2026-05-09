@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Carter
-  email: ronald.carter2188@mail.com
-  phone: 577 957 3961
-  ssn: 720 46 3181
-  dob: 13/02/1954
-  address: 6346 Park Court
-  city: Philadelphia
-  state: MA

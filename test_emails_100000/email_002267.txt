@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Evans,ryan.evans9838@work.org,+1 644-693-4505,709-86-9306,01/15/1970,"6751 Third Rd",San Antonio,MI

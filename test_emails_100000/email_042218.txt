@@ -1,9 +1,0 @@
-contact:
-  name: Donald Williams
-  email: donald.williams3726@gmail.com
-  phone: +1 740-558-9799
-  ssn: 612127889
-  dob: 11-19-1984
-  address: 4004 Cedar St
-  city: Philadelphia
-  state: DC

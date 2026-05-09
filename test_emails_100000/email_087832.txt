@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Clark,ryan.clark2710@work.org,(435) 364-4082,517 95 1410,6/25/1960,"3538 Second Ave",Jacksonville,CA

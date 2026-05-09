@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Guerrero,michael.guerrero1231@yahoo.com,+1 521-870-1486,429204043,09-05-1956,"1433 Fourth Ln",San Antonio,WI

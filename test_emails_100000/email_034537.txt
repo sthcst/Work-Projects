@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Evans,deborah.evans608@business.net,480 413 4833,408-28-9406,10/27/1983,"1620 North Dr",Dallas,NJ

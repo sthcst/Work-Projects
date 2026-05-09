@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Alvarado,jason.alvarado3520@mail.com,763-504-7114,188925005,07/24/1991,"9034 Birch Court",Washington,VA

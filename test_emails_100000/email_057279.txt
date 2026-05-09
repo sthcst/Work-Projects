@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Flores,christopher.flores4923@example.com,(879) 961-3991,008 33 3012,18/05/1997,"4312 Oak Dr",New York,TX

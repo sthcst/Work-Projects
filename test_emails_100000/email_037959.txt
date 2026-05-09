@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Hernandez
-  email: samantha.hernandez781@company.com
-  phone: (667) 321-4632
-  ssn: 752 13 4957
-  dob: 06-06-2001
-  address: 1270 Spring St
-  city: Houston
-  state: VA

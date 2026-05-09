@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Guerrero,michelle.guerrero7377@work.org,(423) 866-2207,218706579,9/9/2005,"3710 Fourth Dr",Chicago,MO

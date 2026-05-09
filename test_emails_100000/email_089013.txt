@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Sanchez
-  email: pamela.sanchez3903@outlook.com
-  phone: 598 334 3748
-  ssn: 976-18-3008
-  dob: 2/10/1955
-  address: 4721 Fifth St
-  city: Dallas
-  state: WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Morris,katherine.morris3709@yahoo.com,823 514 1289,265 83 4312,07/14/1961,"4647 Park St",Seattle,TN

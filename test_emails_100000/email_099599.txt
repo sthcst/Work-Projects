@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Ortiz,jason.ortiz7417@outlook.com,(270) 267-8960,864 46 3255,05/06/1986,"4756 Elm Court",Austin,CO

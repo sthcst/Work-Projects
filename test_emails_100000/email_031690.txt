@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Morgan,andrew.morgan4938@outlook.com,+1 989-601-9319,255632596,02/01/1971,"6709 Pine Rd",San Diego,FL

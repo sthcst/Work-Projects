@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Nunez,kimberly.nunez7868@mail.com,(838) 295-8799,230-58-5093,25/04/1981,"8369 Third St",San Diego,NJ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Gomez,joseph.gomez2848@business.net,+1 716-448-1277,096 47 5181,12/26/2003,"6102 Spring Court",San Antonio,MI

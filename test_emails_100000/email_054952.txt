@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Garcia,ronald.garcia3085@gmail.com,+1 861-215-9933,909859393,12/25/1978,"1506 Summer St",Seattle,FL

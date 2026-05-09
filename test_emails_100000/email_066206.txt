@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Guerrero
-  email: andrew.guerrero135@gmail.com
-  phone: 629-940-7316
-  ssn: 078-82-5224
-  dob: 05/25/1989
-  address: 5280 Fifth Blvd
-  city: San Diego
-  state: NC

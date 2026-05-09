@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Nelson
-  email: lauren.nelson2917@yahoo.com
-  phone: 413-644-9602
-  ssn: 233-05-9423
-  dob: 6/13/1951
-  address: 9014 West St
-  city: Seattle
-  state: GA

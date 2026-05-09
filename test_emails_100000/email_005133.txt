@@ -1,9 +1,0 @@
-contact:
-  name: Jason Lopez
-  email: jason.lopez9417@gmail.com
-  phone: 530 329 4992
-  ssn: 671 52 7053
-  dob: 08/15/1983
-  address: 9984 Spring Court
-  city: San Jose
-  state: TX

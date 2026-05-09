@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Moore
-  email: kenneth.moore6271@outlook.com
-  phone: (270) 743-1138
-  ssn: 625 84 3688
-  dob: 6/24/1963
-  address: 6755 Sixth Court
-  city: San Antonio
-  state: IL

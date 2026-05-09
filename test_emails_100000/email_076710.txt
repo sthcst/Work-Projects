@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Garcia,michael.garcia9128@example.com,516 514 9086,190-31-2184,20/09/2001,"9837 Spring Dr",San Antonio,CO

@@ -1,9 +1,0 @@
-contact:
-  name: Maria Harris
-  email: maria.harris2059@business.net
-  phone: (323) 244-4162
-  ssn: 784903121
-  dob: 15/08/1951
-  address: 7792 Pine Way
-  city: Jacksonville
-  state: WI

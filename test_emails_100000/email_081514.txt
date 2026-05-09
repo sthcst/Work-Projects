@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Reed
-  email: ronald.reed7773@mail.com
-  phone: 490 244 5553
-  ssn: 065-54-6373
-  dob: 19/11/1969
-  address: 1919 Cedar Blvd
-  city: New York
-  state: CO

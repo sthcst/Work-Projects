@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Lewis
-  email: deborah.lewis6398@company.com
-  phone: (508) 855-3623
-  ssn: 678 12 6997
-  dob: 01/06/1992
-  address: 4513 Elm Ln
-  city: Austin
-  state: FL

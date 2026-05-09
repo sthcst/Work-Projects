@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Garcia,donald.garcia2469@business.net,905 366 2801,758-73-4282,7/15/1987,"9377 Birch Ave",Phoenix,MA

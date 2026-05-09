@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Gomez,emma.gomez1746@gmail.com,248-820-1809,136 44 5092,03/19/2002,"5121 Maple Dr",Denver,DC

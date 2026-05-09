@@ -1,9 +1,0 @@
-contact:
-  name: Christine Anderson
-  email: christine.anderson6531@gmail.com
-  phone: 497-519-2300
-  ssn: 826 53 4712
-  dob: 2/20/2001
-  address: 4287 Third Dr
-  city: Boston
-  state: NY

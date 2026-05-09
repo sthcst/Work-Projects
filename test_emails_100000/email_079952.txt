@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Hernandez,cynthia.hernandez7092@yahoo.com,+1 925-717-7735,707-12-4754,8/12/1974,"9227 Elm Blvd",Seattle,TX

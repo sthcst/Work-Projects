@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Alvarado,richard.alvarado113@mail.com,238 943 9756,537 14 9537,08/17/1955,"9363 West Court",Philadelphia,MD

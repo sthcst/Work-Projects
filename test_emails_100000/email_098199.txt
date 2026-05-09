@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Reyes,kevin.reyes2641@example.com,(591) 714-8296,061-83-9279,09-12-1971,"9082 Park Blvd",Los Angeles,CA

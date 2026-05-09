@@ -1,9 +1,0 @@
-contact:
-  name: Donald Rogers
-  email: donald.rogers7031@yahoo.com
-  phone: 812 964 8694
-  ssn: 410379820
-  dob: 24/10/1954
-  address: 322 Oak Blvd
-  city: San Jose
-  state: WA

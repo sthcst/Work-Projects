@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Edwards
-  email: jacob.edwards8963@gmail.com
-  phone: 248-722-1550
-  ssn: 096-97-7693
-  dob: 07/28/1979
-  address: 1979 Summer St
-  city: Los Angeles
-  state: NY

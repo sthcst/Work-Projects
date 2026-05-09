@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Garcia,jacob.garcia7715@business.net,(354) 281-3271,364 22 4598,06/01/1988,"2010 Sixth Blvd",San Antonio,CA

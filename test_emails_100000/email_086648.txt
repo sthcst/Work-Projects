@@ -1,9 +1,0 @@
-contact:
-  name: Angela Martin
-  email: angela.martin7158@business.net
-  phone: (584) 650-6537
-  ssn: 682 32 4182
-  dob: 02-28-1995
-  address: 505 Fifth Ln
-  city: Boston
-  state: MO

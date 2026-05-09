@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Lewis
-  email: ryan.lewis6490@business.net
-  phone: (554) 413-1834
-  ssn: 748-90-3693
-  dob: 09/06/2002
-  address: 311 Spring Ln
-  city: Dallas
-  state: WA

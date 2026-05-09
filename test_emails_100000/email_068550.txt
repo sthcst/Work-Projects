@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Roberts,stephanie.roberts2444@work.org,(394) 815-8939,996 23 8755,11/26/1959,"7186 Park Blvd",Los Angeles,NY

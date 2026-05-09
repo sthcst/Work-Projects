@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Cooper,ryan.cooper7248@mail.com,(479) 386-2313,115-12-3977,2/17/1967,"6662 Main St",Houston,NY

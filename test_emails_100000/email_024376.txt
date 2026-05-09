@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Lee
-  email: ryan.lee9312@company.com
-  phone: 341-933-4656
-  ssn: 053-51-7976
-  dob: 02/14/2005
-  address: 3001 Cedar Way
-  city: Jacksonville
-  state: FL

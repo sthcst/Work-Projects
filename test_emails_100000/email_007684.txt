@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Alvarado,michelle.alvarado5254@mail.com,+1 893-811-1941,028308655,10/13/1981,"1131 Pine St",Jacksonville,AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Hernandez,daniel.hernandez4758@mail.com,487 286 5598,385578475,02-22-1955,"4089 Second Dr",Chicago,CA

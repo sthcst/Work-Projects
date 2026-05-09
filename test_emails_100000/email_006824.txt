@@ -1,9 +1,0 @@
-contact:
-  name: Angela Jones
-  email: angela.jones2787@business.net
-  phone: 879 853 4073
-  ssn: 935845789
-  dob: 3/12/2002
-  address: 1867 Oak Dr
-  city: Chicago
-  state: NC

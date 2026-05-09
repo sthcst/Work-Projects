@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Garcia,paul.garcia1279@outlook.com,(210) 347-6665,379 63 8108,4/17/1984,"3670 Summer Court",Dallas,MO

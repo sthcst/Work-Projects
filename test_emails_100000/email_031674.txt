@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Rodriguez
-  email: cynthia.rodriguez1819@example.com
-  phone: 351 950 1764
-  ssn: 840 55 7996
-  dob: 07/15/1965
-  address: 1569 North St
-  city: Jacksonville
-  state: WA

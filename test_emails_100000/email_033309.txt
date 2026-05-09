@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Miller,charles.miller3497@outlook.com,242-883-2706,900 74 9680,1/5/1969,"647 Spring Dr",Austin,NJ

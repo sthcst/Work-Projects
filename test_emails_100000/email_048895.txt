@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Davis,stephanie.davis1444@outlook.com,919-944-5528,509-04-8584,12-05-1993,"6524 Pine St",Seattle,DC

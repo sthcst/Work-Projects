@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Alvarado,daniel.alvarado1279@outlook.com,660-758-7605,760-24-8442,5/1/1986,"2761 Summer St",Phoenix,AZ

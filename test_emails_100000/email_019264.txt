@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Stewart,anna.stewart6343@work.org,402 812 8503,923587219,06-17-2005,"1463 Pine Blvd",New York,GA

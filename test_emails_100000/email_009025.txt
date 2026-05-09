@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Reyes,nicholas.reyes7675@example.com,689 776 7093,034 73 2075,02-01-1979,"6997 Spring Court",Washington,CA

@@ -1,9 +1,0 @@
-contact:
-  name: Helen Rodriguez
-  email: helen.rodriguez4123@business.net
-  phone: (476) 238-1132
-  ssn: 617 97 5186
-  dob: 09-19-1959
-  address: 6806 Maple Rd
-  city: San Antonio
-  state: TX

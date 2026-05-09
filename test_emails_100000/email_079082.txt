@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Johnson
-  email: kenneth.johnson2666@work.org
-  phone: (889) 639-1287
-  ssn: 899022712
-  dob: 10/06/1986
-  address: 5582 West Way
-  city: Boston
-  state: TX

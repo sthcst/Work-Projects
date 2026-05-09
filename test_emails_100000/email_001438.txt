@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Parker
-  email: anthony.parker8120@example.com
-  phone: (941) 409-6026
-  ssn: 313-17-2711
-  dob: 07/12/1954
-  address: 350 Summer Way
-  city: New York
-  state: IL

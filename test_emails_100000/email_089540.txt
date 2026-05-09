@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Dominguez,andrew.dominguez8104@business.net,+1 407-454-5657,274646089,22/08/1965,"9085 West Dr",Chicago,CO

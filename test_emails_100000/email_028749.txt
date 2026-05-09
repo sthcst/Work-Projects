@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Lee,emma.lee9725@mail.com,+1 746-573-4014,799-18-7011,07/04/1998,"1688 Main Dr",Phoenix,TX

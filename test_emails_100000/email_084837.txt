@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Ramirez,katherine.ramirez1582@company.com,684 383 1872,842466079,08/11/1977,"4208 Birch St",Washington,GA

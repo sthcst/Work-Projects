@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Parker,katherine.parker9523@business.net,672 966 5181,727-93-7731,11/10/1969,"6562 Pine Rd",San Antonio,FL

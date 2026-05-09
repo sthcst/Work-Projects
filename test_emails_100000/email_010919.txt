@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Robinson,david.robinson45@business.net,600 265 7967,601631598,10/02/1996,"3328 West Ave",Phoenix,PA

@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Ortiz
-  email: jessica.ortiz2329@business.net
-  phone: 996 608 9682
-  ssn: 617-64-1544
-  dob: 03-13-2002
-  address: 5527 Cedar Ln
-  city: Phoenix
-  state: OH

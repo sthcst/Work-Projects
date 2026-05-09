@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Morris
-  email: kenneth.morris7340@business.net
-  phone: (803) 220-3764
-  ssn: 391-43-2193
-  dob: 12-24-2000
-  address: 3608 North Rd
-  city: New York
-  state: FL

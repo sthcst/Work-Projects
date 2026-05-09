@@ -1,9 +1,0 @@
-contact:
-  name: Robert Wilson
-  email: robert.wilson6955@work.org
-  phone: 886 586 5196
-  ssn: 378169601
-  dob: 23/05/1960
-  address: 7985 Maple Rd
-  city: San Antonio
-  state: PA

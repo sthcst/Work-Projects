@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard White,richard.white9105@outlook.com,822 436 8580,741051122,3/19/1991,"5427 Main Court",Phoenix,VA

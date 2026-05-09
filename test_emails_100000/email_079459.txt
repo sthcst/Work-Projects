@@ -1,9 +1,0 @@
-contact:
-  name: Angela Reeves
-  email: angela.reeves7495@mail.com
-  phone: +1 222-507-6403
-  ssn: 655 89 8641
-  dob: 09/12/1952
-  address: 7312 First Court
-  city: San Diego
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Smith,ryan.smith1287@outlook.com,833-540-3565,585 79 5313,07/10/1970,"7162 Park Court",Houston,TX

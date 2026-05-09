@@ -1,9 +1,0 @@
-contact:
-  name: Jane Sanchez
-  email: jane.sanchez6966@yahoo.com
-  phone: 544 311 5601
-  ssn: 676 11 7808
-  dob: 12/07/1961
-  address: 2052 Oak Ave
-  city: Los Angeles
-  state: CA

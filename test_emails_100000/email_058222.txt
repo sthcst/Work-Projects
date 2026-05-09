@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Lee,shirley.lee217@gmail.com,(653) 743-5388,114649232,11-19-1958,"9837 Cedar Ln",Austin,WA

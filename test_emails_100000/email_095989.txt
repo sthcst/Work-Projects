@@ -1,9 +1,0 @@
-contact:
-  name: Michael Morris
-  email: michael.morris1319@outlook.com
-  phone: 687-949-8990
-  ssn: 658 65 4457
-  dob: 11-04-1961
-  address: 1576 Spring Ave
-  city: Houston
-  state: CA

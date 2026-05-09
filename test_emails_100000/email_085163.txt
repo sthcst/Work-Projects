@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Jones
-  email: kimberly.jones9690@outlook.com
-  phone: (261) 471-8519
-  ssn: 290 79 9590
-  dob: 10/27/1958
-  address: 7671 West Rd
-  city: Phoenix
-  state: PA

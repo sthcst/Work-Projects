@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Rodriguez
-  email: kevin.rodriguez8756@work.org
-  phone: 587-299-3125
-  ssn: 353-43-6126
-  dob: 02/10/2001
-  address: 2912 Park Way
-  city: Seattle
-  state: TX

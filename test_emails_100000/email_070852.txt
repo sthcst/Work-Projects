@@ -1,9 +1,0 @@
-contact:
-  name: Anna Hernandez
-  email: anna.hernandez1036@outlook.com
-  phone: 952-838-7156
-  ssn: 049 32 1143
-  dob: 10-12-2004
-  address: 7740 Oak Court
-  city: San Diego
-  state: MA

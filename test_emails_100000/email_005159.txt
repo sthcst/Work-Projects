@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Harris,kathleen.harris4373@example.com,365 286 2519,602 45 4440,08/22/1982,"3925 Elm St",Denver,FL

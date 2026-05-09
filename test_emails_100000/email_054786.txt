@@ -1,9 +1,0 @@
-contact:
-  name: Maria Hernandez
-  email: maria.hernandez3945@example.com
-  phone: (760) 683-6604
-  ssn: 098-75-5972
-  dob: 1/12/1981
-  address: 2256 North Way
-  city: New York
-  state: CA

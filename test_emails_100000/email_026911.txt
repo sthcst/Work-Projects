@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Rogers,nicole.rogers2708@business.net,380-259-6048,606 45 8480,7/12/1995,"7238 Park St",Washington,NC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Roberts,christopher.roberts6748@company.com,254 767 2638,332 18 5014,6/10/2002,"1586 East Ave",Phoenix,WA

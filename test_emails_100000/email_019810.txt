@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Thompson,andrew.thompson2102@gmail.com,633 695 8636,246-71-6653,17/09/1981,"4948 Third Ln",Jacksonville,OH

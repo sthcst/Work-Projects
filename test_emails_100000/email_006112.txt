@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Parker
-  email: rachel.parker3275@work.org
-  phone: 820-839-3517
-  ssn: 593-35-9652
-  dob: 05-06-1973
-  address: 4720 Sixth Court
-  city: San Jose
-  state: WI

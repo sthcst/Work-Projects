@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Flores
-  email: stephanie.flores3533@company.com
-  phone: 722 399 6318
-  ssn: 287 37 1442
-  dob: 12-17-1987
-  address: 8479 Fifth Way
-  city: Houston
-  state: WI

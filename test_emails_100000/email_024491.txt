@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Dominguez,samantha.dominguez8054@yahoo.com,739 335 3403,964966020,06/04/1989,"4480 Second Dr",Houston,MA

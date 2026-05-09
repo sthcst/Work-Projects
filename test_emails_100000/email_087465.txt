@@ -1,9 +1,0 @@
-contact:
-  name: Helen Gonzalez
-  email: helen.gonzalez5244@work.org
-  phone: (242) 534-1089
-  ssn: 136 74 5873
-  dob: 02-19-1952
-  address: 2493 First St
-  city: Washington
-  state: FL

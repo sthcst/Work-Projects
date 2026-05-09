@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Wilson
-  email: pamela.wilson9881@business.net
-  phone: 701-692-4358
-  ssn: 634-73-1855
-  dob: 01-26-1996
-  address: 9811 First Ave
-  city: San Diego
-  state: TX

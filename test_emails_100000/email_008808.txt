@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Gomez,kevin.gomez6638@company.com,(972) 552-2658,410647167,2/20/1951,"814 Fifth Ln",Philadelphia,IL

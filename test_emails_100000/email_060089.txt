@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Ortiz
-  email: katherine.ortiz8768@company.com
-  phone: +1 877-792-4260
-  ssn: 325 74 8071
-  dob: 03/28/1981
-  address: 1172 Summer Ave
-  city: Philadelphia
-  state: PA

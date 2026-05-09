@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Flores,lisa.flores459@yahoo.com,751 524 3253,688388249,26/12/1967,"4597 Cedar Ln",New York,MD

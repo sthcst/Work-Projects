@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Lopez,richard.lopez7643@business.net,508-363-7327,811 54 3270,08/05/1976,"7832 Main Dr",Chicago,IL

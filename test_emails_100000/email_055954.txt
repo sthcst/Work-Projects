@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Johnson,pamela.johnson8492@company.com,(701) 253-5608,472 96 2998,4/10/1950,"4748 Maple Dr",Los Angeles,TN

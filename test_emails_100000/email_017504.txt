@@ -1,9 +1,0 @@
-contact:
-  name: Edward Thomas
-  email: edward.thomas5984@work.org
-  phone: (614) 528-4114
-  ssn: 411-55-2666
-  dob: 07/25/2002
-  address: 4038 South Rd
-  city: Los Angeles
-  state: FL

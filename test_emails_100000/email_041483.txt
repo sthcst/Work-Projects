@@ -1,9 +1,0 @@
-contact:
-  name: Christine Reeves
-  email: christine.reeves1528@business.net
-  phone: +1 836-349-8551
-  ssn: 284019072
-  dob: 03-01-1970
-  address: 4968 North Court
-  city: New York
-  state: OH

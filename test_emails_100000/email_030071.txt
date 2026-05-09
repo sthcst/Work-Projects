@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Sanchez,brenda.sanchez1410@example.com,460-760-1261,952807203,09/12/1980,"9455 East Court",Phoenix,DC

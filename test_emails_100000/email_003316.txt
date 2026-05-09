@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Brown,jennifer.brown8095@business.net,(486) 951-6121,082311976,7/4/2004,"7552 Park Dr",Austin,TN

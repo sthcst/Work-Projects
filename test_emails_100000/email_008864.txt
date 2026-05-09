@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Bell
-  email: andrew.bell1116@mail.com
-  phone: +1 333-822-5270
-  ssn: 457971519
-  dob: 10-09-1960
-  address: 9179 North Dr
-  city: Phoenix
-  state: NC

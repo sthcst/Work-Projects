@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Taylor,sarah.taylor5882@business.net,538-452-4338,138 74 7218,06-05-1962,"3487 Pine Way",Phoenix,TX

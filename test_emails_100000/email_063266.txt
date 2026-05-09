@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Reyes,helen.reyes7576@example.com,+1 242-780-7267,762 02 1700,6/25/1950,"4856 Sixth Blvd",San Diego,VA

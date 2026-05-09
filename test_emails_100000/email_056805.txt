@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Smith,jessica.smith6747@example.com,(938) 905-9866,582-65-4143,07/17/1987,"7525 Fourth Dr",San Jose,CA

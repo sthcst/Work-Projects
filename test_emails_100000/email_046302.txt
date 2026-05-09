@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Martinez,kimberly.martinez5830@work.org,624-386-5059,448-80-9087,27/03/1963,"1842 Summer Way",San Diego,FL

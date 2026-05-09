@@ -1,9 +1,0 @@
-contact:
-  name: Emma Hernandez
-  email: emma.hernandez6298@outlook.com
-  phone: 790 784 9296
-  ssn: 022-64-6531
-  dob: 12/18/1964
-  address: 2643 Summer Dr
-  city: Chicago
-  state: TX

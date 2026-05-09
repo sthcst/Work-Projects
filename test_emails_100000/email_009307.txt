@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Reyes,emily.reyes7223@mail.com,729-591-1157,740 98 6867,9/6/1999,"2936 Pine Court",San Diego,NJ

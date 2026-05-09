@@ -1,9 +1,0 @@
-contact:
-  name: Emma Hall
-  email: emma.hall7943@outlook.com
-  phone: (499) 670-1671
-  ssn: 354 53 9468
-  dob: 04-11-2001
-  address: 4270 West Ave
-  city: Denver
-  state: AZ

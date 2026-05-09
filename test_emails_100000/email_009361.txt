@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Gonzalez,jacob.gonzalez5904@example.com,+1 968-993-2492,755 11 4330,09-18-1968,"5716 Pine Blvd",Houston,TN

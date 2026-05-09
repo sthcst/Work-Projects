@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Morgan
-  email: joshua.morgan6416@work.org
-  phone: (959) 673-6299
-  ssn: 500 48 9872
-  dob: 07-23-1965
-  address: 3801 Oak Ave
-  city: Houston
-  state: PA

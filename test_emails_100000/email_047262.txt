@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Rodriguez,shirley.rodriguez2@outlook.com,+1 658-667-2324,511-25-2228,12/10/1961,"5495 Main Blvd",Los Angeles,CA

@@ -1,9 +1,0 @@
-contact:
-  name: Donald Dominguez
-  email: donald.dominguez4788@work.org
-  phone: 609 555 9090
-  ssn: 534-14-3858
-  dob: 06/09/1998
-  address: 2886 Pine Ln
-  city: Seattle
-  state: WI

@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Edwards
-  email: anthony.edwards7244@mail.com
-  phone: 804-819-8390
-  ssn: 561-27-2722
-  dob: 7/7/2004
-  address: 9434 Spring Way
-  city: San Antonio
-  state: WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Martin,anthony.martin895@company.com,(236) 681-5263,168 91 8653,16/02/1952,"5851 Fourth Court",Seattle,DC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Parker,jane.parker8846@work.org,714-835-8307,394-58-5461,08/18/1986,"562 Fifth Way",New York,IL

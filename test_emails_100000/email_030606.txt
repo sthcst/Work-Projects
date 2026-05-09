@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Thomas
-  email: shirley.thomas1981@business.net
-  phone: (838) 621-8208
-  ssn: 642-39-4111
-  dob: 05/22/1959
-  address: 1401 Summer Dr
-  city: Philadelphia
-  state: CA

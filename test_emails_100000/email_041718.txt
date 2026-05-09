@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Collins,angela.collins7558@yahoo.com,618-972-2727,907-01-4788,20/02/1980,"6916 Cedar Dr",Phoenix,TX

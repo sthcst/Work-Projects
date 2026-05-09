@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Serrano
-  email: shirley.serrano8377@work.org
-  phone: 298-403-2770
-  ssn: 516-46-4679
-  dob: 09/23/1993
-  address: 2466 Maple Rd
-  city: San Diego
-  state: MD

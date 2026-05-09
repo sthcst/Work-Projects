@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Williams,maria.williams6304@outlook.com,+1 958-778-7817,425-85-3243,05/16/1970,"8648 East Dr",Chicago,TN

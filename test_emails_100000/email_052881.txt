@@ -1,9 +1,0 @@
-contact:
-  name: Maria Morgan
-  email: maria.morgan82@mail.com
-  phone: (432) 600-2937
-  ssn: 684-68-7035
-  dob: 25/08/1975
-  address: 7875 Maple Ave
-  city: New York
-  state: CA

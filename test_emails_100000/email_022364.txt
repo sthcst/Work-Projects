@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Alvarado,william.alvarado7252@business.net,463 280 5215,848587181,12/22/1978,"8056 Cedar St",San Jose,CA

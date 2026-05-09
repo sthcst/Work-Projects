@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Stewart,gary.stewart723@outlook.com,+1 272-271-5550,717427842,10/11/1954,"3573 Pine Ave",Denver,WA

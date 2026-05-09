@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Gomez,gary.gomez1236@example.com,817-338-8797,528-89-4620,12/27/1975,"1179 Pine St",Chicago,CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Lee,christopher.lee9002@business.net,+1 332-649-1627,985 71 4364,22/04/1986,"9558 Main Court",Chicago,FL

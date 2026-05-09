@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Romero,timothy.romero9633@company.com,287-449-6240,344-76-3280,01-10-1967,"4532 Main Ln",Chicago,CA

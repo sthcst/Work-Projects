@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Rogers,ashley.rogers2977@mail.com,+1 517-981-2491,059536055,2/25/2001,"3612 East Court",Denver,FL

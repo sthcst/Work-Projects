@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Romero,kevin.romero9496@company.com,482 717 3761,283899075,11/10/1964,"8180 North St",Austin,OH

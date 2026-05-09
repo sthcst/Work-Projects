@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Delgado,katherine.delgado9473@business.net,+1 901-466-7555,772-46-8406,10/08/1996,"4573 Second Ln",Houston,GA

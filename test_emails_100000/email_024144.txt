@@ -1,9 +1,0 @@
-contact:
-  name: Robert Phillips
-  email: robert.phillips1547@mail.com
-  phone: +1 828-895-6328
-  ssn: 037 44 4832
-  dob: 8/13/1989
-  address: 2681 North Dr
-  city: San Antonio
-  state: OH

@@ -1,9 +1,0 @@
-contact:
-  name: Angela Wilson
-  email: angela.wilson4681@business.net
-  phone: (637) 859-5922
-  ssn: 898-70-8866
-  dob: 01-12-1964
-  address: 8170 Spring St
-  city: Washington
-  state: AZ

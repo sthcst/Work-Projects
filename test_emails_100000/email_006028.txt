@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Martin
-  email: jeffrey.martin8546@example.com
-  phone: 457-883-1618
-  ssn: 075176523
-  dob: 3/24/1953
-  address: 3491 Fourth Ave
-  city: Seattle
-  state: TN

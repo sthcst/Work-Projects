@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Johnson,andrew.johnson3811@company.com,(708) 508-7259,550204484,9/8/1956,"4256 Main Dr",Washington,WI

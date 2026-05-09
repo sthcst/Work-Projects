@@ -1,9 +1,0 @@
-contact:
-  name: Anna Stewart
-  email: anna.stewart1399@gmail.com
-  phone: 717 552 1681
-  ssn: 679-01-2591
-  dob: 08/10/1992
-  address: 5706 Main Ave
-  city: Seattle
-  state: CA

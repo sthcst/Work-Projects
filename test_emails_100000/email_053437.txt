@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Campbell,brian.campbell6231@company.com,611-479-8643,469 24 1768,7/18/1968,"1882 Summer Rd",Houston,FL

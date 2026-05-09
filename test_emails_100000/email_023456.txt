@@ -1,9 +1,0 @@
-contact:
-  name: Steven Flores
-  email: steven.flores3281@business.net
-  phone: 424 765 9597
-  ssn: 827265442
-  dob: 02-12-1977
-  address: 6467 Second Ln
-  city: Denver
-  state: MO

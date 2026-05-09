@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Lewis,kevin.lewis4712@outlook.com,(477) 357-8608,858 85 9756,06/09/2003,"2972 Birch Blvd",Seattle,MO

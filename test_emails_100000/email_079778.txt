@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Ramirez,william.ramirez2319@mail.com,(457) 952-1353,738 43 9703,08-09-1952,"9530 Third Court",Los Angeles,TN

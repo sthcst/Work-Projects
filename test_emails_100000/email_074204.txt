@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Hernandez,donald.hernandez2045@business.net,(517) 332-5618,415 91 3321,14/12/2001,"8764 Pine Ave",Phoenix,MI

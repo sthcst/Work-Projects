@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Clark
-  email: stephanie.clark9683@gmail.com
-  phone: +1 361-348-9255
-  ssn: 151 82 6055
-  dob: 5/25/1975
-  address: 2326 North Blvd
-  city: Phoenix
-  state: TX

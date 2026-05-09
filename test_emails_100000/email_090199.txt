@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey White
-  email: jeffrey.white5502@outlook.com
-  phone: 284-469-8512
-  ssn: 288338686
-  dob: 07-22-1982
-  address: 6675 Birch Blvd
-  city: Houston
-  state: CO

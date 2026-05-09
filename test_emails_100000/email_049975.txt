@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Johnson
-  email: ronald.johnson8351@outlook.com
-  phone: 450 662 7784
-  ssn: 693521516
-  dob: 10/11/1974
-  address: 4207 Maple Ln
-  city: New York
-  state: OH

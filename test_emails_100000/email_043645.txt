@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Martinez,rebecca.martinez3322@work.org,635 277 5432,963 56 9309,04/06/2000,"2645 Summer Ave",Houston,WA

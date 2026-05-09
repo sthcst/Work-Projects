@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Perez,robert.perez8191@example.com,505-966-2535,684 14 1632,07-14-1984,"6987 Cedar Rd",San Jose,MD

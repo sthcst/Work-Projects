@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Evans,nicole.evans2484@gmail.com,+1 636-459-6494,944-11-5698,02/13/2004,"6365 West St",Philadelphia,OH

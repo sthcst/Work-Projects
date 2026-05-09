@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Dominguez,donald.dominguez2394@gmail.com,904 727 3068,483 82 6209,3/4/1989,"6802 Second St",San Antonio,DC

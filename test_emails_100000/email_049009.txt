@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Moore,rachel.moore3733@yahoo.com,952-204-6214,314 79 2345,10/14/2002,"5819 South Ave",Dallas,FL

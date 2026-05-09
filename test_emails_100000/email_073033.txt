@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Collins
-  email: ryan.collins287@work.org
-  phone: 486-431-2142
-  ssn: 632-91-9383
-  dob: 6/24/1954
-  address: 3986 Main St
-  city: Seattle
-  state: TX

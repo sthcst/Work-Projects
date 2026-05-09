@@ -1,9 +1,0 @@
-contact:
-  name: Mark Guerrero
-  email: mark.guerrero7104@yahoo.com
-  phone: 479 409 8222
-  ssn: 564-99-3284
-  dob: 07-20-1981
-  address: 7073 Fifth Ln
-  city: Austin
-  state: VA

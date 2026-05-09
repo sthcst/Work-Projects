@@ -1,9 +1,0 @@
-contact:
-  name: Maria Morris
-  email: maria.morris3680@work.org
-  phone: 216 892 7676
-  ssn: 760 67 4571
-  dob: 05-19-1980
-  address: 7452 North Ave
-  city: Austin
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Robert Young
-  email: robert.young828@gmail.com
-  phone: 799-803-5353
-  ssn: 078-47-7049
-  dob: 10/11/1966
-  address: 9839 Third St
-  city: Jacksonville
-  state: IL

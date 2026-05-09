@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Walker
-  email: daniel.walker6727@gmail.com
-  phone: +1 936-429-8657
-  ssn: 902 32 7891
-  dob: 02/26/1995
-  address: 5460 West Rd
-  city: Chicago
-  state: NY

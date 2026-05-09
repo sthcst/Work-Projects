@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Jackson,shirley.jackson209@business.net,(686) 248-8689,235-42-6519,05/13/1954,"6849 Fifth Ave",Dallas,OH

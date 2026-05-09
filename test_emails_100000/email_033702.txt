@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Stewart,helen.stewart1579@business.net,798-662-5998,309888216,6/18/1967,"130 First Blvd",Philadelphia,MI

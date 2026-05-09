@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Clark,deborah.clark2240@business.net,714 302 7527,142-07-3142,01-23-1951,"6924 Spring Court",Los Angeles,CA

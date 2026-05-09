@@ -1,9 +1,0 @@
-contact:
-  name: Megan White
-  email: megan.white7846@company.com
-  phone: 204-605-9486
-  ssn: 744382723
-  dob: 07-18-1986
-  address: 1070 First Ln
-  city: Seattle
-  state: CO

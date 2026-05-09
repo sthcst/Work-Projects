@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Guerrero,sarah.guerrero9356@company.com,(852) 439-1812,897-30-2935,4/16/2002,"4799 Oak Dr",San Jose,WA

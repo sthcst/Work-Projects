@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Thomas
-  email: katherine.thomas3070@outlook.com
-  phone: +1 798-722-4389
-  ssn: 940 07 1298
-  dob: 21/10/2005
-  address: 8452 East Way
-  city: Washington
-  state: TX

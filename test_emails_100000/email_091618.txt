@@ -1,9 +1,0 @@
-contact:
-  name: Angela Hall
-  email: angela.hall7428@mail.com
-  phone: (786) 842-8556
-  ssn: 545084432
-  dob: 21/03/2002
-  address: 4089 Maple Court
-  city: San Jose
-  state: DC

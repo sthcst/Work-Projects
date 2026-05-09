@@ -1,9 +1,0 @@
-contact:
-  name: Helen Miller
-  email: helen.miller1416@company.com
-  phone: +1 629-345-3282
-  ssn: 214 31 7585
-  dob: 12/12/1990
-  address: 2145 Main Court
-  city: Austin
-  state: AZ

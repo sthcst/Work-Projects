@@ -1,9 +1,0 @@
-contact:
-  name: Emily Garcia
-  email: emily.garcia740@company.com
-  phone: (667) 239-3506
-  ssn: 559409866
-  dob: 12/7/1980
-  address: 9666 West Ave
-  city: San Diego
-  state: MI

@@ -1,9 +1,0 @@
-contact:
-  name: Helen Ramirez
-  email: helen.ramirez2429@yahoo.com
-  phone: 472-316-3472
-  ssn: 864 86 4848
-  dob: 03/09/1963
-  address: 7397 North Blvd
-  city: Houston
-  state: TX

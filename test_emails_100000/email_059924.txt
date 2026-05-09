@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Rogers,brian.rogers3834@yahoo.com,(300) 382-9740,121736740,1/24/1966,"5973 Summer Ave",Chicago,AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Roberts
-  email: cynthia.roberts1203@outlook.com
-  phone: 570-212-1289
-  ssn: 178 76 2246
-  dob: 02-21-1950
-  address: 6754 Maple Ave
-  city: Houston
-  state: OH

@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Peterson
-  email: joseph.peterson3679@mail.com
-  phone: +1 656-475-7057
-  ssn: 456 74 8569
-  dob: 19/01/1987
-  address: 1844 Main Way
-  city: San Antonio
-  state: CA

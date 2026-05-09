@@ -1,9 +1,0 @@
-contact:
-  name: Paul Harris
-  email: paul.harris512@outlook.com
-  phone: +1 359-641-7726
-  ssn: 361-18-7473
-  dob: 02/24/1982
-  address: 2669 Spring Court
-  city: San Jose
-  state: CA

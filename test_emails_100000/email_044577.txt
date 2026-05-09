@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Hernandez,jane.hernandez2151@example.com,807 790 5671,598-02-4175,08-03-1988,"5806 West Blvd",San Diego,MI

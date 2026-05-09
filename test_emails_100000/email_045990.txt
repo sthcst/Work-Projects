@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Miller,charles.miller247@gmail.com,879 513 6052,200-07-5762,02-19-1991,"5501 First St",New York,OH

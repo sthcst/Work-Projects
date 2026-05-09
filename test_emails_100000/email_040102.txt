@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Reed
-  email: rachel.reed8865@work.org
-  phone: (356) 394-7472
-  ssn: 820309176
-  dob: 8/22/1985
-  address: 9846 First Ave
-  city: San Antonio
-  state: NY

@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Young
-  email: andrew.young1844@work.org
-  phone: 988-708-7863
-  ssn: 404-47-1161
-  dob: 07-01-1979
-  address: 4112 Pine Court
-  city: Chicago
-  state: TX

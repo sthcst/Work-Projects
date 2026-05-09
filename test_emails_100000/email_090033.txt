@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Morgan
-  email: samantha.morgan3415@gmail.com
-  phone: 689 769 3369
-  ssn: 011347110
-  dob: 12-21-1983
-  address: 639 Third Way
-  city: San Diego
-  state: GA

@@ -1,9 +1,0 @@
-contact:
-  name: Helen Lewis
-  email: helen.lewis1244@outlook.com
-  phone: (668) 407-5492
-  ssn: 616-61-4600
-  dob: 6/7/1976
-  address: 4374 Third Ave
-  city: Austin
-  state: MA

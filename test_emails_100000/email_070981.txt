@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Campbell,nicole.campbell2456@company.com,+1 585-629-8533,101-93-3421,05-23-1997,"9602 First Way",San Antonio,NC

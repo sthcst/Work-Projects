@@ -1,9 +1,0 @@
-contact:
-  name: Brian Gomez
-  email: brian.gomez825@business.net
-  phone: +1 314-882-4343
-  ssn: 778701215
-  dob: 7/20/1997
-  address: 6265 North Ln
-  city: Chicago
-  state: MA

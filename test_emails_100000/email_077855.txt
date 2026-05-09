@@ -1,9 +1,0 @@
-contact:
-  name: Jason Edwards
-  email: jason.edwards5523@mail.com
-  phone: +1 504-723-9758
-  ssn: 274695200
-  dob: 6/17/1991
-  address: 3174 Third Court
-  city: Washington
-  state: AZ

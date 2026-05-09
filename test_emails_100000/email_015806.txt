@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Moore
-  email: samantha.moore5152@company.com
-  phone: +1 309-933-6911
-  ssn: 561-06-1442
-  dob: 01/06/1997
-  address: 448 Summer St
-  city: San Diego
-  state: GA

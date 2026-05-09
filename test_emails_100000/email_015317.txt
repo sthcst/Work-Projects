@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Nunez,michael.nunez7850@outlook.com,518 377 6977,229 90 8622,2/13/2005,"4466 Third Court",Dallas,VA

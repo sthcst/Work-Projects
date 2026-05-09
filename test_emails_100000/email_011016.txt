@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Romero,anna.romero2311@business.net,615-754-5562,586573885,17/04/1995,"7943 Maple Dr",Dallas,CA

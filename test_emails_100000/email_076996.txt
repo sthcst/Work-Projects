@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Robinson
-  email: sarah.robinson9629@yahoo.com
-  phone: +1 909-801-2896
-  ssn: 051-33-6522
-  dob: 08-15-1981
-  address: 5102 East Rd
-  city: Jacksonville
-  state: CA

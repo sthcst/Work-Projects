@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Murillo
-  email: amanda.murillo1425@company.com
-  phone: (836) 947-4767
-  ssn: 402213293
-  dob: 13/09/1999
-  address: 8858 West Rd
-  city: San Antonio
-  state: MA

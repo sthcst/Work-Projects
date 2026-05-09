@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Alvarado,paul.alvarado5900@mail.com,+1 271-447-4478,112 13 4844,19/09/1951,"3585 Main Rd",San Diego,MI

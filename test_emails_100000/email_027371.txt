@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Murillo,david.murillo8446@outlook.com,+1 989-958-6695,052 52 2689,05-27-1981,"733 North Ln",Austin,WA

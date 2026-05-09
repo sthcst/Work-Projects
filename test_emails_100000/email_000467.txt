@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Phillips
-  email: lisa.phillips7948@work.org
-  phone: +1 812-565-9903
-  ssn: 493-38-2581
-  dob: 02-25-1998
-  address: 6884 First Blvd
-  city: San Diego
-  state: NJ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Smith,timothy.smith3417@work.org,+1 716-231-6586,573801063,28/10/1981,"6993 West Rd",New York,CA

@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Rogers
-  email: nicole.rogers177@yahoo.com
-  phone: 442-326-9292
-  ssn: 565858807
-  dob: 05/27/2005
-  address: 4064 Birch Rd
-  city: Philadelphia
-  state: TN

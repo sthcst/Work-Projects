@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Brown,paul.brown2222@example.com,938-714-5599,309 43 8972,7/19/1961,"6387 Second St",Seattle,FL

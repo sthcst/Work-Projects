@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Jimenez
-  email: michelle.jimenez5419@business.net
-  phone: 327 275 4629
-  ssn: 883097674
-  dob: 08/11/1974
-  address: 8359 East Dr
-  city: Chicago
-  state: NY

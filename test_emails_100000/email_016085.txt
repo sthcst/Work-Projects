@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Martinez,christopher.martinez4127@yahoo.com,934 889 4901,458 58 5027,6/12/2004,"4308 Maple Rd",San Antonio,CA

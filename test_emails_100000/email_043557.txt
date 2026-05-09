@@ -1,9 +1,0 @@
-contact:
-  name: Christine Campbell
-  email: christine.campbell8616@example.com
-  phone: 909 646 6072
-  ssn: 437 61 2601
-  dob: 1/17/1971
-  address: 1665 South Court
-  city: Washington
-  state: FL

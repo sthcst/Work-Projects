@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Moore
-  email: amanda.moore3594@outlook.com
-  phone: 745-502-7330
-  ssn: 574 13 9478
-  dob: 25/03/1969
-  address: 5923 North Rd
-  city: Chicago
-  state: FL

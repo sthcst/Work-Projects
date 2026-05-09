@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Dominguez,amanda.dominguez3188@example.com,803 555 9120,191495107,10-18-1979,"1612 Second Ave",San Antonio,CA

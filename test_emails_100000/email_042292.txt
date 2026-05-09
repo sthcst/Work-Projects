@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Jimenez,lisa.jimenez2287@example.com,(858) 225-7142,260 05 2337,16/09/1982,"3127 Summer Ln",San Diego,NY

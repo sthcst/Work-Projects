@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Parker,charles.parker5632@mail.com,603-665-9066,173 01 1697,05/04/1976,"5795 Maple Ln",Seattle,MO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Garcia,katherine.garcia9619@outlook.com,+1 346-640-3028,253 44 6524,5/21/1960,"9891 Pine Ave",Los Angeles,IL

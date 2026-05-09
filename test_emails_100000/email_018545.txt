@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Lee,robert.lee1653@business.net,537 324 1342,964085216,11/8/1956,"4001 South Court",San Jose,FL

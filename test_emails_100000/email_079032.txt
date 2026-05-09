@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Rogers,donald.rogers9275@yahoo.com,(752) 444-2899,003-31-8056,02/10/1964,"6987 East Blvd",San Diego,NC

@@ -1,9 +1,0 @@
-contact:
-  name: Edward Bell
-  email: edward.bell6850@example.com
-  phone: +1 912-904-6107
-  ssn: 536 71 5393
-  dob: 08-17-1988
-  address: 6368 Pine Rd
-  city: Chicago
-  state: IL

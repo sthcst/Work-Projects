@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Jackson,brenda.jackson8472@mail.com,508-261-1092,460 02 8911,26/05/1989,"9380 Maple Court",Phoenix,FL

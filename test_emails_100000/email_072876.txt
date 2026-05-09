@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Gomez
-  email: deborah.gomez2884@yahoo.com
-  phone: +1 934-205-8021
-  ssn: 698017319
-  dob: 07/08/1963
-  address: 6078 Oak St
-  city: Austin
-  state: NJ

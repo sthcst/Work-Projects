@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Young,ashley.young2032@yahoo.com,(374) 728-3544,053 06 8332,10-16-2005,"5453 Fourth Blvd",Los Angeles,TX

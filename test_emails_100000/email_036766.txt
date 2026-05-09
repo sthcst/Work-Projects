@@ -1,9 +1,0 @@
-contact:
-  name: David Martinez
-  email: david.martinez7534@example.com
-  phone: 822-729-9235
-  ssn: 992118048
-  dob: 01/05/2000
-  address: 1709 South Ln
-  city: San Jose
-  state: WA

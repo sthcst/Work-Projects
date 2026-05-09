@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Bell,michael.bell1796@mail.com,741 743 6790,954052883,09-15-1992,"438 Fifth Blvd",Philadelphia,OH

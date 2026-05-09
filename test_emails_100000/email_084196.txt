@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Taylor,katherine.taylor6772@outlook.com,345 661 3285,238715049,11/23/1976,"6779 Birch Ave",Chicago,MO

@@ -1,9 +1,0 @@
-contact:
-  name: Donald Smith
-  email: donald.smith7471@yahoo.com
-  phone: (933) 262-4936
-  ssn: 306-82-2839
-  dob: 5/21/2005
-  address: 3491 North Ave
-  city: San Antonio
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Davis,brenda.davis7345@business.net,+1 202-714-3088,810-90-6574,18/09/1952,"1441 Spring Ln",San Antonio,TX

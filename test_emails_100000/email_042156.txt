@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Moore
-  email: deborah.moore4320@company.com
-  phone: +1 392-777-1885
-  ssn: 958 98 7877
-  dob: 06-20-1996
-  address: 5463 Third Blvd
-  city: Los Angeles
-  state: MI

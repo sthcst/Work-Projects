@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Evans,stephanie.evans2355@example.com,+1 710-926-4186,589 49 1020,12-03-1964,"8709 Third St",San Antonio,AZ

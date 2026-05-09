@@ -1,9 +1,0 @@
-contact:
-  name: Helen Gonzalez
-  email: helen.gonzalez7458@work.org
-  phone: 244-577-5229
-  ssn: 729414722
-  dob: 19/05/1973
-  address: 2022 North Ln
-  city: Los Angeles
-  state: AZ

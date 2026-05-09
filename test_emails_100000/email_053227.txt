@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Perez
-  email: ashley.perez1422@yahoo.com
-  phone: (972) 490-6935
-  ssn: 940191605
-  dob: 6/10/1986
-  address: 1625 Sixth Court
-  city: Philadelphia
-  state: FL

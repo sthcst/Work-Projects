@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Evans,ryan.evans6942@business.net,+1 250-349-7573,702-36-5819,22/03/1976,"2597 Third St",Seattle,MA

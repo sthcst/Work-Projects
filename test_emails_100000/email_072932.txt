@@ -1,9 +1,0 @@
-contact:
-  name: Megan Stewart
-  email: megan.stewart2958@company.com
-  phone: +1 803-340-8860
-  ssn: 427661869
-  dob: 11-02-1973
-  address: 567 Cedar St
-  city: Boston
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Rogers,lisa.rogers8232@gmail.com,(976) 386-8556,774864352,2/6/1968,"2401 Cedar Court",Boston,PA

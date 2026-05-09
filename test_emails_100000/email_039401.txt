@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Perez,maria.perez2679@mail.com,+1 867-592-7583,409-46-6285,03-23-1992,"2959 Maple Blvd",Jacksonville,FL

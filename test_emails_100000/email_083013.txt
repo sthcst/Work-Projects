@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Roberts
-  email: pamela.roberts3054@mail.com
-  phone: (351) 535-1103
-  ssn: 880 29 8511
-  dob: 12-04-1980
-  address: 5272 Fourth Court
-  city: Philadelphia
-  state: TX

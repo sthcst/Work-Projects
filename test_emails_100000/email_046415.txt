@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Lewis
-  email: jennifer.lewis5241@mail.com
-  phone: (663) 309-4380
-  ssn: 342636603
-  dob: 10/25/1953
-  address: 4137 Pine St
-  city: New York
-  state: DC

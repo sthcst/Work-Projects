@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Nunez
-  email: katherine.nunez3421@example.com
-  phone: 815 355 9735
-  ssn: 049 97 3060
-  dob: 02/27/1950
-  address: 1047 Elm Blvd
-  city: Denver
-  state: OH

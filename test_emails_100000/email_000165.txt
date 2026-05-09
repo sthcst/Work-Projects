@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Ramirez
-  email: cynthia.ramirez8692@work.org
-  phone: 317-884-6668
-  ssn: 457-31-4994
-  dob: 11/11/1974
-  address: 6332 Spring Dr
-  city: New York
-  state: WI

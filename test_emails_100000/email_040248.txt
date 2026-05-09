@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Phillips,shirley.phillips5717@mail.com,900-220-3374,215502939,07/05/1966,"6106 Sixth Blvd",New York,VA

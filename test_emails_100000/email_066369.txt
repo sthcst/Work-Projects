@@ -1,9 +1,0 @@
-contact:
-  name: Emma Carter
-  email: emma.carter2967@mail.com
-  phone: 272-475-4270
-  ssn: 828 38 5810
-  dob: 04/23/1968
-  address: 452 Fourth Way
-  city: Philadelphia
-  state: IL

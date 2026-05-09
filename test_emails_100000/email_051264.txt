@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Davis,william.davis1647@work.org,+1 859-490-2086,530-47-4102,6/11/1997,"7703 Park Ln",Boston,CA

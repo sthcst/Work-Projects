@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Perez,jessica.perez8049@mail.com,+1 245-653-2872,288755006,04/23/1975,"8193 Spring Dr",Jacksonville,CA

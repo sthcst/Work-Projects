@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Rogers,megan.rogers9914@mail.com,+1 897-824-6434,511-83-1825,10/8/1994,"8256 First Blvd",Seattle,WI

@@ -1,9 +1,0 @@
-contact:
-  name: Megan Guerrero
-  email: megan.guerrero4266@mail.com
-  phone: (792) 812-5438
-  ssn: 048221677
-  dob: 6/11/1959
-  address: 7781 Pine Ln
-  city: Houston
-  state: CA

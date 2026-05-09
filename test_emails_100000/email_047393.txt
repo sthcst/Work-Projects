@@ -1,9 +1,0 @@
-contact:
-  name: Richard Brown
-  email: richard.brown57@yahoo.com
-  phone: 361-978-1281
-  ssn: 529 85 6016
-  dob: 11/10/1963
-  address: 4218 Fourth Ln
-  city: Austin
-  state: MO

@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Young
-  email: kenneth.young9555@business.net
-  phone: (581) 659-9109
-  ssn: 300-47-7312
-  dob: 07/08/1968
-  address: 4891 Park Dr
-  city: San Antonio
-  state: WI

@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Jackson
-  email: anthony.jackson2166@company.com
-  phone: +1 723-683-2003
-  ssn: 397 89 4942
-  dob: 08-17-1994
-  address: 970 Maple St
-  city: Phoenix
-  state: CA

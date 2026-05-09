@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Lopez,kathleen.lopez9193@yahoo.com,924 529 3089,512302183,03-23-1993,"3192 Third Ln",Dallas,FL

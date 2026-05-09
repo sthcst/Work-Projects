@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Lopez
-  email: nicholas.lopez9067@company.com
-  phone: 795-840-8183
-  ssn: 311831384
-  dob: 11/02/1955
-  address: 1050 Spring St
-  city: Jacksonville
-  state: NY

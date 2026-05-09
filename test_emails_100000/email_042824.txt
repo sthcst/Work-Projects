@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Hall
-  email: michelle.hall8450@company.com
-  phone: (979) 501-4143
-  ssn: 061 11 5327
-  dob: 04/04/1954
-  address: 8696 South Rd
-  city: Chicago
-  state: AZ

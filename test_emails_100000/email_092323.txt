@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Jackson,kathleen.jackson8251@work.org,(457) 367-9756,479 20 1655,21/07/1965,"8398 Elm Ave",Jacksonville,AZ

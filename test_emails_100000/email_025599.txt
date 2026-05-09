@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Martin,stephanie.martin3944@work.org,754 698 1822,019622288,8/14/1951,"7500 Pine Rd",Jacksonville,VA

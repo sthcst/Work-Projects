@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Johnson,edward.johnson3506@yahoo.com,797 537 7318,306526543,12/12/1969,"4125 North Blvd",San Diego,TX

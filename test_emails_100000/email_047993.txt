@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Harris,william.harris8638@work.org,677-777-4064,561 15 7836,11/10/1965,"308 West Ave",Jacksonville,TX

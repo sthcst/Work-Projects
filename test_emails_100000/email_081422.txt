@@ -1,9 +1,0 @@
-contact:
-  name: Christine Bell
-  email: christine.bell1570@yahoo.com
-  phone: (479) 537-6935
-  ssn: 512-70-9603
-  dob: 07-16-1975
-  address: 4407 Fourth Ave
-  city: New York
-  state: NY

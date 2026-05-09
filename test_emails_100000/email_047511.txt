@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Cooper
-  email: katherine.cooper9278@business.net
-  phone: 303 366 1275
-  ssn: 620 43 1500
-  dob: 6/24/1963
-  address: 8121 Cedar Rd
-  city: San Jose
-  state: NY

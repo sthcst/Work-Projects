@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul White,paul.white1129@work.org,237-869-5490,552 08 5825,3/21/1984,"8299 Maple Way",Austin,MO

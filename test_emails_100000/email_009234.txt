@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Rodriguez
-  email: amanda.rodriguez8993@gmail.com
-  phone: +1 530-341-7003
-  ssn: 218786079
-  dob: 28/01/1999
-  address: 6873 Spring Way
-  city: San Antonio
-  state: TX

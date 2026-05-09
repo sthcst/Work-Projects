@@ -1,9 +1,0 @@
-contact:
-  name: Robert Nelson
-  email: robert.nelson3904@mail.com
-  phone: 462-494-3679
-  ssn: 310948905
-  dob: 10/13/1991
-  address: 9329 North Way
-  city: San Jose
-  state: NY

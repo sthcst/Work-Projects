@@ -1,9 +1,0 @@
-contact:
-  name: Michael Guerrero
-  email: michael.guerrero1927@mail.com
-  phone: 550 288 4552
-  ssn: 725-11-5359
-  dob: 2/20/1982
-  address: 1699 North Court
-  city: San Antonio
-  state: NY

@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Jackson
-  email: andrew.jackson1396@mail.com
-  phone: +1 876-208-5440
-  ssn: 817 32 9488
-  dob: 11/23/1975
-  address: 4937 Sixth Way
-  city: Dallas
-  state: NY

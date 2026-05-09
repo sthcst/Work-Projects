@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Thomas,jessica.thomas2938@business.net,+1 947-649-3107,113202181,12/08/1950,"4063 South Dr",Jacksonville,NY

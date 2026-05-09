@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Taylor
-  email: kenneth.taylor5505@gmail.com
-  phone: 983-885-6514
-  ssn: 099 48 5850
-  dob: 06-10-2001
-  address: 8494 South Blvd
-  city: Chicago
-  state: MA

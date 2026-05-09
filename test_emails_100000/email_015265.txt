@@ -1,9 +1,0 @@
-contact:
-  name: Mark Williams
-  email: mark.williams9916@work.org
-  phone: 571-327-7153
-  ssn: 015 11 4450
-  dob: 06/23/2003
-  address: 1593 West Ave
-  city: Dallas
-  state: MD

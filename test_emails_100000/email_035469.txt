@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Smith,maria.smith3204@yahoo.com,+1 271-457-3032,831-28-4032,17/08/1999,"5629 Elm Ln",Houston,MA

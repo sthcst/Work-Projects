@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Hall,emma.hall4163@outlook.com,506 236 5373,789032157,04/23/1959,"9488 Third Dr",New York,AZ

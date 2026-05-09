@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Parker
-  email: ashley.parker8994@yahoo.com
-  phone: 472-278-5577
-  ssn: 273367370
-  dob: 10/25/1961
-  address: 6018 South St
-  city: Seattle
-  state: AZ

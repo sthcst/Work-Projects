@@ -1,9 +1,0 @@
-contact:
-  name: Steven Lewis
-  email: steven.lewis6104@gmail.com
-  phone: 804-624-4823
-  ssn: 356-22-3407
-  dob: 04/17/1954
-  address: 4032 Spring Ave
-  city: New York
-  state: MD

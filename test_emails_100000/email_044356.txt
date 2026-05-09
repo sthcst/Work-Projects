@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Jones,stephanie.jones2486@gmail.com,+1 286-898-9751,044-16-1444,09-26-1975,"8774 Sixth Way",Philadelphia,NY

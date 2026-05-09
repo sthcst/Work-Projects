@@ -1,9 +1,0 @@
-contact:
-  name: Maria Hall
-  email: maria.hall4543@business.net
-  phone: 354-282-5436
-  ssn: 971 89 1121
-  dob: 05/18/1971
-  address: 4772 Main Court
-  city: Jacksonville
-  state: CO

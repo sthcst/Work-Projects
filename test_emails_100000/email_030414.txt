@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Nelson
-  email: ryan.nelson6973@gmail.com
-  phone: +1 279-943-7433
-  ssn: 357-80-6658
-  dob: 12/24/1984
-  address: 1617 Fifth St
-  city: Boston
-  state: WI

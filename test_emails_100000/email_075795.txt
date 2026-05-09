@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Alvarado,maria.alvarado5622@outlook.com,598-795-1691,506-87-8626,01-07-1993,"6360 Summer Dr",Jacksonville,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Reeves,helen.reeves8018@business.net,+1 296-423-4963,247 93 8928,10-17-2002,"3155 Birch Ave",San Jose,MO

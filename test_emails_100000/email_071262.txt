@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Gomez,james.gomez6913@mail.com,+1 555-384-4641,129605665,10/21/2003,"4459 North St",Washington,MI

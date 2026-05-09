@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Martinez,katherine.martinez1984@mail.com,823-647-7907,749861394,02-15-1998,"2479 North Blvd",Los Angeles,TX

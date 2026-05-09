@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Thomas
-  email: kenneth.thomas7568@gmail.com
-  phone: +1 310-809-5083
-  ssn: 411-08-6811
-  dob: 06/20/1980
-  address: 2919 Pine Dr
-  city: San Antonio
-  state: GA

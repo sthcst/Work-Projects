@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Flores,andrew.flores3853@work.org,+1 550-410-2576,516 93 6263,11-01-1957,"4449 Spring Dr",Los Angeles,NC

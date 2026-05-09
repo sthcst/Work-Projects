@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Harris,stephanie.harris5755@company.com,461 233 8438,309291226,11/21/1976,"367 Oak Dr",Houston,WA

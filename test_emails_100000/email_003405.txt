@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Phillips,rebecca.phillips4210@outlook.com,649-323-3856,149-94-4907,3/25/1971,"205 Main Court",Phoenix,CA

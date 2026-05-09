@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Taylor,brenda.taylor8095@gmail.com,938-570-6356,161679448,10/04/1981,"8630 East Dr",Jacksonville,VA

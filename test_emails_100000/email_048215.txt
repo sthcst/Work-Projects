@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Murillo,george.murillo4325@company.com,322 442 5082,586858076,03/11/1975,"5556 North Court",Denver,WA

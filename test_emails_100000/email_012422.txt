@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Smith
-  email: ryan.smith7448@example.com
-  phone: 282 709 3242
-  ssn: 964 98 9967
-  dob: 14/04/1984
-  address: 6172 Elm Dr
-  city: Los Angeles
-  state: OH

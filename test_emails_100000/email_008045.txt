@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Nelson,joseph.nelson1156@business.net,308-742-8480,377-03-3914,12/10/1974,"9638 Oak Blvd",Chicago,MO

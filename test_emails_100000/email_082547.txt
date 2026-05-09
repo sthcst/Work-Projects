@@ -1,9 +1,0 @@
-contact:
-  name: Charles Dominguez
-  email: charles.dominguez9189@gmail.com
-  phone: 334 483 1616
-  ssn: 735 52 5178
-  dob: 2/18/1996
-  address: 774 East Court
-  city: Houston
-  state: WA

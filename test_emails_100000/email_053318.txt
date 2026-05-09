@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Lopez
-  email: matthew.lopez7969@gmail.com
-  phone: 357-760-1898
-  ssn: 574 67 2399
-  dob: 05/10/1963
-  address: 6328 Sixth Dr
-  city: Washington
-  state: TN

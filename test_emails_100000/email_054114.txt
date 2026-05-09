@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Phillips
-  email: nicole.phillips2236@mail.com
-  phone: +1 610-300-3983
-  ssn: 354-48-9295
-  dob: 6/28/1985
-  address: 5141 Third Court
-  city: San Jose
-  state: DC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Roberts,daniel.roberts4878@business.net,+1 666-491-2738,478202239,6/24/1953,"1422 Summer Rd",Denver,CA

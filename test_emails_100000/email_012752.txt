@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Thomas,kevin.thomas575@business.net,838 201 9480,857-21-3119,11/22/1998,"7422 East Dr",Denver,NJ

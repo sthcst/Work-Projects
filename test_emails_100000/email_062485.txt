@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Alvarado,maria.alvarado4199@outlook.com,564-597-6745,443-23-2225,20/09/1971,"4368 Third Dr",San Diego,TX

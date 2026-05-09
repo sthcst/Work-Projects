@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Jimenez
-  email: stephanie.jimenez2658@gmail.com
-  phone: 751-527-6709
-  ssn: 932813693
-  dob: 03/25/1984
-  address: 2000 Third Ln
-  city: Denver
-  state: NC

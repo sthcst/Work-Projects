@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Williams
-  email: ryan.williams7497@mail.com
-  phone: 708-421-1165
-  ssn: 903581469
-  dob: 2/23/1995
-  address: 886 Second Way
-  city: Dallas
-  state: FL

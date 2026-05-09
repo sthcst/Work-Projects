@@ -1,9 +1,0 @@
-contact:
-  name: Gary Williams
-  email: gary.williams3685@outlook.com
-  phone: (204) 737-7241
-  ssn: 808-12-9378
-  dob: 05-17-1998
-  address: 950 West Ave
-  city: Jacksonville
-  state: MA

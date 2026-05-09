@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Lee,megan.lee4696@outlook.com,436 234 4745,692-04-7985,05/26/1973,"8229 Park St",Phoenix,DC

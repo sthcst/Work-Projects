@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Martin,james.martin5676@outlook.com,570-493-9288,720 88 1623,01/03/1999,"6851 Maple Ln",San Diego,IL

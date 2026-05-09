@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Carter,brian.carter6963@work.org,(941) 968-8045,014112059,26/06/1971,"8339 Spring Blvd",Los Angeles,TX

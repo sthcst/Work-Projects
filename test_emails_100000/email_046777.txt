@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Morgan,mark.morgan6221@mail.com,+1 857-905-8314,871 53 6614,09/12/1980,"7221 Oak Blvd",San Diego,TX

@@ -1,9 +1,0 @@
-contact:
-  name: Mark Stewart
-  email: mark.stewart328@mail.com
-  phone: 502 570 4105
-  ssn: 112-71-2746
-  dob: 02-05-1972
-  address: 7272 Main Court
-  city: San Antonio
-  state: TX

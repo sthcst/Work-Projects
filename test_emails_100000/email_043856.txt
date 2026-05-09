@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Romero,cynthia.romero4554@gmail.com,+1 715-722-8882,875 89 9363,4/22/1971,"2370 Main Way",San Antonio,TX

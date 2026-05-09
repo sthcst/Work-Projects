@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Davis,brenda.davis9497@work.org,297-975-4320,647-96-8022,12/04/1953,"2930 West Dr",Jacksonville,AZ

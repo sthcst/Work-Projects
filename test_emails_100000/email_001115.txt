@@ -1,9 +1,0 @@
-contact:
-  name: Michael Hernandez
-  email: michael.hernandez357@yahoo.com
-  phone: (649) 762-7182
-  ssn: 616432377
-  dob: 11-07-1950
-  address: 8262 South Rd
-  city: Washington
-  state: WA

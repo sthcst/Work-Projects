@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Nelson
-  email: timothy.nelson8657@company.com
-  phone: +1 708-350-7998
-  ssn: 177-51-9882
-  dob: 9/24/1950
-  address: 1139 North St
-  city: Dallas
-  state: CA

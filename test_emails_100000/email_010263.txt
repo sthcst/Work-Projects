@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Anderson,stephanie.anderson9305@work.org,339-303-8507,046067067,04/06/1965,"8105 Maple Court",San Antonio,GA

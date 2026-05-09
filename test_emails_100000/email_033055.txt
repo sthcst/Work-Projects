@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Alvarado,jane.alvarado7060@gmail.com,(467) 869-4526,713-71-4297,09/12/1980,"3980 Fifth Ave",Washington,TX

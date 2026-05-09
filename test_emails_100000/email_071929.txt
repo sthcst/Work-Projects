@@ -1,9 +1,0 @@
-contact:
-  name: Edward Nelson
-  email: edward.nelson3522@mail.com
-  phone: 867 805 7319
-  ssn: 766 28 3041
-  dob: 07/12/1965
-  address: 2818 West Rd
-  city: Denver
-  state: WA

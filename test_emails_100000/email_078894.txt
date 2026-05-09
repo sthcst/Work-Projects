@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Rogers,george.rogers9952@outlook.com,530-833-5999,959453177,20/01/1971,"9326 Second St",Boston,PA

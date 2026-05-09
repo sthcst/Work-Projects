@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Delgado,cynthia.delgado1929@business.net,(899) 639-7889,493 90 9120,06/09/2004,"2936 Spring Ave",Austin,CO

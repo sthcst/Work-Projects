@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Campbell,kenneth.campbell7713@work.org,+1 330-243-7321,728985091,07/18/1979,"8586 Oak Ln",Washington,WA

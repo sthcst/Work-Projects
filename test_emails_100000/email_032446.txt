@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Phillips
-  email: katherine.phillips3819@business.net
-  phone: 400 317 3227
-  ssn: 150 26 6499
-  dob: 7/9/1968
-  address: 841 Elm Ln
-  city: Austin
-  state: DC

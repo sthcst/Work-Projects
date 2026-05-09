@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Guerrero
-  email: jeffrey.guerrero1250@yahoo.com
-  phone: 436-270-1505
-  ssn: 909 50 7446
-  dob: 08/06/1999
-  address: 5951 Birch Dr
-  city: San Diego
-  state: PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Wilson,sarah.wilson2679@gmail.com,706-274-5622,249 15 6529,12/27/1952,"4685 Oak Ln",Boston,GA

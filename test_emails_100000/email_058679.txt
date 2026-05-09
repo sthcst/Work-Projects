@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Brown,kenneth.brown8912@company.com,(776) 957-8141,570-97-9186,23/11/1979,"8092 Second Dr",Philadelphia,AZ

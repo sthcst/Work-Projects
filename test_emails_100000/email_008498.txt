@@ -1,9 +1,0 @@
-contact:
-  name: Donald Jones
-  email: donald.jones1274@business.net
-  phone: (858) 603-1232
-  ssn: 942433778
-  dob: 03/20/2002
-  address: 3908 North Way
-  city: San Diego
-  state: FL

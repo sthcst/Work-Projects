@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Stewart,mark.stewart6906@company.com,+1 351-210-1020,528386581,07-08-1970,"1360 Cedar Dr",San Diego,CA

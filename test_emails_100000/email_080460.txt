@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Phillips,jason.phillips932@mail.com,+1 306-652-3102,570 81 3629,25/05/1981,"6467 Oak Blvd",Austin,DC

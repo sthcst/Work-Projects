@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Jackson
-  email: andrew.jackson6004@outlook.com
-  phone: 734 812 2921
-  ssn: 008585268
-  dob: 2/13/1997
-  address: 3888 Second Blvd
-  city: Seattle
-  state: VA

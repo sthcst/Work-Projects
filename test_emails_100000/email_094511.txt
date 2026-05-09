@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Delgado,robert.delgado5538@work.org,(578) 661-8207,630385324,05-18-1972,"2297 East St",San Diego,CO

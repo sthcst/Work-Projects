@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Williams,jason.williams1453@example.com,406 389 1533,671741999,03-19-1965,"2104 Elm St",New York,PA

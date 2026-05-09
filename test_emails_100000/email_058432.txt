@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Guerrero,john.guerrero3348@mail.com,+1 978-411-5872,246-91-4634,22/07/1977,"5301 South Ave",Dallas,DC

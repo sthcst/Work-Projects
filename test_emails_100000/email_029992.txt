@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Collins,timothy.collins3092@example.com,853 954 2640,553516493,4/25/1951,"4443 Pine Rd",Washington,PA

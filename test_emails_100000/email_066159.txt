@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Johnson,samantha.johnson4387@example.com,724-885-6762,387-49-5250,5/2/1968,"5795 Summer Court",Seattle,MD

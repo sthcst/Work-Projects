@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Jimenez
-  email: lisa.jimenez1863@work.org
-  phone: +1 251-959-9030
-  ssn: 180576521
-  dob: 05-25-1981
-  address: 754 First St
-  city: San Jose
-  state: IL

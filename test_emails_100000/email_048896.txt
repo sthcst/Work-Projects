@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Ortiz
-  email: christopher.ortiz1094@yahoo.com
-  phone: (476) 417-2874
-  ssn: 580-74-3224
-  dob: 2/22/1978
-  address: 1864 Elm Dr
-  city: Chicago
-  state: IL

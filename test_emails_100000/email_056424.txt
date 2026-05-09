@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Miller,lauren.miller2962@outlook.com,975 992 8295,464 40 9569,06/16/1987,"8704 Fifth Rd",San Jose,TX

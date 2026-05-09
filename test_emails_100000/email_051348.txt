@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Parker
-  email: christopher.parker9801@gmail.com
-  phone: (484) 600-8533
-  ssn: 416-40-7960
-  dob: 01/04/1989
-  address: 1076 Oak Blvd
-  city: Denver
-  state: TX

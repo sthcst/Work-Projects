@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Harris,emma.harris238@gmail.com,(460) 527-7973,957 27 9131,7/19/1963,"5517 Maple Court",San Jose,NC

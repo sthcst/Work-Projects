@@ -1,9 +1,0 @@
-contact:
-  name: Michael Flores
-  email: michael.flores3318@company.com
-  phone: 512-810-2474
-  ssn: 104-65-8856
-  dob: 5/10/1997
-  address: 80 Birch Ln
-  city: Denver
-  state: CA

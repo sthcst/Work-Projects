@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Walker,lauren.walker747@gmail.com,840 536 3354,077 90 1722,04-24-1979,"831 Elm Ln",Austin,MA

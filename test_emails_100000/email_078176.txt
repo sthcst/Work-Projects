@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Lewis,michael.lewis7209@business.net,+1 231-604-7205,544-83-3567,5/1/1965,"3972 Fifth Blvd",Washington,AZ

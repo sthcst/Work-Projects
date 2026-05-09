@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Nunez,emily.nunez5620@example.com,701 581 3200,154-79-6354,04-02-1951,"5207 Birch St",Phoenix,MA

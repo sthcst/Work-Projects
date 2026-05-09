@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Morgan,nicole.morgan4735@company.com,(814) 492-7368,236 81 7068,7/19/1966,"130 West Court",San Antonio,CA

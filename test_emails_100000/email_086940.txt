@@ -1,9 +1,0 @@
-contact:
-  name: George Stewart
-  email: george.stewart9865@mail.com
-  phone: 689-663-6823
-  ssn: 232622349
-  dob: 5/19/1991
-  address: 2003 Elm St
-  city: Los Angeles
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Jones
-  email: deborah.jones6582@gmail.com
-  phone: 410 540 2467
-  ssn: 896 48 1685
-  dob: 4/19/1993
-  address: 5044 West Blvd
-  city: Washington
-  state: WI

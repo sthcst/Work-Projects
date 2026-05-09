@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason White,jason.white7478@company.com,203 846 9665,867-31-4422,1/15/1988,"8022 Oak St",Phoenix,MA

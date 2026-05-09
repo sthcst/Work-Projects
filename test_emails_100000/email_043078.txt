@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Reeves,james.reeves2560@business.net,(239) 846-5911,387 52 9602,01-01-1986,"7778 First Rd",Washington,GA

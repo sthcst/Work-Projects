@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Smith,daniel.smith6579@outlook.com,283 455 3939,168-66-4382,20/03/1950,"9266 Summer Court",Dallas,MA

@@ -1,9 +1,0 @@
-contact:
-  name: Sarah White
-  email: sarah.white6771@gmail.com
-  phone: 472-388-7512
-  ssn: 276-64-2268
-  dob: 07/18/1951
-  address: 7392 First St
-  city: San Antonio
-  state: MA

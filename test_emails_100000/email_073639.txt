@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Martinez,robert.martinez9056@gmail.com,(393) 446-9063,990 40 4682,10/22/1953,"9938 Pine Dr",Philadelphia,WA

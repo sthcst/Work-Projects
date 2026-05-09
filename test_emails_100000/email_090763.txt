@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Evans,pamela.evans4427@business.net,774-945-5719,379-86-2671,03/08/1951,"8455 North Blvd",Chicago,VA

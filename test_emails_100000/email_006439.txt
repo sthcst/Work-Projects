@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Perez,jason.perez6924@work.org,+1 602-735-5089,815 39 6752,21/12/1972,"9396 Park Blvd",Jacksonville,AZ

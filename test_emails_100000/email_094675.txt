@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Campbell,kimberly.campbell994@mail.com,767 672 5430,620622791,1/23/1975,"8666 First Way",San Antonio,OH

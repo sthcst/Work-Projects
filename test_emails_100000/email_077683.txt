@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Rogers,michelle.rogers9110@yahoo.com,518-909-5137,590-60-6003,09/16/1958,"6814 Summer Dr",San Antonio,TN

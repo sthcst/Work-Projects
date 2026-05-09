@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Miller,anna.miller4451@mail.com,664-759-7188,657 51 3107,2/7/1958,"9932 Maple St",San Diego,MA

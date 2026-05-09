@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Delgado,kenneth.delgado2692@yahoo.com,(696) 339-5692,484 54 3536,09/21/2003,"6433 Second Dr",San Jose,AZ

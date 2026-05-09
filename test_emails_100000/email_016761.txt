@@ -1,9 +1,0 @@
-contact:
-  name: David Reeves
-  email: david.reeves210@gmail.com
-  phone: +1 433-438-5783
-  ssn: 154 73 2261
-  dob: 10-15-1975
-  address: 6170 Summer Way
-  city: New York
-  state: NY

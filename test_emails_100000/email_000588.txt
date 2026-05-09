@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Delgado,anna.delgado7742@outlook.com,874 580 9859,150 42 6681,03-19-1975,"7669 South Dr",Phoenix,TN

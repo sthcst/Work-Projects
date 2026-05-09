@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Perez,pamela.perez8626@example.com,(489) 940-3712,390466087,05-21-1994,"3871 Maple Dr",Chicago,GA

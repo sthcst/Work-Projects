@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Hernandez,rachel.hernandez8747@outlook.com,286 708 8169,409203476,11-27-1992,"4642 North Court",Chicago,MD

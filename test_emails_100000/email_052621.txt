@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Morris,matthew.morris3558@company.com,200-932-8602,764 21 9039,09/06/1955,"6457 Pine Dr",Houston,MI

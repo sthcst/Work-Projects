@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Flores,mark.flores2303@outlook.com,759 313 8156,672695993,03-15-1963,"7164 Birch Rd",San Jose,GA

@@ -1,9 +1,0 @@
-contact:
-  name: Helen Rogers
-  email: helen.rogers6687@business.net
-  phone: +1 759-300-6526
-  ssn: 237 03 8752
-  dob: 11/12/1957
-  address: 3695 East Ave
-  city: Dallas
-  state: GA

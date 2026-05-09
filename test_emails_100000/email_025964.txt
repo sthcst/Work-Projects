@@ -1,9 +1,0 @@
-contact:
-  name: Robert Clark
-  email: robert.clark9423@work.org
-  phone: 491-850-3100
-  ssn: 015-70-2456
-  dob: 11-14-2003
-  address: 8715 Fourth Rd
-  city: New York
-  state: FL

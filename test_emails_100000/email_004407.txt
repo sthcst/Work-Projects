@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Hernandez,nicholas.hernandez574@example.com,+1 752-458-3374,342147278,04/24/1956,"8985 Summer Way",Jacksonville,MA

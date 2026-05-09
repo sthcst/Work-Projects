@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Jimenez,rachel.jimenez3085@work.org,+1 407-672-4322,731 15 6000,1/1/1981,"9924 Elm Way",Seattle,WA

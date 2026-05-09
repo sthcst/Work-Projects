@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Johnson,nicole.johnson1816@example.com,(327) 583-1101,236209964,07-13-1983,"8193 Third Ln",Seattle,MO

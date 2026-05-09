@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Alvarado,ashley.alvarado307@gmail.com,901 887 5241,373-04-2462,20/07/1989,"3142 Fifth Way",San Diego,TN

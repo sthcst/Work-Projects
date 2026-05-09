@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Hall,jennifer.hall1617@work.org,(605) 980-2338,438148537,12/28/1965,"9051 Park Blvd",Phoenix,MO

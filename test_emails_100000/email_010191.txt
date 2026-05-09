@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Lee
-  email: samantha.lee983@outlook.com
-  phone: (633) 474-5772
-  ssn: 869-48-3148
-  dob: 10/25/1999
-  address: 2783 Maple Dr
-  city: San Diego
-  state: TX

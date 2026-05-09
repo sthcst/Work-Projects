@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Garcia,stephanie.garcia7024@yahoo.com,+1 750-798-9198,171 54 2894,06-13-1996,"9100 West Ave",Philadelphia,TX

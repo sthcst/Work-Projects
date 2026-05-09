@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Moore,nicole.moore5160@mail.com,928 263 6590,865-98-9662,12-10-2000,"8270 West Blvd",San Jose,TX

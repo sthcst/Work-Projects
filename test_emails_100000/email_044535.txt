@@ -1,9 +1,0 @@
-contact:
-  name: Donald Robinson
-  email: donald.robinson6434@outlook.com
-  phone: 354-389-3713
-  ssn: 329 89 7451
-  dob: 7/15/1992
-  address: 2645 Sixth Court
-  city: Los Angeles
-  state: TX

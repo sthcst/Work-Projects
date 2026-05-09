@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Delgado,gary.delgado6423@gmail.com,242 785 3436,079-37-7759,11/15/1971,"8721 Fifth St",Seattle,CA

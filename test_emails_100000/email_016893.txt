@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Hall,jason.hall9927@business.net,+1 488-540-4442,297235942,08/22/2003,"4524 Spring Blvd",Boston,MI

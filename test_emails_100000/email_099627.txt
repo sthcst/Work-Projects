@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Martin,ashley.martin4981@work.org,808 364 1176,810-43-7436,02/08/2004,"4402 Summer Way",San Diego,FL

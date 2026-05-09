@@ -1,9 +1,0 @@
-contact:
-  name: William Guerrero
-  email: william.guerrero115@mail.com
-  phone: +1 230-737-2967
-  ssn: 063-75-2231
-  dob: 05-26-1962
-  address: 2354 Fifth Way
-  city: Denver
-  state: CA

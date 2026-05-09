@@ -1,9 +1,0 @@
-contact:
-  name: Robert Edwards
-  email: robert.edwards1827@outlook.com
-  phone: 533-520-9525
-  ssn: 166138692
-  dob: 11/13/1982
-  address: 784 Elm Ln
-  city: Chicago
-  state: CA

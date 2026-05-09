@@ -1,9 +1,0 @@
-contact:
-  name: James Reyes
-  email: james.reyes1596@company.com
-  phone: (928) 512-8384
-  ssn: 268-98-3365
-  dob: 10/21/2001
-  address: 8068 North Court
-  city: Seattle
-  state: GA

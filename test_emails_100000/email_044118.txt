@@ -1,9 +1,0 @@
-contact:
-  name: Maria Gonzalez
-  email: maria.gonzalez1654@yahoo.com
-  phone: 727 495 6112
-  ssn: 555 97 6118
-  dob: 10-07-1968
-  address: 288 Elm Way
-  city: Washington
-  state: WI

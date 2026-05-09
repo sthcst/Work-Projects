@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Gomez
-  email: christopher.gomez3328@company.com
-  phone: +1 525-602-6477
-  ssn: 392-50-7572
-  dob: 11/22/1987
-  address: 3005 Fifth Ave
-  city: Boston
-  state: TX

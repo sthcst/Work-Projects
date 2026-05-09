@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Alvarado,emma.alvarado9721@business.net,863 473 8434,962 87 2354,05/07/1959,"5768 Maple Ln",Denver,IL

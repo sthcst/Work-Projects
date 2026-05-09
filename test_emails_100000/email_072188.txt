@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Bell,james.bell9403@company.com,+1 463-306-4970,019 70 5600,01-13-1984,"5961 Main Dr",Austin,CO

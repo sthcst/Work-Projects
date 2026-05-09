@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Reed,paul.reed6764@company.com,302 518 2263,496493149,10/20/1965,"8444 Second Blvd",Phoenix,NY

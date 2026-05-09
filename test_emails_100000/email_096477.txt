@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Anderson,jeffrey.anderson2276@outlook.com,+1 659-710-1540,632389328,01/23/1996,"394 Maple Court",Dallas,TX

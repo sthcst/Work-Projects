@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Evans
-  email: lisa.evans9994@mail.com
-  phone: 397-672-2960
-  ssn: 313708785
-  dob: 6/16/2005
-  address: 1193 Birch St
-  city: Seattle
-  state: WA

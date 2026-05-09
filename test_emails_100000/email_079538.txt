@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Gonzalez
-  email: amanda.gonzalez653@yahoo.com
-  phone: (363) 385-2561
-  ssn: 661 39 9568
-  dob: 02-01-1975
-  address: 3050 Sixth St
-  city: New York
-  state: GA

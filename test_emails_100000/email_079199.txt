@@ -1,9 +1,0 @@
-contact:
-  name: Jason Serrano
-  email: jason.serrano5861@work.org
-  phone: 948 550 1903
-  ssn: 589-58-8961
-  dob: 10-25-1979
-  address: 8889 First Blvd
-  city: Washington
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Rodriguez
-  email: nicholas.rodriguez6643@business.net
-  phone: 466 848 2522
-  ssn: 255475400
-  dob: 10-23-1988
-  address: 6399 North Rd
-  city: Philadelphia
-  state: NJ

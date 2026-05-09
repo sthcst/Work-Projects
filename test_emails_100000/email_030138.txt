@@ -1,9 +1,0 @@
-contact:
-  name: Emily Murillo
-  email: emily.murillo5256@business.net
-  phone: 914-707-9136
-  ssn: 926766703
-  dob: 04/24/1976
-  address: 2094 Spring Ave
-  city: Philadelphia
-  state: MI

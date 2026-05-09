@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Thompson,christine.thompson9384@company.com,(511) 422-5705,392555933,10/21/1952,"542 South Way",Boston,MD

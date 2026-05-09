@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Rodriguez
-  email: anthony.rodriguez756@mail.com
-  phone: +1 410-570-1568
-  ssn: 945437581
-  dob: 12/20/2001
-  address: 9008 Birch Ave
-  city: Houston
-  state: NC

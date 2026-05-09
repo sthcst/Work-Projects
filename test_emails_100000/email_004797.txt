@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Williams,joshua.williams5472@example.com,916 464 6847,370-27-8413,2/7/1962,"2311 Third Dr",Chicago,PA

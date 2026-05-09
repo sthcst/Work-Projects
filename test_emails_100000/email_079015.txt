@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Martinez,jason.martinez3169@yahoo.com,+1 267-829-6889,442 01 2919,01-14-1960,"8660 Maple Dr",Boston,CA

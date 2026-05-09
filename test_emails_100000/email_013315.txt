@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Anderson
-  email: daniel.anderson6044@company.com
-  phone: 654 355 6415
-  ssn: 598 15 6417
-  dob: 07-24-1977
-  address: 6618 Sixth Court
-  city: San Diego
-  state: WI

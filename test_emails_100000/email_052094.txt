@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Jones,jacob.jones8163@outlook.com,+1 935-372-3572,508 13 8729,07/03/1958,"8886 Second Way",Denver,TX

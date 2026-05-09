@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Williams,robert.williams2056@gmail.com,(391) 902-1685,134318337,12/27/1997,"9223 Elm Blvd",Phoenix,NC

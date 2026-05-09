@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Peterson
-  email: daniel.peterson2434@example.com
-  phone: (391) 334-5667
-  ssn: 785-61-7132
-  dob: 02/21/1983
-  address: 504 Sixth Way
-  city: Philadelphia
-  state: MA

@@ -1,9 +1,0 @@
-contact:
-  name: Mark Ramirez
-  email: mark.ramirez5998@company.com
-  phone: (983) 806-9078
-  ssn: 664-57-2223
-  dob: 2/6/1968
-  address: 9039 Second Rd
-  city: San Jose
-  state: CO

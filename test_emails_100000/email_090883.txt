@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Gomez
-  email: jacob.gomez6365@yahoo.com
-  phone: 342-651-6639
-  ssn: 958273578
-  dob: 9/1/1993
-  address: 7491 Main Way
-  city: Denver
-  state: AZ

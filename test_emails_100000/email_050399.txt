@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Guerrero,emily.guerrero7844@example.com,649 666 6637,111865323,01-20-1993,"5864 East St",Philadelphia,OH

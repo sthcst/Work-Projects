@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Hall,jason.hall8123@yahoo.com,(350) 635-4283,813 36 2372,03/18/1986,"1991 Fifth St",Seattle,TX

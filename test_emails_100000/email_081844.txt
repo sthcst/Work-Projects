@@ -1,9 +1,0 @@
-contact:
-  name: Anna Davis
-  email: anna.davis5470@gmail.com
-  phone: 851 525 3952
-  ssn: 648393336
-  dob: 5/17/1954
-  address: 861 Maple Dr
-  city: Chicago
-  state: TX

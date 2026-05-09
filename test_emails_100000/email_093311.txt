@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Anderson,anthony.anderson9939@business.net,(811) 559-6693,794-83-8602,02/21/1990,"7664 Spring Ln",Philadelphia,WA

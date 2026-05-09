@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Murillo,paul.murillo100@yahoo.com,+1 433-883-8877,276 29 9090,01/10/1970,"2312 First Ave",Austin,WI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Davis,ryan.davis9168@mail.com,(863) 357-2672,818-85-6628,07/03/1979,"5141 Fifth Ave",Seattle,WA

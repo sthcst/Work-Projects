@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Harris,william.harris5003@yahoo.com,336-908-5105,978-52-9519,06-26-1960,"2508 Fifth Ave",Los Angeles,MA

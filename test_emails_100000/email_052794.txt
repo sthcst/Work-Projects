@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Reed,samantha.reed3765@work.org,663-831-6650,415-92-6839,12/5/2000,"3156 Sixth Rd",Washington,PA

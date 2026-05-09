@@ -1,9 +1,0 @@
-contact:
-  name: Charles Martinez
-  email: charles.martinez3065@company.com
-  phone: (751) 881-2254
-  ssn: 964784040
-  dob: 9/17/1996
-  address: 3831 Fifth Blvd
-  city: Washington
-  state: GA

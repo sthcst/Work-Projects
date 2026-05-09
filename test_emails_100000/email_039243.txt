@@ -1,9 +1,0 @@
-contact:
-  name: Jane Morgan
-  email: jane.morgan9960@yahoo.com
-  phone: 230-900-1286
-  ssn: 298-26-8153
-  dob: 10/10/1962
-  address: 6089 Park Way
-  city: Denver
-  state: WA

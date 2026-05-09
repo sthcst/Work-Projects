@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Morris
-  email: sarah.morris4239@company.com
-  phone: (962) 673-2806
-  ssn: 180565458
-  dob: 6/12/1975
-  address: 2259 Oak Ln
-  city: Dallas
-  state: TN

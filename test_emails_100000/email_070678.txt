@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Campbell,emily.campbell4583@yahoo.com,(640) 720-6365,630996272,16/02/2005,"3279 West Ln",Denver,NY

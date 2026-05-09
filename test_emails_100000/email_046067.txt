@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Harris,william.harris9126@business.net,+1 654-794-4590,981907218,08-13-1982,"197 Third St",Los Angeles,NY

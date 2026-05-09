@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Reyes,ronald.reyes8271@business.net,(947) 599-6012,642234398,05-19-1962,"2326 Maple Blvd",Denver,NJ

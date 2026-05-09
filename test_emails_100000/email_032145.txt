@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Robinson
-  email: kevin.robinson1357@work.org
-  phone: 362-990-2803
-  ssn: 283 75 2335
-  dob: 7/5/2000
-  address: 7499 Elm Way
-  city: Austin
-  state: TX

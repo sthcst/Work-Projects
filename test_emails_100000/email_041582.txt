@@ -1,9 +1,0 @@
-contact:
-  name: Mark Sanchez
-  email: mark.sanchez3393@business.net
-  phone: +1 230-884-7673
-  ssn: 950492763
-  dob: 01/17/1961
-  address: 4607 South Ave
-  city: San Antonio
-  state: NY

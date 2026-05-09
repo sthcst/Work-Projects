@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Lopez,anthony.lopez7439@example.com,524-522-5466,745 18 5858,08/19/1998,"3303 Maple Rd",Houston,TN

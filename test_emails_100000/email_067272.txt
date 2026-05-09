@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Williams,jason.williams9814@mail.com,426 455 6443,609 89 8395,16/01/1960,"6363 Elm St",Los Angeles,NJ

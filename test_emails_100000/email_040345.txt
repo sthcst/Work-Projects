@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Thompson
-  email: katherine.thompson3583@example.com
-  phone: (318) 977-1412
-  ssn: 470-21-6330
-  dob: 12-15-1981
-  address: 12 Park Court
-  city: San Diego
-  state: FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Martinez,pamela.martinez150@mail.com,250 443 8017,443 83 8643,4/9/1983,"7690 East Blvd",Washington,MD

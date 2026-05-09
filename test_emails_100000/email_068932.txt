@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Taylor,kimberly.taylor5849@work.org,(396) 817-6096,448 57 3595,24/08/1950,"1094 Cedar Ln",San Antonio,MI

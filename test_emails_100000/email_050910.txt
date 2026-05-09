@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Nunez
-  email: ronald.nunez7757@company.com
-  phone: +1 671-757-2460
-  ssn: 441-68-4534
-  dob: 02/04/1950
-  address: 4685 Fifth Ave
-  city: Phoenix
-  state: AZ

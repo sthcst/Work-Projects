@@ -1,9 +1,0 @@
-contact:
-  name: Robert Morris
-  email: robert.morris9643@company.com
-  phone: (482) 248-1882
-  ssn: 018371200
-  dob: 16/04/1965
-  address: 5406 Maple St
-  city: Los Angeles
-  state: WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Garcia,jeffrey.garcia7920@company.com,(950) 711-9584,854-49-6838,11/08/1984,"6416 Fourth Court",Dallas,TN

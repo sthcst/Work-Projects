@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Taylor
-  email: andrew.taylor5163@mail.com
-  phone: (768) 486-2972
-  ssn: 964171817
-  dob: 4/3/1983
-  address: 9777 Third St
-  city: Austin
-  state: WA

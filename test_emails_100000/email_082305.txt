@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Wilson,timothy.wilson2217@gmail.com,246 428 5612,603-50-4205,11/10/1995,"5444 Oak Rd",Jacksonville,AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Michael Jimenez
-  email: michael.jimenez5432@yahoo.com
-  phone: 289 553 4250
-  ssn: 998-54-1279
-  dob: 01/10/2005
-  address: 9137 Summer St
-  city: Boston
-  state: MA

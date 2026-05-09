@@ -1,9 +1,0 @@
-contact:
-  name: Edward Cooper
-  email: edward.cooper3746@company.com
-  phone: 665 837 5008
-  ssn: 711384780
-  dob: 06/05/1994
-  address: 2680 Maple Ave
-  city: Los Angeles
-  state: CO

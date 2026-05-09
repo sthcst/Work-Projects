@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Romero,ronald.romero9858@example.com,221-537-9637,935-52-9843,06/15/1961,"746 Oak Court",Los Angeles,OH

@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Sanchez
-  email: lauren.sanchez5270@work.org
-  phone: 738 806 6883
-  ssn: 967-52-5356
-  dob: 06-05-1981
-  address: 3529 Elm Court
-  city: Washington
-  state: AZ

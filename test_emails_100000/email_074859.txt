@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Romero
-  email: nicole.romero4843@business.net
-  phone: 420 675 5042
-  ssn: 910697477
-  dob: 14/11/2000
-  address: 3748 Birch Court
-  city: Washington
-  state: TX

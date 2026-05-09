@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Jones
-  email: jacob.jones5848@gmail.com
-  phone: (819) 245-1063
-  ssn: 782 48 5119
-  dob: 01/11/1952
-  address: 4873 Birch Way
-  city: Los Angeles
-  state: WI

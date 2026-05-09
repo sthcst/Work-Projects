@@ -1,9 +1,0 @@
-contact:
-  name: James Ortiz
-  email: james.ortiz7641@mail.com
-  phone: +1 740-457-3897
-  ssn: 345842655
-  dob: 01/01/1968
-  address: 7298 Birch Rd
-  city: San Jose
-  state: VA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Gonzalez,jennifer.gonzalez3237@gmail.com,708-502-7374,569291064,10/07/1974,"3972 Summer Blvd",Houston,CA

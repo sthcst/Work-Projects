@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Martinez,angela.martinez5217@gmail.com,(975) 588-1990,450 76 1836,22/01/1994,"3219 Spring Dr",New York,CA

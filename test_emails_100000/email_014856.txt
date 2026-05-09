@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Miller,william.miller5517@business.net,(586) 670-2107,610-72-1671,10-11-1974,"3265 Park Rd",Chicago,TX

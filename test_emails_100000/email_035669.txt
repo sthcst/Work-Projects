@@ -1,9 +1,0 @@
-contact:
-  name: Maria Evans
-  email: maria.evans5681@mail.com
-  phone: +1 462-845-3000
-  ssn: 432 08 1674
-  dob: 12/05/1985
-  address: 468 Main Way
-  city: Jacksonville
-  state: MO

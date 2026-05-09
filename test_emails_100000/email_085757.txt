@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Robinson
-  email: kevin.robinson3501@business.net
-  phone: 382 240 1487
-  ssn: 363 56 3461
-  dob: 23/09/1998
-  address: 2914 Third Dr
-  city: Jacksonville
-  state: CA

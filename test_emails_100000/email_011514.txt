@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Collins,lauren.collins9186@company.com,494-513-6983,350166754,17/07/1966,"5403 Main Ln",Houston,WI

@@ -1,9 +1,0 @@
-contact:
-  name: Anna Lopez
-  email: anna.lopez8398@mail.com
-  phone: (754) 812-3752
-  ssn: 701 58 3946
-  dob: 10-23-1982
-  address: 8866 Third St
-  city: Philadelphia
-  state: WI

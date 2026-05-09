@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Bell,jennifer.bell91@company.com,533 667 5399,768-95-2901,2/13/1996,"9711 Oak Dr",San Diego,TX

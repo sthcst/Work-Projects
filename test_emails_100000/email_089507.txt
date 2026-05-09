@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Hernandez,samantha.hernandez4674@business.net,+1 604-920-7144,427042077,13/09/1954,"8836 South Way",Seattle,CO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Parker,john.parker5689@work.org,+1 592-905-3770,522-96-3270,12-23-1972,"8913 Second Ln",Los Angeles,NC

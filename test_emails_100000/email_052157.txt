@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Jimenez,jacob.jimenez2851@company.com,359 529 4887,173793165,02-16-1962,"9181 Elm Court",Jacksonville,WA

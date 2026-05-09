@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Nelson
-  email: deborah.nelson3934@yahoo.com
-  phone: 209 975 3823
-  ssn: 041 49 5233
-  dob: 1/18/1998
-  address: 2928 Park Dr
-  city: San Antonio
-  state: IL

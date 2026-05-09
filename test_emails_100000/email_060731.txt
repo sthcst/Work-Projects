@@ -1,9 +1,0 @@
-contact:
-  name: Steven Collins
-  email: steven.collins9867@business.net
-  phone: 580 957 4166
-  ssn: 680883728
-  dob: 22/07/1976
-  address: 9778 Maple Blvd
-  city: San Diego
-  state: CO

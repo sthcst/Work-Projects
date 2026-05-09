@@ -1,9 +1,0 @@
-contact:
-  name: Jason Jackson
-  email: jason.jackson7318@example.com
-  phone: 626 735 9440
-  ssn: 106 25 2974
-  dob: 08-22-1973
-  address: 3971 Cedar St
-  city: Austin
-  state: FL

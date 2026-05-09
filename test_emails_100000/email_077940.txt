@@ -1,9 +1,0 @@
-contact:
-  name: Jane Edwards
-  email: jane.edwards6492@example.com
-  phone: 932-825-5272
-  ssn: 922086957
-  dob: 02-17-2001
-  address: 1934 Maple Dr
-  city: Washington
-  state: MA

@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Roberts
-  email: lauren.roberts1815@example.com
-  phone: 261 371 8559
-  ssn: 405-62-3969
-  dob: 08/03/2000
-  address: 5174 Oak Ln
-  city: Washington
-  state: TX

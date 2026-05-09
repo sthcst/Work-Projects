@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Guerrero
-  email: daniel.guerrero6424@gmail.com
-  phone: 691 312 5638
-  ssn: 997261069
-  dob: 08/05/1962
-  address: 5706 Main Dr
-  city: San Diego
-  state: AZ

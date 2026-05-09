@@ -1,9 +1,0 @@
-contact:
-  name: Helen Thompson
-  email: helen.thompson5558@business.net
-  phone: 341 630 5435
-  ssn: 875-87-5120
-  dob: 10/04/1954
-  address: 7549 Spring Court
-  city: Denver
-  state: IL

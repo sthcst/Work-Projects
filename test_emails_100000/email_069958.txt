@@ -1,9 +1,0 @@
-contact:
-  name: Charles Delgado
-  email: charles.delgado8545@yahoo.com
-  phone: 780-750-9223
-  ssn: 924 49 7445
-  dob: 4/1/2005
-  address: 2932 Second Rd
-  city: San Antonio
-  state: NY

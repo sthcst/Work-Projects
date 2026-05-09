@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Ramirez
-  email: lisa.ramirez4534@company.com
-  phone: 557 331 3369
-  ssn: 685 27 6601
-  dob: 27/03/1990
-  address: 947 West Dr
-  city: New York
-  state: MA

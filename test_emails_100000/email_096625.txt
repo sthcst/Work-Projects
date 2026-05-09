@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Ramirez,brian.ramirez5161@business.net,231-264-4923,157-66-3603,05-24-1950,"442 Pine St",San Jose,TX

@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Reeves
-  email: pamela.reeves1935@company.com
-  phone: 449-549-2504
-  ssn: 319-34-4631
-  dob: 23/12/1984
-  address: 7364 Second St
-  city: Austin
-  state: WA

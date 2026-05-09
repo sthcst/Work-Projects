@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Jones,daniel.jones4626@mail.com,912-930-1117,445954353,11/12/1964,"3398 South St",Houston,MA

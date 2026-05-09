@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Morris,ronald.morris4159@work.org,276-565-5556,996-22-9472,04/20/1971,"8991 First Dr",Austin,MD

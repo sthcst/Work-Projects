@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Parker,joshua.parker6122@work.org,767 372 1587,992529479,22/01/1961,"754 Maple Way",New York,CA

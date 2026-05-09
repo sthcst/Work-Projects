@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Sanchez
-  email: stephanie.sanchez1950@company.com
-  phone: 306 779 9354
-  ssn: 498-80-4946
-  dob: 04-04-1990
-  address: 6603 West Way
-  city: Washington
-  state: TX

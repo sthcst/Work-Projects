@@ -1,9 +1,0 @@
-contact:
-  name: Jason Romero
-  email: jason.romero1174@outlook.com
-  phone: +1 696-492-1178
-  ssn: 184-89-8883
-  dob: 07/14/1958
-  address: 2720 North Blvd
-  city: Boston
-  state: CA

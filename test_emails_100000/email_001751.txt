@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Murillo,anna.murillo9043@yahoo.com,232 972 9897,598 41 2783,07/23/1964,"8760 First Court",Denver,AZ

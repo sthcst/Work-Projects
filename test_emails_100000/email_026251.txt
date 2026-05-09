@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Romero,daniel.romero344@company.com,300 615 9726,464 69 9299,03-19-1951,"9690 Maple Way",Houston,MA

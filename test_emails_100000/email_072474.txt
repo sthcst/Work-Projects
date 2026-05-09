@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Moore,joshua.moore3671@outlook.com,391-274-1430,673-27-6246,12/26/1973,"5671 First Court",Philadelphia,NY

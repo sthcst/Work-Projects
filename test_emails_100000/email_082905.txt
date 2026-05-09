@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Lopez,gary.lopez5520@company.com,(782) 433-3993,214 98 4379,06-08-1980,"4281 First St",Seattle,CA

@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Roberts
-  email: anthony.roberts4943@mail.com
-  phone: 527 228 3350
-  ssn: 047-37-7188
-  dob: 11/27/2001
-  address: 4390 Sixth St
-  city: Denver
-  state: TX

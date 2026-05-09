@@ -1,9 +1,0 @@
-contact:
-  name: Edward Nelson
-  email: edward.nelson7911@gmail.com
-  phone: 309 582 2308
-  ssn: 028901710
-  dob: 17/02/1959
-  address: 7890 Cedar Court
-  city: Seattle
-  state: CA

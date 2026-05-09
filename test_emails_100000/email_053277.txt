@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Edwards,rebecca.edwards9375@work.org,+1 324-289-8309,928-56-7341,8/3/2005,"9856 South Court",San Jose,AZ

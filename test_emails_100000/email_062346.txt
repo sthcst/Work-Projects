@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Williams
-  email: lauren.williams2038@mail.com
-  phone: (650) 708-1169
-  ssn: 726 89 3088
-  dob: 1/5/1979
-  address: 3650 Fifth Dr
-  city: San Antonio
-  state: TX

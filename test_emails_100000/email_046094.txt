@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Robinson
-  email: anthony.robinson415@company.com
-  phone: (857) 285-6734
-  ssn: 431-48-5953
-  dob: 06/03/1978
-  address: 9557 South Way
-  city: San Diego
-  state: FL

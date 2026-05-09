@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Reeves,amanda.reeves1126@example.com,(273) 612-7489,844096141,07/03/1976,"1146 West Ln",Washington,WI

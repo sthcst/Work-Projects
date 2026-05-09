@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Nelson,samantha.nelson4911@example.com,599 373 3847,276279941,11/25/2000,"2810 Second Dr",Seattle,FL

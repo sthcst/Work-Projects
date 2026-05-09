@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Perez,kathleen.perez2146@company.com,990 895 4146,922795501,01/15/2002,"1206 Fourth Way",Boston,VA

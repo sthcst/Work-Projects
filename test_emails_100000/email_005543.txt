@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Morris
-  email: michelle.morris6732@gmail.com
-  phone: 950 562 7567
-  ssn: 632 02 4769
-  dob: 04/04/1967
-  address: 585 Second Ln
-  city: Dallas
-  state: CO

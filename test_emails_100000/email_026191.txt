@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Gomez
-  email: pamela.gomez2983@example.com
-  phone: (541) 778-4809
-  ssn: 984-06-1164
-  dob: 2/2/1992
-  address: 2766 Fifth Dr
-  city: Washington
-  state: GA

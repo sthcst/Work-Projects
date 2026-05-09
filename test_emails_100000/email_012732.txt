@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Parker
-  email: kimberly.parker2025@yahoo.com
-  phone: +1 921-765-4730
-  ssn: 295-66-6514
-  dob: 10/02/1978
-  address: 5278 Spring Ln
-  city: Philadelphia
-  state: IL

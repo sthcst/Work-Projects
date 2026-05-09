@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Taylor
-  email: nicholas.taylor623@example.com
-  phone: +1 390-337-6285
-  ssn: 414877377
-  dob: 12/11/1967
-  address: 2625 East Court
-  city: Boston
-  state: GA

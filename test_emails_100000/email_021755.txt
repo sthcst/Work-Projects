@@ -1,9 +1,0 @@
-contact:
-  name: Paul Stewart
-  email: paul.stewart1736@yahoo.com
-  phone: 509 380 8981
-  ssn: 417829406
-  dob: 05-09-1994
-  address: 3391 Spring Court
-  city: Austin
-  state: PA

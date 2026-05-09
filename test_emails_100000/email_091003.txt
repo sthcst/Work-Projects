@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Ramirez,timothy.ramirez8222@gmail.com,(301) 805-6307,422731516,08/20/1969,"1742 Second Way",San Diego,WA

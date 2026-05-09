@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Johnson,charles.johnson8436@company.com,654 345 7460,563-53-6774,08-24-1986,"5409 Second Court",Jacksonville,DC

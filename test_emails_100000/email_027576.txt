@@ -1,9 +1,0 @@
-contact:
-  name: Jason Moore
-  email: jason.moore2095@yahoo.com
-  phone: 465 859 1306
-  ssn: 118876993
-  dob: 12-20-1993
-  address: 7343 Elm Way
-  city: Denver
-  state: TX

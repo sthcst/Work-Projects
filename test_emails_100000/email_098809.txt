@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia White
-  email: cynthia.white4110@mail.com
-  phone: +1 763-825-9819
-  ssn: 544 81 6083
-  dob: 24/08/1982
-  address: 3328 Elm Court
-  city: Boston
-  state: WA

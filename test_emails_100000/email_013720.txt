@@ -1,9 +1,0 @@
-contact:
-  name: Richard Martinez
-  email: richard.martinez7995@example.com
-  phone: 822 774 2080
-  ssn: 524 01 5281
-  dob: 11/5/1952
-  address: 8153 Birch St
-  city: Washington
-  state: MI

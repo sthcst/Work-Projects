@@ -1,9 +1,0 @@
-contact:
-  name: Michael Carter
-  email: michael.carter2421@gmail.com
-  phone: (296) 604-6786
-  ssn: 054-25-1240
-  dob: 9/26/1974
-  address: 2180 Third Ln
-  city: San Diego
-  state: CA

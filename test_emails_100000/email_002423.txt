@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Reeves,nicholas.reeves8563@company.com,(242) 265-1635,697729484,2/1/1980,"3772 Maple Rd",Washington,CA

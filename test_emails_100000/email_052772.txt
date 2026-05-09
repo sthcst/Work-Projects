@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Lewis
-  email: katherine.lewis2944@outlook.com
-  phone: +1 868-708-1461
-  ssn: 326356948
-  dob: 06/03/1989
-  address: 2760 Elm Court
-  city: Boston
-  state: CO

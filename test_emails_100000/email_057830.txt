@@ -1,9 +1,0 @@
-contact:
-  name: Anna Garcia
-  email: anna.garcia6918@example.com
-  phone: +1 574-869-9829
-  ssn: 919-41-6964
-  dob: 09/20/1984
-  address: 799 West Blvd
-  city: Denver
-  state: TX

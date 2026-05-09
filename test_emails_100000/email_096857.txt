@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Parker,jane.parker1924@example.com,+1 353-375-5503,538 23 5443,06/06/1958,"9402 Fifth Dr",San Diego,FL

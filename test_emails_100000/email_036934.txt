@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Nelson,ryan.nelson1040@work.org,+1 449-732-6861,355464537,02/09/2005,"2884 Elm Way",Los Angeles,OH

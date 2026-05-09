@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Rogers
-  email: rachel.rogers4076@outlook.com
-  phone: 279-778-5515
-  ssn: 398 27 9200
-  dob: 18/10/1972
-  address: 9575 Sixth Blvd
-  city: Dallas
-  state: CA

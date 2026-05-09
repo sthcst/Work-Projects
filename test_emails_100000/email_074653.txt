@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Stewart
-  email: nicole.stewart1622@mail.com
-  phone: (745) 646-1032
-  ssn: 505933440
-  dob: 28/01/1956
-  address: 5738 Fifth Blvd
-  city: Washington
-  state: MA

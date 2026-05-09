@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Rogers
-  email: jennifer.rogers5596@work.org
-  phone: +1 808-760-3764
-  ssn: 373-62-3953
-  dob: 08/09/1976
-  address: 3130 First Ln
-  city: San Jose
-  state: NJ

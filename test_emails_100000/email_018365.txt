@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Martin,timothy.martin679@mail.com,+1 799-759-2730,941 19 2840,02/11/1988,"4264 Pine Ave",Seattle,WI

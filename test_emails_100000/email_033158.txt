@@ -1,9 +1,0 @@
-contact:
-  name: William Johnson
-  email: william.johnson4674@business.net
-  phone: 960 267 7869
-  ssn: 278-02-9624
-  dob: 10/26/1994
-  address: 4328 Fifth Court
-  city: Chicago
-  state: OH

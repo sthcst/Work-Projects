@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Parker,jessica.parker5977@gmail.com,648 548 7208,061045908,11/18/1955,"6487 East Rd",Philadelphia,VA

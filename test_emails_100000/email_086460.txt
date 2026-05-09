@@ -1,9 +1,0 @@
-contact:
-  name: John Morgan
-  email: john.morgan5038@outlook.com
-  phone: (856) 468-9546
-  ssn: 542 93 3870
-  dob: 07/04/1966
-  address: 7701 Second Court
-  city: Los Angeles
-  state: WA

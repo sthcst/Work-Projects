@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Walker
-  email: stephanie.walker5726@outlook.com
-  phone: (723) 469-2074
-  ssn: 060-77-9840
-  dob: 01-24-1966
-  address: 8021 Cedar Ln
-  city: Denver
-  state: NJ

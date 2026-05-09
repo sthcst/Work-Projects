@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Thomas,richard.thomas6868@work.org,750-391-8154,046 42 8754,12-02-1978,"8501 Fifth Blvd",Boston,WA

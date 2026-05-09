@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Johnson,anthony.johnson1298@yahoo.com,(378) 836-8851,582-99-4753,6/4/1997,"1198 Maple St",Denver,IL

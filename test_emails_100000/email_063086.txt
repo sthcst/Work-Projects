@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Miller,joshua.miller1334@example.com,788-330-3337,016848023,04-18-1981,"5478 Second Ln",San Antonio,FL

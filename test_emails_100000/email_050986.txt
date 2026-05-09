@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Phillips
-  email: andrew.phillips714@company.com
-  phone: +1 901-205-7371
-  ssn: 506-88-1476
-  dob: 04/03/1963
-  address: 5812 Main Blvd
-  city: Dallas
-  state: GA

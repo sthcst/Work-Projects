@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Williams,nicholas.williams2773@mail.com,737-784-8759,014 50 2048,24/07/1956,"8114 East Court",Seattle,TX

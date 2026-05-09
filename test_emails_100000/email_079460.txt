@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Sanchez,ryan.sanchez6445@mail.com,637 481 9565,109-70-3663,01-03-2005,"3588 Elm Rd",Chicago,CO

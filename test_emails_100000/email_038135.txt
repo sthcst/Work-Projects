@@ -1,9 +1,0 @@
-contact:
-  name: Emma Thomas
-  email: emma.thomas5053@example.com
-  phone: 349-204-9393
-  ssn: 638-36-4224
-  dob: 4/20/1995
-  address: 5450 East Blvd
-  city: Philadelphia
-  state: CA

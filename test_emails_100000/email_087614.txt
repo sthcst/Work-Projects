@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Rogers,emily.rogers2756@yahoo.com,+1 819-905-7645,029-34-4666,06/28/1952,"1150 First Way",Denver,FL

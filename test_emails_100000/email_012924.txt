@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Nunez,donald.nunez4633@example.com,(320) 785-4344,743 09 5847,4/27/1953,"455 Third Court",New York,OH

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Bell,samantha.bell1062@company.com,615 778 7046,912547996,9/16/1975,"5337 Second Court",Washington,TX

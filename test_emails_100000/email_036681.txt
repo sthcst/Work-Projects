@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Stewart
-  email: andrew.stewart6812@example.com
-  phone: (842) 256-1706
-  ssn: 236912550
-  dob: 08/06/1951
-  address: 3790 Fourth Ln
-  city: Seattle
-  state: CA

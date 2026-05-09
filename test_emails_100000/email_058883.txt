@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Stewart,anna.stewart1825@outlook.com,+1 597-690-8501,297 74 3867,8/6/2001,"8302 Fourth Court",Phoenix,NJ

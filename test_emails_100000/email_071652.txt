@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Davis,richard.davis3542@yahoo.com,(724) 565-4724,140 93 8570,08-22-1962,"8518 Summer Way",San Antonio,MA

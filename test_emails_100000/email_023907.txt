@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Alvarado,jennifer.alvarado8720@mail.com,+1 620-848-7226,963-08-9655,03-11-1992,"2440 Summer Blvd",Chicago,TX

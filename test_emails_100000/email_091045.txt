@@ -1,9 +1,0 @@
-contact:
-  name: Michael Ortiz
-  email: michael.ortiz4996@yahoo.com
-  phone: (910) 438-5833
-  ssn: 676-92-2664
-  dob: 08/08/2001
-  address: 7796 Sixth Ave
-  city: Houston
-  state: WA

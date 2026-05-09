@@ -1,9 +1,0 @@
-contact:
-  name: Emma Romero
-  email: emma.romero8554@yahoo.com
-  phone: 743-350-6481
-  ssn: 730907143
-  dob: 07/08/1978
-  address: 1033 South Blvd
-  city: Austin
-  state: AZ

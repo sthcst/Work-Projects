@@ -1,9 +1,0 @@
-contact:
-  name: Jason Taylor
-  email: jason.taylor7399@business.net
-  phone: (223) 979-4943
-  ssn: 925-90-6136
-  dob: 22/05/1994
-  address: 5096 Fourth Blvd
-  city: San Jose
-  state: CO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Jimenez,anna.jimenez2232@mail.com,226-640-1444,253-21-7213,19/01/1973,"9982 Sixth Court",Phoenix,GA

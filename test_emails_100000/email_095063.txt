@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Roberts
-  email: kenneth.roberts5687@company.com
-  phone: 675-672-8069
-  ssn: 415 37 9899
-  dob: 11/3/1953
-  address: 9857 Third Blvd
-  city: Phoenix
-  state: AZ

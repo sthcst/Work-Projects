@@ -1,9 +1,0 @@
-contact:
-  name: Brian Perez
-  email: brian.perez1865@outlook.com
-  phone: +1 561-343-4845
-  ssn: 591011444
-  dob: 09-20-1968
-  address: 3832 Summer Ln
-  city: Washington
-  state: TN

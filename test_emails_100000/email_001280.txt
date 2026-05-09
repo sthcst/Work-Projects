@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Jimenez,donald.jimenez7507@gmail.com,306 306 7808,489-72-9805,26/06/1987,"4687 East Court",San Diego,FL

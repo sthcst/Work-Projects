@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Harris,jeffrey.harris7951@yahoo.com,(334) 756-2576,185482396,05/23/1987,"6796 Fourth Court",Los Angeles,DC

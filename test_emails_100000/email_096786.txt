@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Thompson
-  email: andrew.thompson938@outlook.com
-  phone: (224) 278-2018
-  ssn: 740017364
-  dob: 09/25/1991
-  address: 526 Cedar St
-  city: Philadelphia
-  state: WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Martin,stephanie.martin8505@outlook.com,+1 312-388-3460,330 48 9102,05/20/1998,"1031 Second Dr",Houston,MI

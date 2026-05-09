@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca White,rebecca.white9510@mail.com,544-726-3040,498064792,1/4/1997,"1155 Elm St",Philadelphia,MO

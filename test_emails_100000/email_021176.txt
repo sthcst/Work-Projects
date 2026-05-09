@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Reed,gary.reed4782@gmail.com,212-790-7395,919845592,24/04/1979,"3721 Cedar St",San Jose,WI

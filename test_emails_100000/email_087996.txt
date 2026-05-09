@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Phillips,anna.phillips4078@gmail.com,+1 409-570-8002,511712031,03-28-1959,"4074 Sixth Ave",Chicago,CA

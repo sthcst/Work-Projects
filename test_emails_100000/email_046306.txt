@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Jackson
-  email: joseph.jackson724@gmail.com
-  phone: 965-534-5149
-  ssn: 108921263
-  dob: 07-11-1955
-  address: 4657 Spring Ln
-  city: Los Angeles
-  state: FL

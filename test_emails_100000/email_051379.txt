@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Anderson,brian.anderson6316@business.net,(506) 818-4054,978-21-4031,13/09/1998,"7021 Main Court",Philadelphia,MA

@@ -1,9 +1,0 @@
-contact:
-  name: George Lewis
-  email: george.lewis9100@gmail.com
-  phone: 383 642 9050
-  ssn: 876-17-4145
-  dob: 20/10/1950
-  address: 6662 Pine Blvd
-  city: New York
-  state: CA

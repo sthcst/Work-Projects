@@ -1,9 +1,0 @@
-contact:
-  name: Emma Anderson
-  email: emma.anderson3611@business.net
-  phone: 495 318 6831
-  ssn: 359-08-3301
-  dob: 01/05/1981
-  address: 1094 South St
-  city: Denver
-  state: MA

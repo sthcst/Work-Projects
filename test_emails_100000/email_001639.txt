@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Morris,amanda.morris808@gmail.com,+1 523-612-6087,839451418,11/11/1984,"206 North St",Houston,NY

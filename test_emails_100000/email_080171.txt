@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Walker,ronald.walker3940@yahoo.com,(277) 747-9087,291691150,11/8/1956,"1851 West Court",Houston,TX

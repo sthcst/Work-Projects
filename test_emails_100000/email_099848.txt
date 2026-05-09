@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Garcia,emma.garcia1075@yahoo.com,418 211 4377,297067693,9/6/2001,"3740 Park Court",Los Angeles,NC

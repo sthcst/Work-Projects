@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Roberts
-  email: kevin.roberts5275@gmail.com
-  phone: +1 769-354-3528
-  ssn: 848 75 1636
-  dob: 02/09/2000
-  address: 53 Maple Court
-  city: Austin
-  state: GA

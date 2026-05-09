@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Reeves,donald.reeves3534@company.com,552 590 7033,554561191,08-25-1976,"1184 Main Court",Jacksonville,DC

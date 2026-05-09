@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Guerrero,emma.guerrero9405@company.com,(442) 623-2197,411 06 9965,09/05/1993,"5712 Sixth Ave",Chicago,FL

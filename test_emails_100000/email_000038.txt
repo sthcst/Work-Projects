@@ -1,9 +1,0 @@
-contact:
-  name: David Taylor
-  email: david.taylor8230@mail.com
-  phone: 650-302-9617
-  ssn: 933591251
-  dob: 3/14/2005
-  address: 1235 Second Dr
-  city: Austin
-  state: OH

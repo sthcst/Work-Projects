@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Young,donald.young5904@work.org,(960) 343-8354,117 48 3241,1/8/1952,"9008 Oak Rd",Dallas,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Jones,kathleen.jones4052@example.com,(756) 290-2427,462-61-3262,09/12/1975,"5691 Spring Ln",Chicago,FL

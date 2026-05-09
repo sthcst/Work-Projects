@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Davis,katherine.davis6537@work.org,502 399 9947,341-97-3939,17/02/1988,"6532 Birch Dr",Los Angeles,CA

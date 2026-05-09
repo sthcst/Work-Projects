@@ -1,9 +1,0 @@
-contact:
-  name: James Reed
-  email: james.reed7341@mail.com
-  phone: (334) 612-7029
-  ssn: 905-19-5313
-  dob: 12/11/1974
-  address: 4847 Third Rd
-  city: San Jose
-  state: MD

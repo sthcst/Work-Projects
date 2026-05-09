@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Taylor,william.taylor5719@example.com,991-233-4553,220749934,7/24/1979,"2852 Sixth Court",San Diego,CA

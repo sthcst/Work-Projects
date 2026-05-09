@@ -1,9 +1,0 @@
-contact:
-  name: Steven Cooper
-  email: steven.cooper6416@gmail.com
-  phone: (490) 677-2836
-  ssn: 074-78-8426
-  dob: 05-02-1968
-  address: 4680 North Blvd
-  city: San Diego
-  state: TN

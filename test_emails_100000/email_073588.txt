@@ -1,9 +1,0 @@
-contact:
-  name: James Harris
-  email: james.harris3523@yahoo.com
-  phone: 231 836 5212
-  ssn: 015 06 9783
-  dob: 01-05-1995
-  address: 3916 Spring Rd
-  city: Phoenix
-  state: MD

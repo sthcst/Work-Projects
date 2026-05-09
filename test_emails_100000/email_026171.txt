@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Murillo,joseph.murillo7248@gmail.com,(896) 571-2222,871-49-7315,2/7/1999,"8018 Oak Way",Boston,MA

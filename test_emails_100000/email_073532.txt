@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Carter,deborah.carter7877@business.net,+1 848-987-5196,624-77-2622,01-13-2000,"5942 Maple Dr",New York,AZ

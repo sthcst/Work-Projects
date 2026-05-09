@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Evans,robert.evans4286@yahoo.com,+1 936-472-7630,937 66 5081,02-07-1983,"4588 Spring Ave",Jacksonville,MO

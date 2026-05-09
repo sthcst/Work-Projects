@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Brown,helen.brown6610@example.com,(441) 627-6939,302442864,11/21/1981,"3372 Fourth Rd",Phoenix,GA

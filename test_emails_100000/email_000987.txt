@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Nunez,helen.nunez5998@work.org,(815) 920-3413,679-57-4826,9/13/1985,"628 Maple Ave",Austin,GA

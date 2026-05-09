@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Nunez
-  email: joseph.nunez3877@work.org
-  phone: 953-553-1609
-  ssn: 137-73-5858
-  dob: 2/23/1992
-  address: 5263 Fourth Court
-  city: Seattle
-  state: TN

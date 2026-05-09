@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Jackson
-  email: katherine.jackson5657@outlook.com
-  phone: 969-305-2425
-  ssn: 249 10 5032
-  dob: 01-05-1980
-  address: 2511 Elm Court
-  city: Seattle
-  state: MO

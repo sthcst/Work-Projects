@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Hernandez,timothy.hernandez9942@gmail.com,(438) 364-3318,343 44 6540,12/9/1986,"1009 Park Dr",San Diego,MA

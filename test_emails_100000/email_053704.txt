@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Evans
-  email: katherine.evans6262@company.com
-  phone: +1 839-599-8941
-  ssn: 285-33-8500
-  dob: 11/7/1998
-  address: 5319 Maple Ave
-  city: San Antonio
-  state: IL

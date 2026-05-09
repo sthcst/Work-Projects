@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Collins,deborah.collins4188@yahoo.com,(213) 985-2146,980605974,12/12/1960,"7243 Cedar Blvd",San Jose,DC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Phillips,amanda.phillips9511@work.org,(717) 618-4195,435-19-1876,04/07/1962,"7816 Maple Blvd",Philadelphia,NJ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Edwards,angela.edwards713@yahoo.com,+1 826-533-1924,857-16-6871,04/26/1994,"2435 West Blvd",Los Angeles,MA

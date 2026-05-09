@@ -1,9 +1,0 @@
-contact:
-  name: Maria Clark
-  email: maria.clark4697@gmail.com
-  phone: (520) 466-6949
-  ssn: 137726757
-  dob: 02/06/1961
-  address: 2001 Cedar Way
-  city: Seattle
-  state: MA

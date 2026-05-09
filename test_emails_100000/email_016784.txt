@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Alvarado,amanda.alvarado541@yahoo.com,(440) 578-3703,982439492,11/05/1972,"8141 Summer Ave",Washington,NC

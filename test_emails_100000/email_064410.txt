@@ -1,9 +1,0 @@
-contact:
-  name: Donald Dominguez
-  email: donald.dominguez9672@work.org
-  phone: (954) 555-7448
-  ssn: 652 98 6794
-  dob: 12-12-1963
-  address: 7930 East Ln
-  city: Denver
-  state: CA

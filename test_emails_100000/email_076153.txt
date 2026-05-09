@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Harris,samantha.harris8098@work.org,644-280-3793,439-58-8397,09/17/1988,"5897 Elm Rd",Chicago,NC

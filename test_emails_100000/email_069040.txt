@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Roberts
-  email: katherine.roberts2490@mail.com
-  phone: 865 477 4223
-  ssn: 887688745
-  dob: 03/20/1961
-  address: 459 Fourth Blvd
-  city: Austin
-  state: MO

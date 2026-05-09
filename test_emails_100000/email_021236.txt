@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Harris,jane.harris8957@company.com,582 778 4060,771-43-5316,26/02/1971,"4964 Fifth Way",Denver,WA

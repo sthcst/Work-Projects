@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Flores
-  email: katherine.flores6475@business.net
-  phone: 619-832-9348
-  ssn: 135784682
-  dob: 12/21/1984
-  address: 3308 Spring Ave
-  city: New York
-  state: TN

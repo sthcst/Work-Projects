@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Robinson
-  email: kathleen.robinson9189@mail.com
-  phone: 223 454 2028
-  ssn: 176219280
-  dob: 03-19-1957
-  address: 517 Second Blvd
-  city: Los Angeles
-  state: FL

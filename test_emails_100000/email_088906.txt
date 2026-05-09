@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Carter
-  email: shirley.carter7465@outlook.com
-  phone: +1 308-967-3138
-  ssn: 769139927
-  dob: 04/01/2005
-  address: 2140 Fourth Ave
-  city: Denver
-  state: FL

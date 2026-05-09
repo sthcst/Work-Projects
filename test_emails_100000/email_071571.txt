@@ -1,9 +1,0 @@
-contact:
-  name: James Jones
-  email: james.jones3670@outlook.com
-  phone: (524) 516-7659
-  ssn: 117908277
-  dob: 05-04-1976
-  address: 4236 First Dr
-  city: Washington
-  state: NY

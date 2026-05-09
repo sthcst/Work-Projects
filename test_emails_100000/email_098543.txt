@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Moore,christine.moore9516@yahoo.com,683 920 7466,179 04 8381,02-25-1987,"9641 Cedar Court",Dallas,MA

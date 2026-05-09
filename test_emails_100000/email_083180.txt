@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Nelson
-  email: lisa.nelson9781@yahoo.com
-  phone: (896) 388-8569
-  ssn: 094399531
-  dob: 05/08/1950
-  address: 4702 Spring St
-  city: San Antonio
-  state: MD

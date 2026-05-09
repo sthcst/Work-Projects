@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Perez,rebecca.perez8316@business.net,470-298-7234,103 40 4682,05-08-2001,"9593 Pine Rd",San Jose,TN

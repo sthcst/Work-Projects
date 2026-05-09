@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Jones
-  email: joseph.jones5881@company.com
-  phone: +1 823-518-4355
-  ssn: 597489783
-  dob: 08/02/1963
-  address: 3597 Cedar Blvd
-  city: Chicago
-  state: AZ

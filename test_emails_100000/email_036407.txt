@@ -1,9 +1,0 @@
-contact:
-  name: George Reeves
-  email: george.reeves4342@work.org
-  phone: (832) 498-5660
-  ssn: 659 27 3546
-  dob: 06/02/2005
-  address: 2752 Elm Rd
-  city: Washington
-  state: MA

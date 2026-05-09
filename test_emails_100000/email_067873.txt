@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Serrano
-  email: nicole.serrano5595@gmail.com
-  phone: 801-712-6901
-  ssn: 920-69-3887
-  dob: 11/23/1980
-  address: 4768 Pine Rd
-  city: Philadelphia
-  state: NC

@@ -1,9 +1,0 @@
-contact:
-  name: Christine Bell
-  email: christine.bell5164@gmail.com
-  phone: (993) 400-6220
-  ssn: 500 22 7163
-  dob: 01/05/2003
-  address: 2693 West Ave
-  city: Dallas
-  state: GA

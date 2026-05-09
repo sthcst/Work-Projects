@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Reyes
-  email: kevin.reyes238@yahoo.com
-  phone: 215 242 7043
-  ssn: 192 85 2823
-  dob: 24/02/1967
-  address: 4889 Summer Ave
-  city: Philadelphia
-  state: OH

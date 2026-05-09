@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Hernandez,anna.hernandez993@example.com,(751) 377-1310,051331994,10/18/1993,"6826 Main Blvd",Austin,MD

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Anderson,samantha.anderson9011@yahoo.com,686-427-4244,406 94 8586,7/11/1987,"4447 Sixth Court",New York,FL

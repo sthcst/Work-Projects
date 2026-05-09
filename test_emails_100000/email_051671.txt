@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Reed
-  email: sarah.reed6663@outlook.com
-  phone: 890-594-2430
-  ssn: 973 19 9701
-  dob: 02/08/2005
-  address: 6378 Second Dr
-  city: San Diego
-  state: CA

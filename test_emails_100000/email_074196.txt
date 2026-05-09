@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Carter
-  email: katherine.carter5567@gmail.com
-  phone: 775-940-1966
-  ssn: 911 71 6756
-  dob: 03/16/1950
-  address: 419 Sixth Ln
-  city: Houston
-  state: GA

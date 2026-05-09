@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Nunez
-  email: jacob.nunez325@business.net
-  phone: +1 800-915-1109
-  ssn: 136 76 4116
-  dob: 8/1/1989
-  address: 8213 Second St
-  city: Austin
-  state: CO

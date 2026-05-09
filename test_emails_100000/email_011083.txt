@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Wilson,jessica.wilson3261@company.com,340-975-5015,709 09 3178,09-17-1960,"130 Maple Blvd",Washington,AZ

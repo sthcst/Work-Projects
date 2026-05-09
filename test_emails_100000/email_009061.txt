@@ -1,9 +1,0 @@
-contact:
-  name: Michael Robinson
-  email: michael.robinson2195@business.net
-  phone: 682 624 7619
-  ssn: 951-38-3299
-  dob: 07-07-2002
-  address: 8016 Second Blvd
-  city: Jacksonville
-  state: TN

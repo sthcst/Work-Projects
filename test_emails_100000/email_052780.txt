@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Collins
-  email: matthew.collins2674@outlook.com
-  phone: (379) 358-7263
-  ssn: 534-23-7126
-  dob: 18/12/1992
-  address: 8941 Sixth Blvd
-  city: Houston
-  state: TX

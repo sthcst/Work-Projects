@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Williams,jeffrey.williams5449@business.net,(867) 311-6263,233-23-9802,2/16/1989,"7244 Cedar Dr",Phoenix,WI

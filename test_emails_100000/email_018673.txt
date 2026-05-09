@@ -1,9 +1,0 @@
-contact:
-  name: Paul Bell
-  email: paul.bell5999@gmail.com
-  phone: 599-683-3563
-  ssn: 554257399
-  dob: 05-15-1980
-  address: 2491 Park Blvd
-  city: Boston
-  state: WA

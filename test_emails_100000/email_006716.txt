@@ -1,9 +1,0 @@
-contact:
-  name: Steven Lewis
-  email: steven.lewis9116@outlook.com
-  phone: 743-323-8153
-  ssn: 380-40-7940
-  dob: 12/5/1987
-  address: 1893 Summer Dr
-  city: Philadelphia
-  state: AZ

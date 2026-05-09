@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Thomas,michael.thomas8069@work.org,885 481 9754,871-08-1422,6/26/1953,"1741 First Blvd",Boston,MI

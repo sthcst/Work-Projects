@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Roberts,steven.roberts7230@gmail.com,+1 416-378-4600,372276359,03/23/1952,"4456 South Court",Phoenix,WA

@@ -1,9 +1,0 @@
-contact:
-  name: Emily Morgan
-  email: emily.morgan2667@business.net
-  phone: 537 942 4191
-  ssn: 301048762
-  dob: 2/15/1983
-  address: 8823 First Dr
-  city: Jacksonville
-  state: AZ

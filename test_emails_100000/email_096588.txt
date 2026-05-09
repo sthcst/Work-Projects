@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Morris,nicholas.morris5448@company.com,600-242-6591,035-84-8715,3/16/1992,"9830 North Blvd",Jacksonville,TX

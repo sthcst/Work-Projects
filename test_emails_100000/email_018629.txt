@@ -1,9 +1,0 @@
-contact:
-  name: David Carter
-  email: david.carter6611@yahoo.com
-  phone: 564-919-3480
-  ssn: 133 36 7248
-  dob: 3/25/1975
-  address: 2482 Pine Way
-  city: Houston
-  state: CA

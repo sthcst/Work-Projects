@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Rogers,christine.rogers355@yahoo.com,802 487 2858,360 23 8303,06/16/1981,"9155 Third Ln",Denver,AZ

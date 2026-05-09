@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Young,rebecca.young1820@example.com,310 249 3296,677212931,7/3/1952,"8539 Birch St",Jacksonville,FL

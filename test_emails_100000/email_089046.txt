@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Robinson,megan.robinson9326@work.org,+1 433-324-8655,611695784,09/18/1978,"3613 West Court",Denver,CA

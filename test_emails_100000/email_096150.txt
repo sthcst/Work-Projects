@@ -1,9 +1,0 @@
-contact:
-  name: Robert Lopez
-  email: robert.lopez6166@yahoo.com
-  phone: 299 649 8414
-  ssn: 617-30-1028
-  dob: 01-18-1952
-  address: 1674 Cedar Ave
-  city: San Jose
-  state: FL

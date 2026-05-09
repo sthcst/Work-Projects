@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Murillo
-  email: samantha.murillo1465@yahoo.com
-  phone: 368-884-3187
-  ssn: 313-95-8945
-  dob: 5/11/1956
-  address: 3190 Elm Ave
-  city: New York
-  state: NC

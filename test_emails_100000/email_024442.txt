@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Morris,stephanie.morris4784@outlook.com,(617) 354-6593,407 51 3766,05/07/1990,"1098 Birch Way",New York,WI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Rodriguez,daniel.rodriguez3744@mail.com,864 397 2779,239 12 9491,03/26/1962,"1673 Maple Rd",Los Angeles,CA

@@ -1,9 +1,0 @@
-contact:
-  name: Edward Young
-  email: edward.young7356@yahoo.com
-  phone: 222 224 8576
-  ssn: 257062489
-  dob: 02-13-1986
-  address: 7637 North Blvd
-  city: Austin
-  state: WI

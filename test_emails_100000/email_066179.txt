@@ -1,9 +1,0 @@
-contact:
-  name: Steven Nunez
-  email: steven.nunez471@company.com
-  phone: +1 677-363-1164
-  ssn: 649-49-1899
-  dob: 01/06/1978
-  address: 5849 Fourth Ave
-  city: Philadelphia
-  state: TN

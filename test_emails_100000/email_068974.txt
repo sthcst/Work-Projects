@@ -1,9 +1,0 @@
-contact:
-  name: Christine Lopez
-  email: christine.lopez7998@work.org
-  phone: 307 612 8832
-  ssn: 617-50-5561
-  dob: 07/14/1964
-  address: 4183 Summer Blvd
-  city: San Diego
-  state: WI

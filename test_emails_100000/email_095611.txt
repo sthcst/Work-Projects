@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Bell
-  email: christopher.bell712@work.org
-  phone: 559-866-4879
-  ssn: 523 48 6450
-  dob: 1/7/1957
-  address: 9776 Summer Dr
-  city: New York
-  state: NY

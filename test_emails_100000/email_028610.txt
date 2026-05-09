@@ -1,9 +1,0 @@
-contact:
-  name: Megan Wilson
-  email: megan.wilson322@business.net
-  phone: +1 430-355-3251
-  ssn: 341215915
-  dob: 25/08/1986
-  address: 1792 Main Rd
-  city: San Antonio
-  state: AZ

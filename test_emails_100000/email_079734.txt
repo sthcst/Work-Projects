@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Delgado,anna.delgado2042@work.org,(938) 532-9519,703-65-6929,08-15-1999,"41 Oak Ln",San Diego,MO

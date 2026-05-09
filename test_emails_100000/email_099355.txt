@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Edwards
-  email: katherine.edwards728@gmail.com
-  phone: (683) 778-8253
-  ssn: 808986142
-  dob: 07/03/1976
-  address: 1596 South Dr
-  city: Jacksonville
-  state: MO

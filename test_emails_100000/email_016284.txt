@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole White,nicole.white9820@outlook.com,+1 821-224-4068,449762109,12/14/1960,"7287 Pine Ave",San Diego,MA

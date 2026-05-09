@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Alvarado
-  email: rachel.alvarado8623@gmail.com
-  phone: (458) 909-2051
-  ssn: 981 29 1971
-  dob: 12-16-1973
-  address: 5541 North Way
-  city: Los Angeles
-  state: MI

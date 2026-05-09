@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Alvarado,john.alvarado7053@yahoo.com,945-648-3349,937 11 4734,06/01/1994,"1178 East Court",Chicago,MA

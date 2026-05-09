@@ -1,9 +1,0 @@
-contact:
-  name: James Parker
-  email: james.parker1768@outlook.com
-  phone: (372) 307-9714
-  ssn: 650-35-3277
-  dob: 4/9/1954
-  address: 5431 Maple Ave
-  city: San Jose
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Emily Jones
-  email: emily.jones8947@mail.com
-  phone: (725) 577-3261
-  ssn: 191677199
-  dob: 10-28-1956
-  address: 8291 Spring Rd
-  city: Washington
-  state: WA

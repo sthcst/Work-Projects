@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Thompson,anna.thompson3037@example.com,+1 899-594-2990,570-14-3274,8/20/1962,"3726 North Ln",Austin,CO

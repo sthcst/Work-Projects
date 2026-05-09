@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Martin
-  email: deborah.martin4864@example.com
-  phone: +1 918-344-1513
-  ssn: 863-04-8343
-  dob: 7/13/1996
-  address: 1784 Summer St
-  city: Houston
-  state: MD

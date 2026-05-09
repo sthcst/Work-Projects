@@ -1,9 +1,0 @@
-contact:
-  name: Angela Hall
-  email: angela.hall3112@outlook.com
-  phone: +1 645-511-3272
-  ssn: 913-58-5987
-  dob: 18/06/1959
-  address: 425 Main Dr
-  city: San Diego
-  state: MD

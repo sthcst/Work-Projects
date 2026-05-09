@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Rogers,nicholas.rogers7841@business.net,+1 839-912-6233,616-41-6383,07-14-1994,"7490 West Way",Philadelphia,FL

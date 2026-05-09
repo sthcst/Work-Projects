@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Sanchez,david.sanchez7666@company.com,286-327-6676,221-85-2566,5/14/1956,"2081 Cedar Way",San Antonio,WI

@@ -1,9 +1,0 @@
-contact:
-  name: Emma Taylor
-  email: emma.taylor2661@outlook.com
-  phone: +1 657-239-1949
-  ssn: 499-04-5572
-  dob: 6/25/1961
-  address: 2950 Oak Blvd
-  city: San Jose
-  state: TX

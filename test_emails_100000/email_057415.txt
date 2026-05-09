@@ -1,9 +1,0 @@
-contact:
-  name: John Anderson
-  email: john.anderson7679@work.org
-  phone: 453-286-4051
-  ssn: 216-51-5951
-  dob: 03/21/1987
-  address: 9813 Maple Ave
-  city: San Jose
-  state: MA

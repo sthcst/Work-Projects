@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Jimenez
-  email: lauren.jimenez8933@work.org
-  phone: +1 790-277-8172
-  ssn: 341 13 7168
-  dob: 18/05/1957
-  address: 4867 Elm Way
-  city: Denver
-  state: CA

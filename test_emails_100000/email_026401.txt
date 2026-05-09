@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Bell,jessica.bell1171@mail.com,(607) 690-1879,178 08 8735,08/24/1957,"9848 Spring Blvd",San Diego,MA

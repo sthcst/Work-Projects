@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Romero,gary.romero6241@gmail.com,(720) 609-6697,018 81 3343,4/27/1987,"2927 Pine Way",Dallas,NY

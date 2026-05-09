@@ -1,9 +1,0 @@
-contact:
-  name: Jason Nunez
-  email: jason.nunez9753@company.com
-  phone: +1 247-808-6740
-  ssn: 150-14-6008
-  dob: 07/13/1993
-  address: 1370 North Rd
-  city: Los Angeles
-  state: NJ

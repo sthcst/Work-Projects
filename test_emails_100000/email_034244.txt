@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Moore,william.moore2277@work.org,(469) 509-3192,082958811,04/07/1955,"572 Fifth Rd",San Jose,TX

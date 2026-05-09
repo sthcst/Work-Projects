@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Young,angela.young8345@work.org,349-417-1494,451 89 3362,2/20/1993,"3628 Summer St",Chicago,MA

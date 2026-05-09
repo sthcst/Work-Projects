@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Phillips,jason.phillips5127@example.com,386 568 2704,206-58-1190,9/25/1974,"7476 Maple Dr",Seattle,WA

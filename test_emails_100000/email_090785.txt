@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Ramirez,brenda.ramirez3472@mail.com,704 231 3489,062 33 5140,4/3/1989,"1087 Park Ave",Washington,GA

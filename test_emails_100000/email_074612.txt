@@ -1,9 +1,0 @@
-contact:
-  name: Edward Carter
-  email: edward.carter3648@company.com
-  phone: (681) 524-2140
-  ssn: 451-25-4642
-  dob: 17/12/1976
-  address: 8847 South Way
-  city: New York
-  state: MO

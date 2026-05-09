@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Jackson,joshua.jackson283@company.com,+1 456-882-5528,003-89-1849,3/4/1959,"2702 Sixth Way",Phoenix,CO

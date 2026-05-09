@@ -1,9 +1,0 @@
-contact:
-  name: Emma Collins
-  email: emma.collins9805@example.com
-  phone: (454) 756-7691
-  ssn: 899 72 4548
-  dob: 9/6/1995
-  address: 997 Elm Dr
-  city: San Antonio
-  state: FL

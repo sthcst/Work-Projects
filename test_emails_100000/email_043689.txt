@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Gomez,william.gomez6122@yahoo.com,+1 558-461-5853,789121033,05/07/1953,"3374 Fourth Ave",Jacksonville,CA

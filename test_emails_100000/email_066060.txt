@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Hernandez,ronald.hernandez2559@company.com,+1 957-931-5181,344 89 9893,7/1/1989,"7028 Cedar Dr",Denver,MO

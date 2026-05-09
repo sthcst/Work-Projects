@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Rogers,daniel.rogers6210@company.com,+1 318-789-6547,178-63-5290,01/03/1978,"4780 North Ln",Philadelphia,NJ

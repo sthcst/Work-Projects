@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Edwards,kenneth.edwards1408@outlook.com,(411) 548-6966,602 10 7799,12-20-1955,"6738 East Ln",New York,VA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Murillo,jessica.murillo7575@work.org,340 206 9394,872-22-5803,05/02/1972,"1498 Fifth Rd",Denver,TX

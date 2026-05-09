@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Wilson
-  email: matthew.wilson2153@mail.com
-  phone: 662 877 5329
-  ssn: 302146054
-  dob: 4/15/1970
-  address: 2943 North Ave
-  city: Philadelphia
-  state: IL

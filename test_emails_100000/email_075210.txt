@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin White,kevin.white3943@company.com,(761) 399-8713,396161657,12/05/2000,"7332 Summer Way",Dallas,IL

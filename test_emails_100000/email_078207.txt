@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Brown,christopher.brown9254@gmail.com,305-299-5341,441653250,23/12/1956,"1592 Summer Rd",Boston,NC

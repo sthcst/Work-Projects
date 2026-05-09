@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Cooper,gary.cooper4428@example.com,(460) 766-3658,197 50 3898,04/04/1951,"3976 Spring Court",Seattle,FL

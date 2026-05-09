@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Johnson,jeffrey.johnson2010@company.com,519 302 7669,825 58 7289,12/06/1966,"194 Maple Rd",Boston,CA

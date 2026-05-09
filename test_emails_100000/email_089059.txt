@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Jackson
-  email: stephanie.jackson6353@outlook.com
-  phone: 950 519 1575
-  ssn: 323299820
-  dob: 04-24-2002
-  address: 6184 Fourth Court
-  city: Washington
-  state: CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Jackson,timothy.jackson6610@business.net,473 960 5012,082-89-8908,21/02/2001,"2693 Oak Way",San Diego,TN

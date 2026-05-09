@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Ortiz
-  email: michelle.ortiz996@outlook.com
-  phone: 230 643 1243
-  ssn: 629284551
-  dob: 10-26-1998
-  address: 871 East Dr
-  city: Washington
-  state: NC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Lee,nicholas.lee9028@company.com,(816) 370-8286,599 18 3452,15/11/1983,"2397 Sixth Rd",Philadelphia,TN

@@ -1,9 +1,0 @@
-contact:
-  name: William Reyes
-  email: william.reyes6816@company.com
-  phone: (741) 733-7583
-  ssn: 574 80 1125
-  dob: 14/10/1950
-  address: 6630 Fifth Ln
-  city: Austin
-  state: TX

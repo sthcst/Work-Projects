@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Murillo,anthony.murillo7855@outlook.com,211 251 7682,018-84-1249,6/4/1968,"3121 Fourth Way",Dallas,OH

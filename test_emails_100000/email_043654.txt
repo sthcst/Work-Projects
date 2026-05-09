@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Moore,rachel.moore8063@mail.com,796-513-8401,796422312,10-13-1954,"9664 Third Ln",Jacksonville,TX

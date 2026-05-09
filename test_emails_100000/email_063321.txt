@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Miller
-  email: andrew.miller2605@yahoo.com
-  phone: (231) 874-8019
-  ssn: 279 82 4159
-  dob: 12-13-1954
-  address: 8193 Elm Ln
-  city: Boston
-  state: CO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Romero,paul.romero4366@outlook.com,550-402-9073,112 91 8352,08/06/1991,"5325 Second Way",San Antonio,DC

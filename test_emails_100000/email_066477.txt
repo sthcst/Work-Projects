@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Campbell,jeffrey.campbell2549@work.org,208-926-7635,327 03 2045,12-05-1964,"338 Birch Blvd",San Antonio,WI

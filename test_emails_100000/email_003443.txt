@@ -1,9 +1,0 @@
-contact:
-  name: Christine Stewart
-  email: christine.stewart2723@mail.com
-  phone: 696 887 1999
-  ssn: 452-69-9858
-  dob: 06-20-1987
-  address: 4469 First Rd
-  city: Jacksonville
-  state: TX

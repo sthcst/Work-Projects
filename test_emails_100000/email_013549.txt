@@ -1,9 +1,0 @@
-contact:
-  name: Angela Lewis
-  email: angela.lewis9761@yahoo.com
-  phone: 608 264 4518
-  ssn: 947-81-5197
-  dob: 2/16/1950
-  address: 8246 Third Dr
-  city: Los Angeles
-  state: CA

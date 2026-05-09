@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Reed
-  email: jeffrey.reed7214@business.net
-  phone: (449) 780-8954
-  ssn: 512-87-3689
-  dob: 11/05/1955
-  address: 9920 North Blvd
-  city: San Diego
-  state: OH

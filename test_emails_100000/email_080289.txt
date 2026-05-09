@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Lewis,katherine.lewis8511@work.org,(475) 230-2987,962532432,06-25-1960,"2682 North St",Philadelphia,WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Serrano,nicole.serrano8777@example.com,+1 224-863-4412,861-10-3818,06-24-1995,"7613 Main Blvd",Chicago,NY

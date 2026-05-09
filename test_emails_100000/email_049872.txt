@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Collins
-  email: katherine.collins3537@company.com
-  phone: 855 254 7477
-  ssn: 737 33 9305
-  dob: 09/20/1968
-  address: 7207 Oak Rd
-  city: Houston
-  state: WI

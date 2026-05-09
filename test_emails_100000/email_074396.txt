@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Rodriguez,brian.rodriguez4607@mail.com,+1 386-731-5793,123-25-2871,04/16/2001,"316 Fifth Court",Phoenix,MI

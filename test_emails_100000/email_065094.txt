@@ -1,9 +1,0 @@
-contact:
-  name: Donald Thompson
-  email: donald.thompson8114@business.net
-  phone: +1 297-247-9715
-  ssn: 805406231
-  dob: 5/22/1982
-  address: 1269 Pine Ave
-  city: New York
-  state: MI

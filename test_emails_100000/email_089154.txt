@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Serrano
-  email: kevin.serrano3981@gmail.com
-  phone: 956 929 5521
-  ssn: 803 97 2070
-  dob: 01/02/1953
-  address: 2597 Sixth Ave
-  city: Denver
-  state: MO

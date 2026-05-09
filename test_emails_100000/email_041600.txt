@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Serrano
-  email: nicholas.serrano5554@work.org
-  phone: 641-698-5156
-  ssn: 053 08 8979
-  dob: 14/12/1982
-  address: 85 East Rd
-  city: New York
-  state: GA

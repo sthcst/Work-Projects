@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Lewis,steven.lewis9252@gmail.com,(739) 313-1239,956-49-3600,03/25/2000,"4761 South Ln",Austin,CO

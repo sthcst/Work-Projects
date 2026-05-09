@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Walker
-  email: sarah.walker8391@mail.com
-  phone: 718-429-9146
-  ssn: 785 65 2058
-  dob: 06/22/1973
-  address: 7057 Spring Dr
-  city: San Diego
-  state: VA

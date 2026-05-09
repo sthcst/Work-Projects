@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Perez
-  email: amanda.perez1025@gmail.com
-  phone: (668) 658-5411
-  ssn: 196 85 7795
-  dob: 06-26-1959
-  address: 1289 North Ln
-  city: San Jose
-  state: CA

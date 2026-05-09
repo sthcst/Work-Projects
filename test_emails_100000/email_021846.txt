@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Davis
-  email: stephanie.davis246@yahoo.com
-  phone: 779-868-3581
-  ssn: 432 76 9854
-  dob: 05-03-1998
-  address: 4960 First Way
-  city: Jacksonville
-  state: TX

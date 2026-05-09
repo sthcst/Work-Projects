@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Edwards,pamela.edwards1678@yahoo.com,928-884-7068,136-64-3243,04/04/1989,"2835 Pine Dr",Philadelphia,TX

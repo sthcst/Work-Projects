@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Flores
-  email: jeffrey.flores2756@work.org
-  phone: 980-329-5470
-  ssn: 310-06-9506
-  dob: 11/14/1982
-  address: 3204 East Rd
-  city: San Jose
-  state: CA

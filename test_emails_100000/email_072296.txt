@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Gomez
-  email: joshua.gomez4974@gmail.com
-  phone: 319 956 1860
-  ssn: 902 56 1910
-  dob: 12/07/1992
-  address: 9290 Main Rd
-  city: Denver
-  state: CA

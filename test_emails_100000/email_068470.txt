@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Williams,emma.williams3246@mail.com,597 852 1164,329 65 3830,02/02/1988,"7124 Cedar Way",Jacksonville,MD

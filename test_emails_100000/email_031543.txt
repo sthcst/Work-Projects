@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Perez
-  email: shirley.perez8724@example.com
-  phone: (299) 802-7477
-  ssn: 330-09-1115
-  dob: 09-05-1956
-  address: 5139 Main Way
-  city: Boston
-  state: NY

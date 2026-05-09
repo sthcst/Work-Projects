@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Martinez,charles.martinez8881@yahoo.com,683 665 6102,929 93 8218,9/1/1965,"4825 Birch Dr",Philadelphia,MO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Reeves,nicole.reeves1432@mail.com,(415) 246-1553,614 55 7147,08/11/1965,"3420 Main Ln",Seattle,NY

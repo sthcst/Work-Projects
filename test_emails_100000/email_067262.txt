@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Sanchez
-  email: nicole.sanchez866@gmail.com
-  phone: 559 435 9869
-  ssn: 792 09 3735
-  dob: 4/15/1998
-  address: 574 South Ln
-  city: Philadelphia
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Anderson,jeffrey.anderson4988@company.com,892 552 4606,954343136,07/11/1960,"1080 Park Way",Austin,NC

@@ -1,9 +1,0 @@
-contact:
-  name: Richard Walker
-  email: richard.walker6723@work.org
-  phone: +1 402-825-3794
-  ssn: 468806490
-  dob: 07-14-2005
-  address: 4357 West Blvd
-  city: New York
-  state: MD

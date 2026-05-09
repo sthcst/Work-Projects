@@ -1,9 +1,0 @@
-contact:
-  name: Emma Reed
-  email: emma.reed3509@example.com
-  phone: (545) 967-3186
-  ssn: 289 23 3128
-  dob: 7/17/1990
-  address: 958 Fifth Dr
-  city: Phoenix
-  state: MI

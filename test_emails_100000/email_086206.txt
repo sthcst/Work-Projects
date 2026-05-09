@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Taylor,pamela.taylor2167@gmail.com,+1 390-980-9224,614193782,6/23/1999,"7320 Second Rd",Denver,AZ

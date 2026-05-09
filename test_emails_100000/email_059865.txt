@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Young,mark.young23@work.org,(250) 462-9012,751-17-4855,01/01/1966,"9779 Oak Ave",Austin,NC

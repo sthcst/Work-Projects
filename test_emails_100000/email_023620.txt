@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Jackson,rachel.jackson2031@gmail.com,249-793-7318,732-53-1602,23/06/1981,"9207 Oak Blvd",Houston,MA

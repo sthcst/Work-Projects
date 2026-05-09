@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Reyes,donald.reyes1066@example.com,538 728 2176,587 08 3390,6/15/1993,"5281 Maple St",Dallas,CA

@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Alvarado
-  email: kimberly.alvarado1744@work.org
-  phone: (711) 866-5013
-  ssn: 741121061
-  dob: 10/19/1968
-  address: 8172 Pine Blvd
-  city: Houston
-  state: GA

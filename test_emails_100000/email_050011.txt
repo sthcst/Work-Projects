@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Harris
-  email: timothy.harris5050@work.org
-  phone: (269) 678-8107
-  ssn: 210-47-4867
-  dob: 09/22/1982
-  address: 4694 Birch Ave
-  city: Houston
-  state: CA

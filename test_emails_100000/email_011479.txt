@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Rogers
-  email: shirley.rogers8226@company.com
-  phone: (344) 462-6115
-  ssn: 558392636
-  dob: 4/20/1951
-  address: 1520 Third Dr
-  city: Los Angeles
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Jones
-  email: jennifer.jones9284@company.com
-  phone: 948-659-4134
-  ssn: 422-17-2809
-  dob: 5/4/1952
-  address: 5763 Fifth Blvd
-  city: Philadelphia
-  state: MD

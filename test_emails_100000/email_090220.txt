@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Hernandez
-  email: amanda.hernandez5495@example.com
-  phone: +1 976-312-9129
-  ssn: 061291428
-  dob: 26/10/1983
-  address: 1171 Second Dr
-  city: Denver
-  state: CA

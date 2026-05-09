@@ -1,9 +1,0 @@
-contact:
-  name: Paul Reyes
-  email: paul.reyes7843@mail.com
-  phone: +1 262-704-2232
-  ssn: 299-42-7091
-  dob: 12/03/1991
-  address: 4680 Spring St
-  city: Chicago
-  state: PA

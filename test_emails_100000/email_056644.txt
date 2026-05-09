@@ -1,9 +1,0 @@
-contact:
-  name: Gary Serrano
-  email: gary.serrano9022@outlook.com
-  phone: +1 379-682-1507
-  ssn: 169 16 5938
-  dob: 01-11-1989
-  address: 1514 Third Blvd
-  city: San Jose
-  state: NY

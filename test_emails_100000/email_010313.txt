@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Jimenez,angela.jimenez4074@example.com,(948) 224-6648,105 78 4131,10-10-1966,"6641 Third Blvd",New York,WA

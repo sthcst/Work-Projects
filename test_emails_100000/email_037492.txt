@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Thompson,megan.thompson2939@gmail.com,(636) 213-6946,471112747,10/14/2005,"8813 Fifth Way",Jacksonville,AZ

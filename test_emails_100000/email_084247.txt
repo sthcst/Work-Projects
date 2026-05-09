@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Dominguez,ryan.dominguez8094@yahoo.com,(651) 659-8170,360-08-9925,25/08/1971,"863 Birch Court",Austin,TX

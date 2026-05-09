@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Sanchez,shirley.sanchez4927@work.org,930 353 4699,665 69 7146,08-09-1988,"3360 North Blvd",Phoenix,MO

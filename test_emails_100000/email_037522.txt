@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Stewart,michael.stewart3944@work.org,640-211-7045,765-36-6299,12/26/1966,"1607 Spring Rd",Denver,GA

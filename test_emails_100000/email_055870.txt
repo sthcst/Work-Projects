@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Ortiz
-  email: michelle.ortiz2820@company.com
-  phone: (210) 511-2155
-  ssn: 907516469
-  dob: 14/04/1982
-  address: 9836 North St
-  city: Washington
-  state: VA

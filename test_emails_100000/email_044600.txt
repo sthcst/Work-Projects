@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Lee,jennifer.lee1082@mail.com,739 232 8919,627 52 7872,22/10/1980,"7891 Park Ln",San Antonio,MD

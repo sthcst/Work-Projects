@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Dominguez,jennifer.dominguez1167@gmail.com,761-308-6722,131086956,12/12/1971,"4613 Maple Court",Jacksonville,TX

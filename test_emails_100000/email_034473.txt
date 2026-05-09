@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Hall
-  email: kenneth.hall7935@example.com
-  phone: +1 775-573-8758
-  ssn: 400-30-5395
-  dob: 12/20/1996
-  address: 3139 Second Ave
-  city: Seattle
-  state: MI

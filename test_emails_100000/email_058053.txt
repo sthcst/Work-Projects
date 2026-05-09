@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Peterson,katherine.peterson25@outlook.com,850-240-4596,286785848,3/6/1965,"1739 Main St",Dallas,MD

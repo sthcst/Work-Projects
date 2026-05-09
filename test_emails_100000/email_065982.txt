@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Roberts,brian.roberts1303@business.net,+1 604-669-4406,695454127,12/9/1979,"3508 Oak Ln",Los Angeles,TX

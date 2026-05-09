@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Delgado,ryan.delgado2718@business.net,(824) 484-6221,848316377,04-27-1962,"6916 Sixth Ave",San Jose,GA

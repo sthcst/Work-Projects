@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Phillips
-  email: samantha.phillips7506@gmail.com
-  phone: (543) 392-2190
-  ssn: 308288049
-  dob: 19/10/1959
-  address: 3633 West Court
-  city: Denver
-  state: CA

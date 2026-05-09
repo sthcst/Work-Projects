@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Anderson,kathleen.anderson872@yahoo.com,(359) 971-4920,941904469,02-04-1994,"2986 Main Court",San Antonio,CA

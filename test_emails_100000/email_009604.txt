@@ -1,9 +1,0 @@
-contact:
-  name: James Young
-  email: james.young9114@work.org
-  phone: (315) 688-3819
-  ssn: 320-13-7934
-  dob: 26/07/1962
-  address: 3780 Summer Ln
-  city: Chicago
-  state: CA

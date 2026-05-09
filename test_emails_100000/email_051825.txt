@@ -1,9 +1,0 @@
-contact:
-  name: Gary Johnson
-  email: gary.johnson1064@outlook.com
-  phone: 832-737-2692
-  ssn: 080-81-8000
-  dob: 12/3/1994
-  address: 6643 East Way
-  city: Austin
-  state: MO

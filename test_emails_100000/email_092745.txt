@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Ortiz,samantha.ortiz3856@work.org,252 406 6624,807-58-8772,6/26/1968,"5077 Maple Blvd",San Antonio,WA

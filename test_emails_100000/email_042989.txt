@@ -1,9 +1,0 @@
-contact:
-  name: Robert Lee
-  email: robert.lee3062@mail.com
-  phone: 203-359-5635
-  ssn: 584 04 8668
-  dob: 08/02/1982
-  address: 2973 Oak Rd
-  city: San Jose
-  state: DC

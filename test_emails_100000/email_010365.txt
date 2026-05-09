@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Campbell
-  email: ryan.campbell1697@gmail.com
-  phone: 671 953 1223
-  ssn: 504843377
-  dob: 03-10-1983
-  address: 3400 Pine Court
-  city: Seattle
-  state: TX

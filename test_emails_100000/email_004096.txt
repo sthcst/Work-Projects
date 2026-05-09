@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Dominguez,stephanie.dominguez6483@mail.com,(752) 866-3784,824525678,02/08/1992,"2540 Maple Dr",San Antonio,NY

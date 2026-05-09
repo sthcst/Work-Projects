@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Cooper,george.cooper6862@work.org,521 394 2841,126091177,11/09/1962,"1773 Summer Dr",San Jose,AZ

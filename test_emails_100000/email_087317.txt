@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Alvarado,james.alvarado8360@yahoo.com,670-266-8591,647-89-7455,02-04-1986,"7698 Second Ave",Houston,GA

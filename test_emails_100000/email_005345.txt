@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Delgado
-  email: kimberly.delgado4736@gmail.com
-  phone: 821-450-8183
-  ssn: 564-49-9073
-  dob: 4/5/1993
-  address: 6682 North Way
-  city: Chicago
-  state: TX

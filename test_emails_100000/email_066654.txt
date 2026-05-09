@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Wilson,anthony.wilson4192@yahoo.com,202-284-1370,195501566,7/25/1976,"2068 Park Court",San Antonio,NC

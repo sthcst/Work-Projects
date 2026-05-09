@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Delgado
-  email: stephanie.delgado7758@yahoo.com
-  phone: (490) 897-8618
-  ssn: 814195261
-  dob: 02/20/1962
-  address: 1772 Cedar Blvd
-  city: Washington
-  state: TX

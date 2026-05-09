@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Evans,kimberly.evans2178@gmail.com,609-596-3918,291 39 1619,02-14-1975,"7819 Third Rd",Chicago,IL

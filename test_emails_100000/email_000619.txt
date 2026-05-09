@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Anderson
-  email: deborah.anderson1311@work.org
-  phone: 831 945 7096
-  ssn: 872615228
-  dob: 09-18-2002
-  address: 5359 Third Rd
-  city: Dallas
-  state: MA

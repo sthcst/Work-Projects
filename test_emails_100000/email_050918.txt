@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Jackson
-  email: joshua.jackson8673@mail.com
-  phone: 502-911-3944
-  ssn: 041954656
-  dob: 08/04/1994
-  address: 1759 Oak Ln
-  city: Boston
-  state: CA

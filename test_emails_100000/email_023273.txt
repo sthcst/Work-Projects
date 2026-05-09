@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Cooper,megan.cooper8604@yahoo.com,804-849-8036,439872770,15/06/2005,"2584 Birch Ln",San Diego,MD

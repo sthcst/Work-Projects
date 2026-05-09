@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Taylor,jason.taylor7550@company.com,777-918-9416,680865988,8/28/1992,"6286 Fifth Dr",Jacksonville,TX

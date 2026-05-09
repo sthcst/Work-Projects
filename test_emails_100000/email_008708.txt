@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Jackson,michelle.jackson3116@outlook.com,+1 677-304-5839,025-37-9865,2/24/1981,"5443 Sixth Ln",Houston,MD

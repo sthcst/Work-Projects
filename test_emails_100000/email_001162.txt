@@ -1,9 +1,0 @@
-contact:
-  name: Joseph White
-  email: joseph.white7257@outlook.com
-  phone: (598) 211-4204
-  ssn: 002 66 8891
-  dob: 05/15/1980
-  address: 9398 Main Way
-  city: Washington
-  state: CO

@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Murillo
-  email: jeffrey.murillo5091@outlook.com
-  phone: 591-212-8939
-  ssn: 537-18-4814
-  dob: 20/09/1963
-  address: 395 East St
-  city: Denver
-  state: GA

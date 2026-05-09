@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Johnson,donald.johnson2381@mail.com,+1 664-949-6204,773 92 6881,23/12/1957,"3441 Fourth Ln",Dallas,TX

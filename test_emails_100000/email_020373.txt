@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Morgan,emily.morgan6563@company.com,+1 586-721-8824,280 35 3841,15/07/2005,"8513 Maple St",Los Angeles,PA

@@ -1,9 +1,0 @@
-contact:
-  name: Jane Campbell
-  email: jane.campbell5188@business.net
-  phone: +1 263-383-5905
-  ssn: 994244524
-  dob: 01-23-1990
-  address: 9539 First Court
-  city: Washington
-  state: MA

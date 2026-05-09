@@ -1,9 +1,0 @@
-contact:
-  name: Donald Smith
-  email: donald.smith5739@mail.com
-  phone: 735-914-3227
-  ssn: 945-76-7375
-  dob: 03/12/1983
-  address: 424 Cedar Rd
-  city: San Jose
-  state: WI

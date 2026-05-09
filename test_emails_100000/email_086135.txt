@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Wilson,emma.wilson7389@example.com,(736) 982-4651,721702161,09/08/1954,"5895 Second Court",Phoenix,CO

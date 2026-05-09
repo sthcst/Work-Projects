@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Robinson,kevin.robinson6306@business.net,619 845 9728,027597124,04/14/2000,"276 Fourth Ave",Jacksonville,PA

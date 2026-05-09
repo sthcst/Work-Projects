@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Reeves
-  email: ashley.reeves1054@business.net
-  phone: +1 208-977-8873
-  ssn: 744588951
-  dob: 3/13/1950
-  address: 7732 Oak Dr
-  city: Seattle
-  state: AZ

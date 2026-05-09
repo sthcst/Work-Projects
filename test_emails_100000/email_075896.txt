@@ -1,9 +1,0 @@
-contact:
-  name: George Brown
-  email: george.brown8683@work.org
-  phone: +1 312-695-8983
-  ssn: 261 23 3594
-  dob: 04-24-1983
-  address: 9688 North Way
-  city: Phoenix
-  state: VA

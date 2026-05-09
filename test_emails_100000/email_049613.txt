@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Ortiz
-  email: michelle.ortiz3396@example.com
-  phone: (413) 807-2442
-  ssn: 702 27 6908
-  dob: 04-06-1952
-  address: 9568 Maple Dr
-  city: Seattle
-  state: GA

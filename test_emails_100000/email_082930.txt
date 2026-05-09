@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Harris
-  email: pamela.harris334@company.com
-  phone: (540) 633-6227
-  ssn: 865553237
-  dob: 09/10/1952
-  address: 9614 Park Dr
-  city: Austin
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Gonzalez
-  email: sarah.gonzalez4187@outlook.com
-  phone: +1 883-626-1945
-  ssn: 405-24-6238
-  dob: 06-16-1970
-  address: 1774 Spring St
-  city: Boston
-  state: WA

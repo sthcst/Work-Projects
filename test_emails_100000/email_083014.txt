@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Jackson,brenda.jackson3266@example.com,884 757 2095,525 26 9937,10/25/1973,"8199 South Court",Washington,WA

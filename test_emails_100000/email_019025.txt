@@ -1,9 +1,0 @@
-contact:
-  name: Jane Lee
-  email: jane.lee8263@gmail.com
-  phone: 890 876 9727
-  ssn: 759887307
-  dob: 11/02/1960
-  address: 7476 West Dr
-  city: San Jose
-  state: MA

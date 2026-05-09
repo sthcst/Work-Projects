@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Harris,katherine.harris654@yahoo.com,317-847-4451,914 13 4436,08/14/1970,"4468 Second Court",San Diego,WA

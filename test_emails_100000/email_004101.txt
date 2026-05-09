@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie White
-  email: stephanie.white5816@yahoo.com
-  phone: 503 614 5573
-  ssn: 555-39-2423
-  dob: 06/12/1977
-  address: 1035 Second Ln
-  city: Philadelphia
-  state: WI

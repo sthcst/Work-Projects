@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Robinson
-  email: rachel.robinson3757@work.org
-  phone: 645 357 3097
-  ssn: 483-90-1637
-  dob: 21/02/1966
-  address: 2135 Spring Ave
-  city: Denver
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Megan Parker
-  email: megan.parker8140@mail.com
-  phone: +1 971-707-9372
-  ssn: 261597753
-  dob: 01/10/2001
-  address: 7256 Third Ln
-  city: New York
-  state: OH

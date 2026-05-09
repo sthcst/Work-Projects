@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Alvarado
-  email: kevin.alvarado4372@mail.com
-  phone: 984 440 2848
-  ssn: 804 71 6103
-  dob: 10/5/1978
-  address: 634 Summer St
-  city: Washington
-  state: AZ

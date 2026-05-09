@@ -1,9 +1,0 @@
-contact:
-  name: Christine Nunez
-  email: christine.nunez6194@yahoo.com
-  phone: +1 985-315-8414
-  ssn: 810 26 6984
-  dob: 24/05/1956
-  address: 6693 Third St
-  city: Phoenix
-  state: VA

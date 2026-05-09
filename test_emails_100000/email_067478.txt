@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Carter,maria.carter8025@outlook.com,(351) 262-7614,896772902,03-27-1979,"1126 Elm Blvd",Houston,CA

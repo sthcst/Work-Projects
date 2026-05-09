@@ -1,9 +1,0 @@
-contact:
-  name: Megan Brown
-  email: megan.brown1632@gmail.com
-  phone: 710-894-1438
-  ssn: 996237269
-  dob: 11-11-1959
-  address: 1588 Elm Court
-  city: Seattle
-  state: TX

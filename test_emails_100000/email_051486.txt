@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Garcia
-  email: jeffrey.garcia573@yahoo.com
-  phone: (363) 907-4810
-  ssn: 494 23 2140
-  dob: 06-20-1984
-  address: 1329 East Rd
-  city: Boston
-  state: MI

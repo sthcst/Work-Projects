@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Hernandez,cynthia.hernandez3190@work.org,850-497-5600,283 40 7578,12/12/1971,"9905 Fourth Rd",Philadelphia,FL

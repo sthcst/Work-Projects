@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Reyes,mark.reyes5843@gmail.com,478 790 5481,674624254,8/1/1998,"5663 South Ave",Los Angeles,MO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Morgan,helen.morgan2052@outlook.com,791 716 9650,495 01 7703,12/16/1993,"4453 Pine Court",Philadelphia,NY

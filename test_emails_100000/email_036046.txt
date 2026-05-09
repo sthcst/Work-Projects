@@ -1,9 +1,0 @@
-contact:
-  name: Steven Morgan
-  email: steven.morgan9720@outlook.com
-  phone: +1 386-658-7560
-  ssn: 379-76-4265
-  dob: 08/15/1986
-  address: 7057 First Ln
-  city: San Antonio
-  state: FL

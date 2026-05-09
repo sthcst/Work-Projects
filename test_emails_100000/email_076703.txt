@@ -1,9 +1,0 @@
-contact:
-  name: Megan Lopez
-  email: megan.lopez3425@outlook.com
-  phone: (859) 908-6656
-  ssn: 796-99-7806
-  dob: 5/25/1989
-  address: 536 West St
-  city: San Jose
-  state: DC

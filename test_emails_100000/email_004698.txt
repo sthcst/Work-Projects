@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Phillips,helen.phillips8185@example.com,+1 739-471-8981,255 99 5056,01/06/1989,"1153 Oak Dr",Phoenix,FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Lewis,ashley.lewis1863@mail.com,648 880 4753,061886471,3/2/1999,"9947 East Rd",Denver,TX

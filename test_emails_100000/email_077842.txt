@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Carter,sarah.carter2543@outlook.com,(304) 982-9444,124948466,1/19/1962,"9842 East Dr",Houston,NC

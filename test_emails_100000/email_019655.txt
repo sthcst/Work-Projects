@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Hall
-  email: kenneth.hall974@yahoo.com
-  phone: 216 924 1777
-  ssn: 631-61-3098
-  dob: 5/4/1992
-  address: 6443 Second Way
-  city: San Jose
-  state: MA

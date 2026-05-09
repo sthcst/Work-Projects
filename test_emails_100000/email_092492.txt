@@ -1,9 +1,0 @@
-contact:
-  name: Brian Rogers
-  email: brian.rogers377@work.org
-  phone: 709-236-3930
-  ssn: 934-66-1301
-  dob: 02/16/1969
-  address: 1833 North Ave
-  city: New York
-  state: MA

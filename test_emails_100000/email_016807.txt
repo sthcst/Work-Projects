@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Evans
-  email: christopher.evans5629@yahoo.com
-  phone: +1 528-670-3031
-  ssn: 945 72 8474
-  dob: 8/4/1962
-  address: 3457 Maple Court
-  city: Phoenix
-  state: WI

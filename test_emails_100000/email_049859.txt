@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Rogers
-  email: katherine.rogers5217@company.com
-  phone: 736-891-1922
-  ssn: 398-96-1393
-  dob: 04/15/1976
-  address: 4172 Maple Ave
-  city: San Diego
-  state: AZ

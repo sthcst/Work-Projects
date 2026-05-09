@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Evans,mark.evans6253@outlook.com,318-473-6865,180 30 3225,08/06/1981,"4770 Maple St",Phoenix,CA

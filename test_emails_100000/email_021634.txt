@@ -1,9 +1,0 @@
-contact:
-  name: Mark Reyes
-  email: mark.reyes5178@business.net
-  phone: 955 583 7273
-  ssn: 125-33-5256
-  dob: 01/03/2001
-  address: 4206 Cedar Dr
-  city: Phoenix
-  state: WA

@@ -1,9 +1,0 @@
-contact:
-  name: Charles Jones
-  email: charles.jones3515@business.net
-  phone: 718-826-5656
-  ssn: 066 10 9892
-  dob: 11/20/1956
-  address: 5528 Sixth Rd
-  city: Jacksonville
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Reyes
-  email: joshua.reyes259@company.com
-  phone: +1 683-204-8176
-  ssn: 477-89-4191
-  dob: 10/9/1958
-  address: 7002 Birch Ave
-  city: Washington
-  state: MO

@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Wilson
-  email: kathleen.wilson2570@work.org
-  phone: 895 567 1150
-  ssn: 034-19-3123
-  dob: 12-02-1990
-  address: 6164 West Ave
-  city: San Antonio
-  state: TX

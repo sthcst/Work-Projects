@@ -1,9 +1,0 @@
-contact:
-  name: Anna Morris
-  email: anna.morris3259@mail.com
-  phone: 592 582 1750
-  ssn: 434675745
-  dob: 17/03/1969
-  address: 3258 Spring Dr
-  city: San Antonio
-  state: IL

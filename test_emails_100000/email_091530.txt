@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Lee
-  email: jennifer.lee121@outlook.com
-  phone: 219 334 7796
-  ssn: 238-88-9400
-  dob: 11-09-2003
-  address: 3358 Cedar Court
-  city: Boston
-  state: IL

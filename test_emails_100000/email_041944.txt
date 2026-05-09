@@ -1,9 +1,0 @@
-contact:
-  name: Edward Martinez
-  email: edward.martinez4998@gmail.com
-  phone: (812) 929-7819
-  ssn: 023405765
-  dob: 8/25/1960
-  address: 8418 North Blvd
-  city: Phoenix
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Richard Dominguez
-  email: richard.dominguez1961@gmail.com
-  phone: 373-759-9572
-  ssn: 162 71 4937
-  dob: 1/20/1984
-  address: 5451 West Court
-  city: San Antonio
-  state: WA

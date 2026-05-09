@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Parker
-  email: jacob.parker1016@business.net
-  phone: 807-376-4207
-  ssn: 754 68 4235
-  dob: 15/09/1974
-  address: 7798 East Dr
-  city: Phoenix
-  state: TX

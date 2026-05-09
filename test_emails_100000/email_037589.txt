@@ -1,9 +1,0 @@
-contact:
-  name: James Morgan
-  email: james.morgan3290@example.com
-  phone: 837-887-1601
-  ssn: 576827670
-  dob: 11/02/1978
-  address: 389 West Ave
-  city: Denver
-  state: WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Bell,jeffrey.bell1351@outlook.com,285 517 2294,524273545,06/13/1987,"5091 West Ln",Los Angeles,CA

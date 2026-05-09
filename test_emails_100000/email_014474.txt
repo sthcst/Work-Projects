@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Clark
-  email: samantha.clark2988@example.com
-  phone: +1 825-944-4533
-  ssn: 115 74 7964
-  dob: 01/07/1964
-  address: 2719 Cedar Way
-  city: San Jose
-  state: FL

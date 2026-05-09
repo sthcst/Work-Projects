@@ -1,9 +1,0 @@
-contact:
-  name: Helen Ortiz
-  email: helen.ortiz3441@business.net
-  phone: (984) 617-4837
-  ssn: 729561609
-  dob: 06-10-1995
-  address: 759 Elm Rd
-  city: San Jose
-  state: WA

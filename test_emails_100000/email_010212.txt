@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Miller
-  email: timothy.miller7913@company.com
-  phone: (639) 490-7037
-  ssn: 495-74-1951
-  dob: 4/24/1977
-  address: 5905 Cedar St
-  city: New York
-  state: WA

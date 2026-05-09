@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Johnson,brenda.johnson9366@business.net,(349) 997-6542,134 38 3161,11/08/1959,"6714 Sixth Ave",Washington,VA

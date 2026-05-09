@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Gomez
-  email: kevin.gomez9111@work.org
-  phone: +1 538-752-1631
-  ssn: 226171068
-  dob: 09-12-1968
-  address: 7731 North Ln
-  city: Phoenix
-  state: NC

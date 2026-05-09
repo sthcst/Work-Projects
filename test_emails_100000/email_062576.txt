@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Nelson,brenda.nelson7823@company.com,+1 815-596-4537,840227099,4/16/1993,"1974 Sixth Blvd",Denver,NJ

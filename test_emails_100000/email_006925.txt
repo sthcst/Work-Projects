@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Walker,katherine.walker4645@company.com,+1 848-903-6369,936-96-6359,5/7/1992,"6688 Main St",San Diego,WI

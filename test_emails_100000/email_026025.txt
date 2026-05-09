@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Parker,rachel.parker839@work.org,(745) 617-4175,373-02-6156,9/6/2004,"5418 South Rd",Seattle,DC

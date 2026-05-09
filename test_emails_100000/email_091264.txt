@@ -1,9 +1,0 @@
-contact:
-  name: Richard Delgado
-  email: richard.delgado2764@work.org
-  phone: (948) 770-9608
-  ssn: 786 62 2636
-  dob: 20/09/1994
-  address: 5739 Spring Court
-  city: Jacksonville
-  state: TX

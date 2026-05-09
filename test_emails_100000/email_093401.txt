@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Stewart
-  email: amanda.stewart1808@yahoo.com
-  phone: 484 965 8777
-  ssn: 560501461
-  dob: 05/28/1969
-  address: 1739 Elm Rd
-  city: San Jose
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: Megan Wilson
-  email: megan.wilson5906@yahoo.com
-  phone: +1 242-284-4610
-  ssn: 189895413
-  dob: 06/12/1976
-  address: 7653 Summer Ln
-  city: Washington
-  state: NC

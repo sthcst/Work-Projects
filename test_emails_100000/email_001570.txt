@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Edwards
-  email: christopher.edwards2286@business.net
-  phone: 924-315-9529
-  ssn: 375-14-2687
-  dob: 24/06/1977
-  address: 4100 Park Blvd
-  city: Chicago
-  state: TX

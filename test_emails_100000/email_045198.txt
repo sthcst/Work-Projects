@@ -1,9 +1,0 @@
-contact:
-  name: Richard Lopez
-  email: richard.lopez3823@gmail.com
-  phone: +1 958-926-6585
-  ssn: 020 59 3531
-  dob: 05/12/2002
-  address: 6858 East Dr
-  city: San Antonio
-  state: PA

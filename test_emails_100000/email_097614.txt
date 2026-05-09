@@ -1,9 +1,0 @@
-contact:
-  name: Maria Jackson
-  email: maria.jackson5966@company.com
-  phone: 245 769 6079
-  ssn: 397049957
-  dob: 22/10/1966
-  address: 327 First Ave
-  city: Jacksonville
-  state: MA

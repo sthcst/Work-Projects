@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Murillo,nicole.murillo1656@mail.com,357 756 5296,513331652,10/06/1958,"6821 Third Court",Denver,WA

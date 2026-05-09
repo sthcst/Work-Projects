@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Sanchez,stephanie.sanchez4305@mail.com,+1 273-846-2000,288-37-1256,1/24/1994,"2672 Park Rd",Boston,VA

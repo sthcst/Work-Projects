@@ -1,9 +1,0 @@
-contact:
-  name: James Edwards
-  email: james.edwards7918@yahoo.com
-  phone: 867 672 5769
-  ssn: 525-79-3570
-  dob: 15/03/2001
-  address: 9288 Maple Dr
-  city: Boston
-  state: MO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Hernandez,samantha.hernandez7330@yahoo.com,799-826-9855,847-55-4714,2/11/1957,"5481 Second Ave",Jacksonville,PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Young,richard.young7448@gmail.com,476-808-5861,642239757,07/07/1964,"8931 Second St",Dallas,CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Guerrero,maria.guerrero955@company.com,+1 945-598-4488,653 25 2654,28/01/1956,"2966 Birch Court",Philadelphia,AZ

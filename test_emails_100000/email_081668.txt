@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Evans,lauren.evans8607@mail.com,346-486-1255,202-87-4078,17/04/2001,"870 Summer Court",Philadelphia,CO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Lee,matthew.lee9680@work.org,585 605 7298,631824541,02/23/1980,"3102 East Ln",San Jose,MI

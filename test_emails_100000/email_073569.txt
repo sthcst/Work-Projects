@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Clark,lisa.clark3056@business.net,(238) 760-9062,728645285,08-09-1970,"6412 Fifth Ln",Chicago,MI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Clark,jessica.clark9674@mail.com,+1 279-747-9529,448 54 1573,10/19/1956,"7140 North Dr",Washington,WA

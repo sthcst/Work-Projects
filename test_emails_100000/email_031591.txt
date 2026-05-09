@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Hernandez,nicholas.hernandez3316@mail.com,722 679 7250,086-78-6242,10-04-1963,"782 Third Ln",Phoenix,TN

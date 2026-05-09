@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Evans,brenda.evans9113@gmail.com,(537) 660-6121,063-34-7574,25/08/1992,"4364 Maple Blvd",Houston,DC

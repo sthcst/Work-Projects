@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Sanchez,charles.sanchez3056@example.com,+1 327-278-1412,362 72 4647,6/14/1993,"7306 Spring Ave",Dallas,OH

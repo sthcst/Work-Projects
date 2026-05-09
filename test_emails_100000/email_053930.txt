@@ -1,9 +1,0 @@
-contact:
-  name: Anna Williams
-  email: anna.williams6995@mail.com
-  phone: (981) 493-7738
-  ssn: 945-16-5245
-  dob: 03-03-2005
-  address: 1499 North Ln
-  city: San Diego
-  state: AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Gomez,george.gomez2627@yahoo.com,(232) 614-9073,097 12 2205,7/10/1977,"2600 Fourth Ave",Seattle,CO

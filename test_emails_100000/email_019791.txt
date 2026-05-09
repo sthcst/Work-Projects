@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Flores,angela.flores5171@gmail.com,273-919-5122,117-46-1503,22/10/1967,"655 Sixth Dr",Philadelphia,AZ

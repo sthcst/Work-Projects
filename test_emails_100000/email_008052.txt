@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Thomas,gary.thomas2403@yahoo.com,(766) 947-2139,479 98 2467,2/24/1978,"6868 First Blvd",Jacksonville,MI

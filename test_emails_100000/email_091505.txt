@@ -1,9 +1,0 @@
-contact:
-  name: Michael Morgan
-  email: michael.morgan1700@yahoo.com
-  phone: 952-523-7158
-  ssn: 595 38 9420
-  dob: 09/07/1963
-  address: 3401 Spring Way
-  city: Dallas
-  state: PA

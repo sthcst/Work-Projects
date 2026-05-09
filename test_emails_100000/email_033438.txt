@@ -1,9 +1,0 @@
-contact:
-  name: Robert Gomez
-  email: robert.gomez8081@company.com
-  phone: 663 564 9697
-  ssn: 229827056
-  dob: 02/19/1983
-  address: 9220 Summer Ln
-  city: Philadelphia
-  state: FL

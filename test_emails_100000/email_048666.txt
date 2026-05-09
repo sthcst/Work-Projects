@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Carter,matthew.carter8125@work.org,797-889-3760,207 25 7059,22/06/1965,"6618 Birch Blvd",Boston,MD

@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Serrano
-  email: sarah.serrano1217@example.com
-  phone: (517) 260-7877
-  ssn: 983-78-1823
-  dob: 20/02/1996
-  address: 5795 Birch St
-  city: Chicago
-  state: FL

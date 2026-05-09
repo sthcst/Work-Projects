@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Taylor,ronald.taylor9739@outlook.com,+1 241-572-3043,204503460,11/15/2005,"5811 Maple Blvd",Washington,CA

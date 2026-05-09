@@ -1,9 +1,0 @@
-contact:
-  name: James Sanchez
-  email: james.sanchez692@business.net
-  phone: 637 335 3495
-  ssn: 794 91 2977
-  dob: 01-07-1965
-  address: 2691 Spring St
-  city: New York
-  state: WA

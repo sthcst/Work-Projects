@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Jackson,ryan.jackson2057@business.net,(353) 993-2420,103-05-9407,11-10-1990,"4575 Sixth Ave",Dallas,TN

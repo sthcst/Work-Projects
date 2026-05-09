@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Campbell
-  email: joshua.campbell1954@gmail.com
-  phone: +1 999-690-3231
-  ssn: 234404556
-  dob: 24/07/1973
-  address: 4618 Maple Ave
-  city: New York
-  state: MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Delgado,james.delgado4147@business.net,379-655-2221,577543465,12-11-1995,"6685 Fourth Dr",Seattle,TX

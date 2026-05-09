@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Bell
-  email: kenneth.bell3147@outlook.com
-  phone: +1 346-523-2794
-  ssn: 540 08 5871
-  dob: 01-07-1956
-  address: 8304 First Ln
-  city: Houston
-  state: PA

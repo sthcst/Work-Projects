@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Campbell
-  email: anthony.campbell1175@company.com
-  phone: +1 578-364-3141
-  ssn: 313-95-7898
-  dob: 26/01/2003
-  address: 6459 South Blvd
-  city: Los Angeles
-  state: CA

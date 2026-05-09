@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Flores
-  email: matthew.flores1522@business.net
-  phone: +1 922-702-2117
-  ssn: 622-14-3596
-  dob: 04/07/1974
-  address: 834 Summer Court
-  city: Boston
-  state: VA

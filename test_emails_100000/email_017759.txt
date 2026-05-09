@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Lewis,samantha.lewis2643@company.com,694-315-3716,691862331,09/17/1997,"4119 Maple Ln",Chicago,OH

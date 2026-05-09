@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Davis,donald.davis476@company.com,+1 452-724-1517,175743215,08/16/1976,"191 Oak Rd",Denver,NY

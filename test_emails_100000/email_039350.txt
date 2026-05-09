@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Williams,amanda.williams6369@outlook.com,(525) 580-6437,671-62-5212,01/18/1988,"4762 Fifth Way",Boston,IL

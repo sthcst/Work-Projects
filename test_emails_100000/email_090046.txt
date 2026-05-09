@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Stewart,megan.stewart2783@example.com,+1 718-724-5533,880-55-1898,04/12/2002,"1787 Oak Court",Houston,MO

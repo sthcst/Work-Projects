@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Thomas,timothy.thomas7585@yahoo.com,945-882-5874,793755133,9/15/1955,"5946 Fourth Rd",San Jose,TN

@@ -1,9 +1,0 @@
-contact:
-  name: Donald Brown
-  email: donald.brown4976@outlook.com
-  phone: 885-845-3018
-  ssn: 066128596
-  dob: 03/06/1983
-  address: 8776 Birch St
-  city: Denver
-  state: CA

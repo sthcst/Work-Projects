@@ -1,9 +1,0 @@
-contact:
-  name: Christine White
-  email: christine.white5951@yahoo.com
-  phone: 453 693 7733
-  ssn: 479 47 7074
-  dob: 03/06/1963
-  address: 4067 Summer Dr
-  city: Austin
-  state: AZ

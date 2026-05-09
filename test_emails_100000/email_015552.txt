@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Clark
-  email: kathleen.clark1596@mail.com
-  phone: 516-853-6226
-  ssn: 760 56 3082
-  dob: 12-22-1997
-  address: 1698 West Court
-  city: Chicago
-  state: WI

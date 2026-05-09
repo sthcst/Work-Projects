@@ -1,9 +1,0 @@
-contact:
-  name: John Delgado
-  email: john.delgado5618@work.org
-  phone: 740-691-9533
-  ssn: 834118303
-  dob: 01/01/1963
-  address: 1007 Main Court
-  city: Denver
-  state: FL

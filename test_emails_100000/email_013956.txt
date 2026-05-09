@@ -1,9 +1,0 @@
-contact:
-  name: William Evans
-  email: william.evans9899@gmail.com
-  phone: +1 775-446-6642
-  ssn: 393613534
-  dob: 1/10/1962
-  address: 3495 Summer St
-  city: Philadelphia
-  state: CA

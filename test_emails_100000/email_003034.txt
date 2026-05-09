@@ -1,9 +1,0 @@
-contact:
-  name: Angela Serrano
-  email: angela.serrano238@company.com
-  phone: 230 754 5613
-  ssn: 621 61 9534
-  dob: 04/04/1970
-  address: 2285 First Dr
-  city: San Diego
-  state: NC

@@ -1,9 +1,0 @@
-contact:
-  name: Mark Smith
-  email: mark.smith3017@company.com
-  phone: (821) 317-9454
-  ssn: 142 40 6091
-  dob: 06/06/1968
-  address: 644 First Rd
-  city: Dallas
-  state: CA

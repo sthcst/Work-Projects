@@ -1,9 +1,0 @@
-contact:
-  name: Jason Cooper
-  email: jason.cooper9431@gmail.com
-  phone: (631) 290-2769
-  ssn: 977843737
-  dob: 10/19/1991
-  address: 7769 Elm Way
-  city: Washington
-  state: AZ

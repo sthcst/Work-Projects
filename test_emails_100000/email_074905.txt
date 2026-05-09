@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Serrano,pamela.serrano589@work.org,329-200-8389,143037779,06/08/1954,"2147 West Ln",Denver,CA

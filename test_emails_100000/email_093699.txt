@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Smith,jeffrey.smith8806@gmail.com,870 461 3065,741-03-9727,22/07/1978,"3268 Pine Rd",Chicago,CA

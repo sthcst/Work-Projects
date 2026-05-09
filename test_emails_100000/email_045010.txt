@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Anderson,william.anderson9842@company.com,(660) 898-4873,189481444,10/23/1974,"8684 Maple Rd",Washington,WA

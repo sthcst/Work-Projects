@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly White
-  email: kimberly.white2420@outlook.com
-  phone: 855 581 3922
-  ssn: 808-49-1871
-  dob: 06/06/1968
-  address: 9844 Fourth Blvd
-  city: San Diego
-  state: NC

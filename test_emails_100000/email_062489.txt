@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Dominguez
-  email: deborah.dominguez8087@company.com
-  phone: +1 653-962-7176
-  ssn: 787 88 5328
-  dob: 28/09/1970
-  address: 8474 First Rd
-  city: San Diego
-  state: TN

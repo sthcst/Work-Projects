@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Collins,ryan.collins6680@gmail.com,848-495-8046,570938976,1/15/1950,"8167 Park Ave",San Diego,FL

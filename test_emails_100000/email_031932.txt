@@ -1,9 +1,0 @@
-contact:
-  name: Robert Hall
-  email: robert.hall7284@outlook.com
-  phone: 349-321-7868
-  ssn: 115 60 5202
-  dob: 8/27/1987
-  address: 2669 Summer Dr
-  city: Denver
-  state: WA

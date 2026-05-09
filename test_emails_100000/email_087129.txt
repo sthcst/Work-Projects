@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Jackson,emily.jackson6661@mail.com,356-661-5027,257 15 8220,11-21-1983,"4613 East Rd",San Antonio,WA

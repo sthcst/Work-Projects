@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Wilson,megan.wilson2380@outlook.com,+1 591-758-8910,467 67 2412,03/10/1957,"1465 Cedar Blvd",Seattle,WA

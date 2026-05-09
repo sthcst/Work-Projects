@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Moore,nicholas.moore6117@outlook.com,229 395 3774,681222719,19/07/1989,"852 Birch St",Austin,PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Alvarado,maria.alvarado8492@outlook.com,764 872 9877,162882289,01-26-1981,"1280 First Ave",Los Angeles,MD

@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Lopez
-  email: jessica.lopez2883@business.net
-  phone: 795-849-4989
-  ssn: 652247612
-  dob: 6/17/1972
-  address: 4260 Fourth Rd
-  city: Seattle
-  state: FL

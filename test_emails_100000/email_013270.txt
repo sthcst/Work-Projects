@@ -1,9 +1,0 @@
-contact:
-  name: Paul Phillips
-  email: paul.phillips1181@yahoo.com
-  phone: 383-212-7265
-  ssn: 368 25 5468
-  dob: 28/06/1988
-  address: 7430 Oak Way
-  city: Austin
-  state: DC

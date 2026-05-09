@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Rodriguez,john.rodriguez5055@example.com,(500) 259-9849,512748512,10/09/1966,"2269 Spring Way",San Jose,MA

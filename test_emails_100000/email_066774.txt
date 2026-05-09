@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Hall,jason.hall8315@gmail.com,354-601-5961,459-31-8494,14/08/1999,"9229 Elm Way",Austin,WI

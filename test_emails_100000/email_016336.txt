@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Martinez
-  email: kathleen.martinez9351@business.net
-  phone: (757) 217-8599
-  ssn: 542-85-9395
-  dob: 05/04/1970
-  address: 9929 South Court
-  city: Los Angeles
-  state: MO

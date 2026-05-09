@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Miller
-  email: jeffrey.miller5494@company.com
-  phone: +1 814-685-6273
-  ssn: 943 86 1396
-  dob: 04-07-1975
-  address: 3788 Third Way
-  city: Denver
-  state: MA

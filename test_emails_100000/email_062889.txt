@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Hernandez
-  email: ashley.hernandez1327@outlook.com
-  phone: 247 844 7902
-  ssn: 569 84 5484
-  dob: 12/16/1999
-  address: 8286 Oak Blvd
-  city: Philadelphia
-  state: TX

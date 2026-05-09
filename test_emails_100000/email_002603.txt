@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Brown
-  email: jacob.brown7020@company.com
-  phone: (411) 252-1057
-  ssn: 642-10-8216
-  dob: 10-28-1997
-  address: 5843 Second Way
-  city: San Antonio
-  state: AZ

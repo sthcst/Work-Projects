@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Reyes
-  email: kathleen.reyes9826@yahoo.com
-  phone: (893) 498-3720
-  ssn: 743-42-1209
-  dob: 1/13/1955
-  address: 8652 North Blvd
-  city: Denver
-  state: TX

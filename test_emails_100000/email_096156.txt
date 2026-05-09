@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Thompson,michael.thompson1230@mail.com,(481) 885-9176,047-01-4886,3/1/2002,"6143 Pine Court",Los Angeles,WA

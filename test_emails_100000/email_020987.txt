@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Flores
-  email: sarah.flores7974@example.com
-  phone: 633-569-9731
-  ssn: 146053701
-  dob: 04/27/2002
-  address: 5552 South St
-  city: San Diego
-  state: WI

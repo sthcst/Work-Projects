@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Parker,joseph.parker4719@business.net,613 923 7753,187 74 2781,16/11/1982,"8661 Fifth St",San Antonio,DC

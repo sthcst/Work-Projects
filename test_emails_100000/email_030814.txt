@@ -1,9 +1,0 @@
-contact:
-  name: Charles Thompson
-  email: charles.thompson7641@outlook.com
-  phone: 281 663 9526
-  ssn: 856-98-6370
-  dob: 23/05/1993
-  address: 1227 Cedar Rd
-  city: Chicago
-  state: VA

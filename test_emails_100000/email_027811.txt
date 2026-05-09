@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Harris,john.harris6722@mail.com,+1 803-608-9191,503-22-6129,04/13/1960,"866 Elm Ave",Houston,IL

@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Gonzalez
-  email: timothy.gonzalez4331@mail.com
-  phone: 340 206 5997
-  ssn: 294 21 4495
-  dob: 02/11/2001
-  address: 8438 East Blvd
-  city: San Antonio
-  state: PA

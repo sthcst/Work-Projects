@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Martinez,shirley.martinez8653@business.net,397-254-4837,989 78 8213,12/05/1952,"4406 North Blvd",Philadelphia,CA

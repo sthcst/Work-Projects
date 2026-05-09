@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Jackson,nicholas.jackson2976@business.net,566-257-3482,204274716,6/13/1977,"358 Main St",Washington,FL

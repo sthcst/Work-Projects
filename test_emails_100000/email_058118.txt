@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Evans,matthew.evans2640@gmail.com,542 810 5377,230-22-9641,12/1/1964,"3968 Cedar Dr",Denver,VA

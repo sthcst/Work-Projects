@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Jackson
-  email: ryan.jackson3361@work.org
-  phone: 258-336-4903
-  ssn: 915 20 1189
-  dob: 4/9/1960
-  address: 1951 Third Dr
-  city: San Diego
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Walker
-  email: pamela.walker3165@business.net
-  phone: +1 584-670-2726
-  ssn: 199-16-2720
-  dob: 05/25/1950
-  address: 4257 North Rd
-  city: Los Angeles
-  state: TX

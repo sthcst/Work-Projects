@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Serrano,megan.serrano7577@business.net,+1 459-388-1090,898-20-6820,14/08/1977,"2588 Elm Ave",Philadelphia,NJ

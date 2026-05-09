@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Garcia,gary.garcia6548@mail.com,+1 678-909-6256,466 70 3190,11/6/1967,"7483 South Dr",Seattle,TX

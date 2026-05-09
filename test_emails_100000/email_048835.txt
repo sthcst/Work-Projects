@@ -1,9 +1,0 @@
-contact:
-  name: William Young
-  email: william.young7857@outlook.com
-  phone: 784 915 3101
-  ssn: 955 56 7687
-  dob: 11-23-1981
-  address: 7759 Birch Way
-  city: Phoenix
-  state: FL

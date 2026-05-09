@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Garcia,christopher.garcia6350@business.net,384-827-8315,560519427,04-23-1967,"6094 Fifth St",Phoenix,TX

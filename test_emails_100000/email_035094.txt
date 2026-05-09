@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Jones
-  email: katherine.jones3033@mail.com
-  phone: 887 601 7137
-  ssn: 131-45-5679
-  dob: 06/06/2000
-  address: 2133 Pine St
-  city: San Diego
-  state: AZ

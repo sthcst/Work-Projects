@@ -1,9 +1,0 @@
-contact:
-  name: Gary White
-  email: gary.white7673@company.com
-  phone: 548-931-2612
-  ssn: 875-31-2429
-  dob: 02-03-1964
-  address: 4722 Maple Way
-  city: Jacksonville
-  state: WI

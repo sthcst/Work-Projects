@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Gomez
-  email: jennifer.gomez2320@outlook.com
-  phone: +1 471-756-3357
-  ssn: 355-96-1110
-  dob: 1/23/1988
-  address: 4705 First Dr
-  city: Dallas
-  state: MA

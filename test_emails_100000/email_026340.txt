@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Reyes
-  email: ryan.reyes2159@business.net
-  phone: 534 768 2385
-  ssn: 884 37 4098
-  dob: 28/05/1983
-  address: 4227 Sixth Court
-  city: Austin
-  state: WA

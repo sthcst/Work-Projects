@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Morris,christopher.morris3806@yahoo.com,+1 470-957-3761,330422559,12/09/1987,"9451 Third Rd",Chicago,FL

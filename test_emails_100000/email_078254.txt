@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Jones,joseph.jones3368@example.com,+1 672-202-4838,340-21-8586,09/07/1996,"3200 Cedar Court",Houston,NY

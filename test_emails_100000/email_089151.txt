@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Sanchez,jeffrey.sanchez2978@example.com,(768) 653-9225,886 61 1101,06/26/2004,"7552 East Blvd",Seattle,MA

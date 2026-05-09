@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Cooper
-  email: kimberly.cooper4286@yahoo.com
-  phone: 532 602 3379
-  ssn: 554342350
-  dob: 07/15/1960
-  address: 7604 West Rd
-  city: Seattle
-  state: TX

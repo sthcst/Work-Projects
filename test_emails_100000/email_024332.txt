@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Carter,kevin.carter3826@work.org,+1 837-536-5880,101-02-6219,28/03/1967,"6906 South Rd",Houston,MO

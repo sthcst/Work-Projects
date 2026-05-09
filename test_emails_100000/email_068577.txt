@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Moore
-  email: lauren.moore3032@outlook.com
-  phone: (256) 725-8363
-  ssn: 866-14-9446
-  dob: 10-23-1987
-  address: 7009 Elm Way
-  city: San Jose
-  state: VA

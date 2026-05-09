@@ -1,9 +1,0 @@
-contact:
-  name: Jane Nunez
-  email: jane.nunez5732@yahoo.com
-  phone: (927) 448-3778
-  ssn: 228 70 1679
-  dob: 09/05/1978
-  address: 5134 North Ave
-  city: San Antonio
-  state: VA

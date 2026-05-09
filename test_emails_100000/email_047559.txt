@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Stewart,katherine.stewart872@gmail.com,265-354-3785,368 39 4820,08/07/1990,"6912 Oak St",San Diego,NC

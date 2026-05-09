@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Ortiz,amanda.ortiz8580@work.org,600-714-8819,031721827,21/11/1989,"6720 First Ln",New York,IL

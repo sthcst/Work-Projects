@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Rodriguez,michael.rodriguez9371@business.net,744-437-1102,849-91-2893,03/25/1974,"7521 Summer Blvd",Chicago,TX

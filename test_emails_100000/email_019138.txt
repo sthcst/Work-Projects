@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Phillips
-  email: joseph.phillips7212@yahoo.com
-  phone: (549) 575-5535
-  ssn: 720-44-4781
-  dob: 12/18/1983
-  address: 4323 First Blvd
-  city: Jacksonville
-  state: MD

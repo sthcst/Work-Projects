@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Wilson
-  email: shirley.wilson5725@yahoo.com
-  phone: 301 590 8100
-  ssn: 283191531
-  dob: 2/2/1960
-  address: 4628 Spring St
-  city: San Diego
-  state: NJ

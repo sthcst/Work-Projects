@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Sanchez
-  email: kathleen.sanchez5224@yahoo.com
-  phone: (508) 256-8697
-  ssn: 191611950
-  dob: 08/01/1994
-  address: 3871 Fifth Ln
-  city: Phoenix
-  state: CA

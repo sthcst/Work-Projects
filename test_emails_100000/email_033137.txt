@@ -1,9 +1,0 @@
-contact:
-  name: Charles Rodriguez
-  email: charles.rodriguez915@work.org
-  phone: 353 574 3938
-  ssn: 037916514
-  dob: 5/4/1996
-  address: 980 South Rd
-  city: Washington
-  state: AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Serrano,katherine.serrano413@work.org,709 404 1202,989-54-5056,08-13-2004,"2517 North Blvd",San Diego,VA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Morgan,david.morgan1382@gmail.com,230 802 3285,899 37 5833,10/09/1974,"7439 Second Ave",Phoenix,WI

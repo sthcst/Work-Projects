@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Nunez,shirley.nunez9437@example.com,294-213-5056,782697934,28/09/1984,"5933 Third Blvd",San Diego,MI

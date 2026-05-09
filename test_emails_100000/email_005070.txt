@@ -1,9 +1,0 @@
-contact:
-  name: Gary Bell
-  email: gary.bell5539@gmail.com
-  phone: (887) 949-3874
-  ssn: 702375806
-  dob: 21/10/1976
-  address: 2631 West Court
-  city: Seattle
-  state: AZ

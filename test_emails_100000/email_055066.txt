@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Lee,rachel.lee4206@mail.com,818-409-2805,007 65 5820,04-03-1990,"5293 Elm St",New York,PA

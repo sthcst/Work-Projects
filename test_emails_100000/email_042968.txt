@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Robinson,timothy.robinson9210@gmail.com,921-800-6055,081415927,10/15/1997,"2211 Elm Ln",Chicago,TX

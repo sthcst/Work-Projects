@@ -1,9 +1,0 @@
-contact:
-  name: Helen Lopez
-  email: helen.lopez5219@gmail.com
-  phone: 766 830 7177
-  ssn: 382-87-1398
-  dob: 13/01/2002
-  address: 4257 Oak Court
-  city: Jacksonville
-  state: NJ

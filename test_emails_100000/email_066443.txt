@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Nelson
-  email: michelle.nelson8926@gmail.com
-  phone: (636) 997-2619
-  ssn: 520 27 8213
-  dob: 04-27-1976
-  address: 3036 Main Way
-  city: Dallas
-  state: VA

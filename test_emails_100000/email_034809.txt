@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Carter,jessica.carter5666@outlook.com,+1 495-350-4511,167-81-5617,3/15/1991,"1648 Fourth Blvd",Boston,OH

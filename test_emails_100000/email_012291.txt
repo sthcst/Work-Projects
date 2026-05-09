@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Rodriguez,david.rodriguez5220@outlook.com,(421) 245-3092,334557394,11/05/2005,"2664 Main Rd",Denver,MI

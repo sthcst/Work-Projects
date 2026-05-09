@@ -1,9 +1,0 @@
-contact:
-  name: Christine Thomas
-  email: christine.thomas7362@example.com
-  phone: 677-371-3362
-  ssn: 729 21 7397
-  dob: 13/12/1998
-  address: 9017 Third Way
-  city: Los Angeles
-  state: GA

@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Bell
-  email: jennifer.bell7814@yahoo.com
-  phone: +1 346-294-2910
-  ssn: 662 49 6870
-  dob: 7/22/2000
-  address: 5348 First Way
-  city: San Antonio
-  state: WA

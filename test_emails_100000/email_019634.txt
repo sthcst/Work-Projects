@@ -1,9 +1,0 @@
-contact:
-  name: Christine Anderson
-  email: christine.anderson2777@work.org
-  phone: 422-999-6397
-  ssn: 666 64 6343
-  dob: 06-12-1960
-  address: 9487 Elm Ln
-  city: San Antonio
-  state: WA

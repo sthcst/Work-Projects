@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Carter
-  email: jennifer.carter4588@yahoo.com
-  phone: 243 488 1272
-  ssn: 892 31 2618
-  dob: 09-19-1992
-  address: 5353 Main St
-  city: Washington
-  state: CA

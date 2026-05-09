@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Peterson,emma.peterson9022@outlook.com,369-646-8857,807 55 5313,12/10/2002,"1094 North Ln",Jacksonville,TX

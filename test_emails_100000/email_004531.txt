@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Anderson,joshua.anderson331@outlook.com,632 500 1166,388295779,09/27/2003,"4111 Elm St",Phoenix,FL

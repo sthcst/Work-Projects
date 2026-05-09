@@ -1,9 +1,0 @@
-contact:
-  name: Mark Robinson
-  email: mark.robinson9252@example.com
-  phone: 213-424-3952
-  ssn: 311311335
-  dob: 12-10-1958
-  address: 726 South Dr
-  city: New York
-  state: CA

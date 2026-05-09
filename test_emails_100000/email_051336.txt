@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Dominguez
-  email: samantha.dominguez6351@example.com
-  phone: 989-400-9332
-  ssn: 941 03 6657
-  dob: 12/28/2003
-  address: 5137 Summer Ln
-  city: Austin
-  state: WA

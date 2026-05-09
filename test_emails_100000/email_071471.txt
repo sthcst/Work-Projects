@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Carter
-  email: kimberly.carter5803@yahoo.com
-  phone: 617-991-7469
-  ssn: 840 84 8612
-  dob: 1/6/1998
-  address: 5790 West Court
-  city: New York
-  state: FL

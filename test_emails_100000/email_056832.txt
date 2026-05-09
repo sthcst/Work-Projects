@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Morris,jason.morris5960@mail.com,849 581 1494,074235515,11/01/1977,"6566 Spring Blvd",Jacksonville,FL

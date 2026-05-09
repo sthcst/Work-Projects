@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Hernandez,jennifer.hernandez9027@mail.com,(670) 389-1628,916-80-1978,09/04/1970,"2542 Third Blvd",Philadelphia,TN

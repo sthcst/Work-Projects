@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Thompson,rebecca.thompson8471@outlook.com,+1 230-629-1619,414-70-6834,10/11/1995,"4451 Main Court",Jacksonville,VA

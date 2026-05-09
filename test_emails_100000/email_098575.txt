@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Gonzalez
-  email: amanda.gonzalez8660@yahoo.com
-  phone: 452 512 6033
-  ssn: 523 28 8301
-  dob: 5/7/1950
-  address: 2517 West Way
-  city: New York
-  state: IL

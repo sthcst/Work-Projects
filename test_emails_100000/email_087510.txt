@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Martin,james.martin2483@mail.com,774 576 1637,022 62 9357,09/10/1951,"5321 Summer Way",San Jose,VA

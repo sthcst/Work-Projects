@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Martinez,kevin.martinez1033@mail.com,942-988-9478,222 66 2291,02/05/1993,"8378 First Court",San Diego,PA

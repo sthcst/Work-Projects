@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Martinez,rebecca.martinez9829@business.net,(577) 565-3840,573 77 5597,3/3/1988,"650 East Ave",Denver,DC

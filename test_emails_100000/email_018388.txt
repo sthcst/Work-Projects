@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Davis,brenda.davis4719@work.org,845-935-4171,397-88-1907,12/10/1970,"5086 Second Dr",Philadelphia,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Hall,jessica.hall4522@mail.com,384 556 7878,295342975,9/7/1963,"801 Elm Blvd",Boston,FL

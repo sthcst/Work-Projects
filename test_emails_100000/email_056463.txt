@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Evans
-  email: samantha.evans1163@mail.com
-  phone: 383 971 7073
-  ssn: 097-82-3657
-  dob: 01/14/1961
-  address: 5627 Birch Dr
-  city: San Diego
-  state: WA

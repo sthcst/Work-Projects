@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Gonzalez,katherine.gonzalez6786@gmail.com,+1 551-899-6944,662-02-2295,01/08/1997,"1005 South Ln",Washington,DC

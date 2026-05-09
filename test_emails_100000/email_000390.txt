@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Rodriguez,anthony.rodriguez2352@yahoo.com,+1 451-665-7594,103-93-9630,12/25/2001,"9894 Pine Way",Boston,NY

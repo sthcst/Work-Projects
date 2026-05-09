@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Guerrero,joshua.guerrero8496@outlook.com,894 538 2557,275-55-4690,06/26/1959,"3210 Oak St",Philadelphia,WI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Lopez,lauren.lopez1231@business.net,(966) 882-1843,591928859,11/01/1962,"3856 Pine Blvd",New York,MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Edwards,maria.edwards592@yahoo.com,+1 341-686-8360,202 88 3885,06/07/1988,"746 First Dr",Seattle,WA

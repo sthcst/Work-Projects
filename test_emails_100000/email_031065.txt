@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Smith,mark.smith5266@example.com,339-353-9882,859-13-8287,13/06/1961,"6462 First Way",Austin,MA

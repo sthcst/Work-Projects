@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Bell
-  email: kenneth.bell9605@yahoo.com
-  phone: 552-602-6090
-  ssn: 805496891
-  dob: 20/06/1978
-  address: 2477 Sixth Rd
-  city: Los Angeles
-  state: TX

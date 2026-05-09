@@ -1,9 +1,0 @@
-contact:
-  name: Anna Jackson
-  email: anna.jackson9222@yahoo.com
-  phone: 458-708-6532
-  ssn: 444746910
-  dob: 10/15/1985
-  address: 3253 Third Ave
-  city: Philadelphia
-  state: TX

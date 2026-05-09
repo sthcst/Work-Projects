@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Bell,james.bell9025@outlook.com,502 737 1885,882798573,02/28/1968,"2563 Summer Ln",Phoenix,WA

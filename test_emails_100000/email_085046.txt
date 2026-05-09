@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Alvarado
-  email: nicholas.alvarado6689@example.com
-  phone: +1 867-211-4717
-  ssn: 575 99 4609
-  dob: 25/11/1978
-  address: 9362 Sixth Blvd
-  city: Boston
-  state: OH

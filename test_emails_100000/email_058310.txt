@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Serrano,gary.serrano9727@gmail.com,(468) 918-1130,450-06-5432,05/01/1973,"9933 Fourth Ln",San Jose,TX

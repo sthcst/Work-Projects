@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Clark
-  email: anthony.clark3837@yahoo.com
-  phone: 528 908 9388
-  ssn: 307-18-5102
-  dob: 09/02/1973
-  address: 2067 Elm Way
-  city: Denver
-  state: MA

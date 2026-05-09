@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Ortiz
-  email: samantha.ortiz9612@mail.com
-  phone: +1 697-597-4760
-  ssn: 225712858
-  dob: 10/24/1950
-  address: 1545 South Court
-  city: Denver
-  state: MI

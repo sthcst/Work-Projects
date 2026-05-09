@@ -1,9 +1,0 @@
-contact:
-  name: Anna Stewart
-  email: anna.stewart590@outlook.com
-  phone: (489) 408-1593
-  ssn: 620758417
-  dob: 23/11/1992
-  address: 9503 Birch Rd
-  city: Austin
-  state: WI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Reed,robert.reed449@outlook.com,(537) 646-9957,536306004,19/09/1984,"7111 Oak Way",Philadelphia,WA

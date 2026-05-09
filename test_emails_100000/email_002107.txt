@@ -1,9 +1,0 @@
-contact:
-  name: Mark Rogers
-  email: mark.rogers9129@company.com
-  phone: +1 345-501-3889
-  ssn: 128 44 2417
-  dob: 07-19-1969
-  address: 3619 Fourth Court
-  city: Washington
-  state: IL

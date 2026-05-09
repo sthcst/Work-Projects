@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Sanchez
-  email: nicole.sanchez6574@example.com
-  phone: 380 414 9951
-  ssn: 092506192
-  dob: 27/06/1971
-  address: 4393 North Dr
-  city: Phoenix
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Davis
-  email: brenda.davis2578@mail.com
-  phone: 257-841-7914
-  ssn: 968-49-9719
-  dob: 3/14/1993
-  address: 1234 Main Ln
-  city: San Antonio
-  state: MO

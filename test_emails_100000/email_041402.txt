@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Ramirez,stephanie.ramirez2101@yahoo.com,767 743 8875,476-19-3524,04/11/1985,"1798 Fourth St",Boston,CA

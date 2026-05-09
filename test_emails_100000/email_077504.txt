@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Rodriguez
-  email: stephanie.rodriguez1866@mail.com
-  phone: +1 399-810-9790
-  ssn: 684675784
-  dob: 08-15-1980
-  address: 8724 East Ave
-  city: Austin
-  state: MO

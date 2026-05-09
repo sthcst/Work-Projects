@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia White,cynthia.white8763@outlook.com,701-804-5722,312-65-2465,10/6/1995,"813 Spring Ln",Austin,TX

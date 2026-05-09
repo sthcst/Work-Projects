@@ -1,9 +1,0 @@
-contact:
-  name: George Taylor
-  email: george.taylor3550@business.net
-  phone: +1 588-694-4554
-  ssn: 648594442
-  dob: 03-05-1975
-  address: 7370 Second Ln
-  city: Los Angeles
-  state: VA

@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Clark
-  email: sarah.clark4356@yahoo.com
-  phone: +1 748-310-8075
-  ssn: 059172386
-  dob: 18/07/1995
-  address: 7492 Second Ave
-  city: San Diego
-  state: CA

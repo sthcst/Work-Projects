@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Brown,cynthia.brown6466@work.org,777-397-4080,966481305,2/15/1997,"7631 East Blvd",Houston,VA

@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Lee
-  email: daniel.lee5079@mail.com
-  phone: 454-804-5443
-  ssn: 229732290
-  dob: 6/24/1972
-  address: 8163 Maple Way
-  city: Washington
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: William Cooper
-  email: william.cooper356@gmail.com
-  phone: (638) 730-5943
-  ssn: 691 75 8149
-  dob: 08/16/1977
-  address: 9579 Cedar St
-  city: Phoenix
-  state: NC

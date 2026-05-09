@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Taylor
-  email: andrew.taylor785@work.org
-  phone: 375 506 7451
-  ssn: 523061981
-  dob: 02-18-1985
-  address: 870 Third Way
-  city: San Diego
-  state: PA

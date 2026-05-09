@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Gomez
-  email: deborah.gomez131@yahoo.com
-  phone: 932 486 1051
-  ssn: 570-22-1561
-  dob: 8/18/1975
-  address: 4971 Sixth Way
-  city: Los Angeles
-  state: MO

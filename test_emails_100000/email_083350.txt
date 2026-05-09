@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Reyes,donald.reyes7164@outlook.com,464-488-8824,050-37-5558,02-20-1989,"4568 Maple Dr",New York,TX

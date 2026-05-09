@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Hernandez
-  email: nicholas.hernandez8137@work.org
-  phone: 362-448-7581
-  ssn: 869 29 6478
-  dob: 17/10/1970
-  address: 663 East Way
-  city: San Antonio
-  state: VA

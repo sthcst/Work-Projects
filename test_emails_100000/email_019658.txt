@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Gonzalez,deborah.gonzalez7372@gmail.com,945 329 5510,150874174,6/8/1954,"6285 West St",San Diego,MI

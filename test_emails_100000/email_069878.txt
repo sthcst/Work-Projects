@@ -1,9 +1,0 @@
-contact:
-  name: Charles Martinez
-  email: charles.martinez8214@outlook.com
-  phone: 850-623-9474
-  ssn: 105776187
-  dob: 04/26/1996
-  address: 7249 South Blvd
-  city: Phoenix
-  state: NY

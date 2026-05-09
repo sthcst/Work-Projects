@@ -1,9 +1,0 @@
-contact:
-  name: Megan Walker
-  email: megan.walker4054@work.org
-  phone: (421) 291-1218
-  ssn: 613867214
-  dob: 5/15/1986
-  address: 3480 Oak Way
-  city: Los Angeles
-  state: FL

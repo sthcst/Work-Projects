@@ -1,9 +1,0 @@
-contact:
-  name: Angela Lopez
-  email: angela.lopez130@business.net
-  phone: 493-969-9669
-  ssn: 654 97 2199
-  dob: 06-18-1957
-  address: 4549 East Blvd
-  city: Austin
-  state: AZ

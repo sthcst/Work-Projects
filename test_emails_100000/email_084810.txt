@@ -1,9 +1,0 @@
-contact:
-  name: Michael Dominguez
-  email: michael.dominguez7656@business.net
-  phone: +1 799-641-2636
-  ssn: 380 16 9706
-  dob: 07-03-1950
-  address: 4106 South St
-  city: Los Angeles
-  state: FL

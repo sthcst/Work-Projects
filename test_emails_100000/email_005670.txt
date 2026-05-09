@@ -1,9 +1,0 @@
-contact:
-  name: Angela Martinez
-  email: angela.martinez6536@example.com
-  phone: 830-517-1365
-  ssn: 516606042
-  dob: 11-22-1956
-  address: 9864 Elm Ln
-  city: Austin
-  state: NC

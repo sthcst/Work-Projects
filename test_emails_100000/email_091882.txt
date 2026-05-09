@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Collins
-  email: ashley.collins3862@example.com
-  phone: +1 488-685-4060
-  ssn: 428-41-4537
-  dob: 21/09/1995
-  address: 7990 Park Way
-  city: Washington
-  state: MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Bell,matthew.bell9840@gmail.com,229 329 4970,572181450,02-26-1976,"7063 Oak St",Houston,CA

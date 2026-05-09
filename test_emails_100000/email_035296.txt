@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Reyes
-  email: cynthia.reyes7621@work.org
-  phone: 468-811-7638
-  ssn: 595-21-4451
-  dob: 4/12/1957
-  address: 461 First Blvd
-  city: Seattle
-  state: VA

@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Edwards
-  email: jennifer.edwards8685@company.com
-  phone: 788-912-1833
-  ssn: 561-27-1402
-  dob: 2/24/1976
-  address: 7506 Oak Rd
-  city: Seattle
-  state: MO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Bell,steven.bell8830@business.net,783 765 2188,732 15 3505,7/13/1992,"3407 Sixth Rd",Boston,NJ

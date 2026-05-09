@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Hall,emma.hall5879@business.net,(571) 778-5968,409-57-8167,11/23/1996,"3117 Birch St",Philadelphia,TX

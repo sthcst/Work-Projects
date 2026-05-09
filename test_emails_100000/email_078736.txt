@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Serrano
-  email: rachel.serrano187@mail.com
-  phone: +1 278-711-9262
-  ssn: 503 63 1505
-  dob: 01/08/1988
-  address: 4736 Fourth Ln
-  city: Los Angeles
-  state: NJ

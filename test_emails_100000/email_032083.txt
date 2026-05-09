@@ -1,9 +1,0 @@
-contact:
-  name: Maria Reyes
-  email: maria.reyes812@work.org
-  phone: 344-637-4728
-  ssn: 459-18-1470
-  dob: 26/11/1980
-  address: 1718 Maple St
-  city: Dallas
-  state: GA

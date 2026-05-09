@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Ortiz,jeffrey.ortiz7342@mail.com,223-859-5808,741-05-1586,09-05-1967,"6868 First Ln",Philadelphia,NY

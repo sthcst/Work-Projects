@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Delgado
-  email: lisa.delgado728@company.com
-  phone: 222-905-6161
-  ssn: 847 89 6219
-  dob: 09-07-1956
-  address: 2155 First Dr
-  city: Houston
-  state: AZ

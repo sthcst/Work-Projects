@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Nelson,jeffrey.nelson2177@business.net,308-892-5222,801974090,02/12/1990,"8256 North Way",Seattle,IL

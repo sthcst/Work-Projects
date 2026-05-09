@@ -1,9 +1,0 @@
-contact:
-  name: James Morris
-  email: james.morris6658@mail.com
-  phone: 762-494-9092
-  ssn: 396015694
-  dob: 12/07/1994
-  address: 6454 Third Dr
-  city: Seattle
-  state: WA

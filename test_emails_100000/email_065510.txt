@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Peterson,mark.peterson6824@business.net,224-855-7435,672 68 3979,10/10/1981,"6877 Park Ave",Phoenix,WA

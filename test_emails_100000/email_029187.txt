@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Miller
-  email: kimberly.miller5741@example.com
-  phone: 322-976-3041
-  ssn: 924151164
-  dob: 26/11/1973
-  address: 976 Sixth Dr
-  city: Washington
-  state: CA

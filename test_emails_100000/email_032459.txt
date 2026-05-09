@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Romero
-  email: cynthia.romero1496@business.net
-  phone: +1 438-822-7830
-  ssn: 021 32 7904
-  dob: 11-20-1982
-  address: 6559 Maple St
-  city: Phoenix
-  state: VA

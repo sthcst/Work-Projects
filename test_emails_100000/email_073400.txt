@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Moore,robert.moore3678@example.com,+1 284-802-5593,032796897,12/10/1985,"278 Third Blvd",Phoenix,CA

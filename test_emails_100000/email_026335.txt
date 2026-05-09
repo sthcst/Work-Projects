@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Gomez,ryan.gomez5691@gmail.com,+1 970-701-8145,403-05-9793,3/6/1984,"946 East Ln",Los Angeles,TN

@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Reyes
-  email: ryan.reyes1579@company.com
-  phone: (845) 916-8888
-  ssn: 870845616
-  dob: 14/01/1951
-  address: 979 Maple Dr
-  city: New York
-  state: MD

@@ -1,9 +1,0 @@
-contact:
-  name: Anna Hall
-  email: anna.hall6632@outlook.com
-  phone: 685-582-5051
-  ssn: 860923018
-  dob: 04/24/1956
-  address: 4736 Park Ave
-  city: Washington
-  state: CA

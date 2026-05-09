@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Roberts,maria.roberts7483@business.net,728 270 3170,364-09-1119,24/06/1950,"5309 Elm St",Seattle,NC

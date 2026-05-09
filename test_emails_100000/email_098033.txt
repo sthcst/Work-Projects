@@ -1,9 +1,0 @@
-contact:
-  name: Jane Smith
-  email: jane.smith9269@company.com
-  phone: 686 864 8258
-  ssn: 488 37 9178
-  dob: 12-04-1967
-  address: 3909 Second Rd
-  city: San Jose
-  state: CA

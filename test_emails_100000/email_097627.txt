@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Reyes,christopher.reyes7968@outlook.com,(847) 487-7566,493-01-3180,11/08/1967,"9052 Second Blvd",New York,NC

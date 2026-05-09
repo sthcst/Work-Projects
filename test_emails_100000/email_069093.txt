@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Phillips
-  email: joseph.phillips5641@work.org
-  phone: +1 711-330-7772
-  ssn: 548 72 9634
-  dob: 11-09-2002
-  address: 1849 East Ave
-  city: Philadelphia
-  state: MA

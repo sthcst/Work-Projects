@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Dominguez,sarah.dominguez2228@business.net,(473) 865-6623,203 56 3126,02-23-1953,"6930 Cedar Way",Jacksonville,CA

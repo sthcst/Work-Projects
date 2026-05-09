@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Murillo
-  email: jeffrey.murillo688@yahoo.com
-  phone: (379) 873-9360
-  ssn: 014 83 5553
-  dob: 23/07/1985
-  address: 1911 Pine Blvd
-  city: Seattle
-  state: MI

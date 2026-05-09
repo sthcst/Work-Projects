@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Jones
-  email: nicole.jones3214@mail.com
-  phone: (896) 269-8596
-  ssn: 386 89 7888
-  dob: 08/20/1983
-  address: 5620 First Way
-  city: San Antonio
-  state: NC

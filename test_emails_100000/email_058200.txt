@@ -1,9 +1,0 @@
-contact:
-  name: Paul Gonzalez
-  email: paul.gonzalez6373@outlook.com
-  phone: 627 274 4948
-  ssn: 956-46-7690
-  dob: 12/7/1987
-  address: 4559 East Way
-  city: San Antonio
-  state: TX

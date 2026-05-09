@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Rodriguez
-  email: nicholas.rodriguez9157@gmail.com
-  phone: 436 402 3952
-  ssn: 622984960
-  dob: 16/04/1956
-  address: 3820 Fourth Way
-  city: San Diego
-  state: MI

@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Young
-  email: rachel.young7272@example.com
-  phone: 391 532 1722
-  ssn: 811-59-3261
-  dob: 6/26/1996
-  address: 5599 Spring Dr
-  city: Boston
-  state: CA

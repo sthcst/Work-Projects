@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Walker
-  email: anthony.walker2599@example.com
-  phone: (671) 602-5202
-  ssn: 853387365
-  dob: 10/24/1950
-  address: 8273 Main Ave
-  city: Phoenix
-  state: CA

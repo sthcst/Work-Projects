@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Ortiz
-  email: sarah.ortiz7064@outlook.com
-  phone: 949 453 3889
-  ssn: 754691054
-  dob: 02-17-2005
-  address: 196 Spring Rd
-  city: San Antonio
-  state: NC

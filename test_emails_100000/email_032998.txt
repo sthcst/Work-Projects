@@ -1,9 +1,0 @@
-contact:
-  name: Megan Brown
-  email: megan.brown629@business.net
-  phone: (828) 989-3295
-  ssn: 431 66 3513
-  dob: 12/08/1960
-  address: 4506 Maple Rd
-  city: Jacksonville
-  state: MD

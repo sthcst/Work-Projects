@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Campbell
-  email: christopher.campbell2105@business.net
-  phone: 558-843-4356
-  ssn: 065017424
-  dob: 06-17-1999
-  address: 8446 Elm Rd
-  city: Los Angeles
-  state: MO

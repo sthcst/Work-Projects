@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Romero,emma.romero5712@mail.com,+1 243-259-1289,781 59 9069,10/01/1972,"3883 Fourth Blvd",Denver,VA

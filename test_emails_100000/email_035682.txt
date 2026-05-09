@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Lee
-  email: jennifer.lee7427@example.com
-  phone: (571) 224-2159
-  ssn: 443 76 1416
-  dob: 07-13-1982
-  address: 3877 Pine St
-  city: Boston
-  state: NC

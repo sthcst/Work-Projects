@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Martin
-  email: jennifer.martin5727@work.org
-  phone: 909 737 4669
-  ssn: 498-04-2135
-  dob: 07/04/1963
-  address: 2409 Park Way
-  city: Jacksonville
-  state: MA

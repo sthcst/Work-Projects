@@ -1,9 +1,0 @@
-contact:
-  name: Anna Stewart
-  email: anna.stewart4592@example.com
-  phone: 489-621-3766
-  ssn: 637-32-1847
-  dob: 2/11/1989
-  address: 1313 Fourth Blvd
-  city: Denver
-  state: CO

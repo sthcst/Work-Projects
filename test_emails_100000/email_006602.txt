@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Campbell,robert.campbell1312@yahoo.com,(293) 863-2606,691119339,18/10/1954,"1756 Park Ln",New York,DC

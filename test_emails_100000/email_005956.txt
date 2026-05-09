@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Moore,helen.moore784@work.org,+1 341-791-8811,124529347,12/14/1961,"7866 South St",Boston,CA

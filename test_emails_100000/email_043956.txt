@@ -1,9 +1,0 @@
-contact:
-  name: Brian Harris
-  email: brian.harris6289@outlook.com
-  phone: 676 471 4871
-  ssn: 646-53-4317
-  dob: 10-24-1992
-  address: 4091 Fifth Rd
-  city: San Diego
-  state: TX

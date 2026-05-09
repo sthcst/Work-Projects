@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Martinez
-  email: deborah.martinez5484@mail.com
-  phone: 515-440-6905
-  ssn: 068-37-4143
-  dob: 02/07/1996
-  address: 379 Summer St
-  city: Los Angeles
-  state: FL

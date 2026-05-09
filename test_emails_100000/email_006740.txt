@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Morgan
-  email: stephanie.morgan8748@yahoo.com
-  phone: (746) 426-1841
-  ssn: 762 64 9591
-  dob: 03/20/1994
-  address: 5917 West Blvd
-  city: Austin
-  state: NJ

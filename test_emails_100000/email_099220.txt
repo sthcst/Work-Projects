@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Taylor
-  email: christopher.taylor2964@gmail.com
-  phone: 629 272 2081
-  ssn: 120 11 2188
-  dob: 23/12/1960
-  address: 4542 South Court
-  city: Dallas
-  state: MI

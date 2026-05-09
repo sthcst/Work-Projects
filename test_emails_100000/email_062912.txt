@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Lopez
-  email: joseph.lopez9778@business.net
-  phone: 732 683 5787
-  ssn: 265 43 3674
-  dob: 03-04-1954
-  address: 4577 Third Dr
-  city: Boston
-  state: NY

@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Nunez
-  email: rachel.nunez5704@example.com
-  phone: 654-887-8435
-  ssn: 416 60 8186
-  dob: 08-26-2005
-  address: 742 Fourth Way
-  city: San Antonio
-  state: AZ

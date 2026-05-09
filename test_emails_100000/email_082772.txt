@@ -1,9 +1,0 @@
-contact:
-  name: Steven Carter
-  email: steven.carter8028@gmail.com
-  phone: +1 823-440-5230
-  ssn: 325895560
-  dob: 04/04/1962
-  address: 8489 Fifth Court
-  city: Boston
-  state: NC

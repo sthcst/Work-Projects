@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Thompson,paul.thompson2700@gmail.com,(205) 304-6497,809-09-2395,02/07/1988,"9771 Birch Blvd",Jacksonville,NY

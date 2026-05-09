@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Edwards,pamela.edwards349@mail.com,+1 797-548-7499,948 90 2954,01/07/1983,"4414 East Ave",Dallas,CA

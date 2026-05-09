@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George White,george.white3708@example.com,356-503-7289,014 50 2451,3/18/1993,"4319 Oak Way",Boston,TX

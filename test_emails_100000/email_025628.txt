@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Bell
-  email: amanda.bell6036@yahoo.com
-  phone: +1 302-805-2763
-  ssn: 751871725
-  dob: 05/03/1979
-  address: 5195 First Blvd
-  city: Seattle
-  state: TX

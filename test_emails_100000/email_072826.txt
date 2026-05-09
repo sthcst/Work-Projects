@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Wilson,katherine.wilson3741@work.org,(241) 532-5791,501-77-2605,25/01/1967,"5421 Birch Ave",San Diego,OH

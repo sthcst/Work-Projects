@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Dominguez
-  email: rachel.dominguez1410@gmail.com
-  phone: 307 568 4522
-  ssn: 642-81-6783
-  dob: 03/03/1991
-  address: 1865 Park Blvd
-  city: Austin
-  state: DC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Garcia,pamela.garcia4848@outlook.com,487 662 7238,694625665,03/27/1992,"2139 Fifth Way",Dallas,VA

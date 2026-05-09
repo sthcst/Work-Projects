@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Martinez,maria.martinez9044@gmail.com,(599) 227-8095,451 88 4467,8/3/1977,"8965 Birch Ln",Denver,NY

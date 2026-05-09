@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Edwards,cynthia.edwards6703@outlook.com,915-571-7000,742-55-8536,05-19-1992,"3181 North Court",San Antonio,CA

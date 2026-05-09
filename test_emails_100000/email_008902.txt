@@ -1,9 +1,0 @@
-contact:
-  name: Anna Sanchez
-  email: anna.sanchez8495@outlook.com
-  phone: 302 581 9829
-  ssn: 924773218
-  dob: 17/02/1974
-  address: 8170 West Ave
-  city: Denver
-  state: TX

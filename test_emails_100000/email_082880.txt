@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Sanchez,emily.sanchez3146@business.net,320 540 7284,449 13 1862,27/11/2005,"2349 Sixth Dr",San Diego,WA

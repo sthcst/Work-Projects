@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Jimenez
-  email: nicole.jimenez2663@example.com
-  phone: 919-919-6146
-  ssn: 320 95 3932
-  dob: 26/08/1957
-  address: 9084 Third Ln
-  city: San Antonio
-  state: MA

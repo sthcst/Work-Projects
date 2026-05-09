@@ -1,9 +1,0 @@
-contact:
-  name: Richard Lee
-  email: richard.lee791@gmail.com
-  phone: 988 941 1107
-  ssn: 122-14-7575
-  dob: 08/02/1989
-  address: 6097 Maple Dr
-  city: San Diego
-  state: CA

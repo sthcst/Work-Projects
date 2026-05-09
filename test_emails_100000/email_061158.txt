@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Campbell,christopher.campbell6273@gmail.com,(329) 631-7758,452-87-1748,13/01/1967,"6858 West Ave",Phoenix,FL

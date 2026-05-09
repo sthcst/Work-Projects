@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Gomez,joshua.gomez171@business.net,(305) 552-4092,147-22-5689,02/07/1962,"340 North Court",Los Angeles,FL

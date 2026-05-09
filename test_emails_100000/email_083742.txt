@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Thompson,kevin.thompson2409@business.net,+1 534-964-3713,329083792,08/18/1988,"9872 First St",New York,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Reeves,christine.reeves7514@company.com,(321) 279-6594,535785449,07-25-1983,"9875 Spring Way",Denver,NC

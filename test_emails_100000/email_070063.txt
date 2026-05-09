@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Thomas
-  email: kimberly.thomas5814@mail.com
-  phone: +1 954-512-7556
-  ssn: 921-56-5603
-  dob: 12-04-1980
-  address: 1919 South St
-  city: Austin
-  state: CA

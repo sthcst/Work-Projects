@@ -1,9 +1,0 @@
-contact:
-  name: Mark Nunez
-  email: mark.nunez2532@mail.com
-  phone: 208-342-1361
-  ssn: 099424188
-  dob: 01-27-1952
-  address: 8593 West Court
-  city: San Diego
-  state: NJ

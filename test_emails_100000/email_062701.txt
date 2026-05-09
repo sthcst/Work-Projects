@@ -1,9 +1,0 @@
-contact:
-  name: Edward Gomez
-  email: edward.gomez1609@business.net
-  phone: 296-626-2002
-  ssn: 415 14 2940
-  dob: 08/15/1979
-  address: 1769 First Blvd
-  city: Boston
-  state: WA

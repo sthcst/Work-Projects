@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Smith
-  email: ronald.smith8889@work.org
-  phone: 219-695-2993
-  ssn: 299-27-1676
-  dob: 21/07/1965
-  address: 8847 Oak Court
-  city: Washington
-  state: PA

@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Hall
-  email: katherine.hall2807@business.net
-  phone: +1 215-503-5542
-  ssn: 257-08-1295
-  dob: 3/25/1961
-  address: 1385 North Blvd
-  city: Austin
-  state: VA

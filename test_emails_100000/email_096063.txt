@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Clark,anthony.clark7250@outlook.com,540-313-3799,557 67 9719,11/15/1993,"853 Main Dr",Austin,CA

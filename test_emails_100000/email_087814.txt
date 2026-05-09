@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Rodriguez,michael.rodriguez9496@yahoo.com,947-982-8847,384-48-5575,15/05/1971,"7702 South Dr",Jacksonville,TX

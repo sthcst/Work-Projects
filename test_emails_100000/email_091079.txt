@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Dominguez,stephanie.dominguez6676@outlook.com,398-517-2793,743946938,5/18/1957,"7382 Oak Rd",Washington,MA

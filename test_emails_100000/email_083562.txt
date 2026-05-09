@@ -1,9 +1,0 @@
-contact:
-  name: Edward Gonzalez
-  email: edward.gonzalez8834@gmail.com
-  phone: (912) 942-5112
-  ssn: 567 50 7865
-  dob: 04/08/1997
-  address: 37 Elm St
-  city: Dallas
-  state: NJ

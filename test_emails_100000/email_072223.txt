@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Sanchez,rebecca.sanchez6670@example.com,648 314 8271,096 04 9573,22/02/1981,"8747 South Rd",Austin,TX

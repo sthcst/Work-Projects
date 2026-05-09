@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Campbell,katherine.campbell3760@example.com,(944) 587-5770,324-56-9888,01/02/1970,"9346 Fourth Blvd",Denver,MO

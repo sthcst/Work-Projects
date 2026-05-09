@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Thompson,daniel.thompson1811@company.com,557-729-1026,489 31 5823,02/20/1988,"1031 Third Dr",San Jose,TX

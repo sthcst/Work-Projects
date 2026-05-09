@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Rodriguez,katherine.rodriguez332@example.com,(965) 946-4726,685383455,03-23-1984,"5181 West Court",Dallas,IL

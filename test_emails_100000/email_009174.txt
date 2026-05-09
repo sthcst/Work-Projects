@@ -1,9 +1,0 @@
-contact:
-  name: Charles Martinez
-  email: charles.martinez8396@outlook.com
-  phone: 973 276 8537
-  ssn: 251-39-6111
-  dob: 08/15/1982
-  address: 7796 Pine Court
-  city: San Jose
-  state: FL

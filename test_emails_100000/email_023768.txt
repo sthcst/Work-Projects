@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Martin
-  email: joshua.martin7152@company.com
-  phone: 472-250-4525
-  ssn: 964-45-6477
-  dob: 02/06/1999
-  address: 8953 Main Dr
-  city: San Jose
-  state: CA

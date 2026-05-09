@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Reed
-  email: timothy.reed731@outlook.com
-  phone: (962) 443-7009
-  ssn: 492 80 2592
-  dob: 01-28-1971
-  address: 7833 Maple Ln
-  city: Austin
-  state: TX

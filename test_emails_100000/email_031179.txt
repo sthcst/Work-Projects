@@ -1,9 +1,0 @@
-contact:
-  name: Emma Bell
-  email: emma.bell6608@mail.com
-  phone: (497) 828-3395
-  ssn: 229 08 1846
-  dob: 06/05/1971
-  address: 9050 Second Ln
-  city: Dallas
-  state: NC

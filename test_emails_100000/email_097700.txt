@@ -1,9 +1,0 @@
-contact:
-  name: Maria Robinson
-  email: maria.robinson9670@mail.com
-  phone: 673 393 1494
-  ssn: 908 21 4909
-  dob: 09-19-1986
-  address: 9805 Third Blvd
-  city: Denver
-  state: PA

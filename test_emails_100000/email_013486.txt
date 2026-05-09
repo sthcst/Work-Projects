@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Rodriguez
-  email: jennifer.rodriguez4498@company.com
-  phone: 748 209 3801
-  ssn: 781723260
-  dob: 16/02/2000
-  address: 4945 South St
-  city: Jacksonville
-  state: MA

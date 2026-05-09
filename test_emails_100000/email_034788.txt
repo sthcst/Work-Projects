@@ -1,9 +1,0 @@
-contact:
-  name: Brian Edwards
-  email: brian.edwards4876@yahoo.com
-  phone: +1 404-264-3663
-  ssn: 173-84-6667
-  dob: 6/5/1976
-  address: 3308 Main Dr
-  city: Seattle
-  state: FL

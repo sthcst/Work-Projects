@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Dominguez,lisa.dominguez8506@company.com,485 680 5751,371858514,9/8/1987,"7908 Oak Dr",Dallas,PA

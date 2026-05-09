@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Collins,george.collins193@gmail.com,932 921 7466,524384535,11/01/1966,"9542 Fifth St",Houston,PA

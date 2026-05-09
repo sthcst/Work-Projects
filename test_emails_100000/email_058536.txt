@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Delgado,samantha.delgado8981@company.com,785-517-2663,562138191,11/14/1968,"4436 Fifth Ave",San Diego,WI

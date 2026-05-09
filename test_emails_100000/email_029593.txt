@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Flores,cynthia.flores6861@yahoo.com,677-927-3910,051-20-8328,22/11/1968,"2795 Park Court",Denver,DC

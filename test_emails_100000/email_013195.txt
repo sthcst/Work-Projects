@@ -1,9 +1,0 @@
-contact:
-  name: Anna Parker
-  email: anna.parker554@yahoo.com
-  phone: (600) 274-1785
-  ssn: 974 71 5119
-  dob: 09-06-2002
-  address: 3832 West Way
-  city: Denver
-  state: TX

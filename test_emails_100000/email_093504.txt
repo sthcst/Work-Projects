@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Hernandez
-  email: timothy.hernandez3478@mail.com
-  phone: 427 803 6432
-  ssn: 339 62 5039
-  dob: 12/08/1970
-  address: 9516 Main Ave
-  city: Jacksonville
-  state: TN

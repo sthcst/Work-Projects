@@ -1,9 +1,0 @@
-contact:
-  name: Mark Jones
-  email: mark.jones9991@yahoo.com
-  phone: +1 978-633-1686
-  ssn: 147511181
-  dob: 02/07/1972
-  address: 5825 Second Court
-  city: San Diego
-  state: MO

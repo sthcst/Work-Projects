@@ -1,9 +1,0 @@
-contact:
-  name: James Martin
-  email: james.martin5190@example.com
-  phone: 505 808 3508
-  ssn: 283-23-3097
-  dob: 01/06/1954
-  address: 4962 Elm Rd
-  city: Los Angeles
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Thomas
-  email: katherine.thomas9728@example.com
-  phone: 229-888-7776
-  ssn: 011542093
-  dob: 5/25/1974
-  address: 1197 Fifth Ln
-  city: San Antonio
-  state: NJ

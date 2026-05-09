@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Flores,lisa.flores1500@company.com,306 683 2111,987 90 8081,5/20/1983,"9033 Elm Court",Dallas,FL

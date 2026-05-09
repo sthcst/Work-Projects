@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Thompson,john.thompson1034@gmail.com,+1 830-761-9595,844832964,09/14/1970,"1074 West Dr",Philadelphia,FL

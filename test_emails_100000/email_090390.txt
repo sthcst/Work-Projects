@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Ortiz
-  email: christopher.ortiz2240@example.com
-  phone: 360 952 6039
-  ssn: 419114294
-  dob: 11/01/1963
-  address: 9124 Maple Ave
-  city: Chicago
-  state: MD

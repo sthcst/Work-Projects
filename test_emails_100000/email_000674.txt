@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Peterson,james.peterson8648@gmail.com,282 500 2198,879-95-6265,8/14/1999,"8559 Birch Court",Denver,MI

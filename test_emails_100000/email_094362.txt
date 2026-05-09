@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Alvarado,christine.alvarado7253@gmail.com,+1 204-327-1356,422-33-5077,2/16/2002,"3617 Fifth Rd",Seattle,MI

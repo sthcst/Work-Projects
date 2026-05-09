@@ -1,9 +1,0 @@
-contact:
-  name: Donald Guerrero
-  email: donald.guerrero8283@gmail.com
-  phone: +1 580-959-3564
-  ssn: 462-01-6872
-  dob: 04/09/1976
-  address: 1366 East Ln
-  city: Dallas
-  state: TN

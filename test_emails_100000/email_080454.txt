@@ -1,9 +1,0 @@
-contact:
-  name: William Hernandez
-  email: william.hernandez3873@mail.com
-  phone: (718) 250-6154
-  ssn: 622-20-8780
-  dob: 05/04/2004
-  address: 1350 Fifth Rd
-  city: Austin
-  state: OH

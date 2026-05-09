@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Ortiz,rebecca.ortiz5195@yahoo.com,549 738 2256,632-54-3481,02/02/1973,"7294 Spring Ave",Philadelphia,FL

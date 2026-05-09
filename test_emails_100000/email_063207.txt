@@ -1,9 +1,0 @@
-contact:
-  name: Brian Sanchez
-  email: brian.sanchez8947@company.com
-  phone: (729) 505-6408
-  ssn: 248 60 6049
-  dob: 08-12-1995
-  address: 7192 North Ln
-  city: New York
-  state: NJ

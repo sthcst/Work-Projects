@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Lee,anna.lee8115@gmail.com,774-645-5011,202-65-4802,12-20-1996,"6024 Third St",Dallas,MO

@@ -1,9 +1,0 @@
-contact:
-  name: Jason Davis
-  email: jason.davis7494@example.com
-  phone: 718-635-1708
-  ssn: 881 57 8039
-  dob: 22/09/1955
-  address: 9161 East Ave
-  city: Dallas
-  state: NJ

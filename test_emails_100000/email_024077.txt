@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Carter,james.carter6284@work.org,720 204 4624,860 14 4113,10-09-1953,"9551 Pine Ln",Boston,WA

@@ -1,9 +1,0 @@
-contact:
-  name: Jane Nelson
-  email: jane.nelson7516@yahoo.com
-  phone: +1 794-823-7930
-  ssn: 568-22-3295
-  dob: 11/21/1993
-  address: 7868 Summer Court
-  city: Philadelphia
-  state: FL

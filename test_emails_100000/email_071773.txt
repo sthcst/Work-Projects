@@ -1,9 +1,0 @@
-contact:
-  name: Jane Nunez
-  email: jane.nunez2397@gmail.com
-  phone: 234-916-7762
-  ssn: 960 30 1259
-  dob: 28/07/2001
-  address: 3513 North Ln
-  city: Austin
-  state: CA

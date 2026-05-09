@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Moore,maria.moore7918@example.com,845 876 2402,154199690,09/08/2004,"5310 Cedar Ln",Los Angeles,NJ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Reeves,jeffrey.reeves1642@yahoo.com,791-816-5617,406 86 6557,2/26/2003,"9209 Third Blvd",Philadelphia,AZ

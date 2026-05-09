@@ -1,9 +1,0 @@
-contact:
-  name: Gary White
-  email: gary.white5585@business.net
-  phone: 355-496-7026
-  ssn: 689 37 2412
-  dob: 25/06/1998
-  address: 2141 First St
-  city: Los Angeles
-  state: CA

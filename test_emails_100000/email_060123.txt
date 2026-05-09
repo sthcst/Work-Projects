@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Jones,christopher.jones9587@business.net,+1 582-726-5620,949846110,05-04-2001,"5008 Summer Blvd",Austin,TX

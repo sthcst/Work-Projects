@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Young
-  email: lauren.young3307@gmail.com
-  phone: +1 643-845-8710
-  ssn: 346 16 3363
-  dob: 12/20/1997
-  address: 9754 Pine St
-  city: Dallas
-  state: NY

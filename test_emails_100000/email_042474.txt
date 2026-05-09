@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Jones,anthony.jones6281@example.com,(454) 554-8825,416987755,14/08/1976,"5560 Spring Dr",Chicago,PA

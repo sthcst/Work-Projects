@@ -1,9 +1,0 @@
-contact:
-  name: John Harris
-  email: john.harris9858@gmail.com
-  phone: 982 697 8103
-  ssn: 267-35-5226
-  dob: 06-03-1990
-  address: 7163 Second Rd
-  city: San Jose
-  state: MA

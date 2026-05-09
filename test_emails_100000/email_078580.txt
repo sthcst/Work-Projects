@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Reyes,james.reyes4430@example.com,+1 305-971-7784,221 19 1567,08/20/1988,"5686 Third Court",Los Angeles,NC

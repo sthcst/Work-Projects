@@ -1,9 +1,0 @@
-contact:
-  name: Gary Reeves
-  email: gary.reeves1437@gmail.com
-  phone: 345-879-4933
-  ssn: 250 20 5371
-  dob: 7/20/1950
-  address: 5922 South Rd
-  city: San Antonio
-  state: TX

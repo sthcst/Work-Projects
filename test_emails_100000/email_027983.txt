@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Morgan,christopher.morgan6583@yahoo.com,+1 883-430-7164,098453967,06-18-1982,"8427 Second Blvd",Philadelphia,MD

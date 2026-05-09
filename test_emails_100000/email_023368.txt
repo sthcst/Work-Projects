@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Wilson,daniel.wilson7559@yahoo.com,+1 484-517-6315,417-72-9569,11-01-1995,"5150 South Court",Houston,DC

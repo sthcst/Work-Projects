@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Williams
-  email: daniel.williams7114@yahoo.com
-  phone: +1 651-615-1862
-  ssn: 485 06 3180
-  dob: 18/08/1998
-  address: 8015 Birch Dr
-  city: Austin
-  state: WI

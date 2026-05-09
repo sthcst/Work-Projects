@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Serrano,helen.serrano5957@gmail.com,523 516 5050,965014474,06-19-2003,"1124 Elm Dr",San Diego,FL

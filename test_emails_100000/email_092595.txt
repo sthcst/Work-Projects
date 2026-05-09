@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Wilson
-  email: christopher.wilson2856@gmail.com
-  phone: 894 205 7389
-  ssn: 257703362
-  dob: 11/07/1996
-  address: 2815 Maple Way
-  city: Washington
-  state: OH

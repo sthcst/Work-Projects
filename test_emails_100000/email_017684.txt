@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Romero,matthew.romero2110@example.com,453-413-5353,771-49-9341,26/05/1950,"4635 First Ln",Washington,WA

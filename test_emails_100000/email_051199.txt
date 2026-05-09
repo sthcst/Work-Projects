@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Cooper,emily.cooper4259@work.org,(932) 296-1127,435 03 5428,02/10/1960,"6846 Summer Court",Houston,CA

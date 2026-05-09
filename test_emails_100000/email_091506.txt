@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Edwards
-  email: cynthia.edwards6111@outlook.com
-  phone: (457) 892-9763
-  ssn: 992 89 6793
-  dob: 11-22-1971
-  address: 8302 Fifth Dr
-  city: San Jose
-  state: CA

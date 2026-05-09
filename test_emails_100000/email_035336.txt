@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Lewis,brian.lewis2586@work.org,712 319 2221,741-80-7622,06-11-1992,"9408 First Ln",Dallas,AZ

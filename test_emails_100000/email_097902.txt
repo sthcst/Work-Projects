@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Lewis,shirley.lewis7263@mail.com,+1 770-663-2607,431-12-3028,03-18-1974,"77 Elm Dr",Austin,MI

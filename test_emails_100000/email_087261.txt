@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Martin,angela.martin8793@gmail.com,(212) 577-8207,832 31 2935,08/09/1974,"2958 Main Dr",Los Angeles,TX

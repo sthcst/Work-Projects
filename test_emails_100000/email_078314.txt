@@ -1,9 +1,0 @@
-contact:
-  name: Jason Harris
-  email: jason.harris6387@outlook.com
-  phone: 240-376-6830
-  ssn: 827013471
-  dob: 01-16-1999
-  address: 4133 Oak Blvd
-  city: Washington
-  state: NJ

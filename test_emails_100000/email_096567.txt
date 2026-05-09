@@ -1,9 +1,0 @@
-contact:
-  name: George Young
-  email: george.young1362@business.net
-  phone: 200 920 4912
-  ssn: 956 74 1893
-  dob: 12/12/1987
-  address: 5419 Park Court
-  city: Boston
-  state: PA

@@ -1,9 +1,0 @@
-contact:
-  name: David Gomez
-  email: david.gomez5010@outlook.com
-  phone: 387-695-6044
-  ssn: 347-97-2969
-  dob: 4/27/1995
-  address: 8666 Cedar Ave
-  city: Houston
-  state: DC

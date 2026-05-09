@@ -1,9 +1,0 @@
-contact:
-  name: Paul Alvarado
-  email: paul.alvarado4592@business.net
-  phone: 266-317-4569
-  ssn: 027801399
-  dob: 12-27-1999
-  address: 4317 Pine St
-  city: San Diego
-  state: FL

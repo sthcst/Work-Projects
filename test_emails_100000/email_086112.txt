@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Delgado,kathleen.delgado7597@gmail.com,(758) 218-6551,993329464,12/06/1971,"8417 Maple Dr",Denver,AZ

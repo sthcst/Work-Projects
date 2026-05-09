@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Young,christine.young1381@business.net,850-905-5373,159-96-6038,08/02/1953,"3918 Second Ln",Philadelphia,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Carter,kevin.carter5806@business.net,(208) 602-2984,402313551,10/07/1967,"5978 First Ave",Austin,AZ

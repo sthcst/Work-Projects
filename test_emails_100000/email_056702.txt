@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Garcia
-  email: pamela.garcia4114@company.com
-  phone: 830 994 8602
-  ssn: 993214190
-  dob: 23/10/1967
-  address: 5506 Oak Ave
-  city: Boston
-  state: NJ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Sanchez,helen.sanchez8608@yahoo.com,843-983-2680,563536899,10/16/1968,"2533 Park Ln",San Antonio,VA

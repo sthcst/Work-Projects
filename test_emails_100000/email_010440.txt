@@ -1,9 +1,0 @@
-contact:
-  name: Gary Rogers
-  email: gary.rogers4836@business.net
-  phone: 493 465 7094
-  ssn: 792-47-4747
-  dob: 14/08/1963
-  address: 9625 Birch Way
-  city: Austin
-  state: IL

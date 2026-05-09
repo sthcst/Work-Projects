@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Edwards,katherine.edwards8246@company.com,316 380 5269,191-47-3365,5/28/1994,"9629 Sixth Rd",Houston,NJ

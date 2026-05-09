@@ -1,9 +1,0 @@
-contact:
-  name: Megan Campbell
-  email: megan.campbell9986@work.org
-  phone: (511) 772-6485
-  ssn: 472267862
-  dob: 24/03/1954
-  address: 6055 Sixth Ln
-  city: Seattle
-  state: CO

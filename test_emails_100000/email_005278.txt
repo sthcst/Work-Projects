@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Guerrero,jessica.guerrero6994@mail.com,(847) 628-6049,379-97-7671,1/3/1971,"6317 Spring Way",Austin,TX

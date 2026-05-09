@@ -1,9 +1,0 @@
-contact:
-  name: Michael Williams
-  email: michael.williams2255@company.com
-  phone: 602-641-2641
-  ssn: 133-74-7759
-  dob: 10-21-1972
-  address: 7104 Spring Dr
-  city: Boston
-  state: CA

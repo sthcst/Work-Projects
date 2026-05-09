@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Garcia,rachel.garcia50@example.com,+1 941-877-5066,947 19 4963,19/02/1992,"7675 Main Way",San Jose,TX

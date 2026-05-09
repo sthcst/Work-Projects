@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Gonzalez
-  email: christopher.gonzalez5974@example.com
-  phone: +1 203-896-5334
-  ssn: 406-59-6380
-  dob: 02/07/1972
-  address: 4179 Oak Blvd
-  city: San Jose
-  state: OH

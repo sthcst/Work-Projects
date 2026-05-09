@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Young,jason.young3090@business.net,+1 722-908-8394,575 66 3847,06/14/1961,"8961 Main Rd",Philadelphia,GA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Campbell,pamela.campbell6766@work.org,709-850-7654,033753971,12/24/1989,"7224 Sixth St",San Diego,OH

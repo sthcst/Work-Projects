@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Garcia,steven.garcia1580@example.com,679-584-2055,899 01 3676,10/08/2005,"1700 Spring Court",San Jose,IL

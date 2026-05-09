@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Davis,timothy.davis9896@gmail.com,+1 914-732-4744,871154184,12-04-1961,"7684 Park St",San Antonio,MA

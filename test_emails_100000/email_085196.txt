@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Hall,lisa.hall5911@company.com,247 572 5111,213986219,11/22/1998,"9444 Cedar Blvd",San Diego,MO

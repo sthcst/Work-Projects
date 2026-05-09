@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Walker,amanda.walker1253@outlook.com,575 491 5648,212-83-9893,05/19/1983,"131 Park Ave",Chicago,DC

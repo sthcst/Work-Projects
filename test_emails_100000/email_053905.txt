@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Taylor,jeffrey.taylor2463@company.com,928-698-6638,191314882,10/19/1972,"3864 Maple Court",San Antonio,NC

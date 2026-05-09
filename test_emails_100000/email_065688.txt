@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Serrano,richard.serrano3738@business.net,348-475-1837,605515910,4/8/1998,"7730 North St",Seattle,CA

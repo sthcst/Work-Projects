@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Sanchez
-  email: joseph.sanchez7575@gmail.com
-  phone: 969-833-1943
-  ssn: 364 15 7601
-  dob: 28/10/1967
-  address: 2680 First Ave
-  city: Seattle
-  state: IL

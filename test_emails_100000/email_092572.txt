@@ -1,9 +1,0 @@
-contact:
-  name: Brian Davis
-  email: brian.davis586@yahoo.com
-  phone: (755) 857-7212
-  ssn: 799617379
-  dob: 08/11/1961
-  address: 2976 Pine Dr
-  city: Phoenix
-  state: TN

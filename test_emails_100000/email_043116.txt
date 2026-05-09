@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Martin,amanda.martin9251@business.net,+1 985-256-2078,588 83 8150,11-28-1985,"7721 North Blvd",Jacksonville,TX

@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Reed
-  email: jeffrey.reed2933@work.org
-  phone: 519 540 4246
-  ssn: 731-98-9740
-  dob: 08/19/1958
-  address: 7682 Pine Court
-  city: San Jose
-  state: NJ

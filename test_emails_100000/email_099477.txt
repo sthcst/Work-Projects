@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Miller
-  email: kevin.miller8335@yahoo.com
-  phone: (757) 644-7050
-  ssn: 896179512
-  dob: 03-18-1978
-  address: 4420 Oak Blvd
-  city: Chicago
-  state: AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Sanchez,william.sanchez3547@example.com,+1 768-754-9728,598-42-7907,11/02/1957,"4573 Third Dr",Phoenix,OH

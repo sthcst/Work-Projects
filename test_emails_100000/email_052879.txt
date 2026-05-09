@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Thompson,steven.thompson9778@business.net,417 313 5505,212-63-7698,07/26/1996,"3086 East Ave",Houston,WA

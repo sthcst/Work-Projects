@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Gomez
-  email: stephanie.gomez295@work.org
-  phone: 465 646 8557
-  ssn: 029 70 2343
-  dob: 16/01/1952
-  address: 8119 Elm Dr
-  city: Los Angeles
-  state: MI

@@ -1,9 +1,0 @@
-contact:
-  name: Donald Smith
-  email: donald.smith4195@business.net
-  phone: +1 407-938-4637
-  ssn: 177254000
-  dob: 9/1/1969
-  address: 4501 West Way
-  city: Jacksonville
-  state: IL

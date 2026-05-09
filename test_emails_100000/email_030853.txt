@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Evans,timothy.evans8455@company.com,838 977 7591,300881336,02-05-1950,"8951 Main St",San Antonio,NC

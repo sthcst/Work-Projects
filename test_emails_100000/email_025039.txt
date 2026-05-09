@@ -1,9 +1,0 @@
-contact:
-  name: Paul Edwards
-  email: paul.edwards1635@example.com
-  phone: 959 494 5169
-  ssn: 230 85 8020
-  dob: 3/8/2002
-  address: 751 Pine Ln
-  city: Phoenix
-  state: MI

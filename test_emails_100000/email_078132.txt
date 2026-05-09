@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Perez,kimberly.perez7206@work.org,(560) 377-7908,439 28 3042,02/20/1954,"5015 South Way",Austin,MO

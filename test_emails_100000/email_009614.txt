@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Evans,emily.evans7743@example.com,309-429-8803,348-86-8197,09/21/1990,"846 First Blvd",Chicago,MD

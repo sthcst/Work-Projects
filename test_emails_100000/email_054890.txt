@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Roberts
-  email: joseph.roberts9245@example.com
-  phone: (297) 921-1218
-  ssn: 196-84-5399
-  dob: 12/11/1956
-  address: 1300 Fourth Rd
-  city: Austin
-  state: NJ

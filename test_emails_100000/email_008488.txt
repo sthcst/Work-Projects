@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Jackson,robert.jackson9053@gmail.com,243-261-5620,284 05 7462,2/6/1983,"2571 North Way",Houston,TX

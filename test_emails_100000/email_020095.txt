@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Phillips,brian.phillips8585@company.com,+1 786-873-1390,410 47 2511,25/06/1969,"8802 Main St",Chicago,CA

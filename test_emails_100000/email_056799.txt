@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Brown,kevin.brown3472@yahoo.com,+1 822-389-2015,553 76 2206,07-23-1970,"3396 Fourth St",Denver,TX

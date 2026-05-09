@@ -1,9 +1,0 @@
-contact:
-  name: Emily Perez
-  email: emily.perez6057@gmail.com
-  phone: 943 339 6291
-  ssn: 502 99 8889
-  dob: 11/6/1985
-  address: 7789 Pine Way
-  city: Austin
-  state: PA

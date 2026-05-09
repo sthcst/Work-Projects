@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Lopez,george.lopez2670@yahoo.com,+1 770-345-3219,695-97-7198,6/4/1959,"4962 Sixth Court",Phoenix,MI

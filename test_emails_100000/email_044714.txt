@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Rogers,gary.rogers7496@outlook.com,845 740 1959,018 68 5480,5/5/1965,"7320 Second St",Boston,NJ

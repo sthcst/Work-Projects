@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Jones,emily.jones7109@business.net,437-625-4816,273022443,7/3/1976,"2030 Park Ln",San Diego,MA

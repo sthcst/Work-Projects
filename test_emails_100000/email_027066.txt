@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Lewis
-  email: pamela.lewis9620@gmail.com
-  phone: 445-746-5998
-  ssn: 062437052
-  dob: 11/17/1976
-  address: 7240 North Court
-  city: Boston
-  state: AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Jimenez,andrew.jimenez7279@mail.com,724 342 4677,358 19 4315,17/11/1962,"3509 Elm Dr",Washington,FL

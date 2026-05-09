@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Hall
-  email: michelle.hall6886@work.org
-  phone: 759-353-7314
-  ssn: 372335351
-  dob: 25/11/1982
-  address: 8545 West Way
-  city: New York
-  state: FL

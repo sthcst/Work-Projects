@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Serrano
-  email: nicholas.serrano5086@outlook.com
-  phone: 504-745-1307
-  ssn: 538356763
-  dob: 1/6/1990
-  address: 2632 Pine Dr
-  city: Houston
-  state: CA

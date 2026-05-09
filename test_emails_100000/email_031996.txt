@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Jimenez
-  email: deborah.jimenez224@company.com
-  phone: 793-989-8677
-  ssn: 633 39 1180
-  dob: 12/23/1969
-  address: 3232 North Rd
-  city: Boston
-  state: AZ

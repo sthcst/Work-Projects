@@ -1,9 +1,0 @@
-contact:
-  name: Gary Clark
-  email: gary.clark6952@company.com
-  phone: 294-279-9772
-  ssn: 880458789
-  dob: 7/21/1970
-  address: 8260 West Court
-  city: Phoenix
-  state: DC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Jones,shirley.jones8607@mail.com,525 883 5321,020 03 6464,09-28-1988,"5620 Pine Way",San Diego,IL

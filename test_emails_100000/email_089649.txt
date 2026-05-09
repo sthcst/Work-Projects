@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Morris
-  email: shirley.morris6811@example.com
-  phone: +1 773-762-3813
-  ssn: 377-34-5105
-  dob: 11/06/1995
-  address: 7381 Summer Ln
-  city: San Jose
-  state: NY

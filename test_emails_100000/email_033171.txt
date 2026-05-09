@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca White
-  email: rebecca.white1060@yahoo.com
-  phone: 713 515 8260
-  ssn: 684542901
-  dob: 10/25/1996
-  address: 7591 Third Way
-  city: San Antonio
-  state: CA

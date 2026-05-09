@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Moore
-  email: katherine.moore5491@gmail.com
-  phone: 285 235 1012
-  ssn: 841 69 8319
-  dob: 02-14-1963
-  address: 44 Third Rd
-  city: Philadelphia
-  state: VA

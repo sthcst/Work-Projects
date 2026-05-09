@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Delgado,gary.delgado9557@company.com,+1 397-933-3008,530 44 7375,1/27/1998,"9202 Park St",Denver,AZ

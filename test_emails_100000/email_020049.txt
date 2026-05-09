@@ -1,9 +1,0 @@
-contact:
-  name: Donald Morris
-  email: donald.morris3561@work.org
-  phone: +1 274-373-2993
-  ssn: 187034624
-  dob: 13/07/1977
-  address: 5696 East St
-  city: Denver
-  state: IL

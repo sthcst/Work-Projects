@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Dominguez
-  email: joseph.dominguez3426@business.net
-  phone: 677-788-1146
-  ssn: 565452302
-  dob: 03-04-2003
-  address: 3645 South Court
-  city: Philadelphia
-  state: MD

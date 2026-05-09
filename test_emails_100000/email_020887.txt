@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Ortiz
-  email: kenneth.ortiz8853@business.net
-  phone: (827) 681-1723
-  ssn: 536079854
-  dob: 06/26/1977
-  address: 856 South Dr
-  city: Philadelphia
-  state: MD

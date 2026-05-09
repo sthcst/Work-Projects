@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Collins,paul.collins5451@yahoo.com,691-988-7426,172435534,11/14/1994,"8073 Third Ln",Houston,CA

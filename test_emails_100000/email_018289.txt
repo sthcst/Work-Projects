@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Thomas,jacob.thomas9268@company.com,808-822-1909,327 83 8026,20/09/1972,"3183 Birch Blvd",Chicago,FL

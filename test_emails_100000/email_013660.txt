@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Hall,emily.hall4181@outlook.com,+1 417-823-8784,995 78 7912,11/2/1972,"955 Main Ln",Boston,MA

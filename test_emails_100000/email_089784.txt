@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Harris,sarah.harris312@company.com,336-972-1185,925 84 1542,2/18/1961,"342 Park Way",San Antonio,WA

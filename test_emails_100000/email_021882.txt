@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Jimenez,deborah.jimenez5027@company.com,450-889-4383,557583812,05/15/2004,"2844 South Rd",Austin,MD

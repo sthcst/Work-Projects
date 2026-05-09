@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Stewart,christopher.stewart5460@gmail.com,(590) 635-6607,499 72 3236,20/09/1999,"1219 Birch Court",San Jose,WA

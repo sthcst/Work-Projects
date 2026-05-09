@@ -1,9 +1,0 @@
-contact:
-  name: Emma Flores
-  email: emma.flores6541@work.org
-  phone: 461-992-8798
-  ssn: 264 08 4135
-  dob: 04-24-1988
-  address: 8884 First Ln
-  city: Seattle
-  state: TN

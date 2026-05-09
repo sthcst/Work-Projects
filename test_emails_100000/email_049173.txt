@@ -1,9 +1,0 @@
-contact:
-  name: Helen Guerrero
-  email: helen.guerrero7948@example.com
-  phone: 840-242-2027
-  ssn: 377 71 3572
-  dob: 10/05/2005
-  address: 6762 Cedar St
-  city: Los Angeles
-  state: WA

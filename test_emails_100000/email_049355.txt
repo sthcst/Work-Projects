@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Murillo,donald.murillo5647@example.com,+1 652-385-9474,397-50-6001,10/19/1986,"747 First Ln",Boston,NY

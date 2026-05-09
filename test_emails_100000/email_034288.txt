@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Clark,katherine.clark5781@business.net,+1 716-417-9507,027 28 1137,03/03/1999,"8209 Third Blvd",New York,TX

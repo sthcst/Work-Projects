@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Reeves
-  email: samantha.reeves3910@work.org
-  phone: (680) 889-5641
-  ssn: 320-75-6237
-  dob: 06/22/1955
-  address: 6118 East Rd
-  city: Los Angeles
-  state: MA

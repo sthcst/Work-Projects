@@ -1,9 +1,0 @@
-contact:
-  name: Anthony White
-  email: anthony.white3205@gmail.com
-  phone: 869-483-2599
-  ssn: 776-51-6297
-  dob: 7/24/1971
-  address: 3094 Summer Ave
-  city: San Antonio
-  state: CA

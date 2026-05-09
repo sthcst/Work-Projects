@@ -1,9 +1,0 @@
-contact:
-  name: Emma Delgado
-  email: emma.delgado7835@example.com
-  phone: 981-372-2061
-  ssn: 266 42 2546
-  dob: 19/05/1951
-  address: 3594 Main Blvd
-  city: Dallas
-  state: NY

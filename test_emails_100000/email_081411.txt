@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Parker,kevin.parker6979@company.com,847-430-7036,303 03 4441,6/14/1952,"3885 Birch Rd",Houston,MD

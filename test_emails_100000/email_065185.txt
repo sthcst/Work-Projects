@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Parker,richard.parker7067@gmail.com,218-591-3134,851-32-5288,02/13/1965,"7140 Second Dr",San Diego,OH

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Cooper,jason.cooper2388@company.com,(726) 452-4479,134-65-3246,9/2/1963,"4191 Fourth Rd",Boston,WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Lopez,joseph.lopez6702@yahoo.com,679 780 2674,514 57 2735,04-06-1989,"9820 East Court",Austin,TN

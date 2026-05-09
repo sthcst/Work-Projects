@@ -1,9 +1,0 @@
-contact:
-  name: Jason Collins
-  email: jason.collins5790@business.net
-  phone: 559-845-4705
-  ssn: 978764985
-  dob: 3/21/1985
-  address: 6929 South Ln
-  city: New York
-  state: NC

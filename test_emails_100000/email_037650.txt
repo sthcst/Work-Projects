@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Miller,ashley.miller677@outlook.com,(431) 778-9272,644079457,01/02/1995,"1976 Fifth Rd",San Jose,NY

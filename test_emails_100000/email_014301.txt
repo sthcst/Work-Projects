@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Lee
-  email: matthew.lee2089@example.com
-  phone: +1 316-514-4242
-  ssn: 560-62-1093
-  dob: 04/08/1964
-  address: 5471 Oak Blvd
-  city: Denver
-  state: TX

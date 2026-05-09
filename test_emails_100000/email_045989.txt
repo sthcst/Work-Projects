@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Guerrero
-  email: jacob.guerrero3068@outlook.com
-  phone: (531) 677-8787
-  ssn: 831-40-6178
-  dob: 11-20-1984
-  address: 6930 South Way
-  city: Los Angeles
-  state: GA

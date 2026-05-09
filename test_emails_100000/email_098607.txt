@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Gomez
-  email: jennifer.gomez2701@work.org
-  phone: (484) 551-3712
-  ssn: 334 90 7922
-  dob: 19/07/1996
-  address: 6701 West Blvd
-  city: Philadelphia
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Hall
-  email: joshua.hall1209@company.com
-  phone: 587-821-7592
-  ssn: 385516915
-  dob: 03-09-1976
-  address: 1635 Oak Rd
-  city: New York
-  state: MA

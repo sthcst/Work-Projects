@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Smith,samantha.smith5312@work.org,661 731 8489,654-61-1321,05/28/1974,"3320 Fifth Ave",Chicago,NY

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Nunez,edward.nunez4908@gmail.com,219-753-3371,558244174,06/06/1961,"8579 First Blvd",San Diego,MO

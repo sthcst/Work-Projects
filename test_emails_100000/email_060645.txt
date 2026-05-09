@@ -1,9 +1,0 @@
-contact:
-  name: Brian Sanchez
-  email: brian.sanchez6412@company.com
-  phone: +1 895-789-7859
-  ssn: 595 08 4179
-  dob: 7/4/1965
-  address: 337 East Blvd
-  city: Houston
-  state: DC

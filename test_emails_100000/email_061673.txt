@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Moore
-  email: samantha.moore9621@example.com
-  phone: 540 454 7207
-  ssn: 966-29-2590
-  dob: 26/05/1970
-  address: 4122 South Rd
-  city: Chicago
-  state: NJ

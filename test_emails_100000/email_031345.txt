@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Collins,brian.collins9831@example.com,(204) 692-4969,743 88 1414,09-10-1960,"5498 South Blvd",San Antonio,CA

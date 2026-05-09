@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Young,joshua.young7374@business.net,(964) 614-6860,829043815,06-25-2002,"9058 Sixth Way",Houston,TX

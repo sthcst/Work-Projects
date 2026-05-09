@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Nelson,pamela.nelson4067@yahoo.com,253 451 3057,678 43 2799,2/8/2001,"3844 East Ln",Washington,IL

@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Williams
-  email: michelle.williams7171@yahoo.com
-  phone: 900-769-8821
-  ssn: 076 01 6603
-  dob: 27/12/1959
-  address: 3650 West Way
-  city: Austin
-  state: MO

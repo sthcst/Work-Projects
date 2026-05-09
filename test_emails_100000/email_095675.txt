@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Gomez,sarah.gomez925@work.org,(696) 494-9155,497-22-4590,03/08/1952,"2303 South Dr",San Antonio,MA

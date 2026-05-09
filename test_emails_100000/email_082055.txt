@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Morgan,john.morgan8957@yahoo.com,+1 257-213-9744,543-25-9457,09/10/1960,"985 Main Rd",Denver,NC

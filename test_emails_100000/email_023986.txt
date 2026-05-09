@@ -1,9 +1,0 @@
-contact:
-  name: Robert Reed
-  email: robert.reed3932@gmail.com
-  phone: 625-628-2833
-  ssn: 737689519
-  dob: 04-08-1974
-  address: 5926 Fifth Blvd
-  city: Denver
-  state: MD

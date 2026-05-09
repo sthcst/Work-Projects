@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Reed
-  email: michelle.reed6069@example.com
-  phone: +1 365-218-1523
-  ssn: 868 43 2173
-  dob: 05/01/1953
-  address: 885 Spring Dr
-  city: Denver
-  state: MO

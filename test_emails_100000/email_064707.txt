@@ -1,9 +1,0 @@
-contact:
-  name: Emily Jones
-  email: emily.jones1779@yahoo.com
-  phone: 902 253 7502
-  ssn: 711 92 7181
-  dob: 05-02-1993
-  address: 5385 Elm Rd
-  city: Chicago
-  state: OH

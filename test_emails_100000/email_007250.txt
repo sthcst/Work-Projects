@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Garcia,brian.garcia4814@outlook.com,365 436 4573,606764281,06-25-1965,"720 Fifth Ave",San Jose,NY

@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Smith
-  email: timothy.smith6756@company.com
-  phone: +1 678-227-6363
-  ssn: 043-29-2834
-  dob: 07/21/1964
-  address: 5956 Sixth St
-  city: Phoenix
-  state: AZ

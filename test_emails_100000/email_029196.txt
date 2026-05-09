@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Lopez,charles.lopez849@company.com,(473) 881-4006,071 81 6805,12/12/1976,"9354 Fifth Way",Philadelphia,FL

@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Lopez
-  email: shirley.lopez3321@yahoo.com
-  phone: +1 659-816-9070
-  ssn: 189712741
-  dob: 04/16/1951
-  address: 4310 Birch Rd
-  city: Chicago
-  state: VA

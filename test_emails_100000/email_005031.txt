@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Hall
-  email: kenneth.hall2738@outlook.com
-  phone: 319-930-2985
-  ssn: 155-91-3261
-  dob: 08/25/1986
-  address: 7722 Third Ln
-  city: Dallas
-  state: MA

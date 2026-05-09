@@ -1,9 +1,0 @@
-contact:
-  name: Christine Jones
-  email: christine.jones1339@company.com
-  phone: (366) 281-2455
-  ssn: 073815167
-  dob: 9/7/1961
-  address: 2478 North Way
-  city: Denver
-  state: NJ

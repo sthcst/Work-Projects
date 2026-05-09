@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Reyes,charles.reyes8684@business.net,+1 423-674-1809,973-81-3307,06-06-1984,"3503 Birch Way",Phoenix,VA

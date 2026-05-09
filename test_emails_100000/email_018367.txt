@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Gonzalez,ashley.gonzalez6551@gmail.com,397-462-5698,439-43-2260,10/09/2002,"1009 Sixth Blvd",San Antonio,GA

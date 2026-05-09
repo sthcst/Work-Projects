@@ -1,9 +1,0 @@
-contact:
-  name: Maria Morgan
-  email: maria.morgan4017@work.org
-  phone: (253) 352-9369
-  ssn: 069-06-1338
-  dob: 03/23/1977
-  address: 6295 Second Ln
-  city: San Jose
-  state: MD

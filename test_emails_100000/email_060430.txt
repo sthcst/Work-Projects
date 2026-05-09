@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Thompson,jacob.thompson5837@outlook.com,(436) 911-2100,225-35-5885,3/13/1982,"4621 First Ave",Phoenix,TX

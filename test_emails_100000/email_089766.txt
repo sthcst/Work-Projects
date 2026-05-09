@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Alvarado,brian.alvarado7295@yahoo.com,695 394 1759,984892688,11/17/1983,"7456 South Court",Phoenix,TX

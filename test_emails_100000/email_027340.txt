@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Williams,kimberly.williams4195@mail.com,(814) 482-9888,932 66 9804,06-22-1962,"4142 Main Rd",Los Angeles,CO

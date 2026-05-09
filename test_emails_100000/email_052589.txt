@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Harris
-  email: ashley.harris6698@example.com
-  phone: 238-995-4565
-  ssn: 009 80 5629
-  dob: 6/20/1953
-  address: 605 Main Court
-  city: New York
-  state: NC

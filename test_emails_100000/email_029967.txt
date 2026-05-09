@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Martinez,nicole.martinez6299@business.net,+1 959-928-9718,722 29 4469,18/04/1997,"8054 Cedar Blvd",Boston,WI

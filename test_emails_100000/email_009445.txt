@@ -1,9 +1,0 @@
-contact:
-  name: Christine Wilson
-  email: christine.wilson3143@business.net
-  phone: +1 744-950-8585
-  ssn: 266-54-1353
-  dob: 26/03/1962
-  address: 9117 Third Blvd
-  city: Phoenix
-  state: OH

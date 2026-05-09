@@ -1,9 +1,0 @@
-contact:
-  name: Emily Lee
-  email: emily.lee2016@work.org
-  phone: 743-350-3078
-  ssn: 137512227
-  dob: 15/05/1963
-  address: 8717 Fifth Rd
-  city: Austin
-  state: WA

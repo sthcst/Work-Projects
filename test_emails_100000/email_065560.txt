@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Edwards
-  email: rachel.edwards231@gmail.com
-  phone: 668-926-9671
-  ssn: 953129532
-  dob: 12/07/1962
-  address: 6164 Maple Ln
-  city: Jacksonville
-  state: CO

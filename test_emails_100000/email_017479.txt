@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Taylor
-  email: kathleen.taylor1200@gmail.com
-  phone: 369 691 2918
-  ssn: 780-22-5925
-  dob: 05/07/2003
-  address: 9323 West Ave
-  city: Chicago
-  state: MA

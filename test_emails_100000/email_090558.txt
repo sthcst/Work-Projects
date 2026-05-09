@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Nelson
-  email: rachel.nelson3153@business.net
-  phone: 476-688-3306
-  ssn: 846405844
-  dob: 01/09/1955
-  address: 6526 West Rd
-  city: New York
-  state: WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Jones,george.jones2936@business.net,+1 763-563-4710,692 98 5508,09-20-1972,"4999 Oak Rd",Houston,FL

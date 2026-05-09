@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Stewart
-  email: nicole.stewart5036@example.com
-  phone: (421) 825-1112
-  ssn: 933-42-6081
-  dob: 06-19-1976
-  address: 9023 East Ave
-  city: San Jose
-  state: AZ

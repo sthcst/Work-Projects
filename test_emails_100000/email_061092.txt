@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Peterson,william.peterson5669@example.com,+1 540-369-5728,351 32 5392,05/26/1976,"1463 East Dr",San Jose,PA

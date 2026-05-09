@@ -1,9 +1,0 @@
-contact:
-  name: Steven Thompson
-  email: steven.thompson8207@business.net
-  phone: (937) 861-1462
-  ssn: 566 69 6815
-  dob: 11/6/1959
-  address: 4163 Second St
-  city: San Antonio
-  state: WA

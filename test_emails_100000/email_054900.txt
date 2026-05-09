@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Walker,emily.walker9483@outlook.com,+1 565-772-9141,898013153,08/07/1987,"6547 Spring St",Chicago,CA

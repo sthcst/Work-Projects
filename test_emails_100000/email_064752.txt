@@ -1,9 +1,0 @@
-contact:
-  name: Gary Hernandez
-  email: gary.hernandez6629@mail.com
-  phone: (650) 277-9682
-  ssn: 877349886
-  dob: 9/10/1964
-  address: 2781 Summer Court
-  city: Houston
-  state: NY

@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Dominguez
-  email: pamela.dominguez4156@gmail.com
-  phone: +1 559-522-1254
-  ssn: 547-72-8580
-  dob: 06-20-1964
-  address: 786 First Court
-  city: Austin
-  state: NY

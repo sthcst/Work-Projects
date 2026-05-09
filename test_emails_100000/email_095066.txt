@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Williams,timothy.williams2189@work.org,275 998 8607,297 66 7755,09/08/1968,"8394 Fifth Way",Washington,TX

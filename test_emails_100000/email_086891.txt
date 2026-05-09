@@ -1,9 +1,0 @@
-contact:
-  name: Edward White
-  email: edward.white1879@outlook.com
-  phone: 816 784 7487
-  ssn: 835 49 5956
-  dob: 6/23/2002
-  address: 7301 Third Court
-  city: San Jose
-  state: TX

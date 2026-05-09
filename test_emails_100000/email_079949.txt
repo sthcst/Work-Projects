@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Reed,john.reed554@company.com,404-385-4613,929 82 7518,3/25/1981,"692 Pine Blvd",Dallas,DC

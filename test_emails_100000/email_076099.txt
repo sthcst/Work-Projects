@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Phillips
-  email: jacob.phillips9911@business.net
-  phone: 256-758-5691
-  ssn: 044406450
-  dob: 07-09-1987
-  address: 3772 Cedar Ave
-  city: Denver
-  state: FL

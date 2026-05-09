@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Dominguez,joshua.dominguez6651@company.com,(925) 588-4103,277-37-7991,01/23/1991,"3024 Spring Ave",Chicago,CO

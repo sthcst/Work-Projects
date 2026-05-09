@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Harris,katherine.harris4293@example.com,230-583-3029,066954247,12/14/1963,"2379 Sixth St",Los Angeles,MD

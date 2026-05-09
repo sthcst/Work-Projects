@@ -1,9 +1,0 @@
-contact:
-  name: Charles Stewart
-  email: charles.stewart4040@business.net
-  phone: (592) 865-9805
-  ssn: 411 27 2603
-  dob: 1/27/1980
-  address: 8432 East Court
-  city: Los Angeles
-  state: WA

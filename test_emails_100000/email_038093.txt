@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Harris,nicole.harris5857@company.com,(914) 915-2289,308 74 5076,10/07/1990,"7589 Third Way",Washington,IL

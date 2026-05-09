@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Lewis,michelle.lewis8240@yahoo.com,(581) 983-6414,062-04-5990,12/02/1968,"8607 Spring Court",Seattle,MA

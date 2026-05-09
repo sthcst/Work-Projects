@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Reyes
-  email: christopher.reyes3300@work.org
-  phone: 841-846-5648
-  ssn: 457691245
-  dob: 06-02-1959
-  address: 6209 Sixth Blvd
-  city: Denver
-  state: FL

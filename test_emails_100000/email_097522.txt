@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Bell
-  email: lisa.bell9299@example.com
-  phone: 756-971-9501
-  ssn: 943988038
-  dob: 04-18-1985
-  address: 5299 Spring Ln
-  city: Phoenix
-  state: GA

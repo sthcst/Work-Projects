@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Robinson,samantha.robinson3180@example.com,+1 587-694-8020,955957540,03/20/1963,"441 Second Ln",Washington,NY

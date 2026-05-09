@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Davis
-  email: ronald.davis6085@company.com
-  phone: (311) 689-3590
-  ssn: 965284363
-  dob: 06/16/1979
-  address: 6176 Third Rd
-  city: Los Angeles
-  state: NY

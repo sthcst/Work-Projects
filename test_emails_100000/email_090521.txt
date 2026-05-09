@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Flores,pamela.flores589@yahoo.com,364 607 4549,583 56 1330,10-26-1985,"7729 Third Ln",Seattle,NC

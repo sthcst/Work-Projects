@@ -1,9 +1,0 @@
-contact:
-  name: Angela Thomas
-  email: angela.thomas785@outlook.com
-  phone: 314-657-9152
-  ssn: 478-82-7671
-  dob: 22/12/1988
-  address: 8479 Elm Ave
-  city: San Jose
-  state: NC

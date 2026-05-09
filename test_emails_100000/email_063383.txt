@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Romero
-  email: lisa.romero7647@example.com
-  phone: 417-660-1571
-  ssn: 181-90-4406
-  dob: 6/28/1951
-  address: 462 Maple Way
-  city: San Antonio
-  state: VA

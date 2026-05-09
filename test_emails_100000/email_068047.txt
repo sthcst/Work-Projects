@@ -1,9 +1,0 @@
-contact:
-  name: James Lopez
-  email: james.lopez8645@work.org
-  phone: 957-944-7555
-  ssn: 750 22 5895
-  dob: 11-06-1978
-  address: 4902 Cedar Court
-  city: New York
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: Maria Williams
-  email: maria.williams4647@mail.com
-  phone: 467 277 3878
-  ssn: 512 02 6624
-  dob: 11/22/1980
-  address: 7266 South Court
-  city: San Antonio
-  state: WA

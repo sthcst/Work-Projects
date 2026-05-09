@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Reyes,daniel.reyes6222@work.org,(225) 564-4483,030-29-1133,03/01/1997,"3971 Third Rd",Washington,NJ

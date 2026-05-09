@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Reed
-  email: christopher.reed681@example.com
-  phone: 483-794-1689
-  ssn: 342366629
-  dob: 10-27-1950
-  address: 9462 Fifth Ln
-  city: Boston
-  state: WA

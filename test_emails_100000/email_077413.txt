@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Miller,jason.miller1353@example.com,(450) 950-4368,237 94 6138,11/7/1993,"9866 Summer St",Denver,MD

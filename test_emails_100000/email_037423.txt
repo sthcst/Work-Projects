@@ -1,9 +1,0 @@
-contact:
-  name: Charles Martin
-  email: charles.martin5237@outlook.com
-  phone: (654) 981-6551
-  ssn: 053-50-3422
-  dob: 11-01-1967
-  address: 940 Birch Dr
-  city: Washington
-  state: OH

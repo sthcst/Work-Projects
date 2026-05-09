@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Anderson
-  email: lauren.anderson9151@gmail.com
-  phone: 742 334 2052
-  ssn: 441 16 8740
-  dob: 06-09-1973
-  address: 437 Summer Way
-  city: Phoenix
-  state: OH

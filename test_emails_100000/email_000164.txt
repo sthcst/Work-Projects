@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Edwards
-  email: stephanie.edwards9780@gmail.com
-  phone: 702 786 6866
-  ssn: 075916207
-  dob: 04/06/1983
-  address: 8286 Cedar Way
-  city: Boston
-  state: IL

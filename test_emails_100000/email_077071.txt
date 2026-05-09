@@ -1,9 +1,0 @@
-contact:
-  name: Christine Walker
-  email: christine.walker9375@gmail.com
-  phone: (684) 782-2412
-  ssn: 919 37 9947
-  dob: 02/26/1951
-  address: 6282 East Ln
-  city: Washington
-  state: MI

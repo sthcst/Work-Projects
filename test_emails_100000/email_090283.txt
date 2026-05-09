@@ -1,9 +1,0 @@
-contact:
-  name: Donald Davis
-  email: donald.davis3975@business.net
-  phone: 743 444 4943
-  ssn: 520-04-9111
-  dob: 11-01-1953
-  address: 2731 Second Court
-  city: San Jose
-  state: WI

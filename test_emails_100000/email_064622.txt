@@ -1,9 +1,0 @@
-contact:
-  name: David Nelson
-  email: david.nelson7831@outlook.com
-  phone: 367-919-4359
-  ssn: 856 81 8086
-  dob: 02/02/1994
-  address: 3109 Cedar Ave
-  city: Washington
-  state: TX

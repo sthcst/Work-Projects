@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Jones,david.jones7138@outlook.com,(730) 472-3397,963 58 2026,3/13/2001,"6333 Oak Blvd",Phoenix,TX

@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Wilson
-  email: kimberly.wilson4536@business.net
-  phone: +1 339-628-9959
-  ssn: 297 72 9397
-  dob: 10/08/1957
-  address: 1349 Birch St
-  city: San Diego
-  state: AZ

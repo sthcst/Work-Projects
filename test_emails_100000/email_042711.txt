@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Peterson,william.peterson4254@example.com,(259) 310-6992,200-09-6323,09/22/1990,"8310 Elm Way",Philadelphia,VA

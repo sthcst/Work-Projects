@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Gonzalez,stephanie.gonzalez7808@gmail.com,(341) 646-4242,177788235,11/01/1967,"2379 Pine Ave",Los Angeles,CO

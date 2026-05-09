@@ -1,9 +1,0 @@
-contact:
-  name: Emma Edwards
-  email: emma.edwards7630@mail.com
-  phone: 725-611-8821
-  ssn: 317-79-1313
-  dob: 6/3/1979
-  address: 9690 Fifth St
-  city: Phoenix
-  state: IL

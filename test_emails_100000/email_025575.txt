@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Robinson,helen.robinson6915@company.com,+1 951-585-6861,230 40 5869,03/06/1999,"2613 Sixth Way",Chicago,CA

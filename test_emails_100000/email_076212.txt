@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Jones
-  email: deborah.jones8443@business.net
-  phone: 681 653 9642
-  ssn: 006 83 4223
-  dob: 20/12/1961
-  address: 9812 Third Dr
-  city: San Antonio
-  state: WI

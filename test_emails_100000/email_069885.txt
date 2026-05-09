@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Murillo
-  email: kimberly.murillo7718@outlook.com
-  phone: 688-863-9793
-  ssn: 525238506
-  dob: 12/14/1989
-  address: 602 West St
-  city: Denver
-  state: PA

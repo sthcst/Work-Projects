@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Bell
-  email: joshua.bell7834@outlook.com
-  phone: 441 246 6556
-  ssn: 284-76-3888
-  dob: 03-28-1977
-  address: 3782 Sixth Blvd
-  city: Jacksonville
-  state: VA

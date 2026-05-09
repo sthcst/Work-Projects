@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Rogers
-  email: lisa.rogers8474@example.com
-  phone: (447) 950-5641
-  ssn: 964254791
-  dob: 2/17/1986
-  address: 537 Birch St
-  city: Jacksonville
-  state: CA

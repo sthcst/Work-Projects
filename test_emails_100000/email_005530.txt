@@ -1,9 +1,0 @@
-contact:
-  name: Mark Campbell
-  email: mark.campbell46@gmail.com
-  phone: (863) 846-4062
-  ssn: 253 39 3162
-  dob: 11/24/1992
-  address: 2259 Cedar Dr
-  city: Dallas
-  state: GA

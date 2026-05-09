@@ -1,9 +1,0 @@
-contact:
-  name: George Lewis
-  email: george.lewis5842@mail.com
-  phone: +1 620-616-3526
-  ssn: 059 99 6744
-  dob: 05-15-1964
-  address: 8296 West Blvd
-  city: Jacksonville
-  state: TX

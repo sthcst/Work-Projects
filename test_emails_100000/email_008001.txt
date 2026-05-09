@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Martinez
-  email: kimberly.martinez1761@yahoo.com
-  phone: +1 478-478-1073
-  ssn: 507448128
-  dob: 09/28/1987
-  address: 3866 West St
-  city: Dallas
-  state: MD

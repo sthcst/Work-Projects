@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Miller
-  email: jessica.miller3759@gmail.com
-  phone: +1 208-766-3565
-  ssn: 719405817
-  dob: 10-23-1980
-  address: 2549 West Blvd
-  city: Jacksonville
-  state: VA

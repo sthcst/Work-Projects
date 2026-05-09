@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Dominguez
-  email: rachel.dominguez1940@business.net
-  phone: (274) 665-5846
-  ssn: 873 76 4253
-  dob: 08-18-1999
-  address: 2557 Fifth Dr
-  city: San Antonio
-  state: NJ

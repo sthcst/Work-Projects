@@ -1,9 +1,0 @@
-contact:
-  name: Emily Dominguez
-  email: emily.dominguez8596@gmail.com
-  phone: +1 343-985-4751
-  ssn: 071559171
-  dob: 01-19-1967
-  address: 835 Fourth Ave
-  city: Austin
-  state: MA

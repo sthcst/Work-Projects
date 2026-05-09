@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Taylor,stephanie.taylor5132@work.org,781 453 6525,497-70-9942,01/22/2000,"242 Birch Ln",Philadelphia,MI

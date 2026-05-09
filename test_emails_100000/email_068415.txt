@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Lee
-  email: jessica.lee7293@outlook.com
-  phone: +1 552-501-7150
-  ssn: 635 31 9941
-  dob: 24/11/1990
-  address: 5340 Birch Ln
-  city: Denver
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Roberts,christine.roberts9759@company.com,534-300-5866,238 50 5498,12/01/2000,"5730 South Ln",Phoenix,CA

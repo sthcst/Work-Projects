@@ -1,9 +1,0 @@
-contact:
-  name: Jane Thompson
-  email: jane.thompson4122@company.com
-  phone: (368) 513-2589
-  ssn: 707383094
-  dob: 01-04-1968
-  address: 2134 Oak Blvd
-  city: Chicago
-  state: CO

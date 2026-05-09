@@ -1,9 +1,0 @@
-contact:
-  name: Charles Morgan
-  email: charles.morgan3596@company.com
-  phone: (200) 960-5257
-  ssn: 964085980
-  dob: 25/02/1967
-  address: 7036 West Dr
-  city: San Diego
-  state: FL

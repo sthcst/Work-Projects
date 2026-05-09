@@ -1,9 +1,0 @@
-contact:
-  name: Michael Reed
-  email: michael.reed2595@yahoo.com
-  phone: 313-292-1169
-  ssn: 248-85-1498
-  dob: 16/06/1996
-  address: 8636 Third Rd
-  city: Boston
-  state: FL

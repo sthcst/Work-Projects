@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Gomez,angela.gomez4341@mail.com,(386) 808-3242,864 13 7325,25/11/1973,"9799 South Blvd",Phoenix,TX

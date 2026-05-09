@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Ramirez,nicole.ramirez6117@outlook.com,(859) 244-7282,350 37 2696,04-26-1986,"2153 South Ln",Washington,NJ

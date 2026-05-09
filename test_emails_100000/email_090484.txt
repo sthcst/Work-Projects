@@ -1,9 +1,0 @@
-contact:
-  name: Emma Jimenez
-  email: emma.jimenez4890@example.com
-  phone: 539-364-3581
-  ssn: 631-18-4200
-  dob: 8/28/2000
-  address: 4972 Summer Ave
-  city: New York
-  state: AZ

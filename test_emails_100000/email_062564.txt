@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Lewis
-  email: kevin.lewis933@mail.com
-  phone: (932) 258-8867
-  ssn: 838-08-8764
-  dob: 4/8/1973
-  address: 9705 Summer Dr
-  city: Chicago
-  state: NJ

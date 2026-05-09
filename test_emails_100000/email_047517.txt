@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Martin,gary.martin3116@business.net,642-726-6598,546344998,28/10/1984,"2601 Maple Ave",New York,NJ

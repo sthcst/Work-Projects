@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Clark,kathleen.clark5564@company.com,+1 501-214-8304,321953212,4/23/1971,"3195 Cedar Ave",San Diego,MA

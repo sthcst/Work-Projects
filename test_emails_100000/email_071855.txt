@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Martin
-  email: katherine.martin4603@company.com
-  phone: +1 714-485-9836
-  ssn: 343 99 8253
-  dob: 02/11/1974
-  address: 7413 North Dr
-  city: Denver
-  state: PA

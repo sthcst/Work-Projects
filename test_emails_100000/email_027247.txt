@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Young
-  email: kenneth.young8353@work.org
-  phone: (855) 755-5510
-  ssn: 619961748
-  dob: 20/08/1982
-  address: 5266 Park Way
-  city: Seattle
-  state: AZ

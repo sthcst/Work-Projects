@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Jackson,emily.jackson4004@company.com,359-517-8396,794-55-9613,19/06/1979,"8711 West Way",Phoenix,AZ

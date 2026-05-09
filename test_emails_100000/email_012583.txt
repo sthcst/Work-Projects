@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Rogers,katherine.rogers7543@gmail.com,(387) 584-6728,877421892,03/02/1955,"7260 Elm St",Chicago,IL

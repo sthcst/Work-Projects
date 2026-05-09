@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Cooper
-  email: katherine.cooper8347@outlook.com
-  phone: (208) 780-2612
-  ssn: 073-62-9340
-  dob: 07/01/1985
-  address: 7812 East Blvd
-  city: Houston
-  state: MI

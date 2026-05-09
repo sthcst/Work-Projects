@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Alvarado,sarah.alvarado5975@yahoo.com,942 661 8728,150247493,08/18/1999,"8606 Second Rd",New York,CA

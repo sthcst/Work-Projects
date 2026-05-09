@@ -1,9 +1,0 @@
-contact:
-  name: Steven Perez
-  email: steven.perez9586@yahoo.com
-  phone: 549-654-3101
-  ssn: 483 07 7463
-  dob: 03-23-1953
-  address: 132 Fifth Dr
-  city: Phoenix
-  state: GA

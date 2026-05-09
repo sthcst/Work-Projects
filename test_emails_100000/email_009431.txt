@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Martin
-  email: rebecca.martin3706@gmail.com
-  phone: +1 262-970-5753
-  ssn: 725363582
-  dob: 11/18/1995
-  address: 943 Park Rd
-  city: Denver
-  state: AZ

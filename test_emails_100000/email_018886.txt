@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Rodriguez,maria.rodriguez5673@work.org,959 930 1546,954 06 5644,03/07/1990,"3719 Summer Way",Austin,WI

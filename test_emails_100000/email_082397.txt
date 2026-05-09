@@ -1,9 +1,0 @@
-contact:
-  name: William Johnson
-  email: william.johnson8903@outlook.com
-  phone: +1 639-880-5025
-  ssn: 111838053
-  dob: 12/16/1986
-  address: 2642 Cedar Ln
-  city: San Jose
-  state: OH

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Ramirez,matthew.ramirez4231@gmail.com,893-952-8375,183 56 8492,02-17-1996,"3644 Maple Court",Los Angeles,NY

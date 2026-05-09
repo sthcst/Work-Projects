@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Lee,john.lee86@gmail.com,865-485-5100,890-60-6157,04-14-1974,"9298 East Way",Dallas,GA

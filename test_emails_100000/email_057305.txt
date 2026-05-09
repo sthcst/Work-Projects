@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Rodriguez,joshua.rodriguez1456@example.com,312 833 7998,998 50 3508,10/27/1951,"7805 Pine Court",Boston,PA

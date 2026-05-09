@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Gonzalez,ryan.gonzalez1096@example.com,619-982-4194,797 26 2948,08/12/1952,"4593 Second Ave",Los Angeles,AZ

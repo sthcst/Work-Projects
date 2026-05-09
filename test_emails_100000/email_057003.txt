@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Campbell,jacob.campbell8116@example.com,210-815-1514,512 48 1449,07/08/1963,"6706 Pine Way",Boston,WI

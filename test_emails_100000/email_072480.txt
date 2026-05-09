@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Ortiz,nicole.ortiz5366@business.net,(670) 966-9133,302 14 2414,1/18/1953,"6149 West Court",Philadelphia,CA

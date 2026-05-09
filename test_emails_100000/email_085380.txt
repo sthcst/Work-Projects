@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Ortiz
-  email: sarah.ortiz919@example.com
-  phone: +1 881-456-1332
-  ssn: 399196497
-  dob: 11/14/1977
-  address: 5080 Pine Dr
-  city: Houston
-  state: MA

@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Reyes
-  email: shirley.reyes6793@mail.com
-  phone: +1 537-872-2968
-  ssn: 904102637
-  dob: 08-07-1997
-  address: 8263 Oak Way
-  city: Boston
-  state: CA

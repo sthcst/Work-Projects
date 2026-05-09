@@ -1,9 +1,0 @@
-contact:
-  name: Jason Ortiz
-  email: jason.ortiz6094@company.com
-  phone: 678-821-7572
-  ssn: 275 76 1449
-  dob: 11/03/1982
-  address: 9602 Elm Ln
-  city: Houston
-  state: NJ

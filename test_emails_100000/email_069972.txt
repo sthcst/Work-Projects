@@ -1,9 +1,0 @@
-contact:
-  name: Maria Nelson
-  email: maria.nelson6155@work.org
-  phone: +1 368-966-5197
-  ssn: 193249364
-  dob: 09-18-1969
-  address: 1990 Summer Dr
-  city: Dallas
-  state: FL

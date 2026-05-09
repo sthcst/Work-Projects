@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Cooper
-  email: sarah.cooper7038@business.net
-  phone: 358 632 8550
-  ssn: 966 75 6200
-  dob: 04/27/1992
-  address: 2852 Summer Ave
-  city: Los Angeles
-  state: MA

@@ -1,9 +1,0 @@
-contact:
-  name: Helen Delgado
-  email: helen.delgado3851@company.com
-  phone: 895 794 2469
-  ssn: 390175691
-  dob: 05/12/1975
-  address: 272 South Ln
-  city: Chicago
-  state: MI

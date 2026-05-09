@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Hernandez,kimberly.hernandez8038@outlook.com,(938) 541-7522,321452107,12/15/1954,"1998 Elm Court",Boston,MI

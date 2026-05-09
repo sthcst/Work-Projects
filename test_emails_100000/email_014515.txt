@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Lewis
-  email: matthew.lewis9749@yahoo.com
-  phone: 743-322-6887
-  ssn: 446 08 6476
-  dob: 11/10/1971
-  address: 3511 Main Ave
-  city: Chicago
-  state: CO

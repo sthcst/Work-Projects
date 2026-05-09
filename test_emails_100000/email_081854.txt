@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Moore,katherine.moore3542@mail.com,477-434-5329,456 06 8249,02-28-1977,"5939 Sixth Dr",Denver,MD

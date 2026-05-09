@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Campbell,mark.campbell9756@gmail.com,+1 408-403-6478,708-77-8956,12-23-1950,"1806 Cedar Dr",San Antonio,GA

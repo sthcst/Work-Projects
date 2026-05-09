@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Ortiz
-  email: amanda.ortiz2875@gmail.com
-  phone: +1 587-695-2072
-  ssn: 431 96 7284
-  dob: 27/07/1982
-  address: 6398 Pine Court
-  city: Philadelphia
-  state: PA

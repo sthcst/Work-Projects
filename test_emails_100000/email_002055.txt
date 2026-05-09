@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Collins,amanda.collins1980@gmail.com,(668) 578-8335,778 60 1036,10/13/1992,"6595 Elm Way",Dallas,TX

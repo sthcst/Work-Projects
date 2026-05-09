@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Thompson,gary.thompson2387@business.net,501 813 7070,253 79 1215,02/06/1987,"1042 Pine Blvd",Austin,TX

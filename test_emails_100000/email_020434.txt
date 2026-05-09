@@ -1,9 +1,0 @@
-contact:
-  name: Gary Reeves
-  email: gary.reeves690@outlook.com
-  phone: 381 571 6211
-  ssn: 491846899
-  dob: 11-11-1986
-  address: 4664 North Dr
-  city: Boston
-  state: NC

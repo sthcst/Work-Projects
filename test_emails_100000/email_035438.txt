@@ -1,9 +1,0 @@
-contact:
-  name: Helen Peterson
-  email: helen.peterson4707@company.com
-  phone: 604 496 9273
-  ssn: 855598027
-  dob: 11/28/1984
-  address: 3778 West Blvd
-  city: Los Angeles
-  state: AZ

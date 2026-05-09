@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Perez,daniel.perez2258@gmail.com,956-303-2568,845-79-3009,8/6/2002,"4927 North St",Chicago,TN

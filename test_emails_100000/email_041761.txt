@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Clark,rachel.clark1442@example.com,(728) 518-2785,345 33 2630,19/02/1971,"9183 Sixth Ln",San Jose,MO

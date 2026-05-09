@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Evans,edward.evans9583@mail.com,817 941 3294,604878462,12/12/1951,"4679 Birch St",Phoenix,MA

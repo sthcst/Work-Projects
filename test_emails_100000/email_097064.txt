@@ -1,9 +1,0 @@
-contact:
-  name: David Lopez
-  email: david.lopez6143@company.com
-  phone: (519) 818-9672
-  ssn: 515-86-8633
-  dob: 08-28-2001
-  address: 9630 Summer Way
-  city: Phoenix
-  state: NY

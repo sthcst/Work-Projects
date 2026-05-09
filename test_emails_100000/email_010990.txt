@@ -1,9 +1,0 @@
-contact:
-  name: George Hernandez
-  email: george.hernandez1928@yahoo.com
-  phone: 243-678-9072
-  ssn: 873681766
-  dob: 05-14-1957
-  address: 7889 Spring Court
-  city: San Diego
-  state: TX

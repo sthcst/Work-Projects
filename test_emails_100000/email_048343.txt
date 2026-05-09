@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Gomez,emma.gomez1312@example.com,833-278-5765,683-10-5230,09-17-1984,"1172 West Rd",Los Angeles,OH

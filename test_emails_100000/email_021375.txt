@@ -1,9 +1,0 @@
-contact:
-  name: Angela Jackson
-  email: angela.jackson2776@business.net
-  phone: 860 367 7072
-  ssn: 946-04-2920
-  dob: 06-20-1991
-  address: 752 North Way
-  city: Chicago
-  state: WI

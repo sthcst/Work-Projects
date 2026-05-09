@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Lewis
-  email: pamela.lewis3135@outlook.com
-  phone: +1 225-390-2960
-  ssn: 734-12-8402
-  dob: 13/04/1989
-  address: 9500 Sixth Way
-  city: Washington
-  state: WI

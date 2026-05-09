@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Johnson,jennifer.johnson9341@gmail.com,981 275 9983,061165922,09/20/2003,"5716 Sixth Way",Washington,CA

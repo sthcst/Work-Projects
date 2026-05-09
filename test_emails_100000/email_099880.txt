@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Collins,joseph.collins1506@yahoo.com,(219) 831-2659,664 21 1392,07-11-2000,"6313 Birch Ave",Austin,AZ

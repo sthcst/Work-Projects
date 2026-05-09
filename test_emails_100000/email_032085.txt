@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Davis,ronald.davis3512@mail.com,361-745-3980,042 44 1488,04-07-1953,"8000 Oak Way",Denver,OH

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Peterson,matthew.peterson7047@example.com,(493) 596-8709,484714646,08-06-1967,"6481 Summer Dr",Houston,AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Stewart
-  email: joseph.stewart5390@gmail.com
-  phone: +1 677-237-6480
-  ssn: 722-20-5955
-  dob: 10-18-1955
-  address: 79 East Rd
-  city: Los Angeles
-  state: AZ

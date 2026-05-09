@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Sanchez
-  email: jessica.sanchez6933@yahoo.com
-  phone: +1 555-980-5110
-  ssn: 494828736
-  dob: 7/26/1966
-  address: 725 North St
-  city: Chicago
-  state: VA

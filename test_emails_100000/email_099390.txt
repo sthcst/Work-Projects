@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Walker
-  email: andrew.walker9536@work.org
-  phone: 574 410 5024
-  ssn: 115-07-8183
-  dob: 2/22/1981
-  address: 4463 Oak Ave
-  city: Washington
-  state: MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Campbell,ryan.campbell7731@gmail.com,682-819-5526,222607096,12/19/1967,"1652 East Court",San Diego,WI

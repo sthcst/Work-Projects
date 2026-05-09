@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Edwards,christopher.edwards7360@yahoo.com,(637) 781-9281,053-70-2853,08-23-1957,"2518 West Dr",Seattle,WA

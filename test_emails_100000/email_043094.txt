@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Delgado,daniel.delgado873@business.net,903 242 7346,815899671,05/10/1971,"5310 Birch Dr",Philadelphia,WA

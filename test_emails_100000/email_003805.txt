@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Gonzalez,kathleen.gonzalez7210@yahoo.com,510 727 6768,763 80 1128,02-08-1985,"5473 East Dr",Jacksonville,GA

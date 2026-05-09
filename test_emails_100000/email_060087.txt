@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Jimenez,gary.jimenez2854@yahoo.com,+1 488-667-7614,916 12 9805,03-22-1972,"9053 Elm Ln",Philadelphia,TX

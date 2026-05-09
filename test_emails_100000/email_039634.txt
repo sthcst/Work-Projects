@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Lewis,john.lewis5959@business.net,+1 485-382-9051,460 10 1660,02-19-1971,"3639 Main Way",Washington,IL

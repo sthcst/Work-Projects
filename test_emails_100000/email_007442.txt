@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Alvarado
-  email: daniel.alvarado6991@outlook.com
-  phone: +1 439-877-9981
-  ssn: 006 92 7821
-  dob: 11/25/1997
-  address: 5799 Pine Rd
-  city: San Antonio
-  state: DC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Perez,anna.perez4832@mail.com,+1 539-252-9318,181 33 6747,1/20/1967,"7777 Summer Court",Austin,WA

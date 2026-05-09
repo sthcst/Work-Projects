@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Hall
-  email: sarah.hall6731@work.org
-  phone: 329 261 2386
-  ssn: 580257628
-  dob: 2/9/1980
-  address: 4301 First Ln
-  city: Austin
-  state: IL

@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Smith
-  email: kathleen.smith267@outlook.com
-  phone: 291-504-1191
-  ssn: 335822967
-  dob: 09/09/1994
-  address: 6114 First Rd
-  city: New York
-  state: PA

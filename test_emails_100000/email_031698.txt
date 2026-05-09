@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Morris,emma.morris5700@mail.com,410-221-8599,071717706,04/12/1994,"4683 Fourth Blvd",Jacksonville,WA

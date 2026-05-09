@@ -1,9 +1,0 @@
-contact:
-  name: Charles Davis
-  email: charles.davis6224@gmail.com
-  phone: (834) 467-2346
-  ssn: 777245028
-  dob: 17/08/1984
-  address: 220 West Blvd
-  city: Phoenix
-  state: CA

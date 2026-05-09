@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Nelson
-  email: stephanie.nelson9194@business.net
-  phone: (643) 380-4295
-  ssn: 768-72-9395
-  dob: 07-18-2003
-  address: 55 West Ave
-  city: New York
-  state: TX

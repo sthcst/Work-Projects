@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Carter,pamela.carter3427@yahoo.com,+1 958-480-5063,273267170,7/16/1986,"1181 North Ln",Denver,VA

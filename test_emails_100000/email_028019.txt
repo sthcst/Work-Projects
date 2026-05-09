@@ -1,9 +1,0 @@
-contact:
-  name: Edward Harris
-  email: edward.harris7900@work.org
-  phone: +1 489-373-8367
-  ssn: 471349123
-  dob: 6/28/2003
-  address: 4482 First Dr
-  city: Chicago
-  state: TX

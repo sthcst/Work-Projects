@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Brown,ronald.brown4322@yahoo.com,(742) 898-4864,605304338,08-14-1991,"6603 Main Ave",Austin,FL

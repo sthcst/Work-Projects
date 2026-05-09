@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Brown,helen.brown7533@yahoo.com,743-279-7754,776484277,06-19-1995,"1042 South Ln",Phoenix,CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Brown,angela.brown3245@outlook.com,(877) 734-6178,828 54 6267,5/4/1965,"4886 Park Rd",New York,NC

@@ -1,9 +1,0 @@
-contact:
-  name: William Martin
-  email: william.martin2126@mail.com
-  phone: (407) 878-4086
-  ssn: 399398436
-  dob: 03/13/1970
-  address: 5544 Fourth Court
-  city: Denver
-  state: PA

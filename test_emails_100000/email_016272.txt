@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Jackson
-  email: deborah.jackson3231@gmail.com
-  phone: +1 320-211-9016
-  ssn: 078488176
-  dob: 01-15-1986
-  address: 7390 Cedar Rd
-  city: San Jose
-  state: MO

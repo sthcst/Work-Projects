@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Parker,emily.parker8792@business.net,(829) 204-7246,190-07-5703,01/11/1954,"9821 Maple Ln",Phoenix,VA

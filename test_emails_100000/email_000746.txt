@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Rogers
-  email: jennifer.rogers7431@yahoo.com
-  phone: +1 586-223-4878
-  ssn: 130-03-2425
-  dob: 07-23-1998
-  address: 7457 Third Rd
-  city: Boston
-  state: NY

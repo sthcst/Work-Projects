@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Clark,jennifer.clark2352@gmail.com,565-736-2938,791289872,04-17-1996,"4890 Third Ave",Boston,IL

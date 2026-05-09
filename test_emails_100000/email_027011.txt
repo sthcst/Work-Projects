@@ -1,9 +1,0 @@
-contact:
-  name: James Reyes
-  email: james.reyes1815@gmail.com
-  phone: 342-301-9896
-  ssn: 529-47-7157
-  dob: 28/07/1988
-  address: 1350 South Dr
-  city: Chicago
-  state: CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Davis,samantha.davis2857@company.com,405 385 1361,154908490,03/12/2000,"3030 Pine St",Philadelphia,NC

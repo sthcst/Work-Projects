@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Roberts
-  email: nicholas.roberts677@yahoo.com
-  phone: +1 769-799-4740
-  ssn: 914141108
-  dob: 9/12/1993
-  address: 1358 Summer Ln
-  city: Denver
-  state: PA

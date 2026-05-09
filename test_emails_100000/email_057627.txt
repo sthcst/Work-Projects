@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Guerrero
-  email: kevin.guerrero2186@company.com
-  phone: 642-499-3470
-  ssn: 823268668
-  dob: 12/13/1999
-  address: 6487 Sixth Ave
-  city: San Antonio
-  state: TX

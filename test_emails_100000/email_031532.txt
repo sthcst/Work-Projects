@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Hernandez
-  email: christopher.hernandez2313@business.net
-  phone: +1 204-342-6468
-  ssn: 812 83 7996
-  dob: 10/18/1960
-  address: 2851 Second Ln
-  city: San Antonio
-  state: TN

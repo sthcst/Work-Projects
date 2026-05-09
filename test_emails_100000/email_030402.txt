@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Lewis
-  email: christopher.lewis1079@business.net
-  phone: 439-635-3007
-  ssn: 143-36-2997
-  dob: 10/18/1999
-  address: 4703 Oak Blvd
-  city: Seattle
-  state: TX

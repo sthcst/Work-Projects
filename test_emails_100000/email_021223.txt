@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Johnson
-  email: stephanie.johnson3913@mail.com
-  phone: 507 445 5444
-  ssn: 729-99-1098
-  dob: 01/04/1990
-  address: 6641 Oak Court
-  city: Denver
-  state: PA

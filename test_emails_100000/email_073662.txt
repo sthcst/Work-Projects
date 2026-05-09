@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Perez,matthew.perez2233@mail.com,+1 378-728-8269,307718945,08-01-1984,"1687 Oak Ln",Phoenix,CA

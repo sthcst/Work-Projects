@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Rogers
-  email: christopher.rogers8824@gmail.com
-  phone: 838 401 4881
-  ssn: 162 75 9139
-  dob: 28/10/1991
-  address: 3577 First Way
-  city: Philadelphia
-  state: WA

@@ -1,9 +1,0 @@
-contact:
-  name: Maria Walker
-  email: maria.walker5609@yahoo.com
-  phone: (418) 438-2077
-  ssn: 051-40-3825
-  dob: 05/23/1952
-  address: 4138 Birch Ln
-  city: Boston
-  state: PA

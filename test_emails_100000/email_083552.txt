@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Jackson
-  email: nicholas.jackson53@yahoo.com
-  phone: +1 633-392-8999
-  ssn: 968 22 5192
-  dob: 19/09/1954
-  address: 4578 First Ln
-  city: Chicago
-  state: MD

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Anderson,christine.anderson8488@work.org,+1 567-451-5521,969-89-1920,09-25-1957,"5969 Third Court",New York,MA

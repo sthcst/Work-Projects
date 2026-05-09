@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Phillips,kenneth.phillips2877@yahoo.com,359-242-9648,415 39 4332,09/28/1983,"7260 Sixth Way",Austin,TX

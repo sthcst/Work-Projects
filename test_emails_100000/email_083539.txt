@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Hall,nicholas.hall6957@company.com,362-430-2502,957 42 8160,10/04/1989,"9732 Maple Dr",Chicago,TX

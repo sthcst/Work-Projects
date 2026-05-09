@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Serrano,charles.serrano517@example.com,(483) 377-3169,499-98-4625,09-06-1980,"2483 Oak Dr",Washington,TX

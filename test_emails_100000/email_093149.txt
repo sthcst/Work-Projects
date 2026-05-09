@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Brown,charles.brown1680@gmail.com,272 520 9442,819459762,06-07-1960,"4058 Pine St",San Diego,VA

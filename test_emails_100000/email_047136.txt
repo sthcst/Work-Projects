@@ -1,9 +1,0 @@
-contact:
-  name: Jason Guerrero
-  email: jason.guerrero8338@example.com
-  phone: (597) 767-9569
-  ssn: 360-36-2168
-  dob: 10/11/1959
-  address: 269 Spring Blvd
-  city: Washington
-  state: WA

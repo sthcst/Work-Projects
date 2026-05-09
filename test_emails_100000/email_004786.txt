@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Nunez,brian.nunez8308@yahoo.com,427 720 3763,381 41 4682,26/07/1955,"9686 North St",Los Angeles,TX

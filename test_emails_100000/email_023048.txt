@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Miller,steven.miller8018@mail.com,(889) 617-8504,240 85 2622,09-19-1962,"6728 North Blvd",Boston,CA

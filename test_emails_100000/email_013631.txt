@@ -1,9 +1,0 @@
-contact:
-  name: Maria Dominguez
-  email: maria.dominguez7766@company.com
-  phone: 771 604 9307
-  ssn: 533-86-8700
-  dob: 03/10/1962
-  address: 4357 Oak St
-  city: Houston
-  state: TN

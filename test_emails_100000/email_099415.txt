@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Reed
-  email: katherine.reed9204@example.com
-  phone: 966 268 7059
-  ssn: 223-01-7900
-  dob: 10-21-1998
-  address: 2712 Summer St
-  city: Seattle
-  state: WI

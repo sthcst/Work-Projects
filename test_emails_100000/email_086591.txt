@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Reed
-  email: jennifer.reed6135@gmail.com
-  phone: 450 467 9467
-  ssn: 551-05-6737
-  dob: 02/20/1965
-  address: 2656 Pine St
-  city: Phoenix
-  state: PA

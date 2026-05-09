@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Lewis,george.lewis1315@company.com,+1 431-568-4712,252941434,15/06/1957,"9166 Main Blvd",Jacksonville,NJ

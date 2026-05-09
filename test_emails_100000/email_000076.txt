@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Taylor
-  email: amanda.taylor1585@business.net
-  phone: 547 771 6990
-  ssn: 774194261
-  dob: 09/13/1982
-  address: 752 Oak Rd
-  city: Austin
-  state: MA

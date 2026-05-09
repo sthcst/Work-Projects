@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Ortiz,samantha.ortiz6700@company.com,412 891 2051,719-80-2220,01-07-1981,"2031 Elm Ave",Seattle,OH

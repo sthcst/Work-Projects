@@ -1,9 +1,0 @@
-contact:
-  name: George Dominguez
-  email: george.dominguez554@example.com
-  phone: 233 223 7663
-  ssn: 251466156
-  dob: 04/16/1962
-  address: 9657 East Dr
-  city: Denver
-  state: OH

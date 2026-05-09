@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Jones,amanda.jones7808@gmail.com,(200) 920-2573,187983030,3/27/1959,"4779 South Ln",Chicago,PA

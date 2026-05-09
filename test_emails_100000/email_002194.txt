@@ -1,9 +1,0 @@
-contact:
-  name: Paul Gomez
-  email: paul.gomez5822@work.org
-  phone: +1 522-762-4930
-  ssn: 657-29-6677
-  dob: 22/02/1988
-  address: 12 East Dr
-  city: New York
-  state: CO

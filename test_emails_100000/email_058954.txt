@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Gonzalez
-  email: christopher.gonzalez9993@business.net
-  phone: +1 416-869-5562
-  ssn: 103-40-2787
-  dob: 09/27/1953
-  address: 8981 West Way
-  city: Seattle
-  state: IL

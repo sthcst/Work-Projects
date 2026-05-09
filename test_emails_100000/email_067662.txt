@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Edwards,christopher.edwards8533@gmail.com,678-423-4248,965747435,11/15/1981,"3952 West Court",Dallas,CA

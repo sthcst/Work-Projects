@@ -1,9 +1,0 @@
-contact:
-  name: Jane Reyes
-  email: jane.reyes1646@company.com
-  phone: 636-769-5353
-  ssn: 715 94 3585
-  dob: 01-13-1996
-  address: 3213 Pine Court
-  city: Austin
-  state: DC

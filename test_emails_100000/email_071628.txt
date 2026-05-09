@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Jackson
-  email: daniel.jackson4412@mail.com
-  phone: (676) 766-6032
-  ssn: 178-86-2921
-  dob: 7/27/1962
-  address: 8621 Fourth Rd
-  city: San Antonio
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Robinson,andrew.robinson1978@company.com,445-582-3932,793 76 6089,3/21/2003,"9439 Main St",Boston,WA

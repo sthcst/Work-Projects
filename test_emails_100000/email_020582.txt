@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Bell,james.bell4625@mail.com,467-622-9181,105-27-7168,9/6/1999,"1572 Spring St",Boston,TX

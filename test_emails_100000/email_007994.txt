@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Hall,katherine.hall9669@work.org,(645) 273-7773,804 12 9419,09/06/1951,"3529 Birch Dr",Phoenix,AZ

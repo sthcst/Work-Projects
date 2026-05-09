@@ -1,9 +1,0 @@
-contact:
-  name: Mark Jones
-  email: mark.jones3535@work.org
-  phone: 448-518-1159
-  ssn: 158 17 5570
-  dob: 17/06/1977
-  address: 8100 Oak Rd
-  city: Los Angeles
-  state: WA

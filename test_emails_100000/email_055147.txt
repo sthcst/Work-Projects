@@ -1,9 +1,0 @@
-contact:
-  name: Angela Campbell
-  email: angela.campbell8414@mail.com
-  phone: +1 806-846-1939
-  ssn: 044-84-1946
-  dob: 12/07/1980
-  address: 9306 Third Rd
-  city: Seattle
-  state: WA

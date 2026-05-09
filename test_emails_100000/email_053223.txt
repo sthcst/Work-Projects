@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Edwards
-  email: kathleen.edwards4412@work.org
-  phone: (394) 396-4104
-  ssn: 509-84-7287
-  dob: 6/23/1951
-  address: 8056 Summer Rd
-  city: Boston
-  state: NJ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Taylor,robert.taylor8956@company.com,(946) 513-9115,883311924,03-21-1993,"1084 Fifth Dr",Houston,FL

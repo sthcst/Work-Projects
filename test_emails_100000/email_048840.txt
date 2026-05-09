@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Romero
-  email: katherine.romero730@company.com
-  phone: 858-934-8174
-  ssn: 650-86-2600
-  dob: 01-01-1952
-  address: 3498 Sixth Way
-  city: Boston
-  state: WA

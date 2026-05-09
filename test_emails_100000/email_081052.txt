@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Campbell
-  email: matthew.campbell4565@work.org
-  phone: 864 910 2820
-  ssn: 884-42-9260
-  dob: 12/20/1966
-  address: 2026 Fifth Ave
-  city: Phoenix
-  state: PA

@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Martin
-  email: jeffrey.martin8838@gmail.com
-  phone: 428-862-5186
-  ssn: 701629584
-  dob: 8/7/1986
-  address: 1743 Park Way
-  city: Houston
-  state: PA

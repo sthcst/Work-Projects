@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Cooper,donald.cooper1768@yahoo.com,(608) 216-7921,614033425,04-26-1964,"7496 South Blvd",Denver,CO

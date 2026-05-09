@@ -1,9 +1,0 @@
-contact:
-  name: Helen Murillo
-  email: helen.murillo639@mail.com
-  phone: (748) 402-4720
-  ssn: 876-54-1697
-  dob: 10/10/1996
-  address: 8653 Birch Ln
-  city: Los Angeles
-  state: MD

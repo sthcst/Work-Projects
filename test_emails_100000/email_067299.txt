@@ -1,9 +1,0 @@
-contact:
-  name: James Gomez
-  email: james.gomez4110@work.org
-  phone: (539) 704-2530
-  ssn: 197-06-9047
-  dob: 04-14-1986
-  address: 3725 Birch Rd
-  city: Jacksonville
-  state: NJ

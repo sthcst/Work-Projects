@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Morgan,anthony.morgan9283@yahoo.com,935 711 3150,956 99 9920,07-07-1982,"5367 South Way",Seattle,PA

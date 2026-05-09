@@ -1,9 +1,0 @@
-contact:
-  name: Gary Morris
-  email: gary.morris7873@example.com
-  phone: 426 472 2832
-  ssn: 603447116
-  dob: 03-03-1957
-  address: 7621 East Blvd
-  city: Seattle
-  state: NC

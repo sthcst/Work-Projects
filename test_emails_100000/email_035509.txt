@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Clark,pamela.clark9243@gmail.com,789 322 9242,698045767,07/12/1959,"9882 Pine Dr",New York,TX

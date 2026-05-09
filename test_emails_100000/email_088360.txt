@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Ortiz,ryan.ortiz2744@mail.com,(612) 342-3657,598-79-7699,10-19-1978,"6207 Fourth Way",Philadelphia,WA

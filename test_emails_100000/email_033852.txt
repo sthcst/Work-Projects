@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Smith
-  email: lauren.smith2479@yahoo.com
-  phone: 941 670 3648
-  ssn: 764 48 3211
-  dob: 09/17/1974
-  address: 2326 Fifth Ave
-  city: New York
-  state: TN

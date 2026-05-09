@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Reed
-  email: deborah.reed1445@gmail.com
-  phone: 483 775 5135
-  ssn: 877-11-8768
-  dob: 11/09/1950
-  address: 6115 Pine Court
-  city: Los Angeles
-  state: CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Morris,edward.morris3290@yahoo.com,576 937 3192,500467952,09/08/1968,"5353 Fourth Rd",San Antonio,DC

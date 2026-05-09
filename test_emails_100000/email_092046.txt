@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Gomez,katherine.gomez2599@business.net,+1 768-694-6892,492969771,03/06/1978,"4320 Oak Way",Austin,AZ

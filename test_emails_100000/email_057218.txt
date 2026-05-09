@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Reed
-  email: joshua.reed8074@yahoo.com
-  phone: (693) 569-2414
-  ssn: 715758538
-  dob: 04/01/1996
-  address: 1656 Sixth Ave
-  city: Seattle
-  state: PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Rodriguez,joshua.rodriguez3340@gmail.com,892-763-1353,693537793,7/11/1953,"6187 First Way",Los Angeles,OH

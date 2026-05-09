@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Perez,christopher.perez1564@yahoo.com,478 675 6467,178847291,09-11-1990,"7482 Fourth Blvd",Seattle,NC

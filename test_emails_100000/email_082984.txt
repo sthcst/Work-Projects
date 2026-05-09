@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Jones,jessica.jones8497@work.org,+1 485-463-7644,994-88-5825,12-09-1960,"1547 Spring St",Denver,AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Jackson
-  email: matthew.jackson8884@outlook.com
-  phone: +1 705-881-7785
-  ssn: 006-25-3442
-  dob: 6/10/1975
-  address: 2086 Summer Rd
-  city: Denver
-  state: NC

@@ -1,9 +1,0 @@
-contact:
-  name: Brian Taylor
-  email: brian.taylor6105@outlook.com
-  phone: 641 213 9382
-  ssn: 525389004
-  dob: 11/01/1981
-  address: 1812 First Way
-  city: San Antonio
-  state: MA

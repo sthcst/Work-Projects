@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Hall
-  email: kenneth.hall3169@mail.com
-  phone: 674 521 4719
-  ssn: 558713557
-  dob: 13/11/2002
-  address: 736 Oak St
-  city: Dallas
-  state: VA

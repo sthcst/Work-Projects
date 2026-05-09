@@ -1,9 +1,0 @@
-contact:
-  name: James Martin
-  email: james.martin6250@yahoo.com
-  phone: 505-795-5814
-  ssn: 997183254
-  dob: 08-10-2000
-  address: 3564 Elm Blvd
-  city: Washington
-  state: PA

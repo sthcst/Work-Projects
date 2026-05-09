@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Ortiz,john.ortiz7003@yahoo.com,733 991 7342,543538190,06-17-2000,"1384 Main Rd",San Jose,NC

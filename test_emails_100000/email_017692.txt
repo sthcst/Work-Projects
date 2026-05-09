@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Thomas
-  email: pamela.thomas5606@outlook.com
-  phone: 412-361-7372
-  ssn: 954-63-7346
-  dob: 07-23-1978
-  address: 8554 Maple Court
-  city: New York
-  state: NY

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Reeves,katherine.reeves9514@company.com,+1 809-690-6891,222886892,12/2/1972,"282 North Court",New York,TX

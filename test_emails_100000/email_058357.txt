@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Peterson,william.peterson1436@business.net,(222) 708-3518,299 06 1731,13/06/1969,"64 Park Blvd",Seattle,IL

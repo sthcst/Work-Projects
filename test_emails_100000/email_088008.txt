@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Parker,jacob.parker7727@business.net,750-653-3033,343-56-5681,21/02/1977,"9349 Park St",Boston,TX

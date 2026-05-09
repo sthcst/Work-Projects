@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Campbell
-  email: ryan.campbell9024@work.org
-  phone: 599-463-5888
-  ssn: 356-52-1472
-  dob: 01-02-2000
-  address: 3414 Park Ave
-  city: Denver
-  state: CA

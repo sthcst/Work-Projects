@@ -1,9 +1,0 @@
-contact:
-  name: Emma Brown
-  email: emma.brown5692@business.net
-  phone: (581) 203-2377
-  ssn: 615788992
-  dob: 04/06/2004
-  address: 8136 Pine Blvd
-  city: Washington
-  state: TX

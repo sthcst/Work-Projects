@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Guerrero,christopher.guerrero1674@example.com,+1 644-289-1019,980 74 8473,05-01-1967,"1070 Maple Ave",San Diego,MA

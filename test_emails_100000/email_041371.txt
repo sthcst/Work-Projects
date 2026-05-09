@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Moore
-  email: katherine.moore7796@business.net
-  phone: 982-749-4055
-  ssn: 358 62 3349
-  dob: 1/18/1974
-  address: 9786 North Ln
-  city: Washington
-  state: MD

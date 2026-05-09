@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Morgan,donald.morgan5607@work.org,925-427-7411,258568260,15/05/1974,"3136 Cedar Court",San Antonio,MD

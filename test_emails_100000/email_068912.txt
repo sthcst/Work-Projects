@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Williams,emma.williams3617@business.net,624 858 2764,912-63-5282,02-11-1972,"2282 South Ln",Philadelphia,NC

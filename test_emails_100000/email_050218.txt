@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Rodriguez
-  email: ryan.rodriguez794@company.com
-  phone: 866-356-4677
-  ssn: 581 70 3891
-  dob: 04/12/1978
-  address: 2931 Sixth Way
-  city: New York
-  state: TX

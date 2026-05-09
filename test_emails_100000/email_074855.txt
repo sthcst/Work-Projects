@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Jackson,deborah.jackson9952@yahoo.com,+1 360-939-9915,985-53-7514,17/02/1998,"3347 East Court",San Diego,TX

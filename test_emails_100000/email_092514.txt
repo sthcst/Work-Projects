@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Cooper
-  email: andrew.cooper4582@work.org
-  phone: (418) 352-6558
-  ssn: 780 76 2718
-  dob: 11/23/1962
-  address: 3731 Pine St
-  city: San Diego
-  state: NC

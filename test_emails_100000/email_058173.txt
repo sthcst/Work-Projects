@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Delgado
-  email: andrew.delgado9108@gmail.com
-  phone: +1 303-371-1578
-  ssn: 538266659
-  dob: 02/07/1972
-  address: 1571 Oak Rd
-  city: Dallas
-  state: TN

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Jackson,joseph.jackson305@outlook.com,405-581-4898,021 86 7072,02/13/1964,"5550 Fifth Court",Austin,PA

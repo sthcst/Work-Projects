@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Thompson,jacob.thompson7168@mail.com,440-509-6464,269 23 6759,10/27/1995,"171 Elm Ln",Philadelphia,NC

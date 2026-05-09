@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Nunez
-  email: joseph.nunez53@outlook.com
-  phone: +1 857-888-8114
-  ssn: 491765897
-  dob: 12/11/1973
-  address: 5660 Fifth Ln
-  city: Phoenix
-  state: CA

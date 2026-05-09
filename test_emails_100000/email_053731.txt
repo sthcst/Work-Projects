@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Young,william.young8210@mail.com,643-745-3409,172-40-7015,11/09/1958,"3332 Park Ln",San Jose,CO

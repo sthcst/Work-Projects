@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Guerrero
-  email: rebecca.guerrero5825@yahoo.com
-  phone: 221 298 5907
-  ssn: 934152212
-  dob: 05-27-2000
-  address: 125 Spring Ave
-  city: Phoenix
-  state: MI

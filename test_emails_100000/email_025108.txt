@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria White,maria.white6980@work.org,671 610 9725,946 20 5959,9/2/1978,"282 South Blvd",Phoenix,VA

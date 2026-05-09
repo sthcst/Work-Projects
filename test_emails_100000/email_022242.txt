@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Martin,ronald.martin3557@example.com,+1 978-415-4511,237198171,03-07-1995,"9383 Summer Dr",New York,AZ

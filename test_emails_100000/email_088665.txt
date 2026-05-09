@@ -1,9 +1,0 @@
-contact:
-  name: Angela Peterson
-  email: angela.peterson1528@business.net
-  phone: 232-644-5159
-  ssn: 386 29 3021
-  dob: 28/11/2003
-  address: 4318 Elm Blvd
-  city: Boston
-  state: CA

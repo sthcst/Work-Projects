@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Campbell
-  email: matthew.campbell3327@business.net
-  phone: 462 414 3867
-  ssn: 546071630
-  dob: 05-05-1993
-  address: 4987 Spring Ln
-  city: Los Angeles
-  state: WA

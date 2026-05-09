@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Brown,george.brown7773@example.com,+1 341-545-3285,323 88 1811,14/10/1965,"4052 Third Way",Boston,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Taylor,nicholas.taylor4143@example.com,942 625 5743,262 77 3175,12-01-1960,"662 Main Ave",San Antonio,IL

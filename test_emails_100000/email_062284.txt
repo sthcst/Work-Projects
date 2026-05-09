@@ -1,9 +1,0 @@
-contact:
-  name: Jason Brown
-  email: jason.brown5273@yahoo.com
-  phone: 984 896 5125
-  ssn: 284696486
-  dob: 11/14/2002
-  address: 3909 Summer Rd
-  city: New York
-  state: WI

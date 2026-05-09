@@ -1,9 +1,0 @@
-contact:
-  name: Charles Reed
-  email: charles.reed5931@example.com
-  phone: 895 920 1231
-  ssn: 588 34 8724
-  dob: 03/10/1960
-  address: 4048 South Way
-  city: Boston
-  state: AZ

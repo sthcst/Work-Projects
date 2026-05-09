@@ -1,9 +1,0 @@
-contact:
-  name: Donald Cooper
-  email: donald.cooper5737@mail.com
-  phone: (589) 866-4954
-  ssn: 788-94-7442
-  dob: 04/05/1998
-  address: 1135 Fifth Court
-  city: San Diego
-  state: WA

@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Nelson
-  email: ronald.nelson291@gmail.com
-  phone: +1 322-335-7402
-  ssn: 028057385
-  dob: 07/27/1960
-  address: 6665 West Ln
-  city: Austin
-  state: MI

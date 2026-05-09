@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Wilson,john.wilson6870@gmail.com,+1 971-236-2698,752366964,9/11/2005,"7432 First Dr",San Diego,NC

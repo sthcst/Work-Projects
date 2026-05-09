@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Matthew Ramirez,matthew.ramirez7830@example.com,(393) 463-1740,659681493,10/26/1967,"6530 East Blvd",San Antonio,WI

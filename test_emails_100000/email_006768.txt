@@ -1,9 +1,0 @@
-contact:
-  name: Steven Dominguez
-  email: steven.dominguez7326@business.net
-  phone: +1 296-400-2101
-  ssn: 147481354
-  dob: 09-25-1976
-  address: 3798 Fourth Rd
-  city: New York
-  state: GA

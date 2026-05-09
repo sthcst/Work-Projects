@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Smith
-  email: katherine.smith8127@company.com
-  phone: (894) 281-4848
-  ssn: 131-80-5980
-  dob: 03-22-1980
-  address: 9644 Summer Rd
-  city: Jacksonville
-  state: MD

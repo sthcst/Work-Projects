@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Alvarado,jennifer.alvarado9144@outlook.com,404 230 6087,259787284,05/07/1956,"9940 First Rd",Boston,PA

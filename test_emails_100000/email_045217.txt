@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Harris,anthony.harris3216@business.net,(233) 503-4737,514 13 5715,11/21/1986,"8915 Sixth Ave",Houston,FL

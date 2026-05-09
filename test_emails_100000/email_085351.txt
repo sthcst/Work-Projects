@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Jackson
-  email: rachel.jackson3395@example.com
-  phone: (707) 541-1618
-  ssn: 439716113
-  dob: 03-26-1994
-  address: 4364 Pine Blvd
-  city: Dallas
-  state: MA

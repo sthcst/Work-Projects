@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Taylor
-  email: matthew.taylor7007@work.org
-  phone: 257-901-2857
-  ssn: 004-59-7870
-  dob: 04/05/2001
-  address: 3936 Oak Court
-  city: Boston
-  state: TX

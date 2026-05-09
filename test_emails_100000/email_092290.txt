@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Martinez
-  email: shirley.martinez1798@company.com
-  phone: 430 393 7327
-  ssn: 026 01 5990
-  dob: 06/05/1950
-  address: 428 Birch Way
-  city: Washington
-  state: MA

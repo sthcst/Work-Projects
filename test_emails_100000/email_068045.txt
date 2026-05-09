@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Nelson,timothy.nelson8692@outlook.com,(612) 570-9887,439-16-3482,06-08-1964,"4277 Summer Ave",Denver,CO

@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Harris
-  email: jennifer.harris1094@yahoo.com
-  phone: (500) 803-4448
-  ssn: 836-20-2936
-  dob: 16/01/1988
-  address: 4149 Spring Court
-  city: Chicago
-  state: WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Stewart,kathleen.stewart1837@example.com,817-326-8586,628177675,18/09/1974,"5442 Fifth Ln",New York,CO

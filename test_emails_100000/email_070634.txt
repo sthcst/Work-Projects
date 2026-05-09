@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Gonzalez
-  email: rebecca.gonzalez8731@example.com
-  phone: 838-349-2026
-  ssn: 132683085
-  dob: 04-13-1982
-  address: 521 West St
-  city: Denver
-  state: TN

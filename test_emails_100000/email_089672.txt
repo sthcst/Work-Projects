@@ -1,9 +1,0 @@
-contact:
-  name: Angela Peterson
-  email: angela.peterson7424@business.net
-  phone: 553 236 3629
-  ssn: 373 97 6816
-  dob: 06/14/1990
-  address: 1820 Oak Ave
-  city: San Diego
-  state: PA

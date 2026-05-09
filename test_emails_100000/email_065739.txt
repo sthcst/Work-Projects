@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Collins,kenneth.collins5370@business.net,933-570-4160,099-03-9477,08/13/1981,"5403 North Dr",Boston,NJ

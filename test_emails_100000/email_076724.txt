@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Evans
-  email: brenda.evans6183@business.net
-  phone: +1 430-324-6018
-  ssn: 777 99 9847
-  dob: 08/05/1965
-  address: 9394 West St
-  city: Jacksonville
-  state: CA

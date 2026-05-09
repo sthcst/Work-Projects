@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Martinez,mark.martinez5234@outlook.com,915 959 9876,941-26-9300,6/23/2000,"6092 Maple Court",Boston,IL

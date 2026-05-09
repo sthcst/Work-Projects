@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Sanchez
-  email: matthew.sanchez8197@yahoo.com
-  phone: 369 785 6422
-  ssn: 236 45 2302
-  dob: 02-10-1970
-  address: 4384 Maple Dr
-  city: Phoenix
-  state: TN

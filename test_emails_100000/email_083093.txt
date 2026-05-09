@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Lewis,lisa.lewis9812@business.net,+1 998-636-5478,658697264,02/22/1991,"8823 Birch Rd",Phoenix,TX

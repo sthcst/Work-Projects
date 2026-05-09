@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Carter,stephanie.carter2236@mail.com,+1 805-436-6960,804-58-8165,06-06-1991,"5135 Second Rd",Philadelphia,WA

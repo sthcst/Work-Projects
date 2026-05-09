@@ -1,9 +1,0 @@
-contact:
-  name: William Edwards
-  email: william.edwards4975@outlook.com
-  phone: (939) 603-8908
-  ssn: 208872489
-  dob: 01/10/1991
-  address: 8891 Pine Blvd
-  city: Boston
-  state: CA

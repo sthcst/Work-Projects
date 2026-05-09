@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Evans
-  email: matthew.evans2798@business.net
-  phone: +1 712-919-1630
-  ssn: 616-50-8888
-  dob: 1/20/1959
-  address: 5116 Spring Ln
-  city: Jacksonville
-  state: CA

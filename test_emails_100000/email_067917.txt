@@ -1,9 +1,0 @@
-contact:
-  name: James Garcia
-  email: james.garcia5119@gmail.com
-  phone: (917) 485-8554
-  ssn: 453214601
-  dob: 12/22/2002
-  address: 6080 Park Ln
-  city: Austin
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Evans
-  email: ryan.evans4665@business.net
-  phone: +1 286-923-6153
-  ssn: 379-84-8703
-  dob: 06-24-1984
-  address: 8423 Fifth Ln
-  city: San Antonio
-  state: TX

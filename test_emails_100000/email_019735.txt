@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Davis,anna.davis4887@work.org,307-370-2481,750939217,10-26-1983,"6252 Pine Way",Jacksonville,FL

@@ -1,9 +1,0 @@
-contact:
-  name: Robert Edwards
-  email: robert.edwards9419@gmail.com
-  phone: (642) 835-4628
-  ssn: 448 25 2114
-  dob: 01/07/1950
-  address: 7721 West St
-  city: Washington
-  state: NY

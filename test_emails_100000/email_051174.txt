@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Clark,katherine.clark7773@gmail.com,503-324-3350,072 09 4496,11/07/2003,"1803 Spring Blvd",Washington,TX

@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Martinez
-  email: brenda.martinez167@business.net
-  phone: 824 334 7359
-  ssn: 855799351
-  dob: 11/14/1986
-  address: 7900 Fifth Dr
-  city: Los Angeles
-  state: TX

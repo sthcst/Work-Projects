@@ -1,9 +1,0 @@
-contact:
-  name: Jason Collins
-  email: jason.collins1407@yahoo.com
-  phone: 784 902 2610
-  ssn: 474-18-6064
-  dob: 12/08/1950
-  address: 7012 Pine Blvd
-  city: Seattle
-  state: OH

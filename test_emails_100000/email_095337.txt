@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Clark,daniel.clark7747@mail.com,265-706-6944,523754622,9/16/2004,"2891 Park Dr",New York,WA

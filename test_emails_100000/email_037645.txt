@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Harris,samantha.harris8042@example.com,593-779-7513,179134471,11/03/1985,"7972 Sixth Court",Jacksonville,CA

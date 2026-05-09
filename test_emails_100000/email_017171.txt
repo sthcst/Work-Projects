@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Reeves
-  email: nicholas.reeves8674@gmail.com
-  phone: 233-998-6989
-  ssn: 992073054
-  dob: 11/04/1966
-  address: 955 Oak St
-  city: San Antonio
-  state: MA

@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Flores
-  email: cynthia.flores3904@gmail.com
-  phone: 973-476-9064
-  ssn: 501-71-7773
-  dob: 12/21/1996
-  address: 3042 East Ln
-  city: Philadelphia
-  state: CO

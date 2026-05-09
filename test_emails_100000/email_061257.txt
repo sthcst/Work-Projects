@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Dominguez
-  email: jennifer.dominguez9101@work.org
-  phone: +1 869-672-9208
-  ssn: 479 55 3538
-  dob: 25/05/1974
-  address: 2337 Sixth Rd
-  city: San Antonio
-  state: WI

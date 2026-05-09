@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Clark
-  email: rachel.clark2873@example.com
-  phone: 219-204-6910
-  ssn: 742 75 8298
-  dob: 7/24/1962
-  address: 985 Oak Dr
-  city: Jacksonville
-  state: WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Roberts,emma.roberts8771@work.org,653 449 6386,795-91-8481,2/2/1982,"6359 Oak Ln",Dallas,TX

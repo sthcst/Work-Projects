@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Lopez,andrew.lopez6690@work.org,+1 609-815-9686,322061378,1/11/1969,"5999 Main Ave",Boston,MA

@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Martin
-  email: anthony.martin8799@gmail.com
-  phone: 472 551 4031
-  ssn: 378777617
-  dob: 16/11/1997
-  address: 5337 Summer Ln
-  city: Denver
-  state: WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Jones,jason.jones4263@yahoo.com,+1 949-777-2900,114445723,03-02-2000,"4080 Cedar Blvd",Washington,MA

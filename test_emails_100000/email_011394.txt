@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Rodriguez,charles.rodriguez3083@yahoo.com,+1 891-224-2994,692 76 2187,08/27/1953,"2553 Third St",Boston,MI

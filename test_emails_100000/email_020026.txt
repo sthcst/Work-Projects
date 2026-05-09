@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Romero
-  email: joseph.romero8523@example.com
-  phone: 924-318-5528
-  ssn: 402 51 3323
-  dob: 25/02/1954
-  address: 4501 Second Court
-  city: Denver
-  state: FL

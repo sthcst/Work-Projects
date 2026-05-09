@@ -1,9 +1,0 @@
-contact:
-  name: Donald Nelson
-  email: donald.nelson737@yahoo.com
-  phone: +1 901-297-1812
-  ssn: 188 32 2530
-  dob: 01/05/1963
-  address: 8534 Third Dr
-  city: Boston
-  state: NJ

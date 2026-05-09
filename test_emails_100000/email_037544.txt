@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Murillo,cynthia.murillo118@yahoo.com,391-659-7044,702862498,08-26-1967,"6804 Second Dr",Austin,WA

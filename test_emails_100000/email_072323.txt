@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Jimenez,rebecca.jimenez7738@business.net,875 677 1285,523219386,02-18-1980,"3606 Pine Rd",Phoenix,WA

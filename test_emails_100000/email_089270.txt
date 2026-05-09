@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Alvarado,ryan.alvarado8771@example.com,(704) 513-1702,701556554,2/22/1977,"8232 Third St",Phoenix,WI

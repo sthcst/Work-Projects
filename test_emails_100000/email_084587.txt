@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Miller,timothy.miller3535@yahoo.com,+1 385-796-2679,406299922,02-16-1986,"6632 Second Rd",Chicago,TN

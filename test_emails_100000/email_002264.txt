@@ -1,9 +1,0 @@
-contact:
-  name: Jane Hernandez
-  email: jane.hernandez1535@company.com
-  phone: (311) 563-2278
-  ssn: 595 20 8636
-  dob: 3/9/1968
-  address: 7354 West Dr
-  city: Austin
-  state: MA

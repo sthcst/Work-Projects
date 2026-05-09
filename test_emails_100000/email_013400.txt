@@ -1,9 +1,0 @@
-contact:
-  name: Steven Clark
-  email: steven.clark9569@yahoo.com
-  phone: (726) 676-9026
-  ssn: 690 38 7293
-  dob: 02/11/1956
-  address: 3427 Park Blvd
-  city: Philadelphia
-  state: AZ

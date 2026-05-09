@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Harris
-  email: pamela.harris8658@example.com
-  phone: 273-501-9537
-  ssn: 999-31-6337
-  dob: 13/07/1976
-  address: 5077 Cedar Blvd
-  city: Houston
-  state: TX

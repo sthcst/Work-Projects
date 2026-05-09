@@ -1,9 +1,0 @@
-contact:
-  name: Donald Gomez
-  email: donald.gomez2075@yahoo.com
-  phone: +1 749-462-1347
-  ssn: 816331432
-  dob: 09-11-1987
-  address: 2012 Birch Ave
-  city: San Antonio
-  state: NY

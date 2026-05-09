@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Gonzalez,jeffrey.gonzalez8037@yahoo.com,897 893 4235,170527964,06/18/2001,"6747 Summer Ln",Austin,CA

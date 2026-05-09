@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Martin
-  email: shirley.martin6514@outlook.com
-  phone: (676) 827-1860
-  ssn: 391916038
-  dob: 1/1/1971
-  address: 6271 Elm Ave
-  city: Boston
-  state: WA

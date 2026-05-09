@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Jones,angela.jones8908@example.com,(949) 730-5162,218 22 7472,24/03/2000,"6826 Sixth Ave",Dallas,MA

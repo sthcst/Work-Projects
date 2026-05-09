@@ -1,9 +1,0 @@
-contact:
-  name: Jason Parker
-  email: jason.parker975@business.net
-  phone: 528-850-1335
-  ssn: 651 36 1700
-  dob: 01-01-1982
-  address: 9326 Birch Dr
-  city: Denver
-  state: FL

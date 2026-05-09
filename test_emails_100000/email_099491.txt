@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Hernandez,lauren.hernandez5177@mail.com,+1 314-443-9759,379 87 1096,22/09/1976,"5140 Spring St",Washington,MO

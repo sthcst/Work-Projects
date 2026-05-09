@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Johnson,rebecca.johnson1015@outlook.com,+1 445-322-2990,705938896,08/20/1995,"1003 Fifth Ave",New York,MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Cooper,jason.cooper8837@company.com,358 388 2853,172292880,02-03-1962,"6971 First Blvd",Boston,MO

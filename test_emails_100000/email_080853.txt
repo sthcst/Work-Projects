@@ -1,9 +1,0 @@
-contact:
-  name: John Rodriguez
-  email: john.rodriguez6607@business.net
-  phone: +1 584-510-1105
-  ssn: 677 60 1705
-  dob: 13/12/2001
-  address: 4475 Oak Dr
-  city: Seattle
-  state: CO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Dominguez,james.dominguez2323@business.net,+1 266-639-5585,563256843,6/21/1968,"5058 Maple Ave",Washington,OH

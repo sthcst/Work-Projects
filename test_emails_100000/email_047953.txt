@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Nelson
-  email: joseph.nelson6428@company.com
-  phone: (503) 834-9242
-  ssn: 982 91 2921
-  dob: 06-22-1994
-  address: 784 Main Court
-  city: Boston
-  state: TN

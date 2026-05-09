@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Cooper
-  email: ashley.cooper7829@company.com
-  phone: +1 348-896-4437
-  ssn: 874 09 5641
-  dob: 5/13/1972
-  address: 3638 South Ln
-  city: Jacksonville
-  state: TN

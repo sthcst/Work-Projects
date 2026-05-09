@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Serrano
-  email: ronald.serrano6906@example.com
-  phone: 761-209-5935
-  ssn: 793-75-2534
-  dob: 8/6/1994
-  address: 5851 Park Ln
-  city: Houston
-  state: OH

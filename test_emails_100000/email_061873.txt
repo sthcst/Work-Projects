@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Jones
-  email: kimberly.jones8952@work.org
-  phone: 485 208 4366
-  ssn: 218153889
-  dob: 05/02/1962
-  address: 6658 Second Court
-  city: San Jose
-  state: TX

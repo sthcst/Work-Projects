@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Delgado
-  email: cynthia.delgado3850@outlook.com
-  phone: +1 710-518-4201
-  ssn: 018 81 4565
-  dob: 05/06/1954
-  address: 647 North Ln
-  city: San Diego
-  state: TN

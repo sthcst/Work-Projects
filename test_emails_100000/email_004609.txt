@@ -1,9 +1,0 @@
-contact:
-  name: David Sanchez
-  email: david.sanchez3019@mail.com
-  phone: 315 466 1692
-  ssn: 822 45 8693
-  dob: 10-25-1987
-  address: 5150 Sixth Way
-  city: Jacksonville
-  state: TX

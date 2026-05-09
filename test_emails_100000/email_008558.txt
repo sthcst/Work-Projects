@@ -1,9 +1,0 @@
-contact:
-  name: Angela Sanchez
-  email: angela.sanchez6756@yahoo.com
-  phone: 618 486 8628
-  ssn: 814-73-4420
-  dob: 1/8/1995
-  address: 4816 West St
-  city: San Jose
-  state: NJ

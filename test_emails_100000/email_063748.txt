@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Evans
-  email: jennifer.evans2526@mail.com
-  phone: 955-880-4383
-  ssn: 988 16 8378
-  dob: 05/09/1972
-  address: 829 Birch Court
-  city: Austin
-  state: AZ

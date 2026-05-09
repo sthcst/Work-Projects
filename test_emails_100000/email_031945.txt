@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Jimenez
-  email: andrew.jimenez8608@yahoo.com
-  phone: 609-282-2915
-  ssn: 805339199
-  dob: 01/08/1989
-  address: 9671 Cedar St
-  city: Austin
-  state: TX

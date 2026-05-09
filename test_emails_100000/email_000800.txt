@@ -1,9 +1,0 @@
-contact:
-  name: Emma Campbell
-  email: emma.campbell6251@yahoo.com
-  phone: (940) 825-4660
-  ssn: 581-07-1448
-  dob: 12/28/1972
-  address: 2244 Pine Ln
-  city: Seattle
-  state: TX

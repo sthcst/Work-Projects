@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Brown,nicholas.brown5219@yahoo.com,+1 386-605-5175,876 72 2135,04/05/1960,"290 Main Blvd",Philadelphia,WI

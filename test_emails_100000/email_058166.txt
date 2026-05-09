@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Jackson,jason.jackson4556@example.com,967-869-1130,362-64-2361,21/04/1982,"374 Spring Ln",San Jose,MA

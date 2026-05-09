@@ -1,9 +1,0 @@
-contact:
-  name: Robert Bell
-  email: robert.bell8351@work.org
-  phone: 544 713 1163
-  ssn: 434 72 2482
-  dob: 12-12-1989
-  address: 959 Sixth St
-  city: Jacksonville
-  state: WA

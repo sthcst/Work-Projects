@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Anderson,daniel.anderson9782@business.net,770 445 5037,762-51-7816,16/11/1953,"762 Spring Ln",Dallas,VA

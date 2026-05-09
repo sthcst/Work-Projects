@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Nelson
-  email: rachel.nelson6814@work.org
-  phone: +1 686-455-4121
-  ssn: 209-30-1050
-  dob: 12/05/2003
-  address: 1355 North Ave
-  city: San Antonio
-  state: DC

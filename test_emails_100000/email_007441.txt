@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Ramirez
-  email: kenneth.ramirez7012@company.com
-  phone: 254-209-1531
-  ssn: 871 44 6429
-  dob: 11/02/1956
-  address: 7780 Maple Rd
-  city: Houston
-  state: OH

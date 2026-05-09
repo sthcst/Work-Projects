@@ -1,9 +1,0 @@
-contact:
-  name: Megan Roberts
-  email: megan.roberts6325@gmail.com
-  phone: (802) 514-8130
-  ssn: 595 10 8763
-  dob: 10/09/1950
-  address: 6340 Fourth Dr
-  city: Jacksonville
-  state: VA

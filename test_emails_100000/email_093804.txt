@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Robinson,pamela.robinson8209@business.net,+1 621-679-1495,568812978,02-28-1952,"3860 Summer Ave",Denver,TX

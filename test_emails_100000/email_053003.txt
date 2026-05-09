@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Thompson,david.thompson124@example.com,(590) 431-4191,511-14-6417,02/19/1966,"7873 Pine St",Los Angeles,GA

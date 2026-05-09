@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Stewart
-  email: brenda.stewart7358@business.net
-  phone: 664-230-4838
-  ssn: 430 14 8549
-  dob: 07/24/1959
-  address: 6471 North Rd
-  city: Boston
-  state: TX

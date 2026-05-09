@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Williams
-  email: katherine.williams2346@business.net
-  phone: (693) 380-3002
-  ssn: 554 57 5480
-  dob: 17/07/1998
-  address: 1350 South Ave
-  city: Philadelphia
-  state: WI

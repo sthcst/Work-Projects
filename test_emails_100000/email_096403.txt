@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Carter
-  email: jennifer.carter3909@company.com
-  phone: +1 278-512-8832
-  ssn: 686-38-7360
-  dob: 07-21-1976
-  address: 1641 Main Blvd
-  city: Boston
-  state: MD

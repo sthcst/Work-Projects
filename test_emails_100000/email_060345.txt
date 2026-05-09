@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Thomas
-  email: katherine.thomas3587@work.org
-  phone: +1 903-949-2662
-  ssn: 556-61-6272
-  dob: 11-11-1978
-  address: 7821 Second Dr
-  city: Washington
-  state: TX

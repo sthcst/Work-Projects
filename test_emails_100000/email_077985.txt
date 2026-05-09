@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Edwards,gary.edwards4561@company.com,670-346-3226,449333906,06-07-2002,"7559 North Court",Denver,CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Nunez,kimberly.nunez7788@business.net,751 999 2497,965 22 7983,01/09/1978,"2565 South St",Phoenix,MA

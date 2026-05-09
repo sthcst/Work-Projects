@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Edwards
-  email: samantha.edwards5886@gmail.com
-  phone: +1 748-295-2780
-  ssn: 461065823
-  dob: 15/07/1956
-  address: 8540 Park Ln
-  city: San Jose
-  state: TX

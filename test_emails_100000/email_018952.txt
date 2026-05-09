@@ -1,9 +1,0 @@
-contact:
-  name: Edward Roberts
-  email: edward.roberts9996@business.net
-  phone: 580-419-4393
-  ssn: 886-72-6252
-  dob: 07/22/1961
-  address: 8083 East Ln
-  city: Phoenix
-  state: NY

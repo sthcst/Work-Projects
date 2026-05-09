@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Jimenez,daniel.jimenez791@gmail.com,214 645 9402,163-97-3704,09/04/1963,"7272 Summer Ave",Los Angeles,FL

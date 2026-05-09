@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Guerrero,helen.guerrero1150@example.com,(618) 464-5596,009416502,04/24/1993,"8103 South Court",Philadelphia,AZ

@@ -1,9 +1,0 @@
-contact:
-  name: John Johnson
-  email: john.johnson7263@company.com
-  phone: (759) 514-8750
-  ssn: 105 89 4091
-  dob: 11-23-1998
-  address: 6563 Maple Dr
-  city: Denver
-  state: MD

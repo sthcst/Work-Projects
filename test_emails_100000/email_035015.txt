@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Rodriguez,deborah.rodriguez6605@gmail.com,736 850 1003,069 84 8582,03/10/2003,"800 West St",Los Angeles,OH

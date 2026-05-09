@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Rodriguez,angela.rodriguez4479@business.net,465 844 8193,243 55 2513,02/01/1967,"6487 East St",San Jose,MI

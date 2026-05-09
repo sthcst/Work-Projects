@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Hernandez,william.hernandez7832@example.com,956 722 5311,069 17 6226,03/26/2005,"9491 Fourth Ave",Philadelphia,DC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Delgado,shirley.delgado2588@business.net,+1 717-744-4645,297 36 5661,15/01/1999,"1649 Oak Ln",San Jose,CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Wilson,william.wilson8085@example.com,(341) 514-8924,835-94-7968,07-08-1978,"1416 Main St",Boston,OH

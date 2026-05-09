@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Dominguez
-  email: lisa.dominguez3536@outlook.com
-  phone: +1 471-876-4899
-  ssn: 055422186
-  dob: 1/7/2003
-  address: 4842 Second St
-  city: Seattle
-  state: MA

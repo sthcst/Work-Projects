@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Ortiz,jeffrey.ortiz638@gmail.com,644-982-7224,898-67-5271,03-04-1981,"7091 Fourth St",Jacksonville,MI

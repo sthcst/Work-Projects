@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Taylor
-  email: michelle.taylor3124@business.net
-  phone: 329-381-6977
-  ssn: 395857778
-  dob: 05/09/1988
-  address: 5862 Cedar Ln
-  city: Chicago
-  state: WA

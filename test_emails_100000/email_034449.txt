@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Morris,angela.morris7367@gmail.com,562 965 6529,646482778,13/02/2000,"1874 Sixth Blvd",Philadelphia,FL

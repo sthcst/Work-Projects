@@ -1,9 +1,0 @@
-contact:
-  name: Jane Miller
-  email: jane.miller2757@outlook.com
-  phone: +1 722-633-6700
-  ssn: 257 05 6724
-  dob: 11-16-2002
-  address: 8968 Main Blvd
-  city: Jacksonville
-  state: TN

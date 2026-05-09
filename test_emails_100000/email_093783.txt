@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Jimenez,ronald.jimenez1765@work.org,310 660 6589,403442491,03-05-1978,"7677 Sixth Way",Jacksonville,GA

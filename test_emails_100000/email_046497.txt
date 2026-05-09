@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Gomez
-  email: ashley.gomez8592@mail.com
-  phone: 497-364-8286
-  ssn: 850-84-6928
-  dob: 11-06-1987
-  address: 1686 First Ave
-  city: Boston
-  state: WA

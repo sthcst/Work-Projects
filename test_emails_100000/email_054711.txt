@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Wilson,ronald.wilson4516@company.com,(862) 349-4766,452334912,13/04/1985,"2238 First Ave",San Diego,CA

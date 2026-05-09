@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Lewis,samantha.lewis3781@yahoo.com,719 732 5332,551983649,11/13/1951,"1523 Elm Blvd",Jacksonville,TN

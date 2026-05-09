@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Bell,charles.bell8985@yahoo.com,708 276 8620,141829530,17/12/1971,"1937 East Court",Washington,CA

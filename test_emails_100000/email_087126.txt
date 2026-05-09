@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Serrano,kimberly.serrano6033@mail.com,500-652-6357,340-76-6918,02/15/1996,"6264 East Blvd",Phoenix,FL

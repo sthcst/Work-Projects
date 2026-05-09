@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Moore,christopher.moore612@example.com,(645) 595-8273,778248694,15/09/1962,"9400 Second Court",Denver,TX

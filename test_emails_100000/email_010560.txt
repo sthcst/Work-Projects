@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Reyes,richard.reyes3655@gmail.com,395 715 1638,547-17-1426,01/22/1998,"1836 First Ave",San Diego,FL

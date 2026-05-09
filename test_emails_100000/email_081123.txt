@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Robinson,james.robinson7503@mail.com,+1 245-855-6859,832 16 6973,12/20/1976,"1096 South Ave",Denver,NC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Alvarado,shirley.alvarado4294@work.org,(638) 472-8540,832864237,01-02-1984,"4589 First Blvd",Seattle,FL

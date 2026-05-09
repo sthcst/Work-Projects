@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Romero
-  email: brenda.romero3057@company.com
-  phone: 888-314-8481
-  ssn: 474 40 1405
-  dob: 03/11/1995
-  address: 9400 Fourth Court
-  city: Jacksonville
-  state: MA

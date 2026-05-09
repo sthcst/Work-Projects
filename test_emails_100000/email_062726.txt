@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Johnson
-  email: matthew.johnson4057@gmail.com
-  phone: (772) 811-2470
-  ssn: 735-70-8091
-  dob: 02/10/1988
-  address: 773 Sixth Court
-  city: Houston
-  state: CA

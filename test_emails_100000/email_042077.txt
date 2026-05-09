@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Serrano,angela.serrano6783@work.org,+1 266-806-8244,177568913,20/10/2002,"7185 Second Rd",Chicago,MA

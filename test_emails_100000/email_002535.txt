@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Nunez
-  email: lauren.nunez4785@yahoo.com
-  phone: 595 556 7817
-  ssn: 847 54 4873
-  dob: 01-16-1952
-  address: 3871 Second Ln
-  city: Seattle
-  state: VA

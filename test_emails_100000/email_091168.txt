@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Serrano,james.serrano8197@yahoo.com,255-982-1258,243-41-3289,8/16/1959,"6603 Elm Ave",San Diego,FL

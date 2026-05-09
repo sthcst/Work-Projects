@@ -1,9 +1,0 @@
-contact:
-  name: Mark Gomez
-  email: mark.gomez2390@company.com
-  phone: +1 829-879-3535
-  ssn: 693312638
-  dob: 09-18-2001
-  address: 5939 Park St
-  city: Phoenix
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: Angela Evans
-  email: angela.evans3646@work.org
-  phone: 957 342 7196
-  ssn: 450 81 4955
-  dob: 06/17/1995
-  address: 5376 South Rd
-  city: Boston
-  state: FL

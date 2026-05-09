@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Rogers,jennifer.rogers8515@work.org,412 729 4673,912692436,04-22-1998,"915 South St",Dallas,TX

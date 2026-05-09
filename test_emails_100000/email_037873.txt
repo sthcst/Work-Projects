@@ -1,9 +1,0 @@
-contact:
-  name: Gary Peterson
-  email: gary.peterson5895@example.com
-  phone: 313-841-6269
-  ssn: 475 13 2985
-  dob: 09-13-1989
-  address: 9966 Fifth Ln
-  city: San Antonio
-  state: TX

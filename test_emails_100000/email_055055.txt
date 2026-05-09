@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Taylor,christine.taylor7116@work.org,564 204 8592,891 69 7550,14/06/1955,"1286 Cedar St",Dallas,DC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-William Lee,william.lee7723@mail.com,579 435 8159,706339629,8/8/1977,"8308 Summer Dr",Boston,WA

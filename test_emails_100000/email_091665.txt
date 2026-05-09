@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Perez
-  email: stephanie.perez3615@work.org
-  phone: 629-877-4739
-  ssn: 572 75 9058
-  dob: 12/18/1999
-  address: 6649 Birch St
-  city: Phoenix
-  state: CA

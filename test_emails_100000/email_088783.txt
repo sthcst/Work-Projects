@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Cooper,ryan.cooper6443@yahoo.com,299-240-4902,117132782,5/23/1964,"2496 South Way",Philadelphia,GA

@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Walker
-  email: shirley.walker8558@gmail.com
-  phone: 955-549-5366
-  ssn: 272518866
-  dob: 04-03-1974
-  address: 4716 East Dr
-  city: Dallas
-  state: FL

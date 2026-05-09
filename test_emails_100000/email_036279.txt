@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Edwards,helen.edwards6840@mail.com,(323) 903-2353,323768407,21/02/1975,"9860 Elm Ln",San Jose,TN

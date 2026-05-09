@@ -1,9 +1,0 @@
-contact:
-  name: Megan Peterson
-  email: megan.peterson5254@company.com
-  phone: 562 608 1521
-  ssn: 194952704
-  dob: 03/15/2001
-  address: 7617 Oak St
-  city: San Diego
-  state: TX

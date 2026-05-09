@@ -1,9 +1,0 @@
-contact:
-  name: Michael Ortiz
-  email: michael.ortiz5364@work.org
-  phone: +1 451-229-1059
-  ssn: 575 11 9855
-  dob: 09-18-1984
-  address: 2447 Main St
-  city: Houston
-  state: IL

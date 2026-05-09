@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Gonzalez,nicole.gonzalez7848@work.org,446 607 5669,695203609,5/28/1978,"9360 Third Rd",Chicago,MO

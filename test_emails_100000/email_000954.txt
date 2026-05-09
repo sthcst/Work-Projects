@@ -1,9 +1,0 @@
-contact:
-  name: Jane Phillips
-  email: jane.phillips7355@outlook.com
-  phone: +1 615-216-3147
-  ssn: 202 46 2030
-  dob: 09/12/1951
-  address: 6145 Birch St
-  city: Chicago
-  state: WA

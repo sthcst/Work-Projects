@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Morris,timothy.morris2579@business.net,+1 937-587-8208,202369892,09/03/2004,"4496 Third Blvd",Washington,MA

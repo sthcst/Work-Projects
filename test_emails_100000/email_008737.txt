@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Delgado,nicholas.delgado1503@mail.com,+1 398-940-7197,967791685,1/4/1970,"9658 First Dr",San Antonio,WA

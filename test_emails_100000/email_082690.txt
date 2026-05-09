@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Jones,ashley.jones9691@work.org,692-585-8952,912 48 1825,04-08-1952,"5905 Third Ln",Boston,MI

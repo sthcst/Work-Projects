@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Reeves
-  email: michelle.reeves4384@example.com
-  phone: (617) 256-3888
-  ssn: 939 16 1771
-  dob: 2/26/1995
-  address: 2923 Oak Ave
-  city: Dallas
-  state: MA

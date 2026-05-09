@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua White,joshua.white6213@mail.com,(524) 280-1864,310642935,1/8/1956,"6168 Third Ave",Houston,CO

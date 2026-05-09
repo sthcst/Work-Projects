@@ -1,9 +1,0 @@
-contact:
-  name: Steven Walker
-  email: steven.walker6608@company.com
-  phone: (360) 503-2076
-  ssn: 775 89 3921
-  dob: 18/06/2000
-  address: 5525 Pine Blvd
-  city: Chicago
-  state: PA

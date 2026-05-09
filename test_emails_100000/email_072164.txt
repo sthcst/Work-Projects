@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Bell
-  email: amanda.bell6092@outlook.com
-  phone: 414-599-5952
-  ssn: 732-32-9721
-  dob: 1/26/2002
-  address: 2949 Third Rd
-  city: Washington
-  state: TX

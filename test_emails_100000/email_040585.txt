@@ -1,9 +1,0 @@
-contact:
-  name: Steven Hall
-  email: steven.hall1698@yahoo.com
-  phone: +1 581-581-5762
-  ssn: 774-27-7824
-  dob: 07-22-2003
-  address: 1179 East Blvd
-  city: Austin
-  state: FL

@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Gonzalez
-  email: lauren.gonzalez1347@yahoo.com
-  phone: 275-846-5726
-  ssn: 036 38 1865
-  dob: 4/10/1962
-  address: 8696 Sixth Way
-  city: Austin
-  state: NY

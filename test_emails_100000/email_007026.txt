@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Davis
-  email: stephanie.davis699@gmail.com
-  phone: +1 373-848-8047
-  ssn: 129 02 9916
-  dob: 2/24/1998
-  address: 859 West Dr
-  city: San Jose
-  state: CO

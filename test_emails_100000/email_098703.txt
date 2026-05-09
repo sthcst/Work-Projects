@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Jackson
-  email: katherine.jackson7038@outlook.com
-  phone: 991 454 2959
-  ssn: 938-79-8190
-  dob: 1/28/1950
-  address: 6430 Fifth Ln
-  city: San Antonio
-  state: TX

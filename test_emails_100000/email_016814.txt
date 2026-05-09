@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Smith
-  email: katherine.smith603@company.com
-  phone: +1 699-557-9706
-  ssn: 570 34 8636
-  dob: 03-14-1979
-  address: 9447 Sixth Court
-  city: San Antonio
-  state: AZ

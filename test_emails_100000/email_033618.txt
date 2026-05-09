@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Lee,joshua.lee7110@company.com,(898) 202-9895,506236381,21/02/1989,"1210 Fourth Way",Denver,CA

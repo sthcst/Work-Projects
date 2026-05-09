@@ -1,9 +1,0 @@
-contact:
-  name: Mark Hernandez
-  email: mark.hernandez8205@company.com
-  phone: 585-239-5380
-  ssn: 856415801
-  dob: 12/14/1969
-  address: 8658 Second Court
-  city: Seattle
-  state: NJ

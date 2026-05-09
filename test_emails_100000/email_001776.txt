@@ -1,9 +1,0 @@
-contact:
-  name: Edward Carter
-  email: edward.carter4387@yahoo.com
-  phone: (719) 571-8411
-  ssn: 997923516
-  dob: 3/13/2001
-  address: 9917 Main Ave
-  city: Denver
-  state: MA

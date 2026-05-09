@@ -1,9 +1,0 @@
-contact:
-  name: Richard Miller
-  email: richard.miller70@example.com
-  phone: 659-918-8861
-  ssn: 991-38-2290
-  dob: 09-28-1970
-  address: 8936 East Ave
-  city: San Diego
-  state: FL

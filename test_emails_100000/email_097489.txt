@@ -1,9 +1,0 @@
-contact:
-  name: Emily Delgado
-  email: emily.delgado5068@outlook.com
-  phone: (979) 714-3329
-  ssn: 380 03 8680
-  dob: 10/23/1973
-  address: 905 Fifth Ave
-  city: San Jose
-  state: FL

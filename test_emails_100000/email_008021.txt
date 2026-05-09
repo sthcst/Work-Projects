@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Hernandez
-  email: ronald.hernandez3868@example.com
-  phone: 623-760-8473
-  ssn: 268305864
-  dob: 06-22-1958
-  address: 5002 South Ln
-  city: Boston
-  state: TN

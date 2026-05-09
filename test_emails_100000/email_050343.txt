@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Wilson,anthony.wilson1469@yahoo.com,342-962-8593,610 01 1152,05/09/1969,"6521 First Rd",Philadelphia,PA

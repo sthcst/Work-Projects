@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Romero,mark.romero1635@outlook.com,(728) 714-6960,131-04-5287,22/09/1970,"5998 Birch St",San Jose,PA

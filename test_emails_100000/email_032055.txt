@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Perez
-  email: sarah.perez9296@example.com
-  phone: 667 519 4534
-  ssn: 569-17-8033
-  dob: 18/07/1972
-  address: 1597 Second Dr
-  city: Boston
-  state: TX

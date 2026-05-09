@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Lee,emily.lee7627@outlook.com,536 519 8245,212 75 8833,04-26-1956,"331 Pine Ln",Houston,WA

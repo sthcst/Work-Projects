@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Johnson
-  email: brenda.johnson7419@company.com
-  phone: 709-895-8182
-  ssn: 246036446
-  dob: 08-02-1959
-  address: 4720 Third Ave
-  city: San Diego
-  state: TX

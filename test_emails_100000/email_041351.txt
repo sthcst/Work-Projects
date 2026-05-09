@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Martin,ryan.martin9268@company.com,(820) 576-9718,642-37-6167,17/07/1976,"4297 Pine Ave",Austin,WA

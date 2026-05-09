@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Roberts,rebecca.roberts1150@example.com,529 743 8434,010872728,02-20-1962,"3719 Elm Ln",Boston,NJ

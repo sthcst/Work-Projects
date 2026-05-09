@@ -1,9 +1,0 @@
-contact:
-  name: Gary Brown
-  email: gary.brown6683@outlook.com
-  phone: (214) 449-7865
-  ssn: 164541969
-  dob: 4/22/1951
-  address: 9635 Second Ave
-  city: Houston
-  state: VA

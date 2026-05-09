@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Lopez,michelle.lopez4723@yahoo.com,724 394 5279,845 65 7081,02/08/1967,"1215 Pine Blvd",Denver,FL

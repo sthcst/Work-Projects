@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Lee
-  email: lisa.lee9177@business.net
-  phone: +1 300-445-5760
-  ssn: 696-90-9894
-  dob: 09/22/1998
-  address: 3478 Second Way
-  city: Philadelphia
-  state: AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Reyes,donald.reyes3015@gmail.com,230 451 6696,921 52 9850,15/12/1971,"8453 Second Blvd",Austin,IL

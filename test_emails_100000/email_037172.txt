@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Martin,michelle.martin8629@example.com,467-355-2119,493 67 2046,09/27/1966,"8917 Cedar Ave",Boston,NY

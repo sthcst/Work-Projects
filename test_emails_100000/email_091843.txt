@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Morgan,james.morgan3720@gmail.com,(201) 955-2431,178535824,12/05/1969,"1630 Elm Court",Denver,DC

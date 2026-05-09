@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Rogers
-  email: kimberly.rogers426@yahoo.com
-  phone: 745-282-5039
-  ssn: 926-33-5355
-  dob: 12/05/2001
-  address: 6536 East Ln
-  city: Seattle
-  state: DC

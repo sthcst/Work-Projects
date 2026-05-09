@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Murillo
-  email: daniel.murillo3663@mail.com
-  phone: 555-811-1292
-  ssn: 522 17 5671
-  dob: 10-01-2000
-  address: 464 Birch Court
-  city: Boston
-  state: NJ

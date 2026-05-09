@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Anderson,sarah.anderson3766@yahoo.com,836-340-8508,519768473,18/03/1980,"3793 Summer Way",Jacksonville,DC

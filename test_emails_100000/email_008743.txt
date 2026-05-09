@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Taylor
-  email: michelle.taylor7008@company.com
-  phone: +1 462-669-5962
-  ssn: 645-82-1542
-  dob: 06/09/1981
-  address: 812 East St
-  city: Denver
-  state: NY

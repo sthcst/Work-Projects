@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Lopez
-  email: joseph.lopez1565@mail.com
-  phone: 398-646-6334
-  ssn: 265-10-2265
-  dob: 01-08-2002
-  address: 6317 Elm Ave
-  city: Seattle
-  state: MA

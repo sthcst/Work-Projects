@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Morris,cynthia.morris1859@outlook.com,725-601-8360,464744959,03/24/1996,"2761 West Way",Washington,MO

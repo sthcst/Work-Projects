@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Ramirez
-  email: michelle.ramirez5330@company.com
-  phone: +1 394-929-3281
-  ssn: 563841063
-  dob: 03/04/1957
-  address: 151 Spring Ave
-  city: Washington
-  state: NJ

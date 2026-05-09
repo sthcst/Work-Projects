@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Ortiz,kenneth.ortiz6053@outlook.com,+1 527-384-2887,506-25-5446,03/20/1973,"130 Third Dr",Washington,CA

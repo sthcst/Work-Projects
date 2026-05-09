@@ -1,9 +1,0 @@
-contact:
-  name: Jane Collins
-  email: jane.collins8302@work.org
-  phone: 262-874-4338
-  ssn: 104739725
-  dob: 14/04/1962
-  address: 9914 Oak Rd
-  city: Los Angeles
-  state: CA

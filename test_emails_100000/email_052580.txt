@@ -1,9 +1,0 @@
-contact:
-  name: Edward Lopez
-  email: edward.lopez1362@business.net
-  phone: 980-374-8201
-  ssn: 226 64 7874
-  dob: 04-14-1981
-  address: 3276 Cedar Blvd
-  city: Washington
-  state: MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley White,ashley.white847@mail.com,512-697-4788,563 68 1721,02/09/1984,"1816 Elm Blvd",Dallas,MO

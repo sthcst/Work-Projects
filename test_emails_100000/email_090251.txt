@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Lee
-  email: sarah.lee7848@outlook.com
-  phone: (862) 951-9219
-  ssn: 539951670
-  dob: 01/02/1987
-  address: 1796 Birch St
-  city: Jacksonville
-  state: PA

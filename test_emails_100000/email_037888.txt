@@ -1,9 +1,0 @@
-contact:
-  name: Steven Wilson
-  email: steven.wilson9532@gmail.com
-  phone: +1 637-351-9136
-  ssn: 967 86 5932
-  dob: 11/16/1996
-  address: 289 Main Ave
-  city: San Diego
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Collins
-  email: kenneth.collins9371@mail.com
-  phone: 656-529-4067
-  ssn: 364606637
-  dob: 12/15/1950
-  address: 2885 Fifth Way
-  city: Seattle
-  state: NJ

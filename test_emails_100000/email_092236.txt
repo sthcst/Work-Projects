@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Evans,edward.evans6285@business.net,(578) 770-4943,215678246,09/24/1951,"9822 First Way",Boston,DC

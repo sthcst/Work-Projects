@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Hall,nicole.hall6900@outlook.com,542-616-4992,780-99-9445,01/25/1960,"9141 Birch Court",Denver,CO

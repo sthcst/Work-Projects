@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Cooper,anna.cooper3641@gmail.com,881 481 5294,911-02-6998,20/09/1992,"6917 Main Way",Los Angeles,NY

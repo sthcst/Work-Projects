@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Morris
-  email: amanda.morris92@mail.com
-  phone: 201 968 2791
-  ssn: 870 25 9526
-  dob: 2/9/1982
-  address: 8526 Spring Way
-  city: Jacksonville
-  state: IL

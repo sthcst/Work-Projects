@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Reeves
-  email: christopher.reeves9312@example.com
-  phone: +1 952-738-2924
-  ssn: 759-99-7729
-  dob: 06/21/1984
-  address: 9104 Summer Way
-  city: Houston
-  state: OH

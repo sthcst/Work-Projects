@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Campbell,john.campbell8069@mail.com,270 796 2364,642 80 9415,11/14/1961,"4172 Cedar Way",Chicago,NY

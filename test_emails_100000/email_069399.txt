@@ -1,9 +1,0 @@
-contact:
-  name: James Hall
-  email: james.hall4021@work.org
-  phone: 454 788 5535
-  ssn: 359098970
-  dob: 02/07/1993
-  address: 2780 Pine Court
-  city: San Diego
-  state: MA

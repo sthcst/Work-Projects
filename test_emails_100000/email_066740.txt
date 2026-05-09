@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Serrano
-  email: joshua.serrano3745@mail.com
-  phone: (426) 271-2041
-  ssn: 222-49-3316
-  dob: 02/10/1968
-  address: 6689 Fourth St
-  city: San Antonio
-  state: NJ

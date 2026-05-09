@@ -1,9 +1,0 @@
-contact:
-  name: Angela Garcia
-  email: angela.garcia265@example.com
-  phone: +1 525-232-9132
-  ssn: 629 47 2536
-  dob: 02/12/1963
-  address: 4239 Fourth Rd
-  city: San Jose
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Walker,steven.walker4775@yahoo.com,769-344-2061,752 14 9951,01/07/1976,"4533 West Ave",Los Angeles,CA

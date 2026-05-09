@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Lee,john.lee5987@yahoo.com,593-926-8202,803 66 5155,04-11-1988,"8240 Park Ave",Dallas,CA

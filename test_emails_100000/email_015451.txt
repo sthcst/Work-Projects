@@ -1,9 +1,0 @@
-contact:
-  name: Steven Johnson
-  email: steven.johnson4086@gmail.com
-  phone: 843 508 4691
-  ssn: 150378919
-  dob: 6/9/1983
-  address: 4565 Oak Blvd
-  city: Denver
-  state: TX

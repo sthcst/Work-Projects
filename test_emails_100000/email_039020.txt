@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Lewis
-  email: deborah.lewis2411@example.com
-  phone: +1 463-522-8852
-  ssn: 084 87 4347
-  dob: 10-12-1990
-  address: 759 Fifth Dr
-  city: San Antonio
-  state: TX

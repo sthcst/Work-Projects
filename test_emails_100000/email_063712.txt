@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Campbell,cynthia.campbell2691@example.com,(474) 597-4651,410 87 3938,8/1/1981,"4734 First Way",San Diego,TN

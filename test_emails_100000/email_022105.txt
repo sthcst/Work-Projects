@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Martinez,emma.martinez6819@mail.com,(779) 519-7280,035 70 1870,26/02/1977,"5179 Birch Way",Denver,TX

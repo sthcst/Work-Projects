@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Cooper
-  email: deborah.cooper8182@yahoo.com
-  phone: (876) 599-7097
-  ssn: 048433238
-  dob: 3/21/1998
-  address: 5283 West Way
-  city: Seattle
-  state: NC

@@ -1,9 +1,0 @@
-contact:
-  name: Helen Rodriguez
-  email: helen.rodriguez5644@work.org
-  phone: 523 542 5636
-  ssn: 891 50 6321
-  dob: 28/06/1979
-  address: 659 Oak Dr
-  city: Jacksonville
-  state: PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Johnson,kathleen.johnson7985@yahoo.com,764-418-9800,037883192,06/10/1992,"1131 Fifth Rd",San Jose,CA

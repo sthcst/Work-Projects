@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Sanchez
-  email: shirley.sanchez5929@company.com
-  phone: 407 546 9935
-  ssn: 354-14-5164
-  dob: 06-12-1969
-  address: 6871 Sixth Rd
-  city: San Diego
-  state: VA

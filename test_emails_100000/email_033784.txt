@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Smith,ryan.smith5587@example.com,969-688-8372,634414191,12-11-1958,"5745 Oak Ln",Chicago,DC

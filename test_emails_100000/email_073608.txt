@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Sanchez,emma.sanchez2278@company.com,+1 449-325-9590,638 61 6412,10-01-1973,"1439 Maple Court",Dallas,NJ

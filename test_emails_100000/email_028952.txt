@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Lopez
-  email: katherine.lopez4338@mail.com
-  phone: +1 546-634-4988
-  ssn: 687 08 9891
-  dob: 19/04/1950
-  address: 9303 Pine Ave
-  city: Washington
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Donald Morris
-  email: donald.morris187@outlook.com
-  phone: 944-353-2825
-  ssn: 873085993
-  dob: 03/11/1956
-  address: 8703 Maple Ln
-  city: Austin
-  state: MO

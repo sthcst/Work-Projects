@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Brown,andrew.brown7700@example.com,431 532 7576,721639319,04/06/1964,"2486 Fourth Ave",San Jose,NY

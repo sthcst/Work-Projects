@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Carter,jason.carter4724@work.org,(469) 466-9693,782-91-6139,03-05-1952,"6975 Park Ave",Washington,NJ

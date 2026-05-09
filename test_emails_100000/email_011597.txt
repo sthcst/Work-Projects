@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Romero
-  email: timothy.romero6172@example.com
-  phone: (425) 893-7817
-  ssn: 543926629
-  dob: 06-14-1988
-  address: 4458 Cedar Dr
-  city: San Diego
-  state: NJ

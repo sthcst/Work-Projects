@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Hernandez,nicholas.hernandez3753@gmail.com,514-402-3001,752032273,7/16/1979,"9022 Fifth Dr",Denver,TX

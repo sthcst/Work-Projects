@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Perez,michael.perez8417@example.com,365 997 7553,347-43-4650,3/24/1954,"7595 Third Way",New York,WI

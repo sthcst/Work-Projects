@@ -1,9 +1,0 @@
-contact:
-  name: Mark Young
-  email: mark.young7371@yahoo.com
-  phone: (402) 341-5043
-  ssn: 835-85-6815
-  dob: 11/07/1986
-  address: 1326 Main Rd
-  city: Seattle
-  state: NC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Johnson,kathleen.johnson5093@gmail.com,663-809-5884,410-62-4955,10-26-1985,"8278 Fourth Blvd",New York,MA

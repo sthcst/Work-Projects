@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Smith
-  email: kevin.smith1624@company.com
-  phone: (766) 378-4134
-  ssn: 635 68 2725
-  dob: 02-19-1962
-  address: 5782 East Rd
-  city: Los Angeles
-  state: AZ

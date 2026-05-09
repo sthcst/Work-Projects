@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Guerrero,jennifer.guerrero1507@example.com,329 914 5104,347 50 9588,07-02-2002,"1174 Cedar Dr",Houston,FL

@@ -1,9 +1,0 @@
-contact:
-  name: Gary Dominguez
-  email: gary.dominguez4672@yahoo.com
-  phone: 608-530-5758
-  ssn: 657 40 2008
-  dob: 18/09/1999
-  address: 7931 Summer Rd
-  city: Seattle
-  state: TX

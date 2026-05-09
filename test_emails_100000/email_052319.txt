@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Martin,christopher.martin5079@work.org,(935) 258-4176,522 09 2440,07-23-1970,"1616 South Dr",Dallas,MD

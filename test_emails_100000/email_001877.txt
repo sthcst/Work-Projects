@@ -1,9 +1,0 @@
-contact:
-  name: Gary Thompson
-  email: gary.thompson6362@company.com
-  phone: (229) 757-1867
-  ssn: 802965230
-  dob: 21/11/1950
-  address: 1305 Pine Rd
-  city: Jacksonville
-  state: FL

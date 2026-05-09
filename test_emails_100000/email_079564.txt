@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Alvarado,john.alvarado2665@work.org,563-304-2400,206878281,1/14/1985,"8143 North Court",San Jose,DC

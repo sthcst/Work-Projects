@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Alvarado
-  email: lauren.alvarado2912@mail.com
-  phone: +1 822-440-5718
-  ssn: 831 78 6558
-  dob: 04-08-1962
-  address: 5871 East Court
-  city: Phoenix
-  state: TN

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Williams,samantha.williams4208@yahoo.com,(691) 954-3095,415 71 3778,09/02/1968,"3573 North Ave",Dallas,CA

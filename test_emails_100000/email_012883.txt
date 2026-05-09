@@ -1,9 +1,0 @@
-contact:
-  name: Angela Roberts
-  email: angela.roberts9255@company.com
-  phone: 800-695-3722
-  ssn: 678628813
-  dob: 6/8/1958
-  address: 1246 Third Way
-  city: Philadelphia
-  state: PA

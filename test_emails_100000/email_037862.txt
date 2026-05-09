@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Miller,lisa.miller9769@gmail.com,(953) 613-6674,014-12-4249,08/28/1985,"8726 Summer Court",San Jose,GA

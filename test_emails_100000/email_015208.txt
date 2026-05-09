@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Hall,anthony.hall344@yahoo.com,+1 786-477-6927,805 42 4492,05-17-1991,"2743 Cedar Court",New York,DC

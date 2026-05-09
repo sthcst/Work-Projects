@@ -1,9 +1,0 @@
-contact:
-  name: Angela Perez
-  email: angela.perez4897@company.com
-  phone: 380-853-3200
-  ssn: 908 14 7806
-  dob: 23/09/1976
-  address: 2708 Cedar Dr
-  city: Dallas
-  state: NJ

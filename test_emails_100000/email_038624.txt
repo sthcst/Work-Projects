@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Garcia
-  email: deborah.garcia7378@business.net
-  phone: (354) 969-6705
-  ssn: 253 84 5565
-  dob: 3/14/1974
-  address: 3028 Cedar Way
-  city: San Diego
-  state: AZ

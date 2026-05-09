@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Nelson,steven.nelson2157@outlook.com,583-837-8405,388877048,06/10/2001,"4839 Spring Rd",Dallas,FL

@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Lopez
-  email: jeffrey.lopez5767@outlook.com
-  phone: +1 682-978-8529
-  ssn: 720 82 8608
-  dob: 14/09/1995
-  address: 7194 Third Rd
-  city: San Antonio
-  state: AZ

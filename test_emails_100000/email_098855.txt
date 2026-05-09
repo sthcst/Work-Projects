@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Jackson
-  email: daniel.jackson7161@mail.com
-  phone: 494 993 3988
-  ssn: 649-10-1818
-  dob: 06-15-1972
-  address: 5213 Second Ln
-  city: Los Angeles
-  state: FL

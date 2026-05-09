@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Cooper
-  email: christopher.cooper4095@gmail.com
-  phone: 229 946 1842
-  ssn: 588-06-2524
-  dob: 1/6/1984
-  address: 1750 Maple Rd
-  city: Seattle
-  state: TX

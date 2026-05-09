@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Lee,ryan.lee8421@yahoo.com,+1 232-589-2888,084108068,27/07/1960,"7560 Spring Way",Philadelphia,IL

@@ -1,9 +1,0 @@
-contact:
-  name: Angela Martin
-  email: angela.martin6872@company.com
-  phone: (468) 283-9327
-  ssn: 998 85 6256
-  dob: 01/20/1959
-  address: 7395 Birch Court
-  city: Dallas
-  state: MO

@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Nunez
-  email: jacob.nunez5488@example.com
-  phone: (657) 511-3616
-  ssn: 644 05 5005
-  dob: 02-17-2003
-  address: 1607 West Court
-  city: San Jose
-  state: DC

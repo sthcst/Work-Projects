@@ -1,9 +1,0 @@
-contact:
-  name: Steven Parker
-  email: steven.parker1340@gmail.com
-  phone: 260 980 8742
-  ssn: 074 45 7627
-  dob: 5/3/1977
-  address: 5450 West Court
-  city: Jacksonville
-  state: AZ

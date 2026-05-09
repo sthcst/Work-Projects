@@ -1,9 +1,0 @@
-contact:
-  name: Joseph Garcia
-  email: joseph.garcia1022@example.com
-  phone: +1 362-776-2185
-  ssn: 099-98-7045
-  dob: 5/24/1982
-  address: 6165 Main Court
-  city: Denver
-  state: TX

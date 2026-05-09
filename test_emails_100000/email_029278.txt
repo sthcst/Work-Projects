@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Smith,michael.smith7389@work.org,+1 367-335-5658,287-37-3315,05-12-2004,"8018 Maple Blvd",Dallas,FL

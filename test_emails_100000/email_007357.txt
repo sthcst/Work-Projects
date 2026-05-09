@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Edwards,ashley.edwards170@outlook.com,894 681 2748,464 30 6641,6/15/1999,"6442 Park Dr",Jacksonville,OH

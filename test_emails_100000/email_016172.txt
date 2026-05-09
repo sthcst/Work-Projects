@@ -1,9 +1,0 @@
-contact:
-  name: Ronald White
-  email: ronald.white2584@outlook.com
-  phone: 424-892-5401
-  ssn: 008401653
-  dob: 12/09/1964
-  address: 6130 Cedar Rd
-  city: Denver
-  state: TN

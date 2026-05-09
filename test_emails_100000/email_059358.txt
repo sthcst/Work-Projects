@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Martinez,katherine.martinez6033@company.com,+1 401-643-1638,367-90-4762,2/26/1991,"1066 Maple Rd",Jacksonville,AZ

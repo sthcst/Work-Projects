@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Harris
-  email: amanda.harris7889@example.com
-  phone: +1 897-363-6888
-  ssn: 641 15 1884
-  dob: 03/02/1964
-  address: 9255 Birch Court
-  city: San Jose
-  state: CA

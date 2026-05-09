@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Rogers,timothy.rogers580@outlook.com,(356) 343-6899,326-27-4731,11/7/1961,"5407 Second Ave",San Jose,VA

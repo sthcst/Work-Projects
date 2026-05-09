@@ -1,9 +1,0 @@
-contact:
-  name: Emily Alvarado
-  email: emily.alvarado2210@example.com
-  phone: +1 559-736-9296
-  ssn: 140891116
-  dob: 25/06/2005
-  address: 4154 Fourth Dr
-  city: Washington
-  state: PA

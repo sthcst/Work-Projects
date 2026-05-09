@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Jones,amanda.jones2417@yahoo.com,955 771 6172,052-53-4868,09/09/1957,"808 East Ln",Austin,MD

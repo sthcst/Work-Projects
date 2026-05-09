@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Miller
-  email: shirley.miller9638@business.net
-  phone: 515 958 1440
-  ssn: 150 19 7664
-  dob: 9/21/1976
-  address: 7454 Elm Court
-  city: Phoenix
-  state: CO

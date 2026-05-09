@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Morris,katherine.morris5144@business.net,468-760-6284,898-02-5702,03/27/1977,"6752 Pine Ave",Houston,MA

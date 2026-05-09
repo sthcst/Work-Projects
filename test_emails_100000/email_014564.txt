@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Davis
-  email: timothy.davis6782@example.com
-  phone: 659-688-2445
-  ssn: 909-83-9174
-  dob: 3/14/1996
-  address: 4322 Oak Blvd
-  city: Chicago
-  state: MO

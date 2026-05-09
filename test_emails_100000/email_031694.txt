@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Hall
-  email: lauren.hall2904@mail.com
-  phone: (509) 671-6394
-  ssn: 293496701
-  dob: 19/07/1984
-  address: 3509 Elm Ln
-  city: Phoenix
-  state: CA

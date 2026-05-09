@@ -1,9 +1,0 @@
-contact:
-  name: Robert Smith
-  email: robert.smith4056@gmail.com
-  phone: (767) 791-3610
-  ssn: 865132605
-  dob: 21/07/1972
-  address: 1032 Oak Blvd
-  city: San Jose
-  state: CA

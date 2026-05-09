@@ -1,9 +1,0 @@
-contact:
-  name: Emma Nelson
-  email: emma.nelson9534@outlook.com
-  phone: +1 935-991-8112
-  ssn: 844 13 7177
-  dob: 07/08/1979
-  address: 6117 Park Court
-  city: Seattle
-  state: OH

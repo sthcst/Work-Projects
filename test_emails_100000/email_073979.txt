@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Wilson,richard.wilson7593@work.org,483-537-1033,717-51-3270,09/03/1971,"716 Summer Ave",Philadelphia,MO

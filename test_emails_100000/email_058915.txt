@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Harris,david.harris6630@yahoo.com,862 400 2227,212346602,09-18-1978,"8462 Spring Ave",San Jose,WA

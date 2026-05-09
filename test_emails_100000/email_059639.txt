@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Walker
-  email: katherine.walker2641@business.net
-  phone: 663 208 9014
-  ssn: 111-41-7105
-  dob: 11/07/1998
-  address: 4679 Main Dr
-  city: Dallas
-  state: WA

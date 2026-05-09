@@ -1,9 +1,0 @@
-contact:
-  name: Anna Hall
-  email: anna.hall4669@company.com
-  phone: 835 632 4150
-  ssn: 363-28-5172
-  dob: 01/24/1957
-  address: 2741 Park Court
-  city: Denver
-  state: MO

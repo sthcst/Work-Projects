@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Davis
-  email: kathleen.davis8684@business.net
-  phone: (747) 827-6787
-  ssn: 539 52 6650
-  dob: 6/2/1991
-  address: 2644 Cedar Ave
-  city: New York
-  state: WA

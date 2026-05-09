@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Lee,katherine.lee6721@outlook.com,536-697-8646,965758443,9/13/1962,"2471 Fourth Ave",New York,CA

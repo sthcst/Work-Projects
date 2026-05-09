@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Moore,kenneth.moore7436@example.com,+1 602-389-8239,576 33 1852,02/10/1979,"6747 Fifth Rd",Phoenix,WA

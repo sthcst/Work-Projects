@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Williams
-  email: samantha.williams1525@example.com
-  phone: (614) 908-4986
-  ssn: 314 85 7046
-  dob: 17/09/1972
-  address: 9027 North Blvd
-  city: Seattle
-  state: TX

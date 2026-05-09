@@ -1,9 +1,0 @@
-contact:
-  name: William Carter
-  email: william.carter402@company.com
-  phone: 207-457-1925
-  ssn: 510-68-8649
-  dob: 10-06-2005
-  address: 7406 Main Way
-  city: Chicago
-  state: AZ

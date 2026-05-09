@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Young,david.young3901@example.com,634 969 5945,351 70 7401,05-03-1976,"7839 Second Dr",Philadelphia,AZ

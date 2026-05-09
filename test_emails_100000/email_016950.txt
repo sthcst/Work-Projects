@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Rodriguez,brian.rodriguez6380@company.com,+1 339-532-2388,587 52 6466,5/23/1970,"2111 Summer Blvd",Denver,CA

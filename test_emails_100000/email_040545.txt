@@ -1,9 +1,0 @@
-contact:
-  name: Emma Garcia
-  email: emma.garcia8776@yahoo.com
-  phone: +1 564-485-1710
-  ssn: 348-09-5766
-  dob: 08-17-1981
-  address: 9102 Park Dr
-  city: Denver
-  state: WA

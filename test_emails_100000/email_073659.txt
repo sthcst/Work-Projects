@@ -1,9 +1,0 @@
-contact:
-  name: John Stewart
-  email: john.stewart1859@yahoo.com
-  phone: 356-249-9984
-  ssn: 058919946
-  dob: 5/8/1993
-  address: 5838 East Court
-  city: Boston
-  state: MI

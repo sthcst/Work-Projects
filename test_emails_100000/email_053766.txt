@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brenda Cooper,brenda.cooper6133@example.com,(711) 202-9998,908781653,14/09/1985,"241 Birch Ln",Seattle,NJ

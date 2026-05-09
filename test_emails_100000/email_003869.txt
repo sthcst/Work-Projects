@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Miller,edward.miller7660@yahoo.com,618-486-6477,474-92-1881,3/9/1975,"9569 South Way",Boston,FL

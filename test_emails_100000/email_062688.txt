@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Serrano,gary.serrano6419@mail.com,509 480 2484,853 31 5604,5/27/1970,"6854 Sixth Court",Dallas,CA

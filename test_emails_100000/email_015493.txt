@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Lee
-  email: sarah.lee6555@outlook.com
-  phone: 726-953-4788
-  ssn: 488 29 1389
-  dob: 9/25/1977
-  address: 1446 First Ln
-  city: Washington
-  state: CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Rodriguez,emma.rodriguez2639@outlook.com,299 562 1464,615821326,09/25/1998,"7364 Pine Ln",San Jose,MI

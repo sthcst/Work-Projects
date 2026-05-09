@@ -1,9 +1,0 @@
-contact:
-  name: Charles Alvarado
-  email: charles.alvarado1783@work.org
-  phone: 440 204 2200
-  ssn: 135631438
-  dob: 12/05/2000
-  address: 3848 Third Rd
-  city: New York
-  state: CA

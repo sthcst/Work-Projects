@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Clark,christopher.clark4938@gmail.com,+1 515-204-5272,964805254,7/20/1979,"2693 Main Court",San Antonio,TX

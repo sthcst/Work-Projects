@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Williams
-  email: stephanie.williams1654@outlook.com
-  phone: (963) 371-8466
-  ssn: 467 64 1319
-  dob: 08-06-2001
-  address: 3292 Main Way
-  city: Los Angeles
-  state: IL

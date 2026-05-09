@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Williams,daniel.williams1559@work.org,(209) 656-3906,806 12 8721,24/06/1985,"3695 North Blvd",Phoenix,CO

@@ -1,9 +1,0 @@
-contact:
-  name: Michael Jones
-  email: michael.jones3809@outlook.com
-  phone: 533 826 7467
-  ssn: 587182048
-  dob: 2/7/2001
-  address: 4925 Second Way
-  city: Boston
-  state: TX

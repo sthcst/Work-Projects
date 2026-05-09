@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Walker
-  email: kevin.walker4903@example.com
-  phone: 334-741-5530
-  ssn: 060 78 7890
-  dob: 11/6/1965
-  address: 7890 First Ln
-  city: Phoenix
-  state: MI

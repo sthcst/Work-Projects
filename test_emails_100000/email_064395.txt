@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Ramirez
-  email: jessica.ramirez864@business.net
-  phone: 681-554-2101
-  ssn: 127 21 5518
-  dob: 07/06/1964
-  address: 3549 Second St
-  city: Chicago
-  state: AZ

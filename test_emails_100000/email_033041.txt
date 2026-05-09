@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Gomez,ronald.gomez2429@mail.com,(703) 528-1528,842 23 5561,17/12/1955,"9413 Park Way",Houston,FL

@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Dominguez
-  email: ryan.dominguez6728@example.com
-  phone: +1 690-322-2355
-  ssn: 589 54 2220
-  dob: 01-23-1953
-  address: 5247 East Ave
-  city: Austin
-  state: WA

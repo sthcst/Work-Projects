@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Peterson,joseph.peterson6611@company.com,953-819-3934,191-28-5149,2/4/1959,"6433 Sixth St",Denver,GA

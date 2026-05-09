@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Jones
-  email: kathleen.jones7732@business.net
-  phone: 473-447-8401
-  ssn: 696 62 7457
-  dob: 24/03/1973
-  address: 2026 East Ln
-  city: Los Angeles
-  state: CA

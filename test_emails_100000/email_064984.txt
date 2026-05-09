@@ -1,9 +1,0 @@
-contact:
-  name: Anna Romero
-  email: anna.romero8087@gmail.com
-  phone: +1 700-391-2569
-  ssn: 498 54 3626
-  dob: 3/12/2004
-  address: 3926 Maple Blvd
-  city: Denver
-  state: IL

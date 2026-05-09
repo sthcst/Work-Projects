@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Reyes,jason.reyes9403@mail.com,206 526 5112,072 92 8741,10-13-1963,"3525 Fourth Ave",Phoenix,TN

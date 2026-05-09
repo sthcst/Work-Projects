@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Davis,katherine.davis4732@outlook.com,+1 560-987-9626,730 20 3513,9/27/1988,"8119 Summer Blvd",Denver,AZ

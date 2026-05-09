@@ -1,9 +1,0 @@
-contact:
-  name: Charles Taylor
-  email: charles.taylor7060@business.net
-  phone: 532 843 8596
-  ssn: 283 55 8221
-  dob: 01/14/1991
-  address: 2432 Cedar Rd
-  city: Seattle
-  state: NC

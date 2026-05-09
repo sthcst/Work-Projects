@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Delgado,maria.delgado2608@outlook.com,(410) 306-3153,269 89 5121,6/22/1970,"9141 Oak Rd",Boston,MO

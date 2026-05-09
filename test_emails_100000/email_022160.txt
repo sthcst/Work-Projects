@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Romero
-  email: stephanie.romero4679@company.com
-  phone: +1 936-556-5289
-  ssn: 899 62 5148
-  dob: 5/10/2000
-  address: 2206 North Rd
-  city: Austin
-  state: MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Lewis,donald.lewis6609@example.com,(691) 957-1833,370626598,20/09/1981,"3374 Fourth Dr",Chicago,MA

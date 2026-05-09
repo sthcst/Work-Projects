@@ -1,9 +1,0 @@
-contact:
-  name: Jane Thomas
-  email: jane.thomas7069@business.net
-  phone: +1 212-978-2791
-  ssn: 040-59-4279
-  dob: 11/27/1979
-  address: 9740 Summer Rd
-  city: Denver
-  state: MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Reyes,stephanie.reyes9133@example.com,+1 266-798-5280,509828639,04/19/1999,"1819 West St",San Diego,AZ

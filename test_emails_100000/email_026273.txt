@@ -1,9 +1,0 @@
-contact:
-  name: George Wilson
-  email: george.wilson4394@yahoo.com
-  phone: (996) 374-4354
-  ssn: 130577844
-  dob: 11/03/1986
-  address: 4665 Fifth Dr
-  city: New York
-  state: MA

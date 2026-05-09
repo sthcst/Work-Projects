@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Delgado,stephanie.delgado2552@yahoo.com,273 690 9526,960528958,27/02/1975,"2488 Third Way",Los Angeles,AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Morgan,rachel.morgan5073@gmail.com,713 315 6890,835-78-4077,04-24-1956,"4115 Birch Dr",San Jose,TX

@@ -1,9 +1,0 @@
-contact:
-  name: David Walker
-  email: david.walker6760@company.com
-  phone: (845) 255-9338
-  ssn: 325745738
-  dob: 22/02/1951
-  address: 7737 Third Dr
-  city: Phoenix
-  state: CA

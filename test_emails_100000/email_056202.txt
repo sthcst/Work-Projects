@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Bell
-  email: katherine.bell2331@outlook.com
-  phone: 736-848-7751
-  ssn: 596 36 9736
-  dob: 03-22-1950
-  address: 7827 Oak Way
-  city: Los Angeles
-  state: TX

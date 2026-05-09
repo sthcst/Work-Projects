@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Edwards,cynthia.edwards1877@work.org,915 351 2818,157-43-9441,20/10/1951,"1067 Oak Blvd",Washington,TX

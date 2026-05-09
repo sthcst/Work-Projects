@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Clark
-  email: sarah.clark1409@company.com
-  phone: 702-535-4836
-  ssn: 876 72 4624
-  dob: 13/03/1992
-  address: 1722 First Rd
-  city: Seattle
-  state: TN

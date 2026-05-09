@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Garcia,ryan.garcia2520@gmail.com,(671) 631-7919,058 82 7376,09-21-2004,"4059 Pine Dr",Phoenix,TX

@@ -1,9 +1,0 @@
-contact:
-  name: Jane Alvarado
-  email: jane.alvarado4841@mail.com
-  phone: (653) 410-2707
-  ssn: 453-99-4674
-  dob: 07/28/1977
-  address: 5411 First St
-  city: Houston
-  state: WA

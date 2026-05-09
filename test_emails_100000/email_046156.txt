@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily White,emily.white6937@yahoo.com,887 840 8338,191235027,08-21-1966,"3332 Summer Court",Boston,WI

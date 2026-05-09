@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Young,joshua.young4295@mail.com,(471) 460-4200,281 52 4862,09/14/1997,"5186 Fourth St",San Antonio,WA

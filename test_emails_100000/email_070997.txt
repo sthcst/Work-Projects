@@ -1,9 +1,0 @@
-contact:
-  name: Mark Rogers
-  email: mark.rogers5376@outlook.com
-  phone: 614 521 5350
-  ssn: 526 80 8050
-  dob: 10/03/1962
-  address: 9520 Cedar Ln
-  city: San Jose
-  state: MA

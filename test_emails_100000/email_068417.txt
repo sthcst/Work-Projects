@@ -1,9 +1,0 @@
-contact:
-  name: Robert Perez
-  email: robert.perez5306@yahoo.com
-  phone: 439 622 4243
-  ssn: 404 21 2124
-  dob: 09/04/1978
-  address: 648 Birch St
-  city: Phoenix
-  state: FL

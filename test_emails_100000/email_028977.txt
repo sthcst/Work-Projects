@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Rogers
-  email: amanda.rogers4987@yahoo.com
-  phone: +1 320-900-6903
-  ssn: 532 62 5682
-  dob: 05-04-1969
-  address: 1723 Elm Court
-  city: San Diego
-  state: WA

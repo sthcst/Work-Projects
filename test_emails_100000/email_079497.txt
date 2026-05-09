@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Young,mark.young5774@business.net,+1 773-475-8106,291 53 2359,20/12/1953,"505 Oak Ln",Seattle,WI

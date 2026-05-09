@@ -1,9 +1,0 @@
-contact:
-  name: Anthony White
-  email: anthony.white2107@yahoo.com
-  phone: 261-323-1114
-  ssn: 359-06-3158
-  dob: 21/03/1953
-  address: 428 Main St
-  city: Washington
-  state: CO

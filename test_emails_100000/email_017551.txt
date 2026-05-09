@@ -1,9 +1,0 @@
-contact:
-  name: James Peterson
-  email: james.peterson7815@yahoo.com
-  phone: +1 739-261-2186
-  ssn: 121 06 4132
-  dob: 8/20/1951
-  address: 8041 Sixth Ave
-  city: Chicago
-  state: NC

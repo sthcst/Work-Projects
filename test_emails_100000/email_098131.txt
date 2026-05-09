@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Romero
-  email: ashley.romero4280@example.com
-  phone: (961) 588-8515
-  ssn: 630-48-8863
-  dob: 06/13/2005
-  address: 3708 Second Way
-  city: Austin
-  state: NY

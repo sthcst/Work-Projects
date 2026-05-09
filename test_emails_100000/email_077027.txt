@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Collins
-  email: cynthia.collins7499@work.org
-  phone: 285-794-3791
-  ssn: 710-52-1565
-  dob: 12/20/1992
-  address: 304 West Ave
-  city: Washington
-  state: CA

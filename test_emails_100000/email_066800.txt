@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Evans,joshua.evans2400@mail.com,964 863 4629,344-80-8266,21/12/1963,"410 Pine St",Philadelphia,OH

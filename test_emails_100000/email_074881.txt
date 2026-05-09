@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Smith
-  email: rachel.smith4036@work.org
-  phone: (970) 894-9419
-  ssn: 324-31-4294
-  dob: 23/07/2002
-  address: 6468 Oak Ave
-  city: Philadelphia
-  state: MD

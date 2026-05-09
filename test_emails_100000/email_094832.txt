@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Cooper,lauren.cooper7762@yahoo.com,238 878 4934,198533866,22/01/1969,"9281 Oak St",New York,VA

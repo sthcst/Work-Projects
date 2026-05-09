@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Evans,kimberly.evans3601@mail.com,(938) 950-2582,212074650,15/01/1963,"489 Second Dr",Jacksonville,DC

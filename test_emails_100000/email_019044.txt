@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Wilson,george.wilson7876@gmail.com,+1 485-600-8863,250955595,24/05/1969,"9429 Sixth Way",Los Angeles,PA

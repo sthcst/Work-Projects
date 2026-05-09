@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Jimenez,rebecca.jimenez9440@work.org,(841) 368-7636,189-65-8223,22/05/1965,"8757 East Way",San Antonio,MO

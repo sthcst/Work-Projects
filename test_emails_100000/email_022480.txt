@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Delgado,sarah.delgado945@example.com,(454) 332-2442,268 83 2602,10/28/1966,"8614 Fifth Dr",Los Angeles,AZ

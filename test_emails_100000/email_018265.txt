@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Campbell
-  email: andrew.campbell1893@company.com
-  phone: 642-426-9182
-  ssn: 373-85-3152
-  dob: 03-12-1962
-  address: 8396 Summer Dr
-  city: Philadelphia
-  state: AZ

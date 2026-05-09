@@ -1,9 +1,0 @@
-contact:
-  name: Richard Morgan
-  email: richard.morgan8018@work.org
-  phone: 405-404-9561
-  ssn: 669 24 5967
-  dob: 02/10/1998
-  address: 1908 Park Rd
-  city: Philadelphia
-  state: NC

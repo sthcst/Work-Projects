@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Romero,kevin.romero9949@business.net,746-441-4679,527-24-5312,01-20-1963,"9355 Park Rd",Boston,PA

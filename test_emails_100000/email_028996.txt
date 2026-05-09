@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Guerrero,jason.guerrero4789@yahoo.com,+1 598-259-1144,151 34 4364,15/01/1970,"1674 North Rd",Los Angeles,WA

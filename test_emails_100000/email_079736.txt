@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Stewart
-  email: ashley.stewart4798@mail.com
-  phone: +1 852-406-1400
-  ssn: 740 48 2145
-  dob: 11-12-1961
-  address: 1225 First Ave
-  city: Austin
-  state: CO

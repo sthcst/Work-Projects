@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Rodriguez,christine.rodriguez3034@company.com,906-882-7412,026 82 4160,01/27/1978,"7491 Third St",Houston,MI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Smith,amanda.smith3114@gmail.com,(863) 779-1661,884353644,16/12/1963,"2143 Second Rd",Dallas,NJ

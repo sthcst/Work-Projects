@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Flores,jason.flores9825@example.com,801-369-5495,082 82 5143,12-06-2003,"8281 Main Rd",San Jose,AZ

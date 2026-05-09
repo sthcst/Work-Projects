@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Cooper
-  email: rachel.cooper2851@mail.com
-  phone: (649) 723-4273
-  ssn: 590 44 4316
-  dob: 04-05-1983
-  address: 6774 Main Dr
-  city: Jacksonville
-  state: AZ

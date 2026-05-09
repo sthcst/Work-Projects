@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Roberts,donald.roberts1688@company.com,+1 203-826-8244,255 93 6833,10/1/1987,"9652 Main Blvd",Austin,CA

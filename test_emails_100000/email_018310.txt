@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Stewart,kimberly.stewart6874@business.net,+1 492-837-4385,508-76-5178,16/03/2000,"8719 Sixth Rd",Chicago,PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Evans,samantha.evans5727@company.com,914-742-6957,081126155,11/3/1994,"4613 Fourth Dr",Washington,PA

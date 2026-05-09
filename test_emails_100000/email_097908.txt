@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Campbell
-  email: jennifer.campbell915@example.com
-  phone: 767 493 1454
-  ssn: 763 86 3868
-  dob: 06/08/1974
-  address: 2793 First Ln
-  city: San Antonio
-  state: MI

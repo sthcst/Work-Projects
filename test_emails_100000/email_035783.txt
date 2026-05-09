@@ -1,9 +1,0 @@
-contact:
-  name: Christine Sanchez
-  email: christine.sanchez7867@yahoo.com
-  phone: +1 916-683-2742
-  ssn: 189-66-5532
-  dob: 06-22-1968
-  address: 1493 Sixth Rd
-  city: Washington
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Anna Jones
-  email: anna.jones3090@work.org
-  phone: 327 605 7428
-  ssn: 350977105
-  dob: 12/8/1963
-  address: 4641 Second Rd
-  city: San Diego
-  state: AZ

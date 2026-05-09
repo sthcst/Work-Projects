@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Lopez
-  email: daniel.lopez4023@yahoo.com
-  phone: 340-240-3424
-  ssn: 490-62-6701
-  dob: 26/05/1976
-  address: 6469 Elm Dr
-  city: Phoenix
-  state: OH

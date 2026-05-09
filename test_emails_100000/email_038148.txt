@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Rogers,lauren.rogers3719@yahoo.com,882-514-2238,614 95 7390,7/10/1950,"2762 West Ln",San Diego,WA

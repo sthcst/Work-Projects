@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Reed
-  email: kevin.reed5493@work.org
-  phone: +1 852-284-5664
-  ssn: 011-02-7486
-  dob: 9/14/1993
-  address: 9516 First Way
-  city: San Antonio
-  state: AZ

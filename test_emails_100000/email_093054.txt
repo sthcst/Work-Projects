@@ -1,9 +1,0 @@
-contact:
-  name: Brenda White
-  email: brenda.white271@outlook.com
-  phone: 261 478 7655
-  ssn: 548-32-7753
-  dob: 11/10/1996
-  address: 4954 Third Blvd
-  city: Phoenix
-  state: MO

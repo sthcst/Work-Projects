@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Stewart,kenneth.stewart6374@yahoo.com,822-448-7847,745 85 2487,02/01/1968,"5962 Main St",Dallas,CO

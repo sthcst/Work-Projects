@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Johnson,lisa.johnson7660@mail.com,+1 354-861-3879,397-92-4702,08/01/1970,"7068 Fourth Rd",Jacksonville,TX

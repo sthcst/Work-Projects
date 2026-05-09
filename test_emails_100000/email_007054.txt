@@ -1,9 +1,0 @@
-contact:
-  name: Charles Evans
-  email: charles.evans1833@outlook.com
-  phone: 694 545 6496
-  ssn: 088-23-7440
-  dob: 2/19/1988
-  address: 8693 Birch Court
-  city: Dallas
-  state: NJ

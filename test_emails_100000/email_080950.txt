@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Jones,jennifer.jones1690@work.org,(876) 762-2043,511-91-3351,9/16/1991,"6539 South Ln",Philadelphia,WA

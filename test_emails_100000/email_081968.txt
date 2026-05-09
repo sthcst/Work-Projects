@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Stewart,donald.stewart6206@example.com,+1 390-296-5514,500167941,4/24/1976,"9474 Maple Dr",Boston,IL

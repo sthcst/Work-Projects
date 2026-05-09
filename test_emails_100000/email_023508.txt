@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Garcia,richard.garcia1586@gmail.com,+1 660-840-9947,784849185,24/02/2003,"8279 Maple Rd",Denver,WI

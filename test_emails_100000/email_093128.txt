@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Bell
-  email: pamela.bell3739@work.org
-  phone: 760 393 2440
-  ssn: 297-95-8024
-  dob: 09/04/1980
-  address: 5501 Main Ave
-  city: San Jose
-  state: NY

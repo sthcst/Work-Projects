@@ -1,9 +1,0 @@
-contact:
-  name: Mark Edwards
-  email: mark.edwards5944@yahoo.com
-  phone: 467 556 3549
-  ssn: 982 71 8019
-  dob: 3/16/1993
-  address: 2191 North Way
-  city: Washington
-  state: WA

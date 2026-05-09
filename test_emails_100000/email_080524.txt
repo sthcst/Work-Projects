@@ -1,9 +1,0 @@
-contact:
-  name: Jason Martinez
-  email: jason.martinez3899@yahoo.com
-  phone: (449) 354-8858
-  ssn: 970711097
-  dob: 09/02/1964
-  address: 8469 North Rd
-  city: New York
-  state: CA

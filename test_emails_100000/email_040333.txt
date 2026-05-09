@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Thompson,cynthia.thompson253@yahoo.com,+1 822-456-3179,673 22 2504,6/25/1982,"1139 Birch Dr",New York,NC

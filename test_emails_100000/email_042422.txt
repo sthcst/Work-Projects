@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Robinson
-  email: matthew.robinson7626@business.net
-  phone: (811) 239-1933
-  ssn: 717 77 3307
-  dob: 5/1/1984
-  address: 506 Third Dr
-  city: Philadelphia
-  state: CA

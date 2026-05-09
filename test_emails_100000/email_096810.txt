@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Phillips
-  email: rebecca.phillips5870@example.com
-  phone: (717) 930-9109
-  ssn: 696 56 6044
-  dob: 22/03/1970
-  address: 264 Cedar St
-  city: Boston
-  state: MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Roberts,kevin.roberts3238@example.com,373 391 5730,024049058,13/06/1994,"8673 West Way",Los Angeles,CO

@@ -1,9 +1,0 @@
-contact:
-  name: George Parker
-  email: george.parker4844@business.net
-  phone: +1 596-859-8271
-  ssn: 245 29 4801
-  dob: 01/24/1990
-  address: 7616 Pine Way
-  city: New York
-  state: TX

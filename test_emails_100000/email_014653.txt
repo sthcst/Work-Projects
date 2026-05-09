@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Serrano,stephanie.serrano9501@company.com,977-931-7949,054-90-5328,06/19/1973,"7736 Summer Ave",Dallas,MD

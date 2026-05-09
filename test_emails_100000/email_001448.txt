@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Roberts,jeffrey.roberts4016@outlook.com,(285) 470-6853,706-49-7088,9/26/1957,"7607 South Ave",Washington,CA

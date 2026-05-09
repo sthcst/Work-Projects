@@ -1,9 +1,0 @@
-contact:
-  name: Edward Collins
-  email: edward.collins2698@work.org
-  phone: +1 796-717-2355
-  ssn: 319-04-1898
-  dob: 14/06/1991
-  address: 3138 South Court
-  city: Seattle
-  state: MO

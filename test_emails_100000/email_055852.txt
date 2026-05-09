@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Robinson
-  email: amanda.robinson6158@work.org
-  phone: 446 955 8228
-  ssn: 220 27 7693
-  dob: 03/11/2000
-  address: 4181 Park Blvd
-  city: San Antonio
-  state: MA

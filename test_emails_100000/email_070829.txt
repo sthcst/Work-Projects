@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Garcia
-  email: nicole.garcia3460@company.com
-  phone: (400) 616-9912
-  ssn: 372-80-4196
-  dob: 12/27/1982
-  address: 360 Fifth St
-  city: Washington
-  state: CA

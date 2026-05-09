@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Thompson
-  email: lauren.thompson5365@business.net
-  phone: 340 783 1291
-  ssn: 012343001
-  dob: 12/12/1995
-  address: 444 Second Rd
-  city: Washington
-  state: OH

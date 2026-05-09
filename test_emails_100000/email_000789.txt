@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Martin,shirley.martin223@yahoo.com,(993) 594-3859,411851939,5/22/1975,"9363 Second Blvd",Boston,IL

@@ -1,9 +1,0 @@
-contact:
-  name: Richard Jones
-  email: richard.jones8859@work.org
-  phone: +1 685-518-2452
-  ssn: 313602833
-  dob: 10/16/1957
-  address: 524 Third Dr
-  city: Boston
-  state: OH

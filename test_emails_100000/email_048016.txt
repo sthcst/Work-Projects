@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Nunez,michael.nunez5986@work.org,626 990 9778,298-08-8504,08/10/1969,"3258 Cedar Blvd",Denver,IL

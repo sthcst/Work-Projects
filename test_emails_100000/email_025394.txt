@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Nunez
-  email: christopher.nunez8786@example.com
-  phone: 508 780 7856
-  ssn: 478959147
-  dob: 27/12/1970
-  address: 9561 North Ave
-  city: Philadelphia
-  state: TX

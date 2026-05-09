@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Parker
-  email: kevin.parker341@mail.com
-  phone: 766-381-2007
-  ssn: 040 04 3373
-  dob: 08-28-1970
-  address: 4355 Summer Court
-  city: Houston
-  state: TX

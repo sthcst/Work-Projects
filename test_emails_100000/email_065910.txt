@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Moore,helen.moore1038@mail.com,(903) 417-2456,798-22-1492,12-16-1995,"8955 Third St",Phoenix,WA

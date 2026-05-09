@@ -1,9 +1,0 @@
-contact:
-  name: John Rodriguez
-  email: john.rodriguez6151@example.com
-  phone: +1 542-941-2558
-  ssn: 936717379
-  dob: 02/05/1954
-  address: 9277 North Dr
-  city: Los Angeles
-  state: AZ

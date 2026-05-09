@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Jones,angela.jones8864@work.org,886 360 6074,691-74-1344,05/09/1951,"7447 Cedar Court",Chicago,CO

@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Reyes
-  email: nicole.reyes5567@mail.com
-  phone: 630 873 7691
-  ssn: 583 18 1380
-  dob: 05/03/1962
-  address: 9104 North Ave
-  city: San Antonio
-  state: PA

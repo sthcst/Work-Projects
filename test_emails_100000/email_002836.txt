@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Williams,ronald.williams3526@outlook.com,+1 615-982-3195,746896572,02/02/1964,"5977 Park St",Seattle,MA

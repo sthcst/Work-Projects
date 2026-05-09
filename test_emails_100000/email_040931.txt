@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Nunez
-  email: nicole.nunez9139@work.org
-  phone: (975) 690-2249
-  ssn: 753487239
-  dob: 01-28-1979
-  address: 8252 East St
-  city: San Jose
-  state: VA

@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Thompson
-  email: christopher.thompson1845@work.org
-  phone: 954 807 1352
-  ssn: 071832135
-  dob: 6/20/1969
-  address: 4253 Summer St
-  city: Austin
-  state: VA

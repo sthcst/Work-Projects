@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Perez,jacob.perez4334@outlook.com,482-235-6637,970 37 9472,11/03/1974,"2942 Third Rd",Austin,WA

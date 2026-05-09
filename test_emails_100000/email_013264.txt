@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Rodriguez,pamela.rodriguez4857@company.com,(940) 632-1440,623-09-7949,01-19-1982,"332 Park Rd",Seattle,WA

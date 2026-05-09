@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Sanchez,jessica.sanchez6535@mail.com,964 239 2779,083-03-9855,4/8/1985,"7472 Summer Ave",Chicago,NY

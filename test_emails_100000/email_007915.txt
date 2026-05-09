@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Anderson,george.anderson6708@mail.com,(552) 260-5793,326-79-4959,10-22-1958,"9013 Second Ave",Austin,AZ

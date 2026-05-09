@@ -1,9 +1,0 @@
-contact:
-  name: Helen Rodriguez
-  email: helen.rodriguez9907@mail.com
-  phone: (246) 717-4514
-  ssn: 490 11 4885
-  dob: 11/08/2003
-  address: 1206 Maple Court
-  city: Jacksonville
-  state: VA

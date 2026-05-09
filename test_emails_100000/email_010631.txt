@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Smith,jacob.smith5344@gmail.com,+1 714-813-7745,524461304,08/06/1978,"6822 Third Dr",Chicago,CA

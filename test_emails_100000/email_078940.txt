@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Campbell,george.campbell1337@yahoo.com,739-273-4361,561 10 1407,03/08/1975,"9179 Oak St",Austin,NC

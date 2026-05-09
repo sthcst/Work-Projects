@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Collins,angela.collins3372@outlook.com,853 419 7653,464-08-2653,25/11/1974,"5675 Cedar Way",Seattle,TX

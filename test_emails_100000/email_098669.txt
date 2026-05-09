@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Ramirez,ronald.ramirez306@outlook.com,(710) 836-2361,135 12 9287,12/22/1974,"1411 Birch Dr",Austin,GA

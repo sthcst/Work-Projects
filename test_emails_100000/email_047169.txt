@@ -1,9 +1,0 @@
-contact:
-  name: David Lee
-  email: david.lee2742@mail.com
-  phone: 317-322-3173
-  ssn: 995417268
-  dob: 04-17-1999
-  address: 7606 Third Blvd
-  city: Jacksonville
-  state: WA

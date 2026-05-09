@@ -1,9 +1,0 @@
-contact:
-  name: Michael Hall
-  email: michael.hall1052@gmail.com
-  phone: +1 516-223-6018
-  ssn: 510-14-7194
-  dob: 12/6/1987
-  address: 7034 Cedar St
-  city: Philadelphia
-  state: MD

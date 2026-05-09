@@ -1,9 +1,0 @@
-contact:
-  name: Paul Lopez
-  email: paul.lopez4581@mail.com
-  phone: +1 889-871-8608
-  ssn: 230336101
-  dob: 06-26-1991
-  address: 3197 Second St
-  city: San Antonio
-  state: CO

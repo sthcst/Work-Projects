@@ -1,9 +1,0 @@
-contact:
-  name: Helen Evans
-  email: helen.evans171@yahoo.com
-  phone: 376 232 7855
-  ssn: 918946945
-  dob: 06-18-1953
-  address: 6965 Second Ln
-  city: New York
-  state: NJ

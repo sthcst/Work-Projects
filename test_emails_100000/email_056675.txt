@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Stewart,pamela.stewart9056@example.com,+1 572-653-6846,034-94-9604,01/13/1958,"3515 First Rd",Seattle,WA

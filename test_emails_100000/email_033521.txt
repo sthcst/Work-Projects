@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Young,nicole.young2069@work.org,+1 812-507-2772,648-64-9219,11/2/1975,"7863 East St",Jacksonville,IL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Perez,robert.perez9940@example.com,(546) 953-1071,191 23 2559,12/27/1954,"8715 Park Rd",Washington,TX

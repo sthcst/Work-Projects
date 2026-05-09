@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Lee,jane.lee537@company.com,885 972 7195,239908897,12/2/1972,"9679 East Court",Washington,CA

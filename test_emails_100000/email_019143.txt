@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Ortiz,anthony.ortiz566@outlook.com,307-222-8816,572938632,11/11/2003,"5240 West Ln",Philadelphia,CA

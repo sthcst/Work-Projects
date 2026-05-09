@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Flores,paul.flores7177@company.com,(877) 493-4871,769477382,10/10/2004,"689 Sixth Rd",Austin,PA

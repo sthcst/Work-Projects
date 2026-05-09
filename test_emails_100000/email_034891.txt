@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Reeves
-  email: lauren.reeves5477@company.com
-  phone: +1 851-879-8129
-  ssn: 369742802
-  dob: 12/20/1977
-  address: 8360 Main Rd
-  city: Jacksonville
-  state: WA

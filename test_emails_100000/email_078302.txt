@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Taylor
-  email: daniel.taylor5387@mail.com
-  phone: (275) 495-2534
-  ssn: 321-08-7140
-  dob: 4/23/1952
-  address: 5359 Fifth Ave
-  city: Boston
-  state: IL

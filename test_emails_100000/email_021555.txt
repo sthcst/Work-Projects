@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Martinez,david.martinez5823@company.com,+1 224-409-7264,388 33 7634,06/14/1991,"7044 Third Ave",Philadelphia,MO

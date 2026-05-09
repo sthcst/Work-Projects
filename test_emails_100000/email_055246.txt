@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Alvarado,jennifer.alvarado3459@yahoo.com,706-755-9776,205-31-5349,12/14/1972,"834 Sixth Way",Boston,WA

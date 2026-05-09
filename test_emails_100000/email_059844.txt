@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Jackson,edward.jackson6974@mail.com,+1 270-960-4638,634 65 2294,11-28-1959,"8400 Oak St",Phoenix,PA

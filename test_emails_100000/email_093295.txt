@@ -1,9 +1,0 @@
-contact:
-  name: Jason Murillo
-  email: jason.murillo5445@mail.com
-  phone: 889-661-2383
-  ssn: 106-70-8993
-  dob: 09/16/1963
-  address: 2826 Second Blvd
-  city: Chicago
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Stephanie Alvarado
-  email: stephanie.alvarado1984@gmail.com
-  phone: 895-602-6017
-  ssn: 787-38-2431
-  dob: 4/21/1983
-  address: 6172 Cedar Way
-  city: San Jose
-  state: MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Reeves,emma.reeves6247@example.com,983 640 1424,991838985,12/24/1978,"8127 West St",San Antonio,FL

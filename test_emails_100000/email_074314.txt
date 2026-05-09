@@ -1,9 +1,0 @@
-contact:
-  name: Helen Phillips
-  email: helen.phillips9514@outlook.com
-  phone: 538 491 8248
-  ssn: 330 57 9961
-  dob: 8/20/1964
-  address: 447 Sixth Dr
-  city: Jacksonville
-  state: DC

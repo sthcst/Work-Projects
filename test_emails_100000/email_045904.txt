@@ -1,9 +1,0 @@
-contact:
-  name: John Johnson
-  email: john.johnson8931@gmail.com
-  phone: 969 338 4460
-  ssn: 287518432
-  dob: 12/23/1966
-  address: 3340 East Ave
-  city: Denver
-  state: MI

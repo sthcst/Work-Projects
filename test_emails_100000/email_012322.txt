@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Carter
-  email: ronald.carter5330@company.com
-  phone: +1 872-338-4249
-  ssn: 439 94 1475
-  dob: 01/12/1967
-  address: 2589 Sixth Ave
-  city: Denver
-  state: DC

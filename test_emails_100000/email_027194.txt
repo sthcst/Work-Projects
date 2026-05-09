@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Reed,deborah.reed873@yahoo.com,(630) 304-6287,990 97 6488,02-13-1989,"5256 West Dr",Seattle,FL

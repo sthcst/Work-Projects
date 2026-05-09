@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas White
-  email: nicholas.white9003@company.com
-  phone: 620-576-4609
-  ssn: 480-06-1177
-  dob: 19/04/1991
-  address: 9418 West St
-  city: Chicago
-  state: PA

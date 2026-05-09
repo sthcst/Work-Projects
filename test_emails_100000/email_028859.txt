@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Wilson,michael.wilson5920@mail.com,(747) 546-1478,921 70 5518,05/23/1951,"9092 Main Court",Los Angeles,MA

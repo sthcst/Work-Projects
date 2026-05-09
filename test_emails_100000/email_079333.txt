@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Gomez,michael.gomez2727@company.com,+1 627-861-2078,860-76-3462,03/08/1973,"6082 Birch Court",Houston,NJ

@@ -1,9 +1,0 @@
-contact:
-  name: Jason Flores
-  email: jason.flores3770@business.net
-  phone: (628) 299-1247
-  ssn: 510 91 6312
-  dob: 04/24/1987
-  address: 3547 North Court
-  city: New York
-  state: WI

@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Nunez
-  email: timothy.nunez3197@mail.com
-  phone: +1 863-488-4722
-  ssn: 769-27-9419
-  dob: 17/03/1968
-  address: 8715 Summer Court
-  city: Houston
-  state: CA

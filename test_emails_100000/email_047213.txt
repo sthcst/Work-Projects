@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Cooper,stephanie.cooper4318@outlook.com,+1 607-320-9130,114 75 2338,6/4/2002,"2270 Spring Court",Dallas,CA

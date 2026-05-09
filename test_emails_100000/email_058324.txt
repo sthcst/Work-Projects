@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Gomez
-  email: kathleen.gomez6554@mail.com
-  phone: +1 414-399-1431
-  ssn: 515-69-8973
-  dob: 06/01/1991
-  address: 9753 Third Way
-  city: Los Angeles
-  state: TX

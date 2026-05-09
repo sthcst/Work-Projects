@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Gomez
-  email: jacob.gomez6057@company.com
-  phone: 687 658 2703
-  ssn: 742 51 5047
-  dob: 16/08/1978
-  address: 9266 Park Dr
-  city: San Jose
-  state: GA

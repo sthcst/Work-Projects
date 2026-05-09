@@ -1,9 +1,0 @@
-contact:
-  name: Gary Campbell
-  email: gary.campbell3019@example.com
-  phone: 825 542 1706
-  ssn: 501 59 7859
-  dob: 15/11/1955
-  address: 4046 Summer Blvd
-  city: Jacksonville
-  state: WA

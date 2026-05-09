@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Reed
-  email: jacob.reed8350@gmail.com
-  phone: 248 669 9295
-  ssn: 919635383
-  dob: 03-02-1958
-  address: 3370 West Ave
-  city: Philadelphia
-  state: CA

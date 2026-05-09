@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Thomas,michelle.thomas3009@business.net,257 405 2383,117768834,8/2/1954,"8962 First Ave",Houston,NC

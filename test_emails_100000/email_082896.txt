@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Jimenez
-  email: matthew.jimenez3407@work.org
-  phone: +1 437-668-1504
-  ssn: 522-75-4738
-  dob: 20/02/1956
-  address: 1651 First Dr
-  city: Boston
-  state: TX

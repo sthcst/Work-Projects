@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Anderson,ronald.anderson1376@gmail.com,+1 598-604-2674,640 40 4914,08-03-1952,"3618 Pine Dr",Austin,WI

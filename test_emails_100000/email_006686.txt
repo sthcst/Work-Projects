@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Robinson
-  email: brenda.robinson8057@company.com
-  phone: 978-678-7450
-  ssn: 415 86 7926
-  dob: 6/6/1953
-  address: 2968 Birch Ln
-  city: Boston
-  state: TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Lewis,paul.lewis5836@business.net,432-269-5049,446946815,08/09/1956,"3552 Pine Ave",Chicago,WI

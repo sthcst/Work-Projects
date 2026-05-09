@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Guerrero,cynthia.guerrero585@mail.com,(441) 234-7527,503 07 4833,04-15-1957,"1798 Second St",Denver,AZ

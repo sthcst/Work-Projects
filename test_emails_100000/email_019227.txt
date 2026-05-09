@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren White,lauren.white2596@work.org,261 951 6338,514829635,8/15/1967,"3933 Oak Ave",San Diego,MD

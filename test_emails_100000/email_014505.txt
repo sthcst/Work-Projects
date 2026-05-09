@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Perez,jason.perez7269@outlook.com,(235) 742-1898,369-66-2977,03-13-1966,"1078 Pine Court",New York,PA

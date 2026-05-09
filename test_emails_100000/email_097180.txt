@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Perez
-  email: cynthia.perez7035@mail.com
-  phone: 567 757 7711
-  ssn: 589-93-1605
-  dob: 07/04/1990
-  address: 1414 Pine Ave
-  city: Denver
-  state: CA

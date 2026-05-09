@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Thompson,nicholas.thompson4172@company.com,557 787 6209,400 27 6767,9/26/1992,"6292 First Way",Boston,CA

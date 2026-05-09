@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Wilson,gary.wilson6396@example.com,423 827 4603,423 25 7145,04/10/1985,"2808 Birch St",Seattle,FL

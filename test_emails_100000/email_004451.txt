@@ -1,9 +1,0 @@
-contact:
-  name: Anna Jimenez
-  email: anna.jimenez4592@gmail.com
-  phone: 908-522-2684
-  ssn: 504 82 3040
-  dob: 07/12/1972
-  address: 2459 Third Rd
-  city: Jacksonville
-  state: MO

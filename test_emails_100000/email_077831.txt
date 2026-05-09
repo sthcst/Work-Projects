@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Harris,kimberly.harris2128@mail.com,881 611 2773,167 01 3508,13/12/1977,"7282 Sixth Blvd",San Diego,MA

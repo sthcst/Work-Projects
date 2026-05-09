@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Carter
-  email: christopher.carter8282@example.com
-  phone: 518-891-8589
-  ssn: 237-03-2768
-  dob: 08/05/2003
-  address: 9115 Third Way
-  city: Los Angeles
-  state: MO

@@ -1,9 +1,0 @@
-contact:
-  name: Jason Sanchez
-  email: jason.sanchez3029@yahoo.com
-  phone: (996) 503-6211
-  ssn: 655-74-2517
-  dob: 02/03/1963
-  address: 3078 East St
-  city: San Antonio
-  state: PA

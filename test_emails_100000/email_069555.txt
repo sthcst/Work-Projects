@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Phillips
-  email: lisa.phillips5345@gmail.com
-  phone: 476-453-1417
-  ssn: 787-73-9669
-  dob: 17/07/1973
-  address: 2293 Second Blvd
-  city: Boston
-  state: NC

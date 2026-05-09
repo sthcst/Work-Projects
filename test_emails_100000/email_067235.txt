@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Nunez
-  email: michelle.nunez1813@mail.com
-  phone: 215 819 7388
-  ssn: 675 02 9923
-  dob: 04-22-1970
-  address: 4754 Cedar Court
-  city: San Diego
-  state: MD

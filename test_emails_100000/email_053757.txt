@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Gonzalez
-  email: christopher.gonzalez3013@company.com
-  phone: +1 413-782-4820
-  ssn: 272-38-6523
-  dob: 10/20/1988
-  address: 1639 Fourth Ln
-  city: Los Angeles
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Emily Clark
-  email: emily.clark4313@company.com
-  phone: (373) 352-9096
-  ssn: 486-28-5861
-  dob: 02/03/1977
-  address: 8623 Elm Ave
-  city: Philadelphia
-  state: CO

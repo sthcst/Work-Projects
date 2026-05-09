@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Lee,ronald.lee1048@company.com,876-442-8576,124763714,10/03/1976,"6544 Park St",San Diego,TX

@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Perez
-  email: kathleen.perez6752@outlook.com
-  phone: +1 357-383-3143
-  ssn: 161 10 6010
-  dob: 07/20/1955
-  address: 8108 Second Way
-  city: San Jose
-  state: AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Harris,charles.harris5143@example.com,279-548-3979,215845842,13/03/1953,"3097 Pine St",Phoenix,WA

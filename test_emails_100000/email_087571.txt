@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Brown,daniel.brown3850@gmail.com,801 236 3371,150-89-5067,07/24/1964,"5690 North St",Phoenix,NJ

@@ -1,9 +1,0 @@
-contact:
-  name: Robert Edwards
-  email: robert.edwards3549@company.com
-  phone: 477-546-9760
-  ssn: 881-07-5483
-  dob: 1/22/1955
-  address: 8401 Second Rd
-  city: Los Angeles
-  state: TX

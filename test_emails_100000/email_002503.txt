@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Lee
-  email: samantha.lee6916@work.org
-  phone: 579-632-2413
-  ssn: 654-39-8678
-  dob: 2/6/1989
-  address: 9627 Spring Blvd
-  city: San Jose
-  state: IL

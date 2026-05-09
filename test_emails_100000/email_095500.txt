@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jennifer Johnson,jennifer.johnson7682@work.org,323 782 6763,118713780,2/8/1987,"6480 Spring Rd",Seattle,FL

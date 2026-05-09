@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Harris,jason.harris3650@outlook.com,722-364-3216,953 11 9425,05-13-1955,"5594 Summer Rd",New York,MA

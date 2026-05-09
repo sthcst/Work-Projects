@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Parker,katherine.parker7151@mail.com,+1 576-223-7862,824733594,12/19/1971,"6594 Fourth Ln",Jacksonville,CA

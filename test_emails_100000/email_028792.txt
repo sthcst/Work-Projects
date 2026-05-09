@@ -1,9 +1,0 @@
-contact:
-  name: Donald Garcia
-  email: donald.garcia1562@gmail.com
-  phone: 243-911-4687
-  ssn: 020-08-3980
-  dob: 05/23/2003
-  address: 6302 Maple Way
-  city: San Antonio
-  state: WA

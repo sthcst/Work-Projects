@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Serrano,jeffrey.serrano1322@example.com,216 596 9997,192 77 2172,22/06/1986,"9892 Birch Rd",San Jose,NJ

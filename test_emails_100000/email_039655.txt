@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Peterson,steven.peterson3717@business.net,+1 371-204-6140,026 99 8593,02-17-1977,"819 Main Ln",Denver,DC

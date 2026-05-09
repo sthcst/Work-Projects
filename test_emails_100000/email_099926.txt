@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Thompson,cynthia.thompson8052@work.org,+1 789-931-1695,490 92 5534,21/06/1957,"5863 West Court",Jacksonville,DC

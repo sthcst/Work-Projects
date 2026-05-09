@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Clark,richard.clark6248@example.com,(338) 691-4901,140-56-6447,22/06/1986,"8590 Oak Rd",Los Angeles,CA

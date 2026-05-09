@@ -1,9 +1,0 @@
-contact:
-  name: Anna Morris
-  email: anna.morris2278@example.com
-  phone: 768-387-5111
-  ssn: 908 70 2529
-  dob: 26/11/1964
-  address: 1267 Summer St
-  city: Seattle
-  state: FL

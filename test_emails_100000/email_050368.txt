@@ -1,9 +1,0 @@
-contact:
-  name: John Martinez
-  email: john.martinez4478@yahoo.com
-  phone: 248-204-9316
-  ssn: 973435082
-  dob: 04/28/1976
-  address: 8391 Oak Court
-  city: Seattle
-  state: TX

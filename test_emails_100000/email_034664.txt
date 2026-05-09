@@ -1,9 +1,0 @@
-contact:
-  name: Jane Young
-  email: jane.young6867@gmail.com
-  phone: +1 768-703-7036
-  ssn: 581-98-1175
-  dob: 09/03/1989
-  address: 1271 Birch Way
-  city: Phoenix
-  state: NJ

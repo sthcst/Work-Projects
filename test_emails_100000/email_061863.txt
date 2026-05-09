@@ -1,9 +1,0 @@
-contact:
-  name: Steven Robinson
-  email: steven.robinson5885@yahoo.com
-  phone: +1 425-288-1957
-  ssn: 143843366
-  dob: 04/05/1983
-  address: 7182 Main Court
-  city: Washington
-  state: TX

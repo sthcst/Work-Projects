@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Young,katherine.young3458@company.com,817-733-8808,048-29-9420,12/9/2003,"9716 Fourth Blvd",Phoenix,DC

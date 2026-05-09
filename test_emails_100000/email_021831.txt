@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Alvarado,kevin.alvarado3340@company.com,+1 532-500-1001,170 92 9177,04-22-1968,"9940 Elm Blvd",Seattle,DC

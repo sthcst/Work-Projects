@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Roberts
-  email: katherine.roberts5845@work.org
-  phone: 225-444-4748
-  ssn: 526051494
-  dob: 07-27-1964
-  address: 3265 East Ln
-  city: Los Angeles
-  state: AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Davis,cynthia.davis6667@mail.com,+1 730-758-1827,390-71-2488,04-14-1992,"4915 Park Way",Houston,CO

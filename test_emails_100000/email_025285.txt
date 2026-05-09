@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Hernandez
-  email: kathleen.hernandez6222@company.com
-  phone: (713) 847-5333
-  ssn: 066-82-5542
-  dob: 05/07/1971
-  address: 4063 Park Blvd
-  city: New York
-  state: PA

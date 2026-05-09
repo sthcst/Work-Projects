@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Taylor
-  email: timothy.taylor6710@company.com
-  phone: 535-205-4687
-  ssn: 183-93-5800
-  dob: 10/25/1971
-  address: 7024 Cedar Ln
-  city: Seattle
-  state: PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Alvarado,pamela.alvarado2548@mail.com,+1 315-772-5588,098304345,12/25/2005,"4485 North St",Washington,MA

@@ -1,9 +1,0 @@
-contact:
-  name: Edward Murillo
-  email: edward.murillo1877@yahoo.com
-  phone: 714-273-5735
-  ssn: 895 45 4209
-  dob: 23/01/2005
-  address: 4344 North Rd
-  city: Chicago
-  state: TX

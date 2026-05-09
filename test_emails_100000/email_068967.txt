@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Ramirez,katherine.ramirez7306@company.com,239 339 8951,692 97 8981,12/26/1956,"4245 Pine Court",Dallas,DC

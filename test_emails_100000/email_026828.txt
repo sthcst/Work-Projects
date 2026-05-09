@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Murillo,kevin.murillo889@mail.com,(851) 534-7356,838318074,20/09/1955,"2997 Cedar Ave",Los Angeles,FL

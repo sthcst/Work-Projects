@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Anderson,nicole.anderson1846@business.net,205-928-8424,116555187,19/02/1968,"4077 Second Ln",San Diego,WA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Campbell,ryan.campbell3320@work.org,675-586-9312,270 38 7781,6/18/1998,"8010 Fifth Rd",Seattle,FL

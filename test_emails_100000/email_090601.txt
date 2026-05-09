@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kenneth Jackson,kenneth.jackson4836@example.com,(741) 309-5187,933-81-9519,19/06/1962,"3921 Second Rd",Denver,CO

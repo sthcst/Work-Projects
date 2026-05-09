@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Gonzalez,rachel.gonzalez5464@gmail.com,953 442 6307,059-77-6083,07/08/1976,"2772 Oak Ave",San Jose,CA

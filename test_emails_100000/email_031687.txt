@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Dominguez
-  email: matthew.dominguez7985@gmail.com
-  phone: 261 429 1249
-  ssn: 310 85 9120
-  dob: 15/03/1967
-  address: 1131 Second Ave
-  city: Philadelphia
-  state: CA

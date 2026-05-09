@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Dominguez,lauren.dominguez3586@outlook.com,+1 251-770-5082,940-16-8478,08-22-1983,"7261 Sixth Way",Seattle,MD

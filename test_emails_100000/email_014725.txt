@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Evans,robert.evans3764@mail.com,497-514-4087,505-39-2920,27/07/2002,"976 Main Court",Los Angeles,NJ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Smith,katherine.smith5627@outlook.com,906-976-2758,419279793,11/15/1959,"1818 First Dr",Seattle,IL

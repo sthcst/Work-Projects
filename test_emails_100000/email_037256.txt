@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Roberts
-  email: ashley.roberts5773@yahoo.com
-  phone: 485 234 2110
-  ssn: 320-13-4284
-  dob: 03/14/1976
-  address: 958 Pine Blvd
-  city: San Jose
-  state: WI

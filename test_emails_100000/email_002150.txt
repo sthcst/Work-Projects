@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Phillips
-  email: nicholas.phillips673@yahoo.com
-  phone: 664-395-1407
-  ssn: 704494755
-  dob: 03-03-1967
-  address: 2178 Fourth Court
-  city: Boston
-  state: AZ

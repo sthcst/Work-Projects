@@ -1,9 +1,0 @@
-contact:
-  name: Richard Peterson
-  email: richard.peterson8155@yahoo.com
-  phone: 812-657-4299
-  ssn: 872 95 7546
-  dob: 10/04/1994
-  address: 6670 Spring Ave
-  city: Houston
-  state: WA

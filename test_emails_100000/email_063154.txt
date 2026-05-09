@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Davis,nicole.davis2962@business.net,865-646-7149,826-17-9211,08-09-1959,"8287 West Dr",San Diego,NJ

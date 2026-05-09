@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Morgan,donald.morgan2926@yahoo.com,+1 815-835-8007,479529484,08/11/1979,"6041 Pine Court",New York,OH

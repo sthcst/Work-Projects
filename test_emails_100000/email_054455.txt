@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-James Lee,james.lee9283@gmail.com,+1 968-486-3061,682525991,2/9/1952,"1422 South St",Philadelphia,GA

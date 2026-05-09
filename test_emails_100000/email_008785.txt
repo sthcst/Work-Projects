@@ -1,9 +1,0 @@
-contact:
-  name: Jane Bell
-  email: jane.bell750@example.com
-  phone: 310 605 9262
-  ssn: 206-94-3228
-  dob: 23/10/1959
-  address: 7555 Elm Dr
-  city: Denver
-  state: MA

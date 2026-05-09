@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Phillips,mark.phillips6991@company.com,(832) 817-1488,456 77 2379,8/27/1967,"7960 Spring St",Washington,TX

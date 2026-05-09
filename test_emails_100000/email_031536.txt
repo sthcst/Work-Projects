@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Hernandez
-  email: daniel.hernandez5945@mail.com
-  phone: 454-473-3111
-  ssn: 446774103
-  dob: 03/05/1982
-  address: 6964 Main Dr
-  city: Philadelphia
-  state: GA

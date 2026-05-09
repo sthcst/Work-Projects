@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Ortiz,ryan.ortiz9144@business.net,+1 669-242-5735,388 22 9830,18/03/1973,"3162 Maple St",Seattle,FL

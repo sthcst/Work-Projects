@@ -1,9 +1,0 @@
-contact:
-  name: Jason Roberts
-  email: jason.roberts6154@outlook.com
-  phone: 802-479-7739
-  ssn: 038801653
-  dob: 08-21-1985
-  address: 1199 Pine St
-  city: Seattle
-  state: IL

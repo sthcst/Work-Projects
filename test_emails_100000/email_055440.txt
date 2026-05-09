@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Taylor,emma.taylor5751@example.com,266 295 8649,854 30 4287,6/27/1993,"2632 Elm Dr",Phoenix,CA

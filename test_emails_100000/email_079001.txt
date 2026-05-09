@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Rodriguez,jeffrey.rodriguez4102@gmail.com,750 976 6486,401-49-6334,03/15/1972,"1267 Summer Ln",Philadelphia,FL

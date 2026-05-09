@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Evans,shirley.evans6283@outlook.com,749-537-2557,305-84-4278,01/19/1971,"6304 Fifth St",Jacksonville,NC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Romero,nicholas.romero5158@outlook.com,969-832-9595,309978133,5/6/1987,"6169 Elm Ave",New York,WA

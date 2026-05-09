@@ -1,9 +1,0 @@
-contact:
-  name: John Davis
-  email: john.davis2740@work.org
-  phone: +1 765-318-1395
-  ssn: 366-73-6977
-  dob: 01/08/1975
-  address: 1111 First St
-  city: Boston
-  state: TX

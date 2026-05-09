@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Walker
-  email: sarah.walker4863@mail.com
-  phone: (252) 771-7963
-  ssn: 735 26 8652
-  dob: 05/19/1958
-  address: 8324 South Rd
-  city: San Jose
-  state: AZ

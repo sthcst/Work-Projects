@@ -1,9 +1,0 @@
-contact:
-  name: Michael Edwards
-  email: michael.edwards512@work.org
-  phone: +1 341-314-3816
-  ssn: 552 57 8740
-  dob: 01/25/1977
-  address: 1945 Birch Blvd
-  city: Seattle
-  state: WA

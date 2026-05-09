@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Lee
-  email: lauren.lee2946@yahoo.com
-  phone: 720-750-3654
-  ssn: 667273799
-  dob: 10/07/1970
-  address: 4159 North Court
-  city: New York
-  state: MA

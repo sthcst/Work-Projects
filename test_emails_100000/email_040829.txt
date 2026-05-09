@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Moore,brian.moore6465@yahoo.com,+1 518-998-7814,945-95-8841,1/9/1959,"7595 South Rd",San Diego,NJ

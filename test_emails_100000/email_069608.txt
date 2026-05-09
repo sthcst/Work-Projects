@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Morgan
-  email: samantha.morgan6239@gmail.com
-  phone: +1 541-725-6205
-  ssn: 266 17 1900
-  dob: 23/12/1956
-  address: 2743 Oak Court
-  city: Houston
-  state: OH

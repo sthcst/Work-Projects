@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Carter
-  email: timothy.carter5031@company.com
-  phone: 712 399 5682
-  ssn: 964-95-4308
-  dob: 04-09-1950
-  address: 5860 Third Court
-  city: San Jose
-  state: NJ

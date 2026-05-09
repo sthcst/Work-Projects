@@ -1,9 +1,0 @@
-contact:
-  name: Emily Peterson
-  email: emily.peterson4070@business.net
-  phone: (981) 637-8145
-  ssn: 303756708
-  dob: 08-22-2004
-  address: 5187 South St
-  city: Dallas
-  state: NC

@@ -1,9 +1,0 @@
-contact:
-  name: Emily Perez
-  email: emily.perez9049@gmail.com
-  phone: (774) 226-3371
-  ssn: 175 23 5929
-  dob: 14/07/1955
-  address: 5347 Elm Court
-  city: Jacksonville
-  state: GA

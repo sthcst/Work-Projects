@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Alvarado
-  email: amanda.alvarado3590@outlook.com
-  phone: (609) 679-3377
-  ssn: 012-09-8439
-  dob: 4/24/1963
-  address: 4509 Oak Blvd
-  city: Washington
-  state: TX

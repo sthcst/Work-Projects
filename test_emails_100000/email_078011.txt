@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Campbell
-  email: brenda.campbell9956@business.net
-  phone: 737 622 3515
-  ssn: 466038792
-  dob: 06/18/1968
-  address: 4164 Park Ave
-  city: Seattle
-  state: IL

@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Reyes
-  email: jennifer.reyes2548@example.com
-  phone: (561) 816-7695
-  ssn: 015671419
-  dob: 9/22/1959
-  address: 3738 Third Court
-  city: Denver
-  state: TN

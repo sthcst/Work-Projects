@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Clark
-  email: jessica.clark2428@outlook.com
-  phone: 629 270 8422
-  ssn: 832 36 9746
-  dob: 02/04/1970
-  address: 2022 Fourth St
-  city: San Antonio
-  state: MA

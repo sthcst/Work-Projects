@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Phillips
-  email: katherine.phillips2753@yahoo.com
-  phone: +1 552-232-9451
-  ssn: 724-21-6717
-  dob: 09-07-1983
-  address: 5576 Fifth Dr
-  city: Phoenix
-  state: MO

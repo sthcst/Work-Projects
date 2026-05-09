@@ -1,9 +1,0 @@
-contact:
-  name: William Edwards
-  email: william.edwards2830@yahoo.com
-  phone: (457) 329-9608
-  ssn: 258-77-2929
-  dob: 12-04-1959
-  address: 9807 Cedar Dr
-  city: Denver
-  state: FL

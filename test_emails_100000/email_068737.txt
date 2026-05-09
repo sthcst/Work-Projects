@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Robinson
-  email: joshua.robinson3442@mail.com
-  phone: 272 570 4946
-  ssn: 971-61-9278
-  dob: 4/4/1975
-  address: 7095 Third Ln
-  city: Austin
-  state: GA

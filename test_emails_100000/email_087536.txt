@@ -1,9 +1,0 @@
-contact:
-  name: Robert Rodriguez
-  email: robert.rodriguez2138@mail.com
-  phone: 294-370-4097
-  ssn: 061 64 5960
-  dob: 12/13/1992
-  address: 4361 Maple Rd
-  city: Seattle
-  state: GA

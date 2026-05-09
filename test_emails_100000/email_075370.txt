@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Romero,megan.romero6610@company.com,596-296-7771,057628580,8/27/1952,"165 Fourth Dr",New York,AZ

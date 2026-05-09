@@ -1,9 +1,0 @@
-contact:
-  name: Paul Anderson
-  email: paul.anderson1057@mail.com
-  phone: 875 375 4189
-  ssn: 409 48 6246
-  dob: 03/01/1981
-  address: 7960 Spring Rd
-  city: Boston
-  state: TX

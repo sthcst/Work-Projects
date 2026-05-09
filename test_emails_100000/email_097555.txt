@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Perez,amanda.perez2534@yahoo.com,348-717-5602,961-93-2759,11-14-1977,"6986 Pine St",San Jose,FL

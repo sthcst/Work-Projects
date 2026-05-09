@@ -1,9 +1,0 @@
-contact:
-  name: John Reyes
-  email: john.reyes7894@company.com
-  phone: +1 525-789-7316
-  ssn: 923-31-3138
-  dob: 1/22/1959
-  address: 9342 West St
-  city: San Jose
-  state: CA

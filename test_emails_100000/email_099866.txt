@@ -1,9 +1,0 @@
-contact:
-  name: Gary Peterson
-  email: gary.peterson1299@gmail.com
-  phone: 856-336-4014
-  ssn: 813491797
-  dob: 4/24/1957
-  address: 3694 Oak Ln
-  city: San Diego
-  state: MA

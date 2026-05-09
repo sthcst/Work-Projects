@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Dominguez
-  email: cynthia.dominguez2801@business.net
-  phone: +1 592-935-3475
-  ssn: 140 59 2779
-  dob: 7/2/2004
-  address: 2327 Elm Dr
-  city: Jacksonville
-  state: MA

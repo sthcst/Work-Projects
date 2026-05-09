@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Taylor
-  email: michelle.taylor9486@mail.com
-  phone: (394) 818-6718
-  ssn: 329-68-6236
-  dob: 02-28-1997
-  address: 3587 Fifth St
-  city: San Jose
-  state: GA

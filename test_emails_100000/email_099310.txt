@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Davis
-  email: jessica.davis3511@example.com
-  phone: 430 655 8125
-  ssn: 376673639
-  dob: 7/7/1994
-  address: 6850 Maple St
-  city: Dallas
-  state: GA

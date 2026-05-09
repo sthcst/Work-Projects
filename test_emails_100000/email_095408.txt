@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Sanchez,jacob.sanchez493@yahoo.com,+1 659-265-2187,193 65 1954,11/16/1995,"6613 South Rd",Denver,GA

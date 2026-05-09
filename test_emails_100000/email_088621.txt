@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joshua Davis,joshua.davis8976@business.net,347-983-2231,213-70-9707,18/09/1972,"9203 Fourth Ave",Austin,CO

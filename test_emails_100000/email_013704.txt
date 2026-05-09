@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Davis,christopher.davis1924@gmail.com,(529) 425-9101,206708331,27/03/1977,"8373 West St",Philadelphia,WA

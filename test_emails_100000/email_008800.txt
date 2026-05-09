@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Lewis,richard.lewis4609@mail.com,+1 666-519-8661,494451497,1/26/1969,"9282 Summer St",Dallas,TX

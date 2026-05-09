@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Taylor,christine.taylor8056@work.org,(212) 653-4192,203022439,12/23/1982,"7234 South Rd",Chicago,TX

@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Roberts
-  email: kimberly.roberts2918@company.com
-  phone: +1 671-500-3060
-  ssn: 341311195
-  dob: 03/01/1998
-  address: 2300 Spring Rd
-  city: Houston
-  state: WA

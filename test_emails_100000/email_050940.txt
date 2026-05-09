@@ -1,9 +1,0 @@
-contact:
-  name: Daniel Carter
-  email: daniel.carter4094@example.com
-  phone: 754 882 4580
-  ssn: 980 98 4208
-  dob: 1/20/1960
-  address: 3503 West Ln
-  city: San Antonio
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Nunez
-  email: katherine.nunez9999@gmail.com
-  phone: 442 284 3031
-  ssn: 371972864
-  dob: 08-18-1961
-  address: 4409 Maple St
-  city: Dallas
-  state: NJ

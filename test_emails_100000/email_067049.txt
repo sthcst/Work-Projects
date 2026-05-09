@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Flores
-  email: brenda.flores4504@mail.com
-  phone: (628) 837-1476
-  ssn: 664667040
-  dob: 26/01/1981
-  address: 4375 East Blvd
-  city: San Diego
-  state: GA

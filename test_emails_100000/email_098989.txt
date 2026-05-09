@@ -1,9 +1,0 @@
-contact:
-  name: Samantha Reeves
-  email: samantha.reeves8235@business.net
-  phone: 378 554 1573
-  ssn: 172 62 8997
-  dob: 01/17/1950
-  address: 3700 South Way
-  city: Jacksonville
-  state: PA

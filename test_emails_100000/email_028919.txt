@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Bell
-  email: jeffrey.bell6521@example.com
-  phone: +1 984-583-2436
-  ssn: 039278617
-  dob: 11/11/1985
-  address: 490 First Dr
-  city: Washington
-  state: CA

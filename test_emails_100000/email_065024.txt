@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Jones,stephanie.jones6744@business.net,(287) 710-1121,414-18-9005,01-08-1960,"8983 Pine Rd",Philadelphia,MO

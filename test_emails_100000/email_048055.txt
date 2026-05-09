@@ -1,9 +1,0 @@
-contact:
-  name: Brian Brown
-  email: brian.brown4674@outlook.com
-  phone: 726 893 3715
-  ssn: 005-21-6990
-  dob: 08/01/1957
-  address: 8695 Park Rd
-  city: Los Angeles
-  state: MD

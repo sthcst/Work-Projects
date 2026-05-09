@@ -1,9 +1,0 @@
-contact:
-  name: Edward Lopez
-  email: edward.lopez5801@example.com
-  phone: (215) 486-3856
-  ssn: 166595973
-  dob: 8/4/2004
-  address: 8337 West Court
-  city: Seattle
-  state: WA

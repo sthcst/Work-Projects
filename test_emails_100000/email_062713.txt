@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Hernandez
-  email: rachel.hernandez2519@company.com
-  phone: 784 895 3857
-  ssn: 007 80 9777
-  dob: 09/20/2001
-  address: 332 Oak Ave
-  city: Houston
-  state: WA

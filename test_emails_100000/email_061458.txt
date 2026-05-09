@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Thomas,edward.thomas3601@yahoo.com,+1 311-705-6244,044 80 8150,08-10-1977,"3226 West Court",San Diego,VA

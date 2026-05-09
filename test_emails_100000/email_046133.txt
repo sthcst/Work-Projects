@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Reed
-  email: kathleen.reed6966@yahoo.com
-  phone: +1 472-616-8425
-  ssn: 315 93 8445
-  dob: 04-28-1953
-  address: 1147 Second Way
-  city: Dallas
-  state: VA

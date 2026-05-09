@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Miller,deborah.miller1470@mail.com,+1 525-989-7242,435 48 9888,13/07/1964,"2346 Spring Ln",Dallas,TX

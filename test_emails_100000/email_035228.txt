@@ -1,9 +1,0 @@
-contact:
-  name: Michael Morgan
-  email: michael.morgan502@company.com
-  phone: 985-705-8187
-  ssn: 998 68 5583
-  dob: 7/14/1987
-  address: 1629 Oak Court
-  city: Austin
-  state: TX

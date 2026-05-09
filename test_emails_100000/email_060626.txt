@@ -1,9 +1,0 @@
-contact:
-  name: Steven Martin
-  email: steven.martin3458@work.org
-  phone: (208) 840-9843
-  ssn: 278-79-1146
-  dob: 19/10/2002
-  address: 5697 Main Court
-  city: Denver
-  state: MI

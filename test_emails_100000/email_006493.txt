@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Ortiz
-  email: christopher.ortiz890@business.net
-  phone: 949-583-8227
-  ssn: 699093703
-  dob: 08/10/1967
-  address: 7569 Pine Way
-  city: Denver
-  state: AZ

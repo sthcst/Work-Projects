@@ -1,9 +1,0 @@
-contact:
-  name: Robert Sanchez
-  email: robert.sanchez741@business.net
-  phone: (200) 586-3665
-  ssn: 497222303
-  dob: 12/17/1966
-  address: 9138 Second Court
-  city: Austin
-  state: AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Jones,stephanie.jones1138@business.net,676 617 6146,515331363,02-28-1982,"7276 Park Ln",San Jose,AZ

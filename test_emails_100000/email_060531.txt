@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Romero,jessica.romero2788@yahoo.com,(408) 914-6625,896-82-4306,03/15/1994,"9704 Summer Ln",Jacksonville,WA

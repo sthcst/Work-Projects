@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Guerrero
-  email: pamela.guerrero1785@yahoo.com
-  phone: 657 836 7501
-  ssn: 886606509
-  dob: 02-26-1962
-  address: 4870 Sixth Rd
-  city: Chicago
-  state: MO

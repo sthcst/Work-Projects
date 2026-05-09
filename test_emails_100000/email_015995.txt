@@ -1,9 +1,0 @@
-contact:
-  name: Kevin Wilson
-  email: kevin.wilson9152@mail.com
-  phone: +1 517-699-6509
-  ssn: 072 41 1158
-  dob: 06-18-1965
-  address: 9395 East Dr
-  city: Austin
-  state: IL

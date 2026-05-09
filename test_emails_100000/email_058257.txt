@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Guerrero,jason.guerrero7792@gmail.com,547-890-6359,685-67-2636,07/02/1984,"3589 Fourth Ln",Seattle,CA

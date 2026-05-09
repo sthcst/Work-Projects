@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Phillips,edward.phillips8797@work.org,(927) 336-1709,851 57 4351,9/19/1995,"6280 North Rd",Washington,CA

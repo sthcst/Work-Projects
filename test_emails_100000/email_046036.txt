@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Delgado,donald.delgado3836@business.net,771-645-9782,553-20-9823,17/05/1999,"7400 First St",Phoenix,TX

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Clark,lisa.clark413@company.com,716 405 9524,150 40 1716,08/01/1984,"711 Maple Way",New York,TX

@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Dominguez
-  email: cynthia.dominguez1185@yahoo.com
-  phone: (632) 581-7037
-  ssn: 284-93-9767
-  dob: 11-21-1995
-  address: 1976 Main Ave
-  city: Seattle
-  state: FL

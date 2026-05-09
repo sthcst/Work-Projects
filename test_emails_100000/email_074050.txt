@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Lewis,john.lewis1712@work.org,241 914 3268,063656239,4/5/1956,"5234 East Ln",Denver,NY

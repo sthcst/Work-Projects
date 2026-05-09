@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Thompson
-  email: amanda.thompson6368@mail.com
-  phone: +1 511-405-4773
-  ssn: 883-58-5932
-  dob: 23/01/2005
-  address: 8864 Oak Ave
-  city: Houston
-  state: CA

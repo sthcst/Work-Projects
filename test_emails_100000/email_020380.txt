@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Hernandez
-  email: deborah.hernandez4659@example.com
-  phone: (756) 380-6652
-  ssn: 473-38-6245
-  dob: 09/23/1996
-  address: 8721 Pine Rd
-  city: San Diego
-  state: MA

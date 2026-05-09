@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Walker,stephanie.walker7258@company.com,761 840 8022,094 11 5380,7/22/1982,"6081 Elm Blvd",Austin,AZ

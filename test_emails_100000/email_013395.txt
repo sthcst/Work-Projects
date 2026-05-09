@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Helen Stewart,helen.stewart6357@example.com,282 278 7224,904-13-7320,6/2/1963,"1667 Birch Dr",Dallas,FL

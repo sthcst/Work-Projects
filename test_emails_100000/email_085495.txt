@@ -1,9 +1,0 @@
-contact:
-  name: Jason Rodriguez
-  email: jason.rodriguez6072@outlook.com
-  phone: +1 253-729-4478
-  ssn: 055841420
-  dob: 09/22/1995
-  address: 5459 Fourth Ave
-  city: Chicago
-  state: TX

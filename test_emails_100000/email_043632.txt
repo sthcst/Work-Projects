@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Wilson
-  email: andrew.wilson5153@work.org
-  phone: 892 283 8974
-  ssn: 921-94-1907
-  dob: 21/06/1969
-  address: 1231 First Rd
-  city: Houston
-  state: FL

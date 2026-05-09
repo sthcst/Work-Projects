@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Collins
-  email: katherine.collins1884@business.net
-  phone: (956) 799-9693
-  ssn: 144-47-2650
-  dob: 06-14-1975
-  address: 3441 Sixth Ln
-  city: New York
-  state: MA

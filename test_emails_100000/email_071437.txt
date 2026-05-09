@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Flores
-  email: lauren.flores3081@work.org
-  phone: (773) 932-5656
-  ssn: 642574846
-  dob: 09-27-2004
-  address: 28 First Way
-  city: Boston
-  state: WI

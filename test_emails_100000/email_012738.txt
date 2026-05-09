@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Campbell
-  email: rebecca.campbell905@business.net
-  phone: (566) 330-6501
-  ssn: 156 51 3223
-  dob: 07/26/1952
-  address: 7904 West Way
-  city: Dallas
-  state: OH

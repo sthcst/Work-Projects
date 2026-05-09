@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Lopez,katherine.lopez5570@work.org,+1 648-390-5869,345-23-2831,05/15/1980,"5741 East Dr",San Jose,VA

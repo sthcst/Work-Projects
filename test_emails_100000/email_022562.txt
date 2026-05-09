@@ -1,9 +1,0 @@
-contact:
-  name: Anna Dominguez
-  email: anna.dominguez3949@example.com
-  phone: 853-563-6720
-  ssn: 909 40 2673
-  dob: 04/25/1957
-  address: 8502 Second Blvd
-  city: Los Angeles
-  state: TX

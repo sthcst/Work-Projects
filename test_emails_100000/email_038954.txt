@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Morris,timothy.morris3245@mail.com,518-978-9510,486427267,08/18/1985,"7629 Second Blvd",San Diego,AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Rogers,megan.rogers9940@mail.com,+1 417-590-6181,790-64-9060,05-26-1959,"2195 Sixth Ave",Denver,NY

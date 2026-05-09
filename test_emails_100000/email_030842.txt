@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Sarah Delgado,sarah.delgado3855@business.net,(472) 682-6702,583445707,9/11/1994,"5433 Sixth Ave",New York,WA

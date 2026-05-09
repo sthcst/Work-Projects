@@ -1,9 +1,0 @@
-contact:
-  name: Charles Lewis
-  email: charles.lewis9662@yahoo.com
-  phone: (621) 504-5423
-  ssn: 465206884
-  dob: 03-11-1973
-  address: 6428 Main Blvd
-  city: San Diego
-  state: TX

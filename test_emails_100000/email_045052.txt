@@ -1,9 +1,0 @@
-contact:
-  name: Edward Williams
-  email: edward.williams4472@example.com
-  phone: (664) 826-8040
-  ssn: 927-84-9411
-  dob: 26/07/1977
-  address: 9052 West Rd
-  city: Washington
-  state: TX

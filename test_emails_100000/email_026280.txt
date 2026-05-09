@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Alvarado
-  email: jeffrey.alvarado9638@gmail.com
-  phone: (732) 992-1788
-  ssn: 135014616
-  dob: 03/28/2003
-  address: 8999 Oak Ave
-  city: San Jose
-  state: WA

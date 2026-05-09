@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Williams
-  email: sarah.williams3107@yahoo.com
-  phone: 561-611-6929
-  ssn: 438 35 9762
-  dob: 09-08-1969
-  address: 6353 Cedar Dr
-  city: Washington
-  state: TX

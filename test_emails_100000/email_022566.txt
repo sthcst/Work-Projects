@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Hernandez
-  email: cynthia.hernandez5294@example.com
-  phone: +1 796-957-8892
-  ssn: 021 71 5176
-  dob: 08-06-1992
-  address: 162 Sixth Dr
-  city: Jacksonville
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Peterson
-  email: cynthia.peterson1441@outlook.com
-  phone: 623 537 5303
-  ssn: 055 42 8472
-  dob: 22/01/1962
-  address: 809 Third Blvd
-  city: San Diego
-  state: WA

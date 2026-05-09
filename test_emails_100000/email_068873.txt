@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Dominguez,jessica.dominguez2669@outlook.com,(948) 513-6163,278-43-5936,21/10/1956,"6975 First Blvd",Chicago,FL

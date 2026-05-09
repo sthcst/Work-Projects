@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Serrano
-  email: jeffrey.serrano6192@gmail.com
-  phone: 452-675-3444
-  ssn: 061-08-8146
-  dob: 3/6/2003
-  address: 704 East Ave
-  city: Los Angeles
-  state: MA

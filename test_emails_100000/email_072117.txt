@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Phillips,anna.phillips3100@outlook.com,(681) 595-7192,163695234,11-20-1973,"1942 Pine Ave",Washington,AZ

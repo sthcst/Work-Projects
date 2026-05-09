@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Perez,steven.perez7471@work.org,991-680-6416,694178808,6/7/1973,"5180 West St",Austin,NJ

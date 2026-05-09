@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Garcia
-  email: lisa.garcia1757@yahoo.com
-  phone: (483) 646-2979
-  ssn: 713-35-1404
-  dob: 09-03-2002
-  address: 6857 Second Blvd
-  city: Dallas
-  state: TX

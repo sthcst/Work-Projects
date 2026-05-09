@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Perez
-  email: katherine.perez3484@outlook.com
-  phone: +1 592-347-7768
-  ssn: 208 20 4557
-  dob: 07/08/1983
-  address: 9028 Fifth Dr
-  city: Washington
-  state: MO

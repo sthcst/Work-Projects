@@ -1,9 +1,0 @@
-contact:
-  name: Brian Morgan
-  email: brian.morgan6920@work.org
-  phone: 263 547 6018
-  ssn: 364 74 3846
-  dob: 11/21/1972
-  address: 6697 Birch Court
-  city: Boston
-  state: PA

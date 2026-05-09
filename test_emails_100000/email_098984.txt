@@ -1,9 +1,0 @@
-contact:
-  name: James Moore
-  email: james.moore2285@yahoo.com
-  phone: (458) 797-2195
-  ssn: 023 04 1146
-  dob: 05/11/1981
-  address: 1512 Fourth Dr
-  city: Seattle
-  state: TX

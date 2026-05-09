@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Jackson
-  email: jeffrey.jackson2274@work.org
-  phone: (276) 622-6439
-  ssn: 048-48-1205
-  dob: 04-24-1976
-  address: 8693 West Court
-  city: Philadelphia
-  state: AZ

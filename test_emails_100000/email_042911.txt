@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Reed
-  email: joshua.reed9686@example.com
-  phone: 938 784 2203
-  ssn: 170-17-5139
-  dob: 04-04-1973
-  address: 7025 Cedar St
-  city: Washington
-  state: OH

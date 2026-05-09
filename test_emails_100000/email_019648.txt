@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Campbell,samantha.campbell5943@mail.com,(264) 429-9859,516277422,3/23/2005,"4059 Spring Ave",Washington,VA

@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Thompson
-  email: brenda.thompson1077@mail.com
-  phone: 349-718-2354
-  ssn: 626-73-4971
-  dob: 9/23/1965
-  address: 3557 Cedar Rd
-  city: Seattle
-  state: MI

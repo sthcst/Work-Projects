@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Jones,emma.jones3116@example.com,+1 755-990-9736,971-08-4022,12/07/1968,"4893 Fourth Blvd",New York,CA

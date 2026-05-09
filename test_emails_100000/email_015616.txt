@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Guerrero,michael.guerrero1710@example.com,(981) 738-2151,864613837,09-08-1964,"4042 South Blvd",New York,OH

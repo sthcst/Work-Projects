@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Anderson
-  email: pamela.anderson9239@mail.com
-  phone: (404) 751-9096
-  ssn: 530-02-5686
-  dob: 02/23/2005
-  address: 6123 Summer Dr
-  city: Houston
-  state: TX

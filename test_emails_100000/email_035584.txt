@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Carter
-  email: lauren.carter9429@business.net
-  phone: (978) 677-6989
-  ssn: 901-47-9967
-  dob: 6/19/1964
-  address: 94 South Way
-  city: Washington
-  state: MA

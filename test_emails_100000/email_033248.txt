@@ -1,9 +1,0 @@
-contact:
-  name: Gary Jones
-  email: gary.jones1034@example.com
-  phone: 746 483 7570
-  ssn: 028-71-2555
-  dob: 01/13/1985
-  address: 169 Fourth Blvd
-  city: Denver
-  state: MO

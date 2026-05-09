@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Roberts
-  email: ashley.roberts9615@example.com
-  phone: +1 642-948-3115
-  ssn: 009 37 1769
-  dob: 05/04/1996
-  address: 6112 West Blvd
-  city: Washington
-  state: FL

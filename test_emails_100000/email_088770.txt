@@ -1,9 +1,0 @@
-contact:
-  name: Angela Evans
-  email: angela.evans5106@business.net
-  phone: 350-239-1966
-  ssn: 804428224
-  dob: 11/3/1972
-  address: 8189 First St
-  city: Phoenix
-  state: NY

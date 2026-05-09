@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Murillo,andrew.murillo9934@company.com,353-867-8034,037 90 9675,12/17/1984,"1390 Fourth Dr",Seattle,CO

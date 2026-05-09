@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Roberts,andrew.roberts7594@outlook.com,435-788-6237,240-20-5703,10-21-1968,"3696 Summer Way",Washington,OH

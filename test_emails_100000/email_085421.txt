@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ashley Gonzalez,ashley.gonzalez1814@yahoo.com,+1 661-643-2487,396-92-6482,04-25-1952,"2744 West Dr",Washington,TX

@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Moore
-  email: kenneth.moore9850@outlook.com
-  phone: (666) 265-1176
-  ssn: 823-48-4862
-  dob: 12-13-1981
-  address: 2796 Second Ave
-  city: San Diego
-  state: MD

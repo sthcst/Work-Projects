@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Nelson,angela.nelson2035@company.com,984-549-4037,287 64 9877,06/05/2003,"8076 Fifth Blvd",New York,NC

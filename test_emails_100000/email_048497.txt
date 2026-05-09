@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Martinez,cynthia.martinez1856@business.net,774 630 8348,198593780,10/05/1951,"6443 First St",Seattle,MD

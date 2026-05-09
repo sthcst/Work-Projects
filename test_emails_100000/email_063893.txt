@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Peterson
-  email: timothy.peterson743@mail.com
-  phone: (435) 270-2515
-  ssn: 536 67 5816
-  dob: 05-15-1991
-  address: 8502 South Ln
-  city: New York
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Parker
-  email: timothy.parker8534@outlook.com
-  phone: 804-263-2120
-  ssn: 266 10 5037
-  dob: 18/12/1962
-  address: 5523 First St
-  city: Chicago
-  state: CO

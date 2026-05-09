@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Flores
-  email: amanda.flores1120@work.org
-  phone: 537 479 9261
-  ssn: 760 42 6555
-  dob: 3/8/1997
-  address: 8479 Sixth Court
-  city: Los Angeles
-  state: MO

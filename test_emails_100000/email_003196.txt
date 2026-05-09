@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Sanchez
-  email: timothy.sanchez8130@mail.com
-  phone: 308-513-3047
-  ssn: 772-87-1753
-  dob: 8/1/1998
-  address: 6516 Spring Way
-  city: Jacksonville
-  state: VA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Nunez,david.nunez2968@outlook.com,+1 539-330-1500,625 83 6486,12/17/2005,"1268 Summer St",Washington,TX

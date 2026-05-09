@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Rogers
-  email: brenda.rogers9278@business.net
-  phone: (279) 711-4063
-  ssn: 801-64-6071
-  dob: 07/24/1997
-  address: 4254 East Rd
-  city: Houston
-  state: PA

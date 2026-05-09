@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Jackson,mark.jackson6914@company.com,291 595 8995,085 66 3384,04/20/1966,"2358 Cedar Ave",Philadelphia,TX

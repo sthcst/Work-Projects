@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Collins,rachel.collins593@outlook.com,(693) 957-4921,180912960,01/14/1966,"7168 Summer Court",Denver,NC

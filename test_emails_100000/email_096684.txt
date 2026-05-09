@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Daniel Parker,daniel.parker9078@outlook.com,(999) 629-8138,238 31 5661,11-01-1967,"9607 First Dr",New York,TX

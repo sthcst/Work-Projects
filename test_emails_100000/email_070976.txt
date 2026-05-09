@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Romero
-  email: jeffrey.romero5325@work.org
-  phone: (977) 519-5606
-  ssn: 122523857
-  dob: 02-16-1963
-  address: 2778 West Ave
-  city: Jacksonville
-  state: MA

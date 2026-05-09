@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Garcia
-  email: ryan.garcia8396@company.com
-  phone: 613 484 9856
-  ssn: 702-44-1801
-  dob: 8/22/1987
-  address: 4001 Oak Ave
-  city: Houston
-  state: TN

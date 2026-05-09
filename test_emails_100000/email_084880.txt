@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Sanchez,kimberly.sanchez4874@mail.com,(576) 468-7968,661-54-5714,12-06-1959,"6882 Fourth Way",Boston,VA

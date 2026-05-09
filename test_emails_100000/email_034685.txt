@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Perez,richard.perez8488@outlook.com,(908) 692-3533,810915061,12-10-1966,"2170 Park Ave",Philadelphia,WI

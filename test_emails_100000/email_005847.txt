@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Jones
-  email: jacob.jones4902@yahoo.com
-  phone: 798 935 9913
-  ssn: 352-43-4505
-  dob: 06/12/1960
-  address: 7094 West Dr
-  city: Dallas
-  state: DC

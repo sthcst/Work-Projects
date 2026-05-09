@@ -1,9 +1,0 @@
-contact:
-  name: Maria Evans
-  email: maria.evans696@gmail.com
-  phone: +1 990-208-6785
-  ssn: 020591503
-  dob: 03/22/1984
-  address: 3662 Main Ave
-  city: Chicago
-  state: WA

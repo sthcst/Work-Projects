@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Nelson,kevin.nelson1128@gmail.com,(792) 275-7773,286-79-9496,03-19-2000,"581 Cedar Ln",Austin,CA

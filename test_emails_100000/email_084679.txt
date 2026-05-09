@@ -1,9 +1,0 @@
-contact:
-  name: Robert Martin
-  email: robert.martin4635@yahoo.com
-  phone: 597 436 4718
-  ssn: 069-77-7197
-  dob: 03/08/2003
-  address: 247 Cedar Rd
-  city: Phoenix
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia White
-  email: cynthia.white4563@example.com
-  phone: 836 367 5572
-  ssn: 148-28-2179
-  dob: 09-01-1960
-  address: 9483 West St
-  city: New York
-  state: MO

@@ -1,9 +1,0 @@
-contact:
-  name: George Lopez
-  email: george.lopez9373@outlook.com
-  phone: +1 736-927-5417
-  ssn: 337 03 9695
-  dob: 01/07/1951
-  address: 3075 Main Rd
-  city: San Jose
-  state: WA

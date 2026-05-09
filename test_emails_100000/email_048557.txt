@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Murillo
-  email: jennifer.murillo7039@yahoo.com
-  phone: 372-800-8502
-  ssn: 819692176
-  dob: 23/12/1973
-  address: 5189 Elm Dr
-  city: New York
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Ronald Thompson
-  email: ronald.thompson1505@yahoo.com
-  phone: 218 662 9750
-  ssn: 498181575
-  dob: 03/17/1962
-  address: 1900 Third Ave
-  city: San Diego
-  state: TN

@@ -1,9 +1,0 @@
-contact:
-  name: Andrew White
-  email: andrew.white9188@outlook.com
-  phone: (910) 348-6216
-  ssn: 322879837
-  dob: 3/28/1989
-  address: 7157 Second Court
-  city: Jacksonville
-  state: CO

@@ -1,9 +1,0 @@
-contact:
-  name: William Rogers
-  email: william.rogers5744@gmail.com
-  phone: (532) 920-1361
-  ssn: 596-87-4152
-  dob: 12/24/2004
-  address: 4466 Main Ln
-  city: Seattle
-  state: IL

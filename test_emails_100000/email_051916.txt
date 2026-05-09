@@ -1,9 +1,0 @@
-contact:
-  name: Donald Nelson
-  email: donald.nelson307@gmail.com
-  phone: 683-379-3380
-  ssn: 098605167
-  dob: 10/12/1975
-  address: 2742 Sixth Rd
-  city: San Antonio
-  state: MO

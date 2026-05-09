@@ -1,9 +1,0 @@
-contact:
-  name: Michael Clark
-  email: michael.clark9492@mail.com
-  phone: +1 688-433-7061
-  ssn: 332084201
-  dob: 07-02-1969
-  address: 6125 Third St
-  city: Dallas
-  state: WA

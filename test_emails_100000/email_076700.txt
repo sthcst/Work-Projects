@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Delgado,kevin.delgado9507@yahoo.com,205 929 6662,579 04 3678,9/24/1981,"8437 Elm Dr",Chicago,CA

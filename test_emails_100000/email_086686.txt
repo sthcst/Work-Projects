@@ -1,9 +1,0 @@
-contact:
-  name: Anna Sanchez
-  email: anna.sanchez2739@yahoo.com
-  phone: 621 769 2936
-  ssn: 204 56 5882
-  dob: 09/08/1960
-  address: 8575 North Rd
-  city: Boston
-  state: WI

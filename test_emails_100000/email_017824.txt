@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Lee,donald.lee698@work.org,355-698-9307,335016151,09/22/1958,"2267 Pine Rd",Phoenix,GA

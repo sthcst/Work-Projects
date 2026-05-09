@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Wilson,emily.wilson8055@mail.com,+1 260-322-6273,764688758,7/5/1956,"5838 Cedar Ln",Seattle,FL

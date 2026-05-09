@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Nunez
-  email: cynthia.nunez6687@company.com
-  phone: 722 340 6364
-  ssn: 238-15-1633
-  dob: 04/14/1983
-  address: 5383 Fifth Ave
-  city: Philadelphia
-  state: TX

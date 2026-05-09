@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Evans
-  email: jeffrey.evans6693@yahoo.com
-  phone: (778) 682-9597
-  ssn: 024216747
-  dob: 1/21/1963
-  address: 2021 Maple Ln
-  city: San Jose
-  state: FL

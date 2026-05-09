@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Joseph Collins,joseph.collins9557@company.com,415-445-1041,112296167,04-07-1998,"3313 Cedar Court",Washington,WA

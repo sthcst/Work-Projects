@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Moore
-  email: rebecca.moore8388@gmail.com
-  phone: +1 942-410-3898
-  ssn: 396-36-8239
-  dob: 9/18/1963
-  address: 23 Cedar Ave
-  city: Boston
-  state: VA

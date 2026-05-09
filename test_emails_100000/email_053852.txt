@@ -1,9 +1,0 @@
-contact:
-  name: Anna Campbell
-  email: anna.campbell6567@example.com
-  phone: 835 960 5102
-  ssn: 821883774
-  dob: 17/09/2003
-  address: 1498 Main St
-  city: Phoenix
-  state: MO

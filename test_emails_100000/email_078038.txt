@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Smith,katherine.smith1241@gmail.com,(498) 696-7431,549237782,02/06/1960,"6984 Oak Blvd",New York,VA

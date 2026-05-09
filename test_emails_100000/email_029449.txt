@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Collins
-  email: kenneth.collins8741@gmail.com
-  phone: (525) 314-7645
-  ssn: 040065905
-  dob: 10/1/1975
-  address: 6408 North Blvd
-  city: San Antonio
-  state: MA

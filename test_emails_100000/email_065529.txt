@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Edwards,christopher.edwards5863@yahoo.com,+1 310-712-6843,180737276,3/9/1963,"5116 Birch Dr",San Antonio,CO

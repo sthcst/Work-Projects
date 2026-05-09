@@ -1,9 +1,0 @@
-contact:
-  name: Emily Morris
-  email: emily.morris7281@outlook.com
-  phone: 706 934 5437
-  ssn: 514203332
-  dob: 03/03/1983
-  address: 8689 Maple Rd
-  city: San Antonio
-  state: TX

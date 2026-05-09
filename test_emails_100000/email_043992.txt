@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Reyes
-  email: deborah.reyes5755@business.net
-  phone: 836 576 5486
-  ssn: 284-06-5094
-  dob: 14/09/1978
-  address: 4858 East Rd
-  city: Denver
-  state: FL

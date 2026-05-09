@@ -1,9 +1,0 @@
-contact:
-  name: Timothy Robinson
-  email: timothy.robinson7130@work.org
-  phone: 597-636-6868
-  ssn: 554-93-2805
-  dob: 3/5/2003
-  address: 2570 Maple Blvd
-  city: New York
-  state: IL

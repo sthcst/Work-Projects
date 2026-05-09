@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Robinson,pamela.robinson5087@business.net,527-291-2099,213473769,06/10/1968,"4277 Fourth Dr",Austin,TX

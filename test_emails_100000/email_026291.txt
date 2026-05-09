@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Stewart
-  email: michelle.stewart3315@work.org
-  phone: +1 553-345-1086
-  ssn: 120-55-3431
-  dob: 6/26/1985
-  address: 1494 Summer St
-  city: Chicago
-  state: WA

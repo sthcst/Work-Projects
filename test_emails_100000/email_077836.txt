@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Lopez,michelle.lopez8076@gmail.com,+1 904-846-8265,663-79-6152,5/11/1977,"2304 Maple Way",Jacksonville,WI

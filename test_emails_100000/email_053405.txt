@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Jimenez
-  email: andrew.jimenez445@outlook.com
-  phone: 602-826-9607
-  ssn: 987-24-3069
-  dob: 06/04/1951
-  address: 9381 First Way
-  city: New York
-  state: MI

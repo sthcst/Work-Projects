@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Ortiz,john.ortiz4783@business.net,+1 224-419-1690,001939115,06-06-1996,"6599 North St",Washington,MI

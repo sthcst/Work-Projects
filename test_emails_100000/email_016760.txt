@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Campbell,andrew.campbell524@mail.com,695-527-5108,371-76-7311,05/09/1957,"1286 Fourth Ln",New York,CO

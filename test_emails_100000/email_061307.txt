@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Gonzalez,kimberly.gonzalez3600@work.org,511 240 7042,344 26 1049,11-08-1953,"1013 Second Ln",Los Angeles,NJ

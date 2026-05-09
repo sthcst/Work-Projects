@@ -1,9 +1,0 @@
-contact:
-  name: Helen Moore
-  email: helen.moore2943@work.org
-  phone: 978-862-7927
-  ssn: 897-18-1716
-  dob: 26/03/1964
-  address: 6387 East Blvd
-  city: Los Angeles
-  state: VA

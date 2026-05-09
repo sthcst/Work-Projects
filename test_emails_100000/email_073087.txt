@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Delgado,katherine.delgado370@mail.com,506 490 2132,815-85-8967,7/2/1954,"3048 Summer St",Phoenix,CA

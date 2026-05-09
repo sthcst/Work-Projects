@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Reed
-  email: andrew.reed3784@work.org
-  phone: +1 737-367-8728
-  ssn: 744 08 2732
-  dob: 04-04-1991
-  address: 4365 Cedar Rd
-  city: Boston
-  state: CA

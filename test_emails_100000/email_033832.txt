@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Evans,kevin.evans396@gmail.com,834-360-1501,067-95-2158,07-20-1971,"6913 Spring Ln",Chicago,NY

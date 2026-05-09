@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Thomas,emma.thomas5697@work.org,880 782 3104,362139779,03-12-1990,"6373 Park Ave",Houston,IL

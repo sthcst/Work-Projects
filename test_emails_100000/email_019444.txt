@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Jackson,jacob.jackson9352@outlook.com,(725) 447-3040,351-37-8863,08/04/1988,"4509 Cedar Ln",San Antonio,CO

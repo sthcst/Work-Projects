@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Moore,angela.moore9802@business.net,512-828-2283,092 42 7222,06/17/1994,"8872 Sixth Ave",San Diego,VA

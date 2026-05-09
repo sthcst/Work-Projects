@@ -1,9 +1,0 @@
-contact:
-  name: Deborah Delgado
-  email: deborah.delgado3230@yahoo.com
-  phone: +1 814-656-6812
-  ssn: 400 83 7144
-  dob: 02/05/1997
-  address: 2406 Park Dr
-  city: New York
-  state: NY

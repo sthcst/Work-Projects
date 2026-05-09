@@ -1,9 +1,0 @@
-contact:
-  name: Robert Clark
-  email: robert.clark4739@example.com
-  phone: (641) 979-4127
-  ssn: 620-29-4487
-  dob: 09-18-1968
-  address: 8734 Park Ave
-  city: Austin
-  state: GA

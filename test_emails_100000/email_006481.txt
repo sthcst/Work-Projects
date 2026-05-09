@@ -1,9 +1,0 @@
-contact:
-  name: Robert Phillips
-  email: robert.phillips5796@business.net
-  phone: 243-236-4038
-  ssn: 654 29 7681
-  dob: 03/16/1959
-  address: 2400 Elm St
-  city: Denver
-  state: TX

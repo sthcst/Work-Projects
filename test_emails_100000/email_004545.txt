@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Cooper
-  email: anthony.cooper9584@outlook.com
-  phone: 540-894-3250
-  ssn: 419 06 7569
-  dob: 22/05/1956
-  address: 2294 Cedar St
-  city: San Antonio
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Mark Clark
-  email: mark.clark759@yahoo.com
-  phone: 961-561-9031
-  ssn: 563 15 5654
-  dob: 10/19/1983
-  address: 473 South Ln
-  city: Phoenix
-  state: FL

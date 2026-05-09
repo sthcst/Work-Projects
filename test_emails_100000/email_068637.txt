@@ -1,9 +1,0 @@
-contact:
-  name: Ryan Carter
-  email: ryan.carter5208@company.com
-  phone: +1 241-737-1343
-  ssn: 218-20-7178
-  dob: 05/19/1985
-  address: 7273 First St
-  city: Dallas
-  state: VA

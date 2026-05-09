@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Charles Perez,charles.perez9236@example.com,+1 204-935-5485,766 74 4418,8/16/1979,"4503 East St",Los Angeles,TX

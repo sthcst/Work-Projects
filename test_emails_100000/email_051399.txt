@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Robinson
-  email: katherine.robinson5142@company.com
-  phone: (650) 281-2094
-  ssn: 225688929
-  dob: 08-15-1999
-  address: 6043 Park Dr
-  city: Austin
-  state: VA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kathleen Delgado,kathleen.delgado7588@outlook.com,935 484 6203,587-28-6384,11-01-1965,"3248 Summer Ln",Dallas,MA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Romero,jane.romero8351@yahoo.com,(646) 357-1596,258815028,08-13-1992,"3533 West St",San Jose,WA

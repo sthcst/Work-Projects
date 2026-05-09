@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Reeves,angela.reeves3491@outlook.com,643-809-1413,249678831,12-18-1970,"9122 Elm Rd",New York,OH

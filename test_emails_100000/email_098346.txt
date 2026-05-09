@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Lewis,rachel.lewis7827@example.com,+1 678-473-2032,074 85 3187,06-04-1981,"2119 West Court",Boston,CO

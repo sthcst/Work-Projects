@@ -1,9 +1,0 @@
-contact:
-  name: Emily Murillo
-  email: emily.murillo1151@outlook.com
-  phone: (900) 256-5022
-  ssn: 700 27 4371
-  dob: 04/01/1980
-  address: 2234 Second St
-  city: New York
-  state: TX

@@ -1,9 +1,0 @@
-contact:
-  name: Ashley Phillips
-  email: ashley.phillips1539@mail.com
-  phone: +1 567-387-5311
-  ssn: 704078694
-  dob: 11/07/1995
-  address: 1282 Main Rd
-  city: Chicago
-  state: IL

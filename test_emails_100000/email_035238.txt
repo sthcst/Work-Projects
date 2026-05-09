@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Nunez,jacob.nunez8035@gmail.com,276 314 1472,909715741,12-06-1985,"562 Sixth Blvd",San Antonio,TX

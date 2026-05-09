@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Evans
-  email: cynthia.evans7017@work.org
-  phone: (590) 871-4977
-  ssn: 382288498
-  dob: 08/13/2003
-  address: 8697 North St
-  city: Austin
-  state: VA

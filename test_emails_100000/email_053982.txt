@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Bell,jason.bell5906@company.com,211 521 6880,085-16-5028,08/28/2003,"3744 Summer Blvd",San Diego,NJ

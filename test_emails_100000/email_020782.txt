@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Cooper,kevin.cooper6744@work.org,(826) 653-4795,734 99 1897,03/17/1978,"3430 Elm Rd",Los Angeles,IL

@@ -1,9 +1,0 @@
-contact:
-  name: Jessica Delgado
-  email: jessica.delgado8091@work.org
-  phone: +1 357-578-3163
-  ssn: 487014587
-  dob: 04/14/1970
-  address: 4004 Elm Ln
-  city: Chicago
-  state: AZ

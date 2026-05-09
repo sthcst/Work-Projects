@@ -1,9 +1,0 @@
-contact:
-  name: Christopher Collins
-  email: christopher.collins3308@work.org
-  phone: +1 335-529-8581
-  ssn: 244159554
-  dob: 04-22-2000
-  address: 1367 Fifth Dr
-  city: Phoenix
-  state: GA

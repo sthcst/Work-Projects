@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Ramirez
-  email: amanda.ramirez5856@example.com
-  phone: 825-366-2984
-  ssn: 881589982
-  dob: 11/21/1995
-  address: 8434 First Blvd
-  city: Jacksonville
-  state: AZ

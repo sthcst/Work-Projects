@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Moore,shirley.moore2257@business.net,748-920-5914,834-96-5921,09/05/1954,"416 North St",Denver,WI

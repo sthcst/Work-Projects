@@ -1,9 +1,0 @@
-contact:
-  name: Mark Roberts
-  email: mark.roberts6787@yahoo.com
-  phone: 315 709 3780
-  ssn: 533481743
-  dob: 8/16/1978
-  address: 8875 Birch Blvd
-  city: Dallas
-  state: TX

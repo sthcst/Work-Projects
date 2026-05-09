@@ -1,9 +1,0 @@
-contact:
-  name: Brian Miller
-  email: brian.miller2329@business.net
-  phone: +1 348-752-2595
-  ssn: 417 71 2203
-  dob: 07/10/1973
-  address: 8137 Oak St
-  city: Seattle
-  state: OH

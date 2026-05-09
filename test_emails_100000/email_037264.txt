@@ -1,9 +1,0 @@
-contact:
-  name: Maria Harris
-  email: maria.harris6009@work.org
-  phone: (217) 800-1658
-  ssn: 967165851
-  dob: 22/04/1971
-  address: 6745 Sixth Way
-  city: Chicago
-  state: MA

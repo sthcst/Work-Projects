@@ -1,9 +1,0 @@
-contact:
-  name: Emily Ramirez
-  email: emily.ramirez5908@gmail.com
-  phone: 881 348 9663
-  ssn: 690-03-6765
-  dob: 10/18/1984
-  address: 2985 Cedar Dr
-  city: Boston
-  state: WA

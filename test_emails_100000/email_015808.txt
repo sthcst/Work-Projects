@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Collins,maria.collins3557@mail.com,(312) 480-4972,389933626,06-09-1969,"6584 Pine Ln",Dallas,FL

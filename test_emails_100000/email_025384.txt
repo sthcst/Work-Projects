@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Smith,andrew.smith6727@work.org,+1 626-726-7135,661-85-9283,15/06/1963,"4475 Second Blvd",Seattle,CA

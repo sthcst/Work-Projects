@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Phillips
-  email: katherine.phillips6049@business.net
-  phone: +1 242-577-7297
-  ssn: 621-71-7153
-  dob: 09/21/1967
-  address: 5505 Third Rd
-  city: Phoenix
-  state: TX

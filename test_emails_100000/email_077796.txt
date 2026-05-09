@@ -1,9 +1,0 @@
-contact:
-  name: William Moore
-  email: william.moore4191@business.net
-  phone: (328) 787-7298
-  ssn: 480424619
-  dob: 01/13/2000
-  address: 5282 Main Court
-  city: Houston
-  state: FL

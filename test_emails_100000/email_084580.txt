@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Wilson
-  email: sarah.wilson3688@outlook.com
-  phone: 301-513-9389
-  ssn: 801 34 5860
-  dob: 14/03/1997
-  address: 655 South Dr
-  city: San Jose
-  state: PA

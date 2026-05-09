@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Gonzalez,stephanie.gonzalez3286@gmail.com,(356) 803-8369,157595513,7/10/1952,"2005 Third St",Washington,CA

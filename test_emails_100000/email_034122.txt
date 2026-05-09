@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Martin,shirley.martin305@gmail.com,574-822-6073,538 07 7082,2/19/1994,"9890 Summer Rd",Chicago,MD

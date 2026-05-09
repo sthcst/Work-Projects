@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Hall,ronald.hall5334@example.com,+1 594-357-7057,450-30-2830,06/08/1976,"2094 First Way",Seattle,MA

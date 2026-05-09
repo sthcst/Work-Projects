@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Peterson,shirley.peterson7407@work.org,(477) 482-4518,995 74 5015,08-10-1981,"5538 Fifth Ln",Boston,TX

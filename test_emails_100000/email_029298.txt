@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Martinez,kimberly.martinez3048@business.net,(799) 344-1831,359 94 2839,02/04/1974,"278 Elm Rd",Houston,CA

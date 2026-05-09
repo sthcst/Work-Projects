@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Martinez
-  email: lisa.martinez8715@company.com
-  phone: (928) 515-5553
-  ssn: 324 67 1075
-  dob: 15/10/1973
-  address: 5720 Maple Court
-  city: Dallas
-  state: TX

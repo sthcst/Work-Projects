@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Rogers,angela.rogers5442@company.com,443-741-6364,995502769,9/26/1974,"9681 Oak Court",Houston,GA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Rodriguez,jeffrey.rodriguez8577@work.org,+1 868-908-7358,143 65 4445,04/15/1966,"741 Maple Ln",Denver,MO

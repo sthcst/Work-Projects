@@ -1,9 +1,0 @@
-contact:
-  name: Jane Murillo
-  email: jane.murillo3474@example.com
-  phone: 690-366-2008
-  ssn: 270 61 7399
-  dob: 01-22-1950
-  address: 4575 Oak Ave
-  city: Phoenix
-  state: MI

@@ -1,9 +1,0 @@
-contact:
-  name: William Gomez
-  email: william.gomez3618@outlook.com
-  phone: 293-254-4486
-  ssn: 917 83 2787
-  dob: 04-07-1971
-  address: 7765 East Rd
-  city: Houston
-  state: TX

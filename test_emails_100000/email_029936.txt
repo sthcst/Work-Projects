@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Cynthia Hall,cynthia.hall8577@gmail.com,663-243-8041,662066193,6/27/1967,"6126 South Court",Los Angeles,CO

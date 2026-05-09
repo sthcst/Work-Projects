@@ -1,9 +1,0 @@
-contact:
-  name: Robert Perez
-  email: robert.perez188@work.org
-  phone: 693 401 3926
-  ssn: 514686150
-  dob: 17/12/1969
-  address: 2662 Oak Ave
-  city: Seattle
-  state: TX

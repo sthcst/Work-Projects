@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Martinez
-  email: nicole.martinez9677@mail.com
-  phone: (615) 256-6829
-  ssn: 025 29 9949
-  dob: 5/27/1962
-  address: 2764 Pine Ln
-  city: Jacksonville
-  state: TX

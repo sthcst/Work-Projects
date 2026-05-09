@@ -1,9 +1,0 @@
-contact:
-  name: Helen Gomez
-  email: helen.gomez8350@outlook.com
-  phone: 700 207 8505
-  ssn: 949 33 6566
-  dob: 06/23/1956
-  address: 4755 Sixth Rd
-  city: Washington
-  state: VA

@@ -1,9 +1,0 @@
-contact:
-  name: George Young
-  email: george.young1064@mail.com
-  phone: (637) 905-7461
-  ssn: 454884063
-  dob: 15/05/1970
-  address: 2054 South Blvd
-  city: Seattle
-  state: MO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Murillo,rachel.murillo5456@gmail.com,468 984 2716,379 24 8047,5/12/1993,"9833 West Dr",Jacksonville,TX

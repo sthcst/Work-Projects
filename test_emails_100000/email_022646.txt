@@ -1,9 +1,0 @@
-contact:
-  name: Anna Williams
-  email: anna.williams432@example.com
-  phone: 639 836 4315
-  ssn: 240 35 6865
-  dob: 08-01-1969
-  address: 5033 West Ln
-  city: San Antonio
-  state: DC

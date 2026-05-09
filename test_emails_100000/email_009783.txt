@@ -1,9 +1,0 @@
-contact:
-  name: Helen Alvarado
-  email: helen.alvarado6772@mail.com
-  phone: +1 688-487-8366
-  ssn: 496-30-4673
-  dob: 08-22-2003
-  address: 7033 South Blvd
-  city: Dallas
-  state: CA

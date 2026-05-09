@@ -1,9 +1,0 @@
-contact:
-  name: Cynthia Nunez
-  email: cynthia.nunez4205@yahoo.com
-  phone: 898 675 5040
-  ssn: 577622804
-  dob: 10/07/2003
-  address: 2466 Third St
-  city: Los Angeles
-  state: NY

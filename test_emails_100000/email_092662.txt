@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jason Lewis,jason.lewis5561@company.com,521-223-7417,759-51-4906,13/11/1980,"1083 West Rd",San Antonio,MA

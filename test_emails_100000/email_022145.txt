@@ -1,9 +1,0 @@
-contact:
-  name: Helen Hernandez
-  email: helen.hernandez2117@example.com
-  phone: 401-489-3156
-  ssn: 778-69-5248
-  dob: 6/27/1993
-  address: 9745 Elm Court
-  city: Boston
-  state: TX

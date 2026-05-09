@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Dominguez,timothy.dominguez4168@work.org,405 296 4488,078 12 8677,11/15/1955,"5062 Park Dr",Houston,NC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Roberts,samantha.roberts3690@work.org,(688) 606-8010,536 62 3872,01-16-1966,"3692 Pine Ave",San Diego,PA

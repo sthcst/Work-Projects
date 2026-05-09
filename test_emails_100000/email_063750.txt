@@ -1,9 +1,0 @@
-contact:
-  name: Donald Robinson
-  email: donald.robinson4760@example.com
-  phone: 267 320 6456
-  ssn: 110-87-1207
-  dob: 04/05/1963
-  address: 9848 Park St
-  city: Austin
-  state: AZ

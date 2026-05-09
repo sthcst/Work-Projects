@@ -1,9 +1,0 @@
-contact:
-  name: Anna Bell
-  email: anna.bell4031@mail.com
-  phone: (463) 604-7964
-  ssn: 607783446
-  dob: 09/04/1957
-  address: 588 Elm Rd
-  city: Los Angeles
-  state: CA

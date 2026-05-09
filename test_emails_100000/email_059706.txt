@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Nunez,rachel.nunez8344@company.com,353 225 6328,139-23-5185,02/17/1960,"1024 Birch Way",Houston,WA

@@ -1,9 +1,0 @@
-contact:
-  name: Anna Roberts
-  email: anna.roberts2226@business.net
-  phone: 886 755 1635
-  ssn: 291-49-8413
-  dob: 6/4/1995
-  address: 7241 Fourth Blvd
-  city: Dallas
-  state: MA

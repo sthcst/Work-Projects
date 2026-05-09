@@ -1,9 +1,0 @@
-contact:
-  name: Jeffrey Peterson
-  email: jeffrey.peterson3065@company.com
-  phone: +1 654-246-6165
-  ssn: 539-08-3356
-  dob: 09/24/1971
-  address: 9089 Fifth Ave
-  city: Denver
-  state: TX

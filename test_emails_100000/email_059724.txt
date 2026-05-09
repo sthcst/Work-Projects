@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anna Jones,anna.jones9672@gmail.com,(467) 389-7597,961488014,11/20/1987,"9703 Pine Court",Dallas,CO

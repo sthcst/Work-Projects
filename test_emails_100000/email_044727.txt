@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Rodriguez
-  email: shirley.rodriguez3022@mail.com
-  phone: +1 337-654-8567
-  ssn: 162 54 6774
-  dob: 11-13-1982
-  address: 5137 Birch St
-  city: San Antonio
-  state: TX

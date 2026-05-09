@@ -1,9 +1,0 @@
-contact:
-  name: Jason Morgan
-  email: jason.morgan4589@work.org
-  phone: (226) 490-6582
-  ssn: 105-16-7947
-  dob: 1/21/1952
-  address: 8846 West Rd
-  city: San Jose
-  state: TX

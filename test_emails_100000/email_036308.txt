@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Williams,jacob.williams8304@gmail.com,(302) 509-6282,489 04 4316,02/27/1982,"3446 Cedar Court",San Jose,CA

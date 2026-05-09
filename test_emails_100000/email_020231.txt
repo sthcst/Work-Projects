@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Evans
-  email: michelle.evans2932@outlook.com
-  phone: +1 719-802-7687
-  ssn: 356 46 6206
-  dob: 04/26/1969
-  address: 3032 North Court
-  city: Dallas
-  state: WI

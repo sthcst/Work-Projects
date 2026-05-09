@@ -1,9 +1,0 @@
-contact:
-  name: Charles Wilson
-  email: charles.wilson5816@yahoo.com
-  phone: 657 661 7418
-  ssn: 912-72-8446
-  dob: 03-04-1993
-  address: 39 Third St
-  city: San Antonio
-  state: AZ

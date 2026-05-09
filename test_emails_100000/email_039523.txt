@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Anderson,lauren.anderson6916@gmail.com,(796) 456-4750,823 28 5848,1/23/1958,"1549 Park Way",Houston,PA

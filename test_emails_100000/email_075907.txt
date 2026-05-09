@@ -1,9 +1,0 @@
-contact:
-  name: Angela Smith
-  email: angela.smith9919@yahoo.com
-  phone: 313-364-3750
-  ssn: 956431889
-  dob: 11-02-1978
-  address: 8578 Third Ln
-  city: San Diego
-  state: MD

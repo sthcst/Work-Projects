@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Wilson
-  email: jacob.wilson9667@outlook.com
-  phone: 279-746-4634
-  ssn: 215 76 6646
-  dob: 06/22/1999
-  address: 7338 Cedar Way
-  city: Jacksonville
-  state: MI

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Rodriguez,michelle.rodriguez7271@example.com,281-369-5476,003-54-3337,22/06/1960,"4297 Second Rd",Boston,MI

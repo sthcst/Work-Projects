@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Jackson,john.jackson3826@company.com,+1 209-351-8678,527 55 8492,11/11/1960,"7271 Fifth Blvd",Boston,TX

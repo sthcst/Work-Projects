@@ -1,9 +1,0 @@
-contact:
-  name: Emily Hernandez
-  email: emily.hernandez9420@work.org
-  phone: 367-524-7555
-  ssn: 912-87-5267
-  dob: 09/24/1988
-  address: 8329 Main Rd
-  city: Houston
-  state: MD

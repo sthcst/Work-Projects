@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Lewis,kevin.lewis4445@gmail.com,908-208-4360,892 40 3238,4/8/1972,"3973 Fifth Way",San Antonio,CO

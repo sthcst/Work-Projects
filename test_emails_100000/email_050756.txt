@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Martin,lisa.martin2098@mail.com,(245) 884-1342,350-99-8242,19/01/1957,"5306 Fifth Blvd",Houston,FL

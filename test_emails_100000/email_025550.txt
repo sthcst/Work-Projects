@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Robinson
-  email: kenneth.robinson6508@company.com
-  phone: (695) 547-2683
-  ssn: 640983299
-  dob: 8/3/1955
-  address: 8495 Fifth Ave
-  city: Houston
-  state: DC

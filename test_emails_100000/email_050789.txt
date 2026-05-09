@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christopher Dominguez,christopher.dominguez9726@business.net,(967) 535-4573,055065960,05/04/1960,"7036 Cedar Court",Philadelphia,NC

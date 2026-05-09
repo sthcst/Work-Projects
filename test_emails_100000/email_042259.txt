@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Martin,rebecca.martin8353@company.com,888 795 2549,940108248,07/16/2005,"8831 Pine Blvd",Houston,TX

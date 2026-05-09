@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Walker
-  email: kimberly.walker7346@company.com
-  phone: 718 508 8908
-  ssn: 392 92 5655
-  dob: 09-06-1988
-  address: 7538 North Ln
-  city: San Diego
-  state: NC

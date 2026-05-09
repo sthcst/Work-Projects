@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Bell,rebecca.bell1197@yahoo.com,+1 407-543-6502,819774696,08-22-1990,"8745 Sixth St",Austin,VA

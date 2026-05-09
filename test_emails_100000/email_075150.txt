@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Reeves,lauren.reeves5411@mail.com,+1 997-897-9557,865-65-3302,2/16/1997,"401 Sixth Ln",Seattle,DC

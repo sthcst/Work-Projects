@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Stewart
-  email: kimberly.stewart1027@work.org
-  phone: 604 569 8115
-  ssn: 903 40 3295
-  dob: 04/01/1985
-  address: 4045 Second Rd
-  city: Boston
-  state: TX

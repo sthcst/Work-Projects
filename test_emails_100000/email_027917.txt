@@ -1,9 +1,0 @@
-contact:
-  name: Megan Parker
-  email: megan.parker3966@work.org
-  phone: 968-392-7962
-  ssn: 184-09-8676
-  dob: 08-10-1964
-  address: 9101 Elm Dr
-  city: Philadelphia
-  state: NY

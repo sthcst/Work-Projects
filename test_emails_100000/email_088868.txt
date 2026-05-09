@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Williams
-  email: rachel.williams4391@gmail.com
-  phone: 748 543 6739
-  ssn: 102 71 6632
-  dob: 05/26/1998
-  address: 3364 South Way
-  city: San Diego
-  state: TN

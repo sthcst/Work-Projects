@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Reeves
-  email: kenneth.reeves4456@work.org
-  phone: (574) 982-2406
-  ssn: 374-24-4478
-  dob: 05/01/1987
-  address: 5992 Main Way
-  city: San Diego
-  state: WA

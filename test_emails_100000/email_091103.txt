@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Morgan
-  email: pamela.morgan119@gmail.com
-  phone: (235) 568-3566
-  ssn: 131-29-3153
-  dob: 17/10/1981
-  address: 9767 Third Rd
-  city: Philadelphia
-  state: OH

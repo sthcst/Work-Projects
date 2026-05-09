@@ -1,9 +1,0 @@
-contact:
-  name: Angela Perez
-  email: angela.perez2210@work.org
-  phone: 505-799-7848
-  ssn: 832-26-5963
-  dob: 06/12/1974
-  address: 2232 Summer St
-  city: New York
-  state: NC

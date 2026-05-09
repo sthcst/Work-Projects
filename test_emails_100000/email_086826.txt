@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Robinson,michelle.robinson8356@mail.com,341 618 7296,798452701,2/6/1983,"5056 Sixth Ln",Washington,FL

@@ -1,9 +1,0 @@
-contact:
-  name: Joshua Guerrero
-  email: joshua.guerrero4773@mail.com
-  phone: +1 683-487-5443
-  ssn: 069514498
-  dob: 01-19-1958
-  address: 501 Main Rd
-  city: San Jose
-  state: WA

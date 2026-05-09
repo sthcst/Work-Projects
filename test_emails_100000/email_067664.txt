@@ -1,9 +1,0 @@
-contact:
-  name: Nicole Harris
-  email: nicole.harris2840@example.com
-  phone: +1 648-245-9821
-  ssn: 085217108
-  dob: 03-27-1993
-  address: 1181 Birch Ln
-  city: Seattle
-  state: OH

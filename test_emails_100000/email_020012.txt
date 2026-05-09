@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rebecca Martin,rebecca.martin1989@gmail.com,405 629 8129,048196938,16/09/1995,"7897 Second St",Phoenix,MO

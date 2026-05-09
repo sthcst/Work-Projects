@@ -1,9 +1,0 @@
-contact:
-  name: Angela Reeves
-  email: angela.reeves10@work.org
-  phone: +1 541-975-4222
-  ssn: 550222310
-  dob: 08/09/2002
-  address: 8880 Sixth Rd
-  city: Washington
-  state: TN

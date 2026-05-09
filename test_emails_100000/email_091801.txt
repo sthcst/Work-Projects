@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Perez
-  email: rebecca.perez9428@work.org
-  phone: 652-400-6899
-  ssn: 817-39-9704
-  dob: 08-12-1979
-  address: 1813 Elm Ave
-  city: Phoenix
-  state: AZ

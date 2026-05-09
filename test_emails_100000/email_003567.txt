@@ -1,9 +1,0 @@
-contact:
-  name: Jacob Lewis
-  email: jacob.lewis7701@business.net
-  phone: (385) 490-3012
-  ssn: 315812186
-  dob: 09/23/1956
-  address: 2424 North St
-  city: Washington
-  state: MA

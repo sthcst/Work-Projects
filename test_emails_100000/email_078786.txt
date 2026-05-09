@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Lewis,emily.lewis8894@gmail.com,209 749 5835,925-85-1027,05-07-2000,"1984 Summer Way",San Antonio,VA

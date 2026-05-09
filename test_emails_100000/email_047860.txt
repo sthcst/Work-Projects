@@ -1,9 +1,0 @@
-contact:
-  name: Jason Thomas
-  email: jason.thomas1655@outlook.com
-  phone: (631) 413-9756
-  ssn: 763-93-5232
-  dob: 5/24/1990
-  address: 7373 Second Blvd
-  city: San Diego
-  state: NC

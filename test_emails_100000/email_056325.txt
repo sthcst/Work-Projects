@@ -1,9 +1,0 @@
-contact:
-  name: Michael Hernandez
-  email: michael.hernandez853@example.com
-  phone: 916 804 6184
-  ssn: 059 05 3737
-  dob: 10-20-1951
-  address: 1133 North Blvd
-  city: Denver
-  state: MA

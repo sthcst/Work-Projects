@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Williams,anthony.williams9014@gmail.com,+1 980-642-3963,588-13-2384,02/26/1983,"164 Elm Ln",San Diego,MA

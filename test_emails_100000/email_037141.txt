@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Christine Lopez,christine.lopez9083@outlook.com,(916) 644-8721,534 09 8327,06-17-1999,"9014 Fifth Way",New York,WA

@@ -1,9 +1,0 @@
-contact:
-  name: Rachel Walker
-  email: rachel.walker5926@gmail.com
-  phone: (952) 257-8264
-  ssn: 197-59-4791
-  dob: 03-07-1964
-  address: 9086 Main Blvd
-  city: San Diego
-  state: NY

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Robinson,edward.robinson5134@outlook.com,929 940 2463,006-34-4391,02/24/1985,"5424 Sixth Way",Phoenix,OH

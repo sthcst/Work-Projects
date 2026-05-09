@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Young,jacob.young4835@gmail.com,325 208 3174,106 27 8516,05-05-1982,"1252 Birch Dr",Los Angeles,AZ

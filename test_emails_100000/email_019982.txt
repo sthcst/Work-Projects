@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Donald Evans,donald.evans7150@company.com,970 626 5531,036 43 5539,08/12/1979,"9277 Birch Ave",Denver,NJ

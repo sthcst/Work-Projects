@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Jones
-  email: kathleen.jones6709@business.net
-  phone: +1 940-360-1523
-  ssn: 762-52-9194
-  dob: 17/03/1958
-  address: 6805 Sixth Ave
-  city: Seattle
-  state: DC

@@ -1,9 +1,0 @@
-contact:
-  name: Angela Reed
-  email: angela.reed5505@yahoo.com
-  phone: (799) 738-6503
-  ssn: 412 50 1927
-  dob: 7/24/1995
-  address: 6376 Third Rd
-  city: Boston
-  state: TX

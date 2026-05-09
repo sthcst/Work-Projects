@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Peterson,richard.peterson96@work.org,(674) 782-5252,353-03-1811,23/02/1961,"4716 North Blvd",Los Angeles,TX

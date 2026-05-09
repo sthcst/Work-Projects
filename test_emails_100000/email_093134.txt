@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Thomas,shirley.thomas9154@yahoo.com,(636) 864-4888,356-18-6593,04/21/1973,"6655 Third Ave",New York,MI

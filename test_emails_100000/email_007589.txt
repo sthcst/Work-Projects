@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Perez
-  email: lisa.perez3175@yahoo.com
-  phone: 557 382 9004
-  ssn: 516749404
-  dob: 06/07/1997
-  address: 4953 Fourth Ave
-  city: Boston
-  state: TX

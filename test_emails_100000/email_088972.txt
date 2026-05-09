@@ -1,9 +1,0 @@
-contact:
-  name: David Moore
-  email: david.moore980@company.com
-  phone: +1 793-860-2212
-  ssn: 358897716
-  dob: 12/15/1995
-  address: 587 East Dr
-  city: Jacksonville
-  state: WA

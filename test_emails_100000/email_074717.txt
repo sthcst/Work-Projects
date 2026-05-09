@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Gonzalez
-  email: lisa.gonzalez8992@example.com
-  phone: 629-897-3554
-  ssn: 220925036
-  dob: 11/02/2001
-  address: 3940 Cedar Ave
-  city: Seattle
-  state: MO

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ronald Guerrero,ronald.guerrero9404@gmail.com,335-428-4926,881-97-8733,4/16/1960,"5115 North St",Chicago,CO

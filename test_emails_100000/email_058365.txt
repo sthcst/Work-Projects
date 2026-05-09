@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michael Robinson,michael.robinson2230@gmail.com,(561) 399-7292,856-93-6890,14/12/1993,"5236 Park Way",Chicago,MO

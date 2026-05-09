@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Parker,jeffrey.parker4587@business.net,730-507-1859,660-70-3192,07-25-1991,"2568 Birch Court",Denver,CO

@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Gomez
-  email: sarah.gomez6071@gmail.com
-  phone: 419-895-3639
-  ssn: 788174630
-  dob: 11-10-1969
-  address: 5300 East Rd
-  city: Dallas
-  state: FL

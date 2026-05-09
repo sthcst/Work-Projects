@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Guerrero
-  email: amanda.guerrero17@yahoo.com
-  phone: 716-469-2014
-  ssn: 570025261
-  dob: 20/11/1968
-  address: 4606 Oak Rd
-  city: Chicago
-  state: MD

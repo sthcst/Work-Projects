@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Hall
-  email: shirley.hall9833@example.com
-  phone: 514-854-7811
-  ssn: 983 91 5888
-  dob: 05-01-1990
-  address: 118 Third Rd
-  city: Boston
-  state: NC

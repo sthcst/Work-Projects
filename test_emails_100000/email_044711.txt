@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Collins
-  email: anthony.collins1967@mail.com
-  phone: (859) 654-2422
-  ssn: 629708568
-  dob: 02-11-2000
-  address: 8964 North Ln
-  city: Phoenix
-  state: NY

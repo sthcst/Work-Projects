@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-John Alvarado,john.alvarado899@gmail.com,+1 971-431-6595,236-92-4350,12/06/1985,"7842 Spring Rd",San Antonio,OH

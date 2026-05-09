@@ -1,9 +1,0 @@
-contact:
-  name: Jason Anderson
-  email: jason.anderson9337@business.net
-  phone: 466 644 6611
-  ssn: 728 01 1017
-  dob: 10/08/1959
-  address: 2607 Fifth Ln
-  city: San Diego
-  state: PA

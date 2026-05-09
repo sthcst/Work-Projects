@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Campbell,katherine.campbell1317@work.org,(392) 993-4453,403-54-7399,01/21/1955,"9894 Birch Court",San Antonio,IL

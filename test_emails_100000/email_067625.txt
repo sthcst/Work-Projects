@@ -1,9 +1,0 @@
-contact:
-  name: Anna Bell
-  email: anna.bell2734@outlook.com
-  phone: (277) 907-7786
-  ssn: 707473136
-  dob: 02-07-1971
-  address: 3327 Third Rd
-  city: Dallas
-  state: MA

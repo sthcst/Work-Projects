@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Lopez,paul.lopez41@example.com,527-463-6319,313-36-8801,05-06-1972,"164 Second Dr",Los Angeles,PA

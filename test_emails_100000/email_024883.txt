@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Rachel Serrano,rachel.serrano4402@yahoo.com,+1 589-997-1740,272846214,12/12/1963,"6985 Third Way",Phoenix,MD

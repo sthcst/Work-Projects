@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Lopez
-  email: shirley.lopez4591@company.com
-  phone: (496) 394-4363
-  ssn: 663-82-7187
-  dob: 04/12/1979
-  address: 3371 Fifth Way
-  city: San Antonio
-  state: MO

@@ -1,9 +1,0 @@
-contact:
-  name: Steven Clark
-  email: steven.clark3276@mail.com
-  phone: +1 977-516-8613
-  ssn: 140 16 2145
-  dob: 18/09/1963
-  address: 6542 Second Dr
-  city: Phoenix
-  state: TX

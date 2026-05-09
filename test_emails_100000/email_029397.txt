@@ -1,9 +1,0 @@
-contact:
-  name: Angela Anderson
-  email: angela.anderson8790@mail.com
-  phone: +1 386-371-9159
-  ssn: 820065219
-  dob: 06/19/1976
-  address: 2004 Birch Dr
-  city: Austin
-  state: WI

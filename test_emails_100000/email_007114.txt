@@ -1,9 +1,0 @@
-contact:
-  name: Kenneth Morgan
-  email: kenneth.morgan6579@yahoo.com
-  phone: +1 625-790-6463
-  ssn: 739693505
-  dob: 11/18/1975
-  address: 2584 Maple Way
-  city: New York
-  state: PA

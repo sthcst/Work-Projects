@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Martin,nicholas.martin5489@example.com,(791) 309-3310,868-94-6093,6/11/1954,"9787 East Dr",Boston,TX

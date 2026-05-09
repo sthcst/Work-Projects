@@ -1,9 +1,0 @@
-contact:
-  name: Helen Gonzalez
-  email: helen.gonzalez5762@mail.com
-  phone: +1 998-944-9985
-  ssn: 176 88 6859
-  dob: 19/10/1998
-  address: 4948 First Rd
-  city: Philadelphia
-  state: IL

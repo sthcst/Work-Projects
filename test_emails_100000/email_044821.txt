@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jessica Hall,jessica.hall1380@example.com,(229) 772-4431,536-91-5436,8/21/1983,"6637 Pine Rd",Chicago,MA

@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Anderson
-  email: amanda.anderson9793@gmail.com
-  phone: +1 461-379-3325
-  ssn: 829 12 5881
-  dob: 08-04-1957
-  address: 3665 Fourth Rd
-  city: Boston
-  state: MI

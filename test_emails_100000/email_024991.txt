@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emma Clark,emma.clark1441@yahoo.com,325 260 9719,828 81 5928,12-20-1963,"4491 Summer St",Seattle,PA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Miller,katherine.miller7990@yahoo.com,668 555 4222,236-91-1667,02-12-1995,"9281 East Court",San Jose,TX

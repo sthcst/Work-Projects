@@ -1,9 +1,0 @@
-contact:
-  name: Shirley Carter
-  email: shirley.carter7039@company.com
-  phone: (378) 497-6841
-  ssn: 494 34 7839
-  dob: 01/25/1968
-  address: 6074 North Ave
-  city: Los Angeles
-  state: WA

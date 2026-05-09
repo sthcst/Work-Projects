@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicholas Flores,nicholas.flores7144@work.org,417-351-4601,955 90 9614,09-04-1987,"251 Main St",Houston,AZ

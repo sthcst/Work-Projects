@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Martinez
-  email: kathleen.martinez9475@example.com
-  phone: (285) 489-8735
-  ssn: 232769391
-  dob: 11/27/1995
-  address: 8043 North Blvd
-  city: Chicago
-  state: IL

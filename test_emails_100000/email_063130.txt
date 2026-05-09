@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Wilson,emily.wilson9182@example.com,560-202-4801,375 39 1750,04/05/1975,"1921 Spring St",Seattle,NJ

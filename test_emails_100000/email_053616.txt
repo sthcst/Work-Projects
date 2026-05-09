@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Moore,amanda.moore4401@gmail.com,570-695-2875,609608364,23/02/2001,"8307 Spring St",Washington,MA

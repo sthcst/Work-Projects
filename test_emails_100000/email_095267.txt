@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Shirley Serrano,shirley.serrano5150@example.com,893 513 3098,011294182,03-15-1995,"8376 Fifth Blvd",Phoenix,PA

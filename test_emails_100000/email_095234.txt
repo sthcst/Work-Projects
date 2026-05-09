@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Wilson
-  email: jennifer.wilson8513@work.org
-  phone: +1 822-564-5424
-  ssn: 330 20 3757
-  dob: 01/17/1971
-  address: 8173 Second Ln
-  city: Philadelphia
-  state: DC

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Guerrero,emily.guerrero8252@business.net,(940) 914-7492,296 81 7178,10/26/1987,"280 South Rd",Austin,TX

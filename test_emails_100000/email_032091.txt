@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jacob Smith,jacob.smith8219@yahoo.com,(455) 641-6248,973483526,17/02/1964,"5591 Second St",Denver,TX

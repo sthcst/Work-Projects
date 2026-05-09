@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Hernandez
-  email: rebecca.hernandez8455@business.net
-  phone: +1 958-465-9723
-  ssn: 719-79-1673
-  dob: 3/19/1986
-  address: 2295 Second Ln
-  city: New York
-  state: VA

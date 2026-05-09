@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Morgan
-  email: sarah.morgan8009@company.com
-  phone: 919-861-2405
-  ssn: 277 16 3969
-  dob: 08/14/1992
-  address: 5633 Maple Dr
-  city: San Diego
-  state: VA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kevin Davis,kevin.davis822@work.org,(258) 720-2312,872242122,2/22/2005,"6625 Pine Ln",Los Angeles,OH

@@ -1,9 +1,0 @@
-contact:
-  name: Lauren Brown
-  email: lauren.brown5232@gmail.com
-  phone: 717-997-7851
-  ssn: 386 54 3661
-  dob: 02-14-1965
-  address: 2833 Cedar St
-  city: San Antonio
-  state: TX

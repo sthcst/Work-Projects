@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Miller
-  email: katherine.miller4626@work.org
-  phone: 499-577-7460
-  ssn: 399309693
-  dob: 11/6/1960
-  address: 5324 Pine St
-  city: Philadelphia
-  state: CA

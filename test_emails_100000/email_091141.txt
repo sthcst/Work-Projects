@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Nicole Smith,nicole.smith6289@business.net,989 692 1905,024 56 7578,04/18/1986,"8522 Park St",San Jose,TX

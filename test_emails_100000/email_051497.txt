@@ -1,9 +1,0 @@
-contact:
-  name: Brenda Rogers
-  email: brenda.rogers9531@outlook.com
-  phone: (224) 869-8427
-  ssn: 628-84-2165
-  dob: 03/26/1954
-  address: 3127 Second Blvd
-  city: Houston
-  state: CA

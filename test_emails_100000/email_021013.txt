@@ -1,9 +1,0 @@
-contact:
-  name: Donald Morgan
-  email: donald.morgan6191@work.org
-  phone: 403-289-4447
-  ssn: 482-78-1822
-  dob: 1/23/1954
-  address: 7421 Oak Way
-  city: Los Angeles
-  state: NJ

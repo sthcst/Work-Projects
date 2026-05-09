@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Jones,timothy.jones354@business.net,+1 865-953-1548,387 61 5613,12-03-1966,"5093 Second Ave",Seattle,FL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Robert Jimenez,robert.jimenez1091@yahoo.com,676 418 2400,820 41 7197,2/2/1958,"9625 Summer St",Los Angeles,MO

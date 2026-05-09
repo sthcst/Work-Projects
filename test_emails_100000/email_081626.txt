@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Robinson,stephanie.robinson4127@business.net,(600) 593-4740,073918278,07-01-1956,"8427 Cedar St",Los Angeles,MI

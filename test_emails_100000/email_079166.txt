@@ -1,9 +1,0 @@
-contact:
-  name: Jane Delgado
-  email: jane.delgado1228@gmail.com
-  phone: (826) 268-4234
-  ssn: 219-57-5100
-  dob: 09-16-1993
-  address: 3988 First Way
-  city: Washington
-  state: PA

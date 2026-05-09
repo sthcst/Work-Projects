@@ -1,9 +1,0 @@
-contact:
-  name: Donald Cooper
-  email: donald.cooper1907@work.org
-  phone: (562) 271-6395
-  ssn: 431627062
-  dob: 11/03/1953
-  address: 2117 West Dr
-  city: Boston
-  state: MD

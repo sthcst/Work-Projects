@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Evans,david.evans7463@gmail.com,+1 288-390-5654,976 23 7135,20/04/1965,"2933 Fifth Ln",Dallas,IL

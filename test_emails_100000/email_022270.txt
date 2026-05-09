@@ -1,9 +1,0 @@
-contact:
-  name: Richard Campbell
-  email: richard.campbell7552@company.com
-  phone: 623-274-3183
-  ssn: 292-21-8810
-  dob: 06/08/1977
-  address: 9700 Spring Blvd
-  city: Phoenix
-  state: WA

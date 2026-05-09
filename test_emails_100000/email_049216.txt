@@ -1,9 +1,0 @@
-contact:
-  name: Charles Roberts
-  email: charles.roberts3039@company.com
-  phone: (263) 883-8653
-  ssn: 041 95 6114
-  dob: 04-12-1988
-  address: 8657 Fourth Blvd
-  city: Boston
-  state: WI

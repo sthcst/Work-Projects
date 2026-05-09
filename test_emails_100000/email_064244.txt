@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Brown,brian.brown5463@yahoo.com,+1 771-455-5879,837407687,10-25-1993,"855 Summer Ln",Los Angeles,DC

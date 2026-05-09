@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Reeves,steven.reeves3675@yahoo.com,(782) 254-7519,806 11 3797,01/05/1964,"6060 First Ave",Dallas,OH

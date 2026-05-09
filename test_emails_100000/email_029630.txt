@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Johnson,mark.johnson2377@mail.com,+1 669-978-3665,971 90 4602,11-24-1994,"466 Oak Blvd",San Antonio,MD

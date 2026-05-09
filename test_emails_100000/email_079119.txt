@@ -1,9 +1,0 @@
-contact:
-  name: Andrew Sanchez
-  email: andrew.sanchez5215@company.com
-  phone: 417 903 9729
-  ssn: 901 47 7854
-  dob: 12/2/1983
-  address: 8890 Elm Ave
-  city: New York
-  state: FL

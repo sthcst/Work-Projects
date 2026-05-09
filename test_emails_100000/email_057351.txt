@@ -1,9 +1,0 @@
-contact:
-  name: Sarah Jackson
-  email: sarah.jackson7851@work.org
-  phone: 811 357 6386
-  ssn: 670532286
-  dob: 06/13/1961
-  address: 93 Cedar Ln
-  city: Jacksonville
-  state: CA

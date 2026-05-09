@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Amanda Jackson,amanda.jackson5578@work.org,624-318-9713,325 36 7770,4/11/1955,"8683 Summer Ln",Seattle,CO

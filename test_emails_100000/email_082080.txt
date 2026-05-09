@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Deborah Rogers,deborah.rogers8766@outlook.com,490-310-4329,610-46-1223,10-14-1992,"9471 Elm Court",Seattle,CA

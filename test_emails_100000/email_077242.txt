@@ -1,9 +1,0 @@
-contact:
-  name: Charles Peterson
-  email: charles.peterson4196@outlook.com
-  phone: (692) 908-9207
-  ssn: 545 02 8670
-  dob: 03/06/1959
-  address: 8588 Pine Court
-  city: San Antonio
-  state: MO

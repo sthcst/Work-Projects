@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Clark,maria.clark8835@mail.com,+1 705-537-4483,833 47 2006,04/09/1992,"2552 Maple St",Denver,NJ

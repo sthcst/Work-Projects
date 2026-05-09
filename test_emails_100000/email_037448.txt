@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Pamela Rodriguez,pamela.rodriguez5385@business.net,973-215-1179,752 02 4617,02/18/2003,"3798 Oak Court",Philadelphia,CA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Morris,brian.morris163@mail.com,477-414-3286,103 75 2721,04/22/2003,"8487 First Court",Seattle,MI

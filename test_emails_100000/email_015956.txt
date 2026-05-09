@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Thompson,lisa.thompson5849@outlook.com,204 633 5194,066 73 9917,19/03/1991,"3255 Third Ave",San Diego,DC

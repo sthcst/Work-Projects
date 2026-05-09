@@ -1,9 +1,0 @@
-contact:
-  name: Jane Phillips
-  email: jane.phillips8773@outlook.com
-  phone: +1 644-256-9434
-  ssn: 042798935
-  dob: 5/23/1974
-  address: 9922 Main Ave
-  city: Phoenix
-  state: TX

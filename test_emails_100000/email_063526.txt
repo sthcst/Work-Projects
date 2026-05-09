@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Moore,maria.moore2224@outlook.com,553 586 8763,955-01-6144,11-03-1992,"9016 West Dr",Denver,NC

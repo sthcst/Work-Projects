@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Steven Stewart,steven.stewart1997@example.com,493 943 7628,138 50 1654,06-08-1982,"5826 South Blvd",Houston,WA

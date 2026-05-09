@@ -1,9 +1,0 @@
-contact:
-  name: Donald Young
-  email: donald.young2266@company.com
-  phone: 511-437-4476
-  ssn: 115 53 2218
-  dob: 24/07/2005
-  address: 5046 Summer Way
-  city: Washington
-  state: CA

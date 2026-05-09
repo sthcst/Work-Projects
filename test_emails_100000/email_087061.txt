@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Wilson,lisa.wilson4984@business.net,596 746 6548,926-59-9327,3/28/1968,"8448 Cedar Court",Chicago,MD

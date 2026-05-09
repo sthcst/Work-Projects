@@ -1,9 +1,0 @@
-contact:
-  name: Emily Ortiz
-  email: emily.ortiz2018@work.org
-  phone: 407-875-6400
-  ssn: 424 91 3455
-  dob: 06-10-1960
-  address: 3364 Elm Way
-  city: San Diego
-  state: AZ

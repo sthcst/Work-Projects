@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-David Davis,david.davis5178@example.com,+1 235-277-1687,816-55-9500,01/23/1969,"2536 Main Ave",Denver,WI

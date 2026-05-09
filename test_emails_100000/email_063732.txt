@@ -1,9 +1,0 @@
-contact:
-  name: Steven Peterson
-  email: steven.peterson6034@work.org
-  phone: 293-422-4195
-  ssn: 970185786
-  dob: 05-11-1972
-  address: 3058 Park Ave
-  city: Phoenix
-  state: CO

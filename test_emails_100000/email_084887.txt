@@ -1,9 +1,0 @@
-contact:
-  name: Christine Johnson
-  email: christine.johnson5034@business.net
-  phone: 888 446 9305
-  ssn: 556889490
-  dob: 03/24/2002
-  address: 7465 South St
-  city: Philadelphia
-  state: WA

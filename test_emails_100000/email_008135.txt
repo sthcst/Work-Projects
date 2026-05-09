@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Peterson
-  email: pamela.peterson6591@business.net
-  phone: (915) 478-3672
-  ssn: 433-70-5920
-  dob: 05/02/1962
-  address: 1872 South Blvd
-  city: San Diego
-  state: NC

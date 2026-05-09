@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lisa Nelson,lisa.nelson2785@business.net,(622) 864-6805,308314903,11/09/1968,"847 Cedar Way",San Antonio,MA

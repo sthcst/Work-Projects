@@ -1,9 +1,0 @@
-contact:
-  name: Kathleen Bell
-  email: kathleen.bell3782@mail.com
-  phone: +1 884-726-5955
-  ssn: 898931031
-  dob: 05/11/2000
-  address: 1797 Fourth Way
-  city: Seattle
-  state: CO

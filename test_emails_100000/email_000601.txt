@@ -1,9 +1,0 @@
-contact:
-  name: Katherine Reeves
-  email: katherine.reeves4973@mail.com
-  phone: 681 723 8991
-  ssn: 396 97 3248
-  dob: 03/06/1994
-  address: 5620 Fourth Ave
-  city: Dallas
-  state: MI

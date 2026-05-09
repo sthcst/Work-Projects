@@ -1,9 +1,0 @@
-contact:
-  name: Rebecca Phillips
-  email: rebecca.phillips6036@yahoo.com
-  phone: +1 436-784-3706
-  ssn: 820173251
-  dob: 03/04/1978
-  address: 8377 West Blvd
-  city: New York
-  state: MA

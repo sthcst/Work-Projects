@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Reyes,timothy.reyes403@outlook.com,433-896-4520,921 10 3888,12/7/1960,"8765 Birch Blvd",Jacksonville,WI

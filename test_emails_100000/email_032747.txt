@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Rogers,ryan.rogers4766@company.com,751 601 5778,406-78-8389,18/11/1997,"4986 East Ln",Boston,FL

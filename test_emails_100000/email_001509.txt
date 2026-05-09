@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Timothy Hall,timothy.hall2774@business.net,+1 439-998-1257,175221668,10/10/1955,"5547 Birch St",San Jose,NJ

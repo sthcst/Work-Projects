@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Collins,samantha.collins2574@mail.com,+1 655-633-5640,431846001,08/11/1985,"6657 Main Rd",Denver,GA

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Gary Campbell,gary.campbell5800@yahoo.com,+1 843-453-9805,866 52 9609,01/16/1995,"2695 Birch Court",Boston,MD

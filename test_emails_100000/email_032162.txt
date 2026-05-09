@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Cooper
-  email: lisa.cooper8594@example.com
-  phone: +1 774-823-8669
-  ssn: 241786252
-  dob: 2/27/1980
-  address: 9304 South Way
-  city: San Diego
-  state: CA

@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Phillips
-  email: amanda.phillips751@outlook.com
-  phone: +1 553-280-2228
-  ssn: 723-79-3256
-  dob: 05/12/1963
-  address: 5627 First St
-  city: San Antonio
-  state: AZ

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Maria Ramirez,maria.ramirez5235@outlook.com,911-383-7212,544 05 6423,07/02/1972,"707 Fourth Way",San Antonio,MA

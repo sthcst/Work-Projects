@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Ryan Peterson,ryan.peterson7744@example.com,531-362-1239,443-44-2957,10/04/1973,"8234 Spring Dr",Phoenix,MI

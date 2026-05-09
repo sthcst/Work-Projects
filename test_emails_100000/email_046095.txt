@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Anthony Thomas,anthony.thomas2920@mail.com,+1 576-569-6356,740792681,27/09/1999,"6057 Spring Blvd",New York,FL

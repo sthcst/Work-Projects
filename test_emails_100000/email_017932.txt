@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Mark Morris,mark.morris5797@mail.com,(956) 932-9929,343 18 4437,09/19/1969,"6934 Summer Rd",Los Angeles,CA

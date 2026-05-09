@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Serrano,paul.serrano6996@company.com,412-736-9570,905997019,03/05/1991,"9887 Spring Dr",New York,VA

@@ -1,9 +1,0 @@
-contact:
-  name: Nicholas Clark
-  email: nicholas.clark2923@gmail.com
-  phone: 780 689 5073
-  ssn: 856-85-4451
-  dob: 03-20-1990
-  address: 5315 East Ave
-  city: San Jose
-  state: DC

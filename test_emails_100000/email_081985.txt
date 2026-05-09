@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Reeves
-  email: anthony.reeves8591@example.com
-  phone: 487-331-4447
-  ssn: 017-42-2563
-  dob: 11-26-1953
-  address: 350 Cedar St
-  city: Denver
-  state: GA

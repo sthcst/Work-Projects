@@ -1,9 +1,0 @@
-contact:
-  name: Lisa Morgan
-  email: lisa.morgan7064@yahoo.com
-  phone: (354) 756-4832
-  ssn: 340339550
-  dob: 04/25/2002
-  address: 9216 Fifth Dr
-  city: Dallas
-  state: WA

@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Lopez
-  email: pamela.lopez7835@gmail.com
-  phone: 618 823 9497
-  ssn: 942 95 2084
-  dob: 01/04/1960
-  address: 2422 First Way
-  city: Philadelphia
-  state: WA

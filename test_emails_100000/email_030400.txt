@@ -1,9 +1,0 @@
-contact:
-  name: Charles Roberts
-  email: charles.roberts7920@company.com
-  phone: +1 840-453-7609
-  ssn: 649772960
-  dob: 10/01/2000
-  address: 4618 Fifth Court
-  city: Seattle
-  state: CO

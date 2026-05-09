@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Stephanie Brown,stephanie.brown9519@outlook.com,222-785-1183,135 32 5496,06-10-1974,"1449 Cedar St",Seattle,VA

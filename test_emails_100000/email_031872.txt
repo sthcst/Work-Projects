@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Paul Alvarado,paul.alvarado4626@business.net,960-632-1044,896264036,02/02/1984,"5467 First Rd",Dallas,TX

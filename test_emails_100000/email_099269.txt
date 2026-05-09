@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Reyes,kimberly.reyes8806@yahoo.com,+1 765-476-6712,509-28-2685,7/7/1960,"9939 Cedar Way",San Jose,TX

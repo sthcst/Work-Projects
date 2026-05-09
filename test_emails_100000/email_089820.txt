@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Emily Evans,emily.evans9880@gmail.com,(223) 971-3480,034-99-4931,09/12/1988,"8998 Fourth Rd",San Diego,TX

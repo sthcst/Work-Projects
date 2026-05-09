@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-George Reyes,george.reyes3887@work.org,+1 215-968-3290,589885440,23/02/1977,"7912 Park Ln",Dallas,IL

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Angela Moore,angela.moore1272@business.net,+1 579-792-5934,285-64-4352,13/08/1995,"8184 Fifth Ln",Houston,WI

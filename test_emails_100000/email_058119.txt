@@ -1,9 +1,0 @@
-contact:
-  name: Jason Guerrero
-  email: jason.guerrero6172@mail.com
-  phone: (521) 723-3306
-  ssn: 930 10 4280
-  dob: 08/22/1997
-  address: 6461 Elm Rd
-  city: San Diego
-  state: TX

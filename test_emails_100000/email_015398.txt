@@ -1,9 +1,0 @@
-contact:
-  name: Pamela Delgado
-  email: pamela.delgado908@mail.com
-  phone: 396-718-5484
-  ssn: 168 68 6046
-  dob: 13/01/1971
-  address: 2807 Park Rd
-  city: Houston
-  state: TX

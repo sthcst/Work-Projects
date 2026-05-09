@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Megan Lopez,megan.lopez234@business.net,+1 257-519-1614,162899714,10/22/1997,"785 First Dr",Philadelphia,FL

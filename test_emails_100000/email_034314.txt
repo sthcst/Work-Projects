@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jeffrey Hall,jeffrey.hall1930@work.org,384 789 9376,153 59 6283,04/06/2000,"2012 Elm Ln",New York,IL

@@ -1,9 +1,0 @@
-contact:
-  name: Kimberly Phillips
-  email: kimberly.phillips3706@business.net
-  phone: (307) 845-3144
-  ssn: 019656073
-  dob: 12/01/1967
-  address: 1401 East Ln
-  city: Los Angeles
-  state: AZ

@@ -1,9 +1,0 @@
-contact:
-  name: Jennifer Evans
-  email: jennifer.evans4889@yahoo.com
-  phone: (842) 906-9401
-  ssn: 181661907
-  dob: 12/09/1985
-  address: 7571 Fourth Ln
-  city: New York
-  state: MO

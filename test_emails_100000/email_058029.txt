@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Michelle Harris,michelle.harris5594@outlook.com,418 307 1492,437 58 8317,24/10/1986,"548 Fifth Rd",San Jose,VA

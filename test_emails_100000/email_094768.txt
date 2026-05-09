@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Anderson,edward.anderson2009@business.net,(223) 266-4156,341 03 9620,08/11/1959,"4206 Maple Rd",Chicago,MA

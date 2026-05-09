@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Flores
-  email: michelle.flores7281@outlook.com
-  phone: 495-360-4048
-  ssn: 100399445
-  dob: 03/09/1960
-  address: 747 Oak Blvd
-  city: Jacksonville
-  state: CA

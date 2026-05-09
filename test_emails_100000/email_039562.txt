@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Jane Parker,jane.parker403@outlook.com,+1 746-450-5641,500765620,1/14/1969,"536 Summer Rd",Austin,NC

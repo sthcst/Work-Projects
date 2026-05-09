@@ -1,9 +1,0 @@
-contact:
-  name: Matthew Anderson
-  email: matthew.anderson6429@business.net
-  phone: (702) 578-8011
-  ssn: 088901191
-  dob: 11/02/1993
-  address: 3182 South Ave
-  city: Phoenix
-  state: MD

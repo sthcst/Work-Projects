@@ -1,9 +1,0 @@
-contact:
-  name: Michelle Ramirez
-  email: michelle.ramirez2526@business.net
-  phone: 504-399-3025
-  ssn: 193-78-6873
-  dob: 12/13/1962
-  address: 3823 West St
-  city: Boston
-  state: OH

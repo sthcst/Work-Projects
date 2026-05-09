@@ -1,9 +1,0 @@
-contact:
-  name: Maria Cooper
-  email: maria.cooper1288@business.net
-  phone: +1 924-463-3322
-  ssn: 479-80-4095
-  dob: 11/15/1965
-  address: 2513 Oak Way
-  city: Dallas
-  state: CA

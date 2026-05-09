@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Katherine Jones,katherine.jones5531@outlook.com,+1 957-568-9357,971856024,02/03/1998,"3122 Sixth St",Chicago,NJ

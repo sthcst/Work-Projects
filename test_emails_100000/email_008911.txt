@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Lauren Murillo,lauren.murillo5952@mail.com,(380) 577-3135,873783500,02-03-1998,"9805 Oak Way",Denver,DC

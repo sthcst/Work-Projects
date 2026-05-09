@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Richard Lopez,richard.lopez7560@gmail.com,640-272-2983,030-47-3048,12/16/1995,"7810 Second Rd",Houston,MA

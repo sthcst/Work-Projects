@@ -1,9 +1,0 @@
-contact:
-  name: Anthony Thompson
-  email: anthony.thompson2165@yahoo.com
-  phone: 208-575-5329
-  ssn: 489737619
-  dob: 20/06/1976
-  address: 3649 Elm St
-  city: Dallas
-  state: TX

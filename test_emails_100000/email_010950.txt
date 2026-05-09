@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Kimberly Delgado,kimberly.delgado9053@outlook.com,228 206 6262,750906237,6/20/1951,"572 Sixth Blvd",San Diego,NY

@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Samantha Guerrero,samantha.guerrero6798@business.net,204-253-1933,707-23-7788,02/05/1983,"3837 East Dr",Washington,NJ

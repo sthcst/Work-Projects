@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Andrew Martin,andrew.martin7131@work.org,753 650 7707,957883883,12/07/1953,"4702 Spring Blvd",Boston,TX

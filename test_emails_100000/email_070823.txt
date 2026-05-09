@@ -1,9 +1,0 @@
-contact:
-  name: Amanda Wilson
-  email: amanda.wilson1877@company.com
-  phone: 407 969 3686
-  ssn: 606 27 1053
-  dob: 04/10/1996
-  address: 9297 West Court
-  city: Boston
-  state: AZ

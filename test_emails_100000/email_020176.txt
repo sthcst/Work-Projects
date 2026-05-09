@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Edward Harris,edward.harris1438@business.net,599 356 1770,323-27-4529,09-09-2005,"2952 North Ln",Dallas,DC

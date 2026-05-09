@@ -1,2 +1,0 @@
-name,email,phone,ssn,dob,address,city,state
-Brian Phillips,brian.phillips7355@mail.com,(884) 678-3159,887-37-8212,09/19/1981,"3421 Pine St",Chicago,TX
