@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Campbell,andrew.campbell4007@company.com,753 536 9016,250 40 8352,11-06-2003,"669 Park Way",Jacksonville,CA

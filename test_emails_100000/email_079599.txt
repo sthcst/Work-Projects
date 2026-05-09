@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Collins
+  email: nicole.collins2333@business.net
+  phone: (903) 750-1747
+  ssn: 301 11 5449
+  dob: 6/21/1961
+  address: 2615 Fourth Blvd
+  city: Philadelphia
+  state: MI

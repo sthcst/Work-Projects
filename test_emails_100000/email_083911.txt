@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Lee,ronald.lee4939@outlook.com,913-830-4247,674 79 2053,09-18-1985,"4008 Spring Rd",Philadelphia,TN

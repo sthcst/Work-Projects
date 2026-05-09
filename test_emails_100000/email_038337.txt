@@ -1,0 +1,14 @@
+INVOICE 850583
+
+Bill To:
+Name: Kathleen Young
+Email: kathleen.young9794@example.com
+Phone: +1 360-645-6333
+SSN: 248-20-8423
+
+Address: 1011 North Dr
+Los Angeles, FL
+
+Date of Birth: 24/01/1978
+
+Amount Due: $6107

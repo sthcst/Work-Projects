@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Ortiz",
+    "email": "nicholas.ortiz2700@gmail.com",
+    "phone": "+1 762-433-2298",
+    "ssn": "583-69-9287",
+    "dob": "5/19/2002",
+    "address": "4433 South Court",
+    "city": "Houston",
+    "state": "CA"
+  }
+}

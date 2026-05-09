@@ -1,0 +1,9 @@
+contact:
+  name: Anna Jackson
+  email: anna.jackson5499@example.com
+  phone: 982 357 9647
+  ssn: 571434666
+  dob: 12-23-1995
+  address: 246 Second Way
+  city: Washington
+  state: NY

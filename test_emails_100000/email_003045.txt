@@ -1,0 +1,9 @@
+contact:
+  name: Charles Bell
+  email: charles.bell3839@gmail.com
+  phone: 924-585-2271
+  ssn: 516-08-4095
+  dob: 07/11/1983
+  address: 9524 Spring Rd
+  city: Boston
+  state: TX

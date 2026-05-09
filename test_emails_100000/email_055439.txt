@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Collins",
+    "email": "katherine.collins5523@company.com",
+    "phone": "+1 789-575-2467",
+    "ssn": "726-93-3982",
+    "dob": "09-07-1986",
+    "address": "9042 West Court",
+    "city": "San Antonio",
+    "state": "OH"
+  }
+}

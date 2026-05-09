@@ -1,0 +1,14 @@
+INVOICE 589813
+
+Bill To:
+Name: Paul Thompson
+Email: paul.thompson1647@yahoo.com
+Phone: 631-892-2589
+SSN: 619589550
+
+Address: 8739 Second Court
+Boston, IL
+
+Date of Birth: 7/15/1967
+
+Amount Due: $1619

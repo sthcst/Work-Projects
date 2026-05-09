@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Ortiz
+  email: shirley.ortiz4064@yahoo.com
+  phone: 437 915 2804
+  ssn: 893 01 4043
+  dob: 5/9/1980
+  address: 6504 Second Blvd
+  city: San Diego
+  state: AZ

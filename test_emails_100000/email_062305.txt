@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Reeves,lauren.reeves1043@outlook.com,344-372-8727,859136817,02-09-1987,"4233 South St",Washington,CA

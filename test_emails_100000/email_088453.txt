@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Miller
+  email: samantha.miller6550@mail.com
+  phone: (260) 336-6141
+  ssn: 805-25-2039
+  dob: 13/09/1967
+  address: 4152 Maple Dr
+  city: San Antonio
+  state: PA

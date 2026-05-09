@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Lee,william.lee9757@gmail.com,+1 775-622-9752,737464694,11/10/1988,"1933 Pine Dr",Los Angeles,OH

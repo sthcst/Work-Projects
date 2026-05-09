@@ -1,0 +1,14 @@
+INVOICE 470769
+
+Bill To:
+Name: George Davis
+Email: george.davis4222@work.org
+Phone: (674) 824-8910
+SSN: 773955498
+
+Address: 3533 Birch Blvd
+San Jose, FL
+
+Date of Birth: 04/08/2005
+
+Amount Due: $2093

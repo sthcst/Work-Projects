@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Lopez",
+    "email": "stephanie.lopez7922@example.com",
+    "phone": "703 940 1268",
+    "ssn": "949625120",
+    "dob": "11/24/1971",
+    "address": "2284 Summer Dr",
+    "city": "Seattle",
+    "state": "MA"
+  }
+}

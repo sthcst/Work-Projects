@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Brown",
+    "email": "jane.brown1687@company.com",
+    "phone": "668 549 1866",
+    "ssn": "645-14-2248",
+    "dob": "6/15/1999",
+    "address": "7449 West Court",
+    "city": "Seattle",
+    "state": "NC"
+  }
+}

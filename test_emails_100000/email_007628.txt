@@ -1,0 +1,9 @@
+contact:
+  name: Mark Jimenez
+  email: mark.jimenez2315@company.com
+  phone: 335 891 8340
+  ssn: 769-39-5345
+  dob: 6/26/2000
+  address: 551 Oak Ln
+  city: Dallas
+  state: WI

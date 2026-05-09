@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Edwards",
+    "email": "brenda.edwards3284@work.org",
+    "phone": "+1 718-313-7514",
+    "ssn": "374 64 9982",
+    "dob": "23/12/1974",
+    "address": "4717 Third Way",
+    "city": "San Jose",
+    "state": "FL"
+  }
+}

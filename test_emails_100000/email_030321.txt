@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Reed",
+    "email": "david.reed5441@mail.com",
+    "phone": "391-348-4566",
+    "ssn": "779984164",
+    "dob": "05/05/1958",
+    "address": "9785 East Ave",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

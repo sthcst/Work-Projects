@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Bell,paul.bell6420@mail.com,(954) 460-3280,881 93 3653,03/28/1984,"4660 Maple Dr",Boston,CO

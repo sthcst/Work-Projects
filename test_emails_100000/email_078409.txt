@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Jackson",
+    "email": "mark.jackson4041@company.com",
+    "phone": "+1 888-761-5684",
+    "ssn": "675 91 3902",
+    "dob": "08/28/1989",
+    "address": "6247 Pine Rd",
+    "city": "Denver",
+    "state": "TN"
+  }
+}

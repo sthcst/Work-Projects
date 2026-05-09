@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Peterson,emily.peterson8537@business.net,610-770-6518,306-58-4120,04/28/1985,"7546 Second Blvd",San Diego,NC

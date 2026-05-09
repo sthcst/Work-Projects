@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Walker",
+    "email": "joshua.walker1441@mail.com",
+    "phone": "344 721 3436",
+    "ssn": "192-84-3252",
+    "dob": "05-23-1984",
+    "address": "5701 Birch St",
+    "city": "Austin",
+    "state": "WA"
+  }
+}

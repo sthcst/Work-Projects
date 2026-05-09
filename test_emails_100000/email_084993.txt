@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Lewis,nicholas.lewis7223@gmail.com,704-639-3627,928-70-6621,12/24/1983,"7985 North Ave",Austin,GA

@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Jackson
+  email: anthony.jackson443@company.com
+  phone: (528) 271-4335
+  ssn: 321-52-8822
+  dob: 7/14/1969
+  address: 5903 Spring Dr
+  city: Washington
+  state: MO

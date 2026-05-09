@@ -1,0 +1,14 @@
+INVOICE 151116
+
+Bill To:
+Name: Michael Romero
+Email: michael.romero982@example.com
+Phone: (552) 314-7823
+SSN: 294336221
+
+Address: 7111 Spring St
+Boston, CO
+
+Date of Birth: 7/2/1980
+
+Amount Due: $9643

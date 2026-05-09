@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Miller
+  email: kathleen.miller4403@example.com
+  phone: 614 570 8044
+  ssn: 598-37-9808
+  dob: 05-25-1991
+  address: 7197 First Court
+  city: Washington
+  state: PA

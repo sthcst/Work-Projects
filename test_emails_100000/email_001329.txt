@@ -1,0 +1,9 @@
+contact:
+  name: Mark Collins
+  email: mark.collins5085@business.net
+  phone: 590 637 1011
+  ssn: 927-39-1960
+  dob: 13/08/1966
+  address: 4535 First Way
+  city: Houston
+  state: NJ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Morris",
+    "email": "jason.morris5360@example.com",
+    "phone": "498-794-4485",
+    "ssn": "862887638",
+    "dob": "02-08-1978",
+    "address": "5235 West Blvd",
+    "city": "Phoenix",
+    "state": "FL"
+  }
+}

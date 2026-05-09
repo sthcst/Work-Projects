@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Harris,joshua.harris697@gmail.com,(940) 828-8797,209-78-7494,07-17-1966,"8058 Park Way",New York,WA

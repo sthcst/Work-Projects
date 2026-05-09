@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Lewis",
+    "email": "rebecca.lewis854@gmail.com",
+    "phone": "(408) 374-9893",
+    "ssn": "712-42-3670",
+    "dob": "03/09/1950",
+    "address": "6386 Maple Rd",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

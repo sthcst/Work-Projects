@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Lewis",
+    "email": "kenneth.lewis9870@company.com",
+    "phone": "(514) 359-5981",
+    "ssn": "413044929",
+    "dob": "08-25-2002",
+    "address": "20 South Dr",
+    "city": "Seattle",
+    "state": "CO"
+  }
+}

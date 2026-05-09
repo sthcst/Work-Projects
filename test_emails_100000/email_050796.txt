@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Serrano
+  email: jennifer.serrano2022@company.com
+  phone: 624-676-3241
+  ssn: 015 46 3244
+  dob: 7/1/1996
+  address: 4266 Third St
+  city: Los Angeles
+  state: TX

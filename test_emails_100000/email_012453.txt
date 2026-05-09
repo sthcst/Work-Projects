@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda White",
+    "email": "amanda.white7665@yahoo.com",
+    "phone": "775-297-7316",
+    "ssn": "881 19 8388",
+    "dob": "21/02/1979",
+    "address": "777 West Way",
+    "city": "Houston",
+    "state": "OH"
+  }
+}

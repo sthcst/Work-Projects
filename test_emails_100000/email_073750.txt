@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Murillo
+  email: sarah.murillo8535@outlook.com
+  phone: +1 227-583-2908
+  ssn: 320-67-4154
+  dob: 06/08/1954
+  address: 6787 South Rd
+  city: Washington
+  state: CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Clark",
+    "email": "brian.clark1930@company.com",
+    "phone": "+1 339-955-2777",
+    "ssn": "496-44-8977",
+    "dob": "07/06/1995",
+    "address": "1407 Third Way",
+    "city": "San Antonio",
+    "state": "WA"
+  }
+}

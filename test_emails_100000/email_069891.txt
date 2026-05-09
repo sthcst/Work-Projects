@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Sanchez,nicole.sanchez4274@example.com,(777) 945-6295,020 82 8892,07-03-1979,"7409 Second Rd",New York,CO

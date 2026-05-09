@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Carter
+  email: katherine.carter9577@outlook.com
+  phone: 457-754-4604
+  ssn: 113-67-4206
+  dob: 08-15-1954
+  address: 8528 Pine Ave
+  city: Boston
+  state: CA

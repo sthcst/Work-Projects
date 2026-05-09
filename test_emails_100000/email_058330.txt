@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Roberts",
+    "email": "kimberly.roberts9372@company.com",
+    "phone": "267 381 3374",
+    "ssn": "194 33 7020",
+    "dob": "04/07/1952",
+    "address": "3547 South Court",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

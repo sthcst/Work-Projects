@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Walker
+  email: lauren.walker3154@mail.com
+  phone: 975 674 1736
+  ssn: 572-94-6607
+  dob: 12/10/2003
+  address: 5500 Sixth Rd
+  city: Jacksonville
+  state: TN

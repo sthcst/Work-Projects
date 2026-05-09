@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Garcia",
+    "email": "cynthia.garcia8179@gmail.com",
+    "phone": "(620) 571-4823",
+    "ssn": "381-12-4666",
+    "dob": "10-19-1991",
+    "address": "5006 Summer Ave",
+    "city": "Boston",
+    "state": "NC"
+  }
+}

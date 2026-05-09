@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Wilson
+  email: pamela.wilson7392@business.net
+  phone: 508 226 4363
+  ssn: 041507589
+  dob: 09/09/1985
+  address: 8651 East Rd
+  city: Philadelphia
+  state: WA

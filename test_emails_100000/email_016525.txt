@@ -1,0 +1,12 @@
+SUPPORT TICKET #48048
+
+Customer: George Evans
+Email: george.evans123@example.com
+Phone: 796-270-8513
+Account: 044 92 6851
+
+Issue Description: Technical problem reported
+DOB on file: 01/04/1975
+Address: 2347 Park Rd, Seattle, AZ
+
+Status: OPEN

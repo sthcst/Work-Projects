@@ -1,0 +1,14 @@
+INVOICE 369636
+
+Bill To:
+Name: Anthony Rodriguez
+Email: anthony.rodriguez5567@company.com
+Phone: (443) 319-4483
+SSN: 469447291
+
+Address: 5503 Park Way
+Houston, AZ
+
+Date of Birth: 8/27/1994
+
+Amount Due: $942

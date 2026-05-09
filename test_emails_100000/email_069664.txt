@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Martin
+  email: jennifer.martin8752@example.com
+  phone: (224) 871-4276
+  ssn: 819-62-9678
+  dob: 14/09/1993
+  address: 3075 South Court
+  city: Jacksonville
+  state: CA

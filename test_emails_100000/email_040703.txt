@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Flores
+  email: jessica.flores9196@business.net
+  phone: (265) 351-6241
+  ssn: 115 39 5847
+  dob: 10/13/1981
+  address: 3400 Fourth Way
+  city: Denver
+  state: TX

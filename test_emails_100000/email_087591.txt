@@ -1,0 +1,9 @@
+contact:
+  name: Angela Martinez
+  email: angela.martinez6887@example.com
+  phone: 427-963-6210
+  ssn: 741-22-7399
+  dob: 16/12/1988
+  address: 4492 West Ln
+  city: San Diego
+  state: TN

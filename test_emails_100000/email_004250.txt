@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Perez
+  email: katherine.perez3922@company.com
+  phone: 306 686 9775
+  ssn: 722831307
+  dob: 2/9/2004
+  address: 1271 Cedar Rd
+  city: Phoenix
+  state: TN

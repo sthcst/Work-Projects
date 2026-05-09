@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William White,william.white6862@company.com,(350) 851-1229,028485537,7/8/1999,"4410 Cedar Ln",Austin,CA

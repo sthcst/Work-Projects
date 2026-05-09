@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Morgan
+  email: ashley.morgan2037@business.net
+  phone: 832 861 3354
+  ssn: 180 14 5745
+  dob: 03-25-1955
+  address: 3167 East Way
+  city: New York
+  state: CA

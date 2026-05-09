@@ -1,0 +1,9 @@
+contact:
+  name: Michael Bell
+  email: michael.bell1880@gmail.com
+  phone: 671-468-8639
+  ssn: 129-79-5337
+  dob: 09-26-1988
+  address: 9172 First Dr
+  city: Denver
+  state: VA

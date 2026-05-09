@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Anderson
+  email: lauren.anderson4827@gmail.com
+  phone: 542 629 6952
+  ssn: 367686266
+  dob: 05-21-1970
+  address: 3830 Fifth Ln
+  city: Jacksonville
+  state: CO

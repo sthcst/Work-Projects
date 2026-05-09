@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Collins
+  email: anthony.collins7429@example.com
+  phone: +1 565-878-7992
+  ssn: 605218398
+  dob: 05-06-1973
+  address: 9916 Elm Ave
+  city: San Antonio
+  state: NY

@@ -1,0 +1,9 @@
+contact:
+  name: Jane Clark
+  email: jane.clark5451@outlook.com
+  phone: 234-384-7483
+  ssn: 943303181
+  dob: 06-11-1983
+  address: 6730 Park Court
+  city: Boston
+  state: TX

@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Flores
+  email: lauren.flores2478@business.net
+  phone: (250) 732-2962
+  ssn: 946-35-6198
+  dob: 04/09/2005
+  address: 8093 Maple Ln
+  city: Boston
+  state: MI

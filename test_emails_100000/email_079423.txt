@@ -1,0 +1,14 @@
+INVOICE 727225
+
+Bill To:
+Name: Charles Miller
+Email: charles.miller1869@outlook.com
+Phone: +1 445-670-9344
+SSN: 056-22-4125
+
+Address: 112 Fourth Court
+Jacksonville, MO
+
+Date of Birth: 09/04/1982
+
+Amount Due: $9250

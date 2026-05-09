@@ -1,0 +1,14 @@
+INVOICE 334173
+
+Bill To:
+Name: Lauren Garcia
+Email: lauren.garcia5487@company.com
+Phone: 256-784-4942
+SSN: 651503879
+
+Address: 6461 Elm Court
+San Diego, TX
+
+Date of Birth: 12-04-1992
+
+Amount Due: $2014

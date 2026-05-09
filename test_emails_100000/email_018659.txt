@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Perez",
+    "email": "gary.perez6085@mail.com",
+    "phone": "+1 558-666-2782",
+    "ssn": "797-85-6664",
+    "dob": "06/10/1966",
+    "address": "9527 Maple Way",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

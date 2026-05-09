@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Lopez",
+    "email": "edward.lopez9816@gmail.com",
+    "phone": "+1 340-411-9030",
+    "ssn": "824-73-6095",
+    "dob": "11/15/1971",
+    "address": "1661 Sixth Rd",
+    "city": "San Diego",
+    "state": "TN"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Harris,nicholas.harris8431@business.net,+1 730-805-2920,993-55-4268,10/24/1984,"5083 Third Ave",Seattle,NJ

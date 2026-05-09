@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Jimenez",
+    "email": "kathleen.jimenez8039@company.com",
+    "phone": "(455) 703-3571",
+    "ssn": "262763698",
+    "dob": "3/21/1955",
+    "address": "3786 Maple Dr",
+    "city": "New York",
+    "state": "WI"
+  }
+}

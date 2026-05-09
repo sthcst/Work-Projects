@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Jones",
+    "email": "stephanie.jones6142@example.com",
+    "phone": "303-246-6381",
+    "ssn": "809-31-7689",
+    "dob": "12/25/1952",
+    "address": "933 Summer Court",
+    "city": "Chicago",
+    "state": "CO"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 717332
+
+Bill To:
+Name: Mark Garcia
+Email: mark.garcia9691@company.com
+Phone: (796) 583-3091
+SSN: 446-12-1239
+
+Address: 3549 Park Rd
+San Diego, AZ
+
+Date of Birth: 1/15/1963
+
+Amount Due: $8617

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Reeves,christopher.reeves2065@outlook.com,+1 926-299-2382,128-46-9676,27/12/1959,"9635 Fourth Court",Chicago,FL

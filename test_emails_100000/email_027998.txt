@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Guerrero,daniel.guerrero6517@outlook.com,902-801-7514,613-04-5455,12/04/1986,"7265 Fifth Rd",Denver,MA

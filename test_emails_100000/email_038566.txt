@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Jackson,michael.jackson9945@company.com,841 847 1996,745553236,04/02/1982,"8488 Third Blvd",Jacksonville,WA

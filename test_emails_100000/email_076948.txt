@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Williams",
+    "email": "katherine.williams38@work.org",
+    "phone": "(413) 475-1730",
+    "ssn": "082285027",
+    "dob": "11-18-1959",
+    "address": "1812 Sixth Dr",
+    "city": "Dallas",
+    "state": "NJ"
+  }
+}

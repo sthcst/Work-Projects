@@ -1,0 +1,14 @@
+INVOICE 818633
+
+Bill To:
+Name: Richard Harris
+Email: richard.harris1058@outlook.com
+Phone: (248) 703-8319
+SSN: 330 56 8750
+
+Address: 2607 South Rd
+Seattle, CA
+
+Date of Birth: 03-04-1964
+
+Amount Due: $2205

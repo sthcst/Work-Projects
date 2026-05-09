@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Ramirez",
+    "email": "pamela.ramirez2695@mail.com",
+    "phone": "362-613-6713",
+    "ssn": "921-04-4595",
+    "dob": "15/09/1979",
+    "address": "6855 Elm Rd",
+    "city": "Chicago",
+    "state": "NY"
+  }
+}

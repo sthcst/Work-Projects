@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Martin",
+    "email": "michael.martin3700@outlook.com",
+    "phone": "(356) 500-6346",
+    "ssn": "784-71-4851",
+    "dob": "10/25/1992",
+    "address": "822 Summer Way",
+    "city": "New York",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 432607
+
+Bill To:
+Name: William Clark
+Email: william.clark4083@gmail.com
+Phone: 244 939 9529
+SSN: 531-64-6348
+
+Address: 9094 Fourth Dr
+San Jose, IL
+
+Date of Birth: 21/08/1952
+
+Amount Due: $1590

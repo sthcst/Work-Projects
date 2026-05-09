@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Wilson,katherine.wilson702@company.com,(693) 395-2390,613-65-6642,27/06/1961,"4380 South St",San Diego,PA

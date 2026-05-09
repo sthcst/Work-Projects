@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Clark
+  email: ronald.clark6716@mail.com
+  phone: +1 634-891-2106
+  ssn: 930972260
+  dob: 07-11-1980
+  address: 5036 East St
+  city: Dallas
+  state: MA

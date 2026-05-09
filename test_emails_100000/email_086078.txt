@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Ramirez",
+    "email": "jessica.ramirez9441@work.org",
+    "phone": "+1 614-631-8464",
+    "ssn": "204-41-2824",
+    "dob": "04-24-2002",
+    "address": "6723 Summer St",
+    "city": "Austin",
+    "state": "FL"
+  }
+}

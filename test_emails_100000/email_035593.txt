@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Rodriguez
+  email: samantha.rodriguez900@work.org
+  phone: 996-727-9977
+  ssn: 798 51 7129
+  dob: 03-10-1974
+  address: 8927 Main Way
+  city: New York
+  state: TX

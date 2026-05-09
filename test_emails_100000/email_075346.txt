@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Brown",
+    "email": "paul.brown5401@mail.com",
+    "phone": "(606) 684-3575",
+    "ssn": "752 96 2278",
+    "dob": "03-21-2002",
+    "address": "4937 South Dr",
+    "city": "Denver",
+    "state": "WI"
+  }
+}

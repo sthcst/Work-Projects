@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Miller
+  email: jessica.miller7810@work.org
+  phone: +1 605-348-7924
+  ssn: 585 81 5172
+  dob: 11/09/1958
+  address: 2756 First Court
+  city: Denver
+  state: AZ

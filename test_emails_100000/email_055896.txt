@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Young,jacob.young1174@gmail.com,(488) 540-2901,176376482,26/05/1960,"6751 Elm St",San Diego,CA

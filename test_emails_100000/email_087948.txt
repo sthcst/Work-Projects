@@ -1,0 +1,14 @@
+INVOICE 652731
+
+Bill To:
+Name: Emma Jones
+Email: emma.jones8402@company.com
+Phone: 721 437 9585
+SSN: 245-72-7498
+
+Address: 2966 West Ln
+Philadelphia, NJ
+
+Date of Birth: 3/15/1974
+
+Amount Due: $1833

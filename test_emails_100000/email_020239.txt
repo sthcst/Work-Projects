@@ -1,0 +1,14 @@
+INVOICE 242009
+
+Bill To:
+Name: Edward Peterson
+Email: edward.peterson6765@yahoo.com
+Phone: 908-527-4361
+SSN: 696 46 7721
+
+Address: 7731 Maple Dr
+Houston, CA
+
+Date of Birth: 2/20/1999
+
+Amount Due: $10000

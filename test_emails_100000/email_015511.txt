@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Phillips",
+    "email": "christopher.phillips4567@business.net",
+    "phone": "(388) 242-2982",
+    "ssn": "037-13-9346",
+    "dob": "6/22/1998",
+    "address": "9770 Fourth Way",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

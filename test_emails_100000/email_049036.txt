@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Thomas
+  email: katherine.thomas3513@business.net
+  phone: 566-724-7499
+  ssn: 513832919
+  dob: 12/28/1995
+  address: 4802 East St
+  city: New York
+  state: MA

@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Parker
+  email: kimberly.parker3715@example.com
+  phone: 640-458-7871
+  ssn: 245 08 5667
+  dob: 14/03/1964
+  address: 6376 Spring St
+  city: Austin
+  state: WI

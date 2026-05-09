@@ -1,0 +1,14 @@
+INVOICE 333606
+
+Bill To:
+Name: Brenda Parker
+Email: brenda.parker8685@example.com
+Phone: (995) 910-1583
+SSN: 726-52-5045
+
+Address: 9376 Cedar Dr
+Austin, GA
+
+Date of Birth: 09/22/1978
+
+Amount Due: $4491

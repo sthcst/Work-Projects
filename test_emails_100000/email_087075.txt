@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Gonzalez,amanda.gonzalez9630@company.com,207 654 7053,063-79-9232,5/20/1977,"1236 Elm Rd",Austin,CA

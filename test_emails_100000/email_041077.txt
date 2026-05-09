@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Moore",
+    "email": "amanda.moore8761@gmail.com",
+    "phone": "(478) 668-4261",
+    "ssn": "648 22 7406",
+    "dob": "02-19-1998",
+    "address": "3846 South Rd",
+    "city": "Jacksonville",
+    "state": "VA"
+  }
+}

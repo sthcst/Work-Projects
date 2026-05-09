@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Phillips
+  email: rebecca.phillips2920@work.org
+  phone: +1 748-648-6532
+  ssn: 231-25-7366
+  dob: 08/02/1984
+  address: 7577 North Way
+  city: San Diego
+  state: TX

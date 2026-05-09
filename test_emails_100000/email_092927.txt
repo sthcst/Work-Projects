@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Hernandez",
+    "email": "stephanie.hernandez396@work.org",
+    "phone": "644-718-9366",
+    "ssn": "589049210",
+    "dob": "09-19-1961",
+    "address": "955 Third Court",
+    "city": "Dallas",
+    "state": "FL"
+  }
+}

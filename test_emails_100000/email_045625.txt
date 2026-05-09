@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Brown",
+    "email": "michael.brown8578@mail.com",
+    "phone": "+1 264-260-6749",
+    "ssn": "250-75-2829",
+    "dob": "10-02-1992",
+    "address": "5501 Fifth Dr",
+    "city": "Dallas",
+    "state": "MI"
+  }
+}

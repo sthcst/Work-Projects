@@ -1,0 +1,14 @@
+INVOICE 508188
+
+Bill To:
+Name: Shirley Miller
+Email: shirley.miller3196@mail.com
+Phone: 917 871 4983
+SSN: 935691391
+
+Address: 8577 Elm Rd
+Boston, CA
+
+Date of Birth: 19/03/1991
+
+Amount Due: $1997

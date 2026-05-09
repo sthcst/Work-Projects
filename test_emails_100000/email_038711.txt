@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Morgan",
+    "email": "michelle.morgan6952@yahoo.com",
+    "phone": "(752) 932-5345",
+    "ssn": "478834154",
+    "dob": "12/8/1992",
+    "address": "2876 Fifth Court",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Roberts",
+    "email": "kenneth.roberts4179@business.net",
+    "phone": "+1 851-549-3438",
+    "ssn": "751-95-5495",
+    "dob": "08-28-2000",
+    "address": "9205 Spring St",
+    "city": "Washington",
+    "state": "WA"
+  }
+}

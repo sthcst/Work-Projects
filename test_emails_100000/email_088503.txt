@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Hall,christopher.hall7262@example.com,421 216 1130,309 43 1659,25/06/1970,"1705 Park Way",Chicago,FL

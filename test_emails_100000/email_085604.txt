@@ -1,0 +1,14 @@
+INVOICE 439224
+
+Bill To:
+Name: Kenneth Lee
+Email: kenneth.lee3734@business.net
+Phone: 212 925 1872
+SSN: 188293666
+
+Address: 8061 Main Dr
+Seattle, TN
+
+Date of Birth: 9/7/1991
+
+Amount Due: $2842

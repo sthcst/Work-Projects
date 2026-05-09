@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Carter,kenneth.carter4184@company.com,881 853 6333,501 20 6663,11/10/1960,"544 Summer Ln",Chicago,DC

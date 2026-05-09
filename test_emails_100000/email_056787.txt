@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Flores,john.flores2651@company.com,(520) 337-8091,581 01 7550,01-13-1957,"9467 Sixth Dr",Seattle,CA

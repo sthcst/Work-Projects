@@ -1,0 +1,14 @@
+INVOICE 877017
+
+Bill To:
+Name: Paul Parker
+Email: paul.parker5668@example.com
+Phone: +1 835-805-7720
+SSN: 675 71 4206
+
+Address: 7698 East Blvd
+San Diego, FL
+
+Date of Birth: 18/01/1959
+
+Amount Due: $3394

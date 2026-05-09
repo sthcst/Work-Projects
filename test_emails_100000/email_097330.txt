@@ -1,0 +1,14 @@
+INVOICE 695384
+
+Bill To:
+Name: Michael Thomas
+Email: michael.thomas5635@work.org
+Phone: 957-902-7248
+SSN: 995-32-4133
+
+Address: 2746 Third Way
+Philadelphia, MA
+
+Date of Birth: 11/2/1967
+
+Amount Due: $5578

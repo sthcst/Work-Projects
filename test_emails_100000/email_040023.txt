@@ -1,0 +1,14 @@
+INVOICE 654841
+
+Bill To:
+Name: George Parker
+Email: george.parker4103@outlook.com
+Phone: (678) 507-6435
+SSN: 751 05 3536
+
+Address: 7649 Pine Blvd
+Washington, FL
+
+Date of Birth: 07-25-1951
+
+Amount Due: $5446

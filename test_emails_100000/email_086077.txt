@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Garcia,nicholas.garcia1523@work.org,(760) 342-5411,261202612,08/12/1977,"4759 East St",San Antonio,MO

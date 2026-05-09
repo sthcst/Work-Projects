@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Hall
+  email: ronald.hall1192@outlook.com
+  phone: (592) 535-2872
+  ssn: 623967859
+  dob: 7/2/1951
+  address: 9326 First Court
+  city: Boston
+  state: MD

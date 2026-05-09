@@ -1,0 +1,9 @@
+contact:
+  name: Angela Brown
+  email: angela.brown5434@business.net
+  phone: 615-947-2280
+  ssn: 214-56-1529
+  dob: 5/13/1960
+  address: 9996 North St
+  city: San Jose
+  state: CA

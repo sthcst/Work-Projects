@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley White,ashley.white4362@company.com,+1 996-444-5840,213-17-7594,11-18-1979,"7877 Cedar St",Austin,WA

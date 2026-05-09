@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Carter
+  email: timothy.carter4052@work.org
+  phone: 432-213-5327
+  ssn: 777379604
+  dob: 03-01-1989
+  address: 1100 Third St
+  city: Washington
+  state: MI

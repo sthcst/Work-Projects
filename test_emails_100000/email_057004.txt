@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Nunez",
+    "email": "george.nunez798@mail.com",
+    "phone": "(498) 873-3767",
+    "ssn": "688172090",
+    "dob": "10/03/1950",
+    "address": "2947 Main Dr",
+    "city": "Houston",
+    "state": "GA"
+  }
+}

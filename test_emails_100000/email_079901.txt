@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Collins
+  email: jennifer.collins4979@yahoo.com
+  phone: 202-295-2733
+  ssn: 513 55 1366
+  dob: 27/03/1985
+  address: 8684 Cedar Ave
+  city: San Antonio
+  state: WA

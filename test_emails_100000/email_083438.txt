@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Perez
+  email: sarah.perez5352@business.net
+  phone: 759-353-5713
+  ssn: 116025989
+  dob: 21/03/1995
+  address: 601 West Rd
+  city: San Diego
+  state: OH

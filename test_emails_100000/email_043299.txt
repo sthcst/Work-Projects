@@ -1,0 +1,9 @@
+contact:
+  name: Jason Reyes
+  email: jason.reyes2036@mail.com
+  phone: 747-787-1874
+  ssn: 837 45 2402
+  dob: 02/22/1966
+  address: 517 Cedar Rd
+  city: Chicago
+  state: MA

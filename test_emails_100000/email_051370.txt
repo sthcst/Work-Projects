@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Gonzalez,charles.gonzalez9107@yahoo.com,775 810 2650,798 55 2941,3/26/1989,"4636 South Blvd",Austin,MD

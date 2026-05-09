@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Parker,paul.parker497@outlook.com,(635) 666-2802,335463852,07-05-1958,"6700 Oak Dr",Houston,PA

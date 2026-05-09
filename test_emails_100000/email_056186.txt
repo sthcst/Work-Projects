@@ -1,0 +1,14 @@
+INVOICE 828724
+
+Bill To:
+Name: Joseph Brown
+Email: joseph.brown6813@work.org
+Phone: +1 257-640-1553
+SSN: 680753357
+
+Address: 5010 Elm Ln
+San Antonio, TN
+
+Date of Birth: 7/14/1959
+
+Amount Due: $3398

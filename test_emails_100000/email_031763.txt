@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Jimenez,samantha.jimenez5328@example.com,+1 994-555-6864,942-36-9986,15/04/1998,"8366 Second Ln",Los Angeles,NJ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Evans",
+    "email": "james.evans4772@example.com",
+    "phone": "(830) 953-6073",
+    "ssn": "272 69 8329",
+    "dob": "11/07/1970",
+    "address": "6736 Fourth Way",
+    "city": "Jacksonville",
+    "state": "NC"
+  }
+}

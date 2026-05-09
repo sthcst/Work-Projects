@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Nelson,robert.nelson1995@company.com,+1 343-630-4470,832348170,3/22/1959,"8849 Elm Ln",Boston,CA

@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Jackson
+  email: joseph.jackson80@gmail.com
+  phone: +1 886-744-8836
+  ssn: 551433991
+  dob: 03/05/1964
+  address: 3308 Third Rd
+  city: Denver
+  state: GA

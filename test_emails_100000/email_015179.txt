@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Bell,samantha.bell5003@work.org,+1 951-325-3365,485588634,10/14/1998,"2377 Birch Way",Phoenix,MD

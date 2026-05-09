@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Morgan",
+    "email": "jason.morgan2729@company.com",
+    "phone": "+1 344-351-3636",
+    "ssn": "909 97 4148",
+    "dob": "09-06-1963",
+    "address": "3889 Cedar Way",
+    "city": "San Antonio",
+    "state": "CA"
+  }
+}

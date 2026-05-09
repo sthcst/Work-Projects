@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Sanchez,donald.sanchez3475@outlook.com,428-641-1721,551274993,5/8/1969,"8325 First Court",Houston,DC

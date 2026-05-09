@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Murillo,andrew.murillo8915@example.com,391 614 5050,420033311,09-09-1976,"1024 Summer Rd",Phoenix,TX

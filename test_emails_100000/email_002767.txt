@@ -1,0 +1,9 @@
+contact:
+  name: Jane Smith
+  email: jane.smith4618@work.org
+  phone: 403-391-3625
+  ssn: 427061210
+  dob: 09-25-2005
+  address: 3119 Fifth Ave
+  city: San Antonio
+  state: VA

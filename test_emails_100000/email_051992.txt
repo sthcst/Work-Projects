@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Guerrero,lauren.guerrero256@mail.com,379 890 2132,720 69 8773,04/02/1970,"8754 Fourth St",New York,MA

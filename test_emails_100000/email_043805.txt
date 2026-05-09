@@ -1,0 +1,14 @@
+INVOICE 451906
+
+Bill To:
+Name: Kathleen Lewis
+Email: kathleen.lewis7988@company.com
+Phone: 668 883 5264
+SSN: 704169084
+
+Address: 5180 Summer Rd
+Denver, AZ
+
+Date of Birth: 22/06/1998
+
+Amount Due: $8930

@@ -1,0 +1,14 @@
+INVOICE 135189
+
+Bill To:
+Name: Joseph Johnson
+Email: joseph.johnson8470@example.com
+Phone: 466-932-7598
+SSN: 749-75-3306
+
+Address: 3872 Park Dr
+Phoenix, FL
+
+Date of Birth: 01-19-1996
+
+Amount Due: $2957

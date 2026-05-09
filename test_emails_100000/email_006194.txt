@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Cooper",
+    "email": "jacob.cooper5346@mail.com",
+    "phone": "638 539 8867",
+    "ssn": "854-97-4465",
+    "dob": "09-23-1983",
+    "address": "1789 Park Court",
+    "city": "Phoenix",
+    "state": "WA"
+  }
+}

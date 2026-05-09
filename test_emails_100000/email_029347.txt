@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Bell,shirley.bell8815@gmail.com,(649) 811-7169,201-58-8056,07/04/1999,"1735 Elm St",Houston,WA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Johnson",
+    "email": "michelle.johnson2935@company.com",
+    "phone": "+1 814-526-9621",
+    "ssn": "444 03 7291",
+    "dob": "02-17-1958",
+    "address": "3683 Summer Blvd",
+    "city": "New York",
+    "state": "CO"
+  }
+}

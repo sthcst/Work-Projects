@@ -1,0 +1,9 @@
+contact:
+  name: Gary Hernandez
+  email: gary.hernandez8273@gmail.com
+  phone: 585 662 8665
+  ssn: 589693944
+  dob: 10/4/1979
+  address: 2218 Elm St
+  city: New York
+  state: TX

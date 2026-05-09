@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Lopez",
+    "email": "christine.lopez3093@gmail.com",
+    "phone": "(421) 763-5571",
+    "ssn": "766798839",
+    "dob": "3/17/1985",
+    "address": "1840 Fifth Court",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

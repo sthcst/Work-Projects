@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Parker",
+    "email": "nicole.parker6987@mail.com",
+    "phone": "(597) 918-1389",
+    "ssn": "027 28 2097",
+    "dob": "11/05/1986",
+    "address": "2795 North Dr",
+    "city": "Washington",
+    "state": "PA"
+  }
+}

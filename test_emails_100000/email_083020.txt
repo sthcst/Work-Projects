@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Clark
+  email: anthony.clark7038@company.com
+  phone: 630-370-8829
+  ssn: 410071473
+  dob: 28/06/1951
+  address: 4704 First Way
+  city: Houston
+  state: MA

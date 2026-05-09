@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Delgado,william.delgado4540@outlook.com,231-677-5908,836 94 6802,06-20-2002,"7112 West Dr",Jacksonville,DC

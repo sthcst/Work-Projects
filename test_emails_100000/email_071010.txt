@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Jimenez,deborah.jimenez7363@mail.com,(503) 705-9699,864253537,4/17/1954,"4317 Oak Ln",New York,TX

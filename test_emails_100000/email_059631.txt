@@ -1,0 +1,14 @@
+INVOICE 762569
+
+Bill To:
+Name: Mark Harris
+Email: mark.harris2325@outlook.com
+Phone: 780 581 7449
+SSN: 807 20 8450
+
+Address: 8684 Fifth Blvd
+Boston, TX
+
+Date of Birth: 24/07/1991
+
+Amount Due: $1621

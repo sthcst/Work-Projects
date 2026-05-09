@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Stewart
+  email: katherine.stewart9444@gmail.com
+  phone: (232) 647-3905
+  ssn: 738-83-3886
+  dob: 11/2/1959
+  address: 6902 Spring Dr
+  city: San Antonio
+  state: GA

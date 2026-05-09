@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Edwards",
+    "email": "edward.edwards3239@yahoo.com",
+    "phone": "(325) 564-7110",
+    "ssn": "785 40 3093",
+    "dob": "12/10/1983",
+    "address": "8146 Birch Dr",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Sanchez",
+    "email": "edward.sanchez3210@company.com",
+    "phone": "(222) 996-1018",
+    "ssn": "682-88-5171",
+    "dob": "09/14/1976",
+    "address": "8649 Cedar Dr",
+    "city": "Seattle",
+    "state": "NC"
+  }
+}

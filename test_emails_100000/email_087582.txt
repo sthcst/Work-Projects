@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Jackson,jeffrey.jackson2417@work.org,671 948 9547,162-87-1225,11-02-1952,"6787 Elm Ln",Boston,CA

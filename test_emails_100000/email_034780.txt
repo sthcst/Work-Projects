@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Jackson",
+    "email": "kathleen.jackson332@business.net",
+    "phone": "(450) 769-9030",
+    "ssn": "748 36 2710",
+    "dob": "06-06-1962",
+    "address": "7188 Summer Ave",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

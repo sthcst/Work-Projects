@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Taylor",
+    "email": "megan.taylor8250@example.com",
+    "phone": "+1 737-540-3618",
+    "ssn": "386-35-6240",
+    "dob": "10/12/1953",
+    "address": "8063 Cedar Rd",
+    "city": "Washington",
+    "state": "PA"
+  }
+}

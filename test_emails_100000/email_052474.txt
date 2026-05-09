@@ -1,0 +1,9 @@
+contact:
+  name: Helen Dominguez
+  email: helen.dominguez2740@work.org
+  phone: (471) 961-6408
+  ssn: 722 49 3010
+  dob: 12/02/1969
+  address: 4199 First Ln
+  city: Denver
+  state: WA

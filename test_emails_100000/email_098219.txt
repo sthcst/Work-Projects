@@ -1,0 +1,12 @@
+SUPPORT TICKET #23199
+
+Customer: Christopher White
+Email: christopher.white4883@example.com
+Phone: 983-733-8900
+Account: 850-87-8241
+
+Issue Description: Technical problem reported
+DOB on file: 06-21-2003
+Address: 6066 West St, Seattle, TX
+
+Status: OPEN

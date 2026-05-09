@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Wilson
+  email: michelle.wilson5720@outlook.com
+  phone: 544 229 1869
+  ssn: 849 37 3606
+  dob: 03/04/1976
+  address: 5172 Cedar St
+  city: San Jose
+  state: TX

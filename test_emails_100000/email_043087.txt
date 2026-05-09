@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Gomez",
+    "email": "stephanie.gomez8086@example.com",
+    "phone": "206 654 8454",
+    "ssn": "014-41-7593",
+    "dob": "6/19/1984",
+    "address": "7502 Birch Ln",
+    "city": "Washington",
+    "state": "MA"
+  }
+}

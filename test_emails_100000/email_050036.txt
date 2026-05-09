@@ -1,0 +1,9 @@
+contact:
+  name: Richard Harris
+  email: richard.harris8172@example.com
+  phone: 690 875 7109
+  ssn: 695918795
+  dob: 11/10/1990
+  address: 8970 East Court
+  city: Boston
+  state: TN

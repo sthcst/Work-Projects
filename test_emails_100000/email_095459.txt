@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Nelson,jennifer.nelson9527@mail.com,(752) 611-8116,958 18 9996,03/07/1980,"4853 North Dr",Boston,GA

@@ -1,0 +1,9 @@
+contact:
+  name: Robert Rogers
+  email: robert.rogers8182@example.com
+  phone: (401) 345-5209
+  ssn: 378-31-7543
+  dob: 7/8/1972
+  address: 7462 Main Blvd
+  city: Austin
+  state: GA

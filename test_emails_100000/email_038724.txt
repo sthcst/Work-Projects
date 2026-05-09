@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Taylor",
+    "email": "emily.taylor924@gmail.com",
+    "phone": "384 254 9950",
+    "ssn": "826-21-7404",
+    "dob": "02/10/1986",
+    "address": "4666 West St",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

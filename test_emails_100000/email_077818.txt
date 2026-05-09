@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Rogers",
+    "email": "angela.rogers5373@yahoo.com",
+    "phone": "+1 282-998-2566",
+    "ssn": "341398489",
+    "dob": "10/5/1978",
+    "address": "1142 First Blvd",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

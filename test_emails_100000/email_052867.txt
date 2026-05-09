@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Gonzalez
+  email: anthony.gonzalez6514@gmail.com
+  phone: 399 989 2454
+  ssn: 260 87 3293
+  dob: 08/13/1965
+  address: 5852 Spring Rd
+  city: San Antonio
+  state: TX

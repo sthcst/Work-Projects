@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Reyes",
+    "email": "robert.reyes8572@business.net",
+    "phone": "(978) 906-2193",
+    "ssn": "673931950",
+    "dob": "7/1/1966",
+    "address": "1206 Pine Rd",
+    "city": "Austin",
+    "state": "WI"
+  }
+}

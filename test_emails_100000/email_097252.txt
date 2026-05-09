@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Morris",
+    "email": "andrew.morris2575@mail.com",
+    "phone": "240 521 1595",
+    "ssn": "129-54-1004",
+    "dob": "12/16/1987",
+    "address": "2832 Elm Rd",
+    "city": "San Jose",
+    "state": "WA"
+  }
+}

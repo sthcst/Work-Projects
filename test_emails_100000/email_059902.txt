@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Hall",
+    "email": "lauren.hall1113@example.com",
+    "phone": "313 562 9628",
+    "ssn": "730-82-4831",
+    "dob": "07-20-1996",
+    "address": "2103 Fourth Blvd",
+    "city": "Jacksonville",
+    "state": "NY"
+  }
+}

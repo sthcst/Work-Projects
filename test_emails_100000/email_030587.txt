@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Harris,ashley.harris6014@company.com,+1 800-598-7916,816-73-9401,9/3/2001,"3927 Summer Dr",Austin,TX

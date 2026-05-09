@@ -1,0 +1,14 @@
+INVOICE 845430
+
+Bill To:
+Name: Helen Hall
+Email: helen.hall3496@company.com
+Phone: (271) 379-2562
+SSN: 265 92 7282
+
+Address: 5734 Fourth Blvd
+Jacksonville, NY
+
+Date of Birth: 04/10/2005
+
+Amount Due: $9120

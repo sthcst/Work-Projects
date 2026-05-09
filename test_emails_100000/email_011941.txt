@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Taylor",
+    "email": "jessica.taylor6380@yahoo.com",
+    "phone": "628-409-2347",
+    "ssn": "136763412",
+    "dob": "11/15/1976",
+    "address": "1314 Fifth Ln",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

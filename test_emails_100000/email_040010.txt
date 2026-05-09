@@ -1,0 +1,14 @@
+INVOICE 483436
+
+Bill To:
+Name: Cynthia Perez
+Email: cynthia.perez4336@mail.com
+Phone: 377 532 3228
+SSN: 789 49 1408
+
+Address: 8999 Summer Rd
+Austin, MA
+
+Date of Birth: 04/06/1962
+
+Amount Due: $8221

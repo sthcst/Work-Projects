@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Serrano",
+    "email": "rebecca.serrano700@outlook.com",
+    "phone": "+1 543-944-4710",
+    "ssn": "813 52 5233",
+    "dob": "9/12/1997",
+    "address": "840 Sixth Way",
+    "city": "Boston",
+    "state": "VA"
+  }
+}

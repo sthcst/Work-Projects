@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Evans
+  email: jessica.evans481@business.net
+  phone: 624-777-4616
+  ssn: 016-97-4270
+  dob: 2/25/1950
+  address: 8330 Pine St
+  city: Los Angeles
+  state: CA

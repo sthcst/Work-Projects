@@ -1,0 +1,14 @@
+INVOICE 368340
+
+Bill To:
+Name: Charles Rodriguez
+Email: charles.rodriguez578@company.com
+Phone: 249-666-7256
+SSN: 582578647
+
+Address: 56 Oak Rd
+San Diego, FL
+
+Date of Birth: 24/01/1955
+
+Amount Due: $3323

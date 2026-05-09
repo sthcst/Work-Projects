@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Murillo",
+    "email": "brian.murillo5541@yahoo.com",
+    "phone": "(854) 404-8462",
+    "ssn": "495962890",
+    "dob": "06-12-1998",
+    "address": "5410 South Court",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

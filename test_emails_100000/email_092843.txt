@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Edwards",
+    "email": "stephanie.edwards9576@company.com",
+    "phone": "484-249-7708",
+    "ssn": "514 78 2145",
+    "dob": "06-17-1955",
+    "address": "8573 South Dr",
+    "city": "Washington",
+    "state": "PA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Emily Young
+  email: emily.young6324@gmail.com
+  phone: 251-596-2648
+  ssn: 114-76-2710
+  dob: 09/23/2003
+  address: 9424 Main Blvd
+  city: Denver
+  state: NJ

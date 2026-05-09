@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Taylor,brenda.taylor6504@company.com,+1 325-796-7662,150 09 6303,8/23/1956,"8175 Park Ln",Phoenix,TX

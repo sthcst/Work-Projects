@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Smith",
+    "email": "ryan.smith9394@mail.com",
+    "phone": "(257) 556-4215",
+    "ssn": "597-44-4680",
+    "dob": "5/14/1996",
+    "address": "3515 Elm Way",
+    "city": "San Jose",
+    "state": "MI"
+  }
+}

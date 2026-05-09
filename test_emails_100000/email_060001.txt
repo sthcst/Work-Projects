@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Jones
+  email: deborah.jones9574@outlook.com
+  phone: 268 761 4987
+  ssn: 336 56 7644
+  dob: 08-11-1979
+  address: 1359 Second Rd
+  city: Jacksonville
+  state: IL

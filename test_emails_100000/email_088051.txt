@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Romero,joshua.romero9656@business.net,247 682 3633,674-04-1598,08/13/1997,"321 Sixth Blvd",Washington,MA

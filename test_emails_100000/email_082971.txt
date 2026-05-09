@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Reyes",
+    "email": "gary.reyes6778@business.net",
+    "phone": "655 975 2806",
+    "ssn": "920 67 9734",
+    "dob": "22/07/1980",
+    "address": "9538 Summer Dr",
+    "city": "Jacksonville",
+    "state": "IL"
+  }
+}

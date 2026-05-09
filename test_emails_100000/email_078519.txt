@@ -1,0 +1,14 @@
+INVOICE 893008
+
+Bill To:
+Name: George Hernandez
+Email: george.hernandez9252@outlook.com
+Phone: +1 992-959-1208
+SSN: 235869768
+
+Address: 5973 Third St
+Austin, IL
+
+Date of Birth: 15/07/1966
+
+Amount Due: $8473

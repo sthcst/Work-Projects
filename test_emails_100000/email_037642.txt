@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Phillips,jeffrey.phillips6845@business.net,(444) 208-8124,451 53 3558,2/24/1956,"8317 Birch Court",Jacksonville,TX

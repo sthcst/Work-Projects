@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Jones",
+    "email": "robert.jones8816@yahoo.com",
+    "phone": "(395) 323-8516",
+    "ssn": "863-55-3934",
+    "dob": "1/9/1980",
+    "address": "959 Birch Court",
+    "city": "Dallas",
+    "state": "NC"
+  }
+}

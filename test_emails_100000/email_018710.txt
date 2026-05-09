@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Jimenez
+  email: christopher.jimenez6992@work.org
+  phone: 979-392-1705
+  ssn: 771-74-9068
+  dob: 2/11/1999
+  address: 383 Spring Ln
+  city: San Jose
+  state: CA

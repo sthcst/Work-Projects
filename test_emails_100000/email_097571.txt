@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Ortiz",
+    "email": "robert.ortiz5071@outlook.com",
+    "phone": "981-213-2899",
+    "ssn": "816277612",
+    "dob": "06/08/1984",
+    "address": "507 West Court",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

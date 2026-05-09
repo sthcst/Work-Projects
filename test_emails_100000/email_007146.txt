@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Clark",
+    "email": "steven.clark3715@yahoo.com",
+    "phone": "+1 675-593-9126",
+    "ssn": "911-75-1248",
+    "dob": "9/5/2003",
+    "address": "6226 Fifth Court",
+    "city": "San Jose",
+    "state": "WI"
+  }
+}

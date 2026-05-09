@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Johnson,samantha.johnson3149@business.net,+1 675-359-4149,945-40-5344,27/10/1998,"1582 Park Blvd",Austin,MI

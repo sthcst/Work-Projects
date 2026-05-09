@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Jimenez",
+    "email": "angela.jimenez8802@example.com",
+    "phone": "(505) 668-6384",
+    "ssn": "574461120",
+    "dob": "17/01/1991",
+    "address": "1057 Oak Blvd",
+    "city": "Seattle",
+    "state": "AZ"
+  }
+}

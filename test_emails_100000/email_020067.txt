@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Sanchez,emily.sanchez698@example.com,759 712 5784,332-92-4758,09-26-1963,"5123 Fourth Dr",Boston,PA

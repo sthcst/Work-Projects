@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Hernandez",
+    "email": "angela.hernandez9972@yahoo.com",
+    "phone": "807-209-2826",
+    "ssn": "433 95 7956",
+    "dob": "08/05/1969",
+    "address": "9636 Maple Way",
+    "city": "Dallas",
+    "state": "VA"
+  }
+}

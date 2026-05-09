@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Peterson",
+    "email": "john.peterson2745@yahoo.com",
+    "phone": "+1 385-255-6257",
+    "ssn": "886 91 8547",
+    "dob": "09/15/1987",
+    "address": "387 Summer St",
+    "city": "Boston",
+    "state": "FL"
+  }
+}

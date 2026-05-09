@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Perez",
+    "email": "maria.perez9193@example.com",
+    "phone": "+1 693-727-5362",
+    "ssn": "351719997",
+    "dob": "04/22/2003",
+    "address": "1587 Fifth Ln",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

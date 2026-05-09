@@ -1,0 +1,9 @@
+contact:
+  name: Paul Martin
+  email: paul.martin4543@mail.com
+  phone: (330) 695-3429
+  ssn: 922 47 9653
+  dob: 25/10/1985
+  address: 723 Spring Rd
+  city: New York
+  state: CA

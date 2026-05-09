@@ -1,0 +1,9 @@
+contact:
+  name: Angela Miller
+  email: angela.miller78@yahoo.com
+  phone: +1 240-852-2256
+  ssn: 226-87-1078
+  dob: 24/05/1963
+  address: 3289 West Ave
+  city: Phoenix
+  state: MA

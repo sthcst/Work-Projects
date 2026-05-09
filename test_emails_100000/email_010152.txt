@@ -1,0 +1,14 @@
+INVOICE 332962
+
+Bill To:
+Name: John Miller
+Email: john.miller9287@company.com
+Phone: (783) 602-9167
+SSN: 529 83 2482
+
+Address: 6798 Cedar Way
+Phoenix, CO
+
+Date of Birth: 4/26/1999
+
+Amount Due: $9232

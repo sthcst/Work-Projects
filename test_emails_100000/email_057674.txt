@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Edwards",
+    "email": "jason.edwards9646@outlook.com",
+    "phone": "278 884 4636",
+    "ssn": "565-68-4294",
+    "dob": "6/27/1975",
+    "address": "9161 Third Rd",
+    "city": "San Diego",
+    "state": "MA"
+  }
+}

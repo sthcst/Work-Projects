@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Gomez
+  email: kenneth.gomez3635@gmail.com
+  phone: (252) 329-6924
+  ssn: 784-61-9941
+  dob: 11/28/1955
+  address: 3553 North Way
+  city: Chicago
+  state: TX

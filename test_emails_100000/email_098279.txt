@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Campbell",
+    "email": "charles.campbell9681@example.com",
+    "phone": "501 669 9230",
+    "ssn": "122609777",
+    "dob": "03/24/1984",
+    "address": "8339 Sixth Dr",
+    "city": "Los Angeles",
+    "state": "OH"
+  }
+}

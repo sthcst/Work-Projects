@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Rodriguez",
+    "email": "katherine.rodriguez9464@business.net",
+    "phone": "573-414-6629",
+    "ssn": "399 61 5168",
+    "dob": "04-18-1953",
+    "address": "2486 South St",
+    "city": "Boston",
+    "state": "NY"
+  }
+}

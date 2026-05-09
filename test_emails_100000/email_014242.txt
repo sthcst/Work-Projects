@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Campbell
+  email: joshua.campbell9366@example.com
+  phone: +1 242-458-3018
+  ssn: 214 85 2877
+  dob: 1/10/1978
+  address: 7883 North Court
+  city: Phoenix
+  state: MI

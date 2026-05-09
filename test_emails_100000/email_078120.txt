@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Rogers",
+    "email": "maria.rogers9615@outlook.com",
+    "phone": "712 862 8349",
+    "ssn": "032-05-9088",
+    "dob": "11/4/1973",
+    "address": "8908 Third Ln",
+    "city": "New York",
+    "state": "VA"
+  }
+}

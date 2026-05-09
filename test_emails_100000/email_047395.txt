@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Flores,ronald.flores3285@example.com,203 574 4157,009-45-7350,7/15/1963,"6405 Elm Ln",Seattle,AZ

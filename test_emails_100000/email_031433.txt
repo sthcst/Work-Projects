@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Garcia,david.garcia6852@yahoo.com,+1 636-690-4073,262193956,02/08/1957,"8488 Third St",San Jose,TX

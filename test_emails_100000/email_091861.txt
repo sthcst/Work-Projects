@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Brown",
+    "email": "maria.brown310@example.com",
+    "phone": "+1 738-883-2662",
+    "ssn": "578206723",
+    "dob": "10/25/1982",
+    "address": "4133 Main Way",
+    "city": "Washington",
+    "state": "AZ"
+  }
+}

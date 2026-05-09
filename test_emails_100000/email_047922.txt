@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Young",
+    "email": "nicholas.young4776@outlook.com",
+    "phone": "203 562 6962",
+    "ssn": "657278792",
+    "dob": "03/11/1950",
+    "address": "8147 Summer Ave",
+    "city": "Los Angeles",
+    "state": "WA"
+  }
+}

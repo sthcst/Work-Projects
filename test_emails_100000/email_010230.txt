@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Morris",
+    "email": "nicholas.morris3069@company.com",
+    "phone": "(443) 284-8774",
+    "ssn": "295-03-1825",
+    "dob": "10/09/1962",
+    "address": "3678 Summer Blvd",
+    "city": "Dallas",
+    "state": "WA"
+  }
+}

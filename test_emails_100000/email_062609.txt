@@ -1,0 +1,9 @@
+contact:
+  name: James Martinez
+  email: james.martinez3324@yahoo.com
+  phone: (406) 583-7387
+  ssn: 906 43 1556
+  dob: 27/11/1980
+  address: 9143 West Court
+  city: San Diego
+  state: IL

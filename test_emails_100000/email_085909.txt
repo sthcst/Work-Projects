@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Phillips
+  email: sarah.phillips5784@business.net
+  phone: 708-391-6273
+  ssn: 307 92 5242
+  dob: 25/09/1971
+  address: 6972 Park Blvd
+  city: Phoenix
+  state: VA

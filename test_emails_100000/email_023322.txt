@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Ortiz
+  email: kevin.ortiz9492@outlook.com
+  phone: +1 279-258-5348
+  ssn: 382 58 7358
+  dob: 6/13/1996
+  address: 6371 North Rd
+  city: Chicago
+  state: NC

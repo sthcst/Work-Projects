@@ -1,0 +1,14 @@
+INVOICE 949232
+
+Bill To:
+Name: John Anderson
+Email: john.anderson9330@example.com
+Phone: 352-580-9262
+SSN: 613 40 1246
+
+Address: 7338 Elm Dr
+Los Angeles, WA
+
+Date of Birth: 06/10/1968
+
+Amount Due: $7535

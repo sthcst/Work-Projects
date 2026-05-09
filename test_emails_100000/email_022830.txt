@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Ramirez,anna.ramirez3706@gmail.com,(737) 279-7100,755 25 6498,04-12-1982,"477 Oak Ln",San Jose,FL

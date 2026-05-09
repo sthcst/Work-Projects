@@ -1,0 +1,9 @@
+contact:
+  name: George Miller
+  email: george.miller9776@mail.com
+  phone: 583-417-6075
+  ssn: 860-27-4345
+  dob: 11-16-1989
+  address: 4983 Pine Ave
+  city: Phoenix
+  state: NY

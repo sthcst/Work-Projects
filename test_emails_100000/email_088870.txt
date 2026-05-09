@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Garcia,amanda.garcia6323@mail.com,461 463 9493,055 34 5420,1/26/1967,"772 Oak Ave",Dallas,MD

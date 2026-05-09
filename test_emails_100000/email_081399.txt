@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Garcia",
+    "email": "angela.garcia9416@outlook.com",
+    "phone": "+1 245-337-3291",
+    "ssn": "516-35-5142",
+    "dob": "04/12/1982",
+    "address": "8460 Birch Ln",
+    "city": "Chicago",
+    "state": "PA"
+  }
+}

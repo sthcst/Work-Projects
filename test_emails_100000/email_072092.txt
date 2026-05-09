@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Garcia,donald.garcia560@gmail.com,+1 877-922-6693,967 43 9835,07/05/1988,"6993 Maple Court",New York,AZ

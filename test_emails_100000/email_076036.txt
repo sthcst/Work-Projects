@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Jimenez,john.jimenez1352@gmail.com,+1 570-836-6507,546 05 6686,22/08/1973,"9216 Maple Blvd",Seattle,FL

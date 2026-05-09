@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Morris,samantha.morris6353@work.org,518 205 9075,804975292,11/24/1984,"5547 Main Blvd",Dallas,MD

@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Miller
+  email: jacob.miller9282@work.org
+  phone: 430-679-7486
+  ssn: 282-34-8984
+  dob: 05-21-1974
+  address: 9765 First Rd
+  city: New York
+  state: NJ

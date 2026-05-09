@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Edwards",
+    "email": "stephanie.edwards8633@business.net",
+    "phone": "406-543-4805",
+    "ssn": "694 43 5300",
+    "dob": "5/20/1962",
+    "address": "8649 Main Blvd",
+    "city": "Austin",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Parker,ryan.parker1083@example.com,759 948 2847,545677230,06-02-1963,"1740 Park Ln",New York,AZ

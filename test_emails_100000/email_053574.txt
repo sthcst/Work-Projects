@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Hernandez,kimberly.hernandez1049@business.net,+1 821-594-6455,673 93 3222,18/12/1975,"3380 North Ln",San Diego,MI

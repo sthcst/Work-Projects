@@ -1,0 +1,9 @@
+contact:
+  name: Megan Anderson
+  email: megan.anderson5817@work.org
+  phone: 919 819 9625
+  ssn: 878-54-4376
+  dob: 06-04-2005
+  address: 3760 Fourth Rd
+  city: Denver
+  state: AZ

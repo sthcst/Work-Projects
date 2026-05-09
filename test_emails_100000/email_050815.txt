@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Taylor",
+    "email": "cynthia.taylor8456@mail.com",
+    "phone": "(853) 635-7353",
+    "ssn": "346255905",
+    "dob": "08/16/1964",
+    "address": "4389 Second Ave",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

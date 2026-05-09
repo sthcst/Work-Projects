@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Jackson,william.jackson2915@outlook.com,(259) 263-7391,994 88 5895,05/09/1960,"6292 West Dr",Philadelphia,TX

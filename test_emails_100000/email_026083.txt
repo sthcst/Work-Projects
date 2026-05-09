@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Rogers",
+    "email": "amanda.rogers6151@gmail.com",
+    "phone": "502 556 4024",
+    "ssn": "536-50-2918",
+    "dob": "02-13-2002",
+    "address": "8041 Maple Rd",
+    "city": "San Diego",
+    "state": "AZ"
+  }
+}

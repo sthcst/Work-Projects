@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Alvarado
+  email: daniel.alvarado8640@yahoo.com
+  phone: 641-285-7710
+  ssn: 269-76-2485
+  dob: 05/10/1980
+  address: 5549 Summer Ln
+  city: San Diego
+  state: FL

@@ -1,0 +1,14 @@
+INVOICE 128839
+
+Bill To:
+Name: Nicole Rodriguez
+Email: nicole.rodriguez5269@example.com
+Phone: 755-407-3396
+SSN: 881-78-5033
+
+Address: 6679 West Way
+Austin, PA
+
+Date of Birth: 5/14/2001
+
+Amount Due: $7565

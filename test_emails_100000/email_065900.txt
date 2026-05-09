@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Carter",
+    "email": "jessica.carter3177@yahoo.com",
+    "phone": "904 363 8073",
+    "ssn": "478 78 9803",
+    "dob": "16/01/1996",
+    "address": "1204 Oak Ave",
+    "city": "Washington",
+    "state": "OH"
+  }
+}

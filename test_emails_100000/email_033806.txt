@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Thompson",
+    "email": "michael.thompson2948@business.net",
+    "phone": "746 949 9369",
+    "ssn": "338 98 9897",
+    "dob": "02/15/1953",
+    "address": "4911 Oak Rd",
+    "city": "Dallas",
+    "state": "FL"
+  }
+}

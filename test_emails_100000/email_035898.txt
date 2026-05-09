@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Nunez,steven.nunez121@gmail.com,+1 825-458-4808,862937306,05/02/1962,"8606 Fourth Dr",Los Angeles,FL

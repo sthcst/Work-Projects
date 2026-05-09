@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Guerrero",
+    "email": "brian.guerrero4093@mail.com",
+    "phone": "+1 337-622-7564",
+    "ssn": "188484022",
+    "dob": "11/06/1964",
+    "address": "4056 Fifth Blvd",
+    "city": "Boston",
+    "state": "CO"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Harris,anthony.harris9747@yahoo.com,568-457-7020,204 98 1470,9/19/1995,"2088 Fourth Rd",Austin,NJ

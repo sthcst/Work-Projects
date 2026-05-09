@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Rodriguez,katherine.rodriguez6399@business.net,849 716 5016,826 15 8306,01-03-1973,"9167 Oak Dr",Chicago,PA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Lewis,edward.lewis188@gmail.com,(577) 231-3910,276 16 2025,02/08/1997,"3265 Oak Rd",San Antonio,GA

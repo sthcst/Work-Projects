@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Reed
+  email: ryan.reed6428@company.com
+  phone: 220 766 8290
+  ssn: 004765870
+  dob: 11/23/1985
+  address: 9678 Park Rd
+  city: Philadelphia
+  state: MO

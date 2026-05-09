@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Martin,sarah.martin6295@example.com,630-637-2798,289-94-1520,11-23-1997,"7737 North Court",Jacksonville,MO

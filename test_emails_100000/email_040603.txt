@@ -1,0 +1,14 @@
+INVOICE 813231
+
+Bill To:
+Name: Jacob Garcia
+Email: jacob.garcia2539@work.org
+Phone: 853-466-1374
+SSN: 383443348
+
+Address: 1861 Oak Rd
+Los Angeles, WI
+
+Date of Birth: 2/21/1960
+
+Amount Due: $8296

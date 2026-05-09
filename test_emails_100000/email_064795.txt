@@ -1,0 +1,14 @@
+INVOICE 139864
+
+Bill To:
+Name: Pamela Jimenez
+Email: pamela.jimenez668@work.org
+Phone: 278-733-6191
+SSN: 841566237
+
+Address: 2031 Maple Court
+Houston, WA
+
+Date of Birth: 3/23/1983
+
+Amount Due: $6854

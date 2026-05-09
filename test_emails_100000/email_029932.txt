@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Serrano,nicole.serrano4324@yahoo.com,+1 556-922-2691,363526387,21/02/1950,"6308 East Dr",Dallas,IL

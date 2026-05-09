@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Evans,kimberly.evans8836@gmail.com,737-940-5971,246-44-5104,20/02/1956,"6459 Fourth Court",Austin,IL

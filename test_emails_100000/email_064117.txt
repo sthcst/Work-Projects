@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Collins",
+    "email": "jason.collins5442@outlook.com",
+    "phone": "540 881 1966",
+    "ssn": "409-43-1423",
+    "dob": "10-03-1994",
+    "address": "9088 Park Rd",
+    "city": "Dallas",
+    "state": "TN"
+  }
+}

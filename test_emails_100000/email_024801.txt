@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Wilson",
+    "email": "mark.wilson6488@yahoo.com",
+    "phone": "355 988 6579",
+    "ssn": "088-25-3770",
+    "dob": "04/04/1985",
+    "address": "2791 First Ave",
+    "city": "Houston",
+    "state": "MI"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Emma Morris
+  email: emma.morris8274@outlook.com
+  phone: 985-422-8543
+  ssn: 973-70-9308
+  dob: 09-05-1983
+  address: 1222 Sixth Blvd
+  city: San Antonio
+  state: GA

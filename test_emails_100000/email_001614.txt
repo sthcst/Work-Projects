@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Morris",
+    "email": "nicole.morris8118@yahoo.com",
+    "phone": "+1 600-562-9044",
+    "ssn": "872-66-2581",
+    "dob": "01-10-1986",
+    "address": "949 Summer Ln",
+    "city": "Boston",
+    "state": "CA"
+  }
+}

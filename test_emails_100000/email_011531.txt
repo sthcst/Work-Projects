@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Collins",
+    "email": "edward.collins9040@mail.com",
+    "phone": "462-466-7034",
+    "ssn": "360-21-3654",
+    "dob": "6/27/1953",
+    "address": "5899 Main Dr",
+    "city": "New York",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Thompson,amanda.thompson8346@work.org,(684) 978-4988,908 01 7687,05/12/1994,"4891 Park Way",San Jose,TX

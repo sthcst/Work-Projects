@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Campbell,ashley.campbell2458@mail.com,741 546 5695,904-41-1581,01/04/1974,"4768 Oak Ave",New York,GA

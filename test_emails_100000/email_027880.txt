@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Robinson",
+    "email": "lisa.robinson3008@work.org",
+    "phone": "(737) 740-1055",
+    "ssn": "463 69 8586",
+    "dob": "3/24/1980",
+    "address": "7975 Elm St",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

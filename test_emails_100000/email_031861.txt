@@ -1,0 +1,14 @@
+INVOICE 583095
+
+Bill To:
+Name: Kenneth Moore
+Email: kenneth.moore8655@work.org
+Phone: +1 816-318-1368
+SSN: 900467180
+
+Address: 3033 Birch Dr
+Phoenix, WA
+
+Date of Birth: 1/6/1970
+
+Amount Due: $7967

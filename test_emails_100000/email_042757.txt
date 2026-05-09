@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Walker",
+    "email": "jeffrey.walker658@example.com",
+    "phone": "250-511-8047",
+    "ssn": "034 45 8734",
+    "dob": "11/03/1983",
+    "address": "4035 East St",
+    "city": "Boston",
+    "state": "GA"
+  }
+}

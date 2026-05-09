@@ -1,0 +1,14 @@
+INVOICE 437092
+
+Bill To:
+Name: Jane Reyes
+Email: jane.reyes2616@company.com
+Phone: 568-939-5124
+SSN: 426 44 1460
+
+Address: 9267 Oak St
+Seattle, AZ
+
+Date of Birth: 23/08/1957
+
+Amount Due: $6978

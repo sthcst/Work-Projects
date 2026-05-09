@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Davis",
+    "email": "maria.davis8191@work.org",
+    "phone": "419-871-6229",
+    "ssn": "935-19-9462",
+    "dob": "26/02/2003",
+    "address": "7171 Fifth St",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

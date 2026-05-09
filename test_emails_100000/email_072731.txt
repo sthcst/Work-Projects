@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Thompson",
+    "email": "shirley.thompson4231@business.net",
+    "phone": "927 205 8136",
+    "ssn": "852 85 2948",
+    "dob": "03/02/1995",
+    "address": "5654 Elm Blvd",
+    "city": "Los Angeles",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Jones,deborah.jones6522@example.com,591-463-8306,814 44 6296,03/26/2004,"4184 East Dr",San Diego,TN

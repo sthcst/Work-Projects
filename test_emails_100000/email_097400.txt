@@ -1,0 +1,14 @@
+INVOICE 216330
+
+Bill To:
+Name: Jeffrey Harris
+Email: jeffrey.harris2295@example.com
+Phone: 268 963 8175
+SSN: 209 02 2194
+
+Address: 2051 Second Ave
+San Jose, WA
+
+Date of Birth: 11-16-1958
+
+Amount Due: $8943

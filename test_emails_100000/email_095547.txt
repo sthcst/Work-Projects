@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Anderson,rachel.anderson9076@gmail.com,(327) 326-6488,051 66 3745,04/04/1968,"5273 North Ln",San Diego,MA

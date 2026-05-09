@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Rodriguez
+  email: joseph.rodriguez7713@outlook.com
+  phone: +1 957-288-8223
+  ssn: 609-60-9405
+  dob: 16/10/1968
+  address: 2381 Second Ave
+  city: Dallas
+  state: TN

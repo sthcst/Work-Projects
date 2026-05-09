@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Gonzalez",
+    "email": "cynthia.gonzalez6523@mail.com",
+    "phone": "(825) 860-2664",
+    "ssn": "104382688",
+    "dob": "02-15-1967",
+    "address": "9514 Pine Rd",
+    "city": "Phoenix",
+    "state": "WA"
+  }
+}

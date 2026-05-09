@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Moore,rachel.moore7337@example.com,236 824 6635,568-26-8077,05/09/2000,"8500 Summer Rd",Washington,TX

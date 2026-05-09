@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Thomas",
+    "email": "jacob.thomas875@work.org",
+    "phone": "393 270 4440",
+    "ssn": "548036506",
+    "dob": "17/11/1987",
+    "address": "5131 North Ave",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

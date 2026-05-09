@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Serrano
+  email: jeffrey.serrano2257@outlook.com
+  phone: 558 308 6364
+  ssn: 864 69 6370
+  dob: 02/07/1957
+  address: 1364 Birch St
+  city: San Diego
+  state: CA

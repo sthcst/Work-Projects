@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Collins
+  email: christopher.collins3938@outlook.com
+  phone: 838 687 3583
+  ssn: 451 65 3901
+  dob: 01/19/2000
+  address: 973 Elm St
+  city: San Jose
+  state: WA

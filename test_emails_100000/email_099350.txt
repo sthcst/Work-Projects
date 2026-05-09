@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Stewart,nicholas.stewart3781@outlook.com,585 894 5940,021164922,6/17/1978,"4438 North Way",Phoenix,NC

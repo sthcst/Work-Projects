@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Thomas",
+    "email": "donald.thomas9458@outlook.com",
+    "phone": "+1 494-884-7363",
+    "ssn": "228 95 1200",
+    "dob": "06-23-1958",
+    "address": "4048 South Ave",
+    "city": "New York",
+    "state": "GA"
+  }
+}

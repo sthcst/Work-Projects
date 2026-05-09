@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Rogers",
+    "email": "cynthia.rogers648@work.org",
+    "phone": "(672) 962-5065",
+    "ssn": "488579204",
+    "dob": "11/25/1965",
+    "address": "7272 Park Ln",
+    "city": "Dallas",
+    "state": "GA"
+  }
+}

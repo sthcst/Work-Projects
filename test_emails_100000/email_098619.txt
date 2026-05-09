@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Martinez,david.martinez7168@example.com,665-987-5605,059377628,11/12/2003,"7410 West Ave",Los Angeles,CA

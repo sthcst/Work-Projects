@@ -1,0 +1,9 @@
+contact:
+  name: Angela Walker
+  email: angela.walker1290@mail.com
+  phone: 947-809-1279
+  ssn: 394 04 4667
+  dob: 11/25/1988
+  address: 182 Oak Court
+  city: New York
+  state: GA

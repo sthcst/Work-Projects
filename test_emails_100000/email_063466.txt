@@ -1,0 +1,14 @@
+INVOICE 624019
+
+Bill To:
+Name: Samantha Wilson
+Email: samantha.wilson3203@yahoo.com
+Phone: 658-334-1724
+SSN: 858-48-9974
+
+Address: 4734 Spring Blvd
+Chicago, MO
+
+Date of Birth: 10-10-1975
+
+Amount Due: $9475

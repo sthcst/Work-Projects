@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Rodriguez",
+    "email": "helen.rodriguez6031@outlook.com",
+    "phone": "+1 991-768-7982",
+    "ssn": "784 30 6199",
+    "dob": "03/23/1982",
+    "address": "5195 Fifth Blvd",
+    "city": "San Diego",
+    "state": "MA"
+  }
+}

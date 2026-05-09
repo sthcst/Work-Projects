@@ -1,0 +1,9 @@
+contact:
+  name: Charles Smith
+  email: charles.smith3548@yahoo.com
+  phone: 398 229 1393
+  ssn: 775705832
+  dob: 01/10/1996
+  address: 6581 South Blvd
+  city: Boston
+  state: CA

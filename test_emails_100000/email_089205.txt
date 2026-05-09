@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Rogers,joshua.rogers4776@work.org,+1 953-921-6205,055089230,12-19-1991,"6545 Sixth Court",San Antonio,CA

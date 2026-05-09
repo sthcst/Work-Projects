@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Parker,deborah.parker7548@company.com,+1 983-855-8564,830 54 2161,25/03/1996,"61 Fourth Court",Boston,CA

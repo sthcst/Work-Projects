@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Delgado",
+    "email": "william.delgado6406@mail.com",
+    "phone": "+1 424-957-5320",
+    "ssn": "951 87 9090",
+    "dob": "01/23/1979",
+    "address": "4000 First Rd",
+    "city": "San Antonio",
+    "state": "WI"
+  }
+}

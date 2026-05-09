@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Jimenez",
+    "email": "cynthia.jimenez5134@company.com",
+    "phone": "+1 484-681-7498",
+    "ssn": "147 88 6286",
+    "dob": "19/02/2002",
+    "address": "7775 Oak Rd",
+    "city": "Dallas",
+    "state": "NY"
+  }
+}

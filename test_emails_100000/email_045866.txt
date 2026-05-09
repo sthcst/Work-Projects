@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Jones",
+    "email": "donald.jones8118@gmail.com",
+    "phone": "+1 645-447-5961",
+    "ssn": "600239429",
+    "dob": "11/20/1999",
+    "address": "8883 Sixth Ave",
+    "city": "New York",
+    "state": "MO"
+  }
+}

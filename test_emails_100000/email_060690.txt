@@ -1,0 +1,14 @@
+INVOICE 779961
+
+Bill To:
+Name: Charles Wilson
+Email: charles.wilson5578@work.org
+Phone: (308) 673-7191
+SSN: 946919608
+
+Address: 3927 Birch St
+Seattle, CA
+
+Date of Birth: 06/04/1966
+
+Amount Due: $7766

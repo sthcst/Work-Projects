@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Wilson
+  email: ryan.wilson3056@outlook.com
+  phone: 519-824-9935
+  ssn: 641693756
+  dob: 04/02/1968
+  address: 6377 Fifth Ln
+  city: San Jose
+  state: NJ

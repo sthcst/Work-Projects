@@ -1,0 +1,9 @@
+contact:
+  name: Edward Rodriguez
+  email: edward.rodriguez7633@work.org
+  phone: (342) 284-3275
+  ssn: 667715118
+  dob: 07/05/1982
+  address: 2437 Oak Rd
+  city: Houston
+  state: NY

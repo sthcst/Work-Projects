@@ -1,0 +1,9 @@
+contact:
+  name: Emily Lewis
+  email: emily.lewis8246@yahoo.com
+  phone: 415-453-9369
+  ssn: 677823089
+  dob: 10/27/1981
+  address: 664 Pine Ave
+  city: Washington
+  state: PA

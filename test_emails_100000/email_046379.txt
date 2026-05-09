@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Campbell,lisa.campbell3060@outlook.com,791-605-8185,116862995,07-16-1959,"556 Park Dr",Boston,WA

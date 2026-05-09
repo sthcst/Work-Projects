@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Reeves
+  email: deborah.reeves9588@company.com
+  phone: 321 428 1350
+  ssn: 695431870
+  dob: 5/20/1956
+  address: 2515 Second Ave
+  city: Denver
+  state: MA

@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Robinson
+  email: katherine.robinson5511@gmail.com
+  phone: 227 833 6408
+  ssn: 971 05 3188
+  dob: 7/11/1998
+  address: 653 Second Ln
+  city: San Diego
+  state: CA

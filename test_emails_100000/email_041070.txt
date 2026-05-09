@@ -1,0 +1,14 @@
+INVOICE 576926
+
+Bill To:
+Name: Rebecca Miller
+Email: rebecca.miller6101@company.com
+Phone: 506-641-5563
+SSN: 339388917
+
+Address: 9579 North St
+Philadelphia, MA
+
+Date of Birth: 10/06/1968
+
+Amount Due: $7656

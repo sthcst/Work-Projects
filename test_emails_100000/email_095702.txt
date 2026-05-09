@@ -1,0 +1,9 @@
+contact:
+  name: James Carter
+  email: james.carter7527@mail.com
+  phone: 359-303-4841
+  ssn: 839-43-6366
+  dob: 03/07/1989
+  address: 2212 Summer Ln
+  city: Los Angeles
+  state: PA

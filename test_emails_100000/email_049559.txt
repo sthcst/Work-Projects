@@ -1,0 +1,14 @@
+INVOICE 411001
+
+Bill To:
+Name: Steven Peterson
+Email: steven.peterson2972@mail.com
+Phone: (731) 541-3559
+SSN: 222-66-8450
+
+Address: 9379 Elm Blvd
+Philadelphia, DC
+
+Date of Birth: 9/11/1983
+
+Amount Due: $3421

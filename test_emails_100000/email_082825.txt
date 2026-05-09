@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Bell",
+    "email": "matthew.bell667@business.net",
+    "phone": "(639) 919-4551",
+    "ssn": "319-27-3877",
+    "dob": "12-03-1988",
+    "address": "7248 East Court",
+    "city": "Washington",
+    "state": "WA"
+  }
+}

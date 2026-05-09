@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Bell",
+    "email": "emma.bell7168@company.com",
+    "phone": "(214) 889-2437",
+    "ssn": "689993838",
+    "dob": "01-13-1999",
+    "address": "6366 West Ave",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

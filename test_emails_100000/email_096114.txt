@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Sanchez",
+    "email": "lisa.sanchez7066@business.net",
+    "phone": "947-270-8397",
+    "ssn": "412312148",
+    "dob": "12/08/1985",
+    "address": "2969 Elm Rd",
+    "city": "Houston",
+    "state": "FL"
+  }
+}

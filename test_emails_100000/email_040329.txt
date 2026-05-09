@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Lee,maria.lee5930@yahoo.com,(684) 913-9359,480-85-3908,2/7/1961,"5963 Maple Dr",San Antonio,WA

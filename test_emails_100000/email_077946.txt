@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Ortiz",
+    "email": "joseph.ortiz4057@mail.com",
+    "phone": "(870) 495-3463",
+    "ssn": "465613507",
+    "dob": "2/22/1964",
+    "address": "5700 North Way",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

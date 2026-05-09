@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Anderson,robert.anderson3154@yahoo.com,+1 890-702-1138,521-99-2572,05-11-1964,"8052 North Rd",Los Angeles,DC

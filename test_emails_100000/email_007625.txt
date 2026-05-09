@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Jimenez,amanda.jimenez3729@work.org,837 762 3473,200 39 9049,08-20-1975,"1267 North Rd",San Diego,MI

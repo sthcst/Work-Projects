@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel White",
+    "email": "rachel.white9366@outlook.com",
+    "phone": "+1 689-798-5692",
+    "ssn": "665-85-5460",
+    "dob": "05-18-1987",
+    "address": "748 Maple Way",
+    "city": "Phoenix",
+    "state": "DC"
+  }
+}

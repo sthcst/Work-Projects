@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Jackson
+  email: shirley.jackson7375@example.com
+  phone: 339 428 6161
+  ssn: 886411477
+  dob: 10/24/1961
+  address: 7601 Spring Way
+  city: Los Angeles
+  state: VA

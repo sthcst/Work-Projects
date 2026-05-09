@@ -1,0 +1,12 @@
+SUPPORT TICKET #19901
+
+Customer: Jason Ortiz
+Email: jason.ortiz875@example.com
+Phone: 865-980-6352
+Account: 218-79-3362
+
+Issue Description: Technical problem reported
+DOB on file: 01-18-1976
+Address: 3705 Fourth Blvd, Los Angeles, NY
+
+Status: OPEN

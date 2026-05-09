@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Nelson",
+    "email": "christopher.nelson9574@company.com",
+    "phone": "264 827 3812",
+    "ssn": "123 92 1378",
+    "dob": "04/28/1961",
+    "address": "9176 Summer Ave",
+    "city": "Philadelphia",
+    "state": "NC"
+  }
+}

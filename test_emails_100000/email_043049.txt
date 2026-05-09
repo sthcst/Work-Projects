@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Anderson
+  email: deborah.anderson8046@example.com
+  phone: 511 308 5953
+  ssn: 162279681
+  dob: 08-12-1956
+  address: 2058 First Rd
+  city: Jacksonville
+  state: TX

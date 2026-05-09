@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Gomez",
+    "email": "amanda.gomez4683@gmail.com",
+    "phone": "(959) 325-1594",
+    "ssn": "323 84 2769",
+    "dob": "5/12/1957",
+    "address": "8906 Cedar Ave",
+    "city": "Seattle",
+    "state": "WA"
+  }
+}

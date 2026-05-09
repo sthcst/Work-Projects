@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Gonzalez,christine.gonzalez4129@business.net,(529) 495-7820,099 35 6650,9/22/2005,"7294 Oak Way",Philadelphia,VA

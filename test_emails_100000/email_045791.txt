@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Rodriguez
+  email: timothy.rodriguez2926@company.com
+  phone: +1 716-375-9315
+  ssn: 446-86-8769
+  dob: 22/08/1953
+  address: 6388 Summer Dr
+  city: Houston
+  state: MA

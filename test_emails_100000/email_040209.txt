@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Johnson
+  email: kevin.johnson9683@company.com
+  phone: (530) 287-1098
+  ssn: 222 34 3960
+  dob: 12/22/1977
+  address: 8623 Spring Court
+  city: Phoenix
+  state: GA

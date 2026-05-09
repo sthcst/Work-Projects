@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Johnson
+  email: samantha.johnson1741@yahoo.com
+  phone: 235-678-8464
+  ssn: 097-71-1493
+  dob: 10/23/1978
+  address: 1415 Sixth Ave
+  city: Dallas
+  state: MD

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Reyes,david.reyes5468@company.com,+1 380-836-5373,880-10-5666,11-28-1966,"7449 Second St",Seattle,DC

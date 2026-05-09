@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Flores",
+    "email": "daniel.flores9950@mail.com",
+    "phone": "661-851-1071",
+    "ssn": "606 99 6084",
+    "dob": "7/1/1997",
+    "address": "3463 East Blvd",
+    "city": "San Jose",
+    "state": "NJ"
+  }
+}

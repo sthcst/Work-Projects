@@ -1,0 +1,9 @@
+contact:
+  name: Gary Edwards
+  email: gary.edwards9843@mail.com
+  phone: (670) 961-2570
+  ssn: 920635649
+  dob: 17/01/1955
+  address: 104 North Dr
+  city: Phoenix
+  state: TX

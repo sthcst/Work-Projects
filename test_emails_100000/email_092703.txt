@@ -1,0 +1,14 @@
+INVOICE 836104
+
+Bill To:
+Name: Christine Campbell
+Email: christine.campbell8616@example.com
+Phone: (725) 421-1433
+SSN: 032342738
+
+Address: 7072 Cedar Blvd
+Philadelphia, WI
+
+Date of Birth: 15/01/1952
+
+Amount Due: $9179

@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Garcia
+  email: ashley.garcia7023@work.org
+  phone: 777-482-5982
+  ssn: 205 22 8533
+  dob: 11/17/1964
+  address: 2848 Spring Way
+  city: Denver
+  state: TN

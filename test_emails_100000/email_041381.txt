@@ -1,0 +1,9 @@
+contact:
+  name: Michael Jones
+  email: michael.jones8954@example.com
+  phone: 531-682-4711
+  ssn: 442 77 8105
+  dob: 1/6/1981
+  address: 4150 East Way
+  city: Chicago
+  state: MA

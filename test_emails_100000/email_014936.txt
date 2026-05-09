@@ -1,0 +1,14 @@
+INVOICE 996252
+
+Bill To:
+Name: Ronald Garcia
+Email: ronald.garcia9478@outlook.com
+Phone: 948-981-3276
+SSN: 636581135
+
+Address: 3619 Oak Ln
+Boston, CO
+
+Date of Birth: 06/15/1980
+
+Amount Due: $4777

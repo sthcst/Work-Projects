@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Sanchez,edward.sanchez8508@business.net,+1 596-555-9463,550-59-5539,04/08/1972,"5580 Third Way",Philadelphia,WI

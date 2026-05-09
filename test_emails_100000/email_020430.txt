@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Reyes
+  email: shirley.reyes3090@business.net
+  phone: (632) 322-8911
+  ssn: 593-77-9642
+  dob: 12/21/1952
+  address: 2884 Maple St
+  city: Jacksonville
+  state: IL

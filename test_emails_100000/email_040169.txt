@@ -1,0 +1,14 @@
+INVOICE 283495
+
+Bill To:
+Name: Christopher Reyes
+Email: christopher.reyes806@example.com
+Phone: 458-674-1192
+SSN: 995-09-3327
+
+Address: 1978 Second Blvd
+Los Angeles, CA
+
+Date of Birth: 9/25/1983
+
+Amount Due: $623

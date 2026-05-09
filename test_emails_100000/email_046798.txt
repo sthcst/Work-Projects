@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Murillo",
+    "email": "william.murillo8829@example.com",
+    "phone": "(562) 569-1768",
+    "ssn": "250-58-9844",
+    "dob": "17/06/1993",
+    "address": "2365 Birch Dr",
+    "city": "Dallas",
+    "state": "DC"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 893327
+
+Bill To:
+Name: Gary Anderson
+Email: gary.anderson4429@company.com
+Phone: 964-202-1336
+SSN: 826822136
+
+Address: 9383 Fifth Dr
+Jacksonville, CA
+
+Date of Birth: 15/04/1955
+
+Amount Due: $2833

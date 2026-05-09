@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Serrano",
+    "email": "john.serrano6247@yahoo.com",
+    "phone": "+1 752-700-6199",
+    "ssn": "087396260",
+    "dob": "3/8/1955",
+    "address": "7397 Second St",
+    "city": "Dallas",
+    "state": "WI"
+  }
+}

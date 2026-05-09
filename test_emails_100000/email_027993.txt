@@ -1,0 +1,9 @@
+contact:
+  name: George Flores
+  email: george.flores6219@gmail.com
+  phone: (612) 243-1967
+  ssn: 855616485
+  dob: 9/25/1984
+  address: 2400 West Dr
+  city: San Diego
+  state: CA

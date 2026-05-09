@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Perez",
+    "email": "joseph.perez6094@outlook.com",
+    "phone": "+1 772-767-7185",
+    "ssn": "146 53 3657",
+    "dob": "23/10/1999",
+    "address": "6402 South Rd",
+    "city": "San Jose",
+    "state": "AZ"
+  }
+}

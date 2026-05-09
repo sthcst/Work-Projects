@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Garcia",
+    "email": "emma.garcia8193@yahoo.com",
+    "phone": "952 242 8462",
+    "ssn": "640 24 2960",
+    "dob": "12/24/1981",
+    "address": "2174 Fifth Way",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

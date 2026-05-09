@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Jackson",
+    "email": "jennifer.jackson2310@company.com",
+    "phone": "686 860 3678",
+    "ssn": "242 76 7104",
+    "dob": "04/11/2001",
+    "address": "7483 Third Rd",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

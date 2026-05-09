@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Delgado",
+    "email": "kimberly.delgado4621@gmail.com",
+    "phone": "+1 649-912-9352",
+    "ssn": "905628049",
+    "dob": "10-12-1950",
+    "address": "132 Spring Blvd",
+    "city": "Chicago",
+    "state": "MA"
+  }
+}

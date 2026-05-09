@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Bell",
+    "email": "anthony.bell5317@outlook.com",
+    "phone": "+1 375-608-9254",
+    "ssn": "859 03 5044",
+    "dob": "5/13/1987",
+    "address": "6783 Fourth Dr",
+    "city": "Austin",
+    "state": "MI"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Johnson",
+    "email": "jacob.johnson7506@work.org",
+    "phone": "795 534 2979",
+    "ssn": "604-30-4885",
+    "dob": "26/11/1991",
+    "address": "3016 East Blvd",
+    "city": "Denver",
+    "state": "FL"
+  }
+}

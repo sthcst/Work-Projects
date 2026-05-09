@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Alvarado,anthony.alvarado9959@example.com,(469) 921-1274,170-27-9446,10/26/1963,"9303 First Ln",Dallas,IL

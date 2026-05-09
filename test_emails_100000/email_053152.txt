@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Hall
+  email: kevin.hall5737@gmail.com
+  phone: +1 666-653-9703
+  ssn: 344813751
+  dob: 01-04-1988
+  address: 8588 East Ave
+  city: Chicago
+  state: CA

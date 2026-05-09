@@ -1,0 +1,9 @@
+contact:
+  name: Christine Lee
+  email: christine.lee339@example.com
+  phone: (752) 584-4696
+  ssn: 655 67 9150
+  dob: 2/9/2005
+  address: 9577 Second Ln
+  city: New York
+  state: CA

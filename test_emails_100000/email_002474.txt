@@ -1,0 +1,14 @@
+INVOICE 802912
+
+Bill To:
+Name: William Reed
+Email: william.reed1801@mail.com
+Phone: +1 600-683-6528
+SSN: 629-57-2713
+
+Address: 9964 Maple Ave
+New York, TX
+
+Date of Birth: 5/3/1957
+
+Amount Due: $5416

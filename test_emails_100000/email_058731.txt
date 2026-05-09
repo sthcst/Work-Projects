@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Walker,jennifer.walker8335@outlook.com,751 833 2764,389136428,10/24/1974,"3458 Sixth Ln",San Jose,CO

@@ -1,0 +1,14 @@
+INVOICE 111084
+
+Bill To:
+Name: Pamela Thomas
+Email: pamela.thomas4177@gmail.com
+Phone: +1 472-762-4728
+SSN: 258 66 2233
+
+Address: 5650 North Ln
+Chicago, PA
+
+Date of Birth: 07-14-1967
+
+Amount Due: $3079

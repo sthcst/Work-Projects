@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Peterson",
+    "email": "kimberly.peterson5489@work.org",
+    "phone": "541-424-7426",
+    "ssn": "610 47 9226",
+    "dob": "08/19/1959",
+    "address": "8050 Summer Ave",
+    "city": "Austin",
+    "state": "DC"
+  }
+}

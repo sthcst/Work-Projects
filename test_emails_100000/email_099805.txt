@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Reed",
+    "email": "edward.reed8967@gmail.com",
+    "phone": "988 240 5495",
+    "ssn": "981-15-2361",
+    "dob": "09/01/1991",
+    "address": "3766 Cedar Blvd",
+    "city": "Chicago",
+    "state": "MO"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Young
+  email: ronald.young4117@work.org
+  phone: +1 843-777-5672
+  ssn: 173-29-5749
+  dob: 05-22-1951
+  address: 5326 Oak Way
+  city: Washington
+  state: IL

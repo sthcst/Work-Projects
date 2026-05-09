@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Martin",
+    "email": "joshua.martin5572@company.com",
+    "phone": "830 876 7171",
+    "ssn": "645-77-9174",
+    "dob": "11/18/1983",
+    "address": "9160 Main Blvd",
+    "city": "Houston",
+    "state": "WI"
+  }
+}

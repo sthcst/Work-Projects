@@ -1,0 +1,14 @@
+INVOICE 501182
+
+Bill To:
+Name: Emma Clark
+Email: emma.clark3844@mail.com
+Phone: 994-344-6157
+SSN: 863 60 2710
+
+Address: 4095 Park Court
+Houston, MA
+
+Date of Birth: 25/04/1975
+
+Amount Due: $9006

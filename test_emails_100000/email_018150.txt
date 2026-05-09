@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Jackson",
+    "email": "rebecca.jackson2622@outlook.com",
+    "phone": "368 579 1907",
+    "ssn": "458346871",
+    "dob": "11/03/1961",
+    "address": "356 South Court",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 487945
+
+Bill To:
+Name: Emily Hall
+Email: emily.hall8158@work.org
+Phone: (276) 744-7260
+SSN: 322311319
+
+Address: 2585 Birch Ave
+San Antonio, AZ
+
+Date of Birth: 02/02/1966
+
+Amount Due: $457

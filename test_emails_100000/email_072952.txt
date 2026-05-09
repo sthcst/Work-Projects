@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Rogers",
+    "email": "pamela.rogers9430@outlook.com",
+    "phone": "+1 493-911-8912",
+    "ssn": "864-23-7242",
+    "dob": "05/04/1990",
+    "address": "5563 South Way",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

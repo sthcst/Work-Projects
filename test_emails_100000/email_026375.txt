@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Anderson
+  email: jessica.anderson5658@gmail.com
+  phone: 217 387 8503
+  ssn: 466 34 3010
+  dob: 04-03-2003
+  address: 1572 First Blvd
+  city: Seattle
+  state: NJ

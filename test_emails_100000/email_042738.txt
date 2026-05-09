@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Bell,robert.bell3740@business.net,654 299 1683,594-14-7546,11/18/1963,"2658 Oak Court",San Diego,FL

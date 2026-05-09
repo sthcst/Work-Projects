@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Moore,rachel.moore6990@example.com,(411) 640-7940,586 38 6987,2/5/1994,"614 Elm Ave",Los Angeles,WA

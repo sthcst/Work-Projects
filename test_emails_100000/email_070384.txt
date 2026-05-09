@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Flores,cynthia.flores6004@company.com,235 715 5625,361-88-4542,03-02-1993,"9522 South Dr",San Jose,TX

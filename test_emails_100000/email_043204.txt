@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Harris",
+    "email": "rebecca.harris6234@business.net",
+    "phone": "467-616-7651",
+    "ssn": "698-51-2011",
+    "dob": "11/1/1980",
+    "address": "901 Birch Ave",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

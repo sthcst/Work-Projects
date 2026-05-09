@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Peterson",
+    "email": "george.peterson1442@business.net",
+    "phone": "332 915 5884",
+    "ssn": "478-97-2351",
+    "dob": "16/03/1951",
+    "address": "4897 East Dr",
+    "city": "Houston",
+    "state": "AZ"
+  }
+}

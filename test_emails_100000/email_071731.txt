@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Stewart
+  email: anthony.stewart635@business.net
+  phone: 686-417-2895
+  ssn: 506 08 6020
+  dob: 09-12-2001
+  address: 7492 North Court
+  city: Philadelphia
+  state: AZ

@@ -1,0 +1,12 @@
+SUPPORT TICKET #96613
+
+Customer: Ronald Davis
+Email: ronald.davis3476@example.com
+Phone: 389-527-2625
+Account: 562-65-5700
+
+Issue Description: Technical problem reported
+DOB on file: 3/4/1966
+Address: 9406 West Rd, Philadelphia, WI
+
+Status: OPEN

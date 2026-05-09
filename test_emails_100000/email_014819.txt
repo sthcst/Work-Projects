@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Hernandez,william.hernandez8910@yahoo.com,(941) 507-9571,478142551,05-18-1969,"798 Maple Way",Phoenix,AZ

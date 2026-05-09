@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Gonzalez
+  email: daniel.gonzalez2963@gmail.com
+  phone: 901-884-9208
+  ssn: 172-03-9089
+  dob: 17/10/1985
+  address: 399 Fourth Rd
+  city: Boston
+  state: FL

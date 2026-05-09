@@ -1,0 +1,9 @@
+contact:
+  name: John Roberts
+  email: john.roberts6355@business.net
+  phone: 355-296-5933
+  ssn: 123 17 7957
+  dob: 14/01/1983
+  address: 5088 Maple Way
+  city: San Jose
+  state: NY

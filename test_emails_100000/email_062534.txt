@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Delgado",
+    "email": "donald.delgado5237@gmail.com",
+    "phone": "+1 652-574-9074",
+    "ssn": "642 04 2306",
+    "dob": "06-27-1994",
+    "address": "3040 Summer Ave",
+    "city": "Washington",
+    "state": "OH"
+  }
+}

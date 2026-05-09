@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Davis,michael.davis3835@company.com,843 930 5060,413 21 1312,12/22/1979,"1417 West Rd",San Diego,TX

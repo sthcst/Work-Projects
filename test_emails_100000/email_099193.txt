@@ -1,0 +1,9 @@
+contact:
+  name: David Phillips
+  email: david.phillips5395@yahoo.com
+  phone: (258) 904-7062
+  ssn: 926 04 3611
+  dob: 06-09-1959
+  address: 5979 Summer Ave
+  city: San Jose
+  state: MO

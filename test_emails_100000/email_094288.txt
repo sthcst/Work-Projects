@@ -1,0 +1,9 @@
+contact:
+  name: George Jimenez
+  email: george.jimenez3036@company.com
+  phone: +1 481-244-8466
+  ssn: 825-37-6061
+  dob: 1/18/1996
+  address: 9847 Summer Rd
+  city: Seattle
+  state: TX

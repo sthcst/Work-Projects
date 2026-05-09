@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela White",
+    "email": "angela.white8188@example.com",
+    "phone": "(620) 984-5404",
+    "ssn": "292 21 1080",
+    "dob": "09/05/1989",
+    "address": "1734 Oak Blvd",
+    "city": "Seattle",
+    "state": "NY"
+  }
+}

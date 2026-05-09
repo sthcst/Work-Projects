@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Hall
+  email: michelle.hall9685@work.org
+  phone: 900 630 3158
+  ssn: 740-78-6535
+  dob: 06/07/1984
+  address: 1050 Oak Ln
+  city: Los Angeles
+  state: NJ

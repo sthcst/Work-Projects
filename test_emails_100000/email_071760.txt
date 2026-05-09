@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Lewis,lisa.lewis7043@yahoo.com,264 874 1611,471-33-7852,12/01/1954,"5572 East Dr",San Jose,GA

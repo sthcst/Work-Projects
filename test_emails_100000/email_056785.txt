@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Davis
+  email: daniel.davis8856@company.com
+  phone: (670) 532-7132
+  ssn: 561348031
+  dob: 10/04/1982
+  address: 589 Oak Court
+  city: San Jose
+  state: TX

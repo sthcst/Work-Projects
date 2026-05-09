@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Peterson",
+    "email": "stephanie.peterson4176@gmail.com",
+    "phone": "(269) 935-6496",
+    "ssn": "039-46-9416",
+    "dob": "01/20/1962",
+    "address": "4790 Oak Dr",
+    "city": "Boston",
+    "state": "NY"
+  }
+}

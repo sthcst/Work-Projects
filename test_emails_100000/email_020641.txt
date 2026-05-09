@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Davis
+  email: stephanie.davis9835@business.net
+  phone: 236 895 5210
+  ssn: 841-46-7968
+  dob: 08-16-1954
+  address: 2791 Main Rd
+  city: Washington
+  state: VA

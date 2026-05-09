@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Gomez
+  email: pamela.gomez913@yahoo.com
+  phone: 309-318-2161
+  ssn: 144273489
+  dob: 06/12/1956
+  address: 6977 Elm Ave
+  city: Denver
+  state: IL

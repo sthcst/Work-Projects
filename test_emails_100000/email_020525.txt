@@ -1,0 +1,14 @@
+INVOICE 134024
+
+Bill To:
+Name: Charles Williams
+Email: charles.williams6554@outlook.com
+Phone: 448 548 5502
+SSN: 042698808
+
+Address: 1149 First Blvd
+Seattle, TX
+
+Date of Birth: 10/14/1973
+
+Amount Due: $1279

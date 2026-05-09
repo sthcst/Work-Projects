@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Murillo,katherine.murillo8002@outlook.com,278 876 9873,864 99 2602,10/3/1959,"4856 Park St",Philadelphia,CA

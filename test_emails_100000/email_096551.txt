@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Robinson
+  email: katherine.robinson8787@yahoo.com
+  phone: (327) 451-6672
+  ssn: 968 82 3126
+  dob: 28/09/1996
+  address: 2621 Oak St
+  city: Denver
+  state: DC

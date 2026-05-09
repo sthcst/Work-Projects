@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Walker,emily.walker336@gmail.com,239-967-9984,741677917,16/09/1974,"6083 Summer Ln",Seattle,WA

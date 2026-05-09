@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Clark",
+    "email": "brenda.clark4048@work.org",
+    "phone": "(427) 791-7882",
+    "ssn": "459298476",
+    "dob": "03/06/1986",
+    "address": "9399 Park Blvd",
+    "city": "San Antonio",
+    "state": "CA"
+  }
+}

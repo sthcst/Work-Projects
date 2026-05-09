@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Hall",
+    "email": "katherine.hall2719@gmail.com",
+    "phone": "333 668 3408",
+    "ssn": "264716779",
+    "dob": "25/06/1978",
+    "address": "1032 Maple Ave",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

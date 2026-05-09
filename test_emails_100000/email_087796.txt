@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Cooper",
+    "email": "lisa.cooper5393@yahoo.com",
+    "phone": "+1 594-423-5810",
+    "ssn": "099-48-5927",
+    "dob": "7/11/1969",
+    "address": "9473 Fourth Ave",
+    "city": "Philadelphia",
+    "state": "WA"
+  }
+}

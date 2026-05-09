@@ -1,0 +1,14 @@
+INVOICE 743410
+
+Bill To:
+Name: Megan Hernandez
+Email: megan.hernandez1012@example.com
+Phone: +1 404-482-3870
+SSN: 686484471
+
+Address: 1924 West Ln
+San Diego, WA
+
+Date of Birth: 10/24/1980
+
+Amount Due: $4204

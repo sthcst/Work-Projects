@@ -1,0 +1,9 @@
+contact:
+  name: William White
+  email: william.white7794@mail.com
+  phone: +1 945-281-7752
+  ssn: 344 73 3287
+  dob: 3/9/1971
+  address: 4808 Second Way
+  city: Phoenix
+  state: WA

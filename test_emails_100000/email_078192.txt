@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Hall",
+    "email": "megan.hall9866@mail.com",
+    "phone": "+1 440-966-6219",
+    "ssn": "001 72 7029",
+    "dob": "5/11/1968",
+    "address": "2929 Sixth Court",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

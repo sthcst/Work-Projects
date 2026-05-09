@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Jackson,john.jackson7856@gmail.com,217-837-5467,664-78-7694,02/12/1967,"6820 Sixth Way",Seattle,CA

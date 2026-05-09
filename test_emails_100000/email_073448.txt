@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Bell",
+    "email": "anthony.bell7901@example.com",
+    "phone": "+1 522-559-1402",
+    "ssn": "032 68 7268",
+    "dob": "27/08/1960",
+    "address": "4729 Main St",
+    "city": "Chicago",
+    "state": "PA"
+  }
+}

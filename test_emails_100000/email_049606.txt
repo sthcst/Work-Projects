@@ -1,0 +1,14 @@
+INVOICE 638469
+
+Bill To:
+Name: Jason Clark
+Email: jason.clark5327@company.com
+Phone: 609 421 3557
+SSN: 768-70-1188
+
+Address: 858 Birch Court
+Dallas, CA
+
+Date of Birth: 12/07/1974
+
+Amount Due: $2908

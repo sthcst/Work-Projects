@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Serrano
+  email: ashley.serrano2887@work.org
+  phone: 920 883 7283
+  ssn: 522067923
+  dob: 12-21-2003
+  address: 8725 Summer Dr
+  city: Dallas
+  state: OH

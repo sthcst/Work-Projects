@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Garcia
+  email: anthony.garcia7674@outlook.com
+  phone: 628 886 7943
+  ssn: 457724882
+  dob: 11/19/1994
+  address: 8150 Park Way
+  city: San Diego
+  state: WA

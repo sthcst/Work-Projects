@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Reeves",
+    "email": "stephanie.reeves7627@company.com",
+    "phone": "670 424 6508",
+    "ssn": "075571111",
+    "dob": "04/03/1985",
+    "address": "9977 Main Way",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

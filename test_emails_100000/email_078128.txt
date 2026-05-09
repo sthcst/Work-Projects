@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Nunez
+  email: rebecca.nunez1860@company.com
+  phone: 600-630-7821
+  ssn: 683-55-6940
+  dob: 5/7/2002
+  address: 3021 Main St
+  city: Chicago
+  state: TX

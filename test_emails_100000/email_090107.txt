@@ -1,0 +1,9 @@
+contact:
+  name: Megan Serrano
+  email: megan.serrano5836@example.com
+  phone: 528-756-5136
+  ssn: 685-12-5205
+  dob: 05/06/1990
+  address: 1011 Cedar St
+  city: Philadelphia
+  state: NJ

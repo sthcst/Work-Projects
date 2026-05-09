@@ -1,0 +1,9 @@
+contact:
+  name: Robert Lewis
+  email: robert.lewis2829@business.net
+  phone: +1 664-447-6272
+  ssn: 231 72 6577
+  dob: 26/04/1980
+  address: 7568 Cedar Court
+  city: Philadelphia
+  state: VA

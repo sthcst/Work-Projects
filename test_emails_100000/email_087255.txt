@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Murillo
+  email: ashley.murillo838@yahoo.com
+  phone: 518 326 2068
+  ssn: 015266654
+  dob: 16/12/1966
+  address: 2350 Cedar Blvd
+  city: San Antonio
+  state: WA

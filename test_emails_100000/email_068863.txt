@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Reyes",
+    "email": "angela.reyes9611@company.com",
+    "phone": "651-747-4644",
+    "ssn": "810308020",
+    "dob": "07-02-1956",
+    "address": "6669 Spring St",
+    "city": "Seattle",
+    "state": "AZ"
+  }
+}

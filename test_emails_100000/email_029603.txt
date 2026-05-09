@@ -1,0 +1,9 @@
+contact:
+  name: Richard White
+  email: richard.white1139@work.org
+  phone: 295-830-7918
+  ssn: 706551119
+  dob: 7/15/1988
+  address: 6108 Birch Blvd
+  city: Jacksonville
+  state: MD

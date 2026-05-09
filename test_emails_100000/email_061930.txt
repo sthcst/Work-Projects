@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Miller,pamela.miller9800@company.com,574 986 8722,947095424,03-10-2005,"889 South Rd",San Antonio,CA

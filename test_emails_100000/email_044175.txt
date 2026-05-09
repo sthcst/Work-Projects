@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Moore
+  email: kenneth.moore6116@mail.com
+  phone: (927) 292-2940
+  ssn: 339 14 8434
+  dob: 01-02-1951
+  address: 3216 Fifth Rd
+  city: New York
+  state: TX

@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Garcia
+  email: cynthia.garcia7120@business.net
+  phone: +1 738-676-2636
+  ssn: 827-13-7106
+  dob: 21/05/1974
+  address: 1950 Main Ave
+  city: Dallas
+  state: TX

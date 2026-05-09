@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Thomas,paul.thomas9995@gmail.com,981 564 6280,569 07 2406,4/18/1985,"466 First Ave",Washington,VA

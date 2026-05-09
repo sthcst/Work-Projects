@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Dominguez,jennifer.dominguez2363@outlook.com,(557) 999-6848,208-57-7976,02-28-1950,"3275 Cedar Court",Phoenix,WA

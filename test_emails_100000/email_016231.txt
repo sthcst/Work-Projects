@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Perez
+  email: anthony.perez2324@company.com
+  phone: +1 719-561-9069
+  ssn: 727 17 5259
+  dob: 08-08-1977
+  address: 9032 Third Rd
+  city: San Jose
+  state: NY

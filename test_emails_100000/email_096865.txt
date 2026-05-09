@@ -1,0 +1,9 @@
+contact:
+  name: Anna White
+  email: anna.white556@example.com
+  phone: (769) 581-5220
+  ssn: 458 04 7345
+  dob: 16/11/1988
+  address: 3609 Oak Ave
+  city: New York
+  state: NJ

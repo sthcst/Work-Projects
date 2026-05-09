@@ -1,0 +1,14 @@
+INVOICE 705617
+
+Bill To:
+Name: Matthew Guerrero
+Email: matthew.guerrero1253@example.com
+Phone: +1 671-763-1473
+SSN: 633-51-1199
+
+Address: 1236 South Ave
+Philadelphia, MI
+
+Date of Birth: 12/28/1999
+
+Amount Due: $3230

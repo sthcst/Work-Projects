@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Ortiz,amanda.ortiz3850@gmail.com,+1 494-211-5860,531 08 9360,08-04-1975,"3540 Oak Court",Los Angeles,TX

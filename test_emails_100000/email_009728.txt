@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Jimenez,charles.jimenez1613@company.com,806-212-6804,385911258,5/14/1992,"9372 North Ave",Denver,MA

@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Guerrero
+  email: joseph.guerrero2071@work.org
+  phone: (424) 749-6866
+  ssn: 001-63-5651
+  dob: 07-16-1961
+  address: 7513 Second Ln
+  city: Phoenix
+  state: DC

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Moore",
+    "email": "jane.moore4294@mail.com",
+    "phone": "+1 675-732-4998",
+    "ssn": "407-43-4329",
+    "dob": "01-04-1955",
+    "address": "6117 North Ave",
+    "city": "Jacksonville",
+    "state": "VA"
+  }
+}

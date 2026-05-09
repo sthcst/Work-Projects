@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Cooper,samantha.cooper9386@mail.com,906-708-1571,887-27-5486,7/20/1982,"211 East St",San Diego,IL

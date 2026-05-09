@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Miller
+  email: rachel.miller9541@company.com
+  phone: 822-483-6408
+  ssn: 348304627
+  dob: 08/05/1975
+  address: 5462 Spring St
+  city: Denver
+  state: MI

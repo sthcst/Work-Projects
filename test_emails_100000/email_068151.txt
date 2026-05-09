@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Sanchez,steven.sanchez4570@business.net,621-299-6874,116 53 4009,01/10/1952,"8449 Fourth Blvd",Washington,PA

@@ -1,0 +1,9 @@
+contact:
+  name: Steven Ramirez
+  email: steven.ramirez324@example.com
+  phone: (533) 249-7127
+  ssn: 121-40-3275
+  dob: 19/07/1968
+  address: 5927 Second Ave
+  city: Denver
+  state: WA

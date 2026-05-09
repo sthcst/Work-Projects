@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Cooper",
+    "email": "joshua.cooper8015@business.net",
+    "phone": "219 933 3704",
+    "ssn": "042-95-6710",
+    "dob": "7/8/2004",
+    "address": "2936 Second Ln",
+    "city": "Phoenix",
+    "state": "WA"
+  }
+}

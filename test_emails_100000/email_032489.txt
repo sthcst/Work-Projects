@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Phillips
+  email: timothy.phillips9620@business.net
+  phone: (541) 370-5909
+  ssn: 800299828
+  dob: 04-01-1999
+  address: 7798 Maple Dr
+  city: Phoenix
+  state: MD

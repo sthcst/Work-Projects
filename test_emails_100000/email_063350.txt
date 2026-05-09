@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Wilson,brian.wilson9631@gmail.com,+1 837-647-9055,941 68 5845,5/6/1954,"4341 Oak Way",San Diego,WI

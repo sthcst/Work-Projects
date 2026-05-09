@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Hall",
+    "email": "angela.hall7390@gmail.com",
+    "phone": "659-661-9337",
+    "ssn": "550921566",
+    "dob": "26/05/1977",
+    "address": "3543 Fifth St",
+    "city": "San Jose",
+    "state": "DC"
+  }
+}

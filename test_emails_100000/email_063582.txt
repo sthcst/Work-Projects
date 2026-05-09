@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Carter
+  email: kimberly.carter3441@outlook.com
+  phone: 515-811-8389
+  ssn: 903-88-7215
+  dob: 09-12-1998
+  address: 4037 Oak St
+  city: San Jose
+  state: NY

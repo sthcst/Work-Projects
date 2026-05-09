@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Morris
+  email: pamela.morris3777@yahoo.com
+  phone: 268-652-6453
+  ssn: 019-66-7357
+  dob: 25/02/1966
+  address: 5704 Fifth Way
+  city: San Diego
+  state: MO

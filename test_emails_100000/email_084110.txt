@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Thompson",
+    "email": "steven.thompson6145@yahoo.com",
+    "phone": "534 397 1658",
+    "ssn": "866022959",
+    "dob": "7/28/1962",
+    "address": "4128 Fifth Blvd",
+    "city": "Jacksonville",
+    "state": "AZ"
+  }
+}

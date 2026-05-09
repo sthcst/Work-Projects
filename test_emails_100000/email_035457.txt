@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Edwards,emma.edwards7246@gmail.com,582 932 1506,883341720,7/11/2005,"2886 First Rd",Philadelphia,CA

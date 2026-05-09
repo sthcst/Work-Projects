@@ -1,0 +1,14 @@
+INVOICE 423015
+
+Bill To:
+Name: Maria Romero
+Email: maria.romero295@company.com
+Phone: +1 615-561-9544
+SSN: 192-46-1197
+
+Address: 5745 Maple Blvd
+San Jose, TX
+
+Date of Birth: 12/09/1984
+
+Amount Due: $7582

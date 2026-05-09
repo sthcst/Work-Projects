@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Thompson",
+    "email": "jane.thompson8426@gmail.com",
+    "phone": "718-556-4472",
+    "ssn": "883 38 2546",
+    "dob": "07-08-1960",
+    "address": "5560 Oak Rd",
+    "city": "Seattle",
+    "state": "MA"
+  }
+}

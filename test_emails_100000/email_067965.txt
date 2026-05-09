@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Delgado",
+    "email": "michelle.delgado5850@outlook.com",
+    "phone": "(215) 394-6330",
+    "ssn": "600 70 5509",
+    "dob": "11/22/1997",
+    "address": "8562 Oak Ave",
+    "city": "San Antonio",
+    "state": "MI"
+  }
+}

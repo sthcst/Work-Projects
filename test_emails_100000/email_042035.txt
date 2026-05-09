@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Harris,megan.harris7545@business.net,632 405 8212,770184449,10/11/1975,"6573 East Ln",Jacksonville,DC

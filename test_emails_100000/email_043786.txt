@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Nelson",
+    "email": "emily.nelson1244@company.com",
+    "phone": "992-556-2069",
+    "ssn": "446 88 5578",
+    "dob": "10-23-1972",
+    "address": "9871 East Court",
+    "city": "San Diego",
+    "state": "WA"
+  }
+}

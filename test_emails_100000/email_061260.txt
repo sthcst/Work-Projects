@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Evans",
+    "email": "rebecca.evans5789@example.com",
+    "phone": "758-853-2026",
+    "ssn": "265 93 7757",
+    "dob": "02/27/1962",
+    "address": "4883 West Ln",
+    "city": "Boston",
+    "state": "WA"
+  }
+}

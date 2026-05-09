@@ -1,0 +1,9 @@
+contact:
+  name: Michael Moore
+  email: michael.moore3306@business.net
+  phone: (895) 688-1221
+  ssn: 651-65-7767
+  dob: 12-27-1992
+  address: 7585 Main Court
+  city: New York
+  state: TX

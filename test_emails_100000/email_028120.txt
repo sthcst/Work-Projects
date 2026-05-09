@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Gomez",
+    "email": "paul.gomez805@gmail.com",
+    "phone": "+1 888-830-5805",
+    "ssn": "037-64-5522",
+    "dob": "06-05-1991",
+    "address": "2423 Third Rd",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

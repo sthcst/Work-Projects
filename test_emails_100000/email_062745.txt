@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Rogers,jacob.rogers9557@work.org,691-944-8670,943 35 2128,2/4/2000,"3167 Pine Blvd",Jacksonville,CA

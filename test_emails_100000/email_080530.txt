@@ -1,0 +1,9 @@
+contact:
+  name: James Sanchez
+  email: james.sanchez3095@business.net
+  phone: (874) 971-6873
+  ssn: 035-82-5677
+  dob: 19/04/1965
+  address: 5911 Main Blvd
+  city: Denver
+  state: CO

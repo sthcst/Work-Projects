@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Lewis
+  email: timothy.lewis4286@gmail.com
+  phone: 458 350 9473
+  ssn: 838-96-6048
+  dob: 11-11-1997
+  address: 1871 Sixth Ln
+  city: San Antonio
+  state: WI

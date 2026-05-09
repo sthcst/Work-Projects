@@ -1,0 +1,12 @@
+SUPPORT TICKET #35389
+
+Customer: Jessica Reed
+Email: jessica.reed515@example.com
+Phone: 413 477 1805
+Account: 020-66-7361
+
+Issue Description: Technical problem reported
+DOB on file: 9/20/1968
+Address: 773 Main Court, Chicago, CA
+
+Status: OPEN

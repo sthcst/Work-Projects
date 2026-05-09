@@ -1,0 +1,14 @@
+INVOICE 327943
+
+Bill To:
+Name: Katherine Campbell
+Email: katherine.campbell6185@example.com
+Phone: +1 911-485-4627
+SSN: 856753672
+
+Address: 8485 Elm Dr
+Phoenix, AZ
+
+Date of Birth: 05/25/1988
+
+Amount Due: $4858

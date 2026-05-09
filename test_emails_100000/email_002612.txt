@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Ramirez,robert.ramirez1321@mail.com,+1 781-881-8027,339-73-2699,11-08-1988,"4216 Sixth Dr",San Antonio,NY

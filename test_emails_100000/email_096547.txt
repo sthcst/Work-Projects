@@ -1,0 +1,14 @@
+INVOICE 925020
+
+Bill To:
+Name: Anthony Alvarado
+Email: anthony.alvarado9721@example.com
+Phone: 755-855-3561
+SSN: 127 71 9429
+
+Address: 3620 First Dr
+Phoenix, WA
+
+Date of Birth: 12-09-1958
+
+Amount Due: $6241

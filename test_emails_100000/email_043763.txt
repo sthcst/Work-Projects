@@ -1,0 +1,14 @@
+INVOICE 166664
+
+Bill To:
+Name: Maria Rodriguez
+Email: maria.rodriguez8333@company.com
+Phone: (620) 744-9865
+SSN: 331 29 8704
+
+Address: 467 Oak Rd
+San Diego, TX
+
+Date of Birth: 5/7/1987
+
+Amount Due: $890

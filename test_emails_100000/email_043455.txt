@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Morgan
+  email: kimberly.morgan6056@yahoo.com
+  phone: (466) 408-1883
+  ssn: 300-19-1634
+  dob: 10-02-1972
+  address: 5750 Maple St
+  city: Houston
+  state: AZ

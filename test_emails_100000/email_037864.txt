@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Hall
+  email: jennifer.hall7101@mail.com
+  phone: (609) 660-1587
+  ssn: 290-96-2807
+  dob: 9/20/1978
+  address: 5534 Birch Ln
+  city: Dallas
+  state: MD

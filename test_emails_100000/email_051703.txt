@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Reeves",
+    "email": "brian.reeves3911@yahoo.com",
+    "phone": "946-632-9537",
+    "ssn": "735-43-1984",
+    "dob": "22/08/1997",
+    "address": "2648 East Court",
+    "city": "Los Angeles",
+    "state": "PA"
+  }
+}

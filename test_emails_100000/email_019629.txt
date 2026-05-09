@@ -1,0 +1,9 @@
+contact:
+  name: Steven Lewis
+  email: steven.lewis6444@company.com
+  phone: +1 968-433-2423
+  ssn: 082 76 2645
+  dob: 4/7/1989
+  address: 4257 Third Dr
+  city: Jacksonville
+  state: OH

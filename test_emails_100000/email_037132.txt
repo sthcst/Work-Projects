@@ -1,0 +1,9 @@
+contact:
+  name: Maria Nelson
+  email: maria.nelson7407@example.com
+  phone: +1 690-556-4782
+  ssn: 666968690
+  dob: 07-17-1952
+  address: 7096 Birch Rd
+  city: Los Angeles
+  state: PA

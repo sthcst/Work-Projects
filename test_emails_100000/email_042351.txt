@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Alvarado
+  email: lisa.alvarado5632@company.com
+  phone: 834 488 7581
+  ssn: 237-02-9219
+  dob: 01-04-1966
+  address: 9700 Cedar Court
+  city: Philadelphia
+  state: NY

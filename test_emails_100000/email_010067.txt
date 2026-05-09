@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Flores
+  email: kimberly.flores8033@outlook.com
+  phone: 406 620 5706
+  ssn: 887 44 5194
+  dob: 08/21/1958
+  address: 5947 North Ave
+  city: Seattle
+  state: TX

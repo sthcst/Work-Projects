@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Dominguez,nicole.dominguez3592@work.org,+1 503-939-3946,512127431,10-10-1991,"2033 North Ln",New York,WA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Reed,daniel.reed9598@mail.com,506-398-4904,361582580,7/27/1994,"785 East Blvd",San Antonio,FL

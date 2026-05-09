@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Flores",
+    "email": "jane.flores7998@gmail.com",
+    "phone": "268-941-7337",
+    "ssn": "001-30-9002",
+    "dob": "4/8/1963",
+    "address": "1965 Third Ave",
+    "city": "Denver",
+    "state": "NJ"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Martinez",
+    "email": "donald.martinez593@gmail.com",
+    "phone": "(616) 661-3488",
+    "ssn": "175869735",
+    "dob": "08/13/1998",
+    "address": "4475 West St",
+    "city": "Jacksonville",
+    "state": "WA"
+  }
+}

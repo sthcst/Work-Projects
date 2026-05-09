@@ -1,0 +1,14 @@
+INVOICE 149171
+
+Bill To:
+Name: Samantha Jones
+Email: samantha.jones1446@mail.com
+Phone: 622 619 9992
+SSN: 031 14 3763
+
+Address: 1418 Elm Rd
+Philadelphia, MA
+
+Date of Birth: 11/10/1970
+
+Amount Due: $5314

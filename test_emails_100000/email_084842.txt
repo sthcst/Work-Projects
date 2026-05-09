@@ -1,0 +1,14 @@
+INVOICE 347664
+
+Bill To:
+Name: Nicholas Robinson
+Email: nicholas.robinson5457@outlook.com
+Phone: 551-679-7398
+SSN: 096601046
+
+Address: 9558 Birch St
+Washington, CA
+
+Date of Birth: 5/21/1989
+
+Amount Due: $9975

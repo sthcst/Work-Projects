@@ -1,0 +1,14 @@
+INVOICE 541153
+
+Bill To:
+Name: William Thomas
+Email: william.thomas9276@mail.com
+Phone: +1 427-339-4270
+SSN: 494 69 8988
+
+Address: 5883 West St
+Jacksonville, CO
+
+Date of Birth: 02/22/1964
+
+Amount Due: $9055

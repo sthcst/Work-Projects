@@ -1,0 +1,14 @@
+INVOICE 239546
+
+Bill To:
+Name: Cynthia Harris
+Email: cynthia.harris9587@company.com
+Phone: +1 582-436-5542
+SSN: 373-17-8119
+
+Address: 241 Maple Dr
+San Diego, CA
+
+Date of Birth: 01/09/2001
+
+Amount Due: $9889

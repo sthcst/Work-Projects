@@ -1,0 +1,9 @@
+contact:
+  name: Mark Gomez
+  email: mark.gomez790@gmail.com
+  phone: 428 971 5912
+  ssn: 913-61-6392
+  dob: 12-19-1965
+  address: 6481 Maple Way
+  city: Dallas
+  state: TX

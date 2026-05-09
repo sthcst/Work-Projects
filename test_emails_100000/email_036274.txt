@@ -1,0 +1,9 @@
+contact:
+  name: Maria Jackson
+  email: maria.jackson940@yahoo.com
+  phone: +1 244-947-7225
+  ssn: 695 68 7094
+  dob: 05/15/1958
+  address: 8203 Main Ave
+  city: Washington
+  state: DC

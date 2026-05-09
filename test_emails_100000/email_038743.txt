@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Guerrero",
+    "email": "ashley.guerrero7437@mail.com",
+    "phone": "(991) 581-1464",
+    "ssn": "269 72 1274",
+    "dob": "06/04/1981",
+    "address": "7637 East Rd",
+    "city": "Dallas",
+    "state": "MO"
+  }
+}

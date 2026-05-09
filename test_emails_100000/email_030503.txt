@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Stewart",
+    "email": "angela.stewart9362@mail.com",
+    "phone": "(445) 525-3423",
+    "ssn": "336 76 6269",
+    "dob": "11/1/1971",
+    "address": "3503 East Rd",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

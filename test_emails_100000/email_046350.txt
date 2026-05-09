@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Moore,john.moore9855@yahoo.com,(276) 614-8821,217077152,06/16/2000,"5979 Oak Ave",Philadelphia,MO

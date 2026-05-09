@@ -1,0 +1,14 @@
+INVOICE 760001
+
+Bill To:
+Name: Michelle Brown
+Email: michelle.brown8558@outlook.com
+Phone: 373 606 5923
+SSN: 084216505
+
+Address: 9541 Main Rd
+Seattle, TX
+
+Date of Birth: 07-02-1963
+
+Amount Due: $1109

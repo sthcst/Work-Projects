@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Rodriguez
+  email: michelle.rodriguez1625@gmail.com
+  phone: +1 858-289-6314
+  ssn: 313-02-3777
+  dob: 10/22/1993
+  address: 4751 West Way
+  city: Philadelphia
+  state: OH

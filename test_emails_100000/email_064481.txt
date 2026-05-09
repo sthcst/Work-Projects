@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Wilson",
+    "email": "nicole.wilson7109@example.com",
+    "phone": "310 309 6996",
+    "ssn": "951488806",
+    "dob": "25/04/1997",
+    "address": "4524 Birch Rd",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Campbell
+  email: christopher.campbell2537@outlook.com
+  phone: +1 927-871-3551
+  ssn: 506 21 2671
+  dob: 7/3/1960
+  address: 20 Cedar Court
+  city: San Diego
+  state: VA

@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Young
+  email: daniel.young5502@outlook.com
+  phone: 674 324 3069
+  ssn: 817488292
+  dob: 11/20/1977
+  address: 3837 Main St
+  city: New York
+  state: MI

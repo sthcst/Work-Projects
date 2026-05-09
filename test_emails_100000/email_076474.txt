@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Ortiz",
+    "email": "maria.ortiz2837@example.com",
+    "phone": "270 393 5020",
+    "ssn": "269 44 8528",
+    "dob": "09/08/1968",
+    "address": "576 Birch Ln",
+    "city": "Dallas",
+    "state": "AZ"
+  }
+}

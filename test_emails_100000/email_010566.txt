@@ -1,0 +1,9 @@
+contact:
+  name: Megan Smith
+  email: megan.smith7372@outlook.com
+  phone: 631 767 8089
+  ssn: 926-07-8047
+  dob: 12-11-1957
+  address: 5460 Birch Dr
+  city: San Antonio
+  state: TN

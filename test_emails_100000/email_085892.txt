@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Taylor
+  email: stephanie.taylor3818@business.net
+  phone: +1 574-705-7098
+  ssn: 659343521
+  dob: 01/15/1969
+  address: 7225 West Blvd
+  city: Seattle
+  state: MI

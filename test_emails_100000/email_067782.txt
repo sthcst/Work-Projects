@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Robinson
+  email: katherine.robinson2747@work.org
+  phone: 562 371 2758
+  ssn: 997-77-5485
+  dob: 5/6/1952
+  address: 3968 Oak Rd
+  city: Dallas
+  state: NY

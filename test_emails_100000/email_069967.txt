@@ -1,0 +1,14 @@
+INVOICE 320144
+
+Bill To:
+Name: John Clark
+Email: john.clark7528@business.net
+Phone: 936 675 5260
+SSN: 912093437
+
+Address: 2738 Maple Ave
+Seattle, TX
+
+Date of Birth: 02/13/2002
+
+Amount Due: $5906

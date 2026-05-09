@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Serrano
+  email: ronald.serrano6768@work.org
+  phone: 325-920-4130
+  ssn: 542887812
+  dob: 26/11/1980
+  address: 5707 East St
+  city: San Jose
+  state: MA

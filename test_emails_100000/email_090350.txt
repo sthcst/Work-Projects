@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Jackson",
+    "email": "robert.jackson499@example.com",
+    "phone": "924 232 9415",
+    "ssn": "774-34-5037",
+    "dob": "1/27/2000",
+    "address": "2329 Birch Ln",
+    "city": "Los Angeles",
+    "state": "WA"
+  }
+}

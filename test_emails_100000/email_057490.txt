@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Walker",
+    "email": "kevin.walker1925@yahoo.com",
+    "phone": "(672) 327-8959",
+    "ssn": "620 83 5972",
+    "dob": "04/11/1977",
+    "address": "9684 West Dr",
+    "city": "San Diego",
+    "state": "NY"
+  }
+}

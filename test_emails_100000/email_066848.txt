@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Lewis
+  email: ronald.lewis4467@mail.com
+  phone: 868 582 4464
+  ssn: 152-93-2151
+  dob: 09/08/1955
+  address: 8820 Fourth Ave
+  city: Phoenix
+  state: TX

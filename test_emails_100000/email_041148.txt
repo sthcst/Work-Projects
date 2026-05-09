@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Hernandez,angela.hernandez1842@work.org,+1 727-794-9430,847092925,05/19/1974,"1401 Second Ave",New York,WA

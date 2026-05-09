@@ -1,0 +1,9 @@
+contact:
+  name: Angela Collins
+  email: angela.collins5729@company.com
+  phone: 951 336 5374
+  ssn: 007 41 3424
+  dob: 6/15/1963
+  address: 8661 Pine Dr
+  city: Phoenix
+  state: NJ

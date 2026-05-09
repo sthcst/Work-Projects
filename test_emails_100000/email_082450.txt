@@ -1,0 +1,14 @@
+INVOICE 337053
+
+Bill To:
+Name: John Harris
+Email: john.harris6809@example.com
+Phone: 904-425-5431
+SSN: 150-13-5673
+
+Address: 7361 East Way
+Washington, FL
+
+Date of Birth: 9/19/1977
+
+Amount Due: $534

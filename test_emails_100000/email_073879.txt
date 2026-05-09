@@ -1,0 +1,9 @@
+contact:
+  name: James Parker
+  email: james.parker9861@work.org
+  phone: 858 458 1387
+  ssn: 642 96 9675
+  dob: 13/08/1958
+  address: 5806 Summer Way
+  city: New York
+  state: WI

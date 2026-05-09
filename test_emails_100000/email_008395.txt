@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Stewart,ronald.stewart1110@example.com,+1 543-349-4848,216 42 8003,09/26/1987,"3490 Oak Dr",Boston,CA

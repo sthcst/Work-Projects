@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Smith",
+    "email": "maria.smith9148@work.org",
+    "phone": "225 812 8872",
+    "ssn": "916875720",
+    "dob": "07-02-1983",
+    "address": "1556 Oak Rd",
+    "city": "Dallas",
+    "state": "WA"
+  }
+}

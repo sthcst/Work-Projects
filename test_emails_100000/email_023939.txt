@@ -1,0 +1,14 @@
+INVOICE 970904
+
+Bill To:
+Name: Steven Davis
+Email: steven.davis3827@example.com
+Phone: +1 456-271-8000
+SSN: 318 16 6458
+
+Address: 5858 Spring Blvd
+Philadelphia, OH
+
+Date of Birth: 28/10/1970
+
+Amount Due: $9814

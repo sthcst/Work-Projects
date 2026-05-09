@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Harris,donald.harris6306@company.com,236-978-2650,424263552,8/21/1951,"8556 Fifth St",Seattle,GA

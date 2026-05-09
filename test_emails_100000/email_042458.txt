@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Brown
+  email: joseph.brown3288@yahoo.com
+  phone: +1 869-571-9315
+  ssn: 789-26-5157
+  dob: 12/23/1980
+  address: 9619 Second Way
+  city: New York
+  state: CO

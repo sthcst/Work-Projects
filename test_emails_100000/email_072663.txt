@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Brown",
+    "email": "stephanie.brown5376@mail.com",
+    "phone": "809 827 6562",
+    "ssn": "644-99-6886",
+    "dob": "12/05/2004",
+    "address": "9158 Third Court",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Walker,deborah.walker2762@work.org,852 576 2418,820-73-1890,8/5/2001,"5300 Pine Ave",Seattle,MO

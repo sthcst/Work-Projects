@@ -1,0 +1,9 @@
+contact:
+  name: Donald Gomez
+  email: donald.gomez3579@gmail.com
+  phone: 783-964-3836
+  ssn: 106-31-7113
+  dob: 12/17/1983
+  address: 9319 Birch Dr
+  city: Washington
+  state: DC

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Carter,steven.carter9603@work.org,471-570-1052,091 73 6009,12-23-1989,"6979 First Blvd",Los Angeles,GA

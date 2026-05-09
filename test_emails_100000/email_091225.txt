@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Gomez
+  email: cynthia.gomez9510@mail.com
+  phone: 409-370-8979
+  ssn: 765 98 4962
+  dob: 08-08-1995
+  address: 1434 West Rd
+  city: Philadelphia
+  state: MI

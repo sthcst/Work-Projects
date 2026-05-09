@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Brown",
+    "email": "donald.brown6100@mail.com",
+    "phone": "+1 412-669-2612",
+    "ssn": "201 70 9597",
+    "dob": "12/10/2002",
+    "address": "2727 Maple Ln",
+    "city": "San Jose",
+    "state": "NJ"
+  }
+}

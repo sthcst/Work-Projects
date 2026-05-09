@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Hall,paul.hall6033@gmail.com,627-846-8310,605-82-8140,05-27-1992,"9082 South Ave",San Diego,PA

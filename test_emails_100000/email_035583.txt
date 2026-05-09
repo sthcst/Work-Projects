@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Smith,mark.smith2353@outlook.com,802 829 3128,387 48 9320,5/11/1981,"3282 North St",Boston,OH

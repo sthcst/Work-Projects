@@ -1,0 +1,9 @@
+contact:
+  name: Paul Morris
+  email: paul.morris7986@example.com
+  phone: 414 294 2586
+  ssn: 151-12-6249
+  dob: 06-22-1968
+  address: 4062 Oak Ave
+  city: Boston
+  state: TX

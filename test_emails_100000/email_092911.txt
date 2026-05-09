@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Reed",
+    "email": "edward.reed6829@example.com",
+    "phone": "900-933-2435",
+    "ssn": "738-93-5427",
+    "dob": "12/18/1959",
+    "address": "9609 Fifth Blvd",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

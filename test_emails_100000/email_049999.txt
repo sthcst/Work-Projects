@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Delgado",
+    "email": "kenneth.delgado7071@yahoo.com",
+    "phone": "(744) 901-9229",
+    "ssn": "298-28-9343",
+    "dob": "3/3/1994",
+    "address": "8405 Fourth Ln",
+    "city": "Philadelphia",
+    "state": "GA"
+  }
+}

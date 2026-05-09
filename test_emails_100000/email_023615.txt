@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Jimenez,jeffrey.jimenez7888@example.com,+1 816-937-7896,706-94-2102,22/08/2001,"3589 West Ave",Dallas,NJ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Lopez,richard.lopez9063@outlook.com,(885) 864-6935,606 26 1507,17/02/1995,"7291 Birch St",San Antonio,TX

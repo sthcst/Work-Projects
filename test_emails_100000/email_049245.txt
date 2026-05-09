@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Ramirez,joshua.ramirez270@example.com,758-743-9362,757-85-9308,02/03/1991,"5644 Spring Dr",Washington,TX

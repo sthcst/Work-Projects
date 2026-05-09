@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Garcia",
+    "email": "lisa.garcia8332@yahoo.com",
+    "phone": "715-331-7856",
+    "ssn": "322155021",
+    "dob": "09/12/1956",
+    "address": "1612 Sixth St",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

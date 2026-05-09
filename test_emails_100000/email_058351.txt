@@ -1,0 +1,9 @@
+contact:
+  name: Mark Sanchez
+  email: mark.sanchez6924@work.org
+  phone: 884-487-3751
+  ssn: 555261960
+  dob: 3/25/1990
+  address: 8918 Elm Ave
+  city: Seattle
+  state: WA

@@ -1,0 +1,9 @@
+contact:
+  name: John Flores
+  email: john.flores40@example.com
+  phone: 760 395 1498
+  ssn: 470-85-4385
+  dob: 10/11/2001
+  address: 9507 Third Dr
+  city: Chicago
+  state: WA

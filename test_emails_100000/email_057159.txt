@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Walker,george.walker7298@work.org,593 338 7977,314138629,04/22/1950,"7292 East Way",Jacksonville,FL

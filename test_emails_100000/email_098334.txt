@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Rogers
+  email: katherine.rogers9276@example.com
+  phone: +1 656-954-3736
+  ssn: 660 21 3232
+  dob: 07/15/1976
+  address: 6855 Spring Way
+  city: Seattle
+  state: MA

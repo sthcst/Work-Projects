@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Parker
+  email: kimberly.parker9331@outlook.com
+  phone: 526 565 4817
+  ssn: 626-64-5195
+  dob: 04-28-1951
+  address: 4630 Third Ave
+  city: Austin
+  state: CA

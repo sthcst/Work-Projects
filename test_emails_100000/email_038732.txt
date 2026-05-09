@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Thompson",
+    "email": "joshua.thompson9216@outlook.com",
+    "phone": "+1 458-975-6083",
+    "ssn": "749-24-9126",
+    "dob": "03-08-1967",
+    "address": "833 North St",
+    "city": "Jacksonville",
+    "state": "AZ"
+  }
+}

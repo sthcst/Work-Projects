@@ -1,0 +1,9 @@
+contact:
+  name: Charles Wilson
+  email: charles.wilson8877@yahoo.com
+  phone: (838) 883-8303
+  ssn: 673523005
+  dob: 09/23/2001
+  address: 6352 Oak Court
+  city: Austin
+  state: CA

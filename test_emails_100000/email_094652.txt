@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Morgan,angela.morgan3491@example.com,637-615-8748,391-24-7955,12/21/2003,"2553 Cedar St",Houston,MI

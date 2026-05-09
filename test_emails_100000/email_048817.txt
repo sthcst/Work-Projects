@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Nelson
+  email: ashley.nelson6556@yahoo.com
+  phone: 312-782-6105
+  ssn: 125731508
+  dob: 02/01/1965
+  address: 4024 Fourth St
+  city: Phoenix
+  state: VA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Moore,stephanie.moore1297@company.com,+1 597-758-3766,924973224,05/24/1989,"9931 First Ln",Seattle,MA

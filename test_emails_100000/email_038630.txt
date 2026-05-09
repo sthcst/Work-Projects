@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Brown",
+    "email": "lauren.brown1730@work.org",
+    "phone": "(893) 529-9690",
+    "ssn": "206961766",
+    "dob": "5/13/1998",
+    "address": "7308 Sixth Way",
+    "city": "Washington",
+    "state": "OH"
+  }
+}

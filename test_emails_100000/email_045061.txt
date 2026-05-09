@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Phillips,megan.phillips5497@example.com,611-693-1337,751793746,21/09/1971,"7020 Summer Court",Austin,PA

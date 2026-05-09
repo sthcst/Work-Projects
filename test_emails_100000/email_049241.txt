@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Phillips,kenneth.phillips3434@work.org,(487) 350-7635,092 84 3890,06/18/1958,"1317 Second Ave",Boston,TN

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Thompson",
+    "email": "kimberly.thompson9904@mail.com",
+    "phone": "933 576 2142",
+    "ssn": "788-47-6518",
+    "dob": "12/28/1964",
+    "address": "6073 Fifth Ave",
+    "city": "New York",
+    "state": "NY"
+  }
+}

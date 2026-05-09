@@ -1,0 +1,14 @@
+INVOICE 228027
+
+Bill To:
+Name: Jessica Garcia
+Email: jessica.garcia6525@yahoo.com
+Phone: 559-998-9688
+SSN: 223647412
+
+Address: 9785 Summer Court
+Phoenix, WA
+
+Date of Birth: 10/23/2003
+
+Amount Due: $1508

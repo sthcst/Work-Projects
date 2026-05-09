@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Johnson,james.johnson7181@mail.com,878-983-9686,797043136,01/10/1977,"7201 Fifth Ln",Boston,TX

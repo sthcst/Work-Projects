@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Ramirez",
+    "email": "anthony.ramirez1687@business.net",
+    "phone": "(899) 969-4089",
+    "ssn": "919053266",
+    "dob": "11/28/1969",
+    "address": "4483 Pine Way",
+    "city": "Phoenix",
+    "state": "MI"
+  }
+}

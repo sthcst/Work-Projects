@@ -1,0 +1,14 @@
+INVOICE 712200
+
+Bill To:
+Name: Gary Johnson
+Email: gary.johnson7549@yahoo.com
+Phone: 401 702 1913
+SSN: 109-77-7706
+
+Address: 734 Maple Blvd
+San Antonio, MO
+
+Date of Birth: 03-24-1982
+
+Amount Due: $345

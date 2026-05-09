@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Anderson
+  email: joseph.anderson2999@gmail.com
+  phone: (976) 547-3310
+  ssn: 996-23-2361
+  dob: 1/11/1974
+  address: 381 North Dr
+  city: Chicago
+  state: MO

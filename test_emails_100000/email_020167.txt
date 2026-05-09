@@ -1,0 +1,14 @@
+INVOICE 263850
+
+Bill To:
+Name: Nicholas Roberts
+Email: nicholas.roberts5539@example.com
+Phone: 765-690-5028
+SSN: 634-24-6655
+
+Address: 7219 First Dr
+Seattle, TX
+
+Date of Birth: 14/12/2005
+
+Amount Due: $1353

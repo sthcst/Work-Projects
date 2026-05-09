@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Martin
+  email: cynthia.martin8290@outlook.com
+  phone: (345) 751-3135
+  ssn: 858-56-6470
+  dob: 6/8/1996
+  address: 1527 Cedar Rd
+  city: San Jose
+  state: CA

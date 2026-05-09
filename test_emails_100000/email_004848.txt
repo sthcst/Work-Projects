@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Rogers",
+    "email": "brian.rogers6847@company.com",
+    "phone": "418-555-2066",
+    "ssn": "616-09-4773",
+    "dob": "04-13-2004",
+    "address": "2812 Oak Court",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

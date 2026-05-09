@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Murillo",
+    "email": "david.murillo2637@company.com",
+    "phone": "669-620-9951",
+    "ssn": "612966665",
+    "dob": "25/04/1974",
+    "address": "1214 Fifth Blvd",
+    "city": "Los Angeles",
+    "state": "OH"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Smith
+  email: rachel.smith4236@yahoo.com
+  phone: (569) 230-9779
+  ssn: 653576484
+  dob: 12-26-1981
+  address: 8506 Oak Dr
+  city: San Diego
+  state: IL

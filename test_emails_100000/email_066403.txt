@@ -1,0 +1,9 @@
+contact:
+  name: Jane Lee
+  email: jane.lee5391@yahoo.com
+  phone: 326 431 9127
+  ssn: 808-51-8739
+  dob: 10/08/1950
+  address: 9292 Fifth Blvd
+  city: Jacksonville
+  state: DC

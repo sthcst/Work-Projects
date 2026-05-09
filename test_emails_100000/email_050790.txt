@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Roberts",
+    "email": "pamela.roberts4329@work.org",
+    "phone": "(831) 446-5491",
+    "ssn": "443 45 1419",
+    "dob": "08/01/1979",
+    "address": "2946 Maple Dr",
+    "city": "San Jose",
+    "state": "PA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Richard Young
+  email: richard.young6464@business.net
+  phone: 874-676-7096
+  ssn: 581 49 2513
+  dob: 03/23/1969
+  address: 476 Sixth Ln
+  city: Jacksonville
+  state: MD

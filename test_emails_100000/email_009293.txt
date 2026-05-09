@@ -1,0 +1,9 @@
+contact:
+  name: Steven Carter
+  email: steven.carter1215@yahoo.com
+  phone: 551-789-4574
+  ssn: 136694715
+  dob: 27/06/1970
+  address: 7307 Fifth Ln
+  city: Washington
+  state: WA

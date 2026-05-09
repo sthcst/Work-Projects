@@ -1,0 +1,14 @@
+INVOICE 608401
+
+Bill To:
+Name: Richard Lee
+Email: richard.lee88@company.com
+Phone: 881-701-3492
+SSN: 368 80 9273
+
+Address: 1637 Main Dr
+Los Angeles, TX
+
+Date of Birth: 07/12/1972
+
+Amount Due: $6164

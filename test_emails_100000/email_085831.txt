@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Ramirez",
+    "email": "helen.ramirez564@outlook.com",
+    "phone": "(495) 560-4750",
+    "ssn": "009964069",
+    "dob": "11-06-1961",
+    "address": "8155 Third Way",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

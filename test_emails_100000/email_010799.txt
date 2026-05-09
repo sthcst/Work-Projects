@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Reyes",
+    "email": "charles.reyes3243@work.org",
+    "phone": "516 418 4275",
+    "ssn": "205-45-7269",
+    "dob": "05/08/1978",
+    "address": "1429 Main Court",
+    "city": "Dallas",
+    "state": "IL"
+  }
+}

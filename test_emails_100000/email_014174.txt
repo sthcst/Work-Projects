@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Nelson",
+    "email": "brenda.nelson477@yahoo.com",
+    "phone": "+1 778-695-9404",
+    "ssn": "233 36 9510",
+    "dob": "11/23/1996",
+    "address": "1599 Fourth Dr",
+    "city": "Chicago",
+    "state": "PA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Williams",
+    "email": "george.williams4284@example.com",
+    "phone": "(281) 537-8937",
+    "ssn": "214223882",
+    "dob": "01-20-1999",
+    "address": "7596 Maple Ave",
+    "city": "San Antonio",
+    "state": "NJ"
+  }
+}

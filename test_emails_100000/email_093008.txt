@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Morris",
+    "email": "paul.morris9880@yahoo.com",
+    "phone": "+1 362-912-7352",
+    "ssn": "920569441",
+    "dob": "10/7/1970",
+    "address": "3337 Cedar Blvd",
+    "city": "Houston",
+    "state": "OH"
+  }
+}

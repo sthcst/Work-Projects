@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Morris
+  email: stephanie.morris7826@company.com
+  phone: 717-717-8091
+  ssn: 182274914
+  dob: 06-23-1998
+  address: 9341 Sixth Ave
+  city: Denver
+  state: AZ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Johnson,angela.johnson6998@outlook.com,720-944-1546,073-94-8724,01/05/1973,"7791 Third Ln",Phoenix,WI

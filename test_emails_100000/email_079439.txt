@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Sanchez,kenneth.sanchez3156@work.org,252-270-2298,606 15 2034,12/25/1983,"3660 North Ave",Los Angeles,CO

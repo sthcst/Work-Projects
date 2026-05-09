@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Flores,joshua.flores3227@company.com,+1 752-763-9359,366-94-7711,04/03/1987,"1947 Spring Ln",San Jose,IL

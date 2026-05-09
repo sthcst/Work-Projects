@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Rodriguez",
+    "email": "charles.rodriguez8138@gmail.com",
+    "phone": "480 765 8909",
+    "ssn": "190-19-9096",
+    "dob": "3/3/1986",
+    "address": "9288 Sixth Court",
+    "city": "Washington",
+    "state": "WA"
+  }
+}

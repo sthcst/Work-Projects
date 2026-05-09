@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Cooper",
+    "email": "timothy.cooper5362@example.com",
+    "phone": "(457) 600-7549",
+    "ssn": "160577736",
+    "dob": "12-10-1959",
+    "address": "9781 West Rd",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

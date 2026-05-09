@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Dominguez
+  email: kathleen.dominguez4551@yahoo.com
+  phone: +1 897-356-8272
+  ssn: 463-51-6803
+  dob: 01/03/1959
+  address: 6344 Birch St
+  city: Los Angeles
+  state: TX

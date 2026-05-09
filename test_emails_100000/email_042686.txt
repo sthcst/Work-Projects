@@ -1,0 +1,9 @@
+contact:
+  name: Charles Hernandez
+  email: charles.hernandez8434@example.com
+  phone: 775-956-8135
+  ssn: 545 21 1814
+  dob: 3/4/2001
+  address: 6241 South Dr
+  city: Jacksonville
+  state: TX

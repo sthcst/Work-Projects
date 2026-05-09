@@ -1,0 +1,9 @@
+contact:
+  name: Helen Harris
+  email: helen.harris2493@work.org
+  phone: 826-696-8857
+  ssn: 646-90-6386
+  dob: 11-10-1992
+  address: 3217 Main Rd
+  city: Seattle
+  state: CA

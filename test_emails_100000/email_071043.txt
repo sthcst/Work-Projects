@@ -1,0 +1,14 @@
+INVOICE 131948
+
+Bill To:
+Name: Charles Brown
+Email: charles.brown5394@yahoo.com
+Phone: (998) 290-8612
+SSN: 817 67 6575
+
+Address: 6987 Fifth Ln
+Seattle, CA
+
+Date of Birth: 14/02/1958
+
+Amount Due: $9178

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Collins",
+    "email": "katherine.collins2851@gmail.com",
+    "phone": "(594) 589-1672",
+    "ssn": "880 18 9946",
+    "dob": "04/16/1986",
+    "address": "8602 Third Court",
+    "city": "Chicago",
+    "state": "MA"
+  }
+}

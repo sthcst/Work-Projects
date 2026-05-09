@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Campbell",
+    "email": "kathleen.campbell3881@gmail.com",
+    "phone": "+1 818-366-5471",
+    "ssn": "942952537",
+    "dob": "11/06/1968",
+    "address": "7067 Oak Dr",
+    "city": "Los Angeles",
+    "state": "OH"
+  }
+}

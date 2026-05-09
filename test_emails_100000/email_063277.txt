@@ -1,0 +1,12 @@
+SUPPORT TICKET #24886
+
+Customer: Kevin Campbell
+Email: kevin.campbell8275@example.com
+Phone: 436-245-1600
+Account: 352241441
+
+Issue Description: Technical problem reported
+DOB on file: 12/07/1950
+Address: 6396 Spring Way, Philadelphia, MO
+
+Status: OPEN

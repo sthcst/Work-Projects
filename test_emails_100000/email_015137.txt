@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Sanchez
+  email: andrew.sanchez3534@gmail.com
+  phone: +1 600-402-4615
+  ssn: 331-14-9850
+  dob: 01/09/1965
+  address: 9337 South Way
+  city: New York
+  state: MA

@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Campbell
+  email: andrew.campbell6175@gmail.com
+  phone: 388-746-2266
+  ssn: 675753413
+  dob: 09/02/1994
+  address: 4725 Sixth Rd
+  city: Boston
+  state: NJ

@@ -1,0 +1,9 @@
+contact:
+  name: Anna Rogers
+  email: anna.rogers3773@example.com
+  phone: 720-626-3507
+  ssn: 784 54 2613
+  dob: 08/14/1968
+  address: 7452 Park Dr
+  city: Dallas
+  state: VA

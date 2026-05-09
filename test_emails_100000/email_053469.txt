@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Parker",
+    "email": "jeffrey.parker8982@yahoo.com",
+    "phone": "280-874-9181",
+    "ssn": "013 59 8449",
+    "dob": "11/6/1985",
+    "address": "8338 Second Way",
+    "city": "Phoenix",
+    "state": "WI"
+  }
+}

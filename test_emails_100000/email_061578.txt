@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Bell",
+    "email": "brenda.bell3373@mail.com",
+    "phone": "(824) 729-7756",
+    "ssn": "161-54-8472",
+    "dob": "12/22/1999",
+    "address": "6894 Fifth Rd",
+    "city": "Philadelphia",
+    "state": "PA"
+  }
+}

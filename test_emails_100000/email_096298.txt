@@ -1,0 +1,14 @@
+INVOICE 361452
+
+Bill To:
+Name: Joseph Perez
+Email: joseph.perez92@mail.com
+Phone: 707-316-8009
+SSN: 240 83 7294
+
+Address: 6976 Pine Way
+Washington, WI
+
+Date of Birth: 10-15-1993
+
+Amount Due: $4062

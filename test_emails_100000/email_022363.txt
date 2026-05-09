@@ -1,0 +1,14 @@
+INVOICE 788307
+
+Bill To:
+Name: Nicholas Peterson
+Email: nicholas.peterson7772@business.net
+Phone: 840-406-6421
+SSN: 334348583
+
+Address: 5111 East St
+Los Angeles, DC
+
+Date of Birth: 01/17/2000
+
+Amount Due: $8889

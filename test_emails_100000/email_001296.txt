@@ -1,0 +1,14 @@
+INVOICE 425912
+
+Bill To:
+Name: Brian Smith
+Email: brian.smith9467@work.org
+Phone: (345) 737-6325
+SSN: 936703316
+
+Address: 5843 North Ave
+San Antonio, OH
+
+Date of Birth: 06-18-1971
+
+Amount Due: $8609

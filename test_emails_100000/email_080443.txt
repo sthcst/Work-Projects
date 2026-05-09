@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Thompson
+  email: kathleen.thompson7492@mail.com
+  phone: (801) 616-3227
+  ssn: 100 47 9487
+  dob: 14/12/1957
+  address: 9867 Cedar Blvd
+  city: Washington
+  state: MD

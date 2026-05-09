@@ -1,0 +1,9 @@
+contact:
+  name: Angela Stewart
+  email: angela.stewart530@company.com
+  phone: 502 354 3269
+  ssn: 927788172
+  dob: 03-04-1991
+  address: 4393 North St
+  city: San Diego
+  state: TX

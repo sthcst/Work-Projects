@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Serrano,donald.serrano426@business.net,(428) 573-3686,084-03-5898,24/01/1954,"5938 Birch Court",New York,DC

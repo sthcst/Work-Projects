@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Parker,john.parker5109@work.org,714-569-7784,002-74-5503,07-15-1956,"8256 First Ln",Chicago,NY

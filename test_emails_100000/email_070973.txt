@@ -1,0 +1,14 @@
+INVOICE 530317
+
+Bill To:
+Name: Timothy Miller
+Email: timothy.miller1920@company.com
+Phone: (664) 719-7266
+SSN: 761496620
+
+Address: 3703 First Dr
+Philadelphia, IL
+
+Date of Birth: 7/13/1990
+
+Amount Due: $5541

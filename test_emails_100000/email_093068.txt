@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Rodriguez",
+    "email": "helen.rodriguez4952@outlook.com",
+    "phone": "(797) 904-5491",
+    "ssn": "189 97 1061",
+    "dob": "04/02/1977",
+    "address": "3216 First St",
+    "city": "San Diego",
+    "state": "AZ"
+  }
+}

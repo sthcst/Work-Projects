@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Campbell",
+    "email": "paul.campbell1715@yahoo.com",
+    "phone": "827-419-1984",
+    "ssn": "976 49 2149",
+    "dob": "11-14-1961",
+    "address": "1901 Second Ave",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

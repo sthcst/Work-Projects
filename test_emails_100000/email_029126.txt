@@ -1,0 +1,9 @@
+contact:
+  name: Emma Roberts
+  email: emma.roberts72@mail.com
+  phone: +1 750-872-3654
+  ssn: 187441863
+  dob: 02/26/2005
+  address: 4879 Birch Ave
+  city: San Jose
+  state: MD

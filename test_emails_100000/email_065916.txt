@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Stewart,brian.stewart8924@mail.com,(307) 975-9371,448-32-1866,3/5/1968,"9418 Elm St",Chicago,CA

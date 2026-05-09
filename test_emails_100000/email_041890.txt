@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen White,kathleen.white9970@mail.com,+1 662-238-1807,300108527,06-28-1969,"1195 Cedar Dr",Phoenix,FL

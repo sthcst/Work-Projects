@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Evans,rachel.evans7707@outlook.com,+1 867-563-3978,750-34-1309,08/08/1966,"3397 Cedar Blvd",Dallas,AZ

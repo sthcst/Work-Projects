@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Walker,rebecca.walker7666@business.net,638-229-1296,555 14 3966,01/05/1973,"4979 First Court",Boston,CA

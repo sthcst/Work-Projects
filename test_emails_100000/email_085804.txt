@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Clark",
+    "email": "michelle.clark6139@gmail.com",
+    "phone": "413-941-8967",
+    "ssn": "190-17-6232",
+    "dob": "10-14-1984",
+    "address": "7985 Second Rd",
+    "city": "Austin",
+    "state": "VA"
+  }
+}

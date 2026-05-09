@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Delgado,rebecca.delgado8569@work.org,510 484 8220,300 72 3344,4/27/1958,"6241 Oak Blvd",Los Angeles,NY

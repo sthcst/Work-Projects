@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Martinez
+  email: joseph.martinez2723@example.com
+  phone: 876 929 1755
+  ssn: 694 29 2910
+  dob: 03/18/1991
+  address: 2795 Spring St
+  city: New York
+  state: MA

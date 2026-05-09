@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Peterson
+  email: ryan.peterson6660@yahoo.com
+  phone: 718-320-5883
+  ssn: 718 27 3330
+  dob: 1/20/1985
+  address: 1923 Third Way
+  city: Washington
+  state: OH

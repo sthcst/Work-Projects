@@ -1,0 +1,9 @@
+contact:
+  name: Helen Gomez
+  email: helen.gomez5385@business.net
+  phone: +1 573-999-2680
+  ssn: 393817951
+  dob: 16/01/1962
+  address: 5161 Main Dr
+  city: Denver
+  state: AZ

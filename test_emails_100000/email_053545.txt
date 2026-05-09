@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Edwards",
+    "email": "nicole.edwards183@work.org",
+    "phone": "904 993 8382",
+    "ssn": "499672417",
+    "dob": "01-25-1979",
+    "address": "1940 Summer Ave",
+    "city": "San Jose",
+    "state": "NY"
+  }
+}

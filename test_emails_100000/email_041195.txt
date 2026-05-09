@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Jones,james.jones8403@gmail.com,667 346 5875,564-02-5071,08-20-1958,"2083 Oak Court",Dallas,DC

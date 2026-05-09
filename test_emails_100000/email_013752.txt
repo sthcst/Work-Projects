@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Dominguez",
+    "email": "jennifer.dominguez150@business.net",
+    "phone": "976-782-4956",
+    "ssn": "787-96-2487",
+    "dob": "03/11/1996",
+    "address": "2497 Fourth Rd",
+    "city": "Philadelphia",
+    "state": "MO"
+  }
+}

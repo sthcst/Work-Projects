@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Rogers,christopher.rogers6798@company.com,866-537-7965,711032284,06-18-1987,"1761 Fourth St",Dallas,FL

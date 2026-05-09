@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Ramirez,ashley.ramirez1840@work.org,903-330-8482,092956593,25/06/1993,"5036 Summer Dr",Seattle,WA

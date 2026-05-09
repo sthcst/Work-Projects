@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Serrano,jason.serrano3079@outlook.com,(499) 235-6383,154 55 2126,03-13-1954,"4364 Maple Blvd",Houston,OH

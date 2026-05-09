@@ -1,0 +1,14 @@
+INVOICE 921900
+
+Bill To:
+Name: Kathleen Martinez
+Email: kathleen.martinez5008@outlook.com
+Phone: 604-506-5461
+SSN: 220-60-6450
+
+Address: 1590 Maple St
+Dallas, WA
+
+Date of Birth: 08/08/1962
+
+Amount Due: $8681

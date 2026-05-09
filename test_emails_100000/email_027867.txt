@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Clark",
+    "email": "amanda.clark9231@work.org",
+    "phone": "423 375 7414",
+    "ssn": "006045790",
+    "dob": "8/8/2002",
+    "address": "339 East St",
+    "city": "Houston",
+    "state": "CA"
+  }
+}

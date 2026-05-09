@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Hernandez,mark.hernandez4292@example.com,(719) 663-9564,118723789,06-21-1968,"5701 First Way",Philadelphia,NJ

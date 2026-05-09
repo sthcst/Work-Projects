@@ -1,0 +1,14 @@
+INVOICE 529000
+
+Bill To:
+Name: William Carter
+Email: william.carter1071@work.org
+Phone: 833 757 6623
+SSN: 766 74 4444
+
+Address: 5821 South Way
+Philadelphia, TN
+
+Date of Birth: 25/06/1989
+
+Amount Due: $1586

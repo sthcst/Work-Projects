@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Flores",
+    "email": "megan.flores6919@example.com",
+    "phone": "430 455 8259",
+    "ssn": "407-77-5625",
+    "dob": "08-13-1963",
+    "address": "8831 South St",
+    "city": "Austin",
+    "state": "AZ"
+  }
+}

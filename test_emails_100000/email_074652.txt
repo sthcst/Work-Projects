@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Davis",
+    "email": "kimberly.davis9144@mail.com",
+    "phone": "(710) 203-2670",
+    "ssn": "688 19 4718",
+    "dob": "3/18/1994",
+    "address": "1504 Spring St",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

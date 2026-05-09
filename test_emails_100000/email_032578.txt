@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Jackson,kathleen.jackson7984@company.com,(451) 269-3564,672-81-6815,7/14/1993,"7269 Second Ave",San Jose,WA

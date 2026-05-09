@@ -1,0 +1,9 @@
+contact:
+  name: Megan Taylor
+  email: megan.taylor1432@company.com
+  phone: (284) 976-3826
+  ssn: 136202889
+  dob: 12/21/1973
+  address: 6045 Fourth Blvd
+  city: Chicago
+  state: MI

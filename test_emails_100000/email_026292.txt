@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Davis,lauren.davis5871@outlook.com,312 861 9438,850713646,28/01/1954,"849 Sixth St",Los Angeles,CA

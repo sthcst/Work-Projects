@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Harris
+  email: andrew.harris6874@outlook.com
+  phone: +1 646-298-2117
+  ssn: 992 31 3428
+  dob: 01-03-1967
+  address: 6927 Maple Ave
+  city: Denver
+  state: AZ

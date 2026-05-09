@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Murillo",
+    "email": "brenda.murillo9900@gmail.com",
+    "phone": "740-317-4146",
+    "ssn": "325 49 3758",
+    "dob": "11/13/1980",
+    "address": "2625 Third St",
+    "city": "Seattle",
+    "state": "MI"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Maria Nelson
+  email: maria.nelson7777@gmail.com
+  phone: 673 925 7884
+  ssn: 278-01-7469
+  dob: 09/04/1982
+  address: 2971 South Rd
+  city: San Jose
+  state: NC

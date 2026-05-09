@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Ortiz",
+    "email": "brenda.ortiz9072@work.org",
+    "phone": "(822) 841-6685",
+    "ssn": "672054640",
+    "dob": "02-14-1976",
+    "address": "5558 South Way",
+    "city": "Austin",
+    "state": "OH"
+  }
+}

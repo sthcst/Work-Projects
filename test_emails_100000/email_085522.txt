@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Johnson",
+    "email": "rebecca.johnson248@yahoo.com",
+    "phone": "(301) 298-2824",
+    "ssn": "345 50 5444",
+    "dob": "06/02/1960",
+    "address": "1536 South Dr",
+    "city": "San Jose",
+    "state": "NC"
+  }
+}

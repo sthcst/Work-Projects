@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Martinez",
+    "email": "jennifer.martinez3474@business.net",
+    "phone": "681 258 3219",
+    "ssn": "413433972",
+    "dob": "12/28/1955",
+    "address": "4293 Park St",
+    "city": "Houston",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,12 @@
+SUPPORT TICKET #96776
+
+Customer: Donald Ortiz
+Email: donald.ortiz9431@example.com
+Phone: (208) 710-7500
+Account: 230-99-1256
+
+Issue Description: Technical problem reported
+DOB on file: 10/14/1982
+Address: 2055 Main Ln, Philadelphia, MD
+
+Status: OPEN

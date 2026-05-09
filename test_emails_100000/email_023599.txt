@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Walker,richard.walker2062@mail.com,914-558-5468,689 64 8756,04-23-1993,"660 Second Rd",Seattle,TX

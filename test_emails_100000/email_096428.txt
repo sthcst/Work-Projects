@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Jones",
+    "email": "daniel.jones6284@business.net",
+    "phone": "952-417-2161",
+    "ssn": "423633368",
+    "dob": "8/28/1988",
+    "address": "1358 Second Way",
+    "city": "San Antonio",
+    "state": "MI"
+  }
+}

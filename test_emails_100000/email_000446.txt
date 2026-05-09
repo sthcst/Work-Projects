@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Bell
+  email: kathleen.bell929@yahoo.com
+  phone: +1 469-868-1491
+  ssn: 034 44 7904
+  dob: 04/11/1998
+  address: 2292 Birch Blvd
+  city: Los Angeles
+  state: CA

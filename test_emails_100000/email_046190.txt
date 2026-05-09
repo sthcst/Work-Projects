@@ -1,0 +1,14 @@
+INVOICE 679253
+
+Bill To:
+Name: Paul Carter
+Email: paul.carter4572@mail.com
+Phone: 362-414-7170
+SSN: 519728898
+
+Address: 6099 Spring Rd
+Seattle, PA
+
+Date of Birth: 6/27/1982
+
+Amount Due: $7502

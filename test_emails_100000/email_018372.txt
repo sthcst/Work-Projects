@@ -1,0 +1,14 @@
+INVOICE 780263
+
+Bill To:
+Name: Daniel Lee
+Email: daniel.lee8364@work.org
+Phone: 439 658 4450
+SSN: 279-75-1393
+
+Address: 1227 Fifth Rd
+Boston, WA
+
+Date of Birth: 4/10/1973
+
+Amount Due: $8661

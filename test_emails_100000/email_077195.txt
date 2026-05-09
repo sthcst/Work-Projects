@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Sanchez",
+    "email": "richard.sanchez1040@yahoo.com",
+    "phone": "+1 309-621-2224",
+    "ssn": "579622371",
+    "dob": "08/15/2000",
+    "address": "4519 Spring Blvd",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

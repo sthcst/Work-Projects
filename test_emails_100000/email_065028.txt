@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Thomas
+  email: jennifer.thomas5985@yahoo.com
+  phone: 688-461-9631
+  ssn: 727 72 8294
+  dob: 25/11/1960
+  address: 7596 Fifth Ln
+  city: Austin
+  state: TX

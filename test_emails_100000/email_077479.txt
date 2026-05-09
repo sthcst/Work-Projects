@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Harris,richard.harris5305@business.net,412 441 4439,919-19-2601,5/22/1996,"5064 East Rd",San Antonio,TX

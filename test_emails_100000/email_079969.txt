@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Stewart",
+    "email": "kathleen.stewart2255@mail.com",
+    "phone": "467-827-1157",
+    "ssn": "292-63-6398",
+    "dob": "09/04/1983",
+    "address": "9611 South Way",
+    "city": "Jacksonville",
+    "state": "MD"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Christine Anderson
+  email: christine.anderson69@mail.com
+  phone: (585) 253-7639
+  ssn: 980 09 1663
+  dob: 24/08/1958
+  address: 9067 North Ln
+  city: Dallas
+  state: TX

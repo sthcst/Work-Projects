@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Nelson,george.nelson7715@mail.com,+1 399-240-3780,531-40-7390,04-23-1959,"8044 First St",Los Angeles,CO

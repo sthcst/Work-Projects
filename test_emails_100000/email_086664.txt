@@ -1,0 +1,14 @@
+INVOICE 985676
+
+Bill To:
+Name: Joseph White
+Email: joseph.white1147@company.com
+Phone: (836) 874-5946
+SSN: 646-42-8056
+
+Address: 5823 Pine Ln
+New York, CA
+
+Date of Birth: 02/22/1982
+
+Amount Due: $4661

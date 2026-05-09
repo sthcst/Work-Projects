@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Brown
+  email: kathleen.brown3874@work.org
+  phone: (648) 708-2104
+  ssn: 996-33-2321
+  dob: 02/08/1960
+  address: 2862 Sixth Court
+  city: Washington
+  state: DC

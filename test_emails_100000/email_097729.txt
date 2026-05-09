@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Perez,ronald.perez1888@outlook.com,690 249 9490,736-81-8777,13/08/1989,"3479 East Dr",Washington,IL

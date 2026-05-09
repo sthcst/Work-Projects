@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Collins",
+    "email": "jason.collins9296@mail.com",
+    "phone": "852-697-8056",
+    "ssn": "082-23-6233",
+    "dob": "06-02-1985",
+    "address": "1361 North Dr",
+    "city": "Jacksonville",
+    "state": "PA"
+  }
+}

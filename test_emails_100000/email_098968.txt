@@ -1,0 +1,14 @@
+INVOICE 328711
+
+Bill To:
+Name: Donald Ramirez
+Email: donald.ramirez4212@example.com
+Phone: +1 590-429-5999
+SSN: 847-31-7889
+
+Address: 5955 West Ln
+San Antonio, WI
+
+Date of Birth: 06-05-1965
+
+Amount Due: $1857

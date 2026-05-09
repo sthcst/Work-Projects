@@ -1,0 +1,9 @@
+contact:
+  name: William Lopez
+  email: william.lopez1079@work.org
+  phone: 618-351-4410
+  ssn: 379101473
+  dob: 23/11/1953
+  address: 6659 North Way
+  city: Denver
+  state: TX

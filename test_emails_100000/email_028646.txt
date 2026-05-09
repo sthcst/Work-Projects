@@ -1,0 +1,9 @@
+contact:
+  name: William Sanchez
+  email: william.sanchez6629@outlook.com
+  phone: +1 888-632-3126
+  ssn: 814-42-7067
+  dob: 08-20-2001
+  address: 3048 West Rd
+  city: Boston
+  state: FL

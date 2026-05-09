@@ -1,0 +1,14 @@
+INVOICE 207658
+
+Bill To:
+Name: Charles Ramirez
+Email: charles.ramirez9219@example.com
+Phone: 207 541 5807
+SSN: 768558347
+
+Address: 163 Pine Ave
+Philadelphia, NY
+
+Date of Birth: 12/3/1965
+
+Amount Due: $6133

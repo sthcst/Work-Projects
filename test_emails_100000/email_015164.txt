@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Stewart
+  email: rachel.stewart9001@gmail.com
+  phone: 256 644 4927
+  ssn: 948-13-6568
+  dob: 04-10-1957
+  address: 4401 South Ave
+  city: Austin
+  state: WA

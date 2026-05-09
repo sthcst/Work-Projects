@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Young",
+    "email": "paul.young5565@gmail.com",
+    "phone": "+1 219-513-3322",
+    "ssn": "511403493",
+    "dob": "06/25/1971",
+    "address": "7725 West Dr",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

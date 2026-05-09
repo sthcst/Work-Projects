@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Guerrero
+  email: anthony.guerrero9927@example.com
+  phone: (893) 904-3042
+  ssn: 784-11-7602
+  dob: 10/10/1953
+  address: 3510 Maple Dr
+  city: New York
+  state: CA

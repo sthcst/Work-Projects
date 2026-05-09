@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Hernandez,george.hernandez7926@yahoo.com,+1 740-971-5126,058-45-2561,10/20/2005,"7363 Elm Dr",Austin,OH

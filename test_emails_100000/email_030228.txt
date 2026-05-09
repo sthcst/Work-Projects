@@ -1,0 +1,14 @@
+INVOICE 242300
+
+Bill To:
+Name: Lauren Thomas
+Email: lauren.thomas4350@company.com
+Phone: (688) 405-6650
+SSN: 806 47 2807
+
+Address: 267 Second Ln
+Houston, WA
+
+Date of Birth: 01/19/1996
+
+Amount Due: $6555

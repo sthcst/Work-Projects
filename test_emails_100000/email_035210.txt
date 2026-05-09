@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Romero",
+    "email": "amanda.romero8694@outlook.com",
+    "phone": "772-498-3250",
+    "ssn": "796-89-2775",
+    "dob": "10/03/1999",
+    "address": "917 Fourth Ln",
+    "city": "Chicago",
+    "state": "MD"
+  }
+}

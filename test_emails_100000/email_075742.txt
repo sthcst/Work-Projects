@@ -1,0 +1,14 @@
+INVOICE 972040
+
+Bill To:
+Name: Lauren Jimenez
+Email: lauren.jimenez9890@work.org
+Phone: 913-528-5291
+SSN: 179793211
+
+Address: 3010 Park Court
+Phoenix, NJ
+
+Date of Birth: 05/27/1979
+
+Amount Due: $2242

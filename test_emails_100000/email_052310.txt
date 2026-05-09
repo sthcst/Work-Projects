@@ -1,0 +1,14 @@
+INVOICE 719288
+
+Bill To:
+Name: Angela Martinez
+Email: angela.martinez2147@mail.com
+Phone: 950 888 7199
+SSN: 847063277
+
+Address: 1908 Fifth Blvd
+San Jose, PA
+
+Date of Birth: 10/12/1989
+
+Amount Due: $3200

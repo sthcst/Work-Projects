@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Williams",
+    "email": "lauren.williams3229@outlook.com",
+    "phone": "(840) 805-2098",
+    "ssn": "046615166",
+    "dob": "12-17-2004",
+    "address": "8171 South Rd",
+    "city": "Philadelphia",
+    "state": "WA"
+  }
+}

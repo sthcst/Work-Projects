@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle White,michelle.white7492@business.net,753-778-8443,733607136,01/20/1979,"5376 Spring Rd",Seattle,NC

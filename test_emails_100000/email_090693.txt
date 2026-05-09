@@ -1,0 +1,9 @@
+contact:
+  name: Richard Murillo
+  email: richard.murillo83@gmail.com
+  phone: (933) 475-9965
+  ssn: 861 54 8746
+  dob: 07-12-2005
+  address: 4565 Spring Blvd
+  city: New York
+  state: VA

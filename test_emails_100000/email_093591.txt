@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Evans,kenneth.evans3068@outlook.com,252 782 8848,894-55-4066,01-13-1990,"4678 South Way",San Jose,WA

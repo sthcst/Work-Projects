@@ -1,0 +1,9 @@
+contact:
+  name: Christine Young
+  email: christine.young9930@outlook.com
+  phone: 927 282 2778
+  ssn: 822-81-2080
+  dob: 3/19/1969
+  address: 727 East Ave
+  city: Philadelphia
+  state: MI

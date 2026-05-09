@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Martinez",
+    "email": "kathleen.martinez9881@outlook.com",
+    "phone": "789 505 8853",
+    "ssn": "284 20 9889",
+    "dob": "01-02-1957",
+    "address": "7009 Cedar Ln",
+    "city": "Houston",
+    "state": "MA"
+  }
+}

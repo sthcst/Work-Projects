@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Lopez",
+    "email": "angela.lopez9830@mail.com",
+    "phone": "+1 803-420-4501",
+    "ssn": "719602099",
+    "dob": "04/05/1984",
+    "address": "4963 West Rd",
+    "city": "Seattle",
+    "state": "FL"
+  }
+}

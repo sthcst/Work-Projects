@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Perez",
+    "email": "jeffrey.perez2058@work.org",
+    "phone": "(359) 915-9484",
+    "ssn": "840896940",
+    "dob": "03-08-1972",
+    "address": "8319 Spring Rd",
+    "city": "Jacksonville",
+    "state": "MA"
+  }
+}

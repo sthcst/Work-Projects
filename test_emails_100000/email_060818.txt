@@ -1,0 +1,9 @@
+contact:
+  name: George Nelson
+  email: george.nelson7800@outlook.com
+  phone: 235 741 2404
+  ssn: 123-08-1062
+  dob: 10/25/1967
+  address: 7305 Spring Dr
+  city: Boston
+  state: TN

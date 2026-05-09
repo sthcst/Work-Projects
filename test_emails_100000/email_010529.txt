@@ -1,0 +1,9 @@
+contact:
+  name: Angela Lewis
+  email: angela.lewis8330@outlook.com
+  phone: +1 328-662-2329
+  ssn: 629 60 4873
+  dob: 06-08-1962
+  address: 2962 First Ave
+  city: Houston
+  state: TX

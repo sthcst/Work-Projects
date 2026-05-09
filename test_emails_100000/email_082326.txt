@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Harris
+  email: amanda.harris274@work.org
+  phone: +1 767-989-2334
+  ssn: 631 13 6218
+  dob: 02/03/1961
+  address: 8508 Sixth Court
+  city: Houston
+  state: OH

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Davis",
+    "email": "angela.davis4507@yahoo.com",
+    "phone": "+1 875-368-3644",
+    "ssn": "288162972",
+    "dob": "12/04/1966",
+    "address": "6371 Spring Way",
+    "city": "San Jose",
+    "state": "CA"
+  }
+}

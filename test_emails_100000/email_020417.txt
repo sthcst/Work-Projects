@@ -1,0 +1,14 @@
+INVOICE 268923
+
+Bill To:
+Name: Timothy Young
+Email: timothy.young6356@work.org
+Phone: 260-296-3166
+SSN: 027148937
+
+Address: 7391 Fifth Ln
+Washington, MA
+
+Date of Birth: 03/13/1986
+
+Amount Due: $5460

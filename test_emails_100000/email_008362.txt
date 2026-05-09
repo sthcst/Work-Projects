@@ -1,0 +1,9 @@
+contact:
+  name: Brian Phillips
+  email: brian.phillips9008@business.net
+  phone: (278) 684-1735
+  ssn: 460-50-3220
+  dob: 3/18/1970
+  address: 3137 Cedar Rd
+  city: San Diego
+  state: CA

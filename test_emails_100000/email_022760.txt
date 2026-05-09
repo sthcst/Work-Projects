@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Flores",
+    "email": "ryan.flores2907@company.com",
+    "phone": "+1 346-600-9184",
+    "ssn": "685088524",
+    "dob": "12/15/1963",
+    "address": "3170 Main Court",
+    "city": "Los Angeles",
+    "state": "MD"
+  }
+}

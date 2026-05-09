@@ -1,0 +1,14 @@
+INVOICE 469708
+
+Bill To:
+Name: Ronald Nunez
+Email: ronald.nunez6968@example.com
+Phone: 289-260-4591
+SSN: 321 42 6809
+
+Address: 1311 Cedar Way
+Dallas, CA
+
+Date of Birth: 12/05/1965
+
+Amount Due: $7564

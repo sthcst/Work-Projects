@@ -1,0 +1,14 @@
+INVOICE 451567
+
+Bill To:
+Name: Pamela Miller
+Email: pamela.miller4211@business.net
+Phone: 573-866-6826
+SSN: 651 96 7194
+
+Address: 4502 Fourth Dr
+Seattle, CA
+
+Date of Birth: 09/05/1954
+
+Amount Due: $5006

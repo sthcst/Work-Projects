@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Thomas,david.thomas7714@business.net,+1 603-613-9244,926806004,22/01/1957,"5512 South Way",San Diego,AZ

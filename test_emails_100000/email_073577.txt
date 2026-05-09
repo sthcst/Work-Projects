@@ -1,0 +1,14 @@
+INVOICE 301355
+
+Bill To:
+Name: Deborah Collins
+Email: deborah.collins1079@company.com
+Phone: (417) 735-4730
+SSN: 753403729
+
+Address: 6295 Maple Dr
+Jacksonville, WI
+
+Date of Birth: 08/14/1969
+
+Amount Due: $9160

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Rodriguez",
+    "email": "kenneth.rodriguez4005@company.com",
+    "phone": "328-769-1301",
+    "ssn": "634708584",
+    "dob": "06-05-1982",
+    "address": "4370 North Rd",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

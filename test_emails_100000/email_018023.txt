@@ -1,0 +1,14 @@
+INVOICE 407959
+
+Bill To:
+Name: Richard Bell
+Email: richard.bell8983@work.org
+Phone: +1 320-461-8824
+SSN: 308-55-7992
+
+Address: 1426 Fourth Dr
+Denver, NJ
+
+Date of Birth: 12/06/1966
+
+Amount Due: $9024

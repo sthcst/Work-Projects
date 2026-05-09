@@ -1,0 +1,14 @@
+INVOICE 641203
+
+Bill To:
+Name: Brenda Lopez
+Email: brenda.lopez7224@example.com
+Phone: (368) 208-6621
+SSN: 881-45-7880
+
+Address: 3785 First Ln
+Chicago, WA
+
+Date of Birth: 02/08/1980
+
+Amount Due: $2617

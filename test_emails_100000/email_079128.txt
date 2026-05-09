@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Gomez",
+    "email": "amanda.gomez6091@example.com",
+    "phone": "(806) 974-3076",
+    "ssn": "321 71 8289",
+    "dob": "13/12/1973",
+    "address": "1688 Main St",
+    "city": "Houston",
+    "state": "GA"
+  }
+}

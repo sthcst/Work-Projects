@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Delgado
+  email: kenneth.delgado4240@business.net
+  phone: 234 766 9961
+  ssn: 370-80-3722
+  dob: 03/11/1978
+  address: 4901 East Ln
+  city: Boston
+  state: GA

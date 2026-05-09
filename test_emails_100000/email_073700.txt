@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Taylor
+  email: lisa.taylor8526@mail.com
+  phone: 499 742 8271
+  ssn: 521 74 7106
+  dob: 25/05/1997
+  address: 4719 First Ln
+  city: Los Angeles
+  state: FL

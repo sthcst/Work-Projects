@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Rodriguez",
+    "email": "kimberly.rodriguez8712@mail.com",
+    "phone": "+1 379-384-7592",
+    "ssn": "939789484",
+    "dob": "10/10/1976",
+    "address": "8703 Oak Blvd",
+    "city": "San Antonio",
+    "state": "OH"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 936582
+
+Bill To:
+Name: George Perez
+Email: george.perez7035@mail.com
+Phone: 319 792 2699
+SSN: 055 60 5252
+
+Address: 6597 Spring Rd
+New York, FL
+
+Date of Birth: 04-25-1987
+
+Amount Due: $8424

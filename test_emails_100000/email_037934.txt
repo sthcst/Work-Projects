@@ -1,0 +1,9 @@
+contact:
+  name: Brian Miller
+  email: brian.miller7128@example.com
+  phone: 374-478-9416
+  ssn: 812641923
+  dob: 04/14/1995
+  address: 8663 Birch Court
+  city: San Antonio
+  state: TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Dominguez",
+    "email": "jennifer.dominguez9748@gmail.com",
+    "phone": "+1 230-665-5046",
+    "ssn": "470 05 6073",
+    "dob": "16/06/1953",
+    "address": "1781 Birch Dr",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

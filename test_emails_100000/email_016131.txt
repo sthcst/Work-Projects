@@ -1,0 +1,9 @@
+contact:
+  name: Brian Peterson
+  email: brian.peterson7983@business.net
+  phone: +1 918-282-7404
+  ssn: 372-86-3260
+  dob: 06/03/1960
+  address: 4470 Elm Ave
+  city: San Antonio
+  state: AZ

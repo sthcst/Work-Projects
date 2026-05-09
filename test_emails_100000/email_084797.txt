@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Moore,stephanie.moore5720@mail.com,+1 910-288-5306,008739765,1/15/1950,"9545 Summer Dr",Dallas,MD

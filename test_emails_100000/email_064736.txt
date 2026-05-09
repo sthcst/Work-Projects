@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Jimenez",
+    "email": "david.jimenez6061@company.com",
+    "phone": "347 375 9005",
+    "ssn": "648-59-3934",
+    "dob": "14/06/1972",
+    "address": "1701 Fourth Way",
+    "city": "Jacksonville",
+    "state": "MA"
+  }
+}

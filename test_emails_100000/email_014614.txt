@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Dominguez,daniel.dominguez4688@outlook.com,(391) 247-9781,030597239,8/4/1957,"4970 Main Ave",New York,FL

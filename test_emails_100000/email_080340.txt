@@ -1,0 +1,14 @@
+INVOICE 996433
+
+Bill To:
+Name: Maria Clark
+Email: maria.clark9227@company.com
+Phone: (304) 547-2916
+SSN: 839 17 7613
+
+Address: 4583 Fifth Ln
+Denver, WA
+
+Date of Birth: 15/02/1998
+
+Amount Due: $3494

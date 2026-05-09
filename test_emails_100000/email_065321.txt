@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Nelson,katherine.nelson4770@yahoo.com,+1 205-367-4444,087 10 3378,10/8/1986,"5928 Oak Court",San Antonio,CA

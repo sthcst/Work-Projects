@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Morgan",
+    "email": "deborah.morgan9772@yahoo.com",
+    "phone": "(725) 928-6323",
+    "ssn": "827 74 3984",
+    "dob": "10/20/1985",
+    "address": "2441 First Way",
+    "city": "Philadelphia",
+    "state": "WA"
+  }
+}

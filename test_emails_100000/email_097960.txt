@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Thomas",
+    "email": "michael.thomas4124@outlook.com",
+    "phone": "542 817 1844",
+    "ssn": "834425571",
+    "dob": "23/05/1951",
+    "address": "2792 Oak Ave",
+    "city": "Austin",
+    "state": "DC"
+  }
+}

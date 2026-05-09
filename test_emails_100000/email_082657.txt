@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Rodriguez
+  email: christopher.rodriguez7977@example.com
+  phone: 510 747 3904
+  ssn: 962-85-8632
+  dob: 08/08/1954
+  address: 8414 Second Rd
+  city: Houston
+  state: TX

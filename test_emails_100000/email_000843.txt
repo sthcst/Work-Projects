@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Clark",
+    "email": "sarah.clark8654@mail.com",
+    "phone": "+1 749-316-2342",
+    "ssn": "592329055",
+    "dob": "02/09/1971",
+    "address": "381 Sixth Rd",
+    "city": "Houston",
+    "state": "WA"
+  }
+}

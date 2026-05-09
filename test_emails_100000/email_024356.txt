@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Edwards",
+    "email": "kevin.edwards8991@outlook.com",
+    "phone": "+1 675-662-6352",
+    "ssn": "612282607",
+    "dob": "12/01/1984",
+    "address": "2914 Second Rd",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

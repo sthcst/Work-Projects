@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Reed
+  email: jennifer.reed1892@mail.com
+  phone: +1 359-598-6698
+  ssn: 439 94 7713
+  dob: 21/07/1957
+  address: 1103 Maple Blvd
+  city: Austin
+  state: CA

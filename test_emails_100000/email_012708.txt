@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Johnson,david.johnson3678@yahoo.com,+1 308-996-7112,969652438,12/9/1992,"6780 South Way",Jacksonville,OH

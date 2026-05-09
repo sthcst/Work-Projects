@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Davis,maria.davis6432@business.net,850-832-9289,956977552,08/10/2002,"5713 Spring Ln",Seattle,MO

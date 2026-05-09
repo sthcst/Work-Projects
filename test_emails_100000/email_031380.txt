@@ -1,0 +1,14 @@
+INVOICE 764963
+
+Bill To:
+Name: Michael Harris
+Email: michael.harris9352@mail.com
+Phone: 835-568-1428
+SSN: 482052311
+
+Address: 1634 Second Rd
+San Antonio, AZ
+
+Date of Birth: 11/16/1993
+
+Amount Due: $8294

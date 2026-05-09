@@ -1,0 +1,9 @@
+contact:
+  name: Jane Dominguez
+  email: jane.dominguez9107@mail.com
+  phone: (568) 969-3266
+  ssn: 347697404
+  dob: 1/21/1971
+  address: 9299 Pine Rd
+  city: Jacksonville
+  state: PA

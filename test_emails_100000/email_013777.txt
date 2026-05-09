@@ -1,0 +1,9 @@
+contact:
+  name: George Nelson
+  email: george.nelson5842@company.com
+  phone: (537) 228-2208
+  ssn: 644 33 1034
+  dob: 04/06/1969
+  address: 304 Birch Ave
+  city: Seattle
+  state: TX

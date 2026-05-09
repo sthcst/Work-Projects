@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Rodriguez,lauren.rodriguez6839@yahoo.com,(547) 771-2405,951 56 7721,10-18-1955,"7489 Oak Court",Chicago,CA

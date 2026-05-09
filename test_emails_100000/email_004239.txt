@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Carter,jane.carter8078@gmail.com,(325) 931-5627,710 14 7233,12-24-1967,"3206 Park Blvd",San Jose,PA

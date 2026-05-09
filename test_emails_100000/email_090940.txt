@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Thomas",
+    "email": "william.thomas5273@gmail.com",
+    "phone": "+1 413-693-9031",
+    "ssn": "516 62 5619",
+    "dob": "06/10/1980",
+    "address": "9578 First Way",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

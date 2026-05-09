@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Robinson
+  email: christopher.robinson3450@outlook.com
+  phone: (203) 593-9650
+  ssn: 964111265
+  dob: 07/01/1977
+  address: 2045 Cedar St
+  city: Denver
+  state: NY

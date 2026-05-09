@@ -1,0 +1,9 @@
+contact:
+  name: Matthew Dominguez
+  email: matthew.dominguez1508@work.org
+  phone: +1 237-550-2848
+  ssn: 078323666
+  dob: 07/11/1966
+  address: 7413 Elm Way
+  city: San Diego
+  state: MI

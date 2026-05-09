@@ -1,0 +1,9 @@
+contact:
+  name: Charles Ortiz
+  email: charles.ortiz7880@gmail.com
+  phone: 537 408 1098
+  ssn: 262-78-4568
+  dob: 11/1/1999
+  address: 8969 West Rd
+  city: New York
+  state: FL

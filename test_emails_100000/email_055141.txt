@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Davis
+  email: cynthia.davis6748@outlook.com
+  phone: 269 623 9408
+  ssn: 840678210
+  dob: 09-28-1979
+  address: 8922 Park Rd
+  city: Phoenix
+  state: WA

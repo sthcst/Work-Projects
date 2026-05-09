@@ -1,0 +1,14 @@
+INVOICE 806476
+
+Bill To:
+Name: Katherine Johnson
+Email: katherine.johnson1655@company.com
+Phone: 230 824 5410
+SSN: 648-11-8454
+
+Address: 3074 First Court
+Jacksonville, NC
+
+Date of Birth: 02/07/1992
+
+Amount Due: $1252

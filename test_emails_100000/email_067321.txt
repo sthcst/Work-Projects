@@ -1,0 +1,12 @@
+SUPPORT TICKET #84645
+
+Customer: Katherine Johnson
+Email: katherine.johnson1414@example.com
+Phone: 333 448 3762
+Account: 227 21 3127
+
+Issue Description: Technical problem reported
+DOB on file: 1/19/1982
+Address: 8094 Cedar Rd, Washington, NC
+
+Status: OPEN

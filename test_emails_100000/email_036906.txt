@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Robinson
+  email: kimberly.robinson6897@yahoo.com
+  phone: 922-579-1913
+  ssn: 378-54-3222
+  dob: 2/15/1967
+  address: 4391 East Way
+  city: Boston
+  state: NJ

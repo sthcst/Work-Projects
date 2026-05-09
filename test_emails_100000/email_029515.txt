@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Flores",
+    "email": "nicholas.flores8262@business.net",
+    "phone": "602-958-4865",
+    "ssn": "905337834",
+    "dob": "01/18/1975",
+    "address": "4131 Oak Way",
+    "city": "New York",
+    "state": "TN"
+  }
+}

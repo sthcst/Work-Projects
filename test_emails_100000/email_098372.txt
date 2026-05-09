@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Lewis",
+    "email": "brenda.lewis3796@mail.com",
+    "phone": "650-542-2032",
+    "ssn": "875598188",
+    "dob": "10-13-1988",
+    "address": "8648 Spring Blvd",
+    "city": "Seattle",
+    "state": "TN"
+  }
+}

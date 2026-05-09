@@ -1,0 +1,14 @@
+INVOICE 590962
+
+Bill To:
+Name: Pamela Hernandez
+Email: pamela.hernandez9958@work.org
+Phone: 626 293 5243
+SSN: 537 66 2275
+
+Address: 8309 South Ln
+Philadelphia, TX
+
+Date of Birth: 17/04/1987
+
+Amount Due: $3536

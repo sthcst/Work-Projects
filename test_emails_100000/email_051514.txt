@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Jones,stephanie.jones9358@outlook.com,+1 464-809-9407,098 41 6540,24/03/1976,"2743 South Ln",Chicago,PA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Nelson",
+    "email": "kenneth.nelson9778@work.org",
+    "phone": "936-269-5472",
+    "ssn": "457 44 7789",
+    "dob": "11/10/1999",
+    "address": "6823 Park Ave",
+    "city": "San Jose",
+    "state": "CO"
+  }
+}

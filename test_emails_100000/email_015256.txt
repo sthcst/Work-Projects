@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Murillo,angela.murillo2035@business.net,845-443-8211,084-14-4763,2/1/1981,"2665 East Way",Boston,AZ

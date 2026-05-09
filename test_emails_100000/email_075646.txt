@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Smith",
+    "email": "ryan.smith1690@work.org",
+    "phone": "544-560-8469",
+    "ssn": "934 73 3451",
+    "dob": "06/25/1991",
+    "address": "6102 Sixth Court",
+    "city": "San Jose",
+    "state": "NY"
+  }
+}

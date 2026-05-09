@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Lopez,shirley.lopez9835@company.com,+1 456-504-4538,388078376,12-15-1962,"3623 Park Court",Houston,CA

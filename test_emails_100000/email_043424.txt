@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Lewis",
+    "email": "michael.lewis195@business.net",
+    "phone": "(248) 560-3295",
+    "ssn": "312-74-2903",
+    "dob": "07/11/1999",
+    "address": "9710 First Rd",
+    "city": "Boston",
+    "state": "VA"
+  }
+}

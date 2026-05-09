@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Anderson
+  email: cynthia.anderson952@company.com
+  phone: (539) 255-9048
+  ssn: 542-62-2187
+  dob: 2/4/1992
+  address: 3663 North Ln
+  city: Denver
+  state: NY

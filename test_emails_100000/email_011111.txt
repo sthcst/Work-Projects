@@ -1,0 +1,9 @@
+contact:
+  name: Paul Clark
+  email: paul.clark1870@work.org
+  phone: 316 238 5361
+  ssn: 709-26-3231
+  dob: 21/03/2000
+  address: 5838 Park Way
+  city: Jacksonville
+  state: FL

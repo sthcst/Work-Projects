@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Clark",
+    "email": "anna.clark1163@work.org",
+    "phone": "368 608 4155",
+    "ssn": "830-91-8120",
+    "dob": "11/18/1966",
+    "address": "9304 East Court",
+    "city": "Jacksonville",
+    "state": "GA"
+  }
+}

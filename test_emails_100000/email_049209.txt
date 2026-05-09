@@ -1,0 +1,14 @@
+INVOICE 442027
+
+Bill To:
+Name: Charles Lewis
+Email: charles.lewis1954@example.com
+Phone: +1 452-726-1677
+SSN: 102 47 3753
+
+Address: 5374 Birch Dr
+Los Angeles, NC
+
+Date of Birth: 07/10/1960
+
+Amount Due: $4923

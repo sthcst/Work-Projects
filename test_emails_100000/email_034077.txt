@@ -1,0 +1,9 @@
+contact:
+  name: Mark Harris
+  email: mark.harris286@mail.com
+  phone: 604 826 7659
+  ssn: 186572221
+  dob: 11/27/1985
+  address: 5675 Birch St
+  city: Austin
+  state: GA

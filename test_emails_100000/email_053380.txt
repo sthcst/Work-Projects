@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Martin",
+    "email": "helen.martin7929@outlook.com",
+    "phone": "(777) 651-9355",
+    "ssn": "947-01-2511",
+    "dob": "10-24-2002",
+    "address": "5420 Main Ln",
+    "city": "Denver",
+    "state": "WI"
+  }
+}

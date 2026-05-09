@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Jackson",
+    "email": "james.jackson6931@business.net",
+    "phone": "607 886 5531",
+    "ssn": "330872680",
+    "dob": "11/10/1972",
+    "address": "1491 Pine Rd",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

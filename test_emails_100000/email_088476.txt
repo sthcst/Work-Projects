@@ -1,0 +1,9 @@
+contact:
+  name: Jane Delgado
+  email: jane.delgado5658@outlook.com
+  phone: (682) 827-8079
+  ssn: 356 77 5584
+  dob: 06-17-2000
+  address: 2928 Summer Blvd
+  city: Phoenix
+  state: FL

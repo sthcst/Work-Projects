@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Wilson",
+    "email": "katherine.wilson3547@business.net",
+    "phone": "(963) 694-3110",
+    "ssn": "517283205",
+    "dob": "12/18/1988",
+    "address": "7552 West Ln",
+    "city": "Houston",
+    "state": "AZ"
+  }
+}

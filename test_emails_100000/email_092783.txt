@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Jones,andrew.jones8055@yahoo.com,(423) 443-9289,807 27 9854,01-08-1960,"5619 Third St",Seattle,TX

@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Reyes
+  email: kimberly.reyes792@work.org
+  phone: 365 292 9418
+  ssn: 576 65 4906
+  dob: 06-17-1975
+  address: 444 Summer Ave
+  city: San Antonio
+  state: AZ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Lee,sarah.lee7970@example.com,704 696 2013,599454084,08/08/1975,"4864 Sixth Ln",San Diego,MA

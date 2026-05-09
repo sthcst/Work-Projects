@@ -1,0 +1,9 @@
+contact:
+  name: Paul Jones
+  email: paul.jones8927@company.com
+  phone: +1 817-607-6155
+  ssn: 702-60-5797
+  dob: 03-26-1971
+  address: 2671 Park Way
+  city: Austin
+  state: WA

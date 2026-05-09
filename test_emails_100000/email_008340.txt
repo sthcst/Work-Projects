@@ -1,0 +1,14 @@
+INVOICE 772142
+
+Bill To:
+Name: Kenneth Johnson
+Email: kenneth.johnson6394@example.com
+Phone: +1 232-910-8130
+SSN: 158088953
+
+Address: 9371 Main Blvd
+San Antonio, NY
+
+Date of Birth: 10/4/1961
+
+Amount Due: $8759

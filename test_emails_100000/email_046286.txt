@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Anderson,angela.anderson1393@example.com,711 501 8927,666-08-5519,9/15/1990,"1399 South Way",Seattle,OH

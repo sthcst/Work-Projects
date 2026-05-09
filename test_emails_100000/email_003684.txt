@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Morgan,samantha.morgan833@company.com,+1 570-384-4954,250457087,5/20/1989,"690 Third Way",Seattle,VA

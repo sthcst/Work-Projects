@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Nelson",
+    "email": "james.nelson4848@work.org",
+    "phone": "(782) 226-5183",
+    "ssn": "901-05-7176",
+    "dob": "11/23/1968",
+    "address": "461 Park St",
+    "city": "New York",
+    "state": "TX"
+  }
+}

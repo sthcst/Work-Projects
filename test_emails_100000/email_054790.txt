@@ -1,0 +1,9 @@
+contact:
+  name: Charles Anderson
+  email: charles.anderson8904@business.net
+  phone: 967-828-5055
+  ssn: 894 52 2595
+  dob: 06/01/1989
+  address: 3823 Summer Blvd
+  city: San Jose
+  state: TX

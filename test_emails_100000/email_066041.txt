@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Bell,emily.bell5850@example.com,621 711 2088,060 63 3235,9/1/1976,"8885 East St",Jacksonville,TN

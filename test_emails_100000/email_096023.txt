@@ -1,0 +1,14 @@
+INVOICE 274857
+
+Bill To:
+Name: James Rogers
+Email: james.rogers9600@outlook.com
+Phone: (778) 825-6075
+SSN: 380 01 7797
+
+Address: 7294 Second Way
+Philadelphia, CO
+
+Date of Birth: 01/02/2000
+
+Amount Due: $5845

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Flores,jeffrey.flores6543@yahoo.com,+1 537-655-2269,278-95-1432,12/11/1968,"9052 Spring Way",Boston,IL

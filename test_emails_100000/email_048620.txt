@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Smith",
+    "email": "kenneth.smith7572@outlook.com",
+    "phone": "735 284 1724",
+    "ssn": "117 93 9254",
+    "dob": "12/21/1977",
+    "address": "8118 South Court",
+    "city": "Dallas",
+    "state": "MO"
+  }
+}

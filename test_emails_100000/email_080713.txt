@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Jimenez",
+    "email": "william.jimenez106@work.org",
+    "phone": "+1 987-340-7343",
+    "ssn": "946973030",
+    "dob": "12/15/2005",
+    "address": "9469 Pine Ln",
+    "city": "New York",
+    "state": "IL"
+  }
+}

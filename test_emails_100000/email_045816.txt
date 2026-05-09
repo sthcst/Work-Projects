@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Young",
+    "email": "kevin.young7516@outlook.com",
+    "phone": "260-632-2972",
+    "ssn": "501 50 3722",
+    "dob": "10/26/1998",
+    "address": "2599 Third Rd",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

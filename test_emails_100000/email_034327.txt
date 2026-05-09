@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Evans,kathleen.evans6767@outlook.com,(583) 720-6470,879 65 1277,06/03/2002,"6937 Maple Way",Denver,CO

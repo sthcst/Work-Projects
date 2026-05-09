@@ -1,0 +1,9 @@
+contact:
+  name: Donald Romero
+  email: donald.romero3758@business.net
+  phone: 442-551-3902
+  ssn: 978-06-5821
+  dob: 06/05/1971
+  address: 2441 Sixth Blvd
+  city: Chicago
+  state: CO

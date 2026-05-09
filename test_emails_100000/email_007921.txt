@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Martinez",
+    "email": "michelle.martinez9420@company.com",
+    "phone": "(691) 326-7664",
+    "ssn": "729-49-9944",
+    "dob": "02/03/1963",
+    "address": "9612 Fourth Dr",
+    "city": "Houston",
+    "state": "OH"
+  }
+}

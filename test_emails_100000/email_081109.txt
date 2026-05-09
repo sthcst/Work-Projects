@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Collins
+  email: kimberly.collins193@work.org
+  phone: 808 321 6141
+  ssn: 608-58-4552
+  dob: 02/25/1981
+  address: 1406 Fourth Ave
+  city: Washington
+  state: AZ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Bell",
+    "email": "christine.bell8997@gmail.com",
+    "phone": "+1 627-393-7685",
+    "ssn": "046-26-9351",
+    "dob": "10-18-1967",
+    "address": "6531 Fifth Way",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

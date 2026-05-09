@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Garcia,maria.garcia3742@example.com,(632) 704-8383,357-58-7263,12/04/1979,"439 Third Dr",Phoenix,MO

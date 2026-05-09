@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Hernandez",
+    "email": "stephanie.hernandez8277@business.net",
+    "phone": "(903) 601-9056",
+    "ssn": "502-09-7263",
+    "dob": "11-27-1989",
+    "address": "1253 Cedar Blvd",
+    "city": "Austin",
+    "state": "NJ"
+  }
+}

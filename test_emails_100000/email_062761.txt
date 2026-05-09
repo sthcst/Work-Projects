@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Harris,michelle.harris8563@mail.com,872-508-7987,479501272,03-27-1976,"2453 Sixth Ave",Los Angeles,CO

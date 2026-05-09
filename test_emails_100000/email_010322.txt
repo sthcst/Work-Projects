@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Bell,edward.bell5186@yahoo.com,412 630 5664,183 64 7978,10/15/2005,"1774 Oak Rd",San Jose,MA

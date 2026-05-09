@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Reed,christine.reed4547@business.net,+1 425-352-5834,803-24-6623,25/12/1952,"1854 Cedar Rd",San Antonio,MO

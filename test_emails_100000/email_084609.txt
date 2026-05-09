@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Morgan",
+    "email": "kenneth.morgan7762@mail.com",
+    "phone": "+1 859-841-5267",
+    "ssn": "316 01 3318",
+    "dob": "06/16/1969",
+    "address": "9353 Birch Way",
+    "city": "Washington",
+    "state": "MO"
+  }
+}

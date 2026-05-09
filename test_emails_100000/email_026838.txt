@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Romero,rebecca.romero9844@gmail.com,446-545-4352,774729042,06-03-1960,"5633 Fourth St",Jacksonville,TX

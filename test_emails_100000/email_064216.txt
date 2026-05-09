@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Romero,maria.romero43@business.net,+1 939-340-8685,788666269,01/24/1980,"847 Second St",Chicago,MA

@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Anderson
+  email: lisa.anderson4252@gmail.com
+  phone: (679) 741-7243
+  ssn: 832 14 6951
+  dob: 07-12-2005
+  address: 7136 First Ave
+  city: Washington
+  state: VA

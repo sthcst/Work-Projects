@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Taylor
+  email: daniel.taylor636@outlook.com
+  phone: +1 913-721-9214
+  ssn: 373 97 3302
+  dob: 04/11/1976
+  address: 1652 Birch Ave
+  city: San Jose
+  state: GA

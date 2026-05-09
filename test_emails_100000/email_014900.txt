@@ -1,0 +1,9 @@
+contact:
+  name: Maria Hernandez
+  email: maria.hernandez9227@gmail.com
+  phone: 406 891 3336
+  ssn: 699832823
+  dob: 06/07/1970
+  address: 5481 West Dr
+  city: San Jose
+  state: NY

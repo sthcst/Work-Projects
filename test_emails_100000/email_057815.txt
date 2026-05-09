@@ -1,0 +1,14 @@
+INVOICE 907009
+
+Bill To:
+Name: Donald Miller
+Email: donald.miller8814@yahoo.com
+Phone: +1 466-231-7733
+SSN: 549 11 9854
+
+Address: 1086 Park Dr
+Philadelphia, CA
+
+Date of Birth: 22/06/1968
+
+Amount Due: $3799

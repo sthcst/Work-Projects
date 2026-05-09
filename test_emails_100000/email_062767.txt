@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Clark",
+    "email": "michael.clark2579@work.org",
+    "phone": "+1 337-495-5534",
+    "ssn": "872575287",
+    "dob": "09/09/1975",
+    "address": "7108 Second Dr",
+    "city": "New York",
+    "state": "DC"
+  }
+}

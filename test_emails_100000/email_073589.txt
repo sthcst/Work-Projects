@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Peterson
+  email: rachel.peterson7451@mail.com
+  phone: (567) 655-3882
+  ssn: 276 56 1998
+  dob: 06-24-1979
+  address: 3900 West Ave
+  city: Denver
+  state: MA

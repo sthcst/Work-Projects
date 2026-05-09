@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Cooper",
+    "email": "jane.cooper9373@outlook.com",
+    "phone": "+1 741-775-6949",
+    "ssn": "293 73 6224",
+    "dob": "09/20/1982",
+    "address": "9739 West St",
+    "city": "Phoenix",
+    "state": "DC"
+  }
+}

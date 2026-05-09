@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Hall
+  email: daniel.hall7408@company.com
+  phone: +1 916-287-9285
+  ssn: 075 67 3005
+  dob: 07/18/1957
+  address: 1616 Second St
+  city: Boston
+  state: NJ

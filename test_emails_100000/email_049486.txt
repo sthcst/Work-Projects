@@ -1,0 +1,14 @@
+INVOICE 854695
+
+Bill To:
+Name: Michael Romero
+Email: michael.romero4793@example.com
+Phone: 220-875-8981
+SSN: 534 85 8493
+
+Address: 1755 Cedar Ave
+San Jose, OH
+
+Date of Birth: 04/24/1957
+
+Amount Due: $7178

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Jackson,angela.jackson6672@mail.com,(867) 419-9739,051 33 3710,17/04/1950,"8699 Maple Blvd",Seattle,MA

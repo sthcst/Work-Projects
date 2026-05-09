@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Murillo,nicole.murillo25@company.com,+1 425-461-2568,806 05 5488,4/3/1984,"1265 West Court",Dallas,PA

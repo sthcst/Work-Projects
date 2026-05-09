@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Matthew Johnson,matthew.johnson9060@yahoo.com,(957) 575-3061,165945158,06-10-1967,"7961 Spring Court",San Diego,CO

@@ -1,0 +1,9 @@
+contact:
+  name: Emma Hall
+  email: emma.hall9816@gmail.com
+  phone: (799) 246-7344
+  ssn: 700536850
+  dob: 23/06/1979
+  address: 8955 Birch Ave
+  city: Washington
+  state: WI

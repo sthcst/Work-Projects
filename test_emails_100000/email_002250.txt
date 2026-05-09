@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Davis
+  email: shirley.davis6601@mail.com
+  phone: +1 934-639-1634
+  ssn: 188-60-4225
+  dob: 07-01-1965
+  address: 881 Maple Dr
+  city: Austin
+  state: NY

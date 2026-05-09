@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Taylor",
+    "email": "brian.taylor990@gmail.com",
+    "phone": "(220) 347-2420",
+    "ssn": "231-24-7468",
+    "dob": "6/25/1986",
+    "address": "4430 East St",
+    "city": "Chicago",
+    "state": "MO"
+  }
+}

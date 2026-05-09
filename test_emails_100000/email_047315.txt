@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Lee",
+    "email": "anna.lee3351@work.org",
+    "phone": "641-612-5207",
+    "ssn": "849-13-2690",
+    "dob": "02-24-1992",
+    "address": "3460 Elm Dr",
+    "city": "San Antonio",
+    "state": "MI"
+  }
+}

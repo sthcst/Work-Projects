@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Serrano
+  email: jacob.serrano1630@example.com
+  phone: (519) 497-1888
+  ssn: 152-63-9871
+  dob: 03-13-1952
+  address: 4204 Fifth Rd
+  city: Los Angeles
+  state: NJ

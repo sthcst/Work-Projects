@@ -1,0 +1,9 @@
+contact:
+  name: Helen Anderson
+  email: helen.anderson7176@yahoo.com
+  phone: 488 960 7078
+  ssn: 137-97-1435
+  dob: 20/02/1970
+  address: 3304 Oak Blvd
+  city: Houston
+  state: WI

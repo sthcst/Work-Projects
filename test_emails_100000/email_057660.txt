@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Bell,jeffrey.bell7840@company.com,+1 817-765-3840,610 72 3259,11/2/1967,"2609 Pine Rd",Washington,DC

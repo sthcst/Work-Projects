@@ -1,0 +1,14 @@
+INVOICE 524272
+
+Bill To:
+Name: William Gonzalez
+Email: william.gonzalez6116@outlook.com
+Phone: 908-821-6365
+SSN: 966-31-6983
+
+Address: 9154 Second Way
+Seattle, AZ
+
+Date of Birth: 06/09/1992
+
+Amount Due: $1417

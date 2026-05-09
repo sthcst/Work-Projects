@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Jones,nicholas.jones2909@company.com,+1 341-215-4689,092-26-1178,18/05/1985,"7737 West Rd",San Diego,MI

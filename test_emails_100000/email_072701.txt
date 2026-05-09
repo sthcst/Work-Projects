@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Gonzalez,kathleen.gonzalez8370@work.org,734 747 2281,107 39 2382,11/21/2000,"1061 Maple Ave",Chicago,FL

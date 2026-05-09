@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Smith",
+    "email": "kathleen.smith4451@mail.com",
+    "phone": "(773) 261-9483",
+    "ssn": "867 24 1231",
+    "dob": "11/27/1962",
+    "address": "9859 Birch Court",
+    "city": "Houston",
+    "state": "OH"
+  }
+}

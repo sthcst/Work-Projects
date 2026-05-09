@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Peterson,nicole.peterson7880@business.net,(493) 773-3006,413 38 5558,05-15-1982,"838 Second Ave",San Diego,TX

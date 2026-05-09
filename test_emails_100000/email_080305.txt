@@ -1,0 +1,9 @@
+contact:
+  name: Helen Anderson
+  email: helen.anderson8252@outlook.com
+  phone: 566-665-6803
+  ssn: 031476849
+  dob: 03/22/1971
+  address: 9814 First Dr
+  city: Denver
+  state: AZ

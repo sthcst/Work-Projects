@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Delgado,brenda.delgado2282@mail.com,885 937 3873,799 83 6750,09/08/1986,"3510 South Ln",Denver,CA

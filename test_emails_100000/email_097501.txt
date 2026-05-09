@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Johnson",
+    "email": "emma.johnson5780@gmail.com",
+    "phone": "+1 892-347-4738",
+    "ssn": "565-02-6135",
+    "dob": "11-11-1991",
+    "address": "9475 Oak Court",
+    "city": "Philadelphia",
+    "state": "CO"
+  }
+}

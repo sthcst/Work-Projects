@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Morgan",
+    "email": "steven.morgan8002@business.net",
+    "phone": "997-338-6277",
+    "ssn": "193-75-2249",
+    "dob": "02-17-1962",
+    "address": "3109 Park Court",
+    "city": "Boston",
+    "state": "MO"
+  }
+}

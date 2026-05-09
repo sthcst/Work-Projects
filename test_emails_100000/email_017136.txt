@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Peterson,katherine.peterson1662@gmail.com,(428) 817-2884,414-92-9593,05/12/1996,"2333 Fourth Way",Jacksonville,PA

@@ -1,0 +1,14 @@
+INVOICE 825734
+
+Bill To:
+Name: Brenda Serrano
+Email: brenda.serrano1297@example.com
+Phone: 523-712-3606
+SSN: 312-55-8413
+
+Address: 7764 Fifth Court
+San Jose, TX
+
+Date of Birth: 04-12-2000
+
+Amount Due: $5303

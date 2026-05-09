@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Phillips
+  email: lisa.phillips1796@business.net
+  phone: +1 397-922-4512
+  ssn: 022-01-1779
+  dob: 12/12/1989
+  address: 2360 Spring Ave
+  city: New York
+  state: TN

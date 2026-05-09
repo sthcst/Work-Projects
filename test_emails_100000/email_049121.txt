@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Reed,charles.reed4259@business.net,(219) 492-9845,322 92 5153,05/02/1981,"9626 Third Ln",Philadelphia,CA

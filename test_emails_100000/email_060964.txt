@@ -1,0 +1,14 @@
+INVOICE 176619
+
+Bill To:
+Name: Brian Perez
+Email: brian.perez5210@example.com
+Phone: 813 741 5686
+SSN: 167 70 1073
+
+Address: 8078 Sixth Court
+Boston, WI
+
+Date of Birth: 02/03/1962
+
+Amount Due: $1957

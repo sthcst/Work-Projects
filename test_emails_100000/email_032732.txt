@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Harris,richard.harris4942@company.com,+1 828-285-5748,259044219,01/17/1987,"4049 Elm Court",Dallas,NY

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Smith,william.smith7179@company.com,878-300-1714,690-43-4280,13/12/1990,"1970 Maple Dr",San Diego,CA

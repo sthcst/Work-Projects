@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Johnson,kenneth.johnson1595@business.net,(318) 457-2833,171498087,1/13/1998,"4926 Fifth Dr",Seattle,FL

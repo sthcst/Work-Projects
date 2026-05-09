@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Romero,katherine.romero6550@business.net,+1 886-604-5870,579-69-2600,9/28/2000,"9841 West Blvd",Los Angeles,MA

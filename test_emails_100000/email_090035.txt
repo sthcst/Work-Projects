@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Thompson
+  email: rachel.thompson9690@work.org
+  phone: +1 499-615-2875
+  ssn: 778-15-9658
+  dob: 12/24/1968
+  address: 73 Fourth Ln
+  city: Austin
+  state: GA

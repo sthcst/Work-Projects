@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Rodriguez
+  email: amanda.rodriguez8258@company.com
+  phone: 896 929 6780
+  ssn: 646-80-2661
+  dob: 1/18/1984
+  address: 4726 Fourth Ave
+  city: Boston
+  state: CO

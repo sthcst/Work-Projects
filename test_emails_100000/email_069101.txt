@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Gonzalez
+  email: michelle.gonzalez503@gmail.com
+  phone: 886 280 8752
+  ssn: 898-22-2093
+  dob: 07/08/1975
+  address: 6748 South Court
+  city: Chicago
+  state: NJ

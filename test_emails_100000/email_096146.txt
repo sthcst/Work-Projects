@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Peterson",
+    "email": "edward.peterson7613@business.net",
+    "phone": "(567) 767-4957",
+    "ssn": "263-52-5743",
+    "dob": "07-09-2002",
+    "address": "2345 Main Ln",
+    "city": "Phoenix",
+    "state": "FL"
+  }
+}

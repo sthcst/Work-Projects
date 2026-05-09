@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Campbell,shirley.campbell8315@outlook.com,+1 323-517-2933,395-62-6366,8/23/1970,"9313 South Blvd",San Diego,WA

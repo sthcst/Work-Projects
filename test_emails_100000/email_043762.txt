@@ -1,0 +1,14 @@
+INVOICE 921528
+
+Bill To:
+Name: Lauren Guerrero
+Email: lauren.guerrero11@company.com
+Phone: +1 352-408-1035
+SSN: 347-05-8755
+
+Address: 4795 Sixth Way
+Phoenix, AZ
+
+Date of Birth: 2/18/1965
+
+Amount Due: $7771

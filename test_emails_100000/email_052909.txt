@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Smith
+  email: kevin.smith3654@yahoo.com
+  phone: 870-272-6692
+  ssn: 005 68 3798
+  dob: 05/09/1950
+  address: 1034 Fifth Dr
+  city: San Antonio
+  state: TN

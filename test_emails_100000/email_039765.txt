@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Anderson
+  email: katherine.anderson1411@company.com
+  phone: (805) 649-4228
+  ssn: 691662778
+  dob: 07-07-1976
+  address: 7950 Fifth Dr
+  city: Chicago
+  state: VA

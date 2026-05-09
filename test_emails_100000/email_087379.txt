@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Jones",
+    "email": "richard.jones280@yahoo.com",
+    "phone": "(672) 617-3313",
+    "ssn": "823059434",
+    "dob": "6/12/1965",
+    "address": "2132 Main Rd",
+    "city": "Chicago",
+    "state": "CO"
+  }
+}

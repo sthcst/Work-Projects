@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Lewis
+  email: cynthia.lewis9139@example.com
+  phone: 779-993-9478
+  ssn: 731-53-3617
+  dob: 7/1/1959
+  address: 4067 Park St
+  city: San Antonio
+  state: TN

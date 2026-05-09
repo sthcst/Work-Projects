@@ -1,0 +1,9 @@
+contact:
+  name: Michael Anderson
+  email: michael.anderson9061@yahoo.com
+  phone: 562 864 3971
+  ssn: 970-36-4626
+  dob: 03-06-2002
+  address: 7183 Fifth Court
+  city: San Diego
+  state: NY

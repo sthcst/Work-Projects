@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Jimenez,brian.jimenez9870@outlook.com,924-436-3572,332-89-2032,8/21/1957,"1304 Cedar Ln",Chicago,FL

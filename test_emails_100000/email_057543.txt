@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Rodriguez
+  email: jessica.rodriguez8359@mail.com
+  phone: +1 492-371-1068
+  ssn: 239873767
+  dob: 11/8/1989
+  address: 6103 Cedar St
+  city: Seattle
+  state: MO

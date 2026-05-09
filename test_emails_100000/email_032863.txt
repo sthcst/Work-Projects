@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Taylor",
+    "email": "katherine.taylor1733@work.org",
+    "phone": "(718) 940-2676",
+    "ssn": "479801554",
+    "dob": "3/14/1968",
+    "address": "2241 West St",
+    "city": "Philadelphia",
+    "state": "MO"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Gonzalez
+  email: katherine.gonzalez469@outlook.com
+  phone: 495-914-3181
+  ssn: 638-86-6886
+  dob: 09/02/1976
+  address: 4554 Cedar Ln
+  city: Seattle
+  state: TX

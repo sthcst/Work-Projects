@@ -1,0 +1,9 @@
+contact:
+  name: Angela Walker
+  email: angela.walker6853@example.com
+  phone: (650) 308-8900
+  ssn: 180143233
+  dob: 7/1/1969
+  address: 2401 Birch Blvd
+  city: Denver
+  state: WA

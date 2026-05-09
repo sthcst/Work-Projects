@@ -1,0 +1,14 @@
+INVOICE 492909
+
+Bill To:
+Name: Charles Collins
+Email: charles.collins2894@company.com
+Phone: (905) 309-4482
+SSN: 788338906
+
+Address: 3713 Fifth Court
+San Antonio, DC
+
+Date of Birth: 11/2/1969
+
+Amount Due: $8284

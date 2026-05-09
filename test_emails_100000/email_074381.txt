@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Smith,brian.smith654@work.org,(885) 858-5030,083498532,10/21/2001,"4906 Pine St",Philadelphia,TX

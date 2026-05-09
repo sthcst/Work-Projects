@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Thompson,kenneth.thompson9604@work.org,+1 968-251-3695,651-34-2714,25/06/2000,"3849 Maple Dr",New York,GA

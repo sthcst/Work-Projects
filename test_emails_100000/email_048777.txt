@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Rodriguez",
+    "email": "jane.rodriguez2186@business.net",
+    "phone": "946-487-7184",
+    "ssn": "375698900",
+    "dob": "3/4/1984",
+    "address": "9807 Sixth Blvd",
+    "city": "Seattle",
+    "state": "MA"
+  }
+}

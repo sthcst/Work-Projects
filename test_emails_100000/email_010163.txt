@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Cooper",
+    "email": "angela.cooper9476@company.com",
+    "phone": "(481) 435-8394",
+    "ssn": "348273524",
+    "dob": "01-23-1965",
+    "address": "8376 Main Ave",
+    "city": "Los Angeles",
+    "state": "NY"
+  }
+}

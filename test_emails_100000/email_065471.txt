@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Gomez
+  email: rebecca.gomez9843@yahoo.com
+  phone: 944 644 1673
+  ssn: 378-87-6138
+  dob: 04-25-1973
+  address: 6480 Summer Blvd
+  city: Jacksonville
+  state: VA

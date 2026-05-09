@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Lewis",
+    "email": "brian.lewis9715@work.org",
+    "phone": "247 683 4249",
+    "ssn": "351 52 3069",
+    "dob": "12/05/2000",
+    "address": "809 First St",
+    "city": "New York",
+    "state": "FL"
+  }
+}

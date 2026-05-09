@@ -1,0 +1,14 @@
+INVOICE 374956
+
+Bill To:
+Name: Megan Alvarado
+Email: megan.alvarado7569@company.com
+Phone: 601-826-8423
+SSN: 221 86 5137
+
+Address: 9364 Sixth Blvd
+San Diego, MA
+
+Date of Birth: 02/22/1972
+
+Amount Due: $4848

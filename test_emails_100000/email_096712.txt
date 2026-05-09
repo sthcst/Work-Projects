@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Sanchez",
+    "email": "joseph.sanchez3421@gmail.com",
+    "phone": "657 283 8094",
+    "ssn": "118 67 8559",
+    "dob": "12/27/2003",
+    "address": "5936 West Way",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

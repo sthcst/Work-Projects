@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Williams",
+    "email": "john.williams7661@company.com",
+    "phone": "552 423 6701",
+    "ssn": "532 09 9787",
+    "dob": "25/10/1983",
+    "address": "4348 South Ave",
+    "city": "Washington",
+    "state": "AZ"
+  }
+}

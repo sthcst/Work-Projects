@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Rodriguez,ronald.rodriguez7484@mail.com,971-945-8929,873 50 1786,08-25-1991,"5695 Fifth Dr",Denver,TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Jimenez,william.jimenez481@company.com,687-539-5552,616-85-7138,04-16-2005,"5820 Second Blvd",Denver,WA

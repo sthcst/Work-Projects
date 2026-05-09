@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Lee",
+    "email": "joseph.lee9274@company.com",
+    "phone": "254 927 2744",
+    "ssn": "910 29 3700",
+    "dob": "11/28/1952",
+    "address": "8544 West St",
+    "city": "Philadelphia",
+    "state": "IL"
+  }
+}

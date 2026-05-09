@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Harris",
+    "email": "kathleen.harris2440@company.com",
+    "phone": "(617) 718-6365",
+    "ssn": "313857902",
+    "dob": "07/28/1956",
+    "address": "3469 First Way",
+    "city": "Boston",
+    "state": "AZ"
+  }
+}

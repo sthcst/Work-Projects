@@ -1,0 +1,9 @@
+contact:
+  name: Gary Rodriguez
+  email: gary.rodriguez3182@outlook.com
+  phone: 296-312-2849
+  ssn: 797693927
+  dob: 08-20-1984
+  address: 1014 South Rd
+  city: Washington
+  state: CA

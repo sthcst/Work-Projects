@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Collins
+  email: andrew.collins7191@work.org
+  phone: +1 443-724-8904
+  ssn: 481-86-9289
+  dob: 15/05/1971
+  address: 8889 Elm St
+  city: Dallas
+  state: MA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Campbell,david.campbell78@yahoo.com,+1 988-560-3030,520 13 2861,10/23/1985,"7773 Park Court",San Jose,GA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Bell,angela.bell1646@yahoo.com,569 417 6751,835 25 1990,04/19/1997,"8230 Fourth Dr",Boston,TX

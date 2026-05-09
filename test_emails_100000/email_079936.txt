@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Gonzalez,sarah.gonzalez5939@yahoo.com,932 486 4210,375-87-7701,01/22/1977,"9798 Oak Dr",Washington,TX

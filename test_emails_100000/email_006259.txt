@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Flores,jennifer.flores191@company.com,(915) 493-3463,016-56-1424,03/01/2004,"2173 Main Blvd",San Antonio,WI

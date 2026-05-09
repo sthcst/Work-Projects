@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Miller,emily.miller4298@work.org,+1 985-874-7919,901 10 1592,07-27-1959,"8461 Elm St",New York,MA

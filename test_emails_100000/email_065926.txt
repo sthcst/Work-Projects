@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Perez",
+    "email": "christopher.perez8548@work.org",
+    "phone": "327 807 7649",
+    "ssn": "660-99-9281",
+    "dob": "12/24/1988",
+    "address": "7941 Pine St",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

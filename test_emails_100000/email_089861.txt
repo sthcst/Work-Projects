@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Gomez
+  email: sarah.gomez8051@work.org
+  phone: 365-479-6090
+  ssn: 751683513
+  dob: 01/16/2003
+  address: 6744 Fourth Court
+  city: Denver
+  state: MA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Romero",
+    "email": "rebecca.romero3801@business.net",
+    "phone": "+1 396-391-8231",
+    "ssn": "944831590",
+    "dob": "27/11/1952",
+    "address": "1843 Cedar Court",
+    "city": "Houston",
+    "state": "WA"
+  }
+}

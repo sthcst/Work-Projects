@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Gomez
+  email: joseph.gomez4511@example.com
+  phone: 917 756 3857
+  ssn: 344706021
+  dob: 04/21/1950
+  address: 7856 Spring Ln
+  city: New York
+  state: VA

@@ -1,0 +1,14 @@
+INVOICE 136209
+
+Bill To:
+Name: James Martin
+Email: james.martin1726@example.com
+Phone: 463-912-8576
+SSN: 085 71 7347
+
+Address: 1524 Main Blvd
+Dallas, DC
+
+Date of Birth: 10/22/1953
+
+Amount Due: $6177

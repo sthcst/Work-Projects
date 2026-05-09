@@ -1,0 +1,9 @@
+contact:
+  name: Michael Roberts
+  email: michael.roberts8420@mail.com
+  phone: 987-556-4417
+  ssn: 984-10-9710
+  dob: 12/23/1991
+  address: 2597 Spring Way
+  city: Phoenix
+  state: TX

@@ -1,0 +1,9 @@
+contact:
+  name: William Dominguez
+  email: william.dominguez4017@work.org
+  phone: 390 921 1955
+  ssn: 550-13-6762
+  dob: 2/15/1999
+  address: 7228 Spring Ln
+  city: Washington
+  state: CO

@@ -1,0 +1,9 @@
+contact:
+  name: George Thompson
+  email: george.thompson8604@company.com
+  phone: (874) 881-1150
+  ssn: 889-30-1175
+  dob: 08/06/1992
+  address: 3797 East Way
+  city: San Jose
+  state: WI

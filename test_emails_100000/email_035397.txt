@@ -1,0 +1,9 @@
+contact:
+  name: Jane Hall
+  email: jane.hall3579@gmail.com
+  phone: 312-725-7558
+  ssn: 381 69 2780
+  dob: 10-11-1974
+  address: 1387 Cedar St
+  city: San Jose
+  state: IL

@@ -1,0 +1,9 @@
+contact:
+  name: Richard Guerrero
+  email: richard.guerrero8550@mail.com
+  phone: 827 884 7829
+  ssn: 041-89-4141
+  dob: 04/24/1988
+  address: 4446 East Ln
+  city: Seattle
+  state: IL

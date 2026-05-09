@@ -1,0 +1,14 @@
+INVOICE 758221
+
+Bill To:
+Name: Ronald Ramirez
+Email: ronald.ramirez5048@mail.com
+Phone: 991 524 4271
+SSN: 477 52 4022
+
+Address: 1197 Fourth Ln
+San Jose, NC
+
+Date of Birth: 27/04/1995
+
+Amount Due: $5000

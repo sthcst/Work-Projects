@@ -1,0 +1,9 @@
+contact:
+  name: Donald Ramirez
+  email: donald.ramirez8976@yahoo.com
+  phone: +1 423-561-2966
+  ssn: 674-85-2295
+  dob: 2/24/1992
+  address: 3393 Cedar Rd
+  city: San Diego
+  state: GA

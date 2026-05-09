@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Dominguez,brian.dominguez3695@outlook.com,(843) 231-8618,939-58-4588,10/03/1995,"5631 Main Ln",Austin,TN

@@ -1,0 +1,14 @@
+INVOICE 660479
+
+Bill To:
+Name: Stephanie Jones
+Email: stephanie.jones9319@company.com
+Phone: +1 323-754-4444
+SSN: 138061819
+
+Address: 8323 Birch Rd
+Seattle, CA
+
+Date of Birth: 09/13/1971
+
+Amount Due: $5992

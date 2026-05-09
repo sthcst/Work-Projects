@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Rogers
+  email: samantha.rogers264@work.org
+  phone: +1 871-437-6542
+  ssn: 566-41-4790
+  dob: 06/24/1985
+  address: 9845 South Court
+  city: San Jose
+  state: VA

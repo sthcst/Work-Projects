@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Brown,nicole.brown6848@example.com,710 741 8751,903 99 2174,11/06/1996,"6844 Main Dr",Philadelphia,NJ

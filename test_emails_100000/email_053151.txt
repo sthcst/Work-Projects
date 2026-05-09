@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Nelson,jennifer.nelson3414@gmail.com,(503) 297-9790,240-17-2339,12-20-1975,"823 Summer Ln",Denver,FL

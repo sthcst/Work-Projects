@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Nunez,brian.nunez2693@gmail.com,+1 617-964-3120,475-59-8985,06/12/1987,"6714 Third Dr",Chicago,CA

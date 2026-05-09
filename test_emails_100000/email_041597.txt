@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Walker",
+    "email": "kathleen.walker9260@gmail.com",
+    "phone": "+1 612-423-7269",
+    "ssn": "852 75 9459",
+    "dob": "1/3/1985",
+    "address": "2678 South Blvd",
+    "city": "Washington",
+    "state": "PA"
+  }
+}

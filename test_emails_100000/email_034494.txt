@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Dominguez,katherine.dominguez6545@gmail.com,+1 889-630-2745,350 86 4151,06/06/2003,"8356 South Court",Philadelphia,OH

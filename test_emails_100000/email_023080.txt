@@ -1,0 +1,14 @@
+INVOICE 390211
+
+Bill To:
+Name: John Campbell
+Email: john.campbell991@work.org
+Phone: 773 754 7833
+SSN: 149 04 8419
+
+Address: 3857 Pine Ln
+Washington, CA
+
+Date of Birth: 03/03/1957
+
+Amount Due: $7613

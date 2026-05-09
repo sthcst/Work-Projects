@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Gonzalez,rachel.gonzalez9361@outlook.com,(216) 492-7702,101 44 2944,17/01/1975,"7590 Sixth Way",San Antonio,GA

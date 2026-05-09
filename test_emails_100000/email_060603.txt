@@ -1,0 +1,14 @@
+INVOICE 814346
+
+Bill To:
+Name: Rachel Thomas
+Email: rachel.thomas8598@example.com
+Phone: (520) 962-9154
+SSN: 193634166
+
+Address: 5336 Park Dr
+Philadelphia, TX
+
+Date of Birth: 24/03/1973
+
+Amount Due: $4718

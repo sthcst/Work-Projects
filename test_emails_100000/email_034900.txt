@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Thomas",
+    "email": "paul.thomas8209@mail.com",
+    "phone": "996 403 9024",
+    "ssn": "861-46-9588",
+    "dob": "12/15/1981",
+    "address": "7637 Spring Rd",
+    "city": "Seattle",
+    "state": "WI"
+  }
+}

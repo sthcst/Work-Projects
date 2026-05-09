@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Thompson
+  email: jessica.thompson7960@example.com
+  phone: +1 489-492-3187
+  ssn: 953349239
+  dob: 16/01/1976
+  address: 4435 Third St
+  city: Denver
+  state: DC

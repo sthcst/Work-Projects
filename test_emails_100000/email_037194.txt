@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Roberts",
+    "email": "matthew.roberts2184@gmail.com",
+    "phone": "+1 569-485-2098",
+    "ssn": "898 91 8489",
+    "dob": "07-05-1988",
+    "address": "2631 First Way",
+    "city": "Chicago",
+    "state": "VA"
+  }
+}

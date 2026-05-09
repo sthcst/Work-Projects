@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Ramirez",
+    "email": "cynthia.ramirez7017@mail.com",
+    "phone": "(287) 765-2237",
+    "ssn": "596153998",
+    "dob": "11/17/1990",
+    "address": "1886 Elm Ave",
+    "city": "Chicago",
+    "state": "GA"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 253206
+
+Bill To:
+Name: Daniel Davis
+Email: daniel.davis986@example.com
+Phone: 859-619-5396
+SSN: 957 71 9798
+
+Address: 663 Park Rd
+San Jose, PA
+
+Date of Birth: 06-01-1957
+
+Amount Due: $829

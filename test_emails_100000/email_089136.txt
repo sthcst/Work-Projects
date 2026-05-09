@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Ortiz,cynthia.ortiz5691@company.com,+1 801-301-1085,014157899,8/4/2003,"9813 Spring Rd",San Diego,NJ

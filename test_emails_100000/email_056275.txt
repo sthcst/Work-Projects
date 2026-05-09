@@ -1,0 +1,12 @@
+SUPPORT TICKET #61967
+
+Customer: Steven Flores
+Email: steven.flores527@example.com
+Phone: +1 215-273-4089
+Account: 114405174
+
+Issue Description: Technical problem reported
+DOB on file: 05/24/1991
+Address: 737 Second Dr, San Antonio, AZ
+
+Status: OPEN

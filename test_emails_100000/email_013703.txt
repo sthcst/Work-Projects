@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Jones,richard.jones5663@example.com,+1 646-861-4715,600-62-6094,28/04/1977,"1619 North Rd",New York,FL

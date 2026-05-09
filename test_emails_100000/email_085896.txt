@@ -1,0 +1,9 @@
+contact:
+  name: Maria Davis
+  email: maria.davis8192@yahoo.com
+  phone: 924-783-9904
+  ssn: 886-96-4309
+  dob: 16/01/2003
+  address: 3512 Spring Ave
+  city: Philadelphia
+  state: WA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Clark",
+    "email": "george.clark4529@yahoo.com",
+    "phone": "730-982-6166",
+    "ssn": "986 08 1398",
+    "dob": "02/23/2005",
+    "address": "9534 Main Ln",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}

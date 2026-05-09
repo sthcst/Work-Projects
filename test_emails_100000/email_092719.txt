@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Reyes
+  email: ashley.reyes622@company.com
+  phone: 741-554-8078
+  ssn: 980559271
+  dob: 05/05/2001
+  address: 6281 West Ave
+  city: San Antonio
+  state: AZ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Jones",
+    "email": "pamela.jones1800@outlook.com",
+    "phone": "+1 539-824-1014",
+    "ssn": "236011490",
+    "dob": "06/08/1987",
+    "address": "5362 Summer Rd",
+    "city": "New York",
+    "state": "TN"
+  }
+}

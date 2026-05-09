@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Martinez",
+    "email": "jacob.martinez2707@mail.com",
+    "phone": "694-934-1922",
+    "ssn": "257 01 4526",
+    "dob": "27/01/2001",
+    "address": "6758 Cedar Dr",
+    "city": "Washington",
+    "state": "MA"
+  }
+}

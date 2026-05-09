@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Ramirez",
+    "email": "nicholas.ramirez4911@gmail.com",
+    "phone": "652 932 5647",
+    "ssn": "879-68-1848",
+    "dob": "14/09/1975",
+    "address": "4024 Sixth Way",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Moore
+  email: sarah.moore1626@outlook.com
+  phone: 787 540 9899
+  ssn: 203-92-2875
+  dob: 10/06/1977
+  address: 6976 Park Ave
+  city: San Jose
+  state: FL

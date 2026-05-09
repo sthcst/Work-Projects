@@ -1,0 +1,14 @@
+INVOICE 100656
+
+Bill To:
+Name: Deborah Johnson
+Email: deborah.johnson100@gmail.com
+Phone: 451 830 1794
+SSN: 034-16-2134
+
+Address: 2504 Third St
+Phoenix, WA
+
+Date of Birth: 6/3/1980
+
+Amount Due: $9805

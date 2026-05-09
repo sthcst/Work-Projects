@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Cooper,samantha.cooper7070@mail.com,300 648 4641,681 18 9483,09-21-1951,"5647 Maple Way",Chicago,NC

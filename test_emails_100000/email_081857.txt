@@ -1,0 +1,9 @@
+contact:
+  name: Angela Jackson
+  email: angela.jackson825@mail.com
+  phone: +1 264-752-1419
+  ssn: 383479084
+  dob: 02/03/1959
+  address: 6717 Pine Court
+  city: Philadelphia
+  state: MA

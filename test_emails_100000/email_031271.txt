@@ -1,0 +1,9 @@
+contact:
+  name: James Murillo
+  email: james.murillo6394@mail.com
+  phone: 894 425 6114
+  ssn: 063384625
+  dob: 3/3/2004
+  address: 6797 North Rd
+  city: Denver
+  state: TX

@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Guerrero
+  email: samantha.guerrero5075@work.org
+  phone: 232-229-8839
+  ssn: 491776244
+  dob: 16/05/1960
+  address: 8835 Maple Court
+  city: Seattle
+  state: CA

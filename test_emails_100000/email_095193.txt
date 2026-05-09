@@ -1,0 +1,14 @@
+INVOICE 800321
+
+Bill To:
+Name: Anna Phillips
+Email: anna.phillips8485@mail.com
+Phone: +1 674-811-4556
+SSN: 684 53 2016
+
+Address: 787 Oak Way
+San Antonio, CA
+
+Date of Birth: 10-12-1964
+
+Amount Due: $9474

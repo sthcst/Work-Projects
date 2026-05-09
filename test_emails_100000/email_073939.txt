@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Moore,amanda.moore1104@work.org,(527) 639-6898,781678849,14/11/1978,"9132 First Way",Washington,MO

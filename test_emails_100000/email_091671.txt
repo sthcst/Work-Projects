@@ -1,0 +1,9 @@
+contact:
+  name: Gary Clark
+  email: gary.clark7467@example.com
+  phone: 294-977-2265
+  ssn: 669 58 4061
+  dob: 12/26/2004
+  address: 3688 Oak Way
+  city: Seattle
+  state: MO

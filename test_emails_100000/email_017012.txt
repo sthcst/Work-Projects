@@ -1,0 +1,9 @@
+contact:
+  name: Angela Walker
+  email: angela.walker6641@gmail.com
+  phone: (445) 513-4321
+  ssn: 200579226
+  dob: 6/9/1997
+  address: 4146 Cedar Blvd
+  city: Boston
+  state: GA

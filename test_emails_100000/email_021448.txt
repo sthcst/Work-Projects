@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Edwards",
+    "email": "amanda.edwards9415@company.com",
+    "phone": "(592) 333-9313",
+    "ssn": "938887772",
+    "dob": "10/11/1997",
+    "address": "2811 Park Rd",
+    "city": "New York",
+    "state": "MA"
+  }
+}

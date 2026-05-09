@@ -1,0 +1,9 @@
+contact:
+  name: Christine Taylor
+  email: christine.taylor1681@mail.com
+  phone: 557-435-7537
+  ssn: 065 57 2814
+  dob: 11/07/1977
+  address: 1469 Second Way
+  city: San Diego
+  state: CA

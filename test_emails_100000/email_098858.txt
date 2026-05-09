@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Harris,sarah.harris3805@yahoo.com,+1 481-819-2238,855573302,07-15-2001,"7916 West Blvd",Denver,TX

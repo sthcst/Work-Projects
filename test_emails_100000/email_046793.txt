@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Peterson
+  email: daniel.peterson3044@example.com
+  phone: 592 344 6609
+  ssn: 918 74 5672
+  dob: 25/09/1959
+  address: 803 Fifth Dr
+  city: Chicago
+  state: MA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Thomas,angela.thomas2887@outlook.com,(315) 823-3310,460351661,22/02/1953,"2235 Third Blvd",Chicago,AZ

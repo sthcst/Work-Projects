@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Sanchez",
+    "email": "james.sanchez6698@example.com",
+    "phone": "502 237 4891",
+    "ssn": "211 55 3093",
+    "dob": "01-18-1957",
+    "address": "3958 Park St",
+    "city": "Jacksonville",
+    "state": "WA"
+  }
+}

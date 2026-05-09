@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Hall",
+    "email": "david.hall3032@mail.com",
+    "phone": "+1 876-281-6688",
+    "ssn": "539 11 5451",
+    "dob": "04/09/2002",
+    "address": "1963 Sixth St",
+    "city": "Phoenix",
+    "state": "FL"
+  }
+}

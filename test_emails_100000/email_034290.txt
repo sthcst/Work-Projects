@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Johnson",
+    "email": "maria.johnson5071@company.com",
+    "phone": "774 358 8261",
+    "ssn": "954422297",
+    "dob": "12/24/1966",
+    "address": "5739 Fourth Court",
+    "city": "Philadelphia",
+    "state": "FL"
+  }
+}

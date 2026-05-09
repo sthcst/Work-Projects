@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Brown,lisa.brown9137@company.com,787 223 9288,845539694,16/03/1997,"2885 First Blvd",Los Angeles,TX

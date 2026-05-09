@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Lee,jeffrey.lee3807@yahoo.com,485 322 5041,631-45-5372,7/10/1965,"9651 Maple Blvd",San Diego,NC

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Jackson,donald.jackson2477@example.com,+1 469-991-2656,672073825,02/24/2002,"5568 Elm Ln",Dallas,CA

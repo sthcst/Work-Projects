@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Lopez",
+    "email": "samantha.lopez1318@gmail.com",
+    "phone": "+1 648-681-6225",
+    "ssn": "448586727",
+    "dob": "08/03/1951",
+    "address": "1796 Main Rd",
+    "city": "Los Angeles",
+    "state": "OH"
+  }
+}

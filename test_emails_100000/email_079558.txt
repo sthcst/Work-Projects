@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Serrano",
+    "email": "richard.serrano6168@work.org",
+    "phone": "966 381 7234",
+    "ssn": "384735252",
+    "dob": "11/26/1950",
+    "address": "1538 Oak Dr",
+    "city": "Phoenix",
+    "state": "NJ"
+  }
+}

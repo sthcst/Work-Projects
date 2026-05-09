@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Romero,amanda.romero3599@yahoo.com,549-767-7615,476 86 6992,08/17/1979,"9639 Third Ave",New York,MI

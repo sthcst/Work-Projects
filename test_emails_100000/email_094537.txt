@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Martinez",
+    "email": "john.martinez6504@gmail.com",
+    "phone": "+1 236-253-3053",
+    "ssn": "129862557",
+    "dob": "15/06/1965",
+    "address": "4806 Sixth Rd",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

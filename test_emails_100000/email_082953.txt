@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Ramirez,samantha.ramirez8734@example.com,286 989 3524,808089504,12/10/2002,"2451 Third Ave",Houston,FL

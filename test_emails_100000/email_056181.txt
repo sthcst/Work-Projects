@@ -1,0 +1,14 @@
+INVOICE 961110
+
+Bill To:
+Name: Jennifer Hall
+Email: jennifer.hall8710@example.com
+Phone: (974) 678-1316
+SSN: 516-97-3772
+
+Address: 1690 Pine Rd
+Austin, CA
+
+Date of Birth: 16/04/1973
+
+Amount Due: $7984

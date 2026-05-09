@@ -1,0 +1,14 @@
+INVOICE 366540
+
+Bill To:
+Name: Kenneth Martinez
+Email: kenneth.martinez247@work.org
+Phone: 414-363-8323
+SSN: 326226253
+
+Address: 5580 First Court
+Phoenix, TX
+
+Date of Birth: 22/04/1992
+
+Amount Due: $4566

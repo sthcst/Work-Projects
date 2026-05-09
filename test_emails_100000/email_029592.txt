@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Cooper,emily.cooper7953@work.org,304-477-4821,564 15 8395,08-26-1975,"4428 Second St",Dallas,FL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Young",
+    "email": "helen.young3203@business.net",
+    "phone": "960-858-4321",
+    "ssn": "229-42-1388",
+    "dob": "4/24/1954",
+    "address": "2403 East Ln",
+    "city": "Jacksonville",
+    "state": "AZ"
+  }
+}

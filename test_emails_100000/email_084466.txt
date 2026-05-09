@@ -1,0 +1,14 @@
+INVOICE 738381
+
+Bill To:
+Name: Timothy Jimenez
+Email: timothy.jimenez3715@company.com
+Phone: 425-585-4422
+SSN: 642-86-3636
+
+Address: 8560 Main Dr
+Los Angeles, MA
+
+Date of Birth: 2/8/1977
+
+Amount Due: $2351

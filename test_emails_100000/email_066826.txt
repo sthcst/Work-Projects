@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Ramirez
+  email: kathleen.ramirez6614@outlook.com
+  phone: 421-390-8588
+  ssn: 392 46 1863
+  dob: 10-07-1965
+  address: 5947 Birch Ln
+  city: Houston
+  state: IL

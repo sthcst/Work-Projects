@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Cooper",
+    "email": "daniel.cooper9758@example.com",
+    "phone": "720 432 1173",
+    "ssn": "435 59 4646",
+    "dob": "06/07/1957",
+    "address": "3816 Sixth St",
+    "city": "Dallas",
+    "state": "NY"
+  }
+}

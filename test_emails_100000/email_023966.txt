@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Cooper,andrew.cooper3224@yahoo.com,(923) 384-4390,153-03-9936,04/12/2005,"7866 North St",Jacksonville,OH

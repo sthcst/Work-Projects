@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Perez,gary.perez1253@mail.com,+1 622-906-1659,032-05-8458,02/01/1952,"6437 Elm Court",Los Angeles,WA

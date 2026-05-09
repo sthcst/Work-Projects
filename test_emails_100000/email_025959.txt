@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Morris
+  email: andrew.morris2446@outlook.com
+  phone: (277) 525-6991
+  ssn: 982 39 4240
+  dob: 18/11/1966
+  address: 8262 Second Rd
+  city: New York
+  state: MA

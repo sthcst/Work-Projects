@@ -1,0 +1,9 @@
+contact:
+  name: George Moore
+  email: george.moore2502@gmail.com
+  phone: (627) 848-6240
+  ssn: 015-74-2493
+  dob: 1/21/2001
+  address: 4958 Pine Dr
+  city: Seattle
+  state: NC

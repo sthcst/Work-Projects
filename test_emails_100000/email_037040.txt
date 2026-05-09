@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Jones,nicole.jones7012@gmail.com,+1 717-376-9763,214-81-9947,03/02/1950,"6679 Fifth Ln",Houston,TX

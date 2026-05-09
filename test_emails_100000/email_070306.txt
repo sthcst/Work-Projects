@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Phillips,kenneth.phillips5020@outlook.com,305-783-9338,388-44-1737,04/12/1985,"5246 Cedar Blvd",Dallas,CA

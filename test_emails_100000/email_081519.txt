@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Smith,robert.smith9537@outlook.com,979 463 5816,077 14 7172,23/10/1952,"8096 South Rd",New York,MD

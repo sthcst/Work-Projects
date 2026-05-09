@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Perez,helen.perez9230@example.com,+1 412-751-8747,685-05-5231,04/11/1986,"1454 Main Ln",Seattle,AZ

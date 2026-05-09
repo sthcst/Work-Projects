@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Young",
+    "email": "john.young787@outlook.com",
+    "phone": "530-563-5657",
+    "ssn": "925 18 2801",
+    "dob": "01/02/1976",
+    "address": "9517 Spring Ln",
+    "city": "San Antonio",
+    "state": "AZ"
+  }
+}

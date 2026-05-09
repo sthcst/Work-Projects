@@ -1,0 +1,14 @@
+INVOICE 553333
+
+Bill To:
+Name: Donald Rodriguez
+Email: donald.rodriguez9324@work.org
+Phone: 803-396-9010
+SSN: 428-88-2888
+
+Address: 2231 Park Ave
+Los Angeles, AZ
+
+Date of Birth: 05-17-1972
+
+Amount Due: $8760

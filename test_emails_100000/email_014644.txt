@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Phillips,nicholas.phillips3391@business.net,947-803-3893,383-06-8982,08/28/1952,"4341 Summer Court",Philadelphia,CA

@@ -1,0 +1,9 @@
+contact:
+  name: Angela Jones
+  email: angela.jones2025@company.com
+  phone: (928) 327-4269
+  ssn: 009-32-1467
+  dob: 02-10-1998
+  address: 3749 Pine Rd
+  city: Washington
+  state: MI

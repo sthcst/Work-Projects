@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Cooper",
+    "email": "michelle.cooper2010@example.com",
+    "phone": "+1 457-253-9196",
+    "ssn": "338-72-7770",
+    "dob": "7/26/1980",
+    "address": "2355 Oak Blvd",
+    "city": "Denver",
+    "state": "DC"
+  }
+}

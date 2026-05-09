@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Thomas",
+    "email": "cynthia.thomas3704@company.com",
+    "phone": "557 236 6741",
+    "ssn": "908-94-2134",
+    "dob": "21/09/1968",
+    "address": "8102 Pine Ave",
+    "city": "Seattle",
+    "state": "MD"
+  }
+}

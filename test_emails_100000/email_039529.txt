@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Wilson,michael.wilson6790@gmail.com,297 338 2793,444-62-8801,9/14/2003,"1718 Main Court",Jacksonville,MD

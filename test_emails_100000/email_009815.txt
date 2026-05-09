@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Guerrero
+  email: samantha.guerrero7531@yahoo.com
+  phone: +1 852-524-7122
+  ssn: 587-06-3165
+  dob: 07/16/1955
+  address: 7763 Birch Ln
+  city: Houston
+  state: TN

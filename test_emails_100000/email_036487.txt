@@ -1,0 +1,9 @@
+contact:
+  name: Steven Jimenez
+  email: steven.jimenez321@example.com
+  phone: 200-372-6323
+  ssn: 484-05-5901
+  dob: 4/4/1992
+  address: 7761 Fourth Rd
+  city: San Antonio
+  state: WA

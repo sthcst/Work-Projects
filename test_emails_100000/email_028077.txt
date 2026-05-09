@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Phillips,william.phillips2963@yahoo.com,+1 458-965-3707,621 67 8931,5/24/1986,"2588 Oak Way",San Jose,MI

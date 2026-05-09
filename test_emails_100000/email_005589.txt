@@ -1,0 +1,9 @@
+contact:
+  name: Richard Rogers
+  email: richard.rogers7205@business.net
+  phone: 913-286-3373
+  ssn: 614253372
+  dob: 11/06/1991
+  address: 2693 Fifth Ave
+  city: Washington
+  state: CA

@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Delgado
+  email: kevin.delgado8621@yahoo.com
+  phone: 324-448-3796
+  ssn: 048 19 3819
+  dob: 4/11/2004
+  address: 6510 Pine Ln
+  city: Phoenix
+  state: AZ

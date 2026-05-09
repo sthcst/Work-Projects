@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Walker",
+    "email": "jessica.walker9219@gmail.com",
+    "phone": "790-840-4425",
+    "ssn": "396-64-8781",
+    "dob": "9/21/1993",
+    "address": "5098 West Blvd",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

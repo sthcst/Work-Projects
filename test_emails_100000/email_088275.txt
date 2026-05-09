@@ -1,0 +1,9 @@
+contact:
+  name: Christine Bell
+  email: christine.bell3024@yahoo.com
+  phone: 475-305-7617
+  ssn: 508 99 6965
+  dob: 2/8/1966
+  address: 1456 Summer St
+  city: San Diego
+  state: CO

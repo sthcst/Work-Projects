@@ -1,0 +1,14 @@
+INVOICE 768423
+
+Bill To:
+Name: Helen Brown
+Email: helen.brown2414@example.com
+Phone: (678) 384-9831
+SSN: 333 11 1636
+
+Address: 2164 Fifth Rd
+New York, MI
+
+Date of Birth: 2/11/1967
+
+Amount Due: $1450

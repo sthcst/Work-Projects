@@ -1,0 +1,9 @@
+contact:
+  name: David Harris
+  email: david.harris3678@gmail.com
+  phone: (363) 657-4238
+  ssn: 607-04-3205
+  dob: 24/06/1950
+  address: 2746 Spring Ln
+  city: Jacksonville
+  state: PA

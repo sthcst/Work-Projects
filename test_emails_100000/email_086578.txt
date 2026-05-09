@@ -1,0 +1,9 @@
+contact:
+  name: Charles Rodriguez
+  email: charles.rodriguez8539@outlook.com
+  phone: +1 995-807-1406
+  ssn: 633797766
+  dob: 12-01-1993
+  address: 8908 Fourth Ln
+  city: San Jose
+  state: TX

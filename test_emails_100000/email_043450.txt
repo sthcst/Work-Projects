@@ -1,0 +1,14 @@
+INVOICE 163436
+
+Bill To:
+Name: Nicholas Parker
+Email: nicholas.parker7881@example.com
+Phone: +1 522-900-9740
+SSN: 107 51 1103
+
+Address: 8709 Park Ave
+Austin, WA
+
+Date of Birth: 11/02/1958
+
+Amount Due: $9483

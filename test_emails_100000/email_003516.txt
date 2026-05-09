@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Wilson",
+    "email": "deborah.wilson4592@yahoo.com",
+    "phone": "610-706-4355",
+    "ssn": "823798006",
+    "dob": "11/05/1952",
+    "address": "8187 West Ave",
+    "city": "San Jose",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Clark,edward.clark494@outlook.com,748 437 4663,369-38-2509,17/12/1955,"6586 First Dr",Washington,PA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Murillo",
+    "email": "katherine.murillo9954@work.org",
+    "phone": "492-655-6458",
+    "ssn": "981 30 1134",
+    "dob": "12/22/1983",
+    "address": "5768 Summer Blvd",
+    "city": "Seattle",
+    "state": "WI"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Robinson",
+    "email": "michael.robinson484@company.com",
+    "phone": "920-367-9207",
+    "ssn": "186198430",
+    "dob": "10/20/1984",
+    "address": "9558 Summer Dr",
+    "city": "Jacksonville",
+    "state": "FL"
+  }
+}

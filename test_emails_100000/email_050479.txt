@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Romero,joshua.romero2642@example.com,235 862 8859,216048485,12/11/1998,"3489 Second Rd",Washington,CA

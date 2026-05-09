@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Young",
+    "email": "brenda.young5986@company.com",
+    "phone": "(808) 323-8264",
+    "ssn": "903658541",
+    "dob": "12/1/1986",
+    "address": "8205 Sixth Ave",
+    "city": "Chicago",
+    "state": "FL"
+  }
+}

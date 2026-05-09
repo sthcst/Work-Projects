@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica White",
+    "email": "jessica.white7499@work.org",
+    "phone": "+1 732-681-2776",
+    "ssn": "919-87-4887",
+    "dob": "08-05-1994",
+    "address": "8978 West Rd",
+    "city": "San Jose",
+    "state": "VA"
+  }
+}

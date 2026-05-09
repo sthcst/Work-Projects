@@ -1,0 +1,14 @@
+INVOICE 566871
+
+Bill To:
+Name: Gary Brown
+Email: gary.brown5642@mail.com
+Phone: 768 722 9190
+SSN: 363 01 1305
+
+Address: 2318 Third St
+Boston, TX
+
+Date of Birth: 09/17/1975
+
+Amount Due: $1158

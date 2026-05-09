@@ -1,0 +1,9 @@
+contact:
+  name: Michael Walker
+  email: michael.walker5876@business.net
+  phone: +1 517-452-3137
+  ssn: 717 58 2531
+  dob: 12/09/1995
+  address: 8235 Spring Way
+  city: New York
+  state: PA

@@ -1,0 +1,9 @@
+contact:
+  name: Maria Williams
+  email: maria.williams5702@mail.com
+  phone: +1 334-811-7641
+  ssn: 069 93 7584
+  dob: 21/11/2005
+  address: 1753 Sixth Ln
+  city: Philadelphia
+  state: TX

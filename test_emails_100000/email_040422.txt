@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Peterson,cynthia.peterson5836@work.org,(867) 836-9882,681 45 7364,11/14/1979,"1893 Maple Ave",Denver,PA

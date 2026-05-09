@@ -1,0 +1,9 @@
+contact:
+  name: Steven Murillo
+  email: steven.murillo9208@mail.com
+  phone: 266-648-3258
+  ssn: 184 01 8639
+  dob: 4/5/2005
+  address: 5179 Park Rd
+  city: Boston
+  state: CA

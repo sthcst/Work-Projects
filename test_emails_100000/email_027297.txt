@@ -1,0 +1,14 @@
+INVOICE 538247
+
+Bill To:
+Name: Jennifer Smith
+Email: jennifer.smith9567@gmail.com
+Phone: 274 631 9353
+SSN: 698824895
+
+Address: 9080 Second Ln
+San Antonio, PA
+
+Date of Birth: 05/02/1978
+
+Amount Due: $296

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Lewis,kathleen.lewis9310@example.com,534-869-1236,295627713,10/19/1957,"8986 South Court",San Diego,FL

@@ -1,0 +1,9 @@
+contact:
+  name: Angela Wilson
+  email: angela.wilson4324@work.org
+  phone: +1 900-375-2536
+  ssn: 221 71 3541
+  dob: 02-11-1998
+  address: 2672 Summer Way
+  city: Boston
+  state: AZ

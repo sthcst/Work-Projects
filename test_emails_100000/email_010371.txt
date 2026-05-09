@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Hall
+  email: daniel.hall1349@mail.com
+  phone: (390) 455-2841
+  ssn: 544-27-9339
+  dob: 12/22/1990
+  address: 6380 West Rd
+  city: Seattle
+  state: CA

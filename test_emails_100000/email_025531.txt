@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Reed",
+    "email": "michelle.reed5274@business.net",
+    "phone": "(425) 249-8547",
+    "ssn": "524 96 7485",
+    "dob": "24/09/1958",
+    "address": "2905 Maple Ave",
+    "city": "New York",
+    "state": "NC"
+  }
+}

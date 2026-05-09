@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Nelson",
+    "email": "emma.nelson6202@company.com",
+    "phone": "835-694-2285",
+    "ssn": "028 42 9183",
+    "dob": "05/24/1953",
+    "address": "2058 Sixth St",
+    "city": "Seattle",
+    "state": "MA"
+  }
+}

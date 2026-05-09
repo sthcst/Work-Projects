@@ -1,0 +1,9 @@
+contact:
+  name: Edward Peterson
+  email: edward.peterson2745@outlook.com
+  phone: +1 346-566-6143
+  ssn: 983-42-1123
+  dob: 10/10/1982
+  address: 8529 Park Blvd
+  city: San Antonio
+  state: TN

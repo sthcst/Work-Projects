@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Romero
+  email: daniel.romero1726@mail.com
+  phone: 926 782 3857
+  ssn: 183-14-9768
+  dob: 9/1/1973
+  address: 6326 Fifth Court
+  city: Chicago
+  state: AZ

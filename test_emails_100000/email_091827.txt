@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Guerrero",
+    "email": "ashley.guerrero6509@company.com",
+    "phone": "+1 678-997-4296",
+    "ssn": "084-44-7778",
+    "dob": "08/09/1987",
+    "address": "3368 First Court",
+    "city": "Philadelphia",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Reed",
+    "email": "timothy.reed1439@work.org",
+    "phone": "811-449-9861",
+    "ssn": "032 99 2918",
+    "dob": "11/26/1992",
+    "address": "3928 Elm Ln",
+    "city": "Chicago",
+    "state": "OH"
+  }
+}

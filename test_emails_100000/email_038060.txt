@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Wilson
+  email: kimberly.wilson1293@mail.com
+  phone: +1 230-254-5751
+  ssn: 696-12-2368
+  dob: 19/03/1997
+  address: 7022 Maple Rd
+  city: Dallas
+  state: WA

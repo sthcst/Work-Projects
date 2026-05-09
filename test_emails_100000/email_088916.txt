@@ -1,0 +1,9 @@
+contact:
+  name: Gary Ortiz
+  email: gary.ortiz4617@mail.com
+  phone: 328 937 8923
+  ssn: 630 38 1598
+  dob: 7/9/1983
+  address: 4528 Fourth Court
+  city: San Jose
+  state: WI

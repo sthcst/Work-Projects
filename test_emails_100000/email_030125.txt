@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Walker,brian.walker8032@outlook.com,964-516-5460,274-37-1310,23/12/1973,"2092 Third Rd",San Jose,VA

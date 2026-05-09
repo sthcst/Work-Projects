@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Morris,brian.morris714@yahoo.com,851 581 4456,312-96-5293,07-05-1962,"1813 Spring Court",Philadelphia,TX

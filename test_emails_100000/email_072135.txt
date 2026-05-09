@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Cooper",
+    "email": "jacob.cooper3497@mail.com",
+    "phone": "(903) 838-8967",
+    "ssn": "521 65 5435",
+    "dob": "10-22-1989",
+    "address": "6488 West Ln",
+    "city": "Boston",
+    "state": "WA"
+  }
+}

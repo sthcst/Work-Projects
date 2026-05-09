@@ -1,0 +1,9 @@
+contact:
+  name: Christine Hall
+  email: christine.hall5055@company.com
+  phone: 563-658-3501
+  ssn: 147 47 5144
+  dob: 11/14/1973
+  address: 1765 Second Rd
+  city: Washington
+  state: AZ

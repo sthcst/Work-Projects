@@ -1,0 +1,9 @@
+contact:
+  name: Maria Morris
+  email: maria.morris5782@company.com
+  phone: 898-294-2812
+  ssn: 566-11-2621
+  dob: 12-11-1952
+  address: 7367 Birch Blvd
+  city: Phoenix
+  state: MI

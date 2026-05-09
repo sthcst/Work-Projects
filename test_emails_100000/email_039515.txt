@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Parker
+  email: ashley.parker1795@mail.com
+  phone: 530-543-8855
+  ssn: 744922037
+  dob: 3/22/1955
+  address: 2836 South Ave
+  city: Houston
+  state: MD

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Lewis,jennifer.lewis8735@company.com,727-206-9515,061-35-7540,10/21/1987,"5403 Oak Blvd",San Antonio,MA

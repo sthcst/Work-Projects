@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Phillips,rebecca.phillips287@business.net,+1 488-383-7442,201-29-8140,06/12/2002,"9591 Park Dr",Austin,TN

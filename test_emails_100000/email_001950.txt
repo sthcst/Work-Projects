@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Ortiz",
+    "email": "cynthia.ortiz6728@yahoo.com",
+    "phone": "510 461 4667",
+    "ssn": "750924679",
+    "dob": "11/25/1978",
+    "address": "6198 Oak St",
+    "city": "Austin",
+    "state": "WA"
+  }
+}

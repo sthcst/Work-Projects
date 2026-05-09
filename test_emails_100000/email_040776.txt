@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Ortiz
+  email: jessica.ortiz3827@example.com
+  phone: +1 729-634-8592
+  ssn: 833-81-2441
+  dob: 04-05-1996
+  address: 1377 Maple Court
+  city: San Diego
+  state: NJ

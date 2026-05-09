@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Jackson
+  email: brenda.jackson4334@mail.com
+  phone: (731) 391-8210
+  ssn: 465 14 8993
+  dob: 5/6/1961
+  address: 4203 Park Blvd
+  city: Denver
+  state: NJ

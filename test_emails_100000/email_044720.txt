@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley White",
+    "email": "ashley.white7391@mail.com",
+    "phone": "+1 723-764-7378",
+    "ssn": "675-35-4366",
+    "dob": "6/28/1993",
+    "address": "7234 Second Rd",
+    "city": "San Jose",
+    "state": "MD"
+  }
+}

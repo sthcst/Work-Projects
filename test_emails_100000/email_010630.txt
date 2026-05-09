@@ -1,0 +1,14 @@
+INVOICE 811167
+
+Bill To:
+Name: Samantha Rogers
+Email: samantha.rogers8232@mail.com
+Phone: (696) 350-2294
+SSN: 671-89-3345
+
+Address: 3317 Summer Way
+Seattle, CO
+
+Date of Birth: 09/24/1991
+
+Amount Due: $3233

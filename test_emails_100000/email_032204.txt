@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Cooper,gary.cooper728@outlook.com,621 814 2471,905 08 9733,10/02/1978,"6943 Spring St",Jacksonville,CO

@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Williams
+  email: ashley.williams5638@outlook.com
+  phone: +1 278-938-6053
+  ssn: 467-78-3865
+  dob: 3/24/1968
+  address: 1549 Main St
+  city: Houston
+  state: NY

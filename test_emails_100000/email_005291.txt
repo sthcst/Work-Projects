@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Miller",
+    "email": "lisa.miller2842@company.com",
+    "phone": "(476) 952-9941",
+    "ssn": "007 93 8199",
+    "dob": "12/08/1982",
+    "address": "4820 Elm Ave",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

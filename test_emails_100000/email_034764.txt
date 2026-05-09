@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Anderson,helen.anderson248@gmail.com,(360) 452-2662,316-73-5516,23/10/1967,"1723 Second Court",San Jose,OH

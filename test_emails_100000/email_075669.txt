@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Nunez",
+    "email": "jane.nunez8152@business.net",
+    "phone": "(906) 885-4108",
+    "ssn": "846511655",
+    "dob": "12-09-1999",
+    "address": "9222 Park Court",
+    "city": "Denver",
+    "state": "IL"
+  }
+}

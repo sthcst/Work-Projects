@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Robinson",
+    "email": "jane.robinson4899@yahoo.com",
+    "phone": "(501) 390-7631",
+    "ssn": "446 38 8876",
+    "dob": "24/03/2002",
+    "address": "5039 Spring St",
+    "city": "Dallas",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Jones",
+    "email": "ashley.jones2492@work.org",
+    "phone": "+1 294-604-8311",
+    "ssn": "107883207",
+    "dob": "7/18/1956",
+    "address": "9536 Oak Blvd",
+    "city": "Dallas",
+    "state": "CO"
+  }
+}

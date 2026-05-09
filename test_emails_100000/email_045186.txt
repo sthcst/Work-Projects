@@ -1,0 +1,14 @@
+INVOICE 397867
+
+Bill To:
+Name: David Brown
+Email: david.brown7070@company.com
+Phone: +1 704-229-3380
+SSN: 499 27 1413
+
+Address: 4302 Fourth Ave
+Washington, TX
+
+Date of Birth: 10-19-1964
+
+Amount Due: $8154

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Morris,paul.morris5913@mail.com,589 627 4012,420062272,11/15/1965,"9935 North Way",Austin,VA

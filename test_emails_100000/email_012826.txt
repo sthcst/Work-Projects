@@ -1,0 +1,9 @@
+contact:
+  name: Megan Thomas
+  email: megan.thomas2880@outlook.com
+  phone: 741 482 4327
+  ssn: 179965516
+  dob: 08-18-1973
+  address: 5167 Elm Blvd
+  city: Austin
+  state: AZ

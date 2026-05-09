@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Lopez
+  email: joseph.lopez5384@example.com
+  phone: 613-911-6009
+  ssn: 432-54-9404
+  dob: 07-14-1994
+  address: 2857 North Way
+  city: San Diego
+  state: AZ

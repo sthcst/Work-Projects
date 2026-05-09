@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Robinson,kevin.robinson5616@example.com,310-227-5392,030315683,09/11/1965,"4218 Park Court",Chicago,TN

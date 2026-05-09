@@ -1,0 +1,14 @@
+INVOICE 680976
+
+Bill To:
+Name: Katherine Parker
+Email: katherine.parker9975@example.com
+Phone: +1 680-239-4918
+SSN: 870 01 6912
+
+Address: 7969 Spring Ln
+Boston, WA
+
+Date of Birth: 5/18/1956
+
+Amount Due: $9063

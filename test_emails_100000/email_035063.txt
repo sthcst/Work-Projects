@@ -1,0 +1,9 @@
+contact:
+  name: James Parker
+  email: james.parker2511@company.com
+  phone: 963 727 8984
+  ssn: 452 22 7657
+  dob: 2/19/1998
+  address: 6888 First Ave
+  city: Denver
+  state: NC

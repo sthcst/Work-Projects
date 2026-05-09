@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Carter",
+    "email": "brenda.carter8404@company.com",
+    "phone": "+1 320-509-3037",
+    "ssn": "838 02 4381",
+    "dob": "11/12/1989",
+    "address": "814 Pine Dr",
+    "city": "Austin",
+    "state": "VA"
+  }
+}

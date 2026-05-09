@@ -1,0 +1,9 @@
+contact:
+  name: Helen Flores
+  email: helen.flores9202@outlook.com
+  phone: +1 519-776-9679
+  ssn: 940-68-5239
+  dob: 05-06-1960
+  address: 5768 Sixth Ln
+  city: Philadelphia
+  state: NY

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Sanchez,deborah.sanchez9262@mail.com,(291) 562-6712,908 75 3804,05-02-2005,"6046 Spring Ln",Chicago,FL

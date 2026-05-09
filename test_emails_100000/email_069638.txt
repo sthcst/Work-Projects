@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Gomez
+  email: rebecca.gomez4850@outlook.com
+  phone: 503 689 6585
+  ssn: 499 57 3083
+  dob: 10/19/1977
+  address: 1831 Third Blvd
+  city: Houston
+  state: NY

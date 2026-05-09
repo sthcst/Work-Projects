@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Bell",
+    "email": "christine.bell8564@business.net",
+    "phone": "+1 893-986-8357",
+    "ssn": "700484739",
+    "dob": "08/05/1980",
+    "address": "2756 Birch St",
+    "city": "Philadelphia",
+    "state": "MI"
+  }
+}

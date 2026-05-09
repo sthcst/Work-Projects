@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Rodriguez,michael.rodriguez9170@work.org,605-282-1849,132 88 7790,06/17/1973,"9224 Main Way",San Antonio,MI

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Lee",
+    "email": "angela.lee591@business.net",
+    "phone": "+1 607-549-6766",
+    "ssn": "054 40 2283",
+    "dob": "10/05/1965",
+    "address": "1920 Park St",
+    "city": "San Diego",
+    "state": "OH"
+  }
+}

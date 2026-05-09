@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Miller,brian.miller2212@company.com,+1 918-825-5569,686-71-6174,27/06/1961,"2217 Fourth Way",San Antonio,TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Thompson",
+    "email": "jason.thompson2129@yahoo.com",
+    "phone": "(644) 641-7686",
+    "ssn": "505436463",
+    "dob": "22/11/2003",
+    "address": "6177 Oak Rd",
+    "city": "Jacksonville",
+    "state": "NJ"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Mark Anderson
+  email: mark.anderson8455@outlook.com
+  phone: +1 745-616-5223
+  ssn: 708 41 2269
+  dob: 04/17/1988
+  address: 1598 Main Blvd
+  city: San Jose
+  state: TX

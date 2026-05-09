@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Delgado,katherine.delgado5595@business.net,319 319 2165,506-46-5217,03/01/1961,"4989 Second Ln",Jacksonville,DC

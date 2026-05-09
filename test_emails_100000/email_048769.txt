@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Guerrero",
+    "email": "samantha.guerrero5633@outlook.com",
+    "phone": "(807) 908-9529",
+    "ssn": "088 94 7508",
+    "dob": "7/12/1982",
+    "address": "6149 Pine Blvd",
+    "city": "Los Angeles",
+    "state": "MO"
+  }
+}

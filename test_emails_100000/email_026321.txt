@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Morris",
+    "email": "charles.morris8453@work.org",
+    "phone": "628 458 4212",
+    "ssn": "773 48 7620",
+    "dob": "05/26/1974",
+    "address": "2550 Fifth Ave",
+    "city": "Jacksonville",
+    "state": "FL"
+  }
+}

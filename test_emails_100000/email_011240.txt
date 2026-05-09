@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Reyes,edward.reyes1939@example.com,(319) 647-7760,955-86-2353,2/3/1987,"3360 Fifth Ln",Los Angeles,MA

@@ -1,0 +1,14 @@
+INVOICE 272380
+
+Bill To:
+Name: Charles Carter
+Email: charles.carter8689@business.net
+Phone: (857) 591-8911
+SSN: 311921117
+
+Address: 2033 Park Rd
+San Jose, MA
+
+Date of Birth: 14/07/1985
+
+Amount Due: $8472

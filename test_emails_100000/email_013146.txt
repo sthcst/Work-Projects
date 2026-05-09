@@ -1,0 +1,9 @@
+contact:
+  name: Steven Jimenez
+  email: steven.jimenez1402@company.com
+  phone: 373 758 5766
+  ssn: 281455027
+  dob: 02-22-1971
+  address: 6840 Second Blvd
+  city: Boston
+  state: MA

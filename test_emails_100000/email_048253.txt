@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Johnson,charles.johnson3744@business.net,808-343-5232,942682852,02-22-1958,"1545 North Dr",Jacksonville,NC

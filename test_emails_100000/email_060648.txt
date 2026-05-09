@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Murillo",
+    "email": "john.murillo5006@company.com",
+    "phone": "(954) 921-2598",
+    "ssn": "263-39-3189",
+    "dob": "06-01-1957",
+    "address": "3318 Birch Rd",
+    "city": "San Antonio",
+    "state": "FL"
+  }
+}

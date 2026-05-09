@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Reed
+  email: pamela.reed3995@work.org
+  phone: (319) 595-4480
+  ssn: 256-32-8044
+  dob: 05/21/1975
+  address: 8411 Pine Court
+  city: Philadelphia
+  state: IL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Carter",
+    "email": "john.carter4663@gmail.com",
+    "phone": "(435) 302-7664",
+    "ssn": "724769318",
+    "dob": "03-21-1969",
+    "address": "8185 West Ln",
+    "city": "Dallas",
+    "state": "NY"
+  }
+}

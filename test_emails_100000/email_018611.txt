@@ -1,0 +1,9 @@
+contact:
+  name: Anna Hall
+  email: anna.hall6505@business.net
+  phone: 376-391-1491
+  ssn: 779 92 4369
+  dob: 08/05/1976
+  address: 870 Cedar Blvd
+  city: San Diego
+  state: IL

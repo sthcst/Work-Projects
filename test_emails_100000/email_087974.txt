@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Murillo,george.murillo8027@work.org,713 223 9981,932 55 4839,02/10/1955,"9375 Cedar Ave",Denver,AZ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Williams,steven.williams4644@company.com,738-597-7583,268 47 7962,11/11/1960,"1128 Main Rd",San Diego,CO

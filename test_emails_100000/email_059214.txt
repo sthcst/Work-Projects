@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Smith",
+    "email": "jacob.smith9582@example.com",
+    "phone": "477 599 7422",
+    "ssn": "938-58-5586",
+    "dob": "8/3/1992",
+    "address": "3198 Elm Court",
+    "city": "San Jose",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Martin
+  email: samantha.martin1746@yahoo.com
+  phone: +1 851-380-4812
+  ssn: 168547444
+  dob: 03-25-2000
+  address: 6362 Second Rd
+  city: Dallas
+  state: CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Edwards",
+    "email": "edward.edwards5646@mail.com",
+    "phone": "425 433 8059",
+    "ssn": "223 48 2072",
+    "dob": "6/6/1989",
+    "address": "6160 First Rd",
+    "city": "Los Angeles",
+    "state": "OH"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Anna Gomez
+  email: anna.gomez7541@gmail.com
+  phone: 669-709-6824
+  ssn: 757054373
+  dob: 05-28-1960
+  address: 7474 South Ln
+  city: Washington
+  state: AZ

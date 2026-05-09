@@ -1,0 +1,9 @@
+contact:
+  name: Brian Edwards
+  email: brian.edwards3580@work.org
+  phone: (435) 470-2340
+  ssn: 635897259
+  dob: 06-03-1960
+  address: 7790 Oak Ln
+  city: San Antonio
+  state: NC

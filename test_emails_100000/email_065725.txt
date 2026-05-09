@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Johnson,nicholas.johnson687@company.com,734 912 3899,704-01-3070,18/02/1978,"2589 Sixth Rd",Houston,AZ

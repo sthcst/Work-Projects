@@ -1,0 +1,14 @@
+INVOICE 271970
+
+Bill To:
+Name: Michael Robinson
+Email: michael.robinson9072@work.org
+Phone: 893-328-1965
+SSN: 373 76 7759
+
+Address: 5948 Summer Way
+Washington, WA
+
+Date of Birth: 15/06/1954
+
+Amount Due: $9287

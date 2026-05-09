@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Ortiz,joshua.ortiz7901@example.com,+1 541-764-1268,327-39-3530,02/10/1984,"9147 Pine St",New York,GA

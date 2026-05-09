@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Nelson",
+    "email": "michelle.nelson9388@work.org",
+    "phone": "+1 341-642-4394",
+    "ssn": "559503004",
+    "dob": "09/15/1955",
+    "address": "4398 Sixth Court",
+    "city": "Denver",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Morris
+  email: sarah.morris7831@outlook.com
+  phone: 804-405-7495
+  ssn: 368-39-7110
+  dob: 15/08/1994
+  address: 3508 East Dr
+  city: San Diego
+  state: DC

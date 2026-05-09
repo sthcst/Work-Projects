@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Reed",
+    "email": "paul.reed83@yahoo.com",
+    "phone": "981-434-7926",
+    "ssn": "245-78-3316",
+    "dob": "09/27/1960",
+    "address": "8760 Sixth Ln",
+    "city": "Phoenix",
+    "state": "NC"
+  }
+}

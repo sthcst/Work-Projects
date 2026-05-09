@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Reed",
+    "email": "angela.reed3223@gmail.com",
+    "phone": "312-277-5673",
+    "ssn": "952 65 3985",
+    "dob": "12/17/1967",
+    "address": "8206 Summer Dr",
+    "city": "Los Angeles",
+    "state": "WA"
+  }
+}

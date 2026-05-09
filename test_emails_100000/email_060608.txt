@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Young",
+    "email": "rebecca.young824@mail.com",
+    "phone": "948-886-6666",
+    "ssn": "706 58 8734",
+    "dob": "4/21/1952",
+    "address": "2270 Elm St",
+    "city": "New York",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Mark Ramirez
+  email: mark.ramirez8426@company.com
+  phone: (202) 627-5893
+  ssn: 445-27-4801
+  dob: 02/28/1967
+  address: 1754 Pine St
+  city: Los Angeles
+  state: NC

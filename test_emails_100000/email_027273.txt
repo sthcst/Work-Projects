@@ -1,0 +1,14 @@
+INVOICE 742615
+
+Bill To:
+Name: David Campbell
+Email: david.campbell3913@example.com
+Phone: 704-261-6125
+SSN: 328747339
+
+Address: 4704 Fourth St
+San Diego, TX
+
+Date of Birth: 10/13/2001
+
+Amount Due: $3937

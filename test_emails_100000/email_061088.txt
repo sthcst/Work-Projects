@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Phillips",
+    "email": "jessica.phillips6245@yahoo.com",
+    "phone": "871-528-1113",
+    "ssn": "564-67-5776",
+    "dob": "10/8/1961",
+    "address": "254 Spring Blvd",
+    "city": "San Jose",
+    "state": "VA"
+  }
+}

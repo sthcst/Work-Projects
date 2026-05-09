@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Dominguez,nicholas.dominguez5660@outlook.com,220-955-2222,417 51 6068,12/12/1994,"8326 Fourth Ave",New York,CO

@@ -1,0 +1,14 @@
+INVOICE 224613
+
+Bill To:
+Name: Robert Carter
+Email: robert.carter1474@work.org
+Phone: 540 887 1119
+SSN: 917-35-1024
+
+Address: 5830 Second Ln
+Chicago, AZ
+
+Date of Birth: 9/8/1972
+
+Amount Due: $645

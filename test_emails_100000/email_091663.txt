@@ -1,0 +1,9 @@
+contact:
+  name: Angela Lewis
+  email: angela.lewis8768@work.org
+  phone: (243) 742-6493
+  ssn: 985 33 3809
+  dob: 08-13-1967
+  address: 2711 North Way
+  city: Jacksonville
+  state: MO

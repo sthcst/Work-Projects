@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Ramirez
+  email: jessica.ramirez7283@work.org
+  phone: 527-230-5482
+  ssn: 112906073
+  dob: 01-13-1959
+  address: 3946 West Ave
+  city: Dallas
+  state: MA

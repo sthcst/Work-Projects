@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Jones",
+    "email": "nicholas.jones3875@mail.com",
+    "phone": "775-764-9988",
+    "ssn": "838751213",
+    "dob": "11/16/1996",
+    "address": "4619 East Blvd",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

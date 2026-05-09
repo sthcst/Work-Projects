@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Guerrero",
+    "email": "ashley.guerrero1323@company.com",
+    "phone": "+1 420-733-7995",
+    "ssn": "111947398",
+    "dob": "5/18/1978",
+    "address": "7242 West Rd",
+    "city": "San Jose",
+    "state": "CO"
+  }
+}

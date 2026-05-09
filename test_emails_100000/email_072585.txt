@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Sanchez",
+    "email": "helen.sanchez7087@mail.com",
+    "phone": "(906) 360-6352",
+    "ssn": "780406601",
+    "dob": "07-28-1994",
+    "address": "9144 Main Court",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

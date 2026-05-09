@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Brown,angela.brown5881@work.org,(379) 693-4424,657-90-4590,04/10/1976,"8270 Elm Ln",Boston,WI

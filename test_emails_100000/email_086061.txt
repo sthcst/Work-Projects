@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Nunez,michelle.nunez9225@work.org,+1 682-899-5678,632965727,01-03-1983,"6805 Second Rd",San Diego,IL

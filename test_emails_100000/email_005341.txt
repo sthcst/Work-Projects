@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Lewis",
+    "email": "timothy.lewis3662@yahoo.com",
+    "phone": "+1 644-442-6679",
+    "ssn": "724921358",
+    "dob": "12/22/1980",
+    "address": "6004 Fifth Rd",
+    "city": "Dallas",
+    "state": "VA"
+  }
+}

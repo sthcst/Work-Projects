@@ -1,0 +1,9 @@
+contact:
+  name: William Reyes
+  email: william.reyes4094@work.org
+  phone: (977) 577-2103
+  ssn: 074098690
+  dob: 08-12-1995
+  address: 7470 Summer Dr
+  city: Los Angeles
+  state: CA

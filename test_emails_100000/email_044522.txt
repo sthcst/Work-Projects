@@ -1,0 +1,9 @@
+contact:
+  name: Emily Smith
+  email: emily.smith4556@outlook.com
+  phone: +1 766-548-8348
+  ssn: 761 71 4106
+  dob: 4/6/1954
+  address: 9318 South Rd
+  city: San Diego
+  state: AZ

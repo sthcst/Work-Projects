@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Ortiz",
+    "email": "kathleen.ortiz7507@gmail.com",
+    "phone": "+1 378-426-8821",
+    "ssn": "263833035",
+    "dob": "11/18/1971",
+    "address": "4918 Oak Rd",
+    "city": "San Antonio",
+    "state": "CA"
+  }
+}

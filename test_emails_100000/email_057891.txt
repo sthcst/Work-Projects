@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Ortiz
+  email: lisa.ortiz1597@mail.com
+  phone: 576-219-6449
+  ssn: 679 06 3896
+  dob: 5/9/1958
+  address: 4317 Summer Blvd
+  city: Austin
+  state: DC

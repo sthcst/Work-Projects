@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Alvarado,edward.alvarado7839@company.com,(571) 634-2608,087238904,08-14-1986,"2362 Sixth Ln",Boston,WI

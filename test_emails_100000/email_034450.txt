@@ -1,0 +1,9 @@
+contact:
+  name: Jason White
+  email: jason.white2428@example.com
+  phone: (500) 229-6267
+  ssn: 083 57 9611
+  dob: 11/01/1959
+  address: 4298 Third Ln
+  city: Boston
+  state: FL

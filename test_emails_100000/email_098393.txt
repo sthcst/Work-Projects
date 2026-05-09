@@ -1,0 +1,9 @@
+contact:
+  name: Jacob White
+  email: jacob.white3863@business.net
+  phone: +1 617-880-7563
+  ssn: 211567034
+  dob: 03-11-1977
+  address: 8085 Sixth Ln
+  city: San Jose
+  state: MA

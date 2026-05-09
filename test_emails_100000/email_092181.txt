@@ -1,0 +1,9 @@
+contact:
+  name: Michael Dominguez
+  email: michael.dominguez5171@mail.com
+  phone: 662 298 1942
+  ssn: 928-44-8616
+  dob: 08/04/1995
+  address: 8004 West Ln
+  city: Austin
+  state: CA

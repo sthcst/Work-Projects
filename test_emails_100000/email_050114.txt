@@ -1,0 +1,12 @@
+SUPPORT TICKET #14380
+
+Customer: Richard White
+Email: richard.white2960@example.com
+Phone: +1 343-363-8777
+Account: 885-11-3532
+
+Issue Description: Technical problem reported
+DOB on file: 12/04/1978
+Address: 4189 Cedar Ave, San Diego, NY
+
+Status: OPEN

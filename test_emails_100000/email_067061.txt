@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Morris,john.morris2013@company.com,(930) 994-4019,529-24-9021,12/23/1993,"8742 Second Ave",Dallas,CO

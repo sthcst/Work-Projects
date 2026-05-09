@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Hernandez",
+    "email": "jennifer.hernandez8358@gmail.com",
+    "phone": "411-381-8609",
+    "ssn": "139627678",
+    "dob": "06/18/2005",
+    "address": "6094 Maple Dr",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

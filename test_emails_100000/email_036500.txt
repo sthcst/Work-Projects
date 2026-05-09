@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Martin",
+    "email": "daniel.martin4909@yahoo.com",
+    "phone": "315 389 5282",
+    "ssn": "526436077",
+    "dob": "26/10/1992",
+    "address": "9582 Maple St",
+    "city": "Seattle",
+    "state": "GA"
+  }
+}

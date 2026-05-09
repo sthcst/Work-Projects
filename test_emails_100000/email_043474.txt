@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Collins",
+    "email": "james.collins4936@business.net",
+    "phone": "323 914 7684",
+    "ssn": "215535819",
+    "dob": "05-19-1950",
+    "address": "3440 Cedar St",
+    "city": "Dallas",
+    "state": "CO"
+  }
+}

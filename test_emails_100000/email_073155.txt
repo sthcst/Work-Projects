@@ -1,0 +1,9 @@
+contact:
+  name: Angela Moore
+  email: angela.moore295@business.net
+  phone: 620-771-9151
+  ssn: 912183724
+  dob: 23/05/1974
+  address: 1272 Park St
+  city: Jacksonville
+  state: TX

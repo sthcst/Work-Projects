@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Martinez",
+    "email": "daniel.martinez1166@example.com",
+    "phone": "208 812 8203",
+    "ssn": "592 04 7111",
+    "dob": "08-23-1967",
+    "address": "6239 Fifth St",
+    "city": "New York",
+    "state": "MA"
+  }
+}

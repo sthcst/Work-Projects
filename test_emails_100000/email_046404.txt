@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Collins",
+    "email": "ashley.collins5026@work.org",
+    "phone": "+1 280-794-5711",
+    "ssn": "004215768",
+    "dob": "1/18/1989",
+    "address": "7470 Birch Rd",
+    "city": "New York",
+    "state": "MO"
+  }
+}

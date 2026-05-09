@@ -1,0 +1,14 @@
+INVOICE 426390
+
+Bill To:
+Name: Daniel Miller
+Email: daniel.miller3671@mail.com
+Phone: +1 228-496-8364
+SSN: 501685862
+
+Address: 7899 Cedar Rd
+Philadelphia, VA
+
+Date of Birth: 12/10/1998
+
+Amount Due: $9395

@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Flores
+  email: kevin.flores8189@example.com
+  phone: 744-632-3068
+  ssn: 058 51 9310
+  dob: 09/02/1961
+  address: 3278 Park Dr
+  city: Los Angeles
+  state: WI

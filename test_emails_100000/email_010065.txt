@@ -1,0 +1,14 @@
+INVOICE 316851
+
+Bill To:
+Name: Kenneth Campbell
+Email: kenneth.campbell1746@example.com
+Phone: +1 731-769-2651
+SSN: 940791975
+
+Address: 4984 Fifth Ln
+Seattle, TX
+
+Date of Birth: 10/12/1989
+
+Amount Due: $1344

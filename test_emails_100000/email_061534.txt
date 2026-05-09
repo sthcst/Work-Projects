@@ -1,0 +1,14 @@
+INVOICE 915970
+
+Bill To:
+Name: Kenneth Sanchez
+Email: kenneth.sanchez1596@outlook.com
+Phone: 345 606 3159
+SSN: 825-81-7258
+
+Address: 1787 Maple Court
+Denver, MD
+
+Date of Birth: 12/12/1955
+
+Amount Due: $219

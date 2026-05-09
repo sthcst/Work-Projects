@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Nunez
+  email: nicole.nunez299@mail.com
+  phone: 532 956 4342
+  ssn: 590-22-5116
+  dob: 07-17-1978
+  address: 2005 Elm Court
+  city: Jacksonville
+  state: OH

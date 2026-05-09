@@ -1,0 +1,14 @@
+INVOICE 471150
+
+Bill To:
+Name: George Williams
+Email: george.williams4503@work.org
+Phone: +1 218-647-4857
+SSN: 514071305
+
+Address: 1217 Third Dr
+Denver, WI
+
+Date of Birth: 04-12-1996
+
+Amount Due: $1242

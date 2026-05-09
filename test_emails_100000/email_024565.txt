@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Roberts",
+    "email": "deborah.roberts4393@business.net",
+    "phone": "+1 344-298-4217",
+    "ssn": "140-36-1615",
+    "dob": "3/21/1982",
+    "address": "2494 Second St",
+    "city": "Denver",
+    "state": "GA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Reed",
+    "email": "jeffrey.reed9448@work.org",
+    "phone": "+1 696-787-7152",
+    "ssn": "685 08 5273",
+    "dob": "19/02/1963",
+    "address": "6398 Elm Blvd",
+    "city": "Dallas",
+    "state": "WI"
+  }
+}

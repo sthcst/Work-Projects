@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Hall",
+    "email": "katherine.hall9715@outlook.com",
+    "phone": "224 268 2286",
+    "ssn": "738278951",
+    "dob": "05-17-1966",
+    "address": "4525 Third Court",
+    "city": "Phoenix",
+    "state": "VA"
+  }
+}

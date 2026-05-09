@@ -1,0 +1,14 @@
+INVOICE 202936
+
+Bill To:
+Name: George Gomez
+Email: george.gomez7513@outlook.com
+Phone: 864-875-1702
+SSN: 312 55 9264
+
+Address: 7804 North Blvd
+Dallas, TX
+
+Date of Birth: 2/6/2000
+
+Amount Due: $9401

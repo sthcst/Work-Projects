@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Hall
+  email: deborah.hall191@gmail.com
+  phone: +1 464-768-5501
+  ssn: 487 72 6083
+  dob: 3/20/1979
+  address: 1576 First Way
+  city: San Jose
+  state: GA

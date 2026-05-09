@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Walker
+  email: samantha.walker7325@yahoo.com
+  phone: 711 288 9727
+  ssn: 664-20-4001
+  dob: 6/18/2003
+  address: 6482 North Blvd
+  city: Seattle
+  state: CA

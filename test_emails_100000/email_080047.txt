@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Sanchez,brian.sanchez2129@gmail.com,924-912-9875,179-98-2815,03-24-1975,"5435 Oak St",Chicago,CO

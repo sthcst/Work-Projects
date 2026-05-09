@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Murillo
+  email: amanda.murillo5115@yahoo.com
+  phone: (329) 241-3094
+  ssn: 681 91 3002
+  dob: 04-22-1962
+  address: 4501 Maple Blvd
+  city: Denver
+  state: MA

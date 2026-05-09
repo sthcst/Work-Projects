@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Guerrero,andrew.guerrero8925@work.org,371-364-9342,596252371,9/10/1972,"1770 Fifth Dr",Boston,TX

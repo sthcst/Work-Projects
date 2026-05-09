@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Alvarado,joshua.alvarado1194@mail.com,725 451 2400,764949381,8/10/1990,"5826 Oak Way",San Jose,OH

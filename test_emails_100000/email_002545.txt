@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Jones",
+    "email": "kenneth.jones2533@yahoo.com",
+    "phone": "229-475-6666",
+    "ssn": "306-97-9512",
+    "dob": "11-21-2003",
+    "address": "6382 Main Way",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

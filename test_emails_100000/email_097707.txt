@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Miller",
+    "email": "emily.miller9596@yahoo.com",
+    "phone": "+1 837-555-3991",
+    "ssn": "167287319",
+    "dob": "03/06/1950",
+    "address": "505 Pine Blvd",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

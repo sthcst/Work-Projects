@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Murillo",
+    "email": "richard.murillo9529@yahoo.com",
+    "phone": "(587) 482-8947",
+    "ssn": "513-77-7817",
+    "dob": "1/21/1975",
+    "address": "4503 Maple Rd",
+    "city": "Washington",
+    "state": "WA"
+  }
+}

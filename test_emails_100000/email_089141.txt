@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Stewart",
+    "email": "kevin.stewart8113@work.org",
+    "phone": "732 997 9815",
+    "ssn": "264 50 8531",
+    "dob": "11/04/1989",
+    "address": "1982 South Court",
+    "city": "Chicago",
+    "state": "MO"
+  }
+}

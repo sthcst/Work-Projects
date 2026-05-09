@@ -1,0 +1,14 @@
+INVOICE 499353
+
+Bill To:
+Name: Kevin Brown
+Email: kevin.brown6742@business.net
+Phone: 534 595 5615
+SSN: 421 44 9678
+
+Address: 5336 Summer Ave
+Jacksonville, NJ
+
+Date of Birth: 5/14/1962
+
+Amount Due: $9060

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Phillips",
+    "email": "christine.phillips6688@example.com",
+    "phone": "558-787-7104",
+    "ssn": "986162210",
+    "dob": "7/15/1970",
+    "address": "590 Cedar Court",
+    "city": "New York",
+    "state": "CO"
+  }
+}

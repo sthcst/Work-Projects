@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Taylor
+  email: pamela.taylor8206@business.net
+  phone: (949) 269-9292
+  ssn: 109-06-8455
+  dob: 9/5/2004
+  address: 4715 Park Rd
+  city: Dallas
+  state: WA

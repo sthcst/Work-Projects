@@ -1,0 +1,9 @@
+contact:
+  name: Anna Morris
+  email: anna.morris9210@example.com
+  phone: 866 236 3989
+  ssn: 732301002
+  dob: 05/18/2001
+  address: 210 Elm St
+  city: New York
+  state: MO

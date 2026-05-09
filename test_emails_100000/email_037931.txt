@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Robinson",
+    "email": "nicole.robinson2632@outlook.com",
+    "phone": "436 214 3666",
+    "ssn": "307-70-2369",
+    "dob": "08/16/1959",
+    "address": "294 West Blvd",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

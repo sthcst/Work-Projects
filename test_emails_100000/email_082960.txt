@@ -1,0 +1,9 @@
+contact:
+  name: Gary Clark
+  email: gary.clark5017@yahoo.com
+  phone: 360-913-7494
+  ssn: 136 58 5175
+  dob: 05-04-1967
+  address: 7324 Maple St
+  city: Los Angeles
+  state: PA

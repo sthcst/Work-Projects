@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Brown",
+    "email": "stephanie.brown437@business.net",
+    "phone": "958 286 7902",
+    "ssn": "114 70 1710",
+    "dob": "10-13-1984",
+    "address": "6211 Second Ave",
+    "city": "Seattle",
+    "state": "FL"
+  }
+}

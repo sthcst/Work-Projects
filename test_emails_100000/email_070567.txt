@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Flores",
+    "email": "jacob.flores2439@example.com",
+    "phone": "+1 290-898-7839",
+    "ssn": "437108958",
+    "dob": "06/01/1953",
+    "address": "9773 Main Way",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

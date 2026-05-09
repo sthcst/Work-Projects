@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Rogers,brian.rogers802@example.com,(549) 579-5787,209 42 6498,08-10-1963,"4254 Elm Rd",Washington,NC

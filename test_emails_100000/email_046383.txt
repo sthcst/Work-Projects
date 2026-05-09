@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Sanchez",
+    "email": "donald.sanchez9625@gmail.com",
+    "phone": "+1 263-744-6820",
+    "ssn": "187-95-5715",
+    "dob": "14/03/1984",
+    "address": "5567 Fourth Ln",
+    "city": "Austin",
+    "state": "NJ"
+  }
+}

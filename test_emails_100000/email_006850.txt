@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Peterson,michael.peterson1588@company.com,751 864 9433,744 21 6323,06/02/2000,"4083 Main Dr",Los Angeles,TX

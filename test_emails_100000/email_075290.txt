@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Reed",
+    "email": "ronald.reed9901@work.org",
+    "phone": "927-452-9349",
+    "ssn": "897-69-4515",
+    "dob": "01/12/1960",
+    "address": "7424 Maple Rd",
+    "city": "Chicago",
+    "state": "AZ"
+  }
+}

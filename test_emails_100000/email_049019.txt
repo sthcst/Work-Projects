@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Murillo,robert.murillo5902@example.com,(360) 590-8576,043703860,7/6/1959,"3409 Second Dr",San Jose,AZ

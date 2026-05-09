@@ -1,0 +1,14 @@
+INVOICE 454083
+
+Bill To:
+Name: Robert Jones
+Email: robert.jones5260@yahoo.com
+Phone: 909 276 4013
+SSN: 624 56 2799
+
+Address: 4877 Fifth Rd
+Chicago, GA
+
+Date of Birth: 11/01/1994
+
+Amount Due: $6271

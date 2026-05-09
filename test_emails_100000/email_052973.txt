@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Hernandez",
+    "email": "jennifer.hernandez9970@work.org",
+    "phone": "(781) 297-4312",
+    "ssn": "530 60 5360",
+    "dob": "04/15/1988",
+    "address": "9480 Fourth Court",
+    "city": "Washington",
+    "state": "AZ"
+  }
+}

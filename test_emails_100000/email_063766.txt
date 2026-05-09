@@ -1,0 +1,9 @@
+contact:
+  name: Michael Guerrero
+  email: michael.guerrero3431@work.org
+  phone: 351-401-6704
+  ssn: 088544634
+  dob: 12/15/1990
+  address: 8621 Second St
+  city: San Diego
+  state: OH

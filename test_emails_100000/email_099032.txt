@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Perez",
+    "email": "brenda.perez5342@example.com",
+    "phone": "451-789-5122",
+    "ssn": "739207652",
+    "dob": "04/05/1979",
+    "address": "7919 Spring Ave",
+    "city": "San Jose",
+    "state": "OH"
+  }
+}

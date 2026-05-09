@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Jackson,jane.jackson2326@work.org,(325) 552-3219,158 83 4486,10/01/1964,"297 Elm Way",Boston,TN

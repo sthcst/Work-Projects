@@ -1,0 +1,14 @@
+INVOICE 733963
+
+Bill To:
+Name: Joshua Johnson
+Email: joshua.johnson7146@gmail.com
+Phone: (745) 825-6444
+SSN: 557 69 7364
+
+Address: 8008 Fourth Rd
+Denver, NY
+
+Date of Birth: 12/16/1961
+
+Amount Due: $1033

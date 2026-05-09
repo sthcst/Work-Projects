@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Alvarado",
+    "email": "david.alvarado2974@company.com",
+    "phone": "652 994 7787",
+    "ssn": "165219647",
+    "dob": "10/26/1991",
+    "address": "3576 Pine Ave",
+    "city": "Phoenix",
+    "state": "OH"
+  }
+}

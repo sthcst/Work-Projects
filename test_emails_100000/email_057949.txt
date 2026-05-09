@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Roberts",
+    "email": "ryan.roberts9728@mail.com",
+    "phone": "235 823 6810",
+    "ssn": "173571729",
+    "dob": "03/03/1957",
+    "address": "6351 Main Court",
+    "city": "San Jose",
+    "state": "NY"
+  }
+}

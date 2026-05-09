@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Martin",
+    "email": "jane.martin1212@outlook.com",
+    "phone": "+1 769-790-3289",
+    "ssn": "467869079",
+    "dob": "11/6/1968",
+    "address": "2873 Main St",
+    "city": "Philadelphia",
+    "state": "TN"
+  }
+}

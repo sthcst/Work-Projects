@@ -1,0 +1,9 @@
+contact:
+  name: Brian Taylor
+  email: brian.taylor6117@company.com
+  phone: 790 643 2195
+  ssn: 586 21 8326
+  dob: 06-26-1977
+  address: 6721 Park Court
+  city: Jacksonville
+  state: PA

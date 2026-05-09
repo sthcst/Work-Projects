@@ -1,0 +1,9 @@
+contact:
+  name: Gary White
+  email: gary.white2288@example.com
+  phone: 527-513-2469
+  ssn: 882628619
+  dob: 19/07/1970
+  address: 2293 Elm Ln
+  city: New York
+  state: VA

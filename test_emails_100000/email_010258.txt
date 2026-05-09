@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Bell",
+    "email": "angela.bell3059@company.com",
+    "phone": "(392) 417-6592",
+    "ssn": "836345377",
+    "dob": "11/19/2004",
+    "address": "5594 First Rd",
+    "city": "Chicago",
+    "state": "VA"
+  }
+}

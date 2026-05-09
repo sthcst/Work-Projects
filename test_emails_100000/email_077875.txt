@@ -1,0 +1,9 @@
+contact:
+  name: David Gomez
+  email: david.gomez2319@example.com
+  phone: 388 315 4653
+  ssn: 056823306
+  dob: 08/12/1991
+  address: 3603 Fifth St
+  city: Chicago
+  state: MA

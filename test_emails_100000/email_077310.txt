@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Martinez,kathleen.martinez1206@yahoo.com,(715) 559-8851,071861003,05/07/1955,"4374 North Rd",Washington,WA

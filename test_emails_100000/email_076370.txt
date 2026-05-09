@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Rodriguez",
+    "email": "john.rodriguez4220@business.net",
+    "phone": "(792) 376-4184",
+    "ssn": "931-60-1249",
+    "dob": "11/02/1967",
+    "address": "2439 Oak Dr",
+    "city": "Denver",
+    "state": "VA"
+  }
+}

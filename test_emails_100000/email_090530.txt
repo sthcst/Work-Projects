@@ -1,0 +1,14 @@
+INVOICE 141027
+
+Bill To:
+Name: Daniel Peterson
+Email: daniel.peterson4154@business.net
+Phone: 431-263-5370
+SSN: 365123753
+
+Address: 238 North St
+New York, WI
+
+Date of Birth: 2/18/1951
+
+Amount Due: $3313

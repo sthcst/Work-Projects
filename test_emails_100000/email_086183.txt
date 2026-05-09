@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Miller,ronald.miller1027@outlook.com,(541) 589-2407,766-13-7830,03/17/1971,"7724 Birch Rd",Seattle,AZ

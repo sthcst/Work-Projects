@@ -1,0 +1,9 @@
+contact:
+  name: Christine Gomez
+  email: christine.gomez9135@outlook.com
+  phone: 321 527 3490
+  ssn: 914-65-9418
+  dob: 10/01/1988
+  address: 413 South Dr
+  city: Denver
+  state: NC

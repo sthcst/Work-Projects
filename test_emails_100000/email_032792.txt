@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Anderson
+  email: ryan.anderson9510@company.com
+  phone: 716 262 4768
+  ssn: 926418257
+  dob: 11-25-1995
+  address: 5436 Park Ln
+  city: Boston
+  state: CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Smith,richard.smith2508@business.net,581-261-3069,515648052,4/6/1958,"2850 Maple Rd",Washington,MA

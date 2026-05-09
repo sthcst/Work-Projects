@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Reyes",
+    "email": "christopher.reyes8835@company.com",
+    "phone": "779 991 9028",
+    "ssn": "270 91 5613",
+    "dob": "5/15/1976",
+    "address": "3535 Oak Dr",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

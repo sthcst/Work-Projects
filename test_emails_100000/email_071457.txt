@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Rodriguez",
+    "email": "kimberly.rodriguez6784@gmail.com",
+    "phone": "+1 459-311-3714",
+    "ssn": "128-28-4002",
+    "dob": "25/02/1962",
+    "address": "2831 Main Dr",
+    "city": "Philadelphia",
+    "state": "FL"
+  }
+}

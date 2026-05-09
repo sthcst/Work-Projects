@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Delgado
+  email: nicholas.delgado8828@work.org
+  phone: +1 214-561-1348
+  ssn: 046-02-2236
+  dob: 1/15/1987
+  address: 3067 Fourth Ave
+  city: San Diego
+  state: FL

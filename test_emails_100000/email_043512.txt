@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Parker,helen.parker1261@outlook.com,749-337-6763,884407818,09/13/1994,"6847 Sixth Ln",Denver,AZ

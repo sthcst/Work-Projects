@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Ramirez,brenda.ramirez2699@gmail.com,(878) 726-9346,519-02-4736,10-21-1950,"5854 Maple Rd",San Antonio,MI

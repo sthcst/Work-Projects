@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Jones,cynthia.jones7664@outlook.com,352 399 8677,745-25-5783,7/12/1976,"7337 Summer Ln",San Jose,MA

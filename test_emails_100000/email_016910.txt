@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Johnson,katherine.johnson8171@business.net,249-837-7245,971 85 4185,10-25-1959,"1298 First Way",Houston,CA

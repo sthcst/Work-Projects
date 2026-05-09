@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Nunez,jennifer.nunez9021@work.org,+1 395-920-1637,456 10 9800,02/07/1983,"6491 Fourth Ln",Jacksonville,CA

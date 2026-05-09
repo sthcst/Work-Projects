@@ -1,0 +1,9 @@
+contact:
+  name: Rachel White
+  email: rachel.white4022@gmail.com
+  phone: (558) 708-7287
+  ssn: 853 61 4857
+  dob: 2/27/1958
+  address: 5034 Oak Blvd
+  city: Seattle
+  state: OH

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Taylor",
+    "email": "emily.taylor6232@company.com",
+    "phone": "991-503-5395",
+    "ssn": "030592992",
+    "dob": "20/06/1964",
+    "address": "2897 South Ln",
+    "city": "Boston",
+    "state": "DC"
+  }
+}

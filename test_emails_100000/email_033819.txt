@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Rodriguez",
+    "email": "michelle.rodriguez3787@work.org",
+    "phone": "730-231-5654",
+    "ssn": "850-33-3615",
+    "dob": "11/5/1954",
+    "address": "1580 Fifth Ln",
+    "city": "New York",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 540322
+
+Bill To:
+Name: Ashley Jones
+Email: ashley.jones6483@work.org
+Phone: 328-741-6528
+SSN: 402-01-8885
+
+Address: 4033 North Court
+Phoenix, MI
+
+Date of Birth: 01/11/1966
+
+Amount Due: $4567

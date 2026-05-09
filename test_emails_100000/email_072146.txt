@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Cooper",
+    "email": "john.cooper2364@mail.com",
+    "phone": "(954) 973-2182",
+    "ssn": "120 26 4824",
+    "dob": "20/09/1976",
+    "address": "2772 North Court",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

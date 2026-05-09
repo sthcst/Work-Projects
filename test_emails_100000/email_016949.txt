@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Clark,brenda.clark1126@yahoo.com,+1 723-411-8466,746209728,4/10/1973,"7380 Sixth Ave",Boston,MO

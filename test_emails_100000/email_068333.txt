@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Ortiz
+  email: ronald.ortiz3146@example.com
+  phone: +1 483-225-2699
+  ssn: 990746863
+  dob: 18/10/1971
+  address: 4350 North Rd
+  city: Austin
+  state: NC

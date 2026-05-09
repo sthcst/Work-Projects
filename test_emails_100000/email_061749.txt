@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Lee",
+    "email": "kevin.lee7906@business.net",
+    "phone": "614 691 2168",
+    "ssn": "860 43 2939",
+    "dob": "10/10/1974",
+    "address": "6869 Pine Dr",
+    "city": "Denver",
+    "state": "MA"
+  }
+}

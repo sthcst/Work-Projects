@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Davis,michelle.davis6328@mail.com,240 321 9771,175-50-5033,01/02/1994,"8753 South Blvd",Philadelphia,TX

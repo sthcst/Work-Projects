@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Ramirez,rachel.ramirez5338@business.net,(638) 782-1071,750 52 7704,05/01/1968,"9612 Park Ln",Denver,DC

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Anderson,joshua.anderson4644@yahoo.com,+1 609-299-1620,337 63 2103,01-17-1990,"7484 Maple Ln",Los Angeles,TX

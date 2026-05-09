@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley White,shirley.white1796@work.org,+1 289-551-4534,029741803,10/23/1958,"9654 Birch Ave",San Jose,WA

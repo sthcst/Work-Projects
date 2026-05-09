@@ -1,0 +1,14 @@
+INVOICE 347440
+
+Bill To:
+Name: John Williams
+Email: john.williams1867@example.com
+Phone: 222 724 5281
+SSN: 821-41-1283
+
+Address: 8219 Elm Rd
+Austin, DC
+
+Date of Birth: 24/10/1962
+
+Amount Due: $5389

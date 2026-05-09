@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Parker
+  email: lauren.parker3063@mail.com
+  phone: (656) 806-6812
+  ssn: 423554448
+  dob: 01-05-1972
+  address: 4973 Maple Way
+  city: Denver
+  state: AZ

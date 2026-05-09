@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Phillips",
+    "email": "samantha.phillips653@mail.com",
+    "phone": "708 505 5826",
+    "ssn": "933-56-4749",
+    "dob": "02-21-1958",
+    "address": "6116 West St",
+    "city": "Houston",
+    "state": "VA"
+  }
+}

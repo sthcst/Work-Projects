@@ -1,0 +1,14 @@
+INVOICE 708730
+
+Bill To:
+Name: Shirley Miller
+Email: shirley.miller73@gmail.com
+Phone: 817 870 5164
+SSN: 598-61-3776
+
+Address: 8705 Elm Way
+Austin, CA
+
+Date of Birth: 04/12/2001
+
+Amount Due: $9296

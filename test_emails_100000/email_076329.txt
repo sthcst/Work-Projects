@@ -1,0 +1,14 @@
+INVOICE 578670
+
+Bill To:
+Name: Samantha Serrano
+Email: samantha.serrano598@yahoo.com
+Phone: 713-749-3173
+SSN: 376332409
+
+Address: 8313 Oak Dr
+Chicago, IL
+
+Date of Birth: 05/05/1979
+
+Amount Due: $1434

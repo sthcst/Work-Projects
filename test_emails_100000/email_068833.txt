@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Evans
+  email: cynthia.evans3901@example.com
+  phone: 902-587-9921
+  ssn: 327-28-4443
+  dob: 12/8/1955
+  address: 9664 First St
+  city: Jacksonville
+  state: TX

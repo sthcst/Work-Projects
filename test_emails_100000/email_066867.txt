@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Gonzalez,jacob.gonzalez6811@mail.com,(365) 630-6069,234256975,7/23/1973,"1157 Third Dr",San Diego,WA

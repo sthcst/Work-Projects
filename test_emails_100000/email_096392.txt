@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Delgado
+  email: lisa.delgado9236@work.org
+  phone: +1 929-376-8954
+  ssn: 987-11-4336
+  dob: 03-04-2000
+  address: 8803 Sixth Dr
+  city: Los Angeles
+  state: MA

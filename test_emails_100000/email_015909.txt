@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Harris,shirley.harris1211@gmail.com,+1 959-841-2977,474626828,03-28-1983,"4146 Elm Rd",Chicago,WI

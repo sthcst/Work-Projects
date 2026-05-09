@@ -1,0 +1,14 @@
+INVOICE 418077
+
+Bill To:
+Name: Jacob White
+Email: jacob.white649@example.com
+Phone: 693 975 3519
+SSN: 260 74 2535
+
+Address: 8361 Cedar Blvd
+Houston, GA
+
+Date of Birth: 01/04/1994
+
+Amount Due: $8833

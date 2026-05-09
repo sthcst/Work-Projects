@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Garcia,robert.garcia1308@company.com,833-597-3024,587-48-8213,06-23-1992,"969 Oak Blvd",Houston,TX

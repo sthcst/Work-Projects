@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Flores
+  email: andrew.flores1468@mail.com
+  phone: +1 426-705-7023
+  ssn: 181 45 8876
+  dob: 08/04/2002
+  address: 5910 West Rd
+  city: Dallas
+  state: CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Roberts",
+    "email": "rebecca.roberts9176@gmail.com",
+    "phone": "284 497 3567",
+    "ssn": "043 52 4653",
+    "dob": "03-22-1971",
+    "address": "2842 Sixth Ave",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

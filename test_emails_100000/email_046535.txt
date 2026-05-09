@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Flores
+  email: samantha.flores3128@yahoo.com
+  phone: 334 233 7189
+  ssn: 354605595
+  dob: 04/10/1979
+  address: 4368 Third Court
+  city: Phoenix
+  state: CO

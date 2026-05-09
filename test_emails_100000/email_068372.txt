@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Perez,samantha.perez2303@yahoo.com,210-353-3453,406 88 1477,12/16/1989,"267 North St",New York,TX

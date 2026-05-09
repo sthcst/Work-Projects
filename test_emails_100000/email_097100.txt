@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Miller,michael.miller3130@business.net,865 728 8063,503-69-2875,12-23-1978,"658 South Way",Denver,FL

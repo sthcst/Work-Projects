@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Moore
+  email: joseph.moore3373@business.net
+  phone: +1 980-533-7542
+  ssn: 955508934
+  dob: 01/13/1984
+  address: 5296 First Ave
+  city: New York
+  state: TX

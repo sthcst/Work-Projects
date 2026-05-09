@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Flores,john.flores2729@yahoo.com,+1 632-223-9656,959-48-5653,11/23/2002,"2843 Pine Ave",New York,WA

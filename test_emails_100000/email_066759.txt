@@ -1,0 +1,14 @@
+INVOICE 404825
+
+Bill To:
+Name: Brian Williams
+Email: brian.williams6294@outlook.com
+Phone: 635-636-1977
+SSN: 717871838
+
+Address: 8957 Second Court
+San Diego, IL
+
+Date of Birth: 10/2/1995
+
+Amount Due: $2323

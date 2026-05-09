@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Nunez,brian.nunez7585@outlook.com,873 277 4477,647 27 8336,05-03-1964,"851 Birch Way",San Antonio,CA

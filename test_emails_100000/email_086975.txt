@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Martin
+  email: rachel.martin726@business.net
+  phone: (675) 927-9302
+  ssn: 023 23 1537
+  dob: 11/08/2001
+  address: 9489 Cedar Rd
+  city: Philadelphia
+  state: TX

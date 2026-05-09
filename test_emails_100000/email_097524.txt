@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Romero",
+    "email": "james.romero9894@work.org",
+    "phone": "+1 326-857-4199",
+    "ssn": "473523284",
+    "dob": "3/15/1958",
+    "address": "8325 Birch Rd",
+    "city": "Jacksonville",
+    "state": "FL"
+  }
+}

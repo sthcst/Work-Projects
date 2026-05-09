@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Jackson
+  email: katherine.jackson4770@work.org
+  phone: 767-955-1034
+  ssn: 415-91-6108
+  dob: 04/19/1972
+  address: 6182 Second Blvd
+  city: San Diego
+  state: AZ

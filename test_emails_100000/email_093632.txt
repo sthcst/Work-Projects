@@ -1,0 +1,14 @@
+INVOICE 667685
+
+Bill To:
+Name: Lisa Delgado
+Email: lisa.delgado157@outlook.com
+Phone: 873-668-5244
+SSN: 477877772
+
+Address: 8927 Maple St
+Seattle, OH
+
+Date of Birth: 18/01/1978
+
+Amount Due: $6405

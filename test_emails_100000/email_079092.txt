@@ -1,0 +1,14 @@
+INVOICE 570831
+
+Bill To:
+Name: Jessica Bell
+Email: jessica.bell1046@work.org
+Phone: 872-605-4370
+SSN: 025779025
+
+Address: 4440 Birch Ln
+Chicago, TX
+
+Date of Birth: 8/23/1953
+
+Amount Due: $7567

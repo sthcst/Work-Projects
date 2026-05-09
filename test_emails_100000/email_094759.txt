@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Lopez
+  email: brenda.lopez6337@example.com
+  phone: 780-412-2748
+  ssn: 396-39-9269
+  dob: 03/24/1971
+  address: 1784 Pine Rd
+  city: Phoenix
+  state: CO

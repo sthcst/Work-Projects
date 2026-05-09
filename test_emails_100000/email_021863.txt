@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Gomez,samantha.gomez4243@mail.com,(329) 450-5760,141341661,23/10/1951,"9854 West Ave",Houston,CA

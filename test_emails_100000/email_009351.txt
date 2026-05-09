@@ -1,0 +1,14 @@
+INVOICE 961488
+
+Bill To:
+Name: James Lopez
+Email: james.lopez6315@work.org
+Phone: 717-660-6424
+SSN: 022554826
+
+Address: 6559 Cedar Ave
+Phoenix, MA
+
+Date of Birth: 14/03/1993
+
+Amount Due: $9620

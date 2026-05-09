@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Dominguez,christopher.dominguez6172@example.com,596 816 5793,570689535,06-28-1981,"5400 Park Dr",Houston,MA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Dominguez",
+    "email": "matthew.dominguez6467@example.com",
+    "phone": "858 801 8738",
+    "ssn": "099 57 2435",
+    "dob": "05/12/1960",
+    "address": "5938 Park Blvd",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

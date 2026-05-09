@@ -1,0 +1,9 @@
+contact:
+  name: Mark White
+  email: mark.white5033@mail.com
+  phone: +1 684-700-1251
+  ssn: 827-78-8565
+  dob: 12/02/1959
+  address: 8495 West Dr
+  city: San Diego
+  state: MO

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Jackson",
+    "email": "michelle.jackson7087@gmail.com",
+    "phone": "858-349-6241",
+    "ssn": "269437734",
+    "dob": "02/07/1973",
+    "address": "3260 South Rd",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

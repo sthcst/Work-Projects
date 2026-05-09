@@ -1,0 +1,9 @@
+contact:
+  name: Edward Lopez
+  email: edward.lopez6778@yahoo.com
+  phone: 387 840 7264
+  ssn: 590535253
+  dob: 08-04-1976
+  address: 5105 North Way
+  city: Washington
+  state: PA

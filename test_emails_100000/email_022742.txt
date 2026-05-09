@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Evans
+  email: cynthia.evans3251@company.com
+  phone: 759-566-5206
+  ssn: 662-82-8828
+  dob: 13/06/2005
+  address: 5064 Spring Blvd
+  city: Denver
+  state: MO

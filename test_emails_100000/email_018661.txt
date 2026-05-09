@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Robinson
+  email: samantha.robinson2717@work.org
+  phone: 730 607 2380
+  ssn: 294 46 7179
+  dob: 26/05/1954
+  address: 4668 East Way
+  city: Dallas
+  state: MD

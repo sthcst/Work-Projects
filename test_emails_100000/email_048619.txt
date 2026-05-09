@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Stewart
+  email: brenda.stewart9075@business.net
+  phone: (876) 621-2628
+  ssn: 956 63 6290
+  dob: 8/16/1964
+  address: 1528 Fourth Blvd
+  city: Phoenix
+  state: MA

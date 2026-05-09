@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Jackson,brenda.jackson6514@company.com,247-482-3210,095905150,07/03/1978,"9261 Main Ln",San Jose,MD

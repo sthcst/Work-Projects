@@ -1,0 +1,9 @@
+contact:
+  name: George Perez
+  email: george.perez1032@outlook.com
+  phone: +1 580-585-8177
+  ssn: 242-19-5815
+  dob: 11/3/1985
+  address: 7721 South Rd
+  city: Jacksonville
+  state: TX

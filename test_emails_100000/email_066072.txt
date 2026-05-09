@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Nelson,brian.nelson1884@mail.com,285-738-5442,061066419,3/4/1995,"465 Elm St",Jacksonville,GA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Williams,john.williams763@mail.com,718 532 7571,063186595,10/26/1964,"6641 Fifth Ave",Phoenix,PA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Serrano",
+    "email": "jane.serrano1218@gmail.com",
+    "phone": "+1 452-441-5194",
+    "ssn": "336272549",
+    "dob": "25/07/1996",
+    "address": "5535 First Ave",
+    "city": "Los Angeles",
+    "state": "AZ"
+  }
+}

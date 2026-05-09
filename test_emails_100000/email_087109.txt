@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Miller
+  email: cynthia.miller8438@work.org
+  phone: 313-731-2032
+  ssn: 031 36 8881
+  dob: 10/08/1998
+  address: 2477 Oak Dr
+  city: San Antonio
+  state: OH

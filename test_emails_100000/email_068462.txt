@@ -1,0 +1,14 @@
+INVOICE 733564
+
+Bill To:
+Name: Jeffrey Ramirez
+Email: jeffrey.ramirez8604@work.org
+Phone: 727 545 1449
+SSN: 727659573
+
+Address: 5989 Fourth Rd
+Seattle, WA
+
+Date of Birth: 11/23/1964
+
+Amount Due: $4372

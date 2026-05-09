@@ -1,0 +1,9 @@
+contact:
+  name: Michael Martin
+  email: michael.martin4166@mail.com
+  phone: +1 930-207-1841
+  ssn: 575 98 5969
+  dob: 19/10/1978
+  address: 3686 Pine Court
+  city: Denver
+  state: WA

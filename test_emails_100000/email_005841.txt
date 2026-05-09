@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Reyes,nicole.reyes5868@work.org,452-521-6200,917 17 3907,02-05-1985,"543 Summer Way",Jacksonville,NY

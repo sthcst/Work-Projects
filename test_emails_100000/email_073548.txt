@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey White
+  email: jeffrey.white2245@outlook.com
+  phone: +1 987-426-6691
+  ssn: 635 08 1757
+  dob: 04-12-1962
+  address: 5692 Birch Ln
+  city: Washington
+  state: TX

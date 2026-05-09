@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Gomez
+  email: samantha.gomez3680@mail.com
+  phone: (244) 510-3845
+  ssn: 322 27 2128
+  dob: 07/11/1953
+  address: 6426 East St
+  city: San Jose
+  state: CA

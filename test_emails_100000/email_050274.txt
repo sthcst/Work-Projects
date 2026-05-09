@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Young,jennifer.young4092@example.com,(240) 411-5259,650 91 7965,10/6/1974,"6770 Fourth Ave",Chicago,WA

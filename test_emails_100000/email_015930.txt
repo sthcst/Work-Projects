@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Smith",
+    "email": "rachel.smith5935@example.com",
+    "phone": "+1 711-518-5875",
+    "ssn": "185 57 3139",
+    "dob": "27/05/1955",
+    "address": "4597 Summer Ave",
+    "city": "Austin",
+    "state": "AZ"
+  }
+}

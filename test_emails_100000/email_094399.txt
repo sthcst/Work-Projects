@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Garcia,megan.garcia4242@yahoo.com,(961) 328-1133,683969623,06-20-1958,"8374 Oak Ln",Austin,TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Martin",
+    "email": "rachel.martin2084@yahoo.com",
+    "phone": "(241) 907-6745",
+    "ssn": "718904407",
+    "dob": "08-06-1963",
+    "address": "465 First Way",
+    "city": "Philadelphia",
+    "state": "WI"
+  }
+}

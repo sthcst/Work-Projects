@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Jones",
+    "email": "cynthia.jones137@yahoo.com",
+    "phone": "+1 729-804-4630",
+    "ssn": "831-57-7304",
+    "dob": "19/08/2002",
+    "address": "4591 East St",
+    "city": "Chicago",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Johnson,deborah.johnson4772@gmail.com,+1 911-981-5700,246 87 5084,28/05/1979,"18 Sixth Rd",Dallas,NJ

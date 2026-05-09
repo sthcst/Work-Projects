@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Anderson",
+    "email": "amanda.anderson9457@outlook.com",
+    "phone": "(615) 278-4651",
+    "ssn": "269 61 1209",
+    "dob": "18/10/1956",
+    "address": "2492 Sixth Blvd",
+    "city": "Boston",
+    "state": "GA"
+  }
+}

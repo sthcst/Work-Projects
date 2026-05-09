@@ -1,0 +1,9 @@
+contact:
+  name: David Edwards
+  email: david.edwards8667@gmail.com
+  phone: 923 446 2957
+  ssn: 006 48 6323
+  dob: 12/02/1973
+  address: 1124 Park St
+  city: Seattle
+  state: OH

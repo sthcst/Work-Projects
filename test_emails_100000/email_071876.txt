@@ -1,0 +1,14 @@
+INVOICE 107631
+
+Bill To:
+Name: Shirley Garcia
+Email: shirley.garcia8955@company.com
+Phone: (453) 543-9607
+SSN: 445-33-6970
+
+Address: 1179 Sixth Rd
+Jacksonville, TX
+
+Date of Birth: 12/6/1979
+
+Amount Due: $9150

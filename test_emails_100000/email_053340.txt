@@ -1,0 +1,14 @@
+INVOICE 845996
+
+Bill To:
+Name: Paul Nunez
+Email: paul.nunez3712@outlook.com
+Phone: (989) 747-3070
+SSN: 168526998
+
+Address: 2525 Fifth St
+Boston, CA
+
+Date of Birth: 6/13/1981
+
+Amount Due: $3906

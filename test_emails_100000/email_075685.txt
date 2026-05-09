@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Perez",
+    "email": "kathleen.perez4157@yahoo.com",
+    "phone": "+1 839-424-7253",
+    "ssn": "834 38 2610",
+    "dob": "07/23/1961",
+    "address": "6398 Main Rd",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

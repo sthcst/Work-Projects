@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Parker",
+    "email": "timothy.parker620@gmail.com",
+    "phone": "946-977-1626",
+    "ssn": "371 91 6854",
+    "dob": "07-06-1964",
+    "address": "5074 Maple Blvd",
+    "city": "Los Angeles",
+    "state": "VA"
+  }
+}

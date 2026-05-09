@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Bell",
+    "email": "emily.bell6255@business.net",
+    "phone": "551-926-3282",
+    "ssn": "037-01-7656",
+    "dob": "07-04-1993",
+    "address": "3336 Third Court",
+    "city": "Denver",
+    "state": "MA"
+  }
+}

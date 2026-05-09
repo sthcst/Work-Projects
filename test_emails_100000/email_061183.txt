@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Brown",
+    "email": "brenda.brown7451@business.net",
+    "phone": "333 338 4469",
+    "ssn": "457-34-9978",
+    "dob": "05-22-1971",
+    "address": "3767 Second Ave",
+    "city": "Boston",
+    "state": "NJ"
+  }
+}

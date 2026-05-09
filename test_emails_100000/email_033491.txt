@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Thompson
+  email: ashley.thompson3217@company.com
+  phone: +1 288-854-5534
+  ssn: 986 27 7868
+  dob: 04-17-2001
+  address: 3326 West St
+  city: Phoenix
+  state: WA

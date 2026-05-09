@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Reed,helen.reed7950@company.com,812 344 2924,146 15 4122,1/14/1960,"5164 West Ln",San Antonio,NC

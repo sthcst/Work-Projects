@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Rodriguez",
+    "email": "steven.rodriguez3828@gmail.com",
+    "phone": "276-940-9438",
+    "ssn": "715 88 8810",
+    "dob": "10/03/1990",
+    "address": "8945 North Ln",
+    "city": "Washington",
+    "state": "WA"
+  }
+}

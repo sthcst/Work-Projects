@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Ortiz,andrew.ortiz6918@work.org,327 404 8618,416-07-2585,2/24/1969,"2830 Oak Ave",Dallas,DC

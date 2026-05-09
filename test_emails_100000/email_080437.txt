@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Delgado
+  email: christopher.delgado4739@gmail.com
+  phone: 838 787 7109
+  ssn: 110 68 9443
+  dob: 07-09-1953
+  address: 3219 Elm Dr
+  city: Los Angeles
+  state: WI

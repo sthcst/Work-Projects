@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Sanchez",
+    "email": "brian.sanchez5641@work.org",
+    "phone": "691 316 4915",
+    "ssn": "099 52 3272",
+    "dob": "04/09/1988",
+    "address": "4541 Third Ln",
+    "city": "Phoenix",
+    "state": "OH"
+  }
+}

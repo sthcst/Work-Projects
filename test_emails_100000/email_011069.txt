@@ -1,0 +1,9 @@
+contact:
+  name: John White
+  email: john.white3188@gmail.com
+  phone: 761-491-1842
+  ssn: 691-49-1612
+  dob: 24/11/2003
+  address: 7765 East Dr
+  city: Jacksonville
+  state: MD

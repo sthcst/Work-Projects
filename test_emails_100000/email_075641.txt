@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Morris,michelle.morris5281@mail.com,(519) 281-3350,683 34 1591,25/05/1966,"6497 Third Court",San Antonio,IL

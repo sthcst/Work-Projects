@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Stewart,samantha.stewart3668@outlook.com,(993) 798-4724,702 97 4591,22/01/1973,"2687 Cedar Court",Boston,WA

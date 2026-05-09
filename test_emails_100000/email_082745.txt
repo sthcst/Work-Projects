@@ -1,0 +1,9 @@
+contact:
+  name: George Dominguez
+  email: george.dominguez8994@business.net
+  phone: +1 288-742-3770
+  ssn: 661 84 3780
+  dob: 02-17-1965
+  address: 7994 Main Blvd
+  city: Chicago
+  state: CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Martinez,edward.martinez2831@example.com,846 928 2254,757253562,05/05/1986,"5959 East Rd",Dallas,TX

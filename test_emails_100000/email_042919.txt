@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Martinez,ryan.martinez6027@work.org,812 910 5473,235 33 3865,26/09/1983,"2527 Oak Way",Phoenix,MI

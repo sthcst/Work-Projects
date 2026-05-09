@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Jones,david.jones846@yahoo.com,580 302 5461,387151817,07/23/1972,"439 Second St",San Diego,CA

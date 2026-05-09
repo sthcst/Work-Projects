@@ -1,0 +1,14 @@
+INVOICE 102029
+
+Bill To:
+Name: Jason Miller
+Email: jason.miller7799@company.com
+Phone: 725-453-3981
+SSN: 648-64-8201
+
+Address: 7370 West Ln
+Washington, TX
+
+Date of Birth: 04/17/1983
+
+Amount Due: $1164

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Stewart",
+    "email": "daniel.stewart4124@gmail.com",
+    "phone": "+1 287-689-3014",
+    "ssn": "538847964",
+    "dob": "10/14/1950",
+    "address": "910 Fifth Ave",
+    "city": "Boston",
+    "state": "WI"
+  }
+}

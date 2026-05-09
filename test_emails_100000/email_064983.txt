@@ -1,0 +1,9 @@
+contact:
+  name: Emily Thomas
+  email: emily.thomas5031@mail.com
+  phone: 690 529 2007
+  ssn: 382566274
+  dob: 13/11/1956
+  address: 231 Fourth Ln
+  city: Boston
+  state: NY

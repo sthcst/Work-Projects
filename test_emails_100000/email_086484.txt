@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Taylor
+  email: kimberly.taylor3213@outlook.com
+  phone: 758-725-2503
+  ssn: 959-94-2992
+  dob: 9/18/1968
+  address: 1484 Fifth Blvd
+  city: Houston
+  state: NJ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Hall,rebecca.hall5517@mail.com,(675) 236-8802,699 97 4806,25/05/1999,"7455 South St",Phoenix,AZ

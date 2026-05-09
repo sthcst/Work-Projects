@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Murillo,jeffrey.murillo1495@mail.com,411-411-4770,501 28 2000,01-09-1971,"9216 East Ln",Boston,DC

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Nelson",
+    "email": "jane.nelson6093@mail.com",
+    "phone": "(286) 998-7020",
+    "ssn": "287711046",
+    "dob": "01/04/1951",
+    "address": "6700 East Rd",
+    "city": "Austin",
+    "state": "WI"
+  }
+}

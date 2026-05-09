@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Rogers,edward.rogers8272@example.com,(388) 659-2415,467 20 7385,03-25-1991,"6647 South St",Dallas,MA

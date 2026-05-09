@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Brown
+  email: ronald.brown7854@mail.com
+  phone: 371 706 5688
+  ssn: 612656033
+  dob: 10/20/1981
+  address: 6455 Spring Ave
+  city: Jacksonville
+  state: DC

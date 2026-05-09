@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Morris",
+    "email": "gary.morris9088@mail.com",
+    "phone": "700 744 9176",
+    "ssn": "527 81 8076",
+    "dob": "06/02/1974",
+    "address": "8410 Elm Blvd",
+    "city": "Denver",
+    "state": "GA"
+  }
+}

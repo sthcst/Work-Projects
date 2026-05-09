@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Ramirez
+  email: jessica.ramirez2773@business.net
+  phone: 766 299 4430
+  ssn: 834-04-1117
+  dob: 14/03/1979
+  address: 7406 Pine Ln
+  city: Denver
+  state: AZ

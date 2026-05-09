@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Ramirez,anthony.ramirez372@yahoo.com,(308) 377-2317,359 05 9782,07-18-1996,"5681 Summer St",Jacksonville,DC

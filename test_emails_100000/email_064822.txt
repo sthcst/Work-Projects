@@ -1,0 +1,14 @@
+INVOICE 952588
+
+Bill To:
+Name: Michael Reyes
+Email: michael.reyes3441@business.net
+Phone: (938) 386-8435
+SSN: 606 03 3750
+
+Address: 7109 Summer St
+Dallas, TX
+
+Date of Birth: 02/02/1980
+
+Amount Due: $1277

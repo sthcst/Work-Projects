@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Lee,donald.lee1818@mail.com,338-986-3889,147 45 7158,11-17-1984,"286 Elm Ave",San Jose,TX

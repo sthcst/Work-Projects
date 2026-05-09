@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Walker",
+    "email": "kenneth.walker2747@work.org",
+    "phone": "+1 882-606-9765",
+    "ssn": "909606436",
+    "dob": "8/22/1966",
+    "address": "1682 Pine Court",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

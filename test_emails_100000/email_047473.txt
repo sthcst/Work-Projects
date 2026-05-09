@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Lopez,stephanie.lopez7958@example.com,(676) 559-5797,260 13 6186,10/02/1985,"341 Birch Blvd",San Diego,WA

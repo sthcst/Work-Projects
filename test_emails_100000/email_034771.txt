@@ -1,0 +1,9 @@
+contact:
+  name: Michael Phillips
+  email: michael.phillips8217@example.com
+  phone: (532) 779-3692
+  ssn: 623278421
+  dob: 3/4/1974
+  address: 3825 Second St
+  city: Phoenix
+  state: MA

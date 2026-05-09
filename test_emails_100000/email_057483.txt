@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Roberts",
+    "email": "matthew.roberts7926@work.org",
+    "phone": "+1 644-756-5626",
+    "ssn": "704 88 4020",
+    "dob": "01-27-1997",
+    "address": "6101 First Way",
+    "city": "Los Angeles",
+    "state": "MA"
+  }
+}

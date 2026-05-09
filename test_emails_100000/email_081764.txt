@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Phillips
+  email: christopher.phillips1431@yahoo.com
+  phone: (508) 436-5964
+  ssn: 202-83-8964
+  dob: 07/22/1955
+  address: 2432 West Ln
+  city: San Jose
+  state: AZ

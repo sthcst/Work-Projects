@@ -1,0 +1,9 @@
+contact:
+  name: David Rogers
+  email: david.rogers1384@example.com
+  phone: 636 489 6676
+  ssn: 026-54-6360
+  dob: 4/23/1997
+  address: 2277 Sixth St
+  city: Houston
+  state: CA

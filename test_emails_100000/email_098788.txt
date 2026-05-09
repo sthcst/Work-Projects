@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Romero,anna.romero9270@yahoo.com,600 301 8759,598-32-4900,12/06/1963,"2523 Fourth Court",San Jose,CA

@@ -1,0 +1,9 @@
+contact:
+  name: Christine Reed
+  email: christine.reed7253@mail.com
+  phone: 872-325-7806
+  ssn: 298062005
+  dob: 20/03/1990
+  address: 2670 Birch Ave
+  city: Washington
+  state: CA

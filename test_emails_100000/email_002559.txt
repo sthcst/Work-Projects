@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Williams,samantha.williams3425@yahoo.com,+1 611-758-2682,058-12-4515,16/05/1953,"3090 Oak Ave",San Jose,IL

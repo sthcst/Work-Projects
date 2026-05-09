@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Martin
+  email: lisa.martin3707@business.net
+  phone: 294 766 6252
+  ssn: 280-47-6934
+  dob: 1/15/1998
+  address: 3525 Fifth Dr
+  city: Dallas
+  state: FL

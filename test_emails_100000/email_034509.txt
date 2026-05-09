@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Campbell",
+    "email": "jennifer.campbell156@yahoo.com",
+    "phone": "963 768 8165",
+    "ssn": "319-27-3421",
+    "dob": "3/16/1982",
+    "address": "4593 Cedar Rd",
+    "city": "Boston",
+    "state": "CA"
+  }
+}

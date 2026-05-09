@@ -1,0 +1,14 @@
+INVOICE 998208
+
+Bill To:
+Name: Steven Walker
+Email: steven.walker9741@company.com
+Phone: (496) 846-6375
+SSN: 199414470
+
+Address: 9464 Elm Dr
+Austin, CA
+
+Date of Birth: 23/07/1988
+
+Amount Due: $6822

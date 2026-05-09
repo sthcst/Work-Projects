@@ -1,0 +1,9 @@
+contact:
+  name: Helen Alvarado
+  email: helen.alvarado124@business.net
+  phone: 431 562 8246
+  ssn: 548 62 7565
+  dob: 03/20/1977
+  address: 8846 Sixth Way
+  city: Jacksonville
+  state: MD

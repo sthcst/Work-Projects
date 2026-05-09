@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Rogers
+  email: ryan.rogers4265@mail.com
+  phone: +1 904-511-7030
+  ssn: 882-58-3999
+  dob: 04/08/2003
+  address: 6049 Pine Blvd
+  city: Philadelphia
+  state: AZ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Nelson,james.nelson9996@work.org,568 393 7559,302813732,11/20/2001,"9598 North Blvd",Washington,TX

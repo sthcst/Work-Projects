@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Wilson",
+    "email": "anna.wilson3669@example.com",
+    "phone": "+1 282-586-7797",
+    "ssn": "896-09-8782",
+    "dob": "11-06-1991",
+    "address": "2306 Cedar Rd",
+    "city": "Washington",
+    "state": "CO"
+  }
+}

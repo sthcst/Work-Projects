@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Reeves",
+    "email": "brian.reeves9414@gmail.com",
+    "phone": "+1 950-723-7344",
+    "ssn": "887525191",
+    "dob": "05-14-1969",
+    "address": "3590 Sixth Way",
+    "city": "Austin",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Thompson
+  email: katherine.thompson3739@company.com
+  phone: (906) 304-3564
+  ssn: 999 32 3121
+  dob: 3/15/1992
+  address: 9331 Main Blvd
+  city: San Jose
+  state: MI

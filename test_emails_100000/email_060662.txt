@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Nelson",
+    "email": "stephanie.nelson5185@example.com",
+    "phone": "957-988-7957",
+    "ssn": "640-02-3476",
+    "dob": "02-22-1955",
+    "address": "8464 South Ave",
+    "city": "Denver",
+    "state": "DC"
+  }
+}

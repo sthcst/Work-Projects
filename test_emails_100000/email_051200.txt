@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Rogers",
+    "email": "kenneth.rogers3557@business.net",
+    "phone": "924 621 1813",
+    "ssn": "287983527",
+    "dob": "15/10/1980",
+    "address": "3883 Pine Way",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

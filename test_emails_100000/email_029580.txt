@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Romero,pamela.romero7634@example.com,426 623 7484,020-01-9246,08/11/1980,"1874 Birch Court",Dallas,CA

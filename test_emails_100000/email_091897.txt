@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Bell,jennifer.bell1086@mail.com,396-911-4051,717 22 2329,8/8/1987,"7134 First Court",San Diego,NJ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Jackson,ronald.jackson2515@company.com,550-994-4609,973506720,05-25-1962,"1418 Fourth Ln",San Antonio,FL

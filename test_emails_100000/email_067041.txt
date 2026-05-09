@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Smith
+  email: deborah.smith940@company.com
+  phone: (982) 670-7987
+  ssn: 378-38-3772
+  dob: 09-11-1996
+  address: 7480 Fifth Dr
+  city: Seattle
+  state: CO

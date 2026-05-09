@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Parker,anna.parker7817@gmail.com,220-547-6981,421366045,04/17/1959,"5437 South Ln",Austin,CA

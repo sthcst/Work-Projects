@@ -1,0 +1,9 @@
+contact:
+  name: Maria Harris
+  email: maria.harris9692@outlook.com
+  phone: (396) 745-8842
+  ssn: 449-07-4800
+  dob: 11/5/1956
+  address: 7058 Second Ave
+  city: Washington
+  state: TX

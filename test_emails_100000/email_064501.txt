@@ -1,0 +1,9 @@
+contact:
+  name: Angela Ortiz
+  email: angela.ortiz6133@business.net
+  phone: 660 542 3798
+  ssn: 095 02 9906
+  dob: 27/05/2004
+  address: 8311 Birch Way
+  city: New York
+  state: WA

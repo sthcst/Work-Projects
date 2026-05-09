@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Rodriguez
+  email: ryan.rodriguez9981@company.com
+  phone: 647-356-9763
+  ssn: 660 09 2331
+  dob: 27/03/1990
+  address: 1018 Maple Ln
+  city: Chicago
+  state: FL

@@ -1,0 +1,14 @@
+INVOICE 473321
+
+Bill To:
+Name: James Walker
+Email: james.walker3007@company.com
+Phone: 639 380 9513
+SSN: 097-61-1632
+
+Address: 6026 Pine Dr
+Philadelphia, CA
+
+Date of Birth: 10-22-1971
+
+Amount Due: $2515

@@ -1,0 +1,14 @@
+INVOICE 548651
+
+Bill To:
+Name: Gary Jones
+Email: gary.jones520@business.net
+Phone: 874 679 6942
+SSN: 712 60 7803
+
+Address: 4240 Elm Way
+Denver, CA
+
+Date of Birth: 1/18/1951
+
+Amount Due: $3154

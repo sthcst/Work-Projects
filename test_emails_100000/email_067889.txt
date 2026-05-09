@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Gonzalez",
+    "email": "michelle.gonzalez2410@gmail.com",
+    "phone": "861-546-2568",
+    "ssn": "800 97 9715",
+    "dob": "05/26/1996",
+    "address": "9744 Fifth Dr",
+    "city": "Phoenix",
+    "state": "NC"
+  }
+}

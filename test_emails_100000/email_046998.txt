@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Reyes",
+    "email": "christine.reyes3791@yahoo.com",
+    "phone": "680-920-3225",
+    "ssn": "253 08 5299",
+    "dob": "5/26/2001",
+    "address": "5475 First Dr",
+    "city": "Boston",
+    "state": "FL"
+  }
+}

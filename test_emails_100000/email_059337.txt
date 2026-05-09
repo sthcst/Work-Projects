@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Sanchez
+  email: kimberly.sanchez8026@outlook.com
+  phone: +1 364-808-7449
+  ssn: 275145288
+  dob: 13/05/1950
+  address: 79 East Court
+  city: Boston
+  state: FL

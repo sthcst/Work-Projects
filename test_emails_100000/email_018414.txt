@@ -1,0 +1,9 @@
+contact:
+  name: Brian Peterson
+  email: brian.peterson3165@gmail.com
+  phone: (738) 878-9445
+  ssn: 386 04 1651
+  dob: 16/06/1977
+  address: 5428 Oak St
+  city: San Diego
+  state: GA

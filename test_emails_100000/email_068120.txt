@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Moore",
+    "email": "kimberly.moore6000@outlook.com",
+    "phone": "+1 289-633-2792",
+    "ssn": "971427427",
+    "dob": "4/26/2000",
+    "address": "1909 Maple Dr",
+    "city": "San Antonio",
+    "state": "TN"
+  }
+}

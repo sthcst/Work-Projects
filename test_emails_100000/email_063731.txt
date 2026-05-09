@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Ortiz,mark.ortiz3171@yahoo.com,+1 345-666-7553,885991594,21/05/1972,"3814 Elm Court",Chicago,TX

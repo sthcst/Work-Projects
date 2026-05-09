@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Carter
+  email: jessica.carter4745@business.net
+  phone: 586-820-8234
+  ssn: 815396911
+  dob: 11-15-2000
+  address: 4393 South Blvd
+  city: Washington
+  state: AZ

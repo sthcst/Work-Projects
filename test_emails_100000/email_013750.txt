@@ -1,0 +1,14 @@
+INVOICE 532060
+
+Bill To:
+Name: Megan Ramirez
+Email: megan.ramirez5281@work.org
+Phone: 650 704 6125
+SSN: 409-42-6211
+
+Address: 8892 Summer Way
+Austin, WA
+
+Date of Birth: 16/09/1977
+
+Amount Due: $6691

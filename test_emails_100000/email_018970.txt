@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Bell,helen.bell2777@outlook.com,+1 341-646-6169,660 25 9714,1/19/1999,"4528 Maple Ave",Philadelphia,FL

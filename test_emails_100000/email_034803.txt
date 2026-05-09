@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Brown,jeffrey.brown8452@company.com,+1 296-614-6553,965-59-9987,06/06/1972,"6424 Birch Court",Dallas,NJ

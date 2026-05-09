@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Martinez",
+    "email": "katherine.martinez6557@business.net",
+    "phone": "+1 611-569-3853",
+    "ssn": "997575651",
+    "dob": "12/06/1975",
+    "address": "2162 West Rd",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

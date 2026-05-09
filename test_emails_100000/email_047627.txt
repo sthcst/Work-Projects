@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Carter",
+    "email": "nicole.carter4534@yahoo.com",
+    "phone": "(514) 642-1994",
+    "ssn": "864-93-4256",
+    "dob": "04-10-2000",
+    "address": "7138 Park Way",
+    "city": "Denver",
+    "state": "AZ"
+  }
+}

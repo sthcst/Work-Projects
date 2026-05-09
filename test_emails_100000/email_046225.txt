@@ -1,0 +1,14 @@
+INVOICE 563416
+
+Bill To:
+Name: Ashley Romero
+Email: ashley.romero3836@example.com
+Phone: 820 909 8186
+SSN: 871 07 5297
+
+Address: 7657 Main Ave
+Seattle, FL
+
+Date of Birth: 08-07-1986
+
+Amount Due: $8824

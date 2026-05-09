@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Wilson,angela.wilson4609@company.com,(689) 811-1661,603884661,08/02/1961,"9612 Second Blvd",Jacksonville,TX

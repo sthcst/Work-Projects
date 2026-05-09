@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Young",
+    "email": "sarah.young248@yahoo.com",
+    "phone": "+1 444-456-7401",
+    "ssn": "659-17-7463",
+    "dob": "10/16/1996",
+    "address": "9679 Fifth St",
+    "city": "Phoenix",
+    "state": "MA"
+  }
+}

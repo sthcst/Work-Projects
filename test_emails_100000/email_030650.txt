@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Martinez",
+    "email": "pamela.martinez6961@mail.com",
+    "phone": "(935) 961-4536",
+    "ssn": "057689682",
+    "dob": "11/4/1954",
+    "address": "8655 West Blvd",
+    "city": "Los Angeles",
+    "state": "WA"
+  }
+}

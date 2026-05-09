@@ -1,0 +1,14 @@
+INVOICE 468537
+
+Bill To:
+Name: Ronald Johnson
+Email: ronald.johnson1105@yahoo.com
+Phone: +1 860-734-9379
+SSN: 257 52 6087
+
+Address: 2754 Spring Ave
+Seattle, CA
+
+Date of Birth: 01-17-1995
+
+Amount Due: $2549

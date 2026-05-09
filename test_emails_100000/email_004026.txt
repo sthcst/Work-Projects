@@ -1,0 +1,14 @@
+INVOICE 498922
+
+Bill To:
+Name: Sarah Smith
+Email: sarah.smith4226@business.net
+Phone: 902 360 3591
+SSN: 792788297
+
+Address: 5162 Park Blvd
+Dallas, FL
+
+Date of Birth: 18/03/1951
+
+Amount Due: $9189

@@ -1,0 +1,12 @@
+SUPPORT TICKET #69396
+
+Customer: Gary Harris
+Email: gary.harris3121@example.com
+Phone: +1 835-993-2147
+Account: 735-46-6080
+
+Issue Description: Technical problem reported
+DOB on file: 6/2/1974
+Address: 1200 Main Way, New York, AZ
+
+Status: OPEN

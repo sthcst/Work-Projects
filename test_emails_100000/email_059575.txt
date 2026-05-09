@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Wilson
+  email: samantha.wilson5434@company.com
+  phone: 450-202-1499
+  ssn: 246-06-4304
+  dob: 07-19-1969
+  address: 1083 Summer Ave
+  city: Seattle
+  state: GA

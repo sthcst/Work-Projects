@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Brown,stephanie.brown7916@yahoo.com,279 638 4502,788-46-4222,05-13-1962,"4568 Summer Dr",San Diego,TX

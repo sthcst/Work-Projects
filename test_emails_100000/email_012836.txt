@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Taylor,brenda.taylor3753@gmail.com,529 733 4952,521427845,02/09/1993,"6075 Maple Dr",Boston,MA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Carter,samantha.carter4907@mail.com,865 449 3977,030 72 9061,06-10-1985,"8380 Oak Ln",Austin,OH

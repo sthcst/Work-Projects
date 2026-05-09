@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Cooper,helen.cooper5977@mail.com,(782) 666-8062,281 76 6221,01-13-1989,"9026 Cedar Blvd",San Diego,OH

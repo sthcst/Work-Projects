@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Gonzalez",
+    "email": "kevin.gonzalez2018@example.com",
+    "phone": "(913) 364-3489",
+    "ssn": "693056504",
+    "dob": "10/17/1981",
+    "address": "7090 South Way",
+    "city": "San Diego",
+    "state": "DC"
+  }
+}

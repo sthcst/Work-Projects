@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Harris",
+    "email": "jason.harris439@gmail.com",
+    "phone": "(816) 609-6010",
+    "ssn": "985684460",
+    "dob": "04-09-1975",
+    "address": "5723 Main St",
+    "city": "New York",
+    "state": "VA"
+  }
+}

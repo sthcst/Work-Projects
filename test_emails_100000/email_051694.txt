@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Anderson,richard.anderson3854@outlook.com,794 712 6971,904-94-5745,06/20/1961,"3050 Spring Dr",Seattle,WA

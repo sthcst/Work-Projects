@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Jones",
+    "email": "jacob.jones2879@yahoo.com",
+    "phone": "992 903 3304",
+    "ssn": "895-50-1831",
+    "dob": "12-03-1997",
+    "address": "4111 Third Blvd",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

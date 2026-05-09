@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Parker",
+    "email": "lauren.parker8541@example.com",
+    "phone": "692-948-4675",
+    "ssn": "359-29-1701",
+    "dob": "12/03/1965",
+    "address": "8310 Pine Court",
+    "city": "Chicago",
+    "state": "FL"
+  }
+}

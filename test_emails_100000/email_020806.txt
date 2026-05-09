@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Carter",
+    "email": "christine.carter4052@yahoo.com",
+    "phone": "(332) 545-4440",
+    "ssn": "576 52 4531",
+    "dob": "04/15/1995",
+    "address": "8844 North Rd",
+    "city": "Boston",
+    "state": "CA"
+  }
+}

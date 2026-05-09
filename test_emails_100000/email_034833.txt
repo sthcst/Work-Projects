@@ -1,0 +1,14 @@
+INVOICE 199520
+
+Bill To:
+Name: James Peterson
+Email: james.peterson9144@gmail.com
+Phone: 310-374-8774
+SSN: 399609151
+
+Address: 5461 Fourth Ln
+New York, FL
+
+Date of Birth: 10/06/1963
+
+Amount Due: $2526

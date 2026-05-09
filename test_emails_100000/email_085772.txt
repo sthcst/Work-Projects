@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Phillips",
+    "email": "angela.phillips4779@work.org",
+    "phone": "755-725-6412",
+    "ssn": "546 97 5546",
+    "dob": "10/25/1985",
+    "address": "4795 Elm Ave",
+    "city": "Phoenix",
+    "state": "AZ"
+  }
+}

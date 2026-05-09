@@ -1,0 +1,14 @@
+INVOICE 850926
+
+Bill To:
+Name: John Dominguez
+Email: john.dominguez996@yahoo.com
+Phone: +1 641-459-6188
+SSN: 482-41-8124
+
+Address: 9519 Summer Ave
+Washington, AZ
+
+Date of Birth: 09-18-1986
+
+Amount Due: $3219

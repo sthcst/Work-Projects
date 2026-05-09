@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Thompson,michelle.thompson1550@mail.com,247-493-3028,765 61 1858,01/18/1979,"3945 First Dr",Chicago,NC

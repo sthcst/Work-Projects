@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Romero",
+    "email": "pamela.romero8692@work.org",
+    "phone": "737-403-7361",
+    "ssn": "997549218",
+    "dob": "06-08-1998",
+    "address": "9264 East Dr",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

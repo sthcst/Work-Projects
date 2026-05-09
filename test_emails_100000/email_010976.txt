@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Reyes",
+    "email": "william.reyes9954@work.org",
+    "phone": "(771) 820-1472",
+    "ssn": "780-91-9658",
+    "dob": "05/12/1952",
+    "address": "5932 Oak Rd",
+    "city": "Los Angeles",
+    "state": "WA"
+  }
+}

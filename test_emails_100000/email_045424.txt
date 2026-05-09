@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Reeves
+  email: lauren.reeves2354@business.net
+  phone: (373) 857-3387
+  ssn: 610-97-4390
+  dob: 11/10/2000
+  address: 4082 Oak St
+  city: Washington
+  state: TX

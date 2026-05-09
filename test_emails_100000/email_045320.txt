@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Edwards
+  email: joshua.edwards490@gmail.com
+  phone: (423) 545-3830
+  ssn: 974286293
+  dob: 24/01/1981
+  address: 9732 Maple St
+  city: Dallas
+  state: MI

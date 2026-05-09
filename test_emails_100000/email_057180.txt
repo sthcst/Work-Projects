@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Nunez
+  email: sarah.nunez8955@business.net
+  phone: +1 694-412-7004
+  ssn: 471 25 1464
+  dob: 10/8/2005
+  address: 4752 First Ln
+  city: Dallas
+  state: CA

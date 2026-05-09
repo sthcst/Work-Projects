@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Rogers
+  email: kenneth.rogers7823@work.org
+  phone: 797 811 4616
+  ssn: 295-48-2458
+  dob: 20/04/1950
+  address: 576 Third Ave
+  city: Dallas
+  state: AZ

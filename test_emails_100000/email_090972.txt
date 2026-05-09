@@ -1,0 +1,9 @@
+contact:
+  name: John Gomez
+  email: john.gomez948@work.org
+  phone: +1 608-984-6657
+  ssn: 591695094
+  dob: 08-27-1991
+  address: 2033 Birch Court
+  city: Seattle
+  state: PA

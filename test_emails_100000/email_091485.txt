@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Williams",
+    "email": "maria.williams3879@company.com",
+    "phone": "720-694-6821",
+    "ssn": "361-81-1026",
+    "dob": "01/07/2000",
+    "address": "5007 First Blvd",
+    "city": "Jacksonville",
+    "state": "TN"
+  }
+}

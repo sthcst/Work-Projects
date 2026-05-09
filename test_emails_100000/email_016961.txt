@@ -1,0 +1,14 @@
+INVOICE 895369
+
+Bill To:
+Name: Katherine Hernandez
+Email: katherine.hernandez8488@example.com
+Phone: (861) 730-4046
+SSN: 750843965
+
+Address: 9127 Spring Ln
+Denver, CA
+
+Date of Birth: 21/05/1985
+
+Amount Due: $1275

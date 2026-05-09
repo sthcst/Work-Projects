@@ -1,0 +1,14 @@
+INVOICE 916702
+
+Bill To:
+Name: Samantha Ramirez
+Email: samantha.ramirez243@work.org
+Phone: (891) 567-5539
+SSN: 061-52-5850
+
+Address: 6971 Cedar Blvd
+Dallas, TX
+
+Date of Birth: 04-19-1962
+
+Amount Due: $7752

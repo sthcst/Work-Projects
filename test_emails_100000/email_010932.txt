@@ -1,0 +1,9 @@
+contact:
+  name: Emma Thompson
+  email: emma.thompson759@business.net
+  phone: 718-509-6850
+  ssn: 842-13-7958
+  dob: 26/11/1966
+  address: 1437 Elm Court
+  city: Los Angeles
+  state: NY

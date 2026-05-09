@@ -1,0 +1,9 @@
+contact:
+  name: Richard Ortiz
+  email: richard.ortiz6554@outlook.com
+  phone: 590-535-2037
+  ssn: 083 44 8198
+  dob: 26/01/1991
+  address: 2896 Elm Dr
+  city: San Jose
+  state: FL

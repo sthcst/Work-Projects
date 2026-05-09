@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Davis,brian.davis3548@company.com,498-298-3488,504-02-9078,01-13-1998,"1853 Spring Rd",Seattle,MO

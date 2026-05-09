@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Miller,jeffrey.miller9378@work.org,(651) 952-6499,114863720,13/04/1981,"2201 North Way",Austin,DC

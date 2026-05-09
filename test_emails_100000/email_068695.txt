@@ -1,0 +1,14 @@
+INVOICE 352356
+
+Bill To:
+Name: Steven Jackson
+Email: steven.jackson756@mail.com
+Phone: +1 580-565-3450
+SSN: 774 84 5538
+
+Address: 3822 Park Ln
+San Jose, FL
+
+Date of Birth: 11/08/1980
+
+Amount Due: $7182

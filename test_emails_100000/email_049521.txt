@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Moore,kevin.moore1047@business.net,792-221-3400,686114425,27/11/1999,"9172 Main Dr",Phoenix,MA

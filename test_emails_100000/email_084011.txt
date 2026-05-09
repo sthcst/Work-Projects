@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Walker,james.walker2758@outlook.com,659-935-5590,243 61 1937,01/03/1976,"5147 Maple Dr",Austin,WA

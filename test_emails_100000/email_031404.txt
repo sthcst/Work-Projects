@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Reed",
+    "email": "stephanie.reed7782@yahoo.com",
+    "phone": "(379) 629-4411",
+    "ssn": "106 08 7360",
+    "dob": "11/15/1982",
+    "address": "2036 East Way",
+    "city": "New York",
+    "state": "WA"
+  }
+}

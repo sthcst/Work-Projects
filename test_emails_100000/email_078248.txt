@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Hernandez,lauren.hernandez6606@mail.com,487-446-9034,770-17-1238,11-26-1986,"3815 First Way",Chicago,AZ

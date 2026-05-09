@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Reed,angela.reed5447@yahoo.com,+1 302-659-1812,515906122,01-14-1992,"2720 West Blvd",New York,WI

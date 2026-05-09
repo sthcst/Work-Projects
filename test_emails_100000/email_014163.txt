@@ -1,0 +1,14 @@
+INVOICE 774818
+
+Bill To:
+Name: Ronald Hernandez
+Email: ronald.hernandez5701@example.com
+Phone: (263) 723-8175
+SSN: 409 15 8758
+
+Address: 9288 Birch Ln
+Jacksonville, MA
+
+Date of Birth: 10/10/1994
+
+Amount Due: $9508

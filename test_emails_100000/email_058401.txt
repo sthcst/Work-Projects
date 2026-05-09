@@ -1,0 +1,14 @@
+INVOICE 760356
+
+Bill To:
+Name: Nicole Moore
+Email: nicole.moore6865@example.com
+Phone: (581) 637-2347
+SSN: 720804445
+
+Address: 1748 North St
+Philadelphia, AZ
+
+Date of Birth: 2/23/1992
+
+Amount Due: $4385

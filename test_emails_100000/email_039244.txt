@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Carter",
+    "email": "ashley.carter6794@outlook.com",
+    "phone": "727 814 2767",
+    "ssn": "779 39 2314",
+    "dob": "09/07/1992",
+    "address": "6046 Park Ave",
+    "city": "San Diego",
+    "state": "AZ"
+  }
+}

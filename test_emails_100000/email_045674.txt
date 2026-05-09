@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Reyes
+  email: andrew.reyes5999@work.org
+  phone: 750-874-5966
+  ssn: 536-98-8916
+  dob: 23/06/1984
+  address: 4426 Sixth St
+  city: Jacksonville
+  state: CA

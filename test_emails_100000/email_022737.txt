@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Reyes,amanda.reyes3237@mail.com,721-239-2213,283-97-4010,08-24-1961,"2139 Oak Blvd",Boston,NY

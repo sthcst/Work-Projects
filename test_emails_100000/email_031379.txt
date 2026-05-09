@@ -1,0 +1,9 @@
+contact:
+  name: Angela Ramirez
+  email: angela.ramirez7397@gmail.com
+  phone: (544) 952-8964
+  ssn: 541-69-3679
+  dob: 12/2/1996
+  address: 7340 Pine Ave
+  city: San Diego
+  state: NC

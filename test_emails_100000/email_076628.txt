@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Ortiz,kimberly.ortiz8998@outlook.com,873-677-4217,927 31 1561,04/14/1978,"442 Park Court",Jacksonville,CA

@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Delgado
+  email: daniel.delgado563@company.com
+  phone: (310) 889-5434
+  ssn: 954-11-5000
+  dob: 09/07/1999
+  address: 8089 Elm St
+  city: Chicago
+  state: GA

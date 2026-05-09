@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Davis",
+    "email": "christine.davis7223@example.com",
+    "phone": "931-910-7212",
+    "ssn": "345113560",
+    "dob": "05/19/1968",
+    "address": "1923 Oak Blvd",
+    "city": "San Diego",
+    "state": "DC"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Perez
+  email: pamela.perez5187@outlook.com
+  phone: (481) 217-1667
+  ssn: 793094247
+  dob: 07-25-1991
+  address: 2164 Oak Ave
+  city: Philadelphia
+  state: MD

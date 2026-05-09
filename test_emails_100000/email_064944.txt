@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Reeves",
+    "email": "charles.reeves4602@company.com",
+    "phone": "(831) 453-6165",
+    "ssn": "286-44-7412",
+    "dob": "1/19/1962",
+    "address": "1660 Third Ln",
+    "city": "New York",
+    "state": "MA"
+  }
+}

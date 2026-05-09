@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Morris,katherine.morris7276@gmail.com,+1 525-990-9171,715 76 1452,3/17/1957,"3969 West Way",Austin,AZ

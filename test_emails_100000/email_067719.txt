@@ -1,0 +1,14 @@
+INVOICE 380209
+
+Bill To:
+Name: Joshua Hall
+Email: joshua.hall5105@yahoo.com
+Phone: 913 585 2975
+SSN: 228274558
+
+Address: 2892 Main Dr
+Chicago, CA
+
+Date of Birth: 04/28/1981
+
+Amount Due: $6312

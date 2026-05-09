@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Alvarado
+  email: katherine.alvarado9367@example.com
+  phone: 835-676-3743
+  ssn: 160-36-9915
+  dob: 02-15-1988
+  address: 3725 First Ln
+  city: Austin
+  state: GA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Ramirez,robert.ramirez319@mail.com,393 944 3380,955629998,08-08-1987,"3147 Oak Ave",Boston,MA

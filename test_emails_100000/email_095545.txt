@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Delgado,rachel.delgado5645@yahoo.com,+1 296-761-6536,972991933,10-21-1992,"7065 Park St",Denver,WA

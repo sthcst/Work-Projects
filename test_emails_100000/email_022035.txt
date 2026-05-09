@@ -1,0 +1,9 @@
+contact:
+  name: Emma Reed
+  email: emma.reed7794@work.org
+  phone: (456) 593-6756
+  ssn: 266251103
+  dob: 12/2/1979
+  address: 3515 Pine Way
+  city: Denver
+  state: FL

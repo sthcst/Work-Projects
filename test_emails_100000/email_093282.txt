@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Wilson,katherine.wilson4052@company.com,+1 952-547-3993,111 15 1354,11/03/1977,"3262 Second Way",San Antonio,VA

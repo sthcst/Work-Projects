@@ -1,0 +1,9 @@
+contact:
+  name: Donald Delgado
+  email: donald.delgado3202@work.org
+  phone: 686 668 6942
+  ssn: 370-36-3306
+  dob: 03/05/1956
+  address: 124 Fifth Ln
+  city: Boston
+  state: MO

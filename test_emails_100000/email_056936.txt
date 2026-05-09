@@ -1,0 +1,12 @@
+SUPPORT TICKET #35467
+
+Customer: Donald Ramirez
+Email: donald.ramirez9973@example.com
+Phone: +1 905-847-3169
+Account: 977-31-2478
+
+Issue Description: Technical problem reported
+DOB on file: 4/5/1993
+Address: 6441 Fifth Court, San Diego, TX
+
+Status: OPEN

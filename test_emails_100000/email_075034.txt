@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Nelson,pamela.nelson5108@outlook.com,991 498 6430,913421908,04/03/1969,"5494 Sixth Blvd",New York,NJ

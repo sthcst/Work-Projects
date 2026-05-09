@@ -1,0 +1,14 @@
+INVOICE 984053
+
+Bill To:
+Name: Amanda Lee
+Email: amanda.lee3843@example.com
+Phone: 713-372-8248
+SSN: 757447031
+
+Address: 1683 Elm Way
+Phoenix, TX
+
+Date of Birth: 12/08/1992
+
+Amount Due: $2458

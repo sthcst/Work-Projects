@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Rogers,lisa.rogers9772@gmail.com,535 846 3559,841-08-4832,11/09/2003,"3515 Maple St",San Antonio,CO

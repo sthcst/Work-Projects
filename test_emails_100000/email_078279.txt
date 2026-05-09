@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Evans",
+    "email": "edward.evans3893@business.net",
+    "phone": "+1 386-267-6653",
+    "ssn": "422397135",
+    "dob": "05-07-2004",
+    "address": "2978 Elm St",
+    "city": "Los Angeles",
+    "state": "IL"
+  }
+}

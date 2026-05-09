@@ -1,0 +1,14 @@
+INVOICE 123527
+
+Bill To:
+Name: Jeffrey Jones
+Email: jeffrey.jones3195@business.net
+Phone: +1 531-812-1531
+SSN: 274 11 5690
+
+Address: 6239 Maple Dr
+San Diego, MA
+
+Date of Birth: 22/02/1968
+
+Amount Due: $3653

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Ramirez",
+    "email": "anna.ramirez3316@example.com",
+    "phone": "231 905 3558",
+    "ssn": "131-11-7656",
+    "dob": "06-25-1999",
+    "address": "2770 Birch Rd",
+    "city": "Washington",
+    "state": "TN"
+  }
+}

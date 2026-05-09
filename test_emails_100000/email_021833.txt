@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Wilson
+  email: kenneth.wilson1095@gmail.com
+  phone: +1 760-551-9633
+  ssn: 994301300
+  dob: 08-11-1988
+  address: 698 Park Court
+  city: San Jose
+  state: MA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Serrano",
+    "email": "michelle.serrano8022@business.net",
+    "phone": "346-517-1477",
+    "ssn": "177 12 2490",
+    "dob": "01/03/1962",
+    "address": "9265 Pine Ln",
+    "city": "San Antonio",
+    "state": "GA"
+  }
+}

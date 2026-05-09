@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Rogers",
+    "email": "kimberly.rogers4017@yahoo.com",
+    "phone": "219 792 1897",
+    "ssn": "493-30-2068",
+    "dob": "09-13-1997",
+    "address": "76 North Ln",
+    "city": "Chicago",
+    "state": "MO"
+  }
+}

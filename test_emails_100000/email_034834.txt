@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Romero,emily.romero3694@work.org,+1 607-302-1701,274-22-1074,05-19-1959,"4079 Park Court",San Jose,TX

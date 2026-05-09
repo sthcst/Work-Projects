@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Williams",
+    "email": "samantha.williams3110@work.org",
+    "phone": "266 478 9352",
+    "ssn": "464 80 7851",
+    "dob": "07-04-1950",
+    "address": "803 Elm Blvd",
+    "city": "San Diego",
+    "state": "WA"
+  }
+}

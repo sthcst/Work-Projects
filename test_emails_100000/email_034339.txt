@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Garcia,michelle.garcia388@work.org,(390) 405-7984,250 43 6985,17/03/1972,"1671 North Ave",Phoenix,NC

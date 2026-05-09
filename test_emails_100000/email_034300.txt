@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Walker",
+    "email": "john.walker9098@yahoo.com",
+    "phone": "473 225 2534",
+    "ssn": "370 99 3697",
+    "dob": "16/06/1977",
+    "address": "1881 Second Ln",
+    "city": "San Antonio",
+    "state": "CO"
+  }
+}

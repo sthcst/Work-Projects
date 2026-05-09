@@ -1,0 +1,14 @@
+INVOICE 672917
+
+Bill To:
+Name: Samantha Smith
+Email: samantha.smith8027@example.com
+Phone: +1 816-744-8786
+SSN: 829-05-3519
+
+Address: 365 West Ave
+Denver, MO
+
+Date of Birth: 8/20/1965
+
+Amount Due: $8646

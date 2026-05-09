@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Martinez",
+    "email": "amanda.martinez7881@example.com",
+    "phone": "826 868 4995",
+    "ssn": "978-13-2692",
+    "dob": "10/20/1966",
+    "address": "3617 East Ave",
+    "city": "San Antonio",
+    "state": "FL"
+  }
+}

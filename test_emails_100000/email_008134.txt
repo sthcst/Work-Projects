@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Ortiz,gary.ortiz1419@work.org,601-994-1607,599-83-2194,03-21-1987,"9479 Spring Blvd",Houston,CA

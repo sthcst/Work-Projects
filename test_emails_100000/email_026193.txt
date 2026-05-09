@@ -1,0 +1,14 @@
+INVOICE 840816
+
+Bill To:
+Name: Shirley Jimenez
+Email: shirley.jimenez3781@company.com
+Phone: 271-864-4616
+SSN: 479 83 4537
+
+Address: 2888 Spring Ln
+Chicago, FL
+
+Date of Birth: 10/04/1990
+
+Amount Due: $1594

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Ramirez,kathleen.ramirez2372@work.org,917-456-1632,088 07 9403,07/08/1958,"4731 Main Court",San Antonio,NC

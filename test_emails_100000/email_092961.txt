@@ -1,0 +1,14 @@
+INVOICE 580699
+
+Bill To:
+Name: Kathleen Gomez
+Email: kathleen.gomez4852@mail.com
+Phone: 441-622-7848
+SSN: 272349796
+
+Address: 1857 Maple Rd
+Seattle, CA
+
+Date of Birth: 22/10/1980
+
+Amount Due: $3561

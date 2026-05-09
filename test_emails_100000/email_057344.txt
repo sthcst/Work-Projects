@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Lewis",
+    "email": "steven.lewis7204@mail.com",
+    "phone": "241-439-2082",
+    "ssn": "834814886",
+    "dob": "10/13/1960",
+    "address": "2056 South Ln",
+    "city": "San Jose",
+    "state": "NJ"
+  }
+}

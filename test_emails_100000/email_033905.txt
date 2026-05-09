@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Smith,ronald.smith6123@example.com,843 201 6651,620 59 5643,11/7/1995,"809 Maple Dr",Phoenix,TX

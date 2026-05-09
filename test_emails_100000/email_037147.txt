@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Ortiz",
+    "email": "brenda.ortiz7159@yahoo.com",
+    "phone": "+1 941-596-4352",
+    "ssn": "488 82 2883",
+    "dob": "02/02/1952",
+    "address": "4959 Elm St",
+    "city": "Washington",
+    "state": "MO"
+  }
+}

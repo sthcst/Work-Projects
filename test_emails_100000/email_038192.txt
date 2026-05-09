@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Dominguez,sarah.dominguez3796@work.org,+1 485-885-8041,700626126,27/04/1999,"7494 South Rd",San Antonio,OH

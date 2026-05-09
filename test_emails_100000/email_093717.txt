@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Johnson",
+    "email": "emma.johnson8465@yahoo.com",
+    "phone": "656 489 2994",
+    "ssn": "900-36-2605",
+    "dob": "19/09/1984",
+    "address": "8334 Birch Dr",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

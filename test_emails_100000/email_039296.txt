@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Morgan",
+    "email": "edward.morgan836@yahoo.com",
+    "phone": "(856) 798-3248",
+    "ssn": "264847302",
+    "dob": "10/22/1984",
+    "address": "5575 Oak St",
+    "city": "Los Angeles",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 147748
+
+Bill To:
+Name: Kathleen Clark
+Email: kathleen.clark454@company.com
+Phone: +1 722-225-7623
+SSN: 802-57-5308
+
+Address: 6281 South Dr
+San Diego, TX
+
+Date of Birth: 10/23/1992
+
+Amount Due: $1108

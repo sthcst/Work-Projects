@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Martin,charles.martin223@mail.com,(760) 953-2900,087 41 4712,12-27-1984,"960 Park Ln",Jacksonville,DC

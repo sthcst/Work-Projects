@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Williams
+  email: amanda.williams734@example.com
+  phone: 348-246-5026
+  ssn: 198855982
+  dob: 05-17-1990
+  address: 8748 First Way
+  city: San Diego
+  state: FL

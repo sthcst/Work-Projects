@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Martin
+  email: joshua.martin3574@outlook.com
+  phone: 713-444-8825
+  ssn: 415365220
+  dob: 09-09-1964
+  address: 8206 Main Dr
+  city: Denver
+  state: WA

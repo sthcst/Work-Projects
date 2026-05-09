@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Wilson",
+    "email": "jason.wilson6324@gmail.com",
+    "phone": "779 761 6546",
+    "ssn": "928311545",
+    "dob": "01/12/1981",
+    "address": "6531 Fourth St",
+    "city": "San Diego",
+    "state": "MA"
+  }
+}

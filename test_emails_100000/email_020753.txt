@@ -1,0 +1,14 @@
+INVOICE 673913
+
+Bill To:
+Name: Helen Davis
+Email: helen.davis6770@example.com
+Phone: (371) 993-3327
+SSN: 191 47 9544
+
+Address: 9376 Oak Court
+Phoenix, TX
+
+Date of Birth: 12/18/1951
+
+Amount Due: $3787

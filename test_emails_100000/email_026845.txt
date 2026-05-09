@@ -1,0 +1,9 @@
+contact:
+  name: Charles Reyes
+  email: charles.reyes121@mail.com
+  phone: (855) 401-5249
+  ssn: 212-73-2155
+  dob: 11/21/1963
+  address: 1017 Sixth Dr
+  city: San Jose
+  state: NJ

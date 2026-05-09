@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Sanchez",
+    "email": "christopher.sanchez846@outlook.com",
+    "phone": "+1 962-505-7783",
+    "ssn": "111248746",
+    "dob": "10/19/1972",
+    "address": "649 East Blvd",
+    "city": "San Antonio",
+    "state": "AZ"
+  }
+}

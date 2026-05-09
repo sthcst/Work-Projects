@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Parker",
+    "email": "stephanie.parker7259@business.net",
+    "phone": "954 836 2796",
+    "ssn": "682512017",
+    "dob": "03/05/1970",
+    "address": "220 Elm Rd",
+    "city": "Los Angeles",
+    "state": "DC"
+  }
+}

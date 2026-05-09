@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Jimenez
+  email: jeffrey.jimenez9545@mail.com
+  phone: 465 463 1756
+  ssn: 068-69-6472
+  dob: 12/12/2000
+  address: 3945 Cedar Blvd
+  city: Houston
+  state: CA

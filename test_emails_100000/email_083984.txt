@@ -1,0 +1,14 @@
+INVOICE 547957
+
+Bill To:
+Name: Helen Miller
+Email: helen.miller5062@business.net
+Phone: (914) 509-2013
+SSN: 712-31-7539
+
+Address: 7688 Maple Dr
+Washington, MD
+
+Date of Birth: 05-05-1972
+
+Amount Due: $8905

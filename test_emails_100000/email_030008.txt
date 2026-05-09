@@ -1,0 +1,9 @@
+contact:
+  name: Charles Flores
+  email: charles.flores3622@outlook.com
+  phone: (496) 878-7499
+  ssn: 512717722
+  dob: 02-06-1958
+  address: 1054 Sixth Ave
+  city: Austin
+  state: TX

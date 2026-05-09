@@ -1,0 +1,14 @@
+INVOICE 480457
+
+Bill To:
+Name: Pamela Campbell
+Email: pamela.campbell8755@example.com
+Phone: 473-320-5625
+SSN: 725 03 2515
+
+Address: 5733 Summer St
+Dallas, NC
+
+Date of Birth: 08-08-1965
+
+Amount Due: $9611

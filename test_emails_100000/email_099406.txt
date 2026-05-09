@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Reyes
+  email: joseph.reyes3130@work.org
+  phone: 677 944 5366
+  ssn: 118 86 8945
+  dob: 09/09/1987
+  address: 2207 Fourth Dr
+  city: San Diego
+  state: AZ

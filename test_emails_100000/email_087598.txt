@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Rodriguez,amanda.rodriguez6863@work.org,+1 507-302-8444,517-47-4505,06-17-1972,"8151 First Ave",San Antonio,NC

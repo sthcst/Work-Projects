@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Smith",
+    "email": "stephanie.smith3378@example.com",
+    "phone": "726 380 4851",
+    "ssn": "463216753",
+    "dob": "03/15/1969",
+    "address": "5599 Park St",
+    "city": "Dallas",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Martinez,amanda.martinez1089@yahoo.com,494-828-1532,341 94 4324,06-19-1988,"4985 Third Dr",Phoenix,MI

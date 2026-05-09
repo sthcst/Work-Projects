@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Gonzalez,kevin.gonzalez5640@work.org,(350) 746-6592,563 91 9561,12-26-2003,"2569 Fifth Dr",Phoenix,WI

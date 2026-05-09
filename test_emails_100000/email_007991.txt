@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Dominguez
+  email: kenneth.dominguez554@example.com
+  phone: +1 612-836-6580
+  ssn: 461157461
+  dob: 04-06-1998
+  address: 5558 Sixth Ave
+  city: San Antonio
+  state: CA

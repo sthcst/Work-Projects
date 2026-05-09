@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Roberts,william.roberts2238@business.net,520 656 7268,039-87-9973,28/02/2005,"4880 Fourth Blvd",Washington,WA

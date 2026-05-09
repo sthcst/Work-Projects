@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Hall
+  email: joseph.hall2185@company.com
+  phone: +1 876-372-8082
+  ssn: 418818843
+  dob: 9/7/1967
+  address: 4302 Third Dr
+  city: San Jose
+  state: NC

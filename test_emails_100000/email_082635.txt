@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Hernandez,mark.hernandez1752@gmail.com,+1 257-921-2838,819 74 5992,08-13-1954,"1306 North St",Denver,NJ

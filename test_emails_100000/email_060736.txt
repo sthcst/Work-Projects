@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Collins,anthony.collins8045@gmail.com,685 924 9761,668 56 4420,05/02/1987,"8039 First Way",Boston,MA

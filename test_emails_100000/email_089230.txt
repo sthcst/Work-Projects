@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan White",
+    "email": "megan.white7133@outlook.com",
+    "phone": "393 915 9245",
+    "ssn": "234505555",
+    "dob": "08-21-1976",
+    "address": "7815 West Court",
+    "city": "Washington",
+    "state": "TN"
+  }
+}

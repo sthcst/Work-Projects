@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Williams,shirley.williams3566@example.com,+1 556-935-3365,270 07 8633,16/04/1971,"2982 Sixth Way",Seattle,PA

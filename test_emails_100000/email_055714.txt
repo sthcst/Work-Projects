@@ -1,0 +1,9 @@
+contact:
+  name: Paul Romero
+  email: paul.romero451@example.com
+  phone: 726-752-4357
+  ssn: 562 93 1667
+  dob: 09/09/1958
+  address: 6754 Cedar Rd
+  city: Washington
+  state: DC

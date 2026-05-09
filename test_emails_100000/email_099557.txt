@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Morris
+  email: joseph.morris5811@outlook.com
+  phone: (805) 402-8233
+  ssn: 743-94-8770
+  dob: 07/19/1978
+  address: 1025 Cedar Way
+  city: Houston
+  state: NC

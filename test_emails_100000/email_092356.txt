@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Jackson",
+    "email": "jennifer.jackson1629@work.org",
+    "phone": "802-844-4122",
+    "ssn": "405 34 5763",
+    "dob": "15/05/2005",
+    "address": "7902 West St",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

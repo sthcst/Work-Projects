@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Young",
+    "email": "emma.young8890@outlook.com",
+    "phone": "(633) 762-4235",
+    "ssn": "730 75 5942",
+    "dob": "04/25/1984",
+    "address": "4367 Birch Rd",
+    "city": "San Jose",
+    "state": "MA"
+  }
+}

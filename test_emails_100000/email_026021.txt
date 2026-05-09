@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Walker",
+    "email": "charles.walker8687@business.net",
+    "phone": "847 379 4247",
+    "ssn": "480-43-2222",
+    "dob": "01/07/1961",
+    "address": "3953 Birch Court",
+    "city": "Houston",
+    "state": "FL"
+  }
+}

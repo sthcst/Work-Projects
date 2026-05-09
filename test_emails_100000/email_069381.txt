@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Williams",
+    "email": "christine.williams3188@outlook.com",
+    "phone": "294-517-1906",
+    "ssn": "327-89-7634",
+    "dob": "19/02/1984",
+    "address": "1062 Birch Rd",
+    "city": "Boston",
+    "state": "MI"
+  }
+}

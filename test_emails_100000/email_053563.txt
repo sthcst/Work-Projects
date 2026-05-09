@@ -1,0 +1,14 @@
+INVOICE 486937
+
+Bill To:
+Name: Robert Dominguez
+Email: robert.dominguez8053@example.com
+Phone: (213) 265-7127
+SSN: 210 99 3298
+
+Address: 939 West Way
+Philadelphia, NJ
+
+Date of Birth: 06-07-1956
+
+Amount Due: $774

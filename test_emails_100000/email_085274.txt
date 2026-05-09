@@ -1,0 +1,9 @@
+contact:
+  name: Megan Alvarado
+  email: megan.alvarado912@example.com
+  phone: +1 913-232-5279
+  ssn: 390-46-1658
+  dob: 27/09/2004
+  address: 6912 Third St
+  city: Dallas
+  state: NC

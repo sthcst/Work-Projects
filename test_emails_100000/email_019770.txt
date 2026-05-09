@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Campbell",
+    "email": "emma.campbell4703@work.org",
+    "phone": "(239) 960-3235",
+    "ssn": "800 59 5854",
+    "dob": "04-17-1974",
+    "address": "9108 Cedar Ln",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 794735
+
+Bill To:
+Name: Rebecca Harris
+Email: rebecca.harris8062@example.com
+Phone: +1 724-252-9270
+SSN: 361-83-1643
+
+Address: 2565 Pine Blvd
+San Diego, FL
+
+Date of Birth: 2/21/1973
+
+Amount Due: $2899

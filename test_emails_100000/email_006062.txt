@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Phillips",
+    "email": "kathleen.phillips4823@gmail.com",
+    "phone": "384-807-5017",
+    "ssn": "190 99 1272",
+    "dob": "2/16/1976",
+    "address": "9653 Maple Court",
+    "city": "San Diego",
+    "state": "NY"
+  }
+}

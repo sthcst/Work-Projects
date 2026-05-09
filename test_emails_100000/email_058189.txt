@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Jackson
+  email: ryan.jackson9901@yahoo.com
+  phone: +1 268-419-1551
+  ssn: 454808092
+  dob: 15/02/1984
+  address: 1670 East Ave
+  city: Houston
+  state: PA

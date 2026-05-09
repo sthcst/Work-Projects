@@ -1,0 +1,9 @@
+contact:
+  name: William Serrano
+  email: william.serrano9660@company.com
+  phone: (785) 572-2306
+  ssn: 521-33-6244
+  dob: 06/16/1962
+  address: 9050 Fifth Dr
+  city: Austin
+  state: FL

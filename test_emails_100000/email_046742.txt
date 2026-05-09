@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Wilson
+  email: stephanie.wilson6731@company.com
+  phone: +1 827-263-8319
+  ssn: 956 06 3475
+  dob: 7/23/1995
+  address: 6909 Park Blvd
+  city: Washington
+  state: NC

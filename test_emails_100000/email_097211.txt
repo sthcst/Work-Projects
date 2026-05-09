@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Serrano,david.serrano8772@gmail.com,401-520-2817,379 70 3586,8/14/1955,"6972 Maple Ave",Dallas,IL

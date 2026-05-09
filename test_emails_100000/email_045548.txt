@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Guerrero",
+    "email": "edward.guerrero8230@example.com",
+    "phone": "571-667-9978",
+    "ssn": "042065248",
+    "dob": "6/28/1976",
+    "address": "1395 Pine Ave",
+    "city": "Washington",
+    "state": "AZ"
+  }
+}

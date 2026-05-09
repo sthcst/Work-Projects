@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Wilson",
+    "email": "john.wilson4378@work.org",
+    "phone": "(386) 688-7173",
+    "ssn": "992-70-3221",
+    "dob": "10-03-1955",
+    "address": "3170 First Dr",
+    "city": "Phoenix",
+    "state": "IL"
+  }
+}

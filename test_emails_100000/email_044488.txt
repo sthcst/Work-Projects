@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Young
+  email: amanda.young4414@gmail.com
+  phone: +1 958-988-4595
+  ssn: 569866170
+  dob: 02-23-1993
+  address: 1170 South Blvd
+  city: Seattle
+  state: AZ

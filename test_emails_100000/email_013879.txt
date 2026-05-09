@@ -1,0 +1,9 @@
+contact:
+  name: Gary Cooper
+  email: gary.cooper4437@mail.com
+  phone: 240 747 7487
+  ssn: 164 93 8832
+  dob: 07/02/1977
+  address: 7383 Park St
+  city: New York
+  state: WA

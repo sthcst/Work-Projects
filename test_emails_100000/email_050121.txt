@@ -1,0 +1,9 @@
+contact:
+  name: John Jackson
+  email: john.jackson2701@gmail.com
+  phone: +1 781-589-4721
+  ssn: 027-42-9392
+  dob: 3/8/1979
+  address: 8021 Maple Rd
+  city: Boston
+  state: MD

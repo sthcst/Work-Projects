@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Collins",
+    "email": "maria.collins9670@yahoo.com",
+    "phone": "548 792 1055",
+    "ssn": "081 74 2104",
+    "dob": "26/05/1991",
+    "address": "1314 Summer Court",
+    "city": "Los Angeles",
+    "state": "NC"
+  }
+}

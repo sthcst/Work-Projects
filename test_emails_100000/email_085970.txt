@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Peterson,helen.peterson6078@mail.com,813 400 9510,764 74 7450,07-15-1962,"6127 Spring Way",San Antonio,TX

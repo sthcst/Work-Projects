@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Thomas",
+    "email": "brenda.thomas954@outlook.com",
+    "phone": "+1 214-895-1163",
+    "ssn": "372-78-9228",
+    "dob": "3/8/1950",
+    "address": "7896 Oak Court",
+    "city": "Houston",
+    "state": "NC"
+  }
+}

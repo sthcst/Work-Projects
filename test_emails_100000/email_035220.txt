@@ -1,0 +1,14 @@
+INVOICE 365519
+
+Bill To:
+Name: Steven Johnson
+Email: steven.johnson711@mail.com
+Phone: +1 211-627-1106
+SSN: 234904513
+
+Address: 5226 South Ave
+Chicago, FL
+
+Date of Birth: 01/15/1960
+
+Amount Due: $9368

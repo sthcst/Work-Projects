@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Flores
+  email: kevin.flores5507@outlook.com
+  phone: +1 897-827-1516
+  ssn: 986303137
+  dob: 10/27/1994
+  address: 9412 Sixth Ave
+  city: Denver
+  state: OH

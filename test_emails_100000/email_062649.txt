@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Carter
+  email: stephanie.carter6255@company.com
+  phone: +1 652-448-5836
+  ssn: 007957937
+  dob: 9/5/1980
+  address: 8678 Elm Way
+  city: San Jose
+  state: AZ

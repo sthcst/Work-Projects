@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Johnson",
+    "email": "emily.johnson932@example.com",
+    "phone": "260-314-2807",
+    "ssn": "687-18-9040",
+    "dob": "10-09-2002",
+    "address": "7655 Pine Rd",
+    "city": "San Diego",
+    "state": "AZ"
+  }
+}

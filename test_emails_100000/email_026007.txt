@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Moore",
+    "email": "rebecca.moore8809@mail.com",
+    "phone": "665 853 1266",
+    "ssn": "663-94-3532",
+    "dob": "10/01/1963",
+    "address": "3578 West Dr",
+    "city": "San Diego",
+    "state": "AZ"
+  }
+}

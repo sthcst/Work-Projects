@@ -1,0 +1,14 @@
+INVOICE 748374
+
+Bill To:
+Name: Richard Ortiz
+Email: richard.ortiz4340@example.com
+Phone: 553 938 6864
+SSN: 049 39 1151
+
+Address: 7827 Oak St
+Dallas, TX
+
+Date of Birth: 05/02/1980
+
+Amount Due: $4463

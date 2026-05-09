@@ -1,0 +1,9 @@
+contact:
+  name: John Williams
+  email: john.williams7328@example.com
+  phone: 237 858 7202
+  ssn: 653-48-1401
+  dob: 11-19-1997
+  address: 111 West Ave
+  city: Denver
+  state: AZ

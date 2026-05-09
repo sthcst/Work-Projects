@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Flores,anthony.flores4664@gmail.com,(965) 582-8572,608035772,02/19/1988,"6701 Maple Dr",San Diego,WA

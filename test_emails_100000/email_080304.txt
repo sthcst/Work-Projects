@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Peterson,jessica.peterson5105@outlook.com,557 646 4523,875025567,11/03/1953,"9938 Spring Blvd",San Antonio,MI

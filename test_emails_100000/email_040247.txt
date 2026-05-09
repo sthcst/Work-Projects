@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Garcia,megan.garcia1560@business.net,660 283 4853,308014474,10/25/1957,"296 Maple Dr",New York,TX

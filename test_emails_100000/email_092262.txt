@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Williams,jessica.williams3419@yahoo.com,659 756 1845,569-60-1890,18/11/1993,"2670 Main Rd",Phoenix,FL

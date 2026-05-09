@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Hall,megan.hall3269@yahoo.com,541 895 6186,971-40-2162,11/10/1999,"1986 First Court",Austin,WI

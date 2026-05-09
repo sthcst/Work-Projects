@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Reyes,angela.reyes2262@company.com,+1 747-452-8152,145243683,11/14/2004,"8209 Sixth Dr",Seattle,AZ

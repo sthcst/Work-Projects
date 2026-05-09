@@ -1,0 +1,9 @@
+contact:
+  name: Anna Ramirez
+  email: anna.ramirez2916@example.com
+  phone: 759-439-3274
+  ssn: 700-95-6739
+  dob: 12/15/1974
+  address: 5923 Maple St
+  city: Philadelphia
+  state: IL

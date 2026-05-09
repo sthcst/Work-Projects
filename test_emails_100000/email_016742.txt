@@ -1,0 +1,14 @@
+INVOICE 739462
+
+Bill To:
+Name: Paul Garcia
+Email: paul.garcia8313@mail.com
+Phone: 713-684-6075
+SSN: 619 01 6351
+
+Address: 7235 Cedar Blvd
+Boston, FL
+
+Date of Birth: 04/12/1994
+
+Amount Due: $5923

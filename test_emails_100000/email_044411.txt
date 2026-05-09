@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Collins
+  email: katherine.collins3582@outlook.com
+  phone: 439 453 8644
+  ssn: 860 26 6012
+  dob: 09-05-1987
+  address: 6123 Sixth St
+  city: Jacksonville
+  state: AZ

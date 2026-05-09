@@ -1,0 +1,14 @@
+INVOICE 468202
+
+Bill To:
+Name: Angela Garcia
+Email: angela.garcia3051@example.com
+Phone: 445 624 8383
+SSN: 936-99-7210
+
+Address: 3300 Sixth Blvd
+Houston, DC
+
+Date of Birth: 4/15/1985
+
+Amount Due: $5462

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Peterson",
+    "email": "george.peterson9438@gmail.com",
+    "phone": "(553) 568-6210",
+    "ssn": "374381732",
+    "dob": "07-05-1954",
+    "address": "9705 Birch Court",
+    "city": "Denver",
+    "state": "MA"
+  }
+}

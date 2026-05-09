@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Rodriguez",
+    "email": "shirley.rodriguez7791@gmail.com",
+    "phone": "323 962 3506",
+    "ssn": "287358782",
+    "dob": "6/16/1980",
+    "address": "3019 Main Ave",
+    "city": "Washington",
+    "state": "MA"
+  }
+}

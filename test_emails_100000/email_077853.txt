@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Young",
+    "email": "jennifer.young2691@company.com",
+    "phone": "+1 878-479-7280",
+    "ssn": "162941673",
+    "dob": "15/05/1973",
+    "address": "7863 Fourth Ln",
+    "city": "Jacksonville",
+    "state": "MO"
+  }
+}

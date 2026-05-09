@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Rodriguez",
+    "email": "rachel.rodriguez2947@company.com",
+    "phone": "+1 777-553-7857",
+    "ssn": "769626425",
+    "dob": "06/17/2004",
+    "address": "6843 Park Rd",
+    "city": "Seattle",
+    "state": "IL"
+  }
+}

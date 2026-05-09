@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Smith
+  email: jacob.smith2625@example.com
+  phone: 366 566 6940
+  ssn: 218 39 2595
+  dob: 07/02/1955
+  address: 3491 East Way
+  city: Dallas
+  state: DC

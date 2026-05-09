@@ -1,0 +1,14 @@
+INVOICE 651032
+
+Bill To:
+Name: James Murillo
+Email: james.murillo218@company.com
+Phone: 721-773-5020
+SSN: 530 63 3838
+
+Address: 8554 Third Way
+New York, CO
+
+Date of Birth: 01/11/1980
+
+Amount Due: $6632

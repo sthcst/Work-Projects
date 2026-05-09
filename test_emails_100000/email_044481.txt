@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Lopez,joseph.lopez9381@gmail.com,+1 203-232-8752,783 71 3425,11/23/1973,"8731 First Court",San Jose,MI

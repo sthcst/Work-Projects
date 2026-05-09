@@ -1,0 +1,14 @@
+INVOICE 781539
+
+Bill To:
+Name: Christopher Flores
+Email: christopher.flores4839@mail.com
+Phone: +1 608-513-5077
+SSN: 043 56 4831
+
+Address: 3921 Spring Ave
+Dallas, TX
+
+Date of Birth: 3/12/1975
+
+Amount Due: $3106

@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Garcia
+  email: anthony.garcia5543@work.org
+  phone: (875) 663-5607
+  ssn: 224308900
+  dob: 10-01-1989
+  address: 9953 Oak Way
+  city: Boston
+  state: TN

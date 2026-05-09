@@ -1,0 +1,9 @@
+contact:
+  name: Donald Flores
+  email: donald.flores474@business.net
+  phone: 966 234 4128
+  ssn: 030124145
+  dob: 18/11/1972
+  address: 4145 Summer Ave
+  city: Los Angeles
+  state: CO

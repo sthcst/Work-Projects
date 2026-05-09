@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Morris",
+    "email": "kevin.morris4674@yahoo.com",
+    "phone": "+1 354-606-2176",
+    "ssn": "428-06-9100",
+    "dob": "2/26/1960",
+    "address": "6544 Main Rd",
+    "city": "Washington",
+    "state": "NY"
+  }
+}

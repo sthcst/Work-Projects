@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Guerrero",
+    "email": "jane.guerrero8550@mail.com",
+    "phone": "(582) 957-1861",
+    "ssn": "195-13-3948",
+    "dob": "14/09/1966",
+    "address": "7802 Main Ln",
+    "city": "Washington",
+    "state": "MA"
+  }
+}

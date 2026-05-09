@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Romero",
+    "email": "nicole.romero1679@example.com",
+    "phone": "(376) 829-8315",
+    "ssn": "058 58 6538",
+    "dob": "12/09/1991",
+    "address": "2113 Second Rd",
+    "city": "Philadelphia",
+    "state": "FL"
+  }
+}

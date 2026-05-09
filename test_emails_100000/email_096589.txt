@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Jackson",
+    "email": "william.jackson6451@company.com",
+    "phone": "328 655 7516",
+    "ssn": "917-39-9092",
+    "dob": "01/03/1987",
+    "address": "1703 Fifth Dr",
+    "city": "Chicago",
+    "state": "MA"
+  }
+}

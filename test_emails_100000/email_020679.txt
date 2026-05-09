@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Nelson
+  email: anthony.nelson3211@company.com
+  phone: 371 762 2524
+  ssn: 345-54-3768
+  dob: 8/19/1989
+  address: 560 Birch St
+  city: New York
+  state: CO

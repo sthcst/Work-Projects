@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Perez",
+    "email": "deborah.perez4946@company.com",
+    "phone": "+1 909-495-4503",
+    "ssn": "088 93 3447",
+    "dob": "18/09/2002",
+    "address": "8682 South St",
+    "city": "Denver",
+    "state": "OH"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Reed",
+    "email": "deborah.reed7072@company.com",
+    "phone": "421 643 1211",
+    "ssn": "942278315",
+    "dob": "06-13-1987",
+    "address": "1611 South Rd",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

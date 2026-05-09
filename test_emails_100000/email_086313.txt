@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Peterson,kevin.peterson9983@gmail.com,+1 917-510-4004,792 87 2939,5/19/1961,"6874 Third Ave",Houston,WA

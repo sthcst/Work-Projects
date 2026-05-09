@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Garcia",
+    "email": "jason.garcia8271@yahoo.com",
+    "phone": "+1 786-805-1700",
+    "ssn": "162-32-8659",
+    "dob": "08/28/1974",
+    "address": "400 Elm Ave",
+    "city": "Los Angeles",
+    "state": "GA"
+  }
+}

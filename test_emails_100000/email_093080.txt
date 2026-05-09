@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Ramirez",
+    "email": "george.ramirez1190@mail.com",
+    "phone": "224 729 8853",
+    "ssn": "996 59 1648",
+    "dob": "05-03-1972",
+    "address": "927 Birch Blvd",
+    "city": "Washington",
+    "state": "TN"
+  }
+}

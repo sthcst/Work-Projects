@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Jimenez",
+    "email": "christopher.jimenez9008@yahoo.com",
+    "phone": "452 455 8879",
+    "ssn": "088-15-2177",
+    "dob": "06-01-1993",
+    "address": "2225 Pine Ave",
+    "city": "Seattle",
+    "state": "AZ"
+  }
+}

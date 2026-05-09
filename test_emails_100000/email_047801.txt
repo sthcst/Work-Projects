@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Johnson,paul.johnson4066@mail.com,+1 749-562-5908,422534533,4/11/1963,"5469 Oak Court",San Jose,CO

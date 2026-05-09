@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Rogers",
+    "email": "matthew.rogers9020@example.com",
+    "phone": "+1 950-423-8020",
+    "ssn": "061-67-3732",
+    "dob": "2/9/1969",
+    "address": "4124 Second Blvd",
+    "city": "Houston",
+    "state": "PA"
+  }
+}

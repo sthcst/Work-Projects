@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Lee",
+    "email": "sarah.lee5174@outlook.com",
+    "phone": "+1 403-779-6453",
+    "ssn": "761 69 9641",
+    "dob": "11-11-1983",
+    "address": "3223 South Dr",
+    "city": "San Antonio",
+    "state": "WA"
+  }
+}

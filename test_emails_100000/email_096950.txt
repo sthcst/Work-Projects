@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Johnson,helen.johnson7376@mail.com,+1 519-731-1817,072-71-6405,11-20-1973,"4872 Third St",Phoenix,WA

@@ -1,0 +1,14 @@
+INVOICE 684270
+
+Bill To:
+Name: Maria Ortiz
+Email: maria.ortiz7504@company.com
+Phone: (864) 806-1821
+SSN: 650 66 5252
+
+Address: 513 Elm Court
+San Antonio, DC
+
+Date of Birth: 05/26/1982
+
+Amount Due: $1565

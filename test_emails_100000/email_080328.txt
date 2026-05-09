@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Bell,cynthia.bell979@mail.com,595-850-6955,907671302,10/24/1963,"1844 Pine Ln",New York,WA

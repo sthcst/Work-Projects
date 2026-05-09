@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Reyes,george.reyes7956@work.org,796 949 6022,310556557,02/18/1993,"3801 Sixth Ave",Los Angeles,DC

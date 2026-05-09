@@ -1,0 +1,9 @@
+contact:
+  name: Robert Stewart
+  email: robert.stewart5073@outlook.com
+  phone: 334-408-8225
+  ssn: 287 07 2801
+  dob: 05/19/1977
+  address: 7506 Second Blvd
+  city: Seattle
+  state: NC

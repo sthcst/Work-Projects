@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Carter,nicholas.carter7541@business.net,(339) 983-4526,925 15 4664,02/13/1956,"4084 West Ln",Washington,WA

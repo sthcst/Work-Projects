@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Reeves",
+    "email": "nicole.reeves9715@mail.com",
+    "phone": "818 561 9999",
+    "ssn": "615328114",
+    "dob": "9/25/1986",
+    "address": "4454 Sixth Rd",
+    "city": "Denver",
+    "state": "OH"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Charles Smith
+  email: charles.smith2544@work.org
+  phone: 877 665 8155
+  ssn: 988-42-4969
+  dob: 8/1/1979
+  address: 9097 Maple Rd
+  city: San Antonio
+  state: VA

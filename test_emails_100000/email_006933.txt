@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Moore,nicholas.moore6482@mail.com,(686) 829-2683,404604449,21/01/1999,"6382 North St",Los Angeles,FL

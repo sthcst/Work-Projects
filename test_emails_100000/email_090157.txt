@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Robinson,mark.robinson1005@yahoo.com,944-738-5802,906-02-1751,10/22/1965,"3291 Summer Dr",San Diego,TX

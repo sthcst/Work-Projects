@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Walker,samantha.walker9795@example.com,548-830-9884,800-31-6710,3/14/1986,"9531 Maple Rd",Jacksonville,OH

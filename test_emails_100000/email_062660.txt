@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Peterson",
+    "email": "ashley.peterson3987@outlook.com",
+    "phone": "+1 482-810-8144",
+    "ssn": "958-04-8622",
+    "dob": "26/04/1998",
+    "address": "3431 Sixth Dr",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

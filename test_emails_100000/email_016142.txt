@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Parker
+  email: anthony.parker8795@example.com
+  phone: (980) 234-4690
+  ssn: 844-39-3273
+  dob: 5/22/1954
+  address: 2926 Main Ln
+  city: Boston
+  state: WI

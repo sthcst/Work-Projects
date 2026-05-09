@@ -1,0 +1,9 @@
+contact:
+  name: James Rogers
+  email: james.rogers2821@mail.com
+  phone: (813) 679-3260
+  ssn: 301 26 8206
+  dob: 09-17-1972
+  address: 4569 South Ln
+  city: Los Angeles
+  state: WI

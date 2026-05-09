@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Edwards",
+    "email": "charles.edwards3646@yahoo.com",
+    "phone": "687 506 8544",
+    "ssn": "018-42-7711",
+    "dob": "07/04/2004",
+    "address": "5922 Cedar Dr",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

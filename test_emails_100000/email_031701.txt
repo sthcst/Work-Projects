@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Flores",
+    "email": "kevin.flores7708@business.net",
+    "phone": "(484) 253-3016",
+    "ssn": "205-39-7858",
+    "dob": "01/02/1952",
+    "address": "4977 North Ln",
+    "city": "Seattle",
+    "state": "VA"
+  }
+}

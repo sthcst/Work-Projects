@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Thompson",
+    "email": "emily.thompson3834@work.org",
+    "phone": "819-607-8393",
+    "ssn": "531 64 5044",
+    "dob": "06-21-2003",
+    "address": "9468 North Blvd",
+    "city": "Houston",
+    "state": "DC"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Guerrero",
+    "email": "emily.guerrero3937@work.org",
+    "phone": "835-590-8243",
+    "ssn": "075-54-4851",
+    "dob": "4/21/1953",
+    "address": "5349 West Ave",
+    "city": "Austin",
+    "state": "VA"
+  }
+}

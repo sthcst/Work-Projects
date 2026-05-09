@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Cooper,robert.cooper6932@mail.com,(867) 978-6177,496 55 8297,14/12/1969,"7252 Fifth Ln",New York,CA

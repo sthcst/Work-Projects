@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Smith
+  email: kevin.smith1239@mail.com
+  phone: 402-840-3160
+  ssn: 295-39-7061
+  dob: 03-20-1968
+  address: 1412 Oak St
+  city: Chicago
+  state: GA

@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Ramirez
+  email: samantha.ramirez9450@example.com
+  phone: +1 914-602-4943
+  ssn: 680-22-5424
+  dob: 06-05-2002
+  address: 8499 Sixth Rd
+  city: Washington
+  state: WA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Morgan",
+    "email": "john.morgan7181@work.org",
+    "phone": "+1 673-857-3608",
+    "ssn": "874 10 6707",
+    "dob": "12/27/1968",
+    "address": "910 Fourth Way",
+    "city": "San Diego",
+    "state": "IL"
+  }
+}

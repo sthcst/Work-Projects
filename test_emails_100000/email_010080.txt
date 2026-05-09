@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Ortiz
+  email: michelle.ortiz9057@example.com
+  phone: (451) 545-3099
+  ssn: 576249614
+  dob: 1/27/1954
+  address: 1676 East Blvd
+  city: Washington
+  state: DC

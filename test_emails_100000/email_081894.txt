@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Anderson",
+    "email": "mark.anderson2865@work.org",
+    "phone": "+1 575-931-5502",
+    "ssn": "050 03 4678",
+    "dob": "9/25/1981",
+    "address": "5746 East Ave",
+    "city": "Seattle",
+    "state": "WA"
+  }
+}

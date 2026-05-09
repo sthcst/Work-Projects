@@ -1,0 +1,9 @@
+contact:
+  name: Charles Ortiz
+  email: charles.ortiz6367@business.net
+  phone: 674 536 8453
+  ssn: 315 26 6534
+  dob: 10/18/1993
+  address: 1937 East Blvd
+  city: Phoenix
+  state: OH

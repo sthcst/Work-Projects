@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Martin",
+    "email": "christopher.martin5558@outlook.com",
+    "phone": "398-950-8366",
+    "ssn": "767 56 7063",
+    "dob": "8/9/1951",
+    "address": "6886 Pine Blvd",
+    "city": "San Jose",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Martin
+  email: nicole.martin1327@example.com
+  phone: (614) 494-6497
+  ssn: 303 34 6676
+  dob: 08/17/1999
+  address: 6285 East Way
+  city: Washington
+  state: VA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Gonzalez,ronald.gonzalez8665@mail.com,(836) 774-8846,533-98-2819,3/20/1977,"8538 Oak Ave",Washington,OH

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Reyes,brian.reyes123@gmail.com,+1 424-758-9710,633421280,11/04/1985,"5448 Elm St",Jacksonville,TX

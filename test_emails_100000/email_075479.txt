@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Romero",
+    "email": "nicholas.romero3988@gmail.com",
+    "phone": "972 476 8037",
+    "ssn": "962-13-3391",
+    "dob": "10-28-1968",
+    "address": "4217 Second Ln",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

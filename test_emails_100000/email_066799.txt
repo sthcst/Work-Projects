@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Perez,sarah.perez4090@example.com,613-254-2263,362-02-9653,13/03/2002,"4734 Spring Way",Denver,MD

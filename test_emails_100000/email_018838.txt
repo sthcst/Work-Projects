@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Sanchez,rebecca.sanchez1201@business.net,(768) 552-2350,115046520,5/10/1992,"902 Summer Blvd",San Diego,TX

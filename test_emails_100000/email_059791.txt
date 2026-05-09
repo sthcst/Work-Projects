@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Garcia",
+    "email": "charles.garcia243@work.org",
+    "phone": "809 578 4298",
+    "ssn": "238242280",
+    "dob": "4/15/1997",
+    "address": "8924 Spring Ave",
+    "city": "Seattle",
+    "state": "MI"
+  }
+}

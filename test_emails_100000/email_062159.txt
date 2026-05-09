@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Perez",
+    "email": "stephanie.perez2687@yahoo.com",
+    "phone": "(270) 621-4219",
+    "ssn": "148428044",
+    "dob": "07/21/1992",
+    "address": "8794 First Blvd",
+    "city": "Philadelphia",
+    "state": "MO"
+  }
+}

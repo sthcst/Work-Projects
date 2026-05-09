@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Gonzalez",
+    "email": "paul.gonzalez7118@yahoo.com",
+    "phone": "923 386 7291",
+    "ssn": "759 60 7135",
+    "dob": "09/01/1983",
+    "address": "6855 Oak Dr",
+    "city": "Philadelphia",
+    "state": "NY"
+  }
+}

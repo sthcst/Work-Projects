@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Stewart
+  email: michelle.stewart3579@yahoo.com
+  phone: 282 505 5000
+  ssn: 214 46 8422
+  dob: 06-25-1956
+  address: 5622 Fifth Way
+  city: Jacksonville
+  state: CO

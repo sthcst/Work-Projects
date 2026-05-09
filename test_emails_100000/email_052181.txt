@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Carter",
+    "email": "jacob.carter3820@gmail.com",
+    "phone": "+1 307-507-1632",
+    "ssn": "036-84-4024",
+    "dob": "01-28-1959",
+    "address": "5779 Third Way",
+    "city": "San Jose",
+    "state": "NC"
+  }
+}

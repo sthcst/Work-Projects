@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Dominguez,jason.dominguez2473@business.net,+1 370-738-9845,034-40-5297,6/11/1969,"6782 Oak Court",Dallas,TX

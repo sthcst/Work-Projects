@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Martinez,anna.martinez9500@yahoo.com,+1 673-948-1733,490-78-8198,06-02-1976,"9056 Pine Rd",Dallas,GA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Bell",
+    "email": "kimberly.bell5261@work.org",
+    "phone": "+1 601-210-3411",
+    "ssn": "212-92-1097",
+    "dob": "15/06/2003",
+    "address": "9131 Cedar Dr",
+    "city": "New York",
+    "state": "MO"
+  }
+}

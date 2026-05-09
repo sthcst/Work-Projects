@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Davis
+  email: joseph.davis2899@gmail.com
+  phone: 463 954 2853
+  ssn: 089-71-5133
+  dob: 25/10/2001
+  address: 7798 South Ave
+  city: Jacksonville
+  state: CA

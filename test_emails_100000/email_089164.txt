@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Moore,sarah.moore8211@work.org,203-288-8882,193558962,7/9/1960,"4634 Pine Rd",Austin,TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Robinson",
+    "email": "steven.robinson7042@business.net",
+    "phone": "(303) 620-3706",
+    "ssn": "582-27-3130",
+    "dob": "17/06/1973",
+    "address": "4988 East St",
+    "city": "San Antonio",
+    "state": "VA"
+  }
+}

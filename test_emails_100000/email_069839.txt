@@ -1,0 +1,14 @@
+INVOICE 896516
+
+Bill To:
+Name: Jacob Alvarado
+Email: jacob.alvarado5194@example.com
+Phone: +1 433-560-7643
+SSN: 780755834
+
+Address: 4649 East Dr
+Jacksonville, CO
+
+Date of Birth: 03-01-1975
+
+Amount Due: $6055

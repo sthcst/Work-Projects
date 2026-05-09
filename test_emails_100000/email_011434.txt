@@ -1,0 +1,9 @@
+contact:
+  name: Michael Martinez
+  email: michael.martinez1176@work.org
+  phone: 772-743-7258
+  ssn: 907 70 7569
+  dob: 08-22-1976
+  address: 2804 Sixth Blvd
+  city: San Antonio
+  state: WI

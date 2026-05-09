@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Peterson",
+    "email": "lauren.peterson138@work.org",
+    "phone": "805 301 5637",
+    "ssn": "064-16-7215",
+    "dob": "28/08/1970",
+    "address": "3872 Third Blvd",
+    "city": "Dallas",
+    "state": "AZ"
+  }
+}

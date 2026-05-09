@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Serrano,paul.serrano1707@yahoo.com,+1 627-938-7074,546 69 7765,02-04-1952,"7508 Main Dr",Boston,WI

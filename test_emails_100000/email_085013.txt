@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Flores,brenda.flores7072@work.org,660-872-8380,549 12 6869,4/4/1989,"8719 East Dr",Los Angeles,NY

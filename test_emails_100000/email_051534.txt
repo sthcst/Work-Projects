@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Collins
+  email: rebecca.collins7923@mail.com
+  phone: 717-681-4553
+  ssn: 360384035
+  dob: 11-08-1983
+  address: 1334 Fifth Rd
+  city: San Antonio
+  state: TN

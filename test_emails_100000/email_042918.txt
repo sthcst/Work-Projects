@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Jimenez",
+    "email": "angela.jimenez7757@business.net",
+    "phone": "617-277-3146",
+    "ssn": "510-74-6288",
+    "dob": "11-25-1960",
+    "address": "2589 Oak Court",
+    "city": "New York",
+    "state": "MI"
+  }
+}

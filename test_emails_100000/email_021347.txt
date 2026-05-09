@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Gonzalez,george.gonzalez93@example.com,+1 982-394-5697,639-82-8844,05-27-1995,"2110 Second Ave",San Jose,GA

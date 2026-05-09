@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Robinson,daniel.robinson2146@gmail.com,628 795 5366,776299389,10-22-1995,"2014 Maple Dr",Philadelphia,CA

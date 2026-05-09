@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Clark,christine.clark4308@company.com,(752) 567-9300,056-36-3051,09/09/1973,"8261 North St",Washington,IL

@@ -1,0 +1,14 @@
+INVOICE 392646
+
+Bill To:
+Name: Lisa Johnson
+Email: lisa.johnson5197@yahoo.com
+Phone: +1 770-410-2278
+SSN: 213559749
+
+Address: 6433 West Way
+Philadelphia, NJ
+
+Date of Birth: 03/13/1951
+
+Amount Due: $1362

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Wilson",
+    "email": "christopher.wilson1916@mail.com",
+    "phone": "+1 861-798-6345",
+    "ssn": "509678770",
+    "dob": "04-04-1987",
+    "address": "7447 Main Way",
+    "city": "San Diego",
+    "state": "PA"
+  }
+}

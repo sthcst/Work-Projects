@@ -1,0 +1,9 @@
+contact:
+  name: Angela Rogers
+  email: angela.rogers534@company.com
+  phone: 759-561-3739
+  ssn: 601717876
+  dob: 09/03/1970
+  address: 1615 Spring Rd
+  city: San Antonio
+  state: MD

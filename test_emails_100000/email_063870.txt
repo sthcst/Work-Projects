@@ -1,0 +1,14 @@
+INVOICE 854401
+
+Bill To:
+Name: Donald Reed
+Email: donald.reed8597@business.net
+Phone: +1 546-824-3077
+SSN: 208-07-1061
+
+Address: 1304 Spring Rd
+Washington, NY
+
+Date of Birth: 12-08-1969
+
+Amount Due: $9210

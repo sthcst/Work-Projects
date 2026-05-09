@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Gonzalez
+  email: sarah.gonzalez882@mail.com
+  phone: 488-888-6279
+  ssn: 620977381
+  dob: 20/02/1991
+  address: 4420 Oak St
+  city: Jacksonville
+  state: OH

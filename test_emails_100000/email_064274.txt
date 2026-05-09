@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Reed",
+    "email": "timothy.reed4464@example.com",
+    "phone": "752-366-6927",
+    "ssn": "759243084",
+    "dob": "01/07/1962",
+    "address": "2873 Cedar Ave",
+    "city": "Los Angeles",
+    "state": "CO"
+  }
+}

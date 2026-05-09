@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Phillips",
+    "email": "richard.phillips9384@company.com",
+    "phone": "318 797 2821",
+    "ssn": "062 81 2840",
+    "dob": "11/5/1979",
+    "address": "6258 North Court",
+    "city": "Houston",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Michael Collins
+  email: michael.collins9949@outlook.com
+  phone: +1 294-709-4388
+  ssn: 320-78-8802
+  dob: 03/21/1983
+  address: 5407 Second Rd
+  city: Chicago
+  state: PA

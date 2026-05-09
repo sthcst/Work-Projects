@@ -1,0 +1,14 @@
+INVOICE 426375
+
+Bill To:
+Name: Kimberly Campbell
+Email: kimberly.campbell1046@company.com
+Phone: (533) 413-7264
+SSN: 455465775
+
+Address: 9002 Cedar Dr
+Phoenix, GA
+
+Date of Birth: 04-02-2003
+
+Amount Due: $6914

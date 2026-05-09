@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Rodriguez,jacob.rodriguez2614@mail.com,(802) 352-5278,460335193,10/02/1974,"7588 Sixth St",Austin,TN

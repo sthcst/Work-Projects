@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Miller",
+    "email": "emma.miller3327@gmail.com",
+    "phone": "392 660 4048",
+    "ssn": "679-13-3051",
+    "dob": "12/28/1952",
+    "address": "8489 Fourth Ln",
+    "city": "Seattle",
+    "state": "MA"
+  }
+}

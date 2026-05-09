@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Edwards,angela.edwards974@company.com,975-593-5467,581-94-8386,10/28/1960,"8225 East Blvd",Phoenix,TX

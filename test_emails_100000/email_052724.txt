@@ -1,0 +1,14 @@
+INVOICE 753999
+
+Bill To:
+Name: Joshua Taylor
+Email: joshua.taylor8575@gmail.com
+Phone: 752 808 6389
+SSN: 882458042
+
+Address: 8265 Fifth Dr
+Washington, MI
+
+Date of Birth: 04/12/1965
+
+Amount Due: $2248

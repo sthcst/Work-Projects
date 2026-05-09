@@ -1,0 +1,9 @@
+contact:
+  name: Christine Peterson
+  email: christine.peterson2426@yahoo.com
+  phone: (445) 678-3739
+  ssn: 101 68 1051
+  dob: 6/22/1979
+  address: 6873 South Court
+  city: San Antonio
+  state: TX

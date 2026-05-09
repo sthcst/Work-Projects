@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Alvarado,ryan.alvarado2750@business.net,557-720-2889,735-17-1673,12-13-2001,"8514 Sixth Blvd",Seattle,WI

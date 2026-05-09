@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Smith,donald.smith4152@company.com,+1 787-957-7008,573-93-4692,10/28/1967,"133 Sixth St",Jacksonville,CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Roberts",
+    "email": "michael.roberts4572@business.net",
+    "phone": "(941) 630-1231",
+    "ssn": "140-16-1542",
+    "dob": "11-09-1977",
+    "address": "2816 Birch Dr",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

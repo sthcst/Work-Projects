@@ -1,0 +1,14 @@
+INVOICE 232213
+
+Bill To:
+Name: Steven Dominguez
+Email: steven.dominguez6865@work.org
+Phone: +1 498-870-5877
+SSN: 888182625
+
+Address: 84 Oak St
+New York, MO
+
+Date of Birth: 27/06/1999
+
+Amount Due: $2323

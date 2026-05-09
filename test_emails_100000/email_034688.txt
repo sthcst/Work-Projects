@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Romero
+  email: jessica.romero7186@company.com
+  phone: (826) 659-4792
+  ssn: 301 80 2144
+  dob: 05-06-1978
+  address: 7853 West Ave
+  city: Boston
+  state: WA

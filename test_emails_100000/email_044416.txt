@@ -1,0 +1,14 @@
+INVOICE 905142
+
+Bill To:
+Name: Helen Moore
+Email: helen.moore6557@mail.com
+Phone: 703-513-1999
+SSN: 537 79 5905
+
+Address: 3133 Summer Blvd
+Los Angeles, CA
+
+Date of Birth: 09-13-1988
+
+Amount Due: $1096

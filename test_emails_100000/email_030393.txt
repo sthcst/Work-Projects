@@ -1,0 +1,14 @@
+INVOICE 761009
+
+Bill To:
+Name: Helen Romero
+Email: helen.romero900@example.com
+Phone: (458) 680-3946
+SSN: 869 23 6280
+
+Address: 7905 Fourth Ln
+Chicago, PA
+
+Date of Birth: 5/26/1984
+
+Amount Due: $6705

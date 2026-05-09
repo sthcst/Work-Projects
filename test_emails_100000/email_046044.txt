@@ -1,0 +1,14 @@
+INVOICE 312336
+
+Bill To:
+Name: Robert Brown
+Email: robert.brown7124@gmail.com
+Phone: +1 289-368-2212
+SSN: 933308000
+
+Address: 3542 Fourth Rd
+San Jose, FL
+
+Date of Birth: 11/27/1963
+
+Amount Due: $1251

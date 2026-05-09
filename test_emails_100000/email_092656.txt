@@ -1,0 +1,9 @@
+contact:
+  name: William Miller
+  email: william.miller9272@example.com
+  phone: 282-776-6583
+  ssn: 110-63-9135
+  dob: 04/24/1986
+  address: 5872 South St
+  city: Boston
+  state: AZ

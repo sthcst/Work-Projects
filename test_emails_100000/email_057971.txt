@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Collins
+  email: daniel.collins3680@mail.com
+  phone: 347-962-2378
+  ssn: 841-81-1737
+  dob: 03/17/1988
+  address: 6392 Third Ln
+  city: San Antonio
+  state: WI

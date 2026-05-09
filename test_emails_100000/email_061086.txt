@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Hall,christine.hall485@example.com,(706) 867-1793,912366837,05/27/1999,"4324 West Ave",Jacksonville,NJ

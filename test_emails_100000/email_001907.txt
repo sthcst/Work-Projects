@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Evans,kathleen.evans8578@gmail.com,393 283 7787,650413663,02/23/1978,"463 North Ln",Chicago,AZ

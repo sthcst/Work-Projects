@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Reyes",
+    "email": "nicole.reyes7140@outlook.com",
+    "phone": "880 251 1814",
+    "ssn": "377453655",
+    "dob": "06-10-1964",
+    "address": "7053 Summer Rd",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

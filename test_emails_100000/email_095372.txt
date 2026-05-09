@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Perez
+  email: daniel.perez6464@gmail.com
+  phone: +1 363-751-3785
+  ssn: 220758141
+  dob: 04/24/1975
+  address: 4883 Elm Rd
+  city: Los Angeles
+  state: GA

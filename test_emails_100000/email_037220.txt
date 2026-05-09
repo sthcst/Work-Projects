@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Alvarado,david.alvarado7145@work.org,(716) 638-9049,517451562,09/24/1964,"2150 Oak Way",San Antonio,MO

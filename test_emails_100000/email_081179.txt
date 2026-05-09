@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Gonzalez",
+    "email": "angela.gonzalez1424@example.com",
+    "phone": "728-497-6185",
+    "ssn": "269-08-9056",
+    "dob": "27/02/1960",
+    "address": "9022 East Blvd",
+    "city": "Houston",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Miller,robert.miller2814@gmail.com,869 884 2122,700-84-8520,11/10/1988,"7374 Third Blvd",Boston,PA

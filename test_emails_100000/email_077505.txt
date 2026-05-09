@@ -1,0 +1,14 @@
+INVOICE 778698
+
+Bill To:
+Name: Nicole Collins
+Email: nicole.collins3796@company.com
+Phone: +1 887-957-1862
+SSN: 364875326
+
+Address: 1513 Oak Court
+Dallas, MA
+
+Date of Birth: 07/10/1986
+
+Amount Due: $9015

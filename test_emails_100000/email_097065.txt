@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Guerrero
+  email: joseph.guerrero8602@outlook.com
+  phone: +1 837-504-2688
+  ssn: 531 27 1193
+  dob: 07-24-1983
+  address: 8230 Second Dr
+  city: New York
+  state: TX

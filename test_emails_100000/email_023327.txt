@@ -1,0 +1,9 @@
+contact:
+  name: Mark Flores
+  email: mark.flores6925@gmail.com
+  phone: 394-539-8723
+  ssn: 676762743
+  dob: 12/06/1960
+  address: 9907 East Dr
+  city: Washington
+  state: CA

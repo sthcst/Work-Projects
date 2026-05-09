@@ -1,0 +1,9 @@
+contact:
+  name: Jane Rogers
+  email: jane.rogers4786@work.org
+  phone: 452-302-1651
+  ssn: 278 85 7765
+  dob: 04/01/1992
+  address: 5166 Sixth Rd
+  city: San Diego
+  state: WA

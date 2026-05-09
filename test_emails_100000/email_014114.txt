@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Cooper
+  email: kenneth.cooper9498@company.com
+  phone: +1 519-231-5490
+  ssn: 527-87-6842
+  dob: 02/01/1992
+  address: 6952 Spring Ln
+  city: Washington
+  state: PA

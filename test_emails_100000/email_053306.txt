@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Hall",
+    "email": "emma.hall200@company.com",
+    "phone": "865-980-8126",
+    "ssn": "081 66 5642",
+    "dob": "25/06/1966",
+    "address": "5143 Sixth Ave",
+    "city": "San Jose",
+    "state": "CA"
+  }
+}

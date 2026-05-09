@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Thomas
+  email: ronald.thomas2024@outlook.com
+  phone: 782 788 7319
+  ssn: 972775704
+  dob: 07/04/1989
+  address: 5344 Third Dr
+  city: Houston
+  state: VA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Serrano",
+    "email": "jennifer.serrano7915@outlook.com",
+    "phone": "445 433 2154",
+    "ssn": "811-57-5498",
+    "dob": "08-05-1993",
+    "address": "9374 Park Court",
+    "city": "Chicago",
+    "state": "PA"
+  }
+}

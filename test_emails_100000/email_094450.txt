@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Sanchez",
+    "email": "kevin.sanchez2426@business.net",
+    "phone": "410-913-7285",
+    "ssn": "845291784",
+    "dob": "07/04/1950",
+    "address": "1757 Pine Court",
+    "city": "San Jose",
+    "state": "MI"
+  }
+}

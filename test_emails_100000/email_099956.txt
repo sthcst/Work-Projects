@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Reeves,john.reeves324@work.org,(932) 422-8614,777-80-6303,9/24/1988,"3169 Oak Blvd",San Diego,CA

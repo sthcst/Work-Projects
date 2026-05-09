@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Williams",
+    "email": "richard.williams894@business.net",
+    "phone": "+1 510-397-5707",
+    "ssn": "956-38-8676",
+    "dob": "07-28-1956",
+    "address": "8131 Third Ave",
+    "city": "New York",
+    "state": "GA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Carter
+  email: ronald.carter8613@mail.com
+  phone: 969 954 1456
+  ssn: 798-71-6817
+  dob: 12-15-1970
+  address: 669 Pine Rd
+  city: Philadelphia
+  state: CA

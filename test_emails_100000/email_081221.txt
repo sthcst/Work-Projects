@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Clark",
+    "email": "william.clark7957@yahoo.com",
+    "phone": "317-409-3258",
+    "ssn": "961 74 1152",
+    "dob": "01/04/1984",
+    "address": "2145 Birch Way",
+    "city": "Philadelphia",
+    "state": "DC"
+  }
+}

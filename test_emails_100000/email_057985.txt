@@ -1,0 +1,14 @@
+INVOICE 655475
+
+Bill To:
+Name: Charles Miller
+Email: charles.miller6554@work.org
+Phone: 769-302-6402
+SSN: 248 45 9279
+
+Address: 1926 Pine Rd
+Philadelphia, OH
+
+Date of Birth: 06-02-1996
+
+Amount Due: $2388

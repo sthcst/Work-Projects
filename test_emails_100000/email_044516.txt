@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Walker,rebecca.walker474@example.com,+1 591-705-7790,534-60-6088,05/05/1997,"4106 South Court",Phoenix,FL

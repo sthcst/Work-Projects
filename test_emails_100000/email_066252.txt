@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Phillips,stephanie.phillips9510@example.com,834-798-1200,067-41-5808,11/4/1989,"7919 South Ln",Jacksonville,DC

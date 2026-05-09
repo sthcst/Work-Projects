@@ -1,0 +1,9 @@
+contact:
+  name: David Campbell
+  email: david.campbell3166@gmail.com
+  phone: +1 353-540-3774
+  ssn: 381-45-2534
+  dob: 05-14-1954
+  address: 6505 Oak Way
+  city: Los Angeles
+  state: NY

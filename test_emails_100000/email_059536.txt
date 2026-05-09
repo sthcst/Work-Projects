@@ -1,0 +1,14 @@
+INVOICE 878147
+
+Bill To:
+Name: Emma Jimenez
+Email: emma.jimenez4625@example.com
+Phone: (965) 922-8640
+SSN: 557-12-6369
+
+Address: 5062 Cedar Rd
+Los Angeles, GA
+
+Date of Birth: 11/19/1963
+
+Amount Due: $3271

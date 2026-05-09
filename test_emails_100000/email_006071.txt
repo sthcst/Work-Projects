@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Roberts,christopher.roberts731@mail.com,683-654-4355,324 95 6399,17/09/1964,"846 Cedar Court",Chicago,AZ

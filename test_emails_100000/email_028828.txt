@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Serrano",
+    "email": "gary.serrano3137@business.net",
+    "phone": "964 593 6277",
+    "ssn": "739 06 7123",
+    "dob": "07-19-1958",
+    "address": "405 Spring Dr",
+    "city": "Washington",
+    "state": "WA"
+  }
+}

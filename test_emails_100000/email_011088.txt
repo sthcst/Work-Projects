@@ -1,0 +1,14 @@
+INVOICE 493279
+
+Bill To:
+Name: Joseph White
+Email: joseph.white1778@example.com
+Phone: 651 644 6725
+SSN: 074-80-2505
+
+Address: 1327 Spring St
+San Antonio, WA
+
+Date of Birth: 10/01/1972
+
+Amount Due: $7306

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Walker",
+    "email": "paul.walker1419@work.org",
+    "phone": "+1 662-794-2187",
+    "ssn": "536-72-2658",
+    "dob": "06/08/1977",
+    "address": "9769 Cedar Dr",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

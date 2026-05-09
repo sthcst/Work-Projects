@@ -1,0 +1,9 @@
+contact:
+  name: Joshua White
+  email: joshua.white6463@gmail.com
+  phone: +1 672-452-6199
+  ssn: 521 88 4269
+  dob: 03-24-2001
+  address: 7902 Park Way
+  city: Washington
+  state: CA

@@ -1,0 +1,14 @@
+INVOICE 448197
+
+Bill To:
+Name: Kathleen Morgan
+Email: kathleen.morgan402@example.com
+Phone: 921 432 2908
+SSN: 102 30 6027
+
+Address: 9576 Birch Rd
+Washington, DC
+
+Date of Birth: 23/11/1961
+
+Amount Due: $6737

@@ -1,0 +1,14 @@
+INVOICE 698653
+
+Bill To:
+Name: Megan Jones
+Email: megan.jones6493@example.com
+Phone: 802-448-8532
+SSN: 851 21 9987
+
+Address: 398 Fourth Way
+San Antonio, VA
+
+Date of Birth: 8/2/1956
+
+Amount Due: $8806

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Campbell",
+    "email": "george.campbell2392@example.com",
+    "phone": "687-387-1435",
+    "ssn": "019 56 3015",
+    "dob": "7/23/2005",
+    "address": "398 Main Ln",
+    "city": "San Jose",
+    "state": "MO"
+  }
+}

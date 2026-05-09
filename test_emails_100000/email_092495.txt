@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Stewart",
+    "email": "megan.stewart9321@work.org",
+    "phone": "938-647-5281",
+    "ssn": "642-67-8957",
+    "dob": "12/08/1980",
+    "address": "6900 Summer Way",
+    "city": "Jacksonville",
+    "state": "GA"
+  }
+}

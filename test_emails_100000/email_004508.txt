@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Jimenez",
+    "email": "emily.jimenez1324@example.com",
+    "phone": "(502) 513-8482",
+    "ssn": "941 51 2605",
+    "dob": "08-01-1996",
+    "address": "5248 Fourth Way",
+    "city": "Jacksonville",
+    "state": "OH"
+  }
+}

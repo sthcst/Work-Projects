@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Jones
+  email: katherine.jones2406@work.org
+  phone: 305-491-1539
+  ssn: 051888465
+  dob: 24/12/1975
+  address: 2340 West Ave
+  city: Los Angeles
+  state: MA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Serrano",
+    "email": "samantha.serrano4262@mail.com",
+    "phone": "(570) 555-8835",
+    "ssn": "725-28-4834",
+    "dob": "10/10/1979",
+    "address": "9804 West Rd",
+    "city": "Denver",
+    "state": "NJ"
+  }
+}

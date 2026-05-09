@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Cooper
+  email: brenda.cooper8660@business.net
+  phone: 756-697-9881
+  ssn: 902-27-5529
+  dob: 27/01/1971
+  address: 8143 North Ave
+  city: Philadelphia
+  state: NJ

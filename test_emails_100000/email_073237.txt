@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Ramirez",
+    "email": "gary.ramirez1763@example.com",
+    "phone": "533-984-4638",
+    "ssn": "585 01 6608",
+    "dob": "9/7/1974",
+    "address": "6037 Maple Rd",
+    "city": "Phoenix",
+    "state": "CO"
+  }
+}

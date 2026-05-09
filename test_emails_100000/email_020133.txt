@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Cooper
+  email: ronald.cooper6851@mail.com
+  phone: (716) 207-2337
+  ssn: 712486857
+  dob: 08-23-2001
+  address: 297 Park Blvd
+  city: San Jose
+  state: MI

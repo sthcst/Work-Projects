@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Morris",
+    "email": "kenneth.morris1643@gmail.com",
+    "phone": "833 334 9419",
+    "ssn": "784-17-3877",
+    "dob": "06-12-1977",
+    "address": "9800 Pine Ln",
+    "city": "Austin",
+    "state": "TN"
+  }
+}

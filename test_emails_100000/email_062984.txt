@@ -1,0 +1,14 @@
+INVOICE 273679
+
+Bill To:
+Name: Richard Dominguez
+Email: richard.dominguez5142@mail.com
+Phone: 425 752 8035
+SSN: 972-43-6700
+
+Address: 944 Birch Ave
+San Antonio, CA
+
+Date of Birth: 04/04/1983
+
+Amount Due: $7853

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Martinez",
+    "email": "daniel.martinez2494@business.net",
+    "phone": "956 992 3180",
+    "ssn": "582-29-9286",
+    "dob": "12/16/1988",
+    "address": "2705 North Court",
+    "city": "Philadelphia",
+    "state": "NY"
+  }
+}

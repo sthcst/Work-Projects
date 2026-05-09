@@ -1,0 +1,14 @@
+INVOICE 689706
+
+Bill To:
+Name: Michael Cooper
+Email: michael.cooper1910@example.com
+Phone: +1 201-550-7143
+SSN: 681299094
+
+Address: 8308 Fourth Rd
+Seattle, FL
+
+Date of Birth: 06-10-1984
+
+Amount Due: $9710

@@ -1,0 +1,9 @@
+contact:
+  name: Mark Carter
+  email: mark.carter6433@example.com
+  phone: (981) 374-6957
+  ssn: 300889483
+  dob: 12/21/1952
+  address: 2034 Cedar Way
+  city: Los Angeles
+  state: TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Gomez,christine.gomez5437@outlook.com,+1 399-536-5525,516 29 6100,02/10/1998,"8514 Sixth Ln",Los Angeles,MD

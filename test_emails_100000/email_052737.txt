@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Gonzalez,nicholas.gonzalez5621@business.net,(476) 247-5553,179867857,8/11/1959,"3774 Third St",Los Angeles,MI

@@ -1,0 +1,9 @@
+contact:
+  name: Angela Moore
+  email: angela.moore2848@work.org
+  phone: 289 882 9226
+  ssn: 760-93-1855
+  dob: 8/10/1999
+  address: 9243 Spring Rd
+  city: Chicago
+  state: TN

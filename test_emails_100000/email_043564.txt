@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Jackson
+  email: anthony.jackson2532@gmail.com
+  phone: +1 820-566-9851
+  ssn: 242386268
+  dob: 10/24/1992
+  address: 7811 First Court
+  city: Washington
+  state: CA

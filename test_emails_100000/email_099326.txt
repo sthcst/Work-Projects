@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Martinez
+  email: nicholas.martinez1727@yahoo.com
+  phone: +1 890-312-2665
+  ssn: 209 95 9488
+  dob: 12/15/1979
+  address: 6333 Pine Ave
+  city: Seattle
+  state: PA

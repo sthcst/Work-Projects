@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald White",
+    "email": "ronald.white8656@company.com",
+    "phone": "(374) 796-3099",
+    "ssn": "466-31-2274",
+    "dob": "26/03/1960",
+    "address": "2592 Third Dr",
+    "city": "San Antonio",
+    "state": "VA"
+  }
+}

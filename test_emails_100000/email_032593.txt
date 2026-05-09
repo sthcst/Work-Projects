@@ -1,0 +1,12 @@
+SUPPORT TICKET #66564
+
+Customer: Daniel Gomez
+Email: daniel.gomez5550@example.com
+Phone: +1 386-653-3142
+Account: 140 18 2377
+
+Issue Description: Technical problem reported
+DOB on file: 01/25/1990
+Address: 9724 East Rd, San Diego, MI
+
+Status: OPEN

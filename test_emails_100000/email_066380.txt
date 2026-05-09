@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Martin",
+    "email": "stephanie.martin8994@business.net",
+    "phone": "(411) 581-1278",
+    "ssn": "725 27 2129",
+    "dob": "11-19-1988",
+    "address": "9820 Maple St",
+    "city": "Dallas",
+    "state": "MI"
+  }
+}

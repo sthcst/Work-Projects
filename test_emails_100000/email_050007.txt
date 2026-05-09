@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Taylor",
+    "email": "christopher.taylor6351@work.org",
+    "phone": "211 328 2064",
+    "ssn": "272916742",
+    "dob": "03/02/1970",
+    "address": "1553 Spring Blvd",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

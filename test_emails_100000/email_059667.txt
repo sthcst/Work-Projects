@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Miller,brian.miller7250@gmail.com,257-396-1733,234 68 7214,11/18/1955,"7255 Oak Ave",Philadelphia,TX

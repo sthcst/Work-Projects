@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Anderson",
+    "email": "kenneth.anderson249@company.com",
+    "phone": "+1 455-825-7166",
+    "ssn": "937887266",
+    "dob": "2/6/1994",
+    "address": "6107 Park Rd",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

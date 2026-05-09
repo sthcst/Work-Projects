@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Romero,richard.romero7362@work.org,+1 300-859-5191,597-87-4728,11/01/1970,"4031 First Rd",San Antonio,AZ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Dominguez",
+    "email": "emma.dominguez669@work.org",
+    "phone": "+1 900-244-1136",
+    "ssn": "708-50-7121",
+    "dob": "27/08/1957",
+    "address": "994 Sixth Court",
+    "city": "San Jose",
+    "state": "PA"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 780052
+
+Bill To:
+Name: Edward Moore
+Email: edward.moore5488@company.com
+Phone: +1 653-734-1942
+SSN: 964-55-6718
+
+Address: 6711 Spring Blvd
+Houston, CA
+
+Date of Birth: 26/06/1973
+
+Amount Due: $5848

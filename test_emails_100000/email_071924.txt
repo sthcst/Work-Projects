@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Lee,deborah.lee3939@work.org,905 378 9781,329-69-1083,19/12/1954,"3000 Maple St",New York,MI

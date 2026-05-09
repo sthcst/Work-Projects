@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Harris",
+    "email": "kenneth.harris4513@example.com",
+    "phone": "(599) 572-9354",
+    "ssn": "675362941",
+    "dob": "7/16/1976",
+    "address": "6568 First Rd",
+    "city": "Chicago",
+    "state": "GA"
+  }
+}

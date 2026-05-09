@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Harris",
+    "email": "james.harris4833@company.com",
+    "phone": "392 452 1233",
+    "ssn": "492-24-1393",
+    "dob": "04/03/1998",
+    "address": "5399 First Rd",
+    "city": "Chicago",
+    "state": "VA"
+  }
+}

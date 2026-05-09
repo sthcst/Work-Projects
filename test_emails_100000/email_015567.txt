@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Nelson,joseph.nelson9361@yahoo.com,779-886-9002,653 98 5351,12/28/2004,"4271 First Ave",New York,PA

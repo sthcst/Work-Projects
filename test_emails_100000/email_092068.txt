@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Thomas",
+    "email": "kimberly.thomas8160@gmail.com",
+    "phone": "927 302 3270",
+    "ssn": "638069329",
+    "dob": "09-22-2002",
+    "address": "1231 West St",
+    "city": "Philadelphia",
+    "state": "TN"
+  }
+}

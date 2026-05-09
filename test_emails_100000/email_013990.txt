@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Lewis",
+    "email": "lauren.lewis9512@mail.com",
+    "phone": "+1 333-963-2556",
+    "ssn": "053362265",
+    "dob": "03-27-1972",
+    "address": "2071 North Rd",
+    "city": "Dallas",
+    "state": "MI"
+  }
+}

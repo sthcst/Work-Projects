@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Peterson,david.peterson6193@yahoo.com,(794) 366-4014,718-92-1887,02-01-1991,"6470 Elm Way",San Antonio,MD

@@ -1,0 +1,9 @@
+contact:
+  name: Helen Reyes
+  email: helen.reyes1249@example.com
+  phone: 291-450-5425
+  ssn: 264 92 2960
+  dob: 4/26/1960
+  address: 8949 Oak St
+  city: Boston
+  state: AZ

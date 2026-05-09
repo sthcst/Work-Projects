@@ -1,0 +1,9 @@
+contact:
+  name: Mark Alvarado
+  email: mark.alvarado5724@gmail.com
+  phone: 659-528-3433
+  ssn: 214 19 2892
+  dob: 12/13/1952
+  address: 1396 Sixth Ave
+  city: Philadelphia
+  state: TX

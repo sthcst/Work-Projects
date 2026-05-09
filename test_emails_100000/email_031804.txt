@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Murillo",
+    "email": "emma.murillo5547@work.org",
+    "phone": "319-286-2100",
+    "ssn": "886 17 1632",
+    "dob": "17/04/1965",
+    "address": "9352 Second Ave",
+    "city": "Austin",
+    "state": "FL"
+  }
+}

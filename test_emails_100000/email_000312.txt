@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Walker,ronald.walker1725@mail.com,(997) 569-8443,101 19 7974,03/02/1953,"2140 Second Ln",Seattle,IL

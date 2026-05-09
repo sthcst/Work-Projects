@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Campbell,rebecca.campbell2144@yahoo.com,+1 471-400-1917,497726966,1/8/1967,"4294 Maple St",Washington,NY

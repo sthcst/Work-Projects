@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Stewart",
+    "email": "charles.stewart1149@company.com",
+    "phone": "552 676 7151",
+    "ssn": "920369905",
+    "dob": "09/15/1956",
+    "address": "4270 Pine Ave",
+    "city": "New York",
+    "state": "WA"
+  }
+}

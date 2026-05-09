@@ -1,0 +1,14 @@
+INVOICE 344182
+
+Bill To:
+Name: Charles Martin
+Email: charles.martin3727@work.org
+Phone: 904-988-7924
+SSN: 117-72-6641
+
+Address: 5662 Elm Court
+Los Angeles, MA
+
+Date of Birth: 21/10/1966
+
+Amount Due: $8153

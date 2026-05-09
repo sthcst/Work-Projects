@@ -1,0 +1,14 @@
+INVOICE 363078
+
+Bill To:
+Name: Megan Ortiz
+Email: megan.ortiz4754@company.com
+Phone: 460-908-3500
+SSN: 020-26-4678
+
+Address: 5440 Birch Way
+Chicago, MA
+
+Date of Birth: 12/22/1960
+
+Amount Due: $9802

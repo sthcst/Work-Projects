@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Davis,james.davis9318@gmail.com,(484) 349-9180,205817743,01/16/1956,"9149 Sixth Ln",San Diego,CO

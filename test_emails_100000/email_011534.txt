@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Perez",
+    "email": "matthew.perez9618@outlook.com",
+    "phone": "369 563 4284",
+    "ssn": "406-96-4182",
+    "dob": "28/09/1991",
+    "address": "7598 Cedar Ln",
+    "city": "San Antonio",
+    "state": "NC"
+  }
+}

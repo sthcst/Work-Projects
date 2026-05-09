@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Thompson,michael.thompson1890@company.com,753 454 9238,475-33-2433,04/02/2004,"4120 South Blvd",Philadelphia,PA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Anderson",
+    "email": "angela.anderson5257@work.org",
+    "phone": "591-232-6236",
+    "ssn": "553-88-5169",
+    "dob": "04-23-2001",
+    "address": "7644 Cedar Ave",
+    "city": "Seattle",
+    "state": "MO"
+  }
+}

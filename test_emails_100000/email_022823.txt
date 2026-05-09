@@ -1,0 +1,14 @@
+INVOICE 842122
+
+Bill To:
+Name: Ronald Jones
+Email: ronald.jones2624@business.net
+Phone: (885) 210-1246
+SSN: 255709453
+
+Address: 6355 Fifth Blvd
+New York, WA
+
+Date of Birth: 07/16/1973
+
+Amount Due: $8013

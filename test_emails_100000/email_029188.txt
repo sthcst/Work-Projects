@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Morgan",
+    "email": "david.morgan5652@mail.com",
+    "phone": "(643) 868-3588",
+    "ssn": "696 79 7806",
+    "dob": "06/16/1991",
+    "address": "9667 East Way",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

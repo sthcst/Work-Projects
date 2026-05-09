@@ -1,0 +1,9 @@
+contact:
+  name: Michael Garcia
+  email: michael.garcia3087@work.org
+  phone: 201 911 3136
+  ssn: 709612029
+  dob: 3/28/2003
+  address: 7223 South Way
+  city: San Diego
+  state: NJ

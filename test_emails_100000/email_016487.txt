@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Collins
+  email: daniel.collins1446@yahoo.com
+  phone: 532 765 5006
+  ssn: 615-48-3150
+  dob: 03-01-1989
+  address: 1280 Oak Ln
+  city: Boston
+  state: FL

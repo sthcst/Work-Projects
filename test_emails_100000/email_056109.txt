@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Rogers,robert.rogers5556@business.net,(600) 679-6390,852813531,04/17/1955,"3089 West St",Washington,CA

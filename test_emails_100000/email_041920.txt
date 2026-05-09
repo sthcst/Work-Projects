@@ -1,0 +1,9 @@
+contact:
+  name: Emma Hall
+  email: emma.hall9696@yahoo.com
+  phone: 419-755-4642
+  ssn: 745 12 8282
+  dob: 01-09-1954
+  address: 4196 Park Rd
+  city: San Jose
+  state: IL

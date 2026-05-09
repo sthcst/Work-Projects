@@ -1,0 +1,9 @@
+contact:
+  name: William Campbell
+  email: william.campbell7423@example.com
+  phone: +1 788-409-6035
+  ssn: 849901392
+  dob: 6/10/1986
+  address: 7699 Oak Court
+  city: Austin
+  state: CO

@@ -1,0 +1,9 @@
+contact:
+  name: Sarah White
+  email: sarah.white5951@company.com
+  phone: 933-411-4487
+  ssn: 229037863
+  dob: 09/12/1993
+  address: 2975 Summer Rd
+  city: Philadelphia
+  state: NC

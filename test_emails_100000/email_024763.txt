@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Smith,daniel.smith5903@work.org,795-345-2759,962-17-4030,10/10/1991,"1490 Second Blvd",Seattle,TX

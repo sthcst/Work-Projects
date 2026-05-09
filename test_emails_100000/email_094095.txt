@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Gonzalez
+  email: joshua.gonzalez4075@business.net
+  phone: 892 778 1423
+  ssn: 818 70 3716
+  dob: 11/10/1980
+  address: 107 Birch Way
+  city: Phoenix
+  state: NY

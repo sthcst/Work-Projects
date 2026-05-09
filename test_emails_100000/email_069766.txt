@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Cooper",
+    "email": "timothy.cooper1738@gmail.com",
+    "phone": "729-580-5312",
+    "ssn": "699 26 1575",
+    "dob": "06/08/1970",
+    "address": "4238 Second Rd",
+    "city": "Dallas",
+    "state": "MA"
+  }
+}

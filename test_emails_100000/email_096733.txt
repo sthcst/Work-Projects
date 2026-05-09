@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Thomas,michael.thomas5147@mail.com,243 537 7677,158018506,22/06/1976,"1057 Park Ln",San Diego,CA

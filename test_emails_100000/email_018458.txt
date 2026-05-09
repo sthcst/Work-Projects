@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Hernandez
+  email: rebecca.hernandez7469@example.com
+  phone: +1 374-804-8869
+  ssn: 889 86 8151
+  dob: 08/01/1956
+  address: 1362 Pine Court
+  city: Boston
+  state: GA

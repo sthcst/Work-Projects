@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Hernandez",
+    "email": "edward.hernandez9934@company.com",
+    "phone": "+1 689-958-4309",
+    "ssn": "893 21 8675",
+    "dob": "01-19-1969",
+    "address": "1627 Birch Ln",
+    "city": "Boston",
+    "state": "VA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Jackson,john.jackson4228@company.com,+1 211-695-7920,713228233,04-18-1995,"4067 Spring Court",Chicago,CA

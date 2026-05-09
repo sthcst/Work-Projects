@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Edwards,steven.edwards9388@yahoo.com,(223) 812-3995,127502335,23/04/1979,"2413 First Way",Phoenix,WA

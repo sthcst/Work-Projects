@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Edwards
+  email: kevin.edwards771@gmail.com
+  phone: 752 744 6254
+  ssn: 590 88 4286
+  dob: 7/28/1959
+  address: 3226 Pine Ave
+  city: New York
+  state: NC

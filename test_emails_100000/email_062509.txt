@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Delgado
+  email: kevin.delgado2641@business.net
+  phone: 793 535 5812
+  ssn: 766 47 7264
+  dob: 03/25/1959
+  address: 8459 Park Ln
+  city: Chicago
+  state: CA

@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Nelson
+  email: katherine.nelson6390@yahoo.com
+  phone: 460-720-9873
+  ssn: 376-44-5368
+  dob: 06/11/1962
+  address: 1005 Cedar Dr
+  city: New York
+  state: CA

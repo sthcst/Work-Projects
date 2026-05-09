@@ -1,0 +1,14 @@
+INVOICE 247338
+
+Bill To:
+Name: James Romero
+Email: james.romero2703@gmail.com
+Phone: 650-322-2006
+SSN: 908-26-2048
+
+Address: 2674 Second Court
+New York, PA
+
+Date of Birth: 11/12/1996
+
+Amount Due: $7468

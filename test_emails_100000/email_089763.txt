@@ -1,0 +1,14 @@
+INVOICE 858993
+
+Bill To:
+Name: Gary Garcia
+Email: gary.garcia2247@gmail.com
+Phone: 965-947-1628
+SSN: 198-91-2989
+
+Address: 6387 West St
+Houston, WI
+
+Date of Birth: 04/14/1968
+
+Amount Due: $8742

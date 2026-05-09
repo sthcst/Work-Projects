@@ -1,0 +1,9 @@
+contact:
+  name: Maria Gonzalez
+  email: maria.gonzalez3961@work.org
+  phone: 330-601-1800
+  ssn: 875-48-9299
+  dob: 2/26/1985
+  address: 3383 South Rd
+  city: San Diego
+  state: AZ

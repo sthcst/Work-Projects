@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Harris",
+    "email": "maria.harris1993@company.com",
+    "phone": "974 719 6221",
+    "ssn": "105115783",
+    "dob": "12/17/1964",
+    "address": "2846 Second Rd",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

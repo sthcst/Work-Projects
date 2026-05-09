@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Harris",
+    "email": "daniel.harris6988@work.org",
+    "phone": "478-354-5230",
+    "ssn": "104-08-4048",
+    "dob": "8/24/2005",
+    "address": "1737 Birch Dr",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

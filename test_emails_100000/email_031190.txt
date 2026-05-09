@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Williams",
+    "email": "rebecca.williams9264@yahoo.com",
+    "phone": "875 861 3753",
+    "ssn": "089635903",
+    "dob": "08/15/1978",
+    "address": "8902 First Court",
+    "city": "Denver",
+    "state": "FL"
+  }
+}

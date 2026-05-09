@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Taylor",
+    "email": "george.taylor8433@outlook.com",
+    "phone": "(856) 642-8012",
+    "ssn": "613813429",
+    "dob": "18/06/1985",
+    "address": "2020 Birch Dr",
+    "city": "Los Angeles",
+    "state": "MI"
+  }
+}

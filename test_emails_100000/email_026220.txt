@@ -1,0 +1,14 @@
+INVOICE 689971
+
+Bill To:
+Name: Robert Miller
+Email: robert.miller3443@business.net
+Phone: +1 988-569-1130
+SSN: 672 64 2268
+
+Address: 9581 Main Ln
+Seattle, VA
+
+Date of Birth: 08-12-1958
+
+Amount Due: $1289

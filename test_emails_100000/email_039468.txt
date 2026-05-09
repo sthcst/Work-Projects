@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Ortiz
+  email: nicholas.ortiz9018@yahoo.com
+  phone: 916-274-9479
+  ssn: 298673897
+  dob: 13/09/1968
+  address: 3057 North Way
+  city: Philadelphia
+  state: WA

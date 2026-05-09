@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Roberts",
+    "email": "joshua.roberts3306@yahoo.com",
+    "phone": "+1 475-608-4561",
+    "ssn": "943 37 9744",
+    "dob": "6/12/2005",
+    "address": "5444 West Dr",
+    "city": "Jacksonville",
+    "state": "MI"
+  }
+}

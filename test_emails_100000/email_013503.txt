@@ -1,0 +1,14 @@
+INVOICE 458978
+
+Bill To:
+Name: Kenneth Jackson
+Email: kenneth.jackson926@mail.com
+Phone: 769-502-9874
+SSN: 014808675
+
+Address: 1070 Birch Dr
+Jacksonville, MI
+
+Date of Birth: 04-18-1959
+
+Amount Due: $4190

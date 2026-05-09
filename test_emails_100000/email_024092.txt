@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Delgado
+  email: kenneth.delgado7216@business.net
+  phone: +1 908-953-4770
+  ssn: 484259215
+  dob: 01/20/1992
+  address: 4544 First Ln
+  city: Chicago
+  state: MA

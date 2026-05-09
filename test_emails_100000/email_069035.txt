@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Edwards",
+    "email": "timothy.edwards5075@outlook.com",
+    "phone": "207 657 2926",
+    "ssn": "214093096",
+    "dob": "10/06/1974",
+    "address": "4950 First Court",
+    "city": "Chicago",
+    "state": "WI"
+  }
+}

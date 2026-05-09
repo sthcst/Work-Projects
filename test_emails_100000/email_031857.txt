@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Cooper
+  email: nicholas.cooper6436@yahoo.com
+  phone: (563) 723-9061
+  ssn: 796-69-6531
+  dob: 07/26/1983
+  address: 5171 West St
+  city: Los Angeles
+  state: AZ

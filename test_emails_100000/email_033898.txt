@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Romero",
+    "email": "cynthia.romero1382@company.com",
+    "phone": "(410) 938-7041",
+    "ssn": "106-07-4719",
+    "dob": "8/26/1964",
+    "address": "2132 Oak Ave",
+    "city": "Austin",
+    "state": "WI"
+  }
+}

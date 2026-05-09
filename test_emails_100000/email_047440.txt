@@ -1,0 +1,9 @@
+contact:
+  name: George Perez
+  email: george.perez6880@business.net
+  phone: 305 739 5339
+  ssn: 573 71 4915
+  dob: 06/19/1972
+  address: 519 Oak St
+  city: Seattle
+  state: MO

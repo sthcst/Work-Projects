@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Hernandez,sarah.hernandez1061@gmail.com,352-293-4324,186-88-4151,09/18/1973,"9871 Birch Blvd",Austin,MD

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Wilson,daniel.wilson6008@example.com,+1 984-854-2367,874 13 6835,15/12/1951,"2510 Sixth Dr",San Diego,MA

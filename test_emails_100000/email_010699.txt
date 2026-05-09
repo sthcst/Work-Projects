@@ -1,0 +1,14 @@
+INVOICE 173880
+
+Bill To:
+Name: James Wilson
+Email: james.wilson5498@business.net
+Phone: (660) 824-2821
+SSN: 035-90-6820
+
+Address: 1566 Third Blvd
+Washington, OH
+
+Date of Birth: 3/10/2002
+
+Amount Due: $6258

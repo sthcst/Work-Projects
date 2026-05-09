@@ -1,0 +1,9 @@
+contact:
+  name: Robert Lopez
+  email: robert.lopez2456@outlook.com
+  phone: 780-259-8695
+  ssn: 738-48-8290
+  dob: 05-06-1951
+  address: 3596 Birch Court
+  city: Washington
+  state: MA

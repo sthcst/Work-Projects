@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Sanchez
+  email: ryan.sanchez9497@yahoo.com
+  phone: (441) 701-9771
+  ssn: 514103500
+  dob: 04/10/1992
+  address: 497 Oak Ave
+  city: San Diego
+  state: GA

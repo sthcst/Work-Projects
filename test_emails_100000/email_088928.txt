@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Hernandez",
+    "email": "kenneth.hernandez8718@yahoo.com",
+    "phone": "896 909 7276",
+    "ssn": "611958524",
+    "dob": "11/23/1974",
+    "address": "3762 Elm Ave",
+    "city": "Dallas",
+    "state": "NC"
+  }
+}

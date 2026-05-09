@@ -1,0 +1,14 @@
+INVOICE 800185
+
+Bill To:
+Name: Paul Reyes
+Email: paul.reyes3452@example.com
+Phone: (609) 303-7238
+SSN: 660615878
+
+Address: 3458 Summer St
+Seattle, DC
+
+Date of Birth: 04-03-2003
+
+Amount Due: $1871

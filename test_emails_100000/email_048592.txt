@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Reeves
+  email: shirley.reeves7721@example.com
+  phone: 576 373 6067
+  ssn: 767286767
+  dob: 07-08-1981
+  address: 4018 West St
+  city: Dallas
+  state: CA

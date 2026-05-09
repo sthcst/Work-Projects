@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Rogers
+  email: jessica.rogers9867@business.net
+  phone: 846-275-2468
+  ssn: 509 19 4871
+  dob: 17/01/1957
+  address: 4061 Oak Court
+  city: Washington
+  state: PA

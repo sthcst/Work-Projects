@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Lee",
+    "email": "christopher.lee6271@outlook.com",
+    "phone": "823-563-1988",
+    "ssn": "845-20-1253",
+    "dob": "08/28/1975",
+    "address": "8623 Summer Dr",
+    "city": "Seattle",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Parker",
+    "email": "angela.parker3232@work.org",
+    "phone": "750 544 1741",
+    "ssn": "190 56 8251",
+    "dob": "5/28/1993",
+    "address": "6901 North Dr",
+    "city": "San Diego",
+    "state": "CO"
+  }
+}

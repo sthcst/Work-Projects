@@ -1,0 +1,9 @@
+contact:
+  name: Gary Jackson
+  email: gary.jackson4805@work.org
+  phone: (441) 260-1306
+  ssn: 823406660
+  dob: 08-18-1986
+  address: 4706 Fifth St
+  city: Denver
+  state: CA

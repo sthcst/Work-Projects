@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Garcia",
+    "email": "lisa.garcia2222@work.org",
+    "phone": "(714) 689-8169",
+    "ssn": "386808601",
+    "dob": "03/28/1982",
+    "address": "5607 Third St",
+    "city": "Denver",
+    "state": "AZ"
+  }
+}

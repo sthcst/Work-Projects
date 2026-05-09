@@ -1,0 +1,14 @@
+INVOICE 279894
+
+Bill To:
+Name: Nicholas Nelson
+Email: nicholas.nelson3890@mail.com
+Phone: 360-571-9766
+SSN: 200 85 4326
+
+Address: 391 Spring Ave
+Phoenix, CA
+
+Date of Birth: 02/06/1999
+
+Amount Due: $7219

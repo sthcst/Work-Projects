@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Jackson",
+    "email": "angela.jackson8197@outlook.com",
+    "phone": "(619) 248-5260",
+    "ssn": "741-16-7689",
+    "dob": "04/16/1987",
+    "address": "4760 West Ln",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

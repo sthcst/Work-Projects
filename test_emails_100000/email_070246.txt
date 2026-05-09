@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Collins",
+    "email": "jeffrey.collins4275@outlook.com",
+    "phone": "205 260 2390",
+    "ssn": "884 74 8485",
+    "dob": "11/17/2000",
+    "address": "5798 Birch Way",
+    "city": "Austin",
+    "state": "OH"
+  }
+}

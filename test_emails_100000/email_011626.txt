@@ -1,0 +1,9 @@
+contact:
+  name: Emma Martin
+  email: emma.martin4861@outlook.com
+  phone: (222) 879-8413
+  ssn: 704404472
+  dob: 21/03/1988
+  address: 1130 East Court
+  city: Jacksonville
+  state: OH

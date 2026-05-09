@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Jimenez",
+    "email": "jane.jimenez6808@example.com",
+    "phone": "321-389-2670",
+    "ssn": "975331899",
+    "dob": "11/09/1976",
+    "address": "3685 South Ln",
+    "city": "San Diego",
+    "state": "CO"
+  }
+}

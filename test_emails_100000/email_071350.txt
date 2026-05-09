@@ -1,0 +1,14 @@
+INVOICE 875719
+
+Bill To:
+Name: Timothy Young
+Email: timothy.young6086@work.org
+Phone: 287 234 9510
+SSN: 064-98-6595
+
+Address: 1827 Birch Rd
+Boston, WI
+
+Date of Birth: 11/25/1968
+
+Amount Due: $1511

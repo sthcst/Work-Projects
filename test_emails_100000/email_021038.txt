@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Taylor,katherine.taylor9129@mail.com,603-423-2589,046 56 5508,04-17-1967,"4567 North St",Austin,AZ

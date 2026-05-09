@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Brown",
+    "email": "christine.brown91@company.com",
+    "phone": "(504) 462-8804",
+    "ssn": "264 87 2235",
+    "dob": "26/02/1983",
+    "address": "6978 Third Rd",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

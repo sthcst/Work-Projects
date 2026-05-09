@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Delgado",
+    "email": "kenneth.delgado5989@yahoo.com",
+    "phone": "+1 313-899-2837",
+    "ssn": "571373882",
+    "dob": "7/9/1992",
+    "address": "4795 Spring Way",
+    "city": "San Antonio",
+    "state": "CO"
+  }
+}

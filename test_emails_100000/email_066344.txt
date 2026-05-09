@@ -1,0 +1,14 @@
+INVOICE 391966
+
+Bill To:
+Name: Matthew Delgado
+Email: matthew.delgado1332@example.com
+Phone: 962 938 6572
+SSN: 450892314
+
+Address: 5235 Park Court
+Denver, TN
+
+Date of Birth: 23/11/1982
+
+Amount Due: $7347

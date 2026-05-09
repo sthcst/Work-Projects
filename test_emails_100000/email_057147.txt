@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Jimenez",
+    "email": "matthew.jimenez6350@work.org",
+    "phone": "(231) 230-2779",
+    "ssn": "369683032",
+    "dob": "14/07/1959",
+    "address": "905 Spring Ln",
+    "city": "Los Angeles",
+    "state": "DC"
+  }
+}

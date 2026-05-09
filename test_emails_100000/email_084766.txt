@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Robinson",
+    "email": "gary.robinson7504@mail.com",
+    "phone": "815 712 7612",
+    "ssn": "512172910",
+    "dob": "12-28-1981",
+    "address": "7434 North Ave",
+    "city": "Austin",
+    "state": "AZ"
+  }
+}

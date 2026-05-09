@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Reeves",
+    "email": "donald.reeves8920@example.com",
+    "phone": "986 790 3084",
+    "ssn": "900857868",
+    "dob": "11/26/1994",
+    "address": "16 Fourth Court",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Anderson",
+    "email": "michelle.anderson4626@gmail.com",
+    "phone": "+1 288-636-5972",
+    "ssn": "555 94 4570",
+    "dob": "04-19-1958",
+    "address": "3577 Third Rd",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

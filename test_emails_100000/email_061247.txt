@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Martin",
+    "email": "angela.martin7238@mail.com",
+    "phone": "(388) 435-2992",
+    "ssn": "199-04-8790",
+    "dob": "05/07/1998",
+    "address": "9757 Elm St",
+    "city": "Washington",
+    "state": "NY"
+  }
+}

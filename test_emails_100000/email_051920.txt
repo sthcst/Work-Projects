@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Bell",
+    "email": "edward.bell5645@outlook.com",
+    "phone": "(706) 927-8828",
+    "ssn": "594-28-3790",
+    "dob": "12-24-1979",
+    "address": "3356 Pine Blvd",
+    "city": "San Antonio",
+    "state": "MI"
+  }
+}

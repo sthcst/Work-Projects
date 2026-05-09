@@ -1,0 +1,14 @@
+INVOICE 684014
+
+Bill To:
+Name: Nicholas Ortiz
+Email: nicholas.ortiz6903@company.com
+Phone: +1 513-991-3355
+SSN: 406985179
+
+Address: 7187 Elm Court
+San Jose, FL
+
+Date of Birth: 06/08/1992
+
+Amount Due: $9662

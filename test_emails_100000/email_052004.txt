@@ -1,0 +1,14 @@
+INVOICE 323731
+
+Bill To:
+Name: Joshua Stewart
+Email: joshua.stewart131@example.com
+Phone: 563-808-5870
+SSN: 795 60 8582
+
+Address: 9349 Maple Blvd
+Denver, GA
+
+Date of Birth: 8/13/1983
+
+Amount Due: $6364

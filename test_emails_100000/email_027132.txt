@@ -1,0 +1,9 @@
+contact:
+  name: Gary Moore
+  email: gary.moore6855@work.org
+  phone: 935 835 2482
+  ssn: 317-77-6922
+  dob: 07-08-2001
+  address: 1135 Main Way
+  city: Houston
+  state: CA

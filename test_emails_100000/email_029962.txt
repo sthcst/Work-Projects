@@ -1,0 +1,9 @@
+contact:
+  name: Emma Williams
+  email: emma.williams1374@outlook.com
+  phone: 417-614-6275
+  ssn: 403-22-8632
+  dob: 20/04/1980
+  address: 1994 Sixth St
+  city: Denver
+  state: GA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Lewis",
+    "email": "andrew.lewis5392@yahoo.com",
+    "phone": "606-763-3997",
+    "ssn": "437 77 8182",
+    "dob": "05/25/1999",
+    "address": "7929 Sixth Dr",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

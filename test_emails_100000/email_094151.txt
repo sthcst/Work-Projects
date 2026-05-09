@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Reyes
+  email: katherine.reyes4968@example.com
+  phone: 440-804-7002
+  ssn: 406919396
+  dob: 02/12/1959
+  address: 8282 Fifth Way
+  city: Dallas
+  state: OH

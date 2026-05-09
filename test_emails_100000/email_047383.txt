@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth White,kenneth.white3471@mail.com,(265) 942-5000,969-51-6447,8/25/1970,"270 East Way",Washington,WA

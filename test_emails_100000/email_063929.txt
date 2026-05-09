@@ -1,0 +1,14 @@
+INVOICE 788508
+
+Bill To:
+Name: Robert Jackson
+Email: robert.jackson1833@business.net
+Phone: (936) 444-3350
+SSN: 481-04-6513
+
+Address: 2878 Second Blvd
+Washington, MD
+
+Date of Birth: 17/09/1962
+
+Amount Due: $8786

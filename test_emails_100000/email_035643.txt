@@ -1,0 +1,14 @@
+INVOICE 313019
+
+Bill To:
+Name: Robert Ortiz
+Email: robert.ortiz3742@work.org
+Phone: 523-436-4351
+SSN: 255011844
+
+Address: 4816 Sixth Dr
+Chicago, NC
+
+Date of Birth: 11-15-1961
+
+Amount Due: $4482

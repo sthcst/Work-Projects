@@ -1,0 +1,14 @@
+INVOICE 984636
+
+Bill To:
+Name: Amanda Serrano
+Email: amanda.serrano4893@company.com
+Phone: 243 615 7378
+SSN: 452 85 8755
+
+Address: 4022 Birch Dr
+Phoenix, VA
+
+Date of Birth: 6/3/1977
+
+Amount Due: $867

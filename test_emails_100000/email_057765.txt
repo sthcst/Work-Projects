@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Clark
+  email: jennifer.clark2041@mail.com
+  phone: 976 265 9657
+  ssn: 745-29-8789
+  dob: 21/03/1971
+  address: 3916 Elm Court
+  city: Chicago
+  state: TX

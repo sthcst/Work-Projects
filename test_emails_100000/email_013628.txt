@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Romero,nicole.romero7169@work.org,454-905-1522,781-61-5370,08/23/1986,"7137 First Ave",Los Angeles,MD

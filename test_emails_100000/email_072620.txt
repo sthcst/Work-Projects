@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Dominguez",
+    "email": "matthew.dominguez3179@company.com",
+    "phone": "+1 242-979-3144",
+    "ssn": "783 02 9309",
+    "dob": "12-06-1963",
+    "address": "3644 Third Ln",
+    "city": "Austin",
+    "state": "IL"
+  }
+}

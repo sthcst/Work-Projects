@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Harris,steven.harris2927@gmail.com,864-647-5274,330-92-1680,11/20/1979,"4181 West St",Dallas,NC

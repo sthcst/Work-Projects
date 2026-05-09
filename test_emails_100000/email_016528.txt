@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Thompson",
+    "email": "samantha.thompson1342@mail.com",
+    "phone": "484-834-8408",
+    "ssn": "712 88 5904",
+    "dob": "3/4/1960",
+    "address": "6429 West Blvd",
+    "city": "San Antonio",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Garcia
+  email: brenda.garcia8795@gmail.com
+  phone: +1 774-385-5423
+  ssn: 145328765
+  dob: 13/08/1994
+  address: 5251 Birch Rd
+  city: San Diego
+  state: NC

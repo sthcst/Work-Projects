@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Rodriguez",
+    "email": "james.rodriguez5913@yahoo.com",
+    "phone": "770-902-6521",
+    "ssn": "426969759",
+    "dob": "07-04-1971",
+    "address": "6062 Birch Blvd",
+    "city": "Chicago",
+    "state": "WA"
+  }
+}

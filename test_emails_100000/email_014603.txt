@@ -1,0 +1,9 @@
+contact:
+  name: Christine Jackson
+  email: christine.jackson5153@outlook.com
+  phone: +1 668-227-1470
+  ssn: 593 64 6863
+  dob: 08-27-1991
+  address: 8796 Maple Rd
+  city: Los Angeles
+  state: OH

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Rodriguez",
+    "email": "jeffrey.rodriguez6728@company.com",
+    "phone": "+1 565-357-8633",
+    "ssn": "464-60-3151",
+    "dob": "5/8/1979",
+    "address": "5963 Park Way",
+    "city": "Houston",
+    "state": "FL"
+  }
+}

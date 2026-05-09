@@ -1,0 +1,14 @@
+INVOICE 204377
+
+Bill To:
+Name: Shirley Thomas
+Email: shirley.thomas2418@mail.com
+Phone: +1 718-879-4223
+SSN: 526 58 1112
+
+Address: 5411 Maple Dr
+Chicago, FL
+
+Date of Birth: 02-21-1991
+
+Amount Due: $6087

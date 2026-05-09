@@ -1,0 +1,9 @@
+contact:
+  name: Robert Reed
+  email: robert.reed7492@gmail.com
+  phone: (368) 708-5257
+  ssn: 467 81 3484
+  dob: 22/09/1954
+  address: 3830 Main Court
+  city: San Jose
+  state: TN

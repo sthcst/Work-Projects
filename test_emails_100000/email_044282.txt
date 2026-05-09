@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Martin",
+    "email": "michael.martin2857@yahoo.com",
+    "phone": "+1 910-966-5473",
+    "ssn": "552-61-2066",
+    "dob": "10-17-1998",
+    "address": "7851 Fourth Blvd",
+    "city": "San Jose",
+    "state": "DC"
+  }
+}

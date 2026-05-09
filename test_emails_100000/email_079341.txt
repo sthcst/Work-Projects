@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Stewart,michelle.stewart1532@business.net,926 897 8205,021 74 5176,03/20/1966,"5869 North Rd",New York,MA

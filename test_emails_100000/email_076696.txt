@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Collins",
+    "email": "shirley.collins437@outlook.com",
+    "phone": "313 329 2428",
+    "ssn": "464314892",
+    "dob": "28/01/2000",
+    "address": "5412 Birch Way",
+    "city": "Seattle",
+    "state": "AZ"
+  }
+}

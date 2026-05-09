@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Morris
+  email: rachel.morris9408@yahoo.com
+  phone: 984-796-7568
+  ssn: 764 06 8308
+  dob: 12/17/1976
+  address: 6114 Fourth Rd
+  city: Austin
+  state: CO

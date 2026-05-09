@@ -1,0 +1,14 @@
+INVOICE 583017
+
+Bill To:
+Name: Robert Clark
+Email: robert.clark7708@mail.com
+Phone: (527) 901-2513
+SSN: 416239422
+
+Address: 3852 Main Rd
+Los Angeles, TX
+
+Date of Birth: 06-11-1999
+
+Amount Due: $7590

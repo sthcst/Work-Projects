@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Gonzalez
+  email: nicholas.gonzalez7033@yahoo.com
+  phone: 834-769-5671
+  ssn: 918 47 3825
+  dob: 10/17/1975
+  address: 6196 Spring Ave
+  city: Chicago
+  state: AZ

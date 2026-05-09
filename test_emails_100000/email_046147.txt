@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Gomez",
+    "email": "brian.gomez8607@example.com",
+    "phone": "+1 869-528-3870",
+    "ssn": "933528452",
+    "dob": "10-17-1991",
+    "address": "6804 Sixth St",
+    "city": "Austin",
+    "state": "AZ"
+  }
+}

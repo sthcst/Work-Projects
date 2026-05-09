@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Nelson,george.nelson702@business.net,(818) 636-5516,956184501,9/17/2001,"5469 Fifth Ln",Philadelphia,MD

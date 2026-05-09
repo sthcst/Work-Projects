@@ -1,0 +1,9 @@
+contact:
+  name: Angela Murillo
+  email: angela.murillo994@example.com
+  phone: 678 416 3824
+  ssn: 056-09-1105
+  dob: 09-04-1957
+  address: 9776 East Way
+  city: Houston
+  state: PA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Roberts,william.roberts3573@work.org,(694) 487-2902,387-89-7112,5/18/1970,"5012 Park Ave",Denver,CO

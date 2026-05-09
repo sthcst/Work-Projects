@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Peterson",
+    "email": "angela.peterson9662@business.net",
+    "phone": "349-888-7281",
+    "ssn": "354613156",
+    "dob": "03/04/2001",
+    "address": "9479 Spring St",
+    "city": "Seattle",
+    "state": "NY"
+  }
+}

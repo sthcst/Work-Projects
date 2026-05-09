@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Garcia",
+    "email": "steven.garcia931@example.com",
+    "phone": "(387) 582-3337",
+    "ssn": "744 91 3949",
+    "dob": "09/03/1996",
+    "address": "1511 East Rd",
+    "city": "Los Angeles",
+    "state": "IL"
+  }
+}

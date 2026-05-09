@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Phillips",
+    "email": "rachel.phillips7790@mail.com",
+    "phone": "+1 795-233-6694",
+    "ssn": "816 55 6222",
+    "dob": "6/21/1971",
+    "address": "5126 Sixth Way",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Collins",
+    "email": "kimberly.collins2171@example.com",
+    "phone": "525 358 6734",
+    "ssn": "402-92-6028",
+    "dob": "1/9/1996",
+    "address": "6516 Maple St",
+    "city": "Washington",
+    "state": "AZ"
+  }
+}

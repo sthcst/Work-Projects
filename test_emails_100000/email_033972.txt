@@ -1,0 +1,14 @@
+INVOICE 255967
+
+Bill To:
+Name: Christopher Nelson
+Email: christopher.nelson5684@yahoo.com
+Phone: (604) 604-2198
+SSN: 893-39-2676
+
+Address: 2868 Pine Blvd
+Washington, CA
+
+Date of Birth: 09/24/1975
+
+Amount Due: $5958

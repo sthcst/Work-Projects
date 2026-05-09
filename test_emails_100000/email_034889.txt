@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Perez",
+    "email": "shirley.perez4300@mail.com",
+    "phone": "734-252-8855",
+    "ssn": "129 25 1107",
+    "dob": "12-03-1988",
+    "address": "8785 North Dr",
+    "city": "Houston",
+    "state": "WI"
+  }
+}

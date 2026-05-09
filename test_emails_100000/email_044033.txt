@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Alvarado
+  email: kenneth.alvarado9124@mail.com
+  phone: 348-556-4493
+  ssn: 265404168
+  dob: 2/26/1954
+  address: 1507 Third St
+  city: Jacksonville
+  state: WI

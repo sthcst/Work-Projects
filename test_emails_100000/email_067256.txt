@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Roberts
+  email: lisa.roberts1472@yahoo.com
+  phone: +1 620-458-1041
+  ssn: 272-68-3738
+  dob: 9/3/1968
+  address: 5798 Third Court
+  city: Boston
+  state: NC

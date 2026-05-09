@@ -1,0 +1,9 @@
+contact:
+  name: Emily Rodriguez
+  email: emily.rodriguez8306@yahoo.com
+  phone: +1 345-285-4122
+  ssn: 190-05-7985
+  dob: 06-21-1961
+  address: 7036 Maple Dr
+  city: Houston
+  state: FL

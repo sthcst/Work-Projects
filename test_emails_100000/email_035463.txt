@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Gomez
+  email: katherine.gomez8522@work.org
+  phone: 205-461-3739
+  ssn: 111 70 7705
+  dob: 8/8/1984
+  address: 3143 Second Dr
+  city: Seattle
+  state: NJ

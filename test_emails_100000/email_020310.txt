@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Martinez,sarah.martinez4668@yahoo.com,+1 752-440-6927,778 32 5653,11/15/1976,"1209 Elm Dr",San Antonio,PA

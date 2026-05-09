@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Wilson",
+    "email": "deborah.wilson1574@outlook.com",
+    "phone": "567 663 3564",
+    "ssn": "861 76 6188",
+    "dob": "07/04/1950",
+    "address": "642 Second Ave",
+    "city": "New York",
+    "state": "NJ"
+  }
+}

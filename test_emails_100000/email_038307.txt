@@ -1,0 +1,14 @@
+INVOICE 731253
+
+Bill To:
+Name: Katherine Reeves
+Email: katherine.reeves7797@company.com
+Phone: 408-575-5528
+SSN: 039031609
+
+Address: 7737 Fourth Dr
+Jacksonville, AZ
+
+Date of Birth: 11/07/1964
+
+Amount Due: $2491

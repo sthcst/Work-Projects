@@ -1,0 +1,9 @@
+contact:
+  name: Mark Jimenez
+  email: mark.jimenez9239@gmail.com
+  phone: 940 620 3452
+  ssn: 367 80 5698
+  dob: 12/03/1996
+  address: 7947 North Rd
+  city: Austin
+  state: VA

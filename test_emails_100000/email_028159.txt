@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Nelson,rebecca.nelson6377@mail.com,+1 601-743-2016,126061647,3/12/1969,"7630 Elm Court",San Antonio,CO

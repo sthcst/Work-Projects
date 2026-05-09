@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Stewart",
+    "email": "paul.stewart3824@example.com",
+    "phone": "+1 536-427-8967",
+    "ssn": "547-79-8630",
+    "dob": "20/07/1969",
+    "address": "3990 Second Ave",
+    "city": "Chicago",
+    "state": "CO"
+  }
+}

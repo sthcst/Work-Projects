@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Roberts",
+    "email": "anthony.roberts1078@mail.com",
+    "phone": "690 913 8166",
+    "ssn": "253-33-6429",
+    "dob": "21/07/1971",
+    "address": "9677 Pine Blvd",
+    "city": "New York",
+    "state": "WA"
+  }
+}

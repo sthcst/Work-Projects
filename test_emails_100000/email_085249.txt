@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Alvarado",
+    "email": "daniel.alvarado365@mail.com",
+    "phone": "239 717 2149",
+    "ssn": "120132923",
+    "dob": "08-06-1997",
+    "address": "8113 North Ave",
+    "city": "Denver",
+    "state": "CO"
+  }
+}

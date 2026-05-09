@@ -1,0 +1,14 @@
+INVOICE 974705
+
+Bill To:
+Name: Megan Delgado
+Email: megan.delgado1615@example.com
+Phone: 607-299-2784
+SSN: 672-17-7003
+
+Address: 8105 Fifth St
+New York, CA
+
+Date of Birth: 10-15-1955
+
+Amount Due: $8046

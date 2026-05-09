@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Murillo,brian.murillo4660@yahoo.com,+1 848-690-2508,392-60-1455,02/11/1999,"4414 Oak St",Chicago,WA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Gonzalez",
+    "email": "michelle.gonzalez8526@gmail.com",
+    "phone": "(784) 382-2466",
+    "ssn": "097 23 6036",
+    "dob": "7/28/1979",
+    "address": "8157 South Way",
+    "city": "Austin",
+    "state": "WA"
+  }
+}

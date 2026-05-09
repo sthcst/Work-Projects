@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Williams",
+    "email": "helen.williams8294@example.com",
+    "phone": "+1 923-934-6329",
+    "ssn": "681452540",
+    "dob": "07/03/1969",
+    "address": "6622 Sixth Court",
+    "city": "Dallas",
+    "state": "VA"
+  }
+}

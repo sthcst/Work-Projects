@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Collins",
+    "email": "ryan.collins2506@example.com",
+    "phone": "(677) 257-9994",
+    "ssn": "405 73 2647",
+    "dob": "11/14/1996",
+    "address": "2519 Oak Way",
+    "city": "San Antonio",
+    "state": "NC"
+  }
+}

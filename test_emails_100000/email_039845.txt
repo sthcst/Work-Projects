@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Martinez
+  email: lauren.martinez6692@outlook.com
+  phone: (782) 810-1190
+  ssn: 377921409
+  dob: 7/10/1999
+  address: 4163 Cedar Rd
+  city: San Jose
+  state: AZ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Garcia",
+    "email": "anna.garcia1651@mail.com",
+    "phone": "735-817-5936",
+    "ssn": "314-50-8618",
+    "dob": "12/03/1963",
+    "address": "3919 South Way",
+    "city": "Dallas",
+    "state": "VA"
+  }
+}

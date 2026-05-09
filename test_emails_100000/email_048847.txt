@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Morgan",
+    "email": "jacob.morgan4459@work.org",
+    "phone": "+1 347-927-5444",
+    "ssn": "181572554",
+    "dob": "3/1/1953",
+    "address": "552 Spring Ln",
+    "city": "New York",
+    "state": "NJ"
+  }
+}

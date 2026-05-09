@@ -1,0 +1,14 @@
+INVOICE 370760
+
+Bill To:
+Name: Maria Smith
+Email: maria.smith4758@outlook.com
+Phone: +1 683-266-9711
+SSN: 468-90-4925
+
+Address: 6084 Third Ave
+Boston, OH
+
+Date of Birth: 03-19-1957
+
+Amount Due: $6300

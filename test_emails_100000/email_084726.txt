@@ -1,0 +1,14 @@
+INVOICE 688423
+
+Bill To:
+Name: Christine Taylor
+Email: christine.taylor665@example.com
+Phone: (652) 806-4090
+SSN: 817 99 7790
+
+Address: 6749 Main Way
+Denver, IL
+
+Date of Birth: 10-08-2004
+
+Amount Due: $5216

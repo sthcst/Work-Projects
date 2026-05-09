@@ -1,0 +1,14 @@
+INVOICE 856925
+
+Bill To:
+Name: Richard Anderson
+Email: richard.anderson5791@work.org
+Phone: (278) 572-2107
+SSN: 891285914
+
+Address: 987 Fifth Ave
+Los Angeles, FL
+
+Date of Birth: 01/08/1994
+
+Amount Due: $215

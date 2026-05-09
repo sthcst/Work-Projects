@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Matthew Alvarado,matthew.alvarado2407@company.com,339 465 4035,100 54 1823,10/20/1974,"7522 Park Ave",Denver,PA

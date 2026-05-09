@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Perez",
+    "email": "charles.perez5363@company.com",
+    "phone": "435-344-8810",
+    "ssn": "905 76 4490",
+    "dob": "3/18/1975",
+    "address": "7260 Main Rd",
+    "city": "San Antonio",
+    "state": "NJ"
+  }
+}

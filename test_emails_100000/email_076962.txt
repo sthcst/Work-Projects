@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Cooper",
+    "email": "angela.cooper7848@work.org",
+    "phone": "+1 921-277-8079",
+    "ssn": "796-50-9790",
+    "dob": "19/02/2002",
+    "address": "6062 Park Way",
+    "city": "Austin",
+    "state": "CO"
+  }
+}

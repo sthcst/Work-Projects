@@ -1,0 +1,9 @@
+contact:
+  name: Emma Lewis
+  email: emma.lewis7303@work.org
+  phone: 402-375-9270
+  ssn: 403 83 7392
+  dob: 02/09/1966
+  address: 6020 West Dr
+  city: Houston
+  state: NJ

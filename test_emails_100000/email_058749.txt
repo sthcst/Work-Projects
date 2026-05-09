@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan White",
+    "email": "megan.white5654@yahoo.com",
+    "phone": "360 365 9027",
+    "ssn": "328 05 2380",
+    "dob": "9/16/1977",
+    "address": "4909 Oak Ave",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

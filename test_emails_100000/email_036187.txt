@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Bell,kevin.bell4135@outlook.com,+1 632-681-3763,428119670,22/12/1965,"3147 Second Court",Seattle,TX

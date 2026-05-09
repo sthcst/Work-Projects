@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Ramirez",
+    "email": "anthony.ramirez839@yahoo.com",
+    "phone": "692-282-5824",
+    "ssn": "445-22-9021",
+    "dob": "6/4/1974",
+    "address": "3984 Sixth Rd",
+    "city": "Phoenix",
+    "state": "WA"
+  }
+}

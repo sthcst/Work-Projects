@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Morris,katherine.morris4691@gmail.com,+1 831-550-4016,032 92 6554,2/13/2001,"8801 Cedar Way",Chicago,OH

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Walker,timothy.walker3630@example.com,463-225-6757,932 50 1208,12/11/2005,"2559 Second St",New York,AZ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Evans,richard.evans5220@business.net,(707) 415-1423,003012177,8/4/1983,"5484 Spring St",Phoenix,CA

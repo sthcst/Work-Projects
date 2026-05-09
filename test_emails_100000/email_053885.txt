@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Carter,william.carter676@yahoo.com,874-437-4636,187 53 1962,12/15/1997,"9365 Second Dr",Denver,MO

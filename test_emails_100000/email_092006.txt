@@ -1,0 +1,14 @@
+INVOICE 455839
+
+Bill To:
+Name: David Hernandez
+Email: david.hernandez7284@example.com
+Phone: (801) 929-8317
+SSN: 223942599
+
+Address: 1916 Summer Ave
+Houston, TX
+
+Date of Birth: 02/04/1952
+
+Amount Due: $5057

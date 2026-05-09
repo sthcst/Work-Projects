@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Thomas
+  email: lisa.thomas3363@mail.com
+  phone: +1 392-873-1829
+  ssn: 789 96 7788
+  dob: 11/03/1993
+  address: 4873 Pine Blvd
+  city: Denver
+  state: CA

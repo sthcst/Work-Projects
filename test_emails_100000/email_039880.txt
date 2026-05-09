@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Miller,ryan.miller7654@work.org,(205) 622-7748,233345244,02/20/1995,"4901 Summer Way",Austin,TX

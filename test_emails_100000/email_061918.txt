@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Brown
+  email: deborah.brown4359@company.com
+  phone: 342-527-2512
+  ssn: 768375374
+  dob: 11/13/1960
+  address: 1539 North Rd
+  city: Dallas
+  state: MO

@@ -1,0 +1,9 @@
+contact:
+  name: Anna Lee
+  email: anna.lee555@mail.com
+  phone: +1 308-796-4354
+  ssn: 776 73 2285
+  dob: 06/11/2002
+  address: 3839 Fifth Ave
+  city: New York
+  state: NY

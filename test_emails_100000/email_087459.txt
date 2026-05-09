@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Morris",
+    "email": "charles.morris7439@yahoo.com",
+    "phone": "790 337 4565",
+    "ssn": "122 75 3181",
+    "dob": "2/4/2001",
+    "address": "2275 Elm Court",
+    "city": "Houston",
+    "state": "FL"
+  }
+}

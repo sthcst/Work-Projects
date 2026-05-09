@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Edwards",
+    "email": "nicole.edwards4288@example.com",
+    "phone": "+1 460-218-9544",
+    "ssn": "709-02-2005",
+    "dob": "09/26/1957",
+    "address": "5776 Sixth Way",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

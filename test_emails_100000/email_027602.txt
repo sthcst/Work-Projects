@@ -1,0 +1,9 @@
+contact:
+  name: Jason White
+  email: jason.white6140@company.com
+  phone: 900-272-6917
+  ssn: 013395745
+  dob: 01/08/1952
+  address: 6237 Spring St
+  city: Washington
+  state: WI

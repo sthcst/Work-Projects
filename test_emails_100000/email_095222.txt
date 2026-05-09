@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Murillo,michael.murillo1480@gmail.com,379 590 4721,249762458,04/02/1984,"7623 Pine Blvd",Washington,CO

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Williams",
+    "email": "edward.williams729@business.net",
+    "phone": "(377) 700-1965",
+    "ssn": "343325947",
+    "dob": "02/16/2002",
+    "address": "8782 Pine Way",
+    "city": "Boston",
+    "state": "MO"
+  }
+}

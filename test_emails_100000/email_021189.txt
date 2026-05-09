@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Serrano",
+    "email": "steven.serrano2255@work.org",
+    "phone": "+1 517-783-6730",
+    "ssn": "098 49 4008",
+    "dob": "01-21-1986",
+    "address": "7230 Birch Blvd",
+    "city": "San Diego",
+    "state": "MA"
+  }
+}

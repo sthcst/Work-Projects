@@ -1,0 +1,9 @@
+contact:
+  name: Steven Garcia
+  email: steven.garcia3437@company.com
+  phone: +1 801-823-2894
+  ssn: 415 10 9411
+  dob: 01/12/1960
+  address: 6543 First St
+  city: Denver
+  state: TX

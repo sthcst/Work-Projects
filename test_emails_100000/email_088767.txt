@@ -1,0 +1,9 @@
+contact:
+  name: Helen Martin
+  email: helen.martin3476@example.com
+  phone: 872-569-3013
+  ssn: 313-81-1819
+  dob: 03/08/1984
+  address: 3961 Maple Way
+  city: Phoenix
+  state: NY

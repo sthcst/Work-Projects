@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Smith
+  email: kenneth.smith9727@business.net
+  phone: 604-386-3479
+  ssn: 150 40 2893
+  dob: 06-16-1954
+  address: 1527 South Way
+  city: Boston
+  state: TN

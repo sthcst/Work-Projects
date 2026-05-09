@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Bell",
+    "email": "john.bell7987@company.com",
+    "phone": "+1 986-817-3856",
+    "ssn": "266 58 3407",
+    "dob": "04/03/2005",
+    "address": "4794 Third Court",
+    "city": "New York",
+    "state": "WA"
+  }
+}

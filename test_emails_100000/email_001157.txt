@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Parker
+  email: katherine.parker2703@work.org
+  phone: 829 432 8081
+  ssn: 415 87 4686
+  dob: 23/08/1999
+  address: 7245 Elm Dr
+  city: New York
+  state: TX

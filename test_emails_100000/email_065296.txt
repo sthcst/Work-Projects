@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Davis
+  email: lauren.davis5466@company.com
+  phone: 229 356 9697
+  ssn: 662 27 2747
+  dob: 10/03/1976
+  address: 460 Elm Court
+  city: Boston
+  state: MD

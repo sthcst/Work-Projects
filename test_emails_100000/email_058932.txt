@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Clark,angela.clark4097@business.net,(498) 848-7337,538 16 6810,09/02/1975,"2241 First Dr",Houston,DC

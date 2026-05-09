@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Jackson",
+    "email": "lisa.jackson3224@gmail.com",
+    "phone": "997-385-8207",
+    "ssn": "987-22-6830",
+    "dob": "1/17/1982",
+    "address": "3904 Elm Dr",
+    "city": "Dallas",
+    "state": "VA"
+  }
+}

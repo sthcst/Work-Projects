@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Ortiz",
+    "email": "maria.ortiz2458@outlook.com",
+    "phone": "500 753 5598",
+    "ssn": "409 22 3328",
+    "dob": "24/12/1962",
+    "address": "6541 South Rd",
+    "city": "San Diego",
+    "state": "MI"
+  }
+}

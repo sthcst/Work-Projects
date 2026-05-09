@@ -1,0 +1,14 @@
+INVOICE 553938
+
+Bill To:
+Name: Amanda Thompson
+Email: amanda.thompson5643@company.com
+Phone: (420) 842-3631
+SSN: 090-42-1350
+
+Address: 5334 South Rd
+Boston, MD
+
+Date of Birth: 4/24/1963
+
+Amount Due: $7646

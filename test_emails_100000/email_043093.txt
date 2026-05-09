@@ -1,0 +1,9 @@
+contact:
+  name: Jane Murillo
+  email: jane.murillo7781@gmail.com
+  phone: (308) 799-6083
+  ssn: 835122077
+  dob: 27/01/1977
+  address: 5102 Second Blvd
+  city: Phoenix
+  state: GA

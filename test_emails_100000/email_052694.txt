@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly White",
+    "email": "kimberly.white8564@example.com",
+    "phone": "+1 707-772-4810",
+    "ssn": "609-65-8352",
+    "dob": "6/6/1999",
+    "address": "8809 Second Ln",
+    "city": "Los Angeles",
+    "state": "NC"
+  }
+}

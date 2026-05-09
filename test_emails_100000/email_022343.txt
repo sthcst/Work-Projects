@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Ortiz,timothy.ortiz5574@company.com,+1 286-992-7116,784 13 9002,11-24-1966,"645 Elm Dr",San Jose,WA

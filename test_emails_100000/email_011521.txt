@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Davis
+  email: lauren.davis6546@work.org
+  phone: (599) 861-8305
+  ssn: 751-10-3393
+  dob: 07-12-1980
+  address: 6924 North St
+  city: Los Angeles
+  state: PA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Jones",
+    "email": "samantha.jones9395@yahoo.com",
+    "phone": "811-510-6325",
+    "ssn": "659571371",
+    "dob": "02/25/2002",
+    "address": "8259 Second Court",
+    "city": "Phoenix",
+    "state": "VA"
+  }
+}

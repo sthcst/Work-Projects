@@ -1,0 +1,14 @@
+INVOICE 358621
+
+Bill To:
+Name: Helen Young
+Email: helen.young2396@example.com
+Phone: 794 538 4855
+SSN: 584415259
+
+Address: 8059 North Blvd
+Boston, PA
+
+Date of Birth: 09/05/2004
+
+Amount Due: $2242

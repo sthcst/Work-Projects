@@ -1,0 +1,9 @@
+contact:
+  name: Jane Alvarado
+  email: jane.alvarado4432@gmail.com
+  phone: (351) 250-8983
+  ssn: 772 72 4439
+  dob: 26/10/2004
+  address: 4248 West Court
+  city: Boston
+  state: MA

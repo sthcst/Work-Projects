@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Brown
+  email: lauren.brown8336@mail.com
+  phone: +1 251-829-2270
+  ssn: 927-24-3488
+  dob: 7/1/1973
+  address: 5858 Fourth Rd
+  city: San Antonio
+  state: TX

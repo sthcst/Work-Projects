@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Collins
+  email: katherine.collins9288@work.org
+  phone: (429) 526-5547
+  ssn: 560 99 5657
+  dob: 8/1/1989
+  address: 291 Sixth Ave
+  city: San Jose
+  state: FL

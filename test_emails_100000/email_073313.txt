@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Thomas,helen.thomas1459@outlook.com,591-556-2277,486-39-6146,19/12/1950,"1260 First Ave",Philadelphia,NC

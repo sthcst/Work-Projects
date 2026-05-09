@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Nelson,donald.nelson8056@yahoo.com,855 860 4449,686497314,01-17-1952,"7133 Elm Way",San Diego,MA

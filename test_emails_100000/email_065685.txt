@@ -1,0 +1,14 @@
+INVOICE 640597
+
+Bill To:
+Name: Christine Rodriguez
+Email: christine.rodriguez6083@mail.com
+Phone: +1 290-458-2154
+SSN: 148049284
+
+Address: 3124 Fourth Ln
+Boston, MD
+
+Date of Birth: 01/18/1964
+
+Amount Due: $2223

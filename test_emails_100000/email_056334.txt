@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Lewis",
+    "email": "kimberly.lewis9449@mail.com",
+    "phone": "+1 967-350-2823",
+    "ssn": "482-70-4993",
+    "dob": "03-28-1952",
+    "address": "150 Fifth Dr",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

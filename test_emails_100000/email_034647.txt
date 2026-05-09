@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Harris
+  email: timothy.harris8282@outlook.com
+  phone: 601-759-8005
+  ssn: 040 66 1633
+  dob: 20/01/2005
+  address: 9420 East Court
+  city: Phoenix
+  state: MO

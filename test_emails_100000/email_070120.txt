@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Brown,jessica.brown4164@outlook.com,506 721 9412,563 30 1470,02/04/1962,"8643 Main Dr",Phoenix,AZ

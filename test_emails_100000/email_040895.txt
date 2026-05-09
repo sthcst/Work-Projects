@@ -1,0 +1,14 @@
+INVOICE 597432
+
+Bill To:
+Name: Emma Lewis
+Email: emma.lewis7873@company.com
+Phone: (511) 924-6939
+SSN: 640907497
+
+Address: 1790 Oak Rd
+Jacksonville, WI
+
+Date of Birth: 18/07/1966
+
+Amount Due: $616

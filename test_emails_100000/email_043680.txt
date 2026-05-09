@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Parker,edward.parker4823@company.com,323 734 3776,923 74 6743,05/05/1983,"8024 Third St",Philadelphia,WA

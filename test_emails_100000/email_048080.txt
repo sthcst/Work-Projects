@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Lee",
+    "email": "brenda.lee8507@mail.com",
+    "phone": "370-371-4086",
+    "ssn": "890-05-8610",
+    "dob": "12/16/1979",
+    "address": "9549 East St",
+    "city": "Seattle",
+    "state": "DC"
+  }
+}

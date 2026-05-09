@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Murillo,donald.murillo965@outlook.com,983 224 1331,897 94 4854,27/02/1960,"507 East Blvd",Chicago,TN

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Anderson",
+    "email": "jennifer.anderson7686@work.org",
+    "phone": "264-384-8504",
+    "ssn": "300-98-3616",
+    "dob": "12/3/1959",
+    "address": "2753 West Way",
+    "city": "Los Angeles",
+    "state": "CO"
+  }
+}

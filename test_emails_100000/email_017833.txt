@@ -1,0 +1,14 @@
+INVOICE 111728
+
+Bill To:
+Name: Angela Alvarado
+Email: angela.alvarado748@yahoo.com
+Phone: +1 238-645-3876
+SSN: 725846745
+
+Address: 5008 East Ln
+Houston, OH
+
+Date of Birth: 2/8/1996
+
+Amount Due: $5093

@@ -1,0 +1,9 @@
+contact:
+  name: Brian Morgan
+  email: brian.morgan7086@work.org
+  phone: (538) 679-2511
+  ssn: 231-88-4988
+  dob: 08-01-1965
+  address: 4128 Birch Way
+  city: Houston
+  state: IL

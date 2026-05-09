@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Dominguez",
+    "email": "nicole.dominguez2174@mail.com",
+    "phone": "340-926-8537",
+    "ssn": "118 91 8965",
+    "dob": "2/1/1998",
+    "address": "4195 Main Ave",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Harris,nicholas.harris4742@company.com,482 801 8109,404 32 1059,11/14/1964,"7546 East Ln",Dallas,IL

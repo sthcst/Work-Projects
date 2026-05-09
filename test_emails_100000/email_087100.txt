@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Campbell
+  email: shirley.campbell5647@company.com
+  phone: 778 649 6929
+  ssn: 919-18-1700
+  dob: 6/7/1980
+  address: 8166 Park Ave
+  city: Jacksonville
+  state: FL

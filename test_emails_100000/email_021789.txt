@@ -1,0 +1,14 @@
+INVOICE 189507
+
+Bill To:
+Name: Timothy Murillo
+Email: timothy.murillo4238@example.com
+Phone: 902-538-4899
+SSN: 023-64-2720
+
+Address: 6902 East St
+New York, AZ
+
+Date of Birth: 09-16-2001
+
+Amount Due: $1666

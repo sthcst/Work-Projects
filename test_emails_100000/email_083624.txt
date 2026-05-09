@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Rogers",
+    "email": "daniel.rogers9419@outlook.com",
+    "phone": "450 204 6811",
+    "ssn": "491 47 3359",
+    "dob": "1/20/1982",
+    "address": "7133 North Ln",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

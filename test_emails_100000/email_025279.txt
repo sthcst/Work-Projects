@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Flores",
+    "email": "samantha.flores4020@yahoo.com",
+    "phone": "525 528 3436",
+    "ssn": "277739112",
+    "dob": "10-06-1982",
+    "address": "7293 Cedar St",
+    "city": "Jacksonville",
+    "state": "FL"
+  }
+}

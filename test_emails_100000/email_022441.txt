@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Gomez,jessica.gomez8163@gmail.com,(494) 383-9478,994-13-8061,18/08/1985,"5412 Elm Dr",Jacksonville,WA

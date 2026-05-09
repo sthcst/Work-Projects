@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Murillo,ashley.murillo1416@yahoo.com,(479) 218-6323,339-15-7240,15/05/1990,"6198 Cedar Dr",New York,MA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Alvarado",
+    "email": "kenneth.alvarado233@gmail.com",
+    "phone": "668 576 2649",
+    "ssn": "197-88-5249",
+    "dob": "05/10/1997",
+    "address": "9478 Summer Blvd",
+    "city": "San Antonio",
+    "state": "MA"
+  }
+}

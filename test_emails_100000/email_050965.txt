@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Smith",
+    "email": "ryan.smith8063@mail.com",
+    "phone": "476-593-7701",
+    "ssn": "207 28 4161",
+    "dob": "3/27/1994",
+    "address": "4098 Park Way",
+    "city": "Chicago",
+    "state": "IL"
+  }
+}

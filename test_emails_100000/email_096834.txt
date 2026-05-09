@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Edwards
+  email: ryan.edwards402@mail.com
+  phone: 918-699-7517
+  ssn: 652-84-2924
+  dob: 03/26/1980
+  address: 4772 Third Way
+  city: Los Angeles
+  state: VA

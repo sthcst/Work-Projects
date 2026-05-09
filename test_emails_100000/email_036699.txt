@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Hernandez",
+    "email": "angela.hernandez2256@mail.com",
+    "phone": "+1 624-926-5654",
+    "ssn": "361-69-6409",
+    "dob": "5/12/1951",
+    "address": "1665 Oak Rd",
+    "city": "Washington",
+    "state": "MI"
+  }
+}

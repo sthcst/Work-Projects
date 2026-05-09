@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Brown",
+    "email": "rachel.brown7725@yahoo.com",
+    "phone": "(653) 461-2976",
+    "ssn": "469-50-6939",
+    "dob": "07-26-1959",
+    "address": "8348 Summer Ln",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

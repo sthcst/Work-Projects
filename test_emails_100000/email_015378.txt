@@ -1,0 +1,9 @@
+contact:
+  name: Paul Lopez
+  email: paul.lopez2667@example.com
+  phone: +1 283-572-3464
+  ssn: 505-13-9708
+  dob: 11/19/1971
+  address: 6382 Sixth St
+  city: Austin
+  state: MA

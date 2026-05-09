@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Reeves",
+    "email": "anna.reeves9@mail.com",
+    "phone": "(731) 500-8846",
+    "ssn": "502 67 2650",
+    "dob": "12/09/2005",
+    "address": "7530 Fourth Court",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

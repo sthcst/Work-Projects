@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Parker,angela.parker1087@company.com,317-611-5957,638824444,5/12/1956,"5479 Park Rd",Dallas,MO

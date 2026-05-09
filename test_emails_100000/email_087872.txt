@@ -1,0 +1,14 @@
+INVOICE 553306
+
+Bill To:
+Name: Charles Roberts
+Email: charles.roberts9251@example.com
+Phone: (231) 324-8275
+SSN: 666129219
+
+Address: 4790 Fourth Ln
+Seattle, MD
+
+Date of Birth: 08/12/1978
+
+Amount Due: $3029

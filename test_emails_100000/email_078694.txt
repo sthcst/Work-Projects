@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Stewart
+  email: andrew.stewart6923@business.net
+  phone: +1 497-841-3182
+  ssn: 046 53 4668
+  dob: 3/9/1995
+  address: 4043 First Blvd
+  city: New York
+  state: CA

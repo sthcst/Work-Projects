@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Gomez,kenneth.gomez8365@outlook.com,506 426 4608,298099897,2/24/1997,"4103 West Rd",Chicago,IL

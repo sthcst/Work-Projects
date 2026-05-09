@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Robinson",
+    "email": "gary.robinson5550@work.org",
+    "phone": "(312) 796-7577",
+    "ssn": "719 56 1590",
+    "dob": "06/24/2000",
+    "address": "134 Fourth Dr",
+    "city": "New York",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Johnson,daniel.johnson5896@example.com,432 944 8896,425-94-1891,01/22/1967,"4804 Pine Rd",San Antonio,WA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Nunez",
+    "email": "ronald.nunez9379@mail.com",
+    "phone": "562-830-5082",
+    "ssn": "489387121",
+    "dob": "01/05/1951",
+    "address": "6779 Park Dr",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

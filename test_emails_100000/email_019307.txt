@@ -1,0 +1,9 @@
+contact:
+  name: Jane Morgan
+  email: jane.morgan796@outlook.com
+  phone: (484) 511-9398
+  ssn: 664958943
+  dob: 12/16/1971
+  address: 919 Sixth St
+  city: New York
+  state: TX

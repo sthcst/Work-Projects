@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Perez",
+    "email": "john.perez2792@work.org",
+    "phone": "(517) 596-6642",
+    "ssn": "551521438",
+    "dob": "11/28/1983",
+    "address": "5133 Oak St",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

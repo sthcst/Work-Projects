@@ -1,0 +1,9 @@
+contact:
+  name: Donald Walker
+  email: donald.walker7884@example.com
+  phone: 918-954-6754
+  ssn: 909-05-4313
+  dob: 05-17-1987
+  address: 8836 West Way
+  city: Phoenix
+  state: MA

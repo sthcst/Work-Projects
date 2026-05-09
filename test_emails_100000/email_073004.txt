@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Harris",
+    "email": "edward.harris6991@business.net",
+    "phone": "(852) 485-8317",
+    "ssn": "302 53 7806",
+    "dob": "26/01/1978",
+    "address": "6761 Second Ln",
+    "city": "Chicago",
+    "state": "PA"
+  }
+}

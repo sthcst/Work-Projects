@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Jones",
+    "email": "david.jones1422@company.com",
+    "phone": "+1 983-366-2441",
+    "ssn": "308-26-2166",
+    "dob": "06/07/1993",
+    "address": "292 West Court",
+    "city": "Houston",
+    "state": "NY"
+  }
+}

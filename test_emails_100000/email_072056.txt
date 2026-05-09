@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Hernandez",
+    "email": "ryan.hernandez7638@mail.com",
+    "phone": "(690) 332-1948",
+    "ssn": "866293996",
+    "dob": "01/07/1963",
+    "address": "5728 Fifth Dr",
+    "city": "Houston",
+    "state": "DC"
+  }
+}

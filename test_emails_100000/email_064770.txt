@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Gonzalez",
+    "email": "ronald.gonzalez1225@business.net",
+    "phone": "443 461 8578",
+    "ssn": "088 65 4918",
+    "dob": "04/21/1968",
+    "address": "1521 Birch Rd",
+    "city": "Dallas",
+    "state": "VA"
+  }
+}

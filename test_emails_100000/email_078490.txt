@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Miller,george.miller4921@gmail.com,325-839-9040,533-82-1212,01-24-2002,"578 Fifth St",San Antonio,GA

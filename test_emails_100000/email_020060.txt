@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Campbell,ryan.campbell2060@gmail.com,+1 665-829-4058,840 91 3771,11-19-1950,"5294 South Way",Denver,TX

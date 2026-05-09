@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Reed",
+    "email": "jennifer.reed7162@mail.com",
+    "phone": "470 847 8914",
+    "ssn": "483 54 3736",
+    "dob": "06/06/1977",
+    "address": "6625 South Ave",
+    "city": "Dallas",
+    "state": "DC"
+  }
+}

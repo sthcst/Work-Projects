@@ -1,0 +1,9 @@
+contact:
+  name: Joseph White
+  email: joseph.white30@outlook.com
+  phone: (542) 998-2642
+  ssn: 328 45 6913
+  dob: 9/14/1958
+  address: 3019 Spring Court
+  city: San Jose
+  state: MI

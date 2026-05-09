@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Alvarado",
+    "email": "rachel.alvarado9985@company.com",
+    "phone": "+1 886-442-2758",
+    "ssn": "790-74-7469",
+    "dob": "08-11-1975",
+    "address": "4198 Park St",
+    "city": "Austin",
+    "state": "IL"
+  }
+}

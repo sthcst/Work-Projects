@@ -1,0 +1,14 @@
+INVOICE 427402
+
+Bill To:
+Name: Emily Brown
+Email: emily.brown6581@yahoo.com
+Phone: 251 630 7522
+SSN: 796048961
+
+Address: 8201 First St
+Austin, MO
+
+Date of Birth: 08/08/1978
+
+Amount Due: $3021

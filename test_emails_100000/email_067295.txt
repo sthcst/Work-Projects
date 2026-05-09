@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Moore",
+    "email": "pamela.moore162@company.com",
+    "phone": "296-656-8425",
+    "ssn": "205 94 9477",
+    "dob": "1/18/1993",
+    "address": "5897 West Ln",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

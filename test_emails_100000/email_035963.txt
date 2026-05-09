@@ -1,0 +1,9 @@
+contact:
+  name: John Taylor
+  email: john.taylor3797@outlook.com
+  phone: (237) 221-5834
+  ssn: 832768491
+  dob: 7/11/1999
+  address: 6764 West Rd
+  city: Philadelphia
+  state: IL

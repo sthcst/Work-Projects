@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Reeves,samantha.reeves8968@business.net,(296) 534-2564,798347411,11-27-1979,"5309 Oak Way",Los Angeles,AZ

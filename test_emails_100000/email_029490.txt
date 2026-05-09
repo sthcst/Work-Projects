@@ -1,0 +1,14 @@
+INVOICE 388251
+
+Bill To:
+Name: Deborah Reeves
+Email: deborah.reeves4799@example.com
+Phone: +1 424-221-7856
+SSN: 574-28-4030
+
+Address: 4485 South Rd
+New York, CA
+
+Date of Birth: 15/10/1962
+
+Amount Due: $162

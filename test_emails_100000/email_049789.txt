@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Jimenez
+  email: joseph.jimenez6558@example.com
+  phone: (701) 380-6559
+  ssn: 461146355
+  dob: 28/07/1950
+  address: 5924 First Way
+  city: Phoenix
+  state: MI

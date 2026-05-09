@@ -1,0 +1,14 @@
+INVOICE 264350
+
+Bill To:
+Name: Jeffrey Garcia
+Email: jeffrey.garcia6439@mail.com
+Phone: 460-874-9509
+SSN: 266251750
+
+Address: 9289 Pine Rd
+Denver, NJ
+
+Date of Birth: 28/09/1963
+
+Amount Due: $8888

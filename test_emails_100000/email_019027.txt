@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Clark,joseph.clark2309@yahoo.com,417 974 3232,139 73 4190,08/03/1965,"3357 First Ave",Boston,NC

@@ -1,0 +1,9 @@
+contact:
+  name: Steven Lee
+  email: steven.lee7513@business.net
+  phone: 564 329 8329
+  ssn: 386 77 2323
+  dob: 23/12/1991
+  address: 2390 Oak St
+  city: San Antonio
+  state: OH

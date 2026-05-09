@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Jackson,stephanie.jackson2725@yahoo.com,329 483 4389,211 01 6967,08/06/1993,"5778 Birch Dr",San Diego,NJ

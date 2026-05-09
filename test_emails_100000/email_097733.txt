@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Ramirez",
+    "email": "kimberly.ramirez1715@gmail.com",
+    "phone": "+1 781-606-2893",
+    "ssn": "437 31 6045",
+    "dob": "08-28-1979",
+    "address": "5480 Summer Court",
+    "city": "New York",
+    "state": "WI"
+  }
+}

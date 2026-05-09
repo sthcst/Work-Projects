@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Thompson,mark.thompson2142@company.com,+1 860-771-9493,154 79 3792,2/21/1954,"3932 Fifth St",New York,NC

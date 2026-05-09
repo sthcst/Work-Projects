@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Delgado,pamela.delgado3799@mail.com,904 406 8384,833375882,21/09/1980,"1439 Spring Dr",Austin,VA

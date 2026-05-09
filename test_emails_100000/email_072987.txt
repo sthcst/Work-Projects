@@ -1,0 +1,9 @@
+contact:
+  name: Mark Smith
+  email: mark.smith1537@yahoo.com
+  phone: +1 381-648-4001
+  ssn: 982 34 4306
+  dob: 05/19/1975
+  address: 7575 North Blvd
+  city: New York
+  state: NJ

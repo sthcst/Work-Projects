@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Nunez",
+    "email": "james.nunez3104@work.org",
+    "phone": "468-359-7860",
+    "ssn": "977974172",
+    "dob": "12/17/1952",
+    "address": "1655 Birch Court",
+    "city": "New York",
+    "state": "GA"
+  }
+}

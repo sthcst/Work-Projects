@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Perez",
+    "email": "emma.perez4742@yahoo.com",
+    "phone": "+1 534-483-3302",
+    "ssn": "460015426",
+    "dob": "1/18/1989",
+    "address": "2005 Summer Way",
+    "city": "San Diego",
+    "state": "WA"
+  }
+}

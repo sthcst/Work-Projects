@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Phillips",
+    "email": "ashley.phillips565@business.net",
+    "phone": "421 714 6702",
+    "ssn": "495-60-7228",
+    "dob": "09-28-1993",
+    "address": "9123 Main Rd",
+    "city": "Austin",
+    "state": "WI"
+  }
+}

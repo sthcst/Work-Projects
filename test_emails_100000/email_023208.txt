@@ -1,0 +1,9 @@
+contact:
+  name: Maria Ramirez
+  email: maria.ramirez3431@gmail.com
+  phone: 491 772 6889
+  ssn: 410-85-1282
+  dob: 12/09/1991
+  address: 5338 Spring Ave
+  city: San Jose
+  state: MA

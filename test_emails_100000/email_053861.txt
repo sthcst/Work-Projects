@@ -1,0 +1,12 @@
+SUPPORT TICKET #77817
+
+Customer: Maria Lewis
+Email: maria.lewis2796@example.com
+Phone: 260-661-4490
+Account: 931623573
+
+Issue Description: Technical problem reported
+DOB on file: 02/03/1950
+Address: 6058 Elm Dr, Austin, MA
+
+Status: OPEN

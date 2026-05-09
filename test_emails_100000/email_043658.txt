@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Rodriguez,anna.rodriguez1802@outlook.com,348-259-1850,340 09 9154,03/05/1955,"1261 Third Court",Washington,WA

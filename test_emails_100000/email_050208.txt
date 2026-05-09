@@ -1,0 +1,9 @@
+contact:
+  name: Richard Sanchez
+  email: richard.sanchez9397@mail.com
+  phone: 424 962 9378
+  ssn: 606 39 7265
+  dob: 02/02/1977
+  address: 8251 Cedar Court
+  city: Boston
+  state: CO

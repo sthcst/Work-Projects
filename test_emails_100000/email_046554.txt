@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Hall",
+    "email": "rebecca.hall946@gmail.com",
+    "phone": "236 331 6096",
+    "ssn": "615-81-6562",
+    "dob": "01-09-1995",
+    "address": "1038 First Blvd",
+    "city": "Boston",
+    "state": "VA"
+  }
+}

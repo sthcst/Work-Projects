@@ -1,0 +1,14 @@
+INVOICE 304034
+
+Bill To:
+Name: George Perez
+Email: george.perez8763@work.org
+Phone: 683 550 3840
+SSN: 461 66 9609
+
+Address: 4719 Third Dr
+Los Angeles, TX
+
+Date of Birth: 10/22/1993
+
+Amount Due: $9027

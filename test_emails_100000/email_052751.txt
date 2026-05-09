@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Harris
+  email: pamela.harris7623@gmail.com
+  phone: 389-521-6639
+  ssn: 952685798
+  dob: 03-09-1973
+  address: 2387 West Rd
+  city: Washington
+  state: MI

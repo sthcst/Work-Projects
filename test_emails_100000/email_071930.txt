@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Flores",
+    "email": "lisa.flores8525@outlook.com",
+    "phone": "225-218-3311",
+    "ssn": "410-75-8518",
+    "dob": "28/01/1965",
+    "address": "8809 Oak Way",
+    "city": "Boston",
+    "state": "MD"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Davis",
+    "email": "george.davis780@outlook.com",
+    "phone": "419-397-5191",
+    "ssn": "335 38 2834",
+    "dob": "05-06-1998",
+    "address": "7022 First Ln",
+    "city": "Denver",
+    "state": "NY"
+  }
+}

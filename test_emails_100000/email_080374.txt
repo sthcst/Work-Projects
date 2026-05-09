@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Hall,christine.hall9067@gmail.com,621 257 4916,162667708,3/24/2003,"5032 Sixth Dr",New York,MO

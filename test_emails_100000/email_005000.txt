@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Moore,sarah.moore7388@company.com,(354) 365-5247,240 07 5713,09-04-1951,"8561 South Rd",Austin,CA

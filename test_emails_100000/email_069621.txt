@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Alvarado,jacob.alvarado5590@outlook.com,660 618 3056,779-10-2190,12/24/1986,"2825 Summer St",San Antonio,NJ

@@ -1,0 +1,9 @@
+contact:
+  name: Helen Ramirez
+  email: helen.ramirez7358@outlook.com
+  phone: 412-844-1962
+  ssn: 046051932
+  dob: 04/06/2004
+  address: 5528 Summer Court
+  city: San Diego
+  state: DC

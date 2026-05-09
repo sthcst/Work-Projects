@@ -1,0 +1,14 @@
+INVOICE 902126
+
+Bill To:
+Name: Jennifer Carter
+Email: jennifer.carter3200@company.com
+Phone: 246-280-3728
+SSN: 027-96-7836
+
+Address: 2860 Sixth Way
+San Diego, MD
+
+Date of Birth: 15/10/1965
+
+Amount Due: $8702

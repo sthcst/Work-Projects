@@ -1,0 +1,9 @@
+contact:
+  name: Charles Romero
+  email: charles.romero5714@business.net
+  phone: (288) 241-2951
+  ssn: 026547564
+  dob: 08-13-1951
+  address: 3666 Fifth Way
+  city: Boston
+  state: TX

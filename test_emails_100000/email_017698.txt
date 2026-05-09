@@ -1,0 +1,14 @@
+INVOICE 554625
+
+Bill To:
+Name: Pamela Jones
+Email: pamela.jones9856@outlook.com
+Phone: +1 592-564-3824
+SSN: 530975518
+
+Address: 871 Second Court
+Dallas, MO
+
+Date of Birth: 9/24/1957
+
+Amount Due: $3999

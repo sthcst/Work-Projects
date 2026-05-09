@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Rogers,anna.rogers1400@gmail.com,781-374-9633,564 71 9868,06-20-1980,"3084 Birch St",Philadelphia,FL

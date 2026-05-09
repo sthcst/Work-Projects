@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Sanchez
+  email: cynthia.sanchez243@gmail.com
+  phone: 229-913-2739
+  ssn: 792-35-5422
+  dob: 2/13/1963
+  address: 8378 Spring Court
+  city: Denver
+  state: AZ

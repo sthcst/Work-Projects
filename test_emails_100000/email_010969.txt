@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Stewart,samantha.stewart2721@company.com,(903) 735-2807,479 92 7529,11/25/1959,"6220 Sixth Court",San Antonio,TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Flores,charles.flores4273@outlook.com,+1 564-201-2010,090 73 2316,4/18/1999,"3341 Cedar Ln",Phoenix,NC

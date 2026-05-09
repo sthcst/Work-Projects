@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Williams",
+    "email": "robert.williams6511@mail.com",
+    "phone": "757-496-7798",
+    "ssn": "595-66-7525",
+    "dob": "07-16-1954",
+    "address": "9172 First Way",
+    "city": "Austin",
+    "state": "MD"
+  }
+}

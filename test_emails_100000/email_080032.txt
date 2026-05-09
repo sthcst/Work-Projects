@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Stewart",
+    "email": "timothy.stewart726@business.net",
+    "phone": "(503) 786-2631",
+    "ssn": "557 15 2706",
+    "dob": "02-07-1962",
+    "address": "2120 Third Court",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

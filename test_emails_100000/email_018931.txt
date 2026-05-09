@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Davis",
+    "email": "ashley.davis2912@yahoo.com",
+    "phone": "+1 775-466-5195",
+    "ssn": "291-79-7677",
+    "dob": "12/5/1957",
+    "address": "1708 Spring Ave",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

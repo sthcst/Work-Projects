@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Robinson",
+    "email": "pamela.robinson7337@outlook.com",
+    "phone": "+1 405-622-8355",
+    "ssn": "327 73 4465",
+    "dob": "16/09/1965",
+    "address": "2621 Cedar Dr",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}

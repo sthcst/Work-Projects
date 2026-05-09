@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Evans,katherine.evans6198@work.org,+1 516-995-6660,165 66 2605,25/08/1960,"3385 Second Court",Chicago,FL

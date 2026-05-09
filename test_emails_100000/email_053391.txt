@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Alvarado",
+    "email": "maria.alvarado7636@mail.com",
+    "phone": "+1 214-640-9364",
+    "ssn": "768-01-7855",
+    "dob": "07/03/2002",
+    "address": "9092 West Rd",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

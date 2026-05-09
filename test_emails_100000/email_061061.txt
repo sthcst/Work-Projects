@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Campbell
+  email: katherine.campbell633@gmail.com
+  phone: (852) 498-8217
+  ssn: 247 53 1123
+  dob: 05/18/1995
+  address: 3073 Birch Dr
+  city: San Jose
+  state: MI

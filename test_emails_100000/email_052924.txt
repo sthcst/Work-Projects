@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Ortiz",
+    "email": "shirley.ortiz9156@company.com",
+    "phone": "763 288 7898",
+    "ssn": "429422380",
+    "dob": "6/28/1955",
+    "address": "4684 Oak Rd",
+    "city": "Austin",
+    "state": "GA"
+  }
+}

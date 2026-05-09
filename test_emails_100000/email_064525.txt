@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Martinez,steven.martinez2404@business.net,554-548-9429,670-87-6903,4/20/1987,"5114 Summer Way",Seattle,PA

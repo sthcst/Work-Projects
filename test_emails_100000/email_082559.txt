@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Moore",
+    "email": "angela.moore4124@example.com",
+    "phone": "+1 757-995-5252",
+    "ssn": "566 20 7666",
+    "dob": "7/17/2005",
+    "address": "2870 Fourth Rd",
+    "city": "New York",
+    "state": "CA"
+  }
+}

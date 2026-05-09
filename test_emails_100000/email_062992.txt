@@ -1,0 +1,9 @@
+contact:
+  name: Richard Jackson
+  email: richard.jackson3883@example.com
+  phone: 905-262-4633
+  ssn: 482-70-2365
+  dob: 01/02/1965
+  address: 4541 Maple Court
+  city: Philadelphia
+  state: CO

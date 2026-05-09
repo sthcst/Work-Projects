@@ -1,0 +1,14 @@
+INVOICE 142373
+
+Bill To:
+Name: Anna Collins
+Email: anna.collins5088@yahoo.com
+Phone: +1 234-728-4205
+SSN: 964 23 4242
+
+Address: 5332 Oak Blvd
+Phoenix, AZ
+
+Date of Birth: 05-22-1989
+
+Amount Due: $2128

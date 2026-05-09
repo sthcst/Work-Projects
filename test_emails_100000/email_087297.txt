@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Alvarado
+  email: nicholas.alvarado562@business.net
+  phone: 950-285-3027
+  ssn: 288138351
+  dob: 06-03-1986
+  address: 7341 Sixth Blvd
+  city: Denver
+  state: NC

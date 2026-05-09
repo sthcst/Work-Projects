@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Wilson",
+    "email": "ronald.wilson6216@mail.com",
+    "phone": "464 970 7806",
+    "ssn": "586486372",
+    "dob": "09-06-2005",
+    "address": "653 Cedar Ln",
+    "city": "Dallas",
+    "state": "CO"
+  }
+}

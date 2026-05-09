@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Ramirez,lauren.ramirez8794@gmail.com,378 418 2687,043 58 8310,05-25-2002,"375 Fourth Dr",San Antonio,PA

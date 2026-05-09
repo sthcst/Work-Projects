@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Guerrero",
+    "email": "charles.guerrero6235@outlook.com",
+    "phone": "947-837-9795",
+    "ssn": "025-11-9062",
+    "dob": "06-22-1982",
+    "address": "4665 Oak Dr",
+    "city": "Jacksonville",
+    "state": "MA"
+  }
+}

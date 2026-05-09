@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Ramirez",
+    "email": "jessica.ramirez1819@gmail.com",
+    "phone": "263-481-5038",
+    "ssn": "077-69-7093",
+    "dob": "06-15-1999",
+    "address": "293 Oak Rd",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

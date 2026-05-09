@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Edwards",
+    "email": "kevin.edwards6960@company.com",
+    "phone": "337 536 6500",
+    "ssn": "949761863",
+    "dob": "08-07-1958",
+    "address": "2514 South Court",
+    "city": "San Diego",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Nunez",
+    "email": "pamela.nunez5411@gmail.com",
+    "phone": "(348) 826-5376",
+    "ssn": "156425710",
+    "dob": "11/10/1959",
+    "address": "7564 Main St",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

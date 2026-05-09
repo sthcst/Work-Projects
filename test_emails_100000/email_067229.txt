@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Gonzalez,richard.gonzalez8559@gmail.com,(685) 771-3157,753763088,04/21/1957,"3224 Fifth Dr",Denver,IL

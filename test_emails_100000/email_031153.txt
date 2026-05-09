@@ -1,0 +1,14 @@
+INVOICE 302490
+
+Bill To:
+Name: Joshua Brown
+Email: joshua.brown7687@work.org
+Phone: (532) 801-3294
+SSN: 491 14 1888
+
+Address: 6742 Cedar Dr
+San Jose, MA
+
+Date of Birth: 01/05/1981
+
+Amount Due: $2386

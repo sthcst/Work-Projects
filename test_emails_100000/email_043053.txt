@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Dominguez,lauren.dominguez4398@work.org,458-347-7852,374121454,15/06/1980,"3467 Maple Dr",Dallas,PA

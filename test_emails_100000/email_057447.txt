@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Peterson",
+    "email": "nicole.peterson8224@gmail.com",
+    "phone": "485 646 1731",
+    "ssn": "297248490",
+    "dob": "4/25/1985",
+    "address": "9891 Spring Court",
+    "city": "Denver",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Harris,ryan.harris1713@outlook.com,(473) 939-2346,961-28-7278,09/19/1979,"2727 Summer Ln",Dallas,TX

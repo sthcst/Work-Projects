@@ -1,0 +1,14 @@
+INVOICE 430588
+
+Bill To:
+Name: Donald Gomez
+Email: donald.gomez2567@company.com
+Phone: (395) 992-8517
+SSN: 426 95 5452
+
+Address: 1284 Sixth Blvd
+Seattle, CA
+
+Date of Birth: 03-18-1956
+
+Amount Due: $6221

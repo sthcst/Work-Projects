@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Rodriguez",
+    "email": "joshua.rodriguez40@business.net",
+    "phone": "+1 831-813-9224",
+    "ssn": "485-60-3010",
+    "dob": "08/05/1978",
+    "address": "8435 East Blvd",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

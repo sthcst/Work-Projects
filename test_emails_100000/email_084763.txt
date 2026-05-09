@@ -1,0 +1,9 @@
+contact:
+  name: Jane Thomas
+  email: jane.thomas7210@mail.com
+  phone: (942) 716-6643
+  ssn: 651-50-8395
+  dob: 11-13-1992
+  address: 2957 East Ln
+  city: Dallas
+  state: MO

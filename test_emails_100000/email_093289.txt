@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Jackson,charles.jackson3496@yahoo.com,+1 658-467-4662,051-67-8302,6/17/1974,"2733 Cedar Ave",Seattle,MD

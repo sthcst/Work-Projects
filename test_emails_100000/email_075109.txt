@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Roberts",
+    "email": "christopher.roberts9251@company.com",
+    "phone": "(612) 830-2662",
+    "ssn": "422056134",
+    "dob": "21/04/1960",
+    "address": "3407 Birch St",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

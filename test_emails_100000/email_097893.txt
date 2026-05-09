@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Thomas,donald.thomas6975@gmail.com,312 641 8170,961-92-8778,05/17/1981,"6319 Pine Court",New York,NY

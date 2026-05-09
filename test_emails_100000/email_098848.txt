@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Rogers",
+    "email": "deborah.rogers9991@company.com",
+    "phone": "+1 807-507-9332",
+    "ssn": "743-05-8293",
+    "dob": "5/28/1978",
+    "address": "6408 Pine Blvd",
+    "city": "Boston",
+    "state": "GA"
+  }
+}

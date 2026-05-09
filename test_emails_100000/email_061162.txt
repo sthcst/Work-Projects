@@ -1,0 +1,14 @@
+INVOICE 585925
+
+Bill To:
+Name: John Anderson
+Email: john.anderson5304@company.com
+Phone: 282-402-3087
+SSN: 557483586
+
+Address: 7226 First Ave
+Chicago, FL
+
+Date of Birth: 04/08/1979
+
+Amount Due: $2218

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Harris",
+    "email": "katherine.harris6239@mail.com",
+    "phone": "446 737 2200",
+    "ssn": "885-12-8716",
+    "dob": "09-19-1982",
+    "address": "7154 Park Ave",
+    "city": "Chicago",
+    "state": "DC"
+  }
+}

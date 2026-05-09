@@ -1,0 +1,9 @@
+contact:
+  name: George Harris
+  email: george.harris7824@work.org
+  phone: 485 517 8305
+  ssn: 802 07 5933
+  dob: 05/09/1991
+  address: 3203 Second Ln
+  city: San Diego
+  state: DC

@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Serrano
+  email: lauren.serrano8186@business.net
+  phone: (693) 205-4562
+  ssn: 973 39 5639
+  dob: 06-18-1973
+  address: 374 First Way
+  city: New York
+  state: TX

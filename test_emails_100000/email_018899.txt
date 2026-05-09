@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Brown",
+    "email": "edward.brown6612@gmail.com",
+    "phone": "653 939 7130",
+    "ssn": "250065772",
+    "dob": "4/13/1975",
+    "address": "4615 East Court",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Steven Johnson
+  email: steven.johnson3912@outlook.com
+  phone: +1 932-593-7366
+  ssn: 018-70-4827
+  dob: 18/03/2003
+  address: 9559 Pine Ave
+  city: Washington
+  state: MI

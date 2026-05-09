@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Peterson",
+    "email": "katherine.peterson3344@company.com",
+    "phone": "279-203-9046",
+    "ssn": "452-36-6188",
+    "dob": "10/07/2005",
+    "address": "4097 Park Ave",
+    "city": "San Jose",
+    "state": "IL"
+  }
+}

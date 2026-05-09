@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Wilson
+  email: brenda.wilson943@mail.com
+  phone: +1 950-809-5031
+  ssn: 082849254
+  dob: 04/03/1950
+  address: 4820 Third Way
+  city: Chicago
+  state: TX

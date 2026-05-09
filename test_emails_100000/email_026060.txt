@@ -1,0 +1,12 @@
+SUPPORT TICKET #37974
+
+Customer: Ryan Thomas
+Email: ryan.thomas9237@example.com
+Phone: (712) 961-4599
+Account: 867-22-5833
+
+Issue Description: Technical problem reported
+DOB on file: 5/4/1983
+Address: 9790 Oak Way, Phoenix, CA
+
+Status: OPEN

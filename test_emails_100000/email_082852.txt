@@ -1,0 +1,9 @@
+contact:
+  name: Michael Martinez
+  email: michael.martinez853@company.com
+  phone: 965 938 5200
+  ssn: 787174158
+  dob: 05/18/1977
+  address: 8929 Pine Court
+  city: San Diego
+  state: NY

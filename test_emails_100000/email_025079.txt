@@ -1,0 +1,14 @@
+INVOICE 832876
+
+Bill To:
+Name: Christine Lewis
+Email: christine.lewis9934@example.com
+Phone: 333-655-3459
+SSN: 881742801
+
+Address: 5813 East Ave
+Houston, OH
+
+Date of Birth: 11/08/2000
+
+Amount Due: $1323

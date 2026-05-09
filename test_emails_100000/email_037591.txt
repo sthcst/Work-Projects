@@ -1,0 +1,14 @@
+INVOICE 274616
+
+Bill To:
+Name: Rachel Serrano
+Email: rachel.serrano2917@example.com
+Phone: 652 763 7917
+SSN: 619996252
+
+Address: 6482 Cedar Rd
+Seattle, TX
+
+Date of Birth: 12-18-1991
+
+Amount Due: $7062

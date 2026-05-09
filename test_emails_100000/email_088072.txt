@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Moore,jane.moore6020@mail.com,+1 991-596-1036,220948688,27/03/1997,"4885 North Dr",Austin,TX

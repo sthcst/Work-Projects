@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Delgado",
+    "email": "pamela.delgado9054@work.org",
+    "phone": "(533) 809-4183",
+    "ssn": "406-50-6711",
+    "dob": "08/28/1980",
+    "address": "9840 Sixth Dr",
+    "city": "Philadelphia",
+    "state": "AZ"
+  }
+}

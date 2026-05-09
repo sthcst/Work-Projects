@@ -1,0 +1,9 @@
+contact:
+  name: Robert Roberts
+  email: robert.roberts2628@yahoo.com
+  phone: 995-950-3854
+  ssn: 341-59-3951
+  dob: 6/16/2000
+  address: 2075 First Dr
+  city: Chicago
+  state: MI

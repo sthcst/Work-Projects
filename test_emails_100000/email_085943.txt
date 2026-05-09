@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Sanchez,john.sanchez8335@work.org,805 812 8778,142 22 9573,5/3/1998,"5824 Third Rd",Jacksonville,NY

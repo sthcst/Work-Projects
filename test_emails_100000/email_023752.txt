@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Hall,rachel.hall754@business.net,572-438-2769,515-28-5614,06/11/1961,"9279 West Rd",Austin,TX

@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Miller
+  email: katherine.miller1562@yahoo.com
+  phone: (297) 704-8030
+  ssn: 973292299
+  dob: 09/11/1972
+  address: 7072 Summer Dr
+  city: Phoenix
+  state: TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Parker,rebecca.parker9017@outlook.com,309-372-8523,379-73-2397,02/10/1980,"8658 East Ln",Jacksonville,MA

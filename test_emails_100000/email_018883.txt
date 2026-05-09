@@ -1,0 +1,14 @@
+INVOICE 388183
+
+Bill To:
+Name: Daniel Johnson
+Email: daniel.johnson4815@business.net
+Phone: +1 764-260-2319
+SSN: 006495538
+
+Address: 6711 Park Ave
+New York, AZ
+
+Date of Birth: 08/10/1958
+
+Amount Due: $8530

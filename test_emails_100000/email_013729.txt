@@ -1,0 +1,9 @@
+contact:
+  name: Maria Robinson
+  email: maria.robinson8408@business.net
+  phone: 813-939-3508
+  ssn: 516231112
+  dob: 05/11/1988
+  address: 3225 Cedar Way
+  city: Dallas
+  state: NY

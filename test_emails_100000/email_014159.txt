@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Jones,ashley.jones7736@outlook.com,495 528 8125,568 86 7590,15/02/1976,"9995 North Dr",Washington,MA

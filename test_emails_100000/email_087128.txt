@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Rogers",
+    "email": "michelle.rogers4512@work.org",
+    "phone": "875 226 5494",
+    "ssn": "050-71-9102",
+    "dob": "02/02/1953",
+    "address": "7613 East Court",
+    "city": "New York",
+    "state": "NY"
+  }
+}

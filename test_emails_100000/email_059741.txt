@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah White",
+    "email": "sarah.white4508@example.com",
+    "phone": "372-203-2909",
+    "ssn": "741185043",
+    "dob": "3/22/1996",
+    "address": "4221 North Dr",
+    "city": "Philadelphia",
+    "state": "AZ"
+  }
+}

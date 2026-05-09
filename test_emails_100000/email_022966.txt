@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Parker",
+    "email": "david.parker5149@mail.com",
+    "phone": "+1 305-278-5806",
+    "ssn": "744 40 3673",
+    "dob": "13/01/1983",
+    "address": "4368 Pine Court",
+    "city": "Austin",
+    "state": "TN"
+  }
+}

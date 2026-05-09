@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Carter,christopher.carter9212@outlook.com,+1 658-722-7637,403 38 6900,10/9/1952,"9930 Fifth Court",Philadelphia,CO

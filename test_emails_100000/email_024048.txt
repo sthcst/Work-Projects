@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Reyes",
+    "email": "angela.reyes393@work.org",
+    "phone": "286-979-2247",
+    "ssn": "502-98-9349",
+    "dob": "01/16/1958",
+    "address": "6407 Birch Ln",
+    "city": "Houston",
+    "state": "MA"
+  }
+}

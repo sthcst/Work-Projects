@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Sanchez",
+    "email": "sarah.sanchez3305@yahoo.com",
+    "phone": "(492) 284-3432",
+    "ssn": "516-15-9122",
+    "dob": "23/05/1967",
+    "address": "1280 Birch Ln",
+    "city": "San Antonio",
+    "state": "WI"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Morris,richard.morris9339@work.org,407-800-6203,508886466,2/2/1960,"3511 West Court",Houston,NJ

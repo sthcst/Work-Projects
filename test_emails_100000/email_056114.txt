@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Young",
+    "email": "michelle.young3174@example.com",
+    "phone": "(940) 440-2909",
+    "ssn": "808 22 4962",
+    "dob": "05/12/1968",
+    "address": "6699 West Rd",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

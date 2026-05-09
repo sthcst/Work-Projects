@@ -1,0 +1,9 @@
+contact:
+  name: Jason Edwards
+  email: jason.edwards9019@mail.com
+  phone: 954-802-5488
+  ssn: 686 47 5687
+  dob: 4/11/1994
+  address: 2264 Spring Way
+  city: Washington
+  state: CO

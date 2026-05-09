@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Campbell",
+    "email": "richard.campbell9922@example.com",
+    "phone": "334-923-1678",
+    "ssn": "376622410",
+    "dob": "5/9/1987",
+    "address": "4400 South Dr",
+    "city": "Austin",
+    "state": "OH"
+  }
+}

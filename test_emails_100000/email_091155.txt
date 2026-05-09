@@ -1,0 +1,14 @@
+INVOICE 742750
+
+Bill To:
+Name: Robert Roberts
+Email: robert.roberts2901@yahoo.com
+Phone: 568-447-3538
+SSN: 902056855
+
+Address: 3355 Main St
+Dallas, AZ
+
+Date of Birth: 5/22/1973
+
+Amount Due: $9103

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Garcia,mark.garcia3095@company.com,(784) 725-2820,660-23-6746,06/12/1958,"6234 Birch Ave",San Antonio,WI

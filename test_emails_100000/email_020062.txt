@@ -1,0 +1,9 @@
+contact:
+  name: Charles Brown
+  email: charles.brown8371@company.com
+  phone: 762-280-4856
+  ssn: 964984557
+  dob: 21/06/1971
+  address: 8716 Third Way
+  city: Los Angeles
+  state: CA

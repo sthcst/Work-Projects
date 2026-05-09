@@ -1,0 +1,9 @@
+contact:
+  name: George Phillips
+  email: george.phillips6773@outlook.com
+  phone: 204-901-5877
+  ssn: 625884581
+  dob: 09/02/2000
+  address: 6280 Cedar Dr
+  city: Dallas
+  state: CO

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Walker",
+    "email": "jeffrey.walker9654@outlook.com",
+    "phone": "488 768 3155",
+    "ssn": "231-23-1029",
+    "dob": "3/10/1986",
+    "address": "6482 Birch Blvd",
+    "city": "Jacksonville",
+    "state": "WA"
+  }
+}

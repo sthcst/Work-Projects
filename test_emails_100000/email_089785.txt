@@ -1,0 +1,9 @@
+contact:
+  name: Maria Morris
+  email: maria.morris7526@business.net
+  phone: 859 366 4078
+  ssn: 244961934
+  dob: 04/27/1974
+  address: 102 Oak Blvd
+  city: Seattle
+  state: CA

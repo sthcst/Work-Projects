@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Murillo,kenneth.murillo1873@outlook.com,781-253-9643,327819341,07-28-1996,"671 Maple Blvd",Jacksonville,FL

@@ -1,0 +1,14 @@
+INVOICE 300924
+
+Bill To:
+Name: Michelle Murillo
+Email: michelle.murillo2557@mail.com
+Phone: +1 761-976-5337
+SSN: 567583738
+
+Address: 1878 Second Rd
+San Jose, CO
+
+Date of Birth: 24/04/1968
+
+Amount Due: $4668

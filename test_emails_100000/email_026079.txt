@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Moore
+  email: rachel.moore8098@work.org
+  phone: +1 440-965-7122
+  ssn: 351-39-9461
+  dob: 06/02/1992
+  address: 2168 Pine Ln
+  city: Los Angeles
+  state: TX

@@ -1,0 +1,9 @@
+contact:
+  name: Mark Delgado
+  email: mark.delgado2808@yahoo.com
+  phone: (393) 726-4402
+  ssn: 346567412
+  dob: 5/13/1955
+  address: 3004 Cedar Dr
+  city: Dallas
+  state: IL

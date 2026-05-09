@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Ramirez
+  email: katherine.ramirez3978@mail.com
+  phone: +1 335-702-8984
+  ssn: 348-57-2861
+  dob: 04-26-1950
+  address: 9869 Birch Ave
+  city: New York
+  state: CO

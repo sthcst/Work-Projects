@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Carter",
+    "email": "cynthia.carter5287@example.com",
+    "phone": "361-972-7316",
+    "ssn": "040675736",
+    "dob": "3/20/1986",
+    "address": "3005 East Dr",
+    "city": "Los Angeles",
+    "state": "OH"
+  }
+}

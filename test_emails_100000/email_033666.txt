@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Johnson",
+    "email": "kathleen.johnson7189@work.org",
+    "phone": "+1 724-211-3611",
+    "ssn": "436338408",
+    "dob": "10-05-1975",
+    "address": "2952 Cedar Blvd",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

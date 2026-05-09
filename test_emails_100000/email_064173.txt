@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Collins",
+    "email": "matthew.collins6837@yahoo.com",
+    "phone": "+1 759-768-1557",
+    "ssn": "672-97-1317",
+    "dob": "10/10/1997",
+    "address": "2542 Oak Ave",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

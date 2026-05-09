@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Reed,john.reed4809@example.com,(428) 930-5597,746-17-9826,10/19/1959,"7630 Second St",Austin,NC

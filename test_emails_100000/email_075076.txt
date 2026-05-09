@@ -1,0 +1,14 @@
+INVOICE 834010
+
+Bill To:
+Name: Jacob Delgado
+Email: jacob.delgado4720@yahoo.com
+Phone: (363) 708-1142
+SSN: 097 15 7597
+
+Address: 8380 Cedar Blvd
+Dallas, AZ
+
+Date of Birth: 19/07/1994
+
+Amount Due: $6340

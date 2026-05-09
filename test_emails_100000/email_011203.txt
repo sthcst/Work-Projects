@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Reed
+  email: katherine.reed3569@business.net
+  phone: +1 386-758-9821
+  ssn: 375 29 5490
+  dob: 06/11/1971
+  address: 2380 Cedar Court
+  city: Philadelphia
+  state: WA

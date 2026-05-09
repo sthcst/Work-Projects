@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Roberts",
+    "email": "anna.roberts6064@gmail.com",
+    "phone": "(375) 452-7959",
+    "ssn": "272-43-9556",
+    "dob": "10/03/1969",
+    "address": "9800 Park Ln",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

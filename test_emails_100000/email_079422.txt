@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Rodriguez,paul.rodriguez2832@company.com,(707) 564-7958,199-09-3482,01/19/2000,"2898 South Ln",Seattle,CO

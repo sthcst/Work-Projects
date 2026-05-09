@@ -1,0 +1,9 @@
+contact:
+  name: Charles Rodriguez
+  email: charles.rodriguez1523@company.com
+  phone: 462-242-6801
+  ssn: 864-56-7379
+  dob: 08/17/2000
+  address: 347 East Blvd
+  city: Austin
+  state: MD

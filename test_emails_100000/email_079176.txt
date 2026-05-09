@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Alvarado,katherine.alvarado3762@gmail.com,(747) 729-2135,608 51 7375,05/17/1997,"732 Spring Ln",Chicago,WI

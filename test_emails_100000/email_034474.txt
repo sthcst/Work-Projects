@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Jackson",
+    "email": "kevin.jackson6332@gmail.com",
+    "phone": "484 387 2797",
+    "ssn": "858283016",
+    "dob": "10/24/1979",
+    "address": "6463 West Way",
+    "city": "Jacksonville",
+    "state": "VA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey White,jeffrey.white789@mail.com,914 531 8607,789-07-5896,05-16-1970,"5487 East St",Dallas,PA

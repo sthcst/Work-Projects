@@ -1,0 +1,14 @@
+INVOICE 789547
+
+Bill To:
+Name: Katherine Perez
+Email: katherine.perez6863@yahoo.com
+Phone: +1 839-971-7996
+SSN: 017 87 7108
+
+Address: 4820 Park Ave
+San Diego, TX
+
+Date of Birth: 4/4/1987
+
+Amount Due: $1562

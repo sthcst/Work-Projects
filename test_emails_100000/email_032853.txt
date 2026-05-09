@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Nunez
+  email: katherine.nunez6183@company.com
+  phone: (848) 637-4390
+  ssn: 794 22 8479
+  dob: 08/10/1994
+  address: 9085 Pine Court
+  city: San Antonio
+  state: PA

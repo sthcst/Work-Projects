@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Garcia",
+    "email": "kimberly.garcia1830@outlook.com",
+    "phone": "883 232 1250",
+    "ssn": "519-72-4203",
+    "dob": "01-23-2004",
+    "address": "3851 Sixth Dr",
+    "city": "Los Angeles",
+    "state": "IL"
+  }
+}

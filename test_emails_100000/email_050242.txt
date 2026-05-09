@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Morris",
+    "email": "gary.morris174@gmail.com",
+    "phone": "+1 939-803-4730",
+    "ssn": "076 11 5613",
+    "dob": "08/04/1956",
+    "address": "2242 Main Ln",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Alvarado,angela.alvarado8257@gmail.com,(508) 922-8976,522 21 8669,12-27-1982,"3048 South Way",Chicago,VA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Miller,william.miller1449@outlook.com,(737) 883-8742,877 55 2533,7/5/1969,"2898 Maple Ln",Boston,NJ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Anderson",
+    "email": "stephanie.anderson9026@example.com",
+    "phone": "+1 412-893-1413",
+    "ssn": "511-92-3501",
+    "dob": "3/18/2005",
+    "address": "7286 South Court",
+    "city": "Chicago",
+    "state": "DC"
+  }
+}

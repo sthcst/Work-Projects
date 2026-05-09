@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Ramirez,ashley.ramirez3320@mail.com,778 902 8927,154953115,7/4/1982,"6958 North Rd",San Diego,TX

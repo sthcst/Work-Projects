@@ -1,0 +1,9 @@
+contact:
+  name: Jane Rodriguez
+  email: jane.rodriguez8548@example.com
+  phone: (825) 428-4562
+  ssn: 338799642
+  dob: 05-15-2001
+  address: 2690 Cedar Ln
+  city: Austin
+  state: OH

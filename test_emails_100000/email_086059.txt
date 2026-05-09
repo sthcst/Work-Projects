@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Gonzalez,nicole.gonzalez5669@outlook.com,+1 895-405-8789,972-86-8329,9/1/2000,"6087 Second Blvd",Denver,MA

@@ -1,0 +1,14 @@
+INVOICE 426378
+
+Bill To:
+Name: Jacob Rodriguez
+Email: jacob.rodriguez205@company.com
+Phone: 984 757 7956
+SSN: 493213981
+
+Address: 539 Fifth St
+Jacksonville, NY
+
+Date of Birth: 10/16/1957
+
+Amount Due: $9408

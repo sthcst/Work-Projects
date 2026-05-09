@@ -1,0 +1,9 @@
+contact:
+  name: John Taylor
+  email: john.taylor5825@example.com
+  phone: 775-384-5524
+  ssn: 733-08-7444
+  dob: 05/27/1955
+  address: 3168 Third Ave
+  city: Philadelphia
+  state: MD

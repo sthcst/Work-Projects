@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Romero",
+    "email": "christine.romero3583@company.com",
+    "phone": "813-261-2489",
+    "ssn": "992 73 3219",
+    "dob": "9/3/1973",
+    "address": "5058 Fifth Blvd",
+    "city": "Jacksonville",
+    "state": "WI"
+  }
+}

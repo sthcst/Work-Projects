@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Flores
+  email: amanda.flores8917@work.org
+  phone: 740-906-5985
+  ssn: 270-99-9775
+  dob: 05-11-1989
+  address: 1136 South Ln
+  city: Austin
+  state: CA

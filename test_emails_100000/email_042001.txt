@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Sanchez,steven.sanchez4334@work.org,345-459-5999,715795639,16/12/1979,"9728 Fourth Ln",Dallas,DC

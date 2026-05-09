@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Murillo
+  email: samantha.murillo4491@outlook.com
+  phone: 532-427-9543
+  ssn: 348729510
+  dob: 1/1/1990
+  address: 5378 Birch Ln
+  city: Phoenix
+  state: TX

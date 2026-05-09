@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Collins,pamela.collins7815@gmail.com,+1 812-900-2813,079-87-9083,12/13/1950,"176 Main Way",San Jose,PA

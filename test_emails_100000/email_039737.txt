@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Delgado,richard.delgado670@business.net,+1 352-856-5932,289-18-8658,13/07/1996,"102 Second Ln",Boston,NJ

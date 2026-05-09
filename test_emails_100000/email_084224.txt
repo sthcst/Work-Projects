@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Edwards",
+    "email": "kevin.edwards5981@business.net",
+    "phone": "(380) 395-8557",
+    "ssn": "336 97 3214",
+    "dob": "08/15/1984",
+    "address": "9105 Second Ln",
+    "city": "San Diego",
+    "state": "WA"
+  }
+}

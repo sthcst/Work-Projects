@@ -1,0 +1,9 @@
+contact:
+  name: Brian Ortiz
+  email: brian.ortiz2477@example.com
+  phone: (578) 929-3408
+  ssn: 724 52 5927
+  dob: 1/26/2005
+  address: 1567 Elm St
+  city: San Jose
+  state: AZ

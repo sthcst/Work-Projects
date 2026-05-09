@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Thomas",
+    "email": "mark.thomas511@outlook.com",
+    "phone": "578-860-9472",
+    "ssn": "136927349",
+    "dob": "01/11/1956",
+    "address": "1229 Second St",
+    "city": "Denver",
+    "state": "PA"
+  }
+}

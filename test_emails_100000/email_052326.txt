@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Lee,ronald.lee3789@outlook.com,594-368-5423,296 33 5271,11/12/1964,"7523 Fifth Rd",Los Angeles,CA

@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Walker
+  email: stephanie.walker4428@business.net
+  phone: 207 938 1589
+  ssn: 978-43-9394
+  dob: 03/20/2001
+  address: 6455 East St
+  city: Washington
+  state: PA

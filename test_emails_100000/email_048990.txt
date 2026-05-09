@@ -1,0 +1,9 @@
+contact:
+  name: Jane Garcia
+  email: jane.garcia4780@work.org
+  phone: (326) 672-3156
+  ssn: 464 86 4009
+  dob: 6/18/1978
+  address: 7099 Birch Court
+  city: Denver
+  state: MI

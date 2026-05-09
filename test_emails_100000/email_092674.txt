@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Murillo,ronald.murillo7776@work.org,282-870-6752,201-46-2428,05-04-1976,"6817 South St",Jacksonville,CO

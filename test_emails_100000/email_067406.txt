@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Martinez,andrew.martinez3218@company.com,+1 381-357-1974,210 57 1783,04/25/2003,"9789 Summer Ave",Philadelphia,TN

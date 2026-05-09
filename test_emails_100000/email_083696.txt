@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Lee",
+    "email": "charles.lee7185@work.org",
+    "phone": "791-808-3385",
+    "ssn": "123276148",
+    "dob": "04/17/1972",
+    "address": "9528 Maple St",
+    "city": "San Jose",
+    "state": "MO"
+  }
+}

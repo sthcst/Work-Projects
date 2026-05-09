@@ -1,0 +1,9 @@
+contact:
+  name: Donald Ramirez
+  email: donald.ramirez9985@outlook.com
+  phone: 996-901-7397
+  ssn: 703 58 7437
+  dob: 01/24/1961
+  address: 933 Birch St
+  city: San Jose
+  state: DC

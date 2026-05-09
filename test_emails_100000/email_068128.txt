@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Alvarado,cynthia.alvarado4520@company.com,(849) 412-1090,627-78-5344,12/11/1977,"1552 Cedar Rd",Dallas,TN

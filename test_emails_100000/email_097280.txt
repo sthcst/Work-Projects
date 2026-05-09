@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Jackson",
+    "email": "michael.jackson7786@yahoo.com",
+    "phone": "327-563-7982",
+    "ssn": "316-65-7217",
+    "dob": "07/11/1977",
+    "address": "8060 Birch Way",
+    "city": "Seattle",
+    "state": "VA"
+  }
+}

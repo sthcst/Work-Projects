@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Delgado,christopher.delgado8619@work.org,467 817 3574,506 96 7459,04/11/1980,"6388 Spring Dr",San Antonio,MI

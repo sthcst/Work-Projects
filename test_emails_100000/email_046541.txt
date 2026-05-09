@@ -1,0 +1,9 @@
+contact:
+  name: Mark Martin
+  email: mark.martin5805@example.com
+  phone: 836 578 4931
+  ssn: 193275172
+  dob: 08/14/1979
+  address: 8336 Oak Dr
+  city: Phoenix
+  state: CO

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Smith",
+    "email": "jessica.smith4938@yahoo.com",
+    "phone": "363 590 9011",
+    "ssn": "055541213",
+    "dob": "03-23-1986",
+    "address": "978 Pine Way",
+    "city": "Phoenix",
+    "state": "MI"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Morris",
+    "email": "charles.morris7755@yahoo.com",
+    "phone": "(689) 353-3115",
+    "ssn": "848162228",
+    "dob": "06-20-1985",
+    "address": "4302 Maple Ave",
+    "city": "Austin",
+    "state": "NY"
+  }
+}

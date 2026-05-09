@@ -1,0 +1,14 @@
+INVOICE 873585
+
+Bill To:
+Name: Helen Dominguez
+Email: helen.dominguez8675@mail.com
+Phone: +1 778-248-5510
+SSN: 333 58 1584
+
+Address: 9483 North Rd
+Seattle, MA
+
+Date of Birth: 23/12/2000
+
+Amount Due: $2317

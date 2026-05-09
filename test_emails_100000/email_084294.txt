@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Collins",
+    "email": "samantha.collins7812@company.com",
+    "phone": "(993) 486-3114",
+    "ssn": "978988728",
+    "dob": "6/21/1974",
+    "address": "1407 Summer Ln",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

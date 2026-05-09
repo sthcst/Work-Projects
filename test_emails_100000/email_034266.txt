@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Jimenez",
+    "email": "jennifer.jimenez2750@outlook.com",
+    "phone": "(671) 824-1403",
+    "ssn": "822966435",
+    "dob": "14/04/1993",
+    "address": "2314 Third Way",
+    "city": "San Antonio",
+    "state": "CA"
+  }
+}

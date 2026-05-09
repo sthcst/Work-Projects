@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Phillips
+  email: kathleen.phillips879@company.com
+  phone: 592 729 4758
+  ssn: 001 80 5406
+  dob: 01/02/1981
+  address: 5738 First Ave
+  city: Boston
+  state: TX

@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Perez
+  email: ryan.perez7183@mail.com
+  phone: (203) 655-9638
+  ssn: 887-01-9541
+  dob: 17/08/1952
+  address: 191 First Ln
+  city: Denver
+  state: WI

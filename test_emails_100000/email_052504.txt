@@ -1,0 +1,14 @@
+INVOICE 508260
+
+Bill To:
+Name: Michael Alvarado
+Email: michael.alvarado8857@mail.com
+Phone: 872 340 9840
+SSN: 754-42-3275
+
+Address: 7434 Spring Rd
+San Antonio, TX
+
+Date of Birth: 25/07/1991
+
+Amount Due: $9347

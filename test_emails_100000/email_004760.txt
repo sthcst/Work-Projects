@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Edwards",
+    "email": "matthew.edwards9820@mail.com",
+    "phone": "+1 986-706-3384",
+    "ssn": "160621554",
+    "dob": "01/11/1997",
+    "address": "6993 Main St",
+    "city": "Jacksonville",
+    "state": "VA"
+  }
+}

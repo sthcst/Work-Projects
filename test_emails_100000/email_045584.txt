@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Smith
+  email: samantha.smith3647@example.com
+  phone: 394 613 9758
+  ssn: 425-46-3847
+  dob: 6/22/1981
+  address: 3163 Oak Ave
+  city: Washington
+  state: TX

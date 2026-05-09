@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Reed",
+    "email": "ronald.reed4208@example.com",
+    "phone": "+1 899-708-8730",
+    "ssn": "513 09 4645",
+    "dob": "09/10/1997",
+    "address": "2983 Main Dr",
+    "city": "Boston",
+    "state": "FL"
+  }
+}

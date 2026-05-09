@@ -1,0 +1,14 @@
+INVOICE 671243
+
+Bill To:
+Name: Jeffrey Jones
+Email: jeffrey.jones2069@yahoo.com
+Phone: (530) 592-9082
+SSN: 202-71-9154
+
+Address: 2265 Second Dr
+Houston, TN
+
+Date of Birth: 06/09/1973
+
+Amount Due: $239

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Lopez",
+    "email": "michael.lopez4779@yahoo.com",
+    "phone": "790 342 1684",
+    "ssn": "687-01-1538",
+    "dob": "07-18-1984",
+    "address": "8933 Main St",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

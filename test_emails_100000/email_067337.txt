@@ -1,0 +1,14 @@
+INVOICE 828246
+
+Bill To:
+Name: Anthony Moore
+Email: anthony.moore2100@mail.com
+Phone: 345 786 6581
+SSN: 984 78 2670
+
+Address: 4873 South Ave
+Denver, DC
+
+Date of Birth: 02/14/1977
+
+Amount Due: $2529

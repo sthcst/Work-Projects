@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Roberts",
+    "email": "jennifer.roberts7565@yahoo.com",
+    "phone": "747 290 5535",
+    "ssn": "575995096",
+    "dob": "08/03/1981",
+    "address": "4155 Park St",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

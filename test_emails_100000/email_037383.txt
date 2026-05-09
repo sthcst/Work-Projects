@@ -1,0 +1,14 @@
+INVOICE 553290
+
+Bill To:
+Name: Joshua White
+Email: joshua.white4005@company.com
+Phone: 794 271 9916
+SSN: 440 01 2714
+
+Address: 8482 Third Dr
+San Diego, OH
+
+Date of Birth: 10/12/2004
+
+Amount Due: $4870

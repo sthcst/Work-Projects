@@ -1,0 +1,14 @@
+INVOICE 787636
+
+Bill To:
+Name: David Perez
+Email: david.perez1349@work.org
+Phone: +1 422-874-7849
+SSN: 704107616
+
+Address: 8676 North Ave
+Chicago, TX
+
+Date of Birth: 5/14/1977
+
+Amount Due: $7742

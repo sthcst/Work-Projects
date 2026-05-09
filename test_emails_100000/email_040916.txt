@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Flores,lauren.flores5973@example.com,298-697-9668,106 78 7066,02-25-1984,"2180 Pine Ln",San Diego,TN

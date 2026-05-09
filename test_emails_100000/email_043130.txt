@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Gomez,edward.gomez9024@gmail.com,215-330-6334,906-39-9427,12-03-1958,"2575 South Court",Austin,MA

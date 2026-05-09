@@ -1,0 +1,14 @@
+INVOICE 614050
+
+Bill To:
+Name: Helen Thompson
+Email: helen.thompson1071@gmail.com
+Phone: +1 312-444-7930
+SSN: 886016930
+
+Address: 1755 Park Ave
+San Antonio, CO
+
+Date of Birth: 7/7/1970
+
+Amount Due: $5931

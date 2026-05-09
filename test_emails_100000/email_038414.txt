@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Williams",
+    "email": "angela.williams4694@work.org",
+    "phone": "+1 520-428-8671",
+    "ssn": "983-34-4578",
+    "dob": "12/9/1965",
+    "address": "651 North Rd",
+    "city": "Seattle",
+    "state": "NJ"
+  }
+}

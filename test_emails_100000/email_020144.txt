@@ -1,0 +1,9 @@
+contact:
+  name: Anna Rogers
+  email: anna.rogers6852@company.com
+  phone: +1 646-896-8662
+  ssn: 880828377
+  dob: 14/03/1970
+  address: 690 Fifth Blvd
+  city: Los Angeles
+  state: MI

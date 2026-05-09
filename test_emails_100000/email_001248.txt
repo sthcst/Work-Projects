@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Ramirez
+  email: nicholas.ramirez6356@outlook.com
+  phone: (395) 402-9209
+  ssn: 330-37-1223
+  dob: 04-14-1987
+  address: 2138 Fourth Blvd
+  city: Los Angeles
+  state: WA

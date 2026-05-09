@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Lopez,emma.lopez1109@business.net,+1 819-690-1001,030-79-2448,27/08/1984,"9817 Maple Blvd",Houston,AZ

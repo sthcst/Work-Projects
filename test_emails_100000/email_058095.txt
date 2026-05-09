@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Wilson",
+    "email": "edward.wilson4933@example.com",
+    "phone": "(843) 887-5349",
+    "ssn": "803 67 1536",
+    "dob": "03-26-1957",
+    "address": "845 Birch Blvd",
+    "city": "Seattle",
+    "state": "NC"
+  }
+}

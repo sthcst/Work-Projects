@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Gomez
+  email: katherine.gomez420@company.com
+  phone: +1 983-281-5126
+  ssn: 370103134
+  dob: 08-27-1977
+  address: 9613 Spring Blvd
+  city: Boston
+  state: NC

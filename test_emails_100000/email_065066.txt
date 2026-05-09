@@ -1,0 +1,9 @@
+contact:
+  name: Jane Garcia
+  email: jane.garcia1967@yahoo.com
+  phone: 857-519-2391
+  ssn: 278184913
+  dob: 10/12/1959
+  address: 4901 Elm Way
+  city: Washington
+  state: GA

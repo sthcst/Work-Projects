@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Wilson,joseph.wilson5767@example.com,+1 551-425-4141,714 83 9129,12/07/1994,"6196 East Rd",Houston,TX

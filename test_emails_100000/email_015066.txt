@@ -1,0 +1,9 @@
+contact:
+  name: Emma Perez
+  email: emma.perez9976@mail.com
+  phone: +1 230-597-9943
+  ssn: 249558174
+  dob: 19/04/1983
+  address: 691 Elm Ln
+  city: Austin
+  state: TX

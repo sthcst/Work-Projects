@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Rodriguez,andrew.rodriguez2908@gmail.com,+1 855-571-8671,178 06 7498,12/26/1984,"6457 Park Court",Denver,TX

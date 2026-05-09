@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Reed",
+    "email": "christine.reed7662@outlook.com",
+    "phone": "+1 489-848-8636",
+    "ssn": "121 01 4074",
+    "dob": "03/08/1956",
+    "address": "2200 Birch Blvd",
+    "city": "New York",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: James Flores
+  email: james.flores1158@yahoo.com
+  phone: 205-381-2011
+  ssn: 382 32 8864
+  dob: 06-21-1992
+  address: 5652 First Ave
+  city: Phoenix
+  state: NJ

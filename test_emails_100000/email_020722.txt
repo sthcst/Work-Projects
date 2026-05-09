@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Flores",
+    "email": "david.flores5582@gmail.com",
+    "phone": "695 831 5168",
+    "ssn": "481 34 3735",
+    "dob": "03/08/1973",
+    "address": "476 First Ln",
+    "city": "San Diego",
+    "state": "MD"
+  }
+}

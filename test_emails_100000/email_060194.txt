@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Jimenez",
+    "email": "rachel.jimenez350@example.com",
+    "phone": "444 286 3552",
+    "ssn": "540 50 5645",
+    "dob": "01/19/1985",
+    "address": "2337 Elm Blvd",
+    "city": "Austin",
+    "state": "WA"
+  }
+}

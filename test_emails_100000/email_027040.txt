@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Lopez
+  email: lauren.lopez9775@gmail.com
+  phone: +1 436-300-7917
+  ssn: 143-02-5201
+  dob: 06-11-1992
+  address: 2727 South Ln
+  city: Austin
+  state: MA

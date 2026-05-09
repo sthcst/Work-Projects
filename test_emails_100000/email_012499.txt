@@ -1,0 +1,14 @@
+INVOICE 654340
+
+Bill To:
+Name: Christine Young
+Email: christine.young9568@mail.com
+Phone: 661 598 8260
+SSN: 841-29-6487
+
+Address: 1498 North Rd
+New York, PA
+
+Date of Birth: 2/17/1992
+
+Amount Due: $5293

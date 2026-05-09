@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Reed",
+    "email": "matthew.reed7913@example.com",
+    "phone": "(758) 319-2331",
+    "ssn": "632484823",
+    "dob": "12-05-1985",
+    "address": "9826 Summer Rd",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

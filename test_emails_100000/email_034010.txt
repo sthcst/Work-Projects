@@ -1,0 +1,14 @@
+INVOICE 812621
+
+Bill To:
+Name: Richard Gonzalez
+Email: richard.gonzalez416@outlook.com
+Phone: +1 781-330-6668
+SSN: 556 01 8022
+
+Address: 5003 South Blvd
+Phoenix, CO
+
+Date of Birth: 6/1/1953
+
+Amount Due: $9327

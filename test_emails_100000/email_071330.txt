@@ -1,0 +1,9 @@
+contact:
+  name: Christine Ramirez
+  email: christine.ramirez4328@example.com
+  phone: 361-748-1094
+  ssn: 328 94 3938
+  dob: 10/19/1968
+  address: 4116 Pine Blvd
+  city: Boston
+  state: CO

@@ -1,0 +1,9 @@
+contact:
+  name: Emily Smith
+  email: emily.smith1166@company.com
+  phone: 724 715 5866
+  ssn: 355-38-5554
+  dob: 21/09/1963
+  address: 9193 North Dr
+  city: Phoenix
+  state: WA

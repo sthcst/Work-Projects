@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Harris",
+    "email": "nicole.harris6950@yahoo.com",
+    "phone": "271-624-9267",
+    "ssn": "566987210",
+    "dob": "08-03-1959",
+    "address": "7101 Park Blvd",
+    "city": "San Antonio",
+    "state": "IL"
+  }
+}

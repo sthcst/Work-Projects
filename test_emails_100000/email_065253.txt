@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Taylor,rachel.taylor1009@yahoo.com,531 949 4914,953-44-5915,25/08/1981,"7328 Third St",Phoenix,WI

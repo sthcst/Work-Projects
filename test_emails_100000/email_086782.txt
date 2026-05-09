@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Rodriguez,charles.rodriguez4118@outlook.com,+1 900-335-2283,008-11-3685,2/25/1982,"5591 West Court",Austin,MA

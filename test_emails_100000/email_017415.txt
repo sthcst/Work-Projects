@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Jackson
+  email: jessica.jackson4741@business.net
+  phone: 975-597-9102
+  ssn: 673535045
+  dob: 5/10/1976
+  address: 7961 Main Court
+  city: San Antonio
+  state: TX

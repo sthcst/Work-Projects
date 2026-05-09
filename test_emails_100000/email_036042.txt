@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Anderson",
+    "email": "kathleen.anderson4264@example.com",
+    "phone": "605 335 7000",
+    "ssn": "006862869",
+    "dob": "04/15/1990",
+    "address": "6058 Summer Rd",
+    "city": "San Antonio",
+    "state": "FL"
+  }
+}

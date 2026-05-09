@@ -1,0 +1,9 @@
+contact:
+  name: Gary Edwards
+  email: gary.edwards5964@mail.com
+  phone: +1 780-242-4867
+  ssn: 844 32 2134
+  dob: 03-03-1966
+  address: 8291 Sixth Way
+  city: Phoenix
+  state: MD

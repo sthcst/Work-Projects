@@ -1,0 +1,9 @@
+contact:
+  name: Charles Taylor
+  email: charles.taylor130@outlook.com
+  phone: 502-308-1640
+  ssn: 214 63 9819
+  dob: 11-18-1953
+  address: 9143 Sixth St
+  city: Seattle
+  state: PA

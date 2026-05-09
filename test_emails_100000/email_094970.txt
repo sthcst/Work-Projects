@@ -1,0 +1,9 @@
+contact:
+  name: Angela Davis
+  email: angela.davis72@outlook.com
+  phone: +1 421-945-7250
+  ssn: 290 21 6938
+  dob: 02-12-1974
+  address: 8973 Sixth Dr
+  city: Boston
+  state: OH

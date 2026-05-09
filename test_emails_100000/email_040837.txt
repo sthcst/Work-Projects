@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Johnson,angela.johnson7750@business.net,508 574 3469,332514746,05-05-1995,"3825 Birch Court",Los Angeles,AZ

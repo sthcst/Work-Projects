@@ -1,0 +1,14 @@
+INVOICE 408977
+
+Bill To:
+Name: Edward Johnson
+Email: edward.johnson7548@mail.com
+Phone: (339) 693-1177
+SSN: 760 89 1515
+
+Address: 6091 Elm Court
+Boston, FL
+
+Date of Birth: 21/07/1984
+
+Amount Due: $4043

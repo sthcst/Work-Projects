@@ -1,0 +1,14 @@
+INVOICE 442285
+
+Bill To:
+Name: Anthony Lopez
+Email: anthony.lopez5528@gmail.com
+Phone: +1 981-885-8361
+SSN: 653-65-2244
+
+Address: 178 Birch Rd
+Los Angeles, CA
+
+Date of Birth: 14/12/1964
+
+Amount Due: $5947

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Ortiz,andrew.ortiz3888@outlook.com,(593) 488-1096,066418122,27/10/1951,"4216 Park St",Washington,CA

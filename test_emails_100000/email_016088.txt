@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Miller,paul.miller772@work.org,+1 395-535-5690,447-37-4061,01-21-1950,"2745 South Way",Washington,WA

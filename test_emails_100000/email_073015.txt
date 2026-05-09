@@ -1,0 +1,14 @@
+INVOICE 735782
+
+Bill To:
+Name: Edward Davis
+Email: edward.davis1596@example.com
+Phone: +1 341-845-7926
+SSN: 797772313
+
+Address: 3073 South Blvd
+Los Angeles, CA
+
+Date of Birth: 5/1/1966
+
+Amount Due: $715

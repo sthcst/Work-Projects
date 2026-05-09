@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Cooper",
+    "email": "kenneth.cooper6917@outlook.com",
+    "phone": "+1 529-714-1722",
+    "ssn": "097999400",
+    "dob": "23/07/1967",
+    "address": "8568 Summer Dr",
+    "city": "Dallas",
+    "state": "CO"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Walker",
+    "email": "katherine.walker4419@business.net",
+    "phone": "971 730 4168",
+    "ssn": "853 26 3863",
+    "dob": "10/08/1965",
+    "address": "6548 South Rd",
+    "city": "Jacksonville",
+    "state": "AZ"
+  }
+}

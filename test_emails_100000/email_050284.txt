@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Cooper,shirley.cooper7745@mail.com,958 584 7029,319 06 6563,07/05/1995,"8823 Birch Way",Austin,TX

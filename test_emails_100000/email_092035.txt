@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Martinez",
+    "email": "steven.martinez8896@example.com",
+    "phone": "888 243 6509",
+    "ssn": "380 29 9864",
+    "dob": "4/12/2005",
+    "address": "3456 Third Rd",
+    "city": "Los Angeles",
+    "state": "MO"
+  }
+}

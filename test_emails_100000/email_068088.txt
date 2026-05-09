@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Johnson
+  email: nicholas.johnson2026@outlook.com
+  phone: 576 704 6825
+  ssn: 128718023
+  dob: 11/4/1966
+  address: 4328 Fourth Dr
+  city: Houston
+  state: NJ

@@ -1,0 +1,14 @@
+INVOICE 717414
+
+Bill To:
+Name: Gary Carter
+Email: gary.carter3171@example.com
+Phone: (653) 957-6768
+SSN: 813 10 3118
+
+Address: 410 First Dr
+Boston, TN
+
+Date of Birth: 26/01/2003
+
+Amount Due: $2985

@@ -1,0 +1,14 @@
+INVOICE 332037
+
+Bill To:
+Name: Brian Smith
+Email: brian.smith3428@business.net
+Phone: +1 584-902-1630
+SSN: 139 37 9323
+
+Address: 8352 Birch St
+Denver, CO
+
+Date of Birth: 02-05-1988
+
+Amount Due: $4207

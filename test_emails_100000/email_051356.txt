@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Phillips
+  email: joseph.phillips7891@company.com
+  phone: +1 352-609-6734
+  ssn: 342 70 3900
+  dob: 28/11/1957
+  address: 9977 Second Court
+  city: Chicago
+  state: NY

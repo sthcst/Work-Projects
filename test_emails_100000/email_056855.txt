@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Edwards,emma.edwards5964@business.net,662 209 9575,409-43-5236,09/09/1963,"7441 Fourth St",San Jose,MA

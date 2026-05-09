@@ -1,0 +1,9 @@
+contact:
+  name: George Romero
+  email: george.romero9723@yahoo.com
+  phone: 558 873 1386
+  ssn: 973402060
+  dob: 08/23/2005
+  address: 8987 Fifth Blvd
+  city: San Antonio
+  state: AZ

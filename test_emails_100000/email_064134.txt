@@ -1,0 +1,14 @@
+INVOICE 713283
+
+Bill To:
+Name: Jacob Bell
+Email: jacob.bell4202@example.com
+Phone: (221) 494-4267
+SSN: 370716354
+
+Address: 5167 Oak St
+Houston, TN
+
+Date of Birth: 02-25-1956
+
+Amount Due: $9319

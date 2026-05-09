@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Nunez,timothy.nunez9874@outlook.com,869 329 9559,539-21-9441,8/14/1954,"1913 Third Court",Seattle,VA

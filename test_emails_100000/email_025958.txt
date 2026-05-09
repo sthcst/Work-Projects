@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Harris",
+    "email": "helen.harris6529@business.net",
+    "phone": "(873) 402-2830",
+    "ssn": "766186605",
+    "dob": "08/25/1975",
+    "address": "9391 Birch Ln",
+    "city": "Dallas",
+    "state": "NY"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Romero",
+    "email": "edward.romero8576@gmail.com",
+    "phone": "+1 995-385-5468",
+    "ssn": "919-19-7910",
+    "dob": "26/12/1994",
+    "address": "9152 Sixth Ave",
+    "city": "Jacksonville",
+    "state": "NC"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Brown",
+    "email": "kathleen.brown531@company.com",
+    "phone": "+1 679-922-2050",
+    "ssn": "404 92 3753",
+    "dob": "4/28/1963",
+    "address": "3112 Summer Ln",
+    "city": "San Jose",
+    "state": "OH"
+  }
+}

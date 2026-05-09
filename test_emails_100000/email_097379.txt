@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Alvarado",
+    "email": "sarah.alvarado9320@outlook.com",
+    "phone": "311-714-9850",
+    "ssn": "339 18 2309",
+    "dob": "08/07/1952",
+    "address": "7700 Fifth Way",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}

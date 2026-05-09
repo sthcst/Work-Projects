@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Hall",
+    "email": "charles.hall5112@company.com",
+    "phone": "(886) 335-5548",
+    "ssn": "813 95 3670",
+    "dob": "23/02/2000",
+    "address": "9735 Summer Dr",
+    "city": "Chicago",
+    "state": "WA"
+  }
+}

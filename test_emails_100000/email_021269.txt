@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Jackson
+  email: deborah.jackson2903@example.com
+  phone: +1 969-582-2023
+  ssn: 721849911
+  dob: 26/07/1983
+  address: 9312 Birch Blvd
+  city: Jacksonville
+  state: MD

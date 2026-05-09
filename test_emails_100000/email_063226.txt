@@ -1,0 +1,14 @@
+INVOICE 139868
+
+Bill To:
+Name: Timothy Gomez
+Email: timothy.gomez157@yahoo.com
+Phone: 566-579-7439
+SSN: 587-92-9067
+
+Address: 2553 East Ave
+Seattle, MA
+
+Date of Birth: 2/25/1986
+
+Amount Due: $8659

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Nunez,michael.nunez3030@mail.com,(757) 855-3389,722-51-2874,6/4/1964,"4744 Summer Ln",Austin,DC

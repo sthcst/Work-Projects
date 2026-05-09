@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Edwards",
+    "email": "kathleen.edwards7183@yahoo.com",
+    "phone": "378 482 3146",
+    "ssn": "356072667",
+    "dob": "03/24/1952",
+    "address": "4684 Second Court",
+    "city": "Philadelphia",
+    "state": "CA"
+  }
+}

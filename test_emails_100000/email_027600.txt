@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Rogers,kenneth.rogers6255@yahoo.com,596-698-5519,246-30-6498,8/1/1985,"4100 Fourth Court",San Antonio,NC

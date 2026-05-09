@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Reeves",
+    "email": "gary.reeves2753@yahoo.com",
+    "phone": "+1 489-256-1426",
+    "ssn": "986-90-7983",
+    "dob": "10/12/1985",
+    "address": "5346 Pine Way",
+    "city": "Austin",
+    "state": "TN"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Nelson,kenneth.nelson3191@example.com,+1 627-785-4274,108214772,3/22/1987,"6766 Fourth St",San Jose,NY

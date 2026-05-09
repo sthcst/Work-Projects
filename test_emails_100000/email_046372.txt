@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Williams
+  email: ronald.williams6@business.net
+  phone: 218-208-4299
+  ssn: 870 82 8474
+  dob: 12/07/1981
+  address: 8069 Fifth Rd
+  city: Houston
+  state: IL

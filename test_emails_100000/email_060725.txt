@@ -1,0 +1,14 @@
+INVOICE 479282
+
+Bill To:
+Name: Anna Clark
+Email: anna.clark7183@company.com
+Phone: 380-889-3041
+SSN: 232034770
+
+Address: 7948 Elm Ave
+San Jose, MA
+
+Date of Birth: 5/22/1980
+
+Amount Due: $7683

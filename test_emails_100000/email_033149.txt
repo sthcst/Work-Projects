@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Gomez",
+    "email": "deborah.gomez4741@example.com",
+    "phone": "(758) 224-5138",
+    "ssn": "597 81 8973",
+    "dob": "07/25/1972",
+    "address": "9899 Birch Court",
+    "city": "Boston",
+    "state": "NJ"
+  }
+}

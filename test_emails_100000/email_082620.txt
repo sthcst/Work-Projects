@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Rogers
+  email: nicole.rogers9974@outlook.com
+  phone: 779-446-9433
+  ssn: 083-62-9990
+  dob: 01/09/1952
+  address: 8271 Sixth Blvd
+  city: New York
+  state: TN

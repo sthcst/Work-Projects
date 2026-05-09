@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Lopez",
+    "email": "christine.lopez8049@outlook.com",
+    "phone": "972 760 4508",
+    "ssn": "246019721",
+    "dob": "02-02-1997",
+    "address": "4164 South Court",
+    "city": "Phoenix",
+    "state": "GA"
+  }
+}

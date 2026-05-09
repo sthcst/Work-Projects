@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Reeves,richard.reeves7116@yahoo.com,+1 899-461-2781,083 17 8438,05/26/1993,"6037 Main Ln",Philadelphia,MI

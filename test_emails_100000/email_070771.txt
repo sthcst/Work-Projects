@@ -1,0 +1,14 @@
+INVOICE 727099
+
+Bill To:
+Name: Brenda Smith
+Email: brenda.smith4858@outlook.com
+Phone: 608-979-9493
+SSN: 326835694
+
+Address: 8173 Cedar Rd
+Phoenix, TX
+
+Date of Birth: 11/7/1987
+
+Amount Due: $965

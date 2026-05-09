@@ -1,0 +1,9 @@
+contact:
+  name: Richard Martinez
+  email: richard.martinez3310@outlook.com
+  phone: (877) 547-4257
+  ssn: 990977446
+  dob: 22/12/1957
+  address: 8430 Third Way
+  city: Boston
+  state: CA

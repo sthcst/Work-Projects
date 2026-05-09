@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Guerrero",
+    "email": "christine.guerrero6346@company.com",
+    "phone": "840-240-4747",
+    "ssn": "796-21-5055",
+    "dob": "15/10/1975",
+    "address": "958 Cedar Blvd",
+    "city": "San Jose",
+    "state": "MA"
+  }
+}

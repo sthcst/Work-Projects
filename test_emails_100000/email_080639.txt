@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Phillips",
+    "email": "jason.phillips386@example.com",
+    "phone": "(380) 842-1112",
+    "ssn": "667 96 7651",
+    "dob": "9/25/1975",
+    "address": "8257 Elm Blvd",
+    "city": "Washington",
+    "state": "AZ"
+  }
+}

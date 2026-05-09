@@ -1,0 +1,14 @@
+INVOICE 673547
+
+Bill To:
+Name: Cynthia Edwards
+Email: cynthia.edwards7283@example.com
+Phone: (916) 261-1325
+SSN: 467321509
+
+Address: 6359 East Rd
+Dallas, TX
+
+Date of Birth: 10/12/1985
+
+Amount Due: $3240

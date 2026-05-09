@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Delgado",
+    "email": "christopher.delgado8243@business.net",
+    "phone": "796-623-9019",
+    "ssn": "339-03-9247",
+    "dob": "19/04/1989",
+    "address": "3634 Fifth Ln",
+    "city": "Boston",
+    "state": "VA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Ramirez,steven.ramirez2281@outlook.com,969-947-2784,272-68-6873,13/09/2001,"1712 Spring Rd",Washington,FL

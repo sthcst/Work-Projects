@@ -1,0 +1,12 @@
+SUPPORT TICKET #73540
+
+Customer: George Johnson
+Email: george.johnson9975@example.com
+Phone: (674) 220-8221
+Account: 410986354
+
+Issue Description: Technical problem reported
+DOB on file: 3/25/1976
+Address: 7333 East Dr, Phoenix, OH
+
+Status: OPEN

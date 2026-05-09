@@ -1,0 +1,14 @@
+INVOICE 617379
+
+Bill To:
+Name: Lisa Lee
+Email: lisa.lee3190@example.com
+Phone: 627 317 9604
+SSN: 528-85-1279
+
+Address: 6151 Cedar Way
+New York, CA
+
+Date of Birth: 10-10-2003
+
+Amount Due: $2271

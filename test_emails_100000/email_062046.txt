@@ -1,0 +1,9 @@
+contact:
+  name: William Guerrero
+  email: william.guerrero1532@company.com
+  phone: (284) 576-6659
+  ssn: 475432418
+  dob: 12-03-1952
+  address: 8884 Cedar Ave
+  city: Jacksonville
+  state: IL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Phillips",
+    "email": "emily.phillips9720@mail.com",
+    "phone": "299 894 1138",
+    "ssn": "376-43-3524",
+    "dob": "23/03/1992",
+    "address": "8494 Fourth Dr",
+    "city": "Seattle",
+    "state": "FL"
+  }
+}

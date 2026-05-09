@@ -1,0 +1,9 @@
+contact:
+  name: Paul Sanchez
+  email: paul.sanchez1630@example.com
+  phone: +1 228-472-4433
+  ssn: 707-88-3746
+  dob: 11-25-1972
+  address: 2134 Third Dr
+  city: New York
+  state: MD

@@ -1,0 +1,9 @@
+contact:
+  name: John Flores
+  email: john.flores810@work.org
+  phone: 700 695 9313
+  ssn: 335-83-8879
+  dob: 04/09/1959
+  address: 1988 Cedar St
+  city: Phoenix
+  state: NC

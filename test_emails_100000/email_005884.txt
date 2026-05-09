@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert White",
+    "email": "robert.white7377@example.com",
+    "phone": "595-881-7134",
+    "ssn": "873-67-6551",
+    "dob": "11/10/1974",
+    "address": "4914 Summer St",
+    "city": "Jacksonville",
+    "state": "IL"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Lee
+  email: ashley.lee528@company.com
+  phone: (554) 758-7287
+  ssn: 219-76-7090
+  dob: 07/17/1961
+  address: 1729 Third Court
+  city: San Jose
+  state: MD

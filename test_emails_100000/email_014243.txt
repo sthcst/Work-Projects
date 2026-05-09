@@ -1,0 +1,9 @@
+contact:
+  name: James White
+  email: james.white537@business.net
+  phone: +1 837-967-6769
+  ssn: 185-88-9230
+  dob: 01/05/1981
+  address: 5926 Maple St
+  city: Houston
+  state: NJ

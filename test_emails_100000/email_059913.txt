@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Jackson",
+    "email": "samantha.jackson4412@yahoo.com",
+    "phone": "415-326-4580",
+    "ssn": "249225557",
+    "dob": "11/2/1982",
+    "address": "4619 Pine Court",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

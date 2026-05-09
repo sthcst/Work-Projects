@@ -1,0 +1,14 @@
+INVOICE 745825
+
+Bill To:
+Name: Jane Wilson
+Email: jane.wilson2922@yahoo.com
+Phone: +1 468-887-1140
+SSN: 189 78 4596
+
+Address: 47 Sixth Blvd
+San Diego, TX
+
+Date of Birth: 06-14-1959
+
+Amount Due: $6272

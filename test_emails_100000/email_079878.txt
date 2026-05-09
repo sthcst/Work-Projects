@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Thomas
+  email: daniel.thomas8515@business.net
+  phone: (438) 466-3809
+  ssn: 140925783
+  dob: 12/16/1971
+  address: 1618 Elm Dr
+  city: Los Angeles
+  state: PA

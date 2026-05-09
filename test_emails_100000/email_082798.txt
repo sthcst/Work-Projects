@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Jones
+  email: daniel.jones7852@outlook.com
+  phone: (286) 807-2304
+  ssn: 299-53-2478
+  dob: 15/04/1984
+  address: 2820 Cedar Dr
+  city: San Jose
+  state: MI

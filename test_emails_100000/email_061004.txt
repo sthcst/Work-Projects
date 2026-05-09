@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Dominguez",
+    "email": "daniel.dominguez5935@company.com",
+    "phone": "274 709 7045",
+    "ssn": "902 67 9275",
+    "dob": "10/05/1995",
+    "address": "9440 North Way",
+    "city": "New York",
+    "state": "AZ"
+  }
+}

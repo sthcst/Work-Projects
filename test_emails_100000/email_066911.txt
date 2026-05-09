@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Reed",
+    "email": "nicholas.reed2414@gmail.com",
+    "phone": "381-275-8834",
+    "ssn": "003-57-9431",
+    "dob": "12/15/1951",
+    "address": "8956 Fifth Court",
+    "city": "Boston",
+    "state": "DC"
+  }
+}

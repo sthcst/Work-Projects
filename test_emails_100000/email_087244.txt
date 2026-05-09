@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Sanchez",
+    "email": "emily.sanchez9229@business.net",
+    "phone": "794 506 4810",
+    "ssn": "375 98 6290",
+    "dob": "3/4/2005",
+    "address": "7123 Birch St",
+    "city": "Austin",
+    "state": "NJ"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 678487
+
+Bill To:
+Name: Emma Romero
+Email: emma.romero7091@outlook.com
+Phone: 804-607-3383
+SSN: 929 17 8257
+
+Address: 6904 Cedar Court
+San Jose, TX
+
+Date of Birth: 07-17-1975
+
+Amount Due: $2073

@@ -1,0 +1,9 @@
+contact:
+  name: Michael Edwards
+  email: michael.edwards8319@gmail.com
+  phone: +1 886-998-2647
+  ssn: 917982383
+  dob: 10/05/1981
+  address: 9925 Third Rd
+  city: Boston
+  state: NC

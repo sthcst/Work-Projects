@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Gonzalez",
+    "email": "cynthia.gonzalez6801@yahoo.com",
+    "phone": "(355) 515-6705",
+    "ssn": "888146102",
+    "dob": "04/15/1968",
+    "address": "5685 Third Ave",
+    "city": "Jacksonville",
+    "state": "IL"
+  }
+}

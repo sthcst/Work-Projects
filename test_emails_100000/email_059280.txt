@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Guerrero",
+    "email": "anna.guerrero8612@business.net",
+    "phone": "219-451-5776",
+    "ssn": "269-77-3380",
+    "dob": "03-04-1974",
+    "address": "7379 Maple Rd",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

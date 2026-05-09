@@ -1,0 +1,14 @@
+INVOICE 197599
+
+Bill To:
+Name: Andrew Alvarado
+Email: andrew.alvarado5240@gmail.com
+Phone: 858 781 1100
+SSN: 339-09-6263
+
+Address: 3450 Cedar Dr
+Boston, PA
+
+Date of Birth: 9/24/1957
+
+Amount Due: $1939

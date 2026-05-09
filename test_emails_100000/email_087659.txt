@@ -1,0 +1,14 @@
+INVOICE 960900
+
+Bill To:
+Name: Katherine Reeves
+Email: katherine.reeves3738@example.com
+Phone: 691 599 1046
+SSN: 601 23 4117
+
+Address: 539 Maple Ave
+Los Angeles, PA
+
+Date of Birth: 18/02/1959
+
+Amount Due: $9392

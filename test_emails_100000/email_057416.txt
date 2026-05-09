@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Hernandez",
+    "email": "jeffrey.hernandez4582@business.net",
+    "phone": "717-609-3979",
+    "ssn": "664394833",
+    "dob": "11/18/1966",
+    "address": "4872 Summer Ln",
+    "city": "Dallas",
+    "state": "MI"
+  }
+}

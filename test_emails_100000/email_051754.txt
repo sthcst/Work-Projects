@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Ortiz",
+    "email": "charles.ortiz7379@business.net",
+    "phone": "468 240 2105",
+    "ssn": "152-17-8679",
+    "dob": "3/18/2004",
+    "address": "6348 East Dr",
+    "city": "Houston",
+    "state": "MA"
+  }
+}

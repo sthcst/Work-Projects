@@ -1,0 +1,9 @@
+contact:
+  name: Emma Bell
+  email: emma.bell4505@business.net
+  phone: (562) 235-7124
+  ssn: 722572284
+  dob: 10/06/1967
+  address: 3936 Fourth Rd
+  city: Phoenix
+  state: NC

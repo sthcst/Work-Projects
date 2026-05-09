@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Alvarado",
+    "email": "george.alvarado9601@mail.com",
+    "phone": "(996) 471-1753",
+    "ssn": "496879390",
+    "dob": "25/10/1958",
+    "address": "998 Main Way",
+    "city": "San Diego",
+    "state": "FL"
+  }
+}

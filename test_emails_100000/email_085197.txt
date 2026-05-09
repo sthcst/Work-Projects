@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Walker",
+    "email": "rachel.walker9070@company.com",
+    "phone": "496-970-1640",
+    "ssn": "748 63 3759",
+    "dob": "01-17-1986",
+    "address": "793 Second Ln",
+    "city": "Philadelphia",
+    "state": "MA"
+  }
+}

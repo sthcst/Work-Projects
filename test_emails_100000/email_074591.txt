@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Peterson,george.peterson5735@outlook.com,828 624 5778,019 05 7619,12/10/1990,"9771 Oak Dr",Los Angeles,PA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Delgado",
+    "email": "angela.delgado7126@gmail.com",
+    "phone": "+1 460-616-1535",
+    "ssn": "906-50-8861",
+    "dob": "4/15/1951",
+    "address": "8630 Third Blvd",
+    "city": "Austin",
+    "state": "NC"
+  }
+}

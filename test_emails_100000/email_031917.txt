@@ -1,0 +1,14 @@
+INVOICE 715049
+
+Bill To:
+Name: John Garcia
+Email: john.garcia3661@example.com
+Phone: +1 414-790-7859
+SSN: 147117986
+
+Address: 599 Maple Dr
+Chicago, IL
+
+Date of Birth: 9/15/1974
+
+Amount Due: $7802

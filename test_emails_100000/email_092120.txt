@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Perez",
+    "email": "christine.perez3568@example.com",
+    "phone": "838 213 7303",
+    "ssn": "087121308",
+    "dob": "04/21/1971",
+    "address": "3354 South St",
+    "city": "Seattle",
+    "state": "MD"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Martin,daniel.martin5282@example.com,454-739-7147,991 43 3686,12/05/1950,"5233 Summer Ave",Denver,CA

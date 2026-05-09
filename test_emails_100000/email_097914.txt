@@ -1,0 +1,14 @@
+INVOICE 319375
+
+Bill To:
+Name: Christopher Ortiz
+Email: christopher.ortiz4820@company.com
+Phone: 777 226 5630
+SSN: 655 57 1419
+
+Address: 9561 Third Rd
+Chicago, CA
+
+Date of Birth: 04/08/1981
+
+Amount Due: $2873

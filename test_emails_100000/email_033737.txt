@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Rodriguez
+  email: anthony.rodriguez7087@outlook.com
+  phone: +1 354-918-3384
+  ssn: 478-06-9817
+  dob: 11/16/1998
+  address: 6101 South Rd
+  city: Dallas
+  state: TX

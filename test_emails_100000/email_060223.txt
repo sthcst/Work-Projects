@@ -1,0 +1,12 @@
+SUPPORT TICKET #76238
+
+Customer: Jennifer Serrano
+Email: jennifer.serrano2943@example.com
+Phone: +1 592-942-5359
+Account: 908-19-3837
+
+Issue Description: Technical problem reported
+DOB on file: 02-05-1956
+Address: 9776 First St, Denver, DC
+
+Status: OPEN

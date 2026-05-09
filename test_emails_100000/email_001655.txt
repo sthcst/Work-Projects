@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Martin",
+    "email": "samantha.martin3461@mail.com",
+    "phone": "+1 715-498-6894",
+    "ssn": "804-61-3440",
+    "dob": "09-01-1959",
+    "address": "1880 Main Dr",
+    "city": "Chicago",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Guerrero,michelle.guerrero3262@gmail.com,265-651-1987,621669233,03/27/1996,"8747 Birch Court",Philadelphia,NJ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Perez,john.perez3049@company.com,+1 393-306-1959,669508961,05-16-1953,"6502 East Way",San Jose,FL

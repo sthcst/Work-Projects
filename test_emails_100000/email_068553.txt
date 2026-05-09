@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Davis",
+    "email": "deborah.davis5675@business.net",
+    "phone": "221-204-1555",
+    "ssn": "987 69 7905",
+    "dob": "12/23/1954",
+    "address": "4456 West Way",
+    "city": "San Antonio",
+    "state": "MA"
+  }
+}

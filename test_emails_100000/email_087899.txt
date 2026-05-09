@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Martin
+  email: jennifer.martin4732@gmail.com
+  phone: +1 553-973-8233
+  ssn: 735 75 8203
+  dob: 08/04/1984
+  address: 4119 Sixth Rd
+  city: Seattle
+  state: IL

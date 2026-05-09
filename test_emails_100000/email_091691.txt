@@ -1,0 +1,9 @@
+contact:
+  name: James Reyes
+  email: james.reyes8947@mail.com
+  phone: (258) 461-5018
+  ssn: 091 79 8966
+  dob: 15/02/1985
+  address: 6393 North Ln
+  city: Washington
+  state: WI

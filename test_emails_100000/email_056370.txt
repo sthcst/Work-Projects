@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Robinson",
+    "email": "charles.robinson6045@business.net",
+    "phone": "420-678-4399",
+    "ssn": "284755209",
+    "dob": "9/2/1960",
+    "address": "4198 West Court",
+    "city": "Boston",
+    "state": "FL"
+  }
+}

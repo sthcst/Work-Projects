@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Edwards,megan.edwards5072@mail.com,+1 794-962-5282,121363020,01/05/1952,"550 Pine Court",San Diego,CO

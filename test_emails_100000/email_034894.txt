@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Ramirez",
+    "email": "emma.ramirez726@mail.com",
+    "phone": "923 422 7062",
+    "ssn": "553-26-1024",
+    "dob": "04/16/1973",
+    "address": "605 Third Rd",
+    "city": "Austin",
+    "state": "TN"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Sanchez
+  email: jennifer.sanchez4332@business.net
+  phone: +1 227-981-2192
+  ssn: 175 42 7597
+  dob: 10/18/1977
+  address: 3566 Cedar Way
+  city: Philadelphia
+  state: TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Guerrero,lauren.guerrero4618@example.com,+1 831-318-8057,389 25 5276,2/11/1952,"740 Summer Rd",Phoenix,CA

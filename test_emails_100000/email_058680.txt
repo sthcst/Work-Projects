@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Harris,sarah.harris206@example.com,574 766 1663,832427776,02-02-1963,"1833 Sixth Way",San Diego,CA

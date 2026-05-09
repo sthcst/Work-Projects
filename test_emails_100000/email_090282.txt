@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Phillips
+  email: shirley.phillips2982@gmail.com
+  phone: 683-534-3299
+  ssn: 038 96 7569
+  dob: 10/24/1951
+  address: 7335 Main Dr
+  city: Phoenix
+  state: FL

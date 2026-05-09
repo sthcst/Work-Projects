@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Rodriguez",
+    "email": "george.rodriguez4105@business.net",
+    "phone": "(289) 859-9524",
+    "ssn": "920-45-7716",
+    "dob": "11/11/1999",
+    "address": "5147 Fourth St",
+    "city": "Washington",
+    "state": "FL"
+  }
+}

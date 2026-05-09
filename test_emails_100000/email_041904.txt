@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Martinez
+  email: michelle.martinez6628@gmail.com
+  phone: 982 763 6257
+  ssn: 519 94 8118
+  dob: 04-27-1980
+  address: 7430 Second Dr
+  city: Boston
+  state: GA

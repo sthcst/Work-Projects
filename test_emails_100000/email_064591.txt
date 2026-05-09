@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Serrano,kathleen.serrano6525@company.com,(662) 507-6500,688 71 6213,4/11/1969,"3820 North Way",Jacksonville,OH

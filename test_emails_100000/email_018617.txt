@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Anderson",
+    "email": "rebecca.anderson980@work.org",
+    "phone": "(963) 995-2154",
+    "ssn": "055 42 9434",
+    "dob": "11/08/1981",
+    "address": "7113 Park Court",
+    "city": "Chicago",
+    "state": "NY"
+  }
+}

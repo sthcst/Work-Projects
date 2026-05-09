@@ -1,0 +1,14 @@
+INVOICE 596674
+
+Bill To:
+Name: Richard Evans
+Email: richard.evans3003@example.com
+Phone: 403 269 7690
+SSN: 947259795
+
+Address: 9708 Cedar Way
+Denver, NJ
+
+Date of Birth: 01/25/1973
+
+Amount Due: $5764

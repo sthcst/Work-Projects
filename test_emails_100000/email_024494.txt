@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Williams
+  email: rachel.williams3759@outlook.com
+  phone: 913-867-8989
+  ssn: 132 98 9292
+  dob: 28/11/1964
+  address: 9611 North Ave
+  city: New York
+  state: TN

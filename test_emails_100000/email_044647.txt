@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Lee",
+    "email": "helen.lee390@business.net",
+    "phone": "+1 612-751-1755",
+    "ssn": "612-66-9392",
+    "dob": "07/04/1967",
+    "address": "8727 Park Ln",
+    "city": "Philadelphia",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Brown",
+    "email": "charles.brown3966@work.org",
+    "phone": "771-624-1453",
+    "ssn": "305-48-1284",
+    "dob": "19/12/1980",
+    "address": "4095 Birch Dr",
+    "city": "Los Angeles",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 389522
+
+Bill To:
+Name: Joshua Smith
+Email: joshua.smith1280@mail.com
+Phone: 759-482-6041
+SSN: 802808443
+
+Address: 9881 East Ln
+Philadelphia, PA
+
+Date of Birth: 05/11/1966
+
+Amount Due: $1147

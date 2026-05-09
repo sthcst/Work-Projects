@@ -1,0 +1,9 @@
+contact:
+  name: Mark Nelson
+  email: mark.nelson9506@example.com
+  phone: 426 553 2197
+  ssn: 280 29 5339
+  dob: 11-26-2001
+  address: 805 Third Rd
+  city: Washington
+  state: FL

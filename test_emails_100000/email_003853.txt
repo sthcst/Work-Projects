@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Carter",
+    "email": "christine.carter6016@mail.com",
+    "phone": "365 919 8799",
+    "ssn": "741 29 1062",
+    "dob": "9/4/1976",
+    "address": "156 Third Ave",
+    "city": "San Diego",
+    "state": "PA"
+  }
+}

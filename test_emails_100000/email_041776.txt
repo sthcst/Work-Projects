@@ -1,0 +1,9 @@
+contact:
+  name: Charles Campbell
+  email: charles.campbell1714@yahoo.com
+  phone: 719 574 1420
+  ssn: 649983387
+  dob: 10-13-1971
+  address: 7661 Main Rd
+  city: Los Angeles
+  state: WA

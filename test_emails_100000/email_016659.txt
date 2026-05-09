@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Morgan,gary.morgan3694@mail.com,256-857-6857,716684007,08/11/1978,"8225 North Way",Dallas,NJ

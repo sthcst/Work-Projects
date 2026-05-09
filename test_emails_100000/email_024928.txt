@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Matthew Sanchez,matthew.sanchez1799@yahoo.com,350 530 6691,858365555,21/02/1971,"216 Oak Dr",Seattle,CA

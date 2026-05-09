@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Nunez,daniel.nunez8851@mail.com,(333) 326-1054,067-92-4939,10/18/1986,"167 Fifth St",Dallas,NY

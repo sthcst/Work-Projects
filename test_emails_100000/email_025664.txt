@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Sanchez,brenda.sanchez7872@company.com,247 388 9170,006 61 9664,11-04-1974,"7379 Fourth Ave",New York,FL

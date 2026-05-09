@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Martin",
+    "email": "megan.martin6077@outlook.com",
+    "phone": "+1 859-726-1216",
+    "ssn": "914-76-1517",
+    "dob": "04/04/1974",
+    "address": "3693 Third Way",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

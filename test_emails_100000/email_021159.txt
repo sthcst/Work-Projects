@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Thomas",
+    "email": "jason.thomas2394@work.org",
+    "phone": "(431) 686-5838",
+    "ssn": "346 28 9396",
+    "dob": "20/10/1950",
+    "address": "1701 Cedar Dr",
+    "city": "Austin",
+    "state": "WA"
+  }
+}

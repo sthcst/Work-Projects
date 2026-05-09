@@ -1,0 +1,12 @@
+SUPPORT TICKET #76838
+
+Customer: Matthew Stewart
+Email: matthew.stewart3896@example.com
+Phone: 857-592-8990
+Account: 555024924
+
+Issue Description: Technical problem reported
+DOB on file: 08/07/1988
+Address: 3200 First Ln, Chicago, IL
+
+Status: OPEN

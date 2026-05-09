@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Romero
+  email: andrew.romero7100@business.net
+  phone: (652) 730-4418
+  ssn: 773-31-2700
+  dob: 12-01-1963
+  address: 9703 Main Blvd
+  city: San Jose
+  state: MA

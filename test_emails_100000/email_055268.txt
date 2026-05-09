@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Garcia,shirley.garcia3573@gmail.com,394 568 9474,503831164,23/09/1952,"4600 Spring Ave",Chicago,MI

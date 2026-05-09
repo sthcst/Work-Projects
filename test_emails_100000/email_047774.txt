@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Nelson
+  email: kimberly.nelson1982@example.com
+  phone: +1 342-298-2798
+  ssn: 945051170
+  dob: 24/04/1962
+  address: 9554 Summer Blvd
+  city: Boston
+  state: CA

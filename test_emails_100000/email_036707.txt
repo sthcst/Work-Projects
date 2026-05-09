@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Garcia,edward.garcia6520@outlook.com,262-369-7751,689 96 2958,11/04/1989,"5926 East Ave",New York,FL

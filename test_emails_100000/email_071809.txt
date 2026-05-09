@@ -1,0 +1,14 @@
+INVOICE 678048
+
+Bill To:
+Name: Steven Romero
+Email: steven.romero3738@company.com
+Phone: +1 299-864-3302
+SSN: 322-75-1048
+
+Address: 9863 Birch Dr
+Los Angeles, GA
+
+Date of Birth: 02-25-1977
+
+Amount Due: $5596

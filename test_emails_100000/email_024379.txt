@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Lopez",
+    "email": "jennifer.lopez2248@company.com",
+    "phone": "+1 830-395-8083",
+    "ssn": "808648439",
+    "dob": "02/27/1968",
+    "address": "6274 Main Way",
+    "city": "New York",
+    "state": "DC"
+  }
+}

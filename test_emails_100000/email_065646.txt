@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Lopez,andrew.lopez4217@example.com,(750) 294-8239,928955991,12/11/1999,"3780 Pine Dr",Denver,VA

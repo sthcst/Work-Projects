@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Alvarado",
+    "email": "kenneth.alvarado3745@work.org",
+    "phone": "812-851-2784",
+    "ssn": "403 65 7058",
+    "dob": "3/15/1968",
+    "address": "4729 Spring Dr",
+    "city": "Phoenix",
+    "state": "MA"
+  }
+}

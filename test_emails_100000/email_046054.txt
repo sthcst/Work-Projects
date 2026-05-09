@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Jones",
+    "email": "ronald.jones8739@business.net",
+    "phone": "275 665 1409",
+    "ssn": "755485230",
+    "dob": "4/28/1957",
+    "address": "9923 Birch Blvd",
+    "city": "Denver",
+    "state": "NJ"
+  }
+}

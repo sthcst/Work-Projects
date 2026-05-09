@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Cooper,deborah.cooper7418@business.net,(265) 749-2589,444-30-6946,5/26/1965,"7234 Oak Dr",Washington,WI

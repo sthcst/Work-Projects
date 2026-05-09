@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Reed",
+    "email": "steven.reed7739@mail.com",
+    "phone": "628-863-9955",
+    "ssn": "079-57-9050",
+    "dob": "02/12/1968",
+    "address": "7997 Oak Way",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Murillo,nicholas.murillo3099@work.org,(813) 397-2242,198788904,14/12/1956,"7052 Elm St",Chicago,AZ

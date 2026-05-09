@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Wilson",
+    "email": "christopher.wilson5965@work.org",
+    "phone": "+1 201-690-4305",
+    "ssn": "127139660",
+    "dob": "3/27/2003",
+    "address": "4983 Fourth Blvd",
+    "city": "Los Angeles",
+    "state": "MD"
+  }
+}

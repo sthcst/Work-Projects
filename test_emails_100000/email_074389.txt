@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Peterson",
+    "email": "joseph.peterson3080@company.com",
+    "phone": "+1 727-919-9975",
+    "ssn": "841-14-4072",
+    "dob": "28/10/1952",
+    "address": "8223 West Rd",
+    "city": "Dallas",
+    "state": "FL"
+  }
+}

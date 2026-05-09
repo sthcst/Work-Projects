@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Miller",
+    "email": "shirley.miller3543@business.net",
+    "phone": "+1 360-345-1054",
+    "ssn": "458 57 5416",
+    "dob": "04-23-2004",
+    "address": "3475 East St",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

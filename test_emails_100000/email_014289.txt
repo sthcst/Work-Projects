@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Rodriguez",
+    "email": "donald.rodriguez5214@company.com",
+    "phone": "550-268-8119",
+    "ssn": "679 78 3905",
+    "dob": "11/23/1955",
+    "address": "9809 First Ave",
+    "city": "Austin",
+    "state": "GA"
+  }
+}

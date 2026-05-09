@@ -1,0 +1,9 @@
+contact:
+  name: Mark Johnson
+  email: mark.johnson7401@company.com
+  phone: +1 734-621-5247
+  ssn: 230-88-4324
+  dob: 9/12/1982
+  address: 8076 First Dr
+  city: Denver
+  state: NY

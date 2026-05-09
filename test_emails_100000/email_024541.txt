@@ -1,0 +1,9 @@
+contact:
+  name: Angela Romero
+  email: angela.romero2391@mail.com
+  phone: 226-216-5635
+  ssn: 004305201
+  dob: 5/10/1959
+  address: 4061 Maple Rd
+  city: Jacksonville
+  state: AZ

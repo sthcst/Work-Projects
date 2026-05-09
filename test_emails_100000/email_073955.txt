@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Harris,jessica.harris2944@mail.com,716-467-4991,415 15 1487,01-18-1951,"6421 Cedar Ave",Jacksonville,WA

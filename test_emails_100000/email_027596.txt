@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Robinson,samantha.robinson3880@example.com,+1 877-592-5842,935632457,8/12/1962,"7130 Sixth Ln",Los Angeles,WI

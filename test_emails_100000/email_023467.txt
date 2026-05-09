@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Lopez,timothy.lopez7255@company.com,619 339 3439,318841864,08/17/1983,"3735 Main Way",Boston,FL

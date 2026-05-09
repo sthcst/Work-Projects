@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Parker",
+    "email": "john.parker5942@work.org",
+    "phone": "222-255-7365",
+    "ssn": "626 58 2009",
+    "dob": "02/19/1970",
+    "address": "6532 Elm St",
+    "city": "Chicago",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Jackson,andrew.jackson1943@outlook.com,725-643-8975,953948846,13/07/1956,"149 Summer Dr",Philadelphia,MO

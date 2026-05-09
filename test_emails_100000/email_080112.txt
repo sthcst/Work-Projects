@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Cooper,christopher.cooper134@work.org,957 667 5782,457-28-8191,2/24/1990,"1784 Spring Ave",San Diego,VA

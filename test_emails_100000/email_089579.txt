@@ -1,0 +1,14 @@
+INVOICE 100064
+
+Bill To:
+Name: Emily Gonzalez
+Email: emily.gonzalez9041@mail.com
+Phone: 520-953-5974
+SSN: 859624936
+
+Address: 45 Cedar Blvd
+Denver, VA
+
+Date of Birth: 4/11/2005
+
+Amount Due: $3250

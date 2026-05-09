@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Gomez,ashley.gomez1860@work.org,914 646 6674,399-33-6855,1/27/1950,"6167 West Court",Philadelphia,MA

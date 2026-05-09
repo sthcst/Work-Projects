@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Jimenez",
+    "email": "samantha.jimenez184@mail.com",
+    "phone": "(574) 548-7836",
+    "ssn": "778 51 5500",
+    "dob": "02/02/1969",
+    "address": "1338 North Ln",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

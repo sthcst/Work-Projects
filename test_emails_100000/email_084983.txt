@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Carter,george.carter5715@yahoo.com,725 856 2114,253486894,7/9/1991,"659 Main Court",Denver,OH

@@ -1,0 +1,14 @@
+INVOICE 334794
+
+Bill To:
+Name: Mark Lee
+Email: mark.lee1384@company.com
+Phone: 425 267 4596
+SSN: 927952581
+
+Address: 7790 Elm Blvd
+Dallas, NC
+
+Date of Birth: 12/25/1979
+
+Amount Due: $549

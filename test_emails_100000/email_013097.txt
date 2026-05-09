@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Carter",
+    "email": "nicole.carter7657@business.net",
+    "phone": "805 996 3893",
+    "ssn": "679-99-4391",
+    "dob": "10-20-1991",
+    "address": "5941 Birch Court",
+    "city": "Los Angeles",
+    "state": "MO"
+  }
+}

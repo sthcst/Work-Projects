@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Martin",
+    "email": "robert.martin707@yahoo.com",
+    "phone": "754-715-7996",
+    "ssn": "282063457",
+    "dob": "01/26/1986",
+    "address": "3743 Cedar Dr",
+    "city": "Los Angeles",
+    "state": "MA"
+  }
+}

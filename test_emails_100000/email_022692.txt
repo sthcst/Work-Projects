@@ -1,0 +1,14 @@
+INVOICE 645163
+
+Bill To:
+Name: David Reed
+Email: david.reed9011@example.com
+Phone: 669 680 1948
+SSN: 080229223
+
+Address: 1608 Birch St
+Philadelphia, CA
+
+Date of Birth: 10/10/1986
+
+Amount Due: $6410

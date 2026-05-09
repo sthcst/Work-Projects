@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Serrano,pamela.serrano6210@outlook.com,798 401 5543,384533357,10/09/1983,"6517 East Dr",San Antonio,IL

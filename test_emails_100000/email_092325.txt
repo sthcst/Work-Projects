@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Morris,ronald.morris8812@yahoo.com,+1 393-248-4204,261-63-6491,22/11/1999,"9558 South Ave",Houston,MD

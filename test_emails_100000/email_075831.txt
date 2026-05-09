@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Perez
+  email: rachel.perez6466@outlook.com
+  phone: +1 846-769-8860
+  ssn: 195156871
+  dob: 05/16/1994
+  address: 5377 East Blvd
+  city: Denver
+  state: WA

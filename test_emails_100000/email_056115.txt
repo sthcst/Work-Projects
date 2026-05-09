@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Lewis
+  email: kevin.lewis8807@mail.com
+  phone: +1 506-770-9742
+  ssn: 019 68 2823
+  dob: 04/04/2001
+  address: 2116 East Blvd
+  city: Boston
+  state: MA

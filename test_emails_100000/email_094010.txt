@@ -1,0 +1,14 @@
+INVOICE 689827
+
+Bill To:
+Name: John Romero
+Email: john.romero1494@yahoo.com
+Phone: 626-852-2448
+SSN: 423 63 3323
+
+Address: 6366 Pine St
+Denver, TN
+
+Date of Birth: 04-23-1980
+
+Amount Due: $1963

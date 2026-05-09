@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Lopez
+  email: stephanie.lopez3591@yahoo.com
+  phone: (615) 401-3638
+  ssn: 306 57 4660
+  dob: 07/19/1957
+  address: 5323 Second Dr
+  city: Washington
+  state: WA

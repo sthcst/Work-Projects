@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson7941@company.com",
+    "phone": "+1 619-751-4440",
+    "ssn": "325-22-4987",
+    "dob": "19/01/1975",
+    "address": "4759 Sixth Ln",
+    "city": "San Antonio",
+    "state": "CO"
+  }
+}

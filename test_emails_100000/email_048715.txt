@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Morris",
+    "email": "maria.morris2324@gmail.com",
+    "phone": "270-792-4156",
+    "ssn": "846256168",
+    "dob": "07/12/1976",
+    "address": "5914 Third Blvd",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

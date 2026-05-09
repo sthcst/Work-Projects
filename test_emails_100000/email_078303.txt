@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Lewis",
+    "email": "timothy.lewis9082@work.org",
+    "phone": "289 641 8283",
+    "ssn": "352 91 1007",
+    "dob": "15/11/1993",
+    "address": "2734 Pine Rd",
+    "city": "Chicago",
+    "state": "MA"
+  }
+}

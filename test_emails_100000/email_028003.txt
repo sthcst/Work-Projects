@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John White,john.white4946@gmail.com,676-600-9314,873033203,09-23-1987,"5779 Third Ave",Los Angeles,AZ

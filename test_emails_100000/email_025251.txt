@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Garcia",
+    "email": "daniel.garcia2618@example.com",
+    "phone": "(953) 801-8388",
+    "ssn": "492087599",
+    "dob": "07/01/2003",
+    "address": "1515 West Rd",
+    "city": "Denver",
+    "state": "FL"
+  }
+}

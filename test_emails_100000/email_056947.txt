@@ -1,0 +1,14 @@
+INVOICE 293809
+
+Bill To:
+Name: Charles Evans
+Email: charles.evans5553@example.com
+Phone: (669) 910-6762
+SSN: 876-28-8665
+
+Address: 3749 Fifth Rd
+San Diego, MD
+
+Date of Birth: 22/06/1962
+
+Amount Due: $2990

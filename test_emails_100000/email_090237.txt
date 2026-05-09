@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Nelson",
+    "email": "charles.nelson4904@gmail.com",
+    "phone": "+1 563-527-2799",
+    "ssn": "644673597",
+    "dob": "03-03-1959",
+    "address": "7078 Birch St",
+    "city": "San Antonio",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Nelson",
+    "email": "david.nelson1316@gmail.com",
+    "phone": "+1 523-402-4254",
+    "ssn": "720-78-8959",
+    "dob": "07/10/1956",
+    "address": "7008 Summer Court",
+    "city": "Jacksonville",
+    "state": "NJ"
+  }
+}

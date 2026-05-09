@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Morris
+  email: samantha.morris1395@gmail.com
+  phone: 880-735-8640
+  ssn: 422 65 7188
+  dob: 22/12/1999
+  address: 3447 Elm Way
+  city: Dallas
+  state: GA

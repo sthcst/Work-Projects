@@ -1,0 +1,9 @@
+contact:
+  name: Richard Phillips
+  email: richard.phillips1085@example.com
+  phone: +1 864-272-3591
+  ssn: 791-09-7077
+  dob: 03/04/1964
+  address: 2724 East Blvd
+  city: San Antonio
+  state: GA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Perez,richard.perez8780@work.org,716 435 9039,622-54-8747,09-02-1976,"4766 Elm Court",Houston,WA

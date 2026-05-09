@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Reeves
+  email: rebecca.reeves3286@gmail.com
+  phone: 314 252 4742
+  ssn: 454-57-7616
+  dob: 19/08/1958
+  address: 1801 Second Way
+  city: Washington
+  state: IL

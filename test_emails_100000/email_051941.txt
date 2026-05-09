@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Rogers",
+    "email": "kevin.rogers9922@work.org",
+    "phone": "+1 677-469-4670",
+    "ssn": "424089715",
+    "dob": "17/02/1993",
+    "address": "5507 Maple Dr",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

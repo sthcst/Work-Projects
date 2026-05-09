@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Sanchez",
+    "email": "nicole.sanchez7229@yahoo.com",
+    "phone": "551-325-1325",
+    "ssn": "705953292",
+    "dob": "8/1/1982",
+    "address": "4813 Spring Blvd",
+    "city": "San Jose",
+    "state": "CA"
+  }
+}

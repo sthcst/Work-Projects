@@ -1,0 +1,9 @@
+contact:
+  name: Robert Martin
+  email: robert.martin3893@outlook.com
+  phone: 944 646 7656
+  ssn: 403 45 7649
+  dob: 03/11/2001
+  address: 8210 South St
+  city: New York
+  state: NC

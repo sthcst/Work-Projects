@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Miller
+  email: katherine.miller672@business.net
+  phone: 206 413 4429
+  ssn: 750413222
+  dob: 02/25/1951
+  address: 612 Oak Blvd
+  city: Houston
+  state: PA

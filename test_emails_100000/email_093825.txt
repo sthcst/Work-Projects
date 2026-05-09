@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Murillo",
+    "email": "cynthia.murillo6518@example.com",
+    "phone": "957 413 6596",
+    "ssn": "727-43-4719",
+    "dob": "19/10/1986",
+    "address": "6909 Summer St",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

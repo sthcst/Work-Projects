@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Cooper,andrew.cooper6577@example.com,917 694 9231,543-05-1529,02-28-1953,"6360 South St",Los Angeles,NJ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Smith",
+    "email": "emily.smith9296@gmail.com",
+    "phone": "(422) 454-5730",
+    "ssn": "282-93-4599",
+    "dob": "05-25-1953",
+    "address": "8193 Summer Ln",
+    "city": "Austin",
+    "state": "WA"
+  }
+}

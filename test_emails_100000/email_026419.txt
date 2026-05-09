@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Cooper",
+    "email": "kathleen.cooper9615@yahoo.com",
+    "phone": "206-761-3978",
+    "ssn": "098986626",
+    "dob": "12/24/1960",
+    "address": "4026 Spring Dr",
+    "city": "Chicago",
+    "state": "VA"
+  }
+}

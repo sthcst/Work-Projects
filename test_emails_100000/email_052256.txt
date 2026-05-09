@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Walker",
+    "email": "nicole.walker6785@business.net",
+    "phone": "(251) 535-5354",
+    "ssn": "532-68-8078",
+    "dob": "4/25/2005",
+    "address": "6962 Pine St",
+    "city": "Austin",
+    "state": "NJ"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Thomas,michael.thomas7529@business.net,+1 332-325-2733,698773705,11/17/1961,"2908 First Ln",Denver,AZ

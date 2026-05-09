@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Morris,gary.morris5549@yahoo.com,848-919-6953,227995391,18/05/2000,"9069 First Dr",Houston,TX

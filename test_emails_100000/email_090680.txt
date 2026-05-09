@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Reed,richard.reed9182@mail.com,387-501-1596,506 59 5234,01/02/1968,"1768 Fourth Ave",Los Angeles,TX

@@ -1,0 +1,14 @@
+INVOICE 739171
+
+Bill To:
+Name: George Wilson
+Email: george.wilson768@company.com
+Phone: +1 869-614-3366
+SSN: 124-95-2995
+
+Address: 4972 Oak Court
+Dallas, FL
+
+Date of Birth: 11/21/1965
+
+Amount Due: $6348

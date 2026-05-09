@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Alvarado
+  email: joshua.alvarado1878@gmail.com
+  phone: 728 590 3407
+  ssn: 118 36 3823
+  dob: 12/09/1982
+  address: 681 Spring Ave
+  city: Philadelphia
+  state: NJ

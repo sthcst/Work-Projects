@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Brown",
+    "email": "kenneth.brown520@mail.com",
+    "phone": "951 390 1315",
+    "ssn": "930-51-1983",
+    "dob": "22/10/1985",
+    "address": "1983 East Ln",
+    "city": "Washington",
+    "state": "CO"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Wilson",
+    "email": "james.wilson4935@mail.com",
+    "phone": "(863) 553-3242",
+    "ssn": "363614310",
+    "dob": "3/3/1990",
+    "address": "7723 First Dr",
+    "city": "Boston",
+    "state": "FL"
+  }
+}

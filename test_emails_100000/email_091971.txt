@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Lee",
+    "email": "richard.lee3453@outlook.com",
+    "phone": "964-946-6317",
+    "ssn": "523 97 3572",
+    "dob": "10-20-1968",
+    "address": "5644 East Court",
+    "city": "Chicago",
+    "state": "DC"
+  }
+}

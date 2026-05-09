@@ -1,0 +1,9 @@
+contact:
+  name: Edward Guerrero
+  email: edward.guerrero4816@work.org
+  phone: +1 223-513-1641
+  ssn: 369-11-3210
+  dob: 2/25/1983
+  address: 6600 North Dr
+  city: Chicago
+  state: AZ

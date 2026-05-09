@@ -1,0 +1,14 @@
+INVOICE 477298
+
+Bill To:
+Name: Christopher Lewis
+Email: christopher.lewis5915@mail.com
+Phone: 701 821 8464
+SSN: 271523467
+
+Address: 6368 First Dr
+San Diego, CA
+
+Date of Birth: 4/7/1953
+
+Amount Due: $5720

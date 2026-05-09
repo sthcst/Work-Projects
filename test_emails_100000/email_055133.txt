@@ -1,0 +1,14 @@
+INVOICE 414086
+
+Bill To:
+Name: Christine Miller
+Email: christine.miller2119@mail.com
+Phone: 481-553-5657
+SSN: 777 39 6923
+
+Address: 3325 Spring Rd
+Denver, CA
+
+Date of Birth: 03/14/2005
+
+Amount Due: $6455

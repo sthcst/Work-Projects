@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Clark,jacob.clark4717@work.org,(200) 267-7509,669-99-7829,09/03/1961,"3418 Oak Rd",Washington,MA

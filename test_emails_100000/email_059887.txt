@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Campbell",
+    "email": "nicholas.campbell9862@gmail.com",
+    "phone": "871-874-2697",
+    "ssn": "838 49 6931",
+    "dob": "20/12/1951",
+    "address": "5317 Elm Way",
+    "city": "Boston",
+    "state": "MD"
+  }
+}

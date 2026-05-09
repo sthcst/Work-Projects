@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Murillo",
+    "email": "deborah.murillo8281@example.com",
+    "phone": "(634) 876-5002",
+    "ssn": "361-73-9346",
+    "dob": "04-01-1991",
+    "address": "8704 Second Dr",
+    "city": "San Diego",
+    "state": "OH"
+  }
+}

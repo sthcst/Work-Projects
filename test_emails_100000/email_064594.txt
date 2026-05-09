@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Reyes,shirley.reyes1899@gmail.com,979 432 5287,732-09-4598,1/8/1972,"9215 Third Way",San Jose,AZ

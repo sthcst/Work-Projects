@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Peterson,angela.peterson8975@business.net,+1 880-840-7727,413 85 3573,12-06-1968,"9674 Main Ln",Chicago,CA

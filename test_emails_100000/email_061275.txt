@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Sanchez",
+    "email": "ronald.sanchez7462@yahoo.com",
+    "phone": "(699) 769-8942",
+    "ssn": "779399976",
+    "dob": "11-04-1991",
+    "address": "8757 Birch Ave",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

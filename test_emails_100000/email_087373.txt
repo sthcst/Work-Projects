@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Hall,daniel.hall9889@example.com,279 874 9779,446-60-7330,6/14/1975,"632 Fifth Blvd",Seattle,PA

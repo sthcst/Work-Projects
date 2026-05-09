@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Hall,kenneth.hall5256@yahoo.com,(755) 813-6434,021-91-5272,1/17/1953,"1522 Cedar Dr",San Antonio,DC

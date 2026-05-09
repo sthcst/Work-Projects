@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Alvarado,angela.alvarado731@mail.com,372-593-8815,316-56-1078,08-21-1951,"3866 Spring Ln",Dallas,AZ

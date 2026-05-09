@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Carter
+  email: kathleen.carter4780@company.com
+  phone: 364-262-4363
+  ssn: 687-73-4157
+  dob: 06-26-1988
+  address: 9217 Pine St
+  city: Seattle
+  state: WA

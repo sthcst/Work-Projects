@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Romero",
+    "email": "lauren.romero7572@company.com",
+    "phone": "+1 413-312-4899",
+    "ssn": "625-04-2959",
+    "dob": "02/12/1969",
+    "address": "2438 Fourth Court",
+    "city": "San Jose",
+    "state": "MI"
+  }
+}

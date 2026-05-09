@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Jimenez",
+    "email": "joshua.jimenez8279@example.com",
+    "phone": "+1 444-430-8642",
+    "ssn": "652-71-1283",
+    "dob": "2/21/1966",
+    "address": "357 East Ln",
+    "city": "Jacksonville",
+    "state": "NY"
+  }
+}

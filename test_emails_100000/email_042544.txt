@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Jones,angela.jones1555@outlook.com,809 975 6217,771 46 8438,03-21-1970,"3034 First Rd",Dallas,AZ

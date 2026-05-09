@@ -1,0 +1,9 @@
+contact:
+  name: Christine Stewart
+  email: christine.stewart7161@example.com
+  phone: +1 708-682-7547
+  ssn: 005346707
+  dob: 01-24-1954
+  address: 428 Spring St
+  city: Houston
+  state: CA

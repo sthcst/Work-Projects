@@ -1,0 +1,9 @@
+contact:
+  name: George Reyes
+  email: george.reyes4330@outlook.com
+  phone: (679) 827-1057
+  ssn: 918-50-6678
+  dob: 08-14-1951
+  address: 3982 Fifth Ave
+  city: Houston
+  state: AZ

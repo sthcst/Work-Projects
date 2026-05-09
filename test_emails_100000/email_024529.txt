@@ -1,0 +1,9 @@
+contact:
+  name: Gary Rodriguez
+  email: gary.rodriguez3432@gmail.com
+  phone: (723) 618-9436
+  ssn: 830034992
+  dob: 03/02/1971
+  address: 2272 Maple Dr
+  city: Seattle
+  state: FL

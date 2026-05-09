@@ -1,0 +1,14 @@
+INVOICE 250748
+
+Bill To:
+Name: Deborah Thompson
+Email: deborah.thompson1055@mail.com
+Phone: +1 923-366-5611
+SSN: 205-36-9149
+
+Address: 6356 Birch St
+Denver, NC
+
+Date of Birth: 04/02/1989
+
+Amount Due: $1151

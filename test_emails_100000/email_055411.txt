@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Phillips",
+    "email": "andrew.phillips579@mail.com",
+    "phone": "+1 450-604-2889",
+    "ssn": "113258234",
+    "dob": "06/16/2000",
+    "address": "8497 First Rd",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

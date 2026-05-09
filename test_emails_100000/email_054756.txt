@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Nunez",
+    "email": "angela.nunez9883@work.org",
+    "phone": "(246) 393-1291",
+    "ssn": "926 55 9058",
+    "dob": "3/23/1970",
+    "address": "5093 Cedar Blvd",
+    "city": "Chicago",
+    "state": "MA"
+  }
+}

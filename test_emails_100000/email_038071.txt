@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Morris,angela.morris7158@mail.com,(940) 420-3574,171-87-8783,2/3/1996,"943 Second Ln",Houston,NJ

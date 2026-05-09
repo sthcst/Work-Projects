@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Edwards",
+    "email": "helen.edwards6795@mail.com",
+    "phone": "+1 938-930-1252",
+    "ssn": "461884757",
+    "dob": "09-15-1966",
+    "address": "1969 Maple Rd",
+    "city": "Seattle",
+    "state": "FL"
+  }
+}

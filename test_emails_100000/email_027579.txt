@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Ortiz
+  email: katherine.ortiz6704@gmail.com
+  phone: 367 292 7631
+  ssn: 497563269
+  dob: 14/09/1961
+  address: 7220 West Ln
+  city: Houston
+  state: CA

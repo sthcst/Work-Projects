@@ -1,0 +1,14 @@
+INVOICE 321920
+
+Bill To:
+Name: Nicole Gomez
+Email: nicole.gomez5298@outlook.com
+Phone: +1 874-795-6984
+SSN: 728381337
+
+Address: 1832 East Ln
+Chicago, TN
+
+Date of Birth: 21/01/1953
+
+Amount Due: $4926

@@ -1,0 +1,14 @@
+INVOICE 762739
+
+Bill To:
+Name: Jacob Taylor
+Email: jacob.taylor6401@company.com
+Phone: (750) 232-1793
+SSN: 847957739
+
+Address: 3418 Park Court
+San Diego, WA
+
+Date of Birth: 02/25/1972
+
+Amount Due: $4233

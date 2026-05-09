@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Flores",
+    "email": "lisa.flores8597@work.org",
+    "phone": "+1 583-839-6740",
+    "ssn": "714 71 3525",
+    "dob": "07-12-2003",
+    "address": "7498 Cedar Rd",
+    "city": "Jacksonville",
+    "state": "WI"
+  }
+}

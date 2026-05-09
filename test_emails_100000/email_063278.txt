@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Delgado",
+    "email": "kevin.delgado5763@mail.com",
+    "phone": "(668) 348-3147",
+    "ssn": "709515111",
+    "dob": "08/19/1988",
+    "address": "6569 Oak St",
+    "city": "Chicago",
+    "state": "TN"
+  }
+}

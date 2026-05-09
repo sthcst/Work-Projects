@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Nunez,maria.nunez9378@business.net,356 676 8181,184385881,6/3/1990,"9219 North Rd",Washington,MO

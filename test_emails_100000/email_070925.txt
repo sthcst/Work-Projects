@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Davis
+  email: rachel.davis6023@gmail.com
+  phone: (230) 805-2741
+  ssn: 337 98 3778
+  dob: 11/6/1965
+  address: 9820 Birch St
+  city: San Antonio
+  state: CA

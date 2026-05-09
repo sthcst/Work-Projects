@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Peterson",
+    "email": "christopher.peterson2697@outlook.com",
+    "phone": "516-581-2075",
+    "ssn": "995184397",
+    "dob": "09-05-1974",
+    "address": "6551 Fifth Way",
+    "city": "Los Angeles",
+    "state": "TN"
+  }
+}

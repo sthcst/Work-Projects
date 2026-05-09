@@ -1,0 +1,9 @@
+contact:
+  name: Helen Miller
+  email: helen.miller8077@gmail.com
+  phone: 230-809-3939
+  ssn: 211 38 3164
+  dob: 08-23-1962
+  address: 4670 Sixth Dr
+  city: Seattle
+  state: NC

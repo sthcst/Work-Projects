@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Wilson,lisa.wilson5992@company.com,382 779 8750,698-89-4803,06/11/1996,"4789 Park Way",Chicago,OH

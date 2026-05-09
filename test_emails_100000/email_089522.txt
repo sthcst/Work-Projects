@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Gomez,david.gomez8464@yahoo.com,955 350 5238,240-74-9725,3/12/1970,"6704 Birch Way",San Diego,FL

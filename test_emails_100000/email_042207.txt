@@ -1,0 +1,14 @@
+INVOICE 777540
+
+Bill To:
+Name: Paul Campbell
+Email: paul.campbell9187@company.com
+Phone: 975-849-2163
+SSN: 788285987
+
+Address: 8152 Park Blvd
+Chicago, AZ
+
+Date of Birth: 11/22/1992
+
+Amount Due: $9036

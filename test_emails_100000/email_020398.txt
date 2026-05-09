@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Flores,amanda.flores4570@outlook.com,773 667 1988,165981929,27/03/1984,"4280 Park St",Washington,OH

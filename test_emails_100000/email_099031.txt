@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles White,charles.white8189@business.net,+1 568-335-2839,093-84-4405,03-04-1987,"7330 Fifth Court",Los Angeles,DC

@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Perez
+  email: shirley.perez2676@outlook.com
+  phone: +1 455-270-2924
+  ssn: 315 96 8894
+  dob: 10/06/1967
+  address: 7052 West Rd
+  city: Los Angeles
+  state: MA

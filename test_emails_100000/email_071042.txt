@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Reyes,christine.reyes9112@outlook.com,(544) 796-7871,275 69 2347,11/7/1972,"513 Second Ln",Houston,TN

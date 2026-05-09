@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Ortiz,george.ortiz371@mail.com,453 645 6032,852-89-8497,05-23-1963,"3338 Birch Ln",San Antonio,MI

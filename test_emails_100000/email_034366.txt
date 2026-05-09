@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Lewis
+  email: kenneth.lewis2458@gmail.com
+  phone: (663) 962-4926
+  ssn: 760-20-5615
+  dob: 4/13/1959
+  address: 1090 West Blvd
+  city: Seattle
+  state: MD

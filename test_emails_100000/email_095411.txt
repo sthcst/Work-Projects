@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Edwards",
+    "email": "daniel.edwards4346@mail.com",
+    "phone": "801-411-6874",
+    "ssn": "087 54 6184",
+    "dob": "06/04/1989",
+    "address": "6602 Maple Blvd",
+    "city": "Austin",
+    "state": "MI"
+  }
+}

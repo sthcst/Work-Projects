@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Guerrero
+  email: kevin.guerrero9523@mail.com
+  phone: 595 349 9601
+  ssn: 321 69 5863
+  dob: 11/12/1981
+  address: 9588 Birch Ln
+  city: New York
+  state: CO

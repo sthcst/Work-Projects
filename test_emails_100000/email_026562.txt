@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Rodriguez",
+    "email": "nicole.rodriguez8447@gmail.com",
+    "phone": "+1 479-757-7717",
+    "ssn": "098-68-8011",
+    "dob": "19/11/1997",
+    "address": "4933 Maple Rd",
+    "city": "Boston",
+    "state": "WI"
+  }
+}

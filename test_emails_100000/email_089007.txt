@@ -1,0 +1,14 @@
+INVOICE 505203
+
+Bill To:
+Name: James Morgan
+Email: james.morgan3058@business.net
+Phone: 440-608-7814
+SSN: 361 82 9694
+
+Address: 8369 North Way
+Chicago, DC
+
+Date of Birth: 04/28/1983
+
+Amount Due: $7802

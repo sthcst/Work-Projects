@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Hall",
+    "email": "timothy.hall2540@mail.com",
+    "phone": "598 420 3884",
+    "ssn": "526-78-2194",
+    "dob": "12-07-2001",
+    "address": "9454 Fifth Court",
+    "city": "New York",
+    "state": "TN"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Reeves,ronald.reeves675@gmail.com,454 509 1776,653-73-4298,7/22/1984,"3321 Park Blvd",Denver,DC

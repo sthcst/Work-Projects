@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Reyes
+  email: joshua.reyes1166@yahoo.com
+  phone: +1 489-883-5355
+  ssn: 950 52 3575
+  dob: 12/01/1996
+  address: 9695 Maple Dr
+  city: San Antonio
+  state: WI

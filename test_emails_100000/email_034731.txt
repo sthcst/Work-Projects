@@ -1,0 +1,14 @@
+INVOICE 943281
+
+Bill To:
+Name: Emma Morris
+Email: emma.morris8273@company.com
+Phone: +1 925-204-7009
+SSN: 698-56-6903
+
+Address: 4474 South Ave
+Los Angeles, WA
+
+Date of Birth: 15/11/1989
+
+Amount Due: $9836

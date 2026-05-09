@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Harris,mark.harris4296@mail.com,604 787 3704,048-29-3398,7/3/1998,"4715 North Court",Houston,TX

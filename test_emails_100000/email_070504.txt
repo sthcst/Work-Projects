@@ -1,0 +1,14 @@
+INVOICE 625331
+
+Bill To:
+Name: Brenda Evans
+Email: brenda.evans1819@outlook.com
+Phone: 305 719 9616
+SSN: 467594041
+
+Address: 8143 Birch Ln
+Houston, MI
+
+Date of Birth: 01/01/1988
+
+Amount Due: $8533

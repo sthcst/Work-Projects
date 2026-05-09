@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Wilson
+  email: andrew.wilson7343@example.com
+  phone: (459) 941-3681
+  ssn: 862 95 8072
+  dob: 19/11/1964
+  address: 8038 First Court
+  city: Jacksonville
+  state: GA

@@ -1,0 +1,14 @@
+INVOICE 574604
+
+Bill To:
+Name: John Flores
+Email: john.flores7815@company.com
+Phone: (631) 592-5504
+SSN: 573326151
+
+Address: 7806 West St
+San Diego, AZ
+
+Date of Birth: 4/21/1979
+
+Amount Due: $5554

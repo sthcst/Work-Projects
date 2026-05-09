@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Ortiz",
+    "email": "emily.ortiz5380@company.com",
+    "phone": "881 826 6073",
+    "ssn": "886847294",
+    "dob": "05/09/1978",
+    "address": "6662 South Dr",
+    "city": "Jacksonville",
+    "state": "VA"
+  }
+}

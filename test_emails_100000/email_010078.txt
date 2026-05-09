@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Serrano",
+    "email": "shirley.serrano8674@work.org",
+    "phone": "+1 419-587-1545",
+    "ssn": "579 89 2625",
+    "dob": "08-05-1957",
+    "address": "4112 Maple Way",
+    "city": "Boston",
+    "state": "WI"
+  }
+}

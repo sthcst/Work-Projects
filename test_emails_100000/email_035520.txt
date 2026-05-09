@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Stewart
+  email: katherine.stewart852@work.org
+  phone: 586 701 9954
+  ssn: 168 38 8478
+  dob: 18/01/1990
+  address: 7817 Fourth Court
+  city: Los Angeles
+  state: DC

@@ -1,0 +1,14 @@
+INVOICE 773503
+
+Bill To:
+Name: Joshua Gonzalez
+Email: joshua.gonzalez4572@company.com
+Phone: 817 598 2480
+SSN: 310-93-6541
+
+Address: 3043 Summer St
+Denver, MO
+
+Date of Birth: 08/28/1955
+
+Amount Due: $2440

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Jackson,ryan.jackson9492@mail.com,(619) 505-6152,504 20 5127,8/5/1985,"1949 South Blvd",San Jose,MD

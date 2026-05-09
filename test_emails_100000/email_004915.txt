@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Harris",
+    "email": "jessica.harris3179@example.com",
+    "phone": "(739) 230-5907",
+    "ssn": "444 48 7259",
+    "dob": "12-01-1988",
+    "address": "1033 North Rd",
+    "city": "Philadelphia",
+    "state": "MA"
+  }
+}

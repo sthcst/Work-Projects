@@ -1,0 +1,9 @@
+contact:
+  name: Samantha White
+  email: samantha.white9731@example.com
+  phone: +1 362-617-5678
+  ssn: 024 62 5123
+  dob: 10-01-1998
+  address: 7627 Cedar Ln
+  city: Dallas
+  state: MI

@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Reeves
+  email: ronald.reeves8958@example.com
+  phone: 381 867 6667
+  ssn: 175-54-9890
+  dob: 12/22/1987
+  address: 4569 North Blvd
+  city: New York
+  state: WA

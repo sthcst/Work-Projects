@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Parker,joshua.parker29@gmail.com,903-602-2868,261 05 6607,2/25/1970,"7328 Cedar St",Philadelphia,DC

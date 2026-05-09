@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Lewis,kenneth.lewis639@business.net,373 644 5197,811225763,21/07/2004,"960 South Ln",Seattle,FL

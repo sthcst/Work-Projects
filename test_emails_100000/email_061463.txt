@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Reed",
+    "email": "emily.reed3621@mail.com",
+    "phone": "755-372-3548",
+    "ssn": "800 84 9455",
+    "dob": "3/7/1994",
+    "address": "3951 Third Court",
+    "city": "Austin",
+    "state": "CO"
+  }
+}

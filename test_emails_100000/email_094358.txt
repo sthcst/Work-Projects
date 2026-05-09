@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Guerrero,jane.guerrero2404@outlook.com,+1 717-768-1600,785 47 4106,11/01/1958,"4151 West Court",Phoenix,MO

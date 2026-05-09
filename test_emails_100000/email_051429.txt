@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Wilson,helen.wilson617@company.com,+1 304-895-6618,954-18-4245,10-27-1958,"583 West Ave",New York,AZ

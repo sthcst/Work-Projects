@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Nunez",
+    "email": "deborah.nunez439@outlook.com",
+    "phone": "791 674 8262",
+    "ssn": "863297169",
+    "dob": "05-25-2003",
+    "address": "3179 Pine Rd",
+    "city": "Austin",
+    "state": "MI"
+  }
+}

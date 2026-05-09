@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Ortiz,john.ortiz7481@company.com,236 758 9365,509783505,19/11/2002,"6039 Maple Rd",Washington,NC

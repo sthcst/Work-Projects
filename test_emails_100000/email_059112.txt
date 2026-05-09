@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Rodriguez,deborah.rodriguez8133@yahoo.com,(307) 309-8278,992448475,09/01/1982,"39 Elm Way",San Antonio,CO

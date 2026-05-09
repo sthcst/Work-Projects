@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Davis
+  email: christopher.davis3902@example.com
+  phone: (400) 225-8886
+  ssn: 340629003
+  dob: 7/28/1983
+  address: 4720 First St
+  city: Los Angeles
+  state: MA

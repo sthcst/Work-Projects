@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Hall",
+    "email": "william.hall103@gmail.com",
+    "phone": "(544) 219-4688",
+    "ssn": "110025538",
+    "dob": "26/03/1955",
+    "address": "4299 First Court",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

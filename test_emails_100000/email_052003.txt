@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Nelson,richard.nelson379@gmail.com,661-968-2111,752 97 9768,01/06/1981,"2610 Sixth Ave",San Diego,GA

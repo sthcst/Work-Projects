@@ -1,0 +1,14 @@
+INVOICE 855209
+
+Bill To:
+Name: Gary Moore
+Email: gary.moore1892@company.com
+Phone: +1 339-662-1293
+SSN: 326-21-8607
+
+Address: 6757 Maple Ln
+Boston, NY
+
+Date of Birth: 07/24/1964
+
+Amount Due: $7080

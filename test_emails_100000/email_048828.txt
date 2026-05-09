@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Perez",
+    "email": "david.perez4477@mail.com",
+    "phone": "249-381-9174",
+    "ssn": "539-73-4020",
+    "dob": "02/16/1987",
+    "address": "7616 Third Ln",
+    "city": "Los Angeles",
+    "state": "IL"
+  }
+}

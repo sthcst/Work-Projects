@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Thomas,lauren.thomas5438@mail.com,776-566-5738,582-84-7784,6/15/1968,"5733 South Ln",Dallas,WI

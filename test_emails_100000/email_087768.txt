@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Alvarado,christine.alvarado6707@gmail.com,475 487 4173,154432373,1/28/1981,"3436 Cedar Ln",Houston,TN

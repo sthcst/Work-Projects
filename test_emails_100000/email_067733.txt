@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Ramirez",
+    "email": "michelle.ramirez3099@work.org",
+    "phone": "+1 819-718-5133",
+    "ssn": "620-14-8955",
+    "dob": "08/20/1972",
+    "address": "7362 Maple Ln",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

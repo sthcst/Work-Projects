@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Perez,daniel.perez6909@company.com,(886) 761-7427,183 35 6776,05-15-1988,"925 First Ln",Phoenix,NJ

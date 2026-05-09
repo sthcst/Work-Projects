@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Alvarado",
+    "email": "lauren.alvarado7562@gmail.com",
+    "phone": "351-935-6275",
+    "ssn": "402 70 6599",
+    "dob": "02/06/1967",
+    "address": "82 Main Rd",
+    "city": "Chicago",
+    "state": "TN"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: John Thomas
+  email: john.thomas8559@work.org
+  phone: 206 634 5746
+  ssn: 185394652
+  dob: 04/26/1994
+  address: 5661 Main Ave
+  city: Boston
+  state: TX

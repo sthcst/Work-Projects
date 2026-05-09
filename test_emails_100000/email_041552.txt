@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Jones
+  email: jennifer.jones5768@company.com
+  phone: (638) 474-2742
+  ssn: 017-18-3333
+  dob: 10/16/1985
+  address: 5853 North Ln
+  city: San Diego
+  state: DC

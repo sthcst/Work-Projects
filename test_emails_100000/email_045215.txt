@@ -1,0 +1,9 @@
+contact:
+  name: George Martin
+  email: george.martin5071@example.com
+  phone: +1 940-874-7256
+  ssn: 978455027
+  dob: 07-12-2000
+  address: 8797 Oak Ave
+  city: Houston
+  state: CA

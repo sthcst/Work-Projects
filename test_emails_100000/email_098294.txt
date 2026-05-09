@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Clark,kathleen.clark8744@business.net,609 915 1578,056-98-5591,06/06/1954,"4642 Oak St",San Jose,NJ

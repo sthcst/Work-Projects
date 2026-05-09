@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Evans",
+    "email": "jeffrey.evans8197@outlook.com",
+    "phone": "861-819-3205",
+    "ssn": "341 26 2114",
+    "dob": "11/11/2005",
+    "address": "4550 Third Rd",
+    "city": "Boston",
+    "state": "CO"
+  }
+}

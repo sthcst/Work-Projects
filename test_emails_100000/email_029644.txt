@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Rogers",
+    "email": "megan.rogers876@company.com",
+    "phone": "+1 450-524-8925",
+    "ssn": "234 38 6309",
+    "dob": "09-23-1961",
+    "address": "7089 Elm Ave",
+    "city": "Boston",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Stewart
+  email: lisa.stewart6668@gmail.com
+  phone: 881 252 5253
+  ssn: 108598302
+  dob: 03-12-1967
+  address: 9334 Pine Way
+  city: Boston
+  state: NC

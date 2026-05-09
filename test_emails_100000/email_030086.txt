@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Moore
+  email: amanda.moore3301@work.org
+  phone: (519) 989-8964
+  ssn: 847768710
+  dob: 02-18-1995
+  address: 6183 Third Dr
+  city: San Diego
+  state: IL

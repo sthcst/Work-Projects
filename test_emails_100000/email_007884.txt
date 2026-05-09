@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Nunez
+  email: ronald.nunez5759@gmail.com
+  phone: +1 311-841-9913
+  ssn: 985779072
+  dob: 10-06-1978
+  address: 1619 East St
+  city: Denver
+  state: MA

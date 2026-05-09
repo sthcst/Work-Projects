@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Phillips,anthony.phillips3190@outlook.com,666 936 2927,712-69-7636,09/05/1996,"6568 West Way",Denver,NY

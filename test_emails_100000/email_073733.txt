@@ -1,0 +1,9 @@
+contact:
+  name: Edward Stewart
+  email: edward.stewart5613@outlook.com
+  phone: +1 237-702-2630
+  ssn: 486 98 6518
+  dob: 4/14/1985
+  address: 5546 Maple Ave
+  city: Phoenix
+  state: TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Martin",
+    "email": "anthony.martin5527@mail.com",
+    "phone": "362-584-7476",
+    "ssn": "810 94 2074",
+    "dob": "18/11/1961",
+    "address": "2585 Sixth Court",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

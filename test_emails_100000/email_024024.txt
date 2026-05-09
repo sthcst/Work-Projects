@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Jackson,jeffrey.jackson5643@outlook.com,819 766 8353,727-14-5319,11-06-1959,"9380 South Way",San Diego,CA

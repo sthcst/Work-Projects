@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Perez",
+    "email": "rachel.perez1998@gmail.com",
+    "phone": "988 667 1268",
+    "ssn": "132-36-5403",
+    "dob": "02/25/1973",
+    "address": "2975 South Court",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

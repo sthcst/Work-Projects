@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Collins,paul.collins8912@company.com,(905) 786-1298,628-13-5378,04/04/1984,"5517 Birch Blvd",Washington,NY

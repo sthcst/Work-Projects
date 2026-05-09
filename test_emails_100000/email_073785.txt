@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Garcia,angela.garcia434@gmail.com,(295) 624-9587,674255375,04/16/2003,"9334 Summer St",Jacksonville,NY

@@ -1,0 +1,14 @@
+INVOICE 198591
+
+Bill To:
+Name: Christopher Flores
+Email: christopher.flores5574@company.com
+Phone: 848-353-2156
+SSN: 713758962
+
+Address: 2493 Birch Way
+Phoenix, FL
+
+Date of Birth: 7/13/1962
+
+Amount Due: $1678

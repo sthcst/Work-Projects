@@ -1,0 +1,14 @@
+INVOICE 511731
+
+Bill To:
+Name: Charles Walker
+Email: charles.walker9176@example.com
+Phone: (563) 790-4826
+SSN: 370148429
+
+Address: 5785 Third Ave
+Chicago, WA
+
+Date of Birth: 11/23/1991
+
+Amount Due: $3918

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Phillips,cynthia.phillips9324@company.com,(925) 531-9630,817-85-7811,06/24/1966,"3486 Sixth Dr",San Antonio,TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Taylor",
+    "email": "stephanie.taylor3519@outlook.com",
+    "phone": "981-605-7198",
+    "ssn": "701366533",
+    "dob": "12/15/1976",
+    "address": "8638 South Rd",
+    "city": "San Antonio",
+    "state": "NY"
+  }
+}

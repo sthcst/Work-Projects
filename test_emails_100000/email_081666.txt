@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Smith
+  email: amanda.smith5156@yahoo.com
+  phone: 345 275 9645
+  ssn: 151891684
+  dob: 01/02/1999
+  address: 2930 Birch Dr
+  city: Seattle
+  state: CA

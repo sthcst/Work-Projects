@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Wilson",
+    "email": "timothy.wilson8366@example.com",
+    "phone": "446-606-8656",
+    "ssn": "054 12 1385",
+    "dob": "01/05/1961",
+    "address": "2279 Fourth Dr",
+    "city": "Los Angeles",
+    "state": "DC"
+  }
+}

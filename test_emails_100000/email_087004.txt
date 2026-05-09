@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Serrano,david.serrano4950@gmail.com,(955) 554-5475,043 41 1821,06/08/1995,"9185 West Way",New York,NJ

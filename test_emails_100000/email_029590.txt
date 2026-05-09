@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Collins",
+    "email": "robert.collins9548@work.org",
+    "phone": "560 471 5266",
+    "ssn": "964869583",
+    "dob": "08-16-1954",
+    "address": "9716 Spring St",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

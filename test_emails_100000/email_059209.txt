@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Carter
+  email: daniel.carter1497@gmail.com
+  phone: (419) 969-5513
+  ssn: 634-40-5310
+  dob: 07/01/1985
+  address: 7881 Elm Blvd
+  city: Los Angeles
+  state: NJ

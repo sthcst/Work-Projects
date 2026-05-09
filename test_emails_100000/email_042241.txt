@@ -1,0 +1,14 @@
+INVOICE 154030
+
+Bill To:
+Name: Kevin Williams
+Email: kevin.williams2490@gmail.com
+Phone: 993-402-5051
+SSN: 288-44-6068
+
+Address: 9127 Oak Court
+Seattle, CA
+
+Date of Birth: 26/09/1976
+
+Amount Due: $9203

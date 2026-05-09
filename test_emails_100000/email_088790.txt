@@ -1,0 +1,14 @@
+INVOICE 451328
+
+Bill To:
+Name: Angela Jackson
+Email: angela.jackson4384@example.com
+Phone: +1 477-298-9956
+SSN: 973562487
+
+Address: 1437 Oak Blvd
+Austin, TN
+
+Date of Birth: 11/13/1952
+
+Amount Due: $5432

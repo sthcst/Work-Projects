@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Williams",
+    "email": "mark.williams9871@example.com",
+    "phone": "+1 297-971-1434",
+    "ssn": "496-31-1693",
+    "dob": "08/17/1952",
+    "address": "4135 Spring Dr",
+    "city": "San Antonio",
+    "state": "TN"
+  }
+}

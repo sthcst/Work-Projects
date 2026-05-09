@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Nelson,katherine.nelson3981@gmail.com,511 882 7899,326-02-8890,3/25/1961,"2754 Summer Ave",Philadelphia,FL

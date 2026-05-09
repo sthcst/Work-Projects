@@ -1,0 +1,12 @@
+SUPPORT TICKET #17541
+
+Customer: Kevin Thomas
+Email: kevin.thomas3396@example.com
+Phone: 272 367 4865
+Account: 795077390
+
+Issue Description: Technical problem reported
+DOB on file: 11/10/1972
+Address: 7822 Park Rd, San Jose, MA
+
+Status: OPEN

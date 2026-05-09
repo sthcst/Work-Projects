@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Ortiz
+  email: kenneth.ortiz9116@company.com
+  phone: 290-475-3312
+  ssn: 915-91-6599
+  dob: 6/19/1978
+  address: 2779 Birch Ave
+  city: Dallas
+  state: MD

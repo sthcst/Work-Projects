@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Alvarado",
+    "email": "stephanie.alvarado8454@company.com",
+    "phone": "(532) 464-4026",
+    "ssn": "042956187",
+    "dob": "04/12/1980",
+    "address": "9275 North St",
+    "city": "Phoenix",
+    "state": "FL"
+  }
+}

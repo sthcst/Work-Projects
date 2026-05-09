@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Peterson",
+    "email": "christine.peterson6367@company.com",
+    "phone": "+1 575-943-6301",
+    "ssn": "655494195",
+    "dob": "07/16/1972",
+    "address": "431 Cedar St",
+    "city": "Los Angeles",
+    "state": "NC"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Miller,kevin.miller2258@company.com,(485) 596-8512,776-83-4106,07/07/1976,"3418 Park Rd",Washington,NJ

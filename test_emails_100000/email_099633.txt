@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Nelson
+  email: ronald.nelson4238@outlook.com
+  phone: (683) 855-2109
+  ssn: 905-84-8051
+  dob: 05/27/1984
+  address: 183 Second Way
+  city: New York
+  state: DC

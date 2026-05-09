@@ -1,0 +1,14 @@
+INVOICE 261066
+
+Bill To:
+Name: George Nelson
+Email: george.nelson889@company.com
+Phone: (444) 267-7265
+SSN: 174-20-8154
+
+Address: 6877 South Ave
+Denver, CO
+
+Date of Birth: 5/11/1967
+
+Amount Due: $1658

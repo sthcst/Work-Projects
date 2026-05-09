@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Hernandez
+  email: shirley.hernandez6493@outlook.com
+  phone: (254) 521-6783
+  ssn: 519952507
+  dob: 11-07-1970
+  address: 7400 Spring Court
+  city: New York
+  state: CA

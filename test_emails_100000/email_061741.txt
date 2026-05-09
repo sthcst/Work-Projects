@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Ramirez",
+    "email": "jacob.ramirez5050@example.com",
+    "phone": "+1 929-425-4319",
+    "ssn": "535 48 3940",
+    "dob": "13/06/2000",
+    "address": "6650 Spring Court",
+    "city": "Dallas",
+    "state": "FL"
+  }
+}

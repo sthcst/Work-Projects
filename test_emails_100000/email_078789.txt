@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Morris",
+    "email": "kenneth.morris5468@example.com",
+    "phone": "+1 737-688-6091",
+    "ssn": "492308272",
+    "dob": "12/11/2004",
+    "address": "1733 Main Rd",
+    "city": "Los Angeles",
+    "state": "FL"
+  }
+}

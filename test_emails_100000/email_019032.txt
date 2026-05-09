@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Campbell",
+    "email": "kathleen.campbell6922@yahoo.com",
+    "phone": "+1 898-439-7966",
+    "ssn": "888-56-6830",
+    "dob": "05/21/1973",
+    "address": "2103 Maple Court",
+    "city": "Austin",
+    "state": "OH"
+  }
+}

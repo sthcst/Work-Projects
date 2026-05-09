@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Thompson",
+    "email": "james.thompson3371@example.com",
+    "phone": "(522) 922-8028",
+    "ssn": "670812830",
+    "dob": "08-25-1971",
+    "address": "3684 East Way",
+    "city": "Jacksonville",
+    "state": "MA"
+  }
+}

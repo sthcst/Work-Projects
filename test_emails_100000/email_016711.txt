@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Ramirez
+  email: joseph.ramirez3301@outlook.com
+  phone: +1 254-330-2498
+  ssn: 161927174
+  dob: 03/10/1990
+  address: 1680 Sixth Rd
+  city: Austin
+  state: PA

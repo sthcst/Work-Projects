@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Nunez,rachel.nunez5438@mail.com,803 630 2475,315943839,26/11/1999,"8501 Park Dr",Los Angeles,FL

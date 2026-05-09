@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Bell,david.bell4675@work.org,261-983-6513,783 32 8027,8/18/1978,"6856 South Way",Austin,OH

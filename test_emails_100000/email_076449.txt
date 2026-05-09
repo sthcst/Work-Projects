@@ -1,0 +1,9 @@
+contact:
+  name: Christine Ortiz
+  email: christine.ortiz5537@yahoo.com
+  phone: (596) 846-9552
+  ssn: 989 35 3275
+  dob: 03-07-1974
+  address: 4762 Summer Court
+  city: Chicago
+  state: FL

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Brown,helen.brown60@yahoo.com,207 411 6684,138 47 9509,11/9/1970,"9115 Main Ln",Austin,MO

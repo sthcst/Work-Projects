@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Johnson",
+    "email": "joseph.johnson3545@mail.com",
+    "phone": "636 328 7376",
+    "ssn": "976 20 3543",
+    "dob": "8/19/2003",
+    "address": "3325 Third Rd",
+    "city": "San Diego",
+    "state": "NY"
+  }
+}

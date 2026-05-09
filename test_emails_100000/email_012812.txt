@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Rodriguez,donald.rodriguez4160@company.com,+1 673-678-4213,786287030,12/06/1957,"1672 South Rd",Washington,NY

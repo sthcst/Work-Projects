@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Ramirez,stephanie.ramirez8936@work.org,858 584 5296,808-46-6999,06/27/1979,"47 Main Blvd",Austin,NY

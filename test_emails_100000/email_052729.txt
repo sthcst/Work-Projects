@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Carter
+  email: amanda.carter4359@work.org
+  phone: 965 629 9629
+  ssn: 207774584
+  dob: 11/08/1955
+  address: 6687 Third St
+  city: Phoenix
+  state: DC

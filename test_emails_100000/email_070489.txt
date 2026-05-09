@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Taylor
+  email: samantha.taylor6344@example.com
+  phone: +1 290-580-3426
+  ssn: 400 16 4228
+  dob: 3/23/1952
+  address: 4057 Pine St
+  city: Seattle
+  state: MA

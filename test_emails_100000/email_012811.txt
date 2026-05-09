@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Reed",
+    "email": "jeffrey.reed2105@gmail.com",
+    "phone": "(290) 955-8161",
+    "ssn": "988778934",
+    "dob": "26/01/1975",
+    "address": "5254 Second Way",
+    "city": "Phoenix",
+    "state": "IL"
+  }
+}

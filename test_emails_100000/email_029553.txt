@@ -1,0 +1,9 @@
+contact:
+  name: Richard Collins
+  email: richard.collins4659@example.com
+  phone: +1 542-491-1043
+  ssn: 780422534
+  dob: 09/16/1976
+  address: 7449 Sixth Way
+  city: Houston
+  state: AZ

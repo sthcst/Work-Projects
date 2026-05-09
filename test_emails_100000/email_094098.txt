@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Bell,maria.bell5734@yahoo.com,710-682-4482,323 36 1791,07/10/1960,"6294 Birch St",Denver,MO

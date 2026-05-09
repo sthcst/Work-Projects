@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Martin",
+    "email": "daniel.martin6352@mail.com",
+    "phone": "(906) 557-6389",
+    "ssn": "151-66-9616",
+    "dob": "21/01/2002",
+    "address": "1992 Fifth Dr",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

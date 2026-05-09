@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Jones",
+    "email": "timothy.jones2563@company.com",
+    "phone": "+1 824-632-9424",
+    "ssn": "397-40-1924",
+    "dob": "09/11/1971",
+    "address": "6405 First Court",
+    "city": "Philadelphia",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Reed",
+    "email": "amanda.reed6989@outlook.com",
+    "phone": "896-955-8899",
+    "ssn": "366 99 6656",
+    "dob": "16/11/1984",
+    "address": "3092 Fifth St",
+    "city": "New York",
+    "state": "MA"
+  }
+}

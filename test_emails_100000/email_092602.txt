@@ -1,0 +1,9 @@
+contact:
+  name: Mark Bell
+  email: mark.bell5133@outlook.com
+  phone: 257-805-1486
+  ssn: 646 20 6754
+  dob: 11-25-1953
+  address: 1084 Third Ln
+  city: Seattle
+  state: GA

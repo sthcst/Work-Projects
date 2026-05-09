@@ -1,0 +1,9 @@
+contact:
+  name: Christine Edwards
+  email: christine.edwards9106@mail.com
+  phone: 228 703 3172
+  ssn: 024-98-2708
+  dob: 10/8/1972
+  address: 1907 Fourth Way
+  city: New York
+  state: OH

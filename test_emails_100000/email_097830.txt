@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Nelson,timothy.nelson6634@business.net,956 833 9342,384 47 2583,04/25/1960,"196 First Way",Austin,PA

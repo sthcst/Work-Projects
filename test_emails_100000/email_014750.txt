@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Alvarado",
+    "email": "anthony.alvarado7768@outlook.com",
+    "phone": "991 972 7567",
+    "ssn": "062 92 4149",
+    "dob": "05-03-2004",
+    "address": "4542 North Ave",
+    "city": "San Jose",
+    "state": "FL"
+  }
+}

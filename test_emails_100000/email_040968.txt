@@ -1,0 +1,9 @@
+contact:
+  name: Jane Miller
+  email: jane.miller4659@outlook.com
+  phone: +1 576-366-8796
+  ssn: 877 29 1982
+  dob: 01/04/1977
+  address: 4488 Second Court
+  city: Jacksonville
+  state: MO

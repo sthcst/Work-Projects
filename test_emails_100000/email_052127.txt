@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Williams",
+    "email": "nicole.williams2770@yahoo.com",
+    "phone": "368-856-2416",
+    "ssn": "883-10-5320",
+    "dob": "8/17/1975",
+    "address": "8228 Maple Court",
+    "city": "Phoenix",
+    "state": "WA"
+  }
+}

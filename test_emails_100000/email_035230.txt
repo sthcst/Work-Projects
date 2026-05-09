@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Rogers
+  email: andrew.rogers4325@example.com
+  phone: 696-785-9569
+  ssn: 595-83-3366
+  dob: 03-16-1960
+  address: 8177 Maple Court
+  city: Phoenix
+  state: NY

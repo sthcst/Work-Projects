@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Peterson
+  email: ashley.peterson7460@work.org
+  phone: 918-698-6751
+  ssn: 562324687
+  dob: 3/3/1951
+  address: 1395 Fourth Ave
+  city: Boston
+  state: CA

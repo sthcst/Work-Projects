@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Delgado
+  email: katherine.delgado1067@business.net
+  phone: 775 212 7917
+  ssn: 358 70 4134
+  dob: 09-08-1960
+  address: 4078 Main Dr
+  city: Austin
+  state: CA

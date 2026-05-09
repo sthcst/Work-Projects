@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Gonzalez,maria.gonzalez438@outlook.com,920 477 4983,867415082,01/05/2003,"2087 Pine Dr",Los Angeles,MA

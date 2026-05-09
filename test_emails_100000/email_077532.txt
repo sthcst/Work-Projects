@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Matthew Johnson,matthew.johnson5706@company.com,(529) 884-9056,152-47-6174,9/28/1995,"5872 Second Court",Los Angeles,NC

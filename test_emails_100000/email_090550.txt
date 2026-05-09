@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Parker
+  email: kimberly.parker9802@outlook.com
+  phone: 943-401-7408
+  ssn: 788255785
+  dob: 7/24/1965
+  address: 8568 Cedar Court
+  city: Boston
+  state: NC

@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Alvarado
+  email: kimberly.alvarado8096@mail.com
+  phone: 968-413-1617
+  ssn: 817-73-6253
+  dob: 12/7/1951
+  address: 2542 Fourth Court
+  city: Chicago
+  state: GA

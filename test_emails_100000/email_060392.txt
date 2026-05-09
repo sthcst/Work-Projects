@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Alvarado,kenneth.alvarado2486@mail.com,512-915-2256,625932389,05-19-1956,"3519 Summer Ave",San Jose,WA

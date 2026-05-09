@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Gonzalez,nicole.gonzalez9508@company.com,922 335 9652,464-02-4296,7/6/1971,"5628 Cedar Ave",Phoenix,MD

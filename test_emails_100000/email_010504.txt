@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Brown,lauren.brown5034@outlook.com,999 993 3993,095-21-6035,04/07/2005,"1821 Third Rd",New York,TN

@@ -1,0 +1,9 @@
+contact:
+  name: William Jones
+  email: william.jones8392@business.net
+  phone: 879-483-7955
+  ssn: 304-90-1601
+  dob: 08-12-1998
+  address: 3152 First Way
+  city: Phoenix
+  state: TX

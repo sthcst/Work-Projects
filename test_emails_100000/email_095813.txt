@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Martinez
+  email: lisa.martinez4518@example.com
+  phone: 295-683-7813
+  ssn: 743 60 7990
+  dob: 1/4/1989
+  address: 2295 Fourth Ave
+  city: Washington
+  state: AZ

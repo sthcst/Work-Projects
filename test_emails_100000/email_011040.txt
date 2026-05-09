@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Ortiz
+  email: timothy.ortiz4232@outlook.com
+  phone: +1 200-469-4704
+  ssn: 498749593
+  dob: 3/9/1965
+  address: 1325 South Blvd
+  city: San Antonio
+  state: WA

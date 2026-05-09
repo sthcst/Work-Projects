@@ -1,0 +1,14 @@
+INVOICE 273062
+
+Bill To:
+Name: Pamela Gomez
+Email: pamela.gomez8425@company.com
+Phone: +1 227-241-7273
+SSN: 393 97 1377
+
+Address: 206 Main Dr
+San Antonio, TX
+
+Date of Birth: 10/12/1957
+
+Amount Due: $3694

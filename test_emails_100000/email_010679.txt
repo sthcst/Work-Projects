@@ -1,0 +1,9 @@
+contact:
+  name: Jane Thompson
+  email: jane.thompson8139@company.com
+  phone: (951) 554-3271
+  ssn: 593-75-6058
+  dob: 12/16/1982
+  address: 4089 North St
+  city: Boston
+  state: OH

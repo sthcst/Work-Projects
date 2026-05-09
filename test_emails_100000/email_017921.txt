@@ -1,0 +1,14 @@
+INVOICE 765655
+
+Bill To:
+Name: Donald Edwards
+Email: donald.edwards7637@company.com
+Phone: (439) 916-3824
+SSN: 257753559
+
+Address: 7148 Oak Rd
+Washington, GA
+
+Date of Birth: 10-17-1960
+
+Amount Due: $2200

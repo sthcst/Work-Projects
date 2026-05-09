@@ -1,0 +1,14 @@
+INVOICE 505540
+
+Bill To:
+Name: Mark Lee
+Email: mark.lee9285@work.org
+Phone: +1 374-750-2719
+SSN: 900825042
+
+Address: 8044 Elm Ave
+New York, GA
+
+Date of Birth: 08/04/2003
+
+Amount Due: $8764

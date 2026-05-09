@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Carter,ryan.carter784@business.net,621-502-5406,564 92 4540,7/19/1988,"6013 Oak St",Houston,CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Thompson",
+    "email": "william.thompson5064@outlook.com",
+    "phone": "+1 652-935-5021",
+    "ssn": "583-03-5149",
+    "dob": "4/21/1957",
+    "address": "2228 Spring Way",
+    "city": "Houston",
+    "state": "DC"
+  }
+}

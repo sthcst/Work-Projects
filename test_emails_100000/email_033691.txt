@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Lee
+  email: brenda.lee9168@example.com
+  phone: +1 832-267-8083
+  ssn: 811-53-6469
+  dob: 01/02/1952
+  address: 8899 First Way
+  city: San Jose
+  state: MA

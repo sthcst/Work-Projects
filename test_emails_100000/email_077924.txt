@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Stewart",
+    "email": "ryan.stewart6400@example.com",
+    "phone": "+1 731-802-4974",
+    "ssn": "887 27 2517",
+    "dob": "6/11/1953",
+    "address": "7110 Cedar Ln",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

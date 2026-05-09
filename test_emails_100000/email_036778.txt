@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Walker",
+    "email": "brian.walker1624@mail.com",
+    "phone": "381-466-4242",
+    "ssn": "791484878",
+    "dob": "03-09-1976",
+    "address": "7033 South Blvd",
+    "city": "Seattle",
+    "state": "MD"
+  }
+}

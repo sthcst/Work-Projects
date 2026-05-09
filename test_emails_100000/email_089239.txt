@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Dominguez",
+    "email": "samantha.dominguez7182@business.net",
+    "phone": "338-456-7027",
+    "ssn": "394 53 9988",
+    "dob": "09/12/1967",
+    "address": "9633 Pine Blvd",
+    "city": "Philadelphia",
+    "state": "IL"
+  }
+}

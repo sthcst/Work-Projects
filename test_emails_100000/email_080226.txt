@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Garcia
+  email: jennifer.garcia5332@work.org
+  phone: (637) 606-2713
+  ssn: 116 39 3770
+  dob: 05/13/1977
+  address: 3262 East Court
+  city: Denver
+  state: GA

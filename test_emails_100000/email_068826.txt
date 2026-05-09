@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Romero,sarah.romero1318@business.net,932-708-7216,268524674,02-12-1967,"9550 South Ave",Seattle,GA

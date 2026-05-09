@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Jimenez,amanda.jimenez7865@outlook.com,383-293-3762,215 66 6992,03/25/1971,"7758 Fifth Rd",Seattle,NJ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Jones,ronald.jones8840@business.net,349 221 9556,334-20-3831,7/21/1979,"3744 West Dr",San Jose,NC

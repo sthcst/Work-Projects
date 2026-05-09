@@ -1,0 +1,9 @@
+contact:
+  name: Emma Phillips
+  email: emma.phillips5677@outlook.com
+  phone: 994-799-4062
+  ssn: 107294614
+  dob: 8/6/2005
+  address: 6767 Maple Ln
+  city: Washington
+  state: MO

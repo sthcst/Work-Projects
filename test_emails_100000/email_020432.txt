@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Nelson",
+    "email": "joshua.nelson704@example.com",
+    "phone": "884 214 6259",
+    "ssn": "349-77-5016",
+    "dob": "11-22-1957",
+    "address": "6825 Fifth St",
+    "city": "Houston",
+    "state": "AZ"
+  }
+}

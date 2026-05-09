@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Carter,joshua.carter4518@example.com,(622) 388-9704,897201010,26/02/1984,"1830 Sixth Court",San Antonio,GA

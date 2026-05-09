@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Serrano
+  email: kimberly.serrano7221@gmail.com
+  phone: 551-417-9595
+  ssn: 332-85-3905
+  dob: 10/3/1985
+  address: 6319 Pine St
+  city: Los Angeles
+  state: PA

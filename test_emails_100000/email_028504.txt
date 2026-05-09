@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Peterson,katherine.peterson244@work.org,511 270 1944,796-32-5340,02/17/1980,"6878 Fourth Dr",Austin,MI

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Moore,rebecca.moore8627@business.net,(327) 959-8594,785039237,07/28/1990,"6633 Park Ln",Denver,WA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Serrano",
+    "email": "donald.serrano6218@gmail.com",
+    "phone": "+1 223-680-4859",
+    "ssn": "617-33-8029",
+    "dob": "10/19/2003",
+    "address": "1911 Oak Blvd",
+    "city": "San Antonio",
+    "state": "GA"
+  }
+}

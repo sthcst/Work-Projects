@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Thomas",
+    "email": "angela.thomas2824@example.com",
+    "phone": "(637) 984-1634",
+    "ssn": "126 79 6882",
+    "dob": "04-03-1960",
+    "address": "8221 Maple Ave",
+    "city": "San Diego",
+    "state": "NJ"
+  }
+}

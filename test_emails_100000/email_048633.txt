@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Wilson,lisa.wilson8559@mail.com,(334) 640-3201,712045527,10/22/1956,"6357 Pine Rd",Chicago,WA

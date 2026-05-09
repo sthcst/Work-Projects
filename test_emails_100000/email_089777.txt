@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Ortiz",
+    "email": "shirley.ortiz5587@work.org",
+    "phone": "353 823 4704",
+    "ssn": "907042115",
+    "dob": "25/12/2003",
+    "address": "5730 Second Way",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

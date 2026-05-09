@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Carter,katherine.carter325@work.org,353 728 4901,829 51 9219,06-27-1968,"8008 Summer Dr",Los Angeles,FL

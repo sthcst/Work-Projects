@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Nunez",
+    "email": "nicholas.nunez5114@mail.com",
+    "phone": "617-222-5928",
+    "ssn": "033041330",
+    "dob": "03/04/1986",
+    "address": "1719 Oak Court",
+    "city": "Boston",
+    "state": "FL"
+  }
+}

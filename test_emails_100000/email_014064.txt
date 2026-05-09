@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Moore,samantha.moore2348@business.net,+1 785-874-3371,469 47 9198,08/11/1956,"1854 First Court",San Diego,CA

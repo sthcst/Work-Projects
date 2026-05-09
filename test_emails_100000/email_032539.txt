@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Reyes,kathleen.reyes3083@gmail.com,565 308 4288,562-12-2264,04-25-1992,"1941 Spring Court",Seattle,WI

@@ -1,0 +1,14 @@
+INVOICE 373800
+
+Bill To:
+Name: Nicholas Reyes
+Email: nicholas.reyes9145@gmail.com
+Phone: 654-782-5250
+SSN: 203391894
+
+Address: 7449 Pine Ln
+Los Angeles, GA
+
+Date of Birth: 8/19/1968
+
+Amount Due: $1941

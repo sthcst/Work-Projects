@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Thompson",
+    "email": "kimberly.thompson8686@outlook.com",
+    "phone": "(372) 622-7812",
+    "ssn": "550 05 9983",
+    "dob": "07/07/1994",
+    "address": "5865 Cedar Court",
+    "city": "Houston",
+    "state": "TN"
+  }
+}

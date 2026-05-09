@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Ramirez",
+    "email": "john.ramirez5949@work.org",
+    "phone": "994-354-7169",
+    "ssn": "803 42 5880",
+    "dob": "03/09/1989",
+    "address": "4240 Elm St",
+    "city": "Phoenix",
+    "state": "MO"
+  }
+}

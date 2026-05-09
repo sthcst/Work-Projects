@@ -1,0 +1,9 @@
+contact:
+  name: Robert Phillips
+  email: robert.phillips2714@mail.com
+  phone: +1 201-394-1473
+  ssn: 771174256
+  dob: 19/01/1971
+  address: 3002 Main Rd
+  city: New York
+  state: AZ

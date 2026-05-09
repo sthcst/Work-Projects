@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Rodriguez,maria.rodriguez8278@example.com,441 699 6732,639 89 2557,04/24/1987,"4696 West St",Jacksonville,TX

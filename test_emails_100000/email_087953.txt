@@ -1,0 +1,9 @@
+contact:
+  name: Edward Gonzalez
+  email: edward.gonzalez287@mail.com
+  phone: 335-957-5620
+  ssn: 677159417
+  dob: 05-10-1951
+  address: 6705 West Ln
+  city: Philadelphia
+  state: MA

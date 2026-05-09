@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Phillips",
+    "email": "kevin.phillips2128@business.net",
+    "phone": "926-648-3433",
+    "ssn": "873-38-2230",
+    "dob": "7/28/1967",
+    "address": "4453 Cedar Dr",
+    "city": "Chicago",
+    "state": "TN"
+  }
+}

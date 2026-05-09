@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Smith
+  email: pamela.smith9301@yahoo.com
+  phone: 310-740-1236
+  ssn: 596-02-7356
+  dob: 05/12/1982
+  address: 3723 Fourth Ave
+  city: New York
+  state: AZ

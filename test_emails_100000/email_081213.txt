@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Morris",
+    "email": "christine.morris2556@outlook.com",
+    "phone": "578 664 5184",
+    "ssn": "512203809",
+    "dob": "18/04/2002",
+    "address": "4146 Summer Way",
+    "city": "San Diego",
+    "state": "CO"
+  }
+}

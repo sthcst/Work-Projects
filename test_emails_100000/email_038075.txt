@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Hall",
+    "email": "samantha.hall5990@mail.com",
+    "phone": "(465) 622-5728",
+    "ssn": "777989503",
+    "dob": "24/07/1995",
+    "address": "2691 Sixth Dr",
+    "city": "New York",
+    "state": "DC"
+  }
+}

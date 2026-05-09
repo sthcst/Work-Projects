@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Clark,brian.clark2434@outlook.com,245-214-9962,044-98-5618,08/11/1960,"4132 Spring Rd",Jacksonville,WI

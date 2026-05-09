@@ -1,0 +1,14 @@
+INVOICE 298628
+
+Bill To:
+Name: Lisa Jones
+Email: lisa.jones3375@yahoo.com
+Phone: +1 941-799-9773
+SSN: 275-51-4166
+
+Address: 939 Sixth Rd
+Seattle, AZ
+
+Date of Birth: 12/10/1962
+
+Amount Due: $9313

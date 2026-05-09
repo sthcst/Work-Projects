@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Martin",
+    "email": "emma.martin2717@work.org",
+    "phone": "(445) 505-2359",
+    "ssn": "453-49-5322",
+    "dob": "12-05-2000",
+    "address": "9919 Birch Court",
+    "city": "San Jose",
+    "state": "CA"
+  }
+}

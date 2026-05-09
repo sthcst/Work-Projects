@@ -1,0 +1,9 @@
+contact:
+  name: Edward Parker
+  email: edward.parker1176@business.net
+  phone: +1 876-382-7339
+  ssn: 069 39 4721
+  dob: 11/26/1964
+  address: 5143 Birch Court
+  city: Seattle
+  state: AZ

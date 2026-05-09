@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Alvarado",
+    "email": "michelle.alvarado5262@gmail.com",
+    "phone": "831-568-9435",
+    "ssn": "814 15 7024",
+    "dob": "05/16/1994",
+    "address": "4865 Summer Court",
+    "city": "San Antonio",
+    "state": "NC"
+  }
+}

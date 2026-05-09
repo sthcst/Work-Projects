@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Reed
+  email: nicholas.reed6005@yahoo.com
+  phone: (584) 227-5257
+  ssn: 857 91 5363
+  dob: 10/14/2002
+  address: 9604 Main Court
+  city: Austin
+  state: AZ

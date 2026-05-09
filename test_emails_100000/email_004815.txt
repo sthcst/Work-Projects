@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Hernandez",
+    "email": "kenneth.hernandez821@gmail.com",
+    "phone": "(886) 843-8776",
+    "ssn": "504 58 6242",
+    "dob": "8/19/1989",
+    "address": "9282 East Ln",
+    "city": "San Diego",
+    "state": "NY"
+  }
+}

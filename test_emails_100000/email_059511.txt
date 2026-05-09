@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Walker
+  email: amanda.walker531@business.net
+  phone: +1 650-628-2909
+  ssn: 584-35-9371
+  dob: 25/12/1965
+  address: 172 Main Ln
+  city: Phoenix
+  state: TX

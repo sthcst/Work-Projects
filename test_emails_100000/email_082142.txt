@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Brown,lauren.brown5829@company.com,547 491 1861,838 83 2932,09-25-1997,"9888 Fourth Dr",Austin,MA

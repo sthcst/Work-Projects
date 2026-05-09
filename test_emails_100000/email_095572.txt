@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Hernandez",
+    "email": "gary.hernandez9938@gmail.com",
+    "phone": "449 669 3921",
+    "ssn": "050 78 6745",
+    "dob": "12/18/1975",
+    "address": "2091 Main Dr",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Thomas,michael.thomas2715@outlook.com,(368) 951-4662,367-99-9262,11/11/1964,"1834 Cedar Court",Phoenix,NY

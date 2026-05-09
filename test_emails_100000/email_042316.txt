@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Reyes",
+    "email": "steven.reyes5562@business.net",
+    "phone": "+1 615-925-2256",
+    "ssn": "088-37-5184",
+    "dob": "05/21/1967",
+    "address": "6210 Cedar Blvd",
+    "city": "Washington",
+    "state": "MA"
+  }
+}

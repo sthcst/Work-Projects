@@ -1,0 +1,14 @@
+INVOICE 761026
+
+Bill To:
+Name: Samantha Wilson
+Email: samantha.wilson8594@company.com
+Phone: 626-589-7077
+SSN: 658 90 2634
+
+Address: 9407 Fifth Rd
+Dallas, TX
+
+Date of Birth: 18/02/1970
+
+Amount Due: $5222

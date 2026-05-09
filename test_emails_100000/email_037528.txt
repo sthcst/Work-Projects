@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Ramirez,nicole.ramirez5850@business.net,549-631-6607,414 23 6479,04/06/1982,"8117 Spring Dr",Dallas,OH

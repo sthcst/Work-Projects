@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Nelson,amanda.nelson7772@yahoo.com,+1 564-557-5408,656 44 5598,10/12/2002,"6706 Oak St",Philadelphia,MI

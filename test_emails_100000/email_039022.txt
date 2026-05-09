@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Campbell",
+    "email": "brenda.campbell7703@mail.com",
+    "phone": "945 580 8715",
+    "ssn": "570 20 5404",
+    "dob": "19/02/1984",
+    "address": "950 Spring Ln",
+    "city": "San Antonio",
+    "state": "AZ"
+  }
+}

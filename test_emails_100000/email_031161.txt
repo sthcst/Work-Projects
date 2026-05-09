@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Hall",
+    "email": "helen.hall171@yahoo.com",
+    "phone": "956 960 6899",
+    "ssn": "190749897",
+    "dob": "9/26/1977",
+    "address": "7712 Main Court",
+    "city": "Los Angeles",
+    "state": "MD"
+  }
+}

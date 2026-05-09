@@ -1,0 +1,14 @@
+INVOICE 236597
+
+Bill To:
+Name: Nicholas Alvarado
+Email: nicholas.alvarado1732@example.com
+Phone: 936 906 3469
+SSN: 287965581
+
+Address: 7717 Elm Way
+Los Angeles, IL
+
+Date of Birth: 07/13/1954
+
+Amount Due: $6067

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Smith",
+    "email": "rachel.smith4611@business.net",
+    "phone": "+1 958-516-9452",
+    "ssn": "802 96 2839",
+    "dob": "6/22/1954",
+    "address": "3766 First Ln",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

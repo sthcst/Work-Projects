@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Wilson,amanda.wilson7956@business.net,439 879 6108,554681825,4/14/1995,"7797 Spring Dr",Chicago,WI

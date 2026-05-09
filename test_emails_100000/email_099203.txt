@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Jones
+  email: deborah.jones7655@outlook.com
+  phone: 685-313-6848
+  ssn: 323 87 3717
+  dob: 8/5/1972
+  address: 7767 Elm Ln
+  city: Houston
+  state: AZ

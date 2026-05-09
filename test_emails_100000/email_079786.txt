@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Morgan
+  email: christopher.morgan7771@mail.com
+  phone: 928 808 2270
+  ssn: 955725611
+  dob: 10/2/2003
+  address: 5749 Second Rd
+  city: San Jose
+  state: NC

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Ortiz,deborah.ortiz1601@business.net,+1 723-367-6154,483 78 2657,06/10/1965,"8996 Second Way",Denver,FL

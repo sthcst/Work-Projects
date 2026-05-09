@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Brown
+  email: michelle.brown2459@outlook.com
+  phone: (453) 310-3749
+  ssn: 844-10-6501
+  dob: 04/15/1969
+  address: 3571 Cedar Blvd
+  city: Dallas
+  state: GA

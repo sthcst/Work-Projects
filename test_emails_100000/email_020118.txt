@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Smith,daniel.smith9564@mail.com,888-869-4662,851 03 7868,09-18-1993,"8973 Pine Rd",Dallas,VA

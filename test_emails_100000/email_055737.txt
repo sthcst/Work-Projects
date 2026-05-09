@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Walker
+  email: shirley.walker8786@mail.com
+  phone: 206 354 6256
+  ssn: 034 91 6410
+  dob: 07-17-1974
+  address: 5371 Cedar Way
+  city: Jacksonville
+  state: CO

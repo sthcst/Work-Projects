@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Nelson",
+    "email": "anthony.nelson6036@business.net",
+    "phone": "616-808-1976",
+    "ssn": "246 52 5287",
+    "dob": "01/01/1962",
+    "address": "2122 Main Ln",
+    "city": "Seattle",
+    "state": "VA"
+  }
+}

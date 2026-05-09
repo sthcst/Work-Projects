@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Lewis",
+    "email": "ronald.lewis2668@gmail.com",
+    "phone": "(909) 422-6122",
+    "ssn": "632-19-8688",
+    "dob": "10/27/1964",
+    "address": "6226 East Ln",
+    "city": "Los Angeles",
+    "state": "MA"
+  }
+}

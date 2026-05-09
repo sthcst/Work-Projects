@@ -1,0 +1,9 @@
+contact:
+  name: Paul Rodriguez
+  email: paul.rodriguez5784@outlook.com
+  phone: 952-708-3218
+  ssn: 239-54-5346
+  dob: 10/04/2004
+  address: 3917 North Court
+  city: Los Angeles
+  state: NY

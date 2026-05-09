@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Carter",
+    "email": "amanda.carter6127@mail.com",
+    "phone": "+1 705-492-9689",
+    "ssn": "477821110",
+    "dob": "7/14/1960",
+    "address": "5519 North Blvd",
+    "city": "San Antonio",
+    "state": "DC"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Roberts
+  email: lauren.roberts1974@example.com
+  phone: (883) 458-8945
+  ssn: 350702172
+  dob: 01/06/1979
+  address: 1250 Third Ave
+  city: Seattle
+  state: TX

@@ -1,0 +1,9 @@
+contact:
+  name: Brian Brown
+  email: brian.brown5415@example.com
+  phone: 386-722-4186
+  ssn: 568 26 6955
+  dob: 9/2/1958
+  address: 2943 East Ave
+  city: San Antonio
+  state: NJ

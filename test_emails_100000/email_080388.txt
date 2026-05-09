@@ -1,0 +1,14 @@
+INVOICE 265143
+
+Bill To:
+Name: Edward Thompson
+Email: edward.thompson4809@example.com
+Phone: 717-664-4019
+SSN: 207 92 1034
+
+Address: 377 Pine St
+Denver, WA
+
+Date of Birth: 9/24/1988
+
+Amount Due: $2728

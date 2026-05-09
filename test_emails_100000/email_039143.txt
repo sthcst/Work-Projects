@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Bell",
+    "email": "james.bell5910@example.com",
+    "phone": "(834) 263-8929",
+    "ssn": "391 08 3264",
+    "dob": "16/08/1950",
+    "address": "5323 Fourth Way",
+    "city": "San Diego",
+    "state": "VA"
+  }
+}

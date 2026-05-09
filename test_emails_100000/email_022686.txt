@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Reed",
+    "email": "jason.reed5817@gmail.com",
+    "phone": "732 350 7135",
+    "ssn": "040 32 9081",
+    "dob": "9/8/1965",
+    "address": "8703 East Ln",
+    "city": "Austin",
+    "state": "WA"
+  }
+}

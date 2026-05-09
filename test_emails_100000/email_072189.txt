@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Parker,shirley.parker9962@example.com,875 534 3085,435182210,9/27/1988,"6401 Elm Rd",Boston,MD

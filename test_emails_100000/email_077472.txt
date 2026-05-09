@@ -1,0 +1,14 @@
+INVOICE 963314
+
+Bill To:
+Name: Megan Lopez
+Email: megan.lopez6944@mail.com
+Phone: +1 225-514-1085
+SSN: 448 24 8076
+
+Address: 78 Cedar St
+Los Angeles, CA
+
+Date of Birth: 17/09/1966
+
+Amount Due: $1500

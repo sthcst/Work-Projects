@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Gonzalez,joshua.gonzalez8882@work.org,(690) 991-7098,121336562,04/05/1999,"1752 East Blvd",Boston,WA

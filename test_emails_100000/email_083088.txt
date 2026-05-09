@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Rodriguez",
+    "email": "michael.rodriguez6378@yahoo.com",
+    "phone": "(486) 316-2380",
+    "ssn": "749 91 7265",
+    "dob": "1/1/1995",
+    "address": "9171 Spring Court",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

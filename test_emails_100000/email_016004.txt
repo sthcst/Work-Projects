@@ -1,0 +1,14 @@
+INVOICE 253671
+
+Bill To:
+Name: George Stewart
+Email: george.stewart2311@mail.com
+Phone: +1 708-557-7210
+SSN: 419 36 2596
+
+Address: 7703 First Ln
+Houston, OH
+
+Date of Birth: 07-21-1954
+
+Amount Due: $7447

@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Thomas
+  email: rebecca.thomas2031@gmail.com
+  phone: +1 847-874-6235
+  ssn: 487 41 3932
+  dob: 9/21/1956
+  address: 828 First St
+  city: Philadelphia
+  state: CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Morris",
+    "email": "jennifer.morris3086@gmail.com",
+    "phone": "898 725 1582",
+    "ssn": "713-78-8037",
+    "dob": "12/04/1951",
+    "address": "8403 East Ave",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Smith,pamela.smith6892@example.com,+1 217-379-4966,552383053,03-09-1957,"5774 South Dr",Austin,MD

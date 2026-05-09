@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Ramirez",
+    "email": "kathleen.ramirez4827@work.org",
+    "phone": "+1 214-769-9527",
+    "ssn": "130 58 9551",
+    "dob": "1/14/1968",
+    "address": "1226 Cedar Blvd",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

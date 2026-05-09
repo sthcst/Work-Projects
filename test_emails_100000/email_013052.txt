@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Gomez",
+    "email": "paul.gomez951@gmail.com",
+    "phone": "+1 378-241-9206",
+    "ssn": "779 42 2962",
+    "dob": "9/16/2002",
+    "address": "2147 Main Ave",
+    "city": "San Jose",
+    "state": "AZ"
+  }
+}

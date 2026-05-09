@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Robinson",
+    "email": "donald.robinson5963@business.net",
+    "phone": "+1 722-211-1809",
+    "ssn": "277-83-2095",
+    "dob": "02/14/1983",
+    "address": "5440 Summer Court",
+    "city": "New York",
+    "state": "CA"
+  }
+}

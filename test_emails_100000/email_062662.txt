@@ -1,0 +1,9 @@
+contact:
+  name: Edward Romero
+  email: edward.romero6934@business.net
+  phone: 956 774 7930
+  ssn: 856 20 5390
+  dob: 10/10/1982
+  address: 3941 North Ave
+  city: Boston
+  state: NJ

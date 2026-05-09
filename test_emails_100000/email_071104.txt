@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Hall",
+    "email": "emily.hall3106@yahoo.com",
+    "phone": "598-684-5971",
+    "ssn": "435 07 1579",
+    "dob": "11-28-1971",
+    "address": "952 Maple Way",
+    "city": "New York",
+    "state": "WA"
+  }
+}

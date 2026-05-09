@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Phillips",
+    "email": "anna.phillips1212@work.org",
+    "phone": "325-600-7308",
+    "ssn": "929036834",
+    "dob": "19/06/1965",
+    "address": "9642 Summer Ave",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

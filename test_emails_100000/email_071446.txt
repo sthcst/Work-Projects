@@ -1,0 +1,14 @@
+INVOICE 317360
+
+Bill To:
+Name: Kevin Smith
+Email: kevin.smith1792@gmail.com
+Phone: 688 750 4288
+SSN: 848-37-7010
+
+Address: 6561 Oak Ln
+Austin, DC
+
+Date of Birth: 19/07/1988
+
+Amount Due: $4607

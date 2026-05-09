@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Reyes
+  email: nicholas.reyes9581@mail.com
+  phone: 313 377 8841
+  ssn: 022929018
+  dob: 26/09/1999
+  address: 1940 Main St
+  city: Phoenix
+  state: DC

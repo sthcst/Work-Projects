@@ -1,0 +1,14 @@
+INVOICE 440063
+
+Bill To:
+Name: Kimberly Cooper
+Email: kimberly.cooper6814@example.com
+Phone: (417) 273-6446
+SSN: 137 72 1900
+
+Address: 2888 Main Way
+Houston, VA
+
+Date of Birth: 07-28-1956
+
+Amount Due: $6320

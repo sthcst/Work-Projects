@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Reeves",
+    "email": "timothy.reeves9239@gmail.com",
+    "phone": "664 699 7445",
+    "ssn": "575-68-9147",
+    "dob": "09/02/1985",
+    "address": "2731 Park Blvd",
+    "city": "Chicago",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Perez",
+    "email": "steven.perez5759@company.com",
+    "phone": "563 850 9110",
+    "ssn": "811329824",
+    "dob": "5/1/1956",
+    "address": "3011 Summer Ave",
+    "city": "New York",
+    "state": "NY"
+  }
+}

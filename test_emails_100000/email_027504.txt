@@ -1,0 +1,14 @@
+INVOICE 607168
+
+Bill To:
+Name: James Moore
+Email: james.moore2241@company.com
+Phone: (887) 815-5664
+SSN: 001877760
+
+Address: 466 Summer St
+Los Angeles, OH
+
+Date of Birth: 24/10/1993
+
+Amount Due: $5885

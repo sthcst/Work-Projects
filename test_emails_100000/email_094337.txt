@@ -1,0 +1,9 @@
+contact:
+  name: Emily Morris
+  email: emily.morris1938@outlook.com
+  phone: +1 746-358-4290
+  ssn: 313756439
+  dob: 08/10/1958
+  address: 382 Park Ave
+  city: Boston
+  state: FL

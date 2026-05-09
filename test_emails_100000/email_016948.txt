@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Davis,rachel.davis1015@gmail.com,286-597-2969,496-77-2726,01-07-1997,"6548 Cedar Rd",Washington,TN

@@ -1,0 +1,14 @@
+INVOICE 655179
+
+Bill To:
+Name: Samantha Johnson
+Email: samantha.johnson1293@yahoo.com
+Phone: 953 753 4672
+SSN: 942-15-7204
+
+Address: 5822 East Rd
+Seattle, OH
+
+Date of Birth: 20/11/1979
+
+Amount Due: $6994

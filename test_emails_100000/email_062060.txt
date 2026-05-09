@@ -1,0 +1,14 @@
+INVOICE 276114
+
+Bill To:
+Name: Timothy Ortiz
+Email: timothy.ortiz354@company.com
+Phone: (508) 579-2523
+SSN: 609 45 7298
+
+Address: 7978 Spring Ln
+Chicago, DC
+
+Date of Birth: 04/17/1973
+
+Amount Due: $3343

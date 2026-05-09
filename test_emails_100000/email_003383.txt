@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Moore
+  email: timothy.moore9760@outlook.com
+  phone: +1 556-255-5845
+  ssn: 367303400
+  dob: 09-05-2002
+  address: 8891 South St
+  city: Phoenix
+  state: VA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Davis",
+    "email": "kathleen.davis6877@yahoo.com",
+    "phone": "(300) 413-1174",
+    "ssn": "649-74-3482",
+    "dob": "08/23/1985",
+    "address": "9560 Spring Blvd",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

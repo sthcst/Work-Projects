@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Brown",
+    "email": "angela.brown2770@work.org",
+    "phone": "(693) 767-8272",
+    "ssn": "035 22 9204",
+    "dob": "05/13/1964",
+    "address": "1182 West St",
+    "city": "Los Angeles",
+    "state": "FL"
+  }
+}

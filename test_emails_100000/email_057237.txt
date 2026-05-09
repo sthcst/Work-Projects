@@ -1,0 +1,14 @@
+INVOICE 883778
+
+Bill To:
+Name: Joshua Parker
+Email: joshua.parker6184@company.com
+Phone: 582 285 7778
+SSN: 485 03 5472
+
+Address: 9507 Cedar Blvd
+Boston, CO
+
+Date of Birth: 23/12/1987
+
+Amount Due: $8407

@@ -1,0 +1,9 @@
+contact:
+  name: David Guerrero
+  email: david.guerrero9697@example.com
+  phone: (859) 559-3316
+  ssn: 129-02-3728
+  dob: 04-20-1991
+  address: 2143 Main Court
+  city: Denver
+  state: MD

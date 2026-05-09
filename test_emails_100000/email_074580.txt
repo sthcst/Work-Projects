@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Lewis
+  email: kimberly.lewis9269@mail.com
+  phone: +1 597-858-5705
+  ssn: 417-44-9935
+  dob: 21/07/2005
+  address: 1896 Park Way
+  city: New York
+  state: CA

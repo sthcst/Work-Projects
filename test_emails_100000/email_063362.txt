@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Campbell,sarah.campbell543@business.net,(962) 638-6884,940 27 4899,27/06/1968,"7998 Cedar Way",Jacksonville,MO

@@ -1,0 +1,14 @@
+INVOICE 337243
+
+Bill To:
+Name: Cynthia Peterson
+Email: cynthia.peterson3627@outlook.com
+Phone: 659 975 9788
+SSN: 688852788
+
+Address: 3749 Oak Dr
+Washington, TX
+
+Date of Birth: 04/11/1992
+
+Amount Due: $1000

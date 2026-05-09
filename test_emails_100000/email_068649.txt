@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Murillo,richard.murillo3641@business.net,340-505-7059,490 50 2645,18/07/1983,"20 North Blvd",Austin,MA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Serrano",
+    "email": "nicholas.serrano1848@company.com",
+    "phone": "(231) 902-4312",
+    "ssn": "070-29-4816",
+    "dob": "08/01/1963",
+    "address": "4061 Park Way",
+    "city": "Chicago",
+    "state": "NC"
+  }
+}

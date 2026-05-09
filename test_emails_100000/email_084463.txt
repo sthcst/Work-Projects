@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Wilson",
+    "email": "andrew.wilson4121@gmail.com",
+    "phone": "868 848 9287",
+    "ssn": "922 96 5448",
+    "dob": "07-12-1952",
+    "address": "4513 South Ave",
+    "city": "San Jose",
+    "state": "CA"
+  }
+}

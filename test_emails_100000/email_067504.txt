@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Clark
+  email: katherine.clark1976@outlook.com
+  phone: +1 434-604-4467
+  ssn: 529-62-2271
+  dob: 7/15/1983
+  address: 3210 West Ln
+  city: Philadelphia
+  state: FL

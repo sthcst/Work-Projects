@@ -1,0 +1,9 @@
+contact:
+  name: Emma Rodriguez
+  email: emma.rodriguez5667@company.com
+  phone: 491-660-3224
+  ssn: 201-91-8332
+  dob: 07/27/1965
+  address: 9152 Main Ave
+  city: Phoenix
+  state: CO

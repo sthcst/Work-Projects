@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Perez",
+    "email": "samantha.perez9078@yahoo.com",
+    "phone": "264-449-4036",
+    "ssn": "163908212",
+    "dob": "20/01/1953",
+    "address": "2073 East Ave",
+    "city": "Los Angeles",
+    "state": "MA"
+  }
+}

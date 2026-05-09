@@ -1,0 +1,14 @@
+INVOICE 148175
+
+Bill To:
+Name: George Hall
+Email: george.hall2951@gmail.com
+Phone: 574 228 1645
+SSN: 784923755
+
+Address: 316 Pine Ln
+Denver, CA
+
+Date of Birth: 5/1/1984
+
+Amount Due: $8494

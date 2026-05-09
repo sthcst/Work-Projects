@@ -1,0 +1,9 @@
+contact:
+  name: Megan Morgan
+  email: megan.morgan8663@gmail.com
+  phone: +1 261-763-3341
+  ssn: 388 63 1567
+  dob: 23/01/1999
+  address: 1655 Fifth Court
+  city: Philadelphia
+  state: TX

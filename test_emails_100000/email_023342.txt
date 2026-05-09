@@ -1,0 +1,14 @@
+INVOICE 150299
+
+Bill To:
+Name: Nicole Campbell
+Email: nicole.campbell4574@example.com
+Phone: +1 451-886-6497
+SSN: 001417695
+
+Address: 5614 East St
+Seattle, CA
+
+Date of Birth: 04-28-1977
+
+Amount Due: $1329

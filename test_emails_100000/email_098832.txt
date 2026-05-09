@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Cooper",
+    "email": "kimberly.cooper9002@yahoo.com",
+    "phone": "337 651 1558",
+    "ssn": "859 65 1555",
+    "dob": "04/01/1973",
+    "address": "5970 West Dr",
+    "city": "San Diego",
+    "state": "VA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Roberts",
+    "email": "pamela.roberts1770@example.com",
+    "phone": "+1 824-202-1392",
+    "ssn": "246628456",
+    "dob": "4/21/1953",
+    "address": "7302 Fifth Court",
+    "city": "Boston",
+    "state": "NC"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 203063
+
+Bill To:
+Name: David Morgan
+Email: david.morgan9133@company.com
+Phone: 683 928 6759
+SSN: 933-06-3297
+
+Address: 4303 West Blvd
+Phoenix, CA
+
+Date of Birth: 06-28-1989
+
+Amount Due: $7599

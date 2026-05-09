@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Reyes
+  email: brenda.reyes2246@gmail.com
+  phone: +1 997-757-1011
+  ssn: 418781702
+  dob: 8/4/1970
+  address: 7103 Birch Way
+  city: Los Angeles
+  state: OH

@@ -1,0 +1,14 @@
+INVOICE 363753
+
+Bill To:
+Name: Angela Parker
+Email: angela.parker6592@company.com
+Phone: +1 654-699-6536
+SSN: 295 28 3383
+
+Address: 8611 Cedar Ave
+San Diego, CA
+
+Date of Birth: 10/02/1950
+
+Amount Due: $1261

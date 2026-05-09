@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Miller,michelle.miller361@business.net,+1 220-723-2366,021345200,08/08/1977,"1546 Elm Ave",San Jose,NC

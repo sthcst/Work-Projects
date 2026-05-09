@@ -1,0 +1,14 @@
+INVOICE 665090
+
+Bill To:
+Name: John Brown
+Email: john.brown6182@mail.com
+Phone: +1 758-883-6502
+SSN: 859-98-3821
+
+Address: 525 Sixth St
+Dallas, FL
+
+Date of Birth: 28/09/1962
+
+Amount Due: $4159

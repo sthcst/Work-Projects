@@ -1,0 +1,9 @@
+contact:
+  name: Steven Guerrero
+  email: steven.guerrero2242@example.com
+  phone: (318) 368-2580
+  ssn: 952 50 1713
+  dob: 06-21-2001
+  address: 2122 Third Court
+  city: Denver
+  state: MD

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Martin",
+    "email": "steven.martin3246@mail.com",
+    "phone": "686-797-5936",
+    "ssn": "624415393",
+    "dob": "09/24/1971",
+    "address": "5940 Sixth Rd",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

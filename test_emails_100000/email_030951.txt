@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Romero",
+    "email": "gary.romero1609@mail.com",
+    "phone": "751-429-5665",
+    "ssn": "576-85-7269",
+    "dob": "03-01-1988",
+    "address": "18 Sixth Ln",
+    "city": "Seattle",
+    "state": "MO"
+  }
+}

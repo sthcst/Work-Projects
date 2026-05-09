@@ -1,0 +1,9 @@
+contact:
+  name: Mark Miller
+  email: mark.miller7724@business.net
+  phone: 604 579 2710
+  ssn: 350-83-7194
+  dob: 01/10/2004
+  address: 524 East Ln
+  city: San Diego
+  state: MD

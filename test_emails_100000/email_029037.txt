@@ -1,0 +1,9 @@
+contact:
+  name: Brian Anderson
+  email: brian.anderson7503@mail.com
+  phone: 569 558 7573
+  ssn: 417-92-5282
+  dob: 03/09/1995
+  address: 9991 West Dr
+  city: Chicago
+  state: MD

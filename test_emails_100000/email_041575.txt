@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Collins
+  email: jessica.collins784@outlook.com
+  phone: 830-950-8067
+  ssn: 857-26-9085
+  dob: 7/27/1976
+  address: 5115 North St
+  city: Chicago
+  state: WI

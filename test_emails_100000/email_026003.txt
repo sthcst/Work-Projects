@@ -1,0 +1,14 @@
+INVOICE 486927
+
+Bill To:
+Name: Cynthia Clark
+Email: cynthia.clark4806@work.org
+Phone: 526 522 4850
+SSN: 379 28 9402
+
+Address: 6097 Third St
+New York, CA
+
+Date of Birth: 28/05/1998
+
+Amount Due: $980

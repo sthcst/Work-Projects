@@ -1,0 +1,12 @@
+SUPPORT TICKET #67756
+
+Customer: Anthony Cooper
+Email: anthony.cooper7936@example.com
+Phone: 525-895-6605
+Account: 767154948
+
+Issue Description: Technical problem reported
+DOB on file: 10/23/1999
+Address: 2698 Elm Blvd, Dallas, IL
+
+Status: OPEN

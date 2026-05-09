@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Moore
+  email: lisa.moore6802@example.com
+  phone: 421-278-2935
+  ssn: 758 05 2591
+  dob: 05-22-1975
+  address: 7210 Maple St
+  city: Denver
+  state: WA

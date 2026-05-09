@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Sanchez,kimberly.sanchez8597@outlook.com,780-567-7884,237-65-3849,2/12/1967,"747 South Rd",Boston,TX

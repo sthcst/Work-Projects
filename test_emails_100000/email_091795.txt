@@ -1,0 +1,14 @@
+INVOICE 922530
+
+Bill To:
+Name: Katherine Collins
+Email: katherine.collins1564@company.com
+Phone: 487 622 8584
+SSN: 713 57 9724
+
+Address: 3108 Summer Way
+Denver, MI
+
+Date of Birth: 04-12-1965
+
+Amount Due: $2490

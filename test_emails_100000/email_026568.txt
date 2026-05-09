@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles White",
+    "email": "charles.white2500@yahoo.com",
+    "phone": "(857) 838-2540",
+    "ssn": "964798644",
+    "dob": "05-10-1961",
+    "address": "1783 Fourth Way",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

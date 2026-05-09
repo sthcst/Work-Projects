@@ -1,0 +1,14 @@
+INVOICE 875621
+
+Bill To:
+Name: Sarah Rodriguez
+Email: sarah.rodriguez4348@business.net
+Phone: 943-358-2198
+SSN: 436 55 4709
+
+Address: 3064 Third Ln
+Los Angeles, TX
+
+Date of Birth: 12/03/1996
+
+Amount Due: $5130

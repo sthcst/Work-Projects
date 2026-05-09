@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Serrano",
+    "email": "anthony.serrano8361@gmail.com",
+    "phone": "567 863 2509",
+    "ssn": "028889286",
+    "dob": "01-02-1950",
+    "address": "9108 Birch Ln",
+    "city": "Denver",
+    "state": "NC"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Gomez,david.gomez1503@yahoo.com,+1 688-993-2911,666-22-5880,05-03-1967,"9032 Park Ave",San Antonio,IL

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Hernandez,shirley.hernandez4490@gmail.com,665 288 8513,328 77 8271,01/09/1998,"5156 Third Rd",Philadelphia,WA

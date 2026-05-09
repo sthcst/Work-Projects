@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Campbell,katherine.campbell1070@outlook.com,366-510-1715,347-52-6378,07-19-1990,"1941 Fifth Court",Chicago,GA

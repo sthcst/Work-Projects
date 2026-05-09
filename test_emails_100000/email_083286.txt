@@ -1,0 +1,14 @@
+INVOICE 841069
+
+Bill To:
+Name: Stephanie Lee
+Email: stephanie.lee2826@company.com
+Phone: 609-238-5687
+SSN: 048 74 3874
+
+Address: 2834 Fifth Ln
+Austin, FL
+
+Date of Birth: 03-10-1985
+
+Amount Due: $641

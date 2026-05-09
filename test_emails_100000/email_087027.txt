@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Perez",
+    "email": "edward.perez562@work.org",
+    "phone": "242-979-6176",
+    "ssn": "011 08 4899",
+    "dob": "11/10/1987",
+    "address": "988 East Ln",
+    "city": "Phoenix",
+    "state": "WA"
+  }
+}

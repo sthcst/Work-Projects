@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Anderson,nicole.anderson5013@yahoo.com,671 590 1378,963 67 9263,11/18/1981,"5172 Park Way",Austin,FL

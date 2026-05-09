@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Lopez,joshua.lopez8394@work.org,(519) 786-2552,287-35-6233,9/6/2003,"3728 Second Blvd",Houston,MA

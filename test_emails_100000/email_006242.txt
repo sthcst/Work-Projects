@@ -1,0 +1,14 @@
+INVOICE 831486
+
+Bill To:
+Name: Michelle Gonzalez
+Email: michelle.gonzalez4042@work.org
+Phone: 492 542 4462
+SSN: 687-59-1539
+
+Address: 2570 Cedar Court
+Austin, FL
+
+Date of Birth: 28/11/1963
+
+Amount Due: $404

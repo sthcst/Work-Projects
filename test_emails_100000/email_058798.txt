@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Carter
+  email: samantha.carter3574@mail.com
+  phone: 518 250 9378
+  ssn: 137-02-6481
+  dob: 9/19/1970
+  address: 1193 Second Ave
+  city: Phoenix
+  state: AZ

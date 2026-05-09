@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Alvarado",
+    "email": "paul.alvarado7547@yahoo.com",
+    "phone": "+1 395-313-7245",
+    "ssn": "560 16 3009",
+    "dob": "04/11/1985",
+    "address": "5008 Third Dr",
+    "city": "Jacksonville",
+    "state": "VA"
+  }
+}

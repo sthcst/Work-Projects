@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Thompson",
+    "email": "ashley.thompson21@outlook.com",
+    "phone": "698-749-3174",
+    "ssn": "104-86-2881",
+    "dob": "05-21-1954",
+    "address": "5102 Birch St",
+    "city": "Phoenix",
+    "state": "MI"
+  }
+}

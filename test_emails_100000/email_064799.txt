@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Flores,mark.flores7618@example.com,(846) 746-1303,650967753,06/16/1975,"212 Elm Dr",Austin,MA

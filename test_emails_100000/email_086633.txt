@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Anderson,sarah.anderson2216@outlook.com,628 822 3830,062297418,11/6/1984,"1860 Birch St",Washington,MD

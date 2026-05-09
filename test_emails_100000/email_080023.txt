@@ -1,0 +1,9 @@
+contact:
+  name: Donald Alvarado
+  email: donald.alvarado6770@business.net
+  phone: (410) 791-1565
+  ssn: 179 69 3626
+  dob: 5/16/1975
+  address: 912 Spring Court
+  city: Washington
+  state: PA

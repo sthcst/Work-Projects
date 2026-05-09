@@ -1,0 +1,9 @@
+contact:
+  name: Michael Reyes
+  email: michael.reyes2103@outlook.com
+  phone: +1 763-617-7090
+  ssn: 670 49 3263
+  dob: 01/26/1983
+  address: 4138 Main Ave
+  city: Los Angeles
+  state: FL

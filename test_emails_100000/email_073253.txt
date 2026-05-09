@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Roberts,ronald.roberts7152@mail.com,487-288-2710,300-68-3544,10-18-1985,"6359 Second St",Chicago,MO

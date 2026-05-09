@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Carter
+  email: nicole.carter362@company.com
+  phone: 760 230 8981
+  ssn: 857316204
+  dob: 02/01/2000
+  address: 3593 West Blvd
+  city: New York
+  state: WA

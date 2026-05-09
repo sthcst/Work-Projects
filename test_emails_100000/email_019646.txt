@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Morgan",
+    "email": "emma.morgan8233@example.com",
+    "phone": "+1 561-616-8603",
+    "ssn": "933786939",
+    "dob": "04-26-1957",
+    "address": "7592 Summer Court",
+    "city": "Houston",
+    "state": "VA"
+  }
+}

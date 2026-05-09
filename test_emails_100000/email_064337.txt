@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Romero",
+    "email": "samantha.romero3179@work.org",
+    "phone": "841 329 2789",
+    "ssn": "816-42-7858",
+    "dob": "01/10/2005",
+    "address": "2108 Sixth Blvd",
+    "city": "Phoenix",
+    "state": "WI"
+  }
+}

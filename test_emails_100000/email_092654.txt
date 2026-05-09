@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Anderson",
+    "email": "kevin.anderson7358@company.com",
+    "phone": "+1 275-369-5703",
+    "ssn": "041142054",
+    "dob": "01-12-1972",
+    "address": "728 Third St",
+    "city": "Denver",
+    "state": "NY"
+  }
+}

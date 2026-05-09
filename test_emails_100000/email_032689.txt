@@ -1,0 +1,14 @@
+INVOICE 754741
+
+Bill To:
+Name: Timothy Williams
+Email: timothy.williams1210@example.com
+Phone: +1 560-675-2166
+SSN: 594-79-4519
+
+Address: 9504 Oak Ln
+Denver, MO
+
+Date of Birth: 5/24/1996
+
+Amount Due: $6796

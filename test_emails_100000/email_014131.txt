@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Jimenez
+  email: michelle.jimenez6766@mail.com
+  phone: 315-371-6597
+  ssn: 527 89 6160
+  dob: 8/23/1958
+  address: 6842 North Blvd
+  city: Denver
+  state: IL

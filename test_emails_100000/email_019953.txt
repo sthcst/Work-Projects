@@ -1,0 +1,14 @@
+INVOICE 702789
+
+Bill To:
+Name: Jane Clark
+Email: jane.clark966@business.net
+Phone: 735-928-1997
+SSN: 670058731
+
+Address: 1692 Spring Blvd
+Austin, MO
+
+Date of Birth: 05-01-1993
+
+Amount Due: $2210

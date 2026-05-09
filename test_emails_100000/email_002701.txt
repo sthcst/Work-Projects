@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Anderson",
+    "email": "rebecca.anderson5176@company.com",
+    "phone": "808-611-3331",
+    "ssn": "667958612",
+    "dob": "07/25/1957",
+    "address": "8504 Fifth Ave",
+    "city": "Philadelphia",
+    "state": "GA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Ortiz",
+    "email": "andrew.ortiz6204@business.net",
+    "phone": "839-798-8447",
+    "ssn": "256-67-7714",
+    "dob": "03/23/1981",
+    "address": "2876 South Dr",
+    "city": "San Jose",
+    "state": "MA"
+  }
+}

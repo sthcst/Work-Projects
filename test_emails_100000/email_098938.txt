@@ -1,0 +1,14 @@
+INVOICE 543250
+
+Bill To:
+Name: Kenneth Phillips
+Email: kenneth.phillips5571@outlook.com
+Phone: +1 849-581-2264
+SSN: 799411273
+
+Address: 3755 Third Ave
+Washington, TX
+
+Date of Birth: 05-06-1994
+
+Amount Due: $3369

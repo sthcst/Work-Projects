@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Flores
+  email: kenneth.flores6097@company.com
+  phone: 671 591 7910
+  ssn: 092 85 9420
+  dob: 22/11/1972
+  address: 250 East Dr
+  city: Jacksonville
+  state: MD

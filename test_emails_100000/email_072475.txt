@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Reed",
+    "email": "brian.reed5187@company.com",
+    "phone": "453 671 2527",
+    "ssn": "875477247",
+    "dob": "26/06/2002",
+    "address": "6645 West Ln",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

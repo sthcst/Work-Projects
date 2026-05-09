@@ -1,0 +1,9 @@
+contact:
+  name: Donald Serrano
+  email: donald.serrano3915@yahoo.com
+  phone: (360) 357-3321
+  ssn: 698-68-4047
+  dob: 07-04-1998
+  address: 7071 Oak Ln
+  city: Boston
+  state: CA

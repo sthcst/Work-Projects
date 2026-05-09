@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Rogers
+  email: christopher.rogers8883@mail.com
+  phone: 339-478-6929
+  ssn: 968-60-2107
+  dob: 7/15/1962
+  address: 6349 Pine Way
+  city: Phoenix
+  state: TX

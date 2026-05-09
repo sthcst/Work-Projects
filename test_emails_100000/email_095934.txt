@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Cooper",
+    "email": "maria.cooper9477@example.com",
+    "phone": "(851) 888-9810",
+    "ssn": "953 76 9518",
+    "dob": "23/10/1952",
+    "address": "6374 Birch St",
+    "city": "Austin",
+    "state": "GA"
+  }
+}

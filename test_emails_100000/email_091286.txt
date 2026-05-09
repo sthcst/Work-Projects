@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Stewart,stephanie.stewart9654@work.org,(927) 314-7708,052 26 5903,11/10/1955,"4810 Park St",Los Angeles,DC

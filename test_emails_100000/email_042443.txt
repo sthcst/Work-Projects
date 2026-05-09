@@ -1,0 +1,9 @@
+contact:
+  name: Jane Robinson
+  email: jane.robinson1771@outlook.com
+  phone: 666-254-3829
+  ssn: 337 29 8458
+  dob: 10-06-1989
+  address: 7536 Summer Court
+  city: San Jose
+  state: TX

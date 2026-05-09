@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Davis",
+    "email": "christine.davis1683@outlook.com",
+    "phone": "+1 509-265-6848",
+    "ssn": "580-15-6980",
+    "dob": "07-03-1994",
+    "address": "4498 Oak Court",
+    "city": "Jacksonville",
+    "state": "NJ"
+  }
+}

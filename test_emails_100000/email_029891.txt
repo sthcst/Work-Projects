@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Miller,kathleen.miller5160@yahoo.com,+1 213-394-4863,758-22-6478,12/07/1956,"8662 First Ln",Chicago,TX

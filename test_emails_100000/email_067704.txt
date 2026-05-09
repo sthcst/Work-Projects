@@ -1,0 +1,14 @@
+INVOICE 135649
+
+Bill To:
+Name: Nicole Rogers
+Email: nicole.rogers8176@example.com
+Phone: +1 262-841-8422
+SSN: 888656420
+
+Address: 9644 Birch Dr
+Dallas, NC
+
+Date of Birth: 09-09-2000
+
+Amount Due: $990

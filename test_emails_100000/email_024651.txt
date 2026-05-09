@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Sanchez
+  email: kimberly.sanchez2279@company.com
+  phone: 571 959 6176
+  ssn: 223 29 5042
+  dob: 12/28/1981
+  address: 6760 West Way
+  city: San Antonio
+  state: WA

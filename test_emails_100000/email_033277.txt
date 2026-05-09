@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Walker",
+    "email": "katherine.walker2953@business.net",
+    "phone": "+1 890-976-2642",
+    "ssn": "083884188",
+    "dob": "10/8/1989",
+    "address": "2616 Second Ave",
+    "city": "Phoenix",
+    "state": "NC"
+  }
+}

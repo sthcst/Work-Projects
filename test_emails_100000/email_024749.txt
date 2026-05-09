@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Wilson",
+    "email": "angela.wilson4761@mail.com",
+    "phone": "363 481 9887",
+    "ssn": "152547630",
+    "dob": "10/7/1970",
+    "address": "8164 North Court",
+    "city": "Philadelphia",
+    "state": "TN"
+  }
+}

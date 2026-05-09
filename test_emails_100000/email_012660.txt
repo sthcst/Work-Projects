@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Miller
+  email: rachel.miller7354@mail.com
+  phone: +1 835-705-6429
+  ssn: 934-35-1111
+  dob: 2/11/2002
+  address: 3407 Park Blvd
+  city: Chicago
+  state: MI

@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Phillips
+  email: jennifer.phillips70@gmail.com
+  phone: (481) 636-2574
+  ssn: 132 66 3991
+  dob: 01/06/1993
+  address: 7683 North Ln
+  city: Los Angeles
+  state: NY

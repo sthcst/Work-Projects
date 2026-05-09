@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Perez,christine.perez5527@mail.com,589-664-8191,292 90 8581,1/2/1962,"9358 Third St",San Diego,TX

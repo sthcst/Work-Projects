@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Lewis,mark.lewis9880@example.com,906-318-7728,365-20-7190,04/07/2004,"16 Cedar Court",Dallas,NC

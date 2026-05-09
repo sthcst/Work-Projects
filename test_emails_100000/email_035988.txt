@@ -1,0 +1,9 @@
+contact:
+  name: Brian Bell
+  email: brian.bell8559@gmail.com
+  phone: 641 618 8950
+  ssn: 307 96 1590
+  dob: 09-22-1967
+  address: 4807 Second St
+  city: Chicago
+  state: NJ

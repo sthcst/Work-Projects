@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Peterson
+  email: ashley.peterson6343@mail.com
+  phone: 514 547 7638
+  ssn: 279-60-2546
+  dob: 18/07/1951
+  address: 8490 Cedar Blvd
+  city: Jacksonville
+  state: OH

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Perez",
+    "email": "helen.perez2826@example.com",
+    "phone": "233 309 2551",
+    "ssn": "302 92 6634",
+    "dob": "07-27-1981",
+    "address": "8459 Birch Ln",
+    "city": "Jacksonville",
+    "state": "OH"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Hall,ashley.hall389@yahoo.com,+1 246-337-9483,269 55 2026,18/11/1980,"3148 Cedar Ave",San Jose,NC

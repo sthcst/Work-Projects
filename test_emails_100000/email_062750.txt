@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Davis,michelle.davis9839@company.com,986-390-4809,048 67 9758,12-01-1966,"1681 Oak Way",Denver,MA

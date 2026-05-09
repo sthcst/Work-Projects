@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Thomas",
+    "email": "john.thomas2689@work.org",
+    "phone": "(471) 826-2820",
+    "ssn": "779354659",
+    "dob": "03/03/1995",
+    "address": "9319 Main Rd",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

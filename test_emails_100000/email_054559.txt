@@ -1,0 +1,14 @@
+INVOICE 339693
+
+Bill To:
+Name: Gary Lee
+Email: gary.lee931@company.com
+Phone: 839-581-7655
+SSN: 693-28-7155
+
+Address: 9313 Maple Rd
+Houston, CA
+
+Date of Birth: 05/24/1973
+
+Amount Due: $1375

@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Walker
+  email: daniel.walker3585@company.com
+  phone: (319) 431-3497
+  ssn: 968353449
+  dob: 03/13/1952
+  address: 7731 Sixth St
+  city: New York
+  state: TX

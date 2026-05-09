@@ -1,0 +1,9 @@
+contact:
+  name: Angela Alvarado
+  email: angela.alvarado7002@yahoo.com
+  phone: (228) 722-2925
+  ssn: 783 07 3215
+  dob: 04/03/1995
+  address: 5237 Third Court
+  city: Seattle
+  state: AZ

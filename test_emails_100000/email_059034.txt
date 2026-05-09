@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Guerrero",
+    "email": "christine.guerrero4654@mail.com",
+    "phone": "(756) 537-8317",
+    "ssn": "566-60-5271",
+    "dob": "02-04-1958",
+    "address": "542 Fourth Blvd",
+    "city": "Chicago",
+    "state": "DC"
+  }
+}

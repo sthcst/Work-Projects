@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Moore,ronald.moore6174@business.net,(768) 726-1719,149427328,03/25/1997,"2536 Sixth Ln",Denver,NJ

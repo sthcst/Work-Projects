@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Romero
+  email: jeffrey.romero6541@example.com
+  phone: 366-200-5662
+  ssn: 048-19-6902
+  dob: 12-18-1990
+  address: 3662 Summer Ave
+  city: Seattle
+  state: PA

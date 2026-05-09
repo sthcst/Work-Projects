@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Garcia,kimberly.garcia2787@business.net,850-985-5882,811526921,01/04/2003,"9258 Elm Ln",Austin,TX

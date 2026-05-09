@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Jimenez,helen.jimenez2736@yahoo.com,+1 937-363-8963,554-24-9587,09/07/1950,"9384 Oak Way",San Diego,NJ

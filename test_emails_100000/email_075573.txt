@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Bell,shirley.bell7876@yahoo.com,+1 334-519-1518,196 22 5077,12/10/1986,"1551 Spring Way",Austin,DC

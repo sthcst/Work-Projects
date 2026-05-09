@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Moore,james.moore9836@example.com,+1 836-393-2927,552-13-1348,04/03/1951,"2883 Elm St",San Antonio,GA

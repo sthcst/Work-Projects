@@ -1,0 +1,14 @@
+INVOICE 498845
+
+Bill To:
+Name: James Phillips
+Email: james.phillips9333@company.com
+Phone: (916) 926-9330
+SSN: 002-73-7901
+
+Address: 9804 Third Dr
+Los Angeles, AZ
+
+Date of Birth: 05/06/1997
+
+Amount Due: $9779

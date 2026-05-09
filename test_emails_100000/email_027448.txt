@@ -1,0 +1,14 @@
+INVOICE 770408
+
+Bill To:
+Name: David Rodriguez
+Email: david.rodriguez9564@business.net
+Phone: 650 478 3671
+SSN: 005798354
+
+Address: 5248 Fifth Way
+Los Angeles, VA
+
+Date of Birth: 07-18-2004
+
+Amount Due: $3146

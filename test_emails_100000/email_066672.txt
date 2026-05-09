@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Guerrero",
+    "email": "kevin.guerrero6646@company.com",
+    "phone": "(559) 992-6482",
+    "ssn": "700-63-3166",
+    "dob": "08/26/1969",
+    "address": "4160 Oak Way",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

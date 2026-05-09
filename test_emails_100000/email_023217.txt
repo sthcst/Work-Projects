@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Sanchez,shirley.sanchez9108@business.net,222 202 9230,586-40-7169,12/04/1960,"5022 Birch Way",Austin,TX

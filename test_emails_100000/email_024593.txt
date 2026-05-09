@@ -1,0 +1,9 @@
+contact:
+  name: Katherine White
+  email: katherine.white4299@yahoo.com
+  phone: 417-457-9215
+  ssn: 128-25-1562
+  dob: 02/10/1975
+  address: 3773 Elm St
+  city: Jacksonville
+  state: VA

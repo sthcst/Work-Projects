@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Roberts",
+    "email": "jessica.roberts7108@work.org",
+    "phone": "798 965 1456",
+    "ssn": "531-82-7751",
+    "dob": "10/10/1989",
+    "address": "6790 Elm Dr",
+    "city": "Dallas",
+    "state": "MI"
+  }
+}

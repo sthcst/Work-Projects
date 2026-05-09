@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Ramirez,kevin.ramirez8127@business.net,(208) 830-3035,464616058,12/05/1968,"5199 Park Dr",Dallas,AZ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Taylor",
+    "email": "amanda.taylor6343@business.net",
+    "phone": "222-584-3912",
+    "ssn": "810-52-4344",
+    "dob": "08/23/1951",
+    "address": "2477 Birch St",
+    "city": "New York",
+    "state": "DC"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Roberts",
+    "email": "kenneth.roberts6722@yahoo.com",
+    "phone": "697-722-1130",
+    "ssn": "691521553",
+    "dob": "20/08/1962",
+    "address": "1345 First Dr",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

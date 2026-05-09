@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Alvarado,angela.alvarado345@outlook.com,205 298 8178,281 75 9580,02-06-1989,"5725 Birch Blvd",Boston,CA

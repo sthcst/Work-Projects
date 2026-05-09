@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Morgan
+  email: sarah.morgan3111@mail.com
+  phone: 430 677 2304
+  ssn: 127 44 5462
+  dob: 09/11/1975
+  address: 6990 Summer Way
+  city: Denver
+  state: CA

@@ -1,0 +1,12 @@
+SUPPORT TICKET #99566
+
+Customer: John Hernandez
+Email: john.hernandez5998@example.com
+Phone: 507 891 9652
+Account: 438712708
+
+Issue Description: Technical problem reported
+DOB on file: 22/12/1992
+Address: 4837 Elm Ln, Chicago, MA
+
+Status: OPEN

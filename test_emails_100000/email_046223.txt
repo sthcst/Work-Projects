@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Ramirez",
+    "email": "kenneth.ramirez8896@company.com",
+    "phone": "934-323-2464",
+    "ssn": "285 83 3294",
+    "dob": "11/07/1953",
+    "address": "2054 Sixth Court",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

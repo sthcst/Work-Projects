@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Campbell",
+    "email": "angela.campbell4757@yahoo.com",
+    "phone": "(478) 906-1815",
+    "ssn": "963-55-6429",
+    "dob": "11/10/1954",
+    "address": "8581 Cedar Ln",
+    "city": "Austin",
+    "state": "NC"
+  }
+}

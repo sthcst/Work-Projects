@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Cooper",
+    "email": "donald.cooper9688@business.net",
+    "phone": "(619) 403-9596",
+    "ssn": "818 07 6915",
+    "dob": "04/04/1969",
+    "address": "3385 Maple Ave",
+    "city": "Philadelphia",
+    "state": "NY"
+  }
+}

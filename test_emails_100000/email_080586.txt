@@ -1,0 +1,14 @@
+INVOICE 305945
+
+Bill To:
+Name: Rebecca Carter
+Email: rebecca.carter9439@example.com
+Phone: (345) 486-6391
+SSN: 582 60 2823
+
+Address: 2638 Maple Dr
+Washington, TX
+
+Date of Birth: 5/23/1987
+
+Amount Due: $9040

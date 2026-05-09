@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Harris
+  email: rachel.harris1648@yahoo.com
+  phone: (998) 692-6654
+  ssn: 787-67-1006
+  dob: 11/09/1966
+  address: 8074 Oak Ave
+  city: San Antonio
+  state: NC

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Jones,michael.jones6468@mail.com,+1 902-207-7395,807 97 2118,19/10/2004,"5641 South Blvd",Seattle,AZ

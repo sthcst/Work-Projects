@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Perez",
+    "email": "andrew.perez9282@example.com",
+    "phone": "+1 457-617-7239",
+    "ssn": "408-20-2277",
+    "dob": "09/01/1979",
+    "address": "2104 Cedar St",
+    "city": "Houston",
+    "state": "IL"
+  }
+}

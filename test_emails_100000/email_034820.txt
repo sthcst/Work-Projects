@@ -1,0 +1,14 @@
+INVOICE 163733
+
+Bill To:
+Name: Ryan White
+Email: ryan.white9975@example.com
+Phone: +1 310-754-6628
+SSN: 411 65 5570
+
+Address: 1143 Cedar Ave
+Seattle, CA
+
+Date of Birth: 05/25/1995
+
+Amount Due: $7382

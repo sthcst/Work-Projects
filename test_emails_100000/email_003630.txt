@@ -1,0 +1,9 @@
+contact:
+  name: Mark Gomez
+  email: mark.gomez4501@company.com
+  phone: +1 937-389-2742
+  ssn: 654 78 9068
+  dob: 5/2/1962
+  address: 2407 First Rd
+  city: Seattle
+  state: VA

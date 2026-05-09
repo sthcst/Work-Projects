@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Lopez",
+    "email": "jane.lopez2802@outlook.com",
+    "phone": "(796) 499-4047",
+    "ssn": "655783824",
+    "dob": "05-23-2003",
+    "address": "8200 Birch Way",
+    "city": "Seattle",
+    "state": "DC"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Williams,lisa.williams3224@company.com,(333) 300-1192,755924947,19/09/1998,"9514 North Way",Boston,IL

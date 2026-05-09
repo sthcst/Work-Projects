@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Wilson
+  email: deborah.wilson1650@mail.com
+  phone: (475) 333-4516
+  ssn: 358 44 9995
+  dob: 04-21-1990
+  address: 2582 Second Dr
+  city: Chicago
+  state: TX

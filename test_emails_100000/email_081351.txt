@@ -1,0 +1,9 @@
+contact:
+  name: Robert Miller
+  email: robert.miller9279@mail.com
+  phone: 263-663-8994
+  ssn: 335 76 6099
+  dob: 06-14-1979
+  address: 4375 Main Way
+  city: Boston
+  state: NY

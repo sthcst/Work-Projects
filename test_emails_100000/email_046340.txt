@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Lee",
+    "email": "nicholas.lee7948@business.net",
+    "phone": "+1 361-501-2892",
+    "ssn": "003276342",
+    "dob": "09/13/1984",
+    "address": "755 Oak Blvd",
+    "city": "Philadelphia",
+    "state": "NJ"
+  }
+}

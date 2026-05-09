@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Walker",
+    "email": "kimberly.walker4514@company.com",
+    "phone": "427 728 5060",
+    "ssn": "238 52 5026",
+    "dob": "05/08/1975",
+    "address": "5890 Birch Court",
+    "city": "Boston",
+    "state": "WA"
+  }
+}

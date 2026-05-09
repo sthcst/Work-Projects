@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Davis",
+    "email": "edward.davis6065@company.com",
+    "phone": "814 364 6548",
+    "ssn": "346-89-8966",
+    "dob": "9/1/1951",
+    "address": "4694 Park Blvd",
+    "city": "New York",
+    "state": "AZ"
+  }
+}

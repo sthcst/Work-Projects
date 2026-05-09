@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Reed",
+    "email": "katherine.reed8639@work.org",
+    "phone": "(415) 718-8038",
+    "ssn": "563 42 9719",
+    "dob": "5/9/2003",
+    "address": "8695 East Ave",
+    "city": "Dallas",
+    "state": "MA"
+  }
+}

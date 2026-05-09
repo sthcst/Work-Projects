@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Nunez
+  email: deborah.nunez355@mail.com
+  phone: +1 807-754-7652
+  ssn: 274-91-3854
+  dob: 12/04/1973
+  address: 8830 Sixth Court
+  city: San Antonio
+  state: CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Delgado,rebecca.delgado5624@example.com,(342) 394-4616,361 40 1543,01/08/1973,"1455 Second Rd",San Jose,MI

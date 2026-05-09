@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Alvarado",
+    "email": "david.alvarado1151@yahoo.com",
+    "phone": "(963) 405-8150",
+    "ssn": "251778368",
+    "dob": "01-04-1993",
+    "address": "3104 Pine Blvd",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

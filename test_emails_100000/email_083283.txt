@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Harris
+  email: lauren.harris8148@yahoo.com
+  phone: (856) 801-9493
+  ssn: 445158261
+  dob: 03/12/2001
+  address: 6964 Spring Court
+  city: New York
+  state: PA

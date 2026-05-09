@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Edwards",
+    "email": "brian.edwards2021@example.com",
+    "phone": "459-561-6749",
+    "ssn": "754 06 3182",
+    "dob": "12-14-1962",
+    "address": "7087 First Blvd",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

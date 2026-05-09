@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Peterson,emma.peterson1269@work.org,379 884 6245,134 81 6934,1/24/1974,"2727 Park Dr",Phoenix,TX

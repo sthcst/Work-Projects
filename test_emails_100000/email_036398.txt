@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Dominguez,charles.dominguez7889@example.com,520 602 8813,062-31-4728,2/26/2004,"9368 East Ave",Boston,TX

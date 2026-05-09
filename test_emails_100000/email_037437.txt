@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Gomez",
+    "email": "megan.gomez6376@outlook.com",
+    "phone": "+1 830-766-9981",
+    "ssn": "298 23 9614",
+    "dob": "8/23/1990",
+    "address": "6684 Fifth Ln",
+    "city": "Seattle",
+    "state": "IL"
+  }
+}

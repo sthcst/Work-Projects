@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Serrano,jane.serrano6593@business.net,500 921 5477,512 20 1991,27/08/1974,"6785 East Dr",Chicago,WA

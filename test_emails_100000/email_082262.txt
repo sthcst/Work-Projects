@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Taylor,rachel.taylor7532@example.com,+1 620-352-6703,925-32-3492,09/15/1973,"1526 First Blvd",Austin,NY

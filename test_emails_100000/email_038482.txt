@@ -1,0 +1,9 @@
+contact:
+  name: Paul Smith
+  email: paul.smith4905@work.org
+  phone: +1 999-490-5113
+  ssn: 908966690
+  dob: 07-11-1952
+  address: 3270 East Blvd
+  city: San Jose
+  state: GA

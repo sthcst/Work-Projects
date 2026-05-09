@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Miller",
+    "email": "amanda.miller1593@mail.com",
+    "phone": "(202) 589-3861",
+    "ssn": "200 82 4158",
+    "dob": "09-03-1992",
+    "address": "1963 Fourth St",
+    "city": "Jacksonville",
+    "state": "WI"
+  }
+}

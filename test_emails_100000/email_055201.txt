@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Davis",
+    "email": "jane.davis9718@mail.com",
+    "phone": "465 370 9548",
+    "ssn": "854-33-8028",
+    "dob": "21/07/1977",
+    "address": "2948 Cedar St",
+    "city": "New York",
+    "state": "GA"
+  }
+}

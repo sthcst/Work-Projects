@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Alvarado,gary.alvarado4391@example.com,+1 932-776-6979,993-77-1230,10/12/1968,"8552 First St",Boston,PA

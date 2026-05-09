@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Reeves",
+    "email": "katherine.reeves5757@business.net",
+    "phone": "(868) 625-6234",
+    "ssn": "732 13 9111",
+    "dob": "02/09/1969",
+    "address": "2705 Birch Court",
+    "city": "Austin",
+    "state": "DC"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Nelson
+  email: jeffrey.nelson7561@work.org
+  phone: 552 682 6585
+  ssn: 257973230
+  dob: 28/03/1953
+  address: 2567 Elm Dr
+  city: San Diego
+  state: CO

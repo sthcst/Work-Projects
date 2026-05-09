@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Morris,michelle.morris2985@gmail.com,+1 330-970-9227,711-80-1989,07/12/1977,"1574 Third Way",San Antonio,PA

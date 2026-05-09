@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Harris",
+    "email": "angela.harris2982@company.com",
+    "phone": "567 398 9489",
+    "ssn": "071 59 5909",
+    "dob": "12/1/1984",
+    "address": "5255 Pine Ave",
+    "city": "New York",
+    "state": "MA"
+  }
+}

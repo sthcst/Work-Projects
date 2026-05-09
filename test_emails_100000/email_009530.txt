@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Lewis",
+    "email": "shirley.lewis2603@outlook.com",
+    "phone": "(405) 253-9020",
+    "ssn": "127-90-9191",
+    "dob": "05/06/2003",
+    "address": "2643 Third Ln",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

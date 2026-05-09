@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Taylor,gary.taylor6545@mail.com,(474) 645-1291,050-12-7164,10/04/1953,"7107 Summer Ave",Austin,AZ

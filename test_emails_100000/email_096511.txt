@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Phillips",
+    "email": "katherine.phillips2138@company.com",
+    "phone": "781 928 2963",
+    "ssn": "221889370",
+    "dob": "4/5/1975",
+    "address": "6084 Maple Court",
+    "city": "Boston",
+    "state": "MI"
+  }
+}

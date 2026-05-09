@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Ramirez,jason.ramirez325@example.com,+1 937-556-1561,276-27-8211,07/05/1999,"1232 East Blvd",Seattle,NC

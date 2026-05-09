@@ -1,0 +1,14 @@
+INVOICE 124501
+
+Bill To:
+Name: Paul Jackson
+Email: paul.jackson6097@gmail.com
+Phone: 521-283-5471
+SSN: 795-55-2272
+
+Address: 6204 Summer Way
+Los Angeles, GA
+
+Date of Birth: 06/07/1958
+
+Amount Due: $9542

@@ -1,0 +1,14 @@
+INVOICE 702248
+
+Bill To:
+Name: Christine Delgado
+Email: christine.delgado4102@mail.com
+Phone: +1 413-253-4335
+SSN: 934-65-1929
+
+Address: 3531 South Dr
+Chicago, IL
+
+Date of Birth: 05/01/1980
+
+Amount Due: $6039

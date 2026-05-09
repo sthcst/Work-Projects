@@ -1,0 +1,9 @@
+contact:
+  name: Emma Bell
+  email: emma.bell3089@gmail.com
+  phone: (679) 447-7916
+  ssn: 062-02-5919
+  dob: 23/04/1977
+  address: 7476 Second Court
+  city: Dallas
+  state: MD

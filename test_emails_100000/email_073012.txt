@@ -1,0 +1,14 @@
+INVOICE 988778
+
+Bill To:
+Name: James Flores
+Email: james.flores922@company.com
+Phone: 488-370-8511
+SSN: 548242983
+
+Address: 8962 Birch Way
+Denver, TX
+
+Date of Birth: 01-20-2000
+
+Amount Due: $6402

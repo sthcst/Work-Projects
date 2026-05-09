@@ -1,0 +1,14 @@
+INVOICE 118687
+
+Bill To:
+Name: Helen Lee
+Email: helen.lee5134@yahoo.com
+Phone: +1 994-558-9843
+SSN: 773 15 5014
+
+Address: 3518 Fourth Rd
+Boston, MD
+
+Date of Birth: 23/02/1993
+
+Amount Due: $7308

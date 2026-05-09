@@ -1,0 +1,9 @@
+contact:
+  name: Mark Gonzalez
+  email: mark.gonzalez4777@work.org
+  phone: 718 346 2951
+  ssn: 350 65 2774
+  dob: 23/06/1965
+  address: 5046 Elm Court
+  city: Washington
+  state: WA

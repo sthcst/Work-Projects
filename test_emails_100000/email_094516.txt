@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Robinson,maria.robinson3959@company.com,+1 624-652-9735,629037595,08-04-1975,"4315 East Court",Austin,CA

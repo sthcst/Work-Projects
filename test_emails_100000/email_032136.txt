@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Murillo",
+    "email": "james.murillo7392@business.net",
+    "phone": "875 258 9236",
+    "ssn": "468-46-8035",
+    "dob": "6/5/1980",
+    "address": "2830 West Ave",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

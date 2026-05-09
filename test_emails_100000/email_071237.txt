@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Young
+  email: kimberly.young3067@work.org
+  phone: 422 220 7165
+  ssn: 866-16-9957
+  dob: 11/27/1985
+  address: 7524 Maple Court
+  city: Chicago
+  state: MO

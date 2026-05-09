@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Walker",
+    "email": "angela.walker1773@outlook.com",
+    "phone": "+1 683-902-2800",
+    "ssn": "496-56-9774",
+    "dob": "11/8/1995",
+    "address": "4698 Pine Ln",
+    "city": "San Antonio",
+    "state": "NY"
+  }
+}

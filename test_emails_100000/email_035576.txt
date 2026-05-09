@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Collins
+  email: michelle.collins5345@example.com
+  phone: 881 769 2232
+  ssn: 447-95-1041
+  dob: 05/09/1956
+  address: 6252 Spring Rd
+  city: Boston
+  state: MO

@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Hernandez
+  email: kevin.hernandez4661@example.com
+  phone: 320 314 7695
+  ssn: 171-67-1015
+  dob: 25/06/1957
+  address: 7747 Maple Way
+  city: Dallas
+  state: TX

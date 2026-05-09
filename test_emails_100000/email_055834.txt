@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Johnson
+  email: lisa.johnson2173@company.com
+  phone: (304) 989-1229
+  ssn: 585-59-2850
+  dob: 12/01/1987
+  address: 1022 Park Dr
+  city: Boston
+  state: CA

@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Stewart
+  email: timothy.stewart5258@example.com
+  phone: 941-715-2831
+  ssn: 286498047
+  dob: 04/08/1958
+  address: 7763 Oak Ave
+  city: San Antonio
+  state: WA

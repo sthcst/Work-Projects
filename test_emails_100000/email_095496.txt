@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Thomas",
+    "email": "brian.thomas7996@mail.com",
+    "phone": "+1 538-522-5678",
+    "ssn": "884425245",
+    "dob": "5/24/1999",
+    "address": "491 Oak Way",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

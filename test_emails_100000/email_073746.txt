@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Gonzalez",
+    "email": "stephanie.gonzalez584@gmail.com",
+    "phone": "822 397 9001",
+    "ssn": "377-91-1747",
+    "dob": "10/8/1976",
+    "address": "8930 Summer Rd",
+    "city": "Houston",
+    "state": "CO"
+  }
+}

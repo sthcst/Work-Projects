@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Young,megan.young9679@mail.com,992-608-5459,456 26 7903,04-03-2005,"376 West Court",Washington,TX

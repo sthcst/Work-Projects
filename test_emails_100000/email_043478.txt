@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Morgan,michael.morgan9925@example.com,578-750-6207,434883614,04/13/1956,"5223 Oak Court",New York,CA

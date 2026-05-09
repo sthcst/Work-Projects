@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Roberts",
+    "email": "jason.roberts1533@work.org",
+    "phone": "+1 220-563-7464",
+    "ssn": "473-36-4942",
+    "dob": "17/01/1977",
+    "address": "7833 Maple Ave",
+    "city": "Boston",
+    "state": "MO"
+  }
+}

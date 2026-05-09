@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Williams",
+    "email": "kimberly.williams1990@yahoo.com",
+    "phone": "891-232-2938",
+    "ssn": "301-20-9226",
+    "dob": "12/20/2000",
+    "address": "3863 East St",
+    "city": "San Antonio",
+    "state": "NY"
+  }
+}

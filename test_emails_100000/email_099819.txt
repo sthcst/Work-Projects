@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Clark,jeffrey.clark464@outlook.com,(735) 397-4027,395-75-7925,15/07/1965,"7500 Main Dr",Los Angeles,DC

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Jackson,ryan.jackson8643@mail.com,433-428-1818,586 41 7764,05-27-1964,"4379 Sixth Court",Jacksonville,CA

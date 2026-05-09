@@ -1,0 +1,9 @@
+contact:
+  name: Gary Ramirez
+  email: gary.ramirez385@yahoo.com
+  phone: (774) 293-6021
+  ssn: 434 95 2865
+  dob: 28/01/1955
+  address: 1764 Fifth St
+  city: San Diego
+  state: MD

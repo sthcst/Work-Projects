@@ -1,0 +1,14 @@
+INVOICE 611516
+
+Bill To:
+Name: Nicole Evans
+Email: nicole.evans4988@example.com
+Phone: 286-702-9744
+SSN: 043 63 1787
+
+Address: 6419 Main Dr
+Phoenix, PA
+
+Date of Birth: 06/11/1999
+
+Amount Due: $398

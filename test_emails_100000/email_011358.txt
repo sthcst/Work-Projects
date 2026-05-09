@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Parker
+  email: ronald.parker4447@example.com
+  phone: (443) 734-8325
+  ssn: 199095117
+  dob: 02/05/1981
+  address: 5228 Spring Court
+  city: Seattle
+  state: FL

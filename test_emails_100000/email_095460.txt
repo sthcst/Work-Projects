@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Davis",
+    "email": "rachel.davis9423@mail.com",
+    "phone": "842 515 2655",
+    "ssn": "008-28-2671",
+    "dob": "03-12-1975",
+    "address": "1090 Maple Ln",
+    "city": "Houston",
+    "state": "MD"
+  }
+}

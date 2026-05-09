@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Campbell,helen.campbell5418@outlook.com,577 734 3872,116453817,12/08/1983,"7511 West Dr",San Jose,WA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Anderson",
+    "email": "ashley.anderson2502@company.com",
+    "phone": "232-452-5381",
+    "ssn": "521643223",
+    "dob": "06-16-1984",
+    "address": "4804 Sixth Court",
+    "city": "San Jose",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Young
+  email: shirley.young7952@work.org
+  phone: 735 529 2519
+  ssn: 558 91 7036
+  dob: 01/01/1969
+  address: 5656 Cedar St
+  city: Phoenix
+  state: NC

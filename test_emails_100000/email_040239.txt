@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Delgado
+  email: jacob.delgado6405@gmail.com
+  phone: (384) 274-4123
+  ssn: 051-63-1038
+  dob: 14/04/1966
+  address: 4910 Spring Court
+  city: San Jose
+  state: NC

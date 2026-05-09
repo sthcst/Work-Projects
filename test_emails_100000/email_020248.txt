@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles White,charles.white4186@outlook.com,(865) 261-1677,718 90 9336,07/11/1997,"1251 Maple Dr",New York,WI

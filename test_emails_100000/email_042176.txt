@@ -1,0 +1,9 @@
+contact:
+  name: Robert Guerrero
+  email: robert.guerrero6347@business.net
+  phone: (223) 291-3591
+  ssn: 668-52-5505
+  dob: 06-19-1988
+  address: 4052 Oak St
+  city: San Jose
+  state: FL

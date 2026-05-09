@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason White",
+    "email": "jason.white6224@example.com",
+    "phone": "+1 524-890-9947",
+    "ssn": "404225035",
+    "dob": "16/09/1955",
+    "address": "729 Sixth St",
+    "city": "New York",
+    "state": "PA"
+  }
+}

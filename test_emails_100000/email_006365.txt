@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Campbell
+  email: kathleen.campbell7460@mail.com
+  phone: (410) 793-9711
+  ssn: 120-61-2956
+  dob: 11/04/1952
+  address: 9494 Second Blvd
+  city: Jacksonville
+  state: FL

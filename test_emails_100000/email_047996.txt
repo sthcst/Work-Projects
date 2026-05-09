@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Moore,angela.moore7972@example.com,535 602 2921,857 19 2995,7/16/1973,"2426 Second Blvd",Phoenix,AZ

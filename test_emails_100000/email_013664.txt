@@ -1,0 +1,14 @@
+INVOICE 182678
+
+Bill To:
+Name: Angela Nelson
+Email: angela.nelson8299@company.com
+Phone: 837 539 2197
+SSN: 833-31-5056
+
+Address: 3843 North St
+San Diego, NJ
+
+Date of Birth: 07-15-1980
+
+Amount Due: $6679

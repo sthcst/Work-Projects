@@ -1,0 +1,9 @@
+contact:
+  name: Edward Evans
+  email: edward.evans9327@example.com
+  phone: (862) 619-2451
+  ssn: 269 65 1532
+  dob: 11-14-1959
+  address: 7569 Park Rd
+  city: Austin
+  state: MO

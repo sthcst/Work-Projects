@@ -1,0 +1,9 @@
+contact:
+  name: Megan Jackson
+  email: megan.jackson8035@outlook.com
+  phone: (469) 668-4032
+  ssn: 732-52-4879
+  dob: 10/4/1975
+  address: 1738 Maple Blvd
+  city: San Antonio
+  state: OH

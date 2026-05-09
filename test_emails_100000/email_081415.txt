@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Lopez,donald.lopez1813@gmail.com,403 723 3220,521092502,1/22/1955,"5421 South Dr",Boston,TX

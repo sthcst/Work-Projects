@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Thomas,george.thomas8544@example.com,475 416 3379,575048786,16/05/1999,"6695 Spring Ave",San Jose,VA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Ramirez",
+    "email": "samantha.ramirez5452@yahoo.com",
+    "phone": "+1 592-913-3051",
+    "ssn": "647-56-4435",
+    "dob": "28/06/1959",
+    "address": "4597 Pine St",
+    "city": "San Jose",
+    "state": "OH"
+  }
+}

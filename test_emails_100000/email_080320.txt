@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Morris
+  email: lisa.morris7166@business.net
+  phone: 340 246 9303
+  ssn: 572575286
+  dob: 16/09/1971
+  address: 1294 First Rd
+  city: Seattle
+  state: IL

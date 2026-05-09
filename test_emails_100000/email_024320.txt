@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Alvarado,william.alvarado4222@mail.com,(585) 494-1413,248-83-6872,12/07/1965,"9504 Sixth Way",Austin,NC

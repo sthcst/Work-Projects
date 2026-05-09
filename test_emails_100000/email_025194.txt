@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Hall,stephanie.hall5128@gmail.com,(393) 674-2427,591 32 5728,06-20-1989,"1399 Third Court",Jacksonville,TX

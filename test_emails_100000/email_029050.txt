@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Morris,kathleen.morris1112@company.com,689 675 9469,480481846,17/04/1968,"4554 First Ln",Denver,PA

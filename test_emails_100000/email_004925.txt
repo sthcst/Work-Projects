@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Reed",
+    "email": "emily.reed6351@mail.com",
+    "phone": "994 611 1188",
+    "ssn": "386 47 3637",
+    "dob": "6/8/1982",
+    "address": "6209 Park Blvd",
+    "city": "Jacksonville",
+    "state": "NC"
+  }
+}

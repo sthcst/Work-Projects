@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Reed
+  email: deborah.reed3304@yahoo.com
+  phone: (579) 566-7291
+  ssn: 777065160
+  dob: 02-09-1982
+  address: 2428 Fifth Dr
+  city: Washington
+  state: CA

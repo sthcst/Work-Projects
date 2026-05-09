@@ -1,0 +1,9 @@
+contact:
+  name: Emily Johnson
+  email: emily.johnson5850@yahoo.com
+  phone: 936 320 3723
+  ssn: 795 62 7588
+  dob: 04-09-2004
+  address: 4051 Park Rd
+  city: Philadelphia
+  state: WA

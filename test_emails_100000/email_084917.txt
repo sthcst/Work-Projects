@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Wilson",
+    "email": "katherine.wilson5959@business.net",
+    "phone": "(514) 818-5576",
+    "ssn": "071 90 2966",
+    "dob": "04/07/1954",
+    "address": "2529 Elm Ave",
+    "city": "Washington",
+    "state": "MA"
+  }
+}

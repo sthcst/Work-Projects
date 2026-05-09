@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Gomez,megan.gomez6635@example.com,(975) 945-5315,503808700,6/22/1966,"8862 Fourth Dr",Jacksonville,GA

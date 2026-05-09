@@ -1,0 +1,14 @@
+INVOICE 122856
+
+Bill To:
+Name: Daniel Morris
+Email: daniel.morris204@company.com
+Phone: 772-236-9487
+SSN: 884 71 8262
+
+Address: 916 Fourth Court
+Dallas, IL
+
+Date of Birth: 01/03/1965
+
+Amount Due: $972

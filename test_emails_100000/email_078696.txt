@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Reed
+  email: shirley.reed7862@company.com
+  phone: 453-830-8836
+  ssn: 146975495
+  dob: 03/02/2003
+  address: 8687 Fourth Court
+  city: Phoenix
+  state: TX

@@ -1,0 +1,9 @@
+contact:
+  name: William Gomez
+  email: william.gomez7353@yahoo.com
+  phone: 668 640 4942
+  ssn: 032 04 6616
+  dob: 7/22/1953
+  address: 3456 Pine Ln
+  city: Phoenix
+  state: OH

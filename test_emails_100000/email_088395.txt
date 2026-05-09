@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Perez,angela.perez9794@example.com,217-512-2843,632-14-2523,02/05/1969,"152 Fifth St",Washington,IL

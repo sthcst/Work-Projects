@@ -1,0 +1,14 @@
+INVOICE 597814
+
+Bill To:
+Name: John Phillips
+Email: john.phillips2185@company.com
+Phone: +1 356-615-7793
+SSN: 258 06 1532
+
+Address: 9472 Birch Way
+Dallas, TX
+
+Date of Birth: 08/27/1974
+
+Amount Due: $4483

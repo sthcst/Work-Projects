@@ -1,0 +1,9 @@
+contact:
+  name: Michael Phillips
+  email: michael.phillips7764@business.net
+  phone: 607-743-9079
+  ssn: 368119437
+  dob: 05/18/1989
+  address: 907 Pine St
+  city: San Jose
+  state: CO

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Martinez",
+    "email": "jeffrey.martinez4179@outlook.com",
+    "phone": "413 661 4915",
+    "ssn": "211 08 3928",
+    "dob": "09/04/2004",
+    "address": "7148 Second Rd",
+    "city": "Boston",
+    "state": "IL"
+  }
+}

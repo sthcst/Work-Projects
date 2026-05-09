@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Parker",
+    "email": "charles.parker5345@yahoo.com",
+    "phone": "+1 349-264-2001",
+    "ssn": "988 42 3207",
+    "dob": "1/14/1982",
+    "address": "4922 First Dr",
+    "city": "Boston",
+    "state": "GA"
+  }
+}

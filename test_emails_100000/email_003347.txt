@@ -1,0 +1,14 @@
+INVOICE 963445
+
+Bill To:
+Name: Charles Clark
+Email: charles.clark2375@yahoo.com
+Phone: +1 314-286-5572
+SSN: 388-60-6186
+
+Address: 938 North Blvd
+Seattle, WA
+
+Date of Birth: 03/01/1970
+
+Amount Due: $467

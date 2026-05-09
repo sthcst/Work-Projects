@@ -1,0 +1,14 @@
+INVOICE 614610
+
+Bill To:
+Name: Ronald Thomas
+Email: ronald.thomas7241@mail.com
+Phone: +1 384-768-5167
+SSN: 728-50-4893
+
+Address: 2361 Spring St
+New York, GA
+
+Date of Birth: 09/09/1992
+
+Amount Due: $7572

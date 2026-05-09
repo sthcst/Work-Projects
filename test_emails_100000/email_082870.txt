@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Nunez",
+    "email": "anthony.nunez1936@work.org",
+    "phone": "+1 986-767-7120",
+    "ssn": "700926591",
+    "dob": "10-23-1983",
+    "address": "7472 Maple Way",
+    "city": "Denver",
+    "state": "NY"
+  }
+}

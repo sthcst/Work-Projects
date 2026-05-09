@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Rodriguez
+  email: joseph.rodriguez7739@yahoo.com
+  phone: +1 848-705-9318
+  ssn: 262-91-7090
+  dob: 02/27/1993
+  address: 6207 East Rd
+  city: Boston
+  state: OH

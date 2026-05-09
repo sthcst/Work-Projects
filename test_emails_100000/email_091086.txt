@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Bell",
+    "email": "brenda.bell6297@yahoo.com",
+    "phone": "739-447-4143",
+    "ssn": "188-29-6957",
+    "dob": "6/9/1957",
+    "address": "3818 West Rd",
+    "city": "Austin",
+    "state": "NY"
+  }
+}

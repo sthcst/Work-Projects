@@ -1,0 +1,14 @@
+INVOICE 869753
+
+Bill To:
+Name: Anthony Smith
+Email: anthony.smith2010@yahoo.com
+Phone: 232-866-4479
+SSN: 617516806
+
+Address: 1830 Main Ln
+San Jose, TN
+
+Date of Birth: 04/08/1994
+
+Amount Due: $3864

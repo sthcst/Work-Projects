@@ -1,0 +1,14 @@
+INVOICE 365066
+
+Bill To:
+Name: William Smith
+Email: william.smith1325@mail.com
+Phone: 214-817-5773
+SSN: 351136242
+
+Address: 1387 South Rd
+Jacksonville, WA
+
+Date of Birth: 09/04/1956
+
+Amount Due: $7173

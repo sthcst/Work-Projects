@@ -1,0 +1,14 @@
+INVOICE 757512
+
+Bill To:
+Name: George Moore
+Email: george.moore3141@mail.com
+Phone: 435 396 8946
+SSN: 285214490
+
+Address: 709 Cedar Court
+New York, MA
+
+Date of Birth: 1/21/2000
+
+Amount Due: $6420

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Thompson",
+    "email": "pamela.thompson9907@company.com",
+    "phone": "244-900-4508",
+    "ssn": "334 50 4629",
+    "dob": "6/1/1959",
+    "address": "3465 First Blvd",
+    "city": "Phoenix",
+    "state": "MA"
+  }
+}

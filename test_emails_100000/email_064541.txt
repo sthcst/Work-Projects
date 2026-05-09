@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Bell",
+    "email": "christine.bell7273@mail.com",
+    "phone": "(659) 626-5382",
+    "ssn": "044-27-9957",
+    "dob": "12/09/1990",
+    "address": "9596 First Court",
+    "city": "Philadelphia",
+    "state": "MD"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Sanchez
+  email: kenneth.sanchez8741@business.net
+  phone: (602) 666-1272
+  ssn: 181-12-4459
+  dob: 08/02/1969
+  address: 2600 Park Court
+  city: Jacksonville
+  state: WA

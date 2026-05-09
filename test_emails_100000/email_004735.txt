@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Miller",
+    "email": "katherine.miller1413@outlook.com",
+    "phone": "+1 690-623-1995",
+    "ssn": "151-27-5292",
+    "dob": "03/11/1972",
+    "address": "5568 Sixth Dr",
+    "city": "Jacksonville",
+    "state": "WA"
+  }
+}

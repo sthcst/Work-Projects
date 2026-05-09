@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Nelson",
+    "email": "anna.nelson2225@example.com",
+    "phone": "479 489 5928",
+    "ssn": "623487402",
+    "dob": "05/07/1963",
+    "address": "5551 Elm Blvd",
+    "city": "Washington",
+    "state": "NY"
+  }
+}

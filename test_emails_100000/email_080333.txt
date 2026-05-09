@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Flores",
+    "email": "mark.flores6216@example.com",
+    "phone": "515-738-6058",
+    "ssn": "111408146",
+    "dob": "11-24-1972",
+    "address": "1412 Sixth Ave",
+    "city": "Philadelphia",
+    "state": "AZ"
+  }
+}

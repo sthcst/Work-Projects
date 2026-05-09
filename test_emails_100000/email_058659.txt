@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Moore,stephanie.moore8237@company.com,608 353 1969,770654255,8/11/1993,"5998 East Ave",Phoenix,TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Walker,emma.walker5087@gmail.com,846 328 4134,780094911,2/10/1976,"6526 Summer Ln",Washington,TX

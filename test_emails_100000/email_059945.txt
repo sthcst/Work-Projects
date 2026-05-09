@@ -1,0 +1,9 @@
+contact:
+  name: David Alvarado
+  email: david.alvarado700@gmail.com
+  phone: 205 559 1371
+  ssn: 676-98-8156
+  dob: 18/12/1979
+  address: 1795 Fifth Rd
+  city: Dallas
+  state: CA

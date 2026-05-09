@@ -1,0 +1,9 @@
+contact:
+  name: Robert Campbell
+  email: robert.campbell9281@example.com
+  phone: (535) 690-9208
+  ssn: 284698229
+  dob: 02-17-1988
+  address: 2043 Park Ln
+  city: San Antonio
+  state: VA

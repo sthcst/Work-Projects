@@ -1,0 +1,9 @@
+contact:
+  name: Angela Reed
+  email: angela.reed187@yahoo.com
+  phone: (558) 431-6887
+  ssn: 027 83 6631
+  dob: 09/23/2002
+  address: 4627 Park Ln
+  city: Houston
+  state: TN

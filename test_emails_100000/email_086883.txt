@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Miller",
+    "email": "lisa.miller5075@company.com",
+    "phone": "227 445 1179",
+    "ssn": "149 18 4083",
+    "dob": "02/07/1999",
+    "address": "2813 West Ave",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

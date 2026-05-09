@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Romero
+  email: sarah.romero7089@outlook.com
+  phone: (806) 888-4338
+  ssn: 054-45-6701
+  dob: 7/1/1959
+  address: 4604 Second Ln
+  city: Jacksonville
+  state: FL

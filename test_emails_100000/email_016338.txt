@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Stewart",
+    "email": "jessica.stewart3373@mail.com",
+    "phone": "619 782 7221",
+    "ssn": "770-44-4841",
+    "dob": "10-15-1990",
+    "address": "3482 Sixth St",
+    "city": "Los Angeles",
+    "state": "NC"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Gonzalez,rebecca.gonzalez1762@outlook.com,+1 969-942-9883,090 98 4377,09/05/2003,"9497 West Court",Boston,OH

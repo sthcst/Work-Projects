@@ -1,0 +1,14 @@
+INVOICE 375046
+
+Bill To:
+Name: David Gonzalez
+Email: david.gonzalez1242@gmail.com
+Phone: 503-993-5627
+SSN: 772-94-6731
+
+Address: 3943 Elm Dr
+San Jose, CO
+
+Date of Birth: 02-13-1963
+
+Amount Due: $8887

@@ -1,0 +1,9 @@
+contact:
+  name: Edward Ortiz
+  email: edward.ortiz5300@business.net
+  phone: (286) 229-9775
+  ssn: 749647029
+  dob: 11/26/1969
+  address: 2542 North St
+  city: Chicago
+  state: CA

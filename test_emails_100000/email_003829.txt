@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Williams",
+    "email": "charles.williams4468@work.org",
+    "phone": "936-977-5730",
+    "ssn": "880691537",
+    "dob": "01-09-2004",
+    "address": "7478 Fifth Blvd",
+    "city": "San Antonio",
+    "state": "CA"
+  }
+}

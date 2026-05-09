@@ -1,0 +1,14 @@
+INVOICE 850056
+
+Bill To:
+Name: Kathleen Wilson
+Email: kathleen.wilson7303@example.com
+Phone: 582 228 5302
+SSN: 165-75-4579
+
+Address: 4118 Sixth Way
+Washington, TX
+
+Date of Birth: 10/01/1961
+
+Amount Due: $931

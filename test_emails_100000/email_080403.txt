@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Peterson",
+    "email": "jennifer.peterson1517@outlook.com",
+    "phone": "911 567 1245",
+    "ssn": "783-85-9524",
+    "dob": "13/11/1989",
+    "address": "5677 Cedar Court",
+    "city": "Austin",
+    "state": "OH"
+  }
+}

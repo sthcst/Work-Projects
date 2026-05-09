@@ -1,0 +1,14 @@
+INVOICE 727221
+
+Bill To:
+Name: William Harris
+Email: william.harris7045@example.com
+Phone: (737) 550-5490
+SSN: 675602870
+
+Address: 997 Cedar Ln
+Houston, TX
+
+Date of Birth: 04/02/1987
+
+Amount Due: $6224

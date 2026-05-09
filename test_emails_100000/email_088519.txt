@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Lee",
+    "email": "christine.lee9052@mail.com",
+    "phone": "476-922-6980",
+    "ssn": "131 10 3785",
+    "dob": "05-22-1966",
+    "address": "2421 First St",
+    "city": "Jacksonville",
+    "state": "MD"
+  }
+}

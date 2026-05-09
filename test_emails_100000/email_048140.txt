@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Stewart",
+    "email": "nicole.stewart1706@example.com",
+    "phone": "+1 410-258-7046",
+    "ssn": "381-65-7528",
+    "dob": "09/06/1956",
+    "address": "203 South St",
+    "city": "Jacksonville",
+    "state": "WI"
+  }
+}

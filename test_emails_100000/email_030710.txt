@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Jackson",
+    "email": "jessica.jackson311@mail.com",
+    "phone": "+1 955-638-8519",
+    "ssn": "203811733",
+    "dob": "11/26/1968",
+    "address": "5586 Summer Court",
+    "city": "San Diego",
+    "state": "WA"
+  }
+}

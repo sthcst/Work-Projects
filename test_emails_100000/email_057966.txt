@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Brown,edward.brown4178@outlook.com,(794) 332-9130,214 13 6834,05-16-1975,"8988 Spring Dr",Dallas,TX

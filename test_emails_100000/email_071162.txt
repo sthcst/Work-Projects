@@ -1,0 +1,9 @@
+contact:
+  name: Jane Ramirez
+  email: jane.ramirez4734@business.net
+  phone: 896 667 4414
+  ssn: 496639709
+  dob: 06/27/1952
+  address: 9627 West Ave
+  city: Denver
+  state: VA

@@ -1,0 +1,14 @@
+INVOICE 812950
+
+Bill To:
+Name: Helen Lopez
+Email: helen.lopez6856@gmail.com
+Phone: 652 300 3583
+SSN: 449-46-3133
+
+Address: 1781 South Rd
+Houston, TN
+
+Date of Birth: 26/07/1982
+
+Amount Due: $1363

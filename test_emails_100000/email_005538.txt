@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Nelson,megan.nelson9737@gmail.com,226 727 4489,351509721,2/16/1995,"881 Second Court",Chicago,GA

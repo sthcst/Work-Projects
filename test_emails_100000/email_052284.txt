@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Robinson
+  email: joshua.robinson3904@company.com
+  phone: (938) 276-5699
+  ssn: 306179785
+  dob: 1/16/1967
+  address: 5934 Park Dr
+  city: San Antonio
+  state: MA

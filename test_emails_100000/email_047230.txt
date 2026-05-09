@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Nelson,kevin.nelson3912@mail.com,+1 231-806-1817,110921467,12-05-1981,"7956 Pine Court",Seattle,DC

@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Cooper
+  email: stephanie.cooper527@company.com
+  phone: (772) 816-2014
+  ssn: 911-09-7490
+  dob: 13/06/1957
+  address: 6361 Second Ln
+  city: Boston
+  state: NJ

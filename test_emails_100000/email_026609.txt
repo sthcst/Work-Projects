@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Gomez,george.gomez2440@gmail.com,(936) 713-5783,532-28-3141,07/18/1980,"7042 Summer Court",Austin,MO

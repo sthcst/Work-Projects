@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Alvarado,paul.alvarado150@business.net,(247) 869-2357,488 73 9415,06/08/1951,"4096 North St",Seattle,WA

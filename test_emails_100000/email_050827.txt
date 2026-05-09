@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Edwards,emily.edwards5444@business.net,(779) 816-1858,856 81 7406,7/6/1977,"4491 Summer Rd",Jacksonville,WA

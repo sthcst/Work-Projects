@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Smith",
+    "email": "kenneth.smith2846@yahoo.com",
+    "phone": "545 256 8584",
+    "ssn": "851-99-9707",
+    "dob": "20/06/1953",
+    "address": "5432 Summer Blvd",
+    "city": "Chicago",
+    "state": "MI"
+  }
+}

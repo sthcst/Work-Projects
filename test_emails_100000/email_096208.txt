@@ -1,0 +1,14 @@
+INVOICE 993990
+
+Bill To:
+Name: Robert Lee
+Email: robert.lee234@work.org
+Phone: 303 640 7077
+SSN: 641-78-9959
+
+Address: 5626 Park Ln
+San Jose, OH
+
+Date of Birth: 6/12/1978
+
+Amount Due: $9705

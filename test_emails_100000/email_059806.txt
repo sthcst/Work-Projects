@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Reed,joshua.reed4901@business.net,795-730-7858,805664407,15/08/1972,"6864 First Ln",San Jose,DC

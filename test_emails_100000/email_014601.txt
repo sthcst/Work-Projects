@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Reed,david.reed1265@work.org,313 903 1081,251 05 7198,09-21-1994,"2982 South Way",New York,NJ

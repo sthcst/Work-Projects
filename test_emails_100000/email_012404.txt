@@ -1,0 +1,9 @@
+contact:
+  name: Angela Nelson
+  email: angela.nelson3234@mail.com
+  phone: 395-295-9357
+  ssn: 073-55-8265
+  dob: 03/10/1971
+  address: 6664 West Way
+  city: Seattle
+  state: MD

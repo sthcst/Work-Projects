@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Lewis,richard.lewis1777@yahoo.com,496-956-7223,984942282,10/06/1952,"5882 Elm St",Boston,VA

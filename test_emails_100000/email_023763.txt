@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Rogers
+  email: joshua.rogers4544@yahoo.com
+  phone: 200-214-4000
+  ssn: 270747977
+  dob: 5/25/1966
+  address: 1057 Second St
+  city: Los Angeles
+  state: AZ

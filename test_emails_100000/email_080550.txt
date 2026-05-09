@@ -1,0 +1,14 @@
+INVOICE 785535
+
+Bill To:
+Name: Jacob Flores
+Email: jacob.flores1149@company.com
+Phone: 702 767 7475
+SSN: 898251619
+
+Address: 5789 Third Dr
+Chicago, WA
+
+Date of Birth: 11/27/2002
+
+Amount Due: $7256

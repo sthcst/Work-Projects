@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Garcia",
+    "email": "emily.garcia4586@example.com",
+    "phone": "472-394-5805",
+    "ssn": "578703710",
+    "dob": "23/05/2004",
+    "address": "6399 Cedar Court",
+    "city": "San Jose",
+    "state": "OH"
+  }
+}

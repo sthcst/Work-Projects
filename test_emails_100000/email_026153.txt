@@ -1,0 +1,14 @@
+INVOICE 656066
+
+Bill To:
+Name: Charles Hall
+Email: charles.hall150@outlook.com
+Phone: (591) 701-9567
+SSN: 875-34-6545
+
+Address: 86 Fifth Dr
+San Antonio, WA
+
+Date of Birth: 02-02-1990
+
+Amount Due: $7353

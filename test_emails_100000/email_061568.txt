@@ -1,0 +1,9 @@
+contact:
+  name: Anna Wilson
+  email: anna.wilson7422@work.org
+  phone: 659 911 9965
+  ssn: 423226409
+  dob: 08-12-2004
+  address: 475 Sixth Dr
+  city: New York
+  state: CA

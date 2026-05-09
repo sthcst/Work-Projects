@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Sanchez",
+    "email": "stephanie.sanchez2746@gmail.com",
+    "phone": "(740) 413-8481",
+    "ssn": "526-35-8348",
+    "dob": "04/06/2000",
+    "address": "6131 Summer Blvd",
+    "city": "San Antonio",
+    "state": "FL"
+  }
+}

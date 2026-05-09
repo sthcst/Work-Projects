@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Alvarado",
+    "email": "christine.alvarado1852@yahoo.com",
+    "phone": "958 854 9004",
+    "ssn": "378 35 2930",
+    "dob": "12/18/1989",
+    "address": "6528 Maple Way",
+    "city": "Boston",
+    "state": "MD"
+  }
+}

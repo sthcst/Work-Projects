@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Romero",
+    "email": "james.romero5181@gmail.com",
+    "phone": "723-794-7887",
+    "ssn": "715539494",
+    "dob": "4/13/1993",
+    "address": "7840 Pine Blvd",
+    "city": "Seattle",
+    "state": "WA"
+  }
+}

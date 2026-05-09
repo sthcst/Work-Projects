@@ -1,0 +1,14 @@
+INVOICE 648991
+
+Bill To:
+Name: Lauren Smith
+Email: lauren.smith9745@gmail.com
+Phone: +1 772-630-6421
+SSN: 579606962
+
+Address: 771 Park St
+Chicago, PA
+
+Date of Birth: 11/19/1978
+
+Amount Due: $1650

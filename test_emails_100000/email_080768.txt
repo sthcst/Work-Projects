@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Gomez",
+    "email": "deborah.gomez4687@mail.com",
+    "phone": "+1 942-740-9908",
+    "ssn": "064 64 4025",
+    "dob": "4/11/2005",
+    "address": "1550 Elm Ln",
+    "city": "Phoenix",
+    "state": "MD"
+  }
+}

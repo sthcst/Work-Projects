@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Peterson
+  email: sarah.peterson781@mail.com
+  phone: +1 581-954-1620
+  ssn: 687-14-2132
+  dob: 09-15-1968
+  address: 3805 South Ln
+  city: Denver
+  state: MD

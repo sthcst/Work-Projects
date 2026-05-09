@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Alvarado",
+    "email": "cynthia.alvarado3961@work.org",
+    "phone": "580 603 1634",
+    "ssn": "761 02 9185",
+    "dob": "15/10/1951",
+    "address": "1700 Elm Blvd",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Edwards
+  email: anthony.edwards6969@yahoo.com
+  phone: 580 831 4911
+  ssn: 508448122
+  dob: 28/09/1984
+  address: 4067 Fourth Ave
+  city: Philadelphia
+  state: NC

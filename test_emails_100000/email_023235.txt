@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Collins",
+    "email": "ashley.collins3305@company.com",
+    "phone": "(850) 796-8208",
+    "ssn": "170732375",
+    "dob": "11/6/1957",
+    "address": "8918 Birch Court",
+    "city": "Dallas",
+    "state": "DC"
+  }
+}

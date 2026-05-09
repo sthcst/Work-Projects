@@ -1,0 +1,14 @@
+INVOICE 375452
+
+Bill To:
+Name: Jacob Lee
+Email: jacob.lee2059@example.com
+Phone: 664-749-4746
+SSN: 500-96-7755
+
+Address: 2901 Spring Way
+Jacksonville, NJ
+
+Date of Birth: 05-08-1959
+
+Amount Due: $8954

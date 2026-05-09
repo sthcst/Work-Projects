@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Lewis,lisa.lewis6012@mail.com,810-856-6863,988-39-5421,10/20/2003,"3455 Park Way",San Antonio,TX

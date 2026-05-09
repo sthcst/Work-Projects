@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Lewis
+  email: timothy.lewis1063@company.com
+  phone: (677) 714-9966
+  ssn: 635415131
+  dob: 7/27/1974
+  address: 9848 West Ave
+  city: Phoenix
+  state: IL

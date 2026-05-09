@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Jimenez
+  email: kimberly.jimenez8173@work.org
+  phone: +1 510-575-5113
+  ssn: 784 53 6818
+  dob: 1/8/1996
+  address: 6625 Third Blvd
+  city: New York
+  state: NC

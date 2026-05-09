@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Delgado,christopher.delgado5082@company.com,+1 753-990-5492,009739962,09-03-1955,"1850 Cedar Blvd",Boston,CO

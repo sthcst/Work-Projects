@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Hernandez
+  email: pamela.hernandez5459@business.net
+  phone: 790-461-4830
+  ssn: 218 85 3056
+  dob: 19/02/1984
+  address: 2191 North Rd
+  city: Boston
+  state: IL

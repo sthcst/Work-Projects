@@ -1,0 +1,9 @@
+contact:
+  name: Angela Peterson
+  email: angela.peterson6066@example.com
+  phone: 777-937-8057
+  ssn: 957496546
+  dob: 12/18/2002
+  address: 786 Sixth Dr
+  city: Phoenix
+  state: TX

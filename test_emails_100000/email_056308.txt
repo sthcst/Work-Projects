@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Jimenez
+  email: sarah.jimenez9277@outlook.com
+  phone: 467 905 4359
+  ssn: 419-77-1945
+  dob: 12/03/1956
+  address: 3865 South Rd
+  city: Phoenix
+  state: FL

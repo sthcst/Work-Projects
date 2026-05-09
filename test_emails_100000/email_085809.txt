@@ -1,0 +1,14 @@
+INVOICE 403302
+
+Bill To:
+Name: Katherine Hernandez
+Email: katherine.hernandez2552@company.com
+Phone: +1 659-629-4785
+SSN: 508 45 8008
+
+Address: 8213 Cedar Way
+Dallas, NC
+
+Date of Birth: 10/04/1965
+
+Amount Due: $7681

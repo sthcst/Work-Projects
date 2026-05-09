@@ -1,0 +1,9 @@
+contact:
+  name: Charles Martinez
+  email: charles.martinez4447@yahoo.com
+  phone: 865-891-3014
+  ssn: 862-99-2439
+  dob: 11/04/1997
+  address: 9384 Pine Ln
+  city: Jacksonville
+  state: IL

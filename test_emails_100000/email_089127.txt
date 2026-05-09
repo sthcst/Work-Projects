@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Jimenez",
+    "email": "maria.jimenez2470@gmail.com",
+    "phone": "(730) 547-3796",
+    "ssn": "803-91-1836",
+    "dob": "21/04/1954",
+    "address": "5103 Cedar Rd",
+    "city": "Houston",
+    "state": "WA"
+  }
+}

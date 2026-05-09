@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Ramirez",
+    "email": "andrew.ramirez6423@work.org",
+    "phone": "828-964-8392",
+    "ssn": "812-99-2449",
+    "dob": "25/08/1956",
+    "address": "2831 Cedar St",
+    "city": "San Antonio",
+    "state": "CA"
+  }
+}

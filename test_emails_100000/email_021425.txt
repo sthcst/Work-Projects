@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Romero",
+    "email": "lisa.romero6043@yahoo.com",
+    "phone": "+1 261-561-7097",
+    "ssn": "816-75-8565",
+    "dob": "27/04/1999",
+    "address": "2584 Summer Blvd",
+    "city": "Philadelphia",
+    "state": "WA"
+  }
+}

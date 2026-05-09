@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Lopez
+  email: kenneth.lopez5976@company.com
+  phone: 683-486-9981
+  ssn: 895 58 5926
+  dob: 24/03/1990
+  address: 6346 Third Dr
+  city: Seattle
+  state: MA

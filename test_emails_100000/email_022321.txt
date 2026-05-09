@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Stewart",
+    "email": "sarah.stewart912@business.net",
+    "phone": "(403) 237-4517",
+    "ssn": "384 53 6042",
+    "dob": "08-11-1951",
+    "address": "6464 Third Way",
+    "city": "New York",
+    "state": "WA"
+  }
+}

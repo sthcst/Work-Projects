@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Dominguez,megan.dominguez2283@work.org,201 757 1834,652024188,01/10/1996,"6865 North Dr",Denver,MO

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Thomas",
+    "email": "anthony.thomas1358@gmail.com",
+    "phone": "(935) 396-9723",
+    "ssn": "434-45-7027",
+    "dob": "04-16-1958",
+    "address": "6358 Main Ln",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

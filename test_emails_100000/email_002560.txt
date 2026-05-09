@@ -1,0 +1,9 @@
+contact:
+  name: Angela Carter
+  email: angela.carter6130@yahoo.com
+  phone: +1 977-437-4174
+  ssn: 006 09 7659
+  dob: 09/12/2003
+  address: 6434 South Court
+  city: Chicago
+  state: TN

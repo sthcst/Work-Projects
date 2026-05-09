@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Ramirez
+  email: pamela.ramirez6597@work.org
+  phone: +1 355-886-5151
+  ssn: 742141128
+  dob: 13/12/2005
+  address: 3324 Park Court
+  city: Denver
+  state: TX

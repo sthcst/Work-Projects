@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Jimenez",
+    "email": "stephanie.jimenez3399@business.net",
+    "phone": "(643) 722-8245",
+    "ssn": "977254039",
+    "dob": "10-10-1990",
+    "address": "2983 Second Ave",
+    "city": "Los Angeles",
+    "state": "MO"
+  }
+}

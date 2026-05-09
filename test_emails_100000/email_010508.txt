@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Lewis,sarah.lewis5978@example.com,285 866 2992,142 24 4164,09-25-1973,"1025 Maple Way",Austin,NY

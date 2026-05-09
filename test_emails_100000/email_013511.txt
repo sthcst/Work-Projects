@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Jones
+  email: jeffrey.jones6272@company.com
+  phone: +1 410-716-4549
+  ssn: 794-33-5376
+  dob: 7/2/1969
+  address: 8644 Main Ave
+  city: San Diego
+  state: NY

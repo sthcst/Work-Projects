@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Miller",
+    "email": "nicole.miller5112@mail.com",
+    "phone": "593 680 9167",
+    "ssn": "503614122",
+    "dob": "06/12/1978",
+    "address": "8838 Pine Ln",
+    "city": "New York",
+    "state": "CA"
+  }
+}

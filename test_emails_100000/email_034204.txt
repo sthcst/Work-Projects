@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Jones",
+    "email": "lisa.jones742@example.com",
+    "phone": "+1 261-504-1818",
+    "ssn": "485 90 4270",
+    "dob": "11-14-1967",
+    "address": "9158 Summer Rd",
+    "city": "Los Angeles",
+    "state": "FL"
+  }
+}

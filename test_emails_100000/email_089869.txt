@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Campbell
+  email: kevin.campbell1512@gmail.com
+  phone: 858 303 2245
+  ssn: 787313483
+  dob: 22/11/1989
+  address: 5182 Spring Ln
+  city: Jacksonville
+  state: WI

@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Stewart
+  email: brenda.stewart9543@outlook.com
+  phone: (604) 829-8353
+  ssn: 087889663
+  dob: 26/05/1996
+  address: 8629 Third St
+  city: Chicago
+  state: OH

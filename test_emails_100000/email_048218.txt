@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Cooper",
+    "email": "jennifer.cooper4081@outlook.com",
+    "phone": "+1 404-963-2905",
+    "ssn": "739-33-4756",
+    "dob": "02/11/1965",
+    "address": "6107 Sixth Court",
+    "city": "Seattle",
+    "state": "DC"
+  }
+}

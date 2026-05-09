@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Walker",
+    "email": "david.walker721@example.com",
+    "phone": "735-652-4352",
+    "ssn": "216-76-5604",
+    "dob": "07/09/1984",
+    "address": "406 Oak Ave",
+    "city": "Chicago",
+    "state": "PA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Reyes",
+    "email": "stephanie.reyes6842@outlook.com",
+    "phone": "+1 628-486-1323",
+    "ssn": "343 91 8738",
+    "dob": "4/28/1987",
+    "address": "8497 Spring St",
+    "city": "Boston",
+    "state": "WA"
+  }
+}

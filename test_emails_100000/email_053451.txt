@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Clark,michelle.clark172@gmail.com,+1 929-484-6617,228 26 8946,7/23/1990,"7693 Cedar Ln",Jacksonville,NY

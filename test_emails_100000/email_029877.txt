@@ -1,0 +1,14 @@
+INVOICE 560591
+
+Bill To:
+Name: Kenneth Davis
+Email: kenneth.davis1516@example.com
+Phone: 299 520 6783
+SSN: 094-94-4072
+
+Address: 8365 Birch Dr
+Boston, WA
+
+Date of Birth: 04/09/2002
+
+Amount Due: $8234

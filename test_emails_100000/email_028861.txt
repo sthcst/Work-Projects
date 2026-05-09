@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Miller,sarah.miller4603@mail.com,280 679 1171,843864495,01/09/1988,"8308 Park Blvd",San Jose,WA

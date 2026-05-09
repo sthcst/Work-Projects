@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Robinson
+  email: joshua.robinson1678@work.org
+  phone: (722) 705-7205
+  ssn: 757 97 1437
+  dob: 09-11-1987
+  address: 89 Fifth Ave
+  city: Washington
+  state: AZ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda White,brenda.white2533@yahoo.com,967-254-5973,204 57 8792,12/08/1995,"7020 Third Dr",Denver,TX

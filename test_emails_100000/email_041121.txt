@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Gonzalez",
+    "email": "cynthia.gonzalez629@business.net",
+    "phone": "(289) 821-5627",
+    "ssn": "595-34-1177",
+    "dob": "11-14-1957",
+    "address": "4677 Fourth Court",
+    "city": "New York",
+    "state": "TN"
+  }
+}

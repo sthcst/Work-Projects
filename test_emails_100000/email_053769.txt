@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Moore
+  email: ashley.moore8478@gmail.com
+  phone: (283) 493-6810
+  ssn: 517-46-7487
+  dob: 13/10/1965
+  address: 3024 Birch Blvd
+  city: Jacksonville
+  state: FL

@@ -1,0 +1,9 @@
+contact:
+  name: Richard Nelson
+  email: richard.nelson4732@gmail.com
+  phone: 567 373 8102
+  ssn: 778 22 2760
+  dob: 02/21/2001
+  address: 1812 Main Ln
+  city: Seattle
+  state: TX

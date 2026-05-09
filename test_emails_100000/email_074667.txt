@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Garcia
+  email: sarah.garcia1609@gmail.com
+  phone: 283 401 4852
+  ssn: 568747509
+  dob: 11/11/1952
+  address: 4255 Oak Rd
+  city: Washington
+  state: CO

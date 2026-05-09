@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Thompson
+  email: sarah.thompson3440@work.org
+  phone: (787) 422-1880
+  ssn: 738357028
+  dob: 12/15/1967
+  address: 2073 Sixth Way
+  city: New York
+  state: WA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Phillips,joshua.phillips555@company.com,+1 713-281-1261,689 08 2522,08-02-1951,"6441 Cedar Ave",Houston,CA

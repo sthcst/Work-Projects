@@ -1,0 +1,14 @@
+INVOICE 598946
+
+Bill To:
+Name: Steven Carter
+Email: steven.carter5299@example.com
+Phone: 403-973-1213
+SSN: 398566686
+
+Address: 3382 West Blvd
+Phoenix, NJ
+
+Date of Birth: 17/12/1984
+
+Amount Due: $3322

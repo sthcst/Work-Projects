@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Ortiz,charles.ortiz2000@example.com,699-423-1769,803986296,13/04/1961,"4039 Third Blvd",San Antonio,TX

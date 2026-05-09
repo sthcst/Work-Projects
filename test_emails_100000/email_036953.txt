@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Lewis,emily.lewis528@gmail.com,+1 934-811-3958,940 83 5009,12/14/1984,"1705 Main Ln",Boston,TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Cooper,samantha.cooper3143@work.org,767-978-7408,007 98 5994,04-27-1991,"9312 Third Ave",Jacksonville,TX

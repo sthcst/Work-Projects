@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Reed",
+    "email": "charles.reed1125@business.net",
+    "phone": "(338) 979-6929",
+    "ssn": "701319883",
+    "dob": "27/12/1965",
+    "address": "4637 Third St",
+    "city": "Chicago",
+    "state": "AZ"
+  }
+}

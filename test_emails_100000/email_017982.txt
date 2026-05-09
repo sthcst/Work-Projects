@@ -1,0 +1,14 @@
+INVOICE 876666
+
+Bill To:
+Name: Joseph Davis
+Email: joseph.davis9009@company.com
+Phone: 459 522 2855
+SSN: 961 43 1766
+
+Address: 6630 Sixth St
+Denver, TX
+
+Date of Birth: 8/16/1977
+
+Amount Due: $7008

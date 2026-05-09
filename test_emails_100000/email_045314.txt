@@ -1,0 +1,14 @@
+INVOICE 267855
+
+Bill To:
+Name: Paul Wilson
+Email: paul.wilson183@gmail.com
+Phone: 519-926-1834
+SSN: 158-97-2131
+
+Address: 5738 Spring Ave
+Los Angeles, FL
+
+Date of Birth: 02-10-1973
+
+Amount Due: $6048

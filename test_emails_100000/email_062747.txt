@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Jimenez,michelle.jimenez7956@outlook.com,566-221-8261,219227747,07/07/2000,"3732 Third St",Dallas,TX

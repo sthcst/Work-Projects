@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Anderson
+  email: lauren.anderson8538@example.com
+  phone: (895) 467-9743
+  ssn: 094-53-3945
+  dob: 09/02/1963
+  address: 10 Main Dr
+  city: Washington
+  state: IL

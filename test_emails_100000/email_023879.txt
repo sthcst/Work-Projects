@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Roberts",
+    "email": "ryan.roberts7716@example.com",
+    "phone": "574 601 2048",
+    "ssn": "818 72 1984",
+    "dob": "6/14/1998",
+    "address": "2667 Birch Rd",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

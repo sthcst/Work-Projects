@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Sanchez
+  email: jacob.sanchez9204@mail.com
+  phone: (454) 985-5105
+  ssn: 555 05 1789
+  dob: 01/10/1959
+  address: 8506 Summer Court
+  city: Jacksonville
+  state: CO

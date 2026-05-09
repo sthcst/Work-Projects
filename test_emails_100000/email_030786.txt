@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Stewart,rebecca.stewart5815@example.com,655-794-6683,692 98 7258,07-21-1956,"148 Summer Ave",Los Angeles,OH

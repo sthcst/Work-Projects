@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Morris",
+    "email": "kathleen.morris2312@example.com",
+    "phone": "740-254-2335",
+    "ssn": "313229733",
+    "dob": "02/15/1961",
+    "address": "148 Fourth Court",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

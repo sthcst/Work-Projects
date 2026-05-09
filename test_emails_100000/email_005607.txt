@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Peterson,daniel.peterson6507@example.com,+1 620-379-8947,921 97 1719,01-10-2001,"9098 North Way",Philadelphia,WA

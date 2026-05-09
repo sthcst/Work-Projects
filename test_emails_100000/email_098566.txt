@@ -1,0 +1,9 @@
+contact:
+  name: Richard Evans
+  email: richard.evans2482@business.net
+  phone: 423 858 1675
+  ssn: 403-10-4896
+  dob: 27/10/2001
+  address: 6453 Summer Dr
+  city: Chicago
+  state: MA

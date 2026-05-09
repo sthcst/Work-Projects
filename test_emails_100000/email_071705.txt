@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Flores
+  email: katherine.flores32@company.com
+  phone: +1 609-380-7116
+  ssn: 812696541
+  dob: 10-21-1992
+  address: 1333 South Ave
+  city: Boston
+  state: FL

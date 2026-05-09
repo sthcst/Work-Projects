@@ -1,0 +1,9 @@
+contact:
+  name: George Walker
+  email: george.walker8234@mail.com
+  phone: 677 732 9899
+  ssn: 338931889
+  dob: 22/12/1958
+  address: 7676 Oak Ave
+  city: San Diego
+  state: MD

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Bell",
+    "email": "edward.bell1739@gmail.com",
+    "phone": "664 578 9033",
+    "ssn": "327 84 7722",
+    "dob": "12/27/1976",
+    "address": "808 Pine Blvd",
+    "city": "Denver",
+    "state": "IL"
+  }
+}

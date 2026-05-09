@@ -1,0 +1,9 @@
+contact:
+  name: Christine Moore
+  email: christine.moore5168@business.net
+  phone: (388) 385-3046
+  ssn: 624-02-6435
+  dob: 04-21-1991
+  address: 7212 Main Dr
+  city: Washington
+  state: CA

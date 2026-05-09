@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Peterson",
+    "email": "donald.peterson2252@mail.com",
+    "phone": "819-221-8586",
+    "ssn": "620384608",
+    "dob": "2/1/1976",
+    "address": "765 Oak St",
+    "city": "Dallas",
+    "state": "MO"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Edwards",
+    "email": "david.edwards5277@company.com",
+    "phone": "212 975 5239",
+    "ssn": "553 07 1766",
+    "dob": "02/04/1969",
+    "address": "8863 First Ln",
+    "city": "Boston",
+    "state": "NC"
+  }
+}

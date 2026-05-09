@@ -1,0 +1,14 @@
+INVOICE 120034
+
+Bill To:
+Name: Nicole Carter
+Email: nicole.carter4256@work.org
+Phone: 892-826-5531
+SSN: 212-52-7192
+
+Address: 6076 Park Dr
+San Antonio, VA
+
+Date of Birth: 5/22/1994
+
+Amount Due: $1364

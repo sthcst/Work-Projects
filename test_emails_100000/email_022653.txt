@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Clark,maria.clark5886@example.com,(346) 289-5696,704855534,4/16/1972,"4952 West Ln",Dallas,TN

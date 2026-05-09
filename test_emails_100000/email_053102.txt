@@ -1,0 +1,14 @@
+INVOICE 543327
+
+Bill To:
+Name: James Taylor
+Email: james.taylor8298@outlook.com
+Phone: +1 618-347-7674
+SSN: 117-40-4571
+
+Address: 9398 Pine Way
+San Jose, MA
+
+Date of Birth: 05-25-1975
+
+Amount Due: $8170

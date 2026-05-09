@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Alvarado",
+    "email": "lauren.alvarado8585@yahoo.com",
+    "phone": "716-285-4564",
+    "ssn": "725-33-4343",
+    "dob": "05-06-1987",
+    "address": "3446 Second Rd",
+    "city": "San Diego",
+    "state": "DC"
+  }
+}

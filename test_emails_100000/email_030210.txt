@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Phillips",
+    "email": "kevin.phillips1523@work.org",
+    "phone": "(436) 300-8807",
+    "ssn": "727-27-1259",
+    "dob": "23/10/2000",
+    "address": "565 West Blvd",
+    "city": "Phoenix",
+    "state": "TN"
+  }
+}

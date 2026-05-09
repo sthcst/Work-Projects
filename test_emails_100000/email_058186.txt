@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Taylor,samantha.taylor2830@gmail.com,+1 431-298-7648,160-10-8009,09/18/1951,"7736 Pine Rd",Dallas,MA

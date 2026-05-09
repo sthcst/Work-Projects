@@ -1,0 +1,14 @@
+INVOICE 250228
+
+Bill To:
+Name: Nicholas Robinson
+Email: nicholas.robinson8168@mail.com
+Phone: 874-933-3363
+SSN: 426-80-7013
+
+Address: 114 Fourth Dr
+New York, CA
+
+Date of Birth: 10/05/1975
+
+Amount Due: $4276

@@ -1,0 +1,9 @@
+contact:
+  name: Christine Peterson
+  email: christine.peterson2785@company.com
+  phone: 437 512 8634
+  ssn: 554-49-8575
+  dob: 09/20/1955
+  address: 1376 Summer Ave
+  city: Austin
+  state: WA

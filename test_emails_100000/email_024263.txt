@@ -1,0 +1,14 @@
+INVOICE 583248
+
+Bill To:
+Name: David Cooper
+Email: david.cooper8646@mail.com
+Phone: 776-957-1962
+SSN: 187 26 7822
+
+Address: 8383 Second Ln
+Denver, MA
+
+Date of Birth: 12/02/1962
+
+Amount Due: $7107

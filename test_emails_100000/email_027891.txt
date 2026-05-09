@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Sanchez",
+    "email": "rebecca.sanchez207@company.com",
+    "phone": "838-343-6710",
+    "ssn": "567 93 6325",
+    "dob": "08/04/1995",
+    "address": "6591 Park Dr",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

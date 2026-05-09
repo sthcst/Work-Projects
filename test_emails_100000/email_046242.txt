@@ -1,0 +1,14 @@
+INVOICE 445317
+
+Bill To:
+Name: Timothy Lopez
+Email: timothy.lopez8215@example.com
+Phone: +1 911-777-6662
+SSN: 664 47 8225
+
+Address: 1644 Maple Blvd
+Philadelphia, TN
+
+Date of Birth: 1/12/1997
+
+Amount Due: $5484

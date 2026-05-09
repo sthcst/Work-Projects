@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Lopez",
+    "email": "john.lopez3412@business.net",
+    "phone": "(921) 482-2148",
+    "ssn": "018 32 2399",
+    "dob": "12-13-1987",
+    "address": "2409 Summer Rd",
+    "city": "Austin",
+    "state": "WA"
+  }
+}

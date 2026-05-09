@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Morgan,angela.morgan3950@business.net,467 457 4445,340743623,12/07/1965,"6882 Summer Rd",Phoenix,NJ

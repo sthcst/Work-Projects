@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Hernandez,ryan.hernandez6734@outlook.com,782-266-1505,680 76 6792,11/09/1981,"2443 Elm Ln",Seattle,CO

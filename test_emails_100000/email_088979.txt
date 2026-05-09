@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Nunez
+  email: ronald.nunez2549@yahoo.com
+  phone: +1 889-776-2741
+  ssn: 271 80 8624
+  dob: 06-07-1981
+  address: 5189 West Dr
+  city: Boston
+  state: WA

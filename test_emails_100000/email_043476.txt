@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Jones
+  email: anthony.jones4580@company.com
+  phone: 785 912 5776
+  ssn: 730389902
+  dob: 08/04/1994
+  address: 7598 Birch Court
+  city: Houston
+  state: WA

@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Ramirez
+  email: lauren.ramirez7284@example.com
+  phone: 567 770 5430
+  ssn: 306459798
+  dob: 11/19/1952
+  address: 5006 Park Court
+  city: Austin
+  state: WI

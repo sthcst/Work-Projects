@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Evans
+  email: kenneth.evans5464@business.net
+  phone: +1 514-474-8365
+  ssn: 081-49-1748
+  dob: 18/12/1986
+  address: 888 Birch Way
+  city: Boston
+  state: MA

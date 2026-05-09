@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Roberts",
+    "email": "nicholas.roberts8962@gmail.com",
+    "phone": "479-423-4997",
+    "ssn": "929 42 1404",
+    "dob": "02-10-1953",
+    "address": "2961 First Court",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

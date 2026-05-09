@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Carter,anthony.carter328@mail.com,755 667 1191,671 17 2395,09-07-1956,"9593 Cedar Dr",Washington,WA

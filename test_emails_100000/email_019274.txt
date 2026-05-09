@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Reed,anthony.reed8251@mail.com,(955) 262-3970,605-40-7909,05/26/1986,"8375 Cedar Blvd",Los Angeles,AZ

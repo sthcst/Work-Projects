@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Reed
+  email: joseph.reed5721@work.org
+  phone: (587) 333-2566
+  ssn: 770-27-2957
+  dob: 11/11/1963
+  address: 3669 Elm Ln
+  city: Dallas
+  state: MA

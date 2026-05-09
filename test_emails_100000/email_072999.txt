@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Harris",
+    "email": "charles.harris4920@gmail.com",
+    "phone": "+1 728-367-5684",
+    "ssn": "535126281",
+    "dob": "21/03/1987",
+    "address": "1643 East Ln",
+    "city": "Philadelphia",
+    "state": "CA"
+  }
+}

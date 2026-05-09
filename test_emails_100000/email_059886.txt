@@ -1,0 +1,9 @@
+contact:
+  name: John Morris
+  email: john.morris8626@mail.com
+  phone: 813 839 5286
+  ssn: 984-38-1743
+  dob: 23/07/1996
+  address: 7754 Cedar Court
+  city: San Antonio
+  state: TN

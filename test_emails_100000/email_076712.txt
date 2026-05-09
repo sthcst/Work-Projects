@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Rogers",
+    "email": "katherine.rogers6951@business.net",
+    "phone": "+1 220-242-6503",
+    "ssn": "172 05 5171",
+    "dob": "04-10-1995",
+    "address": "487 Pine Way",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

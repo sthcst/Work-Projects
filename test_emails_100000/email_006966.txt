@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Reeves",
+    "email": "brenda.reeves42@business.net",
+    "phone": "(299) 426-1609",
+    "ssn": "006647752",
+    "dob": "4/8/1992",
+    "address": "6850 Pine Ave",
+    "city": "Washington",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Moore",
+    "email": "john.moore831@business.net",
+    "phone": "859 920 9345",
+    "ssn": "134 80 3810",
+    "dob": "05-28-1996",
+    "address": "2187 Elm Rd",
+    "city": "Philadelphia",
+    "state": "NY"
+  }
+}

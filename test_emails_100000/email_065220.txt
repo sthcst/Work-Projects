@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Stewart",
+    "email": "jane.stewart4953@work.org",
+    "phone": "500 969 1454",
+    "ssn": "630154088",
+    "dob": "3/10/1980",
+    "address": "5057 South Court",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

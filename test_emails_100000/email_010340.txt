@@ -1,0 +1,9 @@
+contact:
+  name: Richard Jackson
+  email: richard.jackson6465@company.com
+  phone: 604-592-5084
+  ssn: 685-85-8760
+  dob: 11/19/1965
+  address: 2168 Elm Ave
+  city: San Antonio
+  state: AZ

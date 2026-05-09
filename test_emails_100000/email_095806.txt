@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Edwards",
+    "email": "steven.edwards2725@company.com",
+    "phone": "647-812-9721",
+    "ssn": "173-91-4134",
+    "dob": "04-23-1971",
+    "address": "3804 Oak Ave",
+    "city": "Dallas",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Ramirez",
+    "email": "charles.ramirez4735@outlook.com",
+    "phone": "+1 546-239-9403",
+    "ssn": "113-38-1495",
+    "dob": "4/18/1987",
+    "address": "8632 Birch Court",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

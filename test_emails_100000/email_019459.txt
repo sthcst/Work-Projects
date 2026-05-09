@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Clark
+  email: kimberly.clark3611@company.com
+  phone: (964) 730-9789
+  ssn: 396-90-5058
+  dob: 02-07-1987
+  address: 8620 Spring Blvd
+  city: Austin
+  state: TN

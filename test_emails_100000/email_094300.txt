@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Perez",
+    "email": "james.perez2397@example.com",
+    "phone": "810 538 1541",
+    "ssn": "697 39 4821",
+    "dob": "11/10/1983",
+    "address": "3519 Summer Ave",
+    "city": "Boston",
+    "state": "IL"
+  }
+}

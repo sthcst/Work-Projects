@@ -1,0 +1,14 @@
+INVOICE 207204
+
+Bill To:
+Name: Kevin Lee
+Email: kevin.lee8471@outlook.com
+Phone: 609 862 3718
+SSN: 200 60 8475
+
+Address: 3284 Summer Court
+San Antonio, PA
+
+Date of Birth: 22/01/1979
+
+Amount Due: $3095

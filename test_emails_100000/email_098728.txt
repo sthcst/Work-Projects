@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Collins",
+    "email": "emily.collins4908@business.net",
+    "phone": "294-341-7160",
+    "ssn": "184 94 5760",
+    "dob": "03-12-1990",
+    "address": "9381 Third Ln",
+    "city": "San Jose",
+    "state": "MI"
+  }
+}

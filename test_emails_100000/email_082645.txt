@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah White,deborah.white6729@gmail.com,380-562-7713,893 10 4245,12/16/1987,"1492 North Court",Los Angeles,TX

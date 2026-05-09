@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Reed",
+    "email": "ronald.reed6559@gmail.com",
+    "phone": "857 409 9007",
+    "ssn": "681-69-6053",
+    "dob": "6/5/1987",
+    "address": "6480 Park Court",
+    "city": "Washington",
+    "state": "WA"
+  }
+}

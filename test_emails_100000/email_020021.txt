@@ -1,0 +1,14 @@
+INVOICE 991516
+
+Bill To:
+Name: Joshua Nelson
+Email: joshua.nelson2832@example.com
+Phone: 265-826-7867
+SSN: 558 93 8362
+
+Address: 3517 Fourth Rd
+Seattle, MA
+
+Date of Birth: 03/10/1985
+
+Amount Due: $1381

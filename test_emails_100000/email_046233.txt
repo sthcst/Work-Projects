@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Lewis
+  email: lauren.lewis2993@mail.com
+  phone: +1 469-655-6512
+  ssn: 643 36 8564
+  dob: 6/4/1974
+  address: 9117 Maple Court
+  city: Chicago
+  state: WA

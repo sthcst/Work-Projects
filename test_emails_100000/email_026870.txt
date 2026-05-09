@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Morris,sarah.morris796@company.com,209-894-3918,152-28-4523,12/23/1964,"1668 Third Ave",Los Angeles,OH

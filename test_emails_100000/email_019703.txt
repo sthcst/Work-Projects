@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Johnson",
+    "email": "brenda.johnson3362@example.com",
+    "phone": "553 402 6932",
+    "ssn": "955 66 4749",
+    "dob": "02/09/1953",
+    "address": "2751 First Dr",
+    "city": "Boston",
+    "state": "TN"
+  }
+}

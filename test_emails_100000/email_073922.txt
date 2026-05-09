@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Martinez
+  email: jacob.martinez9274@business.net
+  phone: 323 635 5099
+  ssn: 658 07 7423
+  dob: 22/09/1972
+  address: 1347 South Blvd
+  city: Boston
+  state: WA

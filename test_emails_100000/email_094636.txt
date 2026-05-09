@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Taylor",
+    "email": "john.taylor4265@work.org",
+    "phone": "864-915-2926",
+    "ssn": "505836003",
+    "dob": "04/06/1970",
+    "address": "8765 First St",
+    "city": "Boston",
+    "state": "WA"
+  }
+}

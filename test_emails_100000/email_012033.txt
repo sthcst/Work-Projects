@@ -1,0 +1,9 @@
+contact:
+  name: Christine Nunez
+  email: christine.nunez1940@company.com
+  phone: (253) 414-6006
+  ssn: 530-68-5940
+  dob: 04/22/1990
+  address: 6975 Main Ln
+  city: Philadelphia
+  state: WA

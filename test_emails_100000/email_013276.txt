@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Ortiz",
+    "email": "jennifer.ortiz2326@work.org",
+    "phone": "380-974-1988",
+    "ssn": "048016792",
+    "dob": "24/04/1966",
+    "address": "8233 Elm Ave",
+    "city": "Austin",
+    "state": "MA"
+  }
+}

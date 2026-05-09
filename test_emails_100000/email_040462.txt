@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Guerrero",
+    "email": "angela.guerrero1107@yahoo.com",
+    "phone": "(847) 980-3263",
+    "ssn": "051309840",
+    "dob": "10/27/1995",
+    "address": "2868 Cedar Blvd",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Cooper,joseph.cooper376@business.net,237 861 7584,873-71-7697,03-10-2002,"3757 Oak Ln",Phoenix,CO

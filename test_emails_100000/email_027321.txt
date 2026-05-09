@@ -1,0 +1,14 @@
+INVOICE 693023
+
+Bill To:
+Name: John Williams
+Email: john.williams8164@yahoo.com
+Phone: 877 991 3737
+SSN: 404-67-9240
+
+Address: 5795 Third Ln
+Jacksonville, AZ
+
+Date of Birth: 03-16-1970
+
+Amount Due: $3047

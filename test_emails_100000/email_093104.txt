@@ -1,0 +1,9 @@
+contact:
+  name: Anna Clark
+  email: anna.clark7969@gmail.com
+  phone: +1 993-381-3164
+  ssn: 797 63 6070
+  dob: 11/23/1969
+  address: 6604 Main Court
+  city: San Diego
+  state: MI

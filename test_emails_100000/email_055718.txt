@@ -1,0 +1,9 @@
+contact:
+  name: Anna Hall
+  email: anna.hall1639@mail.com
+  phone: 874-584-7503
+  ssn: 832-02-9891
+  dob: 26/12/1971
+  address: 5839 East Ave
+  city: Dallas
+  state: WA

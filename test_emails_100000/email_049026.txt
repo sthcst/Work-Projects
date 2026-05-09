@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Bell,sarah.bell7123@example.com,495 866 8566,901501370,04-13-1974,"7985 Main Court",Denver,TN

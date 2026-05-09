@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Roberts,nicholas.roberts98@yahoo.com,220-330-1555,650-62-1086,8/18/2005,"144 East Way",Dallas,CA

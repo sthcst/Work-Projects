@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Lee",
+    "email": "andrew.lee9370@yahoo.com",
+    "phone": "+1 469-361-1194",
+    "ssn": "132 36 9601",
+    "dob": "04/03/1960",
+    "address": "3349 Elm Court",
+    "city": "San Diego",
+    "state": "NC"
+  }
+}

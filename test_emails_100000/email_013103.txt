@@ -1,0 +1,14 @@
+INVOICE 359114
+
+Bill To:
+Name: James Jackson
+Email: james.jackson8769@company.com
+Phone: +1 402-915-2899
+SSN: 602 05 2522
+
+Address: 9202 Spring St
+Seattle, MO
+
+Date of Birth: 01-25-1999
+
+Amount Due: $846

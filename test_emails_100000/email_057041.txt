@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Wilson",
+    "email": "angela.wilson9595@outlook.com",
+    "phone": "963-760-5794",
+    "ssn": "961102273",
+    "dob": "13/04/1955",
+    "address": "7939 Cedar Way",
+    "city": "San Diego",
+    "state": "PA"
+  }
+}

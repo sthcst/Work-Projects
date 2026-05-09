@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Smith,ashley.smith3800@gmail.com,854-357-2599,617 63 9026,10/19/1983,"4073 Oak Ln",Los Angeles,WA

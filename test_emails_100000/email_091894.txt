@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Brown",
+    "email": "jeffrey.brown8276@business.net",
+    "phone": "430 766 4278",
+    "ssn": "465-98-8924",
+    "dob": "09/22/1988",
+    "address": "7047 Maple Blvd",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

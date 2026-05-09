@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Dominguez
+  email: katherine.dominguez8769@company.com
+  phone: +1 340-814-8880
+  ssn: 504-67-8021
+  dob: 11/10/1971
+  address: 1433 Maple Court
+  city: Dallas
+  state: VA

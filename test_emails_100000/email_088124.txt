@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Campbell,james.campbell5815@outlook.com,(677) 856-7063,118 93 9984,02-26-1958,"4473 Summer Dr",Denver,TX

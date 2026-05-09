@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Brown,megan.brown8321@example.com,+1 646-378-1419,832 10 6372,04/11/1950,"1512 East Dr",Denver,CA

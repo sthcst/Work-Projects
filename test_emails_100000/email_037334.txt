@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Jackson,lauren.jackson4443@company.com,365-292-2049,255 25 2764,1/26/1979,"2725 Oak Court",Jacksonville,MI

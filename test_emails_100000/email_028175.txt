@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Nunez
+  email: pamela.nunez6502@example.com
+  phone: +1 344-823-6682
+  ssn: 927 72 7052
+  dob: 02/26/1952
+  address: 7367 Main Court
+  city: Austin
+  state: CA

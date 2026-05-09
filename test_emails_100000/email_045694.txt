@@ -1,0 +1,14 @@
+INVOICE 156638
+
+Bill To:
+Name: Joshua Thompson
+Email: joshua.thompson3209@yahoo.com
+Phone: +1 685-580-7841
+SSN: 269-25-4237
+
+Address: 425 Sixth Ave
+San Jose, TX
+
+Date of Birth: 12/08/2000
+
+Amount Due: $4051

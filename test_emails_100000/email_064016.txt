@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Stewart,stephanie.stewart6335@yahoo.com,337 859 1756,001 64 9193,05/07/1973,"316 Pine St",San Antonio,GA

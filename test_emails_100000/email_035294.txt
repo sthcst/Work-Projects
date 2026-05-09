@@ -1,0 +1,9 @@
+contact:
+  name: Jane Thomas
+  email: jane.thomas700@mail.com
+  phone: 238-787-3770
+  ssn: 465096446
+  dob: 5/18/1994
+  address: 2043 Summer Ln
+  city: Chicago
+  state: NJ

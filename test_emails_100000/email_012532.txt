@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Morgan",
+    "email": "rachel.morgan4819@gmail.com",
+    "phone": "(502) 238-1257",
+    "ssn": "594 82 8400",
+    "dob": "4/18/1995",
+    "address": "4758 Summer Ave",
+    "city": "Austin",
+    "state": "PA"
+  }
+}

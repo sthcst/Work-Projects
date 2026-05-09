@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Robinson,donald.robinson3861@mail.com,292-200-6891,957 34 4301,17/01/1995,"6889 Spring Rd",Los Angeles,WI

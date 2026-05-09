@@ -1,0 +1,14 @@
+INVOICE 752222
+
+Bill To:
+Name: Emily Jones
+Email: emily.jones2753@business.net
+Phone: 236-674-7058
+SSN: 746-28-2205
+
+Address: 4155 Spring Rd
+New York, TX
+
+Date of Birth: 25/07/1966
+
+Amount Due: $6583

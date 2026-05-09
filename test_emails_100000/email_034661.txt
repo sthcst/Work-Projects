@@ -1,0 +1,12 @@
+SUPPORT TICKET #52824
+
+Customer: Robert Stewart
+Email: robert.stewart6270@example.com
+Phone: 604-439-4974
+Account: 092 72 9054
+
+Issue Description: Technical problem reported
+DOB on file: 18/11/1962
+Address: 7733 Birch Rd, Chicago, WA
+
+Status: OPEN

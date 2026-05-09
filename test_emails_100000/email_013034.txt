@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Jackson
+  email: lauren.jackson1970@yahoo.com
+  phone: +1 872-224-1564
+  ssn: 212173565
+  dob: 5/17/1998
+  address: 5138 Third St
+  city: Seattle
+  state: TX

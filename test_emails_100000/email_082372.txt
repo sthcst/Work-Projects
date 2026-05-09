@@ -1,0 +1,14 @@
+INVOICE 396030
+
+Bill To:
+Name: Joshua Taylor
+Email: joshua.taylor8008@example.com
+Phone: 270-654-2984
+SSN: 953-25-8837
+
+Address: 443 Elm Dr
+Washington, NC
+
+Date of Birth: 27/12/1975
+
+Amount Due: $8124

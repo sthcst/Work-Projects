@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Williams
+  email: pamela.williams2272@gmail.com
+  phone: (686) 996-4961
+  ssn: 733601948
+  dob: 10/15/1950
+  address: 5901 Third Blvd
+  city: San Antonio
+  state: TX

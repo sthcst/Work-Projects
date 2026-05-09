@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Evans",
+    "email": "michael.evans7391@business.net",
+    "phone": "544-728-5167",
+    "ssn": "091-23-5636",
+    "dob": "02-17-1979",
+    "address": "2836 South Dr",
+    "city": "San Diego",
+    "state": "CO"
+  }
+}

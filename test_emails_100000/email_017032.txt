@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Reeves",
+    "email": "daniel.reeves4854@business.net",
+    "phone": "(486) 967-5280",
+    "ssn": "222317216",
+    "dob": "6/12/1999",
+    "address": "1484 Maple St",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

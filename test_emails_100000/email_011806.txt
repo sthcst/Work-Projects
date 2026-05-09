@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Ortiz",
+    "email": "michelle.ortiz283@gmail.com",
+    "phone": "(219) 600-7709",
+    "ssn": "963 48 4768",
+    "dob": "02-17-1996",
+    "address": "5687 Pine Ave",
+    "city": "Dallas",
+    "state": "WA"
+  }
+}

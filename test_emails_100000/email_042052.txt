@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Rogers",
+    "email": "mark.rogers4424@gmail.com",
+    "phone": "310 258 4479",
+    "ssn": "098 03 6608",
+    "dob": "06/04/1996",
+    "address": "8498 East Dr",
+    "city": "Philadelphia",
+    "state": "IL"
+  }
+}

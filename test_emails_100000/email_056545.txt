@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Moore",
+    "email": "ronald.moore7927@company.com",
+    "phone": "+1 433-972-7071",
+    "ssn": "691359357",
+    "dob": "03/18/1984",
+    "address": "498 Cedar Ln",
+    "city": "Philadelphia",
+    "state": "GA"
+  }
+}

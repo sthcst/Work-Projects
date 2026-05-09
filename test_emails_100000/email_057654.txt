@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Ramirez",
+    "email": "christopher.ramirez1183@mail.com",
+    "phone": "+1 724-237-8393",
+    "ssn": "554691755",
+    "dob": "09-07-1993",
+    "address": "652 Elm Rd",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

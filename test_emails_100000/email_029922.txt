@@ -1,0 +1,9 @@
+contact:
+  name: Jane Jackson
+  email: jane.jackson7684@example.com
+  phone: (422) 870-4087
+  ssn: 650-71-5428
+  dob: 03-01-1978
+  address: 1224 East Ave
+  city: Philadelphia
+  state: TX

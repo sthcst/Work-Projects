@@ -1,0 +1,14 @@
+INVOICE 487628
+
+Bill To:
+Name: Michelle Flores
+Email: michelle.flores5418@example.com
+Phone: 782 513 1848
+SSN: 165984527
+
+Address: 7635 East St
+Philadelphia, TX
+
+Date of Birth: 02-01-1968
+
+Amount Due: $860

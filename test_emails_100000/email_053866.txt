@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Robinson",
+    "email": "michael.robinson5531@gmail.com",
+    "phone": "(254) 795-5203",
+    "ssn": "378 20 4108",
+    "dob": "07-13-1962",
+    "address": "9316 Elm Blvd",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

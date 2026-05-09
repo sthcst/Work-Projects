@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Jones
+  email: kenneth.jones264@mail.com
+  phone: 424 986 1874
+  ssn: 240309876
+  dob: 2/5/1971
+  address: 5508 South Rd
+  city: Seattle
+  state: FL

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Morgan,maria.morgan3038@mail.com,(384) 397-9996,152-94-9159,08/05/1952,"1583 Fifth Dr",Los Angeles,FL

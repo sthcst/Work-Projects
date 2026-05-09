@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Reed,joshua.reed112@gmail.com,(840) 537-4606,749-27-5053,08/03/1995,"5441 Sixth Way",Houston,IL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Collins",
+    "email": "megan.collins5096@gmail.com",
+    "phone": "511-531-5480",
+    "ssn": "546465702",
+    "dob": "03/25/2002",
+    "address": "4149 Main St",
+    "city": "Phoenix",
+    "state": "GA"
+  }
+}

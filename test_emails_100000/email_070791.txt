@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Rodriguez",
+    "email": "david.rodriguez5544@mail.com",
+    "phone": "+1 566-619-7842",
+    "ssn": "869-50-2050",
+    "dob": "03-21-1968",
+    "address": "5495 Sixth Blvd",
+    "city": "Seattle",
+    "state": "WA"
+  }
+}

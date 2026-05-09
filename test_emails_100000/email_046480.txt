@@ -1,0 +1,14 @@
+INVOICE 772953
+
+Bill To:
+Name: Pamela Harris
+Email: pamela.harris9491@company.com
+Phone: 858-433-5344
+SSN: 884767038
+
+Address: 8506 Pine Blvd
+Jacksonville, MA
+
+Date of Birth: 08-27-1958
+
+Amount Due: $7788

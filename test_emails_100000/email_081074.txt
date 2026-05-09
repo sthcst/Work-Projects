@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Thomas,timothy.thomas5376@example.com,819 774 2754,652 07 5392,10/02/2004,"8480 Birch Rd",Philadelphia,AZ

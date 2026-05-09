@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Young",
+    "email": "anna.young2865@gmail.com",
+    "phone": "(201) 524-2842",
+    "ssn": "718 22 5791",
+    "dob": "21/08/1954",
+    "address": "5491 Fourth Ave",
+    "city": "San Jose",
+    "state": "AZ"
+  }
+}

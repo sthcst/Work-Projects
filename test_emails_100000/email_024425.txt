@@ -1,0 +1,14 @@
+INVOICE 511162
+
+Bill To:
+Name: William Thompson
+Email: william.thompson1868@work.org
+Phone: (676) 864-3381
+SSN: 964793895
+
+Address: 4752 South Rd
+Los Angeles, MD
+
+Date of Birth: 18/06/1986
+
+Amount Due: $1516

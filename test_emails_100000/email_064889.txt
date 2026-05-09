@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Cooper",
+    "email": "jason.cooper258@mail.com",
+    "phone": "302-498-3988",
+    "ssn": "680652497",
+    "dob": "7/20/1970",
+    "address": "3764 First Ln",
+    "city": "Washington",
+    "state": "CO"
+  }
+}

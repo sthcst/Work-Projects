@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Martin,kenneth.martin5595@yahoo.com,957 720 1790,625-81-8089,2/23/2002,"7845 Main Dr",Los Angeles,MA

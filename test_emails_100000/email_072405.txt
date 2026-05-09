@@ -1,0 +1,12 @@
+SUPPORT TICKET #69452
+
+Customer: Christopher Johnson
+Email: christopher.johnson5121@example.com
+Phone: 412 213 9436
+Account: 545965040
+
+Issue Description: Technical problem reported
+DOB on file: 11/21/1957
+Address: 898 Park Dr, New York, CA
+
+Status: OPEN

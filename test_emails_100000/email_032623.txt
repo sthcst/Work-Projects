@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Garcia",
+    "email": "nicole.garcia3377@outlook.com",
+    "phone": "+1 203-566-5082",
+    "ssn": "020-83-3089",
+    "dob": "10/09/1988",
+    "address": "5532 Cedar Court",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

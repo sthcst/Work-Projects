@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Gomez",
+    "email": "lisa.gomez9182@example.com",
+    "phone": "(492) 899-9227",
+    "ssn": "203941756",
+    "dob": "07/02/1978",
+    "address": "6267 Fifth Dr",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Phillips,richard.phillips5654@company.com,962-979-4098,729383923,5/12/1992,"8871 Birch Way",San Antonio,DC

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Delgado",
+    "email": "katherine.delgado8084@business.net",
+    "phone": "735 942 6550",
+    "ssn": "175 41 6968",
+    "dob": "12/16/1976",
+    "address": "5333 Cedar Ave",
+    "city": "San Diego",
+    "state": "MI"
+  }
+}

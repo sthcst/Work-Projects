@@ -1,0 +1,14 @@
+INVOICE 827244
+
+Bill To:
+Name: Emily Phillips
+Email: emily.phillips9821@mail.com
+Phone: 753 335 1235
+SSN: 286468434
+
+Address: 2286 Second Dr
+Seattle, WA
+
+Date of Birth: 12/9/1965
+
+Amount Due: $3795

@@ -1,0 +1,14 @@
+INVOICE 218427
+
+Bill To:
+Name: Mark Peterson
+Email: mark.peterson9300@outlook.com
+Phone: 814 330 8588
+SSN: 362609897
+
+Address: 8353 First St
+Austin, CA
+
+Date of Birth: 5/27/1984
+
+Amount Due: $7400

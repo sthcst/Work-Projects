@@ -1,0 +1,9 @@
+contact:
+  name: Anna Lopez
+  email: anna.lopez4371@mail.com
+  phone: 782 946 8429
+  ssn: 934 31 4072
+  dob: 06-13-1991
+  address: 2538 Birch St
+  city: Washington
+  state: NC

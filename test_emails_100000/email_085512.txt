@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Thomas",
+    "email": "robert.thomas429@outlook.com",
+    "phone": "(667) 508-3151",
+    "ssn": "389 38 5920",
+    "dob": "12/22/2003",
+    "address": "2493 Sixth Ln",
+    "city": "Chicago",
+    "state": "GA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Davis",
+    "email": "michelle.davis6921@mail.com",
+    "phone": "(441) 681-8476",
+    "ssn": "854-28-8265",
+    "dob": "12/03/1966",
+    "address": "7598 Cedar Blvd",
+    "city": "Philadelphia",
+    "state": "IL"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Ramirez,ronald.ramirez1925@mail.com,301-379-3303,437-96-4949,04/16/1989,"8500 Pine Blvd",San Jose,CA

@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Rogers
+  email: lauren.rogers5118@company.com
+  phone: 779-795-6272
+  ssn: 302-35-6423
+  dob: 11/02/1961
+  address: 889 Birch Ave
+  city: Dallas
+  state: MI

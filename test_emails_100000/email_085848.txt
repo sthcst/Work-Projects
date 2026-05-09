@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Morgan
+  email: joseph.morgan8245@example.com
+  phone: +1 224-803-8497
+  ssn: 048-43-7208
+  dob: 03-21-1952
+  address: 6388 South Dr
+  city: San Antonio
+  state: TX

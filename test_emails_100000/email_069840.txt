@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Brown",
+    "email": "nicholas.brown9175@example.com",
+    "phone": "994 202 6633",
+    "ssn": "839575404",
+    "dob": "08/03/1950",
+    "address": "6213 Second Dr",
+    "city": "Houston",
+    "state": "PA"
+  }
+}

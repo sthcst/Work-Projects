@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Murillo
+  email: ryan.murillo1776@example.com
+  phone: (220) 419-5813
+  ssn: 971-96-4117
+  dob: 12/12/1993
+  address: 6632 East Rd
+  city: Washington
+  state: NC

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Young",
+    "email": "ronald.young2941@example.com",
+    "phone": "655 281 4517",
+    "ssn": "367752640",
+    "dob": "09/11/1968",
+    "address": "7574 Spring Ln",
+    "city": "Chicago",
+    "state": "MI"
+  }
+}

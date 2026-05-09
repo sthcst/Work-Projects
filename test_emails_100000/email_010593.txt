@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Brown
+  email: katherine.brown4900@company.com
+  phone: +1 278-989-6384
+  ssn: 892 49 3066
+  dob: 8/20/1957
+  address: 7641 Maple St
+  city: Seattle
+  state: MA

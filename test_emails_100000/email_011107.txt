@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Perez
+  email: shirley.perez4325@mail.com
+  phone: 293-547-5712
+  ssn: 939209685
+  dob: 01/01/1969
+  address: 4668 East Court
+  city: Dallas
+  state: AZ

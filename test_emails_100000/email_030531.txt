@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Gomez",
+    "email": "helen.gomez5484@outlook.com",
+    "phone": "420 744 1777",
+    "ssn": "093-22-4974",
+    "dob": "9/14/1951",
+    "address": "8533 Pine Way",
+    "city": "Seattle",
+    "state": "CO"
+  }
+}

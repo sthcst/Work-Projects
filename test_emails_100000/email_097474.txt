@@ -1,0 +1,9 @@
+contact:
+  name: Paul Reyes
+  email: paul.reyes625@yahoo.com
+  phone: 463 991 4236
+  ssn: 889 25 9669
+  dob: 6/8/1965
+  address: 9075 West Court
+  city: Washington
+  state: MA

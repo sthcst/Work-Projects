@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Jimenez",
+    "email": "donald.jimenez9139@mail.com",
+    "phone": "+1 961-968-8489",
+    "ssn": "711378636",
+    "dob": "16/11/1965",
+    "address": "7523 Second Court",
+    "city": "Houston",
+    "state": "CA"
+  }
+}

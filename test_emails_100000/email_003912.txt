@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Evans,samantha.evans6711@mail.com,349 225 7704,386-57-2775,05-20-1967,"3849 Summer Blvd",Dallas,AZ

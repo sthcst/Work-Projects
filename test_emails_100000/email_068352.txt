@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Lewis
+  email: katherine.lewis47@outlook.com
+  phone: (339) 271-6059
+  ssn: 651-59-3782
+  dob: 08/26/1985
+  address: 2453 Oak Way
+  city: San Antonio
+  state: GA

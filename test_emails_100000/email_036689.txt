@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Jimenez",
+    "email": "katherine.jimenez1677@mail.com",
+    "phone": "389-282-4056",
+    "ssn": "931 10 8669",
+    "dob": "11-13-1975",
+    "address": "6931 Oak Rd",
+    "city": "San Antonio",
+    "state": "FL"
+  }
+}

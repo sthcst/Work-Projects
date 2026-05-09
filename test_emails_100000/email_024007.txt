@@ -1,0 +1,14 @@
+INVOICE 616845
+
+Bill To:
+Name: Michelle Moore
+Email: michelle.moore2331@company.com
+Phone: 694 530 8778
+SSN: 536 95 9402
+
+Address: 2350 North Ln
+Boston, CA
+
+Date of Birth: 02-12-1999
+
+Amount Due: $8787

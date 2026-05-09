@@ -1,0 +1,9 @@
+contact:
+  name: James Anderson
+  email: james.anderson1929@mail.com
+  phone: +1 758-664-3103
+  ssn: 246-75-1983
+  dob: 08-04-1970
+  address: 8460 East St
+  city: Philadelphia
+  state: MA

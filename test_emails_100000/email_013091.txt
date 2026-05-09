@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Harris
+  email: stephanie.harris474@outlook.com
+  phone: +1 825-433-6164
+  ssn: 470532266
+  dob: 07/13/1995
+  address: 1465 Park Dr
+  city: San Jose
+  state: MA

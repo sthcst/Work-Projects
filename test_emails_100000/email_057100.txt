@@ -1,0 +1,9 @@
+contact:
+  name: George Peterson
+  email: george.peterson4337@outlook.com
+  phone: +1 735-654-1274
+  ssn: 052 50 3857
+  dob: 10/25/1957
+  address: 1308 Pine Ln
+  city: Austin
+  state: PA

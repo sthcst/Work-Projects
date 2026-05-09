@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Gonzalez,angela.gonzalez5114@gmail.com,945 940 5559,624-04-7323,06/07/1969,"9851 Birch Way",Chicago,NJ

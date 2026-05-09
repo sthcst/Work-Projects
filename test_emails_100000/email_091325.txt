@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Williams,daniel.williams5357@gmail.com,(870) 826-8508,330879297,03/05/1986,"8434 Oak Rd",Boston,TX

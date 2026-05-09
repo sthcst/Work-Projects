@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Martinez
+  email: deborah.martinez3928@example.com
+  phone: +1 246-393-9731
+  ssn: 636 21 6690
+  dob: 05/02/1990
+  address: 8904 North Dr
+  city: San Jose
+  state: VA

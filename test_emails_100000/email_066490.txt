@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Nelson",
+    "email": "michelle.nelson2740@business.net",
+    "phone": "689 368 8884",
+    "ssn": "535 64 8118",
+    "dob": "10/24/1954",
+    "address": "4698 Park Dr",
+    "city": "Denver",
+    "state": "MA"
+  }
+}

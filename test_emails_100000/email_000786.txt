@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Gonzalez,david.gonzalez232@work.org,359-605-2634,363834641,11/18/1990,"1478 Second Way",Dallas,GA

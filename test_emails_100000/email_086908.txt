@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Lee",
+    "email": "james.lee5659@example.com",
+    "phone": "847-288-7201",
+    "ssn": "394267338",
+    "dob": "09/05/1964",
+    "address": "6588 Second St",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

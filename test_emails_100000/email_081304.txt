@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Gomez,megan.gomez116@business.net,892 946 7119,266-65-7970,2/11/1971,"2275 Oak Ave",San Antonio,WA

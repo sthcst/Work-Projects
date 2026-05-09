@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Garcia",
+    "email": "ashley.garcia322@business.net",
+    "phone": "(605) 850-1441",
+    "ssn": "413-04-4337",
+    "dob": "05/03/1997",
+    "address": "5227 Spring Court",
+    "city": "Phoenix",
+    "state": "AZ"
+  }
+}

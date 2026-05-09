@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Hernandez,megan.hernandez1936@yahoo.com,732-960-7702,348 82 4632,07-04-1996,"498 South Rd",Washington,IL

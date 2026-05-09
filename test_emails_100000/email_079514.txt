@@ -1,0 +1,14 @@
+INVOICE 330734
+
+Bill To:
+Name: Michelle Smith
+Email: michelle.smith7892@business.net
+Phone: +1 264-688-1517
+SSN: 153-67-6137
+
+Address: 3236 Park Dr
+Dallas, AZ
+
+Date of Birth: 15/07/1975
+
+Amount Due: $1777

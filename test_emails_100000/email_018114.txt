@@ -1,0 +1,14 @@
+INVOICE 738414
+
+Bill To:
+Name: Sarah Dominguez
+Email: sarah.dominguez8562@mail.com
+Phone: 901 914 4039
+SSN: 199 71 5991
+
+Address: 8481 South Blvd
+San Jose, MA
+
+Date of Birth: 10/23/1975
+
+Amount Due: $8599

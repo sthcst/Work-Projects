@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Phillips
+  email: ronald.phillips6628@yahoo.com
+  phone: +1 526-706-9547
+  ssn: 230235646
+  dob: 11/05/1951
+  address: 7884 Birch Ln
+  city: Chicago
+  state: MA

@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Cooper
+  email: kathleen.cooper7131@yahoo.com
+  phone: 558 574 6456
+  ssn: 063362594
+  dob: 28/06/1979
+  address: 2899 Fifth Ln
+  city: Boston
+  state: NC

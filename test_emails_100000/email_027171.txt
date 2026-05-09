@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Moore",
+    "email": "james.moore8826@business.net",
+    "phone": "(702) 587-6072",
+    "ssn": "071-39-7506",
+    "dob": "08-13-1987",
+    "address": "3521 Summer Ln",
+    "city": "Houston",
+    "state": "WI"
+  }
+}

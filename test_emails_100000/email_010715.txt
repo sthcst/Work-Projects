@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Davis,stephanie.davis3157@gmail.com,+1 571-625-3314,064614165,04/15/1969,"7339 First Ave",Chicago,PA

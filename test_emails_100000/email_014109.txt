@@ -1,0 +1,14 @@
+INVOICE 802659
+
+Bill To:
+Name: John Gonzalez
+Email: john.gonzalez5896@business.net
+Phone: 380-362-7560
+SSN: 858059117
+
+Address: 3037 Cedar St
+Washington, TX
+
+Date of Birth: 08-06-1987
+
+Amount Due: $3320

@@ -1,0 +1,9 @@
+contact:
+  name: Jason Miller
+  email: jason.miller8481@outlook.com
+  phone: 647-641-4051
+  ssn: 233 23 5619
+  dob: 7/26/1993
+  address: 4692 Third St
+  city: Chicago
+  state: AZ

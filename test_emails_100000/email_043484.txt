@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Bell,amanda.bell573@company.com,+1 851-740-3706,162-99-3416,5/22/1960,"6314 North Ave",Washington,AZ

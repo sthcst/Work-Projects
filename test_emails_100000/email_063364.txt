@@ -1,0 +1,9 @@
+contact:
+  name: Michael Jackson
+  email: michael.jackson2601@outlook.com
+  phone: 566-715-4621
+  ssn: 758887452
+  dob: 16/09/1991
+  address: 9968 Summer Court
+  city: Philadelphia
+  state: WA

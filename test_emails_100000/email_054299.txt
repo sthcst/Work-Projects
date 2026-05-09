@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Ortiz,ryan.ortiz2171@business.net,(592) 618-3575,300-95-4289,09/07/1973,"1216 Fifth Dr",Los Angeles,TX

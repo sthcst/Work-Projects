@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Murillo",
+    "email": "ashley.murillo2955@business.net",
+    "phone": "(640) 278-9535",
+    "ssn": "425 03 3234",
+    "dob": "02/05/1982",
+    "address": "6327 West Ln",
+    "city": "New York",
+    "state": "FL"
+  }
+}

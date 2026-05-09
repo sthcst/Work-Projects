@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Flores,katherine.flores7246@business.net,450-471-4018,739 18 6576,07-06-1952,"1748 Maple Rd",New York,CO

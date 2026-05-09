@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Gomez,jane.gomez5923@yahoo.com,(339) 945-1583,969031016,7/9/1999,"2833 First St",Boston,MA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Carter,anthony.carter1190@business.net,593-738-1198,549 51 8747,6/12/1996,"4710 East Ave",Los Angeles,CA

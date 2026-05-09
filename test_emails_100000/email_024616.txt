@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Moore",
+    "email": "paul.moore4437@mail.com",
+    "phone": "258-352-8699",
+    "ssn": "141849630",
+    "dob": "10/20/1987",
+    "address": "6347 West St",
+    "city": "Houston",
+    "state": "NJ"
+  }
+}

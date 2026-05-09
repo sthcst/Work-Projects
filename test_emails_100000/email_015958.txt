@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Peterson",
+    "email": "jennifer.peterson3741@outlook.com",
+    "phone": "420-286-6368",
+    "ssn": "904-78-9417",
+    "dob": "07/15/2005",
+    "address": "7467 Main Way",
+    "city": "San Diego",
+    "state": "NC"
+  }
+}

@@ -1,0 +1,12 @@
+SUPPORT TICKET #60285
+
+Customer: Brian Rodriguez
+Email: brian.rodriguez3829@example.com
+Phone: 391-759-2062
+Account: 774-96-8705
+
+Issue Description: Technical problem reported
+DOB on file: 10/5/1950
+Address: 9526 Fourth Court, Chicago, DC
+
+Status: OPEN

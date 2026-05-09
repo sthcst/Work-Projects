@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Thompson,joseph.thompson2420@business.net,+1 303-907-5829,884 09 6365,06/15/1963,"405 Elm Dr",Dallas,CA

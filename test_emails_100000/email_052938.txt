@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Davis",
+    "email": "brenda.davis1742@gmail.com",
+    "phone": "415 372 5585",
+    "ssn": "277 46 5216",
+    "dob": "08/11/1994",
+    "address": "6492 Sixth Ln",
+    "city": "Phoenix",
+    "state": "VA"
+  }
+}

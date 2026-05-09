@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Guerrero
+  email: deborah.guerrero9891@company.com
+  phone: 799-393-6244
+  ssn: 238-30-6204
+  dob: 10/09/1991
+  address: 4138 Birch Dr
+  city: San Antonio
+  state: FL

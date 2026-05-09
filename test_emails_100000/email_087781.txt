@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Nelson,anthony.nelson7389@mail.com,(472) 255-7985,276 82 9304,02-07-1988,"784 Fifth Court",Chicago,WA

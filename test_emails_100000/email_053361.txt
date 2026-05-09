@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Lee,michelle.lee9257@yahoo.com,+1 349-712-7756,060 86 3212,03-20-1963,"8475 Cedar Ln",San Jose,CA

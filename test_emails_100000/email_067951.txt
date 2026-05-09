@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Sanchez
+  email: timothy.sanchez1256@company.com
+  phone: (295) 601-5624
+  ssn: 213 28 9694
+  dob: 7/1/1952
+  address: 9851 Pine Ave
+  city: San Jose
+  state: DC

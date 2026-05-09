@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Harris
+  email: timothy.harris3702@business.net
+  phone: 383 288 2953
+  ssn: 501991102
+  dob: 4/21/1981
+  address: 4644 Oak Way
+  city: Denver
+  state: CA

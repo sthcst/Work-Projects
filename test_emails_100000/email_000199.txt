@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Morgan
+  email: stephanie.morgan1467@company.com
+  phone: (711) 293-6544
+  ssn: 954-98-1983
+  dob: 06/21/1959
+  address: 2071 Second Ln
+  city: Austin
+  state: GA

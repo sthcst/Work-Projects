@@ -1,0 +1,9 @@
+contact:
+  name: Emma Reeves
+  email: emma.reeves8912@yahoo.com
+  phone: +1 451-811-6648
+  ssn: 506 50 4785
+  dob: 06/08/1966
+  address: 6265 Second Way
+  city: Chicago
+  state: FL

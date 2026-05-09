@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Alvarado",
+    "email": "nicholas.alvarado2992@gmail.com",
+    "phone": "971-592-8805",
+    "ssn": "949-78-7911",
+    "dob": "11/23/1970",
+    "address": "6127 Fifth Rd",
+    "city": "New York",
+    "state": "TX"
+  }
+}

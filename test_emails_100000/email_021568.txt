@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Harris,lisa.harris1239@gmail.com,656 588 4390,978-87-4997,08/11/1972,"1859 Sixth Dr",Seattle,CA

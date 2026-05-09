@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Clark,maria.clark8103@yahoo.com,(869) 828-3587,796229412,6/24/1993,"2778 Summer Ave",New York,TX

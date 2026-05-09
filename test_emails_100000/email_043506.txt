@@ -1,0 +1,14 @@
+INVOICE 556466
+
+Bill To:
+Name: Amanda Sanchez
+Email: amanda.sanchez9895@example.com
+Phone: +1 923-951-9382
+SSN: 565-22-4492
+
+Address: 4976 First Court
+Washington, TX
+
+Date of Birth: 11/07/2000
+
+Amount Due: $6996

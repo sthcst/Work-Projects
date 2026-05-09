@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Parker",
+    "email": "jacob.parker7472@company.com",
+    "phone": "991-610-1878",
+    "ssn": "163-03-8251",
+    "dob": "06-28-2004",
+    "address": "8590 South Court",
+    "city": "San Antonio",
+    "state": "PA"
+  }
+}

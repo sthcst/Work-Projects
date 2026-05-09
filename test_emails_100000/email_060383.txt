@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Carter
+  email: jennifer.carter8022@mail.com
+  phone: 402-822-5183
+  ssn: 875-50-9225
+  dob: 11-27-1959
+  address: 3278 Summer Ave
+  city: Houston
+  state: MI

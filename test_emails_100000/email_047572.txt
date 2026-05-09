@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Flores",
+    "email": "donald.flores3677@outlook.com",
+    "phone": "308 569 7798",
+    "ssn": "984-78-5023",
+    "dob": "2/15/1995",
+    "address": "3822 First Ln",
+    "city": "Washington",
+    "state": "NC"
+  }
+}

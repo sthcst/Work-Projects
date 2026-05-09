@@ -1,0 +1,14 @@
+INVOICE 700873
+
+Bill To:
+Name: Lisa Reyes
+Email: lisa.reyes1597@yahoo.com
+Phone: 284 473 3631
+SSN: 163 42 8914
+
+Address: 1215 Sixth Rd
+Seattle, CA
+
+Date of Birth: 04/01/1965
+
+Amount Due: $1519

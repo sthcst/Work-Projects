@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Rogers",
+    "email": "christine.rogers8007@example.com",
+    "phone": "(201) 941-1024",
+    "ssn": "193515918",
+    "dob": "15/09/1993",
+    "address": "2780 First Way",
+    "city": "Austin",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Peterson,steven.peterson2275@company.com,+1 735-461-1017,259 65 6088,02/14/1957,"9121 Birch Way",San Antonio,MI

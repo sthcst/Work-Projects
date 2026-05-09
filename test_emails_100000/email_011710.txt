@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Brown,emily.brown9569@business.net,917-486-7915,688-22-1818,03-28-2001,"6138 Second Court",Los Angeles,GA

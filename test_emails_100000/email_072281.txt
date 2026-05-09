@@ -1,0 +1,9 @@
+contact:
+  name: David Serrano
+  email: david.serrano7929@work.org
+  phone: (795) 293-1865
+  ssn: 166317267
+  dob: 11/06/1987
+  address: 1616 Fifth Blvd
+  city: Phoenix
+  state: NJ

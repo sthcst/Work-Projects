@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Martin,steven.martin353@company.com,+1 547-536-1131,363-55-5997,11/10/1980,"7747 East Ave",Boston,NJ

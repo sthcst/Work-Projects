@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Thomas,nicole.thomas852@mail.com,(247) 850-9236,733-76-5213,12/11/1991,"2297 Fifth Way",New York,PA

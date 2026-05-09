@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Guerrero",
+    "email": "andrew.guerrero8031@yahoo.com",
+    "phone": "446 595 7172",
+    "ssn": "391563398",
+    "dob": "14/11/1967",
+    "address": "2998 Pine Court",
+    "city": "New York",
+    "state": "IL"
+  }
+}

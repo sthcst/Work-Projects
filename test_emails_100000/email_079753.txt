@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Ramirez",
+    "email": "amanda.ramirez8255@yahoo.com",
+    "phone": "267-676-5593",
+    "ssn": "184-02-1738",
+    "dob": "11/26/1952",
+    "address": "5077 Fifth Blvd",
+    "city": "Denver",
+    "state": "CO"
+  }
+}

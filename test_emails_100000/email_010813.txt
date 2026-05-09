@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Williams",
+    "email": "donald.williams8771@example.com",
+    "phone": "345-635-7312",
+    "ssn": "038 66 5112",
+    "dob": "05-03-1992",
+    "address": "6527 Maple Dr",
+    "city": "San Jose",
+    "state": "WI"
+  }
+}

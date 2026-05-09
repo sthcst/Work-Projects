@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Gonzalez
+  email: jacob.gonzalez1820@mail.com
+  phone: 356 991 6548
+  ssn: 031 96 7078
+  dob: 2/27/1982
+  address: 7693 Third St
+  city: San Jose
+  state: OH

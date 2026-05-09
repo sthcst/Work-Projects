@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Jimenez,david.jimenez6527@mail.com,(491) 318-4336,663 53 4539,11/22/1987,"2384 Oak Court",Denver,OH

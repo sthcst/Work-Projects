@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Serrano,sarah.serrano321@work.org,299-878-5358,829018575,02/07/1993,"438 Oak Blvd",Washington,FL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Murillo",
+    "email": "edward.murillo4143@business.net",
+    "phone": "577-504-7791",
+    "ssn": "973 28 5309",
+    "dob": "09/02/2000",
+    "address": "8455 Elm Ave",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

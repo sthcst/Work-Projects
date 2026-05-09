@@ -1,0 +1,9 @@
+contact:
+  name: Donald Roberts
+  email: donald.roberts1746@example.com
+  phone: 408 805 6270
+  ssn: 322 68 5596
+  dob: 08/02/1957
+  address: 874 First Court
+  city: Boston
+  state: MI

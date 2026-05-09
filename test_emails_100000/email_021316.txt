@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Parker,robert.parker5931@gmail.com,(696) 614-2275,905-06-9278,04/07/1987,"9670 Birch Way",Los Angeles,TX

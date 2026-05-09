@@ -1,0 +1,9 @@
+contact:
+  name: Anna Morris
+  email: anna.morris8776@company.com
+  phone: +1 829-629-4522
+  ssn: 641-46-3438
+  dob: 7/26/1964
+  address: 8095 Elm Blvd
+  city: San Diego
+  state: CA

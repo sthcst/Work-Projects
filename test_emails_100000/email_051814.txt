@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Jackson",
+    "email": "mark.jackson1773@company.com",
+    "phone": "(809) 569-7050",
+    "ssn": "570-96-4277",
+    "dob": "11/14/1989",
+    "address": "9334 Sixth Court",
+    "city": "Washington",
+    "state": "GA"
+  }
+}

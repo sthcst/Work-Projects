@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Guerrero",
+    "email": "jacob.guerrero9340@business.net",
+    "phone": "(986) 371-5073",
+    "ssn": "188536765",
+    "dob": "02-19-1970",
+    "address": "7607 Main St",
+    "city": "Los Angeles",
+    "state": "AZ"
+  }
+}

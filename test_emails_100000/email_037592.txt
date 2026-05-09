@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Romero,nicholas.romero6171@example.com,290 830 6230,015-44-8552,01/02/1965,"1977 South Ave",Jacksonville,WA

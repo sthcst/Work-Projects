@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Hernandez
+  email: stephanie.hernandez9183@example.com
+  phone: 275-723-8233
+  ssn: 558-40-9995
+  dob: 9/8/1990
+  address: 4506 Main Blvd
+  city: San Jose
+  state: NJ

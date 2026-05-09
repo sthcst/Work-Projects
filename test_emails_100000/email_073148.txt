@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Perez,stephanie.perez8374@yahoo.com,950 532 9618,217 83 4481,04/04/1995,"7339 Birch St",Philadelphia,TX

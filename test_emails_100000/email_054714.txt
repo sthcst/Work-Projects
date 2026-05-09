@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Edwards
+  email: andrew.edwards6895@yahoo.com
+  phone: +1 565-300-1975
+  ssn: 681-98-5512
+  dob: 12/23/1994
+  address: 386 Cedar Rd
+  city: Denver
+  state: TN

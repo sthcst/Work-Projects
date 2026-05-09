@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Gonzalez,emily.gonzalez3930@outlook.com,846-832-3303,013-15-1312,5/27/1993,"308 Spring Blvd",San Jose,NJ

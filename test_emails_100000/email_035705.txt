@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Moore",
+    "email": "edward.moore2488@business.net",
+    "phone": "499-646-4522",
+    "ssn": "814031424",
+    "dob": "10/05/1958",
+    "address": "8702 Elm Dr",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

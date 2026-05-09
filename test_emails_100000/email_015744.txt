@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Carter",
+    "email": "emma.carter2319@gmail.com",
+    "phone": "432 494 8160",
+    "ssn": "089-88-6779",
+    "dob": "9/28/1985",
+    "address": "7119 East Rd",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

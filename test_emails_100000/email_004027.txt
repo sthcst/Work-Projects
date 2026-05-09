@@ -1,0 +1,9 @@
+contact:
+  name: James Robinson
+  email: james.robinson3747@mail.com
+  phone: 590-643-4243
+  ssn: 808 15 9409
+  dob: 10-18-1964
+  address: 2006 Birch Dr
+  city: Jacksonville
+  state: TN

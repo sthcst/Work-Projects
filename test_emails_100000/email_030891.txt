@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Martinez,charles.martinez7525@work.org,(272) 702-7895,793 34 8204,09/04/1998,"1218 Summer Blvd",Houston,MO

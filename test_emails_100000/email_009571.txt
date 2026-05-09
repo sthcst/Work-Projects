@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Taylor,amanda.taylor1244@business.net,+1 931-351-6280,331 06 2093,02/21/1975,"773 Spring Ln",Austin,GA

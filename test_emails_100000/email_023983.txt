@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Murillo,george.murillo1154@outlook.com,474-367-5301,043-71-8379,06/08/1962,"9814 First St",Jacksonville,FL

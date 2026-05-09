@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Lopez",
+    "email": "jennifer.lopez1115@yahoo.com",
+    "phone": "+1 646-660-1838",
+    "ssn": "650591628",
+    "dob": "16/02/1995",
+    "address": "1977 Park Ave",
+    "city": "Austin",
+    "state": "VA"
+  }
+}

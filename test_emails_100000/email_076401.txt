@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Romero
+  email: kevin.romero2741@outlook.com
+  phone: +1 450-230-2633
+  ssn: 755484945
+  dob: 03-16-2000
+  address: 5208 Oak Rd
+  city: San Antonio
+  state: AZ

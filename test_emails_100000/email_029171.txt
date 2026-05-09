@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Anderson
+  email: shirley.anderson489@outlook.com
+  phone: +1 564-400-9561
+  ssn: 019808635
+  dob: 09/16/2002
+  address: 9322 Park Way
+  city: Philadelphia
+  state: WA

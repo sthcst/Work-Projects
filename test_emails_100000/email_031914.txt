@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Thompson
+  email: stephanie.thompson8782@company.com
+  phone: 560 315 2282
+  ssn: 906 71 4654
+  dob: 5/19/1985
+  address: 9308 Maple Blvd
+  city: New York
+  state: CA

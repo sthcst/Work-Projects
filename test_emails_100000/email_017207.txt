@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Evans",
+    "email": "michael.evans6970@gmail.com",
+    "phone": "665 736 7895",
+    "ssn": "258362449",
+    "dob": "27/05/1955",
+    "address": "9201 Cedar Blvd",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

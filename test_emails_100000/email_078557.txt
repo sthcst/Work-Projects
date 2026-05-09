@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Smith,megan.smith5467@outlook.com,(302) 836-8713,596 98 8028,10-27-1956,"9214 Birch Blvd",Austin,TX

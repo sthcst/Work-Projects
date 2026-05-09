@@ -1,0 +1,9 @@
+contact:
+  name: Steven Peterson
+  email: steven.peterson2947@yahoo.com
+  phone: (526) 517-2357
+  ssn: 674-80-5046
+  dob: 6/16/1983
+  address: 9933 Sixth Dr
+  city: Dallas
+  state: MO

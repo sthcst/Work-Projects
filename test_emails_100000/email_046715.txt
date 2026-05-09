@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Walker,steven.walker5546@example.com,+1 836-669-9347,140 10 7498,03-13-1957,"3824 Summer Blvd",Denver,NY

@@ -1,0 +1,9 @@
+contact:
+  name: Richard Reed
+  email: richard.reed9821@outlook.com
+  phone: (420) 408-2881
+  ssn: 518-82-4574
+  dob: 8/13/2000
+  address: 5271 Elm Ave
+  city: Seattle
+  state: DC

@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Dominguez
+  email: ronald.dominguez8084@business.net
+  phone: 951-792-9034
+  ssn: 250471345
+  dob: 12/21/1970
+  address: 5853 Second Blvd
+  city: San Diego
+  state: PA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Williams",
+    "email": "pamela.williams8222@outlook.com",
+    "phone": "+1 770-888-6385",
+    "ssn": "093-39-7330",
+    "dob": "05/10/1965",
+    "address": "841 Second Court",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

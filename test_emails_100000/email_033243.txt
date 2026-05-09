@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Smith
+  email: shirley.smith1595@example.com
+  phone: (408) 667-4680
+  ssn: 947-31-5065
+  dob: 3/13/1998
+  address: 7344 Sixth St
+  city: New York
+  state: CA

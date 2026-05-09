@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Gomez,emma.gomez2574@outlook.com,475-321-4249,623-09-5120,07/21/1978,"8607 Fourth Ave",San Jose,WA

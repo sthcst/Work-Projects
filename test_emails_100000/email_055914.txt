@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Campbell",
+    "email": "anna.campbell3103@business.net",
+    "phone": "(763) 466-9470",
+    "ssn": "222 02 9355",
+    "dob": "09-26-1960",
+    "address": "9916 East Court",
+    "city": "Boston",
+    "state": "WA"
+  }
+}

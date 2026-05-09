@@ -1,0 +1,9 @@
+contact:
+  name: Emily Young
+  email: emily.young5527@example.com
+  phone: +1 866-255-6018
+  ssn: 238-08-2505
+  dob: 06/26/1976
+  address: 8115 West St
+  city: Dallas
+  state: NY

@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Phillips
+  email: rachel.phillips9888@outlook.com
+  phone: (277) 306-2865
+  ssn: 095791330
+  dob: 12/12/1962
+  address: 7184 Maple Ln
+  city: Boston
+  state: MD

@@ -1,0 +1,14 @@
+INVOICE 896296
+
+Bill To:
+Name: Timothy Carter
+Email: timothy.carter1029@mail.com
+Phone: 757 458 8543
+SSN: 541696528
+
+Address: 7291 Spring Dr
+Chicago, MI
+
+Date of Birth: 11/11/1970
+
+Amount Due: $9443

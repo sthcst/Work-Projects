@@ -1,0 +1,14 @@
+INVOICE 820035
+
+Bill To:
+Name: Katherine Martinez
+Email: katherine.martinez7128@example.com
+Phone: 974-366-9263
+SSN: 951-80-5712
+
+Address: 3234 First Dr
+San Antonio, TX
+
+Date of Birth: 12-01-1990
+
+Amount Due: $3939

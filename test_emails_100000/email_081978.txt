@@ -1,0 +1,14 @@
+INVOICE 509817
+
+Bill To:
+Name: Pamela Nelson
+Email: pamela.nelson4627@example.com
+Phone: 509 560 5100
+SSN: 247 07 7167
+
+Address: 8207 Fourth Court
+Houston, MI
+
+Date of Birth: 18/06/1951
+
+Amount Due: $6380

@@ -1,0 +1,14 @@
+INVOICE 787293
+
+Bill To:
+Name: Sarah Bell
+Email: sarah.bell7700@mail.com
+Phone: 626-955-9894
+SSN: 551 74 2553
+
+Address: 9836 Birch Court
+San Antonio, CA
+
+Date of Birth: 03-17-1985
+
+Amount Due: $5709

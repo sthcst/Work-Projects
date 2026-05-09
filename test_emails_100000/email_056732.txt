@@ -1,0 +1,9 @@
+contact:
+  name: Jane Jackson
+  email: jane.jackson8521@outlook.com
+  phone: 468-236-3599
+  ssn: 983-65-9565
+  dob: 10/6/1966
+  address: 4879 Fourth St
+  city: Chicago
+  state: WA

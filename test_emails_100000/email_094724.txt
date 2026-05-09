@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Nunez,steven.nunez4804@example.com,225-443-2836,980-56-3440,1/1/1968,"4587 South St",Chicago,PA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Jackson",
+    "email": "david.jackson366@work.org",
+    "phone": "+1 809-485-6151",
+    "ssn": "887 54 8579",
+    "dob": "07-11-1994",
+    "address": "7410 Cedar Ave",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

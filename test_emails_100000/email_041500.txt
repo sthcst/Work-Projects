@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Thompson
+  email: ryan.thompson7920@outlook.com
+  phone: 662-834-9959
+  ssn: 216 76 9540
+  dob: 06-10-1952
+  address: 4516 Pine Ave
+  city: Los Angeles
+  state: AZ

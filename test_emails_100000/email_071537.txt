@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Hall,stephanie.hall3208@yahoo.com,+1 334-649-3950,052 17 5239,11-19-1995,"9631 Summer Blvd",Washington,VA

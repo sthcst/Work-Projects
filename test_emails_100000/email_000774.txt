@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Stewart,nicole.stewart140@example.com,+1 371-664-4109,133-22-7313,07/27/1957,"4851 Maple Dr",San Antonio,MA

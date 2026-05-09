@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Roberts,angela.roberts2739@company.com,411-920-2183,783 63 3037,05-20-1958,"3733 Park Court",San Antonio,CA

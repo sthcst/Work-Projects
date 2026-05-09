@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Gonzalez,lisa.gonzalez82@example.com,(657) 372-3591,821 42 8479,10/11/1952,"5253 East Ln",Denver,TX

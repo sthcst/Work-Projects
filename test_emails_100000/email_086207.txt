@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Brown,nicholas.brown131@yahoo.com,+1 606-558-1615,760 69 6661,3/2/1969,"4835 Cedar St",Los Angeles,MA

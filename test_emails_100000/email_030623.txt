@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Gomez",
+    "email": "deborah.gomez1158@example.com",
+    "phone": "(954) 280-4596",
+    "ssn": "179558542",
+    "dob": "17/09/1961",
+    "address": "1213 Main Blvd",
+    "city": "Los Angeles",
+    "state": "OH"
+  }
+}

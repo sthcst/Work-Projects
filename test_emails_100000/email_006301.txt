@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Roberts,andrew.roberts569@example.com,860-796-1900,267 78 2786,09/15/1982,"5718 Fourth Ln",Dallas,MA

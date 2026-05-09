@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Nunez,nicole.nunez1216@yahoo.com,+1 208-806-8566,374249947,04-25-2005,"9724 South Court",Austin,CA

@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Flores
+  email: amanda.flores2502@outlook.com
+  phone: (498) 221-8897
+  ssn: 752556953
+  dob: 11-11-1970
+  address: 9842 East Ln
+  city: Los Angeles
+  state: NC

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Edwards",
+    "email": "deborah.edwards8182@mail.com",
+    "phone": "662 209 7526",
+    "ssn": "602-51-3345",
+    "dob": "10/07/1984",
+    "address": "750 Park Court",
+    "city": "Philadelphia",
+    "state": "GA"
+  }
+}

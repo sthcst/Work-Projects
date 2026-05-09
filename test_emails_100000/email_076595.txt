@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David White",
+    "email": "david.white248@outlook.com",
+    "phone": "934-292-7925",
+    "ssn": "717875151",
+    "dob": "01/12/1992",
+    "address": "6142 West Blvd",
+    "city": "Houston",
+    "state": "MD"
+  }
+}

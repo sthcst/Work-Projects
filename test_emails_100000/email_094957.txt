@@ -1,0 +1,14 @@
+INVOICE 632306
+
+Bill To:
+Name: Daniel Jackson
+Email: daniel.jackson2182@work.org
+Phone: 860 890 4350
+SSN: 772475978
+
+Address: 6348 Third Dr
+Jacksonville, IL
+
+Date of Birth: 03-03-1952
+
+Amount Due: $2126

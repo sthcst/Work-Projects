@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Phillips,andrew.phillips7121@gmail.com,+1 306-444-9802,360 34 8338,12/11/1999,"3378 West Ave",Philadelphia,PA

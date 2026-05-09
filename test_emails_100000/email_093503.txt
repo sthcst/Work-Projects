@@ -1,0 +1,9 @@
+contact:
+  name: Robert Ortiz
+  email: robert.ortiz8653@outlook.com
+  phone: 709-215-6027
+  ssn: 633 13 3457
+  dob: 10/15/1963
+  address: 2503 Pine Dr
+  city: Jacksonville
+  state: WI

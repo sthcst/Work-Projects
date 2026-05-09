@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Lewis",
+    "email": "joshua.lewis5399@business.net",
+    "phone": "507 634 2225",
+    "ssn": "450-92-7314",
+    "dob": "12/24/1986",
+    "address": "2272 Spring Way",
+    "city": "Philadelphia",
+    "state": "CO"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Rogers,timothy.rogers6355@work.org,391 318 8507,080-92-9436,19/11/1969,"2442 First St",Phoenix,NJ

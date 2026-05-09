@@ -1,0 +1,9 @@
+contact:
+  name: George Reed
+  email: george.reed9306@outlook.com
+  phone: (764) 960-7249
+  ssn: 558744093
+  dob: 12-24-1954
+  address: 5192 Main Ave
+  city: Austin
+  state: FL

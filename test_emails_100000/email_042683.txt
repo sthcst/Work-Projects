@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Guerrero,george.guerrero8123@gmail.com,+1 548-526-1542,379-35-8817,02/06/2002,"2216 Main Rd",Dallas,VA

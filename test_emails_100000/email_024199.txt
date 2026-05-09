@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Lopez",
+    "email": "katherine.lopez3103@mail.com",
+    "phone": "694 602 2001",
+    "ssn": "913407732",
+    "dob": "04-10-1990",
+    "address": "6436 West St",
+    "city": "Chicago",
+    "state": "DC"
+  }
+}

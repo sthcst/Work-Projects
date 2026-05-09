@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Phillips,donald.phillips217@outlook.com,437 576 3600,714171132,7/21/1959,"5779 Fifth Court",Austin,MD

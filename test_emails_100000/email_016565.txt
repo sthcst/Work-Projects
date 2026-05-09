@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Walker,angela.walker28@business.net,(311) 920-6820,678892879,4/6/1982,"3643 Spring Ave",Philadelphia,AZ

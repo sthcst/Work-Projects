@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Guerrero",
+    "email": "jennifer.guerrero2518@work.org",
+    "phone": "437 299 4775",
+    "ssn": "027 01 3090",
+    "dob": "3/23/1967",
+    "address": "8228 East Court",
+    "city": "Dallas",
+    "state": "AZ"
+  }
+}

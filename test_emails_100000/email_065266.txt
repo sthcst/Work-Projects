@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Clark
+  email: brenda.clark651@company.com
+  phone: 213-395-9941
+  ssn: 091-56-3079
+  dob: 15/08/2002
+  address: 1011 South Rd
+  city: San Diego
+  state: MO

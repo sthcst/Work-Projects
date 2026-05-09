@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Anderson,anthony.anderson3963@example.com,383-667-6901,657 26 8353,20/09/2000,"1979 South Way",San Jose,CO

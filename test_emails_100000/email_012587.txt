@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Wilson,nicole.wilson1789@mail.com,316 563 3652,308688001,02/06/1956,"6297 Cedar Dr",Boston,IL

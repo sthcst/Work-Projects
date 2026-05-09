@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Jimenez",
+    "email": "donald.jimenez989@outlook.com",
+    "phone": "+1 631-395-5877",
+    "ssn": "796557421",
+    "dob": "7/5/2003",
+    "address": "6821 North Way",
+    "city": "San Jose",
+    "state": "TN"
+  }
+}

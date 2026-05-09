@@ -1,0 +1,9 @@
+contact:
+  name: Paul Alvarado
+  email: paul.alvarado7609@gmail.com
+  phone: (293) 951-3400
+  ssn: 432-93-1507
+  dob: 12/13/1990
+  address: 5462 Oak Ln
+  city: Los Angeles
+  state: TX

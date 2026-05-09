@@ -1,0 +1,14 @@
+INVOICE 121889
+
+Bill To:
+Name: James Miller
+Email: james.miller6154@outlook.com
+Phone: (853) 934-6805
+SSN: 099039829
+
+Address: 2187 Second Way
+Boston, FL
+
+Date of Birth: 12/25/1997
+
+Amount Due: $3851

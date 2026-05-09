@@ -1,0 +1,14 @@
+INVOICE 881030
+
+Bill To:
+Name: Brian Delgado
+Email: brian.delgado2851@yahoo.com
+Phone: 611-775-7464
+SSN: 616-25-5043
+
+Address: 8978 Fourth St
+Boston, OH
+
+Date of Birth: 12/01/1999
+
+Amount Due: $5245

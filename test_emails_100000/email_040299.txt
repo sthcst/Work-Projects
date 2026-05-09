@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Thompson",
+    "email": "nicholas.thompson6377@company.com",
+    "phone": "(607) 283-1252",
+    "ssn": "822541614",
+    "dob": "23/11/1973",
+    "address": "1567 Oak Rd",
+    "city": "Philadelphia",
+    "state": "WI"
+  }
+}

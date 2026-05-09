@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Rogers,jessica.rogers7162@company.com,(746) 623-3350,893 21 9777,11/04/1980,"557 North Court",Boston,MA

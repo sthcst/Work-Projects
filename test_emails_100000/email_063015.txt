@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Lee",
+    "email": "kenneth.lee5732@outlook.com",
+    "phone": "(818) 989-6517",
+    "ssn": "971-39-6238",
+    "dob": "12/03/2003",
+    "address": "812 Main Ln",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

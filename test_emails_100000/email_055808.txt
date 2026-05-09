@@ -1,0 +1,14 @@
+INVOICE 473271
+
+Bill To:
+Name: Donald Parker
+Email: donald.parker4153@company.com
+Phone: +1 581-955-1099
+SSN: 519 96 8842
+
+Address: 6440 Sixth Rd
+Los Angeles, AZ
+
+Date of Birth: 20/10/1956
+
+Amount Due: $361

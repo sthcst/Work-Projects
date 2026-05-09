@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Reed,emma.reed1914@work.org,(316) 911-4996,625446922,02-03-2003,"4614 North Blvd",Chicago,FL

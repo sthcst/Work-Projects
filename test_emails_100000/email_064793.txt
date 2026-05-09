@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Garcia,joshua.garcia357@yahoo.com,994-250-4152,327 65 7499,05-27-1981,"9209 Third Rd",Boston,TN

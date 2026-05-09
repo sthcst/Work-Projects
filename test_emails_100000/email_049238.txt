@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Rodriguez",
+    "email": "ashley.rodriguez1393@business.net",
+    "phone": "946-699-6879",
+    "ssn": "204 90 7458",
+    "dob": "16/02/2002",
+    "address": "1686 Pine Rd",
+    "city": "Phoenix",
+    "state": "FL"
+  }
+}

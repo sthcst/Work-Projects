@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Phillips",
+    "email": "jane.phillips6917@yahoo.com",
+    "phone": "+1 691-803-4598",
+    "ssn": "447766620",
+    "dob": "12-26-1998",
+    "address": "6962 Third Way",
+    "city": "Dallas",
+    "state": "NY"
+  }
+}

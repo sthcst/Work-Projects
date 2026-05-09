@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Reeves",
+    "email": "kenneth.reeves3732@outlook.com",
+    "phone": "225-975-4951",
+    "ssn": "978 03 5721",
+    "dob": "15/08/1969",
+    "address": "4534 North Ave",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

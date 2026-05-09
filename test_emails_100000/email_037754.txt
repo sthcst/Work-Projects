@@ -1,0 +1,14 @@
+INVOICE 958625
+
+Bill To:
+Name: Megan Flores
+Email: megan.flores3302@example.com
+Phone: +1 608-322-8509
+SSN: 819308007
+
+Address: 175 East Way
+Seattle, MA
+
+Date of Birth: 9/3/1973
+
+Amount Due: $7359

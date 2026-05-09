@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Miller
+  email: ashley.miller6778@yahoo.com
+  phone: +1 272-321-6499
+  ssn: 262385230
+  dob: 6/19/1958
+  address: 6623 Oak Way
+  city: San Antonio
+  state: DC

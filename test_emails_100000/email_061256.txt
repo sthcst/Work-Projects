@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Edwards
+  email: amanda.edwards8460@example.com
+  phone: 642 427 3506
+  ssn: 557868760
+  dob: 13/05/2002
+  address: 2032 Maple St
+  city: Chicago
+  state: VA

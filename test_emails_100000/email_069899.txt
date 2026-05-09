@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Miller",
+    "email": "lauren.miller3419@yahoo.com",
+    "phone": "+1 238-422-9587",
+    "ssn": "933692868",
+    "dob": "16/01/2002",
+    "address": "963 Second Way",
+    "city": "Phoenix",
+    "state": "MO"
+  }
+}

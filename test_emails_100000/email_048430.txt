@@ -1,0 +1,9 @@
+contact:
+  name: Christine Moore
+  email: christine.moore309@example.com
+  phone: (388) 686-1070
+  ssn: 781 08 8310
+  dob: 04-09-1977
+  address: 7320 Second Dr
+  city: Denver
+  state: TX

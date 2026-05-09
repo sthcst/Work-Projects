@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Parker
+  email: anthony.parker4530@company.com
+  phone: 569 816 3514
+  ssn: 757919798
+  dob: 04-08-1971
+  address: 2856 East Way
+  city: Washington
+  state: AZ

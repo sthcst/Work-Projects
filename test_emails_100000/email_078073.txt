@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Hernandez",
+    "email": "rebecca.hernandez2321@example.com",
+    "phone": "257 551 3773",
+    "ssn": "599 56 1393",
+    "dob": "10/10/1998",
+    "address": "9976 Sixth Dr",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

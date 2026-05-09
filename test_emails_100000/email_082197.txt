@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph White,joseph.white6160@company.com,345-678-9957,048 08 2102,11-08-1980,"7459 Spring Ln",San Jose,CA

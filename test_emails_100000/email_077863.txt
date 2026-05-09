@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Sanchez
+  email: katherine.sanchez973@outlook.com
+  phone: 455 914 6110
+  ssn: 626063185
+  dob: 09/15/1953
+  address: 214 East Ln
+  city: Phoenix
+  state: AZ

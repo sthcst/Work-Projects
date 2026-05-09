@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Lewis
+  email: daniel.lewis5589@work.org
+  phone: +1 213-882-9484
+  ssn: 972822926
+  dob: 02-14-1986
+  address: 1485 Fourth Blvd
+  city: Jacksonville
+  state: MA

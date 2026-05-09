@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Edwards,katherine.edwards9156@outlook.com,+1 844-480-5838,287 55 8237,09/04/1956,"3002 Third Ave",Phoenix,MA

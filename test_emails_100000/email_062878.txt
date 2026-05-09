@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah White",
+    "email": "sarah.white2933@work.org",
+    "phone": "(729) 806-9604",
+    "ssn": "110816233",
+    "dob": "5/6/1962",
+    "address": "5697 Birch Rd",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

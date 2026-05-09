@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Brown
+  email: deborah.brown4300@work.org
+  phone: +1 898-663-5801
+  ssn: 144-78-6779
+  dob: 07/07/1989
+  address: 2198 Birch Ave
+  city: Dallas
+  state: WI

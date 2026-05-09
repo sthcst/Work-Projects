@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Alvarado,shirley.alvarado1912@outlook.com,(235) 555-4413,405-89-3032,04-22-1995,"8182 Summer Dr",San Diego,IL

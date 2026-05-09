@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Moore",
+    "email": "cynthia.moore6054@company.com",
+    "phone": "(628) 903-5085",
+    "ssn": "524396809",
+    "dob": "08/01/1965",
+    "address": "2113 Maple Rd",
+    "city": "San Antonio",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Serrano",
+    "email": "richard.serrano1578@business.net",
+    "phone": "713 229 9584",
+    "ssn": "924818893",
+    "dob": "12/11/1988",
+    "address": "7842 Third Ave",
+    "city": "Jacksonville",
+    "state": "OH"
+  }
+}

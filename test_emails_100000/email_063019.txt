@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Ramirez,amanda.ramirez8926@yahoo.com,+1 376-887-7016,299-66-9175,5/1/1982,"1323 Main Ave",Dallas,PA

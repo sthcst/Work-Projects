@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Reed",
+    "email": "ryan.reed8340@gmail.com",
+    "phone": "+1 655-798-8073",
+    "ssn": "537859010",
+    "dob": "03-04-1992",
+    "address": "9859 First Blvd",
+    "city": "Chicago",
+    "state": "MD"
+  }
+}

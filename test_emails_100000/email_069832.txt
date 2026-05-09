@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Martinez
+  email: lisa.martinez3281@yahoo.com
+  phone: 304-447-8076
+  ssn: 828-93-1512
+  dob: 04-28-1996
+  address: 9143 West Court
+  city: Jacksonville
+  state: MA

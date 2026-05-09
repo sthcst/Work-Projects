@@ -1,0 +1,14 @@
+INVOICE 160481
+
+Bill To:
+Name: Anna White
+Email: anna.white5009@example.com
+Phone: 935-460-3030
+SSN: 738 66 8745
+
+Address: 1819 Sixth Blvd
+Chicago, CA
+
+Date of Birth: 3/6/1980
+
+Amount Due: $8870

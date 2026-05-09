@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Martinez,robert.martinez662@business.net,(347) 305-2323,580969441,27/11/1999,"4829 Elm Way",Phoenix,PA

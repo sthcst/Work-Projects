@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Campbell",
+    "email": "christopher.campbell600@business.net",
+    "phone": "608 913 7601",
+    "ssn": "015-99-2764",
+    "dob": "08/10/1951",
+    "address": "7941 South Ave",
+    "city": "Seattle",
+    "state": "OH"
+  }
+}

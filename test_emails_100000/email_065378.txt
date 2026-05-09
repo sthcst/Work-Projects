@@ -1,0 +1,9 @@
+contact:
+  name: Charles Rogers
+  email: charles.rogers2512@gmail.com
+  phone: 491-424-4585
+  ssn: 925-80-5836
+  dob: 03-01-1978
+  address: 7775 Fifth Dr
+  city: Denver
+  state: MD

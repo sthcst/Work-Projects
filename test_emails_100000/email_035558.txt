@@ -1,0 +1,9 @@
+contact:
+  name: Robert Jackson
+  email: robert.jackson8662@company.com
+  phone: 906-330-5406
+  ssn: 899441797
+  dob: 07-21-1964
+  address: 2928 Sixth Ln
+  city: Chicago
+  state: CA

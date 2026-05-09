@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Delgado
+  email: katherine.delgado857@mail.com
+  phone: 668-951-8939
+  ssn: 307 45 7223
+  dob: 07-05-1972
+  address: 3142 Cedar St
+  city: Philadelphia
+  state: CA

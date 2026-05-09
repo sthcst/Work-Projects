@@ -1,0 +1,14 @@
+INVOICE 977364
+
+Bill To:
+Name: Ashley Thompson
+Email: ashley.thompson5070@example.com
+Phone: 316 689 3739
+SSN: 164 05 3953
+
+Address: 6592 Sixth Blvd
+Phoenix, NJ
+
+Date of Birth: 05-21-1992
+
+Amount Due: $7744

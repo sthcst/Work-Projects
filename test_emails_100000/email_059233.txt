@@ -1,0 +1,9 @@
+contact:
+  name: Anna Clark
+  email: anna.clark6693@mail.com
+  phone: +1 699-459-1126
+  ssn: 072-98-5475
+  dob: 10-05-1965
+  address: 6409 Elm Way
+  city: Seattle
+  state: VA

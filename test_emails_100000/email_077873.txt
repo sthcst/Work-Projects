@@ -1,0 +1,14 @@
+INVOICE 685378
+
+Bill To:
+Name: Christine Serrano
+Email: christine.serrano4689@company.com
+Phone: +1 705-326-3681
+SSN: 080 90 6420
+
+Address: 9617 South St
+San Antonio, MA
+
+Date of Birth: 5/10/1989
+
+Amount Due: $1428

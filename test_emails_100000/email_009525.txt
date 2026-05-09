@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Williams,daniel.williams8843@mail.com,(491) 531-7150,763073287,6/5/2002,"8620 Cedar Ln",Philadelphia,WA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Reeves",
+    "email": "edward.reeves3674@work.org",
+    "phone": "550 371 2694",
+    "ssn": "306 83 9470",
+    "dob": "07/03/1994",
+    "address": "9049 First Ave",
+    "city": "San Jose",
+    "state": "FL"
+  }
+}

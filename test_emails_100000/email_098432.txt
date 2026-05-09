@@ -1,0 +1,9 @@
+contact:
+  name: Jane Reyes
+  email: jane.reyes4973@business.net
+  phone: +1 363-712-1859
+  ssn: 706 59 5435
+  dob: 02-02-2004
+  address: 9229 Second Rd
+  city: Houston
+  state: CA

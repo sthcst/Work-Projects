@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Moore
+  email: kimberly.moore3400@work.org
+  phone: 265-322-9174
+  ssn: 793-83-1946
+  dob: 7/6/1984
+  address: 988 First Ave
+  city: Boston
+  state: MI

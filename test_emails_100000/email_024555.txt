@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Lee",
+    "email": "daniel.lee9470@gmail.com",
+    "phone": "(992) 892-3198",
+    "ssn": "398 83 1346",
+    "dob": "10/16/2004",
+    "address": "7228 First Rd",
+    "city": "Houston",
+    "state": "MI"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Steven Serrano
+  email: steven.serrano1218@mail.com
+  phone: 535 549 7963
+  ssn: 345 36 1166
+  dob: 07/20/1955
+  address: 9341 Second Ave
+  city: Chicago
+  state: CO

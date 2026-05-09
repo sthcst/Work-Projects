@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Rogers,anthony.rogers1952@outlook.com,(655) 936-8111,302678226,01/03/1989,"1269 Park Ave",Austin,TX

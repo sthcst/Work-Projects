@@ -1,0 +1,14 @@
+INVOICE 640009
+
+Bill To:
+Name: James Stewart
+Email: james.stewart1045@gmail.com
+Phone: +1 760-332-8123
+SSN: 009-75-5481
+
+Address: 281 First Court
+Philadelphia, TX
+
+Date of Birth: 4/6/2002
+
+Amount Due: $5254

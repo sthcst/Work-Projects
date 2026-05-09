@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Robinson",
+    "email": "donald.robinson6130@outlook.com",
+    "phone": "742-456-2618",
+    "ssn": "096-94-9463",
+    "dob": "08-06-1975",
+    "address": "907 Cedar Ln",
+    "city": "San Diego",
+    "state": "WI"
+  }
+}

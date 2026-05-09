@@ -1,0 +1,9 @@
+contact:
+  name: Gary Young
+  email: gary.young9195@company.com
+  phone: 874 910 1610
+  ssn: 993269250
+  dob: 2/9/1951
+  address: 5830 Fourth St
+  city: Denver
+  state: CA

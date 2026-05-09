@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Brown
+  email: nicole.brown3710@gmail.com
+  phone: 730 847 1581
+  ssn: 592 58 4179
+  dob: 2/26/1988
+  address: 8314 North Rd
+  city: Philadelphia
+  state: CA

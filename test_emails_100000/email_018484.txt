@@ -1,0 +1,9 @@
+contact:
+  name: Angela Hall
+  email: angela.hall4034@work.org
+  phone: 761 745 1262
+  ssn: 935-33-4984
+  dob: 04/10/1977
+  address: 5807 Pine St
+  city: San Antonio
+  state: MA

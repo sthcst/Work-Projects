@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Morgan",
+    "email": "james.morgan4717@gmail.com",
+    "phone": "933 925 7926",
+    "ssn": "828-75-8311",
+    "dob": "03/15/1983",
+    "address": "4082 Birch Ave",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

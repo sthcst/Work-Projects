@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Alvarado",
+    "email": "lisa.alvarado367@outlook.com",
+    "phone": "216-900-4606",
+    "ssn": "010-92-7428",
+    "dob": "02/04/1995",
+    "address": "4017 Park Dr",
+    "city": "Boston",
+    "state": "CO"
+  }
+}

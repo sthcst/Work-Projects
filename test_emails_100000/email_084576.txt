@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Williams",
+    "email": "brian.williams9219@business.net",
+    "phone": "416 319 9625",
+    "ssn": "529293267",
+    "dob": "03/05/1985",
+    "address": "3294 Oak Ln",
+    "city": "Boston",
+    "state": "WA"
+  }
+}

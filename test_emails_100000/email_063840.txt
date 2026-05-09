@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Dominguez",
+    "email": "megan.dominguez8915@work.org",
+    "phone": "+1 239-216-1707",
+    "ssn": "037714601",
+    "dob": "7/21/2004",
+    "address": "1556 West Blvd",
+    "city": "Dallas",
+    "state": "OH"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Hall,maria.hall4815@outlook.com,913 787 3607,221199290,26/09/1955,"1937 Pine Way",San Jose,OH

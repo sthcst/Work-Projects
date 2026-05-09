@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Alvarado",
+    "email": "rachel.alvarado7265@gmail.com",
+    "phone": "+1 963-411-5429",
+    "ssn": "498 98 7621",
+    "dob": "2/15/1975",
+    "address": "5875 First Way",
+    "city": "New York",
+    "state": "PA"
+  }
+}

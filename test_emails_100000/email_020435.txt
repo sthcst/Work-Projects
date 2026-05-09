@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Cooper,jeffrey.cooper8187@yahoo.com,(201) 686-1885,978-42-3527,8/12/1984,"1878 Maple Dr",Dallas,AZ

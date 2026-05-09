@@ -1,0 +1,9 @@
+contact:
+  name: Jason Bell
+  email: jason.bell8662@yahoo.com
+  phone: 479 721 8238
+  ssn: 185 30 4875
+  dob: 11/10/1951
+  address: 1188 Third Dr
+  city: Boston
+  state: CA

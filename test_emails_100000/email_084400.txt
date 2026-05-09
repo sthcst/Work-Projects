@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Bell",
+    "email": "jacob.bell4756@gmail.com",
+    "phone": "+1 362-996-9779",
+    "ssn": "293 70 3527",
+    "dob": "03/08/1952",
+    "address": "8428 Maple Rd",
+    "city": "Houston",
+    "state": "AZ"
+  }
+}

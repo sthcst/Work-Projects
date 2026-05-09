@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Murillo",
+    "email": "cynthia.murillo7563@work.org",
+    "phone": "967 920 9782",
+    "ssn": "368024356",
+    "dob": "9/13/2004",
+    "address": "2725 First Ln",
+    "city": "San Antonio",
+    "state": "MA"
+  }
+}

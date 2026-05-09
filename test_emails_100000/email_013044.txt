@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Lee,lisa.lee5945@business.net,838-715-2850,261-25-3859,28/10/2001,"4684 Summer Rd",Jacksonville,AZ

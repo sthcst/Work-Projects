@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Gomez",
+    "email": "ronald.gomez851@example.com",
+    "phone": "770-428-8333",
+    "ssn": "819322172",
+    "dob": "04-10-1979",
+    "address": "1914 Park Court",
+    "city": "Jacksonville",
+    "state": "MA"
+  }
+}

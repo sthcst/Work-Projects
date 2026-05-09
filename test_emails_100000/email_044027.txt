@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Dominguez",
+    "email": "emily.dominguez7467@outlook.com",
+    "phone": "887 784 5037",
+    "ssn": "244-70-3562",
+    "dob": "18/05/1998",
+    "address": "5711 South Way",
+    "city": "San Diego",
+    "state": "PA"
+  }
+}

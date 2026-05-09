@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Sanchez,jane.sanchez5331@outlook.com,474 806 8640,104431505,01-14-1981,"3544 South Court",Dallas,MD

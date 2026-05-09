@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Morris",
+    "email": "jane.morris4739@mail.com",
+    "phone": "+1 289-752-2732",
+    "ssn": "815-92-7006",
+    "dob": "26/11/1996",
+    "address": "1362 Elm Way",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 241373
+
+Bill To:
+Name: Helen Hernandez
+Email: helen.hernandez703@work.org
+Phone: 892-911-9305
+SSN: 068021792
+
+Address: 5559 Second Blvd
+Houston, OH
+
+Date of Birth: 17/10/1982
+
+Amount Due: $7108

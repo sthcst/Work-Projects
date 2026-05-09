@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Thompson",
+    "email": "rebecca.thompson8542@gmail.com",
+    "phone": "528-615-4529",
+    "ssn": "263 11 1754",
+    "dob": "7/8/1976",
+    "address": "8306 Pine Way",
+    "city": "New York",
+    "state": "TX"
+  }
+}

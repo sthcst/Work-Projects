@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Thompson,nicole.thompson4062@example.com,750-211-7203,376 46 5229,07/22/1955,"6690 Fifth St",Seattle,CO

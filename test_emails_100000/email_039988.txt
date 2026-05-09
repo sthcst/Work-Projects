@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Williams,daniel.williams2923@yahoo.com,327-814-6411,107 25 6684,05-15-1960,"7024 West Rd",Austin,VA

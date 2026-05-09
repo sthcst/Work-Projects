@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Murillo",
+    "email": "jessica.murillo6667@mail.com",
+    "phone": "+1 424-274-8103",
+    "ssn": "723-10-3801",
+    "dob": "5/15/1963",
+    "address": "6789 Cedar Ln",
+    "city": "Philadelphia",
+    "state": "FL"
+  }
+}

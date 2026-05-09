@@ -1,0 +1,14 @@
+INVOICE 100143
+
+Bill To:
+Name: Daniel Hall
+Email: daniel.hall4993@outlook.com
+Phone: +1 210-564-1831
+SSN: 583-91-1703
+
+Address: 5121 Oak Way
+Dallas, PA
+
+Date of Birth: 10/02/1986
+
+Amount Due: $288

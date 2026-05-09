@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Miller,james.miller474@yahoo.com,(969) 932-4447,907 55 5326,1/14/1976,"7893 Main Court",New York,OH

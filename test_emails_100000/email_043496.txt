@@ -1,0 +1,9 @@
+contact:
+  name: Robert Stewart
+  email: robert.stewart4695@example.com
+  phone: 469-659-7253
+  ssn: 174-39-1719
+  dob: 01-20-1966
+  address: 6094 Cedar Court
+  city: Boston
+  state: IL

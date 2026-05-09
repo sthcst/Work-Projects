@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Morgan
+  email: lauren.morgan3620@example.com
+  phone: (674) 910-6850
+  ssn: 546 48 3435
+  dob: 06-19-1981
+  address: 7005 Summer St
+  city: Seattle
+  state: OH

@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Carter
+  email: andrew.carter2899@example.com
+  phone: +1 231-694-5660
+  ssn: 874503475
+  dob: 11-06-1998
+  address: 9963 Spring Blvd
+  city: Chicago
+  state: IL

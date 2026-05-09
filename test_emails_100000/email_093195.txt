@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Walker,kenneth.walker1243@mail.com,947-355-2281,660 28 3888,06-04-1989,"7591 South Dr",New York,MO

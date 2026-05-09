@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Nunez
+  email: kathleen.nunez2975@work.org
+  phone: 624 411 1518
+  ssn: 546551194
+  dob: 5/27/1999
+  address: 3586 Park Way
+  city: Seattle
+  state: WI

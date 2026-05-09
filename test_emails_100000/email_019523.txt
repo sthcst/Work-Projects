@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Romero,joseph.romero7258@yahoo.com,+1 204-722-7459,976 73 2245,7/27/1964,"5845 Pine Ave",Dallas,MI

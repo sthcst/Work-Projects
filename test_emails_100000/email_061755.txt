@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Carter,jessica.carter2336@work.org,+1 664-643-2368,212 08 7788,10/28/1990,"3527 Maple Court",Seattle,AZ

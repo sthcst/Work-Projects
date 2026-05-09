@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Flores
+  email: joseph.flores6783@business.net
+  phone: +1 469-622-8596
+  ssn: 681462245
+  dob: 11/5/1989
+  address: 3487 Pine Ln
+  city: San Diego
+  state: NJ

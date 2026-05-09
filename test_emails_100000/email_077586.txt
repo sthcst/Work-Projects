@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Bell,michelle.bell9172@yahoo.com,+1 213-859-2108,665606334,02-08-1973,"5573 Fifth Blvd",Denver,VA

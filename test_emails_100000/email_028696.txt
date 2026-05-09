@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Wilson,katherine.wilson9747@yahoo.com,(889) 560-8344,676-56-5764,05-21-1972,"9729 Second St",San Antonio,CO

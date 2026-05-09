@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Edwards
+  email: brenda.edwards980@example.com
+  phone: 611-991-8881
+  ssn: 808-62-1528
+  dob: 8/21/1984
+  address: 7058 Fourth St
+  city: Chicago
+  state: MI

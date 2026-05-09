@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Edwards,jeffrey.edwards2511@gmail.com,+1 557-787-1667,050 09 1767,5/14/1997,"7225 Sixth Blvd",Boston,MO

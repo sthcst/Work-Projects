@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Dominguez,kimberly.dominguez8727@yahoo.com,833 375 8346,583 98 7571,10/24/1953,"221 Third Ln",Dallas,CO

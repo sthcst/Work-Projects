@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Martinez",
+    "email": "david.martinez9857@yahoo.com",
+    "phone": "883 884 3101",
+    "ssn": "149-27-9192",
+    "dob": "12-11-2001",
+    "address": "2515 Park St",
+    "city": "Seattle",
+    "state": "WI"
+  }
+}

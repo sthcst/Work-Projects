@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Young
+  email: deborah.young7648@mail.com
+  phone: 240-905-8099
+  ssn: 002763610
+  dob: 05-05-1960
+  address: 6589 Sixth Ave
+  city: Dallas
+  state: OH

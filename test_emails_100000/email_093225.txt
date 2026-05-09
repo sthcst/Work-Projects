@@ -1,0 +1,9 @@
+contact:
+  name: Brian Ortiz
+  email: brian.ortiz9310@example.com
+  phone: 344-329-8189
+  ssn: 903 56 2693
+  dob: 07/10/1960
+  address: 4762 Pine Rd
+  city: Chicago
+  state: TX

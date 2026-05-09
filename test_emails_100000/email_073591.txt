@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Thompson
+  email: joshua.thompson7328@mail.com
+  phone: 789-674-6311
+  ssn: 887101396
+  dob: 12-28-1963
+  address: 9874 Sixth Way
+  city: San Diego
+  state: GA

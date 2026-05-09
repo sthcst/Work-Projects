@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Anderson",
+    "email": "jason.anderson6417@business.net",
+    "phone": "932-961-1999",
+    "ssn": "608162442",
+    "dob": "04/05/1984",
+    "address": "9625 Third Ln",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

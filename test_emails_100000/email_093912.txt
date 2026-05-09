@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Wilson",
+    "email": "lauren.wilson5956@gmail.com",
+    "phone": "+1 772-758-9694",
+    "ssn": "831 33 7566",
+    "dob": "04-06-1965",
+    "address": "5790 North St",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

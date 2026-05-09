@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Cooper",
+    "email": "emily.cooper9445@outlook.com",
+    "phone": "697-701-4935",
+    "ssn": "527-96-1368",
+    "dob": "09-23-1989",
+    "address": "7272 East Ave",
+    "city": "Philadelphia",
+    "state": "MO"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Reed",
+    "email": "anthony.reed7715@company.com",
+    "phone": "+1 712-643-4854",
+    "ssn": "430815920",
+    "dob": "05/24/1969",
+    "address": "507 East Ln",
+    "city": "Phoenix",
+    "state": "MA"
+  }
+}

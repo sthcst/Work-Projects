@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Delgado,nicole.delgado1476@yahoo.com,+1 414-226-5424,728 38 9103,03/01/1979,"1550 Sixth Ave",New York,MA

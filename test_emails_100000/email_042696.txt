@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Delgado",
+    "email": "joshua.delgado3879@outlook.com",
+    "phone": "539-627-2432",
+    "ssn": "076 62 7210",
+    "dob": "4/27/1980",
+    "address": "3373 First St",
+    "city": "Austin",
+    "state": "NC"
+  }
+}

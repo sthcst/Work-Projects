@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Nelson,helen.nelson8233@yahoo.com,+1 928-346-8077,340 95 8969,06/02/1978,"3085 Sixth Court",Seattle,AZ

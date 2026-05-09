@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Rodriguez
+  email: joshua.rodriguez8573@yahoo.com
+  phone: 200 977 5345
+  ssn: 451-05-6986
+  dob: 10/07/1966
+  address: 4176 Third Dr
+  city: Houston
+  state: MO

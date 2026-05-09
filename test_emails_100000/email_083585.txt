@@ -1,0 +1,14 @@
+INVOICE 710926
+
+Bill To:
+Name: Samantha Hernandez
+Email: samantha.hernandez5410@work.org
+Phone: 517 894 5216
+SSN: 103-90-2210
+
+Address: 9335 Fifth Ln
+Phoenix, FL
+
+Date of Birth: 02/08/1986
+
+Amount Due: $5644

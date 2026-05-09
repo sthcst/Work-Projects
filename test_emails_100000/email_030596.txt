@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Wilson
+  email: anthony.wilson6338@mail.com
+  phone: 324 855 4587
+  ssn: 527167135
+  dob: 12/20/1951
+  address: 6372 Summer Court
+  city: Philadelphia
+  state: CA

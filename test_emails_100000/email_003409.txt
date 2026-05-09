@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Lee",
+    "email": "lisa.lee6045@mail.com",
+    "phone": "(590) 866-4694",
+    "ssn": "082458576",
+    "dob": "4/15/1952",
+    "address": "9117 Fourth Blvd",
+    "city": "Seattle",
+    "state": "WA"
+  }
+}

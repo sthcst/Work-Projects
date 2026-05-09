@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Alvarado,joseph.alvarado4751@work.org,647-564-5870,326493717,05-04-1964,"5819 West Blvd",Houston,DC

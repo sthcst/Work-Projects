@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Johnson,ashley.johnson4192@yahoo.com,730 317 3481,621489967,01-27-1992,"8964 First Ave",Boston,CA

@@ -1,0 +1,14 @@
+INVOICE 821148
+
+Bill To:
+Name: Joseph Smith
+Email: joseph.smith7021@outlook.com
+Phone: 888 280 1844
+SSN: 858-50-7511
+
+Address: 7797 West Rd
+Seattle, DC
+
+Date of Birth: 04-06-1956
+
+Amount Due: $2503

@@ -1,0 +1,9 @@
+contact:
+  name: Richard Perez
+  email: richard.perez2984@gmail.com
+  phone: 214-972-4454
+  ssn: 285 73 2039
+  dob: 5/25/1968
+  address: 3989 Pine Ln
+  city: Phoenix
+  state: OH

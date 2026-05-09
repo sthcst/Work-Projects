@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Alvarado
+  email: rebecca.alvarado7233@gmail.com
+  phone: +1 882-825-3361
+  ssn: 736995557
+  dob: 25/05/1973
+  address: 9377 Oak Court
+  city: San Jose
+  state: OH

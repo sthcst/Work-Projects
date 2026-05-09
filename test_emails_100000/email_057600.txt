@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Parker,george.parker639@mail.com,(358) 788-9867,794491575,05/22/1983,"3081 South Court",Phoenix,CA

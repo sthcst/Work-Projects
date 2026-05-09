@@ -1,0 +1,9 @@
+contact:
+  name: Angela Wilson
+  email: angela.wilson316@business.net
+  phone: +1 821-769-2644
+  ssn: 224 74 2931
+  dob: 27/11/1987
+  address: 2705 Spring Court
+  city: Philadelphia
+  state: MO

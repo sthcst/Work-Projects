@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Reeves",
+    "email": "richard.reeves7151@gmail.com",
+    "phone": "+1 739-788-5250",
+    "ssn": "816 80 1194",
+    "dob": "10-20-1997",
+    "address": "1490 Park Court",
+    "city": "Washington",
+    "state": "DC"
+  }
+}

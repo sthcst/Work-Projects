@@ -1,0 +1,14 @@
+INVOICE 501385
+
+Bill To:
+Name: Edward Morgan
+Email: edward.morgan6089@company.com
+Phone: +1 883-680-5841
+SSN: 457805391
+
+Address: 3221 Summer Rd
+Washington, MD
+
+Date of Birth: 03/12/1977
+
+Amount Due: $5553

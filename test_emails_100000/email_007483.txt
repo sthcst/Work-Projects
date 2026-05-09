@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Morris,christine.morris7759@business.net,+1 418-285-3846,314924354,04/23/1960,"5740 Main Way",San Antonio,CA

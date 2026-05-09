@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Jackson,jane.jackson2775@company.com,(804) 568-1906,530-34-8753,08/04/1989,"8605 Main Blvd",Houston,WA

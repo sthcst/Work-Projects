@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Murillo
+  email: samantha.murillo7705@yahoo.com
+  phone: 444-336-5082
+  ssn: 873-63-4004
+  dob: 10/07/1972
+  address: 7202 Maple Blvd
+  city: Denver
+  state: MD

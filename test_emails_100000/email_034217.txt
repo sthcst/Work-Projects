@@ -1,0 +1,9 @@
+contact:
+  name: Gary Martin
+  email: gary.martin3577@company.com
+  phone: 657 990 7171
+  ssn: 844 82 1301
+  dob: 5/20/1999
+  address: 8314 Birch Blvd
+  city: Denver
+  state: WI

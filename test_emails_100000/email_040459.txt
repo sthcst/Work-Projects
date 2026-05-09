@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Harris",
+    "email": "andrew.harris6062@company.com",
+    "phone": "+1 782-860-6462",
+    "ssn": "469-99-1573",
+    "dob": "09/19/2001",
+    "address": "1118 East Court",
+    "city": "Boston",
+    "state": "OH"
+  }
+}

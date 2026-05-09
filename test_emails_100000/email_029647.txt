@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Walker",
+    "email": "charles.walker4892@gmail.com",
+    "phone": "524 853 3545",
+    "ssn": "243 82 4060",
+    "dob": "03-22-1967",
+    "address": "1341 First Dr",
+    "city": "Boston",
+    "state": "CO"
+  }
+}

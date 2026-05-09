@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Carter
+  email: lauren.carter4917@gmail.com
+  phone: +1 282-430-8192
+  ssn: 676-97-8204
+  dob: 04/04/1993
+  address: 6563 Spring St
+  city: Dallas
+  state: TX

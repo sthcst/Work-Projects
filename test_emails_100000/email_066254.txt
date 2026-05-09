@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Reed
+  email: deborah.reed4698@example.com
+  phone: +1 411-732-2719
+  ssn: 968802575
+  dob: 08/01/1983
+  address: 7890 Oak Court
+  city: Philadelphia
+  state: CO

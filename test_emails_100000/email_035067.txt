@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Dominguez
+  email: pamela.dominguez3278@company.com
+  phone: 614-832-9037
+  ssn: 640-41-1239
+  dob: 5/5/1981
+  address: 3650 Summer Dr
+  city: Los Angeles
+  state: MA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Lopez",
+    "email": "helen.lopez8619@company.com",
+    "phone": "232-728-2557",
+    "ssn": "944 80 1193",
+    "dob": "7/26/1989",
+    "address": "3643 Cedar Court",
+    "city": "Denver",
+    "state": "GA"
+  }
+}

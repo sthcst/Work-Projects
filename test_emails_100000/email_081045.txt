@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Stewart
+  email: jacob.stewart6706@company.com
+  phone: (510) 427-2961
+  ssn: 640834861
+  dob: 12/19/2004
+  address: 2584 South Dr
+  city: San Diego
+  state: MI

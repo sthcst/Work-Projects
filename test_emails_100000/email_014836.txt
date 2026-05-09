@@ -1,0 +1,14 @@
+INVOICE 441226
+
+Bill To:
+Name: Megan Young
+Email: megan.young2658@example.com
+Phone: (964) 627-2199
+SSN: 988-78-4187
+
+Address: 5957 Second Ave
+Seattle, TX
+
+Date of Birth: 4/6/1974
+
+Amount Due: $6141

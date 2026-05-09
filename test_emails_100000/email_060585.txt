@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Flores,kenneth.flores982@company.com,(454) 451-5949,898969158,18/02/1954,"3524 Park St",San Diego,MD

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Jones",
+    "email": "helen.jones6899@yahoo.com",
+    "phone": "+1 650-814-1072",
+    "ssn": "075-86-6466",
+    "dob": "12/26/1984",
+    "address": "7788 North Blvd",
+    "city": "San Jose",
+    "state": "WA"
+  }
+}

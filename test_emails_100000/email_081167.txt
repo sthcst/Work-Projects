@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Jimenez",
+    "email": "nicole.jimenez2543@gmail.com",
+    "phone": "687-445-1290",
+    "ssn": "740 12 1706",
+    "dob": "07-05-1983",
+    "address": "5889 Fifth Court",
+    "city": "Seattle",
+    "state": "IL"
+  }
+}

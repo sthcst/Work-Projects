@@ -1,0 +1,9 @@
+contact:
+  name: Steven Phillips
+  email: steven.phillips3859@mail.com
+  phone: 242-754-1982
+  ssn: 656-97-5544
+  dob: 10/11/1970
+  address: 81 Spring Ave
+  city: New York
+  state: GA

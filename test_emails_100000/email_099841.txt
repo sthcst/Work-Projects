@@ -1,0 +1,9 @@
+contact:
+  name: Paul Martinez
+  email: paul.martinez6327@business.net
+  phone: 659-417-5301
+  ssn: 896516162
+  dob: 14/05/1961
+  address: 5554 Fifth St
+  city: San Diego
+  state: CA

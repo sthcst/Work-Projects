@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Alvarado,steven.alvarado4118@example.com,599-726-7465,775298349,11-22-1973,"9228 South Ave",Los Angeles,VA

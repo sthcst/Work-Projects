@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Williams",
+    "email": "katherine.williams4804@gmail.com",
+    "phone": "237-843-6144",
+    "ssn": "747182988",
+    "dob": "24/02/1987",
+    "address": "4743 Sixth St",
+    "city": "Los Angeles",
+    "state": "WA"
+  }
+}

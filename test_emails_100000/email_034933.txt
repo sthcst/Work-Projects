@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Ortiz
+  email: katherine.ortiz6304@business.net
+  phone: (480) 402-3519
+  ssn: 785-91-1545
+  dob: 07-04-1980
+  address: 4332 Maple St
+  city: New York
+  state: WA

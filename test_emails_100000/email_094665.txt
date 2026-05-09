@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Thompson",
+    "email": "edward.thompson3497@work.org",
+    "phone": "512-643-7433",
+    "ssn": "943483878",
+    "dob": "7/25/1961",
+    "address": "6021 Birch Ave",
+    "city": "Chicago",
+    "state": "WI"
+  }
+}

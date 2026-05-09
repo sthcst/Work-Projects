@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Williams",
+    "email": "jane.williams6332@yahoo.com",
+    "phone": "967-500-3038",
+    "ssn": "940 93 9715",
+    "dob": "05-22-1969",
+    "address": "4311 Maple St",
+    "city": "Seattle",
+    "state": "PA"
+  }
+}

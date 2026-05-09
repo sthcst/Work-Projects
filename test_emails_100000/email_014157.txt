@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Dominguez,brenda.dominguez213@outlook.com,857-640-9060,500 14 6920,04/25/2004,"3568 Park Dr",Washington,DC

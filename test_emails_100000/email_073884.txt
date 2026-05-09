@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Garcia,charles.garcia7274@mail.com,(793) 339-8631,460 54 4103,01-23-1967,"2749 Cedar Rd",Houston,TX

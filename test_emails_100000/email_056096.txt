@@ -1,0 +1,14 @@
+INVOICE 202185
+
+Bill To:
+Name: Stephanie White
+Email: stephanie.white3454@work.org
+Phone: 221-761-7673
+SSN: 255209164
+
+Address: 8050 Second Blvd
+Houston, NC
+
+Date of Birth: 08/02/1972
+
+Amount Due: $6676

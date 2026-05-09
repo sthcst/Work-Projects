@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Lewis
+  email: samantha.lewis7288@mail.com
+  phone: 661-259-5855
+  ssn: 340 60 2954
+  dob: 8/12/1973
+  address: 2643 Oak Court
+  city: Jacksonville
+  state: MA

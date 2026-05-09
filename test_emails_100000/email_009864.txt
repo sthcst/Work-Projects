@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Reyes
+  email: jessica.reyes3752@mail.com
+  phone: (807) 220-8632
+  ssn: 696-57-9192
+  dob: 23/04/1982
+  address: 8620 Elm Blvd
+  city: Seattle
+  state: FL

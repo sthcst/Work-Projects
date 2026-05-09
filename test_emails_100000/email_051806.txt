@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Ortiz",
+    "email": "angela.ortiz7337@mail.com",
+    "phone": "+1 605-685-1139",
+    "ssn": "636-03-3741",
+    "dob": "04/03/2002",
+    "address": "794 Main Ave",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

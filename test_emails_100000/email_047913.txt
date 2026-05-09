@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Morgan,charles.morgan2410@example.com,(840) 215-7672,955 14 3336,11/14/1961,"7181 North Ln",San Jose,IL

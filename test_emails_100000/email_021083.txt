@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Dominguez
+  email: michelle.dominguez4590@example.com
+  phone: (412) 217-1254
+  ssn: 217-45-7049
+  dob: 12/07/1969
+  address: 5054 Spring Court
+  city: Philadelphia
+  state: TX

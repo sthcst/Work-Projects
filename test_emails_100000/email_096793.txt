@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Stewart",
+    "email": "jane.stewart4327@gmail.com",
+    "phone": "422 701 4107",
+    "ssn": "543-22-3843",
+    "dob": "9/3/1964",
+    "address": "5680 Spring Way",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

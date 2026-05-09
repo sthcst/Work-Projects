@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Johnson",
+    "email": "mark.johnson6191@company.com",
+    "phone": "(368) 502-7954",
+    "ssn": "865 30 3452",
+    "dob": "10/21/2004",
+    "address": "4682 Summer Blvd",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

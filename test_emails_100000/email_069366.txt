@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Murillo",
+    "email": "john.murillo3662@outlook.com",
+    "phone": "+1 732-782-3902",
+    "ssn": "270348888",
+    "dob": "15/03/1974",
+    "address": "958 East Way",
+    "city": "San Diego",
+    "state": "OH"
+  }
+}

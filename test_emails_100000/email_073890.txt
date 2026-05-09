@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Bell,michael.bell6403@work.org,+1 462-541-9144,300 98 4679,06/04/2003,"7419 Maple Ln",San Antonio,OH

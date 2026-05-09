@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Reyes,william.reyes4597@work.org,(443) 268-5289,923-87-3299,04/20/2000,"6037 Cedar Ave",Los Angeles,FL

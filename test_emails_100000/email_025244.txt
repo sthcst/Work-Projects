@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Stewart
+  email: ashley.stewart5885@example.com
+  phone: +1 244-777-4668
+  ssn: 944 34 3847
+  dob: 06-03-1960
+  address: 8997 South Rd
+  city: Philadelphia
+  state: GA

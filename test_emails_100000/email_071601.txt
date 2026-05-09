@@ -1,0 +1,14 @@
+INVOICE 160275
+
+Bill To:
+Name: Rebecca Hernandez
+Email: rebecca.hernandez2378@example.com
+Phone: 737-878-6633
+SSN: 550 57 8927
+
+Address: 2178 North St
+Jacksonville, TX
+
+Date of Birth: 02/03/1960
+
+Amount Due: $4653

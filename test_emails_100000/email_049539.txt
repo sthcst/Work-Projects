@@ -1,0 +1,9 @@
+contact:
+  name: Robert Thompson
+  email: robert.thompson5165@gmail.com
+  phone: +1 875-512-8538
+  ssn: 067-55-2341
+  dob: 04-10-1990
+  address: 6880 Second Ln
+  city: Boston
+  state: TX

@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Robinson
+  email: rebecca.robinson9985@yahoo.com
+  phone: +1 801-610-7227
+  ssn: 689 39 6463
+  dob: 4/27/1993
+  address: 5590 Second Ave
+  city: Chicago
+  state: FL

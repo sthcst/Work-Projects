@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Anderson",
+    "email": "katherine.anderson1567@work.org",
+    "phone": "+1 615-666-2450",
+    "ssn": "789 45 1431",
+    "dob": "04-22-1972",
+    "address": "1931 Sixth Dr",
+    "city": "Austin",
+    "state": "PA"
+  }
+}

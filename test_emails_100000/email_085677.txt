@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Perez,nicholas.perez2111@business.net,882-912-7569,458 24 5871,11-05-1999,"6317 Oak St",New York,GA

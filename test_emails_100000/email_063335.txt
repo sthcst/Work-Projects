@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Ramirez,michael.ramirez2179@outlook.com,618 454 6122,429-01-6068,01/26/1968,"4059 Maple Blvd",San Antonio,TX

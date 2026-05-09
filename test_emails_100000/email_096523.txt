@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Taylor,daniel.taylor2222@example.com,654 957 5051,291-63-3334,09-16-1985,"4202 Fourth Way",Austin,TN

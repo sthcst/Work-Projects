@@ -1,0 +1,9 @@
+contact:
+  name: Christine Jimenez
+  email: christine.jimenez3615@gmail.com
+  phone: +1 676-484-1240
+  ssn: 777-03-7989
+  dob: 01/05/1954
+  address: 7042 Sixth St
+  city: Jacksonville
+  state: NJ

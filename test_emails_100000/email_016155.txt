@@ -1,0 +1,9 @@
+contact:
+  name: Charles Morris
+  email: charles.morris1785@work.org
+  phone: (646) 976-9733
+  ssn: 693 59 5986
+  dob: 09/05/1957
+  address: 4306 Third Court
+  city: San Jose
+  state: NJ

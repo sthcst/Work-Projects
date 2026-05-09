@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Reyes",
+    "email": "michelle.reyes9954@work.org",
+    "phone": "+1 227-779-9244",
+    "ssn": "815 28 1495",
+    "dob": "02/08/1984",
+    "address": "399 Pine Way",
+    "city": "Austin",
+    "state": "TN"
+  }
+}

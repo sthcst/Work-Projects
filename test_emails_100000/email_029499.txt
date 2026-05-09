@@ -1,0 +1,14 @@
+INVOICE 488758
+
+Bill To:
+Name: Steven Parker
+Email: steven.parker7552@company.com
+Phone: (200) 211-3834
+SSN: 687431805
+
+Address: 1521 Maple St
+Boston, NJ
+
+Date of Birth: 12/4/1961
+
+Amount Due: $6959

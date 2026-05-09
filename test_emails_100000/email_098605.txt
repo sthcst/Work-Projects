@@ -1,0 +1,9 @@
+contact:
+  name: Robert Martin
+  email: robert.martin1285@mail.com
+  phone: 335 583 1053
+  ssn: 096814324
+  dob: 4/23/1981
+  address: 2672 West St
+  city: San Jose
+  state: DC

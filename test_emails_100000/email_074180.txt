@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Wilson
+  email: ryan.wilson2365@business.net
+  phone: 938-304-5973
+  ssn: 878-98-8580
+  dob: 04/11/1954
+  address: 5666 North Ln
+  city: Washington
+  state: OH

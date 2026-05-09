@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Campbell",
+    "email": "donald.campbell8773@yahoo.com",
+    "phone": "724 667 2663",
+    "ssn": "236-45-9682",
+    "dob": "8/16/2001",
+    "address": "4418 Main Way",
+    "city": "Austin",
+    "state": "WI"
+  }
+}

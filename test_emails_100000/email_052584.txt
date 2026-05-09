@@ -1,0 +1,9 @@
+contact:
+  name: Angela Guerrero
+  email: angela.guerrero3822@company.com
+  phone: 457-827-5120
+  ssn: 726 76 1963
+  dob: 05-25-1988
+  address: 6439 Summer Court
+  city: Chicago
+  state: DC

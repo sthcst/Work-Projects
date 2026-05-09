@@ -1,0 +1,9 @@
+contact:
+  name: Steven Thomas
+  email: steven.thomas6693@company.com
+  phone: 508-648-7654
+  ssn: 463-77-8701
+  dob: 11/11/1959
+  address: 9634 Sixth Court
+  city: Boston
+  state: CO

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Thompson",
+    "email": "gary.thompson6848@gmail.com",
+    "phone": "+1 664-771-5774",
+    "ssn": "555-14-1641",
+    "dob": "1/10/1958",
+    "address": "5860 Park Ln",
+    "city": "San Jose",
+    "state": "NJ"
+  }
+}

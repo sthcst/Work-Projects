@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Nelson",
+    "email": "joseph.nelson2683@company.com",
+    "phone": "+1 368-666-4578",
+    "ssn": "607-50-7156",
+    "dob": "07-10-1970",
+    "address": "2562 First Ln",
+    "city": "Phoenix",
+    "state": "PA"
+  }
+}

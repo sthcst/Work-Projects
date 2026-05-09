@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Cooper,jane.cooper963@business.net,(567) 847-5905,911 02 7426,10/06/1968,"2529 Sixth Way",New York,MI

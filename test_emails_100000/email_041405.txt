@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Gomez,lisa.gomez6446@yahoo.com,606-605-6128,275 34 7931,11/01/1974,"1493 Sixth St",Boston,DC

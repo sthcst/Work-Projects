@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Sanchez,edward.sanchez1221@example.com,657-668-2731,154827588,04-16-1967,"4330 First St",San Antonio,WA

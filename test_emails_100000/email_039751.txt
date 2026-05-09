@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Smith
+  email: cynthia.smith5023@gmail.com
+  phone: +1 283-781-7116
+  ssn: 487769215
+  dob: 10/08/1994
+  address: 8624 Oak Court
+  city: Washington
+  state: NC

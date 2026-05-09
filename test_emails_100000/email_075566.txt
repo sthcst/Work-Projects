@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Alvarado",
+    "email": "emma.alvarado5768@example.com",
+    "phone": "852-741-9468",
+    "ssn": "925 01 2760",
+    "dob": "27/07/1972",
+    "address": "4257 Pine Way",
+    "city": "San Jose",
+    "state": "VA"
+  }
+}

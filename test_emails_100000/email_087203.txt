@@ -1,0 +1,14 @@
+INVOICE 410199
+
+Bill To:
+Name: Angela Jones
+Email: angela.jones8127@yahoo.com
+Phone: +1 945-298-9355
+SSN: 570207043
+
+Address: 2397 Spring Rd
+Chicago, FL
+
+Date of Birth: 4/3/1997
+
+Amount Due: $7287

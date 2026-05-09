@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Gonzalez,kevin.gonzalez9214@gmail.com,279-711-4777,910601747,05/13/1964,"7213 East Blvd",San Jose,CA

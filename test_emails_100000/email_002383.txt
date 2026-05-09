@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Parker,jacob.parker3539@company.com,(913) 604-3642,887-17-6526,7/28/2000,"4992 Third Ln",Seattle,CA

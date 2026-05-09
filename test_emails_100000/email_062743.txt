@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Wilson",
+    "email": "pamela.wilson6019@company.com",
+    "phone": "+1 398-984-6085",
+    "ssn": "784-17-1613",
+    "dob": "02/21/1966",
+    "address": "5179 Sixth Court",
+    "city": "Dallas",
+    "state": "IL"
+  }
+}

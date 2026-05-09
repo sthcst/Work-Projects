@@ -1,0 +1,9 @@
+contact:
+  name: Richard Thompson
+  email: richard.thompson1665@yahoo.com
+  phone: +1 415-981-3512
+  ssn: 044 70 8280
+  dob: 01/12/1993
+  address: 6909 Fourth Ln
+  city: San Antonio
+  state: PA

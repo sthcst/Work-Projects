@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Lee
+  email: rebecca.lee9342@business.net
+  phone: +1 483-589-3576
+  ssn: 892-45-1473
+  dob: 21/05/1955
+  address: 3674 Main St
+  city: Boston
+  state: NC

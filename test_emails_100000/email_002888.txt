@@ -1,0 +1,14 @@
+INVOICE 542664
+
+Bill To:
+Name: Jacob Reyes
+Email: jacob.reyes180@example.com
+Phone: 800-300-9079
+SSN: 610-73-8666
+
+Address: 3556 Pine St
+Los Angeles, WA
+
+Date of Birth: 15/06/1987
+
+Amount Due: $2821

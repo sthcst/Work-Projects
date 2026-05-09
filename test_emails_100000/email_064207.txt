@@ -1,0 +1,9 @@
+contact:
+  name: Megan Campbell
+  email: megan.campbell8030@work.org
+  phone: 211 210 9098
+  ssn: 969-92-8292
+  dob: 02-05-1954
+  address: 5146 Elm Blvd
+  city: San Jose
+  state: FL

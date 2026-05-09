@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Taylor",
+    "email": "lisa.taylor8300@gmail.com",
+    "phone": "861-769-1436",
+    "ssn": "974037758",
+    "dob": "26/03/1983",
+    "address": "5313 Oak Court",
+    "city": "Phoenix",
+    "state": "MA"
+  }
+}

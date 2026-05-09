@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Harris,ashley.harris2707@company.com,+1 569-952-1136,425 01 4934,12/04/1975,"9759 Pine St",Jacksonville,TX

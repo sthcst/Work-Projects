@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Parker",
+    "email": "anna.parker385@business.net",
+    "phone": "320-438-8056",
+    "ssn": "054-81-7487",
+    "dob": "4/12/2004",
+    "address": "737 East Rd",
+    "city": "Houston",
+    "state": "NY"
+  }
+}

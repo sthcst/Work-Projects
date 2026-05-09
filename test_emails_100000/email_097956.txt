@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Serrano",
+    "email": "anna.serrano3730@outlook.com",
+    "phone": "+1 278-695-8615",
+    "ssn": "276 81 2636",
+    "dob": "02-08-1965",
+    "address": "9046 Main Court",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

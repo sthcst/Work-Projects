@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Davis
+  email: lisa.davis254@yahoo.com
+  phone: 899-692-2502
+  ssn: 156-14-4809
+  dob: 03-22-1994
+  address: 6644 Birch Rd
+  city: Boston
+  state: CA

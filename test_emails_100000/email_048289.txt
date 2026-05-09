@@ -1,0 +1,14 @@
+INVOICE 233560
+
+Bill To:
+Name: Angela Ramirez
+Email: angela.ramirez2107@example.com
+Phone: 448-727-1513
+SSN: 922129002
+
+Address: 3517 Park Dr
+Jacksonville, DC
+
+Date of Birth: 01/08/1955
+
+Amount Due: $735

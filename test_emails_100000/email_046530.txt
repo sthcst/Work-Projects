@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Reyes
+  email: kathleen.reyes7118@gmail.com
+  phone: 783-791-3289
+  ssn: 771237616
+  dob: 27/07/1966
+  address: 7050 Elm Rd
+  city: Philadelphia
+  state: CA

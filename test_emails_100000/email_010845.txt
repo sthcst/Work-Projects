@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Morgan,angela.morgan4648@work.org,546-501-4616,924 06 3205,27/09/2004,"9235 Oak Blvd",New York,CA

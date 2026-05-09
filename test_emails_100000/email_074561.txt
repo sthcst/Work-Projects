@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Thomas
+  email: brenda.thomas4220@business.net
+  phone: 834-776-8411
+  ssn: 695269911
+  dob: 03/07/1978
+  address: 8028 Birch Way
+  city: Boston
+  state: PA

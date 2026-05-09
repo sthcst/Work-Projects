@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Dominguez
+  email: nicole.dominguez58@example.com
+  phone: (729) 282-2771
+  ssn: 244 12 4189
+  dob: 06/06/1959
+  address: 4078 North Blvd
+  city: Boston
+  state: WA

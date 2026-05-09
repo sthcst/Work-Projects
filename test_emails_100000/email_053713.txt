@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Wilson
+  email: kevin.wilson2405@work.org
+  phone: +1 889-906-3667
+  ssn: 790 64 9820
+  dob: 14/03/1985
+  address: 6732 Summer Ln
+  city: Jacksonville
+  state: IL

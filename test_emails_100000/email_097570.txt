@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Jackson",
+    "email": "jeffrey.jackson5384@outlook.com",
+    "phone": "+1 495-591-9368",
+    "ssn": "415 28 6559",
+    "dob": "11-18-1963",
+    "address": "3539 Fourth St",
+    "city": "Boston",
+    "state": "FL"
+  }
+}

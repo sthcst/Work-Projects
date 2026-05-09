@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Rogers,steven.rogers4276@gmail.com,709 229 2344,744 96 5068,4/6/1966,"8855 Spring Blvd",Seattle,IL

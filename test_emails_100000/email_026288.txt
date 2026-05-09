@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Wilson",
+    "email": "angela.wilson5551@example.com",
+    "phone": "(604) 268-8999",
+    "ssn": "368265785",
+    "dob": "08-21-1960",
+    "address": "8775 Elm Ave",
+    "city": "Seattle",
+    "state": "TN"
+  }
+}

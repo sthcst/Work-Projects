@@ -1,0 +1,9 @@
+contact:
+  name: Emma Lopez
+  email: emma.lopez3551@work.org
+  phone: 549-908-8916
+  ssn: 503-64-3703
+  dob: 12-07-1969
+  address: 9970 East Dr
+  city: Chicago
+  state: IL

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Thompson,andrew.thompson6398@gmail.com,754-658-5206,177453465,02-21-1994,"4508 Fourth St",Jacksonville,IL

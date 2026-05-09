@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Collins
+  email: jennifer.collins4144@gmail.com
+  phone: 493-228-7354
+  ssn: 378 85 5083
+  dob: 10/22/1951
+  address: 7800 Spring Court
+  city: Phoenix
+  state: CA

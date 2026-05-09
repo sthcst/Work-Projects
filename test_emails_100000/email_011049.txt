@@ -1,0 +1,14 @@
+INVOICE 943841
+
+Bill To:
+Name: George Peterson
+Email: george.peterson5441@mail.com
+Phone: 629-376-2543
+SSN: 201364765
+
+Address: 5008 Second Court
+Seattle, FL
+
+Date of Birth: 07-13-1983
+
+Amount Due: $375

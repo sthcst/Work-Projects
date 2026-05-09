@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Nelson
+  email: ryan.nelson3696@outlook.com
+  phone: 329-595-9349
+  ssn: 916 88 9978
+  dob: 5/3/1990
+  address: 241 Pine Dr
+  city: Jacksonville
+  state: TX

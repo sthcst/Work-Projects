@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Peterson,joshua.peterson1508@mail.com,470-824-8552,334688482,4/1/1987,"6219 East Ln",Seattle,FL

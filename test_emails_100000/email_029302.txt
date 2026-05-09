@@ -1,0 +1,14 @@
+INVOICE 605316
+
+Bill To:
+Name: Andrew Nelson
+Email: andrew.nelson6002@company.com
+Phone: (364) 333-9153
+SSN: 954975512
+
+Address: 3020 Park Ln
+Phoenix, CO
+
+Date of Birth: 16/06/1953
+
+Amount Due: $4155

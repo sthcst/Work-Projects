@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Gomez
+  email: nicholas.gomez6891@mail.com
+  phone: +1 210-333-4263
+  ssn: 860975288
+  dob: 18/05/1968
+  address: 7243 Sixth St
+  city: Philadelphia
+  state: MI

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Johnson,donald.johnson8446@company.com,790 435 1020,366 67 7870,15/04/1956,"1774 Birch Way",Boston,VA

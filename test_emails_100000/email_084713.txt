@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Delgado",
+    "email": "charles.delgado4701@company.com",
+    "phone": "623 878 4783",
+    "ssn": "578529086",
+    "dob": "01-04-1953",
+    "address": "2934 Maple St",
+    "city": "Houston",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Jane Davis
+  email: jane.davis4921@mail.com
+  phone: 276 392 6835
+  ssn: 111-10-3088
+  dob: 12-10-1952
+  address: 9974 Oak Blvd
+  city: Seattle
+  state: NY

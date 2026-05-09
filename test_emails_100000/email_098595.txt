@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Morgan",
+    "email": "anna.morgan5459@mail.com",
+    "phone": "757 407 3434",
+    "ssn": "828-54-8949",
+    "dob": "9/12/1972",
+    "address": "2794 North Ln",
+    "city": "Austin",
+    "state": "GA"
+  }
+}

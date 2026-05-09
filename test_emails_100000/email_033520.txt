@@ -1,0 +1,14 @@
+INVOICE 499485
+
+Bill To:
+Name: Angela Hall
+Email: angela.hall6530@company.com
+Phone: +1 274-609-3218
+SSN: 586-35-9851
+
+Address: 674 South Ave
+Boston, MD
+
+Date of Birth: 08/11/1960
+
+Amount Due: $1665

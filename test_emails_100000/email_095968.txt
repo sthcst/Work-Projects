@@ -1,0 +1,14 @@
+INVOICE 725874
+
+Bill To:
+Name: Katherine Anderson
+Email: katherine.anderson9625@company.com
+Phone: 995 777 2608
+SSN: 356-72-8051
+
+Address: 7268 Cedar Rd
+Seattle, CA
+
+Date of Birth: 02/24/1966
+
+Amount Due: $6405

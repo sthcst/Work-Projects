@@ -1,0 +1,9 @@
+contact:
+  name: Gary Ramirez
+  email: gary.ramirez6365@example.com
+  phone: 234 908 3606
+  ssn: 933 47 8377
+  dob: 09-21-2003
+  address: 5506 Park Court
+  city: Denver
+  state: WI

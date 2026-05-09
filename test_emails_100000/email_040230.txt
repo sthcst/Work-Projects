@@ -1,0 +1,14 @@
+INVOICE 403122
+
+Bill To:
+Name: George Jimenez
+Email: george.jimenez9058@work.org
+Phone: +1 553-373-9599
+SSN: 906095794
+
+Address: 3871 Park Court
+Austin, GA
+
+Date of Birth: 09/24/1952
+
+Amount Due: $2348

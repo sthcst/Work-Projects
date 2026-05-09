@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Reyes",
+    "email": "david.reyes343@yahoo.com",
+    "phone": "351 527 3222",
+    "ssn": "994-32-3698",
+    "dob": "02-20-1962",
+    "address": "5770 Third Ln",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

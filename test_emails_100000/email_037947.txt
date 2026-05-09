@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Young,rachel.young3161@yahoo.com,681-341-5623,750 28 1775,4/17/1984,"6540 East Ave",San Diego,CA

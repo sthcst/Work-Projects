@@ -1,0 +1,14 @@
+INVOICE 555264
+
+Bill To:
+Name: Charles Johnson
+Email: charles.johnson4095@yahoo.com
+Phone: 607 664 7295
+SSN: 976166565
+
+Address: 6591 Third Blvd
+Phoenix, MI
+
+Date of Birth: 03-23-1957
+
+Amount Due: $4767

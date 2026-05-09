@@ -1,0 +1,9 @@
+contact:
+  name: Jason Romero
+  email: jason.romero2766@outlook.com
+  phone: +1 520-957-6480
+  ssn: 310535196
+  dob: 9/27/1957
+  address: 8432 Sixth Court
+  city: Jacksonville
+  state: TX

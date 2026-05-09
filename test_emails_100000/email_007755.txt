@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Flores,angela.flores8420@gmail.com,681 814 9310,147 11 3125,03/20/1958,"4935 East Blvd",San Antonio,FL

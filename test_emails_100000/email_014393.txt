@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Moore
+  email: katherine.moore4093@company.com
+  phone: (218) 605-1061
+  ssn: 777409328
+  dob: 20/11/1991
+  address: 6748 Main Ln
+  city: Houston
+  state: AZ

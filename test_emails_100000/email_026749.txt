@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Thompson
+  email: shirley.thompson5134@gmail.com
+  phone: 636 264 3786
+  ssn: 876 73 9360
+  dob: 10-06-1991
+  address: 1262 Pine St
+  city: Austin
+  state: DC

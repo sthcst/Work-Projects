@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Edwards,pamela.edwards6296@work.org,(689) 229-8808,314 60 6026,07/23/1975,"2983 Park Rd",Chicago,MO

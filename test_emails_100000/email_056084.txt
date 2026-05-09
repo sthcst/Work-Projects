@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Anderson",
+    "email": "timothy.anderson7558@yahoo.com",
+    "phone": "+1 925-937-8307",
+    "ssn": "812612031",
+    "dob": "12-27-2002",
+    "address": "8125 Birch Court",
+    "city": "Los Angeles",
+    "state": "MI"
+  }
+}

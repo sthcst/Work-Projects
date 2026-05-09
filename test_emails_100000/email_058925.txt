@@ -1,0 +1,14 @@
+INVOICE 334197
+
+Bill To:
+Name: Andrew Martinez
+Email: andrew.martinez9951@example.com
+Phone: +1 813-898-4411
+SSN: 390994784
+
+Address: 3609 Birch Way
+Jacksonville, AZ
+
+Date of Birth: 6/5/2003
+
+Amount Due: $2465

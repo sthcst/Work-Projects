@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Harris",
+    "email": "jeffrey.harris4872@company.com",
+    "phone": "229-864-3266",
+    "ssn": "760476111",
+    "dob": "04/27/1999",
+    "address": "2639 Elm Court",
+    "city": "New York",
+    "state": "WA"
+  }
+}

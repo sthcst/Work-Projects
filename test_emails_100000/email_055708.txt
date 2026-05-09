@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Dominguez",
+    "email": "emily.dominguez2268@work.org",
+    "phone": "(486) 324-6192",
+    "ssn": "129417851",
+    "dob": "08-12-1982",
+    "address": "4534 Fourth Rd",
+    "city": "Denver",
+    "state": "CO"
+  }
+}

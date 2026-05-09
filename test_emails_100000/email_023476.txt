@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Romero",
+    "email": "michelle.romero9861@example.com",
+    "phone": "460 922 5183",
+    "ssn": "401 46 1373",
+    "dob": "7/15/1988",
+    "address": "3319 Elm Ave",
+    "city": "Seattle",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Rogers",
+    "email": "james.rogers8926@outlook.com",
+    "phone": "+1 264-237-2423",
+    "ssn": "904-41-5249",
+    "dob": "11/8/1995",
+    "address": "8432 Birch Rd",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

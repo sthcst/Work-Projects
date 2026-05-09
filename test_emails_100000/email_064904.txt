@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Anderson
+  email: kevin.anderson9383@mail.com
+  phone: 925-219-8016
+  ssn: 385 69 5833
+  dob: 11-27-1950
+  address: 1962 Cedar Ln
+  city: Washington
+  state: MO

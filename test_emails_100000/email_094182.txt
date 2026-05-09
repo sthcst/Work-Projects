@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Morgan,megan.morgan5723@outlook.com,+1 595-945-8764,159-66-6521,10/20/2005,"5846 Fifth St",Los Angeles,VA

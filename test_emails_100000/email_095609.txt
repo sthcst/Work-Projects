@@ -1,0 +1,14 @@
+INVOICE 563452
+
+Bill To:
+Name: Michelle Peterson
+Email: michelle.peterson2820@gmail.com
+Phone: 656-216-8985
+SSN: 151219602
+
+Address: 7609 Spring Court
+Phoenix, CO
+
+Date of Birth: 04/08/1999
+
+Amount Due: $194

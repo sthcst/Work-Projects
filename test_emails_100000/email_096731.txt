@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Evans",
+    "email": "joseph.evans6725@example.com",
+    "phone": "+1 851-627-5859",
+    "ssn": "121 41 4904",
+    "dob": "12-03-2005",
+    "address": "7520 Main Rd",
+    "city": "Houston",
+    "state": "OH"
+  }
+}

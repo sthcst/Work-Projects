@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Reed,william.reed2927@company.com,+1 572-759-8556,627-69-1639,07-25-1976,"2469 Maple Ave",Washington,CA

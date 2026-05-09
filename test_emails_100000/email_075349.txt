@@ -1,0 +1,14 @@
+INVOICE 329447
+
+Bill To:
+Name: Steven Romero
+Email: steven.romero5572@outlook.com
+Phone: (954) 641-9122
+SSN: 943 23 3408
+
+Address: 149 Sixth Way
+Chicago, WA
+
+Date of Birth: 06/01/2003
+
+Amount Due: $6569

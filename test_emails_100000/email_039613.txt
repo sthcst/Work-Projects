@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Martin,jeffrey.martin9350@example.com,(775) 773-5605,230523182,04/28/1968,"2533 Maple Ave",Chicago,TX

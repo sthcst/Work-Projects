@@ -1,0 +1,9 @@
+contact:
+  name: Paul Gomez
+  email: paul.gomez2429@mail.com
+  phone: +1 924-884-3109
+  ssn: 163 56 6222
+  dob: 5/4/1956
+  address: 1650 Third Ave
+  city: Denver
+  state: MD

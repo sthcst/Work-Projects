@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Alvarado,gary.alvarado6346@outlook.com,535-243-3858,530 79 8836,01/14/1977,"6530 Fifth Ln",New York,CA

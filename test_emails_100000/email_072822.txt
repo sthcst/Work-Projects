@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Nunez,jane.nunez6962@company.com,+1 645-770-3278,757 09 2024,01/08/1980,"5059 Fourth Way",Houston,CO

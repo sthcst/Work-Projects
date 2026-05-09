@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Smith",
+    "email": "pamela.smith7447@mail.com",
+    "phone": "+1 528-408-5350",
+    "ssn": "678 90 9455",
+    "dob": "06-28-1995",
+    "address": "2077 Maple Ave",
+    "city": "New York",
+    "state": "PA"
+  }
+}

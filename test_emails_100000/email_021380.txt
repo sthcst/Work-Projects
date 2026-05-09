@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Serrano",
+    "email": "pamela.serrano4566@business.net",
+    "phone": "(566) 245-2246",
+    "ssn": "727814824",
+    "dob": "09-21-1970",
+    "address": "9976 Second Blvd",
+    "city": "Phoenix",
+    "state": "NJ"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Lee,katherine.lee2055@company.com,(679) 572-8401,072-43-4910,04-08-1980,"573 Birch Way",Houston,VA

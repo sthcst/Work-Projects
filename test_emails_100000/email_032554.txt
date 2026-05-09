@@ -1,0 +1,14 @@
+INVOICE 806623
+
+Bill To:
+Name: George Lee
+Email: george.lee1556@mail.com
+Phone: 762-602-7682
+SSN: 658-03-4938
+
+Address: 9460 Cedar Blvd
+Chicago, GA
+
+Date of Birth: 11/01/2000
+
+Amount Due: $5252

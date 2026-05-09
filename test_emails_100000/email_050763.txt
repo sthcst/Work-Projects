@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Hernandez
+  email: anthony.hernandez4113@gmail.com
+  phone: 235 547 9318
+  ssn: 308977044
+  dob: 12-23-1968
+  address: 269 East Ave
+  city: Seattle
+  state: WA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Alvarado",
+    "email": "paul.alvarado5347@yahoo.com",
+    "phone": "848 382 8593",
+    "ssn": "926 34 3774",
+    "dob": "4/17/1955",
+    "address": "9435 Fifth St",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

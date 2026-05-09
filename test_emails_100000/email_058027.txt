@@ -1,0 +1,14 @@
+INVOICE 512666
+
+Bill To:
+Name: Ryan Garcia
+Email: ryan.garcia2127@yahoo.com
+Phone: 818-871-3233
+SSN: 145 93 4843
+
+Address: 4006 West Ln
+Jacksonville, MA
+
+Date of Birth: 07/03/1978
+
+Amount Due: $9918

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Moore,katherine.moore7957@mail.com,350-579-5092,446-53-9753,07-11-1996,"4936 Summer Rd",San Diego,AZ

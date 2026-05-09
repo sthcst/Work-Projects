@@ -1,0 +1,9 @@
+contact:
+  name: Richard Clark
+  email: richard.clark1541@yahoo.com
+  phone: 438-693-8991
+  ssn: 154-81-7153
+  dob: 07-28-1953
+  address: 7425 Sixth Ln
+  city: San Jose
+  state: GA

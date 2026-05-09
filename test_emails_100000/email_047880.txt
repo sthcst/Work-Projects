@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Sanchez",
+    "email": "donald.sanchez4109@gmail.com",
+    "phone": "+1 889-753-7491",
+    "ssn": "041 62 8569",
+    "dob": "24/02/1956",
+    "address": "1749 Fifth Ln",
+    "city": "San Diego",
+    "state": "MA"
+  }
+}

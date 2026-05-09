@@ -1,0 +1,12 @@
+SUPPORT TICKET #64813
+
+Customer: Jacob Thomas
+Email: jacob.thomas3489@example.com
+Phone: 985 726 7398
+Account: 219-05-7380
+
+Issue Description: Technical problem reported
+DOB on file: 11/12/2003
+Address: 7441 Fourth St, Chicago, CO
+
+Status: OPEN

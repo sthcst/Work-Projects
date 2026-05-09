@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Hernandez",
+    "email": "rebecca.hernandez6437@yahoo.com",
+    "phone": "950 772 4337",
+    "ssn": "926-69-5700",
+    "dob": "12/03/1976",
+    "address": "2659 Pine Court",
+    "city": "New York",
+    "state": "GA"
+  }
+}

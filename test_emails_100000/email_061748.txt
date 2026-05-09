@@ -1,0 +1,9 @@
+contact:
+  name: Jane Ramirez
+  email: jane.ramirez8087@work.org
+  phone: +1 596-871-8161
+  ssn: 239-04-5283
+  dob: 02/18/1957
+  address: 6800 Spring Ave
+  city: Austin
+  state: AZ

@@ -1,0 +1,9 @@
+contact:
+  name: Edward Phillips
+  email: edward.phillips8401@example.com
+  phone: +1 554-539-7020
+  ssn: 765-34-2591
+  dob: 22/12/1961
+  address: 271 Summer Dr
+  city: San Diego
+  state: MD

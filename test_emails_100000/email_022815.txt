@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Carter",
+    "email": "kenneth.carter11@outlook.com",
+    "phone": "846 995 3801",
+    "ssn": "931-45-4348",
+    "dob": "06-23-1955",
+    "address": "6398 Maple Way",
+    "city": "Houston",
+    "state": "OH"
+  }
+}

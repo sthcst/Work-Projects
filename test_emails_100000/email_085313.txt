@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Moore,lisa.moore7131@example.com,+1 789-276-9804,751-69-7173,02-25-1968,"1714 South Rd",Dallas,TX

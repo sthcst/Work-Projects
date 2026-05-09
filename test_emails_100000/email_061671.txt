@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Reyes,paul.reyes893@outlook.com,(762) 614-2606,957455545,27/07/1962,"3083 Birch Rd",San Jose,NC

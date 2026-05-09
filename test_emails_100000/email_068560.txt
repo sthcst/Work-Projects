@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Sanchez,stephanie.sanchez9711@example.com,(759) 577-4646,488-30-1874,12-13-1994,"7967 Sixth Way",New York,CA

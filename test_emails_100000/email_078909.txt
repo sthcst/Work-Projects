@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Gomez
+  email: nicole.gomez1867@business.net
+  phone: (430) 216-6141
+  ssn: 562 87 3850
+  dob: 11-16-1959
+  address: 2119 Fourth Ln
+  city: Phoenix
+  state: NJ

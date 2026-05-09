@@ -1,0 +1,9 @@
+contact:
+  name: Jane White
+  email: jane.white210@business.net
+  phone: +1 332-527-9243
+  ssn: 988 30 4246
+  dob: 12/08/2002
+  address: 7406 Fourth Ave
+  city: Los Angeles
+  state: TX

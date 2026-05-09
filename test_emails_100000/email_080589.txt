@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Serrano,edward.serrano2316@gmail.com,343 602 1229,343581576,24/03/1962,"4801 Cedar Ln",Phoenix,IL

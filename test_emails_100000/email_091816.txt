@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Stewart",
+    "email": "deborah.stewart9758@gmail.com",
+    "phone": "972 989 5984",
+    "ssn": "775-17-5431",
+    "dob": "06-11-1987",
+    "address": "5363 West Rd",
+    "city": "New York",
+    "state": "FL"
+  }
+}

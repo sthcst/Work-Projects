@@ -1,0 +1,14 @@
+INVOICE 901699
+
+Bill To:
+Name: Anthony Carter
+Email: anthony.carter4554@business.net
+Phone: 432-699-8590
+SSN: 865327546
+
+Address: 5585 Oak Blvd
+Los Angeles, MA
+
+Date of Birth: 11/12/1974
+
+Amount Due: $2975

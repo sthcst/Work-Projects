@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Morris",
+    "email": "sarah.morris1720@example.com",
+    "phone": "600 528 7603",
+    "ssn": "250 92 8224",
+    "dob": "11/04/1954",
+    "address": "187 North St",
+    "city": "Philadelphia",
+    "state": "PA"
+  }
+}

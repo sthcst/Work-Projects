@@ -1,0 +1,14 @@
+INVOICE 850707
+
+Bill To:
+Name: Christine Morris
+Email: christine.morris6337@example.com
+Phone: +1 206-755-6852
+SSN: 572 02 4205
+
+Address: 1254 Second Ln
+Jacksonville, NJ
+
+Date of Birth: 5/23/2002
+
+Amount Due: $2693

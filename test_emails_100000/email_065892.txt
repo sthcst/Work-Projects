@@ -1,0 +1,14 @@
+INVOICE 646721
+
+Bill To:
+Name: Deborah Morris
+Email: deborah.morris6519@example.com
+Phone: 308 391 1676
+SSN: 840542812
+
+Address: 6391 Birch Rd
+Los Angeles, MA
+
+Date of Birth: 04/09/1984
+
+Amount Due: $3847

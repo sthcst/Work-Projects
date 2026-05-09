@@ -1,0 +1,14 @@
+INVOICE 813209
+
+Bill To:
+Name: Nicholas Smith
+Email: nicholas.smith8257@business.net
+Phone: (985) 205-8689
+SSN: 300 86 6909
+
+Address: 861 West Rd
+Los Angeles, NY
+
+Date of Birth: 11/2/1993
+
+Amount Due: $2337

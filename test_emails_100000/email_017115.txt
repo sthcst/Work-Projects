@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Thompson",
+    "email": "john.thompson3856@outlook.com",
+    "phone": "355 842 3209",
+    "ssn": "563 34 6707",
+    "dob": "07-03-1960",
+    "address": "574 Pine St",
+    "city": "Jacksonville",
+    "state": "TN"
+  }
+}

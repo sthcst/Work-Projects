@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Peterson,ronald.peterson660@gmail.com,+1 447-541-3194,840-09-9700,05/09/2005,"8866 Fifth Dr",San Diego,CA

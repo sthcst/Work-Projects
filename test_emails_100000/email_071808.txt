@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Murillo",
+    "email": "emily.murillo6362@gmail.com",
+    "phone": "802-232-9463",
+    "ssn": "984-34-7518",
+    "dob": "03/16/1973",
+    "address": "8983 Maple Ave",
+    "city": "Chicago",
+    "state": "NY"
+  }
+}

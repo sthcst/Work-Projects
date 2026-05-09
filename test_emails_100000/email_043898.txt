@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Thompson",
+    "email": "pamela.thompson8809@yahoo.com",
+    "phone": "(669) 959-1890",
+    "ssn": "048-57-4103",
+    "dob": "07/24/1994",
+    "address": "4421 First Ave",
+    "city": "Chicago",
+    "state": "WA"
+  }
+}

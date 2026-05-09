@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Rodriguez
+  email: joseph.rodriguez6379@example.com
+  phone: 952-707-3134
+  ssn: 196 91 8171
+  dob: 04-24-2002
+  address: 1032 Maple Ln
+  city: Denver
+  state: MO

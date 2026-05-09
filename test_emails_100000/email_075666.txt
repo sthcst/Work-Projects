@@ -1,0 +1,9 @@
+contact:
+  name: Angela Robinson
+  email: angela.robinson3232@gmail.com
+  phone: 995-227-6633
+  ssn: 459788148
+  dob: 04/13/1989
+  address: 5473 Sixth Way
+  city: Austin
+  state: NJ

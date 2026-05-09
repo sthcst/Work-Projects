@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Thomas,helen.thomas2578@example.com,298 792 9297,278339870,05/06/1991,"4556 Third Ln",Jacksonville,CA

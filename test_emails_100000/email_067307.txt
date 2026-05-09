@@ -1,0 +1,9 @@
+contact:
+  name: Jane Smith
+  email: jane.smith599@outlook.com
+  phone: 689-788-1767
+  ssn: 286581345
+  dob: 06/17/1980
+  address: 2537 Maple Ln
+  city: San Jose
+  state: OH

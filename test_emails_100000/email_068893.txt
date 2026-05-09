@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Matthew Morgan,matthew.morgan7307@work.org,+1 755-357-7496,408-57-3588,04-25-1988,"7032 Third Way",Dallas,CA

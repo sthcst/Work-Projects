@@ -1,0 +1,9 @@
+contact:
+  name: James Ortiz
+  email: james.ortiz6955@outlook.com
+  phone: 512 890 8750
+  ssn: 648 90 2874
+  dob: 12/16/1984
+  address: 5231 Spring Ln
+  city: Denver
+  state: OH

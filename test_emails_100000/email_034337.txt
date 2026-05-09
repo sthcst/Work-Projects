@@ -1,0 +1,14 @@
+INVOICE 804839
+
+Bill To:
+Name: Angela Dominguez
+Email: angela.dominguez1740@mail.com
+Phone: +1 972-812-4314
+SSN: 989-68-5786
+
+Address: 9131 Birch Ave
+Philadelphia, TX
+
+Date of Birth: 12/5/1993
+
+Amount Due: $1506

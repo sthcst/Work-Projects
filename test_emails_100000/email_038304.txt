@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Gomez,megan.gomez2296@company.com,842 956 1967,803-62-9974,01/19/1957,"545 Main Dr",Jacksonville,CO

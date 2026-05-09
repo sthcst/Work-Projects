@@ -1,0 +1,9 @@
+contact:
+  name: Angela White
+  email: angela.white2686@company.com
+  phone: (973) 222-4123
+  ssn: 719-77-8756
+  dob: 10/03/1960
+  address: 1477 Pine Ave
+  city: San Antonio
+  state: WA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Brown,william.brown3148@yahoo.com,+1 389-463-1479,123241244,06/12/1990,"8339 West Ln",San Antonio,NY

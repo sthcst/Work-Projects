@@ -1,0 +1,9 @@
+contact:
+  name: Mark Nelson
+  email: mark.nelson1456@company.com
+  phone: +1 744-506-3418
+  ssn: 803 03 8087
+  dob: 21/11/1989
+  address: 113 Cedar Court
+  city: Seattle
+  state: CA

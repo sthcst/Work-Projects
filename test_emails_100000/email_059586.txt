@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Dominguez",
+    "email": "ashley.dominguez502@company.com",
+    "phone": "(647) 805-2276",
+    "ssn": "506-80-4847",
+    "dob": "9/6/1962",
+    "address": "2888 South Way",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

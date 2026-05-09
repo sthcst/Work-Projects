@@ -1,0 +1,14 @@
+INVOICE 958132
+
+Bill To:
+Name: James Carter
+Email: james.carter107@outlook.com
+Phone: (254) 633-8030
+SSN: 644955786
+
+Address: 1058 Maple St
+Jacksonville, CA
+
+Date of Birth: 04/26/1970
+
+Amount Due: $5774

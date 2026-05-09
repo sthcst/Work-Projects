@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Jimenez",
+    "email": "kimberly.jimenez651@gmail.com",
+    "phone": "+1 685-638-7606",
+    "ssn": "650 29 4820",
+    "dob": "23/11/1983",
+    "address": "5534 South Way",
+    "city": "Houston",
+    "state": "CA"
+  }
+}

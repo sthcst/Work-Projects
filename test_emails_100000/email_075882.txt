@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Garcia,anna.garcia2884@yahoo.com,+1 553-794-3439,725529805,06/08/1962,"7057 Cedar St",Washington,AZ

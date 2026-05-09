@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Anderson,jason.anderson4913@gmail.com,+1 960-923-3661,972 43 8353,19/05/1958,"2162 Elm Dr",New York,MO

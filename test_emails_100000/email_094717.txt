@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Smith",
+    "email": "steven.smith8995@outlook.com",
+    "phone": "380-893-2827",
+    "ssn": "723 12 6387",
+    "dob": "08/11/2001",
+    "address": "4347 Third Court",
+    "city": "Jacksonville",
+    "state": "MI"
+  }
+}

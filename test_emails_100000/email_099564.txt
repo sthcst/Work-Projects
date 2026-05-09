@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Lewis,jeffrey.lewis2510@gmail.com,(668) 384-2421,898058992,22/02/1973,"4314 Park Rd",Washington,NC

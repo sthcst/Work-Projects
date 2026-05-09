@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Cooper
+  email: anthony.cooper4026@outlook.com
+  phone: (578) 497-6419
+  ssn: 586 91 6212
+  dob: 06/20/2000
+  address: 1807 Park Rd
+  city: Chicago
+  state: WA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Garcia",
+    "email": "brian.garcia7494@work.org",
+    "phone": "+1 932-392-9793",
+    "ssn": "024-46-4247",
+    "dob": "05-11-1970",
+    "address": "6121 Main Dr",
+    "city": "New York",
+    "state": "CA"
+  }
+}

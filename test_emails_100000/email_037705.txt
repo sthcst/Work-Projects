@@ -1,0 +1,14 @@
+INVOICE 901665
+
+Bill To:
+Name: Amanda Nunez
+Email: amanda.nunez6080@mail.com
+Phone: 848-505-2430
+SSN: 591-74-7136
+
+Address: 9354 Third Ave
+Phoenix, CA
+
+Date of Birth: 14/01/1959
+
+Amount Due: $1168

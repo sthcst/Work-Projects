@@ -1,0 +1,14 @@
+INVOICE 554000
+
+Bill To:
+Name: Nicole Murillo
+Email: nicole.murillo7621@company.com
+Phone: 584 355 8054
+SSN: 252-25-5167
+
+Address: 8976 Park Court
+Phoenix, TX
+
+Date of Birth: 01-26-2005
+
+Amount Due: $4895

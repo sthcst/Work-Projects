@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Rogers,amanda.rogers5427@example.com,454-466-2833,157 05 6949,09/07/1987,"5538 First Dr",Chicago,WA

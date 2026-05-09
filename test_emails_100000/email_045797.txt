@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Bell,william.bell7180@work.org,681 645 2888,819 99 9244,07/02/1983,"7028 Birch Ln",Phoenix,FL

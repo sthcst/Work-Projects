@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Carter",
+    "email": "maria.carter1198@gmail.com",
+    "phone": "(833) 296-2121",
+    "ssn": "108422264",
+    "dob": "07/04/1970",
+    "address": "5762 South Way",
+    "city": "Austin",
+    "state": "MO"
+  }
+}

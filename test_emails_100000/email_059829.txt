@@ -1,0 +1,9 @@
+contact:
+  name: Anna Clark
+  email: anna.clark2022@mail.com
+  phone: (568) 778-8411
+  ssn: 525 38 9926
+  dob: 12/10/1969
+  address: 3879 Park Way
+  city: Houston
+  state: DC

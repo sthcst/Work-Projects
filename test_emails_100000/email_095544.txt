@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Reyes",
+    "email": "paul.reyes2108@yahoo.com",
+    "phone": "(857) 999-5204",
+    "ssn": "281175756",
+    "dob": "8/4/1951",
+    "address": "7299 Spring Court",
+    "city": "San Jose",
+    "state": "WI"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Davis",
+    "email": "steven.davis1884@mail.com",
+    "phone": "481 279 4465",
+    "ssn": "337632367",
+    "dob": "04-08-1990",
+    "address": "495 East Blvd",
+    "city": "Washington",
+    "state": "GA"
+  }
+}

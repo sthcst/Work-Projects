@@ -1,0 +1,9 @@
+contact:
+  name: Helen Taylor
+  email: helen.taylor7403@outlook.com
+  phone: 686 731 5674
+  ssn: 525 94 5093
+  dob: 07/08/2000
+  address: 4267 Fourth Way
+  city: Jacksonville
+  state: AZ

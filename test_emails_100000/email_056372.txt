@@ -1,0 +1,14 @@
+INVOICE 735012
+
+Bill To:
+Name: Richard Jackson
+Email: richard.jackson5575@gmail.com
+Phone: +1 304-778-9659
+SSN: 324 76 6052
+
+Address: 4661 Cedar Ave
+Houston, TN
+
+Date of Birth: 4/2/1986
+
+Amount Due: $6553

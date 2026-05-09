@@ -1,0 +1,14 @@
+INVOICE 121926
+
+Bill To:
+Name: Samantha Stewart
+Email: samantha.stewart8429@work.org
+Phone: 334 626 4677
+SSN: 389 22 6190
+
+Address: 9322 Spring Ave
+Boston, OH
+
+Date of Birth: 11-22-1989
+
+Amount Due: $7302

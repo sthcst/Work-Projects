@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Roberts",
+    "email": "jessica.roberts6475@business.net",
+    "phone": "274 890 7631",
+    "ssn": "921072783",
+    "dob": "01-11-1998",
+    "address": "4020 Maple St",
+    "city": "Phoenix",
+    "state": "MA"
+  }
+}

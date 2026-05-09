@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Murillo",
+    "email": "rebecca.murillo8979@yahoo.com",
+    "phone": "+1 484-607-1981",
+    "ssn": "665142620",
+    "dob": "11-11-1982",
+    "address": "6163 Elm Ln",
+    "city": "Boston",
+    "state": "FL"
+  }
+}

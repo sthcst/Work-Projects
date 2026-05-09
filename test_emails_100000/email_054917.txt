@@ -1,0 +1,14 @@
+INVOICE 680221
+
+Bill To:
+Name: Samantha Morris
+Email: samantha.morris2460@work.org
+Phone: 388 662 3925
+SSN: 086 96 9058
+
+Address: 5938 Oak Ln
+Dallas, MI
+
+Date of Birth: 2/9/1976
+
+Amount Due: $3285

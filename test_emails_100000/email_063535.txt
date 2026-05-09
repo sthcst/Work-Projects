@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Gonzalez,ashley.gonzalez5247@business.net,418-243-2135,092321497,10-12-1975,"9926 Park Ave",Washington,CA

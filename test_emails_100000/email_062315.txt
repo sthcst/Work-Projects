@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Jimenez,jessica.jimenez7482@company.com,(623) 315-7242,728-10-4019,10-23-1961,"4819 Spring St",Dallas,GA

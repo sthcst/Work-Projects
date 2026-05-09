@@ -1,0 +1,9 @@
+contact:
+  name: Emily Moore
+  email: emily.moore4021@example.com
+  phone: 994 764 9756
+  ssn: 200-84-5699
+  dob: 7/18/1969
+  address: 1069 Summer Court
+  city: San Antonio
+  state: CO

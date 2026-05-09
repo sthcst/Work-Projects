@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Martinez",
+    "email": "matthew.martinez4901@mail.com",
+    "phone": "+1 825-525-5787",
+    "ssn": "244 26 1588",
+    "dob": "3/7/1997",
+    "address": "8388 Pine Court",
+    "city": "Philadelphia",
+    "state": "CA"
+  }
+}

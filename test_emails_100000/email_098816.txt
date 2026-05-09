@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Gomez
+  email: jennifer.gomez9815@company.com
+  phone: (613) 282-1647
+  ssn: 330 08 5408
+  dob: 23/11/1972
+  address: 5766 Fourth Blvd
+  city: New York
+  state: TX

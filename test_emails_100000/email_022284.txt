@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Edwards
+  email: jessica.edwards1149@business.net
+  phone: +1 761-406-7721
+  ssn: 385-15-6959
+  dob: 02-16-1979
+  address: 8338 Sixth Ave
+  city: Houston
+  state: IL

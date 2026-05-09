@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Delgado,maria.delgado6224@company.com,(299) 616-2151,569853501,01-15-2000,"5640 Spring Rd",Denver,FL

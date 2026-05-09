@@ -1,0 +1,14 @@
+INVOICE 745480
+
+Bill To:
+Name: Lisa Taylor
+Email: lisa.taylor4006@example.com
+Phone: (799) 858-2042
+SSN: 041976880
+
+Address: 3705 Pine Way
+New York, NC
+
+Date of Birth: 4/16/1953
+
+Amount Due: $2746

@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Edwards
+  email: kimberly.edwards9799@work.org
+  phone: 611 488 3861
+  ssn: 096684501
+  dob: 11-16-1963
+  address: 3898 Park Way
+  city: Los Angeles
+  state: AZ

@@ -1,0 +1,12 @@
+SUPPORT TICKET #25253
+
+Customer: James Lewis
+Email: james.lewis6780@example.com
+Phone: 940 224 2367
+Account: 698283564
+
+Issue Description: Technical problem reported
+DOB on file: 08/18/1992
+Address: 1749 Fifth Ave, Phoenix, NC
+
+Status: OPEN

@@ -1,0 +1,9 @@
+contact:
+  name: James Miller
+  email: james.miller1875@yahoo.com
+  phone: (961) 438-8302
+  ssn: 865-47-4890
+  dob: 3/24/1981
+  address: 6849 East Rd
+  city: Boston
+  state: MA

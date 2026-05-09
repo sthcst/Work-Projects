@@ -1,0 +1,9 @@
+contact:
+  name: Richard Moore
+  email: richard.moore1950@example.com
+  phone: +1 649-938-3230
+  ssn: 439599587
+  dob: 7/27/1956
+  address: 6632 Birch Rd
+  city: Jacksonville
+  state: GA

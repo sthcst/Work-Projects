@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Walker,george.walker9624@business.net,+1 696-303-6808,096 65 2551,12/20/2003,"3064 Fourth Way",Boston,CA

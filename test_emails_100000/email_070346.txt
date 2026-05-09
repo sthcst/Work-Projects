@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Robinson",
+    "email": "ronald.robinson1896@example.com",
+    "phone": "262 866 5462",
+    "ssn": "926809142",
+    "dob": "05/15/2001",
+    "address": "8539 Park Ave",
+    "city": "Boston",
+    "state": "NJ"
+  }
+}

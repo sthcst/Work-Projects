@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Rodriguez,paul.rodriguez9398@yahoo.com,(420) 665-4901,441309228,08-10-1988,"5861 Cedar Ln",Los Angeles,MI

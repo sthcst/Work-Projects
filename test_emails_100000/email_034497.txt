@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Hernandez,david.hernandez9227@business.net,+1 314-267-8725,097585186,19/03/2001,"669 Fifth Blvd",Denver,MA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Campbell",
+    "email": "jason.campbell3146@gmail.com",
+    "phone": "431 653 6735",
+    "ssn": "660 24 1595",
+    "dob": "2/13/1985",
+    "address": "6523 Birch Rd",
+    "city": "Dallas",
+    "state": "WI"
+  }
+}

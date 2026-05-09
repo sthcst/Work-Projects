@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Gomez",
+    "email": "william.gomez7997@work.org",
+    "phone": "(730) 451-5427",
+    "ssn": "037-92-5749",
+    "dob": "11/11/1997",
+    "address": "4157 Summer Blvd",
+    "city": "Los Angeles",
+    "state": "AZ"
+  }
+}

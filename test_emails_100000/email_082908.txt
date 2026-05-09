@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Walker
+  email: stephanie.walker7572@company.com
+  phone: +1 822-248-1381
+  ssn: 278-73-9096
+  dob: 17/02/1983
+  address: 8884 Sixth Court
+  city: San Diego
+  state: AZ

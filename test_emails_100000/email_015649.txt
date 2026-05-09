@@ -1,0 +1,14 @@
+INVOICE 130748
+
+Bill To:
+Name: Gary Bell
+Email: gary.bell3664@example.com
+Phone: 864-942-1397
+SSN: 413-57-6567
+
+Address: 5131 First St
+San Diego, CA
+
+Date of Birth: 28/06/1979
+
+Amount Due: $5379

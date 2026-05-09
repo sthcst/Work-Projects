@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Peterson",
+    "email": "david.peterson6857@mail.com",
+    "phone": "576-549-1423",
+    "ssn": "353-24-4884",
+    "dob": "3/11/1978",
+    "address": "1259 Fourth Dr",
+    "city": "Seattle",
+    "state": "WA"
+  }
+}

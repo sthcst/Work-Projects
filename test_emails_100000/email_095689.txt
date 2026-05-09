@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Rodriguez,ashley.rodriguez3907@gmail.com,400 665 2835,348 18 2242,10/24/1967,"8239 Second Blvd",San Jose,WA

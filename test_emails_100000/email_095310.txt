@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Alvarado,george.alvarado4052@company.com,681 256 8526,861336957,12/11/1988,"9649 Birch Ln",Austin,MO

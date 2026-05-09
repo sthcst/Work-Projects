@@ -1,0 +1,14 @@
+INVOICE 264771
+
+Bill To:
+Name: George Walker
+Email: george.walker5023@example.com
+Phone: +1 354-345-5443
+SSN: 098807746
+
+Address: 7436 Spring Dr
+San Antonio, TX
+
+Date of Birth: 15/03/1954
+
+Amount Due: $9516

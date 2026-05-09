@@ -1,0 +1,14 @@
+INVOICE 349184
+
+Bill To:
+Name: Sarah Cooper
+Email: sarah.cooper6033@company.com
+Phone: 703 788 9039
+SSN: 300 16 1853
+
+Address: 1072 Third Dr
+New York, TN
+
+Date of Birth: 10/10/1957
+
+Amount Due: $6201

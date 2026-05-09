@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Romero",
+    "email": "lauren.romero9474@company.com",
+    "phone": "810-508-5283",
+    "ssn": "122 72 4846",
+    "dob": "03/03/1994",
+    "address": "2648 Pine Blvd",
+    "city": "Boston",
+    "state": "FL"
+  }
+}

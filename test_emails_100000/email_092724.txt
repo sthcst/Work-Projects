@@ -1,0 +1,9 @@
+contact:
+  name: Edward Sanchez
+  email: edward.sanchez7724@work.org
+  phone: 881 741 3433
+  ssn: 046 96 7824
+  dob: 5/17/1996
+  address: 4276 Summer Court
+  city: Austin
+  state: VA

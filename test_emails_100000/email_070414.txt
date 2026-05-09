@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer White,jennifer.white2507@work.org,(704) 479-9240,316 09 2582,06-12-1962,"6532 Spring Way",Jacksonville,NY

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Garcia",
+    "email": "ronald.garcia2594@example.com",
+    "phone": "+1 466-588-2018",
+    "ssn": "107 44 1870",
+    "dob": "8/15/1994",
+    "address": "2748 Third Dr",
+    "city": "Phoenix",
+    "state": "DC"
+  }
+}

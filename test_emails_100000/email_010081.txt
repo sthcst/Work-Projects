@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Nelson",
+    "email": "emma.nelson1411@work.org",
+    "phone": "464 867 2983",
+    "ssn": "094 29 8182",
+    "dob": "8/28/1989",
+    "address": "1010 Cedar Way",
+    "city": "Austin",
+    "state": "OH"
+  }
+}

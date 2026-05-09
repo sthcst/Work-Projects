@@ -1,0 +1,9 @@
+contact:
+  name: John Thomas
+  email: john.thomas1024@gmail.com
+  phone: +1 943-233-9163
+  ssn: 451878295
+  dob: 6/15/1969
+  address: 1181 South Ln
+  city: Jacksonville
+  state: MD

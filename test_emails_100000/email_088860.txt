@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Miller
+  email: brenda.miller5863@company.com
+  phone: 752-392-5569
+  ssn: 462-22-9028
+  dob: 10/21/1987
+  address: 2187 Birch Rd
+  city: Dallas
+  state: TX

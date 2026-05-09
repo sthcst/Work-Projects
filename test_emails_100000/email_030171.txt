@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Rodriguez",
+    "email": "kenneth.rodriguez8936@yahoo.com",
+    "phone": "(255) 723-9151",
+    "ssn": "823-55-6913",
+    "dob": "20/06/1980",
+    "address": "7002 Main Court",
+    "city": "Washington",
+    "state": "NC"
+  }
+}

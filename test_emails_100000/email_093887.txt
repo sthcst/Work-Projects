@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Walker",
+    "email": "james.walker2831@work.org",
+    "phone": "372 679 7475",
+    "ssn": "892-59-6474",
+    "dob": "5/9/1955",
+    "address": "4859 Maple Way",
+    "city": "Chicago",
+    "state": "VA"
+  }
+}

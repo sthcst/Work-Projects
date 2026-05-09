@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Morgan,anthony.morgan7521@gmail.com,+1 444-637-8585,263198485,12/18/1986,"4324 Sixth Way",San Jose,WA

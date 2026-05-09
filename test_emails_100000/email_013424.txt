@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Hall,richard.hall6402@yahoo.com,+1 875-419-5863,116-34-1466,02-03-1999,"111 Cedar St",Los Angeles,TN

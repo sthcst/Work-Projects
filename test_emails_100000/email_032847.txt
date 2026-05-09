@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Parker",
+    "email": "jason.parker195@business.net",
+    "phone": "+1 908-681-3550",
+    "ssn": "341-62-8752",
+    "dob": "02-15-1970",
+    "address": "8869 Fifth Dr",
+    "city": "San Jose",
+    "state": "PA"
+  }
+}

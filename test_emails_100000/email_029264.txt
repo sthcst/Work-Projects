@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Carter",
+    "email": "charles.carter4516@work.org",
+    "phone": "(849) 771-3735",
+    "ssn": "335-36-4463",
+    "dob": "8/12/1982",
+    "address": "5020 Elm Dr",
+    "city": "Phoenix",
+    "state": "MD"
+  }
+}

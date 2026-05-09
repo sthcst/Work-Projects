@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Campbell,rachel.campbell7283@gmail.com,(294) 454-6289,965 90 8394,06-01-1965,"9708 Main Way",San Antonio,MO

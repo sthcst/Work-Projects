@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Bell,emily.bell1333@outlook.com,623-543-2456,578 33 3910,11/08/1997,"4941 Pine Dr",Austin,OH

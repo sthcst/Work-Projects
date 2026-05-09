@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Sanchez",
+    "email": "steven.sanchez1785@work.org",
+    "phone": "632-915-7108",
+    "ssn": "098-40-4953",
+    "dob": "10/24/1962",
+    "address": "355 Maple Rd",
+    "city": "Los Angeles",
+    "state": "MI"
+  }
+}

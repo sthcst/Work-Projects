@@ -1,0 +1,14 @@
+INVOICE 499418
+
+Bill To:
+Name: Kenneth Parker
+Email: kenneth.parker5141@business.net
+Phone: (748) 594-7948
+SSN: 254623264
+
+Address: 209 Sixth Dr
+Dallas, TX
+
+Date of Birth: 22/06/1970
+
+Amount Due: $5462

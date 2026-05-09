@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Phillips,michelle.phillips9931@example.com,+1 726-900-8797,463038900,04/04/2004,"7273 Pine Court",New York,CA

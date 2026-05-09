@@ -1,0 +1,14 @@
+INVOICE 255210
+
+Bill To:
+Name: Kevin Parker
+Email: kevin.parker6247@outlook.com
+Phone: 585-526-6448
+SSN: 960-60-6322
+
+Address: 5897 Pine Court
+Houston, NJ
+
+Date of Birth: 22/04/1972
+
+Amount Due: $8272

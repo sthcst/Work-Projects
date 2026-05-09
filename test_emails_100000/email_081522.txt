@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Morgan,edward.morgan3573@mail.com,(427) 941-8800,098955558,02-05-2002,"4881 Fifth Rd",San Jose,VA

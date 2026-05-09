@@ -1,0 +1,9 @@
+contact:
+  name: Helen Taylor
+  email: helen.taylor397@mail.com
+  phone: +1 496-783-3830
+  ssn: 466 56 6878
+  dob: 02/06/1959
+  address: 6758 North Rd
+  city: Austin
+  state: WA

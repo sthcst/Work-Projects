@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Collins
+  email: rachel.collins2191@work.org
+  phone: +1 510-799-7629
+  ssn: 477038044
+  dob: 07-27-2001
+  address: 7751 West St
+  city: Boston
+  state: TX

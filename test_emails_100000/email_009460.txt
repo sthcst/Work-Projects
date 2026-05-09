@@ -1,0 +1,9 @@
+contact:
+  name: Maria Carter
+  email: maria.carter7888@yahoo.com
+  phone: 242-400-2769
+  ssn: 931 14 2408
+  dob: 14/09/1995
+  address: 5350 Sixth Dr
+  city: Boston
+  state: FL

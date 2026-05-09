@@ -1,0 +1,14 @@
+INVOICE 385520
+
+Bill To:
+Name: Megan Bell
+Email: megan.bell8307@example.com
+Phone: (324) 728-8378
+SSN: 520-52-5124
+
+Address: 3836 South Court
+Boston, OH
+
+Date of Birth: 07/28/1951
+
+Amount Due: $8047

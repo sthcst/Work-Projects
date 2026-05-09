@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Serrano,andrew.serrano1464@gmail.com,+1 528-701-2851,761-95-7664,11/09/1974,"3552 Summer Ave",Seattle,PA

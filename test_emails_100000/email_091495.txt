@@ -1,0 +1,14 @@
+INVOICE 185722
+
+Bill To:
+Name: Joseph Alvarado
+Email: joseph.alvarado7178@outlook.com
+Phone: 488-238-5588
+SSN: 243772468
+
+Address: 8932 First Dr
+San Diego, MD
+
+Date of Birth: 16/02/1984
+
+Amount Due: $2232

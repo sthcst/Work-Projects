@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Gonzalez",
+    "email": "maria.gonzalez4081@work.org",
+    "phone": "+1 655-622-7826",
+    "ssn": "008282123",
+    "dob": "03/15/2000",
+    "address": "9031 East Ln",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

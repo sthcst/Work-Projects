@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Murillo,deborah.murillo8174@yahoo.com,+1 692-904-5200,698 34 4706,1/17/1993,"840 West Blvd",San Diego,FL

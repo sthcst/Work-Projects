@@ -1,0 +1,9 @@
+contact:
+  name: Emily Taylor
+  email: emily.taylor9118@company.com
+  phone: (645) 459-1662
+  ssn: 303626776
+  dob: 05-20-1957
+  address: 5916 Maple Court
+  city: Philadelphia
+  state: CA

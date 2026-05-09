@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Walker
+  email: nicole.walker6237@example.com
+  phone: (503) 253-9190
+  ssn: 816-90-4726
+  dob: 02/06/1980
+  address: 6768 East Ave
+  city: Austin
+  state: MA

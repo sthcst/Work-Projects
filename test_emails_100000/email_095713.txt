@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Edwards",
+    "email": "katherine.edwards1216@yahoo.com",
+    "phone": "+1 598-567-8422",
+    "ssn": "343 03 6658",
+    "dob": "27/02/1978",
+    "address": "244 Cedar St",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

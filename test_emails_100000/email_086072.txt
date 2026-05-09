@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Jimenez",
+    "email": "andrew.jimenez6864@yahoo.com",
+    "phone": "524-746-5679",
+    "ssn": "883699541",
+    "dob": "12/4/1992",
+    "address": "856 South Ln",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

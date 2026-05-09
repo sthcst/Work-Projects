@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Alvarado
+  email: kimberly.alvarado1985@company.com
+  phone: +1 848-592-9847
+  ssn: 461301208
+  dob: 04/24/1993
+  address: 7726 Spring Ln
+  city: Los Angeles
+  state: MD

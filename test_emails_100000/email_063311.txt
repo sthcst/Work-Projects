@@ -1,0 +1,14 @@
+INVOICE 696805
+
+Bill To:
+Name: Andrew Perez
+Email: andrew.perez6664@mail.com
+Phone: 780 413 8036
+SSN: 987 20 1534
+
+Address: 1709 Sixth Ave
+Jacksonville, CO
+
+Date of Birth: 10/16/1974
+
+Amount Due: $5493

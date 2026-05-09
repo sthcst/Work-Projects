@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Ramirez",
+    "email": "william.ramirez9647@yahoo.com",
+    "phone": "755-402-1057",
+    "ssn": "446-38-3292",
+    "dob": "09/17/1964",
+    "address": "440 Birch Court",
+    "city": "San Jose",
+    "state": "MO"
+  }
+}

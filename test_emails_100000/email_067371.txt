@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Bell",
+    "email": "pamela.bell7842@mail.com",
+    "phone": "305-312-2871",
+    "ssn": "125581364",
+    "dob": "05-24-1998",
+    "address": "7617 Fourth St",
+    "city": "Phoenix",
+    "state": "TN"
+  }
+}

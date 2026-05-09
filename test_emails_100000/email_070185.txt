@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly White
+  email: kimberly.white6413@company.com
+  phone: 406-911-6119
+  ssn: 895122715
+  dob: 11/25/1968
+  address: 9200 Second Rd
+  city: Denver
+  state: WA

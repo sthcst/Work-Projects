@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Murillo",
+    "email": "george.murillo1641@work.org",
+    "phone": "(357) 627-5285",
+    "ssn": "460519466",
+    "dob": "12/13/2005",
+    "address": "9907 West St",
+    "city": "Chicago",
+    "state": "WA"
+  }
+}

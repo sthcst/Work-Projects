@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Garcia,gary.garcia3112@example.com,(759) 750-8412,198-31-8719,1/9/1953,"2351 Fourth Ave",Phoenix,WA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Roberts",
+    "email": "kenneth.roberts2516@work.org",
+    "phone": "(634) 330-2646",
+    "ssn": "199683111",
+    "dob": "10/03/1956",
+    "address": "7620 Third Dr",
+    "city": "Boston",
+    "state": "AZ"
+  }
+}

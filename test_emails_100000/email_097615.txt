@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Jimenez",
+    "email": "brian.jimenez7958@company.com",
+    "phone": "+1 777-401-9315",
+    "ssn": "863703450",
+    "dob": "06-18-1969",
+    "address": "4124 North Court",
+    "city": "New York",
+    "state": "OH"
+  }
+}

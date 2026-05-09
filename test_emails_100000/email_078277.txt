@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Clark",
+    "email": "jennifer.clark7729@yahoo.com",
+    "phone": "339 440 9051",
+    "ssn": "885-79-4432",
+    "dob": "02/25/1997",
+    "address": "4552 East Court",
+    "city": "Philadelphia",
+    "state": "CO"
+  }
+}

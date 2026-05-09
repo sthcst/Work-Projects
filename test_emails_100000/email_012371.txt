@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Morgan",
+    "email": "nicole.morgan3726@company.com",
+    "phone": "(956) 722-6960",
+    "ssn": "720 83 4892",
+    "dob": "01-18-2001",
+    "address": "3362 South Ave",
+    "city": "New York",
+    "state": "NY"
+  }
+}

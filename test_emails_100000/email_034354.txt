@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Young",
+    "email": "gary.young8090@outlook.com",
+    "phone": "350 678 7937",
+    "ssn": "324381294",
+    "dob": "09-03-1973",
+    "address": "7096 Oak Dr",
+    "city": "Austin",
+    "state": "DC"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Phillips",
+    "email": "jason.phillips7239@work.org",
+    "phone": "642 584 7622",
+    "ssn": "581072458",
+    "dob": "06/05/1999",
+    "address": "2390 East Ave",
+    "city": "New York",
+    "state": "MO"
+  }
+}

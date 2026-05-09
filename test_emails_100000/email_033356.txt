@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Delgado,kimberly.delgado3375@company.com,+1 947-626-3917,410071543,11/15/1954,"4878 Elm Blvd",San Diego,DC

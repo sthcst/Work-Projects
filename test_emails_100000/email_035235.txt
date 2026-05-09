@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Harris,jennifer.harris652@yahoo.com,691-971-2610,753 43 2927,12/19/1961,"136 Park Blvd",San Diego,MO

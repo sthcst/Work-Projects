@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Jones",
+    "email": "kenneth.jones1646@example.com",
+    "phone": "(768) 843-2887",
+    "ssn": "943924250",
+    "dob": "05/17/2003",
+    "address": "5098 Fourth Ave",
+    "city": "Jacksonville",
+    "state": "DC"
+  }
+}

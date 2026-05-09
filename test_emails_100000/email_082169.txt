@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Lewis",
+    "email": "cynthia.lewis392@mail.com",
+    "phone": "958-555-4473",
+    "ssn": "823323140",
+    "dob": "06/26/1999",
+    "address": "9367 Third Blvd",
+    "city": "San Jose",
+    "state": "DC"
+  }
+}

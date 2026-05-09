@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Ramirez",
+    "email": "michael.ramirez4412@gmail.com",
+    "phone": "616 963 7599",
+    "ssn": "946-10-5873",
+    "dob": "12-23-1953",
+    "address": "851 Second St",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

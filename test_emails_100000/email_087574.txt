@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Martinez,cynthia.martinez1450@mail.com,345-997-4043,821-33-4064,15/03/1965,"1670 West Rd",San Jose,IL

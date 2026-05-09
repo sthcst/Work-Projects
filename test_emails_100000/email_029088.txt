@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Parker,jane.parker656@mail.com,+1 741-962-4896,784711571,22/08/2004,"9436 Sixth Dr",San Jose,FL

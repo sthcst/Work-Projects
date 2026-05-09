@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Reeves
+  email: pamela.reeves3131@example.com
+  phone: +1 632-952-2190
+  ssn: 211-75-6987
+  dob: 12/10/1966
+  address: 8984 Fifth St
+  city: Chicago
+  state: WA

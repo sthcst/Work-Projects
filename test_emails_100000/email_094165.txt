@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Hernandez,lisa.hernandez6190@mail.com,(740) 784-8065,957 22 5341,17/12/1984,"7418 Maple Ave",Dallas,MA

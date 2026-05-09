@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Jackson,christopher.jackson8254@example.com,974-614-4249,562-72-9830,10/23/1976,"6000 Cedar Court",Boston,CA

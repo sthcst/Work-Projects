@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Dominguez,megan.dominguez1161@example.com,+1 995-727-2436,742-36-6590,2/4/1998,"9197 Summer Court",Austin,MI

@@ -1,0 +1,9 @@
+contact:
+  name: Richard Jones
+  email: richard.jones3331@mail.com
+  phone: (589) 788-1851
+  ssn: 724-20-9057
+  dob: 10/5/1985
+  address: 2211 Maple Rd
+  city: Austin
+  state: MD

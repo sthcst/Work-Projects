@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Ramirez
+  email: kenneth.ramirez6235@company.com
+  phone: (276) 615-6687
+  ssn: 567 94 2985
+  dob: 01/01/2002
+  address: 7502 First Rd
+  city: Boston
+  state: WA

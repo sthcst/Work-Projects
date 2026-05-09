@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Flores
+  email: joshua.flores8168@yahoo.com
+  phone: +1 713-529-9390
+  ssn: 173638938
+  dob: 4/1/1974
+  address: 87 Oak Rd
+  city: Denver
+  state: MD

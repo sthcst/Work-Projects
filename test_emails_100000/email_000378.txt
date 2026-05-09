@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Davis,nicholas.davis5829@gmail.com,+1 536-505-6798,110016729,03/13/1972,"1670 West Court",San Antonio,IL

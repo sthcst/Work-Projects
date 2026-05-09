@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Phillips",
+    "email": "gary.phillips1558@mail.com",
+    "phone": "(580) 916-4409",
+    "ssn": "933-99-5954",
+    "dob": "02/01/1969",
+    "address": "7702 Summer St",
+    "city": "Chicago",
+    "state": "TN"
+  }
+}

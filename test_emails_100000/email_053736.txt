@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Johnson
+  email: lisa.johnson2509@outlook.com
+  phone: 241-572-8752
+  ssn: 209 19 1412
+  dob: 08/27/1984
+  address: 6290 Cedar Way
+  city: Seattle
+  state: WA

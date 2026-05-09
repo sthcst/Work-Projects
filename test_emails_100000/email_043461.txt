@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Murillo",
+    "email": "joseph.murillo591@work.org",
+    "phone": "(284) 879-8634",
+    "ssn": "405276472",
+    "dob": "07-17-1960",
+    "address": "2667 Fourth St",
+    "city": "Boston",
+    "state": "NC"
+  }
+}

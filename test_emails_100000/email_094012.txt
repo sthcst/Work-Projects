@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Cooper
+  email: joshua.cooper20@yahoo.com
+  phone: (837) 561-7621
+  ssn: 198578431
+  dob: 11-09-1980
+  address: 4681 East Dr
+  city: Seattle
+  state: WA

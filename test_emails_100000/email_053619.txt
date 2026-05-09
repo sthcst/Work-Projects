@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Walker
+  email: kimberly.walker5068@work.org
+  phone: 684-548-5738
+  ssn: 147-72-4606
+  dob: 05-09-1958
+  address: 1461 Sixth St
+  city: Jacksonville
+  state: WI

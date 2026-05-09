@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Anderson",
+    "email": "lauren.anderson3443@example.com",
+    "phone": "536-546-2797",
+    "ssn": "492 05 4582",
+    "dob": "01-04-1975",
+    "address": "4769 Park Way",
+    "city": "San Antonio",
+    "state": "MD"
+  }
+}

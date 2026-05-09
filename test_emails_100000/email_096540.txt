@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Reeves
+  email: nicholas.reeves9285@example.com
+  phone: 308 920 5968
+  ssn: 663191401
+  dob: 04/20/1970
+  address: 7192 West Rd
+  city: San Antonio
+  state: IL

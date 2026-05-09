@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Parker
+  email: lauren.parker375@example.com
+  phone: 249 415 6585
+  ssn: 592-77-3403
+  dob: 2/17/1951
+  address: 6725 Birch Way
+  city: Denver
+  state: WI

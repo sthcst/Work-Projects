@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Roberts,christine.roberts2798@example.com,(806) 781-6572,426654780,07/06/1972,"6268 First Dr",Boston,MA

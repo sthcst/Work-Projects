@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Wilson",
+    "email": "daniel.wilson3104@yahoo.com",
+    "phone": "992 680 2467",
+    "ssn": "307 61 4582",
+    "dob": "4/13/1953",
+    "address": "3170 East St",
+    "city": "Houston",
+    "state": "MI"
+  }
+}

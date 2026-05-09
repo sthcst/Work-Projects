@@ -1,0 +1,12 @@
+SUPPORT TICKET #20764
+
+Customer: Ronald Brown
+Email: ronald.brown16@example.com
+Phone: 403-238-3927
+Account: 638-76-8951
+
+Issue Description: Technical problem reported
+DOB on file: 04/18/1965
+Address: 8435 East Rd, Phoenix, TX
+
+Status: OPEN

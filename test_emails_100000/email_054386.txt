@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Lopez,anthony.lopez7587@work.org,+1 656-878-7162,020-63-1157,09-09-1953,"4329 Summer Dr",Washington,MI

@@ -1,0 +1,14 @@
+INVOICE 215242
+
+Bill To:
+Name: Katherine Jones
+Email: katherine.jones7735@work.org
+Phone: (519) 692-3946
+SSN: 449-57-2808
+
+Address: 5588 Elm Court
+Phoenix, AZ
+
+Date of Birth: 07/21/1993
+
+Amount Due: $2364

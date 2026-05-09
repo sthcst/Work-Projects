@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Clark",
+    "email": "michael.clark1076@outlook.com",
+    "phone": "849-284-2411",
+    "ssn": "257 02 1713",
+    "dob": "11/22/1988",
+    "address": "3716 Maple St",
+    "city": "San Jose",
+    "state": "MI"
+  }
+}

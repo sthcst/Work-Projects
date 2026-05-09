@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Thompson
+  email: rebecca.thompson7294@example.com
+  phone: +1 274-385-3732
+  ssn: 579694304
+  dob: 07/03/1961
+  address: 1018 Second Blvd
+  city: Dallas
+  state: WA

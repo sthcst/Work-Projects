@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Phillips",
+    "email": "amanda.phillips8278@example.com",
+    "phone": "(974) 693-7127",
+    "ssn": "658-06-3230",
+    "dob": "10/9/1963",
+    "address": "4854 First Ave",
+    "city": "Philadelphia",
+    "state": "NC"
+  }
+}

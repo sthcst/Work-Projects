@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Smith,rebecca.smith9228@mail.com,(752) 585-8077,533 94 3000,04-01-1968,"2339 Summer Rd",Denver,MD

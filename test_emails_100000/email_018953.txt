@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Parker
+  email: kathleen.parker491@mail.com
+  phone: (426) 946-3625
+  ssn: 874 91 3416
+  dob: 10/12/2004
+  address: 5653 Third Blvd
+  city: New York
+  state: MD

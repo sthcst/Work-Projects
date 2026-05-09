@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Hall,emily.hall4298@company.com,604 614 3840,058-49-5126,12-28-1979,"8767 Pine Ave",Washington,TX

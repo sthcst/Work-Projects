@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Reyes
+  email: nicholas.reyes8533@mail.com
+  phone: (918) 389-2514
+  ssn: 321-78-9156
+  dob: 11/17/2005
+  address: 3361 Maple Dr
+  city: Jacksonville
+  state: FL

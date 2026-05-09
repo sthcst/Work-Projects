@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Bell,anthony.bell7448@company.com,(726) 388-7358,721205587,11-12-1983,"9235 Second Dr",New York,OH

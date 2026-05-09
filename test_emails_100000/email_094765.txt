@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Campbell
+  email: lauren.campbell5188@gmail.com
+  phone: 715-682-5562
+  ssn: 579 91 1848
+  dob: 8/6/2002
+  address: 8859 Second Blvd
+  city: Denver
+  state: FL

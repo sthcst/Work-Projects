@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Martinez,samantha.martinez7206@outlook.com,204 945 1176,651434114,09/07/1955,"2129 Summer Blvd",Boston,TX

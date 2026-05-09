@@ -1,0 +1,14 @@
+INVOICE 789314
+
+Bill To:
+Name: Kevin Cooper
+Email: kevin.cooper65@company.com
+Phone: +1 642-592-6692
+SSN: 937586169
+
+Address: 9670 Fourth Rd
+San Diego, VA
+
+Date of Birth: 05-05-1967
+
+Amount Due: $3582

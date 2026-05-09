@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Parker",
+    "email": "megan.parker3142@mail.com",
+    "phone": "+1 252-581-9417",
+    "ssn": "470162112",
+    "dob": "03-27-1952",
+    "address": "1887 First St",
+    "city": "San Jose",
+    "state": "DC"
+  }
+}

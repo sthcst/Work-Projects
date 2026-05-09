@@ -1,0 +1,9 @@
+contact:
+  name: James Stewart
+  email: james.stewart937@company.com
+  phone: (563) 954-6135
+  ssn: 809 17 6467
+  dob: 07/11/1953
+  address: 643 North St
+  city: Boston
+  state: MI

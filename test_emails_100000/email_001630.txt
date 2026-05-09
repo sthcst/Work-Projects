@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Nelson
+  email: deborah.nelson7776@outlook.com
+  phone: 670-322-3789
+  ssn: 297 99 4772
+  dob: 7/14/1982
+  address: 836 Birch Rd
+  city: Jacksonville
+  state: AZ

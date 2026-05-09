@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Smith,daniel.smith6711@mail.com,+1 904-674-6236,132 47 1406,02/08/1962,"508 First Dr",Boston,TX

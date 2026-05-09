@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Roberts",
+    "email": "rebecca.roberts3284@gmail.com",
+    "phone": "+1 482-896-8261",
+    "ssn": "991-27-5945",
+    "dob": "5/15/1964",
+    "address": "2903 Fifth Court",
+    "city": "Austin",
+    "state": "NC"
+  }
+}

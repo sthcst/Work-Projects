@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Evans,john.evans798@example.com,(894) 512-4708,190-12-3113,10-17-1998,"4273 West Blvd",Philadelphia,TX

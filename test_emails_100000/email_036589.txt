@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Dominguez",
+    "email": "paul.dominguez5776@yahoo.com",
+    "phone": "(632) 788-7796",
+    "ssn": "487205132",
+    "dob": "1/3/1974",
+    "address": "7404 Sixth Blvd",
+    "city": "Phoenix",
+    "state": "MA"
+  }
+}

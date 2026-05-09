@@ -1,0 +1,9 @@
+contact:
+  name: Anna Johnson
+  email: anna.johnson4670@business.net
+  phone: (607) 451-2916
+  ssn: 124 71 8868
+  dob: 01-12-1950
+  address: 1834 Main Blvd
+  city: San Diego
+  state: WI

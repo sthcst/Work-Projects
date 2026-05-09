@@ -1,0 +1,14 @@
+INVOICE 770202
+
+Bill To:
+Name: Rachel Edwards
+Email: rachel.edwards1210@work.org
+Phone: 625 644 3191
+SSN: 451 71 7326
+
+Address: 2293 Second Blvd
+Boston, MO
+
+Date of Birth: 3/12/2001
+
+Amount Due: $483

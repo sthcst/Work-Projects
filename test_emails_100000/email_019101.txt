@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Davis
+  email: sarah.davis2380@example.com
+  phone: +1 881-876-1168
+  ssn: 101932473
+  dob: 5/2/1956
+  address: 1056 Elm St
+  city: San Antonio
+  state: DC

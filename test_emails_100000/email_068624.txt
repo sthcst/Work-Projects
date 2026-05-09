@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Clark,brenda.clark7758@gmail.com,+1 317-700-2087,426363247,14/03/1958,"8585 Birch Blvd",Phoenix,CA

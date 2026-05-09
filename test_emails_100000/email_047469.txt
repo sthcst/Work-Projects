@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Phillips
+  email: shirley.phillips7053@example.com
+  phone: 937-577-3363
+  ssn: 318 60 6384
+  dob: 8/16/1983
+  address: 5919 Park St
+  city: Philadelphia
+  state: GA

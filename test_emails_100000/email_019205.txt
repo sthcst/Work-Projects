@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Murillo,lisa.murillo995@mail.com,835 899 7755,839 71 2174,24/09/1972,"953 Spring Ave",Washington,CA

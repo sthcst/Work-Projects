@@ -1,0 +1,14 @@
+INVOICE 796426
+
+Bill To:
+Name: Joseph Miller
+Email: joseph.miller9657@example.com
+Phone: 962 638 2953
+SSN: 115-40-5948
+
+Address: 5582 Birch Court
+Denver, VA
+
+Date of Birth: 10/11/1961
+
+Amount Due: $6280

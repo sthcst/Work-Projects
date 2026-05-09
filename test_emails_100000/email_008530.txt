@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Perez",
+    "email": "george.perez1786@outlook.com",
+    "phone": "732 446 6434",
+    "ssn": "765551834",
+    "dob": "09/04/1962",
+    "address": "3910 Birch Court",
+    "city": "Boston",
+    "state": "PA"
+  }
+}

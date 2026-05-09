@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Reyes
+  email: katherine.reyes8275@gmail.com
+  phone: +1 822-381-6215
+  ssn: 575907282
+  dob: 10-08-2004
+  address: 6924 West Way
+  city: Washington
+  state: CO

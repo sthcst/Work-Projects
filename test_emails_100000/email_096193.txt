@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Perez
+  email: joshua.perez614@business.net
+  phone: (628) 636-2068
+  ssn: 178 18 4810
+  dob: 5/9/1970
+  address: 7999 Cedar Ave
+  city: Washington
+  state: FL

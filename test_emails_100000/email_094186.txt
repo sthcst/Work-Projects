@@ -1,0 +1,9 @@
+contact:
+  name: David Serrano
+  email: david.serrano3441@work.org
+  phone: 558-222-8839
+  ssn: 381291067
+  dob: 03/04/1958
+  address: 5565 Oak Blvd
+  city: Dallas
+  state: TX

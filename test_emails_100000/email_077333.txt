@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Ramirez",
+    "email": "pamela.ramirez6055@gmail.com",
+    "phone": "+1 429-831-3991",
+    "ssn": "040289227",
+    "dob": "11/24/1950",
+    "address": "6951 East Blvd",
+    "city": "Seattle",
+    "state": "IL"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 346455
+
+Bill To:
+Name: Brian Reeves
+Email: brian.reeves4634@outlook.com
+Phone: +1 231-217-4076
+SSN: 849 98 7378
+
+Address: 8853 Second Dr
+Los Angeles, AZ
+
+Date of Birth: 25/05/1993
+
+Amount Due: $507

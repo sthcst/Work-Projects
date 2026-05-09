@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Lee,stephanie.lee8496@gmail.com,371-631-1868,924 38 5238,12-14-1973,"2260 Spring Court",Denver,NY

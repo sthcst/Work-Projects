@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Smith",
+    "email": "katherine.smith8600@mail.com",
+    "phone": "950 354 7513",
+    "ssn": "534208706",
+    "dob": "04/07/1950",
+    "address": "4435 Main Ave",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

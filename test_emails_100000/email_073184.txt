@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Johnson",
+    "email": "maria.johnson7632@work.org",
+    "phone": "+1 950-365-2634",
+    "ssn": "314-63-6932",
+    "dob": "15/01/1998",
+    "address": "962 East Blvd",
+    "city": "Jacksonville",
+    "state": "MA"
+  }
+}

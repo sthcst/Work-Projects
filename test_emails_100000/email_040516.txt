@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Collins,ryan.collins8739@example.com,692-666-6675,923 80 9041,05/21/1961,"5961 South Rd",Austin,VA

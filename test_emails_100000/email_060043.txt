@@ -1,0 +1,14 @@
+INVOICE 524296
+
+Bill To:
+Name: Nicole Martinez
+Email: nicole.martinez2356@example.com
+Phone: 250-525-4606
+SSN: 886-65-8147
+
+Address: 1010 Fifth Ave
+Phoenix, FL
+
+Date of Birth: 17/10/1987
+
+Amount Due: $7189

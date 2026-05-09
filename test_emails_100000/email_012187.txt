@@ -1,0 +1,9 @@
+contact:
+  name: James Harris
+  email: james.harris3353@example.com
+  phone: (706) 276-2638
+  ssn: 692493501
+  dob: 9/28/1987
+  address: 2519 West Way
+  city: Austin
+  state: IL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Hall",
+    "email": "daniel.hall2830@yahoo.com",
+    "phone": "+1 607-943-8467",
+    "ssn": "687528411",
+    "dob": "04-28-1974",
+    "address": "8427 West Blvd",
+    "city": "Phoenix",
+    "state": "DC"
+  }
+}

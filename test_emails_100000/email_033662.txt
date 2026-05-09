@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Jackson",
+    "email": "robert.jackson6478@gmail.com",
+    "phone": "704-256-1887",
+    "ssn": "316709003",
+    "dob": "06/19/1964",
+    "address": "8686 Main Ave",
+    "city": "Philadelphia",
+    "state": "CO"
+  }
+}

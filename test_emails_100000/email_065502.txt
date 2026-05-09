@@ -1,0 +1,9 @@
+contact:
+  name: Robert Nunez
+  email: robert.nunez8636@mail.com
+  phone: 789-362-5681
+  ssn: 427361168
+  dob: 03/10/1955
+  address: 2816 Oak Court
+  city: San Jose
+  state: WA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Ortiz",
+    "email": "daniel.ortiz918@company.com",
+    "phone": "(412) 751-4437",
+    "ssn": "042 70 1105",
+    "dob": "02-24-1962",
+    "address": "1441 Pine Way",
+    "city": "San Antonio",
+    "state": "PA"
+  }
+}

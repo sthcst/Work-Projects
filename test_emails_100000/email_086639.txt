@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Delgado
+  email: brenda.delgado1499@yahoo.com
+  phone: 488 994 9962
+  ssn: 941 91 7531
+  dob: 12/25/1956
+  address: 218 East Blvd
+  city: Philadelphia
+  state: AZ

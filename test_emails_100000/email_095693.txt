@@ -1,0 +1,14 @@
+INVOICE 102090
+
+Bill To:
+Name: Helen Nelson
+Email: helen.nelson4260@example.com
+Phone: (377) 651-6273
+SSN: 774 92 7190
+
+Address: 7236 First Ave
+San Jose, CO
+
+Date of Birth: 2/7/1968
+
+Amount Due: $6285

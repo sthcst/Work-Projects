@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Cooper,ashley.cooper2203@company.com,514 219 1720,662203740,10/7/1987,"1243 First Court",Denver,NC

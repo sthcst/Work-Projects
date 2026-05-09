@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Smith,samantha.smith2170@yahoo.com,(698) 409-3554,805 88 8472,20/10/1999,"6142 Maple Ln",New York,NY

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Thompson,george.thompson1360@mail.com,590 935 2572,576055152,04-01-1960,"9890 Elm Ave",New York,CA

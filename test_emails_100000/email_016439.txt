@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Johnson",
+    "email": "emma.johnson7840@business.net",
+    "phone": "(570) 251-3387",
+    "ssn": "381-24-6883",
+    "dob": "3/4/1951",
+    "address": "5285 Cedar St",
+    "city": "San Antonio",
+    "state": "FL"
+  }
+}

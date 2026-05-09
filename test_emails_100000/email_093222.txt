@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Smith
+  email: kevin.smith6670@work.org
+  phone: 409 340 5381
+  ssn: 113 03 2029
+  dob: 15/03/1981
+  address: 375 North Dr
+  city: San Jose
+  state: PA

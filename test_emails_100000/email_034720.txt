@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Walker",
+    "email": "jessica.walker8823@work.org",
+    "phone": "899 763 9076",
+    "ssn": "642-64-8775",
+    "dob": "2/27/1981",
+    "address": "8288 Summer St",
+    "city": "Washington",
+    "state": "MA"
+  }
+}

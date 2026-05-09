@@ -1,0 +1,14 @@
+INVOICE 876671
+
+Bill To:
+Name: William Jimenez
+Email: william.jimenez5411@example.com
+Phone: 378 877 5155
+SSN: 081 27 4057
+
+Address: 6688 Birch Rd
+San Antonio, TX
+
+Date of Birth: 4/11/1971
+
+Amount Due: $5154

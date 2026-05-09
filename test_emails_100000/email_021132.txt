@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Young,timothy.young9544@gmail.com,855 306 5232,712313375,04-14-1951,"3500 West Way",Chicago,CA

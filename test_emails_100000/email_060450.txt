@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Rodriguez,emily.rodriguez739@yahoo.com,305 849 9743,851-59-8813,06-18-1963,"8171 Cedar Dr",Seattle,AZ

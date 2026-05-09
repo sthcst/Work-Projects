@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Evans",
+    "email": "rachel.evans5767@example.com",
+    "phone": "+1 789-805-8479",
+    "ssn": "416621006",
+    "dob": "03/10/1956",
+    "address": "1268 South Rd",
+    "city": "New York",
+    "state": "WA"
+  }
+}

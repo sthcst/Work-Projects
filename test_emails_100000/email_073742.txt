@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Martin",
+    "email": "mark.martin6804@outlook.com",
+    "phone": "(412) 558-9599",
+    "ssn": "670-32-6564",
+    "dob": "10-02-1986",
+    "address": "6965 Second Dr",
+    "city": "New York",
+    "state": "TX"
+  }
+}

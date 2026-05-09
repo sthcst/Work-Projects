@@ -1,0 +1,14 @@
+INVOICE 399279
+
+Bill To:
+Name: Stephanie Davis
+Email: stephanie.davis2491@example.com
+Phone: 231 650 7253
+SSN: 185 38 9708
+
+Address: 5697 Fifth Blvd
+Houston, MI
+
+Date of Birth: 05/09/1986
+
+Amount Due: $947

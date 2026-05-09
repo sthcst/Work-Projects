@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Alvarado
+  email: ronald.alvarado4077@outlook.com
+  phone: (875) 709-1300
+  ssn: 537043563
+  dob: 05/10/1960
+  address: 5933 East St
+  city: Phoenix
+  state: WI

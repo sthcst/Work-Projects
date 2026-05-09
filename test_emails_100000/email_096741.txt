@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Walker,kimberly.walker1663@yahoo.com,(906) 336-2108,889-93-4042,06-28-1955,"5131 Park Ave",Seattle,NJ

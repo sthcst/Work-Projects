@@ -1,0 +1,9 @@
+contact:
+  name: Angela Williams
+  email: angela.williams9102@yahoo.com
+  phone: 770-666-2358
+  ssn: 767481039
+  dob: 03/09/2005
+  address: 868 Fourth St
+  city: San Jose
+  state: NY

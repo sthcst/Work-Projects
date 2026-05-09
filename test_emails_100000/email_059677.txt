@@ -1,0 +1,14 @@
+INVOICE 591907
+
+Bill To:
+Name: Shirley Jackson
+Email: shirley.jackson2116@work.org
+Phone: 280 831 7042
+SSN: 444798106
+
+Address: 7812 Third Ln
+Washington, NC
+
+Date of Birth: 21/06/1994
+
+Amount Due: $8817

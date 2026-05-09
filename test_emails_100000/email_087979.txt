@@ -1,0 +1,9 @@
+contact:
+  name: Gary Ortiz
+  email: gary.ortiz5862@outlook.com
+  phone: +1 995-438-9515
+  ssn: 367-61-9862
+  dob: 07-26-1958
+  address: 8996 Summer Way
+  city: Boston
+  state: MO

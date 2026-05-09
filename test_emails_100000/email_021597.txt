@@ -1,0 +1,14 @@
+INVOICE 263160
+
+Bill To:
+Name: Kevin Smith
+Email: kevin.smith1802@company.com
+Phone: +1 800-422-4101
+SSN: 714569891
+
+Address: 2298 Spring Court
+Washington, MD
+
+Date of Birth: 05-13-1951
+
+Amount Due: $4832

@@ -1,0 +1,9 @@
+contact:
+  name: Megan Gomez
+  email: megan.gomez2346@gmail.com
+  phone: (720) 886-2614
+  ssn: 921 35 9324
+  dob: 11/16/1958
+  address: 3899 Birch Ln
+  city: San Diego
+  state: AZ

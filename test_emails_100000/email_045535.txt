@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Brown",
+    "email": "pamela.brown8360@mail.com",
+    "phone": "(364) 475-9415",
+    "ssn": "204558216",
+    "dob": "12/19/1973",
+    "address": "5185 Third Ave",
+    "city": "Boston",
+    "state": "MO"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Richard Stewart
+  email: richard.stewart8195@outlook.com
+  phone: (952) 769-9385
+  ssn: 537 27 5995
+  dob: 10/21/1993
+  address: 3633 East Ln
+  city: Philadelphia
+  state: GA

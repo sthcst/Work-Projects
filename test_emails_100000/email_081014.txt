@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Hernandez",
+    "email": "rachel.hernandez1366@business.net",
+    "phone": "280-293-6312",
+    "ssn": "639 52 2134",
+    "dob": "11/19/1996",
+    "address": "4257 Summer Ave",
+    "city": "New York",
+    "state": "TX"
+  }
+}

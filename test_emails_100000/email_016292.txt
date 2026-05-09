@@ -1,0 +1,9 @@
+contact:
+  name: Matthew Brown
+  email: matthew.brown5820@company.com
+  phone: 733 542 2963
+  ssn: 435-10-8957
+  dob: 14/06/1951
+  address: 9168 Cedar St
+  city: San Diego
+  state: CO

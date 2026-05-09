@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Clark",
+    "email": "anna.clark7728@yahoo.com",
+    "phone": "(648) 201-8776",
+    "ssn": "431186548",
+    "dob": "09-26-1970",
+    "address": "8223 Fifth Way",
+    "city": "San Jose",
+    "state": "NC"
+  }
+}

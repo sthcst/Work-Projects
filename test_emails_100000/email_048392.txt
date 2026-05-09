@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Alvarado
+  email: sarah.alvarado3407@company.com
+  phone: 793 555 9371
+  ssn: 229-19-5808
+  dob: 05/28/1954
+  address: 1544 Sixth Blvd
+  city: Boston
+  state: NC

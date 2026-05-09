@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Lopez,charles.lopez912@mail.com,+1 828-921-1515,884-16-8259,07-28-1967,"4468 Summer Ave",Houston,VA

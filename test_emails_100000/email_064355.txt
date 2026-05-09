@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Hernandez
+  email: nicholas.hernandez1601@gmail.com
+  phone: +1 873-828-5455
+  ssn: 283 91 4084
+  dob: 11/06/1994
+  address: 8079 Elm Court
+  city: New York
+  state: DC

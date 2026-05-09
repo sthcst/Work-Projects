@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Murillo
+  email: joshua.murillo3649@example.com
+  phone: +1 564-596-1312
+  ssn: 607967799
+  dob: 12/19/1996
+  address: 2555 Fifth Ave
+  city: San Diego
+  state: TX

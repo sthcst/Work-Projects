@@ -1,0 +1,9 @@
+contact:
+  name: Jane Cooper
+  email: jane.cooper8181@example.com
+  phone: 289 445 1504
+  ssn: 036 76 3644
+  dob: 03-04-1952
+  address: 4619 Fifth St
+  city: Jacksonville
+  state: VA

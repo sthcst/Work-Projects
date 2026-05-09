@@ -1,0 +1,14 @@
+INVOICE 994606
+
+Bill To:
+Name: Anna Jimenez
+Email: anna.jimenez6354@example.com
+Phone: (858) 809-6291
+SSN: 108-67-1307
+
+Address: 2858 West Blvd
+Phoenix, MD
+
+Date of Birth: 7/25/1980
+
+Amount Due: $8219

@@ -1,0 +1,9 @@
+contact:
+  name: Anna Rogers
+  email: anna.rogers8776@mail.com
+  phone: +1 253-745-3436
+  ssn: 013-58-7985
+  dob: 12/03/1984
+  address: 2190 Park St
+  city: San Diego
+  state: WI

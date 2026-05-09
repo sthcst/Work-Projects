@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Edwards",
+    "email": "steven.edwards2175@company.com",
+    "phone": "695 892 6722",
+    "ssn": "365-48-1231",
+    "dob": "05-08-1981",
+    "address": "1257 Fifth Ln",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Phillips
+  email: ryan.phillips2532@example.com
+  phone: +1 953-526-9141
+  ssn: 309582582
+  dob: 11/15/2005
+  address: 6465 Main Rd
+  city: Chicago
+  state: MI

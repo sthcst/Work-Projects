@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Rodriguez",
+    "email": "stephanie.rodriguez478@gmail.com",
+    "phone": "(740) 815-7993",
+    "ssn": "609 27 5262",
+    "dob": "09/15/1955",
+    "address": "3804 First Way",
+    "city": "San Diego",
+    "state": "MA"
+  }
+}

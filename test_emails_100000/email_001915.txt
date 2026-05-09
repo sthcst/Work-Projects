@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Sanchez",
+    "email": "mark.sanchez8596@gmail.com",
+    "phone": "+1 838-952-3060",
+    "ssn": "416-81-7362",
+    "dob": "10/22/1968",
+    "address": "4990 Spring Court",
+    "city": "Jacksonville",
+    "state": "NY"
+  }
+}

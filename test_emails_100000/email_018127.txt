@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Campbell
+  email: andrew.campbell2123@company.com
+  phone: +1 466-677-5029
+  ssn: 528-45-7511
+  dob: 15/10/1966
+  address: 471 Oak St
+  city: Philadelphia
+  state: IL

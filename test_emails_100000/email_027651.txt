@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Gomez,rachel.gomez7531@mail.com,599-495-3020,232 78 1759,6/20/1969,"1425 South Ln",Austin,CA

@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Phillips
+  email: katherine.phillips8686@gmail.com
+  phone: (216) 824-6520
+  ssn: 699-18-5315
+  dob: 02-08-1969
+  address: 2654 Birch Way
+  city: Philadelphia
+  state: NC

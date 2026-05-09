@@ -1,0 +1,9 @@
+contact:
+  name: Angela Flores
+  email: angela.flores7663@company.com
+  phone: 743-854-2825
+  ssn: 453-94-9218
+  dob: 03/04/1980
+  address: 8933 Cedar St
+  city: New York
+  state: GA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Anderson,christine.anderson8798@outlook.com,+1 870-866-7015,388 86 6035,04-18-1991,"1738 Main Ave",Los Angeles,IL

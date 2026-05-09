@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Peterson
+  email: joseph.peterson3644@example.com
+  phone: 291-864-4064
+  ssn: 641-09-3166
+  dob: 11-08-1964
+  address: 2091 Fourth Ln
+  city: Denver
+  state: FL

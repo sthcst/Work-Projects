@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Rodriguez",
+    "email": "stephanie.rodriguez749@work.org",
+    "phone": "(927) 566-9331",
+    "ssn": "333065757",
+    "dob": "01-06-1983",
+    "address": "3512 Cedar Court",
+    "city": "Jacksonville",
+    "state": "NJ"
+  }
+}

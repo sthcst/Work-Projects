@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Serrano
+  email: stephanie.serrano7738@example.com
+  phone: 820 709 9015
+  ssn: 395815745
+  dob: 08/19/1970
+  address: 7747 Second Rd
+  city: Phoenix
+  state: NY

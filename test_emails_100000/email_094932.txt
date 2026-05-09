@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Carter,christopher.carter3511@yahoo.com,+1 222-512-6634,120 15 5478,4/22/1991,"6479 Second Court",Dallas,WI

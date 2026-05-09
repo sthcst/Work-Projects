@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Anderson",
+    "email": "george.anderson8297@work.org",
+    "phone": "630 606 6953",
+    "ssn": "054 37 8227",
+    "dob": "01/24/1980",
+    "address": "7666 West Ln",
+    "city": "Jacksonville",
+    "state": "MA"
+  }
+}

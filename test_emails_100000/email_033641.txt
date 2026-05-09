@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Davis",
+    "email": "deborah.davis9075@example.com",
+    "phone": "+1 811-434-8958",
+    "ssn": "283902151",
+    "dob": "08/12/1951",
+    "address": "6833 First Rd",
+    "city": "Dallas",
+    "state": "WI"
+  }
+}

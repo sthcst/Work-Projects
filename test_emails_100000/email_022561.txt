@@ -1,0 +1,14 @@
+INVOICE 757367
+
+Bill To:
+Name: Stephanie Serrano
+Email: stephanie.serrano4306@example.com
+Phone: +1 842-734-6159
+SSN: 894817426
+
+Address: 3918 South Dr
+Jacksonville, TX
+
+Date of Birth: 13/10/1960
+
+Amount Due: $4553

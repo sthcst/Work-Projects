@@ -1,0 +1,14 @@
+INVOICE 677231
+
+Bill To:
+Name: Brian Clark
+Email: brian.clark6364@business.net
+Phone: 733-559-7974
+SSN: 577775701
+
+Address: 4904 Maple Blvd
+Los Angeles, CA
+
+Date of Birth: 03/03/1966
+
+Amount Due: $6677

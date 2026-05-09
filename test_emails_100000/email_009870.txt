@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Phillips,james.phillips5334@example.com,713-980-1599,324-47-7318,11/20/1975,"6269 West Blvd",Los Angeles,DC

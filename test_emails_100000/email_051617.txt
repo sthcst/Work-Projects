@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Edwards,jane.edwards5161@outlook.com,875 203 3680,152-34-5152,05-17-1983,"4115 Spring Ln",San Antonio,CA

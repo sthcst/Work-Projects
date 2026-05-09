@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Young
+  email: katherine.young2745@gmail.com
+  phone: 804-607-3606
+  ssn: 607 50 9243
+  dob: 19/05/1979
+  address: 6945 Spring Way
+  city: Washington
+  state: MO

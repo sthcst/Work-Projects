@@ -1,0 +1,9 @@
+contact:
+  name: Emily Miller
+  email: emily.miller8464@example.com
+  phone: 820 326 8937
+  ssn: 771-28-4108
+  dob: 10-15-1987
+  address: 666 South Ln
+  city: New York
+  state: NJ

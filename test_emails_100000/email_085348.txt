@@ -1,0 +1,9 @@
+contact:
+  name: Maria Phillips
+  email: maria.phillips4088@gmail.com
+  phone: 581 241 4789
+  ssn: 148 23 4328
+  dob: 05-07-1971
+  address: 3075 Spring Ln
+  city: San Jose
+  state: NJ

@@ -1,0 +1,9 @@
+contact:
+  name: Jane Davis
+  email: jane.davis2072@work.org
+  phone: 951-489-8089
+  ssn: 924 55 4845
+  dob: 05/01/1999
+  address: 2322 West Ave
+  city: Dallas
+  state: WA

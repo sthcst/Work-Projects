@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Alvarado,katherine.alvarado7439@example.com,798-680-2904,251323566,24/06/1995,"6778 Fourth Dr",Phoenix,TX

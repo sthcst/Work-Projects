@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Guerrero,helen.guerrero2967@business.net,(665) 471-8345,671-40-3293,4/27/1958,"8471 Oak Ave",Phoenix,GA

@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Sanchez
+  email: nicholas.sanchez4807@business.net
+  phone: +1 819-486-2525
+  ssn: 640 29 5234
+  dob: 10-09-1970
+  address: 7157 Spring Court
+  city: Houston
+  state: OH

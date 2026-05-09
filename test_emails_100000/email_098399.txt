@@ -1,0 +1,14 @@
+INVOICE 610087
+
+Bill To:
+Name: Emma Rodriguez
+Email: emma.rodriguez5278@yahoo.com
+Phone: +1 379-290-5222
+SSN: 109-79-8101
+
+Address: 3280 Oak Court
+Seattle, AZ
+
+Date of Birth: 9/9/1995
+
+Amount Due: $651

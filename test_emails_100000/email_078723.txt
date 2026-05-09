@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Moore
+  email: lauren.moore1418@work.org
+  phone: (541) 762-3969
+  ssn: 409 42 6585
+  dob: 01/25/1975
+  address: 3006 Fifth Ln
+  city: Chicago
+  state: CA

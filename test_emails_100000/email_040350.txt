@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Delgado",
+    "email": "nicholas.delgado7290@example.com",
+    "phone": "508 458 1408",
+    "ssn": "916 85 2314",
+    "dob": "06-05-1995",
+    "address": "6489 Spring Dr",
+    "city": "Washington",
+    "state": "NY"
+  }
+}

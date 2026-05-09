@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Rodriguez,ryan.rodriguez9334@mail.com,+1 800-989-8905,658397831,09-25-2000,"5221 Park Rd",Boston,NJ

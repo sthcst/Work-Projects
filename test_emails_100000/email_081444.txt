@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Bell",
+    "email": "shirley.bell6090@business.net",
+    "phone": "+1 578-830-1338",
+    "ssn": "225517472",
+    "dob": "03/06/1974",
+    "address": "84 Summer Ln",
+    "city": "Washington",
+    "state": "DC"
+  }
+}

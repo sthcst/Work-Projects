@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Lee",
+    "email": "lisa.lee5830@outlook.com",
+    "phone": "590 765 4270",
+    "ssn": "947-44-9697",
+    "dob": "6/2/1975",
+    "address": "9224 Main St",
+    "city": "Phoenix",
+    "state": "MI"
+  }
+}

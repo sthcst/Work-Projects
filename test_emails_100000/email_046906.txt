@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Morris,lauren.morris8277@work.org,+1 275-435-5603,097-64-7586,07-19-1968,"1429 First Rd",Austin,FL

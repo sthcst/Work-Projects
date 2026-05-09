@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Taylor",
+    "email": "kevin.taylor9400@company.com",
+    "phone": "822 656 3498",
+    "ssn": "542 81 8317",
+    "dob": "12/13/2003",
+    "address": "7865 Cedar Ln",
+    "city": "Boston",
+    "state": "PA"
+  }
+}

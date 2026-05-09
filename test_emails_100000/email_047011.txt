@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Robinson,michael.robinson2959@example.com,738 212 4328,318-72-7086,14/07/1961,"7182 Main Blvd",San Antonio,TX

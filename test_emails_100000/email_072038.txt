@@ -1,0 +1,9 @@
+contact:
+  name: Angela Murillo
+  email: angela.murillo9622@gmail.com
+  phone: 653-529-6164
+  ssn: 901672801
+  dob: 18/12/1991
+  address: 968 Second Way
+  city: San Diego
+  state: WI

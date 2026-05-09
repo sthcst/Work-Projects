@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Martin,michael.martin8968@company.com,651 406 7852,877-21-7129,10-04-1986,"3965 Cedar Rd",San Diego,TN

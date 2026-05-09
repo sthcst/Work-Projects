@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Lee
+  email: jessica.lee6559@example.com
+  phone: 238 540 7826
+  ssn: 379059037
+  dob: 06-20-1986
+  address: 675 Third St
+  city: Philadelphia
+  state: MO

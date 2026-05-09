@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Taylor",
+    "email": "ryan.taylor4217@yahoo.com",
+    "phone": "875 322 7715",
+    "ssn": "720373432",
+    "dob": "20/03/1989",
+    "address": "4923 North Blvd",
+    "city": "Dallas",
+    "state": "CO"
+  }
+}

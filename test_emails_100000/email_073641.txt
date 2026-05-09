@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Delgado
+  email: jeffrey.delgado810@company.com
+  phone: (977) 901-2876
+  ssn: 289529703
+  dob: 19/09/1975
+  address: 993 Sixth Ave
+  city: Phoenix
+  state: WI

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Parker",
+    "email": "jason.parker2802@yahoo.com",
+    "phone": "811-235-2761",
+    "ssn": "356-54-3294",
+    "dob": "4/6/1961",
+    "address": "3832 North Dr",
+    "city": "Washington",
+    "state": "PA"
+  }
+}

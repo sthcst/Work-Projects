@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Morgan",
+    "email": "kathleen.morgan2156@outlook.com",
+    "phone": "460-251-6661",
+    "ssn": "512917751",
+    "dob": "12/3/1985",
+    "address": "254 Birch Ave",
+    "city": "Denver",
+    "state": "MA"
+  }
+}

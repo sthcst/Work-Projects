@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Young
+  email: brenda.young8486@company.com
+  phone: 714-647-5460
+  ssn: 263-48-3330
+  dob: 11-10-1976
+  address: 5122 Third Ave
+  city: Boston
+  state: TX

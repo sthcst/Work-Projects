@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Flores",
+    "email": "angela.flores4962@yahoo.com",
+    "phone": "(693) 410-1310",
+    "ssn": "623-22-7674",
+    "dob": "8/10/1972",
+    "address": "8442 Pine Ave",
+    "city": "Dallas",
+    "state": "WA"
+  }
+}

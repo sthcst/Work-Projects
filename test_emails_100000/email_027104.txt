@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Evans
+  email: katherine.evans2835@company.com
+  phone: 431 741 7695
+  ssn: 334-61-7839
+  dob: 2/26/1961
+  address: 9584 West Ave
+  city: Seattle
+  state: WA

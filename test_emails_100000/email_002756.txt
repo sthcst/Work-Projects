@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Davis,emily.davis8123@example.com,(971) 346-7335,169-69-5136,08/03/1992,"6308 Oak Ln",Austin,MA

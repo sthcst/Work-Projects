@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Carter,charles.carter5060@outlook.com,672-405-1745,329078011,5/7/1978,"5024 Main Ave",San Diego,TX

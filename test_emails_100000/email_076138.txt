@@ -1,0 +1,9 @@
+contact:
+  name: Mark Stewart
+  email: mark.stewart4769@yahoo.com
+  phone: +1 690-936-8938
+  ssn: 511-70-7965
+  dob: 17/12/1963
+  address: 9403 Cedar Way
+  city: San Diego
+  state: MD

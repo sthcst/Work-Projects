@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Roberts",
+    "email": "megan.roberts609@mail.com",
+    "phone": "990-212-3573",
+    "ssn": "614275068",
+    "dob": "02/25/1976",
+    "address": "9252 Summer Court",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

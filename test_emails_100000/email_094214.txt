@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Evans,ronald.evans7501@example.com,828-561-7464,103 97 3615,05/05/1999,"4494 Main Court",Seattle,PA

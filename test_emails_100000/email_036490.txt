@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Davis",
+    "email": "katherine.davis5280@work.org",
+    "phone": "+1 511-449-8599",
+    "ssn": "839882005",
+    "dob": "09/24/1979",
+    "address": "8152 First St",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

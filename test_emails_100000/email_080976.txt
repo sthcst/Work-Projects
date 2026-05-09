@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Dominguez",
+    "email": "kenneth.dominguez8630@example.com",
+    "phone": "599 686 2932",
+    "ssn": "338 74 8268",
+    "dob": "03-24-2003",
+    "address": "6408 Maple Ln",
+    "city": "Boston",
+    "state": "FL"
+  }
+}

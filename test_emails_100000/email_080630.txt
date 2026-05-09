@@ -1,0 +1,9 @@
+contact:
+  name: Matthew Dominguez
+  email: matthew.dominguez3878@work.org
+  phone: 533 609 8393
+  ssn: 632 81 9264
+  dob: 23/11/1959
+  address: 3374 Second Ln
+  city: San Diego
+  state: DC

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Gomez",
+    "email": "lisa.gomez6280@outlook.com",
+    "phone": "+1 349-969-9285",
+    "ssn": "778172213",
+    "dob": "10-10-1999",
+    "address": "9201 Oak Blvd",
+    "city": "Jacksonville",
+    "state": "VA"
+  }
+}

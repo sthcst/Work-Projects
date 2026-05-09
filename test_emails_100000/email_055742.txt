@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Williams,john.williams5039@example.com,+1 772-811-9186,733198854,03/20/1967,"9443 Elm Court",San Diego,WA

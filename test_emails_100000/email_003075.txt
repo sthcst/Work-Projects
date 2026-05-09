@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Jimenez",
+    "email": "angela.jimenez9685@business.net",
+    "phone": "212-449-4053",
+    "ssn": "063 18 3674",
+    "dob": "1/4/1981",
+    "address": "2634 Fourth Ave",
+    "city": "Austin",
+    "state": "OH"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Roberts",
+    "email": "ashley.roberts589@outlook.com",
+    "phone": "656 936 6583",
+    "ssn": "016-77-8360",
+    "dob": "11/13/1963",
+    "address": "8308 Birch Rd",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

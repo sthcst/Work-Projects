@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Johnson",
+    "email": "ashley.johnson3261@mail.com",
+    "phone": "+1 737-353-1177",
+    "ssn": "974338773",
+    "dob": "05-03-1953",
+    "address": "3231 South St",
+    "city": "Dallas",
+    "state": "AZ"
+  }
+}

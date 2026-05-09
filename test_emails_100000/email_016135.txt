@@ -1,0 +1,9 @@
+contact:
+  name: Mark Rodriguez
+  email: mark.rodriguez5143@business.net
+  phone: +1 281-372-3457
+  ssn: 993-55-3567
+  dob: 5/24/1967
+  address: 3993 East Blvd
+  city: Chicago
+  state: TX

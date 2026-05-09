@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Carter",
+    "email": "jessica.carter3936@business.net",
+    "phone": "213 511 1953",
+    "ssn": "269222634",
+    "dob": "11/03/1990",
+    "address": "8826 Cedar Rd",
+    "city": "Seattle",
+    "state": "WI"
+  }
+}

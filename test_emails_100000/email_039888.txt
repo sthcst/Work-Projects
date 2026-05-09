@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Gomez,nicholas.gomez9417@work.org,+1 916-263-4009,293308987,8/26/1981,"8019 Maple Ave",Chicago,AZ

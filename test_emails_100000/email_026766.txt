@@ -1,0 +1,9 @@
+contact:
+  name: Robert Harris
+  email: robert.harris9532@business.net
+  phone: +1 948-646-9336
+  ssn: 562246408
+  dob: 03/01/1986
+  address: 1312 Summer Ln
+  city: Washington
+  state: CA

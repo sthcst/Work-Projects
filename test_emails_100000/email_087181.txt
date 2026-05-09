@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Phillips,brenda.phillips3824@company.com,623-625-3864,713 79 3794,03/12/2000,"2711 Oak Ave",Los Angeles,DC

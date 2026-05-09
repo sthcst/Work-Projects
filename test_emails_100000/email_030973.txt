@@ -1,0 +1,14 @@
+INVOICE 636667
+
+Bill To:
+Name: John Johnson
+Email: john.johnson9126@gmail.com
+Phone: (886) 487-3936
+SSN: 432-76-7314
+
+Address: 9499 Sixth Blvd
+Dallas, WA
+
+Date of Birth: 04/01/1978
+
+Amount Due: $8351

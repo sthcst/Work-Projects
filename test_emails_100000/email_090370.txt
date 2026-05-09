@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Anderson",
+    "email": "rebecca.anderson7011@outlook.com",
+    "phone": "(397) 689-7029",
+    "ssn": "159-72-4617",
+    "dob": "06-19-1966",
+    "address": "6761 Third Ln",
+    "city": "Philadelphia",
+    "state": "WI"
+  }
+}

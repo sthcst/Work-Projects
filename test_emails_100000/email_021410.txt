@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Romero
+  email: jessica.romero6934@yahoo.com
+  phone: 952-732-9692
+  ssn: 078 55 8366
+  dob: 7/23/2002
+  address: 2834 Sixth Blvd
+  city: Dallas
+  state: TX

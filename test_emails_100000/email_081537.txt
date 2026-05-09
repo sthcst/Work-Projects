@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Taylor,christine.taylor3907@gmail.com,(651) 935-7168,024 91 1454,9/14/1960,"4013 Fifth Dr",Chicago,WI

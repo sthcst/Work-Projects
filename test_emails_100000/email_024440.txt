@@ -1,0 +1,14 @@
+INVOICE 292235
+
+Bill To:
+Name: Richard Rodriguez
+Email: richard.rodriguez1530@work.org
+Phone: 315 223 8721
+SSN: 694-22-7106
+
+Address: 4070 Sixth Way
+Chicago, NC
+
+Date of Birth: 05/09/1951
+
+Amount Due: $7459

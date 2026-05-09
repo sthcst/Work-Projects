@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Peterson",
+    "email": "megan.peterson7856@company.com",
+    "phone": "966-682-3820",
+    "ssn": "220845539",
+    "dob": "02-14-1984",
+    "address": "7615 Pine Ave",
+    "city": "Jacksonville",
+    "state": "NC"
+  }
+}

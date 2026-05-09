@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Taylor",
+    "email": "daniel.taylor7228@work.org",
+    "phone": "203-541-7322",
+    "ssn": "012-46-5556",
+    "dob": "3/16/1985",
+    "address": "1936 Main Rd",
+    "city": "San Antonio",
+    "state": "MI"
+  }
+}

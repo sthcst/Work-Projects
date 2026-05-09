@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Serrano",
+    "email": "jane.serrano810@business.net",
+    "phone": "(996) 537-9384",
+    "ssn": "113-40-2504",
+    "dob": "08/05/1997",
+    "address": "7353 Spring Ave",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

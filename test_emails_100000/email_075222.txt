@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Carter
+  email: shirley.carter1383@mail.com
+  phone: (986) 303-9326
+  ssn: 663 53 2407
+  dob: 02-06-1957
+  address: 4403 Maple Blvd
+  city: Houston
+  state: TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Taylor,steven.taylor2765@business.net,274 871 2202,427 19 2848,06/11/1959,"8581 North Ln",New York,NJ

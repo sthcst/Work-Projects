@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Romero
+  email: samantha.romero2069@business.net
+  phone: +1 283-481-4653
+  ssn: 956-19-1366
+  dob: 07/01/1965
+  address: 7316 Birch Rd
+  city: Denver
+  state: NY

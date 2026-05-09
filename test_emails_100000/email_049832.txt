@@ -1,0 +1,9 @@
+contact:
+  name: Maria Clark
+  email: maria.clark4315@company.com
+  phone: 463 349 5531
+  ssn: 800-12-4334
+  dob: 07/22/1959
+  address: 1966 Oak Dr
+  city: San Jose
+  state: AZ

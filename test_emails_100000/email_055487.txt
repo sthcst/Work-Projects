@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Clark",
+    "email": "angela.clark7015@example.com",
+    "phone": "+1 627-322-6425",
+    "ssn": "191-81-5317",
+    "dob": "07/07/1966",
+    "address": "5874 Summer Rd",
+    "city": "Boston",
+    "state": "AZ"
+  }
+}

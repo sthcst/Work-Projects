@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Carter,edward.carter6724@business.net,(848) 368-8069,519 54 2592,07-27-2004,"7679 South Dr",Washington,CA

@@ -1,0 +1,12 @@
+SUPPORT TICKET #11653
+
+Customer: Donald Lewis
+Email: donald.lewis3425@example.com
+Phone: (814) 431-3891
+Account: 123-84-6597
+
+Issue Description: Technical problem reported
+DOB on file: 3/18/1971
+Address: 2349 Summer Ave, Jacksonville, WA
+
+Status: OPEN

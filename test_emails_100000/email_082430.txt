@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Flores
+  email: anthony.flores5672@mail.com
+  phone: 457-347-1015
+  ssn: 511472120
+  dob: 21/06/1990
+  address: 3679 Maple Blvd
+  city: Los Angeles
+  state: TX

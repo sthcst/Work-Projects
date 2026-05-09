@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Gomez
+  email: jeffrey.gomez6726@mail.com
+  phone: (323) 425-9971
+  ssn: 131-38-7365
+  dob: 02-14-1950
+  address: 9491 South Way
+  city: Houston
+  state: DC

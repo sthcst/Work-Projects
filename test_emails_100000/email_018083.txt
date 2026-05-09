@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Roberts,steven.roberts5444@yahoo.com,629 609 8009,532-62-4220,04/13/1958,"8990 Fourth Rd",San Jose,WA

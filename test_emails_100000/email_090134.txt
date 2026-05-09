@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Martinez
+  email: ashley.martinez2136@gmail.com
+  phone: +1 693-708-6114
+  ssn: 762-33-7116
+  dob: 12/10/1977
+  address: 3887 North Court
+  city: Philadelphia
+  state: WA

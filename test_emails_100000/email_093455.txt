@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Miller",
+    "email": "kimberly.miller6718@example.com",
+    "phone": "+1 455-866-5447",
+    "ssn": "789489144",
+    "dob": "01-03-2001",
+    "address": "3025 Oak Court",
+    "city": "Chicago",
+    "state": "TN"
+  }
+}

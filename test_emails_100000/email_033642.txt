@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Martin,cynthia.martin5053@example.com,987-365-9022,927 75 2615,8/4/1951,"4630 Park Ave",San Diego,CA

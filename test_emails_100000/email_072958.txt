@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Harris,kathleen.harris5409@work.org,+1 968-838-7979,467 58 7177,8/4/1996,"8397 Oak Court",Los Angeles,MA

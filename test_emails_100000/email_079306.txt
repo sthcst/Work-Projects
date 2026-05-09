@@ -1,0 +1,9 @@
+contact:
+  name: Emma Reeves
+  email: emma.reeves8851@outlook.com
+  phone: 775 214 8815
+  ssn: 126203007
+  dob: 3/11/1988
+  address: 2620 East Ln
+  city: San Antonio
+  state: MA

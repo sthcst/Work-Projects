@@ -1,0 +1,14 @@
+INVOICE 210123
+
+Bill To:
+Name: Pamela Parker
+Email: pamela.parker8220@work.org
+Phone: (546) 520-5866
+SSN: 952 97 8391
+
+Address: 4984 Second Way
+Seattle, IL
+
+Date of Birth: 07/26/1951
+
+Amount Due: $5065

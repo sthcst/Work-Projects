@@ -1,0 +1,14 @@
+INVOICE 793575
+
+Bill To:
+Name: Sarah Smith
+Email: sarah.smith1986@work.org
+Phone: 972-728-2751
+SSN: 585607562
+
+Address: 1605 Third Dr
+New York, MO
+
+Date of Birth: 4/16/1961
+
+Amount Due: $7287

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Nunez,helen.nunez4050@business.net,+1 594-601-8805,712-35-3789,12/14/1956,"2729 Main Way",Denver,MA

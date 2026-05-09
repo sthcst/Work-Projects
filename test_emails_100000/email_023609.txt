@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Martin",
+    "email": "amanda.martin8732@gmail.com",
+    "phone": "+1 999-681-3274",
+    "ssn": "981292054",
+    "dob": "07/10/1987",
+    "address": "3368 Park St",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

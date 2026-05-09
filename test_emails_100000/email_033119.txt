@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Anderson,christine.anderson5680@yahoo.com,456 547 7940,792875625,12/18/1984,"6218 Oak St",Houston,GA

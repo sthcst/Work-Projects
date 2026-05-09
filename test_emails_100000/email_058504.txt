@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Reed,shirley.reed9285@company.com,544 339 1270,394696072,05/08/1983,"2546 Spring Dr",Houston,CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Smith,kimberly.smith7821@example.com,+1 320-217-7707,208-20-4574,17/10/1978,"8975 Fourth Court",Los Angeles,PA

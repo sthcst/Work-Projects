@@ -1,0 +1,14 @@
+INVOICE 455369
+
+Bill To:
+Name: Charles Phillips
+Email: charles.phillips1779@company.com
+Phone: +1 435-462-5784
+SSN: 508638035
+
+Address: 6863 South Blvd
+Boston, FL
+
+Date of Birth: 13/02/1999
+
+Amount Due: $158

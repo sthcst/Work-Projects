@@ -1,0 +1,14 @@
+INVOICE 313489
+
+Bill To:
+Name: Sarah Lewis
+Email: sarah.lewis5773@mail.com
+Phone: (985) 361-3291
+SSN: 733581253
+
+Address: 1832 Elm Way
+Phoenix, OH
+
+Date of Birth: 6/1/1996
+
+Amount Due: $615

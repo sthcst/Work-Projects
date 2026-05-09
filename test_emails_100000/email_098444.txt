@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Davis,david.davis8408@outlook.com,646-424-1031,234-80-7325,09-20-1955,"8610 Park Ave",Houston,OH

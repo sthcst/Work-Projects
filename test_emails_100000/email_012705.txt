@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Miller",
+    "email": "robert.miller3384@mail.com",
+    "phone": "393 896 9911",
+    "ssn": "051738342",
+    "dob": "09/12/2005",
+    "address": "1597 North Rd",
+    "city": "Chicago",
+    "state": "FL"
+  }
+}

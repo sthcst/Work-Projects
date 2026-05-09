@@ -1,0 +1,14 @@
+INVOICE 883444
+
+Bill To:
+Name: Kenneth Stewart
+Email: kenneth.stewart1674@example.com
+Phone: +1 955-990-1246
+SSN: 941123697
+
+Address: 9549 Second Ave
+Houston, MA
+
+Date of Birth: 03-19-1966
+
+Amount Due: $1897

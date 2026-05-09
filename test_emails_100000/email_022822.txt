@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Young
+  email: michelle.young4561@gmail.com
+  phone: (305) 364-6075
+  ssn: 311-50-8532
+  dob: 11-09-1971
+  address: 7874 Oak Court
+  city: Seattle
+  state: MO

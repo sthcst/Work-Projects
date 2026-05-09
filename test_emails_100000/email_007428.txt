@@ -1,0 +1,9 @@
+contact:
+  name: Charles Reed
+  email: charles.reed7687@gmail.com
+  phone: 691-391-1464
+  ssn: 484-81-2410
+  dob: 01-02-1994
+  address: 7589 Fifth Rd
+  city: New York
+  state: CA

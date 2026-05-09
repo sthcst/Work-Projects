@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Cooper,andrew.cooper9250@gmail.com,+1 616-885-3901,547946605,11/13/1957,"4300 Main Rd",Los Angeles,MO

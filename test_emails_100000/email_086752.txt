@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Hernandez
+  email: joseph.hernandez9537@mail.com
+  phone: 593-518-6231
+  ssn: 239 34 9403
+  dob: 08/04/1978
+  address: 6077 Fifth Court
+  city: Dallas
+  state: NJ

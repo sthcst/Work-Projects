@@ -1,0 +1,14 @@
+INVOICE 148515
+
+Bill To:
+Name: Gary Gonzalez
+Email: gary.gonzalez2535@example.com
+Phone: +1 465-240-6474
+SSN: 271 25 3025
+
+Address: 6763 Summer Ave
+Washington, DC
+
+Date of Birth: 01-13-1982
+
+Amount Due: $6796

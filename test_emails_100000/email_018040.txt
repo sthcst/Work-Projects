@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Jimenez",
+    "email": "richard.jimenez3502@business.net",
+    "phone": "+1 326-962-3615",
+    "ssn": "570-61-1583",
+    "dob": "20/04/1957",
+    "address": "2062 Main Rd",
+    "city": "Jacksonville",
+    "state": "TN"
+  }
+}

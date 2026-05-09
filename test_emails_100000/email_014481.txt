@@ -1,0 +1,14 @@
+INVOICE 358271
+
+Bill To:
+Name: Steven Clark
+Email: steven.clark5734@mail.com
+Phone: (991) 254-3966
+SSN: 145262612
+
+Address: 7605 Fifth Rd
+San Jose, VA
+
+Date of Birth: 09/17/2005
+
+Amount Due: $3505

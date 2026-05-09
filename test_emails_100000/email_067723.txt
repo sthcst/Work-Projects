@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Lewis",
+    "email": "lisa.lewis8157@company.com",
+    "phone": "+1 861-257-5334",
+    "ssn": "558 81 5812",
+    "dob": "05-07-1992",
+    "address": "133 Spring Way",
+    "city": "Boston",
+    "state": "MO"
+  }
+}

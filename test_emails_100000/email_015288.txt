@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Reed,angela.reed9383@yahoo.com,+1 880-396-1064,033603006,06/17/1982,"4118 Summer Ln",Denver,MA

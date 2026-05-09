@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Parker,george.parker3112@gmail.com,(776) 873-4119,239-30-4129,01/26/1959,"648 Sixth Rd",Austin,MI

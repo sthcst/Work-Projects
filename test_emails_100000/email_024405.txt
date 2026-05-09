@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Hall,jane.hall7970@company.com,(997) 495-4961,743661286,11-09-2004,"1149 Fourth St",Washington,NC

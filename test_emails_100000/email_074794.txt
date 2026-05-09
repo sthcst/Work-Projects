@@ -1,0 +1,14 @@
+INVOICE 142260
+
+Bill To:
+Name: Donald Garcia
+Email: donald.garcia249@yahoo.com
+Phone: +1 519-710-3619
+SSN: 708192896
+
+Address: 4501 Summer Dr
+Philadelphia, TX
+
+Date of Birth: 01/01/1999
+
+Amount Due: $6729

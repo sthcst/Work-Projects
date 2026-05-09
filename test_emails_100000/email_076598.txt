@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Campbell,lauren.campbell3599@work.org,(204) 645-6589,516 19 9089,8/17/1950,"9462 West Court",Houston,CO

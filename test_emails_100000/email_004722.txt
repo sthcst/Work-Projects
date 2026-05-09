@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Robinson,christine.robinson649@mail.com,275-516-7247,932028666,04/14/1992,"8748 North Blvd",Seattle,VA

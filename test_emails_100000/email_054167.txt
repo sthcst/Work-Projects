@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Wilson",
+    "email": "michael.wilson4819@company.com",
+    "phone": "+1 806-418-9375",
+    "ssn": "206 88 6708",
+    "dob": "19/09/1997",
+    "address": "9693 Sixth Dr",
+    "city": "Washington",
+    "state": "MA"
+  }
+}

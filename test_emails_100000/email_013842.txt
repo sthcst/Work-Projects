@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Ortiz",
+    "email": "david.ortiz1299@example.com",
+    "phone": "+1 584-355-4290",
+    "ssn": "767 35 1083",
+    "dob": "12/09/1960",
+    "address": "1354 Oak Ln",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

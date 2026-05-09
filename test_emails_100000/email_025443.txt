@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Miller",
+    "email": "jason.miller1788@example.com",
+    "phone": "+1 767-957-7120",
+    "ssn": "523113963",
+    "dob": "8/1/1968",
+    "address": "6382 Sixth Court",
+    "city": "Boston",
+    "state": "GA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Angela Gomez
+  email: angela.gomez5647@outlook.com
+  phone: 485 683 2893
+  ssn: 424942443
+  dob: 17/12/1959
+  address: 3322 Summer Ave
+  city: San Antonio
+  state: MD

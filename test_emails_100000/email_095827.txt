@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Garcia,michelle.garcia4136@example.com,(830) 511-9685,506 42 9452,08/17/1955,"7496 Cedar Ln",Los Angeles,NJ

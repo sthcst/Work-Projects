@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Clark",
+    "email": "joseph.clark164@yahoo.com",
+    "phone": "307-989-3812",
+    "ssn": "455 80 2171",
+    "dob": "07-03-2005",
+    "address": "9371 Fourth Rd",
+    "city": "Phoenix",
+    "state": "MD"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Young",
+    "email": "christine.young926@company.com",
+    "phone": "647-984-2585",
+    "ssn": "156972191",
+    "dob": "2/21/1996",
+    "address": "8166 Fifth Court",
+    "city": "Phoenix",
+    "state": "DC"
+  }
+}

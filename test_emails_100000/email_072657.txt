@@ -1,0 +1,9 @@
+contact:
+  name: Angela Miller
+  email: angela.miller5733@business.net
+  phone: (555) 289-7231
+  ssn: 691 95 3314
+  dob: 03/16/1978
+  address: 8342 Oak Rd
+  city: San Diego
+  state: NY

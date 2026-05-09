@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Robinson
+  email: rebecca.robinson6130@yahoo.com
+  phone: 992 892 6997
+  ssn: 263 61 9128
+  dob: 10/01/1985
+  address: 7797 First Blvd
+  city: Dallas
+  state: AZ

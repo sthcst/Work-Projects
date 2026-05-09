@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Morgan,ronald.morgan5118@work.org,481 935 1702,697279632,14/02/1957,"3781 Elm Ave",Jacksonville,NC

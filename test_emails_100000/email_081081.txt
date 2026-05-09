@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Rogers",
+    "email": "michelle.rogers583@yahoo.com",
+    "phone": "(543) 984-5836",
+    "ssn": "819-12-2023",
+    "dob": "1/24/1985",
+    "address": "5834 Fifth St",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

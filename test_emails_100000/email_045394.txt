@@ -1,0 +1,14 @@
+INVOICE 777840
+
+Bill To:
+Name: Daniel Miller
+Email: daniel.miller244@outlook.com
+Phone: 745 807 5545
+SSN: 832405013
+
+Address: 4739 Oak Ln
+Phoenix, MO
+
+Date of Birth: 05/09/2000
+
+Amount Due: $7003

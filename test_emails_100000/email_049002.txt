@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Lopez",
+    "email": "katherine.lopez702@mail.com",
+    "phone": "794-351-2222",
+    "ssn": "390 11 2235",
+    "dob": "14/11/1971",
+    "address": "176 Summer Dr",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

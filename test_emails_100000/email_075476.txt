@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Miller
+  email: sarah.miller2668@yahoo.com
+  phone: +1 969-366-8593
+  ssn: 793 43 2777
+  dob: 8/23/1967
+  address: 6521 Sixth Ave
+  city: San Antonio
+  state: NC

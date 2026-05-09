@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Ortiz",
+    "email": "john.ortiz9807@mail.com",
+    "phone": "699-589-5035",
+    "ssn": "436684337",
+    "dob": "8/13/1990",
+    "address": "7830 Fourth Court",
+    "city": "Boston",
+    "state": "OH"
+  }
+}

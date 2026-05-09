@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Dominguez
+  email: amanda.dominguez8248@yahoo.com
+  phone: 635 740 9424
+  ssn: 708 94 2973
+  dob: 08/25/1995
+  address: 6681 Maple Dr
+  city: Chicago
+  state: FL

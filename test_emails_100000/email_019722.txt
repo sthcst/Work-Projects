@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Evans,stephanie.evans9537@yahoo.com,563 283 6703,833304283,15/01/1978,"4142 East Ave",Seattle,MI

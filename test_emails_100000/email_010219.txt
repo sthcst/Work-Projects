@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Martin,christine.martin5152@gmail.com,(368) 975-9060,674 06 9244,05/02/1964,"6464 First Way",Phoenix,TX

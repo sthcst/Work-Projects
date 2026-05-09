@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Thomas
+  email: ashley.thomas1213@work.org
+  phone: (472) 836-7080
+  ssn: 650715266
+  dob: 12/02/1999
+  address: 9700 Second Ln
+  city: Austin
+  state: MA

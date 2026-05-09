@@ -1,0 +1,14 @@
+INVOICE 750465
+
+Bill To:
+Name: Steven Rogers
+Email: steven.rogers2569@outlook.com
+Phone: 381-399-8929
+SSN: 635 42 6416
+
+Address: 1486 South Blvd
+Phoenix, DC
+
+Date of Birth: 18/12/1993
+
+Amount Due: $6640

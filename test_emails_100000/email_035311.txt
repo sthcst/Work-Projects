@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Nelson
+  email: ashley.nelson5268@outlook.com
+  phone: (531) 510-9787
+  ssn: 562222505
+  dob: 15/12/1954
+  address: 2498 South St
+  city: Los Angeles
+  state: VA

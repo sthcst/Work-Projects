@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Murillo
+  email: michelle.murillo8484@business.net
+  phone: 404-611-1993
+  ssn: 393 56 3232
+  dob: 10/26/1996
+  address: 7956 Fourth Court
+  city: Phoenix
+  state: WA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Ramirez",
+    "email": "brian.ramirez8736@example.com",
+    "phone": "+1 322-840-9418",
+    "ssn": "521 99 5462",
+    "dob": "02/13/1961",
+    "address": "3215 East Dr",
+    "city": "Philadelphia",
+    "state": "NC"
+  }
+}

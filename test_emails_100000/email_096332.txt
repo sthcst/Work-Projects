@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Lopez",
+    "email": "angela.lopez3722@example.com",
+    "phone": "911-428-1071",
+    "ssn": "224-05-6847",
+    "dob": "04/18/1954",
+    "address": "2617 Fourth St",
+    "city": "San Jose",
+    "state": "MI"
+  }
+}

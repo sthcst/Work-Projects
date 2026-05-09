@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Campbell
+  email: jeffrey.campbell789@mail.com
+  phone: 457-922-1216
+  ssn: 719641078
+  dob: 18/01/2005
+  address: 61 South Dr
+  city: Houston
+  state: TX

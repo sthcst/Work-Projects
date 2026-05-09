@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Lewis,richard.lewis5866@gmail.com,(349) 615-3643,648 94 4881,8/2/1957,"2969 South Ave",Los Angeles,CO

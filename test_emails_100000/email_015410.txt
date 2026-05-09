@@ -1,0 +1,9 @@
+contact:
+  name: Samantha White
+  email: samantha.white2434@gmail.com
+  phone: 687-838-6333
+  ssn: 466038435
+  dob: 8/17/1991
+  address: 143 Fifth St
+  city: Jacksonville
+  state: PA

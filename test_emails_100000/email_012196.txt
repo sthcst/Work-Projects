@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Serrano",
+    "email": "jason.serrano8593@company.com",
+    "phone": "369-356-3023",
+    "ssn": "210-54-5287",
+    "dob": "07/27/1999",
+    "address": "6013 Fifth Dr",
+    "city": "Houston",
+    "state": "FL"
+  }
+}

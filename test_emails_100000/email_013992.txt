@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Collins
+  email: rachel.collins2550@company.com
+  phone: +1 912-295-9168
+  ssn: 863 32 6182
+  dob: 06/10/1972
+  address: 1178 Maple St
+  city: Boston
+  state: MI

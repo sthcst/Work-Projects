@@ -1,0 +1,9 @@
+contact:
+  name: Steven Taylor
+  email: steven.taylor4516@mail.com
+  phone: (917) 838-1238
+  ssn: 006-18-9764
+  dob: 1/27/1998
+  address: 7440 East Blvd
+  city: Dallas
+  state: IL

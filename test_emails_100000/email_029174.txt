@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Gonzalez",
+    "email": "jennifer.gonzalez4096@work.org",
+    "phone": "491 715 3152",
+    "ssn": "385-58-4652",
+    "dob": "25/07/2000",
+    "address": "3274 Spring Rd",
+    "city": "Phoenix",
+    "state": "NJ"
+  }
+}

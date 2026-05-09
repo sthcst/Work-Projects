@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Carter",
+    "email": "maria.carter461@work.org",
+    "phone": "+1 359-623-3279",
+    "ssn": "258 20 7566",
+    "dob": "07/12/1982",
+    "address": "455 West Court",
+    "city": "Phoenix",
+    "state": "DC"
+  }
+}

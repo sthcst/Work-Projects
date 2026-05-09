@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Morgan,joshua.morgan2985@outlook.com,(760) 868-3176,188 62 6180,09-10-1952,"354 Second Court",Boston,MA

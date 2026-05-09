@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Williams",
+    "email": "rachel.williams2322@company.com",
+    "phone": "537 965 7919",
+    "ssn": "511 21 1733",
+    "dob": "23/08/1964",
+    "address": "2725 Spring Blvd",
+    "city": "Philadelphia",
+    "state": "PA"
+  }
+}

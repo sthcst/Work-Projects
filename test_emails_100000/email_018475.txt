@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Davis",
+    "email": "david.davis6@gmail.com",
+    "phone": "310 709 4867",
+    "ssn": "295 76 8156",
+    "dob": "8/6/1979",
+    "address": "1400 Maple Rd",
+    "city": "Dallas",
+    "state": "OH"
+  }
+}

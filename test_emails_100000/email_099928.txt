@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Delgado",
+    "email": "cynthia.delgado9018@yahoo.com",
+    "phone": "(407) 709-5934",
+    "ssn": "854075385",
+    "dob": "11/06/2003",
+    "address": "1573 East Ln",
+    "city": "Philadelphia",
+    "state": "PA"
+  }
+}

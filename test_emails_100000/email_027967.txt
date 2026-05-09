@@ -1,0 +1,9 @@
+contact:
+  name: Maria Walker
+  email: maria.walker1166@business.net
+  phone: 555-502-3813
+  ssn: 842 29 5062
+  dob: 13/05/1981
+  address: 9359 Fourth Rd
+  city: Phoenix
+  state: IL

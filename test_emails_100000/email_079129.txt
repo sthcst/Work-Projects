@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Jimenez",
+    "email": "jeffrey.jimenez6903@work.org",
+    "phone": "864-872-7788",
+    "ssn": "191-10-1775",
+    "dob": "16/12/1998",
+    "address": "3627 Fifth Blvd",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

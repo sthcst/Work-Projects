@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Thomas,michelle.thomas5104@example.com,896-870-9359,386313360,22/09/1970,"5383 Elm Way",Dallas,TN

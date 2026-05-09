@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Lopez",
+    "email": "deborah.lopez1218@yahoo.com",
+    "phone": "395-584-4208",
+    "ssn": "785 14 8275",
+    "dob": "26/05/2003",
+    "address": "1563 Birch Way",
+    "city": "Dallas",
+    "state": "NJ"
+  }
+}

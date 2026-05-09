@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Wilson,richard.wilson8884@outlook.com,(712) 797-2216,492-60-4954,2/8/1994,"1519 Spring Court",Phoenix,WI

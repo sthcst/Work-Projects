@@ -1,0 +1,9 @@
+contact:
+  name: Emily Morgan
+  email: emily.morgan7292@gmail.com
+  phone: +1 726-689-1222
+  ssn: 346 56 5598
+  dob: 4/5/1951
+  address: 4241 Second Ln
+  city: Phoenix
+  state: IL

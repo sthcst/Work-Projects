@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Guerrero
+  email: lauren.guerrero3731@gmail.com
+  phone: +1 324-303-6270
+  ssn: 893-20-2385
+  dob: 06-02-1991
+  address: 3805 Second Rd
+  city: Boston
+  state: PA

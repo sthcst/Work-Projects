@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Parker
+  email: daniel.parker5606@company.com
+  phone: (977) 363-9356
+  ssn: 041566266
+  dob: 3/14/1988
+  address: 8509 North Rd
+  city: Houston
+  state: GA

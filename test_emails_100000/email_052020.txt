@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Harris,emily.harris7598@yahoo.com,976-212-2546,811-70-2790,12-07-1974,"1738 Summer St",Dallas,TX

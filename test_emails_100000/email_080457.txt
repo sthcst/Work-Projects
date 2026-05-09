@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Stewart",
+    "email": "anna.stewart7476@example.com",
+    "phone": "247 779 8120",
+    "ssn": "334071655",
+    "dob": "9/11/1994",
+    "address": "9882 Spring Court",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Collins",
+    "email": "gary.collins6465@business.net",
+    "phone": "(755) 917-1382",
+    "ssn": "955-52-5225",
+    "dob": "8/16/1976",
+    "address": "9234 Elm Blvd",
+    "city": "Washington",
+    "state": "AZ"
+  }
+}

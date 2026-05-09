@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Nunez,edward.nunez1024@yahoo.com,+1 266-461-2429,340 94 4966,01-28-1998,"5458 Second Blvd",Seattle,NC

@@ -1,0 +1,14 @@
+INVOICE 995090
+
+Bill To:
+Name: Donald Rodriguez
+Email: donald.rodriguez1349@work.org
+Phone: 229-741-7663
+SSN: 849 61 1892
+
+Address: 9559 Park St
+Chicago, NC
+
+Date of Birth: 21/05/1975
+
+Amount Due: $9259

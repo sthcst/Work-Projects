@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Jimenez
+  email: joseph.jimenez1265@gmail.com
+  phone: 648-469-4855
+  ssn: 838-03-2350
+  dob: 04/09/1973
+  address: 2650 Maple Dr
+  city: Jacksonville
+  state: MA

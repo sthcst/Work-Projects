@@ -1,0 +1,12 @@
+SUPPORT TICKET #39517
+
+Customer: Anna Peterson
+Email: anna.peterson1541@example.com
+Phone: (492) 792-8707
+Account: 806068778
+
+Issue Description: Technical problem reported
+DOB on file: 04/05/1972
+Address: 191 Summer Rd, Chicago, NY
+
+Status: OPEN

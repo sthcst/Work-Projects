@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Reeves",
+    "email": "steven.reeves7600@company.com",
+    "phone": "982-924-9166",
+    "ssn": "683-51-4618",
+    "dob": "06/12/1957",
+    "address": "6895 East Rd",
+    "city": "Phoenix",
+    "state": "MD"
+  }
+}

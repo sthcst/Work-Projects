@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Sanchez",
+    "email": "ronald.sanchez5200@outlook.com",
+    "phone": "(789) 822-2544",
+    "ssn": "399 91 5466",
+    "dob": "03/05/1978",
+    "address": "4886 North Ave",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

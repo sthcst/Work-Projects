@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Lewis",
+    "email": "christopher.lewis9880@work.org",
+    "phone": "+1 344-228-2564",
+    "ssn": "942-11-8733",
+    "dob": "12/20/1952",
+    "address": "2198 Birch Ave",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

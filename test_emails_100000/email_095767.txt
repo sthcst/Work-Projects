@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Bell,jeffrey.bell2895@gmail.com,857-878-5264,035 66 8096,24/03/1984,"9697 South Ave",Boston,MA

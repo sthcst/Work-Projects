@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Alvarado",
+    "email": "george.alvarado1084@work.org",
+    "phone": "(347) 406-4226",
+    "ssn": "521706462",
+    "dob": "10-22-1996",
+    "address": "2994 Second Blvd",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

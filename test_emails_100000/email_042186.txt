@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Nelson
+  email: nicole.nelson2751@work.org
+  phone: (634) 506-1557
+  ssn: 169308272
+  dob: 6/7/2004
+  address: 8489 Sixth Ave
+  city: Phoenix
+  state: PA

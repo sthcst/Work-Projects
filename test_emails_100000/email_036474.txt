@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Campbell",
+    "email": "kathleen.campbell1332@mail.com",
+    "phone": "+1 310-800-1238",
+    "ssn": "757185459",
+    "dob": "02-28-2005",
+    "address": "3835 West Rd",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

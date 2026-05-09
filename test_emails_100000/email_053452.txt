@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Nunez",
+    "email": "brian.nunez8626@yahoo.com",
+    "phone": "(776) 374-8353",
+    "ssn": "596-32-1824",
+    "dob": "07-07-1959",
+    "address": "2957 Elm Ln",
+    "city": "Washington",
+    "state": "NY"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Gomez",
+    "email": "brenda.gomez1581@outlook.com",
+    "phone": "+1 920-738-9343",
+    "ssn": "212039495",
+    "dob": "09/13/1989",
+    "address": "148 Spring Rd",
+    "city": "San Jose",
+    "state": "PA"
+  }
+}

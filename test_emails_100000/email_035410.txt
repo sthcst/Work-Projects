@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Martinez,richard.martinez8511@business.net,602 572 8774,453-36-5690,03/27/1968,"4250 East Dr",Austin,TN

@@ -1,0 +1,9 @@
+contact:
+  name: Jane Nunez
+  email: jane.nunez9838@company.com
+  phone: +1 950-498-7268
+  ssn: 775 46 6611
+  dob: 11/24/1976
+  address: 1269 Third Ave
+  city: Denver
+  state: FL

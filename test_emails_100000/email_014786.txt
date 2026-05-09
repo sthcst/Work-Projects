@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Nunez,ryan.nunez5323@outlook.com,231 757 3262,262036864,08/16/1985,"3387 Cedar Court",Dallas,OH

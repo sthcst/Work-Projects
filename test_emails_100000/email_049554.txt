@@ -1,0 +1,14 @@
+INVOICE 300748
+
+Bill To:
+Name: Christopher Reed
+Email: christopher.reed2228@business.net
+Phone: (540) 253-9633
+SSN: 506 38 7579
+
+Address: 5121 Elm Blvd
+San Antonio, GA
+
+Date of Birth: 12/12/1975
+
+Amount Due: $5384

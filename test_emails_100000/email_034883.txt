@@ -1,0 +1,14 @@
+INVOICE 186564
+
+Bill To:
+Name: Steven Clark
+Email: steven.clark7093@outlook.com
+Phone: 301-681-4803
+SSN: 265542042
+
+Address: 8730 Park St
+Los Angeles, AZ
+
+Date of Birth: 09/20/1990
+
+Amount Due: $2735

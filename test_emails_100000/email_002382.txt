@@ -1,0 +1,14 @@
+INVOICE 323636
+
+Bill To:
+Name: Brian Harris
+Email: brian.harris9201@mail.com
+Phone: 673-573-3273
+SSN: 056 39 8612
+
+Address: 129 First Way
+Phoenix, WA
+
+Date of Birth: 1/2/1969
+
+Amount Due: $9048

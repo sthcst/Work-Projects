@@ -1,0 +1,9 @@
+contact:
+  name: Christine Reyes
+  email: christine.reyes1819@outlook.com
+  phone: +1 846-565-3561
+  ssn: 971-69-3578
+  dob: 11/5/1983
+  address: 4579 Elm Way
+  city: Seattle
+  state: TX

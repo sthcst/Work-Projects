@@ -1,0 +1,14 @@
+INVOICE 313760
+
+Bill To:
+Name: Paul Smith
+Email: paul.smith597@yahoo.com
+Phone: 204 214 1832
+SSN: 810542184
+
+Address: 3798 Oak Way
+Los Angeles, TN
+
+Date of Birth: 12/06/1951
+
+Amount Due: $6389

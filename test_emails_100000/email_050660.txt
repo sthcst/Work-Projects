@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Guerrero,kathleen.guerrero4943@gmail.com,890 202 5165,697-05-8544,7/27/2005,"214 First St",Boston,CO

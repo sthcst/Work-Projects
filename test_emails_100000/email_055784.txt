@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Alvarado",
+    "email": "gary.alvarado2618@gmail.com",
+    "phone": "(995) 759-4302",
+    "ssn": "981189009",
+    "dob": "12/20/2003",
+    "address": "3629 Summer Ave",
+    "city": "Washington",
+    "state": "MO"
+  }
+}

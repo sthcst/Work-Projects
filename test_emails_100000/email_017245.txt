@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Ramirez,kimberly.ramirez2143@example.com,+1 501-206-6539,667 97 7822,8/2/1960,"2239 West Dr",Washington,AZ

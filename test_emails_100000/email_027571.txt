@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Reyes",
+    "email": "pamela.reyes1816@gmail.com",
+    "phone": "+1 457-442-3918",
+    "ssn": "586451504",
+    "dob": "6/8/1958",
+    "address": "1703 Park Ave",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

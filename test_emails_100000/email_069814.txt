@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Ortiz,cynthia.ortiz4310@outlook.com,+1 335-312-2984,240298840,08-17-1954,"9466 West Blvd",San Antonio,VA

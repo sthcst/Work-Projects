@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Wilson,jane.wilson1554@outlook.com,(823) 279-8570,294925340,2/1/1997,"9421 Birch Ave",Denver,CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Evans,steven.evans2702@gmail.com,788-691-2589,740-88-3320,06-06-1997,"1763 Maple St",Chicago,AZ

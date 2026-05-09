@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Nelson,deborah.nelson4382@mail.com,+1 242-964-6094,781 42 3318,19/06/1980,"1328 Spring St",San Jose,AZ

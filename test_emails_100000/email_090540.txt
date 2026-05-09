@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Hernandez",
+    "email": "shirley.hernandez243@company.com",
+    "phone": "(629) 504-9166",
+    "ssn": "513342288",
+    "dob": "2/10/1998",
+    "address": "2837 Park Rd",
+    "city": "Jacksonville",
+    "state": "TN"
+  }
+}

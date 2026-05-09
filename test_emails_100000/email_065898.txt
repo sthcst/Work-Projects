@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Lopez,jessica.lopez917@mail.com,(893) 548-9320,741112087,03/05/1956,"3787 Sixth St",Washington,MA

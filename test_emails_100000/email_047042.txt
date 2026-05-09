@@ -1,0 +1,9 @@
+contact:
+  name: John Brown
+  email: john.brown6689@gmail.com
+  phone: 781-922-5108
+  ssn: 201 17 8493
+  dob: 26/10/1985
+  address: 5854 Cedar Ave
+  city: San Antonio
+  state: NY

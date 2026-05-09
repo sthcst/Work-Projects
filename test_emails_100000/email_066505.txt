@@ -1,0 +1,14 @@
+INVOICE 984843
+
+Bill To:
+Name: Kimberly Davis
+Email: kimberly.davis6631@example.com
+Phone: +1 715-218-4060
+SSN: 677 42 1711
+
+Address: 7062 Birch Blvd
+San Jose, MA
+
+Date of Birth: 08/25/1975
+
+Amount Due: $8593

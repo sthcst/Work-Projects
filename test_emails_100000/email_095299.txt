@@ -1,0 +1,14 @@
+INVOICE 917346
+
+Bill To:
+Name: Matthew Thomas
+Email: matthew.thomas7420@example.com
+Phone: 782 229 6038
+SSN: 736 90 9309
+
+Address: 3685 Birch St
+Jacksonville, MI
+
+Date of Birth: 14/04/2005
+
+Amount Due: $6174

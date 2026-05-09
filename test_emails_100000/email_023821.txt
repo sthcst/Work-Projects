@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Gomez",
+    "email": "emma.gomez4687@work.org",
+    "phone": "239 237 2268",
+    "ssn": "571667962",
+    "dob": "4/8/1993",
+    "address": "1036 Elm Ave",
+    "city": "Austin",
+    "state": "IL"
+  }
+}

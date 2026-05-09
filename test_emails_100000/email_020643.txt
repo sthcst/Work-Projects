@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Edwards",
+    "email": "christopher.edwards2011@outlook.com",
+    "phone": "563-525-2316",
+    "ssn": "988 70 1186",
+    "dob": "09-12-1950",
+    "address": "9940 First St",
+    "city": "Dallas",
+    "state": "WA"
+  }
+}

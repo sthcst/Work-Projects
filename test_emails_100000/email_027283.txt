@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Guerrero,jeffrey.guerrero2652@yahoo.com,(598) 982-4401,012-89-5704,08/20/1980,"9439 West Court",Dallas,AZ

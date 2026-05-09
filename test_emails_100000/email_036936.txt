@@ -1,0 +1,9 @@
+contact:
+  name: James Brown
+  email: james.brown8879@mail.com
+  phone: 739-845-4548
+  ssn: 828-67-5622
+  dob: 1/12/1980
+  address: 9265 Third Blvd
+  city: Boston
+  state: MD

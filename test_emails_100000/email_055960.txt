@@ -1,0 +1,14 @@
+INVOICE 819742
+
+Bill To:
+Name: Pamela Reed
+Email: pamela.reed1289@company.com
+Phone: 238-267-9585
+SSN: 829 70 2114
+
+Address: 5500 Oak Dr
+Houston, MA
+
+Date of Birth: 05/17/1955
+
+Amount Due: $5292

@@ -1,0 +1,9 @@
+contact:
+  name: Helen Gomez
+  email: helen.gomez9488@example.com
+  phone: +1 832-581-2845
+  ssn: 969 64 6227
+  dob: 07-21-1966
+  address: 3448 South Blvd
+  city: Los Angeles
+  state: DC

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Dominguez",
+    "email": "robert.dominguez5332@company.com",
+    "phone": "(498) 595-8969",
+    "ssn": "229-99-4976",
+    "dob": "1/13/1952",
+    "address": "2480 North Ave",
+    "city": "Washington",
+    "state": "MI"
+  }
+}

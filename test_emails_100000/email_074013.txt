@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Williams",
+    "email": "deborah.williams5156@mail.com",
+    "phone": "646 457 3347",
+    "ssn": "956-45-7339",
+    "dob": "08/16/1980",
+    "address": "8328 Birch St",
+    "city": "Seattle",
+    "state": "TN"
+  }
+}

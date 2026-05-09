@@ -1,0 +1,14 @@
+INVOICE 404246
+
+Bill To:
+Name: Richard Murillo
+Email: richard.murillo9590@business.net
+Phone: 823-936-3437
+SSN: 348-06-3292
+
+Address: 7428 South Ln
+Seattle, WA
+
+Date of Birth: 05-04-1955
+
+Amount Due: $6547

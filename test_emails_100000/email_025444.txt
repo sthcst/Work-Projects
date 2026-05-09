@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard White",
+    "email": "richard.white4101@example.com",
+    "phone": "289-668-2942",
+    "ssn": "204862869",
+    "dob": "01-19-1990",
+    "address": "8987 Fifth Blvd",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

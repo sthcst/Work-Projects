@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Romero
+  email: sarah.romero7066@yahoo.com
+  phone: 301-284-6634
+  ssn: 868911599
+  dob: 01/06/1996
+  address: 6634 Sixth St
+  city: Washington
+  state: WI

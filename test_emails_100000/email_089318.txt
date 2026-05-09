@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Jones
+  email: pamela.jones2037@business.net
+  phone: 408 996 2351
+  ssn: 503286964
+  dob: 10-01-1963
+  address: 7063 First Ave
+  city: Philadelphia
+  state: WA

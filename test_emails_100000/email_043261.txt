@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Rodriguez,katherine.rodriguez4025@business.net,233 956 4358,624-91-4863,11-28-1971,"7106 Second Ave",Dallas,MO

@@ -1,0 +1,9 @@
+contact:
+  name: John Peterson
+  email: john.peterson7267@company.com
+  phone: (876) 838-7309
+  ssn: 773 31 6865
+  dob: 17/08/1958
+  address: 389 Main St
+  city: Phoenix
+  state: NJ

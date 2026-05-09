@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Delgado,lauren.delgado7102@gmail.com,253 272 6719,590087461,5/2/1978,"6969 Second Rd",Philadelphia,NC

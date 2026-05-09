@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Reyes,deborah.reyes5760@mail.com,490-208-5963,930606009,1/22/2003,"1263 Sixth Dr",San Antonio,CA

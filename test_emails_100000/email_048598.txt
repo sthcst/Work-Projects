@@ -1,0 +1,14 @@
+INVOICE 264259
+
+Bill To:
+Name: John Perez
+Email: john.perez803@outlook.com
+Phone: (438) 636-9877
+SSN: 789431630
+
+Address: 9684 Elm Blvd
+Seattle, AZ
+
+Date of Birth: 2/7/1953
+
+Amount Due: $9417

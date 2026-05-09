@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Reed,amanda.reed7053@outlook.com,723-579-4836,730 01 7174,05/12/1986,"7593 First Rd",Washington,GA

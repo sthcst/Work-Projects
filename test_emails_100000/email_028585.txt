@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Guerrero
+  email: jeffrey.guerrero1576@gmail.com
+  phone: +1 415-227-3237
+  ssn: 657-77-6276
+  dob: 12/02/1981
+  address: 6488 Spring Dr
+  city: Denver
+  state: AZ

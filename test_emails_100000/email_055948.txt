@@ -1,0 +1,9 @@
+contact:
+  name: Emma Rodriguez
+  email: emma.rodriguez5913@work.org
+  phone: 644-842-4406
+  ssn: 037137494
+  dob: 02/26/1991
+  address: 7093 Main Ln
+  city: Jacksonville
+  state: TX

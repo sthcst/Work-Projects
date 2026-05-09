@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Smith,ronald.smith6811@mail.com,389-345-1544,040-92-7016,6/8/1983,"1543 East Blvd",Houston,CA

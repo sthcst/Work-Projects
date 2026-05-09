@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Hall",
+    "email": "angela.hall2460@yahoo.com",
+    "phone": "540 667 6995",
+    "ssn": "221-39-3862",
+    "dob": "26/03/1996",
+    "address": "9505 North Ln",
+    "city": "New York",
+    "state": "PA"
+  }
+}

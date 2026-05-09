@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Perez
+  email: timothy.perez495@company.com
+  phone: 820-672-3043
+  ssn: 710338294
+  dob: 03/25/1980
+  address: 1382 Summer Dr
+  city: New York
+  state: AZ

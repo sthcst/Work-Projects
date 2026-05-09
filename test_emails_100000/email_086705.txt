@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Campbell",
+    "email": "kenneth.campbell6708@company.com",
+    "phone": "+1 885-299-6863",
+    "ssn": "329 62 1244",
+    "dob": "06/18/1975",
+    "address": "6421 Summer Rd",
+    "city": "Jacksonville",
+    "state": "WI"
+  }
+}

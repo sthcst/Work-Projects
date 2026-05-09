@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Harris,kathleen.harris5224@example.com,+1 373-520-2954,647-07-6566,09/24/1969,"3645 First St",Houston,TX

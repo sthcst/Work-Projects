@@ -1,0 +1,9 @@
+contact:
+  name: Angela Hernandez
+  email: angela.hernandez6637@example.com
+  phone: (794) 266-2098
+  ssn: 420-30-4017
+  dob: 03/10/1955
+  address: 6425 West Ln
+  city: San Jose
+  state: NC

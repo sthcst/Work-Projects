@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Rogers,anna.rogers7432@gmail.com,310 839 1862,826-52-8362,15/06/1978,"2626 Third Blvd",Boston,WI

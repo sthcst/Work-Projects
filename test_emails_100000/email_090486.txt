@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Hall,rebecca.hall5672@outlook.com,(303) 339-9290,957 07 3671,03-13-1951,"9568 Summer Ln",Jacksonville,MD

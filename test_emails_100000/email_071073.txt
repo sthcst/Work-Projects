@@ -1,0 +1,14 @@
+INVOICE 843083
+
+Bill To:
+Name: William Delgado
+Email: william.delgado74@yahoo.com
+Phone: 254-327-5660
+SSN: 998923114
+
+Address: 3271 Fifth Blvd
+Los Angeles, OH
+
+Date of Birth: 02/25/1977
+
+Amount Due: $9862

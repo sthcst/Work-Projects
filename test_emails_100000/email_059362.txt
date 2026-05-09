@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Martinez",
+    "email": "anna.martinez171@example.com",
+    "phone": "626 414 9228",
+    "ssn": "393 88 9336",
+    "dob": "8/19/1976",
+    "address": "9138 Fourth Way",
+    "city": "Chicago",
+    "state": "OH"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Williams
+  email: ronald.williams5603@company.com
+  phone: +1 432-902-8428
+  ssn: 288832012
+  dob: 10/1/1985
+  address: 7316 Sixth Rd
+  city: Seattle
+  state: TX

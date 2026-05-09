@@ -1,0 +1,14 @@
+INVOICE 629624
+
+Bill To:
+Name: Michael Edwards
+Email: michael.edwards4459@example.com
+Phone: 505-898-6350
+SSN: 070 56 9987
+
+Address: 560 Summer Dr
+Dallas, WI
+
+Date of Birth: 09-09-1978
+
+Amount Due: $1222

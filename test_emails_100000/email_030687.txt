@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Taylor
+  email: kenneth.taylor7957@work.org
+  phone: 336-405-5781
+  ssn: 268026169
+  dob: 4/24/1999
+  address: 4055 Fourth Rd
+  city: Los Angeles
+  state: TX

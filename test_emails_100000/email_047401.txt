@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Taylor,michelle.taylor8476@gmail.com,685-429-6484,134 22 7854,02/11/2005,"529 Park Dr",Jacksonville,IL

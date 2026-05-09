@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Guerrero,shirley.guerrero7392@outlook.com,627-998-7490,002678446,8/27/1973,"173 Summer Ave",San Diego,WA

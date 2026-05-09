@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Young",
+    "email": "richard.young4681@gmail.com",
+    "phone": "216-482-7863",
+    "ssn": "453-26-2034",
+    "dob": "03-28-1989",
+    "address": "8898 Fifth Way",
+    "city": "Dallas",
+    "state": "FL"
+  }
+}

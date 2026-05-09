@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Morris",
+    "email": "michelle.morris33@business.net",
+    "phone": "220 344 5245",
+    "ssn": "853683414",
+    "dob": "08/05/1982",
+    "address": "6868 North St",
+    "city": "Philadelphia",
+    "state": "MD"
+  }
+}

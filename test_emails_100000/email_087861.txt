@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Taylor",
+    "email": "kenneth.taylor6994@company.com",
+    "phone": "726 445 8576",
+    "ssn": "956373926",
+    "dob": "09/05/1961",
+    "address": "1138 Oak Way",
+    "city": "San Diego",
+    "state": "NC"
+  }
+}

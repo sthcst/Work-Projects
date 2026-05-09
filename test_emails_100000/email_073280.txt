@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Jones",
+    "email": "katherine.jones9748@company.com",
+    "phone": "344 804 1708",
+    "ssn": "216-19-9975",
+    "dob": "07/11/1974",
+    "address": "9668 Fourth Ave",
+    "city": "Phoenix",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Anderson,michelle.anderson8491@yahoo.com,267 568 6920,837 95 8144,02/12/1981,"808 Spring Rd",Washington,TX

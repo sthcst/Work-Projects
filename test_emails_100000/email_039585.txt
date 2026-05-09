@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Alvarado",
+    "email": "cynthia.alvarado3100@yahoo.com",
+    "phone": "517 700 1838",
+    "ssn": "435 02 2030",
+    "dob": "08/08/1956",
+    "address": "8441 Park Ave",
+    "city": "New York",
+    "state": "IL"
+  }
+}

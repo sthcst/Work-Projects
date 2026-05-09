@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Jones",
+    "email": "jacob.jones1954@yahoo.com",
+    "phone": "232-723-9329",
+    "ssn": "865-57-9448",
+    "dob": "22/11/1986",
+    "address": "4176 Maple Ave",
+    "city": "San Antonio",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Maria Moore
+  email: maria.moore278@company.com
+  phone: 340-579-2557
+  ssn: 033-63-5361
+  dob: 07/09/1956
+  address: 7401 Main St
+  city: Phoenix
+  state: NJ

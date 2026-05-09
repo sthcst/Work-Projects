@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Gonzalez,sarah.gonzalez7852@yahoo.com,301 627 2672,415137341,10-09-1974,"5504 East St",Austin,CA

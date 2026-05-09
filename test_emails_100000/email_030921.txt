@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Moore",
+    "email": "angela.moore7790@gmail.com",
+    "phone": "845-738-2308",
+    "ssn": "903854875",
+    "dob": "3/24/1970",
+    "address": "5637 East Ln",
+    "city": "San Diego",
+    "state": "WA"
+  }
+}

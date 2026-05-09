@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Cooper,lisa.cooper5453@yahoo.com,+1 795-391-7772,950979606,17/05/1970,"5106 Sixth Ave",Austin,OH

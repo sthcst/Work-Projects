@@ -1,0 +1,9 @@
+contact:
+  name: Angela Hall
+  email: angela.hall5713@mail.com
+  phone: 494-827-3133
+  ssn: 181 15 5308
+  dob: 10/04/1984
+  address: 1060 Birch Rd
+  city: Chicago
+  state: MA

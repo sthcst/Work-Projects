@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Parker",
+    "email": "charles.parker6450@yahoo.com",
+    "phone": "821-390-1201",
+    "ssn": "565 04 1528",
+    "dob": "05/07/1959",
+    "address": "5543 East Dr",
+    "city": "Boston",
+    "state": "CA"
+  }
+}

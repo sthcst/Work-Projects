@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Nelson,michael.nelson6956@company.com,843 949 2852,010 60 5111,09-13-1978,"3034 Cedar Blvd",Chicago,FL

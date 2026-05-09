@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Alvarado,angela.alvarado9188@outlook.com,755-531-9608,510864853,08-03-1975,"330 Cedar St",Houston,GA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Nelson",
+    "email": "lisa.nelson4888@outlook.com",
+    "phone": "520-594-8333",
+    "ssn": "983-67-1486",
+    "dob": "10/5/1990",
+    "address": "4185 Summer Dr",
+    "city": "Washington",
+    "state": "GA"
+  }
+}

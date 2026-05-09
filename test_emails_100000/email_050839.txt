@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Stewart,sarah.stewart4533@work.org,393-677-4865,105-85-6120,10/14/1990,"8022 North Dr",San Diego,DC

@@ -1,0 +1,9 @@
+contact:
+  name: Charles Dominguez
+  email: charles.dominguez5739@gmail.com
+  phone: +1 960-734-3224
+  ssn: 589-80-5071
+  dob: 08/20/1986
+  address: 3393 East Court
+  city: San Antonio
+  state: MI

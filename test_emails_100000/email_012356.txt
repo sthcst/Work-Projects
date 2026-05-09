@@ -1,0 +1,14 @@
+INVOICE 682968
+
+Bill To:
+Name: Edward Morgan
+Email: edward.morgan8912@example.com
+Phone: +1 704-260-9782
+SSN: 573 63 7897
+
+Address: 9604 Cedar Way
+Jacksonville, MD
+
+Date of Birth: 10/24/1968
+
+Amount Due: $1770

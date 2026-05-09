@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Serrano",
+    "email": "michelle.serrano7199@yahoo.com",
+    "phone": "878 705 1098",
+    "ssn": "598 10 7939",
+    "dob": "03-03-2001",
+    "address": "6197 Summer Ave",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

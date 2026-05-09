@@ -1,0 +1,14 @@
+INVOICE 550019
+
+Bill To:
+Name: Michelle Edwards
+Email: michelle.edwards5993@company.com
+Phone: 620 430 8054
+SSN: 212928772
+
+Address: 1797 Main Blvd
+Jacksonville, MA
+
+Date of Birth: 20/04/1970
+
+Amount Due: $7482

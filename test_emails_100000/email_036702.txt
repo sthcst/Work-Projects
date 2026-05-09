@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Thompson,jennifer.thompson4104@gmail.com,(232) 936-2180,986-08-4138,01/02/1955,"7766 Elm St",Boston,WA

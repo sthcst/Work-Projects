@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Romero",
+    "email": "john.romero1696@yahoo.com",
+    "phone": "+1 304-718-8140",
+    "ssn": "289 88 5226",
+    "dob": "04-09-1984",
+    "address": "2183 Elm Dr",
+    "city": "Jacksonville",
+    "state": "TN"
+  }
+}

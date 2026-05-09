@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Carter,maria.carter24@yahoo.com,752-700-3161,773-63-8591,09/21/1994,"3515 South St",Seattle,NC

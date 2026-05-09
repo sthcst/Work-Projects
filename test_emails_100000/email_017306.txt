@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Williams,katherine.williams547@business.net,550 484 4565,101933103,10/16/1998,"5657 Spring Ave",Denver,CA

@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Collins
+  email: kimberly.collins3539@work.org
+  phone: +1 472-293-5655
+  ssn: 071 64 1113
+  dob: 04/19/1994
+  address: 4031 East Ln
+  city: San Jose
+  state: MA

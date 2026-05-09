@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Stewart,angela.stewart6994@example.com,+1 414-493-5298,989 24 8437,09-20-1973,"7978 Maple Rd",Washington,TX

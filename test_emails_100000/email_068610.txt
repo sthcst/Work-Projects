@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Wilson,andrew.wilson8462@company.com,+1 353-903-5027,917152535,8/24/1981,"3432 First Way",Denver,TX

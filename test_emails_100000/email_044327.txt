@@ -1,0 +1,9 @@
+contact:
+  name: Brian Cooper
+  email: brian.cooper9848@yahoo.com
+  phone: (232) 967-2987
+  ssn: 885337086
+  dob: 10-16-1994
+  address: 1611 Cedar Ln
+  city: Seattle
+  state: CA

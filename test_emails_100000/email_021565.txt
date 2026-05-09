@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Rodriguez
+  email: katherine.rodriguez5844@work.org
+  phone: 430 625 8981
+  ssn: 163-98-3627
+  dob: 04-24-2001
+  address: 5980 Second St
+  city: Denver
+  state: DC

@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Ramirez
+  email: lisa.ramirez6436@yahoo.com
+  phone: +1 772-458-6415
+  ssn: 117267004
+  dob: 12/17/1991
+  address: 5640 Park Court
+  city: Seattle
+  state: FL

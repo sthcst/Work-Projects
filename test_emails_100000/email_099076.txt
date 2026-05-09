@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Sanchez
+  email: christopher.sanchez9848@example.com
+  phone: +1 715-202-2670
+  ssn: 327 23 5676
+  dob: 05/09/1987
+  address: 5264 Birch Ln
+  city: Denver
+  state: TN

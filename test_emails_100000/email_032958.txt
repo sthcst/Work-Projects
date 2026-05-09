@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Walker
+  email: jennifer.walker1509@mail.com
+  phone: (874) 354-4408
+  ssn: 156-99-8696
+  dob: 06/03/1981
+  address: 129 Elm Blvd
+  city: Washington
+  state: IL

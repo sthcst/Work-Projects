@@ -1,0 +1,14 @@
+INVOICE 138950
+
+Bill To:
+Name: Michelle Wilson
+Email: michelle.wilson1409@work.org
+Phone: +1 884-900-7394
+SSN: 515284050
+
+Address: 1915 Second Way
+Seattle, WA
+
+Date of Birth: 11/17/1953
+
+Amount Due: $2846

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Johnson,mark.johnson623@business.net,+1 240-385-6330,653129835,04/06/1955,"3050 First Dr",Austin,GA

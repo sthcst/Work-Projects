@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Moore,cynthia.moore4370@yahoo.com,(770) 888-4618,907-44-8774,02/15/2004,"9359 Main Blvd",Chicago,IL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Campbell",
+    "email": "ashley.campbell7425@mail.com",
+    "phone": "(987) 862-8375",
+    "ssn": "492-37-6694",
+    "dob": "09-24-1958",
+    "address": "4028 Elm St",
+    "city": "New York",
+    "state": "AZ"
+  }
+}

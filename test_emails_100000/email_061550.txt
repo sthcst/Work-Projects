@@ -1,0 +1,9 @@
+contact:
+  name: Gary Lee
+  email: gary.lee2342@outlook.com
+  phone: 617-899-2030
+  ssn: 934774787
+  dob: 03-25-1997
+  address: 414 Third Blvd
+  city: Dallas
+  state: DC

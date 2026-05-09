@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Edwards,kenneth.edwards1762@mail.com,+1 250-324-6538,587308321,7/16/2003,"329 West Way",Washington,AZ

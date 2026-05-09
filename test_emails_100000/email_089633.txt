@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Rodriguez,lisa.rodriguez9388@company.com,372 829 5947,802 05 8463,8/16/1955,"4580 West Ave",Houston,FL

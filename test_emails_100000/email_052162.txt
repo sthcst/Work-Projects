@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Hall,kathleen.hall4764@mail.com,(758) 397-7047,901-11-1692,5/17/1952,"5757 Spring Dr",Philadelphia,NJ

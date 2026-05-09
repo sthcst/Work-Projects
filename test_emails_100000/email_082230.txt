@@ -1,0 +1,14 @@
+INVOICE 676953
+
+Bill To:
+Name: Katherine Brown
+Email: katherine.brown5396@company.com
+Phone: (652) 301-3610
+SSN: 978-25-5860
+
+Address: 9182 East Dr
+Phoenix, TX
+
+Date of Birth: 02-19-1986
+
+Amount Due: $3909

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Martin,rachel.martin7451@mail.com,+1 886-438-2650,762302135,01-05-1962,"6719 West Dr",Denver,AZ

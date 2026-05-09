@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Morgan",
+    "email": "angela.morgan9526@example.com",
+    "phone": "688 876 6248",
+    "ssn": "039076896",
+    "dob": "12/10/1954",
+    "address": "3575 Maple Ave",
+    "city": "San Diego",
+    "state": "NY"
+  }
+}

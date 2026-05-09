@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Campbell",
+    "email": "ryan.campbell6978@example.com",
+    "phone": "243 796 6001",
+    "ssn": "834-46-6707",
+    "dob": "04-12-1961",
+    "address": "6050 Summer St",
+    "city": "Los Angeles",
+    "state": "NY"
+  }
+}

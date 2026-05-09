@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Garcia,deborah.garcia2895@company.com,(583) 663-6376,099-38-3448,09/10/1953,"671 Spring Way",Washington,CO

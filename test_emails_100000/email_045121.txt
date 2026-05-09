@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Lee,robert.lee1875@gmail.com,(635) 510-7646,566028105,09-24-2004,"8850 South Ln",Jacksonville,CA

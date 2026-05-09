@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly White,kimberly.white1441@mail.com,(577) 227-8244,325-58-1856,07/09/1962,"4737 Cedar Way",Seattle,TX

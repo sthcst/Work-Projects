@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Smith
+  email: kathleen.smith1251@mail.com
+  phone: 718-528-3330
+  ssn: 366-81-1055
+  dob: 19/08/1962
+  address: 261 South Dr
+  city: Houston
+  state: PA

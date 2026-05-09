@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Campbell,ronald.campbell6565@company.com,+1 402-842-8290,995-53-7113,1/16/2004,"812 Elm Ave",Phoenix,OH

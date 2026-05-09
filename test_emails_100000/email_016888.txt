@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Cooper",
+    "email": "anna.cooper9450@gmail.com",
+    "phone": "(284) 637-1668",
+    "ssn": "847846848",
+    "dob": "04-20-2000",
+    "address": "6342 Elm Court",
+    "city": "Chicago",
+    "state": "MD"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Davis",
+    "email": "james.davis7972@example.com",
+    "phone": "607-596-6973",
+    "ssn": "162 54 2344",
+    "dob": "11/05/1993",
+    "address": "5951 East St",
+    "city": "Seattle",
+    "state": "TN"
+  }
+}

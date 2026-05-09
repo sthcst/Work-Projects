@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Flores",
+    "email": "lauren.flores8219@mail.com",
+    "phone": "(330) 503-5030",
+    "ssn": "895 73 9129",
+    "dob": "08/06/1985",
+    "address": "4690 Cedar Ln",
+    "city": "Phoenix",
+    "state": "AZ"
+  }
+}

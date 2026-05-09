@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Cooper",
+    "email": "edward.cooper5911@example.com",
+    "phone": "(624) 999-8119",
+    "ssn": "567-35-5664",
+    "dob": "09/19/1983",
+    "address": "9100 Cedar Way",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

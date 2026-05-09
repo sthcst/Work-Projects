@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Hall,steven.hall3910@example.com,(920) 323-8537,584 05 6855,20/09/1988,"1047 Second Ave",Chicago,VA

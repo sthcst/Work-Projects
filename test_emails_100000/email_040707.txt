@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Reeves",
+    "email": "daniel.reeves5842@work.org",
+    "phone": "(950) 970-4244",
+    "ssn": "597-58-1829",
+    "dob": "05/08/1982",
+    "address": "4226 Maple Court",
+    "city": "Dallas",
+    "state": "MD"
+  }
+}

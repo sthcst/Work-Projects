@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Edwards,andrew.edwards9632@mail.com,+1 214-831-1503,740 56 9754,1/26/1956,"3252 Birch St",Los Angeles,NJ

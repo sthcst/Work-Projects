@@ -1,0 +1,14 @@
+INVOICE 635600
+
+Bill To:
+Name: Emily Reyes
+Email: emily.reyes418@business.net
+Phone: 725-668-2602
+SSN: 185626446
+
+Address: 8341 Summer St
+Houston, CA
+
+Date of Birth: 05-07-1969
+
+Amount Due: $6778

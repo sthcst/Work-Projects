@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Guerrero
+  email: stephanie.guerrero3844@mail.com
+  phone: 691-488-3062
+  ssn: 207 11 4938
+  dob: 04-16-1995
+  address: 7373 Main Court
+  city: San Jose
+  state: MO

@@ -1,0 +1,14 @@
+INVOICE 423887
+
+Bill To:
+Name: Joshua Smith
+Email: joshua.smith7933@outlook.com
+Phone: 220 564 7968
+SSN: 280209398
+
+Address: 6439 Oak Rd
+Boston, AZ
+
+Date of Birth: 01-17-1999
+
+Amount Due: $771

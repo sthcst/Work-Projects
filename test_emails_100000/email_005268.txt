@@ -1,0 +1,14 @@
+INVOICE 373867
+
+Bill To:
+Name: Rebecca Cooper
+Email: rebecca.cooper1180@example.com
+Phone: (808) 212-1964
+SSN: 560892650
+
+Address: 281 Spring Blvd
+Jacksonville, TX
+
+Date of Birth: 10/07/1978
+
+Amount Due: $3464

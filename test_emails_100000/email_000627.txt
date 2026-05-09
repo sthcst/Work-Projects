@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Collins
+  email: nicholas.collins2428@gmail.com
+  phone: (445) 725-9115
+  ssn: 981364313
+  dob: 03/14/1952
+  address: 5920 North Blvd
+  city: Austin
+  state: NY

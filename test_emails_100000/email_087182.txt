@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Guerrero,brian.guerrero3835@business.net,868-592-2974,798-63-8861,08/23/1966,"3928 Cedar Blvd",San Diego,CA

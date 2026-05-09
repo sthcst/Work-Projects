@@ -1,0 +1,14 @@
+INVOICE 457408
+
+Bill To:
+Name: James Brown
+Email: james.brown3622@business.net
+Phone: (890) 664-2435
+SSN: 548-84-2519
+
+Address: 4164 West Rd
+Seattle, MO
+
+Date of Birth: 14/04/1952
+
+Amount Due: $3756

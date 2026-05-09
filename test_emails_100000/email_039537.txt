@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Delgado
+  email: andrew.delgado6824@example.com
+  phone: 833 791 3324
+  ssn: 275-28-9766
+  dob: 14/02/1968
+  address: 2045 Pine Way
+  city: Houston
+  state: MA

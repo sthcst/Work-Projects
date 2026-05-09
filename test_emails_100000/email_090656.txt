@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Serrano
+  email: timothy.serrano1906@business.net
+  phone: 544 303 2730
+  ssn: 493-25-6339
+  dob: 09-14-1984
+  address: 4909 Maple Court
+  city: Austin
+  state: FL

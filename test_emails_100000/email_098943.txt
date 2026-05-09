@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Romero,jason.romero6324@mail.com,204-373-2326,598 68 4677,3/7/1952,"6209 Third Way",Boston,NC

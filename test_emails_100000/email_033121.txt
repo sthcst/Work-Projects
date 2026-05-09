@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Edwards,emma.edwards1528@work.org,+1 907-610-1297,927493255,08-03-1964,"8275 First Blvd",San Diego,DC

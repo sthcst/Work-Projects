@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Evans
+  email: rachel.evans2281@mail.com
+  phone: 606 370 7147
+  ssn: 419 94 8950
+  dob: 2/12/1983
+  address: 4528 Sixth Ave
+  city: Dallas
+  state: IL

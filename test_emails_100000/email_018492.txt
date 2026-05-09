@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Hernandez,kimberly.hernandez719@outlook.com,(472) 530-5793,188108973,2/23/2002,"5977 North Way",New York,CA

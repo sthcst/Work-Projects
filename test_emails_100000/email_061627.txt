@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Jimenez",
+    "email": "sarah.jimenez307@business.net",
+    "phone": "+1 304-828-1920",
+    "ssn": "199 08 2313",
+    "dob": "01/07/1996",
+    "address": "4706 Fourth Ave",
+    "city": "Austin",
+    "state": "DC"
+  }
+}

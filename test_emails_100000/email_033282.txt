@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Thompson,katherine.thompson4738@yahoo.com,438-916-3854,179547223,10/22/2004,"4977 Maple St",San Antonio,NY

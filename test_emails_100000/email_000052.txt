@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Ortiz,andrew.ortiz6948@work.org,+1 624-479-4531,774 66 2864,04/07/1968,"8643 Summer St",San Diego,MA

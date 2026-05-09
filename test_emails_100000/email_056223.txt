@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Nelson
+  email: ashley.nelson142@gmail.com
+  phone: +1 947-412-2641
+  ssn: 365627907
+  dob: 15/06/1950
+  address: 62 Fifth Rd
+  city: Houston
+  state: NC

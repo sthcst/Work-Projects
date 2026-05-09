@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Ortiz,cynthia.ortiz7704@mail.com,+1 204-848-8281,318-90-7725,04-13-1952,"4341 Park Ln",Chicago,PA

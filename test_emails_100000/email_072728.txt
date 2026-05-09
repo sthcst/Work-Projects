@@ -1,0 +1,14 @@
+INVOICE 734869
+
+Bill To:
+Name: Amanda Martin
+Email: amanda.martin7282@company.com
+Phone: 617 969 9818
+SSN: 266-38-8829
+
+Address: 7723 Sixth Dr
+Chicago, OH
+
+Date of Birth: 07/26/1956
+
+Amount Due: $8493

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Reyes",
+    "email": "brian.reyes5506@work.org",
+    "phone": "945-981-5282",
+    "ssn": "894242929",
+    "dob": "02/21/1981",
+    "address": "4964 Elm Rd",
+    "city": "Austin",
+    "state": "IL"
+  }
+}

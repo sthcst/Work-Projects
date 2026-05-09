@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Harris",
+    "email": "jennifer.harris3875@example.com",
+    "phone": "+1 858-958-5336",
+    "ssn": "795 79 6984",
+    "dob": "14/10/1983",
+    "address": "2257 Main Blvd",
+    "city": "Washington",
+    "state": "AZ"
+  }
+}

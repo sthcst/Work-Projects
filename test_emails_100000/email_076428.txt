@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Ramirez,andrew.ramirez6955@yahoo.com,(285) 290-3371,614-90-5877,01-09-1974,"1444 South Ln",Los Angeles,MA

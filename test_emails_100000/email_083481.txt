@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Thomas",
+    "email": "amanda.thomas5259@gmail.com",
+    "phone": "606 412 9645",
+    "ssn": "403 97 1756",
+    "dob": "05/09/1990",
+    "address": "8073 Sixth Dr",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

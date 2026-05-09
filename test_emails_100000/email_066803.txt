@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Reyes",
+    "email": "jason.reyes2780@gmail.com",
+    "phone": "+1 738-338-7302",
+    "ssn": "045 23 7025",
+    "dob": "6/3/1985",
+    "address": "5233 Oak St",
+    "city": "Chicago",
+    "state": "AZ"
+  }
+}

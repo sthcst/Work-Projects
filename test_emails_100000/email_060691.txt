@@ -1,0 +1,9 @@
+contact:
+  name: Michael Stewart
+  email: michael.stewart4696@example.com
+  phone: 486 489 6640
+  ssn: 173-95-9178
+  dob: 07/08/1972
+  address: 9250 Elm Blvd
+  city: Boston
+  state: NC

@@ -1,0 +1,14 @@
+INVOICE 687824
+
+Bill To:
+Name: Ashley Jones
+Email: ashley.jones7713@example.com
+Phone: 420-516-1298
+SSN: 866-92-4295
+
+Address: 7369 Main Blvd
+Phoenix, MA
+
+Date of Birth: 03/11/1999
+
+Amount Due: $7440

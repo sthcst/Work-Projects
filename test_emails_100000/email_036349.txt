@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Phillips",
+    "email": "kenneth.phillips3033@example.com",
+    "phone": "+1 682-629-3841",
+    "ssn": "348-84-6573",
+    "dob": "03/12/1989",
+    "address": "5978 Birch Ave",
+    "city": "Phoenix",
+    "state": "CO"
+  }
+}

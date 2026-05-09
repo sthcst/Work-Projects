@@ -1,0 +1,14 @@
+INVOICE 304009
+
+Bill To:
+Name: Nicole Peterson
+Email: nicole.peterson5054@gmail.com
+Phone: +1 901-472-2373
+SSN: 014 81 2509
+
+Address: 3339 Pine St
+Jacksonville, TX
+
+Date of Birth: 09/11/1956
+
+Amount Due: $6117

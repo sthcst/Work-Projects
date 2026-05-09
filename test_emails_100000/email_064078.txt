@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Phillips",
+    "email": "jane.phillips8443@mail.com",
+    "phone": "(682) 800-2709",
+    "ssn": "770 19 5624",
+    "dob": "08/19/2000",
+    "address": "9879 Oak Blvd",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

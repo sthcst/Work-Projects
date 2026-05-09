@@ -1,0 +1,9 @@
+contact:
+  name: Brian Hall
+  email: brian.hall7129@outlook.com
+  phone: 512-913-2276
+  ssn: 065-35-5106
+  dob: 09-18-1962
+  address: 3379 North St
+  city: San Antonio
+  state: GA

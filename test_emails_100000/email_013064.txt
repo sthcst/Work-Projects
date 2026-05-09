@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Campbell",
+    "email": "george.campbell2224@company.com",
+    "phone": "640-583-3318",
+    "ssn": "169434427",
+    "dob": "02/10/2005",
+    "address": "4835 Sixth Court",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

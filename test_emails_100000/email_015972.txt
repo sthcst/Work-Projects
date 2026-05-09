@@ -1,0 +1,9 @@
+contact:
+  name: Megan Clark
+  email: megan.clark2696@gmail.com
+  phone: 977 826 9334
+  ssn: 652 45 8854
+  dob: 04/17/1970
+  address: 545 First Court
+  city: Washington
+  state: NC

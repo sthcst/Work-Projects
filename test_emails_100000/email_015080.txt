@@ -1,0 +1,9 @@
+contact:
+  name: Anna Jimenez
+  email: anna.jimenez3673@outlook.com
+  phone: 231 721 2557
+  ssn: 956-97-8938
+  dob: 7/5/1985
+  address: 666 First Ave
+  city: Seattle
+  state: CO

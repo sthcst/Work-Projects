@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Reed",
+    "email": "shirley.reed757@work.org",
+    "phone": "(687) 744-9414",
+    "ssn": "610 25 3809",
+    "dob": "12-27-2004",
+    "address": "1966 Sixth Court",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

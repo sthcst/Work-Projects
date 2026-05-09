@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Taylor
+  email: kimberly.taylor2752@example.com
+  phone: (789) 541-2336
+  ssn: 783 53 1443
+  dob: 01/25/1962
+  address: 7031 Fifth Blvd
+  city: Houston
+  state: CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Reeves",
+    "email": "richard.reeves2251@business.net",
+    "phone": "+1 493-265-1154",
+    "ssn": "985-36-5773",
+    "dob": "03/11/2002",
+    "address": "9825 Spring Ave",
+    "city": "New York",
+    "state": "FL"
+  }
+}

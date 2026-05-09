@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Rodriguez,joshua.rodriguez4825@gmail.com,+1 449-217-9314,223231846,07-02-1953,"7104 Pine St",Chicago,TN

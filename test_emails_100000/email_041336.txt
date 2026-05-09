@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Sanchez,amanda.sanchez3621@mail.com,782 900 1748,792341093,07/05/1982,"2641 Spring St",San Antonio,TX

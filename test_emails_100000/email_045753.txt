@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Bell",
+    "email": "jeffrey.bell670@example.com",
+    "phone": "274 982 2314",
+    "ssn": "872589860",
+    "dob": "09/10/1970",
+    "address": "6983 Fourth Dr",
+    "city": "Jacksonville",
+    "state": "FL"
+  }
+}

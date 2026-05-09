@@ -1,0 +1,14 @@
+INVOICE 352020
+
+Bill To:
+Name: Emily Cooper
+Email: emily.cooper6666@company.com
+Phone: 593-720-7495
+SSN: 014 85 7129
+
+Address: 2322 Birch Way
+Phoenix, OH
+
+Date of Birth: 07-21-1951
+
+Amount Due: $9073

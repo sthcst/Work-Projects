@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Garcia,jane.garcia6251@company.com,497-204-4938,676 43 3900,12/04/2003,"743 Maple Rd",San Diego,OH

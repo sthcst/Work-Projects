@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Ortiz",
+    "email": "samantha.ortiz9687@yahoo.com",
+    "phone": "(969) 644-6544",
+    "ssn": "598159194",
+    "dob": "9/5/1957",
+    "address": "2594 South St",
+    "city": "Jacksonville",
+    "state": "FL"
+  }
+}

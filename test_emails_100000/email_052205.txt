@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Bell
+  email: cynthia.bell8892@example.com
+  phone: 695-589-1972
+  ssn: 383 14 4813
+  dob: 12-19-1959
+  address: 6861 First Ln
+  city: New York
+  state: FL

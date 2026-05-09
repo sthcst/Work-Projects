@@ -1,0 +1,14 @@
+INVOICE 744001
+
+Bill To:
+Name: Ryan Thomas
+Email: ryan.thomas8245@work.org
+Phone: 769-250-9394
+SSN: 637967994
+
+Address: 1099 Second Rd
+San Diego, OH
+
+Date of Birth: 07/05/1953
+
+Amount Due: $9210

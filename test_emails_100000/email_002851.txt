@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Gonzalez,mark.gonzalez494@outlook.com,(423) 296-3350,448423314,09/04/1950,"7293 Summer Court",Chicago,MD

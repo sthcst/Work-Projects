@@ -1,0 +1,14 @@
+INVOICE 822380
+
+Bill To:
+Name: George Reyes
+Email: george.reyes7907@yahoo.com
+Phone: (411) 230-4708
+SSN: 067156329
+
+Address: 9898 South Ave
+San Jose, TN
+
+Date of Birth: 07/04/1995
+
+Amount Due: $5305

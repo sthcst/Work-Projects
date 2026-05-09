@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Moore,christine.moore1212@outlook.com,+1 549-785-6494,643 18 6841,11-26-1976,"1621 East Blvd",Houston,OH

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Delgado",
+    "email": "kenneth.delgado2438@gmail.com",
+    "phone": "(778) 892-7239",
+    "ssn": "278 36 6859",
+    "dob": "10/21/1950",
+    "address": "7772 East Ln",
+    "city": "Dallas",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Jackson
+  email: jacob.jackson784@company.com
+  phone: +1 509-858-2253
+  ssn: 141121601
+  dob: 03-21-2002
+  address: 6771 Spring Ave
+  city: Phoenix
+  state: FL

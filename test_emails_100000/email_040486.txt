@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Gomez
+  email: katherine.gomez7684@business.net
+  phone: (436) 410-1594
+  ssn: 715-06-7932
+  dob: 12/06/2005
+  address: 993 First Dr
+  city: Los Angeles
+  state: AZ

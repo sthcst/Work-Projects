@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Morgan,stephanie.morgan1919@outlook.com,(249) 543-3235,634 67 6937,11-16-1950,"3570 Elm Way",Seattle,DC

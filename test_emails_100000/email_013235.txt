@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Robinson",
+    "email": "richard.robinson2069@example.com",
+    "phone": "952 561 2619",
+    "ssn": "550-25-6547",
+    "dob": "07-14-2000",
+    "address": "5833 Cedar Way",
+    "city": "Los Angeles",
+    "state": "WA"
+  }
+}

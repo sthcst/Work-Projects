@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Robinson
+  email: christopher.robinson7675@outlook.com
+  phone: +1 203-648-3117
+  ssn: 557709019
+  dob: 18/06/1983
+  address: 438 Summer Dr
+  city: San Antonio
+  state: DC

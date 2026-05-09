@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Hall,kevin.hall1505@example.com,560-568-1956,282 24 3431,12-07-1951,"9408 Fourth Blvd",Los Angeles,MD

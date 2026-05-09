@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Reed",
+    "email": "emily.reed1236@business.net",
+    "phone": "+1 781-384-7919",
+    "ssn": "416 32 3021",
+    "dob": "03/19/1974",
+    "address": "5382 Pine Ave",
+    "city": "New York",
+    "state": "PA"
+  }
+}

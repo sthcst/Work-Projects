@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Ortiz,michelle.ortiz6151@example.com,299 415 5190,199-77-5921,13/04/1953,"7155 Elm Ave",Boston,CA

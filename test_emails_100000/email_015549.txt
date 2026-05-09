@@ -1,0 +1,9 @@
+contact:
+  name: Donald Collins
+  email: donald.collins595@business.net
+  phone: 313-369-7612
+  ssn: 293-58-5352
+  dob: 04-26-1967
+  address: 4798 Birch Rd
+  city: San Diego
+  state: MD

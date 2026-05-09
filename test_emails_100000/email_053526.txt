@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Rodriguez",
+    "email": "kathleen.rodriguez4758@company.com",
+    "phone": "+1 534-998-5474",
+    "ssn": "357 46 6606",
+    "dob": "2/9/1963",
+    "address": "5267 First Ln",
+    "city": "San Jose",
+    "state": "WA"
+  }
+}

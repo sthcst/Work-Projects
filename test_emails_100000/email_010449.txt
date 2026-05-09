@@ -1,0 +1,14 @@
+INVOICE 241235
+
+Bill To:
+Name: Katherine Williams
+Email: katherine.williams8770@outlook.com
+Phone: +1 206-741-1375
+SSN: 906909524
+
+Address: 5576 Maple St
+Phoenix, WI
+
+Date of Birth: 01/11/1980
+
+Amount Due: $2136

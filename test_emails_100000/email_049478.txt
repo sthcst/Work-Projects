@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Guerrero,gary.guerrero4352@business.net,(899) 310-7311,432 49 8724,03/16/1964,"9112 Fourth Rd",Houston,AZ

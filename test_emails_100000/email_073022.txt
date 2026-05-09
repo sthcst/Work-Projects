@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Flores",
+    "email": "george.flores1346@gmail.com",
+    "phone": "+1 826-257-4910",
+    "ssn": "570 80 7129",
+    "dob": "3/2/1968",
+    "address": "8635 Spring Rd",
+    "city": "Austin",
+    "state": "CO"
+  }
+}

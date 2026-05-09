@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Gomez,richard.gomez5808@business.net,(203) 763-1509,484-92-5614,10/15/1952,"7411 Park Ln",Seattle,MI

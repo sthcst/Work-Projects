@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Rogers
+  email: kimberly.rogers3208@yahoo.com
+  phone: 786-924-7553
+  ssn: 365 04 8827
+  dob: 06/03/1967
+  address: 9752 Cedar Rd
+  city: Philadelphia
+  state: TX

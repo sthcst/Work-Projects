@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Morgan",
+    "email": "michael.morgan5910@mail.com",
+    "phone": "(924) 988-8334",
+    "ssn": "721 87 9986",
+    "dob": "06-19-2004",
+    "address": "4644 South Ave",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

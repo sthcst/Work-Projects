@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Thomas",
+    "email": "lauren.thomas38@outlook.com",
+    "phone": "401-901-5935",
+    "ssn": "456 99 5969",
+    "dob": "09/10/1961",
+    "address": "4960 Oak Court",
+    "city": "Seattle",
+    "state": "VA"
+  }
+}

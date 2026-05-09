@@ -1,0 +1,14 @@
+INVOICE 580532
+
+Bill To:
+Name: Emma Wilson
+Email: emma.wilson6631@mail.com
+Phone: 248-395-1565
+SSN: 869394343
+
+Address: 9619 Third Way
+Phoenix, VA
+
+Date of Birth: 07/06/1969
+
+Amount Due: $5875

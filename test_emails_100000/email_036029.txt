@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Alvarado,anna.alvarado1010@work.org,+1 341-746-8428,939-35-4863,12-10-2000,"3895 Summer St",Chicago,WA

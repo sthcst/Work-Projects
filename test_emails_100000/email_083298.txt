@@ -1,0 +1,9 @@
+contact:
+  name: Helen Edwards
+  email: helen.edwards6460@business.net
+  phone: 248-693-4128
+  ssn: 850 53 6103
+  dob: 09/04/1997
+  address: 4334 East Rd
+  city: Houston
+  state: MD

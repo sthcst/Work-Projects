@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Young
+  email: kenneth.young9467@outlook.com
+  phone: 403 380 4981
+  ssn: 980-93-3083
+  dob: 08-04-1956
+  address: 6085 Elm Way
+  city: Boston
+  state: CA

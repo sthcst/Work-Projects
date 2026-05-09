@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Flores,timothy.flores1049@mail.com,+1 593-636-3268,595 25 7712,07-18-1981,"962 Summer Ln",Dallas,NJ

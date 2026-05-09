@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Taylor",
+    "email": "christopher.taylor1068@work.org",
+    "phone": "+1 221-933-7063",
+    "ssn": "590 30 4948",
+    "dob": "01/23/1999",
+    "address": "3455 Pine Way",
+    "city": "Houston",
+    "state": "CA"
+  }
+}

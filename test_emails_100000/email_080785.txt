@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Campbell,kimberly.campbell9115@example.com,451 597 6502,962 57 3595,01/07/1970,"7620 West Dr",Phoenix,NC

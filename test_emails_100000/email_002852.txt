@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Miller,kimberly.miller939@business.net,+1 620-538-9504,978 84 2265,20/04/1965,"2560 Maple Ln",San Diego,WI

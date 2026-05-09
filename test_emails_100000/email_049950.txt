@@ -1,0 +1,9 @@
+contact:
+  name: Gary Smith
+  email: gary.smith2622@mail.com
+  phone: +1 339-265-5272
+  ssn: 070573474
+  dob: 11/16/2002
+  address: 9300 South Dr
+  city: Washington
+  state: TX

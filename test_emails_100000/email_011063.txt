@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Lee
+  email: nicholas.lee2940@yahoo.com
+  phone: 766-534-3854
+  ssn: 847481203
+  dob: 03/15/1979
+  address: 7466 East Blvd
+  city: Dallas
+  state: WA

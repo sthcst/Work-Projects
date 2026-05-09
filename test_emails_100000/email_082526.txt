@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Delgado",
+    "email": "joseph.delgado9060@mail.com",
+    "phone": "866-813-3649",
+    "ssn": "324-50-2296",
+    "dob": "7/14/2005",
+    "address": "6346 Park Ln",
+    "city": "New York",
+    "state": "TX"
+  }
+}

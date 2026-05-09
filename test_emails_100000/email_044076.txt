@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Martinez",
+    "email": "steven.martinez8217@example.com",
+    "phone": "806-980-2121",
+    "ssn": "666 72 5548",
+    "dob": "04-18-1961",
+    "address": "4849 Third Court",
+    "city": "Austin",
+    "state": "AZ"
+  }
+}

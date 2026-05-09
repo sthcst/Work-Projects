@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Young",
+    "email": "daniel.young3479@gmail.com",
+    "phone": "(254) 640-3929",
+    "ssn": "716463261",
+    "dob": "13/04/1998",
+    "address": "407 East Rd",
+    "city": "Austin",
+    "state": "FL"
+  }
+}

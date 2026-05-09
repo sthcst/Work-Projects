@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Smith,maria.smith5382@gmail.com,+1 751-538-9651,084945911,06-06-1951,"3417 Oak Blvd",Los Angeles,WI

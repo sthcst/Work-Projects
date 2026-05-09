@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Moore",
+    "email": "katherine.moore5350@yahoo.com",
+    "phone": "773 827 9826",
+    "ssn": "202-45-7151",
+    "dob": "10/28/1954",
+    "address": "8786 Fifth Ave",
+    "city": "Houston",
+    "state": "GA"
+  }
+}

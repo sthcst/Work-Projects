@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Reeves",
+    "email": "donald.reeves9594@example.com",
+    "phone": "493 953 3088",
+    "ssn": "287-21-2089",
+    "dob": "12/17/1951",
+    "address": "2207 North Court",
+    "city": "Boston",
+    "state": "OH"
+  }
+}

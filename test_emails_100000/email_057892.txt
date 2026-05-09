@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Ramirez,jennifer.ramirez1874@outlook.com,853-849-1075,405-71-6151,08/18/1986,"6225 Summer Ln",Jacksonville,NJ

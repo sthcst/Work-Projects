@@ -1,0 +1,9 @@
+contact:
+  name: Paul Guerrero
+  email: paul.guerrero7935@business.net
+  phone: 340 287 2230
+  ssn: 460209464
+  dob: 11-03-1979
+  address: 1755 Fifth Blvd
+  city: Phoenix
+  state: GA

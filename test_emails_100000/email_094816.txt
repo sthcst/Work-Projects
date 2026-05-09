@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Gomez",
+    "email": "john.gomez8948@company.com",
+    "phone": "+1 458-731-3291",
+    "ssn": "879 99 7637",
+    "dob": "11/05/1971",
+    "address": "8787 Third Ave",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

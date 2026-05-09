@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Stewart
+  email: andrew.stewart5059@example.com
+  phone: +1 537-912-6981
+  ssn: 293 91 8528
+  dob: 11/12/1971
+  address: 8647 East Rd
+  city: Denver
+  state: WI

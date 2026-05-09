@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Lopez",
+    "email": "katherine.lopez2255@business.net",
+    "phone": "(846) 429-7724",
+    "ssn": "950508524",
+    "dob": "9/26/1973",
+    "address": "3640 Elm Blvd",
+    "city": "Washington",
+    "state": "MD"
+  }
+}

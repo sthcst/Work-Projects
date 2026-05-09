@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Sanchez,emma.sanchez2191@business.net,(324) 863-3597,632-85-3356,8/8/1998,"126 Elm Way",Houston,IL

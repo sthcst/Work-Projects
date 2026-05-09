@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Campbell",
+    "email": "brian.campbell47@work.org",
+    "phone": "(592) 351-8621",
+    "ssn": "342 28 3229",
+    "dob": "04-16-2001",
+    "address": "4029 Fourth Blvd",
+    "city": "San Antonio",
+    "state": "NY"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Parker,lisa.parker8887@gmail.com,514 659 2412,247-29-9480,04/11/2005,"7169 Fifth Blvd",Jacksonville,DC

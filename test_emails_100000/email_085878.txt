@@ -1,0 +1,9 @@
+contact:
+  name: Christine Sanchez
+  email: christine.sanchez1298@business.net
+  phone: (788) 212-7198
+  ssn: 081 22 2087
+  dob: 08-01-1966
+  address: 4926 Fifth St
+  city: Philadelphia
+  state: TN

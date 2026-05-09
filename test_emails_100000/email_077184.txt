@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Thompson",
+    "email": "amanda.thompson3579@example.com",
+    "phone": "+1 655-382-7522",
+    "ssn": "847844586",
+    "dob": "03/07/1967",
+    "address": "7246 Maple St",
+    "city": "Denver",
+    "state": "AZ"
+  }
+}

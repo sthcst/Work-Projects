@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Lee",
+    "email": "katherine.lee6002@business.net",
+    "phone": "(365) 384-2398",
+    "ssn": "231 97 3986",
+    "dob": "12/24/1997",
+    "address": "3482 Maple Rd",
+    "city": "Philadelphia",
+    "state": "MI"
+  }
+}

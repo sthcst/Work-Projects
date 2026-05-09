@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven White",
+    "email": "steven.white8582@company.com",
+    "phone": "+1 277-430-8428",
+    "ssn": "722-21-6154",
+    "dob": "04/16/2001",
+    "address": "9114 North Court",
+    "city": "Seattle",
+    "state": "TN"
+  }
+}

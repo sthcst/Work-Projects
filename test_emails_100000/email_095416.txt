@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Hernandez,john.hernandez1672@example.com,920-477-9585,019 54 6525,02/02/1958,"3799 Pine Rd",Austin,VA

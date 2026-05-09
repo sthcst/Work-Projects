@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Reyes,katherine.reyes569@example.com,+1 636-741-9420,803333640,06-04-1970,"5819 South Ave",Washington,MD

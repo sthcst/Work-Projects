@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Roberts",
+    "email": "kevin.roberts3403@outlook.com",
+    "phone": "979-962-3512",
+    "ssn": "933-14-9476",
+    "dob": "03-02-1993",
+    "address": "7434 South Rd",
+    "city": "Chicago",
+    "state": "CO"
+  }
+}

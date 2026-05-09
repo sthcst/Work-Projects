@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Harris
+  email: katherine.harris9288@gmail.com
+  phone: 346 280 8686
+  ssn: 123 63 1876
+  dob: 01/21/1986
+  address: 5724 West Court
+  city: San Jose
+  state: NC

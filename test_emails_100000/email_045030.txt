@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Sanchez,paul.sanchez6384@gmail.com,(821) 759-2683,913-95-1520,02-13-1961,"7618 Second Dr",Boston,PA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Gomez,sarah.gomez6399@gmail.com,231 534 6300,814 66 8263,05-08-1955,"7824 Pine Ln",San Jose,IL

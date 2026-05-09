@@ -1,0 +1,14 @@
+INVOICE 238624
+
+Bill To:
+Name: Gary Jackson
+Email: gary.jackson7204@company.com
+Phone: (907) 547-1874
+SSN: 192-15-6017
+
+Address: 9748 Third Rd
+San Diego, VA
+
+Date of Birth: 02/16/1958
+
+Amount Due: $8469

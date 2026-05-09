@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Lee,joshua.lee5427@company.com,970 361 6845,234-95-2902,02-03-1977,"992 South Way",Houston,GA

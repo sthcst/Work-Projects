@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Hall
+  email: timothy.hall7695@business.net
+  phone: 201-504-5969
+  ssn: 807-46-3773
+  dob: 06/02/2002
+  address: 6631 South Ave
+  city: New York
+  state: CO

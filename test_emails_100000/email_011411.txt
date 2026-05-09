@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Jones",
+    "email": "mark.jones3654@mail.com",
+    "phone": "427-593-6293",
+    "ssn": "224 03 1872",
+    "dob": "11/28/1988",
+    "address": "7383 Sixth Dr",
+    "city": "San Diego",
+    "state": "CO"
+  }
+}

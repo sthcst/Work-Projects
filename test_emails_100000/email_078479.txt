@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Rodriguez",
+    "email": "gary.rodriguez4467@mail.com",
+    "phone": "375 891 8702",
+    "ssn": "270-56-4305",
+    "dob": "08-24-1961",
+    "address": "8733 Cedar Rd",
+    "city": "Chicago",
+    "state": "WI"
+  }
+}

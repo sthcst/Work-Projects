@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Dominguez,kimberly.dominguez8191@business.net,(981) 646-7062,943103657,12/16/1963,"6981 Sixth St",New York,TX

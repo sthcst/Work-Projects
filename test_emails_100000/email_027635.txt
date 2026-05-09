@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Evans",
+    "email": "jennifer.evans2769@company.com",
+    "phone": "906 256 3274",
+    "ssn": "948111604",
+    "dob": "07/13/1959",
+    "address": "5119 Summer Ave",
+    "city": "Austin",
+    "state": "MA"
+  }
+}

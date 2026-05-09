@@ -1,0 +1,14 @@
+INVOICE 249743
+
+Bill To:
+Name: Jason Clark
+Email: jason.clark5724@company.com
+Phone: (866) 245-4226
+SSN: 823122332
+
+Address: 5299 Sixth Ln
+Phoenix, CA
+
+Date of Birth: 11-15-1975
+
+Amount Due: $8524

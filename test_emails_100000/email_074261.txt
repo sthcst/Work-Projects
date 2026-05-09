@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Matthew Reyes,matthew.reyes595@example.com,+1 723-940-5348,003832755,14/07/1958,"9492 North Ave",New York,CO

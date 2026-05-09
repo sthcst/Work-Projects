@@ -1,0 +1,14 @@
+INVOICE 409536
+
+Bill To:
+Name: Steven Johnson
+Email: steven.johnson682@example.com
+Phone: +1 381-404-2209
+SSN: 667-34-7749
+
+Address: 7225 Fifth Rd
+Philadelphia, MO
+
+Date of Birth: 04-03-1996
+
+Amount Due: $4108

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Cooper",
+    "email": "helen.cooper9353@work.org",
+    "phone": "236 617 8599",
+    "ssn": "154 96 5097",
+    "dob": "16/04/1976",
+    "address": "9829 Oak St",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

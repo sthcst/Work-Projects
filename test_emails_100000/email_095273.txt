@@ -1,0 +1,14 @@
+INVOICE 891345
+
+Bill To:
+Name: Katherine Nelson
+Email: katherine.nelson7501@company.com
+Phone: +1 299-225-4070
+SSN: 129943094
+
+Address: 2997 East Ln
+Jacksonville, MD
+
+Date of Birth: 2/16/1991
+
+Amount Due: $5542

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Gomez,ronald.gomez1850@outlook.com,334 877 5237,982-16-9699,12-10-2005,"5364 Oak Court",Phoenix,TX

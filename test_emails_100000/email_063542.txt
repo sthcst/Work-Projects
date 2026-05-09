@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Clark,rebecca.clark5525@example.com,838-303-8210,754-91-6358,01/28/1961,"5105 Summer Dr",San Antonio,TX

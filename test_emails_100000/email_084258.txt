@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Stewart
+  email: lauren.stewart4083@outlook.com
+  phone: +1 938-882-1391
+  ssn: 825892411
+  dob: 20/04/2003
+  address: 8609 Main Ave
+  city: Seattle
+  state: PA

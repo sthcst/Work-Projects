@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian White,brian.white4932@example.com,737-434-6039,304-51-8285,07/04/1951,"1382 Second St",Los Angeles,CA

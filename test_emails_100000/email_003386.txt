@@ -1,0 +1,9 @@
+contact:
+  name: Angela Peterson
+  email: angela.peterson5203@yahoo.com
+  phone: 622 530 5540
+  ssn: 366-89-7674
+  dob: 12/04/1975
+  address: 2016 Sixth Court
+  city: San Antonio
+  state: NC

@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Robinson
+  email: cynthia.robinson5362@example.com
+  phone: 318 204 9121
+  ssn: 761 48 9457
+  dob: 25/12/1981
+  address: 9680 Third Court
+  city: Boston
+  state: MA

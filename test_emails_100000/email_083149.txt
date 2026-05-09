@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Young",
+    "email": "william.young4447@gmail.com",
+    "phone": "647 567 7472",
+    "ssn": "459 75 5789",
+    "dob": "8/20/1982",
+    "address": "344 Birch Ln",
+    "city": "San Diego",
+    "state": "MA"
+  }
+}

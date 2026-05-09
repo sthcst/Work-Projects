@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Murillo
+  email: jacob.murillo6329@example.com
+  phone: (818) 735-2188
+  ssn: 795645421
+  dob: 27/11/1971
+  address: 7153 Birch Way
+  city: Houston
+  state: WA

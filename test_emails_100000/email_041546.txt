@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Garcia",
+    "email": "jeffrey.garcia3585@business.net",
+    "phone": "541-677-3863",
+    "ssn": "397 18 5274",
+    "dob": "03/14/2003",
+    "address": "2786 Park Rd",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Charles Thompson
+  email: charles.thompson3121@outlook.com
+  phone: +1 882-234-8034
+  ssn: 586-22-5241
+  dob: 08-01-1989
+  address: 4660 Fourth Blvd
+  city: Phoenix
+  state: PA

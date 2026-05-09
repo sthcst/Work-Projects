@@ -1,0 +1,9 @@
+contact:
+  name: Anna Serrano
+  email: anna.serrano9190@outlook.com
+  phone: +1 403-439-7440
+  ssn: 407 92 7845
+  dob: 08/25/1989
+  address: 9959 North Dr
+  city: Dallas
+  state: VA

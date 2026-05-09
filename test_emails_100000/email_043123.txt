@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony White,anthony.white1208@example.com,(426) 926-5959,373807007,08/21/2004,"1176 Main St",Phoenix,MD

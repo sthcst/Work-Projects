@@ -1,0 +1,14 @@
+INVOICE 128151
+
+Bill To:
+Name: Edward Peterson
+Email: edward.peterson2552@outlook.com
+Phone: (804) 988-6441
+SSN: 686 67 6248
+
+Address: 8248 Oak Rd
+San Diego, MA
+
+Date of Birth: 03/20/1950
+
+Amount Due: $182

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Taylor,anthony.taylor8797@business.net,800 756 7873,516 33 2913,9/18/1973,"3273 South Court",Denver,GA

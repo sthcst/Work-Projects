@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Lopez",
+    "email": "kenneth.lopez7945@gmail.com",
+    "phone": "+1 528-786-2032",
+    "ssn": "950857757",
+    "dob": "01-13-1989",
+    "address": "9537 Oak St",
+    "city": "Philadelphia",
+    "state": "WA"
+  }
+}

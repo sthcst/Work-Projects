@@ -1,0 +1,9 @@
+contact:
+  name: Helen Hernandez
+  email: helen.hernandez5427@company.com
+  phone: 729 996 2917
+  ssn: 027-68-7946
+  dob: 18/03/1967
+  address: 7645 Main Ave
+  city: Austin
+  state: MD

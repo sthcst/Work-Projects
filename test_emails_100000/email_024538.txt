@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Lewis
+  email: shirley.lewis9744@mail.com
+  phone: 381-853-8292
+  ssn: 997 25 2600
+  dob: 07-13-1957
+  address: 4871 Summer St
+  city: Denver
+  state: NY

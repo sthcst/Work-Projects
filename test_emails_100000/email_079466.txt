@@ -1,0 +1,12 @@
+SUPPORT TICKET #63861
+
+Customer: David Lopez
+Email: david.lopez8605@example.com
+Phone: +1 918-452-9014
+Account: 868835322
+
+Issue Description: Technical problem reported
+DOB on file: 07-05-1972
+Address: 1176 Park St, Washington, DC
+
+Status: OPEN

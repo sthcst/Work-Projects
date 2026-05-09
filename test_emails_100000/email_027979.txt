@@ -1,0 +1,14 @@
+INVOICE 655999
+
+Bill To:
+Name: Stephanie Reed
+Email: stephanie.reed1418@mail.com
+Phone: +1 899-904-2031
+SSN: 617 52 8024
+
+Address: 6631 Sixth Ln
+Chicago, TX
+
+Date of Birth: 02-19-1969
+
+Amount Due: $7960

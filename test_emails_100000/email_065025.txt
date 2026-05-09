@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Reed
+  email: shirley.reed4088@mail.com
+  phone: 484 499 2619
+  ssn: 606-16-1221
+  dob: 08/03/1999
+  address: 226 North Court
+  city: Phoenix
+  state: TX

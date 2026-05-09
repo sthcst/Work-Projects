@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Johnson",
+    "email": "richard.johnson5345@outlook.com",
+    "phone": "563 786 6466",
+    "ssn": "880 12 8664",
+    "dob": "21/07/1950",
+    "address": "2161 Third Way",
+    "city": "San Diego",
+    "state": "WI"
+  }
+}

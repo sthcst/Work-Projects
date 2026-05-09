@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Thomas,sarah.thomas5844@example.com,+1 720-648-1632,978817432,09/09/2003,"2235 South Court",Denver,AZ

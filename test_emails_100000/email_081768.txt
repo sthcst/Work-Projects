@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Delgado",
+    "email": "jennifer.delgado1014@company.com",
+    "phone": "(384) 713-8671",
+    "ssn": "462 94 7132",
+    "dob": "04-15-1997",
+    "address": "1879 Fifth Blvd",
+    "city": "Jacksonville",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Romero",
+    "email": "angela.romero4753@yahoo.com",
+    "phone": "(708) 862-7554",
+    "ssn": "163-59-6870",
+    "dob": "04/05/1965",
+    "address": "2702 Fourth Rd",
+    "city": "New York",
+    "state": "OH"
+  }
+}

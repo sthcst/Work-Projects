@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Hall,cynthia.hall3242@work.org,+1 884-294-4082,996-15-4623,16/06/1978,"1087 Summer Rd",Seattle,MI

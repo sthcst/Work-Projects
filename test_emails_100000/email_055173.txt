@@ -1,0 +1,14 @@
+INVOICE 220190
+
+Bill To:
+Name: Megan Alvarado
+Email: megan.alvarado690@work.org
+Phone: 510 600 7547
+SSN: 986 18 7639
+
+Address: 9069 South Blvd
+Philadelphia, MA
+
+Date of Birth: 07/03/1978
+
+Amount Due: $949

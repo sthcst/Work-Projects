@@ -1,0 +1,14 @@
+INVOICE 145030
+
+Bill To:
+Name: Paul Davis
+Email: paul.davis9415@business.net
+Phone: +1 362-464-8270
+SSN: 521532559
+
+Address: 3183 Pine Dr
+Austin, MI
+
+Date of Birth: 03-05-1965
+
+Amount Due: $766

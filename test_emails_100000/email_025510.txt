@@ -1,0 +1,14 @@
+INVOICE 659194
+
+Bill To:
+Name: Kevin Thomas
+Email: kevin.thomas9495@company.com
+Phone: 958 803 7751
+SSN: 484-40-1777
+
+Address: 4065 Summer Court
+New York, TX
+
+Date of Birth: 09/02/1987
+
+Amount Due: $9816

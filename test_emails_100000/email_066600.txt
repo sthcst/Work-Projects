@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Phillips",
+    "email": "emma.phillips7069@outlook.com",
+    "phone": "(505) 656-2295",
+    "ssn": "363-52-3908",
+    "dob": "22/05/1988",
+    "address": "1151 South Dr",
+    "city": "Phoenix",
+    "state": "TN"
+  }
+}

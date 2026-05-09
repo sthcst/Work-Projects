@@ -1,0 +1,9 @@
+contact:
+  name: Brian Walker
+  email: brian.walker1318@yahoo.com
+  phone: +1 815-445-7881
+  ssn: 799-26-5747
+  dob: 06/17/1985
+  address: 7882 Birch Dr
+  city: Seattle
+  state: TX

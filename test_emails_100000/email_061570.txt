@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Martinez
+  email: nicole.martinez1918@business.net
+  phone: 497 394 2014
+  ssn: 332-93-8659
+  dob: 03/07/1978
+  address: 7883 Main Ave
+  city: Dallas
+  state: AZ

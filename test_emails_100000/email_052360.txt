@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Thompson,angela.thompson7539@outlook.com,(464) 736-3326,172304892,12/07/1983,"2728 Third St",San Antonio,MD

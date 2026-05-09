@@ -1,0 +1,9 @@
+contact:
+  name: Steven Lewis
+  email: steven.lewis2374@company.com
+  phone: (417) 372-6681
+  ssn: 822285625
+  dob: 3/26/1952
+  address: 6699 Spring St
+  city: San Jose
+  state: TN

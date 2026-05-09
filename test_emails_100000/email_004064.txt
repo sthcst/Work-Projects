@@ -1,0 +1,14 @@
+INVOICE 670606
+
+Bill To:
+Name: Helen White
+Email: helen.white1222@gmail.com
+Phone: +1 363-617-2338
+SSN: 825-17-7300
+
+Address: 6225 Main Rd
+Boston, NJ
+
+Date of Birth: 5/1/1982
+
+Amount Due: $8259

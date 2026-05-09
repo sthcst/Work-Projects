@@ -1,0 +1,9 @@
+contact:
+  name: Steven Rodriguez
+  email: steven.rodriguez1856@yahoo.com
+  phone: 493-508-4442
+  ssn: 230 82 4087
+  dob: 08-01-1961
+  address: 3332 Elm Ave
+  city: Seattle
+  state: IL

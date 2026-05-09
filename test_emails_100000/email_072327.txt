@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Jackson",
+    "email": "brenda.jackson7332@outlook.com",
+    "phone": "418 377 9158",
+    "ssn": "316187283",
+    "dob": "04-04-2000",
+    "address": "9154 Birch Ave",
+    "city": "Boston",
+    "state": "WI"
+  }
+}

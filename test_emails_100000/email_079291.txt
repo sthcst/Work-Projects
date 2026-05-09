@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Garcia,mark.garcia1127@company.com,(242) 543-2598,551491789,5/25/2002,"7881 Birch Dr",Philadelphia,TX

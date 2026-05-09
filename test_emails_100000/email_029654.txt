@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Jimenez",
+    "email": "jessica.jimenez3581@gmail.com",
+    "phone": "225 829 8832",
+    "ssn": "503044405",
+    "dob": "4/8/1963",
+    "address": "5360 Main Way",
+    "city": "Boston",
+    "state": "FL"
+  }
+}

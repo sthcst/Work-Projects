@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Jackson",
+    "email": "katherine.jackson9293@example.com",
+    "phone": "603-308-5889",
+    "ssn": "559918331",
+    "dob": "19/06/1965",
+    "address": "8125 Birch Rd",
+    "city": "Chicago",
+    "state": "MI"
+  }
+}

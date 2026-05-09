@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Walker,kathleen.walker2209@work.org,+1 526-570-2076,478603178,02-19-2001,"3399 Spring Rd",Denver,NJ

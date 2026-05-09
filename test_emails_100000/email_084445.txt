@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Williams",
+    "email": "sarah.williams2755@example.com",
+    "phone": "752-637-6862",
+    "ssn": "490-76-5078",
+    "dob": "02-07-1985",
+    "address": "2797 Third Way",
+    "city": "Los Angeles",
+    "state": "GA"
+  }
+}

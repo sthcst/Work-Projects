@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Guerrero",
+    "email": "robert.guerrero4303@company.com",
+    "phone": "(790) 513-4172",
+    "ssn": "942 56 7323",
+    "dob": "27/01/1958",
+    "address": "4385 Birch Court",
+    "city": "Philadelphia",
+    "state": "NY"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Miller",
+    "email": "kevin.miller9165@gmail.com",
+    "phone": "878-783-2116",
+    "ssn": "222-80-4548",
+    "dob": "01/03/1970",
+    "address": "7132 Elm Way",
+    "city": "Boston",
+    "state": "NY"
+  }
+}

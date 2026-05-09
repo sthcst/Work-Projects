@@ -1,0 +1,14 @@
+INVOICE 452561
+
+Bill To:
+Name: Jacob Carter
+Email: jacob.carter3558@company.com
+Phone: (874) 475-8552
+SSN: 080 89 8598
+
+Address: 1984 Park Dr
+Chicago, IL
+
+Date of Birth: 8/25/2003
+
+Amount Due: $9865

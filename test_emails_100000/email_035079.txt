@@ -1,0 +1,9 @@
+contact:
+  name: Robert Martin
+  email: robert.martin2085@business.net
+  phone: 490-968-6421
+  ssn: 359 01 1879
+  dob: 10/15/1985
+  address: 7603 Fourth Rd
+  city: Washington
+  state: NJ

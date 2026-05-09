@@ -1,0 +1,9 @@
+contact:
+  name: Anna Nunez
+  email: anna.nunez2244@work.org
+  phone: (545) 731-2615
+  ssn: 982-22-6900
+  dob: 15/10/1964
+  address: 5726 First Dr
+  city: Dallas
+  state: DC

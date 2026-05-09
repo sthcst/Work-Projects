@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth White",
+    "email": "kenneth.white9668@business.net",
+    "phone": "+1 693-496-4993",
+    "ssn": "982-89-5662",
+    "dob": "07-07-1962",
+    "address": "17 First Court",
+    "city": "San Antonio",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 320693
+
+Bill To:
+Name: Jessica Nelson
+Email: jessica.nelson8@business.net
+Phone: +1 473-876-3106
+SSN: 673856576
+
+Address: 7949 Elm Way
+Dallas, MA
+
+Date of Birth: 26/01/1987
+
+Amount Due: $7518

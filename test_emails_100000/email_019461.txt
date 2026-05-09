@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Campbell",
+    "email": "pamela.campbell4655@outlook.com",
+    "phone": "456 632 3441",
+    "ssn": "632-64-4235",
+    "dob": "03/26/1966",
+    "address": "8068 Oak Ave",
+    "city": "Washington",
+    "state": "AZ"
+  }
+}

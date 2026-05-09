@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Gomez
+  email: lauren.gomez8881@work.org
+  phone: +1 867-816-8670
+  ssn: 904-65-9472
+  dob: 01/14/1964
+  address: 4134 Fifth St
+  city: Los Angeles
+  state: GA

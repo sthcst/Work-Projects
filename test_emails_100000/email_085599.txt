@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Harris,michael.harris6549@yahoo.com,706 621 2209,209-65-2225,06-26-1972,"7518 Park Dr",Austin,CA

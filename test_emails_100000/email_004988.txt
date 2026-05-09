@@ -1,0 +1,14 @@
+INVOICE 810123
+
+Bill To:
+Name: Jason Hall
+Email: jason.hall7838@yahoo.com
+Phone: +1 393-440-3064
+SSN: 936327491
+
+Address: 1414 West Dr
+Phoenix, NY
+
+Date of Birth: 06-04-1996
+
+Amount Due: $1963

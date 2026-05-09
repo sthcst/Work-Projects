@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Martin",
+    "email": "angela.martin7284@yahoo.com",
+    "phone": "446 436 2553",
+    "ssn": "230-62-1076",
+    "dob": "06/15/1964",
+    "address": "3160 Spring Ave",
+    "city": "Los Angeles",
+    "state": "MI"
+  }
+}

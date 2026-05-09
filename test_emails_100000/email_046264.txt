@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Reyes",
+    "email": "cynthia.reyes8041@example.com",
+    "phone": "(654) 393-7387",
+    "ssn": "986 02 5098",
+    "dob": "07/28/1972",
+    "address": "6262 Cedar Blvd",
+    "city": "Philadelphia",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Moore",
+    "email": "joseph.moore407@work.org",
+    "phone": "(850) 674-1548",
+    "ssn": "581 62 9510",
+    "dob": "09/28/1987",
+    "address": "5792 Maple Dr",
+    "city": "Seattle",
+    "state": "AZ"
+  }
+}

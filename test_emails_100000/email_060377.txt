@@ -1,0 +1,9 @@
+contact:
+  name: Edward Guerrero
+  email: edward.guerrero2033@mail.com
+  phone: 319-686-1121
+  ssn: 729 36 5980
+  dob: 01/07/1955
+  address: 5987 Birch Ln
+  city: Seattle
+  state: OH

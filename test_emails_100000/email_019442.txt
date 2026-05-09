@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Davis,donald.davis6248@work.org,905-732-4076,950 29 4982,20/12/1976,"4614 Maple Blvd",Denver,DC

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Martinez",
+    "email": "brian.martinez572@gmail.com",
+    "phone": "+1 937-710-5787",
+    "ssn": "061-65-5337",
+    "dob": "15/10/1951",
+    "address": "4752 Summer Ave",
+    "city": "Phoenix",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Bell,charles.bell4086@company.com,+1 529-656-1951,182 13 4352,04/14/1997,"7127 Pine Dr",Chicago,VA

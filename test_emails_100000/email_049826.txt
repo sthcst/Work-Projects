@@ -1,0 +1,9 @@
+contact:
+  name: William Brown
+  email: william.brown7194@example.com
+  phone: 594-942-3772
+  ssn: 630-14-4755
+  dob: 07/18/2002
+  address: 2346 Cedar Ave
+  city: New York
+  state: TX

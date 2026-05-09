@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Carter
+  email: cynthia.carter7412@work.org
+  phone: 245 713 6576
+  ssn: 521 48 5487
+  dob: 22/07/1992
+  address: 6171 Oak Court
+  city: San Antonio
+  state: CO

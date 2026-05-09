@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Gonzalez,katherine.gonzalez517@company.com,+1 538-786-7835,423-06-9024,8/17/1977,"5909 East St",San Diego,MD

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Serrano",
+    "email": "james.serrano7468@mail.com",
+    "phone": "+1 487-537-2592",
+    "ssn": "464-23-6660",
+    "dob": "12/01/1996",
+    "address": "7630 Summer St",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

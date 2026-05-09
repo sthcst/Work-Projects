@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Delgado",
+    "email": "james.delgado2414@business.net",
+    "phone": "798 352 3737",
+    "ssn": "945 98 1757",
+    "dob": "5/13/2004",
+    "address": "1796 Fifth St",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

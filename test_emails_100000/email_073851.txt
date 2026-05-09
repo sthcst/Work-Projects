@@ -1,0 +1,14 @@
+INVOICE 185052
+
+Bill To:
+Name: Deborah Reyes
+Email: deborah.reyes7465@company.com
+Phone: +1 274-665-6953
+SSN: 181 40 3748
+
+Address: 6078 Fourth Ave
+Chicago, FL
+
+Date of Birth: 19/01/1972
+
+Amount Due: $5998

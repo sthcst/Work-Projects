@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Jones",
+    "email": "katherine.jones9721@outlook.com",
+    "phone": "(691) 309-8941",
+    "ssn": "304 34 6381",
+    "dob": "10/10/1955",
+    "address": "7954 Second Blvd",
+    "city": "Chicago",
+    "state": "MA"
+  }
+}

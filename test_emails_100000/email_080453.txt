@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Flores,james.flores6503@business.net,+1 947-673-1072,112 15 4740,06/17/1979,"9134 Maple Dr",Washington,GA

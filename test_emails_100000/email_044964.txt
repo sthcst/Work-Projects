@@ -1,0 +1,9 @@
+contact:
+  name: William Rogers
+  email: william.rogers736@company.com
+  phone: +1 725-323-2565
+  ssn: 021-87-7435
+  dob: 04/21/1965
+  address: 3151 Maple Way
+  city: Los Angeles
+  state: NY

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Perez,jessica.perez6560@gmail.com,537 275 3218,182-56-8762,15/02/1953,"2718 Fifth Court",Seattle,WA

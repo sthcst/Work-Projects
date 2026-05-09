@@ -1,0 +1,14 @@
+INVOICE 885894
+
+Bill To:
+Name: George Thomas
+Email: george.thomas9384@business.net
+Phone: 373 496 8092
+SSN: 799-41-7821
+
+Address: 6546 Sixth Rd
+Philadelphia, CA
+
+Date of Birth: 2/3/1969
+
+Amount Due: $6042

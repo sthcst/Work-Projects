@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Walker,megan.walker1117@gmail.com,233-837-1071,756 87 2461,12/23/1955,"1915 Main Ave",New York,TX

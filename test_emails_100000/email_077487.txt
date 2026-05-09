@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Gonzalez",
+    "email": "ashley.gonzalez786@company.com",
+    "phone": "783-815-8208",
+    "ssn": "443 90 1226",
+    "dob": "03/13/1959",
+    "address": "968 Pine St",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

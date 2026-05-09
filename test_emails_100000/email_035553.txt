@@ -1,0 +1,9 @@
+contact:
+  name: Jane Reed
+  email: jane.reed9482@business.net
+  phone: 513-695-3104
+  ssn: 627 26 4664
+  dob: 9/5/1950
+  address: 5311 Second Court
+  city: Philadelphia
+  state: IL

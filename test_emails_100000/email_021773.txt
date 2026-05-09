@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Jackson,jennifer.jackson1991@example.com,(536) 524-4884,194-64-8461,8/3/1956,"4467 Spring Rd",New York,NJ

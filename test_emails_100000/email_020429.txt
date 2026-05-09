@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Carter,michael.carter1192@outlook.com,834 454 5851,435 87 7851,06/10/1982,"9623 Pine Dr",Houston,MA

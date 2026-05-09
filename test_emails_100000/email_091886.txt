@@ -1,0 +1,9 @@
+contact:
+  name: Brian White
+  email: brian.white3428@gmail.com
+  phone: +1 700-864-1027
+  ssn: 397 50 2948
+  dob: 9/11/1966
+  address: 4727 Summer Blvd
+  city: San Diego
+  state: FL

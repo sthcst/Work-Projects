@@ -1,0 +1,14 @@
+INVOICE 153710
+
+Bill To:
+Name: Amanda Moore
+Email: amanda.moore2674@example.com
+Phone: +1 599-559-4013
+SSN: 578-61-2581
+
+Address: 49 Oak Court
+San Antonio, TN
+
+Date of Birth: 04/25/1952
+
+Amount Due: $3466

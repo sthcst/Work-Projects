@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Murillo",
+    "email": "shirley.murillo2912@work.org",
+    "phone": "397 902 2744",
+    "ssn": "796665237",
+    "dob": "04-08-1974",
+    "address": "9229 Maple Ave",
+    "city": "Jacksonville",
+    "state": "AZ"
+  }
+}

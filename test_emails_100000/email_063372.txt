@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Nelson,emily.nelson49@company.com,573 427 6915,107 70 1463,10/16/1953,"3062 Third Dr",Austin,MO

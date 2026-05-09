@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Reyes
+  email: samantha.reyes9389@work.org
+  phone: (692) 985-8011
+  ssn: 285 76 1959
+  dob: 05/10/1960
+  address: 8038 Spring Ave
+  city: Chicago
+  state: MI

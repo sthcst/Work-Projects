@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Rodriguez,gary.rodriguez539@company.com,+1 911-809-6700,879-58-2358,11-01-2004,"2790 Elm Court",San Diego,TX

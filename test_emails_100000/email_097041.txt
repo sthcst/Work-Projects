@@ -1,0 +1,14 @@
+INVOICE 990092
+
+Bill To:
+Name: Sarah Cooper
+Email: sarah.cooper4511@mail.com
+Phone: +1 638-918-3265
+SSN: 767-63-1473
+
+Address: 2338 Fourth Court
+Dallas, OH
+
+Date of Birth: 5/9/2002
+
+Amount Due: $7511

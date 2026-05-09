@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Ramirez,christine.ramirez7335@company.com,+1 662-827-9162,431 73 6034,17/05/1986,"1804 First Court",Houston,MA

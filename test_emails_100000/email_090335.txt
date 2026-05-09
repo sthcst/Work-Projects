@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Hall,helen.hall9308@outlook.com,(600) 375-7142,232 85 9814,04/04/1962,"9972 Spring Dr",San Jose,WA

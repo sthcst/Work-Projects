@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Jackson",
+    "email": "jessica.jackson3595@gmail.com",
+    "phone": "(284) 632-6074",
+    "ssn": "316 21 7738",
+    "dob": "14/02/1973",
+    "address": "2552 Spring Ln",
+    "city": "Austin",
+    "state": "PA"
+  }
+}

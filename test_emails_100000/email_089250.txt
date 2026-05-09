@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Phillips",
+    "email": "kimberly.phillips9610@work.org",
+    "phone": "+1 299-238-7858",
+    "ssn": "870-22-4619",
+    "dob": "19/06/1977",
+    "address": "884 Fifth Ave",
+    "city": "Seattle",
+    "state": "OH"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Jimenez",
+    "email": "rachel.jimenez7435@gmail.com",
+    "phone": "+1 429-764-1014",
+    "ssn": "621728938",
+    "dob": "11/20/1974",
+    "address": "1358 Sixth Ln",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

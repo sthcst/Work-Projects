@@ -1,0 +1,9 @@
+contact:
+  name: Christine Gonzalez
+  email: christine.gonzalez2865@mail.com
+  phone: 822 594 1781
+  ssn: 943644830
+  dob: 10/01/1955
+  address: 5175 Summer Dr
+  city: New York
+  state: TX

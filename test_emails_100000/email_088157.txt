@@ -1,0 +1,9 @@
+contact:
+  name: Megan Phillips
+  email: megan.phillips5574@yahoo.com
+  phone: 589-418-9884
+  ssn: 979 89 1856
+  dob: 7/23/1964
+  address: 496 Main St
+  city: Boston
+  state: FL

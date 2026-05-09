@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Cooper",
+    "email": "brenda.cooper3884@gmail.com",
+    "phone": "+1 396-950-9310",
+    "ssn": "854-16-7348",
+    "dob": "6/19/2005",
+    "address": "3645 Cedar Court",
+    "city": "San Antonio",
+    "state": "NJ"
+  }
+}

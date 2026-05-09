@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Carter
+  email: timothy.carter4408@outlook.com
+  phone: (262) 953-6112
+  ssn: 273568611
+  dob: 19/06/1971
+  address: 8289 North Blvd
+  city: Los Angeles
+  state: FL

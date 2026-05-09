@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Smith,megan.smith1690@business.net,+1 238-828-2335,474-29-4328,07-22-1999,"7863 Birch Way",New York,AZ

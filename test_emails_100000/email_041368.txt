@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Rodriguez",
+    "email": "brian.rodriguez7945@work.org",
+    "phone": "917 260 2190",
+    "ssn": "139-45-9294",
+    "dob": "25/04/1992",
+    "address": "2210 Oak St",
+    "city": "Austin",
+    "state": "MD"
+  }
+}

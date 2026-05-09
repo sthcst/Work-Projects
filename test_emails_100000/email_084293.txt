@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Reyes,stephanie.reyes1811@yahoo.com,+1 629-457-2546,234 54 9499,28/04/1991,"6721 West Rd",San Diego,MO

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Bell",
+    "email": "anthony.bell7353@gmail.com",
+    "phone": "607-611-8511",
+    "ssn": "082 54 9615",
+    "dob": "02/21/1978",
+    "address": "8530 Birch Blvd",
+    "city": "Dallas",
+    "state": "IL"
+  }
+}

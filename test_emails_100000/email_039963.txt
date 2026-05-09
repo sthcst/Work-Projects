@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Cooper",
+    "email": "jennifer.cooper5113@mail.com",
+    "phone": "528-326-9727",
+    "ssn": "068 57 5368",
+    "dob": "8/8/1953",
+    "address": "1293 Birch Blvd",
+    "city": "San Antonio",
+    "state": "WA"
+  }
+}

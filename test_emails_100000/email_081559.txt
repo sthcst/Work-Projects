@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Stewart",
+    "email": "jessica.stewart7863@work.org",
+    "phone": "(819) 374-9232",
+    "ssn": "054 26 3971",
+    "dob": "11/12/2004",
+    "address": "9635 Birch Blvd",
+    "city": "Seattle",
+    "state": "FL"
+  }
+}

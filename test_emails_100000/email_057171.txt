@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Edwards
+  email: jacob.edwards6959@business.net
+  phone: (347) 357-9410
+  ssn: 773081390
+  dob: 24/05/1997
+  address: 9340 West Dr
+  city: San Diego
+  state: CA

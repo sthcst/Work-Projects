@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Thompson,charles.thompson3860@outlook.com,669-920-8295,347 10 4549,03/25/1975,"6862 Spring Way",San Antonio,NY

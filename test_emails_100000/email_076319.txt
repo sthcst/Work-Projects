@@ -1,0 +1,14 @@
+INVOICE 216066
+
+Bill To:
+Name: Cynthia Clark
+Email: cynthia.clark549@company.com
+Phone: 304-637-5142
+SSN: 780 58 4812
+
+Address: 5692 West Blvd
+Austin, AZ
+
+Date of Birth: 10/22/1988
+
+Amount Due: $3105

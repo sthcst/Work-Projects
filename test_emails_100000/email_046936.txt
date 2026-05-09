@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Taylor",
+    "email": "kenneth.taylor5229@mail.com",
+    "phone": "845 288 3944",
+    "ssn": "238-37-5654",
+    "dob": "03/02/2005",
+    "address": "3882 North Ln",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

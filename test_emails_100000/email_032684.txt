@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Gonzalez,lauren.gonzalez3584@mail.com,593 734 9645,879978534,26/01/1992,"9993 Elm Blvd",Chicago,MA

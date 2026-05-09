@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Sanchez",
+    "email": "jennifer.sanchez5168@business.net",
+    "phone": "622 928 6079",
+    "ssn": "277212470",
+    "dob": "12/22/1962",
+    "address": "6098 Oak St",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

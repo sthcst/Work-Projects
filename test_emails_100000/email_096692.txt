@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Sanchez
+  email: cynthia.sanchez3705@mail.com
+  phone: 686-264-4233
+  ssn: 917 25 1826
+  dob: 21/11/1998
+  address: 4578 Sixth Way
+  city: New York
+  state: NC

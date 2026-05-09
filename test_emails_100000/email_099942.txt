@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Lopez,amanda.lopez3849@company.com,890-708-7155,609102052,09/26/1973,"3167 Third Dr",San Antonio,AZ

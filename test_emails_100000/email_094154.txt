@@ -1,0 +1,9 @@
+contact:
+  name: Charles Cooper
+  email: charles.cooper6489@company.com
+  phone: 827 594 9380
+  ssn: 605 04 2597
+  dob: 8/25/1974
+  address: 6337 Park Court
+  city: Washington
+  state: MA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Martinez,kevin.martinez1980@company.com,(785) 755-8872,866-07-9347,09-15-1992,"2489 North Court",San Jose,IL

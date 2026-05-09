@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Rodriguez
+  email: lauren.rodriguez6023@business.net
+  phone: 546 333 9924
+  ssn: 885 88 4623
+  dob: 03/09/1969
+  address: 8675 Fourth Rd
+  city: Phoenix
+  state: CO

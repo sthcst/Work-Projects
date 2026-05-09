@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Peterson
+  email: jennifer.peterson87@gmail.com
+  phone: 227 553 1844
+  ssn: 653-41-1275
+  dob: 07/06/1998
+  address: 814 North Way
+  city: New York
+  state: AZ

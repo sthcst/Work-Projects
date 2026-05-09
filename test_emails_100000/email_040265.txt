@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Morgan",
+    "email": "amanda.morgan245@work.org",
+    "phone": "298-526-1194",
+    "ssn": "359-66-3099",
+    "dob": "08-21-1975",
+    "address": "56 Third Ln",
+    "city": "San Jose",
+    "state": "NY"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Edwards
+  email: cynthia.edwards8910@mail.com
+  phone: 623-874-1734
+  ssn: 618-33-3307
+  dob: 07/27/1979
+  address: 5145 Main St
+  city: San Diego
+  state: OH

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Carter",
+    "email": "angela.carter7866@yahoo.com",
+    "phone": "+1 744-817-4665",
+    "ssn": "889-80-3984",
+    "dob": "02/26/1988",
+    "address": "9834 Summer Ave",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

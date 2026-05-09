@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Garcia",
+    "email": "sarah.garcia5851@business.net",
+    "phone": "626-772-2752",
+    "ssn": "381596666",
+    "dob": "2/28/1987",
+    "address": "8737 Spring Blvd",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

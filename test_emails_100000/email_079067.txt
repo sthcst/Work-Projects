@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Ortiz
+  email: kenneth.ortiz9600@mail.com
+  phone: 871-413-6083
+  ssn: 394-56-2662
+  dob: 5/26/1982
+  address: 3434 First Ave
+  city: Dallas
+  state: NY

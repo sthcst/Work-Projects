@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Lee
+  email: rebecca.lee5031@mail.com
+  phone: 971 798 2044
+  ssn: 104 02 2451
+  dob: 12/22/1993
+  address: 2346 Pine Way
+  city: Houston
+  state: TX

@@ -1,0 +1,9 @@
+contact:
+  name: Mark Taylor
+  email: mark.taylor6299@gmail.com
+  phone: 511-371-7912
+  ssn: 040 92 7116
+  dob: 27/03/1959
+  address: 9711 Fourth Ln
+  city: Austin
+  state: GA

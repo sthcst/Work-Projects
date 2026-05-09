@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Jackson,angela.jackson7572@mail.com,795 831 3228,651535928,6/5/2003,"5544 East St",San Jose,AZ

@@ -1,0 +1,14 @@
+INVOICE 684191
+
+Bill To:
+Name: William Morris
+Email: william.morris1894@example.com
+Phone: 277 907 1814
+SSN: 901-31-6704
+
+Address: 1103 Sixth St
+San Jose, NJ
+
+Date of Birth: 28/02/1981
+
+Amount Due: $1142

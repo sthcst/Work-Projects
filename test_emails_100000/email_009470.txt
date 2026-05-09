@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Garcia",
+    "email": "michael.garcia7499@yahoo.com",
+    "phone": "372 928 6662",
+    "ssn": "280579160",
+    "dob": "8/28/1964",
+    "address": "5069 Fifth St",
+    "city": "Denver",
+    "state": "CO"
+  }
+}

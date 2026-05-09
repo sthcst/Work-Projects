@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Jackson,kevin.jackson6566@example.com,+1 573-224-8780,169-97-4388,11/08/1967,"1619 West Rd",San Jose,TX

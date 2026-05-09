@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Smith
+  email: deborah.smith3489@yahoo.com
+  phone: 318 656 6631
+  ssn: 179 18 7834
+  dob: 12-26-1996
+  address: 5726 Second Ave
+  city: Jacksonville
+  state: VA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Wilson,george.wilson5274@work.org,884-214-7598,386 49 3540,01/20/1990,"1085 Maple Court",San Antonio,WA

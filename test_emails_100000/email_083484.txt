@@ -1,0 +1,9 @@
+contact:
+  name: Emma White
+  email: emma.white865@company.com
+  phone: (890) 432-9347
+  ssn: 326306796
+  dob: 9/14/1998
+  address: 1244 East Way
+  city: San Diego
+  state: CA

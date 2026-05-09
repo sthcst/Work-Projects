@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Ramirez",
+    "email": "gary.ramirez8523@gmail.com",
+    "phone": "(693) 255-3556",
+    "ssn": "978669357",
+    "dob": "04/10/1990",
+    "address": "6856 Main Rd",
+    "city": "San Antonio",
+    "state": "AZ"
+  }
+}

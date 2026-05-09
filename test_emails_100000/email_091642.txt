@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Rogers,ashley.rogers6868@outlook.com,350 981 2431,978-82-1888,26/10/1987,"1474 South Way",Chicago,WA

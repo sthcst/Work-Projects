@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Rodriguez,amanda.rodriguez949@company.com,777 400 8311,820 91 6935,04-17-1985,"6386 Fourth Blvd",San Diego,NJ

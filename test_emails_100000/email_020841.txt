@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Robinson",
+    "email": "michelle.robinson4014@example.com",
+    "phone": "+1 802-212-5709",
+    "ssn": "288-39-1853",
+    "dob": "7/7/1981",
+    "address": "7247 First Dr",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

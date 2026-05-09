@@ -1,0 +1,9 @@
+contact:
+  name: Paul Wilson
+  email: paul.wilson7059@yahoo.com
+  phone: (365) 892-5846
+  ssn: 276 03 2826
+  dob: 09/26/1956
+  address: 9371 East Ave
+  city: San Antonio
+  state: NC

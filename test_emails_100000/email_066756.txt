@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Moore
+  email: ronald.moore7608@gmail.com
+  phone: 954-834-1225
+  ssn: 921-66-3898
+  dob: 27/06/1951
+  address: 6729 North Dr
+  city: New York
+  state: MD

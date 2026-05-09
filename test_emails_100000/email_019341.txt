@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Walker
+  email: pamela.walker3935@business.net
+  phone: +1 316-297-8557
+  ssn: 510919675
+  dob: 14/06/1995
+  address: 2090 Summer Ln
+  city: Seattle
+  state: CA

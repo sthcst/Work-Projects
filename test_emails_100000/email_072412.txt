@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Robinson,brian.robinson1019@yahoo.com,670 848 9624,549237257,01/01/1950,"9925 North St",San Diego,DC

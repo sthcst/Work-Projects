@@ -1,0 +1,9 @@
+contact:
+  name: Helen Garcia
+  email: helen.garcia1330@outlook.com
+  phone: (527) 574-9753
+  ssn: 478-06-9054
+  dob: 10-28-1986
+  address: 7111 West St
+  city: Denver
+  state: CA

@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Roberts
+  email: lauren.roberts7869@example.com
+  phone: (624) 866-2741
+  ssn: 534 59 6356
+  dob: 17/10/1970
+  address: 179 Fifth Ln
+  city: Houston
+  state: MA

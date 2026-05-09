@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Clark
+  email: cynthia.clark5148@yahoo.com
+  phone: 538 956 4141
+  ssn: 625 02 3482
+  dob: 10/11/1955
+  address: 8059 Second Rd
+  city: San Diego
+  state: CA

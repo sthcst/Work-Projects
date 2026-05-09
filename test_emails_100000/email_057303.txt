@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Jackson,lauren.jackson8877@example.com,777 391 7146,823786849,17/03/1956,"5199 Summer Ave",Jacksonville,IL

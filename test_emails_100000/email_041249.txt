@@ -1,0 +1,9 @@
+contact:
+  name: Jane Miller
+  email: jane.miller2276@example.com
+  phone: +1 592-510-3438
+  ssn: 063-91-2608
+  dob: 07/03/1983
+  address: 4801 Oak St
+  city: Austin
+  state: VA

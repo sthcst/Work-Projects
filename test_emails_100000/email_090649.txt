@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Anderson,michael.anderson2338@company.com,(274) 687-5989,648498491,6/5/1972,"455 Park Way",San Jose,GA

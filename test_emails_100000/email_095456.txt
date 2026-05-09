@@ -1,0 +1,14 @@
+INVOICE 600986
+
+Bill To:
+Name: James Bell
+Email: james.bell9675@work.org
+Phone: 640 754 5474
+SSN: 237 83 2312
+
+Address: 4393 South Blvd
+New York, MI
+
+Date of Birth: 5/23/1998
+
+Amount Due: $4892

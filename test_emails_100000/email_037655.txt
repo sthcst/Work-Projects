@@ -1,0 +1,14 @@
+INVOICE 177104
+
+Bill To:
+Name: Nicole Gomez
+Email: nicole.gomez7989@mail.com
+Phone: 515 829 1718
+SSN: 448626904
+
+Address: 2042 Main Dr
+Philadelphia, NC
+
+Date of Birth: 26/05/1951
+
+Amount Due: $1545

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Parker,shirley.parker829@business.net,672 780 7706,648938741,4/4/1999,"9534 Spring Rd",Seattle,WI

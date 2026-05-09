@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Gonzalez,christopher.gonzalez2301@mail.com,+1 543-905-2498,490 72 9054,4/3/1963,"648 Sixth Rd",Denver,AZ

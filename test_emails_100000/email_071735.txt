@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Johnson",
+    "email": "joseph.johnson4206@yahoo.com",
+    "phone": "428-887-8733",
+    "ssn": "428 12 2043",
+    "dob": "7/20/1972",
+    "address": "208 Spring Dr",
+    "city": "San Antonio",
+    "state": "WA"
+  }
+}

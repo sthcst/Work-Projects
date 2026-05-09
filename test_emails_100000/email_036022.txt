@@ -1,0 +1,14 @@
+INVOICE 513673
+
+Bill To:
+Name: Ronald Dominguez
+Email: ronald.dominguez1749@company.com
+Phone: 691 808 4772
+SSN: 595352601
+
+Address: 9087 Elm Dr
+San Diego, TX
+
+Date of Birth: 03/27/1999
+
+Amount Due: $5334

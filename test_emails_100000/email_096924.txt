@@ -1,0 +1,14 @@
+INVOICE 318358
+
+Bill To:
+Name: Jacob Davis
+Email: jacob.davis1248@example.com
+Phone: +1 470-744-5402
+SSN: 560-13-7450
+
+Address: 9520 Main Rd
+Phoenix, CA
+
+Date of Birth: 19/05/1962
+
+Amount Due: $5476

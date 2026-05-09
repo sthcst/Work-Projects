@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Young",
+    "email": "emma.young1491@mail.com",
+    "phone": "509 306 4812",
+    "ssn": "668 80 8763",
+    "dob": "02/04/1969",
+    "address": "6094 North Rd",
+    "city": "Chicago",
+    "state": "AZ"
+  }
+}

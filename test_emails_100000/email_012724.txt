@@ -1,0 +1,12 @@
+SUPPORT TICKET #79200
+
+Customer: Helen Clark
+Email: helen.clark2805@example.com
+Phone: (958) 202-7927
+Account: 455053361
+
+Issue Description: Technical problem reported
+DOB on file: 02/01/1975
+Address: 4847 Elm Dr, New York, IL
+
+Status: OPEN

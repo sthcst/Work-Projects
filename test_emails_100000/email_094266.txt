@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Davis,nicole.davis6292@business.net,737-382-6726,851-43-7709,01/02/2004,"1083 Sixth Dr",San Diego,MA

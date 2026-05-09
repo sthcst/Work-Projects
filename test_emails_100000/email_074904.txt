@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Rodriguez
+  email: kevin.rodriguez147@work.org
+  phone: +1 375-368-3605
+  ssn: 011181032
+  dob: 02/11/1989
+  address: 7024 Oak Way
+  city: Dallas
+  state: FL

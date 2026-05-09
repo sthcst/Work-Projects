@@ -1,0 +1,14 @@
+INVOICE 905054
+
+Bill To:
+Name: Jane Reeves
+Email: jane.reeves3567@mail.com
+Phone: +1 441-426-9911
+SSN: 106-12-9447
+
+Address: 3267 Main St
+San Antonio, NJ
+
+Date of Birth: 18/05/1989
+
+Amount Due: $9024

@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Peterson
+  email: joshua.peterson1031@company.com
+  phone: 444-517-6106
+  ssn: 754-69-2725
+  dob: 11/11/1960
+  address: 8442 Elm Court
+  city: Boston
+  state: WI

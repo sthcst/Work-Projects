@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Dominguez",
+    "email": "christopher.dominguez565@gmail.com",
+    "phone": "+1 562-566-3301",
+    "ssn": "983-42-3385",
+    "dob": "04/17/1972",
+    "address": "7358 Maple Blvd",
+    "city": "Chicago",
+    "state": "MD"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Murillo,helen.murillo6615@example.com,(241) 431-8598,336879213,27/07/1955,"8637 Fifth Blvd",Seattle,PA

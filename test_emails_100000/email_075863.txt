@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Walker,david.walker5999@example.com,+1 842-752-7799,760 70 9603,23/10/1963,"252 Oak Blvd",Austin,CA

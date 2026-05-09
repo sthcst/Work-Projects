@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Morgan
+  email: timothy.morgan3665@company.com
+  phone: 564-231-6340
+  ssn: 823 44 7503
+  dob: 01/10/1950
+  address: 7082 Fifth St
+  city: Austin
+  state: DC

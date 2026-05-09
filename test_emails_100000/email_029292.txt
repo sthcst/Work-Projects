@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Campbell",
+    "email": "lauren.campbell2709@example.com",
+    "phone": "(590) 285-8666",
+    "ssn": "309 86 1849",
+    "dob": "8/27/1995",
+    "address": "9998 Maple Way",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

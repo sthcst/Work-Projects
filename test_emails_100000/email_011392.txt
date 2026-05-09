@@ -1,0 +1,14 @@
+INVOICE 234034
+
+Bill To:
+Name: James Guerrero
+Email: james.guerrero9467@example.com
+Phone: 333 824 3456
+SSN: 692966677
+
+Address: 9076 Second Ln
+Philadelphia, PA
+
+Date of Birth: 21/08/1981
+
+Amount Due: $4791

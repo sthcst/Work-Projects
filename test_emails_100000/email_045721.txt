@@ -1,0 +1,12 @@
+SUPPORT TICKET #76170
+
+Customer: Robert Martin
+Email: robert.martin7897@example.com
+Phone: 388 519 1203
+Account: 261678025
+
+Issue Description: Technical problem reported
+DOB on file: 1/27/1977
+Address: 8189 Second Dr, Austin, CO
+
+Status: OPEN

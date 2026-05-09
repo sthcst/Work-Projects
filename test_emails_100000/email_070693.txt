@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Lee
+  email: kevin.lee820@outlook.com
+  phone: 684 649 3357
+  ssn: 404 66 3529
+  dob: 3/19/1994
+  address: 6968 Spring Blvd
+  city: Washington
+  state: AZ

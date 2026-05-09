@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Wilson
+  email: rachel.wilson8253@outlook.com
+  phone: (928) 562-2179
+  ssn: 309-16-4341
+  dob: 06/12/1977
+  address: 9263 Sixth Blvd
+  city: Austin
+  state: CO

@@ -1,0 +1,14 @@
+INVOICE 560392
+
+Bill To:
+Name: Robert Miller
+Email: robert.miller6239@business.net
+Phone: 942 968 5257
+SSN: 268744611
+
+Address: 8184 West Dr
+Jacksonville, FL
+
+Date of Birth: 19/03/1974
+
+Amount Due: $1913

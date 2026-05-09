@@ -1,0 +1,14 @@
+INVOICE 880172
+
+Bill To:
+Name: James Jimenez
+Email: james.jimenez6723@business.net
+Phone: 334-447-7238
+SSN: 656 44 4144
+
+Address: 6568 Park Blvd
+Jacksonville, FL
+
+Date of Birth: 13/07/1984
+
+Amount Due: $8082

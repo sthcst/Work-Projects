@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Nunez,jeffrey.nunez1400@yahoo.com,+1 224-236-1238,639395418,3/8/1980,"2847 Maple St",Houston,WA

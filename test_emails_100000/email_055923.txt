@@ -1,0 +1,9 @@
+contact:
+  name: Gary Martinez
+  email: gary.martinez5142@business.net
+  phone: +1 356-632-2653
+  ssn: 596 36 1987
+  dob: 11/22/1996
+  address: 9409 North Ln
+  city: New York
+  state: NY

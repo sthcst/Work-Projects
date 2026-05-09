@@ -1,0 +1,14 @@
+INVOICE 479359
+
+Bill To:
+Name: Katherine Jimenez
+Email: katherine.jimenez5415@example.com
+Phone: 202 301 2169
+SSN: 392-59-9909
+
+Address: 3749 Sixth St
+Seattle, IL
+
+Date of Birth: 25/10/1967
+
+Amount Due: $8967

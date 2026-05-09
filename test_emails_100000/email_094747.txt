@@ -1,0 +1,9 @@
+contact:
+  name: William Robinson
+  email: william.robinson7866@yahoo.com
+  phone: 807 356 6455
+  ssn: 342 25 9451
+  dob: 5/25/1972
+  address: 6914 East Rd
+  city: Austin
+  state: MI

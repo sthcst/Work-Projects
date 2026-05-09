@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Phillips,david.phillips4483@gmail.com,+1 520-635-5861,707-71-4095,12/2/1950,"3355 Maple Rd",Seattle,TX

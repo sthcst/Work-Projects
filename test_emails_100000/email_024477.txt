@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Davis
+  email: stephanie.davis3757@company.com
+  phone: 287 278 1616
+  ssn: 544-39-2579
+  dob: 02/20/2005
+  address: 6154 Fifth Blvd
+  city: Seattle
+  state: FL

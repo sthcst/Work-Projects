@@ -1,0 +1,9 @@
+contact:
+  name: Robert Jackson
+  email: robert.jackson4177@business.net
+  phone: 863-590-4528
+  ssn: 396-47-7791
+  dob: 10/03/1953
+  address: 2755 Fourth St
+  city: Seattle
+  state: TN

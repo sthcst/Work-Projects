@@ -1,0 +1,14 @@
+INVOICE 816637
+
+Bill To:
+Name: Sarah Edwards
+Email: sarah.edwards9510@company.com
+Phone: 508-752-6891
+SSN: 248 88 6021
+
+Address: 5941 North Ln
+San Diego, TX
+
+Date of Birth: 11/05/1966
+
+Amount Due: $5589

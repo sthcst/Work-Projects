@@ -1,0 +1,14 @@
+INVOICE 788554
+
+Bill To:
+Name: Samantha Parker
+Email: samantha.parker5783@mail.com
+Phone: 239 718 2879
+SSN: 077756150
+
+Address: 1868 Maple Rd
+Philadelphia, CO
+
+Date of Birth: 04/09/1991
+
+Amount Due: $9283

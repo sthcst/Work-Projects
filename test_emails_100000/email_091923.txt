@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Wilson,steven.wilson6239@business.net,(738) 258-7632,470-56-6322,02/19/1968,"9641 Fifth St",Denver,FL

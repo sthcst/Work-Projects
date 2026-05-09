@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Flores,kathleen.flores8159@business.net,484-613-6031,813-31-8367,23/07/1985,"6673 Cedar Blvd",Boston,FL

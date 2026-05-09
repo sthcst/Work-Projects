@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Romero,timothy.romero19@mail.com,219 476 4264,545-09-9533,07-07-1956,"9171 First Blvd",Philadelphia,NC

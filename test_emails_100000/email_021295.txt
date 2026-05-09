@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Robinson,kimberly.robinson356@example.com,+1 266-265-5481,131936321,05/26/2001,"7969 West Blvd",Washington,CA

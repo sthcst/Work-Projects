@@ -1,0 +1,14 @@
+INVOICE 650094
+
+Bill To:
+Name: Andrew Lopez
+Email: andrew.lopez7953@outlook.com
+Phone: +1 791-449-7890
+SSN: 284698560
+
+Address: 5710 Birch St
+New York, VA
+
+Date of Birth: 08/05/1982
+
+Amount Due: $5571

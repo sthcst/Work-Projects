@@ -1,0 +1,9 @@
+contact:
+  name: Steven Robinson
+  email: steven.robinson1366@yahoo.com
+  phone: +1 521-911-2257
+  ssn: 427137075
+  dob: 12/04/1958
+  address: 6285 Spring Ave
+  city: Los Angeles
+  state: TX

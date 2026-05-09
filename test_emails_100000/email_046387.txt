@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Martin",
+    "email": "christine.martin7879@mail.com",
+    "phone": "872-793-6155",
+    "ssn": "913-37-3727",
+    "dob": "11/11/1967",
+    "address": "8430 Cedar Ln",
+    "city": "San Jose",
+    "state": "VA"
+  }
+}

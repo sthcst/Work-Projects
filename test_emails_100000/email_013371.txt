@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Clark,kimberly.clark5631@example.com,(981) 490-3048,921-33-3578,02/18/1980,"510 Birch Ave",Austin,TX

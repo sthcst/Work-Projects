@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Moore
+  email: rachel.moore9512@outlook.com
+  phone: 696-655-6945
+  ssn: 743 12 2247
+  dob: 3/28/1959
+  address: 7782 Cedar Dr
+  city: Los Angeles
+  state: FL

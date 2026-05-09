@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Serrano,lauren.serrano4758@yahoo.com,(675) 883-9797,500-52-1551,6/9/1975,"6955 Park Ave",Austin,CA

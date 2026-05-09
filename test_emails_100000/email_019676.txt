@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine White",
+    "email": "katherine.white6322@mail.com",
+    "phone": "+1 485-555-7663",
+    "ssn": "779 47 9898",
+    "dob": "12/13/1993",
+    "address": "6412 Birch Court",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Hall",
+    "email": "kevin.hall1548@yahoo.com",
+    "phone": "+1 808-796-9241",
+    "ssn": "238-36-8069",
+    "dob": "16/05/1977",
+    "address": "2204 North Court",
+    "city": "Philadelphia",
+    "state": "IL"
+  }
+}

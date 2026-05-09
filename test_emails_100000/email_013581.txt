@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Evans",
+    "email": "helen.evans1688@outlook.com",
+    "phone": "724 815 3628",
+    "ssn": "820 92 7242",
+    "dob": "03-22-1954",
+    "address": "5024 Maple Rd",
+    "city": "Boston",
+    "state": "AZ"
+  }
+}

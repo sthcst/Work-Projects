@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Ramirez,deborah.ramirez9640@example.com,376-985-9487,960 38 7437,5/10/1963,"7100 Third Way",Jacksonville,AZ

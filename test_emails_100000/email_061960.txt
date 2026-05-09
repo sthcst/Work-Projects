@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Johnson,david.johnson2025@work.org,344-489-3339,291-39-4638,21/06/1993,"5082 South Ln",Chicago,WA

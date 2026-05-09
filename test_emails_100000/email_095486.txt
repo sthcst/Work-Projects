@@ -1,0 +1,9 @@
+contact:
+  name: John Phillips
+  email: john.phillips4292@work.org
+  phone: 218-397-6220
+  ssn: 360 61 5108
+  dob: 12/12/1951
+  address: 5232 Third Ave
+  city: Jacksonville
+  state: PA

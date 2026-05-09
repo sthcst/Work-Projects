@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Bell",
+    "email": "brenda.bell9283@company.com",
+    "phone": "920-328-7126",
+    "ssn": "038 22 2276",
+    "dob": "12/08/1972",
+    "address": "840 Spring Blvd",
+    "city": "San Diego",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Hall",
+    "email": "christopher.hall5249@mail.com",
+    "phone": "+1 920-356-2594",
+    "ssn": "459-81-9274",
+    "dob": "05/09/1981",
+    "address": "3797 Third St",
+    "city": "Los Angeles",
+    "state": "NJ"
+  }
+}

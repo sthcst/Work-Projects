@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Wilson",
+    "email": "megan.wilson2179@outlook.com",
+    "phone": "928 235 2238",
+    "ssn": "045-57-4174",
+    "dob": "9/6/1971",
+    "address": "3330 Fifth Way",
+    "city": "Seattle",
+    "state": "DC"
+  }
+}

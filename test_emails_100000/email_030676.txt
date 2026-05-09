@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Gomez",
+    "email": "rebecca.gomez357@gmail.com",
+    "phone": "463-899-3186",
+    "ssn": "782-75-9871",
+    "dob": "24/12/1953",
+    "address": "4275 Oak Ln",
+    "city": "Boston",
+    "state": "WI"
+  }
+}

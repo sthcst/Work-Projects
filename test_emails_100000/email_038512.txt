@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Nelson,charles.nelson1427@outlook.com,(833) 851-3110,889-40-1587,11/06/2004,"1410 Maple Dr",Austin,FL

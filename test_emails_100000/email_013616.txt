@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Guerrero",
+    "email": "michael.guerrero1401@business.net",
+    "phone": "785 991 8657",
+    "ssn": "749-93-4732",
+    "dob": "09-08-1956",
+    "address": "2637 Fourth Ave",
+    "city": "Philadelphia",
+    "state": "FL"
+  }
+}

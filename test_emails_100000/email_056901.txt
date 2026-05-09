@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Collins
+  email: jeffrey.collins8623@work.org
+  phone: 512 800 7398
+  ssn: 531 42 7304
+  dob: 26/01/1973
+  address: 7523 Third St
+  city: Los Angeles
+  state: TX

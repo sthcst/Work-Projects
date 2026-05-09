@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Peterson",
+    "email": "daniel.peterson3455@example.com",
+    "phone": "+1 481-410-5071",
+    "ssn": "770594011",
+    "dob": "24/02/1998",
+    "address": "4355 Cedar Rd",
+    "city": "Seattle",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Emily Gomez
+  email: emily.gomez1724@mail.com
+  phone: 727-347-3956
+  ssn: 521911437
+  dob: 18/06/2001
+  address: 52 Summer Blvd
+  city: Austin
+  state: WA

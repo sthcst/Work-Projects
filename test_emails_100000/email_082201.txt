@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Robinson
+  email: katherine.robinson6106@gmail.com
+  phone: 772-333-1005
+  ssn: 263-11-1943
+  dob: 24/10/1973
+  address: 1581 Pine St
+  city: San Jose
+  state: CO

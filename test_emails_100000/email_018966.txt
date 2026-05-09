@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Thompson",
+    "email": "stephanie.thompson5723@work.org",
+    "phone": "+1 916-594-8638",
+    "ssn": "953 50 7336",
+    "dob": "10-04-1954",
+    "address": "5661 East Ln",
+    "city": "Houston",
+    "state": "NJ"
+  }
+}

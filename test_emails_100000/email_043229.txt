@@ -1,0 +1,9 @@
+contact:
+  name: Helen Rodriguez
+  email: helen.rodriguez5669@business.net
+  phone: 479-480-4571
+  ssn: 523974447
+  dob: 2/25/2000
+  address: 5133 Cedar Ln
+  city: Boston
+  state: NJ

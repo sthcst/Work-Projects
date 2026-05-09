@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Alvarado
+  email: brenda.alvarado704@example.com
+  phone: (440) 549-6141
+  ssn: 041 10 1438
+  dob: 11/17/1983
+  address: 4767 West Ave
+  city: Dallas
+  state: CA

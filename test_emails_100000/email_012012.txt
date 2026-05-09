@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Young,andrew.young6034@company.com,+1 904-346-8343,665-24-3317,13/01/1978,"8509 First St",Jacksonville,CA

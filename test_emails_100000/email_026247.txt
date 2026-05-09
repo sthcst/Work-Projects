@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Morgan,jane.morgan868@work.org,(835) 643-4790,805 82 4922,01/03/1994,"7888 Park Ave",San Jose,MA

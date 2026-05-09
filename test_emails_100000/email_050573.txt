@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Lee
+  email: stephanie.lee4492@company.com
+  phone: (674) 616-4405
+  ssn: 929 02 4860
+  dob: 27/04/1985
+  address: 4040 Fifth Court
+  city: New York
+  state: FL

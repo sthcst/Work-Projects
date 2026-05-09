@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Reed",
+    "email": "jacob.reed3821@example.com",
+    "phone": "364 270 2252",
+    "ssn": "859 23 1321",
+    "dob": "2/1/1968",
+    "address": "9734 Cedar Ave",
+    "city": "New York",
+    "state": "TX"
+  }
+}

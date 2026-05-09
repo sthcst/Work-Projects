@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Serrano",
+    "email": "matthew.serrano97@outlook.com",
+    "phone": "336-396-4514",
+    "ssn": "195481980",
+    "dob": "03-08-1972",
+    "address": "4147 First St",
+    "city": "Washington",
+    "state": "MI"
+  }
+}

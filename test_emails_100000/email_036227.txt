@@ -1,0 +1,9 @@
+contact:
+  name: Mark White
+  email: mark.white3965@work.org
+  phone: 818-488-4012
+  ssn: 075 19 6891
+  dob: 07/07/1961
+  address: 7135 Elm Rd
+  city: Austin
+  state: TX

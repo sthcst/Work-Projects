@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Thomas
+  email: rachel.thomas3122@mail.com
+  phone: +1 817-941-1993
+  ssn: 393-58-1646
+  dob: 05-13-1953
+  address: 1859 Elm St
+  city: Seattle
+  state: MD

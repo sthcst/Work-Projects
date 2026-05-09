@@ -1,0 +1,9 @@
+contact:
+  name: Anna Peterson
+  email: anna.peterson3511@mail.com
+  phone: +1 746-276-9014
+  ssn: 336-97-7946
+  dob: 03-11-1966
+  address: 1561 Elm Ave
+  city: Boston
+  state: TX

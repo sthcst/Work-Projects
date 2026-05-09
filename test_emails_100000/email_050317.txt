@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Reyes,katherine.reyes4923@yahoo.com,974-484-3942,790 61 5424,12/26/1962,"7836 Spring Dr",Seattle,VA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Ramirez",
+    "email": "kevin.ramirez1524@work.org",
+    "phone": "(976) 621-1691",
+    "ssn": "361115315",
+    "dob": "6/25/1955",
+    "address": "1544 West Court",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

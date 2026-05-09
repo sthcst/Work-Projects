@@ -1,0 +1,14 @@
+INVOICE 716804
+
+Bill To:
+Name: David Martinez
+Email: david.martinez8734@yahoo.com
+Phone: 808 594 3485
+SSN: 231728338
+
+Address: 5885 Pine Dr
+Washington, OH
+
+Date of Birth: 13/01/2001
+
+Amount Due: $8860

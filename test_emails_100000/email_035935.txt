@@ -1,0 +1,14 @@
+INVOICE 475679
+
+Bill To:
+Name: Paul Jones
+Email: paul.jones8251@business.net
+Phone: +1 659-779-2064
+SSN: 737 54 5954
+
+Address: 6639 Third Ave
+Philadelphia, PA
+
+Date of Birth: 04/12/2001
+
+Amount Due: $223

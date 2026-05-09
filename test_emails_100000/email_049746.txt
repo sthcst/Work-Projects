@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Ramirez,joseph.ramirez4781@outlook.com,995-627-6831,331-08-4588,12/28/2005,"7889 Park Blvd",Seattle,CO

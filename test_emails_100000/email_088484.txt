@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Clark
+  email: ashley.clark3764@gmail.com
+  phone: 262 302 6961
+  ssn: 765-99-5328
+  dob: 09-12-1981
+  address: 3848 Fourth Ave
+  city: Los Angeles
+  state: VA

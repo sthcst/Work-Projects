@@ -1,0 +1,14 @@
+INVOICE 215553
+
+Bill To:
+Name: Megan Gomez
+Email: megan.gomez4367@example.com
+Phone: 515 687 1582
+SSN: 823 99 7940
+
+Address: 3343 Park St
+Houston, CA
+
+Date of Birth: 11-14-1980
+
+Amount Due: $6343

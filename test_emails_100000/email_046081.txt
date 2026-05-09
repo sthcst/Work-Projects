@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Martinez
+  email: jennifer.martinez6206@work.org
+  phone: 351 578 9026
+  ssn: 282 23 1600
+  dob: 10/21/2004
+  address: 9602 Oak Blvd
+  city: Washington
+  state: PA

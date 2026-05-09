@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Campbell,richard.campbell3492@business.net,(666) 338-5145,060 88 1870,15/11/1956,"1786 Summer Court",Houston,WA

@@ -1,0 +1,9 @@
+contact:
+  name: George Johnson
+  email: george.johnson2302@gmail.com
+  phone: 486-421-3153
+  ssn: 195 81 7665
+  dob: 10-02-1974
+  address: 8072 Sixth Dr
+  city: San Diego
+  state: MO

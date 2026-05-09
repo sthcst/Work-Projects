@@ -1,0 +1,14 @@
+INVOICE 675051
+
+Bill To:
+Name: Sarah Ramirez
+Email: sarah.ramirez4071@company.com
+Phone: +1 553-270-5646
+SSN: 339-26-2497
+
+Address: 4734 Cedar Way
+Dallas, NY
+
+Date of Birth: 08-25-1955
+
+Amount Due: $1416

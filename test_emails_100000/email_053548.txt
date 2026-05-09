@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Reed",
+    "email": "brian.reed5576@company.com",
+    "phone": "999-312-7939",
+    "ssn": "362-32-3954",
+    "dob": "3/6/1978",
+    "address": "4877 South Blvd",
+    "city": "Boston",
+    "state": "WA"
+  }
+}

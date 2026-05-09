@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Hernandez",
+    "email": "katherine.hernandez4097@example.com",
+    "phone": "+1 632-222-7987",
+    "ssn": "090215446",
+    "dob": "11/01/1975",
+    "address": "6189 Main Dr",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 523756
+
+Bill To:
+Name: Shirley Thomas
+Email: shirley.thomas6679@work.org
+Phone: 816-974-1300
+SSN: 695579041
+
+Address: 8905 North St
+Dallas, VA
+
+Date of Birth: 05/01/1960
+
+Amount Due: $5145

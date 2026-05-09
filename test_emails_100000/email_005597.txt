@@ -1,0 +1,14 @@
+INVOICE 442611
+
+Bill To:
+Name: Robert Cooper
+Email: robert.cooper8207@gmail.com
+Phone: 971 725 1894
+SSN: 363 10 1214
+
+Address: 9315 Oak Ave
+San Diego, TX
+
+Date of Birth: 07/08/1965
+
+Amount Due: $8971

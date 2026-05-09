@@ -1,0 +1,9 @@
+contact:
+  name: John Moore
+  email: john.moore4975@yahoo.com
+  phone: 768 715 2071
+  ssn: 008 71 6758
+  dob: 2/28/1971
+  address: 4914 Second Way
+  city: New York
+  state: AZ

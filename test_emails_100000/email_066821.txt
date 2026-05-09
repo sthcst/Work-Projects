@@ -1,0 +1,14 @@
+INVOICE 367015
+
+Bill To:
+Name: Nicole Smith
+Email: nicole.smith5819@outlook.com
+Phone: (887) 534-5912
+SSN: 896-03-7094
+
+Address: 3201 South St
+New York, IL
+
+Date of Birth: 9/1/1982
+
+Amount Due: $9614

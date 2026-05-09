@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Martinez",
+    "email": "michelle.martinez4926@example.com",
+    "phone": "471-505-8213",
+    "ssn": "931842955",
+    "dob": "04/25/1990",
+    "address": "7070 Cedar Blvd",
+    "city": "Boston",
+    "state": "NJ"
+  }
+}

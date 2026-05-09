@@ -1,0 +1,9 @@
+contact:
+  name: Mark Ortiz
+  email: mark.ortiz6582@example.com
+  phone: (536) 591-4324
+  ssn: 659376108
+  dob: 27/08/1973
+  address: 3112 South Blvd
+  city: Houston
+  state: FL

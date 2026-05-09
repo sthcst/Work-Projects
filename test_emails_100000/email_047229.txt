@@ -1,0 +1,14 @@
+INVOICE 856498
+
+Bill To:
+Name: Joseph Rodriguez
+Email: joseph.rodriguez1591@yahoo.com
+Phone: 255-718-6129
+SSN: 005452270
+
+Address: 1784 Summer Blvd
+Houston, IL
+
+Date of Birth: 02/05/1969
+
+Amount Due: $8210

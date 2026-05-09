@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Parker,cynthia.parker4861@yahoo.com,666-784-2692,450936323,17/04/1987,"559 Cedar Dr",Seattle,NC

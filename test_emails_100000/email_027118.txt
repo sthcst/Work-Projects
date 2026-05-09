@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Nelson
+  email: katherine.nelson2488@mail.com
+  phone: 478 939 9180
+  ssn: 175-66-1210
+  dob: 6/23/1980
+  address: 9732 Oak Blvd
+  city: Chicago
+  state: AZ

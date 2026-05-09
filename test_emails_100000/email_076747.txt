@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Morgan",
+    "email": "jeffrey.morgan1368@yahoo.com",
+    "phone": "314-264-6437",
+    "ssn": "158 36 5135",
+    "dob": "11/5/1984",
+    "address": "8991 Spring Court",
+    "city": "Jacksonville",
+    "state": "MA"
+  }
+}

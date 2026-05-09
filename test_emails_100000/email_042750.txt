@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Davis
+  email: cynthia.davis4035@business.net
+  phone: +1 602-666-6521
+  ssn: 596 32 7523
+  dob: 11-26-1954
+  address: 2635 Fifth Blvd
+  city: Dallas
+  state: OH

@@ -1,0 +1,14 @@
+INVOICE 432579
+
+Bill To:
+Name: Michelle Miller
+Email: michelle.miller918@company.com
+Phone: 736 869 3040
+SSN: 386628727
+
+Address: 1830 Fifth Rd
+Denver, GA
+
+Date of Birth: 10/10/2004
+
+Amount Due: $3715

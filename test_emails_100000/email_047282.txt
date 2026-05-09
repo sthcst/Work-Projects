@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Morris",
+    "email": "christopher.morris4612@company.com",
+    "phone": "+1 255-209-3991",
+    "ssn": "787395823",
+    "dob": "3/8/1955",
+    "address": "3124 Birch Rd",
+    "city": "Austin",
+    "state": "VA"
+  }
+}

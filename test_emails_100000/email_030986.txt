@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Jones
+  email: samantha.jones9393@outlook.com
+  phone: +1 464-646-4576
+  ssn: 725029917
+  dob: 4/1/1963
+  address: 1584 Fifth St
+  city: Houston
+  state: WA

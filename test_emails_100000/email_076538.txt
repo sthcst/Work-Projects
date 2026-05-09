@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Nelson
+  email: cynthia.nelson305@work.org
+  phone: (530) 973-5099
+  ssn: 961 10 9483
+  dob: 10/06/1956
+  address: 269 Pine Way
+  city: Seattle
+  state: CA

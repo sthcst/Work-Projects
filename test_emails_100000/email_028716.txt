@@ -1,0 +1,14 @@
+INVOICE 123269
+
+Bill To:
+Name: David Thomas
+Email: david.thomas3281@yahoo.com
+Phone: 682 478 4071
+SSN: 027 12 1749
+
+Address: 7561 South Ln
+Seattle, WA
+
+Date of Birth: 06/07/1972
+
+Amount Due: $1681

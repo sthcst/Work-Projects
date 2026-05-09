@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Hernandez,amanda.hernandez1335@mail.com,841 257 8775,570-32-4116,4/7/1993,"5782 West Court",Los Angeles,IL

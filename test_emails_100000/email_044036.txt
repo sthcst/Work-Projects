@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Guerrero",
+    "email": "maria.guerrero4556@example.com",
+    "phone": "+1 702-612-2705",
+    "ssn": "010304812",
+    "dob": "01/08/1977",
+    "address": "9719 Main Court",
+    "city": "New York",
+    "state": "TN"
+  }
+}

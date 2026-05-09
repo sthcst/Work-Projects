@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Miller
+  email: nicholas.miller4583@work.org
+  phone: 471 988 3437
+  ssn: 175-18-1172
+  dob: 8/22/1993
+  address: 9405 East Way
+  city: Jacksonville
+  state: FL

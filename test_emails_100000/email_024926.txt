@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Morris",
+    "email": "samantha.morris4768@yahoo.com",
+    "phone": "+1 229-550-6125",
+    "ssn": "127 23 5683",
+    "dob": "05-17-1988",
+    "address": "7161 Third Ln",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

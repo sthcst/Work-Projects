@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Ramirez,anna.ramirez5658@company.com,+1 370-509-4525,120 66 7224,02-08-1960,"720 Maple Rd",Los Angeles,CA

@@ -1,0 +1,14 @@
+INVOICE 204617
+
+Bill To:
+Name: Jason Martinez
+Email: jason.martinez1979@example.com
+Phone: 865-460-5528
+SSN: 484-92-5633
+
+Address: 847 Third Way
+Jacksonville, TX
+
+Date of Birth: 10/28/1989
+
+Amount Due: $7168

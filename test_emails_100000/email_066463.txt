@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Lopez",
+    "email": "angela.lopez2677@mail.com",
+    "phone": "694-285-1957",
+    "ssn": "991357042",
+    "dob": "11-05-1977",
+    "address": "5321 East Rd",
+    "city": "Denver",
+    "state": "FL"
+  }
+}

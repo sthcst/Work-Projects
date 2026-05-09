@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Davis,christine.davis4923@yahoo.com,(608) 961-2232,875-57-7150,07/03/1974,"2447 South Ave",Jacksonville,TX

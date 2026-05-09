@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Phillips
+  email: lauren.phillips6038@company.com
+  phone: 634 266 5809
+  ssn: 685-36-2523
+  dob: 11/05/1961
+  address: 5588 Elm Rd
+  city: Denver
+  state: VA

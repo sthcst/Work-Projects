@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Walker",
+    "email": "pamela.walker5201@company.com",
+    "phone": "+1 937-352-4947",
+    "ssn": "647 25 8244",
+    "dob": "12-12-1993",
+    "address": "1928 North Dr",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}

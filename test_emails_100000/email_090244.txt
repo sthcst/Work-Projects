@@ -1,0 +1,9 @@
+contact:
+  name: Helen Miller
+  email: helen.miller2168@yahoo.com
+  phone: 879 828 3857
+  ssn: 216056359
+  dob: 17/01/1984
+  address: 7925 Oak Rd
+  city: Los Angeles
+  state: MI

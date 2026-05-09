@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Serrano",
+    "email": "sarah.serrano39@example.com",
+    "phone": "652 617 8972",
+    "ssn": "564611176",
+    "dob": "07/08/1963",
+    "address": "2867 Third Court",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

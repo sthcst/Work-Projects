@@ -1,0 +1,9 @@
+contact:
+  name: Emma Alvarado
+  email: emma.alvarado2281@example.com
+  phone: 778 477 4175
+  ssn: 845 59 2480
+  dob: 03-02-1982
+  address: 1409 Summer St
+  city: San Diego
+  state: OH

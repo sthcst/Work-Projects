@@ -1,0 +1,14 @@
+INVOICE 223490
+
+Bill To:
+Name: Andrew Gomez
+Email: andrew.gomez9746@mail.com
+Phone: 284 360 6726
+SSN: 206-94-8436
+
+Address: 3914 South Way
+Philadelphia, GA
+
+Date of Birth: 09/12/1997
+
+Amount Due: $7363

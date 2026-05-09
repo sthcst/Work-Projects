@@ -1,0 +1,9 @@
+contact:
+  name: Charles Sanchez
+  email: charles.sanchez9046@yahoo.com
+  phone: +1 380-978-9942
+  ssn: 779-77-6227
+  dob: 12/25/1991
+  address: 9595 Summer St
+  city: Denver
+  state: FL

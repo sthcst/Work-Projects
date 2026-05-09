@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Campbell",
+    "email": "nicholas.campbell7704@work.org",
+    "phone": "228 598 4434",
+    "ssn": "320 34 6272",
+    "dob": "10/2/2003",
+    "address": "8354 Main Blvd",
+    "city": "Denver",
+    "state": "DC"
+  }
+}

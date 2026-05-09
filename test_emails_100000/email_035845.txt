@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Wilson
+  email: timothy.wilson4709@mail.com
+  phone: +1 563-819-2150
+  ssn: 372 37 7928
+  dob: 04/15/1978
+  address: 570 Spring Dr
+  city: New York
+  state: OH

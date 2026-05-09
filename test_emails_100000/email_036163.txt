@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Evans",
+    "email": "daniel.evans7663@mail.com",
+    "phone": "(654) 263-1371",
+    "ssn": "713 62 9388",
+    "dob": "9/3/1959",
+    "address": "9064 Park Rd",
+    "city": "Philadelphia",
+    "state": "IL"
+  }
+}

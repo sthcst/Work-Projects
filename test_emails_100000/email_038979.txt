@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Roberts",
+    "email": "cynthia.roberts6002@yahoo.com",
+    "phone": "715-960-9354",
+    "ssn": "037-48-5016",
+    "dob": "18/09/1952",
+    "address": "6547 West Blvd",
+    "city": "Houston",
+    "state": "NJ"
+  }
+}

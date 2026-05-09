@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Roberts,emma.roberts4057@gmail.com,444-994-9290,573 51 8147,02-24-2005,"1588 Oak Rd",Phoenix,FL

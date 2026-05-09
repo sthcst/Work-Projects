@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Jackson
+  email: katherine.jackson9239@business.net
+  phone: +1 532-945-3471
+  ssn: 453-81-1218
+  dob: 10/2/1979
+  address: 1928 Park Blvd
+  city: Chicago
+  state: MD

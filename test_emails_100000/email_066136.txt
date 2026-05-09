@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Ramirez,christopher.ramirez6000@business.net,494-678-5239,081 62 1212,21/01/1981,"9158 Cedar Ln",Dallas,DC

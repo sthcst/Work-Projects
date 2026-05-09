@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Phillips",
+    "email": "sarah.phillips2289@company.com",
+    "phone": "606 777 1771",
+    "ssn": "138-17-1876",
+    "dob": "12/01/1980",
+    "address": "2337 Birch Rd",
+    "city": "San Diego",
+    "state": "NY"
+  }
+}

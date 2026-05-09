@@ -1,0 +1,14 @@
+INVOICE 741945
+
+Bill To:
+Name: Megan Brown
+Email: megan.brown9095@example.com
+Phone: (253) 467-1127
+SSN: 712327522
+
+Address: 9829 East Ave
+Jacksonville, TX
+
+Date of Birth: 13/01/1982
+
+Amount Due: $6168

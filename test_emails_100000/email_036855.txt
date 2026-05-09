@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Gomez,james.gomez8230@company.com,+1 407-542-2150,070517114,18/06/1990,"6547 South Blvd",Washington,GA

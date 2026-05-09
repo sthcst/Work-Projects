@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Thompson",
+    "email": "anna.thompson4328@business.net",
+    "phone": "797-897-1593",
+    "ssn": "613 22 6508",
+    "dob": "08/02/1998",
+    "address": "2015 Fourth Ave",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

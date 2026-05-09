@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Davis,jeffrey.davis6885@example.com,(497) 860-4232,950-56-6405,6/28/1968,"6372 Park Ln",Los Angeles,WA

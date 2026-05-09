@@ -1,0 +1,9 @@
+contact:
+  name: Brian White
+  email: brian.white6424@gmail.com
+  phone: (291) 278-6475
+  ssn: 065-08-8494
+  dob: 3/17/1992
+  address: 9084 Fourth Ln
+  city: San Antonio
+  state: MA

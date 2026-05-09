@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Anderson,brenda.anderson3933@work.org,688 670 2632,391 71 5250,1/17/1950,"5478 Elm Ave",Los Angeles,MI

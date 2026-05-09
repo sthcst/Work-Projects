@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Alvarado,kimberly.alvarado4547@company.com,(489) 695-1029,892168224,02/05/1985,"9213 North Blvd",Los Angeles,DC

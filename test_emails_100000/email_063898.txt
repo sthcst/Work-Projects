@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Alvarado,pamela.alvarado3135@example.com,(956) 557-8288,953589129,07/12/1993,"8866 Second St",Jacksonville,MA

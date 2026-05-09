@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Smith",
+    "email": "donald.smith6299@work.org",
+    "phone": "780-748-6880",
+    "ssn": "342 88 5961",
+    "dob": "01/21/1991",
+    "address": "5995 Fourth Blvd",
+    "city": "Chicago",
+    "state": "TN"
+  }
+}

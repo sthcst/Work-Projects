@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Clark",
+    "email": "donald.clark8004@mail.com",
+    "phone": "505-620-7871",
+    "ssn": "778 02 2724",
+    "dob": "20/05/1955",
+    "address": "7033 First Court",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

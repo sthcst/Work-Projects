@@ -1,0 +1,9 @@
+contact:
+  name: Richard Jones
+  email: richard.jones5503@yahoo.com
+  phone: 763 968 1713
+  ssn: 977 64 3854
+  dob: 11/08/1985
+  address: 7535 Third St
+  city: Denver
+  state: AZ

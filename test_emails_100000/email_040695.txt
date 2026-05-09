@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda White,brenda.white5712@yahoo.com,+1 460-337-3048,196997741,11/27/1953,"9304 Maple Rd",San Antonio,OH

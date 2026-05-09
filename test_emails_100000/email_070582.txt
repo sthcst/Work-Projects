@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Williams",
+    "email": "stephanie.williams5813@company.com",
+    "phone": "858 540 7243",
+    "ssn": "348-84-5556",
+    "dob": "02/10/1978",
+    "address": "9765 Summer Court",
+    "city": "New York",
+    "state": "VA"
+  }
+}

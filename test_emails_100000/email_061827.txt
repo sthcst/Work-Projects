@@ -1,0 +1,14 @@
+INVOICE 404987
+
+Bill To:
+Name: John Guerrero
+Email: john.guerrero2648@gmail.com
+Phone: (845) 533-8667
+SSN: 359 47 5442
+
+Address: 1063 Main Dr
+Phoenix, NC
+
+Date of Birth: 08/12/1985
+
+Amount Due: $5050

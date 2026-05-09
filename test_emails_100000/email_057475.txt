@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Flores",
+    "email": "kimberly.flores1728@outlook.com",
+    "phone": "817-883-4759",
+    "ssn": "685848485",
+    "dob": "27/05/1991",
+    "address": "2652 Fourth Ave",
+    "city": "Houston",
+    "state": "MO"
+  }
+}

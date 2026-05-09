@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Sanchez,paul.sanchez8896@yahoo.com,(279) 623-9354,578 15 4121,04-02-1969,"3252 First Rd",Dallas,TX

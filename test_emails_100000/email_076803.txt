@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Nelson",
+    "email": "jane.nelson6786@work.org",
+    "phone": "268-246-3807",
+    "ssn": "074212452",
+    "dob": "07-21-1988",
+    "address": "3803 Pine Blvd",
+    "city": "Houston",
+    "state": "DC"
+  }
+}

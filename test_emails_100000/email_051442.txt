@@ -1,0 +1,9 @@
+contact:
+  name: Matthew Edwards
+  email: matthew.edwards4821@outlook.com
+  phone: 943-971-5143
+  ssn: 322 34 2721
+  dob: 05-07-1997
+  address: 200 Third Blvd
+  city: Denver
+  state: FL

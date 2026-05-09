@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Campbell",
+    "email": "maria.campbell3389@outlook.com",
+    "phone": "691 254 3346",
+    "ssn": "925401357",
+    "dob": "02/07/1966",
+    "address": "6718 Pine Dr",
+    "city": "Boston",
+    "state": "WI"
+  }
+}

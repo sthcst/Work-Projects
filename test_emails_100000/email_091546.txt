@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Lee",
+    "email": "helen.lee6158@work.org",
+    "phone": "930-781-7447",
+    "ssn": "433 84 1691",
+    "dob": "12-02-1986",
+    "address": "6346 First Dr",
+    "city": "New York",
+    "state": "WI"
+  }
+}

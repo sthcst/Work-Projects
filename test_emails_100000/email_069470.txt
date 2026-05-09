@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Rogers",
+    "email": "ronald.rogers2917@work.org",
+    "phone": "(620) 656-2344",
+    "ssn": "405372256",
+    "dob": "12/11/1996",
+    "address": "3605 Fifth Rd",
+    "city": "Boston",
+    "state": "VA"
+  }
+}

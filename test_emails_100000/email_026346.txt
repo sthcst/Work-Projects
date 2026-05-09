@@ -1,0 +1,14 @@
+INVOICE 549154
+
+Bill To:
+Name: Richard Thomas
+Email: richard.thomas3231@example.com
+Phone: 398-796-1419
+SSN: 740 12 9647
+
+Address: 4061 Third Court
+Jacksonville, TX
+
+Date of Birth: 10/08/1960
+
+Amount Due: $1115

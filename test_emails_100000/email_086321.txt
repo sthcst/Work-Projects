@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Ramirez",
+    "email": "emma.ramirez3348@business.net",
+    "phone": "237-908-8379",
+    "ssn": "103 40 2954",
+    "dob": "10/10/1952",
+    "address": "5093 Birch Dr",
+    "city": "Washington",
+    "state": "FL"
+  }
+}

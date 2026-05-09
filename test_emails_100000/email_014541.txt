@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Cooper
+  email: jessica.cooper5056@example.com
+  phone: (641) 659-3370
+  ssn: 647 57 9371
+  dob: 2/16/1971
+  address: 6904 Main Blvd
+  city: New York
+  state: WA

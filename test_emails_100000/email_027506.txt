@@ -1,0 +1,9 @@
+contact:
+  name: Paul Stewart
+  email: paul.stewart8928@company.com
+  phone: (603) 746-5495
+  ssn: 063 56 9435
+  dob: 6/11/1998
+  address: 4962 Oak Way
+  city: Los Angeles
+  state: TN

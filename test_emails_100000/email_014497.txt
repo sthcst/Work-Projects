@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Thomas",
+    "email": "richard.thomas7904@mail.com",
+    "phone": "(353) 754-7210",
+    "ssn": "122-03-4015",
+    "dob": "02-25-1968",
+    "address": "8542 Third Dr",
+    "city": "Austin",
+    "state": "CO"
+  }
+}

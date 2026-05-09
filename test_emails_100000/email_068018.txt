@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Jones",
+    "email": "rachel.jones9475@mail.com",
+    "phone": "284-890-1296",
+    "ssn": "465683323",
+    "dob": "12-17-1975",
+    "address": "1201 Cedar Rd",
+    "city": "San Diego",
+    "state": "TN"
+  }
+}

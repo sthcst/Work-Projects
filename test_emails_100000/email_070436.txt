@@ -1,0 +1,14 @@
+INVOICE 370685
+
+Bill To:
+Name: Kimberly Jones
+Email: kimberly.jones617@outlook.com
+Phone: (508) 319-6939
+SSN: 980694489
+
+Address: 2029 East Ave
+Dallas, AZ
+
+Date of Birth: 12-28-1968
+
+Amount Due: $6329

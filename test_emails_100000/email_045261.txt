@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Phillips",
+    "email": "timothy.phillips5730@yahoo.com",
+    "phone": "+1 460-882-8681",
+    "ssn": "204551280",
+    "dob": "26/04/1960",
+    "address": "6180 Oak Court",
+    "city": "Washington",
+    "state": "PA"
+  }
+}

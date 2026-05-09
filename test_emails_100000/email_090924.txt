@@ -1,0 +1,9 @@
+contact:
+  name: Emma Stewart
+  email: emma.stewart8666@work.org
+  phone: 776-395-5646
+  ssn: 630608707
+  dob: 11-28-1951
+  address: 3262 Park Ln
+  city: Los Angeles
+  state: FL

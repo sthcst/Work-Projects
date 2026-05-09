@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Guerrero",
+    "email": "cynthia.guerrero431@company.com",
+    "phone": "+1 448-205-1512",
+    "ssn": "281163623",
+    "dob": "08-06-1990",
+    "address": "2632 Spring Dr",
+    "city": "San Antonio",
+    "state": "MO"
+  }
+}

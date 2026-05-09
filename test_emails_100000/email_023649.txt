@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Serrano
+  email: timothy.serrano7864@example.com
+  phone: (726) 984-6444
+  ssn: 243805772
+  dob: 12/15/1954
+  address: 3801 East Blvd
+  city: New York
+  state: TN

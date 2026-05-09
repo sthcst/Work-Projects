@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Jones",
+    "email": "brenda.jones4942@yahoo.com",
+    "phone": "766 349 1010",
+    "ssn": "906523922",
+    "dob": "12/25/1956",
+    "address": "9927 West Court",
+    "city": "Los Angeles",
+    "state": "GA"
+  }
+}

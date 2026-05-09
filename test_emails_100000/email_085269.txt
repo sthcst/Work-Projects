@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Hall,nicole.hall5772@yahoo.com,431-805-8895,704248692,14/05/1958,"4849 Oak Dr",Jacksonville,CO

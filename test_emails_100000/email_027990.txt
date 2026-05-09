@@ -1,0 +1,9 @@
+contact:
+  name: John Ramirez
+  email: john.ramirez3930@gmail.com
+  phone: 426 900 3137
+  ssn: 324 24 9764
+  dob: 06-10-1978
+  address: 2047 Birch Way
+  city: San Jose
+  state: WI

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Anderson",
+    "email": "emily.anderson9334@mail.com",
+    "phone": "629 863 4847",
+    "ssn": "348-96-9868",
+    "dob": "05-21-1997",
+    "address": "485 Sixth Dr",
+    "city": "Austin",
+    "state": "WA"
+  }
+}

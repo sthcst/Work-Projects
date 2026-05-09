@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Guerrero,david.guerrero2161@business.net,963 512 3566,358031301,06/19/1956,"2824 Fifth Court",Phoenix,MA

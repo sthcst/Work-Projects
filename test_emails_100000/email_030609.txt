@@ -1,0 +1,14 @@
+INVOICE 201196
+
+Bill To:
+Name: Michael Young
+Email: michael.young7809@company.com
+Phone: 387-651-1680
+SSN: 628 57 9950
+
+Address: 7870 Fourth Ave
+Washington, TX
+
+Date of Birth: 12/06/1981
+
+Amount Due: $5206

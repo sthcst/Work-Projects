@@ -1,0 +1,14 @@
+INVOICE 424247
+
+Bill To:
+Name: Charles Roberts
+Email: charles.roberts2214@company.com
+Phone: 457-447-9326
+SSN: 964-56-4675
+
+Address: 8339 Summer Court
+San Antonio, IL
+
+Date of Birth: 12/27/1987
+
+Amount Due: $5347

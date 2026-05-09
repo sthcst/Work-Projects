@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Gomez,nicole.gomez3775@business.net,(567) 779-4187,339977902,03/19/1991,"5753 East Rd",Seattle,FL

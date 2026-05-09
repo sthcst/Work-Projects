@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Peterson",
+    "email": "katherine.peterson6400@gmail.com",
+    "phone": "523 627 9979",
+    "ssn": "604-30-2384",
+    "dob": "07-22-2002",
+    "address": "6081 First Way",
+    "city": "Washington",
+    "state": "WI"
+  }
+}

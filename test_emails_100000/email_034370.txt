@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Martin",
+    "email": "paul.martin19@business.net",
+    "phone": "(607) 773-7040",
+    "ssn": "368 87 3986",
+    "dob": "17/05/1989",
+    "address": "7271 Third Ln",
+    "city": "Denver",
+    "state": "FL"
+  }
+}

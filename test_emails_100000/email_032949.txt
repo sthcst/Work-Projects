@@ -1,0 +1,14 @@
+INVOICE 319680
+
+Bill To:
+Name: Sarah Brown
+Email: sarah.brown4470@example.com
+Phone: 750 496 2329
+SSN: 453059566
+
+Address: 519 First Rd
+Los Angeles, WI
+
+Date of Birth: 10/5/1955
+
+Amount Due: $7347

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Miller,jeffrey.miller9581@work.org,(329) 547-1940,377-58-8331,14/06/1964,"6563 Fifth Ln",Philadelphia,TX

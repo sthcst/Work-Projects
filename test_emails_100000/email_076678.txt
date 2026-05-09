@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Flores,steven.flores5767@work.org,331-943-2728,036925692,4/7/1966,"3479 Summer Rd",Seattle,GA

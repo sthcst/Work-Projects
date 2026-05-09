@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Lopez,kevin.lopez6056@work.org,(288) 728-9107,428-97-2601,2/19/1994,"8656 Spring Ln",Washington,WA

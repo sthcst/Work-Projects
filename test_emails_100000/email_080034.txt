@@ -1,0 +1,9 @@
+contact:
+  name: Mark White
+  email: mark.white3995@work.org
+  phone: 502 708 8493
+  ssn: 278-28-7214
+  dob: 6/25/1956
+  address: 7722 Sixth Blvd
+  city: Los Angeles
+  state: AZ

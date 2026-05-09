@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Robinson,katherine.robinson3247@company.com,(727) 278-4046,620 36 7392,18/04/1972,"7504 Cedar Dr",Denver,NC

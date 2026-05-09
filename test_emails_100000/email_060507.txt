@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Martin",
+    "email": "david.martin2346@company.com",
+    "phone": "555 445 7253",
+    "ssn": "633652140",
+    "dob": "06/09/1969",
+    "address": "8594 West Way",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

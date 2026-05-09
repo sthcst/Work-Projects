@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Serrano",
+    "email": "richard.serrano6485@example.com",
+    "phone": "+1 916-645-6377",
+    "ssn": "581-17-7967",
+    "dob": "11/28/2002",
+    "address": "8209 Spring Dr",
+    "city": "Phoenix",
+    "state": "NC"
+  }
+}

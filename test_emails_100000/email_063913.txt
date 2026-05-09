@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Carter",
+    "email": "jason.carter9632@business.net",
+    "phone": "236 507 4203",
+    "ssn": "810121478",
+    "dob": "24/02/1984",
+    "address": "9474 Third Ln",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

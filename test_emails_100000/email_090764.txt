@@ -1,0 +1,9 @@
+contact:
+  name: Michael White
+  email: michael.white198@yahoo.com
+  phone: 967 401 1673
+  ssn: 799 39 2240
+  dob: 06/10/2003
+  address: 9888 Maple Ave
+  city: Denver
+  state: OH

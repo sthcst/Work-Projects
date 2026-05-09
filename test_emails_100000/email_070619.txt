@@ -1,0 +1,9 @@
+contact:
+  name: Gary Thompson
+  email: gary.thompson7601@outlook.com
+  phone: (523) 294-5845
+  ssn: 456 83 3375
+  dob: 09/13/1966
+  address: 842 First Way
+  city: Washington
+  state: WA

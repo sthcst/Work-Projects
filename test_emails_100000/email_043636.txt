@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Cooper,daniel.cooper7700@mail.com,+1 548-231-6131,835-44-4282,02-10-1987,"3763 Second Ln",Houston,TX

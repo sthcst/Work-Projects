@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Rodriguez,charles.rodriguez4135@example.com,828-512-3741,860 61 1399,10/26/1965,"1294 South Court",New York,TX

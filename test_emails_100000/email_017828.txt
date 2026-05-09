@@ -1,0 +1,14 @@
+INVOICE 532526
+
+Bill To:
+Name: Richard Moore
+Email: richard.moore3844@mail.com
+Phone: 391 489 8311
+SSN: 035139577
+
+Address: 6928 Maple Rd
+San Jose, AZ
+
+Date of Birth: 18/04/1978
+
+Amount Due: $5866

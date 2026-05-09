@@ -1,0 +1,9 @@
+contact:
+  name: Gary Nelson
+  email: gary.nelson5315@gmail.com
+  phone: 350-536-1488
+  ssn: 094-69-2162
+  dob: 01-26-1983
+  address: 743 Oak Dr
+  city: San Antonio
+  state: TX

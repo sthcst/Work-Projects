@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Sanchez
+  email: ronald.sanchez3854@example.com
+  phone: 203 810 9359
+  ssn: 430 49 6405
+  dob: 11/9/1969
+  address: 6589 North Ln
+  city: Boston
+  state: FL

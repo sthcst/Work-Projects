@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Walker
+  email: kimberly.walker3575@yahoo.com
+  phone: (888) 232-2950
+  ssn: 945-10-3797
+  dob: 03/12/1999
+  address: 9996 Third Rd
+  city: Philadelphia
+  state: CO

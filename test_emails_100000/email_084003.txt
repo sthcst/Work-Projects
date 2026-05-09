@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Williams",
+    "email": "jeffrey.williams1822@gmail.com",
+    "phone": "+1 946-463-5372",
+    "ssn": "310-84-8265",
+    "dob": "11/19/1963",
+    "address": "5009 West Ln",
+    "city": "Houston",
+    "state": "TN"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Guerrero,anthony.guerrero6289@company.com,497-872-2504,523 77 4332,07/07/1985,"5804 West Ln",San Antonio,GA

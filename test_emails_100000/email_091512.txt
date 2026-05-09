@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Roberts",
+    "email": "jason.roberts3641@work.org",
+    "phone": "+1 277-692-5646",
+    "ssn": "554-07-2766",
+    "dob": "09/05/2003",
+    "address": "2011 Oak Ave",
+    "city": "Philadelphia",
+    "state": "CA"
+  }
+}

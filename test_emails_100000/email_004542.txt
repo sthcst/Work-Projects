@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Hernandez,edward.hernandez1241@gmail.com,487-291-6271,174014702,9/5/1986,"6730 North Court",Houston,WI

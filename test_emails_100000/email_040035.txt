@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Moore
+  email: rachel.moore6306@gmail.com
+  phone: 553 396 4235
+  ssn: 522 90 1491
+  dob: 22/07/1958
+  address: 59 Cedar St
+  city: Boston
+  state: IL

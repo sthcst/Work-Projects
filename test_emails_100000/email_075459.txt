@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Lopez,maria.lopez2678@mail.com,(304) 680-7921,191449026,08/05/1987,"9478 Main St",Chicago,TN

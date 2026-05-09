@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Brown",
+    "email": "james.brown4986@example.com",
+    "phone": "+1 350-975-5015",
+    "ssn": "099 98 9794",
+    "dob": "11/19/1975",
+    "address": "5644 Summer Court",
+    "city": "Phoenix",
+    "state": "TN"
+  }
+}

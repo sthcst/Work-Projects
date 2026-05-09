@@ -1,0 +1,9 @@
+contact:
+  name: Maria Parker
+  email: maria.parker2447@outlook.com
+  phone: 335 548 8483
+  ssn: 523 26 7617
+  dob: 12/13/1962
+  address: 9674 Birch Blvd
+  city: Jacksonville
+  state: AZ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Smith",
+    "email": "george.smith6705@outlook.com",
+    "phone": "(624) 582-5108",
+    "ssn": "886-04-3769",
+    "dob": "06-13-1987",
+    "address": "2654 Cedar Blvd",
+    "city": "Denver",
+    "state": "FL"
+  }
+}

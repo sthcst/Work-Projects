@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Reed",
+    "email": "angela.reed5919@outlook.com",
+    "phone": "(876) 724-6935",
+    "ssn": "887803930",
+    "dob": "09/10/1961",
+    "address": "7237 Fifth St",
+    "city": "Philadelphia",
+    "state": "CA"
+  }
+}

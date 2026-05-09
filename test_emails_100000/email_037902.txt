@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Alvarado",
+    "email": "jason.alvarado7212@work.org",
+    "phone": "+1 570-469-9716",
+    "ssn": "131 42 2163",
+    "dob": "28/03/1985",
+    "address": "6055 South Blvd",
+    "city": "Dallas",
+    "state": "WA"
+  }
+}

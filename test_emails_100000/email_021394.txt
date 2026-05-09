@@ -1,0 +1,9 @@
+contact:
+  name: Mark Flores
+  email: mark.flores8067@gmail.com
+  phone: 535-214-9246
+  ssn: 591 38 6633
+  dob: 1/21/1989
+  address: 7110 Park St
+  city: New York
+  state: FL

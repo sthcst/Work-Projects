@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Parker",
+    "email": "ryan.parker6785@outlook.com",
+    "phone": "243-764-7237",
+    "ssn": "287 90 4572",
+    "dob": "6/22/1986",
+    "address": "7914 Fourth Rd",
+    "city": "New York",
+    "state": "CO"
+  }
+}

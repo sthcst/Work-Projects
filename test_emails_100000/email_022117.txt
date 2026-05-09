@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Flores,donald.flores5136@gmail.com,(488) 341-6037,549-91-7360,04-14-1962,"6215 Summer Court",Austin,TX

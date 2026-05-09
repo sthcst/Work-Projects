@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Lopez",
+    "email": "kimberly.lopez4007@gmail.com",
+    "phone": "(793) 822-6011",
+    "ssn": "116075810",
+    "dob": "3/18/1975",
+    "address": "1028 Pine Way",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

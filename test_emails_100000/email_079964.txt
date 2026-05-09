@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Edwards
+  email: timothy.edwards811@business.net
+  phone: 738 277 5852
+  ssn: 266-87-7397
+  dob: 14/08/1996
+  address: 992 Sixth Ave
+  city: Seattle
+  state: GA

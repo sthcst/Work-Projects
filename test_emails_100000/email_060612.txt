@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Walker
+  email: ashley.walker5073@example.com
+  phone: +1 510-264-7543
+  ssn: 649607258
+  dob: 04-01-1962
+  address: 7990 Maple Blvd
+  city: San Jose
+  state: WA

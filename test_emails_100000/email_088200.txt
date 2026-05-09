@@ -1,0 +1,9 @@
+contact:
+  name: Edward Flores
+  email: edward.flores6429@work.org
+  phone: (455) 447-4393
+  ssn: 258385597
+  dob: 12/26/2001
+  address: 2925 North Dr
+  city: Boston
+  state: TX

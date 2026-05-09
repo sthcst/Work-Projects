@@ -1,0 +1,14 @@
+INVOICE 985081
+
+Bill To:
+Name: George Taylor
+Email: george.taylor5509@business.net
+Phone: (745) 651-7925
+SSN: 480 34 8464
+
+Address: 328 North Court
+Chicago, IL
+
+Date of Birth: 6/11/1953
+
+Amount Due: $8250

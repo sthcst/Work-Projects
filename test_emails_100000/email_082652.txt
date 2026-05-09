@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Ortiz,sarah.ortiz5710@gmail.com,227 956 7102,710-46-2968,05/15/1973,"7901 Birch St",Chicago,NY

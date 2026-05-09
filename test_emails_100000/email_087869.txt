@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Campbell",
+    "email": "christine.campbell7941@business.net",
+    "phone": "+1 449-838-5443",
+    "ssn": "592-50-4840",
+    "dob": "11/17/1959",
+    "address": "2949 Cedar Ave",
+    "city": "San Antonio",
+    "state": "FL"
+  }
+}

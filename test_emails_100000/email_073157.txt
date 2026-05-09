@@ -1,0 +1,9 @@
+contact:
+  name: Richard Miller
+  email: richard.miller3282@business.net
+  phone: +1 788-402-4360
+  ssn: 166861499
+  dob: 03/12/2005
+  address: 3871 Second Rd
+  city: San Diego
+  state: CA

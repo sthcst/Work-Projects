@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Roberts",
+    "email": "william.roberts7410@gmail.com",
+    "phone": "(810) 229-4242",
+    "ssn": "474096216",
+    "dob": "11/12/1960",
+    "address": "4430 Cedar Way",
+    "city": "San Antonio",
+    "state": "WI"
+  }
+}

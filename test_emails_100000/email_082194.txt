@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Wilson",
+    "email": "steven.wilson9316@outlook.com",
+    "phone": "527-501-3853",
+    "ssn": "310-63-6844",
+    "dob": "22/08/2000",
+    "address": "3681 North Court",
+    "city": "Austin",
+    "state": "FL"
+  }
+}

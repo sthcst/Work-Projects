@@ -1,0 +1,9 @@
+contact:
+  name: George Alvarado
+  email: george.alvarado8375@example.com
+  phone: 647-807-7800
+  ssn: 064769535
+  dob: 06/20/1951
+  address: 2818 Elm Dr
+  city: Philadelphia
+  state: FL

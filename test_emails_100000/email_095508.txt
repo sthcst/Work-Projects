@@ -1,0 +1,9 @@
+contact:
+  name: Robert Campbell
+  email: robert.campbell8516@company.com
+  phone: +1 375-608-4867
+  ssn: 972819892
+  dob: 08/10/1956
+  address: 624 Summer St
+  city: Washington
+  state: FL

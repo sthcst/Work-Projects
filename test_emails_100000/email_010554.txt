@@ -1,0 +1,14 @@
+INVOICE 689288
+
+Bill To:
+Name: Samantha Carter
+Email: samantha.carter2950@business.net
+Phone: 897 206 9624
+SSN: 845062463
+
+Address: 4232 Elm St
+Washington, AZ
+
+Date of Birth: 1/8/1955
+
+Amount Due: $3866

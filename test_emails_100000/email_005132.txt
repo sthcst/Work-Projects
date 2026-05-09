@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Rodriguez
+  email: christopher.rodriguez6006@example.com
+  phone: (439) 653-8576
+  ssn: 207 22 8140
+  dob: 02-27-1964
+  address: 6196 South Ln
+  city: Los Angeles
+  state: TX

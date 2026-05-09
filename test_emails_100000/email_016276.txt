@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Cooper",
+    "email": "angela.cooper2855@business.net",
+    "phone": "805 312 2222",
+    "ssn": "488885662",
+    "dob": "02-16-1988",
+    "address": "6996 East Blvd",
+    "city": "Dallas",
+    "state": "NJ"
+  }
+}

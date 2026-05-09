@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Ortiz
+  email: rebecca.ortiz5441@example.com
+  phone: 972-833-1918
+  ssn: 048848139
+  dob: 24/06/1990
+  address: 6749 Cedar Way
+  city: Austin
+  state: CA

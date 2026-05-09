@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Edwards",
+    "email": "mark.edwards3558@business.net",
+    "phone": "882 449 1507",
+    "ssn": "777-11-1359",
+    "dob": "07-15-1965",
+    "address": "1635 Oak Ln",
+    "city": "San Antonio",
+    "state": "NY"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Jones
+  email: nicholas.jones1684@company.com
+  phone: +1 443-546-9123
+  ssn: 046981058
+  dob: 04-13-2005
+  address: 2953 Fourth Blvd
+  city: San Antonio
+  state: AZ

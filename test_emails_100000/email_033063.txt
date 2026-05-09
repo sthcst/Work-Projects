@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Taylor,gary.taylor6391@example.com,335-686-3247,886 58 2499,03/13/1969,"5644 West Way",Seattle,CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Gomez",
+    "email": "lauren.gomez2742@company.com",
+    "phone": "725 902 3984",
+    "ssn": "715-46-7248",
+    "dob": "3/13/1983",
+    "address": "2937 Second Dr",
+    "city": "New York",
+    "state": "DC"
+  }
+}

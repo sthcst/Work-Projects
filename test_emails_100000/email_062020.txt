@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Jimenez",
+    "email": "ronald.jimenez8092@gmail.com",
+    "phone": "(875) 761-8884",
+    "ssn": "524454874",
+    "dob": "08-02-2004",
+    "address": "6998 Sixth St",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}

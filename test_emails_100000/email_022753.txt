@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Phillips
+  email: sarah.phillips4045@example.com
+  phone: 608-542-1851
+  ssn: 376 02 4993
+  dob: 06-28-1984
+  address: 3468 Second Dr
+  city: Phoenix
+  state: CA

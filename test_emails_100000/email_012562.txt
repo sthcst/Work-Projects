@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Stewart",
+    "email": "michael.stewart3871@company.com",
+    "phone": "+1 262-278-3684",
+    "ssn": "739394860",
+    "dob": "07/20/1961",
+    "address": "594 Birch Ln",
+    "city": "San Antonio",
+    "state": "AZ"
+  }
+}

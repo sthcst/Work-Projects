@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Cooper",
+    "email": "david.cooper1585@business.net",
+    "phone": "207-381-9256",
+    "ssn": "487514699",
+    "dob": "03-04-1963",
+    "address": "9215 Elm Ave",
+    "city": "San Diego",
+    "state": "CO"
+  }
+}

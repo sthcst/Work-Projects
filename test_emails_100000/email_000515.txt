@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Evans",
+    "email": "helen.evans7369@example.com",
+    "phone": "+1 776-602-7834",
+    "ssn": "006-98-7620",
+    "dob": "7/12/1991",
+    "address": "7495 Spring St",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

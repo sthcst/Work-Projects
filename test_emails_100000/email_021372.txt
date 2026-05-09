@@ -1,0 +1,14 @@
+INVOICE 414811
+
+Bill To:
+Name: Paul Miller
+Email: paul.miller3510@mail.com
+Phone: (579) 557-7063
+SSN: 632-48-2997
+
+Address: 4539 Third St
+Jacksonville, TN
+
+Date of Birth: 14/02/1982
+
+Amount Due: $4172

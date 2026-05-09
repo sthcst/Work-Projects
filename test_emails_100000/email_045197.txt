@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Serrano",
+    "email": "samantha.serrano6903@example.com",
+    "phone": "+1 518-372-5393",
+    "ssn": "102-76-9913",
+    "dob": "14/07/1950",
+    "address": "3660 Summer Rd",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

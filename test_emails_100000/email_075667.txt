@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Campbell",
+    "email": "brenda.campbell9312@outlook.com",
+    "phone": "+1 400-748-4588",
+    "ssn": "750-14-2389",
+    "dob": "10-24-1989",
+    "address": "9985 Pine Ave",
+    "city": "San Diego",
+    "state": "FL"
+  }
+}

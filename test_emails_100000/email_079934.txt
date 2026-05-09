@@ -1,0 +1,9 @@
+contact:
+  name: David Romero
+  email: david.romero7561@work.org
+  phone: +1 278-449-3521
+  ssn: 606-27-8877
+  dob: 09/21/1988
+  address: 7435 Fifth St
+  city: New York
+  state: NJ

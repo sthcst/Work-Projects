@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Parker,deborah.parker177@company.com,+1 449-606-5318,749624161,04/20/1960,"4865 North Ave",Philadelphia,TX

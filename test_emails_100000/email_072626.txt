@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Morris
+  email: sarah.morris5705@business.net
+  phone: (527) 772-1949
+  ssn: 306 35 5424
+  dob: 01/09/1976
+  address: 7060 Third Way
+  city: Chicago
+  state: MI

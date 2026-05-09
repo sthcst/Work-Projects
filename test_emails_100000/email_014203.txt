@@ -1,0 +1,9 @@
+contact:
+  name: James Ramirez
+  email: james.ramirez5513@business.net
+  phone: 631 321 1228
+  ssn: 688-12-1866
+  dob: 20/01/2000
+  address: 5847 Third Way
+  city: San Antonio
+  state: TX

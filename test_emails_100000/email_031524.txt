@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Brown",
+    "email": "kevin.brown1899@example.com",
+    "phone": "(365) 450-1964",
+    "ssn": "786 50 1891",
+    "dob": "05/07/1999",
+    "address": "3723 East Ln",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Nunez
+  email: rachel.nunez7730@example.com
+  phone: +1 786-811-2094
+  ssn: 277-92-3236
+  dob: 15/03/1984
+  address: 8525 Birch Dr
+  city: San Diego
+  state: GA

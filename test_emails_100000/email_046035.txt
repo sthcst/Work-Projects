@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Guerrero",
+    "email": "angela.guerrero9575@example.com",
+    "phone": "228 499 5302",
+    "ssn": "470578999",
+    "dob": "17/10/1969",
+    "address": "6971 Park St",
+    "city": "San Antonio",
+    "state": "MO"
+  }
+}

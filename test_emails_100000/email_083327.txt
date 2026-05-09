@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Flores",
+    "email": "anna.flores2251@business.net",
+    "phone": "(488) 202-5435",
+    "ssn": "358378465",
+    "dob": "05-03-2004",
+    "address": "16 Third St",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

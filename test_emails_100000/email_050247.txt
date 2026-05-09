@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Young",
+    "email": "gary.young6321@gmail.com",
+    "phone": "597-440-5028",
+    "ssn": "685-37-7348",
+    "dob": "10/20/1988",
+    "address": "5970 Second Ave",
+    "city": "Jacksonville",
+    "state": "PA"
+  }
+}

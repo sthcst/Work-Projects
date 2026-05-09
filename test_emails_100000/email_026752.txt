@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Harris",
+    "email": "jacob.harris5510@company.com",
+    "phone": "713 587 6570",
+    "ssn": "709-32-6654",
+    "dob": "04-08-1977",
+    "address": "7680 Oak St",
+    "city": "Austin",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Robinson
+  email: amanda.robinson4789@yahoo.com
+  phone: 903 770 9314
+  ssn: 822-97-4480
+  dob: 09/10/1957
+  address: 524 Maple Dr
+  city: San Jose
+  state: MA

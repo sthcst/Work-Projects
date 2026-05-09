@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Romero,ryan.romero9688@gmail.com,612-876-4735,065 22 9081,06-17-1980,"3017 Main Ave",Seattle,MA

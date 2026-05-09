@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Rodriguez,ronald.rodriguez8507@work.org,456-599-8178,381-09-3518,12/04/1996,"1201 Park Court",Austin,TN

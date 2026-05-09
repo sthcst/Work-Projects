@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Romero",
+    "email": "angela.romero9602@company.com",
+    "phone": "832-691-4886",
+    "ssn": "584887173",
+    "dob": "03/28/1952",
+    "address": "3516 Cedar Dr",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

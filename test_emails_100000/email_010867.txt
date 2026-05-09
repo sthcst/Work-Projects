@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Gonzalez,ashley.gonzalez4344@gmail.com,+1 930-374-7442,890-11-6240,09/28/2002,"3013 Maple Rd",Boston,WI

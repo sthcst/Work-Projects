@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Martin,katherine.martin7176@yahoo.com,+1 553-581-8428,487 73 2543,03-02-1951,"509 Oak Way",Seattle,CO

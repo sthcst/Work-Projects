@@ -1,0 +1,14 @@
+INVOICE 765454
+
+Bill To:
+Name: Angela Garcia
+Email: angela.garcia4870@yahoo.com
+Phone: (208) 778-4040
+SSN: 913763939
+
+Address: 7143 Pine Ln
+Seattle, IL
+
+Date of Birth: 4/25/1960
+
+Amount Due: $7199

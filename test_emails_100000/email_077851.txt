@@ -1,0 +1,14 @@
+INVOICE 496787
+
+Bill To:
+Name: Kimberly Johnson
+Email: kimberly.johnson3269@company.com
+Phone: 943 508 6622
+SSN: 453 76 2252
+
+Address: 6845 North Rd
+New York, FL
+
+Date of Birth: 15/09/1985
+
+Amount Due: $531

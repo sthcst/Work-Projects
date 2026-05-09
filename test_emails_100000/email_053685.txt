@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Campbell,maria.campbell9897@yahoo.com,493-496-2004,584-03-9306,8/1/1950,"608 South Ave",Phoenix,FL

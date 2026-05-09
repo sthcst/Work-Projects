@@ -1,0 +1,14 @@
+INVOICE 915810
+
+Bill To:
+Name: Kevin Alvarado
+Email: kevin.alvarado6076@example.com
+Phone: (706) 857-6565
+SSN: 083-51-5525
+
+Address: 4127 East Dr
+Denver, CA
+
+Date of Birth: 28/01/1986
+
+Amount Due: $8059

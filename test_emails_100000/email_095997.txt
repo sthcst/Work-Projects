@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Edwards",
+    "email": "jacob.edwards6840@company.com",
+    "phone": "665 858 6843",
+    "ssn": "763887949",
+    "dob": "02-21-1992",
+    "address": "5636 Spring Rd",
+    "city": "New York",
+    "state": "CA"
+  }
+}

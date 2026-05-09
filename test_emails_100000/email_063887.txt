@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Hernandez
+  email: nicholas.hernandez665@business.net
+  phone: 429 524 3430
+  ssn: 567 38 5564
+  dob: 05/23/1995
+  address: 7317 Sixth Rd
+  city: Chicago
+  state: MO

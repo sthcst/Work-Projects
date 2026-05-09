@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Smith,cynthia.smith214@example.com,667 826 6883,251-97-3741,02-09-1991,"1416 Birch Rd",Dallas,CO

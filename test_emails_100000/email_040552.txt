@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Jackson,james.jackson8474@gmail.com,696-896-1855,996 30 3246,06/23/2002,"4769 Park Ln",Denver,FL

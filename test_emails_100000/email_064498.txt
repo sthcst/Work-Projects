@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Jackson,rebecca.jackson8893@company.com,(832) 902-6988,849454355,03/02/1989,"6639 Third Ave",Phoenix,AZ

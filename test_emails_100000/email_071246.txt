@@ -1,0 +1,14 @@
+INVOICE 727745
+
+Bill To:
+Name: Jessica Evans
+Email: jessica.evans6046@company.com
+Phone: +1 397-802-3424
+SSN: 739667354
+
+Address: 4325 Cedar St
+Phoenix, CA
+
+Date of Birth: 19/12/1985
+
+Amount Due: $217

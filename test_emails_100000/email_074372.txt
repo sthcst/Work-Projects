@@ -1,0 +1,9 @@
+contact:
+  name: Edward Serrano
+  email: edward.serrano1009@outlook.com
+  phone: +1 636-274-8447
+  ssn: 250 70 6587
+  dob: 05/04/1988
+  address: 5023 Cedar Dr
+  city: Denver
+  state: FL

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Guerrero,christine.guerrero4126@gmail.com,+1 315-833-1398,642183279,09/10/1959,"15 Maple Blvd",Denver,MI

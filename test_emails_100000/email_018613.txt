@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Flores",
+    "email": "jeffrey.flores1852@gmail.com",
+    "phone": "930-553-4356",
+    "ssn": "723416175",
+    "dob": "24/03/1973",
+    "address": "4732 Elm Ave",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

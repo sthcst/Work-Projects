@@ -1,0 +1,14 @@
+INVOICE 744577
+
+Bill To:
+Name: Stephanie Cooper
+Email: stephanie.cooper5550@example.com
+Phone: (659) 707-9587
+SSN: 478-31-1443
+
+Address: 6797 Summer Rd
+Seattle, AZ
+
+Date of Birth: 10/08/1993
+
+Amount Due: $6117

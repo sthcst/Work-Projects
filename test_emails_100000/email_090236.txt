@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Thomas",
+    "email": "samantha.thomas5637@work.org",
+    "phone": "202 528 2992",
+    "ssn": "994-41-9506",
+    "dob": "23/06/1985",
+    "address": "9409 Maple Ln",
+    "city": "Los Angeles",
+    "state": "NJ"
+  }
+}

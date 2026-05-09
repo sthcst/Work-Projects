@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Rogers",
+    "email": "jennifer.rogers9486@mail.com",
+    "phone": "880-844-3508",
+    "ssn": "282 82 2291",
+    "dob": "12/17/1957",
+    "address": "8503 First Blvd",
+    "city": "Washington",
+    "state": "MA"
+  }
+}

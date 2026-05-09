@@ -1,0 +1,14 @@
+INVOICE 754935
+
+Bill To:
+Name: Paul Sanchez
+Email: paul.sanchez9921@company.com
+Phone: +1 671-754-9586
+SSN: 202 21 3605
+
+Address: 389 Birch Way
+San Diego, MA
+
+Date of Birth: 04/27/1999
+
+Amount Due: $4568

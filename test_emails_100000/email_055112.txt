@@ -1,0 +1,9 @@
+contact:
+  name: Jane Wilson
+  email: jane.wilson8495@gmail.com
+  phone: 881 280 1056
+  ssn: 408299216
+  dob: 10/07/1959
+  address: 9649 North Court
+  city: Jacksonville
+  state: CA

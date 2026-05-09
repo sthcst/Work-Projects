@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Cooper,nicole.cooper6485@work.org,(405) 417-6633,557-71-3476,04-19-1961,"3333 Fifth Rd",Houston,IL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Brown",
+    "email": "joseph.brown7821@company.com",
+    "phone": "286-980-7914",
+    "ssn": "434 44 4431",
+    "dob": "12-16-1996",
+    "address": "1732 Fourth Blvd",
+    "city": "Boston",
+    "state": "NJ"
+  }
+}

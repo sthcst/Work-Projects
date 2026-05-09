@@ -1,0 +1,14 @@
+INVOICE 868681
+
+Bill To:
+Name: David Jackson
+Email: david.jackson4693@example.com
+Phone: 687 762 1085
+SSN: 571 45 7513
+
+Address: 1300 Fifth Way
+Chicago, FL
+
+Date of Birth: 12/11/1959
+
+Amount Due: $1561

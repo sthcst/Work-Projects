@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Romero",
+    "email": "richard.romero7632@gmail.com",
+    "phone": "+1 463-910-9993",
+    "ssn": "274 96 7297",
+    "dob": "07/17/1998",
+    "address": "6022 Sixth Way",
+    "city": "Dallas",
+    "state": "NC"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Murillo
+  email: nicholas.murillo361@example.com
+  phone: 910 785 9715
+  ssn: 116 46 9429
+  dob: 11/20/1964
+  address: 265 Cedar St
+  city: San Diego
+  state: TN

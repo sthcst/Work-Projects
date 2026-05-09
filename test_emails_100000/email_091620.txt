@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Bell
+  email: katherine.bell1415@outlook.com
+  phone: 765-827-7168
+  ssn: 699 03 3566
+  dob: 01/09/1953
+  address: 148 Pine St
+  city: San Jose
+  state: TN

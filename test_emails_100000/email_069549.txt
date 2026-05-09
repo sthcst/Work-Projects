@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Hall",
+    "email": "daniel.hall4498@outlook.com",
+    "phone": "525 904 1143",
+    "ssn": "615 47 7654",
+    "dob": "09/06/1957",
+    "address": "6744 Third Blvd",
+    "city": "New York",
+    "state": "FL"
+  }
+}

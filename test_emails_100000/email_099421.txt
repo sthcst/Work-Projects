@@ -1,0 +1,9 @@
+contact:
+  name: Angela Martinez
+  email: angela.martinez8226@business.net
+  phone: 540 498 4204
+  ssn: 871399521
+  dob: 04-23-1959
+  address: 8519 Park St
+  city: San Jose
+  state: MO

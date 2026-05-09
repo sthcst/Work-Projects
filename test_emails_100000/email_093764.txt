@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Sanchez,emily.sanchez2904@gmail.com,+1 218-321-8372,735936653,03/28/1957,"3942 Pine St",San Antonio,WI

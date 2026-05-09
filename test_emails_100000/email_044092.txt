@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Wilson",
+    "email": "james.wilson7741@business.net",
+    "phone": "309-407-3980",
+    "ssn": "006 39 9604",
+    "dob": "10-07-1988",
+    "address": "5281 Summer Ln",
+    "city": "Denver",
+    "state": "MI"
+  }
+}

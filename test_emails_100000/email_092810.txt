@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Perez",
+    "email": "gary.perez4868@example.com",
+    "phone": "+1 395-354-8423",
+    "ssn": "700-28-9519",
+    "dob": "09/10/1984",
+    "address": "6345 South Rd",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 702044
+
+Bill To:
+Name: Samantha Nunez
+Email: samantha.nunez4750@company.com
+Phone: +1 883-883-7006
+SSN: 415 14 7879
+
+Address: 6549 Fifth Rd
+Phoenix, AZ
+
+Date of Birth: 20/02/1979
+
+Amount Due: $2794

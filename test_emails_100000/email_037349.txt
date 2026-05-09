@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Anderson",
+    "email": "james.anderson3909@company.com",
+    "phone": "(995) 287-3454",
+    "ssn": "184 87 5408",
+    "dob": "12/26/1966",
+    "address": "1724 North Ln",
+    "city": "Washington",
+    "state": "FL"
+  }
+}

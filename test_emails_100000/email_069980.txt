@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Johnson
+  email: ronald.johnson1254@mail.com
+  phone: 738 440 2709
+  ssn: 204-76-5109
+  dob: 27/06/1961
+  address: 8287 Fifth Ave
+  city: San Jose
+  state: WI

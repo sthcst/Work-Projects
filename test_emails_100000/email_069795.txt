@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Lopez
+  email: kathleen.lopez1164@gmail.com
+  phone: 212 594 9415
+  ssn: 726-57-1538
+  dob: 01/17/1959
+  address: 1235 Main Court
+  city: San Diego
+  state: WA

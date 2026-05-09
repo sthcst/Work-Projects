@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Ortiz,gary.ortiz6203@yahoo.com,934-679-2816,864 44 4392,11/7/1950,"5975 Fourth Way",Boston,WI

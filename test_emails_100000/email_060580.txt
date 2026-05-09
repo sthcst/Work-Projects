@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Romero",
+    "email": "angela.romero8574@gmail.com",
+    "phone": "+1 987-526-2079",
+    "ssn": "122 64 8600",
+    "dob": "02-04-1973",
+    "address": "9522 Summer Blvd",
+    "city": "Seattle",
+    "state": "AZ"
+  }
+}

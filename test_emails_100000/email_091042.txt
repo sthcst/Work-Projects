@@ -1,0 +1,14 @@
+INVOICE 510618
+
+Bill To:
+Name: Michelle Johnson
+Email: michelle.johnson140@business.net
+Phone: 462-205-2543
+SSN: 579-86-1863
+
+Address: 110 Fourth Rd
+Los Angeles, WA
+
+Date of Birth: 12/07/1999
+
+Amount Due: $3390

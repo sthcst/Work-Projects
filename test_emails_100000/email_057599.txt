@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Miller
+  email: deborah.miller9905@yahoo.com
+  phone: (793) 814-7078
+  ssn: 082-54-3619
+  dob: 21/11/1967
+  address: 8170 North Way
+  city: Denver
+  state: IL

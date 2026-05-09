@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Alvarado",
+    "email": "charles.alvarado6006@outlook.com",
+    "phone": "392-753-7874",
+    "ssn": "572-86-3910",
+    "dob": "27/10/1978",
+    "address": "7234 Summer Way",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

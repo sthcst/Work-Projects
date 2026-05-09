@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Thomas,helen.thomas8666@company.com,777 535 9606,167 02 7410,06/19/2005,"7964 Cedar Way",Austin,GA

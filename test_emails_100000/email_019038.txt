@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Evans
+  email: pamela.evans1791@work.org
+  phone: (682) 250-4967
+  ssn: 051201532
+  dob: 12/16/1980
+  address: 180 Third St
+  city: Denver
+  state: MA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Edwards",
+    "email": "cynthia.edwards1093@yahoo.com",
+    "phone": "255-816-1599",
+    "ssn": "186-16-3039",
+    "dob": "03-11-1965",
+    "address": "9745 Third St",
+    "city": "San Diego",
+    "state": "WI"
+  }
+}

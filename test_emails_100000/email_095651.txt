@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Morgan
+  email: daniel.morgan5766@business.net
+  phone: (696) 541-6286
+  ssn: 188-76-6426
+  dob: 25/09/1983
+  address: 523 Park Dr
+  city: Phoenix
+  state: IL

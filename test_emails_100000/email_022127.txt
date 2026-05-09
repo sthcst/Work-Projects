@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Hall",
+    "email": "donald.hall5298@work.org",
+    "phone": "454-979-1997",
+    "ssn": "752-73-1663",
+    "dob": "1/2/1967",
+    "address": "5025 Sixth Rd",
+    "city": "Jacksonville",
+    "state": "WA"
+  }
+}

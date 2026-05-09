@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Davis,christine.davis7076@gmail.com,615 768 8348,098 66 9734,8/24/2002,"16 Elm Rd",Houston,AZ

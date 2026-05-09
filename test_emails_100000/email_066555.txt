@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Walker
+  email: kevin.walker4080@outlook.com
+  phone: (567) 949-6423
+  ssn: 731 40 3140
+  dob: 11/05/1954
+  address: 3926 First Dr
+  city: Jacksonville
+  state: AZ

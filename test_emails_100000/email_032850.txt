@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Gonzalez,timothy.gonzalez8090@business.net,672-358-5813,323155074,12/15/1956,"1249 Pine Court",New York,CO

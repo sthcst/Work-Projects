@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Lewis
+  email: brenda.lewis8174@company.com
+  phone: 951-528-3696
+  ssn: 233-65-9852
+  dob: 07/05/2002
+  address: 5304 Elm Way
+  city: Los Angeles
+  state: MD

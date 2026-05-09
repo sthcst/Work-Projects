@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Carter,sarah.carter3807@mail.com,956-519-3095,876 26 1052,06/04/1977,"3397 West Court",San Antonio,WA

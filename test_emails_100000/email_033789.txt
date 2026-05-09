@@ -1,0 +1,9 @@
+contact:
+  name: Jane Thompson
+  email: jane.thompson1634@example.com
+  phone: 308-343-3399
+  ssn: 902 18 7030
+  dob: 07/08/1971
+  address: 8597 Pine Dr
+  city: Phoenix
+  state: MO

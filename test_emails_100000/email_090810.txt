@@ -1,0 +1,14 @@
+INVOICE 733349
+
+Bill To:
+Name: Kevin Thompson
+Email: kevin.thompson6206@example.com
+Phone: 700 631 7014
+SSN: 759196477
+
+Address: 2356 Birch Rd
+Austin, NC
+
+Date of Birth: 02-25-1956
+
+Amount Due: $5980

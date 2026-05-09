@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Edwards",
+    "email": "nicole.edwards3750@business.net",
+    "phone": "609-727-1365",
+    "ssn": "542212951",
+    "dob": "03/08/1965",
+    "address": "5673 Maple Way",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

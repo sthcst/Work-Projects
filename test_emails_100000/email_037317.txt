@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Wilson,jennifer.wilson3641@gmail.com,+1 554-399-3409,305 37 4154,06/05/1961,"9283 Maple Dr",Denver,MA

@@ -1,0 +1,14 @@
+INVOICE 867107
+
+Bill To:
+Name: George Taylor
+Email: george.taylor8393@mail.com
+Phone: 806 818 5821
+SSN: 714-20-9046
+
+Address: 8931 Fourth Rd
+Dallas, FL
+
+Date of Birth: 12/06/1981
+
+Amount Due: $7796

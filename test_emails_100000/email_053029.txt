@@ -1,0 +1,14 @@
+INVOICE 333440
+
+Bill To:
+Name: Nicholas Thompson
+Email: nicholas.thompson9055@example.com
+Phone: 890-771-5470
+SSN: 095568024
+
+Address: 4922 Fourth Court
+Denver, DC
+
+Date of Birth: 05/19/1980
+
+Amount Due: $3851

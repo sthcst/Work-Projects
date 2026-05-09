@@ -1,0 +1,9 @@
+contact:
+  name: Robert Gonzalez
+  email: robert.gonzalez4382@mail.com
+  phone: 505 330 7287
+  ssn: 881873216
+  dob: 07/02/1968
+  address: 1852 Cedar Ave
+  city: Austin
+  state: CA

@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Ramirez
+  email: joshua.ramirez3039@mail.com
+  phone: 544 496 7137
+  ssn: 993-45-4449
+  dob: 02/28/1993
+  address: 3299 Fourth Way
+  city: Washington
+  state: NY

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Phillips",
+    "email": "christine.phillips9965@company.com",
+    "phone": "(774) 217-6749",
+    "ssn": "003 51 7348",
+    "dob": "07/25/1966",
+    "address": "5041 Main Ave",
+    "city": "Denver",
+    "state": "AZ"
+  }
+}

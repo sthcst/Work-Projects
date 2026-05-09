@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Alvarado
+  email: cynthia.alvarado1615@outlook.com
+  phone: (451) 752-3984
+  ssn: 607-30-4532
+  dob: 05-06-1966
+  address: 357 Third Way
+  city: San Diego
+  state: MO

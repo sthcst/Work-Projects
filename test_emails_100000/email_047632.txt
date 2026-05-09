@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Lopez,brian.lopez1996@outlook.com,(356) 898-3650,003 14 6616,03/12/1985,"4954 North Rd",Washington,FL

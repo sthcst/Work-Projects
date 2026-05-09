@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Williams",
+    "email": "timothy.williams5487@outlook.com",
+    "phone": "(572) 882-7194",
+    "ssn": "928726950",
+    "dob": "10/12/1967",
+    "address": "3861 Maple Rd",
+    "city": "Chicago",
+    "state": "WI"
+  }
+}

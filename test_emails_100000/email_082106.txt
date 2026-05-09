@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Reed
+  email: lauren.reed7718@gmail.com
+  phone: 869 722 1688
+  ssn: 603376248
+  dob: 4/17/1995
+  address: 310 West St
+  city: Houston
+  state: MA

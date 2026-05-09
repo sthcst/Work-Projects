@@ -1,0 +1,14 @@
+INVOICE 890716
+
+Bill To:
+Name: Charles Gomez
+Email: charles.gomez3680@company.com
+Phone: 912 786 2837
+SSN: 234454573
+
+Address: 470 Maple Dr
+Chicago, MA
+
+Date of Birth: 07/23/1968
+
+Amount Due: $2628

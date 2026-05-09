@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Lee,jacob.lee7051@business.net,646 421 8961,985-92-3633,9/7/1982,"5838 East Dr",Chicago,NY

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Jones",
+    "email": "robert.jones7258@business.net",
+    "phone": "264 253 6858",
+    "ssn": "771182795",
+    "dob": "08/05/1985",
+    "address": "7795 Pine Way",
+    "city": "Los Angeles",
+    "state": "MA"
+  }
+}

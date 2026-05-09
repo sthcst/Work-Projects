@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Hernandez",
+    "email": "james.hernandez1184@company.com",
+    "phone": "+1 665-771-5951",
+    "ssn": "682 78 1821",
+    "dob": "03-05-1976",
+    "address": "6870 West Rd",
+    "city": "San Antonio",
+    "state": "PA"
+  }
+}

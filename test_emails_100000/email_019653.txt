@@ -1,0 +1,9 @@
+contact:
+  name: Edward Nelson
+  email: edward.nelson2682@gmail.com
+  phone: 730 336 4475
+  ssn: 545-51-6375
+  dob: 11/27/1978
+  address: 5270 Pine St
+  city: San Antonio
+  state: OH

@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Miller
+  email: shirley.miller4244@work.org
+  phone: 326-865-7605
+  ssn: 677-20-5892
+  dob: 02-23-1959
+  address: 9600 Birch Ln
+  city: Washington
+  state: WI

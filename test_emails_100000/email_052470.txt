@@ -1,0 +1,14 @@
+INVOICE 197199
+
+Bill To:
+Name: Helen Clark
+Email: helen.clark9566@mail.com
+Phone: (683) 480-7448
+SSN: 439-36-8136
+
+Address: 7675 Oak St
+Dallas, FL
+
+Date of Birth: 09/20/1982
+
+Amount Due: $9528

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Carter,samantha.carter8242@yahoo.com,(484) 766-6446,845955892,4/13/1979,"5628 Spring Way",Philadelphia,AZ

@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Young
+  email: ashley.young7540@business.net
+  phone: 429 441 9329
+  ssn: 644 60 1824
+  dob: 20/01/1960
+  address: 7068 Second Way
+  city: Boston
+  state: MA

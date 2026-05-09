@@ -1,0 +1,9 @@
+contact:
+  name: Emily Young
+  email: emily.young3659@work.org
+  phone: (323) 887-3272
+  ssn: 864-09-5985
+  dob: 08/03/1952
+  address: 423 Sixth Way
+  city: Washington
+  state: TX

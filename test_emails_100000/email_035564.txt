@@ -1,0 +1,14 @@
+INVOICE 343368
+
+Bill To:
+Name: Jeffrey Johnson
+Email: jeffrey.johnson1318@work.org
+Phone: 828-685-1023
+SSN: 656-97-6699
+
+Address: 891 South Court
+San Diego, MI
+
+Date of Birth: 05/12/2001
+
+Amount Due: $2170

@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Parker
+  email: shirley.parker5149@work.org
+  phone: (991) 985-3097
+  ssn: 633302197
+  dob: 11-14-1965
+  address: 945 Park Ave
+  city: Jacksonville
+  state: GA

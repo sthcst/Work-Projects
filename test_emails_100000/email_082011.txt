@@ -1,0 +1,9 @@
+contact:
+  name: Anna Martin
+  email: anna.martin1257@gmail.com
+  phone: 850-421-5370
+  ssn: 163 04 5691
+  dob: 24/11/1964
+  address: 421 Cedar St
+  city: New York
+  state: MI

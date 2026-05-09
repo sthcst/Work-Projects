@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Bell,steven.bell9648@example.com,896-686-3635,196841360,09/26/1952,"5881 West Way",Philadelphia,TN

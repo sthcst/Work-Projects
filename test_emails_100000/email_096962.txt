@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Hernandez
+  email: stephanie.hernandez6999@yahoo.com
+  phone: +1 348-665-6730
+  ssn: 643-10-2247
+  dob: 21/04/1990
+  address: 107 Pine Ave
+  city: San Diego
+  state: FL

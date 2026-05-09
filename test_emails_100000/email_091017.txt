@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Thompson,emily.thompson5257@outlook.com,(517) 745-8066,114 60 1386,08/20/1962,"5640 Pine Way",San Antonio,WI

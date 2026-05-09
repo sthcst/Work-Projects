@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Anderson",
+    "email": "christine.anderson4467@business.net",
+    "phone": "+1 707-815-1361",
+    "ssn": "875 15 2566",
+    "dob": "15/04/1972",
+    "address": "9642 Pine Ln",
+    "city": "San Jose",
+    "state": "OH"
+  }
+}

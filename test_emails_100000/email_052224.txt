@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Delgado
+  email: michelle.delgado8918@company.com
+  phone: 904 424 4032
+  ssn: 230 51 2057
+  dob: 6/7/1959
+  address: 5562 Cedar Way
+  city: Chicago
+  state: TX

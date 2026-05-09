@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Nelson,kimberly.nelson7644@work.org,(574) 858-9834,252 97 7904,07-16-1955,"8248 Main Dr",New York,VA

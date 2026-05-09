@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Smith,gary.smith6247@work.org,+1 499-452-7974,295 99 5787,6/7/1989,"1317 Fifth Ave",San Jose,WA

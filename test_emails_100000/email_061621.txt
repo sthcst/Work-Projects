@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Lewis",
+    "email": "ryan.lewis1355@yahoo.com",
+    "phone": "(772) 304-7162",
+    "ssn": "942726477",
+    "dob": "09/04/1991",
+    "address": "260 Birch Way",
+    "city": "Jacksonville",
+    "state": "NJ"
+  }
+}

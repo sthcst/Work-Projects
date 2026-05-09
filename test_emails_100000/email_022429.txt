@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Morgan",
+    "email": "john.morgan7813@example.com",
+    "phone": "972 991 2423",
+    "ssn": "403-46-6341",
+    "dob": "08-12-1981",
+    "address": "4680 Oak St",
+    "city": "Austin",
+    "state": "PA"
+  }
+}

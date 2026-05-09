@@ -1,0 +1,14 @@
+INVOICE 170981
+
+Bill To:
+Name: Rebecca Collins
+Email: rebecca.collins1128@mail.com
+Phone: 660-702-6904
+SSN: 136 12 7180
+
+Address: 6718 Birch Rd
+Philadelphia, MD
+
+Date of Birth: 10/22/1985
+
+Amount Due: $363

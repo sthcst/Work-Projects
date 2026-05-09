@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Martin",
+    "email": "kimberly.martin7048@business.net",
+    "phone": "358 961 4336",
+    "ssn": "994 01 3939",
+    "dob": "6/21/1951",
+    "address": "3303 First Dr",
+    "city": "Chicago",
+    "state": "DC"
+  }
+}

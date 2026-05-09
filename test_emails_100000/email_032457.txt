@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Moore",
+    "email": "joshua.moore9998@gmail.com",
+    "phone": "(795) 851-9105",
+    "ssn": "162-28-9048",
+    "dob": "09/06/1978",
+    "address": "1597 West Way",
+    "city": "Dallas",
+    "state": "MD"
+  }
+}

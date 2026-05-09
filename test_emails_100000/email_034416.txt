@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Alvarado",
+    "email": "andrew.alvarado2219@company.com",
+    "phone": "+1 602-622-6096",
+    "ssn": "974 36 1442",
+    "dob": "03/08/1994",
+    "address": "2610 Spring Court",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

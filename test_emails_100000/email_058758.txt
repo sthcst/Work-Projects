@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Martinez,timothy.martinez7115@company.com,+1 259-777-7706,851 80 5337,04-03-1951,"6716 Oak Ave",Austin,IL

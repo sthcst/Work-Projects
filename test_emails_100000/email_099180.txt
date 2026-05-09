@@ -1,0 +1,14 @@
+INVOICE 403625
+
+Bill To:
+Name: David Williams
+Email: david.williams5696@mail.com
+Phone: 650 695 4714
+SSN: 995-32-3421
+
+Address: 1333 Summer Dr
+Dallas, NY
+
+Date of Birth: 04/10/1955
+
+Amount Due: $6054

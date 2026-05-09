@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Smith
+  email: timothy.smith612@mail.com
+  phone: (295) 518-5280
+  ssn: 698-97-8949
+  dob: 09-18-1986
+  address: 3957 Fifth Blvd
+  city: San Diego
+  state: NC

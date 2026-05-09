@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Ortiz,christopher.ortiz6897@yahoo.com,976-805-9475,184575895,12/14/1968,"910 North Dr",Denver,OH

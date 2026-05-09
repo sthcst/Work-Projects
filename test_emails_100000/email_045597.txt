@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Alvarado",
+    "email": "michael.alvarado4665@mail.com",
+    "phone": "785-594-8035",
+    "ssn": "217 18 5835",
+    "dob": "01/25/1968",
+    "address": "1851 Maple Blvd",
+    "city": "Chicago",
+    "state": "TN"
+  }
+}

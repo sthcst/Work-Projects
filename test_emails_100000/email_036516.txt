@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Bell,jennifer.bell7396@gmail.com,822 503 6953,291 71 6273,01/06/1980,"8939 Sixth St",Phoenix,NY

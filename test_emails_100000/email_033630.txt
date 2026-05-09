@@ -1,0 +1,14 @@
+INVOICE 267924
+
+Bill To:
+Name: Ashley Cooper
+Email: ashley.cooper7081@example.com
+Phone: 590-293-9770
+SSN: 117 68 2606
+
+Address: 4781 Cedar St
+Philadelphia, IL
+
+Date of Birth: 6/12/1973
+
+Amount Due: $4598

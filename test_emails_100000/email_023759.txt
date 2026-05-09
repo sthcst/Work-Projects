@@ -1,0 +1,14 @@
+INVOICE 814372
+
+Bill To:
+Name: Jason Reeves
+Email: jason.reeves5920@example.com
+Phone: 399 993 5499
+SSN: 521-99-6394
+
+Address: 7997 South Dr
+Chicago, FL
+
+Date of Birth: 10/26/1961
+
+Amount Due: $3393

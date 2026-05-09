@@ -1,0 +1,9 @@
+contact:
+  name: Jason Jackson
+  email: jason.jackson662@company.com
+  phone: 831-773-2080
+  ssn: 488434140
+  dob: 08/06/1973
+  address: 3929 West Dr
+  city: Dallas
+  state: CA

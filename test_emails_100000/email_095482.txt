@@ -1,0 +1,14 @@
+INVOICE 332963
+
+Bill To:
+Name: Charles White
+Email: charles.white7878@example.com
+Phone: +1 550-413-1390
+SSN: 087-59-1324
+
+Address: 8385 Park Blvd
+Houston, CA
+
+Date of Birth: 04-04-1962
+
+Amount Due: $5527

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Brown",
+    "email": "daniel.brown2944@outlook.com",
+    "phone": "799 704 5194",
+    "ssn": "092 90 7507",
+    "dob": "14/07/1971",
+    "address": "6684 South Blvd",
+    "city": "Austin",
+    "state": "WI"
+  }
+}

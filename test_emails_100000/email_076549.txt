@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Murillo,megan.murillo5927@mail.com,(637) 620-5286,525 99 8580,06/12/1978,"43 Summer Way",Seattle,MI

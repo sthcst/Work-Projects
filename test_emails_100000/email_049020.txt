@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Lopez,brenda.lopez4124@mail.com,+1 863-918-7706,814-75-2138,2/25/1974,"6075 Pine Ln",New York,NY

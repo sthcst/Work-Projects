@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Clark,stephanie.clark6837@outlook.com,667 337 3110,563028014,06/05/1975,"2240 Oak Rd",Denver,FL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Walker",
+    "email": "katherine.walker6389@yahoo.com",
+    "phone": "830 981 8199",
+    "ssn": "647 92 7620",
+    "dob": "09-26-1957",
+    "address": "6011 North Dr",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

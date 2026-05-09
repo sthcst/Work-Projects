@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Young
+  email: amanda.young7959@company.com
+  phone: 749 465 2909
+  ssn: 020818139
+  dob: 06/02/1984
+  address: 4548 Sixth Court
+  city: Seattle
+  state: OH

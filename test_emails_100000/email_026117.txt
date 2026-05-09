@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Dominguez
+  email: ronald.dominguez7380@mail.com
+  phone: 215-641-7543
+  ssn: 643722956
+  dob: 11/9/1997
+  address: 2583 Fourth St
+  city: Seattle
+  state: NY

@@ -1,0 +1,14 @@
+INVOICE 618101
+
+Bill To:
+Name: Katherine Nelson
+Email: katherine.nelson5878@example.com
+Phone: 929-839-9336
+SSN: 834-12-9894
+
+Address: 5315 West Dr
+Houston, FL
+
+Date of Birth: 07-13-2003
+
+Amount Due: $9548

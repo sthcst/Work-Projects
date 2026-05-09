@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Thomas,richard.thomas7691@outlook.com,+1 379-929-3558,292496928,04/14/1963,"8517 Elm Rd",Los Angeles,AZ

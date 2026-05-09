@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Dominguez",
+    "email": "matthew.dominguez293@company.com",
+    "phone": "311-913-2838",
+    "ssn": "201 12 1130",
+    "dob": "08-19-1980",
+    "address": "4132 South Ln",
+    "city": "San Antonio",
+    "state": "MD"
+  }
+}

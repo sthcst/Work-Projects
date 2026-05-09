@@ -1,0 +1,14 @@
+INVOICE 375709
+
+Bill To:
+Name: Gary Stewart
+Email: gary.stewart8823@work.org
+Phone: 832 369 7671
+SSN: 765-46-9296
+
+Address: 8960 Summer Ave
+Dallas, IL
+
+Date of Birth: 10/25/1976
+
+Amount Due: $1498

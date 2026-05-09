@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Dominguez,robert.dominguez4366@example.com,563 881 9665,410452883,02-13-1961,"8622 Elm Blvd",Seattle,MD

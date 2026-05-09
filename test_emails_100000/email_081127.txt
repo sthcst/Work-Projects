@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Lee,lisa.lee8945@example.com,(776) 472-7566,431-87-3000,07-01-1954,"5369 East Court",Los Angeles,TX

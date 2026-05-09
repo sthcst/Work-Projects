@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Alvarado",
+    "email": "steven.alvarado5464@company.com",
+    "phone": "+1 384-716-1698",
+    "ssn": "323096425",
+    "dob": "10/3/1996",
+    "address": "7102 Main St",
+    "city": "Boston",
+    "state": "MD"
+  }
+}

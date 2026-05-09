@@ -1,0 +1,14 @@
+INVOICE 152391
+
+Bill To:
+Name: Michael Edwards
+Email: michael.edwards5158@example.com
+Phone: 466-293-6618
+SSN: 032549176
+
+Address: 1144 Summer Rd
+San Antonio, MI
+
+Date of Birth: 09/07/1952
+
+Amount Due: $2134

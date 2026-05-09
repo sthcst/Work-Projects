@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Gonzalez",
+    "email": "andrew.gonzalez1462@mail.com",
+    "phone": "+1 813-409-8217",
+    "ssn": "176411768",
+    "dob": "01/09/1985",
+    "address": "6916 Elm Ave",
+    "city": "New York",
+    "state": "TN"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Jane Martinez
+  email: jane.martinez4771@example.com
+  phone: 343-978-5367
+  ssn: 359 13 1427
+  dob: 10-20-1960
+  address: 9256 North Rd
+  city: San Diego
+  state: CO

@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Morris
+  email: samantha.morris5345@business.net
+  phone: (914) 793-8390
+  ssn: 933 87 7107
+  dob: 01/14/1997
+  address: 3226 Oak Court
+  city: Houston
+  state: CA

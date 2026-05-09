@@ -1,0 +1,9 @@
+contact:
+  name: Emily Perez
+  email: emily.perez3722@yahoo.com
+  phone: +1 922-209-5661
+  ssn: 779-42-3007
+  dob: 5/7/1975
+  address: 6088 Maple Blvd
+  city: New York
+  state: AZ

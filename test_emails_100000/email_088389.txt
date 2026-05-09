@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Anderson",
+    "email": "anthony.anderson946@work.org",
+    "phone": "(449) 267-5417",
+    "ssn": "853 31 6139",
+    "dob": "09/14/1953",
+    "address": "4105 Main Ave",
+    "city": "Jacksonville",
+    "state": "NJ"
+  }
+}

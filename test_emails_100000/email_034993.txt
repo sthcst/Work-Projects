@@ -1,0 +1,14 @@
+INVOICE 895194
+
+Bill To:
+Name: Nicole Gomez
+Email: nicole.gomez2853@company.com
+Phone: +1 910-538-8866
+SSN: 399 10 3680
+
+Address: 4186 North Ave
+Denver, WA
+
+Date of Birth: 4/22/1995
+
+Amount Due: $1826

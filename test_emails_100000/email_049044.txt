@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Gomez",
+    "email": "ryan.gomez5110@gmail.com",
+    "phone": "+1 262-303-1740",
+    "ssn": "137-47-2318",
+    "dob": "22/02/1966",
+    "address": "3911 Cedar Blvd",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

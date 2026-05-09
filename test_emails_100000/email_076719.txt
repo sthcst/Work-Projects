@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Nelson
+  email: amanda.nelson2226@yahoo.com
+  phone: (750) 213-9803
+  ssn: 399-63-6864
+  dob: 19/04/1996
+  address: 1593 Elm St
+  city: Denver
+  state: GA

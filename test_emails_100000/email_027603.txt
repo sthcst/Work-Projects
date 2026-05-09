@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Evans",
+    "email": "megan.evans3363@outlook.com",
+    "phone": "+1 260-719-3267",
+    "ssn": "983 21 6414",
+    "dob": "4/19/1959",
+    "address": "8985 Park Way",
+    "city": "Phoenix",
+    "state": "MD"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Jimenez
+  email: sarah.jimenez117@work.org
+  phone: 206-912-8174
+  ssn: 369673373
+  dob: 05-03-2001
+  address: 4862 Spring St
+  city: Los Angeles
+  state: IL

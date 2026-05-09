@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Hernandez,andrew.hernandez2219@company.com,(445) 284-3473,118 29 2601,12/26/2005,"2629 Third Way",Austin,MD

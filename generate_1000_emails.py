@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate 10000 diverse test emails with realistic PII."""
+"""Generate 100000 diverse test emails with realistic PII."""
 
 import random
 import os
@@ -8,7 +8,7 @@ from pathlib import Path
 random.seed(42)
 
 # Output directory
-OUTPUT_DIR = Path('test_emails_10000')
+OUTPUT_DIR = Path('test_emails_100000')
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 # Name components for generating realistic names
@@ -202,9 +202,9 @@ def generate_address():
     street_type = random.choice(['St', 'Ave', 'Rd', 'Ln', 'Dr', 'Blvd', 'Way', 'Court'])
     return f"{street_num} {street_name} {street_type}"
 
-print(f"Generating 10000 test emails with diverse PII...")
+print(f"Generating 100000 test emails with diverse PII...")
 
-for email_idx in range(1, 10001):
+for email_idx in range(1, 100001):
     name = f"{random.choice(first_names)} {random.choice(last_names)}"
     email = f"{name.lower().replace(' ', '.')}{random.randint(1, 9999)}@{random.choice(domains)}"
     phone = generate_phone()
@@ -237,11 +237,11 @@ for email_idx in range(1, 10001):
     )
     
     # Write to file
-    output_file = OUTPUT_DIR / f"email_{email_idx:05d}.txt"
+    output_file = OUTPUT_DIR / f"email_{email_idx:06d}.txt"
     output_file.write_text(email_content, encoding='utf-8')
     
-    if email_idx % 1000 == 0:
-        print(f"  Generated {email_idx}/10000 emails...")
+    if email_idx % 10000 == 0:
+        print(f"  Generated {email_idx}/100000 emails...")
 
-print(f"\n✅ Successfully generated 10000 test emails in {OUTPUT_DIR}/")
+print(f"\n✅ Successfully generated 100000 test emails in {OUTPUT_DIR}/")
 print(f"Total files created: {len(list(OUTPUT_DIR.glob('email_*.txt')))}")

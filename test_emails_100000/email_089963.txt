@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Reed
+  email: kenneth.reed9309@mail.com
+  phone: 460-251-5284
+  ssn: 768 79 5257
+  dob: 6/3/1950
+  address: 3318 Summer Dr
+  city: Houston
+  state: WA

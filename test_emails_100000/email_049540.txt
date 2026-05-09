@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Walker,joshua.walker8107@example.com,(727) 487-4547,970 57 8499,02-23-2002,"3965 Fifth Ave",San Jose,CA

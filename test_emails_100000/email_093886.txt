@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Gonzalez
+  email: samantha.gonzalez2257@work.org
+  phone: 968-904-7597
+  ssn: 003504670
+  dob: 02/01/1984
+  address: 2799 Cedar Rd
+  city: Phoenix
+  state: TX

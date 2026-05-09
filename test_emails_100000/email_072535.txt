@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Delgado
+  email: amanda.delgado3039@example.com
+  phone: +1 567-563-8979
+  ssn: 803-36-3370
+  dob: 05-18-1956
+  address: 7208 Third St
+  city: San Antonio
+  state: CA

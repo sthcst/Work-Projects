@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Lopez",
+    "email": "mark.lopez1176@yahoo.com",
+    "phone": "987-251-5851",
+    "ssn": "411-51-8232",
+    "dob": "12-07-1997",
+    "address": "8236 First Ln",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

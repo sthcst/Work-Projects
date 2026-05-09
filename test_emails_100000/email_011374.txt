@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Moore",
+    "email": "michael.moore7102@yahoo.com",
+    "phone": "+1 912-454-8036",
+    "ssn": "513-37-8283",
+    "dob": "01-10-1958",
+    "address": "667 North Way",
+    "city": "Boston",
+    "state": "WA"
+  }
+}

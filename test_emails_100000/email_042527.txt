@@ -1,0 +1,9 @@
+contact:
+  name: Brian Parker
+  email: brian.parker4105@work.org
+  phone: 543 740 3398
+  ssn: 717-59-2996
+  dob: 3/8/1968
+  address: 3376 Spring Court
+  city: Seattle
+  state: CA

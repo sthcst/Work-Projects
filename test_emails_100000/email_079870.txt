@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Lee,timothy.lee6931@gmail.com,439-214-5771,927225121,05/15/1992,"5791 Spring St",Phoenix,NJ

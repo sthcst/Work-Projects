@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Campbell,megan.campbell9836@outlook.com,+1 604-744-8760,684 32 1745,5/17/1992,"442 East Ln",Chicago,TX

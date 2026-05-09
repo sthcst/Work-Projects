@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Jones
+  email: pamela.jones6649@mail.com
+  phone: +1 372-761-9395
+  ssn: 519846592
+  dob: 08/08/1985
+  address: 8287 Birch Dr
+  city: Jacksonville
+  state: VA

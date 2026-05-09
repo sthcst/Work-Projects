@@ -1,0 +1,9 @@
+contact:
+  name: George Alvarado
+  email: george.alvarado3844@example.com
+  phone: +1 225-394-2035
+  ssn: 817 77 9983
+  dob: 10/01/1987
+  address: 4702 First St
+  city: San Jose
+  state: NJ

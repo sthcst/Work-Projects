@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Stewart",
+    "email": "michelle.stewart8131@example.com",
+    "phone": "805 713 4792",
+    "ssn": "651-08-7094",
+    "dob": "01-23-1988",
+    "address": "933 West Way",
+    "city": "Denver",
+    "state": "GA"
+  }
+}

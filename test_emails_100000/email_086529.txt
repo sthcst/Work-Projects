@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Gomez",
+    "email": "ashley.gomez8200@outlook.com",
+    "phone": "488 695 8712",
+    "ssn": "041 72 9927",
+    "dob": "3/8/1990",
+    "address": "4355 Main Rd",
+    "city": "San Antonio",
+    "state": "TN"
+  }
+}

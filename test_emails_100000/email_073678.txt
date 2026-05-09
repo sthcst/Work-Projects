@@ -1,0 +1,9 @@
+contact:
+  name: Emma Lopez
+  email: emma.lopez3406@example.com
+  phone: +1 478-780-5139
+  ssn: 776-96-1975
+  dob: 08-03-1973
+  address: 7695 Second St
+  city: Los Angeles
+  state: NY

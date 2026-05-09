@@ -1,0 +1,14 @@
+INVOICE 515973
+
+Bill To:
+Name: Timothy Dominguez
+Email: timothy.dominguez9517@company.com
+Phone: +1 267-258-2716
+SSN: 693-72-2270
+
+Address: 9265 Spring Ln
+Seattle, IL
+
+Date of Birth: 01-13-1985
+
+Amount Due: $320

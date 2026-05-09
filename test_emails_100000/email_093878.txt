@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Matthew Smith,matthew.smith622@outlook.com,+1 658-582-7261,325606062,09-24-1959,"2170 Maple Blvd",Los Angeles,MA

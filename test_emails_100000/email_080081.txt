@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard White",
+    "email": "richard.white3177@company.com",
+    "phone": "(549) 543-8836",
+    "ssn": "908626142",
+    "dob": "27/01/1954",
+    "address": "274 Fourth Court",
+    "city": "Houston",
+    "state": "WA"
+  }
+}

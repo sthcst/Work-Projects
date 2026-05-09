@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Robinson,ashley.robinson3148@company.com,303-763-9953,127306913,16/02/1958,"1109 Maple Blvd",Houston,AZ

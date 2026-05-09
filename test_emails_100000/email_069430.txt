@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Dominguez",
+    "email": "mark.dominguez4449@business.net",
+    "phone": "+1 489-533-1006",
+    "ssn": "043 46 8435",
+    "dob": "10/03/1964",
+    "address": "1633 Pine Ave",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Perez",
+    "email": "john.perez9958@work.org",
+    "phone": "(294) 979-3074",
+    "ssn": "091225187",
+    "dob": "07/09/1982",
+    "address": "5294 Pine Court",
+    "city": "Houston",
+    "state": "WI"
+  }
+}

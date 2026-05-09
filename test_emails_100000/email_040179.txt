@@ -1,0 +1,9 @@
+contact:
+  name: Michael Rogers
+  email: michael.rogers8409@business.net
+  phone: 488 983 1797
+  ssn: 411979227
+  dob: 9/8/1979
+  address: 5822 Fifth Rd
+  city: New York
+  state: WI

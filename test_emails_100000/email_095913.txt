@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Brown",
+    "email": "kimberly.brown2326@example.com",
+    "phone": "665-803-7582",
+    "ssn": "164 63 8673",
+    "dob": "3/6/1958",
+    "address": "3516 Summer St",
+    "city": "New York",
+    "state": "MD"
+  }
+}

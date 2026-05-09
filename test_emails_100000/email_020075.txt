@@ -1,0 +1,14 @@
+INVOICE 703754
+
+Bill To:
+Name: Ronald Smith
+Email: ronald.smith7497@yahoo.com
+Phone: 897 589 4481
+SSN: 865996087
+
+Address: 1549 Sixth St
+Jacksonville, TN
+
+Date of Birth: 09/23/1965
+
+Amount Due: $2952

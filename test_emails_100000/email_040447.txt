@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Johnson,ashley.johnson7986@business.net,428-911-5874,732-07-8944,1/7/1964,"9817 Maple Blvd",Los Angeles,MA

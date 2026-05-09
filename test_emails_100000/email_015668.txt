@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Robinson,sarah.robinson1435@yahoo.com,790-327-6541,743286549,21/04/1964,"7181 Third Ln",San Antonio,TX

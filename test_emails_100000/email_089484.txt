@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Lewis,rebecca.lewis2649@work.org,+1 514-802-3946,568-50-9037,08/23/1991,"3758 Elm Blvd",Phoenix,NJ

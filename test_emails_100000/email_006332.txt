@@ -1,0 +1,9 @@
+contact:
+  name: Amanda White
+  email: amanda.white5153@yahoo.com
+  phone: 600-514-1768
+  ssn: 315-65-7995
+  dob: 9/22/1999
+  address: 4573 Fifth Ave
+  city: San Jose
+  state: FL

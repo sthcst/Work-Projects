@@ -1,0 +1,9 @@
+contact:
+  name: Anna Gonzalez
+  email: anna.gonzalez3246@company.com
+  phone: 668-984-1265
+  ssn: 458 78 3206
+  dob: 12-28-1992
+  address: 2742 East Dr
+  city: Houston
+  state: CA

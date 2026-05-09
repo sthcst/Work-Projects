@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Perez",
+    "email": "sarah.perez1604@yahoo.com",
+    "phone": "626 555 2458",
+    "ssn": "436691605",
+    "dob": "1/7/1960",
+    "address": "5906 Cedar Ln",
+    "city": "New York",
+    "state": "CA"
+  }
+}

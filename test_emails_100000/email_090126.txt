@@ -1,0 +1,9 @@
+contact:
+  name: George Gonzalez
+  email: george.gonzalez9260@example.com
+  phone: +1 923-979-7518
+  ssn: 469713524
+  dob: 09/25/1968
+  address: 6606 Second Rd
+  city: Los Angeles
+  state: CO

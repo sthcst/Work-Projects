@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Rogers,william.rogers2303@yahoo.com,+1 583-612-8003,401 34 6516,12/12/1968,"9953 East St",New York,AZ

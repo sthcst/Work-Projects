@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Lopez",
+    "email": "joshua.lopez5302@mail.com",
+    "phone": "850 244 7711",
+    "ssn": "971 85 3258",
+    "dob": "04/14/1997",
+    "address": "4437 Fifth Blvd",
+    "city": "Phoenix",
+    "state": "WI"
+  }
+}

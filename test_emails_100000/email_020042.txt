@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Rodriguez,megan.rodriguez3088@company.com,795 649 3623,126-66-9500,01/24/1985,"9244 South Way",Denver,IL

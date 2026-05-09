@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Williams,amanda.williams7907@work.org,363-813-1536,570-26-3233,15/01/1984,"4654 Fifth Blvd",Seattle,CA

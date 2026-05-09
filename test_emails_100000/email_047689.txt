@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Garcia",
+    "email": "kevin.garcia2736@work.org",
+    "phone": "332 213 7940",
+    "ssn": "552974775",
+    "dob": "05/20/1976",
+    "address": "5697 Oak St",
+    "city": "Jacksonville",
+    "state": "MI"
+  }
+}

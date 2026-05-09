@@ -1,0 +1,9 @@
+contact:
+  name: James Peterson
+  email: james.peterson6875@business.net
+  phone: (669) 887-9817
+  ssn: 679925801
+  dob: 10/01/1991
+  address: 656 Birch Ave
+  city: Seattle
+  state: CA

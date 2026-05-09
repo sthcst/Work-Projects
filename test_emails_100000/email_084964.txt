@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Alvarado,david.alvarado6762@business.net,+1 748-765-4648,351-38-6547,06-23-1996,"4513 Park Ln",Phoenix,MI

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Peterson,rebecca.peterson9276@outlook.com,(994) 885-7699,702-83-4110,10/04/1997,"286 First Rd",Denver,OH

@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Jimenez
+  email: pamela.jimenez6084@example.com
+  phone: +1 828-985-8551
+  ssn: 562 55 4712
+  dob: 22/05/1955
+  address: 2159 Fourth Court
+  city: Dallas
+  state: GA

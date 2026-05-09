@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Carter
+  email: pamela.carter1047@mail.com
+  phone: (382) 715-3981
+  ssn: 681 77 3660
+  dob: 02/04/1956
+  address: 5831 South Blvd
+  city: Dallas
+  state: IL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Collins",
+    "email": "shirley.collins4886@business.net",
+    "phone": "+1 899-456-6251",
+    "ssn": "262255409",
+    "dob": "12/6/1982",
+    "address": "8790 Spring Way",
+    "city": "Phoenix",
+    "state": "NJ"
+  }
+}

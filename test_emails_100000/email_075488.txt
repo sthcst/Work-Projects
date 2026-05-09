@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Thompson,william.thompson7242@mail.com,409 403 1783,250-16-3325,05/17/1958,"4009 Main Ave",Jacksonville,NY

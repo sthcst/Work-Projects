@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Phillips",
+    "email": "jessica.phillips1498@yahoo.com",
+    "phone": "202-423-8642",
+    "ssn": "141-98-6109",
+    "dob": "08/02/1977",
+    "address": "4626 First Way",
+    "city": "Phoenix",
+    "state": "MD"
+  }
+}

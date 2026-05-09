@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Anderson
+  email: deborah.anderson6375@company.com
+  phone: (385) 808-8563
+  ssn: 094-62-7962
+  dob: 05/10/1977
+  address: 6405 Summer Dr
+  city: New York
+  state: CO

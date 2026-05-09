@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Ortiz",
+    "email": "gary.ortiz374@gmail.com",
+    "phone": "235 879 1854",
+    "ssn": "738-83-5151",
+    "dob": "06/28/1962",
+    "address": "6701 East Blvd",
+    "city": "New York",
+    "state": "MA"
+  }
+}

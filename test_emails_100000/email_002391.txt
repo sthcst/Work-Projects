@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Bell
+  email: amanda.bell9926@business.net
+  phone: 288-581-9646
+  ssn: 623 04 2050
+  dob: 24/02/1982
+  address: 2075 Fifth Court
+  city: New York
+  state: TN

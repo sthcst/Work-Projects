@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Nunez,jennifer.nunez3344@business.net,(478) 766-2944,977121687,06-22-1982,"6225 Birch Way",Boston,TX

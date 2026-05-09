@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Roberts,emily.roberts1133@mail.com,+1 259-628-7747,014394333,05-25-1959,"9818 Fourth Way",Los Angeles,NC

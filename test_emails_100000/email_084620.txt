@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Rogers
+  email: brenda.rogers2703@outlook.com
+  phone: 483-980-7445
+  ssn: 808 34 9386
+  dob: 07/23/2002
+  address: 9302 Birch Way
+  city: Seattle
+  state: GA

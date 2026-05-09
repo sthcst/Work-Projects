@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Lewis,paul.lewis5247@company.com,(957) 307-7033,846298959,4/7/1986,"7701 South Blvd",Denver,OH

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Smith",
+    "email": "brenda.smith5635@work.org",
+    "phone": "+1 253-678-4887",
+    "ssn": "028076119",
+    "dob": "08-27-1960",
+    "address": "1500 Second Blvd",
+    "city": "New York",
+    "state": "MI"
+  }
+}

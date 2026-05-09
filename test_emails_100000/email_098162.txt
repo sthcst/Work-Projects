@@ -1,0 +1,9 @@
+contact:
+  name: Jason Flores
+  email: jason.flores3508@example.com
+  phone: +1 686-955-1455
+  ssn: 647371140
+  dob: 20/02/1994
+  address: 4929 Summer Way
+  city: Denver
+  state: AZ

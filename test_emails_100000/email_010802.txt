@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Flores",
+    "email": "william.flores6605@gmail.com",
+    "phone": "248 329 7227",
+    "ssn": "722 80 4064",
+    "dob": "04/27/1950",
+    "address": "8848 Main Court",
+    "city": "Denver",
+    "state": "NC"
+  }
+}

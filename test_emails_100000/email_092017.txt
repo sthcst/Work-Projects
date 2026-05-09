@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Reeves",
+    "email": "michael.reeves6492@work.org",
+    "phone": "944-891-5373",
+    "ssn": "663617447",
+    "dob": "07/18/1960",
+    "address": "3798 North Blvd",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

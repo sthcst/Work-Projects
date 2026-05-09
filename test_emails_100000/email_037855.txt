@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Romero,emily.romero9246@mail.com,246-931-1484,776193907,08-16-1989,"970 Second Rd",Denver,AZ

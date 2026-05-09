@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Ramirez",
+    "email": "sarah.ramirez7244@outlook.com",
+    "phone": "(492) 989-5501",
+    "ssn": "395 88 5339",
+    "dob": "09/01/2003",
+    "address": "7772 Sixth Way",
+    "city": "San Jose",
+    "state": "NY"
+  }
+}

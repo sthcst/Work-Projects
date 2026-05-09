@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Nunez,robert.nunez7530@yahoo.com,655 909 2518,704 88 6520,11/1/1958,"9825 Summer Dr",Seattle,NC

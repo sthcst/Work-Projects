@@ -1,0 +1,14 @@
+INVOICE 100716
+
+Bill To:
+Name: James Thomas
+Email: james.thomas4969@yahoo.com
+Phone: 823 847 4848
+SSN: 674 39 3130
+
+Address: 7312 Fifth Ave
+Dallas, CA
+
+Date of Birth: 8/24/1957
+
+Amount Due: $8308

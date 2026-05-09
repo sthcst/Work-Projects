@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Romero",
+    "email": "ronald.romero9693@company.com",
+    "phone": "(818) 317-5827",
+    "ssn": "970 55 3689",
+    "dob": "03/01/1951",
+    "address": "9228 West Dr",
+    "city": "Austin",
+    "state": "VA"
+  }
+}

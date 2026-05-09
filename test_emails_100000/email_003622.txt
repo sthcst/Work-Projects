@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Parker",
+    "email": "lauren.parker4566@company.com",
+    "phone": "552-272-6270",
+    "ssn": "977656414",
+    "dob": "06/12/1978",
+    "address": "8472 Park Dr",
+    "city": "Los Angeles",
+    "state": "TN"
+  }
+}

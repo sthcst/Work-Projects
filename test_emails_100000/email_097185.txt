@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Rodriguez",
+    "email": "ronald.rodriguez2919@business.net",
+    "phone": "(993) 205-4107",
+    "ssn": "669 63 1933",
+    "dob": "6/21/1979",
+    "address": "8456 Park St",
+    "city": "Jacksonville",
+    "state": "NY"
+  }
+}

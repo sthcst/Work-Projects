@@ -1,0 +1,9 @@
+contact:
+  name: Edward Ortiz
+  email: edward.ortiz783@yahoo.com
+  phone: (531) 318-8266
+  ssn: 427-33-2432
+  dob: 5/23/1955
+  address: 8629 South Way
+  city: Seattle
+  state: WA

@@ -1,0 +1,14 @@
+INVOICE 111413
+
+Bill To:
+Name: Katherine Murillo
+Email: katherine.murillo6096@company.com
+Phone: +1 296-696-3388
+SSN: 354-90-1541
+
+Address: 9072 Third Blvd
+Phoenix, TX
+
+Date of Birth: 12/15/1984
+
+Amount Due: $9864

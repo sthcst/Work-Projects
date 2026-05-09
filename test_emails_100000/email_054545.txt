@@ -1,0 +1,14 @@
+INVOICE 322477
+
+Bill To:
+Name: Kimberly Young
+Email: kimberly.young6278@mail.com
+Phone: +1 405-424-9020
+SSN: 225-72-4312
+
+Address: 2121 Maple Rd
+San Jose, CO
+
+Date of Birth: 04/02/1990
+
+Amount Due: $9172

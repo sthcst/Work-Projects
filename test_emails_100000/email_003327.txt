@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Anderson,samantha.anderson8732@company.com,319-211-1813,528865448,06-05-1971,"647 Main Ln",Jacksonville,NJ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Walker,megan.walker3712@mail.com,(727) 921-6059,119938176,07/11/1953,"842 Birch Way",San Jose,CA

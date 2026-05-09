@@ -1,0 +1,14 @@
+INVOICE 940686
+
+Bill To:
+Name: Maria Jimenez
+Email: maria.jimenez4293@company.com
+Phone: 323 887 7387
+SSN: 577318773
+
+Address: 3973 Pine Rd
+San Jose, MA
+
+Date of Birth: 03/23/1997
+
+Amount Due: $4678

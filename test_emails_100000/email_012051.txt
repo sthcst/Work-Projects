@@ -1,0 +1,9 @@
+contact:
+  name: William Thomas
+  email: william.thomas1125@outlook.com
+  phone: 746 590 6617
+  ssn: 633-68-9932
+  dob: 01-28-1993
+  address: 1056 Sixth St
+  city: Dallas
+  state: WA

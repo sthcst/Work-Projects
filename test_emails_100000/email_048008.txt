@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Walker",
+    "email": "richard.walker6490@work.org",
+    "phone": "564-439-5899",
+    "ssn": "536318315",
+    "dob": "4/7/1974",
+    "address": "2563 Fourth Ln",
+    "city": "Boston",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Taylor",
+    "email": "michael.taylor7150@example.com",
+    "phone": "+1 204-616-2100",
+    "ssn": "342 54 9372",
+    "dob": "12-13-1983",
+    "address": "7260 Fifth Ln",
+    "city": "Phoenix",
+    "state": "TN"
+  }
+}

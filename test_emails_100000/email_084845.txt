@@ -1,0 +1,9 @@
+contact:
+  name: Gary Ramirez
+  email: gary.ramirez3441@company.com
+  phone: 839 554 9432
+  ssn: 347228545
+  dob: 05/09/1970
+  address: 8454 First Blvd
+  city: Philadelphia
+  state: CA

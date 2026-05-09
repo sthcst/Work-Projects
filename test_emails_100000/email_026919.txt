@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Taylor",
+    "email": "jane.taylor7674@example.com",
+    "phone": "862 513 5956",
+    "ssn": "797 25 8505",
+    "dob": "04-21-1973",
+    "address": "4044 Birch Ln",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Gonzalez",
+    "email": "richard.gonzalez763@example.com",
+    "phone": "283-950-9775",
+    "ssn": "323 29 6056",
+    "dob": "06-07-1968",
+    "address": "2253 Pine Rd",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

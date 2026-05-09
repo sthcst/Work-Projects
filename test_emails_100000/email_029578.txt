@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Lee",
+    "email": "joshua.lee5766@gmail.com",
+    "phone": "+1 953-263-6705",
+    "ssn": "236 92 9504",
+    "dob": "12/08/1992",
+    "address": "9957 Maple Dr",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

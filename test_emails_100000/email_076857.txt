@@ -1,0 +1,14 @@
+INVOICE 754539
+
+Bill To:
+Name: Gary Smith
+Email: gary.smith3240@company.com
+Phone: 864 808 3689
+SSN: 566012873
+
+Address: 1170 Oak Rd
+San Antonio, MO
+
+Date of Birth: 03-21-1998
+
+Amount Due: $3906

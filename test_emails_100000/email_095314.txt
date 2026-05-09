@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Hernandez,jacob.hernandez1049@outlook.com,267 318 1680,048-88-9269,2/24/2003,"7850 North Rd",Jacksonville,WA

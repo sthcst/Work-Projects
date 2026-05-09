@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Gonzalez",
+    "email": "sarah.gonzalez8933@gmail.com",
+    "phone": "(958) 250-9105",
+    "ssn": "907 52 1217",
+    "dob": "06/08/1964",
+    "address": "934 Elm Court",
+    "city": "Austin",
+    "state": "AZ"
+  }
+}

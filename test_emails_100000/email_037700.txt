@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Garcia,emma.garcia233@business.net,+1 916-389-1802,604779762,09-20-1998,"9653 Main Way",Seattle,TX

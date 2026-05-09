@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Smith
+  email: katherine.smith5127@business.net
+  phone: +1 760-818-1016
+  ssn: 785703889
+  dob: 05-05-1961
+  address: 3118 South Way
+  city: San Jose
+  state: FL

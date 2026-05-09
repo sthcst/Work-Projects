@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Martinez",
+    "email": "helen.martinez5635@outlook.com",
+    "phone": "230-475-3225",
+    "ssn": "645527810",
+    "dob": "5/6/2000",
+    "address": "9541 Maple Dr",
+    "city": "Washington",
+    "state": "VA"
+  }
+}

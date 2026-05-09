@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Young,katherine.young4577@mail.com,476 379 6277,038-56-2734,20/08/1957,"9860 Sixth Court",Denver,MA

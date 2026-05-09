@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Smith
+  email: katherine.smith4981@business.net
+  phone: 712-814-8235
+  ssn: 171 46 9564
+  dob: 14/09/2001
+  address: 8642 Park Blvd
+  city: Los Angeles
+  state: WA

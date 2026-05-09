@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Nelson
+  email: christopher.nelson1353@work.org
+  phone: 607 226 3138
+  ssn: 775-52-3176
+  dob: 22/06/1951
+  address: 6475 Sixth Ln
+  city: Philadelphia
+  state: MA

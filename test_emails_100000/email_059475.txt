@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Dominguez",
+    "email": "christine.dominguez3853@business.net",
+    "phone": "495-246-4410",
+    "ssn": "825-85-6721",
+    "dob": "07/10/1992",
+    "address": "5379 Maple Court",
+    "city": "Boston",
+    "state": "AZ"
+  }
+}

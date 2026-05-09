@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Ortiz",
+    "email": "richard.ortiz6964@yahoo.com",
+    "phone": "858 994 2820",
+    "ssn": "297 71 1428",
+    "dob": "11/26/1958",
+    "address": "191 Spring St",
+    "city": "Philadelphia",
+    "state": "OH"
+  }
+}

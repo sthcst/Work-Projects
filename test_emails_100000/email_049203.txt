@@ -1,0 +1,14 @@
+INVOICE 350013
+
+Bill To:
+Name: Angela Davis
+Email: angela.davis1675@company.com
+Phone: 519 434 8354
+SSN: 741-04-9696
+
+Address: 7306 Sixth Blvd
+Chicago, NY
+
+Date of Birth: 12-05-1976
+
+Amount Due: $978

@@ -1,0 +1,14 @@
+INVOICE 166725
+
+Bill To:
+Name: Ashley Peterson
+Email: ashley.peterson4789@example.com
+Phone: +1 712-790-3126
+SSN: 293-47-8493
+
+Address: 8470 West Ln
+San Diego, FL
+
+Date of Birth: 08-22-1990
+
+Amount Due: $462

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Reeves",
+    "email": "richard.reeves9857@yahoo.com",
+    "phone": "+1 827-453-1474",
+    "ssn": "036-18-1982",
+    "dob": "01-09-1997",
+    "address": "6066 West Blvd",
+    "city": "Washington",
+    "state": "NC"
+  }
+}

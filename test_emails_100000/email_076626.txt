@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Carter",
+    "email": "andrew.carter1373@work.org",
+    "phone": "+1 404-309-3367",
+    "ssn": "315 89 5206",
+    "dob": "02-07-1954",
+    "address": "9295 First Ln",
+    "city": "San Jose",
+    "state": "DC"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Sanchez",
+    "email": "steven.sanchez7520@example.com",
+    "phone": "414-753-1253",
+    "ssn": "533218945",
+    "dob": "08/28/1967",
+    "address": "2245 Third Dr",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

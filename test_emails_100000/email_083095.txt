@@ -1,0 +1,9 @@
+contact:
+  name: Gary Phillips
+  email: gary.phillips7392@gmail.com
+  phone: (902) 800-4057
+  ssn: 058669151
+  dob: 4/18/1978
+  address: 3768 Fourth Blvd
+  city: Philadelphia
+  state: MA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven White,steven.white6307@mail.com,280-241-9256,689602814,3/18/1961,"854 Spring Dr",Austin,VA

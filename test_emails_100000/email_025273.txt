@@ -1,0 +1,14 @@
+INVOICE 761695
+
+Bill To:
+Name: Robert Miller
+Email: robert.miller3952@business.net
+Phone: +1 216-916-7919
+SSN: 260571277
+
+Address: 8072 Birch Way
+Chicago, CO
+
+Date of Birth: 11-16-1991
+
+Amount Due: $4384

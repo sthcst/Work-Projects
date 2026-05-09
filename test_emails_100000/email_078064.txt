@@ -1,0 +1,9 @@
+contact:
+  name: James Smith
+  email: james.smith8932@example.com
+  phone: +1 875-859-2603
+  ssn: 323712560
+  dob: 5/3/1976
+  address: 5026 Main Court
+  city: Dallas
+  state: OH

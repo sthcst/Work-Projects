@@ -1,0 +1,14 @@
+INVOICE 984698
+
+Bill To:
+Name: Jeffrey Roberts
+Email: jeffrey.roberts9040@company.com
+Phone: (212) 416-2465
+SSN: 223368049
+
+Address: 5999 Maple St
+San Jose, TX
+
+Date of Birth: 18/07/1955
+
+Amount Due: $8069

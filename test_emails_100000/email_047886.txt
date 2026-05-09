@@ -1,0 +1,9 @@
+contact:
+  name: George Smith
+  email: george.smith862@example.com
+  phone: 629-951-3607
+  ssn: 320 64 8395
+  dob: 6/10/2004
+  address: 9419 Fourth Rd
+  city: San Antonio
+  state: TX

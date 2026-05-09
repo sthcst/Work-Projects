@@ -1,0 +1,9 @@
+contact:
+  name: Angela Jackson
+  email: angela.jackson8304@business.net
+  phone: +1 379-794-8826
+  ssn: 105 63 9228
+  dob: 01/02/1961
+  address: 4938 Sixth Rd
+  city: Austin
+  state: CA

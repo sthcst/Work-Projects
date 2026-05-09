@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Romero,nicole.romero3566@example.com,680-669-7824,068328591,05-07-1973,"2272 Elm Ln",Boston,AZ

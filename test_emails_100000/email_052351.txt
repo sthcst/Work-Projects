@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Ramirez",
+    "email": "samantha.ramirez6134@company.com",
+    "phone": "403-565-3152",
+    "ssn": "063148245",
+    "dob": "17/09/1978",
+    "address": "1272 Fourth St",
+    "city": "Phoenix",
+    "state": "MI"
+  }
+}

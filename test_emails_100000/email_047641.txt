@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Johnson,cynthia.johnson2798@business.net,+1 285-391-3046,713-08-4837,23/09/1978,"7281 Maple Court",Austin,WA

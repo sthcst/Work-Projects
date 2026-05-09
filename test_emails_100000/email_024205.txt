@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Delgado",
+    "email": "joseph.delgado3646@outlook.com",
+    "phone": "617 268 2373",
+    "ssn": "924 01 9098",
+    "dob": "05-02-1990",
+    "address": "3312 Spring Ln",
+    "city": "Chicago",
+    "state": "TN"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Martinez,john.martinez7622@business.net,338-932-2690,162 20 9012,09/06/1952,"116 West Ave",Boston,WA

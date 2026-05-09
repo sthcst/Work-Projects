@@ -1,0 +1,14 @@
+INVOICE 842900
+
+Bill To:
+Name: Kenneth Johnson
+Email: kenneth.johnson2556@outlook.com
+Phone: (207) 575-4579
+SSN: 671 11 3059
+
+Address: 7586 Main Ln
+New York, NY
+
+Date of Birth: 10/22/1983
+
+Amount Due: $1756

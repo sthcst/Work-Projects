@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Robinson,christine.robinson4458@gmail.com,281-891-8884,777-31-2189,06-26-1992,"6727 South Ln",Houston,CA

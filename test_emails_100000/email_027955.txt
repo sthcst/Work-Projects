@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Serrano",
+    "email": "george.serrano8161@work.org",
+    "phone": "+1 677-206-8968",
+    "ssn": "633376755",
+    "dob": "1/14/2005",
+    "address": "8525 East Ln",
+    "city": "Austin",
+    "state": "NJ"
+  }
+}

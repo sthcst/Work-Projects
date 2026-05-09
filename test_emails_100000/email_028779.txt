@@ -1,0 +1,9 @@
+contact:
+  name: Angela Alvarado
+  email: angela.alvarado7204@work.org
+  phone: 866-851-7063
+  ssn: 877419210
+  dob: 18/04/1963
+  address: 1812 Sixth Rd
+  city: San Antonio
+  state: MA

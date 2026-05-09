@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Martinez
+  email: ashley.martinez8013@example.com
+  phone: 705 806 2294
+  ssn: 854-01-8326
+  dob: 03/20/1987
+  address: 9310 Maple Way
+  city: Seattle
+  state: GA

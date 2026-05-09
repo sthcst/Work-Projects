@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Delgado",
+    "email": "lisa.delgado2144@example.com",
+    "phone": "438-452-1176",
+    "ssn": "181 06 5182",
+    "dob": "12/9/1971",
+    "address": "1496 Oak Ave",
+    "city": "San Antonio",
+    "state": "DC"
+  }
+}

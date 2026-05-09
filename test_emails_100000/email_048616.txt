@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Anderson,samantha.anderson5359@outlook.com,+1 261-303-7838,104-58-7196,12/01/1963,"7253 Pine Way",New York,GA

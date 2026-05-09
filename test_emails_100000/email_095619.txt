@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Anderson",
+    "email": "jacob.anderson8818@outlook.com",
+    "phone": "381 972 6080",
+    "ssn": "540 89 9478",
+    "dob": "9/10/1974",
+    "address": "5182 Summer St",
+    "city": "Austin",
+    "state": "AZ"
+  }
+}

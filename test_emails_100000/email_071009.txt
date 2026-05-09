@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Reed,joseph.reed921@outlook.com,(376) 937-3012,507-64-6975,07/04/1951,"4307 Park Blvd",Chicago,TX

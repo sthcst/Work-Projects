@@ -1,0 +1,9 @@
+contact:
+  name: James Taylor
+  email: james.taylor4023@mail.com
+  phone: +1 248-581-4032
+  ssn: 292-98-4614
+  dob: 10/14/1996
+  address: 6857 Oak Court
+  city: Houston
+  state: WA

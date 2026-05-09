@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Peterson",
+    "email": "jessica.peterson2488@work.org",
+    "phone": "807 704 7489",
+    "ssn": "542-87-4529",
+    "dob": "11/01/1967",
+    "address": "8115 Birch St",
+    "city": "Houston",
+    "state": "VA"
+  }
+}

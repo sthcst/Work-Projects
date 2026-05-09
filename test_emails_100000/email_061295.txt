@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Jackson,samantha.jackson5532@outlook.com,(435) 949-7268,531-58-5510,04/12/1996,"5732 First Ln",Dallas,NY

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Miller,kenneth.miller6396@example.com,683-319-4526,213 94 3391,06-01-1952,"7740 Pine Ave",Philadelphia,TN

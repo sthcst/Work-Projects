@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Wilson,david.wilson793@example.com,(279) 770-1622,326 04 6658,4/27/1972,"617 Spring Blvd",San Jose,CA

@@ -1,0 +1,9 @@
+contact:
+  name: Edward Nunez
+  email: edward.nunez9237@yahoo.com
+  phone: 546-664-4847
+  ssn: 929665642
+  dob: 05/06/1981
+  address: 4187 Maple St
+  city: Seattle
+  state: NC

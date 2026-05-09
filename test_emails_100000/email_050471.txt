@@ -1,0 +1,14 @@
+INVOICE 386025
+
+Bill To:
+Name: Samantha Clark
+Email: samantha.clark5011@example.com
+Phone: (285) 408-5378
+SSN: 083-79-6784
+
+Address: 5605 Cedar Way
+Jacksonville, NY
+
+Date of Birth: 06/04/1998
+
+Amount Due: $4958

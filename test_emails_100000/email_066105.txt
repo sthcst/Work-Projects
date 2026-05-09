@@ -1,0 +1,9 @@
+contact:
+  name: Charles Parker
+  email: charles.parker5806@outlook.com
+  phone: 839 978 3059
+  ssn: 210411973
+  dob: 02-16-1955
+  address: 5611 Spring Ave
+  city: Seattle
+  state: NY

@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Nelson
+  email: deborah.nelson6357@mail.com
+  phone: 295 700 6263
+  ssn: 005-83-7041
+  dob: 12/02/1993
+  address: 1962 Fifth Rd
+  city: San Diego
+  state: CO

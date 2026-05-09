@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Gonzalez",
+    "email": "pamela.gonzalez5597@mail.com",
+    "phone": "476-711-3078",
+    "ssn": "861666091",
+    "dob": "13/04/1950",
+    "address": "9017 East Blvd",
+    "city": "San Jose",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Taylor,stephanie.taylor9383@yahoo.com,882 294 1823,675533285,01-02-1960,"6129 Spring Way",San Diego,MI

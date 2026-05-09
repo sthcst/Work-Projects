@@ -1,0 +1,9 @@
+contact:
+  name: Angela Anderson
+  email: angela.anderson6021@gmail.com
+  phone: (297) 814-1035
+  ssn: 815-14-4616
+  dob: 03-17-1959
+  address: 4257 Spring St
+  city: San Antonio
+  state: AZ

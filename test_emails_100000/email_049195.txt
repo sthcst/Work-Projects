@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Taylor",
+    "email": "jeffrey.taylor9314@mail.com",
+    "phone": "669-345-7674",
+    "ssn": "101452490",
+    "dob": "05/07/1951",
+    "address": "432 Fifth Ave",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Romero,jessica.romero9413@business.net,884-512-1225,403 68 8003,02-18-1965,"8963 Summer Rd",Dallas,CA

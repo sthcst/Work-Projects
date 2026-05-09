@@ -1,0 +1,14 @@
+INVOICE 175513
+
+Bill To:
+Name: William Smith
+Email: william.smith2403@mail.com
+Phone: +1 363-311-9149
+SSN: 393 93 4880
+
+Address: 1766 Sixth Court
+Los Angeles, MA
+
+Date of Birth: 10/15/1984
+
+Amount Due: $5988

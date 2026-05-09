@@ -1,0 +1,14 @@
+INVOICE 960386
+
+Bill To:
+Name: Daniel Gonzalez
+Email: daniel.gonzalez2675@gmail.com
+Phone: 259 300 3776
+SSN: 127334060
+
+Address: 2447 Fifth Rd
+New York, CA
+
+Date of Birth: 02-19-1985
+
+Amount Due: $5631

@@ -1,0 +1,14 @@
+INVOICE 431588
+
+Bill To:
+Name: Kenneth Reeves
+Email: kenneth.reeves7626@example.com
+Phone: 357-626-2797
+SSN: 798 27 9963
+
+Address: 3711 Pine St
+Dallas, CA
+
+Date of Birth: 02-07-1962
+
+Amount Due: $3144

@@ -1,0 +1,9 @@
+contact:
+  name: John Lee
+  email: john.lee5381@gmail.com
+  phone: (286) 254-2322
+  ssn: 169-02-4390
+  dob: 03/27/2000
+  address: 8130 Fourth Ave
+  city: Los Angeles
+  state: TN

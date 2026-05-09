@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Reed,pamela.reed330@gmail.com,499 386 5164,718 41 1185,22/02/1998,"6663 Sixth Ave",Washington,AZ

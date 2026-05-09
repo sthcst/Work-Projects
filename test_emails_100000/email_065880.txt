@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles White,charles.white3689@business.net,614 542 2242,868 40 7391,10-28-1999,"842 Cedar Rd",New York,CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Lopez,andrew.lopez3339@gmail.com,(782) 652-6312,282-32-3842,02/01/1997,"7055 Cedar Blvd",Phoenix,TX

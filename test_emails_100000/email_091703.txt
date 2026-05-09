@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Reyes,emily.reyes6176@yahoo.com,681-379-7533,109 94 6186,08/04/1969,"9604 Park Rd",Dallas,OH

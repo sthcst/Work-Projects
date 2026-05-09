@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Campbell",
+    "email": "edward.campbell7715@outlook.com",
+    "phone": "(702) 547-8295",
+    "ssn": "481-96-4306",
+    "dob": "3/27/1960",
+    "address": "1426 Second Court",
+    "city": "Jacksonville",
+    "state": "FL"
+  }
+}

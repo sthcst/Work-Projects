@@ -1,0 +1,9 @@
+contact:
+  name: Robert Walker
+  email: robert.walker9019@example.com
+  phone: +1 929-221-3655
+  ssn: 543-13-2314
+  dob: 08/26/1982
+  address: 7402 First Way
+  city: Jacksonville
+  state: CO

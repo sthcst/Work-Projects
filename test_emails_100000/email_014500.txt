@@ -1,0 +1,14 @@
+INVOICE 430447
+
+Bill To:
+Name: Cynthia Smith
+Email: cynthia.smith6052@work.org
+Phone: 813 884 8842
+SSN: 612 09 3578
+
+Address: 5295 West Dr
+San Jose, OH
+
+Date of Birth: 1/5/1957
+
+Amount Due: $8287

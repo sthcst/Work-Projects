@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Miller,steven.miller4731@outlook.com,(780) 576-1408,502 56 1904,11/10/1976,"8386 Pine Ave",Jacksonville,AZ

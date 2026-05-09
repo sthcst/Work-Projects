@@ -1,0 +1,9 @@
+contact:
+  name: Michael Dominguez
+  email: michael.dominguez1199@outlook.com
+  phone: 436 282 7199
+  ssn: 673 82 5755
+  dob: 24/02/1999
+  address: 3878 Park Ave
+  city: Austin
+  state: AZ

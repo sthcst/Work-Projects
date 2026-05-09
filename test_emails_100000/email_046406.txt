@@ -1,0 +1,9 @@
+contact:
+  name: James Martin
+  email: james.martin6624@work.org
+  phone: 670 875 8116
+  ssn: 527 85 4131
+  dob: 07/14/1959
+  address: 4301 Elm St
+  city: Los Angeles
+  state: TX

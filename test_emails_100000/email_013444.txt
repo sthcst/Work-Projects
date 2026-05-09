@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Garcia,kathleen.garcia7035@work.org,639-290-2041,190-71-4869,11/9/1996,"4552 South Court",Seattle,PA

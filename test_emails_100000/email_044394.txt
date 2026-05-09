@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Cooper",
+    "email": "john.cooper8194@yahoo.com",
+    "phone": "(986) 725-5062",
+    "ssn": "232506134",
+    "dob": "11-23-2004",
+    "address": "6233 East Ln",
+    "city": "San Diego",
+    "state": "DC"
+  }
+}

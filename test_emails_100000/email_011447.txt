@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Evans",
+    "email": "andrew.evans824@company.com",
+    "phone": "616-607-1476",
+    "ssn": "467-50-3697",
+    "dob": "3/20/1960",
+    "address": "804 Cedar Ln",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

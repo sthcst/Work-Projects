@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Ortiz",
+    "email": "deborah.ortiz228@yahoo.com",
+    "phone": "+1 819-680-8361",
+    "ssn": "175 22 9811",
+    "dob": "12-12-1980",
+    "address": "4419 East Way",
+    "city": "Austin",
+    "state": "NC"
+  }
+}

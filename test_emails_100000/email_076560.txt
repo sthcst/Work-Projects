@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Walker",
+    "email": "sarah.walker4870@company.com",
+    "phone": "416-895-8951",
+    "ssn": "631-31-6704",
+    "dob": "07-07-1981",
+    "address": "1878 Fifth Dr",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

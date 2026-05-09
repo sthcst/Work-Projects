@@ -1,0 +1,14 @@
+INVOICE 428995
+
+Bill To:
+Name: Rebecca Walker
+Email: rebecca.walker760@company.com
+Phone: 498 799 1132
+SSN: 011936089
+
+Address: 1082 Main St
+Chicago, CO
+
+Date of Birth: 06/09/1951
+
+Amount Due: $8710

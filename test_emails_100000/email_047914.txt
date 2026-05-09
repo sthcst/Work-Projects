@@ -1,0 +1,9 @@
+contact:
+  name: James Rodriguez
+  email: james.rodriguez4065@business.net
+  phone: (933) 486-7385
+  ssn: 551-98-4827
+  dob: 12-07-2003
+  address: 4402 Spring Blvd
+  city: Jacksonville
+  state: VA

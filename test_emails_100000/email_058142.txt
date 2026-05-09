@@ -1,0 +1,14 @@
+INVOICE 250055
+
+Bill To:
+Name: Richard Morris
+Email: richard.morris9499@example.com
+Phone: 886-944-7871
+SSN: 379-41-7261
+
+Address: 5779 Oak Ln
+Los Angeles, WA
+
+Date of Birth: 6/17/1968
+
+Amount Due: $7823

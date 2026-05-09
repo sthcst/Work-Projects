@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Nelson",
+    "email": "shirley.nelson84@outlook.com",
+    "phone": "713 962 1923",
+    "ssn": "543 39 3781",
+    "dob": "9/3/1971",
+    "address": "7634 South Ave",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

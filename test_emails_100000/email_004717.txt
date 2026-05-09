@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Jackson,jason.jackson9858@mail.com,964-447-9753,786-19-1227,03-17-1969,"3903 Elm Ln",Phoenix,CA

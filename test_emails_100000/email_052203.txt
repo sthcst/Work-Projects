@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Perez",
+    "email": "robert.perez414@yahoo.com",
+    "phone": "373-926-4746",
+    "ssn": "185-38-7668",
+    "dob": "8/27/1973",
+    "address": "5413 First Rd",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

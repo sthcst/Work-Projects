@@ -1,0 +1,14 @@
+INVOICE 246305
+
+Bill To:
+Name: Paul Lee
+Email: paul.lee9647@gmail.com
+Phone: 927 855 2364
+SSN: 172976129
+
+Address: 8482 East Way
+Philadelphia, NC
+
+Date of Birth: 3/19/1978
+
+Amount Due: $991

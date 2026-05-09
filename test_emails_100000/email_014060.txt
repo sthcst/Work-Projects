@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Hall
+  email: rebecca.hall618@example.com
+  phone: 219-346-9016
+  ssn: 711082893
+  dob: 2/8/1977
+  address: 5198 Birch Ave
+  city: Houston
+  state: TX

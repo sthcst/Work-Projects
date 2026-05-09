@@ -1,0 +1,9 @@
+contact:
+  name: Steven Peterson
+  email: steven.peterson7508@company.com
+  phone: (985) 321-4818
+  ssn: 983-23-7613
+  dob: 07/12/1957
+  address: 9786 West St
+  city: Dallas
+  state: MI

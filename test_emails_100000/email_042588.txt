@@ -1,0 +1,9 @@
+contact:
+  name: Megan Perez
+  email: megan.perez6773@outlook.com
+  phone: 634 959 3607
+  ssn: 375 64 8794
+  dob: 10/20/1972
+  address: 6677 East Rd
+  city: Dallas
+  state: MI

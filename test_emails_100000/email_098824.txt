@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Evans",
+    "email": "jeffrey.evans412@yahoo.com",
+    "phone": "+1 990-427-7681",
+    "ssn": "923 11 5240",
+    "dob": "3/10/1974",
+    "address": "9870 First Court",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

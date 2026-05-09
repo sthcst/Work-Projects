@@ -1,0 +1,14 @@
+INVOICE 161450
+
+Bill To:
+Name: Charles Nunez
+Email: charles.nunez741@work.org
+Phone: 698-494-8147
+SSN: 449328406
+
+Address: 349 First Blvd
+Boston, NY
+
+Date of Birth: 19/07/1957
+
+Amount Due: $6278

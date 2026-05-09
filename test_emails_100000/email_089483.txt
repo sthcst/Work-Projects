@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Phillips,angela.phillips4635@gmail.com,(388) 286-7237,524 81 1946,10/22/1956,"7100 Fourth Court",Seattle,FL

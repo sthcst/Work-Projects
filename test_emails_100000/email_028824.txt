@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Rodriguez",
+    "email": "rachel.rodriguez8557@company.com",
+    "phone": "(527) 892-2897",
+    "ssn": "961673115",
+    "dob": "26/10/1990",
+    "address": "2410 East St",
+    "city": "Seattle",
+    "state": "FL"
+  }
+}

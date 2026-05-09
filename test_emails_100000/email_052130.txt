@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Reyes",
+    "email": "joshua.reyes2503@mail.com",
+    "phone": "+1 910-241-5663",
+    "ssn": "847-24-6938",
+    "dob": "08-17-1978",
+    "address": "9201 Oak Way",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

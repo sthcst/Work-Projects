@@ -1,0 +1,14 @@
+INVOICE 676105
+
+Bill To:
+Name: Helen Jackson
+Email: helen.jackson1854@company.com
+Phone: +1 841-813-4128
+SSN: 471318133
+
+Address: 1426 Cedar Ave
+Los Angeles, TX
+
+Date of Birth: 5/24/1983
+
+Amount Due: $7691

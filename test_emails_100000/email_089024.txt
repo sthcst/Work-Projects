@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Harris,william.harris8049@example.com,489 809 5301,162-99-2622,06-01-1999,"4786 Second Ln",Boston,FL

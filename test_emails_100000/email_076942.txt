@@ -1,0 +1,14 @@
+INVOICE 980850
+
+Bill To:
+Name: Jason Flores
+Email: jason.flores3379@example.com
+Phone: 369-350-4811
+SSN: 291-35-9810
+
+Address: 3511 North Dr
+Los Angeles, TX
+
+Date of Birth: 02/12/1968
+
+Amount Due: $8586

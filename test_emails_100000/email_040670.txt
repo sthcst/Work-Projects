@@ -1,0 +1,9 @@
+contact:
+  name: William Sanchez
+  email: william.sanchez5290@company.com
+  phone: (636) 269-4798
+  ssn: 087336465
+  dob: 01/19/1986
+  address: 823 Sixth Ln
+  city: Denver
+  state: CO

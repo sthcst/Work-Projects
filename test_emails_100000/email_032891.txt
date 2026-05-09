@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Peterson",
+    "email": "george.peterson5464@gmail.com",
+    "phone": "+1 768-208-2461",
+    "ssn": "219521944",
+    "dob": "12-23-1986",
+    "address": "1860 Park St",
+    "city": "Austin",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Guerrero,nicholas.guerrero3540@work.org,615-386-1582,405 54 8996,10/11/1959,"7206 West Court",Boston,PA

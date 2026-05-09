@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Miller",
+    "email": "angela.miller9987@work.org",
+    "phone": "211-931-2042",
+    "ssn": "140 69 2515",
+    "dob": "09/14/1958",
+    "address": "9645 West Ln",
+    "city": "San Antonio",
+    "state": "AZ"
+  }
+}

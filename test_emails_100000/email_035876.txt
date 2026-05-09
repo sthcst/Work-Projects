@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Perez,pamela.perez6736@yahoo.com,742 725 1572,153-25-7713,11/14/2004,"4835 Oak Court",Washington,MA

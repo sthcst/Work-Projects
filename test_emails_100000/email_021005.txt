@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Romero
+  email: jennifer.romero4362@business.net
+  phone: 503 820 7792
+  ssn: 073-88-6104
+  dob: 9/16/1998
+  address: 5950 East St
+  city: San Jose
+  state: CA

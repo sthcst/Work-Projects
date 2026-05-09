@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Cooper",
+    "email": "kathleen.cooper6026@example.com",
+    "phone": "+1 757-589-3118",
+    "ssn": "294 71 9984",
+    "dob": "04-06-1998",
+    "address": "5245 Cedar Ave",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

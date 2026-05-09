@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Anderson,steven.anderson7444@gmail.com,(816) 588-6708,581-25-6424,03/09/1986,"4445 Main Dr",Washington,TN

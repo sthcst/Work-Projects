@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Delgado
+  email: timothy.delgado7808@gmail.com
+  phone: +1 338-665-9912
+  ssn: 374-61-1706
+  dob: 03/02/1952
+  address: 6614 Elm Rd
+  city: San Jose
+  state: MA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Bell,edward.bell7973@gmail.com,+1 718-595-9521,362-23-9196,9/22/1973,"1886 Third Ave",Jacksonville,NC

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Thomas",
+    "email": "kevin.thomas3399@business.net",
+    "phone": "+1 954-350-1120",
+    "ssn": "081 80 2514",
+    "dob": "04/19/1991",
+    "address": "8839 Fourth St",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

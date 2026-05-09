@@ -1,0 +1,9 @@
+contact:
+  name: Edward Morgan
+  email: edward.morgan4093@yahoo.com
+  phone: (944) 618-6905
+  ssn: 596-36-3822
+  dob: 9/5/1992
+  address: 77 Birch Court
+  city: Phoenix
+  state: NY

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Collins,daniel.collins8419@example.com,+1 679-602-5259,412-66-2331,01/08/1966,"9666 Second Court",New York,CO

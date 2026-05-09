@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Walker",
+    "email": "donald.walker9025@mail.com",
+    "phone": "696 362 5459",
+    "ssn": "450932365",
+    "dob": "03-02-1982",
+    "address": "9341 East Blvd",
+    "city": "Boston",
+    "state": "VA"
+  }
+}

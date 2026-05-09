@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Young",
+    "email": "angela.young5919@yahoo.com",
+    "phone": "476-369-9694",
+    "ssn": "960-42-3363",
+    "dob": "6/10/1974",
+    "address": "8469 Sixth Dr",
+    "city": "New York",
+    "state": "MD"
+  }
+}

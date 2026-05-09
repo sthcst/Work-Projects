@@ -1,0 +1,14 @@
+INVOICE 884919
+
+Bill To:
+Name: Kenneth Rogers
+Email: kenneth.rogers1555@work.org
+Phone: (425) 485-6213
+SSN: 368-30-6973
+
+Address: 951 Park Dr
+San Jose, NY
+
+Date of Birth: 8/25/1979
+
+Amount Due: $8074

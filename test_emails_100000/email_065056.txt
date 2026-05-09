@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Ortiz",
+    "email": "joseph.ortiz9381@yahoo.com",
+    "phone": "(973) 804-4660",
+    "ssn": "312-15-8596",
+    "dob": "05/06/1967",
+    "address": "8129 Summer Court",
+    "city": "San Antonio",
+    "state": "WA"
+  }
+}

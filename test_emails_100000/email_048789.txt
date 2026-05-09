@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Brown,angela.brown9110@yahoo.com,857-727-2486,900178252,11-17-1981,"3472 West Dr",Chicago,MA

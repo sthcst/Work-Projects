@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Miller",
+    "email": "helen.miller8715@yahoo.com",
+    "phone": "527-395-5032",
+    "ssn": "609-47-3213",
+    "dob": "04/08/2005",
+    "address": "3884 Elm Court",
+    "city": "San Antonio",
+    "state": "AZ"
+  }
+}

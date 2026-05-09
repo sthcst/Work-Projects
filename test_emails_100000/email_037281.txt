@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Gomez,kathleen.gomez28@example.com,(690) 201-1466,865 57 5716,04-02-1989,"7264 Elm Dr",San Diego,MA

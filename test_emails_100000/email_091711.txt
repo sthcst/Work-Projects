@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Gonzalez",
+    "email": "lisa.gonzalez3796@company.com",
+    "phone": "+1 607-466-8422",
+    "ssn": "771-59-5928",
+    "dob": "03-03-1953",
+    "address": "9916 Sixth Ave",
+    "city": "San Antonio",
+    "state": "IL"
+  }
+}

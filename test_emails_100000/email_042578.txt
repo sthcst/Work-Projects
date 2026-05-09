@@ -1,0 +1,14 @@
+INVOICE 860105
+
+Bill To:
+Name: Joshua Hernandez
+Email: joshua.hernandez7856@work.org
+Phone: +1 414-820-9229
+SSN: 560195703
+
+Address: 3500 First Rd
+Boston, TX
+
+Date of Birth: 4/13/2000
+
+Amount Due: $9242

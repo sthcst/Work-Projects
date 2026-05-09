@@ -1,0 +1,14 @@
+INVOICE 403151
+
+Bill To:
+Name: David Perez
+Email: david.perez6019@example.com
+Phone: 625 742 3323
+SSN: 336-55-7343
+
+Address: 1703 Pine Rd
+Chicago, CA
+
+Date of Birth: 24/09/1960
+
+Amount Due: $4090

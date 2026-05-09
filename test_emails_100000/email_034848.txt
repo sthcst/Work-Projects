@@ -1,0 +1,14 @@
+INVOICE 914700
+
+Bill To:
+Name: Lisa Hernandez
+Email: lisa.hernandez9897@mail.com
+Phone: (755) 940-6356
+SSN: 555 29 2006
+
+Address: 229 Summer Dr
+Denver, WA
+
+Date of Birth: 02/19/1958
+
+Amount Due: $9313

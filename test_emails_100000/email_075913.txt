@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Campbell,steven.campbell1326@work.org,+1 223-717-4801,957-65-3291,10/17/1962,"5475 Summer Rd",Boston,TX

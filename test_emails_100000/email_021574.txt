@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Jones
+  email: katherine.jones5786@work.org
+  phone: +1 962-540-2600
+  ssn: 191-68-3990
+  dob: 11-09-2005
+  address: 2042 First Ln
+  city: Austin
+  state: AZ

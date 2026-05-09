@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Nelson",
+    "email": "christine.nelson1550@outlook.com",
+    "phone": "(986) 393-2422",
+    "ssn": "383 94 6897",
+    "dob": "7/23/1967",
+    "address": "8438 West Ave",
+    "city": "Chicago",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Davis",
+    "email": "edward.davis9332@example.com",
+    "phone": "974-863-8896",
+    "ssn": "591 75 8182",
+    "dob": "11/7/1968",
+    "address": "4905 Main Ave",
+    "city": "San Antonio",
+    "state": "WI"
+  }
+}

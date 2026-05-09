@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Jackson",
+    "email": "timothy.jackson385@work.org",
+    "phone": "948-538-8478",
+    "ssn": "701 79 8267",
+    "dob": "8/26/1986",
+    "address": "2631 Park Ln",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

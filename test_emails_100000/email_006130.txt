@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Walker,ashley.walker9304@example.com,236 926 1533,497-94-7392,2/25/1998,"8698 Cedar Dr",Denver,TX

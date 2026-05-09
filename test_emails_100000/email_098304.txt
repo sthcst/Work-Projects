@@ -1,0 +1,14 @@
+INVOICE 235825
+
+Bill To:
+Name: Gary Murillo
+Email: gary.murillo890@mail.com
+Phone: 958-768-7074
+SSN: 093 65 6638
+
+Address: 5552 Fourth Ln
+Boston, MI
+
+Date of Birth: 2/5/1996
+
+Amount Due: $7072

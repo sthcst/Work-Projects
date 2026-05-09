@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Gonzalez
+  email: jennifer.gonzalez1052@example.com
+  phone: (925) 480-8301
+  ssn: 339325371
+  dob: 05/14/1968
+  address: 2345 Third Blvd
+  city: Seattle
+  state: VA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Davis,deborah.davis4546@work.org,+1 804-427-8665,261-19-4326,28/02/1981,"6638 Oak Ln",Seattle,AZ

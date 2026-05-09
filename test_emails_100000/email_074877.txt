@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Jones,kenneth.jones8155@outlook.com,854 549 8318,495-56-9304,05-22-1991,"6575 South St",Austin,DC

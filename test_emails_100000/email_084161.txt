@@ -1,0 +1,14 @@
+INVOICE 211222
+
+Bill To:
+Name: Emma Jones
+Email: emma.jones6015@yahoo.com
+Phone: (843) 386-7945
+SSN: 051 66 3945
+
+Address: 116 Second St
+Austin, FL
+
+Date of Birth: 20/06/1955
+
+Amount Due: $4592

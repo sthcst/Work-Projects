@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Hernandez",
+    "email": "stephanie.hernandez6045@mail.com",
+    "phone": "+1 494-921-9370",
+    "ssn": "097 01 2364",
+    "dob": "02-21-1989",
+    "address": "4755 Main Rd",
+    "city": "New York",
+    "state": "CA"
+  }
+}

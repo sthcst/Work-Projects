@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Hall",
+    "email": "joseph.hall473@gmail.com",
+    "phone": "555 848 7225",
+    "ssn": "771-71-3506",
+    "dob": "12/21/1967",
+    "address": "7490 East Dr",
+    "city": "Dallas",
+    "state": "MI"
+  }
+}

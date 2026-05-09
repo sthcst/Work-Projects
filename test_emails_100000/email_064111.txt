@@ -1,0 +1,14 @@
+INVOICE 447905
+
+Bill To:
+Name: Steven Thomas
+Email: steven.thomas4119@company.com
+Phone: 970-920-1154
+SSN: 614412650
+
+Address: 5347 Cedar Rd
+San Jose, WA
+
+Date of Birth: 06/10/1954
+
+Amount Due: $6429

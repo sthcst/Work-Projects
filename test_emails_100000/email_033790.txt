@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Walker",
+    "email": "anthony.walker2902@outlook.com",
+    "phone": "+1 419-969-1459",
+    "ssn": "144-58-6891",
+    "dob": "03/02/1957",
+    "address": "5011 Pine Court",
+    "city": "San Diego",
+    "state": "FL"
+  }
+}

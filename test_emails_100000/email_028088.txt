@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Sanchez
+  email: deborah.sanchez7211@mail.com
+  phone: 357-944-6290
+  ssn: 373-04-5668
+  dob: 10/24/2005
+  address: 1144 Sixth St
+  city: Los Angeles
+  state: NJ

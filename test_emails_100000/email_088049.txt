@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Phillips,john.phillips5781@mail.com,(324) 247-1979,293-59-9356,10/16/1953,"4916 Elm Ln",Austin,AZ

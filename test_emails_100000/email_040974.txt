@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Martin",
+    "email": "helen.martin9535@company.com",
+    "phone": "+1 273-513-8297",
+    "ssn": "441-64-3680",
+    "dob": "7/10/1978",
+    "address": "1382 East St",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

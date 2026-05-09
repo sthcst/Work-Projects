@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Brown,rebecca.brown4145@gmail.com,+1 432-225-8530,230-01-1570,12/07/1993,"5353 North Way",Seattle,NC

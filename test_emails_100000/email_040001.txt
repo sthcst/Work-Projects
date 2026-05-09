@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Bell",
+    "email": "john.bell9308@business.net",
+    "phone": "+1 303-505-5062",
+    "ssn": "306-56-4071",
+    "dob": "12/26/1999",
+    "address": "4101 Park St",
+    "city": "New York",
+    "state": "NY"
+  }
+}

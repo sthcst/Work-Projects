@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Carter",
+    "email": "kimberly.carter4006@business.net",
+    "phone": "(450) 703-6892",
+    "ssn": "063535261",
+    "dob": "22/01/1965",
+    "address": "6763 Third Blvd",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

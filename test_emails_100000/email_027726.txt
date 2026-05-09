@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Stewart",
+    "email": "rebecca.stewart2026@outlook.com",
+    "phone": "(276) 745-8250",
+    "ssn": "815 69 3631",
+    "dob": "10/13/1984",
+    "address": "6319 Second Ln",
+    "city": "Chicago",
+    "state": "MD"
+  }
+}

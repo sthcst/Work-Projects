@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Delgado,paul.delgado9795@business.net,467 330 1512,888 55 6997,09-28-1968,"3476 West Ln",San Jose,NC

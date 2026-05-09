@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Thomas,james.thomas3578@work.org,(551) 435-8914,004681985,25/03/1983,"1693 Birch Ave",Chicago,WA

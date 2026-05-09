@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Moore",
+    "email": "kenneth.moore5660@business.net",
+    "phone": "494 735 9375",
+    "ssn": "043-71-9225",
+    "dob": "10/13/2003",
+    "address": "4687 Maple Ave",
+    "city": "Los Angeles",
+    "state": "GA"
+  }
+}

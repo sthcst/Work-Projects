@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Edwards",
+    "email": "cynthia.edwards6802@company.com",
+    "phone": "(280) 462-8591",
+    "ssn": "541-24-2217",
+    "dob": "1/16/1970",
+    "address": "4048 North Ln",
+    "city": "Houston",
+    "state": "MA"
+  }
+}

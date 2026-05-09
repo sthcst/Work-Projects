@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Nunez
+  email: pamela.nunez746@business.net
+  phone: 880-229-7242
+  ssn: 941 45 1458
+  dob: 8/12/2005
+  address: 7030 Oak Dr
+  city: Jacksonville
+  state: VA

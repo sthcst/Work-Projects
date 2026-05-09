@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Garcia,kenneth.garcia9648@yahoo.com,761 493 2300,547-04-1434,8/26/1955,"8040 Cedar St",Chicago,PA

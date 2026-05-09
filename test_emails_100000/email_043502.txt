@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Guerrero",
+    "email": "katherine.guerrero1882@example.com",
+    "phone": "+1 726-634-4918",
+    "ssn": "781 25 1868",
+    "dob": "09-03-1966",
+    "address": "4008 Fourth St",
+    "city": "Jacksonville",
+    "state": "VA"
+  }
+}

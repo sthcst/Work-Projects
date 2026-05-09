@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Nunez
+  email: ashley.nunez72@business.net
+  phone: (579) 285-3966
+  ssn: 336215125
+  dob: 10/12/1971
+  address: 3979 Fourth Blvd
+  city: Austin
+  state: FL

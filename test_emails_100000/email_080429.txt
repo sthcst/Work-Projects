@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Miller",
+    "email": "jacob.miller5412@outlook.com",
+    "phone": "+1 332-810-8648",
+    "ssn": "836 86 2804",
+    "dob": "04/12/1978",
+    "address": "9379 Second Blvd",
+    "city": "New York",
+    "state": "AZ"
+  }
+}

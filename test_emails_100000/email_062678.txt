@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Smith
+  email: katherine.smith3033@business.net
+  phone: 704-729-7567
+  ssn: 783582807
+  dob: 22/01/1997
+  address: 3455 South Rd
+  city: Washington
+  state: WA

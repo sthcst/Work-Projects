@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Lewis,jennifer.lewis8833@mail.com,(433) 740-7941,565 72 7789,10/09/1952,"7090 South Dr",San Diego,TX

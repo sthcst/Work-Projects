@@ -1,0 +1,9 @@
+contact:
+  name: Jane Serrano
+  email: jane.serrano7203@example.com
+  phone: +1 217-582-5898
+  ssn: 502-85-2756
+  dob: 10/5/1973
+  address: 4492 Fourth Court
+  city: San Antonio
+  state: CA

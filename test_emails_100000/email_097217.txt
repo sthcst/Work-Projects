@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Garcia,ronald.garcia7039@business.net,(777) 631-2251,890 77 8504,10-02-1984,"8447 North St",Dallas,TX

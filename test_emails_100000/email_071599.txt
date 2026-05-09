@@ -1,0 +1,9 @@
+contact:
+  name: Brian Guerrero
+  email: brian.guerrero1388@company.com
+  phone: +1 750-648-1934
+  ssn: 504 03 3108
+  dob: 19/10/1974
+  address: 8682 Park Court
+  city: Los Angeles
+  state: DC

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Rodriguez,james.rodriguez7804@mail.com,+1 607-263-6157,021 89 7796,06/07/1991,"2050 Spring St",Philadelphia,MD

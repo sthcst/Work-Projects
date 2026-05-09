@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Clark,michael.clark6837@work.org,+1 609-859-3794,155-58-7891,02/06/1999,"1806 Spring Dr",Jacksonville,NJ

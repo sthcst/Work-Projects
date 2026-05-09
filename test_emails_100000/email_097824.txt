@@ -1,0 +1,14 @@
+INVOICE 639213
+
+Bill To:
+Name: Emily Parker
+Email: emily.parker1422@example.com
+Phone: 680-709-6083
+SSN: 944794540
+
+Address: 3739 East Court
+New York, TX
+
+Date of Birth: 3/13/1963
+
+Amount Due: $8944

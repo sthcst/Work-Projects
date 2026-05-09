@@ -1,0 +1,9 @@
+contact:
+  name: Timothy White
+  email: timothy.white5100@gmail.com
+  phone: (343) 603-7415
+  ssn: 172686073
+  dob: 1/21/1958
+  address: 8787 East Way
+  city: Jacksonville
+  state: FL

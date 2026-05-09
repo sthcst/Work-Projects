@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Nunez,anthony.nunez1418@outlook.com,+1 465-940-8982,503 45 6187,11/23/1951,"9682 Cedar Rd",New York,NJ

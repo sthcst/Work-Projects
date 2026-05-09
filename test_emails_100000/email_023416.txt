@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Evans,angela.evans4072@yahoo.com,+1 795-631-4003,058 55 9088,25/02/1976,"9172 South Way",San Antonio,AZ

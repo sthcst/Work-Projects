@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Hall
+  email: stephanie.hall4095@example.com
+  phone: (217) 263-8001
+  ssn: 449918318
+  dob: 23/07/2002
+  address: 4395 West Dr
+  city: Seattle
+  state: GA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Reeves,katherine.reeves4298@mail.com,+1 931-264-3960,931-57-9336,06-11-1987,"1912 Summer Blvd",San Antonio,CA

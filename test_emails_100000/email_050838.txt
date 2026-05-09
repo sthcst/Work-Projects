@@ -1,0 +1,9 @@
+contact:
+  name: David Serrano
+  email: david.serrano9840@gmail.com
+  phone: +1 622-216-8228
+  ssn: 494-58-8878
+  dob: 12/1/1990
+  address: 5334 Pine St
+  city: Boston
+  state: OH

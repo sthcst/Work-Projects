@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Nunez
+  email: katherine.nunez6623@example.com
+  phone: 660-367-7140
+  ssn: 303 10 7136
+  dob: 02/20/1968
+  address: 8631 Fourth Way
+  city: Washington
+  state: FL

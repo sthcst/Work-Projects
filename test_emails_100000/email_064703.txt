@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Morgan",
+    "email": "christine.morgan8126@business.net",
+    "phone": "(841) 346-9735",
+    "ssn": "513 28 8161",
+    "dob": "6/14/2002",
+    "address": "6249 Pine Ln",
+    "city": "Boston",
+    "state": "PA"
+  }
+}

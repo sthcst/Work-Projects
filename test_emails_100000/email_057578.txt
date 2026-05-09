@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Ortiz
+  email: timothy.ortiz7807@gmail.com
+  phone: 979-847-8385
+  ssn: 362-81-2441
+  dob: 14/01/1998
+  address: 6900 South Blvd
+  city: Washington
+  state: NJ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Carter",
+    "email": "stephanie.carter7914@example.com",
+    "phone": "(232) 977-5923",
+    "ssn": "888267614",
+    "dob": "3/9/2002",
+    "address": "1269 Main Blvd",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

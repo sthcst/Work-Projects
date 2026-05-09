@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Garcia",
+    "email": "matthew.garcia7211@gmail.com",
+    "phone": "(938) 797-8223",
+    "ssn": "938226672",
+    "dob": "05/02/1954",
+    "address": "1654 Sixth Blvd",
+    "city": "Jacksonville",
+    "state": "MD"
+  }
+}

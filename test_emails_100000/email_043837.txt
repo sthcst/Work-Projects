@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Ramirez",
+    "email": "nicholas.ramirez8770@outlook.com",
+    "phone": "(295) 534-5172",
+    "ssn": "033-06-5357",
+    "dob": "13/01/1975",
+    "address": "404 Cedar Dr",
+    "city": "Seattle",
+    "state": "TN"
+  }
+}

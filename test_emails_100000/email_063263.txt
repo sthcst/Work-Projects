@@ -1,0 +1,14 @@
+INVOICE 120479
+
+Bill To:
+Name: Jennifer Smith
+Email: jennifer.smith1393@company.com
+Phone: +1 666-455-9438
+SSN: 422308752
+
+Address: 5177 South Way
+Washington, FL
+
+Date of Birth: 11-04-1974
+
+Amount Due: $9484

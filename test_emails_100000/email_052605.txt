@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Hernandez",
+    "email": "kevin.hernandez1240@outlook.com",
+    "phone": "758-475-6640",
+    "ssn": "315021915",
+    "dob": "05/24/1997",
+    "address": "5118 West Ln",
+    "city": "Philadelphia",
+    "state": "MA"
+  }
+}

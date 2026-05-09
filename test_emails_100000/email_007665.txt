@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Smith,kenneth.smith9359@company.com,+1 304-855-6614,142 26 9073,04/07/1956,"5681 West Rd",Philadelphia,IL

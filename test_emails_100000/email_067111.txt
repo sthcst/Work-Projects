@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Thomas,edward.thomas8009@yahoo.com,(949) 646-7629,386079445,2/22/1957,"9450 Second St",San Diego,AZ

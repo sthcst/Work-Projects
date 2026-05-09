@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Sanchez
+  email: katherine.sanchez5129@example.com
+  phone: 515-580-2994
+  ssn: 872-70-7764
+  dob: 12/5/1981
+  address: 1560 Sixth Dr
+  city: Jacksonville
+  state: FL

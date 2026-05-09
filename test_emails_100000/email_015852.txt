@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Gonzalez",
+    "email": "amanda.gonzalez3071@example.com",
+    "phone": "(896) 263-2660",
+    "ssn": "220-93-3069",
+    "dob": "01-01-1955",
+    "address": "1524 Summer Court",
+    "city": "San Diego",
+    "state": "MA"
+  }
+}

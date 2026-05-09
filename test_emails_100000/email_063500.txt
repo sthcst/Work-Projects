@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Reyes
+  email: christopher.reyes2477@company.com
+  phone: 691 678 4114
+  ssn: 471762205
+  dob: 6/19/1996
+  address: 1518 East Rd
+  city: Philadelphia
+  state: MO

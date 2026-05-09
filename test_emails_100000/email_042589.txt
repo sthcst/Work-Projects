@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Lee",
+    "email": "ronald.lee6415@gmail.com",
+    "phone": "(749) 958-8706",
+    "ssn": "766 23 1960",
+    "dob": "25/11/2000",
+    "address": "8753 Cedar Ave",
+    "city": "San Antonio",
+    "state": "VA"
+  }
+}

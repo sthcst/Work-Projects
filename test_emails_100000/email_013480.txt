@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Rogers",
+    "email": "jason.rogers2434@gmail.com",
+    "phone": "818 244 9054",
+    "ssn": "877-23-5980",
+    "dob": "17/07/1967",
+    "address": "8431 Fifth St",
+    "city": "Austin",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Taylor",
+    "email": "brenda.taylor936@company.com",
+    "phone": "+1 270-446-4890",
+    "ssn": "639-41-1510",
+    "dob": "05/24/1987",
+    "address": "1919 Elm Ave",
+    "city": "Dallas",
+    "state": "WA"
+  }
+}

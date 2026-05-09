@@ -1,0 +1,14 @@
+INVOICE 842354
+
+Bill To:
+Name: Anna Dominguez
+Email: anna.dominguez291@outlook.com
+Phone: 458 644 1202
+SSN: 323-50-1805
+
+Address: 7739 Main Ln
+Chicago, CO
+
+Date of Birth: 4/28/1970
+
+Amount Due: $1024

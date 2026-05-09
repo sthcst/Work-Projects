@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Wilson",
+    "email": "jason.wilson1786@mail.com",
+    "phone": "(844) 400-8993",
+    "ssn": "057212551",
+    "dob": "11/06/1997",
+    "address": "7153 Spring Way",
+    "city": "Houston",
+    "state": "MI"
+  }
+}

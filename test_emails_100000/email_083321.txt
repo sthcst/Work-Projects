@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Stewart",
+    "email": "katherine.stewart7288@gmail.com",
+    "phone": "+1 444-637-2912",
+    "ssn": "213-62-4442",
+    "dob": "26/02/1984",
+    "address": "2557 Third Ave",
+    "city": "Dallas",
+    "state": "AZ"
+  }
+}

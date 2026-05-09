@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Murillo
+  email: kimberly.murillo9813@example.com
+  phone: 428-705-3334
+  ssn: 177-58-7341
+  dob: 03/23/1959
+  address: 6071 Birch Rd
+  city: Los Angeles
+  state: PA

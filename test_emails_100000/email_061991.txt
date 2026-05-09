@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Smith
+  email: ashley.smith998@example.com
+  phone: 982 713 6120
+  ssn: 787-74-8642
+  dob: 02-01-1981
+  address: 7154 Elm Dr
+  city: Austin
+  state: GA

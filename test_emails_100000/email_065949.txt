@@ -1,0 +1,14 @@
+INVOICE 875185
+
+Bill To:
+Name: William Walker
+Email: william.walker3475@mail.com
+Phone: 596-947-8566
+SSN: 423783471
+
+Address: 75 Maple Ave
+Seattle, MD
+
+Date of Birth: 28/09/1989
+
+Amount Due: $9349

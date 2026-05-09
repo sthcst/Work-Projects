@@ -1,0 +1,14 @@
+INVOICE 212860
+
+Bill To:
+Name: James Rodriguez
+Email: james.rodriguez7738@example.com
+Phone: (829) 759-2412
+SSN: 219 93 3265
+
+Address: 8796 West Way
+Denver, FL
+
+Date of Birth: 05/01/1988
+
+Amount Due: $2702

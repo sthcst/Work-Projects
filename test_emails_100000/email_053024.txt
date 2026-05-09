@@ -1,0 +1,14 @@
+INVOICE 740410
+
+Bill To:
+Name: Jane Smith
+Email: jane.smith4653@work.org
+Phone: +1 708-453-8156
+SSN: 858 79 8157
+
+Address: 6861 First St
+Phoenix, WA
+
+Date of Birth: 7/21/1959
+
+Amount Due: $4681

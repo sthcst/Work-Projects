@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Lee
+  email: kevin.lee3032@outlook.com
+  phone: +1 716-251-1855
+  ssn: 323-13-3427
+  dob: 8/14/1956
+  address: 5833 Pine Ln
+  city: San Diego
+  state: WI

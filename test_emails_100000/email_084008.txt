@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Martin",
+    "email": "richard.martin8282@gmail.com",
+    "phone": "981-417-6713",
+    "ssn": "825-71-6740",
+    "dob": "08-15-1997",
+    "address": "8731 Summer Rd",
+    "city": "New York",
+    "state": "CO"
+  }
+}

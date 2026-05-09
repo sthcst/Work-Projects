@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Gomez",
+    "email": "shirley.gomez437@company.com",
+    "phone": "(508) 915-8118",
+    "ssn": "359369052",
+    "dob": "05/26/1983",
+    "address": "3163 Birch Blvd",
+    "city": "Jacksonville",
+    "state": "CO"
+  }
+}

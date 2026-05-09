@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Bell,lisa.bell3635@outlook.com,578 967 9593,024887267,16/08/1994,"9746 Second Court",San Antonio,MA

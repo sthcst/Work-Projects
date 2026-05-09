@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Lee,pamela.lee7247@work.org,+1 689-564-8350,972-06-2920,19/03/2004,"589 First St",New York,CA

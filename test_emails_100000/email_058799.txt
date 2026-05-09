@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Garcia",
+    "email": "sarah.garcia9702@company.com",
+    "phone": "(897) 313-2992",
+    "ssn": "160-46-5466",
+    "dob": "3/17/1988",
+    "address": "2295 Main Dr",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

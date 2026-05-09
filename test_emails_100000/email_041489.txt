@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Brown,amanda.brown6490@work.org,+1 919-431-3043,903-45-9088,03/14/1968,"9111 West St",Houston,PA

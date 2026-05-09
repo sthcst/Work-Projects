@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Bell
+  email: jessica.bell9906@gmail.com
+  phone: (254) 268-9659
+  ssn: 549-82-4942
+  dob: 12/18/1970
+  address: 4352 Cedar Ave
+  city: Houston
+  state: CA

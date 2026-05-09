@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Parker",
+    "email": "brian.parker4954@business.net",
+    "phone": "(331) 327-6424",
+    "ssn": "418-49-1500",
+    "dob": "04-16-1994",
+    "address": "4912 Third Rd",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

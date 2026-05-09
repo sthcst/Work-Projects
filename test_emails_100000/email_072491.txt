@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Brown",
+    "email": "brian.brown8547@business.net",
+    "phone": "936 376 5715",
+    "ssn": "021303361",
+    "dob": "08/17/1995",
+    "address": "6285 Third Court",
+    "city": "Chicago",
+    "state": "NC"
+  }
+}

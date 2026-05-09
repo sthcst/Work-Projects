@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Alvarado",
+    "email": "paul.alvarado3271@business.net",
+    "phone": "555 673 9658",
+    "ssn": "847-08-2890",
+    "dob": "12/4/1966",
+    "address": "5442 Fifth Ln",
+    "city": "Boston",
+    "state": "NJ"
+  }
+}

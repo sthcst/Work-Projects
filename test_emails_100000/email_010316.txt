@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Garcia
+  email: nicholas.garcia2873@example.com
+  phone: 819-968-4129
+  ssn: 425-86-7373
+  dob: 04-16-2000
+  address: 6082 Elm Dr
+  city: Seattle
+  state: DC

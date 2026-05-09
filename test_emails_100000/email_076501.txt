@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Bell,samantha.bell134@example.com,+1 589-833-8997,383-27-1880,07/08/1963,"2146 Park Court",Houston,NY

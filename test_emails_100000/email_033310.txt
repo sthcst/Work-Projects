@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Gonzalez",
+    "email": "maria.gonzalez6428@yahoo.com",
+    "phone": "347-910-4570",
+    "ssn": "508 13 7944",
+    "dob": "06/18/1988",
+    "address": "6849 Fifth Blvd",
+    "city": "Austin",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Reeves",
+    "email": "sarah.reeves7705@work.org",
+    "phone": "210 698 3053",
+    "ssn": "731 02 5478",
+    "dob": "11/20/1981",
+    "address": "2349 Second Way",
+    "city": "New York",
+    "state": "AZ"
+  }
+}

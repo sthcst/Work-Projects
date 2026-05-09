@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Williams",
+    "email": "kevin.williams6837@yahoo.com",
+    "phone": "(734) 277-2021",
+    "ssn": "744 34 7798",
+    "dob": "12/9/1974",
+    "address": "9570 Oak Court",
+    "city": "Washington",
+    "state": "WI"
+  }
+}

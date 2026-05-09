@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Romero",
+    "email": "sarah.romero2644@mail.com",
+    "phone": "+1 234-678-6759",
+    "ssn": "514-22-4972",
+    "dob": "12/24/2003",
+    "address": "2214 Maple Rd",
+    "city": "San Jose",
+    "state": "MA"
+  }
+}

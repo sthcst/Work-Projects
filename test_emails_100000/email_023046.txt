@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Ramirez",
+    "email": "brian.ramirez8763@business.net",
+    "phone": "246 225 9243",
+    "ssn": "395-49-1547",
+    "dob": "01/24/1983",
+    "address": "9948 First Court",
+    "city": "San Jose",
+    "state": "MD"
+  }
+}

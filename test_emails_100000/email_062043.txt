@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Campbell",
+    "email": "william.campbell7482@example.com",
+    "phone": "673-290-7359",
+    "ssn": "511-54-8223",
+    "dob": "11-24-1981",
+    "address": "9147 Fifth Rd",
+    "city": "San Jose",
+    "state": "FL"
+  }
+}

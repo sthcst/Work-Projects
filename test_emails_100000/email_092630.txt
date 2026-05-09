@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Morgan",
+    "email": "deborah.morgan8208@business.net",
+    "phone": "252-645-3626",
+    "ssn": "344082149",
+    "dob": "05-11-1957",
+    "address": "1711 Summer Ln",
+    "city": "Seattle",
+    "state": "TN"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Garcia,anna.garcia26@work.org,(223) 731-6884,145-73-9323,4/22/1960,"2573 First Ln",San Diego,MO

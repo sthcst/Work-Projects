@@ -1,0 +1,9 @@
+contact:
+  name: Megan Harris
+  email: megan.harris9425@example.com
+  phone: +1 626-516-7693
+  ssn: 868912031
+  dob: 27/05/1971
+  address: 8369 South St
+  city: Austin
+  state: TX

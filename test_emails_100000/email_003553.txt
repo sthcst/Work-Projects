@@ -1,0 +1,14 @@
+INVOICE 974769
+
+Bill To:
+Name: David Lopez
+Email: david.lopez3829@gmail.com
+Phone: 857 345 1255
+SSN: 426 25 6570
+
+Address: 4820 Spring St
+Dallas, MO
+
+Date of Birth: 3/22/1967
+
+Amount Due: $7395

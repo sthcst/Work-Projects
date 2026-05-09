@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Morris,andrew.morris5709@business.net,(530) 911-7127,010 13 7676,13/03/1960,"2844 Third Blvd",San Diego,AZ

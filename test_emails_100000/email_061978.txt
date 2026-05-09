@@ -1,0 +1,14 @@
+INVOICE 747088
+
+Bill To:
+Name: Donald Ramirez
+Email: donald.ramirez9971@business.net
+Phone: 778-656-1346
+SSN: 960 72 9772
+
+Address: 2429 North St
+Los Angeles, WA
+
+Date of Birth: 12/16/1962
+
+Amount Due: $640

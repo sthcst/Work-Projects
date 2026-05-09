@@ -1,0 +1,9 @@
+contact:
+  name: Richard Rogers
+  email: richard.rogers6483@gmail.com
+  phone: (596) 807-4389
+  ssn: 380-24-2701
+  dob: 1/4/1982
+  address: 9791 East Ave
+  city: Philadelphia
+  state: IL

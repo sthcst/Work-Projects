@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Lopez",
+    "email": "lauren.lopez968@company.com",
+    "phone": "402-321-3662",
+    "ssn": "201 51 6924",
+    "dob": "2/19/1960",
+    "address": "2929 Third Ln",
+    "city": "Phoenix",
+    "state": "CO"
+  }
+}

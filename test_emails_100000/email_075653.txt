@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Rogers",
+    "email": "samantha.rogers4393@yahoo.com",
+    "phone": "+1 779-507-1450",
+    "ssn": "348-97-5961",
+    "dob": "09/06/1975",
+    "address": "4950 Birch Dr",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Cooper
+  email: nicholas.cooper8046@gmail.com
+  phone: (328) 458-3116
+  ssn: 694-37-3102
+  dob: 03-26-1953
+  address: 7521 Elm Blvd
+  city: Philadelphia
+  state: WA

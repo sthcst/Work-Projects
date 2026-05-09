@@ -1,0 +1,9 @@
+contact:
+  name: Emily Dominguez
+  email: emily.dominguez228@outlook.com
+  phone: 368-282-3039
+  ssn: 123 38 1151
+  dob: 04-04-1992
+  address: 1780 Oak St
+  city: Seattle
+  state: GA

@@ -1,0 +1,9 @@
+contact:
+  name: James Walker
+  email: james.walker9827@outlook.com
+  phone: (286) 539-4490
+  ssn: 164 15 2822
+  dob: 03-09-1953
+  address: 487 Birch Way
+  city: Houston
+  state: MA

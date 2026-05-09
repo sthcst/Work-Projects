@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Williams,george.williams5661@outlook.com,563 609 2110,631808605,01/09/1982,"1098 Spring Dr",Washington,MD

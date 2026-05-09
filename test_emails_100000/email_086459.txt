@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Bell",
+    "email": "jacob.bell228@mail.com",
+    "phone": "398-330-2825",
+    "ssn": "429-23-1696",
+    "dob": "11/19/1986",
+    "address": "5352 South St",
+    "city": "Jacksonville",
+    "state": "CO"
+  }
+}

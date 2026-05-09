@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Cooper,michael.cooper6126@gmail.com,541-989-5403,429 06 4330,05/12/1982,"4832 Fourth Dr",Philadelphia,AZ

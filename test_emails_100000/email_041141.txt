@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Walker
+  email: nicholas.walker3552@yahoo.com
+  phone: 356-428-6270
+  ssn: 694-03-1567
+  dob: 18/02/2004
+  address: 3969 Sixth Rd
+  city: New York
+  state: FL

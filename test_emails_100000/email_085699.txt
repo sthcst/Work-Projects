@@ -1,0 +1,14 @@
+INVOICE 953118
+
+Bill To:
+Name: Jeffrey Edwards
+Email: jeffrey.edwards1315@example.com
+Phone: (665) 914-3101
+SSN: 604-11-8398
+
+Address: 209 First Ln
+Dallas, TX
+
+Date of Birth: 3/25/2005
+
+Amount Due: $935

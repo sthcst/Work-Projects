@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Clark",
+    "email": "maria.clark2115@gmail.com",
+    "phone": "(937) 674-5645",
+    "ssn": "883 94 4360",
+    "dob": "10/14/1975",
+    "address": "9236 Summer Ave",
+    "city": "Philadelphia",
+    "state": "WI"
+  }
+}

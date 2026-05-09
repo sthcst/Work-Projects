@@ -1,0 +1,14 @@
+INVOICE 155397
+
+Bill To:
+Name: Shirley Ortiz
+Email: shirley.ortiz5909@example.com
+Phone: 255-215-8940
+SSN: 615-97-8797
+
+Address: 8370 Sixth Way
+Jacksonville, TX
+
+Date of Birth: 09/01/1977
+
+Amount Due: $9267

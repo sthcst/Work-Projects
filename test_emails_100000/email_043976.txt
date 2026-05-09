@@ -1,0 +1,14 @@
+INVOICE 565119
+
+Bill To:
+Name: Michelle Taylor
+Email: michelle.taylor8@company.com
+Phone: (647) 285-6861
+SSN: 335352470
+
+Address: 3302 Main Dr
+Los Angeles, VA
+
+Date of Birth: 01/04/1979
+
+Amount Due: $5894

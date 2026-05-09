@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Martinez,michael.martinez9042@yahoo.com,+1 349-695-8949,819 70 9776,01-19-1954,"7305 Maple Rd",Dallas,NY

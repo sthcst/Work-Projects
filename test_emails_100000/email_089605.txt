@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Hall
+  email: ashley.hall9358@gmail.com
+  phone: 482 553 5625
+  ssn: 896 21 4798
+  dob: 08-08-1977
+  address: 4522 Birch Dr
+  city: New York
+  state: TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Thompson,stephanie.thompson653@work.org,(413) 237-2237,750-42-1812,5/12/1977,"9473 Spring Blvd",Houston,FL

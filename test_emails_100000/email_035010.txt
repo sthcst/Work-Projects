@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Robinson,ronald.robinson777@gmail.com,+1 830-799-8683,376355194,12/15/2000,"2978 Pine Court",San Diego,CA

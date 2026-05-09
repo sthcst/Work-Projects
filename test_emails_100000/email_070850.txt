@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Thompson
+  email: brenda.thompson8676@company.com
+  phone: 393 966 3944
+  ssn: 646604497
+  dob: 1/14/1955
+  address: 4921 Elm Ave
+  city: San Diego
+  state: CA

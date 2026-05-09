@@ -1,0 +1,9 @@
+contact:
+  name: Angela Bell
+  email: angela.bell7625@mail.com
+  phone: 858-687-6392
+  ssn: 470 84 7919
+  dob: 15/11/1987
+  address: 5580 Second Ave
+  city: Denver
+  state: OH

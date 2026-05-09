@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Alvarado,paul.alvarado1766@mail.com,641-659-7937,572 63 3660,07-26-1950,"7286 Third Ave",San Diego,DC

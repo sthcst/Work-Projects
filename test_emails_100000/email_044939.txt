@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Reed",
+    "email": "daniel.reed7219@work.org",
+    "phone": "895-814-9359",
+    "ssn": "671 16 1305",
+    "dob": "12/19/1968",
+    "address": "2102 Pine Blvd",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

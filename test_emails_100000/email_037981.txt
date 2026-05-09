@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Guerrero
+  email: deborah.guerrero8294@business.net
+  phone: 864 638 6233
+  ssn: 714796328
+  dob: 04/11/1951
+  address: 9668 Third Ave
+  city: Seattle
+  state: FL

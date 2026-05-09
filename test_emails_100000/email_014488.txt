@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Reeves",
+    "email": "timothy.reeves9899@business.net",
+    "phone": "+1 623-487-6119",
+    "ssn": "319-82-6267",
+    "dob": "10/10/1959",
+    "address": "6414 Oak Ln",
+    "city": "Washington",
+    "state": "MD"
+  }
+}

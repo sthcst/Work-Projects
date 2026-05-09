@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Phillips,joseph.phillips6984@business.net,374-716-8971,201-09-4340,06/23/1997,"6721 Main Rd",San Antonio,TN

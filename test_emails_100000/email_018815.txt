@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Thompson
+  email: nicole.thompson8229@example.com
+  phone: 638 755 6294
+  ssn: 294 20 3331
+  dob: 1/27/1954
+  address: 3969 West Way
+  city: New York
+  state: CO

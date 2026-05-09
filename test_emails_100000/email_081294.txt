@@ -1,0 +1,14 @@
+INVOICE 153423
+
+Bill To:
+Name: Amanda Evans
+Email: amanda.evans6835@example.com
+Phone: +1 642-591-7678
+SSN: 959186912
+
+Address: 55 South Way
+San Jose, NC
+
+Date of Birth: 02/20/1999
+
+Amount Due: $7700

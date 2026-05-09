@@ -1,0 +1,14 @@
+INVOICE 978537
+
+Bill To:
+Name: Jane Ortiz
+Email: jane.ortiz6720@yahoo.com
+Phone: +1 276-248-6607
+SSN: 285867600
+
+Address: 1884 Oak Way
+New York, TX
+
+Date of Birth: 08/03/1981
+
+Amount Due: $1279

@@ -1,0 +1,14 @@
+INVOICE 404691
+
+Bill To:
+Name: Kenneth Jones
+Email: kenneth.jones3432@example.com
+Phone: +1 359-791-7488
+SSN: 803263577
+
+Address: 7257 Oak St
+Jacksonville, PA
+
+Date of Birth: 02/02/1988
+
+Amount Due: $797

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Evans",
+    "email": "brenda.evans6767@yahoo.com",
+    "phone": "650-695-6781",
+    "ssn": "976915373",
+    "dob": "10-24-1963",
+    "address": "2553 Fourth Ln",
+    "city": "Jacksonville",
+    "state": "PA"
+  }
+}

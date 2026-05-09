@@ -1,0 +1,14 @@
+INVOICE 713056
+
+Bill To:
+Name: David Stewart
+Email: david.stewart2743@company.com
+Phone: 941 670 9799
+SSN: 329 54 1979
+
+Address: 7366 First St
+Houston, VA
+
+Date of Birth: 16/10/2000
+
+Amount Due: $5699

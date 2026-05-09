@@ -1,0 +1,9 @@
+contact:
+  name: Anna Nelson
+  email: anna.nelson6880@outlook.com
+  phone: 573-765-6548
+  ssn: 700 76 5990
+  dob: 20/05/1953
+  address: 487 Spring Court
+  city: Houston
+  state: VA

@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Evans
+  email: amanda.evans8617@example.com
+  phone: 779-502-8318
+  ssn: 362-76-2472
+  dob: 03-06-2004
+  address: 8766 Fifth St
+  city: Phoenix
+  state: CA

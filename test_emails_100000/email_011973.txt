@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Rodriguez",
+    "email": "angela.rodriguez4459@mail.com",
+    "phone": "+1 416-999-6701",
+    "ssn": "503 78 2305",
+    "dob": "5/2/2005",
+    "address": "8124 Fourth Way",
+    "city": "Jacksonville",
+    "state": "VA"
+  }
+}

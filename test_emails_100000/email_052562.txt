@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Hall
+  email: katherine.hall4676@mail.com
+  phone: 940-646-7656
+  ssn: 961 04 2532
+  dob: 14/03/2003
+  address: 8936 Fourth Rd
+  city: New York
+  state: IL

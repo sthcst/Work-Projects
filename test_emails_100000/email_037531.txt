@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Lewis",
+    "email": "jason.lewis4833@work.org",
+    "phone": "+1 866-966-3026",
+    "ssn": "585-90-2763",
+    "dob": "03/21/1967",
+    "address": "2989 Fourth Court",
+    "city": "Boston",
+    "state": "MI"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Delgado",
+    "email": "michael.delgado9668@company.com",
+    "phone": "(394) 518-6434",
+    "ssn": "406544124",
+    "dob": "12/23/1977",
+    "address": "9586 Maple Rd",
+    "city": "Los Angeles",
+    "state": "MD"
+  }
+}

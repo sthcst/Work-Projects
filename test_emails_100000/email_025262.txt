@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Brown",
+    "email": "robert.brown1562@company.com",
+    "phone": "(804) 991-1704",
+    "ssn": "716-81-4210",
+    "dob": "02-08-1952",
+    "address": "6027 Oak Ln",
+    "city": "New York",
+    "state": "GA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Young",
+    "email": "nicole.young4779@yahoo.com",
+    "phone": "986-691-6013",
+    "ssn": "792915978",
+    "dob": "06-13-1955",
+    "address": "8929 Main Dr",
+    "city": "Houston",
+    "state": "GA"
+  }
+}

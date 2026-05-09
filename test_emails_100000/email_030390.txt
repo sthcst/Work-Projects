@@ -1,0 +1,14 @@
+INVOICE 407201
+
+Bill To:
+Name: Edward White
+Email: edward.white2632@business.net
+Phone: (264) 248-3800
+SSN: 326-89-7356
+
+Address: 4944 Fourth Dr
+Boston, CA
+
+Date of Birth: 04-09-1993
+
+Amount Due: $5986

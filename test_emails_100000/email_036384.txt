@@ -1,0 +1,14 @@
+INVOICE 609715
+
+Bill To:
+Name: Kevin Gonzalez
+Email: kevin.gonzalez628@company.com
+Phone: 734 652 8994
+SSN: 814477097
+
+Address: 3061 Oak St
+New York, WA
+
+Date of Birth: 05/22/1993
+
+Amount Due: $3699

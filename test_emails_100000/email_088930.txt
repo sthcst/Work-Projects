@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Guerrero",
+    "email": "sarah.guerrero2058@yahoo.com",
+    "phone": "776 380 3555",
+    "ssn": "033 47 3567",
+    "dob": "06-19-1969",
+    "address": "8713 Birch Ln",
+    "city": "Dallas",
+    "state": "IL"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 907973
+
+Bill To:
+Name: Angela Lewis
+Email: angela.lewis4849@example.com
+Phone: +1 938-285-8277
+SSN: 704-47-1122
+
+Address: 7986 Elm Ave
+Washington, WA
+
+Date of Birth: 09/07/1959
+
+Amount Due: $3557

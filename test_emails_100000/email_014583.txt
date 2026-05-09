@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Rodriguez",
+    "email": "paul.rodriguez7228@outlook.com",
+    "phone": "(485) 869-8270",
+    "ssn": "858 14 6902",
+    "dob": "05/13/1995",
+    "address": "3913 West Ave",
+    "city": "Denver",
+    "state": "WI"
+  }
+}

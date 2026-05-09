@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Gomez,stephanie.gomez2683@yahoo.com,768-611-7955,686 57 8286,11-14-1975,"7027 Summer Ave",San Jose,NY

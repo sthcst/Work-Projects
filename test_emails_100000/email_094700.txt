@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Davis",
+    "email": "kevin.davis8558@mail.com",
+    "phone": "223 926 6384",
+    "ssn": "851-66-3776",
+    "dob": "10-08-1964",
+    "address": "529 Pine Ave",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 192808
+
+Bill To:
+Name: Andrew Garcia
+Email: andrew.garcia6702@gmail.com
+Phone: 203 930 9975
+SSN: 572 61 9084
+
+Address: 5744 Maple Ave
+New York, CA
+
+Date of Birth: 18/01/1962
+
+Amount Due: $6635

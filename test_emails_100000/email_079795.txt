@@ -1,0 +1,9 @@
+contact:
+  name: Angela Bell
+  email: angela.bell9344@gmail.com
+  phone: +1 346-709-9110
+  ssn: 352-94-4726
+  dob: 06-09-1964
+  address: 5623 West Ln
+  city: San Jose
+  state: CA

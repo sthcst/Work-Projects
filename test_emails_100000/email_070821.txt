@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Nelson",
+    "email": "james.nelson9720@yahoo.com",
+    "phone": "968 856 6101",
+    "ssn": "114373515",
+    "dob": "01-28-1981",
+    "address": "1729 Fifth Blvd",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

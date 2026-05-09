@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Campbell,daniel.campbell1@outlook.com,263 487 5501,033 09 2389,05/08/1953,"5700 Spring Ave",Chicago,FL

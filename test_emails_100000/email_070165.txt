@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Thompson
+  email: shirley.thompson6464@example.com
+  phone: 866-341-4493
+  ssn: 195 86 5829
+  dob: 03/02/1951
+  address: 1160 Fifth Rd
+  city: Washington
+  state: TX

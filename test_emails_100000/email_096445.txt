@@ -1,0 +1,14 @@
+INVOICE 163582
+
+Bill To:
+Name: Kenneth Nelson
+Email: kenneth.nelson9898@company.com
+Phone: 372-618-6912
+SSN: 771724046
+
+Address: 7185 Cedar Rd
+Philadelphia, NC
+
+Date of Birth: 04-09-1950
+
+Amount Due: $4004

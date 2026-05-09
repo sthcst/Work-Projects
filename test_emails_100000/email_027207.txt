@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Brown,katherine.brown2423@yahoo.com,623 381 3664,820 10 7427,06/22/1969,"7405 East Ave",New York,MA

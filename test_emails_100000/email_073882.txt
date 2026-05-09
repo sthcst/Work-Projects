@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Davis",
+    "email": "deborah.davis4113@gmail.com",
+    "phone": "(858) 525-5461",
+    "ssn": "720-86-5550",
+    "dob": "08/02/2001",
+    "address": "3542 Park Blvd",
+    "city": "Boston",
+    "state": "NJ"
+  }
+}

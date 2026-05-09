@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Gonzalez",
+    "email": "steven.gonzalez7098@company.com",
+    "phone": "300-744-8928",
+    "ssn": "959494361",
+    "dob": "05-09-1980",
+    "address": "3534 Main Dr",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

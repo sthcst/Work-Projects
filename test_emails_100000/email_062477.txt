@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Gomez,timothy.gomez4956@example.com,538 520 1093,373959387,1/3/1956,"4485 Sixth Court",Jacksonville,AZ

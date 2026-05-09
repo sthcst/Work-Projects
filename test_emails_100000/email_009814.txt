@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Gonzalez
+  email: jacob.gonzalez9887@business.net
+  phone: 727 877 7355
+  ssn: 626-68-2939
+  dob: 06-07-1958
+  address: 3836 Cedar Court
+  city: Jacksonville
+  state: WA

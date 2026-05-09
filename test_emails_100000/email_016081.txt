@@ -1,0 +1,12 @@
+SUPPORT TICKET #69535
+
+Customer: Maria Thompson
+Email: maria.thompson7026@example.com
+Phone: (614) 908-6846
+Account: 323-83-8680
+
+Issue Description: Technical problem reported
+DOB on file: 2/19/1985
+Address: 6287 South Blvd, Boston, MI
+
+Status: OPEN

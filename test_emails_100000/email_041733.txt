@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Harris",
+    "email": "samantha.harris5825@company.com",
+    "phone": "233-649-1878",
+    "ssn": "640 08 5046",
+    "dob": "08/21/1965",
+    "address": "73 East Rd",
+    "city": "Houston",
+    "state": "MA"
+  }
+}

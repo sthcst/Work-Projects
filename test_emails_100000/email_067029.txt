@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Lewis",
+    "email": "richard.lewis3296@outlook.com",
+    "phone": "+1 610-219-9652",
+    "ssn": "539 25 4813",
+    "dob": "02-17-2002",
+    "address": "5179 Fifth Rd",
+    "city": "Washington",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Clark,kathleen.clark7913@gmail.com,362-886-5125,600972339,05-04-1964,"5390 West Court",Chicago,TX

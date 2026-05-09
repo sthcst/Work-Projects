@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Jackson
+  email: brenda.jackson9142@business.net
+  phone: +1 671-211-4997
+  ssn: 092-73-7559
+  dob: 10/25/1988
+  address: 86 Sixth Way
+  city: Houston
+  state: IL

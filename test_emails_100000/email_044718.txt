@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Campbell",
+    "email": "jessica.campbell4882@company.com",
+    "phone": "509-377-4154",
+    "ssn": "428 43 4108",
+    "dob": "03/17/2004",
+    "address": "4653 Pine Way",
+    "city": "New York",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Jimenez",
+    "email": "helen.jimenez9613@gmail.com",
+    "phone": "393-287-8834",
+    "ssn": "061-51-6719",
+    "dob": "19/02/1996",
+    "address": "6653 Park Court",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

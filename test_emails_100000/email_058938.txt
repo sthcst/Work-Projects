@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Stewart,michelle.stewart977@mail.com,+1 532-656-3934,411 39 5729,11/5/1957,"8499 Fifth Court",San Jose,DC

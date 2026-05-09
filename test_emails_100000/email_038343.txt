@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Collins,helen.collins9841@mail.com,865 551 1887,865 77 2330,06/06/1992,"5531 First Blvd",San Jose,WA

@@ -1,0 +1,9 @@
+contact:
+  name: George Phillips
+  email: george.phillips8812@yahoo.com
+  phone: 465-548-6045
+  ssn: 265067790
+  dob: 10/14/1987
+  address: 8326 South Rd
+  city: Chicago
+  state: TX

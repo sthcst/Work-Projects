@@ -1,0 +1,14 @@
+INVOICE 591853
+
+Bill To:
+Name: Kevin Collins
+Email: kevin.collins3778@example.com
+Phone: (853) 782-4735
+SSN: 901131598
+
+Address: 2154 Summer Ave
+San Antonio, CA
+
+Date of Birth: 18/05/1998
+
+Amount Due: $6708

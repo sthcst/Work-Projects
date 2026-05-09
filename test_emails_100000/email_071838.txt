@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Martin",
+    "email": "kenneth.martin8452@yahoo.com",
+    "phone": "884 788 5088",
+    "ssn": "358-92-4641",
+    "dob": "25/01/1959",
+    "address": "3175 Cedar Dr",
+    "city": "San Antonio",
+    "state": "MA"
+  }
+}

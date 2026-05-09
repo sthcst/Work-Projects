@@ -1,0 +1,14 @@
+INVOICE 903702
+
+Bill To:
+Name: Daniel Thompson
+Email: daniel.thompson5378@business.net
+Phone: +1 528-874-9468
+SSN: 535-43-3197
+
+Address: 2299 East Ave
+San Diego, WA
+
+Date of Birth: 06-02-1957
+
+Amount Due: $6742

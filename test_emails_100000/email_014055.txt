@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Alvarado",
+    "email": "cynthia.alvarado583@outlook.com",
+    "phone": "621 281 3955",
+    "ssn": "767-09-1890",
+    "dob": "01/12/1951",
+    "address": "4846 West Court",
+    "city": "Los Angeles",
+    "state": "OH"
+  }
+}

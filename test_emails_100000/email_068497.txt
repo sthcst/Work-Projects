@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Flores
+  email: pamela.flores1512@example.com
+  phone: (659) 886-9945
+  ssn: 901 19 2493
+  dob: 12/01/1978
+  address: 2832 Cedar Ln
+  city: Philadelphia
+  state: MO

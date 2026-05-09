@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Thomas",
+    "email": "jeffrey.thomas6783@company.com",
+    "phone": "+1 803-677-6969",
+    "ssn": "976761553",
+    "dob": "02-14-2000",
+    "address": "5934 Cedar Way",
+    "city": "Philadelphia",
+    "state": "CA"
+  }
+}

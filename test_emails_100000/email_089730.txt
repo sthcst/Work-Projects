@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Brown",
+    "email": "matthew.brown4886@mail.com",
+    "phone": "+1 413-644-7501",
+    "ssn": "056-89-7693",
+    "dob": "02/07/1991",
+    "address": "2046 Elm Ave",
+    "city": "Denver",
+    "state": "MD"
+  }
+}

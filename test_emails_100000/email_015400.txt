@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Parker",
+    "email": "stephanie.parker2065@business.net",
+    "phone": "810-331-5635",
+    "ssn": "383-78-1118",
+    "dob": "05/11/1952",
+    "address": "7579 Cedar Court",
+    "city": "San Diego",
+    "state": "MA"
+  }
+}

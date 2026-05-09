@@ -1,0 +1,9 @@
+contact:
+  name: Robert Gomez
+  email: robert.gomez4993@mail.com
+  phone: 421 205 3416
+  ssn: 149-74-7942
+  dob: 02-08-1972
+  address: 1617 North Dr
+  city: San Diego
+  state: MA

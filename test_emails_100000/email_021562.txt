@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Delgado,william.delgado6396@outlook.com,223 803 2680,892986227,09/08/1988,"2474 Elm Ave",Phoenix,PA

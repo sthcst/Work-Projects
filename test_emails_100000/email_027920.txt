@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Romero,timothy.romero1039@example.com,763-520-2538,519-09-9072,02/28/1997,"3374 Birch Way",Jacksonville,IL

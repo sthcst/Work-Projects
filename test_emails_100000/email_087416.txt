@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Romero,robert.romero7969@work.org,(457) 895-5671,535-12-8285,12/04/1998,"3770 Park Rd",Philadelphia,AZ

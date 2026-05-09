@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Anderson",
+    "email": "michael.anderson8733@business.net",
+    "phone": "568 920 4266",
+    "ssn": "438-16-5983",
+    "dob": "03-12-1999",
+    "address": "4583 Second Blvd",
+    "city": "Austin",
+    "state": "FL"
+  }
+}

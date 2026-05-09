@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Harris",
+    "email": "deborah.harris472@business.net",
+    "phone": "818 238 7821",
+    "ssn": "031 19 8967",
+    "dob": "07/23/1990",
+    "address": "7502 First Blvd",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

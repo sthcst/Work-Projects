@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Young,angela.young424@mail.com,(258) 320-3742,575-69-9184,3/18/1953,"2840 Second Court",Philadelphia,CA

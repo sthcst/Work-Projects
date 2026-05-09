@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Flores,jason.flores9528@yahoo.com,(912) 600-4826,951-33-1508,12/21/1962,"8515 Sixth Ave",Phoenix,FL

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Hernandez,christopher.hernandez4679@gmail.com,+1 975-860-9508,625681645,12/14/1992,"9427 Park Court",Philadelphia,TX

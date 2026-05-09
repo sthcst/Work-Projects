@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Lewis,helen.lewis8312@work.org,(951) 276-9885,190 67 3706,12/27/1974,"7911 Summer St",Phoenix,MO

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Sanchez",
+    "email": "anthony.sanchez6898@business.net",
+    "phone": "(661) 654-4903",
+    "ssn": "420-58-4005",
+    "dob": "12-16-1980",
+    "address": "8841 Summer Blvd",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

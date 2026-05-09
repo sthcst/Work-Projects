@@ -1,0 +1,9 @@
+contact:
+  name: Maria Evans
+  email: maria.evans2696@example.com
+  phone: 462-683-7413
+  ssn: 803321741
+  dob: 02/08/1976
+  address: 1291 Third Ave
+  city: Phoenix
+  state: MO

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Collins",
+    "email": "lisa.collins1890@outlook.com",
+    "phone": "+1 654-758-2647",
+    "ssn": "306083199",
+    "dob": "1/12/1984",
+    "address": "2800 Fourth Dr",
+    "city": "New York",
+    "state": "PA"
+  }
+}

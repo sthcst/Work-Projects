@@ -1,0 +1,14 @@
+INVOICE 384112
+
+Bill To:
+Name: John Murillo
+Email: john.murillo4845@company.com
+Phone: (542) 675-3061
+SSN: 884-22-6571
+
+Address: 7366 Third Ave
+Phoenix, MD
+
+Date of Birth: 10/3/1950
+
+Amount Due: $1080

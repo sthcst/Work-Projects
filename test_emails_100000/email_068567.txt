@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Ramirez,samantha.ramirez6962@yahoo.com,+1 950-841-4604,620832431,18/05/1990,"9989 Third Way",Dallas,OH

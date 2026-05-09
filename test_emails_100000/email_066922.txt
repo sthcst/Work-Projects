@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Edwards",
+    "email": "pamela.edwards6519@outlook.com",
+    "phone": "(301) 600-2371",
+    "ssn": "014609782",
+    "dob": "26/05/1981",
+    "address": "3957 West Court",
+    "city": "Austin",
+    "state": "AZ"
+  }
+}

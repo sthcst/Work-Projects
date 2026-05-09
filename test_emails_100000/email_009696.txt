@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Robinson
+  email: joshua.robinson6884@example.com
+  phone: 923-708-6228
+  ssn: 978 57 5883
+  dob: 12-05-1976
+  address: 2349 Sixth St
+  city: Denver
+  state: MI

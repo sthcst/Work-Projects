@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Phillips",
+    "email": "amanda.phillips6593@work.org",
+    "phone": "(329) 815-2677",
+    "ssn": "214-82-4682",
+    "dob": "02-21-2001",
+    "address": "1446 East Ave",
+    "city": "Houston",
+    "state": "FL"
+  }
+}

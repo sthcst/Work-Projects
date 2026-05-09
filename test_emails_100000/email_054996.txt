@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Peterson",
+    "email": "jeffrey.peterson6852@gmail.com",
+    "phone": "788-772-5725",
+    "ssn": "933-96-5516",
+    "dob": "03-12-1980",
+    "address": "6254 Fourth Court",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

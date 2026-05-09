@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Campbell",
+    "email": "william.campbell9881@business.net",
+    "phone": "+1 482-350-4739",
+    "ssn": "335693581",
+    "dob": "02/06/2001",
+    "address": "1763 Fourth Way",
+    "city": "Philadelphia",
+    "state": "FL"
+  }
+}

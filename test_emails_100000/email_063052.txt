@@ -1,0 +1,14 @@
+INVOICE 483123
+
+Bill To:
+Name: Cynthia Robinson
+Email: cynthia.robinson1998@company.com
+Phone: 358-960-1971
+SSN: 083 24 7822
+
+Address: 4491 Third Rd
+Jacksonville, FL
+
+Date of Birth: 02/24/2005
+
+Amount Due: $6231

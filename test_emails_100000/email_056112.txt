@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Reed
+  email: ashley.reed520@company.com
+  phone: 521-869-6366
+  ssn: 911-55-6829
+  dob: 09/28/1970
+  address: 827 East St
+  city: New York
+  state: PA

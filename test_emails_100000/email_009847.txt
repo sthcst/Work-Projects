@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Lewis
+  email: nicole.lewis188@outlook.com
+  phone: 269-894-2512
+  ssn: 654-78-7334
+  dob: 01/01/1959
+  address: 8952 West Rd
+  city: Phoenix
+  state: FL

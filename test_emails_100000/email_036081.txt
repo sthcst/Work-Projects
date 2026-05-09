@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Edwards,richard.edwards7340@company.com,(853) 910-1487,910727144,09-17-1982,"5322 Fifth Dr",Los Angeles,WA

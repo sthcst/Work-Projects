@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Lewis,nicholas.lewis5325@business.net,(626) 467-5193,942 70 1715,05-05-1995,"1523 Elm Ave",Seattle,GA

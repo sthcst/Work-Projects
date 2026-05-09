@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Parker
+  email: samantha.parker4533@mail.com
+  phone: 500-944-2350
+  ssn: 355 87 4515
+  dob: 11-01-1964
+  address: 6568 Fifth Way
+  city: Boston
+  state: PA

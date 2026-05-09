@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Nunez",
+    "email": "jennifer.nunez6547@work.org",
+    "phone": "484-561-6392",
+    "ssn": "805688366",
+    "dob": "1/6/1988",
+    "address": "3893 Second Ln",
+    "city": "Phoenix",
+    "state": "CO"
+  }
+}

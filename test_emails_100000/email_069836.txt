@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Reeves
+  email: ashley.reeves5948@company.com
+  phone: 582-481-8038
+  ssn: 322-99-3940
+  dob: 09/01/1994
+  address: 9024 Summer Rd
+  city: New York
+  state: CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Reed,george.reed2405@outlook.com,+1 998-380-4886,597 31 5147,02/11/1950,"5242 Summer St",Dallas,TX

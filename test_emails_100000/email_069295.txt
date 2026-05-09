@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Reed,angela.reed1629@mail.com,414-215-2580,166-11-4756,09/21/1960,"5020 East Way",Boston,TX

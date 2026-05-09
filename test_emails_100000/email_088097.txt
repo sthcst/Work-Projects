@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Collins,george.collins9839@gmail.com,488 768 2919,545691310,20/03/1965,"4037 South Blvd",Austin,TX

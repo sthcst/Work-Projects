@@ -1,0 +1,9 @@
+contact:
+  name: James Martinez
+  email: james.martinez2860@company.com
+  phone: +1 862-739-3742
+  ssn: 291 63 3727
+  dob: 08-03-1958
+  address: 7007 First St
+  city: Los Angeles
+  state: VA

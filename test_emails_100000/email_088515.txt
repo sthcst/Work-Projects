@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Peterson
+  email: kimberly.peterson97@example.com
+  phone: 816 485 7018
+  ssn: 511381357
+  dob: 05/27/1960
+  address: 5021 East Blvd
+  city: Washington
+  state: NY

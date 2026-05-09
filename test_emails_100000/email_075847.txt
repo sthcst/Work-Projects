@@ -1,0 +1,9 @@
+contact:
+  name: Mark Reed
+  email: mark.reed6177@mail.com
+  phone: 682-334-5611
+  ssn: 377 61 1477
+  dob: 06-23-1992
+  address: 737 Second Ln
+  city: Austin
+  state: TX

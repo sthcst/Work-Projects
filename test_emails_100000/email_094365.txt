@@ -1,0 +1,14 @@
+INVOICE 218229
+
+Bill To:
+Name: David Harris
+Email: david.harris4998@mail.com
+Phone: +1 364-559-8607
+SSN: 902779305
+
+Address: 2962 East St
+Boston, DC
+
+Date of Birth: 04-15-1992
+
+Amount Due: $3335

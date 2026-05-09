@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Hernandez",
+    "email": "rachel.hernandez326@business.net",
+    "phone": "559 966 2635",
+    "ssn": "763594560",
+    "dob": "11/03/1981",
+    "address": "5416 North Way",
+    "city": "Seattle",
+    "state": "WA"
+  }
+}

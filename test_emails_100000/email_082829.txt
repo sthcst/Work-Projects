@@ -1,0 +1,9 @@
+contact:
+  name: George Johnson
+  email: george.johnson1962@outlook.com
+  phone: 532 877 4365
+  ssn: 226529331
+  dob: 3/21/1955
+  address: 1996 Elm Dr
+  city: Seattle
+  state: TN

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Reed",
+    "email": "angela.reed6772@work.org",
+    "phone": "+1 349-989-3051",
+    "ssn": "005 03 5899",
+    "dob": "8/14/1952",
+    "address": "4331 Oak Dr",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Ortiz,paul.ortiz1409@example.com,461-222-2867,452599656,01-14-1968,"7984 South Dr",San Jose,TX

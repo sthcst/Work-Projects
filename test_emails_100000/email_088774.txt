@@ -1,0 +1,9 @@
+contact:
+  name: Helen Carter
+  email: helen.carter3262@company.com
+  phone: +1 634-371-3899
+  ssn: 212534532
+  dob: 2/7/1978
+  address: 4434 Oak St
+  city: Austin
+  state: MA

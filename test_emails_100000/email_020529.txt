@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Robinson
+  email: rebecca.robinson8821@outlook.com
+  phone: 302 695 6705
+  ssn: 320 96 2063
+  dob: 10-23-2002
+  address: 7183 Pine Court
+  city: Jacksonville
+  state: CA

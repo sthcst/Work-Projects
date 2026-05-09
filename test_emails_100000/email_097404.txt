@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine White,katherine.white907@business.net,386 257 3283,386-29-3253,08/17/1980,"8987 Pine Ln",San Antonio,DC

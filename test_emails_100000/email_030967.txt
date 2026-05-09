@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Martinez",
+    "email": "charles.martinez1484@yahoo.com",
+    "phone": "(418) 984-1296",
+    "ssn": "965-95-6665",
+    "dob": "11/09/2003",
+    "address": "5488 North Rd",
+    "city": "Philadelphia",
+    "state": "IL"
+  }
+}

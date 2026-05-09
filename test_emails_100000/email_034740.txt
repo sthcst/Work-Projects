@@ -1,0 +1,9 @@
+contact:
+  name: Brian Jackson
+  email: brian.jackson5883@work.org
+  phone: 431 603 7168
+  ssn: 488-80-2828
+  dob: 13/10/1961
+  address: 6077 Main Ln
+  city: Jacksonville
+  state: NJ

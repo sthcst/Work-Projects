@@ -1,0 +1,9 @@
+contact:
+  name: Emily Parker
+  email: emily.parker954@work.org
+  phone: 255-448-4602
+  ssn: 585-99-6825
+  dob: 01/13/1953
+  address: 1146 Second Dr
+  city: Houston
+  state: TX

@@ -1,0 +1,14 @@
+INVOICE 642453
+
+Bill To:
+Name: Timothy Flores
+Email: timothy.flores417@company.com
+Phone: (215) 712-4038
+SSN: 940 35 7418
+
+Address: 788 West St
+Seattle, AZ
+
+Date of Birth: 1/4/1986
+
+Amount Due: $3565

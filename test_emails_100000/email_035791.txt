@@ -1,0 +1,9 @@
+contact:
+  name: Charles Carter
+  email: charles.carter138@example.com
+  phone: 280 759 8873
+  ssn: 915559201
+  dob: 13/01/1969
+  address: 8553 Maple Blvd
+  city: Phoenix
+  state: TX

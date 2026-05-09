@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Nelson",
+    "email": "emma.nelson4804@work.org",
+    "phone": "(817) 678-4066",
+    "ssn": "231368487",
+    "dob": "02-07-1979",
+    "address": "8470 Third Rd",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

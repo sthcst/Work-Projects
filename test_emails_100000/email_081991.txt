@@ -1,0 +1,14 @@
+INVOICE 555376
+
+Bill To:
+Name: Ashley Flores
+Email: ashley.flores5307@company.com
+Phone: 687 456 7395
+SSN: 294-84-7656
+
+Address: 8562 South Court
+Seattle, MA
+
+Date of Birth: 02/22/1981
+
+Amount Due: $8785

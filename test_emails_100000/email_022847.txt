@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Jackson,maria.jackson725@work.org,+1 812-824-5905,642724524,02/26/2005,"6741 West Blvd",San Jose,NY

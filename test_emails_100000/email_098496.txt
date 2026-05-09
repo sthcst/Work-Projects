@@ -1,0 +1,9 @@
+contact:
+  name: Mark Carter
+  email: mark.carter3621@outlook.com
+  phone: 716 574 3928
+  ssn: 625266304
+  dob: 12/8/1961
+  address: 9446 Fourth Rd
+  city: San Jose
+  state: WI

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Ortiz",
+    "email": "robert.ortiz90@outlook.com",
+    "phone": "793-964-7461",
+    "ssn": "511 11 2823",
+    "dob": "11/9/1960",
+    "address": "5214 Second Rd",
+    "city": "Los Angeles",
+    "state": "MI"
+  }
+}

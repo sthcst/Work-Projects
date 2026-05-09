@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Delgado
+  email: katherine.delgado9875@company.com
+  phone: 242-512-5801
+  ssn: 310 44 2579
+  dob: 11/18/1996
+  address: 4968 Summer Ln
+  city: Phoenix
+  state: CO

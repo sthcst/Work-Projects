@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Brown,lisa.brown1071@mail.com,(516) 679-2395,210866159,14/05/1956,"1127 Fifth Rd",San Antonio,IL

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Carter,katherine.carter7682@company.com,(476) 588-2025,275132959,3/14/2004,"9911 Second St",Dallas,NC

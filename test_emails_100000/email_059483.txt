@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Robinson",
+    "email": "nicholas.robinson8488@example.com",
+    "phone": "+1 925-876-9348",
+    "ssn": "026 64 1634",
+    "dob": "6/6/2001",
+    "address": "5515 Oak Ln",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Johnson
+  email: joshua.johnson71@company.com
+  phone: 680 643 2130
+  ssn: 549608298
+  dob: 26/06/1977
+  address: 4519 Birch Dr
+  city: San Jose
+  state: TX

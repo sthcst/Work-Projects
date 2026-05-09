@@ -1,0 +1,9 @@
+contact:
+  name: Charles Romero
+  email: charles.romero6099@example.com
+  phone: +1 584-446-3776
+  ssn: 660307939
+  dob: 03/01/1982
+  address: 2237 West Court
+  city: Boston
+  state: TX

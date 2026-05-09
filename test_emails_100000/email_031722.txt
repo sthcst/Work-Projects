@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Harris,ronald.harris3499@mail.com,510-670-5800,182914752,12-28-1977,"6307 Cedar Rd",Chicago,MI

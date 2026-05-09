@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Morgan",
+    "email": "charles.morgan4405@business.net",
+    "phone": "478 795 6350",
+    "ssn": "733-97-5734",
+    "dob": "01/08/1961",
+    "address": "6572 Park Ln",
+    "city": "San Diego",
+    "state": "NY"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Robert Young
+  email: robert.young4670@example.com
+  phone: (973) 217-3590
+  ssn: 696543642
+  dob: 01/09/2005
+  address: 142 Second Way
+  city: Austin
+  state: AZ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Taylor,emma.taylor9528@company.com,930-415-6099,715 09 5467,04-28-1977,"3510 Third Ave",Jacksonville,PA

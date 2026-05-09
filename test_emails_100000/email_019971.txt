@@ -1,0 +1,9 @@
+contact:
+  name: Lisa White
+  email: lisa.white432@outlook.com
+  phone: 431-376-3950
+  ssn: 113 82 8552
+  dob: 02-25-1958
+  address: 5349 Birch St
+  city: Chicago
+  state: FL

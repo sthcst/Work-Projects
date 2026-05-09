@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Bell,lauren.bell6120@business.net,731-742-1773,912-87-5335,09/22/1989,"2137 Summer Dr",Boston,MA

@@ -1,0 +1,14 @@
+INVOICE 221642
+
+Bill To:
+Name: John Rogers
+Email: john.rogers4948@gmail.com
+Phone: (546) 679-5205
+SSN: 380403264
+
+Address: 5083 East Rd
+Philadelphia, FL
+
+Date of Birth: 2/18/1997
+
+Amount Due: $7789

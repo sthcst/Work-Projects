@@ -1,0 +1,9 @@
+contact:
+  name: Michael Hernandez
+  email: michael.hernandez349@company.com
+  phone: 639 703 1998
+  ssn: 690 41 5800
+  dob: 2/3/1977
+  address: 9278 Third Way
+  city: Boston
+  state: FL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Lee",
+    "email": "daniel.lee2636@business.net",
+    "phone": "(430) 707-2196",
+    "ssn": "258499588",
+    "dob": "21/06/1978",
+    "address": "6682 Sixth Blvd",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

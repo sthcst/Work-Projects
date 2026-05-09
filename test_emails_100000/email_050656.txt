@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Clark",
+    "email": "paul.clark9794@gmail.com",
+    "phone": "+1 978-391-8433",
+    "ssn": "105 31 1836",
+    "dob": "20/11/2002",
+    "address": "1467 Fourth Way",
+    "city": "Houston",
+    "state": "CA"
+  }
+}

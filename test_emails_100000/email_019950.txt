@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Jackson,megan.jackson5578@mail.com,(776) 988-9450,526014452,7/18/1994,"7868 Second Blvd",San Antonio,CA

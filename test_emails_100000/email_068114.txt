@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Morris
+  email: stephanie.morris5727@mail.com
+  phone: 615-445-8241
+  ssn: 677 49 1048
+  dob: 22/08/1981
+  address: 4219 South Blvd
+  city: Washington
+  state: TX

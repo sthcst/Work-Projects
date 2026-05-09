@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Perez,michelle.perez9963@mail.com,990-582-1098,993862757,12-19-1989,"8423 Spring Way",Austin,AZ

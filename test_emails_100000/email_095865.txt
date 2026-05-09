@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Guerrero",
+    "email": "pamela.guerrero869@example.com",
+    "phone": "216 567 8159",
+    "ssn": "304 64 9143",
+    "dob": "10/25/1970",
+    "address": "3031 Birch St",
+    "city": "Houston",
+    "state": "NC"
+  }
+}

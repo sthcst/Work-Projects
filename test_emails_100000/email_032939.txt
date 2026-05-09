@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Walker
+  email: lisa.walker2316@business.net
+  phone: +1 375-707-5226
+  ssn: 482 72 5722
+  dob: 01-02-1951
+  address: 5884 Oak St
+  city: San Jose
+  state: NC

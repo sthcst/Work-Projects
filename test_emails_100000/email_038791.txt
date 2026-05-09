@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Lopez",
+    "email": "katherine.lopez8651@outlook.com",
+    "phone": "(399) 223-2646",
+    "ssn": "281 41 7486",
+    "dob": "04/03/1976",
+    "address": "7272 Summer Dr",
+    "city": "Boston",
+    "state": "GA"
+  }
+}

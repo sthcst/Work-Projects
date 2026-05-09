@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Gomez",
+    "email": "nicole.gomez2280@outlook.com",
+    "phone": "749-979-8950",
+    "ssn": "314 05 5621",
+    "dob": "1/8/2001",
+    "address": "4684 Main Rd",
+    "city": "Phoenix",
+    "state": "NY"
+  }
+}

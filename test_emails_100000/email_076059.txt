@@ -1,0 +1,9 @@
+contact:
+  name: David Rogers
+  email: david.rogers8518@work.org
+  phone: 366 762 8467
+  ssn: 580-83-8581
+  dob: 5/27/1957
+  address: 9535 Cedar Rd
+  city: Houston
+  state: CA

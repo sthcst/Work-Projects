@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Guerrero,michelle.guerrero9054@outlook.com,(618) 663-7048,791 72 3242,5/25/1980,"9868 Summer Way",Boston,CA

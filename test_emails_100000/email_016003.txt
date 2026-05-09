@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Jones
+  email: nicholas.jones4192@example.com
+  phone: +1 287-340-1255
+  ssn: 474862438
+  dob: 6/12/1990
+  address: 2309 Sixth Way
+  city: Chicago
+  state: OH

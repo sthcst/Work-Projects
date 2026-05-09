@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Moore",
+    "email": "emily.moore6670@company.com",
+    "phone": "+1 215-740-3776",
+    "ssn": "170 33 4397",
+    "dob": "3/22/1968",
+    "address": "1798 Park Dr",
+    "city": "Jacksonville",
+    "state": "VA"
+  }
+}

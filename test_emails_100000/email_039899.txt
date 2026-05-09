@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Garcia,samantha.garcia8074@work.org,483-838-9830,521 25 5815,07/03/1982,"7578 South Ln",San Jose,MD

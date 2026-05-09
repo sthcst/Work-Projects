@@ -1,0 +1,14 @@
+INVOICE 706483
+
+Bill To:
+Name: Kenneth Nelson
+Email: kenneth.nelson3477@mail.com
+Phone: 829 840 9701
+SSN: 136 22 1045
+
+Address: 1944 Second Court
+San Antonio, MO
+
+Date of Birth: 11/12/1986
+
+Amount Due: $3823

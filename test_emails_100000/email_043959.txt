@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Garcia",
+    "email": "donald.garcia1848@company.com",
+    "phone": "+1 346-610-4218",
+    "ssn": "085 47 8140",
+    "dob": "12/10/1986",
+    "address": "1396 Sixth Dr",
+    "city": "Houston",
+    "state": "NC"
+  }
+}

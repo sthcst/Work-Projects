@@ -1,0 +1,14 @@
+INVOICE 445330
+
+Bill To:
+Name: David Flores
+Email: david.flores1109@work.org
+Phone: 260-732-1218
+SSN: 644633004
+
+Address: 7137 Oak Rd
+Philadelphia, OH
+
+Date of Birth: 10/28/1972
+
+Amount Due: $989

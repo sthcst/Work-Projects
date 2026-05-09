@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Serrano",
+    "email": "brian.serrano2534@business.net",
+    "phone": "+1 770-853-4267",
+    "ssn": "142 23 4388",
+    "dob": "5/23/1984",
+    "address": "6718 Fifth Blvd",
+    "city": "Phoenix",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Alvarado",
+    "email": "christine.alvarado6186@yahoo.com",
+    "phone": "(607) 611-9721",
+    "ssn": "927-01-6632",
+    "dob": "08-02-1999",
+    "address": "2097 First St",
+    "city": "Jacksonville",
+    "state": "MI"
+  }
+}

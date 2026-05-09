@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Delgado",
+    "email": "andrew.delgado9442@outlook.com",
+    "phone": "(583) 581-9921",
+    "ssn": "437 07 6583",
+    "dob": "07-09-2005",
+    "address": "8196 Maple Blvd",
+    "city": "Phoenix",
+    "state": "NJ"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 401870
+
+Bill To:
+Name: Joseph Nelson
+Email: joseph.nelson1601@yahoo.com
+Phone: 789-464-4698
+SSN: 861-87-4434
+
+Address: 731 South Ave
+Jacksonville, WI
+
+Date of Birth: 06-11-1950
+
+Amount Due: $8086

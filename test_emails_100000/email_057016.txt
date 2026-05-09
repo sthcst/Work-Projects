@@ -1,0 +1,14 @@
+INVOICE 483345
+
+Bill To:
+Name: George Romero
+Email: george.romero3190@yahoo.com
+Phone: (776) 484-2756
+SSN: 250 92 8416
+
+Address: 8192 Oak Way
+Philadelphia, TN
+
+Date of Birth: 9/13/1953
+
+Amount Due: $6556

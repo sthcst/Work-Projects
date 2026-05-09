@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Ortiz,kenneth.ortiz760@outlook.com,526-399-6173,046 36 3732,11/19/1953,"3821 First St",Jacksonville,MO

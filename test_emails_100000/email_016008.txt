@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Hall",
+    "email": "michael.hall9985@example.com",
+    "phone": "+1 606-444-9012",
+    "ssn": "227 53 4044",
+    "dob": "03/15/1990",
+    "address": "6050 West Blvd",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

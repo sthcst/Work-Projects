@@ -1,0 +1,14 @@
+INVOICE 164124
+
+Bill To:
+Name: James Brown
+Email: james.brown2981@gmail.com
+Phone: (724) 333-3618
+SSN: 240602834
+
+Address: 349 Second Blvd
+San Jose, DC
+
+Date of Birth: 07-03-1970
+
+Amount Due: $6869

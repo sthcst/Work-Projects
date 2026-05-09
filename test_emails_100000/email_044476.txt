@@ -1,0 +1,14 @@
+INVOICE 749914
+
+Bill To:
+Name: Sarah Jones
+Email: sarah.jones6443@example.com
+Phone: (965) 300-6311
+SSN: 584737934
+
+Address: 6282 West Rd
+Seattle, NY
+
+Date of Birth: 01/11/1964
+
+Amount Due: $6952

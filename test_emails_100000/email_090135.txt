@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Rodriguez,steven.rodriguez6752@business.net,732 421 1909,324902636,4/11/1984,"939 Fourth St",New York,NC

@@ -1,0 +1,14 @@
+INVOICE 633748
+
+Bill To:
+Name: Paul Reeves
+Email: paul.reeves1020@mail.com
+Phone: (632) 850-6409
+SSN: 933 95 7943
+
+Address: 7827 Third Rd
+Washington, OH
+
+Date of Birth: 27/06/1980
+
+Amount Due: $7236

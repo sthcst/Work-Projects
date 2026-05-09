@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Clark,john.clark2208@mail.com,920-490-8059,685-45-1852,02/19/1979,"1339 South Ave",Boston,MA

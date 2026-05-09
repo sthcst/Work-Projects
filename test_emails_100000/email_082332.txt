@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Rogers
+  email: samantha.rogers912@work.org
+  phone: 696-704-9432
+  ssn: 847 05 1369
+  dob: 18/05/1971
+  address: 3914 Second Way
+  city: Seattle
+  state: CO

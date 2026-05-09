@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Romero",
+    "email": "mark.romero1712@gmail.com",
+    "phone": "908-256-9137",
+    "ssn": "316 11 4601",
+    "dob": "03/03/2003",
+    "address": "5332 Birch Ave",
+    "city": "Boston",
+    "state": "OH"
+  }
+}

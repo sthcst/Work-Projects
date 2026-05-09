@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Lewis,samantha.lewis9495@mail.com,(391) 821-3245,717735755,12-16-1973,"2139 Pine Rd",Phoenix,GA

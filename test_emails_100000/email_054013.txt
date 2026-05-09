@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Johnson",
+    "email": "samantha.johnson9099@business.net",
+    "phone": "524-935-3678",
+    "ssn": "021 36 1263",
+    "dob": "11/12/1960",
+    "address": "2363 Fifth Ave",
+    "city": "Houston",
+    "state": "MD"
+  }
+}

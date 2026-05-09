@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Perez,kathleen.perez622@business.net,341 244 5687,829-87-4545,3/22/2004,"8975 Elm St",Los Angeles,FL

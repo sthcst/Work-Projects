@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Lopez",
+    "email": "david.lopez8003@outlook.com",
+    "phone": "+1 272-331-3177",
+    "ssn": "388-05-1200",
+    "dob": "08-08-1952",
+    "address": "3061 Third Rd",
+    "city": "Jacksonville",
+    "state": "NY"
+  }
+}

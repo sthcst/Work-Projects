@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Lewis,mark.lewis123@company.com,+1 790-903-7381,965-40-2191,05/19/1993,"7388 Pine Dr",San Jose,FL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Garcia",
+    "email": "charles.garcia7481@work.org",
+    "phone": "314 696 1479",
+    "ssn": "060-99-2275",
+    "dob": "02/04/1961",
+    "address": "7206 Fifth St",
+    "city": "Phoenix",
+    "state": "CO"
+  }
+}

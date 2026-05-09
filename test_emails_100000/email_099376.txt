@@ -1,0 +1,14 @@
+INVOICE 895651
+
+Bill To:
+Name: Michael Thompson
+Email: michael.thompson1952@outlook.com
+Phone: (935) 259-6790
+SSN: 715425377
+
+Address: 9800 Park Blvd
+Jacksonville, NJ
+
+Date of Birth: 17/10/1952
+
+Amount Due: $543

@@ -1,0 +1,14 @@
+INVOICE 313937
+
+Bill To:
+Name: John Ramirez
+Email: john.ramirez210@gmail.com
+Phone: +1 263-760-9570
+SSN: 106089421
+
+Address: 4242 Sixth St
+Jacksonville, NY
+
+Date of Birth: 17/07/1973
+
+Amount Due: $3978

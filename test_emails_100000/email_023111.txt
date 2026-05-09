@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Taylor
+  email: michelle.taylor4381@company.com
+  phone: 929 863 3550
+  ssn: 693 29 5932
+  dob: 01/07/2005
+  address: 8880 South Way
+  city: Philadelphia
+  state: WI

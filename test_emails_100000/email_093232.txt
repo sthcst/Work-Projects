@@ -1,0 +1,14 @@
+INVOICE 257333
+
+Bill To:
+Name: Ashley Phillips
+Email: ashley.phillips193@outlook.com
+Phone: 852-508-3086
+SSN: 648 59 1817
+
+Address: 6712 Elm Rd
+Seattle, NJ
+
+Date of Birth: 06/03/1995
+
+Amount Due: $3247

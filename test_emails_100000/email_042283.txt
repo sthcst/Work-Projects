@@ -1,0 +1,14 @@
+INVOICE 996222
+
+Bill To:
+Name: Christopher Ramirez
+Email: christopher.ramirez1536@mail.com
+Phone: (548) 670-7922
+SSN: 169456072
+
+Address: 129 Second Court
+Los Angeles, MD
+
+Date of Birth: 08/11/1955
+
+Amount Due: $7264

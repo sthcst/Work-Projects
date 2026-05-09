@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Parker,emma.parker1687@example.com,971-412-8401,525 84 4807,02-08-1983,"9902 Birch Way",New York,TX

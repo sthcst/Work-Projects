@@ -1,0 +1,9 @@
+contact:
+  name: Gary Stewart
+  email: gary.stewart5685@company.com
+  phone: +1 573-626-8526
+  ssn: 421 31 8644
+  dob: 01/09/1970
+  address: 8587 Third Ave
+  city: Phoenix
+  state: WI

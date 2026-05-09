@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Collins,gary.collins6373@outlook.com,304-918-5473,331-55-1491,08/06/1988,"9098 Cedar Way",Boston,MI

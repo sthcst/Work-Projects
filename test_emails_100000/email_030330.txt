@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Jimenez,michelle.jimenez8371@gmail.com,+1 776-754-2675,842 62 7388,3/11/1960,"7679 Third Rd",San Jose,MD

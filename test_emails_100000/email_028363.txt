@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Lee
+  email: ronald.lee980@outlook.com
+  phone: 390-369-5638
+  ssn: 132 33 9557
+  dob: 8/13/1950
+  address: 6743 Fourth Ln
+  city: Chicago
+  state: AZ

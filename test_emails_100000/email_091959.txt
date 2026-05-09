@@ -1,0 +1,9 @@
+contact:
+  name: Michael Sanchez
+  email: michael.sanchez3970@outlook.com
+  phone: +1 246-512-7976
+  ssn: 447259860
+  dob: 6/18/2002
+  address: 3377 Pine Rd
+  city: Los Angeles
+  state: AZ

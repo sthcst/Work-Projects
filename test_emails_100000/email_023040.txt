@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Lewis",
+    "email": "charles.lewis7574@outlook.com",
+    "phone": "(313) 743-5213",
+    "ssn": "959 48 8942",
+    "dob": "08-13-2003",
+    "address": "8513 Sixth Dr",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

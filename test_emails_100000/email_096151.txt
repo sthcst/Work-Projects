@@ -1,0 +1,14 @@
+INVOICE 128099
+
+Bill To:
+Name: Daniel Guerrero
+Email: daniel.guerrero2108@company.com
+Phone: 239 464 6673
+SSN: 408612124
+
+Address: 865 Pine Rd
+New York, MI
+
+Date of Birth: 08-07-1976
+
+Amount Due: $4240

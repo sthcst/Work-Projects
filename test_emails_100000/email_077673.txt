@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Romero",
+    "email": "christine.romero1247@outlook.com",
+    "phone": "665-964-5519",
+    "ssn": "382563993",
+    "dob": "11/5/2004",
+    "address": "8220 Third Blvd",
+    "city": "Austin",
+    "state": "PA"
+  }
+}

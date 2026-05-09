@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Reeves",
+    "email": "emma.reeves3344@business.net",
+    "phone": "+1 455-255-8134",
+    "ssn": "025352848",
+    "dob": "25/04/2003",
+    "address": "4036 North St",
+    "city": "Phoenix",
+    "state": "MA"
+  }
+}

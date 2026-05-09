@@ -1,0 +1,14 @@
+INVOICE 655353
+
+Bill To:
+Name: Rachel Delgado
+Email: rachel.delgado8756@company.com
+Phone: 335-758-7413
+SSN: 609228013
+
+Address: 5874 Fifth Dr
+Philadelphia, PA
+
+Date of Birth: 4/14/1987
+
+Amount Due: $7597

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Phillips",
+    "email": "matthew.phillips8944@gmail.com",
+    "phone": "960-257-8260",
+    "ssn": "889-64-8470",
+    "dob": "08/07/1965",
+    "address": "3864 Oak St",
+    "city": "Phoenix",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Nunez",
+    "email": "cynthia.nunez7958@gmail.com",
+    "phone": "(771) 708-6003",
+    "ssn": "066 33 1206",
+    "dob": "01/23/2002",
+    "address": "2625 Summer Ln",
+    "city": "Austin",
+    "state": "WA"
+  }
+}

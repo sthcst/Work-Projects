@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Gonzalez",
+    "email": "cynthia.gonzalez9259@business.net",
+    "phone": "(595) 325-4187",
+    "ssn": "231 41 3251",
+    "dob": "03-23-1982",
+    "address": "4496 Fifth Court",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

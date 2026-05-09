@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Ortiz
+  email: daniel.ortiz9192@example.com
+  phone: 843 298 4142
+  ssn: 386328562
+  dob: 4/6/1951
+  address: 9996 Cedar Court
+  city: Dallas
+  state: MD

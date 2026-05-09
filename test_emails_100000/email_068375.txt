@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Lewis
+  email: joshua.lewis5834@outlook.com
+  phone: 518-380-8578
+  ssn: 312 61 4890
+  dob: 08/28/1984
+  address: 686 North Blvd
+  city: Washington
+  state: IL

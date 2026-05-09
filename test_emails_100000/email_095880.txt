@@ -1,0 +1,9 @@
+contact:
+  name: James Wilson
+  email: james.wilson7578@mail.com
+  phone: (347) 313-4648
+  ssn: 768-34-9086
+  dob: 19/07/1982
+  address: 6465 Fourth Court
+  city: Jacksonville
+  state: FL

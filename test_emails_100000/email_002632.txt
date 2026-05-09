@@ -1,0 +1,9 @@
+contact:
+  name: Megan Jones
+  email: megan.jones7845@outlook.com
+  phone: 823 479 1101
+  ssn: 198 64 7312
+  dob: 10/10/1994
+  address: 3177 Park St
+  city: Dallas
+  state: WA

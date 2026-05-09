@@ -1,0 +1,12 @@
+SUPPORT TICKET #21124
+
+Customer: Ronald Lopez
+Email: ronald.lopez552@example.com
+Phone: 516-496-5352
+Account: 673-42-9782
+
+Issue Description: Technical problem reported
+DOB on file: 6/17/1952
+Address: 732 Elm Dr, Los Angeles, CO
+
+Status: OPEN

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Morgan",
+    "email": "ashley.morgan5855@yahoo.com",
+    "phone": "(519) 761-5936",
+    "ssn": "119316969",
+    "dob": "12/09/1964",
+    "address": "4933 Maple Way",
+    "city": "San Jose",
+    "state": "CO"
+  }
+}

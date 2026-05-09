@@ -1,0 +1,9 @@
+contact:
+  name: Donald Thompson
+  email: donald.thompson369@company.com
+  phone: 916 259 6547
+  ssn: 930 67 4682
+  dob: 27/05/1999
+  address: 332 Oak Blvd
+  city: Phoenix
+  state: VA

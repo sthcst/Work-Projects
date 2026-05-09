@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Nunez
+  email: andrew.nunez5515@work.org
+  phone: (913) 470-6625
+  ssn: 940653111
+  dob: 10/1/2001
+  address: 6989 Spring Court
+  city: Los Angeles
+  state: NJ

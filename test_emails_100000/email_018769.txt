@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Williams",
+    "email": "jason.williams2499@mail.com",
+    "phone": "557 330 2019",
+    "ssn": "318 77 6256",
+    "dob": "7/14/1961",
+    "address": "9661 Third Rd",
+    "city": "Washington",
+    "state": "NC"
+  }
+}

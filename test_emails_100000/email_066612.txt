@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Thomas",
+    "email": "timothy.thomas841@outlook.com",
+    "phone": "393 652 6480",
+    "ssn": "953-39-3783",
+    "dob": "08-17-2005",
+    "address": "2054 Fifth Dr",
+    "city": "San Jose",
+    "state": "AZ"
+  }
+}

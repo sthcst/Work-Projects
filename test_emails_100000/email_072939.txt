@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Reyes
+  email: brenda.reyes1501@yahoo.com
+  phone: 452 510 7964
+  ssn: 280-24-6136
+  dob: 8/28/1958
+  address: 3924 Fourth Ave
+  city: Chicago
+  state: NY

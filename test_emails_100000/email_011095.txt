@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Harris,emma.harris6185@example.com,+1 620-638-9835,009 09 5173,10/26/1969,"8236 Cedar Dr",San Jose,WI

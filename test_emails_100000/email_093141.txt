@@ -1,0 +1,9 @@
+contact:
+  name: Donald Smith
+  email: donald.smith6935@outlook.com
+  phone: (342) 769-8897
+  ssn: 938249457
+  dob: 01-10-1980
+  address: 6037 South St
+  city: Denver
+  state: IL

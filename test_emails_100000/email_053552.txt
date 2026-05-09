@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Garcia
+  email: rachel.garcia2742@gmail.com
+  phone: (934) 344-5717
+  ssn: 552-75-9031
+  dob: 5/19/1999
+  address: 9066 South Court
+  city: Denver
+  state: CO

@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Roberts
+  email: lisa.roberts1632@gmail.com
+  phone: (559) 926-7499
+  ssn: 868-38-4605
+  dob: 09-28-1971
+  address: 9185 Oak Blvd
+  city: San Diego
+  state: MI

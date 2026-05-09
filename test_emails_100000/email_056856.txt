@@ -1,0 +1,14 @@
+INVOICE 955836
+
+Bill To:
+Name: Megan Campbell
+Email: megan.campbell2864@example.com
+Phone: (358) 226-8579
+SSN: 656-41-1063
+
+Address: 7498 Birch Dr
+Phoenix, DC
+
+Date of Birth: 08/04/1955
+
+Amount Due: $2207

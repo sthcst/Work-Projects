@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Garcia",
+    "email": "sarah.garcia35@example.com",
+    "phone": "(426) 937-7746",
+    "ssn": "133-76-9004",
+    "dob": "11/23/1979",
+    "address": "679 Park Ave",
+    "city": "Houston",
+    "state": "CO"
+  }
+}

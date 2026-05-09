@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Davis",
+    "email": "kevin.davis4580@mail.com",
+    "phone": "752-397-8679",
+    "ssn": "976 50 6957",
+    "dob": "15/02/1976",
+    "address": "6143 Cedar Ave",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

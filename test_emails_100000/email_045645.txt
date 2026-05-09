@@ -1,0 +1,14 @@
+INVOICE 676871
+
+Bill To:
+Name: George Harris
+Email: george.harris6952@work.org
+Phone: 767-323-2571
+SSN: 009 88 7284
+
+Address: 1284 Birch Rd
+Chicago, FL
+
+Date of Birth: 16/09/1958
+
+Amount Due: $2396

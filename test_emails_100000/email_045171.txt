@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Sanchez,samantha.sanchez7344@example.com,887-240-5288,195-30-9890,11/17/1986,"4878 Spring Blvd",New York,CA

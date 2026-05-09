@@ -1,0 +1,9 @@
+contact:
+  name: Charles Thompson
+  email: charles.thompson4344@example.com
+  phone: +1 780-819-6709
+  ssn: 289 34 9945
+  dob: 02-11-2002
+  address: 1242 East St
+  city: Washington
+  state: VA

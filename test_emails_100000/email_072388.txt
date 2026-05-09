@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Dominguez",
+    "email": "charles.dominguez3169@gmail.com",
+    "phone": "+1 713-615-5989",
+    "ssn": "712-07-5211",
+    "dob": "08/04/1966",
+    "address": "3761 West Rd",
+    "city": "Phoenix",
+    "state": "PA"
+  }
+}

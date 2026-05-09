@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Ramirez",
+    "email": "lisa.ramirez2629@outlook.com",
+    "phone": "+1 586-972-8410",
+    "ssn": "007-01-2158",
+    "dob": "02/24/1966",
+    "address": "8255 Maple Rd",
+    "city": "Seattle",
+    "state": "FL"
+  }
+}

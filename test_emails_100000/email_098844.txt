@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Peterson
+  email: nicholas.peterson9897@example.com
+  phone: 378 988 1293
+  ssn: 446878296
+  dob: 6/6/1998
+  address: 1420 South Ave
+  city: Jacksonville
+  state: MO

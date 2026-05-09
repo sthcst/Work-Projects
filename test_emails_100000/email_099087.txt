@@ -1,0 +1,9 @@
+contact:
+  name: Jane Alvarado
+  email: jane.alvarado5574@work.org
+  phone: 528 223 1333
+  ssn: 718-35-2757
+  dob: 07-07-1975
+  address: 1540 Fourth Way
+  city: Washington
+  state: TX

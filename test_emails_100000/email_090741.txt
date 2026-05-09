@@ -1,0 +1,9 @@
+contact:
+  name: Angela Jimenez
+  email: angela.jimenez7229@outlook.com
+  phone: 674-625-5458
+  ssn: 770-61-4054
+  dob: 10-12-1967
+  address: 728 Maple Ave
+  city: Austin
+  state: AZ

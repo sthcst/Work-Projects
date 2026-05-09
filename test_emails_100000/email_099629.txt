@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Thomas",
+    "email": "kimberly.thomas2336@company.com",
+    "phone": "+1 508-852-5687",
+    "ssn": "539 63 6141",
+    "dob": "2/7/1977",
+    "address": "3765 Fourth Blvd",
+    "city": "Boston",
+    "state": "WI"
+  }
+}

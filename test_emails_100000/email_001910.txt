@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Collins,mark.collins1683@example.com,(726) 621-4295,138-64-1896,04-04-1979,"555 Maple Ave",Los Angeles,MA

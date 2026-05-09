@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Serrano,megan.serrano4543@yahoo.com,998-579-2715,060784236,21/02/1987,"9486 Park Dr",Jacksonville,TX

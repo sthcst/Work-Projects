@@ -1,0 +1,9 @@
+contact:
+  name: Anna Gonzalez
+  email: anna.gonzalez7014@company.com
+  phone: (623) 357-5944
+  ssn: 539 17 5719
+  dob: 6/6/1995
+  address: 6365 Sixth Ave
+  city: Dallas
+  state: NY

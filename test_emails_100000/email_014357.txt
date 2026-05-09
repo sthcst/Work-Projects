@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Rogers,steven.rogers8492@outlook.com,889-565-3905,605-32-2176,11/17/1950,"200 Park St",Houston,WI

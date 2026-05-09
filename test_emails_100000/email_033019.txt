@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Harris
+  email: jeffrey.harris8721@example.com
+  phone: 574-469-9000
+  ssn: 345789093
+  dob: 10/06/1961
+  address: 475 West St
+  city: San Diego
+  state: MA

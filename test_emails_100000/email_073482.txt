@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Jones,maria.jones6789@company.com,+1 262-691-1046,422 30 4284,10/10/1977,"867 West Court",Los Angeles,TX

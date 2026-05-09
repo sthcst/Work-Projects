@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Parker,john.parker9010@outlook.com,491 560 6127,217-41-8767,02/25/1985,"7255 Sixth Ave",Chicago,TX

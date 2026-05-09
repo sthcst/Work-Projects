@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Clark",
+    "email": "kathleen.clark6505@outlook.com",
+    "phone": "(886) 569-5571",
+    "ssn": "387262378",
+    "dob": "09-06-1972",
+    "address": "4774 Third Court",
+    "city": "San Diego",
+    "state": "FL"
+  }
+}

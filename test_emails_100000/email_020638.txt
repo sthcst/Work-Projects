@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Martinez,anthony.martinez260@gmail.com,(779) 434-1234,710 61 6991,19/01/1959,"2895 Fourth Ave",Chicago,WA

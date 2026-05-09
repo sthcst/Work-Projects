@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Evans
+  email: nicole.evans3603@yahoo.com
+  phone: +1 684-322-1027
+  ssn: 962-94-1182
+  dob: 10/09/1978
+  address: 1767 Spring Court
+  city: Los Angeles
+  state: DC

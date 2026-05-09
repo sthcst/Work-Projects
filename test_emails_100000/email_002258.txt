@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Reyes,john.reyes362@example.com,717-644-7360,011 79 6888,07/28/2003,"1401 Fourth Rd",Phoenix,MO

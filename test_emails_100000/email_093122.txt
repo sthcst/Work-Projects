@@ -1,0 +1,9 @@
+contact:
+  name: George White
+  email: george.white3232@business.net
+  phone: 408-903-8316
+  ssn: 099 52 1715
+  dob: 16/10/1986
+  address: 3734 Summer Ave
+  city: Phoenix
+  state: TX

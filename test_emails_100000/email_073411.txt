@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Thomas
+  email: kenneth.thomas9048@mail.com
+  phone: (921) 840-7319
+  ssn: 443979965
+  dob: 04-09-1975
+  address: 4868 Summer Court
+  city: Chicago
+  state: AZ

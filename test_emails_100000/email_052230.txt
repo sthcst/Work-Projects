@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Ramirez
+  email: katherine.ramirez4066@example.com
+  phone: 505-348-3222
+  ssn: 437891815
+  dob: 12/27/1961
+  address: 6435 Oak Way
+  city: Austin
+  state: MO

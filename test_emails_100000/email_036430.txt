@@ -1,0 +1,14 @@
+INVOICE 220149
+
+Bill To:
+Name: Ashley Nelson
+Email: ashley.nelson8703@example.com
+Phone: +1 578-785-9097
+SSN: 900645328
+
+Address: 75 Oak Ave
+Los Angeles, FL
+
+Date of Birth: 04/24/1965
+
+Amount Due: $2177

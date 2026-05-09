@@ -1,0 +1,14 @@
+INVOICE 120173
+
+Bill To:
+Name: Ronald Alvarado
+Email: ronald.alvarado8914@work.org
+Phone: 900-890-6366
+SSN: 106067603
+
+Address: 5486 Oak Court
+Chicago, AZ
+
+Date of Birth: 03/23/1997
+
+Amount Due: $9815

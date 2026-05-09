@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Reeves",
+    "email": "katherine.reeves3121@yahoo.com",
+    "phone": "892 260 4153",
+    "ssn": "327 31 4803",
+    "dob": "23/10/1963",
+    "address": "688 Summer Blvd",
+    "city": "Austin",
+    "state": "NY"
+  }
+}

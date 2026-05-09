@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Davis,amanda.davis340@company.com,+1 454-748-7046,824-34-5317,8/17/1966,"2226 Fifth Ln",Dallas,MD

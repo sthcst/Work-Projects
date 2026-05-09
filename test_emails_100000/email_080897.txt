@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Cooper",
+    "email": "joseph.cooper356@yahoo.com",
+    "phone": "+1 934-328-8374",
+    "ssn": "109 13 7532",
+    "dob": "14/09/2002",
+    "address": "6919 Pine Rd",
+    "city": "Jacksonville",
+    "state": "AZ"
+  }
+}

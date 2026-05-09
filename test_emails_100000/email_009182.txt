@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Miller
+  email: cynthia.miller895@gmail.com
+  phone: +1 316-394-4897
+  ssn: 285-05-1793
+  dob: 2/17/1952
+  address: 4121 Park Blvd
+  city: New York
+  state: NY

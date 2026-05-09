@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Clark,rebecca.clark8244@work.org,+1 649-321-1305,316193979,07-15-1958,"9748 Third St",New York,TX

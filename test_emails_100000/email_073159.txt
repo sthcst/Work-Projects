@@ -1,0 +1,14 @@
+INVOICE 547654
+
+Bill To:
+Name: Gary Gonzalez
+Email: gary.gonzalez568@mail.com
+Phone: 982-670-1511
+SSN: 718-98-7551
+
+Address: 8158 Oak Blvd
+Austin, MD
+
+Date of Birth: 07/07/1950
+
+Amount Due: $3819

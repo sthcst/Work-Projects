@@ -1,0 +1,9 @@
+contact:
+  name: Edward Reyes
+  email: edward.reyes8938@company.com
+  phone: +1 261-239-5352
+  ssn: 930 87 9795
+  dob: 02/18/1967
+  address: 7374 First Rd
+  city: Seattle
+  state: NC

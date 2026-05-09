@@ -1,0 +1,14 @@
+INVOICE 855383
+
+Bill To:
+Name: Michelle Ortiz
+Email: michelle.ortiz9460@company.com
+Phone: +1 617-222-5520
+SSN: 952196583
+
+Address: 8498 North Blvd
+Denver, MO
+
+Date of Birth: 3/6/1975
+
+Amount Due: $5548

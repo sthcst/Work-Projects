@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Peterson,brian.peterson988@mail.com,204-443-6772,303398204,5/21/1969,"457 Birch Ln",Washington,DC

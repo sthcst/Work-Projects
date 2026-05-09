@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Davis",
+    "email": "lauren.davis347@work.org",
+    "phone": "+1 816-380-4024",
+    "ssn": "568459526",
+    "dob": "02/09/2000",
+    "address": "4377 Fourth St",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

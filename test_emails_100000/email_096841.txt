@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Morris
+  email: kevin.morris3273@example.com
+  phone: (636) 813-1796
+  ssn: 118108127
+  dob: 7/24/1988
+  address: 4205 Fifth Ave
+  city: Houston
+  state: TN

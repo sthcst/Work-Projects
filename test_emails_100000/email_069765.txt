@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Miller,charles.miller2558@business.net,(804) 204-1952,923 74 7436,06/11/1983,"8792 Cedar Way",San Jose,WA

@@ -1,0 +1,14 @@
+INVOICE 803039
+
+Bill To:
+Name: Joseph Delgado
+Email: joseph.delgado6923@example.com
+Phone: 470 604 4181
+SSN: 746132656
+
+Address: 7583 East Dr
+Washington, MD
+
+Date of Birth: 10/25/1956
+
+Amount Due: $6773

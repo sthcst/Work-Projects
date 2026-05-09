@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Parker",
+    "email": "angela.parker9822@gmail.com",
+    "phone": "567-251-1977",
+    "ssn": "611 94 5229",
+    "dob": "07/24/1985",
+    "address": "6010 Elm Blvd",
+    "city": "New York",
+    "state": "MD"
+  }
+}

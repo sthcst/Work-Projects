@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Robinson,lauren.robinson2332@outlook.com,242-707-3449,384-52-4384,12-17-2003,"4427 Park St",Los Angeles,OH

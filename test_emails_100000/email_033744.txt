@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Parker",
+    "email": "brian.parker5632@outlook.com",
+    "phone": "+1 659-968-2258",
+    "ssn": "108-23-5495",
+    "dob": "05/27/1967",
+    "address": "471 Cedar St",
+    "city": "San Antonio",
+    "state": "FL"
+  }
+}

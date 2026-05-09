@@ -1,0 +1,9 @@
+contact:
+  name: John Rodriguez
+  email: john.rodriguez1908@example.com
+  phone: (215) 886-9589
+  ssn: 763 33 8797
+  dob: 03-24-1984
+  address: 6693 Pine St
+  city: Chicago
+  state: CA

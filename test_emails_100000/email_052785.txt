@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Murillo,nicholas.murillo6028@outlook.com,624-796-5161,495-48-4273,22/02/1975,"8265 West Dr",Jacksonville,FL

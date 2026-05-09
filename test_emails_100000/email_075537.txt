@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Lopez",
+    "email": "kimberly.lopez5817@outlook.com",
+    "phone": "742 438 4059",
+    "ssn": "897-25-5130",
+    "dob": "08/07/1991",
+    "address": "8457 Spring Ave",
+    "city": "Denver",
+    "state": "NJ"
+  }
+}

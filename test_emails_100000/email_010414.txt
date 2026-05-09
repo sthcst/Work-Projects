@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Roberts,cynthia.roberts9705@outlook.com,613 502 5898,515688386,04/07/1976,"5450 Second Rd",Dallas,CA

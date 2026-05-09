@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Reyes",
+    "email": "deborah.reyes8998@work.org",
+    "phone": "224 362 7794",
+    "ssn": "683-08-3886",
+    "dob": "04-26-1957",
+    "address": "5643 Oak Rd",
+    "city": "Phoenix",
+    "state": "CO"
+  }
+}

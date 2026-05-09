@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Brown,james.brown3584@outlook.com,+1 977-524-8987,222-11-5464,11-20-1956,"4626 Summer Ln",Philadelphia,OH

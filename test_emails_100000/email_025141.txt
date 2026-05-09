@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Johnson,nicole.johnson537@work.org,(595) 287-9633,845-01-4940,07/16/1978,"2647 Second Rd",Jacksonville,MA

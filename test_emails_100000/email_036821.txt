@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Reeves,richard.reeves7079@mail.com,(434) 639-4737,621-96-1599,10-01-1969,"2561 Maple Ave",Washington,PA

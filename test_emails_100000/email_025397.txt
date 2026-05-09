@@ -1,0 +1,9 @@
+contact:
+  name: Steven Moore
+  email: steven.moore6077@gmail.com
+  phone: 685 771 6331
+  ssn: 854 60 6726
+  dob: 15/07/1954
+  address: 1136 Elm Court
+  city: Denver
+  state: FL

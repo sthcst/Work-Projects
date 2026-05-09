@@ -1,0 +1,14 @@
+INVOICE 774149
+
+Bill To:
+Name: James Bell
+Email: james.bell2986@business.net
+Phone: 205 647 5663
+SSN: 606702271
+
+Address: 1042 Park Ln
+Washington, TX
+
+Date of Birth: 01-02-1989
+
+Amount Due: $7470

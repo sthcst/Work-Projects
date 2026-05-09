@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Bell,kathleen.bell304@company.com,+1 931-856-2034,251059543,21/07/2005,"4718 Elm Way",Seattle,CA

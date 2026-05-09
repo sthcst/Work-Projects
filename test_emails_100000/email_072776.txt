@@ -1,0 +1,9 @@
+contact:
+  name: Jane Reyes
+  email: jane.reyes6094@work.org
+  phone: +1 967-338-7642
+  ssn: 758608667
+  dob: 6/26/1982
+  address: 5852 Sixth Way
+  city: Denver
+  state: AZ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Cooper",
+    "email": "joseph.cooper4032@example.com",
+    "phone": "(399) 866-4433",
+    "ssn": "023-29-2396",
+    "dob": "19/05/1983",
+    "address": "6030 Park Dr",
+    "city": "Chicago",
+    "state": "MD"
+  }
+}

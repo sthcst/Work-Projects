@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Romero",
+    "email": "jacob.romero2555@outlook.com",
+    "phone": "(254) 558-2318",
+    "ssn": "992-87-3158",
+    "dob": "09/01/1976",
+    "address": "2346 Fifth St",
+    "city": "New York",
+    "state": "FL"
+  }
+}

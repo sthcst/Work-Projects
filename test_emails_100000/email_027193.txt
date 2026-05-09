@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Thompson",
+    "email": "george.thompson2529@outlook.com",
+    "phone": "383-973-2780",
+    "ssn": "792646660",
+    "dob": "03/25/2002",
+    "address": "6996 South Ln",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

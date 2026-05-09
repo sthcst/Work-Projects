@@ -1,0 +1,9 @@
+contact:
+  name: Christine Harris
+  email: christine.harris1249@company.com
+  phone: 723-942-6753
+  ssn: 006-33-5580
+  dob: 1/26/1954
+  address: 2363 Oak Court
+  city: Houston
+  state: TX

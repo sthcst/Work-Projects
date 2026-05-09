@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Jimenez,anthony.jimenez8300@yahoo.com,667-943-7027,937952917,26/03/1958,"5729 Summer Blvd",Denver,NJ

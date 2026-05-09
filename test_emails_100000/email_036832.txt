@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Roberts
+  email: rachel.roberts6137@business.net
+  phone: 822-552-3245
+  ssn: 538609450
+  dob: 9/16/2000
+  address: 9150 Fifth Court
+  city: Chicago
+  state: TX

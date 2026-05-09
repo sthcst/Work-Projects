@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Gomez",
+    "email": "deborah.gomez1165@outlook.com",
+    "phone": "(414) 248-9749",
+    "ssn": "668 68 7595",
+    "dob": "09/17/2002",
+    "address": "9590 Fifth Ave",
+    "city": "Philadelphia",
+    "state": "NC"
+  }
+}

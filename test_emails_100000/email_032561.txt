@@ -1,0 +1,12 @@
+SUPPORT TICKET #60500
+
+Customer: Jacob Wilson
+Email: jacob.wilson4303@example.com
+Phone: 361-725-2896
+Account: 132105598
+
+Issue Description: Technical problem reported
+DOB on file: 7/27/1964
+Address: 8855 Elm St, New York, PA
+
+Status: OPEN

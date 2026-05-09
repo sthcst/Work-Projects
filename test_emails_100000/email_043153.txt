@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Dominguez,anthony.dominguez7629@company.com,262-952-6476,817-65-7207,5/13/1987,"3435 Main Ave",Los Angeles,NC

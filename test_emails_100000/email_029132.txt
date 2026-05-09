@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Thompson
+  email: amanda.thompson1031@outlook.com
+  phone: +1 988-277-9881
+  ssn: 468-86-6301
+  dob: 11/07/1961
+  address: 447 Summer St
+  city: Austin
+  state: VA

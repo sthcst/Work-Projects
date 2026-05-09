@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Delgado",
+    "email": "lauren.delgado3994@example.com",
+    "phone": "694 463 3772",
+    "ssn": "450686502",
+    "dob": "11-12-1957",
+    "address": "6751 South Dr",
+    "city": "Los Angeles",
+    "state": "MD"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Evans",
+    "email": "ronald.evans1237@mail.com",
+    "phone": "+1 377-519-8481",
+    "ssn": "873-79-3716",
+    "dob": "3/17/1969",
+    "address": "8300 Fourth Ave",
+    "city": "Chicago",
+    "state": "FL"
+  }
+}

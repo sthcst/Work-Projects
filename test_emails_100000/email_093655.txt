@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Ortiz",
+    "email": "andrew.ortiz902@company.com",
+    "phone": "210-230-3296",
+    "ssn": "544 30 6782",
+    "dob": "4/9/1956",
+    "address": "289 Spring Blvd",
+    "city": "Washington",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Carter",
+    "email": "edward.carter540@business.net",
+    "phone": "+1 477-639-5319",
+    "ssn": "130 33 5710",
+    "dob": "22/12/1986",
+    "address": "7787 Sixth Ln",
+    "city": "San Jose",
+    "state": "IL"
+  }
+}

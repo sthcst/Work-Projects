@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Stewart,sarah.stewart4934@gmail.com,(263) 399-3350,368 29 7063,06-19-1988,"3219 Sixth Court",Philadelphia,NY

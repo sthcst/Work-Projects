@@ -1,0 +1,9 @@
+contact:
+  name: Robert Clark
+  email: robert.clark8186@work.org
+  phone: +1 403-510-8649
+  ssn: 531 20 5318
+  dob: 08-21-1975
+  address: 1738 Sixth Dr
+  city: Dallas
+  state: PA

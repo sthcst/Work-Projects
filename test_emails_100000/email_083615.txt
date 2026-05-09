@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Delgado,rebecca.delgado7394@yahoo.com,+1 954-593-4013,184-46-2288,05-15-1952,"1802 Park Way",Washington,FL

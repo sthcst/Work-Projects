@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Jimenez",
+    "email": "matthew.jimenez7859@example.com",
+    "phone": "+1 291-731-8071",
+    "ssn": "661 72 2316",
+    "dob": "05/21/1988",
+    "address": "8705 Park Dr",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

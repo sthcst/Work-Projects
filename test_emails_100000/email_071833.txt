@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Jackson
+  email: michelle.jackson5392@example.com
+  phone: 804-552-5065
+  ssn: 094-47-7943
+  dob: 18/01/1950
+  address: 2104 First Ln
+  city: San Jose
+  state: TN

@@ -1,0 +1,12 @@
+SUPPORT TICKET #63164
+
+Customer: Kevin Reeves
+Email: kevin.reeves2182@example.com
+Phone: 322-694-1082
+Account: 840128725
+
+Issue Description: Technical problem reported
+DOB on file: 12/9/1952
+Address: 4252 Cedar Court, Dallas, GA
+
+Status: OPEN

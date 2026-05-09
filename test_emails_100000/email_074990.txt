@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Clark",
+    "email": "nicole.clark1970@yahoo.com",
+    "phone": "(420) 620-8743",
+    "ssn": "863 69 7620",
+    "dob": "05-23-1955",
+    "address": "4951 South Ave",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

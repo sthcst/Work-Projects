@@ -1,0 +1,14 @@
+INVOICE 650024
+
+Bill To:
+Name: Ryan Rodriguez
+Email: ryan.rodriguez1296@outlook.com
+Phone: (825) 855-3518
+SSN: 027814525
+
+Address: 8121 Oak St
+Denver, TX
+
+Date of Birth: 14/01/1959
+
+Amount Due: $4863

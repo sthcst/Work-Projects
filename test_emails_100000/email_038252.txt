@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Stewart",
+    "email": "emma.stewart6988@gmail.com",
+    "phone": "828-916-3473",
+    "ssn": "296671839",
+    "dob": "6/26/1962",
+    "address": "7956 Park Rd",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Reeves
+  email: stephanie.reeves924@example.com
+  phone: 616-256-2016
+  ssn: 631111776
+  dob: 10/18/1955
+  address: 1995 Park Blvd
+  city: Los Angeles
+  state: MA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Rogers",
+    "email": "joseph.rogers7865@work.org",
+    "phone": "538 802 7467",
+    "ssn": "797-32-5788",
+    "dob": "02/08/1994",
+    "address": "1264 Second Dr",
+    "city": "New York",
+    "state": "MO"
+  }
+}

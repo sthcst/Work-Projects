@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Reeves
+  email: ronald.reeves6356@example.com
+  phone: 506-249-5861
+  ssn: 042-44-3420
+  dob: 25/08/1980
+  address: 5920 Oak Ave
+  city: Seattle
+  state: WA

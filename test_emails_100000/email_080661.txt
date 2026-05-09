@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Cooper",
+    "email": "steven.cooper4257@mail.com",
+    "phone": "(511) 812-2197",
+    "ssn": "879-45-1315",
+    "dob": "07-27-1994",
+    "address": "3886 Fourth Rd",
+    "city": "Philadelphia",
+    "state": "OH"
+  }
+}

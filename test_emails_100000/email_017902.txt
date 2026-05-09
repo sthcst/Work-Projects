@@ -1,0 +1,9 @@
+contact:
+  name: Richard Martin
+  email: richard.martin3474@mail.com
+  phone: 989 361 2130
+  ssn: 976-79-5841
+  dob: 10/11/1969
+  address: 3883 Pine Rd
+  city: Phoenix
+  state: AZ

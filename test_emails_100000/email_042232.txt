@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Wilson,kenneth.wilson7962@example.com,418 664 6416,256 50 4765,01/05/1971,"2005 East Ave",Seattle,DC

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Miller,lisa.miller4693@work.org,471-529-6180,574-90-7192,11/09/1953,"4350 Summer Ave",Houston,MI

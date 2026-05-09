@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Johnson",
+    "email": "brenda.johnson6579@business.net",
+    "phone": "778 782 8758",
+    "ssn": "245-19-7412",
+    "dob": "02-19-1992",
+    "address": "4293 Pine St",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

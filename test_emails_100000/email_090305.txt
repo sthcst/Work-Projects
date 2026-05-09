@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Serrano
+  email: katherine.serrano5824@business.net
+  phone: +1 977-414-5598
+  ssn: 533132423
+  dob: 07/23/1982
+  address: 5554 Maple Dr
+  city: New York
+  state: VA

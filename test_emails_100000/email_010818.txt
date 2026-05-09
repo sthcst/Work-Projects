@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Lee
+  email: lisa.lee6462@work.org
+  phone: 597-438-3620
+  ssn: 507 16 6496
+  dob: 14/08/2003
+  address: 5245 Pine Blvd
+  city: Boston
+  state: WI

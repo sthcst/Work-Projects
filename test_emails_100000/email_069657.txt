@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Lee,ashley.lee6059@mail.com,+1 368-876-3778,973 69 4246,23/11/1961,"5914 Fourth Rd",Washington,GA

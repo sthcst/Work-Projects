@@ -1,0 +1,14 @@
+INVOICE 628716
+
+Bill To:
+Name: Jane Rogers
+Email: jane.rogers140@mail.com
+Phone: (964) 882-4219
+SSN: 979211568
+
+Address: 474 Elm Ave
+San Jose, AZ
+
+Date of Birth: 2/26/1980
+
+Amount Due: $6423

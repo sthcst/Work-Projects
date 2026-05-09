@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Romero
+  email: ryan.romero7865@yahoo.com
+  phone: 437-810-7846
+  ssn: 065-72-9147
+  dob: 07-04-1975
+  address: 878 South St
+  city: Philadelphia
+  state: CO

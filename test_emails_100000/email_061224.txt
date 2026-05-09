@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Martinez
+  email: jeffrey.martinez6297@gmail.com
+  phone: 747-563-5775
+  ssn: 132-42-7652
+  dob: 1/15/1976
+  address: 648 Pine Ave
+  city: Seattle
+  state: CO

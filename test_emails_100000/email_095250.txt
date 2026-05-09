@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Lewis,maria.lewis8582@gmail.com,+1 650-637-2621,656 68 5608,8/10/1961,"1197 West Blvd",Denver,MA

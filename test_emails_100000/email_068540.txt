@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Taylor,amanda.taylor3433@mail.com,+1 561-525-1025,592558276,2/25/1966,"2833 Fourth Ave",Philadelphia,GA

@@ -1,0 +1,14 @@
+INVOICE 195408
+
+Bill To:
+Name: George Jimenez
+Email: george.jimenez1504@yahoo.com
+Phone: 815 388 2656
+SSN: 327311138
+
+Address: 3972 Second Ln
+Boston, CA
+
+Date of Birth: 17/01/2004
+
+Amount Due: $9762

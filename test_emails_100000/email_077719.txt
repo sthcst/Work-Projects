@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Stewart,emma.stewart8937@work.org,+1 690-967-1710,093 01 3822,09-07-1975,"79 Sixth Way",New York,OH

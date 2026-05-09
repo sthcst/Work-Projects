@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Collins",
+    "email": "jessica.collins6484@example.com",
+    "phone": "(720) 981-8125",
+    "ssn": "714057921",
+    "dob": "8/20/2005",
+    "address": "6572 Park Rd",
+    "city": "Los Angeles",
+    "state": "WA"
+  }
+}

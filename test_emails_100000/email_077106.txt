@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Thompson",
+    "email": "timothy.thompson7381@example.com",
+    "phone": "344-949-9361",
+    "ssn": "172-77-2350",
+    "dob": "09/11/1989",
+    "address": "3345 Birch Blvd",
+    "city": "Denver",
+    "state": "NJ"
+  }
+}

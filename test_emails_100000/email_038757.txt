@@ -1,0 +1,14 @@
+INVOICE 628293
+
+Bill To:
+Name: William Walker
+Email: william.walker2413@example.com
+Phone: +1 270-932-9364
+SSN: 630748583
+
+Address: 8308 First Dr
+Philadelphia, IL
+
+Date of Birth: 01/27/1954
+
+Amount Due: $1437

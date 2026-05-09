@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Bell",
+    "email": "joshua.bell7283@company.com",
+    "phone": "(201) 226-3795",
+    "ssn": "947 60 1041",
+    "dob": "1/28/1985",
+    "address": "2656 Cedar St",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

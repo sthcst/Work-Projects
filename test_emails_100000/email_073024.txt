@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Jones",
+    "email": "kimberly.jones2250@business.net",
+    "phone": "338 618 1900",
+    "ssn": "287628008",
+    "dob": "01-24-1980",
+    "address": "3611 Elm Court",
+    "city": "Boston",
+    "state": "DC"
+  }
+}

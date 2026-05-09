@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Davis,angela.davis6181@example.com,506 982 8513,979 09 6754,05/11/2005,"8243 Pine Ave",Jacksonville,TN

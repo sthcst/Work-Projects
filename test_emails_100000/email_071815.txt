@@ -1,0 +1,9 @@
+contact:
+  name: Megan Serrano
+  email: megan.serrano8547@company.com
+  phone: 497 669 1392
+  ssn: 559028193
+  dob: 03/06/1963
+  address: 3894 First Rd
+  city: Washington
+  state: WA

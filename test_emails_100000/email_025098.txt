@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Gonzalez
+  email: kimberly.gonzalez9467@outlook.com
+  phone: (977) 490-5081
+  ssn: 882-91-2192
+  dob: 12/11/1993
+  address: 1504 Third Blvd
+  city: Phoenix
+  state: MI

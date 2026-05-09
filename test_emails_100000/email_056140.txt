@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Robinson,brian.robinson7460@gmail.com,999-509-7381,605-17-5882,05/01/1996,"668 Birch Blvd",San Antonio,CO

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Thompson",
+    "email": "mark.thompson2754@company.com",
+    "phone": "+1 274-554-8040",
+    "ssn": "724-86-4204",
+    "dob": "09-18-1960",
+    "address": "5497 Fourth Way",
+    "city": "San Diego",
+    "state": "DC"
+  }
+}

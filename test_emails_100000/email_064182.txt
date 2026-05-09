@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Morris",
+    "email": "brenda.morris6273@company.com",
+    "phone": "911-276-7661",
+    "ssn": "630-99-3006",
+    "dob": "06/04/1979",
+    "address": "8576 West Ave",
+    "city": "Los Angeles",
+    "state": "AZ"
+  }
+}

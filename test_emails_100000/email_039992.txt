@@ -1,0 +1,9 @@
+contact:
+  name: Angela Phillips
+  email: angela.phillips8915@work.org
+  phone: 553 989 9102
+  ssn: 462 59 8523
+  dob: 4/20/2002
+  address: 9952 Cedar St
+  city: Houston
+  state: FL

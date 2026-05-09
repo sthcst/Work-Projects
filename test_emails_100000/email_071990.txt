@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Rogers,helen.rogers7011@outlook.com,755 628 3412,610 90 3936,20/04/1957,"8161 Oak Way",San Jose,TX

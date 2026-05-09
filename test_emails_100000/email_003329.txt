@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Delgado,ryan.delgado6262@outlook.com,579 732 5963,519 41 2413,7/6/1977,"5635 First Blvd",San Jose,VA

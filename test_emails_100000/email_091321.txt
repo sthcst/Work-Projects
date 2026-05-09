@@ -1,0 +1,14 @@
+INVOICE 550796
+
+Bill To:
+Name: Joseph Edwards
+Email: joseph.edwards5463@example.com
+Phone: +1 386-876-2068
+SSN: 122215642
+
+Address: 149 Birch Blvd
+San Jose, MA
+
+Date of Birth: 28/05/2004
+
+Amount Due: $3205

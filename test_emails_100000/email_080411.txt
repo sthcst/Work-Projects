@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Jones,donald.jones4519@gmail.com,211 999 4404,936232477,02-20-1964,"38 Park Ln",Phoenix,CA

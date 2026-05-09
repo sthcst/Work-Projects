@@ -1,0 +1,14 @@
+INVOICE 178217
+
+Bill To:
+Name: Pamela Garcia
+Email: pamela.garcia1324@company.com
+Phone: 683-685-2911
+SSN: 917-29-4993
+
+Address: 7449 Main Blvd
+Seattle, TN
+
+Date of Birth: 4/27/2000
+
+Amount Due: $6671

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Walker",
+    "email": "angela.walker2107@gmail.com",
+    "phone": "+1 473-354-5504",
+    "ssn": "330 91 6506",
+    "dob": "10/03/1984",
+    "address": "9674 Oak Ave",
+    "city": "San Antonio",
+    "state": "CA"
+  }
+}

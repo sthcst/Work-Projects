@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Reed",
+    "email": "michelle.reed8650@example.com",
+    "phone": "323-253-6360",
+    "ssn": "208-97-9212",
+    "dob": "12/15/1977",
+    "address": "3750 North St",
+    "city": "Los Angeles",
+    "state": "FL"
+  }
+}

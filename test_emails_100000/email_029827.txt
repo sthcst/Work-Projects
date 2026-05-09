@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Dominguez",
+    "email": "joshua.dominguez6886@example.com",
+    "phone": "(993) 864-7205",
+    "ssn": "282706430",
+    "dob": "6/22/1981",
+    "address": "9278 Pine Way",
+    "city": "Dallas",
+    "state": "NC"
+  }
+}

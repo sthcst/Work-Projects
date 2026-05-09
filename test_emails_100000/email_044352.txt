@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Williams
+  email: kimberly.williams5190@mail.com
+  phone: 663-465-5353
+  ssn: 562788130
+  dob: 12/20/1984
+  address: 5685 East Way
+  city: Washington
+  state: NJ

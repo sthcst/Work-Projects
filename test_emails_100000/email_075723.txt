@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Martinez",
+    "email": "deborah.martinez9347@company.com",
+    "phone": "449 638 7117",
+    "ssn": "405 62 9746",
+    "dob": "02-08-1980",
+    "address": "6788 East Court",
+    "city": "San Diego",
+    "state": "VA"
+  }
+}

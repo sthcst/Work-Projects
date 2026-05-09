@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Brown
+  email: kimberly.brown7457@yahoo.com
+  phone: +1 491-966-6830
+  ssn: 381179047
+  dob: 12-09-1984
+  address: 7624 North Way
+  city: Chicago
+  state: MI

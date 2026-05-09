@@ -1,0 +1,14 @@
+INVOICE 448888
+
+Bill To:
+Name: Andrew Martin
+Email: andrew.martin6769@outlook.com
+Phone: +1 993-505-3037
+SSN: 028-95-1897
+
+Address: 46 Pine Ln
+Houston, FL
+
+Date of Birth: 12-23-1985
+
+Amount Due: $7420

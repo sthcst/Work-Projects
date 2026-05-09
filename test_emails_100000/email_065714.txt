@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Murillo
+  email: nicole.murillo5293@mail.com
+  phone: 278 227 6563
+  ssn: 739625345
+  dob: 4/5/1992
+  address: 1477 South Ave
+  city: Chicago
+  state: GA

@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Parker
+  email: ronald.parker1651@work.org
+  phone: +1 516-224-7284
+  ssn: 700951803
+  dob: 02/06/2002
+  address: 3218 Summer Blvd
+  city: San Diego
+  state: TN

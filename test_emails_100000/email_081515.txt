@@ -1,0 +1,9 @@
+contact:
+  name: David Jimenez
+  email: david.jimenez2859@mail.com
+  phone: 244 379 6744
+  ssn: 724-39-9683
+  dob: 12-01-1975
+  address: 1327 Fourth Blvd
+  city: Denver
+  state: WA

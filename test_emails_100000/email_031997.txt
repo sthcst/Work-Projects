@@ -1,0 +1,14 @@
+INVOICE 380108
+
+Bill To:
+Name: Helen White
+Email: helen.white7251@work.org
+Phone: +1 842-857-7038
+SSN: 937 37 9388
+
+Address: 8757 Elm Dr
+Philadelphia, WI
+
+Date of Birth: 08-08-1990
+
+Amount Due: $3694

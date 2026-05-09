@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Nelson",
+    "email": "cynthia.nelson9214@example.com",
+    "phone": "579-694-2633",
+    "ssn": "925354138",
+    "dob": "03-15-1980",
+    "address": "123 Elm Rd",
+    "city": "Seattle",
+    "state": "PA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Williams,william.williams2897@mail.com,522 222 8298,781-38-4719,23/04/1984,"9040 Sixth St",Los Angeles,FL

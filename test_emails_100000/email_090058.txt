@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Taylor,lauren.taylor1895@work.org,580 806 9780,088828972,11/10/1982,"5687 Cedar Dr",Los Angeles,WA

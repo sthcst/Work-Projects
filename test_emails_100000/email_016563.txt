@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Carter,rachel.carter5518@business.net,806 206 4997,710489124,07-25-1982,"7999 Park Way",Chicago,MA

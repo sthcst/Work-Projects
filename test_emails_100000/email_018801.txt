@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Bell",
+    "email": "nicholas.bell5467@company.com",
+    "phone": "(520) 288-5513",
+    "ssn": "776-66-6182",
+    "dob": "26/11/1963",
+    "address": "3475 Main Dr",
+    "city": "Houston",
+    "state": "MD"
+  }
+}

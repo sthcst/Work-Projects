@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Rogers,joshua.rogers4873@mail.com,+1 835-829-3300,589-18-4163,1/20/1980,"1613 Third Blvd",San Diego,CO

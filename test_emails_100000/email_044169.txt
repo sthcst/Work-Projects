@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Williams,sarah.williams1717@gmail.com,692 221 4552,398549184,8/26/2003,"684 First Ave",Boston,DC

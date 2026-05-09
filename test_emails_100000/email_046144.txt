@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Reed,ryan.reed5481@business.net,921 782 7596,878-87-1952,02/20/1987,"5435 East Ave",Philadelphia,CA

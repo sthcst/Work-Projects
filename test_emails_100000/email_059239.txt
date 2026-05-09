@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Alvarado",
+    "email": "stephanie.alvarado1349@example.com",
+    "phone": "721-643-3830",
+    "ssn": "254601986",
+    "dob": "8/16/1999",
+    "address": "5177 Sixth Ave",
+    "city": "Austin",
+    "state": "MI"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 272362
+
+Bill To:
+Name: Kevin Miller
+Email: kevin.miller5384@example.com
+Phone: (991) 915-1523
+SSN: 092 19 8446
+
+Address: 9525 Fourth Ave
+Jacksonville, MO
+
+Date of Birth: 07/10/1952
+
+Amount Due: $4838

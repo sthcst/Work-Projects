@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Lee",
+    "email": "steven.lee4004@example.com",
+    "phone": "276 757 6982",
+    "ssn": "502 31 6992",
+    "dob": "3/8/1980",
+    "address": "8605 Second Way",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

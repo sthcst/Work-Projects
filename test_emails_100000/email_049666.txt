@@ -1,0 +1,9 @@
+contact:
+  name: Steven Brown
+  email: steven.brown845@example.com
+  phone: 731 319 9193
+  ssn: 222 20 8582
+  dob: 07/17/2002
+  address: 4846 Sixth St
+  city: Philadelphia
+  state: VA

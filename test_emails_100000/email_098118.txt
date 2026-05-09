@@ -1,0 +1,14 @@
+INVOICE 480389
+
+Bill To:
+Name: Nicholas Campbell
+Email: nicholas.campbell5145@example.com
+Phone: (857) 804-6320
+SSN: 492669419
+
+Address: 4566 Oak Blvd
+Denver, VA
+
+Date of Birth: 9/27/1978
+
+Amount Due: $3976

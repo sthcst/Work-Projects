@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Jackson,kevin.jackson6797@company.com,954-754-4147,706 55 5490,01-14-2004,"2368 Birch Rd",Chicago,CA

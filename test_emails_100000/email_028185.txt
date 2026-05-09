@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Ramirez
+  email: deborah.ramirez5082@business.net
+  phone: 836-633-3607
+  ssn: 995908202
+  dob: 03/08/1985
+  address: 641 Fifth Ln
+  city: Phoenix
+  state: MA

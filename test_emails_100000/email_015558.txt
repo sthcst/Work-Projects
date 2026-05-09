@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Hernandez,ryan.hernandez2986@yahoo.com,906 462 6419,901826515,02-05-1974,"15 Fourth Blvd",Phoenix,NY

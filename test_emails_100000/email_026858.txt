@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Ortiz
+  email: ronald.ortiz9948@gmail.com
+  phone: (211) 535-4150
+  ssn: 806-35-9039
+  dob: 07/03/1950
+  address: 4879 Sixth Court
+  city: Los Angeles
+  state: NC

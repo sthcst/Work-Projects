@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Collins,donald.collins1802@company.com,+1 976-642-4160,663-20-3417,16/09/1991,"473 Main Ave",Dallas,AZ

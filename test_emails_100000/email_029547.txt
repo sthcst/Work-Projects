@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Campbell",
+    "email": "jane.campbell8632@gmail.com",
+    "phone": "592 474 1856",
+    "ssn": "393-57-4402",
+    "dob": "14/02/1951",
+    "address": "4708 Birch Dr",
+    "city": "Chicago",
+    "state": "GA"
+  }
+}

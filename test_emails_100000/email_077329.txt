@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Reyes",
+    "email": "kathleen.reyes4474@company.com",
+    "phone": "333-506-5172",
+    "ssn": "290-91-4505",
+    "dob": "5/8/1967",
+    "address": "8379 Sixth St",
+    "city": "Austin",
+    "state": "IL"
+  }
+}

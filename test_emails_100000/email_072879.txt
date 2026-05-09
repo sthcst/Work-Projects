@@ -1,0 +1,14 @@
+INVOICE 422650
+
+Bill To:
+Name: Lisa Reyes
+Email: lisa.reyes4361@company.com
+Phone: +1 371-700-3484
+SSN: 374 03 8935
+
+Address: 8974 East Way
+Philadelphia, CA
+
+Date of Birth: 13/01/1971
+
+Amount Due: $7913

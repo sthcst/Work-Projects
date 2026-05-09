@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Rodriguez,jessica.rodriguez7727@work.org,+1 602-501-4414,194318991,07/09/1979,"3539 Spring Ave",Austin,TX

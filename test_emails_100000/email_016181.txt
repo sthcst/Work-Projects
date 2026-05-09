@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Sanchez",
+    "email": "richard.sanchez8950@company.com",
+    "phone": "409-522-2449",
+    "ssn": "446214725",
+    "dob": "19/04/1987",
+    "address": "6392 East Way",
+    "city": "Dallas",
+    "state": "WA"
+  }
+}

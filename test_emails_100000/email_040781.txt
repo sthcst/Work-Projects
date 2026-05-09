@@ -1,0 +1,9 @@
+contact:
+  name: Angela Smith
+  email: angela.smith9766@business.net
+  phone: +1 558-655-2377
+  ssn: 337855014
+  dob: 03/12/1973
+  address: 3575 Pine Blvd
+  city: Chicago
+  state: AZ

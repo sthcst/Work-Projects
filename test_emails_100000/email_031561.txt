@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Walker,joshua.walker7706@company.com,(970) 672-6009,095749961,11/10/1955,"4185 Oak Way",New York,PA

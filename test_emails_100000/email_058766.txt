@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Matthew Sanchez,matthew.sanchez2561@mail.com,441-524-4103,386-01-7499,9/24/1955,"1781 Elm Way",San Jose,AZ

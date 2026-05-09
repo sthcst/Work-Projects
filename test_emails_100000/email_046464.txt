@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Romero,katherine.romero7531@example.com,+1 448-868-9538,679-43-3865,22/05/1961,"73 Main Ave",Washington,CA

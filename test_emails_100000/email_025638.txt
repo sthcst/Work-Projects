@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Hall,jennifer.hall4980@example.com,(672) 561-6687,593 56 1562,1/24/1996,"334 First Court",Los Angeles,MA

@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Morris
+  email: katherine.morris5300@gmail.com
+  phone: +1 856-235-1130
+  ssn: 198-14-5096
+  dob: 4/21/1991
+  address: 2507 Sixth Dr
+  city: Washington
+  state: WI

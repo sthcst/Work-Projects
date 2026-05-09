@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Reyes",
+    "email": "anthony.reyes6230@example.com",
+    "phone": "991 815 5526",
+    "ssn": "149341625",
+    "dob": "07/28/1962",
+    "address": "147 Sixth Ln",
+    "city": "Boston",
+    "state": "CA"
+  }
+}

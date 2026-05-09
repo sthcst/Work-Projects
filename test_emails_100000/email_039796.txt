@@ -1,0 +1,14 @@
+INVOICE 969438
+
+Bill To:
+Name: John Hall
+Email: john.hall1486@example.com
+Phone: (336) 911-1952
+SSN: 917978296
+
+Address: 1262 Birch Court
+Philadelphia, IL
+
+Date of Birth: 16/01/1982
+
+Amount Due: $5863

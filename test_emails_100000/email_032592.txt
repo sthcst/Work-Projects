@@ -1,0 +1,9 @@
+contact:
+  name: Edward Cooper
+  email: edward.cooper6551@work.org
+  phone: (290) 524-3688
+  ssn: 655 20 9241
+  dob: 27/05/1967
+  address: 5403 Park Court
+  city: Austin
+  state: NJ

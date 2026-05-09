@@ -1,0 +1,9 @@
+contact:
+  name: Mark Serrano
+  email: mark.serrano8002@work.org
+  phone: (546) 447-1331
+  ssn: 513-82-5521
+  dob: 09/02/2001
+  address: 9028 Second Way
+  city: Austin
+  state: WI

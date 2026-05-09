@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Morgan",
+    "email": "anna.morgan1193@work.org",
+    "phone": "+1 634-910-1205",
+    "ssn": "144904956",
+    "dob": "28/01/1966",
+    "address": "5118 North Way",
+    "city": "San Jose",
+    "state": "NC"
+  }
+}

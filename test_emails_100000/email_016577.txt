@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Harris",
+    "email": "rebecca.harris9357@company.com",
+    "phone": "586 249 1679",
+    "ssn": "832-62-1357",
+    "dob": "07/04/1990",
+    "address": "1964 North Dr",
+    "city": "Dallas",
+    "state": "CO"
+  }
+}

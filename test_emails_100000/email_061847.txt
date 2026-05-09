@@ -1,0 +1,14 @@
+INVOICE 984007
+
+Bill To:
+Name: Andrew White
+Email: andrew.white9372@work.org
+Phone: (770) 723-3277
+SSN: 094-37-4113
+
+Address: 3822 West Blvd
+San Jose, WA
+
+Date of Birth: 04/02/1979
+
+Amount Due: $2937

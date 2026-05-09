@@ -1,0 +1,9 @@
+contact:
+  name: Michael Ramirez
+  email: michael.ramirez183@work.org
+  phone: (885) 591-8828
+  ssn: 625-15-8201
+  dob: 26/02/1957
+  address: 5127 North Court
+  city: Los Angeles
+  state: MA

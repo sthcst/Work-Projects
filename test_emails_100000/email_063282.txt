@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Reyes
+  email: amanda.reyes3417@yahoo.com
+  phone: +1 581-223-3359
+  ssn: 921634265
+  dob: 02/16/1977
+  address: 316 Maple Ln
+  city: San Diego
+  state: TX

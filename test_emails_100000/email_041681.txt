@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Thompson
+  email: ronald.thompson7641@gmail.com
+  phone: 445-784-9611
+  ssn: 968482116
+  dob: 06-19-1957
+  address: 8713 Fourth Ave
+  city: Boston
+  state: OH

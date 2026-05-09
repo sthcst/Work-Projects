@@ -1,0 +1,14 @@
+INVOICE 408426
+
+Bill To:
+Name: Gary Nunez
+Email: gary.nunez2850@company.com
+Phone: 816 418 2578
+SSN: 444372491
+
+Address: 8341 Third Ave
+Philadelphia, TX
+
+Date of Birth: 4/1/1978
+
+Amount Due: $7106

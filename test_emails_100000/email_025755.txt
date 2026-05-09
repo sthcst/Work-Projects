@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Jimenez,andrew.jimenez9925@mail.com,+1 680-681-9555,427745836,12-10-1976,"7860 Maple Blvd",San Diego,CA

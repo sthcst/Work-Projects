@@ -1,0 +1,9 @@
+contact:
+  name: Emily Miller
+  email: emily.miller2426@work.org
+  phone: 231 903 8328
+  ssn: 666-41-8693
+  dob: 24/04/1962
+  address: 5133 Elm St
+  city: San Jose
+  state: FL

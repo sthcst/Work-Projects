@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Thomas",
+    "email": "christine.thomas6581@example.com",
+    "phone": "+1 919-518-9371",
+    "ssn": "499-30-3872",
+    "dob": "07/08/1972",
+    "address": "8020 Pine Court",
+    "city": "Denver",
+    "state": "OH"
+  }
+}

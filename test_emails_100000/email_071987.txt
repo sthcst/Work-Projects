@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Johnson,robert.johnson1912@business.net,(557) 705-9014,518 60 3417,08/06/1950,"609 East Ave",New York,TX

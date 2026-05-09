@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Moore",
+    "email": "christine.moore3014@work.org",
+    "phone": "585-999-4514",
+    "ssn": "998-23-4207",
+    "dob": "01/01/1958",
+    "address": "6735 Main Dr",
+    "city": "San Diego",
+    "state": "NC"
+  }
+}

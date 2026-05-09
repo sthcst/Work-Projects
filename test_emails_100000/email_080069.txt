@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Carter",
+    "email": "jessica.carter7964@company.com",
+    "phone": "(977) 272-4976",
+    "ssn": "450-76-8026",
+    "dob": "19/05/1992",
+    "address": "8580 Second Way",
+    "city": "San Diego",
+    "state": "MA"
+  }
+}

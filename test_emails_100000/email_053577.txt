@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Hall,edward.hall8669@gmail.com,+1 440-833-4243,158-64-2942,06/24/2000,"8081 North Ave",Jacksonville,NJ

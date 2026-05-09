@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Thomas,michelle.thomas9413@mail.com,+1 397-886-1953,318-63-2608,25/10/1983,"2048 North Ave",Phoenix,WA

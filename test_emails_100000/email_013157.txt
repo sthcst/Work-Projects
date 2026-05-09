@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Miller
+  email: amanda.miller8331@mail.com
+  phone: (317) 697-8343
+  ssn: 620602548
+  dob: 1/18/1956
+  address: 766 Fourth Ln
+  city: Houston
+  state: FL

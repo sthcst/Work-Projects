@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Nunez",
+    "email": "jennifer.nunez9657@outlook.com",
+    "phone": "(862) 833-2647",
+    "ssn": "846 98 9241",
+    "dob": "16/01/1967",
+    "address": "1381 South Ln",
+    "city": "Denver",
+    "state": "GA"
+  }
+}

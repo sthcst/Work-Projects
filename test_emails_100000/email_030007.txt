@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Romero",
+    "email": "edward.romero9488@business.net",
+    "phone": "717-343-7467",
+    "ssn": "244-88-3968",
+    "dob": "6/4/1967",
+    "address": "987 Birch Way",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

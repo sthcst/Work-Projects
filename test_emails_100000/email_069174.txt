@@ -1,0 +1,14 @@
+INVOICE 466605
+
+Bill To:
+Name: Amanda Johnson
+Email: amanda.johnson9194@example.com
+Phone: +1 460-931-3541
+SSN: 021 13 8873
+
+Address: 1772 First Ln
+San Jose, MA
+
+Date of Birth: 01-16-1974
+
+Amount Due: $4976

@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Morris
+  email: deborah.morris576@business.net
+  phone: +1 905-779-8502
+  ssn: 048-65-5080
+  dob: 02/09/1987
+  address: 7779 Third Blvd
+  city: Seattle
+  state: TX

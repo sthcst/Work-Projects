@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Peterson,john.peterson6729@outlook.com,827-598-9306,257 49 4694,07-24-1964,"4340 Fifth Dr",Houston,MO

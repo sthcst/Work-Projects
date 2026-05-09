@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Lee,robert.lee8082@business.net,929 302 8291,433-66-8532,12-03-1976,"5663 Sixth Way",Jacksonville,CA

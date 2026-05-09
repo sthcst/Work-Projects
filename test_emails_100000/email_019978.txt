@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Perez",
+    "email": "michael.perez5616@business.net",
+    "phone": "(403) 528-6991",
+    "ssn": "813 36 8836",
+    "dob": "26/12/1996",
+    "address": "9301 Spring Blvd",
+    "city": "Boston",
+    "state": "MO"
+  }
+}

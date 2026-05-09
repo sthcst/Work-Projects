@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Sanchez
+  email: nicholas.sanchez6019@example.com
+  phone: (592) 768-3754
+  ssn: 580918222
+  dob: 6/11/1983
+  address: 2263 Oak St
+  city: Los Angeles
+  state: PA

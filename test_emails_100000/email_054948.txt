@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Dominguez",
+    "email": "richard.dominguez2316@outlook.com",
+    "phone": "(454) 794-3235",
+    "ssn": "042-86-5059",
+    "dob": "06/17/1965",
+    "address": "1100 Main Ln",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

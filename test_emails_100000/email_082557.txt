@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Guerrero,stephanie.guerrero5628@example.com,(601) 792-9587,303447313,5/23/1996,"5762 Maple Ln",Boston,VA

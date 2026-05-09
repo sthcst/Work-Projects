@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Delgado,stephanie.delgado3650@business.net,+1 590-748-2950,525-52-9018,10/05/1972,"7106 North Rd",Los Angeles,MI

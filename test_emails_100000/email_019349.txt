@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Cooper",
+    "email": "sarah.cooper3485@work.org",
+    "phone": "215-662-1240",
+    "ssn": "761 70 6065",
+    "dob": "08/11/1976",
+    "address": "8524 Oak St",
+    "city": "Austin",
+    "state": "OH"
+  }
+}

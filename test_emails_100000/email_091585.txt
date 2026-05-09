@@ -1,0 +1,9 @@
+contact:
+  name: Angela Brown
+  email: angela.brown6206@mail.com
+  phone: (629) 585-8079
+  ssn: 453 77 6217
+  dob: 9/28/1985
+  address: 8938 Pine Court
+  city: Dallas
+  state: IL

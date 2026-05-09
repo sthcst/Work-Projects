@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Brown",
+    "email": "anthony.brown2725@outlook.com",
+    "phone": "466 595 8555",
+    "ssn": "970 31 6825",
+    "dob": "6/6/1991",
+    "address": "4187 Cedar Court",
+    "city": "Houston",
+    "state": "NY"
+  }
+}

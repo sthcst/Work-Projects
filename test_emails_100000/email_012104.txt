@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Romero",
+    "email": "brenda.romero6419@outlook.com",
+    "phone": "597 747 3987",
+    "ssn": "111723959",
+    "dob": "05/02/1985",
+    "address": "1910 North Rd",
+    "city": "Jacksonville",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Flores
+  email: joshua.flores2632@business.net
+  phone: 236 721 1295
+  ssn: 386247279
+  dob: 04-28-1962
+  address: 8434 Oak Ln
+  city: Denver
+  state: PA

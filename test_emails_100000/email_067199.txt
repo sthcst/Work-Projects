@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Flores,rachel.flores2830@gmail.com,+1 463-201-8735,551-62-7021,07-04-1998,"6662 West Ln",San Jose,TN

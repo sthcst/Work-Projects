@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Campbell,kimberly.campbell2988@gmail.com,463-637-7823,489-76-9884,02/08/1951,"7333 Sixth Dr",Seattle,CO

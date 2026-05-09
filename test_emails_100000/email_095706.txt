@@ -1,0 +1,9 @@
+contact:
+  name: Brian Perez
+  email: brian.perez2090@work.org
+  phone: 288-880-3693
+  ssn: 250 15 4268
+  dob: 9/4/1950
+  address: 5963 Pine St
+  city: San Antonio
+  state: CA

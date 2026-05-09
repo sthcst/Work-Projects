@@ -1,0 +1,14 @@
+INVOICE 400002
+
+Bill To:
+Name: Rebecca Clark
+Email: rebecca.clark1302@example.com
+Phone: 598-507-9888
+SSN: 626-40-1612
+
+Address: 5146 Second Ln
+Houston, WA
+
+Date of Birth: 12/27/1999
+
+Amount Due: $393

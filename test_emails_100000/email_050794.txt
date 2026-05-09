@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Brown,angela.brown216@company.com,895 244 7262,278849386,18/02/2000,"7607 Park St",Austin,NY

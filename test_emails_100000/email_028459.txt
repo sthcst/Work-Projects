@@ -1,0 +1,14 @@
+INVOICE 430371
+
+Bill To:
+Name: Nicholas Collins
+Email: nicholas.collins5104@company.com
+Phone: +1 298-271-1352
+SSN: 049-60-6956
+
+Address: 8859 Pine Way
+Philadelphia, DC
+
+Date of Birth: 24/07/1965
+
+Amount Due: $9432

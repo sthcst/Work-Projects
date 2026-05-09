@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Cooper,joseph.cooper1819@mail.com,334-495-5251,681-88-1966,11/22/1961,"2909 Park Rd",Boston,MA

@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Anderson
+  email: kimberly.anderson9355@yahoo.com
+  phone: 712 252 8972
+  ssn: 748 10 9481
+  dob: 1/15/1993
+  address: 5239 First St
+  city: Phoenix
+  state: MD

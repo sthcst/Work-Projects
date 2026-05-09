@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Delgado,emma.delgado8494@work.org,431-765-6488,101 03 7192,9/19/1984,"9030 Birch Blvd",Los Angeles,WA

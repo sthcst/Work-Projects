@@ -1,0 +1,9 @@
+contact:
+  name: Gary Jackson
+  email: gary.jackson1267@business.net
+  phone: +1 948-377-3839
+  ssn: 094-93-9379
+  dob: 14/08/1984
+  address: 4044 Cedar St
+  city: Denver
+  state: WA

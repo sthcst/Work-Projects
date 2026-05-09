@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Garcia,rebecca.garcia4896@example.com,825 383 3764,560-11-9828,12-06-1972,"4363 Pine Court",Washington,MA

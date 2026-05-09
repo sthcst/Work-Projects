@@ -1,0 +1,14 @@
+INVOICE 888910
+
+Bill To:
+Name: Christine Ramirez
+Email: christine.ramirez9891@company.com
+Phone: 836 628 6523
+SSN: 556059888
+
+Address: 9608 Cedar Court
+Houston, OH
+
+Date of Birth: 05/17/1999
+
+Amount Due: $4155

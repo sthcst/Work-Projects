@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Ortiz",
+    "email": "kevin.ortiz1504@business.net",
+    "phone": "(722) 736-9078",
+    "ssn": "457-65-1167",
+    "dob": "11-28-1996",
+    "address": "3208 Pine Rd",
+    "city": "Los Angeles",
+    "state": "GA"
+  }
+}

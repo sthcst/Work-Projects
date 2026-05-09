@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Gomez
+  email: daniel.gomez4312@example.com
+  phone: (215) 697-1066
+  ssn: 809355952
+  dob: 9/25/1968
+  address: 8411 Third Dr
+  city: Boston
+  state: CO

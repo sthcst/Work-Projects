@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Peterson,sarah.peterson9413@outlook.com,+1 762-429-4305,375-77-1635,03-28-1993,"9446 Summer Blvd",Chicago,NJ

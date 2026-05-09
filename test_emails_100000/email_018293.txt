@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Guerrero",
+    "email": "megan.guerrero7563@yahoo.com",
+    "phone": "871 327 8729",
+    "ssn": "911894121",
+    "dob": "05-27-1996",
+    "address": "8428 Spring St",
+    "city": "San Jose",
+    "state": "OH"
+  }
+}

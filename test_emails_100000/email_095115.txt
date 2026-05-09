@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Rodriguez,emily.rodriguez6568@company.com,905-684-9001,752964049,11/25/1993,"9560 Cedar Dr",Los Angeles,AZ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Cooper,gary.cooper3688@yahoo.com,646 617 2053,748 59 9587,10/10/1982,"8517 Third Dr",Seattle,NY

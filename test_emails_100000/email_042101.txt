@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Young",
+    "email": "brenda.young6780@mail.com",
+    "phone": "826-518-1673",
+    "ssn": "139-19-3043",
+    "dob": "12/24/1999",
+    "address": "2925 Elm Dr",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}

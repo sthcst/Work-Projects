@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Guerrero
+  email: cynthia.guerrero2550@yahoo.com
+  phone: (395) 657-4719
+  ssn: 587-91-5050
+  dob: 03-19-2001
+  address: 9832 Sixth St
+  city: Dallas
+  state: GA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Wilson",
+    "email": "sarah.wilson5795@example.com",
+    "phone": "(425) 683-4433",
+    "ssn": "018-20-3068",
+    "dob": "03/04/1988",
+    "address": "1337 Maple Ln",
+    "city": "Houston",
+    "state": "CA"
+  }
+}

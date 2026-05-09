@@ -1,0 +1,9 @@
+contact:
+  name: Paul Brown
+  email: paul.brown8989@company.com
+  phone: 777-929-9844
+  ssn: 955605393
+  dob: 17/03/1959
+  address: 3928 Oak Rd
+  city: Chicago
+  state: CO

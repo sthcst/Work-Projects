@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Ortiz
+  email: daniel.ortiz871@yahoo.com
+  phone: 662-947-1244
+  ssn: 062 55 9941
+  dob: 11/4/2000
+  address: 6400 Second Ave
+  city: Austin
+  state: WA

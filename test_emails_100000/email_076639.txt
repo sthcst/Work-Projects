@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Rogers
+  email: sarah.rogers1856@work.org
+  phone: (965) 711-7287
+  ssn: 224 81 3914
+  dob: 02/12/1992
+  address: 3826 Third St
+  city: Houston
+  state: MA

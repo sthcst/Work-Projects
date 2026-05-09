@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Delgado,brian.delgado8748@mail.com,+1 685-393-8037,923 93 2453,17/11/1983,"5544 South St",Denver,TX

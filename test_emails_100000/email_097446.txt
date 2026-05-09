@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Edwards",
+    "email": "robert.edwards6874@yahoo.com",
+    "phone": "+1 941-988-4034",
+    "ssn": "496 19 4538",
+    "dob": "8/22/1970",
+    "address": "4817 North Way",
+    "city": "Philadelphia",
+    "state": "WI"
+  }
+}

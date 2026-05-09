@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Romero
+  email: daniel.romero5582@work.org
+  phone: +1 208-951-9282
+  ssn: 080428214
+  dob: 07-20-1989
+  address: 9489 Fifth Rd
+  city: Dallas
+  state: IL

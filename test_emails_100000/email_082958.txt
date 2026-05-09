@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Williams,katherine.williams4156@outlook.com,(448) 850-4553,876-97-4689,15/10/1973,"208 Oak Dr",Houston,TX

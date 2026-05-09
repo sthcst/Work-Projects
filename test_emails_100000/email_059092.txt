@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Collins",
+    "email": "emily.collins3371@example.com",
+    "phone": "474-516-5884",
+    "ssn": "848355854",
+    "dob": "06/19/1992",
+    "address": "4907 Spring Court",
+    "city": "San Antonio",
+    "state": "CA"
+  }
+}

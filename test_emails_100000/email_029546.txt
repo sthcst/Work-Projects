@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Martinez,jane.martinez4806@outlook.com,+1 882-802-8609,692-77-3384,25/07/1967,"8651 North Court",Phoenix,NC

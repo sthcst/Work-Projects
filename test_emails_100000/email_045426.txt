@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Ortiz,lauren.ortiz8164@example.com,357 346 8883,614422008,06-21-1964,"4970 Cedar Blvd",Philadelphia,TX

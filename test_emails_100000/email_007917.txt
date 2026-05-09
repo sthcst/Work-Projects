@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Martin",
+    "email": "christopher.martin2479@yahoo.com",
+    "phone": "544-960-9264",
+    "ssn": "673-92-9049",
+    "dob": "3/8/1990",
+    "address": "221 West Court",
+    "city": "Jacksonville",
+    "state": "WI"
+  }
+}

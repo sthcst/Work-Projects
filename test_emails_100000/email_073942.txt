@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Guerrero
+  email: lisa.guerrero9623@mail.com
+  phone: (209) 408-4681
+  ssn: 814 12 9584
+  dob: 06/27/2001
+  address: 9826 Third Blvd
+  city: Philadelphia
+  state: TX

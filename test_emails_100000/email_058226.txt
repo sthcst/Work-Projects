@@ -1,0 +1,14 @@
+INVOICE 394629
+
+Bill To:
+Name: Amanda Davis
+Email: amanda.davis2101@example.com
+Phone: 795 961 3753
+SSN: 290-06-3247
+
+Address: 5621 Fourth Court
+Los Angeles, DC
+
+Date of Birth: 09-08-1988
+
+Amount Due: $6356

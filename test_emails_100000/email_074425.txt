@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Ramirez
+  email: amanda.ramirez5904@work.org
+  phone: (236) 536-7539
+  ssn: 067302971
+  dob: 07-23-1959
+  address: 535 Maple Blvd
+  city: Los Angeles
+  state: OH

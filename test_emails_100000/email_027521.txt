@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Morgan,donald.morgan612@business.net,(512) 292-9990,921954500,05-10-1960,"7637 East Ave",Seattle,FL

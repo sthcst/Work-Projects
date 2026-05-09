@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Morris,edward.morris8265@gmail.com,745 582 5995,706 55 6408,12-26-2001,"9708 Fourth Rd",San Antonio,PA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Evans",
+    "email": "ryan.evans4703@mail.com",
+    "phone": "340 226 5799",
+    "ssn": "366-80-5570",
+    "dob": "14/05/1996",
+    "address": "2017 North Ln",
+    "city": "Boston",
+    "state": "DC"
+  }
+}

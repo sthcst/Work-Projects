@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Morgan
+  email: ryan.morgan1042@company.com
+  phone: +1 675-872-2252
+  ssn: 132-28-9798
+  dob: 19/09/1964
+  address: 2643 Oak Dr
+  city: Washington
+  state: CA

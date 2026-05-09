@@ -1,0 +1,14 @@
+INVOICE 465510
+
+Bill To:
+Name: Lisa Morgan
+Email: lisa.morgan307@example.com
+Phone: +1 880-649-1250
+SSN: 509452453
+
+Address: 1139 Maple Ln
+Denver, IL
+
+Date of Birth: 01/07/1998
+
+Amount Due: $6919

@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Delgado
+  email: cynthia.delgado5449@company.com
+  phone: +1 620-615-1129
+  ssn: 167 72 6024
+  dob: 02-23-1968
+  address: 5202 Spring Blvd
+  city: Chicago
+  state: MO

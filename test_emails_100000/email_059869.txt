@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Rodriguez
+  email: rachel.rodriguez29@gmail.com
+  phone: 367 887 2252
+  ssn: 589586646
+  dob: 7/24/1990
+  address: 2687 Main Ln
+  city: Boston
+  state: WI

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Garcia",
+    "email": "megan.garcia5465@gmail.com",
+    "phone": "+1 433-822-2611",
+    "ssn": "588-06-6236",
+    "dob": "05/04/1959",
+    "address": "2247 Fourth Rd",
+    "city": "Seattle",
+    "state": "TN"
+  }
+}

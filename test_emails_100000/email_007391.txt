@@ -1,0 +1,9 @@
+contact:
+  name: Michael Morgan
+  email: michael.morgan8691@mail.com
+  phone: 288 425 6109
+  ssn: 198954855
+  dob: 04/24/2000
+  address: 3769 Spring Ave
+  city: Seattle
+  state: WA

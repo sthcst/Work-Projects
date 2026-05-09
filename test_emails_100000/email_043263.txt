@@ -1,0 +1,14 @@
+INVOICE 340324
+
+Bill To:
+Name: Joshua Martinez
+Email: joshua.martinez8253@example.com
+Phone: 758 646 1931
+SSN: 367 99 8384
+
+Address: 4324 Maple Dr
+Chicago, FL
+
+Date of Birth: 05/11/1987
+
+Amount Due: $8327

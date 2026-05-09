@@ -1,0 +1,9 @@
+contact:
+  name: James Collins
+  email: james.collins5917@work.org
+  phone: 754-446-6413
+  ssn: 387-85-1322
+  dob: 03/20/1971
+  address: 5163 Cedar Ave
+  city: Jacksonville
+  state: MA

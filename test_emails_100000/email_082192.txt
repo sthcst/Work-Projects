@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Nelson
+  email: rachel.nelson6489@yahoo.com
+  phone: +1 529-497-7819
+  ssn: 677-92-3453
+  dob: 2/14/1994
+  address: 7431 Spring Court
+  city: Phoenix
+  state: TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Morris",
+    "email": "james.morris9377@mail.com",
+    "phone": "862 452 8647",
+    "ssn": "929316587",
+    "dob": "02/05/1987",
+    "address": "2093 Park Court",
+    "city": "Jacksonville",
+    "state": "FL"
+  }
+}

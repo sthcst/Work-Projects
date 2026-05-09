@@ -1,0 +1,14 @@
+INVOICE 598452
+
+Bill To:
+Name: Richard Walker
+Email: richard.walker5426@business.net
+Phone: 727-355-9397
+SSN: 574-29-6000
+
+Address: 2921 Park Ln
+Philadelphia, PA
+
+Date of Birth: 20/07/1973
+
+Amount Due: $6726

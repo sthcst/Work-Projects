@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Gomez
+  email: anthony.gomez4500@work.org
+  phone: +1 872-874-2446
+  ssn: 344-70-1930
+  dob: 4/22/1962
+  address: 541 South Rd
+  city: Dallas
+  state: IL

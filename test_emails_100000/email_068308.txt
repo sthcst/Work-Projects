@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Guerrero
+  email: rachel.guerrero9145@mail.com
+  phone: 300 611 9180
+  ssn: 072298132
+  dob: 01-07-1998
+  address: 1096 Second Ave
+  city: Philadelphia
+  state: CA

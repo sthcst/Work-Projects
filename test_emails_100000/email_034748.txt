@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Murillo,william.murillo519@yahoo.com,799 623 1411,516-71-4064,9/8/1968,"9527 East Rd",Chicago,NJ

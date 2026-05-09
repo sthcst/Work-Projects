@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Martinez,john.martinez9460@company.com,329-825-9730,477-06-2738,08/27/1985,"4724 Sixth Court",Jacksonville,WA

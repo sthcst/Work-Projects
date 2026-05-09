@@ -1,0 +1,14 @@
+INVOICE 272536
+
+Bill To:
+Name: Sarah Martinez
+Email: sarah.martinez2461@company.com
+Phone: +1 876-651-3700
+SSN: 089 08 4757
+
+Address: 907 Third Way
+San Antonio, DC
+
+Date of Birth: 16/12/1959
+
+Amount Due: $3497

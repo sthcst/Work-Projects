@@ -1,0 +1,14 @@
+INVOICE 444967
+
+Bill To:
+Name: Brenda Dominguez
+Email: brenda.dominguez3837@company.com
+Phone: 988 631 3063
+SSN: 591 24 3217
+
+Address: 841 East Court
+Chicago, TX
+
+Date of Birth: 03-21-1980
+
+Amount Due: $3041

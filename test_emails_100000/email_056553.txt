@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Rogers",
+    "email": "christine.rogers4907@example.com",
+    "phone": "717 574 2832",
+    "ssn": "582748688",
+    "dob": "22/07/1972",
+    "address": "9182 Spring St",
+    "city": "Jacksonville",
+    "state": "MI"
+  }
+}

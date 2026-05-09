@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Jackson
+  email: nicole.jackson3494@example.com
+  phone: 400-338-1617
+  ssn: 185 44 4443
+  dob: 07/04/2004
+  address: 3444 Oak Rd
+  city: Houston
+  state: FL

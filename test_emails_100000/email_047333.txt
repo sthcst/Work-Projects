@@ -1,0 +1,14 @@
+INVOICE 503518
+
+Bill To:
+Name: Angela Collins
+Email: angela.collins1971@example.com
+Phone: 796-703-3470
+SSN: 358-14-9365
+
+Address: 1553 Main Ave
+Washington, FL
+
+Date of Birth: 22/10/1983
+
+Amount Due: $3631

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Taylor",
+    "email": "cynthia.taylor216@gmail.com",
+    "phone": "686-628-7895",
+    "ssn": "586261461",
+    "dob": "08-02-1994",
+    "address": "2104 Fifth Ln",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

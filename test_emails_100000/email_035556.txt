@@ -1,0 +1,9 @@
+contact:
+  name: William Rodriguez
+  email: william.rodriguez3621@mail.com
+  phone: +1 488-347-2690
+  ssn: 593-05-6720
+  dob: 06-10-1981
+  address: 8838 Maple Dr
+  city: San Antonio
+  state: FL

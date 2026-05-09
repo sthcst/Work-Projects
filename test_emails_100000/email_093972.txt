@@ -1,0 +1,14 @@
+INVOICE 126963
+
+Bill To:
+Name: Rachel Peterson
+Email: rachel.peterson923@company.com
+Phone: 754-307-9593
+SSN: 017508657
+
+Address: 1421 South Way
+San Jose, NY
+
+Date of Birth: 08/09/1952
+
+Amount Due: $395

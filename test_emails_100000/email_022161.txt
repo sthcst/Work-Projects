@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Edwards
+  email: deborah.edwards9433@business.net
+  phone: +1 603-996-6135
+  ssn: 020-56-6085
+  dob: 02/26/1976
+  address: 1206 Park Rd
+  city: Washington
+  state: CA

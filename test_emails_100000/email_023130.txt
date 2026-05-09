@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Lopez
+  email: pamela.lopez6416@gmail.com
+  phone: 667-514-5455
+  ssn: 715-76-6956
+  dob: 01/01/1953
+  address: 8031 Elm Ln
+  city: Philadelphia
+  state: NJ

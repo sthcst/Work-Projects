@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Clark
+  email: jessica.clark3509@mail.com
+  phone: +1 961-900-1770
+  ssn: 187-62-5889
+  dob: 06-25-1992
+  address: 4483 Park Court
+  city: Dallas
+  state: CA

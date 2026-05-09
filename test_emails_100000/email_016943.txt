@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Evans",
+    "email": "anna.evans3168@mail.com",
+    "phone": "+1 718-259-8091",
+    "ssn": "743 56 4599",
+    "dob": "16/01/1963",
+    "address": "3747 Fourth Dr",
+    "city": "San Jose",
+    "state": "CA"
+  }
+}

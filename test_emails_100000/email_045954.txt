@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Lewis",
+    "email": "donald.lewis3057@outlook.com",
+    "phone": "418-588-3739",
+    "ssn": "282128770",
+    "dob": "04/03/2005",
+    "address": "7154 Elm Way",
+    "city": "Seattle",
+    "state": "MD"
+  }
+}

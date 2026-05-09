@@ -1,0 +1,14 @@
+INVOICE 324475
+
+Bill To:
+Name: Anthony Williams
+Email: anthony.williams2781@example.com
+Phone: 339-992-7578
+SSN: 803 58 6895
+
+Address: 7437 Spring Way
+Seattle, CA
+
+Date of Birth: 03/25/2005
+
+Amount Due: $3890

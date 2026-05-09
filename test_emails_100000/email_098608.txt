@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Sanchez,charles.sanchez9744@yahoo.com,(892) 879-2102,520-21-9204,12/17/1991,"4686 Cedar Dr",Seattle,FL

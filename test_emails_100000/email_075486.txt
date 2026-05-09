@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Edwards
+  email: rachel.edwards6256@example.com
+  phone: 281 552 5013
+  ssn: 568 05 1549
+  dob: 24/11/1986
+  address: 6611 Second Rd
+  city: Phoenix
+  state: CO

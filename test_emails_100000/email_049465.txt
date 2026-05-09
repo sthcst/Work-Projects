@@ -1,0 +1,14 @@
+INVOICE 699695
+
+Bill To:
+Name: Emily Perez
+Email: emily.perez2879@business.net
+Phone: 458 305 4561
+SSN: 804 40 8249
+
+Address: 2696 Elm Ln
+Washington, MI
+
+Date of Birth: 06-10-1965
+
+Amount Due: $4453

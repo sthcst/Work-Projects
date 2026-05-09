@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Robinson,ashley.robinson3403@company.com,323 729 4666,832 29 6435,11/11/2005,"3709 Pine Way",Los Angeles,WA

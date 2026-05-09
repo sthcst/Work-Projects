@@ -1,0 +1,9 @@
+contact:
+  name: Angela Phillips
+  email: angela.phillips9376@work.org
+  phone: 672 284 3777
+  ssn: 673-27-5464
+  dob: 05/03/1993
+  address: 2680 Fifth Dr
+  city: Philadelphia
+  state: IL

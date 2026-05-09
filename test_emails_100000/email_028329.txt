@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Sanchez,jennifer.sanchez8620@gmail.com,329 625 3787,024-19-8727,11/27/1983,"2160 Maple Ave",Boston,MA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Harris",
+    "email": "stephanie.harris5928@yahoo.com",
+    "phone": "824-661-2323",
+    "ssn": "779553070",
+    "dob": "04-11-1971",
+    "address": "4548 North Ln",
+    "city": "Philadelphia",
+    "state": "MA"
+  }
+}

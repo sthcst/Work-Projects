@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Cooper",
+    "email": "amanda.cooper1956@yahoo.com",
+    "phone": "+1 780-739-8976",
+    "ssn": "471-84-8303",
+    "dob": "01-04-1988",
+    "address": "5175 Sixth Court",
+    "city": "San Diego",
+    "state": "OH"
+  }
+}

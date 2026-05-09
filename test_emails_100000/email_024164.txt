@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Jones,sarah.jones7304@mail.com,(362) 337-7026,870816034,1/17/1967,"6616 Oak Ln",San Antonio,TX

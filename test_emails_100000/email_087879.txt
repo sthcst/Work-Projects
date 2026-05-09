@@ -1,0 +1,14 @@
+INVOICE 398509
+
+Bill To:
+Name: Joshua White
+Email: joshua.white1370@yahoo.com
+Phone: +1 273-448-5657
+SSN: 249508629
+
+Address: 9842 First Ln
+Boston, MD
+
+Date of Birth: 01-05-1970
+
+Amount Due: $8800

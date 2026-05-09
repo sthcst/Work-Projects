@@ -1,0 +1,9 @@
+contact:
+  name: Emily Serrano
+  email: emily.serrano4841@mail.com
+  phone: 646 813 4044
+  ssn: 410-21-8926
+  dob: 03/05/1970
+  address: 2447 Fifth Ave
+  city: Denver
+  state: NY

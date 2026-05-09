@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Wilson,sarah.wilson1619@gmail.com,(317) 673-3442,132547223,6/20/1986,"478 Pine Rd",Boston,MD

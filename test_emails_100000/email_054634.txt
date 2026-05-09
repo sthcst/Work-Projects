@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Harris",
+    "email": "michelle.harris6802@work.org",
+    "phone": "524 757 5502",
+    "ssn": "784-44-8975",
+    "dob": "12-03-1991",
+    "address": "7307 Summer Ave",
+    "city": "Washington",
+    "state": "IL"
+  }
+}

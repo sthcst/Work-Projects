@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Robinson,lauren.robinson2204@work.org,+1 499-583-7350,142 10 2277,01/13/1953,"7653 Oak St",San Jose,AZ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Davis,jennifer.davis1106@business.net,494-425-9976,810717812,06-16-1995,"6430 Second Way",Los Angeles,GA

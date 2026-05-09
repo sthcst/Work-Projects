@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Garcia,kathleen.garcia2444@mail.com,(290) 349-6705,908-39-9987,21/02/1986,"7234 Second Rd",Austin,MA

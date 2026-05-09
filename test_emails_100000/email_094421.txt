@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Walker,jennifer.walker6248@work.org,559-212-1318,812 30 2546,10/08/1972,"4055 Sixth Rd",Dallas,PA

@@ -1,0 +1,12 @@
+SUPPORT TICKET #21714
+
+Customer: Michael Cooper
+Email: michael.cooper426@example.com
+Phone: 776-227-1294
+Account: 048 18 2656
+
+Issue Description: Technical problem reported
+DOB on file: 08/02/1956
+Address: 2544 South Rd, Denver, MO
+
+Status: OPEN

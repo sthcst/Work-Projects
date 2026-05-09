@@ -1,0 +1,14 @@
+INVOICE 981203
+
+Bill To:
+Name: Joseph Campbell
+Email: joseph.campbell8930@work.org
+Phone: +1 200-279-9495
+SSN: 598-07-6333
+
+Address: 7612 Oak Ave
+Denver, DC
+
+Date of Birth: 11/20/1952
+
+Amount Due: $7250

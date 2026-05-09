@@ -1,0 +1,14 @@
+INVOICE 323535
+
+Bill To:
+Name: Charles Young
+Email: charles.young1018@work.org
+Phone: 873-628-6493
+SSN: 629-33-9494
+
+Address: 585 Maple Rd
+Seattle, MI
+
+Date of Birth: 08/06/1956
+
+Amount Due: $7308

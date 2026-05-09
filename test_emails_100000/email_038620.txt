@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Cooper",
+    "email": "helen.cooper7223@gmail.com",
+    "phone": "+1 204-804-6541",
+    "ssn": "930 65 3994",
+    "dob": "15/12/1969",
+    "address": "9936 Fifth Way",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

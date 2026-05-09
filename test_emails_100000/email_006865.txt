@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Roberts",
+    "email": "donald.roberts9430@company.com",
+    "phone": "249-918-7921",
+    "ssn": "451348497",
+    "dob": "07/17/1986",
+    "address": "3923 Maple Way",
+    "city": "Philadelphia",
+    "state": "WA"
+  }
+}

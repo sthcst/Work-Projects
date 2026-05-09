@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Peterson",
+    "email": "jason.peterson9222@business.net",
+    "phone": "(513) 497-5750",
+    "ssn": "750535572",
+    "dob": "8/5/1998",
+    "address": "1558 Maple Way",
+    "city": "Austin",
+    "state": "MA"
+  }
+}

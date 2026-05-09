@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen White",
+    "email": "helen.white9922@yahoo.com",
+    "phone": "+1 482-266-6273",
+    "ssn": "415216336",
+    "dob": "5/9/1963",
+    "address": "769 West Dr",
+    "city": "Chicago",
+    "state": "VA"
+  }
+}

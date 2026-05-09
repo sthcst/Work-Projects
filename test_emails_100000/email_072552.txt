@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Lopez,joseph.lopez8846@yahoo.com,(942) 843-5822,767-13-5334,02/11/2000,"5564 Spring Blvd",Chicago,MO

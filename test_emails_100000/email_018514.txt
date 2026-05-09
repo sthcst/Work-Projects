@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Gonzalez,ronald.gonzalez2178@company.com,399 704 4082,535-36-1891,09/17/1955,"4185 Third Rd",Dallas,TX

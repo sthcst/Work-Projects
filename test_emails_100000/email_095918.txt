@@ -1,0 +1,14 @@
+INVOICE 312433
+
+Bill To:
+Name: Donald Dominguez
+Email: donald.dominguez619@mail.com
+Phone: +1 700-724-7487
+SSN: 825 86 4450
+
+Address: 6580 Maple Ln
+Denver, OH
+
+Date of Birth: 06/04/1973
+
+Amount Due: $1152

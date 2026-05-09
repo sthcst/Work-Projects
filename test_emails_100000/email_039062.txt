@@ -1,0 +1,9 @@
+contact:
+  name: Emily Cooper
+  email: emily.cooper3884@company.com
+  phone: (926) 696-8569
+  ssn: 796-50-1613
+  dob: 10/7/1986
+  address: 1258 Main Ave
+  city: San Diego
+  state: AZ

@@ -1,0 +1,9 @@
+contact:
+  name: Charles Murillo
+  email: charles.murillo6012@yahoo.com
+  phone: +1 595-441-5980
+  ssn: 496-04-3475
+  dob: 26/02/2002
+  address: 3613 Oak St
+  city: Dallas
+  state: TX

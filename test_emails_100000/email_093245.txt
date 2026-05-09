@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Campbell
+  email: deborah.campbell1711@gmail.com
+  phone: 657-896-9838
+  ssn: 400 79 2419
+  dob: 22/02/1959
+  address: 9955 South Court
+  city: Denver
+  state: TX

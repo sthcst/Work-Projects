@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Wilson",
+    "email": "richard.wilson6531@work.org",
+    "phone": "+1 605-815-8328",
+    "ssn": "454 77 5988",
+    "dob": "10-11-1995",
+    "address": "968 Sixth Way",
+    "city": "Austin",
+    "state": "IL"
+  }
+}

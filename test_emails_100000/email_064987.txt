@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Moore,christine.moore3242@yahoo.com,+1 368-981-9745,201 09 1800,4/4/1974,"5875 Fourth Court",Chicago,IL

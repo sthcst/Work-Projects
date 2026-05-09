@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Guerrero,robert.guerrero3108@yahoo.com,258-401-8910,488-20-7576,3/11/1993,"3276 Maple St",Los Angeles,CA

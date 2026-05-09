@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Nelson,brian.nelson4756@business.net,774-345-2663,271511290,02/02/1951,"9812 Summer Court",Washington,VA

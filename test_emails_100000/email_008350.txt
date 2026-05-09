@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Rogers",
+    "email": "katherine.rogers2013@business.net",
+    "phone": "307 830 9970",
+    "ssn": "204274217",
+    "dob": "9/25/1956",
+    "address": "7782 Pine Ln",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

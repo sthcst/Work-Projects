@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Lee,lauren.lee5089@work.org,(623) 858-8686,748541282,08/27/1958,"6529 First Rd",Chicago,CA

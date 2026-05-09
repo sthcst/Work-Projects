@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Evans",
+    "email": "jessica.evans8039@example.com",
+    "phone": "941-231-7518",
+    "ssn": "399223319",
+    "dob": "04-17-1955",
+    "address": "1175 Park Court",
+    "city": "Philadelphia",
+    "state": "WA"
+  }
+}

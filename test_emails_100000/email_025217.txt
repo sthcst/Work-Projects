@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Nelson",
+    "email": "michelle.nelson3763@yahoo.com",
+    "phone": "204 233 9899",
+    "ssn": "195984146",
+    "dob": "07-04-1994",
+    "address": "2424 West Dr",
+    "city": "New York",
+    "state": "FL"
+  }
+}

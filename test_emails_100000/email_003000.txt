@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Rodriguez,samantha.rodriguez1764@gmail.com,+1 503-720-1868,913-98-3372,12/03/1993,"9236 Sixth St",Los Angeles,AZ

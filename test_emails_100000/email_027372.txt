@@ -1,0 +1,9 @@
+contact:
+  name: Helen Sanchez
+  email: helen.sanchez1256@work.org
+  phone: 984 529 6796
+  ssn: 578453263
+  dob: 08/18/1951
+  address: 5301 Third Rd
+  city: San Diego
+  state: GA

@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Evans
+  email: nicole.evans8635@company.com
+  phone: 226-534-8979
+  ssn: 805-54-1596
+  dob: 16/12/1994
+  address: 9367 Park Dr
+  city: Chicago
+  state: WA

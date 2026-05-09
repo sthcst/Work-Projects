@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Williams,michael.williams5761@outlook.com,(807) 308-8841,145-10-5337,11-02-2002,"2879 Main Dr",Philadelphia,MI

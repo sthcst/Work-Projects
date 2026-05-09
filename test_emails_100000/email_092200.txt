@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Carter",
+    "email": "charles.carter9705@company.com",
+    "phone": "+1 512-398-9999",
+    "ssn": "937-63-6098",
+    "dob": "9/19/1989",
+    "address": "60 Third Rd",
+    "city": "Denver",
+    "state": "VA"
+  }
+}

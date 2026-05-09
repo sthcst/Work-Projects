@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Miller,anna.miller498@mail.com,+1 832-818-7194,281 66 2399,08/09/1983,"5847 Fifth Court",Chicago,WA

@@ -1,0 +1,12 @@
+SUPPORT TICKET #14185
+
+Customer: Kenneth Walker
+Email: kenneth.walker585@example.com
+Phone: 420-992-2463
+Account: 322-68-3233
+
+Issue Description: Technical problem reported
+DOB on file: 6/26/1988
+Address: 9134 Main Rd, Boston, MA
+
+Status: OPEN

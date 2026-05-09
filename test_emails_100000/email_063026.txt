@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Taylor",
+    "email": "angela.taylor4835@work.org",
+    "phone": "806 542 7308",
+    "ssn": "132-19-9511",
+    "dob": "23/04/1987",
+    "address": "2097 Main Dr",
+    "city": "Dallas",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Flores",
+    "email": "joshua.flores1812@work.org",
+    "phone": "812-220-1921",
+    "ssn": "086 27 2683",
+    "dob": "10/25/1980",
+    "address": "1027 Third Ln",
+    "city": "New York",
+    "state": "MO"
+  }
+}

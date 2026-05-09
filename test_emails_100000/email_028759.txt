@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Ortiz,mark.ortiz7336@company.com,(518) 404-9029,444-35-5241,12/28/2001,"2042 Spring Ave",Seattle,CA

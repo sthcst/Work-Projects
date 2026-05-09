@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Edwards",
+    "email": "steven.edwards6627@mail.com",
+    "phone": "(669) 300-4672",
+    "ssn": "141663171",
+    "dob": "07/07/1988",
+    "address": "8874 North Blvd",
+    "city": "Philadelphia",
+    "state": "WA"
+  }
+}

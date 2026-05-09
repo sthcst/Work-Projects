@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Serrano",
+    "email": "cynthia.serrano2296@outlook.com",
+    "phone": "571 533 9355",
+    "ssn": "939 96 2593",
+    "dob": "1/17/1996",
+    "address": "3871 South Ave",
+    "city": "San Jose",
+    "state": "MO"
+  }
+}

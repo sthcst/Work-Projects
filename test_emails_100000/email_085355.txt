@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Murillo",
+    "email": "michael.murillo1362@gmail.com",
+    "phone": "589-608-2329",
+    "ssn": "663 67 3803",
+    "dob": "01/09/1959",
+    "address": "421 Oak St",
+    "city": "Austin",
+    "state": "FL"
+  }
+}

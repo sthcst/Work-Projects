@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Williams",
+    "email": "mark.williams3823@example.com",
+    "phone": "(465) 526-6667",
+    "ssn": "091 93 5611",
+    "dob": "02-07-1969",
+    "address": "2166 West Way",
+    "city": "Los Angeles",
+    "state": "CO"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily White,emily.white5973@example.com,637-980-1729,586939088,4/11/1993,"6097 Maple Ln",Dallas,MD

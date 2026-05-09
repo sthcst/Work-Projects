@@ -1,0 +1,14 @@
+INVOICE 477398
+
+Bill To:
+Name: Pamela Jackson
+Email: pamela.jackson4456@example.com
+Phone: 388-885-3541
+SSN: 342229432
+
+Address: 7192 Fifth Court
+Houston, FL
+
+Date of Birth: 4/7/1968
+
+Amount Due: $9694

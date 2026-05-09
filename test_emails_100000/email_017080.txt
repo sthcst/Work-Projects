@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Nelson,angela.nelson7172@example.com,(263) 729-1186,330 12 7082,08/06/1989,"4594 North Dr",Phoenix,TX

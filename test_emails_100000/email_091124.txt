@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Clark
+  email: brenda.clark9854@yahoo.com
+  phone: +1 321-608-2636
+  ssn: 448 90 9322
+  dob: 02/03/1978
+  address: 4610 East Ave
+  city: Austin
+  state: VA

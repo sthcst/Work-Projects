@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Rodriguez,anthony.rodriguez585@company.com,(356) 906-5507,983 83 4061,6/3/2000,"8607 Pine Rd",Houston,WA

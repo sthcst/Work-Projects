@@ -1,0 +1,14 @@
+INVOICE 793622
+
+Bill To:
+Name: Nicholas Hall
+Email: nicholas.hall9770@company.com
+Phone: +1 907-373-4009
+SSN: 458163142
+
+Address: 4468 West Dr
+Jacksonville, MD
+
+Date of Birth: 02-14-1971
+
+Amount Due: $8160

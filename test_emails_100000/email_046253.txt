@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Flores",
+    "email": "lauren.flores2207@work.org",
+    "phone": "842-892-8203",
+    "ssn": "823-90-9954",
+    "dob": "12-20-1984",
+    "address": "6819 East Way",
+    "city": "San Jose",
+    "state": "CO"
+  }
+}

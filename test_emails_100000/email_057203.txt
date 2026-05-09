@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Delgado
+  email: nicholas.delgado3934@company.com
+  phone: 643-274-9272
+  ssn: 883-38-1095
+  dob: 17/05/1955
+  address: 8642 First St
+  city: New York
+  state: OH

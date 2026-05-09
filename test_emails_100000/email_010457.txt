@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Robinson
+  email: kimberly.robinson6074@gmail.com
+  phone: 405-747-8092
+  ssn: 121 86 6677
+  dob: 07/22/1969
+  address: 350 South Rd
+  city: Phoenix
+  state: FL

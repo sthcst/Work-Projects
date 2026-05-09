@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Flores",
+    "email": "lauren.flores350@yahoo.com",
+    "phone": "(961) 786-3829",
+    "ssn": "441-23-2157",
+    "dob": "20/03/1991",
+    "address": "4471 Fourth Ave",
+    "city": "Jacksonville",
+    "state": "WI"
+  }
+}

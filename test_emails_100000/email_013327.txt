@@ -1,0 +1,9 @@
+contact:
+  name: Christine Serrano
+  email: christine.serrano2157@mail.com
+  phone: 257-398-2453
+  ssn: 227483426
+  dob: 10/12/1961
+  address: 9251 Park Court
+  city: San Jose
+  state: WA

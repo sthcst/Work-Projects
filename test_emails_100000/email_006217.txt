@@ -1,0 +1,9 @@
+contact:
+  name: Robert Morris
+  email: robert.morris3242@mail.com
+  phone: +1 296-502-1357
+  ssn: 038 73 7224
+  dob: 08-10-1964
+  address: 1708 First Ave
+  city: San Antonio
+  state: WA

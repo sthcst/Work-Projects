@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Sanchez,joshua.sanchez6097@example.com,+1 389-904-5981,689-20-2267,08-10-2004,"6052 Fifth Ln",Phoenix,TX

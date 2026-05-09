@@ -1,0 +1,14 @@
+INVOICE 471681
+
+Bill To:
+Name: Angela Romero
+Email: angela.romero8094@company.com
+Phone: +1 877-811-4876
+SSN: 154 86 9463
+
+Address: 5204 Summer Blvd
+Houston, MD
+
+Date of Birth: 9/15/1984
+
+Amount Due: $6976

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Williams",
+    "email": "rebecca.williams1387@company.com",
+    "phone": "(748) 557-8737",
+    "ssn": "306242258",
+    "dob": "8/26/1961",
+    "address": "7303 Pine St",
+    "city": "San Diego",
+    "state": "MI"
+  }
+}

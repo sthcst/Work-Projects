@@ -1,0 +1,14 @@
+INVOICE 203136
+
+Bill To:
+Name: David Morgan
+Email: david.morgan4715@example.com
+Phone: +1 485-823-4875
+SSN: 658-42-2825
+
+Address: 6035 Third Way
+Chicago, WI
+
+Date of Birth: 12/23/1983
+
+Amount Due: $6810

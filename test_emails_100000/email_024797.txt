@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Peterson
+  email: kenneth.peterson3530@work.org
+  phone: (509) 356-1814
+  ssn: 332-87-3849
+  dob: 07/07/1989
+  address: 5743 First Ln
+  city: New York
+  state: MO

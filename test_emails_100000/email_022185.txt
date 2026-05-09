@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Davis
+  email: nicole.davis8569@work.org
+  phone: 288-741-9339
+  ssn: 510 61 8234
+  dob: 01-09-1992
+  address: 9677 Spring Blvd
+  city: Chicago
+  state: WI

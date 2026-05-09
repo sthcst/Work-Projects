@@ -1,0 +1,9 @@
+contact:
+  name: Emily Jackson
+  email: emily.jackson6031@work.org
+  phone: +1 421-689-8556
+  ssn: 913418460
+  dob: 09/19/1993
+  address: 1982 Park Ln
+  city: Seattle
+  state: CO

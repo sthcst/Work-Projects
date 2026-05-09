@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Bell,jessica.bell4357@business.net,457-747-3279,066-21-2470,08/11/2000,"4716 Spring Blvd",Denver,MA

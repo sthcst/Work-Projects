@@ -1,0 +1,14 @@
+INVOICE 490837
+
+Bill To:
+Name: Matthew Edwards
+Email: matthew.edwards6353@mail.com
+Phone: 376-754-8936
+SSN: 194-68-4281
+
+Address: 6717 North St
+Philadelphia, CA
+
+Date of Birth: 08/04/1964
+
+Amount Due: $8363

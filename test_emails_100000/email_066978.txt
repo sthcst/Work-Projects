@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Campbell",
+    "email": "christopher.campbell5468@work.org",
+    "phone": "417 714 4418",
+    "ssn": "768-22-1162",
+    "dob": "12/05/1957",
+    "address": "1631 Elm St",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

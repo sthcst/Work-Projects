@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Edwards",
+    "email": "james.edwards2811@business.net",
+    "phone": "+1 565-353-3991",
+    "ssn": "797-54-7606",
+    "dob": "08-20-1965",
+    "address": "4589 East Ave",
+    "city": "Chicago",
+    "state": "GA"
+  }
+}

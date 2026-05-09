@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Rodriguez",
+    "email": "katherine.rodriguez6192@gmail.com",
+    "phone": "793-679-4246",
+    "ssn": "954-72-9294",
+    "dob": "07/17/1999",
+    "address": "3085 Maple Rd",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

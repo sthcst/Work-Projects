@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Gomez",
+    "email": "timothy.gomez6462@outlook.com",
+    "phone": "+1 814-215-1060",
+    "ssn": "505-93-6799",
+    "dob": "12/6/1987",
+    "address": "3675 Third Ave",
+    "city": "Boston",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Morris
+  email: joseph.morris7976@example.com
+  phone: (779) 232-5221
+  ssn: 660-02-3150
+  dob: 12-20-2001
+  address: 9509 Maple Ave
+  city: San Antonio
+  state: VA

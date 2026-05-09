@@ -1,0 +1,9 @@
+contact:
+  name: Charles Alvarado
+  email: charles.alvarado7868@yahoo.com
+  phone: +1 224-358-2610
+  ssn: 062 23 1537
+  dob: 3/9/1977
+  address: 2443 West Ave
+  city: Boston
+  state: CO

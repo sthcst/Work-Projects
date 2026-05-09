@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Lopez,megan.lopez7318@yahoo.com,327 308 3194,112 24 1666,09-17-1996,"1115 Fifth Ln",Boston,MI

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Taylor",
+    "email": "angela.taylor8694@gmail.com",
+    "phone": "598 519 4321",
+    "ssn": "502 13 3706",
+    "dob": "02/01/1986",
+    "address": "1175 East Dr",
+    "city": "San Antonio",
+    "state": "MO"
+  }
+}

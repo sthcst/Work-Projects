@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Reed",
+    "email": "jane.reed7581@work.org",
+    "phone": "893 966 1781",
+    "ssn": "976-02-2312",
+    "dob": "12/16/1998",
+    "address": "2470 West St",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

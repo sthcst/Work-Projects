@@ -1,0 +1,14 @@
+INVOICE 272863
+
+Bill To:
+Name: George Nunez
+Email: george.nunez8188@example.com
+Phone: 819 687 6843
+SSN: 349-17-2270
+
+Address: 6724 South Court
+Philadelphia, MO
+
+Date of Birth: 13/09/1983
+
+Amount Due: $3749

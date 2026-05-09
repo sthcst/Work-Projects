@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Miller
+  email: pamela.miller8146@work.org
+  phone: (375) 347-1924
+  ssn: 494595694
+  dob: 13/06/1977
+  address: 5249 Third Court
+  city: Washington
+  state: FL

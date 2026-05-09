@@ -1,0 +1,14 @@
+INVOICE 119513
+
+Bill To:
+Name: William Lopez
+Email: william.lopez7996@business.net
+Phone: 349-967-3218
+SSN: 358147840
+
+Address: 9546 Third Dr
+Washington, AZ
+
+Date of Birth: 08-27-1978
+
+Amount Due: $242

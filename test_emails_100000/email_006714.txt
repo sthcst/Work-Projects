@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Rodriguez",
+    "email": "brenda.rodriguez650@mail.com",
+    "phone": "(464) 396-5308",
+    "ssn": "795186737",
+    "dob": "03/04/1964",
+    "address": "2165 South Ave",
+    "city": "San Jose",
+    "state": "NY"
+  }
+}

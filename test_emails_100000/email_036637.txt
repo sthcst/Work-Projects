@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Clark,amanda.clark5402@yahoo.com,311-726-4353,814926856,8/28/1991,"5320 Park Dr",Houston,WA

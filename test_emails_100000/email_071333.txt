@@ -1,0 +1,14 @@
+INVOICE 913930
+
+Bill To:
+Name: Shirley Young
+Email: shirley.young3366@example.com
+Phone: 783 652 6912
+SSN: 367-29-9500
+
+Address: 1087 Summer Court
+Boston, CA
+
+Date of Birth: 14/04/1961
+
+Amount Due: $2123

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Ramirez",
+    "email": "richard.ramirez7658@outlook.com",
+    "phone": "726-216-7379",
+    "ssn": "359-75-6588",
+    "dob": "07-22-1968",
+    "address": "5765 Birch Ave",
+    "city": "Houston",
+    "state": "VA"
+  }
+}

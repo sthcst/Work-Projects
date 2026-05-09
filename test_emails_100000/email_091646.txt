@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Davis
+  email: timothy.davis6891@example.com
+  phone: 976-278-2944
+  ssn: 435-26-5536
+  dob: 15/09/1996
+  address: 1441 Main Rd
+  city: Philadelphia
+  state: NY

@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Guerrero
+  email: samantha.guerrero8276@outlook.com
+  phone: +1 463-312-4433
+  ssn: 507477637
+  dob: 11/28/1951
+  address: 1076 West Ave
+  city: Boston
+  state: AZ

@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Walker
+  email: shirley.walker5247@work.org
+  phone: 511-286-6963
+  ssn: 621 95 2026
+  dob: 01/12/1994
+  address: 8142 Cedar Way
+  city: Washington
+  state: NC

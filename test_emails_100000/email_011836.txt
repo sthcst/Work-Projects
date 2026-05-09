@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca White",
+    "email": "rebecca.white7747@gmail.com",
+    "phone": "632-624-2251",
+    "ssn": "371536471",
+    "dob": "03/08/1984",
+    "address": "6107 Spring Court",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Ortiz
+  email: cynthia.ortiz7886@mail.com
+  phone: 605 215 8237
+  ssn: 063809776
+  dob: 6/14/2000
+  address: 7263 Second Court
+  city: Austin
+  state: NC

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Murillo",
+    "email": "shirley.murillo8199@company.com",
+    "phone": "(707) 303-3227",
+    "ssn": "335983250",
+    "dob": "7/15/1960",
+    "address": "6647 Fourth Court",
+    "city": "Boston",
+    "state": "WI"
+  }
+}

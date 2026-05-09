@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen White
+  email: kathleen.white864@mail.com
+  phone: (614) 538-8053
+  ssn: 707-63-4696
+  dob: 02-01-1986
+  address: 2111 First Ave
+  city: Phoenix
+  state: CA

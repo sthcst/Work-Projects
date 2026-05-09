@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Garcia",
+    "email": "joshua.garcia7081@outlook.com",
+    "phone": "719-387-7277",
+    "ssn": "989-61-7852",
+    "dob": "11/08/1990",
+    "address": "2457 Sixth Ln",
+    "city": "Philadelphia",
+    "state": "NY"
+  }
+}

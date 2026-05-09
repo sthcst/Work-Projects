@@ -1,0 +1,14 @@
+INVOICE 689066
+
+Bill To:
+Name: Nicholas Martin
+Email: nicholas.martin7207@example.com
+Phone: 261-728-7459
+SSN: 876 96 1164
+
+Address: 380 Summer Rd
+Austin, NY
+
+Date of Birth: 08/27/1994
+
+Amount Due: $5692

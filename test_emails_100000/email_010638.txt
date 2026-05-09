@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Walker,george.walker2717@example.com,370-670-5142,403375903,3/27/1964,"4855 Fourth Ln",Washington,CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Morris",
+    "email": "david.morris761@yahoo.com",
+    "phone": "426-870-6688",
+    "ssn": "638837061",
+    "dob": "3/12/1961",
+    "address": "1135 Pine Court",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

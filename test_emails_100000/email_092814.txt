@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Roberts,katherine.roberts3201@business.net,(536) 523-3190,019 31 5541,04/28/1984,"3641 South Way",Chicago,TX

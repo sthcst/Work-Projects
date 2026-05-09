@@ -1,0 +1,14 @@
+INVOICE 770752
+
+Bill To:
+Name: Edward White
+Email: edward.white7855@mail.com
+Phone: 968 664 5480
+SSN: 311-20-6946
+
+Address: 7838 Birch Court
+Houston, MD
+
+Date of Birth: 05-11-1973
+
+Amount Due: $3699

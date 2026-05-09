@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Guerrero",
+    "email": "joseph.guerrero4031@outlook.com",
+    "phone": "+1 264-674-5343",
+    "ssn": "450-40-6688",
+    "dob": "08-02-1988",
+    "address": "5916 West Blvd",
+    "city": "Phoenix",
+    "state": "IL"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Anderson",
+    "email": "edward.anderson3280@company.com",
+    "phone": "780 992 9746",
+    "ssn": "120 34 2345",
+    "dob": "8/16/1987",
+    "address": "4883 Fourth Court",
+    "city": "Phoenix",
+    "state": "OH"
+  }
+}

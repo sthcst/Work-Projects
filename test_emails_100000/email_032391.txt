@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Hernandez",
+    "email": "rachel.hernandez9736@business.net",
+    "phone": "294 362 2027",
+    "ssn": "828637601",
+    "dob": "4/19/1995",
+    "address": "4584 Elm Ave",
+    "city": "Dallas",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Clark",
+    "email": "george.clark9078@yahoo.com",
+    "phone": "783-845-8041",
+    "ssn": "071-71-4646",
+    "dob": "17/03/1958",
+    "address": "508 Third Dr",
+    "city": "San Diego",
+    "state": "WI"
+  }
+}

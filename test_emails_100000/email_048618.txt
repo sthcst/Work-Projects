@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Wilson",
+    "email": "david.wilson2611@yahoo.com",
+    "phone": "+1 206-290-4727",
+    "ssn": "650-05-2050",
+    "dob": "09/11/1969",
+    "address": "6840 Fourth Blvd",
+    "city": "Austin",
+    "state": "MA"
+  }
+}

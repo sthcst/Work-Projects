@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Edwards",
+    "email": "shirley.edwards8894@mail.com",
+    "phone": "(773) 825-5671",
+    "ssn": "867 88 4124",
+    "dob": "9/4/1953",
+    "address": "351 Second Rd",
+    "city": "San Antonio",
+    "state": "AZ"
+  }
+}

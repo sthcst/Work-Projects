@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia White,cynthia.white2624@gmail.com,(465) 404-2616,980 98 1020,03/15/2005,"9388 Sixth St",Washington,CA

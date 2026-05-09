@@ -1,0 +1,14 @@
+INVOICE 411103
+
+Bill To:
+Name: Andrew Sanchez
+Email: andrew.sanchez341@gmail.com
+Phone: (269) 799-2888
+SSN: 505-67-5406
+
+Address: 8301 South Dr
+Boston, MI
+
+Date of Birth: 5/26/1980
+
+Amount Due: $2903

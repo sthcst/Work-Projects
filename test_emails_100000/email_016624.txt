@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Garcia
+  email: rebecca.garcia9501@yahoo.com
+  phone: 260-269-5777
+  ssn: 843-35-7694
+  dob: 06/25/1957
+  address: 7557 Pine Way
+  city: San Diego
+  state: OH

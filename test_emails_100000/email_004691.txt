@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Rodriguez
+  email: pamela.rodriguez1630@mail.com
+  phone: (699) 347-8973
+  ssn: 945584450
+  dob: 01/03/1959
+  address: 4223 Main Court
+  city: Denver
+  state: MO

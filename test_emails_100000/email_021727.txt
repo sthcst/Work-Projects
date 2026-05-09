@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Carter",
+    "email": "mark.carter6220@business.net",
+    "phone": "(403) 659-6684",
+    "ssn": "187051546",
+    "dob": "10/12/1971",
+    "address": "6369 Birch Ave",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Gomez",
+    "email": "matthew.gomez1456@business.net",
+    "phone": "+1 222-758-5666",
+    "ssn": "516608949",
+    "dob": "9/16/1950",
+    "address": "8941 Park Dr",
+    "city": "Boston",
+    "state": "OH"
+  }
+}

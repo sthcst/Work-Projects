@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Lopez",
+    "email": "christine.lopez8538@outlook.com",
+    "phone": "+1 558-837-2436",
+    "ssn": "627-73-5127",
+    "dob": "11/06/1955",
+    "address": "8048 First Court",
+    "city": "Washington",
+    "state": "IL"
+  }
+}

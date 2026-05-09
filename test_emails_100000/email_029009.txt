@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Hall",
+    "email": "christine.hall176@company.com",
+    "phone": "+1 586-806-8401",
+    "ssn": "292 32 5708",
+    "dob": "03/02/1952",
+    "address": "221 West Court",
+    "city": "San Antonio",
+    "state": "WA"
+  }
+}

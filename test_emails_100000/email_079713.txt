@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Phillips,andrew.phillips4968@yahoo.com,(694) 262-2522,567-64-7644,09/04/1998,"858 Park Blvd",New York,CA

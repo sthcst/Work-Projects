@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Robinson
+  email: joseph.robinson458@yahoo.com
+  phone: (262) 781-4350
+  ssn: 034-74-6413
+  dob: 06-25-1994
+  address: 3155 Maple St
+  city: San Antonio
+  state: TN

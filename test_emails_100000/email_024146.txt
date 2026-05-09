@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Ortiz,edward.ortiz1692@work.org,831-975-2446,979279377,9/19/1961,"9698 Pine Rd",Phoenix,CO

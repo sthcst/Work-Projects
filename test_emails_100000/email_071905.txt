@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Reyes",
+    "email": "jessica.reyes9039@company.com",
+    "phone": "528-730-7140",
+    "ssn": "623028569",
+    "dob": "2/21/1979",
+    "address": "3922 Elm Blvd",
+    "city": "San Diego",
+    "state": "WA"
+  }
+}

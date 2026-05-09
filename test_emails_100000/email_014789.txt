@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Martin",
+    "email": "brenda.martin480@company.com",
+    "phone": "371-825-2146",
+    "ssn": "155286601",
+    "dob": "6/28/1953",
+    "address": "2745 West St",
+    "city": "Jacksonville",
+    "state": "WA"
+  }
+}

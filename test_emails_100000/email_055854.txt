@@ -1,0 +1,9 @@
+contact:
+  name: Gary Nunez
+  email: gary.nunez6037@company.com
+  phone: +1 420-940-2038
+  ssn: 628337523
+  dob: 06/25/1979
+  address: 752 Spring Ave
+  city: San Diego
+  state: CA

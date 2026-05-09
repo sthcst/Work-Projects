@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Roberts
+  email: joshua.roberts4718@yahoo.com
+  phone: 621 460 8962
+  ssn: 802 31 3320
+  dob: 15/04/1993
+  address: 7278 Park Ln
+  city: Jacksonville
+  state: MI

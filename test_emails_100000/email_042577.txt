@@ -1,0 +1,14 @@
+INVOICE 151428
+
+Bill To:
+Name: James Wilson
+Email: james.wilson5576@example.com
+Phone: 574 951 6705
+SSN: 131 28 3554
+
+Address: 9312 Fifth Blvd
+Los Angeles, AZ
+
+Date of Birth: 05-16-1958
+
+Amount Due: $6897

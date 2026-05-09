@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Gonzalez
+  email: nicole.gonzalez2988@example.com
+  phone: 699-955-8456
+  ssn: 935-58-7297
+  dob: 04-22-2004
+  address: 5654 Fourth Way
+  city: Austin
+  state: TX

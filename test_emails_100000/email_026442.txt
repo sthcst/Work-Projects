@@ -1,0 +1,14 @@
+INVOICE 150441
+
+Bill To:
+Name: Kenneth Perez
+Email: kenneth.perez1579@gmail.com
+Phone: 409 700 2451
+SSN: 956884710
+
+Address: 961 Oak Ave
+Phoenix, VA
+
+Date of Birth: 09-18-1961
+
+Amount Due: $1125

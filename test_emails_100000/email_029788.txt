@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Hall
+  email: amanda.hall6056@outlook.com
+  phone: +1 313-903-2582
+  ssn: 022641070
+  dob: 09-17-1951
+  address: 7179 Birch St
+  city: Houston
+  state: FL

@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Smith
+  email: anthony.smith1917@yahoo.com
+  phone: (898) 376-9152
+  ssn: 185-46-1674
+  dob: 04/06/1995
+  address: 3909 North Dr
+  city: Houston
+  state: PA

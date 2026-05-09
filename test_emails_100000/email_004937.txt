@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Moore,david.moore8610@mail.com,(476) 702-2802,461 35 6001,5/20/1954,"8268 South St",San Jose,MA

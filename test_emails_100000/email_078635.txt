@@ -1,0 +1,9 @@
+contact:
+  name: William Rogers
+  email: william.rogers1858@business.net
+  phone: 491 323 8254
+  ssn: 830 11 5423
+  dob: 21/04/1962
+  address: 2508 Summer Ave
+  city: Jacksonville
+  state: CA

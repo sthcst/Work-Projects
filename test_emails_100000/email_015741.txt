@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Garcia,kevin.garcia5560@company.com,(710) 263-3639,021625542,11/24/1965,"6499 Pine Ln",Phoenix,TN

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Delgado,stephanie.delgado2029@company.com,940 640 7272,368 77 9168,13/05/2005,"8619 Fourth Dr",Boston,WA

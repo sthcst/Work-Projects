@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Dominguez
+  email: lisa.dominguez3188@gmail.com
+  phone: +1 789-529-1640
+  ssn: 838 85 6564
+  dob: 02/25/2002
+  address: 5577 Third Way
+  city: New York
+  state: MD

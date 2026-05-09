@@ -1,0 +1,14 @@
+INVOICE 102371
+
+Bill To:
+Name: Michelle Guerrero
+Email: michelle.guerrero4220@example.com
+Phone: 513 329 4310
+SSN: 328461513
+
+Address: 7762 First Way
+Boston, NJ
+
+Date of Birth: 28/09/1971
+
+Amount Due: $8697

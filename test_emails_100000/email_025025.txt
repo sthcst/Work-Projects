@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Ramirez
+  email: sarah.ramirez336@example.com
+  phone: 614-726-5686
+  ssn: 533 38 2108
+  dob: 06/20/1976
+  address: 8192 Summer Dr
+  city: New York
+  state: NY

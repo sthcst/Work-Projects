@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Sanchez,deborah.sanchez9225@example.com,305-293-6522,440 34 2226,07/01/1986,"1796 Cedar St",San Diego,MO

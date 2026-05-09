@@ -1,0 +1,9 @@
+contact:
+  name: Mark Stewart
+  email: mark.stewart3485@work.org
+  phone: +1 631-574-2237
+  ssn: 767415757
+  dob: 4/19/1972
+  address: 3254 North Court
+  city: Denver
+  state: IL

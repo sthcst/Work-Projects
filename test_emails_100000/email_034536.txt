@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Miller",
+    "email": "matthew.miller4653@outlook.com",
+    "phone": "602 471 8187",
+    "ssn": "128634321",
+    "dob": "10/06/1969",
+    "address": "6734 Birch Blvd",
+    "city": "Jacksonville",
+    "state": "FL"
+  }
+}

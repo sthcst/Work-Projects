@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Wilson,joseph.wilson931@gmail.com,665 630 6668,226-91-8265,11/25/1965,"5576 West Blvd",New York,MO

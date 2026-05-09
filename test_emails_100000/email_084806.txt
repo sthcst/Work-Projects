@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Nunez,edward.nunez1188@company.com,838 793 9811,523 33 6807,17/08/1970,"9118 Sixth Way",San Jose,PA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Peterson,james.peterson5796@gmail.com,680 460 7648,100-20-9582,15/03/1983,"1001 West Ave",Boston,MO

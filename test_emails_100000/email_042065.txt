@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Murillo
+  email: ashley.murillo4918@yahoo.com
+  phone: 760 968 5030
+  ssn: 266 33 3312
+  dob: 11/07/1964
+  address: 5700 Elm Dr
+  city: Washington
+  state: IL

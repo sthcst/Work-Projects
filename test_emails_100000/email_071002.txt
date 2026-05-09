@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Clark,jason.clark8676@work.org,(735) 665-9192,468071554,03/07/1956,"4738 Sixth Ave",Seattle,NC

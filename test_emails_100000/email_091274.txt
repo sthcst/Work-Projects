@@ -1,0 +1,14 @@
+INVOICE 920936
+
+Bill To:
+Name: Michael Gonzalez
+Email: michael.gonzalez6687@example.com
+Phone: +1 786-834-7682
+SSN: 788-67-9604
+
+Address: 8445 Cedar Blvd
+Phoenix, IL
+
+Date of Birth: 11/17/1992
+
+Amount Due: $242

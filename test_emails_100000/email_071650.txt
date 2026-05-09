@@ -1,0 +1,9 @@
+contact:
+  name: Matthew Smith
+  email: matthew.smith4873@gmail.com
+  phone: 986-420-1559
+  ssn: 027-97-6050
+  dob: 05-05-1953
+  address: 5251 Cedar Blvd
+  city: New York
+  state: CA

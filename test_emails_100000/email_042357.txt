@@ -1,0 +1,14 @@
+INVOICE 661505
+
+Bill To:
+Name: Edward Young
+Email: edward.young6679@work.org
+Phone: (850) 850-7585
+SSN: 908-54-3025
+
+Address: 7332 Park Way
+Phoenix, CO
+
+Date of Birth: 17/05/1997
+
+Amount Due: $5446

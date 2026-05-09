@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Anderson
+  email: katherine.anderson4296@company.com
+  phone: (758) 643-7144
+  ssn: 071-74-9880
+  dob: 17/03/1981
+  address: 6449 Park Rd
+  city: Jacksonville
+  state: DC

@@ -1,0 +1,9 @@
+contact:
+  name: Michael Morgan
+  email: michael.morgan7170@mail.com
+  phone: +1 959-885-2197
+  ssn: 549-70-5002
+  dob: 01-23-1999
+  address: 5346 Spring Blvd
+  city: Houston
+  state: WA

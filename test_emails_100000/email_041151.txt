@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Thompson",
+    "email": "sarah.thompson5942@company.com",
+    "phone": "489-380-4949",
+    "ssn": "175-10-4354",
+    "dob": "02-08-1955",
+    "address": "2574 Maple Court",
+    "city": "Seattle",
+    "state": "WA"
+  }
+}

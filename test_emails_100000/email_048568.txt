@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Murillo",
+    "email": "joshua.murillo6520@business.net",
+    "phone": "963-925-9120",
+    "ssn": "561 24 9937",
+    "dob": "23/01/1970",
+    "address": "1221 Second Way",
+    "city": "San Antonio",
+    "state": "PA"
+  }
+}

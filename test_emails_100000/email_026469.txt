@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Morris
+  email: ronald.morris8941@company.com
+  phone: 246-588-3354
+  ssn: 997795490
+  dob: 03-22-1966
+  address: 9783 Cedar Court
+  city: San Jose
+  state: FL

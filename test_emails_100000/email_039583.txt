@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Alvarado",
+    "email": "samantha.alvarado6855@gmail.com",
+    "phone": "895 335 6795",
+    "ssn": "798277350",
+    "dob": "10-09-1988",
+    "address": "1440 Sixth Court",
+    "city": "New York",
+    "state": "TX"
+  }
+}

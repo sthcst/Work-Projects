@@ -1,0 +1,9 @@
+contact:
+  name: Gary Ramirez
+  email: gary.ramirez4519@business.net
+  phone: (614) 374-8459
+  ssn: 742 28 1217
+  dob: 03/11/1954
+  address: 499 North Dr
+  city: New York
+  state: OH

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Rodriguez",
+    "email": "andrew.rodriguez3542@work.org",
+    "phone": "658-875-8865",
+    "ssn": "959973428",
+    "dob": "9/11/1959",
+    "address": "9594 Maple Ln",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

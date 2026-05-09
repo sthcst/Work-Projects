@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Alvarado
+  email: amanda.alvarado4198@work.org
+  phone: 806-752-3391
+  ssn: 420-45-9473
+  dob: 19/03/1974
+  address: 9847 Maple Ave
+  city: Chicago
+  state: WA

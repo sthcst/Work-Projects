@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Dominguez
+  email: nicholas.dominguez4262@company.com
+  phone: +1 774-626-8152
+  ssn: 511-90-1989
+  dob: 8/26/2003
+  address: 5744 Oak Dr
+  city: Los Angeles
+  state: CA

@@ -1,0 +1,14 @@
+INVOICE 509790
+
+Bill To:
+Name: Ronald Dominguez
+Email: ronald.dominguez5532@example.com
+Phone: 214-883-3148
+SSN: 770-28-3140
+
+Address: 296 Sixth Rd
+Seattle, GA
+
+Date of Birth: 10-19-1956
+
+Amount Due: $1320

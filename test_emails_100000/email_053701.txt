@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Williams",
+    "email": "samantha.williams111@mail.com",
+    "phone": "535-412-2878",
+    "ssn": "031268840",
+    "dob": "11/06/2004",
+    "address": "23 Cedar Rd",
+    "city": "San Jose",
+    "state": "FL"
+  }
+}

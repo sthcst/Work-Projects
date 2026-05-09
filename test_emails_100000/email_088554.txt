@@ -1,0 +1,14 @@
+INVOICE 848940
+
+Bill To:
+Name: William Bell
+Email: william.bell2805@company.com
+Phone: +1 481-822-5086
+SSN: 920 30 4576
+
+Address: 139 Pine Way
+New York, NY
+
+Date of Birth: 21/05/1985
+
+Amount Due: $850

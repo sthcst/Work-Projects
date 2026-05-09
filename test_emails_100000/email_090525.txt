@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Nelson,cynthia.nelson1483@work.org,+1 812-709-9858,512-12-2986,02/15/1971,"426 South Ave",San Antonio,VA

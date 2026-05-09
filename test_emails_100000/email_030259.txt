@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Martin",
+    "email": "paul.martin4519@business.net",
+    "phone": "+1 240-224-7193",
+    "ssn": "187696650",
+    "dob": "05/10/1951",
+    "address": "8291 Second Ln",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

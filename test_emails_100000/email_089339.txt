@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Parker",
+    "email": "katherine.parker30@company.com",
+    "phone": "513 791 6901",
+    "ssn": "891-01-5187",
+    "dob": "12-25-1985",
+    "address": "6247 South St",
+    "city": "Boston",
+    "state": "GA"
+  }
+}

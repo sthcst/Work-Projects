@@ -1,0 +1,9 @@
+contact:
+  name: John Moore
+  email: john.moore4062@company.com
+  phone: 974 955 9267
+  ssn: 486947527
+  dob: 12/18/1954
+  address: 4345 West Ln
+  city: Phoenix
+  state: AZ

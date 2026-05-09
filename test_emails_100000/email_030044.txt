@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Jimenez
+  email: rebecca.jimenez4638@mail.com
+  phone: (370) 291-2140
+  ssn: 777023066
+  dob: 10/4/2001
+  address: 85 Sixth Way
+  city: Seattle
+  state: MD

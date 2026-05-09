@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Evans,megan.evans9660@gmail.com,+1 315-916-8823,540 85 5384,04/03/1982,"3944 Second Way",Philadelphia,TX

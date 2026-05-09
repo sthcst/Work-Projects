@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Reyes",
+    "email": "nicole.reyes5228@business.net",
+    "phone": "(314) 558-9543",
+    "ssn": "589 15 2265",
+    "dob": "3/4/1950",
+    "address": "7417 Cedar Way",
+    "city": "Dallas",
+    "state": "WI"
+  }
+}

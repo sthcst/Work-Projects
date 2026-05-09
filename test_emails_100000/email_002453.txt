@@ -1,0 +1,9 @@
+contact:
+  name: Richard Reyes
+  email: richard.reyes2256@work.org
+  phone: +1 353-479-5008
+  ssn: 590 53 1819
+  dob: 02/04/1952
+  address: 9668 Third Rd
+  city: San Antonio
+  state: VA

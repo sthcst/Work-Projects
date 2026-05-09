@@ -1,0 +1,14 @@
+INVOICE 151308
+
+Bill To:
+Name: George Moore
+Email: george.moore4718@example.com
+Phone: +1 965-728-9327
+SSN: 586 28 6145
+
+Address: 4686 Park Court
+Los Angeles, FL
+
+Date of Birth: 20/09/1955
+
+Amount Due: $328

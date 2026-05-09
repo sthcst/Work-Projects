@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Campbell",
+    "email": "nicholas.campbell4926@company.com",
+    "phone": "(884) 996-6524",
+    "ssn": "975 84 9437",
+    "dob": "07/09/2005",
+    "address": "1240 Fifth Ave",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

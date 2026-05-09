@@ -1,0 +1,14 @@
+INVOICE 987516
+
+Bill To:
+Name: Charles Bell
+Email: charles.bell5266@example.com
+Phone: 942 486 9009
+SSN: 639305220
+
+Address: 5962 Summer Way
+San Jose, FL
+
+Date of Birth: 1/4/1972
+
+Amount Due: $1507

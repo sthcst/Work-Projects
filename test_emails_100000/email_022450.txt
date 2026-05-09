@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Dominguez,gary.dominguez1513@yahoo.com,478-794-6756,106 90 4182,10/02/1991,"1569 Elm Rd",Los Angeles,NJ

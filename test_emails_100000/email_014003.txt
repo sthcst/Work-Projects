@@ -1,0 +1,14 @@
+INVOICE 857941
+
+Bill To:
+Name: Brenda Alvarado
+Email: brenda.alvarado7742@example.com
+Phone: 955-855-1156
+SSN: 170 30 2213
+
+Address: 1224 Spring Blvd
+San Antonio, TX
+
+Date of Birth: 28/04/2005
+
+Amount Due: $937

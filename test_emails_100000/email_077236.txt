@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Anderson,george.anderson1611@yahoo.com,(321) 684-9452,582143159,23/07/1995,"1214 Fifth Court",Houston,WA

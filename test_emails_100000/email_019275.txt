@@ -1,0 +1,9 @@
+contact:
+  name: Angela Reed
+  email: angela.reed9568@company.com
+  phone: +1 593-402-9300
+  ssn: 573 92 2964
+  dob: 02-16-1951
+  address: 2117 Sixth Blvd
+  city: Seattle
+  state: TN

@@ -1,0 +1,9 @@
+contact:
+  name: Mark Thompson
+  email: mark.thompson5008@example.com
+  phone: (243) 605-2660
+  ssn: 538913909
+  dob: 03-21-1980
+  address: 6907 First Dr
+  city: Seattle
+  state: IL

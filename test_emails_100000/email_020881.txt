@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Parker
+  email: lauren.parker6085@gmail.com
+  phone: 971 395 5557
+  ssn: 165852145
+  dob: 10/01/2002
+  address: 431 Maple Rd
+  city: Los Angeles
+  state: NY

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Cooper,daniel.cooper5759@yahoo.com,862 964 8833,246-14-6284,10/05/1956,"2840 South St",San Diego,CO

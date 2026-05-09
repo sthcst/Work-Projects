@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Cooper,paul.cooper6604@example.com,335-709-7621,798 68 6985,04-25-1975,"7686 Maple Ave",Chicago,WI

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Morris",
+    "email": "katherine.morris9804@outlook.com",
+    "phone": "+1 239-616-9148",
+    "ssn": "818 55 7525",
+    "dob": "10/23/1964",
+    "address": "6125 Elm Court",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

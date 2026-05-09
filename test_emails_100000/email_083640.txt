@@ -1,0 +1,12 @@
+SUPPORT TICKET #83978
+
+Customer: Anthony Thomas
+Email: anthony.thomas3875@example.com
+Phone: +1 665-538-7215
+Account: 783489548
+
+Issue Description: Technical problem reported
+DOB on file: 05/23/1962
+Address: 291 Oak Rd, Dallas, IL
+
+Status: OPEN

@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Martinez
+  email: lauren.martinez6738@outlook.com
+  phone: (523) 323-2425
+  ssn: 255 96 4069
+  dob: 11/5/1983
+  address: 1216 Elm Blvd
+  city: Philadelphia
+  state: TX

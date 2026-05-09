@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Perez
+  email: michelle.perez6673@example.com
+  phone: 715 587 4924
+  ssn: 634-07-3200
+  dob: 04-28-1976
+  address: 5607 East Dr
+  city: Chicago
+  state: MD

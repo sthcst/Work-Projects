@@ -1,0 +1,14 @@
+INVOICE 812723
+
+Bill To:
+Name: Brian Walker
+Email: brian.walker5800@gmail.com
+Phone: 229 702 7185
+SSN: 911 27 7548
+
+Address: 1862 Elm Blvd
+Philadelphia, MO
+
+Date of Birth: 12/01/1974
+
+Amount Due: $5917

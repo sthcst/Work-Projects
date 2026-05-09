@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Robinson",
+    "email": "jacob.robinson4417@work.org",
+    "phone": "901 804 4704",
+    "ssn": "032-23-7643",
+    "dob": "11-04-1966",
+    "address": "9665 Spring Blvd",
+    "city": "Houston",
+    "state": "MD"
+  }
+}

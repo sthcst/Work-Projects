@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Roberts",
+    "email": "stephanie.roberts7796@company.com",
+    "phone": "706-343-2903",
+    "ssn": "789649695",
+    "dob": "05-01-1962",
+    "address": "3446 Oak Court",
+    "city": "New York",
+    "state": "MO"
+  }
+}

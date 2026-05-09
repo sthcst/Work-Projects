@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Sanchez",
+    "email": "cynthia.sanchez87@yahoo.com",
+    "phone": "556-757-8059",
+    "ssn": "889-95-9366",
+    "dob": "06/17/1960",
+    "address": "7933 North Way",
+    "city": "Dallas",
+    "state": "FL"
+  }
+}

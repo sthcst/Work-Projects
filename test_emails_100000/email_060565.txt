@@ -1,0 +1,14 @@
+INVOICE 204239
+
+Bill To:
+Name: Kathleen Perez
+Email: kathleen.perez1772@outlook.com
+Phone: 889 318 3500
+SSN: 080483887
+
+Address: 8518 Cedar Ln
+New York, CA
+
+Date of Birth: 05-07-1989
+
+Amount Due: $6030

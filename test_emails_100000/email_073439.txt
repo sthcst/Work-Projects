@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Flores",
+    "email": "jessica.flores6871@outlook.com",
+    "phone": "903-906-3530",
+    "ssn": "450-76-5139",
+    "dob": "4/11/2002",
+    "address": "9265 Birch Blvd",
+    "city": "San Antonio",
+    "state": "NC"
+  }
+}

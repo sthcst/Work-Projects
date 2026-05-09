@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Reed",
+    "email": "mark.reed5567@yahoo.com",
+    "phone": "914-206-3542",
+    "ssn": "598524117",
+    "dob": "06-08-1971",
+    "address": "9574 West Blvd",
+    "city": "Washington",
+    "state": "OH"
+  }
+}

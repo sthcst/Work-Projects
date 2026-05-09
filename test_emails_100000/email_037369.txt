@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Taylor",
+    "email": "nicole.taylor6271@mail.com",
+    "phone": "389-356-4415",
+    "ssn": "476-85-8506",
+    "dob": "08-21-1991",
+    "address": "3968 West Blvd",
+    "city": "Phoenix",
+    "state": "WA"
+  }
+}

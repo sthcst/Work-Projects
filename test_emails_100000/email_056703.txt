@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Martinez
+  email: anthony.martinez8119@example.com
+  phone: (229) 317-1228
+  ssn: 168784611
+  dob: 12/12/2002
+  address: 90 North Way
+  city: New York
+  state: CO

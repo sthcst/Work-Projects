@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Gonzalez,timothy.gonzalez6042@outlook.com,+1 889-460-8881,073 36 6667,6/8/1989,"9342 Sixth Dr",New York,AZ

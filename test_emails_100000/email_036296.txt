@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Flores",
+    "email": "angela.flores8033@mail.com",
+    "phone": "(937) 448-2884",
+    "ssn": "324-86-7685",
+    "dob": "11-18-1992",
+    "address": "291 Main Ln",
+    "city": "Washington",
+    "state": "NY"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Campbell",
+    "email": "james.campbell512@gmail.com",
+    "phone": "787-449-8079",
+    "ssn": "060-22-4679",
+    "dob": "02/03/1971",
+    "address": "8579 East St",
+    "city": "Los Angeles",
+    "state": "AZ"
+  }
+}

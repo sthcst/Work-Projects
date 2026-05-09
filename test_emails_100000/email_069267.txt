@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Guerrero",
+    "email": "jessica.guerrero3925@gmail.com",
+    "phone": "345-365-1942",
+    "ssn": "376 88 5760",
+    "dob": "12/17/1983",
+    "address": "7419 Elm Dr",
+    "city": "Washington",
+    "state": "MO"
+  }
+}

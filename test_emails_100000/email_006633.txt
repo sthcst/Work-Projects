@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Martin",
+    "email": "nicole.martin7904@outlook.com",
+    "phone": "674 439 3024",
+    "ssn": "284883921",
+    "dob": "5/12/1987",
+    "address": "218 Main Rd",
+    "city": "Seattle",
+    "state": "MA"
+  }
+}

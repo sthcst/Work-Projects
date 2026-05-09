@@ -1,0 +1,14 @@
+INVOICE 303959
+
+Bill To:
+Name: Edward Hall
+Email: edward.hall4158@business.net
+Phone: 678 302 3617
+SSN: 697-74-1536
+
+Address: 8010 Second Way
+San Antonio, AZ
+
+Date of Birth: 07/01/1981
+
+Amount Due: $4114

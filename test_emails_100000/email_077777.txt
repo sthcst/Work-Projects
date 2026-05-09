@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Lee",
+    "email": "paul.lee9752@company.com",
+    "phone": "677-863-5321",
+    "ssn": "214-35-8394",
+    "dob": "15/02/1953",
+    "address": "9957 Elm Blvd",
+    "city": "Boston",
+    "state": "WA"
+  }
+}

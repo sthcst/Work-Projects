@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Edwards",
+    "email": "ronald.edwards3119@yahoo.com",
+    "phone": "827 330 6485",
+    "ssn": "832946600",
+    "dob": "02/02/1963",
+    "address": "2530 Spring Rd",
+    "city": "Jacksonville",
+    "state": "IL"
+  }
+}

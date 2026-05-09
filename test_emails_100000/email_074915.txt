@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Harris
+  email: joseph.harris5482@yahoo.com
+  phone: 869 453 3762
+  ssn: 898041629
+  dob: 02/09/1976
+  address: 7367 Cedar Rd
+  city: San Jose
+  state: VA

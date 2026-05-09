@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Ramirez
+  email: rebecca.ramirez2620@mail.com
+  phone: 881-245-5858
+  ssn: 013 75 4610
+  dob: 09-11-1957
+  address: 2137 First Way
+  city: Washington
+  state: WA

@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Campbell
+  email: andrew.campbell9033@mail.com
+  phone: (331) 259-4988
+  ssn: 124-46-6458
+  dob: 8/10/1989
+  address: 2456 Elm Way
+  city: Seattle
+  state: FL

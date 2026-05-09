@@ -1,0 +1,14 @@
+INVOICE 576061
+
+Bill To:
+Name: Jane Smith
+Email: jane.smith3362@company.com
+Phone: 799 356 7863
+SSN: 568 22 5134
+
+Address: 7817 West Way
+Seattle, AZ
+
+Date of Birth: 10/05/1967
+
+Amount Due: $4796

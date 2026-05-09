@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Jones
+  email: daniel.jones1485@outlook.com
+  phone: +1 429-990-2104
+  ssn: 940362611
+  dob: 02/09/1980
+  address: 6476 North Ave
+  city: San Jose
+  state: WI

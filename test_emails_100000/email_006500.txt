@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Thomas
+  email: ashley.thomas558@example.com
+  phone: 564-325-5132
+  ssn: 537 32 8000
+  dob: 09/13/1979
+  address: 406 Pine Court
+  city: Denver
+  state: CO

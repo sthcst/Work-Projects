@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Campbell",
+    "email": "richard.campbell2945@gmail.com",
+    "phone": "(448) 520-6462",
+    "ssn": "541-93-7586",
+    "dob": "7/19/1967",
+    "address": "5763 Pine Ave",
+    "city": "Denver",
+    "state": "DC"
+  }
+}

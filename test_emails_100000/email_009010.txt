@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Johnson,paul.johnson9315@outlook.com,(815) 298-3604,069 72 2703,15/06/1951,"2642 First Ave",Dallas,DC

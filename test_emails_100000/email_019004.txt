@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Jones
+  email: pamela.jones6267@mail.com
+  phone: 922-827-8018
+  ssn: 930 35 8577
+  dob: 05/06/1970
+  address: 4645 Sixth Ave
+  city: Phoenix
+  state: FL

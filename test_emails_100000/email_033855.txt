@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Nelson,david.nelson9366@gmail.com,+1 772-725-5392,919884358,08-03-1956,"3445 West Dr",Philadelphia,IL

@@ -1,0 +1,9 @@
+contact:
+  name: Michael Lee
+  email: michael.lee73@example.com
+  phone: 286 300 3025
+  ssn: 912 60 1260
+  dob: 8/23/1950
+  address: 31 Third Ave
+  city: Chicago
+  state: NJ

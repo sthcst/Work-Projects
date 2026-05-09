@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Martin
+  email: ryan.martin5164@gmail.com
+  phone: 228 723 2224
+  ssn: 910163967
+  dob: 3/12/1998
+  address: 5076 Pine Rd
+  city: Seattle
+  state: AZ

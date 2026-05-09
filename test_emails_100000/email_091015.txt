@@ -1,0 +1,12 @@
+SUPPORT TICKET #49200
+
+Customer: Gary Lee
+Email: gary.lee4095@example.com
+Phone: 919 875 3823
+Account: 164-71-9812
+
+Issue Description: Technical problem reported
+DOB on file: 06/11/1954
+Address: 538 West Court, Seattle, PA
+
+Status: OPEN

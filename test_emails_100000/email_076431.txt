@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Clark,richard.clark5176@company.com,338-688-1674,374 35 9339,09/16/1977,"8541 Second Rd",San Diego,TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Gomez,mark.gomez9720@outlook.com,623-241-4065,346177782,10-23-1965,"7488 Spring Rd",Phoenix,CA

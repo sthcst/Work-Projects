@@ -1,0 +1,9 @@
+contact:
+  name: Angela Young
+  email: angela.young5344@gmail.com
+  phone: +1 343-721-7326
+  ssn: 516982328
+  dob: 8/15/2005
+  address: 4191 Elm Blvd
+  city: New York
+  state: CA

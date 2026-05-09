@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Collins
+  email: kenneth.collins6564@example.com
+  phone: +1 678-505-2788
+  ssn: 603 79 2365
+  dob: 1/11/1995
+  address: 9991 Main Way
+  city: Dallas
+  state: MA

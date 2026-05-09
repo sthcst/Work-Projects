@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Campbell
+  email: deborah.campbell5805@company.com
+  phone: +1 517-906-4983
+  ssn: 551566630
+  dob: 27/05/1962
+  address: 9455 Third Dr
+  city: Phoenix
+  state: WA

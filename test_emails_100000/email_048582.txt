@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Serrano",
+    "email": "emily.serrano240@yahoo.com",
+    "phone": "536 903 7719",
+    "ssn": "724-07-8963",
+    "dob": "04-27-2000",
+    "address": "1056 Oak Way",
+    "city": "Seattle",
+    "state": "TN"
+  }
+}

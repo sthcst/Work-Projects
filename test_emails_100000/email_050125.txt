@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Walker",
+    "email": "robert.walker718@business.net",
+    "phone": "+1 214-733-2653",
+    "ssn": "577 23 2224",
+    "dob": "07-03-1960",
+    "address": "6673 Fifth St",
+    "city": "San Jose",
+    "state": "CA"
+  }
+}

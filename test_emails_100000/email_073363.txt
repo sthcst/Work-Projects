@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Ortiz
+  email: kathleen.ortiz1785@mail.com
+  phone: +1 327-683-2693
+  ssn: 526-99-7964
+  dob: 02-06-1996
+  address: 9830 South Blvd
+  city: Boston
+  state: MI

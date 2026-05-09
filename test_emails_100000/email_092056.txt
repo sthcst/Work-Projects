@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Jackson
+  email: kimberly.jackson6713@mail.com
+  phone: (354) 918-8188
+  ssn: 206107968
+  dob: 06/28/2000
+  address: 3622 Fifth Ln
+  city: Boston
+  state: CA

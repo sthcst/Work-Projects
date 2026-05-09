@@ -1,0 +1,9 @@
+contact:
+  name: Gary Bell
+  email: gary.bell8334@business.net
+  phone: (629) 520-4835
+  ssn: 660-22-7115
+  dob: 3/2/2005
+  address: 9055 Oak St
+  city: Houston
+  state: WA

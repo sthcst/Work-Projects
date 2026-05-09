@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Hernandez,angela.hernandez608@work.org,(741) 801-2474,171313227,09-16-1958,"1288 Elm Blvd",Washington,MI

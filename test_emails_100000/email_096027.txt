@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Rodriguez",
+    "email": "matthew.rodriguez6527@yahoo.com",
+    "phone": "526-208-8402",
+    "ssn": "991-36-4087",
+    "dob": "09-24-1984",
+    "address": "8115 Elm St",
+    "city": "Jacksonville",
+    "state": "WI"
+  }
+}

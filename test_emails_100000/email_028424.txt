@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Martinez",
+    "email": "jason.martinez4067@mail.com",
+    "phone": "489 974 1517",
+    "ssn": "321 71 4714",
+    "dob": "05/02/1996",
+    "address": "9426 Cedar Way",
+    "city": "Chicago",
+    "state": "WI"
+  }
+}

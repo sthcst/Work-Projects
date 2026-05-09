@@ -1,0 +1,9 @@
+contact:
+  name: Charles Robinson
+  email: charles.robinson8277@business.net
+  phone: 608-931-5920
+  ssn: 625957111
+  dob: 19/07/1985
+  address: 1387 Cedar St
+  city: San Diego
+  state: MO

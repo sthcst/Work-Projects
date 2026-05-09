@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Jimenez",
+    "email": "steven.jimenez9416@gmail.com",
+    "phone": "337 223 1039",
+    "ssn": "558538602",
+    "dob": "11/12/1971",
+    "address": "4153 Second Ln",
+    "city": "Chicago",
+    "state": "MI"
+  }
+}

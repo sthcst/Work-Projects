@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Reyes",
+    "email": "donald.reyes9028@business.net",
+    "phone": "(688) 932-1444",
+    "ssn": "869612413",
+    "dob": "2/11/1960",
+    "address": "9124 Third Blvd",
+    "city": "Los Angeles",
+    "state": "OH"
+  }
+}

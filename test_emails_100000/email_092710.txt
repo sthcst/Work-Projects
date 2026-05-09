@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Clark
+  email: shirley.clark9265@example.com
+  phone: 393 468 5438
+  ssn: 129-96-5460
+  dob: 5/26/1997
+  address: 8761 Birch Rd
+  city: Philadelphia
+  state: TX

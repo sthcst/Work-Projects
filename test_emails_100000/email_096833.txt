@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Flores",
+    "email": "nicole.flores7427@company.com",
+    "phone": "(458) 757-4400",
+    "ssn": "597338695",
+    "dob": "04/19/1963",
+    "address": "9074 Second Blvd",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

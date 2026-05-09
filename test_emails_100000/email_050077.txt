@@ -1,0 +1,9 @@
+contact:
+  name: Charles Moore
+  email: charles.moore7124@mail.com
+  phone: 661 316 6492
+  ssn: 145 63 5966
+  dob: 10/20/1975
+  address: 9901 North St
+  city: Los Angeles
+  state: MA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Flores,joshua.flores8675@gmail.com,+1 322-703-6752,675 39 3900,05-18-1989,"9417 Summer Ave",San Jose,OH

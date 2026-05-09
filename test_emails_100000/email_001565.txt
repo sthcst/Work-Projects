@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Moore,lisa.moore4046@work.org,+1 679-598-8048,038-81-7344,12-17-1986,"1173 Birch Dr",New York,MI

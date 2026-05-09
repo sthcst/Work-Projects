@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Young,timothy.young9943@outlook.com,519 852 8897,794-36-3171,25/04/1990,"8504 Summer Rd",Austin,MA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Roberts",
+    "email": "maria.roberts1049@example.com",
+    "phone": "996-669-8426",
+    "ssn": "243-69-8377",
+    "dob": "10/25/1994",
+    "address": "8470 Fourth Way",
+    "city": "Los Angeles",
+    "state": "CO"
+  }
+}

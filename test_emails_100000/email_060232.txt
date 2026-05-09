@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Jackson",
+    "email": "angela.jackson2960@gmail.com",
+    "phone": "+1 383-803-1847",
+    "ssn": "671-76-3723",
+    "dob": "02/17/1961",
+    "address": "1115 Fourth Blvd",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Wilson
+  email: timothy.wilson4850@gmail.com
+  phone: (391) 297-2375
+  ssn: 163 70 8553
+  dob: 7/22/1967
+  address: 6972 Fifth Dr
+  city: San Antonio
+  state: WI

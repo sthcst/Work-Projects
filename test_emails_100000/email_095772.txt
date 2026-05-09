@@ -1,0 +1,14 @@
+INVOICE 456308
+
+Bill To:
+Name: Anthony Ortiz
+Email: anthony.ortiz3561@outlook.com
+Phone: +1 967-741-5469
+SSN: 740-11-9805
+
+Address: 7572 Birch Ln
+Washington, WI
+
+Date of Birth: 12-02-1977
+
+Amount Due: $1899

@@ -1,0 +1,14 @@
+INVOICE 219864
+
+Bill To:
+Name: James Hall
+Email: james.hall9649@outlook.com
+Phone: 728-891-6391
+SSN: 570868773
+
+Address: 121 Park Way
+Chicago, MI
+
+Date of Birth: 2/1/1965
+
+Amount Due: $526

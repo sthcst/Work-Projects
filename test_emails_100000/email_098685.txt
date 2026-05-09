@@ -1,0 +1,14 @@
+INVOICE 944048
+
+Bill To:
+Name: Jane Wilson
+Email: jane.wilson8889@example.com
+Phone: (513) 637-5097
+SSN: 331-49-3653
+
+Address: 9459 West Rd
+Philadelphia, TX
+
+Date of Birth: 11/09/2002
+
+Amount Due: $8822

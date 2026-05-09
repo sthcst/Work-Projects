@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Garcia,deborah.garcia6444@work.org,867 621 4880,359782079,10/23/1972,"3728 Fourth St",New York,TX

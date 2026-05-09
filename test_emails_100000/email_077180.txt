@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Stewart",
+    "email": "brenda.stewart8330@business.net",
+    "phone": "212-219-9752",
+    "ssn": "468-55-3895",
+    "dob": "09/13/1991",
+    "address": "9808 Cedar Way",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

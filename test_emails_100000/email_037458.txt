@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Miller",
+    "email": "paul.miller848@company.com",
+    "phone": "(554) 635-4717",
+    "ssn": "966631517",
+    "dob": "1/11/1995",
+    "address": "9548 West Ln",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

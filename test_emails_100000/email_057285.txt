@@ -1,0 +1,9 @@
+contact:
+  name: Emma Walker
+  email: emma.walker8173@example.com
+  phone: +1 562-549-1192
+  ssn: 556 76 8874
+  dob: 02/11/1953
+  address: 8695 Maple Way
+  city: Los Angeles
+  state: NY

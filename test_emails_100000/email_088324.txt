@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Flores
+  email: joshua.flores9771@outlook.com
+  phone: (992) 862-8016
+  ssn: 134 32 5797
+  dob: 7/7/2002
+  address: 6202 East Ln
+  city: San Diego
+  state: DC

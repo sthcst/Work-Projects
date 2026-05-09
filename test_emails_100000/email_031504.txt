@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Peterson,kimberly.peterson3000@outlook.com,+1 427-642-3278,195525208,08/18/1970,"1890 Fourth St",Dallas,MO

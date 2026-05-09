@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Dominguez,kimberly.dominguez8586@business.net,344-937-4967,827 72 5923,12/17/1974,"1771 Second Blvd",San Jose,NJ

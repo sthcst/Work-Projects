@@ -1,0 +1,14 @@
+INVOICE 322375
+
+Bill To:
+Name: David Alvarado
+Email: david.alvarado6135@mail.com
+Phone: +1 672-604-2182
+SSN: 385133044
+
+Address: 2481 West St
+San Antonio, MI
+
+Date of Birth: 12-22-1975
+
+Amount Due: $5067

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Wilson",
+    "email": "steven.wilson9754@business.net",
+    "phone": "(247) 204-5565",
+    "ssn": "769357471",
+    "dob": "7/16/1951",
+    "address": "4129 West Dr",
+    "city": "Houston",
+    "state": "MI"
+  }
+}

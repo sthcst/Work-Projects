@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Romero,edward.romero480@outlook.com,475 937 9533,945733487,12-08-1971,"8431 Park Ave",Jacksonville,TN

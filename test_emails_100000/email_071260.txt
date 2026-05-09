@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Parker",
+    "email": "daniel.parker4185@example.com",
+    "phone": "+1 444-355-5404",
+    "ssn": "321 93 7620",
+    "dob": "08/06/1987",
+    "address": "6655 West Dr",
+    "city": "Philadelphia",
+    "state": "CA"
+  }
+}

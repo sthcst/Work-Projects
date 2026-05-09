@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Rogers",
+    "email": "emily.rogers6731@business.net",
+    "phone": "855 587 7719",
+    "ssn": "876-12-3084",
+    "dob": "03/16/1951",
+    "address": "2150 East Ln",
+    "city": "Los Angeles",
+    "state": "PA"
+  }
+}

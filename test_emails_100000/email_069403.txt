@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Williams",
+    "email": "shirley.williams7951@business.net",
+    "phone": "659 244 7085",
+    "ssn": "116 53 6924",
+    "dob": "04-01-2000",
+    "address": "4591 Fifth Blvd",
+    "city": "San Antonio",
+    "state": "DC"
+  }
+}

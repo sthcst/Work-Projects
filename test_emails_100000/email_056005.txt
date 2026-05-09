@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Garcia",
+    "email": "steven.garcia6760@yahoo.com",
+    "phone": "+1 732-709-4767",
+    "ssn": "415 40 2984",
+    "dob": "08-26-1959",
+    "address": "1624 Cedar St",
+    "city": "San Antonio",
+    "state": "WI"
+  }
+}

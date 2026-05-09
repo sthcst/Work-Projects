@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Robinson,richard.robinson2610@mail.com,899 301 2897,939-79-4804,06/24/1983,"5072 Third Blvd",Washington,FL

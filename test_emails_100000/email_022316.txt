@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Martinez",
+    "email": "kimberly.martinez8595@work.org",
+    "phone": "675 596 8702",
+    "ssn": "028-07-1292",
+    "dob": "06-15-2005",
+    "address": "8589 Fifth Blvd",
+    "city": "Philadelphia",
+    "state": "IL"
+  }
+}

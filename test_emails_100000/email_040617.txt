@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Garcia,maria.garcia6888@work.org,385 570 2768,116082264,03-08-1958,"7264 Third Dr",New York,MD

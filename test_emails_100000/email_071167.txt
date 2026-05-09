@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Edwards,samantha.edwards6100@yahoo.com,344 881 1449,266-89-8539,07/16/1973,"7857 West Ave",Dallas,TX

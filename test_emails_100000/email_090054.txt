@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Walker
+  email: stephanie.walker8523@yahoo.com
+  phone: (400) 614-5282
+  ssn: 839733264
+  dob: 04/12/1999
+  address: 3188 Fourth Way
+  city: Philadelphia
+  state: PA

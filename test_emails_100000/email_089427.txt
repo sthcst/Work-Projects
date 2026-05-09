@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Moore,megan.moore8476@business.net,636 513 9031,651-63-5313,11/14/1999,"6314 Birch Rd",Los Angeles,AZ

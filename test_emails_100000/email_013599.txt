@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Clark",
+    "email": "joseph.clark2047@example.com",
+    "phone": "754 718 6485",
+    "ssn": "108665789",
+    "dob": "01/12/1961",
+    "address": "5684 Fourth St",
+    "city": "Los Angeles",
+    "state": "GA"
+  }
+}

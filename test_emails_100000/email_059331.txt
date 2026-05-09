@@ -1,0 +1,9 @@
+contact:
+  name: Angela Garcia
+  email: angela.garcia5110@business.net
+  phone: 597 385 3973
+  ssn: 473144153
+  dob: 3/3/1954
+  address: 8898 Park Court
+  city: Houston
+  state: MD

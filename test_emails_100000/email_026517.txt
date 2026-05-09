@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Carter
+  email: timothy.carter5618@gmail.com
+  phone: (564) 492-3103
+  ssn: 924 79 9448
+  dob: 06-17-1979
+  address: 7350 Fourth Blvd
+  city: Austin
+  state: WI

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Guerrero,lauren.guerrero2977@work.org,490-326-2969,624018517,23/08/1992,"656 Third Way",Chicago,TX

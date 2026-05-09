@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Alvarado,charles.alvarado5790@company.com,518-827-7545,891 19 8737,07-14-1997,"9276 Summer St",Chicago,IL

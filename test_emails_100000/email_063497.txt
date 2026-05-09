@@ -1,0 +1,14 @@
+INVOICE 313857
+
+Bill To:
+Name: Timothy Guerrero
+Email: timothy.guerrero6257@example.com
+Phone: +1 278-776-5632
+SSN: 167988318
+
+Address: 3870 West Rd
+Jacksonville, MD
+
+Date of Birth: 05/01/1984
+
+Amount Due: $1429

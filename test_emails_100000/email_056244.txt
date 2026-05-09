@@ -1,0 +1,9 @@
+contact:
+  name: Robert Stewart
+  email: robert.stewart5204@gmail.com
+  phone: +1 645-863-8408
+  ssn: 974-17-9420
+  dob: 08/14/1950
+  address: 7821 Oak St
+  city: San Jose
+  state: PA

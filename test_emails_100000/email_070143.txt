@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Reeves",
+    "email": "ashley.reeves1821@outlook.com",
+    "phone": "+1 966-735-7936",
+    "ssn": "783-08-6342",
+    "dob": "16/11/2005",
+    "address": "3343 East Dr",
+    "city": "Washington",
+    "state": "OH"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Jones",
+    "email": "paul.jones4482@business.net",
+    "phone": "272 540 5158",
+    "ssn": "948698280",
+    "dob": "06/06/1973",
+    "address": "9168 First Ave",
+    "city": "Houston",
+    "state": "FL"
+  }
+}

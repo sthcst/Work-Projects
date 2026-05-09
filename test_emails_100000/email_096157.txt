@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Morgan",
+    "email": "christopher.morgan2629@outlook.com",
+    "phone": "(249) 561-4132",
+    "ssn": "342253021",
+    "dob": "02/07/1999",
+    "address": "8771 Summer Ln",
+    "city": "Dallas",
+    "state": "FL"
+  }
+}

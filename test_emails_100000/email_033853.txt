@@ -1,0 +1,14 @@
+INVOICE 257140
+
+Bill To:
+Name: Kevin Collins
+Email: kevin.collins4455@gmail.com
+Phone: 275 696 4944
+SSN: 274427136
+
+Address: 6491 Maple St
+Chicago, TX
+
+Date of Birth: 24/07/1996
+
+Amount Due: $5974

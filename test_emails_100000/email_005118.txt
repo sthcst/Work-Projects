@@ -1,0 +1,14 @@
+INVOICE 879853
+
+Bill To:
+Name: Kenneth Williams
+Email: kenneth.williams9360@work.org
+Phone: +1 209-758-6516
+SSN: 974073945
+
+Address: 6539 Birch Ln
+San Jose, CO
+
+Date of Birth: 24/07/1964
+
+Amount Due: $5990

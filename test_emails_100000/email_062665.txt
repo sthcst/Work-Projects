@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Morris,cynthia.morris2270@business.net,609-780-8890,652 78 8835,24/07/1975,"6723 Spring Rd",Austin,TX

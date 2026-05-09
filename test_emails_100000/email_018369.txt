@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Davis",
+    "email": "jason.davis8245@outlook.com",
+    "phone": "+1 369-726-8011",
+    "ssn": "814413674",
+    "dob": "7/28/1952",
+    "address": "9053 Sixth Rd",
+    "city": "San Antonio",
+    "state": "MA"
+  }
+}

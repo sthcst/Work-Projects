@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Miller",
+    "email": "katherine.miller7523@outlook.com",
+    "phone": "(884) 299-6751",
+    "ssn": "149-38-8001",
+    "dob": "12-21-1990",
+    "address": "8540 West St",
+    "city": "Boston",
+    "state": "FL"
+  }
+}

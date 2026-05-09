@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Miller",
+    "email": "deborah.miller8451@business.net",
+    "phone": "299-963-4700",
+    "ssn": "783 19 9271",
+    "dob": "02/02/1980",
+    "address": "5928 West Way",
+    "city": "Phoenix",
+    "state": "DC"
+  }
+}

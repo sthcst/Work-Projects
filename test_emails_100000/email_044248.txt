@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Alvarado,megan.alvarado3797@outlook.com,895-440-8227,485-60-6572,09-13-1996,"8474 Birch St",San Diego,DC

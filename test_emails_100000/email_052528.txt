@@ -1,0 +1,9 @@
+contact:
+  name: Steven Dominguez
+  email: steven.dominguez5917@work.org
+  phone: 997 484 2242
+  ssn: 414-70-2816
+  dob: 11/15/1992
+  address: 4815 Third Ave
+  city: Los Angeles
+  state: DC

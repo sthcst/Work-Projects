@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Jones",
+    "email": "joshua.jones4165@gmail.com",
+    "phone": "512-765-7610",
+    "ssn": "414 47 4330",
+    "dob": "05/17/1993",
+    "address": "5568 Cedar St",
+    "city": "Chicago",
+    "state": "MI"
+  }
+}

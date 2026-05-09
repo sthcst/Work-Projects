@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy White",
+    "email": "timothy.white9744@company.com",
+    "phone": "(841) 688-3739",
+    "ssn": "523-76-6342",
+    "dob": "08/14/2004",
+    "address": "9968 South St",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

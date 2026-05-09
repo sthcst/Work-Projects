@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Anderson",
+    "email": "angela.anderson2079@business.net",
+    "phone": "397 616 3422",
+    "ssn": "897293271",
+    "dob": "17/10/1995",
+    "address": "2472 Main Ln",
+    "city": "Denver",
+    "state": "MA"
+  }
+}

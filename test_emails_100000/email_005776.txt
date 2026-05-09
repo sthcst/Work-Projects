@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Garcia,michael.garcia5651@work.org,+1 369-436-3091,082821192,10/12/1992,"1745 Cedar Rd",Philadelphia,FL

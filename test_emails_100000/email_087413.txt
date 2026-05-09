@@ -1,0 +1,9 @@
+contact:
+  name: James Gomez
+  email: james.gomez1939@mail.com
+  phone: 681-715-2783
+  ssn: 759828721
+  dob: 11/3/1989
+  address: 8327 Fourth Rd
+  city: San Antonio
+  state: NY

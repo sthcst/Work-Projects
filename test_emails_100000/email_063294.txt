@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Alvarado,jane.alvarado5693@gmail.com,566-530-5919,964 96 9830,1/23/1963,"5103 East Way",Phoenix,FL

@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Parker
+  email: ryan.parker7936@example.com
+  phone: 540-838-3642
+  ssn: 103053401
+  dob: 12-26-1986
+  address: 9930 Park Dr
+  city: New York
+  state: TN

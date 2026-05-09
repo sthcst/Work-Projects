@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Sanchez,nicholas.sanchez8829@work.org,934-586-5006,651335461,06/26/1964,"1944 Fifth Way",Jacksonville,MA

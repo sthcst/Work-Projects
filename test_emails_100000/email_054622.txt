@@ -1,0 +1,9 @@
+contact:
+  name: William Rogers
+  email: william.rogers50@outlook.com
+  phone: 544 640 4228
+  ssn: 081-24-8176
+  dob: 07-01-1971
+  address: 6433 Spring Blvd
+  city: Dallas
+  state: WA

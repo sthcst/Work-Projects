@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Perez,angela.perez6579@gmail.com,(378) 315-7937,586951410,12-17-1979,"4537 Third St",Phoenix,MO

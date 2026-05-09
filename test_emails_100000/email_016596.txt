@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Carter
+  email: rachel.carter7481@yahoo.com
+  phone: 716-302-5942
+  ssn: 043-25-6291
+  dob: 06/09/2003
+  address: 5784 Main Ave
+  city: Seattle
+  state: CA

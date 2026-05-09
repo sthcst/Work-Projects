@@ -1,0 +1,14 @@
+INVOICE 890292
+
+Bill To:
+Name: Michael Dominguez
+Email: michael.dominguez10@example.com
+Phone: 692 653 3445
+SSN: 909 03 4602
+
+Address: 4963 First Dr
+San Jose, TN
+
+Date of Birth: 05-23-1981
+
+Amount Due: $1098

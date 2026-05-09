@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Harris",
+    "email": "helen.harris8215@example.com",
+    "phone": "(539) 516-1606",
+    "ssn": "362-45-2279",
+    "dob": "03-25-1952",
+    "address": "136 Third St",
+    "city": "New York",
+    "state": "DC"
+  }
+}

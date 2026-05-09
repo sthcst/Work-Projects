@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Ramirez,daniel.ramirez9607@mail.com,(209) 858-5992,319-08-9602,10-26-1964,"6650 Park Ave",Washington,FL

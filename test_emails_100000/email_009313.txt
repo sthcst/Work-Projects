@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Williams
+  email: amanda.williams6418@work.org
+  phone: (276) 276-2972
+  ssn: 538-09-3097
+  dob: 12/12/1991
+  address: 7167 South Court
+  city: Phoenix
+  state: TN

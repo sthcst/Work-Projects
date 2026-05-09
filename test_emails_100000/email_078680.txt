@@ -1,0 +1,14 @@
+INVOICE 668525
+
+Bill To:
+Name: Megan Jackson
+Email: megan.jackson4064@example.com
+Phone: (559) 641-3715
+SSN: 074-28-9773
+
+Address: 8177 East Blvd
+Boston, TX
+
+Date of Birth: 20/09/1959
+
+Amount Due: $7920

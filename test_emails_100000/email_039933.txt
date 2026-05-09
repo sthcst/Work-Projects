@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Lewis",
+    "email": "gary.lewis7973@gmail.com",
+    "phone": "322 690 3581",
+    "ssn": "348 18 5967",
+    "dob": "09-15-1995",
+    "address": "4877 Cedar Ave",
+    "city": "Phoenix",
+    "state": "CO"
+  }
+}

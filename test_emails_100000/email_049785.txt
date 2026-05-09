@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Sanchez
+  email: rachel.sanchez8782@mail.com
+  phone: 951 722 2141
+  ssn: 321 83 9349
+  dob: 09/02/1965
+  address: 9235 Spring Way
+  city: Chicago
+  state: TX

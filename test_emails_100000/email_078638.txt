@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Jackson",
+    "email": "david.jackson3501@work.org",
+    "phone": "252-584-2270",
+    "ssn": "499469023",
+    "dob": "2/22/1980",
+    "address": "6647 Oak Court",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

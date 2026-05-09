@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Young",
+    "email": "christine.young3108@outlook.com",
+    "phone": "(969) 352-4693",
+    "ssn": "521-55-6683",
+    "dob": "11-15-1957",
+    "address": "4485 Maple Court",
+    "city": "San Antonio",
+    "state": "AZ"
+  }
+}

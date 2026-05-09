@@ -1,0 +1,14 @@
+INVOICE 550744
+
+Bill To:
+Name: Daniel Davis
+Email: daniel.davis5338@mail.com
+Phone: 719 885 8704
+SSN: 171 12 8035
+
+Address: 5163 Fifth Dr
+Austin, TX
+
+Date of Birth: 12-11-1955
+
+Amount Due: $6048

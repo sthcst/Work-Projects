@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Perez,anna.perez709@company.com,+1 534-577-4759,925332087,06/04/1983,"8222 North Way",San Antonio,OH

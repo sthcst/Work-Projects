@@ -1,0 +1,14 @@
+INVOICE 597496
+
+Bill To:
+Name: Andrew Robinson
+Email: andrew.robinson8530@example.com
+Phone: 468 786 6333
+SSN: 354-87-7017
+
+Address: 920 Summer Way
+Seattle, DC
+
+Date of Birth: 08/02/1967
+
+Amount Due: $1711

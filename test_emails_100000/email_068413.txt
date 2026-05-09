@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Edwards,steven.edwards7403@example.com,614 595 3128,545-84-8714,15/04/1980,"646 Pine Rd",Boston,MA

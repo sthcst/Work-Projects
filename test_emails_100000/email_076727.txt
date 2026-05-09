@@ -1,0 +1,14 @@
+INVOICE 254990
+
+Bill To:
+Name: Pamela Cooper
+Email: pamela.cooper1088@outlook.com
+Phone: (237) 767-3427
+SSN: 692578145
+
+Address: 266 Oak Ln
+Washington, GA
+
+Date of Birth: 8/6/1988
+
+Amount Due: $1081

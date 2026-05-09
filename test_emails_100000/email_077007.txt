@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Gonzalez
+  email: ronald.gonzalez1954@mail.com
+  phone: 232 265 2506
+  ssn: 505 63 7337
+  dob: 10-28-1999
+  address: 6649 Spring Rd
+  city: San Antonio
+  state: OH

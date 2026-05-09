@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Edwards",
+    "email": "michelle.edwards3940@yahoo.com",
+    "phone": "245-694-6126",
+    "ssn": "496392308",
+    "dob": "08/26/2000",
+    "address": "8632 Fifth St",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Garcia",
+    "email": "anna.garcia8372@example.com",
+    "phone": "807 213 8424",
+    "ssn": "256323260",
+    "dob": "10-28-1982",
+    "address": "8356 Second Rd",
+    "city": "Phoenix",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Thomas,ashley.thomas4308@yahoo.com,(238) 200-7945,683-73-9313,09/10/1999,"3206 South Rd",Philadelphia,CA

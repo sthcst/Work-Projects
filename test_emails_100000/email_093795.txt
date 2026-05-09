@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Delgado
+  email: rachel.delgado4631@gmail.com
+  phone: (910) 523-4022
+  ssn: 004 11 7849
+  dob: 02/05/1951
+  address: 9633 Park Ave
+  city: San Jose
+  state: CA

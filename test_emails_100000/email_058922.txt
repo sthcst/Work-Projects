@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Jimenez",
+    "email": "mark.jimenez4489@outlook.com",
+    "phone": "+1 431-234-1866",
+    "ssn": "217-56-3354",
+    "dob": "12/07/1979",
+    "address": "9291 Summer Rd",
+    "city": "San Diego",
+    "state": "NC"
+  }
+}

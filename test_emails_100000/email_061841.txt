@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Gonzalez
+  email: katherine.gonzalez8015@business.net
+  phone: +1 315-793-1632
+  ssn: 710-24-6252
+  dob: 10-25-1953
+  address: 1885 East Ave
+  city: Los Angeles
+  state: MD

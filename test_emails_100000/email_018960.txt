@@ -1,0 +1,9 @@
+contact:
+  name: Angela Miller
+  email: angela.miller9430@yahoo.com
+  phone: 737-785-1129
+  ssn: 853 74 8576
+  dob: 12-16-1958
+  address: 4075 Main Ave
+  city: San Diego
+  state: VA

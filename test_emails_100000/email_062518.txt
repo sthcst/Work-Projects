@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Carter",
+    "email": "shirley.carter2419@example.com",
+    "phone": "757 970 3862",
+    "ssn": "403 57 5348",
+    "dob": "03/03/1999",
+    "address": "2332 North Dr",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

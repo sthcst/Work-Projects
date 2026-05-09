@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Stewart",
+    "email": "jennifer.stewart4895@work.org",
+    "phone": "522-280-8675",
+    "ssn": "488891129",
+    "dob": "11/01/1973",
+    "address": "9299 Pine Ln",
+    "city": "Houston",
+    "state": "WI"
+  }
+}

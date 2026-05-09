@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Sanchez
+  email: kenneth.sanchez9143@yahoo.com
+  phone: (665) 987-4713
+  ssn: 112-41-7583
+  dob: 01/08/2005
+  address: 7527 Main Dr
+  city: Denver
+  state: TN

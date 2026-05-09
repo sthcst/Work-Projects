@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Morris",
+    "email": "nicole.morris4710@outlook.com",
+    "phone": "330-511-7817",
+    "ssn": "652 03 4017",
+    "dob": "09-25-1979",
+    "address": "2509 Fifth Rd",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

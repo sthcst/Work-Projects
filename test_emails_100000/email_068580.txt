@@ -1,0 +1,14 @@
+INVOICE 543908
+
+Bill To:
+Name: Richard Robinson
+Email: richard.robinson7854@mail.com
+Phone: +1 462-744-8692
+SSN: 271711356
+
+Address: 4665 West Blvd
+Chicago, NY
+
+Date of Birth: 5/2/1965
+
+Amount Due: $4682

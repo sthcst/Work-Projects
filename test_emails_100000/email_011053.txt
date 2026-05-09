@@ -1,0 +1,9 @@
+contact:
+  name: William Rodriguez
+  email: william.rodriguez8681@business.net
+  phone: 265 494 2792
+  ssn: 870-58-5246
+  dob: 04/05/1977
+  address: 2639 Sixth Ln
+  city: San Antonio
+  state: AZ

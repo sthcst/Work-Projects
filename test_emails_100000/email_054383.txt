@@ -1,0 +1,12 @@
+SUPPORT TICKET #91638
+
+Customer: Gary Anderson
+Email: gary.anderson2377@example.com
+Phone: 489-746-2823
+Account: 653-57-8983
+
+Issue Description: Technical problem reported
+DOB on file: 12-22-1957
+Address: 7348 Pine Blvd, Boston, TX
+
+Status: OPEN

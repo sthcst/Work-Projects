@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Alvarado",
+    "email": "michelle.alvarado6748@business.net",
+    "phone": "(252) 520-5596",
+    "ssn": "033-04-9685",
+    "dob": "08/14/1978",
+    "address": "845 First Dr",
+    "city": "Seattle",
+    "state": "MA"
+  }
+}

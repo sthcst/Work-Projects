@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Stewart",
+    "email": "katherine.stewart8641@work.org",
+    "phone": "(747) 564-4222",
+    "ssn": "599-19-7235",
+    "dob": "06-01-1961",
+    "address": "6743 Park Court",
+    "city": "San Diego",
+    "state": "OH"
+  }
+}

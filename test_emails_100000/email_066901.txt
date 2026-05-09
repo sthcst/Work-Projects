@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Davis",
+    "email": "james.davis9428@yahoo.com",
+    "phone": "545 274 3792",
+    "ssn": "868-60-1078",
+    "dob": "3/7/1962",
+    "address": "9214 North Ln",
+    "city": "Los Angeles",
+    "state": "IL"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 655448
+
+Bill To:
+Name: George Lewis
+Email: george.lewis1746@yahoo.com
+Phone: 701-994-2060
+SSN: 251132387
+
+Address: 234 Elm Rd
+Denver, CA
+
+Date of Birth: 3/9/1955
+
+Amount Due: $6536

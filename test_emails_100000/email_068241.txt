@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Flores,helen.flores4168@yahoo.com,887 417 5980,122 95 9756,17/06/1992,"1562 West Ln",Jacksonville,IL

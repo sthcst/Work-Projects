@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Serrano,cynthia.serrano979@work.org,323 428 7287,675936725,3/18/1985,"3504 Oak St",Washington,WI

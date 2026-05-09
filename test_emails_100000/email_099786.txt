@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Walker
+  email: pamela.walker6390@example.com
+  phone: +1 785-223-4627
+  ssn: 367-49-5882
+  dob: 10-11-1985
+  address: 8225 Birch Ln
+  city: Austin
+  state: TX

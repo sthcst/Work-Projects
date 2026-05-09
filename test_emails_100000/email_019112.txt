@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Garcia",
+    "email": "william.garcia4998@gmail.com",
+    "phone": "+1 311-691-5148",
+    "ssn": "827 72 8683",
+    "dob": "03/12/1997",
+    "address": "7652 Second Rd",
+    "city": "Boston",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Jackson,jason.jackson1016@yahoo.com,256 616 5102,596-96-4018,01/13/1986,"9061 East St",Dallas,IL

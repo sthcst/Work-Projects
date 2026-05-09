@@ -1,0 +1,14 @@
+INVOICE 743012
+
+Bill To:
+Name: Shirley Sanchez
+Email: shirley.sanchez9448@company.com
+Phone: 237 730 4592
+SSN: 378-35-5575
+
+Address: 9260 Fourth Ave
+Philadelphia, NY
+
+Date of Birth: 11-21-1980
+
+Amount Due: $3313

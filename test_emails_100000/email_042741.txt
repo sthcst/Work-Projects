@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Nelson",
+    "email": "pamela.nelson1667@gmail.com",
+    "phone": "203-944-7946",
+    "ssn": "040-43-7361",
+    "dob": "11/18/1959",
+    "address": "2204 Fifth Court",
+    "city": "New York",
+    "state": "TX"
+  }
+}

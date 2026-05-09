@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Hall",
+    "email": "anthony.hall8880@example.com",
+    "phone": "768-879-7934",
+    "ssn": "679676556",
+    "dob": "11-09-1964",
+    "address": "2348 Main Rd",
+    "city": "Denver",
+    "state": "MD"
+  }
+}

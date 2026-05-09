@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Gonzalez",
+    "email": "ashley.gonzalez1937@business.net",
+    "phone": "543 237 9221",
+    "ssn": "051-10-6709",
+    "dob": "11-01-1997",
+    "address": "5433 Sixth St",
+    "city": "Houston",
+    "state": "PA"
+  }
+}

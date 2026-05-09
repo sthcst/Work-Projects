@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Reed",
+    "email": "nicole.reed5607@gmail.com",
+    "phone": "593 446 7737",
+    "ssn": "112839144",
+    "dob": "11-16-1967",
+    "address": "2805 Maple Way",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

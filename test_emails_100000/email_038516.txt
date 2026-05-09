@@ -1,0 +1,14 @@
+INVOICE 642315
+
+Bill To:
+Name: Matthew Davis
+Email: matthew.davis6300@mail.com
+Phone: (432) 383-2913
+SSN: 191641471
+
+Address: 7722 Main Ln
+Seattle, FL
+
+Date of Birth: 10-23-2003
+
+Amount Due: $345

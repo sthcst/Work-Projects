@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Reeves,stephanie.reeves4336@work.org,(296) 215-9139,567535391,02/10/1981,"4005 Second Rd",San Diego,TX

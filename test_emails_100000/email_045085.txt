@@ -1,0 +1,9 @@
+contact:
+  name: Maria Reed
+  email: maria.reed9140@gmail.com
+  phone: 281-984-2187
+  ssn: 702-19-9204
+  dob: 12-09-1982
+  address: 8920 Fourth Dr
+  city: Austin
+  state: WA

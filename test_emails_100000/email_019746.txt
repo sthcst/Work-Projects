@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Gonzalez",
+    "email": "paul.gonzalez8282@example.com",
+    "phone": "493 921 7581",
+    "ssn": "152341261",
+    "dob": "03/09/1967",
+    "address": "3497 East Dr",
+    "city": "Houston",
+    "state": "MA"
+  }
+}

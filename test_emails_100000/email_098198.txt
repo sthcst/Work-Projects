@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Jackson,samantha.jackson1717@work.org,900 940 7381,475-49-2301,03-09-1968,"1263 East St",San Antonio,GA

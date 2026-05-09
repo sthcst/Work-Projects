@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Delgado,joshua.delgado428@gmail.com,(540) 970-9542,390-88-2954,03/28/2000,"9403 First Ave",San Jose,CA

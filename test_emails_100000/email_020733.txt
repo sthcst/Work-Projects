@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Martin",
+    "email": "emily.martin7146@work.org",
+    "phone": "346-597-6685",
+    "ssn": "803025513",
+    "dob": "09/05/1972",
+    "address": "3289 East Ave",
+    "city": "Chicago",
+    "state": "CO"
+  }
+}

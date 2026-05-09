@@ -1,0 +1,14 @@
+INVOICE 158974
+
+Bill To:
+Name: Jane Gonzalez
+Email: jane.gonzalez459@yahoo.com
+Phone: (752) 991-1624
+SSN: 762316667
+
+Address: 4969 Maple Ln
+Phoenix, TN
+
+Date of Birth: 12/04/1952
+
+Amount Due: $9696

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Gomez,kevin.gomez5384@yahoo.com,+1 371-615-8365,313696654,2/14/1968,"8513 Spring Way",New York,MA

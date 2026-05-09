@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Jones
+  email: ronald.jones1796@example.com
+  phone: 541 903 8720
+  ssn: 573 40 6208
+  dob: 19/10/1988
+  address: 3142 Fourth Way
+  city: Dallas
+  state: TX

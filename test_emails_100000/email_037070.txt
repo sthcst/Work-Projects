@@ -1,0 +1,14 @@
+INVOICE 190476
+
+Bill To:
+Name: Katherine Romero
+Email: katherine.romero2503@mail.com
+Phone: +1 895-944-6566
+SSN: 327136882
+
+Address: 8622 Fifth Blvd
+Houston, TN
+
+Date of Birth: 05/05/1954
+
+Amount Due: $4731

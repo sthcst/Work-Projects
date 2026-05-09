@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Guerrero,timothy.guerrero1136@business.net,+1 705-696-2619,013796927,8/3/1965,"118 First Way",Los Angeles,NY

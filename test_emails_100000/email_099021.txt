@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Sanchez,andrew.sanchez8014@work.org,307 595 7133,405 32 8235,05/06/1994,"7560 Cedar Blvd",Los Angeles,TX

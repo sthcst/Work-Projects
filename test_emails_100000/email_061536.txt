@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Reyes,kathleen.reyes638@example.com,(587) 336-5888,857699567,11-05-1974,"1133 Oak Way",Boston,CA

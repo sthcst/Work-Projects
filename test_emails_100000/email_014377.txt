@@ -1,0 +1,14 @@
+INVOICE 133179
+
+Bill To:
+Name: Samantha Taylor
+Email: samantha.taylor7011@mail.com
+Phone: 574-430-7913
+SSN: 057088486
+
+Address: 9936 Elm Court
+San Diego, CA
+
+Date of Birth: 04/12/1975
+
+Amount Due: $1252

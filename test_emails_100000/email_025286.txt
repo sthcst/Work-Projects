@@ -1,0 +1,14 @@
+INVOICE 999570
+
+Bill To:
+Name: Jane Peterson
+Email: jane.peterson4039@business.net
+Phone: 430-302-8777
+SSN: 351 16 8273
+
+Address: 4993 Maple St
+Boston, CA
+
+Date of Birth: 07/07/1973
+
+Amount Due: $3176

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Gomez",
+    "email": "ashley.gomez578@business.net",
+    "phone": "264-674-9449",
+    "ssn": "814762861",
+    "dob": "8/3/1996",
+    "address": "4468 Fourth Way",
+    "city": "New York",
+    "state": "TX"
+  }
+}

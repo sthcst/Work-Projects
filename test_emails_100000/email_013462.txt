@@ -1,0 +1,9 @@
+contact:
+  name: David Ramirez
+  email: david.ramirez6138@example.com
+  phone: 219 982 7644
+  ssn: 780-36-5930
+  dob: 10-09-1961
+  address: 1519 Third Ave
+  city: Jacksonville
+  state: CA

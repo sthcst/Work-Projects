@@ -1,0 +1,9 @@
+contact:
+  name: Michael Gonzalez
+  email: michael.gonzalez3045@business.net
+  phone: +1 207-704-1155
+  ssn: 237 67 9111
+  dob: 2/23/1959
+  address: 4667 Summer Dr
+  city: Washington
+  state: MA

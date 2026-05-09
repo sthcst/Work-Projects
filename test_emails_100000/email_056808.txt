@@ -1,0 +1,14 @@
+INVOICE 347083
+
+Bill To:
+Name: Mark Davis
+Email: mark.davis7260@yahoo.com
+Phone: 260-244-9240
+SSN: 761633290
+
+Address: 1357 Birch Ave
+Houston, MO
+
+Date of Birth: 19/03/1974
+
+Amount Due: $6550

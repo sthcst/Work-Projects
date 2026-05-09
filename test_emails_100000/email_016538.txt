@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Clark",
+    "email": "kathleen.clark5682@mail.com",
+    "phone": "515-563-1654",
+    "ssn": "693962121",
+    "dob": "03/24/1953",
+    "address": "5610 Elm Blvd",
+    "city": "New York",
+    "state": "VA"
+  }
+}

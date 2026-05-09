@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Bell,jacob.bell3524@outlook.com,447 451 8740,374-23-7786,8/10/1991,"3723 Birch Rd",San Diego,WA

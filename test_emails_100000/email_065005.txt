@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Rodriguez
+  email: jeffrey.rodriguez1035@business.net
+  phone: 821-516-2368
+  ssn: 035-45-8525
+  dob: 02-23-2000
+  address: 8279 Cedar St
+  city: New York
+  state: AZ

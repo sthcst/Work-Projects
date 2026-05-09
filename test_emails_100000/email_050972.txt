@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Evans",
+    "email": "megan.evans163@example.com",
+    "phone": "501 310 4065",
+    "ssn": "689-07-3557",
+    "dob": "11/7/1992",
+    "address": "9747 South Dr",
+    "city": "Los Angeles",
+    "state": "OH"
+  }
+}

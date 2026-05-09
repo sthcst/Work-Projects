@@ -1,0 +1,12 @@
+SUPPORT TICKET #59000
+
+Customer: Brenda Harris
+Email: brenda.harris4447@example.com
+Phone: 464 600 4178
+Account: 023-86-4586
+
+Issue Description: Technical problem reported
+DOB on file: 07-24-1980
+Address: 2420 Park Rd, Philadelphia, AZ
+
+Status: OPEN

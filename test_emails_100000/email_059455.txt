@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Davis,emma.davis95@business.net,408 420 1761,730233277,6/8/1960,"2251 Maple Ln",New York,AZ

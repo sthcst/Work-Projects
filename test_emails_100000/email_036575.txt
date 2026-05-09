@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Thompson",
+    "email": "kevin.thompson2968@yahoo.com",
+    "phone": "249-961-1106",
+    "ssn": "014-78-5747",
+    "dob": "02/04/1971",
+    "address": "6717 Maple Dr",
+    "city": "Phoenix",
+    "state": "MI"
+  }
+}

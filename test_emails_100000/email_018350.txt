@@ -1,0 +1,9 @@
+contact:
+  name: Edward Reyes
+  email: edward.reyes5324@mail.com
+  phone: 462 949 3259
+  ssn: 564438775
+  dob: 19/11/1981
+  address: 8038 Sixth Ln
+  city: San Antonio
+  state: TX

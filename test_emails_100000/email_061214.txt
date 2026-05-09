@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Reyes,ashley.reyes1760@mail.com,242-801-3583,439825688,26/03/1999,"4346 Spring Court",Boston,AZ

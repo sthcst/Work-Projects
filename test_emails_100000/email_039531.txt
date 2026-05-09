@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Alvarado,angela.alvarado8294@company.com,(289) 651-3237,279-08-2245,21/09/1961,"1567 Summer St",Houston,MD

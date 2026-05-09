@@ -1,0 +1,9 @@
+contact:
+  name: Brian Edwards
+  email: brian.edwards3148@example.com
+  phone: 671-512-3709
+  ssn: 652102248
+  dob: 08/01/2001
+  address: 7159 East St
+  city: Denver
+  state: FL

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Evans,lauren.evans6847@yahoo.com,(777) 300-9591,094-65-2792,02-01-1975,"7595 Cedar St",Chicago,OH

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Campbell",
+    "email": "anna.campbell886@example.com",
+    "phone": "(593) 956-6745",
+    "ssn": "604 22 6629",
+    "dob": "12/16/1983",
+    "address": "8391 First Court",
+    "city": "San Antonio",
+    "state": "MO"
+  }
+}

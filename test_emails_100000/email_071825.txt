@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Stewart",
+    "email": "steven.stewart8665@outlook.com",
+    "phone": "(770) 967-9998",
+    "ssn": "767101147",
+    "dob": "08-13-2001",
+    "address": "7074 Main St",
+    "city": "Boston",
+    "state": "PA"
+  }
+}

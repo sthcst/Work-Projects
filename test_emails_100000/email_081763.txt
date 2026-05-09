@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Lee,nicholas.lee8634@example.com,416 975 5556,078 91 3077,27/08/1986,"615 Summer Court",Dallas,DC

@@ -1,0 +1,14 @@
+INVOICE 242675
+
+Bill To:
+Name: Emily Thompson
+Email: emily.thompson2315@example.com
+Phone: 330 560 5058
+SSN: 434945715
+
+Address: 8808 Third St
+Los Angeles, CA
+
+Date of Birth: 11/28/1997
+
+Amount Due: $6080

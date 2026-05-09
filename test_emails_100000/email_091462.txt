@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Guerrero,kenneth.guerrero1692@mail.com,928-819-7794,687 47 5882,01/18/1951,"6629 Maple Ln",San Diego,MO

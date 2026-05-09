@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Sanchez,steven.sanchez2552@yahoo.com,+1 687-733-4866,884-93-1586,08-11-1952,"48 Pine St",San Diego,WA

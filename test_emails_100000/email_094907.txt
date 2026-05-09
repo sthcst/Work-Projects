@@ -1,0 +1,9 @@
+contact:
+  name: Jane Reeves
+  email: jane.reeves2051@outlook.com
+  phone: +1 563-752-4730
+  ssn: 423-26-3053
+  dob: 02/24/1957
+  address: 3140 Elm Court
+  city: Philadelphia
+  state: WA

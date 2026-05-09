@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Johnson,brian.johnson5340@outlook.com,(689) 400-8747,281 50 9932,1/4/1995,"9514 Third Court",Austin,NC

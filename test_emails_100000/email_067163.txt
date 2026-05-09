@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Johnson,katherine.johnson490@company.com,+1 382-595-5090,734-43-9848,2/6/1965,"657 Second Ln",Boston,CA

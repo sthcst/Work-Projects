@@ -1,0 +1,9 @@
+contact:
+  name: Donald Lopez
+  email: donald.lopez5267@company.com
+  phone: 770-538-9671
+  ssn: 266-86-2257
+  dob: 12/09/1953
+  address: 4501 Third Rd
+  city: Los Angeles
+  state: MA

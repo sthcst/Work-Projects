@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Reyes,jane.reyes70@yahoo.com,+1 235-821-4204,253 90 8642,03-25-1976,"1371 Oak Ln",Denver,WA

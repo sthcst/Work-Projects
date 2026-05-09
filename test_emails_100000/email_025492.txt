@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Jackson",
+    "email": "jason.jackson3764@company.com",
+    "phone": "227-662-7066",
+    "ssn": "419-53-7825",
+    "dob": "08-26-1977",
+    "address": "7364 Cedar Dr",
+    "city": "San Diego",
+    "state": "WA"
+  }
+}

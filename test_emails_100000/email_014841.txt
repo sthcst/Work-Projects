@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Roberts,rachel.roberts3325@yahoo.com,(767) 491-7133,622 43 7272,7/27/1982,"3174 Fourth Court",Seattle,MI

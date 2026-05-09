@@ -1,0 +1,14 @@
+INVOICE 945878
+
+Bill To:
+Name: Joshua Jones
+Email: joshua.jones3592@gmail.com
+Phone: (426) 205-3120
+SSN: 578317465
+
+Address: 9014 Fourth Rd
+Austin, CA
+
+Date of Birth: 27/08/1989
+
+Amount Due: $2753

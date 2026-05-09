@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Sanchez,brian.sanchez1072@gmail.com,816-837-5992,890 63 3903,24/05/1958,"3469 Main Dr",Phoenix,TX

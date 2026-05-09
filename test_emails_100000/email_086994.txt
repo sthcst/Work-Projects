@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Smith
+  email: rachel.smith8831@business.net
+  phone: 292 274 6376
+  ssn: 624-81-7549
+  dob: 3/17/1971
+  address: 8197 Elm Rd
+  city: Houston
+  state: CO

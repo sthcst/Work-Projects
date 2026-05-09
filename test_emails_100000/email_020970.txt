@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Thompson
+  email: katherine.thompson1436@company.com
+  phone: (223) 439-6510
+  ssn: 875 94 5223
+  dob: 5/15/1957
+  address: 5042 Sixth Dr
+  city: Phoenix
+  state: NJ

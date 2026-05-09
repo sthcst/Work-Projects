@@ -1,0 +1,9 @@
+contact:
+  name: Mark Moore
+  email: mark.moore8431@yahoo.com
+  phone: 288-367-5886
+  ssn: 418 37 6522
+  dob: 06/27/1985
+  address: 5236 West St
+  city: Jacksonville
+  state: NY

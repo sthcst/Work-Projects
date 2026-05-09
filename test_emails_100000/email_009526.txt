@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Taylor",
+    "email": "angela.taylor2842@work.org",
+    "phone": "(235) 649-6582",
+    "ssn": "335-93-5604",
+    "dob": "12/10/1950",
+    "address": "4463 Pine St",
+    "city": "Phoenix",
+    "state": "WA"
+  }
+}

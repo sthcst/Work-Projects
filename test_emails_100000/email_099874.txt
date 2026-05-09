@@ -1,0 +1,14 @@
+INVOICE 267222
+
+Bill To:
+Name: Charles Parker
+Email: charles.parker1249@mail.com
+Phone: (282) 347-6819
+SSN: 184-64-8425
+
+Address: 1978 Cedar Blvd
+New York, WA
+
+Date of Birth: 7/10/1981
+
+Amount Due: $8637

@@ -1,0 +1,9 @@
+contact:
+  name: William Perez
+  email: william.perez1115@yahoo.com
+  phone: (955) 263-9277
+  ssn: 902-54-7114
+  dob: 18/10/1994
+  address: 3300 Park Blvd
+  city: Houston
+  state: CA

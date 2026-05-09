@@ -1,0 +1,9 @@
+contact:
+  name: Charles Gomez
+  email: charles.gomez1144@outlook.com
+  phone: 752-218-4385
+  ssn: 087054069
+  dob: 10/03/1991
+  address: 4322 Elm Ln
+  city: Austin
+  state: WI

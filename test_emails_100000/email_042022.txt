@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah White,deborah.white3733@mail.com,775-756-5744,939271349,02/02/1994,"4313 First Ln",Seattle,PA

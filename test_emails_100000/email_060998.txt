@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Ramirez
+  email: kenneth.ramirez9310@business.net
+  phone: +1 226-279-2814
+  ssn: 388 03 8682
+  dob: 05-15-1998
+  address: 4784 Main Way
+  city: New York
+  state: GA

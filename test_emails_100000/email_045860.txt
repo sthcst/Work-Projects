@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Serrano,jessica.serrano1534@example.com,682-675-7313,778481014,13/03/1999,"1594 Park Blvd",Los Angeles,FL

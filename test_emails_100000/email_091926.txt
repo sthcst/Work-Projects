@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Phillips
+  email: nicole.phillips2100@gmail.com
+  phone: 495 585 5262
+  ssn: 874 29 9440
+  dob: 10-10-1981
+  address: 9884 Spring Rd
+  city: Jacksonville
+  state: IL

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Matthew Perez,matthew.perez1834@company.com,482-846-9270,032-92-9148,03-07-2004,"1239 Oak St",New York,IL

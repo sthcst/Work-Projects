@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Campbell
+  email: amanda.campbell6600@business.net
+  phone: (517) 835-9621
+  ssn: 727-57-5564
+  dob: 09-24-1969
+  address: 2188 Third Way
+  city: Denver
+  state: DC

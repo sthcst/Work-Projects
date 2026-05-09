@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Romero,brenda.romero664@company.com,+1 982-782-6427,226109575,09-20-1985,"7485 Fourth Court",San Antonio,IL

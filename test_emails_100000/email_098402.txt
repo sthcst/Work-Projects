@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Martin
+  email: shirley.martin6618@outlook.com
+  phone: (898) 339-2473
+  ssn: 132 89 2894
+  dob: 14/11/1956
+  address: 1374 West Ave
+  city: Phoenix
+  state: MA

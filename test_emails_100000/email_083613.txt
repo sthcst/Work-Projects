@@ -1,0 +1,14 @@
+INVOICE 351233
+
+Bill To:
+Name: Kevin Garcia
+Email: kevin.garcia9525@yahoo.com
+Phone: 931 535 9354
+SSN: 664619731
+
+Address: 3974 East Ave
+Seattle, MO
+
+Date of Birth: 07-10-1966
+
+Amount Due: $725

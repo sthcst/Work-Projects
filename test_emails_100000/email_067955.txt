@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Phillips",
+    "email": "cynthia.phillips1028@mail.com",
+    "phone": "(896) 318-3618",
+    "ssn": "854-81-4161",
+    "dob": "1/22/2004",
+    "address": "5757 West Way",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

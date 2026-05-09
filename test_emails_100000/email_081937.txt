@@ -1,0 +1,9 @@
+contact:
+  name: Maria Bell
+  email: maria.bell3985@work.org
+  phone: +1 696-264-1859
+  ssn: 840784651
+  dob: 11/18/1972
+  address: 5583 Oak Blvd
+  city: Philadelphia
+  state: NY

@@ -1,0 +1,14 @@
+INVOICE 224249
+
+Bill To:
+Name: Kenneth Gonzalez
+Email: kenneth.gonzalez3382@mail.com
+Phone: +1 639-567-1209
+SSN: 830224070
+
+Address: 2817 South Blvd
+Los Angeles, TX
+
+Date of Birth: 01/10/1981
+
+Amount Due: $2794

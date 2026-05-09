@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Ortiz,sarah.ortiz2951@work.org,(978) 902-4583,816413782,03/01/1953,"7487 South Rd",Phoenix,GA

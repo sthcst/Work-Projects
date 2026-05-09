@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Young",
+    "email": "brenda.young1967@work.org",
+    "phone": "(707) 742-8535",
+    "ssn": "593-56-7701",
+    "dob": "11-22-1990",
+    "address": "8911 Fourth Way",
+    "city": "New York",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Cooper,shirley.cooper8782@outlook.com,(264) 478-7252,360673168,11/13/1965,"8855 Second Ln",Seattle,VA

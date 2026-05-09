@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Reed
+  email: anthony.reed8767@company.com
+  phone: +1 954-737-1140
+  ssn: 691-28-8407
+  dob: 03/08/1985
+  address: 5284 Fourth St
+  city: Seattle
+  state: CA

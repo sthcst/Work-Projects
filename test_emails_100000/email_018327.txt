@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Serrano,brian.serrano7188@mail.com,511 886 6928,272-99-9056,4/10/1983,"8526 Spring Blvd",San Diego,TX

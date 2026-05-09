@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Jimenez
+  email: lauren.jimenez4906@business.net
+  phone: 598 754 6066
+  ssn: 645-56-9046
+  dob: 20/12/1968
+  address: 1708 Summer Ln
+  city: Jacksonville
+  state: IL

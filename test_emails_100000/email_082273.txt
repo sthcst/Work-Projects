@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Sanchez",
+    "email": "cynthia.sanchez2764@example.com",
+    "phone": "(482) 867-8498",
+    "ssn": "101-68-9311",
+    "dob": "09/07/1978",
+    "address": "6160 Maple Court",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

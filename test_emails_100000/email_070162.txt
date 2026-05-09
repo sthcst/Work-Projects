@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Hall,edward.hall4188@company.com,+1 775-911-4378,548-05-6720,4/3/1976,"1634 Spring Dr",Denver,NY

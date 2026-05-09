@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Wilson,emma.wilson8904@company.com,391-878-2374,921-89-8761,10/25/1980,"5019 Pine Dr",Seattle,CA

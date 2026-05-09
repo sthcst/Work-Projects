@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Hall",
+    "email": "nicholas.hall9903@business.net",
+    "phone": "641 467 9393",
+    "ssn": "759-78-8914",
+    "dob": "16/10/1962",
+    "address": "6990 Spring Rd",
+    "city": "Jacksonville",
+    "state": "FL"
+  }
+}

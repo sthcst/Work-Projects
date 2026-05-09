@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Delgado,andrew.delgado3224@yahoo.com,487 512 1989,821412566,10-06-1981,"7079 North Rd",Austin,TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Dominguez,angela.dominguez8706@mail.com,264-713-9479,782-04-4080,02/03/1986,"6332 Birch Court",Dallas,AZ

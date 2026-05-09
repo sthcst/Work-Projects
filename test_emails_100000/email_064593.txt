@@ -1,0 +1,9 @@
+contact:
+  name: Anna Ramirez
+  email: anna.ramirez4112@business.net
+  phone: 572 872 7813
+  ssn: 444-04-5168
+  dob: 09/11/1961
+  address: 9881 Oak Ln
+  city: San Antonio
+  state: WA

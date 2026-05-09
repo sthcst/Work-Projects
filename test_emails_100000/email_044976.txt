@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Garcia,sarah.garcia7940@yahoo.com,557 372 4312,105 15 2981,6/5/1985,"904 Spring Blvd",Seattle,CA

@@ -1,0 +1,14 @@
+INVOICE 317000
+
+Bill To:
+Name: Kevin Moore
+Email: kevin.moore8452@mail.com
+Phone: 379-574-9326
+SSN: 545595970
+
+Address: 8589 Oak Ave
+Seattle, TX
+
+Date of Birth: 11/7/1999
+
+Amount Due: $1249

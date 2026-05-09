@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Clark
+  email: jacob.clark2090@work.org
+  phone: 591 212 2743
+  ssn: 178642860
+  dob: 06/20/1972
+  address: 556 North Blvd
+  city: New York
+  state: TX

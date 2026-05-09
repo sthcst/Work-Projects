@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Morris,michael.morris4724@outlook.com,+1 597-707-3304,876-93-4933,04-22-1962,"775 Birch Ave",Philadelphia,AZ

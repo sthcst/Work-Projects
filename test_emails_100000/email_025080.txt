@@ -1,0 +1,9 @@
+contact:
+  name: James Moore
+  email: james.moore4297@company.com
+  phone: +1 395-528-1398
+  ssn: 889 63 3212
+  dob: 03/07/2001
+  address: 5754 Oak Ln
+  city: Chicago
+  state: AZ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Phillips,rachel.phillips9958@business.net,+1 722-989-2576,176926934,01/18/2000,"4066 Sixth Court",Houston,AZ

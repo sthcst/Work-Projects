@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Moore
+  email: nicole.moore7418@work.org
+  phone: 499-268-8954
+  ssn: 262 70 4441
+  dob: 2/10/1950
+  address: 2833 Second Way
+  city: Jacksonville
+  state: VA

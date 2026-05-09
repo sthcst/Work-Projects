@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Hall,angela.hall9622@business.net,(415) 580-3780,730973214,05/02/1953,"118 Oak Dr",Chicago,PA

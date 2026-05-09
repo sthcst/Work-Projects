@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Martinez,megan.martinez9764@yahoo.com,938 523 3454,053 82 3834,05-14-1965,"7272 Main Ave",Phoenix,CO

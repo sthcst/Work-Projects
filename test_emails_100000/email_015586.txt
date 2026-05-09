@@ -1,0 +1,9 @@
+contact:
+  name: John Lee
+  email: john.lee9180@business.net
+  phone: +1 332-703-5301
+  ssn: 898-61-3147
+  dob: 02/03/1995
+  address: 9773 Oak Ave
+  city: Phoenix
+  state: TX

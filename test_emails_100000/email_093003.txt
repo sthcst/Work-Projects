@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Lewis",
+    "email": "timothy.lewis2015@gmail.com",
+    "phone": "+1 486-352-9333",
+    "ssn": "767631019",
+    "dob": "08-13-1982",
+    "address": "5004 South Court",
+    "city": "Phoenix",
+    "state": "MA"
+  }
+}

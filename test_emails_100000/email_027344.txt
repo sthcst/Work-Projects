@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Collins,william.collins5439@business.net,400 254 6068,502915657,11-06-1953,"2104 Sixth Dr",Dallas,NJ

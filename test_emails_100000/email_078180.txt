@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Rogers
+  email: kathleen.rogers3347@gmail.com
+  phone: 995-471-2496
+  ssn: 239 99 1347
+  dob: 07/04/2003
+  address: 7356 Main Ave
+  city: Austin
+  state: MD

@@ -1,0 +1,14 @@
+INVOICE 696786
+
+Bill To:
+Name: Ronald Clark
+Email: ronald.clark8320@company.com
+Phone: 430 510 5281
+SSN: 631 70 4927
+
+Address: 2057 Pine Way
+San Jose, PA
+
+Date of Birth: 09/12/1957
+
+Amount Due: $343

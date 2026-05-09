@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Taylor
+  email: jessica.taylor6006@yahoo.com
+  phone: +1 442-748-5993
+  ssn: 207-09-3447
+  dob: 9/13/1955
+  address: 8583 South Blvd
+  city: Washington
+  state: TX

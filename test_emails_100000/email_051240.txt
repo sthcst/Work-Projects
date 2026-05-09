@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Williams",
+    "email": "amanda.williams7859@yahoo.com",
+    "phone": "+1 554-968-9511",
+    "ssn": "008 19 7239",
+    "dob": "05-21-2005",
+    "address": "4701 South St",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

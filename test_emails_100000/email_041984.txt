@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Bell,samantha.bell1762@work.org,+1 799-816-6149,299 58 8774,23/11/1954,"8393 North Dr",San Jose,TX

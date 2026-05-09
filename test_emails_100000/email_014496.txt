@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard White,richard.white1028@work.org,834 217 2660,647 68 6292,12-22-1962,"4189 Birch Dr",New York,MA

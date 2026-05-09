@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Harris,maria.harris7181@example.com,+1 659-783-1848,515988861,21/01/1957,"2664 West St",New York,TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Williams",
+    "email": "donald.williams8244@yahoo.com",
+    "phone": "678 568 6287",
+    "ssn": "203591334",
+    "dob": "08-16-2002",
+    "address": "4380 South Blvd",
+    "city": "Jacksonville",
+    "state": "WI"
+  }
+}

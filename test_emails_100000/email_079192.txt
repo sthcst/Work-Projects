@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Lopez,cynthia.lopez7628@example.com,+1 617-590-4891,157853347,11/9/1985,"9054 Second Rd",Austin,AZ

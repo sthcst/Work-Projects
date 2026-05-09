@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Rodriguez",
+    "email": "daniel.rodriguez8619@mail.com",
+    "phone": "823-411-8723",
+    "ssn": "373194302",
+    "dob": "3/27/1992",
+    "address": "7731 South Dr",
+    "city": "San Jose",
+    "state": "NJ"
+  }
+}

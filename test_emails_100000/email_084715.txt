@@ -1,0 +1,9 @@
+contact:
+  name: Paul Collins
+  email: paul.collins8892@example.com
+  phone: 608 379 5449
+  ssn: 148 27 8699
+  dob: 3/1/1998
+  address: 4628 Maple Court
+  city: New York
+  state: NJ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Reyes",
+    "email": "maria.reyes5353@company.com",
+    "phone": "(879) 518-3073",
+    "ssn": "859333020",
+    "dob": "05-15-1991",
+    "address": "578 North Court",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

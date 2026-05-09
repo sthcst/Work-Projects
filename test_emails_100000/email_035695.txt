@@ -1,0 +1,14 @@
+INVOICE 421603
+
+Bill To:
+Name: Sarah Smith
+Email: sarah.smith4576@example.com
+Phone: (782) 400-1304
+SSN: 500-99-5709
+
+Address: 6619 Cedar Rd
+Chicago, FL
+
+Date of Birth: 17/07/1991
+
+Amount Due: $3331

@@ -1,0 +1,14 @@
+INVOICE 795610
+
+Bill To:
+Name: Emily Dominguez
+Email: emily.dominguez1642@yahoo.com
+Phone: (623) 449-6623
+SSN: 544-95-8789
+
+Address: 3539 Cedar Blvd
+Chicago, WA
+
+Date of Birth: 09/02/1996
+
+Amount Due: $6667

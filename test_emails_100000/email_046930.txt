@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Guerrero,jeffrey.guerrero1090@outlook.com,+1 334-864-9167,048361628,5/28/1953,"4058 Cedar Way",Houston,NC

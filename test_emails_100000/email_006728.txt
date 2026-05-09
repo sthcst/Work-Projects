@@ -1,0 +1,9 @@
+contact:
+  name: Jason Murillo
+  email: jason.murillo1965@company.com
+  phone: +1 652-973-7004
+  ssn: 355 08 5105
+  dob: 17/09/1989
+  address: 8538 Second Way
+  city: Washington
+  state: VA

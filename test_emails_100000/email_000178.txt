@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Reyes,john.reyes8554@business.net,244 914 9680,440 30 8899,06/19/2001,"6981 Maple Dr",Washington,AZ

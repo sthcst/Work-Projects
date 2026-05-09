@@ -1,0 +1,14 @@
+INVOICE 114462
+
+Bill To:
+Name: Paul Smith
+Email: paul.smith1768@gmail.com
+Phone: 491 567 1253
+SSN: 251 50 1115
+
+Address: 1622 Fourth Rd
+Washington, WA
+
+Date of Birth: 12/26/1965
+
+Amount Due: $4900

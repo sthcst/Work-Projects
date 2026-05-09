@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Brown
+  email: cynthia.brown3412@example.com
+  phone: (619) 585-9675
+  ssn: 555347007
+  dob: 10/11/1952
+  address: 3425 Second Dr
+  city: Boston
+  state: NC

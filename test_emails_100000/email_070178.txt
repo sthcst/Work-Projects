@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Dominguez,jennifer.dominguez5133@gmail.com,973-631-8525,952447430,24/08/1981,"8649 First Court",Phoenix,TX

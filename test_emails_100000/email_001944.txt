@@ -1,0 +1,9 @@
+contact:
+  name: Maria Johnson
+  email: maria.johnson3884@outlook.com
+  phone: 660-653-5572
+  ssn: 578-90-2533
+  dob: 08-14-1978
+  address: 6094 Main St
+  city: Dallas
+  state: TX

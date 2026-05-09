@@ -1,0 +1,14 @@
+INVOICE 547012
+
+Bill To:
+Name: Emily Alvarado
+Email: emily.alvarado1803@company.com
+Phone: 360 864 1894
+SSN: 389-76-4790
+
+Address: 1843 Birch St
+Los Angeles, DC
+
+Date of Birth: 02/06/1964
+
+Amount Due: $9423

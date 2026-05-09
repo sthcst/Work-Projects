@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Lee",
+    "email": "katherine.lee3805@work.org",
+    "phone": "578 326 5195",
+    "ssn": "643384488",
+    "dob": "05-13-2004",
+    "address": "5527 West Ave",
+    "city": "Denver",
+    "state": "CO"
+  }
+}

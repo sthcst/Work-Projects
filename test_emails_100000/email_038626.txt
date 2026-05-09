@@ -1,0 +1,9 @@
+contact:
+  name: John Evans
+  email: john.evans8309@company.com
+  phone: 670 758 6408
+  ssn: 009327034
+  dob: 11-24-2004
+  address: 7852 Spring Rd
+  city: Los Angeles
+  state: OH

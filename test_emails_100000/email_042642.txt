@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Clark,helen.clark2867@work.org,(268) 376-9625,505 58 5294,07-27-1997,"9843 Elm St",Jacksonville,NY

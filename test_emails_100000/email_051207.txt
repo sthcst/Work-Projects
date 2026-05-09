@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Martinez",
+    "email": "katherine.martinez9672@yahoo.com",
+    "phone": "314-532-2334",
+    "ssn": "772-92-6413",
+    "dob": "14/04/1989",
+    "address": "1072 First Way",
+    "city": "Los Angeles",
+    "state": "WA"
+  }
+}

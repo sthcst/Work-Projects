@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Harris",
+    "email": "jason.harris1356@company.com",
+    "phone": "658 713 9976",
+    "ssn": "583-29-2892",
+    "dob": "05/27/1987",
+    "address": "5558 Pine Blvd",
+    "city": "Dallas",
+    "state": "DC"
+  }
+}

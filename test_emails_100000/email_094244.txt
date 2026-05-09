@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Miller
+  email: andrew.miller9532@work.org
+  phone: 996-440-9313
+  ssn: 322 98 9058
+  dob: 22/07/1998
+  address: 2361 North Rd
+  city: New York
+  state: MI

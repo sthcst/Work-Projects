@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Nunez",
+    "email": "jason.nunez4782@work.org",
+    "phone": "552-748-5367",
+    "ssn": "407182178",
+    "dob": "01-06-1968",
+    "address": "7327 Third Court",
+    "city": "New York",
+    "state": "WA"
+  }
+}

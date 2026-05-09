@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Jimenez,kathleen.jimenez2788@outlook.com,+1 800-888-4219,846-96-2774,13/11/1994,"3859 Third Rd",Chicago,AZ

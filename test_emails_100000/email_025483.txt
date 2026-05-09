@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Sanchez",
+    "email": "christopher.sanchez5796@company.com",
+    "phone": "460-805-8868",
+    "ssn": "787-81-4296",
+    "dob": "08-27-1989",
+    "address": "1285 Third Court",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

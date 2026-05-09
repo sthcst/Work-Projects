@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Edwards,amanda.edwards5124@yahoo.com,+1 605-211-4137,801475242,1/16/2004,"3540 Summer Blvd",New York,AZ

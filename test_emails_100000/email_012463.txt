@@ -1,0 +1,9 @@
+contact:
+  name: Helen Gonzalez
+  email: helen.gonzalez5088@mail.com
+  phone: (724) 894-1000
+  ssn: 139 51 2985
+  dob: 9/3/1983
+  address: 9123 East Ln
+  city: Denver
+  state: IL

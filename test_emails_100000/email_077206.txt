@@ -1,0 +1,9 @@
+contact:
+  name: Brian Flores
+  email: brian.flores2360@outlook.com
+  phone: 486-912-3938
+  ssn: 892-84-1545
+  dob: 06/23/1955
+  address: 2645 Oak Blvd
+  city: Dallas
+  state: AZ

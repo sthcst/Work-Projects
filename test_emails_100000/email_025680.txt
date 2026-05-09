@@ -1,0 +1,14 @@
+INVOICE 760153
+
+Bill To:
+Name: Timothy Collins
+Email: timothy.collins7360@example.com
+Phone: +1 397-941-7481
+SSN: 614-23-4066
+
+Address: 3368 Fourth Court
+San Jose, WI
+
+Date of Birth: 9/9/1988
+
+Amount Due: $310

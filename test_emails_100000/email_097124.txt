@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Morris,charles.morris1935@business.net,(243) 813-5319,300361864,27/06/1953,"6701 Oak Rd",Philadelphia,CA

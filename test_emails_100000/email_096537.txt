@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Dominguez,kathleen.dominguez548@outlook.com,+1 987-311-3862,088-23-6506,07/11/1961,"3979 Park Way",San Diego,AZ

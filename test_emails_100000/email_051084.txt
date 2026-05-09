@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Ramirez,samantha.ramirez4067@gmail.com,+1 872-300-9594,441336234,24/08/1977,"8716 Pine Court",Seattle,MA

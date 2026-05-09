@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Nunez,michael.nunez3438@company.com,+1 784-258-1176,328612231,01/01/1989,"4645 Elm Ave",Austin,NJ

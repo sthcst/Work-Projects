@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Edwards
+  email: joseph.edwards9406@yahoo.com
+  phone: +1 201-846-9046
+  ssn: 149 71 7343
+  dob: 05/27/2001
+  address: 1190 Third Ave
+  city: Dallas
+  state: MA

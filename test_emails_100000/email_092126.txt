@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Phillips",
+    "email": "michelle.phillips3528@outlook.com",
+    "phone": "(554) 517-9562",
+    "ssn": "022887609",
+    "dob": "12/22/1969",
+    "address": "8170 South Ave",
+    "city": "Boston",
+    "state": "TN"
+  }
+}

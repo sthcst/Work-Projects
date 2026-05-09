@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Stewart,amanda.stewart3137@business.net,299 764 1856,232-49-6431,7/19/1972,"7214 Fourth Blvd",Chicago,TX

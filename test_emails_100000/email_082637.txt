@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Wilson
+  email: joshua.wilson3481@work.org
+  phone: (891) 761-5746
+  ssn: 869-44-2466
+  dob: 07-11-2003
+  address: 6318 Fifth St
+  city: San Antonio
+  state: WI

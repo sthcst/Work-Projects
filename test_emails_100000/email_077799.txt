@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Harris",
+    "email": "deborah.harris5112@company.com",
+    "phone": "+1 484-461-6750",
+    "ssn": "128 90 4118",
+    "dob": "11/12/1988",
+    "address": "6882 Sixth Ln",
+    "city": "Denver",
+    "state": "MA"
+  }
+}

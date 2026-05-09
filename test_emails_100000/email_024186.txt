@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Moore,rachel.moore6987@company.com,(854) 585-9339,402-81-4171,23/01/1965,"3503 Summer Blvd",San Jose,TN

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Edwards",
+    "email": "deborah.edwards9783@yahoo.com",
+    "phone": "948 595 9669",
+    "ssn": "440257954",
+    "dob": "01/09/1965",
+    "address": "7126 Main Way",
+    "city": "San Jose",
+    "state": "AZ"
+  }
+}

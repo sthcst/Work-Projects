@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Gomez,katherine.gomez6948@mail.com,337 260 1940,157 08 1240,04/12/1992,"1409 Pine Blvd",Austin,TN

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Morgan,joshua.morgan288@example.com,974 565 9215,726314809,2/4/1979,"6008 Elm Court",Dallas,WA

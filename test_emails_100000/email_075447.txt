@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Peterson",
+    "email": "ashley.peterson5835@example.com",
+    "phone": "(758) 369-5661",
+    "ssn": "915-91-5146",
+    "dob": "11-07-1977",
+    "address": "5143 Third Dr",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Mark Peterson
+  email: mark.peterson6450@gmail.com
+  phone: 334 458 2625
+  ssn: 326888424
+  dob: 01-28-1958
+  address: 9503 Elm Dr
+  city: San Diego
+  state: CA

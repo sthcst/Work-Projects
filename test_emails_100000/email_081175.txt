@@ -1,0 +1,14 @@
+INVOICE 553212
+
+Bill To:
+Name: Edward Peterson
+Email: edward.peterson8278@yahoo.com
+Phone: 207 972 4069
+SSN: 844085790
+
+Address: 6050 Second Court
+Los Angeles, WI
+
+Date of Birth: 9/14/1982
+
+Amount Due: $8273

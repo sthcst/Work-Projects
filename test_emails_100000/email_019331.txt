@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Gomez",
+    "email": "christine.gomez2367@outlook.com",
+    "phone": "511 258 5349",
+    "ssn": "428 81 7909",
+    "dob": "01-01-1982",
+    "address": "9511 Park Ln",
+    "city": "Philadelphia",
+    "state": "CO"
+  }
+}

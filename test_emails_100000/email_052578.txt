@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Phillips
+  email: cynthia.phillips3113@company.com
+  phone: 899-464-4224
+  ssn: 603 90 8595
+  dob: 5/6/1983
+  address: 9119 Spring Rd
+  city: San Diego
+  state: MD

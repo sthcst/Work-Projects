@@ -1,0 +1,9 @@
+contact:
+  name: Edward Jackson
+  email: edward.jackson1042@company.com
+  phone: (924) 329-2968
+  ssn: 758732609
+  dob: 01/21/1971
+  address: 3937 Fourth Court
+  city: Houston
+  state: TX

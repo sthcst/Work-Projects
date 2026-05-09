@@ -1,0 +1,9 @@
+contact:
+  name: Mark Campbell
+  email: mark.campbell7748@company.com
+  phone: +1 389-589-1866
+  ssn: 704211347
+  dob: 09-25-1952
+  address: 878 South Ln
+  city: Jacksonville
+  state: WA

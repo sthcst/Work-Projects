@@ -1,0 +1,14 @@
+INVOICE 165903
+
+Bill To:
+Name: Michael Rodriguez
+Email: michael.rodriguez931@mail.com
+Phone: (259) 374-5153
+SSN: 361 53 7141
+
+Address: 5187 Fifth Ln
+San Jose, FL
+
+Date of Birth: 15/02/1981
+
+Amount Due: $6627

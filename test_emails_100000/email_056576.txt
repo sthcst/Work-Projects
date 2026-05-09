@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Davis,emily.davis8986@company.com,749-952-5645,821 96 4621,02-09-1980,"3833 North Dr",Phoenix,NJ

@@ -1,0 +1,9 @@
+contact:
+  name: John Jones
+  email: john.jones4405@example.com
+  phone: 528-357-2523
+  ssn: 519 15 8221
+  dob: 27/12/1951
+  address: 2884 Fifth Court
+  city: Washington
+  state: DC

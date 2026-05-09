@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Hall,kathleen.hall6704@yahoo.com,380-319-7989,835-65-4121,10/03/1987,"7393 Main Ln",Seattle,GA

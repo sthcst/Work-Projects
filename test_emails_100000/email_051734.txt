@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Parker
+  email: pamela.parker6554@company.com
+  phone: 764-434-8388
+  ssn: 141622513
+  dob: 1/2/1957
+  address: 6550 Main Way
+  city: Washington
+  state: WA

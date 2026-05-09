@@ -1,0 +1,14 @@
+INVOICE 439297
+
+Bill To:
+Name: Rebecca Edwards
+Email: rebecca.edwards2464@example.com
+Phone: (708) 497-6283
+SSN: 656-98-8051
+
+Address: 6695 Summer Dr
+Los Angeles, CO
+
+Date of Birth: 01-08-1992
+
+Amount Due: $3124

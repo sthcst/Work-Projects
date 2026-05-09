@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Delgado,jennifer.delgado9311@business.net,486 223 9326,402852350,06/02/1971,"9739 First Rd",San Diego,MD

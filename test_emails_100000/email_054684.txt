@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Morgan
+  email: samantha.morgan3576@mail.com
+  phone: 629-852-5200
+  ssn: 642-55-5698
+  dob: 12/10/1950
+  address: 280 Second Dr
+  city: San Jose
+  state: MI

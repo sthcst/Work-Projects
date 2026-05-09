@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Edwards",
+    "email": "jessica.edwards7669@work.org",
+    "phone": "(804) 524-6435",
+    "ssn": "546055620",
+    "dob": "10/10/1953",
+    "address": "5037 Second Ln",
+    "city": "Jacksonville",
+    "state": "WA"
+  }
+}

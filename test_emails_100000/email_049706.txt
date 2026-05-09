@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Gonzalez,katherine.gonzalez6199@gmail.com,(324) 320-7525,980 20 7064,06-15-2004,"2009 Summer Blvd",Los Angeles,NJ

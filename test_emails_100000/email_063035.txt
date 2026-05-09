@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Miller
+  email: christopher.miller8969@business.net
+  phone: 420 777 9370
+  ssn: 005-08-7365
+  dob: 03-02-1973
+  address: 1006 Main St
+  city: Chicago
+  state: AZ

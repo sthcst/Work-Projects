@@ -1,0 +1,9 @@
+contact:
+  name: Donald Wilson
+  email: donald.wilson8252@business.net
+  phone: 441-517-8917
+  ssn: 544-54-5758
+  dob: 10/14/1973
+  address: 5992 East Blvd
+  city: San Diego
+  state: AZ

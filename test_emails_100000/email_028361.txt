@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Evans",
+    "email": "ronald.evans5112@business.net",
+    "phone": "930 415 6479",
+    "ssn": "439-75-5620",
+    "dob": "07-09-1986",
+    "address": "6403 Park St",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

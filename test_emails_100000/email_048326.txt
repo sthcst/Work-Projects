@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Guerrero",
+    "email": "steven.guerrero8916@company.com",
+    "phone": "(730) 641-4424",
+    "ssn": "927407962",
+    "dob": "10/14/1989",
+    "address": "5945 Oak Ave",
+    "city": "Seattle",
+    "state": "AZ"
+  }
+}

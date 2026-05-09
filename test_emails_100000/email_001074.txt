@@ -1,0 +1,14 @@
+INVOICE 338001
+
+Bill To:
+Name: Steven Brown
+Email: steven.brown1040@business.net
+Phone: (543) 772-6753
+SSN: 113461629
+
+Address: 4923 North St
+Philadelphia, GA
+
+Date of Birth: 03/23/1994
+
+Amount Due: $1160

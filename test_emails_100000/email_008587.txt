@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Morgan",
+    "email": "nicole.morgan5061@work.org",
+    "phone": "+1 778-978-8961",
+    "ssn": "376 77 8153",
+    "dob": "03-24-1989",
+    "address": "4062 Sixth Court",
+    "city": "San Diego",
+    "state": "WI"
+  }
+}

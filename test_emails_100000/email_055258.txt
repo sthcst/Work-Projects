@@ -1,0 +1,9 @@
+contact:
+  name: Donald Clark
+  email: donald.clark9313@mail.com
+  phone: (927) 218-1984
+  ssn: 399-47-3046
+  dob: 10-02-1969
+  address: 2529 Sixth Ln
+  city: San Diego
+  state: WI

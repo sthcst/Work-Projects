@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Perez",
+    "email": "charles.perez1773@yahoo.com",
+    "phone": "+1 275-866-5153",
+    "ssn": "288102350",
+    "dob": "7/2/1977",
+    "address": "1675 West Blvd",
+    "city": "San Antonio",
+    "state": "WI"
+  }
+}

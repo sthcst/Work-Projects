@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Murillo",
+    "email": "andrew.murillo6512@example.com",
+    "phone": "+1 809-399-3945",
+    "ssn": "704702138",
+    "dob": "11/14/1951",
+    "address": "9954 Summer Rd",
+    "city": "Houston",
+    "state": "NJ"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Parker,kevin.parker8013@example.com,+1 331-872-4624,283 64 4542,08-14-1983,"5427 Oak Way",Washington,MO

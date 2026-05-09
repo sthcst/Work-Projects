@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Roberts
+  email: michelle.roberts627@gmail.com
+  phone: +1 577-843-3850
+  ssn: 302-23-8561
+  dob: 09/11/1979
+  address: 2505 North Blvd
+  city: Chicago
+  state: FL

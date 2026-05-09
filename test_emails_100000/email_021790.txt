@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Nelson,angela.nelson6690@gmail.com,(661) 246-9138,923802172,04/27/1964,"3399 East Blvd",Washington,CA

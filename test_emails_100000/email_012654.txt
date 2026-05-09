@@ -1,0 +1,9 @@
+contact:
+  name: Edward Moore
+  email: edward.moore276@yahoo.com
+  phone: 888-376-3494
+  ssn: 461-03-3280
+  dob: 3/5/1980
+  address: 2060 Maple Dr
+  city: Dallas
+  state: PA

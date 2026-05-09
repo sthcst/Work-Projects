@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Nelson",
+    "email": "jason.nelson1834@company.com",
+    "phone": "911 417 7213",
+    "ssn": "060-38-4252",
+    "dob": "06-17-1962",
+    "address": "5849 Oak St",
+    "city": "Washington",
+    "state": "GA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Lopez
+  email: joshua.lopez178@company.com
+  phone: 483-826-2282
+  ssn: 852 40 1784
+  dob: 12-04-1997
+  address: 3553 Birch Ave
+  city: Phoenix
+  state: FL

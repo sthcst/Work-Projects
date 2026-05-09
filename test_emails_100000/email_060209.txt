@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Bell",
+    "email": "angela.bell5426@business.net",
+    "phone": "(658) 448-7834",
+    "ssn": "706-49-9533",
+    "dob": "09/07/2003",
+    "address": "6522 Oak Ave",
+    "city": "Denver",
+    "state": "NJ"
+  }
+}

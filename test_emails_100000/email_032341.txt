@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Brown,helen.brown7890@outlook.com,(537) 214-9605,373-80-9262,01/19/2005,"8279 Summer Rd",San Jose,MA

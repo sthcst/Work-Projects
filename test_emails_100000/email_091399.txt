@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Edwards,kathleen.edwards9541@outlook.com,+1 876-531-5807,152 83 6374,09/12/1961,"1277 Pine St",Chicago,DC

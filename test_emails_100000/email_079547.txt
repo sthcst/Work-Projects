@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Jimenez",
+    "email": "ashley.jimenez9604@work.org",
+    "phone": "+1 565-224-2555",
+    "ssn": "236 61 7099",
+    "dob": "08/10/2000",
+    "address": "5853 South Ln",
+    "city": "San Jose",
+    "state": "DC"
+  }
+}

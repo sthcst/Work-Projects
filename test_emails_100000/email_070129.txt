@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Johnson
+  email: amanda.johnson1219@mail.com
+  phone: (437) 460-1193
+  ssn: 253466882
+  dob: 19/07/1978
+  address: 8503 South Ln
+  city: Denver
+  state: TX

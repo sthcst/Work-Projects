@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Wilson,maria.wilson793@work.org,+1 988-241-6082,445-18-2763,22/09/1996,"1608 Cedar Court",Philadelphia,DC

@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Lewis
+  email: amanda.lewis8497@business.net
+  phone: 806 799 1804
+  ssn: 742207588
+  dob: 05/05/1964
+  address: 2726 Spring Way
+  city: Seattle
+  state: FL

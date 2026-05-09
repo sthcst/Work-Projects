@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Perez,lauren.perez1464@work.org,582-638-6919,492-95-5864,01/24/1986,"5898 North Ln",San Diego,VA

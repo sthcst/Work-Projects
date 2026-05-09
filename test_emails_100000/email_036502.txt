@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Phillips
+  email: sarah.phillips6662@outlook.com
+  phone: +1 906-875-6689
+  ssn: 512 32 1327
+  dob: 12-09-1966
+  address: 578 Third Way
+  city: Austin
+  state: MA

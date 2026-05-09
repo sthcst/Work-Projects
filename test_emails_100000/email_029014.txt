@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Lewis,ryan.lewis6916@gmail.com,863-275-6515,941 23 1517,24/08/1956,"9692 Maple Court",Seattle,DC

@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Walker
+  email: kevin.walker6861@company.com
+  phone: +1 783-752-2366
+  ssn: 167 49 4138
+  dob: 11/26/1986
+  address: 5941 South St
+  city: Phoenix
+  state: NJ

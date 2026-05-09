@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Walker
+  email: stephanie.walker4438@work.org
+  phone: +1 638-368-3578
+  ssn: 962 44 1170
+  dob: 12-13-2003
+  address: 71 Fourth Court
+  city: Houston
+  state: FL

@@ -1,0 +1,9 @@
+contact:
+  name: George Clark
+  email: george.clark8307@outlook.com
+  phone: 290 685 7162
+  ssn: 024-13-1556
+  dob: 2/7/1973
+  address: 4725 Third Ave
+  city: Washington
+  state: MA

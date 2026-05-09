@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Gomez",
+    "email": "jane.gomez3256@outlook.com",
+    "phone": "259 251 9696",
+    "ssn": "388 31 7961",
+    "dob": "07-16-1997",
+    "address": "6896 First Ave",
+    "city": "Philadelphia",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Jones",
+    "email": "kathleen.jones775@work.org",
+    "phone": "532-451-8036",
+    "ssn": "014035886",
+    "dob": "04-17-1980",
+    "address": "3151 Cedar Dr",
+    "city": "Seattle",
+    "state": "CO"
+  }
+}

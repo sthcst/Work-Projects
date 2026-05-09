@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Anderson,richard.anderson4756@business.net,+1 504-675-9470,195 04 2135,11-27-1985,"2900 Cedar Dr",Boston,TX

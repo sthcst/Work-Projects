@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Smith,angela.smith4566@work.org,696-353-4296,249 52 6672,01/13/1980,"4690 Pine Way",San Antonio,GA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Stewart",
+    "email": "george.stewart4871@mail.com",
+    "phone": "725 931 6242",
+    "ssn": "758-28-4348",
+    "dob": "06-17-1964",
+    "address": "2065 Birch Way",
+    "city": "Denver",
+    "state": "AZ"
+  }
+}

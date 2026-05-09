@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Smith
+  email: cynthia.smith4739@example.com
+  phone: 933 792 1750
+  ssn: 623-62-3346
+  dob: 3/28/1980
+  address: 4548 North Blvd
+  city: Denver
+  state: NY

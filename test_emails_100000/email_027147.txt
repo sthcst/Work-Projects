@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Anderson,richard.anderson5264@gmail.com,(591) 478-4997,699 87 6695,28/07/1965,"123 Park Dr",Jacksonville,DC

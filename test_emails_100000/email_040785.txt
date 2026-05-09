@@ -1,0 +1,9 @@
+contact:
+  name: Angela Romero
+  email: angela.romero54@outlook.com
+  phone: +1 422-733-9888
+  ssn: 274-32-9733
+  dob: 16/10/1983
+  address: 510 Maple Court
+  city: Chicago
+  state: MD

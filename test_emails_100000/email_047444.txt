@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Davis",
+    "email": "michael.davis5731@gmail.com",
+    "phone": "773-965-9582",
+    "ssn": "736-02-6358",
+    "dob": "2/5/1994",
+    "address": "4246 Sixth Court",
+    "city": "New York",
+    "state": "CO"
+  }
+}

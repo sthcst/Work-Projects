@@ -1,0 +1,14 @@
+INVOICE 789515
+
+Bill To:
+Name: Amanda Thompson
+Email: amanda.thompson6107@yahoo.com
+Phone: 612 548 4841
+SSN: 991 60 8926
+
+Address: 8577 Park Ave
+Seattle, MD
+
+Date of Birth: 05/17/1983
+
+Amount Due: $8285

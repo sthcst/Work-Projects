@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Nunez
+  email: samantha.nunez178@mail.com
+  phone: 998 337 3791
+  ssn: 482-45-5917
+  dob: 06/27/1995
+  address: 1717 Summer Rd
+  city: Los Angeles
+  state: TX

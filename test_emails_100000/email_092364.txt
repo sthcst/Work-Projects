@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Lopez,stephanie.lopez2942@gmail.com,+1 219-821-2559,144 23 8598,22/01/2004,"8354 Fourth Rd",Chicago,DC

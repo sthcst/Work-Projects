@@ -1,0 +1,14 @@
+INVOICE 113103
+
+Bill To:
+Name: Timothy Johnson
+Email: timothy.johnson5798@work.org
+Phone: 849-391-3535
+SSN: 468955977
+
+Address: 5741 Birch St
+Seattle, WI
+
+Date of Birth: 07/06/1952
+
+Amount Due: $1058

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Jimenez,george.jimenez2515@work.org,613 823 5942,384 02 4011,02-10-1963,"1519 Spring Blvd",Jacksonville,CO

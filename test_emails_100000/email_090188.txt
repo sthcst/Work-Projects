@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Lopez
+  email: samantha.lopez6698@company.com
+  phone: +1 734-448-6462
+  ssn: 555-16-9025
+  dob: 3/20/1964
+  address: 2150 Elm St
+  city: Boston
+  state: MI

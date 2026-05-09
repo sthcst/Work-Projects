@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Stewart,sarah.stewart6397@business.net,796-356-7270,201454330,07/26/1955,"6017 Fifth Rd",Houston,NY

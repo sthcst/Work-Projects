@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Serrano,pamela.serrano603@yahoo.com,923-413-6355,767 16 9263,5/6/1954,"9637 Oak Blvd",Denver,IL

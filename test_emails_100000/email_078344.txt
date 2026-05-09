@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Reyes,emma.reyes7123@example.com,526 441 5854,214 31 8200,18/01/1980,"2244 Third Blvd",San Antonio,WI

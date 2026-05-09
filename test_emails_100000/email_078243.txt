@@ -1,0 +1,14 @@
+INVOICE 954552
+
+Bill To:
+Name: Michael Williams
+Email: michael.williams707@business.net
+Phone: (454) 880-1680
+SSN: 039061905
+
+Address: 4133 Park St
+Philadelphia, VA
+
+Date of Birth: 07/26/1974
+
+Amount Due: $6177

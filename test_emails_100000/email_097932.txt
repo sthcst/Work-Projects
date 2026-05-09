@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Carter,steven.carter8307@company.com,+1 867-232-2067,699 35 7832,07-04-1990,"9947 First Ln",Houston,MA

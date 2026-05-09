@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Young",
+    "email": "nicole.young1314@company.com",
+    "phone": "(480) 903-1989",
+    "ssn": "679945496",
+    "dob": "27/07/1955",
+    "address": "5236 Elm Way",
+    "city": "Boston",
+    "state": "PA"
+  }
+}

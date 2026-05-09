@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Walker
+  email: kathleen.walker6048@mail.com
+  phone: +1 967-889-2905
+  ssn: 508 70 4720
+  dob: 25/11/1977
+  address: 8538 North Ln
+  city: Chicago
+  state: TN

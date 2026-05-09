@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Lopez,christine.lopez1248@mail.com,592-778-2304,480 80 8073,05/05/1980,"3690 Second Rd",San Jose,FL

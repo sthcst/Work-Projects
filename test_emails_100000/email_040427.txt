@@ -1,0 +1,9 @@
+contact:
+  name: George Morris
+  email: george.morris7042@company.com
+  phone: 852-341-9392
+  ssn: 692 54 8052
+  dob: 04-09-1982
+  address: 6319 Third Rd
+  city: Austin
+  state: AZ

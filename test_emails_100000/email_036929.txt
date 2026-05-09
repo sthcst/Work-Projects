@@ -1,0 +1,9 @@
+contact:
+  name: Emma Taylor
+  email: emma.taylor4526@mail.com
+  phone: (607) 659-8362
+  ssn: 033787942
+  dob: 05-07-1962
+  address: 3132 South Way
+  city: Philadelphia
+  state: MA

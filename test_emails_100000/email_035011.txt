@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Garcia",
+    "email": "lauren.garcia1957@yahoo.com",
+    "phone": "+1 554-853-7815",
+    "ssn": "714177711",
+    "dob": "12-20-1976",
+    "address": "9569 Maple Way",
+    "city": "Boston",
+    "state": "NJ"
+  }
+}

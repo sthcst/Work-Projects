@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Brown",
+    "email": "ryan.brown4498@gmail.com",
+    "phone": "296-437-8993",
+    "ssn": "582-90-3673",
+    "dob": "06-20-1996",
+    "address": "6415 Park Ln",
+    "city": "Boston",
+    "state": "DC"
+  }
+}

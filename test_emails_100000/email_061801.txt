@@ -1,0 +1,14 @@
+INVOICE 704153
+
+Bill To:
+Name: Megan Ortiz
+Email: megan.ortiz2138@company.com
+Phone: 547 224 2494
+SSN: 617-53-7124
+
+Address: 2342 Fifth Dr
+Boston, MA
+
+Date of Birth: 11/16/1992
+
+Amount Due: $513

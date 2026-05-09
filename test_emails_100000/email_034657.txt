@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Lopez
+  email: ryan.lopez2867@outlook.com
+  phone: 604 220 3338
+  ssn: 473-35-3920
+  dob: 04/20/1983
+  address: 3560 Elm Blvd
+  city: Los Angeles
+  state: CA

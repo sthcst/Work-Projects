@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Roberts",
+    "email": "nicole.roberts7965@business.net",
+    "phone": "(578) 331-4783",
+    "ssn": "272-74-4217",
+    "dob": "14/05/1987",
+    "address": "8203 Third St",
+    "city": "San Jose",
+    "state": "OH"
+  }
+}

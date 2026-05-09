@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Morris",
+    "email": "anna.morris7677@company.com",
+    "phone": "595 549 6779",
+    "ssn": "431187839",
+    "dob": "07-04-1950",
+    "address": "8079 Park Ln",
+    "city": "Washington",
+    "state": "WI"
+  }
+}

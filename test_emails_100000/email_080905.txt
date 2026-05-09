@@ -1,0 +1,9 @@
+contact:
+  name: John Delgado
+  email: john.delgado9716@business.net
+  phone: 776 299 9120
+  ssn: 633-16-5031
+  dob: 12-18-1957
+  address: 2455 Cedar Ln
+  city: Boston
+  state: TX

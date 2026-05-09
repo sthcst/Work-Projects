@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Dominguez
+  email: anthony.dominguez6229@mail.com
+  phone: (641) 834-7817
+  ssn: 332416786
+  dob: 01/10/1981
+  address: 5374 Park St
+  city: Washington
+  state: WA

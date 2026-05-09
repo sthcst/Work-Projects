@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Brown,cynthia.brown6776@gmail.com,607-310-9399,259 06 4405,24/05/1964,"9691 Second Court",Los Angeles,CO

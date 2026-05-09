@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Jones,rebecca.jones4250@gmail.com,420 251 6657,585883432,01-11-1965,"3564 North Way",New York,IL

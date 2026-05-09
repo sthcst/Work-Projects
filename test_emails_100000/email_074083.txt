@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Davis",
+    "email": "sarah.davis2669@work.org",
+    "phone": "577 573 2703",
+    "ssn": "471848442",
+    "dob": "03/10/1964",
+    "address": "7231 Fourth Dr",
+    "city": "Chicago",
+    "state": "PA"
+  }
+}

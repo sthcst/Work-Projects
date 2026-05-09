@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Nelson",
+    "email": "emily.nelson4160@yahoo.com",
+    "phone": "+1 293-631-5890",
+    "ssn": "409931172",
+    "dob": "04-28-1954",
+    "address": "5904 Main Rd",
+    "city": "San Diego",
+    "state": "NC"
+  }
+}

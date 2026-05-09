@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Young
+  email: cynthia.young6647@yahoo.com
+  phone: +1 867-854-1432
+  ssn: 904 58 6609
+  dob: 01/10/2003
+  address: 9900 South Dr
+  city: Boston
+  state: AZ

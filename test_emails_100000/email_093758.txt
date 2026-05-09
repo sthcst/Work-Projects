@@ -1,0 +1,9 @@
+contact:
+  name: Charles Edwards
+  email: charles.edwards1311@yahoo.com
+  phone: 733-870-6077
+  ssn: 818-78-7313
+  dob: 06/23/1955
+  address: 9728 Maple Way
+  city: Philadelphia
+  state: CO

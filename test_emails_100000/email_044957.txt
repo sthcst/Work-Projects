@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Perez",
+    "email": "donald.perez2923@company.com",
+    "phone": "(834) 586-8427",
+    "ssn": "881-45-1471",
+    "dob": "01-20-1954",
+    "address": "276 North Way",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

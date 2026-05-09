@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Wilson",
+    "email": "angela.wilson1505@outlook.com",
+    "phone": "+1 270-748-1866",
+    "ssn": "296 50 5939",
+    "dob": "05/06/2000",
+    "address": "1966 Sixth Ln",
+    "city": "Jacksonville",
+    "state": "CO"
+  }
+}

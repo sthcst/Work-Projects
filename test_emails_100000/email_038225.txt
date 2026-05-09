@@ -1,0 +1,9 @@
+contact:
+  name: Angela Jackson
+  email: angela.jackson1745@work.org
+  phone: 898 917 7198
+  ssn: 569956589
+  dob: 10-09-1962
+  address: 756 West Blvd
+  city: Jacksonville
+  state: FL

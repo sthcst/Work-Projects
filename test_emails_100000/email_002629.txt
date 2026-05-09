@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Rodriguez,george.rodriguez6157@yahoo.com,(932) 352-9879,442 42 4161,07-25-1957,"5852 Main Ave",Chicago,GA

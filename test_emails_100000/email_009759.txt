@@ -1,0 +1,14 @@
+INVOICE 917483
+
+Bill To:
+Name: Christine Smith
+Email: christine.smith3462@mail.com
+Phone: 928 665 8977
+SSN: 073-76-1268
+
+Address: 1477 Main Ave
+Chicago, FL
+
+Date of Birth: 23/02/1983
+
+Amount Due: $1915

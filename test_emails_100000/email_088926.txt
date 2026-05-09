@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Hall
+  email: nicholas.hall1499@mail.com
+  phone: +1 332-988-8591
+  ssn: 020-24-5442
+  dob: 05-17-1967
+  address: 7572 Spring Court
+  city: Denver
+  state: WI

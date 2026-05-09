@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Cooper
+  email: nicholas.cooper1954@work.org
+  phone: +1 338-371-4703
+  ssn: 863-01-9344
+  dob: 08/25/2005
+  address: 7529 South Ln
+  city: Jacksonville
+  state: TN

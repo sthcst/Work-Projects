@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Rodriguez,katherine.rodriguez6046@company.com,+1 952-922-2744,952 54 6664,19/11/1977,"4008 Fourth Blvd",Washington,AZ

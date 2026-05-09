@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Reed
+  email: christopher.reed9010@business.net
+  phone: 426 907 2059
+  ssn: 478 05 5226
+  dob: 4/27/1971
+  address: 4943 West Ave
+  city: Chicago
+  state: TX

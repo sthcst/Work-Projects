@@ -1,0 +1,14 @@
+INVOICE 206344
+
+Bill To:
+Name: Richard Williams
+Email: richard.williams1181@yahoo.com
+Phone: 936 930 2237
+SSN: 745725326
+
+Address: 359 Fourth Way
+Washington, MA
+
+Date of Birth: 01/05/1993
+
+Amount Due: $643

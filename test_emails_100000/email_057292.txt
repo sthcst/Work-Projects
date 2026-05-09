@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Gonzalez",
+    "email": "lisa.gonzalez6652@yahoo.com",
+    "phone": "(932) 746-1736",
+    "ssn": "020 14 7973",
+    "dob": "12-08-1970",
+    "address": "5239 Main St",
+    "city": "Denver",
+    "state": "MA"
+  }
+}

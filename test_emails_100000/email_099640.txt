@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Davis
+  email: daniel.davis7372@example.com
+  phone: 504 861 8055
+  ssn: 560 55 1138
+  dob: 02/09/1990
+  address: 560 Third Blvd
+  city: Boston
+  state: MA

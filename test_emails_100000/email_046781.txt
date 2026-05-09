@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Guerrero",
+    "email": "anthony.guerrero1646@company.com",
+    "phone": "(661) 273-9179",
+    "ssn": "313295097",
+    "dob": "01-11-1957",
+    "address": "8071 Summer Rd",
+    "city": "Jacksonville",
+    "state": "GA"
+  }
+}

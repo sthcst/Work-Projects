@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Delgado",
+    "email": "jennifer.delgado6559@example.com",
+    "phone": "(205) 563-3836",
+    "ssn": "068-02-8964",
+    "dob": "06/13/2004",
+    "address": "2735 Spring Dr",
+    "city": "Dallas",
+    "state": "CO"
+  }
+}

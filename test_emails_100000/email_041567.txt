@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Roberts",
+    "email": "robert.roberts5388@mail.com",
+    "phone": "+1 943-607-3678",
+    "ssn": "629841322",
+    "dob": "5/27/1952",
+    "address": "5368 Sixth Dr",
+    "city": "Dallas",
+    "state": "WA"
+  }
+}

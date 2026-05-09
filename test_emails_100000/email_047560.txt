@@ -1,0 +1,14 @@
+INVOICE 953063
+
+Bill To:
+Name: Katherine Jimenez
+Email: katherine.jimenez3914@company.com
+Phone: 428 912 3256
+SSN: 603 91 7469
+
+Address: 1864 Birch Dr
+San Jose, TN
+
+Date of Birth: 08-16-1959
+
+Amount Due: $3838

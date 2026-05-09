@@ -1,0 +1,14 @@
+INVOICE 205069
+
+Bill To:
+Name: Michael Rodriguez
+Email: michael.rodriguez2322@work.org
+Phone: (989) 338-9388
+SSN: 579 96 6794
+
+Address: 7796 Oak Ln
+Boston, NJ
+
+Date of Birth: 11-10-1976
+
+Amount Due: $1224

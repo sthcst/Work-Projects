@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Thompson",
+    "email": "katherine.thompson2744@work.org",
+    "phone": "(828) 398-5988",
+    "ssn": "831664770",
+    "dob": "08/01/1978",
+    "address": "6903 Main Court",
+    "city": "Dallas",
+    "state": "TN"
+  }
+}

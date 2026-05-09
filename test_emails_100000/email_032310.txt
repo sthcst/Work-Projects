@@ -1,0 +1,14 @@
+INVOICE 210906
+
+Bill To:
+Name: Michael Williams
+Email: michael.williams5199@mail.com
+Phone: (554) 803-3432
+SSN: 906707268
+
+Address: 2152 Summer Dr
+San Diego, AZ
+
+Date of Birth: 10/25/1974
+
+Amount Due: $7558

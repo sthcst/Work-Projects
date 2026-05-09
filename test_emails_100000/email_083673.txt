@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Thomas",
+    "email": "anna.thomas4185@mail.com",
+    "phone": "(972) 285-3536",
+    "ssn": "989509232",
+    "dob": "08-13-1978",
+    "address": "1040 West Dr",
+    "city": "San Diego",
+    "state": "FL"
+  }
+}

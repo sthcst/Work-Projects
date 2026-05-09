@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Hernandez",
+    "email": "timothy.hernandez2823@outlook.com",
+    "phone": "(775) 339-5782",
+    "ssn": "420 05 5307",
+    "dob": "12/09/1968",
+    "address": "5420 Sixth Ln",
+    "city": "Chicago",
+    "state": "PA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Moore",
+    "email": "edward.moore9993@business.net",
+    "phone": "304 766 9878",
+    "ssn": "174-13-3651",
+    "dob": "09/07/1981",
+    "address": "8841 Oak Ave",
+    "city": "Seattle",
+    "state": "NY"
+  }
+}

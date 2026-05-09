@@ -1,0 +1,9 @@
+contact:
+  name: Megan Ortiz
+  email: megan.ortiz1817@work.org
+  phone: 530 229 6524
+  ssn: 264-23-2253
+  dob: 12/19/1960
+  address: 2592 Cedar Ave
+  city: Boston
+  state: PA

@@ -1,0 +1,9 @@
+contact:
+  name: David Morgan
+  email: david.morgan3920@example.com
+  phone: +1 993-562-7935
+  ssn: 346028852
+  dob: 9/2/1973
+  address: 7682 South Way
+  city: Los Angeles
+  state: TX

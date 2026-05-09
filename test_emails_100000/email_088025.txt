@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Ramirez,megan.ramirez8309@example.com,+1 329-324-5299,757-78-2136,6/11/1973,"6078 West Court",New York,TX

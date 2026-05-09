@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Phillips,anthony.phillips122@outlook.com,868 451 7252,869 51 6674,10/02/1963,"4280 West Blvd",San Diego,CA

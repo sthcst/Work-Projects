@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Cooper,rachel.cooper2353@business.net,(871) 853-2000,202 74 7614,05/11/1991,"3912 Maple Ave",Denver,NY

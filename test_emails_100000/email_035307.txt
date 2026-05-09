@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Morgan,kenneth.morgan9789@yahoo.com,+1 234-526-2270,619-85-4587,10/04/2001,"5227 Elm Way",Los Angeles,TX

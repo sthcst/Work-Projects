@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Stewart
+  email: katherine.stewart754@mail.com
+  phone: (689) 377-6079
+  ssn: 231 34 8686
+  dob: 07/01/1959
+  address: 662 Pine Blvd
+  city: Washington
+  state: DC

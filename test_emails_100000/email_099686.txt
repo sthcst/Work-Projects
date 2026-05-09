@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Morgan
+  email: ashley.morgan4267@yahoo.com
+  phone: +1 203-255-2878
+  ssn: 017385595
+  dob: 05/04/1972
+  address: 299 Park Ave
+  city: New York
+  state: WA

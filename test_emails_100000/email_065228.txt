@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Sanchez",
+    "email": "george.sanchez5693@outlook.com",
+    "phone": "+1 290-229-5697",
+    "ssn": "853327738",
+    "dob": "09-24-1992",
+    "address": "7899 Pine Court",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

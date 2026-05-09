@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Cooper",
+    "email": "john.cooper384@business.net",
+    "phone": "945 367 7380",
+    "ssn": "534-34-2230",
+    "dob": "04/28/1955",
+    "address": "1502 Fourth Way",
+    "city": "Phoenix",
+    "state": "AZ"
+  }
+}

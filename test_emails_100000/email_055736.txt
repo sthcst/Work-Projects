@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Roberts",
+    "email": "jennifer.roberts4217@yahoo.com",
+    "phone": "(338) 431-3905",
+    "ssn": "774 99 7967",
+    "dob": "07/19/1996",
+    "address": "1869 North Ln",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

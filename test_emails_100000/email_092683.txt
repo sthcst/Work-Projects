@@ -1,0 +1,12 @@
+SUPPORT TICKET #88432
+
+Customer: Ryan Smith
+Email: ryan.smith3742@example.com
+Phone: (876) 268-9656
+Account: 243292974
+
+Issue Description: Technical problem reported
+DOB on file: 25/10/1961
+Address: 5101 Sixth Court, New York, DC
+
+Status: OPEN

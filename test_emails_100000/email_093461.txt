@@ -1,0 +1,14 @@
+INVOICE 989677
+
+Bill To:
+Name: Brenda Young
+Email: brenda.young1360@example.com
+Phone: (489) 605-3517
+SSN: 447-17-5927
+
+Address: 196 Maple Way
+Jacksonville, CA
+
+Date of Birth: 12-13-1974
+
+Amount Due: $5418

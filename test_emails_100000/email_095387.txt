@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Gonzalez
+  email: sarah.gonzalez2105@yahoo.com
+  phone: 382-222-1173
+  ssn: 988 98 6840
+  dob: 08-27-2005
+  address: 7710 Cedar Ave
+  city: Philadelphia
+  state: MD

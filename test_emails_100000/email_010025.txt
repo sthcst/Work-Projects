@@ -1,0 +1,14 @@
+INVOICE 756065
+
+Bill To:
+Name: Michelle Sanchez
+Email: michelle.sanchez348@company.com
+Phone: +1 273-629-9100
+SSN: 851-70-6830
+
+Address: 3700 South Rd
+San Jose, MA
+
+Date of Birth: 01/02/1996
+
+Amount Due: $8070

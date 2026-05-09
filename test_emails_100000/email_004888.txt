@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Jackson,rebecca.jackson8703@gmail.com,(536) 624-3205,861-52-3077,26/12/1978,"2570 Fifth Way",Austin,MA

@@ -1,0 +1,14 @@
+INVOICE 280564
+
+Bill To:
+Name: David Lopez
+Email: david.lopez9017@gmail.com
+Phone: (519) 677-1678
+SSN: 230 59 6349
+
+Address: 2528 Summer Rd
+Seattle, IL
+
+Date of Birth: 02/07/1975
+
+Amount Due: $8664

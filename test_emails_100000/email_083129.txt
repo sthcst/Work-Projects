@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Miller,kevin.miller5330@mail.com,227-793-5975,611 08 1278,09/11/1967,"4076 Oak St",San Jose,TX

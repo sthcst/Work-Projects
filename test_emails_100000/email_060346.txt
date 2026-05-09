@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Bell,rebecca.bell4126@gmail.com,(402) 299-9353,095 34 3854,12-09-1965,"7532 Fifth Way",Houston,GA

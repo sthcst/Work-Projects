@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Lee,richard.lee1244@example.com,+1 930-834-3777,563 68 1380,12/14/1998,"8661 East Blvd",Houston,IL

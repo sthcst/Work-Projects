@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Walker,joseph.walker1237@work.org,648-646-8912,812-66-8744,8/23/1958,"1636 Park Dr",Los Angeles,GA

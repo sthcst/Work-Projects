@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Reed
+  email: kevin.reed847@yahoo.com
+  phone: 696 874 7873
+  ssn: 248-52-1090
+  dob: 4/21/1970
+  address: 410 First Way
+  city: Denver
+  state: AZ

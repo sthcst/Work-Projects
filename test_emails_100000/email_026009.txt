@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Ortiz",
+    "email": "david.ortiz68@outlook.com",
+    "phone": "341 241 7107",
+    "ssn": "929 40 3640",
+    "dob": "1/20/1969",
+    "address": "3557 Elm Blvd",
+    "city": "New York",
+    "state": "TX"
+  }
+}

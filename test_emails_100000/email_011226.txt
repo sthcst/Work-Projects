@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Cooper
+  email: joseph.cooper9479@business.net
+  phone: 293 334 8989
+  ssn: 403-06-4329
+  dob: 07-13-1954
+  address: 9500 East Dr
+  city: Chicago
+  state: WA

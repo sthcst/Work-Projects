@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Carter,donald.carter9336@company.com,992 872 2826,323-04-9063,11/15/1978,"8632 East Rd",Dallas,AZ

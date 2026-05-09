@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Romero",
+    "email": "michelle.romero7332@work.org",
+    "phone": "(692) 612-8413",
+    "ssn": "128-68-5217",
+    "dob": "05-15-1978",
+    "address": "2083 Oak Ave",
+    "city": "Denver",
+    "state": "MI"
+  }
+}

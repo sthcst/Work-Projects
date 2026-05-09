@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Romero,anthony.romero5037@outlook.com,(695) 695-3406,104 67 2134,17/06/1980,"4369 Park Blvd",Austin,AZ

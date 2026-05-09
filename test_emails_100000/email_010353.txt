@@ -1,0 +1,9 @@
+contact:
+  name: Anna Hall
+  email: anna.hall6557@yahoo.com
+  phone: +1 318-437-1855
+  ssn: 972 56 5562
+  dob: 24/06/2002
+  address: 2234 Cedar St
+  city: San Jose
+  state: CA

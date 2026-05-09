@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Ortiz",
+    "email": "amanda.ortiz2831@yahoo.com",
+    "phone": "614 495 8067",
+    "ssn": "319 92 1160",
+    "dob": "11/10/1958",
+    "address": "4920 Park Way",
+    "city": "San Jose",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Phillips,lauren.phillips8406@yahoo.com,232-561-9718,764781295,03/06/1957,"651 Birch Rd",Dallas,AZ

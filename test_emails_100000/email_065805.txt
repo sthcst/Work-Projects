@@ -1,0 +1,14 @@
+INVOICE 797817
+
+Bill To:
+Name: Donald Thomas
+Email: donald.thomas6301@mail.com
+Phone: 585 406 2540
+SSN: 398-75-7642
+
+Address: 7318 West Dr
+Chicago, CA
+
+Date of Birth: 11-04-1959
+
+Amount Due: $1883

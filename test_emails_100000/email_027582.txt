@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Hernandez,daniel.hernandez2958@gmail.com,330 731 2697,257-47-1845,04-15-2003,"8399 Maple Rd",Phoenix,NJ

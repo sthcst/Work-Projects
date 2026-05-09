@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Bell",
+    "email": "andrew.bell2572@gmail.com",
+    "phone": "(375) 904-2036",
+    "ssn": "174338034",
+    "dob": "09-03-1953",
+    "address": "3320 Third Ln",
+    "city": "Washington",
+    "state": "MI"
+  }
+}

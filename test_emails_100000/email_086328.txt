@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Gomez",
+    "email": "katherine.gomez799@mail.com",
+    "phone": "515-589-5489",
+    "ssn": "559281613",
+    "dob": "09/05/1979",
+    "address": "3076 East Ave",
+    "city": "Jacksonville",
+    "state": "DC"
+  }
+}

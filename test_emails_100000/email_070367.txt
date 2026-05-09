@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Cooper",
+    "email": "george.cooper1487@business.net",
+    "phone": "+1 680-704-4135",
+    "ssn": "588689564",
+    "dob": "07-11-1991",
+    "address": "9023 Birch St",
+    "city": "San Diego",
+    "state": "IL"
+  }
+}

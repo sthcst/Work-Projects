@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Robinson,christine.robinson9870@company.com,(532) 209-5145,058-96-7699,01-08-1998,"1148 Sixth Ln",San Antonio,CA

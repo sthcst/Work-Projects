@@ -1,0 +1,9 @@
+contact:
+  name: Edward Lee
+  email: edward.lee9498@company.com
+  phone: (261) 905-1568
+  ssn: 654 98 1295
+  dob: 23/11/1996
+  address: 9538 Third Court
+  city: Jacksonville
+  state: NC

@@ -1,0 +1,14 @@
+INVOICE 519601
+
+Bill To:
+Name: Kevin Romero
+Email: kevin.romero3780@outlook.com
+Phone: 917-827-2887
+SSN: 557 85 3964
+
+Address: 1713 East Ave
+Dallas, TX
+
+Date of Birth: 04/02/1986
+
+Amount Due: $4832

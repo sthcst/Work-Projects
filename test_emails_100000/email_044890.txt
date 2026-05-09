@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Evans
+  email: brenda.evans2637@company.com
+  phone: 670-417-3414
+  ssn: 999588640
+  dob: 07/09/1955
+  address: 6289 Third Blvd
+  city: San Jose
+  state: NJ

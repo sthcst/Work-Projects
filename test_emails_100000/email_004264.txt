@@ -1,0 +1,9 @@
+contact:
+  name: Mark Smith
+  email: mark.smith5979@company.com
+  phone: 553-287-4837
+  ssn: 181641179
+  dob: 08-27-1961
+  address: 4954 East Way
+  city: Phoenix
+  state: PA

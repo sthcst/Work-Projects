@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Phillips",
+    "email": "shirley.phillips8236@outlook.com",
+    "phone": "236 272 8304",
+    "ssn": "341-17-4715",
+    "dob": "06-08-1960",
+    "address": "2761 Sixth Ave",
+    "city": "Dallas",
+    "state": "IL"
+  }
+}

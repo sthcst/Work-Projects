@@ -1,0 +1,14 @@
+INVOICE 532185
+
+Bill To:
+Name: Stephanie Carter
+Email: stephanie.carter8680@company.com
+Phone: 285-692-2280
+SSN: 434746560
+
+Address: 3721 Birch St
+Washington, OH
+
+Date of Birth: 02/24/1995
+
+Amount Due: $9643

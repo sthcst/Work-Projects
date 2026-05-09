@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Alvarado,kenneth.alvarado1759@outlook.com,367-913-3597,992449612,11-01-1951,"6161 First Dr",Philadelphia,MI

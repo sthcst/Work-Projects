@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Campbell
+  email: lisa.campbell7192@work.org
+  phone: (853) 299-6982
+  ssn: 478-98-9655
+  dob: 4/12/1969
+  address: 1664 Oak Ave
+  city: Jacksonville
+  state: TX

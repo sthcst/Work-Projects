@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Delgado,kenneth.delgado9274@work.org,748 237 7673,438-91-2742,05-21-1992,"449 West Court",Phoenix,NC

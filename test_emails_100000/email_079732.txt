@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha White,samantha.white1125@gmail.com,955 247 5486,729-99-7548,06/02/2004,"9424 Maple Rd",San Antonio,NJ

@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Peterson
+  email: michelle.peterson3891@business.net
+  phone: +1 568-383-4140
+  ssn: 711189261
+  dob: 02/22/1981
+  address: 9951 Fourth Ln
+  city: Dallas
+  state: NC

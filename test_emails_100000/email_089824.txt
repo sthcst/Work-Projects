@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Lewis,katherine.lewis7696@gmail.com,(260) 682-1753,966238799,14/12/2003,"7002 South Court",Boston,CO

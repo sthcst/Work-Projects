@@ -1,0 +1,9 @@
+contact:
+  name: Steven Gomez
+  email: steven.gomez4955@business.net
+  phone: +1 857-933-3960
+  ssn: 919-23-8730
+  dob: 04/19/1998
+  address: 6188 Oak Rd
+  city: Dallas
+  state: DC

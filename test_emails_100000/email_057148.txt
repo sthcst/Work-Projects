@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Rodriguez,paul.rodriguez2639@yahoo.com,875-887-8478,785-64-9823,6/23/1974,"6762 Spring Ave",Seattle,NC

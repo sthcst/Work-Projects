@@ -1,0 +1,9 @@
+contact:
+  name: Charles Clark
+  email: charles.clark3382@example.com
+  phone: 740 924 9530
+  ssn: 398807522
+  dob: 11/15/1968
+  address: 372 Spring Dr
+  city: San Diego
+  state: WA

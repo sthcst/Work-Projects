@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Clark
+  email: jacob.clark3497@outlook.com
+  phone: (975) 610-8401
+  ssn: 132-28-7463
+  dob: 15/04/1996
+  address: 9090 Maple Court
+  city: Jacksonville
+  state: MI

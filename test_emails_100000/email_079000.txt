@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Brown,rachel.brown200@yahoo.com,409-791-7420,678-10-3195,07/01/1965,"1860 Spring Rd",San Diego,WA

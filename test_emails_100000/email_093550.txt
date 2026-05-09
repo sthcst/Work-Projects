@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Ramirez",
+    "email": "anthony.ramirez4140@business.net",
+    "phone": "+1 293-885-5632",
+    "ssn": "375 19 8290",
+    "dob": "03/04/1959",
+    "address": "4909 Fourth Ave",
+    "city": "Seattle",
+    "state": "MD"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 182478
+
+Bill To:
+Name: Joseph Lee
+Email: joseph.lee7974@example.com
+Phone: 797-623-3938
+SSN: 114 42 1141
+
+Address: 647 South St
+Jacksonville, CA
+
+Date of Birth: 06/21/1964
+
+Amount Due: $1254

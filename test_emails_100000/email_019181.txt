@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Alvarado,katherine.alvarado9253@work.org,+1 305-613-9596,167-10-9273,11/09/2003,"2099 Pine Rd",New York,TN

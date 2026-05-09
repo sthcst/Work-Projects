@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Wilson,pamela.wilson1261@outlook.com,(844) 339-7705,129141324,05/09/1960,"9289 North Ln",Denver,NJ

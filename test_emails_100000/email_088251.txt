@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Thompson,emma.thompson1491@gmail.com,309-773-3369,110 15 8548,06/09/2005,"3573 South Blvd",New York,MI

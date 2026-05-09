@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Hernandez
+  email: pamela.hernandez7053@outlook.com
+  phone: +1 741-271-9178
+  ssn: 412-61-3041
+  dob: 4/28/1997
+  address: 4632 South Ave
+  city: Denver
+  state: NY

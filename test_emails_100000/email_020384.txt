@@ -1,0 +1,9 @@
+contact:
+  name: Helen Lee
+  email: helen.lee6730@gmail.com
+  phone: 997-922-6231
+  ssn: 078131756
+  dob: 07-23-1978
+  address: 6765 Summer St
+  city: Denver
+  state: DC

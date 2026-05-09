@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Peterson,kevin.peterson8677@business.net,(478) 602-2467,552241122,2/4/1957,"4496 Cedar Way",Denver,NJ

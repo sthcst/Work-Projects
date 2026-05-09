@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Brown
+  email: deborah.brown532@example.com
+  phone: 218-262-7584
+  ssn: 781-14-5396
+  dob: 12/08/1956
+  address: 3784 Cedar Ave
+  city: Dallas
+  state: VA

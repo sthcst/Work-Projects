@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Lopez,george.lopez4458@mail.com,863 289 1490,504 05 1897,11/12/1987,"3744 Fourth Rd",Denver,PA

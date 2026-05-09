@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Guerrero
+  email: kenneth.guerrero927@example.com
+  phone: (665) 256-1021
+  ssn: 604 40 4596
+  dob: 09/13/1970
+  address: 8411 Third Way
+  city: Los Angeles
+  state: PA

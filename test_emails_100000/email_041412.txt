@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Thomas,katherine.thomas8831@company.com,(492) 233-8865,056611742,4/8/2005,"9255 Fourth Blvd",Chicago,WI

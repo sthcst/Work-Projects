@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Taylor,robert.taylor3291@outlook.com,616 570 4668,239201482,07/13/1984,"7776 Spring Ave",Los Angeles,CO

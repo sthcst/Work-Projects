@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Thomas,jessica.thomas6156@example.com,+1 536-468-8809,286-38-5378,24/05/1994,"6213 West Ave",Jacksonville,CA

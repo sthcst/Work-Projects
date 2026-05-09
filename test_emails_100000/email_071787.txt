@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Hernandez",
+    "email": "joshua.hernandez9200@example.com",
+    "phone": "(465) 833-1987",
+    "ssn": "369 11 9460",
+    "dob": "02-12-1963",
+    "address": "497 Fourth Rd",
+    "city": "San Diego",
+    "state": "NY"
+  }
+}

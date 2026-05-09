@@ -1,0 +1,14 @@
+INVOICE 116449
+
+Bill To:
+Name: James Moore
+Email: james.moore1169@yahoo.com
+Phone: 809 333 3986
+SSN: 284-20-9496
+
+Address: 4804 Elm Rd
+San Jose, WA
+
+Date of Birth: 02-19-1990
+
+Amount Due: $4729

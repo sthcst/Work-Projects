@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Collins",
+    "email": "michael.collins8630@example.com",
+    "phone": "778 930 5384",
+    "ssn": "280311091",
+    "dob": "27/08/1953",
+    "address": "6792 Fourth Rd",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

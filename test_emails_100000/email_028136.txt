@@ -1,0 +1,9 @@
+contact:
+  name: Jason Rogers
+  email: jason.rogers1976@example.com
+  phone: (391) 274-6404
+  ssn: 568177043
+  dob: 19/08/1973
+  address: 7245 North Court
+  city: Chicago
+  state: PA

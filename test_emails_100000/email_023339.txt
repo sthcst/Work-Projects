@@ -1,0 +1,14 @@
+INVOICE 491842
+
+Bill To:
+Name: Gary Anderson
+Email: gary.anderson2239@example.com
+Phone: +1 273-543-1716
+SSN: 312 54 3011
+
+Address: 4104 Elm Ave
+Dallas, FL
+
+Date of Birth: 1/24/1977
+
+Amount Due: $6599

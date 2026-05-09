@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Harris,steven.harris8522@business.net,510 498 6139,059548607,07/03/1995,"659 Fifth Ln",Chicago,NJ

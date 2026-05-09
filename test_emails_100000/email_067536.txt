@@ -1,0 +1,9 @@
+contact:
+  name: John Guerrero
+  email: john.guerrero3337@example.com
+  phone: +1 206-983-9414
+  ssn: 042 56 3507
+  dob: 08/12/2003
+  address: 9349 Fifth Blvd
+  city: Seattle
+  state: AZ

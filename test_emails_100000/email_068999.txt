@@ -1,0 +1,14 @@
+INVOICE 519202
+
+Bill To:
+Name: William Jones
+Email: william.jones9675@yahoo.com
+Phone: (715) 599-9180
+SSN: 239-25-5341
+
+Address: 7221 North Ave
+New York, CO
+
+Date of Birth: 07/27/1951
+
+Amount Due: $4216

@@ -1,0 +1,14 @@
+INVOICE 695273
+
+Bill To:
+Name: Katherine Gonzalez
+Email: katherine.gonzalez5396@example.com
+Phone: 453-323-5415
+SSN: 754165907
+
+Address: 9570 South St
+San Diego, FL
+
+Date of Birth: 5/5/1990
+
+Amount Due: $2962

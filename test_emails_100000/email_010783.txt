@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Delgado
+  email: samantha.delgado8905@gmail.com
+  phone: 341-449-7043
+  ssn: 317-75-2135
+  dob: 19/05/1970
+  address: 2917 Fourth Ln
+  city: San Antonio
+  state: NJ

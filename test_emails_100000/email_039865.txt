@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Martinez,nicholas.martinez7207@gmail.com,955 559 4196,875 74 8700,09/22/1950,"9996 Main Rd",Denver,CA

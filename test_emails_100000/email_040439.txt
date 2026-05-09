@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Hernandez
+  email: katherine.hernandez4841@example.com
+  phone: 992 920 6353
+  ssn: 605198416
+  dob: 11/27/1966
+  address: 1199 Second Rd
+  city: Jacksonville
+  state: AZ

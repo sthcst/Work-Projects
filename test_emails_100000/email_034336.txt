@@ -1,0 +1,9 @@
+contact:
+  name: George Hall
+  email: george.hall9368@mail.com
+  phone: 808 949 2779
+  ssn: 588931151
+  dob: 07/26/1950
+  address: 9216 Third Court
+  city: Los Angeles
+  state: TX

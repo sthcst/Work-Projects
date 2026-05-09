@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Johnson,jessica.johnson8112@mail.com,476-254-3602,029758781,4/15/1969,"9245 Park Court",Los Angeles,TX

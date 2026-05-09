@@ -1,0 +1,9 @@
+contact:
+  name: Donald Gomez
+  email: donald.gomez7831@outlook.com
+  phone: 690-894-2336
+  ssn: 585-16-2123
+  dob: 07-02-2004
+  address: 1412 Sixth Ave
+  city: Houston
+  state: AZ

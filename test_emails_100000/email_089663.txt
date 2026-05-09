@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine White",
+    "email": "christine.white4617@mail.com",
+    "phone": "522 217 6717",
+    "ssn": "544-31-9328",
+    "dob": "02-28-1993",
+    "address": "8564 Oak Ln",
+    "city": "Phoenix",
+    "state": "CO"
+  }
+}

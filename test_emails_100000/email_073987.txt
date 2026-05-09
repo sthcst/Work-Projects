@@ -1,0 +1,9 @@
+contact:
+  name: John Walker
+  email: john.walker5265@outlook.com
+  phone: 201-618-5228
+  ssn: 104-08-9912
+  dob: 2/19/1992
+  address: 243 Second Blvd
+  city: Chicago
+  state: AZ

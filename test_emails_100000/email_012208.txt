@@ -1,0 +1,9 @@
+contact:
+  name: Jane Rodriguez
+  email: jane.rodriguez3802@work.org
+  phone: 293-989-6774
+  ssn: 837-03-8919
+  dob: 20/03/1989
+  address: 219 Sixth Dr
+  city: Seattle
+  state: DC

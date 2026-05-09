@@ -1,0 +1,9 @@
+contact:
+  name: Maria Reyes
+  email: maria.reyes9129@work.org
+  phone: (388) 731-1895
+  ssn: 070-93-9328
+  dob: 12-03-1987
+  address: 6591 West St
+  city: Chicago
+  state: TN

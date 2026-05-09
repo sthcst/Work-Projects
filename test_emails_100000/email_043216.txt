@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Edwards,gary.edwards386@work.org,401 333 4468,127684852,12-28-1990,"8025 Elm Dr",Los Angeles,WI

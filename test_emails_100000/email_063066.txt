@@ -1,0 +1,14 @@
+INVOICE 401309
+
+Bill To:
+Name: James Bell
+Email: james.bell8627@mail.com
+Phone: 564 864 1711
+SSN: 139 69 5010
+
+Address: 6306 Birch Ave
+Denver, TX
+
+Date of Birth: 09/28/1953
+
+Amount Due: $8049

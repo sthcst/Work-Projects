@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Smith",
+    "email": "samantha.smith9172@work.org",
+    "phone": "+1 812-433-8569",
+    "ssn": "582 88 3016",
+    "dob": "28/06/1988",
+    "address": "8037 Cedar Court",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

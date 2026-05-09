@@ -1,0 +1,9 @@
+contact:
+  name: Maria Campbell
+  email: maria.campbell5255@business.net
+  phone: (626) 838-6356
+  ssn: 239-56-7337
+  dob: 22/03/1956
+  address: 8534 First Way
+  city: Philadelphia
+  state: TX

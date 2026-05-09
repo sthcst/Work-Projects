@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Taylor",
+    "email": "angela.taylor5145@company.com",
+    "phone": "633 295 7662",
+    "ssn": "787622987",
+    "dob": "21/10/1954",
+    "address": "9576 Sixth Court",
+    "city": "Dallas",
+    "state": "MD"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Phillips",
+    "email": "brenda.phillips1368@outlook.com",
+    "phone": "257-506-2735",
+    "ssn": "960151407",
+    "dob": "28/05/1991",
+    "address": "6761 Third Ln",
+    "city": "Washington",
+    "state": "MD"
+  }
+}

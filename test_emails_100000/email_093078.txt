@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Jimenez",
+    "email": "emily.jimenez897@company.com",
+    "phone": "+1 413-894-4819",
+    "ssn": "152 52 7622",
+    "dob": "05-24-2003",
+    "address": "8582 Park St",
+    "city": "New York",
+    "state": "OH"
+  }
+}

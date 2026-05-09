@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Rogers",
+    "email": "kimberly.rogers8733@outlook.com",
+    "phone": "(977) 351-1510",
+    "ssn": "363 21 4566",
+    "dob": "26/07/1977",
+    "address": "8017 Oak Rd",
+    "city": "Jacksonville",
+    "state": "GA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Gonzalez
+  email: joseph.gonzalez4522@outlook.com
+  phone: (281) 580-7230
+  ssn: 381 67 6564
+  dob: 08/17/1974
+  address: 1680 Fifth Ln
+  city: Seattle
+  state: TX

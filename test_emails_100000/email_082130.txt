@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Gonzalez",
+    "email": "angela.gonzalez3599@company.com",
+    "phone": "630-607-4864",
+    "ssn": "537146360",
+    "dob": "10/9/1968",
+    "address": "4079 First Court",
+    "city": "Austin",
+    "state": "MD"
+  }
+}

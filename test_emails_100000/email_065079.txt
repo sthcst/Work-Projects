@@ -1,0 +1,9 @@
+contact:
+  name: Steven Jimenez
+  email: steven.jimenez1935@work.org
+  phone: 678-245-1832
+  ssn: 598 36 5394
+  dob: 07-13-1993
+  address: 9344 Fifth Blvd
+  city: San Antonio
+  state: WA

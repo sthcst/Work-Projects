@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Jones",
+    "email": "michael.jones7184@example.com",
+    "phone": "(872) 997-4314",
+    "ssn": "815 34 7715",
+    "dob": "20/09/1983",
+    "address": "9370 Pine St",
+    "city": "Seattle",
+    "state": "MA"
+  }
+}

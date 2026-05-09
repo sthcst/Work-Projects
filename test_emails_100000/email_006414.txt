@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Nelson,michael.nelson1861@mail.com,+1 273-710-1555,083 72 7449,01/06/1975,"3395 West St",Houston,TX

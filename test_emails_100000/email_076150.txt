@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Robinson,katherine.robinson2419@yahoo.com,434 891 6099,558 16 6265,07-09-1985,"7365 Spring Dr",Los Angeles,GA

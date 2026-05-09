@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Gonzalez,william.gonzalez5876@yahoo.com,680 499 5385,979262934,2/22/1982,"5173 Summer Ln",San Jose,TN

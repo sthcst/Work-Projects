@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Evans
+  email: pamela.evans288@work.org
+  phone: (872) 668-4556
+  ssn: 631 56 2963
+  dob: 28/04/1989
+  address: 5266 Third St
+  city: Chicago
+  state: NJ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Williams",
+    "email": "sarah.williams2002@example.com",
+    "phone": "823 247 5658",
+    "ssn": "093599741",
+    "dob": "09/19/1950",
+    "address": "7204 Main Ln",
+    "city": "Houston",
+    "state": "WA"
+  }
+}

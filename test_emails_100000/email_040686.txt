@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Thomas,deborah.thomas9391@work.org,425 626 2996,527 02 4823,20/03/1991,"3958 Spring Ln",New York,TX

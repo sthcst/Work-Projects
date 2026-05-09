@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Stewart,anna.stewart4412@company.com,(946) 471-8137,056 29 8344,04/07/1987,"5241 Third Rd",San Jose,VA

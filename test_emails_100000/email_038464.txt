@@ -1,0 +1,14 @@
+INVOICE 143037
+
+Bill To:
+Name: Angela Brown
+Email: angela.brown283@business.net
+Phone: 588 929 2645
+SSN: 041191986
+
+Address: 260 First St
+Chicago, TX
+
+Date of Birth: 05/16/1951
+
+Amount Due: $1989

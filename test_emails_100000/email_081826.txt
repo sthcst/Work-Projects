@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Thomas",
+    "email": "helen.thomas5827@yahoo.com",
+    "phone": "(345) 219-1244",
+    "ssn": "485-90-7108",
+    "dob": "5/4/1970",
+    "address": "6483 First Way",
+    "city": "San Antonio",
+    "state": "MA"
+  }
+}

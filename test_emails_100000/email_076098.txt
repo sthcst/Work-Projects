@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Wilson",
+    "email": "david.wilson9988@gmail.com",
+    "phone": "+1 586-653-1769",
+    "ssn": "348424801",
+    "dob": "05/01/1953",
+    "address": "6040 Main Rd",
+    "city": "Houston",
+    "state": "MD"
+  }
+}

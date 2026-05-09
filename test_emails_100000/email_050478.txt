@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Gonzalez
+  email: nicole.gonzalez2595@mail.com
+  phone: 690 666 2652
+  ssn: 578 08 7268
+  dob: 28/04/1958
+  address: 9187 Second Rd
+  city: Houston
+  state: NY

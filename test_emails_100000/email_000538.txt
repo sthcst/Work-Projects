@@ -1,0 +1,9 @@
+contact:
+  name: Mark Edwards
+  email: mark.edwards6576@mail.com
+  phone: (711) 291-6468
+  ssn: 361799818
+  dob: 04-11-2003
+  address: 1669 Elm Way
+  city: Austin
+  state: OH

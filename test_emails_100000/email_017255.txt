@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Parker",
+    "email": "steven.parker7244@gmail.com",
+    "phone": "+1 867-434-3174",
+    "ssn": "905 26 1363",
+    "dob": "5/27/2005",
+    "address": "4692 South Rd",
+    "city": "Boston",
+    "state": "WA"
+  }
+}

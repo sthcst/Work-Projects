@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Delgado",
+    "email": "anthony.delgado5376@company.com",
+    "phone": "700-477-2689",
+    "ssn": "391 81 7267",
+    "dob": "22/08/1982",
+    "address": "1438 Oak Ln",
+    "city": "Chicago",
+    "state": "MO"
+  }
+}

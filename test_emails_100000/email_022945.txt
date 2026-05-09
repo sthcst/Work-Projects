@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Thompson",
+    "email": "shirley.thompson9100@outlook.com",
+    "phone": "380-366-1079",
+    "ssn": "594684411",
+    "dob": "26/10/1978",
+    "address": "2530 North Dr",
+    "city": "Denver",
+    "state": "MO"
+  }
+}

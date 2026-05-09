@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Smith,michelle.smith6151@work.org,951 555 3389,810-34-9417,6/21/1989,"9068 Oak Dr",Austin,NJ

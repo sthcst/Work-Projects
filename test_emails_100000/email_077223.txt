@@ -1,0 +1,14 @@
+INVOICE 656206
+
+Bill To:
+Name: Brian Delgado
+Email: brian.delgado2148@example.com
+Phone: +1 226-368-6818
+SSN: 671131999
+
+Address: 1790 Fifth Way
+Los Angeles, CO
+
+Date of Birth: 08-09-1955
+
+Amount Due: $2302

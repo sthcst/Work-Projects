@@ -1,0 +1,14 @@
+INVOICE 956993
+
+Bill To:
+Name: Michael Bell
+Email: michael.bell6110@company.com
+Phone: (722) 588-8054
+SSN: 431 05 4325
+
+Address: 1039 Oak St
+Dallas, CO
+
+Date of Birth: 6/26/1978
+
+Amount Due: $6180

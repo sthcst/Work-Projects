@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Thompson",
+    "email": "richard.thompson1250@mail.com",
+    "phone": "723 878 2845",
+    "ssn": "729-48-9819",
+    "dob": "18/07/1976",
+    "address": "6587 Summer St",
+    "city": "Houston",
+    "state": "AZ"
+  }
+}

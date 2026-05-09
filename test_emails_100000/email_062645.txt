@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Stewart,brian.stewart2117@business.net,291-929-3663,517 55 3459,11/07/1969,"2563 South Blvd",Dallas,TX

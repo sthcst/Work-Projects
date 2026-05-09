@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Stewart,michelle.stewart8761@business.net,(754) 803-3096,904-60-1873,07/26/1953,"7728 Summer St",Houston,TX

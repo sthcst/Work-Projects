@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Reyes
+  email: stephanie.reyes76@gmail.com
+  phone: 726 719 5398
+  ssn: 665593082
+  dob: 10/25/1998
+  address: 9304 Third Court
+  city: Phoenix
+  state: AZ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Romero,maria.romero9329@gmail.com,835 243 2269,898623207,15/05/1994,"4095 North Ln",Los Angeles,CA

@@ -1,0 +1,14 @@
+INVOICE 195566
+
+Bill To:
+Name: James Moore
+Email: james.moore330@business.net
+Phone: +1 552-756-2427
+SSN: 249-05-9085
+
+Address: 7171 Summer Way
+Boston, CA
+
+Date of Birth: 9/1/1978
+
+Amount Due: $3818

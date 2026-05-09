@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Evans,john.evans2368@company.com,501 421 7010,894 55 8810,2/28/1967,"4544 Maple Dr",Chicago,NJ

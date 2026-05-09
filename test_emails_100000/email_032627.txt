@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Sanchez",
+    "email": "shirley.sanchez2031@company.com",
+    "phone": "(423) 511-7848",
+    "ssn": "360-51-1476",
+    "dob": "04/07/1964",
+    "address": "5827 Main Ln",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

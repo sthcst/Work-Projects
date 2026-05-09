@@ -1,0 +1,14 @@
+INVOICE 827203
+
+Bill To:
+Name: Michelle Ramirez
+Email: michelle.ramirez2104@company.com
+Phone: (283) 422-4729
+SSN: 039 47 4020
+
+Address: 3724 Second Dr
+Boston, TX
+
+Date of Birth: 03-18-2001
+
+Amount Due: $3980

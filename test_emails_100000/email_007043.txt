@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Lee
+  email: ashley.lee9409@mail.com
+  phone: 422-495-4090
+  ssn: 559723514
+  dob: 02/16/2000
+  address: 8095 South St
+  city: Jacksonville
+  state: IL

@@ -1,0 +1,9 @@
+contact:
+  name: Robert Delgado
+  email: robert.delgado4883@yahoo.com
+  phone: +1 834-676-8054
+  ssn: 798 72 5611
+  dob: 01/22/1972
+  address: 5185 West Court
+  city: San Jose
+  state: IL

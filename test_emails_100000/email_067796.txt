@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Garcia
+  email: katherine.garcia2997@outlook.com
+  phone: (391) 868-1931
+  ssn: 344-25-9536
+  dob: 10-13-1979
+  address: 4256 Birch Court
+  city: Jacksonville
+  state: IL

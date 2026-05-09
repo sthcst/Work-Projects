@@ -1,0 +1,14 @@
+INVOICE 207024
+
+Bill To:
+Name: Jason Rodriguez
+Email: jason.rodriguez5415@example.com
+Phone: 486-361-1960
+SSN: 730419634
+
+Address: 1354 Spring Ln
+San Diego, NY
+
+Date of Birth: 9/25/1978
+
+Amount Due: $4636

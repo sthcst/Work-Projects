@@ -1,0 +1,9 @@
+contact:
+  name: Charles Ramirez
+  email: charles.ramirez2083@yahoo.com
+  phone: (923) 863-3891
+  ssn: 674 46 4056
+  dob: 01/25/1985
+  address: 1104 Maple Court
+  city: Chicago
+  state: WA

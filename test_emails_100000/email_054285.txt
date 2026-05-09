@@ -1,0 +1,9 @@
+contact:
+  name: Megan Serrano
+  email: megan.serrano1672@example.com
+  phone: +1 411-845-6769
+  ssn: 775693453
+  dob: 10-25-1964
+  address: 1566 North Blvd
+  city: Denver
+  state: PA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Roberts,amanda.roberts6953@yahoo.com,256 487 8106,510113822,05/27/1977,"1585 Summer Ln",San Jose,TX

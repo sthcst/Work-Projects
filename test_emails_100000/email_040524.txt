@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Rogers,samantha.rogers5756@yahoo.com,970 866 3724,757 69 1123,3/21/1976,"9469 Spring Way",Dallas,GA

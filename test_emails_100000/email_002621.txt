@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Alvarado,jessica.alvarado2788@business.net,956 902 5771,298511048,21/11/1995,"8303 Third Blvd",San Diego,AZ

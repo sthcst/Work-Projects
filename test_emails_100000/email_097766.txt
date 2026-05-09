@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Miller",
+    "email": "rachel.miller5308@company.com",
+    "phone": "(471) 436-9586",
+    "ssn": "799 68 9789",
+    "dob": "1/13/1973",
+    "address": "9040 Second Ave",
+    "city": "Washington",
+    "state": "IL"
+  }
+}

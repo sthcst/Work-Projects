@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Edwards",
+    "email": "joseph.edwards3776@company.com",
+    "phone": "(225) 207-4271",
+    "ssn": "948 24 6515",
+    "dob": "10-26-1976",
+    "address": "7301 Spring Ave",
+    "city": "San Antonio",
+    "state": "WI"
+  }
+}

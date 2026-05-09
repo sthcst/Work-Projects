@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Reeves,sarah.reeves7626@example.com,+1 535-641-6741,326-61-7222,09/27/1978,"9322 Summer Ln",Chicago,GA

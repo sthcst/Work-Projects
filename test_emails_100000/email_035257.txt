@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Alvarado",
+    "email": "mark.alvarado4528@company.com",
+    "phone": "384 391 6771",
+    "ssn": "243489820",
+    "dob": "06-22-1978",
+    "address": "970 Oak Ave",
+    "city": "New York",
+    "state": "MA"
+  }
+}

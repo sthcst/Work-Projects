@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Young,kevin.young1817@example.com,+1 442-997-2138,261 91 4983,12/04/1974,"9754 Summer Ln",Dallas,CO

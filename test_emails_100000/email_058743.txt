@@ -1,0 +1,9 @@
+contact:
+  name: George Reyes
+  email: george.reyes2888@work.org
+  phone: 222 978 5645
+  ssn: 841 29 4279
+  dob: 03/03/1956
+  address: 1129 Third Rd
+  city: Boston
+  state: MD

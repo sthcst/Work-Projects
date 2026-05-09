@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Stewart",
+    "email": "robert.stewart2647@example.com",
+    "phone": "+1 480-353-1592",
+    "ssn": "742-61-4196",
+    "dob": "25/01/1960",
+    "address": "7561 Pine Ave",
+    "city": "San Diego",
+    "state": "TN"
+  }
+}

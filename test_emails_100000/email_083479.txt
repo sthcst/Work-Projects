@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Ortiz
+  email: shirley.ortiz4177@company.com
+  phone: (692) 255-1788
+  ssn: 207-18-5908
+  dob: 01-01-1984
+  address: 1037 Birch Blvd
+  city: Chicago
+  state: TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Romero",
+    "email": "angela.romero7986@business.net",
+    "phone": "945 902 9618",
+    "ssn": "509-60-7528",
+    "dob": "05-10-1968",
+    "address": "4057 Sixth Blvd",
+    "city": "Los Angeles",
+    "state": "AZ"
+  }
+}

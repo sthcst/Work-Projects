@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Perez
+  email: andrew.perez3151@work.org
+  phone: 573 877 5433
+  ssn: 084-33-2036
+  dob: 03/05/1995
+  address: 2147 Maple St
+  city: San Diego
+  state: CA

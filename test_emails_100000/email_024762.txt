@@ -1,0 +1,9 @@
+contact:
+  name: James Campbell
+  email: james.campbell1483@outlook.com
+  phone: 252 960 9938
+  ssn: 901 42 5530
+  dob: 01-11-1978
+  address: 7726 Elm St
+  city: Seattle
+  state: PA

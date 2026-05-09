@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Dominguez,nicole.dominguez9941@example.com,(919) 751-4606,762417450,7/3/1988,"6005 Summer Court",Houston,WI

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Flores,megan.flores1746@example.com,(697) 539-1572,175337553,05-15-1986,"9567 East Dr",Philadelphia,WI

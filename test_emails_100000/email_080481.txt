@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Carter",
+    "email": "samantha.carter9952@example.com",
+    "phone": "+1 930-299-8524",
+    "ssn": "581 78 1778",
+    "dob": "05-18-1962",
+    "address": "8739 Second Ln",
+    "city": "San Jose",
+    "state": "NJ"
+  }
+}

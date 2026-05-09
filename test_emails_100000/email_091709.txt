@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Carter
+  email: christopher.carter8194@example.com
+  phone: 394 875 2867
+  ssn: 217-02-8828
+  dob: 7/3/1973
+  address: 6976 Spring Ln
+  city: Austin
+  state: FL

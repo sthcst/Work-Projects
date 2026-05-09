@@ -1,0 +1,14 @@
+INVOICE 992330
+
+Bill To:
+Name: Kevin Ortiz
+Email: kevin.ortiz4874@company.com
+Phone: 653 364 9356
+SSN: 484 28 1810
+
+Address: 5323 First Blvd
+Chicago, MA
+
+Date of Birth: 2/14/1965
+
+Amount Due: $2903

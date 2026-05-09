@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Serrano
+  email: amanda.serrano6123@business.net
+  phone: 791 697 5368
+  ssn: 265 70 1078
+  dob: 8/20/1995
+  address: 5205 Elm Court
+  city: Seattle
+  state: WI

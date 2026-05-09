@@ -1,0 +1,9 @@
+contact:
+  name: Charles Reed
+  email: charles.reed2957@yahoo.com
+  phone: (543) 678-8582
+  ssn: 982 55 4660
+  dob: 2/9/1987
+  address: 1802 Park Dr
+  city: Washington
+  state: MA

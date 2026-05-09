@@ -1,0 +1,14 @@
+INVOICE 189202
+
+Bill To:
+Name: Gary Bell
+Email: gary.bell3384@company.com
+Phone: (937) 926-7787
+SSN: 521 80 4312
+
+Address: 9571 West Way
+Denver, MO
+
+Date of Birth: 11/19/2005
+
+Amount Due: $617

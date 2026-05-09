@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Rodriguez
+  email: anthony.rodriguez669@company.com
+  phone: (220) 826-2966
+  ssn: 785 96 3041
+  dob: 09/05/1964
+  address: 2135 Sixth Ln
+  city: Jacksonville
+  state: NJ

@@ -1,0 +1,14 @@
+INVOICE 283606
+
+Bill To:
+Name: Gary Cooper
+Email: gary.cooper1830@company.com
+Phone: +1 217-534-5573
+SSN: 534 94 7118
+
+Address: 2064 Birch Dr
+San Diego, TX
+
+Date of Birth: 4/21/1970
+
+Amount Due: $6017

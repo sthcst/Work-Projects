@@ -1,0 +1,9 @@
+contact:
+  name: Mark Lewis
+  email: mark.lewis8950@company.com
+  phone: +1 538-974-3904
+  ssn: 295 01 5302
+  dob: 04-18-1975
+  address: 1740 Second Way
+  city: New York
+  state: TX

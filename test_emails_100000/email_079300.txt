@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Ortiz
+  email: andrew.ortiz3837@outlook.com
+  phone: 404-237-4474
+  ssn: 887-55-1137
+  dob: 21/02/1973
+  address: 6348 Main Dr
+  city: Jacksonville
+  state: NY

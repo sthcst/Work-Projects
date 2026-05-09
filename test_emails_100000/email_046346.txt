@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Williams
+  email: stephanie.williams5665@work.org
+  phone: 461-210-2944
+  ssn: 563-45-7302
+  dob: 25/07/1950
+  address: 1467 Oak Ave
+  city: Jacksonville
+  state: AZ

@@ -1,0 +1,9 @@
+contact:
+  name: David Bell
+  email: david.bell8680@mail.com
+  phone: 577 669 7074
+  ssn: 530564143
+  dob: 10/14/1989
+  address: 6833 North Ave
+  city: New York
+  state: FL

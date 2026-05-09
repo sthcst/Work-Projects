@@ -1,0 +1,14 @@
+INVOICE 515954
+
+Bill To:
+Name: Ronald Delgado
+Email: ronald.delgado4428@company.com
+Phone: 299 876 2460
+SSN: 052-82-3591
+
+Address: 3297 West Ave
+Chicago, PA
+
+Date of Birth: 10/01/1988
+
+Amount Due: $3770

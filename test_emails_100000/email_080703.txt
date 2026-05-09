@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Delgado,robert.delgado3537@company.com,664-227-4651,399548995,02-08-1959,"3067 Second Court",Boston,NY

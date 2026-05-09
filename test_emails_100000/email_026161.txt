@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Bell",
+    "email": "lauren.bell1971@work.org",
+    "phone": "+1 991-954-1983",
+    "ssn": "853 53 9969",
+    "dob": "9/4/1970",
+    "address": "7795 Spring St",
+    "city": "New York",
+    "state": "TX"
+  }
+}

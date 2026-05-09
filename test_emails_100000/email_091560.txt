@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Jimenez",
+    "email": "katherine.jimenez736@business.net",
+    "phone": "594-415-8893",
+    "ssn": "431-78-7715",
+    "dob": "02/10/2002",
+    "address": "6597 Sixth Ave",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

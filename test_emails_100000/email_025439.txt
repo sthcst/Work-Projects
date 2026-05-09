@@ -1,0 +1,14 @@
+INVOICE 802240
+
+Bill To:
+Name: Cynthia Garcia
+Email: cynthia.garcia2398@mail.com
+Phone: (342) 591-7697
+SSN: 089 39 6350
+
+Address: 1874 Birch Ln
+San Jose, NY
+
+Date of Birth: 18/04/1980
+
+Amount Due: $3941

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Morgan,kathleen.morgan2121@yahoo.com,(263) 934-1966,041-97-7773,08-25-1967,"1847 North Dr",Dallas,OH

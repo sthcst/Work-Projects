@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Rogers
+  email: christopher.rogers5854@work.org
+  phone: +1 627-969-5383
+  ssn: 161 10 4094
+  dob: 10/01/1997
+  address: 3348 Third Blvd
+  city: Austin
+  state: NJ

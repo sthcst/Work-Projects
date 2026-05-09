@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine White",
+    "email": "katherine.white8263@outlook.com",
+    "phone": "(498) 224-4934",
+    "ssn": "006-78-2375",
+    "dob": "02-28-1999",
+    "address": "4774 Sixth Way",
+    "city": "San Antonio",
+    "state": "GA"
+  }
+}

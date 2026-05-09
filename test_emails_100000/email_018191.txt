@@ -1,0 +1,14 @@
+INVOICE 488147
+
+Bill To:
+Name: Lauren Smith
+Email: lauren.smith1911@yahoo.com
+Phone: +1 507-457-6000
+SSN: 415748772
+
+Address: 7110 Birch Ave
+Phoenix, TX
+
+Date of Birth: 06/11/1964
+
+Amount Due: $714

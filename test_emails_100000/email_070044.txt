@@ -1,0 +1,9 @@
+contact:
+  name: Paul Smith
+  email: paul.smith9275@example.com
+  phone: 792-410-6591
+  ssn: 044-21-1145
+  dob: 11-02-2004
+  address: 811 Cedar Rd
+  city: Jacksonville
+  state: MO

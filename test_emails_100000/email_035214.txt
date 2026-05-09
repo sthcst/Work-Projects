@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Reed",
+    "email": "maria.reed1394@mail.com",
+    "phone": "+1 490-868-8030",
+    "ssn": "296171004",
+    "dob": "23/07/1985",
+    "address": "2624 Cedar St",
+    "city": "Boston",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 914745
+
+Bill To:
+Name: Daniel Perez
+Email: daniel.perez9662@example.com
+Phone: 708 348 3940
+SSN: 383911440
+
+Address: 6696 Second Dr
+Philadelphia, NY
+
+Date of Birth: 08/12/1971
+
+Amount Due: $9388

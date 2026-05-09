@@ -1,0 +1,14 @@
+INVOICE 920945
+
+Bill To:
+Name: Stephanie Hernandez
+Email: stephanie.hernandez4976@example.com
+Phone: 884-838-7344
+SSN: 037945261
+
+Address: 504 Spring Dr
+Boston, MO
+
+Date of Birth: 04-07-2005
+
+Amount Due: $8608

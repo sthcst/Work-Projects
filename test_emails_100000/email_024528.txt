@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Harris,angela.harris2811@example.com,+1 704-944-4566,724149908,11/10/1969,"2745 Fifth Blvd",Philadelphia,OH

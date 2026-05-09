@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Lee",
+    "email": "ryan.lee1626@work.org",
+    "phone": "360 814 3274",
+    "ssn": "850 17 1433",
+    "dob": "2/14/1979",
+    "address": "1963 South Ln",
+    "city": "Philadelphia",
+    "state": "MD"
+  }
+}

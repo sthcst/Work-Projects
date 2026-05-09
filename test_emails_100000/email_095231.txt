@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Martinez",
+    "email": "kimberly.martinez1938@yahoo.com",
+    "phone": "589-802-8538",
+    "ssn": "103-98-9946",
+    "dob": "08-10-2001",
+    "address": "2039 Elm Blvd",
+    "city": "New York",
+    "state": "PA"
+  }
+}

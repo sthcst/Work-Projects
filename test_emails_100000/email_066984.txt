@@ -1,0 +1,14 @@
+INVOICE 220320
+
+Bill To:
+Name: Helen Taylor
+Email: helen.taylor3376@work.org
+Phone: 630-393-9359
+SSN: 886 88 8898
+
+Address: 2789 First St
+Chicago, FL
+
+Date of Birth: 09-25-2003
+
+Amount Due: $6391

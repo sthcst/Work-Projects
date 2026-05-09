@@ -1,0 +1,14 @@
+INVOICE 264511
+
+Bill To:
+Name: Michael Bell
+Email: michael.bell2390@work.org
+Phone: 205 576 7568
+SSN: 681 39 6419
+
+Address: 473 Maple St
+Boston, MA
+
+Date of Birth: 22/09/2005
+
+Amount Due: $5572

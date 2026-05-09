@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Guerrero,christine.guerrero9336@company.com,+1 998-927-5979,895592001,08/08/1964,"7686 Cedar St",Phoenix,FL

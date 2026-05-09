@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Hernandez
+  email: rachel.hernandez6602@example.com
+  phone: +1 920-723-1701
+  ssn: 318 01 6804
+  dob: 03-10-1999
+  address: 8581 Fifth Court
+  city: San Jose
+  state: WA

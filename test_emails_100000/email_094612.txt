@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Carter,jessica.carter2357@business.net,+1 821-749-9237,934-46-8287,6/24/1986,"1576 Birch Ave",Phoenix,NY

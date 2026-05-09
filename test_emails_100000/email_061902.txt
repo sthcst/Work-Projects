@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Delgado",
+    "email": "kimberly.delgado3990@example.com",
+    "phone": "+1 524-555-8646",
+    "ssn": "323 04 4540",
+    "dob": "09-05-1953",
+    "address": "2344 Spring Court",
+    "city": "New York",
+    "state": "NJ"
+  }
+}

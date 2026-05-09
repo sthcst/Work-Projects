@@ -1,0 +1,14 @@
+INVOICE 788304
+
+Bill To:
+Name: Kimberly Johnson
+Email: kimberly.johnson1615@outlook.com
+Phone: 424 904 4860
+SSN: 692839884
+
+Address: 304 Third Ln
+Seattle, NY
+
+Date of Birth: 6/24/1998
+
+Amount Due: $6018

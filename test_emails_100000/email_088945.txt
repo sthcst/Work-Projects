@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Romero",
+    "email": "angela.romero5046@example.com",
+    "phone": "+1 784-641-9738",
+    "ssn": "184-84-6876",
+    "dob": "07/12/2005",
+    "address": "8149 Third Ave",
+    "city": "Phoenix",
+    "state": "TN"
+  }
+}

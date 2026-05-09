@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Young",
+    "email": "joseph.young7837@mail.com",
+    "phone": "432-464-8550",
+    "ssn": "448-57-8173",
+    "dob": "5/9/1950",
+    "address": "7515 Maple Way",
+    "city": "New York",
+    "state": "NY"
+  }
+}

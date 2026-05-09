@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Walker",
+    "email": "richard.walker5381@company.com",
+    "phone": "792 941 9018",
+    "ssn": "784-22-8414",
+    "dob": "12/08/1957",
+    "address": "8712 Cedar Blvd",
+    "city": "Philadelphia",
+    "state": "GA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Nelson
+  email: ashley.nelson647@gmail.com
+  phone: 631-302-5732
+  ssn: 251 91 8245
+  dob: 12/27/1951
+  address: 8253 Cedar St
+  city: Seattle
+  state: MO

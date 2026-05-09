@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Thompson",
+    "email": "katherine.thompson8981@yahoo.com",
+    "phone": "809 329 7773",
+    "ssn": "455-05-4303",
+    "dob": "03-16-1975",
+    "address": "9093 Third Ave",
+    "city": "Seattle",
+    "state": "NJ"
+  }
+}

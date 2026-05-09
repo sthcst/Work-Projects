@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Gonzalez,joseph.gonzalez9995@gmail.com,+1 845-953-8223,484-68-7790,3/11/1982,"9735 Cedar Ave",Chicago,CA

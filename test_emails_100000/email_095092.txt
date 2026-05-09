@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Romero
+  email: brenda.romero5522@outlook.com
+  phone: 256-359-8497
+  ssn: 498 30 7383
+  dob: 6/11/1967
+  address: 8731 Fourth Dr
+  city: Houston
+  state: IL

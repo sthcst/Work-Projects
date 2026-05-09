@@ -1,0 +1,9 @@
+contact:
+  name: Richard Clark
+  email: richard.clark3016@company.com
+  phone: (716) 373-7267
+  ssn: 544 86 6839
+  dob: 21/10/1959
+  address: 7092 Elm Ave
+  city: Jacksonville
+  state: OH

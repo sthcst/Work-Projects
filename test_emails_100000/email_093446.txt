@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Morgan
+  email: shirley.morgan8058@business.net
+  phone: 478 829 2935
+  ssn: 469-73-5741
+  dob: 10/08/2005
+  address: 321 Pine Blvd
+  city: San Antonio
+  state: NC

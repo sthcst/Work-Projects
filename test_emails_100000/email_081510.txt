@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Nunez",
+    "email": "sarah.nunez3828@yahoo.com",
+    "phone": "401-768-4990",
+    "ssn": "108024847",
+    "dob": "19/04/1979",
+    "address": "1463 East St",
+    "city": "Los Angeles",
+    "state": "OH"
+  }
+}

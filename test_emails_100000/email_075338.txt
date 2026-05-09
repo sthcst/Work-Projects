@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Carter,timothy.carter4645@example.com,+1 827-336-8282,452-81-3558,25/01/1986,"9950 Summer Ave",San Jose,IL

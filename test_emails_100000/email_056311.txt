@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Miller,brenda.miller9264@work.org,470 715 1308,385418770,08-04-1998,"8968 Third Way",Chicago,IL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Anderson",
+    "email": "pamela.anderson283@company.com",
+    "phone": "570 358 7412",
+    "ssn": "231 84 3032",
+    "dob": "08-25-1962",
+    "address": "6492 First Ave",
+    "city": "Denver",
+    "state": "MI"
+  }
+}

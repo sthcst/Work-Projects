@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Rogers,gary.rogers3531@gmail.com,557 724 4372,875-64-3410,10/26/1977,"6323 West Dr",Jacksonville,TX

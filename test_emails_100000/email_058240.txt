@@ -1,0 +1,9 @@
+contact:
+  name: Jason Guerrero
+  email: jason.guerrero2159@yahoo.com
+  phone: 296-454-5199
+  ssn: 782-61-9814
+  dob: 06/09/1985
+  address: 2781 Birch Way
+  city: Boston
+  state: OH

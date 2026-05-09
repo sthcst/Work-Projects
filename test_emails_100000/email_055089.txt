@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Alvarado
+  email: kimberly.alvarado3953@example.com
+  phone: +1 829-846-2388
+  ssn: 724028506
+  dob: 10/25/1986
+  address: 1286 Second Blvd
+  city: Phoenix
+  state: MA

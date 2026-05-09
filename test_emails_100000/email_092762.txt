@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Romero",
+    "email": "george.romero7390@business.net",
+    "phone": "(927) 234-9599",
+    "ssn": "490 40 6115",
+    "dob": "10/28/2003",
+    "address": "906 First St",
+    "city": "Washington",
+    "state": "NY"
+  }
+}

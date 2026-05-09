@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Bell
+  email: nicole.bell1690@work.org
+  phone: +1 534-589-1346
+  ssn: 320-08-7665
+  dob: 05-08-1968
+  address: 9938 First Ln
+  city: Philadelphia
+  state: CA

@@ -1,0 +1,9 @@
+contact:
+  name: Megan Gomez
+  email: megan.gomez4720@work.org
+  phone: 950 480 2915
+  ssn: 638-12-2556
+  dob: 07-08-1987
+  address: 1603 Spring Ave
+  city: San Antonio
+  state: GA

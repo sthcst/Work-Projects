@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Reyes,stephanie.reyes789@mail.com,+1 997-823-5205,901 56 4120,20/09/1985,"1397 Park Way",San Jose,CA

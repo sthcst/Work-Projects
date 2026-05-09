@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Thomas",
+    "email": "edward.thomas9888@outlook.com",
+    "phone": "(846) 490-1295",
+    "ssn": "242497110",
+    "dob": "02-06-1951",
+    "address": "4168 Elm Ln",
+    "city": "San Antonio",
+    "state": "CA"
+  }
+}

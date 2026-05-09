@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Anderson",
+    "email": "cynthia.anderson8756@company.com",
+    "phone": "476-418-9520",
+    "ssn": "258-63-5509",
+    "dob": "24/10/2005",
+    "address": "747 Pine Way",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

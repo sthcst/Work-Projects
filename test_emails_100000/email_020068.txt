@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Romero",
+    "email": "lauren.romero9611@work.org",
+    "phone": "(857) 866-1188",
+    "ssn": "168 22 2806",
+    "dob": "10/16/1970",
+    "address": "2796 Pine Way",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

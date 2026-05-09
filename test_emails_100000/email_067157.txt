@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Williams
+  email: michelle.williams4448@gmail.com
+  phone: 275-555-7270
+  ssn: 766 63 6003
+  dob: 1/15/2001
+  address: 7354 Second St
+  city: Denver
+  state: CA

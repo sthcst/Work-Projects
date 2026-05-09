@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Rodriguez,nicole.rodriguez4971@gmail.com,+1 334-538-3392,711-37-1263,12-21-1971,"9442 Fifth Ln",New York,CA

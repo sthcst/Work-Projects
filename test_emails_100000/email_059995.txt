@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Lewis,katherine.lewis5364@yahoo.com,789-295-7484,299439074,10/8/1996,"2437 Fifth Dr",Dallas,NY

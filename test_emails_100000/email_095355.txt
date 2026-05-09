@@ -1,0 +1,14 @@
+INVOICE 531970
+
+Bill To:
+Name: Timothy Guerrero
+Email: timothy.guerrero3773@company.com
+Phone: 551 927 5496
+SSN: 605639360
+
+Address: 1934 West Ave
+Jacksonville, NC
+
+Date of Birth: 07/26/1982
+
+Amount Due: $5817

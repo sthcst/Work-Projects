@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Romero",
+    "email": "pamela.romero5509@mail.com",
+    "phone": "628 875 6797",
+    "ssn": "288-95-3174",
+    "dob": "7/2/1951",
+    "address": "4363 Third Blvd",
+    "city": "Philadelphia",
+    "state": "NC"
+  }
+}

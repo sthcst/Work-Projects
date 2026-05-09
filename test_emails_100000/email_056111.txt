@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Collins",
+    "email": "nicholas.collins5439@business.net",
+    "phone": "470 326 1375",
+    "ssn": "679 50 8723",
+    "dob": "06/19/1997",
+    "address": "522 Fourth Blvd",
+    "city": "San Jose",
+    "state": "CA"
+  }
+}

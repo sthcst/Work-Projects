@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Perez,lauren.perez1058@mail.com,+1 889-511-2174,673 07 4124,22/11/1965,"5557 South Court",New York,NJ

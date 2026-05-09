@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Cooper
+  email: nicholas.cooper786@work.org
+  phone: +1 371-797-3754
+  ssn: 517 88 8793
+  dob: 11/14/1989
+  address: 6462 Second St
+  city: Denver
+  state: AZ

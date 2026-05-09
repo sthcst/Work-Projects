@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Jimenez",
+    "email": "anna.jimenez2442@outlook.com",
+    "phone": "765-545-6535",
+    "ssn": "876-28-2588",
+    "dob": "11-10-1995",
+    "address": "3962 Cedar Court",
+    "city": "Denver",
+    "state": "VA"
+  }
+}

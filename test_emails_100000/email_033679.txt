@@ -1,0 +1,14 @@
+INVOICE 978595
+
+Bill To:
+Name: Emily Garcia
+Email: emily.garcia4840@example.com
+Phone: (322) 523-3824
+SSN: 840-04-1409
+
+Address: 2315 Main Blvd
+San Antonio, NY
+
+Date of Birth: 12-14-1957
+
+Amount Due: $677

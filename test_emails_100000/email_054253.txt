@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Reed
+  email: ashley.reed263@company.com
+  phone: 553 213 4708
+  ssn: 238925296
+  dob: 02-20-1978
+  address: 5137 Spring Court
+  city: San Antonio
+  state: IL

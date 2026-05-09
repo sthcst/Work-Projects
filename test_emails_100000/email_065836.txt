@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Jones",
+    "email": "emma.jones3191@yahoo.com",
+    "phone": "609 629 6308",
+    "ssn": "507268512",
+    "dob": "03-04-1966",
+    "address": "8886 Maple Ave",
+    "city": "Houston",
+    "state": "VA"
+  }
+}

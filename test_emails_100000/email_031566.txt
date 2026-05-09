@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Martin
+  email: samantha.martin684@outlook.com
+  phone: 824-478-8454
+  ssn: 013639437
+  dob: 09/08/1958
+  address: 1288 East Ave
+  city: Austin
+  state: CA

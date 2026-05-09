@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Martinez
+  email: kimberly.martinez1133@example.com
+  phone: 547-253-2367
+  ssn: 802 85 9832
+  dob: 10/03/1967
+  address: 3970 Second Court
+  city: Dallas
+  state: VA

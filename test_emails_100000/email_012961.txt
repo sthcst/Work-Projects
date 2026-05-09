@@ -1,0 +1,14 @@
+INVOICE 683724
+
+Bill To:
+Name: James Bell
+Email: james.bell9547@business.net
+Phone: +1 567-582-2621
+SSN: 540769331
+
+Address: 2390 Second Ave
+Austin, OH
+
+Date of Birth: 09/02/1959
+
+Amount Due: $321

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Brown,brian.brown4264@outlook.com,428 912 2275,791097205,12/05/2001,"361 Fourth Way",New York,TX

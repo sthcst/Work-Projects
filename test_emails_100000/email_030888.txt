@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Serrano,jennifer.serrano5703@outlook.com,851-975-5194,865537205,11-06-2001,"1228 Fourth St",Philadelphia,MO

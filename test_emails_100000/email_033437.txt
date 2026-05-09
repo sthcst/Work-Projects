@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Nunez,angela.nunez6235@work.org,(670) 445-7481,376 24 5351,21/05/2003,"2870 Oak St",Phoenix,MA

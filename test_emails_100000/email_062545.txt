@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Campbell
+  email: joshua.campbell550@work.org
+  phone: 721 998 7723
+  ssn: 392 61 3067
+  dob: 06/25/1964
+  address: 5674 Pine Rd
+  city: San Diego
+  state: CO

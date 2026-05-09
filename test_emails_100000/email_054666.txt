@@ -1,0 +1,12 @@
+SUPPORT TICKET #68747
+
+Customer: Andrew Ortiz
+Email: andrew.ortiz2537@example.com
+Phone: 952 514 3111
+Account: 682 20 6626
+
+Issue Description: Technical problem reported
+DOB on file: 12/03/2000
+Address: 1880 Fifth Blvd, Boston, NJ
+
+Status: OPEN

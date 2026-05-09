@@ -1,0 +1,14 @@
+INVOICE 273400
+
+Bill To:
+Name: Kevin Walker
+Email: kevin.walker604@mail.com
+Phone: 700-267-1018
+SSN: 839 73 2366
+
+Address: 1751 Oak Rd
+Chicago, IL
+
+Date of Birth: 03-24-1986
+
+Amount Due: $8460

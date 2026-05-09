@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Jimenez
+  email: ashley.jimenez5498@mail.com
+  phone: (917) 565-2750
+  ssn: 348236692
+  dob: 6/3/1952
+  address: 2015 Fourth Ave
+  city: New York
+  state: MA

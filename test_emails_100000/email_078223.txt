@@ -1,0 +1,14 @@
+INVOICE 704908
+
+Bill To:
+Name: Rebecca Jackson
+Email: rebecca.jackson665@work.org
+Phone: 553-544-3636
+SSN: 973 06 4315
+
+Address: 1389 South Court
+San Jose, WA
+
+Date of Birth: 04/02/1980
+
+Amount Due: $7203

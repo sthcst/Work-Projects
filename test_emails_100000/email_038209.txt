@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Davis,kenneth.davis4843@gmail.com,+1 622-453-7990,976686450,07/27/1982,"4194 Third Ln",Los Angeles,WA

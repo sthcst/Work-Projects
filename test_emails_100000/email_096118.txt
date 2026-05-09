@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Perez",
+    "email": "brian.perez9986@company.com",
+    "phone": "729-756-1645",
+    "ssn": "233-82-4077",
+    "dob": "01-17-1976",
+    "address": "8799 First Ave",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

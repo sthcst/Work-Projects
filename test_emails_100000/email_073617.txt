@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Nelson
+  email: deborah.nelson3466@company.com
+  phone: 883 568 3651
+  ssn: 156-09-5966
+  dob: 04-10-1950
+  address: 2993 Main Blvd
+  city: Seattle
+  state: CA

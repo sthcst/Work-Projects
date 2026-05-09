@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Lewis
+  email: ashley.lewis9045@outlook.com
+  phone: (747) 841-6868
+  ssn: 656 05 1262
+  dob: 11/01/1964
+  address: 8745 Spring St
+  city: Chicago
+  state: WA

@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Thomas
+  email: samantha.thomas8495@mail.com
+  phone: (606) 904-6630
+  ssn: 973692975
+  dob: 02-23-1962
+  address: 5465 Fourth Ln
+  city: Los Angeles
+  state: MI

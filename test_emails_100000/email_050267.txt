@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Dominguez",
+    "email": "samantha.dominguez3619@company.com",
+    "phone": "(409) 680-6942",
+    "ssn": "280-05-9689",
+    "dob": "08-13-1962",
+    "address": "4744 Summer Rd",
+    "city": "Seattle",
+    "state": "MA"
+  }
+}

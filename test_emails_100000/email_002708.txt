@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Lopez,brian.lopez5889@yahoo.com,+1 342-441-4365,478-67-5379,09/21/1979,"9431 South Court",Chicago,FL

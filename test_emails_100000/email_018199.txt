@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Delgado,nicholas.delgado345@mail.com,510-863-2704,449-69-6206,11-16-1973,"6002 South Dr",Austin,NJ

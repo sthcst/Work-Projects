@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Roberts
+  email: joseph.roberts2477@company.com
+  phone: 495-545-4532
+  ssn: 675-50-8585
+  dob: 05-26-1989
+  address: 9811 Maple Rd
+  city: Dallas
+  state: CA

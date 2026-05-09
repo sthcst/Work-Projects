@@ -1,0 +1,9 @@
+contact:
+  name: Charles Phillips
+  email: charles.phillips2964@work.org
+  phone: (467) 836-2039
+  ssn: 338-13-8689
+  dob: 06-24-1987
+  address: 6157 Spring Rd
+  city: San Diego
+  state: TN

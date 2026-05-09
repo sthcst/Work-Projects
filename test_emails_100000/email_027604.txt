@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Clark,donald.clark1509@company.com,(600) 247-4937,566-01-5234,27/07/1978,"2227 Fourth Blvd",New York,FL

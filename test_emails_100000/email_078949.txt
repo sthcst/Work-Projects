@@ -1,0 +1,9 @@
+contact:
+  name: Emma Reeves
+  email: emma.reeves5208@example.com
+  phone: 288-839-6050
+  ssn: 841-90-1289
+  dob: 06/11/1984
+  address: 6835 Birch Ave
+  city: Denver
+  state: TX

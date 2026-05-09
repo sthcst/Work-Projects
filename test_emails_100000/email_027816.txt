@@ -1,0 +1,14 @@
+INVOICE 442350
+
+Bill To:
+Name: Ronald Clark
+Email: ronald.clark6752@example.com
+Phone: 626 362 7593
+SSN: 299679539
+
+Address: 4700 East Ln
+Austin, WA
+
+Date of Birth: 12-14-1979
+
+Amount Due: $8288

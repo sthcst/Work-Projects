@@ -1,0 +1,14 @@
+INVOICE 225484
+
+Bill To:
+Name: Anthony Jimenez
+Email: anthony.jimenez2341@gmail.com
+Phone: 214 424 7654
+SSN: 832-77-5223
+
+Address: 5478 West Way
+Houston, NC
+
+Date of Birth: 26/09/1990
+
+Amount Due: $9806

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Miller,deborah.miller3660@company.com,(925) 873-7643,438969400,24/10/1995,"3734 Fourth Ln",New York,TN

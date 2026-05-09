@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Miller
+  email: joseph.miller9769@business.net
+  phone: (388) 824-4282
+  ssn: 233 65 9467
+  dob: 11/24/1972
+  address: 207 Pine St
+  city: San Diego
+  state: MD

@@ -1,0 +1,9 @@
+contact:
+  name: Maria Martinez
+  email: maria.martinez4482@work.org
+  phone: 653-232-3780
+  ssn: 560614234
+  dob: 03/13/1985
+  address: 5526 Oak Ave
+  city: Los Angeles
+  state: NC

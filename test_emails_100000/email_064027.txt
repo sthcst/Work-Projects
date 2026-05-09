@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Alvarado
+  email: joseph.alvarado3746@mail.com
+  phone: +1 906-995-7677
+  ssn: 731664211
+  dob: 12/01/1975
+  address: 8559 Pine Ln
+  city: New York
+  state: VA

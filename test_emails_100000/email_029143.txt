@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Moore,amanda.moore8606@example.com,(374) 657-1204,676715466,14/10/1988,"6164 Third Court",Los Angeles,TX

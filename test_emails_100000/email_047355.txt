@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Robinson",
+    "email": "stephanie.robinson7104@outlook.com",
+    "phone": "884-890-5109",
+    "ssn": "036 24 7085",
+    "dob": "12/14/1976",
+    "address": "808 East Rd",
+    "city": "Chicago",
+    "state": "MO"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Walker
+  email: anthony.walker2012@yahoo.com
+  phone: +1 227-741-2278
+  ssn: 619456296
+  dob: 08/09/2000
+  address: 8774 Cedar Court
+  city: Jacksonville
+  state: NC

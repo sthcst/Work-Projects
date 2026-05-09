@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Phillips",
+    "email": "george.phillips334@work.org",
+    "phone": "+1 843-262-4900",
+    "ssn": "117 59 6466",
+    "dob": "06/01/1985",
+    "address": "97 First Ave",
+    "city": "Philadelphia",
+    "state": "MO"
+  }
+}

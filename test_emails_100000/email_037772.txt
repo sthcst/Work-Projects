@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Stewart",
+    "email": "jennifer.stewart7418@example.com",
+    "phone": "408 646 8442",
+    "ssn": "157 76 3237",
+    "dob": "01/13/1952",
+    "address": "1986 Second Rd",
+    "city": "Denver",
+    "state": "AZ"
+  }
+}

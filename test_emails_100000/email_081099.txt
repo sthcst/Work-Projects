@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Serrano",
+    "email": "jennifer.serrano8419@work.org",
+    "phone": "(736) 793-6710",
+    "ssn": "371-82-6076",
+    "dob": "02-23-1954",
+    "address": "4441 Cedar Way",
+    "city": "New York",
+    "state": "TX"
+  }
+}

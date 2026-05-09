@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Delgado",
+    "email": "lauren.delgado6992@company.com",
+    "phone": "498-399-4353",
+    "ssn": "819 61 3195",
+    "dob": "19/02/1974",
+    "address": "4601 North Way",
+    "city": "Phoenix",
+    "state": "IL"
+  }
+}

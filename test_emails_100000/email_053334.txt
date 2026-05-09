@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Alvarado",
+    "email": "steven.alvarado5198@company.com",
+    "phone": "(865) 773-4918",
+    "ssn": "083-21-3478",
+    "dob": "04/08/1994",
+    "address": "9686 Oak Dr",
+    "city": "Dallas",
+    "state": "MI"
+  }
+}

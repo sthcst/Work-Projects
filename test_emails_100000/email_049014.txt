@@ -1,0 +1,9 @@
+contact:
+  name: Paul Romero
+  email: paul.romero1617@example.com
+  phone: 524 512 9087
+  ssn: 001-94-8514
+  dob: 07/19/1984
+  address: 4298 Birch Blvd
+  city: Chicago
+  state: MD

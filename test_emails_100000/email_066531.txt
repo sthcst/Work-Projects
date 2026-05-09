@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Jimenez
+  email: lauren.jimenez9183@mail.com
+  phone: 415 727 5250
+  ssn: 129582554
+  dob: 28/12/1980
+  address: 2330 East St
+  city: Philadelphia
+  state: WI

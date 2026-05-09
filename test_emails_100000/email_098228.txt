@@ -1,0 +1,9 @@
+contact:
+  name: Michael Young
+  email: michael.young553@yahoo.com
+  phone: +1 886-869-5007
+  ssn: 032-63-1789
+  dob: 04-20-1999
+  address: 285 East Blvd
+  city: Los Angeles
+  state: WI

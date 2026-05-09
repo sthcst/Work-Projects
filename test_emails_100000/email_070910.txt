@@ -1,0 +1,14 @@
+INVOICE 957721
+
+Bill To:
+Name: Nicholas Jones
+Email: nicholas.jones7068@mail.com
+Phone: +1 487-892-5202
+SSN: 649438873
+
+Address: 926 Oak Way
+Boston, WA
+
+Date of Birth: 08/09/1972
+
+Amount Due: $7426

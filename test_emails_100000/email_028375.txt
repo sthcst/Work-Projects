@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Hall",
+    "email": "kathleen.hall1947@outlook.com",
+    "phone": "(955) 966-2656",
+    "ssn": "689-80-7046",
+    "dob": "04/22/1975",
+    "address": "9241 West Rd",
+    "city": "Philadelphia",
+    "state": "MO"
+  }
+}

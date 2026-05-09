@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Ortiz
+  email: rachel.ortiz668@yahoo.com
+  phone: 698 449 2671
+  ssn: 554-61-4626
+  dob: 10-13-1995
+  address: 46 South Way
+  city: San Jose
+  state: TX

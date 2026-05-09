@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Rodriguez,kenneth.rodriguez2129@yahoo.com,983 227 7406,556-56-5954,03-28-1969,"9053 Spring Ln",Dallas,CA

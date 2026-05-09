@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Serrano,katherine.serrano1477@business.net,477 998 4888,399-62-9498,07/15/1973,"2054 Park Ave",Denver,PA

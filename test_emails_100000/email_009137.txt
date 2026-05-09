@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Young",
+    "email": "ronald.young6069@yahoo.com",
+    "phone": "+1 360-804-3509",
+    "ssn": "650-19-5797",
+    "dob": "10/14/1988",
+    "address": "3966 West Ln",
+    "city": "New York",
+    "state": "IL"
+  }
+}

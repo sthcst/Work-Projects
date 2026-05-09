@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Garcia",
+    "email": "jason.garcia9757@yahoo.com",
+    "phone": "976 349 6356",
+    "ssn": "800127065",
+    "dob": "01/15/1951",
+    "address": "9257 Spring Blvd",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

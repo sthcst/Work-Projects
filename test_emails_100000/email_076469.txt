@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Nelson",
+    "email": "james.nelson5115@yahoo.com",
+    "phone": "422-792-9916",
+    "ssn": "392869630",
+    "dob": "15/09/1987",
+    "address": "4235 Second Way",
+    "city": "Jacksonville",
+    "state": "MA"
+  }
+}

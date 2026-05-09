@@ -1,0 +1,9 @@
+contact:
+  name: Charles Phillips
+  email: charles.phillips663@work.org
+  phone: (270) 522-4913
+  ssn: 527-68-4180
+  dob: 4/7/1980
+  address: 2823 First Ave
+  city: San Antonio
+  state: MA

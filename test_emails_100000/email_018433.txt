@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Clark",
+    "email": "paul.clark3830@example.com",
+    "phone": "956 961 9720",
+    "ssn": "470 16 8751",
+    "dob": "5/20/1997",
+    "address": "7166 Sixth St",
+    "city": "San Jose",
+    "state": "DC"
+  }
+}

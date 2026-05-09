@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Jones",
+    "email": "charles.jones8173@company.com",
+    "phone": "711-231-1690",
+    "ssn": "910388682",
+    "dob": "11-28-1991",
+    "address": "3631 Second Rd",
+    "city": "San Diego",
+    "state": "MI"
+  }
+}

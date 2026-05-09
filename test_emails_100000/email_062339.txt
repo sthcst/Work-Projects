@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Gonzalez",
+    "email": "deborah.gonzalez7192@example.com",
+    "phone": "216-250-7263",
+    "ssn": "807-24-9047",
+    "dob": "7/10/2003",
+    "address": "2283 Fifth Way",
+    "city": "Los Angeles",
+    "state": "AZ"
+  }
+}

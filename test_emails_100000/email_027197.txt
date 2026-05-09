@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia White",
+    "email": "cynthia.white7395@example.com",
+    "phone": "655 717 1432",
+    "ssn": "336346275",
+    "dob": "8/6/1960",
+    "address": "6630 West Ave",
+    "city": "Denver",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Serrano",
+    "email": "nicholas.serrano9817@mail.com",
+    "phone": "(793) 745-6142",
+    "ssn": "740-23-8157",
+    "dob": "04/26/1950",
+    "address": "8714 Cedar Rd",
+    "city": "Phoenix",
+    "state": "MO"
+  }
+}

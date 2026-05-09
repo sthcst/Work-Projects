@@ -1,0 +1,14 @@
+INVOICE 482936
+
+Bill To:
+Name: John Nunez
+Email: john.nunez2962@mail.com
+Phone: (715) 569-2663
+SSN: 604-01-1467
+
+Address: 2702 Birch Way
+Los Angeles, AZ
+
+Date of Birth: 20/09/1961
+
+Amount Due: $7374

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Thomas",
+    "email": "rebecca.thomas6470@yahoo.com",
+    "phone": "+1 283-233-3134",
+    "ssn": "969-02-5899",
+    "dob": "02-24-1974",
+    "address": "7227 Second Court",
+    "city": "San Jose",
+    "state": "WI"
+  }
+}

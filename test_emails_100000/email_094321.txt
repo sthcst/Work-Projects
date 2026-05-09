@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Evans,george.evans3158@yahoo.com,766 221 5877,445-11-4007,06-03-2003,"172 Cedar Blvd",Boston,AZ

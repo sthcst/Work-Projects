@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Carter",
+    "email": "anthony.carter5878@company.com",
+    "phone": "(651) 323-8495",
+    "ssn": "015 15 5038",
+    "dob": "01/07/1963",
+    "address": "3773 Pine Ln",
+    "city": "Boston",
+    "state": "MO"
+  }
+}

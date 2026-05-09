@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Clark",
+    "email": "maria.clark4267@business.net",
+    "phone": "+1 919-676-4565",
+    "ssn": "384975469",
+    "dob": "06/03/1968",
+    "address": "3008 North Way",
+    "city": "Dallas",
+    "state": "MO"
+  }
+}

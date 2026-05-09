@@ -1,0 +1,9 @@
+contact:
+  name: Emily Anderson
+  email: emily.anderson2656@outlook.com
+  phone: (606) 831-1146
+  ssn: 315 95 6524
+  dob: 10/09/1982
+  address: 5100 Main St
+  city: Denver
+  state: IL

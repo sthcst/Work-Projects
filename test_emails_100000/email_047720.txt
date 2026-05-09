@@ -1,0 +1,9 @@
+contact:
+  name: Gary Morris
+  email: gary.morris6868@example.com
+  phone: +1 227-698-2203
+  ssn: 505-28-6357
+  dob: 02/03/2002
+  address: 3908 North Rd
+  city: Chicago
+  state: TN

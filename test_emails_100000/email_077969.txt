@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Delgado,emily.delgado1964@business.net,(382) 717-3635,607453308,24/04/2003,"5618 Birch Ave",San Diego,WA

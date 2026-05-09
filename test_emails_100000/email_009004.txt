@@ -1,0 +1,14 @@
+INVOICE 719442
+
+Bill To:
+Name: Brian Nelson
+Email: brian.nelson4194@example.com
+Phone: +1 598-441-7928
+SSN: 774166640
+
+Address: 2692 Fifth Dr
+Dallas, NY
+
+Date of Birth: 09-06-2002
+
+Amount Due: $2668

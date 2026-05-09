@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Carter",
+    "email": "john.carter6373@mail.com",
+    "phone": "(964) 965-6076",
+    "ssn": "194976215",
+    "dob": "09-05-1979",
+    "address": "3531 Birch St",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

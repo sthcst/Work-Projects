@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Stewart",
+    "email": "mark.stewart4386@yahoo.com",
+    "phone": "(756) 562-4529",
+    "ssn": "817 35 1983",
+    "dob": "6/25/1999",
+    "address": "3123 Fifth Dr",
+    "city": "Denver",
+    "state": "GA"
+  }
+}

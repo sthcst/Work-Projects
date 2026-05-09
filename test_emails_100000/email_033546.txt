@@ -1,0 +1,14 @@
+INVOICE 972205
+
+Bill To:
+Name: Daniel Jones
+Email: daniel.jones9097@example.com
+Phone: (710) 285-6626
+SSN: 500 94 5635
+
+Address: 439 Elm St
+Jacksonville, FL
+
+Date of Birth: 11/05/1994
+
+Amount Due: $664

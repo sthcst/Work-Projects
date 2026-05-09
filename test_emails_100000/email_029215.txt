@@ -1,0 +1,14 @@
+INVOICE 263949
+
+Bill To:
+Name: Kenneth Smith
+Email: kenneth.smith552@company.com
+Phone: 405 209 2124
+SSN: 624-76-1167
+
+Address: 7168 North Ln
+Dallas, TX
+
+Date of Birth: 07-19-1986
+
+Amount Due: $209

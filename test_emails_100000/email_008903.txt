@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Nelson,timothy.nelson1097@business.net,295 300 3863,675 13 9879,11/13/1961,"7284 Fifth Way",Austin,TX

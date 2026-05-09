@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Robinson",
+    "email": "george.robinson6771@example.com",
+    "phone": "+1 292-535-2808",
+    "ssn": "927-07-8291",
+    "dob": "03-03-1992",
+    "address": "4760 West Blvd",
+    "city": "Phoenix",
+    "state": "CO"
+  }
+}

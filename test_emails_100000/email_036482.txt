@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Hall",
+    "email": "richard.hall2643@work.org",
+    "phone": "519 500 7175",
+    "ssn": "627714925",
+    "dob": "5/15/1993",
+    "address": "9220 Fifth Rd",
+    "city": "Phoenix",
+    "state": "AZ"
+  }
+}

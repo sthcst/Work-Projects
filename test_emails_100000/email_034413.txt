@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Bell",
+    "email": "pamela.bell5269@company.com",
+    "phone": "(270) 942-9911",
+    "ssn": "383436059",
+    "dob": "6/3/1960",
+    "address": "6205 Pine Court",
+    "city": "San Jose",
+    "state": "DC"
+  }
+}

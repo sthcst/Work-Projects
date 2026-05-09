@@ -1,0 +1,14 @@
+INVOICE 502301
+
+Bill To:
+Name: Donald Lee
+Email: donald.lee3715@business.net
+Phone: 958-318-8422
+SSN: 841 94 7556
+
+Address: 1505 Maple Court
+Dallas, FL
+
+Date of Birth: 09/03/2005
+
+Amount Due: $4148

@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Martin
+  email: kenneth.martin6327@yahoo.com
+  phone: 701 961 9785
+  ssn: 860 65 4952
+  dob: 4/3/1971
+  address: 210 Birch Ave
+  city: Austin
+  state: MO

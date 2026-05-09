@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Reyes",
+    "email": "sarah.reyes2091@business.net",
+    "phone": "+1 808-856-9195",
+    "ssn": "862-58-6182",
+    "dob": "05/05/1998",
+    "address": "3438 Birch Blvd",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

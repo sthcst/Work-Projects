@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Martinez,ashley.martinez8848@example.com,+1 520-371-1858,911-35-7133,7/27/1996,"9933 West Ave",Chicago,AZ

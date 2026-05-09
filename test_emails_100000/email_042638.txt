@@ -1,0 +1,9 @@
+contact:
+  name: George Reeves
+  email: george.reeves555@gmail.com
+  phone: 531 294 6179
+  ssn: 186937916
+  dob: 12-17-1978
+  address: 1049 Elm Rd
+  city: Washington
+  state: NY

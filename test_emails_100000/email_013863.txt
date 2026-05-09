@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Rodriguez",
+    "email": "jane.rodriguez124@outlook.com",
+    "phone": "(211) 736-1200",
+    "ssn": "427 68 2936",
+    "dob": "03/07/1988",
+    "address": "9255 Birch Ln",
+    "city": "San Diego",
+    "state": "CO"
+  }
+}

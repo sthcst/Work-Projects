@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Reyes,emily.reyes3760@example.com,433-464-3624,076756527,10/06/1997,"2746 East Dr",Dallas,FL

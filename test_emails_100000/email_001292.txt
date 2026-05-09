@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Anderson
+  email: rachel.anderson8294@work.org
+  phone: 236 528 1494
+  ssn: 115-31-4374
+  dob: 01-25-1965
+  address: 4327 Fifth Blvd
+  city: Denver
+  state: NY

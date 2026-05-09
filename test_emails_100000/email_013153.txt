@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Edwards
+  email: stephanie.edwards1891@business.net
+  phone: +1 892-974-7134
+  ssn: 675-98-6815
+  dob: 04-02-2005
+  address: 5015 Cedar Blvd
+  city: Houston
+  state: FL

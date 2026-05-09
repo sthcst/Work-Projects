@@ -1,0 +1,9 @@
+contact:
+  name: Jason Johnson
+  email: jason.johnson5041@company.com
+  phone: 350-797-8575
+  ssn: 681492247
+  dob: 10/15/1958
+  address: 6413 Maple Blvd
+  city: Jacksonville
+  state: NC

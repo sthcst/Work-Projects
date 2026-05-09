@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Moore
+  email: stephanie.moore2956@yahoo.com
+  phone: 607-449-5329
+  ssn: 006 60 7863
+  dob: 20/09/1966
+  address: 9280 First Blvd
+  city: Los Angeles
+  state: MA

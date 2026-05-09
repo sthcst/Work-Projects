@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Davis",
+    "email": "michael.davis4457@yahoo.com",
+    "phone": "(737) 953-2423",
+    "ssn": "213-52-4907",
+    "dob": "28/01/1968",
+    "address": "8391 Fourth Blvd",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

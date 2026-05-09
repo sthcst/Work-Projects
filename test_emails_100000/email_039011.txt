@@ -1,0 +1,9 @@
+contact:
+  name: Edward Lee
+  email: edward.lee3249@example.com
+  phone: 325-287-8881
+  ssn: 679-22-7723
+  dob: 11/03/2004
+  address: 6974 Elm Ln
+  city: New York
+  state: FL

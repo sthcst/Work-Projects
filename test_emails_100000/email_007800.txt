@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Nunez
+  email: samantha.nunez3967@yahoo.com
+  phone: (310) 418-1444
+  ssn: 215-54-6977
+  dob: 14/11/1979
+  address: 1941 Third Blvd
+  city: Dallas
+  state: NJ

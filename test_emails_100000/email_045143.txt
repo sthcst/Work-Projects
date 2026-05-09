@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Murillo,anna.murillo5524@yahoo.com,+1 815-508-3372,060129552,16/07/1969,"935 East Ave",Phoenix,CA

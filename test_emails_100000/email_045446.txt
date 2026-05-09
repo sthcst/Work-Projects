@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Hernandez,amanda.hernandez1597@yahoo.com,(821) 390-9026,476102759,11-23-1965,"8916 Birch Ave",Austin,TX

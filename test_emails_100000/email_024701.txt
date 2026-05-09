@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Ramirez",
+    "email": "stephanie.ramirez7687@company.com",
+    "phone": "827-348-2224",
+    "ssn": "283-78-5339",
+    "dob": "16/02/1981",
+    "address": "8133 First Blvd",
+    "city": "Los Angeles",
+    "state": "AZ"
+  }
+}

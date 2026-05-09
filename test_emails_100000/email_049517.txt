@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Taylor
+  email: anthony.taylor9618@mail.com
+  phone: (909) 713-7335
+  ssn: 966 66 1163
+  dob: 2/24/1959
+  address: 2644 West Way
+  city: Los Angeles
+  state: TX

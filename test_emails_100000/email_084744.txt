@@ -1,0 +1,14 @@
+INVOICE 489025
+
+Bill To:
+Name: Richard Reyes
+Email: richard.reyes868@company.com
+Phone: (892) 606-6481
+SSN: 270-78-7213
+
+Address: 7386 Oak Ave
+Denver, MD
+
+Date of Birth: 1/7/1950
+
+Amount Due: $8017

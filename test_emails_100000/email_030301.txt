@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Hernandez",
+    "email": "george.hernandez1801@gmail.com",
+    "phone": "+1 478-425-8927",
+    "ssn": "412-18-9895",
+    "dob": "03/06/1961",
+    "address": "1688 North Court",
+    "city": "Dallas",
+    "state": "NJ"
+  }
+}

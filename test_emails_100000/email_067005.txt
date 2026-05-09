@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Jones,stephanie.jones9737@work.org,(236) 467-9347,879-96-8144,10/4/1983,"8328 Pine Court",Philadelphia,TN

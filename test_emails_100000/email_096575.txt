@@ -1,0 +1,14 @@
+INVOICE 692201
+
+Bill To:
+Name: Kenneth Johnson
+Email: kenneth.johnson3412@business.net
+Phone: 433 329 1362
+SSN: 703 10 6626
+
+Address: 445 Sixth Ln
+Dallas, NY
+
+Date of Birth: 08/01/1971
+
+Amount Due: $2409

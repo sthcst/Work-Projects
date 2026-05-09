@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Ortiz,michael.ortiz5985@outlook.com,(238) 459-1226,465461542,11/26/1966,"5680 East St",Dallas,AZ

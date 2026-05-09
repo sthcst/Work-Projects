@@ -1,0 +1,9 @@
+contact:
+  name: James Serrano
+  email: james.serrano1864@example.com
+  phone: 889 483 6537
+  ssn: 314-33-9050
+  dob: 08/15/1974
+  address: 597 Pine Way
+  city: Houston
+  state: TN

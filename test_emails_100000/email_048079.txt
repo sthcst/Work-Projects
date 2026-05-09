@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Nelson,paul.nelson1045@outlook.com,439-495-2770,294-60-8532,03-04-1992,"7570 Fourth Way",Los Angeles,WA

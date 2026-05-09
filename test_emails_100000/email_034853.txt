@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Ramirez
+  email: samantha.ramirez7226@yahoo.com
+  phone: (620) 480-4905
+  ssn: 556-59-5416
+  dob: 1/25/1971
+  address: 839 Cedar Way
+  city: Seattle
+  state: NY

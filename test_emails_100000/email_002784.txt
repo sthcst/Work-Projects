@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Harris
+  email: michelle.harris4485@example.com
+  phone: 868-866-7369
+  ssn: 088-47-1715
+  dob: 9/15/1989
+  address: 6834 Cedar Rd
+  city: Austin
+  state: TX

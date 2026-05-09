@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Nunez,samantha.nunez7801@mail.com,829-255-1757,211233595,7/1/1980,"4711 First Dr",San Diego,PA

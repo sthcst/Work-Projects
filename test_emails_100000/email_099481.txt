@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Alvarado",
+    "email": "megan.alvarado471@gmail.com",
+    "phone": "969-229-7092",
+    "ssn": "573 78 5732",
+    "dob": "07-24-1961",
+    "address": "6998 Park Rd",
+    "city": "Phoenix",
+    "state": "MA"
+  }
+}

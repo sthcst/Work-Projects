@@ -1,0 +1,14 @@
+INVOICE 157824
+
+Bill To:
+Name: Lauren Anderson
+Email: lauren.anderson9435@example.com
+Phone: (990) 679-4258
+SSN: 950 88 9253
+
+Address: 4217 Elm St
+Chicago, WA
+
+Date of Birth: 08/08/2001
+
+Amount Due: $339

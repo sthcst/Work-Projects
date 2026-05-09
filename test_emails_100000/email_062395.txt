@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Carter",
+    "email": "brenda.carter7516@mail.com",
+    "phone": "323 715 8316",
+    "ssn": "442-15-6436",
+    "dob": "7/25/1967",
+    "address": "2617 Maple Rd",
+    "city": "Los Angeles",
+    "state": "DC"
+  }
+}

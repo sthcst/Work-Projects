@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Sanchez
+  email: cynthia.sanchez5498@outlook.com
+  phone: +1 462-680-7640
+  ssn: 951-15-3088
+  dob: 12/08/1988
+  address: 9153 Elm Court
+  city: Dallas
+  state: OH

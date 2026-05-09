@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Lee,robert.lee7080@gmail.com,+1 480-289-6792,004643730,07-21-1966,"7690 Cedar Court",Chicago,MA

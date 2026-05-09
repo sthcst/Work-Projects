@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Collins",
+    "email": "angela.collins7285@example.com",
+    "phone": "944-693-6736",
+    "ssn": "748-94-7540",
+    "dob": "8/4/1977",
+    "address": "9107 Pine St",
+    "city": "New York",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Alvarado,edward.alvarado3882@gmail.com,(711) 605-9788,083732998,01/27/1970,"5812 Pine Blvd",Dallas,WA

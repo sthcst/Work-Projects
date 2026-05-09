@@ -1,0 +1,14 @@
+INVOICE 312163
+
+Bill To:
+Name: George Rodriguez
+Email: george.rodriguez3001@yahoo.com
+Phone: 805 494 3586
+SSN: 139865744
+
+Address: 1874 Second Ln
+San Diego, MA
+
+Date of Birth: 04/04/1999
+
+Amount Due: $3524

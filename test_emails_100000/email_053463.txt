@@ -1,0 +1,14 @@
+INVOICE 570387
+
+Bill To:
+Name: Brian Alvarado
+Email: brian.alvarado7394@outlook.com
+Phone: 330 323 7693
+SSN: 279066177
+
+Address: 6739 Third Ave
+Seattle, NC
+
+Date of Birth: 3/9/1982
+
+Amount Due: $2621

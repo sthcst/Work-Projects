@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Thompson",
+    "email": "andrew.thompson7235@company.com",
+    "phone": "+1 238-896-1447",
+    "ssn": "505-65-7676",
+    "dob": "23/10/1974",
+    "address": "9494 Summer Ave",
+    "city": "Austin",
+    "state": "AZ"
+  }
+}

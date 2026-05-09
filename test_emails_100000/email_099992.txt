@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Evans,mark.evans3406@example.com,215 283 5017,150-45-6438,12/11/1957,"7892 Fifth Ln",Los Angeles,MA

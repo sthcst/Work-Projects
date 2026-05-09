@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Clark",
+    "email": "christine.clark5928@yahoo.com",
+    "phone": "572 985 3782",
+    "ssn": "959-83-6789",
+    "dob": "05-08-1955",
+    "address": "7748 Second Blvd",
+    "city": "Phoenix",
+    "state": "TN"
+  }
+}

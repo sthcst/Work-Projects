@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Perez",
+    "email": "donald.perez56@yahoo.com",
+    "phone": "382 374 7961",
+    "ssn": "622-58-2092",
+    "dob": "17/01/2001",
+    "address": "9887 Park Ln",
+    "city": "Phoenix",
+    "state": "OH"
+  }
+}

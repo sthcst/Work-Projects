@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Collins,richard.collins156@work.org,841 467 1716,841761899,17/03/1979,"8889 Oak Ave",Phoenix,MI

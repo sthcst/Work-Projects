@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Clark
+  email: deborah.clark8164@business.net
+  phone: 270-516-8933
+  ssn: 012 87 5254
+  dob: 09-18-1996
+  address: 2045 Fourth Rd
+  city: Chicago
+  state: CA

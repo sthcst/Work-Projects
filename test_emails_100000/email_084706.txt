@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Martin,stephanie.martin1637@work.org,256 641 4370,006 43 6261,11-10-1952,"9736 Birch Ave",Boston,TX

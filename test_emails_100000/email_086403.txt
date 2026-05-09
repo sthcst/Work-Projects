@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Cooper,kevin.cooper6520@mail.com,(714) 817-1637,837523795,5/7/2005,"704 Second Blvd",New York,VA

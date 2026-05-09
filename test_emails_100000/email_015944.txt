@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Serrano",
+    "email": "christine.serrano4506@yahoo.com",
+    "phone": "+1 929-875-7254",
+    "ssn": "935491970",
+    "dob": "7/11/2004",
+    "address": "5137 South Court",
+    "city": "New York",
+    "state": "OH"
+  }
+}

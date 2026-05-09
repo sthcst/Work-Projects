@@ -1,0 +1,14 @@
+INVOICE 769398
+
+Bill To:
+Name: George Perez
+Email: george.perez5594@gmail.com
+Phone: 488-717-1688
+SSN: 236-01-6368
+
+Address: 2201 South Ave
+Los Angeles, WA
+
+Date of Birth: 05-14-1960
+
+Amount Due: $4778

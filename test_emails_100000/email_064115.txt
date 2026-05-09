@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Lee
+  email: amanda.lee1475@outlook.com
+  phone: 358-495-5460
+  ssn: 300 55 3163
+  dob: 20/03/1968
+  address: 7620 Cedar Blvd
+  city: San Antonio
+  state: TX

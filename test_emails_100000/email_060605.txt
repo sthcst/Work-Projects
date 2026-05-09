@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Jackson,amanda.jackson2358@gmail.com,(504) 219-5051,038505312,01-10-1956,"2808 Park Dr",New York,CA

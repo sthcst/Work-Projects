@@ -1,0 +1,14 @@
+INVOICE 674420
+
+Bill To:
+Name: Helen Sanchez
+Email: helen.sanchez5151@work.org
+Phone: (705) 576-7131
+SSN: 918234961
+
+Address: 2843 Main Ave
+Chicago, MI
+
+Date of Birth: 17/03/1977
+
+Amount Due: $240

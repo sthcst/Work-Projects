@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Hall",
+    "email": "kenneth.hall8922@outlook.com",
+    "phone": "(467) 636-5837",
+    "ssn": "784919400",
+    "dob": "3/12/1994",
+    "address": "246 Third Way",
+    "city": "Phoenix",
+    "state": "MI"
+  }
+}

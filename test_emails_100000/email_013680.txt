@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Taylor
+  email: kevin.taylor2385@business.net
+  phone: (223) 508-7078
+  ssn: 220 37 1576
+  dob: 14/02/1991
+  address: 5470 Elm Way
+  city: San Antonio
+  state: CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Lopez,angela.lopez3305@work.org,625 336 7245,808-24-2930,02-05-1975,"2422 West Blvd",San Antonio,WA

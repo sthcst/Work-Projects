@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Gonzalez,paul.gonzalez7957@outlook.com,721 468 6517,024 97 4325,10/06/2002,"9940 South Court",San Diego,PA

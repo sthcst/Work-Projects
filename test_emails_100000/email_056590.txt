@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Campbell",
+    "email": "michelle.campbell8666@yahoo.com",
+    "phone": "(379) 505-6745",
+    "ssn": "633-25-8769",
+    "dob": "02/04/1985",
+    "address": "6487 First Way",
+    "city": "Houston",
+    "state": "NY"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Carter",
+    "email": "christopher.carter1107@gmail.com",
+    "phone": "734 714 5533",
+    "ssn": "167 06 6713",
+    "dob": "17/11/1971",
+    "address": "465 Main Ave",
+    "city": "Dallas",
+    "state": "WI"
+  }
+}

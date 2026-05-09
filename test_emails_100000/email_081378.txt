@@ -1,0 +1,14 @@
+INVOICE 653264
+
+Bill To:
+Name: Ryan Garcia
+Email: ryan.garcia6188@company.com
+Phone: 471-736-3800
+SSN: 199-35-9985
+
+Address: 3423 Elm Ave
+Los Angeles, CA
+
+Date of Birth: 15/11/1970
+
+Amount Due: $6957

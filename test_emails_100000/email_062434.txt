@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Ortiz
+  email: stephanie.ortiz3693@yahoo.com
+  phone: 200-888-3139
+  ssn: 910905881
+  dob: 07/12/1978
+  address: 9641 Birch Ave
+  city: San Diego
+  state: MA

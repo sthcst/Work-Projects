@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Rogers,nicholas.rogers7549@gmail.com,+1 288-638-3964,059 55 5415,09-17-1970,"1080 Elm St",Dallas,IL

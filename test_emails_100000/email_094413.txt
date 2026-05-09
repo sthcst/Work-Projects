@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Gonzalez,john.gonzalez3909@example.com,508-915-7411,255-11-2448,01/27/1974,"7586 Spring Ln",Washington,DC

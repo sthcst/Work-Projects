@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Collins",
+    "email": "john.collins8115@outlook.com",
+    "phone": "517-471-7449",
+    "ssn": "607-97-4437",
+    "dob": "10/22/2005",
+    "address": "342 Main Dr",
+    "city": "Washington",
+    "state": "TN"
+  }
+}

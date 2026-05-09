@@ -1,0 +1,9 @@
+contact:
+  name: Maria Brown
+  email: maria.brown4943@outlook.com
+  phone: (418) 986-1308
+  ssn: 818728309
+  dob: 13/12/1955
+  address: 911 First St
+  city: San Diego
+  state: MA

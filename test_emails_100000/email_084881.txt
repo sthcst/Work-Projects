@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Collins
+  email: joshua.collins2164@business.net
+  phone: 764-443-5018
+  ssn: 635724263
+  dob: 8/4/1962
+  address: 7408 Maple Way
+  city: San Diego
+  state: WA

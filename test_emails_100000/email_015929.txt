@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Thomas",
+    "email": "brian.thomas6135@business.net",
+    "phone": "+1 372-655-3422",
+    "ssn": "046744844",
+    "dob": "11/24/1972",
+    "address": "6809 Elm Way",
+    "city": "New York",
+    "state": "FL"
+  }
+}

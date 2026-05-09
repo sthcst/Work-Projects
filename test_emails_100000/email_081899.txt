@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Hall
+  email: stephanie.hall6712@company.com
+  phone: 397-558-2582
+  ssn: 629405725
+  dob: 7/18/1975
+  address: 4064 Fourth Ln
+  city: Phoenix
+  state: WA

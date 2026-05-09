@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Nunez
+  email: sarah.nunez4100@mail.com
+  phone: +1 906-741-1906
+  ssn: 026298193
+  dob: 8/14/1969
+  address: 1453 First Ave
+  city: Jacksonville
+  state: CA

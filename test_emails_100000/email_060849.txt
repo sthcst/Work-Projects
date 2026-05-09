@@ -1,0 +1,14 @@
+INVOICE 400697
+
+Bill To:
+Name: Jacob Lee
+Email: jacob.lee5547@company.com
+Phone: +1 537-629-1354
+SSN: 638031092
+
+Address: 5406 West Court
+Los Angeles, MI
+
+Date of Birth: 8/13/2001
+
+Amount Due: $2465

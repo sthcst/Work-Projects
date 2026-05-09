@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Romero,kimberly.romero654@yahoo.com,793 610 2107,923198527,22/08/1970,"6534 Fifth Rd",Chicago,FL

@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Alvarado
+  email: samantha.alvarado786@outlook.com
+  phone: 878 399 9587
+  ssn: 425-46-3860
+  dob: 08-11-1957
+  address: 2989 Park Dr
+  city: San Jose
+  state: MO

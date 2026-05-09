@@ -1,0 +1,9 @@
+contact:
+  name: Emma Jones
+  email: emma.jones6966@outlook.com
+  phone: (317) 695-5933
+  ssn: 718-53-6606
+  dob: 11/01/1980
+  address: 6132 Main Ave
+  city: Seattle
+  state: CA

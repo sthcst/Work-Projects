@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Edwards",
+    "email": "angela.edwards3440@outlook.com",
+    "phone": "(496) 582-4661",
+    "ssn": "904949501",
+    "dob": "05-23-1998",
+    "address": "2572 Sixth Court",
+    "city": "San Antonio",
+    "state": "FL"
+  }
+}

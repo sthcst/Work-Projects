@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Garcia",
+    "email": "jason.garcia7834@gmail.com",
+    "phone": "216 466 3927",
+    "ssn": "233-50-8782",
+    "dob": "04-23-1967",
+    "address": "1251 Third Ave",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 905238
+
+Bill To:
+Name: George Dominguez
+Email: george.dominguez5905@business.net
+Phone: +1 466-816-3468
+SSN: 936932040
+
+Address: 2143 Maple Ave
+Phoenix, CO
+
+Date of Birth: 18/08/1963
+
+Amount Due: $2015

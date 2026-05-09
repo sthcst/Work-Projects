@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Stewart,samantha.stewart7163@work.org,(816) 458-4251,600945934,10/17/1953,"8224 Summer St",New York,TX

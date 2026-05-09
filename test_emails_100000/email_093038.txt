@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Campbell",
+    "email": "sarah.campbell2781@gmail.com",
+    "phone": "+1 226-702-2009",
+    "ssn": "879179238",
+    "dob": "09/27/1971",
+    "address": "3309 Cedar Ave",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

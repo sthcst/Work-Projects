@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Morgan,ashley.morgan6684@company.com,(457) 694-3708,802023693,08-08-1955,"3305 East Ln",New York,CO

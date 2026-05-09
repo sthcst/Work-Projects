@@ -1,0 +1,9 @@
+contact:
+  name: Donald Moore
+  email: donald.moore33@gmail.com
+  phone: +1 491-391-7095
+  ssn: 056-13-1496
+  dob: 8/1/1973
+  address: 1480 North Ave
+  city: Seattle
+  state: VA

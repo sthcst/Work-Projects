@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Smith,edward.smith16@yahoo.com,827 247 5115,299 06 4219,10-07-1963,"7677 North Court",San Antonio,WA

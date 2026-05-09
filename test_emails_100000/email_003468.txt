@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Rogers
+  email: ryan.rogers9394@outlook.com
+  phone: 660 839 8516
+  ssn: 480 83 7274
+  dob: 09/02/1999
+  address: 325 Cedar Court
+  city: San Antonio
+  state: AZ

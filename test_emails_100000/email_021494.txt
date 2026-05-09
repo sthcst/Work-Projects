@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Smith
+  email: timothy.smith5700@example.com
+  phone: 647 515 1771
+  ssn: 646948649
+  dob: 8/6/1999
+  address: 199 First Blvd
+  city: Los Angeles
+  state: MI

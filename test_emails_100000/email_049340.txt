@@ -1,0 +1,9 @@
+contact:
+  name: Helen Johnson
+  email: helen.johnson3926@mail.com
+  phone: +1 924-920-7321
+  ssn: 114-33-9675
+  dob: 9/10/2004
+  address: 7168 West Court
+  city: Dallas
+  state: WA

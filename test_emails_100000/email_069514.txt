@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Reyes",
+    "email": "jacob.reyes4391@outlook.com",
+    "phone": "251-216-6140",
+    "ssn": "349 84 4146",
+    "dob": "08/21/1951",
+    "address": "7308 First Court",
+    "city": "San Antonio",
+    "state": "IL"
+  }
+}

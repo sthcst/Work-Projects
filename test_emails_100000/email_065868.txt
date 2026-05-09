@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Thompson
+  email: rebecca.thompson6186@mail.com
+  phone: 384 822 7582
+  ssn: 773 79 2316
+  dob: 05/26/1950
+  address: 5235 Maple Ave
+  city: Austin
+  state: TX

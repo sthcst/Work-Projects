@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Lee",
+    "email": "matthew.lee500@gmail.com",
+    "phone": "+1 546-585-3605",
+    "ssn": "643 73 9864",
+    "dob": "05-03-1996",
+    "address": "1832 Park Way",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

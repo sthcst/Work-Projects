@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Roberts
+  email: deborah.roberts367@company.com
+  phone: +1 388-955-4047
+  ssn: 253363834
+  dob: 11-03-2001
+  address: 4945 Birch St
+  city: New York
+  state: TN

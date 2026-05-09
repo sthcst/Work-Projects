@@ -1,0 +1,14 @@
+INVOICE 948388
+
+Bill To:
+Name: George Roberts
+Email: george.roberts9938@example.com
+Phone: (934) 736-7450
+SSN: 079 84 4358
+
+Address: 4194 Third Way
+Philadelphia, WA
+
+Date of Birth: 9/16/1989
+
+Amount Due: $9308

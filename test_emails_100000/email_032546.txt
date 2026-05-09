@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Robinson",
+    "email": "richard.robinson1823@example.com",
+    "phone": "+1 961-786-4628",
+    "ssn": "283 48 1278",
+    "dob": "7/15/1971",
+    "address": "4664 Birch St",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

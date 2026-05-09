@@ -1,0 +1,14 @@
+INVOICE 296556
+
+Bill To:
+Name: Angela Johnson
+Email: angela.johnson5808@company.com
+Phone: 652 680 1698
+SSN: 395 21 8842
+
+Address: 1412 Fourth Court
+Philadelphia, FL
+
+Date of Birth: 10/04/1959
+
+Amount Due: $2293

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Guerrero,maria.guerrero3733@yahoo.com,522-646-3555,899-58-4252,01-16-1952,"1984 North Blvd",New York,NC

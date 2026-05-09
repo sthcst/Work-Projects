@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Anderson,emily.anderson3101@work.org,954 946 1465,759-68-8831,27/09/1955,"1905 First Way",Los Angeles,NY

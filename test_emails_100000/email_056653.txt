@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Smith",
+    "email": "robert.smith6214@gmail.com",
+    "phone": "(745) 413-6089",
+    "ssn": "905 12 9724",
+    "dob": "11/12/1975",
+    "address": "7262 Elm Dr",
+    "city": "San Antonio",
+    "state": "VA"
+  }
+}

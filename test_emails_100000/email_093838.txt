@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Morgan,megan.morgan9797@outlook.com,(324) 361-7783,348 45 8408,01/10/1975,"1705 Cedar Ave",Boston,NC

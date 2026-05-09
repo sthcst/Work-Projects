@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Jones
+  email: nicole.jones2100@outlook.com
+  phone: (586) 531-7914
+  ssn: 744 66 4944
+  dob: 03/19/1994
+  address: 8101 Birch Ave
+  city: Washington
+  state: AZ

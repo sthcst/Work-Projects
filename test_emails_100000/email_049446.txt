@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Rogers",
+    "email": "joseph.rogers7205@example.com",
+    "phone": "+1 870-695-7909",
+    "ssn": "008742308",
+    "dob": "05-18-1996",
+    "address": "8222 Pine Blvd",
+    "city": "Jacksonville",
+    "state": "FL"
+  }
+}

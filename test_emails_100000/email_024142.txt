@@ -1,0 +1,14 @@
+INVOICE 742634
+
+Bill To:
+Name: David Collins
+Email: david.collins1414@company.com
+Phone: +1 209-663-8141
+SSN: 416-13-4810
+
+Address: 3525 Pine Blvd
+Dallas, FL
+
+Date of Birth: 09-06-1986
+
+Amount Due: $5805

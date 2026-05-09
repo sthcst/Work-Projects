@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Thomas,gary.thomas3849@outlook.com,(997) 383-1905,445752250,08-03-1966,"6381 Fifth Court",Houston,WA

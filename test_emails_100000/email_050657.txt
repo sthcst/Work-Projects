@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Collins",
+    "email": "lauren.collins3740@work.org",
+    "phone": "260 561 4692",
+    "ssn": "094163818",
+    "dob": "03-26-1981",
+    "address": "9190 Birch Rd",
+    "city": "Phoenix",
+    "state": "MD"
+  }
+}

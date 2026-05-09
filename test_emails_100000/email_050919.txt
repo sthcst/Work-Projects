@@ -1,0 +1,9 @@
+contact:
+  name: Christine Moore
+  email: christine.moore5650@gmail.com
+  phone: (923) 286-8421
+  ssn: 339-35-4126
+  dob: 08/11/1957
+  address: 4010 Second Court
+  city: Washington
+  state: WI

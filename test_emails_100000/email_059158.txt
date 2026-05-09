@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Lee",
+    "email": "john.lee4792@mail.com",
+    "phone": "340 567 9237",
+    "ssn": "286 04 6890",
+    "dob": "10/14/2000",
+    "address": "6712 Sixth Dr",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

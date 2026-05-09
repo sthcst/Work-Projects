@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Serrano",
+    "email": "charles.serrano1203@company.com",
+    "phone": "(935) 571-9275",
+    "ssn": "410127334",
+    "dob": "10/03/1956",
+    "address": "2772 Summer Court",
+    "city": "Phoenix",
+    "state": "VA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Richard Romero
+  email: richard.romero1825@example.com
+  phone: (961) 511-2251
+  ssn: 628-82-4137
+  dob: 03/26/1985
+  address: 8758 North Rd
+  city: San Jose
+  state: IL

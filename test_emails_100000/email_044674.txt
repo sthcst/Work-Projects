@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Anderson,ashley.anderson2597@yahoo.com,600 702 6124,177 79 7568,06-06-1969,"7679 Maple Blvd",San Jose,CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Bell,david.bell6045@work.org,(318) 279-7148,420935979,02/10/1951,"3077 Oak Ave",Dallas,TX

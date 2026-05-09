@@ -1,0 +1,9 @@
+contact:
+  name: Angela Walker
+  email: angela.walker6621@yahoo.com
+  phone: 279-420-5600
+  ssn: 896-08-1634
+  dob: 12/25/1960
+  address: 6879 North Way
+  city: Dallas
+  state: MO

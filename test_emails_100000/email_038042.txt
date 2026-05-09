@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Perez",
+    "email": "pamela.perez7493@yahoo.com",
+    "phone": "200-373-4552",
+    "ssn": "711 77 3304",
+    "dob": "22/02/2004",
+    "address": "3771 Main Dr",
+    "city": "Jacksonville",
+    "state": "TN"
+  }
+}

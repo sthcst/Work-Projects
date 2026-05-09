@@ -1,0 +1,9 @@
+contact:
+  name: Emily Smith
+  email: emily.smith7071@business.net
+  phone: 369 761 6433
+  ssn: 927-26-1820
+  dob: 11/05/1973
+  address: 8352 East Blvd
+  city: Philadelphia
+  state: AZ

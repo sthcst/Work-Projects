@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Lee,kathleen.lee8903@business.net,+1 254-667-5324,189-66-5425,03-18-1979,"6992 Birch Ln",San Antonio,WA

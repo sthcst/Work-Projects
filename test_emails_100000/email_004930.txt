@@ -1,0 +1,14 @@
+INVOICE 389766
+
+Bill To:
+Name: Kathleen Roberts
+Email: kathleen.roberts8470@company.com
+Phone: (251) 399-4635
+SSN: 401 12 3847
+
+Address: 5249 East Dr
+San Diego, MI
+
+Date of Birth: 19/02/1956
+
+Amount Due: $8639

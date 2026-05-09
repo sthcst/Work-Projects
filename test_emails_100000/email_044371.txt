@@ -1,0 +1,9 @@
+contact:
+  name: Steven Bell
+  email: steven.bell4049@yahoo.com
+  phone: +1 638-768-9086
+  ssn: 403 82 1425
+  dob: 6/14/1995
+  address: 8054 South St
+  city: Boston
+  state: NJ

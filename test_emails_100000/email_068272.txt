@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Bell",
+    "email": "kevin.bell5819@business.net",
+    "phone": "830-346-5804",
+    "ssn": "335-57-8908",
+    "dob": "12-01-1978",
+    "address": "3751 Birch Dr",
+    "city": "Chicago",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Evans",
+    "email": "samantha.evans1036@work.org",
+    "phone": "(637) 630-3243",
+    "ssn": "186-63-2514",
+    "dob": "11-15-1978",
+    "address": "8569 First Ave",
+    "city": "Los Angeles",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Nelson,rebecca.nelson7343@yahoo.com,(929) 705-9537,692774483,02/11/1995,"6123 Spring Rd",Phoenix,IL

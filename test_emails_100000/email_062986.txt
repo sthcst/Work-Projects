@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Hall",
+    "email": "brenda.hall1841@work.org",
+    "phone": "955 362 9009",
+    "ssn": "385999982",
+    "dob": "05-10-1963",
+    "address": "306 South Blvd",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

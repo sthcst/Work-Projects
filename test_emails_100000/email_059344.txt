@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Gomez
+  email: daniel.gomez1222@gmail.com
+  phone: (698) 846-5818
+  ssn: 614 77 4990
+  dob: 11/18/1972
+  address: 8036 West Ln
+  city: Houston
+  state: NJ

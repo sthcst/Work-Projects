@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Stewart",
+    "email": "deborah.stewart3562@example.com",
+    "phone": "+1 755-292-7054",
+    "ssn": "486-06-7749",
+    "dob": "17/06/1953",
+    "address": "8306 Sixth Blvd",
+    "city": "New York",
+    "state": "NY"
+  }
+}

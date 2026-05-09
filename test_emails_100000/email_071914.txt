@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Jimenez",
+    "email": "richard.jimenez6653@example.com",
+    "phone": "(528) 253-3661",
+    "ssn": "430878161",
+    "dob": "3/19/1975",
+    "address": "7948 Elm Ave",
+    "city": "Philadelphia",
+    "state": "DC"
+  }
+}

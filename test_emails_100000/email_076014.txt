@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Stewart",
+    "email": "rebecca.stewart5921@gmail.com",
+    "phone": "(603) 796-7186",
+    "ssn": "013-53-3519",
+    "dob": "09/10/1959",
+    "address": "9047 Third Blvd",
+    "city": "Denver",
+    "state": "NJ"
+  }
+}

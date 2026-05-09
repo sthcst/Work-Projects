@@ -1,0 +1,12 @@
+SUPPORT TICKET #51974
+
+Customer: John Rodriguez
+Email: john.rodriguez556@example.com
+Phone: (720) 879-3177
+Account: 575-58-2640
+
+Issue Description: Technical problem reported
+DOB on file: 03/14/1978
+Address: 5262 Fourth Ave, Denver, CO
+
+Status: OPEN

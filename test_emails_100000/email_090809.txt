@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Dominguez
+  email: joseph.dominguez2306@gmail.com
+  phone: 471 822 1261
+  ssn: 460 15 3123
+  dob: 01/10/1994
+  address: 6437 Birch Ln
+  city: San Jose
+  state: OH

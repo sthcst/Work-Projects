@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Carter",
+    "email": "megan.carter8043@business.net",
+    "phone": "+1 693-865-1971",
+    "ssn": "623 67 4277",
+    "dob": "11/24/1961",
+    "address": "5256 Third Ave",
+    "city": "Philadelphia",
+    "state": "AZ"
+  }
+}

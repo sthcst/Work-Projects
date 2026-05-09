@@ -1,0 +1,14 @@
+INVOICE 105246
+
+Bill To:
+Name: Joseph White
+Email: joseph.white6675@mail.com
+Phone: +1 554-796-2608
+SSN: 890-42-6879
+
+Address: 3307 Summer Way
+New York, PA
+
+Date of Birth: 09-08-1968
+
+Amount Due: $5299

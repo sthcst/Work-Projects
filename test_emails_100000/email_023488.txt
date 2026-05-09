@@ -1,0 +1,14 @@
+INVOICE 799813
+
+Bill To:
+Name: David Lee
+Email: david.lee3269@mail.com
+Phone: 662 585 4195
+SSN: 923-77-3510
+
+Address: 6956 First Ln
+Boston, AZ
+
+Date of Birth: 02-22-1987
+
+Amount Due: $7547

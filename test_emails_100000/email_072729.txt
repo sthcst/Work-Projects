@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Evans,donald.evans7226@mail.com,573 637 3667,556 20 1334,5/14/1994,"6920 West Ave",San Antonio,NY

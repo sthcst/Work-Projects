@@ -1,0 +1,14 @@
+INVOICE 205329
+
+Bill To:
+Name: John Guerrero
+Email: john.guerrero6118@example.com
+Phone: 509-900-2888
+SSN: 408219785
+
+Address: 4471 Pine Ave
+Austin, TX
+
+Date of Birth: 2/6/1956
+
+Amount Due: $8111

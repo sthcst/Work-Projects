@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Garcia
+  email: nicole.garcia280@business.net
+  phone: 338 402 3949
+  ssn: 617297019
+  dob: 08/13/1997
+  address: 3647 Cedar Way
+  city: Seattle
+  state: PA

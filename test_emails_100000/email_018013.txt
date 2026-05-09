@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Smith
+  email: lisa.smith2945@outlook.com
+  phone: 718-823-3142
+  ssn: 614 07 6312
+  dob: 08/09/1995
+  address: 2371 South Rd
+  city: Washington
+  state: OH

@@ -1,0 +1,14 @@
+INVOICE 619500
+
+Bill To:
+Name: Rachel Nelson
+Email: rachel.nelson8218@example.com
+Phone: +1 467-532-1866
+SSN: 047-19-2548
+
+Address: 9943 North Blvd
+Chicago, AZ
+
+Date of Birth: 12/02/1957
+
+Amount Due: $7707

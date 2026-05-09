@@ -1,0 +1,9 @@
+contact:
+  name: Christine Lopez
+  email: christine.lopez4984@gmail.com
+  phone: 768 943 6906
+  ssn: 057898617
+  dob: 05/25/1963
+  address: 3158 South Court
+  city: New York
+  state: TX

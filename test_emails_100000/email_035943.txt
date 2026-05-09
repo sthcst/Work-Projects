@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Martinez
+  email: rebecca.martinez152@mail.com
+  phone: 831 210 9663
+  ssn: 670 59 7899
+  dob: 05-07-1972
+  address: 8230 North St
+  city: Philadelphia
+  state: CO

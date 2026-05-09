@@ -1,0 +1,14 @@
+INVOICE 676448
+
+Bill To:
+Name: Robert Thomas
+Email: robert.thomas4715@mail.com
+Phone: 229-248-1626
+SSN: 522394672
+
+Address: 3425 Fourth Rd
+Denver, TX
+
+Date of Birth: 8/14/1953
+
+Amount Due: $8879

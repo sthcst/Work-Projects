@@ -1,0 +1,9 @@
+contact:
+  name: Maria Carter
+  email: maria.carter1913@example.com
+  phone: (371) 724-7621
+  ssn: 781 52 6711
+  dob: 07/14/1971
+  address: 9523 Main Ave
+  city: Jacksonville
+  state: WI

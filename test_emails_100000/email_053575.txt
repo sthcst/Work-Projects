@@ -1,0 +1,12 @@
+SUPPORT TICKET #60864
+
+Customer: Daniel Taylor
+Email: daniel.taylor1742@example.com
+Phone: 831-727-2532
+Account: 626 03 8318
+
+Issue Description: Technical problem reported
+DOB on file: 01-16-1966
+Address: 9791 Spring Blvd, Chicago, CA
+
+Status: OPEN

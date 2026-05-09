@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Roberts",
+    "email": "ryan.roberts3980@gmail.com",
+    "phone": "(272) 999-3579",
+    "ssn": "374158342",
+    "dob": "06/19/1970",
+    "address": "988 South St",
+    "city": "San Diego",
+    "state": "AZ"
+  }
+}

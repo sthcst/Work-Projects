@@ -1,0 +1,9 @@
+contact:
+  name: Richard Jimenez
+  email: richard.jimenez5684@gmail.com
+  phone: 910-711-9596
+  ssn: 367855963
+  dob: 09-10-1955
+  address: 6919 West Ln
+  city: Austin
+  state: DC

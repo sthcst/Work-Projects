@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Walker,brenda.walker6910@outlook.com,248-681-2267,382 29 4683,01/05/1990,"7446 Summer Rd",Jacksonville,MD

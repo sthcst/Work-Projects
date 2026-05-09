@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Phillips",
+    "email": "michelle.phillips260@business.net",
+    "phone": "921 335 9914",
+    "ssn": "313 62 5047",
+    "dob": "21/02/1980",
+    "address": "5273 Spring Dr",
+    "city": "Austin",
+    "state": "OH"
+  }
+}

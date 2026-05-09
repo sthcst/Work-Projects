@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Thompson",
+    "email": "maria.thompson420@gmail.com",
+    "phone": "291 473 9771",
+    "ssn": "816528902",
+    "dob": "1/21/2001",
+    "address": "2324 Elm Way",
+    "city": "Los Angeles",
+    "state": "AZ"
+  }
+}

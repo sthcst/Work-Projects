@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Cooper",
+    "email": "shirley.cooper381@yahoo.com",
+    "phone": "730-768-6967",
+    "ssn": "346073699",
+    "dob": "8/20/1955",
+    "address": "8438 Summer Blvd",
+    "city": "San Antonio",
+    "state": "OH"
+  }
+}

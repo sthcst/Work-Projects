@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Walker",
+    "email": "katherine.walker66@company.com",
+    "phone": "755 513 5729",
+    "ssn": "488 31 1054",
+    "dob": "11/12/1951",
+    "address": "3503 East Court",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

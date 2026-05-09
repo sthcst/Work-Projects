@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Collins",
+    "email": "john.collins6997@work.org",
+    "phone": "+1 253-723-8398",
+    "ssn": "742-40-8718",
+    "dob": "02-24-1997",
+    "address": "7556 West Blvd",
+    "city": "San Jose",
+    "state": "MI"
+  }
+}

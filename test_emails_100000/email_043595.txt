@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Sanchez,steven.sanchez5945@gmail.com,463 595 5633,416779414,01/01/1997,"2270 Elm Blvd",New York,WI

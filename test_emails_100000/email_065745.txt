@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Delgado",
+    "email": "lisa.delgado4048@company.com",
+    "phone": "(331) 469-4140",
+    "ssn": "322738954",
+    "dob": "08/07/2000",
+    "address": "7426 Fourth Ln",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

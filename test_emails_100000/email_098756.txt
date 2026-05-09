@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Jones",
+    "email": "megan.jones3005@work.org",
+    "phone": "899 792 5297",
+    "ssn": "146 91 2031",
+    "dob": "09-23-1996",
+    "address": "5043 Sixth Court",
+    "city": "San Jose",
+    "state": "NY"
+  }
+}

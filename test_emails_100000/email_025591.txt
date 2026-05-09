@@ -1,0 +1,14 @@
+INVOICE 673341
+
+Bill To:
+Name: Andrew Rodriguez
+Email: andrew.rodriguez6627@mail.com
+Phone: 431 300 6513
+SSN: 679 26 6550
+
+Address: 9764 Fifth Blvd
+Phoenix, MA
+
+Date of Birth: 01/15/1981
+
+Amount Due: $8778

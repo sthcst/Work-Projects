@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Thomas",
+    "email": "christine.thomas825@company.com",
+    "phone": "807 903 8090",
+    "ssn": "282758767",
+    "dob": "22/06/1964",
+    "address": "5032 East Dr",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

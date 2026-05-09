@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Roberts",
+    "email": "anthony.roberts1131@business.net",
+    "phone": "+1 253-513-8783",
+    "ssn": "792456805",
+    "dob": "04/04/1960",
+    "address": "5132 First St",
+    "city": "Seattle",
+    "state": "AZ"
+  }
+}

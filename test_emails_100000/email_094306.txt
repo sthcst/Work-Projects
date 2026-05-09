@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Wilson",
+    "email": "jane.wilson1274@outlook.com",
+    "phone": "424 854 9109",
+    "ssn": "705 40 7453",
+    "dob": "10-14-1958",
+    "address": "8783 Birch Ave",
+    "city": "Philadelphia",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Clark
+  email: rebecca.clark7668@yahoo.com
+  phone: 534 416 1457
+  ssn: 265-68-6788
+  dob: 3/26/1957
+  address: 5890 Fourth St
+  city: Phoenix
+  state: CO

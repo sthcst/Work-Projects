@@ -1,0 +1,14 @@
+INVOICE 798228
+
+Bill To:
+Name: Katherine Perez
+Email: katherine.perez9972@example.com
+Phone: 977-981-8367
+SSN: 560655728
+
+Address: 4916 Fifth Ln
+Dallas, OH
+
+Date of Birth: 9/23/1953
+
+Amount Due: $4440

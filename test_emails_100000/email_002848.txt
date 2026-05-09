@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Clark,donald.clark4991@work.org,+1 869-486-6253,188-91-4073,07/06/1996,"7798 Summer Rd",Philadelphia,MI

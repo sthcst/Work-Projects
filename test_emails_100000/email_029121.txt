@@ -1,0 +1,9 @@
+contact:
+  name: Angela Gomez
+  email: angela.gomez2355@yahoo.com
+  phone: (869) 437-9578
+  ssn: 214-14-3701
+  dob: 20/09/1987
+  address: 2484 Summer Court
+  city: Los Angeles
+  state: FL

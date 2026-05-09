@@ -1,0 +1,14 @@
+INVOICE 293358
+
+Bill To:
+Name: Jane Stewart
+Email: jane.stewart9923@mail.com
+Phone: 839-390-3501
+SSN: 712257651
+
+Address: 1291 Maple Way
+Los Angeles, IL
+
+Date of Birth: 12/06/2004
+
+Amount Due: $5424

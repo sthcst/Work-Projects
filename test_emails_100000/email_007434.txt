@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Romero",
+    "email": "gary.romero5517@company.com",
+    "phone": "934 659 3134",
+    "ssn": "867-18-9303",
+    "dob": "02/04/1959",
+    "address": "7632 Summer Blvd",
+    "city": "New York",
+    "state": "PA"
+  }
+}

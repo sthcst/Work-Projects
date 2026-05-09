@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Stewart",
+    "email": "amanda.stewart7082@yahoo.com",
+    "phone": "389 817 8307",
+    "ssn": "548302529",
+    "dob": "09/01/1983",
+    "address": "4974 Third Ln",
+    "city": "Philadelphia",
+    "state": "FL"
+  }
+}

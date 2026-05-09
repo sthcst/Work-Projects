@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Jimenez,katherine.jimenez4782@work.org,+1 687-419-8891,999-32-7661,16/04/2002,"6881 Spring Blvd",Jacksonville,MA

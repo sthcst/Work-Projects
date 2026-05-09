@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Thompson",
+    "email": "sarah.thompson8731@work.org",
+    "phone": "(456) 357-4736",
+    "ssn": "813-51-5923",
+    "dob": "09/09/2003",
+    "address": "2320 West Court",
+    "city": "Philadelphia",
+    "state": "FL"
+  }
+}

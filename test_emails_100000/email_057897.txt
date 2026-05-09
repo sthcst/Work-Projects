@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Lopez,deborah.lopez2847@business.net,682 424 4033,246183926,07/24/1981,"1884 East Blvd",Phoenix,MD

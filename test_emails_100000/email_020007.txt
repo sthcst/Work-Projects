@@ -1,0 +1,9 @@
+contact:
+  name: Brian Reed
+  email: brian.reed2174@company.com
+  phone: (550) 873-5283
+  ssn: 007515556
+  dob: 09/07/1998
+  address: 9018 Fifth Dr
+  city: Seattle
+  state: MD

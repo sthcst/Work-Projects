@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Dominguez,amanda.dominguez5556@work.org,(688) 547-8544,219 89 3997,26/06/1975,"8052 East Dr",Philadelphia,FL

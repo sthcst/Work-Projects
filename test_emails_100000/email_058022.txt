@@ -1,0 +1,9 @@
+contact:
+  name: Christine Gonzalez
+  email: christine.gonzalez4955@outlook.com
+  phone: (284) 539-9784
+  ssn: 506 12 4191
+  dob: 27/10/1970
+  address: 2501 Maple Ave
+  city: San Antonio
+  state: WA

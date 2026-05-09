@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Clark",
+    "email": "katherine.clark9421@gmail.com",
+    "phone": "+1 863-594-4314",
+    "ssn": "174-04-4433",
+    "dob": "9/6/1980",
+    "address": "4342 Pine Court",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

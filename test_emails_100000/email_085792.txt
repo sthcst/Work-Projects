@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Collins,katherine.collins3609@company.com,(798) 466-3498,812 52 6947,10/2/2001,"600 Third Blvd",Philadelphia,NY

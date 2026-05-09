@@ -1,0 +1,14 @@
+INVOICE 212315
+
+Bill To:
+Name: Joseph Gonzalez
+Email: joseph.gonzalez8241@yahoo.com
+Phone: +1 856-981-1504
+SSN: 895701951
+
+Address: 2296 Sixth Way
+Seattle, TX
+
+Date of Birth: 23/05/1972
+
+Amount Due: $6204

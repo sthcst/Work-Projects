@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Carter,anna.carter9613@yahoo.com,+1 203-267-2240,375 30 6533,25/07/1973,"1782 Maple Dr",Dallas,CA

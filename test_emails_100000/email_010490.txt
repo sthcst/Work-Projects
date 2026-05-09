@@ -1,0 +1,9 @@
+contact:
+  name: Charles Collins
+  email: charles.collins5097@company.com
+  phone: 672 821 8898
+  ssn: 673-51-4892
+  dob: 08-12-1971
+  address: 1279 Spring Blvd
+  city: New York
+  state: CA

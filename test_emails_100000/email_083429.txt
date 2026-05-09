@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Delgado,kevin.delgado8269@yahoo.com,+1 578-692-2834,825675272,3/7/1992,"8111 Birch St",New York,NJ

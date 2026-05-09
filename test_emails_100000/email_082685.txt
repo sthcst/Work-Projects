@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Walker,katherine.walker2145@business.net,418-447-9978,478 77 6667,06/11/1975,"9555 Sixth Court",Austin,DC

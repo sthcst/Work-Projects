@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Lewis",
+    "email": "anna.lewis497@work.org",
+    "phone": "+1 243-456-2424",
+    "ssn": "875807018",
+    "dob": "09/18/1961",
+    "address": "9737 East Dr",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Gonzalez,ryan.gonzalez9056@company.com,+1 860-257-4682,449 66 1765,06-02-2003,"4070 Maple Ave",San Diego,CA

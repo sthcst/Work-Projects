@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Peterson
+  email: ryan.peterson5624@yahoo.com
+  phone: 760 659 9044
+  ssn: 527542073
+  dob: 2/1/1975
+  address: 5738 Fifth Ave
+  city: Houston
+  state: GA

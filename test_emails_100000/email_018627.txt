@@ -1,0 +1,14 @@
+INVOICE 585768
+
+Bill To:
+Name: Richard Sanchez
+Email: richard.sanchez1819@outlook.com
+Phone: +1 420-599-6947
+SSN: 645278314
+
+Address: 9838 Pine Ln
+Seattle, MI
+
+Date of Birth: 11/15/1990
+
+Amount Due: $4705

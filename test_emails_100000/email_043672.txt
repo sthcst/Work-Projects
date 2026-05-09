@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Harris",
+    "email": "nicole.harris690@work.org",
+    "phone": "422 529 6759",
+    "ssn": "832995440",
+    "dob": "04/07/1998",
+    "address": "6475 Third St",
+    "city": "Chicago",
+    "state": "WI"
+  }
+}

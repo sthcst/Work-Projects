@@ -1,0 +1,9 @@
+contact:
+  name: Angela Brown
+  email: angela.brown5171@yahoo.com
+  phone: 470-846-4084
+  ssn: 242-71-9853
+  dob: 23/06/2005
+  address: 1487 Fifth St
+  city: Los Angeles
+  state: CA

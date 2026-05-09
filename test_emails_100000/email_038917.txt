@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Peterson,megan.peterson9217@business.net,(849) 916-9690,402904934,11/11/1980,"8369 Summer Court",Denver,MO

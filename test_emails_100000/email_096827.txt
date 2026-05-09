@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Clark",
+    "email": "gary.clark204@outlook.com",
+    "phone": "(279) 592-3864",
+    "ssn": "703 66 4235",
+    "dob": "06-08-1973",
+    "address": "5412 Sixth Court",
+    "city": "San Diego",
+    "state": "PA"
+  }
+}

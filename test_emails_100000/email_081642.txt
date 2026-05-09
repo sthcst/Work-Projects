@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Serrano",
+    "email": "angela.serrano8046@gmail.com",
+    "phone": "(854) 407-8411",
+    "ssn": "691-74-6000",
+    "dob": "02/02/1988",
+    "address": "796 First St",
+    "city": "Los Angeles",
+    "state": "TN"
+  }
+}

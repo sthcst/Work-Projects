@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Johnson",
+    "email": "kenneth.johnson7012@yahoo.com",
+    "phone": "+1 652-911-4141",
+    "ssn": "278-87-8008",
+    "dob": "07/10/1965",
+    "address": "8217 Oak Ave",
+    "city": "Jacksonville",
+    "state": "TN"
+  }
+}

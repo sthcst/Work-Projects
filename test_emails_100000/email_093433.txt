@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Flores",
+    "email": "cynthia.flores2667@business.net",
+    "phone": "535 650 7581",
+    "ssn": "479 63 3298",
+    "dob": "13/05/1996",
+    "address": "4343 Fourth Way",
+    "city": "Denver",
+    "state": "MO"
+  }
+}

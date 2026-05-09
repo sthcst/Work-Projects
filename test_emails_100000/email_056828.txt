@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Morgan",
+    "email": "william.morgan79@gmail.com",
+    "phone": "(731) 660-2080",
+    "ssn": "105807551",
+    "dob": "10/12/1957",
+    "address": "6446 Maple Ln",
+    "city": "Denver",
+    "state": "IL"
+  }
+}

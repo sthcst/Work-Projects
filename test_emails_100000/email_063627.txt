@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Wilson",
+    "email": "amanda.wilson6573@mail.com",
+    "phone": "450 626 3327",
+    "ssn": "961-85-9970",
+    "dob": "5/6/2003",
+    "address": "312 Park Blvd",
+    "city": "Seattle",
+    "state": "AZ"
+  }
+}

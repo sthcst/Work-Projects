@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Ortiz",
+    "email": "paul.ortiz7975@gmail.com",
+    "phone": "987 590 6944",
+    "ssn": "419-23-8700",
+    "dob": "08-01-2003",
+    "address": "3739 Third Court",
+    "city": "San Diego",
+    "state": "AZ"
+  }
+}

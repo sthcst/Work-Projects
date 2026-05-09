@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Flores",
+    "email": "edward.flores2131@example.com",
+    "phone": "752-782-2637",
+    "ssn": "494 80 2072",
+    "dob": "17/01/1977",
+    "address": "5494 West Ln",
+    "city": "Phoenix",
+    "state": "GA"
+  }
+}

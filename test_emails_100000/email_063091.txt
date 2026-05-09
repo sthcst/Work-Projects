@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Johnson,nicole.johnson6034@mail.com,(361) 770-8686,530-07-2230,12/16/1999,"5329 West Dr",Boston,WA

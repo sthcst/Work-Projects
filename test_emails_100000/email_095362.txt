@@ -1,0 +1,14 @@
+INVOICE 999310
+
+Bill To:
+Name: Robert Collins
+Email: robert.collins6048@business.net
+Phone: (682) 925-8834
+SSN: 517 16 8051
+
+Address: 9306 South St
+Philadelphia, MA
+
+Date of Birth: 10/04/1981
+
+Amount Due: $8521

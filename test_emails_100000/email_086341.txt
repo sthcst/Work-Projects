@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Hernandez,sarah.hernandez6221@business.net,+1 929-487-4672,580-66-7234,02/19/1988,"7729 Oak Court",Houston,NY

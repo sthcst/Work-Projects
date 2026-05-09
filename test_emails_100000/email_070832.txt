@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Wilson
+  email: andrew.wilson7930@business.net
+  phone: 473-285-1651
+  ssn: 080891243
+  dob: 28/11/1996
+  address: 2569 Summer Dr
+  city: New York
+  state: VA

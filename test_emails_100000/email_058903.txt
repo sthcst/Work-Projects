@@ -1,0 +1,9 @@
+contact:
+  name: Anna Guerrero
+  email: anna.guerrero7549@business.net
+  phone: 557-866-6257
+  ssn: 851973923
+  dob: 26/06/1989
+  address: 8280 Pine Court
+  city: Denver
+  state: WA

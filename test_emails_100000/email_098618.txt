@@ -1,0 +1,9 @@
+contact:
+  name: Richard Thomas
+  email: richard.thomas1535@company.com
+  phone: 617-564-4062
+  ssn: 364073846
+  dob: 06-27-1972
+  address: 3913 Spring St
+  city: Austin
+  state: CA

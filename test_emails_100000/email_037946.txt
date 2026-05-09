@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Gonzalez",
+    "email": "steven.gonzalez54@example.com",
+    "phone": "339-933-2519",
+    "ssn": "652-44-7974",
+    "dob": "12/24/1992",
+    "address": "8880 Second Dr",
+    "city": "San Antonio",
+    "state": "CO"
+  }
+}

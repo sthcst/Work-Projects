@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Evans
+  email: katherine.evans7498@outlook.com
+  phone: 902 707 5522
+  ssn: 336-59-8257
+  dob: 11/16/1999
+  address: 2327 South Ave
+  city: New York
+  state: NJ

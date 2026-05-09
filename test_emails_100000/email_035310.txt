@@ -1,0 +1,9 @@
+contact:
+  name: Anna Rodriguez
+  email: anna.rodriguez6272@gmail.com
+  phone: (265) 545-5090
+  ssn: 016 62 6801
+  dob: 22/05/1954
+  address: 5760 Fifth Way
+  city: Jacksonville
+  state: VA

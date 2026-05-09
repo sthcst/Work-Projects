@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Garcia
+  email: ashley.garcia2634@outlook.com
+  phone: +1 698-790-3574
+  ssn: 984673506
+  dob: 08/22/1959
+  address: 5857 Elm Rd
+  city: Los Angeles
+  state: MO

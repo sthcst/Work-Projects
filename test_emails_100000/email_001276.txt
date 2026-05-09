@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Thompson",
+    "email": "kathleen.thompson8796@outlook.com",
+    "phone": "659 236 6379",
+    "ssn": "158-06-4973",
+    "dob": "11/8/2003",
+    "address": "8863 Fourth Court",
+    "city": "Chicago",
+    "state": "MA"
+  }
+}

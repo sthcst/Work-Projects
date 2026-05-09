@@ -1,0 +1,14 @@
+INVOICE 725845
+
+Bill To:
+Name: Robert Garcia
+Email: robert.garcia4425@work.org
+Phone: 866 203 5281
+SSN: 756289337
+
+Address: 7898 East Rd
+Dallas, MO
+
+Date of Birth: 11/22/1962
+
+Amount Due: $1635

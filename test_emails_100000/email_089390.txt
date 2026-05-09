@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Garcia,joshua.garcia22@work.org,605-264-8664,374468638,07/22/2003,"1773 Spring Rd",New York,DC

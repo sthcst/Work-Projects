@@ -1,0 +1,9 @@
+contact:
+  name: Angela Davis
+  email: angela.davis823@mail.com
+  phone: 880 999 3505
+  ssn: 456-08-7720
+  dob: 04/14/1964
+  address: 6068 West Way
+  city: San Antonio
+  state: TX

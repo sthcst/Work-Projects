@@ -1,0 +1,14 @@
+INVOICE 237985
+
+Bill To:
+Name: Andrew Carter
+Email: andrew.carter7784@mail.com
+Phone: 495 211 9303
+SSN: 710 36 8784
+
+Address: 4297 Maple Ln
+Jacksonville, GA
+
+Date of Birth: 04-01-1976
+
+Amount Due: $2908

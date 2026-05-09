@@ -1,0 +1,9 @@
+contact:
+  name: John Davis
+  email: john.davis157@example.com
+  phone: 941 258 8566
+  ssn: 270-27-1070
+  dob: 04-17-1953
+  address: 8257 Cedar Dr
+  city: San Diego
+  state: MO

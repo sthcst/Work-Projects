@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Phillips",
+    "email": "james.phillips5407@mail.com",
+    "phone": "585 535 7529",
+    "ssn": "697-72-7556",
+    "dob": "11-06-1951",
+    "address": "3700 Fourth Rd",
+    "city": "Dallas",
+    "state": "PA"
+  }
+}

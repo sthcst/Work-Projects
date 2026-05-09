@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Ortiz,megan.ortiz9533@gmail.com,533-763-7851,395 54 8248,07/13/1976,"6502 Second St",San Diego,MO

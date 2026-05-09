@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Thompson",
+    "email": "angela.thompson1344@business.net",
+    "phone": "256 565 4140",
+    "ssn": "815153221",
+    "dob": "01/08/2002",
+    "address": "8798 Sixth St",
+    "city": "Jacksonville",
+    "state": "WA"
+  }
+}

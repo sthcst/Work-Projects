@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Nunez",
+    "email": "mark.nunez695@work.org",
+    "phone": "815 524 9804",
+    "ssn": "962266556",
+    "dob": "09/22/1955",
+    "address": "5324 South Rd",
+    "city": "San Jose",
+    "state": "CA"
+  }
+}

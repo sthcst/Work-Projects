@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Miller,steven.miller414@gmail.com,(346) 696-6973,014794304,07/22/2002,"4612 Second St",Phoenix,GA

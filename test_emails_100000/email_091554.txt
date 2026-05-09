@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Roberts",
+    "email": "sarah.roberts9176@yahoo.com",
+    "phone": "392 977 1674",
+    "ssn": "983 54 6987",
+    "dob": "11/11/1958",
+    "address": "4608 Elm Rd",
+    "city": "Chicago",
+    "state": "MO"
+  }
+}

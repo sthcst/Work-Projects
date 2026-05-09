@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Parker",
+    "email": "emma.parker1525@mail.com",
+    "phone": "901-934-5324",
+    "ssn": "425732209",
+    "dob": "18/10/1992",
+    "address": "5432 Third Dr",
+    "city": "Phoenix",
+    "state": "IL"
+  }
+}

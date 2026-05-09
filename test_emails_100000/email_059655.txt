@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Lopez",
+    "email": "gary.lopez8855@business.net",
+    "phone": "(366) 880-8409",
+    "ssn": "312 02 5907",
+    "dob": "28/06/2003",
+    "address": "2136 Sixth Ave",
+    "city": "San Jose",
+    "state": "MI"
+  }
+}

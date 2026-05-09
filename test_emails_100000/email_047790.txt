@@ -1,0 +1,14 @@
+INVOICE 432753
+
+Bill To:
+Name: Joseph Taylor
+Email: joseph.taylor3208@business.net
+Phone: 599-397-3696
+SSN: 904888926
+
+Address: 2045 Spring Dr
+Houston, MD
+
+Date of Birth: 06-10-1955
+
+Amount Due: $5859

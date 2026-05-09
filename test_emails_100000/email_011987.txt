@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Taylor",
+    "email": "james.taylor9155@company.com",
+    "phone": "536-631-3425",
+    "ssn": "765586444",
+    "dob": "07-04-1963",
+    "address": "255 North Rd",
+    "city": "Austin",
+    "state": "TN"
+  }
+}

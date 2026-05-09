@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Dominguez,samantha.dominguez8880@company.com,(892) 624-8610,165 22 9340,7/23/1986,"7592 Park Dr",San Jose,VA

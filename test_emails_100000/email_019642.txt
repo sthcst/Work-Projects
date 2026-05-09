@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Morris,deborah.morris6900@yahoo.com,566-569-2182,039-51-3243,04/27/2002,"7514 Birch Dr",Boston,CA

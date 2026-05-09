@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Garcia,edward.garcia5082@gmail.com,(705) 764-6727,866 46 6691,08/20/1979,"1250 Elm Blvd",Chicago,CA

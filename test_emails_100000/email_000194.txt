@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Roberts",
+    "email": "george.roberts7688@gmail.com",
+    "phone": "+1 973-688-5908",
+    "ssn": "010 99 8052",
+    "dob": "10/08/2000",
+    "address": "8991 South Ln",
+    "city": "Denver",
+    "state": "MD"
+  }
+}

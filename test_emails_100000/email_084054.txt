@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Dominguez",
+    "email": "jennifer.dominguez2827@outlook.com",
+    "phone": "+1 340-790-1319",
+    "ssn": "045-87-5595",
+    "dob": "15/12/1985",
+    "address": "4840 Spring Blvd",
+    "city": "Seattle",
+    "state": "VA"
+  }
+}

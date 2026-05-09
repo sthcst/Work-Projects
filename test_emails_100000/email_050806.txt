@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Wilson
+  email: lauren.wilson9082@company.com
+  phone: (910) 348-4626
+  ssn: 682 93 2238
+  dob: 01/08/1982
+  address: 1747 Spring St
+  city: Washington
+  state: FL

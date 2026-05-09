@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Morris,jason.morris6472@company.com,676-530-4785,281 61 9784,3/4/1992,"9692 Second Court",New York,TN

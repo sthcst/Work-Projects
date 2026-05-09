@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Walker
+  email: kevin.walker7571@mail.com
+  phone: 881-896-6312
+  ssn: 951-64-7111
+  dob: 6/9/1973
+  address: 2662 Cedar St
+  city: San Diego
+  state: WI

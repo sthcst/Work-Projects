@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Bell,joseph.bell6563@company.com,329 511 8021,232371805,05/10/2005,"2471 East Way",Washington,DC

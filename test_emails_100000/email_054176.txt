@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Young",
+    "email": "kenneth.young950@mail.com",
+    "phone": "712 713 1690",
+    "ssn": "314 75 4052",
+    "dob": "7/20/1984",
+    "address": "2112 Spring Rd",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

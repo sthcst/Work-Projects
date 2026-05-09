@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Jimenez",
+    "email": "michelle.jimenez9461@yahoo.com",
+    "phone": "+1 860-950-4145",
+    "ssn": "090 65 7574",
+    "dob": "11/23/1995",
+    "address": "4774 Cedar Ln",
+    "city": "Boston",
+    "state": "WI"
+  }
+}

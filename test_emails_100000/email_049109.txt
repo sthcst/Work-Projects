@@ -1,0 +1,14 @@
+INVOICE 386698
+
+Bill To:
+Name: Megan Dominguez
+Email: megan.dominguez482@work.org
+Phone: 393 729 3028
+SSN: 105 25 9801
+
+Address: 9420 Fifth Ave
+San Antonio, CA
+
+Date of Birth: 23/05/1989
+
+Amount Due: $2408

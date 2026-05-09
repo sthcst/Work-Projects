@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Peterson",
+    "email": "timothy.peterson9257@company.com",
+    "phone": "864 409 6660",
+    "ssn": "673-30-4021",
+    "dob": "27/04/1985",
+    "address": "880 Sixth Rd",
+    "city": "Los Angeles",
+    "state": "IL"
+  }
+}

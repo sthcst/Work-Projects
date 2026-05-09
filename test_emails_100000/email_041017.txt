@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Carter
+  email: katherine.carter8696@gmail.com
+  phone: 268-650-3189
+  ssn: 129 06 3653
+  dob: 07-09-1993
+  address: 7951 Fifth Dr
+  city: Chicago
+  state: WA

@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Alvarado
+  email: kathleen.alvarado3240@outlook.com
+  phone: +1 721-500-5085
+  ssn: 201-41-2684
+  dob: 03/28/1997
+  address: 6464 Main Ln
+  city: Austin
+  state: WA

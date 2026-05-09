@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Alvarado,lauren.alvarado1428@example.com,(253) 917-5731,733064039,12-07-1999,"1187 Fourth Rd",Dallas,TX

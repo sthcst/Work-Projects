@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony White,anthony.white1333@example.com,675-290-5596,606 47 7204,10-21-1968,"9190 First Rd",Los Angeles,GA

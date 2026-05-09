@@ -1,0 +1,9 @@
+contact:
+  name: William Jimenez
+  email: william.jimenez9945@example.com
+  phone: 931 475 9876
+  ssn: 349354372
+  dob: 11/25/1967
+  address: 5464 Fourth St
+  city: Phoenix
+  state: TX

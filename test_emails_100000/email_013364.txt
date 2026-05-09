@@ -1,0 +1,12 @@
+SUPPORT TICKET #37599
+
+Customer: Helen Lee
+Email: helen.lee2361@example.com
+Phone: (617) 277-4688
+Account: 975469764
+
+Issue Description: Technical problem reported
+DOB on file: 10-02-1991
+Address: 4159 Second St, San Jose, AZ
+
+Status: OPEN

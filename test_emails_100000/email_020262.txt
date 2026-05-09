@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Stewart",
+    "email": "daniel.stewart5462@work.org",
+    "phone": "351-326-3461",
+    "ssn": "844523838",
+    "dob": "01/06/1987",
+    "address": "9451 Third Blvd",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Williams,nicole.williams3447@gmail.com,(861) 352-8990,526019300,08/19/1963,"2989 Maple Way",New York,TX

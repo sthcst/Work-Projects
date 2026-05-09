@@ -1,0 +1,14 @@
+INVOICE 290743
+
+Bill To:
+Name: Nicole Lee
+Email: nicole.lee4231@work.org
+Phone: +1 613-356-2913
+SSN: 643283949
+
+Address: 8014 West Ave
+Chicago, GA
+
+Date of Birth: 12-25-2005
+
+Amount Due: $9185

@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Martinez
+  email: jacob.martinez565@example.com
+  phone: 378 234 8274
+  ssn: 838296835
+  dob: 07/12/1998
+  address: 2370 Second Way
+  city: Phoenix
+  state: NY

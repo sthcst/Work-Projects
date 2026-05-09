@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Carter",
+    "email": "helen.carter5467@work.org",
+    "phone": "+1 981-312-2420",
+    "ssn": "129216247",
+    "dob": "6/1/2004",
+    "address": "6409 Sixth Dr",
+    "city": "Austin",
+    "state": "MO"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Cooper,robert.cooper8128@work.org,(774) 611-8954,121 64 4884,28/11/2000,"7456 Birch Rd",San Jose,GA

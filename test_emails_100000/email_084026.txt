@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Jimenez,jeffrey.jimenez3689@gmail.com,+1 490-678-8566,619112515,07/14/2002,"121 Second Ln",Jacksonville,CA

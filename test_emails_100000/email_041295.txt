@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Romero
+  email: katherine.romero5896@mail.com
+  phone: 686 258 1101
+  ssn: 182693054
+  dob: 16/03/1958
+  address: 6789 Spring St
+  city: San Antonio
+  state: AZ

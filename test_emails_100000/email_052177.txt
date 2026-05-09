@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Guerrero,steven.guerrero886@gmail.com,496-954-5052,901-98-7005,20/05/1966,"2971 Elm Court",San Diego,MD

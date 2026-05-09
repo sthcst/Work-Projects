@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Smith,charles.smith9277@example.com,+1 293-874-9273,232232882,12/26/1963,"8986 North Blvd",Philadelphia,TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Ramirez",
+    "email": "jennifer.ramirez6909@example.com",
+    "phone": "694-753-1772",
+    "ssn": "253782641",
+    "dob": "11/22/1993",
+    "address": "2075 Cedar Dr",
+    "city": "New York",
+    "state": "WA"
+  }
+}

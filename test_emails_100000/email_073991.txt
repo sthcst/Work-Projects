@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Wilson
+  email: anthony.wilson5606@outlook.com
+  phone: 708-640-7028
+  ssn: 704-54-4336
+  dob: 04-28-1986
+  address: 9698 South Court
+  city: Denver
+  state: MD

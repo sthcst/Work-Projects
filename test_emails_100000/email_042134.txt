@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Jimenez
+  email: jennifer.jimenez614@company.com
+  phone: (579) 971-4275
+  ssn: 771 83 8101
+  dob: 04/28/1987
+  address: 2146 North Ln
+  city: Phoenix
+  state: TX

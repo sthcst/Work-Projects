@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Lee",
+    "email": "ashley.lee2837@company.com",
+    "phone": "409 790 9957",
+    "ssn": "632-59-4148",
+    "dob": "4/7/2000",
+    "address": "1486 Summer Way",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

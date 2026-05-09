@@ -1,0 +1,9 @@
+contact:
+  name: John Morris
+  email: john.morris5274@yahoo.com
+  phone: +1 962-224-3727
+  ssn: 829643937
+  dob: 12-03-1983
+  address: 8615 Fifth Blvd
+  city: Boston
+  state: FL

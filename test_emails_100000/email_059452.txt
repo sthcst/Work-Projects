@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Lopez
+  email: ronald.lopez6272@work.org
+  phone: 632 758 2464
+  ssn: 316 31 2928
+  dob: 10/02/1980
+  address: 7292 Second Court
+  city: San Diego
+  state: GA

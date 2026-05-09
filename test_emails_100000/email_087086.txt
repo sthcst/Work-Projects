@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Delgado,daniel.delgado5039@yahoo.com,(821) 304-8140,916374217,07/10/1989,"1928 West Court",Chicago,MI

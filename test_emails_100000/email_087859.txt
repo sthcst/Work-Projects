@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Peterson",
+    "email": "helen.peterson3167@gmail.com",
+    "phone": "(754) 301-9157",
+    "ssn": "955974850",
+    "dob": "10/12/1986",
+    "address": "4848 Elm Ln",
+    "city": "Phoenix",
+    "state": "TN"
+  }
+}

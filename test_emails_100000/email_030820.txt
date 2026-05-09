@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Martinez
+  email: timothy.martinez3836@example.com
+  phone: 341 580 3292
+  ssn: 944 82 7650
+  dob: 08-25-1952
+  address: 2165 Spring Blvd
+  city: Washington
+  state: MA

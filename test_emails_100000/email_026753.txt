@@ -1,0 +1,14 @@
+INVOICE 852334
+
+Bill To:
+Name: Katherine Clark
+Email: katherine.clark2088@gmail.com
+Phone: +1 298-837-4052
+SSN: 401-08-3710
+
+Address: 1502 Maple Dr
+Austin, CO
+
+Date of Birth: 12/15/1989
+
+Amount Due: $3162

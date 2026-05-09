@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Phillips,jacob.phillips9293@business.net,+1 637-992-9851,750-59-6813,9/7/1983,"3887 Oak St",San Antonio,TX

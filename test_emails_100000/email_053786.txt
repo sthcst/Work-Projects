@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Ramirez,christine.ramirez3219@outlook.com,827 493 1191,615994642,01-28-1974,"3074 West Court",Austin,MO

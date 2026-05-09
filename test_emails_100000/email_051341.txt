@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Ramirez,stephanie.ramirez3365@outlook.com,366-856-5257,207-42-6759,4/7/2004,"1688 Main Ln",Chicago,MI

@@ -1,0 +1,14 @@
+INVOICE 747552
+
+Bill To:
+Name: Andrew Reed
+Email: andrew.reed1564@example.com
+Phone: 666 575 7301
+SSN: 688362518
+
+Address: 8562 Fourth St
+Chicago, MI
+
+Date of Birth: 3/9/2003
+
+Amount Due: $6908

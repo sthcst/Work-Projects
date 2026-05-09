@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Ramirez",
+    "email": "george.ramirez6516@company.com",
+    "phone": "545-906-9874",
+    "ssn": "922 74 1710",
+    "dob": "11/15/1962",
+    "address": "954 West Dr",
+    "city": "New York",
+    "state": "CA"
+  }
+}

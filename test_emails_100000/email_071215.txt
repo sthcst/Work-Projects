@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Johnson,brenda.johnson8535@mail.com,582-383-6417,493201891,9/19/1972,"1033 Spring St",Dallas,NY

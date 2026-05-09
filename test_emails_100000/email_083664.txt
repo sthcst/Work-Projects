@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Hernandez",
+    "email": "paul.hernandez5385@company.com",
+    "phone": "+1 671-261-8908",
+    "ssn": "759-70-4691",
+    "dob": "23/01/1976",
+    "address": "6560 Third Dr",
+    "city": "Los Angeles",
+    "state": "MD"
+  }
+}

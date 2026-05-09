@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Evans,nicole.evans2893@company.com,347 407 8607,074074690,03/17/1995,"565 Fifth Blvd",Philadelphia,CA

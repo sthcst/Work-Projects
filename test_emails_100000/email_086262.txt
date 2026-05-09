@@ -1,0 +1,14 @@
+INVOICE 817427
+
+Bill To:
+Name: Jason White
+Email: jason.white7272@work.org
+Phone: +1 549-567-7535
+SSN: 159667623
+
+Address: 3485 North Ln
+Washington, FL
+
+Date of Birth: 19/12/1994
+
+Amount Due: $8452

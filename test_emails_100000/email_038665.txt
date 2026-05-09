@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Anderson,nicholas.anderson374@company.com,+1 439-821-9794,370699669,01/19/1970,"3712 West Dr",San Diego,FL

@@ -1,0 +1,14 @@
+INVOICE 949582
+
+Bill To:
+Name: Nicholas Thomas
+Email: nicholas.thomas2018@company.com
+Phone: 822-841-5461
+SSN: 156 30 1917
+
+Address: 1474 Main Dr
+Phoenix, DC
+
+Date of Birth: 04-04-1984
+
+Amount Due: $8792

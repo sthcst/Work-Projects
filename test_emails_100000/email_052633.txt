@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Gomez,kimberly.gomez1606@work.org,(625) 549-3606,170 77 4127,09/10/1961,"5198 North Blvd",Phoenix,CO

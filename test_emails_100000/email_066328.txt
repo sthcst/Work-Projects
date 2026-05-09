@@ -1,0 +1,9 @@
+contact:
+  name: Maria Garcia
+  email: maria.garcia7236@gmail.com
+  phone: +1 503-928-1084
+  ssn: 968618450
+  dob: 06/06/1958
+  address: 9811 Pine Rd
+  city: San Diego
+  state: MA

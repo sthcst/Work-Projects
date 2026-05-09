@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Gomez",
+    "email": "david.gomez3091@company.com",
+    "phone": "522-914-7628",
+    "ssn": "410 55 8366",
+    "dob": "07/06/1969",
+    "address": "5308 Cedar Blvd",
+    "city": "Denver",
+    "state": "GA"
+  }
+}

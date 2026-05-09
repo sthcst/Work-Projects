@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Phillips,stephanie.phillips3088@business.net,(266) 287-1020,803 21 5223,01/10/1964,"5952 Elm St",San Antonio,VA

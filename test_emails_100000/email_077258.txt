@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Walker",
+    "email": "deborah.walker4490@gmail.com",
+    "phone": "766-457-5248",
+    "ssn": "093-77-9418",
+    "dob": "10/24/1973",
+    "address": "3723 Main Ln",
+    "city": "Seattle",
+    "state": "FL"
+  }
+}

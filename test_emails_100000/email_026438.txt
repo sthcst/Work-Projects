@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Lee",
+    "email": "edward.lee9723@business.net",
+    "phone": "+1 673-384-2572",
+    "ssn": "946961924",
+    "dob": "8/17/1999",
+    "address": "6712 First St",
+    "city": "Dallas",
+    "state": "MD"
+  }
+}

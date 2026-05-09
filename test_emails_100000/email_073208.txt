@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa White,lisa.white5785@yahoo.com,490-696-3366,151-54-9585,3/21/1956,"8118 North Ln",Jacksonville,MA

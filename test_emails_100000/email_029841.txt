@@ -1,0 +1,14 @@
+INVOICE 844002
+
+Bill To:
+Name: Gary Bell
+Email: gary.bell9036@mail.com
+Phone: (976) 813-9248
+SSN: 395-05-4512
+
+Address: 3060 Second Ave
+New York, TN
+
+Date of Birth: 12/28/1986
+
+Amount Due: $4984

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Lewis,daniel.lewis3192@work.org,+1 248-934-2088,910-23-3208,17/06/1986,"8537 Park Blvd",Phoenix,WI

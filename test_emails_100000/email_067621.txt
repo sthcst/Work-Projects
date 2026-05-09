@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Serrano
+  email: stephanie.serrano6400@company.com
+  phone: +1 439-876-5671
+  ssn: 224 42 1776
+  dob: 11/09/1996
+  address: 7761 Spring St
+  city: Philadelphia
+  state: MA

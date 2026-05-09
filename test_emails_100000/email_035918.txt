@@ -1,0 +1,14 @@
+INVOICE 104415
+
+Bill To:
+Name: David Ortiz
+Email: david.ortiz6955@company.com
+Phone: (925) 768-9553
+SSN: 826568608
+
+Address: 7408 Park Way
+Denver, FL
+
+Date of Birth: 10/19/1979
+
+Amount Due: $365

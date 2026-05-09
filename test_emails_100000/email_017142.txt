@@ -1,0 +1,9 @@
+contact:
+  name: Charles Smith
+  email: charles.smith8765@yahoo.com
+  phone: +1 492-961-3891
+  ssn: 956 55 4181
+  dob: 09-12-1962
+  address: 2524 First Rd
+  city: Dallas
+  state: CA

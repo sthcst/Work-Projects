@@ -1,0 +1,9 @@
+contact:
+  name: Mark Smith
+  email: mark.smith3284@example.com
+  phone: 826 976 5609
+  ssn: 838231050
+  dob: 22/12/1980
+  address: 5319 Park Way
+  city: Houston
+  state: MA

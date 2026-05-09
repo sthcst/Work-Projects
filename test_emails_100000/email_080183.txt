@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Harris,samantha.harris6495@business.net,616-878-1841,970-75-9798,10/15/1999,"6823 Oak Ave",San Diego,IL

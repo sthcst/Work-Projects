@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Moore,emily.moore3250@work.org,+1 279-332-3487,055 71 8282,04/18/1991,"5002 West Ln",New York,OH

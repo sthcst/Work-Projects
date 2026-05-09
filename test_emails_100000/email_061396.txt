@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Young
+  email: jeffrey.young3977@company.com
+  phone: 390-483-2616
+  ssn: 709-09-6680
+  dob: 04/15/2003
+  address: 1476 Cedar St
+  city: Jacksonville
+  state: AZ

@@ -1,0 +1,14 @@
+INVOICE 687975
+
+Bill To:
+Name: Jeffrey Wilson
+Email: jeffrey.wilson3503@example.com
+Phone: 764-798-1731
+SSN: 858-29-9765
+
+Address: 8131 Pine Court
+Chicago, MA
+
+Date of Birth: 02-01-1975
+
+Amount Due: $1830

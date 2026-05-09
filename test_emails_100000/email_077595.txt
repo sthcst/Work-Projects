@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Lopez",
+    "email": "shirley.lopez3600@outlook.com",
+    "phone": "881-368-8170",
+    "ssn": "875839917",
+    "dob": "19/06/1971",
+    "address": "2258 South Dr",
+    "city": "New York",
+    "state": "CA"
+  }
+}

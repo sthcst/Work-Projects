@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Serrano
+  email: anthony.serrano4694@company.com
+  phone: (967) 526-9327
+  ssn: 935-10-6549
+  dob: 10-22-1959
+  address: 8830 Pine Rd
+  city: Jacksonville
+  state: AZ

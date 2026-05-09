@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Stewart,andrew.stewart2205@gmail.com,+1 697-342-3688,404-07-5194,04-27-1966,"7608 Third Ave",Phoenix,CO

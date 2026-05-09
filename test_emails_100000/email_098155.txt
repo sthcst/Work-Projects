@@ -1,0 +1,9 @@
+contact:
+  name: Jane Jackson
+  email: jane.jackson9839@mail.com
+  phone: 361 663 7854
+  ssn: 828-84-7900
+  dob: 03-04-1979
+  address: 7126 First Court
+  city: San Diego
+  state: NJ

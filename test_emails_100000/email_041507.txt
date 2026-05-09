@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Anderson
+  email: nicole.anderson8780@example.com
+  phone: 554-230-7060
+  ssn: 892 07 9088
+  dob: 11/22/1975
+  address: 1006 East Blvd
+  city: Austin
+  state: NC

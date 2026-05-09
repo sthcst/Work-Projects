@@ -1,0 +1,14 @@
+INVOICE 278114
+
+Bill To:
+Name: Emily Bell
+Email: emily.bell8071@company.com
+Phone: +1 688-959-7795
+SSN: 427855998
+
+Address: 8568 First Rd
+San Diego, AZ
+
+Date of Birth: 7/19/1985
+
+Amount Due: $612

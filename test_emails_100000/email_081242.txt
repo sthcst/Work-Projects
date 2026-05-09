@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Parker",
+    "email": "samantha.parker6310@yahoo.com",
+    "phone": "924 624 1938",
+    "ssn": "684-32-5975",
+    "dob": "01/08/1993",
+    "address": "6691 Sixth Dr",
+    "city": "Phoenix",
+    "state": "NY"
+  }
+}

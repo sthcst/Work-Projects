@@ -1,0 +1,9 @@
+contact:
+  name: Helen Jones
+  email: helen.jones6852@company.com
+  phone: (309) 237-9502
+  ssn: 111628095
+  dob: 11/03/1976
+  address: 7340 West St
+  city: Los Angeles
+  state: MD

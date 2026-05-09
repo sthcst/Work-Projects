@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Lewis",
+    "email": "cynthia.lewis8948@company.com",
+    "phone": "410 354 5924",
+    "ssn": "272-59-4086",
+    "dob": "01/03/1955",
+    "address": "1791 First Ln",
+    "city": "Denver",
+    "state": "MD"
+  }
+}

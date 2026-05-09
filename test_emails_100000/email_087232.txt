@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Parker
+  email: stephanie.parker771@work.org
+  phone: 425-687-4436
+  ssn: 025 14 3492
+  dob: 11/07/1989
+  address: 4891 Oak Rd
+  city: San Antonio
+  state: CA

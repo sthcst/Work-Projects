@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Williams,amanda.williams5959@yahoo.com,663 770 4643,293 35 5675,03/17/1981,"2596 Main Blvd",Seattle,CO

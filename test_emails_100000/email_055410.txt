@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Martin",
+    "email": "angela.martin3515@work.org",
+    "phone": "(504) 954-9567",
+    "ssn": "320-86-2228",
+    "dob": "11/27/1987",
+    "address": "8883 South Rd",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

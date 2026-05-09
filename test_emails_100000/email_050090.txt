@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Harris",
+    "email": "nicole.harris412@gmail.com",
+    "phone": "755-477-8065",
+    "ssn": "125 42 8479",
+    "dob": "11/09/1986",
+    "address": "2990 Spring St",
+    "city": "Jacksonville",
+    "state": "WI"
+  }
+}

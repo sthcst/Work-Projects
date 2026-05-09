@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Delgado,deborah.delgado4576@example.com,432 433 3383,608 90 6064,15/11/1983,"8183 Summer St",San Jose,MO

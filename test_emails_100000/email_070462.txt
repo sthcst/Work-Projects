@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Bell,megan.bell2896@business.net,(378) 737-4562,970 49 8203,04/09/1954,"6513 Maple St",Denver,NY

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Roberts",
+    "email": "emma.roberts2281@outlook.com",
+    "phone": "607-373-9276",
+    "ssn": "538 69 5195",
+    "dob": "2/16/1957",
+    "address": "2365 Spring Ln",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Peterson,helen.peterson902@mail.com,380 695 8873,815-77-7886,09-25-1977,"8316 North Dr",Boston,GA

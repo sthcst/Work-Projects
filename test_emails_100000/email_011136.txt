@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Dominguez",
+    "email": "nicholas.dominguez6783@business.net",
+    "phone": "942-562-2311",
+    "ssn": "166-56-5230",
+    "dob": "07/12/1981",
+    "address": "2807 First Rd",
+    "city": "Dallas",
+    "state": "FL"
+  }
+}

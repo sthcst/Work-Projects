@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Hall",
+    "email": "jessica.hall3084@outlook.com",
+    "phone": "(639) 763-1113",
+    "ssn": "353089492",
+    "dob": "06/13/1989",
+    "address": "3642 First Dr",
+    "city": "Phoenix",
+    "state": "MA"
+  }
+}

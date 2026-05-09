@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Rodriguez",
+    "email": "shirley.rodriguez9147@outlook.com",
+    "phone": "732-715-5134",
+    "ssn": "136738322",
+    "dob": "11/05/1995",
+    "address": "7820 West Ave",
+    "city": "Dallas",
+    "state": "NC"
+  }
+}

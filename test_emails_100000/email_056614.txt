@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Edwards
+  email: amanda.edwards6160@yahoo.com
+  phone: (245) 427-4079
+  ssn: 817-11-8946
+  dob: 03/25/1986
+  address: 6056 Park Dr
+  city: Boston
+  state: IL

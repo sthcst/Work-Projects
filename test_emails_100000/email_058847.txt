@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Morgan
+  email: amanda.morgan2775@outlook.com
+  phone: (553) 370-1594
+  ssn: 468529914
+  dob: 21/06/1980
+  address: 5265 Pine Way
+  city: Dallas
+  state: FL

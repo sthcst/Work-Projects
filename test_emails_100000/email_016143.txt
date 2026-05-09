@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Miller,kenneth.miller6894@example.com,632 867 5425,050341184,02-04-1964,"2954 Fourth Court",Chicago,WI

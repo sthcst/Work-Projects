@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Collins,amanda.collins8990@business.net,452 644 7260,011969887,11/09/1973,"7859 North Dr",Denver,AZ

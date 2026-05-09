@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Davis,daniel.davis9031@business.net,292 977 7634,466 73 6547,11/21/1951,"1308 Oak Blvd",Boston,PA

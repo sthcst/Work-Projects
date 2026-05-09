@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Peterson",
+    "email": "christopher.peterson143@business.net",
+    "phone": "+1 222-817-8998",
+    "ssn": "396069335",
+    "dob": "06/01/1970",
+    "address": "2068 First Ave",
+    "city": "Jacksonville",
+    "state": "MO"
+  }
+}

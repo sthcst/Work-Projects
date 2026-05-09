@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Lewis,brenda.lewis8888@work.org,+1 318-451-7388,213-31-5960,6/6/1961,"2021 Second St",Chicago,NY

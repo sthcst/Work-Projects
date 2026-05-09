@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Campbell",
+    "email": "deborah.campbell694@work.org",
+    "phone": "(573) 919-7766",
+    "ssn": "869-56-9783",
+    "dob": "17/01/1984",
+    "address": "3406 Pine Rd",
+    "city": "Chicago",
+    "state": "AZ"
+  }
+}

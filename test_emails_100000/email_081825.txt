@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Moore,steven.moore2716@company.com,541-988-7563,388 56 4359,02/07/1972,"3230 West Rd",San Antonio,VA

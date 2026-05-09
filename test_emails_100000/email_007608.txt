@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Bell",
+    "email": "william.bell2165@gmail.com",
+    "phone": "(505) 918-4076",
+    "ssn": "549-70-1209",
+    "dob": "25/11/1986",
+    "address": "5262 Birch Ln",
+    "city": "Dallas",
+    "state": "AZ"
+  }
+}

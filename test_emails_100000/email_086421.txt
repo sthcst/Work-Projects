@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Roberts",
+    "email": "samantha.roberts7615@gmail.com",
+    "phone": "415-723-4474",
+    "ssn": "248 97 3863",
+    "dob": "01/07/1952",
+    "address": "3654 Main Ave",
+    "city": "Philadelphia",
+    "state": "IL"
+  }
+}

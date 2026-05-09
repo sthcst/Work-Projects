@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Alvarado,david.alvarado5643@mail.com,741-535-3879,690 63 4596,8/19/1951,"3008 West Ln",San Jose,MA

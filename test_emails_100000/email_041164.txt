@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Hernandez",
+    "email": "jessica.hernandez8811@mail.com",
+    "phone": "334 580 8134",
+    "ssn": "437-01-4831",
+    "dob": "16/08/1996",
+    "address": "9562 North Way",
+    "city": "Dallas",
+    "state": "VA"
+  }
+}

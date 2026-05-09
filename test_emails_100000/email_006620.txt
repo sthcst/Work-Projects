@@ -1,0 +1,9 @@
+contact:
+  name: Mark Serrano
+  email: mark.serrano7471@example.com
+  phone: (769) 610-8947
+  ssn: 349-15-9836
+  dob: 9/1/1989
+  address: 5818 Oak Court
+  city: Washington
+  state: CA

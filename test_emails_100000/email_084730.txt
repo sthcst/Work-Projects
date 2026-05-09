@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Wilson,amanda.wilson4940@gmail.com,+1 327-863-5445,505-53-8965,01/12/1958,"7292 Oak Ave",Phoenix,WA

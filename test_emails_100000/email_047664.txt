@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Rogers,richard.rogers4917@mail.com,+1 925-277-8749,180522826,05-25-1982,"9130 West Ave",Phoenix,CO

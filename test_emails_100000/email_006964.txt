@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Jones",
+    "email": "michelle.jones4422@company.com",
+    "phone": "201-243-1844",
+    "ssn": "411203766",
+    "dob": "06-20-1966",
+    "address": "5065 West Ave",
+    "city": "Los Angeles",
+    "state": "MO"
+  }
+}

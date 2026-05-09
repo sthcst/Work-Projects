@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Jackson",
+    "email": "joseph.jackson6452@gmail.com",
+    "phone": "347-585-6077",
+    "ssn": "201-28-3419",
+    "dob": "25/03/1997",
+    "address": "6648 Oak Ln",
+    "city": "Los Angeles",
+    "state": "FL"
+  }
+}

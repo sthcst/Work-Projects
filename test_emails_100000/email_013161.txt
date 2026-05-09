@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Morris",
+    "email": "jessica.morris2722@mail.com",
+    "phone": "424 890 2292",
+    "ssn": "557-32-3132",
+    "dob": "03-25-1969",
+    "address": "8034 Maple Rd",
+    "city": "Philadelphia",
+    "state": "MA"
+  }
+}

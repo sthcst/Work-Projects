@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Clark",
+    "email": "joseph.clark88@mail.com",
+    "phone": "547 908 4265",
+    "ssn": "576-59-5727",
+    "dob": "10/14/2004",
+    "address": "3336 Elm Ln",
+    "city": "Houston",
+    "state": "TN"
+  }
+}

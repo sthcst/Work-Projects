@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Flores",
+    "email": "ashley.flores8576@gmail.com",
+    "phone": "(721) 523-1711",
+    "ssn": "921-27-6921",
+    "dob": "5/6/1982",
+    "address": "4391 Spring Ln",
+    "city": "Chicago",
+    "state": "GA"
+  }
+}

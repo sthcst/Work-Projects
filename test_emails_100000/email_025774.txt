@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Serrano
+  email: rachel.serrano1259@outlook.com
+  phone: +1 961-692-4069
+  ssn: 308-17-3506
+  dob: 02/11/1962
+  address: 2702 Third Dr
+  city: Boston
+  state: NY

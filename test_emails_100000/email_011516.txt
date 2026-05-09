@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Davis,jacob.davis3044@example.com,+1 578-494-4933,142 35 4365,13/12/1950,"6977 Summer Blvd",Seattle,OH

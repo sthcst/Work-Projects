@@ -1,0 +1,9 @@
+contact:
+  name: Paul Lewis
+  email: paul.lewis8013@example.com
+  phone: (495) 479-7121
+  ssn: 057 95 2008
+  dob: 20/11/1972
+  address: 9210 Pine Court
+  city: New York
+  state: NY

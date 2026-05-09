@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Robinson,jennifer.robinson4074@company.com,+1 533-823-3626,713-02-7382,03-01-1968,"1368 Sixth Ave",Seattle,MD

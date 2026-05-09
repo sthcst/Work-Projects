@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Walker,daniel.walker4371@yahoo.com,+1 555-460-7877,863203125,1/3/1963,"1759 Park Rd",Austin,AZ

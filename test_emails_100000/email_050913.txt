@@ -1,0 +1,14 @@
+INVOICE 755750
+
+Bill To:
+Name: James Collins
+Email: james.collins8254@outlook.com
+Phone: +1 601-214-9399
+SSN: 211 19 3133
+
+Address: 7138 West Dr
+Denver, MA
+
+Date of Birth: 05/01/1960
+
+Amount Due: $6565

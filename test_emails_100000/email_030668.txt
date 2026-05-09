@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Bell,george.bell981@mail.com,392-426-9869,291-83-9188,09-20-1979,"8318 West St",San Diego,WI

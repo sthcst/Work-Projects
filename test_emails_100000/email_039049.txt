@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Peterson,john.peterson8813@example.com,(455) 884-1399,035 48 9768,25/02/1991,"1398 Maple Rd",Los Angeles,TN

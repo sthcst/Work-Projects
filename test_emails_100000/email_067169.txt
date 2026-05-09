@@ -1,0 +1,9 @@
+contact:
+  name: Megan Parker
+  email: megan.parker6144@example.com
+  phone: 542 330 6020
+  ssn: 327-63-4617
+  dob: 1/16/1993
+  address: 6531 First Dr
+  city: New York
+  state: AZ

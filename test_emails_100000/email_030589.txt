@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Parker
+  email: joseph.parker4910@work.org
+  phone: +1 706-218-8774
+  ssn: 134-72-3600
+  dob: 05-02-1992
+  address: 2932 Elm Blvd
+  city: Seattle
+  state: WI

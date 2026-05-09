@@ -1,0 +1,14 @@
+INVOICE 859209
+
+Bill To:
+Name: Brenda Clark
+Email: brenda.clark5315@mail.com
+Phone: 455 365 6018
+SSN: 027121275
+
+Address: 2341 Fourth Way
+San Antonio, NY
+
+Date of Birth: 05-01-1952
+
+Amount Due: $3019

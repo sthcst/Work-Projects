@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Lewis,kathleen.lewis5883@company.com,397 909 7727,367347193,11/01/1987,"884 Oak Rd",San Jose,DC

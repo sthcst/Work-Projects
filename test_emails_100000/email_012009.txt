@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Hernandez,ashley.hernandez6597@work.org,(388) 637-3705,649 97 8671,09/15/1999,"6234 Third Blvd",San Diego,TX

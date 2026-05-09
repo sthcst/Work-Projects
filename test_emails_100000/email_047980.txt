@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Dominguez,john.dominguez4298@yahoo.com,(856) 973-1235,860-89-1882,05/08/1959,"987 West Way",New York,MO

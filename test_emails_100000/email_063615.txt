@@ -1,0 +1,12 @@
+SUPPORT TICKET #80643
+
+Customer: Brian Thompson
+Email: brian.thompson1302@example.com
+Phone: (941) 835-3100
+Account: 773 17 1377
+
+Issue Description: Technical problem reported
+DOB on file: 05-16-1985
+Address: 6550 Spring Dr, Denver, TX
+
+Status: OPEN

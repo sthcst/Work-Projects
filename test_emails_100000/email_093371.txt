@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Cooper,lauren.cooper8054@business.net,(869) 387-3811,950611555,26/02/1960,"5271 Pine Way",Washington,AZ

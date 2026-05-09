@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Morris
+  email: deborah.morris3227@mail.com
+  phone: +1 256-247-5151
+  ssn: 163 25 9277
+  dob: 9/26/1992
+  address: 3238 Sixth Dr
+  city: Boston
+  state: WA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Guerrero,jane.guerrero9033@outlook.com,902 906 3587,615217867,5/14/1969,"4173 First Ln",New York,CA

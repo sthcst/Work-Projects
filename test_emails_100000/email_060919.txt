@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Bell
+  email: ashley.bell3840@outlook.com
+  phone: 972 696 5539
+  ssn: 600 23 9344
+  dob: 10-03-2005
+  address: 8092 Birch Blvd
+  city: San Diego
+  state: PA

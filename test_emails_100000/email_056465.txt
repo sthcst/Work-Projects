@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Perez",
+    "email": "maria.perez2156@company.com",
+    "phone": "640-271-2839",
+    "ssn": "848 03 2516",
+    "dob": "11-11-1988",
+    "address": "6878 Fifth Dr",
+    "city": "New York",
+    "state": "OH"
+  }
+}

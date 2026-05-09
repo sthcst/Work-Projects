@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Wilson",
+    "email": "charles.wilson536@business.net",
+    "phone": "401 968 7811",
+    "ssn": "712438770",
+    "dob": "01/12/1975",
+    "address": "3555 Sixth Dr",
+    "city": "Chicago",
+    "state": "PA"
+  }
+}

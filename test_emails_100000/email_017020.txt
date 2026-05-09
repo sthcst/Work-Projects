@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Ortiz",
+    "email": "katherine.ortiz3279@outlook.com",
+    "phone": "+1 747-698-9241",
+    "ssn": "281 82 6209",
+    "dob": "6/2/1991",
+    "address": "6931 Park Dr",
+    "city": "Boston",
+    "state": "WA"
+  }
+}

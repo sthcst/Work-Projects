@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Roberts
+  email: jennifer.roberts7512@gmail.com
+  phone: (924) 406-5435
+  ssn: 494-43-4825
+  dob: 03/24/1956
+  address: 9627 Maple Ln
+  city: San Jose
+  state: CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Evans,jane.evans5907@gmail.com,(935) 723-5363,254 75 3534,04/10/1997,"4968 Cedar Way",Los Angeles,NY

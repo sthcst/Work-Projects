@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Romero",
+    "email": "helen.romero1086@example.com",
+    "phone": "+1 975-793-5978",
+    "ssn": "137-23-4538",
+    "dob": "02-11-1970",
+    "address": "5931 Birch Ave",
+    "city": "Houston",
+    "state": "AZ"
+  }
+}

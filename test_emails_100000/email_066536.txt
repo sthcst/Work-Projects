@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Nunez,william.nunez3406@example.com,(203) 947-4278,643-26-2423,7/5/2000,"8158 Fifth Way",Washington,WI

@@ -1,0 +1,9 @@
+contact:
+  name: Helen Parker
+  email: helen.parker974@business.net
+  phone: 807-520-5284
+  ssn: 260394318
+  dob: 05/17/1986
+  address: 2632 Third St
+  city: San Jose
+  state: OH

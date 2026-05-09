@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Edwards",
+    "email": "sarah.edwards7886@gmail.com",
+    "phone": "(268) 324-7951",
+    "ssn": "189-39-3743",
+    "dob": "09/23/1961",
+    "address": "9474 Elm Rd",
+    "city": "San Diego",
+    "state": "WI"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Harris",
+    "email": "lisa.harris1215@business.net",
+    "phone": "(543) 367-3417",
+    "ssn": "714 82 6492",
+    "dob": "03-28-1983",
+    "address": "5861 West Court",
+    "city": "San Diego",
+    "state": "NY"
+  }
+}

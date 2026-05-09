@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Carter",
+    "email": "kevin.carter6784@work.org",
+    "phone": "660-224-6764",
+    "ssn": "562 25 4083",
+    "dob": "16/08/1957",
+    "address": "5874 Oak Way",
+    "city": "Philadelphia",
+    "state": "AZ"
+  }
+}

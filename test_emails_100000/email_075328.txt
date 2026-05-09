@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Cooper",
+    "email": "ashley.cooper3269@example.com",
+    "phone": "921-657-5582",
+    "ssn": "760-76-4372",
+    "dob": "06-01-1952",
+    "address": "8816 Second Way",
+    "city": "Philadelphia",
+    "state": "PA"
+  }
+}

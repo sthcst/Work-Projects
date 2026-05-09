@@ -1,0 +1,9 @@
+contact:
+  name: Helen Jones
+  email: helen.jones961@business.net
+  phone: 907 781 8644
+  ssn: 705012998
+  dob: 24/08/2005
+  address: 9471 Pine Rd
+  city: San Diego
+  state: WI

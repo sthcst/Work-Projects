@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Clark,cynthia.clark2813@business.net,+1 920-744-4068,435-65-2217,11/04/1983,"542 Fifth Ln",Boston,OH

@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Clark
+  email: shirley.clark6290@business.net
+  phone: 667-660-6486
+  ssn: 316-29-1369
+  dob: 4/16/1966
+  address: 8545 Sixth Blvd
+  city: San Antonio
+  state: MI

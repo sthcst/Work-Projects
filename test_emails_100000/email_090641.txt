@@ -1,0 +1,14 @@
+INVOICE 165606
+
+Bill To:
+Name: Andrew Jones
+Email: andrew.jones4591@example.com
+Phone: 698-494-3504
+SSN: 756906712
+
+Address: 1334 Pine Way
+Denver, CO
+
+Date of Birth: 11/10/2001
+
+Amount Due: $9575

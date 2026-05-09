@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Miller",
+    "email": "jason.miller9033@business.net",
+    "phone": "+1 506-589-9819",
+    "ssn": "390-29-5163",
+    "dob": "16/05/1994",
+    "address": "4829 East Blvd",
+    "city": "Dallas",
+    "state": "MA"
+  }
+}

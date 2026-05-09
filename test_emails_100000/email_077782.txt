@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Hall,mark.hall3786@business.net,(518) 530-1092,646924732,14/09/1980,"9770 Pine Way",Seattle,CA

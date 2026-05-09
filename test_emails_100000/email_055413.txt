@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer White",
+    "email": "jennifer.white2931@mail.com",
+    "phone": "(715) 870-6892",
+    "ssn": "128521840",
+    "dob": "9/21/1986",
+    "address": "4380 Park St",
+    "city": "Jacksonville",
+    "state": "WA"
+  }
+}

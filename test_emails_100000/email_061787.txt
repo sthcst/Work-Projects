@@ -1,0 +1,9 @@
+contact:
+  name: Jason Jackson
+  email: jason.jackson962@gmail.com
+  phone: (950) 557-5421
+  ssn: 296 40 6607
+  dob: 03/11/1984
+  address: 3473 South Ln
+  city: Austin
+  state: OH

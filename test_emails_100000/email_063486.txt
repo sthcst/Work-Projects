@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Stewart",
+    "email": "gary.stewart1458@company.com",
+    "phone": "564-361-7366",
+    "ssn": "729-93-8341",
+    "dob": "26/03/1950",
+    "address": "2384 Cedar Ave",
+    "city": "San Jose",
+    "state": "NY"
+  }
+}

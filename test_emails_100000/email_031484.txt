@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Peterson
+  email: pamela.peterson560@yahoo.com
+  phone: 591 449 2996
+  ssn: 970 93 4317
+  dob: 1/24/1993
+  address: 414 North Ln
+  city: Austin
+  state: WA

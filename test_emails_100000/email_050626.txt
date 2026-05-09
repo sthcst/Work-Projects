@@ -1,0 +1,14 @@
+INVOICE 360773
+
+Bill To:
+Name: Amanda Jones
+Email: amanda.jones7831@mail.com
+Phone: +1 960-206-3842
+SSN: 707 36 9519
+
+Address: 8166 Fourth St
+Seattle, TX
+
+Date of Birth: 11/01/1989
+
+Amount Due: $9274

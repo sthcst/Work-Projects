@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Evans",
+    "email": "kevin.evans2453@yahoo.com",
+    "phone": "+1 329-939-3654",
+    "ssn": "557188584",
+    "dob": "7/2/1976",
+    "address": "3635 Main Blvd",
+    "city": "Denver",
+    "state": "OH"
+  }
+}

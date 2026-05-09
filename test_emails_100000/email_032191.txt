@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Perez,jessica.perez8543@business.net,(809) 507-1648,664 63 7494,01/16/1984,"4010 First Ln",Chicago,MD

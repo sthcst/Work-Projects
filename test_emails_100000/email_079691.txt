@@ -1,0 +1,14 @@
+INVOICE 196006
+
+Bill To:
+Name: Cynthia Miller
+Email: cynthia.miller7982@company.com
+Phone: +1 660-804-2396
+SSN: 948-02-7311
+
+Address: 6533 Fifth Dr
+San Jose, OH
+
+Date of Birth: 01/02/1977
+
+Amount Due: $2633

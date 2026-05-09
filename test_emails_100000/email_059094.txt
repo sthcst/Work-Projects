@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Cooper",
+    "email": "timothy.cooper4066@mail.com",
+    "phone": "449-648-7323",
+    "ssn": "199536936",
+    "dob": "02/08/1957",
+    "address": "9362 Oak Court",
+    "city": "Seattle",
+    "state": "GA"
+  }
+}

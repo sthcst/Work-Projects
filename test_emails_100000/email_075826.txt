@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Matthew Serrano,matthew.serrano990@business.net,+1 281-861-9347,147-96-2173,9/11/2003,"7704 Maple Blvd",Jacksonville,CA

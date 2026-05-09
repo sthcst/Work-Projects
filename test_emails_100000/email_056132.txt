@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Delgado",
+    "email": "kimberly.delgado4257@work.org",
+    "phone": "(895) 682-9270",
+    "ssn": "013828591",
+    "dob": "23/05/1959",
+    "address": "4132 Birch St",
+    "city": "Seattle",
+    "state": "OH"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Morgan",
+    "email": "mark.morgan6850@gmail.com",
+    "phone": "+1 742-900-7578",
+    "ssn": "809065036",
+    "dob": "11/08/1978",
+    "address": "2552 Main Court",
+    "city": "San Antonio",
+    "state": "MO"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Bell,kimberly.bell2596@business.net,+1 911-903-1730,369 94 7847,12/17/1951,"8184 Fourth Ave",San Diego,TX

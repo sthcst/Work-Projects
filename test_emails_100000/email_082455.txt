@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Matthew Ramirez,matthew.ramirez3447@yahoo.com,770-479-4646,358278142,07-23-1959,"5125 West Ln",Boston,WA

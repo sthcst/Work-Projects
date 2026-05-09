@@ -1,0 +1,14 @@
+INVOICE 473295
+
+Bill To:
+Name: Angela Parker
+Email: angela.parker2163@example.com
+Phone: 624 832 9568
+SSN: 518 89 3195
+
+Address: 7513 Third Court
+Jacksonville, IL
+
+Date of Birth: 03-20-1960
+
+Amount Due: $2722

@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Jones
+  email: anthony.jones7946@work.org
+  phone: (459) 988-4323
+  ssn: 863-10-4866
+  dob: 03/11/1954
+  address: 8075 Elm Way
+  city: Austin
+  state: WI

@@ -1,0 +1,14 @@
+INVOICE 534702
+
+Bill To:
+Name: Sarah Ramirez
+Email: sarah.ramirez2934@work.org
+Phone: 627-784-9127
+SSN: 584795816
+
+Address: 8857 Pine Rd
+Seattle, DC
+
+Date of Birth: 12/13/1953
+
+Amount Due: $1840

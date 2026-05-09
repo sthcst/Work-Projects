@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Evans
+  email: deborah.evans7169@gmail.com
+  phone: +1 209-411-1619
+  ssn: 219444470
+  dob: 11/12/1988
+  address: 9428 Third Blvd
+  city: San Jose
+  state: CA

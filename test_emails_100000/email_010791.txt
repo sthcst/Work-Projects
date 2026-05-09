@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Alvarado,samantha.alvarado3444@work.org,+1 882-283-7303,748-63-1437,25/02/1968,"8624 Summer Blvd",Houston,GA

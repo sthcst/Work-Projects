@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas White
+  email: nicholas.white3061@outlook.com
+  phone: 748-332-4196
+  ssn: 123 82 2533
+  dob: 10/05/1960
+  address: 1177 Birch Rd
+  city: Houston
+  state: MO

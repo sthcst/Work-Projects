@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Martinez,stephanie.martinez9833@company.com,(828) 718-4222,446-81-3170,05-27-1955,"394 Second Court",Dallas,NY

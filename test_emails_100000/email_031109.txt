@@ -1,0 +1,14 @@
+INVOICE 720381
+
+Bill To:
+Name: Christopher Edwards
+Email: christopher.edwards280@company.com
+Phone: (530) 271-3720
+SSN: 567-56-1945
+
+Address: 6557 First Blvd
+Chicago, TX
+
+Date of Birth: 16/10/1964
+
+Amount Due: $9263

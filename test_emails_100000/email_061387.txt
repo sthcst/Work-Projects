@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Harris,rachel.harris8284@gmail.com,(258) 997-4196,331088292,03-25-1971,"8357 Spring Way",San Diego,TX

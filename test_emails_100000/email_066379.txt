@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Gomez
+  email: michelle.gomez9073@business.net
+  phone: +1 637-568-8663
+  ssn: 824-11-9634
+  dob: 27/07/1991
+  address: 405 Oak St
+  city: Philadelphia
+  state: WA

@@ -1,0 +1,9 @@
+contact:
+  name: Donald Young
+  email: donald.young6918@company.com
+  phone: (232) 865-9298
+  ssn: 841497115
+  dob: 02/02/1956
+  address: 824 Oak Ln
+  city: San Jose
+  state: PA

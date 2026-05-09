@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Clark",
+    "email": "helen.clark3561@business.net",
+    "phone": "509-342-3759",
+    "ssn": "786268248",
+    "dob": "21/11/1965",
+    "address": "5199 Cedar Way",
+    "city": "San Diego",
+    "state": "CO"
+  }
+}

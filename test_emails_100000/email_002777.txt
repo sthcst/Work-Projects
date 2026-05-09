@@ -1,0 +1,14 @@
+INVOICE 338337
+
+Bill To:
+Name: Samantha Perez
+Email: samantha.perez670@gmail.com
+Phone: 396-702-7330
+SSN: 524-32-6931
+
+Address: 3852 Second Rd
+Dallas, PA
+
+Date of Birth: 12/24/1993
+
+Amount Due: $5229

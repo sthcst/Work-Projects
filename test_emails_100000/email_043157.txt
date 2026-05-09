@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Carter,amanda.carter4012@yahoo.com,(600) 675-2135,577258665,03/01/1955,"4397 East Rd",Phoenix,MI

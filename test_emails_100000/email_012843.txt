@@ -1,0 +1,9 @@
+contact:
+  name: Richard Miller
+  email: richard.miller5765@example.com
+  phone: 686 498 7969
+  ssn: 040619849
+  dob: 25/05/2002
+  address: 8995 Pine St
+  city: Dallas
+  state: MO

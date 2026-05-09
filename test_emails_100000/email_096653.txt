@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Morgan",
+    "email": "maria.morgan9841@work.org",
+    "phone": "703-283-9361",
+    "ssn": "845 34 4296",
+    "dob": "5/8/1994",
+    "address": "2889 Cedar St",
+    "city": "San Antonio",
+    "state": "NC"
+  }
+}

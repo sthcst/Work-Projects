@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Guerrero",
+    "email": "sarah.guerrero2256@work.org",
+    "phone": "925 348 9702",
+    "ssn": "598 06 3163",
+    "dob": "1/6/1971",
+    "address": "5590 Sixth St",
+    "city": "San Jose",
+    "state": "NJ"
+  }
+}

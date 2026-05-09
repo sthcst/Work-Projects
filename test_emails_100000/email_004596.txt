@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Bell",
+    "email": "jeffrey.bell8490@outlook.com",
+    "phone": "+1 552-723-6508",
+    "ssn": "094 63 3717",
+    "dob": "3/22/1952",
+    "address": "3146 East Way",
+    "city": "Houston",
+    "state": "NC"
+  }
+}

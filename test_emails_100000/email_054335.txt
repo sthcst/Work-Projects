@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Perez,david.perez2051@gmail.com,381 263 4835,858-04-3999,07-20-1974,"2003 Spring St",Jacksonville,MI

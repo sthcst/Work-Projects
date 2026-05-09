@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Moore,daniel.moore8091@mail.com,+1 933-779-3877,751348142,07/27/1952,"2359 Maple Ln",Philadelphia,NY

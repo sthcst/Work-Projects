@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Stewart
+  email: christopher.stewart8599@work.org
+  phone: (810) 673-4711
+  ssn: 174524036
+  dob: 4/24/2003
+  address: 4911 Cedar Ln
+  city: Washington
+  state: MA

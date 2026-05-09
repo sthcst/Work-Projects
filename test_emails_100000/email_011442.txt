@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Flores,brenda.flores5942@yahoo.com,247-737-8205,468918883,02-19-1975,"7003 Maple Blvd",San Diego,NJ

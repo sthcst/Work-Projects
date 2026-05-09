@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Thomas,timothy.thomas1214@yahoo.com,397-235-5326,467336500,02-21-1960,"1225 Birch Blvd",Los Angeles,VA

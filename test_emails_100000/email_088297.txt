@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Davis,kenneth.davis8477@company.com,817 690 6263,122266281,05/07/1961,"9684 First Dr",Phoenix,TX

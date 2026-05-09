@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Garcia",
+    "email": "rebecca.garcia538@work.org",
+    "phone": "640-807-6143",
+    "ssn": "697 02 1075",
+    "dob": "05/23/2003",
+    "address": "8270 Fifth Dr",
+    "city": "Austin",
+    "state": "VA"
+  }
+}

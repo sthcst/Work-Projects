@@ -1,0 +1,14 @@
+INVOICE 555997
+
+Bill To:
+Name: William Thompson
+Email: william.thompson5608@business.net
+Phone: 213-214-3502
+SSN: 912 98 8755
+
+Address: 1721 Third Dr
+Denver, FL
+
+Date of Birth: 12-18-1997
+
+Amount Due: $2145

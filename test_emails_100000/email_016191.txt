@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Johnson
+  email: jennifer.johnson9241@yahoo.com
+  phone: +1 367-369-6887
+  ssn: 091634653
+  dob: 9/16/1982
+  address: 6467 Park Court
+  city: Los Angeles
+  state: TX

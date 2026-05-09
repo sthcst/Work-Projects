@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Ramirez,daniel.ramirez814@mail.com,(214) 509-4321,969674035,06-04-2005,"6876 Fourth Way",Seattle,WI

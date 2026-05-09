@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Reeves,nicole.reeves2157@mail.com,884-267-5990,201438066,4/18/1984,"2613 Sixth Ave",Jacksonville,CA

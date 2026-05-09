@@ -1,0 +1,9 @@
+contact:
+  name: Gary Gomez
+  email: gary.gomez5334@business.net
+  phone: 973-498-3687
+  ssn: 248963239
+  dob: 26/04/1965
+  address: 7083 East Ln
+  city: Phoenix
+  state: NY

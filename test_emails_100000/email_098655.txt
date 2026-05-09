@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Reeves
+  email: deborah.reeves6005@gmail.com
+  phone: 490-897-5650
+  ssn: 448587697
+  dob: 07-26-1963
+  address: 6718 Third Ln
+  city: Chicago
+  state: MD

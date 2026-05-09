@@ -1,0 +1,9 @@
+contact:
+  name: Maria Johnson
+  email: maria.johnson9147@example.com
+  phone: 609-666-6012
+  ssn: 296 75 4535
+  dob: 14/08/1950
+  address: 644 Maple Way
+  city: Philadelphia
+  state: TX

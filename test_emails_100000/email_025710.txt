@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Dominguez",
+    "email": "nicole.dominguez8559@outlook.com",
+    "phone": "(698) 870-2222",
+    "ssn": "942 01 4958",
+    "dob": "05-17-1968",
+    "address": "5865 Elm Ln",
+    "city": "San Diego",
+    "state": "FL"
+  }
+}

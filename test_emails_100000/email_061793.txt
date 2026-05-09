@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Harris",
+    "email": "rebecca.harris3325@example.com",
+    "phone": "+1 651-860-4541",
+    "ssn": "308-10-1056",
+    "dob": "12/15/2005",
+    "address": "5518 Maple Ave",
+    "city": "New York",
+    "state": "NC"
+  }
+}

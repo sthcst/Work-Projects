@@ -1,0 +1,14 @@
+INVOICE 428324
+
+Bill To:
+Name: Timothy Lee
+Email: timothy.lee2514@business.net
+Phone: +1 308-699-4033
+SSN: 192-90-3985
+
+Address: 1103 Fourth Rd
+Phoenix, TN
+
+Date of Birth: 05/17/1998
+
+Amount Due: $1796

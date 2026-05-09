@@ -1,0 +1,14 @@
+INVOICE 408610
+
+Bill To:
+Name: Jason Jimenez
+Email: jason.jimenez102@business.net
+Phone: 261-280-4829
+SSN: 764254416
+
+Address: 2620 Cedar Way
+Houston, WA
+
+Date of Birth: 11-02-1961
+
+Amount Due: $9206

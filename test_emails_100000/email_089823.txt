@@ -1,0 +1,9 @@
+contact:
+  name: Anna Williams
+  email: anna.williams7782@company.com
+  phone: +1 665-829-6030
+  ssn: 897 39 1735
+  dob: 10/12/1958
+  address: 6098 Oak Ave
+  city: Boston
+  state: DC

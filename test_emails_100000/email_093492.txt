@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Reed",
+    "email": "nicole.reed6363@business.net",
+    "phone": "597-485-2372",
+    "ssn": "977-69-7498",
+    "dob": "9/18/1990",
+    "address": "4941 Spring Way",
+    "city": "San Antonio",
+    "state": "TN"
+  }
+}

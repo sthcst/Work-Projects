@@ -1,0 +1,9 @@
+contact:
+  name: Anna Williams
+  email: anna.williams979@mail.com
+  phone: 532-636-8618
+  ssn: 099654802
+  dob: 07-14-1959
+  address: 4307 South Rd
+  city: Dallas
+  state: MA

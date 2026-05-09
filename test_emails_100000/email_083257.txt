@@ -1,0 +1,14 @@
+INVOICE 564560
+
+Bill To:
+Name: Sarah Lee
+Email: sarah.lee5987@outlook.com
+Phone: 322 359 8105
+SSN: 981 78 1499
+
+Address: 2968 South St
+Chicago, NC
+
+Date of Birth: 09/01/1996
+
+Amount Due: $7480

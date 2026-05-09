@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Evans,megan.evans5974@mail.com,960-644-5298,926 30 6919,07-02-1984,"2771 North St",New York,FL

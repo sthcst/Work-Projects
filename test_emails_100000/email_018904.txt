@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Nunez,james.nunez3891@work.org,353-570-6498,856 73 7347,08-08-1968,"7752 Cedar Dr",Seattle,CA

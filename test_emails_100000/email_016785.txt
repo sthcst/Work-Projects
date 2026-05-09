@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Wilson
+  email: ryan.wilson7994@gmail.com
+  phone: (934) 644-3141
+  ssn: 265-67-1899
+  dob: 11/11/1954
+  address: 8065 East Dr
+  city: Jacksonville
+  state: OH

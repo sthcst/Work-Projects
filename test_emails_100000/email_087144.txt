@@ -1,0 +1,9 @@
+contact:
+  name: Emily Jimenez
+  email: emily.jimenez653@mail.com
+  phone: 705 249 3486
+  ssn: 069 15 9440
+  dob: 01-28-1976
+  address: 8908 Elm Court
+  city: San Diego
+  state: PA

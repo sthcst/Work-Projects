@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Serrano,angela.serrano7643@business.net,(952) 432-8242,351 42 9278,08-07-1984,"9187 South Way",Dallas,CO

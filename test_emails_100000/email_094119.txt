@@ -1,0 +1,14 @@
+INVOICE 796218
+
+Bill To:
+Name: Emily Reed
+Email: emily.reed5432@mail.com
+Phone: +1 584-659-6344
+SSN: 306-42-1078
+
+Address: 8215 Main Ave
+Los Angeles, CA
+
+Date of Birth: 2/5/2001
+
+Amount Due: $4597

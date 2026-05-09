@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Anderson,helen.anderson710@gmail.com,401 850 6122,107 17 8001,10/3/1996,"248 Main Court",Seattle,AZ

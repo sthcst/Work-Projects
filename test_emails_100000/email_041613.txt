@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Jimenez
+  email: lauren.jimenez1413@example.com
+  phone: +1 715-361-9079
+  ssn: 043-11-8233
+  dob: 05/23/1951
+  address: 8244 Spring St
+  city: New York
+  state: MA

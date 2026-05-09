@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Parker",
+    "email": "christopher.parker6234@yahoo.com",
+    "phone": "(438) 789-2261",
+    "ssn": "866043797",
+    "dob": "04-28-1997",
+    "address": "8618 Third Court",
+    "city": "Chicago",
+    "state": "DC"
+  }
+}

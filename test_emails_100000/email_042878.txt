@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Phillips",
+    "email": "pamela.phillips6322@outlook.com",
+    "phone": "(750) 546-6229",
+    "ssn": "668 35 6283",
+    "dob": "04-15-1998",
+    "address": "578 Birch Way",
+    "city": "Philadelphia",
+    "state": "AZ"
+  }
+}

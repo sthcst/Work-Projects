@@ -1,0 +1,14 @@
+INVOICE 229814
+
+Bill To:
+Name: Andrew Flores
+Email: andrew.flores7349@company.com
+Phone: 736 485 9420
+SSN: 939551587
+
+Address: 5325 Fifth Ave
+Houston, AZ
+
+Date of Birth: 18/02/1976
+
+Amount Due: $712

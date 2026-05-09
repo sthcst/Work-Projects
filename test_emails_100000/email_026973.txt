@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Rogers",
+    "email": "timothy.rogers1446@business.net",
+    "phone": "880 615 9552",
+    "ssn": "163994198",
+    "dob": "9/11/1989",
+    "address": "7833 Cedar Rd",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

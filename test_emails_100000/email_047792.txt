@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Edwards",
+    "email": "joseph.edwards74@work.org",
+    "phone": "584 596 7077",
+    "ssn": "521 28 6590",
+    "dob": "10/26/1990",
+    "address": "5665 Sixth Way",
+    "city": "Washington",
+    "state": "NC"
+  }
+}

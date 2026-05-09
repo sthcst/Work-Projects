@@ -1,0 +1,9 @@
+contact:
+  name: John Martin
+  email: john.martin841@work.org
+  phone: 532-887-9666
+  ssn: 655611743
+  dob: 05/18/2000
+  address: 9907 Birch Way
+  city: Washington
+  state: NY

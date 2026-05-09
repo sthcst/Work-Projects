@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Nelson",
+    "email": "katherine.nelson8458@outlook.com",
+    "phone": "792 769 8824",
+    "ssn": "239238109",
+    "dob": "05/15/1958",
+    "address": "2426 Elm Way",
+    "city": "Seattle",
+    "state": "VA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Johnson,david.johnson4105@work.org,345 613 2727,704-77-9913,04/05/1986,"2640 Main Way",New York,PA

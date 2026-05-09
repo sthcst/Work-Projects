@@ -1,0 +1,9 @@
+contact:
+  name: Edward Smith
+  email: edward.smith9894@mail.com
+  phone: +1 585-892-4626
+  ssn: 543-88-9661
+  dob: 03/03/1953
+  address: 6695 Spring Court
+  city: Chicago
+  state: MA

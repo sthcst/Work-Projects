@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Wilson,charles.wilson8276@business.net,801 822 8469,409 10 2773,28/05/1978,"9013 Spring Rd",San Antonio,NC

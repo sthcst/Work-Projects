@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Jones",
+    "email": "brian.jones9758@gmail.com",
+    "phone": "(321) 555-4910",
+    "ssn": "707 68 5595",
+    "dob": "18/05/2004",
+    "address": "2392 Elm Ave",
+    "city": "Boston",
+    "state": "MD"
+  }
+}

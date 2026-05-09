@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Alvarado",
+    "email": "andrew.alvarado8821@example.com",
+    "phone": "383-365-5589",
+    "ssn": "455-67-8734",
+    "dob": "13/02/1986",
+    "address": "4536 South Rd",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

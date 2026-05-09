@@ -1,0 +1,9 @@
+contact:
+  name: Donald Campbell
+  email: donald.campbell3192@yahoo.com
+  phone: (207) 362-6945
+  ssn: 626 90 9406
+  dob: 15/11/1950
+  address: 5540 Oak Ln
+  city: Washington
+  state: DC

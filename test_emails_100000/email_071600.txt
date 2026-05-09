@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Thompson",
+    "email": "william.thompson1719@yahoo.com",
+    "phone": "+1 794-741-9737",
+    "ssn": "008468388",
+    "dob": "11-18-1966",
+    "address": "453 North St",
+    "city": "San Jose",
+    "state": "MA"
+  }
+}

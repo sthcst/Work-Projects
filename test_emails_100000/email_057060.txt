@@ -1,0 +1,9 @@
+contact:
+  name: Mark Serrano
+  email: mark.serrano6982@outlook.com
+  phone: +1 473-998-3920
+  ssn: 152-50-9908
+  dob: 06-05-1988
+  address: 5815 West Dr
+  city: Austin
+  state: CA

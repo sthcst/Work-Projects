@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Cooper,angela.cooper135@mail.com,281 393 6302,972923591,09/08/1988,"8206 Main Dr",New York,CA

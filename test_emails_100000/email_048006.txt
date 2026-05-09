@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Anderson,shirley.anderson4874@company.com,+1 872-447-5440,820-48-3932,17/04/1994,"2108 Main Way",Seattle,MA

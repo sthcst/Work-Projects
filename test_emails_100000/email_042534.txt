@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Campbell,george.campbell2958@company.com,951-944-4592,527882955,16/02/1998,"8588 Oak Rd",San Antonio,DC

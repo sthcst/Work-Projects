@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Collins
+  email: amanda.collins2551@work.org
+  phone: 792-524-8897
+  ssn: 281098769
+  dob: 03/12/1959
+  address: 851 Main Court
+  city: Boston
+  state: CA

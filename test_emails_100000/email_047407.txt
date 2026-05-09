@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Walker
+  email: kevin.walker5818@mail.com
+  phone: 791 225 7615
+  ssn: 965 20 7936
+  dob: 27/03/1952
+  address: 2706 Sixth St
+  city: Philadelphia
+  state: MD

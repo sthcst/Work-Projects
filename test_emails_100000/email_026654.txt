@@ -1,0 +1,14 @@
+INVOICE 520551
+
+Bill To:
+Name: George Murillo
+Email: george.murillo2800@company.com
+Phone: 447 995 3304
+SSN: 742-86-6379
+
+Address: 2680 Cedar Court
+Jacksonville, MI
+
+Date of Birth: 05/07/1994
+
+Amount Due: $9424

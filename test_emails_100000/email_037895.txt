@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Williams",
+    "email": "mark.williams5871@work.org",
+    "phone": "525-979-4970",
+    "ssn": "396 65 9154",
+    "dob": "5/5/1964",
+    "address": "6938 Elm Rd",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

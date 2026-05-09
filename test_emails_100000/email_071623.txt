@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Phillips",
+    "email": "christine.phillips4936@gmail.com",
+    "phone": "352-307-9917",
+    "ssn": "230 98 1245",
+    "dob": "10-08-1983",
+    "address": "7851 Park Dr",
+    "city": "Washington",
+    "state": "MD"
+  }
+}

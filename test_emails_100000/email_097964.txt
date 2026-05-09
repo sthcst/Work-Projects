@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Perez,kimberly.perez1356@mail.com,400 501 6121,027-48-2460,06/21/1983,"1400 East Ave",Denver,NC

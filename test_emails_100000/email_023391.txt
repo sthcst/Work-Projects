@@ -1,0 +1,14 @@
+INVOICE 233016
+
+Bill To:
+Name: Kenneth Martinez
+Email: kenneth.martinez1641@gmail.com
+Phone: 523 694 7580
+SSN: 245 76 7872
+
+Address: 5224 Elm Rd
+Washington, TN
+
+Date of Birth: 02/11/1960
+
+Amount Due: $6821

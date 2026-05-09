@@ -1,0 +1,14 @@
+INVOICE 663252
+
+Bill To:
+Name: Nicholas Romero
+Email: nicholas.romero5020@company.com
+Phone: 499 639 3925
+SSN: 842282353
+
+Address: 3326 Fourth Dr
+San Diego, VA
+
+Date of Birth: 01-10-1990
+
+Amount Due: $7419

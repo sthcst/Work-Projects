@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Miller,sarah.miller7926@example.com,225 913 7467,811 34 6388,03-28-1972,"7059 South Dr",Denver,MA

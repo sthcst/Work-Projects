@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Jackson
+  email: brenda.jackson9650@gmail.com
+  phone: +1 342-983-6284
+  ssn: 348 71 2411
+  dob: 08/09/1999
+  address: 9343 Oak Dr
+  city: Phoenix
+  state: TN

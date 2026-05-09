@@ -1,0 +1,9 @@
+contact:
+  name: Angela Hall
+  email: angela.hall894@yahoo.com
+  phone: 672-572-3860
+  ssn: 562-58-8763
+  dob: 28/03/1971
+  address: 5267 Oak Rd
+  city: Philadelphia
+  state: TX

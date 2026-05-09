@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Davis",
+    "email": "michelle.davis3165@example.com",
+    "phone": "+1 213-859-9267",
+    "ssn": "877659171",
+    "dob": "6/6/1984",
+    "address": "4555 South St",
+    "city": "Dallas",
+    "state": "PA"
+  }
+}

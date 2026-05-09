@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Reeves",
+    "email": "joshua.reeves9151@example.com",
+    "phone": "(743) 811-6155",
+    "ssn": "093-47-3823",
+    "dob": "4/22/1996",
+    "address": "911 Sixth Court",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

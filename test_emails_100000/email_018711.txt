@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Peterson
+  email: joshua.peterson4071@business.net
+  phone: (545) 912-4246
+  ssn: 734854610
+  dob: 11/25/1963
+  address: 3166 Cedar Rd
+  city: San Jose
+  state: WA

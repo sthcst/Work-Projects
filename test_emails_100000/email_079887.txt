@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Johnson
+  email: jacob.johnson4826@company.com
+  phone: 517 371 4325
+  ssn: 716583339
+  dob: 22/08/1961
+  address: 2550 Elm Ave
+  city: Los Angeles
+  state: MI

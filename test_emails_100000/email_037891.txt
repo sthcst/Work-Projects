@@ -1,0 +1,14 @@
+INVOICE 117709
+
+Bill To:
+Name: Robert Collins
+Email: robert.collins3157@work.org
+Phone: 371-253-1748
+SSN: 399-15-1992
+
+Address: 6145 Fourth Way
+Chicago, MA
+
+Date of Birth: 10/03/1974
+
+Amount Due: $1068

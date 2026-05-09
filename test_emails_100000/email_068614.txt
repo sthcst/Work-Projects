@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Gomez,edward.gomez1630@mail.com,(484) 574-1556,154138428,10/07/1982,"4337 Main St",Houston,TX

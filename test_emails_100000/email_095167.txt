@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Davis,katherine.davis6440@work.org,(902) 490-5798,968627929,19/09/1962,"8711 Pine St",Los Angeles,WA

@@ -1,0 +1,14 @@
+INVOICE 756582
+
+Bill To:
+Name: George Smith
+Email: george.smith8656@outlook.com
+Phone: 491-232-2145
+SSN: 071088590
+
+Address: 5424 Maple Ave
+San Diego, MD
+
+Date of Birth: 09-25-1955
+
+Amount Due: $290

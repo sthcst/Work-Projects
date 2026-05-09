@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Garcia",
+    "email": "angela.garcia9381@gmail.com",
+    "phone": "(461) 612-4230",
+    "ssn": "271-37-6750",
+    "dob": "14/02/1991",
+    "address": "6935 West Court",
+    "city": "Chicago",
+    "state": "MA"
+  }
+}

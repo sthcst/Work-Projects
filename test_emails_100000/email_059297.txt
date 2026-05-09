@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Edwards,jennifer.edwards3500@mail.com,801-470-6054,264 51 4869,10/3/2000,"81 Park Ln",Seattle,MD

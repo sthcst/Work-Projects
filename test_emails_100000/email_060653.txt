@@ -1,0 +1,9 @@
+contact:
+  name: Helen Flores
+  email: helen.flores3097@example.com
+  phone: 231-515-1918
+  ssn: 810-79-2247
+  dob: 09/07/1959
+  address: 3518 East Way
+  city: Boston
+  state: CA

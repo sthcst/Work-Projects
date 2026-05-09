@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Young",
+    "email": "kimberly.young2566@gmail.com",
+    "phone": "875-790-7319",
+    "ssn": "883578011",
+    "dob": "08/06/1961",
+    "address": "5705 Summer Blvd",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

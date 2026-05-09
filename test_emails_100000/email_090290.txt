@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Martinez,anthony.martinez1968@company.com,+1 776-911-3316,149 42 8171,2/2/1954,"4364 West Dr",San Diego,TX

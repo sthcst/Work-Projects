@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Parker,james.parker6441@gmail.com,(223) 939-8487,045-19-8209,10/28/2004,"5853 Second Blvd",Philadelphia,AZ

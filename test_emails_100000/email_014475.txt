@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Rogers
+  email: katherine.rogers543@business.net
+  phone: +1 484-626-4131
+  ssn: 275 41 4645
+  dob: 09/14/1953
+  address: 4827 Second Rd
+  city: Seattle
+  state: AZ

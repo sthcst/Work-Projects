@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Sanchez
+  email: katherine.sanchez1663@mail.com
+  phone: (339) 225-9160
+  ssn: 105-20-4134
+  dob: 07/04/2001
+  address: 8929 Second Dr
+  city: Houston
+  state: IL

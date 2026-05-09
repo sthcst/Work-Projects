@@ -1,0 +1,14 @@
+INVOICE 107668
+
+Bill To:
+Name: John Gonzalez
+Email: john.gonzalez4805@yahoo.com
+Phone: +1 696-815-9071
+SSN: 771653433
+
+Address: 6458 Elm Dr
+Seattle, TX
+
+Date of Birth: 04-15-1953
+
+Amount Due: $5619

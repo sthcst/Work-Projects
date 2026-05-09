@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Taylor",
+    "email": "pamela.taylor1613@example.com",
+    "phone": "+1 921-818-2429",
+    "ssn": "515 13 7106",
+    "dob": "1/27/1988",
+    "address": "3347 Park St",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

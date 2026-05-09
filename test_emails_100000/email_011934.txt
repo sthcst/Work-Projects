@@ -1,0 +1,14 @@
+INVOICE 913881
+
+Bill To:
+Name: John Edwards
+Email: john.edwards8896@business.net
+Phone: +1 567-710-4687
+SSN: 214 12 1920
+
+Address: 6259 Elm Rd
+Los Angeles, TX
+
+Date of Birth: 11/12/1971
+
+Amount Due: $9292

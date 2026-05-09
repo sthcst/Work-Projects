@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Ramirez
+  email: lauren.ramirez474@company.com
+  phone: 503-272-4091
+  ssn: 738869451
+  dob: 05/02/1980
+  address: 7425 Summer Ave
+  city: Denver
+  state: WI

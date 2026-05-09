@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Gonzalez,charles.gonzalez5522@business.net,+1 829-542-5908,726118865,03/03/1972,"745 Elm St",Los Angeles,CA

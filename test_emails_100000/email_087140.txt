@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Peterson,helen.peterson7412@gmail.com,+1 919-244-2141,283148946,2/27/1954,"3155 South Ave",Chicago,TX

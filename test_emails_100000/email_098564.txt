@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Evans",
+    "email": "rebecca.evans7629@example.com",
+    "phone": "985 846 9676",
+    "ssn": "297 15 9868",
+    "dob": "3/26/1959",
+    "address": "637 Sixth Ln",
+    "city": "San Diego",
+    "state": "MA"
+  }
+}

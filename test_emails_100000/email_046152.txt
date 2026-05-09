@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Clark
+  email: sarah.clark8407@company.com
+  phone: 727 228 1378
+  ssn: 684631704
+  dob: 12/06/2002
+  address: 5082 Birch Blvd
+  city: Washington
+  state: IL

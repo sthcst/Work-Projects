@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Young
+  email: ryan.young265@outlook.com
+  phone: +1 211-212-4090
+  ssn: 132-60-5762
+  dob: 12-26-1967
+  address: 2952 Fourth Ave
+  city: San Diego
+  state: CO

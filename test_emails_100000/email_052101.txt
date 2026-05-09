@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Robinson",
+    "email": "angela.robinson5633@mail.com",
+    "phone": "676 473 3908",
+    "ssn": "110-47-9933",
+    "dob": "8/20/1957",
+    "address": "2473 Maple Rd",
+    "city": "New York",
+    "state": "TX"
+  }
+}

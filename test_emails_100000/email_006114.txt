@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Morris",
+    "email": "daniel.morris874@yahoo.com",
+    "phone": "671 737 2653",
+    "ssn": "211-78-3715",
+    "dob": "04/06/1995",
+    "address": "9952 Park Court",
+    "city": "New York",
+    "state": "MA"
+  }
+}

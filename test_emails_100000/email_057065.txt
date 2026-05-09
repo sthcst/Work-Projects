@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Carter,kimberly.carter4430@business.net,400 210 2456,060-02-5209,01-17-1997,"7030 First Rd",Phoenix,CO

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Lewis,jeffrey.lewis7724@work.org,260-384-6928,078 41 3508,20/08/1977,"4162 East Ave",Philadelphia,AZ

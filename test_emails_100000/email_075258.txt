@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Jackson
+  email: daniel.jackson6859@outlook.com
+  phone: +1 456-954-6920
+  ssn: 161 72 7987
+  dob: 10-25-1963
+  address: 4983 Spring Dr
+  city: Los Angeles
+  state: CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Carter",
+    "email": "kathleen.carter2993@example.com",
+    "phone": "747 488 6635",
+    "ssn": "230-13-7987",
+    "dob": "08-02-1994",
+    "address": "9927 Cedar St",
+    "city": "Washington",
+    "state": "MA"
+  }
+}

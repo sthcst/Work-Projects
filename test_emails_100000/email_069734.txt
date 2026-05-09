@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Lewis,john.lewis4325@example.com,583-281-7445,211-88-9482,25/12/2002,"500 Spring Ln",San Diego,IL

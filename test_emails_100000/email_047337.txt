@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Bell",
+    "email": "timothy.bell6000@gmail.com",
+    "phone": "(584) 734-5298",
+    "ssn": "152036236",
+    "dob": "02/01/1990",
+    "address": "3464 Second Rd",
+    "city": "Dallas",
+    "state": "NC"
+  }
+}

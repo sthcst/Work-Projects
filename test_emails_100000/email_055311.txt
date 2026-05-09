@@ -1,0 +1,14 @@
+INVOICE 653502
+
+Bill To:
+Name: Lisa Lewis
+Email: lisa.lewis5953@company.com
+Phone: +1 374-689-2066
+SSN: 029-90-3252
+
+Address: 2220 Cedar Rd
+Los Angeles, GA
+
+Date of Birth: 24/03/1964
+
+Amount Due: $1182

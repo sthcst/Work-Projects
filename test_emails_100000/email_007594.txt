@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Miller,ashley.miller1920@yahoo.com,762-221-6519,530339532,05-16-2002,"4091 West St",Chicago,FL

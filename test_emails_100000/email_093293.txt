@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Alvarado",
+    "email": "rachel.alvarado6052@work.org",
+    "phone": "847 232 1452",
+    "ssn": "388-07-2036",
+    "dob": "2/9/1955",
+    "address": "9107 Fourth Way",
+    "city": "New York",
+    "state": "MI"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Rogers",
+    "email": "ashley.rogers4213@work.org",
+    "phone": "+1 431-614-8893",
+    "ssn": "391253024",
+    "dob": "3/3/1959",
+    "address": "2979 First Rd",
+    "city": "San Diego",
+    "state": "TN"
+  }
+}

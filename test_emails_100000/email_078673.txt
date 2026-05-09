@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Cooper",
+    "email": "ryan.cooper5530@business.net",
+    "phone": "396 912 9961",
+    "ssn": "574 86 9356",
+    "dob": "2/8/1993",
+    "address": "3659 South Rd",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

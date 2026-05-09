@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Peterson,christopher.peterson9003@yahoo.com,272 598 5905,865 55 7600,12-12-1951,"1021 South Rd",Seattle,PA

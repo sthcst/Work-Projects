@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Campbell
+  email: rachel.campbell8718@company.com
+  phone: +1 521-729-5947
+  ssn: 935-14-3163
+  dob: 5/18/1961
+  address: 1628 Sixth Rd
+  city: Boston
+  state: OH

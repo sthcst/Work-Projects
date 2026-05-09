@@ -1,0 +1,9 @@
+contact:
+  name: Robert Edwards
+  email: robert.edwards8194@gmail.com
+  phone: (657) 623-8125
+  ssn: 377 82 1443
+  dob: 09-08-1993
+  address: 4008 Spring Ln
+  city: San Antonio
+  state: TX

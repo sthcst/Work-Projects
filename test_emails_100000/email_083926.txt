@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Jimenez
+  email: daniel.jimenez805@example.com
+  phone: +1 985-672-5320
+  ssn: 863-60-5994
+  dob: 08/19/2004
+  address: 4993 Second Blvd
+  city: Seattle
+  state: FL

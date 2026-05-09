@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Davis",
+    "email": "lisa.davis7857@mail.com",
+    "phone": "980 663 9850",
+    "ssn": "452-05-1590",
+    "dob": "01/06/1974",
+    "address": "9623 West Ln",
+    "city": "Houston",
+    "state": "NJ"
+  }
+}

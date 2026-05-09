@@ -1,0 +1,12 @@
+SUPPORT TICKET #17407
+
+Customer: William Robinson
+Email: william.robinson1521@example.com
+Phone: 322 743 2097
+Account: 576117161
+
+Issue Description: Technical problem reported
+DOB on file: 05-19-1952
+Address: 2262 Birch St, Houston, TX
+
+Status: OPEN

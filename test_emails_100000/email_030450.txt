@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Roberts,katherine.roberts8436@business.net,(681) 619-5219,041872944,06/04/1983,"5862 Main Way",San Antonio,CA

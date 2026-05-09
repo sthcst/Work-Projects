@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Thompson,brenda.thompson3824@gmail.com,699 793 3872,281 50 3683,19/06/1965,"726 First Court",Chicago,MD

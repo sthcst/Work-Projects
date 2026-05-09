@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie White
+  email: stephanie.white4051@yahoo.com
+  phone: 689-861-4821
+  ssn: 437448778
+  dob: 3/5/1976
+  address: 4752 First Blvd
+  city: Austin
+  state: MO

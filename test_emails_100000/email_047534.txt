@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Hernandez",
+    "email": "rebecca.hernandez9480@yahoo.com",
+    "phone": "732-923-1965",
+    "ssn": "739476958",
+    "dob": "04-03-1985",
+    "address": "3004 Maple Blvd",
+    "city": "San Jose",
+    "state": "OH"
+  }
+}

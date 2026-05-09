@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Gomez",
+    "email": "jessica.gomez4178@gmail.com",
+    "phone": "+1 652-782-4201",
+    "ssn": "199 06 7465",
+    "dob": "5/18/1952",
+    "address": "9388 West St",
+    "city": "San Antonio",
+    "state": "MD"
+  }
+}

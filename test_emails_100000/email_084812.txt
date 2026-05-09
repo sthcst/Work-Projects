@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Brown
+  email: deborah.brown2338@work.org
+  phone: +1 329-644-2897
+  ssn: 001578048
+  dob: 03/11/1982
+  address: 79 Cedar Court
+  city: New York
+  state: TX

@@ -1,0 +1,14 @@
+INVOICE 725707
+
+Bill To:
+Name: James Lopez
+Email: james.lopez2633@outlook.com
+Phone: 342-508-9309
+SSN: 485241964
+
+Address: 2650 Park Court
+Denver, TX
+
+Date of Birth: 05-10-1990
+
+Amount Due: $3486

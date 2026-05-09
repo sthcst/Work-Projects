@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Parker,david.parker3898@business.net,528 756 3203,062139620,02/09/1981,"2806 East St",New York,IL

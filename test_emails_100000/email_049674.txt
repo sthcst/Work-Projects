@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Reed,andrew.reed8288@mail.com,724 609 2283,151-99-8804,7/2/1980,"6321 Spring Rd",Philadelphia,WA

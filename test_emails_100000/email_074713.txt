@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Reed,richard.reed1222@work.org,+1 913-922-8416,053016797,5/11/1967,"1575 Elm Court",Denver,NC

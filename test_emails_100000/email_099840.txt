@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Walker",
+    "email": "angela.walker7569@example.com",
+    "phone": "(895) 393-7092",
+    "ssn": "637 09 4805",
+    "dob": "9/24/1968",
+    "address": "5449 Spring Dr",
+    "city": "Dallas",
+    "state": "TN"
+  }
+}

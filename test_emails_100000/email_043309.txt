@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Dominguez
+  email: shirley.dominguez3344@work.org
+  phone: 725 305 5771
+  ssn: 896 07 8961
+  dob: 6/27/1988
+  address: 4562 Cedar Rd
+  city: San Antonio
+  state: PA

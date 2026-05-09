@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Stewart,sarah.stewart5680@mail.com,(890) 849-5796,283-72-3413,10/24/1969,"4993 Elm Court",Los Angeles,TX

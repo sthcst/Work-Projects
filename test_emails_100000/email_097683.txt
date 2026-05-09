@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Davis,david.davis684@yahoo.com,(281) 571-7969,343 57 3361,01/12/1961,"739 Maple Court",New York,VA

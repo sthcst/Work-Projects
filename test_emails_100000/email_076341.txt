@@ -1,0 +1,14 @@
+INVOICE 753383
+
+Bill To:
+Name: David Bell
+Email: david.bell9053@work.org
+Phone: +1 495-898-8762
+SSN: 629 62 7157
+
+Address: 7126 Fifth Ln
+Chicago, MD
+
+Date of Birth: 02-28-1967
+
+Amount Due: $116

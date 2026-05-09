@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Lee
+  email: katherine.lee290@company.com
+  phone: (486) 963-1944
+  ssn: 614273409
+  dob: 25/10/1999
+  address: 4131 Second Ln
+  city: San Diego
+  state: FL

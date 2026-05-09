@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Nelson,amanda.nelson8261@example.com,(292) 830-7250,788725806,4/18/1985,"5071 Main Dr",Washington,MA

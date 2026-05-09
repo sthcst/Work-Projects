@@ -1,0 +1,9 @@
+contact:
+  name: Brian Guerrero
+  email: brian.guerrero3627@example.com
+  phone: 819-354-1272
+  ssn: 111 79 8708
+  dob: 03-27-1953
+  address: 4754 Third St
+  city: Boston
+  state: MO

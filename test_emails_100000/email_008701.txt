@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Murillo",
+    "email": "katherine.murillo3416@company.com",
+    "phone": "224-327-2500",
+    "ssn": "590-84-8355",
+    "dob": "20/09/1994",
+    "address": "3460 Spring Way",
+    "city": "Jacksonville",
+    "state": "MI"
+  }
+}

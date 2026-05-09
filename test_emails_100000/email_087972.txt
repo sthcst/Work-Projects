@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Clark
+  email: brenda.clark5901@mail.com
+  phone: 623 463 5499
+  ssn: 525 33 8410
+  dob: 02-06-1953
+  address: 5771 Cedar St
+  city: New York
+  state: WA

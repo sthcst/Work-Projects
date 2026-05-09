@@ -1,0 +1,14 @@
+INVOICE 994489
+
+Bill To:
+Name: Katherine Robinson
+Email: katherine.robinson2793@company.com
+Phone: +1 451-835-8868
+SSN: 253-48-2417
+
+Address: 9211 Birch Way
+Houston, OH
+
+Date of Birth: 03/03/1984
+
+Amount Due: $5925

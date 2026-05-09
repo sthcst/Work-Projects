@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Roberts",
+    "email": "david.roberts8258@yahoo.com",
+    "phone": "815 628 9430",
+    "ssn": "682 86 1172",
+    "dob": "12/16/1968",
+    "address": "1397 North St",
+    "city": "Dallas",
+    "state": "GA"
+  }
+}

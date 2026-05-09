@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Carter,timothy.carter8068@business.net,963 937 9070,159-66-3580,8/20/1961,"842 Fourth Blvd",San Antonio,NJ

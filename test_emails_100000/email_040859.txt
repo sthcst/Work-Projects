@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Rodriguez
+  email: nicholas.rodriguez6746@example.com
+  phone: +1 430-893-8345
+  ssn: 880-86-4814
+  dob: 03/08/1985
+  address: 3028 Second Court
+  city: Boston
+  state: TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Phillips",
+    "email": "christine.phillips8322@yahoo.com",
+    "phone": "286-787-9905",
+    "ssn": "281389912",
+    "dob": "10/20/1961",
+    "address": "5937 Fourth Rd",
+    "city": "Boston",
+    "state": "WA"
+  }
+}

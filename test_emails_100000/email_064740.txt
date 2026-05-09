@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Rodriguez",
+    "email": "ronald.rodriguez8042@mail.com",
+    "phone": "(250) 555-8473",
+    "ssn": "389-34-5456",
+    "dob": "09/24/1979",
+    "address": "6138 South Ave",
+    "city": "Washington",
+    "state": "IL"
+  }
+}

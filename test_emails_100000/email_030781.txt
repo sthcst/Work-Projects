@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Lewis",
+    "email": "joshua.lewis946@work.org",
+    "phone": "+1 215-996-3704",
+    "ssn": "306482394",
+    "dob": "08/10/1950",
+    "address": "6641 Elm Ln",
+    "city": "San Diego",
+    "state": "MD"
+  }
+}

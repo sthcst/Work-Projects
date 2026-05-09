@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Rogers
+  email: rebecca.rogers7190@gmail.com
+  phone: 271-403-4423
+  ssn: 587-90-2977
+  dob: 28/12/1954
+  address: 3045 North Rd
+  city: San Jose
+  state: TX

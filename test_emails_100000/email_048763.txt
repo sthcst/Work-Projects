@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Dominguez",
+    "email": "maria.dominguez6996@outlook.com",
+    "phone": "+1 456-669-4207",
+    "ssn": "751342921",
+    "dob": "06/27/1987",
+    "address": "7668 South Court",
+    "city": "Dallas",
+    "state": "TN"
+  }
+}

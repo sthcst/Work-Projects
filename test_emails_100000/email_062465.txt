@@ -1,0 +1,9 @@
+contact:
+  name: Steven Campbell
+  email: steven.campbell5783@mail.com
+  phone: (387) 569-5284
+  ssn: 495749275
+  dob: 4/12/1953
+  address: 9759 Birch Blvd
+  city: Dallas
+  state: GA

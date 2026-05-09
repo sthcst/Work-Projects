@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Flores
+  email: nicholas.flores2973@company.com
+  phone: 708 840 1219
+  ssn: 610 28 4845
+  dob: 04-24-2000
+  address: 2636 Elm Ave
+  city: Denver
+  state: CA

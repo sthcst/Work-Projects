@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Flores,katherine.flores3571@company.com,254 515 1456,744-61-2875,7/14/1964,"245 North Ave",Denver,VA

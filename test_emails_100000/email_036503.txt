@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Davis
+  email: andrew.davis8287@company.com
+  phone: +1 245-462-8223
+  ssn: 951-08-2305
+  dob: 10-21-1954
+  address: 2505 Sixth Blvd
+  city: Boston
+  state: PA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Robinson",
+    "email": "ryan.robinson777@example.com",
+    "phone": "747 473 5609",
+    "ssn": "064-39-2918",
+    "dob": "06/22/1965",
+    "address": "6645 Second Ln",
+    "city": "Philadelphia",
+    "state": "OH"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Campbell",
+    "email": "george.campbell7950@business.net",
+    "phone": "(514) 855-7667",
+    "ssn": "003579981",
+    "dob": "03/11/1967",
+    "address": "7867 Park Ave",
+    "city": "Chicago",
+    "state": "WA"
+  }
+}

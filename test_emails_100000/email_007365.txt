@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Bell,jennifer.bell6941@work.org,+1 323-926-5418,382-88-4167,7/15/1998,"3427 Main Way",Houston,NY

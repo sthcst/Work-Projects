@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Roberts",
+    "email": "donald.roberts3663@gmail.com",
+    "phone": "+1 886-212-5475",
+    "ssn": "754826175",
+    "dob": "21/08/1989",
+    "address": "5109 Fifth Rd",
+    "city": "Denver",
+    "state": "OH"
+  }
+}

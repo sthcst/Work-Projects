@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Nelson
+  email: ronald.nelson3295@example.com
+  phone: 221-239-7344
+  ssn: 547 85 2161
+  dob: 19/03/1957
+  address: 8049 Second Dr
+  city: San Antonio
+  state: TX

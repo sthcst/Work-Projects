@@ -1,0 +1,14 @@
+INVOICE 715510
+
+Bill To:
+Name: Ashley Serrano
+Email: ashley.serrano1502@example.com
+Phone: 670 521 4123
+SSN: 198 93 5432
+
+Address: 8218 Sixth Rd
+Austin, WA
+
+Date of Birth: 12/5/1978
+
+Amount Due: $1961

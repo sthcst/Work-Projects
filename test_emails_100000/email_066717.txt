@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Young",
+    "email": "ryan.young3422@gmail.com",
+    "phone": "238-845-7758",
+    "ssn": "877187565",
+    "dob": "08/26/2002",
+    "address": "263 Elm Rd",
+    "city": "Phoenix",
+    "state": "FL"
+  }
+}

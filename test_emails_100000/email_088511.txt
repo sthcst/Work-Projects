@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Miller",
+    "email": "stephanie.miller6065@yahoo.com",
+    "phone": "492 693 2589",
+    "ssn": "670098889",
+    "dob": "7/7/1974",
+    "address": "7793 Cedar Ave",
+    "city": "New York",
+    "state": "CA"
+  }
+}

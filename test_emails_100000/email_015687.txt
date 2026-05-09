@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Jackson",
+    "email": "christopher.jackson5263@business.net",
+    "phone": "869-458-2930",
+    "ssn": "358461864",
+    "dob": "10/11/2001",
+    "address": "2682 Park Rd",
+    "city": "New York",
+    "state": "OH"
+  }
+}

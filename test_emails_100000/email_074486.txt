@@ -1,0 +1,12 @@
+SUPPORT TICKET #25765
+
+Customer: James Walker
+Email: james.walker3857@example.com
+Phone: 856-469-7326
+Account: 871852626
+
+Issue Description: Technical problem reported
+DOB on file: 12/22/1992
+Address: 7407 First St, Austin, AZ
+
+Status: OPEN

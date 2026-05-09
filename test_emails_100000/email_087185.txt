@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Gonzalez,sarah.gonzalez9477@gmail.com,925-351-7271,925178825,9/2/1956,"3318 Pine Ave",Philadelphia,WA

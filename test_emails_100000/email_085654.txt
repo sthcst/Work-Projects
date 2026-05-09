@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Gomez
+  email: sarah.gomez7252@company.com
+  phone: 593-868-2129
+  ssn: 540 33 2300
+  dob: 11-13-1987
+  address: 5097 North Dr
+  city: Houston
+  state: WI

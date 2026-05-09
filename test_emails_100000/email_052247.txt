@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Campbell
+  email: kathleen.campbell5981@gmail.com
+  phone: +1 380-650-9116
+  ssn: 081947268
+  dob: 12/17/1988
+  address: 7298 South Ave
+  city: Philadelphia
+  state: NC

@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Campbell
+  email: jessica.campbell3587@mail.com
+  phone: 606 536 9636
+  ssn: 341-19-8676
+  dob: 1/26/1985
+  address: 9384 South Blvd
+  city: Boston
+  state: TX

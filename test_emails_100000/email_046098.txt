@@ -1,0 +1,14 @@
+INVOICE 968342
+
+Bill To:
+Name: Anna Parker
+Email: anna.parker7193@company.com
+Phone: (817) 916-1438
+SSN: 355532366
+
+Address: 2371 Birch Way
+Seattle, TN
+
+Date of Birth: 12-01-1960
+
+Amount Due: $6352

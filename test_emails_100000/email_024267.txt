@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Serrano,rebecca.serrano7191@work.org,(920) 737-7056,248-78-7340,04-28-1971,"9613 East Rd",Austin,NC

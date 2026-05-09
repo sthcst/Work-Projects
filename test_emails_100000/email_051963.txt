@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Peterson,katherine.peterson5670@gmail.com,382 392 8833,169893556,22/07/1972,"282 Sixth Rd",Austin,NJ

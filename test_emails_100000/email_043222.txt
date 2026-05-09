@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Rodriguez",
+    "email": "brenda.rodriguez7073@outlook.com",
+    "phone": "734 433 1147",
+    "ssn": "092 25 6137",
+    "dob": "08-15-1951",
+    "address": "2224 Elm Blvd",
+    "city": "San Antonio",
+    "state": "CA"
+  }
+}

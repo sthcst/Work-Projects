@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Miller",
+    "email": "joshua.miller8170@yahoo.com",
+    "phone": "+1 548-882-6249",
+    "ssn": "441481990",
+    "dob": "5/18/2003",
+    "address": "8682 Spring Court",
+    "city": "Houston",
+    "state": "CO"
+  }
+}

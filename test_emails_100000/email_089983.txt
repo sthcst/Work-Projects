@@ -1,0 +1,9 @@
+contact:
+  name: Emily Moore
+  email: emily.moore2559@yahoo.com
+  phone: 991 418 9447
+  ssn: 067 68 5238
+  dob: 12/04/1999
+  address: 56 Elm Court
+  city: San Jose
+  state: VA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Thomas,kevin.thomas1277@example.com,(920) 349-7890,091811837,02/22/1995,"1214 First Dr",Houston,TN

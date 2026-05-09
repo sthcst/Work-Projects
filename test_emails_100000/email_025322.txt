@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Reed",
+    "email": "lauren.reed1270@gmail.com",
+    "phone": "715-898-9184",
+    "ssn": "675 53 1801",
+    "dob": "21/04/1968",
+    "address": "830 Second Dr",
+    "city": "Seattle",
+    "state": "OH"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 733002
+
+Bill To:
+Name: Angela Carter
+Email: angela.carter4095@example.com
+Phone: 714 532 4958
+SSN: 528648780
+
+Address: 1758 East Ln
+San Jose, OH
+
+Date of Birth: 07-22-2000
+
+Amount Due: $6497

@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Lee
+  email: ryan.lee8827@gmail.com
+  phone: 804 367 3205
+  ssn: 113-57-8243
+  dob: 07/14/1964
+  address: 5972 Fifth Ln
+  city: Los Angeles
+  state: OH

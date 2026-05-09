@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Robinson",
+    "email": "jacob.robinson55@business.net",
+    "phone": "321-211-6132",
+    "ssn": "959 85 5841",
+    "dob": "11-14-1993",
+    "address": "9077 Fourth Court",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

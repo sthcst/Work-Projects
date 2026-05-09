@@ -1,0 +1,14 @@
+INVOICE 974838
+
+Bill To:
+Name: Robert Anderson
+Email: robert.anderson2867@gmail.com
+Phone: +1 718-937-4278
+SSN: 916055315
+
+Address: 9216 Maple Way
+San Jose, MI
+
+Date of Birth: 17/08/1965
+
+Amount Due: $3579

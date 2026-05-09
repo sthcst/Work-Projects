@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Nunez",
+    "email": "daniel.nunez8839@example.com",
+    "phone": "+1 855-718-9735",
+    "ssn": "487355231",
+    "dob": "22/04/1991",
+    "address": "9652 Park Ln",
+    "city": "Philadelphia",
+    "state": "NC"
+  }
+}

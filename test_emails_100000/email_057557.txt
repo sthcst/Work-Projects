@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Gomez,jane.gomez9905@mail.com,658 633 4554,042-73-5749,13/11/1984,"2477 Oak Ln",Austin,AZ

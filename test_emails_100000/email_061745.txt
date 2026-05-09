@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Taylor",
+    "email": "david.taylor4895@gmail.com",
+    "phone": "975 422 6888",
+    "ssn": "860 72 2835",
+    "dob": "2/15/1952",
+    "address": "7578 Cedar Court",
+    "city": "Jacksonville",
+    "state": "MA"
+  }
+}

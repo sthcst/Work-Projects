@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Morgan,helen.morgan9661@mail.com,905-577-2697,093469822,06/07/1995,"7891 Pine Blvd",Chicago,PA

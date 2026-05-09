@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Morris,joseph.morris8328@gmail.com,(232) 927-7277,862023775,2/20/1988,"8252 Birch Blvd",New York,TX

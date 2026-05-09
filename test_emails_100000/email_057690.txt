@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Martinez,katherine.martinez7221@example.com,705 969 7687,662-41-9748,11-22-1985,"5260 Park Way",Austin,FL

@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Brown
+  email: lisa.brown579@mail.com
+  phone: +1 357-710-3411
+  ssn: 880516727
+  dob: 23/05/1988
+  address: 1104 South Way
+  city: San Diego
+  state: CA

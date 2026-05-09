@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Cooper",
+    "email": "michelle.cooper4605@yahoo.com",
+    "phone": "723-766-9072",
+    "ssn": "810 16 9833",
+    "dob": "18/03/1983",
+    "address": "876 Oak Ln",
+    "city": "New York",
+    "state": "TX"
+  }
+}

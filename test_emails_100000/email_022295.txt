@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Campbell",
+    "email": "kathleen.campbell3220@yahoo.com",
+    "phone": "720-506-9069",
+    "ssn": "808 24 1678",
+    "dob": "5/7/1977",
+    "address": "1819 Park Way",
+    "city": "Washington",
+    "state": "OH"
+  }
+}

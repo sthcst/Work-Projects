@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Taylor",
+    "email": "lauren.taylor8378@yahoo.com",
+    "phone": "729 737 9500",
+    "ssn": "065 86 5424",
+    "dob": "10/19/1977",
+    "address": "4042 Sixth Ave",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

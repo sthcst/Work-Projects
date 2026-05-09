@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Lee,gary.lee9523@mail.com,571 384 5575,091 66 1277,06-17-1994,"1609 Fourth Ave",Seattle,CA

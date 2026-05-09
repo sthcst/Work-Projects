@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Johnson",
+    "email": "donald.johnson4831@mail.com",
+    "phone": "(392) 284-2638",
+    "ssn": "206334440",
+    "dob": "11/08/2002",
+    "address": "4760 West Court",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

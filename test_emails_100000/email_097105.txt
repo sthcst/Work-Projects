@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Jackson,cynthia.jackson2173@gmail.com,289-453-3103,145371934,12-15-1971,"2570 Park Blvd",Austin,CA

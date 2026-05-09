@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Wilson",
+    "email": "kimberly.wilson555@gmail.com",
+    "phone": "269-933-9479",
+    "ssn": "508 13 1184",
+    "dob": "04/15/1988",
+    "address": "5939 Fifth St",
+    "city": "Houston",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Lee",
+    "email": "edward.lee8325@company.com",
+    "phone": "287 911 3567",
+    "ssn": "797 04 2481",
+    "dob": "7/8/1970",
+    "address": "5016 Summer Court",
+    "city": "San Diego",
+    "state": "MO"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Johnson",
+    "email": "john.johnson9551@work.org",
+    "phone": "+1 384-689-9484",
+    "ssn": "050-70-8283",
+    "dob": "12/16/1990",
+    "address": "4571 Elm Way",
+    "city": "Houston",
+    "state": "CA"
+  }
+}

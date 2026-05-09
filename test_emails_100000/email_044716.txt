@@ -1,0 +1,9 @@
+contact:
+  name: Megan Guerrero
+  email: megan.guerrero3242@example.com
+  phone: 932 421 9768
+  ssn: 324 95 9410
+  dob: 4/1/1983
+  address: 4906 Summer Dr
+  city: San Diego
+  state: TX

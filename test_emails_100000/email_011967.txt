@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Campbell",
+    "email": "timothy.campbell7621@work.org",
+    "phone": "744-506-9852",
+    "ssn": "239-14-9940",
+    "dob": "14/09/1963",
+    "address": "9341 First Blvd",
+    "city": "Austin",
+    "state": "MO"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Robert Rodriguez
+  email: robert.rodriguez9298@business.net
+  phone: +1 996-943-3565
+  ssn: 692205410
+  dob: 19/12/1998
+  address: 2792 North Rd
+  city: Washington
+  state: TX

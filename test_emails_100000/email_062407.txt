@@ -1,0 +1,14 @@
+INVOICE 122420
+
+Bill To:
+Name: Daniel Thompson
+Email: daniel.thompson6523@mail.com
+Phone: +1 448-288-6592
+SSN: 274326500
+
+Address: 5876 Park Ln
+San Antonio, TX
+
+Date of Birth: 08/11/1974
+
+Amount Due: $951

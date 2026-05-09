@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Wilson",
+    "email": "kimberly.wilson1122@gmail.com",
+    "phone": "+1 347-220-8909",
+    "ssn": "086 63 5365",
+    "dob": "03/06/1978",
+    "address": "4284 Summer Court",
+    "city": "Denver",
+    "state": "DC"
+  }
+}

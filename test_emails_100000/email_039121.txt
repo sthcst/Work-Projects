@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Flores",
+    "email": "andrew.flores7454@mail.com",
+    "phone": "641-255-2975",
+    "ssn": "390-20-5809",
+    "dob": "08-17-1972",
+    "address": "9856 North Way",
+    "city": "New York",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 656957
+
+Bill To:
+Name: Michelle Cooper
+Email: michelle.cooper7583@company.com
+Phone: 549-218-7370
+SSN: 236-40-3500
+
+Address: 1040 Third Rd
+Chicago, PA
+
+Date of Birth: 5/17/1986
+
+Amount Due: $2034

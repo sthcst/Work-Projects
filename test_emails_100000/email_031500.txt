@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Wilson",
+    "email": "gary.wilson4267@example.com",
+    "phone": "634 515 4698",
+    "ssn": "223-47-2831",
+    "dob": "1/27/1965",
+    "address": "2209 First Ln",
+    "city": "Austin",
+    "state": "OH"
+  }
+}

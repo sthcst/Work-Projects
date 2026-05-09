@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Alvarado",
+    "email": "kathleen.alvarado6941@business.net",
+    "phone": "(479) 577-3532",
+    "ssn": "767721940",
+    "dob": "04/02/1981",
+    "address": "8907 Cedar Ave",
+    "city": "Dallas",
+    "state": "PA"
+  }
+}

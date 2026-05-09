@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Nunez",
+    "email": "anthony.nunez5225@yahoo.com",
+    "phone": "568 961 6776",
+    "ssn": "555-14-9855",
+    "dob": "10-12-1979",
+    "address": "6628 South Dr",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

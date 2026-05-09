@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Peterson,charles.peterson704@company.com,703-680-1677,110 60 3705,08-02-1970,"7700 Fifth Court",Jacksonville,AZ

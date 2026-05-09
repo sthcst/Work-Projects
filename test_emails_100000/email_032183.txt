@@ -1,0 +1,9 @@
+contact:
+  name: James Cooper
+  email: james.cooper6067@gmail.com
+  phone: 500-362-5522
+  ssn: 081 81 8980
+  dob: 9/24/1953
+  address: 1972 East Dr
+  city: Houston
+  state: VA

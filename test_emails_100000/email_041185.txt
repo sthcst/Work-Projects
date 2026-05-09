@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Hernandez,anthony.hernandez3389@business.net,313-689-4030,605-11-5365,09/14/1990,"5089 Summer Way",New York,NY

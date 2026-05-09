@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Brown",
+    "email": "william.brown5962@company.com",
+    "phone": "+1 452-400-3265",
+    "ssn": "152 44 4139",
+    "dob": "07-18-1995",
+    "address": "6500 Birch Court",
+    "city": "Austin",
+    "state": "VA"
+  }
+}

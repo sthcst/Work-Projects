@@ -1,0 +1,9 @@
+contact:
+  name: Maria Bell
+  email: maria.bell8005@example.com
+  phone: (520) 599-1436
+  ssn: 823 65 2587
+  dob: 08/28/1954
+  address: 6109 Summer Way
+  city: New York
+  state: DC

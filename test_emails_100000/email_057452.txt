@@ -1,0 +1,14 @@
+INVOICE 477001
+
+Bill To:
+Name: John Carter
+Email: john.carter2734@business.net
+Phone: 678 355 2256
+SSN: 067-85-2415
+
+Address: 6862 Summer Blvd
+Austin, TX
+
+Date of Birth: 02-25-2004
+
+Amount Due: $3178

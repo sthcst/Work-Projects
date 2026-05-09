@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Clark",
+    "email": "deborah.clark8066@mail.com",
+    "phone": "929-263-5961",
+    "ssn": "128-11-4760",
+    "dob": "07/03/1997",
+    "address": "9774 Second Rd",
+    "city": "Jacksonville",
+    "state": "VA"
+  }
+}

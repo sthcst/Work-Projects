@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Clark",
+    "email": "richard.clark2501@business.net",
+    "phone": "+1 832-305-1210",
+    "ssn": "732554091",
+    "dob": "05-11-1950",
+    "address": "3534 Oak Ln",
+    "city": "Washington",
+    "state": "DC"
+  }
+}

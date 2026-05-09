@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Gomez,george.gomez3879@example.com,277-364-9617,186843772,08-17-1962,"3477 Park Rd",Denver,VA

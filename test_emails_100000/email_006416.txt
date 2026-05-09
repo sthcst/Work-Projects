@@ -1,0 +1,14 @@
+INVOICE 600045
+
+Bill To:
+Name: Joseph Lee
+Email: joseph.lee224@yahoo.com
+Phone: (767) 859-5174
+SSN: 804431082
+
+Address: 8984 South Rd
+Los Angeles, NJ
+
+Date of Birth: 2/15/1981
+
+Amount Due: $4272

@@ -1,0 +1,14 @@
+INVOICE 785607
+
+Bill To:
+Name: Anna Alvarado
+Email: anna.alvarado9826@company.com
+Phone: 976 715 5246
+SSN: 402-58-4085
+
+Address: 5603 East Dr
+San Jose, TX
+
+Date of Birth: 05/07/1956
+
+Amount Due: $7148

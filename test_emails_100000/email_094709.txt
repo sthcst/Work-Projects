@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Walker",
+    "email": "gary.walker2440@business.net",
+    "phone": "650-640-7656",
+    "ssn": "202-26-7453",
+    "dob": "06/11/1961",
+    "address": "2895 West Dr",
+    "city": "Boston",
+    "state": "MD"
+  }
+}

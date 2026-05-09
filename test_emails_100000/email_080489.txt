@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Peterson",
+    "email": "mark.peterson9307@gmail.com",
+    "phone": "+1 941-913-1757",
+    "ssn": "440366678",
+    "dob": "06-20-1955",
+    "address": "2393 Oak St",
+    "city": "Jacksonville",
+    "state": "MO"
+  }
+}

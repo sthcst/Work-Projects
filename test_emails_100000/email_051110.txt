@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Hall",
+    "email": "david.hall5429@work.org",
+    "phone": "(636) 292-9617",
+    "ssn": "080 53 1786",
+    "dob": "3/16/1994",
+    "address": "8109 South Way",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

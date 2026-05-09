@@ -1,0 +1,14 @@
+INVOICE 466030
+
+Bill To:
+Name: Amanda Miller
+Email: amanda.miller6657@work.org
+Phone: 538-320-2373
+SSN: 161591084
+
+Address: 9655 Maple Ln
+Houston, IL
+
+Date of Birth: 03-13-1986
+
+Amount Due: $1459

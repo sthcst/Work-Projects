@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Roberts
+  email: cynthia.roberts7813@gmail.com
+  phone: 840 963 2568
+  ssn: 197 12 2239
+  dob: 11-02-1955
+  address: 8736 South Rd
+  city: San Jose
+  state: MA

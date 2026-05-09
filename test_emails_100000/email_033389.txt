@@ -1,0 +1,14 @@
+INVOICE 714472
+
+Bill To:
+Name: George Peterson
+Email: george.peterson7047@gmail.com
+Phone: (938) 849-4366
+SSN: 835-30-7441
+
+Address: 8203 West Rd
+San Diego, MD
+
+Date of Birth: 01/08/1960
+
+Amount Due: $8204

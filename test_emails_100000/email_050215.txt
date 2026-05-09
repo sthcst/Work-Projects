@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Peterson",
+    "email": "ashley.peterson717@company.com",
+    "phone": "+1 679-424-2410",
+    "ssn": "777151500",
+    "dob": "1/13/1981",
+    "address": "4234 North Ave",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

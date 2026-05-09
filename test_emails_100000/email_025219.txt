@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Delgado,rachel.delgado7769@yahoo.com,(439) 775-6015,409-72-4612,06/21/1989,"7366 First St",Denver,TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Reed",
+    "email": "jeffrey.reed6193@gmail.com",
+    "phone": "582-790-1723",
+    "ssn": "349436158",
+    "dob": "06-01-1999",
+    "address": "236 South Rd",
+    "city": "Houston",
+    "state": "VA"
+  }
+}

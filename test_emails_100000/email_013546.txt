@@ -1,0 +1,9 @@
+contact:
+  name: David Dominguez
+  email: david.dominguez8613@company.com
+  phone: 507 908 5918
+  ssn: 651-54-2564
+  dob: 02/11/1986
+  address: 677 West Ln
+  city: Dallas
+  state: MO

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Bell",
+    "email": "kevin.bell3586@mail.com",
+    "phone": "291-783-3996",
+    "ssn": "610 23 2044",
+    "dob": "9/8/1974",
+    "address": "8579 West Way",
+    "city": "Washington",
+    "state": "MD"
+  }
+}

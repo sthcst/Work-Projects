@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Lee",
+    "email": "matthew.lee3498@example.com",
+    "phone": "986-223-3661",
+    "ssn": "382 11 7646",
+    "dob": "01/10/1986",
+    "address": "7681 East Way",
+    "city": "Jacksonville",
+    "state": "MI"
+  }
+}

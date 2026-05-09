@@ -1,0 +1,9 @@
+contact:
+  name: Maria Lee
+  email: maria.lee7132@business.net
+  phone: (733) 487-8181
+  ssn: 252-22-3650
+  dob: 03-02-1999
+  address: 571 Oak St
+  city: New York
+  state: TX

@@ -1,0 +1,9 @@
+contact:
+  name: Robert Perez
+  email: robert.perez852@mail.com
+  phone: 645 795 7212
+  ssn: 096 62 8562
+  dob: 01-08-1968
+  address: 8569 East Court
+  city: San Antonio
+  state: CA

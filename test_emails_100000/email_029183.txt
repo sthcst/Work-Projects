@@ -1,0 +1,14 @@
+INVOICE 157405
+
+Bill To:
+Name: James Jackson
+Email: james.jackson7588@outlook.com
+Phone: 616-627-4132
+SSN: 846-31-9247
+
+Address: 745 Maple Ave
+San Jose, WA
+
+Date of Birth: 12-21-2004
+
+Amount Due: $525

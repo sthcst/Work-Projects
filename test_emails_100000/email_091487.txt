@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Delgado
+  email: joseph.delgado1334@example.com
+  phone: (978) 762-4996
+  ssn: 057274552
+  dob: 02-07-1969
+  address: 3033 Fifth St
+  city: Houston
+  state: AZ

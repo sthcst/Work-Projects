@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Peterson",
+    "email": "ryan.peterson3348@mail.com",
+    "phone": "(900) 951-8851",
+    "ssn": "391896025",
+    "dob": "11/12/1992",
+    "address": "430 West Ave",
+    "city": "Los Angeles",
+    "state": "AZ"
+  }
+}

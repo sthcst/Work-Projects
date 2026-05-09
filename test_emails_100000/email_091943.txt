@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Guerrero
+  email: sarah.guerrero5536@gmail.com
+  phone: 539-818-5887
+  ssn: 543-30-7037
+  dob: 10-02-1962
+  address: 6302 Elm Rd
+  city: Chicago
+  state: FL

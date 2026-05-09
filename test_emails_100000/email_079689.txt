@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Morgan,pamela.morgan8429@mail.com,+1 319-318-2417,485649233,11/23/2004,"7594 Sixth St",Phoenix,DC

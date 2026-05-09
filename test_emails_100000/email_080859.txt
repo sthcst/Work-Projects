@@ -1,0 +1,14 @@
+INVOICE 543630
+
+Bill To:
+Name: Andrew Parker
+Email: andrew.parker5330@outlook.com
+Phone: +1 908-302-6984
+SSN: 428 21 9447
+
+Address: 6578 Sixth Blvd
+Dallas, MI
+
+Date of Birth: 04-15-2004
+
+Amount Due: $4094

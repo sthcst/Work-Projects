@@ -1,0 +1,14 @@
+INVOICE 285344
+
+Bill To:
+Name: Rachel Walker
+Email: rachel.walker9225@work.org
+Phone: 613 504 7658
+SSN: 468237813
+
+Address: 4476 Elm Blvd
+Chicago, OH
+
+Date of Birth: 04/07/1981
+
+Amount Due: $3607

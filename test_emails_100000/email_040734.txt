@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Hernandez,timothy.hernandez8383@yahoo.com,(982) 636-9493,221 89 8105,3/27/1992,"5159 Birch St",San Jose,TX

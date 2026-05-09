@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Matthew Thomas,matthew.thomas8003@yahoo.com,947 586 6538,878907224,11/08/1988,"5513 Cedar Court",San Diego,AZ

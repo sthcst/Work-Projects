@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Cooper,john.cooper2322@gmail.com,(948) 400-4073,450223775,6/20/1994,"3736 Main Way",Jacksonville,TX

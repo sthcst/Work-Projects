@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Garcia,robert.garcia6702@outlook.com,(845) 878-7568,632432885,6/7/2001,"3711 Spring Dr",Washington,TX

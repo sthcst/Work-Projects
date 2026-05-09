@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Jimenez",
+    "email": "edward.jimenez8750@outlook.com",
+    "phone": "581 237 3720",
+    "ssn": "190107819",
+    "dob": "02/02/2001",
+    "address": "1984 Oak Ln",
+    "city": "New York",
+    "state": "PA"
+  }
+}

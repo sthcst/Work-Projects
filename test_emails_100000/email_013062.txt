@@ -1,0 +1,9 @@
+contact:
+  name: George Walker
+  email: george.walker5876@mail.com
+  phone: 864-987-1234
+  ssn: 428 02 9354
+  dob: 04/28/1956
+  address: 9097 Third Way
+  city: Los Angeles
+  state: OH

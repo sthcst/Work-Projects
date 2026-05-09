@@ -1,0 +1,14 @@
+INVOICE 803985
+
+Bill To:
+Name: Gary Miller
+Email: gary.miller3283@yahoo.com
+Phone: 385 919 2841
+SSN: 223-93-5559
+
+Address: 9828 Main Way
+San Jose, WA
+
+Date of Birth: 11/7/1959
+
+Amount Due: $1571

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Garcia",
+    "email": "george.garcia3595@company.com",
+    "phone": "870-233-3356",
+    "ssn": "792739493",
+    "dob": "02-26-1974",
+    "address": "847 First Court",
+    "city": "Austin",
+    "state": "CO"
+  }
+}

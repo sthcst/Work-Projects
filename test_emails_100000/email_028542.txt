@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Peterson",
+    "email": "george.peterson2871@outlook.com",
+    "phone": "946 582 2756",
+    "ssn": "357293021",
+    "dob": "21/10/2002",
+    "address": "3303 Birch St",
+    "city": "Denver",
+    "state": "DC"
+  }
+}

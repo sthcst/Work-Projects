@@ -1,0 +1,9 @@
+contact:
+  name: James Miller
+  email: james.miller9873@mail.com
+  phone: 777-441-4940
+  ssn: 123343052
+  dob: 03-08-1953
+  address: 3314 Pine Ave
+  city: Dallas
+  state: NJ

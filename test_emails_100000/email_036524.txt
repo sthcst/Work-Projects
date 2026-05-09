@@ -1,0 +1,14 @@
+INVOICE 382508
+
+Bill To:
+Name: Cynthia Sanchez
+Email: cynthia.sanchez1623@company.com
+Phone: (738) 463-2140
+SSN: 169-89-2571
+
+Address: 314 Main St
+Denver, FL
+
+Date of Birth: 15/06/1965
+
+Amount Due: $5864

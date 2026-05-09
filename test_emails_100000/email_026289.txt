@@ -1,0 +1,9 @@
+contact:
+  name: Megan Serrano
+  email: megan.serrano4661@yahoo.com
+  phone: +1 842-627-6324
+  ssn: 562-34-4397
+  dob: 10/13/1990
+  address: 7791 Fourth Blvd
+  city: Houston
+  state: CA

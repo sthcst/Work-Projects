@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Reed
+  email: joshua.reed3137@work.org
+  phone: 463 245 7017
+  ssn: 741-80-3546
+  dob: 19/08/1955
+  address: 5975 Spring Court
+  city: Denver
+  state: TX

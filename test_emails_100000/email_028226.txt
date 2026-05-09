@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Young",
+    "email": "amanda.young1798@gmail.com",
+    "phone": "845 877 4285",
+    "ssn": "344 50 1832",
+    "dob": "1/25/2000",
+    "address": "5992 Main Blvd",
+    "city": "Chicago",
+    "state": "TN"
+  }
+}

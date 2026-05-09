@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Moore",
+    "email": "pamela.moore2240@business.net",
+    "phone": "722 240 3234",
+    "ssn": "170878722",
+    "dob": "10/22/1969",
+    "address": "1109 Main Ln",
+    "city": "Jacksonville",
+    "state": "MA"
+  }
+}

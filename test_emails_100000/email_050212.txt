@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Perez,joshua.perez5560@example.com,(817) 535-5248,559-12-1276,06/06/1979,"7860 Oak Rd",Los Angeles,PA

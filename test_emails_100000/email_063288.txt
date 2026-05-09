@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Anderson,edward.anderson2488@company.com,868 821 8341,187359761,11/15/1981,"4637 Second Ln",San Diego,NY

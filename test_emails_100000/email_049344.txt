@@ -1,0 +1,14 @@
+INVOICE 931696
+
+Bill To:
+Name: John Williams
+Email: john.williams4564@yahoo.com
+Phone: 438 799 2328
+SSN: 604 41 3151
+
+Address: 9218 Fifth Court
+San Diego, OH
+
+Date of Birth: 01/15/1996
+
+Amount Due: $1204

@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Moore
+  email: brenda.moore3769@mail.com
+  phone: (730) 712-4112
+  ssn: 873 50 4800
+  dob: 10-13-1986
+  address: 3468 Maple Ave
+  city: San Diego
+  state: TN

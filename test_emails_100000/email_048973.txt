@@ -1,0 +1,12 @@
+SUPPORT TICKET #38543
+
+Customer: Michael Roberts
+Email: michael.roberts1877@example.com
+Phone: +1 889-514-2600
+Account: 957942095
+
+Issue Description: Technical problem reported
+DOB on file: 4/6/1956
+Address: 7343 Fourth Blvd, Chicago, CA
+
+Status: OPEN

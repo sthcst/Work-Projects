@@ -1,0 +1,14 @@
+INVOICE 634124
+
+Bill To:
+Name: Kenneth Ramirez
+Email: kenneth.ramirez1040@company.com
+Phone: 713 214 2709
+SSN: 697846632
+
+Address: 5286 Main Rd
+Phoenix, MA
+
+Date of Birth: 19/05/1965
+
+Amount Due: $5810

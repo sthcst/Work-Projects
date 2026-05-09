@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Perez",
+    "email": "brian.perez2033@gmail.com",
+    "phone": "(992) 687-2906",
+    "ssn": "317 74 9407",
+    "dob": "07/07/1998",
+    "address": "4367 Birch Blvd",
+    "city": "Jacksonville",
+    "state": "WI"
+  }
+}

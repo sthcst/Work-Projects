@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Reed
+  email: nicholas.reed7910@yahoo.com
+  phone: (468) 461-5773
+  ssn: 523-29-3755
+  dob: 5/16/1979
+  address: 1884 Pine St
+  city: Austin
+  state: NY

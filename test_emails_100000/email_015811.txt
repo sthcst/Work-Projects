@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Miller
+  email: christopher.miller5251@work.org
+  phone: 924-845-6492
+  ssn: 369-65-4330
+  dob: 05/05/1996
+  address: 1309 West Ave
+  city: Chicago
+  state: TX

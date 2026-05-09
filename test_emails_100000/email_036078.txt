@@ -1,0 +1,14 @@
+INVOICE 524728
+
+Bill To:
+Name: Daniel Morris
+Email: daniel.morris6915@gmail.com
+Phone: +1 600-927-5224
+SSN: 245-33-4403
+
+Address: 64 Birch Ave
+Austin, MA
+
+Date of Birth: 5/4/1988
+
+Amount Due: $3853

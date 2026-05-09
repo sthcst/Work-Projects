@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Collins,david.collins780@company.com,(939) 842-3764,874 55 8505,4/18/1970,"7849 Oak Ave",Austin,VA

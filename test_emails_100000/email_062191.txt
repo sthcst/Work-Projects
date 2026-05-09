@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Young",
+    "email": "gary.young5462@outlook.com",
+    "phone": "291-604-9104",
+    "ssn": "063508931",
+    "dob": "09/17/1984",
+    "address": "5222 Oak Ave",
+    "city": "Jacksonville",
+    "state": "FL"
+  }
+}

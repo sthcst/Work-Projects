@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Hall",
+    "email": "angela.hall4845@example.com",
+    "phone": "325-753-7392",
+    "ssn": "127525812",
+    "dob": "08/23/2000",
+    "address": "3537 Main St",
+    "city": "Houston",
+    "state": "WA"
+  }
+}

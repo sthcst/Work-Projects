@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Flores
+  email: ashley.flores5019@business.net
+  phone: 821 735 5905
+  ssn: 632547304
+  dob: 03/08/1996
+  address: 4429 Summer Dr
+  city: Philadelphia
+  state: VA

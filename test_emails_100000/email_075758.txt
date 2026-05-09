@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Bell,charles.bell102@outlook.com,(224) 222-4580,622-61-4986,02-10-1967,"576 Pine Ave",Dallas,TX

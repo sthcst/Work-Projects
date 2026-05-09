@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Peterson,daniel.peterson5235@outlook.com,(545) 597-8563,472-44-4489,07/22/1960,"5802 Pine Way",Denver,TX

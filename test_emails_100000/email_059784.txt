@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Martin",
+    "email": "daniel.martin3656@outlook.com",
+    "phone": "648-959-6266",
+    "ssn": "034202480",
+    "dob": "06/21/1975",
+    "address": "2382 Fourth Ln",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

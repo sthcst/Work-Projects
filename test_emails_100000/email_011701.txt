@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Harris,richard.harris4632@outlook.com,(469) 912-1398,814 16 6179,03/07/1981,"7619 Sixth Ave",Boston,AZ

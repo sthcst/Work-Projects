@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Ramirez,helen.ramirez9939@company.com,296 746 3545,055405792,09-17-1950,"989 Cedar Dr",Denver,IL

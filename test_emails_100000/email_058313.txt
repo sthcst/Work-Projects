@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Jackson,anna.jackson3592@mail.com,710-327-9788,552-18-4772,16/07/1994,"9463 Spring Court",San Diego,FL

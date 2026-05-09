@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Romero,christopher.romero1674@mail.com,372-217-3533,667 59 8062,04/12/1987,"5338 Oak Court",Jacksonville,MI

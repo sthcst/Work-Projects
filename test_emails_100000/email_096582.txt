@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Garcia",
+    "email": "joshua.garcia2911@work.org",
+    "phone": "(656) 526-3336",
+    "ssn": "129442272",
+    "dob": "28/02/1972",
+    "address": "8950 Fourth Ave",
+    "city": "Houston",
+    "state": "WA"
+  }
+}

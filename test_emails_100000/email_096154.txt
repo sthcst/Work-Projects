@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Lewis",
+    "email": "jason.lewis3517@mail.com",
+    "phone": "708 425 3634",
+    "ssn": "126825250",
+    "dob": "1/24/1975",
+    "address": "8138 Second St",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

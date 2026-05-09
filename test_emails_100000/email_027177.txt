@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Stewart",
+    "email": "edward.stewart7137@company.com",
+    "phone": "302-290-4141",
+    "ssn": "051 88 4961",
+    "dob": "03-27-1974",
+    "address": "136 Sixth Ln",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

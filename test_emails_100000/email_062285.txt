@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Wilson
+  email: lauren.wilson9431@business.net
+  phone: 343-558-9719
+  ssn: 967-78-7892
+  dob: 10/02/2003
+  address: 5151 Pine Ave
+  city: Denver
+  state: MI

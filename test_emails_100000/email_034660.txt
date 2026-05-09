@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Rodriguez,megan.rodriguez6020@company.com,601-284-7979,542033138,07/06/1978,"6423 Cedar St",Austin,MI

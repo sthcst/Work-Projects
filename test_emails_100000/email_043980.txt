@@ -1,0 +1,14 @@
+INVOICE 245671
+
+Bill To:
+Name: Helen Lewis
+Email: helen.lewis4514@example.com
+Phone: 268-764-7400
+SSN: 703029152
+
+Address: 3226 West Ln
+San Jose, MA
+
+Date of Birth: 07-08-1989
+
+Amount Due: $7356

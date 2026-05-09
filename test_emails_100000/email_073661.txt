@@ -1,0 +1,12 @@
+SUPPORT TICKET #86913
+
+Customer: David Miller
+Email: david.miller5635@example.com
+Phone: 915-881-2103
+Account: 002-70-6330
+
+Issue Description: Technical problem reported
+DOB on file: 5/1/1998
+Address: 9433 Spring Ave, Los Angeles, GA
+
+Status: OPEN

@@ -1,0 +1,14 @@
+INVOICE 757158
+
+Bill To:
+Name: Christine Delgado
+Email: christine.delgado2530@example.com
+Phone: +1 261-959-3704
+SSN: 330-45-2655
+
+Address: 9401 South Court
+Philadelphia, WI
+
+Date of Birth: 03/06/2001
+
+Amount Due: $7127

@@ -1,0 +1,9 @@
+contact:
+  name: Charles Garcia
+  email: charles.garcia7390@yahoo.com
+  phone: 402-998-7740
+  ssn: 840 29 3448
+  dob: 4/9/1969
+  address: 7542 Oak St
+  city: Austin
+  state: FL

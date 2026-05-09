@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Lopez",
+    "email": "emily.lopez1749@yahoo.com",
+    "phone": "+1 742-582-2331",
+    "ssn": "666-85-5380",
+    "dob": "08-18-1988",
+    "address": "2268 North Ln",
+    "city": "Jacksonville",
+    "state": "PA"
+  }
+}

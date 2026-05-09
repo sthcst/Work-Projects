@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Edwards",
+    "email": "lauren.edwards6489@gmail.com",
+    "phone": "755 887 8157",
+    "ssn": "451 34 4244",
+    "dob": "11-12-1971",
+    "address": "8950 Maple Court",
+    "city": "Los Angeles",
+    "state": "WA"
+  }
+}

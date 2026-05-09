@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Peterson",
+    "email": "joshua.peterson6811@yahoo.com",
+    "phone": "709 259 2059",
+    "ssn": "822-12-5649",
+    "dob": "14/07/1954",
+    "address": "5069 Spring Dr",
+    "city": "Washington",
+    "state": "NY"
+  }
+}

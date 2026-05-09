@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Williams,lauren.williams6402@mail.com,310-343-4214,178899626,28/01/1973,"702 Second Ln",Jacksonville,CA

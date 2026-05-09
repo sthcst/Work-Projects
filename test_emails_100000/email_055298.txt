@@ -1,0 +1,14 @@
+INVOICE 930388
+
+Bill To:
+Name: Joseph Dominguez
+Email: joseph.dominguez7090@mail.com
+Phone: +1 788-405-2532
+SSN: 054 44 1477
+
+Address: 6104 First Blvd
+Philadelphia, PA
+
+Date of Birth: 4/3/1975
+
+Amount Due: $7995

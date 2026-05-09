@@ -1,0 +1,14 @@
+INVOICE 197713
+
+Bill To:
+Name: Jeffrey Collins
+Email: jeffrey.collins6301@example.com
+Phone: 267-822-1067
+SSN: 477-45-4867
+
+Address: 9954 Fourth Rd
+Washington, MI
+
+Date of Birth: 3/2/1977
+
+Amount Due: $4041

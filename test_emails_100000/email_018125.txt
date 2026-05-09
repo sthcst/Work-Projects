@@ -1,0 +1,9 @@
+contact:
+  name: David Williams
+  email: david.williams3954@example.com
+  phone: 391 570 7934
+  ssn: 249 05 7159
+  dob: 2/19/1980
+  address: 8601 Spring Rd
+  city: Denver
+  state: AZ

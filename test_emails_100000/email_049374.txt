@@ -1,0 +1,14 @@
+INVOICE 521844
+
+Bill To:
+Name: Andrew Lopez
+Email: andrew.lopez9714@gmail.com
+Phone: 684 643 8280
+SSN: 789138719
+
+Address: 5139 East Blvd
+San Antonio, FL
+
+Date of Birth: 10/8/1998
+
+Amount Due: $2289

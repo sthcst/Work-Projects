@@ -1,0 +1,9 @@
+contact:
+  name: David Thomas
+  email: david.thomas6289@example.com
+  phone: (754) 780-2659
+  ssn: 640-62-8859
+  dob: 9/21/2003
+  address: 2256 Park Court
+  city: Boston
+  state: MD

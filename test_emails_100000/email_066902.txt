@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Morris",
+    "email": "sarah.morris8749@example.com",
+    "phone": "898 340 7618",
+    "ssn": "929262115",
+    "dob": "07-15-1984",
+    "address": "3720 Main Blvd",
+    "city": "San Jose",
+    "state": "IL"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Jones
+  email: kenneth.jones5704@work.org
+  phone: 799-983-1615
+  ssn: 380533976
+  dob: 06-23-2005
+  address: 1901 Oak Ln
+  city: New York
+  state: GA

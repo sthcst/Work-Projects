@@ -1,0 +1,9 @@
+contact:
+  name: Brian Jackson
+  email: brian.jackson8233@business.net
+  phone: 912-614-9456
+  ssn: 676-94-3878
+  dob: 03/19/1989
+  address: 2666 Second Rd
+  city: San Antonio
+  state: NC

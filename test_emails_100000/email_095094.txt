@@ -1,0 +1,14 @@
+INVOICE 740333
+
+Bill To:
+Name: Angela Smith
+Email: angela.smith1237@outlook.com
+Phone: 444 378 2491
+SSN: 857165773
+
+Address: 3745 Fourth Dr
+San Antonio, NC
+
+Date of Birth: 05/06/1964
+
+Amount Due: $904

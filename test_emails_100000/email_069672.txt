@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Ortiz,nicole.ortiz9858@work.org,(602) 839-3957,036-53-3871,8/26/1983,"4169 Elm Blvd",Chicago,MA

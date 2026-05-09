@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Smith",
+    "email": "emma.smith3147@yahoo.com",
+    "phone": "813-935-2964",
+    "ssn": "725-51-5715",
+    "dob": "07-06-1993",
+    "address": "6568 North Ln",
+    "city": "San Jose",
+    "state": "WA"
+  }
+}

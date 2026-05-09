@@ -1,0 +1,9 @@
+contact:
+  name: Christine Dominguez
+  email: christine.dominguez6254@mail.com
+  phone: (936) 996-3307
+  ssn: 874-90-5266
+  dob: 03/05/1962
+  address: 6697 Park Way
+  city: Boston
+  state: MA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Smith,edward.smith1825@mail.com,+1 795-575-7245,656798920,03-28-1966,"5168 Maple Court",San Antonio,WA

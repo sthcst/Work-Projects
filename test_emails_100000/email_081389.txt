@@ -1,0 +1,9 @@
+contact:
+  name: Gary Murillo
+  email: gary.murillo3999@business.net
+  phone: +1 970-683-3357
+  ssn: 784-15-7996
+  dob: 08/06/1992
+  address: 4603 Birch Ln
+  city: San Antonio
+  state: CA

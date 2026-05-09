@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Campbell",
+    "email": "sarah.campbell6670@business.net",
+    "phone": "203-670-1197",
+    "ssn": "953 04 3229",
+    "dob": "1/8/1958",
+    "address": "5923 East Rd",
+    "city": "San Diego",
+    "state": "CO"
+  }
+}

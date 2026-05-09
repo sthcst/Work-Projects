@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Flores",
+    "email": "amanda.flores3326@company.com",
+    "phone": "886-374-1548",
+    "ssn": "983 25 6317",
+    "dob": "8/4/1995",
+    "address": "4392 West St",
+    "city": "New York",
+    "state": "FL"
+  }
+}

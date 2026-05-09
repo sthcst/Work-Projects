@@ -1,0 +1,9 @@
+contact:
+  name: Emma Rodriguez
+  email: emma.rodriguez5016@gmail.com
+  phone: +1 879-894-5344
+  ssn: 772 65 7180
+  dob: 5/5/1950
+  address: 8239 Pine Way
+  city: Austin
+  state: FL

@@ -1,0 +1,14 @@
+INVOICE 756066
+
+Bill To:
+Name: Stephanie Flores
+Email: stephanie.flores7007@example.com
+Phone: 259 415 8849
+SSN: 058913324
+
+Address: 396 Fifth Ln
+Philadelphia, MO
+
+Date of Birth: 6/12/1982
+
+Amount Due: $2091

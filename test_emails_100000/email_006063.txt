@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Alvarado",
+    "email": "helen.alvarado5122@gmail.com",
+    "phone": "(453) 585-1137",
+    "ssn": "650473864",
+    "dob": "28/06/1978",
+    "address": "6186 First Way",
+    "city": "New York",
+    "state": "PA"
+  }
+}

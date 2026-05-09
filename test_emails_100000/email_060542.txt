@@ -1,0 +1,14 @@
+INVOICE 587598
+
+Bill To:
+Name: Jessica Lee
+Email: jessica.lee3589@example.com
+Phone: 271-485-5876
+SSN: 876-68-5935
+
+Address: 904 Sixth Rd
+Philadelphia, NY
+
+Date of Birth: 11/12/1998
+
+Amount Due: $9947

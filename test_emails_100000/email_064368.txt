@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Reed",
+    "email": "megan.reed1266@mail.com",
+    "phone": "+1 473-564-1591",
+    "ssn": "201 41 5280",
+    "dob": "6/8/1967",
+    "address": "4750 Sixth Way",
+    "city": "Denver",
+    "state": "MA"
+  }
+}

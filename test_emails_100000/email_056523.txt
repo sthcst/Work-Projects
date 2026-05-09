@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Delgado",
+    "email": "john.delgado7586@company.com",
+    "phone": "(614) 997-3183",
+    "ssn": "288898220",
+    "dob": "04/14/1965",
+    "address": "5538 Fifth Way",
+    "city": "Washington",
+    "state": "VA"
+  }
+}

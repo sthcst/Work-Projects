@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Roberts,steven.roberts9247@outlook.com,731-930-2615,005-08-4553,03-02-2002,"9492 Sixth Dr",Houston,CA

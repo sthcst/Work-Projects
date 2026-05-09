@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Dominguez
+  email: katherine.dominguez1081@company.com
+  phone: +1 476-269-6096
+  ssn: 204033016
+  dob: 03-10-1956
+  address: 2947 Summer Blvd
+  city: Chicago
+  state: CO

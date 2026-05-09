@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Anderson,ronald.anderson8475@mail.com,560-651-4389,039774873,23/04/1995,"8460 Park St",Philadelphia,FL

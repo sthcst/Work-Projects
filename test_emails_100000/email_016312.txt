@@ -1,0 +1,9 @@
+contact:
+  name: Jason Gonzalez
+  email: jason.gonzalez9460@company.com
+  phone: 676 232 9867
+  ssn: 225884713
+  dob: 24/04/2004
+  address: 4766 Fourth Way
+  city: Dallas
+  state: IL

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Lopez,katherine.lopez1301@gmail.com,304 948 1163,075-21-2863,01/25/1955,"8557 South Dr",Washington,AZ

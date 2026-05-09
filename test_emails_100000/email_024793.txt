@@ -1,0 +1,14 @@
+INVOICE 656258
+
+Bill To:
+Name: Steven Ramirez
+Email: steven.ramirez2997@example.com
+Phone: (583) 232-2811
+SSN: 990136420
+
+Address: 7754 Maple Ave
+Dallas, GA
+
+Date of Birth: 11/05/2005
+
+Amount Due: $512

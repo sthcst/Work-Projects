@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Lopez,jeffrey.lopez4714@yahoo.com,(491) 845-3293,467631639,11/24/1960,"7217 Spring St",Philadelphia,MA

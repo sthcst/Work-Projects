@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Robinson,nicholas.robinson373@company.com,+1 890-845-5946,130 62 8337,06/15/1987,"6030 West Blvd",Jacksonville,AZ

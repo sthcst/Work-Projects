@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Delgado",
+    "email": "james.delgado5316@business.net",
+    "phone": "(582) 737-9069",
+    "ssn": "486971098",
+    "dob": "03-26-1970",
+    "address": "2373 Fifth St",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

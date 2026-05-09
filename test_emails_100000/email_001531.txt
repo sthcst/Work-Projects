@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Walker",
+    "email": "michelle.walker7711@work.org",
+    "phone": "238 657 7837",
+    "ssn": "944 88 6939",
+    "dob": "08-08-1981",
+    "address": "9187 South Rd",
+    "city": "Austin",
+    "state": "IL"
+  }
+}

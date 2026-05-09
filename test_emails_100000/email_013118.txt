@@ -1,0 +1,14 @@
+INVOICE 850322
+
+Bill To:
+Name: Pamela Lewis
+Email: pamela.lewis6674@mail.com
+Phone: (309) 551-1611
+SSN: 633 01 6021
+
+Address: 7978 East St
+Chicago, TN
+
+Date of Birth: 25/04/1975
+
+Amount Due: $4776

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Sanchez",
+    "email": "daniel.sanchez3951@yahoo.com",
+    "phone": "296-872-9363",
+    "ssn": "692 62 9973",
+    "dob": "21/06/1978",
+    "address": "4656 Second Way",
+    "city": "Jacksonville",
+    "state": "OH"
+  }
+}

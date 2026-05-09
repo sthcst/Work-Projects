@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Flores",
+    "email": "charles.flores1932@yahoo.com",
+    "phone": "249-504-9418",
+    "ssn": "412-10-4909",
+    "dob": "04/09/1984",
+    "address": "6078 Fifth Ln",
+    "city": "Austin",
+    "state": "AZ"
+  }
+}

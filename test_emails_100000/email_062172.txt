@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Phillips
+  email: katherine.phillips5612@company.com
+  phone: 830 862 3033
+  ssn: 478 44 2786
+  dob: 7/15/1995
+  address: 1484 Spring Rd
+  city: Chicago
+  state: WI

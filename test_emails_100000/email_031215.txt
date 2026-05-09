@@ -1,0 +1,14 @@
+INVOICE 464590
+
+Bill To:
+Name: Christopher Parker
+Email: christopher.parker1962@example.com
+Phone: 923 963 6562
+SSN: 085 70 6511
+
+Address: 1881 Maple Ave
+San Antonio, DC
+
+Date of Birth: 2/3/1974
+
+Amount Due: $9894

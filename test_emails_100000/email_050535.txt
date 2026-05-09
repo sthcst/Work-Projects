@@ -1,0 +1,14 @@
+INVOICE 322844
+
+Bill To:
+Name: Charles Lopez
+Email: charles.lopez7484@outlook.com
+Phone: 410-617-6745
+SSN: 255156754
+
+Address: 4353 Maple Blvd
+Philadelphia, PA
+
+Date of Birth: 07-02-1984
+
+Amount Due: $1192

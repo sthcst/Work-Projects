@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Nelson
+  email: sarah.nelson5667@outlook.com
+  phone: (295) 702-1964
+  ssn: 797 48 5157
+  dob: 04-06-1981
+  address: 3746 South Way
+  city: San Jose
+  state: OH

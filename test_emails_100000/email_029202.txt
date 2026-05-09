@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Davis,jane.davis3583@outlook.com,511-516-7731,681 80 5912,07/06/1964,"5552 Birch Ln",Washington,CO

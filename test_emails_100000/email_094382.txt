@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Reeves
+  email: daniel.reeves217@mail.com
+  phone: +1 812-920-8606
+  ssn: 146-17-3462
+  dob: 05/01/1995
+  address: 4358 First Court
+  city: Los Angeles
+  state: GA

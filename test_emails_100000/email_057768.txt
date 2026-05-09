@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Campbell",
+    "email": "michael.campbell6457@business.net",
+    "phone": "(909) 374-9026",
+    "ssn": "808374074",
+    "dob": "03/05/1955",
+    "address": "667 Fourth Way",
+    "city": "Philadelphia",
+    "state": "MA"
+  }
+}

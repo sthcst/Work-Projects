@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Jones,sarah.jones120@outlook.com,(842) 452-6174,406-72-9992,11-24-1979,"7702 Sixth Blvd",Washington,MO

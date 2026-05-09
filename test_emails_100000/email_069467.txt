@@ -1,0 +1,11 @@
+INCIDENT REPORT
+
+Reported By: Nicholas Lee
+Contact Email: nicholas.lee2297@example.com
+Contact Phone: 880 948 7541
+ID/SSN: 177-34-3932
+Residence: 8088 Third St, Los Angeles, IL
+Birth Date: 06/23/1995
+
+Description: Security incident investigation in progress.
+Status: PENDING

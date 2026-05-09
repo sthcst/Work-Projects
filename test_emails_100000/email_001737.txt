@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Lewis",
+    "email": "maria.lewis6979@mail.com",
+    "phone": "+1 357-887-4696",
+    "ssn": "611 96 8659",
+    "dob": "07/24/1956",
+    "address": "5136 Spring Ave",
+    "city": "Seattle",
+    "state": "MA"
+  }
+}

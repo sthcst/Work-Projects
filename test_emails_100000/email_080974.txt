@@ -1,0 +1,14 @@
+INVOICE 288284
+
+Bill To:
+Name: Jane Sanchez
+Email: jane.sanchez7976@company.com
+Phone: (207) 262-8292
+SSN: 610324699
+
+Address: 5069 West Rd
+San Diego, CA
+
+Date of Birth: 11/26/1972
+
+Amount Due: $2090

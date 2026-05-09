@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Davis,jennifer.davis269@gmail.com,723-709-1436,600 91 5488,25/04/1980,"5629 East Rd",Los Angeles,NJ

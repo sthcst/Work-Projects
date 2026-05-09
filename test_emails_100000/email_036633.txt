@@ -1,0 +1,14 @@
+INVOICE 108980
+
+Bill To:
+Name: Gary Thomas
+Email: gary.thomas121@business.net
+Phone: (950) 532-1130
+SSN: 550-02-4123
+
+Address: 1636 Third Court
+Denver, PA
+
+Date of Birth: 09-12-1995
+
+Amount Due: $3224

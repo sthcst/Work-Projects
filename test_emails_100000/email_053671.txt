@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Peterson",
+    "email": "joshua.peterson7457@example.com",
+    "phone": "+1 558-851-9807",
+    "ssn": "870 43 2182",
+    "dob": "04/12/1971",
+    "address": "9735 Park Blvd",
+    "city": "Phoenix",
+    "state": "WI"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Moore,kimberly.moore7361@gmail.com,867-519-4449,728-85-9711,25/12/1992,"9042 East Dr",Boston,DC

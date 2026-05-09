@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Collins",
+    "email": "ronald.collins1024@company.com",
+    "phone": "445 623 3873",
+    "ssn": "318 73 8928",
+    "dob": "10/13/1980",
+    "address": "6296 Fifth St",
+    "city": "Houston",
+    "state": "DC"
+  }
+}

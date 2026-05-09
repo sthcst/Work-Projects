@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Nunez,john.nunez1833@gmail.com,+1 850-978-6370,623-83-6857,03-15-1978,"5385 Fifth Ave",Chicago,FL

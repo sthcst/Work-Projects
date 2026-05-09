@@ -1,0 +1,14 @@
+INVOICE 265461
+
+Bill To:
+Name: Cynthia Harris
+Email: cynthia.harris5283@example.com
+Phone: +1 939-233-8452
+SSN: 192-71-8861
+
+Address: 5677 Cedar Rd
+Boston, NJ
+
+Date of Birth: 26/07/1991
+
+Amount Due: $2207

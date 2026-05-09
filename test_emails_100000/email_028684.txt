@@ -1,0 +1,9 @@
+contact:
+  name: Gary Ortiz
+  email: gary.ortiz3620@example.com
+  phone: +1 594-363-2947
+  ssn: 513-58-3348
+  dob: 03/10/1958
+  address: 3296 West Court
+  city: Chicago
+  state: MA

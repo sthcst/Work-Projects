@@ -1,0 +1,14 @@
+INVOICE 947915
+
+Bill To:
+Name: Sarah Smith
+Email: sarah.smith9905@company.com
+Phone: 669 527 5789
+SSN: 139-72-8588
+
+Address: 361 West Blvd
+San Jose, MO
+
+Date of Birth: 5/24/1965
+
+Amount Due: $1973

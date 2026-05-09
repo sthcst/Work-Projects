@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Phillips",
+    "email": "emma.phillips4988@example.com",
+    "phone": "+1 322-604-7055",
+    "ssn": "672081071",
+    "dob": "02-24-1958",
+    "address": "7290 First Dr",
+    "city": "San Diego",
+    "state": "VA"
+  }
+}

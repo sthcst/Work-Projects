@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Martin",
+    "email": "joshua.martin1686@outlook.com",
+    "phone": "+1 781-654-8075",
+    "ssn": "701169119",
+    "dob": "3/19/1961",
+    "address": "3290 Birch Dr",
+    "city": "San Jose",
+    "state": "OH"
+  }
+}

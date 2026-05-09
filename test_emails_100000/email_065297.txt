@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Thompson
+  email: kenneth.thompson4125@example.com
+  phone: +1 494-258-2729
+  ssn: 141276799
+  dob: 10/11/1952
+  address: 1444 North Court
+  city: Austin
+  state: FL

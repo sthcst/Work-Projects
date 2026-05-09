@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Campbell",
+    "email": "christine.campbell3202@business.net",
+    "phone": "366-336-1827",
+    "ssn": "045-94-9099",
+    "dob": "07-19-2002",
+    "address": "1941 Second Dr",
+    "city": "Philadelphia",
+    "state": "MO"
+  }
+}

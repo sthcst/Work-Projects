@@ -1,0 +1,9 @@
+contact:
+  name: William Parker
+  email: william.parker3475@company.com
+  phone: (591) 251-6505
+  ssn: 034 03 6686
+  dob: 08-24-1992
+  address: 2823 Main Ln
+  city: Los Angeles
+  state: PA

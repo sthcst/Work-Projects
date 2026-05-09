@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Alvarado",
+    "email": "edward.alvarado4945@business.net",
+    "phone": "+1 407-304-9331",
+    "ssn": "895625337",
+    "dob": "12/10/1970",
+    "address": "8026 Third Way",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

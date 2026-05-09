@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Morris
+  email: michelle.morris7852@company.com
+  phone: +1 540-454-4819
+  ssn: 918709628
+  dob: 08/04/1978
+  address: 458 Sixth Ln
+  city: San Jose
+  state: OH

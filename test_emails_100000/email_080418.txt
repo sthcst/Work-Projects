@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca White",
+    "email": "rebecca.white3564@gmail.com",
+    "phone": "462-896-5716",
+    "ssn": "369-01-7127",
+    "dob": "09/08/1986",
+    "address": "1358 Second Ave",
+    "city": "Denver",
+    "state": "WI"
+  }
+}

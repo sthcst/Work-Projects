@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Ortiz,stephanie.ortiz9413@example.com,(515) 596-3690,893327047,03-19-2004,"5820 First Ln",San Jose,VA

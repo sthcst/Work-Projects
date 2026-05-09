@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Perez
+  email: jeffrey.perez5773@gmail.com
+  phone: (876) 521-6518
+  ssn: 068 45 9836
+  dob: 3/6/1953
+  address: 3046 Sixth Way
+  city: San Diego
+  state: NY

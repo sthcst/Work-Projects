@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Taylor,donald.taylor4660@outlook.com,936 567 5539,951 07 3340,10-18-2001,"8631 Maple Blvd",San Antonio,TX

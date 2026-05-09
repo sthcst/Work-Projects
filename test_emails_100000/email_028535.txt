@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Jackson
+  email: ryan.jackson188@mail.com
+  phone: 477 666 1815
+  ssn: 808 58 5241
+  dob: 4/22/1965
+  address: 6361 Sixth Way
+  city: San Jose
+  state: AZ

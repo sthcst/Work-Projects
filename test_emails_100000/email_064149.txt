@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Davis",
+    "email": "gary.davis2233@gmail.com",
+    "phone": "(331) 799-5422",
+    "ssn": "203223002",
+    "dob": "05-08-1997",
+    "address": "719 Oak Ave",
+    "city": "Washington",
+    "state": "VA"
+  }
+}

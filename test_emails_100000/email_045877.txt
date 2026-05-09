@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Garcia,brian.garcia7580@mail.com,956 583 1006,047625810,2/26/1976,"3856 Pine Blvd",Los Angeles,DC

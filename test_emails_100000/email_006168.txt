@@ -1,0 +1,12 @@
+SUPPORT TICKET #52523
+
+Customer: Ryan Murillo
+Email: ryan.murillo5290@example.com
+Phone: 958 933 5084
+Account: 316209271
+
+Issue Description: Technical problem reported
+DOB on file: 01/27/1999
+Address: 2940 First Ave, San Jose, MA
+
+Status: OPEN

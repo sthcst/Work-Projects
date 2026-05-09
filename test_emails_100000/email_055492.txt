@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Morgan",
+    "email": "shirley.morgan9478@work.org",
+    "phone": "(421) 733-8298",
+    "ssn": "968 62 7449",
+    "dob": "12/11/1956",
+    "address": "4445 Cedar Ave",
+    "city": "San Antonio",
+    "state": "MA"
+  }
+}

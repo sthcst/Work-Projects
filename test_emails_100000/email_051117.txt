@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Romero
+  email: katherine.romero3380@mail.com
+  phone: (723) 885-9553
+  ssn: 226621307
+  dob: 16/05/1966
+  address: 8234 Spring Court
+  city: Seattle
+  state: VA

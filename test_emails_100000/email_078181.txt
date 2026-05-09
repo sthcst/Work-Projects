@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Morgan,ronald.morgan7554@gmail.com,528 712 8736,412616589,10/16/1986,"5082 North Ave",New York,TN

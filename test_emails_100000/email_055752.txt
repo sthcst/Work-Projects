@@ -1,0 +1,9 @@
+contact:
+  name: Gary Ortiz
+  email: gary.ortiz8943@work.org
+  phone: 982 477 7251
+  ssn: 396-71-2116
+  dob: 24/04/1956
+  address: 2974 Spring Dr
+  city: Phoenix
+  state: TX

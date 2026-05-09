@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Williams",
+    "email": "christopher.williams7780@example.com",
+    "phone": "251 778 5570",
+    "ssn": "195958479",
+    "dob": "26/04/1959",
+    "address": "2284 North Court",
+    "city": "Washington",
+    "state": "NY"
+  }
+}

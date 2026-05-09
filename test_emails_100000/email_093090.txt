@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Edwards,pamela.edwards233@gmail.com,735-387-7552,324-30-4882,11-13-1981,"6781 North Rd",Phoenix,AZ

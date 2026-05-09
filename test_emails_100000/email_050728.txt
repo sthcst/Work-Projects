@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Evans,andrew.evans6848@gmail.com,+1 759-814-9919,220-27-4146,07/19/1951,"4264 Oak Court",Phoenix,TX

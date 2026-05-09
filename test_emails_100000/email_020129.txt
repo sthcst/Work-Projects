@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Johnson
+  email: rachel.johnson5448@yahoo.com
+  phone: (823) 834-7683
+  ssn: 172-46-2930
+  dob: 16/05/1957
+  address: 2938 Birch Blvd
+  city: San Jose
+  state: WA

@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Delgado
+  email: cynthia.delgado168@gmail.com
+  phone: +1 712-844-2454
+  ssn: 838-58-7062
+  dob: 1/25/1961
+  address: 1170 Second Ln
+  city: Dallas
+  state: WA

@@ -1,0 +1,9 @@
+contact:
+  name: Richard Gonzalez
+  email: richard.gonzalez9453@yahoo.com
+  phone: +1 673-852-4929
+  ssn: 684-72-9182
+  dob: 8/13/1997
+  address: 3510 Third Dr
+  city: Seattle
+  state: MI

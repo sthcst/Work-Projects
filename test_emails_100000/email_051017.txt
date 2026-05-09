@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Cooper",
+    "email": "kenneth.cooper2447@gmail.com",
+    "phone": "557 558 4565",
+    "ssn": "586 76 4237",
+    "dob": "04/19/2000",
+    "address": "157 South Dr",
+    "city": "Phoenix",
+    "state": "PA"
+  }
+}

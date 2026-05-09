@@ -1,0 +1,14 @@
+INVOICE 873545
+
+Bill To:
+Name: Jennifer Rodriguez
+Email: jennifer.rodriguez5987@yahoo.com
+Phone: 760 836 5607
+SSN: 397574461
+
+Address: 2596 First Dr
+Philadelphia, MI
+
+Date of Birth: 04/07/1953
+
+Amount Due: $4112

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Peterson,richard.peterson3845@business.net,+1 603-512-7788,780-09-8562,03-07-1970,"9580 Maple Way",Austin,GA

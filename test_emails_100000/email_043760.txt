@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Stewart",
+    "email": "christopher.stewart2560@example.com",
+    "phone": "(721) 964-7419",
+    "ssn": "511 68 1337",
+    "dob": "24/01/1981",
+    "address": "2677 Spring Way",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Guerrero,rebecca.guerrero3293@company.com,+1 807-587-9957,108-55-2471,09-28-1966,"7080 Summer Rd",Dallas,TX

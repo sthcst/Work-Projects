@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Reyes",
+    "email": "donald.reyes134@example.com",
+    "phone": "995 977 1526",
+    "ssn": "378937690",
+    "dob": "26/09/1981",
+    "address": "5721 Summer Way",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

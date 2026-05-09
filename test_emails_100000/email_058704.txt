@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Hall
+  email: jeffrey.hall6781@outlook.com
+  phone: 889-940-4971
+  ssn: 709494347
+  dob: 06/10/2005
+  address: 1089 Oak Dr
+  city: Chicago
+  state: IL

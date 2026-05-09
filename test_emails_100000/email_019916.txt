@@ -1,0 +1,12 @@
+SUPPORT TICKET #11627
+
+Customer: James Sanchez
+Email: james.sanchez5241@example.com
+Phone: 308-388-1796
+Account: 324297257
+
+Issue Description: Technical problem reported
+DOB on file: 01/23/1967
+Address: 1119 Fourth Rd, Boston, NC
+
+Status: OPEN

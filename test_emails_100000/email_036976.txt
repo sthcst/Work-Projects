@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Campbell",
+    "email": "charles.campbell9701@outlook.com",
+    "phone": "890-873-1092",
+    "ssn": "618-94-5134",
+    "dob": "04-18-1952",
+    "address": "5207 Main Ln",
+    "city": "Austin",
+    "state": "WA"
+  }
+}

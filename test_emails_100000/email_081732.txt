@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Taylor,rebecca.taylor8200@yahoo.com,273-425-1454,603-39-4834,07/12/1984,"2299 East Ln",Dallas,CO

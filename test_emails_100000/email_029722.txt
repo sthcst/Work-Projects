@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Rogers",
+    "email": "john.rogers8618@mail.com",
+    "phone": "(357) 524-1389",
+    "ssn": "578 27 3404",
+    "dob": "10/03/1983",
+    "address": "2770 North Ln",
+    "city": "Boston",
+    "state": "MO"
+  }
+}

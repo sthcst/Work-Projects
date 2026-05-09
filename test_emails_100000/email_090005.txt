@@ -1,0 +1,9 @@
+contact:
+  name: Ryan White
+  email: ryan.white8832@outlook.com
+  phone: +1 873-858-3772
+  ssn: 036 94 9445
+  dob: 04-13-1974
+  address: 3804 West Ln
+  city: Philadelphia
+  state: WA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Martin,david.martin1771@mail.com,(792) 702-2676,283 46 7557,11/27/1999,"7592 Maple St",Los Angeles,WA

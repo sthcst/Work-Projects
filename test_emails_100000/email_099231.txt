@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Bell,charles.bell6384@yahoo.com,+1 428-948-5736,410 91 2470,2/4/1995,"91 Summer Way",Chicago,NY

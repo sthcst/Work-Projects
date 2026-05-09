@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Sanchez
+  email: pamela.sanchez1576@yahoo.com
+  phone: 365 530 7807
+  ssn: 512-86-1484
+  dob: 05/06/1988
+  address: 9543 Pine Ave
+  city: Jacksonville
+  state: CO

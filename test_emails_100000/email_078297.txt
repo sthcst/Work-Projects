@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Lewis",
+    "email": "george.lewis1495@work.org",
+    "phone": "978 554 2564",
+    "ssn": "400 25 8772",
+    "dob": "4/7/1967",
+    "address": "4946 Summer Way",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

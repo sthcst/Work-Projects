@@ -1,0 +1,14 @@
+INVOICE 433948
+
+Bill To:
+Name: Jane Bell
+Email: jane.bell7760@example.com
+Phone: 351-485-1112
+SSN: 869956241
+
+Address: 378 Main Court
+Boston, IL
+
+Date of Birth: 10/5/1982
+
+Amount Due: $2711

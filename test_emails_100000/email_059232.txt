@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Young
+  email: samantha.young5343@outlook.com
+  phone: (266) 981-1381
+  ssn: 046-66-3291
+  dob: 23/12/1968
+  address: 2481 West Ave
+  city: Houston
+  state: WI

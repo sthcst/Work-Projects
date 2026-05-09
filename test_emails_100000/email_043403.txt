@@ -1,0 +1,14 @@
+INVOICE 562456
+
+Bill To:
+Name: Jessica Flores
+Email: jessica.flores6763@company.com
+Phone: (460) 555-3686
+SSN: 282815199
+
+Address: 5948 Oak Blvd
+Dallas, IL
+
+Date of Birth: 09-13-1955
+
+Amount Due: $9682

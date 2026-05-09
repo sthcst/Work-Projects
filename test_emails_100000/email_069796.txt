@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Peterson",
+    "email": "katherine.peterson4980@gmail.com",
+    "phone": "+1 384-560-6412",
+    "ssn": "512-65-1365",
+    "dob": "07/13/1981",
+    "address": "1934 Third Ave",
+    "city": "San Diego",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Walker,ronald.walker9663@business.net,(962) 899-2960,447791131,12-22-1957,"6328 South Dr",Austin,CA

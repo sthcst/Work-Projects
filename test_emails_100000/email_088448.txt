@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Morgan,brenda.morgan7560@company.com,(308) 664-3660,404 92 1349,6/19/1997,"7310 Elm Rd",Boston,OH

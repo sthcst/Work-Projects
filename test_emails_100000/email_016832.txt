@@ -1,0 +1,9 @@
+contact:
+  name: Maria Wilson
+  email: maria.wilson4938@yahoo.com
+  phone: 694-777-5274
+  ssn: 516763388
+  dob: 9/7/2002
+  address: 5256 Second Ave
+  city: San Diego
+  state: TX

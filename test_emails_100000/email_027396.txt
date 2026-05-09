@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Taylor",
+    "email": "sarah.taylor9003@company.com",
+    "phone": "494-374-9636",
+    "ssn": "829-74-6711",
+    "dob": "23/11/1999",
+    "address": "2381 Spring Ln",
+    "city": "Houston",
+    "state": "OH"
+  }
+}

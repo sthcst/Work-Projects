@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Rogers
+  email: pamela.rogers1845@business.net
+  phone: +1 902-824-1175
+  ssn: 785686211
+  dob: 4/17/1993
+  address: 1744 Fourth Way
+  city: Houston
+  state: NC

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Jackson",
+    "email": "gary.jackson569@company.com",
+    "phone": "(243) 339-7009",
+    "ssn": "762 65 8720",
+    "dob": "04/22/1977",
+    "address": "6326 Maple St",
+    "city": "New York",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Thompson,lauren.thompson203@example.com,496-815-9119,082-46-8418,10/19/1956,"4491 Summer Blvd",Dallas,TX

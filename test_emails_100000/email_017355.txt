@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Robinson",
+    "email": "cynthia.robinson7124@example.com",
+    "phone": "(719) 633-2033",
+    "ssn": "753571841",
+    "dob": "12-17-1966",
+    "address": "9918 East Blvd",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

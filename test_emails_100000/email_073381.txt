@@ -1,0 +1,14 @@
+INVOICE 333427
+
+Bill To:
+Name: Deborah Johnson
+Email: deborah.johnson5057@example.com
+Phone: 871-474-2821
+SSN: 987-50-9367
+
+Address: 1758 Fourth Blvd
+San Diego, FL
+
+Date of Birth: 09/18/1967
+
+Amount Due: $4645

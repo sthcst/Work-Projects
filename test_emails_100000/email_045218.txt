@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Lewis,pamela.lewis7970@work.org,(228) 710-5102,489-21-2452,20/09/1991,"4350 North Ln",Jacksonville,MI

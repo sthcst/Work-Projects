@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Sanchez",
+    "email": "emma.sanchez5959@gmail.com",
+    "phone": "(975) 826-8709",
+    "ssn": "859-37-6788",
+    "dob": "07/11/1950",
+    "address": "6479 North Court",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

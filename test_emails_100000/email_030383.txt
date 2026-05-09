@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Gomez,john.gomez3435@gmail.com,+1 320-479-6510,284-85-1139,24/03/1965,"7013 Maple Court",Houston,CO

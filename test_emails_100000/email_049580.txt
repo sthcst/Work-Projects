@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Carter,kenneth.carter4651@outlook.com,(399) 895-4540,583 20 9880,12/8/1955,"4699 Park Rd",Chicago,PA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Ramirez,edward.ramirez1260@work.org,656 847 8968,042 32 4596,12/1/1980,"7231 West Dr",Dallas,CO

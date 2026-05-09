@@ -1,0 +1,9 @@
+contact:
+  name: Robert Jones
+  email: robert.jones5787@work.org
+  phone: +1 350-434-4847
+  ssn: 344 83 6094
+  dob: 05-28-1991
+  address: 7877 Third St
+  city: San Jose
+  state: NJ

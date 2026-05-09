@@ -1,0 +1,9 @@
+contact:
+  name: Jason Thomas
+  email: jason.thomas9670@company.com
+  phone: 472 707 1318
+  ssn: 614-39-6568
+  dob: 08/26/1950
+  address: 3828 North Rd
+  city: San Diego
+  state: IL

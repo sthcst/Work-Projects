@@ -1,0 +1,9 @@
+contact:
+  name: Angela Miller
+  email: angela.miller571@yahoo.com
+  phone: 622-430-9996
+  ssn: 544 53 3601
+  dob: 08-05-1983
+  address: 1410 Oak Blvd
+  city: New York
+  state: CA

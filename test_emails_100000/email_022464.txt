@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Guerrero",
+    "email": "jason.guerrero2074@mail.com",
+    "phone": "329 285 5393",
+    "ssn": "532-76-8121",
+    "dob": "04-15-1957",
+    "address": "5411 Summer Rd",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

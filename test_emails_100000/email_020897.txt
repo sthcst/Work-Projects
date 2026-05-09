@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Flores",
+    "email": "joshua.flores2815@mail.com",
+    "phone": "+1 826-657-1949",
+    "ssn": "138-52-9397",
+    "dob": "09-09-1985",
+    "address": "7131 Spring Ln",
+    "city": "Phoenix",
+    "state": "NJ"
+  }
+}

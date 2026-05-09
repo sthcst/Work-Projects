@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Thomas,pamela.thomas886@gmail.com,+1 289-273-1470,024-19-8543,09/14/1951,"6199 Second Blvd",Phoenix,AZ

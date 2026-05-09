@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Edwards
+  email: kevin.edwards1725@yahoo.com
+  phone: (320) 475-4788
+  ssn: 784699109
+  dob: 06-02-1985
+  address: 646 North Blvd
+  city: Boston
+  state: IL

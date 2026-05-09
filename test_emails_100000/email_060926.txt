@@ -1,0 +1,9 @@
+contact:
+  name: Richard Collins
+  email: richard.collins1378@gmail.com
+  phone: 616-879-9209
+  ssn: 915 10 9920
+  dob: 09-22-1990
+  address: 104 Maple Blvd
+  city: Denver
+  state: MD

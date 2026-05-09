@@ -1,0 +1,14 @@
+INVOICE 938243
+
+Bill To:
+Name: Rebecca White
+Email: rebecca.white8788@company.com
+Phone: (294) 317-4452
+SSN: 339572961
+
+Address: 5994 South Dr
+Houston, MO
+
+Date of Birth: 23/07/1959
+
+Amount Due: $8380

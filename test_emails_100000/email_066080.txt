@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Cooper,james.cooper8389@gmail.com,957 534 9781,352 30 7742,4/25/1969,"7337 East Ave",Jacksonville,NJ

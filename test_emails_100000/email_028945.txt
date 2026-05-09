@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Davis
+  email: nicholas.davis8696@business.net
+  phone: (826) 517-9658
+  ssn: 103 02 9372
+  dob: 2/18/1977
+  address: 9172 Pine St
+  city: Los Angeles
+  state: CA

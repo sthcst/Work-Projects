@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Reed",
+    "email": "joshua.reed3388@mail.com",
+    "phone": "+1 665-842-3616",
+    "ssn": "442 46 6099",
+    "dob": "05/20/1951",
+    "address": "30 Park St",
+    "city": "San Jose",
+    "state": "CA"
+  }
+}

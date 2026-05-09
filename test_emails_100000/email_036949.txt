@@ -1,0 +1,9 @@
+contact:
+  name: Angela Reeves
+  email: angela.reeves7352@work.org
+  phone: 871-385-9600
+  ssn: 922 93 9718
+  dob: 09/23/1995
+  address: 1868 South Blvd
+  city: Denver
+  state: CA

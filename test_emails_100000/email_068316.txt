@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Hall,angela.hall793@example.com,882 937 1693,700805127,27/07/1994,"2199 Pine Ave",San Diego,TN

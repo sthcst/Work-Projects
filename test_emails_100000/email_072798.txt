@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Rodriguez",
+    "email": "pamela.rodriguez4546@company.com",
+    "phone": "214-671-3006",
+    "ssn": "748-39-8773",
+    "dob": "22/01/1977",
+    "address": "4080 Spring Blvd",
+    "city": "Washington",
+    "state": "IL"
+  }
+}

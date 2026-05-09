@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Rodriguez",
+    "email": "steven.rodriguez274@outlook.com",
+    "phone": "(804) 608-6879",
+    "ssn": "715963900",
+    "dob": "7/28/1960",
+    "address": "836 Sixth Blvd",
+    "city": "Jacksonville",
+    "state": "WA"
+  }
+}

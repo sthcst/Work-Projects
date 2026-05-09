@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Reeves",
+    "email": "angela.reeves8596@mail.com",
+    "phone": "+1 410-347-9840",
+    "ssn": "376-81-6426",
+    "dob": "07-12-1959",
+    "address": "8127 Spring Court",
+    "city": "Jacksonville",
+    "state": "AZ"
+  }
+}

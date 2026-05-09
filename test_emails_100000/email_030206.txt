@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Alvarado,kathleen.alvarado284@gmail.com,+1 990-828-8128,259 52 3821,01/08/1956,"7470 Oak Blvd",Denver,TN

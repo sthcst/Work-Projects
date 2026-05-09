@@ -1,0 +1,14 @@
+INVOICE 698912
+
+Bill To:
+Name: Nicholas Romero
+Email: nicholas.romero1894@example.com
+Phone: (958) 971-8981
+SSN: 137271380
+
+Address: 4006 Maple Way
+Denver, AZ
+
+Date of Birth: 09-19-1996
+
+Amount Due: $679

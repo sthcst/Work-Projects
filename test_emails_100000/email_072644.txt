@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Ramirez
+  email: amanda.ramirez5994@outlook.com
+  phone: +1 762-942-4379
+  ssn: 583-81-3389
+  dob: 13/10/1992
+  address: 3848 Third Blvd
+  city: Chicago
+  state: AZ

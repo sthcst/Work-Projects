@@ -1,0 +1,9 @@
+contact:
+  name: Steven Anderson
+  email: steven.anderson3955@work.org
+  phone: (491) 968-4753
+  ssn: 051528640
+  dob: 08-18-1998
+  address: 5027 Third Ave
+  city: Seattle
+  state: CO

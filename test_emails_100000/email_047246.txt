@@ -1,0 +1,14 @@
+INVOICE 943115
+
+Bill To:
+Name: Timothy Smith
+Email: timothy.smith687@work.org
+Phone: (430) 444-7505
+SSN: 107-65-1179
+
+Address: 9975 Maple Way
+San Diego, GA
+
+Date of Birth: 6/1/1983
+
+Amount Due: $6437

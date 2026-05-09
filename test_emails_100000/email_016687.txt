@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Ramirez
+  email: joshua.ramirez4282@mail.com
+  phone: 560-564-8922
+  ssn: 394349039
+  dob: 03/18/1954
+  address: 2464 North Ave
+  city: San Antonio
+  state: MO

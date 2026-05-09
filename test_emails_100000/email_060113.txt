@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Jones",
+    "email": "stephanie.jones3621@gmail.com",
+    "phone": "620 276 7865",
+    "ssn": "105 31 2338",
+    "dob": "03-07-1965",
+    "address": "7520 Maple Dr",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

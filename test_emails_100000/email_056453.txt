@@ -1,0 +1,14 @@
+INVOICE 337379
+
+Bill To:
+Name: Joshua Gomez
+Email: joshua.gomez5032@outlook.com
+Phone: (588) 802-7430
+SSN: 280-06-3713
+
+Address: 608 Elm Blvd
+Seattle, MO
+
+Date of Birth: 07-23-1956
+
+Amount Due: $6135

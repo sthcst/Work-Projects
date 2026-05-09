@@ -1,0 +1,9 @@
+contact:
+  name: Emily Miller
+  email: emily.miller5270@gmail.com
+  phone: +1 522-891-2984
+  ssn: 924-16-9372
+  dob: 05-21-1990
+  address: 7245 Second Rd
+  city: New York
+  state: NJ

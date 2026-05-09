@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Young,michelle.young4920@outlook.com,566-525-2012,196-29-1980,16/07/1955,"4490 First Rd",San Jose,WI

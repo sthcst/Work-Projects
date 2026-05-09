@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Martin",
+    "email": "maria.martin105@mail.com",
+    "phone": "316-404-2036",
+    "ssn": "774 94 3980",
+    "dob": "6/21/1960",
+    "address": "212 Cedar Court",
+    "city": "Denver",
+    "state": "MA"
+  }
+}

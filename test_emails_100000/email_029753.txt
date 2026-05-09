@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Nunez
+  email: rebecca.nunez8434@company.com
+  phone: 983 387 9541
+  ssn: 397783232
+  dob: 03-07-1956
+  address: 8056 Spring Blvd
+  city: Boston
+  state: VA

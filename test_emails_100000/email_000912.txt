@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Thompson",
+    "email": "rebecca.thompson2204@outlook.com",
+    "phone": "674 295 2422",
+    "ssn": "973 76 4640",
+    "dob": "23/01/1952",
+    "address": "358 Third Rd",
+    "city": "Seattle",
+    "state": "DC"
+  }
+}

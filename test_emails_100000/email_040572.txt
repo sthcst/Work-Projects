@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Ramirez",
+    "email": "angela.ramirez2424@business.net",
+    "phone": "975 914 3851",
+    "ssn": "048 50 3165",
+    "dob": "06/22/1989",
+    "address": "7322 South Blvd",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

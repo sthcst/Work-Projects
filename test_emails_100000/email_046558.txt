@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Johnson",
+    "email": "rachel.johnson6369@yahoo.com",
+    "phone": "694-579-2427",
+    "ssn": "081119067",
+    "dob": "05-12-1956",
+    "address": "5409 South Ln",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

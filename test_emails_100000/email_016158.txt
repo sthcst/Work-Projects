@@ -1,0 +1,9 @@
+contact:
+  name: George Peterson
+  email: george.peterson9207@company.com
+  phone: 389-666-7304
+  ssn: 572228847
+  dob: 01/02/1956
+  address: 9544 Fifth Way
+  city: Philadelphia
+  state: PA

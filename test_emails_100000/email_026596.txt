@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Johnson",
+    "email": "paul.johnson6307@example.com",
+    "phone": "203-280-6354",
+    "ssn": "575 46 3719",
+    "dob": "21/12/2003",
+    "address": "2691 Spring Court",
+    "city": "Chicago",
+    "state": "PA"
+  }
+}

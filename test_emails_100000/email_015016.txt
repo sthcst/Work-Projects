@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Cooper",
+    "email": "richard.cooper1074@gmail.com",
+    "phone": "+1 338-980-4266",
+    "ssn": "312857504",
+    "dob": "02-07-1981",
+    "address": "5160 West Ln",
+    "city": "Houston",
+    "state": "CA"
+  }
+}

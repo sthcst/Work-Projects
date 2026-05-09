@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Lewis",
+    "email": "kimberly.lewis896@gmail.com",
+    "phone": "277-400-4529",
+    "ssn": "744-07-3243",
+    "dob": "11/12/1986",
+    "address": "8097 Cedar Dr",
+    "city": "Boston",
+    "state": "CA"
+  }
+}

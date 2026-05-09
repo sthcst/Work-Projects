@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Reed",
+    "email": "brenda.reed6760@yahoo.com",
+    "phone": "(346) 939-8819",
+    "ssn": "609195934",
+    "dob": "11-03-1977",
+    "address": "6253 West Ln",
+    "city": "Philadelphia",
+    "state": "TN"
+  }
+}

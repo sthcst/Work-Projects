@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Jackson
+  email: jacob.jackson7818@outlook.com
+  phone: 854 463 9466
+  ssn: 479259835
+  dob: 01/02/1954
+  address: 5482 Pine Court
+  city: Boston
+  state: WA

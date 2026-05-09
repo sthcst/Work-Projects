@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Nunez
+  email: katherine.nunez1059@gmail.com
+  phone: +1 746-765-1079
+  ssn: 931 71 8367
+  dob: 27/12/1959
+  address: 6424 Elm Blvd
+  city: Houston
+  state: IL

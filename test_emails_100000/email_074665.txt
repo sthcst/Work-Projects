@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Guerrero,timothy.guerrero5429@example.com,227 208 1326,003-05-3344,07/11/1965,"6235 Cedar Blvd",New York,MI

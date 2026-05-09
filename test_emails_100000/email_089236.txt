@@ -1,0 +1,14 @@
+INVOICE 505110
+
+Bill To:
+Name: Joseph Lopez
+Email: joseph.lopez9936@example.com
+Phone: +1 563-457-3971
+SSN: 551882063
+
+Address: 324 Second Rd
+San Diego, TX
+
+Date of Birth: 04/04/1952
+
+Amount Due: $5945

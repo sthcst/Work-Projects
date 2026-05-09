@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Hernandez",
+    "email": "jessica.hernandez3173@yahoo.com",
+    "phone": "+1 432-581-2738",
+    "ssn": "740 76 9313",
+    "dob": "12/10/2002",
+    "address": "5339 South Ave",
+    "city": "San Antonio",
+    "state": "MO"
+  }
+}

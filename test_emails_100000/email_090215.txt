@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Parker",
+    "email": "paul.parker9391@business.net",
+    "phone": "+1 843-377-1856",
+    "ssn": "840266542",
+    "dob": "01/18/1969",
+    "address": "7683 East Dr",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

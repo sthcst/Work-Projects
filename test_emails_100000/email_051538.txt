@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Perez,angela.perez1868@yahoo.com,217-944-6477,210 03 1493,04-07-1983,"917 Third Way",Philadelphia,WA

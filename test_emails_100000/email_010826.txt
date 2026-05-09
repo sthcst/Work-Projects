@@ -1,0 +1,14 @@
+INVOICE 324317
+
+Bill To:
+Name: Christopher Moore
+Email: christopher.moore392@company.com
+Phone: (217) 616-5112
+SSN: 290913511
+
+Address: 7879 Birch Ave
+Chicago, MO
+
+Date of Birth: 20/09/1962
+
+Amount Due: $9585

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Nunez,jane.nunez2560@gmail.com,355 570 3781,367 20 5611,05-25-1985,"9549 Park Dr",San Diego,IL

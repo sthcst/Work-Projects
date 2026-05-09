@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Reyes",
+    "email": "jane.reyes6634@example.com",
+    "phone": "(356) 424-4621",
+    "ssn": "703-45-6067",
+    "dob": "07/28/1978",
+    "address": "2773 Birch Ln",
+    "city": "Austin",
+    "state": "FL"
+  }
+}

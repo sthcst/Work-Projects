@@ -1,0 +1,14 @@
+INVOICE 591852
+
+Bill To:
+Name: Richard Morris
+Email: richard.morris8360@example.com
+Phone: (811) 578-6012
+SSN: 152382698
+
+Address: 6120 East Blvd
+Washington, GA
+
+Date of Birth: 11/24/2003
+
+Amount Due: $1829

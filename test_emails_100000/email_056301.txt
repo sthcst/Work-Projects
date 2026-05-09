@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Wilson",
+    "email": "edward.wilson5329@mail.com",
+    "phone": "(800) 707-4216",
+    "ssn": "492-96-4666",
+    "dob": "15/03/1989",
+    "address": "9741 Fifth Court",
+    "city": "Seattle",
+    "state": "AZ"
+  }
+}

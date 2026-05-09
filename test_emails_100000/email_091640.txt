@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Thomas,angela.thomas8252@gmail.com,864 691 9351,536476738,22/06/1968,"4700 Third Ln",San Diego,CA

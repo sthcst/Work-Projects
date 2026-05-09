@@ -1,0 +1,9 @@
+contact:
+  name: Jessica White
+  email: jessica.white7104@business.net
+  phone: 537 334 3000
+  ssn: 053-92-1320
+  dob: 01-22-1967
+  address: 4334 Second Ln
+  city: Philadelphia
+  state: CO

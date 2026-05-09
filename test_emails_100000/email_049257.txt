@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Martinez,edward.martinez9025@company.com,(287) 893-9396,619 98 3709,14/07/2004,"5896 Birch Way",Jacksonville,FL

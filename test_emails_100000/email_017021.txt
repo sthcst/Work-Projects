@@ -1,0 +1,14 @@
+INVOICE 997539
+
+Bill To:
+Name: James Jimenez
+Email: james.jimenez1451@example.com
+Phone: (953) 396-9935
+SSN: 360-81-6936
+
+Address: 8997 Pine Ave
+San Jose, WA
+
+Date of Birth: 08/08/1968
+
+Amount Due: $6062

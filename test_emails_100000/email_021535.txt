@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Lee
+  email: nicole.lee326@outlook.com
+  phone: 954-936-5926
+  ssn: 285609534
+  dob: 07/06/1991
+  address: 6561 North Blvd
+  city: Philadelphia
+  state: WA

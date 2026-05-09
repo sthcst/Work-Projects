@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Dominguez
+  email: jeffrey.dominguez333@mail.com
+  phone: (729) 965-3366
+  ssn: 059 62 8894
+  dob: 04/01/1990
+  address: 7997 East Court
+  city: Denver
+  state: TX

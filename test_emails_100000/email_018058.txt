@@ -1,0 +1,14 @@
+INVOICE 699708
+
+Bill To:
+Name: Maria Flores
+Email: maria.flores1426@example.com
+Phone: +1 809-239-6048
+SSN: 595-71-1831
+
+Address: 4156 Pine Court
+New York, DC
+
+Date of Birth: 7/12/1952
+
+Amount Due: $4284

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Clark",
+    "email": "joseph.clark9799@example.com",
+    "phone": "+1 595-533-7640",
+    "ssn": "523 67 2117",
+    "dob": "07/02/1992",
+    "address": "792 Oak Ln",
+    "city": "Boston",
+    "state": "MI"
+  }
+}

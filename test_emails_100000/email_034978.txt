@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Moore",
+    "email": "michael.moore8325@gmail.com",
+    "phone": "894 974 1264",
+    "ssn": "904-69-8698",
+    "dob": "28/08/1966",
+    "address": "2827 North Way",
+    "city": "Phoenix",
+    "state": "WI"
+  }
+}

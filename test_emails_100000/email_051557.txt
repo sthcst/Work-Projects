@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Brown,kenneth.brown955@company.com,(823) 846-4110,508524401,06-11-1997,"1191 South Dr",Austin,NJ

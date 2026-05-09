@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Dominguez,anna.dominguez2685@mail.com,329 535 9811,869-83-8105,03/28/1951,"4286 Fifth Rd",San Antonio,MI

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Lee",
+    "email": "ryan.lee1674@mail.com",
+    "phone": "+1 820-387-5216",
+    "ssn": "123-59-8715",
+    "dob": "02/28/1987",
+    "address": "3954 Main St",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

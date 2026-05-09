@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Lewis",
+    "email": "pamela.lewis4320@gmail.com",
+    "phone": "496 263 1566",
+    "ssn": "861-13-3962",
+    "dob": "8/19/1964",
+    "address": "5372 Second Dr",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

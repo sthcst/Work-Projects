@@ -1,0 +1,12 @@
+SUPPORT TICKET #95482
+
+Customer: Gary Moore
+Email: gary.moore857@example.com
+Phone: (916) 779-9607
+Account: 712-81-9418
+
+Issue Description: Technical problem reported
+DOB on file: 06-07-2002
+Address: 1254 West Way, Washington, WA
+
+Status: OPEN

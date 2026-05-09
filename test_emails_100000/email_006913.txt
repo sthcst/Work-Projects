@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Perez
+  email: kenneth.perez6006@company.com
+  phone: 703-600-9848
+  ssn: 973-50-5079
+  dob: 02-06-1998
+  address: 3341 Third Court
+  city: Los Angeles
+  state: GA

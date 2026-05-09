@@ -1,0 +1,14 @@
+INVOICE 299109
+
+Bill To:
+Name: Kimberly Phillips
+Email: kimberly.phillips3754@example.com
+Phone: +1 592-263-6579
+SSN: 854348737
+
+Address: 6844 Oak Ln
+Chicago, CA
+
+Date of Birth: 01/24/1992
+
+Amount Due: $5626

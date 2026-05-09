@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Bell
+  email: anthony.bell1132@work.org
+  phone: +1 699-400-5063
+  ssn: 027-63-4648
+  dob: 4/11/1953
+  address: 3953 North Ln
+  city: San Jose
+  state: WA

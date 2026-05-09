@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Rodriguez,emily.rodriguez7821@outlook.com,389-928-7912,377-74-8228,02/12/1968,"4788 First Dr",San Antonio,NJ

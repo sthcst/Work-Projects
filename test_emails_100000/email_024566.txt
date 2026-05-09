@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Garcia",
+    "email": "robert.garcia6315@gmail.com",
+    "phone": "868 653 9153",
+    "ssn": "653-32-8968",
+    "dob": "16/10/1962",
+    "address": "5524 North Ave",
+    "city": "San Antonio",
+    "state": "CA"
+  }
+}

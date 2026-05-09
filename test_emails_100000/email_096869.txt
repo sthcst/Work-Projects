@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Bell",
+    "email": "gary.bell81@company.com",
+    "phone": "+1 987-292-8718",
+    "ssn": "978-43-7096",
+    "dob": "08/12/1997",
+    "address": "8746 Oak Court",
+    "city": "Boston",
+    "state": "MI"
+  }
+}

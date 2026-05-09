@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Murillo,michael.murillo1309@company.com,+1 697-495-2904,649 20 6359,02/11/1998,"9088 East Dr",Washington,TX

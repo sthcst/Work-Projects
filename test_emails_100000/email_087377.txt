@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Thomas",
+    "email": "kathleen.thomas5933@business.net",
+    "phone": "(206) 928-9356",
+    "ssn": "560571175",
+    "dob": "07-12-2002",
+    "address": "3333 Oak Ln",
+    "city": "Phoenix",
+    "state": "AZ"
+  }
+}

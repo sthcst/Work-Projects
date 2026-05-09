@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Thomas
+  email: daniel.thomas8932@outlook.com
+  phone: +1 566-221-7849
+  ssn: 539498669
+  dob: 12-19-1964
+  address: 501 Maple St
+  city: Houston
+  state: MI

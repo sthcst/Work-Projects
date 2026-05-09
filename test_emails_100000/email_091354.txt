@@ -1,0 +1,14 @@
+INVOICE 196313
+
+Bill To:
+Name: Sarah Robinson
+Email: sarah.robinson7557@outlook.com
+Phone: 382 487 3974
+SSN: 701837664
+
+Address: 5367 Oak Rd
+Phoenix, DC
+
+Date of Birth: 10/01/1968
+
+Amount Due: $3299

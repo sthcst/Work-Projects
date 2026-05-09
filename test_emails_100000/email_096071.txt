@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Reeves",
+    "email": "shirley.reeves372@outlook.com",
+    "phone": "413 499 7720",
+    "ssn": "633806742",
+    "dob": "20/05/1995",
+    "address": "7986 Spring Court",
+    "city": "Washington",
+    "state": "WI"
+  }
+}

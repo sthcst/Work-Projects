@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Reed",
+    "email": "deborah.reed5935@mail.com",
+    "phone": "907-420-2468",
+    "ssn": "271641250",
+    "dob": "20/12/1995",
+    "address": "1184 Cedar Dr",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

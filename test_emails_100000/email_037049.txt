@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Peterson",
+    "email": "christine.peterson7952@outlook.com",
+    "phone": "581-581-7959",
+    "ssn": "577 24 7060",
+    "dob": "3/18/1964",
+    "address": "7487 Pine Way",
+    "city": "San Jose",
+    "state": "DC"
+  }
+}

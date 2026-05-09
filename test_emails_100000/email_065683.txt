@@ -1,0 +1,14 @@
+INVOICE 114647
+
+Bill To:
+Name: Daniel Anderson
+Email: daniel.anderson5109@company.com
+Phone: (577) 421-8606
+SSN: 084 56 2050
+
+Address: 9027 Sixth Rd
+Denver, WA
+
+Date of Birth: 05/28/1973
+
+Amount Due: $320

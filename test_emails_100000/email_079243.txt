@@ -1,0 +1,9 @@
+contact:
+  name: Angela Bell
+  email: angela.bell9975@company.com
+  phone: (985) 578-4340
+  ssn: 071-59-9546
+  dob: 04-04-1961
+  address: 5080 Birch Way
+  city: Washington
+  state: NC

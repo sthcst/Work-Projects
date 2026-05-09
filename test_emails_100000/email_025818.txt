@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Miller",
+    "email": "emily.miller4077@outlook.com",
+    "phone": "+1 521-247-5313",
+    "ssn": "502-12-4825",
+    "dob": "4/28/1953",
+    "address": "1112 Elm Dr",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

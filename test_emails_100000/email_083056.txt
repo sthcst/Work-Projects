@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Clark",
+    "email": "jeffrey.clark8512@mail.com",
+    "phone": "+1 444-471-3447",
+    "ssn": "996 06 2892",
+    "dob": "08/04/1956",
+    "address": "2238 Fifth Court",
+    "city": "Austin",
+    "state": "NJ"
+  }
+}

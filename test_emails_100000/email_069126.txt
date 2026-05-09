@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Jackson",
+    "email": "daniel.jackson2957@example.com",
+    "phone": "914-464-5994",
+    "ssn": "856638626",
+    "dob": "11/02/1986",
+    "address": "9787 Fourth Way",
+    "city": "Seattle",
+    "state": "NJ"
+  }
+}

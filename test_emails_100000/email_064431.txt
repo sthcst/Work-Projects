@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Carter
+  email: lauren.carter2972@mail.com
+  phone: (581) 475-6747
+  ssn: 067892248
+  dob: 5/1/1999
+  address: 3367 Elm Dr
+  city: Austin
+  state: NJ

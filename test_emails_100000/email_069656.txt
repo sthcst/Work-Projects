@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Collins",
+    "email": "helen.collins5237@business.net",
+    "phone": "(260) 785-4417",
+    "ssn": "852 31 4322",
+    "dob": "17/05/2002",
+    "address": "6647 Pine St",
+    "city": "San Jose",
+    "state": "CA"
+  }
+}

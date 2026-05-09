@@ -1,0 +1,9 @@
+contact:
+  name: Richard Phillips
+  email: richard.phillips2226@work.org
+  phone: (880) 805-2257
+  ssn: 447 04 1473
+  dob: 11/06/2005
+  address: 9523 Third Rd
+  city: Denver
+  state: NJ

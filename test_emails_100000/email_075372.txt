@@ -1,0 +1,14 @@
+INVOICE 585418
+
+Bill To:
+Name: Lauren Gomez
+Email: lauren.gomez6842@example.com
+Phone: 975 303 9918
+SSN: 249878457
+
+Address: 3612 South Ln
+Denver, MA
+
+Date of Birth: 27/10/1952
+
+Amount Due: $4642

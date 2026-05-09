@@ -1,0 +1,9 @@
+contact:
+  name: Mark Gomez
+  email: mark.gomez9432@yahoo.com
+  phone: 725-739-9467
+  ssn: 434-27-8054
+  dob: 03/28/1990
+  address: 6515 Cedar Way
+  city: Washington
+  state: PA

@@ -1,0 +1,14 @@
+INVOICE 963817
+
+Bill To:
+Name: Jeffrey Ramirez
+Email: jeffrey.ramirez5965@example.com
+Phone: 512 562 9459
+SSN: 758 99 1089
+
+Address: 5988 Oak Court
+San Antonio, MA
+
+Date of Birth: 10-16-1973
+
+Amount Due: $7123

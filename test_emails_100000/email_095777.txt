@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Stewart",
+    "email": "gary.stewart2799@mail.com",
+    "phone": "637 287 3065",
+    "ssn": "962 31 1023",
+    "dob": "02-11-1974",
+    "address": "1132 Maple Court",
+    "city": "Los Angeles",
+    "state": "AZ"
+  }
+}

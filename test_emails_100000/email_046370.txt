@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Brown,robert.brown8452@business.net,344-320-3518,013-96-3569,04/28/1963,"8257 Maple Ln",New York,AZ

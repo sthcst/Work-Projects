@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Nelson",
+    "email": "angela.nelson8904@example.com",
+    "phone": "+1 464-343-6726",
+    "ssn": "008-44-6290",
+    "dob": "2/9/1959",
+    "address": "6940 South Way",
+    "city": "Jacksonville",
+    "state": "MO"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Peterson,michelle.peterson6318@company.com,+1 289-528-6631,259-40-3549,23/05/1973,"1432 North Rd",San Diego,MI

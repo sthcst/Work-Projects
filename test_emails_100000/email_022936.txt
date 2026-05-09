@@ -1,0 +1,9 @@
+contact:
+  name: Emma Alvarado
+  email: emma.alvarado6788@example.com
+  phone: 322-326-4515
+  ssn: 303909129
+  dob: 25/08/1950
+  address: 957 East Court
+  city: Dallas
+  state: CA

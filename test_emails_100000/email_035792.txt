@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Peterson",
+    "email": "jessica.peterson4450@gmail.com",
+    "phone": "517 361 6404",
+    "ssn": "840754689",
+    "dob": "01-12-1970",
+    "address": "7740 Maple Blvd",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

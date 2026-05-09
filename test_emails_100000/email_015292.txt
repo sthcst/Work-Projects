@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Guerrero,anthony.guerrero1871@work.org,753 530 5208,032 20 6530,1/2/1998,"8700 Sixth Ave",Los Angeles,CA

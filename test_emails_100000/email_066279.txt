@@ -1,0 +1,9 @@
+contact:
+  name: Jane Miller
+  email: jane.miller3856@mail.com
+  phone: 730-292-3352
+  ssn: 339-61-6824
+  dob: 05/12/1989
+  address: 8639 Third Ln
+  city: Los Angeles
+  state: TX

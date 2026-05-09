@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Robinson",
+    "email": "emily.robinson4579@mail.com",
+    "phone": "(773) 884-9141",
+    "ssn": "927-82-1072",
+    "dob": "09/06/1982",
+    "address": "573 Summer Blvd",
+    "city": "Austin",
+    "state": "IL"
+  }
+}

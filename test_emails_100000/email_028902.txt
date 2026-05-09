@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Cooper",
+    "email": "pamela.cooper6477@business.net",
+    "phone": "619 255 1180",
+    "ssn": "994 41 9993",
+    "dob": "04/24/1987",
+    "address": "5072 Second St",
+    "city": "Dallas",
+    "state": "WA"
+  }
+}

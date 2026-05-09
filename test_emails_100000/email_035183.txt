@@ -1,0 +1,14 @@
+INVOICE 279261
+
+Bill To:
+Name: Ashley Gomez
+Email: ashley.gomez5767@company.com
+Phone: 286 881 6713
+SSN: 503-84-8939
+
+Address: 6536 Main Way
+New York, CO
+
+Date of Birth: 1/21/1957
+
+Amount Due: $3003

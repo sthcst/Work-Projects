@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Nelson",
+    "email": "nicole.nelson5257@mail.com",
+    "phone": "586 817 6878",
+    "ssn": "390-74-7142",
+    "dob": "08-15-1969",
+    "address": "8738 Elm Blvd",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 823358
+
+Bill To:
+Name: Joshua Jones
+Email: joshua.jones8819@mail.com
+Phone: +1 531-335-7065
+SSN: 399 81 4546
+
+Address: 5858 North Blvd
+Washington, MA
+
+Date of Birth: 05-09-1997
+
+Amount Due: $4548

@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Davis
+  email: amanda.davis4063@company.com
+  phone: 742 415 7111
+  ssn: 579615713
+  dob: 10/16/1957
+  address: 9883 Fifth St
+  city: Denver
+  state: WA

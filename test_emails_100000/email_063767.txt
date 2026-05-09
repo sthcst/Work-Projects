@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Young",
+    "email": "lisa.young734@mail.com",
+    "phone": "(451) 924-5436",
+    "ssn": "663364756",
+    "dob": "24/09/1962",
+    "address": "1903 Birch Ln",
+    "city": "New York",
+    "state": "FL"
+  }
+}

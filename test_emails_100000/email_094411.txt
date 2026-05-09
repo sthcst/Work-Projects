@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Rodriguez
+  email: pamela.rodriguez7704@yahoo.com
+  phone: (619) 317-9576
+  ssn: 753 20 9645
+  dob: 02/15/1977
+  address: 6973 Sixth Court
+  city: Philadelphia
+  state: MO

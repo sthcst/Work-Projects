@@ -1,0 +1,14 @@
+INVOICE 805546
+
+Bill To:
+Name: Gary Gomez
+Email: gary.gomez1340@company.com
+Phone: 878 825 1988
+SSN: 082211985
+
+Address: 8824 Spring Way
+Los Angeles, MI
+
+Date of Birth: 7/22/1988
+
+Amount Due: $2446

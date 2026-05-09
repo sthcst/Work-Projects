@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Reyes,michelle.reyes3952@business.net,504 847 3722,398 71 1805,4/9/1998,"7749 East Blvd",Seattle,MI

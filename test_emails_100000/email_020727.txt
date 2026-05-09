@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Lopez,ronald.lopez7000@example.com,(375) 717-2119,952 47 3982,26/02/1997,"2783 Sixth Ln",Jacksonville,MO

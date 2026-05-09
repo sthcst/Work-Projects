@@ -1,0 +1,14 @@
+INVOICE 159831
+
+Bill To:
+Name: Michelle Sanchez
+Email: michelle.sanchez4877@example.com
+Phone: 614 775 2136
+SSN: 008-81-7694
+
+Address: 1750 Park Way
+Washington, GA
+
+Date of Birth: 3/19/1995
+
+Amount Due: $3697

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Parker",
+    "email": "samantha.parker4563@business.net",
+    "phone": "288-682-1660",
+    "ssn": "270-71-6278",
+    "dob": "7/14/1994",
+    "address": "6201 West Ave",
+    "city": "New York",
+    "state": "TX"
+  }
+}

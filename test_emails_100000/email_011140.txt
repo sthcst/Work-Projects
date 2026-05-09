@@ -1,0 +1,9 @@
+contact:
+  name: James Garcia
+  email: james.garcia2879@outlook.com
+  phone: 915 251 3309
+  ssn: 764916806
+  dob: 06-22-1991
+  address: 9538 Oak Blvd
+  city: Chicago
+  state: CA

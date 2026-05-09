@@ -1,0 +1,14 @@
+INVOICE 988248
+
+Bill To:
+Name: Ronald Ramirez
+Email: ronald.ramirez6242@gmail.com
+Phone: 957-381-1681
+SSN: 860-06-4355
+
+Address: 5077 South Blvd
+San Diego, CA
+
+Date of Birth: 12-06-1962
+
+Amount Due: $3700

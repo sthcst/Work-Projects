@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Nelson,lisa.nelson8438@gmail.com,+1 570-519-6821,270 26 3058,09/16/1970,"4577 Spring Ave",Boston,FL

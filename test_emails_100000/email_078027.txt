@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Gomez",
+    "email": "katherine.gomez400@work.org",
+    "phone": "+1 247-596-8526",
+    "ssn": "568 09 2102",
+    "dob": "7/15/1969",
+    "address": "8300 Fourth Blvd",
+    "city": "Seattle",
+    "state": "NC"
+  }
+}

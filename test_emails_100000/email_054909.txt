@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Delgado,brenda.delgado6344@company.com,+1 791-645-8437,960542491,6/7/1955,"3892 East Ave",Phoenix,MA

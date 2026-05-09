@@ -1,0 +1,9 @@
+contact:
+  name: Steven Evans
+  email: steven.evans7759@example.com
+  phone: 458 954 4592
+  ssn: 498 03 1193
+  dob: 3/8/1985
+  address: 969 South Way
+  city: Denver
+  state: TX

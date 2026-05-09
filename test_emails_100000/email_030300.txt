@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Serrano",
+    "email": "katherine.serrano734@work.org",
+    "phone": "(501) 863-8082",
+    "ssn": "590-37-9354",
+    "dob": "01/13/1986",
+    "address": "424 Second Ln",
+    "city": "Seattle",
+    "state": "WA"
+  }
+}

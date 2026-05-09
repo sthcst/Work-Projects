@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Edwards",
+    "email": "william.edwards3264@work.org",
+    "phone": "(510) 657-9139",
+    "ssn": "907361512",
+    "dob": "6/23/1966",
+    "address": "4246 Pine Ln",
+    "city": "Jacksonville",
+    "state": "WI"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Serrano",
+    "email": "nicole.serrano9731@business.net",
+    "phone": "336 706 6386",
+    "ssn": "767725795",
+    "dob": "13/11/1999",
+    "address": "2099 Birch Dr",
+    "city": "Dallas",
+    "state": "OH"
+  }
+}

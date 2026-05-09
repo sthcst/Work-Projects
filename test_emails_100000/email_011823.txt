@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Smith,stephanie.smith9772@example.com,+1 820-248-4229,122-29-4907,8/20/1990,"6211 Maple Court",Austin,AZ

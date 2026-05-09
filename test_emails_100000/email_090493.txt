@@ -1,0 +1,14 @@
+INVOICE 344088
+
+Bill To:
+Name: Lisa Garcia
+Email: lisa.garcia8471@business.net
+Phone: 454-686-9261
+SSN: 765-50-9381
+
+Address: 827 Park Ln
+San Diego, WA
+
+Date of Birth: 05/02/1953
+
+Amount Due: $5373

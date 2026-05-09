@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Peterson,samantha.peterson6873@outlook.com,+1 954-249-4236,818644169,3/6/2002,"8534 Maple Rd",San Antonio,NY

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Garcia",
+    "email": "donald.garcia7980@example.com",
+    "phone": "223 585 3879",
+    "ssn": "716295778",
+    "dob": "28/01/1976",
+    "address": "8468 Summer Rd",
+    "city": "San Antonio",
+    "state": "MA"
+  }
+}

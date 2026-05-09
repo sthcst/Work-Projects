@@ -1,0 +1,14 @@
+INVOICE 319775
+
+Bill To:
+Name: Andrew Reed
+Email: andrew.reed9131@mail.com
+Phone: +1 205-320-4814
+SSN: 543-85-7348
+
+Address: 3732 Pine Dr
+Austin, WI
+
+Date of Birth: 9/5/2002
+
+Amount Due: $5556

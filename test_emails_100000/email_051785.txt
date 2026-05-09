@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Carter,edward.carter8170@mail.com,848 754 3151,751-34-6224,18/06/1985,"8729 South Court",Phoenix,FL

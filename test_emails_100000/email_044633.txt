@@ -1,0 +1,9 @@
+contact:
+  name: Angela Gomez
+  email: angela.gomez8370@example.com
+  phone: +1 885-250-9212
+  ssn: 474-43-9322
+  dob: 11/20/2004
+  address: 1284 Fifth Way
+  city: San Antonio
+  state: TX

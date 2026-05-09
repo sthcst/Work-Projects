@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Dominguez
+  email: cynthia.dominguez6053@example.com
+  phone: 969-258-7184
+  ssn: 284-24-9010
+  dob: 11/4/1969
+  address: 9535 Birch Ln
+  city: Boston
+  state: WA

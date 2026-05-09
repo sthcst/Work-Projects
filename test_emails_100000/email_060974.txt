@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Dominguez",
+    "email": "jane.dominguez576@mail.com",
+    "phone": "+1 279-793-9115",
+    "ssn": "830 69 1279",
+    "dob": "12/03/1984",
+    "address": "5674 Pine Dr",
+    "city": "Austin",
+    "state": "NJ"
+  }
+}

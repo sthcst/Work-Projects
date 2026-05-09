@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Alvarado",
+    "email": "michelle.alvarado2169@example.com",
+    "phone": "(432) 312-4204",
+    "ssn": "511 11 9524",
+    "dob": "9/5/1966",
+    "address": "3529 North Blvd",
+    "city": "Dallas",
+    "state": "DC"
+  }
+}

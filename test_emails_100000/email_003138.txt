@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Edwards",
+    "email": "anna.edwards9988@yahoo.com",
+    "phone": "(726) 803-3440",
+    "ssn": "121608104",
+    "dob": "7/26/1953",
+    "address": "8714 Park Dr",
+    "city": "Washington",
+    "state": "TN"
+  }
+}

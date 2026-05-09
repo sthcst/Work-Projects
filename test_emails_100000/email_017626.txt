@@ -1,0 +1,14 @@
+INVOICE 746919
+
+Bill To:
+Name: William Parker
+Email: william.parker1598@mail.com
+Phone: 837 419 6894
+SSN: 946-20-1049
+
+Address: 483 Pine Dr
+Seattle, VA
+
+Date of Birth: 12/11/1980
+
+Amount Due: $6049

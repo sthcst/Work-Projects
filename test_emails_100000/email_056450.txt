@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Bell",
+    "email": "samantha.bell7876@mail.com",
+    "phone": "920 857 9132",
+    "ssn": "307-99-7001",
+    "dob": "06-08-1975",
+    "address": "3688 Second Court",
+    "city": "San Jose",
+    "state": "AZ"
+  }
+}

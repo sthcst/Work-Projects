@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Young,james.young3056@business.net,(507) 904-8625,922-29-1584,09/10/1998,"2461 Cedar Rd",Austin,PA

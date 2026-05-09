@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Hernandez",
+    "email": "kenneth.hernandez1060@example.com",
+    "phone": "325 826 7110",
+    "ssn": "200-23-1538",
+    "dob": "12/11/1964",
+    "address": "4769 Park Court",
+    "city": "Denver",
+    "state": "MA"
+  }
+}

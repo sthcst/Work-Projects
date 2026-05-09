@@ -1,0 +1,14 @@
+INVOICE 340506
+
+Bill To:
+Name: Ryan Young
+Email: ryan.young7289@example.com
+Phone: 655 270 4998
+SSN: 012 78 2540
+
+Address: 4121 Pine Ave
+Philadelphia, FL
+
+Date of Birth: 04-10-1965
+
+Amount Due: $4728

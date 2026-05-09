@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Young
+  email: michelle.young9848@mail.com
+  phone: +1 712-453-7107
+  ssn: 889-38-8103
+  dob: 04-23-1973
+  address: 5477 North Way
+  city: Houston
+  state: NJ

@@ -1,0 +1,14 @@
+INVOICE 302825
+
+Bill To:
+Name: Pamela Peterson
+Email: pamela.peterson3177@business.net
+Phone: 484-854-5013
+SSN: 624-82-6722
+
+Address: 118 Oak Dr
+Los Angeles, TN
+
+Date of Birth: 20/11/1982
+
+Amount Due: $3365

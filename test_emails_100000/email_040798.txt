@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Carter,anna.carter5169@mail.com,409-475-9510,921732350,09-21-1997,"975 Pine Way",Austin,WI

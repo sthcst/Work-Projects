@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Martinez",
+    "email": "richard.martinez962@business.net",
+    "phone": "242 709 5106",
+    "ssn": "894-74-7117",
+    "dob": "4/26/1961",
+    "address": "3647 First Way",
+    "city": "Denver",
+    "state": "VA"
+  }
+}

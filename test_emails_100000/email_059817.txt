@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Lewis,daniel.lewis567@yahoo.com,765-511-1925,142 58 8962,5/2/1973,"8629 Summer Way",Dallas,PA

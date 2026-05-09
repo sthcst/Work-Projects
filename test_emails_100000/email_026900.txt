@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Taylor",
+    "email": "rachel.taylor5@gmail.com",
+    "phone": "(714) 261-3259",
+    "ssn": "010-21-2759",
+    "dob": "01-17-1967",
+    "address": "5351 Cedar Way",
+    "city": "Dallas",
+    "state": "WA"
+  }
+}

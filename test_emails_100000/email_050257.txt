@@ -1,0 +1,14 @@
+INVOICE 227641
+
+Bill To:
+Name: Paul Thomas
+Email: paul.thomas8821@mail.com
+Phone: 737 631 9723
+SSN: 564087967
+
+Address: 4123 Park Rd
+Philadelphia, CO
+
+Date of Birth: 07/02/2000
+
+Amount Due: $3670

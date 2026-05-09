@@ -1,0 +1,14 @@
+INVOICE 697976
+
+Bill To:
+Name: Timothy Collins
+Email: timothy.collins1761@company.com
+Phone: 263 829 8936
+SSN: 140-60-7236
+
+Address: 7430 South Court
+Washington, CA
+
+Date of Birth: 08/18/1983
+
+Amount Due: $8830

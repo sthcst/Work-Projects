@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Walker,steven.walker2982@example.com,+1 978-675-4769,460498940,07/21/1976,"5032 First Ln",Jacksonville,FL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Nunez",
+    "email": "donald.nunez672@company.com",
+    "phone": "(366) 813-2524",
+    "ssn": "486 11 3825",
+    "dob": "11/10/2005",
+    "address": "5380 Spring Blvd",
+    "city": "New York",
+    "state": "MO"
+  }
+}

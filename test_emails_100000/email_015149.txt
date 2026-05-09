@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Johnson",
+    "email": "michelle.johnson5545@mail.com",
+    "phone": "637 322 7368",
+    "ssn": "059 08 5202",
+    "dob": "23/07/1976",
+    "address": "8239 North Way",
+    "city": "Philadelphia",
+    "state": "WI"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Lee",
+    "email": "brian.lee4225@outlook.com",
+    "phone": "+1 668-678-1359",
+    "ssn": "868-39-6121",
+    "dob": "04/07/1965",
+    "address": "5607 Second Dr",
+    "city": "Chicago",
+    "state": "FL"
+  }
+}

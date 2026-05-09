@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Rodriguez
+  email: anthony.rodriguez35@gmail.com
+  phone: (521) 698-7670
+  ssn: 530-09-5241
+  dob: 10/4/2001
+  address: 3129 North Rd
+  city: Washington
+  state: WA

@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Lopez
+  email: ronald.lopez8208@gmail.com
+  phone: 781 615 3827
+  ssn: 405-81-7404
+  dob: 09-13-1976
+  address: 2865 Pine Rd
+  city: San Jose
+  state: OH

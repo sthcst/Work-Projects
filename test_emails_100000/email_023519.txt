@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Delgado",
+    "email": "kenneth.delgado4174@mail.com",
+    "phone": "723-266-5989",
+    "ssn": "161 02 5866",
+    "dob": "01/18/1974",
+    "address": "914 Elm Way",
+    "city": "Philadelphia",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Morris,mark.morris3729@outlook.com,(884) 322-4573,626168773,06/02/2002,"1409 Fourth Court",Austin,GA

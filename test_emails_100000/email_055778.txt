@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Reyes",
+    "email": "emily.reyes5608@gmail.com",
+    "phone": "282 694 2860",
+    "ssn": "604-85-6093",
+    "dob": "2/1/1968",
+    "address": "8501 Cedar St",
+    "city": "Boston",
+    "state": "WA"
+  }
+}

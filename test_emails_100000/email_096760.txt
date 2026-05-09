@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Serrano",
+    "email": "megan.serrano1696@company.com",
+    "phone": "618-700-9903",
+    "ssn": "788-70-2019",
+    "dob": "08/07/1971",
+    "address": "1653 Main St",
+    "city": "San Jose",
+    "state": "VA"
+  }
+}

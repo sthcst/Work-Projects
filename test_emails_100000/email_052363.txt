@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Reyes,stephanie.reyes5312@company.com,(727) 844-9669,885 05 4397,19/12/1990,"5076 Summer Ln",Philadelphia,TN

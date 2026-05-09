@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Harris",
+    "email": "sarah.harris1915@company.com",
+    "phone": "+1 391-696-4749",
+    "ssn": "847-29-6802",
+    "dob": "01-07-1967",
+    "address": "2586 First Dr",
+    "city": "Los Angeles",
+    "state": "VA"
+  }
+}

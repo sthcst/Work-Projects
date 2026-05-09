@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Dominguez
+  email: nicholas.dominguez9675@example.com
+  phone: (860) 834-1030
+  ssn: 583 19 1794
+  dob: 08-14-1990
+  address: 9463 Birch Court
+  city: Houston
+  state: NY

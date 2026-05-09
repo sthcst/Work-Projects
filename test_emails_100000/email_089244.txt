@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Lee
+  email: kevin.lee5626@outlook.com
+  phone: (920) 224-4465
+  ssn: 326-08-4152
+  dob: 12/17/1995
+  address: 8931 Oak Ave
+  city: Los Angeles
+  state: MD

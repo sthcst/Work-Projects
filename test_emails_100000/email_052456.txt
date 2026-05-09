@@ -1,0 +1,14 @@
+INVOICE 503405
+
+Bill To:
+Name: Michael Jones
+Email: michael.jones5227@outlook.com
+Phone: 512 754 4657
+SSN: 650 23 1621
+
+Address: 2065 Oak St
+Denver, FL
+
+Date of Birth: 01-03-1980
+
+Amount Due: $3486

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Dominguez,ryan.dominguez4824@business.net,835-878-4207,224-82-1279,05/04/1969,"4337 North Court",Austin,FL

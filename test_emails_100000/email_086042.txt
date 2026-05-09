@@ -1,0 +1,14 @@
+INVOICE 879925
+
+Bill To:
+Name: Pamela Thomas
+Email: pamela.thomas8046@yahoo.com
+Phone: 363-266-8945
+SSN: 844-39-8887
+
+Address: 556 First St
+Boston, CA
+
+Date of Birth: 7/24/1970
+
+Amount Due: $9762

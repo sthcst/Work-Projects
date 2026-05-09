@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Taylor
+  email: ryan.taylor4475@mail.com
+  phone: (612) 285-4956
+  ssn: 312 50 7042
+  dob: 08/03/1985
+  address: 8428 Park Court
+  city: Austin
+  state: TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Gonzalez",
+    "email": "amanda.gonzalez2030@mail.com",
+    "phone": "515-539-2523",
+    "ssn": "628 34 4883",
+    "dob": "1/22/1967",
+    "address": "1701 Elm Blvd",
+    "city": "San Diego",
+    "state": "VA"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 421239
+
+Bill To:
+Name: Samantha Davis
+Email: samantha.davis2923@work.org
+Phone: (298) 633-8566
+SSN: 366149845
+
+Address: 1249 Third Ln
+Houston, CA
+
+Date of Birth: 09/01/1971
+
+Amount Due: $5525

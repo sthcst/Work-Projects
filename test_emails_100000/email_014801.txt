@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Serrano,ashley.serrano9365@gmail.com,900 430 6499,372-22-6624,23/07/1970,"1982 Fifth Blvd",Chicago,FL

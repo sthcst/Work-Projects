@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Serrano",
+    "email": "angela.serrano4742@yahoo.com",
+    "phone": "858 389 3450",
+    "ssn": "381-78-2988",
+    "dob": "12/08/1950",
+    "address": "3437 Elm Rd",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

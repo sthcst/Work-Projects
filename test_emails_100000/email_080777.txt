@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Edwards",
+    "email": "michael.edwards4184@work.org",
+    "phone": "676 665 5052",
+    "ssn": "956 45 3300",
+    "dob": "01/12/1978",
+    "address": "7007 Oak Ln",
+    "city": "Los Angeles",
+    "state": "PA"
+  }
+}

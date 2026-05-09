@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Guerrero,brenda.guerrero6192@outlook.com,+1 942-822-1133,527874695,03-10-1976,"417 Maple Ave",Jacksonville,CA

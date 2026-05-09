@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Martin",
+    "email": "emily.martin211@outlook.com",
+    "phone": "(490) 690-9834",
+    "ssn": "646-53-3863",
+    "dob": "7/1/1955",
+    "address": "5611 Pine Rd",
+    "city": "Denver",
+    "state": "VA"
+  }
+}

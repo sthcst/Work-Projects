@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Delgado
+  email: katherine.delgado1252@yahoo.com
+  phone: +1 530-253-3390
+  ssn: 837806446
+  dob: 04-28-1962
+  address: 4832 First St
+  city: Philadelphia
+  state: AZ

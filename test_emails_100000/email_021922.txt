@@ -1,0 +1,14 @@
+INVOICE 488884
+
+Bill To:
+Name: Helen Smith
+Email: helen.smith9308@work.org
+Phone: +1 622-216-6640
+SSN: 136515406
+
+Address: 4924 Summer Dr
+San Antonio, TX
+
+Date of Birth: 05/19/2003
+
+Amount Due: $4751

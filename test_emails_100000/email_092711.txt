@@ -1,0 +1,9 @@
+contact:
+  name: Robert Gomez
+  email: robert.gomez8224@outlook.com
+  phone: 474-263-5029
+  ssn: 922 61 7065
+  dob: 14/02/1992
+  address: 7429 North Rd
+  city: New York
+  state: NC

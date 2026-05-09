@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Martinez",
+    "email": "michelle.martinez8394@company.com",
+    "phone": "627-288-5991",
+    "ssn": "479-15-7209",
+    "dob": "07-21-1971",
+    "address": "4803 Oak Dr",
+    "city": "Philadelphia",
+    "state": "MA"
+  }
+}

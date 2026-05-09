@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Robinson,kenneth.robinson5585@example.com,+1 891-993-8674,962208511,09-16-1984,"6854 Pine Way",Phoenix,TX

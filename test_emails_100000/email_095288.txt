@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Martinez
+  email: joshua.martinez7209@outlook.com
+  phone: 490 720 3534
+  ssn: 891587427
+  dob: 11/18/1984
+  address: 9781 Main Way
+  city: Seattle
+  state: WA

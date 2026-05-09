@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Moore",
+    "email": "angela.moore5466@gmail.com",
+    "phone": "(908) 800-6902",
+    "ssn": "807181443",
+    "dob": "01-12-1961",
+    "address": "238 Spring Dr",
+    "city": "Jacksonville",
+    "state": "AZ"
+  }
+}

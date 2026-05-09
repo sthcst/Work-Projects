@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Guerrero",
+    "email": "ryan.guerrero5614@company.com",
+    "phone": "643-713-3691",
+    "ssn": "171 89 3685",
+    "dob": "10/23/1989",
+    "address": "3222 Fourth Rd",
+    "city": "Austin",
+    "state": "FL"
+  }
+}

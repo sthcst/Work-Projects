@@ -1,0 +1,14 @@
+INVOICE 580334
+
+Bill To:
+Name: Kevin Taylor
+Email: kevin.taylor6251@example.com
+Phone: +1 602-484-2095
+SSN: 642 84 8391
+
+Address: 2310 Maple Ave
+Denver, VA
+
+Date of Birth: 05/04/2004
+
+Amount Due: $9694

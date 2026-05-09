@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Hernandez
+  email: kenneth.hernandez2085@business.net
+  phone: (701) 492-2268
+  ssn: 569-84-8414
+  dob: 19/05/2000
+  address: 6053 Birch Rd
+  city: Seattle
+  state: MI

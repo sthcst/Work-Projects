@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Morgan,anthony.morgan568@outlook.com,+1 984-487-5903,616-83-9155,02-09-1962,"3526 North Ln",Houston,CA

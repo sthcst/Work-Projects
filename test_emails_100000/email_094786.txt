@@ -1,0 +1,14 @@
+INVOICE 502494
+
+Bill To:
+Name: Lauren Harris
+Email: lauren.harris957@company.com
+Phone: 980 357 2218
+SSN: 135 34 1071
+
+Address: 5831 Third St
+San Diego, TX
+
+Date of Birth: 12-02-1981
+
+Amount Due: $5917

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Rogers",
+    "email": "jacob.rogers74@company.com",
+    "phone": "438-255-2552",
+    "ssn": "886-68-1063",
+    "dob": "11-06-1973",
+    "address": "8073 Pine Ln",
+    "city": "Seattle",
+    "state": "WI"
+  }
+}

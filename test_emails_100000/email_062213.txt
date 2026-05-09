@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Delgado
+  email: ashley.delgado1168@work.org
+  phone: 270 416 3403
+  ssn: 490 94 6205
+  dob: 4/17/1957
+  address: 1436 West Dr
+  city: Washington
+  state: MI

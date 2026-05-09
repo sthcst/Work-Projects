@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Reyes
+  email: kenneth.reyes1980@yahoo.com
+  phone: +1 699-652-1223
+  ssn: 209773895
+  dob: 23/09/1970
+  address: 7432 West Court
+  city: San Antonio
+  state: AZ

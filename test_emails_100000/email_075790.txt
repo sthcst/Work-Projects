@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Alvarado
+  email: ashley.alvarado4415@example.com
+  phone: (987) 714-7612
+  ssn: 389 20 1110
+  dob: 18/02/1976
+  address: 4083 Fifth Ln
+  city: Houston
+  state: TX

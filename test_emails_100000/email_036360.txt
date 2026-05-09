@@ -1,0 +1,9 @@
+contact:
+  name: Michael Miller
+  email: michael.miller6850@example.com
+  phone: +1 400-381-3849
+  ssn: 363 31 2397
+  dob: 04/05/1970
+  address: 7158 South Ave
+  city: Phoenix
+  state: MD

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Evans,emma.evans2681@gmail.com,(545) 764-2345,679-79-4057,03/13/1993,"8528 Spring Dr",New York,TN

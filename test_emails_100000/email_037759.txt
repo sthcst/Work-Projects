@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Alvarado
+  email: brenda.alvarado7742@example.com
+  phone: 483-856-3517
+  ssn: 160-04-9455
+  dob: 11/13/1973
+  address: 1346 Fifth Court
+  city: Houston
+  state: OH

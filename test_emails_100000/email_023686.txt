@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Ortiz",
+    "email": "lauren.ortiz5540@company.com",
+    "phone": "976-391-3002",
+    "ssn": "871 24 9193",
+    "dob": "09/26/1960",
+    "address": "2175 Cedar St",
+    "city": "San Antonio",
+    "state": "IL"
+  }
+}

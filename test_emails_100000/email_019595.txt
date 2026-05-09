@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Moore",
+    "email": "george.moore7672@yahoo.com",
+    "phone": "+1 206-886-4545",
+    "ssn": "203065767",
+    "dob": "17/04/1999",
+    "address": "5831 Fifth Ave",
+    "city": "Phoenix",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Parker
+  email: anthony.parker1556@business.net
+  phone: (892) 761-7851
+  ssn: 700-25-2348
+  dob: 05/10/1988
+  address: 7986 Birch Ave
+  city: San Jose
+  state: CA

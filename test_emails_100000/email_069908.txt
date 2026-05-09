@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Robinson
+  email: nicole.robinson8605@work.org
+  phone: 267 789 5776
+  ssn: 368 32 5880
+  dob: 02/10/1995
+  address: 4396 Oak Court
+  city: Philadelphia
+  state: GA

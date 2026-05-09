@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Edwards",
+    "email": "michael.edwards5955@gmail.com",
+    "phone": "+1 268-671-3850",
+    "ssn": "582-01-9738",
+    "dob": "12-12-1989",
+    "address": "952 Fourth Ln",
+    "city": "Los Angeles",
+    "state": "TN"
+  }
+}

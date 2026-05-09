@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Lewis",
+    "email": "timothy.lewis4044@gmail.com",
+    "phone": "(727) 871-5079",
+    "ssn": "958734728",
+    "dob": "05-12-1963",
+    "address": "6556 South Court",
+    "city": "Austin",
+    "state": "TN"
+  }
+}

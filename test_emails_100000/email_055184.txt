@@ -1,0 +1,9 @@
+contact:
+  name: Anna Lewis
+  email: anna.lewis6905@example.com
+  phone: +1 553-506-5145
+  ssn: 471391674
+  dob: 03/06/2000
+  address: 8233 Cedar Rd
+  city: Denver
+  state: WA

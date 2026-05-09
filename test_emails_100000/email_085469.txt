@@ -1,0 +1,14 @@
+INVOICE 434162
+
+Bill To:
+Name: Emily Brown
+Email: emily.brown241@business.net
+Phone: 215-953-2198
+SSN: 314 97 1730
+
+Address: 9251 Birch Blvd
+Denver, NJ
+
+Date of Birth: 21/10/1989
+
+Amount Due: $9832

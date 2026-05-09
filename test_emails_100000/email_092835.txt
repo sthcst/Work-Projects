@@ -1,0 +1,9 @@
+contact:
+  name: Richard Garcia
+  email: richard.garcia3571@outlook.com
+  phone: +1 487-563-2493
+  ssn: 235 32 8310
+  dob: 05-16-1952
+  address: 5078 First Court
+  city: Jacksonville
+  state: TX

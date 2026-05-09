@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Romero,edward.romero6000@business.net,+1 402-290-9321,959-19-2925,17/04/1997,"9985 Park Ave",New York,AZ

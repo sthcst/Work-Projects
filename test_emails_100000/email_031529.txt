@@ -1,0 +1,14 @@
+INVOICE 485079
+
+Bill To:
+Name: Samantha Alvarado
+Email: samantha.alvarado8631@work.org
+Phone: 778 757 3589
+SSN: 557 21 7469
+
+Address: 7054 Elm Ave
+Denver, NY
+
+Date of Birth: 12/12/1971
+
+Amount Due: $2171

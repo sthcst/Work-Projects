@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Peterson,christopher.peterson7235@business.net,(731) 420-3291,451093761,02/04/1964,"5909 First St",Boston,CA

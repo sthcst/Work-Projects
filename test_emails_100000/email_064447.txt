@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Cooper,maria.cooper7310@work.org,+1 798-444-3978,979-17-6042,8/12/1952,"7945 Birch Dr",Phoenix,NC

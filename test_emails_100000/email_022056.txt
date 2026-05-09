@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Perez,steven.perez9346@example.com,+1 397-325-7011,802 41 7709,03-21-1966,"6816 Cedar Ave",San Diego,NC

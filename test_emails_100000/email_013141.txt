@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Carter,sarah.carter7852@work.org,+1 955-994-2496,641462618,15/04/1985,"8625 Elm Ln",Jacksonville,OH

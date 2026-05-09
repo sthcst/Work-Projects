@@ -1,0 +1,9 @@
+contact:
+  name: George Carter
+  email: george.carter6259@example.com
+  phone: 824 777 8799
+  ssn: 310-98-7534
+  dob: 03-17-1990
+  address: 8266 Park St
+  city: Houston
+  state: PA

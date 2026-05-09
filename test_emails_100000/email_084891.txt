@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Lopez,charles.lopez6087@business.net,+1 546-342-9374,751476361,12-25-1992,"4574 Pine Ave",Seattle,AZ

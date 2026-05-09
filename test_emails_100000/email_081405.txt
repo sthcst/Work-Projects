@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Ortiz
+  email: stephanie.ortiz8554@mail.com
+  phone: +1 655-468-2801
+  ssn: 086 58 2514
+  dob: 06-06-1980
+  address: 1792 South Blvd
+  city: San Jose
+  state: MA

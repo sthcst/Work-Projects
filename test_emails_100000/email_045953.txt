@@ -1,0 +1,9 @@
+contact:
+  name: John Phillips
+  email: john.phillips6165@mail.com
+  phone: 978 745 6423
+  ssn: 272 11 5777
+  dob: 03/10/1974
+  address: 9487 Fourth Blvd
+  city: San Jose
+  state: CO

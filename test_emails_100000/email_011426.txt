@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Garcia,christine.garcia9691@gmail.com,(908) 920-9140,589439970,10/02/1991,"916 South Dr",Washington,MA

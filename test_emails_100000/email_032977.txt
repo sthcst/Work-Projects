@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Jimenez,nicole.jimenez2392@work.org,894-683-3643,989427040,09-03-2002,"4823 Spring Rd",Houston,WA

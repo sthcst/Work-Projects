@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Davis",
+    "email": "jason.davis6639@business.net",
+    "phone": "+1 588-313-8165",
+    "ssn": "712671699",
+    "dob": "08-19-1988",
+    "address": "4496 Oak St",
+    "city": "San Antonio",
+    "state": "MA"
+  }
+}

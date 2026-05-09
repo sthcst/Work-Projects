@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Edwards,anthony.edwards9642@yahoo.com,+1 678-354-9393,599 67 6530,12/12/2003,"2064 Sixth Rd",Washington,AZ

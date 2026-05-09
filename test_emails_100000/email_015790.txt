@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Lewis
+  email: christopher.lewis6788@company.com
+  phone: 439 274 7298
+  ssn: 568 28 6967
+  dob: 08-18-1976
+  address: 7095 East Way
+  city: Chicago
+  state: TN

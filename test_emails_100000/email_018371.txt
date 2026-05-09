@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Collins,brian.collins4196@example.com,803-618-4566,939-46-4180,12/16/1959,"1155 Second Way",Denver,MA

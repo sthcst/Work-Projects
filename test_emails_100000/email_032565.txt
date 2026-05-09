@@ -1,0 +1,9 @@
+contact:
+  name: George Lewis
+  email: george.lewis8008@outlook.com
+  phone: 226 474 8125
+  ssn: 348927507
+  dob: 27/03/1969
+  address: 6553 Fifth Court
+  city: Phoenix
+  state: FL

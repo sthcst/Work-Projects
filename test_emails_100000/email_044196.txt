@@ -1,0 +1,14 @@
+INVOICE 617552
+
+Bill To:
+Name: Anthony Miller
+Email: anthony.miller6912@company.com
+Phone: +1 556-651-5854
+SSN: 914614148
+
+Address: 8324 Pine Dr
+Los Angeles, TN
+
+Date of Birth: 9/13/1964
+
+Amount Due: $4735

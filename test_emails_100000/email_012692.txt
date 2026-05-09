@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Thomas",
+    "email": "nicholas.thomas636@gmail.com",
+    "phone": "205 573 3477",
+    "ssn": "680614127",
+    "dob": "11-19-1970",
+    "address": "2881 Fifth Ln",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

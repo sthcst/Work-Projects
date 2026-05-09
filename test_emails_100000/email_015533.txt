@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Martinez
+  email: daniel.martinez463@outlook.com
+  phone: (596) 956-1423
+  ssn: 119-24-1542
+  dob: 17/04/1979
+  address: 5833 Summer Rd
+  city: Los Angeles
+  state: MA

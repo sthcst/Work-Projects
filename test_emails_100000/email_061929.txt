@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Murillo,angela.murillo2949@outlook.com,665-778-7920,793-39-9007,12/05/1962,"212 Park St",San Jose,VA

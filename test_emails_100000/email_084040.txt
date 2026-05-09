@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Flores
+  email: samantha.flores3787@company.com
+  phone: (255) 435-1927
+  ssn: 713 21 6294
+  dob: 8/27/1999
+  address: 1064 Elm Ln
+  city: Dallas
+  state: OH

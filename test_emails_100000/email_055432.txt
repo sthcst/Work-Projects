@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Miller,lauren.miller522@example.com,736 364 8049,082-27-5597,05-05-1996,"2010 West Ln",Seattle,NJ

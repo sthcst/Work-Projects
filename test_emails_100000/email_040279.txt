@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Nunez",
+    "email": "anna.nunez1425@business.net",
+    "phone": "866-276-3006",
+    "ssn": "407-44-7669",
+    "dob": "07/18/1972",
+    "address": "5747 Spring Ln",
+    "city": "Los Angeles",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Martin
+  email: anthony.martin9068@gmail.com
+  phone: (220) 395-7134
+  ssn: 210 20 3174
+  dob: 11/26/1995
+  address: 3210 Sixth Rd
+  city: Washington
+  state: FL

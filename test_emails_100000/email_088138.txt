@@ -1,0 +1,14 @@
+INVOICE 912689
+
+Bill To:
+Name: Jennifer Edwards
+Email: jennifer.edwards3980@example.com
+Phone: 288-221-7601
+SSN: 316094648
+
+Address: 6225 Fourth Blvd
+Seattle, CA
+
+Date of Birth: 10-19-1991
+
+Amount Due: $3034

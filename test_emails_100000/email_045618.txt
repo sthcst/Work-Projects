@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Martin
+  email: anthony.martin8549@business.net
+  phone: 379-355-3740
+  ssn: 501-62-4764
+  dob: 09/09/1965
+  address: 7875 Oak Court
+  city: Denver
+  state: AZ

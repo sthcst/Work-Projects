@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Smith,emma.smith1128@mail.com,+1 778-488-7805,349 26 3055,23/06/1951,"8965 West Way",Washington,FL

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Delgado,george.delgado8410@example.com,+1 977-368-3234,460 70 8699,18/05/1970,"4117 Fourth Blvd",Boston,DC

@@ -1,0 +1,9 @@
+contact:
+  name: Gary Nunez
+  email: gary.nunez6694@outlook.com
+  phone: +1 508-641-4762
+  ssn: 484871389
+  dob: 5/3/1985
+  address: 7344 West Way
+  city: San Antonio
+  state: TX

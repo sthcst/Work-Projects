@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Bell,ryan.bell7954@outlook.com,454 566 7958,092111219,5/11/1965,"8949 Park Ave",San Jose,VA

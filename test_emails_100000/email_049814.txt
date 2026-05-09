@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Roberts,katherine.roberts7450@outlook.com,(695) 487-7113,950 66 9406,05-11-1952,"9843 Spring Ln",Seattle,WA

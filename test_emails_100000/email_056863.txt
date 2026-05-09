@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Clark
+  email: rachel.clark772@company.com
+  phone: 502 782 9467
+  ssn: 529848065
+  dob: 11/28/1951
+  address: 6445 Third Ave
+  city: Los Angeles
+  state: DC

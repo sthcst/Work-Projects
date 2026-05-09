@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Alvarado",
+    "email": "michael.alvarado4162@company.com",
+    "phone": "323 287 8627",
+    "ssn": "017-63-9540",
+    "dob": "03-04-1953",
+    "address": "4315 Sixth Blvd",
+    "city": "Austin",
+    "state": "IL"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Gomez
+  email: brenda.gomez2300@outlook.com
+  phone: 946 603 2145
+  ssn: 044737432
+  dob: 12/09/1957
+  address: 695 Third Rd
+  city: Seattle
+  state: GA

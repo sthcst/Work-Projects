@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Thompson,lauren.thompson7383@business.net,619 443 1190,091-98-4781,06/18/1966,"6432 Birch St",Austin,NC

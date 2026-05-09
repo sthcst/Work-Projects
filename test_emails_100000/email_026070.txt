@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Murillo
+  email: ryan.murillo3305@business.net
+  phone: (937) 563-3123
+  ssn: 988-89-2782
+  dob: 25/11/1971
+  address: 9206 First Court
+  city: San Jose
+  state: MD

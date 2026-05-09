@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Stewart",
+    "email": "sarah.stewart3505@mail.com",
+    "phone": "342-959-4036",
+    "ssn": "563199036",
+    "dob": "7/18/2002",
+    "address": "4132 Birch Way",
+    "city": "Washington",
+    "state": "FL"
+  }
+}

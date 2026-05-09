@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Taylor
+  email: anthony.taylor220@yahoo.com
+  phone: 684 875 8493
+  ssn: 847 93 1813
+  dob: 07-26-1982
+  address: 9724 Oak Dr
+  city: Phoenix
+  state: VA

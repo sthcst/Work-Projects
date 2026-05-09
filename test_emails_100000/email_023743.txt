@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Lopez,jason.lopez6928@business.net,(579) 320-5686,995-03-1326,11-17-1975,"8056 Second Blvd",New York,TX

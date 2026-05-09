@@ -1,0 +1,14 @@
+INVOICE 307639
+
+Bill To:
+Name: Kevin Alvarado
+Email: kevin.alvarado99@example.com
+Phone: 436-660-4602
+SSN: 070 25 1571
+
+Address: 7265 Sixth Blvd
+Washington, TX
+
+Date of Birth: 26/02/1950
+
+Amount Due: $9585

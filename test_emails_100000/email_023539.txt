@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Phillips",
+    "email": "anna.phillips1687@company.com",
+    "phone": "864 854 6208",
+    "ssn": "463-61-5364",
+    "dob": "06-27-1981",
+    "address": "6005 North Ave",
+    "city": "Washington",
+    "state": "MI"
+  }
+}

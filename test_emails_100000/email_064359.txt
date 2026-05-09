@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Garcia",
+    "email": "steven.garcia8967@business.net",
+    "phone": "316 261 5794",
+    "ssn": "608 20 5512",
+    "dob": "01-16-1989",
+    "address": "1331 West Rd",
+    "city": "Phoenix",
+    "state": "VA"
+  }
+}

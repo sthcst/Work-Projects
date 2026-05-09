@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Jimenez,michael.jimenez3919@yahoo.com,+1 220-794-3698,324 38 7395,12-09-1999,"2719 South Way",New York,TX

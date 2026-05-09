@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Brown
+  email: brenda.brown870@gmail.com
+  phone: 208 978 6937
+  ssn: 644801906
+  dob: 02/10/1976
+  address: 94 Elm Rd
+  city: Dallas
+  state: NJ

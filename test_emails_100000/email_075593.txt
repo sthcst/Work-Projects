@@ -1,0 +1,14 @@
+INVOICE 764276
+
+Bill To:
+Name: Jeffrey Morgan
+Email: jeffrey.morgan903@example.com
+Phone: +1 550-979-1566
+SSN: 733388124
+
+Address: 1003 Birch Ln
+New York, MO
+
+Date of Birth: 14/01/1975
+
+Amount Due: $8880

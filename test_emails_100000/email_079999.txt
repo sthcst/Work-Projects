@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Gonzalez
+  email: andrew.gonzalez8132@business.net
+  phone: 680 976 9928
+  ssn: 569 14 3577
+  dob: 15/10/1985
+  address: 3687 Birch Dr
+  city: Dallas
+  state: CA

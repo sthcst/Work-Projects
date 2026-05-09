@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Robinson
+  email: kimberly.robinson4818@work.org
+  phone: 653-425-8663
+  ssn: 022746922
+  dob: 8/9/1982
+  address: 1666 Elm Ave
+  city: Jacksonville
+  state: NC

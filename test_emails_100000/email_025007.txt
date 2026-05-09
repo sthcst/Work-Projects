@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Phillips
+  email: stephanie.phillips5488@work.org
+  phone: (585) 334-9599
+  ssn: 813 20 9443
+  dob: 20/11/1995
+  address: 1728 Park Court
+  city: San Antonio
+  state: MO

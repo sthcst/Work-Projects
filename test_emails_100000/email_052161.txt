@@ -1,0 +1,14 @@
+INVOICE 116835
+
+Bill To:
+Name: William Morris
+Email: william.morris143@mail.com
+Phone: +1 746-566-6998
+SSN: 925-61-8200
+
+Address: 4922 Main Dr
+Los Angeles, MA
+
+Date of Birth: 8/17/1971
+
+Amount Due: $9313

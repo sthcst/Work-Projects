@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Collins,megan.collins2286@mail.com,(476) 417-3601,892155174,09/20/1983,"8065 Park St",Phoenix,AZ

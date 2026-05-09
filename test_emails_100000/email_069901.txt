@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Guerrero,robert.guerrero154@yahoo.com,(315) 647-4726,088-60-9651,9/3/1967,"9723 Park Blvd",San Jose,NC

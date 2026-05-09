@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Collins,david.collins6622@gmail.com,626 659 3219,685-85-8796,7/21/1977,"9329 Birch St",San Antonio,CO

@@ -1,0 +1,9 @@
+contact:
+  name: Megan Robinson
+  email: megan.robinson8248@outlook.com
+  phone: 209 319 1619
+  ssn: 152 18 5176
+  dob: 08-19-1991
+  address: 2406 Main Rd
+  city: Chicago
+  state: PA

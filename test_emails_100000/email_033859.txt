@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Williams
+  email: jessica.williams6099@business.net
+  phone: (430) 509-7754
+  ssn: 314-05-2014
+  dob: 06/18/1959
+  address: 1187 Sixth Rd
+  city: Dallas
+  state: NJ

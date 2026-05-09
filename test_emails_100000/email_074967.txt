@@ -1,0 +1,9 @@
+contact:
+  name: Megan Jackson
+  email: megan.jackson3591@yahoo.com
+  phone: +1 974-534-3512
+  ssn: 220-78-4467
+  dob: 08/05/1972
+  address: 2603 West Ln
+  city: Philadelphia
+  state: TX

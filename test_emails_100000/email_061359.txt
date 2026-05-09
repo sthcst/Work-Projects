@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Robinson",
+    "email": "cynthia.robinson2932@gmail.com",
+    "phone": "(293) 995-6664",
+    "ssn": "219504409",
+    "dob": "06/02/1971",
+    "address": "1989 Birch Dr",
+    "city": "Chicago",
+    "state": "IL"
+  }
+}

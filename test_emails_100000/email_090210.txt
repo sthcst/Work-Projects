@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Flores
+  email: andrew.flores1908@company.com
+  phone: +1 233-949-6517
+  ssn: 175 12 8600
+  dob: 2/26/1991
+  address: 4469 North Dr
+  city: Houston
+  state: AZ

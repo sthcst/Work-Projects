@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Rodriguez",
+    "email": "william.rodriguez5646@gmail.com",
+    "phone": "326-819-9548",
+    "ssn": "758408447",
+    "dob": "14/06/1993",
+    "address": "7116 First Ave",
+    "city": "Houston",
+    "state": "CO"
+  }
+}

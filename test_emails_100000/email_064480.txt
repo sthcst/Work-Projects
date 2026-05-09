@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Lee,mark.lee7252@outlook.com,458 231 9880,136 15 7696,03/03/1978,"531 Second Dr",Boston,GA

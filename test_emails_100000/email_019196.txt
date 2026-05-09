@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Robinson
+  email: deborah.robinson7414@company.com
+  phone: 893-735-2394
+  ssn: 271 90 3559
+  dob: 16/10/1951
+  address: 1269 Elm Court
+  city: Phoenix
+  state: DC

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Nelson",
+    "email": "kevin.nelson1658@example.com",
+    "phone": "(676) 321-9670",
+    "ssn": "264094546",
+    "dob": "05/27/1967",
+    "address": "8309 Maple Rd",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

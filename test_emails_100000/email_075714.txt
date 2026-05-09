@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Delgado,amanda.delgado7540@outlook.com,213-984-4628,877507825,05-08-1981,"6347 Elm Ln",Philadelphia,PA

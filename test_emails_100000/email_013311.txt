@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Harris,samantha.harris9520@gmail.com,297-757-1445,187-90-7939,03-21-1979,"1163 North Rd",Chicago,TX

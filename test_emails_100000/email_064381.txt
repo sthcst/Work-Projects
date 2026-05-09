@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Morgan",
+    "email": "brian.morgan9027@mail.com",
+    "phone": "(354) 275-3073",
+    "ssn": "436-31-9968",
+    "dob": "25/08/1967",
+    "address": "9598 First Ln",
+    "city": "Denver",
+    "state": "MD"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Collins
+  email: timothy.collins2263@gmail.com
+  phone: 958-855-7483
+  ssn: 094 37 8967
+  dob: 11/22/1951
+  address: 6189 Maple Rd
+  city: Boston
+  state: CA

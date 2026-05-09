@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Walker",
+    "email": "jeffrey.walker4909@mail.com",
+    "phone": "(303) 297-1126",
+    "ssn": "625244303",
+    "dob": "05-27-1955",
+    "address": "8985 North Court",
+    "city": "New York",
+    "state": "PA"
+  }
+}

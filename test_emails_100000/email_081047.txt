@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Thomas
+  email: stephanie.thomas9051@business.net
+  phone: 360-543-9893
+  ssn: 373048336
+  dob: 27/07/1950
+  address: 2048 Fourth Rd
+  city: Jacksonville
+  state: CO

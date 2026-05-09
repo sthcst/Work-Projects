@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Reyes
+  email: jennifer.reyes3765@example.com
+  phone: 844-964-1970
+  ssn: 894621417
+  dob: 01/27/1984
+  address: 5327 Third Blvd
+  city: Houston
+  state: AZ

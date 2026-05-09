@@ -1,0 +1,14 @@
+INVOICE 152801
+
+Bill To:
+Name: Edward Gonzalez
+Email: edward.gonzalez4067@example.com
+Phone: 585 285 4681
+SSN: 812-18-7230
+
+Address: 3199 Spring Court
+New York, IL
+
+Date of Birth: 11-02-1973
+
+Amount Due: $4972

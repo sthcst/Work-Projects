@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Cooper
+  email: kenneth.cooper6531@example.com
+  phone: 353 942 2428
+  ssn: 095551941
+  dob: 19/07/1986
+  address: 8684 Pine Ave
+  city: Philadelphia
+  state: CA

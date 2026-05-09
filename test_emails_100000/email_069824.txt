@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Martinez,michelle.martinez601@yahoo.com,462-411-5200,028 42 1676,03-21-1981,"8218 Main Dr",Boston,MO

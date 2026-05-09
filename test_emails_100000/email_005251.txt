@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Taylor",
+    "email": "angela.taylor6719@work.org",
+    "phone": "+1 902-333-3490",
+    "ssn": "061 56 2964",
+    "dob": "02/07/2003",
+    "address": "6925 Summer Rd",
+    "city": "Philadelphia",
+    "state": "CA"
+  }
+}

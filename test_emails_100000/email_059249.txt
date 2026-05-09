@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily White",
+    "email": "emily.white9668@gmail.com",
+    "phone": "221 706 5684",
+    "ssn": "535-53-6637",
+    "dob": "06/01/2001",
+    "address": "2936 West Rd",
+    "city": "San Jose",
+    "state": "TN"
+  }
+}

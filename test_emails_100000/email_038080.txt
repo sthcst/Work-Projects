@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Reyes,andrew.reyes2916@outlook.com,(602) 477-3828,873 71 1166,02-04-1994,"8851 Maple Court",Washington,NY

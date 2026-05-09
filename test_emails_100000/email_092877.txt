@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Nunez,nicholas.nunez5998@company.com,286-431-6879,369028516,9/22/2000,"8955 Sixth Rd",San Diego,PA

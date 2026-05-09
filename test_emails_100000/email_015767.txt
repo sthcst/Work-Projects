@@ -1,0 +1,12 @@
+SUPPORT TICKET #81104
+
+Customer: James Martinez
+Email: james.martinez816@example.com
+Phone: 599-462-8225
+Account: 100 90 7069
+
+Issue Description: Technical problem reported
+DOB on file: 09/11/1971
+Address: 8231 Maple Ave, San Jose, AZ
+
+Status: OPEN

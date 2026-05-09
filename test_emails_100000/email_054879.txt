@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Delgado",
+    "email": "megan.delgado2223@gmail.com",
+    "phone": "+1 319-436-8091",
+    "ssn": "404 16 5438",
+    "dob": "06-23-1972",
+    "address": "1492 Sixth St",
+    "city": "San Antonio",
+    "state": "MA"
+  }
+}

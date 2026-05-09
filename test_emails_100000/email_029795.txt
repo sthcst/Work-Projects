@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Edwards",
+    "email": "gary.edwards569@example.com",
+    "phone": "686-547-8987",
+    "ssn": "517-21-8532",
+    "dob": "07-04-1988",
+    "address": "9866 First Court",
+    "city": "Boston",
+    "state": "MD"
+  }
+}

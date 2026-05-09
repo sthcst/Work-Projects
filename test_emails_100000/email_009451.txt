@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Garcia,katherine.garcia8614@yahoo.com,464 937 5045,374-72-6616,01-14-1988,"1020 Third Rd",San Diego,WI

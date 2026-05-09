@@ -1,0 +1,9 @@
+contact:
+  name: William Ortiz
+  email: william.ortiz4521@mail.com
+  phone: (209) 851-4396
+  ssn: 495-05-4109
+  dob: 10-06-2002
+  address: 7742 Spring Dr
+  city: Washington
+  state: CA

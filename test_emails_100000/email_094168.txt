@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Jimenez
+  email: kenneth.jimenez3920@yahoo.com
+  phone: (307) 305-2443
+  ssn: 048309665
+  dob: 01-18-1960
+  address: 6252 Elm Blvd
+  city: Denver
+  state: AZ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Dominguez,deborah.dominguez5128@example.com,599-306-9270,571108913,05/10/1983,"1817 Sixth Ln",Jacksonville,MA

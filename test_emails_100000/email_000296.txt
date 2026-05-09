@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Hernandez",
+    "email": "sarah.hernandez7541@work.org",
+    "phone": "+1 843-475-1095",
+    "ssn": "338 06 8423",
+    "dob": "12/24/2001",
+    "address": "3473 Oak Dr",
+    "city": "Austin",
+    "state": "MA"
+  }
+}

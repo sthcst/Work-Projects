@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Gomez",
+    "email": "brenda.gomez7856@business.net",
+    "phone": "571-772-1855",
+    "ssn": "835373546",
+    "dob": "10/03/1989",
+    "address": "1625 Elm Ave",
+    "city": "Houston",
+    "state": "GA"
+  }
+}

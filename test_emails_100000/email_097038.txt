@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Miller
+  email: katherine.miller3220@work.org
+  phone: 982-934-8743
+  ssn: 037-04-1166
+  dob: 03-10-1991
+  address: 1991 Maple Way
+  city: Boston
+  state: OH

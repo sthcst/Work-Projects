@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Guerrero,nicole.guerrero6110@company.com,+1 977-553-1906,828-03-4303,08/15/1966,"389 Sixth Rd",Los Angeles,MI

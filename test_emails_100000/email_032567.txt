@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Smith",
+    "email": "richard.smith4344@work.org",
+    "phone": "360 817 5008",
+    "ssn": "180676916",
+    "dob": "23/09/1964",
+    "address": "8462 First Dr",
+    "city": "Jacksonville",
+    "state": "NY"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Mark Hall
+  email: mark.hall1064@gmail.com
+  phone: 470-594-2249
+  ssn: 508-08-9957
+  dob: 2/5/1985
+  address: 1958 Elm Blvd
+  city: Seattle
+  state: IL

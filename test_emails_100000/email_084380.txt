@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Peterson,edward.peterson3135@business.net,(937) 873-8608,945 25 7022,2/19/1967,"3329 Summer St",San Diego,WI

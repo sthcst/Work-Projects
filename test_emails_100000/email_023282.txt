@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Hernandez,charles.hernandez1414@business.net,794 225 3754,934-67-3139,06/09/1984,"6699 Second Rd",Los Angeles,FL

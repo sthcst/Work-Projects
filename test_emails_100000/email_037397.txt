@@ -1,0 +1,14 @@
+INVOICE 612194
+
+Bill To:
+Name: Christopher Guerrero
+Email: christopher.guerrero8537@example.com
+Phone: 613-320-4062
+SSN: 928353502
+
+Address: 6828 First Rd
+Philadelphia, IL
+
+Date of Birth: 01-06-1951
+
+Amount Due: $4854

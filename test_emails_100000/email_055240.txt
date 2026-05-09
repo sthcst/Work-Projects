@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Jackson",
+    "email": "lauren.jackson3575@gmail.com",
+    "phone": "+1 576-305-3035",
+    "ssn": "730604968",
+    "dob": "10/15/1954",
+    "address": "8118 West Court",
+    "city": "Chicago",
+    "state": "WA"
+  }
+}

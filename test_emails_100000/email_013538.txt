@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Delgado,nicole.delgado7038@gmail.com,653-902-7743,021834531,3/1/1960,"3178 Spring Ave",New York,MI

@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Bell
+  email: kimberly.bell513@company.com
+  phone: 695-685-8759
+  ssn: 246-45-2678
+  dob: 5/1/1995
+  address: 4875 Main St
+  city: Philadelphia
+  state: WA

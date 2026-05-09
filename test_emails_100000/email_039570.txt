@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Moore,emily.moore6052@work.org,(300) 819-4010,151-08-3811,08/17/2000,"9236 North Ln",Dallas,MA

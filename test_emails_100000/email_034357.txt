@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Guerrero",
+    "email": "joshua.guerrero6707@mail.com",
+    "phone": "381 457 4957",
+    "ssn": "684 09 9929",
+    "dob": "01/03/1969",
+    "address": "6565 East Rd",
+    "city": "San Jose",
+    "state": "NC"
+  }
+}

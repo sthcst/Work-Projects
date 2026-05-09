@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Ramirez
+  email: joshua.ramirez5485@outlook.com
+  phone: 848-298-5376
+  ssn: 854 64 8674
+  dob: 9/22/1962
+  address: 4009 Cedar Ave
+  city: Denver
+  state: AZ

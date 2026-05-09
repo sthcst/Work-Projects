@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Stewart,jason.stewart6532@yahoo.com,561 882 4961,490-87-8741,01/05/1959,"2541 First Rd",Los Angeles,WI

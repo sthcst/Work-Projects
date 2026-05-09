@@ -1,0 +1,14 @@
+INVOICE 584661
+
+Bill To:
+Name: Lauren Brown
+Email: lauren.brown3079@company.com
+Phone: 277-714-2777
+SSN: 581 92 2745
+
+Address: 7040 West Rd
+Los Angeles, WA
+
+Date of Birth: 27/11/1984
+
+Amount Due: $3490

@@ -1,0 +1,9 @@
+contact:
+  name: Brian Young
+  email: brian.young4084@example.com
+  phone: +1 904-972-9894
+  ssn: 516-23-2236
+  dob: 01/23/1989
+  address: 5964 Sixth Blvd
+  city: Phoenix
+  state: FL

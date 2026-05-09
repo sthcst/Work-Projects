@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Gomez",
+    "email": "steven.gomez9218@outlook.com",
+    "phone": "465 214 4300",
+    "ssn": "288-09-7272",
+    "dob": "07/22/1988",
+    "address": "6441 First Rd",
+    "city": "Denver",
+    "state": "CO"
+  }
+}

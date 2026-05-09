@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Lee",
+    "email": "nicole.lee8540@yahoo.com",
+    "phone": "(358) 918-9376",
+    "ssn": "861334749",
+    "dob": "14/12/1951",
+    "address": "6138 Fourth Court",
+    "city": "Denver",
+    "state": "GA"
+  }
+}

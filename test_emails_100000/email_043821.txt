@@ -1,0 +1,14 @@
+INVOICE 957262
+
+Bill To:
+Name: Pamela Delgado
+Email: pamela.delgado1297@company.com
+Phone: (530) 954-5353
+SSN: 015-49-4481
+
+Address: 140 Summer Dr
+Boston, FL
+
+Date of Birth: 12/11/1957
+
+Amount Due: $2611

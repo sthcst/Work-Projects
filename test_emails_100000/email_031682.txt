@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Martin
+  email: joseph.martin9431@company.com
+  phone: 578 990 6492
+  ssn: 639-51-8716
+  dob: 4/12/1986
+  address: 579 West Ave
+  city: Dallas
+  state: NC

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Williams",
+    "email": "john.williams766@outlook.com",
+    "phone": "+1 651-914-1164",
+    "ssn": "898-12-5688",
+    "dob": "3/7/1999",
+    "address": "7700 Oak Blvd",
+    "city": "Phoenix",
+    "state": "VA"
+  }
+}

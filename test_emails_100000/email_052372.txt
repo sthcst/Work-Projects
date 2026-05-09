@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Hernandez
+  email: lauren.hernandez639@outlook.com
+  phone: +1 334-591-7428
+  ssn: 753-87-7952
+  dob: 10/14/1983
+  address: 2918 West Rd
+  city: Houston
+  state: PA

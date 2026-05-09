@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Martin",
+    "email": "sarah.martin4458@example.com",
+    "phone": "223 966 2711",
+    "ssn": "146-24-9389",
+    "dob": "09-10-1993",
+    "address": "5037 Pine Rd",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

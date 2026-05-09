@@ -1,0 +1,14 @@
+INVOICE 920990
+
+Bill To:
+Name: Steven Bell
+Email: steven.bell6167@example.com
+Phone: 602-483-6044
+SSN: 633278677
+
+Address: 2391 Park Ln
+San Antonio, NY
+
+Date of Birth: 9/19/1975
+
+Amount Due: $8480

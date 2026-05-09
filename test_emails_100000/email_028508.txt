@@ -1,0 +1,9 @@
+contact:
+  name: Christine Lewis
+  email: christine.lewis8268@work.org
+  phone: 389-296-4400
+  ssn: 770 09 4611
+  dob: 08-02-1994
+  address: 2432 Sixth Court
+  city: Chicago
+  state: AZ

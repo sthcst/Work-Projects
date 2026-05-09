@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Garcia,christine.garcia827@company.com,297 713 8674,194 12 9265,6/1/1959,"9105 East Way",Seattle,GA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Young",
+    "email": "ashley.young2993@company.com",
+    "phone": "+1 325-476-9469",
+    "ssn": "525 72 3327",
+    "dob": "09/27/1990",
+    "address": "7656 Fourth St",
+    "city": "Chicago",
+    "state": "CO"
+  }
+}

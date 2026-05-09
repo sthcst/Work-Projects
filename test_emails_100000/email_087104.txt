@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Nelson",
+    "email": "edward.nelson1635@gmail.com",
+    "phone": "(709) 485-6221",
+    "ssn": "263 66 8451",
+    "dob": "6/26/1976",
+    "address": "5847 Pine Ave",
+    "city": "San Diego",
+    "state": "TN"
+  }
+}

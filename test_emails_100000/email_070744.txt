@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Carter
+  email: shirley.carter5392@outlook.com
+  phone: 390-366-5838
+  ssn: 298-85-7386
+  dob: 5/6/1957
+  address: 6322 Oak Rd
+  city: Austin
+  state: AZ

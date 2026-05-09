@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Williams
+  email: katherine.williams7453@outlook.com
+  phone: +1 674-863-6782
+  ssn: 807692598
+  dob: 25/04/1960
+  address: 4516 Second Way
+  city: New York
+  state: CO

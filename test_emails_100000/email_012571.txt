@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher White,christopher.white2815@business.net,790 803 5504,775 77 8102,04-22-1976,"1040 Pine St",Austin,DC

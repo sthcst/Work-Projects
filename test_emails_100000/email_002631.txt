@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Clark
+  email: jacob.clark282@gmail.com
+  phone: +1 239-440-3616
+  ssn: 837658272
+  dob: 12/12/1979
+  address: 7678 First Blvd
+  city: Denver
+  state: WA

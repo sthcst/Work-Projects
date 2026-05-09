@@ -1,0 +1,14 @@
+INVOICE 332284
+
+Bill To:
+Name: Steven Perez
+Email: steven.perez1578@outlook.com
+Phone: +1 915-313-2561
+SSN: 125 88 6424
+
+Address: 4340 First Rd
+Jacksonville, IL
+
+Date of Birth: 22/05/1968
+
+Amount Due: $4346

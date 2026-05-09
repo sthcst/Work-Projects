@@ -1,0 +1,14 @@
+INVOICE 562083
+
+Bill To:
+Name: George Gonzalez
+Email: george.gonzalez7679@yahoo.com
+Phone: (357) 703-5482
+SSN: 023623135
+
+Address: 867 First Court
+Houston, CA
+
+Date of Birth: 10/13/1954
+
+Amount Due: $9939

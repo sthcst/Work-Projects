@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Reed",
+    "email": "nicholas.reed4520@business.net",
+    "phone": "(657) 403-3486",
+    "ssn": "200861271",
+    "dob": "07/12/1966",
+    "address": "3596 Spring Blvd",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Walker",
+    "email": "jeffrey.walker1838@company.com",
+    "phone": "350-532-1227",
+    "ssn": "758124859",
+    "dob": "02-24-1972",
+    "address": "800 Park Ln",
+    "city": "Dallas",
+    "state": "FL"
+  }
+}

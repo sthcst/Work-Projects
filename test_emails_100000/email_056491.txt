@@ -1,0 +1,12 @@
+SUPPORT TICKET #73003
+
+Customer: Jennifer Nelson
+Email: jennifer.nelson3654@example.com
+Phone: (972) 722-8901
+Account: 809-93-9375
+
+Issue Description: Technical problem reported
+DOB on file: 11-20-1992
+Address: 8915 East Dr, Philadelphia, TX
+
+Status: OPEN

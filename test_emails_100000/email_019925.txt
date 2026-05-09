@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Morris",
+    "email": "katherine.morris4760@gmail.com",
+    "phone": "+1 863-535-7447",
+    "ssn": "456336695",
+    "dob": "07/12/1991",
+    "address": "7798 Spring Ave",
+    "city": "Philadelphia",
+    "state": "CA"
+  }
+}

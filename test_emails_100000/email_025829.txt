@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Garcia,andrew.garcia8939@example.com,+1 825-972-8066,418 20 6777,02/11/1954,"4459 Summer Way",Washington,CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Hall",
+    "email": "michael.hall196@example.com",
+    "phone": "389-551-6185",
+    "ssn": "295036328",
+    "dob": "12/08/1950",
+    "address": "5346 Birch Court",
+    "city": "Boston",
+    "state": "MI"
+  }
+}

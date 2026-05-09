@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Cooper
+  email: katherine.cooper1800@outlook.com
+  phone: 385-994-7488
+  ssn: 071 24 3694
+  dob: 8/25/2004
+  address: 6341 North Court
+  city: San Diego
+  state: TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Bell,angela.bell3332@gmail.com,+1 985-746-1983,181081688,3/13/1980,"6608 Maple Blvd",San Antonio,CO

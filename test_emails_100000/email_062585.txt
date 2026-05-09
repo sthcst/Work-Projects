@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Brown,jennifer.brown1811@company.com,(373) 626-7769,806 92 2773,6/13/1990,"2577 First Dr",Seattle,MA

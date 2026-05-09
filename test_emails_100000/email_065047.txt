@@ -1,0 +1,9 @@
+contact:
+  name: Gary Bell
+  email: gary.bell2812@business.net
+  phone: (569) 796-4306
+  ssn: 917 79 7979
+  dob: 28/06/1959
+  address: 9608 West Ln
+  city: San Jose
+  state: CA

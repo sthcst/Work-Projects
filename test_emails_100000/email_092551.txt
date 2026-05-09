@@ -1,0 +1,14 @@
+INVOICE 536419
+
+Bill To:
+Name: Lauren Romero
+Email: lauren.romero5654@example.com
+Phone: (696) 421-3521
+SSN: 385-37-2737
+
+Address: 9525 Birch Ln
+Denver, NY
+
+Date of Birth: 9/5/1982
+
+Amount Due: $7394

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Garcia",
+    "email": "cynthia.garcia8902@work.org",
+    "phone": "+1 661-472-8533",
+    "ssn": "703631172",
+    "dob": "07/04/1964",
+    "address": "6679 Third Ave",
+    "city": "San Diego",
+    "state": "PA"
+  }
+}

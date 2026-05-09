@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Garcia",
+    "email": "maria.garcia9052@business.net",
+    "phone": "757-767-1568",
+    "ssn": "113-70-4800",
+    "dob": "01-15-1979",
+    "address": "9319 West Ave",
+    "city": "Austin",
+    "state": "MA"
+  }
+}

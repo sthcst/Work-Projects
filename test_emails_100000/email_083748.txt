@@ -1,0 +1,14 @@
+INVOICE 629459
+
+Bill To:
+Name: William Jackson
+Email: william.jackson2048@company.com
+Phone: (618) 216-2473
+SSN: 286765991
+
+Address: 5410 Birch Ave
+Dallas, CA
+
+Date of Birth: 12-19-1951
+
+Amount Due: $5979

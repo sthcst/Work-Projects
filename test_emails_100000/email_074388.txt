@@ -1,0 +1,9 @@
+contact:
+  name: Helen Stewart
+  email: helen.stewart1234@outlook.com
+  phone: 588 735 4921
+  ssn: 825 92 7623
+  dob: 11-05-1960
+  address: 1094 Elm Dr
+  city: Dallas
+  state: DC

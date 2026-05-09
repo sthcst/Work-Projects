@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Lopez,lauren.lopez2243@work.org,341-239-7166,591 56 2517,04/07/1958,"3044 Summer Rd",Denver,FL

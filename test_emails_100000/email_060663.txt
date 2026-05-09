@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Brown",
+    "email": "christopher.brown3807@yahoo.com",
+    "phone": "788-997-9931",
+    "ssn": "280845554",
+    "dob": "1/7/1999",
+    "address": "2543 South Way",
+    "city": "Jacksonville",
+    "state": "MO"
+  }
+}

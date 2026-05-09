@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Young",
+    "email": "sarah.young5159@business.net",
+    "phone": "372-249-8661",
+    "ssn": "417 61 1842",
+    "dob": "07/06/1952",
+    "address": "8845 Fifth Way",
+    "city": "Dallas",
+    "state": "TN"
+  }
+}

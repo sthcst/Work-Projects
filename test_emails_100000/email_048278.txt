@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Collins",
+    "email": "brenda.collins9780@yahoo.com",
+    "phone": "+1 948-934-5590",
+    "ssn": "499704113",
+    "dob": "11-10-1952",
+    "address": "560 Cedar St",
+    "city": "Seattle",
+    "state": "WA"
+  }
+}

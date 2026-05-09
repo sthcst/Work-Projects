@@ -1,0 +1,14 @@
+INVOICE 943828
+
+Bill To:
+Name: Kenneth Edwards
+Email: kenneth.edwards8455@example.com
+Phone: 617-868-1641
+SSN: 417124807
+
+Address: 1934 Summer Ln
+Boston, CA
+
+Date of Birth: 05-05-1967
+
+Amount Due: $8181

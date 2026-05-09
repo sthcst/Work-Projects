@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Thomas",
+    "email": "jeffrey.thomas877@yahoo.com",
+    "phone": "766-950-2494",
+    "ssn": "088 07 8790",
+    "dob": "08-28-1972",
+    "address": "757 Cedar Ln",
+    "city": "Austin",
+    "state": "TN"
+  }
+}

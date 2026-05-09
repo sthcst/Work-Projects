@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Parker",
+    "email": "mark.parker3081@example.com",
+    "phone": "381 852 5286",
+    "ssn": "246 90 2167",
+    "dob": "8/10/1951",
+    "address": "7881 First Dr",
+    "city": "Houston",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 137173
+
+Bill To:
+Name: Joshua Nunez
+Email: joshua.nunez147@company.com
+Phone: 649 270 2074
+SSN: 001 59 8222
+
+Address: 6587 Third Court
+Chicago, MI
+
+Date of Birth: 1/23/1978
+
+Amount Due: $8824

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Smith,joseph.smith3911@yahoo.com,+1 603-560-6329,496568143,06-05-1960,"2427 Maple Way",San Jose,MA

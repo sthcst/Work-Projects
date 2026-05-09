@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Robinson,james.robinson990@gmail.com,647-691-9276,070-05-6652,10-18-1983,"9829 Summer Rd",Los Angeles,MA

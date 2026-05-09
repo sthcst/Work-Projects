@@ -1,0 +1,14 @@
+INVOICE 478620
+
+Bill To:
+Name: Maria Miller
+Email: maria.miller8523@work.org
+Phone: 351 678 7358
+SSN: 154444360
+
+Address: 6049 East Blvd
+Dallas, WA
+
+Date of Birth: 5/6/1995
+
+Amount Due: $9711

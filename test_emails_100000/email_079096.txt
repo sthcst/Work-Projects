@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Johnson",
+    "email": "daniel.johnson4901@outlook.com",
+    "phone": "+1 214-914-9787",
+    "ssn": "064 29 1197",
+    "dob": "7/9/2003",
+    "address": "8126 Sixth Ave",
+    "city": "Denver",
+    "state": "MD"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 683022
+
+Bill To:
+Name: James Johnson
+Email: james.johnson2769@example.com
+Phone: (411) 399-5018
+SSN: 911-34-1394
+
+Address: 8046 Summer Ln
+New York, TN
+
+Date of Birth: 27/11/1977
+
+Amount Due: $7291

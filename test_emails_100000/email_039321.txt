@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Morgan,christine.morgan4508@mail.com,+1 395-831-1355,771 86 8538,17/02/1979,"7789 East St",Chicago,IL

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Serrano,ronald.serrano6827@example.com,+1 620-659-9451,822415461,04/10/1995,"811 West St",San Jose,CA

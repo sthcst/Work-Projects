@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Clark
+  email: rachel.clark4801@outlook.com
+  phone: +1 565-728-5627
+  ssn: 109-88-2607
+  dob: 08/22/1992
+  address: 1374 Spring Rd
+  city: San Diego
+  state: GA

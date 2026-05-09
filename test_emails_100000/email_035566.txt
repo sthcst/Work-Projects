@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Jones,shirley.jones2499@example.com,678 663 2066,340 02 9904,06-09-1970,"5073 First Dr",Denver,AZ

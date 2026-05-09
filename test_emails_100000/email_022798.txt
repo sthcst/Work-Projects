@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Murillo",
+    "email": "michelle.murillo3196@outlook.com",
+    "phone": "+1 598-997-9872",
+    "ssn": "957-64-1138",
+    "dob": "08/16/1982",
+    "address": "6816 Park St",
+    "city": "Philadelphia",
+    "state": "NY"
+  }
+}

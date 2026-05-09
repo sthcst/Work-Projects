@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Davis,anna.davis5905@mail.com,977-293-3624,631-49-8260,11/11/1982,"8591 Second St",Dallas,TX

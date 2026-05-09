@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Delgado",
+    "email": "lauren.delgado2153@example.com",
+    "phone": "+1 320-460-1490",
+    "ssn": "284 65 3640",
+    "dob": "9/9/1979",
+    "address": "198 Spring Dr",
+    "city": "Jacksonville",
+    "state": "WI"
+  }
+}

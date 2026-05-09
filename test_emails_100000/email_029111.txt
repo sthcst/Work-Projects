@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Lopez
+  email: amanda.lopez4860@work.org
+  phone: +1 352-489-2192
+  ssn: 708 01 9194
+  dob: 10/12/1985
+  address: 3673 Third Way
+  city: San Diego
+  state: FL

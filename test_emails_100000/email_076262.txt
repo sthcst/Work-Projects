@@ -1,0 +1,14 @@
+INVOICE 358900
+
+Bill To:
+Name: Angela Morgan
+Email: angela.morgan1344@company.com
+Phone: 716 624 2836
+SSN: 061-83-5261
+
+Address: 9896 Pine Dr
+San Antonio, CO
+
+Date of Birth: 11/17/1963
+
+Amount Due: $8046

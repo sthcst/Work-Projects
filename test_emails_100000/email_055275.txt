@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Dominguez,ryan.dominguez1292@example.com,477-550-8039,273388582,10/20/1984,"3257 South Ln",San Diego,WA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Hernandez,christopher.hernandez207@company.com,471 353 5041,854 13 9882,13/05/1965,"9074 Second St",New York,TX

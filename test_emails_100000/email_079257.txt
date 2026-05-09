@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Clark
+  email: anthony.clark5560@example.com
+  phone: 488-527-3082
+  ssn: 947192460
+  dob: 11-24-1986
+  address: 1603 Elm Blvd
+  city: Washington
+  state: CO

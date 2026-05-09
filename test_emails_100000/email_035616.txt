@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Edwards,deborah.edwards6920@gmail.com,370-378-5402,224 30 3749,05-25-2004,"6247 West Way",San Diego,MD

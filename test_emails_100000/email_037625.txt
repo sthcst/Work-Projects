@@ -1,0 +1,9 @@
+contact:
+  name: Helen Ortiz
+  email: helen.ortiz3004@example.com
+  phone: 999-885-1261
+  ssn: 037 94 9715
+  dob: 03-02-1996
+  address: 6353 North St
+  city: New York
+  state: NY

@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Perez
+  email: daniel.perez488@yahoo.com
+  phone: 841-699-7149
+  ssn: 017 68 2096
+  dob: 16/03/2000
+  address: 4849 Fifth Ln
+  city: Chicago
+  state: AZ

@@ -1,0 +1,9 @@
+contact:
+  name: Helen Morgan
+  email: helen.morgan8911@company.com
+  phone: 765 361 6102
+  ssn: 564 62 9857
+  dob: 05/13/1982
+  address: 9583 North Ln
+  city: Denver
+  state: TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Hall",
+    "email": "shirley.hall8833@example.com",
+    "phone": "+1 269-309-5274",
+    "ssn": "125 17 6206",
+    "dob": "01/09/1956",
+    "address": "5891 First Blvd",
+    "city": "Chicago",
+    "state": "TN"
+  }
+}

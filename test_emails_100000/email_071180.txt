@@ -1,0 +1,9 @@
+contact:
+  name: Robert Parker
+  email: robert.parker7576@gmail.com
+  phone: 934-425-9263
+  ssn: 874-51-8976
+  dob: 02/21/2001
+  address: 1551 Third Ln
+  city: Denver
+  state: TX

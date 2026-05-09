@@ -1,0 +1,9 @@
+contact:
+  name: Edward Thompson
+  email: edward.thompson8293@example.com
+  phone: 442 277 5406
+  ssn: 217893230
+  dob: 08-27-1956
+  address: 7342 Main Court
+  city: San Jose
+  state: NY

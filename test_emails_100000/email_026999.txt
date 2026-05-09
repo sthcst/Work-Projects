@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Rodriguez",
+    "email": "christine.rodriguez4654@outlook.com",
+    "phone": "851-317-1043",
+    "ssn": "379 72 7097",
+    "dob": "10-21-1999",
+    "address": "7930 West Rd",
+    "city": "Dallas",
+    "state": "NC"
+  }
+}

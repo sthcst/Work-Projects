@@ -1,0 +1,14 @@
+INVOICE 348025
+
+Bill To:
+Name: Jeffrey Phillips
+Email: jeffrey.phillips4694@example.com
+Phone: 880 842 2222
+SSN: 949027907
+
+Address: 5689 Summer Blvd
+Dallas, VA
+
+Date of Birth: 08-24-1954
+
+Amount Due: $4227

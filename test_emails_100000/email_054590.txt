@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Romero",
+    "email": "joshua.romero5562@gmail.com",
+    "phone": "+1 643-419-2461",
+    "ssn": "685 49 4436",
+    "dob": "08/16/1979",
+    "address": "7591 Fourth Dr",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

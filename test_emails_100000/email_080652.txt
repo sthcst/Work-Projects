@@ -1,0 +1,14 @@
+INVOICE 940720
+
+Bill To:
+Name: Gary Serrano
+Email: gary.serrano6768@work.org
+Phone: 503 958 3131
+SSN: 960 95 9615
+
+Address: 3710 West Ave
+Philadelphia, TX
+
+Date of Birth: 23/11/2001
+
+Amount Due: $8579

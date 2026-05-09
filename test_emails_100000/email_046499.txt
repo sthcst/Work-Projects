@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Rogers",
+    "email": "gary.rogers1127@work.org",
+    "phone": "+1 991-922-6716",
+    "ssn": "534-50-3604",
+    "dob": "10/11/1980",
+    "address": "3363 Sixth Ln",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

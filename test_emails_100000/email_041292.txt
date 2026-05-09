@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Rogers,daniel.rogers6724@mail.com,211 317 7949,698-12-8598,08-03-1991,"4356 Summer Ave",Los Angeles,NY

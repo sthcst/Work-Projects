@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Robinson
+  email: stephanie.robinson4459@gmail.com
+  phone: 436 351 3939
+  ssn: 624 39 5129
+  dob: 3/8/1973
+  address: 5658 West Dr
+  city: Seattle
+  state: TX

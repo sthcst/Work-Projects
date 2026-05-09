@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Wilson,ronald.wilson9478@business.net,+1 606-668-1284,518 19 2811,7/2/1954,"6443 Spring Ave",New York,MA

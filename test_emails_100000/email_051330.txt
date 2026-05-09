@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Hernandez,katherine.hernandez2082@example.com,906 832 5556,853531521,05-10-2005,"4124 Maple Dr",Jacksonville,TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Morris",
+    "email": "mark.morris7513@work.org",
+    "phone": "+1 951-961-7923",
+    "ssn": "261 85 6753",
+    "dob": "20/05/1990",
+    "address": "2624 Second Ave",
+    "city": "San Diego",
+    "state": "AZ"
+  }
+}

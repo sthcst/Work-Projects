@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Rogers,rebecca.rogers1808@gmail.com,(821) 971-9239,815 09 6371,13/09/1995,"6568 First St",Phoenix,WI

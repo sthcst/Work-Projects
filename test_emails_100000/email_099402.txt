@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Hall,jane.hall3319@gmail.com,664-557-7854,470 74 2844,10-08-1955,"9824 Birch Court",Washington,DC

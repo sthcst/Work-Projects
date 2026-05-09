@@ -1,0 +1,9 @@
+contact:
+  name: Charles Reyes
+  email: charles.reyes8346@company.com
+  phone: 865-948-1625
+  ssn: 999-73-3844
+  dob: 09/08/1977
+  address: 5620 First Ave
+  city: Washington
+  state: AZ

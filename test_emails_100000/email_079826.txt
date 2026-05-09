@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Lee",
+    "email": "angela.lee4855@outlook.com",
+    "phone": "594 572 3146",
+    "ssn": "509268819",
+    "dob": "02-10-1970",
+    "address": "694 West Court",
+    "city": "San Jose",
+    "state": "WA"
+  }
+}

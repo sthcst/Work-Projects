@@ -1,0 +1,9 @@
+contact:
+  name: George Jimenez
+  email: george.jimenez3703@outlook.com
+  phone: 624 835 5537
+  ssn: 191 20 6629
+  dob: 01/10/1972
+  address: 1661 Oak Ln
+  city: San Antonio
+  state: MA

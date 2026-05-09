@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Romero,joshua.romero9116@yahoo.com,555 891 5957,432621364,02-06-1992,"8186 Main St",Jacksonville,DC

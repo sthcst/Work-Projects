@@ -1,0 +1,9 @@
+contact:
+  name: George Reyes
+  email: george.reyes5253@gmail.com
+  phone: +1 213-320-4270
+  ssn: 785-36-5664
+  dob: 06-18-1966
+  address: 7171 Birch St
+  city: Boston
+  state: NJ

@@ -1,0 +1,9 @@
+contact:
+  name: James Johnson
+  email: james.johnson900@company.com
+  phone: (895) 762-6186
+  ssn: 477 52 5625
+  dob: 02-13-1982
+  address: 7211 Fourth Way
+  city: New York
+  state: PA

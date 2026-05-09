@@ -1,0 +1,14 @@
+INVOICE 680153
+
+Bill To:
+Name: Kevin Perez
+Email: kevin.perez5785@company.com
+Phone: 635-844-8008
+SSN: 586-04-6130
+
+Address: 3533 Main Ave
+Boston, FL
+
+Date of Birth: 4/22/1957
+
+Amount Due: $6777

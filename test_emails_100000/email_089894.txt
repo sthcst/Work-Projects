@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Robinson",
+    "email": "samantha.robinson1388@outlook.com",
+    "phone": "+1 936-265-3943",
+    "ssn": "823577686",
+    "dob": "2/5/2004",
+    "address": "4989 Fourth St",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

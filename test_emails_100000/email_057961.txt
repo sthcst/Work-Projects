@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Robinson",
+    "email": "ashley.robinson4518@gmail.com",
+    "phone": "643 926 7008",
+    "ssn": "397163323",
+    "dob": "12/03/1992",
+    "address": "4441 Third Ave",
+    "city": "Houston",
+    "state": "VA"
+  }
+}

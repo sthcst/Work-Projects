@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Anderson",
+    "email": "maria.anderson7180@yahoo.com",
+    "phone": "(816) 286-2777",
+    "ssn": "188 91 8019",
+    "dob": "08/10/1982",
+    "address": "4705 Maple Blvd",
+    "city": "Chicago",
+    "state": "NJ"
+  }
+}

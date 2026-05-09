@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Hall",
+    "email": "lisa.hall1808@yahoo.com",
+    "phone": "782-342-5475",
+    "ssn": "664 45 6572",
+    "dob": "06-20-1960",
+    "address": "9064 First Ave",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}

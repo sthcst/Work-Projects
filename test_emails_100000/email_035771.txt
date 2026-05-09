@@ -1,0 +1,14 @@
+INVOICE 830225
+
+Bill To:
+Name: Edward Roberts
+Email: edward.roberts6630@example.com
+Phone: 216 702 9989
+SSN: 735742236
+
+Address: 1919 Fifth Blvd
+Austin, MI
+
+Date of Birth: 07-10-1981
+
+Amount Due: $1809

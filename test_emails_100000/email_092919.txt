@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Reeves,jessica.reeves1619@yahoo.com,783-222-2280,187 90 8614,03/03/1972,"658 Main Blvd",Denver,TX

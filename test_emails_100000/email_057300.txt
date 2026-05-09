@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Jones
+  email: kenneth.jones7177@business.net
+  phone: (613) 330-5862
+  ssn: 229072341
+  dob: 7/7/1999
+  address: 4908 Elm Blvd
+  city: Austin
+  state: OH

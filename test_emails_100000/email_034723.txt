@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Hernandez,andrew.hernandez9684@business.net,+1 746-918-8962,485-13-5828,4/4/1968,"9985 Maple Rd",Denver,TX

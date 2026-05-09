@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Gomez",
+    "email": "jason.gomez743@example.com",
+    "phone": "982 263 1115",
+    "ssn": "150905447",
+    "dob": "1/6/1950",
+    "address": "3978 Maple Ln",
+    "city": "Los Angeles",
+    "state": "WI"
+  }
+}

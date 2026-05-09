@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Gonzalez",
+    "email": "david.gonzalez4061@mail.com",
+    "phone": "+1 415-508-6892",
+    "ssn": "911-46-4192",
+    "dob": "12/22/1989",
+    "address": "5486 Summer Court",
+    "city": "Phoenix",
+    "state": "WA"
+  }
+}

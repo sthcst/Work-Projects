@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Johnson,pamela.johnson6721@business.net,(594) 500-1810,902-85-3271,10/17/1959,"3008 Elm Way",San Jose,TX

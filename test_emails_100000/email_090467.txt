@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Gomez,edward.gomez3698@yahoo.com,+1 635-908-9038,940884488,06-10-1957,"859 Maple Blvd",New York,CA

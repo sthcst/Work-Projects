@@ -1,0 +1,9 @@
+contact:
+  name: Angela Robinson
+  email: angela.robinson7624@company.com
+  phone: (760) 557-1959
+  ssn: 132 33 9472
+  dob: 01/18/2001
+  address: 502 Second St
+  city: Phoenix
+  state: TX

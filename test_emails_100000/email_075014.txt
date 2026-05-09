@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Peterson
+  email: pamela.peterson1071@gmail.com
+  phone: +1 563-410-1265
+  ssn: 487-83-9539
+  dob: 11/06/2002
+  address: 8855 Pine Way
+  city: Los Angeles
+  state: DC

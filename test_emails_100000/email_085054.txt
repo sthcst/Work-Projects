@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Taylor",
+    "email": "nicholas.taylor3244@business.net",
+    "phone": "594-637-9620",
+    "ssn": "135-91-4909",
+    "dob": "7/1/1970",
+    "address": "2432 Main St",
+    "city": "San Jose",
+    "state": "CA"
+  }
+}

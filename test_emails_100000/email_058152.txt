@@ -1,0 +1,9 @@
+contact:
+  name: Brian Garcia
+  email: brian.garcia3430@gmail.com
+  phone: 865-930-8957
+  ssn: 502-08-4265
+  dob: 11/12/1974
+  address: 2061 Summer Ave
+  city: San Antonio
+  state: GA

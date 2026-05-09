@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Martinez
+  email: amanda.martinez7081@work.org
+  phone: (521) 307-3997
+  ssn: 339 70 5933
+  dob: 08/22/1990
+  address: 3694 Pine St
+  city: Austin
+  state: MA

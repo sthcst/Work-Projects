@@ -1,0 +1,14 @@
+INVOICE 650760
+
+Bill To:
+Name: Anthony Romero
+Email: anthony.romero6069@example.com
+Phone: 537 456 9290
+SSN: 503-91-5848
+
+Address: 8876 Birch Blvd
+Houston, TX
+
+Date of Birth: 05/06/2000
+
+Amount Due: $1678

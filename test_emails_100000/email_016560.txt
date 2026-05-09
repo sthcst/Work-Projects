@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Bell",
+    "email": "jason.bell6820@yahoo.com",
+    "phone": "874-973-1940",
+    "ssn": "326 91 3245",
+    "dob": "08/17/1959",
+    "address": "5988 Summer Blvd",
+    "city": "Denver",
+    "state": "DC"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Smith,christine.smith7186@gmail.com,+1 357-476-1598,951 08 9845,19/08/2002,"1199 Spring Blvd",Jacksonville,OH

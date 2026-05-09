@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Morris",
+    "email": "michael.morris1437@work.org",
+    "phone": "+1 201-655-4815",
+    "ssn": "114-27-6328",
+    "dob": "26/08/2000",
+    "address": "3910 Maple Ave",
+    "city": "Jacksonville",
+    "state": "WA"
+  }
+}

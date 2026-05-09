@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Nunez
+  email: nicholas.nunez9958@example.com
+  phone: +1 510-777-6491
+  ssn: 104-61-5783
+  dob: 12-14-1958
+  address: 5998 First Rd
+  city: Houston
+  state: AZ

@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Davis
+  email: anthony.davis1962@outlook.com
+  phone: 633-308-5822
+  ssn: 693-17-5256
+  dob: 19/06/1984
+  address: 6675 Cedar Ave
+  city: Phoenix
+  state: AZ

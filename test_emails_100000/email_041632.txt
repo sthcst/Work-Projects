@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Parker,deborah.parker2071@gmail.com,+1 490-474-8008,640055959,04-05-1975,"4126 Second Way",San Jose,WI

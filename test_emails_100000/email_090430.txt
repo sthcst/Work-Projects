@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Stewart",
+    "email": "ashley.stewart3300@outlook.com",
+    "phone": "+1 838-386-3573",
+    "ssn": "132 17 9728",
+    "dob": "9/26/1969",
+    "address": "2532 Second St",
+    "city": "Phoenix",
+    "state": "WA"
+  }
+}

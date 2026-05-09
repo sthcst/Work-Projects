@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Miller",
+    "email": "sarah.miller3679@company.com",
+    "phone": "+1 473-215-5038",
+    "ssn": "768 64 6320",
+    "dob": "07-01-1997",
+    "address": "3265 Fifth Dr",
+    "city": "Dallas",
+    "state": "PA"
+  }
+}

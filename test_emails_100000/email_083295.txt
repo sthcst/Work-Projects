@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Stewart",
+    "email": "david.stewart684@example.com",
+    "phone": "511-895-4040",
+    "ssn": "614-23-2029",
+    "dob": "09/02/1962",
+    "address": "7763 Third St",
+    "city": "Austin",
+    "state": "GA"
+  }
+}

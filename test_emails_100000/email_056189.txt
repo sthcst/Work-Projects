@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Williams",
+    "email": "rebecca.williams166@work.org",
+    "phone": "387 843 6936",
+    "ssn": "483 49 8321",
+    "dob": "03/08/1970",
+    "address": "7279 Sixth St",
+    "city": "Chicago",
+    "state": "NJ"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Gary Evans
+  email: gary.evans4072@work.org
+  phone: 607-668-3880
+  ssn: 951-39-6199
+  dob: 08/14/2003
+  address: 282 Oak Rd
+  city: Boston
+  state: MA

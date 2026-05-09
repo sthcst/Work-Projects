@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Peterson,gary.peterson2078@mail.com,961 698 6459,951-43-7826,08/10/1977,"4173 Elm Ln",Dallas,CA

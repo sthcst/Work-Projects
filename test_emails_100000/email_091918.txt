@@ -1,0 +1,12 @@
+SUPPORT TICKET #22322
+
+Customer: Gary Moore
+Email: gary.moore4002@example.com
+Phone: 875-319-1653
+Account: 464276994
+
+Issue Description: Technical problem reported
+DOB on file: 16/11/1974
+Address: 1911 Third Way, Washington, OH
+
+Status: OPEN

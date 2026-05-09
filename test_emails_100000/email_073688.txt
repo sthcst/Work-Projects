@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Jones,ronald.jones7713@gmail.com,955-891-1812,363-84-6308,02-22-1977,"7316 Summer Ln",Chicago,AZ

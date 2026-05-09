@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Morris
+  email: lisa.morris6582@company.com
+  phone: +1 772-445-6407
+  ssn: 819 58 4750
+  dob: 06/14/1954
+  address: 5438 Fifth Blvd
+  city: Houston
+  state: MO

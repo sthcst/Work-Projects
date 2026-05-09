@@ -1,0 +1,14 @@
+INVOICE 718976
+
+Bill To:
+Name: Charles Stewart
+Email: charles.stewart8920@mail.com
+Phone: +1 360-893-3756
+SSN: 907046109
+
+Address: 2889 South St
+Dallas, GA
+
+Date of Birth: 13/02/1984
+
+Amount Due: $1250

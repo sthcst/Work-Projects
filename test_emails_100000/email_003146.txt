@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Gonzalez,daniel.gonzalez8951@outlook.com,(801) 296-5249,359-40-8670,11-22-1970,"4078 Birch Rd",Chicago,AZ

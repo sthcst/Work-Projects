@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Reeves",
+    "email": "mark.reeves3289@mail.com",
+    "phone": "(996) 343-1755",
+    "ssn": "762-43-6380",
+    "dob": "22/05/1969",
+    "address": "4458 Oak Ln",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

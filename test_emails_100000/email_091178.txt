@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Guerrero",
+    "email": "kenneth.guerrero1715@yahoo.com",
+    "phone": "+1 218-275-5789",
+    "ssn": "382-06-4517",
+    "dob": "05/09/1986",
+    "address": "51 Sixth Blvd",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

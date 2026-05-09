@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Delgado
+  email: katherine.delgado6538@yahoo.com
+  phone: 605-764-9588
+  ssn: 365 74 5679
+  dob: 11/09/1974
+  address: 6881 Park Court
+  city: New York
+  state: CO

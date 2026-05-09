@@ -1,0 +1,9 @@
+contact:
+  name: Emma Morris
+  email: emma.morris9514@business.net
+  phone: 570 239 7386
+  ssn: 888-01-3822
+  dob: 9/17/2000
+  address: 8689 Park Rd
+  city: San Antonio
+  state: DC

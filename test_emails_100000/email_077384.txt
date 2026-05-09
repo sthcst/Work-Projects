@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Anderson,emma.anderson642@company.com,+1 332-562-1395,123 79 5740,24/06/1990,"3370 East Rd",Dallas,CO

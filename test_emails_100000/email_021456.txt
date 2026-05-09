@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Lopez
+  email: ashley.lopez3862@outlook.com
+  phone: 233 807 3773
+  ssn: 150529402
+  dob: 06-27-1975
+  address: 7702 Pine St
+  city: Dallas
+  state: AZ

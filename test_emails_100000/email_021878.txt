@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Nelson
+  email: kenneth.nelson7674@company.com
+  phone: 436 854 7642
+  ssn: 933-03-4005
+  dob: 17/03/1951
+  address: 9140 East St
+  city: San Jose
+  state: WA

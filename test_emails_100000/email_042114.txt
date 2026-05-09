@@ -1,0 +1,14 @@
+INVOICE 780183
+
+Bill To:
+Name: Richard Bell
+Email: richard.bell3784@business.net
+Phone: 904 990 9534
+SSN: 077 05 1384
+
+Address: 263 Fourth Way
+Houston, IL
+
+Date of Birth: 9/20/2000
+
+Amount Due: $8749

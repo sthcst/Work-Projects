@@ -1,0 +1,14 @@
+INVOICE 381401
+
+Bill To:
+Name: Andrew Morris
+Email: andrew.morris7503@company.com
+Phone: 420 701 4206
+SSN: 255 27 9645
+
+Address: 6155 Pine Way
+Boston, IL
+
+Date of Birth: 4/28/2004
+
+Amount Due: $7066

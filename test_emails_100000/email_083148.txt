@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Parker",
+    "email": "anna.parker2065@example.com",
+    "phone": "(833) 324-6931",
+    "ssn": "834 26 6985",
+    "dob": "9/18/1966",
+    "address": "8458 First Court",
+    "city": "San Diego",
+    "state": "AZ"
+  }
+}

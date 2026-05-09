@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Miller,rachel.miller8659@example.com,622 386 5352,802 58 5278,14/05/2004,"3238 Elm St",San Antonio,CA

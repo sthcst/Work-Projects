@@ -1,0 +1,9 @@
+contact:
+  name: Emma Jimenez
+  email: emma.jimenez1998@outlook.com
+  phone: +1 226-933-6241
+  ssn: 340989465
+  dob: 05/24/1955
+  address: 2840 Birch Way
+  city: San Diego
+  state: WA

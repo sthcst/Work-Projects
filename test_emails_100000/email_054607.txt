@@ -1,0 +1,9 @@
+contact:
+  name: Robert Morris
+  email: robert.morris6274@example.com
+  phone: 530-958-3449
+  ssn: 045756409
+  dob: 11-07-1969
+  address: 7875 Cedar Rd
+  city: Denver
+  state: TX

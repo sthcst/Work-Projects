@@ -1,0 +1,14 @@
+INVOICE 844836
+
+Bill To:
+Name: Michael Stewart
+Email: michael.stewart1933@company.com
+Phone: 332 212 5889
+SSN: 352 18 7933
+
+Address: 1026 Main Rd
+New York, FL
+
+Date of Birth: 06-12-1984
+
+Amount Due: $4317

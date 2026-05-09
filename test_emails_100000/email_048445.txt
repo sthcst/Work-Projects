@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Alvarado,amanda.alvarado9299@business.net,544 749 9500,590822909,10/20/1977,"6054 Oak Ave",Denver,CA

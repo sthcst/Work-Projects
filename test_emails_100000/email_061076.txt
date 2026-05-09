@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Davis
+  email: ashley.davis1746@company.com
+  phone: (730) 341-8397
+  ssn: 143403235
+  dob: 05-11-1965
+  address: 8645 South Ave
+  city: Philadelphia
+  state: MD

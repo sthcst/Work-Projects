@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Alvarado",
+    "email": "jacob.alvarado7333@business.net",
+    "phone": "676 399 2150",
+    "ssn": "302-31-4646",
+    "dob": "6/8/1981",
+    "address": "6102 Sixth Ave",
+    "city": "San Jose",
+    "state": "NJ"
+  }
+}

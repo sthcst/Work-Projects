@@ -1,0 +1,14 @@
+INVOICE 589607
+
+Bill To:
+Name: George Clark
+Email: george.clark6780@company.com
+Phone: 772-630-8342
+SSN: 464835042
+
+Address: 4200 North Court
+San Diego, CA
+
+Date of Birth: 9/9/2002
+
+Amount Due: $453

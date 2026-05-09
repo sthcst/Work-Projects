@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Collins
+  email: timothy.collins2866@business.net
+  phone: +1 345-605-1977
+  ssn: 320 04 2785
+  dob: 10/18/1982
+  address: 5490 Cedar Ln
+  city: San Diego
+  state: FL

@@ -1,0 +1,9 @@
+contact:
+  name: Steven Ramirez
+  email: steven.ramirez3917@outlook.com
+  phone: +1 624-609-8702
+  ssn: 902 06 6571
+  dob: 12/26/1962
+  address: 5423 Cedar Way
+  city: San Antonio
+  state: DC

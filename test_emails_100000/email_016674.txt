@@ -1,0 +1,14 @@
+INVOICE 765636
+
+Bill To:
+Name: Christine Parker
+Email: christine.parker2217@company.com
+Phone: 952 691 2270
+SSN: 734747856
+
+Address: 6202 Oak Ln
+Philadelphia, MD
+
+Date of Birth: 04/03/1964
+
+Amount Due: $7641

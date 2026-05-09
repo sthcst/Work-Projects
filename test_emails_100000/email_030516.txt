@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Jimenez,richard.jimenez5214@work.org,(630) 919-9882,890-68-6206,04-18-1986,"8593 Park Rd",Austin,TX

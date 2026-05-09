@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Morgan,anthony.morgan9342@work.org,801-596-5326,273 50 6583,02/23/1951,"7148 East Court",Phoenix,WA

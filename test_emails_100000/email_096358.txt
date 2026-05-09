@@ -1,0 +1,14 @@
+INVOICE 702896
+
+Bill To:
+Name: Paul Peterson
+Email: paul.peterson3950@example.com
+Phone: 546 953 3246
+SSN: 262 40 7447
+
+Address: 4322 Fourth Blvd
+Austin, WA
+
+Date of Birth: 07/06/1962
+
+Amount Due: $7410

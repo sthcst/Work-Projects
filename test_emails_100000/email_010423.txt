@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Jones,samantha.jones2624@outlook.com,872-467-3121,083-24-6768,11-18-1990,"6097 Oak Way",Los Angeles,PA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley White,ashley.white7981@work.org,(893) 485-3871,951 32 3292,17/04/1955,"5537 First Rd",San Diego,CA

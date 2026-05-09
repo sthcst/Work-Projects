@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Ortiz,steven.ortiz9318@mail.com,(486) 785-5983,091 21 9771,04/01/1962,"3395 Fourth Ln",Los Angeles,TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Alvarado",
+    "email": "brenda.alvarado7030@work.org",
+    "phone": "238-248-1316",
+    "ssn": "345-22-2300",
+    "dob": "12/18/1956",
+    "address": "1181 Spring Ave",
+    "city": "Phoenix",
+    "state": "WA"
+  }
+}

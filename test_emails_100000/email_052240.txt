@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Lewis",
+    "email": "katherine.lewis4669@work.org",
+    "phone": "(912) 748-7539",
+    "ssn": "329286020",
+    "dob": "04-27-1989",
+    "address": "7998 First Ave",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

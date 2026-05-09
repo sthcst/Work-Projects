@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Martinez",
+    "email": "jeffrey.martinez9215@company.com",
+    "phone": "+1 236-512-9168",
+    "ssn": "108 46 9451",
+    "dob": "11/10/1959",
+    "address": "3762 Maple Ave",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

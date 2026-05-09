@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Thompson",
+    "email": "samantha.thompson338@gmail.com",
+    "phone": "361-410-8925",
+    "ssn": "980402337",
+    "dob": "24/02/1956",
+    "address": "3092 Spring Dr",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

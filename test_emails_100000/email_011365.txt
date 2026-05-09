@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Hernandez",
+    "email": "kenneth.hernandez1596@mail.com",
+    "phone": "+1 924-809-3599",
+    "ssn": "270-02-1621",
+    "dob": "16/06/1966",
+    "address": "6225 Summer St",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

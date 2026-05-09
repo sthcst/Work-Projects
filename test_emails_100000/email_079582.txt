@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Rodriguez",
+    "email": "deborah.rodriguez3640@work.org",
+    "phone": "846-856-3553",
+    "ssn": "514-91-7009",
+    "dob": "07-23-1966",
+    "address": "9152 Park St",
+    "city": "San Diego",
+    "state": "WA"
+  }
+}

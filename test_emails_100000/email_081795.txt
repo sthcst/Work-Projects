@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Brown",
+    "email": "matthew.brown1071@outlook.com",
+    "phone": "+1 974-303-1874",
+    "ssn": "708-82-9197",
+    "dob": "01/02/1975",
+    "address": "8978 Third Ave",
+    "city": "Washington",
+    "state": "MA"
+  }
+}

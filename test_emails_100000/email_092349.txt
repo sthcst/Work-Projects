@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Reed",
+    "email": "rebecca.reed5031@mail.com",
+    "phone": "600 462 7693",
+    "ssn": "764767968",
+    "dob": "07-04-1994",
+    "address": "3114 Second Ave",
+    "city": "Dallas",
+    "state": "CO"
+  }
+}

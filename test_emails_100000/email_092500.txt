@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Brown
+  email: joshua.brown2047@work.org
+  phone: 775 334 7217
+  ssn: 450-91-1871
+  dob: 04/01/1987
+  address: 4479 Elm Court
+  city: Los Angeles
+  state: TN

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Jones,katherine.jones3550@mail.com,800 956 6210,601-22-4174,4/21/1992,"3426 West Blvd",San Diego,MO

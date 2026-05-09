@@ -1,0 +1,14 @@
+INVOICE 135220
+
+Bill To:
+Name: Charles Delgado
+Email: charles.delgado4433@work.org
+Phone: 844-469-3816
+SSN: 185-40-9438
+
+Address: 3209 North Ln
+Chicago, GA
+
+Date of Birth: 11/17/1973
+
+Amount Due: $8287

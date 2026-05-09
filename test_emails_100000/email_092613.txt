@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Reed",
+    "email": "george.reed2319@work.org",
+    "phone": "+1 344-752-5712",
+    "ssn": "160138085",
+    "dob": "5/17/1989",
+    "address": "9105 First Way",
+    "city": "San Diego",
+    "state": "WA"
+  }
+}

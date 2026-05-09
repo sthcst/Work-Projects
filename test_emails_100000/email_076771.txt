@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Rodriguez,jeffrey.rodriguez7949@business.net,+1 989-236-9827,353 39 6580,11/27/1957,"3428 Pine Way",Austin,MO

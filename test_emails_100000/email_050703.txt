@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Thompson
+  email: jennifer.thompson9429@mail.com
+  phone: 867 779 9328
+  ssn: 068-63-6509
+  dob: 2/28/2001
+  address: 1573 Elm Rd
+  city: San Diego
+  state: DC

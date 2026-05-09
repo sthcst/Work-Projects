@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Bell,james.bell3566@yahoo.com,504-282-2181,122792802,1/21/2003,"5333 East Dr",Denver,FL

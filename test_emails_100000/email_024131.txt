@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Rodriguez",
+    "email": "amanda.rodriguez3037@business.net",
+    "phone": "991 571 1683",
+    "ssn": "479 70 3987",
+    "dob": "16/02/1968",
+    "address": "3012 Cedar Blvd",
+    "city": "San Diego",
+    "state": "WA"
+  }
+}

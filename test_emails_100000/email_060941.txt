@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Gonzalez",
+    "email": "brenda.gonzalez7765@example.com",
+    "phone": "+1 815-960-8119",
+    "ssn": "768 44 1696",
+    "dob": "3/1/1990",
+    "address": "8134 First Ln",
+    "city": "Jacksonville",
+    "state": "AZ"
+  }
+}

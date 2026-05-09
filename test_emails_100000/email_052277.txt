@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Miller",
+    "email": "lauren.miller3302@yahoo.com",
+    "phone": "+1 669-608-2755",
+    "ssn": "637 17 1748",
+    "dob": "06-04-1959",
+    "address": "5388 North Rd",
+    "city": "San Jose",
+    "state": "MA"
+  }
+}

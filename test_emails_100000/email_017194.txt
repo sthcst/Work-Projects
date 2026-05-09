@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Reyes
+  email: stephanie.reyes311@business.net
+  phone: (476) 783-2129
+  ssn: 427-91-3146
+  dob: 12/09/1988
+  address: 5584 Third Ln
+  city: San Diego
+  state: OH

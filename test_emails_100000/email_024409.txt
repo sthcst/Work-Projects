@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Gomez,michelle.gomez1923@mail.com,471 952 5722,133 26 6549,25/12/1982,"4907 Park Way",Dallas,TX

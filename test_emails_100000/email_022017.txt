@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Alvarado",
+    "email": "katherine.alvarado9768@outlook.com",
+    "phone": "359-214-4664",
+    "ssn": "250852487",
+    "dob": "23/04/1970",
+    "address": "9370 First Rd",
+    "city": "San Jose",
+    "state": "MI"
+  }
+}

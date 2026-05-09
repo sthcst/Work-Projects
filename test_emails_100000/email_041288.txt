@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca White",
+    "email": "rebecca.white3489@example.com",
+    "phone": "(591) 301-6892",
+    "ssn": "945 07 8697",
+    "dob": "7/22/1995",
+    "address": "5770 Summer Rd",
+    "city": "Houston",
+    "state": "FL"
+  }
+}

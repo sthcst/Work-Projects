@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Phillips,angela.phillips7310@mail.com,611-734-4927,355278776,12/4/2000,"77 Maple Rd",Dallas,MA

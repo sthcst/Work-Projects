@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Cooper,kevin.cooper619@example.com,+1 369-237-2626,338 87 9397,03/15/1967,"8684 North St",San Antonio,NC

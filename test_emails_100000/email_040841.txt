@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Stewart",
+    "email": "lisa.stewart8008@gmail.com",
+    "phone": "209 967 5098",
+    "ssn": "696-24-8848",
+    "dob": "10/7/1982",
+    "address": "1867 Cedar Blvd",
+    "city": "Chicago",
+    "state": "AZ"
+  }
+}

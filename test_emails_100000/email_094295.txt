@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Bell",
+    "email": "deborah.bell5545@yahoo.com",
+    "phone": "+1 533-915-6283",
+    "ssn": "170 68 8550",
+    "dob": "16/02/1975",
+    "address": "8367 South Blvd",
+    "city": "Houston",
+    "state": "MD"
+  }
+}

@@ -1,0 +1,12 @@
+SUPPORT TICKET #48261
+
+Customer: Jacob Johnson
+Email: jacob.johnson4206@example.com
+Phone: 850-480-2426
+Account: 183 36 3388
+
+Issue Description: Technical problem reported
+DOB on file: 02/03/1995
+Address: 7728 Spring Ln, San Diego, MO
+
+Status: OPEN

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Garcia,andrew.garcia4935@yahoo.com,545-900-3163,823367790,1/23/1954,"8196 Third Way",Seattle,GA

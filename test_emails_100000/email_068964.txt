@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Johnson",
+    "email": "jane.johnson2257@outlook.com",
+    "phone": "(561) 254-9700",
+    "ssn": "018 64 4241",
+    "dob": "11-16-2002",
+    "address": "7754 Maple Blvd",
+    "city": "Austin",
+    "state": "IL"
+  }
+}

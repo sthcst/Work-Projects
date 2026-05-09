@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Bell
+  email: nicholas.bell8325@mail.com
+  phone: 641 572 4143
+  ssn: 917-48-9606
+  dob: 6/11/1995
+  address: 51 Park Blvd
+  city: Chicago
+  state: NJ

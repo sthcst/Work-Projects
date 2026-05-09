@@ -1,0 +1,12 @@
+SUPPORT TICKET #50304
+
+Customer: Matthew Johnson
+Email: matthew.johnson561@example.com
+Phone: 333 393 4886
+Account: 649469692
+
+Issue Description: Technical problem reported
+DOB on file: 10/04/1957
+Address: 1612 Oak St, Dallas, CA
+
+Status: OPEN

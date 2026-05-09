@@ -1,0 +1,14 @@
+INVOICE 986251
+
+Bill To:
+Name: Charles Phillips
+Email: charles.phillips7333@mail.com
+Phone: (206) 988-4904
+SSN: 062-30-8023
+
+Address: 44 First Rd
+Seattle, WI
+
+Date of Birth: 21/05/1956
+
+Amount Due: $7335

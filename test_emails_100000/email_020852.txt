@@ -1,0 +1,9 @@
+contact:
+  name: Jason Campbell
+  email: jason.campbell1201@gmail.com
+  phone: (454) 402-4771
+  ssn: 097 87 3435
+  dob: 17/11/1975
+  address: 8365 Oak Court
+  city: Philadelphia
+  state: TX

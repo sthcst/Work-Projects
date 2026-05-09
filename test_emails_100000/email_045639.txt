@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Lopez,samantha.lopez1541@example.com,(946) 645-7034,483-78-3786,9/15/1973,"3588 Sixth Way",Washington,AZ

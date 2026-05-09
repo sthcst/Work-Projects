@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Clark",
+    "email": "nicole.clark8185@example.com",
+    "phone": "+1 729-537-1378",
+    "ssn": "718 37 9488",
+    "dob": "03-06-1990",
+    "address": "2069 East Rd",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

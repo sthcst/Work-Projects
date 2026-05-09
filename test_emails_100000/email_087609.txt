@@ -1,0 +1,9 @@
+contact:
+  name: Jane Nunez
+  email: jane.nunez1188@example.com
+  phone: 268 454 4271
+  ssn: 368-75-4477
+  dob: 11/28/1950
+  address: 2108 South St
+  city: Austin
+  state: NY

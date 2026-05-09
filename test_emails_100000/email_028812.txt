@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Peterson",
+    "email": "ronald.peterson5695@example.com",
+    "phone": "939-621-5576",
+    "ssn": "404515158",
+    "dob": "09/27/1968",
+    "address": "4024 Park Ln",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

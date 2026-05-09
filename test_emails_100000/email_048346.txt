@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Ortiz",
+    "email": "rachel.ortiz2814@business.net",
+    "phone": "927 619 7906",
+    "ssn": "050 24 5416",
+    "dob": "11-22-1959",
+    "address": "4981 Fifth Blvd",
+    "city": "San Jose",
+    "state": "AZ"
+  }
+}

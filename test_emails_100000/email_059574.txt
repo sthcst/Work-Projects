@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Lewis",
+    "email": "christine.lewis9631@company.com",
+    "phone": "+1 290-805-2526",
+    "ssn": "546385185",
+    "dob": "2/26/1976",
+    "address": "9808 First Court",
+    "city": "Phoenix",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Smith,michelle.smith6998@mail.com,971 663 3691,028952597,10-01-1992,"3164 Cedar Rd",San Diego,WA

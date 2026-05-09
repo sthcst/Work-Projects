@@ -1,0 +1,9 @@
+contact:
+  name: Anna Jackson
+  email: anna.jackson8008@example.com
+  phone: +1 838-437-1931
+  ssn: 685 12 9159
+  dob: 19/03/1970
+  address: 2138 Fifth St
+  city: Seattle
+  state: AZ

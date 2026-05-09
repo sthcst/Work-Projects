@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Campbell,kenneth.campbell2527@mail.com,781-893-7253,593 25 5066,06/23/1981,"1663 North Blvd",New York,FL

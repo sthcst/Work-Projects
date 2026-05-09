@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Bell
+  email: jeffrey.bell2746@business.net
+  phone: +1 896-930-1415
+  ssn: 732 06 2298
+  dob: 12/28/2000
+  address: 6701 Fourth Court
+  city: Chicago
+  state: WA

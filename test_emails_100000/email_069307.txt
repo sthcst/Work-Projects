@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Clark,anthony.clark669@business.net,+1 356-458-2531,500 66 9174,11/04/1965,"8495 West Way",Chicago,MI

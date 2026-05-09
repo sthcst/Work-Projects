@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Carter
+  email: deborah.carter8525@example.com
+  phone: +1 942-831-6104
+  ssn: 468-43-1257
+  dob: 26/11/1950
+  address: 2202 Sixth Court
+  city: San Jose
+  state: MA

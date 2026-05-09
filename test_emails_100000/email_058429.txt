@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Perez",
+    "email": "charles.perez4500@company.com",
+    "phone": "(432) 739-6960",
+    "ssn": "745635534",
+    "dob": "9/3/2003",
+    "address": "3284 East Ave",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

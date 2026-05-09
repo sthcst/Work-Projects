@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Romero",
+    "email": "anna.romero1299@mail.com",
+    "phone": "799 521 8670",
+    "ssn": "713474280",
+    "dob": "07-27-1950",
+    "address": "7300 First Way",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

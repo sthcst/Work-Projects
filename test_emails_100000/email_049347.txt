@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Collins",
+    "email": "richard.collins5675@mail.com",
+    "phone": "+1 392-480-3853",
+    "ssn": "272 38 8015",
+    "dob": "2/8/1979",
+    "address": "5352 Summer Dr",
+    "city": "San Diego",
+    "state": "NJ"
+  }
+}

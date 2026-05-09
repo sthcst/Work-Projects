@@ -1,0 +1,9 @@
+contact:
+  name: Angela Nelson
+  email: angela.nelson8652@outlook.com
+  phone: 501-600-4570
+  ssn: 706289496
+  dob: 09/01/1971
+  address: 6709 Cedar Rd
+  city: Houston
+  state: CA

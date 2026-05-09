@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Walker",
+    "email": "christopher.walker7754@company.com",
+    "phone": "(385) 443-4120",
+    "ssn": "296-15-7591",
+    "dob": "07-23-1952",
+    "address": "2783 Park Court",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

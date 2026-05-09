@@ -1,0 +1,14 @@
+INVOICE 999136
+
+Bill To:
+Name: Jeffrey Reeves
+Email: jeffrey.reeves2040@example.com
+Phone: +1 638-662-3832
+SSN: 217-40-9653
+
+Address: 3425 Maple St
+San Diego, MA
+
+Date of Birth: 09-06-1969
+
+Amount Due: $505

@@ -1,0 +1,14 @@
+INVOICE 657183
+
+Bill To:
+Name: Sarah Dominguez
+Email: sarah.dominguez2464@example.com
+Phone: 234-782-5866
+SSN: 011 96 1262
+
+Address: 4264 Fourth Rd
+Philadelphia, TN
+
+Date of Birth: 06-16-1990
+
+Amount Due: $3349

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Perez,deborah.perez5501@mail.com,552 370 9781,323 10 6787,06-13-1961,"1202 Sixth Dr",Austin,NJ

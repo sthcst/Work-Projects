@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Serrano,cynthia.serrano3364@gmail.com,(632) 964-5967,155-42-1173,12/27/1956,"8654 East Blvd",San Diego,FL

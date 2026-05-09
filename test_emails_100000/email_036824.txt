@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Campbell
+  email: nicholas.campbell9392@gmail.com
+  phone: 937 943 9696
+  ssn: 379888679
+  dob: 8/23/1978
+  address: 2607 Third Ln
+  city: New York
+  state: TX

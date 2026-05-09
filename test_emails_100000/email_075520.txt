@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Campbell",
+    "email": "james.campbell6420@mail.com",
+    "phone": "672-384-6406",
+    "ssn": "688 74 3690",
+    "dob": "04/12/1973",
+    "address": "9013 North Blvd",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

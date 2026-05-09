@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Alvarado",
+    "email": "brenda.alvarado1776@work.org",
+    "phone": "678 431 3237",
+    "ssn": "573958695",
+    "dob": "12/13/1993",
+    "address": "6463 Sixth Ave",
+    "city": "Phoenix",
+    "state": "AZ"
+  }
+}

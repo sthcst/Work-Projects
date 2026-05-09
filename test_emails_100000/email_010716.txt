@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Alvarado",
+    "email": "john.alvarado2703@yahoo.com",
+    "phone": "+1 443-811-5091",
+    "ssn": "906749203",
+    "dob": "4/17/2001",
+    "address": "8609 East Court",
+    "city": "Jacksonville",
+    "state": "FL"
+  }
+}

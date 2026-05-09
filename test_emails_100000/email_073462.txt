@@ -1,0 +1,14 @@
+INVOICE 259668
+
+Bill To:
+Name: John Murillo
+Email: john.murillo7138@business.net
+Phone: 629 433 8360
+SSN: 662334950
+
+Address: 6973 Maple Way
+San Diego, OH
+
+Date of Birth: 25/11/1982
+
+Amount Due: $8124

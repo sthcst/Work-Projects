@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Collins",
+    "email": "angela.collins1985@mail.com",
+    "phone": "(556) 440-5168",
+    "ssn": "721-33-9072",
+    "dob": "09/04/1985",
+    "address": "6013 Summer Court",
+    "city": "San Antonio",
+    "state": "WI"
+  }
+}

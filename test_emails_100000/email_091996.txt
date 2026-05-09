@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Nelson",
+    "email": "emily.nelson8603@outlook.com",
+    "phone": "597-707-5729",
+    "ssn": "331 04 7691",
+    "dob": "09/21/1993",
+    "address": "413 West Dr",
+    "city": "Philadelphia",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Thompson
+  email: stephanie.thompson3151@company.com
+  phone: 347 213 9204
+  ssn: 995-38-2882
+  dob: 04/06/1951
+  address: 4174 Pine Ave
+  city: Dallas
+  state: NC

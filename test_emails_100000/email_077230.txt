@@ -1,0 +1,14 @@
+INVOICE 400144
+
+Bill To:
+Name: Nicholas Morgan
+Email: nicholas.morgan9795@work.org
+Phone: (654) 710-9292
+SSN: 458 34 8325
+
+Address: 8349 Cedar St
+Dallas, FL
+
+Date of Birth: 1/1/2001
+
+Amount Due: $8689

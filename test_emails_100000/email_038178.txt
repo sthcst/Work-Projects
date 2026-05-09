@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Harris",
+    "email": "anna.harris2188@gmail.com",
+    "phone": "792-818-2360",
+    "ssn": "126875498",
+    "dob": "12/21/1975",
+    "address": "3766 Sixth Blvd",
+    "city": "Dallas",
+    "state": "AZ"
+  }
+}

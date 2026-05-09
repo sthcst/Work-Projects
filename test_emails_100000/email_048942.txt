@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Johnson,amanda.johnson3936@outlook.com,870-556-8047,580-07-1652,08-17-1971,"6423 Second Court",Dallas,WA

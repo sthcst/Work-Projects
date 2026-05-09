@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Nelson",
+    "email": "steven.nelson3039@outlook.com",
+    "phone": "695-447-8165",
+    "ssn": "337-92-3050",
+    "dob": "05-16-1975",
+    "address": "9095 Summer Ave",
+    "city": "Phoenix",
+    "state": "MD"
+  }
+}

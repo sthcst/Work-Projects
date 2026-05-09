@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Murillo",
+    "email": "andrew.murillo4850@mail.com",
+    "phone": "778-537-1040",
+    "ssn": "306 71 4657",
+    "dob": "05-20-2002",
+    "address": "8172 Pine Blvd",
+    "city": "Dallas",
+    "state": "PA"
+  }
+}

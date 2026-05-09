@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Stewart,nicole.stewart8501@example.com,783-348-7832,100 08 5716,01-05-1969,"4983 Main Ave",Houston,GA

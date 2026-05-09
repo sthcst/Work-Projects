@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Robinson,william.robinson3903@outlook.com,721 825 8201,436 88 7057,10/15/1965,"4193 Fourth St",Dallas,FL

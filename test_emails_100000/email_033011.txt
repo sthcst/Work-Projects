@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Lee,joseph.lee5092@mail.com,833 900 5287,697-90-9614,3/10/2005,"3338 Third Ave",Boston,CA

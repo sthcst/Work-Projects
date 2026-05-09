@@ -1,0 +1,14 @@
+INVOICE 347776
+
+Bill To:
+Name: James Anderson
+Email: james.anderson8147@gmail.com
+Phone: 629 782 5143
+SSN: 226 20 8778
+
+Address: 3928 West Dr
+Seattle, WI
+
+Date of Birth: 28/09/1964
+
+Amount Due: $1493

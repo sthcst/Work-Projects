@@ -1,0 +1,9 @@
+contact:
+  name: Megan Reyes
+  email: megan.reyes4172@company.com
+  phone: +1 556-238-1519
+  ssn: 848 09 6911
+  dob: 20/02/2000
+  address: 8599 Birch Dr
+  city: Houston
+  state: PA

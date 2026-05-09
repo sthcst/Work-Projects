@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Gonzalez",
+    "email": "ashley.gonzalez3283@example.com",
+    "phone": "(675) 742-7589",
+    "ssn": "300905281",
+    "dob": "03/05/1991",
+    "address": "9373 South St",
+    "city": "Philadelphia",
+    "state": "MA"
+  }
+}

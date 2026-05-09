@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Jimenez,kevin.jimenez5234@business.net,458 627 5811,595 18 5617,09/02/1967,"1818 First Way",Phoenix,TX

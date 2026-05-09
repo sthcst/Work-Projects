@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Campbell,james.campbell4470@outlook.com,(938) 807-2888,656718604,09-10-1954,"9733 Park Court",Los Angeles,NY

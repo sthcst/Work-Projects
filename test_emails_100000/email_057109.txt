@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Walker,jessica.walker2318@outlook.com,998-920-8173,448 23 6918,03/06/1995,"4295 Fourth Dr",Phoenix,MD

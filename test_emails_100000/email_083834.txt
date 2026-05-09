@@ -1,0 +1,12 @@
+SUPPORT TICKET #40982
+
+Customer: Richard Parker
+Email: richard.parker9685@example.com
+Phone: 904-831-2846
+Account: 449-42-6064
+
+Issue Description: Technical problem reported
+DOB on file: 1/26/1968
+Address: 3578 Oak Ave, Boston, FL
+
+Status: OPEN

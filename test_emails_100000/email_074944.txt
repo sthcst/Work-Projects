@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Phillips,george.phillips9452@example.com,713-347-1743,203-33-9576,14/09/2003,"8813 Sixth Ave",Houston,WA

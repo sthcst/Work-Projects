@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Miller,samantha.miller1976@company.com,+1 522-807-7795,200 78 3990,06/12/1953,"3294 Park Way",Boston,TX

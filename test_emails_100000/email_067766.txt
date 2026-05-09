@@ -1,0 +1,14 @@
+INVOICE 225281
+
+Bill To:
+Name: Brenda Brown
+Email: brenda.brown7594@business.net
+Phone: 254 563 5521
+SSN: 020-81-7503
+
+Address: 4778 Fourth St
+San Jose, NY
+
+Date of Birth: 11/28/1996
+
+Amount Due: $3176

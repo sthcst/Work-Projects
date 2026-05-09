@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Peterson",
+    "email": "anthony.peterson9802@mail.com",
+    "phone": "291-483-3618",
+    "ssn": "159982447",
+    "dob": "01-01-1978",
+    "address": "1459 Birch Rd",
+    "city": "New York",
+    "state": "FL"
+  }
+}

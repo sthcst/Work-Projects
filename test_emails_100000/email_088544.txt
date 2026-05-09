@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Hernandez",
+    "email": "michelle.hernandez3208@gmail.com",
+    "phone": "999 466 9536",
+    "ssn": "862-19-6531",
+    "dob": "11/9/1991",
+    "address": "4535 Main Ave",
+    "city": "Los Angeles",
+    "state": "MO"
+  }
+}

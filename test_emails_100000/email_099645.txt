@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Ortiz",
+    "email": "richard.ortiz7284@yahoo.com",
+    "phone": "+1 373-259-4373",
+    "ssn": "504518920",
+    "dob": "1/5/1992",
+    "address": "3600 Cedar Blvd",
+    "city": "San Antonio",
+    "state": "WA"
+  }
+}

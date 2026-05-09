@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle White",
+    "email": "michelle.white7142@business.net",
+    "phone": "426-812-3185",
+    "ssn": "161 45 4350",
+    "dob": "09/09/1960",
+    "address": "9252 Fourth Ave",
+    "city": "Houston",
+    "state": "FL"
+  }
+}

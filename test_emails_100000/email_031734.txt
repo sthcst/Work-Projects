@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Jimenez",
+    "email": "kimberly.jimenez4706@yahoo.com",
+    "phone": "+1 641-553-8909",
+    "ssn": "736 15 5185",
+    "dob": "04-02-1984",
+    "address": "9446 East Blvd",
+    "city": "Philadelphia",
+    "state": "MO"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 801834
+
+Bill To:
+Name: Amanda Jones
+Email: amanda.jones4120@work.org
+Phone: (461) 241-5806
+SSN: 726672735
+
+Address: 8994 Birch Blvd
+Phoenix, WA
+
+Date of Birth: 06/02/2000
+
+Amount Due: $3948

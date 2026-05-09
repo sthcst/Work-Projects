@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Sanchez",
+    "email": "nicholas.sanchez1832@gmail.com",
+    "phone": "404-410-9377",
+    "ssn": "160-75-4324",
+    "dob": "02/11/1986",
+    "address": "4683 Second Ln",
+    "city": "Philadelphia",
+    "state": "AZ"
+  }
+}

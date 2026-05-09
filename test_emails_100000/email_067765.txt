@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Dominguez",
+    "email": "deborah.dominguez4488@yahoo.com",
+    "phone": "606-830-7366",
+    "ssn": "474 22 3024",
+    "dob": "1/14/2003",
+    "address": "4793 South Way",
+    "city": "San Jose",
+    "state": "MD"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Anderson
+  email: stephanie.anderson7301@work.org
+  phone: 354-983-9294
+  ssn: 954-88-7084
+  dob: 15/10/1964
+  address: 2831 Cedar Ln
+  city: Boston
+  state: IL

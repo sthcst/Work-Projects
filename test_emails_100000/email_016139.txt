@@ -1,0 +1,14 @@
+INVOICE 301527
+
+Bill To:
+Name: Emily Alvarado
+Email: emily.alvarado8803@company.com
+Phone: 881 492 4063
+SSN: 244 85 6889
+
+Address: 525 Fourth Ln
+Los Angeles, MA
+
+Date of Birth: 7/5/1973
+
+Amount Due: $5013

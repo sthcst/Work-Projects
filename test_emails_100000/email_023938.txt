@@ -1,0 +1,9 @@
+contact:
+  name: Maria Bell
+  email: maria.bell9061@example.com
+  phone: (482) 498-3946
+  ssn: 427-85-3585
+  dob: 22/06/1964
+  address: 568 Oak Blvd
+  city: Philadelphia
+  state: VA

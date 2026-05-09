@@ -1,0 +1,14 @@
+INVOICE 631281
+
+Bill To:
+Name: Ashley Walker
+Email: ashley.walker8512@example.com
+Phone: 396-538-8120
+SSN: 094558358
+
+Address: 6430 Fourth Dr
+Jacksonville, WI
+
+Date of Birth: 09-27-1958
+
+Amount Due: $8037

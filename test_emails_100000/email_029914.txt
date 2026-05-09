@@ -1,0 +1,14 @@
+INVOICE 671247
+
+Bill To:
+Name: Christine Harris
+Email: christine.harris1091@company.com
+Phone: 621-929-9279
+SSN: 233819049
+
+Address: 3589 Oak Court
+Chicago, IL
+
+Date of Birth: 20/01/1975
+
+Amount Due: $6325

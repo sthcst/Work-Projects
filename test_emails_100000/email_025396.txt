@@ -1,0 +1,9 @@
+contact:
+  name: Anna Guerrero
+  email: anna.guerrero870@example.com
+  phone: +1 713-585-8079
+  ssn: 098-11-6824
+  dob: 10/18/2005
+  address: 363 North Way
+  city: Seattle
+  state: CA

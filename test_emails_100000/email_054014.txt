@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Perez,jennifer.perez6354@business.net,+1 809-256-8646,743-50-7749,21/11/1987,"4583 Park Ave",Seattle,FL

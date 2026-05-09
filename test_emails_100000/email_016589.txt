@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Jackson
+  email: michelle.jackson479@company.com
+  phone: (601) 468-5290
+  ssn: 352424197
+  dob: 21/06/1967
+  address: 141 Birch Ave
+  city: Phoenix
+  state: MA

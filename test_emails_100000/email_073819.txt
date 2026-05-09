@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Walker
+  email: timothy.walker8152@business.net
+  phone: +1 889-777-1707
+  ssn: 165-59-9562
+  dob: 5/28/1955
+  address: 5909 Maple Dr
+  city: Jacksonville
+  state: WA

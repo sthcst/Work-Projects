@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Anderson",
+    "email": "jessica.anderson6450@work.org",
+    "phone": "+1 801-875-4107",
+    "ssn": "558-36-1395",
+    "dob": "6/13/1960",
+    "address": "21 East St",
+    "city": "San Jose",
+    "state": "MI"
+  }
+}

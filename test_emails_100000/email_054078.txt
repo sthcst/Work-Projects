@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Rodriguez,kathleen.rodriguez4496@yahoo.com,222-795-5697,967333729,06-26-1994,"9631 Birch Ave",Philadelphia,FL

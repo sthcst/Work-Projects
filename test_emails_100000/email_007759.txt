@@ -1,0 +1,14 @@
+INVOICE 763695
+
+Bill To:
+Name: Pamela Smith
+Email: pamela.smith4091@gmail.com
+Phone: 282-655-2436
+SSN: 454 77 7682
+
+Address: 4039 Elm Blvd
+Chicago, CA
+
+Date of Birth: 09/28/1965
+
+Amount Due: $5970

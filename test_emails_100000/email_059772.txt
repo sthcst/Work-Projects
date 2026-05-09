@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Taylor",
+    "email": "samantha.taylor7268@mail.com",
+    "phone": "(548) 566-9007",
+    "ssn": "186588831",
+    "dob": "08/16/1997",
+    "address": "8166 First St",
+    "city": "Austin",
+    "state": "NY"
+  }
+}

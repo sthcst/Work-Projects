@@ -1,0 +1,9 @@
+contact:
+  name: Christine Wilson
+  email: christine.wilson8888@outlook.com
+  phone: 394 810 7719
+  ssn: 057-43-6911
+  dob: 11/14/1985
+  address: 3126 Summer Rd
+  city: Chicago
+  state: TX

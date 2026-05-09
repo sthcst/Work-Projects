@@ -1,0 +1,14 @@
+INVOICE 852983
+
+Bill To:
+Name: James Rodriguez
+Email: james.rodriguez7249@company.com
+Phone: +1 576-448-9820
+SSN: 374-81-6037
+
+Address: 5086 Birch Blvd
+New York, WA
+
+Date of Birth: 02-04-2001
+
+Amount Due: $8650

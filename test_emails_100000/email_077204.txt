@@ -1,0 +1,14 @@
+INVOICE 928186
+
+Bill To:
+Name: Michael Peterson
+Email: michael.peterson788@yahoo.com
+Phone: 469 921 3620
+SSN: 030986845
+
+Address: 5662 East Blvd
+Austin, PA
+
+Date of Birth: 13/11/1987
+
+Amount Due: $4482

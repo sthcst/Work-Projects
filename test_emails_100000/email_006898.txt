@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Nelson
+  email: ronald.nelson4766@company.com
+  phone: +1 602-200-5225
+  ssn: 310 51 6713
+  dob: 02/09/1982
+  address: 7084 Birch Court
+  city: Washington
+  state: CA

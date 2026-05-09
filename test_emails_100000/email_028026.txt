@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Jones,michael.jones3194@outlook.com,643-729-6832,562-47-2009,08-22-1959,"9896 Birch Court",Jacksonville,FL

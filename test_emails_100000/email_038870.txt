@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Miller",
+    "email": "emma.miller1050@business.net",
+    "phone": "+1 915-880-1023",
+    "ssn": "793-30-6529",
+    "dob": "03-05-1999",
+    "address": "9060 Park Rd",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

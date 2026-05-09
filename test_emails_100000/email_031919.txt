@@ -1,0 +1,9 @@
+contact:
+  name: Christine Miller
+  email: christine.miller6234@yahoo.com
+  phone: (929) 610-6675
+  ssn: 541-46-6339
+  dob: 08-15-1960
+  address: 8606 Elm Way
+  city: Austin
+  state: CA

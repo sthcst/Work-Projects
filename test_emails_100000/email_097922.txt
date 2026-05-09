@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Smith
+  email: kathleen.smith9229@gmail.com
+  phone: (949) 212-7718
+  ssn: 304-49-3537
+  dob: 6/5/1994
+  address: 5714 Birch Rd
+  city: New York
+  state: FL

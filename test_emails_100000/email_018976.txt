@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Wilson
+  email: jessica.wilson9810@example.com
+  phone: +1 331-968-8257
+  ssn: 663 97 5816
+  dob: 03-26-1984
+  address: 2489 Maple Ave
+  city: Boston
+  state: CA

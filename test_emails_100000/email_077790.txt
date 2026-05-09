@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Dominguez,anthony.dominguez4310@mail.com,+1 356-299-5524,009 11 6713,10-18-1953,"9363 Birch Ave",Boston,DC

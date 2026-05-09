@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Smith,angela.smith5168@yahoo.com,+1 926-808-1127,457 05 2426,01/10/1978,"577 Sixth Rd",Boston,MA

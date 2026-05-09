@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Delgado",
+    "email": "charles.delgado8500@example.com",
+    "phone": "532-277-3128",
+    "ssn": "149 69 9391",
+    "dob": "25/06/1953",
+    "address": "6876 West Court",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

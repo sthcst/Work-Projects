@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Walker
+  email: daniel.walker4035@gmail.com
+  phone: 457-553-6899
+  ssn: 395-23-6959
+  dob: 05/21/1977
+  address: 9406 First Blvd
+  city: San Jose
+  state: NJ

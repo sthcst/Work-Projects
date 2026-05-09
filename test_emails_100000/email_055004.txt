@@ -1,0 +1,9 @@
+contact:
+  name: Christine Lewis
+  email: christine.lewis7833@gmail.com
+  phone: 260-358-7940
+  ssn: 478-83-7922
+  dob: 05/11/1967
+  address: 676 Maple Dr
+  city: Washington
+  state: TX

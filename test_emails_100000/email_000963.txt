@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Nunez,charles.nunez4428@gmail.com,+1 684-976-7010,519 22 8012,07/05/1973,"7050 Cedar St",Los Angeles,CA

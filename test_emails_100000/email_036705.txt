@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Campbell,brian.campbell7804@outlook.com,+1 889-632-8335,030 99 5772,12-15-1956,"2893 South Way",Dallas,OH

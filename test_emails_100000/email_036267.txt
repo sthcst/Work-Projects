@@ -1,0 +1,9 @@
+contact:
+  name: Mark Serrano
+  email: mark.serrano3223@outlook.com
+  phone: (827) 372-7666
+  ssn: 426-63-1496
+  dob: 03/08/1980
+  address: 2456 Park Dr
+  city: Washington
+  state: MI

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Guerrero",
+    "email": "matthew.guerrero8072@mail.com",
+    "phone": "675-731-2051",
+    "ssn": "351 94 2480",
+    "dob": "09-10-1968",
+    "address": "2287 Main Ln",
+    "city": "San Diego",
+    "state": "NY"
+  }
+}

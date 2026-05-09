@@ -1,0 +1,14 @@
+INVOICE 691940
+
+Bill To:
+Name: John Martinez
+Email: john.martinez9692@outlook.com
+Phone: (969) 775-8632
+SSN: 260-23-7382
+
+Address: 1621 Maple Court
+Washington, PA
+
+Date of Birth: 12-08-1966
+
+Amount Due: $7408

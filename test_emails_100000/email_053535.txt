@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Moore
+  email: christopher.moore5205@mail.com
+  phone: 963-853-8493
+  ssn: 544-15-9069
+  dob: 03-12-2000
+  address: 326 Fourth Blvd
+  city: Washington
+  state: MA

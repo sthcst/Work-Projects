@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Clark",
+    "email": "nicole.clark4724@business.net",
+    "phone": "399 849 3743",
+    "ssn": "691 88 5527",
+    "dob": "23/04/1993",
+    "address": "7091 Maple Ln",
+    "city": "Austin",
+    "state": "FL"
+  }
+}

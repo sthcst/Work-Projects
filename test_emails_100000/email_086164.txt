@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Ortiz
+  email: rachel.ortiz1477@example.com
+  phone: 598-456-7939
+  ssn: 249 68 4960
+  dob: 10-07-1976
+  address: 7406 Oak Ln
+  city: Dallas
+  state: DC

@@ -1,0 +1,14 @@
+INVOICE 316395
+
+Bill To:
+Name: Stephanie Perez
+Email: stephanie.perez241@example.com
+Phone: +1 825-672-1978
+SSN: 953563279
+
+Address: 3548 West Dr
+Dallas, FL
+
+Date of Birth: 03-24-1962
+
+Amount Due: $8664

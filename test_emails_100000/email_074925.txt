@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Brown",
+    "email": "mark.brown4386@outlook.com",
+    "phone": "(708) 963-4838",
+    "ssn": "868264487",
+    "dob": "11/1/1950",
+    "address": "9856 Park Ln",
+    "city": "Denver",
+    "state": "CO"
+  }
+}

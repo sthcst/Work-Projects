@@ -1,0 +1,14 @@
+INVOICE 646858
+
+Bill To:
+Name: Michael Dominguez
+Email: michael.dominguez2793@outlook.com
+Phone: 205 243 1193
+SSN: 612-71-7131
+
+Address: 4605 Birch Blvd
+Washington, CA
+
+Date of Birth: 04/26/1950
+
+Amount Due: $1209

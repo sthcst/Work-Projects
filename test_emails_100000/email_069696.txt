@@ -1,0 +1,9 @@
+contact:
+  name: Charles Harris
+  email: charles.harris3246@example.com
+  phone: 292-445-6772
+  ssn: 844-16-5374
+  dob: 3/13/1980
+  address: 9620 Sixth Blvd
+  city: Denver
+  state: OH

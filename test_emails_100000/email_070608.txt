@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Perez
+  email: kevin.perez4252@mail.com
+  phone: +1 330-488-9770
+  ssn: 150806358
+  dob: 10-04-1971
+  address: 8032 East Ave
+  city: Phoenix
+  state: CA

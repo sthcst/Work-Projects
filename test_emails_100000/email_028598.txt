@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Flores
+  email: amanda.flores6939@company.com
+  phone: +1 904-690-7974
+  ssn: 520-07-7855
+  dob: 21/10/1983
+  address: 6706 Second Court
+  city: Washington
+  state: FL

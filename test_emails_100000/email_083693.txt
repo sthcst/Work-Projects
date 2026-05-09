@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine White",
+    "email": "katherine.white2416@work.org",
+    "phone": "287-754-9953",
+    "ssn": "177194344",
+    "dob": "04-26-1964",
+    "address": "8765 South Dr",
+    "city": "San Antonio",
+    "state": "NJ"
+  }
+}

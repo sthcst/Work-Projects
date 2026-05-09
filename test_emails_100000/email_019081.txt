@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Lewis,daniel.lewis93@work.org,+1 256-963-8013,453209254,18/04/1986,"2841 First Rd",San Jose,DC

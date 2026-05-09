@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Garcia",
+    "email": "jason.garcia8400@example.com",
+    "phone": "+1 533-947-4084",
+    "ssn": "709076349",
+    "dob": "6/19/1959",
+    "address": "3827 Main Ln",
+    "city": "Philadelphia",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Taylor
+  email: ronald.taylor5743@work.org
+  phone: +1 270-825-4383
+  ssn: 622-17-9413
+  dob: 11/6/1965
+  address: 9787 Summer St
+  city: Chicago
+  state: WA

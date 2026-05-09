@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Alvarado,jennifer.alvarado9364@mail.com,967-908-2628,707767568,08/07/1995,"5520 Elm Ave",Dallas,OH

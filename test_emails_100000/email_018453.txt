@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Stewart,brenda.stewart2575@company.com,906 360 7457,708-17-1947,04/18/1995,"6779 Second Dr",San Jose,WA

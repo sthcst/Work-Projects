@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Smith,brian.smith7042@company.com,+1 517-259-2507,702-77-2592,02-08-1953,"2846 Cedar Court",Austin,WI

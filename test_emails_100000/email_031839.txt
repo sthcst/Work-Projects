@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Taylor,nicole.taylor6675@company.com,(367) 398-7291,494 51 8083,10/14/1992,"9112 Spring Rd",Dallas,OH

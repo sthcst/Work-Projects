@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Young,katherine.young7538@business.net,456 929 2565,051255173,25/02/1964,"5453 First Ave",San Diego,CA

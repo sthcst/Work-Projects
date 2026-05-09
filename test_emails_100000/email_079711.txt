@@ -1,0 +1,14 @@
+INVOICE 594450
+
+Bill To:
+Name: Kenneth Jimenez
+Email: kenneth.jimenez7851@company.com
+Phone: +1 533-942-9317
+SSN: 205-40-7870
+
+Address: 5766 Park Blvd
+Houston, CA
+
+Date of Birth: 11-07-1995
+
+Amount Due: $5702

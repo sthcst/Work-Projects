@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Guerrero",
+    "email": "katherine.guerrero5741@business.net",
+    "phone": "232 409 5820",
+    "ssn": "256 32 5074",
+    "dob": "5/6/1978",
+    "address": "7273 Elm Dr",
+    "city": "Phoenix",
+    "state": "VA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Perez",
+    "email": "richard.perez826@example.com",
+    "phone": "495 253 7865",
+    "ssn": "018-16-9455",
+    "dob": "1/16/1982",
+    "address": "2598 Maple Dr",
+    "city": "Boston",
+    "state": "NJ"
+  }
+}

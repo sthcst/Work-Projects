@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Smith
+  email: cynthia.smith3600@mail.com
+  phone: +1 475-793-4181
+  ssn: 335-80-2952
+  dob: 26/03/1954
+  address: 3233 Maple Rd
+  city: Chicago
+  state: PA

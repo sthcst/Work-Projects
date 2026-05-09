@@ -1,0 +1,14 @@
+INVOICE 573503
+
+Bill To:
+Name: Jessica Martinez
+Email: jessica.martinez6674@example.com
+Phone: 501 782 5986
+SSN: 062 43 7966
+
+Address: 5853 Pine Rd
+San Diego, WI
+
+Date of Birth: 7/1/1965
+
+Amount Due: $7439

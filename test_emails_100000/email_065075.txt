@@ -1,0 +1,14 @@
+INVOICE 700189
+
+Bill To:
+Name: Angela Clark
+Email: angela.clark4616@mail.com
+Phone: +1 507-979-7928
+SSN: 122-53-5564
+
+Address: 1407 First Ave
+San Antonio, WA
+
+Date of Birth: 06-14-1994
+
+Amount Due: $1431

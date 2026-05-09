@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Hernandez,ashley.hernandez4484@example.com,(305) 404-7365,944 93 6335,06/01/1991,"9524 West Dr",Boston,WA

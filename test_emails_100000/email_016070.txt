@@ -1,0 +1,9 @@
+contact:
+  name: Michael Garcia
+  email: michael.garcia1656@mail.com
+  phone: (761) 464-9661
+  ssn: 829736702
+  dob: 1/10/1964
+  address: 4949 East Blvd
+  city: New York
+  state: NJ

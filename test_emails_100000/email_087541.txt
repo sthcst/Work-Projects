@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Serrano,helen.serrano1322@yahoo.com,491 449 5419,575 89 6550,10/06/1960,"7683 Spring Court",Jacksonville,MI

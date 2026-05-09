@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Walker,james.walker6504@example.com,315 574 1129,656-49-3948,11/02/2003,"1275 Pine Way",Boston,MI

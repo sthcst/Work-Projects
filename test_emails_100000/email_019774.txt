@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Hall
+  email: deborah.hall4300@gmail.com
+  phone: 727-377-7509
+  ssn: 057 28 8332
+  dob: 05/09/1964
+  address: 1252 Sixth Rd
+  city: Austin
+  state: MD

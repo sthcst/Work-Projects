@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Walker,megan.walker6265@company.com,556 461 4718,904-15-7595,13/09/1955,"7057 Cedar Ave",Boston,CO

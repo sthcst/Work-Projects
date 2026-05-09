@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Serrano,mark.serrano5799@gmail.com,+1 418-981-5433,154047314,02/04/1953,"8484 Third Blvd",Denver,CA

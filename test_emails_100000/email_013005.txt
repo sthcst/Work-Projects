@@ -1,0 +1,9 @@
+contact:
+  name: Angela Bell
+  email: angela.bell2315@mail.com
+  phone: +1 687-387-5407
+  ssn: 926889066
+  dob: 16/03/1987
+  address: 9847 Spring Dr
+  city: Denver
+  state: NC

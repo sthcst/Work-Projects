@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Anderson
+  email: kathleen.anderson1555@example.com
+  phone: 688 379 8905
+  ssn: 176-40-5278
+  dob: 19/07/1954
+  address: 425 Main Court
+  city: Chicago
+  state: GA

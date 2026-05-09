@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Williams",
+    "email": "brian.williams5714@mail.com",
+    "phone": "974 965 3155",
+    "ssn": "433-91-1178",
+    "dob": "21/05/1957",
+    "address": "6063 Second Rd",
+    "city": "Denver",
+    "state": "NC"
+  }
+}

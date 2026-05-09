@@ -1,0 +1,9 @@
+contact:
+  name: Emily Young
+  email: emily.young3602@yahoo.com
+  phone: (747) 588-9778
+  ssn: 667 11 9299
+  dob: 08/22/1995
+  address: 9809 Second Ave
+  city: San Antonio
+  state: MA

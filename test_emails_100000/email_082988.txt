@@ -1,0 +1,14 @@
+INVOICE 379756
+
+Bill To:
+Name: John Jones
+Email: john.jones3622@company.com
+Phone: 656 436 8622
+SSN: 720-88-8754
+
+Address: 2820 South Dr
+Philadelphia, MD
+
+Date of Birth: 10-01-1988
+
+Amount Due: $4912

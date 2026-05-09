@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Thompson",
+    "email": "joseph.thompson2961@work.org",
+    "phone": "622 971 1747",
+    "ssn": "001-06-3524",
+    "dob": "07/10/1971",
+    "address": "2270 Park Ln",
+    "city": "Washington",
+    "state": "PA"
+  }
+}

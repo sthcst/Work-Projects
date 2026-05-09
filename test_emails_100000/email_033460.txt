@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Morgan",
+    "email": "christopher.morgan291@work.org",
+    "phone": "435-918-2600",
+    "ssn": "518 29 4627",
+    "dob": "01/27/2000",
+    "address": "8561 Birch Court",
+    "city": "Philadelphia",
+    "state": "MI"
+  }
+}

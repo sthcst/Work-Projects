@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Hall",
+    "email": "emma.hall5379@gmail.com",
+    "phone": "+1 734-935-1904",
+    "ssn": "591 18 2126",
+    "dob": "05-23-2002",
+    "address": "6182 Second Blvd",
+    "city": "San Jose",
+    "state": "FL"
+  }
+}

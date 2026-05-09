@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Evans,katherine.evans2763@mail.com,(221) 330-5126,687-71-1798,06-28-1993,"9892 Sixth Way",San Jose,MD

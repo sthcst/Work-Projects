@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Young",
+    "email": "shirley.young5878@business.net",
+    "phone": "923 507 6773",
+    "ssn": "779 98 1670",
+    "dob": "12/11/1985",
+    "address": "4731 Fifth St",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

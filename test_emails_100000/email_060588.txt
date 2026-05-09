@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Lewis,lisa.lewis894@company.com,782-341-2060,473 41 9420,03/18/1951,"3121 Park Way",Los Angeles,VA

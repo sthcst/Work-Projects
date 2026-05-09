@@ -1,0 +1,9 @@
+contact:
+  name: John Nunez
+  email: john.nunez1998@yahoo.com
+  phone: +1 684-839-3564
+  ssn: 910-16-2721
+  dob: 04/05/1981
+  address: 8690 Oak Court
+  city: San Diego
+  state: MO

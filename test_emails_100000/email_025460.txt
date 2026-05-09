@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Murillo
+  email: shirley.murillo4348@example.com
+  phone: 596-408-6830
+  ssn: 285-73-6621
+  dob: 08-27-2000
+  address: 9435 Main Dr
+  city: Philadelphia
+  state: MO

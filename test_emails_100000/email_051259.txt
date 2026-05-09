@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Reyes
+  email: jacob.reyes6219@company.com
+  phone: (553) 879-9478
+  ssn: 660-24-8603
+  dob: 04/06/1999
+  address: 3524 Elm Way
+  city: Boston
+  state: MA

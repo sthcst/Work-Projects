@@ -1,0 +1,9 @@
+contact:
+  name: Jane Cooper
+  email: jane.cooper8536@work.org
+  phone: 602 912 7015
+  ssn: 292-99-5250
+  dob: 11/16/1995
+  address: 5346 Fifth Blvd
+  city: Washington
+  state: AZ

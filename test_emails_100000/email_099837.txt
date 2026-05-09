@@ -1,0 +1,9 @@
+contact:
+  name: James Smith
+  email: james.smith2889@example.com
+  phone: +1 982-865-8282
+  ssn: 984 13 6304
+  dob: 7/13/1993
+  address: 7935 Sixth Rd
+  city: Chicago
+  state: TX

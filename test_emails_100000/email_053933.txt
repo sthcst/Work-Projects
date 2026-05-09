@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Johnson",
+    "email": "anna.johnson7402@business.net",
+    "phone": "391-913-1769",
+    "ssn": "555-42-5500",
+    "dob": "11-18-1969",
+    "address": "5115 South St",
+    "city": "Philadelphia",
+    "state": "CO"
+  }
+}

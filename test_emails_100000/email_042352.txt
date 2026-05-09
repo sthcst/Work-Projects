@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Young",
+    "email": "kenneth.young760@business.net",
+    "phone": "980 252 7163",
+    "ssn": "272 05 1810",
+    "dob": "11/07/2002",
+    "address": "5251 Third St",
+    "city": "San Jose",
+    "state": "FL"
+  }
+}

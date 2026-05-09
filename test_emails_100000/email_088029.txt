@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Davis",
+    "email": "john.davis9888@work.org",
+    "phone": "940 538 9484",
+    "ssn": "038016428",
+    "dob": "06/11/1985",
+    "address": "6942 Fourth Court",
+    "city": "New York",
+    "state": "TX"
+  }
+}

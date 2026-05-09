@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Jones",
+    "email": "brenda.jones4901@example.com",
+    "phone": "480 374 9755",
+    "ssn": "778-06-6079",
+    "dob": "19/01/1995",
+    "address": "8026 Park Court",
+    "city": "Washington",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Ramirez,gary.ramirez8746@gmail.com,981 954 5452,185 20 3879,09-21-1952,"5838 Park Court",Dallas,AZ

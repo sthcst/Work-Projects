@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Nelson,anna.nelson9940@outlook.com,943-225-1639,767 87 7873,02/06/1953,"4692 East Dr",New York,TX

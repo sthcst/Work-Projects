@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Nelson,kenneth.nelson7415@work.org,+1 525-231-6916,112-11-9754,27/01/1957,"3570 Spring St",San Jose,CA

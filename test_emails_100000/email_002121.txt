@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Romero,nicholas.romero4580@gmail.com,259 423 2066,349 09 4407,11/13/1973,"8946 West Blvd",Denver,OH

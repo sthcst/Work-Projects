@@ -1,0 +1,9 @@
+contact:
+  name: Donald Sanchez
+  email: donald.sanchez8315@example.com
+  phone: 472-911-9303
+  ssn: 750187704
+  dob: 09-02-1986
+  address: 7613 Pine Ave
+  city: Jacksonville
+  state: WA

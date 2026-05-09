@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Reeves",
+    "email": "michelle.reeves2134@gmail.com",
+    "phone": "738-485-5263",
+    "ssn": "531254376",
+    "dob": "01-10-1978",
+    "address": "6491 Summer Ave",
+    "city": "Houston",
+    "state": "PA"
+  }
+}

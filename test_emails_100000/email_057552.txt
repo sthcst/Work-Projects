@@ -1,0 +1,14 @@
+INVOICE 155308
+
+Bill To:
+Name: Megan Ortiz
+Email: megan.ortiz7753@example.com
+Phone: 872 365 5088
+SSN: 135-77-2526
+
+Address: 3092 Elm Way
+Phoenix, MD
+
+Date of Birth: 06-02-1952
+
+Amount Due: $740

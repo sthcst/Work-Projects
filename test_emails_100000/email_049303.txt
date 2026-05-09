@@ -1,0 +1,9 @@
+contact:
+  name: David Moore
+  email: david.moore3447@company.com
+  phone: (996) 526-6355
+  ssn: 591495775
+  dob: 02-07-1962
+  address: 3168 Maple St
+  city: Los Angeles
+  state: NJ

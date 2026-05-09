@@ -1,0 +1,14 @@
+INVOICE 222363
+
+Bill To:
+Name: Rachel Nelson
+Email: rachel.nelson6079@example.com
+Phone: 584 366 4751
+SSN: 984-89-6188
+
+Address: 2183 Fifth Ln
+Washington, WA
+
+Date of Birth: 7/2/1968
+
+Amount Due: $6036

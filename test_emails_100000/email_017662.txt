@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Bell",
+    "email": "christopher.bell2139@work.org",
+    "phone": "(810) 785-8081",
+    "ssn": "373209829",
+    "dob": "2/4/1957",
+    "address": "3067 North Dr",
+    "city": "Chicago",
+    "state": "IL"
+  }
+}

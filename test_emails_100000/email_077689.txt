@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Moore",
+    "email": "jeffrey.moore9006@company.com",
+    "phone": "519-430-9172",
+    "ssn": "459 82 9537",
+    "dob": "6/23/1977",
+    "address": "2880 Third Rd",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

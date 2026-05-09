@@ -1,0 +1,14 @@
+INVOICE 839699
+
+Bill To:
+Name: William Parker
+Email: william.parker4872@mail.com
+Phone: 222 784 4650
+SSN: 458503253
+
+Address: 2626 West Blvd
+Los Angeles, IL
+
+Date of Birth: 01-28-1984
+
+Amount Due: $9280

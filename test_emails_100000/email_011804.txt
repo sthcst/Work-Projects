@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Morris",
+    "email": "edward.morris1625@business.net",
+    "phone": "812-570-8023",
+    "ssn": "597-43-1653",
+    "dob": "11/18/1959",
+    "address": "5763 Elm Rd",
+    "city": "Philadelphia",
+    "state": "WI"
+  }
+}

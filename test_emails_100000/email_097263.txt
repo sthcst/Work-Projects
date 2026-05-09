@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Collins",
+    "email": "lisa.collins7112@yahoo.com",
+    "phone": "+1 699-720-6110",
+    "ssn": "005-43-6875",
+    "dob": "16/05/1994",
+    "address": "5476 Oak Ln",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

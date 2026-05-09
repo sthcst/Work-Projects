@@ -1,0 +1,14 @@
+INVOICE 322310
+
+Bill To:
+Name: Emma Stewart
+Email: emma.stewart4831@company.com
+Phone: 322 614 9744
+SSN: 470-16-6814
+
+Address: 6478 Second Blvd
+Phoenix, PA
+
+Date of Birth: 12-07-1975
+
+Amount Due: $1911

@@ -1,0 +1,12 @@
+SUPPORT TICKET #43110
+
+Customer: Mark Peterson
+Email: mark.peterson5185@example.com
+Phone: 554 496 6012
+Account: 001155349
+
+Issue Description: Technical problem reported
+DOB on file: 10/5/1950
+Address: 3408 Cedar Way, Phoenix, TX
+
+Status: OPEN

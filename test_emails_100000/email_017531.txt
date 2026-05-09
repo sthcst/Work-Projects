@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Miller,deborah.miller8681@yahoo.com,(841) 902-5317,059-02-9952,5/25/1962,"5587 East Way",Boston,NJ

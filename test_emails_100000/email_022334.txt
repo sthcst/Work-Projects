@@ -1,0 +1,9 @@
+contact:
+  name: Jane Roberts
+  email: jane.roberts9848@outlook.com
+  phone: +1 741-825-3920
+  ssn: 455-40-4823
+  dob: 10/10/1974
+  address: 1675 Birch Blvd
+  city: Jacksonville
+  state: NC

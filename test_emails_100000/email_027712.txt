@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Morris
+  email: sarah.morris4485@business.net
+  phone: 229-292-8397
+  ssn: 718 83 3998
+  dob: 11/11/1989
+  address: 5604 South Ln
+  city: Dallas
+  state: TN

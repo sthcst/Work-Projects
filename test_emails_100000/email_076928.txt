@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Reed,kevin.reed5543@work.org,+1 482-961-2830,633 20 1661,6/21/1973,"51 Fifth Dr",Los Angeles,WA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Matthew Phillips,matthew.phillips3433@gmail.com,563 312 5458,131519925,1/27/1991,"2916 Cedar Court",Chicago,AZ

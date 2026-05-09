@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Murillo,steven.murillo2532@company.com,985 918 8353,035525700,11-07-1968,"2674 Fourth St",San Jose,TN

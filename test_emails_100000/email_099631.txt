@@ -1,0 +1,14 @@
+INVOICE 730540
+
+Bill To:
+Name: Paul Phillips
+Email: paul.phillips4030@example.com
+Phone: (726) 681-4068
+SSN: 258324407
+
+Address: 8702 Third Ln
+Boston, AZ
+
+Date of Birth: 08/22/1976
+
+Amount Due: $9403

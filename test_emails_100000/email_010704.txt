@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Cooper",
+    "email": "michelle.cooper3828@business.net",
+    "phone": "(221) 227-1997",
+    "ssn": "486 27 1843",
+    "dob": "05/16/2005",
+    "address": "7424 Cedar Blvd",
+    "city": "Chicago",
+    "state": "MO"
+  }
+}

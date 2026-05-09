@@ -1,0 +1,12 @@
+SUPPORT TICKET #93643
+
+Customer: Donald Roberts
+Email: donald.roberts78@example.com
+Phone: 735 496 3274
+Account: 907 58 6479
+
+Issue Description: Technical problem reported
+DOB on file: 11/14/1950
+Address: 1287 Fourth Dr, Washington, NY
+
+Status: OPEN

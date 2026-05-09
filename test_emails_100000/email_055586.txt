@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Clark",
+    "email": "donald.clark2328@example.com",
+    "phone": "(425) 758-2681",
+    "ssn": "712164191",
+    "dob": "11/09/1994",
+    "address": "9334 Cedar Court",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

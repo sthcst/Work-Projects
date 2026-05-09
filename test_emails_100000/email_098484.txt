@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Peterson",
+    "email": "nicole.peterson3718@gmail.com",
+    "phone": "448 899 2059",
+    "ssn": "499-24-5213",
+    "dob": "12/26/1978",
+    "address": "834 Summer Dr",
+    "city": "Los Angeles",
+    "state": "MI"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Alvarado,brenda.alvarado7997@business.net,691-796-1452,012 13 9687,1/13/1960,"1832 Spring Dr",Boston,MA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Delgado,kevin.delgado9159@gmail.com,726-487-9468,342-01-1735,26/03/1980,"4072 Elm Court",Los Angeles,TX

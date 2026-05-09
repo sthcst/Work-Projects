@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Rodriguez",
+    "email": "sarah.rodriguez4396@business.net",
+    "phone": "754 735 9797",
+    "ssn": "892 52 3179",
+    "dob": "10/11/1982",
+    "address": "5140 Pine St",
+    "city": "San Antonio",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Gonzalez,angela.gonzalez8739@mail.com,(338) 289-3258,535535779,26/02/1995,"3861 Birch Court",Philadelphia,OH

@@ -1,0 +1,9 @@
+contact:
+  name: Emily Roberts
+  email: emily.roberts5313@business.net
+  phone: 453-327-8181
+  ssn: 396 49 6268
+  dob: 03-18-1974
+  address: 8503 Maple Dr
+  city: San Diego
+  state: OH

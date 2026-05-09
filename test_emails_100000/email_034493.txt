@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Nelson",
+    "email": "james.nelson1734@yahoo.com",
+    "phone": "809-649-6343",
+    "ssn": "167 99 4830",
+    "dob": "07-09-1957",
+    "address": "3563 Summer Rd",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Campbell,andrew.campbell8338@outlook.com,598-874-8881,811479218,05-18-1982,"1022 Birch Ave",Austin,TX

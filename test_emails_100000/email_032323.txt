@@ -1,0 +1,14 @@
+INVOICE 480253
+
+Bill To:
+Name: Lisa White
+Email: lisa.white2542@company.com
+Phone: +1 923-764-7646
+SSN: 408 41 3278
+
+Address: 3447 North St
+Jacksonville, TX
+
+Date of Birth: 05/19/1960
+
+Amount Due: $9135

@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Collins
+  email: deborah.collins7023@gmail.com
+  phone: +1 361-899-9237
+  ssn: 924 76 9308
+  dob: 05-17-1992
+  address: 9245 Second St
+  city: Austin
+  state: AZ

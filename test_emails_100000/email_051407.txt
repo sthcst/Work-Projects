@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Alvarado,mark.alvarado54@company.com,(248) 848-1730,202-52-7914,11/28/1965,"2429 Second Dr",Dallas,AZ

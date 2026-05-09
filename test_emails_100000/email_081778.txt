@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Lee,joseph.lee58@outlook.com,+1 381-793-2722,387-18-9318,06-25-1962,"7840 Main Court",San Jose,PA

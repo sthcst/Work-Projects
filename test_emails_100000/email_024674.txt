@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Sanchez,maria.sanchez2312@mail.com,602 979 1056,209 82 8328,07/16/1957,"4781 Second Rd",Denver,NY

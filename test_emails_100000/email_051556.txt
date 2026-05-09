@@ -1,0 +1,9 @@
+contact:
+  name: George Parker
+  email: george.parker9462@company.com
+  phone: 692 516 4584
+  ssn: 733 42 7027
+  dob: 2/19/1972
+  address: 1323 Fifth St
+  city: Philadelphia
+  state: NJ

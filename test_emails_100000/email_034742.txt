@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Reeves
+  email: samantha.reeves792@gmail.com
+  phone: +1 616-505-5210
+  ssn: 007-89-3604
+  dob: 09-09-1975
+  address: 1835 Cedar St
+  city: New York
+  state: DC

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew White",
+    "email": "andrew.white7945@gmail.com",
+    "phone": "+1 201-549-4780",
+    "ssn": "970 69 2231",
+    "dob": "11-03-1968",
+    "address": "127 Sixth Ln",
+    "city": "Austin",
+    "state": "CO"
+  }
+}

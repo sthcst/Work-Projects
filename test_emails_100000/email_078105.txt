@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Collins,jennifer.collins8167@company.com,+1 578-412-9699,856461760,17/06/1973,"348 Spring Ave",Austin,TX

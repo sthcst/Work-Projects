@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Williams",
+    "email": "donald.williams102@yahoo.com",
+    "phone": "680-826-4297",
+    "ssn": "677-13-8266",
+    "dob": "5/11/1998",
+    "address": "3820 Pine Ave",
+    "city": "Jacksonville",
+    "state": "WA"
+  }
+}

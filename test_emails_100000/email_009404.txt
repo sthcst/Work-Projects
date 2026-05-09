@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Rogers",
+    "email": "robert.rogers3868@business.net",
+    "phone": "(456) 335-9284",
+    "ssn": "042-46-6182",
+    "dob": "03-06-1952",
+    "address": "7166 East Dr",
+    "city": "San Diego",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Stewart,ashley.stewart4922@business.net,(564) 724-1030,184621568,01-13-1996,"1265 Maple Rd",Denver,NJ

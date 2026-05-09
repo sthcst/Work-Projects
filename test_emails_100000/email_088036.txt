@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Hernandez",
+    "email": "angela.hernandez7929@outlook.com",
+    "phone": "+1 502-709-2574",
+    "ssn": "770 98 7210",
+    "dob": "10-07-1965",
+    "address": "2203 Main Ln",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Cooper
+  email: stephanie.cooper8841@work.org
+  phone: +1 389-208-6177
+  ssn: 607-22-3988
+  dob: 2/8/1983
+  address: 9200 Cedar St
+  city: Washington
+  state: AZ

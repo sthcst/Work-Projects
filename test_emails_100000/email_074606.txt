@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Harris",
+    "email": "nicholas.harris4086@outlook.com",
+    "phone": "+1 972-460-8049",
+    "ssn": "038-40-7570",
+    "dob": "03/23/1986",
+    "address": "8373 Elm Blvd",
+    "city": "Washington",
+    "state": "AZ"
+  }
+}

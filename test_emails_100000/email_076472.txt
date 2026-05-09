@@ -1,0 +1,9 @@
+contact:
+  name: Steven Thompson
+  email: steven.thompson3544@business.net
+  phone: (940) 782-4924
+  ssn: 393-17-6216
+  dob: 06/27/1999
+  address: 5205 Summer Way
+  city: San Jose
+  state: CO

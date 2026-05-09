@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Jimenez
+  email: shirley.jimenez2032@example.com
+  phone: (513) 767-5569
+  ssn: 837 37 3877
+  dob: 6/20/1950
+  address: 384 Summer Rd
+  city: Chicago
+  state: OH

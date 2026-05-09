@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Hall",
+    "email": "brian.hall5150@business.net",
+    "phone": "466-452-3121",
+    "ssn": "693-34-1706",
+    "dob": "06-19-1968",
+    "address": "7491 Third Ave",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

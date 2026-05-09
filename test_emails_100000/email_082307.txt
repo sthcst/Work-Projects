@@ -1,0 +1,9 @@
+contact:
+  name: Robert Dominguez
+  email: robert.dominguez8152@example.com
+  phone: 535-620-6269
+  ssn: 790172114
+  dob: 28/03/1966
+  address: 3038 North St
+  city: Austin
+  state: MO

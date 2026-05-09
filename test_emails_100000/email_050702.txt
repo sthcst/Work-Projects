@@ -1,0 +1,12 @@
+SUPPORT TICKET #43795
+
+Customer: Edward Martin
+Email: edward.martin6527@example.com
+Phone: (317) 457-8750
+Account: 975-11-1035
+
+Issue Description: Technical problem reported
+DOB on file: 5/28/1952
+Address: 4566 North Blvd, Boston, CA
+
+Status: OPEN

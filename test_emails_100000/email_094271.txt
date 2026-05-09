@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Jones
+  email: katherine.jones1900@example.com
+  phone: 733 536 5236
+  ssn: 759762809
+  dob: 25/08/1983
+  address: 8903 Park Blvd
+  city: Denver
+  state: TN

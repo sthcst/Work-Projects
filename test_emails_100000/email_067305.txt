@@ -1,0 +1,9 @@
+contact:
+  name: Steven Martin
+  email: steven.martin8254@example.com
+  phone: 686 884 2458
+  ssn: 185 35 3614
+  dob: 10/3/1965
+  address: 7952 Birch Rd
+  city: Dallas
+  state: PA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Anderson,sarah.anderson5152@business.net,(291) 314-3552,909-20-7185,07/22/1957,"3396 Spring Ave",Austin,FL

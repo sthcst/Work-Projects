@@ -1,0 +1,9 @@
+contact:
+  name: Christine Dominguez
+  email: christine.dominguez3434@outlook.com
+  phone: +1 267-244-1058
+  ssn: 401 41 2412
+  dob: 27/04/2001
+  address: 9276 Summer Way
+  city: Chicago
+  state: TX

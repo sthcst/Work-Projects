@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Anderson",
+    "email": "ryan.anderson5982@example.com",
+    "phone": "445 695 1923",
+    "ssn": "632-42-7966",
+    "dob": "3/26/2002",
+    "address": "2388 Second Court",
+    "city": "Dallas",
+    "state": "NY"
+  }
+}

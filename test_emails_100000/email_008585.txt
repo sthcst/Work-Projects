@@ -1,0 +1,14 @@
+INVOICE 775708
+
+Bill To:
+Name: Kenneth Thompson
+Email: kenneth.thompson4363@mail.com
+Phone: 766 431 5597
+SSN: 565-10-4404
+
+Address: 2074 South Ln
+Austin, IL
+
+Date of Birth: 10-13-2001
+
+Amount Due: $5816

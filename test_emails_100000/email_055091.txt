@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Young",
+    "email": "anna.young7419@mail.com",
+    "phone": "+1 558-783-8281",
+    "ssn": "399 81 9092",
+    "dob": "01/04/1955",
+    "address": "8290 Cedar Dr",
+    "city": "Phoenix",
+    "state": "OH"
+  }
+}

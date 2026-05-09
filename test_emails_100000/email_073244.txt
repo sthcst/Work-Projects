@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Moore",
+    "email": "joshua.moore2290@example.com",
+    "phone": "858 824 5668",
+    "ssn": "885-26-6083",
+    "dob": "07/24/2005",
+    "address": "5575 Summer Ln",
+    "city": "San Antonio",
+    "state": "MD"
+  }
+}

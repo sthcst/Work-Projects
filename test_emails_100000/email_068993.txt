@@ -1,0 +1,9 @@
+contact:
+  name: Steven Hernandez
+  email: steven.hernandez7025@gmail.com
+  phone: +1 878-357-2861
+  ssn: 903 16 6591
+  dob: 06/01/1974
+  address: 6205 Maple St
+  city: Los Angeles
+  state: NY

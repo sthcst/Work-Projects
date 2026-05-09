@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Parker
+  email: pamela.parker5272@company.com
+  phone: 288 755 3493
+  ssn: 192 89 7777
+  dob: 4/27/1970
+  address: 3664 South Ave
+  city: Austin
+  state: TX

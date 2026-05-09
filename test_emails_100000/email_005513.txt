@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Morris,kevin.morris6717@mail.com,(884) 974-1116,684 05 9830,17/07/1997,"8049 Pine Ln",Los Angeles,FL

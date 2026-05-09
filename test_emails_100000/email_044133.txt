@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Anderson",
+    "email": "stephanie.anderson8755@work.org",
+    "phone": "702 887 6430",
+    "ssn": "855114382",
+    "dob": "09/18/1976",
+    "address": "8062 Sixth Dr",
+    "city": "San Diego",
+    "state": "MA"
+  }
+}

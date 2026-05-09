@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Robinson
+  email: katherine.robinson1451@work.org
+  phone: +1 770-540-6476
+  ssn: 167-19-4228
+  dob: 09/26/1971
+  address: 6422 East Rd
+  city: Philadelphia
+  state: DC

@@ -1,0 +1,9 @@
+contact:
+  name: Emily Flores
+  email: emily.flores91@yahoo.com
+  phone: 689 914 5382
+  ssn: 209 45 3573
+  dob: 11-10-1994
+  address: 845 Pine Blvd
+  city: Chicago
+  state: WA

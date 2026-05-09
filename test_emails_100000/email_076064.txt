@@ -1,0 +1,9 @@
+contact:
+  name: Michael Rodriguez
+  email: michael.rodriguez4882@gmail.com
+  phone: 214 665 6046
+  ssn: 390981995
+  dob: 9/13/2004
+  address: 5917 South Rd
+  city: Seattle
+  state: TX

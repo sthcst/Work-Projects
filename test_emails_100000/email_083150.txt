@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Reed,gary.reed9630@yahoo.com,+1 327-442-2814,396 25 9726,10/05/1966,"1421 Fourth St",San Diego,AZ

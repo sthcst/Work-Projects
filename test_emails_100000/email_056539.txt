@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Anderson
+  email: jeffrey.anderson1339@company.com
+  phone: +1 851-499-3454
+  ssn: 237-27-3321
+  dob: 07/28/1980
+  address: 9204 Pine Blvd
+  city: Boston
+  state: IL

@@ -1,0 +1,9 @@
+contact:
+  name: Steven Smith
+  email: steven.smith4542@company.com
+  phone: 614-802-5349
+  ssn: 282-95-4828
+  dob: 6/4/1989
+  address: 3541 Birch Way
+  city: Austin
+  state: NC

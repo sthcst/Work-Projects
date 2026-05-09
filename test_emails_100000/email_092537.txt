@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Serrano",
+    "email": "ronald.serrano1575@work.org",
+    "phone": "316-224-1073",
+    "ssn": "399984904",
+    "dob": "24/06/2003",
+    "address": "691 Spring Dr",
+    "city": "Jacksonville",
+    "state": "CO"
+  }
+}

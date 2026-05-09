@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Lee",
+    "email": "donald.lee6749@work.org",
+    "phone": "579 972 8012",
+    "ssn": "589471018",
+    "dob": "20/05/1982",
+    "address": "941 Maple Blvd",
+    "city": "Washington",
+    "state": "WA"
+  }
+}

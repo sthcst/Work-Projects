@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Edwards,brenda.edwards9446@yahoo.com,379 531 7146,719-66-3896,17/07/1991,"6244 Pine Ln",Jacksonville,CA

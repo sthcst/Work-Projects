@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Reyes",
+    "email": "steven.reyes502@company.com",
+    "phone": "(454) 793-1046",
+    "ssn": "068-89-5703",
+    "dob": "2/27/1972",
+    "address": "7287 Maple Way",
+    "city": "Washington",
+    "state": "WI"
+  }
+}

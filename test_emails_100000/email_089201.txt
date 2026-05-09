@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Lewis",
+    "email": "jeffrey.lewis1777@company.com",
+    "phone": "+1 618-982-1744",
+    "ssn": "571427345",
+    "dob": "11-01-1994",
+    "address": "7302 Maple Rd",
+    "city": "Austin",
+    "state": "WA"
+  }
+}

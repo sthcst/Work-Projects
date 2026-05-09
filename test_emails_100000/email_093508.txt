@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Jones",
+    "email": "katherine.jones2978@gmail.com",
+    "phone": "+1 817-686-1251",
+    "ssn": "107 88 5315",
+    "dob": "21/11/1950",
+    "address": "8976 Maple Ln",
+    "city": "San Antonio",
+    "state": "TN"
+  }
+}

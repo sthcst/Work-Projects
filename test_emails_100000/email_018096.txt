@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Romero,maria.romero5644@mail.com,(431) 480-9890,619218809,01-13-1999,"538 Maple Blvd",Chicago,TX

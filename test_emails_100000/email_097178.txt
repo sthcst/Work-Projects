@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Jones",
+    "email": "gary.jones411@yahoo.com",
+    "phone": "+1 426-572-5213",
+    "ssn": "036 57 7992",
+    "dob": "09/02/1992",
+    "address": "4378 Fifth Court",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

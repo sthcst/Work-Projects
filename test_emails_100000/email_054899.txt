@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Davis,ashley.davis5677@mail.com,486 412 5627,341-54-7566,06/13/1997,"6824 Cedar Dr",San Diego,TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Brown",
+    "email": "jeffrey.brown4256@example.com",
+    "phone": "918 821 9572",
+    "ssn": "771-10-6094",
+    "dob": "2/12/1972",
+    "address": "9732 Summer St",
+    "city": "Philadelphia",
+    "state": "IL"
+  }
+}

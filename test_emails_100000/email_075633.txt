@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Rodriguez",
+    "email": "jeffrey.rodriguez8144@outlook.com",
+    "phone": "(661) 816-5095",
+    "ssn": "283-16-8768",
+    "dob": "04/04/1969",
+    "address": "2005 Park Court",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

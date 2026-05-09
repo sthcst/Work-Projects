@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Jones,emily.jones4246@business.net,241-444-9106,519133980,3/18/1977,"543 North Court",San Antonio,TX

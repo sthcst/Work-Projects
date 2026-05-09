@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Parker
+  email: joshua.parker5762@yahoo.com
+  phone: (358) 872-8900
+  ssn: 230146736
+  dob: 06-04-1998
+  address: 9416 Park Way
+  city: New York
+  state: OH

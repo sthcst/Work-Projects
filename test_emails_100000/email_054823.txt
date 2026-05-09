@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Perez",
+    "email": "donald.perez4818@mail.com",
+    "phone": "+1 669-472-7975",
+    "ssn": "121788181",
+    "dob": "07-22-2004",
+    "address": "3570 Cedar Way",
+    "city": "Philadelphia",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Cooper,george.cooper1122@outlook.com,+1 957-627-9710,489 23 5598,8/18/1978,"8027 Sixth Court",Seattle,AZ

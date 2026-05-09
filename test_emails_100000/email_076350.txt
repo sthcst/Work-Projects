@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Nelson
+  email: kathleen.nelson9369@work.org
+  phone: (578) 665-3486
+  ssn: 341227206
+  dob: 01-01-1993
+  address: 3521 First Rd
+  city: San Jose
+  state: MI

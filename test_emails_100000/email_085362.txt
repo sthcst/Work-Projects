@@ -1,0 +1,14 @@
+INVOICE 776716
+
+Bill To:
+Name: Charles Smith
+Email: charles.smith1285@company.com
+Phone: (866) 695-5400
+SSN: 487-40-7291
+
+Address: 6993 Fifth Court
+Phoenix, OH
+
+Date of Birth: 3/27/1974
+
+Amount Due: $6241

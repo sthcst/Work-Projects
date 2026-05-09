@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Smith,richard.smith590@outlook.com,468 831 4236,775084238,06/04/1958,"1040 Park Court",Chicago,NC

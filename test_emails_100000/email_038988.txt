@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Brown
+  email: kenneth.brown6393@example.com
+  phone: 257 842 3125
+  ssn: 890-14-9925
+  dob: 08/04/1993
+  address: 2499 Oak Rd
+  city: San Jose
+  state: MA

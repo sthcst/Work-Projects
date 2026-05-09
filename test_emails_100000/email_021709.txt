@@ -1,0 +1,14 @@
+INVOICE 238321
+
+Bill To:
+Name: Charles Reeves
+Email: charles.reeves9698@company.com
+Phone: +1 702-903-5623
+SSN: 722-61-1295
+
+Address: 8835 South Court
+Seattle, MA
+
+Date of Birth: 7/21/1969
+
+Amount Due: $3093

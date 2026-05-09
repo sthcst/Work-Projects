@@ -1,0 +1,14 @@
+INVOICE 874912
+
+Bill To:
+Name: Jennifer Jackson
+Email: jennifer.jackson9222@yahoo.com
+Phone: 435-933-5819
+SSN: 717757200
+
+Address: 6486 Second Dr
+San Antonio, GA
+
+Date of Birth: 07/12/1957
+
+Amount Due: $2690

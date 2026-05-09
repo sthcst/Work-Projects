@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Brown
+  email: jennifer.brown2141@gmail.com
+  phone: (369) 965-7682
+  ssn: 071 90 6338
+  dob: 27/03/1984
+  address: 5386 Cedar Dr
+  city: San Diego
+  state: TX

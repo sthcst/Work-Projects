@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Moore",
+    "email": "ryan.moore1693@gmail.com",
+    "phone": "+1 371-305-2651",
+    "ssn": "753-28-6872",
+    "dob": "12-07-1961",
+    "address": "7057 Fifth Rd",
+    "city": "Chicago",
+    "state": "WA"
+  }
+}

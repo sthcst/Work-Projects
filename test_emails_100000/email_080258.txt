@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Bell",
+    "email": "helen.bell6690@gmail.com",
+    "phone": "(947) 420-9246",
+    "ssn": "639 15 3172",
+    "dob": "19/05/1962",
+    "address": "6129 Spring Dr",
+    "city": "New York",
+    "state": "MI"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Brown,nicole.brown3731@company.com,871-369-6569,290-26-7768,11/19/1997,"240 Summer Way",Houston,CA

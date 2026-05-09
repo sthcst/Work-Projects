@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Stewart,kathleen.stewart9547@outlook.com,468 242 1262,615177491,21/07/1989,"4902 Oak Blvd",Houston,FL

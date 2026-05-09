@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Bell,ronald.bell4899@mail.com,527 454 7753,936 30 9474,08-07-1980,"659 Elm Ln",Dallas,PA

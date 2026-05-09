@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Carter
+  email: joshua.carter2125@company.com
+  phone: 309 812 1867
+  ssn: 980-10-1948
+  dob: 01-26-1993
+  address: 1869 Fifth Dr
+  city: Chicago
+  state: WA

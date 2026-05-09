@@ -1,0 +1,9 @@
+contact:
+  name: John Thomas
+  email: john.thomas3044@outlook.com
+  phone: +1 853-966-8679
+  ssn: 136-68-1688
+  dob: 12/24/1992
+  address: 5846 Birch Way
+  city: Austin
+  state: CO

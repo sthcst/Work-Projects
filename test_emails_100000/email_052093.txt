@@ -1,0 +1,14 @@
+INVOICE 222599
+
+Bill To:
+Name: Joseph Davis
+Email: joseph.davis9303@yahoo.com
+Phone: 748-735-5959
+SSN: 018-17-2116
+
+Address: 2277 East Blvd
+Phoenix, CA
+
+Date of Birth: 7/23/1992
+
+Amount Due: $7166

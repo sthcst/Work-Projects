@@ -1,0 +1,14 @@
+INVOICE 103022
+
+Bill To:
+Name: David Delgado
+Email: david.delgado1284@example.com
+Phone: (239) 425-1072
+SSN: 971-73-9121
+
+Address: 3492 Cedar Rd
+San Jose, TX
+
+Date of Birth: 07-12-1958
+
+Amount Due: $1737

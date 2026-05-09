@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Evans",
+    "email": "rachel.evans8133@yahoo.com",
+    "phone": "506-403-6382",
+    "ssn": "649719704",
+    "dob": "08/25/1996",
+    "address": "5622 Cedar Ave",
+    "city": "New York",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Taylor
+  email: jeffrey.taylor387@work.org
+  phone: (662) 275-5138
+  ssn: 134-53-6213
+  dob: 04-11-1970
+  address: 4964 Park Rd
+  city: San Diego
+  state: GA

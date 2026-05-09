@@ -1,0 +1,14 @@
+INVOICE 325006
+
+Bill To:
+Name: Jeffrey Williams
+Email: jeffrey.williams2488@example.com
+Phone: +1 678-569-3738
+SSN: 087-69-1319
+
+Address: 4062 Oak Way
+San Antonio, OH
+
+Date of Birth: 7/23/1998
+
+Amount Due: $2911

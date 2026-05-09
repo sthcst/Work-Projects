@@ -1,0 +1,9 @@
+contact:
+  name: Maria Ramirez
+  email: maria.ramirez2068@business.net
+  phone: 935 296 6783
+  ssn: 982419912
+  dob: 12-07-1977
+  address: 665 Summer Rd
+  city: Houston
+  state: CA

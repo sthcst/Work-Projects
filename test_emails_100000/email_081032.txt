@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Hernandez",
+    "email": "anna.hernandez6246@company.com",
+    "phone": "867 811 7193",
+    "ssn": "832233790",
+    "dob": "04-25-1999",
+    "address": "3652 Main Ave",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

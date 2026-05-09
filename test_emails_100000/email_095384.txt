@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Alvarado",
+    "email": "stephanie.alvarado638@outlook.com",
+    "phone": "346 544 4849",
+    "ssn": "182-23-3358",
+    "dob": "6/17/1993",
+    "address": "7956 Fourth St",
+    "city": "Los Angeles",
+    "state": "MA"
+  }
+}

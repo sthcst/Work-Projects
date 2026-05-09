@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Alvarado
+  email: deborah.alvarado5828@mail.com
+  phone: +1 626-662-9044
+  ssn: 783 60 6027
+  dob: 20/08/1975
+  address: 7781 Pine Way
+  city: Houston
+  state: CA

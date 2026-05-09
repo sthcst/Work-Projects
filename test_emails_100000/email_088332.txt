@@ -1,0 +1,14 @@
+INVOICE 100773
+
+Bill To:
+Name: Daniel Garcia
+Email: daniel.garcia6611@mail.com
+Phone: (614) 569-9311
+SSN: 874 18 5672
+
+Address: 510 West Way
+Dallas, CA
+
+Date of Birth: 05/21/1965
+
+Amount Due: $2991

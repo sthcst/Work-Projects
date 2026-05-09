@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Lopez",
+    "email": "cynthia.lopez28@gmail.com",
+    "phone": "560-409-2657",
+    "ssn": "517 39 3937",
+    "dob": "5/2/1989",
+    "address": "7090 Cedar Way",
+    "city": "Los Angeles",
+    "state": "CO"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 880217
+
+Bill To:
+Name: Anthony Roberts
+Email: anthony.roberts6912@work.org
+Phone: +1 568-203-5176
+SSN: 957507562
+
+Address: 2250 Birch St
+Boston, NJ
+
+Date of Birth: 28/04/1976
+
+Amount Due: $735

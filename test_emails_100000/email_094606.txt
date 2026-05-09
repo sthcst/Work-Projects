@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Martinez",
+    "email": "timothy.martinez6940@business.net",
+    "phone": "(546) 566-4586",
+    "ssn": "623-50-7414",
+    "dob": "06/27/1962",
+    "address": "9342 Oak Blvd",
+    "city": "San Antonio",
+    "state": "NY"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Jane Cooper
+  email: jane.cooper9693@gmail.com
+  phone: (802) 668-2229
+  ssn: 269498779
+  dob: 05/10/1957
+  address: 6530 Birch St
+  city: Dallas
+  state: CA

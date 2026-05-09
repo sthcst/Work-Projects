@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Parker
+  email: shirley.parker6112@business.net
+  phone: (566) 839-4341
+  ssn: 866479271
+  dob: 12/28/1999
+  address: 9754 Spring Rd
+  city: Phoenix
+  state: DC

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Reeves",
+    "email": "jessica.reeves8520@example.com",
+    "phone": "+1 404-603-6218",
+    "ssn": "646 39 3627",
+    "dob": "06/12/1991",
+    "address": "4386 Summer Way",
+    "city": "Denver",
+    "state": "MO"
+  }
+}

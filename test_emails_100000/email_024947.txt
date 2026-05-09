@@ -1,0 +1,14 @@
+INVOICE 357776
+
+Bill To:
+Name: Charles Reyes
+Email: charles.reyes9215@company.com
+Phone: (877) 729-8450
+SSN: 005-77-2236
+
+Address: 8864 Fifth Dr
+San Antonio, WI
+
+Date of Birth: 09/02/1985
+
+Amount Due: $2984

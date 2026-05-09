@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Guerrero",
+    "email": "jennifer.guerrero2263@company.com",
+    "phone": "(318) 528-3203",
+    "ssn": "183726256",
+    "dob": "03/02/1983",
+    "address": "7964 Main Court",
+    "city": "Los Angeles",
+    "state": "MA"
+  }
+}

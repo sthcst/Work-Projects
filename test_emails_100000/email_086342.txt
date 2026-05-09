@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Sanchez
+  email: pamela.sanchez6936@business.net
+  phone: (576) 540-8177
+  ssn: 877 61 9530
+  dob: 26/04/1969
+  address: 9254 Sixth Dr
+  city: Houston
+  state: TN

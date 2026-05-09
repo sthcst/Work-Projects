@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Lee,angela.lee3503@company.com,+1 331-272-6352,514823922,09-23-2000,"1880 Second Ave",Washington,MO

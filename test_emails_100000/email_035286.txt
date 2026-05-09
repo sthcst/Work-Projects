@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Romero",
+    "email": "charles.romero969@outlook.com",
+    "phone": "696-318-9394",
+    "ssn": "009353892",
+    "dob": "06/21/1998",
+    "address": "8885 Birch Dr",
+    "city": "Dallas",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Jimenez,george.jimenez6516@outlook.com,829 817 4051,712-12-3101,27/06/1972,"2934 Park Ln",San Diego,NC

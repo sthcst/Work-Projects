@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Nunez,charles.nunez6194@business.net,811-266-2762,451-10-8773,1/27/1998,"553 Birch Blvd",Houston,MD

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Parker",
+    "email": "angela.parker4930@mail.com",
+    "phone": "535 659 9631",
+    "ssn": "690-30-8882",
+    "dob": "07/05/1954",
+    "address": "1604 Park Dr",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

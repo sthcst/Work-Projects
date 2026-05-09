@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Alvarado",
+    "email": "jessica.alvarado5088@company.com",
+    "phone": "(636) 585-2825",
+    "ssn": "637-99-8326",
+    "dob": "8/1/1971",
+    "address": "5596 Second Blvd",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Gonzalez",
+    "email": "kevin.gonzalez572@gmail.com",
+    "phone": "(950) 991-1276",
+    "ssn": "469-97-7623",
+    "dob": "01-12-2002",
+    "address": "5407 Fifth Way",
+    "city": "Seattle",
+    "state": "TN"
+  }
+}

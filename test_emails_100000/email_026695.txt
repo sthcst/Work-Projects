@@ -1,0 +1,14 @@
+INVOICE 943914
+
+Bill To:
+Name: Richard Miller
+Email: richard.miller3303@example.com
+Phone: 405-860-9138
+SSN: 316-27-1248
+
+Address: 2099 Spring Blvd
+San Antonio, TX
+
+Date of Birth: 08-23-1980
+
+Amount Due: $1874

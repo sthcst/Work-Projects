@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Martinez",
+    "email": "christopher.martinez6686@example.com",
+    "phone": "+1 347-642-4146",
+    "ssn": "267-75-6509",
+    "dob": "2/6/1954",
+    "address": "6375 North Dr",
+    "city": "Los Angeles",
+    "state": "WA"
+  }
+}

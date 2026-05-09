@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Thomas,james.thomas9005@business.net,782 216 3499,116-39-4194,10/21/1978,"1782 Pine Ave",Philadelphia,DC

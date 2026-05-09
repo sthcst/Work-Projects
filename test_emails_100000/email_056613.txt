@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Reed",
+    "email": "robert.reed5944@company.com",
+    "phone": "+1 545-862-4553",
+    "ssn": "730 91 9508",
+    "dob": "5/17/1986",
+    "address": "7922 First Way",
+    "city": "Dallas",
+    "state": "MO"
+  }
+}

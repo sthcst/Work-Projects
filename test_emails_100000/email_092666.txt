@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Ortiz",
+    "email": "lisa.ortiz9935@company.com",
+    "phone": "494 387 7842",
+    "ssn": "636175151",
+    "dob": "10/21/1997",
+    "address": "6082 Fifth Dr",
+    "city": "Seattle",
+    "state": "PA"
+  }
+}

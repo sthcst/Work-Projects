@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Williams,katherine.williams6530@company.com,+1 536-715-2880,725-90-2178,17/11/1988,"162 Oak Dr",Houston,CO

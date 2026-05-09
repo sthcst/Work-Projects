@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Jimenez
+  email: pamela.jimenez5978@yahoo.com
+  phone: 794 672 4470
+  ssn: 414 38 4691
+  dob: 08/21/1981
+  address: 7669 Pine Rd
+  city: Los Angeles
+  state: TX

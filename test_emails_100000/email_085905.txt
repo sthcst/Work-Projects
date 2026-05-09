@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Jackson
+  email: brenda.jackson8271@company.com
+  phone: 512-842-5925
+  ssn: 203759870
+  dob: 23/08/1965
+  address: 5132 Pine Way
+  city: San Diego
+  state: VA

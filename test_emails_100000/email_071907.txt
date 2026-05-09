@@ -1,0 +1,14 @@
+INVOICE 343745
+
+Bill To:
+Name: Daniel Romero
+Email: daniel.romero41@example.com
+Phone: (439) 221-1030
+SSN: 758 84 4289
+
+Address: 7762 First St
+Denver, CO
+
+Date of Birth: 09-06-1980
+
+Amount Due: $2188

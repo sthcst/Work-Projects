@@ -1,0 +1,9 @@
+contact:
+  name: Maria Evans
+  email: maria.evans5202@example.com
+  phone: +1 229-391-7919
+  ssn: 137-84-6643
+  dob: 05/07/1992
+  address: 6571 Main Dr
+  city: New York
+  state: CA

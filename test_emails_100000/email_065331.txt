@@ -1,0 +1,14 @@
+INVOICE 119861
+
+Bill To:
+Name: David Thompson
+Email: david.thompson8275@business.net
+Phone: 466-497-5139
+SSN: 285749558
+
+Address: 8287 Maple Way
+San Antonio, GA
+
+Date of Birth: 09-22-2003
+
+Amount Due: $4892

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Reed",
+    "email": "edward.reed117@example.com",
+    "phone": "+1 314-564-7335",
+    "ssn": "882 90 5979",
+    "dob": "02/11/1987",
+    "address": "9310 Oak Dr",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

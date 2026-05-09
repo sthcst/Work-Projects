@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Lewis",
+    "email": "helen.lewis2117@company.com",
+    "phone": "+1 637-289-9311",
+    "ssn": "359 05 8692",
+    "dob": "02/02/1985",
+    "address": "756 Third Rd",
+    "city": "Boston",
+    "state": "OH"
+  }
+}

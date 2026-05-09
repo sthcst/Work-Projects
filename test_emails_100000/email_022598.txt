@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Campbell,amanda.campbell2107@company.com,840-694-9486,062 61 3944,07-19-1996,"9958 Summer Way",Jacksonville,TX

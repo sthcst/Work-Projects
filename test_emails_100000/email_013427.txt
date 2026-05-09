@@ -1,0 +1,9 @@
+contact:
+  name: George Edwards
+  email: george.edwards2891@gmail.com
+  phone: 255 665 5898
+  ssn: 012 43 6609
+  dob: 8/18/1965
+  address: 7119 Second Court
+  city: Denver
+  state: CA

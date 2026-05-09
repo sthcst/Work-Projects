@@ -1,0 +1,14 @@
+INVOICE 903721
+
+Bill To:
+Name: Kevin Davis
+Email: kevin.davis3745@example.com
+Phone: (492) 390-1311
+SSN: 367-68-2962
+
+Address: 7356 Oak Court
+Washington, MI
+
+Date of Birth: 03/25/1952
+
+Amount Due: $7741

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Guerrero",
+    "email": "kathleen.guerrero6791@mail.com",
+    "phone": "(522) 859-4771",
+    "ssn": "500 89 3605",
+    "dob": "28/02/2001",
+    "address": "5312 Summer St",
+    "city": "Houston",
+    "state": "DC"
+  }
+}

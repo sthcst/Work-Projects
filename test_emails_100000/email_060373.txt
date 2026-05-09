@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Williams",
+    "email": "deborah.williams7158@yahoo.com",
+    "phone": "477 812 6567",
+    "ssn": "266068544",
+    "dob": "8/15/1986",
+    "address": "3404 North Dr",
+    "city": "Denver",
+    "state": "MD"
+  }
+}

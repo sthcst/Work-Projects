@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Young",
+    "email": "edward.young5831@mail.com",
+    "phone": "(859) 313-4122",
+    "ssn": "810-84-7986",
+    "dob": "06/11/1992",
+    "address": "4744 Spring Ave",
+    "city": "Austin",
+    "state": "PA"
+  }
+}

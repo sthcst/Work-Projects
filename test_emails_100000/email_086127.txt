@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Dominguez
+  email: deborah.dominguez5169@yahoo.com
+  phone: 841-655-2142
+  ssn: 581469137
+  dob: 12-09-1978
+  address: 3363 Cedar Way
+  city: Washington
+  state: TX

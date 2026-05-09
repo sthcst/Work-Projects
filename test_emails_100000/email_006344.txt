@@ -1,0 +1,9 @@
+contact:
+  name: Christine Gomez
+  email: christine.gomez1219@company.com
+  phone: 325-619-4822
+  ssn: 945518578
+  dob: 12-27-1974
+  address: 2627 Second Dr
+  city: Dallas
+  state: VA

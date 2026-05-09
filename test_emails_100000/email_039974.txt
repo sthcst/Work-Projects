@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Guerrero",
+    "email": "kathleen.guerrero2190@company.com",
+    "phone": "(588) 716-9714",
+    "ssn": "631 47 1599",
+    "dob": "6/24/1993",
+    "address": "582 Oak Dr",
+    "city": "Austin",
+    "state": "MD"
+  }
+}

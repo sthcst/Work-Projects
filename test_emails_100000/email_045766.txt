@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Moore",
+    "email": "mark.moore7775@yahoo.com",
+    "phone": "867 559 3777",
+    "ssn": "107 99 6870",
+    "dob": "6/5/2002",
+    "address": "9776 Elm St",
+    "city": "Philadelphia",
+    "state": "PA"
+  }
+}

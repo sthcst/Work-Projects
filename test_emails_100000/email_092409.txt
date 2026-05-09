@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Smith
+  email: kimberly.smith5644@work.org
+  phone: (579) 238-4393
+  ssn: 906-57-4616
+  dob: 25/02/1986
+  address: 2210 Fifth Rd
+  city: Phoenix
+  state: MO

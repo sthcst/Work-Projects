@@ -1,0 +1,9 @@
+contact:
+  name: Charles Morgan
+  email: charles.morgan2587@business.net
+  phone: +1 896-355-6073
+  ssn: 047 62 7875
+  dob: 9/9/1962
+  address: 6335 Second Court
+  city: Philadelphia
+  state: TX

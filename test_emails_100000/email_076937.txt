@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Moore",
+    "email": "megan.moore1001@work.org",
+    "phone": "518 741 8398",
+    "ssn": "900489677",
+    "dob": "01-21-1950",
+    "address": "3262 Sixth Court",
+    "city": "Austin",
+    "state": "FL"
+  }
+}

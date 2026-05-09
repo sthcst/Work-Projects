@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Alvarado",
+    "email": "maria.alvarado9457@mail.com",
+    "phone": "+1 411-453-9012",
+    "ssn": "782117060",
+    "dob": "23/03/1968",
+    "address": "8545 North Way",
+    "city": "New York",
+    "state": "FL"
+  }
+}

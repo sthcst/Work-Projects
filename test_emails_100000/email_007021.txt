@@ -1,0 +1,9 @@
+contact:
+  name: Gary Guerrero
+  email: gary.guerrero5928@gmail.com
+  phone: (778) 699-9754
+  ssn: 850088901
+  dob: 05-10-1971
+  address: 9193 Elm Way
+  city: Denver
+  state: MA

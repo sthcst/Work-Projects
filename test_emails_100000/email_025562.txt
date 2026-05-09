@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Rodriguez",
+    "email": "sarah.rodriguez2030@work.org",
+    "phone": "298 879 8233",
+    "ssn": "805 10 4146",
+    "dob": "4/11/1981",
+    "address": "7786 Park Blvd",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

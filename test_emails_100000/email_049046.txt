@@ -1,0 +1,14 @@
+INVOICE 324738
+
+Bill To:
+Name: Jennifer Hall
+Email: jennifer.hall2157@company.com
+Phone: 357 627 9996
+SSN: 812587997
+
+Address: 2022 Cedar Dr
+Boston, CA
+
+Date of Birth: 4/20/1958
+
+Amount Due: $2999

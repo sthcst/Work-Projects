@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Guerrero,rebecca.guerrero6215@company.com,+1 739-553-3904,285-63-5119,03-21-1981,"7154 Main Blvd",Washington,MA

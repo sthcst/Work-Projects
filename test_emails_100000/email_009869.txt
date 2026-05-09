@@ -1,0 +1,14 @@
+INVOICE 158876
+
+Bill To:
+Name: Kenneth Cooper
+Email: kenneth.cooper3700@company.com
+Phone: 835 295 1055
+SSN: 038-77-9521
+
+Address: 3713 Pine Ave
+Boston, MO
+
+Date of Birth: 12-06-1951
+
+Amount Due: $5478

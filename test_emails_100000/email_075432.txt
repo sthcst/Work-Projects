@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Nelson,james.nelson7824@outlook.com,888-528-4714,283979827,27/06/1964,"4423 Third Blvd",Dallas,AZ

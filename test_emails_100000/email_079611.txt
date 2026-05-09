@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Nelson,nicole.nelson3051@mail.com,+1 904-888-7297,158 18 5388,4/8/2003,"6196 Third Rd",Seattle,TX

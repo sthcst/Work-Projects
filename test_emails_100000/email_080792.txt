@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Cooper",
+    "email": "christine.cooper6935@business.net",
+    "phone": "498-373-2444",
+    "ssn": "954624747",
+    "dob": "02/06/1958",
+    "address": "5612 North Ave",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

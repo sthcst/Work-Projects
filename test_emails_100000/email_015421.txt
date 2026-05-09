@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Romero,emma.romero1775@gmail.com,296 592 1686,531 38 6815,12-03-2002,"4614 Fourth St",San Antonio,NC

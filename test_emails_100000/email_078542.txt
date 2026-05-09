@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Moore
+  email: nicholas.moore7819@business.net
+  phone: +1 976-800-1844
+  ssn: 648-95-9287
+  dob: 07-24-1992
+  address: 7872 Second Dr
+  city: San Antonio
+  state: VA

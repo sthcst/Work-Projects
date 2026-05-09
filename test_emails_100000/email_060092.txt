@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Perez",
+    "email": "mark.perez1949@gmail.com",
+    "phone": "(630) 891-2404",
+    "ssn": "789608108",
+    "dob": "27/06/1980",
+    "address": "540 Park Rd",
+    "city": "Houston",
+    "state": "PA"
+  }
+}

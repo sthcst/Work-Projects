@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Morris
+  email: michelle.morris8105@outlook.com
+  phone: (233) 438-1378
+  ssn: 365 64 8738
+  dob: 02/22/1979
+  address: 1192 Oak Court
+  city: New York
+  state: NY

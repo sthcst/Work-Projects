@@ -1,0 +1,9 @@
+contact:
+  name: Charles Alvarado
+  email: charles.alvarado3117@yahoo.com
+  phone: (929) 827-3096
+  ssn: 302 07 5183
+  dob: 20/11/1987
+  address: 7941 North Court
+  city: San Diego
+  state: MO

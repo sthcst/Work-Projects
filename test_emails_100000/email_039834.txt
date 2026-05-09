@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Lewis,nicholas.lewis7109@outlook.com,(757) 498-5330,520259572,15/04/1969,"5711 Cedar Dr",Houston,MD

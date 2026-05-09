@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Davis",
+    "email": "charles.davis3222@company.com",
+    "phone": "552-527-8794",
+    "ssn": "769-55-5219",
+    "dob": "6/8/1958",
+    "address": "1822 Fifth Court",
+    "city": "San Antonio",
+    "state": "NJ"
+  }
+}

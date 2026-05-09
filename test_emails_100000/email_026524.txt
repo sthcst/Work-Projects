@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Peterson",
+    "email": "shirley.peterson2995@business.net",
+    "phone": "+1 611-780-2946",
+    "ssn": "329-59-9662",
+    "dob": "08/02/1977",
+    "address": "5165 Main St",
+    "city": "Boston",
+    "state": "MO"
+  }
+}

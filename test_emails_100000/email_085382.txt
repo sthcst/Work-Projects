@@ -1,0 +1,9 @@
+contact:
+  name: Jane Bell
+  email: jane.bell4831@work.org
+  phone: 368-637-2637
+  ssn: 586199751
+  dob: 09/02/1974
+  address: 8674 Summer Ave
+  city: New York
+  state: TX

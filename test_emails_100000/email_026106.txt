@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Thomas
+  email: andrew.thomas8275@mail.com
+  phone: +1 691-686-3168
+  ssn: 927535056
+  dob: 02/23/1999
+  address: 2537 Third Ave
+  city: San Antonio
+  state: MI

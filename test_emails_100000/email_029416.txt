@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Edwards",
+    "email": "andrew.edwards7527@business.net",
+    "phone": "+1 496-618-1935",
+    "ssn": "693-29-7054",
+    "dob": "09/22/2000",
+    "address": "6828 Sixth St",
+    "city": "San Antonio",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Bell",
+    "email": "sarah.bell5408@example.com",
+    "phone": "(677) 264-8119",
+    "ssn": "577 49 7065",
+    "dob": "08-26-1996",
+    "address": "5593 Summer Rd",
+    "city": "Jacksonville",
+    "state": "WA"
+  }
+}

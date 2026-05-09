@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Davis",
+    "email": "ronald.davis1627@outlook.com",
+    "phone": "790-518-7925",
+    "ssn": "990-35-1267",
+    "dob": "8/26/1990",
+    "address": "2004 East Blvd",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}

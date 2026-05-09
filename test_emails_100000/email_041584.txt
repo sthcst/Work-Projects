@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Stewart
+  email: katherine.stewart387@gmail.com
+  phone: 782 870 1758
+  ssn: 952 95 6673
+  dob: 07-09-1963
+  address: 8602 East Dr
+  city: San Diego
+  state: CA

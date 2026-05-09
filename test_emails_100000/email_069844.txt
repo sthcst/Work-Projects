@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Thomas
+  email: lauren.thomas8336@work.org
+  phone: (743) 879-2518
+  ssn: 025 20 7723
+  dob: 5/15/1981
+  address: 5921 Summer Ave
+  city: Chicago
+  state: MD

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Evans,kevin.evans2725@yahoo.com,+1 655-382-7115,111-68-5289,01-23-1956,"3294 First Blvd",Dallas,OH

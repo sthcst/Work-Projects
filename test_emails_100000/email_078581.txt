@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Cooper
+  email: brenda.cooper6529@company.com
+  phone: 471 239 4157
+  ssn: 763 63 9334
+  dob: 11/11/1953
+  address: 2340 Spring Way
+  city: Houston
+  state: MO

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Cooper,kimberly.cooper7606@yahoo.com,601-853-4206,284 02 4029,07-07-1953,"6257 Elm Ave",Austin,WA

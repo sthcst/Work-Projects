@@ -1,0 +1,9 @@
+contact:
+  name: Edward Anderson
+  email: edward.anderson6761@example.com
+  phone: 731 603 2729
+  ssn: 149-62-1178
+  dob: 09-26-1952
+  address: 1834 West Court
+  city: Chicago
+  state: MD

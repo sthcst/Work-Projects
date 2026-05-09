@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Davis",
+    "email": "jennifer.davis3234@mail.com",
+    "phone": "+1 801-618-2140",
+    "ssn": "924-86-2155",
+    "dob": "2/15/1958",
+    "address": "1994 Second Ln",
+    "city": "Austin",
+    "state": "CO"
+  }
+}

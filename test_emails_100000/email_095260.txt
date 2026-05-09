@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Morris
+  email: deborah.morris7202@yahoo.com
+  phone: 261-369-8035
+  ssn: 606209319
+  dob: 7/20/1963
+  address: 6949 Cedar St
+  city: Jacksonville
+  state: TN

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Collins",
+    "email": "rebecca.collins967@outlook.com",
+    "phone": "795-426-9136",
+    "ssn": "408568972",
+    "dob": "01-15-1962",
+    "address": "1280 Fifth Way",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

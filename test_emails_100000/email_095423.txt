@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Sanchez
+  email: nicholas.sanchez4381@yahoo.com
+  phone: (754) 430-8814
+  ssn: 142-92-9154
+  dob: 26/11/1965
+  address: 9005 Maple Blvd
+  city: San Diego
+  state: NY

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Martin",
+    "email": "paul.martin6400@outlook.com",
+    "phone": "+1 743-998-3422",
+    "ssn": "651-49-3482",
+    "dob": "07/05/1956",
+    "address": "8068 Maple Way",
+    "city": "Houston",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Walker",
+    "email": "kenneth.walker3295@gmail.com",
+    "phone": "721-202-7237",
+    "ssn": "929 41 7121",
+    "dob": "06/01/1982",
+    "address": "4610 West Ave",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

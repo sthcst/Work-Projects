@@ -1,0 +1,9 @@
+contact:
+  name: Brian Smith
+  email: brian.smith3169@business.net
+  phone: 603-302-7828
+  ssn: 211749159
+  dob: 12/25/1961
+  address: 2709 Cedar Way
+  city: Houston
+  state: NJ

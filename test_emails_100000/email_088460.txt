@@ -1,0 +1,9 @@
+contact:
+  name: George Clark
+  email: george.clark1543@company.com
+  phone: 670-339-2661
+  ssn: 842-28-9929
+  dob: 05-06-1991
+  address: 2956 Fifth Dr
+  city: San Diego
+  state: TX

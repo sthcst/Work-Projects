@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Ortiz
+  email: samantha.ortiz8869@business.net
+  phone: +1 442-836-3119
+  ssn: 260096635
+  dob: 8/25/1950
+  address: 7089 East Court
+  city: Houston
+  state: TX

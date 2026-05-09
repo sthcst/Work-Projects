@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Robinson,lauren.robinson2687@business.net,+1 510-471-5704,590799876,08/07/1997,"3484 Third Dr",Chicago,OH

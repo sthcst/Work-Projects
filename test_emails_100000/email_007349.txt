@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Sanchez,katherine.sanchez842@business.net,716 501 5649,323535358,08/28/1962,"1369 East Rd",San Diego,TX

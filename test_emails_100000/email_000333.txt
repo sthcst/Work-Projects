@@ -1,0 +1,9 @@
+contact:
+  name: Steven Morgan
+  email: steven.morgan6101@outlook.com
+  phone: +1 928-266-2941
+  ssn: 148-17-4107
+  dob: 09-13-1994
+  address: 5219 Sixth Way
+  city: San Diego
+  state: WI

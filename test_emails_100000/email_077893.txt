@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Carter,angela.carter1611@example.com,510-326-4821,172 34 9341,2/16/1962,"5692 Cedar Way",New York,CA

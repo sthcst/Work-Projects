@@ -1,0 +1,14 @@
+INVOICE 928445
+
+Bill To:
+Name: Megan Garcia
+Email: megan.garcia1218@mail.com
+Phone: 416-696-1293
+SSN: 998 69 9518
+
+Address: 7180 Park St
+Austin, AZ
+
+Date of Birth: 10/13/1976
+
+Amount Due: $399

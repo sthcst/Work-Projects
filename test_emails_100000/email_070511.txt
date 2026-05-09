@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Cooper,lauren.cooper5632@work.org,725 759 8126,639805532,11/26/1977,"9207 Pine Ln",Los Angeles,CO

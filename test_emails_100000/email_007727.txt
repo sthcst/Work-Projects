@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Stewart,richard.stewart9882@example.com,968-504-3654,657 38 7628,06/05/1959,"7898 Elm Way",San Antonio,TX

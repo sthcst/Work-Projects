@@ -1,0 +1,9 @@
+contact:
+  name: William Harris
+  email: william.harris8669@company.com
+  phone: +1 873-216-5568
+  ssn: 493 94 1833
+  dob: 23/05/1959
+  address: 3109 Cedar Way
+  city: Philadelphia
+  state: TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Martin",
+    "email": "steven.martin4059@gmail.com",
+    "phone": "969 943 8978",
+    "ssn": "089416993",
+    "dob": "05-19-1984",
+    "address": "169 Birch Court",
+    "city": "Dallas",
+    "state": "VA"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 484496
+
+Bill To:
+Name: Christine Serrano
+Email: christine.serrano1282@company.com
+Phone: 288 369 6561
+SSN: 763319497
+
+Address: 427 West Blvd
+Seattle, TN
+
+Date of Birth: 11/08/1966
+
+Amount Due: $7010

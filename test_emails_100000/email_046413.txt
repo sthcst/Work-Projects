@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Roberts,kathleen.roberts2946@gmail.com,263 331 5217,880-34-5556,4/21/1994,"6187 Main Court",New York,MO

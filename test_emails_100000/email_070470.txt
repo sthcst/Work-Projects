@@ -1,0 +1,9 @@
+contact:
+  name: Jason Campbell
+  email: jason.campbell5554@example.com
+  phone: 416-769-2328
+  ssn: 138 83 5266
+  dob: 07/17/1984
+  address: 7454 Second St
+  city: San Antonio
+  state: NC

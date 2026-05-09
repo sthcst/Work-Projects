@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Delgado",
+    "email": "richard.delgado7400@work.org",
+    "phone": "632 599 9519",
+    "ssn": "295-56-9672",
+    "dob": "04/20/1975",
+    "address": "918 North Dr",
+    "city": "Denver",
+    "state": "FL"
+  }
+}

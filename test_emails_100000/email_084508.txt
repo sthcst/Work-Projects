@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Lewis,charles.lewis1893@example.com,809-988-9816,011517891,10/22/1962,"7953 First Ln",Washington,MI

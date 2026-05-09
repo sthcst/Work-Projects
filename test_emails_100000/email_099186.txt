@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Stewart",
+    "email": "robert.stewart7831@company.com",
+    "phone": "495-311-1646",
+    "ssn": "845-68-5412",
+    "dob": "08/05/1973",
+    "address": "7442 Cedar Blvd",
+    "city": "San Jose",
+    "state": "FL"
+  }
+}

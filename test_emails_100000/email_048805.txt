@@ -1,0 +1,14 @@
+INVOICE 111621
+
+Bill To:
+Name: Katherine Davis
+Email: katherine.davis1699@company.com
+Phone: 594-297-9684
+SSN: 492-74-9118
+
+Address: 3060 Fifth Court
+Washington, CO
+
+Date of Birth: 06/03/1986
+
+Amount Due: $8706

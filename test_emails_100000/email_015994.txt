@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Taylor",
+    "email": "anthony.taylor3243@company.com",
+    "phone": "+1 294-526-6916",
+    "ssn": "952 21 6952",
+    "dob": "07/21/1971",
+    "address": "6131 Birch Blvd",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

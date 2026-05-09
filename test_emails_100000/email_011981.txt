@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Jackson",
+    "email": "robert.jackson7097@business.net",
+    "phone": "690-426-2608",
+    "ssn": "742 63 5662",
+    "dob": "4/1/1989",
+    "address": "91 Summer Ln",
+    "city": "Chicago",
+    "state": "NJ"
+  }
+}

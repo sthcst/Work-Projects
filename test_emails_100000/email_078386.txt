@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Jackson",
+    "email": "kenneth.jackson5798@outlook.com",
+    "phone": "914-366-5587",
+    "ssn": "452 50 5341",
+    "dob": "09-13-1986",
+    "address": "8224 Third Ln",
+    "city": "Denver",
+    "state": "OH"
+  }
+}

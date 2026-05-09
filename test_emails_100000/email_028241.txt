@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Martinez",
+    "email": "nicole.martinez1690@outlook.com",
+    "phone": "865 736 7718",
+    "ssn": "072-44-8720",
+    "dob": "06/02/1987",
+    "address": "5467 Oak Court",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

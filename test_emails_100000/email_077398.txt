@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Lee
+  email: joshua.lee7891@work.org
+  phone: 666 480 5773
+  ssn: 632407910
+  dob: 04/07/2002
+  address: 7266 Elm Ave
+  city: New York
+  state: FL

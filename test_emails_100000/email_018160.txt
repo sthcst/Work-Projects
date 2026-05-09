@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Thomas",
+    "email": "ronald.thomas6636@business.net",
+    "phone": "+1 950-372-3605",
+    "ssn": "580 77 7088",
+    "dob": "05-08-1995",
+    "address": "1303 West Blvd",
+    "city": "San Antonio",
+    "state": "IL"
+  }
+}

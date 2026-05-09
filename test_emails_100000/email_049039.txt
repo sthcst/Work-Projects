@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Morris
+  email: samantha.morris368@outlook.com
+  phone: (740) 958-3622
+  ssn: 580-08-9017
+  dob: 9/12/1987
+  address: 8305 West Ln
+  city: New York
+  state: FL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Sanchez",
+    "email": "anna.sanchez6507@business.net",
+    "phone": "240-971-2042",
+    "ssn": "272 66 3955",
+    "dob": "22/11/1985",
+    "address": "4531 North Dr",
+    "city": "New York",
+    "state": "CO"
+  }
+}

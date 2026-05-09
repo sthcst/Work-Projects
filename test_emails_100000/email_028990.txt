@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Brown,sarah.brown1266@company.com,786 592 3555,272-30-7231,6/5/2000,"1209 Summer Way",San Diego,MA

@@ -1,0 +1,9 @@
+contact:
+  name: David Collins
+  email: david.collins5089@example.com
+  phone: 580 380 7955
+  ssn: 034457765
+  dob: 02-09-1963
+  address: 8985 Sixth Blvd
+  city: San Jose
+  state: OH

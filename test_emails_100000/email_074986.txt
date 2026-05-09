@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Carter
+  email: daniel.carter1654@example.com
+  phone: +1 433-998-1532
+  ssn: 221458821
+  dob: 12/06/1980
+  address: 1162 Sixth Way
+  city: Denver
+  state: AZ

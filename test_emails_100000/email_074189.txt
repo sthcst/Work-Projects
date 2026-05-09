@@ -1,0 +1,9 @@
+contact:
+  name: George Taylor
+  email: george.taylor79@business.net
+  phone: 304 224 3198
+  ssn: 807 17 2654
+  dob: 07-02-1987
+  address: 797 Fifth Ln
+  city: San Diego
+  state: OH

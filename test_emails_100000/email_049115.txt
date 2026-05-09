@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Jackson
+  email: christopher.jackson6861@yahoo.com
+  phone: 705 649 9351
+  ssn: 921 10 7359
+  dob: 02-21-1983
+  address: 9241 North Rd
+  city: Philadelphia
+  state: NC

@@ -1,0 +1,14 @@
+INVOICE 766964
+
+Bill To:
+Name: Maria Lee
+Email: maria.lee7045@company.com
+Phone: 425 254 5035
+SSN: 314163730
+
+Address: 5474 South Blvd
+New York, GA
+
+Date of Birth: 05/10/1991
+
+Amount Due: $5065

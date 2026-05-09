@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Cooper,steven.cooper6222@outlook.com,(814) 483-9812,750 42 2996,01/16/1970,"4129 Sixth Ln",San Antonio,MI

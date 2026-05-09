@@ -1,0 +1,9 @@
+contact:
+  name: Donald Clark
+  email: donald.clark42@company.com
+  phone: +1 586-970-3924
+  ssn: 246-18-5586
+  dob: 11/25/1984
+  address: 1476 Birch Rd
+  city: San Jose
+  state: CO

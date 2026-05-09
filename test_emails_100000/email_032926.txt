@@ -1,0 +1,9 @@
+contact:
+  name: Emily Gonzalez
+  email: emily.gonzalez9195@business.net
+  phone: (336) 817-2821
+  ssn: 323-40-9384
+  dob: 12/03/1976
+  address: 5317 Fourth St
+  city: Chicago
+  state: FL

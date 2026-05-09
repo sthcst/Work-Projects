@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Reed
+  email: ronald.reed9387@yahoo.com
+  phone: 301 486 5518
+  ssn: 668472813
+  dob: 8/1/1993
+  address: 5691 East Rd
+  city: Denver
+  state: TN

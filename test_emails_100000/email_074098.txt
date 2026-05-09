@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Miller",
+    "email": "angela.miller1337@yahoo.com",
+    "phone": "771-546-1416",
+    "ssn": "630 60 2239",
+    "dob": "01/06/1982",
+    "address": "5250 Oak St",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

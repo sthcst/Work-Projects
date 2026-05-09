@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Lee,michael.lee4849@example.com,786 980 7009,426 95 7145,19/08/1952,"6125 Fourth Court",New York,OH

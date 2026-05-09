@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Davis",
+    "email": "emily.davis2648@yahoo.com",
+    "phone": "412-260-2415",
+    "ssn": "257202993",
+    "dob": "2/23/1998",
+    "address": "7531 North Way",
+    "city": "San Antonio",
+    "state": "WA"
+  }
+}

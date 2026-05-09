@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Ramirez,lisa.ramirez7087@work.org,734-965-3455,679-54-3500,09-10-1964,"9931 Pine Dr",Boston,OH

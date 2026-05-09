@@ -1,0 +1,9 @@
+contact:
+  name: Jane Garcia
+  email: jane.garcia5869@business.net
+  phone: 957-849-6840
+  ssn: 686 62 7810
+  dob: 26/09/1958
+  address: 4089 North Ave
+  city: San Diego
+  state: NY

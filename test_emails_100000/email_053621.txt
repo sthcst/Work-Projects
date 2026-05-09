@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Bell
+  email: michelle.bell792@example.com
+  phone: 403 831 5127
+  ssn: 976161869
+  dob: 8/6/1983
+  address: 7193 Spring Ave
+  city: New York
+  state: MI

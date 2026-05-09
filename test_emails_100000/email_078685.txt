@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Collins",
+    "email": "brian.collins3334@mail.com",
+    "phone": "+1 224-496-6198",
+    "ssn": "672 60 5279",
+    "dob": "08-06-1992",
+    "address": "3937 Fourth Ln",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

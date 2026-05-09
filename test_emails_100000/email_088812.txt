@@ -1,0 +1,14 @@
+INVOICE 685425
+
+Bill To:
+Name: Daniel Parker
+Email: daniel.parker2069@outlook.com
+Phone: +1 892-653-7063
+SSN: 280-42-3135
+
+Address: 7742 Spring St
+Houston, NC
+
+Date of Birth: 11/19/1974
+
+Amount Due: $8235

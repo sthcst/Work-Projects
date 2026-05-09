@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Carter",
+    "email": "richard.carter5379@example.com",
+    "phone": "272-775-2982",
+    "ssn": "485813649",
+    "dob": "05-11-2000",
+    "address": "8792 Second Dr",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

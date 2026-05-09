@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Thomas",
+    "email": "steven.thomas2367@example.com",
+    "phone": "(202) 692-2077",
+    "ssn": "067-20-4968",
+    "dob": "5/4/1979",
+    "address": "8117 South Rd",
+    "city": "San Jose",
+    "state": "NJ"
+  }
+}

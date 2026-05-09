@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Ramirez",
+    "email": "brenda.ramirez4230@example.com",
+    "phone": "784-750-6430",
+    "ssn": "301-74-2091",
+    "dob": "4/8/1969",
+    "address": "3553 South Ave",
+    "city": "Dallas",
+    "state": "NJ"
+  }
+}

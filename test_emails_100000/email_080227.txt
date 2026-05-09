@@ -1,0 +1,9 @@
+contact:
+  name: Richard Rodriguez
+  email: richard.rodriguez8392@business.net
+  phone: 664-930-9055
+  ssn: 203752152
+  dob: 11/9/1965
+  address: 8604 South Way
+  city: San Antonio
+  state: WI

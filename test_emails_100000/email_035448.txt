@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Robinson",
+    "email": "jeffrey.robinson4224@work.org",
+    "phone": "620-267-5353",
+    "ssn": "233956644",
+    "dob": "27/12/1968",
+    "address": "539 Birch Dr",
+    "city": "San Diego",
+    "state": "GA"
+  }
+}

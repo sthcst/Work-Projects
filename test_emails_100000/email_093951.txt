@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Hernandez",
+    "email": "edward.hernandez4157@yahoo.com",
+    "phone": "939 921 2459",
+    "ssn": "767 85 4514",
+    "dob": "10/2/1953",
+    "address": "8835 Pine Dr",
+    "city": "Philadelphia",
+    "state": "FL"
+  }
+}

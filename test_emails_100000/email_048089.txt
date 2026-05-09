@@ -1,0 +1,14 @@
+INVOICE 322248
+
+Bill To:
+Name: Jacob Martinez
+Email: jacob.martinez3330@company.com
+Phone: +1 746-601-1703
+SSN: 278-62-4124
+
+Address: 7061 Maple Rd
+Phoenix, CA
+
+Date of Birth: 03-21-1954
+
+Amount Due: $476

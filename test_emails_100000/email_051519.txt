@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Davis,edward.davis9621@mail.com,+1 702-672-9245,409711990,03/07/1950,"3245 East Blvd",Austin,IL

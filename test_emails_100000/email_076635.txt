@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Robinson
+  email: andrew.robinson9902@gmail.com
+  phone: 606 507 6421
+  ssn: 055619985
+  dob: 11/25/1965
+  address: 6258 Spring Way
+  city: Denver
+  state: CA

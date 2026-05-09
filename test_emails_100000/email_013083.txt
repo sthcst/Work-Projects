@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Romero,donald.romero4307@mail.com,316 442 8294,719 75 4937,05/12/1957,"3455 Fifth Court",Los Angeles,NY

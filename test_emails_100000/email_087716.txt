@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Robinson,edward.robinson8463@gmail.com,750 415 2526,285407013,12-01-1962,"5169 Maple Ave",San Antonio,CA

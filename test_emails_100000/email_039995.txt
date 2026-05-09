@@ -1,0 +1,9 @@
+contact:
+  name: James Serrano
+  email: james.serrano6750@outlook.com
+  phone: 819-835-1505
+  ssn: 033 99 2407
+  dob: 02/06/1950
+  address: 5553 Third St
+  city: Denver
+  state: WA

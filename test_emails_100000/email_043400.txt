@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Young,angela.young3750@business.net,205-649-4409,520-36-8588,02/06/1983,"4898 West Blvd",Dallas,NY

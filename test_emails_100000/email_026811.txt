@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Gonzalez,emily.gonzalez2104@work.org,328 992 8540,724-57-3881,1/17/1994,"8930 Elm Way",Boston,MD

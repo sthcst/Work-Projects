@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Walker",
+    "email": "kathleen.walker6713@gmail.com",
+    "phone": "+1 876-681-7461",
+    "ssn": "895 37 5475",
+    "dob": "2/5/1954",
+    "address": "2062 Maple Dr",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}

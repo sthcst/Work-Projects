@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Moore",
+    "email": "angela.moore6188@business.net",
+    "phone": "+1 891-201-6901",
+    "ssn": "112437696",
+    "dob": "02-23-1954",
+    "address": "3805 Third Court",
+    "city": "Boston",
+    "state": "CO"
+  }
+}

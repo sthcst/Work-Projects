@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Davis,mark.davis6900@work.org,(496) 573-3592,060-34-1135,05/08/1979,"8745 Elm Court",Dallas,MI

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Morris",
+    "email": "kenneth.morris9400@gmail.com",
+    "phone": "947 621 1010",
+    "ssn": "270 51 4833",
+    "dob": "08/20/2000",
+    "address": "586 Spring Ave",
+    "city": "Phoenix",
+    "state": "FL"
+  }
+}

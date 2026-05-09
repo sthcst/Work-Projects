@@ -1,0 +1,9 @@
+contact:
+  name: Brian Jackson
+  email: brian.jackson6196@yahoo.com
+  phone: 597-363-4556
+  ssn: 333068675
+  dob: 11-14-1984
+  address: 2209 Fifth Dr
+  city: Seattle
+  state: TX

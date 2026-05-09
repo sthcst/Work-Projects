@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Collins",
+    "email": "kathleen.collins6363@work.org",
+    "phone": "(469) 962-4478",
+    "ssn": "445744200",
+    "dob": "4/18/1972",
+    "address": "641 Pine Blvd",
+    "city": "Denver",
+    "state": "MA"
+  }
+}

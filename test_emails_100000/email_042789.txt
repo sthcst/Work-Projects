@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Johnson",
+    "email": "richard.johnson927@example.com",
+    "phone": "(246) 576-8843",
+    "ssn": "810969541",
+    "dob": "12/15/1956",
+    "address": "2485 South Dr",
+    "city": "Austin",
+    "state": "FL"
+  }
+}

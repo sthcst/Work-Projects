@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Reyes,angela.reyes8787@work.org,483-215-6429,407-14-6666,10/2/1990,"3639 Birch St",Chicago,CA

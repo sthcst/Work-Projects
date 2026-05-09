@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Phillips,kenneth.phillips7864@mail.com,924-680-4271,956 95 8623,6/15/1990,"5230 South Way",Austin,FL

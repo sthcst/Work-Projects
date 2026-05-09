@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Gomez,charles.gomez8540@gmail.com,221 600 5181,622 29 5306,05-09-1992,"1523 Maple Court",Boston,CO

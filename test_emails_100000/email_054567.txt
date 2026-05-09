@@ -1,0 +1,14 @@
+INVOICE 950874
+
+Bill To:
+Name: John Jones
+Email: john.jones2234@business.net
+Phone: (989) 472-2813
+SSN: 397-45-9311
+
+Address: 9962 Fourth Ave
+Austin, DC
+
+Date of Birth: 09/07/1961
+
+Amount Due: $1678

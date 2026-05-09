@@ -1,0 +1,9 @@
+contact:
+  name: Maria Cooper
+  email: maria.cooper8823@work.org
+  phone: +1 748-324-5625
+  ssn: 943 83 9248
+  dob: 07-22-1977
+  address: 350 Third Ave
+  city: Phoenix
+  state: WA

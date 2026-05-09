@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Jackson,christine.jackson4606@work.org,813-497-7434,776-76-2179,22/12/1952,"8570 South St",Houston,AZ

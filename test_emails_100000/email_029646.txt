@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Jimenez",
+    "email": "deborah.jimenez5266@business.net",
+    "phone": "+1 877-807-3160",
+    "ssn": "940 91 3678",
+    "dob": "05-11-1961",
+    "address": "3212 Park Court",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

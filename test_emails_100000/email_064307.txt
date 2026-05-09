@@ -1,0 +1,9 @@
+contact:
+  name: George Perez
+  email: george.perez9766@work.org
+  phone: +1 878-286-1249
+  ssn: 770-54-3814
+  dob: 10/24/1966
+  address: 7961 Third Way
+  city: New York
+  state: PA

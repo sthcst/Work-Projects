@@ -1,0 +1,9 @@
+contact:
+  name: Brian Lopez
+  email: brian.lopez1849@example.com
+  phone: 986 392 1398
+  ssn: 572-28-7370
+  dob: 10/12/1984
+  address: 4059 Sixth Way
+  city: San Jose
+  state: NY

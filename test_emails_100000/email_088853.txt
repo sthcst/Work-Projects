@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Parker",
+    "email": "nicole.parker9934@outlook.com",
+    "phone": "281 410 9621",
+    "ssn": "910142871",
+    "dob": "21/12/1954",
+    "address": "9326 Birch St",
+    "city": "Phoenix",
+    "state": "DC"
+  }
+}

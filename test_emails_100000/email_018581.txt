@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Perez,joseph.perez2198@gmail.com,+1 802-303-3714,380473985,4/28/1957,"6945 South Rd",Washington,TX

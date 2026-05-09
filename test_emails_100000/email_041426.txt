@@ -1,0 +1,9 @@
+contact:
+  name: Emma Guerrero
+  email: emma.guerrero3138@work.org
+  phone: +1 368-353-8324
+  ssn: 847 98 9872
+  dob: 09-19-1964
+  address: 1105 North Ln
+  city: Dallas
+  state: AZ

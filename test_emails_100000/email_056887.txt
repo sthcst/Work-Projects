@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Dominguez",
+    "email": "christopher.dominguez3677@mail.com",
+    "phone": "(940) 701-6277",
+    "ssn": "129-33-9982",
+    "dob": "02-18-1966",
+    "address": "9688 Pine Ln",
+    "city": "Austin",
+    "state": "MD"
+  }
+}

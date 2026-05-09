@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Guerrero
+  email: nicole.guerrero9636@gmail.com
+  phone: 470-967-7660
+  ssn: 280968709
+  dob: 03-25-1951
+  address: 6624 Cedar Ave
+  city: Austin
+  state: TX

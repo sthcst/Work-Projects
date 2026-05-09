@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Jones,katherine.jones1232@business.net,(532) 601-6757,108 34 8867,10/06/1974,"8960 Fourth Dr",Philadelphia,MI

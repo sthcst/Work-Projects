@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Parker
+  email: anthony.parker905@mail.com
+  phone: +1 726-384-8252
+  ssn: 426-25-9042
+  dob: 9/11/1994
+  address: 7343 Park St
+  city: Phoenix
+  state: AZ

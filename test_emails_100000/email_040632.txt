@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Ramirez
+  email: daniel.ramirez8056@company.com
+  phone: (920) 219-1681
+  ssn: 410-35-9841
+  dob: 05-16-1961
+  address: 9509 Main Blvd
+  city: San Jose
+  state: AZ

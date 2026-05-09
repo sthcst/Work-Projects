@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Campbell",
+    "email": "brenda.campbell1523@gmail.com",
+    "phone": "+1 701-901-3468",
+    "ssn": "220-35-8632",
+    "dob": "09/19/2004",
+    "address": "7479 Birch Rd",
+    "city": "Seattle",
+    "state": "OH"
+  }
+}

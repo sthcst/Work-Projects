@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Peterson",
+    "email": "amanda.peterson9619@outlook.com",
+    "phone": "266 767 9751",
+    "ssn": "472487876",
+    "dob": "02-24-1993",
+    "address": "558 Main Way",
+    "city": "Washington",
+    "state": "WA"
+  }
+}

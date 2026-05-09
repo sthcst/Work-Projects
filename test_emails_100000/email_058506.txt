@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Perez",
+    "email": "amanda.perez3129@mail.com",
+    "phone": "(436) 577-4340",
+    "ssn": "631-61-6992",
+    "dob": "27/01/1952",
+    "address": "1565 East St",
+    "city": "Phoenix",
+    "state": "CO"
+  }
+}

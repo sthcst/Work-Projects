@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Moore",
+    "email": "andrew.moore8469@company.com",
+    "phone": "(612) 732-3061",
+    "ssn": "060 58 7462",
+    "dob": "14/09/1952",
+    "address": "1888 North Way",
+    "city": "Chicago",
+    "state": "DC"
+  }
+}

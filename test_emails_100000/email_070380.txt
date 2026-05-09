@@ -1,0 +1,14 @@
+INVOICE 105117
+
+Bill To:
+Name: Kevin Martinez
+Email: kevin.martinez2432@mail.com
+Phone: 748 265 3339
+SSN: 285-18-5462
+
+Address: 3433 Oak St
+Denver, NY
+
+Date of Birth: 02/11/1987
+
+Amount Due: $3546

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Sanchez",
+    "email": "gary.sanchez2863@outlook.com",
+    "phone": "+1 944-489-9823",
+    "ssn": "864 81 2446",
+    "dob": "02-17-1984",
+    "address": "2637 Park Court",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

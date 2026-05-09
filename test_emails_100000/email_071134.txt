@@ -1,0 +1,12 @@
+SUPPORT TICKET #34737
+
+Customer: John Martin
+Email: john.martin6786@example.com
+Phone: 387 910 2945
+Account: 898-88-3633
+
+Issue Description: Technical problem reported
+DOB on file: 09/05/1955
+Address: 384 Spring Ln, Jacksonville, PA
+
+Status: OPEN

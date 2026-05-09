@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Reyes,christine.reyes1475@outlook.com,(413) 787-7923,787 63 6320,04-25-1963,"2103 Pine St",New York,MO

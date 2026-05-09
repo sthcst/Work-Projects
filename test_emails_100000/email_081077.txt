@@ -1,0 +1,9 @@
+contact:
+  name: John Lee
+  email: john.lee8322@gmail.com
+  phone: (979) 899-1984
+  ssn: 343-41-8341
+  dob: 04/06/1978
+  address: 8032 Elm Dr
+  city: Denver
+  state: FL

@@ -1,0 +1,9 @@
+contact:
+  name: Brian Serrano
+  email: brian.serrano6449@outlook.com
+  phone: (335) 971-6810
+  ssn: 816034513
+  dob: 04/13/1965
+  address: 2790 Fifth Ave
+  city: Austin
+  state: OH

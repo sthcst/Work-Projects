@@ -1,0 +1,9 @@
+contact:
+  name: Paul Perez
+  email: paul.perez2135@mail.com
+  phone: 478-852-3858
+  ssn: 107-81-2282
+  dob: 06/06/1984
+  address: 8636 Park Rd
+  city: Los Angeles
+  state: GA

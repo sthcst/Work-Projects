@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Clark",
+    "email": "nicholas.clark560@work.org",
+    "phone": "(879) 204-2642",
+    "ssn": "432 35 6761",
+    "dob": "08/10/2001",
+    "address": "7277 Sixth St",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

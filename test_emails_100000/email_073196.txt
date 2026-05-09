@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Young",
+    "email": "katherine.young8872@company.com",
+    "phone": "+1 983-246-7483",
+    "ssn": "137-93-5362",
+    "dob": "11-03-1957",
+    "address": "1067 South Blvd",
+    "city": "Phoenix",
+    "state": "PA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Morris,andrew.morris3081@example.com,(611) 994-9657,229-70-1149,10/09/1976,"8816 Fourth Ln",Boston,MA

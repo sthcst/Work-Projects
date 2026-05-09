@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Ramirez",
+    "email": "stephanie.ramirez3772@company.com",
+    "phone": "+1 667-733-7498",
+    "ssn": "140 95 2275",
+    "dob": "11/25/1992",
+    "address": "8626 East St",
+    "city": "Dallas",
+    "state": "MI"
+  }
+}

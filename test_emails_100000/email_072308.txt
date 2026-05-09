@@ -1,0 +1,14 @@
+INVOICE 750545
+
+Bill To:
+Name: Brenda Davis
+Email: brenda.davis4128@example.com
+Phone: (970) 994-9532
+SSN: 410696849
+
+Address: 2481 Oak Court
+Austin, DC
+
+Date of Birth: 11/21/2000
+
+Amount Due: $6449

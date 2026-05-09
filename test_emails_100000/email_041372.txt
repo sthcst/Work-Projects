@@ -1,0 +1,9 @@
+contact:
+  name: Brian Thomas
+  email: brian.thomas5945@business.net
+  phone: 256 302 2754
+  ssn: 716-91-5234
+  dob: 6/21/1986
+  address: 2045 Second Ln
+  city: Washington
+  state: OH

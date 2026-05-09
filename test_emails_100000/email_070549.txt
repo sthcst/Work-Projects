@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Flores
+  email: shirley.flores8291@mail.com
+  phone: 883-835-9246
+  ssn: 547072749
+  dob: 17/07/1973
+  address: 6292 Summer Court
+  city: Philadelphia
+  state: CA

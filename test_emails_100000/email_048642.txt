@@ -1,0 +1,9 @@
+contact:
+  name: Lauren White
+  email: lauren.white5349@work.org
+  phone: +1 280-893-9353
+  ssn: 429 09 7996
+  dob: 01/20/1985
+  address: 8035 Second Ave
+  city: Jacksonville
+  state: GA

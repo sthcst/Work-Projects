@@ -1,0 +1,14 @@
+INVOICE 859986
+
+Bill To:
+Name: Charles Robinson
+Email: charles.robinson6563@work.org
+Phone: +1 418-385-1640
+SSN: 746884745
+
+Address: 9374 Elm Court
+Philadelphia, MA
+
+Date of Birth: 9/6/1960
+
+Amount Due: $8483

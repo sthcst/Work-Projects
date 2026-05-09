@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Gomez
+  email: christopher.gomez8192@example.com
+  phone: 669-619-3784
+  ssn: 310-04-6770
+  dob: 28/04/2000
+  address: 6042 Oak Ln
+  city: Chicago
+  state: TX

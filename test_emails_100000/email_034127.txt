@@ -1,0 +1,12 @@
+SUPPORT TICKET #90162
+
+Customer: Ryan Reed
+Email: ryan.reed3998@example.com
+Phone: (813) 315-3940
+Account: 610607605
+
+Issue Description: Technical problem reported
+DOB on file: 5/7/1977
+Address: 926 Maple Ln, Washington, VA
+
+Status: OPEN

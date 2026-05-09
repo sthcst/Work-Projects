@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Lewis",
+    "email": "joshua.lewis3554@example.com",
+    "phone": "+1 314-787-7924",
+    "ssn": "133 32 5022",
+    "dob": "01/12/1994",
+    "address": "4225 Spring Ave",
+    "city": "Los Angeles",
+    "state": "NY"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Reed,nicholas.reed6558@outlook.com,+1 954-848-6215,719079241,07/09/1980,"3388 Oak Ln",Philadelphia,WA

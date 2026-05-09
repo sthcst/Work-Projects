@@ -1,0 +1,9 @@
+contact:
+  name: Jane Wilson
+  email: jane.wilson5760@mail.com
+  phone: 330 235 8449
+  ssn: 505-13-6869
+  dob: 3/19/1964
+  address: 3588 North Way
+  city: Phoenix
+  state: WA

@@ -1,0 +1,9 @@
+contact:
+  name: Helen Alvarado
+  email: helen.alvarado9167@yahoo.com
+  phone: +1 711-359-2250
+  ssn: 598-79-3519
+  dob: 25/08/1994
+  address: 571 West St
+  city: Seattle
+  state: MI

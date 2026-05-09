@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Morgan
+  email: katherine.morgan9109@example.com
+  phone: 488-459-7629
+  ssn: 475-59-2705
+  dob: 07/03/1999
+  address: 7812 Cedar St
+  city: Boston
+  state: PA

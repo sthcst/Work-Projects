@@ -1,0 +1,14 @@
+INVOICE 991001
+
+Bill To:
+Name: Rebecca Campbell
+Email: rebecca.campbell2808@mail.com
+Phone: 338 427 3074
+SSN: 027333589
+
+Address: 9243 Oak Ln
+Houston, TX
+
+Date of Birth: 01/15/1977
+
+Amount Due: $4416

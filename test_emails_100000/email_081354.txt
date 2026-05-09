@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Wilson,kenneth.wilson1698@mail.com,449-224-7306,763-84-7070,02-22-1951,"6197 Cedar Blvd",Philadelphia,MI

@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Lopez
+  email: samantha.lopez7919@outlook.com
+  phone: (330) 204-2301
+  ssn: 836 67 4436
+  dob: 22/10/2002
+  address: 694 Park Rd
+  city: Houston
+  state: TX

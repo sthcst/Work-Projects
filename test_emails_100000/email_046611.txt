@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Rodriguez,rebecca.rodriguez9350@example.com,(222) 213-4301,856686624,18/09/1973,"2204 Second Court",Denver,IL

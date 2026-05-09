@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Taylor",
+    "email": "brenda.taylor6432@example.com",
+    "phone": "465 448 7355",
+    "ssn": "281 90 6438",
+    "dob": "16/02/1977",
+    "address": "7871 Third Dr",
+    "city": "San Antonio",
+    "state": "TN"
+  }
+}

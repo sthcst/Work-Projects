@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Harris",
+    "email": "kenneth.harris188@business.net",
+    "phone": "402-401-7073",
+    "ssn": "652111215",
+    "dob": "02-15-1975",
+    "address": "9642 Park Ave",
+    "city": "Phoenix",
+    "state": "MI"
+  }
+}

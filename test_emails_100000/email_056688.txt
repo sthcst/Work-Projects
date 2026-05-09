@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Campbell
+  email: ashley.campbell9768@business.net
+  phone: (800) 544-8274
+  ssn: 807 23 4344
+  dob: 10-07-1961
+  address: 2409 Third Way
+  city: Boston
+  state: TX

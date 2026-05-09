@@ -1,0 +1,14 @@
+INVOICE 901408
+
+Bill To:
+Name: Edward Smith
+Email: edward.smith2939@business.net
+Phone: 203 836 2983
+SSN: 870 59 4110
+
+Address: 911 North St
+Washington, MI
+
+Date of Birth: 4/15/1963
+
+Amount Due: $5339

@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Serrano
+  email: joshua.serrano7337@yahoo.com
+  phone: 952-613-2923
+  ssn: 196 48 7041
+  dob: 2/16/1956
+  address: 8373 Pine Ave
+  city: New York
+  state: WA

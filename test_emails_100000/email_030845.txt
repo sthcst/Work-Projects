@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Alvarado
+  email: pamela.alvarado1009@mail.com
+  phone: 799 583 8796
+  ssn: 866 49 8046
+  dob: 3/14/1987
+  address: 2058 East Ln
+  city: Denver
+  state: AZ

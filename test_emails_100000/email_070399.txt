@@ -1,0 +1,14 @@
+INVOICE 925850
+
+Bill To:
+Name: Ryan Gonzalez
+Email: ryan.gonzalez5935@company.com
+Phone: +1 956-329-4913
+SSN: 858375363
+
+Address: 8020 Second Blvd
+Dallas, OH
+
+Date of Birth: 10/12/1990
+
+Amount Due: $8876

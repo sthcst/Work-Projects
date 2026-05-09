@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Serrano",
+    "email": "kathleen.serrano8455@outlook.com",
+    "phone": "325-465-8876",
+    "ssn": "366 55 6956",
+    "dob": "2/2/1983",
+    "address": "9643 Second St",
+    "city": "New York",
+    "state": "GA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Harris
+  email: daniel.harris5062@work.org
+  phone: 371-400-4579
+  ssn: 377-91-1304
+  dob: 07-19-1964
+  address: 8084 Spring Ave
+  city: Denver
+  state: CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Matthew Rodriguez,matthew.rodriguez8873@mail.com,252 662 6737,606872085,08-24-1960,"2197 Cedar Dr",Denver,TX

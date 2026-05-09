@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Sanchez
+  email: ryan.sanchez110@work.org
+  phone: 998-592-9291
+  ssn: 755-92-4880
+  dob: 07-21-1958
+  address: 7910 Oak Rd
+  city: New York
+  state: FL

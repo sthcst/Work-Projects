@@ -1,0 +1,12 @@
+SUPPORT TICKET #26794
+
+Customer: George Jackson
+Email: george.jackson2836@example.com
+Phone: +1 987-858-5475
+Account: 751-53-9885
+
+Issue Description: Technical problem reported
+DOB on file: 01-17-1958
+Address: 150 Birch Ln, Dallas, CO
+
+Status: OPEN

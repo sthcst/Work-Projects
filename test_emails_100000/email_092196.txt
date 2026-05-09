@@ -1,0 +1,9 @@
+contact:
+  name: Gary Hernandez
+  email: gary.hernandez7699@yahoo.com
+  phone: +1 379-319-3260
+  ssn: 881-19-1251
+  dob: 07-01-1953
+  address: 1886 Fifth Dr
+  city: New York
+  state: VA

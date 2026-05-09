@@ -1,0 +1,9 @@
+contact:
+  name: Emma Reeves
+  email: emma.reeves6699@gmail.com
+  phone: 302 471 4940
+  ssn: 127 98 4493
+  dob: 26/09/1953
+  address: 1110 East Ave
+  city: Chicago
+  state: CA

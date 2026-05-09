@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Cooper",
+    "email": "richard.cooper6494@yahoo.com",
+    "phone": "773-506-2244",
+    "ssn": "970 84 7847",
+    "dob": "7/5/1964",
+    "address": "1558 Cedar Ave",
+    "city": "Denver",
+    "state": "OH"
+  }
+}

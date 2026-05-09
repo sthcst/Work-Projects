@@ -1,0 +1,9 @@
+contact:
+  name: David Ortiz
+  email: david.ortiz4848@business.net
+  phone: +1 283-252-9320
+  ssn: 157 71 9473
+  dob: 05-10-1993
+  address: 7149 Sixth Dr
+  city: Boston
+  state: OH

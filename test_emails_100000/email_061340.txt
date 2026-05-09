@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Sanchez",
+    "email": "emma.sanchez1827@example.com",
+    "phone": "(387) 397-8181",
+    "ssn": "390 63 8608",
+    "dob": "20/09/1951",
+    "address": "2584 Third Ave",
+    "city": "Seattle",
+    "state": "TN"
+  }
+}

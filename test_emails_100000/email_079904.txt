@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Rodriguez,joseph.rodriguez8384@work.org,+1 449-411-5379,239 48 8483,08/22/1993,"1409 South St",Seattle,MI

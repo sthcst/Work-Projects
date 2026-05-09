@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Nelson,kenneth.nelson2965@example.com,263-306-9409,543157437,25/09/1975,"8693 Summer St",Boston,MA

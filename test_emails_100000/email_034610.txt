@@ -1,0 +1,14 @@
+INVOICE 729099
+
+Bill To:
+Name: Nicole Dominguez
+Email: nicole.dominguez9924@company.com
+Phone: (631) 751-9814
+SSN: 628849961
+
+Address: 3458 Spring Rd
+Los Angeles, MO
+
+Date of Birth: 28/06/1971
+
+Amount Due: $2531

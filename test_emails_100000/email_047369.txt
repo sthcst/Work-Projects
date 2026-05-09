@@ -1,0 +1,9 @@
+contact:
+  name: Jane Clark
+  email: jane.clark4829@mail.com
+  phone: +1 772-881-1285
+  ssn: 604-20-1539
+  dob: 13/06/1986
+  address: 5520 Maple Blvd
+  city: New York
+  state: TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Campbell,steven.campbell4366@gmail.com,987 856 6676,638613321,01/09/2002,"1055 West Way",Denver,TX

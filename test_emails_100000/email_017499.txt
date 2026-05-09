@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Nunez",
+    "email": "lisa.nunez4673@example.com",
+    "phone": "814 881 3388",
+    "ssn": "886 76 6570",
+    "dob": "14/10/1967",
+    "address": "9998 Sixth Blvd",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Angela Walker
+  email: angela.walker2488@business.net
+  phone: (334) 989-6912
+  ssn: 177 27 6501
+  dob: 13/10/1954
+  address: 3810 Third Ave
+  city: Boston
+  state: FL

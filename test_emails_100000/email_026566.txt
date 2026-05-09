@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Williams
+  email: samantha.williams5649@mail.com
+  phone: 520-964-6098
+  ssn: 265-01-7824
+  dob: 7/17/1976
+  address: 3207 Cedar Ave
+  city: San Diego
+  state: MO

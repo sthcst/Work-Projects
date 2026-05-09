@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Thomas",
+    "email": "jacob.thomas9147@mail.com",
+    "phone": "(931) 610-1033",
+    "ssn": "787 82 2750",
+    "dob": "05/08/1994",
+    "address": "4223 Oak Rd",
+    "city": "Jacksonville",
+    "state": "MA"
+  }
+}

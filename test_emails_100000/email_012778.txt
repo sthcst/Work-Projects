@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Carter,steven.carter1847@business.net,667-234-5467,062-48-2145,27/05/1997,"8577 Spring Ave",Dallas,OH

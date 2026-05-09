@@ -1,0 +1,14 @@
+INVOICE 670638
+
+Bill To:
+Name: Samantha Harris
+Email: samantha.harris4215@mail.com
+Phone: 652 814 1832
+SSN: 997-26-9317
+
+Address: 7978 Fifth Ln
+Denver, MA
+
+Date of Birth: 10/26/1998
+
+Amount Due: $4925

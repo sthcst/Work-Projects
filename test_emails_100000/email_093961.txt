@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Taylor,david.taylor1142@business.net,+1 745-253-3040,277342929,12/05/1993,"1370 Fourth St",New York,DC

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Romero",
+    "email": "amanda.romero6943@work.org",
+    "phone": "333 374 1949",
+    "ssn": "955 91 1377",
+    "dob": "06/16/1967",
+    "address": "4621 Summer Rd",
+    "city": "Los Angeles",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: James Reyes
+  email: james.reyes5543@example.com
+  phone: (376) 774-4193
+  ssn: 556296669
+  dob: 07-19-1962
+  address: 8319 Main Blvd
+  city: Chicago
+  state: DC

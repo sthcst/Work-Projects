@@ -1,0 +1,14 @@
+INVOICE 314333
+
+Bill To:
+Name: Rebecca Hernandez
+Email: rebecca.hernandez9257@gmail.com
+Phone: +1 935-665-9349
+SSN: 399-56-8092
+
+Address: 1394 Fourth St
+Los Angeles, AZ
+
+Date of Birth: 3/5/1976
+
+Amount Due: $9536

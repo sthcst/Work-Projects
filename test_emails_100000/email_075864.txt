@@ -1,0 +1,9 @@
+contact:
+  name: John Collins
+  email: john.collins1894@mail.com
+  phone: 702 487 6625
+  ssn: 996046259
+  dob: 04/07/2003
+  address: 9008 Park Ave
+  city: Austin
+  state: PA

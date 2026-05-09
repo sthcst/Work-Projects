@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Nelson,brenda.nelson7866@outlook.com,(411) 585-8404,334 25 4616,04-08-1953,"6298 Third Way",San Diego,NC

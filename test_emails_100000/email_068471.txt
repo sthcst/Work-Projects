@@ -1,0 +1,14 @@
+INVOICE 452312
+
+Bill To:
+Name: Jessica Flores
+Email: jessica.flores215@business.net
+Phone: 694-582-1808
+SSN: 876971562
+
+Address: 9243 Summer Way
+Boston, NJ
+
+Date of Birth: 07/07/1961
+
+Amount Due: $9788

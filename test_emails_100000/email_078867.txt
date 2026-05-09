@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Lewis",
+    "email": "brenda.lewis3634@business.net",
+    "phone": "824 619 6562",
+    "ssn": "052 21 4446",
+    "dob": "04-23-1979",
+    "address": "196 East Court",
+    "city": "Los Angeles",
+    "state": "MA"
+  }
+}

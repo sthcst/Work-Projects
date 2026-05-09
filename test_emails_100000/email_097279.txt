@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Harris",
+    "email": "cynthia.harris5799@outlook.com",
+    "phone": "+1 213-209-4332",
+    "ssn": "223 06 2896",
+    "dob": "11/06/1989",
+    "address": "2715 Spring Court",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

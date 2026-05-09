@@ -1,0 +1,12 @@
+SUPPORT TICKET #55252
+
+Customer: Mark Romero
+Email: mark.romero2791@example.com
+Phone: 423-528-3794
+Account: 637661880
+
+Issue Description: Technical problem reported
+DOB on file: 06/12/1956
+Address: 503 Park Dr, Washington, MD
+
+Status: OPEN

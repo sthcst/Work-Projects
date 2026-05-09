@@ -1,0 +1,12 @@
+SUPPORT TICKET #42179
+
+Customer: Anthony Anderson
+Email: anthony.anderson6755@example.com
+Phone: 598-878-5729
+Account: 460454612
+
+Issue Description: Technical problem reported
+DOB on file: 02/26/1998
+Address: 6413 Main Blvd, Jacksonville, IL
+
+Status: OPEN

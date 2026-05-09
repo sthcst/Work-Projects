@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Robinson,jessica.robinson4289@yahoo.com,529-916-4142,170567179,04-05-1981,"3210 Summer Blvd",Los Angeles,MO

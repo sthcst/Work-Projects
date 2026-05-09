@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Sanchez",
+    "email": "amanda.sanchez7042@gmail.com",
+    "phone": "657-944-5900",
+    "ssn": "480958827",
+    "dob": "09/06/1974",
+    "address": "2837 Oak Court",
+    "city": "Jacksonville",
+    "state": "MI"
+  }
+}

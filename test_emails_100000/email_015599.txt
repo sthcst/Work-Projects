@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Harris
+  email: lauren.harris7234@mail.com
+  phone: (439) 967-9999
+  ssn: 338 71 2335
+  dob: 5/4/1991
+  address: 9554 Birch Dr
+  city: Jacksonville
+  state: CA

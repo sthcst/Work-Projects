@@ -1,0 +1,9 @@
+contact:
+  name: George Collins
+  email: george.collins5705@business.net
+  phone: 645-871-9794
+  ssn: 831 80 3059
+  dob: 19/12/1987
+  address: 5131 Pine Way
+  city: Denver
+  state: FL

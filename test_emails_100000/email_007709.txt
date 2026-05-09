@@ -1,0 +1,9 @@
+contact:
+  name: Helen Peterson
+  email: helen.peterson3698@outlook.com
+  phone: +1 480-478-9192
+  ssn: 258-38-3415
+  dob: 2/14/1990
+  address: 1952 Fourth Rd
+  city: New York
+  state: TX

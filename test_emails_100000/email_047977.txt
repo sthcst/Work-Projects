@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey White
+  email: jeffrey.white2340@outlook.com
+  phone: 957 795 9965
+  ssn: 071 33 9605
+  dob: 03/05/1959
+  address: 8482 Oak St
+  city: Chicago
+  state: CA

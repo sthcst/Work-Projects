@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Campbell",
+    "email": "jacob.campbell8166@mail.com",
+    "phone": "844-397-1632",
+    "ssn": "688-79-7360",
+    "dob": "07-25-1979",
+    "address": "5523 Sixth Ave",
+    "city": "Dallas",
+    "state": "NC"
+  }
+}

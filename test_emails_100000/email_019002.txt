@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Nelson",
+    "email": "angela.nelson6916@mail.com",
+    "phone": "+1 781-694-8683",
+    "ssn": "580527422",
+    "dob": "05/12/1983",
+    "address": "4783 North Dr",
+    "city": "Houston",
+    "state": "VA"
+  }
+}

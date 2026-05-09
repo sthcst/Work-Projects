@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Stewart,deborah.stewart7797@company.com,(271) 560-6491,707 22 5673,24/01/1954,"1377 West Dr",San Jose,MD

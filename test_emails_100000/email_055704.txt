@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Collins
+  email: katherine.collins7499@example.com
+  phone: (791) 927-9039
+  ssn: 588-34-4632
+  dob: 5/26/1954
+  address: 9463 Maple Ave
+  city: Austin
+  state: WA

@@ -1,0 +1,14 @@
+INVOICE 715375
+
+Bill To:
+Name: Michael Bell
+Email: michael.bell7778@mail.com
+Phone: 410 335 9682
+SSN: 013-29-2449
+
+Address: 6994 Sixth Way
+San Antonio, TX
+
+Date of Birth: 25/03/1969
+
+Amount Due: $8873

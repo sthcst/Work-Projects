@@ -1,0 +1,9 @@
+contact:
+  name: Steven Moore
+  email: steven.moore2425@outlook.com
+  phone: 250 695 9153
+  ssn: 744-04-7032
+  dob: 08/06/1980
+  address: 2455 Birch St
+  city: Seattle
+  state: MA

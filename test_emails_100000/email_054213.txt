@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Bell,katherine.bell7693@business.net,(303) 823-6400,325556160,5/14/1985,"3153 Oak Rd",Austin,WA

@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Nunez
+  email: jennifer.nunez9894@company.com
+  phone: 292 321 5628
+  ssn: 150-15-5142
+  dob: 4/15/1979
+  address: 4859 Elm Dr
+  city: Los Angeles
+  state: VA

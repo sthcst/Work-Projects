@@ -1,0 +1,14 @@
+INVOICE 907433
+
+Bill To:
+Name: Daniel Rodriguez
+Email: daniel.rodriguez1422@outlook.com
+Phone: 982-922-7376
+SSN: 497-59-8351
+
+Address: 521 Spring Dr
+New York, NJ
+
+Date of Birth: 06/16/1979
+
+Amount Due: $4705

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Lee,paul.lee6711@mail.com,323-939-8085,536745204,07-16-2004,"8640 Birch Rd",Chicago,FL

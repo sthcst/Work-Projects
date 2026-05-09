@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Rogers,john.rogers5999@business.net,491-864-7934,611 56 2269,9/9/1990,"5489 Main St",Denver,MI

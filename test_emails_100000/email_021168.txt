@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Morris,michael.morris4687@example.com,(520) 392-8788,120798459,11/25/1984,"8237 Third Court",Seattle,NJ

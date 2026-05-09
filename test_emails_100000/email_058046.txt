@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Nunez",
+    "email": "emma.nunez3887@example.com",
+    "phone": "(467) 792-7659",
+    "ssn": "285522014",
+    "dob": "4/23/1973",
+    "address": "628 North Blvd",
+    "city": "Dallas",
+    "state": "MO"
+  }
+}

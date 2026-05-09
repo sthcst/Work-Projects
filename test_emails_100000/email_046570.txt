@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Rodriguez
+  email: amanda.rodriguez9810@mail.com
+  phone: 929 727 4813
+  ssn: 554-36-5274
+  dob: 06-20-1981
+  address: 6239 Fifth Blvd
+  city: San Diego
+  state: GA

@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Lewis
+  email: jessica.lewis812@mail.com
+  phone: (832) 298-1825
+  ssn: 624218711
+  dob: 12/8/1991
+  address: 8363 Pine Ln
+  city: Denver
+  state: IL

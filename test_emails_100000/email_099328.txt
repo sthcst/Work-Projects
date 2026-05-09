@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Rogers,paul.rogers1651@mail.com,+1 771-396-6387,977-70-3446,07/08/1958,"7712 Oak Blvd",Boston,MA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Cooper",
+    "email": "angela.cooper2583@work.org",
+    "phone": "+1 232-918-8234",
+    "ssn": "144-86-8147",
+    "dob": "04/26/1991",
+    "address": "9920 Main Dr",
+    "city": "San Jose",
+    "state": "MA"
+  }
+}

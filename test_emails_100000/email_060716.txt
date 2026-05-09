@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Sanchez,nicole.sanchez1018@work.org,+1 744-250-9328,650 35 4650,03/01/1992,"2619 First Court",Seattle,GA

@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Hernandez
+  email: amanda.hernandez5124@business.net
+  phone: (606) 733-3094
+  ssn: 432-78-1020
+  dob: 10/24/1978
+  address: 4624 Sixth Ave
+  city: Seattle
+  state: AZ

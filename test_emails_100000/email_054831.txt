@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Reyes,katherine.reyes9589@mail.com,(411) 829-8872,136-68-3927,19/02/1954,"6511 West Rd",Washington,WA

@@ -1,0 +1,14 @@
+INVOICE 998550
+
+Bill To:
+Name: Helen Delgado
+Email: helen.delgado7843@example.com
+Phone: +1 342-224-4170
+SSN: 273-52-8447
+
+Address: 8947 Elm Way
+San Antonio, FL
+
+Date of Birth: 09-10-1970
+
+Amount Due: $9362

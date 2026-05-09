@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Clark
+  email: katherine.clark322@company.com
+  phone: (939) 704-2834
+  ssn: 884 44 2372
+  dob: 12/22/1961
+  address: 4338 West Ln
+  city: Phoenix
+  state: TN

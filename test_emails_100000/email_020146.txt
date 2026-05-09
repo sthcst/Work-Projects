@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Thompson",
+    "email": "kevin.thompson9615@work.org",
+    "phone": "619-437-7159",
+    "ssn": "101442660",
+    "dob": "13/05/2005",
+    "address": "6087 Main Rd",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

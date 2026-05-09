@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Jackson",
+    "email": "robert.jackson6849@work.org",
+    "phone": "(244) 938-2435",
+    "ssn": "447 13 9651",
+    "dob": "2/26/1998",
+    "address": "4118 Pine Blvd",
+    "city": "Chicago",
+    "state": "AZ"
+  }
+}

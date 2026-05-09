@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Parker
+  email: kathleen.parker2253@company.com
+  phone: 545-762-4514
+  ssn: 833186534
+  dob: 7/2/1986
+  address: 2280 Fifth Way
+  city: Jacksonville
+  state: CO

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Hernandez,rebecca.hernandez6659@yahoo.com,604 506 9595,074 35 8815,04/23/2003,"1012 Main Ln",Phoenix,NY

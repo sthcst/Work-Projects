@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Perez
+  email: rebecca.perez8679@yahoo.com
+  phone: +1 225-429-6037
+  ssn: 485195351
+  dob: 09-27-1974
+  address: 6784 Third Way
+  city: Washington
+  state: TX

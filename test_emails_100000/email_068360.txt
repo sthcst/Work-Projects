@@ -1,0 +1,9 @@
+contact:
+  name: Richard Miller
+  email: richard.miller8467@outlook.com
+  phone: +1 783-984-2889
+  ssn: 463 86 9586
+  dob: 07/21/1962
+  address: 4269 First St
+  city: Houston
+  state: NJ

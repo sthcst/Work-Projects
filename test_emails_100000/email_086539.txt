@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Reeves",
+    "email": "jacob.reeves2289@company.com",
+    "phone": "(730) 642-6616",
+    "ssn": "489-11-7744",
+    "dob": "12/4/1962",
+    "address": "1438 North Court",
+    "city": "Austin",
+    "state": "NJ"
+  }
+}

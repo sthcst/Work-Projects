@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Wilson
+  email: andrew.wilson3429@yahoo.com
+  phone: (828) 523-9225
+  ssn: 401 37 9842
+  dob: 12/5/2003
+  address: 3457 Elm Dr
+  city: Austin
+  state: MD

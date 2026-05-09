@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Miller",
+    "email": "ronald.miller9450@example.com",
+    "phone": "(548) 487-3464",
+    "ssn": "529-24-2152",
+    "dob": "25/01/1972",
+    "address": "5082 Elm St",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

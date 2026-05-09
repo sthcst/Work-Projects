@@ -1,0 +1,9 @@
+contact:
+  name: James Guerrero
+  email: james.guerrero1795@example.com
+  phone: (869) 432-2663
+  ssn: 341-20-1403
+  dob: 01/28/1953
+  address: 5920 Summer Ave
+  city: Seattle
+  state: MD

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Brown",
+    "email": "shirley.brown96@mail.com",
+    "phone": "625 851 8312",
+    "ssn": "729986369",
+    "dob": "9/1/1976",
+    "address": "4185 Elm Blvd",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Thompson
+  email: katherine.thompson5274@work.org
+  phone: 806-383-1319
+  ssn: 651 87 1853
+  dob: 08-03-1969
+  address: 2895 Pine Ave
+  city: Houston
+  state: WI

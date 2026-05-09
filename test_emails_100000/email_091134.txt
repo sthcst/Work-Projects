@@ -1,0 +1,14 @@
+INVOICE 864020
+
+Bill To:
+Name: James Jackson
+Email: james.jackson7918@yahoo.com
+Phone: (722) 399-6878
+SSN: 961-90-3065
+
+Address: 837 First Dr
+Austin, IL
+
+Date of Birth: 25/02/1962
+
+Amount Due: $4529

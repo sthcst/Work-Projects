@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Martinez,samantha.martinez4475@outlook.com,649 315 5309,094981182,05/09/1997,"2540 Main Rd",Chicago,CA

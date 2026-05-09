@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Lee
+  email: kathleen.lee9223@work.org
+  phone: 348-634-3859
+  ssn: 160 61 3803
+  dob: 07/01/1967
+  address: 5581 Fourth Dr
+  city: Dallas
+  state: MA

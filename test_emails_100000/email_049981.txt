@@ -1,0 +1,9 @@
+contact:
+  name: Steven Collins
+  email: steven.collins1093@gmail.com
+  phone: (974) 846-9772
+  ssn: 629 77 4436
+  dob: 04-04-1979
+  address: 5450 Park Court
+  city: Dallas
+  state: AZ

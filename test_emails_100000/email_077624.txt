@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Jackson",
+    "email": "maria.jackson1986@mail.com",
+    "phone": "(285) 362-1788",
+    "ssn": "957-60-7622",
+    "dob": "03/23/1996",
+    "address": "7605 East St",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Emma Guerrero
+  email: emma.guerrero7617@outlook.com
+  phone: (474) 970-5627
+  ssn: 618-23-5105
+  dob: 6/12/1988
+  address: 4441 East Dr
+  city: San Diego
+  state: PA

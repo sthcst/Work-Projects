@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Martin",
+    "email": "john.martin5896@company.com",
+    "phone": "220-503-1259",
+    "ssn": "141-17-9673",
+    "dob": "10/05/1962",
+    "address": "4469 Oak Ave",
+    "city": "New York",
+    "state": "WI"
+  }
+}

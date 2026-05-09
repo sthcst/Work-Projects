@@ -1,0 +1,14 @@
+INVOICE 534238
+
+Bill To:
+Name: Emma Thomas
+Email: emma.thomas1805@gmail.com
+Phone: (200) 857-3053
+SSN: 218 44 4712
+
+Address: 4710 Oak Ave
+San Diego, WA
+
+Date of Birth: 13/02/1969
+
+Amount Due: $1459

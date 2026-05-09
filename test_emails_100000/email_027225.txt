@@ -1,0 +1,14 @@
+INVOICE 142739
+
+Bill To:
+Name: Sarah Jones
+Email: sarah.jones2392@gmail.com
+Phone: 784 465 2345
+SSN: 993604297
+
+Address: 6550 First Ave
+Washington, FL
+
+Date of Birth: 8/12/2000
+
+Amount Due: $3890

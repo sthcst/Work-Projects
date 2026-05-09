@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Walker,deborah.walker4357@example.com,(658) 224-1844,085-77-9011,27/10/1959,"7643 Elm Blvd",Philadelphia,MA

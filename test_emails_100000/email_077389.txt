@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Wilson
+  email: nicholas.wilson7453@yahoo.com
+  phone: 795-715-3583
+  ssn: 652-26-8893
+  dob: 01-17-2005
+  address: 5864 Summer St
+  city: Seattle
+  state: CA

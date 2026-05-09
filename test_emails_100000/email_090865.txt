@@ -1,0 +1,14 @@
+INVOICE 810589
+
+Bill To:
+Name: Joseph Alvarado
+Email: joseph.alvarado2667@example.com
+Phone: 862-739-1327
+SSN: 934-27-8265
+
+Address: 6403 First Court
+San Antonio, CA
+
+Date of Birth: 1/16/1979
+
+Amount Due: $5026

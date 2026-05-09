@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Davis",
+    "email": "amanda.davis4214@yahoo.com",
+    "phone": "786 907 9338",
+    "ssn": "519637363",
+    "dob": "5/12/1959",
+    "address": "9640 Summer Blvd",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Angela Murillo
+  email: angela.murillo4468@gmail.com
+  phone: (821) 578-5267
+  ssn: 534-08-4680
+  dob: 1/7/1993
+  address: 6432 Birch Rd
+  city: Boston
+  state: NJ

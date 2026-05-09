@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Williams",
+    "email": "charles.williams5511@company.com",
+    "phone": "927-489-8087",
+    "ssn": "389176240",
+    "dob": "21/12/1950",
+    "address": "7220 Park Rd",
+    "city": "San Antonio",
+    "state": "MD"
+  }
+}

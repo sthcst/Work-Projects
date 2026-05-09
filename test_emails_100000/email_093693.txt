@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Reed,george.reed1123@example.com,650 549 1694,768-26-2976,09/04/1980,"6088 Fifth Court",Dallas,FL

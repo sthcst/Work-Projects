@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Harris,amanda.harris3108@business.net,+1 598-222-3607,687 50 4097,12/02/1972,"9211 Sixth Way",San Jose,IL

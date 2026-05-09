@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Cooper,rebecca.cooper6592@yahoo.com,(778) 427-7574,775474691,12/19/1983,"7157 Maple Rd",Chicago,OH

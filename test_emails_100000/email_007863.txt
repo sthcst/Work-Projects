@@ -1,0 +1,9 @@
+contact:
+  name: Megan Martin
+  email: megan.martin2877@yahoo.com
+  phone: +1 752-404-3947
+  ssn: 984 39 7783
+  dob: 11/07/1980
+  address: 3580 Sixth Ave
+  city: Chicago
+  state: NJ

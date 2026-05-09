@@ -1,0 +1,9 @@
+contact:
+  name: Steven Collins
+  email: steven.collins1857@mail.com
+  phone: (512) 632-9926
+  ssn: 051-89-3982
+  dob: 5/21/1968
+  address: 183 Fifth Ave
+  city: Seattle
+  state: MA

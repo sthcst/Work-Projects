@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Thomas",
+    "email": "andrew.thomas1667@business.net",
+    "phone": "+1 535-322-8085",
+    "ssn": "712-02-5214",
+    "dob": "3/19/1977",
+    "address": "4224 Pine St",
+    "city": "San Diego",
+    "state": "NC"
+  }
+}

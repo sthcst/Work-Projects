@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Nelson",
+    "email": "ronald.nelson4908@example.com",
+    "phone": "+1 446-307-8444",
+    "ssn": "206942902",
+    "dob": "2/1/1950",
+    "address": "5656 Birch Way",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

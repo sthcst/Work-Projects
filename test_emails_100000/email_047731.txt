@@ -1,0 +1,9 @@
+contact:
+  name: Anna Nelson
+  email: anna.nelson7235@work.org
+  phone: 784 638 1444
+  ssn: 069 33 6783
+  dob: 7/13/1963
+  address: 3104 West Dr
+  city: Chicago
+  state: NY

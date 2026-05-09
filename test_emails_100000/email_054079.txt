@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Roberts",
+    "email": "christine.roberts9905@company.com",
+    "phone": "778 784 9860",
+    "ssn": "066948475",
+    "dob": "09/06/1996",
+    "address": "1197 Elm Ave",
+    "city": "Houston",
+    "state": "MI"
+  }
+}

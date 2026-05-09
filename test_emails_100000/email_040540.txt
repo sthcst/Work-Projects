@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Jackson
+  email: rachel.jackson346@outlook.com
+  phone: +1 608-238-6656
+  ssn: 690208091
+  dob: 03/11/1975
+  address: 6825 North Ln
+  city: Austin
+  state: MA

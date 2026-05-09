@@ -1,0 +1,9 @@
+contact:
+  name: Megan Garcia
+  email: megan.garcia5384@work.org
+  phone: 974-357-2348
+  ssn: 972 87 2127
+  dob: 05-28-1994
+  address: 5239 Elm Ln
+  city: Philadelphia
+  state: TN

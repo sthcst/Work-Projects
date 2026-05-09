@@ -1,0 +1,14 @@
+INVOICE 285774
+
+Bill To:
+Name: Ronald Lee
+Email: ronald.lee1632@outlook.com
+Phone: 298 927 7000
+SSN: 363075191
+
+Address: 8520 Park Dr
+Phoenix, TX
+
+Date of Birth: 28/10/1970
+
+Amount Due: $9272

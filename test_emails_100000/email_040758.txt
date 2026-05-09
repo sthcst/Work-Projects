@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Romero
+  email: joseph.romero1227@gmail.com
+  phone: +1 852-594-5147
+  ssn: 944 64 1923
+  dob: 7/22/1983
+  address: 6832 Second Rd
+  city: San Diego
+  state: WA

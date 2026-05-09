@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Young
+  email: brenda.young8501@business.net
+  phone: 683-454-3775
+  ssn: 450 50 5452
+  dob: 01-22-1954
+  address: 8440 Main Ln
+  city: New York
+  state: WA

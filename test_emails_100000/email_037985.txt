@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Campbell",
+    "email": "joseph.campbell2804@gmail.com",
+    "phone": "(822) 203-3738",
+    "ssn": "428925520",
+    "dob": "04/06/1972",
+    "address": "5843 Third St",
+    "city": "San Antonio",
+    "state": "WA"
+  }
+}

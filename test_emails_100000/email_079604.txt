@@ -1,0 +1,14 @@
+INVOICE 298505
+
+Bill To:
+Name: Jason Phillips
+Email: jason.phillips1389@example.com
+Phone: +1 993-424-4798
+SSN: 443657918
+
+Address: 1223 West St
+New York, GA
+
+Date of Birth: 02-20-1979
+
+Amount Due: $2592

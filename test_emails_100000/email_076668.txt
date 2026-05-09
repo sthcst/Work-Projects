@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Davis",
+    "email": "christopher.davis8852@work.org",
+    "phone": "(730) 912-4735",
+    "ssn": "867273861",
+    "dob": "11-07-2002",
+    "address": "1421 Fourth St",
+    "city": "Philadelphia",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Lee,pamela.lee1542@business.net,311-760-5055,586 03 2510,11/26/2003,"7934 South Way",San Antonio,TN

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Lewis",
+    "email": "ronald.lewis3816@work.org",
+    "phone": "705 628 7839",
+    "ssn": "862632980",
+    "dob": "20/08/2002",
+    "address": "2227 Maple Dr",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

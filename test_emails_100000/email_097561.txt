@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Phillips
+  email: lisa.phillips4913@yahoo.com
+  phone: 777-337-7743
+  ssn: 124 84 1794
+  dob: 11/11/1980
+  address: 8191 First Ave
+  city: Seattle
+  state: MI

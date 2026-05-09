@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Guerrero,lisa.guerrero9552@mail.com,+1 415-737-7857,666971730,12-22-2001,"510 Cedar St",Houston,MD

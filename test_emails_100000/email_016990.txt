@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Dominguez",
+    "email": "amanda.dominguez4274@yahoo.com",
+    "phone": "(901) 523-4343",
+    "ssn": "144166482",
+    "dob": "07/19/1962",
+    "address": "1868 Oak Blvd",
+    "city": "Seattle",
+    "state": "FL"
+  }
+}

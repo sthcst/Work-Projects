@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Romero,kimberly.romero6897@example.com,611 610 9561,196782547,01/14/1988,"6892 Cedar Blvd",Austin,NJ

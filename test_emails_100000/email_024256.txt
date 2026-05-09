@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Harris,andrew.harris1963@example.com,(626) 716-4076,241 38 2413,02-18-1960,"3026 Summer Ln",Washington,WA

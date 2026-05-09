@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Ramirez
+  email: nicholas.ramirez4178@outlook.com
+  phone: (329) 576-3760
+  ssn: 687974189
+  dob: 11/11/1983
+  address: 1513 Park St
+  city: Washington
+  state: CO

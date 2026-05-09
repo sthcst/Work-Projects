@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Reed",
+    "email": "megan.reed7739@yahoo.com",
+    "phone": "+1 474-685-5820",
+    "ssn": "011-05-8058",
+    "dob": "10/3/1963",
+    "address": "2719 West Dr",
+    "city": "Denver",
+    "state": "DC"
+  }
+}

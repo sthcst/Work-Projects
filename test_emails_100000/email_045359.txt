@@ -1,0 +1,14 @@
+INVOICE 242471
+
+Bill To:
+Name: Samantha Lee
+Email: samantha.lee1380@gmail.com
+Phone: (208) 394-8574
+SSN: 060-81-4328
+
+Address: 4512 Oak St
+New York, MO
+
+Date of Birth: 07-28-1986
+
+Amount Due: $736

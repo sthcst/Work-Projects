@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Morgan",
+    "email": "ashley.morgan1477@gmail.com",
+    "phone": "733-296-3040",
+    "ssn": "482 65 1191",
+    "dob": "27/09/1962",
+    "address": "1702 Main Dr",
+    "city": "San Antonio",
+    "state": "CO"
+  }
+}

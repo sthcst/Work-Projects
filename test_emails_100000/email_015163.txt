@@ -1,0 +1,14 @@
+INVOICE 690561
+
+Bill To:
+Name: Pamela Sanchez
+Email: pamela.sanchez5162@company.com
+Phone: 651 667 1328
+SSN: 545 85 2450
+
+Address: 5864 Third Way
+Austin, FL
+
+Date of Birth: 19/12/1992
+
+Amount Due: $3255

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Martin,rebecca.martin9076@mail.com,232 271 1615,028 67 1128,12/09/1956,"1406 Elm Dr",Chicago,CO

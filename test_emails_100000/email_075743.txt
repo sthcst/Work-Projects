@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Carter,sarah.carter413@gmail.com,705-927-5530,379-77-2722,20/06/1975,"2819 Summer Dr",San Antonio,TN

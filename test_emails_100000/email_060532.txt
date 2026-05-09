@@ -1,0 +1,9 @@
+contact:
+  name: Michael Collins
+  email: michael.collins3740@example.com
+  phone: 461 997 9843
+  ssn: 332 46 5540
+  dob: 01-01-1961
+  address: 6772 Oak St
+  city: Jacksonville
+  state: TX

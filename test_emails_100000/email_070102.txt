@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Campbell",
+    "email": "maria.campbell6994@business.net",
+    "phone": "353 263 6006",
+    "ssn": "238-87-2926",
+    "dob": "03/01/1991",
+    "address": "334 Maple Dr",
+    "city": "New York",
+    "state": "AZ"
+  }
+}

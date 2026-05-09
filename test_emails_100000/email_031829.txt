@@ -1,0 +1,9 @@
+contact:
+  name: Emma Moore
+  email: emma.moore7364@work.org
+  phone: +1 560-656-1566
+  ssn: 865842083
+  dob: 4/28/1953
+  address: 7412 Maple St
+  city: Jacksonville
+  state: FL

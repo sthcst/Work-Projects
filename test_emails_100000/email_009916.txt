@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Miller
+  email: timothy.miller5423@outlook.com
+  phone: 804-245-1397
+  ssn: 941-64-7635
+  dob: 11/25/1976
+  address: 2909 Elm Blvd
+  city: San Diego
+  state: WA

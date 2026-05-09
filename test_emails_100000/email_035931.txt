@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Hernandez",
+    "email": "shirley.hernandez9799@company.com",
+    "phone": "(690) 424-3709",
+    "ssn": "735-41-1144",
+    "dob": "02-24-1957",
+    "address": "9263 Pine Dr",
+    "city": "San Jose",
+    "state": "NJ"
+  }
+}

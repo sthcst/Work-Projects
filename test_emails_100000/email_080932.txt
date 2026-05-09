@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Lewis,stephanie.lewis668@gmail.com,+1 516-402-7110,020-31-8687,07/28/1976,"5864 Maple St",San Antonio,TN

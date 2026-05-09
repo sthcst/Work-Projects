@@ -1,0 +1,14 @@
+INVOICE 853481
+
+Bill To:
+Name: William Alvarado
+Email: william.alvarado116@example.com
+Phone: 998 774 5620
+SSN: 903-22-2737
+
+Address: 6506 Birch Ave
+Austin, GA
+
+Date of Birth: 03-05-1964
+
+Amount Due: $4467

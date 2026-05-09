@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Nelson,samantha.nelson4091@business.net,+1 798-784-6851,081-02-2377,09/18/1960,"1673 South Blvd",Phoenix,TN

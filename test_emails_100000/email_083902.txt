@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Miller
+  email: stephanie.miller5233@work.org
+  phone: (254) 703-1811
+  ssn: 104239936
+  dob: 11/05/1962
+  address: 9380 Maple Court
+  city: San Diego
+  state: DC

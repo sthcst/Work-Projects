@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Perez,mark.perez6651@gmail.com,501-763-7472,881 44 4752,20/03/1952,"9608 Park Ln",San Jose,DC

@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Rodriguez
+  email: amanda.rodriguez9017@company.com
+  phone: 373-645-7803
+  ssn: 803-41-2712
+  dob: 06-17-1986
+  address: 9123 Pine Ave
+  city: Boston
+  state: CO

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Reed",
+    "email": "ronald.reed5123@mail.com",
+    "phone": "+1 222-775-4107",
+    "ssn": "717 81 3931",
+    "dob": "10/22/1988",
+    "address": "1708 Elm Dr",
+    "city": "Washington",
+    "state": "OH"
+  }
+}

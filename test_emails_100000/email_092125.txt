@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Miller,kimberly.miller2653@mail.com,(365) 931-4651,530 56 8449,10/02/1981,"9475 Main Blvd",Jacksonville,MO

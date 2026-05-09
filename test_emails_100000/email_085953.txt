@@ -1,0 +1,9 @@
+contact:
+  name: Jason Hall
+  email: jason.hall9785@mail.com
+  phone: 292-573-5501
+  ssn: 624742053
+  dob: 06-17-1998
+  address: 566 Main Dr
+  city: San Diego
+  state: OH

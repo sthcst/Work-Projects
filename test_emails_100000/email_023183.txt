@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Serrano",
+    "email": "michael.serrano498@gmail.com",
+    "phone": "+1 684-445-2103",
+    "ssn": "702924402",
+    "dob": "11/11/1963",
+    "address": "9095 Summer Ave",
+    "city": "Los Angeles",
+    "state": "MA"
+  }
+}

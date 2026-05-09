@@ -1,0 +1,9 @@
+contact:
+  name: Megan Thompson
+  email: megan.thompson2520@business.net
+  phone: +1 305-626-3347
+  ssn: 098059303
+  dob: 12/9/1966
+  address: 3050 Oak Rd
+  city: Chicago
+  state: CA

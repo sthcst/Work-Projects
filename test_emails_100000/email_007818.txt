@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Evans,katherine.evans3302@work.org,586-505-6298,849-50-2042,07/22/1979,"3523 West Ave",Seattle,IL

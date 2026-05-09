@@ -1,0 +1,14 @@
+INVOICE 389648
+
+Bill To:
+Name: Amanda Thompson
+Email: amanda.thompson6324@outlook.com
+Phone: 366 396 5692
+SSN: 188649056
+
+Address: 2374 Park Rd
+Chicago, FL
+
+Date of Birth: 06/04/1958
+
+Amount Due: $3438

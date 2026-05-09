@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Williams",
+    "email": "helen.williams2438@company.com",
+    "phone": "501-680-3661",
+    "ssn": "380 75 3894",
+    "dob": "01-04-1996",
+    "address": "3934 Summer Ave",
+    "city": "New York",
+    "state": "MA"
+  }
+}

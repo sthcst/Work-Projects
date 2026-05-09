@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Ortiz",
+    "email": "stephanie.ortiz728@outlook.com",
+    "phone": "+1 380-280-7407",
+    "ssn": "131 55 9183",
+    "dob": "12/15/1993",
+    "address": "6181 First Rd",
+    "city": "Houston",
+    "state": "CA"
+  }
+}

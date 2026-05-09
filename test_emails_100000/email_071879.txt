@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Perez",
+    "email": "brian.perez1033@gmail.com",
+    "phone": "(344) 259-8695",
+    "ssn": "311 66 5657",
+    "dob": "09/07/1962",
+    "address": "7804 Spring Ln",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}

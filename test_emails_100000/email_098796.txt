@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Nelson,david.nelson7244@business.net,629-699-9698,596 89 1269,10/16/1951,"7362 Oak Court",Denver,WA

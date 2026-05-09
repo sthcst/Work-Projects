@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Carter,brian.carter8453@yahoo.com,(483) 366-8828,918-86-2175,08-27-1951,"2049 East St",Houston,WA

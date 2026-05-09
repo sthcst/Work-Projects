@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Garcia
+  email: lisa.garcia3218@gmail.com
+  phone: 651 383 9148
+  ssn: 652-92-2738
+  dob: 11/23/1963
+  address: 3190 Birch Ln
+  city: Denver
+  state: WA

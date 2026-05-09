@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Sanchez,jennifer.sanchez3096@work.org,(460) 820-7318,826-14-1227,11/26/1964,"8165 Third Blvd",Boston,TN

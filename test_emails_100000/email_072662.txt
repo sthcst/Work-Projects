@@ -1,0 +1,14 @@
+INVOICE 235677
+
+Bill To:
+Name: Amanda Gomez
+Email: amanda.gomez6679@work.org
+Phone: 961 798 4717
+SSN: 574-89-8836
+
+Address: 332 Maple Court
+Chicago, NY
+
+Date of Birth: 25/01/1969
+
+Amount Due: $5249

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Hernandez",
+    "email": "megan.hernandez8995@mail.com",
+    "phone": "+1 250-341-2292",
+    "ssn": "625042448",
+    "dob": "8/4/1963",
+    "address": "2389 East St",
+    "city": "Dallas",
+    "state": "WI"
+  }
+}

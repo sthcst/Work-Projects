@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Phillips",
+    "email": "ryan.phillips1434@example.com",
+    "phone": "987-376-8745",
+    "ssn": "870-69-7722",
+    "dob": "07/05/1960",
+    "address": "4972 Oak Ln",
+    "city": "Chicago",
+    "state": "DC"
+  }
+}

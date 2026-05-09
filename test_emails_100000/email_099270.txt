@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Davis
+  email: anthony.davis2357@gmail.com
+  phone: (846) 457-3528
+  ssn: 423989590
+  dob: 8/10/2005
+  address: 975 Second Blvd
+  city: Phoenix
+  state: CO

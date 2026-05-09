@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Rodriguez",
+    "email": "ryan.rodriguez9103@outlook.com",
+    "phone": "504-582-1212",
+    "ssn": "947 90 6013",
+    "dob": "11/12/2002",
+    "address": "7142 Park St",
+    "city": "Philadelphia",
+    "state": "TN"
+  }
+}

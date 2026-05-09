@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Jones,mark.jones8763@business.net,289-874-3069,176641941,07-06-1961,"3526 Birch Rd",San Diego,FL

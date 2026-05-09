@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Flores",
+    "email": "andrew.flores4805@mail.com",
+    "phone": "(416) 852-2639",
+    "ssn": "832958216",
+    "dob": "09-07-1960",
+    "address": "3376 Second St",
+    "city": "Chicago",
+    "state": "NC"
+  }
+}

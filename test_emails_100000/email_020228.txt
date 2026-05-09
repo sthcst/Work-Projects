@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Guerrero
+  email: katherine.guerrero5065@outlook.com
+  phone: (247) 585-7088
+  ssn: 264 91 7967
+  dob: 11/12/1985
+  address: 6265 Cedar Ln
+  city: Denver
+  state: NC

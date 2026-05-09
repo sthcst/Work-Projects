@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Delgado,katherine.delgado4353@yahoo.com,980 577 5819,457 19 5155,05/23/1965,"2077 North Blvd",Boston,MA

@@ -1,0 +1,9 @@
+contact:
+  name: Brian Young
+  email: brian.young5760@example.com
+  phone: (827) 546-1745
+  ssn: 139 05 3244
+  dob: 7/26/1950
+  address: 7321 Summer Dr
+  city: Houston
+  state: WA

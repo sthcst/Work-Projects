@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Reyes,andrew.reyes402@gmail.com,+1 881-266-2554,971663284,02-23-1959,"5869 First Ln",Denver,NC

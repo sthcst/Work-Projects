@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Ortiz",
+    "email": "brenda.ortiz181@gmail.com",
+    "phone": "672 897 1532",
+    "ssn": "152 65 7013",
+    "dob": "05-11-1959",
+    "address": "1254 South Dr",
+    "city": "San Jose",
+    "state": "WA"
+  }
+}

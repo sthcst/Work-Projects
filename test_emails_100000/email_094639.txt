@@ -1,0 +1,14 @@
+INVOICE 322669
+
+Bill To:
+Name: Robert Jones
+Email: robert.jones7706@gmail.com
+Phone: (826) 724-8208
+SSN: 136-85-6238
+
+Address: 7381 Second Ln
+San Jose, MD
+
+Date of Birth: 08/10/1954
+
+Amount Due: $6362

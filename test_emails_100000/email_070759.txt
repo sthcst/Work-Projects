@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Phillips,edward.phillips1783@example.com,+1 303-794-2110,963-21-3186,10/04/1993,"3977 Maple Ln",New York,CO

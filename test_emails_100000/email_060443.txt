@@ -1,0 +1,14 @@
+INVOICE 672492
+
+Bill To:
+Name: Ashley Delgado
+Email: ashley.delgado3793@company.com
+Phone: +1 870-715-2899
+SSN: 945154069
+
+Address: 7266 West St
+Chicago, MI
+
+Date of Birth: 13/02/1998
+
+Amount Due: $2707

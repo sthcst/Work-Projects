@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Wilson,lauren.wilson8669@example.com,266-241-7547,224 04 2583,07-21-1996,"5462 Park Way",San Antonio,AZ

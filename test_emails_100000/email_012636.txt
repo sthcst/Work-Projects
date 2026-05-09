@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Cooper,james.cooper6253@mail.com,+1 387-844-9405,403 35 8044,03/04/1976,"1406 West St",Phoenix,TX

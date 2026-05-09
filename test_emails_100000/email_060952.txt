@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Stewart
+  email: ashley.stewart1837@business.net
+  phone: (502) 569-2433
+  ssn: 620 83 4050
+  dob: 16/11/1994
+  address: 6377 South Ln
+  city: New York
+  state: MD

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Serrano",
+    "email": "rebecca.serrano8944@outlook.com",
+    "phone": "(493) 709-7980",
+    "ssn": "768 28 7308",
+    "dob": "28/08/1954",
+    "address": "9110 Birch St",
+    "city": "San Antonio",
+    "state": "WI"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Williams,sarah.williams8790@company.com,+1 283-525-5832,473 73 6835,04-26-1971,"7876 Second Ave",San Jose,NJ

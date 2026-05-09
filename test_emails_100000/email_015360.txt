@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Lee,ryan.lee1192@gmail.com,(569) 818-2922,502-66-1969,07-08-2002,"1111 Second Way",San Diego,MI

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Jimenez",
+    "email": "ryan.jimenez9647@work.org",
+    "phone": "+1 425-481-7078",
+    "ssn": "684633697",
+    "dob": "03/03/1982",
+    "address": "304 Park Ave",
+    "city": "San Diego",
+    "state": "OH"
+  }
+}

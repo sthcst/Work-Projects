@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Peterson",
+    "email": "rachel.peterson5750@company.com",
+    "phone": "500-264-7427",
+    "ssn": "187-65-4402",
+    "dob": "12/13/1953",
+    "address": "6011 Second Court",
+    "city": "Washington",
+    "state": "WA"
+  }
+}

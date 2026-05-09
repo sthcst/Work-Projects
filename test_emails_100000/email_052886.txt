@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Reyes",
+    "email": "rachel.reyes7685@gmail.com",
+    "phone": "836 928 8984",
+    "ssn": "327-49-8165",
+    "dob": "17/04/1973",
+    "address": "7085 Main Court",
+    "city": "Seattle",
+    "state": "DC"
+  }
+}

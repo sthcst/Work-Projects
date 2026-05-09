@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Guerrero,jane.guerrero5781@company.com,+1 405-575-3202,788-12-5050,22/09/1974,"4239 Fourth Ln",Washington,GA

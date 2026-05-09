@@ -1,0 +1,14 @@
+INVOICE 115610
+
+Bill To:
+Name: Daniel Davis
+Email: daniel.davis7280@mail.com
+Phone: +1 520-826-3193
+SSN: 975-08-2931
+
+Address: 1242 Second Court
+San Jose, NC
+
+Date of Birth: 4/16/1975
+
+Amount Due: $6390

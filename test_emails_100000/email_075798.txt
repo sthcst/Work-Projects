@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Serrano",
+    "email": "katherine.serrano374@yahoo.com",
+    "phone": "979-580-5451",
+    "ssn": "978 89 8709",
+    "dob": "11/02/1998",
+    "address": "2700 Park Court",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

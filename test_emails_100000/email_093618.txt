@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Reed",
+    "email": "shirley.reed1370@yahoo.com",
+    "phone": "(749) 767-5317",
+    "ssn": "489 82 8799",
+    "dob": "19/08/1988",
+    "address": "8891 Pine Court",
+    "city": "Denver",
+    "state": "MD"
+  }
+}

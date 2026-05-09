@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Alvarado",
+    "email": "helen.alvarado7370@gmail.com",
+    "phone": "732-881-4038",
+    "ssn": "045 91 9244",
+    "dob": "12/5/1999",
+    "address": "6713 First St",
+    "city": "Dallas",
+    "state": "MD"
+  }
+}

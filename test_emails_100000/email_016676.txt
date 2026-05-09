@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Smith",
+    "email": "kimberly.smith4560@company.com",
+    "phone": "(863) 853-8073",
+    "ssn": "296-98-5512",
+    "dob": "5/24/2000",
+    "address": "104 Fourth Court",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

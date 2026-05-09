@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Taylor,daniel.taylor4812@yahoo.com,746 692 1317,223344555,07/14/1967,"4697 East Ave",Phoenix,GA

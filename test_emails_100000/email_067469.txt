@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Sanchez,charles.sanchez7040@example.com,+1 695-889-4968,673-02-3257,21/05/1978,"8535 Third Blvd",Houston,FL

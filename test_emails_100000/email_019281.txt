@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy White,timothy.white1014@work.org,+1 402-976-4457,103 88 3329,12/16/1989,"4804 South Way",Washington,CO

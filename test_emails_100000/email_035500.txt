@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Davis,rachel.davis5741@example.com,+1 587-507-1563,057-07-4410,6/22/1990,"5159 Maple Dr",Washington,AZ

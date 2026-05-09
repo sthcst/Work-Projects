@@ -1,0 +1,9 @@
+contact:
+  name: Jane Robinson
+  email: jane.robinson8708@business.net
+  phone: +1 203-391-6317
+  ssn: 363-76-3199
+  dob: 05/03/1960
+  address: 3136 Fourth Way
+  city: Washington
+  state: WA

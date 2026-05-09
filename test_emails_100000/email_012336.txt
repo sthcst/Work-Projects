@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Reed,george.reed6545@outlook.com,841 609 3683,896868925,16/12/1980,"1244 North Blvd",Chicago,MA

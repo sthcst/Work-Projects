@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Anderson,jacob.anderson795@company.com,902-601-6405,063698215,03-04-2004,"8836 Oak Court",Dallas,PA

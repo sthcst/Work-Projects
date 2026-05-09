@@ -1,0 +1,14 @@
+INVOICE 242439
+
+Bill To:
+Name: Kathleen Evans
+Email: kathleen.evans408@outlook.com
+Phone: +1 472-324-8275
+SSN: 895-62-7825
+
+Address: 8695 Fifth Way
+Phoenix, CA
+
+Date of Birth: 17/02/2001
+
+Amount Due: $6557

@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Lee
+  email: joshua.lee9909@work.org
+  phone: +1 583-217-5839
+  ssn: 525263451
+  dob: 22/05/1987
+  address: 3429 North Rd
+  city: Chicago
+  state: AZ

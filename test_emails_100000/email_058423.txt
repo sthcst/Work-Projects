@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Hernandez",
+    "email": "kevin.hernandez4635@mail.com",
+    "phone": "276-861-9456",
+    "ssn": "591 91 7733",
+    "dob": "01/19/2005",
+    "address": "6008 Sixth Way",
+    "city": "San Diego",
+    "state": "FL"
+  }
+}

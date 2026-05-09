@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Jimenez
+  email: timothy.jimenez7740@company.com
+  phone: (663) 686-7882
+  ssn: 432-42-6270
+  dob: 12-14-1982
+  address: 1855 Spring Ave
+  city: San Antonio
+  state: IL

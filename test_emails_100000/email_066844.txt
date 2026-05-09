@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Morgan,rachel.morgan4691@outlook.com,+1 247-877-6090,270-90-2624,9/24/1959,"6957 Summer St",San Jose,TX

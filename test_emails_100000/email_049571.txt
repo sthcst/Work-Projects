@@ -1,0 +1,14 @@
+INVOICE 181050
+
+Bill To:
+Name: Emily Jimenez
+Email: emily.jimenez9269@mail.com
+Phone: (228) 848-4712
+SSN: 627-42-5013
+
+Address: 2811 Spring Rd
+Phoenix, FL
+
+Date of Birth: 5/11/1988
+
+Amount Due: $8980

@@ -1,0 +1,14 @@
+INVOICE 575915
+
+Bill To:
+Name: Lisa Thompson
+Email: lisa.thompson6498@example.com
+Phone: +1 828-491-4807
+SSN: 283-16-2577
+
+Address: 5139 West Blvd
+San Diego, MA
+
+Date of Birth: 06-10-1969
+
+Amount Due: $4649

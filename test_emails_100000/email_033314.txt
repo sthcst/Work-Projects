@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Cooper,angela.cooper7243@business.net,+1 583-737-8936,620 22 3777,1/9/1981,"3402 Birch Court",Boston,WI

@@ -1,0 +1,9 @@
+contact:
+  name: Robert Perez
+  email: robert.perez4865@company.com
+  phone: (938) 325-7505
+  ssn: 557195083
+  dob: 21/01/1991
+  address: 3127 Cedar Court
+  city: San Jose
+  state: FL

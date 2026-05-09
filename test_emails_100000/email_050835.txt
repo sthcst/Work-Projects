@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Roberts",
+    "email": "deborah.roberts896@company.com",
+    "phone": "526 738 2014",
+    "ssn": "940961668",
+    "dob": "12/23/1960",
+    "address": "4436 Oak Court",
+    "city": "Philadelphia",
+    "state": "WA"
+  }
+}

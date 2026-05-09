@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Ortiz,christine.ortiz214@gmail.com,+1 419-363-7092,783-88-4587,12-02-1969,"1369 South Court",New York,TN

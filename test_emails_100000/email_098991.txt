@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Romero,nicole.romero865@outlook.com,(829) 996-4084,755402310,10-11-1977,"1092 Fourth Court",Houston,TX

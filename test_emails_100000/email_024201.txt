@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Parker,joshua.parker7940@outlook.com,818 589 9259,579989957,3/9/1993,"7020 Summer Way",Los Angeles,NC

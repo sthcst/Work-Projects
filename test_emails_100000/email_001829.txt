@@ -1,0 +1,9 @@
+contact:
+  name: Christine Thomas
+  email: christine.thomas7168@outlook.com
+  phone: +1 327-266-2780
+  ssn: 759 37 8557
+  dob: 3/1/1978
+  address: 4193 First Court
+  city: San Diego
+  state: WA

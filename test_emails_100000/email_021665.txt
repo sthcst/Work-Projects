@@ -1,0 +1,9 @@
+contact:
+  name: Maria Lopez
+  email: maria.lopez3240@yahoo.com
+  phone: 784-635-5469
+  ssn: 705 58 7287
+  dob: 12-07-1975
+  address: 9115 Spring Court
+  city: Seattle
+  state: MA

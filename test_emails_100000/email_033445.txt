@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Campbell",
+    "email": "kenneth.campbell7691@example.com",
+    "phone": "(607) 485-3351",
+    "ssn": "723-48-7362",
+    "dob": "05-02-1969",
+    "address": "4458 East Ln",
+    "city": "Chicago",
+    "state": "NJ"
+  }
+}

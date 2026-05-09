@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Reed,jane.reed4624@outlook.com,593 944 8477,909 96 4976,3/1/1993,"7173 Cedar Court",Chicago,NJ

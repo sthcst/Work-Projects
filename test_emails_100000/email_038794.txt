@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Martin,amanda.martin735@outlook.com,+1 775-350-5795,807-29-9383,08/03/1985,"9491 West Ln",San Diego,WI

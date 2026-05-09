@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Bell,william.bell6301@gmail.com,+1 307-337-5052,612721019,09/11/1966,"714 Maple Ave",Denver,FL

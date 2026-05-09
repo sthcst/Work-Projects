@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Young,lauren.young6599@mail.com,390 690 1916,662112037,05-19-1952,"3583 West Ln",Seattle,TX

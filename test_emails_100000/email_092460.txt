@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Sanchez,timothy.sanchez2726@company.com,460-746-1867,010 33 5208,08/12/1978,"8643 Pine Ln",New York,AZ

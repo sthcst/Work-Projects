@@ -1,0 +1,9 @@
+contact:
+  name: Michael Roberts
+  email: michael.roberts2788@yahoo.com
+  phone: 704-432-2086
+  ssn: 130-24-9326
+  dob: 11/14/1977
+  address: 2065 Oak Ln
+  city: Chicago
+  state: CA

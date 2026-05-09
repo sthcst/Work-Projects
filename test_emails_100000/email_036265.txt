@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Gonzalez,jason.gonzalez2338@example.com,241-290-2227,070976067,08/27/1950,"1388 Summer Dr",Los Angeles,MA

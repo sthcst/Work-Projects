@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Rodriguez
+  email: kimberly.rodriguez2634@company.com
+  phone: +1 974-542-9645
+  ssn: 064768153
+  dob: 9/26/1955
+  address: 2560 Park St
+  city: Houston
+  state: TX

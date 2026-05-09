@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Lopez",
+    "email": "kathleen.lopez8641@mail.com",
+    "phone": "(493) 343-4542",
+    "ssn": "308041278",
+    "dob": "4/2/1964",
+    "address": "7010 Third Court",
+    "city": "San Diego",
+    "state": "MA"
+  }
+}

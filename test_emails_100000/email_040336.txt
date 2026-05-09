@@ -1,0 +1,14 @@
+INVOICE 523112
+
+Bill To:
+Name: Joshua Perez
+Email: joshua.perez5298@mail.com
+Phone: +1 247-238-7506
+SSN: 474379509
+
+Address: 1965 Summer Way
+Houston, DC
+
+Date of Birth: 9/3/2000
+
+Amount Due: $4107

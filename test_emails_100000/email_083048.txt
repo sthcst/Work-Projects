@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Murillo",
+    "email": "paul.murillo8047@mail.com",
+    "phone": "+1 364-505-9463",
+    "ssn": "896818651",
+    "dob": "04/12/1957",
+    "address": "4155 Elm Ln",
+    "city": "Chicago",
+    "state": "AZ"
+  }
+}

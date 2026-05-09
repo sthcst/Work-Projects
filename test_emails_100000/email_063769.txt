@@ -1,0 +1,14 @@
+INVOICE 974630
+
+Bill To:
+Name: Christopher Carter
+Email: christopher.carter2603@company.com
+Phone: 395-293-6136
+SSN: 222-73-2322
+
+Address: 3089 Park Ln
+Houston, FL
+
+Date of Birth: 24/04/1999
+
+Amount Due: $3996

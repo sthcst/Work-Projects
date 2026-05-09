@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Stewart,joshua.stewart1168@company.com,+1 816-340-8051,098667252,06/12/1977,"738 Fourth Blvd",Chicago,MI

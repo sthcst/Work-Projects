@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Lopez",
+    "email": "andrew.lopez9389@mail.com",
+    "phone": "(550) 535-7876",
+    "ssn": "171-95-5988",
+    "dob": "22/11/1987",
+    "address": "7417 Sixth Rd",
+    "city": "Washington",
+    "state": "MO"
+  }
+}

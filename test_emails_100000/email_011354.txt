@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Alvarado",
+    "email": "amanda.alvarado5313@company.com",
+    "phone": "397 979 6506",
+    "ssn": "956 81 9952",
+    "dob": "5/26/1993",
+    "address": "6745 Fifth Dr",
+    "city": "Los Angeles",
+    "state": "WA"
+  }
+}

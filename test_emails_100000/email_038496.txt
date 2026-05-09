@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Jimenez,angela.jimenez6332@work.org,757-661-2971,729-56-7366,05-04-1966,"1422 Cedar Ave",Chicago,CA

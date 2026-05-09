@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Jackson",
+    "email": "angela.jackson7979@yahoo.com",
+    "phone": "+1 385-540-1709",
+    "ssn": "658665578",
+    "dob": "12-15-1967",
+    "address": "7998 Pine Rd",
+    "city": "Dallas",
+    "state": "MO"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 669011
+
+Bill To:
+Name: Joseph Parker
+Email: joseph.parker875@example.com
+Phone: (526) 329-5164
+SSN: 906-05-4693
+
+Address: 3960 Sixth Dr
+Phoenix, WA
+
+Date of Birth: 10/09/1974
+
+Amount Due: $3250

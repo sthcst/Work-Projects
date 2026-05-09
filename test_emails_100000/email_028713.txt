@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Delgado,emily.delgado7396@outlook.com,269-563-1523,325 93 2667,9/8/1993,"2455 Elm Ave",Phoenix,WI

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Harris",
+    "email": "george.harris9559@example.com",
+    "phone": "395 299 9643",
+    "ssn": "977-97-9433",
+    "dob": "05/23/1983",
+    "address": "3558 East Dr",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

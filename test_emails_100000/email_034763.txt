@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Smith,angela.smith9227@business.net,885-895-9598,510431062,9/16/1974,"6944 Fourth Dr",Denver,MI

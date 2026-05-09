@@ -1,0 +1,14 @@
+INVOICE 238203
+
+Bill To:
+Name: Edward Peterson
+Email: edward.peterson9085@gmail.com
+Phone: +1 443-527-6223
+SSN: 487 01 9939
+
+Address: 6672 Second Dr
+Houston, MA
+
+Date of Birth: 09-10-1971
+
+Amount Due: $2751

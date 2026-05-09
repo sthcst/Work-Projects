@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Walker",
+    "email": "nicholas.walker1711@example.com",
+    "phone": "494 671 7188",
+    "ssn": "347 19 4181",
+    "dob": "07/09/1997",
+    "address": "8575 Elm Ave",
+    "city": "Denver",
+    "state": "IL"
+  }
+}

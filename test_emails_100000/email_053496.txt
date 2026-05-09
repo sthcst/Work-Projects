@@ -1,0 +1,14 @@
+INVOICE 727008
+
+Bill To:
+Name: George Romero
+Email: george.romero4011@mail.com
+Phone: +1 222-617-6817
+SSN: 084-33-1309
+
+Address: 8725 Park Way
+Denver, MA
+
+Date of Birth: 12-08-2004
+
+Amount Due: $1365

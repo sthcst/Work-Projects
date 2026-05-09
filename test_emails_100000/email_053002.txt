@@ -1,0 +1,14 @@
+INVOICE 199066
+
+Bill To:
+Name: Andrew Dominguez
+Email: andrew.dominguez6359@example.com
+Phone: (861) 900-3720
+SSN: 219-43-9398
+
+Address: 4328 Fourth Ln
+Washington, MA
+
+Date of Birth: 4/22/2005
+
+Amount Due: $7992

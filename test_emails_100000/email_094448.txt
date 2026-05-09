@@ -1,0 +1,14 @@
+INVOICE 795640
+
+Bill To:
+Name: Richard Jones
+Email: richard.jones1746@mail.com
+Phone: +1 885-684-1456
+SSN: 720 71 2350
+
+Address: 4246 Main St
+Dallas, TX
+
+Date of Birth: 08-13-1993
+
+Amount Due: $8884

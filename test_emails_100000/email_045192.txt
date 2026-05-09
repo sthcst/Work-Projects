@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Jackson
+  email: ryan.jackson7458@outlook.com
+  phone: (452) 547-9100
+  ssn: 694 33 8201
+  dob: 2/26/1960
+  address: 7239 First Rd
+  city: San Diego
+  state: MI

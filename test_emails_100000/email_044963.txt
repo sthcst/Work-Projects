@@ -1,0 +1,9 @@
+contact:
+  name: Steven Dominguez
+  email: steven.dominguez9769@mail.com
+  phone: +1 232-606-7565
+  ssn: 561 64 1888
+  dob: 4/15/1953
+  address: 5963 Fourth Rd
+  city: Jacksonville
+  state: NC

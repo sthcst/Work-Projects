@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Perez,james.perez2832@mail.com,+1 499-420-6417,344086422,04-11-1964,"3369 Pine Ln",San Antonio,FL

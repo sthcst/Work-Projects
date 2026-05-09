@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Romero,pamela.romero644@example.com,(814) 614-7079,974322150,4/19/1979,"2496 Sixth Blvd",Phoenix,TX

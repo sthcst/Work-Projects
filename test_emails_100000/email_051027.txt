@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Ortiz,mark.ortiz3788@business.net,+1 286-760-5353,485-55-1439,03-25-1981,"9889 West Rd",Dallas,MI

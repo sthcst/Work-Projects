@@ -1,0 +1,9 @@
+contact:
+  name: James Reyes
+  email: james.reyes7682@gmail.com
+  phone: 482-237-1184
+  ssn: 837359602
+  dob: 19/07/1984
+  address: 7964 Maple Blvd
+  city: Los Angeles
+  state: WI

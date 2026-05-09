@@ -1,0 +1,14 @@
+INVOICE 907223
+
+Bill To:
+Name: Joseph Smith
+Email: joseph.smith3230@gmail.com
+Phone: 591-312-4968
+SSN: 436386097
+
+Address: 5841 Fifth St
+Seattle, NY
+
+Date of Birth: 01-22-1998
+
+Amount Due: $928

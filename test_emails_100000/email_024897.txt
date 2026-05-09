@@ -1,0 +1,9 @@
+contact:
+  name: Maria Collins
+  email: maria.collins1775@business.net
+  phone: 891-734-5120
+  ssn: 140-68-3460
+  dob: 03/23/1996
+  address: 5147 Maple Blvd
+  city: Phoenix
+  state: FL

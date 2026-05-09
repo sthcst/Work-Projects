@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Lewis",
+    "email": "anna.lewis5470@work.org",
+    "phone": "312-204-9359",
+    "ssn": "703011190",
+    "dob": "5/27/1963",
+    "address": "9431 Second Rd",
+    "city": "Phoenix",
+    "state": "MA"
+  }
+}

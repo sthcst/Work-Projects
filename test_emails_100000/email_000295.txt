@@ -1,0 +1,14 @@
+INVOICE 211222
+
+Bill To:
+Name: Jennifer Perez
+Email: jennifer.perez8336@example.com
+Phone: (797) 204-9618
+SSN: 786 74 3958
+
+Address: 1555 North St
+San Jose, NJ
+
+Date of Birth: 08/02/1999
+
+Amount Due: $5400

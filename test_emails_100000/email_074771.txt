@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Morgan",
+    "email": "christine.morgan4272@gmail.com",
+    "phone": "(941) 366-7797",
+    "ssn": "426285830",
+    "dob": "23/11/1966",
+    "address": "1485 First Ave",
+    "city": "Philadelphia",
+    "state": "NY"
+  }
+}

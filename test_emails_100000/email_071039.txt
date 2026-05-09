@@ -1,0 +1,9 @@
+contact:
+  name: Anna Ramirez
+  email: anna.ramirez4229@example.com
+  phone: +1 891-840-3438
+  ssn: 241564458
+  dob: 03-26-1984
+  address: 6783 Fifth Ln
+  city: Phoenix
+  state: AZ

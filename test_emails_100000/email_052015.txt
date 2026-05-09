@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Cooper
+  email: nicole.cooper5231@yahoo.com
+  phone: 620 277 2522
+  ssn: 901992898
+  dob: 07/06/1965
+  address: 4321 First Ave
+  city: Chicago
+  state: WA

@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Jimenez
+  email: lauren.jimenez1814@yahoo.com
+  phone: +1 963-547-7885
+  ssn: 264 68 7407
+  dob: 08-15-1959
+  address: 2339 Main Ln
+  city: San Diego
+  state: OH

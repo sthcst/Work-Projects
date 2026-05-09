@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Reeves,james.reeves6908@outlook.com,(417) 429-2490,469 85 8584,04-15-1991,"316 North Court",San Jose,AZ

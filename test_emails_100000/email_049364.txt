@@ -1,0 +1,9 @@
+contact:
+  name: Edward Campbell
+  email: edward.campbell8486@company.com
+  phone: 738-424-7126
+  ssn: 743 20 3498
+  dob: 10/27/1994
+  address: 5345 Oak Ave
+  city: Dallas
+  state: WI

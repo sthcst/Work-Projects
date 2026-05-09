@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Reed",
+    "email": "ryan.reed7476@work.org",
+    "phone": "844-575-6709",
+    "ssn": "683-43-5860",
+    "dob": "1/14/2005",
+    "address": "2036 North Dr",
+    "city": "Austin",
+    "state": "DC"
+  }
+}

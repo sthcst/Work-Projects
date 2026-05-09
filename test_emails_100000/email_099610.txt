@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Johnson,george.johnson5056@outlook.com,241-260-5224,773635943,01-24-1960,"8888 West Way",Austin,MD

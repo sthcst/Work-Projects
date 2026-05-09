@@ -1,0 +1,9 @@
+contact:
+  name: Megan Phillips
+  email: megan.phillips5217@example.com
+  phone: 228-729-1405
+  ssn: 996 19 3270
+  dob: 5/24/1990
+  address: 3908 Second Dr
+  city: Austin
+  state: AZ

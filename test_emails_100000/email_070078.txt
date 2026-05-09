@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Martinez
+  email: pamela.martinez2270@example.com
+  phone: 290 955 5579
+  ssn: 763 12 3346
+  dob: 11/03/1996
+  address: 167 Cedar Ave
+  city: Chicago
+  state: CO

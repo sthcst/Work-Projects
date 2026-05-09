@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Perez",
+    "email": "megan.perez3390@outlook.com",
+    "phone": "+1 450-995-8349",
+    "ssn": "376-39-9200",
+    "dob": "09/07/1955",
+    "address": "7292 Park Ln",
+    "city": "San Jose",
+    "state": "PA"
+  }
+}

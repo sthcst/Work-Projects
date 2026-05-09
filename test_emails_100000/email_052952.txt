@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Robinson
+  email: christopher.robinson2470@work.org
+  phone: +1 330-651-6346
+  ssn: 213 98 8412
+  dob: 01/16/1975
+  address: 7096 Fourth Blvd
+  city: New York
+  state: DC

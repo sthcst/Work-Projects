@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Smith
+  email: shirley.smith3636@yahoo.com
+  phone: 879 236 2413
+  ssn: 961-97-3473
+  dob: 07/12/1960
+  address: 5519 Oak Rd
+  city: Seattle
+  state: CA

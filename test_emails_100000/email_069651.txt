@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Carter,maria.carter960@example.com,229-832-3131,681-27-7429,10/27/1992,"9691 Main Dr",San Jose,GA

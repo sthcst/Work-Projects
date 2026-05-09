@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Young,lisa.young6239@yahoo.com,815-405-7682,527499804,19/07/1990,"1779 Pine Ave",San Jose,CA

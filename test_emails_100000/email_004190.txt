@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Serrano,william.serrano6138@gmail.com,(346) 694-9923,230-86-2696,7/19/1971,"4078 South Ln",Philadelphia,MI

@@ -1,0 +1,9 @@
+contact:
+  name: Michael Morris
+  email: michael.morris5800@example.com
+  phone: 521 355 8429
+  ssn: 069 72 3826
+  dob: 01-04-1999
+  address: 573 Maple St
+  city: Philadelphia
+  state: TX

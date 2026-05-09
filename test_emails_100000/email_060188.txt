@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Rodriguez",
+    "email": "ryan.rodriguez1672@outlook.com",
+    "phone": "+1 368-379-9781",
+    "ssn": "340-01-5542",
+    "dob": "22/02/1989",
+    "address": "4364 South Blvd",
+    "city": "San Antonio",
+    "state": "DC"
+  }
+}

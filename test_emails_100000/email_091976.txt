@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Phillips,emma.phillips4395@work.org,+1 615-559-9140,897022143,06-02-1969,"5884 Spring St",Denver,NJ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Cooper",
+    "email": "emma.cooper3875@mail.com",
+    "phone": "570-373-4340",
+    "ssn": "797644816",
+    "dob": "04/03/1963",
+    "address": "7370 Fourth Ave",
+    "city": "Philadelphia",
+    "state": "AZ"
+  }
+}

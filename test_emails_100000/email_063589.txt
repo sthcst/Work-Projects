@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Moore",
+    "email": "emma.moore6812@outlook.com",
+    "phone": "+1 348-728-3873",
+    "ssn": "883 32 9926",
+    "dob": "04/12/1965",
+    "address": "741 Fourth Blvd",
+    "city": "Chicago",
+    "state": "AZ"
+  }
+}

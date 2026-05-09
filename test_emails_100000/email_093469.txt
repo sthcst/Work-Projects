@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan White,ryan.white2416@work.org,+1 366-884-5283,176 10 6453,22/06/1961,"4003 Fifth Ave",Chicago,CA

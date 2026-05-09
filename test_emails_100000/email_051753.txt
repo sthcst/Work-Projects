@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Nunez,kimberly.nunez3023@gmail.com,888-655-7564,572 38 3004,26/06/1969,"408 Oak St",Denver,NJ

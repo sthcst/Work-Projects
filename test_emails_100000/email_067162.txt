@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Alvarado,charles.alvarado8590@company.com,410 228 7153,787-65-6905,03-09-2000,"1400 Fifth St",Dallas,MD

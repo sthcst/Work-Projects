@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Miller",
+    "email": "ashley.miller3315@work.org",
+    "phone": "+1 688-383-4349",
+    "ssn": "506827234",
+    "dob": "07/19/1974",
+    "address": "2361 Birch Way",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

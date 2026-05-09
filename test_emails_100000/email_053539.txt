@@ -1,0 +1,9 @@
+contact:
+  name: Angela Dominguez
+  email: angela.dominguez5524@outlook.com
+  phone: 981-831-7224
+  ssn: 324-65-7790
+  dob: 22/07/1972
+  address: 7565 Main Court
+  city: New York
+  state: WA

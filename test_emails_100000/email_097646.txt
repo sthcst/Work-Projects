@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Collins
+  email: christopher.collins6769@gmail.com
+  phone: 980 847 3122
+  ssn: 810 78 7050
+  dob: 06/09/2004
+  address: 7399 First Ln
+  city: San Antonio
+  state: TX

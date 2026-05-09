@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Stewart",
+    "email": "ryan.stewart1069@yahoo.com",
+    "phone": "(634) 447-3644",
+    "ssn": "348112686",
+    "dob": "11/12/1954",
+    "address": "2102 Main Dr",
+    "city": "Washington",
+    "state": "MO"
+  }
+}

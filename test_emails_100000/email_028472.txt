@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Nunez",
+    "email": "edward.nunez8669@work.org",
+    "phone": "528-741-5944",
+    "ssn": "413-94-9575",
+    "dob": "4/3/1960",
+    "address": "7404 West Ln",
+    "city": "Washington",
+    "state": "AZ"
+  }
+}

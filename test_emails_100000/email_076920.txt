@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Hernandez",
+    "email": "rachel.hernandez2037@gmail.com",
+    "phone": "+1 357-348-1893",
+    "ssn": "421 06 2047",
+    "dob": "12-16-1973",
+    "address": "3667 Maple Ave",
+    "city": "San Antonio",
+    "state": "FL"
+  }
+}

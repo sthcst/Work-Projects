@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Ortiz,ryan.ortiz2893@outlook.com,577 204 8409,582-74-1442,02/25/1951,"4269 Second Court",San Diego,WI

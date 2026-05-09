@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Lewis,christopher.lewis8213@outlook.com,250-645-3526,552-49-6673,02/22/1952,"7499 Park Blvd",Los Angeles,IL

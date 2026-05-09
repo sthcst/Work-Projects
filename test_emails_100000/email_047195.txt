@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Anderson
+  email: lauren.anderson1141@mail.com
+  phone: (216) 253-9358
+  ssn: 248 64 5914
+  dob: 09/02/1967
+  address: 412 Third Blvd
+  city: San Antonio
+  state: FL

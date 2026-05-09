@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Stewart,joshua.stewart698@outlook.com,849-296-9060,500-44-9600,08/03/1979,"2258 Cedar Ln",Dallas,TX

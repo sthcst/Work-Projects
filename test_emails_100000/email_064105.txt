@@ -1,0 +1,14 @@
+INVOICE 655982
+
+Bill To:
+Name: Anthony Stewart
+Email: anthony.stewart3057@example.com
+Phone: +1 689-434-6299
+SSN: 229 92 2529
+
+Address: 2278 Maple Ln
+San Diego, MA
+
+Date of Birth: 10/26/1997
+
+Amount Due: $1708

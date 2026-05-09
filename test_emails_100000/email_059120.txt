@@ -1,0 +1,12 @@
+SUPPORT TICKET #20348
+
+Customer: Michael Taylor
+Email: michael.taylor1483@example.com
+Phone: (423) 600-1625
+Account: 145-62-6266
+
+Issue Description: Technical problem reported
+DOB on file: 08/10/1959
+Address: 5390 Third Dr, San Antonio, CO
+
+Status: OPEN

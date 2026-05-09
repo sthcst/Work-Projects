@@ -1,0 +1,14 @@
+INVOICE 645869
+
+Bill To:
+Name: Emily Thompson
+Email: emily.thompson199@yahoo.com
+Phone: 860-853-4122
+SSN: 942-50-3589
+
+Address: 7657 Fifth Dr
+Los Angeles, MO
+
+Date of Birth: 12/24/1953
+
+Amount Due: $3028

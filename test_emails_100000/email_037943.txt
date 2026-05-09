@@ -1,0 +1,14 @@
+INVOICE 385622
+
+Bill To:
+Name: Andrew Hernandez
+Email: andrew.hernandez410@example.com
+Phone: +1 908-247-3217
+SSN: 660961802
+
+Address: 7054 Park Blvd
+Chicago, NC
+
+Date of Birth: 04/25/1999
+
+Amount Due: $9291

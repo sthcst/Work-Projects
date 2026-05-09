@@ -1,0 +1,9 @@
+contact:
+  name: George Serrano
+  email: george.serrano8216@yahoo.com
+  phone: +1 726-955-7519
+  ssn: 443 72 3136
+  dob: 04-04-1956
+  address: 156 Oak Blvd
+  city: Denver
+  state: AZ

@@ -1,0 +1,14 @@
+INVOICE 341444
+
+Bill To:
+Name: Christine Delgado
+Email: christine.delgado2458@example.com
+Phone: 932 242 4959
+SSN: 052 24 7610
+
+Address: 8839 Maple Ave
+Philadelphia, GA
+
+Date of Birth: 9/17/1951
+
+Amount Due: $9806

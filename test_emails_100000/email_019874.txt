@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Collins,charles.collins162@yahoo.com,286-299-9835,761-70-8430,07-27-1995,"9671 Cedar Blvd",Austin,MD

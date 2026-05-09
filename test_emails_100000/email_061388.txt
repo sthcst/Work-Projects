@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Campbell",
+    "email": "katherine.campbell3300@business.net",
+    "phone": "615 692 6138",
+    "ssn": "328 24 7618",
+    "dob": "05-11-1966",
+    "address": "3541 Birch Way",
+    "city": "Chicago",
+    "state": "VA"
+  }
+}

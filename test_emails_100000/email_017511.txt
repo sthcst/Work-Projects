@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Williams",
+    "email": "katherine.williams4253@gmail.com",
+    "phone": "+1 340-389-8227",
+    "ssn": "652-87-9796",
+    "dob": "10/06/1980",
+    "address": "6557 Summer Blvd",
+    "city": "Philadelphia",
+    "state": "NC"
+  }
+}

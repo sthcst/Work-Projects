@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Wilson",
+    "email": "emily.wilson4691@company.com",
+    "phone": "302 516 8045",
+    "ssn": "468088718",
+    "dob": "5/12/2000",
+    "address": "7446 First Ln",
+    "city": "Austin",
+    "state": "NY"
+  }
+}

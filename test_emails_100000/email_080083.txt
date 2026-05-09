@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Martin",
+    "email": "pamela.martin1867@outlook.com",
+    "phone": "494 210 9461",
+    "ssn": "125-63-1256",
+    "dob": "06-27-1963",
+    "address": "8786 North St",
+    "city": "San Diego",
+    "state": "WA"
+  }
+}

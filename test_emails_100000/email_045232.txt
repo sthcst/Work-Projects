@@ -1,0 +1,14 @@
+INVOICE 993617
+
+Bill To:
+Name: Emma Romero
+Email: emma.romero9730@company.com
+Phone: +1 561-469-2735
+SSN: 557-34-5623
+
+Address: 4918 Third Ave
+Chicago, MA
+
+Date of Birth: 07/10/1955
+
+Amount Due: $9657

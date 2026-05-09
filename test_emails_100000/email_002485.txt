@@ -1,0 +1,14 @@
+INVOICE 888511
+
+Bill To:
+Name: Michael Morris
+Email: michael.morris6491@outlook.com
+Phone: +1 458-579-1442
+SSN: 947477662
+
+Address: 6274 Elm Way
+Houston, TX
+
+Date of Birth: 6/22/1983
+
+Amount Due: $1256

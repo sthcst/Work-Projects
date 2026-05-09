@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Bell",
+    "email": "john.bell9218@example.com",
+    "phone": "818 551 3643",
+    "ssn": "226-87-4649",
+    "dob": "11/8/1968",
+    "address": "3523 North Way",
+    "city": "Seattle",
+    "state": "NC"
+  }
+}

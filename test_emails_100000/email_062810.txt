@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Peterson,helen.peterson3405@company.com,717 882 5291,768 62 4933,01/07/1963,"6544 Fifth Rd",New York,MA

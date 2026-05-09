@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily White",
+    "email": "emily.white9761@business.net",
+    "phone": "(751) 564-8932",
+    "ssn": "013565682",
+    "dob": "18/02/1957",
+    "address": "4663 West Ln",
+    "city": "Phoenix",
+    "state": "NJ"
+  }
+}

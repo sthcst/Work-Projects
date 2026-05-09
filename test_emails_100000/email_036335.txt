@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Romero",
+    "email": "steven.romero607@mail.com",
+    "phone": "897-373-1692",
+    "ssn": "282-30-4851",
+    "dob": "02-22-1962",
+    "address": "3167 Birch Ln",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Smith,cynthia.smith6305@work.org,+1 559-379-1765,377-31-5633,11/06/1988,"850 Oak Ln",Los Angeles,PA

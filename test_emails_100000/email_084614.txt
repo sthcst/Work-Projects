@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Sanchez,kimberly.sanchez2679@example.com,741 483 2797,234-21-6822,10/19/1993,"5160 First Way",Washington,NY

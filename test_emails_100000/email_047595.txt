@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Cooper,william.cooper4642@yahoo.com,+1 397-470-1806,958-30-5838,25/04/1981,"9245 Summer St",San Antonio,NC

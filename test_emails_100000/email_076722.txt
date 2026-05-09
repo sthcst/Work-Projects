@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Lee,emma.lee3414@gmail.com,225 998 9202,860 87 3119,10/08/1999,"1888 North Ln",Denver,NC

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Martinez",
+    "email": "ashley.martinez9759@business.net",
+    "phone": "(234) 949-6579",
+    "ssn": "877-96-7314",
+    "dob": "04-17-1963",
+    "address": "9871 Summer Dr",
+    "city": "Los Angeles",
+    "state": "AZ"
+  }
+}

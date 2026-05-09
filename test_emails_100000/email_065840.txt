@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Walker",
+    "email": "donald.walker2792@gmail.com",
+    "phone": "611 303 3477",
+    "ssn": "800535307",
+    "dob": "12/20/1977",
+    "address": "5470 West Dr",
+    "city": "Jacksonville",
+    "state": "NY"
+  }
+}

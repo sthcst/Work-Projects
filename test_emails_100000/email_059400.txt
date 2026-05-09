@@ -1,0 +1,14 @@
+INVOICE 228459
+
+Bill To:
+Name: Kevin Guerrero
+Email: kevin.guerrero8101@mail.com
+Phone: (425) 674-5810
+SSN: 487019487
+
+Address: 638 Fourth Dr
+Houston, WA
+
+Date of Birth: 1/11/1964
+
+Amount Due: $8513

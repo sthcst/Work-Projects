@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Ramirez",
+    "email": "emma.ramirez9462@company.com",
+    "phone": "931 882 8549",
+    "ssn": "235207527",
+    "dob": "10/27/1976",
+    "address": "4849 Maple St",
+    "city": "Phoenix",
+    "state": "DC"
+  }
+}

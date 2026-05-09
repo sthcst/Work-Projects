@@ -1,0 +1,14 @@
+INVOICE 964824
+
+Bill To:
+Name: Cynthia Morgan
+Email: cynthia.morgan2491@example.com
+Phone: 619-332-2606
+SSN: 383866156
+
+Address: 2287 Cedar Rd
+Houston, IL
+
+Date of Birth: 26/07/1979
+
+Amount Due: $373

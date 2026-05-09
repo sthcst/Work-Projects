@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Flores
+  email: jeffrey.flores6666@example.com
+  phone: (311) 554-7681
+  ssn: 711 10 2663
+  dob: 9/13/1990
+  address: 7146 Birch Dr
+  city: New York
+  state: TX

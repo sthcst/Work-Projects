@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Alvarado
+  email: katherine.alvarado7682@example.com
+  phone: (694) 798-6278
+  ssn: 629 47 5519
+  dob: 4/20/1956
+  address: 9638 First Blvd
+  city: Phoenix
+  state: OH

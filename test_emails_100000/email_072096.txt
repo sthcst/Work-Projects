@@ -1,0 +1,9 @@
+contact:
+  name: Emma Hall
+  email: emma.hall6386@company.com
+  phone: 465 247 4974
+  ssn: 333-08-6729
+  dob: 02-20-2004
+  address: 53 Third Dr
+  city: Boston
+  state: CO

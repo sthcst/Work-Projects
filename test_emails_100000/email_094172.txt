@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Rodriguez",
+    "email": "ashley.rodriguez9155@gmail.com",
+    "phone": "+1 373-785-4517",
+    "ssn": "765-34-2317",
+    "dob": "05-21-1981",
+    "address": "4624 Elm Ave",
+    "city": "Los Angeles",
+    "state": "DC"
+  }
+}

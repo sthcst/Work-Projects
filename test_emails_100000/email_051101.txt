@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Brown",
+    "email": "steven.brown9514@yahoo.com",
+    "phone": "963-683-8396",
+    "ssn": "449 49 9191",
+    "dob": "20/09/1959",
+    "address": "303 Birch Way",
+    "city": "Los Angeles",
+    "state": "OH"
+  }
+}

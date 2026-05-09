@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Bell,donald.bell511@business.net,969 533 9725,058991244,01/11/1976,"258 Maple Court",Austin,IL

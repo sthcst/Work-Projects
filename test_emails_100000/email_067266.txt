@@ -1,0 +1,9 @@
+contact:
+  name: Emma Smith
+  email: emma.smith1167@yahoo.com
+  phone: 272-856-3720
+  ssn: 630574431
+  dob: 5/11/1992
+  address: 8400 Cedar Ln
+  city: Houston
+  state: GA

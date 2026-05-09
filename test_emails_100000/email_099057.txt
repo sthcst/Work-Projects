@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Miller,angela.miller3917@company.com,+1 528-425-8732,606-61-5752,05/03/1961,"392 Maple Dr",Philadelphia,WA

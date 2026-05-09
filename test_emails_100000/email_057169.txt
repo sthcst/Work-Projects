@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Young",
+    "email": "anna.young175@business.net",
+    "phone": "206 382 7613",
+    "ssn": "736046340",
+    "dob": "11/12/1999",
+    "address": "3151 Maple Rd",
+    "city": "Boston",
+    "state": "DC"
+  }
+}

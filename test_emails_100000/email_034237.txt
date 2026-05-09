@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Reeves",
+    "email": "gary.reeves755@outlook.com",
+    "phone": "(304) 504-6566",
+    "ssn": "766 55 7544",
+    "dob": "12/26/1977",
+    "address": "1405 Park Court",
+    "city": "Denver",
+    "state": "AZ"
+  }
+}

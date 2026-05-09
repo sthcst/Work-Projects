@@ -1,0 +1,9 @@
+contact:
+  name: Angela Robinson
+  email: angela.robinson6980@gmail.com
+  phone: (908) 639-3441
+  ssn: 070 34 8809
+  dob: 12/6/2001
+  address: 8855 First Way
+  city: Dallas
+  state: VA

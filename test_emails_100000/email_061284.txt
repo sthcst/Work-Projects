@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Wilson,shirley.wilson756@gmail.com,(384) 878-7846,699 59 9304,22/06/1951,"5845 First Rd",New York,CA

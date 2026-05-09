@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Reyes,kevin.reyes858@example.com,(404) 293-3922,713 24 4916,15/05/1999,"7557 Sixth Blvd",Dallas,MA

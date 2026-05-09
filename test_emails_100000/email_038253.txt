@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Taylor
+  email: kevin.taylor1146@example.com
+  phone: 780-832-3537
+  ssn: 396971083
+  dob: 01/08/1954
+  address: 9220 Second Ln
+  city: Phoenix
+  state: FL

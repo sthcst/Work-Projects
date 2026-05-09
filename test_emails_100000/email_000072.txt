@@ -1,0 +1,14 @@
+INVOICE 176517
+
+Bill To:
+Name: Stephanie Perez
+Email: stephanie.perez9915@mail.com
+Phone: 229-283-1744
+SSN: 972835336
+
+Address: 506 Second Dr
+San Jose, DC
+
+Date of Birth: 25/04/1986
+
+Amount Due: $1081

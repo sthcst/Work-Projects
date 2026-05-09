@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Reed,charles.reed6768@example.com,978-331-7994,559038128,9/7/1995,"8003 Third Dr",Chicago,FL

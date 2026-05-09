@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Gomez,jeffrey.gomez3967@company.com,(904) 788-6030,544829016,1/12/1991,"2897 Spring Dr",Washington,TX

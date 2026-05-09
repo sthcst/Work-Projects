@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Hernandez
+  email: nicole.hernandez5399@gmail.com
+  phone: 693-572-9055
+  ssn: 060 67 6982
+  dob: 10/15/1966
+  address: 9224 Third St
+  city: Jacksonville
+  state: WI

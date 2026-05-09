@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Jimenez",
+    "email": "helen.jimenez6901@gmail.com",
+    "phone": "951 781 3350",
+    "ssn": "865 73 1995",
+    "dob": "6/3/1993",
+    "address": "6541 Sixth Ave",
+    "city": "Los Angeles",
+    "state": "IL"
+  }
+}

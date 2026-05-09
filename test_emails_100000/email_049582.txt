@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Phillips",
+    "email": "paul.phillips7600@outlook.com",
+    "phone": "420 768 1517",
+    "ssn": "265-78-5155",
+    "dob": "07-20-2005",
+    "address": "9489 Birch Dr",
+    "city": "Philadelphia",
+    "state": "CA"
+  }
+}

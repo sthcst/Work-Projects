@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Guerrero
+  email: ryan.guerrero3030@business.net
+  phone: 828-604-8806
+  ssn: 915 26 6730
+  dob: 17/11/1951
+  address: 2454 Oak Way
+  city: Denver
+  state: NC

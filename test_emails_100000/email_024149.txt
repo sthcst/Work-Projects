@@ -1,0 +1,9 @@
+contact:
+  name: Edward Nunez
+  email: edward.nunez8801@mail.com
+  phone: (609) 980-1207
+  ssn: 120-49-1689
+  dob: 26/01/1977
+  address: 5092 Maple St
+  city: Denver
+  state: IL

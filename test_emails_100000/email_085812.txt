@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Ramirez,kathleen.ramirez7938@yahoo.com,(581) 261-8984,749-05-4350,05/07/1959,"2596 Main Way",New York,PA

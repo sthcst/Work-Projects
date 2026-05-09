@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Davis,deborah.davis2164@gmail.com,(383) 787-2182,435-57-2589,12/22/1965,"8198 Oak Dr",Seattle,TX

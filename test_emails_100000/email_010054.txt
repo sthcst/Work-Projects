@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Bell",
+    "email": "kathleen.bell6750@business.net",
+    "phone": "571-823-8108",
+    "ssn": "074944792",
+    "dob": "03/21/1989",
+    "address": "7713 First Ln",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}

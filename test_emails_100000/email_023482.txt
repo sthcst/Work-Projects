@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Lee",
+    "email": "rachel.lee8020@company.com",
+    "phone": "+1 536-235-9123",
+    "ssn": "569419973",
+    "dob": "22/09/1972",
+    "address": "4359 Maple St",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

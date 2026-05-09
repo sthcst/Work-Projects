@@ -1,0 +1,9 @@
+contact:
+  name: William Roberts
+  email: william.roberts6352@work.org
+  phone: 293-884-9019
+  ssn: 075-13-6695
+  dob: 5/12/1978
+  address: 453 Oak Ln
+  city: New York
+  state: OH

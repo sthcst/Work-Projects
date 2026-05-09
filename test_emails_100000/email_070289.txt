@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Johnson",
+    "email": "richard.johnson6388@yahoo.com",
+    "phone": "+1 250-620-6297",
+    "ssn": "962-47-3288",
+    "dob": "10-11-1961",
+    "address": "998 Oak Court",
+    "city": "Boston",
+    "state": "FL"
+  }
+}

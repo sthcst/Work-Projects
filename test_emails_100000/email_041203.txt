@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Harris",
+    "email": "ashley.harris1528@outlook.com",
+    "phone": "(442) 582-1239",
+    "ssn": "703-10-8508",
+    "dob": "4/8/1992",
+    "address": "7040 Birch St",
+    "city": "Jacksonville",
+    "state": "FL"
+  }
+}

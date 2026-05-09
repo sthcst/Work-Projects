@@ -1,0 +1,9 @@
+contact:
+  name: Angela Morris
+  email: angela.morris8638@business.net
+  phone: 383-671-3012
+  ssn: 345-02-7469
+  dob: 27/05/1985
+  address: 3118 Maple Way
+  city: Jacksonville
+  state: DC

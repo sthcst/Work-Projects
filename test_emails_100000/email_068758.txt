@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Jackson,katherine.jackson2624@gmail.com,+1 462-840-7820,293-48-7343,04/27/1968,"7926 Cedar St",Los Angeles,CA

@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Anderson
+  email: rachel.anderson2993@business.net
+  phone: (808) 800-6538
+  ssn: 087 12 3536
+  dob: 10-05-1971
+  address: 5710 Fifth Blvd
+  city: Denver
+  state: DC

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Martinez,edward.martinez4840@outlook.com,(349) 928-9859,822 37 8200,6/12/1987,"7517 Third Dr",Phoenix,IL

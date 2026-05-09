@@ -1,0 +1,14 @@
+INVOICE 870006
+
+Bill To:
+Name: Joseph Jimenez
+Email: joseph.jimenez3728@mail.com
+Phone: 951-564-1650
+SSN: 575517434
+
+Address: 5961 Birch Ave
+Houston, DC
+
+Date of Birth: 3/12/1978
+
+Amount Due: $6923

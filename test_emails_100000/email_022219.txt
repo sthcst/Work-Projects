@@ -1,0 +1,9 @@
+contact:
+  name: Richard Delgado
+  email: richard.delgado1571@mail.com
+  phone: +1 899-209-9738
+  ssn: 415-77-7803
+  dob: 10/14/1970
+  address: 2988 North Dr
+  city: Philadelphia
+  state: CO

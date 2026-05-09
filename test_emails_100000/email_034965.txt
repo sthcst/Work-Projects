@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Garcia,ronald.garcia4946@work.org,656 690 7164,527982981,28/10/1950,"3653 Oak Rd",Chicago,NC

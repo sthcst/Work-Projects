@@ -1,0 +1,14 @@
+INVOICE 528318
+
+Bill To:
+Name: James Lewis
+Email: james.lewis8041@outlook.com
+Phone: 958 489 2898
+SSN: 364-21-7887
+
+Address: 4006 First Dr
+Seattle, MA
+
+Date of Birth: 08/06/1987
+
+Amount Due: $7047

@@ -1,0 +1,9 @@
+contact:
+  name: Christine Taylor
+  email: christine.taylor787@work.org
+  phone: (425) 819-2927
+  ssn: 472-63-7349
+  dob: 5/6/1960
+  address: 2338 Fifth Blvd
+  city: San Jose
+  state: NJ

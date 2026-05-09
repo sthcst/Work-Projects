@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Taylor
+  email: nicholas.taylor8386@mail.com
+  phone: +1 556-446-4875
+  ssn: 122504250
+  dob: 05/02/1965
+  address: 3396 East Dr
+  city: Seattle
+  state: WA

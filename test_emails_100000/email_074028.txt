@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Bell,megan.bell2682@work.org,356-735-1752,983-88-4694,18/02/1997,"9602 Pine Dr",New York,TX

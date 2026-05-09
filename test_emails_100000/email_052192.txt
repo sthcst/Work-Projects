@@ -1,0 +1,9 @@
+contact:
+  name: James Dominguez
+  email: james.dominguez8832@work.org
+  phone: +1 876-302-3911
+  ssn: 525 65 5360
+  dob: 01/04/1993
+  address: 9618 Fifth Ln
+  city: Jacksonville
+  state: NC

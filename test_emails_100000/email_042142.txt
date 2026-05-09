@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Moore,christopher.moore1968@yahoo.com,(433) 235-3545,263582801,08/06/2000,"997 Cedar Ave",New York,TX

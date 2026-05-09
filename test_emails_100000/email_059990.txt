@@ -1,0 +1,14 @@
+INVOICE 118269
+
+Bill To:
+Name: Gary Lopez
+Email: gary.lopez5414@mail.com
+Phone: 356-767-1479
+SSN: 342-69-1275
+
+Address: 9212 Fifth Ave
+Dallas, WA
+
+Date of Birth: 06-02-1993
+
+Amount Due: $2326

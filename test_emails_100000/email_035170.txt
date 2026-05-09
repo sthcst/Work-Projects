@@ -1,0 +1,14 @@
+INVOICE 675425
+
+Bill To:
+Name: Brian Harris
+Email: brian.harris8306@company.com
+Phone: (738) 378-3069
+SSN: 142-23-5943
+
+Address: 1683 Cedar Ln
+San Diego, NJ
+
+Date of Birth: 07/01/1960
+
+Amount Due: $7666

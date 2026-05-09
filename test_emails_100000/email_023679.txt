@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Jones,robert.jones3640@example.com,+1 950-933-8485,709 99 3786,05-24-1996,"4244 Elm Ave",Jacksonville,PA

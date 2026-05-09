@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Robinson",
+    "email": "ronald.robinson456@work.org",
+    "phone": "301 537 7609",
+    "ssn": "735 08 5754",
+    "dob": "06/09/1988",
+    "address": "4476 First Ln",
+    "city": "Seattle",
+    "state": "NJ"
+  }
+}

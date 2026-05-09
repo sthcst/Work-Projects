@@ -1,0 +1,14 @@
+INVOICE 549356
+
+Bill To:
+Name: Sarah Young
+Email: sarah.young6971@mail.com
+Phone: (892) 462-9150
+SSN: 102859821
+
+Address: 1375 Summer Court
+Philadelphia, PA
+
+Date of Birth: 4/24/1992
+
+Amount Due: $6149

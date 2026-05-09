@@ -1,0 +1,9 @@
+contact:
+  name: Richard Clark
+  email: richard.clark7815@example.com
+  phone: (974) 579-5289
+  ssn: 066-65-6388
+  dob: 11/17/1972
+  address: 1126 Main Way
+  city: Denver
+  state: TX

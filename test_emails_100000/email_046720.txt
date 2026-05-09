@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Martinez,edward.martinez4185@example.com,+1 496-736-6653,570665698,10/1/1954,"4688 Spring Dr",Austin,MI

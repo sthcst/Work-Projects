@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Brown",
+    "email": "paul.brown2742@mail.com",
+    "phone": "(946) 445-4635",
+    "ssn": "147 41 9276",
+    "dob": "06/09/2004",
+    "address": "3724 North Blvd",
+    "city": "Seattle",
+    "state": "WI"
+  }
+}

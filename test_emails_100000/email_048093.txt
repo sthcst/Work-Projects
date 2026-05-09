@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Phillips",
+    "email": "stephanie.phillips915@company.com",
+    "phone": "415 380 1189",
+    "ssn": "463 08 3967",
+    "dob": "04/24/1999",
+    "address": "1250 Oak Blvd",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

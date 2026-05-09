@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Serrano",
+    "email": "lisa.serrano8214@work.org",
+    "phone": "844-528-3730",
+    "ssn": "402817097",
+    "dob": "07-27-1996",
+    "address": "5125 Third Rd",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

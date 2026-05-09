@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Phillips
+  email: ryan.phillips5677@work.org
+  phone: 347-736-3383
+  ssn: 573-42-9864
+  dob: 2/25/1974
+  address: 9094 Park Rd
+  city: Boston
+  state: MD

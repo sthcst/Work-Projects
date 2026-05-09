@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Jackson
+  email: ryan.jackson1365@company.com
+  phone: +1 608-206-3738
+  ssn: 190721976
+  dob: 11-24-1976
+  address: 1235 Maple Dr
+  city: Jacksonville
+  state: MO

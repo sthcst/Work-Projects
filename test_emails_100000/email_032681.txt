@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Romero",
+    "email": "emily.romero8751@work.org",
+    "phone": "(972) 620-1064",
+    "ssn": "064 37 3939",
+    "dob": "09-26-1960",
+    "address": "525 South Court",
+    "city": "Boston",
+    "state": "OH"
+  }
+}

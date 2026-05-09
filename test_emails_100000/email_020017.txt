@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Phillips
+  email: jennifer.phillips515@outlook.com
+  phone: (464) 456-2350
+  ssn: 362 32 8326
+  dob: 08-26-1971
+  address: 8068 Summer Rd
+  city: Phoenix
+  state: TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Miller",
+    "email": "nicole.miller2276@example.com",
+    "phone": "259-487-5692",
+    "ssn": "893293968",
+    "dob": "6/16/1980",
+    "address": "9193 Pine Way",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

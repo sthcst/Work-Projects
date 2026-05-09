@@ -1,0 +1,9 @@
+contact:
+  name: Christine Taylor
+  email: christine.taylor2326@example.com
+  phone: (394) 582-9774
+  ssn: 633 61 5200
+  dob: 11-24-1971
+  address: 4728 Sixth St
+  city: Phoenix
+  state: IL

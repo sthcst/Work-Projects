@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Brown
+  email: stephanie.brown3601@work.org
+  phone: (758) 974-4094
+  ssn: 318 79 5543
+  dob: 10/10/1967
+  address: 2950 Cedar Blvd
+  city: San Jose
+  state: CA

@@ -1,0 +1,14 @@
+INVOICE 489575
+
+Bill To:
+Name: Kevin Alvarado
+Email: kevin.alvarado408@example.com
+Phone: +1 774-465-9840
+SSN: 180-01-4976
+
+Address: 8368 South Court
+Boston, IL
+
+Date of Birth: 1/9/1982
+
+Amount Due: $3190

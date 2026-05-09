@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Campbell",
+    "email": "jeffrey.campbell684@business.net",
+    "phone": "(755) 645-1721",
+    "ssn": "869494119",
+    "dob": "09-22-1985",
+    "address": "6986 West Court",
+    "city": "Austin",
+    "state": "NC"
+  }
+}

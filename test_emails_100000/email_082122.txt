@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Davis,katherine.davis6271@work.org,263-437-9976,907 07 3724,6/21/1967,"9309 Maple Way",Chicago,CA

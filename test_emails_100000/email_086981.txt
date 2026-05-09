@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Lee,edward.lee7525@example.com,(692) 463-5714,730761114,05/05/1997,"4270 East Ave",Dallas,AZ

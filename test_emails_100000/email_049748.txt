@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Campbell,charles.campbell7136@mail.com,547-777-8379,732-46-1973,05/11/1951,"5665 Pine Ave",San Antonio,MD

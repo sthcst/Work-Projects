@@ -1,0 +1,14 @@
+INVOICE 597666
+
+Bill To:
+Name: David Jimenez
+Email: david.jimenez6153@yahoo.com
+Phone: +1 246-528-4438
+SSN: 333 19 8249
+
+Address: 5208 Third Ave
+New York, VA
+
+Date of Birth: 05/12/1967
+
+Amount Due: $1263

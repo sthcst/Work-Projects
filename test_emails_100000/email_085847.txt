@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Robinson
+  email: ashley.robinson9708@yahoo.com
+  phone: (688) 483-4793
+  ssn: 952-26-5610
+  dob: 4/11/1960
+  address: 6866 North Way
+  city: Chicago
+  state: WA

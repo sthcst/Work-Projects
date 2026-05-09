@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Roberts,timothy.roberts7890@yahoo.com,669-647-2888,302 70 4241,02-24-1988,"475 Fourth Way",Denver,TX

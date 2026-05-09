@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Johnson
+  email: ronald.johnson3582@company.com
+  phone: 246-332-3527
+  ssn: 314-60-6555
+  dob: 06/15/2000
+  address: 8732 Main St
+  city: Phoenix
+  state: NY

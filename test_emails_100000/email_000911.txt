@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Garcia
+  email: ryan.garcia2202@business.net
+  phone: +1 200-468-6614
+  ssn: 848 07 6919
+  dob: 06/04/1954
+  address: 4680 Oak St
+  city: San Diego
+  state: OH

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Morris",
+    "email": "andrew.morris3696@work.org",
+    "phone": "495-562-2269",
+    "ssn": "369 05 3880",
+    "dob": "07/09/1964",
+    "address": "4541 South St",
+    "city": "New York",
+    "state": "NJ"
+  }
+}

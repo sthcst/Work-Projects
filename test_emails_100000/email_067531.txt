@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Johnson",
+    "email": "cynthia.johnson8461@business.net",
+    "phone": "(742) 676-7555",
+    "ssn": "484477377",
+    "dob": "11/14/1951",
+    "address": "4650 First Rd",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

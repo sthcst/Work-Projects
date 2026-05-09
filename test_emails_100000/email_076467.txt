@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Martin",
+    "email": "richard.martin1656@business.net",
+    "phone": "476 345 2628",
+    "ssn": "209116521",
+    "dob": "18/09/1976",
+    "address": "2124 Fifth Ln",
+    "city": "New York",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Nunez",
+    "email": "david.nunez5639@work.org",
+    "phone": "+1 755-201-9090",
+    "ssn": "169-06-2810",
+    "dob": "7/20/1966",
+    "address": "2281 North Dr",
+    "city": "San Diego",
+    "state": "MI"
+  }
+}

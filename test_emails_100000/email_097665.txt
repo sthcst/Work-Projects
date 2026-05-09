@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Clark,jessica.clark5352@outlook.com,+1 661-814-6161,674-52-6819,10-02-1997,"4651 Sixth Blvd",Los Angeles,GA

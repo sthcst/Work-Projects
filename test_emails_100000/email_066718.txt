@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Murillo
+  email: daniel.murillo3004@business.net
+  phone: +1 894-686-9374
+  ssn: 586-87-4935
+  dob: 04/21/1994
+  address: 6916 Fourth Rd
+  city: Dallas
+  state: NC

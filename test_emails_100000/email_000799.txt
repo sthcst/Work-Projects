@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Davis,charles.davis2840@yahoo.com,+1 979-244-8846,335 39 9496,10/04/1990,"6080 North Court",Phoenix,MO

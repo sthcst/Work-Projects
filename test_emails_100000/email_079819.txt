@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha White",
+    "email": "samantha.white3820@business.net",
+    "phone": "842 640 3311",
+    "ssn": "161299428",
+    "dob": "02/24/1992",
+    "address": "1238 Second Rd",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

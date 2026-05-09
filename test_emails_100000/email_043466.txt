@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Perez
+  email: kimberly.perez9727@company.com
+  phone: +1 670-602-5285
+  ssn: 756-95-8053
+  dob: 15/04/1987
+  address: 4596 Pine Court
+  city: Boston
+  state: TX

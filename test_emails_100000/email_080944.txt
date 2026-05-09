@@ -1,0 +1,12 @@
+SUPPORT TICKET #38273
+
+Customer: Brian Nunez
+Email: brian.nunez1952@example.com
+Phone: 624 376 4177
+Account: 732817205
+
+Issue Description: Technical problem reported
+DOB on file: 14/02/1974
+Address: 5980 Birch Rd, San Jose, WA
+
+Status: OPEN

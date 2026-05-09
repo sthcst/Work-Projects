@@ -1,0 +1,9 @@
+contact:
+  name: Anna Jimenez
+  email: anna.jimenez1738@outlook.com
+  phone: (325) 219-4055
+  ssn: 328-28-8155
+  dob: 01-03-1960
+  address: 254 Spring Ln
+  city: New York
+  state: MA

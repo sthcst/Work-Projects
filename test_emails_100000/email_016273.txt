@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Reed
+  email: brenda.reed5980@outlook.com
+  phone: +1 473-693-8482
+  ssn: 145-46-3929
+  dob: 07/02/1978
+  address: 3695 Birch Ln
+  city: Austin
+  state: NC

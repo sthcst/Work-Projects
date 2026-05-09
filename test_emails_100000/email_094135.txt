@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Gonzalez,paul.gonzalez6197@example.com,283-832-5987,439-16-2000,23/04/2000,"71 Main Court",Houston,MA

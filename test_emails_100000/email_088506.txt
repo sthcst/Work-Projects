@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Robinson,sarah.robinson833@yahoo.com,+1 816-241-1504,566 55 4474,06/19/1964,"7573 Cedar Ln",San Jose,WI

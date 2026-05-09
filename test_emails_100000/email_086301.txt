@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Stewart
+  email: stephanie.stewart9615@company.com
+  phone: (413) 447-4399
+  ssn: 157-15-9058
+  dob: 12/01/1964
+  address: 392 Summer Court
+  city: Boston
+  state: WI

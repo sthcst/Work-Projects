@@ -1,0 +1,14 @@
+INVOICE 258194
+
+Bill To:
+Name: Lauren Stewart
+Email: lauren.stewart9029@example.com
+Phone: (997) 395-9607
+SSN: 400 84 5117
+
+Address: 4241 Oak Ave
+New York, MD
+
+Date of Birth: 05-21-1965
+
+Amount Due: $2248

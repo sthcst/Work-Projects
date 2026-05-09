@@ -1,0 +1,9 @@
+contact:
+  name: Angela Lewis
+  email: angela.lewis81@gmail.com
+  phone: 701-443-2149
+  ssn: 604 31 6091
+  dob: 19/03/1981
+  address: 8078 Elm Rd
+  city: San Jose
+  state: VA

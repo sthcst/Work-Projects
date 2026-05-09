@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela White",
+    "email": "angela.white1963@business.net",
+    "phone": "538-408-3192",
+    "ssn": "287 01 4228",
+    "dob": "08/10/1993",
+    "address": "8745 First St",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

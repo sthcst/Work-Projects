@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Gomez,kevin.gomez1799@gmail.com,(746) 523-8069,404 23 3091,11/25/1969,"5382 Spring Way",Seattle,AZ

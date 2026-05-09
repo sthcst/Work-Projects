@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Alvarado,brenda.alvarado6386@business.net,383 702 4770,373-27-4189,11-11-2002,"5407 Pine Dr",San Antonio,NJ

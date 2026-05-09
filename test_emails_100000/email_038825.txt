@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Thompson",
+    "email": "christine.thompson4044@outlook.com",
+    "phone": "(381) 531-4076",
+    "ssn": "902-31-7320",
+    "dob": "9/4/1979",
+    "address": "8047 Fourth St",
+    "city": "Phoenix",
+    "state": "PA"
+  }
+}

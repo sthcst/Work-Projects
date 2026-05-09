@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Stewart",
+    "email": "cynthia.stewart6918@work.org",
+    "phone": "(790) 513-2501",
+    "ssn": "364 73 6484",
+    "dob": "01-14-2003",
+    "address": "6321 First Blvd",
+    "city": "Washington",
+    "state": "WI"
+  }
+}

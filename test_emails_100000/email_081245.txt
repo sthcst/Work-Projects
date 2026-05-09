@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Romero",
+    "email": "anna.romero2501@example.com",
+    "phone": "+1 347-761-6652",
+    "ssn": "023-44-7664",
+    "dob": "12-26-1990",
+    "address": "933 Pine Blvd",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

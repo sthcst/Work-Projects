@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Johnson",
+    "email": "andrew.johnson227@gmail.com",
+    "phone": "981 559 7508",
+    "ssn": "853784968",
+    "dob": "09/07/1980",
+    "address": "9268 Birch Dr",
+    "city": "Austin",
+    "state": "PA"
+  }
+}

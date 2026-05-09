@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Walker,shirley.walker5302@mail.com,621 887 1221,705-66-6758,7/23/1963,"6976 Sixth Ln",San Diego,TX

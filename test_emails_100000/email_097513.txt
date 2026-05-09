@@ -1,0 +1,14 @@
+INVOICE 985325
+
+Bill To:
+Name: Rachel Gomez
+Email: rachel.gomez4929@mail.com
+Phone: 340-673-5964
+SSN: 452275288
+
+Address: 2852 Fourth Court
+San Jose, TX
+
+Date of Birth: 01/10/1979
+
+Amount Due: $4365

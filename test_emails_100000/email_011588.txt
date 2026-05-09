@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Ortiz",
+    "email": "george.ortiz9320@outlook.com",
+    "phone": "(844) 811-8057",
+    "ssn": "644618372",
+    "dob": "5/9/1969",
+    "address": "5346 Summer Blvd",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

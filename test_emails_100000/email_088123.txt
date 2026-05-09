@@ -1,0 +1,9 @@
+contact:
+  name: Brian Brown
+  email: brian.brown4968@example.com
+  phone: 210-725-6681
+  ssn: 664 24 9115
+  dob: 07-25-1995
+  address: 1828 Birch Rd
+  city: Boston
+  state: PA

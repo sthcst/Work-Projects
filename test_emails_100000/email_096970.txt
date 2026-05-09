@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin White",
+    "email": "kevin.white9491@business.net",
+    "phone": "848-327-5843",
+    "ssn": "838-52-3103",
+    "dob": "17/07/1989",
+    "address": "2387 West Dr",
+    "city": "San Diego",
+    "state": "MI"
+  }
+}

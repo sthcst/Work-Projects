@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Jackson
+  email: nicole.jackson4316@gmail.com
+  phone: (890) 972-1265
+  ssn: 773414655
+  dob: 12-09-1972
+  address: 6344 Cedar Court
+  city: Dallas
+  state: TX

@@ -1,0 +1,14 @@
+INVOICE 322017
+
+Bill To:
+Name: Brian Evans
+Email: brian.evans8859@yahoo.com
+Phone: 273-432-8504
+SSN: 859-65-2757
+
+Address: 8515 Sixth Blvd
+Austin, OH
+
+Date of Birth: 03-10-1991
+
+Amount Due: $7243

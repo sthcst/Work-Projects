@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Walker,mark.walker9017@yahoo.com,784-943-2554,203 35 4241,6/22/1976,"6875 Park Way",Washington,FL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Walker",
+    "email": "andrew.walker3257@outlook.com",
+    "phone": "(701) 865-8252",
+    "ssn": "172019824",
+    "dob": "9/11/1963",
+    "address": "3746 Fourth Ave",
+    "city": "Los Angeles",
+    "state": "MA"
+  }
+}

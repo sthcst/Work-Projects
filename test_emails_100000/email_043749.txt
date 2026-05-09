@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Thomas,emma.thomas7855@business.net,+1 916-916-3837,799-58-1165,05/12/1963,"881 East Way",San Antonio,NC

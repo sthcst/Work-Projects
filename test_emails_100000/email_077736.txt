@@ -1,0 +1,9 @@
+contact:
+  name: Edward Garcia
+  email: edward.garcia3456@outlook.com
+  phone: 767 606 3849
+  ssn: 803576709
+  dob: 1/25/2004
+  address: 3525 Third Ln
+  city: Chicago
+  state: IL

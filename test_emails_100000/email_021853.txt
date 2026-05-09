@@ -1,0 +1,14 @@
+INVOICE 420693
+
+Bill To:
+Name: Ashley Alvarado
+Email: ashley.alvarado1519@company.com
+Phone: 428-761-2513
+SSN: 636-81-4289
+
+Address: 2499 Main Ave
+Denver, FL
+
+Date of Birth: 11/12/1968
+
+Amount Due: $7385

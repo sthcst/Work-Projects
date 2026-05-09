@@ -1,0 +1,14 @@
+INVOICE 459411
+
+Bill To:
+Name: Robert Ortiz
+Email: robert.ortiz8684@yahoo.com
+Phone: +1 815-799-2015
+SSN: 202397748
+
+Address: 6376 First St
+Washington, FL
+
+Date of Birth: 05/23/1992
+
+Amount Due: $1678

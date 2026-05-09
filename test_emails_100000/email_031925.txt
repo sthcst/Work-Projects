@@ -1,0 +1,9 @@
+contact:
+  name: Maria White
+  email: maria.white3662@company.com
+  phone: 204-877-8761
+  ssn: 531246161
+  dob: 05/28/1983
+  address: 2516 Elm Rd
+  city: San Antonio
+  state: TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Peterson",
+    "email": "angela.peterson5186@example.com",
+    "phone": "+1 553-247-1220",
+    "ssn": "422 35 9320",
+    "dob": "03-17-1987",
+    "address": "844 Fourth Way",
+    "city": "Houston",
+    "state": "PA"
+  }
+}

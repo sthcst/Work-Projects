@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Harris,angela.harris3412@work.org,480 816 4354,787935238,05/07/2000,"9605 Cedar Blvd",Phoenix,NJ

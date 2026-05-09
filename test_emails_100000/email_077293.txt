@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Serrano",
+    "email": "christopher.serrano71@mail.com",
+    "phone": "+1 248-807-1751",
+    "ssn": "533-42-9151",
+    "dob": "08-13-1987",
+    "address": "4310 Fourth Court",
+    "city": "San Diego",
+    "state": "VA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Young",
+    "email": "christopher.young28@mail.com",
+    "phone": "+1 405-872-2226",
+    "ssn": "590 58 3159",
+    "dob": "23/05/1973",
+    "address": "9413 Cedar Ave",
+    "city": "Seattle",
+    "state": "GA"
+  }
+}

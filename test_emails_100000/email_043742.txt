@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Guerrero,jeffrey.guerrero5585@example.com,+1 370-596-4212,476786957,15/09/1994,"1422 Oak Court",San Diego,TX

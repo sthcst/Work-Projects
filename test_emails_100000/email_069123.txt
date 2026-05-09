@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Serrano,katherine.serrano9706@work.org,225-369-1073,836201447,07/14/1964,"7974 Sixth Dr",Philadelphia,WI

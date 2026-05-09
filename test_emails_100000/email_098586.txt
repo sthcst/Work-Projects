@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Collins
+  email: daniel.collins2085@business.net
+  phone: (360) 682-3428
+  ssn: 497 21 3618
+  dob: 12/09/1971
+  address: 1070 Maple Ave
+  city: Washington
+  state: WA

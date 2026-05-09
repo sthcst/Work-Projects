@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Dominguez,shirley.dominguez3766@gmail.com,+1 774-376-8844,435-76-5648,6/11/1994,"9254 Birch Way",San Jose,OH

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Flores",
+    "email": "charles.flores3331@yahoo.com",
+    "phone": "705-652-3138",
+    "ssn": "436 52 1835",
+    "dob": "07/11/2005",
+    "address": "2274 Spring Ave",
+    "city": "Houston",
+    "state": "AZ"
+  }
+}

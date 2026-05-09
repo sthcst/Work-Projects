@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Serrano,charles.serrano5832@outlook.com,919 344 1170,294754211,5/24/1952,"6669 South Ln",Denver,FL

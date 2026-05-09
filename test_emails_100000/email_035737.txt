@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Thomas
+  email: pamela.thomas2113@outlook.com
+  phone: (740) 647-1533
+  ssn: 371 10 5757
+  dob: 10/12/1962
+  address: 7382 Fifth Blvd
+  city: Los Angeles
+  state: TX

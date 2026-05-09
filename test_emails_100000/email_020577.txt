@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Guerrero",
+    "email": "timothy.guerrero5683@yahoo.com",
+    "phone": "+1 411-789-7705",
+    "ssn": "118941772",
+    "dob": "7/25/1999",
+    "address": "3684 Spring Ln",
+    "city": "Chicago",
+    "state": "NC"
+  }
+}

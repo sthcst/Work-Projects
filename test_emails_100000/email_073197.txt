@@ -1,0 +1,9 @@
+contact:
+  name: Richard Lewis
+  email: richard.lewis6787@work.org
+  phone: 609-896-4839
+  ssn: 148 23 1024
+  dob: 07-23-1990
+  address: 6717 First Rd
+  city: Denver
+  state: FL

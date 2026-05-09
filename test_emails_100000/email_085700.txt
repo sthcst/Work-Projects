@@ -1,0 +1,14 @@
+INVOICE 303875
+
+Bill To:
+Name: Angela Bell
+Email: angela.bell45@example.com
+Phone: (508) 267-9538
+SSN: 149 88 5202
+
+Address: 5751 Pine Court
+Washington, MI
+
+Date of Birth: 09/11/1956
+
+Amount Due: $9879

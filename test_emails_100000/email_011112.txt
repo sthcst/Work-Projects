@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Nunez",
+    "email": "shirley.nunez6561@gmail.com",
+    "phone": "206 995 1093",
+    "ssn": "223396262",
+    "dob": "08/08/1964",
+    "address": "1852 Spring Dr",
+    "city": "Washington",
+    "state": "MD"
+  }
+}

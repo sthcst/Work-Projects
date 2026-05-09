@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Evans",
+    "email": "paul.evans1780@gmail.com",
+    "phone": "910 647 9997",
+    "ssn": "977 54 5964",
+    "dob": "3/28/1968",
+    "address": "2962 Maple Ave",
+    "city": "Seattle",
+    "state": "NY"
+  }
+}

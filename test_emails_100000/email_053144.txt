@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Murillo",
+    "email": "katherine.murillo7999@example.com",
+    "phone": "704-482-3337",
+    "ssn": "795 35 7857",
+    "dob": "15/03/2000",
+    "address": "3417 Sixth St",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

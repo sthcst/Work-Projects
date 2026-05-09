@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Rogers
+  email: lisa.rogers6761@business.net
+  phone: (347) 904-4915
+  ssn: 934 64 3419
+  dob: 12-09-1955
+  address: 9167 Pine St
+  city: Phoenix
+  state: MA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Ramirez,angela.ramirez1474@business.net,239-427-6646,348569899,27/04/1952,"2008 East Blvd",New York,MA

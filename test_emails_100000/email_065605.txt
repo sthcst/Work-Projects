@@ -1,0 +1,14 @@
+INVOICE 222569
+
+Bill To:
+Name: Samantha Martinez
+Email: samantha.martinez5293@business.net
+Phone: 610-438-4694
+SSN: 530 01 2085
+
+Address: 645 North Dr
+Dallas, FL
+
+Date of Birth: 8/3/2002
+
+Amount Due: $5537

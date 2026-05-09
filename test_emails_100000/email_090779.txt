@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Reeves",
+    "email": "stephanie.reeves6151@example.com",
+    "phone": "288 932 6891",
+    "ssn": "296342540",
+    "dob": "26/12/1981",
+    "address": "3636 Spring St",
+    "city": "San Jose",
+    "state": "NJ"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Thompson",
+    "email": "christine.thompson7869@outlook.com",
+    "phone": "891 842 6104",
+    "ssn": "411-26-6587",
+    "dob": "4/18/1969",
+    "address": "1340 Fifth Blvd",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

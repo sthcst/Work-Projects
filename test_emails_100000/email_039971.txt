@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Lopez",
+    "email": "jeffrey.lopez243@business.net",
+    "phone": "326 522 5518",
+    "ssn": "566479951",
+    "dob": "5/14/1984",
+    "address": "3873 Summer Court",
+    "city": "San Jose",
+    "state": "AZ"
+  }
+}

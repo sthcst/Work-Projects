@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Jimenez,ryan.jimenez9435@gmail.com,+1 843-253-3770,018-26-1483,04-11-1998,"8959 Birch Dr",New York,MD

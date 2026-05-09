@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Walker",
+    "email": "mark.walker2226@yahoo.com",
+    "phone": "+1 714-570-5673",
+    "ssn": "754436194",
+    "dob": "07-23-1979",
+    "address": "6549 Main Ave",
+    "city": "Washington",
+    "state": "NY"
+  }
+}

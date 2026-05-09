@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Delgado",
+    "email": "matthew.delgado3643@work.org",
+    "phone": "+1 734-458-5535",
+    "ssn": "432 41 3300",
+    "dob": "8/14/1996",
+    "address": "9419 Maple Court",
+    "city": "Boston",
+    "state": "VA"
+  }
+}

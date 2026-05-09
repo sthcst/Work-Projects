@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Perez",
+    "email": "david.perez6659@gmail.com",
+    "phone": "(514) 349-7241",
+    "ssn": "504 42 1345",
+    "dob": "11/02/1950",
+    "address": "9386 Fifth St",
+    "city": "San Antonio",
+    "state": "FL"
+  }
+}

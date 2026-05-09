@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Ramirez,brenda.ramirez2576@yahoo.com,+1 627-902-4399,338 99 5005,03-13-1973,"3779 Cedar Dr",Austin,AZ

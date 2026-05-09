@@ -1,0 +1,14 @@
+INVOICE 534622
+
+Bill To:
+Name: Brenda Johnson
+Email: brenda.johnson5136@business.net
+Phone: (549) 349-8520
+SSN: 002-16-1558
+
+Address: 761 Maple Way
+San Antonio, CA
+
+Date of Birth: 11/06/1971
+
+Amount Due: $1295

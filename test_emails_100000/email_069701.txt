@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Anderson",
+    "email": "william.anderson9319@work.org",
+    "phone": "783-901-5186",
+    "ssn": "770 80 6474",
+    "dob": "8/11/1989",
+    "address": "8560 First Way",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

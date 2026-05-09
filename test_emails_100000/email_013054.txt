@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Jones
+  email: deborah.jones9806@example.com
+  phone: +1 998-983-4595
+  ssn: 237986093
+  dob: 14/08/1988
+  address: 9611 Birch Way
+  city: Phoenix
+  state: TX

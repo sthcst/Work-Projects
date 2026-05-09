@@ -1,0 +1,9 @@
+contact:
+  name: John Miller
+  email: john.miller4598@yahoo.com
+  phone: 223-784-4142
+  ssn: 301342488
+  dob: 09/15/1989
+  address: 3067 Summer Way
+  city: New York
+  state: TX

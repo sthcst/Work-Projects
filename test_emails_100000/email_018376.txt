@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Clark",
+    "email": "samantha.clark6732@work.org",
+    "phone": "491 883 3463",
+    "ssn": "227 78 5429",
+    "dob": "04/04/1978",
+    "address": "8982 Oak Ave",
+    "city": "Jacksonville",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Robinson,michelle.robinson862@company.com,(931) 240-6500,753169196,03-09-1983,"5111 Fifth Way",New York,TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Brown,pamela.brown9255@gmail.com,347 322 2295,101-72-2133,08/13/1983,"6446 West Ave",Jacksonville,TX

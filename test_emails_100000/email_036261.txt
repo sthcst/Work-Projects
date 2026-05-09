@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Reed,edward.reed9230@business.net,696-518-4602,728 64 9618,19/12/1967,"19 West Way",San Jose,TX

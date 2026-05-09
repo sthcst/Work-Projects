@@ -1,0 +1,9 @@
+contact:
+  name: Michael Thompson
+  email: michael.thompson7546@outlook.com
+  phone: 528-497-8155
+  ssn: 548-51-2025
+  dob: 09/08/1966
+  address: 6601 North Blvd
+  city: Chicago
+  state: TN

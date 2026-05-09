@@ -1,0 +1,14 @@
+INVOICE 924320
+
+Bill To:
+Name: Lisa Johnson
+Email: lisa.johnson5852@company.com
+Phone: +1 607-734-3537
+SSN: 426232661
+
+Address: 6475 Park Court
+Washington, CA
+
+Date of Birth: 12-04-1979
+
+Amount Due: $9674

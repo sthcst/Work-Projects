@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Reyes
+  email: kathleen.reyes3384@company.com
+  phone: +1 386-625-5726
+  ssn: 187 67 2529
+  dob: 10/24/1973
+  address: 2973 Fourth St
+  city: Denver
+  state: NY

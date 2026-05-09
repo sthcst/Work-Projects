@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Hall
+  email: jennifer.hall14@yahoo.com
+  phone: 573 760 5233
+  ssn: 787 04 6348
+  dob: 07/05/1952
+  address: 246 Fourth Blvd
+  city: Denver
+  state: MO

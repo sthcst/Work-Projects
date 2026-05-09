@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Smith
+  email: rachel.smith8892@work.org
+  phone: +1 667-380-8587
+  ssn: 062-46-1756
+  dob: 07-26-2001
+  address: 6192 South Blvd
+  city: San Antonio
+  state: NC

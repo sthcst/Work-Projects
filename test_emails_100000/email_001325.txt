@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Rogers,helen.rogers4578@yahoo.com,+1 641-259-1380,614-26-9120,07-10-1999,"9172 Pine St",San Jose,FL

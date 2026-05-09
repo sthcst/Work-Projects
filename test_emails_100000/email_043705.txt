@@ -1,0 +1,9 @@
+contact:
+  name: Steven Martin
+  email: steven.martin8452@company.com
+  phone: 463-461-5570
+  ssn: 217231717
+  dob: 06/12/1998
+  address: 5356 Third Dr
+  city: Seattle
+  state: TX

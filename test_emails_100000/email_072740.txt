@@ -1,0 +1,9 @@
+contact:
+  name: Jason Reed
+  email: jason.reed3085@mail.com
+  phone: +1 662-953-4352
+  ssn: 756 43 2238
+  dob: 02/05/1966
+  address: 3719 Pine St
+  city: New York
+  state: WI

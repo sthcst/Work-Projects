@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Robinson,ronald.robinson6499@yahoo.com,+1 534-962-5091,750185309,09-04-1965,"2712 Pine Blvd",New York,PA

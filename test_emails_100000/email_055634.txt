@@ -1,0 +1,9 @@
+contact:
+  name: Richard Young
+  email: richard.young2904@work.org
+  phone: +1 438-731-5540
+  ssn: 868428978
+  dob: 8/19/1962
+  address: 6216 East Ave
+  city: Boston
+  state: FL

@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Morgan
+  email: joseph.morgan7435@outlook.com
+  phone: 728-336-7868
+  ssn: 953 64 2028
+  dob: 7/27/1965
+  address: 7554 South Blvd
+  city: Phoenix
+  state: TX

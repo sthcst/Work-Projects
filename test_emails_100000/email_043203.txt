@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Garcia,ronald.garcia8702@company.com,+1 709-329-5777,869 80 5282,05/21/1954,"2362 Spring Way",San Jose,WI

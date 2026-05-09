@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Edwards,david.edwards1653@yahoo.com,725 617 5120,425 93 1505,01-05-1996,"5422 Park Court",Dallas,NY

@@ -1,0 +1,9 @@
+contact:
+  name: Charles Perez
+  email: charles.perez6094@mail.com
+  phone: 480 573 2950
+  ssn: 608 62 3825
+  dob: 10/27/1973
+  address: 3995 Third Dr
+  city: San Diego
+  state: MO

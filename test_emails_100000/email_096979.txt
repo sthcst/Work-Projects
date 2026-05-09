@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Brown",
+    "email": "rachel.brown3216@example.com",
+    "phone": "(221) 755-3600",
+    "ssn": "561 99 5126",
+    "dob": "07-01-1998",
+    "address": "6866 Main Ln",
+    "city": "San Antonio",
+    "state": "MO"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Carter
+  email: pamela.carter7890@gmail.com
+  phone: 856 812 8609
+  ssn: 022 41 4973
+  dob: 07/17/1963
+  address: 1941 Maple Dr
+  city: Seattle
+  state: CA

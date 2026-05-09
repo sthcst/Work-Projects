@@ -1,0 +1,9 @@
+contact:
+  name: Edward Guerrero
+  email: edward.guerrero5627@example.com
+  phone: 345-941-4349
+  ssn: 546-66-9479
+  dob: 10/6/1992
+  address: 9958 Pine Way
+  city: San Jose
+  state: GA

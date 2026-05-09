@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Hall,anna.hall4445@company.com,397 969 4207,806 14 6440,07-28-1979,"8513 East Rd",Chicago,TX

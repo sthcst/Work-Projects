@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Anderson",
+    "email": "brian.anderson1273@company.com",
+    "phone": "826 211 1684",
+    "ssn": "924-38-1403",
+    "dob": "11/01/1986",
+    "address": "6619 Main Court",
+    "city": "Washington",
+    "state": "WA"
+  }
+}

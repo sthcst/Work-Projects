@@ -1,0 +1,14 @@
+INVOICE 285048
+
+Bill To:
+Name: Kathleen Harris
+Email: kathleen.harris6911@company.com
+Phone: (267) 338-8638
+SSN: 502 37 2142
+
+Address: 596 Third Blvd
+San Jose, PA
+
+Date of Birth: 12-16-1965
+
+Amount Due: $3637

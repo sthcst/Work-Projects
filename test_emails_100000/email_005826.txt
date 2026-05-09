@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Nelson,megan.nelson705@company.com,430 371 3162,181453286,04/22/1995,"3664 South Ave",Philadelphia,MA

@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Wilson
+  email: christopher.wilson7396@example.com
+  phone: 375-578-1738
+  ssn: 445-62-4830
+  dob: 03/08/1996
+  address: 3620 Fourth Rd
+  city: Philadelphia
+  state: NJ

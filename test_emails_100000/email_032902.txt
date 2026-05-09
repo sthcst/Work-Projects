@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Serrano",
+    "email": "megan.serrano6332@business.net",
+    "phone": "+1 261-484-6079",
+    "ssn": "907-32-3905",
+    "dob": "12-06-1958",
+    "address": "4770 Third Rd",
+    "city": "Philadelphia",
+    "state": "TN"
+  }
+}

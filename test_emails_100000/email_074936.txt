@@ -1,0 +1,14 @@
+INVOICE 257300
+
+Bill To:
+Name: Joseph Jackson
+Email: joseph.jackson1908@gmail.com
+Phone: +1 316-811-6715
+SSN: 137-29-3226
+
+Address: 4175 Fifth Ave
+San Jose, CA
+
+Date of Birth: 09/08/1996
+
+Amount Due: $3973

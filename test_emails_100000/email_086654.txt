@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Nelson,rebecca.nelson5048@work.org,+1 424-838-5476,135-29-6043,08-14-1975,"2863 Spring Ln",Seattle,WA

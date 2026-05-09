@@ -1,0 +1,12 @@
+SUPPORT TICKET #64220
+
+Customer: Christine Peterson
+Email: christine.peterson2342@example.com
+Phone: 628-586-9979
+Account: 049815576
+
+Issue Description: Technical problem reported
+DOB on file: 11/11/1961
+Address: 2747 Maple Rd, San Diego, CA
+
+Status: OPEN

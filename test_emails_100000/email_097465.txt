@@ -1,0 +1,9 @@
+contact:
+  name: Edward Taylor
+  email: edward.taylor1063@business.net
+  phone: 226-482-9933
+  ssn: 489 56 4579
+  dob: 2/12/1960
+  address: 2815 South Ave
+  city: San Diego
+  state: MA

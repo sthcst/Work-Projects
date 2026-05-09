@@ -1,0 +1,9 @@
+contact:
+  name: Donald Morris
+  email: donald.morris9467@work.org
+  phone: 861-388-9915
+  ssn: 243327999
+  dob: 06/02/2002
+  address: 8756 Elm Blvd
+  city: Jacksonville
+  state: MI

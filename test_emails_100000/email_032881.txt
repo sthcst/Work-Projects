@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Miller",
+    "email": "robert.miller469@work.org",
+    "phone": "467-930-2470",
+    "ssn": "250 41 4040",
+    "dob": "04/07/1979",
+    "address": "8366 Main Ave",
+    "city": "Phoenix",
+    "state": "MA"
+  }
+}

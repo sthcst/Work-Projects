@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Peterson",
+    "email": "nicole.peterson1566@business.net",
+    "phone": "+1 704-780-1976",
+    "ssn": "890-38-8273",
+    "dob": "28/02/1952",
+    "address": "1246 Birch Way",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

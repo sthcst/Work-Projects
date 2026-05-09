@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Serrano
+  email: pamela.serrano5165@example.com
+  phone: (872) 658-2461
+  ssn: 493-71-2519
+  dob: 9/25/1990
+  address: 5081 East Blvd
+  city: Austin
+  state: WA

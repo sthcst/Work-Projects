@@ -1,0 +1,14 @@
+INVOICE 109209
+
+Bill To:
+Name: George Reed
+Email: george.reed2286@gmail.com
+Phone: 597 674 5066
+SSN: 931892988
+
+Address: 2752 Cedar Blvd
+Dallas, CO
+
+Date of Birth: 8/15/1961
+
+Amount Due: $8320

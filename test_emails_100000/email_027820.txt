@@ -1,0 +1,9 @@
+contact:
+  name: Megan Bell
+  email: megan.bell3885@mail.com
+  phone: (504) 352-1288
+  ssn: 786 79 7931
+  dob: 8/28/1955
+  address: 1544 South Way
+  city: Los Angeles
+  state: AZ

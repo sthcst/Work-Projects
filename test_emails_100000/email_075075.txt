@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Peterson,paul.peterson9119@outlook.com,+1 489-368-7422,610-42-5342,08/01/1968,"2479 Third Rd",San Diego,WA

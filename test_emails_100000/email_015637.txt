@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Wilson,kathleen.wilson7314@mail.com,(609) 432-2181,154603996,5/7/1975,"7272 Cedar Ave",San Jose,IL

@@ -1,0 +1,14 @@
+INVOICE 431734
+
+Bill To:
+Name: Samantha Wilson
+Email: samantha.wilson8858@mail.com
+Phone: 347-640-8056
+SSN: 302 73 7675
+
+Address: 3375 Fifth St
+Philadelphia, TX
+
+Date of Birth: 12-11-1984
+
+Amount Due: $5154

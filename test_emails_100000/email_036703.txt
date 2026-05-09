@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Parker
+  email: joseph.parker6093@example.com
+  phone: (830) 984-8645
+  ssn: 978-59-2210
+  dob: 20/07/2001
+  address: 3647 West Blvd
+  city: Phoenix
+  state: MA

@@ -1,0 +1,14 @@
+INVOICE 635543
+
+Bill To:
+Name: Maria Phillips
+Email: maria.phillips61@work.org
+Phone: 310 543 2859
+SSN: 792 24 2394
+
+Address: 3744 Main Blvd
+Houston, FL
+
+Date of Birth: 06/02/1994
+
+Amount Due: $3345

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Stewart,timothy.stewart4337@example.com,654 665 6642,255886265,04-01-1974,"419 Fifth Ave",New York,MD

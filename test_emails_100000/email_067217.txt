@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Smith,angela.smith8309@business.net,845 724 5602,005 41 2088,6/24/1967,"9665 Birch Dr",San Antonio,CA

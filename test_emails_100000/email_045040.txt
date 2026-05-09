@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Davis",
+    "email": "nicole.davis6082@mail.com",
+    "phone": "606-772-7942",
+    "ssn": "578-66-9406",
+    "dob": "2/26/1956",
+    "address": "4050 Elm Way",
+    "city": "Jacksonville",
+    "state": "IL"
+  }
+}

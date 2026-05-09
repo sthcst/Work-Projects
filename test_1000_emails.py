@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Test redaction coverage on 10000-email corpus."""
+"""Test redaction coverage on 100000-email corpus."""
 
 import os
 import re
@@ -24,7 +24,7 @@ import importlib
 importlib.reload(redact)
 
 # Test corpus
-CORPUS_DIR = Path('test_emails_10000')
+CORPUS_DIR = Path('test_emails_100000')
 test_files = sorted(CORPUS_DIR.glob('email_*.txt'))
 
 print(f"Testing {len(test_files)} emails from comprehensive corpus")
@@ -49,11 +49,11 @@ errors = []
 start_time = time.time()
 print("Processing emails...")
 for i, test_file in enumerate(test_files, 1):
-    if i % 1000 == 0:
+    if i % 5000 == 0:
         elapsed = time.time() - start_time
         rate = i / elapsed
         remaining = (len(test_files) - i) / rate
-        print(f"  Processed {i}/{len(test_files)}... ({rate:.0f} files/sec, ~{remaining:.0f}s remaining)")
+        print(f"  Processed {i:,}/{len(test_files):,}... ({rate:.0f} files/sec, ~{remaining:.0f}s remaining)")
     
     try:
         orig_text = test_file.read_text(encoding='utf-8', errors='ignore')
@@ -97,7 +97,7 @@ for i, test_file in enumerate(test_files, 1):
 
 elapsed_time = time.time() - start_time
 
-print(f"\nProcessed {files_processed}/{len(test_files)} files in {elapsed_time:.1f} seconds")
+print(f"\nProcessed {files_processed:,}/{len(test_files):,} files in {elapsed_time:.1f} seconds")
 if errors:
     print(f"Errors in {len(errors)} files (skipped)")
 
@@ -109,7 +109,7 @@ for label in ['EMAIL', 'PHONE', 'SSN', 'DOB', 'PERSON']:
     remaining = total_after[label]
     coverage = (removed / total * 100) if total > 0 else 0.0
     status = "✅" if remaining == 0 else "⚠️"
-    print(f"{status} {label:8} — Total: {total:5}, Deleted: {removed:5}, Remaining: {remaining:5} ({coverage:5.1f}% coverage)")
+    print(f"{status} {label:8} — Total: {total:7}, Deleted: {total:7}, Remaining: {remaining:7} ({coverage:5.1f}% coverage)")
 
 print(f"\n=== SUMMARY ===")
 total_pii = sum(total_before.values())
@@ -123,9 +123,10 @@ print(f"Total remaining: {total_remaining:,}")
 print(f"Overall coverage: {overall_coverage:.1f}%")
 print(f"Emails processed: {files_processed:,}")
 print(f"Processing time: {elapsed_time:.1f} seconds ({elapsed_time/files_processed*1000:.1f}ms per email)")
+print(f"Throughput: {files_processed/elapsed_time:.0f} emails/sec")
 
 if total_remaining == 0:
-    print("\n✅ 100% COVERAGE ACHIEVED on 10000-email corpus!")
+    print("\n✅ 100% COVERAGE ACHIEVED on 100000-email corpus!")
 else:
     print(f"\n⚠️ {total_remaining} PII items remaining across {len(files_with_misses)} files")
     print("\nTop 10 files with most misses:")
@@ -135,14 +136,15 @@ else:
         print(f"  {fname}: {total_miss} remaining — {misses}")
 
 # Export detailed report
-report_file = Path('coverage_10000_emails.txt')
+report_file = Path('coverage_100000_emails.txt')
 with open(report_file, 'w') as f:
     f.write("=" * 80 + "\n")
-    f.write("10000-EMAIL CORPUS COVERAGE REPORT\n")
+    f.write("100000-EMAIL CORPUS COVERAGE REPORT\n")
     f.write("=" * 80 + "\n\n")
     
     f.write(f"Emails processed: {files_processed:,}\n")
     f.write(f"Processing time: {elapsed_time:.1f} seconds\n")
+    f.write(f"Throughput: {files_processed/elapsed_time:.0f} emails/sec\n")
     f.write(f"Total PII found: {total_pii:,}\n")
     f.write(f"Total deleted: {total_deleted:,}\n")
     f.write(f"Total remaining: {total_remaining:,}\n")
@@ -155,7 +157,7 @@ with open(report_file, 'w') as f:
         removed = deleted[label]
         remaining = total_after[label]
         coverage = (removed / total * 100) if total > 0 else 0.0
-        f.write(f"{label:8} — Total: {total:5}, Deleted: {removed:5}, Remaining: {remaining:5} ({coverage:5.1f}%)\n")
+        f.write(f"{label:8} — Total: {total:7}, Deleted: {removed:7}, Remaining: {remaining:7} ({coverage:5.1f}%)\n")
     
     if total_remaining > 0:
         f.write("\n\nFILES WITH MISSED PII:\n")

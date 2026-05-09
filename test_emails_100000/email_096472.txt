@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Lee,anna.lee6478@yahoo.com,757 881 6220,596295326,06-04-1972,"4184 Park Ln",Seattle,TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Young,anthony.young2318@company.com,(988) 743-3726,130-47-1270,12/25/1996,"1957 Oak St",Seattle,FL

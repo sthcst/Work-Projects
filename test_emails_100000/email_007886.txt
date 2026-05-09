@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Lee,samantha.lee1582@work.org,355-997-9633,685-55-9843,18/02/1995,"37 Third Way",San Diego,FL

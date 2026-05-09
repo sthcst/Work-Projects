@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Gomez,shirley.gomez8946@outlook.com,491 495 6457,573761600,3/8/1987,"6681 Pine Ave",New York,CO

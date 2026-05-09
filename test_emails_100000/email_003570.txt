@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Peterson",
+    "email": "edward.peterson8763@yahoo.com",
+    "phone": "+1 635-509-1156",
+    "ssn": "083635375",
+    "dob": "10/02/1987",
+    "address": "1898 Park St",
+    "city": "Philadelphia",
+    "state": "WI"
+  }
+}

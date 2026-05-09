@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Carter,andrew.carter8764@business.net,530-675-4742,006 47 4522,21/06/1953,"4087 Fifth Dr",Dallas,FL

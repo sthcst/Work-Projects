@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Reed",
+    "email": "nicholas.reed6848@company.com",
+    "phone": "375 852 4214",
+    "ssn": "196741982",
+    "dob": "07-28-1979",
+    "address": "5491 Second Court",
+    "city": "San Jose",
+    "state": "AZ"
+  }
+}

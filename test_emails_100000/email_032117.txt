@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Brown",
+    "email": "emily.brown4461@company.com",
+    "phone": "(602) 895-6010",
+    "ssn": "604-04-6079",
+    "dob": "11/15/1989",
+    "address": "9934 West Ave",
+    "city": "San Diego",
+    "state": "GA"
+  }
+}

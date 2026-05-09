@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Alvarado
+  email: rebecca.alvarado7034@example.com
+  phone: (425) 257-4715
+  ssn: 306766761
+  dob: 05-03-1979
+  address: 9840 Oak Rd
+  city: Boston
+  state: WA

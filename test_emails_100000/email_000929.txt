@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Dominguez,john.dominguez9705@yahoo.com,+1 312-375-8737,416-51-3169,9/2/1983,"284 Park Ave",Seattle,CA

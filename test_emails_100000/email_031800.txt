@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Lewis,pamela.lewis8240@work.org,665 922 7129,140 98 5319,12/17/1962,"6152 Elm St",New York,PA

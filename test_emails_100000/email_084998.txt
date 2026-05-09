@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Young
+  email: nicole.young4805@company.com
+  phone: +1 813-660-7073
+  ssn: 125-97-4562
+  dob: 08-11-1951
+  address: 9246 West Court
+  city: New York
+  state: IL

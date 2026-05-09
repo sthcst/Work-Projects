@@ -1,0 +1,9 @@
+contact:
+  name: William Flores
+  email: william.flores803@business.net
+  phone: +1 241-592-7027
+  ssn: 974 05 5052
+  dob: 27/03/1979
+  address: 2624 North Dr
+  city: San Antonio
+  state: FL

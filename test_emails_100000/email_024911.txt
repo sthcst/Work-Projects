@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Miller",
+    "email": "stephanie.miller2959@business.net",
+    "phone": "271-323-1215",
+    "ssn": "498-53-6303",
+    "dob": "12/6/1977",
+    "address": "6919 Maple Blvd",
+    "city": "Seattle",
+    "state": "AZ"
+  }
+}

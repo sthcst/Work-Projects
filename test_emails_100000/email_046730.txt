@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Flores,jessica.flores7816@outlook.com,(682) 945-3734,319-53-2323,11-28-1967,"6951 Third Blvd",Dallas,VA

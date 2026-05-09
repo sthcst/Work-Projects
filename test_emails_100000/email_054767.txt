@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Phillips",
+    "email": "cynthia.phillips1468@yahoo.com",
+    "phone": "+1 326-327-5445",
+    "ssn": "199-29-9554",
+    "dob": "2/15/1987",
+    "address": "7747 Sixth Blvd",
+    "city": "Denver",
+    "state": "MA"
+  }
+}

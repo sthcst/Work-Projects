@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Cooper,richard.cooper4482@example.com,(362) 692-8610,270-36-9355,07/27/1994,"1674 Oak Ln",New York,MO

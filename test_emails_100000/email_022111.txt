@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Nelson",
+    "email": "pamela.nelson5693@example.com",
+    "phone": "+1 250-968-2525",
+    "ssn": "493 27 1704",
+    "dob": "06-01-1977",
+    "address": "1560 First Blvd",
+    "city": "Phoenix",
+    "state": "CO"
+  }
+}

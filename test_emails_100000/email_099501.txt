@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Morris
+  email: deborah.morris5616@yahoo.com
+  phone: +1 273-686-2418
+  ssn: 310-58-9381
+  dob: 02/05/1974
+  address: 7021 Third Way
+  city: Boston
+  state: VA

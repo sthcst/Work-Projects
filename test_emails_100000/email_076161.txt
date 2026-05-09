@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Perez",
+    "email": "anna.perez2824@mail.com",
+    "phone": "715-373-6310",
+    "ssn": "794-65-4382",
+    "dob": "8/18/1966",
+    "address": "8830 Sixth Ln",
+    "city": "New York",
+    "state": "VA"
+  }
+}

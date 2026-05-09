@@ -1,0 +1,9 @@
+contact:
+  name: Paul Serrano
+  email: paul.serrano3880@mail.com
+  phone: (484) 539-8927
+  ssn: 798 72 2403
+  dob: 14/08/1974
+  address: 473 Birch Way
+  city: Denver
+  state: OH

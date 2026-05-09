@@ -1,0 +1,14 @@
+INVOICE 543804
+
+Bill To:
+Name: Kimberly Hernandez
+Email: kimberly.hernandez5113@company.com
+Phone: 532-294-2063
+SSN: 257 30 8096
+
+Address: 252 Second Ave
+Seattle, TX
+
+Date of Birth: 09/14/1960
+
+Amount Due: $5034

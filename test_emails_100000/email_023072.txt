@@ -1,0 +1,9 @@
+contact:
+  name: Richard Flores
+  email: richard.flores5088@yahoo.com
+  phone: +1 702-831-5764
+  ssn: 553 51 5876
+  dob: 02-17-1989
+  address: 164 Fourth Dr
+  city: Dallas
+  state: TX

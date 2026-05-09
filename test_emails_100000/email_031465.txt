@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Garcia,cynthia.garcia8283@gmail.com,(807) 656-9960,987 78 2202,04/03/1969,"3020 South Way",Philadelphia,CA

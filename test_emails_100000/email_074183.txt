@@ -1,0 +1,14 @@
+INVOICE 584583
+
+Bill To:
+Name: Paul Peterson
+Email: paul.peterson7334@yahoo.com
+Phone: 645-479-7499
+SSN: 441724675
+
+Address: 1162 Main Way
+Dallas, IL
+
+Date of Birth: 21/07/1975
+
+Amount Due: $2628

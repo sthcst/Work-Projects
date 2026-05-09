@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Garcia",
+    "email": "angela.garcia8022@example.com",
+    "phone": "+1 726-232-2809",
+    "ssn": "180943715",
+    "dob": "04-11-1969",
+    "address": "6383 Elm Rd",
+    "city": "Jacksonville",
+    "state": "DC"
+  }
+}

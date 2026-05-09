@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Thompson,brian.thompson7345@mail.com,998 379 6587,009 58 8999,03/18/1998,"4844 South St",Los Angeles,MO

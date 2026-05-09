@@ -1,0 +1,9 @@
+contact:
+  name: Edward Garcia
+  email: edward.garcia9947@company.com
+  phone: (952) 922-1438
+  ssn: 807962044
+  dob: 4/17/1986
+  address: 5739 Park Court
+  city: Austin
+  state: WA

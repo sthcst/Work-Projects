@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Phillips
+  email: kenneth.phillips8591@gmail.com
+  phone: 297 660 7271
+  ssn: 423-47-8192
+  dob: 3/27/1983
+  address: 8039 Elm Blvd
+  city: Washington
+  state: GA

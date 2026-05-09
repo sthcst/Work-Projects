@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Williams,angela.williams1802@gmail.com,511-857-9824,659-68-5443,06/07/2001,"7433 Summer Ln",Phoenix,PA

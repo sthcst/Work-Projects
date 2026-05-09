@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Romero
+  email: kenneth.romero7770@business.net
+  phone: +1 394-712-8284
+  ssn: 421-73-9303
+  dob: 11/14/1953
+  address: 5263 Third Blvd
+  city: Seattle
+  state: WA

@@ -1,0 +1,9 @@
+contact:
+  name: Matthew Gonzalez
+  email: matthew.gonzalez9355@outlook.com
+  phone: 238-767-6102
+  ssn: 697-97-6142
+  dob: 01-28-1998
+  address: 1340 West Blvd
+  city: San Diego
+  state: MA

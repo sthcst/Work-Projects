@@ -1,0 +1,9 @@
+contact:
+  name: Angela Delgado
+  email: angela.delgado3715@example.com
+  phone: (828) 767-1364
+  ssn: 180-04-7406
+  dob: 8/24/1987
+  address: 2226 Third St
+  city: Boston
+  state: OH

@@ -1,0 +1,14 @@
+INVOICE 601946
+
+Bill To:
+Name: John Wilson
+Email: john.wilson2055@gmail.com
+Phone: 933 891 4680
+SSN: 849999769
+
+Address: 5771 Second Ln
+Phoenix, TX
+
+Date of Birth: 7/14/1987
+
+Amount Due: $6347

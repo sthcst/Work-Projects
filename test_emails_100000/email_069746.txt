@@ -1,0 +1,14 @@
+INVOICE 462027
+
+Bill To:
+Name: Matthew Johnson
+Email: matthew.johnson5965@example.com
+Phone: (381) 548-1783
+SSN: 965 70 1153
+
+Address: 2969 Spring Ave
+Philadelphia, WI
+
+Date of Birth: 22/07/1982
+
+Amount Due: $9894

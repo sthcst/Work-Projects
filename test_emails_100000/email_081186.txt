@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Nelson
+  email: lauren.nelson9769@yahoo.com
+  phone: 232 514 1481
+  ssn: 489-74-4072
+  dob: 03-23-1968
+  address: 8462 Third Way
+  city: Jacksonville
+  state: TX

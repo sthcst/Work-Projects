@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Gonzalez,ronald.gonzalez6167@yahoo.com,863 907 1936,895357991,20/10/1952,"4540 Sixth Dr",Phoenix,CA

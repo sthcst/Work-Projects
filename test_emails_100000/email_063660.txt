@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Dominguez",
+    "email": "kathleen.dominguez8451@work.org",
+    "phone": "241-286-4836",
+    "ssn": "232-98-8480",
+    "dob": "3/14/1955",
+    "address": "3913 North Ave",
+    "city": "Washington",
+    "state": "VA"
+  }
+}

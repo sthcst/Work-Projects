@@ -1,0 +1,14 @@
+INVOICE 920780
+
+Bill To:
+Name: Edward Collins
+Email: edward.collins4384@example.com
+Phone: (950) 254-3863
+SSN: 553-42-1038
+
+Address: 7878 Fourth St
+Seattle, MO
+
+Date of Birth: 12/13/1957
+
+Amount Due: $2452

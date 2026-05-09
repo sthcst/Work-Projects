@@ -1,0 +1,9 @@
+contact:
+  name: Steven Robinson
+  email: steven.robinson2833@company.com
+  phone: +1 872-944-1700
+  ssn: 872368678
+  dob: 02-12-1979
+  address: 4815 Fourth Ave
+  city: Seattle
+  state: TX

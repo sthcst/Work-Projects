@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Phillips",
+    "email": "joseph.phillips1067@mail.com",
+    "phone": "+1 719-815-3614",
+    "ssn": "314665704",
+    "dob": "10/08/1956",
+    "address": "5482 Oak Blvd",
+    "city": "Austin",
+    "state": "PA"
+  }
+}

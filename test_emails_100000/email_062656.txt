@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Martin,emma.martin7955@example.com,+1 276-315-6026,128979099,09/18/1964,"4920 Maple Ln",Phoenix,DC

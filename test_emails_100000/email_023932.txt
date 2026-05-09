@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Rogers",
+    "email": "steven.rogers6957@example.com",
+    "phone": "(212) 539-6057",
+    "ssn": "710 72 1769",
+    "dob": "09/12/1964",
+    "address": "3883 Fifth Court",
+    "city": "Seattle",
+    "state": "MA"
+  }
+}

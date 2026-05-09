@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Anderson",
+    "email": "kenneth.anderson1758@outlook.com",
+    "phone": "(328) 491-5862",
+    "ssn": "430769907",
+    "dob": "10/18/1951",
+    "address": "7460 Third Rd",
+    "city": "New York",
+    "state": "WA"
+  }
+}

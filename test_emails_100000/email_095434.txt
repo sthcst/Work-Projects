@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Garcia,lisa.garcia2258@mail.com,695 482 7180,203972156,03/23/1955,"5579 East Rd",San Antonio,TX

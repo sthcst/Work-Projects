@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Delgado,christine.delgado9933@business.net,207 582 1921,216548226,06/24/1975,"4423 South Dr",Los Angeles,AZ

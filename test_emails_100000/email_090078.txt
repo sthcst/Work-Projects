@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Murillo",
+    "email": "emily.murillo2128@mail.com",
+    "phone": "281 556 7551",
+    "ssn": "617 65 6329",
+    "dob": "05-03-1992",
+    "address": "7904 West Court",
+    "city": "Austin",
+    "state": "CO"
+  }
+}

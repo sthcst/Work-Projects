@@ -1,0 +1,14 @@
+INVOICE 522067
+
+Bill To:
+Name: Ronald Ramirez
+Email: ronald.ramirez3751@mail.com
+Phone: +1 922-998-9293
+SSN: 682 22 7328
+
+Address: 1932 Maple Dr
+Philadelphia, NC
+
+Date of Birth: 9/13/1978
+
+Amount Due: $1044

@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Lewis
+  email: cynthia.lewis4924@outlook.com
+  phone: 214-392-6103
+  ssn: 730-08-6555
+  dob: 05/13/2001
+  address: 24 Fourth Blvd
+  city: Seattle
+  state: NJ

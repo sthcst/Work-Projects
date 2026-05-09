@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Hall,katherine.hall8503@yahoo.com,629 306 6889,127642923,03/17/1992,"7539 Elm Way",Boston,CA

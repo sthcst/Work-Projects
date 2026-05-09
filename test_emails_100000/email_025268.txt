@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Nelson",
+    "email": "george.nelson1011@outlook.com",
+    "phone": "+1 231-528-7611",
+    "ssn": "573-86-1538",
+    "dob": "8/12/1974",
+    "address": "3092 Cedar St",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

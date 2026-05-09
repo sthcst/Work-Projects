@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Delgado
+  email: kimberly.delgado3747@company.com
+  phone: (351) 404-6134
+  ssn: 057974564
+  dob: 03/04/1990
+  address: 8510 Birch St
+  city: Houston
+  state: MA

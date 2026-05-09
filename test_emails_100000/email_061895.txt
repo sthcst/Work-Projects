@@ -1,0 +1,14 @@
+INVOICE 452328
+
+Bill To:
+Name: Richard Garcia
+Email: richard.garcia2547@gmail.com
+Phone: (613) 440-5485
+SSN: 652274111
+
+Address: 5658 Oak Court
+San Diego, MO
+
+Date of Birth: 11/03/1987
+
+Amount Due: $3534

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Jones",
+    "email": "emily.jones7256@outlook.com",
+    "phone": "+1 464-288-3757",
+    "ssn": "477429089",
+    "dob": "06-10-1993",
+    "address": "9760 Pine Way",
+    "city": "Houston",
+    "state": "NY"
+  }
+}

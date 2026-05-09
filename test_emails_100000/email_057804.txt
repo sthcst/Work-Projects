@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Phillips",
+    "email": "george.phillips6562@company.com",
+    "phone": "+1 278-784-4964",
+    "ssn": "881 12 8158",
+    "dob": "09/06/2000",
+    "address": "6831 Second Ln",
+    "city": "Jacksonville",
+    "state": "MO"
+  }
+}

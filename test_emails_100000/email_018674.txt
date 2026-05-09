@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Smith",
+    "email": "helen.smith4941@business.net",
+    "phone": "+1 928-262-2604",
+    "ssn": "341 17 2390",
+    "dob": "03-18-2004",
+    "address": "7905 Oak Court",
+    "city": "San Diego",
+    "state": "MO"
+  }
+}

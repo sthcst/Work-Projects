@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Martin",
+    "email": "kenneth.martin1903@work.org",
+    "phone": "(962) 765-8484",
+    "ssn": "585-37-3780",
+    "dob": "05-25-1982",
+    "address": "1628 Second St",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

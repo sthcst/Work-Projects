@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Anderson",
+    "email": "nicholas.anderson4825@example.com",
+    "phone": "711 541 5701",
+    "ssn": "473-14-9397",
+    "dob": "11/1/1971",
+    "address": "401 Cedar Rd",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

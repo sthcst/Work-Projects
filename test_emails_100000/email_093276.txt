@@ -1,0 +1,9 @@
+contact:
+  name: Emily Smith
+  email: emily.smith4206@work.org
+  phone: 973-570-5947
+  ssn: 509064129
+  dob: 03-23-1952
+  address: 3118 Fourth Ave
+  city: Washington
+  state: AZ

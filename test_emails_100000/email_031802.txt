@@ -1,0 +1,14 @@
+INVOICE 949328
+
+Bill To:
+Name: William Perez
+Email: william.perez8780@gmail.com
+Phone: (931) 390-8877
+SSN: 725 01 4893
+
+Address: 8938 Park Ave
+Philadelphia, IL
+
+Date of Birth: 01/01/1995
+
+Amount Due: $2340

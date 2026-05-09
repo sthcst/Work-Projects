@@ -1,0 +1,9 @@
+contact:
+  name: Emily Davis
+  email: emily.davis235@gmail.com
+  phone: 962 693 3067
+  ssn: 939-16-4204
+  dob: 02/07/1972
+  address: 7461 Oak Court
+  city: Denver
+  state: VA

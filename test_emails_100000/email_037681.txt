@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Carter,joseph.carter7661@outlook.com,248 780 9717,473-38-5997,04-25-1980,"6842 Sixth Way",Los Angeles,GA

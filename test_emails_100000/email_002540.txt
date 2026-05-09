@@ -1,0 +1,9 @@
+contact:
+  name: Angela Roberts
+  email: angela.roberts1809@company.com
+  phone: +1 352-412-1646
+  ssn: 735-90-8486
+  dob: 6/16/1956
+  address: 6402 Elm Court
+  city: Seattle
+  state: TX

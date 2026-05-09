@@ -1,0 +1,14 @@
+INVOICE 138078
+
+Bill To:
+Name: Helen Brown
+Email: helen.brown1849@company.com
+Phone: 451 340 9842
+SSN: 651281159
+
+Address: 2876 West Ave
+Austin, PA
+
+Date of Birth: 03/10/1967
+
+Amount Due: $9524

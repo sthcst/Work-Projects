@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Anderson",
+    "email": "joseph.anderson2119@business.net",
+    "phone": "(426) 540-4747",
+    "ssn": "071 37 7138",
+    "dob": "05-15-1956",
+    "address": "6209 South Ln",
+    "city": "Jacksonville",
+    "state": "GA"
+  }
+}

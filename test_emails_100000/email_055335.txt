@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Harris",
+    "email": "gary.harris230@gmail.com",
+    "phone": "919-627-1374",
+    "ssn": "192484096",
+    "dob": "10/07/1972",
+    "address": "7420 Spring Ave",
+    "city": "Washington",
+    "state": "TN"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Carter",
+    "email": "sarah.carter9886@business.net",
+    "phone": "341 363 6930",
+    "ssn": "480775938",
+    "dob": "06/03/1980",
+    "address": "8462 Third Way",
+    "city": "Dallas",
+    "state": "AZ"
+  }
+}

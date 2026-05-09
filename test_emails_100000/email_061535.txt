@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Gomez,jennifer.gomez8700@mail.com,(590) 379-7469,543-77-4376,02/14/1973,"2362 West Blvd",Philadelphia,CA

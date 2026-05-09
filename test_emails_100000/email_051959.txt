@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Morgan",
+    "email": "kenneth.morgan6043@company.com",
+    "phone": "604-347-7219",
+    "ssn": "985 05 1523",
+    "dob": "07/06/1997",
+    "address": "7635 Elm Court",
+    "city": "Jacksonville",
+    "state": "OH"
+  }
+}

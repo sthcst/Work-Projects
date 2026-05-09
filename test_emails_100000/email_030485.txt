@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Ramirez,megan.ramirez7859@gmail.com,(801) 227-1503,473452755,02-27-2002,"1926 Summer Ave",Seattle,NJ

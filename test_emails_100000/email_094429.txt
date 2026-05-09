@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Cooper",
+    "email": "timothy.cooper7218@gmail.com",
+    "phone": "464-317-1798",
+    "ssn": "791-98-6225",
+    "dob": "11/21/1993",
+    "address": "9158 Fifth Ave",
+    "city": "Boston",
+    "state": "IL"
+  }
+}

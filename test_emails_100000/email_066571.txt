@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Peterson",
+    "email": "george.peterson552@example.com",
+    "phone": "(853) 853-8750",
+    "ssn": "871-01-7243",
+    "dob": "10-14-1970",
+    "address": "3317 Second Rd",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

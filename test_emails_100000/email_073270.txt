@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Cooper,brenda.cooper8911@mail.com,559 545 2188,784782218,02/24/1966,"8778 Oak Court",Los Angeles,TX

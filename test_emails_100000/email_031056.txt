@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Johnson,nicole.johnson1396@gmail.com,282-724-2304,606-29-5114,09/03/1996,"6068 West Dr",Seattle,DC

@@ -1,0 +1,9 @@
+contact:
+  name: Gary Rogers
+  email: gary.rogers4674@mail.com
+  phone: 565-624-7094
+  ssn: 566 11 3542
+  dob: 11-15-1961
+  address: 3828 Cedar Ln
+  city: Philadelphia
+  state: TX

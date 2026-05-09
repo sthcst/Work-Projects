@@ -1,0 +1,9 @@
+contact:
+  name: Michael Sanchez
+  email: michael.sanchez4925@work.org
+  phone: 682 573 9537
+  ssn: 902-91-8041
+  dob: 5/19/1950
+  address: 9246 Main St
+  city: Jacksonville
+  state: PA

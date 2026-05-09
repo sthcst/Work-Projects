@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Davis",
+    "email": "william.davis5732@example.com",
+    "phone": "(538) 643-3605",
+    "ssn": "739624488",
+    "dob": "7/26/1967",
+    "address": "3321 Pine Way",
+    "city": "Chicago",
+    "state": "AZ"
+  }
+}

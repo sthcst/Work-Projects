@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Perez,katherine.perez8852@company.com,842 787 9959,220-68-6212,4/25/1968,"8839 South Way",Phoenix,WA

@@ -1,0 +1,9 @@
+contact:
+  name: Mark Brown
+  email: mark.brown3460@company.com
+  phone: (563) 705-6158
+  ssn: 570287771
+  dob: 11/8/1974
+  address: 7763 Third Blvd
+  city: Los Angeles
+  state: TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Brown",
+    "email": "charles.brown5011@yahoo.com",
+    "phone": "+1 796-512-7428",
+    "ssn": "390636918",
+    "dob": "3/15/1987",
+    "address": "4987 East Court",
+    "city": "Philadelphia",
+    "state": "NY"
+  }
+}

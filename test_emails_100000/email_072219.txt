@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Taylor",
+    "email": "helen.taylor4199@gmail.com",
+    "phone": "(630) 674-7801",
+    "ssn": "391766878",
+    "dob": "05/09/1958",
+    "address": "1103 East St",
+    "city": "Seattle",
+    "state": "GA"
+  }
+}

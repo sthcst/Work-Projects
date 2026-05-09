@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Morris,maria.morris2256@company.com,701 537 6654,488 95 8459,8/9/2003,"2150 Summer Dr",San Diego,VA

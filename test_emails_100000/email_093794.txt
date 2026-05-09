@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Peterson
+  email: nicholas.peterson6208@work.org
+  phone: 502-518-5799
+  ssn: 353-71-2022
+  dob: 6/25/1962
+  address: 9514 Third Dr
+  city: Phoenix
+  state: FL

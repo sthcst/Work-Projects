@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Edwards,ronald.edwards7186@outlook.com,991 299 4805,305-64-6588,17/10/1983,"4683 North Way",Austin,AZ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Lee,kevin.lee9754@work.org,496-328-7420,127449925,5/15/1996,"5597 North Ave",Dallas,CA

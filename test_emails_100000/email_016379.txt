@@ -1,0 +1,9 @@
+contact:
+  name: Christine Stewart
+  email: christine.stewart1728@gmail.com
+  phone: 676 366 3097
+  ssn: 089 21 2324
+  dob: 26/04/1971
+  address: 8278 Birch Court
+  city: Seattle
+  state: MD

@@ -1,0 +1,14 @@
+INVOICE 734032
+
+Bill To:
+Name: Andrew Alvarado
+Email: andrew.alvarado9261@company.com
+Phone: 272-848-5412
+SSN: 891 45 8616
+
+Address: 2181 South Blvd
+Washington, CA
+
+Date of Birth: 10/08/1982
+
+Amount Due: $5868

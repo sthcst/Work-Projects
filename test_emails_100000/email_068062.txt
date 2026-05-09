@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Jimenez,rebecca.jimenez711@work.org,348 890 7148,496-46-1648,06-02-1952,"5329 Second Dr",Seattle,CA

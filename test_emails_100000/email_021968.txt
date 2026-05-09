@@ -1,0 +1,9 @@
+contact:
+  name: Helen Moore
+  email: helen.moore4167@yahoo.com
+  phone: (503) 991-7166
+  ssn: 959-56-6616
+  dob: 12-07-1998
+  address: 5891 Summer St
+  city: Austin
+  state: IL

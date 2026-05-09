@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Gomez,kevin.gomez5199@company.com,823 829 6314,246 06 5877,13/06/2005,"9333 First Dr",San Diego,MA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Romero",
+    "email": "stephanie.romero3566@outlook.com",
+    "phone": "(247) 550-7587",
+    "ssn": "950 65 9419",
+    "dob": "05/12/1980",
+    "address": "8416 East Rd",
+    "city": "Phoenix",
+    "state": "OH"
+  }
+}

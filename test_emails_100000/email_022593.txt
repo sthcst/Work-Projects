@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Dominguez",
+    "email": "angela.dominguez1954@yahoo.com",
+    "phone": "+1 397-393-5845",
+    "ssn": "846 17 3702",
+    "dob": "12/7/1960",
+    "address": "385 Third Ave",
+    "city": "Los Angeles",
+    "state": "MI"
+  }
+}

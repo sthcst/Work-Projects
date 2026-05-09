@@ -1,0 +1,9 @@
+contact:
+  name: Charles Stewart
+  email: charles.stewart3467@outlook.com
+  phone: +1 721-448-3212
+  ssn: 837-08-8740
+  dob: 06/23/1984
+  address: 9350 Park Blvd
+  city: Boston
+  state: TX

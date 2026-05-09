@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Johnson",
+    "email": "charles.johnson5780@work.org",
+    "phone": "374 788 5506",
+    "ssn": "197208465",
+    "dob": "11/4/1991",
+    "address": "1625 Main Ln",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

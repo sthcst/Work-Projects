@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Campbell",
+    "email": "john.campbell3435@example.com",
+    "phone": "320 577 7187",
+    "ssn": "609-71-2687",
+    "dob": "03/06/1992",
+    "address": "2771 Summer Blvd",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

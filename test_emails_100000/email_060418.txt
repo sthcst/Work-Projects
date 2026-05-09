@@ -1,0 +1,9 @@
+contact:
+  name: Michael Delgado
+  email: michael.delgado1475@example.com
+  phone: (350) 964-5075
+  ssn: 377-73-4571
+  dob: 5/24/1998
+  address: 5912 Maple Ln
+  city: Denver
+  state: MA

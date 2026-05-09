@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Thompson
+  email: sarah.thompson5679@company.com
+  phone: 794-567-2086
+  ssn: 020668979
+  dob: 03-25-1963
+  address: 1106 Pine Way
+  city: Los Angeles
+  state: TX

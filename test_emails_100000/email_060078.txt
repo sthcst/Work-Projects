@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia White,cynthia.white319@gmail.com,(988) 888-1539,331956504,05-12-2005,"7582 North Way",Washington,OH

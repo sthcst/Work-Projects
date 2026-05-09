@@ -1,0 +1,14 @@
+INVOICE 369735
+
+Bill To:
+Name: Timothy Hernandez
+Email: timothy.hernandez6731@company.com
+Phone: 677-853-5523
+SSN: 920-01-5320
+
+Address: 4961 Sixth Rd
+Washington, GA
+
+Date of Birth: 02-07-1977
+
+Amount Due: $5467

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Lee",
+    "email": "helen.lee4312@example.com",
+    "phone": "+1 238-537-8684",
+    "ssn": "125-44-6624",
+    "dob": "06-22-1962",
+    "address": "3604 Oak Court",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

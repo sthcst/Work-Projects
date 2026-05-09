@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Nelson",
+    "email": "nicole.nelson8289@outlook.com",
+    "phone": "+1 877-756-3601",
+    "ssn": "349 21 6801",
+    "dob": "09/01/1992",
+    "address": "9536 Summer Court",
+    "city": "Austin",
+    "state": "OH"
+  }
+}

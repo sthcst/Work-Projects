@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Smith,robert.smith948@example.com,773-258-9304,681 90 9950,3/20/1965,"8426 Pine Ln",Philadelphia,PA

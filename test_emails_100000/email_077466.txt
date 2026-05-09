@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Davis",
+    "email": "michelle.davis1503@outlook.com",
+    "phone": "994-424-7827",
+    "ssn": "606 11 7730",
+    "dob": "11-20-1950",
+    "address": "8706 North Ave",
+    "city": "San Antonio",
+    "state": "MI"
+  }
+}

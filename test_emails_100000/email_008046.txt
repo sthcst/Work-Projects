@@ -1,0 +1,9 @@
+contact:
+  name: Robert Campbell
+  email: robert.campbell4551@outlook.com
+  phone: 824-288-1890
+  ssn: 991894565
+  dob: 06/05/1975
+  address: 4421 West Blvd
+  city: Chicago
+  state: MA

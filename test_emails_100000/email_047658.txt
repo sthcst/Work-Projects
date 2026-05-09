@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Flores",
+    "email": "matthew.flores708@business.net",
+    "phone": "950-615-9665",
+    "ssn": "466317472",
+    "dob": "7/26/1985",
+    "address": "1348 Main Dr",
+    "city": "Chicago",
+    "state": "CO"
+  }
+}

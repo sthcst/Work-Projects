@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Clark,ronald.clark1757@example.com,+1 271-858-6472,155 36 5384,13/01/1952,"3983 Pine Ave",Austin,MI

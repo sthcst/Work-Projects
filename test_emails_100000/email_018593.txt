@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Williams
+  email: deborah.williams5437@gmail.com
+  phone: 981 749 7053
+  ssn: 289-56-4390
+  dob: 01/16/1986
+  address: 7536 Summer Dr
+  city: San Diego
+  state: CA

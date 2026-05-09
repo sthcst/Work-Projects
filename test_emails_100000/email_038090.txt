@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Lee
+  email: katherine.lee5253@gmail.com
+  phone: 379 323 5292
+  ssn: 966 18 6325
+  dob: 01-08-1958
+  address: 4691 Park Dr
+  city: Austin
+  state: MA

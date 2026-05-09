@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Hall
+  email: daniel.hall7008@work.org
+  phone: +1 627-355-4444
+  ssn: 735758388
+  dob: 03-03-1970
+  address: 5769 Cedar Court
+  city: Chicago
+  state: OH

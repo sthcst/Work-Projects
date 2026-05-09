@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Gonzalez",
+    "email": "angela.gonzalez9545@yahoo.com",
+    "phone": "786-932-4880",
+    "ssn": "795 48 7624",
+    "dob": "01-18-1969",
+    "address": "2439 Summer Ave",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

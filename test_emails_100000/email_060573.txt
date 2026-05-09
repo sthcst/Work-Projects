@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Delgado,lauren.delgado8815@work.org,279-832-4484,883398054,05-07-1997,"2405 Oak Way",Dallas,TX

@@ -1,0 +1,14 @@
+INVOICE 848751
+
+Bill To:
+Name: Edward Reyes
+Email: edward.reyes5220@example.com
+Phone: 613 824 9318
+SSN: 829259373
+
+Address: 5398 North Way
+San Jose, VA
+
+Date of Birth: 02-06-1966
+
+Amount Due: $4406

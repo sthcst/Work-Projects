@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily White",
+    "email": "emily.white5527@work.org",
+    "phone": "(254) 458-5137",
+    "ssn": "297 73 7689",
+    "dob": "25/04/1971",
+    "address": "469 Sixth Court",
+    "city": "New York",
+    "state": "WA"
+  }
+}

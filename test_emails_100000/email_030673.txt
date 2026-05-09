@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Reed",
+    "email": "kenneth.reed8511@gmail.com",
+    "phone": "(550) 701-3966",
+    "ssn": "727814291",
+    "dob": "12/13/2002",
+    "address": "6091 South Blvd",
+    "city": "Boston",
+    "state": "TN"
+  }
+}

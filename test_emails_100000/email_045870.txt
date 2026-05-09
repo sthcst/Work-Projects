@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Rogers",
+    "email": "christine.rogers7141@yahoo.com",
+    "phone": "469 949 2714",
+    "ssn": "772-62-1966",
+    "dob": "02/04/2000",
+    "address": "4754 Sixth Dr",
+    "city": "Seattle",
+    "state": "AZ"
+  }
+}

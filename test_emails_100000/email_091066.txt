@@ -1,0 +1,9 @@
+contact:
+  name: George Delgado
+  email: george.delgado8859@business.net
+  phone: (388) 462-9434
+  ssn: 644 94 3307
+  dob: 3/22/1976
+  address: 7148 Elm Court
+  city: Philadelphia
+  state: TX

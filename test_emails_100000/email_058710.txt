@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Lewis,daniel.lewis3682@business.net,+1 545-990-6025,397-27-2234,10/12/1960,"9205 Spring Ave",Austin,PA

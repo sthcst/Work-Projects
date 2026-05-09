@@ -1,0 +1,14 @@
+INVOICE 942337
+
+Bill To:
+Name: Christine Johnson
+Email: christine.johnson2835@yahoo.com
+Phone: 413 758 5217
+SSN: 359 06 4344
+
+Address: 7569 Park Ave
+San Antonio, NJ
+
+Date of Birth: 21/06/1987
+
+Amount Due: $1320

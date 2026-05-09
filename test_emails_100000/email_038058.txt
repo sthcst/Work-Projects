@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Lee",
+    "email": "jennifer.lee9796@business.net",
+    "phone": "284 449 9753",
+    "ssn": "010-57-5401",
+    "dob": "11/11/2001",
+    "address": "342 Oak Dr",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

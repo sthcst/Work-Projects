@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Evans",
+    "email": "katherine.evans3884@work.org",
+    "phone": "(534) 471-9262",
+    "ssn": "977632442",
+    "dob": "07-18-1976",
+    "address": "1659 Sixth Rd",
+    "city": "Philadelphia",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Romero",
+    "email": "james.romero3261@outlook.com",
+    "phone": "(460) 364-6254",
+    "ssn": "295-28-1288",
+    "dob": "09/02/1975",
+    "address": "424 Maple Rd",
+    "city": "Denver",
+    "state": "AZ"
+  }
+}

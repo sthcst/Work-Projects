@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Carter",
+    "email": "helen.carter3003@business.net",
+    "phone": "580-829-3100",
+    "ssn": "115971134",
+    "dob": "21/12/1997",
+    "address": "1126 Main Ln",
+    "city": "Denver",
+    "state": "AZ"
+  }
+}

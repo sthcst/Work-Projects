@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Cooper",
+    "email": "nicole.cooper2639@gmail.com",
+    "phone": "393 723 9666",
+    "ssn": "925089417",
+    "dob": "04/04/1971",
+    "address": "3684 North Ln",
+    "city": "Washington",
+    "state": "OH"
+  }
+}

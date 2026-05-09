@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Nelson
+  email: katherine.nelson9217@example.com
+  phone: 740-889-6466
+  ssn: 921758364
+  dob: 11/9/1987
+  address: 2552 Maple Ln
+  city: San Diego
+  state: AZ

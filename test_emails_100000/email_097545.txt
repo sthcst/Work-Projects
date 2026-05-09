@@ -1,0 +1,14 @@
+INVOICE 639290
+
+Bill To:
+Name: Angela White
+Email: angela.white559@mail.com
+Phone: +1 441-499-6316
+SSN: 755305013
+
+Address: 3608 Spring St
+Houston, VA
+
+Date of Birth: 27/08/1998
+
+Amount Due: $3889

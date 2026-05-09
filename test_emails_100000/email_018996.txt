@@ -1,0 +1,14 @@
+INVOICE 760480
+
+Bill To:
+Name: Charles Phillips
+Email: charles.phillips9436@work.org
+Phone: (954) 262-5454
+SSN: 326 02 6280
+
+Address: 760 Oak Ave
+Washington, WI
+
+Date of Birth: 05/07/1973
+
+Amount Due: $6443

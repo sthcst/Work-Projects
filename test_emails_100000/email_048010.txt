@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Alvarado",
+    "email": "lisa.alvarado1308@example.com",
+    "phone": "+1 323-934-7460",
+    "ssn": "982962244",
+    "dob": "07/06/1967",
+    "address": "7697 First Ln",
+    "city": "Dallas",
+    "state": "FL"
+  }
+}

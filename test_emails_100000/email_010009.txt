@@ -1,0 +1,9 @@
+contact:
+  name: Mark Garcia
+  email: mark.garcia8694@business.net
+  phone: (517) 564-3416
+  ssn: 809-33-2952
+  dob: 03-14-1959
+  address: 7040 Third Rd
+  city: Philadelphia
+  state: AZ

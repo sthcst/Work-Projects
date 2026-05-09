@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Campbell",
+    "email": "amanda.campbell4820@work.org",
+    "phone": "571 953 6068",
+    "ssn": "901 25 3977",
+    "dob": "12-26-1991",
+    "address": "1872 Elm St",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

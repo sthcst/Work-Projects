@@ -1,0 +1,9 @@
+contact:
+  name: Mark Evans
+  email: mark.evans1273@business.net
+  phone: 645-328-9754
+  ssn: 645-68-6763
+  dob: 08/26/1967
+  address: 5355 Spring Blvd
+  city: New York
+  state: GA

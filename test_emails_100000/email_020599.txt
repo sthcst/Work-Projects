@@ -1,0 +1,9 @@
+contact:
+  name: John Thomas
+  email: john.thomas5195@yahoo.com
+  phone: +1 666-566-1525
+  ssn: 699547216
+  dob: 25/04/1952
+  address: 4954 Cedar Blvd
+  city: Phoenix
+  state: CO

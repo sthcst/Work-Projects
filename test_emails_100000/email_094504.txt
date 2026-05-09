@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Harris
+  email: kimberly.harris5767@work.org
+  phone: (897) 918-1899
+  ssn: 758447326
+  dob: 12-08-1956
+  address: 3124 Spring Rd
+  city: San Diego
+  state: MA

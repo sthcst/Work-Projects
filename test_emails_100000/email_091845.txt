@@ -1,0 +1,14 @@
+INVOICE 120027
+
+Bill To:
+Name: Katherine Guerrero
+Email: katherine.guerrero5729@company.com
+Phone: +1 519-201-6934
+SSN: 537 21 9965
+
+Address: 2452 East Way
+Boston, CA
+
+Date of Birth: 07-17-1952
+
+Amount Due: $5385

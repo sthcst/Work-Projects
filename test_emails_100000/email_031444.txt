@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Edwards",
+    "email": "steven.edwards9353@yahoo.com",
+    "phone": "514-209-8517",
+    "ssn": "990085295",
+    "dob": "12/16/1952",
+    "address": "5501 Birch Way",
+    "city": "Austin",
+    "state": "NC"
+  }
+}

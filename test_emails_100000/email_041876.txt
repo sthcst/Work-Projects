@@ -1,0 +1,9 @@
+contact:
+  name: George Taylor
+  email: george.taylor4560@mail.com
+  phone: +1 570-865-2713
+  ssn: 378 15 2083
+  dob: 02-15-1970
+  address: 6854 Summer St
+  city: Boston
+  state: CA

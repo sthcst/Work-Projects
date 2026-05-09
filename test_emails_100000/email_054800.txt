@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Thomas",
+    "email": "kevin.thomas8696@example.com",
+    "phone": "+1 680-588-9554",
+    "ssn": "704627668",
+    "dob": "09/03/1997",
+    "address": "7110 Cedar Rd",
+    "city": "Denver",
+    "state": "OH"
+  }
+}

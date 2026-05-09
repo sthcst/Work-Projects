@@ -1,0 +1,9 @@
+contact:
+  name: Anna Guerrero
+  email: anna.guerrero2870@business.net
+  phone: (504) 432-9051
+  ssn: 582 57 6324
+  dob: 01/05/1958
+  address: 8855 First Dr
+  city: Jacksonville
+  state: MI

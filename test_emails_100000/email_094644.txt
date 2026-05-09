@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Taylor,mark.taylor6067@gmail.com,634 270 7396,300257495,6/23/1964,"4144 Sixth Ln",Philadelphia,AZ

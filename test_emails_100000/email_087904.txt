@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Dominguez,kevin.dominguez5972@business.net,+1 740-549-5065,188-99-9960,06/04/1995,"7736 Third Way",Chicago,FL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Carter",
+    "email": "william.carter8679@outlook.com",
+    "phone": "264-998-1792",
+    "ssn": "628-96-3566",
+    "dob": "08-02-1985",
+    "address": "4889 Third Way",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

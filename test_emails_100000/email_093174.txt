@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Guerrero,george.guerrero8936@company.com,(840) 549-3779,589148216,04/22/1965,"610 Second Ln",Seattle,TX

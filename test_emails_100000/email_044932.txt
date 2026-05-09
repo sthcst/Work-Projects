@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Edwards,amanda.edwards1476@mail.com,+1 982-919-2914,265 46 2287,06-11-1982,"9647 Sixth Court",Seattle,MO

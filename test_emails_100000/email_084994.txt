@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Garcia",
+    "email": "michael.garcia5932@work.org",
+    "phone": "369-905-3804",
+    "ssn": "550-35-3422",
+    "dob": "23/01/1976",
+    "address": "5870 Park Court",
+    "city": "Seattle",
+    "state": "FL"
+  }
+}

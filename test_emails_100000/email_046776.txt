@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Matthew Wilson,matthew.wilson1387@outlook.com,+1 733-607-3242,818 21 2623,3/21/2001,"6431 Third Dr",Boston,CA

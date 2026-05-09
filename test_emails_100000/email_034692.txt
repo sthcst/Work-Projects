@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Edwards
+  email: joshua.edwards8772@outlook.com
+  phone: 726 296 2734
+  ssn: 268968780
+  dob: 05/10/1967
+  address: 776 Sixth St
+  city: Austin
+  state: CA

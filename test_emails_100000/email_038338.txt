@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Reyes,james.reyes7712@outlook.com,+1 269-885-5619,321217585,05/26/1988,"6875 Summer Blvd",Jacksonville,MI

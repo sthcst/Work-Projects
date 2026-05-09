@@ -1,0 +1,9 @@
+contact:
+  name: Anna Phillips
+  email: anna.phillips8708@gmail.com
+  phone: 460-867-2269
+  ssn: 542 31 6789
+  dob: 15/01/1972
+  address: 3739 Main Way
+  city: San Antonio
+  state: MA

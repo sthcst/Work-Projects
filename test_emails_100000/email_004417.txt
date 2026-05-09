@@ -1,0 +1,14 @@
+INVOICE 138889
+
+Bill To:
+Name: Rachel Perez
+Email: rachel.perez7690@work.org
+Phone: 648 807 1222
+SSN: 669-49-1108
+
+Address: 5544 Cedar Ave
+Austin, NC
+
+Date of Birth: 12/05/1951
+
+Amount Due: $9698

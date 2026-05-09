@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Bell,jeffrey.bell1237@yahoo.com,676-852-8393,476 02 2968,08-16-1969,"8832 South Court",San Antonio,NY

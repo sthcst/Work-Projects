@@ -1,0 +1,14 @@
+INVOICE 800827
+
+Bill To:
+Name: Ashley Brown
+Email: ashley.brown2939@business.net
+Phone: 397-457-3651
+SSN: 551-85-7558
+
+Address: 7027 Oak Blvd
+Jacksonville, DC
+
+Date of Birth: 06/12/1973
+
+Amount Due: $328

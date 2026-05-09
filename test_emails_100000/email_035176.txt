@@ -1,0 +1,9 @@
+contact:
+  name: Maria Hernandez
+  email: maria.hernandez8010@business.net
+  phone: 796 258 5418
+  ssn: 201 30 3221
+  dob: 03/15/1991
+  address: 8613 Birch Rd
+  city: Phoenix
+  state: IL

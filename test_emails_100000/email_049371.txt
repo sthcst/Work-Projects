@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Nunez,steven.nunez7432@example.com,242 353 5899,002988778,10-10-1983,"4906 Fourth Ln",San Jose,OH

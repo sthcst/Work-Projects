@@ -1,0 +1,9 @@
+contact:
+  name: Jane Miller
+  email: jane.miller9830@example.com
+  phone: 508-323-1251
+  ssn: 221 80 8349
+  dob: 2/28/1986
+  address: 7569 Birch Ln
+  city: Philadelphia
+  state: CA

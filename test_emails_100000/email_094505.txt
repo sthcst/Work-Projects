@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Gonzalez
+  email: rebecca.gonzalez1940@mail.com
+  phone: +1 985-370-7075
+  ssn: 897062519
+  dob: 09-09-1968
+  address: 3460 Third Rd
+  city: Philadelphia
+  state: TX

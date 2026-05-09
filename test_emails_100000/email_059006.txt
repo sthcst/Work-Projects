@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Williams
+  email: daniel.williams4309@company.com
+  phone: 508 458 8124
+  ssn: 302 96 6892
+  dob: 02-07-1967
+  address: 6772 Third Ln
+  city: Phoenix
+  state: TX

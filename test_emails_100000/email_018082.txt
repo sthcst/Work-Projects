@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Flores",
+    "email": "gary.flores4600@example.com",
+    "phone": "+1 638-273-7177",
+    "ssn": "354 60 4107",
+    "dob": "27/04/1951",
+    "address": "2912 Elm St",
+    "city": "San Jose",
+    "state": "FL"
+  }
+}

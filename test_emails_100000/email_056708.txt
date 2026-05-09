@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Jimenez
+  email: nicholas.jimenez7690@mail.com
+  phone: (860) 248-4941
+  ssn: 492325167
+  dob: 13/04/2002
+  address: 3789 North Court
+  city: San Antonio
+  state: TX

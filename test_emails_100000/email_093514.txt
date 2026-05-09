@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Collins",
+    "email": "stephanie.collins4008@company.com",
+    "phone": "908 456 1601",
+    "ssn": "453 24 7967",
+    "dob": "08/18/1986",
+    "address": "2372 Birch Court",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

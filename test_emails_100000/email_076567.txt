@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Jones,angela.jones1942@mail.com,+1 720-838-2528,879-33-1639,12/20/1972,"9560 Spring Blvd",Denver,NJ

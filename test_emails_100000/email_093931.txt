@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Murillo",
+    "email": "kenneth.murillo9301@yahoo.com",
+    "phone": "+1 604-270-8864",
+    "ssn": "412 60 3857",
+    "dob": "01/20/1960",
+    "address": "4432 First Rd",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

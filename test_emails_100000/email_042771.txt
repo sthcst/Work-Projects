@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Alvarado",
+    "email": "anthony.alvarado8220@company.com",
+    "phone": "798 973 8786",
+    "ssn": "020-06-4432",
+    "dob": "1/13/1991",
+    "address": "1075 Elm St",
+    "city": "Phoenix",
+    "state": "AZ"
+  }
+}

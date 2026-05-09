@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Carter",
+    "email": "maria.carter5148@gmail.com",
+    "phone": "484 660 1328",
+    "ssn": "831265502",
+    "dob": "01-26-1985",
+    "address": "7951 North Blvd",
+    "city": "New York",
+    "state": "WA"
+  }
+}

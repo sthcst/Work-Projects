@@ -1,0 +1,9 @@
+contact:
+  name: Richard Walker
+  email: richard.walker179@company.com
+  phone: (385) 753-3250
+  ssn: 172264148
+  dob: 12/6/1989
+  address: 1316 Summer Ln
+  city: Dallas
+  state: AZ

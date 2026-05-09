@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Collins",
+    "email": "andrew.collins967@business.net",
+    "phone": "(264) 824-1672",
+    "ssn": "537-08-4736",
+    "dob": "12/21/1983",
+    "address": "131 Birch Court",
+    "city": "Boston",
+    "state": "WI"
+  }
+}

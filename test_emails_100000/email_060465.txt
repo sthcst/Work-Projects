@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Reed
+  email: brenda.reed9092@example.com
+  phone: 522-832-1340
+  ssn: 644774920
+  dob: 1/17/1973
+  address: 6575 Pine Way
+  city: Austin
+  state: CA

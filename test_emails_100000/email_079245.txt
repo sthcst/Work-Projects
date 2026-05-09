@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Flores",
+    "email": "ronald.flores2896@work.org",
+    "phone": "748-294-9229",
+    "ssn": "636-73-3832",
+    "dob": "10/25/1994",
+    "address": "7129 Fourth Ave",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

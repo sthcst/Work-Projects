@@ -1,0 +1,9 @@
+contact:
+  name: Edward Nunez
+  email: edward.nunez3760@outlook.com
+  phone: 815 321 6136
+  ssn: 208227414
+  dob: 11-18-1987
+  address: 4493 Cedar Rd
+  city: Dallas
+  state: MA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Wilson",
+    "email": "stephanie.wilson5897@outlook.com",
+    "phone": "756-491-7529",
+    "ssn": "976846954",
+    "dob": "7/23/1973",
+    "address": "2163 Park Court",
+    "city": "San Antonio",
+    "state": "IL"
+  }
+}

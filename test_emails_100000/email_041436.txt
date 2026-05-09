@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Sanchez,daniel.sanchez1294@mail.com,675-314-3837,942-29-7328,10/11/1972,"7567 South Way",Los Angeles,CA

@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Serrano
+  email: anthony.serrano3724@example.com
+  phone: 384 336 7453
+  ssn: 003821314
+  dob: 12/15/2002
+  address: 1564 West Ln
+  city: Dallas
+  state: CA

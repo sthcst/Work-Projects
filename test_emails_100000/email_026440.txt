@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Reeves",
+    "email": "gary.reeves8336@outlook.com",
+    "phone": "+1 535-360-3187",
+    "ssn": "421 95 2113",
+    "dob": "06/08/1959",
+    "address": "9113 Park Way",
+    "city": "Dallas",
+    "state": "DC"
+  }
+}

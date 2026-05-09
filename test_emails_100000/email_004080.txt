@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Morris
+  email: jacob.morris9670@outlook.com
+  phone: (559) 281-5661
+  ssn: 046-29-9254
+  dob: 25/10/1995
+  address: 9144 First Blvd
+  city: Chicago
+  state: NJ

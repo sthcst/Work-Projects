@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Wilson
+  email: daniel.wilson984@example.com
+  phone: 577 732 8017
+  ssn: 842928976
+  dob: 17/06/1982
+  address: 4257 Elm Rd
+  city: Phoenix
+  state: VA

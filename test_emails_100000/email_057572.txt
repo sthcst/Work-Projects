@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Phillips,steven.phillips2961@mail.com,+1 727-770-9969,353 50 3702,5/19/1961,"7358 Pine Ave",San Antonio,TX

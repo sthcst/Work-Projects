@@ -1,0 +1,14 @@
+INVOICE 865215
+
+Bill To:
+Name: Jennifer Clark
+Email: jennifer.clark9954@mail.com
+Phone: 956 730 5577
+SSN: 440-35-8466
+
+Address: 2066 Birch Blvd
+Philadelphia, CA
+
+Date of Birth: 5/28/1996
+
+Amount Due: $206

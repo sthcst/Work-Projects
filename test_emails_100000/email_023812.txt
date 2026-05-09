@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Serrano",
+    "email": "john.serrano4351@outlook.com",
+    "phone": "+1 706-534-7937",
+    "ssn": "974 51 8985",
+    "dob": "07-10-1970",
+    "address": "2653 Second Blvd",
+    "city": "Seattle",
+    "state": "NC"
+  }
+}

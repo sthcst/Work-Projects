@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Morgan,kenneth.morgan1197@outlook.com,(584) 654-7680,528 23 5300,4/17/1960,"6944 Fourth Dr",San Diego,DC

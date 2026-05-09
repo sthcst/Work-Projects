@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Flores
+  email: shirley.flores6625@gmail.com
+  phone: +1 720-616-9057
+  ssn: 926 51 5033
+  dob: 07-04-1995
+  address: 1481 Fifth Rd
+  city: Boston
+  state: IL

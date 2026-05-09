@@ -1,0 +1,14 @@
+INVOICE 771647
+
+Bill To:
+Name: Helen Carter
+Email: helen.carter204@example.com
+Phone: +1 288-237-1584
+SSN: 027-83-2819
+
+Address: 3794 South Court
+Houston, FL
+
+Date of Birth: 02/07/1993
+
+Amount Due: $5760

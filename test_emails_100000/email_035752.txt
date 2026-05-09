@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Clark
+  email: ronald.clark339@outlook.com
+  phone: 767 428 2751
+  ssn: 339 39 8014
+  dob: 21/03/1965
+  address: 5793 Oak Ln
+  city: Boston
+  state: CA

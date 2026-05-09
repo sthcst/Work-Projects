@@ -1,0 +1,9 @@
+contact:
+  name: Gary Walker
+  email: gary.walker4860@work.org
+  phone: (310) 676-8861
+  ssn: 580-96-5834
+  dob: 02/11/1954
+  address: 6666 Oak Way
+  city: Houston
+  state: CA

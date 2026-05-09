@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Reed
+  email: jessica.reed611@company.com
+  phone: 433 461 9572
+  ssn: 181 49 9590
+  dob: 11/04/1970
+  address: 9476 Third Ave
+  city: Houston
+  state: WI

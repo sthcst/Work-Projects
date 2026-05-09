@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Perez,nicholas.perez6677@company.com,704 317 9537,565-75-1091,22/08/1956,"419 Maple Rd",New York,VA

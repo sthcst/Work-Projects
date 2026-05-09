@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Garcia,katherine.garcia1832@company.com,+1 345-314-3503,916-39-9419,6/21/1987,"7030 Pine Blvd",San Antonio,TX

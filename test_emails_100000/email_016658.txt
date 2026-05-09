@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Lopez",
+    "email": "emily.lopez2415@gmail.com",
+    "phone": "721-787-8125",
+    "ssn": "808-34-8618",
+    "dob": "02-20-1966",
+    "address": "2124 East Ave",
+    "city": "New York",
+    "state": "IL"
+  }
+}

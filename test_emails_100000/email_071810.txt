@@ -1,0 +1,14 @@
+INVOICE 371925
+
+Bill To:
+Name: Anna Garcia
+Email: anna.garcia6095@example.com
+Phone: +1 697-703-5043
+SSN: 264 41 7857
+
+Address: 2480 East Rd
+Washington, DC
+
+Date of Birth: 11/21/2005
+
+Amount Due: $6890

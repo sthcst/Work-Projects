@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Edwards
+  email: stephanie.edwards1531@business.net
+  phone: 616-359-5045
+  ssn: 939 74 3154
+  dob: 20/10/1994
+  address: 6066 South Rd
+  city: Boston
+  state: MI

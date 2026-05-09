@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily White",
+    "email": "emily.white2174@company.com",
+    "phone": "+1 796-496-1602",
+    "ssn": "969 99 4108",
+    "dob": "5/26/1996",
+    "address": "9311 Oak St",
+    "city": "San Diego",
+    "state": "OH"
+  }
+}

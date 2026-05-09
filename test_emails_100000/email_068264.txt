@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Collins,emily.collins5285@yahoo.com,(899) 824-1266,409-06-5776,10/17/1968,"9870 North St",Houston,FL

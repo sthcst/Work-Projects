@@ -1,0 +1,9 @@
+contact:
+  name: Anna Gonzalez
+  email: anna.gonzalez717@work.org
+  phone: (725) 582-2031
+  ssn: 325285729
+  dob: 12/04/1977
+  address: 9716 Summer Ave
+  city: Jacksonville
+  state: CA

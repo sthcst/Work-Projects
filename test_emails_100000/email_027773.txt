@@ -1,0 +1,14 @@
+INVOICE 581650
+
+Bill To:
+Name: James Perez
+Email: james.perez1906@outlook.com
+Phone: 336-515-3028
+SSN: 252369138
+
+Address: 9085 Birch St
+Seattle, MO
+
+Date of Birth: 11-16-2005
+
+Amount Due: $4526

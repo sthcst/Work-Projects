@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Nelson",
+    "email": "brenda.nelson5158@yahoo.com",
+    "phone": "(617) 683-6656",
+    "ssn": "218 77 1352",
+    "dob": "01/21/1955",
+    "address": "4170 Birch Ave",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

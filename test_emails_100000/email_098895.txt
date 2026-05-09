@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Nunez",
+    "email": "amanda.nunez9609@example.com",
+    "phone": "(404) 889-4619",
+    "ssn": "412-61-7669",
+    "dob": "11-06-1954",
+    "address": "7094 Summer Blvd",
+    "city": "Los Angeles",
+    "state": "PA"
+  }
+}

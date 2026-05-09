@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher White",
+    "email": "christopher.white9488@mail.com",
+    "phone": "(248) 548-5079",
+    "ssn": "052-34-2174",
+    "dob": "21/07/1977",
+    "address": "8578 Oak St",
+    "city": "Austin",
+    "state": "MO"
+  }
+}

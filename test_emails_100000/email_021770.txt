@@ -1,0 +1,14 @@
+INVOICE 995358
+
+Bill To:
+Name: Edward Alvarado
+Email: edward.alvarado1896@gmail.com
+Phone: 307-204-1356
+SSN: 282 05 3600
+
+Address: 4541 Cedar Ln
+Washington, NY
+
+Date of Birth: 8/12/1987
+
+Amount Due: $3316

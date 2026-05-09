@@ -1,0 +1,14 @@
+INVOICE 978760
+
+Bill To:
+Name: Brian Jimenez
+Email: brian.jimenez3773@work.org
+Phone: 236-327-7674
+SSN: 004 25 9257
+
+Address: 4300 Cedar Ln
+Philadelphia, NY
+
+Date of Birth: 23/05/1989
+
+Amount Due: $3342

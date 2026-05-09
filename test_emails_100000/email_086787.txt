@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Perez",
+    "email": "cynthia.perez6574@outlook.com",
+    "phone": "343 986 9708",
+    "ssn": "571-75-3811",
+    "dob": "9/8/1979",
+    "address": "3028 Birch Blvd",
+    "city": "Philadelphia",
+    "state": "CA"
+  }
+}

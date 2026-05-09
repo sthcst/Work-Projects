@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Ramirez,joshua.ramirez5183@gmail.com,+1 656-211-4754,665 30 7279,03/12/1986,"2500 South Court",Philadelphia,MO

@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Lopez
+  email: lauren.lopez8220@gmail.com
+  phone: 803-396-2985
+  ssn: 802804397
+  dob: 06-04-1981
+  address: 7600 Birch Way
+  city: Jacksonville
+  state: TN

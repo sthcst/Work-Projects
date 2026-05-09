@@ -1,0 +1,9 @@
+contact:
+  name: Edward Evans
+  email: edward.evans8869@business.net
+  phone: 797 722 5138
+  ssn: 992-63-3799
+  dob: 01/01/1986
+  address: 7943 West Way
+  city: Houston
+  state: CA

@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Reyes
+  email: kathleen.reyes5894@outlook.com
+  phone: 571-507-9568
+  ssn: 571-68-6934
+  dob: 08-07-1959
+  address: 7600 Sixth Ave
+  city: Denver
+  state: PA

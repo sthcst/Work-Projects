@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Davis",
+    "email": "michelle.davis6105@mail.com",
+    "phone": "+1 969-521-8343",
+    "ssn": "366554160",
+    "dob": "23/01/1999",
+    "address": "4085 Maple Court",
+    "city": "Austin",
+    "state": "PA"
+  }
+}

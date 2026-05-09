@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Parker,nicole.parker5193@example.com,(368) 708-3979,397 77 4124,02-01-1959,"5252 Cedar St",San Antonio,TX

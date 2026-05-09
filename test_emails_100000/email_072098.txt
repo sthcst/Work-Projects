@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Phillips",
+    "email": "nicole.phillips257@gmail.com",
+    "phone": "(733) 821-4570",
+    "ssn": "949-52-9871",
+    "dob": "04/12/1964",
+    "address": "4088 Park Dr",
+    "city": "Houston",
+    "state": "MI"
+  }
+}

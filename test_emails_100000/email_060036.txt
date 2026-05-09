@@ -1,0 +1,14 @@
+INVOICE 380154
+
+Bill To:
+Name: Kenneth Garcia
+Email: kenneth.garcia5805@business.net
+Phone: (666) 908-1491
+SSN: 737733004
+
+Address: 7411 Park Ln
+Washington, TX
+
+Date of Birth: 1/12/1967
+
+Amount Due: $7627

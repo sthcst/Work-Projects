@@ -1,0 +1,14 @@
+INVOICE 244503
+
+Bill To:
+Name: Anthony White
+Email: anthony.white1492@company.com
+Phone: (371) 255-7813
+SSN: 336-34-1000
+
+Address: 5522 Sixth Ln
+San Diego, MA
+
+Date of Birth: 05/23/1972
+
+Amount Due: $4417

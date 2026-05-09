@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Brown",
+    "email": "ashley.brown199@outlook.com",
+    "phone": "743 474 4097",
+    "ssn": "238622737",
+    "dob": "07/23/1966",
+    "address": "6287 Birch St",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

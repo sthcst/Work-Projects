@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Flores",
+    "email": "katherine.flores4307@business.net",
+    "phone": "+1 667-703-2223",
+    "ssn": "997496121",
+    "dob": "09-15-1980",
+    "address": "2353 West Blvd",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

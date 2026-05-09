@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Thomas",
+    "email": "angela.thomas7492@outlook.com",
+    "phone": "708 610 5963",
+    "ssn": "289 55 7438",
+    "dob": "10/18/1968",
+    "address": "6981 Spring Rd",
+    "city": "Chicago",
+    "state": "MO"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Hernandez,sarah.hernandez2467@company.com,474-995-1368,681 45 8361,01/25/1990,"4270 Elm Ave",San Jose,TX

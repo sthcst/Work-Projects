@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Walker",
+    "email": "katherine.walker9719@business.net",
+    "phone": "746-350-5998",
+    "ssn": "701-80-8990",
+    "dob": "08/11/1971",
+    "address": "8824 Third Way",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Serrano",
+    "email": "donald.serrano2877@company.com",
+    "phone": "856-840-4502",
+    "ssn": "999 84 4584",
+    "dob": "03/12/1962",
+    "address": "1308 Cedar Blvd",
+    "city": "San Antonio",
+    "state": "PA"
+  }
+}

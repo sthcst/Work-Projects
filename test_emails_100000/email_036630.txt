@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Miller",
+    "email": "lauren.miller2468@yahoo.com",
+    "phone": "+1 881-457-1250",
+    "ssn": "422 96 7591",
+    "dob": "20/09/1991",
+    "address": "930 Summer Dr",
+    "city": "Dallas",
+    "state": "PA"
+  }
+}

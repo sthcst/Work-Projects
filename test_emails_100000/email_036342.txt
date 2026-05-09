@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Young",
+    "email": "christine.young6618@business.net",
+    "phone": "+1 321-754-4147",
+    "ssn": "733-22-9318",
+    "dob": "28/04/1952",
+    "address": "2621 Main Way",
+    "city": "Austin",
+    "state": "OH"
+  }
+}

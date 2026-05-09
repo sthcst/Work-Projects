@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Jimenez",
+    "email": "paul.jimenez2568@mail.com",
+    "phone": "860 855 7896",
+    "ssn": "472 53 3153",
+    "dob": "08-20-1994",
+    "address": "3654 Oak Blvd",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

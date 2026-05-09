@@ -1,0 +1,9 @@
+contact:
+  name: Jessica White
+  email: jessica.white1155@work.org
+  phone: (249) 756-7336
+  ssn: 458-10-5766
+  dob: 15/07/1967
+  address: 3056 Third St
+  city: New York
+  state: FL

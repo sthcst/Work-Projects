@@ -1,0 +1,9 @@
+contact:
+  name: Robert Gomez
+  email: robert.gomez4906@outlook.com
+  phone: 313 323 6447
+  ssn: 216-27-9132
+  dob: 27/06/1998
+  address: 5822 Fourth Dr
+  city: Dallas
+  state: FL

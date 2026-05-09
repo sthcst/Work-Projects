@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Miller",
+    "email": "steven.miller8928@work.org",
+    "phone": "555-760-8216",
+    "ssn": "905-52-5386",
+    "dob": "1/17/1952",
+    "address": "8945 Fourth Blvd",
+    "city": "Dallas",
+    "state": "FL"
+  }
+}

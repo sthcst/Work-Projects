@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Guerrero,donald.guerrero4359@yahoo.com,+1 373-532-3903,243928480,08/16/1963,"2206 Spring Ave",New York,TX

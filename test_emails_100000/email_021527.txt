@@ -1,0 +1,14 @@
+INVOICE 512763
+
+Bill To:
+Name: Jessica Sanchez
+Email: jessica.sanchez7039@work.org
+Phone: +1 995-300-2655
+SSN: 856-37-7650
+
+Address: 6781 Summer Dr
+Los Angeles, MA
+
+Date of Birth: 12-12-1970
+
+Amount Due: $4605

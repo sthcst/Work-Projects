@@ -1,0 +1,9 @@
+contact:
+  name: Mark Campbell
+  email: mark.campbell4298@company.com
+  phone: +1 568-950-8021
+  ssn: 336 60 2573
+  dob: 12/24/2005
+  address: 3970 Cedar Court
+  city: Washington
+  state: MO

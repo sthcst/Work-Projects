@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Gonzalez",
+    "email": "ronald.gonzalez8371@yahoo.com",
+    "phone": "(829) 522-7493",
+    "ssn": "891305198",
+    "dob": "01-14-1962",
+    "address": "9535 Sixth Ave",
+    "city": "San Diego",
+    "state": "WA"
+  }
+}

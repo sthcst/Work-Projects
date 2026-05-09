@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Morris,brian.morris4853@work.org,+1 758-867-8864,616 12 8394,10/03/1952,"5495 Second Dr",Denver,DC

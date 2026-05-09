@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Clark,jane.clark3132@example.com,367 997 3036,423094264,22/04/1970,"6221 First St",Austin,TX

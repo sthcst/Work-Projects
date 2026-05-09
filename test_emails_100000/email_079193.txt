@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Thompson
+  email: pamela.thompson6489@yahoo.com
+  phone: 260-706-8294
+  ssn: 145516239
+  dob: 11/08/1990
+  address: 611 North St
+  city: Dallas
+  state: VA

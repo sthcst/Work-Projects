@@ -1,0 +1,14 @@
+INVOICE 525551
+
+Bill To:
+Name: Christine Guerrero
+Email: christine.guerrero1822@example.com
+Phone: 804 638 1445
+SSN: 715-63-9606
+
+Address: 3345 East St
+Seattle, TX
+
+Date of Birth: 2/7/1960
+
+Amount Due: $7200

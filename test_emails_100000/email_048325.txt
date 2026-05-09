@@ -1,0 +1,14 @@
+INVOICE 420361
+
+Bill To:
+Name: Jason Brown
+Email: jason.brown5327@outlook.com
+Phone: 374-946-3080
+SSN: 395-16-8111
+
+Address: 2020 Sixth Ave
+San Diego, FL
+
+Date of Birth: 28/07/1965
+
+Amount Due: $4460

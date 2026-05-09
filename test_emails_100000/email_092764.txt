@@ -1,0 +1,9 @@
+contact:
+  name: Charles Stewart
+  email: charles.stewart2166@work.org
+  phone: 577 236 6968
+  ssn: 653-92-8153
+  dob: 03-13-1985
+  address: 4705 Park Way
+  city: Los Angeles
+  state: OH

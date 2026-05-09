@@ -1,0 +1,14 @@
+INVOICE 901790
+
+Bill To:
+Name: Charles Perez
+Email: charles.perez3581@business.net
+Phone: (960) 604-9318
+SSN: 455-47-4520
+
+Address: 6464 Third Way
+Philadelphia, OH
+
+Date of Birth: 07/09/1950
+
+Amount Due: $1338

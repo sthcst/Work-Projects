@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Roberts",
+    "email": "ryan.roberts532@mail.com",
+    "phone": "447 253 6667",
+    "ssn": "931-71-2133",
+    "dob": "02/10/1958",
+    "address": "6553 Summer Way",
+    "city": "Jacksonville",
+    "state": "AZ"
+  }
+}

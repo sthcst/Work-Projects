@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Ramirez,brenda.ramirez9645@yahoo.com,696-558-7360,649649882,04/01/1973,"7430 Oak St",Houston,DC

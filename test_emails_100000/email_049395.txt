@@ -1,0 +1,14 @@
+INVOICE 165920
+
+Bill To:
+Name: Deborah Davis
+Email: deborah.davis2258@example.com
+Phone: (322) 402-9333
+SSN: 065 22 1897
+
+Address: 6329 Maple Ln
+San Diego, WI
+
+Date of Birth: 7/25/2000
+
+Amount Due: $7251

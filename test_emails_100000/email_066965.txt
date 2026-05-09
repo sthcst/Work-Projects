@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Ramirez
+  email: ronald.ramirez7410@company.com
+  phone: (301) 457-5039
+  ssn: 416686638
+  dob: 07/03/1954
+  address: 3892 Fifth Blvd
+  city: San Antonio
+  state: TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Bell,richard.bell1026@mail.com,+1 923-759-5152,283-94-8194,16/09/1956,"9710 Elm Ave",Philadelphia,FL

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Young,sarah.young9362@mail.com,(207) 365-2561,086-91-4088,2/23/1952,"6266 Main Ln",San Antonio,MD

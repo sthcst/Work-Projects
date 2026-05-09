@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Garcia,james.garcia8984@outlook.com,(839) 922-1218,717823751,09-20-1970,"3899 West Rd",Boston,FL

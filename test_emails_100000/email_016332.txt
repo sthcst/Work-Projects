@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Harris,christopher.harris5949@work.org,(459) 860-6235,052 32 4876,01/04/2003,"5358 Pine Dr",San Jose,MA

@@ -1,0 +1,14 @@
+INVOICE 981643
+
+Bill To:
+Name: Joshua Peterson
+Email: joshua.peterson2920@mail.com
+Phone: 937 300 7268
+SSN: 137-31-3134
+
+Address: 3335 South Ave
+San Jose, WA
+
+Date of Birth: 3/24/1969
+
+Amount Due: $2389

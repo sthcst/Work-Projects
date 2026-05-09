@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Nelson,anna.nelson1750@example.com,+1 576-216-4401,089-24-9005,06/17/1977,"421 Oak Ave",Los Angeles,FL

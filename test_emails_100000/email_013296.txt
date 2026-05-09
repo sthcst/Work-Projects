@@ -1,0 +1,9 @@
+contact:
+  name: Ryan White
+  email: ryan.white5850@work.org
+  phone: 761 807 9138
+  ssn: 475 99 6005
+  dob: 06/03/1990
+  address: 3448 Pine Way
+  city: San Jose
+  state: FL

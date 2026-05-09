@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Miller
+  email: shirley.miller2850@gmail.com
+  phone: 475 818 3951
+  ssn: 824 63 3870
+  dob: 06-22-1987
+  address: 1470 West Court
+  city: San Jose
+  state: CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Lee",
+    "email": "paul.lee6373@yahoo.com",
+    "phone": "(917) 202-3679",
+    "ssn": "841-21-7520",
+    "dob": "05-01-1975",
+    "address": "5559 Summer Rd",
+    "city": "San Jose",
+    "state": "CA"
+  }
+}

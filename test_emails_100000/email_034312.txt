@@ -1,0 +1,9 @@
+contact:
+  name: Edward Rogers
+  email: edward.rogers3579@gmail.com
+  phone: 822-708-8666
+  ssn: 902241038
+  dob: 09/25/1958
+  address: 7818 Fourth Rd
+  city: Jacksonville
+  state: MD

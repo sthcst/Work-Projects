@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Guerrero,sarah.guerrero8758@company.com,+1 842-924-1084,153428600,01-10-1954,"7757 Spring Ave",Houston,MI

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Gomez,joseph.gomez1310@yahoo.com,364-682-9709,433-02-7051,07/04/1978,"4646 Elm Rd",Denver,FL

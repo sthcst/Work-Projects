@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Davis
+  email: stephanie.davis3605@company.com
+  phone: 773 858 9433
+  ssn: 352575235
+  dob: 5/4/2001
+  address: 4185 Fifth Ave
+  city: New York
+  state: CO

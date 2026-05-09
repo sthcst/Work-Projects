@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Moore
+  email: stephanie.moore2210@outlook.com
+  phone: (290) 265-7828
+  ssn: 876-86-2644
+  dob: 16/11/2005
+  address: 7742 Third St
+  city: Phoenix
+  state: FL

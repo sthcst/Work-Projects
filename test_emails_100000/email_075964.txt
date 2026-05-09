@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Delgado,jane.delgado3866@example.com,462 981 2094,790-21-8839,8/27/1956,"8847 West Court",Dallas,TX

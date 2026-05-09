@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Miller
+  email: stephanie.miller388@yahoo.com
+  phone: 236 746 8768
+  ssn: 734-52-6770
+  dob: 7/15/2005
+  address: 7351 Second Court
+  city: Denver
+  state: MA

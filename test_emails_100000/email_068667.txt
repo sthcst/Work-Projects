@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Williams
+  email: ronald.williams3617@yahoo.com
+  phone: 568-239-7853
+  ssn: 250-44-8700
+  dob: 22/06/1988
+  address: 718 Summer Dr
+  city: New York
+  state: OH

@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Perez
+  email: nicholas.perez4042@business.net
+  phone: 935-562-7032
+  ssn: 174676276
+  dob: 10-23-2005
+  address: 7496 North Court
+  city: Denver
+  state: TX

@@ -1,0 +1,9 @@
+contact:
+  name: George Flores
+  email: george.flores245@example.com
+  phone: 602 887 8995
+  ssn: 807798486
+  dob: 11/2/1957
+  address: 2863 Maple Ln
+  city: San Diego
+  state: VA

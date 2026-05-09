@@ -1,0 +1,14 @@
+INVOICE 850181
+
+Bill To:
+Name: James Flores
+Email: james.flores1161@outlook.com
+Phone: +1 741-239-3958
+SSN: 571-11-2143
+
+Address: 3854 Birch Court
+Seattle, TX
+
+Date of Birth: 1/8/1997
+
+Amount Due: $350

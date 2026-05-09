@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Rodriguez,ryan.rodriguez4911@mail.com,(464) 624-7363,915472538,08-26-1973,"843 Fifth Dr",Austin,WA

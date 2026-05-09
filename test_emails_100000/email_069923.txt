@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Anderson,nicole.anderson1406@gmail.com,(457) 927-8425,968 66 4273,3/12/1992,"795 Spring St",Boston,AZ

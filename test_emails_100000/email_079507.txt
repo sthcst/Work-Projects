@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Johnson,gary.johnson5246@work.org,230-425-1836,717-41-3826,01/02/1997,"4580 Birch Court",Jacksonville,MA

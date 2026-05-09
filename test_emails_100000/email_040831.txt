@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Jones",
+    "email": "nicole.jones2991@gmail.com",
+    "phone": "331 894 9422",
+    "ssn": "609-81-7885",
+    "dob": "03-05-1982",
+    "address": "9687 West Rd",
+    "city": "Phoenix",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: William Gonzalez
+  email: william.gonzalez8255@business.net
+  phone: +1 762-664-3298
+  ssn: 947 23 5162
+  dob: 10/14/1967
+  address: 7121 Maple Blvd
+  city: New York
+  state: TN

@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Miller
+  email: deborah.miller4549@yahoo.com
+  phone: (587) 551-6735
+  ssn: 451-86-1673
+  dob: 04/21/1962
+  address: 3071 Fourth St
+  city: Denver
+  state: CA

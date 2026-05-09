@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Morris
+  email: joshua.morris1618@mail.com
+  phone: (436) 300-4167
+  ssn: 928 80 5676
+  dob: 05/09/1978
+  address: 2393 Elm Blvd
+  city: Dallas
+  state: FL

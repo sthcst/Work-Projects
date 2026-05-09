@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Wilson,jessica.wilson2842@example.com,+1 583-632-9479,323719587,11-04-1977,"3998 Cedar Court",Los Angeles,AZ

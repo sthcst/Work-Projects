@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Cooper,lisa.cooper1080@business.net,(391) 263-4493,425 77 4502,06/07/2004,"955 First Ln",Jacksonville,OH

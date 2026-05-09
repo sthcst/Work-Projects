@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Campbell,richard.campbell8261@example.com,216 897 8613,268 97 2793,14/07/1998,"8728 Main Court",Houston,VA

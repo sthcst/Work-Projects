@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Martin
+  email: sarah.martin2426@outlook.com
+  phone: 755 746 9788
+  ssn: 075-97-3683
+  dob: 05-01-1971
+  address: 8800 Elm Court
+  city: Philadelphia
+  state: CA

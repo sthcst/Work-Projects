@@ -1,0 +1,14 @@
+INVOICE 993112
+
+Bill To:
+Name: Brian Alvarado
+Email: brian.alvarado9177@yahoo.com
+Phone: 322 773 7421
+SSN: 193-52-1055
+
+Address: 8277 Oak Blvd
+San Diego, CO
+
+Date of Birth: 1/28/1981
+
+Amount Due: $4842

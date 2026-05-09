@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Rogers
+  email: ashley.rogers3404@company.com
+  phone: 203-950-4620
+  ssn: 605 41 4860
+  dob: 03-13-1994
+  address: 4251 Maple St
+  city: Houston
+  state: VA

@@ -1,0 +1,14 @@
+INVOICE 624123
+
+Bill To:
+Name: Kevin Williams
+Email: kevin.williams7239@company.com
+Phone: 255 743 8919
+SSN: 966 07 6990
+
+Address: 5799 Fifth Dr
+Boston, IL
+
+Date of Birth: 02/27/1965
+
+Amount Due: $5942

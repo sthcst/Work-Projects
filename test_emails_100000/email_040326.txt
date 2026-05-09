@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Romero,michelle.romero3450@gmail.com,632-996-7301,455-18-5321,03/01/1969,"4079 Summer Ave",San Jose,CA

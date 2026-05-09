@@ -1,0 +1,14 @@
+INVOICE 859618
+
+Bill To:
+Name: David Delgado
+Email: david.delgado439@gmail.com
+Phone: +1 408-681-8243
+SSN: 933-55-8570
+
+Address: 2980 Fourth Ln
+Denver, AZ
+
+Date of Birth: 06/25/1967
+
+Amount Due: $6741

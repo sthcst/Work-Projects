@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Wilson,katherine.wilson1395@business.net,(556) 914-1104,598929682,04/19/1995,"7277 Cedar Court",Washington,TX

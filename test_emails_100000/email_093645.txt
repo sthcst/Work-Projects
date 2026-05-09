@@ -1,0 +1,9 @@
+contact:
+  name: Gary Campbell
+  email: gary.campbell111@gmail.com
+  phone: +1 930-991-2378
+  ssn: 949 48 8894
+  dob: 6/23/1967
+  address: 1710 North Court
+  city: Phoenix
+  state: MI

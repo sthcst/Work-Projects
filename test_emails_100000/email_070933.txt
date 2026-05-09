@@ -1,0 +1,9 @@
+contact:
+  name: Helen Cooper
+  email: helen.cooper5002@gmail.com
+  phone: 240 564 5836
+  ssn: 059-73-2608
+  dob: 26/05/1950
+  address: 7808 Main Blvd
+  city: Austin
+  state: IL

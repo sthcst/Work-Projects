@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Rogers",
+    "email": "david.rogers9218@outlook.com",
+    "phone": "(440) 905-7060",
+    "ssn": "244-71-6547",
+    "dob": "06/26/1980",
+    "address": "6276 Park Ln",
+    "city": "New York",
+    "state": "VA"
+  }
+}

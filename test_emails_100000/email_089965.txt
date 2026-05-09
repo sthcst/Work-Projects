@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Miller",
+    "email": "donald.miller4947@company.com",
+    "phone": "(220) 843-4970",
+    "ssn": "916-20-4325",
+    "dob": "6/23/1980",
+    "address": "2327 East Ave",
+    "city": "New York",
+    "state": "TX"
+  }
+}

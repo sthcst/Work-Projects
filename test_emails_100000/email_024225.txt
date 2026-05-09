@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Ortiz",
+    "email": "steven.ortiz9633@example.com",
+    "phone": "989-274-8367",
+    "ssn": "145821616",
+    "dob": "19/11/1957",
+    "address": "499 Park Ave",
+    "city": "San Diego",
+    "state": "MI"
+  }
+}

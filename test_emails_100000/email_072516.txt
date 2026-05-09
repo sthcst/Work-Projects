@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Alvarado
+  email: joshua.alvarado8624@work.org
+  phone: 998 708 6941
+  ssn: 524921653
+  dob: 21/12/1969
+  address: 619 Fifth Court
+  city: Boston
+  state: TX

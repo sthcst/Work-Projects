@@ -1,0 +1,9 @@
+contact:
+  name: Anna Alvarado
+  email: anna.alvarado1500@gmail.com
+  phone: 672 949 8549
+  ssn: 477093709
+  dob: 8/4/1984
+  address: 2710 Fifth Rd
+  city: Seattle
+  state: OH

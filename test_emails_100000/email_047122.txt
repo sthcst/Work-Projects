@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Delgado,rebecca.delgado5746@gmail.com,762-901-6050,043171117,18/10/1999,"2585 North Rd",New York,MA

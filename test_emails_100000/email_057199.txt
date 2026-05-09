@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Lopez,helen.lopez3377@company.com,531-662-6533,325513814,09-04-1985,"8841 Pine Way",Houston,CO

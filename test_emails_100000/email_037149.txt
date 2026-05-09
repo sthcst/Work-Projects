@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Johnson
+  email: ryan.johnson1319@mail.com
+  phone: (917) 479-1026
+  ssn: 242292172
+  dob: 11/11/1960
+  address: 466 Fifth Dr
+  city: San Diego
+  state: MA

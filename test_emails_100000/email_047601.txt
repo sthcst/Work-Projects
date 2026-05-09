@@ -1,0 +1,14 @@
+INVOICE 294066
+
+Bill To:
+Name: Joseph Anderson
+Email: joseph.anderson7653@mail.com
+Phone: 216 985 6067
+SSN: 412-70-7804
+
+Address: 8529 Maple Ln
+Washington, FL
+
+Date of Birth: 07/24/1967
+
+Amount Due: $2875

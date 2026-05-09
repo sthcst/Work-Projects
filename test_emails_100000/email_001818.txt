@@ -1,0 +1,14 @@
+INVOICE 692962
+
+Bill To:
+Name: Jane Miller
+Email: jane.miller815@outlook.com
+Phone: 636-936-6735
+SSN: 313 61 4207
+
+Address: 2287 Fifth Dr
+San Antonio, CO
+
+Date of Birth: 09/07/1958
+
+Amount Due: $8631

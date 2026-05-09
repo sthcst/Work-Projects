@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Parker,william.parker3384@work.org,526 582 9935,951-27-2345,04/15/1977,"1820 Oak Dr",Chicago,MI

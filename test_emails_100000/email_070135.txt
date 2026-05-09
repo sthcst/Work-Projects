@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Nelson,robert.nelson6526@gmail.com,+1 589-888-3493,251-44-4621,08-03-1952,"502 Elm St",Dallas,TX

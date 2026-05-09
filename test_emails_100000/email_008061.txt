@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Lopez,amanda.lopez9551@mail.com,948-643-1541,054821727,11-20-1954,"3688 Birch Blvd",Houston,AZ

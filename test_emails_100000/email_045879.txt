@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Lee
+  email: nicholas.lee2248@outlook.com
+  phone: +1 894-204-9842
+  ssn: 653809208
+  dob: 10/19/1973
+  address: 8279 Summer Ave
+  city: Los Angeles
+  state: CA

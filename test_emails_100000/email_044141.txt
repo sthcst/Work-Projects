@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Harris",
+    "email": "robert.harris7076@company.com",
+    "phone": "(959) 394-7032",
+    "ssn": "171 66 5150",
+    "dob": "10/11/1984",
+    "address": "5121 Oak Rd",
+    "city": "San Antonio",
+    "state": "VA"
+  }
+}

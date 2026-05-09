@@ -1,0 +1,14 @@
+INVOICE 424341
+
+Bill To:
+Name: Joseph Thompson
+Email: joseph.thompson331@business.net
+Phone: 367 456 5547
+SSN: 541347563
+
+Address: 142 Fifth Way
+Dallas, NC
+
+Date of Birth: 06/09/1952
+
+Amount Due: $9936

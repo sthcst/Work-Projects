@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Sanchez",
+    "email": "joseph.sanchez8288@work.org",
+    "phone": "923 477 2477",
+    "ssn": "995535941",
+    "dob": "11-08-1952",
+    "address": "3786 Main Ave",
+    "city": "Chicago",
+    "state": "CO"
+  }
+}

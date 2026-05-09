@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Stewart",
+    "email": "timothy.stewart6299@yahoo.com",
+    "phone": "+1 962-463-6293",
+    "ssn": "869-31-8933",
+    "dob": "25/06/1979",
+    "address": "4350 Main Way",
+    "city": "New York",
+    "state": "AZ"
+  }
+}

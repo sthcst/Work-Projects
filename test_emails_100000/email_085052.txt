@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Ortiz",
+    "email": "jacob.ortiz1989@gmail.com",
+    "phone": "671 985 7808",
+    "ssn": "582 64 9113",
+    "dob": "08/23/2004",
+    "address": "1801 Park Ln",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

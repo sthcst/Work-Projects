@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Bell,gary.bell2638@example.com,(873) 549-4304,666944066,02-02-1981,"1825 Fifth Court",Seattle,CA

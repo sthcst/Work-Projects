@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Wilson
+  email: brenda.wilson7642@example.com
+  phone: 527-272-4963
+  ssn: 114679838
+  dob: 08/11/1999
+  address: 5677 West Ave
+  city: Los Angeles
+  state: MD

@@ -1,0 +1,9 @@
+contact:
+  name: William Delgado
+  email: william.delgado3504@yahoo.com
+  phone: 711-879-5641
+  ssn: 187059144
+  dob: 20/08/2003
+  address: 6217 Cedar Blvd
+  city: Los Angeles
+  state: MA

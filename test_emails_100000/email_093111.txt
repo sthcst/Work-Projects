@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Ortiz
+  email: rebecca.ortiz7478@example.com
+  phone: 514-431-3187
+  ssn: 133-70-3421
+  dob: 15/08/2003
+  address: 4326 Cedar Rd
+  city: New York
+  state: NJ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Edwards,samantha.edwards2328@gmail.com,646 208 7995,030-31-2967,12-06-1990,"4127 Fourth Way",Phoenix,CO

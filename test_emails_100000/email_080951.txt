@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Campbell",
+    "email": "katherine.campbell6569@company.com",
+    "phone": "645-506-4045",
+    "ssn": "150-43-6663",
+    "dob": "11/26/1962",
+    "address": "3399 East Blvd",
+    "city": "San Antonio",
+    "state": "DC"
+  }
+}

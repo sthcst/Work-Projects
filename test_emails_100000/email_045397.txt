@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Carter
+  email: jennifer.carter1881@mail.com
+  phone: (754) 249-9404
+  ssn: 059-45-5114
+  dob: 18/11/1984
+  address: 3733 Oak Blvd
+  city: Dallas
+  state: OH

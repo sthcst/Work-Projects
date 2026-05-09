@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Ramirez",
+    "email": "emily.ramirez4933@gmail.com",
+    "phone": "345-276-4904",
+    "ssn": "537686896",
+    "dob": "7/3/1953",
+    "address": "2143 West Court",
+    "city": "Seattle",
+    "state": "FL"
+  }
+}

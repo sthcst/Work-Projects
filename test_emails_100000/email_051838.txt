@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Roberts
+  email: stephanie.roberts7645@mail.com
+  phone: (843) 626-8409
+  ssn: 097148273
+  dob: 25/09/1972
+  address: 6963 North Blvd
+  city: Philadelphia
+  state: CO

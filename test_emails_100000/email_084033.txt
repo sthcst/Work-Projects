@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Carter,james.carter9873@mail.com,(600) 494-2473,380-24-8711,6/14/1967,"7637 Spring Ave",Washington,IL

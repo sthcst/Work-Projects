@@ -1,0 +1,9 @@
+contact:
+  name: William Martin
+  email: william.martin326@company.com
+  phone: (555) 411-6568
+  ssn: 057138984
+  dob: 02/03/1970
+  address: 163 Summer St
+  city: Phoenix
+  state: AZ

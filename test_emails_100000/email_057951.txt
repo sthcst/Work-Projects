@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward White,edward.white1904@gmail.com,(907) 270-7800,576 81 5570,04/24/1974,"3347 Oak Ave",San Antonio,DC

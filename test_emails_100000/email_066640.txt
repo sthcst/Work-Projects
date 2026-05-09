@@ -1,0 +1,9 @@
+contact:
+  name: Angela Johnson
+  email: angela.johnson7230@yahoo.com
+  phone: 264-421-1853
+  ssn: 495-95-3815
+  dob: 11/20/1999
+  address: 5591 Elm Ln
+  city: Austin
+  state: AZ

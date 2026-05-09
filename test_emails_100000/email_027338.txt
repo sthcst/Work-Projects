@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Morris
+  email: deborah.morris5936@mail.com
+  phone: (956) 421-4780
+  ssn: 443-34-2927
+  dob: 03/05/1981
+  address: 263 Spring Ln
+  city: Denver
+  state: GA

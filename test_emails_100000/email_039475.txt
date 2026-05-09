@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Garcia",
+    "email": "michael.garcia740@business.net",
+    "phone": "(636) 808-1624",
+    "ssn": "366 98 9024",
+    "dob": "23/06/1973",
+    "address": "4906 Second Court",
+    "city": "Philadelphia",
+    "state": "WI"
+  }
+}

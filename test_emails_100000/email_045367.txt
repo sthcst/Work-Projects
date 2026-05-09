@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Taylor
+  email: kevin.taylor2704@outlook.com
+  phone: (670) 224-4954
+  ssn: 175476639
+  dob: 07-17-1952
+  address: 4808 Elm Court
+  city: San Jose
+  state: DC

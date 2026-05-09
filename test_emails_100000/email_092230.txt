@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Parker,donald.parker5826@example.com,(974) 215-7025,097 11 1319,08-12-2005,"4559 Maple Rd",Denver,TX

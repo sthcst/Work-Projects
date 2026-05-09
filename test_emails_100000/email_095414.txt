@@ -1,0 +1,9 @@
+contact:
+  name: Charles Guerrero
+  email: charles.guerrero8644@outlook.com
+  phone: 202-413-2637
+  ssn: 755-39-1616
+  dob: 14/09/1964
+  address: 9046 Second St
+  city: Los Angeles
+  state: TX

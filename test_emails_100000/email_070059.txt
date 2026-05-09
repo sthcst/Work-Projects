@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Phillips
+  email: rachel.phillips8727@company.com
+  phone: 611-901-8953
+  ssn: 706-51-9588
+  dob: 8/25/1951
+  address: 777 Third Blvd
+  city: Washington
+  state: TX

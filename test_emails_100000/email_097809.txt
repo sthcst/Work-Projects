@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Gomez,shirley.gomez6858@mail.com,256-668-5024,187405227,09/21/1996,"804 Elm St",Phoenix,DC

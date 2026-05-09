@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Williams",
+    "email": "christine.williams2190@gmail.com",
+    "phone": "(880) 630-7207",
+    "ssn": "380 57 8167",
+    "dob": "12/04/1989",
+    "address": "3218 Second Rd",
+    "city": "New York",
+    "state": "MD"
+  }
+}

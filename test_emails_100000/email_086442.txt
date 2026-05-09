@@ -1,0 +1,14 @@
+INVOICE 528440
+
+Bill To:
+Name: Jeffrey Cooper
+Email: jeffrey.cooper8120@example.com
+Phone: 728 200 4386
+SSN: 877 65 1280
+
+Address: 6506 Elm Way
+Philadelphia, CO
+
+Date of Birth: 11-21-1961
+
+Amount Due: $3013

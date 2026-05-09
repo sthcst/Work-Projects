@@ -1,0 +1,14 @@
+INVOICE 230793
+
+Bill To:
+Name: Andrew Moore
+Email: andrew.moore3942@work.org
+Phone: 502 269 6459
+SSN: 728-20-2914
+
+Address: 479 Fourth Rd
+San Antonio, OH
+
+Date of Birth: 03/03/1984
+
+Amount Due: $1633

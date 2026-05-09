@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Brown
+  email: jennifer.brown4101@outlook.com
+  phone: 669-691-4150
+  ssn: 337699455
+  dob: 05-18-1987
+  address: 5349 Fourth Ave
+  city: Seattle
+  state: MI

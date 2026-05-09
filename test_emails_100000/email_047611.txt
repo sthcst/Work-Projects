@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Nunez",
+    "email": "ryan.nunez3206@business.net",
+    "phone": "927 584 2945",
+    "ssn": "745-05-3942",
+    "dob": "19/10/1973",
+    "address": "4854 Main Dr",
+    "city": "Phoenix",
+    "state": "NY"
+  }
+}

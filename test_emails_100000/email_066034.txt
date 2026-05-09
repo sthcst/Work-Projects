@@ -1,0 +1,9 @@
+contact:
+  name: Richard Delgado
+  email: richard.delgado6657@gmail.com
+  phone: 975-927-2780
+  ssn: 430-01-7146
+  dob: 02-15-1992
+  address: 3447 North Ln
+  city: New York
+  state: CA

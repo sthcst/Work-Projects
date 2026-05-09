@@ -1,0 +1,9 @@
+contact:
+  name: Emma Hall
+  email: emma.hall165@yahoo.com
+  phone: 628 847 2653
+  ssn: 056 95 7958
+  dob: 19/07/1969
+  address: 5448 Park Rd
+  city: Dallas
+  state: AZ

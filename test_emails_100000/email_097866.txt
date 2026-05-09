@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Brown",
+    "email": "richard.brown8054@example.com",
+    "phone": "(476) 652-8562",
+    "ssn": "447624768",
+    "dob": "06/03/1988",
+    "address": "6932 Fourth Dr",
+    "city": "San Antonio",
+    "state": "DC"
+  }
+}

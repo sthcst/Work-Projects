@@ -1,0 +1,14 @@
+INVOICE 911525
+
+Bill To:
+Name: Joshua Nelson
+Email: joshua.nelson5505@company.com
+Phone: 818-259-5271
+SSN: 901892864
+
+Address: 4886 Pine Ave
+Philadelphia, MA
+
+Date of Birth: 7/8/1998
+
+Amount Due: $7327

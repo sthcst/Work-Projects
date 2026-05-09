@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Walker
+  email: joshua.walker2636@gmail.com
+  phone: 633-540-2767
+  ssn: 731649328
+  dob: 08-24-1969
+  address: 8657 East Ave
+  city: Chicago
+  state: CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Roberts,shirley.roberts7219@yahoo.com,627 758 8589,746 37 9502,14/12/1987,"4284 Maple Ave",San Diego,AZ

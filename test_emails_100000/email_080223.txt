@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Ramirez",
+    "email": "edward.ramirez9422@outlook.com",
+    "phone": "+1 409-302-8486",
+    "ssn": "455 22 5834",
+    "dob": "24/11/1952",
+    "address": "7091 Spring St",
+    "city": "Washington",
+    "state": "DC"
+  }
+}

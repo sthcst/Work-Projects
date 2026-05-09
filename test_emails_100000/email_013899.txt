@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Edwards",
+    "email": "samantha.edwards3581@company.com",
+    "phone": "+1 294-656-8325",
+    "ssn": "961-51-1583",
+    "dob": "14/07/1954",
+    "address": "192 Oak Ave",
+    "city": "Boston",
+    "state": "NC"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 684634
+
+Bill To:
+Name: Steven Edwards
+Email: steven.edwards64@example.com
+Phone: +1 638-310-2322
+SSN: 725 30 2173
+
+Address: 6409 Fifth Rd
+Phoenix, CA
+
+Date of Birth: 12-18-1963
+
+Amount Due: $4650

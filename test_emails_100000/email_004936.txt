@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Clark",
+    "email": "samantha.clark5250@outlook.com",
+    "phone": "+1 434-847-5657",
+    "ssn": "206 29 5515",
+    "dob": "11-23-1959",
+    "address": "6090 East St",
+    "city": "San Diego",
+    "state": "AZ"
+  }
+}

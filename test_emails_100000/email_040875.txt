@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Clark
+  email: ronald.clark5442@gmail.com
+  phone: 205 991 5820
+  ssn: 778-23-8965
+  dob: 01/12/1975
+  address: 2522 East St
+  city: San Antonio
+  state: TX

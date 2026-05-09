@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Martin",
+    "email": "ronald.martin1733@yahoo.com",
+    "phone": "(506) 228-8798",
+    "ssn": "505 70 7936",
+    "dob": "07/11/1985",
+    "address": "3866 West Dr",
+    "city": "Austin",
+    "state": "GA"
+  }
+}

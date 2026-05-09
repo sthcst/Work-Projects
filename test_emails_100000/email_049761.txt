@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Ortiz",
+    "email": "william.ortiz3002@outlook.com",
+    "phone": "(821) 559-1616",
+    "ssn": "593991934",
+    "dob": "9/7/2000",
+    "address": "6814 South Blvd",
+    "city": "Jacksonville",
+    "state": "NC"
+  }
+}

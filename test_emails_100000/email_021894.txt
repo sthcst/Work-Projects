@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Murillo,cynthia.murillo8994@mail.com,+1 287-590-6510,958-17-1161,05-22-1977,"6086 First Blvd",Boston,DC

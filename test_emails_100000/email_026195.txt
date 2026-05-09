@@ -1,0 +1,9 @@
+contact:
+  name: Jason Nelson
+  email: jason.nelson4166@outlook.com
+  phone: 261 740 5160
+  ssn: 564 60 5211
+  dob: 22/05/1956
+  address: 5696 Spring Dr
+  city: Jacksonville
+  state: WA

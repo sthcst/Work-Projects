@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Sanchez",
+    "email": "joseph.sanchez6159@mail.com",
+    "phone": "582-685-4724",
+    "ssn": "878-63-9258",
+    "dob": "8/28/1996",
+    "address": "2960 Elm St",
+    "city": "Dallas",
+    "state": "MA"
+  }
+}

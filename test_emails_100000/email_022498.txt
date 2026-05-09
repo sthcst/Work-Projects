@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Delgado
+  email: daniel.delgado6498@gmail.com
+  phone: (555) 789-9731
+  ssn: 969-14-7278
+  dob: 08/11/1994
+  address: 3523 West Way
+  city: Seattle
+  state: MA

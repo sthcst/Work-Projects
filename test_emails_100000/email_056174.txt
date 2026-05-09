@@ -1,0 +1,14 @@
+INVOICE 403011
+
+Bill To:
+Name: Emily Harris
+Email: emily.harris1224@business.net
+Phone: (235) 347-7621
+SSN: 380 81 5421
+
+Address: 413 North Ln
+Seattle, CA
+
+Date of Birth: 05-09-1971
+
+Amount Due: $3972

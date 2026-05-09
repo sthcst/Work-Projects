@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Williams",
+    "email": "timothy.williams7976@example.com",
+    "phone": "804 297 4304",
+    "ssn": "993 51 7900",
+    "dob": "10-11-1974",
+    "address": "4269 West Court",
+    "city": "Houston",
+    "state": "WA"
+  }
+}

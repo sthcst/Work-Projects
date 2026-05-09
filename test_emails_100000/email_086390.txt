@@ -1,0 +1,14 @@
+INVOICE 140896
+
+Bill To:
+Name: Edward Lopez
+Email: edward.lopez1973@mail.com
+Phone: +1 529-777-8189
+SSN: 209-59-5134
+
+Address: 9952 Cedar Way
+San Antonio, NC
+
+Date of Birth: 12-20-1977
+
+Amount Due: $8653

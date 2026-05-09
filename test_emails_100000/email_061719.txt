@@ -1,0 +1,9 @@
+contact:
+  name: Paul Gonzalez
+  email: paul.gonzalez5654@outlook.com
+  phone: +1 810-750-2506
+  ssn: 104-25-1708
+  dob: 10/17/1979
+  address: 2574 Spring Way
+  city: Seattle
+  state: TX

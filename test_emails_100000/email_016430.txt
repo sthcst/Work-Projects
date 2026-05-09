@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Parker",
+    "email": "kimberly.parker358@work.org",
+    "phone": "984 425 1751",
+    "ssn": "538-68-7718",
+    "dob": "18/07/2005",
+    "address": "5496 Maple Blvd",
+    "city": "New York",
+    "state": "OH"
+  }
+}

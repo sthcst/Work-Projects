@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Delgado",
+    "email": "edward.delgado806@business.net",
+    "phone": "(867) 908-1258",
+    "ssn": "472398025",
+    "dob": "2/26/1960",
+    "address": "5300 Oak Ln",
+    "city": "San Diego",
+    "state": "WI"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Davis,sarah.davis8673@work.org,619 608 2337,872 64 6229,2/5/1955,"1688 Main Ave",Austin,CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Serrano,andrew.serrano2144@gmail.com,809 840 5024,225 82 1364,06/02/1962,"6072 Sixth Rd",Seattle,CA

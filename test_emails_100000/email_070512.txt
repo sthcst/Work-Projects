@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Moore
+  email: kevin.moore2673@mail.com
+  phone: (832) 397-8817
+  ssn: 283 24 9874
+  dob: 10/11/1977
+  address: 3506 Second St
+  city: Houston
+  state: WA

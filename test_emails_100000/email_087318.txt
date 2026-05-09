@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Nelson",
+    "email": "michael.nelson7652@gmail.com",
+    "phone": "(801) 924-6190",
+    "ssn": "258 66 5053",
+    "dob": "09/10/1973",
+    "address": "4981 Spring Ave",
+    "city": "Austin",
+    "state": "MO"
+  }
+}

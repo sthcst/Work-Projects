@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Alvarado",
+    "email": "steven.alvarado217@mail.com",
+    "phone": "538-770-8049",
+    "ssn": "908 72 6671",
+    "dob": "02-08-1993",
+    "address": "2605 West Ave",
+    "city": "San Jose",
+    "state": "VA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Alvarado,timothy.alvarado5372@business.net,+1 540-658-6003,418652783,12-25-1976,"6161 Fourth Way",Denver,FL

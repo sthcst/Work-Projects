@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Gomez",
+    "email": "maria.gomez6957@outlook.com",
+    "phone": "+1 750-602-9635",
+    "ssn": "012 75 5875",
+    "dob": "10/28/1997",
+    "address": "7723 Cedar Dr",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

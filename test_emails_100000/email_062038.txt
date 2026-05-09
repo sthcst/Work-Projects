@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Carter",
+    "email": "timothy.carter7560@yahoo.com",
+    "phone": "(620) 936-4742",
+    "ssn": "674-78-2892",
+    "dob": "08/12/1990",
+    "address": "3359 Spring Dr",
+    "city": "Philadelphia",
+    "state": "AZ"
+  }
+}

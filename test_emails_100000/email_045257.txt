@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Roberts",
+    "email": "mark.roberts2938@outlook.com",
+    "phone": "(489) 817-3021",
+    "ssn": "949265101",
+    "dob": "2/25/1983",
+    "address": "6965 Oak Rd",
+    "city": "Jacksonville",
+    "state": "NC"
+  }
+}

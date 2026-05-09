@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Lee",
+    "email": "jessica.lee8371@example.com",
+    "phone": "(266) 892-2191",
+    "ssn": "940495870",
+    "dob": "11/15/1980",
+    "address": "159 Third Rd",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

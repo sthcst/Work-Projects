@@ -1,0 +1,14 @@
+INVOICE 994800
+
+Bill To:
+Name: Jacob Smith
+Email: jacob.smith4389@business.net
+Phone: +1 317-862-2838
+SSN: 901 21 3741
+
+Address: 110 First Court
+Jacksonville, MA
+
+Date of Birth: 10/28/1978
+
+Amount Due: $7568

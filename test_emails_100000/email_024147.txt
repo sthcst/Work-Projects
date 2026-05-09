@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Morris
+  email: amanda.morris8422@yahoo.com
+  phone: 453-250-5614
+  ssn: 203 03 4192
+  dob: 07-17-2005
+  address: 2925 Sixth Dr
+  city: Washington
+  state: CA

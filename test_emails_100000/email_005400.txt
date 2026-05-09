@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Jimenez,william.jimenez7875@yahoo.com,+1 394-768-6883,184 80 3880,11-01-1992,"6689 Pine St",Seattle,CA

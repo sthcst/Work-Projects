@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Thomas,lisa.thomas8194@business.net,366-387-2201,460145194,05/07/1972,"8742 West Ave",San Antonio,CA

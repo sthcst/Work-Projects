@@ -1,0 +1,9 @@
+contact:
+  name: Charles Collins
+  email: charles.collins360@example.com
+  phone: +1 828-778-7920
+  ssn: 845643771
+  dob: 12/18/1987
+  address: 3860 Pine Ln
+  city: Phoenix
+  state: IL

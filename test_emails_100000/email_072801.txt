@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Anderson,jeffrey.anderson6183@business.net,+1 392-286-1928,342424645,4/24/1959,"6486 Main Way",Phoenix,MA

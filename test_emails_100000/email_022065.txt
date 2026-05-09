@@ -1,0 +1,14 @@
+INVOICE 709221
+
+Bill To:
+Name: John Morris
+Email: john.morris9015@mail.com
+Phone: +1 636-508-6567
+SSN: 525768900
+
+Address: 565 Fifth Blvd
+Seattle, TX
+
+Date of Birth: 7/1/1970
+
+Amount Due: $8960

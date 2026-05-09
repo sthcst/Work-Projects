@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Ortiz
+  email: lauren.ortiz6460@business.net
+  phone: 414 616 9609
+  ssn: 599-84-3541
+  dob: 08-01-1992
+  address: 9432 East Blvd
+  city: New York
+  state: MI

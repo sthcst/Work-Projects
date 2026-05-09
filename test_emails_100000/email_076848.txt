@@ -1,0 +1,9 @@
+contact:
+  name: Paul Alvarado
+  email: paul.alvarado5760@business.net
+  phone: +1 861-269-4632
+  ssn: 120 05 8566
+  dob: 04-24-1974
+  address: 690 Cedar Court
+  city: Boston
+  state: DC

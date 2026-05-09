@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Roberts
+  email: nicholas.roberts3549@work.org
+  phone: 268-215-6559
+  ssn: 392 04 2258
+  dob: 10/15/2003
+  address: 6335 Third Ln
+  city: Boston
+  state: MA

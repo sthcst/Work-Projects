@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Jackson,michelle.jackson8456@example.com,(634) 560-5662,343-80-1648,11-04-1980,"5810 Pine Dr",Chicago,FL

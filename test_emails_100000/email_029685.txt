@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Phillips",
+    "email": "matthew.phillips3957@yahoo.com",
+    "phone": "(257) 479-2462",
+    "ssn": "643 87 1243",
+    "dob": "01/07/1971",
+    "address": "3490 Second Dr",
+    "city": "Los Angeles",
+    "state": "MI"
+  }
+}

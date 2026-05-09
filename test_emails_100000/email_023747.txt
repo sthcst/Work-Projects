@@ -1,0 +1,9 @@
+contact:
+  name: Megan Moore
+  email: megan.moore587@work.org
+  phone: 731 218 5525
+  ssn: 990 22 7554
+  dob: 7/4/1984
+  address: 7609 Park Blvd
+  city: Philadelphia
+  state: MO

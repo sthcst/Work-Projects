@@ -1,0 +1,14 @@
+INVOICE 737658
+
+Bill To:
+Name: Rebecca Smith
+Email: rebecca.smith942@mail.com
+Phone: (650) 667-8530
+SSN: 365512572
+
+Address: 385 Cedar Ave
+Denver, NJ
+
+Date of Birth: 09/08/1958
+
+Amount Due: $769

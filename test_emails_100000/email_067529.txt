@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Edwards
+  email: jennifer.edwards2935@work.org
+  phone: (770) 810-6248
+  ssn: 983 02 8531
+  dob: 02/04/1999
+  address: 1244 West Ave
+  city: San Jose
+  state: NY

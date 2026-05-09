@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Martin",
+    "email": "amanda.martin9075@yahoo.com",
+    "phone": "693 845 8622",
+    "ssn": "056-41-3266",
+    "dob": "20/06/1965",
+    "address": "6016 Cedar St",
+    "city": "Jacksonville",
+    "state": "NC"
+  }
+}

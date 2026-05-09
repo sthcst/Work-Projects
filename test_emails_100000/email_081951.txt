@@ -1,0 +1,14 @@
+INVOICE 404042
+
+Bill To:
+Name: Edward Gomez
+Email: edward.gomez8067@example.com
+Phone: +1 325-501-2487
+SSN: 204038293
+
+Address: 2983 Elm Ave
+Jacksonville, WI
+
+Date of Birth: 04-07-1979
+
+Amount Due: $3398

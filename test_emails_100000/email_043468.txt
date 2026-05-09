@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Garcia",
+    "email": "michael.garcia1616@business.net",
+    "phone": "851-217-9799",
+    "ssn": "046 47 2093",
+    "dob": "03/09/1965",
+    "address": "5829 Third Blvd",
+    "city": "Washington",
+    "state": "TN"
+  }
+}

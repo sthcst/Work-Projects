@@ -1,0 +1,9 @@
+contact:
+  name: Edward Lewis
+  email: edward.lewis8571@outlook.com
+  phone: 473 614 2728
+  ssn: 268 87 1735
+  dob: 10/06/1996
+  address: 8701 Fourth Rd
+  city: San Diego
+  state: MD

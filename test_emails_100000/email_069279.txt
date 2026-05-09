@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Perez
+  email: ashley.perez3454@yahoo.com
+  phone: (413) 989-7879
+  ssn: 645-02-9662
+  dob: 04-09-1964
+  address: 7101 Fourth St
+  city: Dallas
+  state: TX

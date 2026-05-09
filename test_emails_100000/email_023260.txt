@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Anderson,samantha.anderson3211@yahoo.com,(825) 710-9048,325-93-2795,7/17/1989,"7041 Maple Blvd",Denver,NY

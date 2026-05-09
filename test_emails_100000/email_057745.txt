@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Cooper",
+    "email": "brenda.cooper683@outlook.com",
+    "phone": "235-547-9175",
+    "ssn": "689-08-7777",
+    "dob": "12/22/1983",
+    "address": "3000 Oak Blvd",
+    "city": "Seattle",
+    "state": "IL"
+  }
+}

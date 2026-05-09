@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Delgado,christine.delgado1543@yahoo.com,+1 603-301-1539,552-68-5324,4/23/1977,"8612 Third Court",Dallas,FL

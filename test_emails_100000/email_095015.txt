@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Anderson",
+    "email": "nicholas.anderson9545@gmail.com",
+    "phone": "308 990 9155",
+    "ssn": "262-36-8225",
+    "dob": "12/23/1954",
+    "address": "1614 West Ln",
+    "city": "Boston",
+    "state": "MD"
+  }
+}

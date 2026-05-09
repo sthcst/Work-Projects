@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Campbell",
+    "email": "shirley.campbell7465@mail.com",
+    "phone": "+1 865-736-4201",
+    "ssn": "795 04 2021",
+    "dob": "01/06/1958",
+    "address": "9182 Second Rd",
+    "city": "Denver",
+    "state": "IL"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Roberts",
+    "email": "michelle.roberts8192@company.com",
+    "phone": "+1 740-812-6881",
+    "ssn": "100257897",
+    "dob": "07-02-1966",
+    "address": "8788 Oak Dr",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

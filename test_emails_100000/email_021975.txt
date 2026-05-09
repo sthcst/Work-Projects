@@ -1,0 +1,14 @@
+INVOICE 524845
+
+Bill To:
+Name: Joshua Guerrero
+Email: joshua.guerrero2887@mail.com
+Phone: 890-421-7317
+SSN: 220603504
+
+Address: 959 Summer Ave
+San Diego, TX
+
+Date of Birth: 12/20/1950
+
+Amount Due: $1298

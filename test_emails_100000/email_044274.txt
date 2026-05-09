@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Nunez,rebecca.nunez6187@mail.com,278-713-5603,434-01-4922,05/04/1963,"1421 Pine Ln",Dallas,CA

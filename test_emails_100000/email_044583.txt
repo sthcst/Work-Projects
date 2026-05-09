@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Anderson",
+    "email": "ronald.anderson7541@work.org",
+    "phone": "(570) 292-3314",
+    "ssn": "550776915",
+    "dob": "07-06-1986",
+    "address": "3419 Third Way",
+    "city": "New York",
+    "state": "FL"
+  }
+}

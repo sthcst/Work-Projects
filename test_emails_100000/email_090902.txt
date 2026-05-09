@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Hernandez",
+    "email": "kenneth.hernandez9961@example.com",
+    "phone": "+1 948-399-5288",
+    "ssn": "609 60 5790",
+    "dob": "03-15-2001",
+    "address": "4922 Main Court",
+    "city": "Philadelphia",
+    "state": "NJ"
+  }
+}

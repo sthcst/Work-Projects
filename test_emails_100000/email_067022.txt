@@ -1,0 +1,14 @@
+INVOICE 313171
+
+Bill To:
+Name: Sarah Morris
+Email: sarah.morris4919@example.com
+Phone: 592-955-7576
+SSN: 439-58-2254
+
+Address: 3753 Third Dr
+Dallas, CA
+
+Date of Birth: 08/16/1969
+
+Amount Due: $4384

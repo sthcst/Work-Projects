@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Carter,katherine.carter2013@example.com,911-737-7019,044-44-6298,10/16/1981,"9576 Spring Court",Boston,WI

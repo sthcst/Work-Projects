@@ -1,0 +1,14 @@
+INVOICE 314370
+
+Bill To:
+Name: Pamela White
+Email: pamela.white8522@work.org
+Phone: +1 898-391-3090
+SSN: 883126239
+
+Address: 7626 First Way
+New York, NJ
+
+Date of Birth: 10/05/1954
+
+Amount Due: $7341

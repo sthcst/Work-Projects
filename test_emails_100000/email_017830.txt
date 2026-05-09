@@ -1,0 +1,9 @@
+contact:
+  name: Anna Ramirez
+  email: anna.ramirez4089@yahoo.com
+  phone: +1 499-909-5305
+  ssn: 734 31 1517
+  dob: 2/6/1977
+  address: 9144 First St
+  city: San Jose
+  state: MO

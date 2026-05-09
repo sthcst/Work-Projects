@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas White,nicholas.white7335@company.com,615-621-4644,664087434,12/14/1966,"9693 East Rd",San Diego,CA

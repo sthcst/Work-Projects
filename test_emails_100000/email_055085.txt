@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Peterson,william.peterson8050@business.net,+1 445-531-9674,234 32 9561,03/06/1953,"1109 Pine St",Austin,TX

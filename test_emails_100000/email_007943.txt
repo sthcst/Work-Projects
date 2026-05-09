@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Collins",
+    "email": "richard.collins6293@business.net",
+    "phone": "+1 312-464-6805",
+    "ssn": "873 20 9154",
+    "dob": "4/27/1952",
+    "address": "8083 Spring Way",
+    "city": "Phoenix",
+    "state": "CO"
+  }
+}

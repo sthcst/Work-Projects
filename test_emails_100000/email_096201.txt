@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Martin",
+    "email": "pamela.martin250@work.org",
+    "phone": "525 324 4137",
+    "ssn": "434689114",
+    "dob": "10/18/1967",
+    "address": "8225 Fourth Court",
+    "city": "San Jose",
+    "state": "VA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Jimenez",
+    "email": "charles.jimenez6678@yahoo.com",
+    "phone": "+1 953-615-3340",
+    "ssn": "710 45 9577",
+    "dob": "04-28-1969",
+    "address": "9670 Cedar Blvd",
+    "city": "Denver",
+    "state": "AZ"
+  }
+}

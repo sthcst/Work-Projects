@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Flores",
+    "email": "ronald.flores9723@example.com",
+    "phone": "804 425 7599",
+    "ssn": "521 95 3305",
+    "dob": "11/8/1968",
+    "address": "1704 Third St",
+    "city": "Philadelphia",
+    "state": "IL"
+  }
+}

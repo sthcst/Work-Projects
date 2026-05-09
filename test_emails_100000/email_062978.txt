@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Murillo
+  email: kenneth.murillo2069@company.com
+  phone: +1 590-674-3609
+  ssn: 030105083
+  dob: 10-05-1977
+  address: 890 North Way
+  city: San Antonio
+  state: WA

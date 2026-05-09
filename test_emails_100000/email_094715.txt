@@ -1,0 +1,14 @@
+INVOICE 215500
+
+Bill To:
+Name: Helen Hernandez
+Email: helen.hernandez8022@gmail.com
+Phone: (708) 232-7463
+SSN: 691 64 6989
+
+Address: 4385 Sixth Ln
+Chicago, NC
+
+Date of Birth: 18/01/1989
+
+Amount Due: $3251

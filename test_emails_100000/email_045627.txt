@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Perez
+  email: ryan.perez9546@yahoo.com
+  phone: 829-517-1216
+  ssn: 951821973
+  dob: 23/05/1957
+  address: 3695 Birch Ln
+  city: Washington
+  state: FL

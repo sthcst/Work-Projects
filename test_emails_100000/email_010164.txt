@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Taylor,cynthia.taylor3100@gmail.com,+1 314-471-7337,167 19 2471,21/06/2005,"5087 North Dr",Houston,IL

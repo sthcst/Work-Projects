@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Roberts
+  email: michelle.roberts3391@work.org
+  phone: 848 984 2595
+  ssn: 199985416
+  dob: 10/12/1987
+  address: 1648 Third Ln
+  city: San Diego
+  state: MA

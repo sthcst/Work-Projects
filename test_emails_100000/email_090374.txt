@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Ramirez",
+    "email": "jason.ramirez3646@work.org",
+    "phone": "456-293-2183",
+    "ssn": "624684357",
+    "dob": "01-20-2001",
+    "address": "9811 West Dr",
+    "city": "Dallas",
+    "state": "TN"
+  }
+}

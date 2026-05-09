@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Flores",
+    "email": "joseph.flores1207@yahoo.com",
+    "phone": "+1 668-886-4211",
+    "ssn": "905157534",
+    "dob": "06/21/1961",
+    "address": "8894 South Blvd",
+    "city": "Dallas",
+    "state": "NY"
+  }
+}

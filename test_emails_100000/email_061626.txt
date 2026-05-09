@@ -1,0 +1,14 @@
+INVOICE 806088
+
+Bill To:
+Name: Anna Smith
+Email: anna.smith8900@business.net
+Phone: 780-355-7369
+SSN: 709 21 9098
+
+Address: 2362 South St
+San Diego, MA
+
+Date of Birth: 12/25/1953
+
+Amount Due: $5788

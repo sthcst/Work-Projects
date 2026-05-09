@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Stewart",
+    "email": "charles.stewart1616@mail.com",
+    "phone": "+1 960-799-4208",
+    "ssn": "015343423",
+    "dob": "2/23/1967",
+    "address": "6379 Main Ln",
+    "city": "San Antonio",
+    "state": "CO"
+  }
+}

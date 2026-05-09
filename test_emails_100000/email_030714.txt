@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Alvarado,donald.alvarado179@gmail.com,(811) 781-9250,941993672,02-21-2005,"5554 First Blvd",San Antonio,MA

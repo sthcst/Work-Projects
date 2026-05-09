@@ -1,0 +1,9 @@
+contact:
+  name: Megan Hall
+  email: megan.hall8411@yahoo.com
+  phone: (974) 862-9529
+  ssn: 661708227
+  dob: 04-06-1956
+  address: 4857 Sixth Court
+  city: Seattle
+  state: GA

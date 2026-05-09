@@ -1,0 +1,14 @@
+INVOICE 711881
+
+Bill To:
+Name: Cynthia Edwards
+Email: cynthia.edwards7034@work.org
+Phone: 284 243 3986
+SSN: 672 99 2882
+
+Address: 2537 Second Rd
+Phoenix, CO
+
+Date of Birth: 1/12/1972
+
+Amount Due: $6820

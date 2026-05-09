@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Perez,kevin.perez678@outlook.com,+1 295-948-8872,281-05-7503,01/24/1988,"6600 South Way",Chicago,MO

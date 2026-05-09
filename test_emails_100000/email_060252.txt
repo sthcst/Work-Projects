@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Moore",
+    "email": "andrew.moore1162@business.net",
+    "phone": "708-693-6091",
+    "ssn": "821 05 1267",
+    "dob": "05-23-1978",
+    "address": "1205 Maple Blvd",
+    "city": "Philadelphia",
+    "state": "NY"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Perez
+  email: ryan.perez3518@outlook.com
+  phone: (371) 205-3156
+  ssn: 012692257
+  dob: 04/19/1958
+  address: 7706 Main Ln
+  city: Austin
+  state: WA

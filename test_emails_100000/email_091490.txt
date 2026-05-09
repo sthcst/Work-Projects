@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Brown",
+    "email": "kathleen.brown3039@outlook.com",
+    "phone": "385 272 2663",
+    "ssn": "273623696",
+    "dob": "4/8/1994",
+    "address": "8071 Birch St",
+    "city": "Los Angeles",
+    "state": "NJ"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Brown",
+    "email": "brian.brown7232@outlook.com",
+    "phone": "+1 251-673-6775",
+    "ssn": "301905239",
+    "dob": "01-15-1958",
+    "address": "5813 Main Blvd",
+    "city": "Chicago",
+    "state": "WA"
+  }
+}

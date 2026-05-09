@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Robinson",
+    "email": "kimberly.robinson7029@business.net",
+    "phone": "952 632 3333",
+    "ssn": "617 19 7244",
+    "dob": "13/09/1983",
+    "address": "8734 Fifth Ln",
+    "city": "Denver",
+    "state": "OH"
+  }
+}

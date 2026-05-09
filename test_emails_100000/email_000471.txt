@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Jones",
+    "email": "kimberly.jones4464@yahoo.com",
+    "phone": "+1 871-610-3149",
+    "ssn": "838-95-5423",
+    "dob": "03/02/1982",
+    "address": "340 Main Rd",
+    "city": "Houston",
+    "state": "WA"
+  }
+}

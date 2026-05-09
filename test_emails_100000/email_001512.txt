@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Thomas",
+    "email": "sarah.thomas8965@company.com",
+    "phone": "(211) 569-2768",
+    "ssn": "093-97-3582",
+    "dob": "09/04/1951",
+    "address": "3212 East St",
+    "city": "Chicago",
+    "state": "MD"
+  }
+}

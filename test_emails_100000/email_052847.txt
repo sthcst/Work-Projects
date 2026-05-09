@@ -1,0 +1,14 @@
+INVOICE 990244
+
+Bill To:
+Name: Jennifer Young
+Email: jennifer.young896@mail.com
+Phone: 977-797-8036
+SSN: 240 39 6557
+
+Address: 9977 Main St
+Washington, NY
+
+Date of Birth: 05-06-1959
+
+Amount Due: $5388

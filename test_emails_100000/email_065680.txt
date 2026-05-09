@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Rodriguez",
+    "email": "katherine.rodriguez6884@company.com",
+    "phone": "934 347 9843",
+    "ssn": "210477129",
+    "dob": "25/07/1997",
+    "address": "4886 First Blvd",
+    "city": "Jacksonville",
+    "state": "FL"
+  }
+}

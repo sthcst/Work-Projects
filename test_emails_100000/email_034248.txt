@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Garcia",
+    "email": "emily.garcia9832@company.com",
+    "phone": "+1 438-744-5273",
+    "ssn": "900 22 6933",
+    "dob": "09-04-1962",
+    "address": "6242 Main Ave",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

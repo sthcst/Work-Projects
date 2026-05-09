@@ -1,0 +1,14 @@
+INVOICE 300061
+
+Bill To:
+Name: Samantha Jackson
+Email: samantha.jackson5307@company.com
+Phone: +1 201-292-4527
+SSN: 560 27 9116
+
+Address: 2117 Third Ln
+Denver, MO
+
+Date of Birth: 08/06/1968
+
+Amount Due: $8907

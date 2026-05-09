@@ -1,0 +1,14 @@
+INVOICE 995196
+
+Bill To:
+Name: George White
+Email: george.white5851@gmail.com
+Phone: +1 232-673-4693
+SSN: 254-20-4798
+
+Address: 9249 Elm Way
+Dallas, CO
+
+Date of Birth: 07/02/1950
+
+Amount Due: $2136

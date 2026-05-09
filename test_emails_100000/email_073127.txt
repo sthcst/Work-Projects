@@ -1,0 +1,14 @@
+INVOICE 673387
+
+Bill To:
+Name: Helen Martin
+Email: helen.martin8313@company.com
+Phone: 434 476 1679
+SSN: 146 34 5843
+
+Address: 6287 First Ln
+Denver, OH
+
+Date of Birth: 10/9/1964
+
+Amount Due: $4585

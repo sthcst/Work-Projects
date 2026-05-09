@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Robinson,nicholas.robinson4214@yahoo.com,296-757-6025,240928560,13/09/1963,"6023 Third Dr",San Antonio,TN

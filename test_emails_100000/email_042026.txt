@@ -1,0 +1,9 @@
+contact:
+  name: Helen Rodriguez
+  email: helen.rodriguez9669@mail.com
+  phone: 490 730 3310
+  ssn: 971-73-4039
+  dob: 10-18-1992
+  address: 3354 Elm Rd
+  city: Jacksonville
+  state: CA

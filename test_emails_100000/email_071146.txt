@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Jackson",
+    "email": "jeffrey.jackson4266@example.com",
+    "phone": "+1 500-277-4194",
+    "ssn": "107-03-8130",
+    "dob": "07-23-1959",
+    "address": "4656 Fourth Court",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

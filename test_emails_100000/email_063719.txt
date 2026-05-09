@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Jackson,ronald.jackson1527@company.com,(830) 322-3026,191525594,12/04/1996,"1083 Summer Ave",Houston,TX

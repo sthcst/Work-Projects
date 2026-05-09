@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Rogers
+  email: cynthia.rogers6728@business.net
+  phone: 799 853 3369
+  ssn: 597 21 9382
+  dob: 01/23/1994
+  address: 6628 Spring Blvd
+  city: Jacksonville
+  state: NJ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Lee,kenneth.lee4826@example.com,+1 800-606-2898,252-82-2201,06/05/1998,"2349 Spring Ave",Los Angeles,OH

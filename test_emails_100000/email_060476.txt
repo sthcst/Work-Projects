@@ -1,0 +1,14 @@
+INVOICE 738201
+
+Bill To:
+Name: Steven Gomez
+Email: steven.gomez1062@example.com
+Phone: (809) 236-1623
+SSN: 581-62-4899
+
+Address: 1848 Fifth Way
+Houston, FL
+
+Date of Birth: 07/03/1992
+
+Amount Due: $673

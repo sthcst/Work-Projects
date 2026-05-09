@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Morris,george.morris1677@mail.com,(742) 330-3096,496 20 4731,01-20-1970,"8090 North Dr",Dallas,TX

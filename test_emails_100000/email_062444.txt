@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Stewart
+  email: jennifer.stewart2460@business.net
+  phone: 406-826-5243
+  ssn: 709-32-4940
+  dob: 1/5/1977
+  address: 4747 Fifth St
+  city: San Diego
+  state: NC

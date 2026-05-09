@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Reyes",
+    "email": "brian.reyes889@mail.com",
+    "phone": "(386) 611-9330",
+    "ssn": "425-06-7558",
+    "dob": "15/03/1960",
+    "address": "3202 North Rd",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

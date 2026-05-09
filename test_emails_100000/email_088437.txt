@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Sanchez
+  email: nicole.sanchez9458@company.com
+  phone: +1 420-291-5197
+  ssn: 792894820
+  dob: 4/24/2002
+  address: 264 Pine St
+  city: Washington
+  state: TX

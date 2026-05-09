@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Garcia,anthony.garcia6787@work.org,345-362-7324,389-02-4558,6/12/2002,"1364 Park Ave",Los Angeles,FL

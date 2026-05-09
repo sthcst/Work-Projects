@@ -1,0 +1,9 @@
+contact:
+  name: John Peterson
+  email: john.peterson1526@work.org
+  phone: +1 822-523-2450
+  ssn: 220151421
+  dob: 19/12/1977
+  address: 5454 Main Ave
+  city: Austin
+  state: TX

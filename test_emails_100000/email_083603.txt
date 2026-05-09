@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Garcia",
+    "email": "lisa.garcia8437@mail.com",
+    "phone": "+1 200-593-1885",
+    "ssn": "527-16-5769",
+    "dob": "05-16-1973",
+    "address": "7370 First Ave",
+    "city": "San Jose",
+    "state": "FL"
+  }
+}

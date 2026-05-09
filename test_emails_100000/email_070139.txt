@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Edwards
+  email: katherine.edwards5822@business.net
+  phone: +1 951-341-9220
+  ssn: 471-29-3262
+  dob: 05-13-1985
+  address: 9087 Oak Ave
+  city: Phoenix
+  state: MO

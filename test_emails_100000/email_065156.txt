@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Johnson
+  email: deborah.johnson1742@business.net
+  phone: 413-511-1406
+  ssn: 361903966
+  dob: 10-03-1995
+  address: 696 Summer Dr
+  city: New York
+  state: CO

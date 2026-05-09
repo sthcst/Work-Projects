@@ -1,0 +1,14 @@
+INVOICE 600900
+
+Bill To:
+Name: Lisa Jimenez
+Email: lisa.jimenez5824@gmail.com
+Phone: 887-948-9353
+SSN: 665 47 3589
+
+Address: 6511 Oak Blvd
+San Antonio, MA
+
+Date of Birth: 02/10/2005
+
+Amount Due: $8978

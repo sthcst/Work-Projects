@@ -1,0 +1,9 @@
+contact:
+  name: Mark Hall
+  email: mark.hall2272@work.org
+  phone: 991-596-4532
+  ssn: 051426629
+  dob: 12-24-1973
+  address: 4219 Fifth Blvd
+  city: Austin
+  state: NJ

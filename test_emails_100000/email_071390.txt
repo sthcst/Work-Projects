@@ -1,0 +1,9 @@
+contact:
+  name: Gary Sanchez
+  email: gary.sanchez4260@gmail.com
+  phone: (531) 831-9472
+  ssn: 642 39 6333
+  dob: 9/11/2004
+  address: 8974 Fifth Blvd
+  city: Chicago
+  state: NY

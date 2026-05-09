@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Rodriguez",
+    "email": "rachel.rodriguez5537@outlook.com",
+    "phone": "+1 258-431-1658",
+    "ssn": "316 08 6006",
+    "dob": "08-05-1965",
+    "address": "6589 East Ln",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

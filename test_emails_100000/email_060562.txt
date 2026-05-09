@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Thomas,mark.thomas6265@mail.com,793-491-3560,200 49 8778,20/10/1950,"8487 East Blvd",Houston,VA

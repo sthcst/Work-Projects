@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Ramirez",
+    "email": "rebecca.ramirez7018@example.com",
+    "phone": "872-605-1777",
+    "ssn": "693-28-9075",
+    "dob": "02-06-1961",
+    "address": "6811 Sixth Rd",
+    "city": "Seattle",
+    "state": "MD"
+  }
+}

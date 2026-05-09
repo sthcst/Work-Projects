@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Parker",
+    "email": "anna.parker8713@yahoo.com",
+    "phone": "797 467 8867",
+    "ssn": "637914694",
+    "dob": "11/09/1963",
+    "address": "7562 Elm Court",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

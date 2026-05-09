@@ -1,0 +1,9 @@
+contact:
+  name: Megan Dominguez
+  email: megan.dominguez667@outlook.com
+  phone: 234 414 1326
+  ssn: 186848745
+  dob: 10/23/1993
+  address: 6779 Cedar Court
+  city: Boston
+  state: OH

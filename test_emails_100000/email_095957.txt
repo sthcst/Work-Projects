@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Jones,anthony.jones5177@example.com,(360) 410-8181,672459358,25/06/1982,"2701 North Ln",Washington,WA

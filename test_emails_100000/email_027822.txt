@@ -1,0 +1,9 @@
+contact:
+  name: Megan Evans
+  email: megan.evans9528@example.com
+  phone: 324-778-7172
+  ssn: 647663712
+  dob: 8/20/2000
+  address: 3570 Birch Ave
+  city: Phoenix
+  state: GA

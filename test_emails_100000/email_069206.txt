@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Nunez,rachel.nunez5772@company.com,292 710 7096,007394370,11/15/2004,"1956 Oak Ave",Washington,AZ

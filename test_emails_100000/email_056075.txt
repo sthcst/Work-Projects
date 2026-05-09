@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Phillips,jacob.phillips5994@example.com,674-815-6803,835-08-2404,12/27/1970,"2734 Third Rd",Houston,TX

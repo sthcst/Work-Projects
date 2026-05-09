@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Evans
+  email: samantha.evans9048@company.com
+  phone: 571-931-2960
+  ssn: 335378286
+  dob: 26/02/1954
+  address: 2159 Pine Ln
+  city: Los Angeles
+  state: MA

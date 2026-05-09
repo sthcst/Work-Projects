@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Dominguez,timothy.dominguez3249@yahoo.com,841-855-6034,384983965,02-11-1951,"9540 East Court",Dallas,GA

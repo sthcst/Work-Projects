@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Davis",
+    "email": "anna.davis974@example.com",
+    "phone": "480 974 4191",
+    "ssn": "382-16-9683",
+    "dob": "05/13/1968",
+    "address": "667 South Ln",
+    "city": "Washington",
+    "state": "DC"
+  }
+}

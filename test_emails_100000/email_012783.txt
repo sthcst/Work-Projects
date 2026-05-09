@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Brown,mark.brown7002@outlook.com,(224) 880-6582,230979906,07/23/1982,"7526 Spring Court",San Jose,WA

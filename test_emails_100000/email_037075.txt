@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Lewis",
+    "email": "angela.lewis6799@example.com",
+    "phone": "886 496 8811",
+    "ssn": "194398276",
+    "dob": "6/9/2001",
+    "address": "3488 East Ave",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

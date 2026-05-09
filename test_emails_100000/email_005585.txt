@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Cooper,richard.cooper421@work.org,833-535-8479,105803964,16/06/1966,"643 Third St",New York,WA

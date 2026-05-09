@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Reyes",
+    "email": "kathleen.reyes8532@yahoo.com",
+    "phone": "989-786-9557",
+    "ssn": "365-18-3582",
+    "dob": "07/03/1957",
+    "address": "8212 Birch Rd",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

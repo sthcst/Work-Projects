@@ -1,0 +1,9 @@
+contact:
+  name: Edward Anderson
+  email: edward.anderson9094@work.org
+  phone: 202 430 9436
+  ssn: 265-63-5197
+  dob: 3/12/1999
+  address: 3948 Main Ave
+  city: Jacksonville
+  state: TN

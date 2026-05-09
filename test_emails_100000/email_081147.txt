@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Garcia,robert.garcia3624@company.com,+1 249-712-1190,323 70 3185,6/17/1973,"5961 Summer Blvd",Boston,GA

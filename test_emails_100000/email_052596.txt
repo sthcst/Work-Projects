@@ -1,0 +1,14 @@
+INVOICE 141391
+
+Bill To:
+Name: Megan Roberts
+Email: megan.roberts6019@company.com
+Phone: (723) 939-7655
+SSN: 881 69 6559
+
+Address: 6799 West Rd
+San Jose, TX
+
+Date of Birth: 25/08/1988
+
+Amount Due: $5225

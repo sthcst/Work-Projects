@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Cooper",
+    "email": "mark.cooper3779@mail.com",
+    "phone": "+1 998-911-8402",
+    "ssn": "752129555",
+    "dob": "26/09/1974",
+    "address": "9406 Third Blvd",
+    "city": "Los Angeles",
+    "state": "NC"
+  }
+}

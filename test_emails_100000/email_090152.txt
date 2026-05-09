@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Jimenez,angela.jimenez1078@work.org,742 487 5167,875 50 7950,24/06/1997,"5268 South St",Seattle,NJ

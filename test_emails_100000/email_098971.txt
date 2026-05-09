@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Lopez
+  email: joshua.lopez8342@gmail.com
+  phone: (222) 595-1919
+  ssn: 301175895
+  dob: 7/13/1980
+  address: 3299 South Court
+  city: Los Angeles
+  state: FL

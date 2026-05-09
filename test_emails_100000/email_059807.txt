@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Harris",
+    "email": "deborah.harris2227@example.com",
+    "phone": "888 487 2260",
+    "ssn": "429-05-4777",
+    "dob": "05-15-1973",
+    "address": "8881 Birch Way",
+    "city": "Dallas",
+    "state": "AZ"
+  }
+}

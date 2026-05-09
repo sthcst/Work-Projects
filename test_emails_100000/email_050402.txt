@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Ramirez,katherine.ramirez8834@mail.com,(604) 902-5641,304-23-8033,24/11/1952,"5533 Oak Way",Phoenix,CA

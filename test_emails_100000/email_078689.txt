@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Rogers,robert.rogers2296@example.com,(273) 453-4596,291 26 9252,12-12-1976,"6111 Third Way",Chicago,GA

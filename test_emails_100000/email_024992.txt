@@ -1,0 +1,14 @@
+INVOICE 431775
+
+Bill To:
+Name: Ashley Parker
+Email: ashley.parker349@company.com
+Phone: (834) 526-9560
+SSN: 924854656
+
+Address: 2010 Fourth Way
+Austin, NY
+
+Date of Birth: 1/24/1966
+
+Amount Due: $6197

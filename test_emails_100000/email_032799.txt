@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Gomez",
+    "email": "matthew.gomez9705@outlook.com",
+    "phone": "427-454-8995",
+    "ssn": "463 62 1082",
+    "dob": "7/14/1972",
+    "address": "5622 West Blvd",
+    "city": "Seattle",
+    "state": "PA"
+  }
+}

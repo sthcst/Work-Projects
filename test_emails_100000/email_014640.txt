@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Serrano
+  email: ashley.serrano6917@outlook.com
+  phone: +1 495-878-8932
+  ssn: 335 89 9130
+  dob: 11/13/1960
+  address: 9398 Pine St
+  city: Jacksonville
+  state: MI

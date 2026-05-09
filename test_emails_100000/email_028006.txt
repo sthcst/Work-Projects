@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Hernandez,richard.hernandez1019@outlook.com,374-295-9065,661 37 6827,05/27/1952,"5030 Third Ave",Dallas,TX

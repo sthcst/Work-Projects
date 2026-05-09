@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Gonzalez,kenneth.gonzalez8666@outlook.com,606 969 2595,705 92 7357,7/22/1971,"9846 Maple Dr",Phoenix,MA

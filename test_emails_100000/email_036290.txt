@@ -1,0 +1,14 @@
+INVOICE 420245
+
+Bill To:
+Name: Ronald Williams
+Email: ronald.williams6523@outlook.com
+Phone: +1 900-463-5665
+SSN: 982961000
+
+Address: 5648 Second Way
+Denver, MA
+
+Date of Birth: 12/08/1973
+
+Amount Due: $7846

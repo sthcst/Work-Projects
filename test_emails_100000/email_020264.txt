@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Moore",
+    "email": "jacob.moore9394@business.net",
+    "phone": "298 279 6822",
+    "ssn": "250 29 5533",
+    "dob": "21/05/1986",
+    "address": "4927 South Rd",
+    "city": "Washington",
+    "state": "IL"
+  }
+}

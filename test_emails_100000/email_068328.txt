@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Dominguez
+  email: kevin.dominguez1279@work.org
+  phone: 571-312-2897
+  ssn: 983166087
+  dob: 10/28/1977
+  address: 718 First Court
+  city: San Diego
+  state: VA

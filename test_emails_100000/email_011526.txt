@@ -1,0 +1,9 @@
+contact:
+  name: Christine Rodriguez
+  email: christine.rodriguez179@example.com
+  phone: 399-686-6679
+  ssn: 130-24-7212
+  dob: 10/16/1971
+  address: 6627 West St
+  city: Seattle
+  state: CA

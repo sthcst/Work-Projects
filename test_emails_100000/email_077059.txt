@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Murillo",
+    "email": "amanda.murillo5508@business.net",
+    "phone": "(891) 903-8110",
+    "ssn": "537 95 4220",
+    "dob": "12/08/1968",
+    "address": "1164 Sixth Rd",
+    "city": "San Diego",
+    "state": "AZ"
+  }
+}

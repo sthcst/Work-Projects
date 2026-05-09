@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Reyes
+  email: joshua.reyes8677@work.org
+  phone: +1 930-879-8882
+  ssn: 250383850
+  dob: 04/19/1998
+  address: 5228 Fifth St
+  city: Boston
+  state: MO

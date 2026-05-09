@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Sanchez",
+    "email": "ronald.sanchez3854@business.net",
+    "phone": "565 746 3241",
+    "ssn": "316-21-5414",
+    "dob": "04/27/2002",
+    "address": "2703 East Rd",
+    "city": "Denver",
+    "state": "MI"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Dominguez,ryan.dominguez2171@company.com,706-693-2986,933 32 5401,05-15-2000,"277 North Ln",San Antonio,VA

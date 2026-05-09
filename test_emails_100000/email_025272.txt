@@ -1,0 +1,14 @@
+INVOICE 130874
+
+Bill To:
+Name: David Perez
+Email: david.perez4350@outlook.com
+Phone: 644-777-3962
+SSN: 847 26 2678
+
+Address: 7121 Maple Rd
+Denver, NC
+
+Date of Birth: 09-17-1986
+
+Amount Due: $7487

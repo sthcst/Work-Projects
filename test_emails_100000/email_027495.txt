@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Perez",
+    "email": "steven.perez9683@company.com",
+    "phone": "279-978-1485",
+    "ssn": "200 73 4246",
+    "dob": "7/19/1970",
+    "address": "6169 Fourth Rd",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

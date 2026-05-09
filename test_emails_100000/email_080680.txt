@@ -1,0 +1,9 @@
+contact:
+  name: Ryan White
+  email: ryan.white4679@example.com
+  phone: +1 647-209-5996
+  ssn: 124-17-1879
+  dob: 1/21/1970
+  address: 694 Fifth Blvd
+  city: San Antonio
+  state: WA

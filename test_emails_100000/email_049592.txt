@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Jimenez",
+    "email": "rachel.jimenez9613@company.com",
+    "phone": "648 585 7100",
+    "ssn": "732 05 3452",
+    "dob": "05/02/1991",
+    "address": "9107 East Ln",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

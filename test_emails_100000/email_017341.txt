@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Romero",
+    "email": "jane.romero9390@mail.com",
+    "phone": "562-235-5260",
+    "ssn": "215 39 1450",
+    "dob": "8/4/1988",
+    "address": "2838 South Ln",
+    "city": "Philadelphia",
+    "state": "CA"
+  }
+}

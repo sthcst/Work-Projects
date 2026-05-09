@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Walker",
+    "email": "lisa.walker2686@gmail.com",
+    "phone": "752-317-2851",
+    "ssn": "149688160",
+    "dob": "04-20-1992",
+    "address": "322 Maple St",
+    "city": "San Antonio",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 849535
+
+Bill To:
+Name: Kimberly Hernandez
+Email: kimberly.hernandez7445@example.com
+Phone: 520-297-6715
+SSN: 113095113
+
+Address: 3684 West Ln
+San Antonio, OH
+
+Date of Birth: 01/21/1959
+
+Amount Due: $7076

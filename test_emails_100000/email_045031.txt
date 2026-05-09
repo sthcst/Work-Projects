@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Bell",
+    "email": "lisa.bell5996@outlook.com",
+    "phone": "555-914-5870",
+    "ssn": "727-60-9391",
+    "dob": "8/1/2005",
+    "address": "9394 Pine Ln",
+    "city": "Chicago",
+    "state": "TN"
+  }
+}

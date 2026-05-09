@@ -1,0 +1,9 @@
+contact:
+  name: Steven Rodriguez
+  email: steven.rodriguez810@company.com
+  phone: +1 930-561-1733
+  ssn: 929895963
+  dob: 12/20/2004
+  address: 5019 Birch Ave
+  city: Philadelphia
+  state: FL

@@ -1,0 +1,9 @@
+contact:
+  name: Anna Edwards
+  email: anna.edwards3649@mail.com
+  phone: (765) 539-5929
+  ssn: 335529647
+  dob: 24/05/1973
+  address: 6026 West Way
+  city: Dallas
+  state: MI

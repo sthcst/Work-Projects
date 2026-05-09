@@ -1,0 +1,9 @@
+contact:
+  name: George Wilson
+  email: george.wilson3386@mail.com
+  phone: 424-465-4764
+  ssn: 299 40 6699
+  dob: 6/13/1967
+  address: 7544 Elm Rd
+  city: Seattle
+  state: CO

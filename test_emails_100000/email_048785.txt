@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Stewart",
+    "email": "steven.stewart7167@company.com",
+    "phone": "+1 757-667-4535",
+    "ssn": "083-42-9819",
+    "dob": "27/12/1953",
+    "address": "7776 South Blvd",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

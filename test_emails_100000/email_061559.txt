@@ -1,0 +1,9 @@
+contact:
+  name: Christine Johnson
+  email: christine.johnson6631@gmail.com
+  phone: 856-208-4241
+  ssn: 561 39 7563
+  dob: 12-25-1976
+  address: 2221 Sixth Ave
+  city: Austin
+  state: AZ

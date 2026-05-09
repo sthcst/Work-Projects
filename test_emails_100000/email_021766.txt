@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony White,anthony.white6793@company.com,(293) 644-4601,391-82-4805,12/13/1963,"9883 Pine Court",New York,CA

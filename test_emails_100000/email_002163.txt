@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Johnson",
+    "email": "kenneth.johnson8647@work.org",
+    "phone": "657 480 1452",
+    "ssn": "887584199",
+    "dob": "05/08/1986",
+    "address": "1719 Second Blvd",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

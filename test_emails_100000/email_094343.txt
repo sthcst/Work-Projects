@@ -1,0 +1,14 @@
+INVOICE 926777
+
+Bill To:
+Name: Ashley Carter
+Email: ashley.carter6321@company.com
+Phone: (975) 576-1606
+SSN: 457832118
+
+Address: 3982 Fifth Dr
+Seattle, CA
+
+Date of Birth: 7/6/1979
+
+Amount Due: $6370

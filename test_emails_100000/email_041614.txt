@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Sanchez",
+    "email": "andrew.sanchez5843@business.net",
+    "phone": "783-300-1074",
+    "ssn": "246 94 3319",
+    "dob": "06/08/1963",
+    "address": "9032 East Way",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

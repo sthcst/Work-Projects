@@ -1,0 +1,9 @@
+contact:
+  name: Maria Bell
+  email: maria.bell9632@business.net
+  phone: (413) 553-5266
+  ssn: 501 30 7308
+  dob: 11-22-2000
+  address: 7253 Third Ln
+  city: Washington
+  state: TX

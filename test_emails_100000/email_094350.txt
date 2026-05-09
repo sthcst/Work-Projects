@@ -1,0 +1,12 @@
+SUPPORT TICKET #20860
+
+Customer: Jane Collins
+Email: jane.collins5022@example.com
+Phone: 266 695 5139
+Account: 910631015
+
+Issue Description: Technical problem reported
+DOB on file: 06/28/2001
+Address: 1324 Oak Ave, Dallas, MA
+
+Status: OPEN

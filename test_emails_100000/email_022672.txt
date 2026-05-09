@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Jimenez,rebecca.jimenez8337@company.com,+1 690-281-6852,889339018,06-22-1974,"5035 Birch Way",San Diego,MD

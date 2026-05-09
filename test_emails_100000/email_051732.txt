@@ -1,0 +1,9 @@
+contact:
+  name: James Nelson
+  email: james.nelson3223@company.com
+  phone: (882) 628-1862
+  ssn: 370197563
+  dob: 04/11/1958
+  address: 628 Sixth Dr
+  city: New York
+  state: CA

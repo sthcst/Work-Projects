@@ -1,0 +1,14 @@
+INVOICE 572390
+
+Bill To:
+Name: Shirley Harris
+Email: shirley.harris4855@example.com
+Phone: 404 770 3008
+SSN: 564-26-6433
+
+Address: 4154 Cedar Dr
+New York, AZ
+
+Date of Birth: 08/11/2003
+
+Amount Due: $7919

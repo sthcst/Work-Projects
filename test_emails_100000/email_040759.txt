@@ -1,0 +1,9 @@
+contact:
+  name: Helen Sanchez
+  email: helen.sanchez7187@mail.com
+  phone: 558 251 5514
+  ssn: 353-50-3487
+  dob: 08/10/1975
+  address: 2955 Maple Court
+  city: Chicago
+  state: WI

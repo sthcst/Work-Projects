@@ -1,0 +1,9 @@
+contact:
+  name: George Flores
+  email: george.flores4012@business.net
+  phone: +1 746-695-9616
+  ssn: 845-38-7795
+  dob: 3/24/1990
+  address: 9239 Oak Ln
+  city: New York
+  state: DC

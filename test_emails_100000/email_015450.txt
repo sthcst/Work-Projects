@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Romero,angela.romero5489@yahoo.com,936-249-6909,825 29 1207,07/26/1970,"4477 Spring Rd",San Antonio,NY

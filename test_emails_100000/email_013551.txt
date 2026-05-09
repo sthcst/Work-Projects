@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Williams",
+    "email": "richard.williams7002@mail.com",
+    "phone": "295-824-2910",
+    "ssn": "766848868",
+    "dob": "07/07/1964",
+    "address": "3280 Oak Rd",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

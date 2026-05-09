@@ -1,0 +1,9 @@
+contact:
+  name: Emma Reeves
+  email: emma.reeves6638@outlook.com
+  phone: 732-928-2907
+  ssn: 412422394
+  dob: 10/20/1981
+  address: 4086 Elm Way
+  city: San Antonio
+  state: MD

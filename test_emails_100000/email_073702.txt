@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Phillips
+  email: kevin.phillips3195@work.org
+  phone: 742 331 6529
+  ssn: 796 28 5070
+  dob: 05/23/2005
+  address: 7936 Main Rd
+  city: San Antonio
+  state: NC

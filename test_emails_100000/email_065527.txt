@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Reed
+  email: amanda.reed2185@outlook.com
+  phone: 908 601 1543
+  ssn: 118-66-7155
+  dob: 8/4/1982
+  address: 2125 Cedar Court
+  city: New York
+  state: TN

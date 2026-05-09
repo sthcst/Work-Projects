@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Dominguez,joseph.dominguez1671@outlook.com,+1 535-662-5626,608207210,05/09/1997,"7306 North Dr",Denver,FL

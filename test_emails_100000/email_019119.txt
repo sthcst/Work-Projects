@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Wilson,katherine.wilson8081@outlook.com,(255) 278-7327,641-39-8732,24/10/1950,"1858 Elm Court",New York,TX

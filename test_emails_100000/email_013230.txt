@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Smith",
+    "email": "megan.smith9344@example.com",
+    "phone": "(269) 795-6394",
+    "ssn": "026-69-6678",
+    "dob": "11-09-1963",
+    "address": "2871 South St",
+    "city": "Seattle",
+    "state": "NJ"
+  }
+}

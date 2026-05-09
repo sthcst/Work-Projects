@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Peterson",
+    "email": "lisa.peterson7910@mail.com",
+    "phone": "620-582-5538",
+    "ssn": "325 72 8390",
+    "dob": "6/8/1956",
+    "address": "4877 Fifth Dr",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

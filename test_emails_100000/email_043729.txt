@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Flores",
+    "email": "steven.flores3205@business.net",
+    "phone": "+1 295-700-6834",
+    "ssn": "452-25-9529",
+    "dob": "05-06-1993",
+    "address": "5538 Fifth Dr",
+    "city": "Boston",
+    "state": "NC"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Reed",
+    "email": "christine.reed4175@business.net",
+    "phone": "272-611-4033",
+    "ssn": "798-75-1842",
+    "dob": "07/07/1984",
+    "address": "9058 Second Rd",
+    "city": "Washington",
+    "state": "MO"
+  }
+}

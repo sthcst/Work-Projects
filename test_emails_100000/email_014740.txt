@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Morgan",
+    "email": "anthony.morgan5809@mail.com",
+    "phone": "845 720 4515",
+    "ssn": "868368884",
+    "dob": "06/09/2003",
+    "address": "6522 Second St",
+    "city": "Los Angeles",
+    "state": "PA"
+  }
+}

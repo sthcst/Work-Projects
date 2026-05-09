@@ -1,0 +1,14 @@
+INVOICE 242754
+
+Bill To:
+Name: Gary Jones
+Email: gary.jones9293@work.org
+Phone: 365 687 7677
+SSN: 881544152
+
+Address: 3875 Spring Way
+Boston, MD
+
+Date of Birth: 04/11/1984
+
+Amount Due: $1823

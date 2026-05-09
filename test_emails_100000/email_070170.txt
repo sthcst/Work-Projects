@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan White,megan.white5597@work.org,+1 480-858-2467,201-07-5156,02-13-1958,"1963 Park Ave",Dallas,PA

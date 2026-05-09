@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Moore,edward.moore7908@yahoo.com,834-967-6670,450 87 8203,9/3/1954,"660 Fourth Blvd",Seattle,TX

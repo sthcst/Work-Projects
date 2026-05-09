@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Moore,nicholas.moore9748@yahoo.com,508-351-5290,317 41 8130,3/21/1974,"8014 Fifth Ave",San Diego,NJ

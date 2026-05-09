@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Moore
+  email: katherine.moore370@work.org
+  phone: 946 555 9487
+  ssn: 284 43 9776
+  dob: 1/6/1958
+  address: 7276 Second Way
+  city: New York
+  state: AZ

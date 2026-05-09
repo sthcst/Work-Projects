@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Hernandez
+  email: christopher.hernandez1912@gmail.com
+  phone: (792) 236-5459
+  ssn: 965059658
+  dob: 8/2/1951
+  address: 317 Second St
+  city: Denver
+  state: WI

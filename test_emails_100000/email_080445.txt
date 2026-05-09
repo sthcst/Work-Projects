@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Martinez",
+    "email": "steven.martinez1676@mail.com",
+    "phone": "(333) 876-4184",
+    "ssn": "835458852",
+    "dob": "03/10/1992",
+    "address": "8834 Cedar Ln",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

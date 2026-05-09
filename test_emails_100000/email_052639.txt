@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Miller,richard.miller5836@yahoo.com,(823) 571-5996,972 11 5622,12-07-1962,"7335 Maple Ave",Phoenix,NC

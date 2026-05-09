@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Bell",
+    "email": "angela.bell260@example.com",
+    "phone": "(502) 493-8263",
+    "ssn": "827-09-9241",
+    "dob": "05/25/1996",
+    "address": "8739 Spring Rd",
+    "city": "Boston",
+    "state": "MO"
+  }
+}

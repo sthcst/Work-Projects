@@ -1,0 +1,9 @@
+contact:
+  name: Charles Nelson
+  email: charles.nelson8135@outlook.com
+  phone: 230 554 7844
+  ssn: 478661737
+  dob: 08/03/1953
+  address: 3613 Sixth Dr
+  city: San Jose
+  state: TX

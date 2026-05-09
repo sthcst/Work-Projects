@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Murillo,david.murillo9441@outlook.com,+1 862-500-5861,804-56-5514,09/12/1951,"846 Fifth Dr",San Diego,NC

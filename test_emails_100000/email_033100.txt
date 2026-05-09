@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Smith,michael.smith2440@business.net,947 425 9384,322-97-7304,01/10/1962,"3093 Oak Rd",Philadelphia,FL

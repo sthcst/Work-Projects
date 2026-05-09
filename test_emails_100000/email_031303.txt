@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Gomez,james.gomez9765@gmail.com,(461) 362-7584,089746046,21/01/1986,"4779 Spring Blvd",Boston,TX

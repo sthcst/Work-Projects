@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Garcia
+  email: nicole.garcia3836@gmail.com
+  phone: +1 489-487-2346
+  ssn: 204-24-5812
+  dob: 04/13/1980
+  address: 680 Sixth St
+  city: Denver
+  state: WA

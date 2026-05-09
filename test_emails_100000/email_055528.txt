@@ -1,0 +1,9 @@
+contact:
+  name: Gary Reed
+  email: gary.reed8156@company.com
+  phone: 384 716 3067
+  ssn: 930403684
+  dob: 10/21/1959
+  address: 7611 Main Ave
+  city: Denver
+  state: TX

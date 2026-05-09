@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Gomez",
+    "email": "brenda.gomez5836@gmail.com",
+    "phone": "(767) 484-9828",
+    "ssn": "949 48 8977",
+    "dob": "07-09-1966",
+    "address": "9779 Spring Dr",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

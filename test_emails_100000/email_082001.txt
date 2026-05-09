@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Dominguez,david.dominguez163@gmail.com,349 469 8312,046 62 1029,14/07/1979,"7149 West Way",Philadelphia,DC

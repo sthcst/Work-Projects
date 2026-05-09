@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Edwards",
+    "email": "samantha.edwards4475@mail.com",
+    "phone": "662-829-4514",
+    "ssn": "301 77 8963",
+    "dob": "14/02/1997",
+    "address": "4128 South Rd",
+    "city": "Philadelphia",
+    "state": "AZ"
+  }
+}

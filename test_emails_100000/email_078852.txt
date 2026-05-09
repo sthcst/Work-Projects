@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Murillo",
+    "email": "george.murillo9868@example.com",
+    "phone": "896 793 8598",
+    "ssn": "394 74 3996",
+    "dob": "03/05/1955",
+    "address": "7967 West Ln",
+    "city": "Jacksonville",
+    "state": "OH"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Davis,michelle.davis5558@yahoo.com,(878) 658-5610,648 70 9828,01-12-1971,"8670 Main St",Jacksonville,WA

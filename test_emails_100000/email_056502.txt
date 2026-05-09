@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Reed,christopher.reed8077@business.net,727-853-4933,816 57 4372,06-24-1990,"5948 Fourth Dr",New York,AZ

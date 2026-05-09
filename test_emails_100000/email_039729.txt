@@ -1,0 +1,9 @@
+contact:
+  name: David Martinez
+  email: david.martinez4794@company.com
+  phone: (722) 522-3320
+  ssn: 708-59-2802
+  dob: 01-03-1985
+  address: 9485 South Rd
+  city: Austin
+  state: DC

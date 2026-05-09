@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Collins
+  email: shirley.collins4145@business.net
+  phone: +1 963-423-8809
+  ssn: 573395818
+  dob: 25/04/1972
+  address: 2975 Maple Way
+  city: Boston
+  state: NC

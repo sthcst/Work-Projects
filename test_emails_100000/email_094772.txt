@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda White",
+    "email": "amanda.white8736@yahoo.com",
+    "phone": "550-665-8897",
+    "ssn": "936 48 7671",
+    "dob": "10-03-1992",
+    "address": "1249 Maple Way",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

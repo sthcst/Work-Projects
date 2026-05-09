@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Rodriguez",
+    "email": "jane.rodriguez3960@mail.com",
+    "phone": "+1 824-228-7696",
+    "ssn": "850-93-9655",
+    "dob": "05-15-1961",
+    "address": "9313 Main St",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

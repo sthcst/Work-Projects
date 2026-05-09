@@ -1,0 +1,14 @@
+INVOICE 568022
+
+Bill To:
+Name: David Harris
+Email: david.harris3305@business.net
+Phone: 928-529-9523
+SSN: 403 86 5947
+
+Address: 1339 Second Ave
+Seattle, MD
+
+Date of Birth: 11/1/1962
+
+Amount Due: $1548

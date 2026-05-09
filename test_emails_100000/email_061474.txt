@@ -1,0 +1,14 @@
+INVOICE 355811
+
+Bill To:
+Name: Shirley Hernandez
+Email: shirley.hernandez2958@company.com
+Phone: 852 384 9979
+SSN: 419229397
+
+Address: 9680 Park Rd
+San Jose, IL
+
+Date of Birth: 7/10/1973
+
+Amount Due: $6363

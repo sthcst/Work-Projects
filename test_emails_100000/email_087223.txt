@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Murillo",
+    "email": "christine.murillo4205@work.org",
+    "phone": "823-617-8278",
+    "ssn": "808 70 6405",
+    "dob": "07/01/1970",
+    "address": "3617 Third Ave",
+    "city": "San Antonio",
+    "state": "MA"
+  }
+}

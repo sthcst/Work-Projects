@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Perez",
+    "email": "kathleen.perez2191@business.net",
+    "phone": "505-367-4754",
+    "ssn": "005-54-1496",
+    "dob": "03/08/1959",
+    "address": "7762 Birch Blvd",
+    "city": "San Antonio",
+    "state": "AZ"
+  }
+}

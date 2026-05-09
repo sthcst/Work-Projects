@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Campbell",
+    "email": "michelle.campbell8236@business.net",
+    "phone": "728-374-2791",
+    "ssn": "646067502",
+    "dob": "02/07/1980",
+    "address": "17 Third Dr",
+    "city": "Seattle",
+    "state": "PA"
+  }
+}

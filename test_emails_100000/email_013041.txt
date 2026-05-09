@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy White,timothy.white3375@example.com,(879) 232-2785,544 15 1517,06/06/1957,"4908 Maple Ave",Denver,OH

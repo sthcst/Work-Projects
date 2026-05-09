@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Thomas,andrew.thomas8283@gmail.com,723-253-8106,124-89-3509,15/09/1972,"5514 Elm Ave",Phoenix,PA

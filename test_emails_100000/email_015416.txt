@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Serrano",
+    "email": "ronald.serrano2973@yahoo.com",
+    "phone": "513-589-3388",
+    "ssn": "218 13 9302",
+    "dob": "04/19/1999",
+    "address": "1052 South Dr",
+    "city": "Washington",
+    "state": "MA"
+  }
+}

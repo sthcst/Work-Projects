@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Lewis",
+    "email": "katherine.lewis1386@example.com",
+    "phone": "413 476 7023",
+    "ssn": "220 66 2244",
+    "dob": "2/9/1960",
+    "address": "4405 Oak Court",
+    "city": "Denver",
+    "state": "FL"
+  }
+}

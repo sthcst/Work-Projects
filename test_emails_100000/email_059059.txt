@@ -1,0 +1,14 @@
+INVOICE 516919
+
+Bill To:
+Name: Andrew Clark
+Email: andrew.clark1369@business.net
+Phone: 623-667-2037
+SSN: 191-13-5851
+
+Address: 1832 Spring Blvd
+Los Angeles, CA
+
+Date of Birth: 7/11/1970
+
+Amount Due: $5772

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Jones",
+    "email": "kathleen.jones505@work.org",
+    "phone": "516 604 9794",
+    "ssn": "040 32 4982",
+    "dob": "15/03/1996",
+    "address": "9813 Cedar Ln",
+    "city": "Denver",
+    "state": "MA"
+  }
+}

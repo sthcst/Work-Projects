@@ -1,0 +1,14 @@
+INVOICE 735330
+
+Bill To:
+Name: Kimberly Jones
+Email: kimberly.jones8104@yahoo.com
+Phone: 554-630-7502
+SSN: 987 09 7547
+
+Address: 513 Fourth Ln
+Houston, FL
+
+Date of Birth: 22/04/1992
+
+Amount Due: $6091

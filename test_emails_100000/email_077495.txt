@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Parker,edward.parker2661@gmail.com,+1 627-794-5815,298 22 7227,03-07-1951,"1036 Spring Court",Denver,TN

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Collins,andrew.collins5769@example.com,+1 578-612-9471,079107394,18/09/1955,"4540 Fourth Ave",Boston,MA

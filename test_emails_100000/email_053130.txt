@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Morris
+  email: ryan.morris6512@company.com
+  phone: (862) 374-6364
+  ssn: 014 74 2420
+  dob: 08/05/1976
+  address: 7254 Sixth Dr
+  city: San Diego
+  state: TX

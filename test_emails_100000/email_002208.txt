@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Cooper",
+    "email": "joshua.cooper748@outlook.com",
+    "phone": "(984) 963-7073",
+    "ssn": "256447507",
+    "dob": "03/17/1987",
+    "address": "1605 Spring St",
+    "city": "Houston",
+    "state": "MO"
+  }
+}

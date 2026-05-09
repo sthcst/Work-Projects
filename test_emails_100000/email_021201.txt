@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Rodriguez",
+    "email": "george.rodriguez9669@mail.com",
+    "phone": "373-945-8400",
+    "ssn": "769-73-2736",
+    "dob": "07-12-1963",
+    "address": "9998 East St",
+    "city": "Philadelphia",
+    "state": "IL"
+  }
+}

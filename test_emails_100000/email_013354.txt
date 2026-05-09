@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Ramirez",
+    "email": "samantha.ramirez6348@business.net",
+    "phone": "(950) 947-1840",
+    "ssn": "522-47-1371",
+    "dob": "01-22-1976",
+    "address": "3672 First Dr",
+    "city": "Phoenix",
+    "state": "MO"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Bell,rachel.bell2747@outlook.com,(702) 510-1267,932046515,01/12/1978,"4946 Oak Ave",San Antonio,WA

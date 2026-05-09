@@ -1,0 +1,14 @@
+INVOICE 218570
+
+Bill To:
+Name: Katherine Martin
+Email: katherine.martin6562@example.com
+Phone: (840) 219-9290
+SSN: 352 56 8954
+
+Address: 7860 Oak Ave
+Austin, MO
+
+Date of Birth: 09-10-1963
+
+Amount Due: $7086

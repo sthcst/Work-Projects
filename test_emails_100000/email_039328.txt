@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Thompson",
+    "email": "john.thompson6465@example.com",
+    "phone": "(396) 759-7277",
+    "ssn": "736 95 2945",
+    "dob": "12/06/1977",
+    "address": "7192 Main Blvd",
+    "city": "Washington",
+    "state": "MI"
+  }
+}

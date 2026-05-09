@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Campbell,katherine.campbell644@gmail.com,322 480 2943,166494993,02/08/1971,"4300 First Rd",Washington,CO

@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Hernandez
+  email: nicholas.hernandez596@yahoo.com
+  phone: (845) 672-1771
+  ssn: 485 85 7031
+  dob: 03/07/1967
+  address: 1880 Elm Ln
+  city: San Jose
+  state: AZ

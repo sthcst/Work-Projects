@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Lewis",
+    "email": "paul.lewis5894@mail.com",
+    "phone": "322-345-8298",
+    "ssn": "750 54 4009",
+    "dob": "8/7/1987",
+    "address": "7449 Birch Way",
+    "city": "Dallas",
+    "state": "NY"
+  }
+}

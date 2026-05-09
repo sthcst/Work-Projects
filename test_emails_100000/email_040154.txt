@@ -1,0 +1,9 @@
+contact:
+  name: Gary Gonzalez
+  email: gary.gonzalez19@gmail.com
+  phone: 530-225-5128
+  ssn: 592459687
+  dob: 12-28-1994
+  address: 7359 Main Ln
+  city: Boston
+  state: NY

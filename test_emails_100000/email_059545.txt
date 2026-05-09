@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Delgado
+  email: jeffrey.delgado9561@company.com
+  phone: +1 717-709-3608
+  ssn: 402582181
+  dob: 09-23-1978
+  address: 6558 Park Ln
+  city: Dallas
+  state: CO

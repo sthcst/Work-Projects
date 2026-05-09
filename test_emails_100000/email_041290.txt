@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Delgado
+  email: rachel.delgado6009@gmail.com
+  phone: +1 527-292-8880
+  ssn: 805-89-4346
+  dob: 07-17-2003
+  address: 2807 Fourth Rd
+  city: Chicago
+  state: VA

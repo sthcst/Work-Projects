@@ -1,0 +1,14 @@
+INVOICE 118350
+
+Bill To:
+Name: Sarah Lopez
+Email: sarah.lopez6514@yahoo.com
+Phone: 764 560 4801
+SSN: 009-93-4947
+
+Address: 393 North Blvd
+Phoenix, WI
+
+Date of Birth: 02/09/1997
+
+Amount Due: $7331

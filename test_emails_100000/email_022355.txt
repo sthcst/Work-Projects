@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Murillo
+  email: shirley.murillo9246@business.net
+  phone: 209 524 1319
+  ssn: 321-05-8664
+  dob: 17/01/1961
+  address: 6169 First Rd
+  city: Austin
+  state: OH

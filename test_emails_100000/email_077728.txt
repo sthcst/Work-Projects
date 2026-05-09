@@ -1,0 +1,9 @@
+contact:
+  name: Donald Rodriguez
+  email: donald.rodriguez1817@example.com
+  phone: 449-755-7591
+  ssn: 947 96 1593
+  dob: 11-12-1988
+  address: 4574 East Way
+  city: Dallas
+  state: TX

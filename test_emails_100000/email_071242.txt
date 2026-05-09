@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Reed",
+    "email": "daniel.reed221@mail.com",
+    "phone": "203 507 4907",
+    "ssn": "730-32-6010",
+    "dob": "05/05/1961",
+    "address": "5382 Birch Ln",
+    "city": "Phoenix",
+    "state": "AZ"
+  }
+}

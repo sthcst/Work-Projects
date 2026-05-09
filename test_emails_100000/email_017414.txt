@@ -1,0 +1,9 @@
+contact:
+  name: Jane Smith
+  email: jane.smith8727@work.org
+  phone: +1 243-346-4377
+  ssn: 888 30 5944
+  dob: 06/06/2001
+  address: 3411 First Rd
+  city: San Diego
+  state: CO

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Gomez",
+    "email": "deborah.gomez3930@outlook.com",
+    "phone": "+1 570-703-5260",
+    "ssn": "862-46-8689",
+    "dob": "8/25/1990",
+    "address": "6264 Cedar Ln",
+    "city": "Los Angeles",
+    "state": "NC"
+  }
+}

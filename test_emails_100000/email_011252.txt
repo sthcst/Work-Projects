@@ -1,0 +1,9 @@
+contact:
+  name: Helen Lopez
+  email: helen.lopez8216@outlook.com
+  phone: 732 949 6844
+  ssn: 799-62-5651
+  dob: 07/01/1984
+  address: 9836 West Court
+  city: San Diego
+  state: MO

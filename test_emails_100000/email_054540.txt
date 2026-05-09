@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Dominguez
+  email: joshua.dominguez3008@outlook.com
+  phone: (834) 881-7853
+  ssn: 829-10-1529
+  dob: 08/15/1963
+  address: 4769 South Court
+  city: Boston
+  state: MA

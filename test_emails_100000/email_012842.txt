@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Collins
+  email: sarah.collins4326@yahoo.com
+  phone: 250 257 7321
+  ssn: 468457424
+  dob: 12/16/2005
+  address: 3779 West St
+  city: Dallas
+  state: FL

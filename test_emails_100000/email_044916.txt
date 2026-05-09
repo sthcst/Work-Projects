@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Morgan,jason.morgan5441@business.net,217 727 1763,385-77-9527,07/22/1962,"3842 Third Way",Austin,CO

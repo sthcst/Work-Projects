@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Sanchez,kevin.sanchez928@example.com,249-299-5050,562-93-2350,06/21/1991,"9709 Park Court",Seattle,AZ

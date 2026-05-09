@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Bell",
+    "email": "daniel.bell8653@mail.com",
+    "phone": "+1 966-373-9795",
+    "ssn": "193324021",
+    "dob": "12/19/1956",
+    "address": "9676 Sixth Way",
+    "city": "San Jose",
+    "state": "PA"
+  }
+}

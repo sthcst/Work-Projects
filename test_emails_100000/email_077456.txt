@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Johnson",
+    "email": "jacob.johnson4279@gmail.com",
+    "phone": "223 879 5533",
+    "ssn": "111-80-7537",
+    "dob": "07-27-1981",
+    "address": "2214 First Ave",
+    "city": "Austin",
+    "state": "TN"
+  }
+}

@@ -1,0 +1,12 @@
+SUPPORT TICKET #48053
+
+Customer: Maria Gomez
+Email: maria.gomez2554@example.com
+Phone: 789-353-6005
+Account: 178-62-6238
+
+Issue Description: Technical problem reported
+DOB on file: 04/26/1994
+Address: 2906 Birch Way, Denver, IL
+
+Status: OPEN

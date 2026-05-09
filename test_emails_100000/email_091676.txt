@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Smith",
+    "email": "christopher.smith9949@example.com",
+    "phone": "669 242 3316",
+    "ssn": "609 87 9745",
+    "dob": "12/21/1968",
+    "address": "5291 Fourth Ave",
+    "city": "Denver",
+    "state": "MD"
+  }
+}

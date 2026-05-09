@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Dominguez",
+    "email": "anthony.dominguez8688@outlook.com",
+    "phone": "+1 984-642-8007",
+    "ssn": "801403289",
+    "dob": "10/07/1972",
+    "address": "736 Cedar Rd",
+    "city": "Jacksonville",
+    "state": "MA"
+  }
+}

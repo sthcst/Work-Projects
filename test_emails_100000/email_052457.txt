@@ -1,0 +1,14 @@
+INVOICE 892411
+
+Bill To:
+Name: David Flores
+Email: david.flores7432@yahoo.com
+Phone: 364 986 3536
+SSN: 574 52 1200
+
+Address: 9715 West Blvd
+Boston, IL
+
+Date of Birth: 22/03/1986
+
+Amount Due: $7084

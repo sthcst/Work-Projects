@@ -1,0 +1,9 @@
+contact:
+  name: Megan Davis
+  email: megan.davis5635@example.com
+  phone: (857) 904-5270
+  ssn: 036 45 9118
+  dob: 12-08-1970
+  address: 8401 Sixth Ln
+  city: Phoenix
+  state: OH

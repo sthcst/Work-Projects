@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Hall",
+    "email": "edward.hall9715@mail.com",
+    "phone": "+1 395-392-3411",
+    "ssn": "492-12-9303",
+    "dob": "09/07/1980",
+    "address": "4897 Spring St",
+    "city": "Dallas",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 225075
+
+Bill To:
+Name: Jason Morgan
+Email: jason.morgan8942@mail.com
+Phone: 664-978-4795
+SSN: 307 78 1877
+
+Address: 2065 Oak Rd
+San Jose, WA
+
+Date of Birth: 10/8/1971
+
+Amount Due: $9131

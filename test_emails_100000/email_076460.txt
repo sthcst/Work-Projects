@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Matthew Romero,matthew.romero3420@gmail.com,+1 811-322-5998,629-31-8257,10-19-1968,"6902 Fourth Court",Seattle,NY

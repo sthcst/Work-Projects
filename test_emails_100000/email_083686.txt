@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Garcia,pamela.garcia8025@gmail.com,561-849-9487,274 13 1860,07/14/1964,"5377 Birch Ln",Washington,NJ

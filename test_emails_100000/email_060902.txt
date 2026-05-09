@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Martin",
+    "email": "edward.martin7332@company.com",
+    "phone": "560-945-9731",
+    "ssn": "957571149",
+    "dob": "02/05/1989",
+    "address": "6554 South Way",
+    "city": "San Jose",
+    "state": "FL"
+  }
+}

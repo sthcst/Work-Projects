@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Murillo
+  email: cynthia.murillo5852@company.com
+  phone: 380 304 7946
+  ssn: 446735087
+  dob: 4/10/2005
+  address: 7168 Maple Blvd
+  city: Austin
+  state: MA

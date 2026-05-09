@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Ortiz",
+    "email": "kenneth.ortiz7397@mail.com",
+    "phone": "902-611-6984",
+    "ssn": "347 27 4396",
+    "dob": "11/09/1969",
+    "address": "7699 Third Blvd",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

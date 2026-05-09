@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Rogers,jennifer.rogers4540@example.com,(586) 372-2137,271065408,6/18/1962,"358 Third St",New York,PA

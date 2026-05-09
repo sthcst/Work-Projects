@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Wilson,james.wilson8621@mail.com,+1 951-827-2401,500382947,4/19/1968,"7734 East St",Seattle,OH

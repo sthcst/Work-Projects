@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Gonzalez",
+    "email": "christopher.gonzalez1350@example.com",
+    "phone": "597 697 2366",
+    "ssn": "630522023",
+    "dob": "25/09/1979",
+    "address": "6159 Second Court",
+    "city": "San Jose",
+    "state": "NY"
+  }
+}

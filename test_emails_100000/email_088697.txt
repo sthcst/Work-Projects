@@ -1,0 +1,9 @@
+contact:
+  name: Michael White
+  email: michael.white5389@yahoo.com
+  phone: 217 286 2980
+  ssn: 293243383
+  dob: 12/25/1986
+  address: 4995 Spring Dr
+  city: San Antonio
+  state: CA

@@ -1,0 +1,14 @@
+INVOICE 457156
+
+Bill To:
+Name: Charles Bell
+Email: charles.bell5890@example.com
+Phone: 377-974-2361
+SSN: 529341040
+
+Address: 6758 Fifth Blvd
+Houston, MO
+
+Date of Birth: 09/24/1996
+
+Amount Due: $1992

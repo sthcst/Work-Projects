@@ -1,0 +1,9 @@
+contact:
+  name: George Harris
+  email: george.harris197@example.com
+  phone: (465) 554-8082
+  ssn: 594 28 5126
+  dob: 06-09-1977
+  address: 3655 East Dr
+  city: Seattle
+  state: OH

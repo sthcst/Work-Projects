@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Gomez
+  email: ashley.gomez2372@work.org
+  phone: +1 403-811-2364
+  ssn: 259 32 6417
+  dob: 11-06-1973
+  address: 3728 East St
+  city: San Antonio
+  state: IL

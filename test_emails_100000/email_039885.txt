@@ -1,0 +1,9 @@
+contact:
+  name: Mark Anderson
+  email: mark.anderson9784@gmail.com
+  phone: 949 506 1797
+  ssn: 550-27-9942
+  dob: 19/10/1967
+  address: 9463 Pine Way
+  city: Denver
+  state: WI

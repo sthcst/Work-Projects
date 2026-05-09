@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Martinez,kenneth.martinez9863@example.com,670-464-7319,935 48 8692,25/10/1993,"998 Birch Dr",Austin,CA

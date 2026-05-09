@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Edwards",
+    "email": "robert.edwards8198@example.com",
+    "phone": "952 594 3768",
+    "ssn": "889 04 2078",
+    "dob": "3/13/1973",
+    "address": "7320 Park Ln",
+    "city": "Los Angeles",
+    "state": "NJ"
+  }
+}

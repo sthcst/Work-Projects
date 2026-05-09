@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Jackson",
+    "email": "angela.jackson1141@mail.com",
+    "phone": "(756) 625-5548",
+    "ssn": "652-40-6827",
+    "dob": "22/01/1985",
+    "address": "3377 Fifth Rd",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

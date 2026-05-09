@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Sanchez",
+    "email": "paul.sanchez3993@work.org",
+    "phone": "+1 979-236-4541",
+    "ssn": "763-31-1918",
+    "dob": "10/12/1953",
+    "address": "9203 East Rd",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

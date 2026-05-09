@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Johnson
+  email: nicole.johnson3400@company.com
+  phone: 512 465 4170
+  ssn: 478-06-8559
+  dob: 7/18/1986
+  address: 4198 Pine Rd
+  city: Washington
+  state: TX

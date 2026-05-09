@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Delgado,rebecca.delgado1337@work.org,678-769-8804,447 96 3955,12-25-1986,"1973 Park Ln",Chicago,NC

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Robinson",
+    "email": "jane.robinson635@business.net",
+    "phone": "755 513 7166",
+    "ssn": "760 90 5243",
+    "dob": "04-15-1976",
+    "address": "2180 West Rd",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

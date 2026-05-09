@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Stewart,joseph.stewart5643@example.com,841-220-9452,139 53 9707,25/04/2002,"1641 Pine Court",Houston,CO

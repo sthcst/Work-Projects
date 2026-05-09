@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Delgado",
+    "email": "michelle.delgado7785@gmail.com",
+    "phone": "(229) 366-5635",
+    "ssn": "249182185",
+    "dob": "08-12-1978",
+    "address": "1461 South Court",
+    "city": "Houston",
+    "state": "OH"
+  }
+}

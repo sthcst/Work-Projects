@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Walker,andrew.walker6208@gmail.com,+1 452-344-7849,557954026,08/21/1976,"9132 Oak Ln",Chicago,NC

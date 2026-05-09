@@ -1,0 +1,14 @@
+INVOICE 336930
+
+Bill To:
+Name: Robert Thompson
+Email: robert.thompson3273@example.com
+Phone: (741) 279-6841
+SSN: 269-62-1708
+
+Address: 2073 Cedar Dr
+San Antonio, TX
+
+Date of Birth: 10-18-1982
+
+Amount Due: $5088

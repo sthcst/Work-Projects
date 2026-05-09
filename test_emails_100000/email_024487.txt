@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Jimenez,christopher.jimenez1816@mail.com,(710) 848-6830,622 04 9378,10/05/1967,"4690 Park Ln",Seattle,CO

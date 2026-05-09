@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Serrano",
+    "email": "jacob.serrano9813@company.com",
+    "phone": "(329) 385-9980",
+    "ssn": "228 68 1088",
+    "dob": "07-15-1982",
+    "address": "9847 South Dr",
+    "city": "San Diego",
+    "state": "GA"
+  }
+}

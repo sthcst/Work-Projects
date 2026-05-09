@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Evans",
+    "email": "william.evans4192@business.net",
+    "phone": "(890) 806-6786",
+    "ssn": "677-66-1568",
+    "dob": "04/05/1982",
+    "address": "4474 Fifth Ln",
+    "city": "Boston",
+    "state": "OH"
+  }
+}

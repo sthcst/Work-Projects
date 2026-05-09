@@ -1,0 +1,9 @@
+contact:
+  name: Gary Parker
+  email: gary.parker8848@mail.com
+  phone: 925 706 9468
+  ssn: 232792188
+  dob: 11/13/1998
+  address: 7226 North St
+  city: Jacksonville
+  state: FL

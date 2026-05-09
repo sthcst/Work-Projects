@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Sanchez
+  email: katherine.sanchez4860@example.com
+  phone: 263 973 2406
+  ssn: 085675363
+  dob: 11/19/1987
+  address: 1459 Spring St
+  city: Phoenix
+  state: MA

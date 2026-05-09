@@ -1,0 +1,9 @@
+contact:
+  name: Joshua White
+  email: joshua.white2393@company.com
+  phone: 399 772 1855
+  ssn: 089-99-3853
+  dob: 18/06/1996
+  address: 5108 Second Court
+  city: Austin
+  state: WA

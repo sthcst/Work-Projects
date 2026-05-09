@@ -1,0 +1,9 @@
+contact:
+  name: James Parker
+  email: james.parker9191@company.com
+  phone: 914-674-2038
+  ssn: 022-37-8998
+  dob: 19/06/1966
+  address: 3425 Fifth Blvd
+  city: Chicago
+  state: NJ

@@ -1,0 +1,14 @@
+INVOICE 798204
+
+Bill To:
+Name: Emily Martin
+Email: emily.martin7096@example.com
+Phone: 871-963-1432
+SSN: 289-71-4908
+
+Address: 4639 First Ave
+San Diego, NY
+
+Date of Birth: 05/21/1957
+
+Amount Due: $8643

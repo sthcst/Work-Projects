@@ -1,0 +1,14 @@
+INVOICE 810500
+
+Bill To:
+Name: Lauren Carter
+Email: lauren.carter736@company.com
+Phone: 283 618 8912
+SSN: 731 63 9124
+
+Address: 8113 Summer Court
+San Jose, AZ
+
+Date of Birth: 6/4/1961
+
+Amount Due: $5080

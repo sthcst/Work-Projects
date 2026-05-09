@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Martinez",
+    "email": "jane.martinez6484@yahoo.com",
+    "phone": "(915) 521-3312",
+    "ssn": "031338765",
+    "dob": "03-04-1971",
+    "address": "8197 North St",
+    "city": "Washington",
+    "state": "MO"
+  }
+}

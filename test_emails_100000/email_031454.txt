@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Matthew Collins,matthew.collins6983@company.com,595 362 6928,520936707,12/14/1973,"8568 Fourth St",New York,CO

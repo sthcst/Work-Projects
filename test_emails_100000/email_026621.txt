@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Cooper",
+    "email": "christine.cooper7559@company.com",
+    "phone": "530-834-6789",
+    "ssn": "772-31-7080",
+    "dob": "9/19/1966",
+    "address": "2172 First Dr",
+    "city": "Austin",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Angela Martinez
+  email: angela.martinez7504@gmail.com
+  phone: 875 811 9460
+  ssn: 962-62-5911
+  dob: 03-26-1960
+  address: 8915 Summer Court
+  city: Washington
+  state: CA

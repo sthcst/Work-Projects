@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Reed",
+    "email": "gary.reed803@gmail.com",
+    "phone": "593 763 5098",
+    "ssn": "902608559",
+    "dob": "04-16-1972",
+    "address": "1871 West Rd",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

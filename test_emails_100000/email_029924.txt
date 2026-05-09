@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Garcia
+  email: anthony.garcia7727@mail.com
+  phone: (930) 652-8584
+  ssn: 593-07-6745
+  dob: 5/1/1980
+  address: 1959 Spring St
+  city: Washington
+  state: GA

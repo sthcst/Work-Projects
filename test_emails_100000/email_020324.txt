@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Guerrero",
+    "email": "christine.guerrero9679@business.net",
+    "phone": "(577) 878-6509",
+    "ssn": "579814622",
+    "dob": "7/25/1980",
+    "address": "7962 Summer St",
+    "city": "New York",
+    "state": "VA"
+  }
+}

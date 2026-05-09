@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Rodriguez
+  email: daniel.rodriguez1010@yahoo.com
+  phone: +1 552-950-1989
+  ssn: 635-97-8046
+  dob: 25/11/1995
+  address: 206 Elm Blvd
+  city: Jacksonville
+  state: VA

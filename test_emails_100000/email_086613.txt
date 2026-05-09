@@ -1,0 +1,12 @@
+SUPPORT TICKET #37219
+
+Customer: George Guerrero
+Email: george.guerrero1587@example.com
+Phone: 701-257-9739
+Account: 003 21 9268
+
+Issue Description: Technical problem reported
+DOB on file: 01/01/1965
+Address: 1274 Main Dr, Phoenix, NJ
+
+Status: OPEN

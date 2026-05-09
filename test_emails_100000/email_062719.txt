@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Romero
+  email: nicholas.romero257@business.net
+  phone: +1 740-203-9888
+  ssn: 138278975
+  dob: 07/02/1950
+  address: 7472 Main Court
+  city: Los Angeles
+  state: MD

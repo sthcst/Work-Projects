@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Roberts,nicholas.roberts4332@company.com,(479) 405-3066,081324319,7/13/1951,"269 Main Ave",Phoenix,FL

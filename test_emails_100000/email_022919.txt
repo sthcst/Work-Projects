@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Williams,brian.williams6730@example.com,+1 586-385-7124,402-78-7998,10/20/1988,"2984 Cedar Dr",New York,MA

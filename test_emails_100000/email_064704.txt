@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Wilson,kevin.wilson210@mail.com,572-228-5118,676-66-1976,19/04/1979,"4589 Park St",Dallas,NY

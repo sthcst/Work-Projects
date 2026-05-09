@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Phillips
+  email: cynthia.phillips7784@gmail.com
+  phone: 970-632-1322
+  ssn: 823-05-1644
+  dob: 20/09/1956
+  address: 6247 Fourth Ave
+  city: Los Angeles
+  state: TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Hall,jeffrey.hall6458@mail.com,689 306 9509,497 92 7015,06/17/1951,"4154 Main Court",Washington,CO

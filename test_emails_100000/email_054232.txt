@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Serrano,stephanie.serrano6890@mail.com,(452) 351-9482,042232924,04-22-1975,"4592 Summer Rd",Washington,TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Harris",
+    "email": "emma.harris7806@business.net",
+    "phone": "(683) 986-5432",
+    "ssn": "110 47 8051",
+    "dob": "06/15/1962",
+    "address": "3801 Pine Court",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

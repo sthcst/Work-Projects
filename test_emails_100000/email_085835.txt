@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Brown,emma.brown1197@outlook.com,711 859 1461,991 55 6642,03/25/2004,"8152 South Way",San Jose,MA

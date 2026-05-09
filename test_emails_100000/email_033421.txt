@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Cooper,anthony.cooper6480@business.net,(487) 851-6252,507312546,12/06/1989,"8127 Park Dr",Los Angeles,FL

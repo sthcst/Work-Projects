@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Cooper
+  email: katherine.cooper760@mail.com
+  phone: 777-831-1625
+  ssn: 542233530
+  dob: 11-14-1954
+  address: 6053 Fifth Court
+  city: Dallas
+  state: CO

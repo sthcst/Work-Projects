@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Jones,kimberly.jones4252@gmail.com,643 946 3634,985 67 1538,07/16/1979,"6971 Birch St",Denver,CO

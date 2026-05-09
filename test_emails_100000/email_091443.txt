@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Perez",
+    "email": "paul.perez5708@gmail.com",
+    "phone": "(417) 508-9670",
+    "ssn": "446332488",
+    "dob": "28/03/1985",
+    "address": "8433 Birch Ave",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Peterson,nicole.peterson6882@gmail.com,(832) 330-9524,545873200,04-04-1989,"1355 Fifth Ave",Houston,VA

@@ -1,0 +1,14 @@
+INVOICE 966699
+
+Bill To:
+Name: John Morris
+Email: john.morris9937@example.com
+Phone: (527) 410-3304
+SSN: 642-55-9104
+
+Address: 949 North Blvd
+Jacksonville, FL
+
+Date of Birth: 17/08/1989
+
+Amount Due: $7260

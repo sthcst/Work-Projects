@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Stewart",
+    "email": "michelle.stewart4192@work.org",
+    "phone": "+1 217-778-5975",
+    "ssn": "954353655",
+    "dob": "03/07/1985",
+    "address": "3406 First Court",
+    "city": "Austin",
+    "state": "OH"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Parker
+  email: nicholas.parker717@yahoo.com
+  phone: 821-783-5357
+  ssn: 985 65 1517
+  dob: 07/16/1985
+  address: 6374 Pine Dr
+  city: Chicago
+  state: TX

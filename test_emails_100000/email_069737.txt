@@ -1,0 +1,9 @@
+contact:
+  name: Jane Ortiz
+  email: jane.ortiz8722@company.com
+  phone: (876) 902-7267
+  ssn: 975-04-4687
+  dob: 4/23/1957
+  address: 5935 Summer Ave
+  city: Austin
+  state: MI

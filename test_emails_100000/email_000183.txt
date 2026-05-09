@@ -1,0 +1,9 @@
+contact:
+  name: George Stewart
+  email: george.stewart4531@company.com
+  phone: (665) 613-1076
+  ssn: 268237670
+  dob: 02-18-1954
+  address: 5580 Pine Dr
+  city: Dallas
+  state: VA

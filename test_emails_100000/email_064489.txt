@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Reed,katherine.reed2341@gmail.com,+1 642-224-1019,905729142,8/18/1978,"9140 Fifth St",Phoenix,FL

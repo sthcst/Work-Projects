@@ -1,0 +1,14 @@
+INVOICE 764923
+
+Bill To:
+Name: Jason Ortiz
+Email: jason.ortiz5138@mail.com
+Phone: +1 619-201-5548
+SSN: 597082332
+
+Address: 1357 Park Dr
+Houston, MI
+
+Date of Birth: 04/03/1954
+
+Amount Due: $6668

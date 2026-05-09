@@ -1,0 +1,9 @@
+contact:
+  name: Mark Hall
+  email: mark.hall4321@outlook.com
+  phone: +1 513-594-6726
+  ssn: 641227318
+  dob: 8/14/1979
+  address: 3198 Cedar Way
+  city: Houston
+  state: MA

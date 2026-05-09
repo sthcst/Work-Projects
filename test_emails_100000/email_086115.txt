@@ -1,0 +1,9 @@
+contact:
+  name: Paul Reed
+  email: paul.reed4776@yahoo.com
+  phone: 816 381 9450
+  ssn: 430 78 6122
+  dob: 18/08/1958
+  address: 4449 West Rd
+  city: Washington
+  state: FL

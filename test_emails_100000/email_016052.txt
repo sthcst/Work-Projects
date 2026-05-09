@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Brown,jacob.brown1091@yahoo.com,960 777 8854,770 66 5952,10/16/1985,"9254 Oak Rd",Austin,TX

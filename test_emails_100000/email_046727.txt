@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Miller",
+    "email": "charles.miller9890@work.org",
+    "phone": "235 609 5663",
+    "ssn": "682-34-5844",
+    "dob": "04-08-1975",
+    "address": "4657 First Rd",
+    "city": "Boston",
+    "state": "CO"
+  }
+}

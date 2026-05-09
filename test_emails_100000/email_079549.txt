@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Delgado,jacob.delgado5071@example.com,+1 430-798-2397,807 58 1457,2/5/1974,"2900 Elm Blvd",Denver,NY

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Phillips",
+    "email": "joseph.phillips567@company.com",
+    "phone": "+1 344-968-2139",
+    "ssn": "862-59-9180",
+    "dob": "18/04/1954",
+    "address": "9595 Sixth Dr",
+    "city": "Los Angeles",
+    "state": "AZ"
+  }
+}

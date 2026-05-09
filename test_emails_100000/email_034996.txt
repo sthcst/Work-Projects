@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Roberts",
+    "email": "jane.roberts5007@company.com",
+    "phone": "+1 306-613-4987",
+    "ssn": "617-54-6982",
+    "dob": "08/02/2001",
+    "address": "428 Pine Ln",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

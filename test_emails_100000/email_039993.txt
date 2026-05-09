@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Hall",
+    "email": "michael.hall4381@example.com",
+    "phone": "(848) 732-8018",
+    "ssn": "047771526",
+    "dob": "06/11/1974",
+    "address": "8811 First Dr",
+    "city": "Seattle",
+    "state": "WA"
+  }
+}

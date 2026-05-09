@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Davis
+  email: jessica.davis3363@work.org
+  phone: 208 263 1123
+  ssn: 912 05 1744
+  dob: 11-08-1977
+  address: 3344 Summer St
+  city: Austin
+  state: MO

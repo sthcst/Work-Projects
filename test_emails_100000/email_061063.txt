@@ -1,0 +1,9 @@
+contact:
+  name: Charles Garcia
+  email: charles.garcia1651@example.com
+  phone: 947-917-2585
+  ssn: 809 33 7346
+  dob: 20/07/1977
+  address: 6409 Sixth Ln
+  city: Phoenix
+  state: OH

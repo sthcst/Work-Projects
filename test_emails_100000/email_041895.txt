@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Evans",
+    "email": "cynthia.evans6195@yahoo.com",
+    "phone": "237-507-2047",
+    "ssn": "753-81-4845",
+    "dob": "22/02/1978",
+    "address": "1299 Fourth Blvd",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

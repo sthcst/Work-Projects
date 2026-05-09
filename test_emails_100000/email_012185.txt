@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Murillo
+  email: nicholas.murillo5584@example.com
+  phone: 974 667 5200
+  ssn: 037-48-3596
+  dob: 11-06-1995
+  address: 1410 Park St
+  city: San Jose
+  state: VA

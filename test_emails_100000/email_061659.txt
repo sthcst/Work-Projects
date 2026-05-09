@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Phillips
+  email: lisa.phillips5309@company.com
+  phone: +1 426-712-2553
+  ssn: 346626274
+  dob: 11-21-1986
+  address: 1438 Fourth Dr
+  city: Boston
+  state: NC

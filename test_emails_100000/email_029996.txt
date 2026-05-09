@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Serrano",
+    "email": "pamela.serrano3531@mail.com",
+    "phone": "+1 987-723-8818",
+    "ssn": "261-21-5881",
+    "dob": "20/06/1993",
+    "address": "6114 Fourth Rd",
+    "city": "Houston",
+    "state": "OH"
+  }
+}

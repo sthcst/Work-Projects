@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Martinez",
+    "email": "richard.martinez4342@work.org",
+    "phone": "863-871-3690",
+    "ssn": "774-33-6719",
+    "dob": "12-10-2001",
+    "address": "5472 Maple Ave",
+    "city": "Phoenix",
+    "state": "WA"
+  }
+}

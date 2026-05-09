@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Thompson
+  email: amanda.thompson6970@example.com
+  phone: +1 244-636-8224
+  ssn: 871167698
+  dob: 11-06-1982
+  address: 1169 Main Blvd
+  city: Dallas
+  state: CA

@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Lee
+  email: katherine.lee8438@company.com
+  phone: 775 357 4167
+  ssn: 318-71-1884
+  dob: 24/05/1963
+  address: 3658 Second St
+  city: Washington
+  state: CO

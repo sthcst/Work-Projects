@@ -1,0 +1,14 @@
+INVOICE 742320
+
+Bill To:
+Name: Emily Martinez
+Email: emily.martinez6865@company.com
+Phone: (374) 587-8016
+SSN: 825 76 9956
+
+Address: 4382 First Ave
+San Jose, MI
+
+Date of Birth: 10/07/1999
+
+Amount Due: $6982

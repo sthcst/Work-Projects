@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Miller",
+    "email": "emma.miller9723@outlook.com",
+    "phone": "+1 586-731-3416",
+    "ssn": "175658299",
+    "dob": "24/08/1998",
+    "address": "1999 Spring Court",
+    "city": "Austin",
+    "state": "MA"
+  }
+}

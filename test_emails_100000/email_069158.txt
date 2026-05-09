@@ -1,0 +1,14 @@
+INVOICE 665782
+
+Bill To:
+Name: Robert Edwards
+Email: robert.edwards8569@example.com
+Phone: 816 277 1820
+SSN: 008275802
+
+Address: 5226 West Ln
+Phoenix, MD
+
+Date of Birth: 1/2/2002
+
+Amount Due: $7702

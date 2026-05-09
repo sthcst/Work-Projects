@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Reed",
+    "email": "daniel.reed7560@gmail.com",
+    "phone": "(444) 985-7999",
+    "ssn": "358 96 2806",
+    "dob": "04-06-1991",
+    "address": "7342 Birch Ln",
+    "city": "San Jose",
+    "state": "MA"
+  }
+}

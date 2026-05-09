@@ -1,0 +1,14 @@
+INVOICE 838624
+
+Bill To:
+Name: Rebecca Robinson
+Email: rebecca.robinson7457@example.com
+Phone: 831 209 4665
+SSN: 575-55-2126
+
+Address: 4615 Sixth Rd
+San Antonio, IL
+
+Date of Birth: 10/17/1995
+
+Amount Due: $3406

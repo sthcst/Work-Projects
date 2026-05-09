@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Taylor,rachel.taylor2618@example.com,349 638 8929,456769235,22/12/1977,"6048 Spring Rd",Denver,NY

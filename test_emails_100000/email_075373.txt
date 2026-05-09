@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Rogers",
+    "email": "kevin.rogers1887@yahoo.com",
+    "phone": "353 897 4302",
+    "ssn": "358 76 7690",
+    "dob": "12/6/2004",
+    "address": "8551 Park Blvd",
+    "city": "San Jose",
+    "state": "FL"
+  }
+}

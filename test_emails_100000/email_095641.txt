@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Evans,shirley.evans3104@company.com,574-847-3402,855512437,24/08/1972,"3902 Summer Ln",Denver,MI

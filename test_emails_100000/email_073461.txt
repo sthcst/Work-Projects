@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Romero
+  email: andrew.romero474@outlook.com
+  phone: 666-463-9140
+  ssn: 202 06 8430
+  dob: 2/16/1980
+  address: 4431 Sixth St
+  city: Dallas
+  state: TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Flores,megan.flores54@example.com,497-497-3692,194777457,4/27/1950,"7730 Birch Dr",New York,MD

@@ -1,0 +1,14 @@
+INVOICE 417511
+
+Bill To:
+Name: Jennifer Delgado
+Email: jennifer.delgado8526@example.com
+Phone: 336 224 7841
+SSN: 473-64-7689
+
+Address: 381 Spring Court
+Philadelphia, CA
+
+Date of Birth: 12/07/1966
+
+Amount Due: $510

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Hernandez",
+    "email": "cynthia.hernandez3045@work.org",
+    "phone": "(578) 254-2615",
+    "ssn": "587169790",
+    "dob": "6/24/1960",
+    "address": "9544 Fourth Ln",
+    "city": "San Diego",
+    "state": "WI"
+  }
+}

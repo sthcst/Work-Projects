@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Sanchez",
+    "email": "kathleen.sanchez2358@company.com",
+    "phone": "+1 593-449-6441",
+    "ssn": "077 20 9885",
+    "dob": "15/04/1984",
+    "address": "9876 Birch Court",
+    "city": "Dallas",
+    "state": "MA"
+  }
+}

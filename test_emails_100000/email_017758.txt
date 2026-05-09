@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Smith,steven.smith5891@gmail.com,(636) 729-3272,580-02-4903,07/16/1978,"8234 Elm Way",Los Angeles,TX

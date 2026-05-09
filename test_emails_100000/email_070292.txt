@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Dominguez",
+    "email": "gary.dominguez4709@yahoo.com",
+    "phone": "(884) 663-4936",
+    "ssn": "801 52 3698",
+    "dob": "07/19/1950",
+    "address": "9140 South Dr",
+    "city": "Phoenix",
+    "state": "WI"
+  }
+}

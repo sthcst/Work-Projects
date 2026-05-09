@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Romero",
+    "email": "timothy.romero4170@outlook.com",
+    "phone": "815-428-8282",
+    "ssn": "446374068",
+    "dob": "07/01/1981",
+    "address": "4542 Oak Ln",
+    "city": "Austin",
+    "state": "FL"
+  }
+}

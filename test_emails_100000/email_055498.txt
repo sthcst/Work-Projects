@@ -1,0 +1,14 @@
+INVOICE 574469
+
+Bill To:
+Name: Joseph Lee
+Email: joseph.lee7078@company.com
+Phone: +1 671-762-6842
+SSN: 283-21-2881
+
+Address: 7961 First Court
+San Diego, TX
+
+Date of Birth: 10-26-1980
+
+Amount Due: $8698

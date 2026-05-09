@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Rogers,donald.rogers6658@gmail.com,+1 205-849-5881,661 44 6226,4/20/1976,"1029 Fifth Rd",San Diego,CA

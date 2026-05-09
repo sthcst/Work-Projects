@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Perez
+  email: jessica.perez1572@business.net
+  phone: 424 435 4913
+  ssn: 922 43 8826
+  dob: 23/07/1989
+  address: 2578 Elm Rd
+  city: Chicago
+  state: NY

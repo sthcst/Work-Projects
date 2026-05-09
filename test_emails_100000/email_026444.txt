@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Edwards,megan.edwards7826@outlook.com,(637) 760-3146,319 71 2292,07/03/2002,"6947 North Court",Dallas,MA

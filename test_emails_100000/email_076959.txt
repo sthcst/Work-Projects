@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Jackson,joshua.jackson1519@company.com,294-487-1498,216668498,12/01/1958,"4427 Main Rd",San Jose,MD

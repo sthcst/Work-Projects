@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Campbell
+  email: nicholas.campbell5519@outlook.com
+  phone: 511 854 9940
+  ssn: 961522928
+  dob: 12/26/1971
+  address: 8700 South Blvd
+  city: Houston
+  state: IL

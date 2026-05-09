@@ -1,0 +1,14 @@
+INVOICE 945208
+
+Bill To:
+Name: Charles Young
+Email: charles.young8417@business.net
+Phone: 742-870-8474
+SSN: 033-35-8336
+
+Address: 2212 Elm Blvd
+San Antonio, CA
+
+Date of Birth: 3/9/1983
+
+Amount Due: $3227

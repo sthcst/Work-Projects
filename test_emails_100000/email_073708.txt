@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Carter",
+    "email": "jacob.carter4554@example.com",
+    "phone": "751 694 8440",
+    "ssn": "131-95-1474",
+    "dob": "04-23-1982",
+    "address": "8184 North Rd",
+    "city": "New York",
+    "state": "NC"
+  }
+}

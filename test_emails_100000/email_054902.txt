@@ -1,0 +1,14 @@
+INVOICE 431011
+
+Bill To:
+Name: Gary Ramirez
+Email: gary.ramirez2060@gmail.com
+Phone: 878 284 6902
+SSN: 784 70 6933
+
+Address: 7578 Park Ln
+Chicago, TX
+
+Date of Birth: 7/19/2001
+
+Amount Due: $8475

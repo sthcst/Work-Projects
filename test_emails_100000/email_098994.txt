@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Carter",
+    "email": "christopher.carter5985@company.com",
+    "phone": "219 356 2610",
+    "ssn": "961 94 1694",
+    "dob": "05/16/1987",
+    "address": "4268 Summer Ln",
+    "city": "Washington",
+    "state": "MO"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Mark Nunez
+  email: mark.nunez1764@outlook.com
+  phone: 602 312 4679
+  ssn: 077 05 6086
+  dob: 01/18/1972
+  address: 7826 Third Ln
+  city: San Diego
+  state: MA

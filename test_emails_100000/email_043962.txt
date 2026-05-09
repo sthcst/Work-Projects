@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Lee",
+    "email": "kenneth.lee3522@mail.com",
+    "phone": "472 453 8640",
+    "ssn": "952 29 8293",
+    "dob": "08/09/2002",
+    "address": "3519 Second Ln",
+    "city": "Houston",
+    "state": "MO"
+  }
+}

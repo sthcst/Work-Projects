@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Thomas",
+    "email": "nicole.thomas5193@mail.com",
+    "phone": "+1 249-703-4325",
+    "ssn": "416299279",
+    "dob": "04/03/1988",
+    "address": "5145 Fourth St",
+    "city": "Austin",
+    "state": "AZ"
+  }
+}

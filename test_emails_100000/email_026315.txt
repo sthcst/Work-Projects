@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Collins,stephanie.collins1050@example.com,835-482-3238,056-60-1592,12-27-1978,"9564 West Rd",San Jose,MO

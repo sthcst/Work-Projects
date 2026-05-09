@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Miller,nicole.miller7783@business.net,446-906-5896,471596864,07/27/2001,"6372 Birch Way",Boston,FL

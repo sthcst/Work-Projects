@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Bell",
+    "email": "mark.bell367@mail.com",
+    "phone": "(753) 231-1688",
+    "ssn": "828-52-7155",
+    "dob": "08/02/1960",
+    "address": "771 Birch Court",
+    "city": "Jacksonville",
+    "state": "CO"
+  }
+}

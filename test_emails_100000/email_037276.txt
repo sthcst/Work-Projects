@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Guerrero",
+    "email": "ronald.guerrero5776@gmail.com",
+    "phone": "(964) 710-1003",
+    "ssn": "664-10-9466",
+    "dob": "20/06/2001",
+    "address": "8594 Spring St",
+    "city": "Denver",
+    "state": "CO"
+  }
+}

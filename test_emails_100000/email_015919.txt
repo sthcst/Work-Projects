@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Nelson",
+    "email": "maria.nelson9923@example.com",
+    "phone": "323 504 9208",
+    "ssn": "614-71-1842",
+    "dob": "10-27-1959",
+    "address": "7102 Spring Blvd",
+    "city": "Philadelphia",
+    "state": "VA"
+  }
+}

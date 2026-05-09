@@ -1,0 +1,9 @@
+contact:
+  name: Matthew Garcia
+  email: matthew.garcia2908@yahoo.com
+  phone: 507 401 7517
+  ssn: 511 03 6758
+  dob: 01/06/1961
+  address: 6182 Summer Dr
+  city: Boston
+  state: CA

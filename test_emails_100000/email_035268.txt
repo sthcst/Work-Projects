@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Collins
+  email: anthony.collins6319@mail.com
+  phone: +1 722-973-4368
+  ssn: 436 72 6125
+  dob: 17/02/1962
+  address: 3485 Maple Dr
+  city: Phoenix
+  state: OH

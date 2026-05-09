@@ -1,0 +1,14 @@
+INVOICE 307782
+
+Bill To:
+Name: Timothy Taylor
+Email: timothy.taylor3035@company.com
+Phone: +1 879-715-1119
+SSN: 072 08 7251
+
+Address: 8005 Oak Dr
+Austin, TX
+
+Date of Birth: 04-02-1997
+
+Amount Due: $8872

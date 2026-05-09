@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Jones,katherine.jones6526@company.com,+1 436-226-8063,938-07-9785,1/15/2001,"7443 East Blvd",New York,FL

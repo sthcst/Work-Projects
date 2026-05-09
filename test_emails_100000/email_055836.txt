@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Lopez",
+    "email": "ronald.lopez7002@mail.com",
+    "phone": "+1 284-815-2626",
+    "ssn": "906675977",
+    "dob": "06-01-1985",
+    "address": "1886 Pine Ln",
+    "city": "Phoenix",
+    "state": "MO"
+  }
+}

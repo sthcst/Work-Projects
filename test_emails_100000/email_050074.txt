@@ -1,0 +1,14 @@
+INVOICE 414138
+
+Bill To:
+Name: David White
+Email: david.white6563@mail.com
+Phone: +1 700-863-6604
+SSN: 762 76 8159
+
+Address: 1140 Third Court
+Chicago, DC
+
+Date of Birth: 27/04/1974
+
+Amount Due: $2350

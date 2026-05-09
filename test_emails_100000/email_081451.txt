@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Delgado
+  email: ryan.delgado7440@gmail.com
+  phone: (792) 286-7973
+  ssn: 134 53 9978
+  dob: 10/13/1991
+  address: 3608 First Court
+  city: Denver
+  state: MI

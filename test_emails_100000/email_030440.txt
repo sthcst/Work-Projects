@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Robinson",
+    "email": "brenda.robinson1456@example.com",
+    "phone": "+1 630-644-3694",
+    "ssn": "153768480",
+    "dob": "26/01/2004",
+    "address": "6529 Elm Court",
+    "city": "San Diego",
+    "state": "PA"
+  }
+}

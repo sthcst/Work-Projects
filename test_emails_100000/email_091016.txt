@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Jackson,brian.jackson11@work.org,775-520-7529,606 71 7083,12/23/1960,"2141 Fifth St",Philadelphia,NJ

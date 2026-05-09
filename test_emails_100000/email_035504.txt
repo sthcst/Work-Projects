@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Dominguez",
+    "email": "jeffrey.dominguez3296@mail.com",
+    "phone": "+1 943-681-1970",
+    "ssn": "182318724",
+    "dob": "11-28-2001",
+    "address": "2216 Spring Rd",
+    "city": "Chicago",
+    "state": "MI"
+  }
+}

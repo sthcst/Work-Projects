@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Williams",
+    "email": "kathleen.williams741@outlook.com",
+    "phone": "670 357 5289",
+    "ssn": "082699197",
+    "dob": "14/07/1968",
+    "address": "1740 Park Court",
+    "city": "Chicago",
+    "state": "AZ"
+  }
+}

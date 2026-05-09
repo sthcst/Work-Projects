@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Taylor
+  email: rebecca.taylor9630@mail.com
+  phone: 555 228 2997
+  ssn: 011 19 1238
+  dob: 05-14-2000
+  address: 6551 Main Blvd
+  city: Austin
+  state: CA

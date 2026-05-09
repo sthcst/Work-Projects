@@ -1,0 +1,14 @@
+INVOICE 640177
+
+Bill To:
+Name: Maria Reyes
+Email: maria.reyes7809@example.com
+Phone: 694-718-8449
+SSN: 728064539
+
+Address: 8129 Summer Blvd
+Phoenix, TX
+
+Date of Birth: 05/12/1968
+
+Amount Due: $897

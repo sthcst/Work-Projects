@@ -1,0 +1,9 @@
+contact:
+  name: William Carter
+  email: william.carter9615@example.com
+  phone: 597-451-1674
+  ssn: 970 04 5139
+  dob: 6/26/1959
+  address: 7217 Second Court
+  city: Washington
+  state: TX

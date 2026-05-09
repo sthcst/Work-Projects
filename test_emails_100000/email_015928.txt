@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Cooper
+  email: rachel.cooper8202@outlook.com
+  phone: (701) 451-5890
+  ssn: 012-20-1214
+  dob: 06/04/1953
+  address: 9168 North Way
+  city: Houston
+  state: AZ

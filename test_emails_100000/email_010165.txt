@@ -1,0 +1,14 @@
+INVOICE 702337
+
+Bill To:
+Name: Jessica Miller
+Email: jessica.miller1726@business.net
+Phone: 608 649 1664
+SSN: 827567784
+
+Address: 9516 Second Rd
+Denver, AZ
+
+Date of Birth: 8/23/1965
+
+Amount Due: $1771

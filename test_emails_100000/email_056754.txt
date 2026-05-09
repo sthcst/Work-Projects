@@ -1,0 +1,14 @@
+INVOICE 768165
+
+Bill To:
+Name: Charles Perez
+Email: charles.perez1937@work.org
+Phone: 952 670 8850
+SSN: 362 21 5292
+
+Address: 7173 Birch Way
+Denver, MA
+
+Date of Birth: 3/13/1978
+
+Amount Due: $2279

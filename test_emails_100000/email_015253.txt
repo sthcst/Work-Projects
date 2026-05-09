@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Taylor",
+    "email": "nicole.taylor3327@gmail.com",
+    "phone": "689 659 6457",
+    "ssn": "273-91-4848",
+    "dob": "07-17-1967",
+    "address": "1677 South Dr",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

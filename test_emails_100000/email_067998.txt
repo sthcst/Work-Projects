@@ -1,0 +1,9 @@
+contact:
+  name: George Dominguez
+  email: george.dominguez6260@company.com
+  phone: +1 946-677-8962
+  ssn: 771-39-7509
+  dob: 12/27/1981
+  address: 6264 Maple Ln
+  city: Dallas
+  state: WI

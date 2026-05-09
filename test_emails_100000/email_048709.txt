@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Parker",
+    "email": "rebecca.parker6207@outlook.com",
+    "phone": "658 929 8997",
+    "ssn": "664-12-8860",
+    "dob": "9/2/1960",
+    "address": "6147 East Court",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

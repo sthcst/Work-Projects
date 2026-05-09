@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Flores
+  email: shirley.flores727@company.com
+  phone: 424 709 2520
+  ssn: 589 63 1453
+  dob: 10/11/1986
+  address: 8799 First Ln
+  city: Jacksonville
+  state: TX

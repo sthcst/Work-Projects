@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Jimenez,joseph.jimenez1120@example.com,599-905-8244,397-80-1434,11/23/1967,"8342 Summer Rd",Washington,CA

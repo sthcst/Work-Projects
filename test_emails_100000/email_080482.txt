@@ -1,0 +1,14 @@
+INVOICE 623120
+
+Bill To:
+Name: Steven Reed
+Email: steven.reed7809@yahoo.com
+Phone: 287-445-5886
+SSN: 620-36-1280
+
+Address: 9925 Pine Ave
+Seattle, MD
+
+Date of Birth: 10/12/1985
+
+Amount Due: $4628

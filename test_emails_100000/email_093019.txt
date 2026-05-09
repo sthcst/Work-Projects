@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Nunez",
+    "email": "george.nunez1780@business.net",
+    "phone": "(741) 585-5418",
+    "ssn": "828606174",
+    "dob": "22/02/1998",
+    "address": "5288 Birch Rd",
+    "city": "Houston",
+    "state": "MO"
+  }
+}

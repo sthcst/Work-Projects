@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Ortiz,christine.ortiz3156@work.org,462 438 7271,925892543,12/13/1974,"6546 Sixth Rd",Philadelphia,TX

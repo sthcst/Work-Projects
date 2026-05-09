@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Jones",
+    "email": "brian.jones7119@example.com",
+    "phone": "+1 787-902-4526",
+    "ssn": "694354384",
+    "dob": "25/11/1981",
+    "address": "1957 Sixth Rd",
+    "city": "San Diego",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Garcia,rebecca.garcia8994@gmail.com,(546) 319-8309,034-04-4648,03/23/1996,"8281 Oak Blvd",San Antonio,CA

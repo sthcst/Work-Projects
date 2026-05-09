@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Edwards
+  email: brenda.edwards5868@example.com
+  phone: 908 690 5266
+  ssn: 962-41-5191
+  dob: 01/18/2005
+  address: 5359 Oak Dr
+  city: Phoenix
+  state: TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Reeves",
+    "email": "deborah.reeves9177@mail.com",
+    "phone": "773-554-6373",
+    "ssn": "872-21-5317",
+    "dob": "19/06/1980",
+    "address": "3865 Fourth Blvd",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

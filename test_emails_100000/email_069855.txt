@@ -1,0 +1,14 @@
+INVOICE 127045
+
+Bill To:
+Name: Michael Murillo
+Email: michael.murillo2350@company.com
+Phone: (293) 865-3526
+SSN: 757-53-4587
+
+Address: 8674 South Blvd
+Boston, CA
+
+Date of Birth: 03/08/2001
+
+Amount Due: $7713

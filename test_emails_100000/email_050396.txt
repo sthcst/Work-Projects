@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Ramirez",
+    "email": "sarah.ramirez3479@company.com",
+    "phone": "(523) 643-8621",
+    "ssn": "156-79-6338",
+    "dob": "09/19/1981",
+    "address": "4260 Main Blvd",
+    "city": "Boston",
+    "state": "TN"
+  }
+}

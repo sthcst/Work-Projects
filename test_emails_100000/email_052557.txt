@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Flores
+  email: nicole.flores2128@outlook.com
+  phone: +1 385-494-7519
+  ssn: 043 89 8220
+  dob: 21/10/1983
+  address: 4635 Second St
+  city: San Antonio
+  state: TX

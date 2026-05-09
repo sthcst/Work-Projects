@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Young",
+    "email": "christine.young7601@work.org",
+    "phone": "+1 845-336-3303",
+    "ssn": "827 70 5397",
+    "dob": "05-18-2002",
+    "address": "8386 Fourth Ave",
+    "city": "Phoenix",
+    "state": "MA"
+  }
+}

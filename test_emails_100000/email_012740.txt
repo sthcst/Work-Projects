@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Carter,kathleen.carter2796@example.com,(983) 502-4285,319132763,06-11-1986,"8975 Summer St",Seattle,MD

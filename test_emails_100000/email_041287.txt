@@ -1,0 +1,14 @@
+INVOICE 689552
+
+Bill To:
+Name: Paul Lee
+Email: paul.lee7182@business.net
+Phone: 411 857 3904
+SSN: 238 70 1443
+
+Address: 4371 South Blvd
+San Jose, NY
+
+Date of Birth: 12-09-1959
+
+Amount Due: $2137

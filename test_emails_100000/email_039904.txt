@@ -1,0 +1,9 @@
+contact:
+  name: Robert Miller
+  email: robert.miller5336@business.net
+  phone: (923) 601-8092
+  ssn: 694-03-1666
+  dob: 11/05/1980
+  address: 8513 Third Ln
+  city: Seattle
+  state: AZ

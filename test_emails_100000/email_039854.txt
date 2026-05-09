@@ -1,0 +1,14 @@
+INVOICE 117643
+
+Bill To:
+Name: Kimberly Miller
+Email: kimberly.miller5351@work.org
+Phone: 231 305 9832
+SSN: 666967564
+
+Address: 423 Cedar St
+Phoenix, MD
+
+Date of Birth: 1/11/1955
+
+Amount Due: $254

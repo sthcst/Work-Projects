@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Gonzalez",
+    "email": "jane.gonzalez5724@mail.com",
+    "phone": "+1 413-943-2358",
+    "ssn": "051426520",
+    "dob": "08/03/1993",
+    "address": "8166 Pine Ave",
+    "city": "San Antonio",
+    "state": "FL"
+  }
+}

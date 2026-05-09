@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Phillips,ashley.phillips4766@example.com,552 214 7101,440-66-1917,04-25-2001,"2308 Second Way",Phoenix,AZ

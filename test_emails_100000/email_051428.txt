@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Evans",
+    "email": "robert.evans9770@mail.com",
+    "phone": "(272) 835-6064",
+    "ssn": "354-70-2874",
+    "dob": "06/22/1960",
+    "address": "3757 Maple Ave",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

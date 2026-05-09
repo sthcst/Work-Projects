@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Bell",
+    "email": "emily.bell7014@yahoo.com",
+    "phone": "+1 690-423-4356",
+    "ssn": "378 79 3281",
+    "dob": "06/24/1976",
+    "address": "5991 North Ln",
+    "city": "San Diego",
+    "state": "FL"
+  }
+}

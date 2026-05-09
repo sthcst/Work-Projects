@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Hall",
+    "email": "kenneth.hall1907@business.net",
+    "phone": "984 823 7323",
+    "ssn": "483 55 8187",
+    "dob": "19/04/1998",
+    "address": "5977 Main Blvd",
+    "city": "Philadelphia",
+    "state": "WI"
+  }
+}

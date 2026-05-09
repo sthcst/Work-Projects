@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Martin
+  email: nicole.martin9735@work.org
+  phone: +1 648-430-7190
+  ssn: 344 15 4645
+  dob: 26/12/1983
+  address: 5943 Cedar Way
+  city: San Diego
+  state: TX

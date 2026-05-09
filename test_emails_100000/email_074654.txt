@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Taylor",
+    "email": "paul.taylor6802@work.org",
+    "phone": "+1 457-401-7426",
+    "ssn": "438 77 2808",
+    "dob": "12/23/1967",
+    "address": "7654 Maple Dr",
+    "city": "Dallas",
+    "state": "FL"
+  }
+}

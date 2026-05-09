@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Reed,emily.reed2510@yahoo.com,(365) 722-8645,962 91 7010,09-17-1983,"5937 Cedar Dr",Denver,IL

@@ -1,0 +1,14 @@
+INVOICE 581554
+
+Bill To:
+Name: Emma Smith
+Email: emma.smith4849@business.net
+Phone: 605 209 2150
+SSN: 924-97-2278
+
+Address: 3020 Oak Court
+Chicago, CO
+
+Date of Birth: 10/20/1970
+
+Amount Due: $9714

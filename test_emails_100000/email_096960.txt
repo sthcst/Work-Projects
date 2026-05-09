@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Davis",
+    "email": "george.davis9725@yahoo.com",
+    "phone": "465-242-6187",
+    "ssn": "216-25-3546",
+    "dob": "07-12-1984",
+    "address": "7981 Cedar Blvd",
+    "city": "Washington",
+    "state": "NC"
+  }
+}

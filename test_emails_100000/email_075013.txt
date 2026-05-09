@@ -1,0 +1,9 @@
+contact:
+  name: David Gomez
+  email: david.gomez7994@company.com
+  phone: +1 355-622-6737
+  ssn: 844 28 4873
+  dob: 05-05-1994
+  address: 2877 First Dr
+  city: Philadelphia
+  state: PA

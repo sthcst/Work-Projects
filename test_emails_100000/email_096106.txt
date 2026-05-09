@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Hernandez
+  email: rebecca.hernandez7416@mail.com
+  phone: 220-441-9411
+  ssn: 318474931
+  dob: 05/08/1998
+  address: 9310 Park Court
+  city: Boston
+  state: DC

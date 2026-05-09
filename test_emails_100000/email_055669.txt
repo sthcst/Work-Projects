@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Sanchez,amanda.sanchez4523@mail.com,414-448-9223,392655235,09-13-1992,"6229 Elm Ave",New York,MA

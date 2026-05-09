@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Dominguez",
+    "email": "samantha.dominguez3471@gmail.com",
+    "phone": "831 415 2222",
+    "ssn": "131 77 9289",
+    "dob": "21/03/1960",
+    "address": "9894 Fourth Rd",
+    "city": "Jacksonville",
+    "state": "NY"
+  }
+}

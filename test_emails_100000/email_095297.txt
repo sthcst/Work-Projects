@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Alvarado",
+    "email": "jessica.alvarado5556@gmail.com",
+    "phone": "402 434 5136",
+    "ssn": "813 86 7182",
+    "dob": "09/23/1975",
+    "address": "3313 Sixth Way",
+    "city": "San Antonio",
+    "state": "NY"
+  }
+}

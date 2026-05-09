@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Reed,ryan.reed9080@business.net,318 810 7626,544 25 2044,7/19/1985,"6052 West Rd",San Jose,IL

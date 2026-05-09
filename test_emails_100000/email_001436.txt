@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Young,daniel.young883@business.net,795 465 1431,028-31-9725,9/26/1951,"6850 Summer Blvd",Chicago,NJ

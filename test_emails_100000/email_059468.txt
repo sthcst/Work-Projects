@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Edwards",
+    "email": "angela.edwards5137@outlook.com",
+    "phone": "+1 987-566-7129",
+    "ssn": "508363097",
+    "dob": "12-24-1974",
+    "address": "1286 Birch Blvd",
+    "city": "San Jose",
+    "state": "CA"
+  }
+}

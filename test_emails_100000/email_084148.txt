@@ -1,0 +1,14 @@
+INVOICE 722713
+
+Bill To:
+Name: Cynthia Dominguez
+Email: cynthia.dominguez7278@company.com
+Phone: (906) 432-8679
+SSN: 523542403
+
+Address: 1210 Pine Court
+Phoenix, PA
+
+Date of Birth: 7/16/1981
+
+Amount Due: $8270

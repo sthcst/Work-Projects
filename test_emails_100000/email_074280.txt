@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Perez,ryan.perez1478@yahoo.com,740 862 9563,151802974,05/08/1969,"8867 Birch Blvd",Chicago,FL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Collins",
+    "email": "shirley.collins2295@business.net",
+    "phone": "430 720 1124",
+    "ssn": "296 67 6632",
+    "dob": "7/23/1970",
+    "address": "5904 North Rd",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

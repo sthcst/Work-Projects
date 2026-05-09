@@ -1,0 +1,9 @@
+contact:
+  name: Samantha White
+  email: samantha.white1308@example.com
+  phone: (726) 695-3103
+  ssn: 191073284
+  dob: 03/13/1993
+  address: 9401 Sixth Ave
+  city: Phoenix
+  state: WA

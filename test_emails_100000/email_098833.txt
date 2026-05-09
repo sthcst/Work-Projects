@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Lee",
+    "email": "pamela.lee6546@gmail.com",
+    "phone": "(532) 321-4189",
+    "ssn": "814-90-4860",
+    "dob": "06-20-1964",
+    "address": "8724 Elm Ave",
+    "city": "San Antonio",
+    "state": "NJ"
+  }
+}

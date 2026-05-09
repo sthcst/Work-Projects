@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Edwards",
+    "email": "maria.edwards5534@business.net",
+    "phone": "(572) 766-1094",
+    "ssn": "305 91 2921",
+    "dob": "12/08/1967",
+    "address": "3195 Oak Ln",
+    "city": "New York",
+    "state": "NC"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Carter",
+    "email": "maria.carter6195@example.com",
+    "phone": "+1 382-258-8197",
+    "ssn": "680 39 8121",
+    "dob": "20/04/1996",
+    "address": "3488 Third Ln",
+    "city": "Jacksonville",
+    "state": "MO"
+  }
+}

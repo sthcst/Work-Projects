@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Walker,angela.walker3421@mail.com,(538) 309-5321,009-46-7392,01/06/1958,"2936 Third Ln",San Jose,MI

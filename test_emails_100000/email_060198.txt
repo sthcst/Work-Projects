@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Johnson,james.johnson8488@business.net,439-868-4657,550-73-9514,03-11-1954,"406 Second St",Seattle,MI

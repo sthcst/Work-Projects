@@ -1,0 +1,14 @@
+INVOICE 342239
+
+Bill To:
+Name: Anna Gomez
+Email: anna.gomez4248@company.com
+Phone: 232 384 4500
+SSN: 786-13-6161
+
+Address: 3395 Second Rd
+San Jose, VA
+
+Date of Birth: 28/07/1960
+
+Amount Due: $2057

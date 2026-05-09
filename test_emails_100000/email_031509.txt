@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Harris",
+    "email": "gary.harris8704@mail.com",
+    "phone": "624-919-9598",
+    "ssn": "633-65-7331",
+    "dob": "01/01/2003",
+    "address": "6545 Third Court",
+    "city": "Los Angeles",
+    "state": "DC"
+  }
+}

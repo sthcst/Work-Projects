@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Smith,george.smith6952@company.com,+1 617-429-5390,605085756,10/07/1990,"4931 Second Way",San Antonio,MA

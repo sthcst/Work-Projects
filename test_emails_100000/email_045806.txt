@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Robinson
+  email: jessica.robinson5352@company.com
+  phone: +1 939-344-2868
+  ssn: 830089582
+  dob: 19/11/1977
+  address: 1495 North Court
+  city: Chicago
+  state: MI

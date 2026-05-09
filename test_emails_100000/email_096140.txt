@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Hernandez",
+    "email": "joshua.hernandez9696@business.net",
+    "phone": "915 998 2076",
+    "ssn": "015 08 1873",
+    "dob": "15/03/1975",
+    "address": "5484 Summer Court",
+    "city": "Washington",
+    "state": "DC"
+  }
+}

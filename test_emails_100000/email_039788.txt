@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Smith,lauren.smith734@yahoo.com,557 307 1108,842-36-6684,11-27-1978,"7012 First Way",Seattle,PA

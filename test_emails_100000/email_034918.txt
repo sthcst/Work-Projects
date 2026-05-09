@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Jones",
+    "email": "andrew.jones4557@business.net",
+    "phone": "(584) 279-8841",
+    "ssn": "067-75-2593",
+    "dob": "4/22/1981",
+    "address": "1625 Elm Blvd",
+    "city": "Houston",
+    "state": "WA"
+  }
+}

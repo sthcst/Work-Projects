@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Jackson",
+    "email": "maria.jackson4644@company.com",
+    "phone": "(736) 855-3104",
+    "ssn": "588051203",
+    "dob": "2/7/1951",
+    "address": "3203 West Dr",
+    "city": "Jacksonville",
+    "state": "CO"
+  }
+}

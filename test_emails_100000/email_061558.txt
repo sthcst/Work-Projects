@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Reyes
+  email: cynthia.reyes7698@gmail.com
+  phone: +1 892-607-5267
+  ssn: 667-51-6934
+  dob: 12/17/1976
+  address: 6813 Third Rd
+  city: Chicago
+  state: TN

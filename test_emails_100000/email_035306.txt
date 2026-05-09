@@ -1,0 +1,9 @@
+contact:
+  name: Angela Perez
+  email: angela.perez97@example.com
+  phone: (353) 920-1218
+  ssn: 722-62-3057
+  dob: 09-10-1997
+  address: 4961 North Blvd
+  city: Houston
+  state: MA

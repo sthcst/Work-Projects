@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Dominguez,katherine.dominguez1209@business.net,780-761-7580,550 80 4997,11/05/2004,"8621 Main Ave",Seattle,NY

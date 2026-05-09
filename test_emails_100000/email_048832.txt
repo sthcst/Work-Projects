@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Lopez,jane.lopez1022@company.com,+1 390-262-9853,404-17-3290,09/20/1976,"1828 Cedar Blvd",Denver,MD

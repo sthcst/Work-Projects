@@ -1,0 +1,9 @@
+contact:
+  name: Charles Harris
+  email: charles.harris3679@outlook.com
+  phone: 710 986 1980
+  ssn: 117-80-4063
+  dob: 10/15/1997
+  address: 8414 West Ln
+  city: San Jose
+  state: AZ

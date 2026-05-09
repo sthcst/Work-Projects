@@ -1,0 +1,14 @@
+INVOICE 930013
+
+Bill To:
+Name: Kevin Peterson
+Email: kevin.peterson4346@outlook.com
+Phone: 432 639 7333
+SSN: 335086532
+
+Address: 3447 Summer Blvd
+San Diego, GA
+
+Date of Birth: 28/04/1988
+
+Amount Due: $1681

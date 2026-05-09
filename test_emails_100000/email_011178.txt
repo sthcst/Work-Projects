@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Flores,joshua.flores6034@gmail.com,668 982 7701,811943511,11-07-1984,"5184 Pine Ln",Chicago,CO

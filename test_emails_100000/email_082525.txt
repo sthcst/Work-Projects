@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Ramirez",
+    "email": "michael.ramirez9408@outlook.com",
+    "phone": "+1 953-959-9521",
+    "ssn": "600978192",
+    "dob": "03-23-1960",
+    "address": "3603 Pine Dr",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Jimenez
+  email: christopher.jimenez3182@gmail.com
+  phone: +1 974-964-4342
+  ssn: 966 61 7011
+  dob: 24/02/1988
+  address: 9572 West Ave
+  city: Washington
+  state: NY

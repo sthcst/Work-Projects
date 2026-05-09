@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Delgado,michael.delgado5222@company.com,332 911 3062,529-58-9339,08-14-2004,"6160 Cedar Way",Washington,FL

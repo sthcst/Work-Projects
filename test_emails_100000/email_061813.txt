@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Hall,charles.hall1874@yahoo.com,296 594 5989,323 62 9840,18/08/1954,"2523 First Dr",Washington,OH

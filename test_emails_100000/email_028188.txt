@@ -1,0 +1,9 @@
+contact:
+  name: Donald Campbell
+  email: donald.campbell1419@work.org
+  phone: +1 969-719-1058
+  ssn: 370 63 3330
+  dob: 27/05/1955
+  address: 1586 Sixth Way
+  city: Seattle
+  state: DC

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Martinez",
+    "email": "megan.martinez5231@business.net",
+    "phone": "(636) 874-8734",
+    "ssn": "724 27 7628",
+    "dob": "6/8/1974",
+    "address": "7801 East Dr",
+    "city": "New York",
+    "state": "FL"
+  }
+}

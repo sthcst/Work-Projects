@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Serrano",
+    "email": "nicholas.serrano5693@company.com",
+    "phone": "407-888-1732",
+    "ssn": "210-04-6729",
+    "dob": "05/13/1955",
+    "address": "9908 Oak Ave",
+    "city": "San Antonio",
+    "state": "AZ"
+  }
+}

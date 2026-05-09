@@ -1,0 +1,9 @@
+contact:
+  name: Christine Taylor
+  email: christine.taylor5982@yahoo.com
+  phone: 216-931-2797
+  ssn: 932-13-2233
+  dob: 19/08/2000
+  address: 5218 North Rd
+  city: Boston
+  state: MI

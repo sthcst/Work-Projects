@@ -1,0 +1,9 @@
+contact:
+  name: Charles Taylor
+  email: charles.taylor5331@yahoo.com
+  phone: +1 648-372-8590
+  ssn: 062752374
+  dob: 26/01/1998
+  address: 7559 Fifth Court
+  city: Boston
+  state: NJ

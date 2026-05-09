@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Johnson,sarah.johnson6280@work.org,(930) 930-5576,737-06-9285,11/05/1951,"5955 Second Ave",Dallas,MA

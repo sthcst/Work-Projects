@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Reyes,david.reyes2813@example.com,+1 591-914-7056,867329544,03-08-2003,"7404 Summer Way",San Jose,GA

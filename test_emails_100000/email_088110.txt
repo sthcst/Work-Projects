@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Thomas,maria.thomas2195@company.com,502-723-4373,397204505,10/22/1962,"8706 Sixth Ln",New York,MA

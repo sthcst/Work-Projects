@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Sanchez",
+    "email": "john.sanchez6067@gmail.com",
+    "phone": "342-848-5652",
+    "ssn": "050-49-9403",
+    "dob": "26/01/1962",
+    "address": "5973 North Blvd",
+    "city": "Austin",
+    "state": "NY"
+  }
+}

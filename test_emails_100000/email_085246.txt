@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Stewart
+  email: rebecca.stewart6301@gmail.com
+  phone: 523-956-3390
+  ssn: 206-75-6148
+  dob: 5/11/1952
+  address: 9289 Fourth Dr
+  city: Los Angeles
+  state: PA

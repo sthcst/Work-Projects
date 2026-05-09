@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Cooper,ryan.cooper7231@gmail.com,(937) 622-8892,620644490,7/6/1956,"4122 Elm Ln",Chicago,NJ

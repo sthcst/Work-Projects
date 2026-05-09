@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Rodriguez",
+    "email": "donald.rodriguez5009@business.net",
+    "phone": "846 498 6091",
+    "ssn": "389812107",
+    "dob": "16/08/1978",
+    "address": "3515 Park Ave",
+    "city": "Jacksonville",
+    "state": "AZ"
+  }
+}

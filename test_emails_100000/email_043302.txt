@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Morris,kimberly.morris5382@mail.com,338-473-6447,610 97 6081,12/08/1972,"3272 Pine Ave",Philadelphia,IL

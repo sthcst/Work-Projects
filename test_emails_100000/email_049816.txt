@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Edwards",
+    "email": "mark.edwards6419@work.org",
+    "phone": "972 780 5653",
+    "ssn": "703 04 8697",
+    "dob": "01-14-1974",
+    "address": "9568 Third Dr",
+    "city": "San Jose",
+    "state": "NY"
+  }
+}

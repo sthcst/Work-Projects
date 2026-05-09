@@ -1,0 +1,9 @@
+contact:
+  name: David Gonzalez
+  email: david.gonzalez4584@mail.com
+  phone: (908) 281-8949
+  ssn: 910 98 7873
+  dob: 02-11-1988
+  address: 4563 Pine Dr
+  city: Los Angeles
+  state: MD

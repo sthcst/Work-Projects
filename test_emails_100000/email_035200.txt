@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Parker
+  email: anthony.parker6147@outlook.com
+  phone: 582-369-3427
+  ssn: 694514174
+  dob: 18/04/1970
+  address: 7095 East Ave
+  city: Denver
+  state: TN

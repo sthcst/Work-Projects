@@ -1,0 +1,14 @@
+INVOICE 158692
+
+Bill To:
+Name: Deborah Miller
+Email: deborah.miller9639@company.com
+Phone: 442 498 9946
+SSN: 236883354
+
+Address: 8142 Oak Way
+Phoenix, TX
+
+Date of Birth: 02-03-1950
+
+Amount Due: $2811

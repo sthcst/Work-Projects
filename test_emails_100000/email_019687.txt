@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Evans",
+    "email": "brian.evans7416@yahoo.com",
+    "phone": "519 209 3186",
+    "ssn": "116-75-6056",
+    "dob": "09-17-1951",
+    "address": "5473 Cedar Blvd",
+    "city": "San Diego",
+    "state": "TN"
+  }
+}

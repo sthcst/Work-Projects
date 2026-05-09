@@ -1,0 +1,14 @@
+INVOICE 396669
+
+Bill To:
+Name: Daniel Thompson
+Email: daniel.thompson2528@work.org
+Phone: 884 406 1854
+SSN: 375-50-9397
+
+Address: 763 Sixth Ave
+Washington, AZ
+
+Date of Birth: 9/19/1972
+
+Amount Due: $2862

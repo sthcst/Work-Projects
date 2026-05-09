@@ -1,0 +1,14 @@
+INVOICE 637058
+
+Bill To:
+Name: Timothy Sanchez
+Email: timothy.sanchez7597@company.com
+Phone: (474) 473-3601
+SSN: 865 95 2262
+
+Address: 2307 Park Ln
+Denver, TX
+
+Date of Birth: 7/18/1965
+
+Amount Due: $4806

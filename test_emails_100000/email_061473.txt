@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Hernandez
+  email: lauren.hernandez4936@business.net
+  phone: (638) 240-6630
+  ssn: 850323938
+  dob: 23/07/1979
+  address: 9540 Maple St
+  city: Jacksonville
+  state: CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Nunez,christopher.nunez5331@gmail.com,+1 903-540-2995,979585944,11/6/1965,"1754 First Ave",Chicago,NC

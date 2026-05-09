@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Reeves,brenda.reeves939@example.com,+1 723-953-6645,225-19-3284,07/20/1982,"348 Oak St",Dallas,CA

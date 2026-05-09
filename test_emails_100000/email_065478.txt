@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Serrano
+  email: nicole.serrano816@gmail.com
+  phone: 910-429-5684
+  ssn: 935 57 4383
+  dob: 25/03/1958
+  address: 5381 Fourth Court
+  city: Phoenix
+  state: PA

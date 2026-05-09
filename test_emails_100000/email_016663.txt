@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Hall,anthony.hall21@gmail.com,(265) 667-9317,927076725,12/19/1950,"5149 Sixth St",San Jose,NC

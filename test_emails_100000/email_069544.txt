@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Carter,donald.carter7450@outlook.com,715-269-4050,721 73 3715,11/05/1960,"2655 Spring St",Chicago,AZ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Nunez,james.nunez9525@mail.com,(656) 229-2466,433 15 1605,03/15/1972,"8227 Birch Way",Los Angeles,CO

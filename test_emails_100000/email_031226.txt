@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Johnson,nicholas.johnson750@yahoo.com,(545) 513-2275,778-77-6263,1/4/1978,"4701 Elm Rd",Dallas,MI

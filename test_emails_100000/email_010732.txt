@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Rogers",
+    "email": "christopher.rogers8304@company.com",
+    "phone": "854-967-7047",
+    "ssn": "743-89-7772",
+    "dob": "16/07/2004",
+    "address": "5083 Oak Court",
+    "city": "Denver",
+    "state": "MA"
+  }
+}

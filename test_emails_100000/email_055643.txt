@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Jimenez",
+    "email": "kevin.jimenez5513@gmail.com",
+    "phone": "754 640 4452",
+    "ssn": "796-37-7851",
+    "dob": "05/01/1953",
+    "address": "8108 Third Dr",
+    "city": "Los Angeles",
+    "state": "MA"
+  }
+}

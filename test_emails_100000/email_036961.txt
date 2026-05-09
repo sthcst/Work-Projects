@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Nelson",
+    "email": "angela.nelson2321@business.net",
+    "phone": "+1 641-955-5090",
+    "ssn": "165 53 2747",
+    "dob": "12/02/1973",
+    "address": "3586 Summer Way",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

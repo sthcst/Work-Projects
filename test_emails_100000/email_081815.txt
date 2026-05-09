@@ -1,0 +1,14 @@
+INVOICE 543548
+
+Bill To:
+Name: Paul Perez
+Email: paul.perez9198@company.com
+Phone: 873-756-2966
+SSN: 868209638
+
+Address: 7438 Third Blvd
+Boston, MA
+
+Date of Birth: 11/8/1977
+
+Amount Due: $9412

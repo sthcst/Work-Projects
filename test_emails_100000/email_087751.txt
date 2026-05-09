@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Rogers,david.rogers6273@outlook.com,+1 952-665-9291,073-49-5594,06/16/1979,"765 Maple Court",San Diego,TX

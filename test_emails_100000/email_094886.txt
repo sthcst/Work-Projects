@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Reed",
+    "email": "amanda.reed7925@company.com",
+    "phone": "876-233-7551",
+    "ssn": "475-54-8870",
+    "dob": "1/3/1953",
+    "address": "3215 Fifth Ave",
+    "city": "New York",
+    "state": "NC"
+  }
+}

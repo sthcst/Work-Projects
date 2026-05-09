@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Robinson,rachel.robinson9116@yahoo.com,558 323 8301,572 28 7674,04-15-1950,"1251 Maple Way",Jacksonville,WA

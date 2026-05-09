@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Miller,jane.miller270@yahoo.com,616-438-1111,009-94-2238,10/25/1957,"651 Fourth Way",New York,CA

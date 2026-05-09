@@ -1,0 +1,9 @@
+contact:
+  name: John Lee
+  email: john.lee4356@business.net
+  phone: 776-667-4316
+  ssn: 011201099
+  dob: 05/07/1976
+  address: 6573 Spring Dr
+  city: San Diego
+  state: VA

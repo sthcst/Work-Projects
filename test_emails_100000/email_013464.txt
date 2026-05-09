@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Gonzalez",
+    "email": "andrew.gonzalez7881@outlook.com",
+    "phone": "341 357 6190",
+    "ssn": "381-06-9648",
+    "dob": "04/12/1958",
+    "address": "6588 Pine Way",
+    "city": "San Diego",
+    "state": "IL"
+  }
+}

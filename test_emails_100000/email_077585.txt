@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Hernandez",
+    "email": "jennifer.hernandez10@yahoo.com",
+    "phone": "473-400-4712",
+    "ssn": "740-23-6643",
+    "dob": "7/4/1977",
+    "address": "4966 Fourth Dr",
+    "city": "Boston",
+    "state": "IL"
+  }
+}

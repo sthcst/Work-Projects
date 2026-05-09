@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Morris,david.morris7360@mail.com,(224) 858-7414,440 26 7430,09/04/1970,"5957 First Dr",Houston,MI

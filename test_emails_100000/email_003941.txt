@@ -1,0 +1,14 @@
+INVOICE 323393
+
+Bill To:
+Name: Jason Thomas
+Email: jason.thomas5095@gmail.com
+Phone: 244 580 5310
+SSN: 105-20-8941
+
+Address: 5949 East Ln
+Jacksonville, TX
+
+Date of Birth: 04/10/1973
+
+Amount Due: $6515

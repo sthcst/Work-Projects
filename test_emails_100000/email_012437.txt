@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Williams",
+    "email": "brenda.williams8088@company.com",
+    "phone": "270 923 2869",
+    "ssn": "713-91-6796",
+    "dob": "10/27/1955",
+    "address": "9335 Third Way",
+    "city": "Chicago",
+    "state": "IL"
+  }
+}

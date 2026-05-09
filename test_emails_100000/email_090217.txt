@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Ortiz
+  email: nicole.ortiz2256@business.net
+  phone: 201 343 4801
+  ssn: 268669482
+  dob: 06/14/1983
+  address: 6218 Maple Dr
+  city: San Antonio
+  state: IL

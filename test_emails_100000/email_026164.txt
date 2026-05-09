@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Hernandez",
+    "email": "katherine.hernandez8563@gmail.com",
+    "phone": "443-594-3062",
+    "ssn": "092-02-4464",
+    "dob": "12-27-1970",
+    "address": "7093 Main St",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

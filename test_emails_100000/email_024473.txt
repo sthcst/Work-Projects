@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Ortiz
+  email: jessica.ortiz7921@outlook.com
+  phone: (371) 917-1995
+  ssn: 715113215
+  dob: 7/22/1972
+  address: 2838 Sixth Dr
+  city: Seattle
+  state: TX

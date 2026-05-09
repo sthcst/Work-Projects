@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Garcia
+  email: ryan.garcia6447@company.com
+  phone: +1 750-812-7340
+  ssn: 462258484
+  dob: 06/10/1981
+  address: 4194 First St
+  city: New York
+  state: MI

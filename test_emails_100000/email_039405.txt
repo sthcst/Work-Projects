@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Collins",
+    "email": "stephanie.collins2705@company.com",
+    "phone": "+1 691-612-4258",
+    "ssn": "658-15-4613",
+    "dob": "3/1/1985",
+    "address": "6383 Summer Ln",
+    "city": "Seattle",
+    "state": "CO"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Phillips,rachel.phillips1800@company.com,+1 414-384-7109,155-67-2660,07/04/2000,"7938 Birch Way",Denver,MO

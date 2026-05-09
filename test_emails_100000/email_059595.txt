@@ -1,0 +1,9 @@
+contact:
+  name: Mark Flores
+  email: mark.flores5209@outlook.com
+  phone: (922) 453-3769
+  ssn: 692904227
+  dob: 05-23-1988
+  address: 8461 Second Rd
+  city: Los Angeles
+  state: IL

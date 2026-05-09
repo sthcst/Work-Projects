@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Campbell,jennifer.campbell7287@mail.com,984 323 6933,661-86-6398,02-15-1966,"1074 Sixth Way",Jacksonville,MD

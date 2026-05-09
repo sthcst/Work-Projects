@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Rodriguez
+  email: michelle.rodriguez5606@gmail.com
+  phone: (689) 696-2651
+  ssn: 010-08-5359
+  dob: 11/19/2000
+  address: 1596 Birch St
+  city: Boston
+  state: OH

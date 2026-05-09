@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Lee",
+    "email": "megan.lee5338@gmail.com",
+    "phone": "+1 675-453-6821",
+    "ssn": "529-34-2448",
+    "dob": "11-16-1978",
+    "address": "5731 Oak Dr",
+    "city": "Houston",
+    "state": "DC"
+  }
+}

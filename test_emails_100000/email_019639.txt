@@ -1,0 +1,14 @@
+INVOICE 476286
+
+Bill To:
+Name: Andrew Parker
+Email: andrew.parker4001@company.com
+Phone: +1 705-505-2927
+SSN: 948-57-7901
+
+Address: 2324 Summer Ln
+Chicago, PA
+
+Date of Birth: 02-26-1993
+
+Amount Due: $5760

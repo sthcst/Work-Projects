@@ -1,0 +1,9 @@
+contact:
+  name: Angela Jimenez
+  email: angela.jimenez1677@example.com
+  phone: +1 491-350-8783
+  ssn: 027 82 7200
+  dob: 06/04/1997
+  address: 9032 East Blvd
+  city: San Jose
+  state: DC

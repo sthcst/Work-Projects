@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Bell,rachel.bell8096@outlook.com,491 860 8209,459-01-7836,22/07/1951,"9642 Fifth Dr",San Antonio,NJ

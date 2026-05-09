@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Phillips
+  email: amanda.phillips9051@mail.com
+  phone: (430) 279-5283
+  ssn: 709 92 5747
+  dob: 06-02-1964
+  address: 4915 Pine Way
+  city: Los Angeles
+  state: CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Gomez",
+    "email": "john.gomez8189@mail.com",
+    "phone": "775-633-1899",
+    "ssn": "530623896",
+    "dob": "8/23/1998",
+    "address": "6941 Spring St",
+    "city": "Austin",
+    "state": "NY"
+  }
+}

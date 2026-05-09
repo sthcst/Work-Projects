@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Harris",
+    "email": "jane.harris8899@work.org",
+    "phone": "+1 387-214-2644",
+    "ssn": "521323637",
+    "dob": "05/03/1986",
+    "address": "2674 Main Dr",
+    "city": "Phoenix",
+    "state": "WA"
+  }
+}

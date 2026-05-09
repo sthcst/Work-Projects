@@ -1,0 +1,9 @@
+contact:
+  name: Michael Peterson
+  email: michael.peterson1156@outlook.com
+  phone: +1 272-517-1042
+  ssn: 841 18 7176
+  dob: 02-25-1980
+  address: 761 Second St
+  city: Los Angeles
+  state: NC

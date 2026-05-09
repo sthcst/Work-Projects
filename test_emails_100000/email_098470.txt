@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Hall",
+    "email": "jennifer.hall8697@outlook.com",
+    "phone": "+1 393-937-7526",
+    "ssn": "600 97 6184",
+    "dob": "06/02/1996",
+    "address": "5339 South Ln",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

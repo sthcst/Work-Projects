@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Moore",
+    "email": "stephanie.moore6248@outlook.com",
+    "phone": "429-556-1213",
+    "ssn": "830-83-1003",
+    "dob": "05/13/1966",
+    "address": "6220 Birch St",
+    "city": "Dallas",
+    "state": "TN"
+  }
+}

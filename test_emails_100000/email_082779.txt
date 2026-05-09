@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Phillips,brenda.phillips8328@business.net,(603) 444-9595,895 32 5843,12/12/1962,"5184 West Ln",Denver,CA

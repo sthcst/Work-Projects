@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Parker,emma.parker6659@work.org,+1 324-337-8663,176-84-3232,03/05/1952,"4026 Third St",Denver,DC

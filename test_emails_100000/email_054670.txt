@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Edwards",
+    "email": "anna.edwards1196@work.org",
+    "phone": "414-532-4328",
+    "ssn": "494 58 2020",
+    "dob": "01/07/1999",
+    "address": "2901 West Dr",
+    "city": "Phoenix",
+    "state": "OH"
+  }
+}

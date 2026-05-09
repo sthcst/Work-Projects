@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Anderson",
+    "email": "jane.anderson9632@work.org",
+    "phone": "900 843 2546",
+    "ssn": "022-66-8906",
+    "dob": "09/27/1965",
+    "address": "3038 Sixth Ln",
+    "city": "San Jose",
+    "state": "NY"
+  }
+}

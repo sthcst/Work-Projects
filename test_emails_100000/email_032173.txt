@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Rogers",
+    "email": "brian.rogers2329@mail.com",
+    "phone": "+1 558-495-5784",
+    "ssn": "951-52-8141",
+    "dob": "10-02-1965",
+    "address": "9488 Third Way",
+    "city": "Los Angeles",
+    "state": "VA"
+  }
+}

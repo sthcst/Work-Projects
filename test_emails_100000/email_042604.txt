@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Murillo",
+    "email": "maria.murillo8058@mail.com",
+    "phone": "279 315 2902",
+    "ssn": "658 05 9624",
+    "dob": "18/06/2000",
+    "address": "9093 Sixth Dr",
+    "city": "Austin",
+    "state": "TN"
+  }
+}

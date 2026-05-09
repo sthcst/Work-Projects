@@ -1,0 +1,9 @@
+contact:
+  name: Christine Lee
+  email: christine.lee1046@outlook.com
+  phone: +1 984-457-5345
+  ssn: 817273942
+  dob: 4/17/2005
+  address: 9900 Summer Ln
+  city: Houston
+  state: TX

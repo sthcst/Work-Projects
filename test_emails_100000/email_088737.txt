@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Morris",
+    "email": "kevin.morris6519@mail.com",
+    "phone": "355-204-6331",
+    "ssn": "094 16 7601",
+    "dob": "14/03/1988",
+    "address": "1558 Second Dr",
+    "city": "Houston",
+    "state": "MA"
+  }
+}

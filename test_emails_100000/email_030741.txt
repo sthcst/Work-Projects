@@ -1,0 +1,14 @@
+INVOICE 762135
+
+Bill To:
+Name: Katherine Ortiz
+Email: katherine.ortiz1490@company.com
+Phone: +1 666-970-5088
+SSN: 114 66 5137
+
+Address: 7685 Birch Blvd
+Boston, WA
+
+Date of Birth: 05/05/1952
+
+Amount Due: $7647

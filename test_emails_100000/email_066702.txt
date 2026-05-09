@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Harris,donald.harris8959@yahoo.com,223 213 1034,221 46 4999,06-14-1966,"3043 Pine St",Seattle,TN

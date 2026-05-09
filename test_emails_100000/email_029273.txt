@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Robinson,deborah.robinson7221@example.com,336-779-5804,726652927,9/17/1995,"1237 Spring Dr",Houston,DC

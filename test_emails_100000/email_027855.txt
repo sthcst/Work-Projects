@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Collins,lisa.collins762@yahoo.com,921 726 6534,343 09 4217,01/04/1982,"7023 Spring Dr",Houston,CA

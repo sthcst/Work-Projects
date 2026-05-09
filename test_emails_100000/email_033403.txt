@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Walker
+  email: lauren.walker7604@gmail.com
+  phone: 999 218 1188
+  ssn: 448-09-5779
+  dob: 27/11/1984
+  address: 7214 North St
+  city: Washington
+  state: PA

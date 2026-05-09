@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Morgan",
+    "email": "helen.morgan2457@work.org",
+    "phone": "(342) 620-7098",
+    "ssn": "244-64-4688",
+    "dob": "12/12/1964",
+    "address": "8739 Main Dr",
+    "city": "Dallas",
+    "state": "MA"
+  }
+}

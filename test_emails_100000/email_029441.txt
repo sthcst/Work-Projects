@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Delgado,lauren.delgado4392@yahoo.com,(215) 606-3166,692414401,12/09/1968,"322 Sixth Dr",Jacksonville,MA

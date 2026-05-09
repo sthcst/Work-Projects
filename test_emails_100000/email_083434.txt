@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Lopez",
+    "email": "robert.lopez3440@yahoo.com",
+    "phone": "849 504 8355",
+    "ssn": "662-65-7939",
+    "dob": "19/11/1969",
+    "address": "7259 First Court",
+    "city": "Chicago",
+    "state": "IL"
+  }
+}

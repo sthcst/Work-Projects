@@ -1,0 +1,14 @@
+INVOICE 284178
+
+Bill To:
+Name: William Thompson
+Email: william.thompson774@company.com
+Phone: (914) 674-8493
+SSN: 071-40-7852
+
+Address: 6732 Spring Blvd
+Los Angeles, MA
+
+Date of Birth: 10/24/1998
+
+Amount Due: $2525

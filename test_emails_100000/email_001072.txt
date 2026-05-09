@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Romero
+  email: jacob.romero5979@work.org
+  phone: 720-823-5763
+  ssn: 250217693
+  dob: 09-07-1992
+  address: 4937 Park Way
+  city: Austin
+  state: MO

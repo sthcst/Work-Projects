@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Serrano
+  email: katherine.serrano897@outlook.com
+  phone: 489-709-7642
+  ssn: 962478799
+  dob: 10/08/1996
+  address: 6096 Fifth Dr
+  city: San Diego
+  state: MA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Edwards",
+    "email": "joseph.edwards9099@example.com",
+    "phone": "+1 210-752-7860",
+    "ssn": "404 20 7083",
+    "dob": "11/4/1971",
+    "address": "219 Summer Ln",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

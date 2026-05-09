@@ -1,0 +1,14 @@
+INVOICE 618917
+
+Bill To:
+Name: Brenda Martinez
+Email: brenda.martinez5960@mail.com
+Phone: 998-805-7078
+SSN: 585583435
+
+Address: 4641 Maple Dr
+Phoenix, DC
+
+Date of Birth: 26/02/1970
+
+Amount Due: $8981

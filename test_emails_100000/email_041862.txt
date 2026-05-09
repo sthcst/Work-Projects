@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Cooper
+  email: jessica.cooper3918@company.com
+  phone: 414-940-9187
+  ssn: 556-85-8831
+  dob: 1/15/1981
+  address: 6331 Cedar Blvd
+  city: New York
+  state: CA

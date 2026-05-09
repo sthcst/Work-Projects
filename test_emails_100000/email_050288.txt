@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Hall",
+    "email": "michael.hall7038@gmail.com",
+    "phone": "736 473 2681",
+    "ssn": "399-19-6572",
+    "dob": "08-26-2004",
+    "address": "6777 Main Court",
+    "city": "Los Angeles",
+    "state": "PA"
+  }
+}

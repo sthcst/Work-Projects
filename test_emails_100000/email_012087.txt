@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Peterson
+  email: brenda.peterson6359@work.org
+  phone: +1 496-392-5868
+  ssn: 615-16-5755
+  dob: 04-06-1950
+  address: 1080 North Blvd
+  city: Chicago
+  state: TX

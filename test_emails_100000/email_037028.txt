@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Parker,kevin.parker9649@business.net,(455) 391-5763,282-16-4145,9/10/2005,"8287 North Ave",San Jose,GA

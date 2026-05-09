@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Reed
+  email: rachel.reed3900@yahoo.com
+  phone: 729 949 2970
+  ssn: 568-02-7346
+  dob: 7/1/1950
+  address: 7474 Second Way
+  city: Denver
+  state: FL

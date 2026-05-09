@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Williams",
+    "email": "anthony.williams9132@outlook.com",
+    "phone": "(923) 765-3794",
+    "ssn": "665 25 7032",
+    "dob": "4/13/1963",
+    "address": "4380 Birch Ave",
+    "city": "Phoenix",
+    "state": "WA"
+  }
+}

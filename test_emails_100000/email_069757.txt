@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Dominguez",
+    "email": "kathleen.dominguez4580@business.net",
+    "phone": "467-242-2136",
+    "ssn": "801-86-2805",
+    "dob": "10/02/1988",
+    "address": "9380 Cedar Ave",
+    "city": "New York",
+    "state": "TX"
+  }
+}

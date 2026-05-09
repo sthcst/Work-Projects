@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Lopez",
+    "email": "sarah.lopez2615@example.com",
+    "phone": "+1 729-911-6024",
+    "ssn": "775-86-9555",
+    "dob": "8/19/1982",
+    "address": "8096 Birch Dr",
+    "city": "Philadelphia",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Delgado,andrew.delgado9284@work.org,+1 523-902-5291,574-52-3715,03-11-1962,"4054 Second Ave",New York,CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Jackson",
+    "email": "katherine.jackson8738@work.org",
+    "phone": "416-240-9170",
+    "ssn": "142 43 3380",
+    "dob": "9/20/1959",
+    "address": "1260 South St",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

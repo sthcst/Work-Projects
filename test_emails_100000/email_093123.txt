@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Lopez,anthony.lopez9103@business.net,+1 593-991-5333,198-47-5344,9/16/1989,"4352 Spring Way",Seattle,AZ

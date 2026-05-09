@@ -1,0 +1,14 @@
+INVOICE 128530
+
+Bill To:
+Name: George Johnson
+Email: george.johnson8733@work.org
+Phone: 816 415 7829
+SSN: 971575985
+
+Address: 8496 East Blvd
+San Jose, WA
+
+Date of Birth: 09/03/1969
+
+Amount Due: $598

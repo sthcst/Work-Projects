@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Evans",
+    "email": "david.evans4815@business.net",
+    "phone": "304 916 5088",
+    "ssn": "162-59-9351",
+    "dob": "9/28/2002",
+    "address": "4304 Spring Rd",
+    "city": "Denver",
+    "state": "FL"
+  }
+}

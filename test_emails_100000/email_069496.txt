@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Walker,christopher.walker8608@business.net,+1 532-570-5107,200 06 5030,11/10/1989,"3545 Park Court",Jacksonville,MI

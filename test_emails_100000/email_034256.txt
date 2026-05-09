@@ -1,0 +1,9 @@
+contact:
+  name: Brian Murillo
+  email: brian.murillo5011@work.org
+  phone: 567-249-4547
+  ssn: 639362688
+  dob: 09/12/1982
+  address: 5316 Oak Blvd
+  city: San Antonio
+  state: TX

@@ -1,0 +1,9 @@
+contact:
+  name: Emily Hall
+  email: emily.hall2542@company.com
+  phone: 423-936-3397
+  ssn: 378 68 2171
+  dob: 01-01-1993
+  address: 6319 Fourth Court
+  city: Denver
+  state: MA

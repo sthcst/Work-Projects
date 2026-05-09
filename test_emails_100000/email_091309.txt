@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Dominguez
+  email: ryan.dominguez3679@outlook.com
+  phone: +1 402-428-8454
+  ssn: 906-47-7945
+  dob: 05/25/1977
+  address: 6663 Sixth Blvd
+  city: Los Angeles
+  state: WI

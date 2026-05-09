@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Rodriguez
+  email: kimberly.rodriguez2703@yahoo.com
+  phone: 553-520-8055
+  ssn: 473289645
+  dob: 09/12/2000
+  address: 1959 Maple Blvd
+  city: San Jose
+  state: MI

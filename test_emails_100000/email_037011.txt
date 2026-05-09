@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Rogers",
+    "email": "george.rogers5077@mail.com",
+    "phone": "412-220-1370",
+    "ssn": "580568482",
+    "dob": "2/18/1992",
+    "address": "3860 East St",
+    "city": "San Antonio",
+    "state": "CA"
+  }
+}

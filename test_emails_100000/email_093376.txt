@@ -1,0 +1,14 @@
+INVOICE 499432
+
+Bill To:
+Name: John Hall
+Email: john.hall5222@business.net
+Phone: 265-207-9850
+SSN: 756-94-7260
+
+Address: 6780 West Blvd
+Washington, MA
+
+Date of Birth: 05/05/1979
+
+Amount Due: $7942

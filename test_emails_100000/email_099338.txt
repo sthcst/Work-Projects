@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Parker",
+    "email": "jason.parker5691@work.org",
+    "phone": "(961) 398-9108",
+    "ssn": "354-98-6709",
+    "dob": "03/05/1980",
+    "address": "6192 Birch Rd",
+    "city": "San Antonio",
+    "state": "DC"
+  }
+}

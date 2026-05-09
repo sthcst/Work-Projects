@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Romero
+  email: jacob.romero8686@example.com
+  phone: (337) 795-4840
+  ssn: 459-60-2075
+  dob: 8/16/1977
+  address: 7787 West St
+  city: Boston
+  state: GA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Rodriguez",
+    "email": "jane.rodriguez2712@mail.com",
+    "phone": "541-901-8126",
+    "ssn": "547381065",
+    "dob": "28/06/2002",
+    "address": "3995 South Way",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

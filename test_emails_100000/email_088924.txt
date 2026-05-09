@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Ortiz",
+    "email": "jason.ortiz8296@company.com",
+    "phone": "(936) 813-1545",
+    "ssn": "424 60 3736",
+    "dob": "02/02/1980",
+    "address": "6795 Third Ave",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Angela Jackson
+  email: angela.jackson3230@outlook.com
+  phone: +1 761-234-7222
+  ssn: 371 10 6844
+  dob: 07/09/1989
+  address: 6017 Sixth Court
+  city: San Jose
+  state: AZ

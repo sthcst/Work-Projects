@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Bell,ronald.bell4274@company.com,+1 481-790-7712,470-15-4167,3/9/1972,"5216 Fifth Blvd",San Jose,NJ

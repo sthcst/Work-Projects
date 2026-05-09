@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Flores
+  email: ronald.flores2813@gmail.com
+  phone: 228 373 2933
+  ssn: 959-72-4795
+  dob: 03-03-1986
+  address: 3183 Main Ln
+  city: San Jose
+  state: GA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Rogers,edward.rogers8496@yahoo.com,+1 780-511-3640,645 20 9431,05/17/1985,"2172 Cedar Court",San Jose,MD

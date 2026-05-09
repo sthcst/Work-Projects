@@ -1,0 +1,14 @@
+INVOICE 990886
+
+Bill To:
+Name: Charles Edwards
+Email: charles.edwards6396@business.net
+Phone: 946 301 3085
+SSN: 710692241
+
+Address: 3541 Oak Dr
+Denver, AZ
+
+Date of Birth: 07-23-2005
+
+Amount Due: $3785

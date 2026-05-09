@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Delgado",
+    "email": "lisa.delgado7551@business.net",
+    "phone": "578 701 5026",
+    "ssn": "654092122",
+    "dob": "10/06/1985",
+    "address": "3962 South St",
+    "city": "San Jose",
+    "state": "WA"
+  }
+}

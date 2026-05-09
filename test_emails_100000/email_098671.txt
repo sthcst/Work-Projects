@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Hall",
+    "email": "emma.hall411@gmail.com",
+    "phone": "(343) 853-2348",
+    "ssn": "774 85 4441",
+    "dob": "15/04/1995",
+    "address": "9591 Spring Rd",
+    "city": "Boston",
+    "state": "NC"
+  }
+}

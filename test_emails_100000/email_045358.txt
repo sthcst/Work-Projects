@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Jones
+  email: jennifer.jones3012@business.net
+  phone: +1 760-554-8226
+  ssn: 134-29-8761
+  dob: 03/05/1951
+  address: 1278 Park Ave
+  city: Boston
+  state: MA

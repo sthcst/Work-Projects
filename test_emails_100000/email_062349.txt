@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Murillo",
+    "email": "helen.murillo4501@company.com",
+    "phone": "(547) 634-8044",
+    "ssn": "646026186",
+    "dob": "09/26/1957",
+    "address": "4865 North Blvd",
+    "city": "Washington",
+    "state": "PA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Romero",
+    "email": "sarah.romero3710@yahoo.com",
+    "phone": "(358) 989-1908",
+    "ssn": "836 92 8077",
+    "dob": "08-14-1975",
+    "address": "4703 Main Blvd",
+    "city": "San Diego",
+    "state": "WA"
+  }
+}

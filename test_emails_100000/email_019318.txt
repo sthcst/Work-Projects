@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Brown",
+    "email": "anthony.brown3482@business.net",
+    "phone": "600-220-7565",
+    "ssn": "850-10-6445",
+    "dob": "08-15-1992",
+    "address": "1210 First Court",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

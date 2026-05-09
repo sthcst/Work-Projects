@@ -1,0 +1,9 @@
+contact:
+  name: Charles Reyes
+  email: charles.reyes5519@example.com
+  phone: +1 765-282-8690
+  ssn: 421426577
+  dob: 8/17/1965
+  address: 4389 Summer Ln
+  city: New York
+  state: TX

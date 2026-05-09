@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Ramirez,lauren.ramirez1549@outlook.com,999 386 3149,725373284,07-16-1972,"897 First Ln",San Jose,OH

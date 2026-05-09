@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Garcia",
+    "email": "megan.garcia5987@gmail.com",
+    "phone": "417 318 3581",
+    "ssn": "989 21 4355",
+    "dob": "06/08/1950",
+    "address": "5459 Summer Way",
+    "city": "Seattle",
+    "state": "OH"
+  }
+}

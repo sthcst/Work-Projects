@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Morgan,jason.morgan2041@mail.com,(306) 811-4506,232 05 5596,6/7/2002,"3583 Fourth Ln",Philadelphia,IL

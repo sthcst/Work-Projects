@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Stewart",
+    "email": "nicole.stewart857@business.net",
+    "phone": "290-503-4773",
+    "ssn": "174962082",
+    "dob": "5/2/1965",
+    "address": "9146 Second Way",
+    "city": "Boston",
+    "state": "NY"
+  }
+}

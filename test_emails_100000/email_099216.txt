@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Stewart",
+    "email": "shirley.stewart1389@example.com",
+    "phone": "(627) 511-1811",
+    "ssn": "644 40 3443",
+    "dob": "12/14/1983",
+    "address": "5782 Maple Dr",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

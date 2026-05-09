@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Lee",
+    "email": "emma.lee6333@example.com",
+    "phone": "(332) 373-3397",
+    "ssn": "068402875",
+    "dob": "12/8/1967",
+    "address": "4949 North St",
+    "city": "Los Angeles",
+    "state": "MO"
+  }
+}

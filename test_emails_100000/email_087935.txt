@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey White
+  email: jeffrey.white4660@outlook.com
+  phone: +1 951-262-5242
+  ssn: 516-06-8863
+  dob: 06-05-2000
+  address: 2661 Fourth Court
+  city: San Antonio
+  state: MI

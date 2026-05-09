@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Harris,donald.harris8412@mail.com,(261) 805-6306,112 72 8309,10-20-1967,"3357 Birch Court",San Diego,DC

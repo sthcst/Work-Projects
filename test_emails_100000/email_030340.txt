@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Lewis",
+    "email": "andrew.lewis1652@outlook.com",
+    "phone": "642 803 5737",
+    "ssn": "834-83-5242",
+    "dob": "06-02-1966",
+    "address": "859 Elm Way",
+    "city": "San Antonio",
+    "state": "MI"
+  }
+}

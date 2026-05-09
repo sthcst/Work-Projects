@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Garcia,george.garcia6062@gmail.com,+1 838-513-9102,939 87 7324,7/20/1969,"4287 Main St",San Jose,TX

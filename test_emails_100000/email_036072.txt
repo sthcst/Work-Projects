@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Alvarado
+  email: pamela.alvarado2326@mail.com
+  phone: +1 644-581-7207
+  ssn: 313 25 8297
+  dob: 02/04/1985
+  address: 2931 Summer Dr
+  city: New York
+  state: MI

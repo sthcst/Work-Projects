@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Hall
+  email: anthony.hall3992@company.com
+  phone: 713 801 7817
+  ssn: 946 65 6198
+  dob: 4/27/1966
+  address: 1079 Summer St
+  city: Denver
+  state: PA

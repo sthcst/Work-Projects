@@ -1,0 +1,9 @@
+contact:
+  name: Angela Smith
+  email: angela.smith1344@outlook.com
+  phone: (895) 284-4019
+  ssn: 179 97 2445
+  dob: 10-17-1960
+  address: 7887 Second St
+  city: Los Angeles
+  state: CA

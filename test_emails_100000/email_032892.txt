@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Garcia,george.garcia2275@gmail.com,+1 570-443-6012,924-44-8159,06/03/1957,"5047 Second St",San Antonio,CO

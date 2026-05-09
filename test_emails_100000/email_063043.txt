@@ -1,0 +1,14 @@
+INVOICE 925591
+
+Bill To:
+Name: Kenneth Peterson
+Email: kenneth.peterson471@example.com
+Phone: +1 533-938-3186
+SSN: 726 80 5571
+
+Address: 6995 Park Ln
+Jacksonville, FL
+
+Date of Birth: 09/14/1977
+
+Amount Due: $4628

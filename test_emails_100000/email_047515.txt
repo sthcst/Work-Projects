@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Rogers,jeffrey.rogers4696@outlook.com,+1 765-889-7241,092 10 9442,03/14/2000,"2308 North Dr",San Jose,AZ

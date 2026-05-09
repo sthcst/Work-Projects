@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Collins",
+    "email": "lauren.collins6369@yahoo.com",
+    "phone": "+1 468-676-4922",
+    "ssn": "322-60-9306",
+    "dob": "05/12/1975",
+    "address": "6070 First Dr",
+    "city": "Denver",
+    "state": "AZ"
+  }
+}

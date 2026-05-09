@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Wilson
+  email: jennifer.wilson4520@gmail.com
+  phone: 750-776-6705
+  ssn: 351 47 1437
+  dob: 21/05/2000
+  address: 8719 Fifth Rd
+  city: Dallas
+  state: CA

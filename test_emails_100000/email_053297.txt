@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Rogers
+  email: deborah.rogers112@gmail.com
+  phone: (657) 321-5578
+  ssn: 642925629
+  dob: 11/20/1957
+  address: 9770 Pine Court
+  city: Boston
+  state: CO

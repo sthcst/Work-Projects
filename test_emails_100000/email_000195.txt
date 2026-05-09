@@ -1,0 +1,9 @@
+contact:
+  name: Donald Alvarado
+  email: donald.alvarado1298@business.net
+  phone: (729) 982-5454
+  ssn: 292 84 9715
+  dob: 07/07/2004
+  address: 2998 Maple Dr
+  city: Houston
+  state: MI

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Hall",
+    "email": "shirley.hall3553@outlook.com",
+    "phone": "442 470 7139",
+    "ssn": "043618059",
+    "dob": "27/10/1973",
+    "address": "638 First Ave",
+    "city": "Seattle",
+    "state": "FL"
+  }
+}

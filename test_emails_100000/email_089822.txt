@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Rodriguez,brian.rodriguez8264@business.net,(217) 823-2336,752 59 2213,04/27/1971,"6811 Pine Blvd",Philadelphia,TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Hall,joseph.hall2699@outlook.com,284-781-5327,013-30-5656,24/11/1950,"4526 Fourth Ln",Los Angeles,GA

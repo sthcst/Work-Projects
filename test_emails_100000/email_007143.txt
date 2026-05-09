@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Cooper,samantha.cooper5419@mail.com,469 684 7716,251 24 3785,12/06/1983,"3265 Elm Dr",Phoenix,CA

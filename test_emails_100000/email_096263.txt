@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Evans
+  email: joshua.evans9250@mail.com
+  phone: 341-423-2026
+  ssn: 143 49 4193
+  dob: 03-15-2001
+  address: 2404 North Rd
+  city: San Jose
+  state: WA

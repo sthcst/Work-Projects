@@ -1,0 +1,12 @@
+SUPPORT TICKET #88849
+
+Customer: Maria Brown
+Email: maria.brown2412@example.com
+Phone: +1 812-868-6790
+Account: 524833074
+
+Issue Description: Technical problem reported
+DOB on file: 22/01/1990
+Address: 426 South Dr, Jacksonville, AZ
+
+Status: OPEN

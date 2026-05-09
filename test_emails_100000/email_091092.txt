@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Jones",
+    "email": "emma.jones2510@company.com",
+    "phone": "(665) 778-4990",
+    "ssn": "343068770",
+    "dob": "18/11/1955",
+    "address": "2020 Park Rd",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Gary Taylor
+  email: gary.taylor4284@business.net
+  phone: (979) 443-9186
+  ssn: 597563587
+  dob: 10/02/1979
+  address: 3258 Fifth Ln
+  city: Los Angeles
+  state: CA

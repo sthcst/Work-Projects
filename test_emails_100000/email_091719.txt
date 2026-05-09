@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Miller,michelle.miller8978@gmail.com,(525) 727-1805,239 51 4869,04/10/1957,"9287 Third Dr",Phoenix,PA

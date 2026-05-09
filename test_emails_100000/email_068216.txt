@@ -1,0 +1,14 @@
+INVOICE 132928
+
+Bill To:
+Name: Nicholas Thompson
+Email: nicholas.thompson6352@example.com
+Phone: (353) 250-4626
+SSN: 571-06-4038
+
+Address: 2798 Main Dr
+Houston, NJ
+
+Date of Birth: 04/03/1976
+
+Amount Due: $6400

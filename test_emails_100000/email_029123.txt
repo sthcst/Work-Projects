@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Bell,nicole.bell2269@work.org,662 930 1410,973-08-6587,26/05/1975,"5542 Cedar Way",Dallas,IL

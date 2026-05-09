@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Gonzalez
+  email: nicole.gonzalez3248@gmail.com
+  phone: +1 771-759-1179
+  ssn: 777281711
+  dob: 09/06/1970
+  address: 6703 Summer Ln
+  city: Chicago
+  state: WA

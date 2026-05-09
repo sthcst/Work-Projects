@@ -1,0 +1,9 @@
+contact:
+  name: Paul Phillips
+  email: paul.phillips5900@example.com
+  phone: (657) 539-5888
+  ssn: 799 06 2464
+  dob: 05-13-1973
+  address: 1237 Cedar Rd
+  city: Washington
+  state: FL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Robinson",
+    "email": "george.robinson8910@mail.com",
+    "phone": "970-517-9361",
+    "ssn": "252-70-5704",
+    "dob": "01/07/1993",
+    "address": "1380 Elm Blvd",
+    "city": "San Antonio",
+    "state": "VA"
+  }
+}

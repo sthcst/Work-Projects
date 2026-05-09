@@ -1,0 +1,14 @@
+INVOICE 619746
+
+Bill To:
+Name: Jessica Cooper
+Email: jessica.cooper368@company.com
+Phone: 202-808-4888
+SSN: 251643864
+
+Address: 3216 Third Ave
+Seattle, MO
+
+Date of Birth: 11/05/2005
+
+Amount Due: $6298

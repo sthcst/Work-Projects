@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Reed",
+    "email": "paul.reed7775@gmail.com",
+    "phone": "554-802-1984",
+    "ssn": "301 18 6646",
+    "dob": "12/28/2000",
+    "address": "4833 Fifth Blvd",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

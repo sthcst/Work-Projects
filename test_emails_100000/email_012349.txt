@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Serrano
+  email: kenneth.serrano7885@work.org
+  phone: 649-401-2442
+  ssn: 419-40-8484
+  dob: 6/14/2005
+  address: 743 South Ave
+  city: Chicago
+  state: TX

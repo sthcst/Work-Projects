@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Morgan",
+    "email": "samantha.morgan6525@outlook.com",
+    "phone": "+1 202-626-8442",
+    "ssn": "267457334",
+    "dob": "05-10-1974",
+    "address": "1334 West Court",
+    "city": "Houston",
+    "state": "FL"
+  }
+}

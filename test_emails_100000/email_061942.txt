@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Morgan
+  email: jacob.morgan8745@company.com
+  phone: (497) 313-4445
+  ssn: 837-58-2972
+  dob: 10/20/1977
+  address: 5825 Main Ln
+  city: New York
+  state: OH

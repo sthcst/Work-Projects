@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Reed,edward.reed5860@mail.com,+1 447-920-7349,633827117,4/26/1950,"2368 Birch Ave",Chicago,FL

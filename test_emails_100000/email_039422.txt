@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Edwards,angela.edwards6939@company.com,(556) 506-9029,361-51-5621,02/27/1972,"2375 North Dr",New York,NJ

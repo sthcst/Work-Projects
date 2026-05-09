@@ -1,0 +1,9 @@
+contact:
+  name: Gary Wilson
+  email: gary.wilson4917@company.com
+  phone: (531) 360-4144
+  ssn: 785-51-3814
+  dob: 10-22-1960
+  address: 8471 Second Way
+  city: Dallas
+  state: CA

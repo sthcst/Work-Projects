@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Delgado",
+    "email": "george.delgado5909@mail.com",
+    "phone": "+1 470-300-3822",
+    "ssn": "372-89-2036",
+    "dob": "09-07-1977",
+    "address": "9989 North Way",
+    "city": "Austin",
+    "state": "NY"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Ramirez,emily.ramirez8788@company.com,508 723 1746,278 62 2182,03-27-1993,"3713 Fourth Way",Jacksonville,TX

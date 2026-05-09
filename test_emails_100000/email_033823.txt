@@ -1,0 +1,14 @@
+INVOICE 519987
+
+Bill To:
+Name: Paul Taylor
+Email: paul.taylor1211@business.net
+Phone: +1 797-277-5393
+SSN: 193 64 3971
+
+Address: 3179 Maple Court
+Washington, DC
+
+Date of Birth: 7/25/1989
+
+Amount Due: $2744

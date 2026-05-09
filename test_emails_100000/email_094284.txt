@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Garcia,jessica.garcia2467@outlook.com,(263) 324-3759,150742785,10/6/1963,"5513 Main Dr",Austin,TX

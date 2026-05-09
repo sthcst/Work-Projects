@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Reyes
+  email: jennifer.reyes9855@mail.com
+  phone: 985 625 2039
+  ssn: 429 18 2414
+  dob: 06/01/2002
+  address: 7060 Oak St
+  city: Seattle
+  state: MD

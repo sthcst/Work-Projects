@@ -1,0 +1,14 @@
+INVOICE 879355
+
+Bill To:
+Name: Daniel Miller
+Email: daniel.miller7468@business.net
+Phone: +1 482-749-5866
+SSN: 025711538
+
+Address: 8687 Maple Rd
+Denver, VA
+
+Date of Birth: 2/5/1975
+
+Amount Due: $8934

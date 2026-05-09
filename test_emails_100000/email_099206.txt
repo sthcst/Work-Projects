@@ -1,0 +1,9 @@
+contact:
+  name: Robert Clark
+  email: robert.clark3461@business.net
+  phone: 664 352 8069
+  ssn: 345536363
+  dob: 16/11/1984
+  address: 2432 Main Blvd
+  city: Philadelphia
+  state: WA

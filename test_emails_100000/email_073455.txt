@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Lewis",
+    "email": "anna.lewis2621@business.net",
+    "phone": "321 211 7741",
+    "ssn": "938-51-8904",
+    "dob": "12/24/2000",
+    "address": "6089 Spring Way",
+    "city": "Washington",
+    "state": "WA"
+  }
+}

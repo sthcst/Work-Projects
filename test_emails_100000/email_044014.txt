@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Guerrero,william.guerrero3262@business.net,(488) 925-1329,146417967,06-08-2003,"8738 West Rd",Jacksonville,IL

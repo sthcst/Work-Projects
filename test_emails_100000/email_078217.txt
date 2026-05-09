@@ -1,0 +1,14 @@
+INVOICE 355335
+
+Bill To:
+Name: Michael Anderson
+Email: michael.anderson6309@yahoo.com
+Phone: +1 690-647-4916
+SSN: 433 55 8815
+
+Address: 6312 First Blvd
+Denver, AZ
+
+Date of Birth: 12/25/1966
+
+Amount Due: $8881

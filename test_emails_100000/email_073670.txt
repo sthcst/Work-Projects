@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Hall
+  email: katherine.hall5283@business.net
+  phone: +1 476-275-2660
+  ssn: 867-25-7337
+  dob: 20/02/1977
+  address: 598 Third Court
+  city: San Jose
+  state: CO

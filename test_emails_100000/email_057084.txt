@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Ramirez,rebecca.ramirez5840@work.org,207 383 8701,375 64 5237,1/7/1954,"6096 Fifth Rd",Austin,NJ

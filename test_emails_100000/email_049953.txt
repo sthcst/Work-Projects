@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Young",
+    "email": "gary.young8024@gmail.com",
+    "phone": "408 495 9464",
+    "ssn": "444-70-2373",
+    "dob": "12/01/1984",
+    "address": "922 Summer Ln",
+    "city": "Boston",
+    "state": "NJ"
+  }
+}

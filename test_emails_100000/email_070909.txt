@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Thompson,mark.thompson9854@example.com,661 688 7476,583 05 6769,07/05/1984,"9899 Spring Way",Washington,AZ

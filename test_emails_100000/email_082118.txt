@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Lewis,kevin.lewis6260@gmail.com,331 833 3445,561-66-6298,01/19/1973,"9202 First Way",Chicago,MD

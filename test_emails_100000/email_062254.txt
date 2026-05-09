@@ -1,0 +1,9 @@
+contact:
+  name: Robert Rodriguez
+  email: robert.rodriguez5133@mail.com
+  phone: (995) 720-8097
+  ssn: 103 08 9108
+  dob: 3/17/1987
+  address: 3099 Park Way
+  city: Seattle
+  state: NY

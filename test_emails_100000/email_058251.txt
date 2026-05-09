@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah White,deborah.white6382@example.com,909-891-2503,811-56-8474,09-05-2004,"1096 First Blvd",Jacksonville,IL

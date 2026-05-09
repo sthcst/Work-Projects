@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Perez,helen.perez3698@work.org,883 736 4182,948-33-1476,7/4/1994,"5122 Maple Blvd",Denver,GA

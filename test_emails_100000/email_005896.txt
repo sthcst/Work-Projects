@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Clark
+  email: ronald.clark9355@example.com
+  phone: (748) 257-1419
+  ssn: 802644996
+  dob: 12-28-1953
+  address: 8438 First Ln
+  city: Philadelphia
+  state: FL

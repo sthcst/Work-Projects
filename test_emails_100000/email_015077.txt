@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Murillo",
+    "email": "sarah.murillo5043@example.com",
+    "phone": "737-515-2960",
+    "ssn": "870 71 5433",
+    "dob": "06/23/1995",
+    "address": "5918 Third Court",
+    "city": "Phoenix",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 858783
+
+Bill To:
+Name: John Perez
+Email: john.perez4370@business.net
+Phone: +1 645-223-2141
+SSN: 207-16-1850
+
+Address: 4806 Cedar Court
+Houston, IL
+
+Date of Birth: 07-09-1952
+
+Amount Due: $8022

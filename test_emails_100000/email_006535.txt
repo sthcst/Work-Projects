@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Ortiz",
+    "email": "maria.ortiz6160@example.com",
+    "phone": "(398) 650-2899",
+    "ssn": "520292213",
+    "dob": "01/13/1982",
+    "address": "9123 Second Blvd",
+    "city": "Jacksonville",
+    "state": "WA"
+  }
+}

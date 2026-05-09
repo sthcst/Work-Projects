@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Serrano",
+    "email": "helen.serrano7835@work.org",
+    "phone": "+1 839-987-3578",
+    "ssn": "372552172",
+    "dob": "03-22-1960",
+    "address": "7524 Birch Blvd",
+    "city": "Los Angeles",
+    "state": "WA"
+  }
+}

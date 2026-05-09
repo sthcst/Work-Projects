@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Ortiz",
+    "email": "sarah.ortiz8129@mail.com",
+    "phone": "+1 221-925-9604",
+    "ssn": "920897034",
+    "dob": "04/09/1976",
+    "address": "559 Spring Way",
+    "city": "Denver",
+    "state": "IL"
+  }
+}

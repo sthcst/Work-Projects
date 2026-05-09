@@ -1,0 +1,14 @@
+INVOICE 425986
+
+Bill To:
+Name: Cynthia Carter
+Email: cynthia.carter1980@company.com
+Phone: 752-371-2249
+SSN: 535 29 3573
+
+Address: 5705 North Court
+Washington, WA
+
+Date of Birth: 12/24/1973
+
+Amount Due: $9025

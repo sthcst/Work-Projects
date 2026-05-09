@@ -1,0 +1,14 @@
+INVOICE 346736
+
+Bill To:
+Name: Brian Reed
+Email: brian.reed3811@outlook.com
+Phone: 915 668 7445
+SSN: 519 11 3619
+
+Address: 8266 Pine Way
+Houston, TX
+
+Date of Birth: 03/02/1953
+
+Amount Due: $1014

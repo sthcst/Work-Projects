@@ -1,0 +1,14 @@
+INVOICE 769818
+
+Bill To:
+Name: Richard Sanchez
+Email: richard.sanchez6578@example.com
+Phone: 873-676-5610
+SSN: 060-76-5301
+
+Address: 6578 Birch St
+Los Angeles, CA
+
+Date of Birth: 11-17-1992
+
+Amount Due: $9196

@@ -1,0 +1,14 @@
+INVOICE 580419
+
+Bill To:
+Name: Michelle Cooper
+Email: michelle.cooper2015@example.com
+Phone: (923) 798-2499
+SSN: 435-11-2304
+
+Address: 3297 Pine Ave
+Los Angeles, MA
+
+Date of Birth: 09-24-1990
+
+Amount Due: $3638

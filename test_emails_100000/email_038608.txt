@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Cooper,robert.cooper7749@yahoo.com,(471) 334-2128,951-49-5477,08/10/2002,"6527 Fourth St",Seattle,FL

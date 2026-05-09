@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Gomez
+  email: joseph.gomez8885@mail.com
+  phone: (976) 778-7775
+  ssn: 946 47 4274
+  dob: 06-06-1960
+  address: 3220 Third Dr
+  city: Jacksonville
+  state: CO

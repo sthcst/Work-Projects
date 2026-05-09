@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Reyes
+  email: katherine.reyes7747@mail.com
+  phone: +1 520-440-1072
+  ssn: 793-79-8990
+  dob: 01/02/1964
+  address: 5792 Pine Ln
+  city: Seattle
+  state: TX

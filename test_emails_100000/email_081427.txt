@@ -1,0 +1,14 @@
+INVOICE 222715
+
+Bill To:
+Name: Ronald Carter
+Email: ronald.carter7887@mail.com
+Phone: +1 455-594-3561
+SSN: 731 70 1330
+
+Address: 1601 Cedar Ave
+Dallas, IL
+
+Date of Birth: 11-03-1955
+
+Amount Due: $2127

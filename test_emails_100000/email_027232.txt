@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Brown,steven.brown7006@outlook.com,(222) 995-5154,226-31-2099,11/05/1951,"6736 Oak Ave",San Antonio,NC

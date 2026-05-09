@@ -1,0 +1,9 @@
+contact:
+  name: Brian Rodriguez
+  email: brian.rodriguez5594@company.com
+  phone: 303 611 8555
+  ssn: 877 03 9238
+  dob: 12/18/1992
+  address: 2968 Summer Way
+  city: Austin
+  state: GA

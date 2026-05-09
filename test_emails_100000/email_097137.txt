@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Edwards
+  email: kathleen.edwards534@outlook.com
+  phone: 233-664-1060
+  ssn: 428 90 2446
+  dob: 11-01-1995
+  address: 4059 Fifth St
+  city: Jacksonville
+  state: AZ

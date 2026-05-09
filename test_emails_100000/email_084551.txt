@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Murillo",
+    "email": "george.murillo7938@example.com",
+    "phone": "891 257 1850",
+    "ssn": "617-10-5779",
+    "dob": "05/09/1956",
+    "address": "3795 Oak Rd",
+    "city": "New York",
+    "state": "PA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Sanchez,william.sanchez4117@company.com,+1 777-469-3646,955-26-8817,05/17/1995,"4784 Maple Ave",Houston,MA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Rogers",
+    "email": "lauren.rogers942@company.com",
+    "phone": "431-279-1262",
+    "ssn": "908-75-9919",
+    "dob": "1/1/1995",
+    "address": "8793 First Dr",
+    "city": "San Antonio",
+    "state": "AZ"
+  }
+}

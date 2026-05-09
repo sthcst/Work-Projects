@@ -1,0 +1,14 @@
+INVOICE 997316
+
+Bill To:
+Name: Michael Jimenez
+Email: michael.jimenez7586@company.com
+Phone: 778-465-7153
+SSN: 525 30 6636
+
+Address: 992 Oak St
+New York, WA
+
+Date of Birth: 18/06/1953
+
+Amount Due: $9719

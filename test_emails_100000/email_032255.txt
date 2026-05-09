@@ -1,0 +1,9 @@
+contact:
+  name: James Thomas
+  email: james.thomas6380@example.com
+  phone: 680-999-8863
+  ssn: 469-33-7451
+  dob: 11/14/2003
+  address: 9192 Oak Ln
+  city: Seattle
+  state: GA

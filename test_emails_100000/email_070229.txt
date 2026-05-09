@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Wilson
+  email: joshua.wilson2204@company.com
+  phone: 514 633 4897
+  ssn: 011269654
+  dob: 04/27/1966
+  address: 7405 Fifth Court
+  city: Chicago
+  state: WA

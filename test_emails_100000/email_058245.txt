@@ -1,0 +1,14 @@
+INVOICE 493488
+
+Bill To:
+Name: Jane Taylor
+Email: jane.taylor5962@company.com
+Phone: (381) 624-5940
+SSN: 313 85 2537
+
+Address: 8918 Summer Court
+Philadelphia, FL
+
+Date of Birth: 08-03-2005
+
+Amount Due: $2075

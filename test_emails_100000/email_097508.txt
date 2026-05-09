@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Evans,helen.evans5829@mail.com,894-563-8881,662-60-8777,8/12/1950,"5158 Spring Court",Jacksonville,CA

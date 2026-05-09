@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Flores",
+    "email": "megan.flores7528@company.com",
+    "phone": "(311) 577-3213",
+    "ssn": "052-79-5372",
+    "dob": "18/01/2004",
+    "address": "6752 East Way",
+    "city": "San Diego",
+    "state": "IL"
+  }
+}

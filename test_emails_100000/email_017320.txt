@@ -1,0 +1,9 @@
+contact:
+  name: Mark Moore
+  email: mark.moore6028@example.com
+  phone: (468) 824-2126
+  ssn: 780 31 7003
+  dob: 03/08/1991
+  address: 1197 Third Ln
+  city: Phoenix
+  state: WA

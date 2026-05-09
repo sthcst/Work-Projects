@@ -1,0 +1,9 @@
+contact:
+  name: George Campbell
+  email: george.campbell9361@yahoo.com
+  phone: 360 287 9712
+  ssn: 355-36-4393
+  dob: 1/28/1998
+  address: 2146 Main Way
+  city: Seattle
+  state: MI

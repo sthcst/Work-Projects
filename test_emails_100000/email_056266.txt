@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Cooper,nicole.cooper7235@gmail.com,(644) 741-4722,460986557,28/04/1950,"5880 Main Blvd",San Jose,TX

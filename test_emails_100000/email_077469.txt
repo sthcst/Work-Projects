@@ -1,0 +1,14 @@
+INVOICE 368391
+
+Bill To:
+Name: John Flores
+Email: john.flores5920@company.com
+Phone: +1 349-967-3194
+SSN: 664-54-2540
+
+Address: 4162 South Ln
+Chicago, TX
+
+Date of Birth: 11-14-1994
+
+Amount Due: $3191

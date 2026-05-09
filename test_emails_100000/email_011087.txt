@@ -1,0 +1,9 @@
+contact:
+  name: Mark Murillo
+  email: mark.murillo9868@outlook.com
+  phone: +1 280-761-9338
+  ssn: 674-24-4519
+  dob: 16/12/1997
+  address: 1414 Birch Blvd
+  city: Seattle
+  state: WI

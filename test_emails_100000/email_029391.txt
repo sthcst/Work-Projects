@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Delgado
+  email: kenneth.delgado9747@outlook.com
+  phone: +1 742-380-3967
+  ssn: 819-55-6958
+  dob: 05-04-1970
+  address: 1645 Sixth Blvd
+  city: New York
+  state: MA

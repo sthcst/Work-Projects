@@ -1,0 +1,14 @@
+INVOICE 642503
+
+Bill To:
+Name: James Williams
+Email: james.williams2864@company.com
+Phone: 306 969 1589
+SSN: 201-38-2954
+
+Address: 9889 Summer Ln
+Austin, TX
+
+Date of Birth: 6/26/1976
+
+Amount Due: $6060

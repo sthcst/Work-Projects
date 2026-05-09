@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer White
+  email: jennifer.white3176@mail.com
+  phone: (494) 332-4772
+  ssn: 822676072
+  dob: 02/24/1959
+  address: 4524 North Rd
+  city: Dallas
+  state: FL

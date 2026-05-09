@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Hernandez,joseph.hernandez5355@example.com,(320) 552-1044,314-17-6285,10/19/1963,"6877 Cedar Ln",Dallas,VA

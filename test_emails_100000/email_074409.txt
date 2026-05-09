@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Moore",
+    "email": "rebecca.moore6243@example.com",
+    "phone": "651 381 8241",
+    "ssn": "440 90 5201",
+    "dob": "03-09-1996",
+    "address": "1384 Elm St",
+    "city": "San Antonio",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Robert Edwards
+  email: robert.edwards5866@example.com
+  phone: 865 375 4420
+  ssn: 766-33-7358
+  dob: 6/26/1966
+  address: 8838 Second Rd
+  city: San Antonio
+  state: MO

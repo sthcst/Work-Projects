@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Peterson
+  email: andrew.peterson1106@example.com
+  phone: 363-512-7827
+  ssn: 611-26-9384
+  dob: 3/11/2005
+  address: 3595 Main Rd
+  city: Washington
+  state: VA

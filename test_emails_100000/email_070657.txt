@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Nunez,jacob.nunez9196@yahoo.com,(428) 286-2563,587 22 4328,6/19/1977,"6472 South Ln",Philadelphia,CA

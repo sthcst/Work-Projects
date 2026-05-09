@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Dominguez
+  email: christopher.dominguez1818@company.com
+  phone: 264 321 5021
+  ssn: 760978483
+  dob: 09-02-1951
+  address: 7925 Fourth Way
+  city: San Jose
+  state: CA

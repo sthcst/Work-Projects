@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Rodriguez
+  email: ronald.rodriguez7138@yahoo.com
+  phone: 434-778-5387
+  ssn: 105-39-9827
+  dob: 02/17/1995
+  address: 3723 Summer Court
+  city: San Jose
+  state: CO

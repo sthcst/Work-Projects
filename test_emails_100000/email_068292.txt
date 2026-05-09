@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Nelson",
+    "email": "emily.nelson3930@outlook.com",
+    "phone": "715-213-8837",
+    "ssn": "615951554",
+    "dob": "12/05/1954",
+    "address": "2413 Birch Blvd",
+    "city": "Washington",
+    "state": "NJ"
+  }
+}

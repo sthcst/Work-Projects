@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Sanchez,kathleen.sanchez9416@company.com,+1 928-588-9471,045-94-8009,06/07/1982,"2208 Oak Dr",San Jose,WA

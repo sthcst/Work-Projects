@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Nunez,ashley.nunez6946@outlook.com,928 798 7501,089-78-4341,12-16-1972,"3271 Main Dr",Boston,MI

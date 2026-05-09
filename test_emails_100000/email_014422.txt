@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Davis",
+    "email": "andrew.davis2110@gmail.com",
+    "phone": "+1 982-490-4759",
+    "ssn": "977-12-5112",
+    "dob": "12/07/1997",
+    "address": "2041 South Ln",
+    "city": "Phoenix",
+    "state": "PA"
+  }
+}

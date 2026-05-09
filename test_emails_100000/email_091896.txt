@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Thomas",
+    "email": "andrew.thomas901@mail.com",
+    "phone": "+1 400-906-3949",
+    "ssn": "653-68-6708",
+    "dob": "9/26/1951",
+    "address": "4343 Summer Blvd",
+    "city": "San Diego",
+    "state": "NY"
+  }
+}

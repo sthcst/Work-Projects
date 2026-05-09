@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Johnson,andrew.johnson6927@business.net,+1 215-333-7378,673 39 8772,8/5/1972,"4150 Maple Dr",Phoenix,AZ

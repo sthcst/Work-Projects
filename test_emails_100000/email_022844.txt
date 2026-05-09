@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Lewis
+  email: lisa.lewis4813@company.com
+  phone: (809) 213-7188
+  ssn: 623-21-8927
+  dob: 02/09/1985
+  address: 3401 First Dr
+  city: Jacksonville
+  state: NJ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Hernandez,nicole.hernandez4347@yahoo.com,(838) 582-4900,686 21 9851,10/02/1967,"4627 Fourth St",Dallas,CA

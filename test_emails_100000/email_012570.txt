@@ -1,0 +1,9 @@
+contact:
+  name: Christine Lewis
+  email: christine.lewis9070@mail.com
+  phone: (733) 849-4016
+  ssn: 845-07-9874
+  dob: 10/17/1996
+  address: 1934 Sixth Rd
+  city: Philadelphia
+  state: TX

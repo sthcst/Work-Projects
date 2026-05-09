@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Phillips
+  email: christopher.phillips9715@mail.com
+  phone: 444 485 2463
+  ssn: 978587057
+  dob: 01/02/1994
+  address: 6103 Cedar Way
+  city: San Diego
+  state: NJ

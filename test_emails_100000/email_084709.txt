@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Anderson
+  email: kevin.anderson6824@yahoo.com
+  phone: (554) 403-2847
+  ssn: 021 67 7241
+  dob: 4/1/1992
+  address: 1346 Second Dr
+  city: San Jose
+  state: WA

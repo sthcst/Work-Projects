@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Morgan,rebecca.morgan2254@company.com,+1 234-757-8488,795495540,06/06/1958,"6462 Summer Court",Seattle,CA

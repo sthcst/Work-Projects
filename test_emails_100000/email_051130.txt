@@ -1,0 +1,9 @@
+contact:
+  name: Emma Clark
+  email: emma.clark857@example.com
+  phone: (293) 426-4646
+  ssn: 983-15-9296
+  dob: 02/07/1977
+  address: 1147 Pine Way
+  city: Phoenix
+  state: TX

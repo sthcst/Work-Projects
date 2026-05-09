@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Bell",
+    "email": "robert.bell4288@company.com",
+    "phone": "+1 755-826-9100",
+    "ssn": "652 18 9394",
+    "dob": "12/18/1969",
+    "address": "1331 Park St",
+    "city": "San Diego",
+    "state": "CO"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 894414
+
+Bill To:
+Name: Brian Smith
+Email: brian.smith5943@yahoo.com
+Phone: 892-651-1491
+SSN: 795097344
+
+Address: 3037 West Blvd
+Denver, MD
+
+Date of Birth: 01/02/1959
+
+Amount Due: $1864

@@ -1,0 +1,9 @@
+contact:
+  name: Jane Lee
+  email: jane.lee9157@mail.com
+  phone: 618-285-9221
+  ssn: 122281556
+  dob: 07/06/1958
+  address: 160 Fourth Way
+  city: New York
+  state: NC

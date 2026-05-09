@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Clark
+  email: joseph.clark9541@yahoo.com
+  phone: +1 727-766-8991
+  ssn: 686-75-6203
+  dob: 02/16/1958
+  address: 8849 Birch Dr
+  city: San Antonio
+  state: MI

@@ -1,0 +1,14 @@
+INVOICE 634065
+
+Bill To:
+Name: Donald Hernandez
+Email: donald.hernandez1290@company.com
+Phone: +1 714-694-2988
+SSN: 287-59-3415
+
+Address: 3088 First Way
+San Antonio, AZ
+
+Date of Birth: 27/01/2000
+
+Amount Due: $229

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Murillo,brenda.murillo9052@mail.com,662-796-3314,658 88 9660,06/18/1985,"939 Maple Way",Los Angeles,WA

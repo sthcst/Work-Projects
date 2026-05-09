@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Serrano,angela.serrano9387@example.com,+1 909-345-4863,668-36-6925,2/27/1971,"833 Sixth Dr",Houston,CA

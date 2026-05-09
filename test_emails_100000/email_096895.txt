@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Lee",
+    "email": "william.lee7987@business.net",
+    "phone": "816-625-1969",
+    "ssn": "635 75 8991",
+    "dob": "22/11/1995",
+    "address": "7075 South Ln",
+    "city": "Dallas",
+    "state": "OH"
+  }
+}

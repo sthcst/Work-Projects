@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Brown",
+    "email": "amanda.brown7369@mail.com",
+    "phone": "919 747 4612",
+    "ssn": "010351367",
+    "dob": "8/21/1974",
+    "address": "1845 Third St",
+    "city": "San Diego",
+    "state": "MA"
+  }
+}

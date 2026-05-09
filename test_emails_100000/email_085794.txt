@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Perez,angela.perez2349@business.net,+1 476-752-3022,198 49 7178,2/18/1970,"3610 First St",Houston,IL

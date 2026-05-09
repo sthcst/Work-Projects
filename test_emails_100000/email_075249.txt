@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Lee",
+    "email": "mark.lee7297@gmail.com",
+    "phone": "(578) 522-1826",
+    "ssn": "674569149",
+    "dob": "07/26/1953",
+    "address": "9657 Birch Ave",
+    "city": "Los Angeles",
+    "state": "VA"
+  }
+}

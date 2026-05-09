@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Walker,richard.walker8641@gmail.com,(955) 596-7754,883-83-2287,05-22-1969,"7021 Sixth Court",Phoenix,CO

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Nelson",
+    "email": "jessica.nelson8148@business.net",
+    "phone": "(231) 962-4635",
+    "ssn": "638-94-8341",
+    "dob": "09/18/1964",
+    "address": "989 East Way",
+    "city": "San Diego",
+    "state": "AZ"
+  }
+}

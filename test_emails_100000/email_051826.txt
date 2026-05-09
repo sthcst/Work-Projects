@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Carter",
+    "email": "andrew.carter8821@business.net",
+    "phone": "448 302 4924",
+    "ssn": "690-70-7446",
+    "dob": "4/15/1960",
+    "address": "63 Elm St",
+    "city": "Jacksonville",
+    "state": "NJ"
+  }
+}

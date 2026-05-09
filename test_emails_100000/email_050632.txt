@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Davis,amanda.davis3312@example.com,969 907 5051,839694860,6/5/1968,"2852 Main St",Washington,AZ

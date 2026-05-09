@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Miller
+  email: amanda.miller8428@work.org
+  phone: +1 391-477-1092
+  ssn: 373 87 3667
+  dob: 7/24/1978
+  address: 3722 Third Ave
+  city: Jacksonville
+  state: MI

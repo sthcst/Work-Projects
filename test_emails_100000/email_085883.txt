@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Clark,michael.clark2719@company.com,585 489 4844,089248558,9/25/1988,"2650 West Court",Philadelphia,TN

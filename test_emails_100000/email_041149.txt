@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Ortiz
+  email: jennifer.ortiz678@work.org
+  phone: (384) 986-7438
+  ssn: 022 46 6680
+  dob: 23/08/2002
+  address: 5942 Birch Blvd
+  city: Phoenix
+  state: WI

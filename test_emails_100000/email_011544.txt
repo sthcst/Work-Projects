@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Guerrero,james.guerrero7779@outlook.com,802 752 1418,915-45-1414,02/08/1953,"1224 Elm St",Chicago,WA

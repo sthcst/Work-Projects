@@ -1,0 +1,9 @@
+contact:
+  name: Christine Wilson
+  email: christine.wilson7148@company.com
+  phone: 800-317-2727
+  ssn: 298-24-8977
+  dob: 11/8/2005
+  address: 2555 Fifth Dr
+  city: Jacksonville
+  state: CA

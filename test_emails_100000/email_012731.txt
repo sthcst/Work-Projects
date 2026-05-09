@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Rogers",
+    "email": "christopher.rogers4620@yahoo.com",
+    "phone": "537-769-9018",
+    "ssn": "102-03-6002",
+    "dob": "02-08-1995",
+    "address": "8794 East Court",
+    "city": "Dallas",
+    "state": "GA"
+  }
+}

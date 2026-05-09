@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Morgan,nicholas.morgan1100@example.com,+1 455-549-6978,053 41 9668,18/06/1962,"6530 Park Ave",Los Angeles,OH

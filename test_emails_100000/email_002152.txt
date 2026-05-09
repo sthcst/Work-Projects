@@ -1,0 +1,9 @@
+contact:
+  name: Steven Dominguez
+  email: steven.dominguez5787@example.com
+  phone: +1 271-837-4059
+  ssn: 927641842
+  dob: 09/06/1982
+  address: 5024 Third Court
+  city: Los Angeles
+  state: TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Ortiz,rebecca.ortiz929@yahoo.com,232 700 6939,722822746,09/10/1979,"2033 Third St",San Jose,OH

@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Sanchez
+  email: timothy.sanchez5406@outlook.com
+  phone: (927) 817-4095
+  ssn: 873-99-1282
+  dob: 06/03/1972
+  address: 3893 East Way
+  city: Dallas
+  state: WA

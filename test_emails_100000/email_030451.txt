@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Alvarado",
+    "email": "kenneth.alvarado2105@work.org",
+    "phone": "+1 870-815-5121",
+    "ssn": "455-41-5812",
+    "dob": "08/02/1950",
+    "address": "5759 Sixth Court",
+    "city": "Philadelphia",
+    "state": "GA"
+  }
+}

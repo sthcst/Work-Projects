@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Robinson",
+    "email": "ashley.robinson9267@mail.com",
+    "phone": "791-642-2414",
+    "ssn": "418-52-7432",
+    "dob": "09/23/1984",
+    "address": "8084 Second Ln",
+    "city": "Phoenix",
+    "state": "WI"
+  }
+}

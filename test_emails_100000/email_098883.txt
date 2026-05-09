@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Thomas,edward.thomas7815@yahoo.com,316-388-5200,369-92-6760,07/10/1985,"5085 Main St",San Jose,MD

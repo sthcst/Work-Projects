@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James White",
+    "email": "james.white7848@business.net",
+    "phone": "781 547 9087",
+    "ssn": "746429543",
+    "dob": "19/08/1950",
+    "address": "1307 Elm Blvd",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

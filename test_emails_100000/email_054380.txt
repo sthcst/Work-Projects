@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Reeves",
+    "email": "gary.reeves9293@business.net",
+    "phone": "559 374 3712",
+    "ssn": "343 46 7180",
+    "dob": "1/21/1988",
+    "address": "6965 South Ave",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

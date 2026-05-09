@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Phillips
+  email: lisa.phillips381@outlook.com
+  phone: (590) 572-7876
+  ssn: 584745508
+  dob: 10/14/1965
+  address: 3869 Main Way
+  city: Jacksonville
+  state: CA

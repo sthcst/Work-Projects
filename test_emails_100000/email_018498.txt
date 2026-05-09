@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Nelson",
+    "email": "ronald.nelson1861@work.org",
+    "phone": "+1 455-312-4793",
+    "ssn": "004 17 6738",
+    "dob": "28/05/1969",
+    "address": "4791 Cedar Court",
+    "city": "San Diego",
+    "state": "TN"
+  }
+}

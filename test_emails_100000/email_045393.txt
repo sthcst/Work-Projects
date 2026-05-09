@@ -1,0 +1,14 @@
+INVOICE 827076
+
+Bill To:
+Name: Angela Martin
+Email: angela.martin6582@example.com
+Phone: +1 978-511-9882
+SSN: 872 56 5093
+
+Address: 5692 North St
+New York, NC
+
+Date of Birth: 1/24/1962
+
+Amount Due: $6732

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Johnson",
+    "email": "maria.johnson2216@yahoo.com",
+    "phone": "+1 789-753-1740",
+    "ssn": "928-55-2137",
+    "dob": "6/21/1974",
+    "address": "6302 Maple Rd",
+    "city": "Dallas",
+    "state": "NJ"
+  }
+}

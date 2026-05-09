@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Lopez,joseph.lopez3332@outlook.com,(631) 658-9951,053-83-3592,01/25/1954,"1246 East Ln",Denver,AZ

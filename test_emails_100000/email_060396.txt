@@ -1,0 +1,9 @@
+contact:
+  name: John Bell
+  email: john.bell1582@example.com
+  phone: +1 585-991-6787
+  ssn: 588 89 7999
+  dob: 03/04/1978
+  address: 9641 Maple Ln
+  city: San Diego
+  state: TX

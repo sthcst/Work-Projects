@@ -1,0 +1,9 @@
+contact:
+  name: Angela Garcia
+  email: angela.garcia5418@mail.com
+  phone: +1 891-245-5824
+  ssn: 436099463
+  dob: 11/27/1977
+  address: 6886 Spring Way
+  city: San Jose
+  state: DC

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Bell",
+    "email": "kimberly.bell6640@work.org",
+    "phone": "274-546-4848",
+    "ssn": "677-10-7746",
+    "dob": "10/13/1986",
+    "address": "7554 Pine Way",
+    "city": "Phoenix",
+    "state": "FL"
+  }
+}

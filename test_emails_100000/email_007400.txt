@@ -1,0 +1,14 @@
+INVOICE 692505
+
+Bill To:
+Name: William Lewis
+Email: william.lewis8875@example.com
+Phone: (443) 358-2957
+SSN: 501-74-1096
+
+Address: 2157 South Blvd
+Jacksonville, AZ
+
+Date of Birth: 03/21/1998
+
+Amount Due: $6040

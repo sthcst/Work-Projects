@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Garcia",
+    "email": "angela.garcia6454@company.com",
+    "phone": "634 788 9060",
+    "ssn": "676-91-9674",
+    "dob": "01/08/1997",
+    "address": "7959 Fourth Rd",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

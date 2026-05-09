@@ -1,0 +1,14 @@
+INVOICE 109962
+
+Bill To:
+Name: Paul Gomez
+Email: paul.gomez9618@outlook.com
+Phone: +1 277-437-6776
+SSN: 182996284
+
+Address: 4003 First Court
+Philadelphia, TX
+
+Date of Birth: 03-25-1984
+
+Amount Due: $4693

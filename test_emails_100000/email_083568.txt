@@ -1,0 +1,14 @@
+INVOICE 881108
+
+Bill To:
+Name: Gary Anderson
+Email: gary.anderson1732@example.com
+Phone: (816) 814-6176
+SSN: 883252809
+
+Address: 2130 Second Way
+Washington, CA
+
+Date of Birth: 2/16/1966
+
+Amount Due: $1063

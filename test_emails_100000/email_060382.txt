@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Nelson,ronald.nelson8756@yahoo.com,+1 280-213-7449,793 54 4408,12/24/1952,"4670 Elm Way",Jacksonville,CO

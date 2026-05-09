@@ -1,0 +1,14 @@
+INVOICE 901351
+
+Bill To:
+Name: Jane Miller
+Email: jane.miller551@mail.com
+Phone: 674 561 6177
+SSN: 335886230
+
+Address: 6131 Maple Blvd
+San Antonio, PA
+
+Date of Birth: 08/01/1980
+
+Amount Due: $6771

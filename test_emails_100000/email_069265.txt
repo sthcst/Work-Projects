@@ -1,0 +1,14 @@
+INVOICE 743969
+
+Bill To:
+Name: Jason Thompson
+Email: jason.thompson5641@example.com
+Phone: 384-341-5456
+SSN: 337 61 4656
+
+Address: 9714 Second Way
+San Jose, FL
+
+Date of Birth: 10/02/1983
+
+Amount Due: $4361

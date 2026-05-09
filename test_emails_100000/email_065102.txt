@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Ortiz",
+    "email": "sarah.ortiz9899@mail.com",
+    "phone": "984 223 2031",
+    "ssn": "927 66 6953",
+    "dob": "05/11/1974",
+    "address": "1668 Oak Court",
+    "city": "Washington",
+    "state": "MO"
+  }
+}

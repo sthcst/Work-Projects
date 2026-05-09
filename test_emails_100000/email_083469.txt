@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Collins
+  email: joshua.collins3160@yahoo.com
+  phone: 899 369 1441
+  ssn: 253-64-5728
+  dob: 08/28/1958
+  address: 3422 South Blvd
+  city: Denver
+  state: MD

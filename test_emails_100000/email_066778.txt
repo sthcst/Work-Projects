@@ -1,0 +1,14 @@
+INVOICE 357985
+
+Bill To:
+Name: Jason Thomas
+Email: jason.thomas4297@company.com
+Phone: +1 625-925-1251
+SSN: 758-27-4362
+
+Address: 2592 Park Court
+Dallas, CA
+
+Date of Birth: 11-28-1982
+
+Amount Due: $7495

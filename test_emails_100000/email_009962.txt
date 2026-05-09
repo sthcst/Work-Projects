@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda White,amanda.white9634@company.com,879-777-5006,455-47-2615,10/22/1967,"4923 Birch Way",Dallas,TN

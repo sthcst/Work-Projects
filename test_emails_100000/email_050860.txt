@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Perez
+  email: rachel.perez2624@business.net
+  phone: (298) 367-4668
+  ssn: 892-24-3485
+  dob: 2/18/1966
+  address: 5527 Second Way
+  city: Dallas
+  state: CA

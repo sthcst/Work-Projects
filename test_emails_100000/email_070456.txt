@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Reed
+  email: stephanie.reed3430@yahoo.com
+  phone: +1 537-489-3151
+  ssn: 136 47 1902
+  dob: 1/25/1996
+  address: 4832 Main Ave
+  city: Boston
+  state: CO

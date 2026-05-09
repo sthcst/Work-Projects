@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Campbell,gary.campbell9537@company.com,843 389 9865,626 72 2758,2/27/1986,"6048 Cedar Rd",New York,NJ

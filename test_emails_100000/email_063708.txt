@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Morris",
+    "email": "christine.morris7186@business.net",
+    "phone": "359 974 4612",
+    "ssn": "687-29-4707",
+    "dob": "04-06-1951",
+    "address": "7597 Pine Court",
+    "city": "Phoenix",
+    "state": "OH"
+  }
+}

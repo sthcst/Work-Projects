@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Morgan,james.morgan2579@gmail.com,664 373 8436,929176774,9/23/1975,"2406 Oak Blvd",Washington,TX

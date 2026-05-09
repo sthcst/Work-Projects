@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Harris,katherine.harris8230@gmail.com,+1 321-871-9225,612813249,03-12-1954,"1986 Oak Ln",Washington,AZ

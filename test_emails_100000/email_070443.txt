@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Reeves,kenneth.reeves8093@mail.com,693-494-9375,735362414,19/04/1962,"863 Park Blvd",San Diego,WA

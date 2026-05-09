@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Thomas
+  email: cynthia.thomas4254@gmail.com
+  phone: 759 558 9681
+  ssn: 378 10 5523
+  dob: 25/04/1988
+  address: 2051 East Rd
+  city: Austin
+  state: NY

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Nelson",
+    "email": "jason.nelson8680@yahoo.com",
+    "phone": "778 762 7037",
+    "ssn": "052738531",
+    "dob": "07-27-1975",
+    "address": "9268 Second Ave",
+    "city": "Austin",
+    "state": "MO"
+  }
+}

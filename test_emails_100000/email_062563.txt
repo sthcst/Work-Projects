@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Delgado,richard.delgado9912@yahoo.com,790-615-6911,006-74-7696,12/28/1956,"6104 Fifth Court",Washington,WI

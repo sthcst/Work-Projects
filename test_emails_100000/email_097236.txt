@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Taylor,sarah.taylor8054@mail.com,670-887-6300,131-23-9702,09/27/1994,"23 Fourth Ln",Philadelphia,WI

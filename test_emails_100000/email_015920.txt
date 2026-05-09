@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Garcia,michelle.garcia3971@yahoo.com,665 768 7521,443988841,11/14/1966,"6809 Birch Ln",Los Angeles,CA

@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Morgan
+  email: rachel.morgan6508@outlook.com
+  phone: (468) 845-5198
+  ssn: 426 10 6196
+  dob: 06-03-1974
+  address: 7722 Fifth Ave
+  city: Boston
+  state: CA

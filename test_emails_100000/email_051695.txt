@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Moore
+  email: lisa.moore8053@gmail.com
+  phone: 447 450 1385
+  ssn: 967928584
+  dob: 2/14/1999
+  address: 9799 Pine Way
+  city: Los Angeles
+  state: AZ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Martin",
+    "email": "pamela.martin1524@work.org",
+    "phone": "(945) 398-4336",
+    "ssn": "723 25 1361",
+    "dob": "09-15-1954",
+    "address": "591 Cedar Blvd",
+    "city": "Washington",
+    "state": "MA"
+  }
+}

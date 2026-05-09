@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Gomez",
+    "email": "james.gomez1904@company.com",
+    "phone": "(806) 905-2817",
+    "ssn": "748-39-9424",
+    "dob": "02/04/1966",
+    "address": "147 Pine Dr",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

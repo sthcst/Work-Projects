@@ -1,0 +1,9 @@
+contact:
+  name: Michael Stewart
+  email: michael.stewart3102@work.org
+  phone: 839-618-2342
+  ssn: 135451478
+  dob: 03-19-1989
+  address: 2778 Second Dr
+  city: Philadelphia
+  state: WA

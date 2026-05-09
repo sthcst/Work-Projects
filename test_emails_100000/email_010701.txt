@@ -1,0 +1,9 @@
+contact:
+  name: George Davis
+  email: george.davis960@company.com
+  phone: +1 541-261-2049
+  ssn: 092658453
+  dob: 11-08-2002
+  address: 197 Main Ave
+  city: Austin
+  state: TX

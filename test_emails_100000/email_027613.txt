@@ -1,0 +1,9 @@
+contact:
+  name: Helen Clark
+  email: helen.clark9805@gmail.com
+  phone: 673-568-7905
+  ssn: 999-93-6133
+  dob: 09/24/1987
+  address: 5939 Pine Dr
+  city: Jacksonville
+  state: MD

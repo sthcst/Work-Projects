@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Reyes",
+    "email": "kenneth.reyes4533@yahoo.com",
+    "phone": "+1 675-905-9351",
+    "ssn": "701 13 3677",
+    "dob": "01/25/1993",
+    "address": "5790 South Court",
+    "city": "Los Angeles",
+    "state": "PA"
+  }
+}

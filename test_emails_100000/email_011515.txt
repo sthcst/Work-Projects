@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Campbell
+  email: christopher.campbell1481@business.net
+  phone: 985 897 2429
+  ssn: 864-80-3466
+  dob: 04/27/1973
+  address: 4249 East Ln
+  city: New York
+  state: TN

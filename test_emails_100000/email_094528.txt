@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Ortiz",
+    "email": "kimberly.ortiz4012@example.com",
+    "phone": "+1 637-617-8917",
+    "ssn": "937715004",
+    "dob": "8/18/1955",
+    "address": "9809 Third Dr",
+    "city": "Chicago",
+    "state": "NJ"
+  }
+}

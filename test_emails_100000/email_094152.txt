@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Cooper",
+    "email": "john.cooper4436@outlook.com",
+    "phone": "(491) 300-6396",
+    "ssn": "597714502",
+    "dob": "3/24/1952",
+    "address": "3962 Second Ave",
+    "city": "Dallas",
+    "state": "MO"
+  }
+}

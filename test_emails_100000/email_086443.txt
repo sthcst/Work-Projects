@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Clark",
+    "email": "nicholas.clark8472@company.com",
+    "phone": "(463) 485-5466",
+    "ssn": "851458572",
+    "dob": "07-17-1977",
+    "address": "7194 Oak Dr",
+    "city": "Los Angeles",
+    "state": "WA"
+  }
+}

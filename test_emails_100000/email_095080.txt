@@ -1,0 +1,14 @@
+INVOICE 443398
+
+Bill To:
+Name: Jennifer Garcia
+Email: jennifer.garcia9076@example.com
+Phone: +1 977-371-1860
+SSN: 969 13 1346
+
+Address: 3652 Park Dr
+Houston, AZ
+
+Date of Birth: 04/08/1950
+
+Amount Due: $4777

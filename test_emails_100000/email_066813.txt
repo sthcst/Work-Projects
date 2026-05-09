@@ -1,0 +1,14 @@
+INVOICE 753289
+
+Bill To:
+Name: Samantha Ortiz
+Email: samantha.ortiz4306@example.com
+Phone: 846-477-5280
+SSN: 999-64-4255
+
+Address: 814 East Court
+Los Angeles, OH
+
+Date of Birth: 06/06/1973
+
+Amount Due: $8566

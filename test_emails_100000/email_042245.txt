@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Lee",
+    "email": "jane.lee4878@mail.com",
+    "phone": "+1 606-325-1685",
+    "ssn": "946054773",
+    "dob": "2/13/1994",
+    "address": "1734 Park Ln",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

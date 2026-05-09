@@ -1,0 +1,14 @@
+INVOICE 205953
+
+Bill To:
+Name: Jason Romero
+Email: jason.romero6420@example.com
+Phone: (620) 455-4746
+SSN: 729-27-3010
+
+Address: 1402 Cedar Court
+Dallas, IL
+
+Date of Birth: 3/12/1976
+
+Amount Due: $7211

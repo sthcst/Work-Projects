@@ -1,0 +1,14 @@
+INVOICE 645563
+
+Bill To:
+Name: Charles Miller
+Email: charles.miller1021@yahoo.com
+Phone: (875) 701-4936
+SSN: 186-64-3581
+
+Address: 1181 Oak Court
+Phoenix, MA
+
+Date of Birth: 21/12/1973
+
+Amount Due: $7461

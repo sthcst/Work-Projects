@@ -1,0 +1,9 @@
+contact:
+  name: Edward Alvarado
+  email: edward.alvarado9481@company.com
+  phone: +1 895-484-8684
+  ssn: 237 64 8376
+  dob: 2/28/1981
+  address: 3172 Sixth Way
+  city: Denver
+  state: TN

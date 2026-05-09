@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Rogers,anthony.rogers6116@gmail.com,+1 318-741-4345,304-75-9368,05/10/1991,"3618 Sixth Ln",Jacksonville,AZ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Cooper",
+    "email": "jacob.cooper5765@yahoo.com",
+    "phone": "+1 570-649-3790",
+    "ssn": "694462262",
+    "dob": "17/09/1974",
+    "address": "9602 Sixth St",
+    "city": "New York",
+    "state": "MD"
+  }
+}

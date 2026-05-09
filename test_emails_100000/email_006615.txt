@@ -1,0 +1,9 @@
+contact:
+  name: William Jones
+  email: william.jones43@business.net
+  phone: +1 650-243-6722
+  ssn: 528 67 6642
+  dob: 5/28/1991
+  address: 633 Sixth Dr
+  city: Phoenix
+  state: FL

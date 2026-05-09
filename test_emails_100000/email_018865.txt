@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Taylor",
+    "email": "mark.taylor5011@yahoo.com",
+    "phone": "566-911-8172",
+    "ssn": "007-67-3860",
+    "dob": "04-14-2001",
+    "address": "7348 Second Blvd",
+    "city": "San Antonio",
+    "state": "WA"
+  }
+}

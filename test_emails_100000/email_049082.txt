@@ -1,0 +1,9 @@
+contact:
+  name: Angela Reyes
+  email: angela.reyes4781@company.com
+  phone: 976 805 3509
+  ssn: 665247383
+  dob: 03-11-1989
+  address: 1719 Park Ln
+  city: San Diego
+  state: TN

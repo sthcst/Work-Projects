@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Reed
+  email: nicole.reed3395@work.org
+  phone: 319-592-2253
+  ssn: 792858770
+  dob: 12-07-1955
+  address: 1294 Summer Dr
+  city: Seattle
+  state: PA

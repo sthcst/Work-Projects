@@ -1,0 +1,14 @@
+INVOICE 325674
+
+Bill To:
+Name: George Johnson
+Email: george.johnson9984@gmail.com
+Phone: +1 673-643-7355
+SSN: 322778230
+
+Address: 6700 Sixth Ave
+Washington, TX
+
+Date of Birth: 23/11/1968
+
+Amount Due: $7986

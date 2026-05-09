@@ -1,0 +1,9 @@
+contact:
+  name: William Dominguez
+  email: william.dominguez7139@outlook.com
+  phone: (421) 336-1836
+  ssn: 569-95-8774
+  dob: 1/12/1999
+  address: 1300 Main Ave
+  city: Washington
+  state: TN

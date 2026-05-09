@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Carter,brian.carter5283@mail.com,(638) 765-4398,007-19-9982,06-18-1989,"6009 Maple Ln",Jacksonville,NC

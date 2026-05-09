@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Brown",
+    "email": "timothy.brown4670@gmail.com",
+    "phone": "(607) 620-1296",
+    "ssn": "059-49-7058",
+    "dob": "02-22-1987",
+    "address": "3953 Third Court",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

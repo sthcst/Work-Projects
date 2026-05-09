@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Jones",
+    "email": "emma.jones2559@outlook.com",
+    "phone": "(991) 386-1451",
+    "ssn": "479848980",
+    "dob": "9/1/1972",
+    "address": "4883 Fourth Ln",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 158428
+
+Bill To:
+Name: Jacob Thompson
+Email: jacob.thompson4803@company.com
+Phone: +1 836-267-4235
+SSN: 182-47-2148
+
+Address: 3800 Third Blvd
+San Jose, PA
+
+Date of Birth: 08/01/2004
+
+Amount Due: $1872

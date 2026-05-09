@@ -1,0 +1,9 @@
+contact:
+  name: Robert Martin
+  email: robert.martin6322@yahoo.com
+  phone: 332-348-2277
+  ssn: 393 73 8489
+  dob: 11-27-1975
+  address: 2796 Pine Rd
+  city: San Jose
+  state: MO

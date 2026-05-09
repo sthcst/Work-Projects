@@ -1,0 +1,9 @@
+contact:
+  name: Emma White
+  email: emma.white9461@mail.com
+  phone: (916) 433-5799
+  ssn: 704-44-6538
+  dob: 7/5/1999
+  address: 9486 Third Blvd
+  city: San Jose
+  state: MA

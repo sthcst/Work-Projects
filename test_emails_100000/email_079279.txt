@@ -1,0 +1,9 @@
+contact:
+  name: Emma Reeves
+  email: emma.reeves8173@outlook.com
+  phone: +1 301-521-4103
+  ssn: 227-17-4702
+  dob: 4/8/1971
+  address: 8377 Second Way
+  city: New York
+  state: MO

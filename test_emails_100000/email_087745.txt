@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Martinez,ryan.martinez2316@gmail.com,+1 374-989-7996,967655063,03-26-2000,"1703 First Blvd",Austin,AZ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Lopez",
+    "email": "kathleen.lopez9004@gmail.com",
+    "phone": "315-367-9970",
+    "ssn": "140 90 1729",
+    "dob": "12/20/1996",
+    "address": "4084 West Ave",
+    "city": "San Diego",
+    "state": "MD"
+  }
+}

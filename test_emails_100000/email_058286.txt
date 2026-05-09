@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Lopez
+  email: timothy.lopez2725@gmail.com
+  phone: (411) 971-9002
+  ssn: 589-94-9915
+  dob: 12/17/1958
+  address: 3262 Main Ln
+  city: Seattle
+  state: CO

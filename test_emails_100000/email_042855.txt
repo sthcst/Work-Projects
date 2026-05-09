@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Hernandez,christopher.hernandez9463@gmail.com,(613) 742-8474,198-90-1190,06-26-1964,"5344 North Dr",Dallas,CO

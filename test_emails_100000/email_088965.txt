@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Guerrero
+  email: michelle.guerrero7095@yahoo.com
+  phone: (570) 708-4602
+  ssn: 710025179
+  dob: 06/10/1985
+  address: 1088 Summer Blvd
+  city: Houston
+  state: NY

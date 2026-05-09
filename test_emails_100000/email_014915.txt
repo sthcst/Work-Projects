@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Phillips",
+    "email": "robert.phillips908@work.org",
+    "phone": "+1 762-876-8460",
+    "ssn": "067 52 5864",
+    "dob": "06/20/2001",
+    "address": "4286 Fourth Court",
+    "city": "San Jose",
+    "state": "WA"
+  }
+}

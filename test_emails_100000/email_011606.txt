@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Rodriguez
+  email: timothy.rodriguez420@gmail.com
+  phone: +1 546-396-3774
+  ssn: 221103023
+  dob: 18/05/1989
+  address: 5137 North Court
+  city: Chicago
+  state: FL

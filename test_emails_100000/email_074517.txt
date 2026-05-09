@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Roberts",
+    "email": "michelle.roberts1523@gmail.com",
+    "phone": "554 386 9894",
+    "ssn": "987-33-9534",
+    "dob": "07-17-1956",
+    "address": "3449 Cedar St",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

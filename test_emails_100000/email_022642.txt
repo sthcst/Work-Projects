@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Johnson,donald.johnson6484@company.com,(213) 693-8210,774326640,17/09/1985,"604 West Way",Dallas,WI

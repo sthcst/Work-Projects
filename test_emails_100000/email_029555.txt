@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Evans",
+    "email": "nicole.evans4008@work.org",
+    "phone": "466-530-6573",
+    "ssn": "405156131",
+    "dob": "05-01-1984",
+    "address": "7391 Elm Way",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Ramirez,cynthia.ramirez7557@mail.com,(668) 942-7189,928855540,25/08/1963,"2266 East Ave",Austin,TX

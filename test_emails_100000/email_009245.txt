@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Cooper
+  email: michelle.cooper1569@business.net
+  phone: +1 916-209-6356
+  ssn: 178243617
+  dob: 1/15/1962
+  address: 4630 Fifth Ave
+  city: Boston
+  state: NC

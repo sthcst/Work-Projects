@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Jackson,kimberly.jackson3488@mail.com,719 554 7674,958 40 9917,1/13/1962,"3344 Park St",Dallas,VA

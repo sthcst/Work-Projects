@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Young,kenneth.young6566@yahoo.com,477-412-1941,421226778,20/10/1968,"7077 South Ave",San Jose,VA

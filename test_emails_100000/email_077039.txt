@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Cooper
+  email: lauren.cooper5735@business.net
+  phone: (210) 812-1355
+  ssn: 817515243
+  dob: 01/14/1993
+  address: 2970 Main Ln
+  city: San Antonio
+  state: NC

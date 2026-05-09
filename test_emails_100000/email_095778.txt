@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Lee,angela.lee7591@gmail.com,552 827 5399,669 60 8543,15/04/1977,"7926 Maple Court",Denver,MA

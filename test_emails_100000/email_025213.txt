@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Jackson,anthony.jackson8273@gmail.com,248 575 8644,244 97 6565,11/06/1955,"8223 Elm Ln",Chicago,VA

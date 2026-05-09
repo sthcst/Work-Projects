@@ -1,0 +1,14 @@
+INVOICE 512943
+
+Bill To:
+Name: Andrew Young
+Email: andrew.young9462@example.com
+Phone: 704 274 2204
+SSN: 472707123
+
+Address: 4966 Park Ave
+Denver, TN
+
+Date of Birth: 01/13/1997
+
+Amount Due: $2880

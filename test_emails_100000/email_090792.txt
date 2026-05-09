@@ -1,0 +1,14 @@
+INVOICE 332376
+
+Bill To:
+Name: Jane Carter
+Email: jane.carter7683@example.com
+Phone: (759) 316-4378
+SSN: 978085928
+
+Address: 3134 Sixth St
+Austin, AZ
+
+Date of Birth: 13/06/2005
+
+Amount Due: $2985

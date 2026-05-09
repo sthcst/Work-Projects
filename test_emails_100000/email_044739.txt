@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Sanchez",
+    "email": "matthew.sanchez5844@mail.com",
+    "phone": "511 752 1916",
+    "ssn": "813 90 2796",
+    "dob": "22/03/1979",
+    "address": "2942 Summer Way",
+    "city": "New York",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Miller",
+    "email": "pamela.miller3420@yahoo.com",
+    "phone": "(371) 567-9766",
+    "ssn": "020962059",
+    "dob": "03-23-1960",
+    "address": "2532 Fourth St",
+    "city": "Jacksonville",
+    "state": "AZ"
+  }
+}

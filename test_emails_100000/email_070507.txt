@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Jackson,emily.jackson7990@mail.com,+1 820-392-9179,088-10-5929,04-21-1981,"9485 First Blvd",San Antonio,NY

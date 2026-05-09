@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Phillips",
+    "email": "kimberly.phillips7885@mail.com",
+    "phone": "+1 331-815-8828",
+    "ssn": "784 22 8071",
+    "dob": "3/17/1995",
+    "address": "7611 Elm Rd",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

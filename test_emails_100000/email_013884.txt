@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Martinez",
+    "email": "gary.martinez6243@outlook.com",
+    "phone": "+1 332-946-3826",
+    "ssn": "858-30-1012",
+    "dob": "05-06-1981",
+    "address": "5660 Birch Way",
+    "city": "Seattle",
+    "state": "NJ"
+  }
+}

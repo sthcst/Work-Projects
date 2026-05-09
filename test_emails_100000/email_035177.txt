@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Moore
+  email: daniel.moore2927@mail.com
+  phone: 320 504 5021
+  ssn: 590442968
+  dob: 2/1/1971
+  address: 5967 North Rd
+  city: Seattle
+  state: IL

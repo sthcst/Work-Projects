@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Parker",
+    "email": "amanda.parker5698@outlook.com",
+    "phone": "(302) 848-4418",
+    "ssn": "692-16-9979",
+    "dob": "03-03-1980",
+    "address": "2987 First Dr",
+    "city": "Philadelphia",
+    "state": "CA"
+  }
+}

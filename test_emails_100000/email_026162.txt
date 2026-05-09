@@ -1,0 +1,9 @@
+contact:
+  name: George Hall
+  email: george.hall7356@work.org
+  phone: +1 653-258-8716
+  ssn: 334838217
+  dob: 12-27-1956
+  address: 5506 Oak Ave
+  city: Austin
+  state: MA

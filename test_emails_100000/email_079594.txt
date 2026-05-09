@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Davis",
+    "email": "shirley.davis4468@business.net",
+    "phone": "+1 912-241-2254",
+    "ssn": "280853776",
+    "dob": "05-13-1990",
+    "address": "3895 Oak Blvd",
+    "city": "Dallas",
+    "state": "AZ"
+  }
+}

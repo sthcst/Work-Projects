@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Guerrero,anna.guerrero6603@work.org,(435) 805-4873,333-67-7532,04/05/1953,"1274 Fourth Ave",Los Angeles,NC

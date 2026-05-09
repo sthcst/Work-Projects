@@ -1,0 +1,9 @@
+contact:
+  name: Richard Thompson
+  email: richard.thompson1008@business.net
+  phone: 635-679-5105
+  ssn: 232188622
+  dob: 02/11/1951
+  address: 1779 Park Dr
+  city: Washington
+  state: PA

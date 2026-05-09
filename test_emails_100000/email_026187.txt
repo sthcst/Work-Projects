@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Peterson",
+    "email": "kevin.peterson4952@yahoo.com",
+    "phone": "718 714 9392",
+    "ssn": "059 65 4516",
+    "dob": "04/19/1950",
+    "address": "4298 East Blvd",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}

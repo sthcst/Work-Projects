@@ -1,0 +1,14 @@
+INVOICE 729242
+
+Bill To:
+Name: Rebecca Morris
+Email: rebecca.morris9319@example.com
+Phone: (850) 890-1937
+SSN: 171 60 1672
+
+Address: 8594 East Dr
+San Antonio, AZ
+
+Date of Birth: 06/17/2000
+
+Amount Due: $8772

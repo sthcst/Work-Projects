@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Jackson",
+    "email": "rebecca.jackson7905@outlook.com",
+    "phone": "+1 807-361-7806",
+    "ssn": "635092353",
+    "dob": "04/03/1950",
+    "address": "9918 Pine Ave",
+    "city": "Philadelphia",
+    "state": "NJ"
+  }
+}

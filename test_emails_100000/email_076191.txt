@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Thomas
+  email: samantha.thomas7148@mail.com
+  phone: 677 920 1009
+  ssn: 550383344
+  dob: 12-15-1956
+  address: 8035 Second St
+  city: Boston
+  state: MA

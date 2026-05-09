@@ -1,0 +1,14 @@
+INVOICE 978161
+
+Bill To:
+Name: Kathleen Wilson
+Email: kathleen.wilson7861@example.com
+Phone: 738 527 5887
+SSN: 504548171
+
+Address: 8118 Main Way
+Boston, MI
+
+Date of Birth: 05-21-2003
+
+Amount Due: $1759

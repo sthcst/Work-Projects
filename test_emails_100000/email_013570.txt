@@ -1,0 +1,9 @@
+contact:
+  name: Edward Evans
+  email: edward.evans3260@business.net
+  phone: 206 940 4046
+  ssn: 527519871
+  dob: 01-20-1964
+  address: 3159 North Rd
+  city: Austin
+  state: CA

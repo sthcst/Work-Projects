@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Johnson
+  email: timothy.johnson9867@yahoo.com
+  phone: 951-599-9012
+  ssn: 642 95 7351
+  dob: 03/01/2001
+  address: 7534 Summer Court
+  city: Seattle
+  state: IL

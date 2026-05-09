@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Rodriguez,helen.rodriguez8685@outlook.com,+1 543-831-5794,588-84-1303,11/7/1982,"1733 Summer Way",San Diego,WA

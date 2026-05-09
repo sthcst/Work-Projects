@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Ramirez,lisa.ramirez8204@mail.com,753-409-7115,618-52-5166,11/26/1954,"4288 Second Blvd",Boston,IL

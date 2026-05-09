@@ -1,0 +1,14 @@
+INVOICE 345551
+
+Bill To:
+Name: Michelle Wilson
+Email: michelle.wilson5459@outlook.com
+Phone: 752-276-4529
+SSN: 955-61-5138
+
+Address: 7748 West Court
+Los Angeles, NJ
+
+Date of Birth: 01-14-1998
+
+Amount Due: $3140

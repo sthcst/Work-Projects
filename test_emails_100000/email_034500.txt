@@ -1,0 +1,14 @@
+INVOICE 745437
+
+Bill To:
+Name: Lauren Brown
+Email: lauren.brown1230@mail.com
+Phone: 724 231 8307
+SSN: 914367483
+
+Address: 9715 Third Ave
+San Jose, NJ
+
+Date of Birth: 1/14/1953
+
+Amount Due: $4566

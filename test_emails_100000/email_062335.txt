@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Jackson
+  email: cynthia.jackson8317@business.net
+  phone: 356 830 9559
+  ssn: 508-42-6756
+  dob: 02/13/1974
+  address: 8384 Elm Dr
+  city: Seattle
+  state: OH

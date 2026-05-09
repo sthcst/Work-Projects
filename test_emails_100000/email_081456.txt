@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Collins
+  email: kevin.collins2696@example.com
+  phone: 495 840 2011
+  ssn: 195 55 3513
+  dob: 06-14-1951
+  address: 7696 Oak Dr
+  city: Boston
+  state: MA

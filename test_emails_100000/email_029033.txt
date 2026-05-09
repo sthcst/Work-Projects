@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Nelson",
+    "email": "matthew.nelson7548@gmail.com",
+    "phone": "891 306 2291",
+    "ssn": "675721675",
+    "dob": "13/03/1985",
+    "address": "8538 Fifth Blvd",
+    "city": "Philadelphia",
+    "state": "FL"
+  }
+}

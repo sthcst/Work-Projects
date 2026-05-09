@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Martinez
+  email: sarah.martinez6504@yahoo.com
+  phone: (701) 642-8158
+  ssn: 625-89-2295
+  dob: 11/12/2001
+  address: 7479 Cedar Ave
+  city: Washington
+  state: AZ

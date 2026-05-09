@@ -1,0 +1,14 @@
+INVOICE 342289
+
+Bill To:
+Name: Deborah Campbell
+Email: deborah.campbell519@company.com
+Phone: 295-523-3419
+SSN: 028048466
+
+Address: 7862 Birch Way
+Seattle, TX
+
+Date of Birth: 12/13/1958
+
+Amount Due: $9117

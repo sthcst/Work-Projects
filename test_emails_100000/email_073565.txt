@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Perez,brian.perez334@gmail.com,+1 831-230-9936,789757331,02-24-1997,"2200 Birch St",Boston,MI

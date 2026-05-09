@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Jackson",
+    "email": "jeffrey.jackson1981@business.net",
+    "phone": "740-996-4493",
+    "ssn": "549-40-6857",
+    "dob": "16/11/1972",
+    "address": "2851 Birch Blvd",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

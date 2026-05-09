@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Rodriguez
+  email: timothy.rodriguez5573@work.org
+  phone: (366) 730-4225
+  ssn: 743 34 8984
+  dob: 01/12/1991
+  address: 2044 First St
+  city: New York
+  state: GA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Serrano",
+    "email": "angela.serrano6928@business.net",
+    "phone": "+1 378-494-7199",
+    "ssn": "063 59 7110",
+    "dob": "25/10/1983",
+    "address": "3789 Elm Dr",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

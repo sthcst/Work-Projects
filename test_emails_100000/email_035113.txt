@@ -1,0 +1,14 @@
+INVOICE 354224
+
+Bill To:
+Name: Jane Stewart
+Email: jane.stewart2844@outlook.com
+Phone: 463 800 2545
+SSN: 365376099
+
+Address: 4049 Cedar Dr
+Philadelphia, FL
+
+Date of Birth: 3/1/1967
+
+Amount Due: $7895

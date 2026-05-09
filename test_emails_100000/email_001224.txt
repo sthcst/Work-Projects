@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Murillo",
+    "email": "ashley.murillo1154@work.org",
+    "phone": "(775) 464-5134",
+    "ssn": "992-99-9425",
+    "dob": "3/3/2004",
+    "address": "29 Oak Rd",
+    "city": "San Antonio",
+    "state": "FL"
+  }
+}

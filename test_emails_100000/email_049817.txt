@@ -1,0 +1,9 @@
+contact:
+  name: Anna Serrano
+  email: anna.serrano9071@outlook.com
+  phone: 695 685 7399
+  ssn: 704248794
+  dob: 01/10/1980
+  address: 7942 Fifth Ln
+  city: Phoenix
+  state: WA

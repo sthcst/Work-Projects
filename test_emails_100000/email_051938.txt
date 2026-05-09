@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Hernandez",
+    "email": "jeffrey.hernandez15@mail.com",
+    "phone": "763-823-3459",
+    "ssn": "702 21 6206",
+    "dob": "10/06/1952",
+    "address": "1263 Fifth St",
+    "city": "Austin",
+    "state": "MD"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Morgan",
+    "email": "paul.morgan4845@gmail.com",
+    "phone": "(914) 670-2225",
+    "ssn": "455897694",
+    "dob": "10/19/1954",
+    "address": "543 Park Blvd",
+    "city": "San Diego",
+    "state": "GA"
+  }
+}

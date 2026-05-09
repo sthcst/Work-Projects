@@ -1,0 +1,14 @@
+INVOICE 391673
+
+Bill To:
+Name: John Cooper
+Email: john.cooper1958@company.com
+Phone: +1 285-716-6734
+SSN: 301-99-9217
+
+Address: 9628 Spring Court
+Denver, WA
+
+Date of Birth: 12/6/1990
+
+Amount Due: $1598

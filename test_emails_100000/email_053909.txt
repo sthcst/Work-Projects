@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Davis",
+    "email": "jessica.davis1775@example.com",
+    "phone": "+1 204-471-4380",
+    "ssn": "669432738",
+    "dob": "10-14-1998",
+    "address": "1247 Second Way",
+    "city": "Phoenix",
+    "state": "MD"
+  }
+}

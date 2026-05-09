@@ -1,0 +1,14 @@
+INVOICE 593466
+
+Bill To:
+Name: David Smith
+Email: david.smith5309@outlook.com
+Phone: +1 962-990-4623
+SSN: 418 20 4886
+
+Address: 2691 Summer Court
+New York, TX
+
+Date of Birth: 09/28/1963
+
+Amount Due: $498

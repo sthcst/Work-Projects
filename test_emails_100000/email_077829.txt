@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Taylor,megan.taylor2055@mail.com,+1 657-771-2755,020406094,03-09-1986,"1481 Cedar Ave",Chicago,MA

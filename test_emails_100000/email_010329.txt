@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Morgan",
+    "email": "anthony.morgan4254@outlook.com",
+    "phone": "529-561-4339",
+    "ssn": "707 32 3343",
+    "dob": "11/4/1960",
+    "address": "4178 Fifth Dr",
+    "city": "Austin",
+    "state": "WI"
+  }
+}

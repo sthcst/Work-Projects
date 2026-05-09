@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Alvarado",
+    "email": "robert.alvarado1740@mail.com",
+    "phone": "922-504-9331",
+    "ssn": "757 76 2476",
+    "dob": "3/10/1996",
+    "address": "4587 Summer Ave",
+    "city": "Seattle",
+    "state": "DC"
+  }
+}

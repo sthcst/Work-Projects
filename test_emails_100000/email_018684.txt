@@ -1,0 +1,14 @@
+INVOICE 716774
+
+Bill To:
+Name: Jason Guerrero
+Email: jason.guerrero7092@example.com
+Phone: 862 762 5771
+SSN: 444 42 2349
+
+Address: 620 Second Ave
+Chicago, DC
+
+Date of Birth: 05/07/1954
+
+Amount Due: $6487

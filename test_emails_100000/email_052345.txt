@@ -1,0 +1,9 @@
+contact:
+  name: Emma Nelson
+  email: emma.nelson1590@outlook.com
+  phone: (727) 214-1426
+  ssn: 480707414
+  dob: 13/10/1975
+  address: 7251 Birch Court
+  city: Philadelphia
+  state: OH

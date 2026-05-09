@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Ramirez",
+    "email": "daniel.ramirez7927@outlook.com",
+    "phone": "227 425 2772",
+    "ssn": "592 91 2880",
+    "dob": "23/10/1989",
+    "address": "2293 Park Blvd",
+    "city": "San Antonio",
+    "state": "MO"
+  }
+}

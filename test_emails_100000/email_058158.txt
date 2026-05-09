@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Anderson
+  email: timothy.anderson2711@outlook.com
+  phone: 951-629-7991
+  ssn: 650-17-6943
+  dob: 03-23-1996
+  address: 6927 Fifth Blvd
+  city: Washington
+  state: CA

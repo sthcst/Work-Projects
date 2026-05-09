@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Matthew Garcia,matthew.garcia3198@mail.com,658 670 6499,781 62 1712,10/16/1996,"8814 Pine Way",Chicago,DC

@@ -1,0 +1,14 @@
+INVOICE 867569
+
+Bill To:
+Name: Joshua Peterson
+Email: joshua.peterson1827@company.com
+Phone: 799-442-6787
+SSN: 310714072
+
+Address: 5957 East Ln
+San Diego, CA
+
+Date of Birth: 11-19-1981
+
+Amount Due: $5531

@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Collins
+  email: amanda.collins2782@example.com
+  phone: (848) 799-3987
+  ssn: 708997735
+  dob: 11/03/1973
+  address: 2858 North Ln
+  city: San Jose
+  state: MA

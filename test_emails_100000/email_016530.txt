@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Smith",
+    "email": "jane.smith9332@yahoo.com",
+    "phone": "788 809 9578",
+    "ssn": "879069558",
+    "dob": "07-22-1958",
+    "address": "4445 Second Way",
+    "city": "Seattle",
+    "state": "NJ"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Gomez,jacob.gomez2564@mail.com,903 712 9793,768983742,24/02/2001,"1169 Pine St",Los Angeles,AZ

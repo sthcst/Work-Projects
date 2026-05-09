@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Ramirez",
+    "email": "michelle.ramirez4758@work.org",
+    "phone": "+1 226-814-3874",
+    "ssn": "277733467",
+    "dob": "10/28/1950",
+    "address": "9382 East Rd",
+    "city": "San Jose",
+    "state": "WA"
+  }
+}

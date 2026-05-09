@@ -1,0 +1,14 @@
+INVOICE 818956
+
+Bill To:
+Name: Anthony Smith
+Email: anthony.smith7971@business.net
+Phone: 358 502 1676
+SSN: 987389295
+
+Address: 5672 Spring Court
+Chicago, TN
+
+Date of Birth: 03/28/1969
+
+Amount Due: $1555

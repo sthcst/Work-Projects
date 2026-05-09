@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Martin",
+    "email": "daniel.martin3122@mail.com",
+    "phone": "(935) 995-6357",
+    "ssn": "687 61 7219",
+    "dob": "2/10/1971",
+    "address": "9281 Fifth Court",
+    "city": "Jacksonville",
+    "state": "MI"
+  }
+}

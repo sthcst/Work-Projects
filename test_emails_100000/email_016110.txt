@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Reyes",
+    "email": "jeffrey.reyes4527@gmail.com",
+    "phone": "609 390 4750",
+    "ssn": "140-94-6438",
+    "dob": "02/18/1991",
+    "address": "1654 Elm St",
+    "city": "San Jose",
+    "state": "CA"
+  }
+}

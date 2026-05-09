@@ -1,0 +1,9 @@
+contact:
+  name: David Ramirez
+  email: david.ramirez4043@gmail.com
+  phone: +1 515-825-7978
+  ssn: 277-89-4835
+  dob: 18/11/1954
+  address: 5698 West Blvd
+  city: Austin
+  state: CA

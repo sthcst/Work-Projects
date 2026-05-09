@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Walker
+  email: lisa.walker1968@outlook.com
+  phone: +1 379-883-2000
+  ssn: 395-95-7085
+  dob: 1/27/1992
+  address: 9997 Oak Dr
+  city: Washington
+  state: TX

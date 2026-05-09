@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Edwards
+  email: kevin.edwards8284@business.net
+  phone: 393-317-4295
+  ssn: 351-06-3329
+  dob: 6/15/1953
+  address: 6281 Elm Way
+  city: New York
+  state: NC

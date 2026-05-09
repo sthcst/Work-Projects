@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Sanchez,christopher.sanchez3388@example.com,618-652-2192,224262333,3/14/1999,"7900 Spring Way",Chicago,CA

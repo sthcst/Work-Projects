@@ -1,0 +1,14 @@
+INVOICE 649408
+
+Bill To:
+Name: Jacob Evans
+Email: jacob.evans4806@example.com
+Phone: 478-564-8960
+SSN: 352927782
+
+Address: 944 Maple Way
+Houston, MI
+
+Date of Birth: 12/04/1966
+
+Amount Due: $8064

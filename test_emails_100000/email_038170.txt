@@ -1,0 +1,14 @@
+INVOICE 183950
+
+Bill To:
+Name: Cynthia Miller
+Email: cynthia.miller1299@company.com
+Phone: 339-525-9514
+SSN: 435022494
+
+Address: 9247 Oak St
+Jacksonville, MI
+
+Date of Birth: 4/16/2003
+
+Amount Due: $7256

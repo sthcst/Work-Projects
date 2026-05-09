@@ -1,0 +1,9 @@
+contact:
+  name: Angela Ortiz
+  email: angela.ortiz8195@mail.com
+  phone: (594) 764-7030
+  ssn: 953347814
+  dob: 11/18/1976
+  address: 4373 Oak Way
+  city: Washington
+  state: CO

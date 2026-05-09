@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Gonzalez
+  email: samantha.gonzalez4038@yahoo.com
+  phone: 556 339 1999
+  ssn: 902136247
+  dob: 07/07/1999
+  address: 8673 South Blvd
+  city: Boston
+  state: AZ

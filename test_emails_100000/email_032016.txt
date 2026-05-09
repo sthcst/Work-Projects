@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Murillo,stephanie.murillo7888@yahoo.com,597 858 9036,154 23 3767,13/01/1976,"8560 Fifth Rd",New York,CO

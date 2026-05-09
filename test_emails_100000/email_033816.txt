@@ -1,0 +1,9 @@
+contact:
+  name: Donald Jones
+  email: donald.jones640@example.com
+  phone: +1 911-383-3283
+  ssn: 542 02 7115
+  dob: 6/28/1982
+  address: 9932 East Ln
+  city: Phoenix
+  state: NC

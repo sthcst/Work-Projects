@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Guerrero,kevin.guerrero2562@work.org,(466) 796-6460,252-91-2336,06/19/1962,"9813 Elm Court",Los Angeles,TX

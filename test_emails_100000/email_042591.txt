@@ -1,0 +1,14 @@
+INVOICE 884630
+
+Bill To:
+Name: Michelle Perez
+Email: michelle.perez8331@example.com
+Phone: (858) 373-4357
+SSN: 114 53 4967
+
+Address: 6751 Second Ln
+Dallas, TX
+
+Date of Birth: 6/1/1982
+
+Amount Due: $9157

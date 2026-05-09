@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Delgado,lisa.delgado1119@work.org,833-534-3149,781-16-6544,11/16/1971,"7782 Third Dr",Houston,NY

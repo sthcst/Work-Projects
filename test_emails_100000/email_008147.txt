@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Serrano",
+    "email": "jessica.serrano1835@gmail.com",
+    "phone": "+1 283-675-5641",
+    "ssn": "828956101",
+    "dob": "23/02/1968",
+    "address": "8599 North Ln",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

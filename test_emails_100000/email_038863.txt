@@ -1,0 +1,14 @@
+INVOICE 840670
+
+Bill To:
+Name: John White
+Email: john.white3028@yahoo.com
+Phone: +1 600-570-2509
+SSN: 815 64 4040
+
+Address: 6842 Park Rd
+Austin, MO
+
+Date of Birth: 07-17-1950
+
+Amount Due: $7586

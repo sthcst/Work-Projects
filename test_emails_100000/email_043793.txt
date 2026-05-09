@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Dominguez",
+    "email": "edward.dominguez3617@mail.com",
+    "phone": "(538) 280-5614",
+    "ssn": "470 20 5607",
+    "dob": "02/06/1970",
+    "address": "2129 Main St",
+    "city": "San Antonio",
+    "state": "MA"
+  }
+}

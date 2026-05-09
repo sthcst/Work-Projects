@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Martinez",
+    "email": "megan.martinez7175@yahoo.com",
+    "phone": "+1 630-544-6013",
+    "ssn": "292-83-5529",
+    "dob": "05-06-1968",
+    "address": "5208 Pine Ln",
+    "city": "Houston",
+    "state": "WA"
+  }
+}

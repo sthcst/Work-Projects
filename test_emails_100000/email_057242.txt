@@ -1,0 +1,9 @@
+contact:
+  name: Megan Jackson
+  email: megan.jackson9413@example.com
+  phone: (723) 525-7908
+  ssn: 140-09-1192
+  dob: 07-11-1971
+  address: 6416 North Dr
+  city: San Jose
+  state: PA

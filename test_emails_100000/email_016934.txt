@@ -1,0 +1,14 @@
+INVOICE 225145
+
+Bill To:
+Name: Amanda Bell
+Email: amanda.bell3655@example.com
+Phone: 341-343-2272
+SSN: 017338359
+
+Address: 9006 South Ave
+Phoenix, GA
+
+Date of Birth: 06/09/1962
+
+Amount Due: $3215

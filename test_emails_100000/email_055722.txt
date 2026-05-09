@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Alvarado",
+    "email": "ronald.alvarado1082@gmail.com",
+    "phone": "208 263 3089",
+    "ssn": "674 51 1759",
+    "dob": "01-05-2004",
+    "address": "8013 Cedar Court",
+    "city": "San Antonio",
+    "state": "TN"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 967039
+
+Bill To:
+Name: Angela Smith
+Email: angela.smith2401@example.com
+Phone: +1 303-571-3740
+SSN: 507495004
+
+Address: 412 Fifth St
+San Jose, FL
+
+Date of Birth: 13/07/2005
+
+Amount Due: $7836

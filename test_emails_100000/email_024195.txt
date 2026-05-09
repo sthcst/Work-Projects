@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Gomez",
+    "email": "charles.gomez9131@gmail.com",
+    "phone": "(375) 425-7944",
+    "ssn": "957-35-2428",
+    "dob": "06-25-2005",
+    "address": "7853 East Ave",
+    "city": "Houston",
+    "state": "MA"
+  }
+}

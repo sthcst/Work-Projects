@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Martinez,john.martinez6973@gmail.com,372-385-8467,026198031,20/07/1980,"3496 Elm Dr",Dallas,MO

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Hall",
+    "email": "steven.hall8927@company.com",
+    "phone": "+1 359-275-4370",
+    "ssn": "652214940",
+    "dob": "03/09/1971",
+    "address": "1137 Park Blvd",
+    "city": "Washington",
+    "state": "NY"
+  }
+}

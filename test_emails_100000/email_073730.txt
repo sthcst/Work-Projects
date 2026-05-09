@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Moore,david.moore2624@yahoo.com,+1 290-539-6174,080 62 7353,03/17/1965,"793 First Ln",New York,CA

@@ -1,0 +1,14 @@
+INVOICE 525630
+
+Bill To:
+Name: Emily Campbell
+Email: emily.campbell9305@company.com
+Phone: 391 506 1530
+SSN: 275 84 7700
+
+Address: 5245 Pine Dr
+Jacksonville, DC
+
+Date of Birth: 20/05/1973
+
+Amount Due: $2853

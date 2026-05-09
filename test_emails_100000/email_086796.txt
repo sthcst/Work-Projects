@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Collins",
+    "email": "brenda.collins4894@work.org",
+    "phone": "333 539 2043",
+    "ssn": "053-84-1856",
+    "dob": "01/25/1993",
+    "address": "5638 Main Way",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

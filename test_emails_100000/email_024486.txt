@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Delgado",
+    "email": "jessica.delgado9469@mail.com",
+    "phone": "608-556-1091",
+    "ssn": "141 69 4533",
+    "dob": "19/12/1986",
+    "address": "6598 East St",
+    "city": "Philadelphia",
+    "state": "FL"
+  }
+}

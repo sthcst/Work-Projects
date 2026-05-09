@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Carter,brian.carter5578@mail.com,+1 740-928-9918,183225811,07/12/2003,"5357 Maple St",Seattle,OH

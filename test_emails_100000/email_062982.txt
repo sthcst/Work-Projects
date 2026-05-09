@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Johnson",
+    "email": "brenda.johnson9312@company.com",
+    "phone": "647 285 6301",
+    "ssn": "394 49 9938",
+    "dob": "02-12-1993",
+    "address": "3405 Spring St",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

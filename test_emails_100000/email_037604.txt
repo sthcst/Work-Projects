@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Phillips
+  email: shirley.phillips565@company.com
+  phone: +1 914-229-9119
+  ssn: 336-51-9723
+  dob: 1/28/1954
+  address: 3825 South Rd
+  city: Washington
+  state: MA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Harris,jane.harris7376@example.com,+1 380-815-2031,009 87 4124,5/20/1975,"8537 East Blvd",Denver,TX

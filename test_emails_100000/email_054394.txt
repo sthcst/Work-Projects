@@ -1,0 +1,14 @@
+INVOICE 302200
+
+Bill To:
+Name: Emily Romero
+Email: emily.romero4352@business.net
+Phone: 431-254-7526
+SSN: 532 40 6983
+
+Address: 5571 Third Court
+Seattle, FL
+
+Date of Birth: 20/08/1982
+
+Amount Due: $4928

@@ -1,0 +1,14 @@
+INVOICE 245178
+
+Bill To:
+Name: Amanda Campbell
+Email: amanda.campbell3868@mail.com
+Phone: 220 571 4946
+SSN: 974698511
+
+Address: 4598 Fifth Court
+Seattle, MD
+
+Date of Birth: 5/21/1962
+
+Amount Due: $6860

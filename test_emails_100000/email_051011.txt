@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Gonzalez,joshua.gonzalez4152@yahoo.com,562-276-2539,539-44-7361,13/06/1982,"7222 Park Ave",Denver,MO

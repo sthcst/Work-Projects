@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Lee,pamela.lee7081@outlook.com,(976) 359-6254,705 46 6669,03-21-1995,"8651 East Rd",Seattle,TN

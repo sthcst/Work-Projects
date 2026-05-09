@@ -1,0 +1,14 @@
+INVOICE 923285
+
+Bill To:
+Name: Shirley Walker
+Email: shirley.walker640@example.com
+Phone: 972 426 7747
+SSN: 840997920
+
+Address: 9825 Birch Way
+San Antonio, AZ
+
+Date of Birth: 20/03/1960
+
+Amount Due: $4259

@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Lopez
+  email: amanda.lopez6504@mail.com
+  phone: 589 303 7896
+  ssn: 779723422
+  dob: 27/07/2003
+  address: 3913 Third Ave
+  city: Philadelphia
+  state: TX

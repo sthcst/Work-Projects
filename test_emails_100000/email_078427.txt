@@ -1,0 +1,14 @@
+INVOICE 391091
+
+Bill To:
+Name: Nicole Johnson
+Email: nicole.johnson1798@example.com
+Phone: 704 552 3920
+SSN: 451-87-7836
+
+Address: 5640 Birch Dr
+Jacksonville, WA
+
+Date of Birth: 20/04/1993
+
+Amount Due: $3807

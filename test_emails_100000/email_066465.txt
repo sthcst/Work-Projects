@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Ramirez
+  email: stephanie.ramirez529@gmail.com
+  phone: (935) 878-5677
+  ssn: 487-65-6652
+  dob: 5/12/1988
+  address: 8205 Elm Rd
+  city: Los Angeles
+  state: TX

@@ -1,0 +1,9 @@
+contact:
+  name: Christine Davis
+  email: christine.davis3605@yahoo.com
+  phone: 341 743 1528
+  ssn: 223-20-4150
+  dob: 11/01/1994
+  address: 6104 East Ave
+  city: Jacksonville
+  state: FL

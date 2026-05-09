@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Roberts
+  email: katherine.roberts762@business.net
+  phone: 878 861 8460
+  ssn: 775 93 3216
+  dob: 01-04-1972
+  address: 5938 Summer Court
+  city: Phoenix
+  state: OH

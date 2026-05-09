@@ -1,0 +1,14 @@
+INVOICE 298359
+
+Bill To:
+Name: Gary Delgado
+Email: gary.delgado6480@example.com
+Phone: 744-946-3323
+SSN: 426-50-8475
+
+Address: 8642 Oak Ln
+Boston, PA
+
+Date of Birth: 03/12/1983
+
+Amount Due: $755

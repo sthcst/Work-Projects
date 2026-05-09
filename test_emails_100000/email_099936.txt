@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Robinson",
+    "email": "jessica.robinson3085@gmail.com",
+    "phone": "637-907-1938",
+    "ssn": "572386001",
+    "dob": "2/26/1979",
+    "address": "4497 Main Ave",
+    "city": "Phoenix",
+    "state": "MI"
+  }
+}

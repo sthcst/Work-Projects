@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Guerrero,helen.guerrero4403@outlook.com,(982) 206-9486,665-58-9083,5/19/1953,"7576 Cedar Ave",San Diego,CO

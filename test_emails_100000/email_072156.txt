@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Hall
+  email: kathleen.hall763@outlook.com
+  phone: (528) 602-6568
+  ssn: 504766947
+  dob: 12/01/1952
+  address: 9760 Park Way
+  city: San Jose
+  state: WA

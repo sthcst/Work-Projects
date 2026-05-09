@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Reyes
+  email: kimberly.reyes6434@example.com
+  phone: (433) 868-1431
+  ssn: 528-50-2804
+  dob: 09/24/1965
+  address: 7449 First Way
+  city: San Diego
+  state: FL

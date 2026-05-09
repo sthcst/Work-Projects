@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Nelson",
+    "email": "kevin.nelson6311@outlook.com",
+    "phone": "+1 833-583-4115",
+    "ssn": "760 20 9819",
+    "dob": "11-01-1965",
+    "address": "7182 Park St",
+    "city": "Denver",
+    "state": "DC"
+  }
+}

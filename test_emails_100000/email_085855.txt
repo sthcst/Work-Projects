@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Williams",
+    "email": "paul.williams7130@yahoo.com",
+    "phone": "528 439 7203",
+    "ssn": "083 40 8878",
+    "dob": "6/27/1994",
+    "address": "4595 North Blvd",
+    "city": "Houston",
+    "state": "CA"
+  }
+}

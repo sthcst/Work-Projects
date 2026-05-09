@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Young
+  email: lauren.young6010@company.com
+  phone: 323-390-1808
+  ssn: 926-97-3345
+  dob: 06-07-1952
+  address: 9630 Fifth St
+  city: Washington
+  state: FL

@@ -1,0 +1,14 @@
+INVOICE 912419
+
+Bill To:
+Name: Ashley Miller
+Email: ashley.miller136@business.net
+Phone: 600-514-4960
+SSN: 488-73-7325
+
+Address: 2721 Fifth St
+Los Angeles, TX
+
+Date of Birth: 06-09-1999
+
+Amount Due: $803

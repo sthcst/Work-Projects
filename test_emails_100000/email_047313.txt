@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Collins",
+    "email": "michelle.collins5489@mail.com",
+    "phone": "+1 443-840-7792",
+    "ssn": "590 35 2407",
+    "dob": "10-03-1958",
+    "address": "4660 South Dr",
+    "city": "Washington",
+    "state": "TN"
+  }
+}

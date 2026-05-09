@@ -1,0 +1,9 @@
+contact:
+  name: Mark Reyes
+  email: mark.reyes8231@yahoo.com
+  phone: +1 270-445-9050
+  ssn: 893 95 2042
+  dob: 20/04/1984
+  address: 1904 Elm Court
+  city: San Jose
+  state: NC

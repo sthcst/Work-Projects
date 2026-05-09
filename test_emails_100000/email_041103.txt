@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Roberts,nicole.roberts4666@work.org,681 798 5952,034-66-9136,02/28/1957,"7734 West St",San Jose,CO

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Nunez,brenda.nunez1536@mail.com,(369) 989-1346,710 96 5379,08-11-1982,"526 Second St",Jacksonville,NJ

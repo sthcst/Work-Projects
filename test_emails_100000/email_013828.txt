@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Hall,lisa.hall4649@work.org,(473) 600-5766,502-70-1254,02-09-1989,"6324 East Rd",New York,OH

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Collins",
+    "email": "ronald.collins5203@yahoo.com",
+    "phone": "+1 343-682-2720",
+    "ssn": "714 48 7504",
+    "dob": "07-22-1954",
+    "address": "4961 West Ln",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

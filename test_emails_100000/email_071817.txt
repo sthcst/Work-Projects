@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Peterson",
+    "email": "brenda.peterson4004@gmail.com",
+    "phone": "(354) 256-4236",
+    "ssn": "567404597",
+    "dob": "20/06/1992",
+    "address": "6400 East Rd",
+    "city": "New York",
+    "state": "NJ"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Reyes
+  email: nicole.reyes7722@yahoo.com
+  phone: (764) 663-8825
+  ssn: 932648372
+  dob: 08-11-1998
+  address: 5839 Sixth Ln
+  city: Boston
+  state: DC

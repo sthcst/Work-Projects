@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Miller,kathleen.miller9128@mail.com,998 839 1233,406-57-9185,07/08/1962,"7714 Main Blvd",San Antonio,WI

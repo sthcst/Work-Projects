@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Harris
+  email: nicholas.harris4849@outlook.com
+  phone: 920 895 7963
+  ssn: 025448226
+  dob: 11/27/1992
+  address: 7140 Birch Way
+  city: Chicago
+  state: WA

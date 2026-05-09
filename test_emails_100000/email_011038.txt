@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Gonzalez,charles.gonzalez1853@company.com,+1 768-780-7632,551-28-3812,3/20/1967,"8662 Fifth Blvd",Jacksonville,TN

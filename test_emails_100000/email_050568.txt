@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Thomas,john.thomas9470@work.org,+1 486-405-7197,886-43-1120,8/1/1978,"4391 Fifth Court",San Jose,GA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Robinson",
+    "email": "maria.robinson4139@gmail.com",
+    "phone": "844-778-1362",
+    "ssn": "881 37 2989",
+    "dob": "11-10-1960",
+    "address": "1601 Second Ave",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

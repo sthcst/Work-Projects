@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Davis
+  email: brenda.davis5690@example.com
+  phone: +1 530-536-5243
+  ssn: 610937796
+  dob: 11/1/1991
+  address: 6058 Oak Rd
+  city: Austin
+  state: TN

@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Jimenez
+  email: jennifer.jimenez6636@business.net
+  phone: +1 825-417-8764
+  ssn: 545011202
+  dob: 06/24/2001
+  address: 8491 Sixth Way
+  city: Seattle
+  state: IL

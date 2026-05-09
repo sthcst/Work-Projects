@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Lopez,jane.lopez9047@company.com,(769) 902-4502,526-23-2283,26/02/1972,"3678 First Court",Denver,CA

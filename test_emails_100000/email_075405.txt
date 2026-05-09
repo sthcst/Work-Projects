@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Parker,steven.parker9300@example.com,(337) 459-4143,617 83 2154,10/23/1975,"7579 Maple Blvd",Los Angeles,NJ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Hernandez,james.hernandez2778@yahoo.com,444-899-3812,491-69-1035,04/08/1960,"4334 Elm Way",Houston,CO

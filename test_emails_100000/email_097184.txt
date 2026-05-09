@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Guerrero",
+    "email": "daniel.guerrero9405@outlook.com",
+    "phone": "(278) 220-4582",
+    "ssn": "366 78 4031",
+    "dob": "17/11/1976",
+    "address": "2698 Oak Ln",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

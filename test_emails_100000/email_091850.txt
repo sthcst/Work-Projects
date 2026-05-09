@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Garcia
+  email: joshua.garcia5716@example.com
+  phone: 742-481-3124
+  ssn: 386-95-2059
+  dob: 08/25/1986
+  address: 4826 Cedar Blvd
+  city: Philadelphia
+  state: TX

@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Reed
+  email: rachel.reed8154@mail.com
+  phone: +1 832-736-4010
+  ssn: 763-64-5415
+  dob: 09/09/1952
+  address: 730 Park Court
+  city: San Antonio
+  state: MA

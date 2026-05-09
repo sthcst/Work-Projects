@@ -1,0 +1,14 @@
+INVOICE 873878
+
+Bill To:
+Name: Michael Sanchez
+Email: michael.sanchez3569@business.net
+Phone: 562 627 2427
+SSN: 172056183
+
+Address: 2719 Fourth St
+Boston, FL
+
+Date of Birth: 11/25/1956
+
+Amount Due: $113

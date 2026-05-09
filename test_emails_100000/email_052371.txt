@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Serrano,joseph.serrano1402@outlook.com,+1 694-481-2544,775-85-1274,03/22/1953,"2797 East Rd",San Jose,MI

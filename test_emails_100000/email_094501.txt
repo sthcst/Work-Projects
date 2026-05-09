@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Martinez",
+    "email": "stephanie.martinez5625@outlook.com",
+    "phone": "322-809-4829",
+    "ssn": "546 67 4258",
+    "dob": "09/17/1996",
+    "address": "1634 Maple Court",
+    "city": "Washington",
+    "state": "MA"
+  }
+}

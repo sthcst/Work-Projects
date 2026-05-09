@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Ortiz,emily.ortiz1200@business.net,526 780 5732,412-12-9852,2/9/1993,"8611 Summer St",Chicago,NY

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Flores,charles.flores3317@business.net,344 647 9800,631 96 6296,07/27/1996,"3046 Elm St",Dallas,TN

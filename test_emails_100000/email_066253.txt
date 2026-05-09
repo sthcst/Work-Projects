@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Romero",
+    "email": "kenneth.romero280@gmail.com",
+    "phone": "+1 638-529-2070",
+    "ssn": "929-63-5662",
+    "dob": "15/04/1959",
+    "address": "8520 North Court",
+    "city": "Seattle",
+    "state": "WA"
+  }
+}

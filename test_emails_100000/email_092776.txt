@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew White",
+    "email": "andrew.white8027@yahoo.com",
+    "phone": "+1 203-670-5210",
+    "ssn": "193 65 8756",
+    "dob": "19/11/1994",
+    "address": "5905 North Court",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

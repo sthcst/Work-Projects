@@ -1,0 +1,9 @@
+contact:
+  name: Emma Cooper
+  email: emma.cooper1867@example.com
+  phone: +1 302-534-6553
+  ssn: 193146349
+  dob: 09-21-1961
+  address: 3691 West Ln
+  city: Seattle
+  state: CO

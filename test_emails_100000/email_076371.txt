@@ -1,0 +1,9 @@
+contact:
+  name: Emma Williams
+  email: emma.williams252@business.net
+  phone: 214 370 6433
+  ssn: 929-42-8779
+  dob: 1/19/1963
+  address: 6163 Summer Ln
+  city: San Jose
+  state: TX

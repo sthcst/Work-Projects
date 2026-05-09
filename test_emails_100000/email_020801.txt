@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Smith
+  email: jeffrey.smith7894@business.net
+  phone: (328) 696-5801
+  ssn: 409-20-5765
+  dob: 11/03/2002
+  address: 3118 Fourth Way
+  city: Washington
+  state: TX

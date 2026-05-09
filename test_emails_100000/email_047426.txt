@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Carter,sarah.carter2756@work.org,(423) 912-9412,985 44 5951,6/2/1958,"6840 Spring Dr",Los Angeles,FL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Davis",
+    "email": "edward.davis4272@gmail.com",
+    "phone": "+1 876-664-5916",
+    "ssn": "928158263",
+    "dob": "5/22/1978",
+    "address": "1176 East Rd",
+    "city": "Austin",
+    "state": "GA"
+  }
+}

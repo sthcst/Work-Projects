@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Bell
+  email: samantha.bell1834@gmail.com
+  phone: 419 756 9811
+  ssn: 150926659
+  dob: 11/03/1981
+  address: 1482 Summer St
+  city: Los Angeles
+  state: MO

@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Peterson
+  email: joshua.peterson8461@yahoo.com
+  phone: +1 308-837-8423
+  ssn: 710-12-7475
+  dob: 02-27-1985
+  address: 3904 South Ln
+  city: Boston
+  state: AZ

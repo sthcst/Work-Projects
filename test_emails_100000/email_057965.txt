@@ -1,0 +1,9 @@
+contact:
+  name: Paul Reed
+  email: paul.reed4340@work.org
+  phone: 408 400 7134
+  ssn: 582166017
+  dob: 13/03/1983
+  address: 1103 Spring Dr
+  city: Seattle
+  state: MO

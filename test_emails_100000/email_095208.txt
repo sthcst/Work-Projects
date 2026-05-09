@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Brown",
+    "email": "jacob.brown6995@outlook.com",
+    "phone": "911-861-9060",
+    "ssn": "441-20-4795",
+    "dob": "5/16/1989",
+    "address": "2596 Third Dr",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

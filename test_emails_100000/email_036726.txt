@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Rodriguez",
+    "email": "emma.rodriguez5460@work.org",
+    "phone": "522-407-1994",
+    "ssn": "240-37-6163",
+    "dob": "8/24/1989",
+    "address": "5934 Cedar Dr",
+    "city": "New York",
+    "state": "TX"
+  }
+}

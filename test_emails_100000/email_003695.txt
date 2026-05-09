@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John White,john.white4720@yahoo.com,979 913 5237,836 35 8086,12-19-1966,"7420 Pine Way",Washington,FL

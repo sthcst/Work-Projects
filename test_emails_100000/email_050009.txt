@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Rodriguez",
+    "email": "kimberly.rodriguez2717@example.com",
+    "phone": "329-724-6674",
+    "ssn": "252-14-9014",
+    "dob": "02/07/1978",
+    "address": "6402 South St",
+    "city": "New York",
+    "state": "PA"
+  }
+}

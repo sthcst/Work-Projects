@@ -1,0 +1,14 @@
+INVOICE 768485
+
+Bill To:
+Name: Richard Brown
+Email: richard.brown9500@example.com
+Phone: +1 634-490-2085
+SSN: 587586029
+
+Address: 7026 East Ln
+San Antonio, TX
+
+Date of Birth: 12/2/1964
+
+Amount Due: $2552

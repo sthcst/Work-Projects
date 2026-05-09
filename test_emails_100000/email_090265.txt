@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Parker,jacob.parker1903@gmail.com,661 956 4034,847 47 5860,4/26/1952,"8190 Park St",Los Angeles,NY

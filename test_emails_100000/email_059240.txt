@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Hernandez",
+    "email": "emily.hernandez7746@example.com",
+    "phone": "+1 435-775-5338",
+    "ssn": "869 38 3487",
+    "dob": "02/16/1984",
+    "address": "5484 Birch Ln",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Peterson,lisa.peterson2231@mail.com,(280) 353-8533,426254659,9/12/1951,"9020 North Ln",Denver,MD

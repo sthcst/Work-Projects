@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Smith,kevin.smith5706@example.com,934-237-7460,857 43 7479,07-05-1986,"7311 Third Court",Los Angeles,MA

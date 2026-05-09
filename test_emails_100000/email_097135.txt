@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Martin",
+    "email": "anna.martin9096@company.com",
+    "phone": "(659) 221-7511",
+    "ssn": "770-62-9816",
+    "dob": "11-01-1976",
+    "address": "1751 Second Ln",
+    "city": "Seattle",
+    "state": "VA"
+  }
+}

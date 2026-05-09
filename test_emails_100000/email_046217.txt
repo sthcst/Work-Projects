@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Peterson,jacob.peterson1716@mail.com,338-859-5500,149 74 6220,17/06/2003,"4172 Elm Blvd",Boston,NY

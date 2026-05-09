@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Ortiz",
+    "email": "edward.ortiz9917@yahoo.com",
+    "phone": "(576) 761-1880",
+    "ssn": "887537874",
+    "dob": "01-13-1989",
+    "address": "7944 Birch Dr",
+    "city": "Chicago",
+    "state": "FL"
+  }
+}

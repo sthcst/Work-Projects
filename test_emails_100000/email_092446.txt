@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Jones,gary.jones6066@mail.com,+1 919-371-8511,684241915,19/01/1960,"4533 Fourth Court",Boston,AZ

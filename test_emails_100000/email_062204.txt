@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine White,katherine.white5177@business.net,+1 414-322-5403,715 78 1542,06/23/1955,"6595 Elm Blvd",Dallas,NJ

@@ -1,0 +1,9 @@
+contact:
+  name: Angela Sanchez
+  email: angela.sanchez568@outlook.com
+  phone: (519) 957-1332
+  ssn: 486789196
+  dob: 03/25/1965
+  address: 7100 East St
+  city: San Diego
+  state: VA

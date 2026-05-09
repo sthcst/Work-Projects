@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Rogers,maria.rogers3638@mail.com,973-920-8289,971 39 4784,10/19/1958,"3440 Fourth Blvd",Washington,TX

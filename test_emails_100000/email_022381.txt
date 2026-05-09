@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Jones",
+    "email": "ryan.jones1366@work.org",
+    "phone": "+1 756-762-4892",
+    "ssn": "743 21 8544",
+    "dob": "06/11/1966",
+    "address": "439 Birch Way",
+    "city": "Boston",
+    "state": "NY"
+  }
+}

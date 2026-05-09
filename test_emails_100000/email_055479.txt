@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Rogers
+  email: samantha.rogers400@business.net
+  phone: 949 984 3258
+  ssn: 209 88 4809
+  dob: 07-09-1971
+  address: 2684 West Ave
+  city: Phoenix
+  state: WA

@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Alvarado
+  email: pamela.alvarado2744@outlook.com
+  phone: 794 737 7759
+  ssn: 342-86-4449
+  dob: 5/7/1993
+  address: 5391 South St
+  city: Boston
+  state: TX

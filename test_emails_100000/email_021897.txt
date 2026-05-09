@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma White",
+    "email": "emma.white145@mail.com",
+    "phone": "(638) 213-2190",
+    "ssn": "370-88-4177",
+    "dob": "01-10-1953",
+    "address": "5269 Park St",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

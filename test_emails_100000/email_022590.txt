@@ -1,0 +1,9 @@
+contact:
+  name: Donald Morgan
+  email: donald.morgan6416@company.com
+  phone: 204-605-8344
+  ssn: 263 15 6599
+  dob: 01/09/1999
+  address: 5268 Main St
+  city: Chicago
+  state: MA

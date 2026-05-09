@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Johnson",
+    "email": "samantha.johnson8450@company.com",
+    "phone": "529-513-4957",
+    "ssn": "500 84 3524",
+    "dob": "01-20-1969",
+    "address": "4020 Summer Ln",
+    "city": "Washington",
+    "state": "MI"
+  }
+}

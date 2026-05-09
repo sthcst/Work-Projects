@@ -1,0 +1,9 @@
+contact:
+  name: Christine Stewart
+  email: christine.stewart5471@work.org
+  phone: 654-503-5563
+  ssn: 198848492
+  dob: 01/17/1960
+  address: 1673 Fifth Dr
+  city: Los Angeles
+  state: TX

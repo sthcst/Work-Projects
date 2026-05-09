@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Evans
+  email: ashley.evans2888@company.com
+  phone: 267 916 6171
+  ssn: 824701035
+  dob: 05/14/1988
+  address: 7278 Cedar Rd
+  city: Dallas
+  state: DC

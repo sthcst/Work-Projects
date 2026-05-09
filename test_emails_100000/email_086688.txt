@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Delgado
+  email: stephanie.delgado8397@outlook.com
+  phone: 543 385 9727
+  ssn: 612-02-3212
+  dob: 12/28/1969
+  address: 4549 Cedar St
+  city: New York
+  state: TN

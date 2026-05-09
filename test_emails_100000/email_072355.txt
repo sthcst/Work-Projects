@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Parker,megan.parker7879@company.com,(726) 481-8255,299854880,7/1/1955,"2656 Main St",Denver,IL

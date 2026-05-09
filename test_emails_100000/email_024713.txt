@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Phillips",
+    "email": "steven.phillips5599@company.com",
+    "phone": "+1 292-867-2720",
+    "ssn": "504 63 7566",
+    "dob": "06/01/1991",
+    "address": "1371 Elm Way",
+    "city": "Washington",
+    "state": "MA"
+  }
+}

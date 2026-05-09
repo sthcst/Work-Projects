@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Campbell",
+    "email": "rebecca.campbell4796@business.net",
+    "phone": "729-378-3193",
+    "ssn": "106-12-5584",
+    "dob": "11/23/1972",
+    "address": "3357 Birch St",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

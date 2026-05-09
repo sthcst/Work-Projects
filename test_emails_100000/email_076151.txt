@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Jones
+  email: kenneth.jones9503@outlook.com
+  phone: 797-501-2108
+  ssn: 841-41-9161
+  dob: 12/18/1975
+  address: 8585 Elm Way
+  city: Philadelphia
+  state: NY

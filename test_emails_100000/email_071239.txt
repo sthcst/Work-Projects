@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Carter",
+    "email": "charles.carter6952@business.net",
+    "phone": "298 205 5752",
+    "ssn": "473-58-5019",
+    "dob": "03/12/1976",
+    "address": "3234 West Ln",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

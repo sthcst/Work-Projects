@@ -1,0 +1,14 @@
+INVOICE 960995
+
+Bill To:
+Name: Andrew Jackson
+Email: andrew.jackson6612@business.net
+Phone: 447 833 8514
+SSN: 785 80 4545
+
+Address: 3715 Maple Ln
+San Antonio, MD
+
+Date of Birth: 13/02/1989
+
+Amount Due: $5417

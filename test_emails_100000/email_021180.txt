@@ -1,0 +1,14 @@
+INVOICE 666371
+
+Bill To:
+Name: Angela Perez
+Email: angela.perez8448@company.com
+Phone: 619 490 1441
+SSN: 791188002
+
+Address: 1438 Spring Court
+San Diego, VA
+
+Date of Birth: 11/26/1972
+
+Amount Due: $9148

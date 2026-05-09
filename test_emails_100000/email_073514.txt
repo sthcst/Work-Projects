@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Lee",
+    "email": "amanda.lee2466@example.com",
+    "phone": "718 364 6387",
+    "ssn": "583368704",
+    "dob": "1/27/1998",
+    "address": "2963 Maple St",
+    "city": "Dallas",
+    "state": "FL"
+  }
+}

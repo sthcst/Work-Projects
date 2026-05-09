@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Roberts",
+    "email": "brenda.roberts9629@yahoo.com",
+    "phone": "+1 341-474-5290",
+    "ssn": "091397044",
+    "dob": "05/03/1959",
+    "address": "1984 First Rd",
+    "city": "Dallas",
+    "state": "NC"
+  }
+}

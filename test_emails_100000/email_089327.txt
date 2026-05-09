@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Jackson,samantha.jackson5083@example.com,325-462-8632,829 58 5004,06-24-1972,"8228 Spring St",Washington,CA

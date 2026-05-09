@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Gonzalez,brian.gonzalez9312@gmail.com,353 531 3083,829 91 3016,07/06/1955,"1613 South Rd",San Diego,NC

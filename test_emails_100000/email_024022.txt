@@ -1,0 +1,14 @@
+INVOICE 950843
+
+Bill To:
+Name: Joseph Rodriguez
+Email: joseph.rodriguez8389@company.com
+Phone: 409-264-8793
+SSN: 482-29-1914
+
+Address: 2760 Main Ln
+Los Angeles, TX
+
+Date of Birth: 12-12-1958
+
+Amount Due: $3635

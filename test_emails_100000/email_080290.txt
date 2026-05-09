@@ -1,0 +1,9 @@
+contact:
+  name: Gary Martinez
+  email: gary.martinez3573@business.net
+  phone: +1 709-230-9332
+  ssn: 654142749
+  dob: 11-15-1968
+  address: 5782 Third Rd
+  city: Jacksonville
+  state: MI

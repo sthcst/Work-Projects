@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Williams",
+    "email": "brian.williams3497@yahoo.com",
+    "phone": "584-213-1448",
+    "ssn": "240-51-3027",
+    "dob": "07/26/1972",
+    "address": "772 Main Dr",
+    "city": "Austin",
+    "state": "AZ"
+  }
+}

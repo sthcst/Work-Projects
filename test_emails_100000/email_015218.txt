@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Walker,steven.walker5860@work.org,263 765 1331,636456306,06/17/1959,"4441 Spring Blvd",Chicago,WI

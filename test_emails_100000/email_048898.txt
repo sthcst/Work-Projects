@@ -1,0 +1,9 @@
+contact:
+  name: Emily Smith
+  email: emily.smith2319@outlook.com
+  phone: 261 950 6455
+  ssn: 344877530
+  dob: 13/10/1985
+  address: 7944 Summer Rd
+  city: Austin
+  state: VA

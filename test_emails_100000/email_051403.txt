@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Carter",
+    "email": "cynthia.carter3200@outlook.com",
+    "phone": "(853) 239-7196",
+    "ssn": "539 56 5716",
+    "dob": "10/14/1968",
+    "address": "2363 Park Dr",
+    "city": "Houston",
+    "state": "MD"
+  }
+}

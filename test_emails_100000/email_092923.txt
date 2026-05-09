@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Gomez",
+    "email": "cynthia.gomez3651@yahoo.com",
+    "phone": "419 984 3243",
+    "ssn": "260151094",
+    "dob": "3/21/1991",
+    "address": "185 Fifth Ln",
+    "city": "Austin",
+    "state": "OH"
+  }
+}

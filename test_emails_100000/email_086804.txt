@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Garcia
+  email: jeffrey.garcia185@work.org
+  phone: 695-899-6252
+  ssn: 991099782
+  dob: 07-11-1978
+  address: 8710 First Rd
+  city: Phoenix
+  state: CO

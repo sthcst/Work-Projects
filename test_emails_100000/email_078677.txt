@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Ortiz",
+    "email": "paul.ortiz6184@example.com",
+    "phone": "889-438-8591",
+    "ssn": "890164388",
+    "dob": "9/13/1958",
+    "address": "4728 Elm Ave",
+    "city": "New York",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Smith",
+    "email": "angela.smith9712@business.net",
+    "phone": "581 514 2220",
+    "ssn": "111213898",
+    "dob": "25/08/1999",
+    "address": "1338 Sixth Dr",
+    "city": "Washington",
+    "state": "WI"
+  }
+}

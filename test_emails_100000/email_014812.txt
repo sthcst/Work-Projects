@@ -1,0 +1,14 @@
+INVOICE 790459
+
+Bill To:
+Name: John Thompson
+Email: john.thompson7041@work.org
+Phone: +1 905-691-2262
+SSN: 424 67 4940
+
+Address: 4575 Birch Rd
+Jacksonville, NC
+
+Date of Birth: 08/12/1999
+
+Amount Due: $8147

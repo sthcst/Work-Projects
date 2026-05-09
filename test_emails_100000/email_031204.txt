@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Reed,ronald.reed9505@gmail.com,+1 432-773-3036,035-92-1267,04/11/1981,"5634 Pine Dr",Washington,CA

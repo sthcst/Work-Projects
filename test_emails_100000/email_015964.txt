@@ -1,0 +1,9 @@
+contact:
+  name: Charles Thompson
+  email: charles.thompson4594@yahoo.com
+  phone: (699) 719-3560
+  ssn: 587-64-6260
+  dob: 15/01/1957
+  address: 6606 First Ln
+  city: San Antonio
+  state: NJ

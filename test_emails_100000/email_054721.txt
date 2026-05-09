@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Peterson
+  email: amanda.peterson9220@company.com
+  phone: (325) 951-1184
+  ssn: 892-71-1369
+  dob: 12/03/1950
+  address: 2749 Fifth Ave
+  city: Houston
+  state: CO

@@ -1,0 +1,9 @@
+contact:
+  name: Maria Delgado
+  email: maria.delgado9765@gmail.com
+  phone: +1 841-601-8205
+  ssn: 698 20 1660
+  dob: 06/22/1957
+  address: 5498 Spring Blvd
+  city: New York
+  state: AZ

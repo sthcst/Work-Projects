@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Brown,helen.brown5136@mail.com,346-910-1210,528338299,19/11/1980,"2506 Oak Court",San Jose,NJ

@@ -1,0 +1,14 @@
+INVOICE 363434
+
+Bill To:
+Name: Richard Edwards
+Email: richard.edwards4591@example.com
+Phone: 724-704-8705
+SSN: 551-98-6311
+
+Address: 6996 Second Dr
+Philadelphia, MI
+
+Date of Birth: 24/04/1991
+
+Amount Due: $9183

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Walker,brian.walker6487@work.org,+1 398-359-7090,315-19-4167,03/05/2003,"3183 Sixth Ln",Boston,WA

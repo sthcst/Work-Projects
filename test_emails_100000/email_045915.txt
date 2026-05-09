@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Gonzalez",
+    "email": "kimberly.gonzalez6257@example.com",
+    "phone": "(548) 262-3743",
+    "ssn": "937 36 5779",
+    "dob": "11/27/1975",
+    "address": "8643 Fourth Rd",
+    "city": "Chicago",
+    "state": "MD"
+  }
+}

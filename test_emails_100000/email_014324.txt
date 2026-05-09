@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Martin,david.martin789@gmail.com,673-247-6181,464237377,02/09/1966,"3471 Oak Way",Dallas,MA

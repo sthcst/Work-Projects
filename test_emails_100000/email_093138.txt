@@ -1,0 +1,9 @@
+contact:
+  name: Edward Phillips
+  email: edward.phillips2774@example.com
+  phone: +1 276-619-2664
+  ssn: 982 10 3574
+  dob: 01-27-1951
+  address: 506 Sixth Rd
+  city: Seattle
+  state: CO

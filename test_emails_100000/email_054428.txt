@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Carter",
+    "email": "shirley.carter3202@outlook.com",
+    "phone": "964 927 5914",
+    "ssn": "118-17-7981",
+    "dob": "06-04-1982",
+    "address": "8036 South St",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

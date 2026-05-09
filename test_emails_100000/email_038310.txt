@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Phillips,maria.phillips6141@example.com,(671) 786-6172,777 26 9850,01/09/1958,"9672 Oak Rd",San Jose,CA

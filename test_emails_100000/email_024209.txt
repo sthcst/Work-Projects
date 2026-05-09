@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Delgado",
+    "email": "john.delgado9625@business.net",
+    "phone": "+1 833-446-7681",
+    "ssn": "475-37-3131",
+    "dob": "01/15/1970",
+    "address": "2808 Cedar Ln",
+    "city": "Austin",
+    "state": "MO"
+  }
+}

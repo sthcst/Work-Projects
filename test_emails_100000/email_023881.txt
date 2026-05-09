@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Anderson",
+    "email": "jessica.anderson6156@example.com",
+    "phone": "669-998-2642",
+    "ssn": "632597973",
+    "dob": "9/27/1993",
+    "address": "4653 Sixth St",
+    "city": "New York",
+    "state": "DC"
+  }
+}

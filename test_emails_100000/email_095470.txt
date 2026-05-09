@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Morgan,christopher.morgan3805@yahoo.com,(235) 581-1630,564 91 2060,06-19-1951,"185 Spring Court",Dallas,MA

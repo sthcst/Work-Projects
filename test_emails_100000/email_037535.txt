@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Nunez
+  email: ryan.nunez3794@work.org
+  phone: 204-652-1375
+  ssn: 811869141
+  dob: 06/09/1982
+  address: 4985 South Ave
+  city: New York
+  state: DC

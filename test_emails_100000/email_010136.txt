@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Clark,emma.clark1349@yahoo.com,(484) 382-3718,254 04 1920,09-13-1969,"1630 Cedar Court",Washington,OH

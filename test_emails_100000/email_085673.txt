@@ -1,0 +1,14 @@
+INVOICE 816690
+
+Bill To:
+Name: Amanda Collins
+Email: amanda.collins5005@example.com
+Phone: +1 895-820-9889
+SSN: 970-54-1219
+
+Address: 9754 Pine Way
+Boston, MI
+
+Date of Birth: 4/7/1982
+
+Amount Due: $5360

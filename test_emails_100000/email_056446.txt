@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Alvarado",
+    "email": "jeffrey.alvarado8087@mail.com",
+    "phone": "+1 218-769-7354",
+    "ssn": "694636791",
+    "dob": "12-26-1956",
+    "address": "1419 Fifth Way",
+    "city": "Los Angeles",
+    "state": "MA"
+  }
+}

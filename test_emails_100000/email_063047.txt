@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Harris",
+    "email": "robert.harris2903@mail.com",
+    "phone": "226 543 8836",
+    "ssn": "656-03-8258",
+    "dob": "12-03-1992",
+    "address": "9978 Cedar Court",
+    "city": "Philadelphia",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Cooper",
+    "email": "timothy.cooper6875@work.org",
+    "phone": "543-669-2837",
+    "ssn": "995-11-2947",
+    "dob": "01/16/1951",
+    "address": "8567 Main Blvd",
+    "city": "San Antonio",
+    "state": "AZ"
+  }
+}

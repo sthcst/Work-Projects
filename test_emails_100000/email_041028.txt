@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Hall
+  email: michelle.hall6124@business.net
+  phone: (893) 700-3923
+  ssn: 089559163
+  dob: 12/13/1977
+  address: 1618 Pine St
+  city: Denver
+  state: NJ

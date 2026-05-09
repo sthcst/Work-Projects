@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Rogers,megan.rogers3123@example.com,993-489-2421,225043536,06-20-1959,"5380 Oak Dr",San Diego,NC

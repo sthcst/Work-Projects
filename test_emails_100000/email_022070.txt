@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Davis",
+    "email": "paul.davis3921@yahoo.com",
+    "phone": "(800) 790-8382",
+    "ssn": "906 25 1824",
+    "dob": "08/10/2004",
+    "address": "7965 Park Court",
+    "city": "Phoenix",
+    "state": "MA"
+  }
+}

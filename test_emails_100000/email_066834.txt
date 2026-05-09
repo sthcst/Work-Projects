@@ -1,0 +1,9 @@
+contact:
+  name: Megan Garcia
+  email: megan.garcia6980@gmail.com
+  phone: +1 858-936-1009
+  ssn: 170338083
+  dob: 1/15/1996
+  address: 8515 Third Way
+  city: San Antonio
+  state: WA

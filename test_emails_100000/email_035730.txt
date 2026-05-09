@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Hall,anna.hall8477@business.net,769 621 4735,910 04 6611,11/09/1978,"4284 Park Dr",Phoenix,DC

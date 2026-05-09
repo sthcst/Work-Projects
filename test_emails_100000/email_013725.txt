@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Thompson
+  email: brenda.thompson461@example.com
+  phone: 498 850 7593
+  ssn: 023-84-5517
+  dob: 04/12/1975
+  address: 9133 Park Court
+  city: Washington
+  state: WI

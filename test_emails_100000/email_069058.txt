@@ -1,0 +1,14 @@
+INVOICE 439689
+
+Bill To:
+Name: Jessica Sanchez
+Email: jessica.sanchez9321@mail.com
+Phone: +1 558-463-8235
+SSN: 059-04-6782
+
+Address: 951 Spring Blvd
+Philadelphia, CA
+
+Date of Birth: 14/01/1956
+
+Amount Due: $4872

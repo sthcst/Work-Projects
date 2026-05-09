@@ -1,0 +1,9 @@
+contact:
+  name: Jane White
+  email: jane.white2633@outlook.com
+  phone: +1 864-418-1670
+  ssn: 005-50-4962
+  dob: 07-22-1991
+  address: 3920 Third Ave
+  city: Austin
+  state: AZ

@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Cooper
+  email: michelle.cooper4803@mail.com
+  phone: +1 982-273-7683
+  ssn: 895-98-6239
+  dob: 07/08/1985
+  address: 6208 West Court
+  city: Phoenix
+  state: WI

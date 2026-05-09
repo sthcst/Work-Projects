@@ -1,0 +1,14 @@
+INVOICE 821718
+
+Bill To:
+Name: Ronald Sanchez
+Email: ronald.sanchez1768@mail.com
+Phone: 915-823-8267
+SSN: 002-67-2908
+
+Address: 3320 Birch Court
+Seattle, VA
+
+Date of Birth: 02-09-1999
+
+Amount Due: $4466

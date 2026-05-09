@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Taylor,lisa.taylor7526@mail.com,493 754 4075,336435262,19/01/1994,"6449 Summer Blvd",Jacksonville,MA

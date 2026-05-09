@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Thompson
+  email: stephanie.thompson6307@company.com
+  phone: 305 518 1633
+  ssn: 791 38 7873
+  dob: 06/12/1975
+  address: 410 Fourth Rd
+  city: Phoenix
+  state: CA

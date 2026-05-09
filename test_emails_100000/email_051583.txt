@@ -1,0 +1,9 @@
+contact:
+  name: Michael Jackson
+  email: michael.jackson7611@business.net
+  phone: 566 444 4509
+  ssn: 977 32 3805
+  dob: 09-17-1959
+  address: 437 West Way
+  city: San Antonio
+  state: VA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Delgado",
+    "email": "pamela.delgado7286@gmail.com",
+    "phone": "+1 321-350-6605",
+    "ssn": "526-29-4897",
+    "dob": "14/04/1950",
+    "address": "9122 North Dr",
+    "city": "San Diego",
+    "state": "NC"
+  }
+}

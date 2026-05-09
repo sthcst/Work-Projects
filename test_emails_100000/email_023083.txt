@@ -1,0 +1,14 @@
+INVOICE 702411
+
+Bill To:
+Name: Maria Hall
+Email: maria.hall4623@mail.com
+Phone: (539) 274-1656
+SSN: 646752073
+
+Address: 2956 Elm Way
+Seattle, WI
+
+Date of Birth: 02/10/1995
+
+Amount Due: $3748

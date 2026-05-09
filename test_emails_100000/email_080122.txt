@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Jimenez,jennifer.jimenez6853@outlook.com,+1 651-859-3912,198-23-8213,05/04/1952,"94 East Blvd",Chicago,PA

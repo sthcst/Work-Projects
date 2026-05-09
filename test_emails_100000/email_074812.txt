@@ -1,0 +1,14 @@
+INVOICE 933139
+
+Bill To:
+Name: Jeffrey Clark
+Email: jeffrey.clark7990@mail.com
+Phone: 701 635 6298
+SSN: 966-66-7476
+
+Address: 6714 First Way
+Philadelphia, OH
+
+Date of Birth: 12/12/1989
+
+Amount Due: $5387

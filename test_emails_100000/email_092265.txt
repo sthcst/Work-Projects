@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Murillo",
+    "email": "lauren.murillo1106@outlook.com",
+    "phone": "(247) 683-1390",
+    "ssn": "974-33-7050",
+    "dob": "22/05/1967",
+    "address": "6077 West Dr",
+    "city": "Seattle",
+    "state": "WA"
+  }
+}

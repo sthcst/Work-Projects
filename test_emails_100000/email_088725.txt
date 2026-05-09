@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Reed,katherine.reed6165@mail.com,(941) 637-7852,200-35-5196,11/25/1996,"9071 West Ave",Dallas,NC

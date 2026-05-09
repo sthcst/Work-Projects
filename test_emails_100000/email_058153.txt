@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Smith,kimberly.smith3104@business.net,205-287-3818,393407306,06-05-1974,"1919 First Court",Philadelphia,NY

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Campbell",
+    "email": "kimberly.campbell7015@business.net",
+    "phone": "775-705-3029",
+    "ssn": "922-21-3424",
+    "dob": "07-14-1974",
+    "address": "4845 Main Dr",
+    "city": "Los Angeles",
+    "state": "VA"
+  }
+}

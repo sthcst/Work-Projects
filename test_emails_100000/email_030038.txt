@@ -1,0 +1,14 @@
+INVOICE 132923
+
+Bill To:
+Name: Lauren Carter
+Email: lauren.carter3356@company.com
+Phone: 827-762-4135
+SSN: 872646422
+
+Address: 4883 Third St
+San Antonio, AZ
+
+Date of Birth: 01-23-1986
+
+Amount Due: $6900

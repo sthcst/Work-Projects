@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Campbell,james.campbell8635@company.com,(628) 554-7989,240213720,08/01/1980,"7970 Second Ave",Phoenix,AZ

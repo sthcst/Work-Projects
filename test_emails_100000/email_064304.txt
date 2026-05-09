@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Williams,jacob.williams4458@outlook.com,+1 698-349-7647,463 15 6853,25/08/1986,"4511 Summer Ln",San Jose,AZ

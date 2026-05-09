@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Smith
+  email: ronald.smith6989@gmail.com
+  phone: +1 736-606-1778
+  ssn: 329782630
+  dob: 10/27/1964
+  address: 3344 South Dr
+  city: New York
+  state: GA

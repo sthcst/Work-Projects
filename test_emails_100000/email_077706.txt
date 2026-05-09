@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Reyes",
+    "email": "amanda.reyes9702@company.com",
+    "phone": "733-273-2686",
+    "ssn": "406 80 2054",
+    "dob": "04/08/1952",
+    "address": "9393 Fifth Ave",
+    "city": "Los Angeles",
+    "state": "WA"
+  }
+}

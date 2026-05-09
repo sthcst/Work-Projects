@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Anderson
+  email: timothy.anderson9954@work.org
+  phone: +1 549-907-9844
+  ssn: 037481486
+  dob: 01/20/2000
+  address: 8126 Third Dr
+  city: San Diego
+  state: VA

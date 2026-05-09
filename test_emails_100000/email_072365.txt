@@ -1,0 +1,14 @@
+INVOICE 246838
+
+Bill To:
+Name: Ashley Williams
+Email: ashley.williams3555@company.com
+Phone: 345 477 6427
+SSN: 741441083
+
+Address: 2968 Main Rd
+San Antonio, TX
+
+Date of Birth: 01/10/1973
+
+Amount Due: $1324

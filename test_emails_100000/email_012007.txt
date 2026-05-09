@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Peterson,sarah.peterson8099@work.org,725-474-1729,536 04 9021,02-08-1986,"7407 Second Court",Houston,MO

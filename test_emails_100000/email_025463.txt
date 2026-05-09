@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Sanchez",
+    "email": "david.sanchez5373@yahoo.com",
+    "phone": "680-387-4404",
+    "ssn": "526-56-5212",
+    "dob": "09/12/1958",
+    "address": "4060 First St",
+    "city": "Denver",
+    "state": "IL"
+  }
+}

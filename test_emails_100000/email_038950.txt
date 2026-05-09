@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Dominguez,timothy.dominguez6858@example.com,(318) 543-2691,516-95-5861,05-14-2005,"8783 East Blvd",Seattle,TX

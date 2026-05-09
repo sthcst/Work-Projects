@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Morgan",
+    "email": "kathleen.morgan8875@yahoo.com",
+    "phone": "876-239-2785",
+    "ssn": "304 35 1307",
+    "dob": "5/4/1953",
+    "address": "4361 First Ave",
+    "city": "Phoenix",
+    "state": "DC"
+  }
+}

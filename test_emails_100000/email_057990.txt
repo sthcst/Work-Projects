@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Alvarado",
+    "email": "helen.alvarado8712@work.org",
+    "phone": "(245) 392-3615",
+    "ssn": "095 11 5524",
+    "dob": "12-26-1989",
+    "address": "3471 Third Blvd",
+    "city": "Los Angeles",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 501175
+
+Bill To:
+Name: Ryan Lee
+Email: ryan.lee6650@work.org
+Phone: 817 558 2636
+SSN: 884282551
+
+Address: 3186 Summer St
+Denver, MO
+
+Date of Birth: 14/04/1952
+
+Amount Due: $1393

@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Phillips
+  email: shirley.phillips4541@outlook.com
+  phone: (330) 796-4182
+  ssn: 069703751
+  dob: 10/15/1974
+  address: 1515 First Dr
+  city: Austin
+  state: NJ

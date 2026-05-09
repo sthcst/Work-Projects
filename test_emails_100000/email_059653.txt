@@ -1,0 +1,9 @@
+contact:
+  name: Robert Williams
+  email: robert.williams5832@gmail.com
+  phone: +1 834-652-3795
+  ssn: 983 30 1652
+  dob: 23/04/1998
+  address: 2975 Oak Ln
+  city: San Diego
+  state: AZ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Young",
+    "email": "katherine.young853@outlook.com",
+    "phone": "+1 483-661-7059",
+    "ssn": "097 26 2118",
+    "dob": "08-13-2003",
+    "address": "6470 Pine Dr",
+    "city": "San Antonio",
+    "state": "NC"
+  }
+}

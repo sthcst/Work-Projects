@@ -1,0 +1,9 @@
+contact:
+  name: Mark Delgado
+  email: mark.delgado1733@mail.com
+  phone: 835-982-5928
+  ssn: 047-44-8861
+  dob: 12/4/1984
+  address: 7157 Main Ln
+  city: Phoenix
+  state: NJ

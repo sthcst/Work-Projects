@@ -1,0 +1,9 @@
+contact:
+  name: George Campbell
+  email: george.campbell1875@yahoo.com
+  phone: (632) 864-6721
+  ssn: 589-47-9321
+  dob: 2/15/1991
+  address: 8478 Park Court
+  city: Dallas
+  state: TX

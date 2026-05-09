@@ -1,0 +1,14 @@
+INVOICE 350666
+
+Bill To:
+Name: Pamela Jimenez
+Email: pamela.jimenez710@mail.com
+Phone: +1 919-620-8451
+SSN: 425-83-1786
+
+Address: 4518 South St
+Austin, FL
+
+Date of Birth: 03-11-1958
+
+Amount Due: $6087

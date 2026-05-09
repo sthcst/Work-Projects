@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Flores,michelle.flores7021@example.com,892-367-3336,654601675,12-04-1972,"2112 South Ln",San Antonio,TX

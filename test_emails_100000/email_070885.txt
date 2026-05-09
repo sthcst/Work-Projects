@@ -1,0 +1,14 @@
+INVOICE 407181
+
+Bill To:
+Name: Steven Rodriguez
+Email: steven.rodriguez9292@gmail.com
+Phone: 838 805 8837
+SSN: 788-72-3445
+
+Address: 1027 Maple Way
+Jacksonville, TX
+
+Date of Birth: 6/1/1966
+
+Amount Due: $2365

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Garcia,anthony.garcia9315@gmail.com,(920) 374-4916,741 54 5656,26/07/1999,"28 Oak Ave",Austin,CA

@@ -1,0 +1,14 @@
+INVOICE 964129
+
+Bill To:
+Name: George Bell
+Email: george.bell62@business.net
+Phone: +1 769-229-3886
+SSN: 580 27 6623
+
+Address: 1751 North St
+Philadelphia, MA
+
+Date of Birth: 08-27-1964
+
+Amount Due: $5370

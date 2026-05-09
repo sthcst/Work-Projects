@@ -1,0 +1,9 @@
+contact:
+  name: Jane Bell
+  email: jane.bell1687@outlook.com
+  phone: 660-841-1406
+  ssn: 542-91-7140
+  dob: 2/19/1963
+  address: 7774 Spring Dr
+  city: San Jose
+  state: FL

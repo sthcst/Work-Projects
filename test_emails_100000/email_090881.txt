@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Smith,deborah.smith7435@outlook.com,219 200 1121,249459914,9/18/1987,"1959 Park Way",Denver,AZ

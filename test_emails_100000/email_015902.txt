@@ -1,0 +1,14 @@
+INVOICE 450492
+
+Bill To:
+Name: Steven Lopez
+Email: steven.lopez9501@outlook.com
+Phone: (202) 923-5621
+SSN: 173-86-8488
+
+Address: 8454 Park Ave
+Chicago, CA
+
+Date of Birth: 11/19/1959
+
+Amount Due: $1967

@@ -1,0 +1,14 @@
+INVOICE 239980
+
+Bill To:
+Name: Brenda White
+Email: brenda.white4678@yahoo.com
+Phone: +1 361-779-1349
+SSN: 550-91-8340
+
+Address: 5555 Birch Ln
+Austin, CO
+
+Date of Birth: 6/16/1974
+
+Amount Due: $5908

@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Peterson
+  email: rachel.peterson3001@example.com
+  phone: 301 714 8052
+  ssn: 794 51 6193
+  dob: 24/11/1969
+  address: 3138 Summer Ln
+  city: San Diego
+  state: TX

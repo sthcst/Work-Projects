@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Serrano",
+    "email": "nicholas.serrano4510@mail.com",
+    "phone": "945-325-1126",
+    "ssn": "253-42-1972",
+    "dob": "10/09/1997",
+    "address": "800 East Way",
+    "city": "San Jose",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Young,steven.young9383@company.com,408-970-6126,406-58-2499,9/18/1962,"1991 Park Dr",Denver,WA

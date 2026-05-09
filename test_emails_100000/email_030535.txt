@@ -1,0 +1,14 @@
+INVOICE 236913
+
+Bill To:
+Name: Katherine Rodriguez
+Email: katherine.rodriguez3988@example.com
+Phone: 351 428 5403
+SSN: 645 14 5370
+
+Address: 1235 Elm St
+Phoenix, WI
+
+Date of Birth: 04-13-1974
+
+Amount Due: $6732

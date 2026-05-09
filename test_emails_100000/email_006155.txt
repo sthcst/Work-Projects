@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Clark",
+    "email": "joshua.clark4245@gmail.com",
+    "phone": "(863) 417-2849",
+    "ssn": "687 35 9644",
+    "dob": "06/15/2000",
+    "address": "5302 Elm Court",
+    "city": "Houston",
+    "state": "CA"
+  }
+}

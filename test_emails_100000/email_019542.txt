@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Rogers",
+    "email": "kenneth.rogers2016@outlook.com",
+    "phone": "+1 471-378-3825",
+    "ssn": "299314471",
+    "dob": "17/04/1976",
+    "address": "6560 Birch Ave",
+    "city": "Boston",
+    "state": "FL"
+  }
+}

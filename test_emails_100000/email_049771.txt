@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Garcia,nicole.garcia2320@business.net,996-414-4539,956547028,02/10/1956,"8649 North Way",New York,AZ

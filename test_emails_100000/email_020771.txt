@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Ramirez",
+    "email": "jessica.ramirez9430@outlook.com",
+    "phone": "465-581-6307",
+    "ssn": "098 84 8154",
+    "dob": "01/07/1968",
+    "address": "3733 Oak Blvd",
+    "city": "Houston",
+    "state": "CA"
+  }
+}

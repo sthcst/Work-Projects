@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha White,samantha.white9549@business.net,(237) 687-9076,952-28-2463,10/06/1977,"7808 Sixth Dr",Dallas,CA

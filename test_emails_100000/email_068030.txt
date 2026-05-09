@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Sanchez,gary.sanchez9959@outlook.com,(683) 896-2036,335 56 4085,07/19/1992,"6945 Spring Ave",Chicago,NJ

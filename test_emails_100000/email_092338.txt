@@ -1,0 +1,14 @@
+INVOICE 192140
+
+Bill To:
+Name: Michelle Miller
+Email: michelle.miller1927@company.com
+Phone: 805 339 3103
+SSN: 537491964
+
+Address: 3060 First Dr
+Austin, TX
+
+Date of Birth: 12-25-1992
+
+Amount Due: $9947

@@ -1,0 +1,9 @@
+contact:
+  name: Emily Lewis
+  email: emily.lewis6938@work.org
+  phone: 910-510-7759
+  ssn: 257 72 4381
+  dob: 01/23/1960
+  address: 9139 Main Ave
+  city: San Diego
+  state: VA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Jimenez",
+    "email": "richard.jimenez3420@example.com",
+    "phone": "251-455-8181",
+    "ssn": "828127197",
+    "dob": "04-05-1986",
+    "address": "5310 Summer Dr",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

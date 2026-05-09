@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Phillips
+  email: jennifer.phillips4718@yahoo.com
+  phone: 448 246 4409
+  ssn: 125115552
+  dob: 11/16/1985
+  address: 1261 Summer Blvd
+  city: Houston
+  state: WA

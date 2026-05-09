@@ -1,0 +1,9 @@
+contact:
+  name: Megan Reyes
+  email: megan.reyes9843@mail.com
+  phone: +1 589-230-9429
+  ssn: 870-81-8498
+  dob: 05/01/1952
+  address: 896 Fifth Way
+  city: Seattle
+  state: MI

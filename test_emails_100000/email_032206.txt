@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Guerrero,lauren.guerrero1324@company.com,565-556-9201,597486140,04-26-1953,"8566 Birch Way",Denver,TX

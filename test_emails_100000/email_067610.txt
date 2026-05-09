@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Martinez",
+    "email": "stephanie.martinez5789@mail.com",
+    "phone": "+1 949-850-4215",
+    "ssn": "584494986",
+    "dob": "7/20/1981",
+    "address": "9620 East Ln",
+    "city": "Austin",
+    "state": "MI"
+  }
+}

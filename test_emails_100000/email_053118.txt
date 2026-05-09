@@ -1,0 +1,9 @@
+contact:
+  name: William Alvarado
+  email: william.alvarado2599@business.net
+  phone: (714) 829-4585
+  ssn: 275-34-1431
+  dob: 10/15/1963
+  address: 2842 Fourth Court
+  city: Austin
+  state: IL

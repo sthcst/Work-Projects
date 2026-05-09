@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Lee",
+    "email": "katherine.lee4009@mail.com",
+    "phone": "518-874-4565",
+    "ssn": "546442055",
+    "dob": "06/05/1971",
+    "address": "5603 Sixth Blvd",
+    "city": "Boston",
+    "state": "FL"
+  }
+}

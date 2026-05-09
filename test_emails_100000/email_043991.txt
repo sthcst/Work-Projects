@@ -1,0 +1,14 @@
+INVOICE 281678
+
+Bill To:
+Name: Christopher Anderson
+Email: christopher.anderson6271@example.com
+Phone: (943) 340-9464
+SSN: 298399167
+
+Address: 5064 Oak St
+Phoenix, OH
+
+Date of Birth: 03/10/1972
+
+Amount Due: $7672

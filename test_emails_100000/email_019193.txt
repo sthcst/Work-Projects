@@ -1,0 +1,14 @@
+INVOICE 354141
+
+Bill To:
+Name: Helen Thomas
+Email: helen.thomas1708@mail.com
+Phone: +1 419-241-6247
+SSN: 333085448
+
+Address: 8045 Oak Rd
+Boston, CA
+
+Date of Birth: 09/26/2002
+
+Amount Due: $6307

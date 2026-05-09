@@ -1,0 +1,14 @@
+INVOICE 767696
+
+Bill To:
+Name: Richard Romero
+Email: richard.romero3352@outlook.com
+Phone: +1 626-903-7169
+SSN: 048 16 8522
+
+Address: 6085 Oak Ln
+Denver, AZ
+
+Date of Birth: 12/28/1980
+
+Amount Due: $754

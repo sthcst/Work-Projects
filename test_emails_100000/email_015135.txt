@@ -1,0 +1,14 @@
+INVOICE 467413
+
+Bill To:
+Name: Edward Martinez
+Email: edward.martinez1197@example.com
+Phone: 999 376 5574
+SSN: 713 06 2710
+
+Address: 9046 West St
+Philadelphia, PA
+
+Date of Birth: 11/03/1971
+
+Amount Due: $1328

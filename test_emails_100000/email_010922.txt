@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Jimenez",
+    "email": "lisa.jimenez1018@yahoo.com",
+    "phone": "664 391 2886",
+    "ssn": "379154560",
+    "dob": "05/11/1968",
+    "address": "617 Maple Blvd",
+    "city": "San Antonio",
+    "state": "AZ"
+  }
+}

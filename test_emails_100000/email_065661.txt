@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Perez
+  email: katherine.perez9438@outlook.com
+  phone: 330-676-2364
+  ssn: 809-94-4341
+  dob: 6/20/1979
+  address: 4108 Maple Dr
+  city: Jacksonville
+  state: PA

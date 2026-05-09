@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Delgado
+  email: jennifer.delgado1095@yahoo.com
+  phone: 587 329 5600
+  ssn: 042-92-3988
+  dob: 12/15/2004
+  address: 7445 Maple Blvd
+  city: Jacksonville
+  state: NY

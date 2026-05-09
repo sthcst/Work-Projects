@@ -1,0 +1,9 @@
+contact:
+  name: James Lee
+  email: james.lee8856@company.com
+  phone: (559) 645-4667
+  ssn: 903 67 3545
+  dob: 06-01-2001
+  address: 6034 Third Ave
+  city: San Diego
+  state: MD

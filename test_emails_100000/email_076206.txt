@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Jackson,john.jackson1153@outlook.com,202 768 6588,174-72-3611,06-17-1972,"8544 East Ln",Dallas,MO

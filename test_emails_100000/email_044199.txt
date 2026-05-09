@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Thompson,shirley.thompson1656@company.com,733-806-7246,451-21-2427,01/14/1956,"8603 Pine Ave",Jacksonville,CA

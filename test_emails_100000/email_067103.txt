@@ -1,0 +1,9 @@
+contact:
+  name: Anna Carter
+  email: anna.carter9838@business.net
+  phone: 269-701-9942
+  ssn: 752 77 7836
+  dob: 04/06/1957
+  address: 4991 Maple Ln
+  city: Washington
+  state: NC

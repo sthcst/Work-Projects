@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Serrano",
+    "email": "rebecca.serrano8231@gmail.com",
+    "phone": "409-603-5274",
+    "ssn": "910999320",
+    "dob": "13/01/1960",
+    "address": "1778 Elm Way",
+    "city": "Austin",
+    "state": "AZ"
+  }
+}

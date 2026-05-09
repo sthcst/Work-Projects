@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Thompson,brenda.thompson4144@gmail.com,639-522-9081,486567637,12/16/1992,"6730 Elm Dr",Phoenix,MO

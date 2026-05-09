@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas White
+  email: nicholas.white8746@example.com
+  phone: (604) 756-5513
+  ssn: 699149513
+  dob: 01/05/1981
+  address: 8229 Sixth Blvd
+  city: Los Angeles
+  state: WA

@@ -1,0 +1,14 @@
+INVOICE 562424
+
+Bill To:
+Name: Samantha Parker
+Email: samantha.parker4014@example.com
+Phone: (996) 727-2161
+SSN: 112 30 2884
+
+Address: 3832 Park Court
+Seattle, FL
+
+Date of Birth: 01-15-1976
+
+Amount Due: $6939

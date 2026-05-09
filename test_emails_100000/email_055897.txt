@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Matthew Walker,matthew.walker5527@company.com,642 298 9712,199 30 8742,5/7/1952,"8784 Birch Ave",Dallas,MA

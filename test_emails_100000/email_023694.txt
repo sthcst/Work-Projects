@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Anderson,michael.anderson4947@company.com,(531) 458-8738,810-08-6688,13/12/1969,"7712 Birch Way",Houston,MI

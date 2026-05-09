@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Clark,kenneth.clark6804@example.com,(785) 775-4997,777-87-9390,01/07/1962,"6033 Third Way",Los Angeles,CO

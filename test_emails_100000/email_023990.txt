@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Sanchez,michael.sanchez2428@gmail.com,279-225-4373,221-14-5922,12/09/1977,"4177 Third Dr",Phoenix,AZ

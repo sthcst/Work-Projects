@@ -1,0 +1,9 @@
+contact:
+  name: David Taylor
+  email: david.taylor8156@example.com
+  phone: +1 454-233-7076
+  ssn: 098646712
+  dob: 01/06/1974
+  address: 3447 West Way
+  city: San Antonio
+  state: CA

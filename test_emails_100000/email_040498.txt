@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Wilson,megan.wilson9358@outlook.com,939-857-8963,094 69 1429,9/18/1993,"46 Fifth Court",Seattle,TX

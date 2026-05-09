@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Anderson,stephanie.anderson3517@yahoo.com,(963) 990-7672,627-32-6279,03-04-2004,"4307 Spring Way",New York,TX

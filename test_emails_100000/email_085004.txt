@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Parker",
+    "email": "matthew.parker2739@gmail.com",
+    "phone": "+1 637-893-6448",
+    "ssn": "838094946",
+    "dob": "05/21/1988",
+    "address": "252 Pine Blvd",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

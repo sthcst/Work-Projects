@@ -1,0 +1,14 @@
+INVOICE 980028
+
+Bill To:
+Name: Timothy Carter
+Email: timothy.carter5294@company.com
+Phone: 531 814 1387
+SSN: 735-32-5685
+
+Address: 9706 Third Ln
+Los Angeles, CO
+
+Date of Birth: 4/3/1990
+
+Amount Due: $3551

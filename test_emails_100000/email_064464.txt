@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Moore",
+    "email": "maria.moore1313@mail.com",
+    "phone": "(961) 799-5889",
+    "ssn": "964-42-2070",
+    "dob": "06-08-1977",
+    "address": "2245 Elm St",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

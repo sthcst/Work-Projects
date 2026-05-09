@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Ramirez",
+    "email": "george.ramirez8971@company.com",
+    "phone": "(495) 637-6875",
+    "ssn": "796636259",
+    "dob": "2/6/1954",
+    "address": "4261 Fourth Blvd",
+    "city": "Washington",
+    "state": "VA"
+  }
+}

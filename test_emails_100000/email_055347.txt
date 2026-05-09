@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Reyes
+  email: kevin.reyes6705@example.com
+  phone: +1 542-338-7029
+  ssn: 972783154
+  dob: 10/14/1958
+  address: 9956 Third Rd
+  city: Denver
+  state: AZ

@@ -1,0 +1,14 @@
+INVOICE 834692
+
+Bill To:
+Name: Edward Lopez
+Email: edward.lopez7618@company.com
+Phone: +1 337-455-5656
+SSN: 138874812
+
+Address: 5475 West Blvd
+Dallas, CO
+
+Date of Birth: 3/7/1984
+
+Amount Due: $8295

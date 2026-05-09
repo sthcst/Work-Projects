@@ -1,0 +1,9 @@
+contact:
+  name: Gary Johnson
+  email: gary.johnson7925@gmail.com
+  phone: 228 313 6318
+  ssn: 485218067
+  dob: 7/14/1955
+  address: 286 Birch Way
+  city: Austin
+  state: FL

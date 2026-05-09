@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Collins
+  email: kenneth.collins2130@gmail.com
+  phone: 757-395-3616
+  ssn: 356-58-1854
+  dob: 20/01/1974
+  address: 4248 Summer Blvd
+  city: Chicago
+  state: NY

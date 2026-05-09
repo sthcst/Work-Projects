@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Nelson",
+    "email": "helen.nelson8251@business.net",
+    "phone": "255 264 7108",
+    "ssn": "354588966",
+    "dob": "27/09/1957",
+    "address": "8724 Fourth Dr",
+    "city": "Seattle",
+    "state": "OH"
+  }
+}

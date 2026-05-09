@@ -1,0 +1,9 @@
+contact:
+  name: Michael Davis
+  email: michael.davis2676@outlook.com
+  phone: +1 505-401-2946
+  ssn: 947-32-8136
+  dob: 25/08/1983
+  address: 4134 South St
+  city: Seattle
+  state: AZ

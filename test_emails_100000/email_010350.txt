@@ -1,0 +1,14 @@
+INVOICE 901931
+
+Bill To:
+Name: Steven Flores
+Email: steven.flores8844@company.com
+Phone: +1 317-871-3956
+SSN: 439-84-9079
+
+Address: 7635 North Court
+Washington, NC
+
+Date of Birth: 7/10/1989
+
+Amount Due: $3814

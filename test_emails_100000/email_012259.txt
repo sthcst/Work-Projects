@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Campbell",
+    "email": "mark.campbell9861@mail.com",
+    "phone": "+1 291-833-7698",
+    "ssn": "026 54 3306",
+    "dob": "2/4/1971",
+    "address": "2804 Fifth Dr",
+    "city": "Chicago",
+    "state": "AZ"
+  }
+}

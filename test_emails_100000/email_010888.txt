@@ -1,0 +1,14 @@
+INVOICE 209133
+
+Bill To:
+Name: Paul Ramirez
+Email: paul.ramirez3096@work.org
+Phone: +1 293-535-3128
+SSN: 940-36-8854
+
+Address: 4019 Pine Way
+San Diego, MA
+
+Date of Birth: 07-08-1976
+
+Amount Due: $5317

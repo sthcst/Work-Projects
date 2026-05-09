@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Morgan,emma.morgan8152@gmail.com,601 982 4041,194603302,07/03/1970,"1960 Main Rd",New York,WI

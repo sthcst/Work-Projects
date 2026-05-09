@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Walker,michelle.walker689@example.com,764 694 1137,294457681,28/04/1975,"8521 South Court",Phoenix,TX

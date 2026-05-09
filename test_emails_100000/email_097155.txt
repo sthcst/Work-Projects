@@ -1,0 +1,9 @@
+contact:
+  name: Helen Dominguez
+  email: helen.dominguez5352@gmail.com
+  phone: (686) 983-8043
+  ssn: 683-97-7046
+  dob: 26/11/1991
+  address: 8944 Sixth St
+  city: Phoenix
+  state: AZ

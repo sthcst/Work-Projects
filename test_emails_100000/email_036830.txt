@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Hall,ryan.hall1946@company.com,(240) 911-2365,416-69-5177,10/28/1999,"2362 Spring Ave",San Jose,PA

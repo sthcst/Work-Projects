@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Reeves
+  email: shirley.reeves8692@example.com
+  phone: 597-222-3532
+  ssn: 715838828
+  dob: 10-28-1970
+  address: 2912 Main Blvd
+  city: Austin
+  state: TX

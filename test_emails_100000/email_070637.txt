@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Reeves
+  email: amanda.reeves6235@company.com
+  phone: 745 549 2478
+  ssn: 315 68 2296
+  dob: 04-24-1963
+  address: 6848 Main Ave
+  city: Jacksonville
+  state: FL

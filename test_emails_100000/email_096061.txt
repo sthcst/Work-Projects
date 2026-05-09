@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Nunez,sarah.nunez4499@example.com,+1 533-981-9231,227996106,10/05/1954,"3603 Park Way",Dallas,TX

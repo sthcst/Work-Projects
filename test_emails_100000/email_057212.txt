@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Jimenez,gary.jimenez3309@company.com,+1 440-444-4376,134-46-7139,09/21/1990,"4445 Summer St",Chicago,TN

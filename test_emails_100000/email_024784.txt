@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Clark,angela.clark2813@business.net,(367) 909-6500,403 32 3638,5/11/1967,"4174 Cedar Court",San Diego,TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Alvarado,timothy.alvarado6197@example.com,575-999-9578,001339901,6/12/1985,"58 Maple St",Houston,OH

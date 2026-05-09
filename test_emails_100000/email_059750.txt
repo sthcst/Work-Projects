@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Martin",
+    "email": "jessica.martin3504@outlook.com",
+    "phone": "(535) 349-2312",
+    "ssn": "015 93 1464",
+    "dob": "2/17/1982",
+    "address": "5458 Summer St",
+    "city": "Chicago",
+    "state": "NY"
+  }
+}

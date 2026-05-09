@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Romero,jeffrey.romero5789@example.com,971 889 9045,100 44 2751,16/09/1998,"7652 Elm Blvd",San Antonio,MA

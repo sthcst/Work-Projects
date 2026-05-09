@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Parker,angela.parker8758@company.com,763-248-3779,443 84 9214,01/10/2004,"553 Fourth Way",Dallas,AZ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Collins,jessica.collins5280@outlook.com,581 541 9544,851497363,17/11/1957,"7689 North Rd",Jacksonville,WI

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Serrano,katherine.serrano3492@gmail.com,722 260 1826,923-15-3804,03/10/1959,"9351 First St",Phoenix,CA

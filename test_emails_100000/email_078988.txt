@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Wilson",
+    "email": "anthony.wilson4975@work.org",
+    "phone": "621 363 3884",
+    "ssn": "344-35-9006",
+    "dob": "06/21/2001",
+    "address": "7952 Summer Blvd",
+    "city": "San Antonio",
+    "state": "MD"
+  }
+}

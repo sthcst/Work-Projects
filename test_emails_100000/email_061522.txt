@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Walker,george.walker8714@yahoo.com,+1 520-935-9439,317-06-8203,02-18-1995,"9142 Fourth Rd",Houston,FL

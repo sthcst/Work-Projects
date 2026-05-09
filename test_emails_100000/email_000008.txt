@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Lewis
+  email: lisa.lewis118@yahoo.com
+  phone: 434-269-1514
+  ssn: 881432160
+  dob: 09/04/1992
+  address: 3520 Fourth Rd
+  city: Washington
+  state: CA

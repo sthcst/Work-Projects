@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Peterson",
+    "email": "jason.peterson50@company.com",
+    "phone": "558 829 4178",
+    "ssn": "938836306",
+    "dob": "06/02/1994",
+    "address": "2678 Spring Dr",
+    "city": "Austin",
+    "state": "FL"
+  }
+}

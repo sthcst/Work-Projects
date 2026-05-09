@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Edwards
+  email: cynthia.edwards4399@outlook.com
+  phone: 929 827 5346
+  ssn: 243-08-3565
+  dob: 08-10-1993
+  address: 4844 Second Blvd
+  city: Philadelphia
+  state: GA

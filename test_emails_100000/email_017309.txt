@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Collins,megan.collins3461@mail.com,459-847-6280,987 92 4119,8/27/1999,"5708 Second Ave",Seattle,AZ

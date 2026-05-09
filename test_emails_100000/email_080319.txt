@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Gomez
+  email: ronald.gomez8865@company.com
+  phone: +1 868-812-9487
+  ssn: 749 60 2129
+  dob: 12/04/1968
+  address: 5466 Main Ave
+  city: New York
+  state: FL

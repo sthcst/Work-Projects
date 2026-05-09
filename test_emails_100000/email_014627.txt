@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Reyes",
+    "email": "christopher.reyes1550@company.com",
+    "phone": "+1 903-382-1369",
+    "ssn": "072576847",
+    "dob": "2/2/1997",
+    "address": "3138 North Rd",
+    "city": "Seattle",
+    "state": "TN"
+  }
+}

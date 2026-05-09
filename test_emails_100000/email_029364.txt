@@ -1,0 +1,9 @@
+contact:
+  name: Helen Ortiz
+  email: helen.ortiz1934@company.com
+  phone: (639) 777-6027
+  ssn: 888 47 8976
+  dob: 11/08/1966
+  address: 6231 Summer Dr
+  city: Philadelphia
+  state: TX

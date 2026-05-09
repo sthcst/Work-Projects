@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Morgan",
+    "email": "john.morgan7360@gmail.com",
+    "phone": "846-626-5845",
+    "ssn": "817965659",
+    "dob": "11-06-1999",
+    "address": "5021 Second St",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

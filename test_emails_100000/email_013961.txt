@@ -1,0 +1,9 @@
+contact:
+  name: Paul Moore
+  email: paul.moore5177@company.com
+  phone: (240) 944-6257
+  ssn: 923 89 9089
+  dob: 12/27/1972
+  address: 881 Sixth Blvd
+  city: Austin
+  state: FL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Evans",
+    "email": "cynthia.evans1746@outlook.com",
+    "phone": "+1 537-381-9084",
+    "ssn": "914 54 7907",
+    "dob": "04-04-1971",
+    "address": "2827 North Dr",
+    "city": "Chicago",
+    "state": "VA"
+  }
+}

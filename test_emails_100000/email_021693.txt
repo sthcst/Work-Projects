@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Peterson
+  email: kimberly.peterson6243@outlook.com
+  phone: 383 902 6912
+  ssn: 013 71 3448
+  dob: 09/20/1971
+  address: 6772 Park Rd
+  city: Jacksonville
+  state: CA

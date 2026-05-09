@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Rodriguez",
+    "email": "katherine.rodriguez5048@mail.com",
+    "phone": "215-860-4398",
+    "ssn": "398-57-2764",
+    "dob": "3/10/1969",
+    "address": "9283 Cedar Way",
+    "city": "San Diego",
+    "state": "NJ"
+  }
+}

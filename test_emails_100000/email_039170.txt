@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Jimenez
+  email: sarah.jimenez9148@yahoo.com
+  phone: 351 392 4401
+  ssn: 383832257
+  dob: 15/05/2004
+  address: 6978 Birch Ln
+  city: Austin
+  state: NJ

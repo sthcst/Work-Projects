@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Davis,anthony.davis6721@yahoo.com,(325) 755-8666,955-08-6720,2/28/1950,"8404 Main Ln",New York,OH

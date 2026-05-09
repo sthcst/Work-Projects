@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Peterson,lisa.peterson3191@business.net,768 820 8352,473-14-2873,05-23-1969,"3981 West Ln",Phoenix,NJ

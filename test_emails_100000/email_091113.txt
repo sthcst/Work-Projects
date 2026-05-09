@@ -1,0 +1,9 @@
+contact:
+  name: Mark Thomas
+  email: mark.thomas4925@outlook.com
+  phone: +1 499-964-4707
+  ssn: 709 05 7680
+  dob: 7/1/1993
+  address: 5755 Spring Blvd
+  city: San Antonio
+  state: TX

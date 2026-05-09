@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Morris",
+    "email": "christopher.morris9772@business.net",
+    "phone": "497-853-7532",
+    "ssn": "672-56-8520",
+    "dob": "10/24/1999",
+    "address": "7716 Oak Court",
+    "city": "Austin",
+    "state": "NJ"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Smith,charles.smith4860@company.com,886 544 9256,377 67 4652,7/1/1979,"8043 South St",San Antonio,CA

@@ -1,0 +1,14 @@
+INVOICE 802605
+
+Bill To:
+Name: David Harris
+Email: david.harris1282@business.net
+Phone: 505-441-8283
+SSN: 894 78 7675
+
+Address: 8037 West Dr
+Chicago, TX
+
+Date of Birth: 4/5/1972
+
+Amount Due: $6107

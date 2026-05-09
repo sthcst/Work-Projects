@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Harris",
+    "email": "william.harris181@work.org",
+    "phone": "427 934 2292",
+    "ssn": "868-50-7402",
+    "dob": "09/12/1982",
+    "address": "6184 Maple Way",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

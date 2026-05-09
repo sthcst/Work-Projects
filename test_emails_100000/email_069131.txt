@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Gonzalez",
+    "email": "ashley.gonzalez4258@gmail.com",
+    "phone": "628-534-4654",
+    "ssn": "871 29 3150",
+    "dob": "19/03/1977",
+    "address": "2594 Sixth Way",
+    "city": "Denver",
+    "state": "MD"
+  }
+}

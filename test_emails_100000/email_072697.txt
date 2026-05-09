@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Davis
+  email: anthony.davis716@mail.com
+  phone: (334) 585-9720
+  ssn: 702-30-3666
+  dob: 12-20-1975
+  address: 4636 Park Blvd
+  city: Washington
+  state: NC

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Wilson",
+    "email": "rebecca.wilson6531@example.com",
+    "phone": "+1 877-215-3137",
+    "ssn": "895576680",
+    "dob": "02/01/1969",
+    "address": "5153 Cedar Dr",
+    "city": "Chicago",
+    "state": "MD"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Sanchez
+  email: ronald.sanchez911@company.com
+  phone: 420 776 3762
+  ssn: 107-72-3900
+  dob: 11/20/1987
+  address: 315 East Ave
+  city: Phoenix
+  state: TX

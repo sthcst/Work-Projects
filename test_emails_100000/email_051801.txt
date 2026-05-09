@@ -1,0 +1,9 @@
+contact:
+  name: George Roberts
+  email: george.roberts5692@example.com
+  phone: +1 408-607-6284
+  ssn: 950834029
+  dob: 01-25-1989
+  address: 1611 Second Rd
+  city: Phoenix
+  state: GA

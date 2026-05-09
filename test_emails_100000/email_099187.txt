@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Collins",
+    "email": "rachel.collins1405@work.org",
+    "phone": "849-680-8761",
+    "ssn": "411 17 1463",
+    "dob": "03-17-1971",
+    "address": "8599 Spring Ln",
+    "city": "San Diego",
+    "state": "IL"
+  }
+}

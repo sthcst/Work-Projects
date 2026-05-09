@@ -1,0 +1,9 @@
+contact:
+  name: David Flores
+  email: david.flores1694@mail.com
+  phone: 809-355-4754
+  ssn: 001-05-4335
+  dob: 12-20-1995
+  address: 8824 East Ave
+  city: San Diego
+  state: AZ

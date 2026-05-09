@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Carter,deborah.carter8608@gmail.com,907-239-9032,713 53 2047,07/15/1970,"6761 Second Rd",Dallas,AZ

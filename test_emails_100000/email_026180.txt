@@ -1,0 +1,9 @@
+contact:
+  name: Brian Collins
+  email: brian.collins5899@outlook.com
+  phone: 970 546 3971
+  ssn: 039-16-5246
+  dob: 9/21/1968
+  address: 9328 Maple Way
+  city: San Diego
+  state: TX

@@ -1,0 +1,14 @@
+INVOICE 267573
+
+Bill To:
+Name: Angela Harris
+Email: angela.harris2409@company.com
+Phone: (394) 628-5275
+SSN: 996 49 6470
+
+Address: 916 Oak Court
+New York, MI
+
+Date of Birth: 01-08-1960
+
+Amount Due: $4305

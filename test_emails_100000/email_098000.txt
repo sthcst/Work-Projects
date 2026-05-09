@@ -1,0 +1,14 @@
+INVOICE 518345
+
+Bill To:
+Name: Nicole Martinez
+Email: nicole.martinez2383@company.com
+Phone: (515) 245-2175
+SSN: 144973211
+
+Address: 2817 Elm Court
+Houston, NC
+
+Date of Birth: 11/21/1983
+
+Amount Due: $5523

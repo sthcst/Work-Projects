@@ -1,0 +1,14 @@
+INVOICE 224064
+
+Bill To:
+Name: Ryan Martin
+Email: ryan.martin5302@company.com
+Phone: 238-268-1814
+SSN: 339121513
+
+Address: 8035 Fifth Dr
+San Diego, WA
+
+Date of Birth: 16/04/1966
+
+Amount Due: $2306

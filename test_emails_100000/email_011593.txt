@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Taylor",
+    "email": "lauren.taylor2100@company.com",
+    "phone": "+1 677-697-6968",
+    "ssn": "413978804",
+    "dob": "07-28-1991",
+    "address": "8346 Fourth Court",
+    "city": "San Antonio",
+    "state": "CA"
+  }
+}

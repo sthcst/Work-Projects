@@ -1,0 +1,14 @@
+INVOICE 130058
+
+Bill To:
+Name: Andrew Morris
+Email: andrew.morris1005@business.net
+Phone: 752 672 4615
+SSN: 990 67 4966
+
+Address: 580 Oak Ln
+Houston, FL
+
+Date of Birth: 21/03/2000
+
+Amount Due: $7228

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Sanchez,sarah.sanchez6905@mail.com,874-664-7471,609947209,06/03/1996,"9833 Third Court",Boston,TX

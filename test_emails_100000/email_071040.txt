@@ -1,0 +1,9 @@
+contact:
+  name: Christine Reyes
+  email: christine.reyes2803@example.com
+  phone: +1 753-283-8966
+  ssn: 921-11-1914
+  dob: 2/16/1970
+  address: 2223 Maple Blvd
+  city: Jacksonville
+  state: TX

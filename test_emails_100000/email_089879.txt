@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Bell
+  email: anthony.bell8568@example.com
+  phone: +1 689-467-9133
+  ssn: 348311442
+  dob: 06/09/2000
+  address: 4317 Maple Blvd
+  city: Houston
+  state: CA

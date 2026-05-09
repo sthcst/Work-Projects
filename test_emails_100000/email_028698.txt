@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Murillo,jacob.murillo1097@example.com,804 945 3449,304961587,04-02-1978,"5669 Oak Ave",Boston,CA

@@ -1,0 +1,14 @@
+INVOICE 666875
+
+Bill To:
+Name: Amanda Jimenez
+Email: amanda.jimenez9315@gmail.com
+Phone: +1 751-678-7322
+SSN: 196659207
+
+Address: 7596 Summer Way
+San Jose, MA
+
+Date of Birth: 10/08/1951
+
+Amount Due: $2284

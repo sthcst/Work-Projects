@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Taylor,cynthia.taylor7823@example.com,(551) 733-9955,457-04-4788,07/10/1954,"915 Cedar Ave",Austin,DC

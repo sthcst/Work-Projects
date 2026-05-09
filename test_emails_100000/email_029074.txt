@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Edwards,anthony.edwards3990@yahoo.com,+1 922-286-2134,313273529,11/07/1963,"9693 Elm Ave",Chicago,TX

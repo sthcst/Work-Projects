@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Jones",
+    "email": "anna.jones7226@gmail.com",
+    "phone": "(834) 955-6994",
+    "ssn": "254304771",
+    "dob": "10-24-1967",
+    "address": "8246 Pine St",
+    "city": "Houston",
+    "state": "AZ"
+  }
+}

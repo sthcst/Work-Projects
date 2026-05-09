@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Martin",
+    "email": "nicole.martin4947@mail.com",
+    "phone": "(438) 640-5436",
+    "ssn": "995089392",
+    "dob": "02/01/1969",
+    "address": "628 Fourth Ln",
+    "city": "New York",
+    "state": "WA"
+  }
+}

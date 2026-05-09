@@ -1,0 +1,12 @@
+SUPPORT TICKET #93272
+
+Customer: John Reed
+Email: john.reed9490@example.com
+Phone: 244-211-3507
+Account: 788-37-2499
+
+Issue Description: Technical problem reported
+DOB on file: 10/09/1969
+Address: 8690 Birch Dr, Washington, MI
+
+Status: OPEN

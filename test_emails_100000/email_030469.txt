@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Thompson
+  email: joshua.thompson2616@work.org
+  phone: 506 553 8571
+  ssn: 642-07-1518
+  dob: 23/01/1964
+  address: 4284 Oak Court
+  city: Denver
+  state: PA

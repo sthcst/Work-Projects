@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Delgado
+  email: lauren.delgado994@work.org
+  phone: (483) 725-7314
+  ssn: 458-10-6872
+  dob: 09/09/1978
+  address: 1780 Maple Ln
+  city: New York
+  state: TN

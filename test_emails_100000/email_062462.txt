@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Delgado",
+    "email": "william.delgado633@business.net",
+    "phone": "963-875-6479",
+    "ssn": "386 88 2571",
+    "dob": "11-04-1975",
+    "address": "2233 Summer Ln",
+    "city": "Jacksonville",
+    "state": "AZ"
+  }
+}

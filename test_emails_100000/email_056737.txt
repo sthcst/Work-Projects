@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Morgan,ashley.morgan8668@business.net,304 268 7527,091 65 6470,09-16-1994,"5767 Spring Ave",Phoenix,FL

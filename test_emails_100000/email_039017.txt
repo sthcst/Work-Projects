@@ -1,0 +1,12 @@
+SUPPORT TICKET #52861
+
+Customer: Brenda Murillo
+Email: brenda.murillo8782@example.com
+Phone: +1 462-960-1048
+Account: 785-95-3145
+
+Issue Description: Technical problem reported
+DOB on file: 08/16/1970
+Address: 8179 Spring Dr, New York, GA
+
+Status: OPEN

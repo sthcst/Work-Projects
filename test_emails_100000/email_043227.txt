@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Jackson",
+    "email": "cynthia.jackson7276@company.com",
+    "phone": "+1 762-429-8742",
+    "ssn": "069905067",
+    "dob": "10/10/1957",
+    "address": "6855 East Ln",
+    "city": "Los Angeles",
+    "state": "FL"
+  }
+}

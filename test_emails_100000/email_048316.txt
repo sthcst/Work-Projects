@@ -1,0 +1,9 @@
+contact:
+  name: Jason Morgan
+  email: jason.morgan4979@example.com
+  phone: 613-201-2312
+  ssn: 915-58-4989
+  dob: 10/9/1971
+  address: 3131 Third Blvd
+  city: Los Angeles
+  state: NC

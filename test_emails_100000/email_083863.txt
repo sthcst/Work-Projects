@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Walker",
+    "email": "michelle.walker6242@work.org",
+    "phone": "+1 989-781-9201",
+    "ssn": "699 96 4457",
+    "dob": "09/21/1971",
+    "address": "4850 Birch Dr",
+    "city": "San Jose",
+    "state": "PA"
+  }
+}

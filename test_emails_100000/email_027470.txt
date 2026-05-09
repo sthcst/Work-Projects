@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Williams
+  email: ashley.williams2642@yahoo.com
+  phone: (817) 926-2595
+  ssn: 442-12-8780
+  dob: 02/16/1956
+  address: 2244 Oak Blvd
+  city: Jacksonville
+  state: MA

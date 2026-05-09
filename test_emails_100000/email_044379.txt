@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Hall,samantha.hall3281@example.com,254-662-4056,815 50 4010,09/14/1954,"5741 Sixth Blvd",San Jose,MA

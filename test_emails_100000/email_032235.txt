@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Wilson,andrew.wilson4176@mail.com,(398) 901-7408,733-64-2862,12-24-1974,"2504 Spring Dr",San Diego,MI

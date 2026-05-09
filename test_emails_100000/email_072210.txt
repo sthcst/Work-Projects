@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Thompson
+  email: brenda.thompson5226@company.com
+  phone: (491) 431-2860
+  ssn: 910 23 1787
+  dob: 12-02-1990
+  address: 7396 First Rd
+  city: Chicago
+  state: IL

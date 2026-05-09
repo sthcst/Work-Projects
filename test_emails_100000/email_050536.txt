@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Taylor,jennifer.taylor3457@yahoo.com,798 311 6520,254-55-7422,22/11/1975,"4052 Sixth Court",San Antonio,TX

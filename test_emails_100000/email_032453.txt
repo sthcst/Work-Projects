@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Peterson,gary.peterson6788@outlook.com,560 871 3293,650-04-8524,11/12/1954,"3430 East Ave",Seattle,OH

@@ -1,0 +1,14 @@
+INVOICE 444472
+
+Bill To:
+Name: Ronald White
+Email: ronald.white2495@outlook.com
+Phone: 694 498 8023
+SSN: 114 69 3084
+
+Address: 6590 Maple Court
+Austin, MI
+
+Date of Birth: 3/28/1982
+
+Amount Due: $2777

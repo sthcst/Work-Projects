@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Lee,nicole.lee1286@yahoo.com,500 758 7112,083-61-5758,7/14/1984,"7927 Oak Rd",Jacksonville,VA

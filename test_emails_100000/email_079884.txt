@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Bell",
+    "email": "jason.bell7615@example.com",
+    "phone": "+1 573-879-1727",
+    "ssn": "335-23-4295",
+    "dob": "07/08/1972",
+    "address": "9195 East Ln",
+    "city": "San Jose",
+    "state": "FL"
+  }
+}

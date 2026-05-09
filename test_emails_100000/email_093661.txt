@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Gomez,samantha.gomez6671@example.com,+1 957-254-6328,599 97 5702,04/01/1963,"8305 South Blvd",Washington,FL

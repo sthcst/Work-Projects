@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Morris",
+    "email": "rebecca.morris5271@mail.com",
+    "phone": "(987) 790-9916",
+    "ssn": "346 98 2299",
+    "dob": "8/5/2000",
+    "address": "7817 Third Way",
+    "city": "New York",
+    "state": "CO"
+  }
+}

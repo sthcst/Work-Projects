@@ -1,0 +1,9 @@
+contact:
+  name: Emily Reed
+  email: emily.reed7293@company.com
+  phone: +1 594-795-4630
+  ssn: 185533123
+  dob: 1/16/1959
+  address: 2339 Sixth Ave
+  city: Philadelphia
+  state: VA

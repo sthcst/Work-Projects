@@ -1,0 +1,14 @@
+INVOICE 180377
+
+Bill To:
+Name: Pamela Lee
+Email: pamela.lee5913@outlook.com
+Phone: (982) 883-8620
+SSN: 245-69-8524
+
+Address: 4314 Pine Ave
+Chicago, NC
+
+Date of Birth: 1/5/1982
+
+Amount Due: $8480

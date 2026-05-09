@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Young
+  email: ronald.young7905@business.net
+  phone: 609 332 7263
+  ssn: 906528213
+  dob: 06-24-1996
+  address: 8204 Fifth Rd
+  city: Los Angeles
+  state: MA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Martinez",
+    "email": "maria.martinez4334@company.com",
+    "phone": "390 335 5946",
+    "ssn": "393-78-9399",
+    "dob": "23/09/1963",
+    "address": "3943 Summer Ave",
+    "city": "Philadelphia",
+    "state": "NJ"
+  }
+}

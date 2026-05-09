@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Harris",
+    "email": "joseph.harris3609@mail.com",
+    "phone": "544-376-2151",
+    "ssn": "455-07-6384",
+    "dob": "7/9/2000",
+    "address": "7674 Elm St",
+    "city": "Denver",
+    "state": "MI"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 822960
+
+Bill To:
+Name: Sarah Rodriguez
+Email: sarah.rodriguez9930@example.com
+Phone: (529) 515-9126
+SSN: 513241923
+
+Address: 9939 Park Rd
+San Jose, VA
+
+Date of Birth: 24/01/1992
+
+Amount Due: $520

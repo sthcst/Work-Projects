@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Dominguez,steven.dominguez3290@company.com,871 887 3264,975393521,6/25/1982,"2664 East Rd",Philadelphia,MI

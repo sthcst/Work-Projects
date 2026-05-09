@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Gomez,shirley.gomez9696@outlook.com,+1 506-524-6197,881971932,16/05/1952,"101 Second Rd",San Antonio,WI

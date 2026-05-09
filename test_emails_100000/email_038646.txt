@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Martinez,edward.martinez9023@business.net,615-858-6005,747063007,06/03/1987,"6654 First St",Dallas,GA

@@ -1,0 +1,12 @@
+SUPPORT TICKET #15339
+
+Customer: Anna Anderson
+Email: anna.anderson9709@example.com
+Phone: +1 755-378-8265
+Account: 302 89 4981
+
+Issue Description: Technical problem reported
+DOB on file: 12/21/1991
+Address: 120 South Dr, Phoenix, WA
+
+Status: OPEN

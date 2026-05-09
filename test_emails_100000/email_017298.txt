@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Nunez
+  email: kathleen.nunez9610@business.net
+  phone: (650) 762-9109
+  ssn: 330 55 3201
+  dob: 21/07/1964
+  address: 9512 Fifth Way
+  city: Chicago
+  state: WA

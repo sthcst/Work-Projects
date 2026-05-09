@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Edwards,anthony.edwards6470@outlook.com,(330) 548-3156,688 69 4494,05-04-1962,"5990 Fifth Blvd",Phoenix,CA

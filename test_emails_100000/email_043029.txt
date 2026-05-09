@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Martinez,richard.martinez5238@gmail.com,+1 451-990-8723,175-78-7629,19/05/1954,"738 Sixth Rd",Houston,TN

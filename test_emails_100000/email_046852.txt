@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Sanchez,edward.sanchez9850@gmail.com,(935) 995-3640,110244597,10/02/1988,"8042 Spring Dr",Denver,IL

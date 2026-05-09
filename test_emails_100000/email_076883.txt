@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Collins
+  email: kathleen.collins7896@mail.com
+  phone: 256-593-1927
+  ssn: 789 15 1662
+  dob: 03-15-1988
+  address: 1470 Fourth Way
+  city: Chicago
+  state: AZ

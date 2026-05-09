@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Parker",
+    "email": "richard.parker516@yahoo.com",
+    "phone": "+1 346-428-5480",
+    "ssn": "358-85-7534",
+    "dob": "6/22/1994",
+    "address": "6317 Sixth Ave",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

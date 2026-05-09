@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Smith
+  email: amanda.smith8303@yahoo.com
+  phone: +1 271-247-7442
+  ssn: 906 36 7789
+  dob: 20/08/1996
+  address: 8484 West Ave
+  city: Phoenix
+  state: TX

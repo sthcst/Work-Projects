@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Walker",
+    "email": "jason.walker1962@yahoo.com",
+    "phone": "968-611-3818",
+    "ssn": "368-15-9023",
+    "dob": "06-02-2001",
+    "address": "2785 Pine Court",
+    "city": "New York",
+    "state": "MA"
+  }
+}

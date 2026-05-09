@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Bell,jennifer.bell5646@gmail.com,+1 695-957-8149,155108210,03/04/1950,"8642 Sixth Dr",Los Angeles,WI

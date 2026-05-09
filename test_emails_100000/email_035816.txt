@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Ortiz,paul.ortiz3838@work.org,548-417-5682,767 67 3575,05/14/1975,"2331 Cedar Dr",Austin,AZ

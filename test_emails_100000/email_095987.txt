@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Martin",
+    "email": "michelle.martin4989@outlook.com",
+    "phone": "+1 927-369-6742",
+    "ssn": "838-51-6958",
+    "dob": "9/20/2003",
+    "address": "7560 Third Ave",
+    "city": "Denver",
+    "state": "TN"
+  }
+}

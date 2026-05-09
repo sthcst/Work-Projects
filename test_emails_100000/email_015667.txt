@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Reyes,jeffrey.reyes5157@example.com,386 335 9137,665 01 2884,12-08-1983,"1050 First Ave",Chicago,TX

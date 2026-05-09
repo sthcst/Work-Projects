@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Jackson
+  email: jennifer.jackson2036@yahoo.com
+  phone: +1 574-562-6486
+  ssn: 016 16 4442
+  dob: 12-20-1956
+  address: 8009 East St
+  city: Denver
+  state: PA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Guerrero",
+    "email": "emma.guerrero6710@company.com",
+    "phone": "+1 245-486-6722",
+    "ssn": "678 88 3604",
+    "dob": "8/19/1985",
+    "address": "4925 Spring Blvd",
+    "city": "Philadelphia",
+    "state": "DC"
+  }
+}

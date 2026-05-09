@@ -1,0 +1,9 @@
+contact:
+  name: Emily Gonzalez
+  email: emily.gonzalez4173@work.org
+  phone: (913) 335-2046
+  ssn: 016-43-8801
+  dob: 12-09-1992
+  address: 6531 Main Rd
+  city: Seattle
+  state: AZ

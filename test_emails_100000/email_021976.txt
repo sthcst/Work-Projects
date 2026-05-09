@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Perez",
+    "email": "katherine.perez1766@work.org",
+    "phone": "435 352 6733",
+    "ssn": "428-19-3068",
+    "dob": "01-20-1981",
+    "address": "6590 Oak Ln",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

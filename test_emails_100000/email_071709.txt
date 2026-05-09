@@ -1,0 +1,14 @@
+INVOICE 258945
+
+Bill To:
+Name: James Taylor
+Email: james.taylor2879@outlook.com
+Phone: (352) 766-3993
+SSN: 391 40 1882
+
+Address: 2740 Summer Blvd
+Boston, IL
+
+Date of Birth: 09/13/2002
+
+Amount Due: $1966

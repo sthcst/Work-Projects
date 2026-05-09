@@ -1,0 +1,9 @@
+contact:
+  name: Megan Wilson
+  email: megan.wilson7066@business.net
+  phone: 498 445 2366
+  ssn: 007-47-1372
+  dob: 12/6/1971
+  address: 3005 Second Way
+  city: Denver
+  state: NY

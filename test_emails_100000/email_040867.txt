@@ -1,0 +1,14 @@
+INVOICE 933826
+
+Bill To:
+Name: Nicholas Alvarado
+Email: nicholas.alvarado1642@work.org
+Phone: 718 357 7563
+SSN: 840-70-5567
+
+Address: 1593 Third Rd
+Seattle, TX
+
+Date of Birth: 9/11/1958
+
+Amount Due: $7233

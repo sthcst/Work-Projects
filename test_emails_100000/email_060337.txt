@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Robinson,kimberly.robinson7820@mail.com,(655) 714-8425,105627453,12/27/1951,"5811 Oak Rd",Phoenix,CO

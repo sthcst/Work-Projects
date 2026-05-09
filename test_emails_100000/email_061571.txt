@@ -1,0 +1,14 @@
+INVOICE 727437
+
+Bill To:
+Name: Nicole Edwards
+Email: nicole.edwards2954@company.com
+Phone: (893) 450-3906
+SSN: 779722163
+
+Address: 5847 Third Blvd
+New York, WA
+
+Date of Birth: 13/08/1998
+
+Amount Due: $9908

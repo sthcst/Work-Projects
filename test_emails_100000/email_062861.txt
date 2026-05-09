@@ -1,0 +1,14 @@
+INVOICE 945984
+
+Bill To:
+Name: Andrew Reed
+Email: andrew.reed5272@mail.com
+Phone: 329-718-7399
+SSN: 159197647
+
+Address: 3330 Fourth Ave
+Houston, TX
+
+Date of Birth: 27/05/2000
+
+Amount Due: $6788

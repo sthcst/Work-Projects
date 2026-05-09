@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Taylor,katherine.taylor2796@work.org,+1 502-356-5499,049 04 6913,12/5/1993,"8978 Sixth Court",Philadelphia,NC

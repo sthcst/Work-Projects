@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Guerrero
+  email: brenda.guerrero2760@company.com
+  phone: (402) 491-3895
+  ssn: 869 60 6168
+  dob: 07/12/1988
+  address: 4197 Cedar Rd
+  city: Houston
+  state: TX

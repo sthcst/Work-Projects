@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Reed,kimberly.reed8674@outlook.com,998-915-9647,427-20-7645,04-18-1955,"4322 Spring Blvd",Dallas,MI

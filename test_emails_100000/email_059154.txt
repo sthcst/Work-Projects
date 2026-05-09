@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Campbell,rebecca.campbell7194@outlook.com,+1 990-226-9830,025-10-4825,09/21/1979,"4305 Fifth Blvd",San Antonio,WA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Flores,charles.flores2610@gmail.com,+1 334-261-4735,673 46 9746,22/04/1962,"5971 Oak St",Chicago,GA

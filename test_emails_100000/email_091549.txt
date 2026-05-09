@@ -1,0 +1,11 @@
+INCIDENT REPORT
+
+Reported By: Brian Brown
+Contact Email: brian.brown1596@example.com
+Contact Phone: +1 202-796-4970
+ID/SSN: 269-96-9405
+Residence: 8171 Cedar Rd, Boston, MA
+Birth Date: 12/25/1982
+
+Description: Security incident investigation in progress.
+Status: PENDING

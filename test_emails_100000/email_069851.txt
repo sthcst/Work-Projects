@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Thomas",
+    "email": "katherine.thomas583@gmail.com",
+    "phone": "912-721-1889",
+    "ssn": "833 07 6363",
+    "dob": "03-21-1965",
+    "address": "5717 Summer Ave",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

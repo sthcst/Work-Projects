@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Nunez",
+    "email": "samantha.nunez7128@outlook.com",
+    "phone": "558-591-4825",
+    "ssn": "809-81-5807",
+    "dob": "06-23-2004",
+    "address": "4974 Fifth Blvd",
+    "city": "Philadelphia",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Garcia",
+    "email": "jason.garcia2530@company.com",
+    "phone": "(839) 801-3636",
+    "ssn": "758-20-4572",
+    "dob": "19/09/2003",
+    "address": "4176 Oak Way",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

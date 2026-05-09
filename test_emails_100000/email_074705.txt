@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Martin,stephanie.martin1817@outlook.com,(650) 906-5200,168-33-1382,03/11/1965,"3778 East Ave",Jacksonville,AZ

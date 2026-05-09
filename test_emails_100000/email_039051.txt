@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Gomez,christine.gomez2747@business.net,(330) 824-9445,292161888,28/11/1951,"9063 East Way",Denver,MA

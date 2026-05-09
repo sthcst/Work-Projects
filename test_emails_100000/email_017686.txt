@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Lee,richard.lee9992@work.org,(696) 863-6044,877 07 6540,6/14/1982,"2912 Cedar Rd",Los Angeles,WA

@@ -1,0 +1,14 @@
+INVOICE 634711
+
+Bill To:
+Name: Kevin Miller
+Email: kevin.miller5566@mail.com
+Phone: +1 657-318-8981
+SSN: 566-29-8455
+
+Address: 7828 First Ave
+Chicago, MA
+
+Date of Birth: 15/06/1969
+
+Amount Due: $5476

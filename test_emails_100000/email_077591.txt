@@ -1,0 +1,9 @@
+contact:
+  name: Jason Dominguez
+  email: jason.dominguez6910@mail.com
+  phone: +1 396-456-7995
+  ssn: 636-20-4971
+  dob: 05-01-1991
+  address: 5020 Elm St
+  city: Dallas
+  state: WA

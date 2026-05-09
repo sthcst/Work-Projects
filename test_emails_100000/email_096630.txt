@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Moore",
+    "email": "christopher.moore9145@company.com",
+    "phone": "(854) 924-9769",
+    "ssn": "329-07-5610",
+    "dob": "04-24-1992",
+    "address": "9971 Park Blvd",
+    "city": "San Diego",
+    "state": "MO"
+  }
+}

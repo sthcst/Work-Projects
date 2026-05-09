@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Taylor",
+    "email": "andrew.taylor2225@work.org",
+    "phone": "305-567-3535",
+    "ssn": "252 99 6327",
+    "dob": "10/05/1950",
+    "address": "9679 Birch Blvd",
+    "city": "New York",
+    "state": "DC"
+  }
+}

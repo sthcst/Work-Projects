@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Walker
+  email: rachel.walker2719@yahoo.com
+  phone: 402-331-4036
+  ssn: 536-73-8403
+  dob: 5/8/1988
+  address: 3786 South Rd
+  city: San Antonio
+  state: MA

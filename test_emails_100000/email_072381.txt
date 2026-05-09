@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Gonzalez",
+    "email": "john.gonzalez243@company.com",
+    "phone": "(771) 750-1449",
+    "ssn": "030-22-4501",
+    "dob": "09/11/1975",
+    "address": "7308 South Ave",
+    "city": "Washington",
+    "state": "MO"
+  }
+}

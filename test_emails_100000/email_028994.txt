@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Harris,emma.harris7114@company.com,681-981-3647,510 42 4529,10/15/1968,"8006 Summer Way",Denver,NC

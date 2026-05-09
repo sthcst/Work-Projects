@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Johnson,michael.johnson5935@business.net,396-844-1520,494 05 5592,8/13/1986,"7841 West Court",Jacksonville,WI

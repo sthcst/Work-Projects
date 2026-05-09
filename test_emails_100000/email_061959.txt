@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Stewart,amanda.stewart7207@outlook.com,781 485 7135,022 51 3949,4/23/1982,"669 Cedar Way",Jacksonville,TX

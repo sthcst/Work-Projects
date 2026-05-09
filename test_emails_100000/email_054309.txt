@@ -1,0 +1,14 @@
+INVOICE 990163
+
+Bill To:
+Name: Angela Collins
+Email: angela.collins6710@example.com
+Phone: 277-868-6321
+SSN: 220809210
+
+Address: 2722 Third Ln
+Los Angeles, NC
+
+Date of Birth: 04/27/2001
+
+Amount Due: $4851

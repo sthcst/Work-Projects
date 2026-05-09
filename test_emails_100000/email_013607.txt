@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Peterson",
+    "email": "christine.peterson8193@mail.com",
+    "phone": "(544) 722-6648",
+    "ssn": "040 39 7360",
+    "dob": "18/02/1990",
+    "address": "5777 Oak Dr",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 468229
+
+Bill To:
+Name: Jacob Perez
+Email: jacob.perez1501@example.com
+Phone: (763) 893-2031
+SSN: 876707112
+
+Address: 7820 Fourth Way
+Chicago, FL
+
+Date of Birth: 08-28-1958
+
+Amount Due: $2833

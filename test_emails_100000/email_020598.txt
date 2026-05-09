@@ -1,0 +1,9 @@
+contact:
+  name: George Smith
+  email: george.smith5403@company.com
+  phone: 478-754-6113
+  ssn: 605-89-7048
+  dob: 06/17/1969
+  address: 9866 Elm Dr
+  city: Chicago
+  state: AZ

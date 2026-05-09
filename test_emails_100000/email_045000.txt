@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Garcia,anthony.garcia9992@mail.com,(321) 479-3278,050-81-5908,2/22/1988,"3035 Maple Rd",San Antonio,CA

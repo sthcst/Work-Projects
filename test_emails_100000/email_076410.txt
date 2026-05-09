@@ -1,0 +1,14 @@
+INVOICE 530153
+
+Bill To:
+Name: Christopher Taylor
+Email: christopher.taylor3324@work.org
+Phone: 651 697 2239
+SSN: 176 81 4808
+
+Address: 8486 Oak Rd
+Boston, TX
+
+Date of Birth: 20/02/1976
+
+Amount Due: $3372

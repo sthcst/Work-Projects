@@ -1,0 +1,9 @@
+contact:
+  name: Angela Alvarado
+  email: angela.alvarado710@yahoo.com
+  phone: +1 619-655-8149
+  ssn: 415 62 5688
+  dob: 05-10-1953
+  address: 8390 Main St
+  city: Dallas
+  state: IL

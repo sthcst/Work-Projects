@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Collins",
+    "email": "michael.collins5162@outlook.com",
+    "phone": "+1 338-591-1990",
+    "ssn": "208711820",
+    "dob": "04/05/1996",
+    "address": "7245 East Way",
+    "city": "Chicago",
+    "state": "AZ"
+  }
+}

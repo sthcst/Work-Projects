@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Robinson",
+    "email": "edward.robinson5041@work.org",
+    "phone": "(774) 445-6872",
+    "ssn": "904 12 7698",
+    "dob": "04-21-1953",
+    "address": "3631 Maple Way",
+    "city": "Washington",
+    "state": "NY"
+  }
+}

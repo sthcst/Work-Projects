@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Reed
+  email: cynthia.reed4994@example.com
+  phone: 724 334 1638
+  ssn: 385 17 7837
+  dob: 01/12/1959
+  address: 3566 First Blvd
+  city: Denver
+  state: MA

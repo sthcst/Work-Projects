@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Thomas",
+    "email": "katherine.thomas8162@example.com",
+    "phone": "+1 579-405-8042",
+    "ssn": "225-11-8776",
+    "dob": "10-26-1963",
+    "address": "3939 Maple St",
+    "city": "Seattle",
+    "state": "NY"
+  }
+}

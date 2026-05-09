@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Collins",
+    "email": "jeffrey.collins7224@yahoo.com",
+    "phone": "(673) 850-9400",
+    "ssn": "532 95 8470",
+    "dob": "8/9/1956",
+    "address": "9453 Fifth St",
+    "city": "Boston",
+    "state": "WA"
+  }
+}

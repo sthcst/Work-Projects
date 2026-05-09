@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Stewart",
+    "email": "rebecca.stewart2891@business.net",
+    "phone": "527 527 7384",
+    "ssn": "958-60-8045",
+    "dob": "12/24/1950",
+    "address": "561 Sixth Ln",
+    "city": "San Jose",
+    "state": "PA"
+  }
+}

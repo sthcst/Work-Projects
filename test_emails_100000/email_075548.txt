@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Bell,christopher.bell7506@company.com,(910) 679-3297,792-23-4889,1/21/1977,"9874 Oak Dr",San Antonio,MO

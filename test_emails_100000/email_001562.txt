@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Johnson,kathleen.johnson1485@example.com,+1 325-523-8648,788-94-1212,01/03/1987,"582 First Ln",Austin,TX

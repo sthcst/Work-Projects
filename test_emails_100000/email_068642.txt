@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Perez,emily.perez502@example.com,(653) 961-7620,488-56-7250,16/11/1982,"9103 Oak St",San Jose,MI

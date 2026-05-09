@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Rodriguez",
+    "email": "samantha.rodriguez2807@yahoo.com",
+    "phone": "+1 806-724-4611",
+    "ssn": "435486125",
+    "dob": "2/12/1975",
+    "address": "7278 First Blvd",
+    "city": "Philadelphia",
+    "state": "WI"
+  }
+}

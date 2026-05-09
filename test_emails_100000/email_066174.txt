@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Campbell
+  email: samantha.campbell1302@business.net
+  phone: (345) 221-1935
+  ssn: 211-66-6247
+  dob: 05/12/1994
+  address: 8811 West Way
+  city: Boston
+  state: NC

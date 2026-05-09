@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Moore
+  email: deborah.moore8197@yahoo.com
+  phone: +1 357-695-3886
+  ssn: 283-99-4970
+  dob: 5/15/1978
+  address: 355 Spring Dr
+  city: San Jose
+  state: CA

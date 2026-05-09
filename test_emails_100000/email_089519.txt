@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Davis
+  email: lisa.davis7924@mail.com
+  phone: 601-471-1331
+  ssn: 046-19-1358
+  dob: 12/19/1991
+  address: 9636 Elm Court
+  city: Seattle
+  state: GA

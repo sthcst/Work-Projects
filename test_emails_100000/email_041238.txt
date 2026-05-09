@@ -1,0 +1,14 @@
+INVOICE 931173
+
+Bill To:
+Name: Andrew Davis
+Email: andrew.davis1777@example.com
+Phone: (360) 740-4492
+SSN: 444-68-6115
+
+Address: 5400 Cedar Ln
+Washington, CO
+
+Date of Birth: 10/13/1991
+
+Amount Due: $259

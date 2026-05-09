@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Stewart,james.stewart6008@work.org,973-729-9652,150 78 3660,3/17/1979,"1395 Fifth Ln",Houston,CA

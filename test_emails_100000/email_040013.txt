@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Lopez,jason.lopez8567@company.com,659-784-9086,744 58 8343,04/05/1962,"3254 Maple Court",Dallas,CA

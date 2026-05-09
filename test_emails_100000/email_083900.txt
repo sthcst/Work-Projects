@@ -1,0 +1,9 @@
+contact:
+  name: Mark Lee
+  email: mark.lee7927@yahoo.com
+  phone: +1 858-521-1213
+  ssn: 392-76-2518
+  dob: 7/12/2002
+  address: 8185 Fifth Blvd
+  city: New York
+  state: TN

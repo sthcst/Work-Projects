@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Stewart",
+    "email": "michelle.stewart3672@company.com",
+    "phone": "(817) 614-1740",
+    "ssn": "118289770",
+    "dob": "07-15-1985",
+    "address": "4157 Maple Ave",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

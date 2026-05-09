@@ -1,0 +1,9 @@
+contact:
+  name: George Nelson
+  email: george.nelson7502@business.net
+  phone: 612-656-4005
+  ssn: 117 40 7250
+  dob: 10-21-1953
+  address: 8435 Park Rd
+  city: San Diego
+  state: MA

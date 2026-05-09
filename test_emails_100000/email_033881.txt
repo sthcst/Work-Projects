@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Perez,kenneth.perez9392@example.com,674-646-1785,282 55 9667,7/2/1967,"1937 Fifth Dr",Austin,VA

@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Thomas
+  email: lisa.thomas7402@example.com
+  phone: (344) 605-6513
+  ssn: 752 30 9957
+  dob: 10/27/1968
+  address: 8651 Summer Blvd
+  city: Boston
+  state: NY

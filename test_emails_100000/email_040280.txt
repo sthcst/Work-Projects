@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Dominguez,pamela.dominguez933@outlook.com,+1 868-268-8058,185092798,11/4/1987,"5735 Spring Rd",Austin,TX

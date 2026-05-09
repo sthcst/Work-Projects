@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Dominguez",
+    "email": "kimberly.dominguez252@company.com",
+    "phone": "(286) 629-1283",
+    "ssn": "487 08 9622",
+    "dob": "09/24/2000",
+    "address": "8257 Maple Blvd",
+    "city": "Boston",
+    "state": "PA"
+  }
+}

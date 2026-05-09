@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Martin
+  email: nicole.martin5750@yahoo.com
+  phone: 418-435-4252
+  ssn: 629294534
+  dob: 04/21/1961
+  address: 7162 Maple Dr
+  city: New York
+  state: FL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Collins",
+    "email": "christine.collins85@outlook.com",
+    "phone": "+1 555-518-2943",
+    "ssn": "669-21-8711",
+    "dob": "02/10/1979",
+    "address": "2551 Second Ln",
+    "city": "New York",
+    "state": "FL"
+  }
+}

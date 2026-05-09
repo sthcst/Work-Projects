@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Guerrero
+  email: nicole.guerrero5918@example.com
+  phone: 681-663-7380
+  ssn: 761-90-5564
+  dob: 10/2/1984
+  address: 9934 West Dr
+  city: Los Angeles
+  state: OH

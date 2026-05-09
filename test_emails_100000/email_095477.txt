@@ -1,0 +1,14 @@
+INVOICE 886993
+
+Bill To:
+Name: Jessica Lee
+Email: jessica.lee2242@company.com
+Phone: (931) 739-3828
+SSN: 964 45 2282
+
+Address: 1103 Fifth St
+Houston, MI
+
+Date of Birth: 9/26/1966
+
+Amount Due: $8983

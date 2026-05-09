@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Murillo",
+    "email": "emily.murillo2816@work.org",
+    "phone": "806-612-8683",
+    "ssn": "598333021",
+    "dob": "9/24/1954",
+    "address": "9976 Pine Ln",
+    "city": "Austin",
+    "state": "TN"
+  }
+}

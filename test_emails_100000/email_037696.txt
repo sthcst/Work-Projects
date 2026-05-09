@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Serrano,daniel.serrano998@example.com,366-986-5583,081-25-3598,05/22/1988,"3829 Maple Way",Denver,IL

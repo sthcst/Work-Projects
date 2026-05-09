@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Thomas,andrew.thomas9167@work.org,845-532-8529,095-44-9356,26/06/2004,"2631 Birch St",New York,AZ

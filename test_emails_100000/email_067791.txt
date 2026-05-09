@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Cooper
+  email: katherine.cooper3554@company.com
+  phone: 587 398 6593
+  ssn: 624 03 9854
+  dob: 28/01/1966
+  address: 9091 Oak Ave
+  city: Los Angeles
+  state: AZ

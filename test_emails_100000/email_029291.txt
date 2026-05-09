@@ -1,0 +1,14 @@
+INVOICE 961268
+
+Bill To:
+Name: Angela Sanchez
+Email: angela.sanchez9189@mail.com
+Phone: 654 794 3785
+SSN: 922-96-9261
+
+Address: 5701 West Blvd
+Austin, TX
+
+Date of Birth: 03-09-1993
+
+Amount Due: $202

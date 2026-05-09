@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Brown",
+    "email": "robert.brown430@example.com",
+    "phone": "+1 688-845-3172",
+    "ssn": "498 27 6667",
+    "dob": "01/22/1994",
+    "address": "744 West Blvd",
+    "city": "San Jose",
+    "state": "GA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Carter
+  email: nicole.carter58@gmail.com
+  phone: (751) 754-2653
+  ssn: 253845910
+  dob: 4/2/1966
+  address: 5779 First Way
+  city: Jacksonville
+  state: MD

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Martinez,stephanie.martinez9620@mail.com,479 513 7095,872325832,10/09/1983,"608 Sixth Rd",San Diego,TN

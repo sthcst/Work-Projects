@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Perez
+  email: ryan.perez9285@business.net
+  phone: 814 574 1421
+  ssn: 191 11 5842
+  dob: 10-10-1995
+  address: 6983 Birch Dr
+  city: New York
+  state: NJ

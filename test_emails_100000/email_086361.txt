@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Thomas",
+    "email": "daniel.thomas3458@yahoo.com",
+    "phone": "916 809 5070",
+    "ssn": "322152809",
+    "dob": "08-21-1972",
+    "address": "2090 South Ave",
+    "city": "Washington",
+    "state": "MA"
+  }
+}

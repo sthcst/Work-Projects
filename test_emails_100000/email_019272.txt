@@ -1,0 +1,9 @@
+contact:
+  name: Emily Harris
+  email: emily.harris626@outlook.com
+  phone: (734) 740-2725
+  ssn: 283-46-5935
+  dob: 06/03/1996
+  address: 1389 Park Blvd
+  city: Boston
+  state: TX

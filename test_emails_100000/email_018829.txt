@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Young",
+    "email": "brenda.young4557@yahoo.com",
+    "phone": "789-299-9795",
+    "ssn": "892-38-1887",
+    "dob": "2/20/1979",
+    "address": "8165 Summer Way",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

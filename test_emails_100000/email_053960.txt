@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Ortiz",
+    "email": "maria.ortiz4124@gmail.com",
+    "phone": "632 485 2249",
+    "ssn": "200 52 4888",
+    "dob": "01/14/1976",
+    "address": "4071 Oak Way",
+    "city": "Chicago",
+    "state": "PA"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 495409
+
+Bill To:
+Name: Ryan Gonzalez
+Email: ryan.gonzalez8748@mail.com
+Phone: 734-581-9244
+SSN: 488864432
+
+Address: 6792 South Blvd
+Houston, CA
+
+Date of Birth: 23/04/2005
+
+Amount Due: $8692

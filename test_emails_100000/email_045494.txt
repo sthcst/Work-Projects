@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Thomas",
+    "email": "david.thomas5536@outlook.com",
+    "phone": "629 846 9618",
+    "ssn": "053134468",
+    "dob": "03-24-2005",
+    "address": "1470 Summer Way",
+    "city": "Philadelphia",
+    "state": "MA"
+  }
+}

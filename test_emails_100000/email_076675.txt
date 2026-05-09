@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Hall,michelle.hall1306@example.com,900 326 1533,537472882,12/10/1977,"9886 Summer Blvd",Denver,CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Carter",
+    "email": "michelle.carter4119@work.org",
+    "phone": "307 340 7286",
+    "ssn": "840-85-4319",
+    "dob": "04-19-1954",
+    "address": "4597 Third St",
+    "city": "Philadelphia",
+    "state": "IL"
+  }
+}

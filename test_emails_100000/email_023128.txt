@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Smith
+  email: shirley.smith2818@gmail.com
+  phone: (236) 915-5246
+  ssn: 092-85-9286
+  dob: 02/09/1966
+  address: 8530 Third Court
+  city: Austin
+  state: GA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Smith",
+    "email": "nicholas.smith856@yahoo.com",
+    "phone": "+1 725-468-2267",
+    "ssn": "429 97 7583",
+    "dob": "10/25/2001",
+    "address": "9441 Pine Rd",
+    "city": "Jacksonville",
+    "state": "NY"
+  }
+}

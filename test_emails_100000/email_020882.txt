@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Clark,brian.clark4337@yahoo.com,(476) 906-7458,069 47 4294,02-02-1992,"9052 South Blvd",Boston,MO

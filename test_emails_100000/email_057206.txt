@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Jones",
+    "email": "sarah.jones9945@example.com",
+    "phone": "(238) 962-3866",
+    "ssn": "206-36-4853",
+    "dob": "08-25-1968",
+    "address": "7551 Park St",
+    "city": "Dallas",
+    "state": "WI"
+  }
+}

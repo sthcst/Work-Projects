@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Dominguez,brenda.dominguez6957@company.com,(536) 854-3201,821 72 3886,06/09/1999,"6465 Cedar Blvd",Seattle,AZ

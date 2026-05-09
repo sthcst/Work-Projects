@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Thompson,jason.thompson3502@gmail.com,+1 606-774-1747,898175068,07-09-2000,"7460 Pine Dr",San Jose,NY

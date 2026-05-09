@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Walker,nicole.walker838@gmail.com,202-916-3779,546046388,09/19/1955,"4689 South Way",Houston,IL

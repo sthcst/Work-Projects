@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Jackson,daniel.jackson9055@work.org,221-492-9954,349-51-3312,08-12-2001,"805 Maple Court",Chicago,MA

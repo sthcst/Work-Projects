@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Anderson
+  email: anthony.anderson2684@company.com
+  phone: 679-801-9348
+  ssn: 330 69 8148
+  dob: 15/12/1970
+  address: 7556 Oak Way
+  city: Jacksonville
+  state: NJ

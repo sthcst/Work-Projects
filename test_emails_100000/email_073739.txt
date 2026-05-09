@@ -1,0 +1,9 @@
+contact:
+  name: Gary Sanchez
+  email: gary.sanchez8812@company.com
+  phone: +1 776-707-3312
+  ssn: 128 33 6402
+  dob: 06/08/1964
+  address: 8278 Maple Ln
+  city: Dallas
+  state: VA

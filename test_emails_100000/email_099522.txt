@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Gomez
+  email: nicole.gomez2517@company.com
+  phone: +1 544-225-5066
+  ssn: 041 32 9301
+  dob: 12/17/1975
+  address: 4128 Birch Dr
+  city: Seattle
+  state: MI

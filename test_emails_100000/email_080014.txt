@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Phillips,jeffrey.phillips4082@outlook.com,(975) 968-4848,329 63 3803,01/09/1983,"6736 First Way",Los Angeles,AZ

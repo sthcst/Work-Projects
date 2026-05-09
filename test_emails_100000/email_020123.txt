@@ -1,0 +1,14 @@
+INVOICE 709352
+
+Bill To:
+Name: David Johnson
+Email: david.johnson8514@outlook.com
+Phone: 309-874-8220
+SSN: 720144394
+
+Address: 7684 Elm Rd
+Los Angeles, NJ
+
+Date of Birth: 7/20/1979
+
+Amount Due: $4105

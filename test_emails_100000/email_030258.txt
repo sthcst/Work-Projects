@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Jimenez",
+    "email": "charles.jimenez3231@yahoo.com",
+    "phone": "252 807 6536",
+    "ssn": "152-49-4902",
+    "dob": "4/14/1972",
+    "address": "8650 Fourth Way",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

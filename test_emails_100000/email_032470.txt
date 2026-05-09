@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Collins",
+    "email": "mark.collins1465@gmail.com",
+    "phone": "+1 714-692-6998",
+    "ssn": "303 67 2031",
+    "dob": "12/6/1969",
+    "address": "6379 Fifth Ln",
+    "city": "Washington",
+    "state": "WI"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Sanchez
+  email: kimberly.sanchez1093@yahoo.com
+  phone: +1 437-328-3724
+  ssn: 204-51-6339
+  dob: 10-07-1992
+  address: 9374 Cedar Dr
+  city: Chicago
+  state: TX

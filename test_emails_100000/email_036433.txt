@@ -1,0 +1,9 @@
+contact:
+  name: David Lee
+  email: david.lee264@mail.com
+  phone: (209) 811-8760
+  ssn: 700-10-6650
+  dob: 07-10-1997
+  address: 2257 Summer Way
+  city: Jacksonville
+  state: WA

@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Robinson
+  email: shirley.robinson2411@business.net
+  phone: 437-801-8932
+  ssn: 047228987
+  dob: 04/12/1956
+  address: 8967 Main Dr
+  city: New York
+  state: MD

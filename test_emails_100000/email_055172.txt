@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Thomas",
+    "email": "nicole.thomas2800@yahoo.com",
+    "phone": "(668) 378-3535",
+    "ssn": "211712560",
+    "dob": "7/2/2004",
+    "address": "7109 Maple St",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

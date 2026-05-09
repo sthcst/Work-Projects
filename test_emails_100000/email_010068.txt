@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Delgado,anthony.delgado3710@gmail.com,+1 308-652-8899,153 59 1521,04-07-2000,"5909 Summer Court",Washington,WA

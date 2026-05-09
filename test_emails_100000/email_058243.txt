@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Morris
+  email: jennifer.morris3721@business.net
+  phone: (393) 354-5744
+  ssn: 348 94 4665
+  dob: 05-09-2002
+  address: 7810 Third Blvd
+  city: Boston
+  state: CA

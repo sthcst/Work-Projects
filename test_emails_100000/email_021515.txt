@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Dominguez,steven.dominguez1999@outlook.com,+1 529-861-9793,644 23 4509,09-11-1956,"2186 Summer Blvd",Denver,VA

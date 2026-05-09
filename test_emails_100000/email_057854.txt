@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Stewart",
+    "email": "timothy.stewart8520@work.org",
+    "phone": "915 359 4788",
+    "ssn": "539-96-4211",
+    "dob": "3/16/1971",
+    "address": "2803 East Dr",
+    "city": "Los Angeles",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Miller,joshua.miller202@company.com,830 865 8338,769958279,04/09/2002,"8146 Main Way",New York,CA

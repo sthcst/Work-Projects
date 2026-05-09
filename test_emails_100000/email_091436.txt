@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Collins",
+    "email": "anthony.collins2355@business.net",
+    "phone": "+1 213-879-2928",
+    "ssn": "704 90 6333",
+    "dob": "03-17-1979",
+    "address": "9629 Elm Blvd",
+    "city": "Houston",
+    "state": "AZ"
+  }
+}

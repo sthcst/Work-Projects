@@ -1,0 +1,9 @@
+contact:
+  name: George Johnson
+  email: george.johnson9336@outlook.com
+  phone: (972) 266-4006
+  ssn: 335 62 5160
+  dob: 1/10/1971
+  address: 4144 Third Ave
+  city: Phoenix
+  state: NJ

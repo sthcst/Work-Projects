@@ -1,0 +1,14 @@
+INVOICE 990718
+
+Bill To:
+Name: Nicholas Reyes
+Email: nicholas.reyes7857@business.net
+Phone: 211 977 8266
+SSN: 790-62-9242
+
+Address: 9996 Park Court
+Chicago, CA
+
+Date of Birth: 19/12/1985
+
+Amount Due: $3927

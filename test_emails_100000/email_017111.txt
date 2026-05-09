@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Hernandez
+  email: ashley.hernandez5340@gmail.com
+  phone: 611 778 2767
+  ssn: 833 55 4342
+  dob: 01/03/1980
+  address: 9544 Spring Blvd
+  city: Philadelphia
+  state: MA

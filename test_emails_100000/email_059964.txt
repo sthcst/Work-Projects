@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Serrano",
+    "email": "sarah.serrano2055@mail.com",
+    "phone": "454-627-1013",
+    "ssn": "224-89-9895",
+    "dob": "6/7/1983",
+    "address": "1621 Main Ln",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

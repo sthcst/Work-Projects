@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Phillips,donald.phillips5966@yahoo.com,+1 806-806-9521,680 85 1208,9/12/1951,"9159 Cedar Rd",Los Angeles,MD

@@ -1,0 +1,14 @@
+INVOICE 425672
+
+Bill To:
+Name: George Harris
+Email: george.harris3561@company.com
+Phone: 310-325-8418
+SSN: 270 72 9923
+
+Address: 1229 East Blvd
+Philadelphia, MO
+
+Date of Birth: 8/1/1956
+
+Amount Due: $5870

@@ -1,0 +1,14 @@
+INVOICE 251099
+
+Bill To:
+Name: Nicholas Miller
+Email: nicholas.miller8573@mail.com
+Phone: 294-255-9949
+SSN: 630555588
+
+Address: 3649 Spring Ln
+Seattle, WA
+
+Date of Birth: 4/16/1966
+
+Amount Due: $3643

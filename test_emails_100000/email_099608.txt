@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Johnson",
+    "email": "cynthia.johnson6114@example.com",
+    "phone": "759 870 5983",
+    "ssn": "700 61 2460",
+    "dob": "9/6/1973",
+    "address": "5987 Oak Way",
+    "city": "New York",
+    "state": "MA"
+  }
+}

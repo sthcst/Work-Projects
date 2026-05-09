@@ -1,0 +1,9 @@
+contact:
+  name: Anna Guerrero
+  email: anna.guerrero3896@business.net
+  phone: (652) 951-9545
+  ssn: 614662319
+  dob: 2/14/1982
+  address: 9065 Spring Way
+  city: Boston
+  state: CA

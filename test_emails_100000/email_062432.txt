@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Nunez",
+    "email": "lauren.nunez3328@outlook.com",
+    "phone": "719 799 3851",
+    "ssn": "591 89 9076",
+    "dob": "04/07/1978",
+    "address": "2092 Fourth St",
+    "city": "Austin",
+    "state": "WA"
+  }
+}

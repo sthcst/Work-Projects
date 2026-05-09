@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Jones,gary.jones1634@company.com,+1 990-446-2232,446442658,07-05-1984,"5639 North Ave",Phoenix,CO

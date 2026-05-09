@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Moore",
+    "email": "rachel.moore5992@yahoo.com",
+    "phone": "(859) 420-5574",
+    "ssn": "518 74 4235",
+    "dob": "03/02/1974",
+    "address": "174 North St",
+    "city": "Washington",
+    "state": "NC"
+  }
+}

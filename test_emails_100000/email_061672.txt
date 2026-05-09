@@ -1,0 +1,14 @@
+INVOICE 320218
+
+Bill To:
+Name: Andrew Anderson
+Email: andrew.anderson5684@business.net
+Phone: 563 409 2866
+SSN: 871-78-4016
+
+Address: 7545 East Ave
+Austin, IL
+
+Date of Birth: 23/06/1951
+
+Amount Due: $5339

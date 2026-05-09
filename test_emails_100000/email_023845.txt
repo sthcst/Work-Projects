@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Davis,george.davis91@company.com,+1 674-771-9407,665-08-1732,04/23/1987,"9326 Main Ave",Dallas,CA

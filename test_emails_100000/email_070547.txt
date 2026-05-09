@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Romero,jessica.romero6387@work.org,(897) 323-7594,995 43 3104,22/08/1999,"2032 Fourth Rd",Washington,MO

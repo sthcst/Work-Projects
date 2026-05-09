@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Johnson
+  email: daniel.johnson654@example.com
+  phone: +1 773-986-6804
+  ssn: 415394283
+  dob: 05/19/1984
+  address: 1655 East Dr
+  city: Houston
+  state: TX

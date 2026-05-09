@@ -1,0 +1,14 @@
+INVOICE 630902
+
+Bill To:
+Name: Charles Collins
+Email: charles.collins1816@mail.com
+Phone: (546) 725-1590
+SSN: 809 41 4404
+
+Address: 786 East Rd
+Seattle, MO
+
+Date of Birth: 3/25/1979
+
+Amount Due: $6243

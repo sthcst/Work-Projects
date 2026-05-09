@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Young
+  email: rebecca.young1207@mail.com
+  phone: +1 840-892-3641
+  ssn: 204-53-2520
+  dob: 24/10/1967
+  address: 2471 Fifth St
+  city: Dallas
+  state: DC

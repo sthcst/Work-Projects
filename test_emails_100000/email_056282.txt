@@ -1,0 +1,9 @@
+contact:
+  name: David Smith
+  email: david.smith8117@mail.com
+  phone: 902 654 9596
+  ssn: 926 66 2236
+  dob: 10/10/1953
+  address: 8864 First Rd
+  city: San Diego
+  state: OH

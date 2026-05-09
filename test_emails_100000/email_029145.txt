@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth White,kenneth.white5482@outlook.com,(310) 256-5451,628-24-3081,06/11/1974,"9427 Fifth Blvd",San Jose,CO

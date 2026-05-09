@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Robinson
+  email: christopher.robinson2437@outlook.com
+  phone: (344) 774-6686
+  ssn: 276455538
+  dob: 08/28/1961
+  address: 2026 Oak Dr
+  city: Washington
+  state: GA

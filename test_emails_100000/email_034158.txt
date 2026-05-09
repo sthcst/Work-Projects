@@ -1,0 +1,9 @@
+contact:
+  name: Steven Stewart
+  email: steven.stewart9581@work.org
+  phone: +1 385-521-9910
+  ssn: 591 05 9394
+  dob: 11/17/2002
+  address: 3481 North Court
+  city: Los Angeles
+  state: TN

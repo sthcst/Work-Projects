@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Miller,richard.miller8921@example.com,(698) 825-6971,503-76-8715,17/02/1996,"7461 East Rd",New York,IL

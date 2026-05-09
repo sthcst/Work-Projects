@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Hall,megan.hall3001@gmail.com,268 996 1589,216-44-4276,10/28/1977,"2658 Sixth Court",Chicago,NC

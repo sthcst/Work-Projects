@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Gomez",
+    "email": "rebecca.gomez2950@outlook.com",
+    "phone": "603 898 7579",
+    "ssn": "535 61 1581",
+    "dob": "08-01-2001",
+    "address": "6517 Summer Dr",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

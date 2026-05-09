@@ -1,0 +1,14 @@
+INVOICE 500585
+
+Bill To:
+Name: Lisa Smith
+Email: lisa.smith8151@gmail.com
+Phone: (371) 617-8252
+SSN: 137062466
+
+Address: 1962 Spring Blvd
+Austin, CO
+
+Date of Birth: 22/04/1956
+
+Amount Due: $153

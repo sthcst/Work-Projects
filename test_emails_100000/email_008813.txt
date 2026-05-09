@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Carter",
+    "email": "nicole.carter9962@example.com",
+    "phone": "(292) 486-1989",
+    "ssn": "685 88 2787",
+    "dob": "09-05-1998",
+    "address": "5666 Summer Ln",
+    "city": "New York",
+    "state": "MA"
+  }
+}

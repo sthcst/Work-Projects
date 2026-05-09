@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Serrano",
+    "email": "jason.serrano7176@company.com",
+    "phone": "+1 299-300-1486",
+    "ssn": "797-14-2877",
+    "dob": "02/10/1980",
+    "address": "7124 Spring Rd",
+    "city": "San Diego",
+    "state": "NJ"
+  }
+}

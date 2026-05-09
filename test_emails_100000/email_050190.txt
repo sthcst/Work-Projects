@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Garcia,daniel.garcia9168@business.net,(752) 269-2392,290 46 2947,26/01/1984,"8147 Birch Ave",Jacksonville,CA

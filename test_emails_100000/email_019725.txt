@@ -1,0 +1,14 @@
+INVOICE 990607
+
+Bill To:
+Name: John Jimenez
+Email: john.jimenez9204@yahoo.com
+Phone: 641-953-3854
+SSN: 125698745
+
+Address: 1495 Sixth Rd
+Denver, AZ
+
+Date of Birth: 06-07-1994
+
+Amount Due: $1401

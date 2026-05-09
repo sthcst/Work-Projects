@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Lewis
+  email: ronald.lewis4357@mail.com
+  phone: (303) 620-8782
+  ssn: 723-78-9678
+  dob: 21/06/1978
+  address: 8230 Spring Blvd
+  city: New York
+  state: MI

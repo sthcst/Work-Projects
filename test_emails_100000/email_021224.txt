@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Brown,rebecca.brown7714@business.net,391-924-5141,401-26-3450,09-28-2000,"8265 Main Way",San Diego,TX

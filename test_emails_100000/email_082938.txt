@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Thompson,katherine.thompson9680@outlook.com,294 475 4037,976302475,28/11/1985,"7359 Second Ave",Jacksonville,CA

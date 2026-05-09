@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Reed,emily.reed7964@business.net,+1 594-634-5718,523 69 3902,12-23-1960,"3177 Third Dr",San Diego,DC

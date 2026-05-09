@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Rodriguez
+  email: jessica.rodriguez7611@yahoo.com
+  phone: (243) 754-2797
+  ssn: 616321513
+  dob: 07/21/1969
+  address: 4388 West Dr
+  city: Denver
+  state: CA

@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Ramirez
+  email: jessica.ramirez6037@business.net
+  phone: +1 489-287-2409
+  ssn: 550-29-5144
+  dob: 12-18-1979
+  address: 9960 Main Court
+  city: New York
+  state: PA

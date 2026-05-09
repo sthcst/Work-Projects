@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Reed",
+    "email": "michelle.reed2554@example.com",
+    "phone": "(353) 691-5832",
+    "ssn": "121-05-6373",
+    "dob": "04-16-2003",
+    "address": "6389 Summer Blvd",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

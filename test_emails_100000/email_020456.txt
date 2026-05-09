@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Rodriguez",
+    "email": "kenneth.rodriguez9632@yahoo.com",
+    "phone": "448 457 5042",
+    "ssn": "745 05 7310",
+    "dob": "10/14/1987",
+    "address": "5021 North St",
+    "city": "Jacksonville",
+    "state": "DC"
+  }
+}

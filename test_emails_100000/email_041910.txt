@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Guerrero
+  email: stephanie.guerrero3136@outlook.com
+  phone: +1 569-687-9032
+  ssn: 794573467
+  dob: 06-21-1987
+  address: 2850 Pine Blvd
+  city: Jacksonville
+  state: TX

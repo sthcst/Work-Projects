@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Delgado,jason.delgado5595@business.net,(217) 856-1482,704138302,25/01/2001,"269 Maple Court",San Diego,NC

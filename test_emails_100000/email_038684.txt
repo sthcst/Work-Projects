@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Collins",
+    "email": "katherine.collins7832@outlook.com",
+    "phone": "987 489 5474",
+    "ssn": "647 79 4091",
+    "dob": "02/03/1980",
+    "address": "3939 Birch Blvd",
+    "city": "Los Angeles",
+    "state": "MO"
+  }
+}

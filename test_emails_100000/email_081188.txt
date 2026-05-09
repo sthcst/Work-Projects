@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Moore,lisa.moore159@business.net,693 878 2502,510-25-1661,18/06/1997,"1313 Fifth Way",Denver,PA

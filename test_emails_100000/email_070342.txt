@@ -1,0 +1,9 @@
+contact:
+  name: Paul Moore
+  email: paul.moore2153@example.com
+  phone: +1 612-672-1503
+  ssn: 163842382
+  dob: 1/6/1958
+  address: 8291 Maple Ave
+  city: Philadelphia
+  state: NY

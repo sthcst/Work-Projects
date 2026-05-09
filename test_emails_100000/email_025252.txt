@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Flores,paul.flores786@company.com,(238) 499-1236,560-83-4624,03-06-1968,"3987 Maple St",Chicago,WI

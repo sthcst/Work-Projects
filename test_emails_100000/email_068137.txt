@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Taylor
+  email: pamela.taylor6698@outlook.com
+  phone: 680 845 7000
+  ssn: 755582339
+  dob: 03-18-1962
+  address: 3928 East Ave
+  city: San Jose
+  state: FL

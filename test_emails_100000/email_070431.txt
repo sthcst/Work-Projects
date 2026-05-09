@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Williams
+  email: samantha.williams4457@yahoo.com
+  phone: 389-373-2764
+  ssn: 012 23 8012
+  dob: 24/02/1963
+  address: 3006 North Rd
+  city: Boston
+  state: MD

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Jones,steven.jones9068@company.com,+1 404-392-9966,549-10-9694,10/19/1983,"5197 Cedar Ave",San Jose,AZ

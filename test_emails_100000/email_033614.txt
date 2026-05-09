@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Rodriguez",
+    "email": "andrew.rodriguez2977@mail.com",
+    "phone": "+1 682-743-7311",
+    "ssn": "848-48-5665",
+    "dob": "04/01/1967",
+    "address": "6348 Birch Rd",
+    "city": "Austin",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Flores",
+    "email": "lauren.flores4558@yahoo.com",
+    "phone": "242-403-3442",
+    "ssn": "930-58-5357",
+    "dob": "25/04/1952",
+    "address": "1116 Third Rd",
+    "city": "Philadelphia",
+    "state": "MO"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Nunez,megan.nunez537@example.com,444-973-1187,861-53-4746,05-27-1984,"9732 Fifth Blvd",Chicago,TN

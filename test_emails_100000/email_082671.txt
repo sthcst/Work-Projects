@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Garcia,christopher.garcia1859@mail.com,308-404-7816,067 32 4827,02/12/1963,"8406 Fourth Ln",San Diego,FL

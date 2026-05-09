@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Cooper,samantha.cooper8032@outlook.com,262-960-7239,879651464,08-12-1971,"1013 Pine Dr",Phoenix,IL

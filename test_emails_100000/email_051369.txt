@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Peterson,christine.peterson830@yahoo.com,(919) 918-1027,852 72 1707,07/21/1956,"7002 Spring Ave",Chicago,MA

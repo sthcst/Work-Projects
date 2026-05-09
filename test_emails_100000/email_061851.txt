@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Wilson,charles.wilson1063@company.com,(526) 277-2412,791 82 8021,10-25-1990,"7719 Cedar Way",San Diego,WA

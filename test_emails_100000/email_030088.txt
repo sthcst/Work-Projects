@@ -1,0 +1,9 @@
+contact:
+  name: William Serrano
+  email: william.serrano6956@outlook.com
+  phone: +1 498-996-7105
+  ssn: 126621906
+  dob: 03-20-1950
+  address: 2563 Cedar Court
+  city: Los Angeles
+  state: CA

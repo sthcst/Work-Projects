@@ -1,0 +1,9 @@
+contact:
+  name: Paul Sanchez
+  email: paul.sanchez560@example.com
+  phone: 688-205-9372
+  ssn: 603218099
+  dob: 9/3/1966
+  address: 8714 Third Rd
+  city: Chicago
+  state: MI

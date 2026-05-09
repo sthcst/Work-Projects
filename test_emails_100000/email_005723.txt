@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Stewart,brian.stewart3470@company.com,+1 594-667-3845,454929388,02-13-1989,"231 Main St",San Diego,MI

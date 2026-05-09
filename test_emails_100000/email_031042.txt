@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Thompson",
+    "email": "ronald.thompson536@yahoo.com",
+    "phone": "901-532-1380",
+    "ssn": "388-93-4902",
+    "dob": "03/28/1966",
+    "address": "9039 Birch Ln",
+    "city": "San Antonio",
+    "state": "CA"
+  }
+}

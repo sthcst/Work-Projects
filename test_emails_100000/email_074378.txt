@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Garcia
+  email: michelle.garcia6906@example.com
+  phone: 321 781 4999
+  ssn: 220-85-3442
+  dob: 10/15/2005
+  address: 5830 Second Blvd
+  city: Jacksonville
+  state: MA

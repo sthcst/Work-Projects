@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Clark,ashley.clark1342@yahoo.com,380-257-6958,934307093,02/25/1953,"4260 Oak Ave",Washington,CA

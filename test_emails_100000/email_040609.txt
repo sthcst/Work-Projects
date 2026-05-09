@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Lee",
+    "email": "joseph.lee7205@example.com",
+    "phone": "263 248 7315",
+    "ssn": "792 94 4293",
+    "dob": "1/9/1991",
+    "address": "6259 Fourth Way",
+    "city": "San Jose",
+    "state": "FL"
+  }
+}

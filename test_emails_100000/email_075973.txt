@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Lewis",
+    "email": "kenneth.lewis3759@yahoo.com",
+    "phone": "567-490-3524",
+    "ssn": "650518837",
+    "dob": "17/01/1966",
+    "address": "5416 Elm Rd",
+    "city": "Chicago",
+    "state": "NY"
+  }
+}

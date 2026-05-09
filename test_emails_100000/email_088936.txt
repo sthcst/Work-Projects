@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Dominguez",
+    "email": "brian.dominguez9234@work.org",
+    "phone": "434-429-9021",
+    "ssn": "209 54 3304",
+    "dob": "06/19/2003",
+    "address": "7856 Elm Ln",
+    "city": "Phoenix",
+    "state": "GA"
+  }
+}

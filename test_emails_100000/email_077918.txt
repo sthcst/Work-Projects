@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Brown,paul.brown6208@example.com,(572) 736-8556,985 52 4954,4/7/1971,"335 Elm Ave",Los Angeles,WA

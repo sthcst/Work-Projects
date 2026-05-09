@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Sanchez,anthony.sanchez5302@mail.com,+1 897-816-8727,882 01 9040,11-24-1966,"3403 Spring Ln",Houston,VA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Rodriguez",
+    "email": "donald.rodriguez2158@outlook.com",
+    "phone": "+1 728-825-4605",
+    "ssn": "731-83-8813",
+    "dob": "28/06/1974",
+    "address": "5538 Birch Court",
+    "city": "Dallas",
+    "state": "CO"
+  }
+}

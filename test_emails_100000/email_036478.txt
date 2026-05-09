@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Walker",
+    "email": "jeffrey.walker742@work.org",
+    "phone": "271 469 4984",
+    "ssn": "327 50 3460",
+    "dob": "08/15/1972",
+    "address": "3415 South Rd",
+    "city": "Chicago",
+    "state": "PA"
+  }
+}

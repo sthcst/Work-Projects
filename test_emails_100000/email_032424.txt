@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Dominguez",
+    "email": "edward.dominguez8742@business.net",
+    "phone": "(798) 420-2195",
+    "ssn": "141-08-7631",
+    "dob": "4/5/1966",
+    "address": "3767 Second Court",
+    "city": "Jacksonville",
+    "state": "PA"
+  }
+}

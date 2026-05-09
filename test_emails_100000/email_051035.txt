@@ -1,0 +1,9 @@
+contact:
+  name: Angela Murillo
+  email: angela.murillo7046@mail.com
+  phone: (498) 841-1203
+  ssn: 846125254
+  dob: 11-21-2004
+  address: 5686 East Dr
+  city: Washington
+  state: WA

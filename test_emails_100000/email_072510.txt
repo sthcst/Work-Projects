@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Matthew Guerrero,matthew.guerrero757@company.com,(969) 867-9310,150457468,12-21-2001,"8235 Birch Ln",Los Angeles,TX

@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Gomez
+  email: kimberly.gomez5133@work.org
+  phone: (980) 331-7662
+  ssn: 754695939
+  dob: 11/14/1982
+  address: 4082 Oak St
+  city: Dallas
+  state: DC

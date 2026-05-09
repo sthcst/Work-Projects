@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Robinson
+  email: sarah.robinson5259@company.com
+  phone: (970) 908-6984
+  ssn: 459 52 8226
+  dob: 3/28/1980
+  address: 7827 Elm Way
+  city: Chicago
+  state: VA

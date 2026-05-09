@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Hall,angela.hall2814@yahoo.com,868 919 7436,956271049,10/24/1974,"9446 Fifth Blvd",Denver,TX

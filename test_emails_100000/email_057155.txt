@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Taylor
+  email: kathleen.taylor6613@company.com
+  phone: (300) 623-2123
+  ssn: 887218989
+  dob: 07/12/1999
+  address: 8472 East Ln
+  city: San Diego
+  state: TX

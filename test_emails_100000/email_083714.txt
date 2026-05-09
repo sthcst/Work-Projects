@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Moore
+  email: christopher.moore2600@company.com
+  phone: (224) 432-4363
+  ssn: 490-81-2960
+  dob: 05-10-2003
+  address: 7563 South St
+  city: Jacksonville
+  state: VA

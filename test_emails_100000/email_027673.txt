@@ -1,0 +1,14 @@
+INVOICE 319722
+
+Bill To:
+Name: Mark Clark
+Email: mark.clark8025@example.com
+Phone: 836 402 1113
+SSN: 896-71-2468
+
+Address: 6342 East Rd
+Austin, MA
+
+Date of Birth: 11/13/1979
+
+Amount Due: $8831

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Gomez",
+    "email": "william.gomez1390@company.com",
+    "phone": "929 649 5207",
+    "ssn": "743 35 8404",
+    "dob": "22/11/1988",
+    "address": "5752 Summer St",
+    "city": "Philadelphia",
+    "state": "AZ"
+  }
+}

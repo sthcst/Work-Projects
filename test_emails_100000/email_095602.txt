@@ -1,0 +1,9 @@
+contact:
+  name: Jane Clark
+  email: jane.clark3863@work.org
+  phone: +1 745-521-8560
+  ssn: 537-93-6710
+  dob: 01/09/1958
+  address: 2856 Maple Rd
+  city: San Antonio
+  state: MA

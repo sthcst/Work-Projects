@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Collins",
+    "email": "amanda.collins9818@work.org",
+    "phone": "358 890 1518",
+    "ssn": "685-75-5121",
+    "dob": "04/07/1966",
+    "address": "3678 Elm Blvd",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Angela Bell
+  email: angela.bell6612@yahoo.com
+  phone: 385-440-4568
+  ssn: 216-38-4118
+  dob: 4/2/1955
+  address: 4572 North Way
+  city: Dallas
+  state: AZ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul White,paul.white4968@example.com,969 453 3282,376-57-4810,10-04-1974,"9471 First Ln",Seattle,TX

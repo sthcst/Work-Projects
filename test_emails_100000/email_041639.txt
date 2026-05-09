@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald White,donald.white3991@outlook.com,549-406-9191,322375416,20/01/1970,"4828 Second Dr",Austin,AZ

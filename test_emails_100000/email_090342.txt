@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Ramirez",
+    "email": "rebecca.ramirez4517@business.net",
+    "phone": "+1 922-970-5824",
+    "ssn": "027475145",
+    "dob": "01-06-1988",
+    "address": "6088 Spring Rd",
+    "city": "Washington",
+    "state": "PA"
+  }
+}

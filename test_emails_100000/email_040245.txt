@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Young
+  email: anthony.young3345@yahoo.com
+  phone: +1 859-679-2461
+  ssn: 587396250
+  dob: 12/1/2004
+  address: 2463 Elm Rd
+  city: Boston
+  state: CO

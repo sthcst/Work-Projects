@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Martinez",
+    "email": "ronald.martinez7438@gmail.com",
+    "phone": "647-575-3632",
+    "ssn": "030-24-2280",
+    "dob": "10/06/1986",
+    "address": "7471 Maple Ave",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

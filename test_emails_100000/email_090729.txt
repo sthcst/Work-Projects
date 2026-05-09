@@ -1,0 +1,9 @@
+contact:
+  name: Maria Smith
+  email: maria.smith7908@mail.com
+  phone: (889) 689-6373
+  ssn: 318195991
+  dob: 05/02/1982
+  address: 9795 East Court
+  city: San Antonio
+  state: CO

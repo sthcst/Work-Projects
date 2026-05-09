@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna White",
+    "email": "anna.white5330@mail.com",
+    "phone": "+1 610-675-3108",
+    "ssn": "942-82-5428",
+    "dob": "11-09-1955",
+    "address": "1556 Maple Way",
+    "city": "Jacksonville",
+    "state": "AZ"
+  }
+}

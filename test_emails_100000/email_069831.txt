@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Carter,brenda.carter6156@yahoo.com,+1 906-814-5480,166243143,06/09/1993,"9260 Oak Dr",Dallas,NJ

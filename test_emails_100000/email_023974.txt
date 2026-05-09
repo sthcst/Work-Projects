@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Harris,rebecca.harris9867@business.net,318 421 5215,984 86 9850,07/17/1955,"9685 Birch Way",San Diego,IL

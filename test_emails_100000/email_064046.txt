@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Morris
+  email: joseph.morris9006@example.com
+  phone: 801-393-2981
+  ssn: 209538354
+  dob: 03-08-2000
+  address: 7682 Oak Blvd
+  city: Jacksonville
+  state: CA

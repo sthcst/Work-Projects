@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Moore",
+    "email": "edward.moore4875@example.com",
+    "phone": "460-935-2440",
+    "ssn": "134-01-3363",
+    "dob": "12/24/1968",
+    "address": "6416 West Ave",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

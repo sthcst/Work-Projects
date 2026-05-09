@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Thompson
+  email: rachel.thompson6644@outlook.com
+  phone: +1 994-947-4601
+  ssn: 009-65-8941
+  dob: 04/19/1994
+  address: 2005 Fifth Way
+  city: Boston
+  state: DC

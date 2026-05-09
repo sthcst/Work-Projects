@@ -1,0 +1,14 @@
+INVOICE 163325
+
+Bill To:
+Name: William Rogers
+Email: william.rogers3225@company.com
+Phone: +1 522-422-1232
+SSN: 943-71-4112
+
+Address: 2987 Third Ave
+San Diego, CA
+
+Date of Birth: 10-20-1959
+
+Amount Due: $9631

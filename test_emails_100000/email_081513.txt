@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Rodriguez,jane.rodriguez2402@gmail.com,812-382-5914,728 70 5234,10/25/1976,"4873 Summer Ln",Austin,WA

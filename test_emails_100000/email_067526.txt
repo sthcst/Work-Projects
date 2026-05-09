@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Wilson
+  email: nicole.wilson9699@work.org
+  phone: 686-720-4943
+  ssn: 816-74-4062
+  dob: 12/20/1990
+  address: 1512 Fifth Dr
+  city: San Jose
+  state: CA

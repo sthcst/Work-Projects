@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Hernandez",
+    "email": "timothy.hernandez2062@mail.com",
+    "phone": "+1 828-409-6931",
+    "ssn": "798 71 2837",
+    "dob": "25/09/1950",
+    "address": "1929 Third Rd",
+    "city": "Philadelphia",
+    "state": "CA"
+  }
+}

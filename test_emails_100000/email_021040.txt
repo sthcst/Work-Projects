@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Gomez",
+    "email": "samantha.gomez6827@gmail.com",
+    "phone": "912 737 3243",
+    "ssn": "663 44 4903",
+    "dob": "05/24/1983",
+    "address": "2359 Summer Ln",
+    "city": "Jacksonville",
+    "state": "WI"
+  }
+}

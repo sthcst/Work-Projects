@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Davis,katherine.davis1143@example.com,+1 848-472-4980,236 54 3608,12/06/1958,"5895 Fifth Way",San Diego,GA

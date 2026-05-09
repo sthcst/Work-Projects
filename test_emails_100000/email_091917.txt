@@ -1,0 +1,14 @@
+INVOICE 276813
+
+Bill To:
+Name: Samantha Nelson
+Email: samantha.nelson9019@example.com
+Phone: 388 428 7153
+SSN: 856-71-8861
+
+Address: 9686 Oak Way
+Chicago, CA
+
+Date of Birth: 06-03-1965
+
+Amount Due: $4460

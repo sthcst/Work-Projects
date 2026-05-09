@@ -1,0 +1,9 @@
+contact:
+  name: Robert Martin
+  email: robert.martin8528@company.com
+  phone: 661-409-8913
+  ssn: 079 65 5166
+  dob: 1/16/2003
+  address: 2572 South Ln
+  city: New York
+  state: DC

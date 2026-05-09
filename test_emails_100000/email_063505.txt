@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Gomez
+  email: sarah.gomez669@business.net
+  phone: 665-906-1504
+  ssn: 169101772
+  dob: 2/7/1988
+  address: 2569 Spring Court
+  city: Jacksonville
+  state: TN

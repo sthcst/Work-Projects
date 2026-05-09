@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Perez",
+    "email": "john.perez9297@yahoo.com",
+    "phone": "912-711-1535",
+    "ssn": "346-34-6627",
+    "dob": "5/6/1966",
+    "address": "1261 South Blvd",
+    "city": "Phoenix",
+    "state": "FL"
+  }
+}

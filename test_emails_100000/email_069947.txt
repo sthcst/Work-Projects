@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Anderson",
+    "email": "joseph.anderson4211@company.com",
+    "phone": "+1 511-783-1677",
+    "ssn": "734592479",
+    "dob": "08-02-1999",
+    "address": "7243 South Ln",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

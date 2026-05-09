@@ -1,0 +1,9 @@
+contact:
+  name: Anna Collins
+  email: anna.collins8242@work.org
+  phone: +1 461-368-6745
+  ssn: 641 67 3892
+  dob: 6/14/1978
+  address: 7726 Elm Ln
+  city: Houston
+  state: TN

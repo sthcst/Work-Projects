@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Miller",
+    "email": "brian.miller7945@outlook.com",
+    "phone": "(790) 402-2816",
+    "ssn": "985863010",
+    "dob": "06-09-1955",
+    "address": "8085 Park Rd",
+    "city": "Philadelphia",
+    "state": "MO"
+  }
+}

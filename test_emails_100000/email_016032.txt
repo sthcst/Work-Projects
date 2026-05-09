@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Jimenez
+  email: deborah.jimenez7086@yahoo.com
+  phone: 283-620-6709
+  ssn: 668-46-5794
+  dob: 10/04/1998
+  address: 4195 Birch St
+  city: Los Angeles
+  state: DC

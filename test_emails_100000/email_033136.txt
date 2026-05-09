@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Davis",
+    "email": "brenda.davis8676@work.org",
+    "phone": "+1 502-613-8921",
+    "ssn": "475-23-6548",
+    "dob": "08-07-1987",
+    "address": "377 Summer Blvd",
+    "city": "San Diego",
+    "state": "VA"
+  }
+}

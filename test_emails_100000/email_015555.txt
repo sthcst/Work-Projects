@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Hernandez",
+    "email": "richard.hernandez3235@mail.com",
+    "phone": "(675) 694-5250",
+    "ssn": "535627186",
+    "dob": "18/06/1977",
+    "address": "9286 Spring St",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

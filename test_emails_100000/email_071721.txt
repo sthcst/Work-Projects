@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Davis",
+    "email": "michael.davis4792@company.com",
+    "phone": "(719) 378-2650",
+    "ssn": "067331534",
+    "dob": "05-21-1965",
+    "address": "6103 Third Court",
+    "city": "Seattle",
+    "state": "MD"
+  }
+}

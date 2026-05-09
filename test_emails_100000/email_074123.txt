@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Wilson",
+    "email": "richard.wilson5366@business.net",
+    "phone": "858-570-9748",
+    "ssn": "945 42 4894",
+    "dob": "3/4/1967",
+    "address": "7755 Birch Ln",
+    "city": "Austin",
+    "state": "NY"
+  }
+}

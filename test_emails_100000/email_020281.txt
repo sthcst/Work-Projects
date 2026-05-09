@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Johnson,jeffrey.johnson1708@gmail.com,355 276 8135,228-60-4733,12/15/1997,"3897 Elm Blvd",New York,MD

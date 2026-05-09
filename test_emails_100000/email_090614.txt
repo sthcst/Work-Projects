@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Lewis,megan.lewis1639@mail.com,(283) 775-9674,571 55 4850,05/24/1996,"9425 West Dr",Philadelphia,FL

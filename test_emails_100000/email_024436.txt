@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Phillips",
+    "email": "rebecca.phillips2774@mail.com",
+    "phone": "+1 778-757-2473",
+    "ssn": "154257846",
+    "dob": "06/02/1960",
+    "address": "8990 West Way",
+    "city": "Seattle",
+    "state": "AZ"
+  }
+}

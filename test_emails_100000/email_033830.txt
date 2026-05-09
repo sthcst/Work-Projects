@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Delgado",
+    "email": "gary.delgado1267@business.net",
+    "phone": "949 791 7212",
+    "ssn": "550653524",
+    "dob": "09/02/1970",
+    "address": "3421 Spring Rd",
+    "city": "Chicago",
+    "state": "VA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Gomez",
+    "email": "jennifer.gomez8836@company.com",
+    "phone": "326 913 6866",
+    "ssn": "893293742",
+    "dob": "01/03/1984",
+    "address": "8324 Main Way",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

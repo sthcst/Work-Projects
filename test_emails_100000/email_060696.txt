@@ -1,0 +1,9 @@
+contact:
+  name: Richard Gomez
+  email: richard.gomez8133@mail.com
+  phone: (612) 592-9807
+  ssn: 871-51-1993
+  dob: 04-28-1975
+  address: 5023 Birch Blvd
+  city: Houston
+  state: TN

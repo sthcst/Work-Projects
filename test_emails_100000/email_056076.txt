@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Edwards",
+    "email": "emily.edwards2786@work.org",
+    "phone": "511-474-2325",
+    "ssn": "062941115",
+    "dob": "1/21/1985",
+    "address": "9263 East Rd",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

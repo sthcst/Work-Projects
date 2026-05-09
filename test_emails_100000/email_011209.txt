@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William White",
+    "email": "william.white7794@business.net",
+    "phone": "(633) 602-2056",
+    "ssn": "945 35 1627",
+    "dob": "06/09/1991",
+    "address": "8309 Maple Ave",
+    "city": "Dallas",
+    "state": "MD"
+  }
+}

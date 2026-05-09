@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Guerrero,jason.guerrero6207@business.net,499-648-3346,753298823,06/12/2005,"4133 Spring Court",Houston,CA

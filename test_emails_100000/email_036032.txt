@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Lee
+  email: lauren.lee1283@gmail.com
+  phone: 396-870-8750
+  ssn: 206 79 1572
+  dob: 08/02/1985
+  address: 6551 South Court
+  city: Washington
+  state: CA

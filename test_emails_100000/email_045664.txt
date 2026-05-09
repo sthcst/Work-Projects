@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Sanchez",
+    "email": "jennifer.sanchez9067@work.org",
+    "phone": "635 862 8302",
+    "ssn": "962 12 8602",
+    "dob": "1/23/1981",
+    "address": "1513 Elm Blvd",
+    "city": "Phoenix",
+    "state": "TN"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Sanchez
+  email: jennifer.sanchez1306@work.org
+  phone: 910-519-3526
+  ssn: 048599533
+  dob: 03/20/1974
+  address: 5258 Elm Dr
+  city: Washington
+  state: WI

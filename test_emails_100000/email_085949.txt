@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Hall",
+    "email": "megan.hall330@gmail.com",
+    "phone": "875 490 9389",
+    "ssn": "797 56 5634",
+    "dob": "2/4/1969",
+    "address": "7003 Birch Way",
+    "city": "Austin",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Morris,mark.morris3835@yahoo.com,+1 595-791-3444,344-50-3150,6/1/1990,"8758 First Court",Jacksonville,CA

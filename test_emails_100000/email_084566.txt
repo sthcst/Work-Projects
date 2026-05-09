@@ -1,0 +1,9 @@
+contact:
+  name: Jane Taylor
+  email: jane.taylor3537@outlook.com
+  phone: 309 715 9318
+  ssn: 378-62-7342
+  dob: 12/10/1967
+  address: 9243 Park Rd
+  city: Seattle
+  state: MD

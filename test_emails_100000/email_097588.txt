@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Anderson",
+    "email": "richard.anderson9771@gmail.com",
+    "phone": "721-237-8745",
+    "ssn": "710-24-3821",
+    "dob": "02-27-1987",
+    "address": "1379 Park Ln",
+    "city": "Houston",
+    "state": "FL"
+  }
+}

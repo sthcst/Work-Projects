@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Cooper",
+    "email": "edward.cooper3777@business.net",
+    "phone": "(662) 441-8150",
+    "ssn": "537681939",
+    "dob": "02/07/2000",
+    "address": "9576 Park Way",
+    "city": "Boston",
+    "state": "AZ"
+  }
+}

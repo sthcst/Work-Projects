@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Wilson
+  email: sarah.wilson6971@mail.com
+  phone: 289-681-4481
+  ssn: 224 69 8082
+  dob: 03/21/1986
+  address: 9903 Park Rd
+  city: Houston
+  state: MA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Davis",
+    "email": "john.davis4757@gmail.com",
+    "phone": "556 246 5221",
+    "ssn": "999-42-3861",
+    "dob": "10/2/1963",
+    "address": "9808 Oak Dr",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

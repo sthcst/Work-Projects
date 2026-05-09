@@ -1,0 +1,14 @@
+INVOICE 210081
+
+Bill To:
+Name: Steven Phillips
+Email: steven.phillips8619@company.com
+Phone: (703) 961-5912
+SSN: 968-94-3759
+
+Address: 8068 Elm Blvd
+Boston, PA
+
+Date of Birth: 04/17/1992
+
+Amount Due: $2785

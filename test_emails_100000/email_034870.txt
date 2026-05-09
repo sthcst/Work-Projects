@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Perez",
+    "email": "angela.perez7273@company.com",
+    "phone": "(266) 521-6308",
+    "ssn": "797 05 8607",
+    "dob": "09-27-1980",
+    "address": "7858 Maple Court",
+    "city": "Philadelphia",
+    "state": "MI"
+  }
+}

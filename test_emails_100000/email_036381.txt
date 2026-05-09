@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Smith",
+    "email": "cynthia.smith9842@work.org",
+    "phone": "(839) 728-2638",
+    "ssn": "360 19 2259",
+    "dob": "2/28/1985",
+    "address": "5418 Pine Dr",
+    "city": "Los Angeles",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 204097
+
+Bill To:
+Name: George Taylor
+Email: george.taylor4532@company.com
+Phone: 809 643 4293
+SSN: 891961913
+
+Address: 6557 Sixth Court
+Philadelphia, MD
+
+Date of Birth: 11/05/1984
+
+Amount Due: $2800

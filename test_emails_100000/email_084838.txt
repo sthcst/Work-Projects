@@ -1,0 +1,14 @@
+INVOICE 976268
+
+Bill To:
+Name: Kevin White
+Email: kevin.white4218@example.com
+Phone: 947-796-2813
+SSN: 207 50 9506
+
+Address: 2664 East Way
+San Antonio, CA
+
+Date of Birth: 10/12/1971
+
+Amount Due: $4690

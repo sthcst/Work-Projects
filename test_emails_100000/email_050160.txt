@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Young",
+    "email": "edward.young5965@yahoo.com",
+    "phone": "546-538-7602",
+    "ssn": "415811147",
+    "dob": "10/26/1980",
+    "address": "7488 Pine Ln",
+    "city": "Chicago",
+    "state": "WI"
+  }
+}

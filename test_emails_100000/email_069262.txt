@@ -1,0 +1,9 @@
+contact:
+  name: David Martinez
+  email: david.martinez7508@outlook.com
+  phone: 769 686 7220
+  ssn: 564 34 8681
+  dob: 05/18/2005
+  address: 7995 Sixth Ave
+  city: Jacksonville
+  state: MD

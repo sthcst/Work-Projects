@@ -1,0 +1,9 @@
+contact:
+  name: Emma Cooper
+  email: emma.cooper2268@company.com
+  phone: (663) 202-4662
+  ssn: 910-42-4976
+  dob: 1/14/2002
+  address: 7064 Birch Blvd
+  city: Washington
+  state: MI

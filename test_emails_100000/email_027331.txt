@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Murillo,daniel.murillo289@company.com,862 790 6226,336-22-6348,08-14-1976,"1066 Birch St",Los Angeles,TN

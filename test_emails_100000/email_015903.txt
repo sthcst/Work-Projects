@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Nelson",
+    "email": "christine.nelson1695@company.com",
+    "phone": "+1 874-958-3432",
+    "ssn": "216738463",
+    "dob": "06/21/1971",
+    "address": "192 Spring St",
+    "city": "New York",
+    "state": "AZ"
+  }
+}

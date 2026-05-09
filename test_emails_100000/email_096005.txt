@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Wilson,donald.wilson9261@gmail.com,815 775 9667,340206403,09/04/1969,"5333 South Way",New York,MA

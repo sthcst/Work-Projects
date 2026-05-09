@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Wilson",
+    "email": "michelle.wilson6278@outlook.com",
+    "phone": "+1 915-473-2717",
+    "ssn": "465-50-9772",
+    "dob": "13/07/2005",
+    "address": "3184 Second Blvd",
+    "city": "San Jose",
+    "state": "MD"
+  }
+}

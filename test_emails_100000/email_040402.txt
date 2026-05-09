@@ -1,0 +1,9 @@
+contact:
+  name: Megan Flores
+  email: megan.flores7169@example.com
+  phone: 631-542-5302
+  ssn: 858491584
+  dob: 12-16-1965
+  address: 1130 First Dr
+  city: Los Angeles
+  state: CO

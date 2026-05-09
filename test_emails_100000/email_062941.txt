@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Flores,ronald.flores2619@business.net,+1 468-921-5373,700 82 8836,12-17-1993,"7847 Elm Blvd",New York,GA

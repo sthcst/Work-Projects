@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Reeves,lauren.reeves7629@mail.com,(387) 556-6665,884242135,2/8/1969,"1529 Elm Ave",San Jose,DC

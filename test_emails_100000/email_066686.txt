@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Cooper",
+    "email": "daniel.cooper3493@yahoo.com",
+    "phone": "+1 928-994-3498",
+    "ssn": "286-84-1976",
+    "dob": "03/27/1954",
+    "address": "4124 Maple St",
+    "city": "Denver",
+    "state": "MA"
+  }
+}

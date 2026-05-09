@@ -1,0 +1,9 @@
+contact:
+  name: Emily Garcia
+  email: emily.garcia928@company.com
+  phone: 780 328 7469
+  ssn: 373-12-3794
+  dob: 2/12/2003
+  address: 8192 Third Ave
+  city: Dallas
+  state: GA

@@ -1,0 +1,14 @@
+INVOICE 631272
+
+Bill To:
+Name: Stephanie Ortiz
+Email: stephanie.ortiz5985@company.com
+Phone: (312) 385-5796
+SSN: 895556784
+
+Address: 7576 North Rd
+Denver, TX
+
+Date of Birth: 01/24/1974
+
+Amount Due: $3652

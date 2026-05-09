@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Evans
+  email: daniel.evans9115@company.com
+  phone: 416 612 4021
+  ssn: 925 57 9397
+  dob: 8/21/1983
+  address: 1636 Elm St
+  city: Boston
+  state: TX

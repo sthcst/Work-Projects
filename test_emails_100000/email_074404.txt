@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Lee,angela.lee4186@mail.com,(727) 423-7504,979 13 8467,01-05-1974,"5031 First Court",Chicago,TN

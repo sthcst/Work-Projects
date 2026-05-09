@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Stewart",
+    "email": "joshua.stewart1149@mail.com",
+    "phone": "(280) 909-6233",
+    "ssn": "094722518",
+    "dob": "10/27/1975",
+    "address": "3001 Third Ave",
+    "city": "Austin",
+    "state": "AZ"
+  }
+}

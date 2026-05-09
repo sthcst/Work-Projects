@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Reyes",
+    "email": "katherine.reyes619@outlook.com",
+    "phone": "+1 391-483-2421",
+    "ssn": "920 06 7972",
+    "dob": "05-23-1958",
+    "address": "9561 Park Court",
+    "city": "Seattle",
+    "state": "WA"
+  }
+}

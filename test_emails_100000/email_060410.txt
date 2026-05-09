@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Dominguez,jason.dominguez8047@example.com,207-897-6984,418 14 9736,3/7/2005,"9970 Fifth Court",Washington,DC

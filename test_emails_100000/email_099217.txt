@@ -1,0 +1,9 @@
+contact:
+  name: Gary Wilson
+  email: gary.wilson3386@work.org
+  phone: 901-726-8038
+  ssn: 166714738
+  dob: 07-09-1989
+  address: 3323 Sixth Rd
+  city: Washington
+  state: TX

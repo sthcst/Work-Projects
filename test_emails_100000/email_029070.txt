@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Morris
+  email: kevin.morris5289@outlook.com
+  phone: (710) 343-6785
+  ssn: 724 14 3038
+  dob: 03/05/1995
+  address: 7450 Fourth St
+  city: Seattle
+  state: PA

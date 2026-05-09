@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Davis",
+    "email": "katherine.davis8730@yahoo.com",
+    "phone": "871 352 1182",
+    "ssn": "462485718",
+    "dob": "04/20/1996",
+    "address": "1568 Maple Court",
+    "city": "Los Angeles",
+    "state": "IL"
+  }
+}

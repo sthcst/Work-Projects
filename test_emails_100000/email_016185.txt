@@ -1,0 +1,12 @@
+SUPPORT TICKET #10510
+
+Customer: Ryan Phillips
+Email: ryan.phillips859@example.com
+Phone: 474-954-5260
+Account: 271405738
+
+Issue Description: Technical problem reported
+DOB on file: 8/15/1974
+Address: 6444 Fourth St, Seattle, CA
+
+Status: OPEN

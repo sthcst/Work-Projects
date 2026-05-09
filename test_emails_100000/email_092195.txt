@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Rogers",
+    "email": "lauren.rogers6524@gmail.com",
+    "phone": "+1 310-981-7072",
+    "ssn": "870 50 8918",
+    "dob": "03/22/1958",
+    "address": "6282 Main Dr",
+    "city": "Boston",
+    "state": "AZ"
+  }
+}

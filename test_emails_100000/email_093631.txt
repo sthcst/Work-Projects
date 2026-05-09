@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Peterson",
+    "email": "kathleen.peterson7534@company.com",
+    "phone": "205 345 4413",
+    "ssn": "995951481",
+    "dob": "03/03/1964",
+    "address": "7128 Cedar St",
+    "city": "Washington",
+    "state": "MO"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Emily Reeves
+  email: emily.reeves719@company.com
+  phone: 681 363 7008
+  ssn: 308153276
+  dob: 11-14-1965
+  address: 5266 Maple Dr
+  city: Denver
+  state: CA

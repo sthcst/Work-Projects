@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Delgado,edward.delgado587@gmail.com,502-650-7438,726753516,6/1/2003,"5997 Fifth Rd",Denver,MA

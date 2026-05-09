@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Gonzalez,jeffrey.gonzalez677@mail.com,+1 885-316-5172,295 41 6094,10/14/1984,"790 Oak Rd",Austin,AZ

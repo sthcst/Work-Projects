@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Edwards,christine.edwards1827@example.com,748-291-3182,646 91 9483,05-15-1991,"9568 Sixth Ln",San Antonio,DC

@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Taylor
+  email: ashley.taylor1097@business.net
+  phone: (942) 417-2203
+  ssn: 215-65-6683
+  dob: 09/12/1992
+  address: 3338 Park Dr
+  city: Washington
+  state: CA

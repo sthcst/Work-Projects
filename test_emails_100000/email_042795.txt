@@ -1,0 +1,9 @@
+contact:
+  name: Robert Delgado
+  email: robert.delgado2972@outlook.com
+  phone: +1 405-426-4351
+  ssn: 680949504
+  dob: 10/10/1980
+  address: 9173 Pine Blvd
+  city: Los Angeles
+  state: CA

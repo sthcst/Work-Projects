@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Gonzalez,angela.gonzalez3069@outlook.com,514-458-9428,059-86-2677,19/11/1990,"1865 Sixth Ln",Los Angeles,MA

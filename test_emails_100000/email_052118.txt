@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Walker
+  email: timothy.walker6276@outlook.com
+  phone: +1 716-634-8672
+  ssn: 954 87 7038
+  dob: 04/11/1981
+  address: 8135 Spring Way
+  city: Jacksonville
+  state: CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Jimenez,nicholas.jimenez3738@example.com,374-731-2075,253-82-5948,12/08/1958,"8617 North Rd",San Jose,MA

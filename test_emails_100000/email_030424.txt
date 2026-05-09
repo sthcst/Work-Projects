@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Bell,steven.bell6046@work.org,+1 908-425-4631,791 98 6887,2/18/1976,"2844 West Way",Austin,NJ

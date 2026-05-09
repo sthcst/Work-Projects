@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Gonzalez
+  email: kenneth.gonzalez7809@yahoo.com
+  phone: 458-909-2096
+  ssn: 111 33 1104
+  dob: 10/18/1984
+  address: 164 Fifth Court
+  city: Jacksonville
+  state: MI

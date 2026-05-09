@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Martinez
+  email: rachel.martinez6728@gmail.com
+  phone: +1 681-644-3801
+  ssn: 399-86-1173
+  dob: 4/5/1996
+  address: 5527 West Way
+  city: Phoenix
+  state: MI

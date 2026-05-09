@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Walker",
+    "email": "robert.walker1611@outlook.com",
+    "phone": "548 671 2310",
+    "ssn": "608541749",
+    "dob": "7/15/1964",
+    "address": "5568 Fifth St",
+    "city": "Philadelphia",
+    "state": "MI"
+  }
+}

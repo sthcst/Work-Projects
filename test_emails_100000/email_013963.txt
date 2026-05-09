@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Sanchez
+  email: shirley.sanchez4624@business.net
+  phone: 684 921 5420
+  ssn: 146-62-7531
+  dob: 5/15/1980
+  address: 2702 Summer Court
+  city: Houston
+  state: OH

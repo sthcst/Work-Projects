@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Carter,edward.carter4169@business.net,246 749 2013,625174685,09-07-1956,"1174 Sixth Blvd",San Diego,MO

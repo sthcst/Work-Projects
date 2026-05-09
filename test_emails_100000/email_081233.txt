@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Jones,pamela.jones5778@gmail.com,621-292-8210,217 61 6507,16/01/1984,"7752 Main Way",San Antonio,WI

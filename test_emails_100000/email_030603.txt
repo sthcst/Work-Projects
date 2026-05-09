@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Sanchez
+  email: nicholas.sanchez7780@example.com
+  phone: (909) 828-5377
+  ssn: 648 54 8829
+  dob: 08-03-1974
+  address: 5483 Birch Ln
+  city: Denver
+  state: TX

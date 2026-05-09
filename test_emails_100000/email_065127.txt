@@ -1,0 +1,12 @@
+SUPPORT TICKET #91366
+
+Customer: Paul Johnson
+Email: paul.johnson7120@example.com
+Phone: 343-626-2519
+Account: 321713763
+
+Issue Description: Technical problem reported
+DOB on file: 10/04/2001
+Address: 8876 Sixth Ln, Jacksonville, TX
+
+Status: OPEN

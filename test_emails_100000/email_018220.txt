@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Lee,daniel.lee8707@company.com,291 226 1319,165-63-2840,27/12/1972,"3036 East St",Los Angeles,FL

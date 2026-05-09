@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Reyes",
+    "email": "william.reyes7339@work.org",
+    "phone": "956 855 1154",
+    "ssn": "198 47 6858",
+    "dob": "11-04-1979",
+    "address": "3856 Spring Dr",
+    "city": "Houston",
+    "state": "WA"
+  }
+}

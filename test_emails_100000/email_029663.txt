@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Collins
+  email: rachel.collins1856@yahoo.com
+  phone: 846 390 7622
+  ssn: 320717356
+  dob: 1/16/1966
+  address: 8591 First Dr
+  city: Seattle
+  state: WA

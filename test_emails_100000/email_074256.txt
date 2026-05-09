@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Brown",
+    "email": "paul.brown7398@mail.com",
+    "phone": "732 316 4438",
+    "ssn": "194 17 1904",
+    "dob": "2/15/1980",
+    "address": "3115 Maple Blvd",
+    "city": "San Antonio",
+    "state": "FL"
+  }
+}

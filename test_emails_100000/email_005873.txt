@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Hall,stephanie.hall7243@outlook.com,(299) 546-6334,170 24 5041,10-04-1977,"1942 Fifth Blvd",San Jose,TX

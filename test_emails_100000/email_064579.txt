@@ -1,0 +1,9 @@
+contact:
+  name: Matthew Guerrero
+  email: matthew.guerrero2347@outlook.com
+  phone: (465) 698-9023
+  ssn: 687-86-2448
+  dob: 9/8/1950
+  address: 5806 Fifth Ln
+  city: Chicago
+  state: MA

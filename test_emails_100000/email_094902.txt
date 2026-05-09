@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Lewis",
+    "email": "george.lewis6065@mail.com",
+    "phone": "808-990-2777",
+    "ssn": "480787425",
+    "dob": "2/19/2003",
+    "address": "972 Maple Rd",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

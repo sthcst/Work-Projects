@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Stewart",
+    "email": "amanda.stewart2279@gmail.com",
+    "phone": "609-345-7768",
+    "ssn": "807-16-7221",
+    "dob": "10/02/1995",
+    "address": "6624 Spring Way",
+    "city": "Los Angeles",
+    "state": "OH"
+  }
+}

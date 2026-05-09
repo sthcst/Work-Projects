@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Stewart,andrew.stewart1810@mail.com,+1 901-894-8490,835 86 5382,05/21/1992,"5578 South Ave",New York,NC

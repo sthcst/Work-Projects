@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda White",
+    "email": "amanda.white7716@business.net",
+    "phone": "+1 455-828-4955",
+    "ssn": "340 89 9703",
+    "dob": "11/16/2000",
+    "address": "7217 Elm Dr",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

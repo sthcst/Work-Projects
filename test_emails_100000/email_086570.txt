@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Carter
+  email: michelle.carter4166@work.org
+  phone: +1 910-708-9716
+  ssn: 015446002
+  dob: 1/7/1955
+  address: 2529 Elm St
+  city: Austin
+  state: NJ

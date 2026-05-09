@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Gonzalez
+  email: brenda.gonzalez2999@company.com
+  phone: (268) 708-3906
+  ssn: 673-69-4060
+  dob: 5/10/1961
+  address: 195 Maple Way
+  city: Seattle
+  state: PA

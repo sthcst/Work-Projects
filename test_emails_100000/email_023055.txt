@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Brown",
+    "email": "jane.brown1357@outlook.com",
+    "phone": "(952) 341-2643",
+    "ssn": "924-77-7425",
+    "dob": "25/03/1958",
+    "address": "2208 Maple Dr",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}

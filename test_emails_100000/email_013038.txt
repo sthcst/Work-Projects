@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Guerrero
+  email: kevin.guerrero5295@business.net
+  phone: 518-644-1843
+  ssn: 088 85 5036
+  dob: 06-04-1961
+  address: 7291 Park Ave
+  city: Seattle
+  state: WI

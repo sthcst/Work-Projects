@@ -1,0 +1,9 @@
+contact:
+  name: Donald Delgado
+  email: donald.delgado5502@company.com
+  phone: (397) 877-8073
+  ssn: 121-43-4386
+  dob: 9/12/1995
+  address: 7801 Fourth Rd
+  city: Austin
+  state: GA

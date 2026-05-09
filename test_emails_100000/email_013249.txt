@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Collins,lauren.collins4306@example.com,702 499 3988,386 68 2432,08/28/1955,"2265 South Way",Houston,AZ

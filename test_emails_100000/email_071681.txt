@@ -1,0 +1,9 @@
+contact:
+  name: Charles Hall
+  email: charles.hall1231@business.net
+  phone: (671) 657-3382
+  ssn: 490-01-8808
+  dob: 03-13-1993
+  address: 7152 North Court
+  city: San Antonio
+  state: CA

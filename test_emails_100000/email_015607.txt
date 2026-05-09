@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Parker",
+    "email": "timothy.parker3944@outlook.com",
+    "phone": "824 773 2974",
+    "ssn": "596678095",
+    "dob": "7/25/1956",
+    "address": "8974 West Blvd",
+    "city": "San Jose",
+    "state": "AZ"
+  }
+}

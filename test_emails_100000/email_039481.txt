@@ -1,0 +1,9 @@
+contact:
+  name: Christine Jackson
+  email: christine.jackson5664@work.org
+  phone: 877-548-6075
+  ssn: 485 19 6582
+  dob: 10/22/1987
+  address: 2566 Spring Blvd
+  city: Chicago
+  state: TX

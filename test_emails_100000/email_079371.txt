@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Gomez
+  email: pamela.gomez7324@mail.com
+  phone: (441) 663-9462
+  ssn: 785161998
+  dob: 09-07-1983
+  address: 8709 Oak Blvd
+  city: Washington
+  state: TX

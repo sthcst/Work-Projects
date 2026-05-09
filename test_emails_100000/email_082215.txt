@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Miller,charles.miller4114@outlook.com,+1 587-208-4512,163 85 8008,03/11/1982,"1344 Fourth Ave",Philadelphia,CO

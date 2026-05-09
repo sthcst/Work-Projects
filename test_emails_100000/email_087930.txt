@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Roberts",
+    "email": "donald.roberts9413@mail.com",
+    "phone": "(299) 347-6622",
+    "ssn": "818512987",
+    "dob": "25/02/1965",
+    "address": "3902 Birch Ave",
+    "city": "Denver",
+    "state": "AZ"
+  }
+}

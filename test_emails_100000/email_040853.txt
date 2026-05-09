@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Johnson",
+    "email": "david.johnson8162@mail.com",
+    "phone": "453 808 6080",
+    "ssn": "390 60 7750",
+    "dob": "1/22/1982",
+    "address": "740 Cedar Blvd",
+    "city": "San Antonio",
+    "state": "CA"
+  }
+}

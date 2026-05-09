@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Jackson
+  email: lauren.jackson3793@outlook.com
+  phone: 568 432 1727
+  ssn: 541111722
+  dob: 6/13/1995
+  address: 4137 Main St
+  city: Jacksonville
+  state: TX

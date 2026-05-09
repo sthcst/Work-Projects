@@ -1,0 +1,14 @@
+INVOICE 287988
+
+Bill To:
+Name: Nicholas Brown
+Email: nicholas.brown1417@work.org
+Phone: (593) 321-3317
+SSN: 403114415
+
+Address: 2485 Third Way
+Seattle, CA
+
+Date of Birth: 25/04/1980
+
+Amount Due: $6939

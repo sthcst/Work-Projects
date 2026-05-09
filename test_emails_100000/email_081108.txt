@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Rogers",
+    "email": "anna.rogers6668@mail.com",
+    "phone": "482 326 8726",
+    "ssn": "598-39-2300",
+    "dob": "9/13/1971",
+    "address": "8691 Summer Rd",
+    "city": "Philadelphia",
+    "state": "PA"
+  }
+}

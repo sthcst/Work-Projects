@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Jackson",
+    "email": "mark.jackson8237@work.org",
+    "phone": "(559) 370-8217",
+    "ssn": "609 11 6093",
+    "dob": "05/23/1987",
+    "address": "4930 First Blvd",
+    "city": "New York",
+    "state": "TX"
+  }
+}

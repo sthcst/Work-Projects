@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Moore",
+    "email": "michelle.moore5524@outlook.com",
+    "phone": "822 468 9261",
+    "ssn": "414-59-5343",
+    "dob": "05-16-1988",
+    "address": "7257 Fifth Blvd",
+    "city": "San Antonio",
+    "state": "NJ"
+  }
+}

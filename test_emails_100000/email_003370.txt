@@ -1,0 +1,14 @@
+INVOICE 656868
+
+Bill To:
+Name: David Collins
+Email: david.collins5073@work.org
+Phone: 793-784-7539
+SSN: 121 29 1758
+
+Address: 7732 Pine Ln
+New York, WA
+
+Date of Birth: 10/12/1980
+
+Amount Due: $5344

@@ -1,0 +1,14 @@
+INVOICE 923296
+
+Bill To:
+Name: Steven Gomez
+Email: steven.gomez6763@company.com
+Phone: (270) 850-7265
+SSN: 903-56-3650
+
+Address: 6456 Maple Ln
+Seattle, GA
+
+Date of Birth: 10/20/1961
+
+Amount Due: $5654

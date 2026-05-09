@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Davis",
+    "email": "charles.davis5043@business.net",
+    "phone": "656 569 2891",
+    "ssn": "047 10 5440",
+    "dob": "06/05/1989",
+    "address": "1384 Third Rd",
+    "city": "Denver",
+    "state": "TN"
+  }
+}

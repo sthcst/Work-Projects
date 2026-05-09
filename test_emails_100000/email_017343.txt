@@ -1,0 +1,14 @@
+INVOICE 951771
+
+Bill To:
+Name: Deborah Carter
+Email: deborah.carter6488@example.com
+Phone: (699) 382-2495
+SSN: 930 63 6349
+
+Address: 6902 South Blvd
+Boston, OH
+
+Date of Birth: 12-21-1975
+
+Amount Due: $1514

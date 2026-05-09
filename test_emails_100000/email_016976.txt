@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Lewis
+  email: daniel.lewis7339@example.com
+  phone: 708 954 3713
+  ssn: 698 89 9308
+  dob: 03/02/1985
+  address: 1963 First Way
+  city: Seattle
+  state: WI

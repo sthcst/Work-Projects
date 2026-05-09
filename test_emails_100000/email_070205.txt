@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Phillips",
+    "email": "michael.phillips7146@mail.com",
+    "phone": "+1 376-642-8823",
+    "ssn": "578525756",
+    "dob": "05/23/2002",
+    "address": "210 Elm Dr",
+    "city": "Phoenix",
+    "state": "MO"
+  }
+}

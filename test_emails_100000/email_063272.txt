@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Serrano,amanda.serrano5284@outlook.com,(642) 611-3180,893 07 6211,8/15/1965,"6456 West Ln",Seattle,OH

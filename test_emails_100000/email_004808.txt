@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Thompson",
+    "email": "anna.thompson9196@gmail.com",
+    "phone": "652 465 2537",
+    "ssn": "950 94 3561",
+    "dob": "13/08/1983",
+    "address": "1127 Birch Ave",
+    "city": "Jacksonville",
+    "state": "NC"
+  }
+}

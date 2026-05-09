@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Dominguez
+  email: jeffrey.dominguez4657@mail.com
+  phone: (321) 429-7231
+  ssn: 413393424
+  dob: 08/12/1991
+  address: 6808 Second Ave
+  city: Jacksonville
+  state: CA

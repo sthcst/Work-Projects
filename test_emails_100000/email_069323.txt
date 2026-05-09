@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Rodriguez",
+    "email": "paul.rodriguez2148@work.org",
+    "phone": "360 360 5575",
+    "ssn": "412275518",
+    "dob": "12-24-1990",
+    "address": "6988 Main Dr",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

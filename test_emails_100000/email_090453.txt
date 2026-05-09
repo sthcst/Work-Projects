@@ -1,0 +1,9 @@
+contact:
+  name: Christine Moore
+  email: christine.moore8901@company.com
+  phone: 473-964-2417
+  ssn: 178-26-5010
+  dob: 08/12/1970
+  address: 8392 Sixth Rd
+  city: Houston
+  state: NY

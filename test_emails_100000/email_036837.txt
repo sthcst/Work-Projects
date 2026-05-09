@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Hall",
+    "email": "jessica.hall1533@mail.com",
+    "phone": "933-225-5487",
+    "ssn": "687 18 3073",
+    "dob": "3/6/1962",
+    "address": "9285 Sixth St",
+    "city": "New York",
+    "state": "DC"
+  }
+}

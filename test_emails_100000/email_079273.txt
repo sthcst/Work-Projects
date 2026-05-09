@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Perez",
+    "email": "john.perez2725@mail.com",
+    "phone": "615 789 3239",
+    "ssn": "770-37-5315",
+    "dob": "06/19/1990",
+    "address": "3702 First St",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,12 @@
+SUPPORT TICKET #14316
+
+Customer: Angela Brown
+Email: angela.brown6001@example.com
+Phone: +1 649-887-6892
+Account: 888568695
+
+Issue Description: Technical problem reported
+DOB on file: 5/6/1986
+Address: 620 First Ln, Boston, NJ
+
+Status: OPEN

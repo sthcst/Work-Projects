@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Morgan,mark.morgan2131@example.com,+1 832-339-2242,507062131,1/15/1960,"4841 Birch Ln",Phoenix,WI

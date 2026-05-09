@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Robinson,donald.robinson2418@example.com,795 620 6275,537-25-4891,5/13/1992,"2624 Sixth Way",Houston,MI

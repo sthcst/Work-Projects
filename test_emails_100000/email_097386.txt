@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Johnson
+  email: kenneth.johnson4600@company.com
+  phone: 213 677 2439
+  ssn: 465-41-6270
+  dob: 05/26/1972
+  address: 7568 South Dr
+  city: Austin
+  state: MA

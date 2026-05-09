@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Anderson,emily.anderson991@outlook.com,(795) 913-4395,297 70 2511,05-12-1961,"845 Sixth Dr",San Antonio,CA

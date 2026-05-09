@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Bell",
+    "email": "helen.bell9541@business.net",
+    "phone": "(389) 632-5532",
+    "ssn": "049-11-7886",
+    "dob": "10/21/1955",
+    "address": "5312 Maple Way",
+    "city": "Dallas",
+    "state": "NJ"
+  }
+}

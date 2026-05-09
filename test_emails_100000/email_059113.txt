@@ -1,0 +1,9 @@
+contact:
+  name: John Roberts
+  email: john.roberts4983@company.com
+  phone: +1 902-249-6830
+  ssn: 981449672
+  dob: 01/09/1951
+  address: 8510 Elm St
+  city: San Antonio
+  state: FL

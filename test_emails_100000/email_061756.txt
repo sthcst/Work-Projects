@@ -1,0 +1,14 @@
+INVOICE 930314
+
+Bill To:
+Name: Rachel Roberts
+Email: rachel.roberts3056@mail.com
+Phone: 505 696 8446
+SSN: 179 98 6372
+
+Address: 5891 Oak Way
+Seattle, PA
+
+Date of Birth: 2/24/1977
+
+Amount Due: $1398

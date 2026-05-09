@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Martin",
+    "email": "christine.martin8748@mail.com",
+    "phone": "+1 709-315-5413",
+    "ssn": "319-35-9036",
+    "dob": "8/21/1956",
+    "address": "3819 Fifth Blvd",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

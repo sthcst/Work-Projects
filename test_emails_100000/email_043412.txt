@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Gonzalez
+  email: samantha.gonzalez8034@outlook.com
+  phone: 477 850 8463
+  ssn: 624631661
+  dob: 08/14/1968
+  address: 9277 Summer Rd
+  city: Phoenix
+  state: DC

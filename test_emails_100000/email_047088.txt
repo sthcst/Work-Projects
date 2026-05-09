@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Jimenez
+  email: ronald.jimenez2002@company.com
+  phone: +1 376-503-4274
+  ssn: 201 96 6568
+  dob: 11/26/1979
+  address: 1511 Park Court
+  city: Washington
+  state: TN

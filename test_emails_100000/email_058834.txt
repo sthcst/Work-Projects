@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Phillips,sarah.phillips9426@mail.com,+1 284-813-2033,008-23-4606,03-23-1977,"250 Park Court",San Diego,MD

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Evans,david.evans9360@outlook.com,686-697-2452,251 75 4086,01/02/2005,"8554 South Dr",Dallas,WA

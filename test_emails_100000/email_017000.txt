@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Nelson,jane.nelson5282@gmail.com,+1 405-208-3645,083 04 8323,04/22/1970,"9361 Maple Blvd",San Antonio,IL

@@ -1,0 +1,9 @@
+contact:
+  name: Robert Martin
+  email: robert.martin9656@example.com
+  phone: 403-681-8994
+  ssn: 655475940
+  dob: 07-14-1972
+  address: 8565 East Rd
+  city: San Diego
+  state: TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Roberts",
+    "email": "angela.roberts9386@yahoo.com",
+    "phone": "662-300-4255",
+    "ssn": "675906868",
+    "dob": "07-09-1982",
+    "address": "7789 Oak St",
+    "city": "Washington",
+    "state": "TN"
+  }
+}

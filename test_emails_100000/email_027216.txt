@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Cooper",
+    "email": "helen.cooper230@gmail.com",
+    "phone": "(895) 844-8162",
+    "ssn": "386745138",
+    "dob": "10/24/1960",
+    "address": "9141 Main Blvd",
+    "city": "Denver",
+    "state": "NY"
+  }
+}

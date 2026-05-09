@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Ramirez,michael.ramirez1739@outlook.com,+1 747-969-7439,285232362,12/09/1967,"9297 Summer Rd",Houston,IL

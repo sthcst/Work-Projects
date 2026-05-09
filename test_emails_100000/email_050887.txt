@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Nunez,edward.nunez5539@gmail.com,309-717-6809,954411637,01/24/1979,"2034 Main Dr",Philadelphia,MI

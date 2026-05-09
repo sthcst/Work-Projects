@@ -1,0 +1,9 @@
+contact:
+  name: Steven Hernandez
+  email: steven.hernandez3269@work.org
+  phone: 523 444 7386
+  ssn: 578 48 3636
+  dob: 2/13/1975
+  address: 5704 Maple Court
+  city: Seattle
+  state: WI

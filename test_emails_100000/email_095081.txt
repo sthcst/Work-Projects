@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Clark",
+    "email": "katherine.clark9608@company.com",
+    "phone": "560 895 9191",
+    "ssn": "741-97-7266",
+    "dob": "01-14-2000",
+    "address": "692 South Dr",
+    "city": "Houston",
+    "state": "NY"
+  }
+}

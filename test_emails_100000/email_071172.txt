@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Young",
+    "email": "joshua.young9617@work.org",
+    "phone": "674 652 3335",
+    "ssn": "199298003",
+    "dob": "15/11/1954",
+    "address": "532 Park Way",
+    "city": "Boston",
+    "state": "MI"
+  }
+}

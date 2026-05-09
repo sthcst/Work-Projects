@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Miller
+  email: timothy.miller4095@example.com
+  phone: 779-516-9511
+  ssn: 939 15 6978
+  dob: 8/5/1964
+  address: 4005 Fifth Way
+  city: San Antonio
+  state: MO

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Lee,kevin.lee3626@mail.com,364 860 8047,871427117,6/23/1993,"9358 Pine Ave",Denver,FL

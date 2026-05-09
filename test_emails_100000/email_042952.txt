@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Campbell",
+    "email": "steven.campbell376@outlook.com",
+    "phone": "252-501-8349",
+    "ssn": "186185368",
+    "dob": "11/08/1956",
+    "address": "766 Fifth Ave",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

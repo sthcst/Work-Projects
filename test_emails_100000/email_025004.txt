@@ -1,0 +1,9 @@
+contact:
+  name: William Smith
+  email: william.smith9878@work.org
+  phone: 596 807 8144
+  ssn: 914-09-5426
+  dob: 12/12/1970
+  address: 8860 Pine Ave
+  city: Austin
+  state: GA

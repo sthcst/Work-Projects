@@ -1,0 +1,14 @@
+INVOICE 547134
+
+Bill To:
+Name: Timothy Perez
+Email: timothy.perez6040@company.com
+Phone: +1 467-314-9577
+SSN: 769396379
+
+Address: 8103 South Court
+New York, AZ
+
+Date of Birth: 11-21-1979
+
+Amount Due: $8664

@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Davis
+  email: sarah.davis3751@mail.com
+  phone: +1 323-524-3260
+  ssn: 544526707
+  dob: 6/24/1994
+  address: 5864 Second Blvd
+  city: Los Angeles
+  state: CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Serrano,david.serrano1612@business.net,784-712-1173,510 99 1674,01/03/2004,"1356 Main Rd",Los Angeles,PA

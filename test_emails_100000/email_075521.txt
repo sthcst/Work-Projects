@@ -1,0 +1,14 @@
+INVOICE 492641
+
+Bill To:
+Name: Anna Morris
+Email: anna.morris2025@example.com
+Phone: +1 806-800-5740
+SSN: 370-23-3349
+
+Address: 9869 Second Ave
+Chicago, CA
+
+Date of Birth: 08/12/1984
+
+Amount Due: $7653

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Parker,nicholas.parker3792@example.com,+1 632-607-2984,983 66 6930,13/06/1985,"1736 Third Court",San Antonio,WI

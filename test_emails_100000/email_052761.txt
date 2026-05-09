@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Young",
+    "email": "amanda.young639@outlook.com",
+    "phone": "692 926 5663",
+    "ssn": "193 60 7241",
+    "dob": "05/06/1986",
+    "address": "3600 Sixth Dr",
+    "city": "Austin",
+    "state": "NJ"
+  }
+}

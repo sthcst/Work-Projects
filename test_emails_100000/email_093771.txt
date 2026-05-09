@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Hall",
+    "email": "jennifer.hall2047@mail.com",
+    "phone": "531-970-7100",
+    "ssn": "683 75 3657",
+    "dob": "07/06/1998",
+    "address": "6871 West Way",
+    "city": "Houston",
+    "state": "MO"
+  }
+}

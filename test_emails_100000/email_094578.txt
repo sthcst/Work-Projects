@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Williams",
+    "email": "megan.williams4964@example.com",
+    "phone": "(554) 956-8674",
+    "ssn": "512506562",
+    "dob": "3/14/2000",
+    "address": "1721 Birch Blvd",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

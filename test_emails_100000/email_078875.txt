@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Clark",
+    "email": "helen.clark2460@mail.com",
+    "phone": "353 889 7422",
+    "ssn": "710896989",
+    "dob": "01/06/1960",
+    "address": "5959 South Blvd",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

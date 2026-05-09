@@ -1,0 +1,9 @@
+contact:
+  name: John Reyes
+  email: john.reyes5946@example.com
+  phone: 746 431 4418
+  ssn: 143 17 2585
+  dob: 9/13/2002
+  address: 1076 Pine Court
+  city: Washington
+  state: CO

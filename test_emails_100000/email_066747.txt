@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Jimenez,katherine.jimenez6596@example.com,(932) 708-8766,938 05 4133,03-17-2001,"4437 Fourth St",Houston,FL

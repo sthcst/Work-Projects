@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Parker,shirley.parker5533@example.com,935-624-5314,285-15-3463,4/5/1984,"2522 Maple Blvd",Denver,AZ

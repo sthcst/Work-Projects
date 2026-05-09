@@ -1,0 +1,9 @@
+contact:
+  name: Angela Reyes
+  email: angela.reyes5608@work.org
+  phone: 228-769-5931
+  ssn: 993 56 1733
+  dob: 06/12/1979
+  address: 5818 Park Court
+  city: San Diego
+  state: TX

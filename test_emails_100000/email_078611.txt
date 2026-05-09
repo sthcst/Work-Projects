@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Edwards",
+    "email": "ashley.edwards7502@example.com",
+    "phone": "895-412-4160",
+    "ssn": "498-38-8551",
+    "dob": "6/7/1988",
+    "address": "8126 Cedar Ave",
+    "city": "Austin",
+    "state": "MO"
+  }
+}

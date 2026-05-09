@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Alvarado,samantha.alvarado2826@example.com,349-622-4041,971724332,04/02/1969,"4828 West Court",San Diego,OH

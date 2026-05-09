@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Campbell,richard.campbell1752@work.org,490 517 5892,921 95 1412,02-06-1971,"4966 Pine Way",Philadelphia,AZ

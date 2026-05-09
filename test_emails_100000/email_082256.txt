@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Gonzalez",
+    "email": "richard.gonzalez9738@work.org",
+    "phone": "(587) 722-8557",
+    "ssn": "337 81 4437",
+    "dob": "01-24-1994",
+    "address": "7275 Spring Rd",
+    "city": "Chicago",
+    "state": "MA"
+  }
+}

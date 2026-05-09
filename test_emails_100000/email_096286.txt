@@ -1,0 +1,12 @@
+SUPPORT TICKET #17276
+
+Customer: Richard Martin
+Email: richard.martin2211@example.com
+Phone: +1 457-707-9057
+Account: 940668430
+
+Issue Description: Technical problem reported
+DOB on file: 22/08/1996
+Address: 7653 Fifth Dr, Denver, MA
+
+Status: OPEN

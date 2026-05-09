@@ -1,0 +1,9 @@
+contact:
+  name: David Phillips
+  email: david.phillips4252@company.com
+  phone: 881-643-3894
+  ssn: 818344106
+  dob: 10/06/2003
+  address: 9915 East St
+  city: Seattle
+  state: WA

@@ -1,0 +1,14 @@
+INVOICE 192835
+
+Bill To:
+Name: Christine Peterson
+Email: christine.peterson5117@mail.com
+Phone: 980 299 8653
+SSN: 428-66-2198
+
+Address: 6898 Pine Court
+Dallas, TX
+
+Date of Birth: 07/22/1958
+
+Amount Due: $6443

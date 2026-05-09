@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Romero",
+    "email": "timothy.romero2142@mail.com",
+    "phone": "+1 767-389-7978",
+    "ssn": "716-44-5997",
+    "dob": "01-20-1962",
+    "address": "5274 North Court",
+    "city": "Washington",
+    "state": "OH"
+  }
+}

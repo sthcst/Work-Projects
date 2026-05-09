@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Edwards,jacob.edwards8408@gmail.com,+1 782-972-2654,724 05 7190,9/14/1950,"5014 Park Court",Denver,AZ

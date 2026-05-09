@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Roberts,mark.roberts5181@example.com,(800) 777-1987,242 88 9329,21/11/1961,"6030 Elm St",Washington,DC

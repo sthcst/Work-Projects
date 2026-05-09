@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Martinez
+  email: katherine.martinez3452@mail.com
+  phone: 642-792-3934
+  ssn: 855 11 6240
+  dob: 10-27-1977
+  address: 8925 Summer St
+  city: Houston
+  state: CA

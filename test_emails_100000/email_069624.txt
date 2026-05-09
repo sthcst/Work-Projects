@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Nelson",
+    "email": "matthew.nelson9636@outlook.com",
+    "phone": "+1 958-403-8490",
+    "ssn": "772492913",
+    "dob": "05-16-1969",
+    "address": "540 Fifth Way",
+    "city": "Jacksonville",
+    "state": "DC"
+  }
+}

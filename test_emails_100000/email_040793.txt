@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Serrano,daniel.serrano4127@company.com,(478) 231-6611,574 46 6792,06/06/1998,"2695 Fifth Way",San Diego,MO

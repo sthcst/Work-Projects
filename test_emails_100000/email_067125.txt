@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Jones",
+    "email": "katherine.jones9556@yahoo.com",
+    "phone": "(536) 527-4170",
+    "ssn": "919 75 3203",
+    "dob": "03/18/1954",
+    "address": "8809 West Dr",
+    "city": "Houston",
+    "state": "AZ"
+  }
+}

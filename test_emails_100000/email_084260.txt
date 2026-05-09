@@ -1,0 +1,9 @@
+contact:
+  name: Megan Jimenez
+  email: megan.jimenez7829@company.com
+  phone: (872) 407-9237
+  ssn: 686935218
+  dob: 01/11/1972
+  address: 3998 Sixth Ave
+  city: Austin
+  state: CA

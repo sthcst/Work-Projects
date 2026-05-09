@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Brown
+  email: kevin.brown3685@example.com
+  phone: 448-469-8165
+  ssn: 212 74 5303
+  dob: 4/27/1984
+  address: 3706 South St
+  city: Washington
+  state: MA

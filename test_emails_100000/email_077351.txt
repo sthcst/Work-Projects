@@ -1,0 +1,14 @@
+INVOICE 416931
+
+Bill To:
+Name: Christine Clark
+Email: christine.clark1475@example.com
+Phone: (222) 421-5018
+SSN: 557-35-6551
+
+Address: 9870 Birch Ave
+Boston, NJ
+
+Date of Birth: 6/6/1986
+
+Amount Due: $2441

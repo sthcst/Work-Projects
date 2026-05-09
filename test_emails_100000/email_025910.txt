@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Hall",
+    "email": "michelle.hall3495@business.net",
+    "phone": "689 451 2719",
+    "ssn": "012 31 8815",
+    "dob": "1/8/1962",
+    "address": "4993 Second Way",
+    "city": "New York",
+    "state": "TX"
+  }
+}

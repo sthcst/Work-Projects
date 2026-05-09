@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Thompson,angela.thompson856@example.com,223 831 8588,842171284,17/01/1998,"8219 South Ln",Houston,MI

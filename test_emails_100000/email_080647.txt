@@ -1,0 +1,14 @@
+INVOICE 565153
+
+Bill To:
+Name: Steven Taylor
+Email: steven.taylor7041@work.org
+Phone: +1 443-243-4674
+SSN: 024-11-8179
+
+Address: 3014 Birch St
+Chicago, GA
+
+Date of Birth: 03/12/1964
+
+Amount Due: $1810

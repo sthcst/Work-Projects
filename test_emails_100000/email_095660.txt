@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Dominguez
+  email: jessica.dominguez2422@business.net
+  phone: 947-424-1669
+  ssn: 622 22 1853
+  dob: 02-16-1959
+  address: 6465 West Blvd
+  city: Austin
+  state: GA

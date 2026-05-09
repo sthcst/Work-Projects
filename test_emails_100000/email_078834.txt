@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Lee",
+    "email": "katherine.lee8942@example.com",
+    "phone": "235 728 7887",
+    "ssn": "217 53 3972",
+    "dob": "20/09/1987",
+    "address": "9395 Cedar Rd",
+    "city": "Philadelphia",
+    "state": "CO"
+  }
+}

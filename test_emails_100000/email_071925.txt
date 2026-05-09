@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Edwards",
+    "email": "lisa.edwards8243@work.org",
+    "phone": "743-978-1499",
+    "ssn": "202143168",
+    "dob": "2/21/1977",
+    "address": "9324 North St",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Moore",
+    "email": "ryan.moore3947@mail.com",
+    "phone": "739-507-1567",
+    "ssn": "295268544",
+    "dob": "11/01/1994",
+    "address": "258 First Dr",
+    "city": "Houston",
+    "state": "MI"
+  }
+}

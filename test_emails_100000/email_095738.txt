@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Thomas",
+    "email": "cynthia.thomas1271@outlook.com",
+    "phone": "315 321 3042",
+    "ssn": "988206392",
+    "dob": "01/22/2003",
+    "address": "5672 Pine Dr",
+    "city": "Houston",
+    "state": "FL"
+  }
+}

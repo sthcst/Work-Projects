@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Nunez,brian.nunez9833@yahoo.com,456-906-6838,453 33 9185,09/06/1954,"4385 Cedar Blvd",Denver,MO

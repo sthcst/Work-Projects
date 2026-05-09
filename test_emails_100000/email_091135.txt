@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Nelson",
+    "email": "ashley.nelson8797@example.com",
+    "phone": "(430) 761-5133",
+    "ssn": "875-49-3057",
+    "dob": "11/15/1979",
+    "address": "5925 West Ave",
+    "city": "Washington",
+    "state": "OH"
+  }
+}

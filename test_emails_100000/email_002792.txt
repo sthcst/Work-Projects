@@ -1,0 +1,9 @@
+contact:
+  name: Paul Dominguez
+  email: paul.dominguez451@work.org
+  phone: 936-723-3623
+  ssn: 639-44-3097
+  dob: 10-22-1965
+  address: 2692 Maple Rd
+  city: San Antonio
+  state: TX

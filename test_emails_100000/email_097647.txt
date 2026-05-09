@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Smith,michael.smith6066@example.com,485-590-6185,906575737,12-07-1986,"4559 Pine St",Austin,AZ

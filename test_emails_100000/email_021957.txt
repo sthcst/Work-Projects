@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Carter,angela.carter8302@business.net,+1 958-998-7775,797-27-9110,02/17/1969,"7615 Cedar Blvd",Chicago,TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Ortiz",
+    "email": "george.ortiz5367@gmail.com",
+    "phone": "277-255-4018",
+    "ssn": "339998095",
+    "dob": "7/4/1985",
+    "address": "688 West Court",
+    "city": "New York",
+    "state": "WA"
+  }
+}
