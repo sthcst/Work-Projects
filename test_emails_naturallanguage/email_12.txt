@@ -1,0 +1,8 @@
+Customer Information:
+Name: Emily Jones
+Email Address: emily.jones@example.com
+Phone Number: 793-853-9883
+SSN: 158-16-8811
+Street Address: 1031 Maple Dr
+City, State: Chicago, CA
+Date of Birth: 10/03/1975

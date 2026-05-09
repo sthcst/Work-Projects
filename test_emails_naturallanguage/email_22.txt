@@ -1,0 +1,10 @@
+{
+  "customer_name": "Amanda Miller",
+  "email_address": "amanda.miller@example.com",
+  "phone_number": "935-813-7291",
+  "ssn": "251-93-1090",
+  "mailing_address": "3685 Pine Rd",
+  "city": "Seattle",
+  "state": "NY",
+  "date_of_birth": "09/08/1967"
+}

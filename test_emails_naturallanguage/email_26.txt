@@ -1,0 +1,14 @@
+SUPPORT TICKET #12345
+
+Customer: John Johnson
+Email: john.johnson@example.com
+Phone: 672-286-1823
+Account Number: 340756713
+
+Issue Description:
+The customer reported a billing issue and needs to update their SSN on file, which is currently 316-68-6355.
+
+Address on file: 7006 Main St
+DOB: 01/24/1994
+
+Status: Pending review

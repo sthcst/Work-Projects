@@ -1,0 +1,10 @@
+{
+  "customer_name": "Sarah Johnson",
+  "email_address": "sarah.johnson@example.com",
+  "phone_number": "633-520-8651",
+  "ssn": "162-61-6559",
+  "mailing_address": "3239 Elm Street",
+  "city": "Seattle",
+  "state": "IL",
+  "date_of_birth": "07/06/1977"
+}

@@ -1,0 +1,14 @@
+SUPPORT TICKET #12345
+
+Customer: Amanda Davis
+Email: amanda.davis@example.com
+Phone: 684-912-3780
+Account Number: 925159146
+
+Issue Description:
+The customer reported a billing issue and needs to update their SSN on file, which is currently 627-94-6491.
+
+Address on file: 3780 Elm Street
+DOB: 01/08/1990
+
+Status: Pending review

@@ -1,0 +1,10 @@
+{
+  "customer_name": "David Brown",
+  "email_address": "david.brown@example.com",
+  "phone_number": "907-950-4978",
+  "ssn": "970-97-2983",
+  "mailing_address": "5788 Park Lane",
+  "city": "San Francisco",
+  "state": "CA",
+  "date_of_birth": "09/21/1981"
+}

@@ -1,0 +1,10 @@
+{
+  "customer_name": "James Jones",
+  "email_address": "james.jones@example.com",
+  "phone_number": "612-813-5844",
+  "ssn": "530-95-7211",
+  "mailing_address": "6753 Oak Ave",
+  "city": "Phoenix",
+  "state": "AZ",
+  "date_of_birth": "04/14/1997"
+}

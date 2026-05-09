@@ -1,0 +1,2 @@
+name,email,phone,ssn,address,city,state,dob
+James Rodriguez,james.rodriguez@example.com,973-553-9270,556-30-8777,4643 Cedar Way,Houston,AZ,08/03/1978

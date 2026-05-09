@@ -1,0 +1,10 @@
+{
+  "customer_name": "Sarah Jones",
+  "email_address": "sarah.jones@example.com",
+  "phone_number": "403-256-7126",
+  "ssn": "897-77-1009",
+  "mailing_address": "419 Maple Dr",
+  "city": "San Francisco",
+  "state": "AZ",
+  "date_of_birth": "04/02/1975"
+}

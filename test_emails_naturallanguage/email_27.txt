@@ -1,0 +1,9 @@
+customer:
+  name: John Smith
+  email: john.smith@example.com
+  phone: 220-736-3496
+  ssn: 785-24-4571
+  address: 6143 Pine Rd
+  city: Los Angeles
+  state: IL
+  dob: 05/04/1997

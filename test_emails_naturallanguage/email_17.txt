@@ -1,0 +1,10 @@
+{
+  "customer_name": "David Martinez",
+  "email_address": "david.martinez@example.com",
+  "phone_number": "366-919-3900",
+  "ssn": "854-52-7745",
+  "mailing_address": "4471 Pine Rd",
+  "city": "Los Angeles",
+  "state": "MA",
+  "date_of_birth": "01/28/1990"
+}

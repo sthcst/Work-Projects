@@ -1,0 +1,9 @@
+customer:
+  name: Lauren Williams
+  email: lauren.williams@example.com
+  phone: 367-573-7216
+  ssn: 801-51-1916
+  address: 6672 Main St
+  city: Los Angeles
+  state: TX
+  dob: 10/23/1980

@@ -1,0 +1,8 @@
+Customer Information:
+Name: Emily Martinez
+Email Address: emily.martinez@example.com
+Phone Number: 272-824-1964
+SSN: 980-52-2160
+Street Address: 8053 Elm Street
+City, State: Chicago, CO
+Date of Birth: 10/16/1975

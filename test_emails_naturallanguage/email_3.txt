@@ -1,0 +1,14 @@
+SUPPORT TICKET #12345
+
+Customer: Jessica Martinez
+Email: jessica.martinez@example.com
+Phone: 246-777-4733
+Account Number: 795822698
+
+Issue Description:
+The customer reported a billing issue and needs to update their SSN on file, which is currently 975-39-2654.
+
+Address on file: 6077 Pine Rd
+DOB: 04/22/1977
+
+Status: Pending review

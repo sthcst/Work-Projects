@@ -1,0 +1,9 @@
+customer:
+  name: Chris Martinez
+  email: chris.martinez@example.com
+  phone: 408-803-5325
+  ssn: 966-16-2512
+  address: 822 Oak Ave
+  city: San Francisco
+  state: IL
+  dob: 11/09/1970

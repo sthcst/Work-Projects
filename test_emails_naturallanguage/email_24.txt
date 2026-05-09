@@ -1,0 +1,21 @@
+From: James Johnson <james.johnson@example.com>
+To: michael.williams@test.org
+Date: 2026-10-13
+Subject: Account Information Request
+
+Dear Michael Williams,
+
+I hope this email finds you well. I am writing to confirm some personal details on file.
+
+Your current contact information:
+- Email: james.johnson@example.com
+- Phone: 436-492-3503
+- Social Security Number: 524-62-6421
+- Address: 1120 Elm Street, Boston, MA
+- Date of Birth: 10/23/1961
+
+Please verify these details and contact me if any corrections are needed.
+
+Best regards,
+James Johnson
+(923) 319-2052

@@ -1,0 +1,14 @@
+SUPPORT TICKET #12345
+
+Customer: Amanda Williams
+Email: amanda.williams@example.com
+Phone: 452-862-9830
+Account Number: 740389325
+
+Issue Description:
+The customer reported a billing issue and needs to update their SSN on file, which is currently 697-61-6930.
+
+Address on file: 8185 Maple Dr
+DOB: 03/21/1970
+
+Status: Pending review
