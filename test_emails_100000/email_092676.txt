@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Garcia,ronald.garcia6994@mail.com,+1 616-270-7081,171723705,07-14-1977,"4406 Cedar Dr",Chicago,WA

@@ -1,0 +1,9 @@
+contact:
+  name: David Moore
+  email: david.moore4277@example.com
+  phone: 625-467-5515
+  ssn: 054 47 1261
+  dob: 04/19/1973
+  address: 5424 First Court
+  city: Dallas
+  state: WI

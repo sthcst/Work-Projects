@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Flores,timothy.flores5059@outlook.com,651 430 3442,397742148,12-28-2002,"8738 South Rd",Washington,AZ

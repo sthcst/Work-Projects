@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Phillips",
+    "email": "mark.phillips8951@example.com",
+    "phone": "534 685 1057",
+    "ssn": "804 02 1048",
+    "dob": "08-11-1977",
+    "address": "4183 Oak Court",
+    "city": "Los Angeles",
+    "state": "VA"
+  }
+}

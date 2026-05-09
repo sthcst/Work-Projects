@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Harris
+  email: jessica.harris2638@company.com
+  phone: (426) 821-7698
+  ssn: 183 27 2977
+  dob: 12/28/1956
+  address: 6814 Summer St
+  city: Boston
+  state: WI

@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Jimenez
+  email: pamela.jimenez4283@gmail.com
+  phone: +1 352-486-1479
+  ssn: 030 09 5310
+  dob: 07-06-1991
+  address: 3069 South Ln
+  city: Boston
+  state: PA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Phillips",
+    "email": "rachel.phillips4174@outlook.com",
+    "phone": "835 613 4249",
+    "ssn": "017-86-2686",
+    "dob": "11/15/1998",
+    "address": "6834 Fourth Dr",
+    "city": "San Diego",
+    "state": "MO"
+  }
+}

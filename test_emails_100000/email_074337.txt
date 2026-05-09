@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Young,george.young4349@outlook.com,215-799-1496,143921167,03/05/1973,"3498 First Dr",Boston,CA

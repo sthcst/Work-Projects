@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Stewart,jessica.stewart520@business.net,(870) 424-5369,425-75-5463,01/12/1968,"3484 East Way",San Diego,AZ

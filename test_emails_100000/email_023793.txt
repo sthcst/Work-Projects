@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Smith,shirley.smith4778@yahoo.com,410 665 5900,616-09-6958,12/21/1991,"6888 Main St",Austin,MO

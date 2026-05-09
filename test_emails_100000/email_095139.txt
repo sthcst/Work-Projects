@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Roberts",
+    "email": "gary.roberts9920@work.org",
+    "phone": "725-915-4252",
+    "ssn": "631 92 3776",
+    "dob": "8/25/1986",
+    "address": "2919 Main Court",
+    "city": "San Jose",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Rogers",
+    "email": "kenneth.rogers3631@outlook.com",
+    "phone": "+1 946-943-1898",
+    "ssn": "911579844",
+    "dob": "27/09/1966",
+    "address": "8945 Oak Dr",
+    "city": "San Antonio",
+    "state": "NJ"
+  }
+}

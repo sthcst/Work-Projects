@@ -1,0 +1,9 @@
+contact:
+  name: Charles Jones
+  email: charles.jones9995@company.com
+  phone: 363 786 4056
+  ssn: 206-29-6923
+  dob: 9/16/1961
+  address: 3862 Second Ln
+  city: New York
+  state: MO

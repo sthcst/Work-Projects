@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Rodriguez,brian.rodriguez2839@yahoo.com,553-483-4535,482876440,05/14/1973,"2353 Oak Ave",Seattle,CA

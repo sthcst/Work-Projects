@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Peterson,nicole.peterson788@company.com,961 418 8049,586-34-4476,05/06/1970,"1176 Pine Dr",Chicago,WI

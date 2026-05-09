@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Serrano
+  email: jessica.serrano97@gmail.com
+  phone: (327) 704-5229
+  ssn: 433-24-6644
+  dob: 01/19/1971
+  address: 2269 Spring Blvd
+  city: Washington
+  state: IL

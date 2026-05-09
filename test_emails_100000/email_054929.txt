@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Reed,kevin.reed6573@yahoo.com,658-677-1463,402-72-4403,1/23/1973,"8308 First St",Phoenix,OH

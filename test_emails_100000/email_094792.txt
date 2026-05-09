@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Bell",
+    "email": "lisa.bell4799@outlook.com",
+    "phone": "(873) 874-2937",
+    "ssn": "245 16 5112",
+    "dob": "02/05/1961",
+    "address": "2078 Maple Way",
+    "city": "Boston",
+    "state": "NC"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Gomez
+  email: kevin.gomez9916@gmail.com
+  phone: (238) 978-3619
+  ssn: 002-75-7517
+  dob: 10/4/1993
+  address: 4046 First Blvd
+  city: Austin
+  state: WI

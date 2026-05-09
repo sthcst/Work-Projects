@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Alvarado
+  email: timothy.alvarado2650@company.com
+  phone: +1 369-307-8635
+  ssn: 295644629
+  dob: 10/07/1950
+  address: 4999 South Rd
+  city: San Diego
+  state: AZ

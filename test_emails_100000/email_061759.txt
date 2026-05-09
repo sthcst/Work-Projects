@@ -1,0 +1,14 @@
+INVOICE 861896
+
+Bill To:
+Name: Andrew Smith
+Email: andrew.smith4881@yahoo.com
+Phone: 747-530-6224
+SSN: 332 22 6831
+
+Address: 652 Main Ln
+Austin, CA
+
+Date of Birth: 24/09/1989
+
+Amount Due: $9010

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Guerrero",
+    "email": "joseph.guerrero7848@gmail.com",
+    "phone": "+1 645-901-5178",
+    "ssn": "534-49-1432",
+    "dob": "22/12/1982",
+    "address": "8158 Second Way",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

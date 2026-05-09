@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Jones",
+    "email": "gary.jones1595@gmail.com",
+    "phone": "404 644 8544",
+    "ssn": "234 11 1592",
+    "dob": "02-17-1967",
+    "address": "9177 Summer Dr",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

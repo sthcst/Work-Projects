@@ -1,0 +1,14 @@
+INVOICE 145060
+
+Bill To:
+Name: Katherine Gomez
+Email: katherine.gomez1297@example.com
+Phone: +1 902-472-1816
+SSN: 799 48 1302
+
+Address: 1403 Birch Ln
+Seattle, WA
+
+Date of Birth: 27/01/1959
+
+Amount Due: $1899

@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Ramirez
+  email: ashley.ramirez8794@gmail.com
+  phone: 489 648 7404
+  ssn: 624-41-6074
+  dob: 04/19/1978
+  address: 9019 Second Ln
+  city: Denver
+  state: CA

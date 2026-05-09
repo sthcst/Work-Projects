@@ -1,0 +1,9 @@
+contact:
+  name: George Flores
+  email: george.flores1074@example.com
+  phone: +1 965-735-3178
+  ssn: 022 23 1751
+  dob: 19/07/1981
+  address: 1338 Cedar Ln
+  city: Los Angeles
+  state: PA

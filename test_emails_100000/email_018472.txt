@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Nelson
+  email: lauren.nelson6169@mail.com
+  phone: 284-724-1399
+  ssn: 714551112
+  dob: 1/19/1971
+  address: 2039 South St
+  city: San Antonio
+  state: TN

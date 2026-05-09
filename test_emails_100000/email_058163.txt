@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Anderson",
+    "email": "kenneth.anderson7353@example.com",
+    "phone": "503-985-1658",
+    "ssn": "957-06-8797",
+    "dob": "5/18/1992",
+    "address": "7404 Summer Court",
+    "city": "San Diego",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Sanchez",
+    "email": "cynthia.sanchez8496@outlook.com",
+    "phone": "447 700 1059",
+    "ssn": "179213779",
+    "dob": "08/28/1984",
+    "address": "6850 South St",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

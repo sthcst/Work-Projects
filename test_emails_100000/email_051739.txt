@@ -1,0 +1,14 @@
+INVOICE 188054
+
+Bill To:
+Name: Brian Jimenez
+Email: brian.jimenez23@mail.com
+Phone: (721) 356-2942
+SSN: 972131074
+
+Address: 186 First Ave
+Dallas, WA
+
+Date of Birth: 10/3/1982
+
+Amount Due: $6810

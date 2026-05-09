@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Williams",
+    "email": "robert.williams1783@yahoo.com",
+    "phone": "380-456-5526",
+    "ssn": "759734549",
+    "dob": "1/21/1994",
+    "address": "3919 North Blvd",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Gonzalez,timothy.gonzalez5582@example.com,586-603-9312,625331168,25/09/1984,"7758 Third Rd",Denver,TX

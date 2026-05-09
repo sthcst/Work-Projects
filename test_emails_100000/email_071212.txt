@@ -1,0 +1,14 @@
+INVOICE 570202
+
+Bill To:
+Name: Ronald Perez
+Email: ronald.perez1865@work.org
+Phone: +1 366-405-1421
+SSN: 662123352
+
+Address: 3907 Second Way
+Boston, DC
+
+Date of Birth: 1/2/1969
+
+Amount Due: $1966

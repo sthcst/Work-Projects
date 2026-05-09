@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Clark,cynthia.clark1177@company.com,649-636-8458,181822407,10-10-1995,"8927 Summer Ln",Los Angeles,CA

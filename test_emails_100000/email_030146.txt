@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Lee,richard.lee7913@yahoo.com,(629) 660-2658,611 23 7040,04-12-1983,"343 Spring Way",Chicago,WI

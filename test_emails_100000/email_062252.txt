@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Martin,stephanie.martin2880@mail.com,+1 873-717-1492,985 29 3434,04/27/1982,"9729 Maple Dr",Denver,TX

@@ -1,0 +1,14 @@
+INVOICE 905449
+
+Bill To:
+Name: David Hernandez
+Email: david.hernandez5403@example.com
+Phone: 881 988 3672
+SSN: 941 70 6592
+
+Address: 7446 Oak Ln
+Washington, NJ
+
+Date of Birth: 11-10-1964
+
+Amount Due: $5524

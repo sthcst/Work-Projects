@@ -1,0 +1,14 @@
+INVOICE 280433
+
+Bill To:
+Name: Andrew Hernandez
+Email: andrew.hernandez8124@mail.com
+Phone: +1 757-940-4735
+SSN: 399-74-7344
+
+Address: 509 Cedar Ln
+San Diego, TX
+
+Date of Birth: 6/17/2002
+
+Amount Due: $5427

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Gonzalez",
+    "email": "deborah.gonzalez1608@work.org",
+    "phone": "+1 269-386-9521",
+    "ssn": "889 63 8421",
+    "dob": "16/08/1997",
+    "address": "7503 Summer Blvd",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Reyes",
+    "email": "paul.reyes576@mail.com",
+    "phone": "862 894 1155",
+    "ssn": "657571871",
+    "dob": "17/01/1955",
+    "address": "1864 Maple Blvd",
+    "city": "San Diego",
+    "state": "GA"
+  }
+}

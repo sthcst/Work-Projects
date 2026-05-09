@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Gonzalez,sarah.gonzalez7367@company.com,353 429 7159,278 72 4074,11/20/1992,"7264 Sixth Court",Phoenix,WA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Guerrero,brenda.guerrero6829@business.net,855 671 4975,159 31 1032,09-13-1970,"9944 Sixth Rd",San Jose,CO

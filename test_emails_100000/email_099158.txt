@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Taylor",
+    "email": "maria.taylor8370@outlook.com",
+    "phone": "733-997-7904",
+    "ssn": "534 44 1579",
+    "dob": "08-13-1973",
+    "address": "2519 First Rd",
+    "city": "Los Angeles",
+    "state": "WA"
+  }
+}

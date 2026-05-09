@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Reyes",
+    "email": "paul.reyes1829@outlook.com",
+    "phone": "(771) 859-8562",
+    "ssn": "075947763",
+    "dob": "05-08-1953",
+    "address": "8574 Oak St",
+    "city": "Denver",
+    "state": "AZ"
+  }
+}

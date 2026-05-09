@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Clark,lauren.clark6822@outlook.com,215 919 4251,219 51 4683,13/11/1980,"4757 North Ave",Phoenix,FL

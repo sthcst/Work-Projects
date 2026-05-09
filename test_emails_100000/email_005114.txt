@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Gomez
+  email: lisa.gomez2850@work.org
+  phone: (206) 648-4040
+  ssn: 085 64 6969
+  dob: 05-05-1970
+  address: 9412 Main Rd
+  city: Dallas
+  state: FL

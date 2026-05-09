@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Collins
+  email: jennifer.collins8340@yahoo.com
+  phone: 246-332-4707
+  ssn: 079-06-7768
+  dob: 02/28/1987
+  address: 3398 Oak Ave
+  city: San Antonio
+  state: GA

@@ -1,0 +1,14 @@
+INVOICE 231375
+
+Bill To:
+Name: Joseph Guerrero
+Email: joseph.guerrero3970@company.com
+Phone: (223) 207-9844
+SSN: 169-45-5330
+
+Address: 9111 Elm Blvd
+Phoenix, IL
+
+Date of Birth: 6/1/1953
+
+Amount Due: $8024

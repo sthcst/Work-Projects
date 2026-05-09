@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Edwards
+  email: andrew.edwards6614@mail.com
+  phone: 756-402-8970
+  ssn: 829-45-5742
+  dob: 04/02/1963
+  address: 6267 Main Way
+  city: Phoenix
+  state: CA

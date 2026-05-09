@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Roberts",
+    "email": "donald.roberts338@mail.com",
+    "phone": "(272) 283-7986",
+    "ssn": "197 72 4235",
+    "dob": "19/12/1950",
+    "address": "8538 Summer Ave",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

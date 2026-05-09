@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Gomez",
+    "email": "edward.gomez9667@mail.com",
+    "phone": "486 213 8346",
+    "ssn": "139-62-7037",
+    "dob": "03/05/1969",
+    "address": "4004 Summer Ln",
+    "city": "Chicago",
+    "state": "MO"
+  }
+}

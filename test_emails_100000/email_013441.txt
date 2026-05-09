@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Morgan,rachel.morgan5001@mail.com,400-721-7421,037-30-5185,24/11/1989,"4948 North Blvd",Houston,MA

@@ -1,0 +1,9 @@
+contact:
+  name: Angela Taylor
+  email: angela.taylor7072@mail.com
+  phone: 790 254 2136
+  ssn: 788 56 7733
+  dob: 4/17/2001
+  address: 6118 South Rd
+  city: Dallas
+  state: AZ

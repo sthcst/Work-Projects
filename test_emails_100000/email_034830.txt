@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Edwards",
+    "email": "amanda.edwards6997@mail.com",
+    "phone": "+1 721-453-1284",
+    "ssn": "263 51 7696",
+    "dob": "10-19-1980",
+    "address": "9734 Fourth Ln",
+    "city": "San Jose",
+    "state": "MI"
+  }
+}

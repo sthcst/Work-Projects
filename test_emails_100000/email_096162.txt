@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Rogers",
+    "email": "brenda.rogers1608@company.com",
+    "phone": "442 336 9295",
+    "ssn": "481-66-8487",
+    "dob": "6/1/1980",
+    "address": "7282 Main Court",
+    "city": "Boston",
+    "state": "DC"
+  }
+}

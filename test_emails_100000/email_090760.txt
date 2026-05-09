@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Clark,james.clark9744@example.com,(811) 551-6260,388-07-5913,10/12/1986,"6195 North Blvd",Seattle,VA

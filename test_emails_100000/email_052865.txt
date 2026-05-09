@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Stewart",
+    "email": "angela.stewart2350@business.net",
+    "phone": "768 881 9264",
+    "ssn": "753 95 9955",
+    "dob": "10-10-1974",
+    "address": "7662 Fourth Blvd",
+    "city": "Dallas",
+    "state": "FL"
+  }
+}

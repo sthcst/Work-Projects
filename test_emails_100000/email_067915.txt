@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Perez",
+    "email": "jennifer.perez9152@yahoo.com",
+    "phone": "(373) 643-1038",
+    "ssn": "531 81 4683",
+    "dob": "22/12/2000",
+    "address": "9936 Fourth Ln",
+    "city": "Denver",
+    "state": "NC"
+  }
+}

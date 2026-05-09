@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Gomez",
+    "email": "megan.gomez756@company.com",
+    "phone": "(860) 583-3033",
+    "ssn": "055 14 7071",
+    "dob": "12/23/1951",
+    "address": "8323 South Ave",
+    "city": "San Jose",
+    "state": "CA"
+  }
+}

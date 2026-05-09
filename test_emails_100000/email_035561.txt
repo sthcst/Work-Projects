@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Campbell",
+    "email": "shirley.campbell8157@yahoo.com",
+    "phone": "+1 730-444-1980",
+    "ssn": "698-79-6636",
+    "dob": "12-25-1991",
+    "address": "6923 Fifth Court",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

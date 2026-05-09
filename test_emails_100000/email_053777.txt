@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Lee,rebecca.lee2572@mail.com,979-673-3525,109 79 4640,08-15-2003,"3336 West Blvd",Philadelphia,TN

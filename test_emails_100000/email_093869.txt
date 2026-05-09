@@ -1,0 +1,14 @@
+INVOICE 146890
+
+Bill To:
+Name: Megan Davis
+Email: megan.davis2813@outlook.com
+Phone: 734-410-9928
+SSN: 544 08 3940
+
+Address: 39 Spring Dr
+Phoenix, AZ
+
+Date of Birth: 7/8/1980
+
+Amount Due: $1041

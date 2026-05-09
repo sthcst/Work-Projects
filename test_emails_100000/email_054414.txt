@@ -1,0 +1,14 @@
+INVOICE 104975
+
+Bill To:
+Name: Michelle Johnson
+Email: michelle.johnson2047@gmail.com
+Phone: 281 836 8038
+SSN: 127452705
+
+Address: 7638 South Court
+Jacksonville, MO
+
+Date of Birth: 25/06/1962
+
+Amount Due: $2546

@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Romero
+  email: timothy.romero1465@business.net
+  phone: +1 519-894-7101
+  ssn: 210622723
+  dob: 15/09/1951
+  address: 3198 Spring Court
+  city: New York
+  state: TN

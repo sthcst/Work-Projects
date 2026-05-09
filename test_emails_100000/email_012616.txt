@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Perez
+  email: andrew.perez7118@work.org
+  phone: 379-392-8713
+  ssn: 416-18-7349
+  dob: 04/21/1992
+  address: 161 East Court
+  city: Chicago
+  state: TX

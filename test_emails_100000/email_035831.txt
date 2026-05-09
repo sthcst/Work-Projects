@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Wilson
+  email: anthony.wilson6185@yahoo.com
+  phone: +1 486-716-9626
+  ssn: 339-86-6469
+  dob: 02-10-1970
+  address: 1607 West Rd
+  city: Philadelphia
+  state: WI

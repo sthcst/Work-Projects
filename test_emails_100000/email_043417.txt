@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Garcia",
+    "email": "anthony.garcia3193@business.net",
+    "phone": "925-980-6123",
+    "ssn": "186161266",
+    "dob": "08-01-1966",
+    "address": "6879 Second Ln",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

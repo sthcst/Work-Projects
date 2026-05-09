@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Robinson
+  email: christopher.robinson3525@yahoo.com
+  phone: +1 671-894-5413
+  ssn: 879-94-6521
+  dob: 3/19/1965
+  address: 2241 Cedar Blvd
+  city: Philadelphia
+  state: FL

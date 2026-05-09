@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Reyes
+  email: rebecca.reyes5763@gmail.com
+  phone: (257) 646-5196
+  ssn: 588122348
+  dob: 23/02/1985
+  address: 4119 Fifth Rd
+  city: Austin
+  state: TX

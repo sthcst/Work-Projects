@@ -1,0 +1,9 @@
+contact:
+  name: Mark Clark
+  email: mark.clark6370@gmail.com
+  phone: +1 942-206-9774
+  ssn: 149-22-6718
+  dob: 03/19/1973
+  address: 6769 South Way
+  city: Seattle
+  state: WA

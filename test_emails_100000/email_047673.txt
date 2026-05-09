@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Harris",
+    "email": "nicole.harris2217@business.net",
+    "phone": "231 361 3003",
+    "ssn": "039-37-3886",
+    "dob": "12-09-1968",
+    "address": "3538 South St",
+    "city": "Seattle",
+    "state": "MO"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Hernandez",
+    "email": "david.hernandez7620@gmail.com",
+    "phone": "(300) 760-9622",
+    "ssn": "517884327",
+    "dob": "11/16/1972",
+    "address": "9768 North Blvd",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

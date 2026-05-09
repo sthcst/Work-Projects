@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Evans",
+    "email": "donald.evans8973@company.com",
+    "phone": "952 629 6909",
+    "ssn": "939-35-7403",
+    "dob": "09/01/1954",
+    "address": "5215 Spring Ln",
+    "city": "Phoenix",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Jones,brian.jones5228@yahoo.com,+1 824-686-9487,612 13 1765,21/11/1993,"9999 Summer Ave",Houston,CA

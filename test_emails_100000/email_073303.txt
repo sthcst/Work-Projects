@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Reyes
+  email: joseph.reyes2283@example.com
+  phone: (365) 479-3232
+  ssn: 103 31 5018
+  dob: 09/14/1967
+  address: 4789 Second Dr
+  city: Dallas
+  state: TX

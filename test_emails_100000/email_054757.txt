@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Thompson",
+    "email": "jane.thompson8416@company.com",
+    "phone": "+1 385-244-1769",
+    "ssn": "840377156",
+    "dob": "8/2/1952",
+    "address": "2500 Pine Ave",
+    "city": "San Jose",
+    "state": "AZ"
+  }
+}

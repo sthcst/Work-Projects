@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Hall
+  email: amanda.hall4342@mail.com
+  phone: +1 490-271-3184
+  ssn: 148568399
+  dob: 11/3/1957
+  address: 931 Spring Ave
+  city: Seattle
+  state: CO

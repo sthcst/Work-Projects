@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Sanchez",
+    "email": "mark.sanchez7115@company.com",
+    "phone": "(261) 922-3780",
+    "ssn": "555-53-4546",
+    "dob": "26/09/1992",
+    "address": "4489 Third Rd",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

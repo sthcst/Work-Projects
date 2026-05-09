@@ -1,0 +1,14 @@
+INVOICE 440691
+
+Bill To:
+Name: Joseph Serrano
+Email: joseph.serrano7273@example.com
+Phone: (675) 663-1066
+SSN: 784 28 7901
+
+Address: 9897 North Blvd
+Chicago, MA
+
+Date of Birth: 10/23/1986
+
+Amount Due: $3623

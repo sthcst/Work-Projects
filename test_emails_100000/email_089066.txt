@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Anderson",
+    "email": "brian.anderson3224@work.org",
+    "phone": "(600) 861-2704",
+    "ssn": "291-62-4933",
+    "dob": "19/04/1950",
+    "address": "4586 Cedar Ln",
+    "city": "Philadelphia",
+    "state": "FL"
+  }
+}

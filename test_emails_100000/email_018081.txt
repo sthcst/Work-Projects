@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Phillips,george.phillips8979@company.com,+1 976-457-5379,143955773,04-09-1977,"2695 South Blvd",San Antonio,MD

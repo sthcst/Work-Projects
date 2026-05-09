@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Peterson,nicole.peterson3027@example.com,981 805 7175,613 50 2699,25/11/1956,"9543 East Dr",Seattle,IL

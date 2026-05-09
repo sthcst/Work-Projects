@@ -1,0 +1,14 @@
+INVOICE 338253
+
+Bill To:
+Name: Jason Phillips
+Email: jason.phillips6815@mail.com
+Phone: (275) 895-8201
+SSN: 773-49-7293
+
+Address: 5848 Elm Way
+Seattle, MO
+
+Date of Birth: 12/25/1981
+
+Amount Due: $5854

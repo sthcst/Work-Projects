@@ -1,0 +1,9 @@
+contact:
+  name: Richard Hall
+  email: richard.hall1120@gmail.com
+  phone: 350-359-7552
+  ssn: 803362276
+  dob: 06-04-1981
+  address: 7531 Fifth Ave
+  city: Houston
+  state: TN

@@ -1,0 +1,9 @@
+contact:
+  name: Mark Reeves
+  email: mark.reeves3906@outlook.com
+  phone: 993 294 5240
+  ssn: 084 85 5181
+  dob: 26/09/1985
+  address: 2607 Elm Rd
+  city: Seattle
+  state: DC

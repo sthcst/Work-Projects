@@ -1,0 +1,9 @@
+contact:
+  name: Maria Thomas
+  email: maria.thomas435@yahoo.com
+  phone: (589) 867-7768
+  ssn: 458-34-3539
+  dob: 27/11/1989
+  address: 3791 Oak Rd
+  city: Boston
+  state: CA

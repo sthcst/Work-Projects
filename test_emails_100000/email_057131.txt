@@ -1,0 +1,9 @@
+contact:
+  name: Paul Bell
+  email: paul.bell8636@mail.com
+  phone: +1 272-460-5114
+  ssn: 711-07-6656
+  dob: 03-05-1960
+  address: 6562 Fourth Blvd
+  city: Philadelphia
+  state: CA

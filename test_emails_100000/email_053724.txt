@@ -1,0 +1,14 @@
+INVOICE 901710
+
+Bill To:
+Name: Timothy Edwards
+Email: timothy.edwards2502@mail.com
+Phone: +1 624-420-1189
+SSN: 573-71-7933
+
+Address: 7887 Maple Court
+Boston, TN
+
+Date of Birth: 05/27/1958
+
+Amount Due: $200

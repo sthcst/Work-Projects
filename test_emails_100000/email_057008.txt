@@ -1,0 +1,14 @@
+INVOICE 880255
+
+Bill To:
+Name: Pamela Delgado
+Email: pamela.delgado3352@example.com
+Phone: 830-249-3479
+SSN: 718691656
+
+Address: 8434 Elm Blvd
+Chicago, WA
+
+Date of Birth: 6/4/1982
+
+Amount Due: $1686

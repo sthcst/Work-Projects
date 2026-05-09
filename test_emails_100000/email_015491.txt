@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Jimenez",
+    "email": "shirley.jimenez1423@yahoo.com",
+    "phone": "+1 739-682-5702",
+    "ssn": "760-84-4426",
+    "dob": "08/08/1965",
+    "address": "5102 First Dr",
+    "city": "Chicago",
+    "state": "NY"
+  }
+}

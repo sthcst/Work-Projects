@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Cooper,angela.cooper3197@outlook.com,583-950-1017,433-94-6691,07/19/1974,"5511 Fourth Dr",Dallas,NJ

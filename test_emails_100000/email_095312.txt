@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Jones",
+    "email": "joseph.jones9626@mail.com",
+    "phone": "331-234-2793",
+    "ssn": "388-37-2665",
+    "dob": "08/05/1969",
+    "address": "2483 Fourth St",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

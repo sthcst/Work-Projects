@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Dominguez,jennifer.dominguez2806@mail.com,550 745 4104,552-81-6461,02-10-1988,"7493 Sixth Blvd",Washington,MO

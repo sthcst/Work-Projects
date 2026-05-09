@@ -1,0 +1,14 @@
+INVOICE 352355
+
+Bill To:
+Name: Cynthia Roberts
+Email: cynthia.roberts1236@mail.com
+Phone: +1 559-790-8364
+SSN: 129 96 3553
+
+Address: 8690 Main Blvd
+Houston, OH
+
+Date of Birth: 07/13/2000
+
+Amount Due: $3675

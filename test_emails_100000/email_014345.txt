@@ -1,0 +1,9 @@
+contact:
+  name: John Roberts
+  email: john.roberts2385@example.com
+  phone: (251) 772-3396
+  ssn: 946934548
+  dob: 07-06-1983
+  address: 6125 Pine Dr
+  city: Phoenix
+  state: MD

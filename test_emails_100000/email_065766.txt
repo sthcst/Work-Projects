@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Garcia,timothy.garcia8592@work.org,447-612-1283,617-55-8175,08/15/1953,"4301 West Court",New York,MA

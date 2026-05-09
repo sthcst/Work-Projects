@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Lewis",
+    "email": "pamela.lewis5583@company.com",
+    "phone": "+1 541-599-7702",
+    "ssn": "185831084",
+    "dob": "04/10/1982",
+    "address": "7789 First Way",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

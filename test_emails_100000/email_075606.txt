@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Perez",
+    "email": "ryan.perez1814@yahoo.com",
+    "phone": "(210) 972-2394",
+    "ssn": "798 85 7921",
+    "dob": "11-12-1970",
+    "address": "2014 Summer St",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

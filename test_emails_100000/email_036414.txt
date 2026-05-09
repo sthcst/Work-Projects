@@ -1,0 +1,14 @@
+INVOICE 758288
+
+Bill To:
+Name: Andrew Alvarado
+Email: andrew.alvarado2802@work.org
+Phone: 682 422 5034
+SSN: 460 38 8387
+
+Address: 3394 First Ave
+Chicago, MO
+
+Date of Birth: 05-23-1966
+
+Amount Due: $2468

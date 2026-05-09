@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Peterson
+  email: deborah.peterson6501@work.org
+  phone: 788 931 2520
+  ssn: 226-39-9362
+  dob: 07-19-1998
+  address: 208 Birch Rd
+  city: San Jose
+  state: AZ

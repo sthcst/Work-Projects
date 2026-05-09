@@ -1,0 +1,14 @@
+INVOICE 691702
+
+Bill To:
+Name: Sarah Moore
+Email: sarah.moore6411@example.com
+Phone: 720 779 9028
+SSN: 433653798
+
+Address: 7275 Main Court
+San Diego, MD
+
+Date of Birth: 12/10/1951
+
+Amount Due: $1596

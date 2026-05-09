@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca White
+  email: rebecca.white5322@example.com
+  phone: +1 723-673-4285
+  ssn: 242-85-2309
+  dob: 07-14-2001
+  address: 115 Park Blvd
+  city: San Jose
+  state: OH

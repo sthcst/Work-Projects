@@ -1,0 +1,9 @@
+contact:
+  name: William Gomez
+  email: william.gomez2886@work.org
+  phone: 613-401-8666
+  ssn: 001339366
+  dob: 03-25-2001
+  address: 7811 Main Way
+  city: Washington
+  state: GA

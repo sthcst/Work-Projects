@@ -1,0 +1,9 @@
+contact:
+  name: Anna Perez
+  email: anna.perez6158@mail.com
+  phone: 508-857-7542
+  ssn: 549-21-7990
+  dob: 07/01/1971
+  address: 7910 Main St
+  city: Seattle
+  state: TX

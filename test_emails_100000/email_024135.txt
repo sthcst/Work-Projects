@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Phillips",
+    "email": "christopher.phillips8486@gmail.com",
+    "phone": "+1 423-213-1930",
+    "ssn": "595-57-5865",
+    "dob": "02/08/1992",
+    "address": "3343 Cedar Dr",
+    "city": "San Diego",
+    "state": "MD"
+  }
+}

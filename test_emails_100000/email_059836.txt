@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Thompson",
+    "email": "cynthia.thompson9857@yahoo.com",
+    "phone": "+1 969-276-4100",
+    "ssn": "620 49 4194",
+    "dob": "10/23/1979",
+    "address": "7754 Cedar Ln",
+    "city": "Los Angeles",
+    "state": "AZ"
+  }
+}

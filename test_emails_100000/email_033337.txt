@@ -1,0 +1,9 @@
+contact:
+  name: William Robinson
+  email: william.robinson1054@yahoo.com
+  phone: (639) 417-2429
+  ssn: 284 82 5498
+  dob: 27/05/1969
+  address: 8410 Spring Ln
+  city: Dallas
+  state: TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Harris",
+    "email": "anna.harris608@yahoo.com",
+    "phone": "887-340-8059",
+    "ssn": "022-14-9703",
+    "dob": "09/26/1960",
+    "address": "7665 Fourth Court",
+    "city": "Jacksonville",
+    "state": "DC"
+  }
+}

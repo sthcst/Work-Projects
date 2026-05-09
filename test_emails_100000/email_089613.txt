@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Johnson",
+    "email": "rachel.johnson7664@business.net",
+    "phone": "600 311 5418",
+    "ssn": "002681425",
+    "dob": "24/12/1985",
+    "address": "1786 South Ave",
+    "city": "San Jose",
+    "state": "MD"
+  }
+}

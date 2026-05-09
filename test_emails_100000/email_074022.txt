@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Moore",
+    "email": "katherine.moore7702@outlook.com",
+    "phone": "698 315 4780",
+    "ssn": "063-88-8747",
+    "dob": "10-25-2001",
+    "address": "7746 Main Rd",
+    "city": "Chicago",
+    "state": "PA"
+  }
+}

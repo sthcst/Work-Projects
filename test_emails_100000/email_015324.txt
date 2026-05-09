@@ -1,0 +1,14 @@
+INVOICE 837445
+
+Bill To:
+Name: Kevin Garcia
+Email: kevin.garcia2347@work.org
+Phone: +1 781-584-6291
+SSN: 935-02-3340
+
+Address: 5649 Summer Dr
+Washington, CO
+
+Date of Birth: 10/13/1958
+
+Amount Due: $4728

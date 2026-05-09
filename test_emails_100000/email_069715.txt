@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Reed
+  email: deborah.reed6917@example.com
+  phone: 264 211 5427
+  ssn: 102-34-8286
+  dob: 07/21/1990
+  address: 7002 Elm Way
+  city: Seattle
+  state: MA

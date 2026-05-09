@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Nunez,lisa.nunez3599@company.com,+1 472-918-9707,294-62-9540,14/04/1974,"3772 West Blvd",Boston,TX

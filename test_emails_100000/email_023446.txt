@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly White,kimberly.white8999@outlook.com,415 406 5327,157-91-1366,06/04/1998,"48 East Way",Philadelphia,AZ

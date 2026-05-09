@@ -1,0 +1,14 @@
+INVOICE 308814
+
+Bill To:
+Name: Paul Thompson
+Email: paul.thompson3527@example.com
+Phone: (387) 570-2820
+SSN: 866745719
+
+Address: 8042 Third Blvd
+Seattle, CA
+
+Date of Birth: 04-04-1992
+
+Amount Due: $219

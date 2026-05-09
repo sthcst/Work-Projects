@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Alvarado",
+    "email": "jennifer.alvarado2736@example.com",
+    "phone": "+1 759-424-4743",
+    "ssn": "617433822",
+    "dob": "05-23-1993",
+    "address": "659 South Dr",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

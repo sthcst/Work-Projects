@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Smith",
+    "email": "nicholas.smith1271@yahoo.com",
+    "phone": "+1 795-444-3498",
+    "ssn": "899298612",
+    "dob": "25/09/1965",
+    "address": "9205 Pine Ave",
+    "city": "New York",
+    "state": "CO"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Martin
+  email: nicole.martin1296@gmail.com
+  phone: (300) 594-2043
+  ssn: 741-69-4758
+  dob: 08-28-1977
+  address: 1724 North Dr
+  city: Dallas
+  state: VA

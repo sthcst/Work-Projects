@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Young",
+    "email": "william.young1261@yahoo.com",
+    "phone": "+1 916-829-7255",
+    "ssn": "844557403",
+    "dob": "13/12/1967",
+    "address": "8758 Sixth Court",
+    "city": "New York",
+    "state": "OH"
+  }
+}

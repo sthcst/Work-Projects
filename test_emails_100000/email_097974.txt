@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Martinez,megan.martinez3191@mail.com,627 954 1514,490 81 1739,05-27-2005,"9224 Summer Ave",Dallas,DC

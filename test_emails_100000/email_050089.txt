@@ -1,0 +1,14 @@
+INVOICE 525896
+
+Bill To:
+Name: Edward Morgan
+Email: edward.morgan6394@work.org
+Phone: 703 411 4142
+SSN: 376707535
+
+Address: 869 Spring Rd
+Chicago, MD
+
+Date of Birth: 05/01/1981
+
+Amount Due: $9482

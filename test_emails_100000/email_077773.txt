@@ -1,0 +1,9 @@
+contact:
+  name: John Gomez
+  email: john.gomez9921@business.net
+  phone: (655) 252-5857
+  ssn: 452-14-6691
+  dob: 09/06/1967
+  address: 6447 Park St
+  city: Denver
+  state: TX

@@ -1,0 +1,14 @@
+INVOICE 612742
+
+Bill To:
+Name: Emily Miller
+Email: emily.miller9820@work.org
+Phone: 366 694 9277
+SSN: 661683955
+
+Address: 3575 Cedar Way
+Houston, TX
+
+Date of Birth: 12/04/1987
+
+Amount Due: $2335

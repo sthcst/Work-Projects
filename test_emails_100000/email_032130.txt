@@ -1,0 +1,14 @@
+INVOICE 192732
+
+Bill To:
+Name: Steven Lee
+Email: steven.lee9399@yahoo.com
+Phone: +1 674-280-6144
+SSN: 967468251
+
+Address: 2031 Fifth Way
+San Antonio, TX
+
+Date of Birth: 24/10/1986
+
+Amount Due: $5161

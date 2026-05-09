@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Martin",
+    "email": "paul.martin2977@business.net",
+    "phone": "+1 355-638-2289",
+    "ssn": "699232994",
+    "dob": "01/08/1971",
+    "address": "25 Oak Ln",
+    "city": "Austin",
+    "state": "DC"
+  }
+}

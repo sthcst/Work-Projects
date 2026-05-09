@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Guerrero
+  email: ronald.guerrero3523@yahoo.com
+  phone: +1 721-779-1611
+  ssn: 252-61-7167
+  dob: 03/06/1988
+  address: 9708 Main Dr
+  city: Washington
+  state: NJ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Hernandez,joseph.hernandez7344@gmail.com,451 242 2526,890 93 5233,7/7/1958,"2133 East Rd",Phoenix,TN

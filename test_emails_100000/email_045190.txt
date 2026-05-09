@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Smith",
+    "email": "robert.smith7611@gmail.com",
+    "phone": "(953) 892-2430",
+    "ssn": "101-66-1625",
+    "dob": "10/25/2001",
+    "address": "4719 Oak Ave",
+    "city": "Philadelphia",
+    "state": "MA"
+  }
+}

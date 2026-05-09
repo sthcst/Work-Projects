@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Alvarado
+  email: rachel.alvarado4393@example.com
+  phone: +1 458-234-5986
+  ssn: 208 33 4378
+  dob: 04-22-1959
+  address: 966 First Ln
+  city: Boston
+  state: MO

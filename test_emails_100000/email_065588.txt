@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Sanchez",
+    "email": "kevin.sanchez8060@example.com",
+    "phone": "(694) 802-2728",
+    "ssn": "010-41-4690",
+    "dob": "28/06/1951",
+    "address": "9848 Third Court",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

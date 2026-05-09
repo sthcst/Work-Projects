@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Brown
+  email: daniel.brown8581@company.com
+  phone: 832 739 8478
+  ssn: 920412161
+  dob: 07/11/1976
+  address: 4212 First Way
+  city: San Jose
+  state: WI

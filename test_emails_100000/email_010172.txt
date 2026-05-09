@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Moore",
+    "email": "ryan.moore1552@work.org",
+    "phone": "+1 593-903-9103",
+    "ssn": "077-06-9019",
+    "dob": "10-26-1961",
+    "address": "7496 Fifth St",
+    "city": "Washington",
+    "state": "DC"
+  }
+}

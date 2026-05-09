@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Perez",
+    "email": "kathleen.perez7752@mail.com",
+    "phone": "+1 571-998-8225",
+    "ssn": "588-97-2520",
+    "dob": "4/25/2000",
+    "address": "3439 Cedar Way",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

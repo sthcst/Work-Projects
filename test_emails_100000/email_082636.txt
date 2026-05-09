@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Brown",
+    "email": "william.brown3226@mail.com",
+    "phone": "404 796 2088",
+    "ssn": "908-72-7692",
+    "dob": "3/15/1991",
+    "address": "9410 Oak Dr",
+    "city": "Philadelphia",
+    "state": "IL"
+  }
+}

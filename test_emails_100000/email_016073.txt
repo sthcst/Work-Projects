@@ -1,0 +1,14 @@
+INVOICE 754587
+
+Bill To:
+Name: William Johnson
+Email: william.johnson3415@example.com
+Phone: +1 454-450-1714
+SSN: 350-23-1403
+
+Address: 3027 Birch Ln
+Philadelphia, MA
+
+Date of Birth: 11/19/1999
+
+Amount Due: $9221

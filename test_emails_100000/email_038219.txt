@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Lewis
+  email: jacob.lewis1864@business.net
+  phone: (379) 718-4519
+  ssn: 205 73 8899
+  dob: 20/04/1957
+  address: 4923 Oak Ave
+  city: Denver
+  state: FL

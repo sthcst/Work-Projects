@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Morris
+  email: amanda.morris8092@mail.com
+  phone: (786) 802-5464
+  ssn: 982 98 4265
+  dob: 10/22/2005
+  address: 9794 Fourth St
+  city: San Diego
+  state: NY

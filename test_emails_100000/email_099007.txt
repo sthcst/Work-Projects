@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Morgan
+  email: cynthia.morgan3457@example.com
+  phone: 661-971-3452
+  ssn: 914648218
+  dob: 01-11-1978
+  address: 2080 Summer Way
+  city: Denver
+  state: DC

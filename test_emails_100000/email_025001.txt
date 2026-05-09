@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Rodriguez",
+    "email": "lauren.rodriguez5753@business.net",
+    "phone": "294 582 2624",
+    "ssn": "876 21 3129",
+    "dob": "09/01/1960",
+    "address": "4069 Cedar Dr",
+    "city": "Los Angeles",
+    "state": "MI"
+  }
+}

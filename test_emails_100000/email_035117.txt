@@ -1,0 +1,14 @@
+INVOICE 630291
+
+Bill To:
+Name: Christopher Miller
+Email: christopher.miller1556@company.com
+Phone: 525 577 4574
+SSN: 576526869
+
+Address: 2263 Fifth Ln
+San Antonio, IL
+
+Date of Birth: 03/24/2002
+
+Amount Due: $6536

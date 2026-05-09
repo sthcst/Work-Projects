@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Dominguez
+  email: nicole.dominguez5704@gmail.com
+  phone: (652) 267-6626
+  ssn: 526 91 9614
+  dob: 11/7/1972
+  address: 9968 Birch Way
+  city: Austin
+  state: DC

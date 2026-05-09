@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Jackson,nicole.jackson4005@outlook.com,754-572-9545,149 83 8080,7/22/1960,"3364 Park Court",San Diego,CO

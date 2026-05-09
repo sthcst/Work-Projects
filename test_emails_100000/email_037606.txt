@@ -1,0 +1,14 @@
+INVOICE 666671
+
+Bill To:
+Name: John Phillips
+Email: john.phillips6974@company.com
+Phone: (626) 412-9118
+SSN: 982 10 4282
+
+Address: 5379 Oak Way
+Los Angeles, CA
+
+Date of Birth: 25/06/1957
+
+Amount Due: $4570

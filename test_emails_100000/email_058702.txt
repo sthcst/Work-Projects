@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Murillo",
+    "email": "ashley.murillo713@outlook.com",
+    "phone": "627 801 9548",
+    "ssn": "100 35 4631",
+    "dob": "02-10-1975",
+    "address": "3178 First Ave",
+    "city": "Dallas",
+    "state": "AZ"
+  }
+}

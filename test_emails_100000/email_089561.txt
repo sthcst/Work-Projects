@@ -1,0 +1,14 @@
+INVOICE 392444
+
+Bill To:
+Name: William Rogers
+Email: william.rogers8488@mail.com
+Phone: 875-720-4324
+SSN: 074-75-3985
+
+Address: 6380 North Ln
+Houston, FL
+
+Date of Birth: 06/03/1974
+
+Amount Due: $940

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Carter,pamela.carter8000@gmail.com,(768) 804-8296,056 82 8422,09/11/1964,"3000 North Blvd",Houston,MO

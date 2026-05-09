@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Evans",
+    "email": "edward.evans3159@work.org",
+    "phone": "336 843 6647",
+    "ssn": "567-57-6140",
+    "dob": "21/04/1956",
+    "address": "4692 Pine Ln",
+    "city": "Houston",
+    "state": "MO"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Flores",
+    "email": "michelle.flores1859@work.org",
+    "phone": "702 802 5334",
+    "ssn": "677-15-6405",
+    "dob": "12/16/1996",
+    "address": "4669 Fifth Ln",
+    "city": "Boston",
+    "state": "TN"
+  }
+}

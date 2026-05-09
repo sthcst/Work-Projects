@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Jones",
+    "email": "megan.jones5087@company.com",
+    "phone": "(918) 477-3943",
+    "ssn": "763283405",
+    "dob": "7/28/1987",
+    "address": "3165 Third Ln",
+    "city": "New York",
+    "state": "GA"
+  }
+}

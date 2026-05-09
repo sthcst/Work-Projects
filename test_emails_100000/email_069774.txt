@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Lewis",
+    "email": "christopher.lewis3636@work.org",
+    "phone": "731 995 6921",
+    "ssn": "763 86 7743",
+    "dob": "16/02/1985",
+    "address": "6111 East Ave",
+    "city": "Chicago",
+    "state": "MO"
+  }
+}

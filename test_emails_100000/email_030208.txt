@@ -1,0 +1,14 @@
+INVOICE 807316
+
+Bill To:
+Name: Lisa Garcia
+Email: lisa.garcia762@example.com
+Phone: 939 355 2228
+SSN: 649 12 7742
+
+Address: 8449 Cedar Blvd
+San Jose, IL
+
+Date of Birth: 2/11/1992
+
+Amount Due: $3467

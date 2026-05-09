@@ -1,0 +1,9 @@
+contact:
+  name: Angela Morgan
+  email: angela.morgan99@business.net
+  phone: +1 884-718-7327
+  ssn: 175 54 3348
+  dob: 13/04/1963
+  address: 318 East Court
+  city: San Diego
+  state: OH

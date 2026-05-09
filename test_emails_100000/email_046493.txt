@@ -1,0 +1,14 @@
+INVOICE 743653
+
+Bill To:
+Name: Rebecca Reed
+Email: rebecca.reed8173@company.com
+Phone: 448 712 3067
+SSN: 645-22-8294
+
+Address: 6305 Main Court
+San Jose, CO
+
+Date of Birth: 10/15/1954
+
+Amount Due: $7650

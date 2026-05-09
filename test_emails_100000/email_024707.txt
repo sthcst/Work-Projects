@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Anderson",
+    "email": "jessica.anderson5682@outlook.com",
+    "phone": "+1 308-631-5095",
+    "ssn": "626476324",
+    "dob": "05/02/1974",
+    "address": "6440 North Blvd",
+    "city": "Seattle",
+    "state": "FL"
+  }
+}

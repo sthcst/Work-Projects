@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Walker",
+    "email": "nicholas.walker5324@mail.com",
+    "phone": "315 353 7629",
+    "ssn": "549-80-8789",
+    "dob": "7/20/1971",
+    "address": "3285 Elm Court",
+    "city": "Jacksonville",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Murillo",
+    "email": "deborah.murillo9886@business.net",
+    "phone": "721-453-2077",
+    "ssn": "226055994",
+    "dob": "05/08/2004",
+    "address": "7962 Elm Ln",
+    "city": "Washington",
+    "state": "GA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Alvarado",
+    "email": "lauren.alvarado7638@gmail.com",
+    "phone": "+1 500-304-8525",
+    "ssn": "137 91 9345",
+    "dob": "10/01/1982",
+    "address": "427 Maple Ave",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

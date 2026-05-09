@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Walker",
+    "email": "megan.walker1708@example.com",
+    "phone": "237 737 7762",
+    "ssn": "255 75 3093",
+    "dob": "12-10-1969",
+    "address": "8944 Oak Ln",
+    "city": "Dallas",
+    "state": "MA"
+  }
+}

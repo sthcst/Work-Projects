@@ -1,0 +1,9 @@
+contact:
+  name: Robert Lopez
+  email: robert.lopez2985@yahoo.com
+  phone: +1 408-403-1369
+  ssn: 041-55-7485
+  dob: 16/06/1969
+  address: 1805 Fifth St
+  city: Denver
+  state: TX

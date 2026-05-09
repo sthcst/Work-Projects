@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Guerrero,kenneth.guerrero2130@gmail.com,534-427-7758,505-80-6567,1/19/1990,"414 East Ave",Houston,CA

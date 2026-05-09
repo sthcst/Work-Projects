@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin White",
+    "email": "kevin.white1016@yahoo.com",
+    "phone": "+1 397-598-3020",
+    "ssn": "364 42 4020",
+    "dob": "08/13/2005",
+    "address": "4674 Maple Court",
+    "city": "Dallas",
+    "state": "DC"
+  }
+}

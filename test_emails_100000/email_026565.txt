@@ -1,0 +1,9 @@
+contact:
+  name: Angela Garcia
+  email: angela.garcia7640@business.net
+  phone: (492) 700-3273
+  ssn: 021742493
+  dob: 10/04/1995
+  address: 5843 Second Ave
+  city: Denver
+  state: WI

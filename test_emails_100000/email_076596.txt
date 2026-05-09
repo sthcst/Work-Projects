@@ -1,0 +1,14 @@
+INVOICE 109348
+
+Bill To:
+Name: Christine Clark
+Email: christine.clark5523@work.org
+Phone: 957 770 8332
+SSN: 782-75-4185
+
+Address: 5996 East Ln
+Philadelphia, CA
+
+Date of Birth: 6/22/1997
+
+Amount Due: $4940

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Alvarado",
+    "email": "rebecca.alvarado8673@outlook.com",
+    "phone": "960 925 7322",
+    "ssn": "432 27 5772",
+    "dob": "02/21/1989",
+    "address": "1612 North Dr",
+    "city": "San Diego",
+    "state": "MO"
+  }
+}

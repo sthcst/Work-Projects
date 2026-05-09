@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Lopez",
+    "email": "andrew.lopez8579@outlook.com",
+    "phone": "971-213-2242",
+    "ssn": "007668685",
+    "dob": "11/07/1987",
+    "address": "9369 Fourth Way",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

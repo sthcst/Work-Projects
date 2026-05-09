@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Clark",
+    "email": "michelle.clark8324@example.com",
+    "phone": "+1 505-437-4899",
+    "ssn": "748-88-7177",
+    "dob": "03-26-1960",
+    "address": "8818 Oak Dr",
+    "city": "Seattle",
+    "state": "PA"
+  }
+}

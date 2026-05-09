@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Bell
+  email: katherine.bell7636@gmail.com
+  phone: +1 815-644-2933
+  ssn: 812-78-8860
+  dob: 10/02/1983
+  address: 6152 Pine Ave
+  city: New York
+  state: NJ

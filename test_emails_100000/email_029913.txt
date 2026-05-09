@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Roberts,andrew.roberts2384@example.com,361 623 4055,479-28-5646,15/12/1963,"3533 North St",San Jose,PA

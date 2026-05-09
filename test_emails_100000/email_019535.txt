@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Taylor",
+    "email": "rebecca.taylor2349@gmail.com",
+    "phone": "(259) 504-3212",
+    "ssn": "292078122",
+    "dob": "12/12/1966",
+    "address": "4469 South Way",
+    "city": "Phoenix",
+    "state": "DC"
+  }
+}

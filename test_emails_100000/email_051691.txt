@@ -1,0 +1,12 @@
+SUPPORT TICKET #24743
+
+Customer: James Rogers
+Email: james.rogers2005@example.com
+Phone: 318-719-4427
+Account: 693 15 1436
+
+Issue Description: Technical problem reported
+DOB on file: 10/25/1984
+Address: 8970 Park Dr, Austin, WA
+
+Status: OPEN

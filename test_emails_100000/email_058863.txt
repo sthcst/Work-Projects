@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Lee,kathleen.lee332@mail.com,491-257-9024,476-61-1754,10-19-1975,"1068 Pine Dr",San Jose,MD

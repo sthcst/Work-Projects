@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Romero",
+    "email": "kimberly.romero9053@work.org",
+    "phone": "868 806 7307",
+    "ssn": "455335511",
+    "dob": "10/17/1953",
+    "address": "335 Main Way",
+    "city": "Washington",
+    "state": "WA"
+  }
+}

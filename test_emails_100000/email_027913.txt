@@ -1,0 +1,14 @@
+INVOICE 898146
+
+Bill To:
+Name: Anthony Romero
+Email: anthony.romero1453@example.com
+Phone: 668 803 5987
+SSN: 317 76 3368
+
+Address: 5091 Oak Blvd
+New York, MA
+
+Date of Birth: 03/16/1980
+
+Amount Due: $9224

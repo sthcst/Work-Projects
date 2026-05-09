@@ -1,0 +1,9 @@
+contact:
+  name: Angela White
+  email: angela.white1896@work.org
+  phone: 500 943 6838
+  ssn: 859 29 8132
+  dob: 10/14/1993
+  address: 8752 Summer St
+  city: San Jose
+  state: OH

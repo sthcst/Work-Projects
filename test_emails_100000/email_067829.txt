@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Carter,angela.carter9195@outlook.com,264-246-7416,683-87-1933,05/28/1977,"1938 Summer Rd",Houston,CO

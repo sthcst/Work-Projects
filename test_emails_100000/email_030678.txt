@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Williams,nicholas.williams3779@outlook.com,+1 739-547-4824,231-05-8082,6/5/1961,"7254 Fifth Blvd",San Antonio,NJ

@@ -1,0 +1,14 @@
+INVOICE 717672
+
+Bill To:
+Name: Rachel Moore
+Email: rachel.moore3682@company.com
+Phone: 809 812 9610
+SSN: 300-68-2600
+
+Address: 7556 First Court
+Denver, CA
+
+Date of Birth: 11/10/1974
+
+Amount Due: $8354

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Reeves",
+    "email": "edward.reeves7792@work.org",
+    "phone": "903-880-5616",
+    "ssn": "196 73 7525",
+    "dob": "19/06/1970",
+    "address": "8337 Third Blvd",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

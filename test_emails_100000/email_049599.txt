@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Young
+  email: nicole.young7241@yahoo.com
+  phone: (470) 611-3592
+  ssn: 637-40-5945
+  dob: 09/19/1996
+  address: 6183 Maple Way
+  city: Denver
+  state: WA

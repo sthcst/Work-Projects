@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Nelson,deborah.nelson6616@outlook.com,764 472 9977,496538222,1/13/1975,"3007 Spring Rd",Houston,NJ

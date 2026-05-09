@@ -1,0 +1,14 @@
+INVOICE 633723
+
+Bill To:
+Name: Jane Brown
+Email: jane.brown5859@example.com
+Phone: (818) 786-3048
+SSN: 694 35 1121
+
+Address: 8005 Third Court
+San Jose, IL
+
+Date of Birth: 17/05/1987
+
+Amount Due: $5009

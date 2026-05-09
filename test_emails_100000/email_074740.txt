@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Parker",
+    "email": "matthew.parker9639@mail.com",
+    "phone": "903 558 6248",
+    "ssn": "165-40-4548",
+    "dob": "9/4/1987",
+    "address": "1757 Oak Court",
+    "city": "New York",
+    "state": "TX"
+  }
+}

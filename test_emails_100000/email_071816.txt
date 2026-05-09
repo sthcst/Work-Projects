@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Morris,megan.morris8549@company.com,887 434 6000,844316337,03/17/1964,"5466 Summer Rd",San Antonio,NY

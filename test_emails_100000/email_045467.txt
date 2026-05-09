@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Ramirez
+  email: joshua.ramirez1305@example.com
+  phone: 610 661 2091
+  ssn: 447017948
+  dob: 26/12/1987
+  address: 8275 South Ave
+  city: Seattle
+  state: AZ

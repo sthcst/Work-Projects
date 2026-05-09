@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Walker,deborah.walker5872@outlook.com,+1 590-300-7465,505-76-7906,01-15-1971,"1293 North Court",Dallas,WA

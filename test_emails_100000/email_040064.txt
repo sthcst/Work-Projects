@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Taylor
+  email: anthony.taylor7275@mail.com
+  phone: +1 825-275-2921
+  ssn: 084 98 4303
+  dob: 11-15-1989
+  address: 979 West Rd
+  city: Washington
+  state: TX

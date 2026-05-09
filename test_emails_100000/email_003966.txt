@@ -1,0 +1,14 @@
+INVOICE 141980
+
+Bill To:
+Name: Kimberly Reyes
+Email: kimberly.reyes9281@example.com
+Phone: (202) 657-7063
+SSN: 982 37 3367
+
+Address: 9293 Park Rd
+Dallas, IL
+
+Date of Birth: 06-06-1965
+
+Amount Due: $7524

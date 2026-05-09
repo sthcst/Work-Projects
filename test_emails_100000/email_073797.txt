@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Brown
+  email: kevin.brown2835@mail.com
+  phone: (944) 343-1416
+  ssn: 501 28 9151
+  dob: 17/10/1959
+  address: 926 Main Blvd
+  city: Austin
+  state: AZ

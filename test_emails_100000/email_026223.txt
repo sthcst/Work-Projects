@@ -1,0 +1,14 @@
+INVOICE 393534
+
+Bill To:
+Name: Steven Miller
+Email: steven.miller5405@mail.com
+Phone: 788-344-3536
+SSN: 992-95-6646
+
+Address: 6623 Main Way
+Philadelphia, DC
+
+Date of Birth: 2/5/1965
+
+Amount Due: $473

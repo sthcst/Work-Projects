@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Collins,richard.collins24@work.org,459 911 8790,464 06 6802,10/07/1967,"6511 Oak Way",Washington,TX

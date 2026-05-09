@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Lopez
+  email: ronald.lopez545@work.org
+  phone: 227-527-1730
+  ssn: 798 56 6921
+  dob: 09/06/1971
+  address: 7626 Oak Ln
+  city: Dallas
+  state: OH

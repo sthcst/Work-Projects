@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Brown
+  email: pamela.brown8978@yahoo.com
+  phone: (559) 323-2354
+  ssn: 952284734
+  dob: 19/09/1981
+  address: 2845 Second St
+  city: Dallas
+  state: IL

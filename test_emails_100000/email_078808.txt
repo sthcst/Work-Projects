@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Reeves,michael.reeves6238@gmail.com,+1 554-456-2847,685 61 4712,11/06/1966,"2189 North Rd",Chicago,CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Hernandez,kimberly.hernandez95@business.net,991-789-9380,902949002,07/10/1988,"7744 Spring Blvd",Jacksonville,CA

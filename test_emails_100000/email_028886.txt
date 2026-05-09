@@ -1,0 +1,14 @@
+INVOICE 805577
+
+Bill To:
+Name: Michael Smith
+Email: michael.smith6459@mail.com
+Phone: +1 343-339-5927
+SSN: 131 54 1539
+
+Address: 9537 East St
+Los Angeles, FL
+
+Date of Birth: 15/10/2003
+
+Amount Due: $653

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Carter",
+    "email": "mark.carter4714@gmail.com",
+    "phone": "(261) 802-2290",
+    "ssn": "601-07-9717",
+    "dob": "15/06/1958",
+    "address": "3731 West Ave",
+    "city": "Denver",
+    "state": "PA"
+  }
+}

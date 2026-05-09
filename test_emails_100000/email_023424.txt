@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Romero,kimberly.romero1726@outlook.com,552-837-7096,439-29-3597,01/06/1953,"1417 Summer Dr",Washington,TX

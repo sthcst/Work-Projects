@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Nunez",
+    "email": "nicole.nunez8179@business.net",
+    "phone": "+1 612-378-2255",
+    "ssn": "033256718",
+    "dob": "03-18-1965",
+    "address": "1449 Fourth St",
+    "city": "Denver",
+    "state": "AZ"
+  }
+}

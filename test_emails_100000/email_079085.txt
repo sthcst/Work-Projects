@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Smith
+  email: cynthia.smith850@outlook.com
+  phone: 605-894-3652
+  ssn: 957789434
+  dob: 2/8/1968
+  address: 7575 Main Way
+  city: Austin
+  state: DC

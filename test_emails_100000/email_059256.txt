@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Guerrero,brian.guerrero9489@outlook.com,868-284-1729,905 87 6213,01-16-1971,"9258 Park Rd",Los Angeles,FL

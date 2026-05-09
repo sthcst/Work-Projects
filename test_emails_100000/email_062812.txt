@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Delgado,steven.delgado9507@yahoo.com,+1 411-245-3094,964154362,05-19-1953,"6537 First Rd",Chicago,NC

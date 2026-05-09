@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Reed,rachel.reed7586@yahoo.com,886-366-8148,545 35 8737,05/02/1962,"3091 Maple Blvd",New York,PA

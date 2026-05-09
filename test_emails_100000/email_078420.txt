@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Reeves",
+    "email": "deborah.reeves5108@company.com",
+    "phone": "+1 755-712-2176",
+    "ssn": "749 58 3661",
+    "dob": "04-27-2000",
+    "address": "7819 Birch Way",
+    "city": "Denver",
+    "state": "NC"
+  }
+}

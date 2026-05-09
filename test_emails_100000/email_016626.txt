@@ -1,0 +1,9 @@
+contact:
+  name: Maria Robinson
+  email: maria.robinson4482@outlook.com
+  phone: (981) 849-3613
+  ssn: 164-28-6383
+  dob: 11-28-1960
+  address: 6372 Sixth St
+  city: Jacksonville
+  state: MA

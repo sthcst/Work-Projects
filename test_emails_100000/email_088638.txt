@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Dominguez",
+    "email": "john.dominguez9767@business.net",
+    "phone": "686-839-7962",
+    "ssn": "674 92 7367",
+    "dob": "12/8/1987",
+    "address": "3844 Maple Dr",
+    "city": "Denver",
+    "state": "DC"
+  }
+}

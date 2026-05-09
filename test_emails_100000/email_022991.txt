@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Collins,anthony.collins8943@company.com,+1 694-861-8992,506-55-7506,8/2/1968,"8617 Fifth Way",Philadelphia,AZ

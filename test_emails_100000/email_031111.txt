@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Martin
+  email: pamela.martin125@mail.com
+  phone: 219-453-8373
+  ssn: 876 49 8827
+  dob: 08/05/1962
+  address: 8155 East Dr
+  city: Jacksonville
+  state: AZ

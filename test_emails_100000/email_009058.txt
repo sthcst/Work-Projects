@@ -1,0 +1,14 @@
+INVOICE 688104
+
+Bill To:
+Name: Helen Moore
+Email: helen.moore9960@work.org
+Phone: +1 208-888-5806
+SSN: 317-96-6683
+
+Address: 5230 Cedar Blvd
+San Jose, AZ
+
+Date of Birth: 7/27/1997
+
+Amount Due: $3460

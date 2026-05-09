@@ -1,0 +1,9 @@
+contact:
+  name: William Reyes
+  email: william.reyes1793@outlook.com
+  phone: +1 820-883-4554
+  ssn: 885828106
+  dob: 08/28/1989
+  address: 5392 Third Rd
+  city: Austin
+  state: TN

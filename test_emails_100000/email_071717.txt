@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Parker,joshua.parker8043@gmail.com,402-807-3070,227-25-1814,19/10/1961,"335 North Way",Philadelphia,WA

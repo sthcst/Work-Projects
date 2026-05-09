@@ -1,0 +1,14 @@
+INVOICE 248034
+
+Bill To:
+Name: Jason Dominguez
+Email: jason.dominguez3482@mail.com
+Phone: 644 973 3568
+SSN: 527734207
+
+Address: 843 Cedar Rd
+San Antonio, AZ
+
+Date of Birth: 12-05-1973
+
+Amount Due: $9537

@@ -1,0 +1,14 @@
+INVOICE 130042
+
+Bill To:
+Name: Donald Guerrero
+Email: donald.guerrero4791@example.com
+Phone: +1 639-973-4965
+SSN: 120345869
+
+Address: 6897 Pine St
+San Antonio, MI
+
+Date of Birth: 02-25-1996
+
+Amount Due: $844

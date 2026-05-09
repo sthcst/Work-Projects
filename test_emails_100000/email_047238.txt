@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Campbell
+  email: anthony.campbell5997@gmail.com
+  phone: +1 343-374-9486
+  ssn: 883321641
+  dob: 2/22/2003
+  address: 7459 Main Ln
+  city: Los Angeles
+  state: MA

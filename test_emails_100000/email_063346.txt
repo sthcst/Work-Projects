@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Dominguez",
+    "email": "ryan.dominguez1541@outlook.com",
+    "phone": "+1 769-354-5943",
+    "ssn": "658727272",
+    "dob": "10-07-1992",
+    "address": "5425 Main Rd",
+    "city": "Phoenix",
+    "state": "MA"
+  }
+}

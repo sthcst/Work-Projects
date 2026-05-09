@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Delgado,maria.delgado1928@yahoo.com,+1 367-245-7663,580-51-6410,07/09/1988,"8905 Cedar Way",Phoenix,DC

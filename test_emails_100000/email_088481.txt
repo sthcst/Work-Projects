@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Romero,richard.romero3160@mail.com,515 780 2584,281037709,07/16/1959,"4280 Fourth Ln",Phoenix,CO

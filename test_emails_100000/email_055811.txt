@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Taylor
+  email: joseph.taylor5543@outlook.com
+  phone: (885) 930-7936
+  ssn: 078-57-9822
+  dob: 03/02/1967
+  address: 7389 Park Rd
+  city: San Jose
+  state: MI

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Bell,megan.bell6702@company.com,545-417-4182,659515727,01-10-1972,"642 Maple Rd",Austin,NY

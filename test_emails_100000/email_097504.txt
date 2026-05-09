@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Williams",
+    "email": "pamela.williams3180@example.com",
+    "phone": "+1 484-531-7813",
+    "ssn": "085 27 4978",
+    "dob": "10/20/1997",
+    "address": "3704 Elm Ave",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

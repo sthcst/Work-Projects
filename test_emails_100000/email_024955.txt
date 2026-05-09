@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Collins,amanda.collins239@company.com,702-814-4659,644 82 5094,02-22-1964,"9359 Fourth Way",Austin,WA

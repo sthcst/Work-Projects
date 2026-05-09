@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Collins
+  email: kenneth.collins4862@company.com
+  phone: 260 405 2387
+  ssn: 872-42-4688
+  dob: 08-19-1958
+  address: 6120 Birch Ln
+  city: Jacksonville
+  state: TX

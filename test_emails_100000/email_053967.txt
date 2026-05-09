@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Rogers,david.rogers3939@mail.com,438-705-8130,401-68-8149,08-01-1999,"7149 Third Ln",Seattle,CA

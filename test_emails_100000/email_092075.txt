@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Moore,nicole.moore7568@work.org,987 349 9756,009-68-9375,07-17-1981,"7213 Sixth Rd",San Jose,TX

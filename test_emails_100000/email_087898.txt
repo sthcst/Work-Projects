@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Gonzalez
+  email: joshua.gonzalez484@example.com
+  phone: 447-948-5181
+  ssn: 826-26-6974
+  dob: 02-01-1996
+  address: 8053 Elm Court
+  city: San Jose
+  state: NY

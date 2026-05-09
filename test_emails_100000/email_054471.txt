@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Lopez
+  email: samantha.lopez7458@gmail.com
+  phone: (369) 591-4777
+  ssn: 169509452
+  dob: 4/25/1952
+  address: 7713 Main Dr
+  city: Houston
+  state: DC

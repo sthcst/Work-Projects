@@ -1,0 +1,14 @@
+INVOICE 219520
+
+Bill To:
+Name: Daniel Lopez
+Email: daniel.lopez4603@gmail.com
+Phone: (889) 572-4637
+SSN: 222385780
+
+Address: 842 Elm Court
+San Antonio, TX
+
+Date of Birth: 14/11/1994
+
+Amount Due: $3363

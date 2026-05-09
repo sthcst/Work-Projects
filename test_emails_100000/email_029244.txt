@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Alvarado,joseph.alvarado5609@company.com,+1 352-771-1507,416083663,07-06-1959,"4503 Oak Ln",Seattle,AZ

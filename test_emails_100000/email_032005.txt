@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Jimenez,robert.jimenez9313@mail.com,(816) 324-5299,278-31-4193,01/20/1962,"6567 East Court",Denver,NY

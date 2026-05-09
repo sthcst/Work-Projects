@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Taylor
+  email: pamela.taylor2793@business.net
+  phone: (682) 792-6179
+  ssn: 305-20-6570
+  dob: 01-12-1973
+  address: 2842 East Blvd
+  city: Los Angeles
+  state: IL

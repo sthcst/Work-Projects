@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Jimenez,joseph.jimenez3370@business.net,703-972-3094,889-72-8847,03-04-1953,"1763 South Rd",Jacksonville,IL

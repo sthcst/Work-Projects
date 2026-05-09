@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Hernandez",
+    "email": "steven.hernandez5986@company.com",
+    "phone": "695-311-8593",
+    "ssn": "798-17-4480",
+    "dob": "07/27/1964",
+    "address": "4109 Fifth Blvd",
+    "city": "Austin",
+    "state": "NY"
+  }
+}

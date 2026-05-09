@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Roberts,katherine.roberts8685@outlook.com,575-646-5618,989-31-7985,6/24/1984,"7376 South Rd",Phoenix,MA

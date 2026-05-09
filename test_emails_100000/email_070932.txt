@@ -1,0 +1,14 @@
+INVOICE 161005
+
+Bill To:
+Name: John Ramirez
+Email: john.ramirez3347@outlook.com
+Phone: 418 486 1637
+SSN: 900-86-9459
+
+Address: 4851 Park Court
+Houston, WI
+
+Date of Birth: 04-14-1993
+
+Amount Due: $7301

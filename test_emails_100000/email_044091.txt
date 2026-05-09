@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Collins
+  email: kevin.collins6716@gmail.com
+  phone: (667) 392-1347
+  ssn: 904 58 6089
+  dob: 05/26/1982
+  address: 2085 Elm Way
+  city: Chicago
+  state: MD

@@ -1,0 +1,9 @@
+contact:
+  name: Robert Reed
+  email: robert.reed5426@mail.com
+  phone: (631) 762-5764
+  ssn: 828 07 9395
+  dob: 15/04/1956
+  address: 8432 Main Court
+  city: New York
+  state: NJ

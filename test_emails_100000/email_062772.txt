@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Moore
+  email: cynthia.moore8684@mail.com
+  phone: +1 899-835-3385
+  ssn: 811 91 8557
+  dob: 01-16-2003
+  address: 5078 Sixth Ave
+  city: San Antonio
+  state: NJ

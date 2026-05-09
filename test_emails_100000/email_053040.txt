@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Davis,nicholas.davis6112@gmail.com,322 458 1201,221-76-8096,08-18-1958,"5984 Cedar Ave",San Jose,TX

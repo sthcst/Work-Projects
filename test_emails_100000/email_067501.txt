@@ -1,0 +1,9 @@
+contact:
+  name: Megan Miller
+  email: megan.miller6250@yahoo.com
+  phone: (974) 461-7474
+  ssn: 683-68-8505
+  dob: 22/12/1957
+  address: 3875 West Ave
+  city: Phoenix
+  state: AZ

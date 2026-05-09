@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Phillips,sarah.phillips3452@yahoo.com,+1 936-616-8567,408 18 3751,01-05-1997,"5121 Park Ave",Boston,MI

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Sanchez",
+    "email": "john.sanchez6195@company.com",
+    "phone": "+1 611-376-2016",
+    "ssn": "373 58 1280",
+    "dob": "15/03/1984",
+    "address": "7284 Pine Ave",
+    "city": "Philadelphia",
+    "state": "MD"
+  }
+}

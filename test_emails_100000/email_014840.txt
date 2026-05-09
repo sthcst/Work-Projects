@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Anderson",
+    "email": "christopher.anderson9498@yahoo.com",
+    "phone": "532-520-9045",
+    "ssn": "691-23-8361",
+    "dob": "10/01/1997",
+    "address": "8039 Fifth Way",
+    "city": "Austin",
+    "state": "OH"
+  }
+}

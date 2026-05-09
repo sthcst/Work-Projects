@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Jackson",
+    "email": "anthony.jackson9190@yahoo.com",
+    "phone": "773 534 1512",
+    "ssn": "781-61-4320",
+    "dob": "04-01-1973",
+    "address": "9724 Sixth Way",
+    "city": "Philadelphia",
+    "state": "OH"
+  }
+}

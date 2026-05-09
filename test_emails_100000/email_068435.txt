@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Brown,angela.brown7319@gmail.com,+1 438-357-1204,798 06 2600,28/01/2003,"5544 First Dr",Austin,MA

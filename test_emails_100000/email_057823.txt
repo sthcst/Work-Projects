@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Reed,emily.reed2604@yahoo.com,+1 329-932-5299,151 87 7069,09/05/1955,"4256 South Dr",Phoenix,NY

@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Martinez
+  email: pamela.martinez7050@example.com
+  phone: 715 225 8343
+  ssn: 201 64 1814
+  dob: 01/16/1998
+  address: 2730 Pine Rd
+  city: Chicago
+  state: TX

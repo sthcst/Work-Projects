@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Wilson,jennifer.wilson5106@outlook.com,(276) 241-7179,162714524,06/09/1975,"4019 Main Ln",Phoenix,CO

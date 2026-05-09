@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Ramirez,donald.ramirez3590@example.com,+1 363-453-5336,836 61 6313,6/19/2000,"8935 Oak Way",Denver,TX

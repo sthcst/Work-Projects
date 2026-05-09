@@ -1,0 +1,14 @@
+INVOICE 176422
+
+Bill To:
+Name: Donald Perez
+Email: donald.perez2571@example.com
+Phone: 636 802 6921
+SSN: 859402811
+
+Address: 7817 Spring St
+Jacksonville, WA
+
+Date of Birth: 7/19/1966
+
+Amount Due: $1376

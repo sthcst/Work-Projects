@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Lopez",
+    "email": "timothy.lopez6929@outlook.com",
+    "phone": "+1 746-546-8903",
+    "ssn": "656065812",
+    "dob": "02/04/1997",
+    "address": "2524 Sixth Blvd",
+    "city": "Houston",
+    "state": "DC"
+  }
+}

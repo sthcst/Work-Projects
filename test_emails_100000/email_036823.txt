@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Cooper",
+    "email": "george.cooper7587@company.com",
+    "phone": "(434) 436-4633",
+    "ssn": "864158240",
+    "dob": "12/10/1950",
+    "address": "9962 Second Ln",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

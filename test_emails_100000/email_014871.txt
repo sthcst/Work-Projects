@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Lewis
+  email: daniel.lewis7121@gmail.com
+  phone: +1 971-835-3616
+  ssn: 747 09 5754
+  dob: 6/6/1966
+  address: 6700 Oak Rd
+  city: Denver
+  state: DC

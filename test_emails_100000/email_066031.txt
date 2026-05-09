@@ -1,0 +1,9 @@
+contact:
+  name: Emma Morris
+  email: emma.morris2090@work.org
+  phone: 475 208 8140
+  ssn: 699-81-5303
+  dob: 08/06/1973
+  address: 8969 Birch Way
+  city: Phoenix
+  state: TX

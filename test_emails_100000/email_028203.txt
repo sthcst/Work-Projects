@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Nelson",
+    "email": "michael.nelson2779@mail.com",
+    "phone": "(668) 740-3176",
+    "ssn": "935 95 6494",
+    "dob": "11-13-1988",
+    "address": "6555 Main Blvd",
+    "city": "Seattle",
+    "state": "OH"
+  }
+}

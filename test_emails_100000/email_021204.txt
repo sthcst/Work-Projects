@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Brown,angela.brown416@example.com,414 817 1777,111-27-1819,06/12/1972,"7810 West Dr",San Jose,PA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Delgado,ronald.delgado7930@work.org,667-884-8687,726126457,11/17/1967,"3432 Pine Dr",San Jose,DC

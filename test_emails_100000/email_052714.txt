@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Gonzalez",
+    "email": "stephanie.gonzalez3310@mail.com",
+    "phone": "(465) 420-1080",
+    "ssn": "134441320",
+    "dob": "22/05/1965",
+    "address": "1315 Fourth Ln",
+    "city": "Houston",
+    "state": "MD"
+  }
+}

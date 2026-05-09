@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Walker",
+    "email": "robert.walker318@gmail.com",
+    "phone": "+1 388-732-9458",
+    "ssn": "474-73-4042",
+    "dob": "03/19/1995",
+    "address": "5376 Fifth Blvd",
+    "city": "Jacksonville",
+    "state": "NJ"
+  }
+}

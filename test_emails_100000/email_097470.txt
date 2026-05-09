@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Wilson",
+    "email": "paul.wilson8273@yahoo.com",
+    "phone": "856-934-8804",
+    "ssn": "059504206",
+    "dob": "16/01/1958",
+    "address": "8647 Maple Ave",
+    "city": "Dallas",
+    "state": "IL"
+  }
+}

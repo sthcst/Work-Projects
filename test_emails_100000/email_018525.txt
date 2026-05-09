@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Miller,shirley.miller6628@work.org,592 781 7912,234141876,18/11/1973,"692 North Court",Jacksonville,TX

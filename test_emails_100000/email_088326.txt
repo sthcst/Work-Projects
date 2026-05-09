@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Rodriguez
+  email: nicholas.rodriguez52@example.com
+  phone: 943-343-1686
+  ssn: 295314388
+  dob: 07/06/1975
+  address: 8007 Maple St
+  city: Washington
+  state: DC

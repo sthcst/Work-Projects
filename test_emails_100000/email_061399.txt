@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Anderson
+  email: jennifer.anderson3371@work.org
+  phone: 434 581 4775
+  ssn: 837776743
+  dob: 01/04/1964
+  address: 9448 Second Way
+  city: San Diego
+  state: MI

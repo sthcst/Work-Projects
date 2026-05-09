@@ -1,0 +1,14 @@
+INVOICE 802692
+
+Bill To:
+Name: Kevin Reed
+Email: kevin.reed1636@example.com
+Phone: +1 939-442-8682
+SSN: 016 66 1718
+
+Address: 4840 Fourth Dr
+Denver, AZ
+
+Date of Birth: 10/27/1958
+
+Amount Due: $5533

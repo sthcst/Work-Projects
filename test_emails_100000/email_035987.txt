@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Williams,pamela.williams4636@yahoo.com,968-465-1447,851925456,12-28-1979,"1788 North Dr",Chicago,WI

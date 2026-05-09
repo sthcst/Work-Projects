@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Cooper,steven.cooper7142@outlook.com,+1 815-344-5443,868 92 1042,08-15-1959,"9543 Cedar Dr",San Jose,FL

@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Alvarado
+  email: timothy.alvarado2448@example.com
+  phone: 408 645 7607
+  ssn: 615-47-1892
+  dob: 2/2/1993
+  address: 7154 Second Ave
+  city: Los Angeles
+  state: WI

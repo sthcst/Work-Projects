@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Robinson",
+    "email": "stephanie.robinson3101@work.org",
+    "phone": "472-577-7258",
+    "ssn": "735 58 2672",
+    "dob": "11/05/1979",
+    "address": "2630 North St",
+    "city": "Boston",
+    "state": "MD"
+  }
+}

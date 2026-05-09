@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Nunez",
+    "email": "timothy.nunez1346@work.org",
+    "phone": "930-316-6616",
+    "ssn": "234 93 8574",
+    "dob": "01-12-1998",
+    "address": "1275 Fifth Ave",
+    "city": "San Jose",
+    "state": "VA"
+  }
+}

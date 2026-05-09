@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Rogers,ryan.rogers9580@example.com,+1 251-406-7866,075395305,02/27/1961,"8092 Main Ave",Denver,DC

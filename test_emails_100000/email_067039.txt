@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Alvarado",
+    "email": "lauren.alvarado8893@example.com",
+    "phone": "+1 295-645-5300",
+    "ssn": "049-19-4049",
+    "dob": "10/01/1957",
+    "address": "3177 Third Ave",
+    "city": "Dallas",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Williams
+  email: joshua.williams7491@example.com
+  phone: +1 640-996-4354
+  ssn: 951-86-2537
+  dob: 28/08/1992
+  address: 3113 Third Ave
+  city: Seattle
+  state: IL

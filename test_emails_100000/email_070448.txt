@@ -1,0 +1,14 @@
+INVOICE 999938
+
+Bill To:
+Name: James Morgan
+Email: james.morgan145@mail.com
+Phone: +1 666-228-2433
+SSN: 463 17 5745
+
+Address: 3173 Spring Blvd
+Los Angeles, TX
+
+Date of Birth: 11/27/1983
+
+Amount Due: $6231

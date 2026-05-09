@@ -1,0 +1,9 @@
+contact:
+  name: Edward Romero
+  email: edward.romero5791@work.org
+  phone: 382 416 5528
+  ssn: 147 04 1344
+  dob: 11-24-1998
+  address: 9172 North Court
+  city: San Jose
+  state: PA

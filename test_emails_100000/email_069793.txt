@@ -1,0 +1,12 @@
+SUPPORT TICKET #21483
+
+Customer: Andrew Gomez
+Email: andrew.gomez535@example.com
+Phone: +1 485-643-8604
+Account: 431 75 2789
+
+Issue Description: Technical problem reported
+DOB on file: 04/20/1966
+Address: 9577 East Blvd, San Jose, CA
+
+Status: OPEN

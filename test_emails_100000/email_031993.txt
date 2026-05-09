@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Ramirez",
+    "email": "david.ramirez2239@yahoo.com",
+    "phone": "+1 219-562-2683",
+    "ssn": "050-79-2012",
+    "dob": "27/04/1962",
+    "address": "5727 Third Ave",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

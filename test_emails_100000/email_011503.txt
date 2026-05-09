@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Miller",
+    "email": "sarah.miller1530@outlook.com",
+    "phone": "+1 663-696-4448",
+    "ssn": "453167364",
+    "dob": "26/06/1975",
+    "address": "5531 East St",
+    "city": "Philadelphia",
+    "state": "WA"
+  }
+}

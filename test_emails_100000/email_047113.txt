@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Phillips
+  email: ronald.phillips1705@yahoo.com
+  phone: (687) 253-8627
+  ssn: 626 02 6969
+  dob: 09/11/1965
+  address: 5150 Maple Dr
+  city: Phoenix
+  state: FL

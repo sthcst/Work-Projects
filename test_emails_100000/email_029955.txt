@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Sanchez
+  email: rebecca.sanchez4601@mail.com
+  phone: (513) 419-8308
+  ssn: 423 75 6918
+  dob: 1/24/1991
+  address: 1893 Sixth St
+  city: Houston
+  state: FL

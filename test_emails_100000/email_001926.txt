@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Reed
+  email: kenneth.reed7478@example.com
+  phone: +1 936-845-6735
+  ssn: 173 96 2605
+  dob: 09-08-1997
+  address: 6249 South St
+  city: Boston
+  state: NC

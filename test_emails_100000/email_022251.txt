@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Lee,michelle.lee8565@business.net,834-928-1913,339-49-7626,02-02-1977,"8853 Maple Dr",Denver,MI

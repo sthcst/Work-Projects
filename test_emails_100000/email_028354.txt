@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Campbell",
+    "email": "stephanie.campbell7171@business.net",
+    "phone": "+1 366-929-4758",
+    "ssn": "182-36-9828",
+    "dob": "06-07-1996",
+    "address": "2592 Second Court",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

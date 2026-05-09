@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Lee
+  email: rachel.lee2938@outlook.com
+  phone: +1 460-443-9363
+  ssn: 578732532
+  dob: 06-21-1987
+  address: 4435 South Blvd
+  city: Dallas
+  state: MI

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Ramirez,timothy.ramirez2450@outlook.com,359 725 3614,056499440,02/16/1972,"2502 South Rd",Houston,CO

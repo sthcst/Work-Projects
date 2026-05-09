@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Stewart",
+    "email": "angela.stewart5057@company.com",
+    "phone": "662-912-7726",
+    "ssn": "492 43 9384",
+    "dob": "6/3/1963",
+    "address": "2842 Cedar St",
+    "city": "Seattle",
+    "state": "NC"
+  }
+}

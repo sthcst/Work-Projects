@@ -1,0 +1,9 @@
+contact:
+  name: Megan Gomez
+  email: megan.gomez5353@yahoo.com
+  phone: 482-529-2878
+  ssn: 298-47-2538
+  dob: 11-21-1951
+  address: 5145 Cedar St
+  city: Los Angeles
+  state: PA

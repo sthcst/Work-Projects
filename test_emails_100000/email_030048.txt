@@ -1,0 +1,9 @@
+contact:
+  name: John Miller
+  email: john.miller1893@business.net
+  phone: +1 457-317-9812
+  ssn: 115043585
+  dob: 11/6/1970
+  address: 2164 Fourth Way
+  city: Denver
+  state: NC

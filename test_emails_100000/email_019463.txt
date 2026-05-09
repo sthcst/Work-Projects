@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Rodriguez,andrew.rodriguez9852@outlook.com,+1 708-509-7627,070 46 4874,4/8/1975,"7764 Sixth Way",San Jose,CA

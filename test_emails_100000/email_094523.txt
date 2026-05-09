@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Harris,ronald.harris7462@business.net,+1 667-721-3489,831-87-9353,3/5/1983,"7855 Oak Blvd",Houston,MI

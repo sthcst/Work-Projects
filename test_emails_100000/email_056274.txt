@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole White,nicole.white9337@mail.com,722 300 9931,604-72-3985,18/08/1975,"9513 Elm Rd",Phoenix,GA

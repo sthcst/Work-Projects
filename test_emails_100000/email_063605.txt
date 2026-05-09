@@ -1,0 +1,9 @@
+contact:
+  name: David Nelson
+  email: david.nelson8716@example.com
+  phone: 454-339-1015
+  ssn: 554623698
+  dob: 09/15/1968
+  address: 6492 First Way
+  city: Houston
+  state: MD

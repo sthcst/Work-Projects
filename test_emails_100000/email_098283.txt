@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Bell
+  email: timothy.bell5563@company.com
+  phone: 843 997 8669
+  ssn: 055 54 5310
+  dob: 10/11/1983
+  address: 1823 Cedar Ave
+  city: Chicago
+  state: TN

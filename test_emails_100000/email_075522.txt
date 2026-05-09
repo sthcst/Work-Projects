@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Moore,nicholas.moore7917@gmail.com,+1 768-397-1874,319-36-2674,07/06/1995,"2883 Oak St",San Jose,MA

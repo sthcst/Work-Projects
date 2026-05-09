@@ -1,0 +1,14 @@
+INVOICE 782826
+
+Bill To:
+Name: David Perez
+Email: david.perez7579@outlook.com
+Phone: 825 999 8521
+SSN: 147423639
+
+Address: 6392 North Ln
+Austin, CA
+
+Date of Birth: 7/5/1985
+
+Amount Due: $3417

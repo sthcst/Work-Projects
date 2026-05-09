@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Alvarado,amanda.alvarado5129@outlook.com,298 256 4180,258321908,07/10/1969,"6158 South Ln",Phoenix,VA

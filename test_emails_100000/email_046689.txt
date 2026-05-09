@@ -1,0 +1,14 @@
+INVOICE 784402
+
+Bill To:
+Name: George Hall
+Email: george.hall4573@mail.com
+Phone: +1 834-413-9143
+SSN: 401527750
+
+Address: 6673 Maple Court
+San Antonio, NJ
+
+Date of Birth: 12/22/1992
+
+Amount Due: $7914

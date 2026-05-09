@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Murillo,christopher.murillo6581@business.net,+1 909-951-5186,755-02-3911,06/03/1963,"4018 Birch Ave",Austin,CA

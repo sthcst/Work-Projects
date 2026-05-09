@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Hall,john.hall8326@mail.com,461-849-5124,407147607,08-13-1959,"9574 Sixth Court",Los Angeles,CA

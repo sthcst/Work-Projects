@@ -1,0 +1,9 @@
+contact:
+  name: Paul Taylor
+  email: paul.taylor4205@outlook.com
+  phone: 729-576-6049
+  ssn: 226127473
+  dob: 11-25-1979
+  address: 5682 West Ln
+  city: Seattle
+  state: MO

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Sanchez,nicholas.sanchez9055@company.com,984 247 5386,681 89 8815,8/20/1955,"9446 Park Court",Denver,CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Carter",
+    "email": "michael.carter6562@example.com",
+    "phone": "708-852-1636",
+    "ssn": "853886905",
+    "dob": "6/6/1995",
+    "address": "3444 Fourth Dr",
+    "city": "Seattle",
+    "state": "TN"
+  }
+}

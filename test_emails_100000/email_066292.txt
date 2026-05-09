@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Ortiz,george.ortiz9349@company.com,(554) 618-2889,738-51-7015,04-10-1989,"84 Main St",Austin,WA

@@ -1,0 +1,9 @@
+contact:
+  name: Edward Robinson
+  email: edward.robinson4123@company.com
+  phone: 265-488-6995
+  ssn: 888 69 2867
+  dob: 04-06-1992
+  address: 3754 Fifth Court
+  city: Seattle
+  state: OH

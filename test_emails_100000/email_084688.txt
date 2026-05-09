@@ -1,0 +1,14 @@
+INVOICE 480104
+
+Bill To:
+Name: Samantha Rogers
+Email: samantha.rogers388@outlook.com
+Phone: 909 236 5541
+SSN: 841527427
+
+Address: 4568 Birch Rd
+Boston, WA
+
+Date of Birth: 17/01/1950
+
+Amount Due: $3201

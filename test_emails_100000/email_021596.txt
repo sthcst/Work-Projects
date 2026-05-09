@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Rodriguez",
+    "email": "gary.rodriguez1093@gmail.com",
+    "phone": "+1 586-225-1439",
+    "ssn": "170 23 5470",
+    "dob": "28/05/1985",
+    "address": "255 Spring Dr",
+    "city": "Washington",
+    "state": "CO"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Jane Collins
+  email: jane.collins8956@outlook.com
+  phone: (326) 860-9928
+  ssn: 913-49-9534
+  dob: 1/17/2002
+  address: 9795 Cedar Dr
+  city: Boston
+  state: WA

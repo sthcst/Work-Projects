@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Gomez",
+    "email": "brenda.gomez6924@example.com",
+    "phone": "(953) 938-7804",
+    "ssn": "301067058",
+    "dob": "05/21/1972",
+    "address": "2894 North St",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

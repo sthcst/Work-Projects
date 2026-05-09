@@ -1,0 +1,9 @@
+contact:
+  name: Michael Johnson
+  email: michael.johnson5714@yahoo.com
+  phone: 214 469 6401
+  ssn: 184 60 7322
+  dob: 27/08/1998
+  address: 9122 Elm Blvd
+  city: Denver
+  state: PA

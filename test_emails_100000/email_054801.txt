@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Martin
+  email: rebecca.martin9556@work.org
+  phone: +1 496-233-8455
+  ssn: 871157291
+  dob: 10/19/1984
+  address: 4724 Fifth Blvd
+  city: Jacksonville
+  state: OH

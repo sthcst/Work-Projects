@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Murillo,jennifer.murillo3064@mail.com,236-534-5171,881-96-2370,7/12/1952,"4362 Pine Dr",Denver,NC

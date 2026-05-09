@@ -1,0 +1,9 @@
+contact:
+  name: Emma Gonzalez
+  email: emma.gonzalez1471@outlook.com
+  phone: +1 307-652-4418
+  ssn: 462-07-4327
+  dob: 10/25/1980
+  address: 3809 Third Dr
+  city: Philadelphia
+  state: GA

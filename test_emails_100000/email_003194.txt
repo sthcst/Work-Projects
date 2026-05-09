@@ -1,0 +1,14 @@
+INVOICE 600445
+
+Bill To:
+Name: Rebecca Johnson
+Email: rebecca.johnson4483@company.com
+Phone: 985-271-4111
+SSN: 517-57-6311
+
+Address: 6739 Pine Court
+San Diego, TX
+
+Date of Birth: 10/07/1954
+
+Amount Due: $7336

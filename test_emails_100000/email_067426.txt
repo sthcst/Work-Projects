@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Lewis,megan.lewis5219@work.org,641 360 8270,978167932,9/16/1956,"3444 Summer Ln",San Antonio,PA

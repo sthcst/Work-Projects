@@ -1,0 +1,9 @@
+contact:
+  name: Charles Ramirez
+  email: charles.ramirez6683@outlook.com
+  phone: (918) 915-3762
+  ssn: 168 07 2821
+  dob: 09/06/1959
+  address: 9947 Pine Rd
+  city: Jacksonville
+  state: NJ

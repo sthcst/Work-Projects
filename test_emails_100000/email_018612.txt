@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Reyes,michelle.reyes9139@gmail.com,601 721 8772,426 41 2442,09/23/2001,"7024 South Ln",Boston,NJ

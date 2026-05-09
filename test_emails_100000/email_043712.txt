@@ -1,0 +1,14 @@
+INVOICE 131928
+
+Bill To:
+Name: Jennifer Brown
+Email: jennifer.brown2598@example.com
+Phone: 954-870-6724
+SSN: 513 54 8110
+
+Address: 5356 Park Way
+Houston, CA
+
+Date of Birth: 03-01-2003
+
+Amount Due: $686

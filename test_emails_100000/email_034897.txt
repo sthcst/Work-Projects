@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Guerrero",
+    "email": "anna.guerrero6310@gmail.com",
+    "phone": "398 894 3697",
+    "ssn": "959862645",
+    "dob": "9/26/1970",
+    "address": "7968 South Way",
+    "city": "Denver",
+    "state": "NY"
+  }
+}

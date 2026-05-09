@@ -1,0 +1,14 @@
+INVOICE 300131
+
+Bill To:
+Name: Richard Morris
+Email: richard.morris9541@outlook.com
+Phone: +1 940-474-6490
+SSN: 579562628
+
+Address: 1114 Birch Blvd
+Washington, FL
+
+Date of Birth: 10/22/1968
+
+Amount Due: $3076

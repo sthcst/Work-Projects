@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Cooper,james.cooper7353@business.net,764-704-4910,334181549,12/01/1968,"4741 North Rd",San Jose,MA

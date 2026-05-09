@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Edwards,nicholas.edwards5000@gmail.com,(675) 319-7801,128 02 6325,2/4/1950,"5057 First Court",Washington,IL

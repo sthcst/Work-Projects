@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Lee,katherine.lee3246@mail.com,(203) 374-5836,484689974,25/11/1984,"7851 Second Court",Seattle,MI

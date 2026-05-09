@@ -1,0 +1,9 @@
+contact:
+  name: Jane Clark
+  email: jane.clark5351@mail.com
+  phone: (554) 234-7633
+  ssn: 527 32 5507
+  dob: 5/17/1991
+  address: 1224 Third Blvd
+  city: San Diego
+  state: CA

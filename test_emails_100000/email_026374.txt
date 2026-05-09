@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Serrano
+  email: jennifer.serrano8602@company.com
+  phone: 534-278-4213
+  ssn: 583443215
+  dob: 03/09/1978
+  address: 4921 Oak Ave
+  city: Los Angeles
+  state: AZ

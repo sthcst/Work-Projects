@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Gonzalez",
+    "email": "maria.gonzalez6861@outlook.com",
+    "phone": "+1 213-838-1404",
+    "ssn": "363 81 6333",
+    "dob": "13/07/1990",
+    "address": "6284 North Way",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

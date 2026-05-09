@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Jones
+  email: amanda.jones6144@business.net
+  phone: 505-427-6593
+  ssn: 276-68-6163
+  dob: 02/14/1984
+  address: 9567 Elm Rd
+  city: Denver
+  state: TN

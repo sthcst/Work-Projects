@@ -1,0 +1,9 @@
+contact:
+  name: Anna Walker
+  email: anna.walker1346@example.com
+  phone: (662) 901-8217
+  ssn: 078112502
+  dob: 04/16/1967
+  address: 8848 Second Rd
+  city: Houston
+  state: NY

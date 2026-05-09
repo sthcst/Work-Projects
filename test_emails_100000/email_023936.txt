@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Collins",
+    "email": "jason.collins2392@business.net",
+    "phone": "(380) 860-1744",
+    "ssn": "902792960",
+    "dob": "13/09/1989",
+    "address": "650 Park Ln",
+    "city": "Austin",
+    "state": "GA"
+  }
+}

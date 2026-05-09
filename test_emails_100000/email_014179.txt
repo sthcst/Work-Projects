@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Phillips,kevin.phillips9037@work.org,862 235 9419,373 12 8129,11/15/1996,"8754 South St",Boston,FL

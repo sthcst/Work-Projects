@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Peterson
+  email: samantha.peterson4990@gmail.com
+  phone: 244-527-7405
+  ssn: 314 01 2881
+  dob: 5/1/1985
+  address: 7825 Oak Ave
+  city: Los Angeles
+  state: CA

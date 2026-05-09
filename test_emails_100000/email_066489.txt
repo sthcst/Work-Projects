@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Rodriguez
+  email: joseph.rodriguez4824@company.com
+  phone: +1 967-905-8007
+  ssn: 392468588
+  dob: 06/12/2005
+  address: 1464 Oak Dr
+  city: Boston
+  state: MI

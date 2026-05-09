@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Ramirez",
+    "email": "matthew.ramirez4461@business.net",
+    "phone": "+1 728-608-5907",
+    "ssn": "391 34 1509",
+    "dob": "14/08/1971",
+    "address": "7074 First Way",
+    "city": "Jacksonville",
+    "state": "PA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Thompson,katherine.thompson4763@example.com,(464) 640-2125,419 12 3161,16/10/1977,"5188 Park Way",Denver,FL

@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Hernandez
+  email: amanda.hernandez5954@yahoo.com
+  phone: 849-836-9228
+  ssn: 933652748
+  dob: 01/07/1966
+  address: 6486 Spring Way
+  city: Washington
+  state: MO

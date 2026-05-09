@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Gonzalez,jessica.gonzalez8334@mail.com,+1 897-391-1793,727-73-6508,08-12-1981,"3813 Fourth St",Jacksonville,WA

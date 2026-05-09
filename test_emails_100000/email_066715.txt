@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Lopez",
+    "email": "emma.lopez5564@example.com",
+    "phone": "694-672-3898",
+    "ssn": "885-17-7189",
+    "dob": "23/10/1983",
+    "address": "3899 First Rd",
+    "city": "Austin",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Gomez",
+    "email": "edward.gomez252@work.org",
+    "phone": "+1 738-269-8448",
+    "ssn": "443-11-5047",
+    "dob": "7/3/1955",
+    "address": "5307 Main Ln",
+    "city": "Washington",
+    "state": "MD"
+  }
+}

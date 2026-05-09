@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Lewis
+  email: jennifer.lewis7480@company.com
+  phone: 400 208 9148
+  ssn: 403-82-6221
+  dob: 07-19-1973
+  address: 8660 South Dr
+  city: Phoenix
+  state: CA

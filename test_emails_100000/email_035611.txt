@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Evans,emma.evans1986@example.com,941 573 6444,679-76-1058,02-22-1963,"3263 Maple Way",Boston,AZ

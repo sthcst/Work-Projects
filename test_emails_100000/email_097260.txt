@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Harris,jennifer.harris8279@outlook.com,(862) 280-4365,297-29-7174,25/12/1976,"6709 Birch Way",New York,VA

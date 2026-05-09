@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Nelson",
+    "email": "stephanie.nelson9431@company.com",
+    "phone": "(621) 730-8062",
+    "ssn": "636-53-9666",
+    "dob": "1/2/1966",
+    "address": "7027 Maple Ln",
+    "city": "Houston",
+    "state": "MO"
+  }
+}

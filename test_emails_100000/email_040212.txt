@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Carter,katherine.carter8783@business.net,(749) 855-9327,720 15 7743,15/11/1967,"9510 Third Ln",New York,CA

@@ -1,0 +1,14 @@
+INVOICE 814688
+
+Bill To:
+Name: Emily Gonzalez
+Email: emily.gonzalez5250@yahoo.com
+Phone: 599 664 5845
+SSN: 769 15 4649
+
+Address: 5122 Second Blvd
+Boston, NJ
+
+Date of Birth: 07-01-1998
+
+Amount Due: $9744

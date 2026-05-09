@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Gonzalez,joseph.gonzalez7791@work.org,446 890 2510,166-60-1195,7/22/1988,"4089 South Ave",Austin,WA

@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Ramirez
+  email: sarah.ramirez1867@yahoo.com
+  phone: 637 410 7650
+  ssn: 518533440
+  dob: 12-22-1990
+  address: 6208 Fifth St
+  city: Houston
+  state: PA

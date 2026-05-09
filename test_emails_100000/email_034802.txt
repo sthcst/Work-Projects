@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Phillips,pamela.phillips1913@company.com,500 676 4657,588297303,12-24-1985,"7563 Park Way",Houston,TN

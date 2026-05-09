@@ -1,0 +1,14 @@
+INVOICE 688507
+
+Bill To:
+Name: Cynthia Reyes
+Email: cynthia.reyes3360@company.com
+Phone: 787-610-8547
+SSN: 103608374
+
+Address: 6736 Third Court
+Washington, NY
+
+Date of Birth: 1/2/1955
+
+Amount Due: $3232

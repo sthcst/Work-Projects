@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Thomas,jessica.thomas1993@gmail.com,+1 748-771-8865,905011657,1/26/1969,"4039 Maple Way",Denver,CA

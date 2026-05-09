@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Lewis,rachel.lewis3702@business.net,394 886 7195,340515350,06-12-1958,"8352 Pine Rd",Phoenix,AZ

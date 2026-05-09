@@ -1,0 +1,9 @@
+contact:
+  name: Angela Nelson
+  email: angela.nelson483@mail.com
+  phone: 335-670-2532
+  ssn: 675 22 3243
+  dob: 3/22/1964
+  address: 5847 South Blvd
+  city: Jacksonville
+  state: GA

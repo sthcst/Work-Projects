@@ -1,0 +1,14 @@
+INVOICE 286902
+
+Bill To:
+Name: Charles Jones
+Email: charles.jones495@business.net
+Phone: (451) 323-6295
+SSN: 659-19-8670
+
+Address: 4875 West St
+Washington, MA
+
+Date of Birth: 6/22/1959
+
+Amount Due: $3385

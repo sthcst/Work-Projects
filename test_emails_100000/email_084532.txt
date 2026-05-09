@@ -1,0 +1,14 @@
+INVOICE 790855
+
+Bill To:
+Name: Paul Jones
+Email: paul.jones2686@company.com
+Phone: +1 492-445-1406
+SSN: 552-59-7589
+
+Address: 510 Cedar Way
+Denver, CA
+
+Date of Birth: 1/19/1991
+
+Amount Due: $1569

@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Clark
+  email: ashley.clark2904@business.net
+  phone: (617) 758-9627
+  ssn: 964 24 2258
+  dob: 22/06/1951
+  address: 7377 Sixth Way
+  city: San Diego
+  state: MD

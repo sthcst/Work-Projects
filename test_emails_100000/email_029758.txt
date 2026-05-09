@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Lewis",
+    "email": "rebecca.lewis4312@yahoo.com",
+    "phone": "+1 295-548-3159",
+    "ssn": "136 02 6365",
+    "dob": "11-19-1986",
+    "address": "6970 Pine Way",
+    "city": "Denver",
+    "state": "MA"
+  }
+}

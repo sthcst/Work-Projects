@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Romero
+  email: katherine.romero2121@example.com
+  phone: 806 521 9572
+  ssn: 333066488
+  dob: 1/26/1957
+  address: 6061 Oak Blvd
+  city: San Jose
+  state: CA

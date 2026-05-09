@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Jimenez",
+    "email": "jane.jimenez6364@work.org",
+    "phone": "+1 662-796-7420",
+    "ssn": "677 36 3040",
+    "dob": "9/1/2002",
+    "address": "867 Fourth Court",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}

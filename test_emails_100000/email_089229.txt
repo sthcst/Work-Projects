@@ -1,0 +1,14 @@
+INVOICE 437331
+
+Bill To:
+Name: Anna Lewis
+Email: anna.lewis7270@example.com
+Phone: 967-651-7212
+SSN: 102016092
+
+Address: 7450 Park Blvd
+Washington, AZ
+
+Date of Birth: 20/08/1986
+
+Amount Due: $7879

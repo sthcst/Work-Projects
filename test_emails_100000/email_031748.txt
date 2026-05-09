@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Gonzalez",
+    "email": "michael.gonzalez5205@gmail.com",
+    "phone": "345 233 4192",
+    "ssn": "779 85 5827",
+    "dob": "07-23-1962",
+    "address": "8760 West Ln",
+    "city": "Dallas",
+    "state": "WA"
+  }
+}

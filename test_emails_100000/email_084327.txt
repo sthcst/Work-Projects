@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Flores",
+    "email": "donald.flores1729@work.org",
+    "phone": "518-710-4089",
+    "ssn": "075 07 9453",
+    "dob": "7/3/1964",
+    "address": "9806 Main Court",
+    "city": "San Antonio",
+    "state": "MI"
+  }
+}

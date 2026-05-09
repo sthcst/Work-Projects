@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Walker
+  email: katherine.walker3020@outlook.com
+  phone: (999) 677-6242
+  ssn: 505 65 3168
+  dob: 11/12/1980
+  address: 279 Fifth Dr
+  city: Chicago
+  state: TX

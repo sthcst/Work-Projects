@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Brown",
+    "email": "kenneth.brown8207@yahoo.com",
+    "phone": "767 751 5674",
+    "ssn": "215572106",
+    "dob": "1/26/1982",
+    "address": "9944 Third Way",
+    "city": "San Jose",
+    "state": "GA"
+  }
+}

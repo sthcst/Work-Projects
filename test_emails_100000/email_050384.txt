@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Carter",
+    "email": "robert.carter86@example.com",
+    "phone": "454 868 1066",
+    "ssn": "078583699",
+    "dob": "6/16/1950",
+    "address": "2466 South Court",
+    "city": "Phoenix",
+    "state": "CO"
+  }
+}

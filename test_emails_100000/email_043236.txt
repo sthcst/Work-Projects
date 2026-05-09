@@ -1,0 +1,14 @@
+INVOICE 553503
+
+Bill To:
+Name: Kathleen Smith
+Email: kathleen.smith6900@gmail.com
+Phone: +1 426-925-9537
+SSN: 173477353
+
+Address: 3247 Spring Dr
+Washington, VA
+
+Date of Birth: 1/9/1983
+
+Amount Due: $296

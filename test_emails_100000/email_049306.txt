@@ -1,0 +1,9 @@
+contact:
+  name: Steven Reyes
+  email: steven.reyes1141@company.com
+  phone: 467-829-7168
+  ssn: 189 74 8281
+  dob: 01-21-1979
+  address: 6956 South Dr
+  city: Boston
+  state: WA

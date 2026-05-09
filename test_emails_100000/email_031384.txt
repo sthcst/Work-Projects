@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Thompson",
+    "email": "timothy.thompson8739@work.org",
+    "phone": "737 560 5990",
+    "ssn": "894-52-5419",
+    "dob": "05-23-1972",
+    "address": "9416 Spring Ave",
+    "city": "San Antonio",
+    "state": "NY"
+  }
+}

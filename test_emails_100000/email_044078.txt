@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Ramirez,sarah.ramirez1638@outlook.com,711 946 2365,472982021,4/1/1972,"8489 Birch Blvd",Phoenix,NY

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Jackson,mark.jackson3548@example.com,(992) 263-5007,245 90 5058,23/11/1951,"2670 Fourth Blvd",New York,MD

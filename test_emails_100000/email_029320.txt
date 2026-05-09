@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Guerrero,katherine.guerrero4223@gmail.com,956-357-3008,722-71-6490,22/07/1977,"1507 South Dr",Denver,MA

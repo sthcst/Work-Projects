@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Reeves",
+    "email": "nicole.reeves6414@example.com",
+    "phone": "763 968 8590",
+    "ssn": "359-70-8901",
+    "dob": "04/09/1973",
+    "address": "3357 Third Ave",
+    "city": "Seattle",
+    "state": "FL"
+  }
+}

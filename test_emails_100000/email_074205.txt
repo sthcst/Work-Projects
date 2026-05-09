@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Phillips,jacob.phillips3738@company.com,(445) 586-5104,875-03-7617,04/08/1993,"7021 South Way",New York,TX

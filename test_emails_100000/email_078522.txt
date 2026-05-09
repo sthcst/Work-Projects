@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Anderson",
+    "email": "katherine.anderson9552@gmail.com",
+    "phone": "+1 792-238-2260",
+    "ssn": "163202647",
+    "dob": "07/15/1962",
+    "address": "1379 North Ave",
+    "city": "Chicago",
+    "state": "MA"
+  }
+}

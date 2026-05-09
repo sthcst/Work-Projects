@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Smith",
+    "email": "daniel.smith1308@outlook.com",
+    "phone": "985-969-2863",
+    "ssn": "292-91-2308",
+    "dob": "09/11/2005",
+    "address": "3191 First Court",
+    "city": "Jacksonville",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Walker,ryan.walker886@gmail.com,430 743 8085,075646760,09-22-1962,"5171 Summer St",San Diego,FL

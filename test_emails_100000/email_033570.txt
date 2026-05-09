@@ -1,0 +1,14 @@
+INVOICE 686115
+
+Bill To:
+Name: Ryan Harris
+Email: ryan.harris1315@example.com
+Phone: 541-461-7994
+SSN: 097-72-5549
+
+Address: 1559 Elm Ave
+Austin, TX
+
+Date of Birth: 03-15-1990
+
+Amount Due: $8053

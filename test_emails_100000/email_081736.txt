@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Stewart
+  email: lauren.stewart6359@business.net
+  phone: (475) 600-5866
+  ssn: 528-49-2619
+  dob: 02-07-1972
+  address: 1435 Spring Blvd
+  city: San Antonio
+  state: TN

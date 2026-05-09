@@ -1,0 +1,9 @@
+contact:
+  name: Anna Brown
+  email: anna.brown5594@company.com
+  phone: 793-580-8509
+  ssn: 412 33 6664
+  dob: 09/22/1956
+  address: 9648 Sixth Ln
+  city: Austin
+  state: FL

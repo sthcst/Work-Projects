@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Rogers
+  email: shirley.rogers6919@outlook.com
+  phone: 532-782-8764
+  ssn: 729785492
+  dob: 7/18/1982
+  address: 9990 Park Way
+  city: Austin
+  state: MD

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Hernandez,lauren.hernandez4219@work.org,707 624 6775,494563054,03/25/1977,"5764 First Ln",Washington,DC

@@ -1,0 +1,9 @@
+contact:
+  name: Mark Campbell
+  email: mark.campbell8746@company.com
+  phone: (388) 312-6643
+  ssn: 725-54-8856
+  dob: 10/3/1973
+  address: 7346 South Court
+  city: San Jose
+  state: NJ

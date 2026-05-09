@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Nelson,jeffrey.nelson3666@business.net,(385) 766-9566,948-82-7742,02/03/1966,"1335 Cedar Blvd",Jacksonville,VA

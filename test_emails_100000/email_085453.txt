@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Campbell,jacob.campbell6483@business.net,983 856 5486,656 82 9288,3/15/2004,"2795 Sixth St",Seattle,WI

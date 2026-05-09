@@ -1,0 +1,9 @@
+contact:
+  name: Gary Moore
+  email: gary.moore4290@gmail.com
+  phone: +1 375-964-1547
+  ssn: 366-28-5586
+  dob: 5/7/1971
+  address: 6869 Oak Court
+  city: San Jose
+  state: CO

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Ortiz",
+    "email": "anna.ortiz8866@business.net",
+    "phone": "218 814 6652",
+    "ssn": "677 83 3145",
+    "dob": "07/07/1953",
+    "address": "818 Oak St",
+    "city": "San Diego",
+    "state": "VA"
+  }
+}

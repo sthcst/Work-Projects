@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Nunez",
+    "email": "lisa.nunez1920@business.net",
+    "phone": "(838) 746-5356",
+    "ssn": "823 58 3723",
+    "dob": "6/27/1976",
+    "address": "8102 Fourth Ln",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

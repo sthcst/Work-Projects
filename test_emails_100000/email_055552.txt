@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Serrano",
+    "email": "joseph.serrano4357@yahoo.com",
+    "phone": "(974) 828-2347",
+    "ssn": "170087909",
+    "dob": "7/12/1974",
+    "address": "7863 Main Blvd",
+    "city": "San Diego",
+    "state": "FL"
+  }
+}

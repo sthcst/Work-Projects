@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Gonzalez,pamela.gonzalez9842@mail.com,+1 851-479-6652,337367165,01/21/1952,"7879 Pine Ave",Phoenix,WI

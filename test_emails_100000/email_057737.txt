@@ -1,0 +1,9 @@
+contact:
+  name: Richard Evans
+  email: richard.evans529@example.com
+  phone: 481 226 1039
+  ssn: 283-46-7259
+  dob: 01-18-1980
+  address: 111 First Way
+  city: Washington
+  state: DC

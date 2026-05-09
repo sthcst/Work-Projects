@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Garcia,richard.garcia9478@gmail.com,(591) 994-9596,396-94-2276,04/03/1991,"1040 East Rd",Los Angeles,CA

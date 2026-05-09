@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Sanchez,richard.sanchez9338@work.org,259 709 4535,628791902,02/24/1959,"336 Park Rd",San Jose,NC

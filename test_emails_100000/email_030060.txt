@@ -1,0 +1,14 @@
+INVOICE 724503
+
+Bill To:
+Name: Cynthia Johnson
+Email: cynthia.johnson8209@mail.com
+Phone: +1 506-524-6364
+SSN: 332 82 4445
+
+Address: 5836 Second Ln
+Washington, CA
+
+Date of Birth: 7/21/1964
+
+Amount Due: $1681

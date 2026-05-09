@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Reyes",
+    "email": "jason.reyes9477@yahoo.com",
+    "phone": "(492) 859-6749",
+    "ssn": "629 51 9875",
+    "dob": "14/01/1970",
+    "address": "6776 East Blvd",
+    "city": "Philadelphia",
+    "state": "MI"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Lewis",
+    "email": "nicole.lewis7673@yahoo.com",
+    "phone": "(541) 682-3158",
+    "ssn": "550 90 4666",
+    "dob": "01/11/1982",
+    "address": "4069 South Court",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

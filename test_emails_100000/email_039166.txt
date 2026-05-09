@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Thomas
+  email: nicholas.thomas547@mail.com
+  phone: 265 292 8034
+  ssn: 915784313
+  dob: 11/26/1990
+  address: 6998 Pine Way
+  city: Jacksonville
+  state: MA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Brown",
+    "email": "lauren.brown659@example.com",
+    "phone": "(322) 494-5661",
+    "ssn": "190819452",
+    "dob": "8/24/1986",
+    "address": "2735 North Ln",
+    "city": "Washington",
+    "state": "WI"
+  }
+}

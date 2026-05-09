@@ -1,0 +1,14 @@
+INVOICE 429001
+
+Bill To:
+Name: Ryan Lee
+Email: ryan.lee7645@yahoo.com
+Phone: 710-321-8584
+SSN: 597 16 1427
+
+Address: 4032 Spring Ave
+San Antonio, TX
+
+Date of Birth: 15/05/1971
+
+Amount Due: $5932

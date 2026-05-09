@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Garcia,sarah.garcia3905@work.org,556-533-6569,808 86 6222,4/2/2002,"996 North Ln",Houston,VA

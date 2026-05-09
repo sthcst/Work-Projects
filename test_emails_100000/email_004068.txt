@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Rodriguez
+  email: katherine.rodriguez1543@business.net
+  phone: 662-485-2639
+  ssn: 575 57 9349
+  dob: 02-21-1995
+  address: 9051 First Ln
+  city: Chicago
+  state: CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Peterson",
+    "email": "michelle.peterson8466@example.com",
+    "phone": "+1 872-451-9441",
+    "ssn": "897375065",
+    "dob": "27/06/1963",
+    "address": "2925 South St",
+    "city": "Chicago",
+    "state": "TN"
+  }
+}

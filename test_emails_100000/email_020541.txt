@@ -1,0 +1,14 @@
+INVOICE 543490
+
+Bill To:
+Name: Andrew Martin
+Email: andrew.martin6404@example.com
+Phone: (547) 357-3608
+SSN: 346287209
+
+Address: 1408 Oak St
+Houston, MO
+
+Date of Birth: 03/14/1983
+
+Amount Due: $490

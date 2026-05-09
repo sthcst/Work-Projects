@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Flores,timothy.flores9121@business.net,+1 518-920-1600,773176699,11/09/1950,"9363 Sixth Court",New York,AZ

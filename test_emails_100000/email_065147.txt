@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Collins",
+    "email": "brenda.collins9600@company.com",
+    "phone": "+1 754-322-4196",
+    "ssn": "595-88-9697",
+    "dob": "6/18/1973",
+    "address": "5942 First Way",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}

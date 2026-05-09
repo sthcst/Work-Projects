@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Walker
+  email: joseph.walker5466@mail.com
+  phone: +1 823-239-8149
+  ssn: 111 85 4206
+  dob: 02-23-1958
+  address: 3709 Third Ln
+  city: San Jose
+  state: IL

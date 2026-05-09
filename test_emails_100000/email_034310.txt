@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Serrano,mark.serrano5284@company.com,(502) 905-2837,604225516,16/09/1963,"5208 Park Blvd",Austin,CA

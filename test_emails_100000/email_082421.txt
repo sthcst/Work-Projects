@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Parker,katherine.parker29@outlook.com,+1 817-847-9539,522513502,09/01/1979,"1102 Summer Way",Austin,NY

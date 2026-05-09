@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Rogers
+  email: kathleen.rogers9720@work.org
+  phone: 460 316 6692
+  ssn: 832-07-2252
+  dob: 3/21/1999
+  address: 2672 First Ave
+  city: San Jose
+  state: CA

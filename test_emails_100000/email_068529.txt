@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Roberts,jacob.roberts5218@work.org,280 580 2062,285-16-7123,3/19/1997,"5677 Summer Rd",Los Angeles,WA

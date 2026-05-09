@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Stewart
+  email: nicole.stewart8114@gmail.com
+  phone: +1 791-911-5881
+  ssn: 239772799
+  dob: 1/1/1978
+  address: 4127 First Ln
+  city: San Diego
+  state: NY

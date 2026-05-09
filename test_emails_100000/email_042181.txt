@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Morris,joseph.morris4930@mail.com,441 373 6920,709-46-6632,11-19-1956,"4685 Second Ave",Denver,OH

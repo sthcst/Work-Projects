@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Thomas,daniel.thomas3134@gmail.com,+1 760-478-5815,391 05 2301,14/03/1961,"8755 Cedar St",New York,TX

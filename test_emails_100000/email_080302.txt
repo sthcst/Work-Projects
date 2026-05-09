@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Edwards",
+    "email": "jennifer.edwards3873@gmail.com",
+    "phone": "577 636 2177",
+    "ssn": "924-68-8069",
+    "dob": "09-28-1973",
+    "address": "5589 Summer Rd",
+    "city": "Phoenix",
+    "state": "GA"
+  }
+}

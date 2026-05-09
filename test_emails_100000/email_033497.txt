@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Rogers",
+    "email": "lauren.rogers5998@company.com",
+    "phone": "(543) 819-1874",
+    "ssn": "237 30 4030",
+    "dob": "03-23-1952",
+    "address": "5582 Main Dr",
+    "city": "Los Angeles",
+    "state": "TN"
+  }
+}

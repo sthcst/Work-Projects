@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Lopez
+  email: stephanie.lopez631@business.net
+  phone: 740 422 5109
+  ssn: 523-04-9247
+  dob: 10-15-1963
+  address: 2819 Park Way
+  city: Denver
+  state: NY

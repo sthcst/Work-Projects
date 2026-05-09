@@ -1,0 +1,9 @@
+contact:
+  name: Lisa White
+  email: lisa.white5249@company.com
+  phone: +1 914-881-1977
+  ssn: 960-38-4642
+  dob: 17/07/1994
+  address: 8508 First Ave
+  city: Chicago
+  state: CA

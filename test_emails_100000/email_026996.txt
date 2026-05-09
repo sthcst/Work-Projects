@@ -1,0 +1,14 @@
+INVOICE 729307
+
+Bill To:
+Name: Jacob Cooper
+Email: jacob.cooper1546@outlook.com
+Phone: +1 788-232-4100
+SSN: 946419776
+
+Address: 3659 Park Rd
+Phoenix, OH
+
+Date of Birth: 05-10-1984
+
+Amount Due: $5818

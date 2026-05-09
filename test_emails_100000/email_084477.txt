@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Walker
+  email: pamela.walker9383@company.com
+  phone: +1 453-786-1459
+  ssn: 571237767
+  dob: 08-24-1984
+  address: 2763 Elm St
+  city: Denver
+  state: WI

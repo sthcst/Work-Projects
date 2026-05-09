@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Alvarado,shirley.alvarado998@outlook.com,830 946 6325,112904587,08/10/1958,"2598 Second Rd",Chicago,PA

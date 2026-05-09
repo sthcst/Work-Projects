@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Johnson,donald.johnson1426@example.com,(333) 517-5631,229 99 2327,02-09-1994,"3307 Fourth Rd",New York,MO

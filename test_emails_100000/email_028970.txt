@@ -1,0 +1,14 @@
+INVOICE 513233
+
+Bill To:
+Name: Lisa Serrano
+Email: lisa.serrano542@example.com
+Phone: +1 755-956-9680
+SSN: 526 91 5551
+
+Address: 14 Maple Ave
+Seattle, CA
+
+Date of Birth: 8/7/1997
+
+Amount Due: $2550

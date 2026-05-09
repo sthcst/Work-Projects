@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Reyes",
+    "email": "brian.reyes2397@business.net",
+    "phone": "776-267-2226",
+    "ssn": "607-10-6402",
+    "dob": "3/19/1976",
+    "address": "8750 South St",
+    "city": "New York",
+    "state": "WA"
+  }
+}

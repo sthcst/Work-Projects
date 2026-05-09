@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Evans
+  email: katherine.evans1620@example.com
+  phone: +1 547-720-4660
+  ssn: 976894024
+  dob: 4/3/1973
+  address: 8344 East Way
+  city: New York
+  state: MA

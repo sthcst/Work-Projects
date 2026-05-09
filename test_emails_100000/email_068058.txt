@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Gonzalez
+  email: samantha.gonzalez3147@outlook.com
+  phone: (821) 606-3966
+  ssn: 519-92-3841
+  dob: 08/14/1954
+  address: 5464 North Ln
+  city: San Jose
+  state: MD

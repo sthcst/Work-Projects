@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Davis,david.davis5718@business.net,+1 554-385-9942,657-02-1922,07/07/1985,"9535 Birch Court",San Antonio,MA

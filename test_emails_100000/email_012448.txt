@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Garcia,amanda.garcia7595@mail.com,+1 996-289-3843,995 73 2853,05-22-1968,"6137 South Blvd",Austin,VA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Rogers,katherine.rogers7713@yahoo.com,703 731 2877,022937599,27/02/1955,"8890 First Rd",San Diego,TX

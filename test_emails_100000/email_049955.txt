@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Lewis,kevin.lewis5450@mail.com,+1 706-734-6991,951665972,8/24/1991,"5579 South Court",San Diego,CO

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Jimenez",
+    "email": "emily.jimenez9850@business.net",
+    "phone": "+1 855-819-1134",
+    "ssn": "108549852",
+    "dob": "26/07/1996",
+    "address": "2956 Fourth Dr",
+    "city": "Denver",
+    "state": "MI"
+  }
+}

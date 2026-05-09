@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Sanchez,katherine.sanchez2395@mail.com,(612) 410-6390,480 55 7590,2/15/1994,"5949 Sixth Dr",Washington,FL

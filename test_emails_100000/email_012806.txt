@@ -1,0 +1,9 @@
+contact:
+  name: Michael Williams
+  email: michael.williams9188@company.com
+  phone: (672) 982-9028
+  ssn: 706 68 6142
+  dob: 03/06/1969
+  address: 1183 West Ln
+  city: Seattle
+  state: FL

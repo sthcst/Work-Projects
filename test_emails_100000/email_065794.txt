@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Martinez
+  email: nicholas.martinez2359@example.com
+  phone: 332 685 3191
+  ssn: 876789689
+  dob: 08/18/1955
+  address: 4115 Spring Way
+  city: Philadelphia
+  state: FL

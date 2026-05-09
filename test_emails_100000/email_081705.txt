@@ -1,0 +1,14 @@
+INVOICE 594888
+
+Bill To:
+Name: Brian Romero
+Email: brian.romero9187@business.net
+Phone: 980 663 8418
+SSN: 516-12-8983
+
+Address: 8202 Maple Court
+Washington, MI
+
+Date of Birth: 26/02/1955
+
+Amount Due: $7699

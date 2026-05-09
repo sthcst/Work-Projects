@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Robinson",
+    "email": "kenneth.robinson5082@example.com",
+    "phone": "+1 501-883-6660",
+    "ssn": "228 29 6580",
+    "dob": "5/1/1975",
+    "address": "8071 Cedar Dr",
+    "city": "Austin",
+    "state": "WI"
+  }
+}

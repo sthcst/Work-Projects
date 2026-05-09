@@ -1,0 +1,9 @@
+contact:
+  name: Jason White
+  email: jason.white7198@yahoo.com
+  phone: 434 437 2497
+  ssn: 401-80-2166
+  dob: 4/24/1983
+  address: 1163 Oak Court
+  city: Jacksonville
+  state: MA

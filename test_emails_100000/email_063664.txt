@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Taylor,paul.taylor5058@gmail.com,+1 595-950-1996,061-17-9112,10/24/1957,"8697 Pine Court",Austin,TX

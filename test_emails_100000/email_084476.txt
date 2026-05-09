@@ -1,0 +1,9 @@
+contact:
+  name: Gary Ramirez
+  email: gary.ramirez5902@outlook.com
+  phone: (848) 789-2055
+  ssn: 461518745
+  dob: 02/04/2002
+  address: 4789 South Rd
+  city: Houston
+  state: TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Johnson",
+    "email": "angela.johnson2757@work.org",
+    "phone": "717 777 3245",
+    "ssn": "253536077",
+    "dob": "07-10-1995",
+    "address": "6103 Spring Blvd",
+    "city": "Washington",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Jimenez
+  email: kimberly.jimenez381@example.com
+  phone: 844 735 7827
+  ssn: 202 99 7470
+  dob: 19/05/1991
+  address: 5308 West St
+  city: Boston
+  state: DC

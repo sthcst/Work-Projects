@@ -1,0 +1,9 @@
+contact:
+  name: Christine Morris
+  email: christine.morris3597@company.com
+  phone: 871-447-8378
+  ssn: 614-68-9321
+  dob: 11/28/1994
+  address: 9388 North Way
+  city: Houston
+  state: GA

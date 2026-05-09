@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Clark,deborah.clark8104@example.com,827 861 2971,359-80-7573,28/02/1956,"9328 Elm Way",San Antonio,TX

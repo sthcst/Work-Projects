@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Hall,timothy.hall9979@company.com,405-994-2806,001-19-5882,03-08-1979,"6207 North Blvd",San Jose,NC

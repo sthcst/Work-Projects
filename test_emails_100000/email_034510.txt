@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Smith,jacob.smith881@company.com,+1 402-453-5531,031-92-4544,12-07-1954,"892 Elm Way",Philadelphia,TX

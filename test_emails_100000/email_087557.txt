@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha White",
+    "email": "samantha.white1631@company.com",
+    "phone": "938 496 9938",
+    "ssn": "345-69-4549",
+    "dob": "5/24/2002",
+    "address": "1350 Fourth Ln",
+    "city": "Philadelphia",
+    "state": "MO"
+  }
+}

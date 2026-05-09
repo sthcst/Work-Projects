@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Wilson",
+    "email": "rebecca.wilson5790@mail.com",
+    "phone": "505-786-1493",
+    "ssn": "335 68 7585",
+    "dob": "09-08-1962",
+    "address": "7698 First Court",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

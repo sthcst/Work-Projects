@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Martin,anna.martin5224@gmail.com,313-440-7432,090 59 3601,17/09/1966,"5190 South Blvd",Denver,CA

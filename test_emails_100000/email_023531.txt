@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Lewis
+  email: sarah.lewis1116@mail.com
+  phone: 927 261 6813
+  ssn: 972-10-7684
+  dob: 07/05/1970
+  address: 5713 Park Rd
+  city: Boston
+  state: CA

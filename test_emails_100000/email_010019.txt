@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Flores,angela.flores1205@company.com,498 818 1819,361-30-7338,14/05/1965,"7805 Third Rd",Philadelphia,DC

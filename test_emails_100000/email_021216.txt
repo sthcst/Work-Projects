@@ -1,0 +1,14 @@
+INVOICE 415681
+
+Bill To:
+Name: Samantha Smith
+Email: samantha.smith2687@business.net
+Phone: 912 614 6000
+SSN: 779809246
+
+Address: 8861 First Way
+San Jose, NJ
+
+Date of Birth: 2/20/1961
+
+Amount Due: $6479

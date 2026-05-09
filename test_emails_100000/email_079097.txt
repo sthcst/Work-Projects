@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Serrano
+  email: pamela.serrano5446@example.com
+  phone: +1 252-489-5774
+  ssn: 106 99 8050
+  dob: 7/27/1951
+  address: 5352 First Ave
+  city: Phoenix
+  state: DC

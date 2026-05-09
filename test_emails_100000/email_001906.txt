@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Martin",
+    "email": "brian.martin7185@yahoo.com",
+    "phone": "428 900 7809",
+    "ssn": "588 99 5445",
+    "dob": "05-20-1963",
+    "address": "7873 East Ln",
+    "city": "Denver",
+    "state": "IL"
+  }
+}

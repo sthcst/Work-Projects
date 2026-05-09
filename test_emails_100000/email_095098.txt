@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Alvarado
+  email: daniel.alvarado1708@example.com
+  phone: 270 590 2583
+  ssn: 254338069
+  dob: 06-08-1987
+  address: 4285 South Way
+  city: Washington
+  state: PA

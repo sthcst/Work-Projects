@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Dominguez,michael.dominguez3393@gmail.com,+1 933-943-5429,049833861,8/19/1999,"8205 West Court",Seattle,TX

@@ -1,0 +1,14 @@
+INVOICE 442365
+
+Bill To:
+Name: William Phillips
+Email: william.phillips2027@example.com
+Phone: 243-641-7920
+SSN: 764889148
+
+Address: 5167 Cedar Blvd
+Seattle, CO
+
+Date of Birth: 04/05/1952
+
+Amount Due: $5524

@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Parker
+  email: shirley.parker9690@example.com
+  phone: 981 754 2485
+  ssn: 369-71-3125
+  dob: 03/09/1975
+  address: 7556 Main Way
+  city: San Antonio
+  state: MD

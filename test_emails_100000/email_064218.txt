@@ -1,0 +1,9 @@
+contact:
+  name: Angela Johnson
+  email: angela.johnson3431@gmail.com
+  phone: 655 398 1029
+  ssn: 540 39 6157
+  dob: 10-23-1950
+  address: 4230 Oak St
+  city: Seattle
+  state: TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Lee",
+    "email": "jessica.lee8386@business.net",
+    "phone": "(402) 729-8667",
+    "ssn": "328 56 4347",
+    "dob": "7/5/1987",
+    "address": "402 Cedar Dr",
+    "city": "Denver",
+    "state": "MI"
+  }
+}

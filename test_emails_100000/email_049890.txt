@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Thompson",
+    "email": "deborah.thompson7242@yahoo.com",
+    "phone": "226-407-3104",
+    "ssn": "510-82-1558",
+    "dob": "07/23/1997",
+    "address": "1872 Main Ln",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Clark",
+    "email": "george.clark7107@example.com",
+    "phone": "381-362-3578",
+    "ssn": "670256694",
+    "dob": "21/01/1980",
+    "address": "623 Elm Way",
+    "city": "Phoenix",
+    "state": "AZ"
+  }
+}

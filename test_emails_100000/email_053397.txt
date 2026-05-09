@@ -1,0 +1,14 @@
+INVOICE 344392
+
+Bill To:
+Name: Matthew Ortiz
+Email: matthew.ortiz8119@example.com
+Phone: 575 903 1152
+SSN: 776 99 5866
+
+Address: 5611 Oak Ln
+San Antonio, OH
+
+Date of Birth: 04/10/1983
+
+Amount Due: $1390

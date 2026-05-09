@@ -1,0 +1,14 @@
+INVOICE 316111
+
+Bill To:
+Name: Pamela Lee
+Email: pamela.lee9806@work.org
+Phone: (565) 992-6960
+SSN: 366 09 1833
+
+Address: 7967 North Dr
+New York, AZ
+
+Date of Birth: 07/21/1958
+
+Amount Due: $9625

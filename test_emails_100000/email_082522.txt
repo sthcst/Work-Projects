@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Anderson,cynthia.anderson4368@business.net,+1 668-627-8093,389 17 1642,10/25/1950,"9386 Pine St",Phoenix,WA

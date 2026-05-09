@@ -1,0 +1,14 @@
+INVOICE 473650
+
+Bill To:
+Name: Brian Ortiz
+Email: brian.ortiz2287@yahoo.com
+Phone: 810-732-9298
+SSN: 573456033
+
+Address: 2892 Park Court
+Boston, VA
+
+Date of Birth: 10/8/1997
+
+Amount Due: $6806

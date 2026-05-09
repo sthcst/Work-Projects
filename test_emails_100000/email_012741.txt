@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Phillips",
+    "email": "william.phillips8784@yahoo.com",
+    "phone": "308 858 5064",
+    "ssn": "604 08 6016",
+    "dob": "02/07/1950",
+    "address": "3956 Pine Ave",
+    "city": "Jacksonville",
+    "state": "NJ"
+  }
+}

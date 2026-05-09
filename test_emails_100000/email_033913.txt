@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Gonzalez
+  email: kathleen.gonzalez6527@work.org
+  phone: 594-391-9018
+  ssn: 940-05-4776
+  dob: 17/06/1998
+  address: 2790 First Rd
+  city: Phoenix
+  state: TX

@@ -1,0 +1,14 @@
+INVOICE 860236
+
+Bill To:
+Name: James Lee
+Email: james.lee6129@business.net
+Phone: 452 567 8057
+SSN: 893-70-8425
+
+Address: 8383 Cedar Dr
+Philadelphia, MO
+
+Date of Birth: 09/26/1967
+
+Amount Due: $1707

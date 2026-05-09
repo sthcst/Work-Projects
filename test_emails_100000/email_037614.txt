@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Jimenez,george.jimenez7321@work.org,(537) 253-6069,852275460,01-05-1978,"1108 First Dr",Austin,MA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Serrano,sarah.serrano3465@gmail.com,(563) 445-4875,703-03-8067,2/24/1997,"9317 South Ave",San Jose,GA

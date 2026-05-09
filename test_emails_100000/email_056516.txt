@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Nunez",
+    "email": "daniel.nunez3351@company.com",
+    "phone": "+1 220-644-2303",
+    "ssn": "977-46-7249",
+    "dob": "10/08/1994",
+    "address": "2754 Cedar Ave",
+    "city": "Chicago",
+    "state": "MA"
+  }
+}

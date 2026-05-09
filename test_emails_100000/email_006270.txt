@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Miller
+  email: amanda.miller5187@outlook.com
+  phone: +1 589-736-4335
+  ssn: 272 70 9271
+  dob: 10-20-1953
+  address: 2460 Maple Dr
+  city: Philadelphia
+  state: CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Jackson",
+    "email": "kevin.jackson7033@business.net",
+    "phone": "911 253 7750",
+    "ssn": "307 12 9873",
+    "dob": "11/20/1988",
+    "address": "4470 Spring Way",
+    "city": "Chicago",
+    "state": "AZ"
+  }
+}

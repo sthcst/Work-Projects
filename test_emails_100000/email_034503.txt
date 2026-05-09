@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Morris,deborah.morris70@mail.com,949-860-7554,894-23-5411,19/10/1976,"9164 Elm Rd",San Diego,CA

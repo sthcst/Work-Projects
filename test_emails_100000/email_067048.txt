@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Rogers,paul.rogers3953@company.com,237 804 4797,641425056,11-24-1985,"439 First Ln",San Diego,AZ

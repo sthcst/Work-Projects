@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Williams",
+    "email": "ronald.williams6728@mail.com",
+    "phone": "464 944 5496",
+    "ssn": "717 98 1601",
+    "dob": "14/03/1966",
+    "address": "2948 Birch Way",
+    "city": "Denver",
+    "state": "MA"
+  }
+}

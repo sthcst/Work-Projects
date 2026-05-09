@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Robinson",
+    "email": "gary.robinson3708@company.com",
+    "phone": "+1 686-885-6994",
+    "ssn": "897-15-9013",
+    "dob": "12/02/1988",
+    "address": "4572 Oak Way",
+    "city": "Jacksonville",
+    "state": "MI"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Reyes,anthony.reyes7599@outlook.com,289 735 4752,531 75 8526,08/01/1985,"2711 Sixth Blvd",Seattle,CO

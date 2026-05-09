@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Young",
+    "email": "katherine.young7632@outlook.com",
+    "phone": "(614) 398-6590",
+    "ssn": "586 41 1005",
+    "dob": "02-19-1956",
+    "address": "6819 Elm Court",
+    "city": "Boston",
+    "state": "FL"
+  }
+}

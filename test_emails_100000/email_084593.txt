@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Bell",
+    "email": "charles.bell9587@gmail.com",
+    "phone": "+1 626-674-5011",
+    "ssn": "879 15 7232",
+    "dob": "10-17-1955",
+    "address": "6256 Cedar St",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

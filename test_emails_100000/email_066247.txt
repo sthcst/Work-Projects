@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Gonzalez",
+    "email": "brian.gonzalez3354@example.com",
+    "phone": "425 378 6124",
+    "ssn": "787-73-4076",
+    "dob": "10/06/1989",
+    "address": "9594 Oak Blvd",
+    "city": "Boston",
+    "state": "GA"
+  }
+}

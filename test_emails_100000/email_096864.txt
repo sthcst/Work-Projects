@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Perez",
+    "email": "emily.perez6623@example.com",
+    "phone": "619-875-8844",
+    "ssn": "078-31-1259",
+    "dob": "08-14-1999",
+    "address": "5463 Maple Way",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

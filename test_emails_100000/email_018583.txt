@@ -1,0 +1,9 @@
+contact:
+  name: Megan Peterson
+  email: megan.peterson8370@gmail.com
+  phone: 684-264-3583
+  ssn: 649 18 4719
+  dob: 01-21-2003
+  address: 3592 Fifth Ln
+  city: Houston
+  state: TN

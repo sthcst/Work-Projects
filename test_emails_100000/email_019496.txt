@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Reed
+  email: joshua.reed6233@company.com
+  phone: 461-923-5673
+  ssn: 056856451
+  dob: 01-05-1987
+  address: 2432 Birch Rd
+  city: Seattle
+  state: TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Murillo",
+    "email": "robert.murillo5@gmail.com",
+    "phone": "(883) 320-2307",
+    "ssn": "279-56-3554",
+    "dob": "6/24/1979",
+    "address": "5117 Fifth Dr",
+    "city": "Seattle",
+    "state": "FL"
+  }
+}

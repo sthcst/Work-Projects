@@ -1,0 +1,14 @@
+INVOICE 359312
+
+Bill To:
+Name: Helen Brown
+Email: helen.brown7974@outlook.com
+Phone: 881-844-7229
+SSN: 795 77 3707
+
+Address: 3672 North Ave
+San Jose, MA
+
+Date of Birth: 12/13/1990
+
+Amount Due: $7749

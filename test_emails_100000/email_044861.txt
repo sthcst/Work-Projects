@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Jimenez",
+    "email": "christopher.jimenez7761@business.net",
+    "phone": "(523) 336-4460",
+    "ssn": "480-26-7784",
+    "dob": "18/11/1994",
+    "address": "8572 Cedar Ave",
+    "city": "Phoenix",
+    "state": "OH"
+  }
+}

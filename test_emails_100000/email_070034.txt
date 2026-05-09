@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Brown",
+    "email": "stephanie.brown4369@yahoo.com",
+    "phone": "378 570 1174",
+    "ssn": "564081994",
+    "dob": "12-23-1958",
+    "address": "6777 East St",
+    "city": "Boston",
+    "state": "WA"
+  }
+}

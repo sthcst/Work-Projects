@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Jones",
+    "email": "ryan.jones1061@mail.com",
+    "phone": "+1 868-461-5744",
+    "ssn": "317056514",
+    "dob": "2/27/1986",
+    "address": "8704 South St",
+    "city": "San Jose",
+    "state": "MA"
+  }
+}

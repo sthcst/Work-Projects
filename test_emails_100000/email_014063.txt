@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Reed",
+    "email": "katherine.reed5496@company.com",
+    "phone": "999 781 9419",
+    "ssn": "616862604",
+    "dob": "12/07/1988",
+    "address": "8379 Sixth Court",
+    "city": "Los Angeles",
+    "state": "MI"
+  }
+}

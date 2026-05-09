@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Dominguez",
+    "email": "ronald.dominguez7894@gmail.com",
+    "phone": "928 818 8108",
+    "ssn": "164-27-7485",
+    "dob": "07/09/1994",
+    "address": "5466 Park Ave",
+    "city": "Denver",
+    "state": "FL"
+  }
+}

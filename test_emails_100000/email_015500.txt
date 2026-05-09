@@ -1,0 +1,9 @@
+contact:
+  name: Jane Wilson
+  email: jane.wilson4064@work.org
+  phone: (234) 375-1593
+  ssn: 739488317
+  dob: 16/11/1962
+  address: 212 Fifth Way
+  city: San Antonio
+  state: MA

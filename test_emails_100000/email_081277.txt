@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Thompson",
+    "email": "gary.thompson5912@business.net",
+    "phone": "+1 604-439-1860",
+    "ssn": "298-14-1281",
+    "dob": "09-22-1972",
+    "address": "5065 Fifth Ln",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

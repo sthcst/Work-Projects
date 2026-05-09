@@ -1,0 +1,14 @@
+INVOICE 712140
+
+Bill To:
+Name: Kevin Reed
+Email: kevin.reed3703@example.com
+Phone: (439) 346-1484
+SSN: 451-33-7915
+
+Address: 3713 Fourth Ln
+Denver, MA
+
+Date of Birth: 2/9/1957
+
+Amount Due: $7966

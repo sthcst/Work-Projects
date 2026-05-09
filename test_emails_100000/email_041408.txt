@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Thomas
+  email: nicholas.thomas5416@outlook.com
+  phone: +1 405-784-4542
+  ssn: 381 39 3646
+  dob: 1/26/1987
+  address: 2084 Park Way
+  city: Houston
+  state: TX

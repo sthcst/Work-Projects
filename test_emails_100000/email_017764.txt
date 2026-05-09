@@ -1,0 +1,9 @@
+contact:
+  name: Angela Collins
+  email: angela.collins3889@business.net
+  phone: (572) 890-5307
+  ssn: 150 66 4136
+  dob: 11/10/1979
+  address: 136 Maple Rd
+  city: Los Angeles
+  state: FL

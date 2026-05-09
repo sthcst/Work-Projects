@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Hernandez
+  email: lauren.hernandez2234@work.org
+  phone: 301 230 7083
+  ssn: 410249357
+  dob: 11-01-1957
+  address: 5464 Cedar Dr
+  city: Los Angeles
+  state: CA

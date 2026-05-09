@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Morgan",
+    "email": "angela.morgan7967@business.net",
+    "phone": "+1 445-370-1505",
+    "ssn": "326-15-2590",
+    "dob": "09-24-2000",
+    "address": "1566 Pine Ln",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

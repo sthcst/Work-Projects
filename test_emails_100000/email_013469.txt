@@ -1,0 +1,14 @@
+INVOICE 748719
+
+Bill To:
+Name: Jane Reed
+Email: jane.reed8338@company.com
+Phone: +1 974-669-2402
+SSN: 226-10-3751
+
+Address: 3485 Cedar Rd
+New York, CO
+
+Date of Birth: 10/07/1999
+
+Amount Due: $3083

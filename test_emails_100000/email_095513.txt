@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Thomas
+  email: ashley.thomas6192@yahoo.com
+  phone: 253 984 9448
+  ssn: 937-59-3871
+  dob: 09/01/2002
+  address: 5921 Main Dr
+  city: Phoenix
+  state: MA

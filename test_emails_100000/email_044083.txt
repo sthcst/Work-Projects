@@ -1,0 +1,9 @@
+contact:
+  name: Paul Jackson
+  email: paul.jackson1042@business.net
+  phone: 928 415 9981
+  ssn: 160-54-6672
+  dob: 9/3/1991
+  address: 8299 East Rd
+  city: Boston
+  state: OH

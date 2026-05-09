@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Brown
+  email: sarah.brown3222@mail.com
+  phone: 218-522-2599
+  ssn: 685 03 4131
+  dob: 16/01/1986
+  address: 9719 East St
+  city: San Jose
+  state: AZ

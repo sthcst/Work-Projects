@@ -1,0 +1,14 @@
+INVOICE 218499
+
+Bill To:
+Name: Edward Thomas
+Email: edward.thomas7095@company.com
+Phone: 570 640 5916
+SSN: 829 35 4322
+
+Address: 654 Cedar Rd
+Chicago, CA
+
+Date of Birth: 07/28/1967
+
+Amount Due: $7494

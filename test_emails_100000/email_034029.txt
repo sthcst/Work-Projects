@@ -1,0 +1,14 @@
+INVOICE 224448
+
+Bill To:
+Name: Pamela Robinson
+Email: pamela.robinson8182@outlook.com
+Phone: 976 687 2776
+SSN: 167723371
+
+Address: 7622 Third Court
+Denver, CO
+
+Date of Birth: 21/05/1961
+
+Amount Due: $3681

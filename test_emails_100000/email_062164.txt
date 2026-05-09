@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Robinson",
+    "email": "james.robinson857@work.org",
+    "phone": "(923) 652-1519",
+    "ssn": "451 47 9392",
+    "dob": "04-26-1971",
+    "address": "3625 Second Dr",
+    "city": "Boston",
+    "state": "WA"
+  }
+}

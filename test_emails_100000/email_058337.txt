@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Williams",
+    "email": "kimberly.williams3989@outlook.com",
+    "phone": "(515) 433-9985",
+    "ssn": "978-64-9785",
+    "dob": "04/28/1965",
+    "address": "7647 South Rd",
+    "city": "Jacksonville",
+    "state": "VA"
+  }
+}

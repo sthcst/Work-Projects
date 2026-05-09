@@ -1,0 +1,14 @@
+INVOICE 340240
+
+Bill To:
+Name: Ashley Thomas
+Email: ashley.thomas3857@business.net
+Phone: 815 964 9626
+SSN: 905-52-2263
+
+Address: 5791 Fifth Ln
+Phoenix, OH
+
+Date of Birth: 12/28/1957
+
+Amount Due: $7072

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Gomez",
+    "email": "katherine.gomez3379@yahoo.com",
+    "phone": "(988) 887-3097",
+    "ssn": "555-92-7685",
+    "dob": "05/21/2001",
+    "address": "2523 Second Ave",
+    "city": "Dallas",
+    "state": "AZ"
+  }
+}

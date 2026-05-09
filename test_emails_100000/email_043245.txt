@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Smith",
+    "email": "christopher.smith6870@gmail.com",
+    "phone": "+1 507-254-6032",
+    "ssn": "883 43 6595",
+    "dob": "10/03/1982",
+    "address": "2461 Maple Dr",
+    "city": "Chicago",
+    "state": "MD"
+  }
+}

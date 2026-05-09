@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Morris
+  email: timothy.morris2045@gmail.com
+  phone: +1 978-468-5858
+  ssn: 922-45-3270
+  dob: 19/11/1952
+  address: 6802 East Blvd
+  city: Phoenix
+  state: MA

@@ -1,0 +1,14 @@
+INVOICE 824467
+
+Bill To:
+Name: David Collins
+Email: david.collins2724@example.com
+Phone: (242) 636-5317
+SSN: 692977583
+
+Address: 4668 First Rd
+Philadelphia, MI
+
+Date of Birth: 7/28/1982
+
+Amount Due: $4044

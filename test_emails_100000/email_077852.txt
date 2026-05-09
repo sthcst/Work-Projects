@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Jackson,paul.jackson8288@outlook.com,503-300-9273,525-30-8495,7/8/1961,"1748 First Ave",Los Angeles,TX

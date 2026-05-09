@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Perez",
+    "email": "kevin.perez1232@outlook.com",
+    "phone": "(751) 264-1109",
+    "ssn": "085 74 3358",
+    "dob": "18/01/1961",
+    "address": "2727 Sixth Court",
+    "city": "Philadelphia",
+    "state": "WI"
+  }
+}

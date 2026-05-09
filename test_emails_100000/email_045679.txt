@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Garcia",
+    "email": "timothy.garcia6424@mail.com",
+    "phone": "868 883 8204",
+    "ssn": "376-86-7586",
+    "dob": "13/03/1977",
+    "address": "1801 East Ln",
+    "city": "Los Angeles",
+    "state": "WI"
+  }
+}

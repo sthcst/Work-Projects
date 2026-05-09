@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Edwards
+  email: jacob.edwards652@yahoo.com
+  phone: 471-568-7219
+  ssn: 417345537
+  dob: 09/02/1969
+  address: 8483 Fourth Dr
+  city: Los Angeles
+  state: OH

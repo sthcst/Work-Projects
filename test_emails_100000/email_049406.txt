@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Thompson",
+    "email": "richard.thompson2452@example.com",
+    "phone": "418-310-9588",
+    "ssn": "892226506",
+    "dob": "9/28/1969",
+    "address": "9223 Elm Court",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Lopez",
+    "email": "edward.lopez9033@mail.com",
+    "phone": "(652) 236-2991",
+    "ssn": "305 89 5645",
+    "dob": "11/6/1986",
+    "address": "1965 East Ave",
+    "city": "New York",
+    "state": "WA"
+  }
+}

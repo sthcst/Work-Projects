@@ -1,0 +1,14 @@
+INVOICE 860642
+
+Bill To:
+Name: Robert Perez
+Email: robert.perez9664@company.com
+Phone: 487 577 4178
+SSN: 850609229
+
+Address: 7564 Spring Ln
+Boston, TN
+
+Date of Birth: 05/07/1954
+
+Amount Due: $6470

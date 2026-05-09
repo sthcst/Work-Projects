@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Lopez,andrew.lopez3694@mail.com,672-910-1850,646 31 5519,5/2/1972,"7063 Spring Court",Washington,AZ

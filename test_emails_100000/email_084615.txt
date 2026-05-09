@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Serrano
+  email: andrew.serrano2300@company.com
+  phone: 822 860 1569
+  ssn: 030-79-1774
+  dob: 2/11/2001
+  address: 1493 Oak Way
+  city: New York
+  state: DC

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Anderson,kenneth.anderson8867@yahoo.com,+1 964-709-2174,619491528,20/09/2001,"9651 Spring Ln",San Antonio,CA

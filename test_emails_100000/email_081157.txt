@@ -1,0 +1,14 @@
+INVOICE 705742
+
+Bill To:
+Name: Brian Reed
+Email: brian.reed1068@example.com
+Phone: 577-369-7494
+SSN: 268 40 7845
+
+Address: 7379 Summer Ln
+Washington, FL
+
+Date of Birth: 01-05-1989
+
+Amount Due: $1870

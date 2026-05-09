@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Murillo",
+    "email": "anna.murillo9725@outlook.com",
+    "phone": "814 382 6473",
+    "ssn": "801-02-5112",
+    "dob": "02/17/1968",
+    "address": "7338 Sixth Way",
+    "city": "San Jose",
+    "state": "DC"
+  }
+}

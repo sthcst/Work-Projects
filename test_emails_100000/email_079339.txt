@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Morris,nicole.morris6550@business.net,+1 641-932-1966,023 39 3233,27/11/2003,"2671 Summer Blvd",San Jose,WA

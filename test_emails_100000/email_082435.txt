@@ -1,0 +1,14 @@
+INVOICE 353765
+
+Bill To:
+Name: James Harris
+Email: james.harris601@yahoo.com
+Phone: (754) 749-4934
+SSN: 164351350
+
+Address: 5856 Park Court
+Phoenix, WA
+
+Date of Birth: 21/12/1993
+
+Amount Due: $1892

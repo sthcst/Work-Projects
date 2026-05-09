@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Lopez",
+    "email": "john.lopez5399@outlook.com",
+    "phone": "385-697-1019",
+    "ssn": "292081104",
+    "dob": "02-18-1972",
+    "address": "638 Summer Ave",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

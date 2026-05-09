@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Jackson
+  email: ronald.jackson2916@business.net
+  phone: 753 756 2634
+  ssn: 956-35-4843
+  dob: 17/02/1953
+  address: 4775 South Blvd
+  city: Boston
+  state: MA

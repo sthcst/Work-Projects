@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Carter",
+    "email": "donald.carter7221@yahoo.com",
+    "phone": "(968) 255-9511",
+    "ssn": "065 17 3658",
+    "dob": "12/24/1978",
+    "address": "902 Fourth Blvd",
+    "city": "Austin",
+    "state": "VA"
+  }
+}

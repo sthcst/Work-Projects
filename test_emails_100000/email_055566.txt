@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Reeves,michelle.reeves2810@example.com,707-605-9501,218-83-5993,06-07-1953,"8335 Elm Way",Seattle,MO

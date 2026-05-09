@@ -1,0 +1,9 @@
+contact:
+  name: Mark Moore
+  email: mark.moore2251@example.com
+  phone: +1 247-959-3348
+  ssn: 285792262
+  dob: 13/06/1985
+  address: 7277 Pine Court
+  city: Los Angeles
+  state: IL

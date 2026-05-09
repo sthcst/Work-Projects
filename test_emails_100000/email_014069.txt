@@ -1,0 +1,9 @@
+contact:
+  name: Anthony White
+  email: anthony.white3496@yahoo.com
+  phone: 683-534-2131
+  ssn: 055 26 5957
+  dob: 07/05/1999
+  address: 6384 Elm Court
+  city: San Jose
+  state: WA

@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Lee
+  email: deborah.lee67@company.com
+  phone: +1 638-240-1747
+  ssn: 791 14 7718
+  dob: 09-07-1995
+  address: 731 Second Blvd
+  city: Dallas
+  state: OH

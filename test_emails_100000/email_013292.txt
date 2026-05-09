@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Young,amanda.young4930@mail.com,+1 918-367-1897,024-59-3874,06-09-1989,"2715 Maple Court",Los Angeles,MO

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Miller",
+    "email": "joseph.miller9533@mail.com",
+    "phone": "455 711 7637",
+    "ssn": "610439365",
+    "dob": "2/19/1970",
+    "address": "7586 South Way",
+    "city": "Jacksonville",
+    "state": "VA"
+  }
+}

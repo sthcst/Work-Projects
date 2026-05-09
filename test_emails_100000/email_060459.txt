@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Delgado",
+    "email": "ronald.delgado9772@yahoo.com",
+    "phone": "+1 878-253-1411",
+    "ssn": "206-37-8520",
+    "dob": "11/24/1987",
+    "address": "8946 Second Dr",
+    "city": "Houston",
+    "state": "WA"
+  }
+}

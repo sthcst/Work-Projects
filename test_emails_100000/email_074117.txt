@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Walker,katherine.walker7136@work.org,230-363-6099,010-82-9695,05/06/1979,"4911 Park Way",Boston,DC

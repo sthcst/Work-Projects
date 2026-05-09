@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Morgan,stephanie.morgan1651@work.org,667 885 5630,946 06 8976,02/20/1989,"6628 Pine Way",San Jose,CA

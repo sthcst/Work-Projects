@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Flores,nicholas.flores4953@outlook.com,(516) 872-5422,521444281,04/06/1985,"3318 Third Way",Philadelphia,WA

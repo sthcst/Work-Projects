@@ -1,0 +1,9 @@
+contact:
+  name: Robert Gomez
+  email: robert.gomez6660@business.net
+  phone: +1 280-433-2322
+  ssn: 300812268
+  dob: 04/17/2003
+  address: 6326 East Dr
+  city: Denver
+  state: CA

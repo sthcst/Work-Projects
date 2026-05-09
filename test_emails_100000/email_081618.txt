@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Wilson",
+    "email": "charles.wilson6432@gmail.com",
+    "phone": "(561) 483-5287",
+    "ssn": "119-17-6686",
+    "dob": "12/13/1971",
+    "address": "2381 Fifth Ave",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Sanchez
+  email: cynthia.sanchez1028@business.net
+  phone: 914 715 6918
+  ssn: 325959083
+  dob: 08-12-1969
+  address: 9220 Pine Way
+  city: Los Angeles
+  state: NJ

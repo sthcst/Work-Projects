@@ -1,0 +1,12 @@
+SUPPORT TICKET #49350
+
+Customer: Pamela Smith
+Email: pamela.smith8064@example.com
+Phone: +1 868-248-9881
+Account: 061 11 7644
+
+Issue Description: Technical problem reported
+DOB on file: 03/12/1963
+Address: 60 Main Dr, Phoenix, TX
+
+Status: OPEN

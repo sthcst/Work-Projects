@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Lee",
+    "email": "ronald.lee7694@business.net",
+    "phone": "(586) 202-2773",
+    "ssn": "613434789",
+    "dob": "11/07/1987",
+    "address": "7845 Fifth Way",
+    "city": "Phoenix",
+    "state": "MD"
+  }
+}

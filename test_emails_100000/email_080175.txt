@@ -1,0 +1,9 @@
+contact:
+  name: Jane Wilson
+  email: jane.wilson9172@business.net
+  phone: 692-230-8709
+  ssn: 899837474
+  dob: 11/20/1984
+  address: 5820 Third Way
+  city: Phoenix
+  state: TX

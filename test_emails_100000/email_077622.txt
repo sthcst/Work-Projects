@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Gomez",
+    "email": "donald.gomez5608@example.com",
+    "phone": "337-918-9877",
+    "ssn": "052-27-1628",
+    "dob": "05/11/1981",
+    "address": "5297 Oak Ave",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}

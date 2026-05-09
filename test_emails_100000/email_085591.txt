@@ -1,0 +1,9 @@
+contact:
+  name: Gary Rogers
+  email: gary.rogers8458@company.com
+  phone: 623 673 2357
+  ssn: 720 58 6375
+  dob: 02/01/1980
+  address: 8835 Sixth Dr
+  city: San Antonio
+  state: TX

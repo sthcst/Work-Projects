@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Taylor",
+    "email": "james.taylor8407@company.com",
+    "phone": "+1 617-471-5259",
+    "ssn": "330189868",
+    "dob": "12/12/1974",
+    "address": "4647 Summer Way",
+    "city": "Phoenix",
+    "state": "WA"
+  }
+}

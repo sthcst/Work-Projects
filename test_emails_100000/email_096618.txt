@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Evans,anthony.evans1114@company.com,824-892-6666,991-93-5071,01-09-1952,"2915 Second Ave",Denver,TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Reyes,emma.reyes7191@gmail.com,+1 839-650-6021,626708937,07-15-1982,"4902 Elm Ave",Phoenix,TX

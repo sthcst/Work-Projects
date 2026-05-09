@@ -1,0 +1,9 @@
+contact:
+  name: Brenda White
+  email: brenda.white845@outlook.com
+  phone: 310 419 8733
+  ssn: 516717041
+  dob: 02-03-1951
+  address: 8172 Fifth Blvd
+  city: San Diego
+  state: MO

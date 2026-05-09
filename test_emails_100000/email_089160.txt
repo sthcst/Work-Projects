@@ -1,0 +1,9 @@
+contact:
+  name: Michael Ortiz
+  email: michael.ortiz6824@business.net
+  phone: 723 741 3482
+  ssn: 232435047
+  dob: 6/9/1973
+  address: 8087 Birch Court
+  city: Chicago
+  state: CA

@@ -1,0 +1,14 @@
+INVOICE 919428
+
+Bill To:
+Name: Kathleen Brown
+Email: kathleen.brown4010@company.com
+Phone: 549-974-6182
+SSN: 086-21-9167
+
+Address: 87 Park St
+Philadelphia, WA
+
+Date of Birth: 05/20/1958
+
+Amount Due: $401

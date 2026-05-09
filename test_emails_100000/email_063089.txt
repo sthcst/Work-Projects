@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Morgan",
+    "email": "cynthia.morgan5718@example.com",
+    "phone": "+1 291-820-9178",
+    "ssn": "408-08-4113",
+    "dob": "9/4/1950",
+    "address": "4915 First Ln",
+    "city": "San Antonio",
+    "state": "WI"
+  }
+}

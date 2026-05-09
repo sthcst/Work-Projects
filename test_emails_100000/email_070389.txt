@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Reeves",
+    "email": "daniel.reeves9467@business.net",
+    "phone": "+1 603-638-6682",
+    "ssn": "505433027",
+    "dob": "12/20/1991",
+    "address": "8896 West Blvd",
+    "city": "Denver",
+    "state": "MD"
+  }
+}

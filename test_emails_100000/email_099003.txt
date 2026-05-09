@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Gonzalez",
+    "email": "kimberly.gonzalez214@mail.com",
+    "phone": "667 391 9518",
+    "ssn": "436317518",
+    "dob": "07-24-1992",
+    "address": "7766 North Dr",
+    "city": "Washington",
+    "state": "MO"
+  }
+}

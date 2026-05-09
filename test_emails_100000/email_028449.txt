@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Clark",
+    "email": "michelle.clark4195@business.net",
+    "phone": "485-528-3836",
+    "ssn": "431347624",
+    "dob": "05/19/1988",
+    "address": "6116 Main Ave",
+    "city": "New York",
+    "state": "CO"
+  }
+}

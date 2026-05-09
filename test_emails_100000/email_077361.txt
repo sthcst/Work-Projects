@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Hall
+  email: joseph.hall9188@mail.com
+  phone: (291) 532-1135
+  ssn: 381-64-4122
+  dob: 4/21/1953
+  address: 631 Third Ln
+  city: Philadelphia
+  state: AZ

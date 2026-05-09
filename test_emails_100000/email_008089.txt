@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Smith,mark.smith8149@mail.com,(452) 547-6102,909472532,2/16/1963,"5711 Fourth Rd",Philadelphia,MA

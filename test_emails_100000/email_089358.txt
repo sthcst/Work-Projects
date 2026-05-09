@@ -1,0 +1,9 @@
+contact:
+  name: Christine Perez
+  email: christine.perez6486@business.net
+  phone: 382-719-1191
+  ssn: 954196817
+  dob: 8/23/1972
+  address: 642 South Dr
+  city: Phoenix
+  state: WA

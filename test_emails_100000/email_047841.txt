@@ -1,0 +1,14 @@
+INVOICE 364318
+
+Bill To:
+Name: Donald White
+Email: donald.white3771@work.org
+Phone: (706) 331-8804
+SSN: 362292803
+
+Address: 4431 Sixth Ave
+Denver, OH
+
+Date of Birth: 28/08/1993
+
+Amount Due: $7414

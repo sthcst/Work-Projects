@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Harris,angela.harris9152@company.com,565-436-4071,521 66 6484,5/22/1999,"683 Sixth Blvd",Dallas,IL

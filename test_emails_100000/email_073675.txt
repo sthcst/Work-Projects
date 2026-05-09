@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Murillo,william.murillo6392@company.com,289-833-6461,541-35-2864,6/1/1999,"5143 Oak Ln",Jacksonville,GA

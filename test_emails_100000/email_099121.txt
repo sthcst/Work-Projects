@@ -1,0 +1,9 @@
+contact:
+  name: John Moore
+  email: john.moore6027@gmail.com
+  phone: 372 654 4287
+  ssn: 366123281
+  dob: 4/28/1953
+  address: 9816 Elm Dr
+  city: San Jose
+  state: DC

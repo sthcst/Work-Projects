@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah White,deborah.white9480@mail.com,380-960-4001,713 99 6386,28/09/1962,"9400 Second Dr",San Antonio,MA

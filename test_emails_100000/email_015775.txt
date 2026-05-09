@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Moore",
+    "email": "maria.moore9956@gmail.com",
+    "phone": "+1 727-667-7285",
+    "ssn": "969 71 5747",
+    "dob": "02-20-1983",
+    "address": "5370 Elm Court",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

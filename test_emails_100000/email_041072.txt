@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Lopez
+  email: deborah.lopez5817@work.org
+  phone: (416) 779-5704
+  ssn: 537-50-3520
+  dob: 02/26/1954
+  address: 7458 Elm St
+  city: New York
+  state: WI

@@ -1,0 +1,9 @@
+contact:
+  name: Angela Romero
+  email: angela.romero6099@outlook.com
+  phone: +1 344-747-4590
+  ssn: 582891206
+  dob: 11-18-1990
+  address: 582 Second Ln
+  city: Boston
+  state: WA

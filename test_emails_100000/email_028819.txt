@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Guerrero,john.guerrero6451@work.org,+1 264-526-3169,404112188,04-01-1992,"5631 West Dr",San Diego,MO

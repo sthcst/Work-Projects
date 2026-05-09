@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Collins,emily.collins4680@company.com,784-415-9015,039-06-8709,14/01/1983,"7664 First St",Denver,CO

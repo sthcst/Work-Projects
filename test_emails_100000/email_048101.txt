@@ -1,0 +1,12 @@
+SUPPORT TICKET #39415
+
+Customer: Jeffrey Reyes
+Email: jeffrey.reyes6111@example.com
+Phone: (783) 550-4320
+Account: 991332732
+
+Issue Description: Technical problem reported
+DOB on file: 07-11-2002
+Address: 1665 Maple Blvd, San Antonio, AZ
+
+Status: OPEN

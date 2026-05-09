@@ -1,0 +1,12 @@
+SUPPORT TICKET #91894
+
+Customer: David Jackson
+Email: david.jackson1753@example.com
+Phone: 987-849-7425
+Account: 474614044
+
+Issue Description: Technical problem reported
+DOB on file: 11-20-1984
+Address: 2435 Summer Way, Jacksonville, NY
+
+Status: OPEN

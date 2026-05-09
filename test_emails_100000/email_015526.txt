@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Young
+  email: kimberly.young3576@mail.com
+  phone: +1 280-813-2608
+  ssn: 771539653
+  dob: 12/11/1968
+  address: 3092 First Ave
+  city: Phoenix
+  state: MI

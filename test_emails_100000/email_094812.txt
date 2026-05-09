@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Peterson,gary.peterson3691@mail.com,+1 282-915-1079,510029336,09-05-1957,"9648 Spring Blvd",New York,MA

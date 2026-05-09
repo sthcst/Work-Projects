@@ -1,0 +1,9 @@
+contact:
+  name: Emily Reed
+  email: emily.reed7966@mail.com
+  phone: 999 991 4444
+  ssn: 742609046
+  dob: 06/24/1976
+  address: 3398 Fourth St
+  city: San Antonio
+  state: DC

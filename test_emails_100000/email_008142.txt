@@ -1,0 +1,14 @@
+INVOICE 301561
+
+Bill To:
+Name: Gary Rodriguez
+Email: gary.rodriguez2198@example.com
+Phone: +1 675-318-7082
+SSN: 115-29-4449
+
+Address: 7757 Spring Court
+San Antonio, MO
+
+Date of Birth: 06/16/1991
+
+Amount Due: $5233

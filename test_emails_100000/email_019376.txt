@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Martin,christine.martin6145@mail.com,811 551 3421,530634632,1/28/1989,"6467 Third Rd",Phoenix,TX

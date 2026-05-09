@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Clark",
+    "email": "angela.clark6121@yahoo.com",
+    "phone": "(248) 499-6562",
+    "ssn": "389076998",
+    "dob": "06/24/2001",
+    "address": "3961 First St",
+    "city": "Dallas",
+    "state": "MO"
+  }
+}

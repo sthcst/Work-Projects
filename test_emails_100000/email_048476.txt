@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Thompson",
+    "email": "michael.thompson7786@gmail.com",
+    "phone": "916 765 1805",
+    "ssn": "158064921",
+    "dob": "27/04/1966",
+    "address": "3529 Fourth Blvd",
+    "city": "Dallas",
+    "state": "TN"
+  }
+}

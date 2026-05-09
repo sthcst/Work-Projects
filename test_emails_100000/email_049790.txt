@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Jackson,ronald.jackson7002@example.com,305-875-3852,478-14-6804,05/08/1965,"5396 Spring Way",Austin,MI

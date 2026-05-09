@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Edwards,james.edwards4867@gmail.com,(723) 484-1894,304-90-2924,05-02-1993,"7728 Fifth Ln",Chicago,MI

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Serrano,daniel.serrano5256@outlook.com,(442) 760-7908,172 84 5325,11/2/2002,"7515 Fourth Rd",Chicago,NJ

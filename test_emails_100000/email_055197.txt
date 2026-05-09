@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Nunez",
+    "email": "nicole.nunez6205@outlook.com",
+    "phone": "231-586-8948",
+    "ssn": "100453854",
+    "dob": "12/17/1963",
+    "address": "4859 Second Rd",
+    "city": "Phoenix",
+    "state": "WA"
+  }
+}

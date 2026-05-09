@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Ortiz,ashley.ortiz3123@mail.com,991 278 4840,608 44 2527,08/20/1993,"5410 Birch Way",San Diego,AZ

@@ -1,0 +1,14 @@
+INVOICE 897216
+
+Bill To:
+Name: Stephanie Parker
+Email: stephanie.parker8615@example.com
+Phone: 991-709-2716
+SSN: 518627155
+
+Address: 1147 Oak Court
+Jacksonville, MO
+
+Date of Birth: 08-01-1951
+
+Amount Due: $3768

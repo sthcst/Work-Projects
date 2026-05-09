@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Jones,timothy.jones2313@example.com,+1 497-635-5162,375 86 8322,08/12/1986,"4913 Cedar Ln",Jacksonville,WI

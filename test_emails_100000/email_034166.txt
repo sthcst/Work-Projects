@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Flores",
+    "email": "david.flores9768@business.net",
+    "phone": "326-978-2999",
+    "ssn": "579189937",
+    "dob": "3/5/1990",
+    "address": "7279 Pine Dr",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

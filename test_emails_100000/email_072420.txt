@@ -1,0 +1,9 @@
+contact:
+  name: Anna Robinson
+  email: anna.robinson7813@outlook.com
+  phone: +1 494-472-9656
+  ssn: 732-57-3647
+  dob: 8/17/1963
+  address: 2494 Sixth St
+  city: Los Angeles
+  state: CO

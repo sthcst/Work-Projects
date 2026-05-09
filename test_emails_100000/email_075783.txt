@@ -1,0 +1,9 @@
+contact:
+  name: William Taylor
+  email: william.taylor8647@example.com
+  phone: 743-369-4730
+  ssn: 408-39-7520
+  dob: 12/16/2000
+  address: 9481 Park Court
+  city: Los Angeles
+  state: CA

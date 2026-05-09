@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Brown,angela.brown3686@yahoo.com,674-269-2187,037-55-4180,08-13-1962,"8081 East Blvd",Phoenix,NJ

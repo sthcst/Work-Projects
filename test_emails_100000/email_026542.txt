@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Clark,rachel.clark6022@example.com,+1 800-400-7701,381587341,11/25/1954,"4915 North St",Houston,VA

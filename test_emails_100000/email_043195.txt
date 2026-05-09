@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Taylor",
+    "email": "katherine.taylor6844@gmail.com",
+    "phone": "+1 662-461-4598",
+    "ssn": "532 85 8644",
+    "dob": "12/07/1969",
+    "address": "9204 West Way",
+    "city": "Chicago",
+    "state": "MD"
+  }
+}

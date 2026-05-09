@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Peterson,kimberly.peterson976@gmail.com,+1 397-885-6071,797 93 7448,06/06/2005,"9040 North St",Seattle,MA

@@ -1,0 +1,9 @@
+contact:
+  name: Donald Romero
+  email: donald.romero1968@mail.com
+  phone: +1 630-554-9491
+  ssn: 502 72 6215
+  dob: 12-11-1988
+  address: 3193 Birch Dr
+  city: Chicago
+  state: TX

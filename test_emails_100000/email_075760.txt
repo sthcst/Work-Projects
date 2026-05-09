@@ -1,0 +1,9 @@
+contact:
+  name: Anna Gomez
+  email: anna.gomez8635@business.net
+  phone: 343-918-1881
+  ssn: 046787089
+  dob: 06-19-1970
+  address: 5171 Third Way
+  city: Washington
+  state: WA

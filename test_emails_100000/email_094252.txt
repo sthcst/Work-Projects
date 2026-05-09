@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Cooper",
+    "email": "michelle.cooper5209@mail.com",
+    "phone": "(289) 862-8581",
+    "ssn": "202 03 7663",
+    "dob": "20/11/1963",
+    "address": "2102 East Dr",
+    "city": "New York",
+    "state": "DC"
+  }
+}

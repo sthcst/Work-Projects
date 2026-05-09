@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Thomas",
+    "email": "richard.thomas6727@outlook.com",
+    "phone": "241 242 6889",
+    "ssn": "130 78 2657",
+    "dob": "19/10/1979",
+    "address": "8340 West Rd",
+    "city": "Austin",
+    "state": "AZ"
+  }
+}

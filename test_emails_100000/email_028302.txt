@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Miller
+  email: jennifer.miller3344@business.net
+  phone: +1 233-750-4059
+  ssn: 773 97 4669
+  dob: 20/03/1998
+  address: 1783 Oak Blvd
+  city: Austin
+  state: GA

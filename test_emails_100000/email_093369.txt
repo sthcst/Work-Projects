@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Gomez",
+    "email": "megan.gomez8623@outlook.com",
+    "phone": "+1 878-227-4051",
+    "ssn": "356-25-8824",
+    "dob": "03/21/1993",
+    "address": "6273 Spring St",
+    "city": "San Diego",
+    "state": "FL"
+  }
+}

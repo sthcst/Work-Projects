@@ -1,0 +1,9 @@
+contact:
+  name: Helen Garcia
+  email: helen.garcia1815@example.com
+  phone: 411-894-9291
+  ssn: 496-90-7178
+  dob: 5/21/2005
+  address: 1333 South Court
+  city: Houston
+  state: MD

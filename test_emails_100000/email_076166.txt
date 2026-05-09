@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Smith",
+    "email": "amanda.smith7884@yahoo.com",
+    "phone": "665-831-4882",
+    "ssn": "728945654",
+    "dob": "25/11/1998",
+    "address": "9640 North Ln",
+    "city": "New York",
+    "state": "CA"
+  }
+}

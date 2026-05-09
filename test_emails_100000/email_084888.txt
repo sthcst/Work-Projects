@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Delgado
+  email: ronald.delgado9025@company.com
+  phone: +1 656-598-3981
+  ssn: 228 89 8105
+  dob: 06/06/1959
+  address: 2173 Maple Court
+  city: San Jose
+  state: TX

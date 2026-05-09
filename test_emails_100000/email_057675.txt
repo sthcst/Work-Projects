@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Stewart
+  email: timothy.stewart6466@gmail.com
+  phone: 847-973-7017
+  ssn: 551 91 2323
+  dob: 04/26/1998
+  address: 3645 Cedar Ln
+  city: Jacksonville
+  state: MA

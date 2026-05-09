@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Flores,christopher.flores5194@outlook.com,+1 308-648-6191,983106202,05-19-2002,"8938 Summer Dr",New York,MI

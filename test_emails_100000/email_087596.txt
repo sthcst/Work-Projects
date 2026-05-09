@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Ramirez",
+    "email": "sarah.ramirez3148@mail.com",
+    "phone": "+1 835-419-5945",
+    "ssn": "650834784",
+    "dob": "12/14/1950",
+    "address": "6848 Pine Ln",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

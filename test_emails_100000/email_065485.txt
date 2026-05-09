@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Dominguez
+  email: brenda.dominguez1560@mail.com
+  phone: (776) 792-9380
+  ssn: 945093609
+  dob: 1/15/1970
+  address: 7442 Fifth Ave
+  city: Seattle
+  state: VA

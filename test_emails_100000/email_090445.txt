@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Campbell",
+    "email": "daniel.campbell3650@company.com",
+    "phone": "427-699-7305",
+    "ssn": "901-81-1526",
+    "dob": "08/28/1993",
+    "address": "5902 East Rd",
+    "city": "Dallas",
+    "state": "MD"
+  }
+}

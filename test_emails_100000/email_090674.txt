@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Hernandez
+  email: kimberly.hernandez7531@gmail.com
+  phone: 440 778 2145
+  ssn: 182 77 3568
+  dob: 09-23-1967
+  address: 5538 Second Rd
+  city: San Antonio
+  state: GA

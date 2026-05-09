@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Miller,kevin.miller5572@outlook.com,912-345-6103,590-73-9027,04-16-1988,"8755 North Blvd",Jacksonville,TX

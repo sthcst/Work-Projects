@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark White",
+    "email": "mark.white5295@example.com",
+    "phone": "(923) 614-4332",
+    "ssn": "154908458",
+    "dob": "08/22/1977",
+    "address": "8221 Spring Blvd",
+    "city": "San Diego",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Young,david.young1002@mail.com,245 720 7079,654 32 2586,08/05/2005,"6071 South Way",Phoenix,DC

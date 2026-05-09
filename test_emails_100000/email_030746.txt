@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Bell",
+    "email": "joseph.bell1623@mail.com",
+    "phone": "(585) 498-1116",
+    "ssn": "563-14-7231",
+    "dob": "1/12/1979",
+    "address": "8648 Cedar Way",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Alvarado,william.alvarado7379@mail.com,586-240-1428,546328485,06-07-2002,"3106 Main Way",Boston,PA

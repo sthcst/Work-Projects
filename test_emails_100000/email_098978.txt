@@ -1,0 +1,14 @@
+INVOICE 656378
+
+Bill To:
+Name: Nicole Garcia
+Email: nicole.garcia407@company.com
+Phone: 764-963-9299
+SSN: 124856303
+
+Address: 953 North St
+Chicago, CA
+
+Date of Birth: 02/14/1979
+
+Amount Due: $7831

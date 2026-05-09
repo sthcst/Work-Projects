@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Sanchez
+  email: nicole.sanchez99@gmail.com
+  phone: 457 214 7314
+  ssn: 069-80-2413
+  dob: 13/07/1985
+  address: 5514 Oak Rd
+  city: New York
+  state: FL

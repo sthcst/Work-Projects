@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Carter
+  email: kenneth.carter1208@mail.com
+  phone: +1 986-591-4903
+  ssn: 043-48-8353
+  dob: 8/12/1977
+  address: 3080 Main Rd
+  city: Houston
+  state: WA

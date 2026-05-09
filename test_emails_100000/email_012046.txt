@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Moore",
+    "email": "kenneth.moore4575@company.com",
+    "phone": "(492) 416-9528",
+    "ssn": "842 25 7556",
+    "dob": "25/07/2003",
+    "address": "7530 South Blvd",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 398997
+
+Bill To:
+Name: Richard Reyes
+Email: richard.reyes9794@mail.com
+Phone: (335) 850-9359
+SSN: 116319773
+
+Address: 5278 Main Court
+Philadelphia, MD
+
+Date of Birth: 14/02/2002
+
+Amount Due: $9405

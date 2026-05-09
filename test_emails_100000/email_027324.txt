@@ -1,0 +1,14 @@
+INVOICE 372354
+
+Bill To:
+Name: Michael Taylor
+Email: michael.taylor9526@outlook.com
+Phone: 867-818-5013
+SSN: 731-29-2309
+
+Address: 8716 Sixth Blvd
+Boston, CO
+
+Date of Birth: 5/16/2005
+
+Amount Due: $8237

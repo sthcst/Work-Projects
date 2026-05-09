@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Serrano",
+    "email": "william.serrano9132@company.com",
+    "phone": "651 224 4393",
+    "ssn": "542408766",
+    "dob": "11-17-1971",
+    "address": "2087 Sixth Blvd",
+    "city": "San Diego",
+    "state": "NC"
+  }
+}

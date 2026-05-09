@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Reyes,stephanie.reyes404@work.org,(797) 766-5748,533605250,11/15/1997,"3980 South Rd",Phoenix,WI

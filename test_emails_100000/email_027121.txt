@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Parker,lisa.parker7386@yahoo.com,(938) 309-7252,688265214,21/05/1973,"5109 Sixth Way",Denver,WA

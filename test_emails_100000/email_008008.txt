@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Campbell,amanda.campbell316@example.com,751-986-6038,856979803,08/27/1980,"2415 Elm Dr",San Diego,NY

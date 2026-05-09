@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Jackson,helen.jackson7068@mail.com,+1 398-583-7081,180-33-9987,12/26/1997,"6592 First Blvd",San Antonio,CA

@@ -1,0 +1,9 @@
+contact:
+  name: Mark Flores
+  email: mark.flores2701@work.org
+  phone: 464 593 8840
+  ssn: 486943228
+  dob: 4/6/1991
+  address: 3840 South Blvd
+  city: New York
+  state: MO

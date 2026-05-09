@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Romero
+  email: kenneth.romero5763@yahoo.com
+  phone: +1 833-919-5594
+  ssn: 246 38 7599
+  dob: 6/25/1981
+  address: 6066 West Court
+  city: Phoenix
+  state: FL

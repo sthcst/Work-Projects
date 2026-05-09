@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Bell
+  email: joseph.bell4291@mail.com
+  phone: 357-272-6046
+  ssn: 146-81-5313
+  dob: 02-28-1979
+  address: 4638 Cedar Rd
+  city: Denver
+  state: PA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Hernandez",
+    "email": "mark.hernandez1732@yahoo.com",
+    "phone": "+1 505-425-4805",
+    "ssn": "699-99-7254",
+    "dob": "07/06/1989",
+    "address": "3263 West Court",
+    "city": "Phoenix",
+    "state": "NC"
+  }
+}

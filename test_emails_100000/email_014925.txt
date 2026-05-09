@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Stewart
+  email: shirley.stewart8949@outlook.com
+  phone: +1 646-987-7647
+  ssn: 533-77-1335
+  dob: 03/19/1990
+  address: 7053 Main Dr
+  city: Seattle
+  state: FL

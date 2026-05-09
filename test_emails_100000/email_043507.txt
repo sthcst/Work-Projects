@@ -1,0 +1,14 @@
+INVOICE 565906
+
+Bill To:
+Name: Maria Thomas
+Email: maria.thomas985@company.com
+Phone: 552-745-9080
+SSN: 333018480
+
+Address: 1217 Maple Ave
+Denver, MA
+
+Date of Birth: 1/23/2004
+
+Amount Due: $6352

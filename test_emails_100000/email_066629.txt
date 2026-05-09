@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Phillips,angela.phillips3905@mail.com,(333) 302-8177,519213952,2/25/1953,"6767 Birch Ln",Philadelphia,TN

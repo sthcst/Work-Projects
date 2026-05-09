@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Smith
+  email: katherine.smith3011@gmail.com
+  phone: 300-256-9080
+  ssn: 055625860
+  dob: 11/06/1991
+  address: 6097 West St
+  city: Boston
+  state: PA

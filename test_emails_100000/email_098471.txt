@@ -1,0 +1,9 @@
+contact:
+  name: Richard Reeves
+  email: richard.reeves4865@example.com
+  phone: (621) 447-1200
+  ssn: 314 84 1395
+  dob: 07-20-2001
+  address: 4569 Oak Way
+  city: Los Angeles
+  state: CA

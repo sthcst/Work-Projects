@@ -1,0 +1,14 @@
+INVOICE 747270
+
+Bill To:
+Name: Mark Rodriguez
+Email: mark.rodriguez9841@example.com
+Phone: 314 551 6075
+SSN: 770 91 8739
+
+Address: 1718 Spring Way
+Denver, GA
+
+Date of Birth: 10/9/1994
+
+Amount Due: $4287

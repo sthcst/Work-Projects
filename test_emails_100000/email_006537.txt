@@ -1,0 +1,9 @@
+contact:
+  name: Steven Reyes
+  email: steven.reyes1732@outlook.com
+  phone: 535-464-7627
+  ssn: 674758378
+  dob: 8/11/2004
+  address: 6399 Summer Blvd
+  city: San Diego
+  state: CA

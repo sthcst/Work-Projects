@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Ortiz,david.ortiz9168@mail.com,+1 429-655-2133,588-78-7988,09/02/1981,"8264 Second Court",Philadelphia,IL

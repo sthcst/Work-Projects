@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Reed,michael.reed1458@business.net,480 599 6852,914111129,12/08/1953,"7250 South Blvd",San Jose,NJ

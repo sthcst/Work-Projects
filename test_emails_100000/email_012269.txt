@@ -1,0 +1,14 @@
+INVOICE 744984
+
+Bill To:
+Name: John Nelson
+Email: john.nelson3250@outlook.com
+Phone: 836-308-7416
+SSN: 167064276
+
+Address: 8067 Cedar Ave
+San Jose, AZ
+
+Date of Birth: 10/19/1973
+
+Amount Due: $1096

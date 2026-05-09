@@ -1,0 +1,9 @@
+contact:
+  name: Paul Taylor
+  email: paul.taylor8092@outlook.com
+  phone: 693-333-9178
+  ssn: 718-77-8489
+  dob: 07-24-1988
+  address: 5970 East Dr
+  city: Denver
+  state: WA

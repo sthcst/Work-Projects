@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Guerrero",
+    "email": "ryan.guerrero5508@outlook.com",
+    "phone": "906 205 3700",
+    "ssn": "987 58 8695",
+    "dob": "05/05/1964",
+    "address": "2330 West Rd",
+    "city": "San Antonio",
+    "state": "DC"
+  }
+}

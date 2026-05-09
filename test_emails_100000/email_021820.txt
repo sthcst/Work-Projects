@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Rodriguez",
+    "email": "matthew.rodriguez9450@work.org",
+    "phone": "+1 752-815-4903",
+    "ssn": "915-22-7785",
+    "dob": "11/06/1960",
+    "address": "3422 East Blvd",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

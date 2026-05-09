@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Romero
+  email: shirley.romero5834@work.org
+  phone: +1 527-500-9725
+  ssn: 654-18-7358
+  dob: 16/09/1991
+  address: 6466 Maple Blvd
+  city: Dallas
+  state: CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Cooper,ronald.cooper4951@yahoo.com,573-709-7965,945-87-3697,02/20/1987,"8863 Sixth Ave",Dallas,NC

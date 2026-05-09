@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Serrano",
+    "email": "donald.serrano8822@mail.com",
+    "phone": "632-713-6144",
+    "ssn": "005-64-8054",
+    "dob": "8/25/1969",
+    "address": "3267 Fifth Ave",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Morris
+  email: anthony.morris3936@business.net
+  phone: (763) 605-6311
+  ssn: 645 77 7465
+  dob: 11/7/1955
+  address: 3195 Fourth Dr
+  city: New York
+  state: MD

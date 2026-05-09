@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Alvarado,cynthia.alvarado8572@outlook.com,(508) 471-5235,722 40 9658,10/06/1993,"8443 Birch Ln",New York,CA

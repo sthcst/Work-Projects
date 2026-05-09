@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Martinez
+  email: kevin.martinez6761@outlook.com
+  phone: (628) 392-7857
+  ssn: 213278923
+  dob: 07/04/1963
+  address: 4007 Fifth Way
+  city: Boston
+  state: NY

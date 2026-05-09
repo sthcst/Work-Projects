@@ -1,0 +1,14 @@
+INVOICE 940979
+
+Bill To:
+Name: Anna Lewis
+Email: anna.lewis8219@example.com
+Phone: 284-711-3966
+SSN: 428-90-4552
+
+Address: 3839 Main Rd
+Boston, CA
+
+Date of Birth: 11-11-1952
+
+Amount Due: $9182

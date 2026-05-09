@@ -1,0 +1,14 @@
+INVOICE 399987
+
+Bill To:
+Name: Katherine Nelson
+Email: katherine.nelson8039@company.com
+Phone: +1 711-770-9844
+SSN: 384774983
+
+Address: 1240 Maple Ln
+Dallas, TX
+
+Date of Birth: 25/10/2001
+
+Amount Due: $9773

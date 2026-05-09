@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Morgan",
+    "email": "nicole.morgan5158@gmail.com",
+    "phone": "+1 720-520-4232",
+    "ssn": "737 19 3743",
+    "dob": "11/26/1997",
+    "address": "4068 Sixth Rd",
+    "city": "Denver",
+    "state": "OH"
+  }
+}

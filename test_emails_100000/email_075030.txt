@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Campbell
+  email: jacob.campbell9255@outlook.com
+  phone: (206) 572-9397
+  ssn: 088 29 1969
+  dob: 19/04/1955
+  address: 1598 West Rd
+  city: Los Angeles
+  state: MO

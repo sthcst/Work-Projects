@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Taylor
+  email: jacob.taylor1021@yahoo.com
+  phone: 810-996-9082
+  ssn: 688208812
+  dob: 21/10/1957
+  address: 5666 West Way
+  city: Phoenix
+  state: NY

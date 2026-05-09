@@ -1,0 +1,14 @@
+INVOICE 620148
+
+Bill To:
+Name: Pamela Johnson
+Email: pamela.johnson7735@business.net
+Phone: 993 744 8244
+SSN: 985 26 4248
+
+Address: 3660 Third Dr
+Chicago, NC
+
+Date of Birth: 10/06/1988
+
+Amount Due: $585

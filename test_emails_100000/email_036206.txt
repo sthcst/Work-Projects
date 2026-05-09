@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Hernandez
+  email: katherine.hernandez9138@example.com
+  phone: +1 579-656-1166
+  ssn: 181 68 2796
+  dob: 1/28/1990
+  address: 679 Fourth Blvd
+  city: Dallas
+  state: FL

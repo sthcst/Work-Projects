@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Davis,emily.davis1879@yahoo.com,862 370 1536,210-83-4314,03-01-1957,"254 Sixth Rd",Phoenix,MI

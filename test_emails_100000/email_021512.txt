@@ -1,0 +1,9 @@
+contact:
+  name: Steven Serrano
+  email: steven.serrano506@mail.com
+  phone: 238 465 7230
+  ssn: 461341436
+  dob: 6/7/1992
+  address: 3028 Maple Ln
+  city: Philadelphia
+  state: OH

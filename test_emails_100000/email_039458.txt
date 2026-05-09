@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Guerrero",
+    "email": "mark.guerrero3279@mail.com",
+    "phone": "+1 487-332-6587",
+    "ssn": "302334196",
+    "dob": "09/11/1970",
+    "address": "7017 West Blvd",
+    "city": "San Antonio",
+    "state": "WA"
+  }
+}

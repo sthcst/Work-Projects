@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Gomez,robert.gomez3186@outlook.com,(217) 372-9344,293 35 1365,09/23/1960,"2163 Sixth Ln",Austin,OH

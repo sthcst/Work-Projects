@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Edwards,lisa.edwards6044@yahoo.com,366 671 5593,675 27 6616,11/08/1965,"2285 Fourth St",Seattle,NY

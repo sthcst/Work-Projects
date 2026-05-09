@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Martinez
+  email: michelle.martinez7426@company.com
+  phone: (933) 696-7732
+  ssn: 384-45-4313
+  dob: 11/13/1952
+  address: 3095 Sixth Ln
+  city: Dallas
+  state: FL

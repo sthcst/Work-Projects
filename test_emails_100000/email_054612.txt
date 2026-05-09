@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Perez",
+    "email": "deborah.perez1023@yahoo.com",
+    "phone": "261 632 9388",
+    "ssn": "419301502",
+    "dob": "6/19/1976",
+    "address": "8908 Fourth Court",
+    "city": "Houston",
+    "state": "FL"
+  }
+}

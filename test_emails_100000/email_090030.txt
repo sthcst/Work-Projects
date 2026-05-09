@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Collins",
+    "email": "richard.collins7518@yahoo.com",
+    "phone": "(878) 842-7462",
+    "ssn": "804259111",
+    "dob": "03/02/1951",
+    "address": "2004 Elm Way",
+    "city": "Chicago",
+    "state": "OH"
+  }
+}

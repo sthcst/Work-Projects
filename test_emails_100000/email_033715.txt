@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Moore
+  email: sarah.moore2981@gmail.com
+  phone: (473) 957-4915
+  ssn: 985 36 9314
+  dob: 4/25/1968
+  address: 9187 Birch Court
+  city: Jacksonville
+  state: PA

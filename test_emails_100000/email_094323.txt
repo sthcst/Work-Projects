@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Sanchez,richard.sanchez5667@example.com,402 368 3356,855283894,1/27/1992,"6555 Fourth Ln",San Jose,WI

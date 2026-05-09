@@ -1,0 +1,14 @@
+INVOICE 372124
+
+Bill To:
+Name: Rachel Evans
+Email: rachel.evans2036@gmail.com
+Phone: 405-484-5068
+SSN: 420053465
+
+Address: 7698 Fifth St
+Boston, CO
+
+Date of Birth: 15/06/1967
+
+Amount Due: $2138

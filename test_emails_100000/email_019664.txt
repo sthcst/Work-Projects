@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Reyes,daniel.reyes7132@mail.com,+1 481-773-8612,351 14 6729,03-23-2002,"167 Main St",New York,FL

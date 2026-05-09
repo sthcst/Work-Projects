@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Gomez,steven.gomez7585@mail.com,727 766 2245,076-35-1274,09-23-1992,"5367 Summer Rd",San Diego,MO

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Bell",
+    "email": "michelle.bell5280@yahoo.com",
+    "phone": "(753) 769-4851",
+    "ssn": "270 33 3351",
+    "dob": "7/27/1977",
+    "address": "9659 Sixth St",
+    "city": "San Jose",
+    "state": "MA"
+  }
+}

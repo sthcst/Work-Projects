@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Gonzalez",
+    "email": "robert.gonzalez6515@business.net",
+    "phone": "+1 355-567-7039",
+    "ssn": "748 33 8929",
+    "dob": "07/14/1958",
+    "address": "8389 Oak Ave",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

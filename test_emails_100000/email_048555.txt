@@ -1,0 +1,9 @@
+contact:
+  name: Christine Reyes
+  email: christine.reyes7191@yahoo.com
+  phone: 275-551-7566
+  ssn: 930 31 3944
+  dob: 11/22/1959
+  address: 7515 Second St
+  city: Austin
+  state: PA

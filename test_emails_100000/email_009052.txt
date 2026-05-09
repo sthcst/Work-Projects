@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Morgan",
+    "email": "charles.morgan7369@outlook.com",
+    "phone": "+1 539-430-5857",
+    "ssn": "974-35-8887",
+    "dob": "12/10/2003",
+    "address": "3175 Third Dr",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

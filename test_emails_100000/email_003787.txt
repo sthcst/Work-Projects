@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Flores",
+    "email": "timothy.flores8488@gmail.com",
+    "phone": "(369) 676-4139",
+    "ssn": "372 45 9826",
+    "dob": "10/16/1978",
+    "address": "8451 Sixth Court",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

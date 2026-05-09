@@ -1,0 +1,14 @@
+INVOICE 224383
+
+Bill To:
+Name: Amanda Taylor
+Email: amanda.taylor65@company.com
+Phone: 230 923 1788
+SSN: 725-30-9021
+
+Address: 5907 Maple Rd
+Austin, MO
+
+Date of Birth: 01-08-1958
+
+Amount Due: $1654

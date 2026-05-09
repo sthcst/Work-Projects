@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Thomas",
+    "email": "lisa.thomas9762@company.com",
+    "phone": "(442) 630-4803",
+    "ssn": "809 22 1036",
+    "dob": "12/07/1977",
+    "address": "8797 Cedar Rd",
+    "city": "Houston",
+    "state": "CA"
+  }
+}

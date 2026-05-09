@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Hernandez",
+    "email": "christine.hernandez1542@example.com",
+    "phone": "+1 681-752-3189",
+    "ssn": "765566095",
+    "dob": "12/08/1994",
+    "address": "3811 South Rd",
+    "city": "Denver",
+    "state": "AZ"
+  }
+}

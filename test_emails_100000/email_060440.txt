@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Morris,jessica.morris5095@outlook.com,(942) 839-6781,368-33-3310,09-13-1972,"8299 Fourth Ave",Houston,TX

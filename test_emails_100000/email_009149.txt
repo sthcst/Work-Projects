@@ -1,0 +1,9 @@
+contact:
+  name: Anna Anderson
+  email: anna.anderson1964@mail.com
+  phone: +1 767-457-3773
+  ssn: 557058637
+  dob: 06/10/1982
+  address: 8676 North Dr
+  city: Austin
+  state: MO

@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Jackson
+  email: kathleen.jackson4526@outlook.com
+  phone: +1 646-914-6946
+  ssn: 100 54 2074
+  dob: 2/26/1990
+  address: 7411 Main Blvd
+  city: Boston
+  state: GA

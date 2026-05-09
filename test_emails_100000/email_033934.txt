@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Alvarado",
+    "email": "ashley.alvarado8959@business.net",
+    "phone": "396-322-5114",
+    "ssn": "554 23 3741",
+    "dob": "08/16/1957",
+    "address": "6774 South Ln",
+    "city": "Houston",
+    "state": "MO"
+  }
+}

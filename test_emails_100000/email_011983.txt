@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Robinson",
+    "email": "angela.robinson4386@work.org",
+    "phone": "(539) 603-2299",
+    "ssn": "434-58-8401",
+    "dob": "06/07/1966",
+    "address": "7070 Fifth Ln",
+    "city": "New York",
+    "state": "TN"
+  }
+}

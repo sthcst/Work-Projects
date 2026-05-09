@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Serrano
+  email: kevin.serrano3203@company.com
+  phone: (334) 712-6313
+  ssn: 538-63-7336
+  dob: 20/01/1996
+  address: 4725 Fourth Way
+  city: San Antonio
+  state: TX

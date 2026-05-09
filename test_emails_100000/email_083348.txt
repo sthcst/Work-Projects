@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Lee",
+    "email": "katherine.lee6235@business.net",
+    "phone": "258-372-5616",
+    "ssn": "126087401",
+    "dob": "2/13/2002",
+    "address": "7453 East Dr",
+    "city": "Boston",
+    "state": "FL"
+  }
+}

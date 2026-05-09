@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Campbell,joseph.campbell2142@company.com,897-780-3573,006603274,05-21-1974,"7366 Birch Court",Austin,AZ

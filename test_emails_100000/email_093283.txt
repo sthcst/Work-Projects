@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Jimenez,angela.jimenez8409@mail.com,429-252-7159,002 26 6933,2/18/1979,"511 Park Ave",San Jose,WI

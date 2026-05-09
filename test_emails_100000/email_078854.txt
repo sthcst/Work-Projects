@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Miller
+  email: jeffrey.miller1284@company.com
+  phone: 974-664-9548
+  ssn: 927305902
+  dob: 03-08-2004
+  address: 9098 Cedar Ln
+  city: Los Angeles
+  state: MA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Morgan,michael.morgan3458@outlook.com,+1 338-414-7772,084 16 9988,27/08/1993,"7998 Fifth Blvd",Houston,PA

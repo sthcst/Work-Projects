@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Robinson",
+    "email": "nicholas.robinson9777@gmail.com",
+    "phone": "(432) 699-7712",
+    "ssn": "313-52-6436",
+    "dob": "07/10/1956",
+    "address": "7852 South Blvd",
+    "city": "Los Angeles",
+    "state": "FL"
+  }
+}

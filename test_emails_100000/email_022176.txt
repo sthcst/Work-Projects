@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Ortiz
+  email: samantha.ortiz5575@outlook.com
+  phone: (829) 376-4375
+  ssn: 459-17-5670
+  dob: 4/5/1971
+  address: 9931 Park Blvd
+  city: San Jose
+  state: TX

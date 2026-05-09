@@ -1,0 +1,9 @@
+contact:
+  name: Maria Murillo
+  email: maria.murillo2246@business.net
+  phone: 664 873 1278
+  ssn: 926 27 1872
+  dob: 04/28/1964
+  address: 8182 West Ave
+  city: New York
+  state: TX

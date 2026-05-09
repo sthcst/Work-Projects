@@ -1,0 +1,9 @@
+contact:
+  name: Edward Gomez
+  email: edward.gomez2036@business.net
+  phone: 432 795 3712
+  ssn: 057316728
+  dob: 8/16/2005
+  address: 6560 Third St
+  city: San Jose
+  state: TN

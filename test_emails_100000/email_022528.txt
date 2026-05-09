@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Serrano",
+    "email": "megan.serrano273@work.org",
+    "phone": "+1 310-685-5001",
+    "ssn": "913462565",
+    "dob": "02-26-1983",
+    "address": "3852 Fifth Ln",
+    "city": "New York",
+    "state": "WA"
+  }
+}

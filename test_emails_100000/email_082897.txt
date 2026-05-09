@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Peterson,christopher.peterson929@example.com,910 476 5623,340-31-4623,08-14-2005,"1686 Second Way",Boston,MD

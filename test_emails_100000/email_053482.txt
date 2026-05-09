@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Gonzalez,david.gonzalez9697@yahoo.com,+1 272-345-5815,209-35-1701,26/01/1960,"6435 Park Court",Philadelphia,AZ

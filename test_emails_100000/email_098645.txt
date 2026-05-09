@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Lee",
+    "email": "joseph.lee1777@business.net",
+    "phone": "(518) 434-4574",
+    "ssn": "863-71-6156",
+    "dob": "5/12/1972",
+    "address": "6751 Spring Ave",
+    "city": "Dallas",
+    "state": "IL"
+  }
+}

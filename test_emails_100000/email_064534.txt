@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Lewis,michelle.lewis9751@outlook.com,480-210-4965,988 87 5679,05/11/1964,"2927 Oak Rd",Jacksonville,WI

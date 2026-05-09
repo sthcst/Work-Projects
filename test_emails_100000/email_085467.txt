@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Morris",
+    "email": "william.morris2431@gmail.com",
+    "phone": "+1 747-526-4979",
+    "ssn": "806 94 1803",
+    "dob": "6/22/1950",
+    "address": "8262 Elm Rd",
+    "city": "Austin",
+    "state": "GA"
+  }
+}

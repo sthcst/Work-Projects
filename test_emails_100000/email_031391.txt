@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Romero,angela.romero4048@business.net,(970) 839-8514,186 75 4986,02-28-1989,"1670 Spring Blvd",Los Angeles,MO

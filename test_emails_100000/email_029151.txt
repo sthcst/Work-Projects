@@ -1,0 +1,9 @@
+contact:
+  name: Emma Davis
+  email: emma.davis3447@company.com
+  phone: 887 592 2126
+  ssn: 278-13-3130
+  dob: 10-23-1967
+  address: 5488 Second Dr
+  city: Los Angeles
+  state: OH

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Guerrero,kenneth.guerrero9775@company.com,+1 667-489-8303,213313690,01/09/1995,"8351 East St",Los Angeles,CA

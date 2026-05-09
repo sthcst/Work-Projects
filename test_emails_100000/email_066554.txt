@@ -1,0 +1,14 @@
+INVOICE 502303
+
+Bill To:
+Name: Charles Hernandez
+Email: charles.hernandez9351@example.com
+Phone: (784) 443-7423
+SSN: 407 96 5305
+
+Address: 2426 Second Ln
+San Jose, VA
+
+Date of Birth: 04/05/1977
+
+Amount Due: $8390

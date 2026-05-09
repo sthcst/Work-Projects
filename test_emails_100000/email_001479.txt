@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Parker",
+    "email": "megan.parker6798@business.net",
+    "phone": "(798) 238-5026",
+    "ssn": "167-12-5209",
+    "dob": "1/7/1955",
+    "address": "9294 Park Ln",
+    "city": "New York",
+    "state": "MD"
+  }
+}

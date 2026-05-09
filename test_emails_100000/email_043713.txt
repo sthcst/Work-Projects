@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Jimenez",
+    "email": "nicholas.jimenez2245@company.com",
+    "phone": "+1 697-987-7059",
+    "ssn": "801-94-7315",
+    "dob": "21/06/1983",
+    "address": "1013 North Way",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

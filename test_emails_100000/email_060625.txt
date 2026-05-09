@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Guerrero,emma.guerrero6190@example.com,(574) 745-3133,204562191,11/12/1975,"812 Oak Ln",New York,MI

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Lee",
+    "email": "jane.lee3258@yahoo.com",
+    "phone": "(600) 340-9341",
+    "ssn": "361015478",
+    "dob": "26/01/1978",
+    "address": "6364 South St",
+    "city": "San Diego",
+    "state": "MA"
+  }
+}

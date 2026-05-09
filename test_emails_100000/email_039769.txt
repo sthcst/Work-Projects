@@ -1,0 +1,14 @@
+INVOICE 531287
+
+Bill To:
+Name: Rachel Jackson
+Email: rachel.jackson9708@outlook.com
+Phone: 858 288 6302
+SSN: 113-75-4259
+
+Address: 1395 North Blvd
+Phoenix, CA
+
+Date of Birth: 09-12-1961
+
+Amount Due: $180

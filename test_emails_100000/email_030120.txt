@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Williams",
+    "email": "emma.williams5904@work.org",
+    "phone": "(769) 735-3820",
+    "ssn": "478 27 4107",
+    "dob": "11/18/1972",
+    "address": "9939 Fifth Ln",
+    "city": "San Antonio",
+    "state": "NC"
+  }
+}

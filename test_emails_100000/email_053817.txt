@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Rodriguez",
+    "email": "jennifer.rodriguez1340@example.com",
+    "phone": "861-510-1111",
+    "ssn": "772 24 7253",
+    "dob": "08/12/1986",
+    "address": "7555 Cedar Rd",
+    "city": "San Antonio",
+    "state": "FL"
+  }
+}

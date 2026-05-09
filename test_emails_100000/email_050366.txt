@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Sanchez,joshua.sanchez608@mail.com,(300) 568-6383,365 96 3024,03/11/1977,"6106 Summer Blvd",Jacksonville,PA

@@ -1,0 +1,14 @@
+INVOICE 896913
+
+Bill To:
+Name: James Hall
+Email: james.hall3034@work.org
+Phone: (288) 900-7524
+SSN: 774-73-5725
+
+Address: 9753 Third St
+San Antonio, WI
+
+Date of Birth: 6/18/1997
+
+Amount Due: $7202

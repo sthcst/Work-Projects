@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Williams",
+    "email": "nicole.williams364@work.org",
+    "phone": "(872) 755-9632",
+    "ssn": "267 84 3543",
+    "dob": "19/07/1988",
+    "address": "5784 Park Court",
+    "city": "New York",
+    "state": "CA"
+  }
+}

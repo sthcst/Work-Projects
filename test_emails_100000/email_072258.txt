@@ -1,0 +1,9 @@
+contact:
+  name: Mark Brown
+  email: mark.brown9903@business.net
+  phone: +1 344-924-3956
+  ssn: 828686816
+  dob: 09/07/1976
+  address: 9298 Pine Ln
+  city: Jacksonville
+  state: DC

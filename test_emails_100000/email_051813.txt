@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Rodriguez",
+    "email": "joshua.rodriguez6396@business.net",
+    "phone": "752-403-7743",
+    "ssn": "242 61 9617",
+    "dob": "11/16/1991",
+    "address": "6756 Birch Dr",
+    "city": "San Jose",
+    "state": "WA"
+  }
+}

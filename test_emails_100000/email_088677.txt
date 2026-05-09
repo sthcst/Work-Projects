@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Ortiz",
+    "email": "kathleen.ortiz1620@company.com",
+    "phone": "242 570 6616",
+    "ssn": "312934027",
+    "dob": "07-20-1960",
+    "address": "9055 Fifth St",
+    "city": "San Antonio",
+    "state": "CA"
+  }
+}

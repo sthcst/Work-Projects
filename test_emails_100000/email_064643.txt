@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Guerrero,jennifer.guerrero3203@work.org,658-230-8168,337516599,6/22/1996,"5518 Pine Ln",Phoenix,TX

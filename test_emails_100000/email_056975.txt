@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Cooper
+  email: michelle.cooper6360@yahoo.com
+  phone: 468-637-6253
+  ssn: 408152908
+  dob: 3/11/1977
+  address: 4141 Main Blvd
+  city: Phoenix
+  state: NY

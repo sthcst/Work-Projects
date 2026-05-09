@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Thompson",
+    "email": "kenneth.thompson9551@gmail.com",
+    "phone": "505 852 8453",
+    "ssn": "653 07 3350",
+    "dob": "1/16/1967",
+    "address": "3376 Main Ave",
+    "city": "San Diego",
+    "state": "MA"
+  }
+}

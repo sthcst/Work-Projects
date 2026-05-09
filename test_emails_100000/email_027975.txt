@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Sanchez
+  email: rebecca.sanchez2@gmail.com
+  phone: 384 206 5901
+  ssn: 910 35 1977
+  dob: 07/10/1975
+  address: 305 North Ln
+  city: Austin
+  state: WA

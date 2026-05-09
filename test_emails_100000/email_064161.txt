@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Ortiz",
+    "email": "katherine.ortiz2453@mail.com",
+    "phone": "597-620-7869",
+    "ssn": "841-47-6237",
+    "dob": "06/05/1986",
+    "address": "1984 Fifth Way",
+    "city": "Austin",
+    "state": "FL"
+  }
+}

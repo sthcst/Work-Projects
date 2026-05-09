@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Wilson,christopher.wilson867@company.com,529-480-7631,930 98 8843,07-17-1981,"9887 East Ave",Boston,CA

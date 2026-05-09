@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Morgan
+  email: lauren.morgan5630@example.com
+  phone: +1 586-927-6365
+  ssn: 486 12 5888
+  dob: 3/18/1993
+  address: 2676 Oak Ln
+  city: Jacksonville
+  state: CA

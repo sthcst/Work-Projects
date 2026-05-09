@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Bell",
+    "email": "megan.bell472@gmail.com",
+    "phone": "+1 271-485-2138",
+    "ssn": "418873099",
+    "dob": "3/9/1954",
+    "address": "454 First Dr",
+    "city": "Phoenix",
+    "state": "VA"
+  }
+}

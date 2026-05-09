@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Rodriguez,christine.rodriguez4416@business.net,785-990-3301,492 58 9983,05-12-1969,"8379 Pine Rd",New York,FL

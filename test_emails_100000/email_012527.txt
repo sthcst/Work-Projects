@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Carter",
+    "email": "kevin.carter5021@work.org",
+    "phone": "668 558 9079",
+    "ssn": "978-92-7269",
+    "dob": "01/16/1973",
+    "address": "3304 Park Court",
+    "city": "Phoenix",
+    "state": "PA"
+  }
+}

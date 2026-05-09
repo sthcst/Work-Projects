@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob White",
+    "email": "jacob.white3306@example.com",
+    "phone": "763 636 4037",
+    "ssn": "125-52-2641",
+    "dob": "05-14-1970",
+    "address": "879 Summer Ave",
+    "city": "Washington",
+    "state": "MD"
+  }
+}

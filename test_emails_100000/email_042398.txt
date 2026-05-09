@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Smith",
+    "email": "steven.smith7442@mail.com",
+    "phone": "283 415 7785",
+    "ssn": "965 75 6794",
+    "dob": "12/10/1992",
+    "address": "6070 Elm Court",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

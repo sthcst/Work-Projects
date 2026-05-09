@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Miller",
+    "email": "angela.miller3818@business.net",
+    "phone": "+1 264-862-3218",
+    "ssn": "370148802",
+    "dob": "12/10/1993",
+    "address": "1206 East Ln",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

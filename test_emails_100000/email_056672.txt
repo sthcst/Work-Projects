@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Sanchez",
+    "email": "joshua.sanchez8240@business.net",
+    "phone": "756 772 1144",
+    "ssn": "697 99 7589",
+    "dob": "06-05-1971",
+    "address": "8490 Second Way",
+    "city": "Houston",
+    "state": "CO"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Charles Ortiz
+  email: charles.ortiz9877@mail.com
+  phone: 895 588 5756
+  ssn: 756 73 8616
+  dob: 19/08/1989
+  address: 4620 Sixth Blvd
+  city: Philadelphia
+  state: CA

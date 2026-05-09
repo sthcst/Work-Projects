@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Bell",
+    "email": "joshua.bell3169@outlook.com",
+    "phone": "+1 734-397-5398",
+    "ssn": "896-83-1599",
+    "dob": "06-02-1971",
+    "address": "4017 Fifth St",
+    "city": "Houston",
+    "state": "AZ"
+  }
+}

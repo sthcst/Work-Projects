@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Robinson",
+    "email": "anthony.robinson5969@gmail.com",
+    "phone": "+1 241-515-4846",
+    "ssn": "367224176",
+    "dob": "10/05/1978",
+    "address": "9074 Summer St",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

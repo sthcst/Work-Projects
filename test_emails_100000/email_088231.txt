@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Garcia",
+    "email": "andrew.garcia4285@business.net",
+    "phone": "+1 993-745-2959",
+    "ssn": "852 26 6898",
+    "dob": "06/24/1993",
+    "address": "8640 Elm St",
+    "city": "Dallas",
+    "state": "PA"
+  }
+}

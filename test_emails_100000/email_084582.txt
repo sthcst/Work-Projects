@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Delgado,shirley.delgado834@gmail.com,+1 256-710-1661,695-65-9715,11-19-1977,"3390 Cedar Blvd",Jacksonville,TX

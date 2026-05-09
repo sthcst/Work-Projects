@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Jimenez,sarah.jimenez7718@business.net,+1 557-987-4357,347-11-8445,5/9/1980,"9784 Sixth Ln",Houston,FL

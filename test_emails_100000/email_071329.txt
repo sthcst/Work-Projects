@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Davis",
+    "email": "amanda.davis2180@yahoo.com",
+    "phone": "493 982 6882",
+    "ssn": "395-54-7378",
+    "dob": "23/01/1995",
+    "address": "5200 Third Ln",
+    "city": "Dallas",
+    "state": "WA"
+  }
+}

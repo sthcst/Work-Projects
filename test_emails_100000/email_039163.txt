@@ -1,0 +1,9 @@
+contact:
+  name: John Johnson
+  email: john.johnson944@outlook.com
+  phone: (836) 301-3790
+  ssn: 903 42 3062
+  dob: 3/21/1978
+  address: 9868 North Ln
+  city: Chicago
+  state: IL

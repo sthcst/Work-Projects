@@ -1,0 +1,9 @@
+contact:
+  name: William Peterson
+  email: william.peterson7434@yahoo.com
+  phone: +1 277-786-1706
+  ssn: 436-72-5274
+  dob: 13/11/1953
+  address: 3282 East Blvd
+  city: Seattle
+  state: AZ

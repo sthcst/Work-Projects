@@ -1,0 +1,12 @@
+SUPPORT TICKET #73931
+
+Customer: Charles Martin
+Email: charles.martin1981@example.com
+Phone: (695) 570-1665
+Account: 135356769
+
+Issue Description: Technical problem reported
+DOB on file: 01-23-1972
+Address: 5590 Summer Blvd, Philadelphia, MO
+
+Status: OPEN

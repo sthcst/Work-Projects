@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Lopez",
+    "email": "joseph.lopez1623@outlook.com",
+    "phone": "(707) 883-9192",
+    "ssn": "044777243",
+    "dob": "18/12/1955",
+    "address": "6550 Third Dr",
+    "city": "Jacksonville",
+    "state": "WA"
+  }
+}

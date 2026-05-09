@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Rodriguez,christopher.rodriguez868@gmail.com,279-290-4847,723-43-4979,07-26-1979,"452 Third Way",Austin,NJ

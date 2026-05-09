@@ -1,0 +1,14 @@
+INVOICE 219534
+
+Bill To:
+Name: Jeffrey Taylor
+Email: jeffrey.taylor9497@work.org
+Phone: +1 739-725-7599
+SSN: 525-55-6459
+
+Address: 9527 Fifth Dr
+San Jose, PA
+
+Date of Birth: 3/25/2004
+
+Amount Due: $5928

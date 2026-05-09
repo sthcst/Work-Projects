@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Clark",
+    "email": "kenneth.clark9469@gmail.com",
+    "phone": "+1 896-478-6211",
+    "ssn": "483242078",
+    "dob": "08/05/1983",
+    "address": "9660 Summer St",
+    "city": "Washington",
+    "state": "DC"
+  }
+}

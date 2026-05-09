@@ -1,0 +1,14 @@
+INVOICE 369509
+
+Bill To:
+Name: Shirley Lee
+Email: shirley.lee468@outlook.com
+Phone: 840-278-5863
+SSN: 721 65 7849
+
+Address: 3342 Main Ln
+San Jose, TX
+
+Date of Birth: 17/01/2003
+
+Amount Due: $6162

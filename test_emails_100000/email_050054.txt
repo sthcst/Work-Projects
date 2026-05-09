@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Nelson,mark.nelson2025@gmail.com,703-538-1803,065442002,04/01/1978,"3777 Pine Rd",Jacksonville,FL

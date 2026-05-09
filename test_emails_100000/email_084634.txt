@@ -1,0 +1,14 @@
+INVOICE 658476
+
+Bill To:
+Name: Edward Thompson
+Email: edward.thompson5283@yahoo.com
+Phone: +1 234-623-2735
+SSN: 869-72-1041
+
+Address: 2606 Birch Ln
+San Antonio, PA
+
+Date of Birth: 02/28/1986
+
+Amount Due: $2257

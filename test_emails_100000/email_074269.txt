@@ -1,0 +1,14 @@
+INVOICE 330939
+
+Bill To:
+Name: Rachel Thompson
+Email: rachel.thompson410@mail.com
+Phone: (956) 772-6758
+SSN: 106565514
+
+Address: 5591 Main Rd
+Boston, NC
+
+Date of Birth: 19/07/1958
+
+Amount Due: $6674

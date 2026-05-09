@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Smith,emma.smith7827@work.org,435 901 8545,204-34-1434,9/20/1957,"5573 Cedar Court",Austin,DC

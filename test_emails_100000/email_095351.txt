@@ -1,0 +1,14 @@
+INVOICE 755064
+
+Bill To:
+Name: Helen Johnson
+Email: helen.johnson2658@work.org
+Phone: +1 960-352-4851
+SSN: 063 83 2893
+
+Address: 8407 Fifth Rd
+Philadelphia, VA
+
+Date of Birth: 08/02/1964
+
+Amount Due: $4604

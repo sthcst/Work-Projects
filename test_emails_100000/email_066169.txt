@@ -1,0 +1,14 @@
+INVOICE 415519
+
+Bill To:
+Name: Maria Stewart
+Email: maria.stewart4492@example.com
+Phone: 290-794-5385
+SSN: 339 81 2478
+
+Address: 3861 Elm Blvd
+New York, FL
+
+Date of Birth: 09/20/1969
+
+Amount Due: $2356

@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Rogers
+  email: samantha.rogers5888@example.com
+  phone: (411) 609-7611
+  ssn: 174 55 1629
+  dob: 20/04/1956
+  address: 9623 Second Ave
+  city: San Antonio
+  state: MA

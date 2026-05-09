@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Walker
+  email: daniel.walker2928@business.net
+  phone: +1 755-359-9645
+  ssn: 459833041
+  dob: 09/01/1976
+  address: 3344 Park Rd
+  city: Denver
+  state: CA

@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Bell
+  email: michelle.bell3716@company.com
+  phone: 759 631 4423
+  ssn: 701042177
+  dob: 09-10-1969
+  address: 40 Cedar Blvd
+  city: Phoenix
+  state: GA

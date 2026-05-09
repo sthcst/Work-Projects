@@ -1,0 +1,9 @@
+contact:
+  name: Gary Gomez
+  email: gary.gomez7358@business.net
+  phone: 965 207 1269
+  ssn: 872988293
+  dob: 11/2/1994
+  address: 624 Fifth Ave
+  city: New York
+  state: PA

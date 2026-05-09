@@ -1,0 +1,12 @@
+SUPPORT TICKET #18867
+
+Customer: Kenneth Lewis
+Email: kenneth.lewis180@example.com
+Phone: (972) 611-2975
+Account: 628 03 1451
+
+Issue Description: Technical problem reported
+DOB on file: 10/01/1969
+Address: 2981 Elm Way, San Jose, WI
+
+Status: OPEN

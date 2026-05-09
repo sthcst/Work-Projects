@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Young",
+    "email": "ronald.young588@company.com",
+    "phone": "+1 842-631-5978",
+    "ssn": "153755497",
+    "dob": "05/21/1993",
+    "address": "2792 Summer Ave",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

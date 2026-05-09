@@ -1,0 +1,14 @@
+INVOICE 123924
+
+Bill To:
+Name: Paul Lewis
+Email: paul.lewis1358@example.com
+Phone: 263 449 7545
+SSN: 773 50 4086
+
+Address: 7012 Sixth Rd
+San Antonio, FL
+
+Date of Birth: 03/08/1963
+
+Amount Due: $8646

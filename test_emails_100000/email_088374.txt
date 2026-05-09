@@ -1,0 +1,9 @@
+contact:
+  name: Paul Jackson
+  email: paul.jackson341@mail.com
+  phone: 906-721-3313
+  ssn: 916-22-4358
+  dob: 2/22/1978
+  address: 5100 Cedar Dr
+  city: Dallas
+  state: DC

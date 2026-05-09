@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Walker
+  email: brenda.walker6494@company.com
+  phone: 742 609 4051
+  ssn: 939-81-2908
+  dob: 06/28/1950
+  address: 802 Cedar Blvd
+  city: New York
+  state: CA

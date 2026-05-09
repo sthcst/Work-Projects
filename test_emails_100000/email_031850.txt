@@ -1,0 +1,14 @@
+INVOICE 610320
+
+Bill To:
+Name: Andrew Walker
+Email: andrew.walker5032@gmail.com
+Phone: (654) 548-6861
+SSN: 050 83 1442
+
+Address: 6180 Main Dr
+San Diego, MA
+
+Date of Birth: 08/02/1978
+
+Amount Due: $9454

@@ -1,0 +1,12 @@
+SUPPORT TICKET #95719
+
+Customer: Andrew Anderson
+Email: andrew.anderson6958@example.com
+Phone: (759) 430-6020
+Account: 299-33-3607
+
+Issue Description: Technical problem reported
+DOB on file: 01/12/1950
+Address: 5904 South Dr, San Antonio, IL
+
+Status: OPEN

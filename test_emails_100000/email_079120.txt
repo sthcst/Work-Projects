@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Nunez",
+    "email": "kenneth.nunez6189@mail.com",
+    "phone": "(510) 542-7809",
+    "ssn": "935 70 7663",
+    "dob": "21/01/1958",
+    "address": "8899 Sixth Rd",
+    "city": "Los Angeles",
+    "state": "IL"
+  }
+}

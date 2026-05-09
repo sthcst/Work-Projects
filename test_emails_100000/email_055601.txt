@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Romero,charles.romero5597@company.com,+1 614-996-1767,043789709,01/04/1970,"156 Fourth Dr",Chicago,IL

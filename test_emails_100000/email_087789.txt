@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Brown",
+    "email": "amanda.brown9334@example.com",
+    "phone": "628 287 2085",
+    "ssn": "206901909",
+    "dob": "01-28-1992",
+    "address": "4935 North Ave",
+    "city": "Los Angeles",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Lopez,daniel.lopez8332@example.com,+1 242-848-6313,071634407,02-05-1984,"1899 Elm Court",Austin,TX

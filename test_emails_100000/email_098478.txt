@@ -1,0 +1,14 @@
+INVOICE 645024
+
+Bill To:
+Name: Kimberly Roberts
+Email: kimberly.roberts845@example.com
+Phone: +1 528-938-4607
+SSN: 221-21-6146
+
+Address: 9915 Oak Ave
+New York, CA
+
+Date of Birth: 11-27-1966
+
+Amount Due: $5182

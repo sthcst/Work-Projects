@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Williams",
+    "email": "kenneth.williams2577@company.com",
+    "phone": "330-405-5559",
+    "ssn": "512 29 7605",
+    "dob": "8/2/1960",
+    "address": "704 Pine St",
+    "city": "San Diego",
+    "state": "PA"
+  }
+}

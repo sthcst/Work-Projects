@@ -1,0 +1,14 @@
+INVOICE 259418
+
+Bill To:
+Name: James Miller
+Email: james.miller6972@example.com
+Phone: +1 531-407-9208
+SSN: 626-06-6991
+
+Address: 8366 East Ln
+San Diego, CO
+
+Date of Birth: 25/01/1963
+
+Amount Due: $8667

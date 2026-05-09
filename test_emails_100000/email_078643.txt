@@ -1,0 +1,9 @@
+contact:
+  name: David Delgado
+  email: david.delgado7402@gmail.com
+  phone: 642 318 7455
+  ssn: 857779828
+  dob: 12/06/2005
+  address: 9259 Spring Court
+  city: Houston
+  state: CO

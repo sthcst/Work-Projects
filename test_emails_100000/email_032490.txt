@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Smith
+  email: lauren.smith4690@gmail.com
+  phone: 755-367-7669
+  ssn: 205997138
+  dob: 21/04/1955
+  address: 8372 Second Ln
+  city: Austin
+  state: TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Jackson",
+    "email": "emma.jackson198@gmail.com",
+    "phone": "(251) 746-7367",
+    "ssn": "720-83-3265",
+    "dob": "06/23/1975",
+    "address": "9014 Spring Ln",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

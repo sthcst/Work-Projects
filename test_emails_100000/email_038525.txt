@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Morgan,katherine.morgan2503@business.net,920-665-3188,774115949,08/10/2001,"4849 South Dr",New York,PA

@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Robinson
+  email: stephanie.robinson6975@mail.com
+  phone: +1 738-688-7856
+  ssn: 413 56 9010
+  dob: 16/02/1986
+  address: 9986 Cedar St
+  city: San Diego
+  state: MA

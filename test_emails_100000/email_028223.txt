@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Sanchez",
+    "email": "christine.sanchez6385@yahoo.com",
+    "phone": "(847) 443-9983",
+    "ssn": "842-86-1650",
+    "dob": "04/28/1964",
+    "address": "3193 Pine Court",
+    "city": "Jacksonville",
+    "state": "WI"
+  }
+}

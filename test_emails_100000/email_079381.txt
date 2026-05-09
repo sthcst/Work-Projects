@@ -1,0 +1,9 @@
+contact:
+  name: Edward Carter
+  email: edward.carter7813@gmail.com
+  phone: +1 478-994-4641
+  ssn: 958-98-2244
+  dob: 12/05/1961
+  address: 3286 South Ave
+  city: Jacksonville
+  state: DC

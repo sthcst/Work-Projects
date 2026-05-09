@@ -1,0 +1,14 @@
+INVOICE 311500
+
+Bill To:
+Name: Joseph Taylor
+Email: joseph.taylor6729@work.org
+Phone: (804) 875-3849
+SSN: 763-30-2315
+
+Address: 3631 West Court
+San Jose, OH
+
+Date of Birth: 8/13/1962
+
+Amount Due: $5812

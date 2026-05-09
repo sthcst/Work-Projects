@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Moore,emily.moore2884@business.net,856 359 8131,964-73-4573,07-13-1970,"7430 West Ln",Seattle,DC

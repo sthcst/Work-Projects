@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Phillips,emily.phillips9757@mail.com,452 262 6089,735 92 7877,09/01/1977,"9290 First St",Phoenix,GA

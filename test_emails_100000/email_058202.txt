@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Peterson,jeffrey.peterson8467@gmail.com,(610) 423-2643,841 03 4341,3/12/1972,"8871 Birch St",Los Angeles,MA

@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Morris
+  email: rebecca.morris3068@outlook.com
+  phone: +1 747-274-4071
+  ssn: 192-40-3325
+  dob: 03/03/1984
+  address: 1135 Fifth Blvd
+  city: New York
+  state: MI

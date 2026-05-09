@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Williams,nicholas.williams863@yahoo.com,+1 982-313-5452,694 46 6229,08/12/1991,"760 First Rd",San Diego,WA

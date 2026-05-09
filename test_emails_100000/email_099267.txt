@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Guerrero,ryan.guerrero1949@gmail.com,572-667-3477,355204111,04-14-1984,"1097 Summer Court",Denver,AZ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Alvarado",
+    "email": "lisa.alvarado5182@company.com",
+    "phone": "489 885 2305",
+    "ssn": "119307018",
+    "dob": "13/11/1998",
+    "address": "4424 Second Dr",
+    "city": "Boston",
+    "state": "MI"
+  }
+}

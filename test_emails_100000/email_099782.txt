@@ -1,0 +1,14 @@
+INVOICE 744475
+
+Bill To:
+Name: Katherine Jones
+Email: katherine.jones3292@example.com
+Phone: 481 845 5875
+SSN: 016655354
+
+Address: 1253 Main Dr
+Austin, MA
+
+Date of Birth: 08-09-1983
+
+Amount Due: $5596

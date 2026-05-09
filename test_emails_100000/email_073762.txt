@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Murillo",
+    "email": "lisa.murillo9966@business.net",
+    "phone": "+1 311-568-8677",
+    "ssn": "296129704",
+    "dob": "01/20/1993",
+    "address": "5057 Birch Rd",
+    "city": "Austin",
+    "state": "IL"
+  }
+}

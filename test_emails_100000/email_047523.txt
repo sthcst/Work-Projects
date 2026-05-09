@@ -1,0 +1,14 @@
+INVOICE 672753
+
+Bill To:
+Name: John Thompson
+Email: john.thompson131@example.com
+Phone: 512-943-7131
+SSN: 443 75 7716
+
+Address: 1067 Birch Blvd
+Houston, VA
+
+Date of Birth: 06/12/1972
+
+Amount Due: $9962

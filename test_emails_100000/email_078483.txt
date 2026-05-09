@@ -1,0 +1,14 @@
+INVOICE 817896
+
+Bill To:
+Name: Kenneth Morris
+Email: kenneth.morris678@example.com
+Phone: 401 404 5307
+SSN: 494 23 4022
+
+Address: 8472 Spring St
+Boston, TX
+
+Date of Birth: 8/4/1973
+
+Amount Due: $5273

@@ -1,0 +1,9 @@
+contact:
+  name: Jane Reeves
+  email: jane.reeves8512@company.com
+  phone: 308-674-3796
+  ssn: 581 06 2343
+  dob: 02/20/2000
+  address: 2041 Fifth St
+  city: San Jose
+  state: WI

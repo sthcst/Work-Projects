@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Smith,sarah.smith6327@gmail.com,(942) 265-9759,684-42-5054,07-26-1976,"2499 Fourth Way",Dallas,TX

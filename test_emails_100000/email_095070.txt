@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Martinez",
+    "email": "william.martinez346@outlook.com",
+    "phone": "966 221 2127",
+    "ssn": "667-64-1279",
+    "dob": "1/23/1955",
+    "address": "8117 Birch Way",
+    "city": "Philadelphia",
+    "state": "CO"
+  }
+}

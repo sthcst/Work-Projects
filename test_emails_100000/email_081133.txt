@@ -1,0 +1,14 @@
+INVOICE 517500
+
+Bill To:
+Name: Michael Harris
+Email: michael.harris7166@company.com
+Phone: (601) 793-7358
+SSN: 189-75-1312
+
+Address: 1287 Main Way
+San Antonio, AZ
+
+Date of Birth: 03-28-1990
+
+Amount Due: $8206

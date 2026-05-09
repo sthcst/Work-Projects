@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Thomas",
+    "email": "angela.thomas3704@gmail.com",
+    "phone": "527-948-2326",
+    "ssn": "731905857",
+    "dob": "16/05/1981",
+    "address": "3448 Birch Ln",
+    "city": "San Diego",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 699482
+
+Bill To:
+Name: Andrew Harris
+Email: andrew.harris6713@example.com
+Phone: (537) 481-3923
+SSN: 694-40-8566
+
+Address: 5226 Summer Way
+Boston, CO
+
+Date of Birth: 03/13/1989
+
+Amount Due: $7622

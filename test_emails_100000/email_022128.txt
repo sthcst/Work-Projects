@@ -1,0 +1,14 @@
+INVOICE 336684
+
+Bill To:
+Name: Edward Bell
+Email: edward.bell340@business.net
+Phone: 519 451 2097
+SSN: 063945696
+
+Address: 7764 Park Ave
+Chicago, CA
+
+Date of Birth: 11/18/2002
+
+Amount Due: $5402

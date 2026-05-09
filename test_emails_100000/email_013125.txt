@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Jones",
+    "email": "anna.jones5723@example.com",
+    "phone": "+1 327-909-8367",
+    "ssn": "014865739",
+    "dob": "09-22-1954",
+    "address": "3165 South Court",
+    "city": "Denver",
+    "state": "NJ"
+  }
+}

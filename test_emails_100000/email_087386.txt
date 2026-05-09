@@ -1,0 +1,14 @@
+INVOICE 125346
+
+Bill To:
+Name: Joseph Lopez
+Email: joseph.lopez4533@yahoo.com
+Phone: (593) 911-4205
+SSN: 568495565
+
+Address: 7783 Maple Court
+Austin, CO
+
+Date of Birth: 07/24/1972
+
+Amount Due: $3343

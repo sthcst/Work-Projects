@@ -1,0 +1,14 @@
+INVOICE 461032
+
+Bill To:
+Name: James Reed
+Email: james.reed1743@outlook.com
+Phone: (221) 210-6023
+SSN: 800206560
+
+Address: 5468 West Rd
+Denver, DC
+
+Date of Birth: 23/02/1961
+
+Amount Due: $3511

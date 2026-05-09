@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Martinez",
+    "email": "jeffrey.martinez5260@business.net",
+    "phone": "458-493-9530",
+    "ssn": "920 59 1442",
+    "dob": "01-13-1990",
+    "address": "3624 Main Rd",
+    "city": "New York",
+    "state": "WI"
+  }
+}

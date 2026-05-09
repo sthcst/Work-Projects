@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Reed",
+    "email": "paul.reed3792@gmail.com",
+    "phone": "967 483 5126",
+    "ssn": "923 42 6006",
+    "dob": "02-16-2004",
+    "address": "7913 Spring Ln",
+    "city": "Houston",
+    "state": "MO"
+  }
+}

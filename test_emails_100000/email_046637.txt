@@ -1,0 +1,14 @@
+INVOICE 124497
+
+Bill To:
+Name: Brian Edwards
+Email: brian.edwards808@gmail.com
+Phone: 807-793-3430
+SSN: 210 80 1126
+
+Address: 1707 West Rd
+Dallas, MD
+
+Date of Birth: 05/15/1958
+
+Amount Due: $916

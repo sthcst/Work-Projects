@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Romero",
+    "email": "ronald.romero5224@example.com",
+    "phone": "+1 405-397-1753",
+    "ssn": "343 67 9282",
+    "dob": "02-28-1992",
+    "address": "8377 Cedar Blvd",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

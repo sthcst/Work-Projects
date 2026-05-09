@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Rogers,gary.rogers7957@mail.com,(548) 307-2649,167 50 7101,7/21/1950,"700 Park Blvd",Seattle,MA

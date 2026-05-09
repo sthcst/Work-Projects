@@ -1,0 +1,9 @@
+contact:
+  name: Paul Delgado
+  email: paul.delgado2361@gmail.com
+  phone: 881-324-9537
+  ssn: 460 37 1885
+  dob: 25/01/2005
+  address: 3244 East Court
+  city: Chicago
+  state: CA

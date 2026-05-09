@@ -1,0 +1,14 @@
+INVOICE 123669
+
+Bill To:
+Name: Ryan Gomez
+Email: ryan.gomez8906@gmail.com
+Phone: 321 387 8610
+SSN: 200-88-7230
+
+Address: 8706 Pine Court
+Los Angeles, WA
+
+Date of Birth: 06-20-1951
+
+Amount Due: $9424

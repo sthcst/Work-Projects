@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Peterson,angela.peterson9049@gmail.com,534 683 9011,407 94 7872,02/10/1993,"4750 North Dr",New York,AZ

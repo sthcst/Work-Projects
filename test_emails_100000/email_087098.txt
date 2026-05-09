@@ -1,0 +1,9 @@
+contact:
+  name: Edward Rogers
+  email: edward.rogers3376@yahoo.com
+  phone: 301 348 4480
+  ssn: 183-18-2167
+  dob: 27/04/1951
+  address: 9671 Oak Rd
+  city: Phoenix
+  state: WA

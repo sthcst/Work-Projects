@@ -1,0 +1,9 @@
+contact:
+  name: Emily Gomez
+  email: emily.gomez572@outlook.com
+  phone: 913 327 8045
+  ssn: 301-64-4205
+  dob: 18/03/1962
+  address: 2414 Sixth Way
+  city: Denver
+  state: CA

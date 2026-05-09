@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Rogers",
+    "email": "donald.rogers5210@company.com",
+    "phone": "+1 242-834-9784",
+    "ssn": "882831485",
+    "dob": "12-17-1971",
+    "address": "831 East Dr",
+    "city": "Seattle",
+    "state": "IL"
+  }
+}

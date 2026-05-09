@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Lewis,jeffrey.lewis5913@gmail.com,(534) 339-5424,020-70-6664,06/17/1980,"3478 Main Way",Boston,TX

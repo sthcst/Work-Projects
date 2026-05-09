@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Reyes",
+    "email": "joshua.reyes4983@gmail.com",
+    "phone": "317-986-5516",
+    "ssn": "923-76-2287",
+    "dob": "04-16-1953",
+    "address": "7643 Cedar Way",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

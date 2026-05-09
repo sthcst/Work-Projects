@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Wilson",
+    "email": "john.wilson3424@outlook.com",
+    "phone": "+1 792-236-8431",
+    "ssn": "344577621",
+    "dob": "24/09/2003",
+    "address": "6500 North Court",
+    "city": "Dallas",
+    "state": "MA"
+  }
+}

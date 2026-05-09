@@ -1,0 +1,14 @@
+INVOICE 209962
+
+Bill To:
+Name: Edward Jones
+Email: edward.jones2875@mail.com
+Phone: +1 670-327-4168
+SSN: 043736882
+
+Address: 898 Sixth Ln
+New York, TX
+
+Date of Birth: 11/16/1970
+
+Amount Due: $8428

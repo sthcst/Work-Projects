@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Williams",
+    "email": "samantha.williams26@gmail.com",
+    "phone": "271 628 6892",
+    "ssn": "915 62 4432",
+    "dob": "03-11-1953",
+    "address": "2979 Spring St",
+    "city": "Houston",
+    "state": "NC"
+  }
+}

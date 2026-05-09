@@ -1,0 +1,9 @@
+contact:
+  name: Daniel White
+  email: daniel.white8322@company.com
+  phone: (969) 431-5235
+  ssn: 461 21 2809
+  dob: 4/10/1985
+  address: 9529 South Dr
+  city: Phoenix
+  state: IL

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Ramirez,kathleen.ramirez1398@gmail.com,702 394 8540,281-98-9704,01/07/1992,"4603 Fifth Blvd",Phoenix,CA

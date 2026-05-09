@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Taylor
+  email: joseph.taylor5764@example.com
+  phone: (912) 332-4077
+  ssn: 526 47 5712
+  dob: 27/03/1994
+  address: 7289 Main Way
+  city: Los Angeles
+  state: MA

@@ -1,0 +1,14 @@
+INVOICE 142467
+
+Bill To:
+Name: Steven Rogers
+Email: steven.rogers2127@example.com
+Phone: 231-373-9095
+SSN: 705-41-9574
+
+Address: 692 Pine Ave
+San Jose, MD
+
+Date of Birth: 10/8/2002
+
+Amount Due: $9176

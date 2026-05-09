@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Stewart",
+    "email": "kathleen.stewart8640@yahoo.com",
+    "phone": "(489) 400-1288",
+    "ssn": "833-40-4270",
+    "dob": "02/12/1968",
+    "address": "331 Cedar St",
+    "city": "Los Angeles",
+    "state": "MD"
+  }
+}

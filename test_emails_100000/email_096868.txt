@@ -1,0 +1,9 @@
+contact:
+  name: David Davis
+  email: david.davis5864@company.com
+  phone: 912 449 6825
+  ssn: 412617141
+  dob: 05/07/2000
+  address: 9474 Maple Way
+  city: Boston
+  state: WI

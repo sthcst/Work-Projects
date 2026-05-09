@@ -1,0 +1,9 @@
+contact:
+  name: Emma White
+  email: emma.white4486@work.org
+  phone: 291 779 8288
+  ssn: 495 39 9779
+  dob: 24/11/1984
+  address: 954 Fourth Court
+  city: San Antonio
+  state: CA

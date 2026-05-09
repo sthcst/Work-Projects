@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Moore,katherine.moore890@yahoo.com,+1 668-881-5845,274-83-9355,10-05-1963,"5968 Main Dr",Los Angeles,PA

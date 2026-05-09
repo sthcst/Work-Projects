@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Stewart
+  email: amanda.stewart6860@business.net
+  phone: (893) 670-1629
+  ssn: 188-84-7733
+  dob: 02/09/1962
+  address: 4877 First Blvd
+  city: San Diego
+  state: MO

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Carter",
+    "email": "kevin.carter9340@example.com",
+    "phone": "+1 533-224-3100",
+    "ssn": "289-66-7507",
+    "dob": "07/12/1950",
+    "address": "4113 First Court",
+    "city": "Denver",
+    "state": "WI"
+  }
+}

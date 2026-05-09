@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Bell",
+    "email": "robert.bell1981@outlook.com",
+    "phone": "530-381-1862",
+    "ssn": "079 47 3298",
+    "dob": "01/07/1993",
+    "address": "2538 Fifth Ave",
+    "city": "Philadelphia",
+    "state": "CO"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Sanchez
+  email: shirley.sanchez2435@company.com
+  phone: 851-907-5434
+  ssn: 026-78-7700
+  dob: 26/11/1992
+  address: 6340 Oak Ave
+  city: Denver
+  state: OH

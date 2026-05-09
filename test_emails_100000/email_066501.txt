@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Reed,nicholas.reed7328@work.org,861 441 4190,377 81 3177,10/02/1975,"6375 Maple Court",San Antonio,MA

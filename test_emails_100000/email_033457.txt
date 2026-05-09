@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Davis,ronald.davis7137@example.com,607 782 3415,148 76 3653,01/20/1952,"6478 West St",San Diego,WA

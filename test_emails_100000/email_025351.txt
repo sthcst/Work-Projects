@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Morris",
+    "email": "anthony.morris8065@outlook.com",
+    "phone": "514 738 7788",
+    "ssn": "403 95 8814",
+    "dob": "03-19-1986",
+    "address": "6163 Fifth Court",
+    "city": "Philadelphia",
+    "state": "MO"
+  }
+}

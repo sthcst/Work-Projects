@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Collins
+  email: samantha.collins1204@company.com
+  phone: 862-758-8082
+  ssn: 844399492
+  dob: 02-08-2005
+  address: 8595 Third Rd
+  city: San Antonio
+  state: NY

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Collins",
+    "email": "kimberly.collins3175@gmail.com",
+    "phone": "+1 571-293-5903",
+    "ssn": "815823523",
+    "dob": "02/12/1990",
+    "address": "7488 Fifth Way",
+    "city": "Denver",
+    "state": "MA"
+  }
+}

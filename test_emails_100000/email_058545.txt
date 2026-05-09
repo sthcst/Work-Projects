@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Walker,donald.walker1979@yahoo.com,596 208 6967,168-51-7311,12/4/1957,"9501 North Dr",Austin,FL

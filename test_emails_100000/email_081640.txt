@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Lopez
+  email: ashley.lopez2990@company.com
+  phone: (945) 520-7192
+  ssn: 411713704
+  dob: 21/04/1984
+  address: 9453 Third Ln
+  city: Washington
+  state: MA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Ramirez,anthony.ramirez375@business.net,+1 438-456-3597,093062169,3/14/1974,"2467 East Ave",Austin,PA

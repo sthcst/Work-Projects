@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Dominguez,kathleen.dominguez7933@business.net,(914) 637-1073,872-56-1392,01/01/1982,"3106 West Ln",San Antonio,VA

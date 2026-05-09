@@ -1,0 +1,14 @@
+INVOICE 978798
+
+Bill To:
+Name: Kenneth Ortiz
+Email: kenneth.ortiz1600@example.com
+Phone: (210) 502-6584
+SSN: 497-12-3785
+
+Address: 2757 North Court
+Jacksonville, WA
+
+Date of Birth: 14/07/1994
+
+Amount Due: $552

@@ -1,0 +1,14 @@
+INVOICE 940202
+
+Bill To:
+Name: Robert Nelson
+Email: robert.nelson3112@yahoo.com
+Phone: 694-688-5048
+SSN: 290983258
+
+Address: 8529 Birch Dr
+Philadelphia, TX
+
+Date of Birth: 2/11/1976
+
+Amount Due: $6132

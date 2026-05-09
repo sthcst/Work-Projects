@@ -1,0 +1,14 @@
+INVOICE 712228
+
+Bill To:
+Name: Jennifer Hernandez
+Email: jennifer.hernandez7628@company.com
+Phone: 505 356 9223
+SSN: 142992059
+
+Address: 2833 Oak Way
+Denver, TN
+
+Date of Birth: 06-08-1994
+
+Amount Due: $4483

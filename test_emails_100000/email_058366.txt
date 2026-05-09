@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Flores
+  email: lauren.flores6217@outlook.com
+  phone: +1 907-315-1974
+  ssn: 914577218
+  dob: 2/14/1996
+  address: 4213 Cedar Ave
+  city: San Diego
+  state: CA

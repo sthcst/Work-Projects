@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Jackson,jeffrey.jackson3068@mail.com,946 745 5425,476164523,04/01/1966,"6452 Maple Court",Philadelphia,CA

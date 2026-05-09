@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Morgan",
+    "email": "lauren.morgan9635@gmail.com",
+    "phone": "722 848 7017",
+    "ssn": "647-71-6987",
+    "dob": "05/02/1966",
+    "address": "683 Summer Blvd",
+    "city": "Philadelphia",
+    "state": "MA"
+  }
+}

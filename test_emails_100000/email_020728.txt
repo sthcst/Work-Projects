@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Guerrero",
+    "email": "richard.guerrero2753@mail.com",
+    "phone": "+1 793-929-3461",
+    "ssn": "422325977",
+    "dob": "17/02/2004",
+    "address": "1587 Elm St",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

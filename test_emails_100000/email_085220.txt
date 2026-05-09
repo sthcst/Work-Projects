@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Bell",
+    "email": "angela.bell7813@mail.com",
+    "phone": "(546) 375-7708",
+    "ssn": "520 88 7766",
+    "dob": "24/08/1994",
+    "address": "9991 Oak Court",
+    "city": "Philadelphia",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 612827
+
+Bill To:
+Name: Ronald Davis
+Email: ronald.davis3596@company.com
+Phone: (628) 313-5544
+SSN: 153564439
+
+Address: 1024 Maple St
+Phoenix, TN
+
+Date of Birth: 12-28-1980
+
+Amount Due: $3851

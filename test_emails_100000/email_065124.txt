@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Reyes,amanda.reyes1899@yahoo.com,+1 664-990-7513,793 96 2987,04/05/2001,"2852 Summer Way",San Diego,PA

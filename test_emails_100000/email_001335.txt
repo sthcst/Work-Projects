@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Morgan
+  email: brenda.morgan1204@business.net
+  phone: 702 889 2528
+  ssn: 173152931
+  dob: 07/02/2003
+  address: 8890 Elm Ave
+  city: Phoenix
+  state: MO

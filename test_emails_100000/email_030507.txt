@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Matthew Ortiz,matthew.ortiz8685@outlook.com,861 384 6120,002-66-7566,23/09/1975,"5946 Third Rd",San Jose,AZ

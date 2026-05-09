@@ -1,0 +1,14 @@
+INVOICE 390469
+
+Bill To:
+Name: William Lopez
+Email: william.lopez9081@mail.com
+Phone: 952 398 5838
+SSN: 260 73 7292
+
+Address: 7647 East Court
+Los Angeles, OH
+
+Date of Birth: 07/23/2003
+
+Amount Due: $5899

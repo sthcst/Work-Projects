@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Williams",
+    "email": "christine.williams5172@work.org",
+    "phone": "+1 801-493-6129",
+    "ssn": "400847469",
+    "dob": "11/1/1977",
+    "address": "6519 Main Rd",
+    "city": "Dallas",
+    "state": "WI"
+  }
+}

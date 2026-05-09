@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Campbell",
+    "email": "jacob.campbell6533@company.com",
+    "phone": "237-750-4086",
+    "ssn": "307471112",
+    "dob": "08/02/2000",
+    "address": "5135 Birch St",
+    "city": "New York",
+    "state": "DC"
+  }
+}

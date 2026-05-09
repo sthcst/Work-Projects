@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Robinson",
+    "email": "george.robinson5803@company.com",
+    "phone": "(838) 534-8082",
+    "ssn": "953-84-5720",
+    "dob": "4/5/1987",
+    "address": "3869 Main Dr",
+    "city": "Chicago",
+    "state": "GA"
+  }
+}

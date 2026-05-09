@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Guerrero,joseph.guerrero2061@outlook.com,+1 947-322-9505,730932538,11-16-1979,"3737 Main Blvd",Phoenix,VA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Moore",
+    "email": "jessica.moore4727@example.com",
+    "phone": "+1 852-247-4261",
+    "ssn": "100 21 1194",
+    "dob": "13/11/1953",
+    "address": "1612 Second Ln",
+    "city": "Jacksonville",
+    "state": "NJ"
+  }
+}

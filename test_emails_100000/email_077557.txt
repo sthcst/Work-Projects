@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Murillo",
+    "email": "nicole.murillo1622@example.com",
+    "phone": "344-243-2259",
+    "ssn": "290142819",
+    "dob": "02/02/1997",
+    "address": "4469 First Ln",
+    "city": "New York",
+    "state": "AZ"
+  }
+}

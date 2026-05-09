@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Anderson",
+    "email": "richard.anderson3711@yahoo.com",
+    "phone": "(709) 656-5047",
+    "ssn": "120-70-6866",
+    "dob": "10/11/1995",
+    "address": "5773 Main Ln",
+    "city": "New York",
+    "state": "AZ"
+  }
+}

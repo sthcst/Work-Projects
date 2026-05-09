@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Garcia",
+    "email": "matthew.garcia7722@work.org",
+    "phone": "+1 755-403-4422",
+    "ssn": "886 15 5621",
+    "dob": "4/25/1964",
+    "address": "567 East Court",
+    "city": "Boston",
+    "state": "NC"
+  }
+}

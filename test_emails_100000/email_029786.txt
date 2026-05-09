@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Morgan,shirley.morgan3344@mail.com,(453) 600-2072,541676045,03-24-1980,"7897 Cedar Ave",Chicago,MA

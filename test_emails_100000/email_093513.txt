@@ -1,0 +1,14 @@
+INVOICE 622199
+
+Bill To:
+Name: Angela Williams
+Email: angela.williams1475@company.com
+Phone: (423) 687-2105
+SSN: 956 61 4853
+
+Address: 7889 Second Dr
+Jacksonville, TX
+
+Date of Birth: 26/05/1986
+
+Amount Due: $9915

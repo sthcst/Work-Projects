@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Peterson,shirley.peterson2289@mail.com,(574) 413-7409,045 27 9267,6/12/1974,"5274 Elm Blvd",Jacksonville,MA

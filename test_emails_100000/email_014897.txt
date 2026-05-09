@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Rogers",
+    "email": "paul.rogers2146@yahoo.com",
+    "phone": "290-485-9038",
+    "ssn": "804728213",
+    "dob": "10/06/1976",
+    "address": "7160 West Rd",
+    "city": "Dallas",
+    "state": "WA"
+  }
+}

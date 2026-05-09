@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Clark,kimberly.clark1466@company.com,544 325 1326,616066412,5/2/1997,"8817 North St",San Antonio,FL

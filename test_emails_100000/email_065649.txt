@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Edwards
+  email: pamela.edwards6622@gmail.com
+  phone: 364 265 9831
+  ssn: 038 19 1981
+  dob: 08/27/1994
+  address: 3312 Main Blvd
+  city: Los Angeles
+  state: MA

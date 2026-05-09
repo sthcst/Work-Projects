@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Stewart,rachel.stewart4178@company.com,818 339 5206,959 97 8884,27/02/2003,"2100 South Dr",Dallas,IL

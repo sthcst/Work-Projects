@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Jackson,angela.jackson6052@business.net,(963) 833-7578,259462904,07/21/2002,"9298 North St",Boston,FL

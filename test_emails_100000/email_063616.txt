@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Gonzalez
+  email: jacob.gonzalez8196@mail.com
+  phone: 977-670-3278
+  ssn: 654 87 8358
+  dob: 18/11/1970
+  address: 5943 Third Dr
+  city: Boston
+  state: CA

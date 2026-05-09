@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Murillo,cynthia.murillo2404@business.net,(429) 879-1482,506762165,12/19/1961,"9645 South Way",Austin,WA

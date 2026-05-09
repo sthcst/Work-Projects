@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Hernandez,william.hernandez6294@company.com,+1 299-768-1188,964 19 1531,09/02/1968,"2050 Second St",Los Angeles,MD

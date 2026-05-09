@@ -1,0 +1,9 @@
+contact:
+  name: Jane Bell
+  email: jane.bell2722@example.com
+  phone: (639) 888-4970
+  ssn: 139-07-2760
+  dob: 3/19/1952
+  address: 9716 Fifth Ave
+  city: Chicago
+  state: TX

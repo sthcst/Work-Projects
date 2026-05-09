@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Rodriguez",
+    "email": "anna.rodriguez5477@business.net",
+    "phone": "(536) 372-5691",
+    "ssn": "904763849",
+    "dob": "12/15/2004",
+    "address": "2287 East Rd",
+    "city": "Austin",
+    "state": "NJ"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Dominguez",
+    "email": "david.dominguez3420@example.com",
+    "phone": "469-898-9212",
+    "ssn": "881-11-9280",
+    "dob": "10-18-1994",
+    "address": "3109 First Dr",
+    "city": "San Jose",
+    "state": "FL"
+  }
+}

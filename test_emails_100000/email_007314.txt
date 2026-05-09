@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Thomas,ashley.thomas6990@mail.com,(522) 517-2646,112793449,9/5/1985,"2079 Pine Rd",Phoenix,MA

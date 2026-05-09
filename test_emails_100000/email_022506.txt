@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Williams",
+    "email": "stephanie.williams4913@business.net",
+    "phone": "(404) 769-5262",
+    "ssn": "362717635",
+    "dob": "10/18/2000",
+    "address": "4492 Third Dr",
+    "city": "Seattle",
+    "state": "NJ"
+  }
+}

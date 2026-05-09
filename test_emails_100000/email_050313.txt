@@ -1,0 +1,9 @@
+contact:
+  name: Richard Jackson
+  email: richard.jackson1905@example.com
+  phone: (639) 879-1828
+  ssn: 013 95 3957
+  dob: 13/08/1979
+  address: 995 Fifth Ave
+  city: Philadelphia
+  state: NY

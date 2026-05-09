@@ -1,0 +1,9 @@
+contact:
+  name: Jason Thomas
+  email: jason.thomas1491@mail.com
+  phone: 373-975-7474
+  ssn: 080-10-1686
+  dob: 01-03-1976
+  address: 5689 Fifth Ave
+  city: Denver
+  state: GA

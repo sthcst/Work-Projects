@@ -1,0 +1,9 @@
+contact:
+  name: Charles Phillips
+  email: charles.phillips7805@outlook.com
+  phone: (318) 282-2469
+  ssn: 702 79 3907
+  dob: 06/06/2003
+  address: 5507 Third Ave
+  city: Dallas
+  state: OH

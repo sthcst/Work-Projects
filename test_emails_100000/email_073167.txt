@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Roberts,samantha.roberts611@yahoo.com,326-427-4005,533 93 2615,09-01-2002,"199 Pine Ave",San Diego,VA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Serrano",
+    "email": "joshua.serrano5587@outlook.com",
+    "phone": "246-776-5951",
+    "ssn": "124-38-3858",
+    "dob": "11/5/1973",
+    "address": "7376 Fifth Way",
+    "city": "Houston",
+    "state": "CA"
+  }
+}

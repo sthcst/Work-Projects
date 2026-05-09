@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Martin",
+    "email": "michael.martin4362@gmail.com",
+    "phone": "796-549-2999",
+    "ssn": "331662926",
+    "dob": "14/05/1980",
+    "address": "5235 Oak Way",
+    "city": "San Antonio",
+    "state": "DC"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Steven Campbell
+  email: steven.campbell8905@mail.com
+  phone: 915-386-7995
+  ssn: 700294179
+  dob: 04/06/1951
+  address: 2337 Birch Court
+  city: San Jose
+  state: CA

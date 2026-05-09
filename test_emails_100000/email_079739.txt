@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Gonzalez",
+    "email": "rachel.gonzalez9962@yahoo.com",
+    "phone": "+1 558-575-8173",
+    "ssn": "831 19 4706",
+    "dob": "02-26-1951",
+    "address": "7771 Birch Court",
+    "city": "San Antonio",
+    "state": "MA"
+  }
+}

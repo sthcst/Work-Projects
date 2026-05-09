@@ -1,0 +1,9 @@
+contact:
+  name: Mark Morris
+  email: mark.morris7266@example.com
+  phone: 448 940 8116
+  ssn: 699-55-7431
+  dob: 09/06/1980
+  address: 2485 First Rd
+  city: Austin
+  state: TX

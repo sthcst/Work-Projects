@@ -1,0 +1,14 @@
+INVOICE 942007
+
+Bill To:
+Name: Maria Garcia
+Email: maria.garcia363@work.org
+Phone: (577) 922-5681
+SSN: 813105463
+
+Address: 1668 First St
+New York, CA
+
+Date of Birth: 12-17-1955
+
+Amount Due: $5914

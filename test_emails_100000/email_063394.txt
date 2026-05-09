@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Jackson",
+    "email": "matthew.jackson6580@company.com",
+    "phone": "743-596-7191",
+    "ssn": "831704718",
+    "dob": "07/02/2003",
+    "address": "3162 Maple Rd",
+    "city": "Philadelphia",
+    "state": "FL"
+  }
+}

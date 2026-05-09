@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Morris,donald.morris947@gmail.com,+1 763-479-3991,584562619,10-19-1952,"7776 Spring Ave",Los Angeles,NY

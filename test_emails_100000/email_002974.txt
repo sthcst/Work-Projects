@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Walker",
+    "email": "sarah.walker2836@work.org",
+    "phone": "835 809 2406",
+    "ssn": "305-30-9921",
+    "dob": "10-15-1993",
+    "address": "24 North Ln",
+    "city": "New York",
+    "state": "GA"
+  }
+}

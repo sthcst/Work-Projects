@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Lewis",
+    "email": "john.lewis2332@work.org",
+    "phone": "+1 309-545-1107",
+    "ssn": "579 45 1283",
+    "dob": "08/22/1992",
+    "address": "8302 First Blvd",
+    "city": "Washington",
+    "state": "WA"
+  }
+}

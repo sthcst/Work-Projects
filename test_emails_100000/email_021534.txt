@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Martin",
+    "email": "matthew.martin5086@company.com",
+    "phone": "560-936-1442",
+    "ssn": "311559609",
+    "dob": "04-15-1986",
+    "address": "3050 Main Dr",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

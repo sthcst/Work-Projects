@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Smith",
+    "email": "jane.smith855@company.com",
+    "phone": "(968) 791-9309",
+    "ssn": "938 80 3689",
+    "dob": "6/6/1960",
+    "address": "7457 Main St",
+    "city": "Houston",
+    "state": "OH"
+  }
+}

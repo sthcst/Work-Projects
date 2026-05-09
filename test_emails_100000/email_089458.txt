@@ -1,0 +1,12 @@
+SUPPORT TICKET #31324
+
+Customer: Amanda Reed
+Email: amanda.reed8481@example.com
+Phone: 707-713-5389
+Account: 271234733
+
+Issue Description: Technical problem reported
+DOB on file: 06/01/1975
+Address: 1760 First Blvd, Chicago, NJ
+
+Status: OPEN

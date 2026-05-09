@@ -1,0 +1,9 @@
+contact:
+  name: Anna Dominguez
+  email: anna.dominguez7618@mail.com
+  phone: 242-217-6251
+  ssn: 791179619
+  dob: 01/28/1970
+  address: 7511 South Court
+  city: Boston
+  state: PA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Evans",
+    "email": "angela.evans8187@work.org",
+    "phone": "+1 569-824-7719",
+    "ssn": "318412768",
+    "dob": "09/04/1960",
+    "address": "1042 Maple Way",
+    "city": "San Jose",
+    "state": "FL"
+  }
+}

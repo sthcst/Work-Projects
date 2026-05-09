@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Sanchez",
+    "email": "steven.sanchez7482@gmail.com",
+    "phone": "295 764 7518",
+    "ssn": "277 09 5437",
+    "dob": "09-13-1954",
+    "address": "6199 Fifth Dr",
+    "city": "San Jose",
+    "state": "MD"
+  }
+}

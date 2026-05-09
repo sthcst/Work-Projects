@@ -1,0 +1,9 @@
+contact:
+  name: Gary Young
+  email: gary.young7363@yahoo.com
+  phone: +1 502-764-3878
+  ssn: 680 55 6774
+  dob: 17/01/1957
+  address: 1644 Park Blvd
+  city: Phoenix
+  state: CA

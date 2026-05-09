@@ -1,0 +1,9 @@
+contact:
+  name: Paul Thompson
+  email: paul.thompson9453@company.com
+  phone: 876-566-5024
+  ssn: 933-22-2803
+  dob: 04/01/1969
+  address: 8738 Second Rd
+  city: San Diego
+  state: MA

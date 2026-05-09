@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Ramirez",
+    "email": "nicholas.ramirez9360@gmail.com",
+    "phone": "555 359 4272",
+    "ssn": "865883438",
+    "dob": "1/27/1966",
+    "address": "6706 Cedar Ave",
+    "city": "Houston",
+    "state": "VA"
+  }
+}

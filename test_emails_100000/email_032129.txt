@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Rodriguez",
+    "email": "james.rodriguez7987@example.com",
+    "phone": "753-447-3998",
+    "ssn": "904-06-6554",
+    "dob": "7/22/1969",
+    "address": "4958 Birch Ln",
+    "city": "Los Angeles",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Peterson,daniel.peterson7055@outlook.com,986 813 5403,014-45-6954,06/13/1973,"987 Third Dr",San Diego,TX

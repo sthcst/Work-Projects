@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Williams",
+    "email": "ronald.williams8611@outlook.com",
+    "phone": "(382) 651-2913",
+    "ssn": "353 61 5657",
+    "dob": "01-07-1983",
+    "address": "2303 Oak St",
+    "city": "Houston",
+    "state": "CA"
+  }
+}

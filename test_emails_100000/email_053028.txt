@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Nelson",
+    "email": "david.nelson8126@work.org",
+    "phone": "465 427 4796",
+    "ssn": "977748379",
+    "dob": "04-05-2004",
+    "address": "4710 Main Rd",
+    "city": "Washington",
+    "state": "WI"
+  }
+}

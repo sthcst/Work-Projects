@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Miller,mark.miller8557@business.net,(379) 641-1835,328 14 9138,14/09/1993,"71 East Dr",Houston,NY

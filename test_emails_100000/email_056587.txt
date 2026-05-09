@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Davis,george.davis8653@work.org,+1 624-731-5797,763-29-8296,5/17/1969,"9548 Elm Rd",Dallas,MA

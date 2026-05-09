@@ -1,0 +1,14 @@
+INVOICE 163529
+
+Bill To:
+Name: Charles Miller
+Email: charles.miller7678@company.com
+Phone: 361 794 9904
+SSN: 701 54 2867
+
+Address: 4112 Fifth Way
+Los Angeles, OH
+
+Date of Birth: 6/24/1959
+
+Amount Due: $3124

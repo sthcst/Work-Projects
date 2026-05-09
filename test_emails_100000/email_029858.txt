@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Jackson",
+    "email": "edward.jackson6530@business.net",
+    "phone": "(328) 201-7822",
+    "ssn": "442 86 1071",
+    "dob": "8/16/1977",
+    "address": "5128 Cedar Ln",
+    "city": "New York",
+    "state": "GA"
+  }
+}

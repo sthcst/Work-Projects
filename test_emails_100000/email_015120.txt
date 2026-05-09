@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Thompson,william.thompson7130@gmail.com,283-660-2839,620153768,09-23-1981,"809 Sixth Ln",Seattle,DC

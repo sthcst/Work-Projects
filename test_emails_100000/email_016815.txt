@@ -1,0 +1,14 @@
+INVOICE 506226
+
+Bill To:
+Name: Jason Harris
+Email: jason.harris7188@mail.com
+Phone: +1 675-939-2064
+SSN: 476929880
+
+Address: 1800 Fourth Way
+Chicago, MA
+
+Date of Birth: 11-16-1985
+
+Amount Due: $4520

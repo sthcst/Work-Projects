@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Taylor
+  email: anthony.taylor7300@company.com
+  phone: +1 244-389-8210
+  ssn: 799509490
+  dob: 21/02/1956
+  address: 9806 Summer Court
+  city: Chicago
+  state: TX

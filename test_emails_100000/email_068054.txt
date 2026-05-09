@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Parker",
+    "email": "steven.parker1768@gmail.com",
+    "phone": "+1 479-309-7926",
+    "ssn": "438 30 5655",
+    "dob": "10/11/1964",
+    "address": "9112 Fifth Blvd",
+    "city": "Denver",
+    "state": "MA"
+  }
+}

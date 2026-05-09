@@ -1,0 +1,9 @@
+contact:
+  name: James Roberts
+  email: james.roberts5674@business.net
+  phone: 359-346-7712
+  ssn: 406 81 1654
+  dob: 12-25-1950
+  address: 6446 South Ave
+  city: Washington
+  state: NC

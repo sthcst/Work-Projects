@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Robinson",
+    "email": "charles.robinson7964@yahoo.com",
+    "phone": "352-326-5059",
+    "ssn": "241-25-1748",
+    "dob": "16/08/1970",
+    "address": "2412 Third St",
+    "city": "Washington",
+    "state": "VA"
+  }
+}

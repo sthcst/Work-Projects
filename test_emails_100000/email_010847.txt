@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Williams",
+    "email": "helen.williams6183@example.com",
+    "phone": "(930) 665-1366",
+    "ssn": "868 37 9760",
+    "dob": "18/12/1951",
+    "address": "5867 Pine Ave",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

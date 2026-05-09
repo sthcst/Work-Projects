@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Jackson",
+    "email": "jason.jackson2816@mail.com",
+    "phone": "(454) 681-4706",
+    "ssn": "731245010",
+    "dob": "18/11/2005",
+    "address": "2645 Oak Way",
+    "city": "Boston",
+    "state": "FL"
+  }
+}

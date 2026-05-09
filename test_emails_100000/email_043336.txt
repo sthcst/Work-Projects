@@ -1,0 +1,9 @@
+contact:
+  name: Charles Guerrero
+  email: charles.guerrero2540@company.com
+  phone: 967 969 2951
+  ssn: 699-74-6207
+  dob: 27/07/1963
+  address: 6236 Fifth Way
+  city: Boston
+  state: WA

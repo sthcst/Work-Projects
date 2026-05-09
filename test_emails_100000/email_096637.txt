@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Lee,amanda.lee8292@yahoo.com,969-763-5309,118027727,02-24-1966,"1247 Pine Blvd",Boston,TN

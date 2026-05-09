@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Parker
+  email: kevin.parker2589@example.com
+  phone: 985 946 2026
+  ssn: 810975396
+  dob: 2/23/1998
+  address: 5973 First Dr
+  city: Chicago
+  state: FL

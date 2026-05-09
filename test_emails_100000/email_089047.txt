@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Roberts
+  email: jeffrey.roberts8804@company.com
+  phone: +1 497-820-1573
+  ssn: 926474611
+  dob: 07/11/1964
+  address: 2833 Pine Ave
+  city: Los Angeles
+  state: NY

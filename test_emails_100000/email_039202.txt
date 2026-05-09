@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Morgan,ronald.morgan5690@company.com,960 528 9849,486-21-6467,06-04-1991,"585 Pine Rd",Phoenix,CO

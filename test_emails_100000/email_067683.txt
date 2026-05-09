@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Morgan",
+    "email": "ashley.morgan527@example.com",
+    "phone": "500 936 7871",
+    "ssn": "175974963",
+    "dob": "05/07/1994",
+    "address": "5128 Spring Way",
+    "city": "New York",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Garcia,andrew.garcia1987@yahoo.com,(937) 871-9644,375047060,07/23/1967,"1352 Fifth Court",Boston,CO

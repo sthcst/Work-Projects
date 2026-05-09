@@ -1,0 +1,14 @@
+INVOICE 253618
+
+Bill To:
+Name: Paul Jones
+Email: paul.jones5800@work.org
+Phone: (455) 512-1713
+SSN: 938 37 3268
+
+Address: 117 South Ln
+Denver, AZ
+
+Date of Birth: 08/04/1961
+
+Amount Due: $9324

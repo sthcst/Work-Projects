@@ -1,0 +1,14 @@
+INVOICE 854490
+
+Bill To:
+Name: Amanda Ramirez
+Email: amanda.ramirez528@mail.com
+Phone: 457-769-4003
+SSN: 140 98 5348
+
+Address: 9115 Main Way
+Houston, TX
+
+Date of Birth: 10/10/1960
+
+Amount Due: $2296

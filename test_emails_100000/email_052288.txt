@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Alvarado,steven.alvarado2365@work.org,555-483-7099,680-26-1826,4/27/2002,"7235 Spring Court",Jacksonville,CO

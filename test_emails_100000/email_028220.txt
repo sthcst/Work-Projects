@@ -1,0 +1,14 @@
+INVOICE 901581
+
+Bill To:
+Name: Charles Brown
+Email: charles.brown7581@outlook.com
+Phone: 336-415-7046
+SSN: 665367800
+
+Address: 7608 Spring Dr
+San Jose, MA
+
+Date of Birth: 12/28/2005
+
+Amount Due: $1027

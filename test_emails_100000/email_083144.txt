@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Cooper
+  email: pamela.cooper2251@yahoo.com
+  phone: (545) 757-4042
+  ssn: 545-24-1266
+  dob: 07/02/2001
+  address: 5644 Fifth Court
+  city: Los Angeles
+  state: NC

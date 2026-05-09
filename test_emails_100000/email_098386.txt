@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Rogers",
+    "email": "angela.rogers8592@example.com",
+    "phone": "684 787 7734",
+    "ssn": "557-35-4063",
+    "dob": "16/04/1991",
+    "address": "6736 Elm Rd",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

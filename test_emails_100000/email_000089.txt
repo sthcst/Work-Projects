@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Williams
+  email: nicole.williams3944@company.com
+  phone: 303-808-1550
+  ssn: 458-77-1797
+  dob: 02/12/1975
+  address: 3849 Fourth Ln
+  city: Los Angeles
+  state: AZ

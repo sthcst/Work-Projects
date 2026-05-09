@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Johnson",
+    "email": "christopher.johnson8411@work.org",
+    "phone": "+1 884-706-8010",
+    "ssn": "786 42 6603",
+    "dob": "07/01/1988",
+    "address": "2446 South Rd",
+    "city": "Los Angeles",
+    "state": "WI"
+  }
+}

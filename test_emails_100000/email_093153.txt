@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Carter,kenneth.carter8170@gmail.com,778-640-8607,509 63 7453,06-06-1972,"8897 Main Ln",Houston,CA

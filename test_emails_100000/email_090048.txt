@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Serrano",
+    "email": "james.serrano6386@gmail.com",
+    "phone": "(486) 974-7974",
+    "ssn": "608351678",
+    "dob": "08/01/1961",
+    "address": "8981 Cedar Dr",
+    "city": "Dallas",
+    "state": "MA"
+  }
+}

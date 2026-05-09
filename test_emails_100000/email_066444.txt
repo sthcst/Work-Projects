@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Walker,katherine.walker2424@work.org,(503) 775-9884,935792633,07/24/1973,"9813 First St",Philadelphia,CA

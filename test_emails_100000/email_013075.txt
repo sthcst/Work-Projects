@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Wilson
+  email: anthony.wilson5500@gmail.com
+  phone: 975 382 5538
+  ssn: 685-59-2512
+  dob: 05-26-1989
+  address: 6247 Oak Dr
+  city: Jacksonville
+  state: NJ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Delgado,shirley.delgado1522@gmail.com,(365) 768-3680,189-44-7461,11-19-1955,"8867 Second Dr",Jacksonville,AZ

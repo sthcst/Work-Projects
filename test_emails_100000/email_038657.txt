@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Gomez",
+    "email": "kevin.gomez2809@mail.com",
+    "phone": "821 237 3758",
+    "ssn": "465086328",
+    "dob": "8/21/1986",
+    "address": "1821 First Dr",
+    "city": "Phoenix",
+    "state": "MA"
+  }
+}

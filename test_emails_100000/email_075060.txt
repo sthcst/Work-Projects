@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Flores",
+    "email": "nicholas.flores4188@work.org",
+    "phone": "+1 361-618-3329",
+    "ssn": "185 93 7796",
+    "dob": "12/07/1970",
+    "address": "5170 North Way",
+    "city": "Austin",
+    "state": "FL"
+  }
+}

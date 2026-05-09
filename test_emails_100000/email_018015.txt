@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Martinez,william.martinez5679@company.com,(559) 412-6639,174776495,10/11/1951,"5580 Elm Ln",Austin,TX

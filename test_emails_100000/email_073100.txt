@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Campbell
+  email: anthony.campbell1884@yahoo.com
+  phone: 926-762-7606
+  ssn: 572 43 9802
+  dob: 17/02/1999
+  address: 9500 Birch Ln
+  city: Denver
+  state: AZ

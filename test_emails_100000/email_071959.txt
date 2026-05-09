@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Evans",
+    "email": "michelle.evans3616@yahoo.com",
+    "phone": "684 599 7115",
+    "ssn": "912 85 4649",
+    "dob": "10/09/2000",
+    "address": "2131 Spring Ave",
+    "city": "Phoenix",
+    "state": "PA"
+  }
+}

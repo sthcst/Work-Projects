@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Lee
+  email: samantha.lee5888@business.net
+  phone: (332) 746-2172
+  ssn: 260-16-2170
+  dob: 10/24/1994
+  address: 4353 Sixth St
+  city: Jacksonville
+  state: MA

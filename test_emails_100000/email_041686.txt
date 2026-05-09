@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Rogers",
+    "email": "george.rogers7818@company.com",
+    "phone": "(995) 256-7624",
+    "ssn": "743225860",
+    "dob": "18/09/2002",
+    "address": "7373 Pine Rd",
+    "city": "Los Angeles",
+    "state": "PA"
+  }
+}

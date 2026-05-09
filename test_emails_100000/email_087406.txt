@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Taylor,nicholas.taylor485@outlook.com,901-542-3904,794 54 7899,02-28-1990,"8603 Maple St",Dallas,FL

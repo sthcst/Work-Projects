@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Lopez,paul.lopez4846@example.com,+1 472-596-5994,500 80 7429,9/16/1971,"7602 Park Ave",Chicago,AZ

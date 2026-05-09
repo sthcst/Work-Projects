@@ -1,0 +1,9 @@
+contact:
+  name: George Hernandez
+  email: george.hernandez408@example.com
+  phone: 304-931-8279
+  ssn: 104105664
+  dob: 01/16/1995
+  address: 5701 First St
+  city: Los Angeles
+  state: TX

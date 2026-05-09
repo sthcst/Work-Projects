@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Wilson
+  email: pamela.wilson4516@outlook.com
+  phone: 563-599-1578
+  ssn: 861 53 4437
+  dob: 11/06/1958
+  address: 8211 Park St
+  city: San Diego
+  state: WI

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Jimenez",
+    "email": "nicholas.jimenez4081@outlook.com",
+    "phone": "765 717 3825",
+    "ssn": "201522124",
+    "dob": "02-01-1997",
+    "address": "5896 Sixth Rd",
+    "city": "Chicago",
+    "state": "DC"
+  }
+}

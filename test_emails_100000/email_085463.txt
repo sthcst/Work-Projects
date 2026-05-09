@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Romero
+  email: ryan.romero69@yahoo.com
+  phone: 434 578 7903
+  ssn: 800102676
+  dob: 05-17-1980
+  address: 5933 North Rd
+  city: Denver
+  state: CA

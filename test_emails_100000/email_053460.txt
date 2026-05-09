@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Nunez
+  email: brenda.nunez3840@mail.com
+  phone: (429) 302-3417
+  ssn: 967199075
+  dob: 06/03/2003
+  address: 9990 Cedar St
+  city: Jacksonville
+  state: WI

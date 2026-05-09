@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Wilson,samantha.wilson4031@example.com,671 265 8308,598662542,7/21/1990,"5081 Cedar Court",Jacksonville,MA

@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Delgado
+  email: stephanie.delgado6339@work.org
+  phone: 517 461 9364
+  ssn: 418475167
+  dob: 07/08/1966
+  address: 4617 Oak Way
+  city: Denver
+  state: AZ

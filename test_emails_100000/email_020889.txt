@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Rodriguez
+  email: cynthia.rodriguez2064@gmail.com
+  phone: 821 410 2110
+  ssn: 453-78-2430
+  dob: 16/01/1972
+  address: 703 Fifth Blvd
+  city: Los Angeles
+  state: CO

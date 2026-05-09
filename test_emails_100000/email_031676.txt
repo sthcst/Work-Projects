@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Rogers
+  email: kenneth.rogers4413@business.net
+  phone: 898-235-6812
+  ssn: 832-50-3173
+  dob: 2/27/1981
+  address: 7196 Cedar Way
+  city: Seattle
+  state: MD

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Gomez,robert.gomez7796@company.com,616 834 1634,892502194,12-08-1980,"1442 Third Ln",Chicago,MA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Serrano,anthony.serrano7050@business.net,585 386 1144,810 92 2458,03-18-1988,"733 Second Ln",New York,MA

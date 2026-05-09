@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Thompson",
+    "email": "angela.thompson9600@business.net",
+    "phone": "(806) 747-9670",
+    "ssn": "777892279",
+    "dob": "26/03/1987",
+    "address": "2370 Oak Rd",
+    "city": "Denver",
+    "state": "TN"
+  }
+}

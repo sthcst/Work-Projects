@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Johnson,edward.johnson2349@yahoo.com,+1 629-216-2554,061 39 3451,12/08/1989,"8432 Second Way",Phoenix,TX

@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Smith
+  email: kenneth.smith5679@outlook.com
+  phone: (675) 945-2995
+  ssn: 375-49-7590
+  dob: 13/04/1983
+  address: 4101 Main Blvd
+  city: Houston
+  state: VA

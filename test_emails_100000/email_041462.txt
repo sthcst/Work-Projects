@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Carter",
+    "email": "angela.carter6053@business.net",
+    "phone": "311 847 3421",
+    "ssn": "006 84 3975",
+    "dob": "09-02-1968",
+    "address": "8829 Sixth Ave",
+    "city": "Boston",
+    "state": "MD"
+  }
+}

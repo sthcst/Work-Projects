@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Sanchez
+  email: jennifer.sanchez8677@company.com
+  phone: +1 912-328-4810
+  ssn: 268 94 7977
+  dob: 12-27-2001
+  address: 6028 Fifth St
+  city: San Jose
+  state: TN

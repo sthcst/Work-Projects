@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Wilson,steven.wilson3209@gmail.com,(914) 643-8780,616-42-9455,17/04/1957,"7427 Spring Way",New York,WI

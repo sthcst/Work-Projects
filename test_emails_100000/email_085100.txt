@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Murillo,cynthia.murillo7900@yahoo.com,576-426-2726,604-80-7472,8/12/1968,"7496 West Blvd",Austin,WI

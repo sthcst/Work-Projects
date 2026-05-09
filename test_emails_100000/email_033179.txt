@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Nelson",
+    "email": "lauren.nelson3559@example.com",
+    "phone": "+1 913-634-4029",
+    "ssn": "930-96-4922",
+    "dob": "8/17/1962",
+    "address": "7559 Elm Rd",
+    "city": "Boston",
+    "state": "OH"
+  }
+}

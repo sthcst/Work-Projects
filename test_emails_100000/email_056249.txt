@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Walker",
+    "email": "andrew.walker2240@company.com",
+    "phone": "+1 391-587-7072",
+    "ssn": "306 36 3374",
+    "dob": "07/19/2005",
+    "address": "5655 Spring St",
+    "city": "Los Angeles",
+    "state": "FL"
+  }
+}

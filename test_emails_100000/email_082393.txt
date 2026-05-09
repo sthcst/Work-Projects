@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Evans",
+    "email": "brian.evans6183@outlook.com",
+    "phone": "879-555-7130",
+    "ssn": "972417382",
+    "dob": "8/21/2002",
+    "address": "8977 Elm Ave",
+    "city": "San Diego",
+    "state": "MO"
+  }
+}

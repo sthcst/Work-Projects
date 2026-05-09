@@ -1,0 +1,9 @@
+contact:
+  name: Charles Hernandez
+  email: charles.hernandez4427@yahoo.com
+  phone: 561 719 5939
+  ssn: 958 85 2888
+  dob: 04/04/1993
+  address: 4483 Second St
+  city: Jacksonville
+  state: MO

@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Davis
+  email: lisa.davis5460@yahoo.com
+  phone: 224 995 4298
+  ssn: 914 90 7914
+  dob: 06/11/1988
+  address: 2772 Summer Blvd
+  city: Austin
+  state: WA

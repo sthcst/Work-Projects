@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Thompson",
+    "email": "lisa.thompson828@mail.com",
+    "phone": "746-939-6542",
+    "ssn": "562249541",
+    "dob": "5/1/1978",
+    "address": "7501 Sixth Ave",
+    "city": "Austin",
+    "state": "PA"
+  }
+}

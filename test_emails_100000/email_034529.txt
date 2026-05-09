@@ -1,0 +1,14 @@
+INVOICE 244542
+
+Bill To:
+Name: Jacob Delgado
+Email: jacob.delgado9985@mail.com
+Phone: 570-501-2855
+SSN: 324-89-4189
+
+Address: 3493 North Court
+Phoenix, WA
+
+Date of Birth: 04/27/1971
+
+Amount Due: $6268

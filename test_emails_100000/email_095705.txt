@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Robinson",
+    "email": "richard.robinson1193@example.com",
+    "phone": "795 353 3446",
+    "ssn": "777-60-1909",
+    "dob": "16/06/2002",
+    "address": "3247 West Way",
+    "city": "Austin",
+    "state": "FL"
+  }
+}

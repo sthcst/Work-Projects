@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Collins
+  email: ryan.collins3180@outlook.com
+  phone: 389-589-8708
+  ssn: 393 36 8004
+  dob: 2/22/1969
+  address: 6855 South St
+  city: Los Angeles
+  state: CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Gomez,samantha.gomez124@business.net,+1 679-229-2290,817-99-6782,07/15/1969,"7785 Fourth Ln",Houston,MI

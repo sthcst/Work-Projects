@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Cooper",
+    "email": "samantha.cooper5730@mail.com",
+    "phone": "671 902 6920",
+    "ssn": "203 40 9806",
+    "dob": "05-02-1972",
+    "address": "3824 Summer Ave",
+    "city": "Los Angeles",
+    "state": "AZ"
+  }
+}

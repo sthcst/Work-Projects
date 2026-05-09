@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Phillips,maria.phillips7864@mail.com,244 545 5823,006-35-9841,11/5/1957,"3212 Third Dr",Chicago,FL

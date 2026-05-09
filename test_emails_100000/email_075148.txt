@@ -1,0 +1,14 @@
+INVOICE 754232
+
+Bill To:
+Name: William Phillips
+Email: william.phillips5604@work.org
+Phone: 519-623-3335
+SSN: 743177596
+
+Address: 1035 Main Way
+Dallas, GA
+
+Date of Birth: 3/13/1957
+
+Amount Due: $976

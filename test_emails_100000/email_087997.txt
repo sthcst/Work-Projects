@@ -1,0 +1,14 @@
+INVOICE 217370
+
+Bill To:
+Name: Brian Lopez
+Email: brian.lopez7918@business.net
+Phone: (879) 648-1676
+SSN: 203892827
+
+Address: 7620 Summer St
+Philadelphia, CO
+
+Date of Birth: 11/09/1953
+
+Amount Due: $3763

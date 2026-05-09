@@ -1,0 +1,14 @@
+INVOICE 765113
+
+Bill To:
+Name: Angela Edwards
+Email: angela.edwards1846@yahoo.com
+Phone: (825) 932-6922
+SSN: 340 96 7282
+
+Address: 495 Fifth St
+Dallas, TX
+
+Date of Birth: 13/08/1988
+
+Amount Due: $8598

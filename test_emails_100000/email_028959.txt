@@ -1,0 +1,9 @@
+contact:
+  name: Megan Flores
+  email: megan.flores8251@company.com
+  phone: 844-379-6319
+  ssn: 836-18-7781
+  dob: 8/5/1961
+  address: 5975 East Rd
+  city: Washington
+  state: DC

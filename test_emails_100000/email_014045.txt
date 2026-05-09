@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Peterson",
+    "email": "andrew.peterson9945@example.com",
+    "phone": "(868) 448-7114",
+    "ssn": "033 01 6525",
+    "dob": "02-01-1958",
+    "address": "6511 Maple St",
+    "city": "San Diego",
+    "state": "OH"
+  }
+}

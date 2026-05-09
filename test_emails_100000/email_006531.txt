@@ -1,0 +1,14 @@
+INVOICE 312118
+
+Bill To:
+Name: Cynthia Harris
+Email: cynthia.harris6416@outlook.com
+Phone: 456-257-1808
+SSN: 721 25 8066
+
+Address: 6698 Oak St
+Washington, MD
+
+Date of Birth: 12/02/1990
+
+Amount Due: $2205

@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Serrano
+  email: joseph.serrano3354@outlook.com
+  phone: 874-353-7869
+  ssn: 992376200
+  dob: 3/18/1980
+  address: 7565 Second Blvd
+  city: Phoenix
+  state: MA

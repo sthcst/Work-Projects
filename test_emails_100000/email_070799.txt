@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Morris,michelle.morris2369@example.com,632 459 9262,588 07 5573,22/10/2003,"3326 First Ln",Jacksonville,MA

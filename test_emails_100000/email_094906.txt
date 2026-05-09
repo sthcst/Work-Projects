@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Thomas
+  email: nicole.thomas2932@work.org
+  phone: +1 221-332-4616
+  ssn: 277963302
+  dob: 09-20-1965
+  address: 1702 Oak Way
+  city: Los Angeles
+  state: NJ

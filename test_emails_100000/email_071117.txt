@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Jones
+  email: amanda.jones1882@example.com
+  phone: (488) 610-7418
+  ssn: 351-24-8267
+  dob: 19/02/1979
+  address: 5434 East Dr
+  city: San Antonio
+  state: WA

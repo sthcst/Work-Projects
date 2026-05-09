@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Collins,gary.collins2996@gmail.com,+1 331-932-9904,245-57-6608,05/22/1973,"7538 Maple St",Houston,NJ

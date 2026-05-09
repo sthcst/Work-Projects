@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Delgado,kenneth.delgado7637@mail.com,607-345-5477,681022584,05/07/2000,"8072 West Blvd",Denver,MI

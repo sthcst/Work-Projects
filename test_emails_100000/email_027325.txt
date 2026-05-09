@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Harris,ashley.harris7245@business.net,568 303 6571,509 75 6767,01/27/1973,"40 Elm St",New York,MO

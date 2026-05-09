@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Phillips,daniel.phillips6972@company.com,530-363-6907,182 59 7080,08-15-1985,"7728 Third Blvd",San Jose,WI

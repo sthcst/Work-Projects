@@ -1,0 +1,14 @@
+INVOICE 332674
+
+Bill To:
+Name: George Rodriguez
+Email: george.rodriguez3763@work.org
+Phone: 955 369 8290
+SSN: 377-68-3161
+
+Address: 7343 Maple Dr
+San Diego, TX
+
+Date of Birth: 02/11/1982
+
+Amount Due: $5203

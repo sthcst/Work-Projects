@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Gomez
+  email: rebecca.gomez5362@gmail.com
+  phone: +1 807-497-5734
+  ssn: 670-99-1901
+  dob: 11/02/1992
+  address: 1043 Sixth Rd
+  city: San Jose
+  state: GA

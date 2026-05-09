@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Guerrero",
+    "email": "william.guerrero8514@business.net",
+    "phone": "610-316-3554",
+    "ssn": "908-88-1810",
+    "dob": "10-06-1988",
+    "address": "4344 South St",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

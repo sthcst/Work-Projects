@@ -1,0 +1,9 @@
+contact:
+  name: George Parker
+  email: george.parker9017@mail.com
+  phone: (395) 466-6873
+  ssn: 514-73-7912
+  dob: 09/03/1960
+  address: 8371 Park Ln
+  city: Chicago
+  state: CA

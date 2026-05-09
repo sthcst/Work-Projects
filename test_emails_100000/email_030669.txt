@@ -1,0 +1,9 @@
+contact:
+  name: John Gomez
+  email: john.gomez8138@outlook.com
+  phone: +1 283-514-2938
+  ssn: 424 08 3429
+  dob: 06/17/1986
+  address: 3059 Cedar Dr
+  city: Philadelphia
+  state: AZ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Edwards",
+    "email": "helen.edwards1728@yahoo.com",
+    "phone": "512-403-9956",
+    "ssn": "621 30 6177",
+    "dob": "03-16-1992",
+    "address": "4146 Pine Way",
+    "city": "Chicago",
+    "state": "NJ"
+  }
+}

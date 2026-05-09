@@ -1,0 +1,14 @@
+INVOICE 693652
+
+Bill To:
+Name: George Wilson
+Email: george.wilson8504@work.org
+Phone: (957) 870-9786
+SSN: 289-26-4618
+
+Address: 4892 Fifth Rd
+Austin, TX
+
+Date of Birth: 27/01/2000
+
+Amount Due: $2193

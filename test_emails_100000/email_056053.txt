@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Edwards,lauren.edwards9034@work.org,356-312-5017,940-20-3567,02-15-1979,"2875 Fifth Rd",Los Angeles,TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Davis",
+    "email": "ryan.davis3440@example.com",
+    "phone": "+1 502-815-5781",
+    "ssn": "982-28-6471",
+    "dob": "5/1/1965",
+    "address": "5200 Pine Dr",
+    "city": "New York",
+    "state": "CA"
+  }
+}

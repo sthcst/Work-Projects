@@ -1,0 +1,9 @@
+contact:
+  name: Angela Williams
+  email: angela.williams9287@work.org
+  phone: 553-382-1674
+  ssn: 238 82 4834
+  dob: 23/10/1970
+  address: 9947 West St
+  city: San Jose
+  state: WA

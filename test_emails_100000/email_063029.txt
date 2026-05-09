@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Hernandez",
+    "email": "angela.hernandez8684@yahoo.com",
+    "phone": "(942) 435-7319",
+    "ssn": "795-07-2143",
+    "dob": "09/16/1973",
+    "address": "2718 Third Blvd",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

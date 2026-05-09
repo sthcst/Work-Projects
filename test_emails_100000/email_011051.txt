@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Ramirez",
+    "email": "brian.ramirez1321@example.com",
+    "phone": "293 951 9474",
+    "ssn": "980722545",
+    "dob": "10-21-1967",
+    "address": "1332 Pine Ln",
+    "city": "San Antonio",
+    "state": "MA"
+  }
+}

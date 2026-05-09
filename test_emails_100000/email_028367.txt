@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Wilson,pamela.wilson3826@example.com,+1 973-910-3245,778-19-9767,2/3/1994,"4943 Oak Rd",Chicago,TX

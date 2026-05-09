@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Serrano",
+    "email": "steven.serrano7855@gmail.com",
+    "phone": "944 846 6796",
+    "ssn": "300-54-8018",
+    "dob": "02-05-1957",
+    "address": "4354 Spring Dr",
+    "city": "Denver",
+    "state": "PA"
+  }
+}

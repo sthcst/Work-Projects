@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Taylor",
+    "email": "angela.taylor3326@outlook.com",
+    "phone": "(741) 850-5300",
+    "ssn": "747954101",
+    "dob": "06-05-1970",
+    "address": "353 Spring St",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

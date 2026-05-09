@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Wilson",
+    "email": "kathleen.wilson5536@company.com",
+    "phone": "202 854 6057",
+    "ssn": "882181447",
+    "dob": "09/10/1972",
+    "address": "4438 Park Dr",
+    "city": "Seattle",
+    "state": "MD"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Harris
+  email: kenneth.harris6097@outlook.com
+  phone: (303) 486-1947
+  ssn: 026965184
+  dob: 24/12/1977
+  address: 467 Oak Dr
+  city: Los Angeles
+  state: MA

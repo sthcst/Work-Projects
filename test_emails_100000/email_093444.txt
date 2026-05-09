@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Reed
+  email: kenneth.reed8225@business.net
+  phone: +1 694-930-8237
+  ssn: 313 62 1079
+  dob: 4/24/1959
+  address: 7269 Maple Rd
+  city: Denver
+  state: MD

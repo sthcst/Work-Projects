@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Romero,kevin.romero9224@example.com,+1 338-568-8324,428824288,17/01/1982,"4614 Fourth Rd",Washington,MA

@@ -1,0 +1,14 @@
+INVOICE 182892
+
+Bill To:
+Name: Charles Robinson
+Email: charles.robinson1683@mail.com
+Phone: 368 722 2453
+SSN: 868-33-6032
+
+Address: 6146 Fifth Way
+Chicago, MA
+
+Date of Birth: 03/12/1989
+
+Amount Due: $6765

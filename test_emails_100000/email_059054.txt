@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Jones,joshua.jones9340@example.com,(692) 696-7897,098 51 3563,5/6/1965,"883 Third Dr",San Diego,TX

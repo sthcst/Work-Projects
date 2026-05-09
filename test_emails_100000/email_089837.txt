@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Collins,deborah.collins5387@mail.com,790 928 1272,723943134,12/11/2005,"4141 Pine St",San Antonio,AZ

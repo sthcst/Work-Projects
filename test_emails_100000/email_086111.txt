@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Lewis",
+    "email": "kimberly.lewis3809@outlook.com",
+    "phone": "+1 802-330-6534",
+    "ssn": "447152112",
+    "dob": "05-05-1960",
+    "address": "9286 Oak Dr",
+    "city": "San Antonio",
+    "state": "MA"
+  }
+}

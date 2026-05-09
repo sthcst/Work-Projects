@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Johnson
+  email: jessica.johnson1329@company.com
+  phone: +1 408-355-4877
+  ssn: 312 28 9189
+  dob: 10/20/1956
+  address: 6374 Second Court
+  city: Boston
+  state: WA

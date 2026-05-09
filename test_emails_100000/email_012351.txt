@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Bell
+  email: rebecca.bell6255@example.com
+  phone: +1 310-941-3163
+  ssn: 253-30-7833
+  dob: 10/9/1978
+  address: 8425 South Blvd
+  city: Washington
+  state: AZ

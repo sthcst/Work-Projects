@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Alvarado",
+    "email": "donald.alvarado2611@gmail.com",
+    "phone": "498 831 5505",
+    "ssn": "045553791",
+    "dob": "10/18/2004",
+    "address": "355 Pine Blvd",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

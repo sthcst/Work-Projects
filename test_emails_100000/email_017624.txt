@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Gonzalez,samantha.gonzalez9605@yahoo.com,+1 781-276-4200,862-68-3577,05-06-1966,"1058 Fourth St",Boston,NY

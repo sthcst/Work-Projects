@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Ramirez",
+    "email": "megan.ramirez4908@work.org",
+    "phone": "410 641 4822",
+    "ssn": "505 54 6792",
+    "dob": "18/10/1995",
+    "address": "4014 Fifth Way",
+    "city": "Philadelphia",
+    "state": "CO"
+  }
+}

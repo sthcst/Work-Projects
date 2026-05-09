@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Taylor",
+    "email": "ronald.taylor8588@mail.com",
+    "phone": "685 275 1439",
+    "ssn": "519888908",
+    "dob": "07/05/1979",
+    "address": "9357 Sixth Blvd",
+    "city": "Austin",
+    "state": "CO"
+  }
+}

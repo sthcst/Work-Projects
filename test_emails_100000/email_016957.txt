@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Romero",
+    "email": "michelle.romero7196@business.net",
+    "phone": "(380) 685-1566",
+    "ssn": "189-97-3747",
+    "dob": "09/10/1996",
+    "address": "6988 Cedar Rd",
+    "city": "Los Angeles",
+    "state": "MO"
+  }
+}

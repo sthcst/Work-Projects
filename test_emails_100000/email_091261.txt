@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Lopez
+  email: joshua.lopez4633@work.org
+  phone: +1 860-882-9516
+  ssn: 287 10 3366
+  dob: 12/20/1972
+  address: 994 North Ave
+  city: New York
+  state: MI

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Jones",
+    "email": "jessica.jones7093@business.net",
+    "phone": "(941) 684-4127",
+    "ssn": "409145820",
+    "dob": "2/1/1963",
+    "address": "2282 West Ave",
+    "city": "Washington",
+    "state": "WA"
+  }
+}

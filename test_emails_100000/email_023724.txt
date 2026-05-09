@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Alvarado,anna.alvarado8620@example.com,+1 610-423-7439,594296076,01/19/1964,"851 Third Court",San Antonio,TX

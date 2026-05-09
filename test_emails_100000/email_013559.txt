@@ -1,0 +1,14 @@
+INVOICE 667233
+
+Bill To:
+Name: William Jones
+Email: william.jones2804@business.net
+Phone: +1 207-479-9059
+SSN: 955596330
+
+Address: 8495 West Ln
+New York, AZ
+
+Date of Birth: 4/28/1974
+
+Amount Due: $9375

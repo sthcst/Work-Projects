@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Carter",
+    "email": "cynthia.carter8606@example.com",
+    "phone": "757-218-2612",
+    "ssn": "418 41 5115",
+    "dob": "02/14/1981",
+    "address": "8584 Spring Blvd",
+    "city": "Austin",
+    "state": "MI"
+  }
+}

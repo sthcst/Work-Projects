@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Stewart",
+    "email": "joseph.stewart5812@outlook.com",
+    "phone": "468-556-5226",
+    "ssn": "212-60-9056",
+    "dob": "08-21-1996",
+    "address": "7757 East Dr",
+    "city": "Dallas",
+    "state": "IL"
+  }
+}

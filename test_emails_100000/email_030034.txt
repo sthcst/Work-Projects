@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Smith,joseph.smith5700@work.org,288 667 9005,374 08 2706,11-26-1988,"5603 Oak Way",Washington,WA

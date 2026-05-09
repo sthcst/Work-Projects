@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Campbell",
+    "email": "nicholas.campbell6373@gmail.com",
+    "phone": "+1 622-933-6129",
+    "ssn": "266 12 5495",
+    "dob": "1/5/2005",
+    "address": "2812 Second Blvd",
+    "city": "Boston",
+    "state": "FL"
+  }
+}

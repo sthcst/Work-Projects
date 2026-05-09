@@ -1,0 +1,14 @@
+INVOICE 993061
+
+Bill To:
+Name: Kenneth Lee
+Email: kenneth.lee3807@example.com
+Phone: 521 791 6353
+SSN: 412 42 1148
+
+Address: 8914 North Dr
+Chicago, TN
+
+Date of Birth: 10-14-1953
+
+Amount Due: $7790

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Wilson",
+    "email": "ashley.wilson1362@mail.com",
+    "phone": "(349) 367-9855",
+    "ssn": "474376910",
+    "dob": "7/27/1974",
+    "address": "9900 Main Way",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

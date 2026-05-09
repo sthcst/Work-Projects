@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Miller,steven.miller4076@example.com,+1 953-621-7247,711993420,02-28-1977,"7173 Cedar St",Boston,WA

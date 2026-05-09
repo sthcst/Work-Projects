@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Thompson",
+    "email": "nicole.thompson4991@example.com",
+    "phone": "534-665-5895",
+    "ssn": "856-48-3456",
+    "dob": "18/05/1970",
+    "address": "6225 West Dr",
+    "city": "Philadelphia",
+    "state": "WI"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Carter,stephanie.carter6812@gmail.com,865 924 6313,608 90 9038,01/12/1959,"6044 North Ln",Jacksonville,GA

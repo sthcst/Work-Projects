@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Jones",
+    "email": "robert.jones1556@yahoo.com",
+    "phone": "(643) 617-4383",
+    "ssn": "020 84 4135",
+    "dob": "11/14/1974",
+    "address": "6447 Second Blvd",
+    "city": "New York",
+    "state": "DC"
+  }
+}

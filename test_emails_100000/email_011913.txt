@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Young,ryan.young5274@example.com,(506) 486-8127,465 05 7921,05/10/1959,"231 Third Court",San Diego,NC

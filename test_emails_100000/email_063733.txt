@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Lee",
+    "email": "helen.lee5481@business.net",
+    "phone": "607 886 2964",
+    "ssn": "102 16 1507",
+    "dob": "02/28/1992",
+    "address": "1376 First Rd",
+    "city": "Dallas",
+    "state": "GA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Miller
+  email: deborah.miller81@example.com
+  phone: 257 648 1006
+  ssn: 239015117
+  dob: 01-07-1965
+  address: 9638 South Court
+  city: Philadelphia
+  state: DC

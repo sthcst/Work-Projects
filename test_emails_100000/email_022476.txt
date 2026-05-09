@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Taylor",
+    "email": "jason.taylor4058@business.net",
+    "phone": "241 966 9454",
+    "ssn": "729-88-9536",
+    "dob": "10/28/1969",
+    "address": "6269 Cedar Rd",
+    "city": "Philadelphia",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Roberts
+  email: jennifer.roberts7107@outlook.com
+  phone: 648-289-9305
+  ssn: 369-47-4187
+  dob: 02/22/1994
+  address: 172 Maple Ave
+  city: San Antonio
+  state: CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Lopez",
+    "email": "jeffrey.lopez4112@yahoo.com",
+    "phone": "(995) 444-8046",
+    "ssn": "619 61 7164",
+    "dob": "22/02/1971",
+    "address": "4805 Fourth Rd",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

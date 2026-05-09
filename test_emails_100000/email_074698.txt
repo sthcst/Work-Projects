@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Gomez",
+    "email": "lauren.gomez8838@example.com",
+    "phone": "(489) 656-9686",
+    "ssn": "206-09-3416",
+    "dob": "11/9/1959",
+    "address": "9485 East Blvd",
+    "city": "Seattle",
+    "state": "AZ"
+  }
+}

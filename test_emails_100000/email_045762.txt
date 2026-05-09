@@ -1,0 +1,14 @@
+INVOICE 246210
+
+Bill To:
+Name: Andrew Edwards
+Email: andrew.edwards5798@yahoo.com
+Phone: 621 438 8691
+SSN: 580944998
+
+Address: 7879 First Court
+Chicago, FL
+
+Date of Birth: 04/04/1984
+
+Amount Due: $1570

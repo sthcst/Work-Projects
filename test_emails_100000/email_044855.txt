@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Dominguez,anthony.dominguez3870@example.com,+1 345-219-1049,456 96 1138,9/18/1967,"5019 Fourth St",New York,WA

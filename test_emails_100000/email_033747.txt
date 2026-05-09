@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Wilson
+  email: kevin.wilson4967@yahoo.com
+  phone: +1 273-487-2898
+  ssn: 068-90-5203
+  dob: 05-14-1957
+  address: 7455 Park Court
+  city: Los Angeles
+  state: MA

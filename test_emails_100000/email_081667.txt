@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Flores",
+    "email": "joshua.flores8617@work.org",
+    "phone": "(408) 380-3324",
+    "ssn": "239 68 6974",
+    "dob": "05-08-1987",
+    "address": "177 West St",
+    "city": "New York",
+    "state": "AZ"
+  }
+}

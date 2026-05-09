@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Brown",
+    "email": "anthony.brown4604@yahoo.com",
+    "phone": "(217) 711-2696",
+    "ssn": "553 89 5644",
+    "dob": "09/02/1996",
+    "address": "2126 Maple Court",
+    "city": "Houston",
+    "state": "WI"
+  }
+}

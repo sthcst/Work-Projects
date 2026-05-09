@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Gomez
+  email: nicole.gomez4841@mail.com
+  phone: (415) 645-4331
+  ssn: 960 16 9428
+  dob: 12/22/1952
+  address: 1177 Elm Dr
+  city: Seattle
+  state: DC

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Nelson,william.nelson1284@business.net,449 414 6732,952-81-4159,08/09/1960,"9890 East Way",Denver,MA

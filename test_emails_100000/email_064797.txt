@@ -1,0 +1,14 @@
+INVOICE 434238
+
+Bill To:
+Name: Steven Harris
+Email: steven.harris9669@mail.com
+Phone: +1 492-285-1594
+SSN: 474898728
+
+Address: 2791 Third Ln
+Austin, MD
+
+Date of Birth: 16/06/1952
+
+Amount Due: $557

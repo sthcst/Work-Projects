@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Taylor,kevin.taylor1412@company.com,766-462-4408,503341429,03/16/2005,"143 Third St",Jacksonville,IL

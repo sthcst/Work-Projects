@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Clark",
+    "email": "joshua.clark8320@work.org",
+    "phone": "368-624-7538",
+    "ssn": "895409034",
+    "dob": "09-16-1955",
+    "address": "8139 Summer Dr",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

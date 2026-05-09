@@ -1,0 +1,9 @@
+contact:
+  name: John Walker
+  email: john.walker3899@outlook.com
+  phone: +1 293-957-8293
+  ssn: 969 50 8035
+  dob: 27/05/1955
+  address: 3448 Summer Rd
+  city: San Antonio
+  state: CA

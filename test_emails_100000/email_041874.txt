@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Morgan
+  email: amanda.morgan3773@mail.com
+  phone: +1 995-721-8576
+  ssn: 524546638
+  dob: 04/12/1976
+  address: 803 Cedar Ave
+  city: Washington
+  state: AZ

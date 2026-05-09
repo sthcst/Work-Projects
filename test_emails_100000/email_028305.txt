@@ -1,0 +1,9 @@
+contact:
+  name: Angela Jones
+  email: angela.jones403@mail.com
+  phone: +1 203-391-2277
+  ssn: 986-26-5874
+  dob: 11-26-1988
+  address: 3625 West Dr
+  city: San Jose
+  state: TN

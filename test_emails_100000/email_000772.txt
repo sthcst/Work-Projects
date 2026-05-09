@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Thomas",
+    "email": "angela.thomas478@example.com",
+    "phone": "(959) 754-5520",
+    "ssn": "069 80 7342",
+    "dob": "03/05/1986",
+    "address": "3336 Pine Way",
+    "city": "Washington",
+    "state": "NY"
+  }
+}

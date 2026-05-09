@@ -1,0 +1,14 @@
+INVOICE 493359
+
+Bill To:
+Name: Kimberly Alvarado
+Email: kimberly.alvarado9116@example.com
+Phone: (424) 534-3918
+SSN: 584-21-7736
+
+Address: 4321 West Ave
+Seattle, NJ
+
+Date of Birth: 07/18/2000
+
+Amount Due: $5449

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Serrano,george.serrano3903@outlook.com,816 735 4435,381327816,18/07/1969,"1463 Third Blvd",Denver,AZ

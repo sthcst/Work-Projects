@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth White
+  email: kenneth.white4922@mail.com
+  phone: 547 757 6393
+  ssn: 978055691
+  dob: 02/17/1951
+  address: 1370 East Ave
+  city: Seattle
+  state: MO

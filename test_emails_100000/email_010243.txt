@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Lee",
+    "email": "rebecca.lee3304@example.com",
+    "phone": "+1 911-895-8591",
+    "ssn": "285946405",
+    "dob": "11-22-1964",
+    "address": "1015 North Rd",
+    "city": "New York",
+    "state": "TX"
+  }
+}

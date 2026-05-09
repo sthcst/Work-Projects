@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Wilson",
+    "email": "gary.wilson5304@gmail.com",
+    "phone": "+1 867-692-6406",
+    "ssn": "980 01 9105",
+    "dob": "13/01/1985",
+    "address": "871 Pine Way",
+    "city": "San Diego",
+    "state": "PA"
+  }
+}

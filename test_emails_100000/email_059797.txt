@@ -1,0 +1,9 @@
+contact:
+  name: Steven Miller
+  email: steven.miller6738@example.com
+  phone: +1 523-748-8761
+  ssn: 562 08 5723
+  dob: 4/9/2004
+  address: 4208 Summer St
+  city: Chicago
+  state: CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Sanchez",
+    "email": "kimberly.sanchez4881@yahoo.com",
+    "phone": "(371) 536-2040",
+    "ssn": "505-52-9789",
+    "dob": "02-03-1966",
+    "address": "1790 Cedar Court",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

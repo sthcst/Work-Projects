@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Harris",
+    "email": "donald.harris6720@example.com",
+    "phone": "+1 365-779-4783",
+    "ssn": "779278221",
+    "dob": "08/18/1968",
+    "address": "3201 Park Ave",
+    "city": "Phoenix",
+    "state": "WA"
+  }
+}

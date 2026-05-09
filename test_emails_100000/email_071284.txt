@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Rodriguez",
+    "email": "kathleen.rodriguez7111@outlook.com",
+    "phone": "(525) 569-3496",
+    "ssn": "585-99-7137",
+    "dob": "24/10/1958",
+    "address": "4358 Summer Blvd",
+    "city": "Houston",
+    "state": "MA"
+  }
+}

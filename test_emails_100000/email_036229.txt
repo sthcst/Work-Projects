@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Cooper",
+    "email": "christine.cooper6429@work.org",
+    "phone": "514-431-2903",
+    "ssn": "601 98 1756",
+    "dob": "02-21-1968",
+    "address": "2166 Pine Dr",
+    "city": "Phoenix",
+    "state": "OH"
+  }
+}

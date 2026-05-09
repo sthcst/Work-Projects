@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Morgan",
+    "email": "jennifer.morgan3968@work.org",
+    "phone": "(654) 709-6427",
+    "ssn": "058483504",
+    "dob": "05-06-1968",
+    "address": "2225 South Ave",
+    "city": "San Antonio",
+    "state": "NJ"
+  }
+}

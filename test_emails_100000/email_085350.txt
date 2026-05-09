@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Reeves",
+    "email": "robert.reeves2782@work.org",
+    "phone": "755 297 5183",
+    "ssn": "349929472",
+    "dob": "07/07/1952",
+    "address": "6648 Park Court",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

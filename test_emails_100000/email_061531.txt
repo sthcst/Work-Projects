@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Robinson
+  email: sarah.robinson9292@company.com
+  phone: 698-292-7867
+  ssn: 970336101
+  dob: 05/04/1999
+  address: 9520 Maple Rd
+  city: Washington
+  state: NC

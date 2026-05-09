@@ -1,0 +1,14 @@
+INVOICE 626711
+
+Bill To:
+Name: Lauren Sanchez
+Email: lauren.sanchez1405@company.com
+Phone: +1 438-788-6708
+SSN: 831-51-2514
+
+Address: 9046 Fourth Ln
+San Jose, WA
+
+Date of Birth: 06/27/1981
+
+Amount Due: $4041

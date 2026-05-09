@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Romero",
+    "email": "john.romero4705@mail.com",
+    "phone": "559-761-9936",
+    "ssn": "537809889",
+    "dob": "04-26-1958",
+    "address": "3682 Oak Ave",
+    "city": "Jacksonville",
+    "state": "FL"
+  }
+}

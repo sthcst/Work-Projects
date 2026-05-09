@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Johnson",
+    "email": "joseph.johnson6570@business.net",
+    "phone": "915 338 8277",
+    "ssn": "292976508",
+    "dob": "7/6/1994",
+    "address": "6969 Main Ave",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

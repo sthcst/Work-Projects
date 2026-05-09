@@ -1,0 +1,9 @@
+contact:
+  name: Emily Lee
+  email: emily.lee4435@gmail.com
+  phone: 634-607-4740
+  ssn: 706 91 3955
+  dob: 09-07-1966
+  address: 788 Spring Dr
+  city: Jacksonville
+  state: OH

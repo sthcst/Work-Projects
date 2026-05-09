@@ -1,0 +1,14 @@
+INVOICE 871199
+
+Bill To:
+Name: Gary Thompson
+Email: gary.thompson9555@outlook.com
+Phone: 333-215-6245
+SSN: 480-04-9454
+
+Address: 5848 Elm St
+Washington, TX
+
+Date of Birth: 10/09/1998
+
+Amount Due: $1606

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Lewis,emma.lewis8866@business.net,694-883-4187,876 35 8127,08-01-1968,"9631 North Ln",Seattle,AZ

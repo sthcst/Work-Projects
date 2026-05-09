@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Cooper
+  email: katherine.cooper3431@yahoo.com
+  phone: +1 924-462-8924
+  ssn: 419 30 7162
+  dob: 27/09/1986
+  address: 8631 Summer Ln
+  city: Philadelphia
+  state: MD

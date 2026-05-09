@@ -1,0 +1,9 @@
+contact:
+  name: George Romero
+  email: george.romero7373@business.net
+  phone: 420 330 7125
+  ssn: 976 42 2152
+  dob: 04-07-1959
+  address: 7163 First Ave
+  city: Chicago
+  state: NJ

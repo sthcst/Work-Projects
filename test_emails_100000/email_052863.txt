@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Jackson,nicholas.jackson4235@outlook.com,323-291-5513,957323160,09-23-1985,"4777 East Ln",Philadelphia,TX

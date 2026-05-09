@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Reed",
+    "email": "kenneth.reed7348@gmail.com",
+    "phone": "+1 465-654-4291",
+    "ssn": "440-17-9197",
+    "dob": "09-18-1960",
+    "address": "3853 Fourth Ave",
+    "city": "Jacksonville",
+    "state": "PA"
+  }
+}

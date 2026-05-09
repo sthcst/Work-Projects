@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Walker",
+    "email": "christopher.walker7577@yahoo.com",
+    "phone": "236 366 3508",
+    "ssn": "142 48 3487",
+    "dob": "06/13/2004",
+    "address": "8444 East Rd",
+    "city": "Phoenix",
+    "state": "MA"
+  }
+}

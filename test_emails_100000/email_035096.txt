@@ -1,0 +1,14 @@
+INVOICE 991797
+
+Bill To:
+Name: Amanda Reeves
+Email: amanda.reeves7044@example.com
+Phone: +1 417-326-9806
+SSN: 215-54-1205
+
+Address: 5696 Summer Dr
+Houston, TX
+
+Date of Birth: 01/20/1979
+
+Amount Due: $7820

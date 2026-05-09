@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Garcia
+  email: deborah.garcia2539@example.com
+  phone: 716 914 9359
+  ssn: 946-93-7968
+  dob: 12/27/1958
+  address: 2335 Cedar Way
+  city: San Antonio
+  state: CA

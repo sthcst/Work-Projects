@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Walker",
+    "email": "ashley.walker3329@gmail.com",
+    "phone": "909-975-8189",
+    "ssn": "539 10 6122",
+    "dob": "10/12/1955",
+    "address": "5803 Maple Way",
+    "city": "Philadelphia",
+    "state": "OH"
+  }
+}

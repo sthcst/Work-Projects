@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Gomez",
+    "email": "paul.gomez8802@gmail.com",
+    "phone": "(422) 753-8060",
+    "ssn": "983-51-4638",
+    "dob": "04/07/1989",
+    "address": "9460 First St",
+    "city": "Phoenix",
+    "state": "AZ"
+  }
+}

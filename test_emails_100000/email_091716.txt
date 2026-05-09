@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Romero",
+    "email": "andrew.romero6550@business.net",
+    "phone": "+1 407-844-5018",
+    "ssn": "673921088",
+    "dob": "05/04/1971",
+    "address": "9949 Sixth Ave",
+    "city": "San Jose",
+    "state": "CA"
+  }
+}

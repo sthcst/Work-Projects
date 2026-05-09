@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Moore,anna.moore2980@yahoo.com,+1 830-702-1181,722209535,06/28/1973,"5283 Summer Court",New York,CA

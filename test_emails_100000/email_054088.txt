@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Robinson,deborah.robinson1840@outlook.com,(538) 837-5255,838-57-9086,18/07/1983,"4361 Third Way",Seattle,AZ

@@ -1,0 +1,14 @@
+INVOICE 676522
+
+Bill To:
+Name: George Hernandez
+Email: george.hernandez7183@outlook.com
+Phone: 446-548-8733
+SSN: 611-44-6521
+
+Address: 1639 South Way
+Chicago, MD
+
+Date of Birth: 01/06/1994
+
+Amount Due: $8639

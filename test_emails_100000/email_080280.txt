@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Cooper",
+    "email": "kenneth.cooper9822@outlook.com",
+    "phone": "638 473 3946",
+    "ssn": "438116992",
+    "dob": "4/13/1971",
+    "address": "5287 Third Rd",
+    "city": "San Antonio",
+    "state": "WI"
+  }
+}

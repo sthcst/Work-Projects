@@ -1,0 +1,9 @@
+contact:
+  name: Robert Serrano
+  email: robert.serrano7077@business.net
+  phone: 862 848 3385
+  ssn: 244 57 7036
+  dob: 19/11/1995
+  address: 4829 Birch Rd
+  city: Austin
+  state: IL

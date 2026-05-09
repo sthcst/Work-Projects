@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Morgan,jessica.morgan8435@business.net,+1 852-462-3306,406 92 2926,05/26/1995,"419 Maple Dr",Austin,MD

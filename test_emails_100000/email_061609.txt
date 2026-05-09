@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen White,helen.white404@outlook.com,660 685 3640,165663481,12/26/1970,"3413 Third St",Austin,NY

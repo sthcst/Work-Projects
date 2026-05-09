@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Smith,daniel.smith9975@company.com,(699) 910-4583,293 36 5373,01-13-1955,"6172 Second St",Houston,WA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Johnson,richard.johnson3453@outlook.com,519 976 9781,110569307,4/9/1958,"8977 West Ln",New York,CA

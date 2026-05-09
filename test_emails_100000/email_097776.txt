@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Reed",
+    "email": "helen.reed2767@yahoo.com",
+    "phone": "(369) 909-9239",
+    "ssn": "587 35 3805",
+    "dob": "10/10/2001",
+    "address": "2357 South Blvd",
+    "city": "Austin",
+    "state": "FL"
+  }
+}

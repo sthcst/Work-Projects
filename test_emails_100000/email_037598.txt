@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Martin",
+    "email": "steven.martin4682@outlook.com",
+    "phone": "(335) 273-1580",
+    "ssn": "315 04 2572",
+    "dob": "9/17/1988",
+    "address": "8022 Main Rd",
+    "city": "Los Angeles",
+    "state": "OH"
+  }
+}

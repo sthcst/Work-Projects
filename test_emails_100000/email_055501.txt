@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Reyes",
+    "email": "ashley.reyes1134@gmail.com",
+    "phone": "486 554 4401",
+    "ssn": "370 56 1579",
+    "dob": "23/02/1989",
+    "address": "730 Sixth St",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

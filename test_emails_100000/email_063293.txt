@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Lee,cynthia.lee7728@work.org,729 986 5249,805274535,20/01/1981,"4244 Sixth Blvd",New York,AZ

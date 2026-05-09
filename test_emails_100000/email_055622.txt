@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Lee
+  email: amanda.lee7182@outlook.com
+  phone: 338-389-6428
+  ssn: 949 44 5264
+  dob: 12/06/2005
+  address: 7778 Third Way
+  city: San Jose
+  state: WA

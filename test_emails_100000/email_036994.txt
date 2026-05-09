@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Flores,rebecca.flores2543@gmail.com,(368) 312-5302,998 59 6933,10/9/1974,"5242 Oak Way",Seattle,MI

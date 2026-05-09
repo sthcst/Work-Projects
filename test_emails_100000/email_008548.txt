@@ -1,0 +1,14 @@
+INVOICE 888182
+
+Bill To:
+Name: Jane Phillips
+Email: jane.phillips2812@business.net
+Phone: 313 511 9348
+SSN: 104571242
+
+Address: 6605 First Blvd
+Chicago, NY
+
+Date of Birth: 01/20/1968
+
+Amount Due: $1177

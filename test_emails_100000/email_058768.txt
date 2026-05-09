@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Ramirez",
+    "email": "christine.ramirez3223@company.com",
+    "phone": "(342) 734-1117",
+    "ssn": "244919667",
+    "dob": "11/26/1970",
+    "address": "9422 West St",
+    "city": "Boston",
+    "state": "MD"
+  }
+}

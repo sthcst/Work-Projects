@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Ortiz,pamela.ortiz673@business.net,(567) 574-2395,898 80 2320,02/21/1979,"3292 Spring Dr",San Diego,CA

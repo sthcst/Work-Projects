@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Lopez
+  email: jacob.lopez1097@outlook.com
+  phone: +1 843-942-3733
+  ssn: 010746285
+  dob: 15/07/1974
+  address: 5416 Elm Court
+  city: Washington
+  state: WA

@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Martinez
+  email: deborah.martinez9436@example.com
+  phone: +1 468-273-5919
+  ssn: 195-08-6774
+  dob: 06/02/2004
+  address: 8233 Summer Rd
+  city: Houston
+  state: TN

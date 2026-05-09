@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Miller",
+    "email": "jason.miller2372@example.com",
+    "phone": "296-759-3976",
+    "ssn": "688735979",
+    "dob": "2/6/1995",
+    "address": "4794 Fourth Dr",
+    "city": "New York",
+    "state": "MO"
+  }
+}

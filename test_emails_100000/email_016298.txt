@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey White",
+    "email": "jeffrey.white6224@mail.com",
+    "phone": "(244) 794-9098",
+    "ssn": "942557845",
+    "dob": "04/06/2004",
+    "address": "9092 West Dr",
+    "city": "Houston",
+    "state": "MO"
+  }
+}

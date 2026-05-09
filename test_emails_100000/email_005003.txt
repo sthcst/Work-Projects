@@ -1,0 +1,9 @@
+contact:
+  name: Mark Thomas
+  email: mark.thomas9251@outlook.com
+  phone: (664) 417-1499
+  ssn: 978 19 5548
+  dob: 8/18/1968
+  address: 684 Sixth Dr
+  city: Philadelphia
+  state: MO

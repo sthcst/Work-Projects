@@ -1,0 +1,12 @@
+SUPPORT TICKET #54029
+
+Customer: Shirley Williams
+Email: shirley.williams156@example.com
+Phone: 567-474-5615
+Account: 952095863
+
+Issue Description: Technical problem reported
+DOB on file: 6/26/1999
+Address: 9242 Fourth Blvd, Jacksonville, GA
+
+Status: OPEN

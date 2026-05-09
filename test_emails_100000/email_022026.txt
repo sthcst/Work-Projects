@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Guerrero
+  email: nicole.guerrero1341@gmail.com
+  phone: 715-991-7336
+  ssn: 008829422
+  dob: 03-03-1960
+  address: 8682 Maple St
+  city: Austin
+  state: MA

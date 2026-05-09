@@ -1,0 +1,14 @@
+INVOICE 124088
+
+Bill To:
+Name: Timothy Reed
+Email: timothy.reed3922@company.com
+Phone: 906-765-1154
+SSN: 168-43-5183
+
+Address: 7360 West Court
+Austin, TX
+
+Date of Birth: 07/08/1956
+
+Amount Due: $6569

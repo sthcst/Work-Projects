@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley White,ashley.white1284@gmail.com,734-601-3844,197-41-6280,26/12/1978,"4173 Sixth Way",Houston,TX

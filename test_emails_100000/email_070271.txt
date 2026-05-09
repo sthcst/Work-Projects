@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Bell
+  email: deborah.bell108@company.com
+  phone: 914 495 6438
+  ssn: 751507022
+  dob: 09-17-1991
+  address: 5989 East Rd
+  city: Philadelphia
+  state: TN

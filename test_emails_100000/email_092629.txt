@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Martinez,angela.martinez170@gmail.com,(440) 662-2711,985-22-4208,1/23/1958,"2509 First Blvd",Chicago,CA

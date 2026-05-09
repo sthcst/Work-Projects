@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Young",
+    "email": "amanda.young6362@mail.com",
+    "phone": "(316) 917-6559",
+    "ssn": "283807157",
+    "dob": "6/4/1986",
+    "address": "148 East Blvd",
+    "city": "Washington",
+    "state": "NY"
+  }
+}

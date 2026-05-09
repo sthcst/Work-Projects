@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Lopez
+  email: rebecca.lopez5468@business.net
+  phone: 478 964 1259
+  ssn: 364-81-5798
+  dob: 20/06/1980
+  address: 6361 Summer Rd
+  city: Austin
+  state: WA

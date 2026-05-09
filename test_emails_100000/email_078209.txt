@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Delgado",
+    "email": "michelle.delgado1771@example.com",
+    "phone": "692 820 5391",
+    "ssn": "631-32-7595",
+    "dob": "12/6/1992",
+    "address": "3249 Elm Court",
+    "city": "Austin",
+    "state": "MA"
+  }
+}

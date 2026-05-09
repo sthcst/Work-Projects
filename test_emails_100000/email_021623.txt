@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Garcia,james.garcia649@gmail.com,868 728 7034,844-65-7426,03-08-1958,"4278 Birch Ave",Austin,IL

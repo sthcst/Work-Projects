@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Rogers,charles.rogers8487@business.net,(505) 979-4900,453631777,12/14/2005,"7702 Second Ln",Chicago,NJ

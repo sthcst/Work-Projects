@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Phillips",
+    "email": "christine.phillips3915@company.com",
+    "phone": "+1 534-298-3081",
+    "ssn": "244-33-1658",
+    "dob": "10-28-1993",
+    "address": "8043 North Dr",
+    "city": "Washington",
+    "state": "FL"
+  }
+}

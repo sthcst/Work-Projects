@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Reyes
+  email: anthony.reyes241@company.com
+  phone: +1 725-969-7926
+  ssn: 610-26-3369
+  dob: 26/04/1966
+  address: 7937 First Blvd
+  city: San Diego
+  state: CA

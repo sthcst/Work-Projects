@@ -1,0 +1,9 @@
+contact:
+  name: George Ramirez
+  email: george.ramirez2572@company.com
+  phone: 787 448 4286
+  ssn: 709449142
+  dob: 02-01-1968
+  address: 21 Birch Dr
+  city: Phoenix
+  state: AZ

@@ -1,0 +1,14 @@
+INVOICE 152831
+
+Bill To:
+Name: Kimberly Walker
+Email: kimberly.walker8076@company.com
+Phone: 278 542 4206
+SSN: 100-06-6243
+
+Address: 8778 Summer Way
+Houston, FL
+
+Date of Birth: 3/12/1984
+
+Amount Due: $8081

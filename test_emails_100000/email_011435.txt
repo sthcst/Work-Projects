@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Roberts",
+    "email": "maria.roberts3663@yahoo.com",
+    "phone": "310-516-5408",
+    "ssn": "439-26-2556",
+    "dob": "11-07-1972",
+    "address": "9797 Elm Dr",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

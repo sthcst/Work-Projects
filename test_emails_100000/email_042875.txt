@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Wilson",
+    "email": "jennifer.wilson3693@company.com",
+    "phone": "+1 691-691-3689",
+    "ssn": "632877522",
+    "dob": "05-25-1965",
+    "address": "6322 Elm Court",
+    "city": "Washington",
+    "state": "FL"
+  }
+}

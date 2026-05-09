@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Martin",
+    "email": "timothy.martin2810@gmail.com",
+    "phone": "+1 268-857-9531",
+    "ssn": "247 13 8929",
+    "dob": "12/05/1993",
+    "address": "2116 North Way",
+    "city": "New York",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Martinez",
+    "email": "nicole.martinez8834@example.com",
+    "phone": "744 904 2020",
+    "ssn": "240707627",
+    "dob": "21/08/1961",
+    "address": "7802 Birch St",
+    "city": "New York",
+    "state": "MO"
+  }
+}

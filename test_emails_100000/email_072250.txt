@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Wilson",
+    "email": "angela.wilson9549@outlook.com",
+    "phone": "+1 772-525-6248",
+    "ssn": "508512879",
+    "dob": "01-18-1985",
+    "address": "1048 West Way",
+    "city": "San Jose",
+    "state": "OH"
+  }
+}

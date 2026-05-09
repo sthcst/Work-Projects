@@ -1,0 +1,9 @@
+contact:
+  name: James Williams
+  email: james.williams896@yahoo.com
+  phone: 580-638-9704
+  ssn: 968749876
+  dob: 19/01/1974
+  address: 4459 Pine St
+  city: Washington
+  state: TX

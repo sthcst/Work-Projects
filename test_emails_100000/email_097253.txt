@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Ramirez,jeffrey.ramirez3678@outlook.com,(272) 904-8052,971912253,07-21-1994,"9639 Fifth Dr",Phoenix,WA

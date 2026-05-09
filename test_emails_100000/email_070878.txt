@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Rogers,rebecca.rogers3068@work.org,(204) 686-2394,217146525,10/15/1982,"1996 Third Dr",Seattle,NC

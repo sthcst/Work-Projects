@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Serrano,helen.serrano70@gmail.com,+1 916-982-3612,392 83 1427,05-08-1993,"2892 First St",San Diego,AZ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Murillo",
+    "email": "jeffrey.murillo9226@yahoo.com",
+    "phone": "(668) 862-6239",
+    "ssn": "231 29 3224",
+    "dob": "6/6/1959",
+    "address": "4158 First Blvd",
+    "city": "Los Angeles",
+    "state": "FL"
+  }
+}

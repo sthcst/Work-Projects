@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Roberts,katherine.roberts2672@outlook.com,(301) 701-6238,638-27-3938,8/18/1989,"9472 Birch St",Phoenix,CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Bell",
+    "email": "paul.bell6040@business.net",
+    "phone": "215 607 8822",
+    "ssn": "721119992",
+    "dob": "12/01/1999",
+    "address": "2728 West St",
+    "city": "Washington",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Ramirez
+  email: amanda.ramirez8941@work.org
+  phone: 285-525-5330
+  ssn: 510245183
+  dob: 05/27/1982
+  address: 4542 Elm St
+  city: San Diego
+  state: CO

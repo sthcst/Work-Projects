@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Murillo",
+    "email": "mark.murillo6459@example.com",
+    "phone": "+1 868-511-7833",
+    "ssn": "574819555",
+    "dob": "13/01/1958",
+    "address": "8953 North Ave",
+    "city": "Jacksonville",
+    "state": "NY"
+  }
+}

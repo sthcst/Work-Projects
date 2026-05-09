@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Phillips,jessica.phillips2103@business.net,+1 621-672-2110,691 12 7165,10/07/1988,"5272 Pine St",Philadelphia,CA

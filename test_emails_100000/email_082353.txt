@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Ortiz,ashley.ortiz2420@mail.com,+1 499-702-1425,884645360,10/15/1995,"7329 Cedar St",Jacksonville,NJ

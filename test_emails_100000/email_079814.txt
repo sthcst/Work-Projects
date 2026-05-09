@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Delgado",
+    "email": "paul.delgado7896@yahoo.com",
+    "phone": "(359) 513-5150",
+    "ssn": "194966243",
+    "dob": "12/06/1962",
+    "address": "785 First Blvd",
+    "city": "San Diego",
+    "state": "CO"
+  }
+}

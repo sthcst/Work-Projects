@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Gomez",
+    "email": "andrew.gomez9033@business.net",
+    "phone": "616 290 4440",
+    "ssn": "982 15 8088",
+    "dob": "17/11/1978",
+    "address": "7368 Sixth Rd",
+    "city": "San Jose",
+    "state": "PA"
+  }
+}

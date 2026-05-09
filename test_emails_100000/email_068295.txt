@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Campbell",
+    "email": "lauren.campbell4385@yahoo.com",
+    "phone": "(737) 247-6032",
+    "ssn": "210 84 1958",
+    "dob": "8/5/1976",
+    "address": "462 Summer Ave",
+    "city": "Seattle",
+    "state": "VA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Campbell,steven.campbell9393@gmail.com,+1 219-255-7094,719361818,04-10-1989,"4123 First Rd",San Antonio,CA

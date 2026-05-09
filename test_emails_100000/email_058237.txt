@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Collins,jason.collins4468@gmail.com,+1 888-582-3782,510458386,15/08/1992,"8271 First Ln",Seattle,IL

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Walker,mark.walker6225@yahoo.com,(280) 310-5910,557-68-6356,27/04/1974,"6421 Park Rd",San Antonio,MD

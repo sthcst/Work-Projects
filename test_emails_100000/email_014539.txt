@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Delgado,kenneth.delgado5781@example.com,(358) 888-3914,592 79 7999,08-18-1988,"8066 Elm Ave",Boston,CO

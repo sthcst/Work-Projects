@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Harris",
+    "email": "christine.harris9193@gmail.com",
+    "phone": "(461) 321-1294",
+    "ssn": "018 66 5147",
+    "dob": "8/12/1958",
+    "address": "454 Main Way",
+    "city": "Denver",
+    "state": "GA"
+  }
+}

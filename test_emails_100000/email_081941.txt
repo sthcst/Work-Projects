@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Jimenez,jane.jimenez6987@gmail.com,529-562-7733,893-72-6792,08/01/1986,"3962 Elm Ln",Phoenix,NJ

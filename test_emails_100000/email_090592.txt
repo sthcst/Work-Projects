@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Guerrero",
+    "email": "michael.guerrero9685@yahoo.com",
+    "phone": "+1 308-246-5563",
+    "ssn": "942373703",
+    "dob": "06-21-2005",
+    "address": "7410 Sixth Blvd",
+    "city": "New York",
+    "state": "MI"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Charles Murillo
+  email: charles.murillo5663@business.net
+  phone: +1 590-470-4176
+  ssn: 553 30 4666
+  dob: 1/28/1971
+  address: 3278 Maple Blvd
+  city: San Jose
+  state: TX

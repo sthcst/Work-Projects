@@ -1,0 +1,14 @@
+INVOICE 222057
+
+Bill To:
+Name: Samantha Thomas
+Email: samantha.thomas1559@yahoo.com
+Phone: (389) 711-6069
+SSN: 108816967
+
+Address: 9306 Fifth St
+Chicago, FL
+
+Date of Birth: 9/28/1990
+
+Amount Due: $453

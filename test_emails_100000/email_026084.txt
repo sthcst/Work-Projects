@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Thomas",
+    "email": "george.thomas5375@gmail.com",
+    "phone": "592-282-6696",
+    "ssn": "430-96-6374",
+    "dob": "10-20-2001",
+    "address": "2372 Summer Ln",
+    "city": "Austin",
+    "state": "WA"
+  }
+}

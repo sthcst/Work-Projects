@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Rogers,pamela.rogers8956@mail.com,527 549 3094,008 39 9094,03/05/1958,"1735 Summer Ln",Chicago,TX

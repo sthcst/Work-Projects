@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Peterson
+  email: andrew.peterson8832@company.com
+  phone: 783-942-5451
+  ssn: 245-86-4211
+  dob: 25/07/1970
+  address: 6367 West Ave
+  city: Austin
+  state: AZ

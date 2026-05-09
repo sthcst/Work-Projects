@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary White,gary.white6716@business.net,+1 759-543-6101,422 88 5536,06-07-1988,"3454 Sixth Way",San Antonio,TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Wilson,william.wilson6344@outlook.com,708-874-5262,084 61 6807,7/23/1996,"1510 West Ln",Boston,MO

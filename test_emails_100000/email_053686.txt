@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Morris
+  email: rachel.morris4503@mail.com
+  phone: (321) 741-8922
+  ssn: 528752252
+  dob: 06-12-2001
+  address: 9290 North Court
+  city: Houston
+  state: TX

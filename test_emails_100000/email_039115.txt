@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Peterson,jason.peterson9576@outlook.com,395 649 7013,129 81 5157,05-17-2005,"7946 Cedar Court",Dallas,WI

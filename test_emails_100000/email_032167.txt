@@ -1,0 +1,9 @@
+contact:
+  name: John Rodriguez
+  email: john.rodriguez7731@business.net
+  phone: 785 835 8028
+  ssn: 006-45-9025
+  dob: 07-18-1998
+  address: 6205 Main Blvd
+  city: New York
+  state: IL

@@ -1,0 +1,9 @@
+contact:
+  name: Angela Campbell
+  email: angela.campbell4005@yahoo.com
+  phone: 455 273 5112
+  ssn: 468435909
+  dob: 4/25/1958
+  address: 3789 Fifth Ave
+  city: San Diego
+  state: IL

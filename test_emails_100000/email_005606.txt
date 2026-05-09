@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Collins
+  email: anthony.collins1510@work.org
+  phone: 951 519 5196
+  ssn: 915 06 2617
+  dob: 12-11-1994
+  address: 9363 Main Rd
+  city: San Diego
+  state: MO

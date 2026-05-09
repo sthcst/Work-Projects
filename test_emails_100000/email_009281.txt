@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Reyes",
+    "email": "shirley.reyes6003@example.com",
+    "phone": "419-473-9871",
+    "ssn": "130964007",
+    "dob": "08/09/1992",
+    "address": "3053 Elm Ave",
+    "city": "Washington",
+    "state": "MD"
+  }
+}

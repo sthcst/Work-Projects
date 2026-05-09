@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Hernandez,lauren.hernandez4530@work.org,304 361 9565,209 53 9254,5/26/1961,"3513 Main Ave",Austin,NY

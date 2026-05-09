@@ -1,0 +1,14 @@
+INVOICE 610356
+
+Bill To:
+Name: Jacob Peterson
+Email: jacob.peterson5504@example.com
+Phone: 257-853-9852
+SSN: 291-12-9314
+
+Address: 7235 Fourth St
+Austin, TX
+
+Date of Birth: 21/10/1999
+
+Amount Due: $4517

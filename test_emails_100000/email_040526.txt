@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Alvarado
+  email: cynthia.alvarado9523@company.com
+  phone: 319 261 1091
+  ssn: 532-29-5902
+  dob: 26/03/1983
+  address: 3993 Summer Rd
+  city: Los Angeles
+  state: FL

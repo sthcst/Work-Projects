@@ -1,0 +1,14 @@
+INVOICE 713604
+
+Bill To:
+Name: Brian Jackson
+Email: brian.jackson8366@business.net
+Phone: 999 357 4150
+SSN: 259408033
+
+Address: 59 Sixth Way
+Seattle, NC
+
+Date of Birth: 1/12/1996
+
+Amount Due: $1744

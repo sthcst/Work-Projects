@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Lewis,ryan.lewis8605@yahoo.com,+1 374-862-1445,216-71-8554,06/28/1964,"132 Park Dr",Washington,AZ

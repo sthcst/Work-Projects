@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Serrano,katherine.serrano9700@example.com,814 977 6501,138-83-1571,06-14-1973,"961 Elm Dr",Los Angeles,CO

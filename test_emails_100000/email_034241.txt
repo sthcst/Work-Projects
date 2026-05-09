@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Dominguez",
+    "email": "emma.dominguez2513@company.com",
+    "phone": "(838) 435-6412",
+    "ssn": "427-31-1616",
+    "dob": "11-09-2001",
+    "address": "2564 Main St",
+    "city": "Boston",
+    "state": "AZ"
+  }
+}

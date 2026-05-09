@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Lee,joseph.lee848@business.net,915 751 3922,555-24-2838,04/12/1989,"6536 Pine Ln",Boston,TN

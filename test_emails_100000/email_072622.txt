@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Edwards,joshua.edwards9692@outlook.com,(748) 379-3955,098-83-5046,11/20/1958,"5223 Fourth Ln",San Jose,PA

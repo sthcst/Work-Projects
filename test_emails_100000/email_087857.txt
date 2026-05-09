@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Clark
+  email: pamela.clark4124@business.net
+  phone: +1 214-877-2929
+  ssn: 232-55-6798
+  dob: 09-03-1974
+  address: 4596 Main Court
+  city: New York
+  state: PA

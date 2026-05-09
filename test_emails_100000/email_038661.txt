@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Rogers
+  email: kathleen.rogers4311@business.net
+  phone: (539) 991-9012
+  ssn: 950-15-5296
+  dob: 06-14-1968
+  address: 5183 Maple Way
+  city: Philadelphia
+  state: CA

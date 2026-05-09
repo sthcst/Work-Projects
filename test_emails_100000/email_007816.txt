@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Bell,timothy.bell6786@company.com,308 938 2675,762-24-9700,04/09/1956,"3049 Fourth Dr",New York,GA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Nunez,amanda.nunez8439@work.org,(276) 828-9442,278076185,08-26-1986,"2597 South Dr",Boston,CA

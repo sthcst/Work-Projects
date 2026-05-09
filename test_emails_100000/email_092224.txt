@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Guerrero",
+    "email": "daniel.guerrero7843@work.org",
+    "phone": "602-421-8399",
+    "ssn": "584-30-5146",
+    "dob": "28/06/1983",
+    "address": "771 Cedar Ave",
+    "city": "Phoenix",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Gonzalez",
+    "email": "gary.gonzalez6902@company.com",
+    "phone": "354 327 8478",
+    "ssn": "163856723",
+    "dob": "02-24-1962",
+    "address": "5793 Fourth Court",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

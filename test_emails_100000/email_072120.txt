@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Gonzalez",
+    "email": "gary.gonzalez1632@yahoo.com",
+    "phone": "(834) 616-1497",
+    "ssn": "141-43-3304",
+    "dob": "12/23/1992",
+    "address": "5554 Elm Ln",
+    "city": "Chicago",
+    "state": "WA"
+  }
+}

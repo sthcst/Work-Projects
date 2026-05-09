@@ -1,0 +1,9 @@
+contact:
+  name: Christine Campbell
+  email: christine.campbell2775@mail.com
+  phone: 225 432 3795
+  ssn: 190-95-8985
+  dob: 24/03/1956
+  address: 8494 Second St
+  city: San Diego
+  state: GA

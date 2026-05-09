@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Lopez",
+    "email": "lisa.lopez4451@outlook.com",
+    "phone": "462 614 2995",
+    "ssn": "680112826",
+    "dob": "01/16/1975",
+    "address": "8471 Main Court",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

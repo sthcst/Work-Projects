@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Lewis,nicole.lewis3033@yahoo.com,715-664-2695,760 50 3326,28/11/1986,"7182 Park Blvd",Houston,WI

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Anderson",
+    "email": "stephanie.anderson5262@business.net",
+    "phone": "(858) 218-5919",
+    "ssn": "587304040",
+    "dob": "16/11/1951",
+    "address": "4650 Sixth Blvd",
+    "city": "Chicago",
+    "state": "MO"
+  }
+}

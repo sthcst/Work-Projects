@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Davis",
+    "email": "shirley.davis4751@mail.com",
+    "phone": "340-366-7693",
+    "ssn": "890 71 5321",
+    "dob": "10/11/1991",
+    "address": "8112 South Court",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Brown",
+    "email": "jessica.brown8398@mail.com",
+    "phone": "(355) 721-4956",
+    "ssn": "516 38 3584",
+    "dob": "06-11-1959",
+    "address": "3215 North St",
+    "city": "San Antonio",
+    "state": "MD"
+  }
+}

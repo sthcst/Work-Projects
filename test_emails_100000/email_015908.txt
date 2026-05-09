@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Bell",
+    "email": "megan.bell2138@company.com",
+    "phone": "251 220 8400",
+    "ssn": "862 02 9247",
+    "dob": "07-19-1997",
+    "address": "1760 North Ave",
+    "city": "Boston",
+    "state": "AZ"
+  }
+}

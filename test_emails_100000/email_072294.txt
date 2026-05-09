@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Jones
+  email: shirley.jones8304@company.com
+  phone: +1 622-223-8070
+  ssn: 291-56-5949
+  dob: 03/07/1951
+  address: 2419 Oak Rd
+  city: Austin
+  state: NJ

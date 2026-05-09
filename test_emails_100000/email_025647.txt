@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Martinez",
+    "email": "christine.martinez677@outlook.com",
+    "phone": "(310) 659-6333",
+    "ssn": "615803698",
+    "dob": "07-24-1989",
+    "address": "4485 North Ave",
+    "city": "Austin",
+    "state": "WA"
+  }
+}

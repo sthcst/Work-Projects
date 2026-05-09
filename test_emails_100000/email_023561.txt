@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Edwards,joshua.edwards9965@business.net,+1 510-743-9709,766988821,5/15/2004,"8886 Summer Court",Washington,AZ

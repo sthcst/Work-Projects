@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Martinez",
+    "email": "jeffrey.martinez7261@gmail.com",
+    "phone": "+1 825-932-3921",
+    "ssn": "294381681",
+    "dob": "03-04-1982",
+    "address": "7658 Third Ave",
+    "city": "San Diego",
+    "state": "FL"
+  }
+}

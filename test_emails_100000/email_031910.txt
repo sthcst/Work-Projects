@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Martin,daniel.martin5458@company.com,860 618 1165,545 43 7222,4/10/1977,"9885 First Blvd",Denver,FL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Nelson",
+    "email": "joshua.nelson3752@gmail.com",
+    "phone": "(941) 622-7357",
+    "ssn": "621 76 2480",
+    "dob": "08/18/1958",
+    "address": "5169 Birch Dr",
+    "city": "Boston",
+    "state": "OH"
+  }
+}

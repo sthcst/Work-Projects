@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Perez,jacob.perez2674@gmail.com,632-799-1713,805 90 5402,11/01/1987,"7706 Sixth Blvd",Phoenix,MI

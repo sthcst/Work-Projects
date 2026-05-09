@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Thomas
+  email: sarah.thomas1548@work.org
+  phone: 807 472 6317
+  ssn: 521483145
+  dob: 08-25-1965
+  address: 2995 Elm Way
+  city: Dallas
+  state: MO

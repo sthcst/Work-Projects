@@ -1,0 +1,12 @@
+SUPPORT TICKET #15674
+
+Customer: Gary Collins
+Email: gary.collins8368@example.com
+Phone: 530 666 8978
+Account: 652-39-3157
+
+Issue Description: Technical problem reported
+DOB on file: 11/10/1994
+Address: 3056 Spring Ave, Denver, MA
+
+Status: OPEN

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Collins",
+    "email": "amanda.collins4635@work.org",
+    "phone": "(344) 709-9761",
+    "ssn": "054951509",
+    "dob": "09-26-1987",
+    "address": "2639 West Blvd",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

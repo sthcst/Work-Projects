@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Thompson,christopher.thompson9341@business.net,(550) 414-3812,989 83 8012,06/09/1987,"4420 Third Dr",Dallas,CA

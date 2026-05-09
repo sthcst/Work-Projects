@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Miller",
+    "email": "timothy.miller4208@mail.com",
+    "phone": "+1 472-219-5181",
+    "ssn": "295 49 8400",
+    "dob": "6/4/1987",
+    "address": "8861 West Rd",
+    "city": "Philadelphia",
+    "state": "NJ"
+  }
+}

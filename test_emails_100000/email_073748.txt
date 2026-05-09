@@ -1,0 +1,14 @@
+INVOICE 690729
+
+Bill To:
+Name: Joshua Lopez
+Email: joshua.lopez9415@example.com
+Phone: 230-730-4074
+SSN: 790-55-9178
+
+Address: 860 Pine Dr
+Los Angeles, MD
+
+Date of Birth: 10/14/1955
+
+Amount Due: $3274

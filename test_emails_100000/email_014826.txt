@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Clark",
+    "email": "lisa.clark1911@company.com",
+    "phone": "(488) 573-7524",
+    "ssn": "359 23 9632",
+    "dob": "2/16/1999",
+    "address": "4234 First Way",
+    "city": "San Diego",
+    "state": "NC"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Romero
+  email: anthony.romero8534@mail.com
+  phone: (217) 646-6911
+  ssn: 146-24-5368
+  dob: 11/09/1996
+  address: 8503 East St
+  city: Chicago
+  state: FL

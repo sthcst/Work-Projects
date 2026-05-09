@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Johnson,james.johnson9687@mail.com,898 243 2028,853172866,4/1/1968,"4673 Summer Ave",Seattle,TX

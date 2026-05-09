@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Bell,andrew.bell6986@company.com,(905) 504-3753,148 12 4980,07/14/1983,"152 First Ave",Dallas,TX

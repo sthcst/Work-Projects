@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Serrano,richard.serrano7136@example.com,813 963 4181,600-41-1698,06/09/1968,"7434 Second Court",Phoenix,TX

@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Thompson
+  email: kenneth.thompson6927@company.com
+  phone: (927) 984-6532
+  ssn: 142-65-4685
+  dob: 16/05/1959
+  address: 132 Fifth Dr
+  city: Jacksonville
+  state: CA

@@ -1,0 +1,9 @@
+contact:
+  name: Helen Stewart
+  email: helen.stewart9966@gmail.com
+  phone: (703) 206-8256
+  ssn: 695 16 2062
+  dob: 06-26-1974
+  address: 8041 Birch Blvd
+  city: Houston
+  state: WA

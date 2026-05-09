@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Rodriguez,ashley.rodriguez1361@yahoo.com,(288) 427-2950,028-92-6372,01/01/1992,"8600 Park Ave",Washington,WA

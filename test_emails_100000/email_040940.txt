@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Flores",
+    "email": "michael.flores5436@work.org",
+    "phone": "(613) 749-3458",
+    "ssn": "637275711",
+    "dob": "02/08/1975",
+    "address": "2985 Park St",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

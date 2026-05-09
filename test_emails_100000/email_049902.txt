@@ -1,0 +1,14 @@
+INVOICE 240597
+
+Bill To:
+Name: Kevin Sanchez
+Email: kevin.sanchez1357@business.net
+Phone: (984) 380-4464
+SSN: 750-33-8224
+
+Address: 3940 East Rd
+San Jose, VA
+
+Date of Birth: 07/05/2004
+
+Amount Due: $7118

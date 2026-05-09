@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Lewis
+  email: deborah.lewis7785@yahoo.com
+  phone: (238) 502-6791
+  ssn: 099-07-5774
+  dob: 17/01/1988
+  address: 2077 Sixth Rd
+  city: Seattle
+  state: MI

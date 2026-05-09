@@ -1,0 +1,14 @@
+INVOICE 938126
+
+Bill To:
+Name: George Lee
+Email: george.lee7325@outlook.com
+Phone: (516) 907-4058
+SSN: 423801598
+
+Address: 4106 Sixth Ave
+Philadelphia, NY
+
+Date of Birth: 11/19/1965
+
+Amount Due: $3980

@@ -1,0 +1,9 @@
+contact:
+  name: Emily Perez
+  email: emily.perez4907@work.org
+  phone: (620) 706-6574
+  ssn: 003235042
+  dob: 04/06/1966
+  address: 4826 North Rd
+  city: San Jose
+  state: WA

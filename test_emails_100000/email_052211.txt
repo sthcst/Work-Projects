@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Smith",
+    "email": "john.smith800@business.net",
+    "phone": "840-704-2052",
+    "ssn": "541-99-1666",
+    "dob": "5/19/1985",
+    "address": "7917 Maple Ln",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

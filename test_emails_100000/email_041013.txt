@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Martin",
+    "email": "timothy.martin22@company.com",
+    "phone": "(807) 704-7607",
+    "ssn": "183-29-1549",
+    "dob": "03/07/1956",
+    "address": "4117 South Ave",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

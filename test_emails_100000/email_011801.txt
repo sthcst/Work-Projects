@@ -1,0 +1,14 @@
+INVOICE 784723
+
+Bill To:
+Name: Jane Rodriguez
+Email: jane.rodriguez9044@gmail.com
+Phone: 769-751-1829
+SSN: 371-66-9593
+
+Address: 9967 Fifth Way
+Austin, MA
+
+Date of Birth: 3/16/1960
+
+Amount Due: $4817

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Guerrero,mark.guerrero5270@example.com,556 308 6357,239-08-6059,05-16-1971,"1325 Cedar Ln",Dallas,MO

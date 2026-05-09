@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Brown",
+    "email": "samantha.brown6689@company.com",
+    "phone": "+1 784-706-7647",
+    "ssn": "575 57 8214",
+    "dob": "01-09-2001",
+    "address": "5473 Fourth Rd",
+    "city": "Philadelphia",
+    "state": "GA"
+  }
+}

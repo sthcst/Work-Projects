@@ -1,0 +1,9 @@
+contact:
+  name: Paul Romero
+  email: paul.romero3157@gmail.com
+  phone: 536-341-3602
+  ssn: 235855835
+  dob: 08-14-1958
+  address: 7859 Birch Court
+  city: Los Angeles
+  state: CA

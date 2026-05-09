@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Walker,jane.walker4546@yahoo.com,(258) 449-3670,669298677,10-09-1965,"8765 Third Ave",Dallas,CA

@@ -1,0 +1,9 @@
+contact:
+  name: Robert Carter
+  email: robert.carter7063@outlook.com
+  phone: +1 751-632-3922
+  ssn: 153 77 8932
+  dob: 10/24/1959
+  address: 6710 First Blvd
+  city: San Jose
+  state: MO

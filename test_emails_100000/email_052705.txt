@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Martin",
+    "email": "angela.martin4163@yahoo.com",
+    "phone": "+1 394-731-4114",
+    "ssn": "153-84-6985",
+    "dob": "05/21/1953",
+    "address": "1614 East Ln",
+    "city": "Austin",
+    "state": "TN"
+  }
+}

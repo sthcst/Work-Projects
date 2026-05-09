@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Jackson,kevin.jackson4360@business.net,(757) 898-9050,581-26-7868,05-13-2001,"8219 Sixth St",Boston,MD

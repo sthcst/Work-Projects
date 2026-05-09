@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Young
+  email: michelle.young6747@gmail.com
+  phone: 698-259-7046
+  ssn: 512362408
+  dob: 17/12/1984
+  address: 7262 Fourth Dr
+  city: Washington
+  state: MO

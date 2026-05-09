@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Lee,joshua.lee3343@work.org,(461) 647-7949,463-50-3059,23/07/1980,"1220 Second Dr",Seattle,NC

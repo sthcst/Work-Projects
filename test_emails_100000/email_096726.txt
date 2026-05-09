@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Gomez,angela.gomez4082@outlook.com,(567) 285-7094,719335251,01/22/1952,"6831 Main Blvd",Jacksonville,DC

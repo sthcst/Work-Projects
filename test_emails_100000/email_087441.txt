@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Gomez",
+    "email": "gary.gomez2072@work.org",
+    "phone": "+1 793-931-4390",
+    "ssn": "212-53-1812",
+    "dob": "4/4/1991",
+    "address": "4397 Fifth Ave",
+    "city": "Denver",
+    "state": "FL"
+  }
+}

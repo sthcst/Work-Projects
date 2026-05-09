@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Nelson
+  email: daniel.nelson8058@company.com
+  phone: +1 397-976-4401
+  ssn: 540 82 6156
+  dob: 23/11/1962
+  address: 8786 Third Court
+  city: Austin
+  state: GA

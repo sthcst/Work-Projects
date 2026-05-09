@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Rogers,nicole.rogers8309@outlook.com,841 285 8193,361 45 8191,12-15-1990,"6400 Pine St",New York,NC

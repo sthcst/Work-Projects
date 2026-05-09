@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Garcia
+  email: michelle.garcia6634@outlook.com
+  phone: 679-470-1785
+  ssn: 689 84 9856
+  dob: 4/23/1972
+  address: 5644 North Dr
+  city: San Antonio
+  state: VA

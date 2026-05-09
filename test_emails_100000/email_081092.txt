@@ -1,0 +1,9 @@
+contact:
+  name: James Smith
+  email: james.smith3515@business.net
+  phone: +1 233-868-2000
+  ssn: 037-56-3003
+  dob: 05/17/2002
+  address: 6744 Fourth Dr
+  city: Chicago
+  state: MD

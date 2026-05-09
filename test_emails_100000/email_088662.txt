@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Campbell,christopher.campbell3526@example.com,+1 899-861-2108,436 09 9696,08-28-1972,"7920 Oak Rd",Philadelphia,TN

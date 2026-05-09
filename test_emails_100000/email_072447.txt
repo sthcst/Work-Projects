@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Alvarado",
+    "email": "jacob.alvarado4578@gmail.com",
+    "phone": "848 742 6714",
+    "ssn": "499-84-9005",
+    "dob": "24/06/2000",
+    "address": "7103 Spring Way",
+    "city": "Chicago",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 153718
+
+Bill To:
+Name: Samantha Reed
+Email: samantha.reed6669@company.com
+Phone: +1 305-905-2351
+SSN: 227-88-8046
+
+Address: 1121 Fourth Rd
+Denver, TN
+
+Date of Birth: 03/09/1978
+
+Amount Due: $9886

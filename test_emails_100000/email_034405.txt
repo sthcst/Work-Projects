@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Williams",
+    "email": "shirley.williams5190@outlook.com",
+    "phone": "+1 574-288-4295",
+    "ssn": "992024458",
+    "dob": "9/20/1961",
+    "address": "1198 South Ave",
+    "city": "Phoenix",
+    "state": "NY"
+  }
+}

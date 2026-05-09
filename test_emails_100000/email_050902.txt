@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Miller,kevin.miller196@work.org,884 853 3206,680-09-4165,06/13/1953,"6576 First Rd",New York,MI

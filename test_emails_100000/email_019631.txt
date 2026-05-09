@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Johnson",
+    "email": "lauren.johnson815@outlook.com",
+    "phone": "645 647 7734",
+    "ssn": "806-88-4316",
+    "dob": "24/10/2004",
+    "address": "3575 Fifth Rd",
+    "city": "Houston",
+    "state": "DC"
+  }
+}

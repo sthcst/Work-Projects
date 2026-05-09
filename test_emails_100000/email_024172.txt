@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Miller,rebecca.miller6608@work.org,+1 503-404-1251,619 56 2875,5/20/1999,"1668 Elm Ln",San Antonio,AZ

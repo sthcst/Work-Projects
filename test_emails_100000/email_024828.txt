@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Bell",
+    "email": "helen.bell1860@yahoo.com",
+    "phone": "887 984 4370",
+    "ssn": "007-83-5647",
+    "dob": "3/15/2001",
+    "address": "163 Birch Rd",
+    "city": "Chicago",
+    "state": "WA"
+  }
+}

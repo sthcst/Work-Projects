@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Wilson,ashley.wilson6317@example.com,(582) 718-7291,881403328,24/06/1991,"9751 Sixth Blvd",San Diego,NJ

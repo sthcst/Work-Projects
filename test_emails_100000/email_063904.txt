@@ -1,0 +1,14 @@
+INVOICE 380216
+
+Bill To:
+Name: Charles Jackson
+Email: charles.jackson998@mail.com
+Phone: 277-221-1542
+SSN: 785587164
+
+Address: 8521 Spring Way
+Jacksonville, AZ
+
+Date of Birth: 06/07/1989
+
+Amount Due: $8684

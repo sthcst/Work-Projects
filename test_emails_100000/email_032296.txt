@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Williams",
+    "email": "nicole.williams1233@business.net",
+    "phone": "382 779 6372",
+    "ssn": "679 41 3152",
+    "dob": "6/1/1957",
+    "address": "1161 Birch Ln",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

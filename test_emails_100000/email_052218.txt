@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Guerrero,paul.guerrero6121@mail.com,(640) 446-7386,422692951,13/08/1969,"1149 East St",Washington,MI

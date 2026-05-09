@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Serrano
+  email: jacob.serrano5425@work.org
+  phone: 819 813 9270
+  ssn: 425-18-4508
+  dob: 02-27-1950
+  address: 4852 Main Ln
+  city: Phoenix
+  state: MA

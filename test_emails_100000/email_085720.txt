@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Brown,anthony.brown7796@outlook.com,+1 721-260-5426,504 48 3920,12-16-1955,"5218 First Court",Austin,CA

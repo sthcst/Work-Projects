@@ -1,0 +1,14 @@
+INVOICE 450726
+
+Bill To:
+Name: Charles Romero
+Email: charles.romero5728@example.com
+Phone: 408 828 6603
+SSN: 762-08-8520
+
+Address: 1655 Third Way
+Dallas, OH
+
+Date of Birth: 12/1/1999
+
+Amount Due: $2460

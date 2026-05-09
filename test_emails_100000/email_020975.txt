@@ -1,0 +1,9 @@
+contact:
+  name: John Wilson
+  email: john.wilson2999@business.net
+  phone: +1 268-581-7314
+  ssn: 093 71 8982
+  dob: 10/28/2005
+  address: 4655 Main Ln
+  city: Denver
+  state: FL

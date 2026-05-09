@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Bell
+  email: rachel.bell3910@example.com
+  phone: 534 989 2183
+  ssn: 374357097
+  dob: 24/03/1952
+  address: 5046 Sixth Dr
+  city: San Diego
+  state: DC

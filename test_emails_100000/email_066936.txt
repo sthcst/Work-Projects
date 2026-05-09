@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Ramirez,james.ramirez6703@business.net,432-373-5833,280-92-7675,07/08/1968,"2035 Oak Blvd",Boston,WI

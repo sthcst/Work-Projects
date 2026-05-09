@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Johnson",
+    "email": "ryan.johnson1466@example.com",
+    "phone": "+1 206-307-5086",
+    "ssn": "450442608",
+    "dob": "19/06/1989",
+    "address": "7921 North Way",
+    "city": "San Antonio",
+    "state": "CO"
+  }
+}

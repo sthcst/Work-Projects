@@ -1,0 +1,14 @@
+INVOICE 423071
+
+Bill To:
+Name: Edward Davis
+Email: edward.davis4235@example.com
+Phone: (953) 888-4927
+SSN: 110-56-1145
+
+Address: 4396 Elm Ln
+San Antonio, MI
+
+Date of Birth: 06-18-1953
+
+Amount Due: $5871

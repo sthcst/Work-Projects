@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Wilson
+  email: nicholas.wilson9210@yahoo.com
+  phone: 472-256-8470
+  ssn: 424-53-3317
+  dob: 08/12/1972
+  address: 4502 Elm St
+  city: Houston
+  state: PA

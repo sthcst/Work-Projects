@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Evans,samantha.evans2446@example.com,+1 477-953-2671,437-13-9984,7/8/1963,"3704 Summer Dr",San Antonio,VA

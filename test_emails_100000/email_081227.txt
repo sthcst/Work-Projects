@@ -1,0 +1,14 @@
+INVOICE 156354
+
+Bill To:
+Name: Kenneth Clark
+Email: kenneth.clark2028@mail.com
+Phone: +1 648-601-9012
+SSN: 806-28-2404
+
+Address: 7462 Elm Ln
+New York, WA
+
+Date of Birth: 01-06-1990
+
+Amount Due: $775

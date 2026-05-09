@@ -1,0 +1,14 @@
+INVOICE 657520
+
+Bill To:
+Name: Brenda Smith
+Email: brenda.smith6729@business.net
+Phone: 314-932-9927
+SSN: 405-80-7704
+
+Address: 5033 Third Blvd
+Phoenix, VA
+
+Date of Birth: 08/08/1987
+
+Amount Due: $9978

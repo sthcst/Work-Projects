@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Thompson",
+    "email": "kenneth.thompson1031@outlook.com",
+    "phone": "867-979-4267",
+    "ssn": "793 01 7816",
+    "dob": "2/8/1994",
+    "address": "170 Elm Court",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

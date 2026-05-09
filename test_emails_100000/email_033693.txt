@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Reed
+  email: timothy.reed3031@example.com
+  phone: +1 335-772-3010
+  ssn: 628777128
+  dob: 07-21-1987
+  address: 7399 Maple Court
+  city: Los Angeles
+  state: NJ

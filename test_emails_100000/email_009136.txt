@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Brown
+  email: samantha.brown8731@business.net
+  phone: 299-996-3409
+  ssn: 042 41 6307
+  dob: 2/11/1979
+  address: 8365 Fourth Rd
+  city: Denver
+  state: PA

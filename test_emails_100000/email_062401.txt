@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Smith",
+    "email": "lauren.smith3510@yahoo.com",
+    "phone": "726-298-7634",
+    "ssn": "527 77 5426",
+    "dob": "3/13/1999",
+    "address": "488 Oak Court",
+    "city": "Houston",
+    "state": "WI"
+  }
+}

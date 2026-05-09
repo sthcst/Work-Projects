@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Stewart",
+    "email": "nicholas.stewart9990@business.net",
+    "phone": "738 566 2383",
+    "ssn": "405-88-5049",
+    "dob": "24/10/1954",
+    "address": "9754 Elm Ave",
+    "city": "Seattle",
+    "state": "AZ"
+  }
+}

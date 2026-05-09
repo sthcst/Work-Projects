@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Peterson",
+    "email": "james.peterson2532@mail.com",
+    "phone": "312 906 2383",
+    "ssn": "160-96-9003",
+    "dob": "06/26/1987",
+    "address": "3326 West Dr",
+    "city": "San Diego",
+    "state": "MO"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Young,jennifer.young8044@example.com,537-762-2260,762722462,11/27/1996,"7008 West St",San Jose,CA

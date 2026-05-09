@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Hall,joshua.hall5833@example.com,952 808 8195,145 46 5829,03/22/1998,"4742 Second Dr",San Jose,AZ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Guerrero,lisa.guerrero3118@company.com,(363) 838-2603,850526279,10/21/2001,"1213 North St",Houston,MI

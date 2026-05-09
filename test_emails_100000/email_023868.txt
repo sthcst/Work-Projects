@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Perez
+  email: amanda.perez9761@work.org
+  phone: 308-833-2884
+  ssn: 293-93-2063
+  dob: 11/10/1974
+  address: 8557 Park Rd
+  city: New York
+  state: PA

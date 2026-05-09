@@ -1,0 +1,14 @@
+INVOICE 704473
+
+Bill To:
+Name: Timothy Jones
+Email: timothy.jones1322@example.com
+Phone: 684-225-4652
+SSN: 131971333
+
+Address: 1480 First Dr
+New York, MO
+
+Date of Birth: 02/13/1994
+
+Amount Due: $6551

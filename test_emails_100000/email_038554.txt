@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Morgan
+  email: nicole.morgan9583@gmail.com
+  phone: (750) 929-6459
+  ssn: 956-41-2923
+  dob: 23/11/1970
+  address: 630 East Blvd
+  city: Philadelphia
+  state: DC

@@ -1,0 +1,9 @@
+contact:
+  name: Angela Walker
+  email: angela.walker6098@business.net
+  phone: +1 559-584-6597
+  ssn: 637 14 3109
+  dob: 18/06/1977
+  address: 8942 South Ave
+  city: Philadelphia
+  state: CO

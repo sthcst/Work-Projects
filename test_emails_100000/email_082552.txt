@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Clark
+  email: lisa.clark2892@outlook.com
+  phone: +1 791-433-8858
+  ssn: 069096983
+  dob: 12-25-1993
+  address: 8329 Park Ln
+  city: Chicago
+  state: VA

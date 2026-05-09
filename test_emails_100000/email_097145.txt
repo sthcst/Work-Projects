@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Wilson",
+    "email": "samantha.wilson3963@company.com",
+    "phone": "(439) 720-2714",
+    "ssn": "370 60 1548",
+    "dob": "10-22-1977",
+    "address": "3044 Oak Rd",
+    "city": "San Diego",
+    "state": "VA"
+  }
+}

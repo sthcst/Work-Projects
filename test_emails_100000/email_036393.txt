@@ -1,0 +1,9 @@
+contact:
+  name: Mark White
+  email: mark.white5404@example.com
+  phone: 723 461 9012
+  ssn: 387815078
+  dob: 05/23/1985
+  address: 8060 Pine Ave
+  city: San Jose
+  state: CO

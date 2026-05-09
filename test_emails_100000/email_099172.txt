@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Delgado",
+    "email": "matthew.delgado5504@business.net",
+    "phone": "+1 475-935-1067",
+    "ssn": "755 97 6605",
+    "dob": "06-18-1989",
+    "address": "8046 Third St",
+    "city": "Dallas",
+    "state": "AZ"
+  }
+}

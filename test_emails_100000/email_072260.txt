@@ -1,0 +1,9 @@
+contact:
+  name: Edward Jackson
+  email: edward.jackson6622@yahoo.com
+  phone: 205-932-5605
+  ssn: 243 37 9098
+  dob: 12/20/1968
+  address: 5745 Oak Ln
+  city: Boston
+  state: AZ

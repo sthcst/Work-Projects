@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Peterson,kimberly.peterson4098@mail.com,(242) 848-2686,465 03 2126,28/08/1968,"9066 Sixth Blvd",San Antonio,TN

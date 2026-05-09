@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Johnson,lauren.johnson8227@mail.com,+1 411-337-2974,242 05 6368,9/19/1993,"7829 South Ln",San Antonio,NJ

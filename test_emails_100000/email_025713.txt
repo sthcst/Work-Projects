@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Delgado",
+    "email": "pamela.delgado5901@outlook.com",
+    "phone": "(736) 212-2042",
+    "ssn": "434 72 3439",
+    "dob": "08/25/1958",
+    "address": "9169 Fifth Ave",
+    "city": "New York",
+    "state": "OH"
+  }
+}

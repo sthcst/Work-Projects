@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Reed,michael.reed1145@yahoo.com,+1 653-403-4416,291-49-1236,02/02/2000,"28 Main Ave",Washington,AZ

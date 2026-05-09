@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine White",
+    "email": "christine.white7639@yahoo.com",
+    "phone": "401 775 3360",
+    "ssn": "947 51 7138",
+    "dob": "06/05/1998",
+    "address": "2809 Main St",
+    "city": "San Diego",
+    "state": "MO"
+  }
+}

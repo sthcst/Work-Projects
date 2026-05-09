@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Miller,william.miller7974@company.com,827-813-9716,851663928,1/28/1971,"9258 Summer Dr",Austin,NY

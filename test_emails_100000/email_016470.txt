@@ -1,0 +1,9 @@
+contact:
+  name: John Edwards
+  email: john.edwards1516@yahoo.com
+  phone: +1 827-613-7177
+  ssn: 757471590
+  dob: 12-19-1994
+  address: 3073 West Ave
+  city: Los Angeles
+  state: CA

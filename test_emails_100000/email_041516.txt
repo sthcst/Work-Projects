@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Serrano",
+    "email": "angela.serrano9636@company.com",
+    "phone": "(202) 825-5896",
+    "ssn": "675571607",
+    "dob": "08-04-1982",
+    "address": "8630 East Way",
+    "city": "Chicago",
+    "state": "DC"
+  }
+}

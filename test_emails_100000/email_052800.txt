@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Peterson
+  email: nicole.peterson8258@company.com
+  phone: 467 934 6987
+  ssn: 975 12 6941
+  dob: 06-02-1998
+  address: 7965 Second Court
+  city: Phoenix
+  state: GA

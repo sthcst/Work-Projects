@@ -1,0 +1,14 @@
+INVOICE 505452
+
+Bill To:
+Name: Brian Hall
+Email: brian.hall9070@gmail.com
+Phone: +1 583-544-7018
+SSN: 846-32-9564
+
+Address: 8134 Cedar Rd
+Phoenix, CA
+
+Date of Birth: 03/01/1972
+
+Amount Due: $9905

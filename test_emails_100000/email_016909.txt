@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Reeves,michael.reeves6635@gmail.com,645 550 9778,795 28 6703,11/13/1976,"2757 Birch Court",Chicago,NY

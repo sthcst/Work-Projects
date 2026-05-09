@@ -1,0 +1,14 @@
+INVOICE 522762
+
+Bill To:
+Name: Paul Morris
+Email: paul.morris6025@example.com
+Phone: +1 519-231-2175
+SSN: 753-75-8521
+
+Address: 6627 Third Blvd
+San Jose, DC
+
+Date of Birth: 2/19/2000
+
+Amount Due: $1626

@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Nelson
+  email: samantha.nelson1692@work.org
+  phone: (947) 966-4758
+  ssn: 934 03 9862
+  dob: 13/08/1971
+  address: 8974 Pine Rd
+  city: Denver
+  state: MA

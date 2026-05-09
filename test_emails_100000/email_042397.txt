@@ -1,0 +1,14 @@
+INVOICE 544697
+
+Bill To:
+Name: Sarah Smith
+Email: sarah.smith1560@outlook.com
+Phone: 509-791-9560
+SSN: 639-12-1274
+
+Address: 128 Fifth Dr
+Seattle, TN
+
+Date of Birth: 03/03/1994
+
+Amount Due: $6476

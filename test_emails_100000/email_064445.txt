@@ -1,0 +1,14 @@
+INVOICE 239877
+
+Bill To:
+Name: Jacob Carter
+Email: jacob.carter1656@company.com
+Phone: 784-236-2205
+SSN: 023253040
+
+Address: 5733 Cedar Ave
+San Antonio, VA
+
+Date of Birth: 23/08/1961
+
+Amount Due: $2014

@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Smith
+  email: jacob.smith9216@mail.com
+  phone: +1 352-893-6804
+  ssn: 909-12-1005
+  dob: 06-11-1991
+  address: 4227 Elm Dr
+  city: Los Angeles
+  state: WA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Moore,christopher.moore4707@outlook.com,(729) 408-8088,884 20 4018,03-04-1996,"7178 Main Dr",Seattle,VA

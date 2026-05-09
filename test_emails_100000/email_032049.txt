@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Jackson,lauren.jackson8358@example.com,613-693-1461,118939978,01/26/1966,"4174 Fourth Ave",San Antonio,TN

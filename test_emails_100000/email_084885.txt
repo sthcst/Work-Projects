@@ -1,0 +1,9 @@
+contact:
+  name: Gary Campbell
+  email: gary.campbell6985@mail.com
+  phone: +1 529-993-5678
+  ssn: 101345428
+  dob: 12/04/1996
+  address: 3714 West Rd
+  city: Washington
+  state: TN

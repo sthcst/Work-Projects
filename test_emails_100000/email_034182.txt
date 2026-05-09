@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Martin,david.martin6343@example.com,+1 733-378-4333,122 31 8604,09-22-1957,"4539 North Blvd",Houston,AZ

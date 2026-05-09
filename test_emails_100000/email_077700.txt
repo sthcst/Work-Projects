@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Young",
+    "email": "samantha.young2057@work.org",
+    "phone": "(332) 678-8873",
+    "ssn": "392181820",
+    "dob": "12/12/1970",
+    "address": "3944 Spring Ave",
+    "city": "Boston",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Ramirez",
+    "email": "ronald.ramirez6338@business.net",
+    "phone": "921-807-4792",
+    "ssn": "930 45 6338",
+    "dob": "28/11/1965",
+    "address": "1227 Spring Court",
+    "city": "San Diego",
+    "state": "NY"
+  }
+}

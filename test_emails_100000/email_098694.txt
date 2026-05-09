@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Miller",
+    "email": "gary.miller969@example.com",
+    "phone": "831 441 3937",
+    "ssn": "901 85 9840",
+    "dob": "3/24/1999",
+    "address": "9128 Second Ln",
+    "city": "Chicago",
+    "state": "FL"
+  }
+}

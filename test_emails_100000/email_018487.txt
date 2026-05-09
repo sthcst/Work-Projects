@@ -1,0 +1,14 @@
+INVOICE 429955
+
+Bill To:
+Name: Timothy Gomez
+Email: timothy.gomez894@work.org
+Phone: (570) 577-1051
+SSN: 225-37-6215
+
+Address: 6281 Pine Rd
+New York, DC
+
+Date of Birth: 9/25/1968
+
+Amount Due: $8118

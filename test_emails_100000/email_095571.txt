@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Martinez
+  email: rebecca.martinez5969@work.org
+  phone: +1 832-527-5355
+  ssn: 345-10-6650
+  dob: 5/7/1982
+  address: 8069 North Way
+  city: Washington
+  state: FL

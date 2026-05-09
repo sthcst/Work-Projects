@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Roberts",
+    "email": "ryan.roberts3124@mail.com",
+    "phone": "789 576 2890",
+    "ssn": "433-51-4093",
+    "dob": "09/21/1966",
+    "address": "7012 Sixth St",
+    "city": "Boston",
+    "state": "VA"
+  }
+}

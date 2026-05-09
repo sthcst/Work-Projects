@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Martin,timothy.martin8553@company.com,494 312 2382,266-66-2021,08/05/1988,"5678 South Way",Austin,FL

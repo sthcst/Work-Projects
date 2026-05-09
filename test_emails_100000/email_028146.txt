@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Robinson,joseph.robinson1892@mail.com,(699) 584-4187,013-36-4091,03-04-1992,"6566 Spring Blvd",Boston,MA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Ortiz",
+    "email": "daniel.ortiz1396@outlook.com",
+    "phone": "(974) 996-7720",
+    "ssn": "251161321",
+    "dob": "13/10/1998",
+    "address": "2834 South Dr",
+    "city": "Los Angeles",
+    "state": "WA"
+  }
+}

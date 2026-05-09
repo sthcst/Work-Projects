@@ -1,0 +1,9 @@
+contact:
+  name: Donald Parker
+  email: donald.parker6608@example.com
+  phone: +1 920-757-5914
+  ssn: 185814472
+  dob: 7/6/1953
+  address: 7053 Fifth St
+  city: Boston
+  state: CA

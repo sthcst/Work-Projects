@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Alvarado,ashley.alvarado3672@business.net,(853) 211-2840,864 93 8725,03/02/1950,"1985 Main Court",Chicago,WI

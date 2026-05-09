@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Martin,anthony.martin3852@company.com,436 374 6903,981209937,22/03/1961,"6768 Third Blvd",Austin,CO

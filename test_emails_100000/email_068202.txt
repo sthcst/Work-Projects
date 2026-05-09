@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Flores,katherine.flores3005@business.net,726 916 4578,908 30 5130,11/09/1977,"4668 Maple Court",Houston,CA

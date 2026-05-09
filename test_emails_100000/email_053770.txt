@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Hall,jessica.hall36@gmail.com,877 996 4093,499156986,09/25/1984,"5557 West Dr",Los Angeles,WA

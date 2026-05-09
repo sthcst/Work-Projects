@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Anderson",
+    "email": "christopher.anderson8071@work.org",
+    "phone": "969 341 6507",
+    "ssn": "503-81-2330",
+    "dob": "07-25-2004",
+    "address": "1797 Birch Ave",
+    "city": "Boston",
+    "state": "CA"
+  }
+}

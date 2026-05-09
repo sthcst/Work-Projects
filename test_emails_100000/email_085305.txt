@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Brown
+  email: amanda.brown6490@mail.com
+  phone: (675) 708-5770
+  ssn: 341 21 3217
+  dob: 07/06/1952
+  address: 2801 North Rd
+  city: Phoenix
+  state: NJ

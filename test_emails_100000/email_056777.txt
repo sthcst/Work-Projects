@@ -1,0 +1,9 @@
+contact:
+  name: Gary Jones
+  email: gary.jones5919@business.net
+  phone: 817 671 8391
+  ssn: 845-82-2403
+  dob: 12/06/1977
+  address: 6376 Fourth Court
+  city: Boston
+  state: IL

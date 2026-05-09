@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Nelson,katherine.nelson344@yahoo.com,(502) 583-6112,651694905,05/20/1985,"1435 West Dr",Denver,TN

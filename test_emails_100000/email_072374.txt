@@ -1,0 +1,14 @@
+INVOICE 583004
+
+Bill To:
+Name: Pamela Stewart
+Email: pamela.stewart3445@example.com
+Phone: +1 248-860-7129
+SSN: 640-71-4627
+
+Address: 9976 Sixth Dr
+San Antonio, DC
+
+Date of Birth: 28/11/1991
+
+Amount Due: $1380

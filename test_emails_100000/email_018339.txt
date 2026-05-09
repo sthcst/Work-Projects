@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Thomas",
+    "email": "jeffrey.thomas4710@work.org",
+    "phone": "+1 841-581-4663",
+    "ssn": "748501751",
+    "dob": "03/26/1991",
+    "address": "4258 Fifth St",
+    "city": "Houston",
+    "state": "AZ"
+  }
+}

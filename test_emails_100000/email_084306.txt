@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Taylor",
+    "email": "jennifer.taylor2295@outlook.com",
+    "phone": "(795) 568-5803",
+    "ssn": "894 96 2984",
+    "dob": "07-08-1993",
+    "address": "5797 Main Way",
+    "city": "New York",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Maria Anderson
+  email: maria.anderson1272@work.org
+  phone: (792) 221-9612
+  ssn: 123 89 1673
+  dob: 04/03/1972
+  address: 1633 East Rd
+  city: San Diego
+  state: VA

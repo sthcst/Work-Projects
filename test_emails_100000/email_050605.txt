@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Harris
+  email: stephanie.harris6289@company.com
+  phone: +1 218-976-3027
+  ssn: 166 75 3643
+  dob: 18/12/1971
+  address: 2222 Birch Blvd
+  city: Denver
+  state: GA

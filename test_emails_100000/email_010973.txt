@@ -1,0 +1,9 @@
+contact:
+  name: Matthew Edwards
+  email: matthew.edwards5158@outlook.com
+  phone: +1 657-970-5628
+  ssn: 139 47 7054
+  dob: 28/09/1964
+  address: 3477 Main Rd
+  city: Los Angeles
+  state: TN

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Hall",
+    "email": "stephanie.hall2089@outlook.com",
+    "phone": "(525) 306-4440",
+    "ssn": "739-42-6986",
+    "dob": "01-17-1985",
+    "address": "7724 North Rd",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

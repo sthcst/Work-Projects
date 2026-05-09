@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Morris
+  email: shirley.morris9589@example.com
+  phone: 336 824 4866
+  ssn: 490 61 7748
+  dob: 8/16/1964
+  address: 6467 First Dr
+  city: Los Angeles
+  state: MO

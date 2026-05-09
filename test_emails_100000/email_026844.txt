@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Nelson",
+    "email": "paul.nelson9488@company.com",
+    "phone": "(743) 240-3491",
+    "ssn": "704304928",
+    "dob": "04/21/2001",
+    "address": "8224 Main Court",
+    "city": "Boston",
+    "state": "NC"
+  }
+}

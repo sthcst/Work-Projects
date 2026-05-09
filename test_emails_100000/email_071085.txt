@@ -1,0 +1,9 @@
+contact:
+  name: John Young
+  email: john.young4926@company.com
+  phone: 766-580-3748
+  ssn: 063-52-4875
+  dob: 3/13/1964
+  address: 1469 East Ln
+  city: Chicago
+  state: TX

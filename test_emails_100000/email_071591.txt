@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Gonzalez
+  email: anthony.gonzalez2969@business.net
+  phone: 610-822-9361
+  ssn: 578-29-1264
+  dob: 2/27/1976
+  address: 7467 Main Ln
+  city: Seattle
+  state: CA

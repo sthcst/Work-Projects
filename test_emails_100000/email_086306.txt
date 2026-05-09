@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Lewis",
+    "email": "sarah.lewis7861@example.com",
+    "phone": "589 600 4666",
+    "ssn": "385 52 1069",
+    "dob": "01-12-2004",
+    "address": "5350 Third Blvd",
+    "city": "San Jose",
+    "state": "VA"
+  }
+}

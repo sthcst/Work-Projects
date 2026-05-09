@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Delgado,christine.delgado3588@yahoo.com,(546) 289-2897,060 54 3485,07-07-1999,"5965 Maple Court",San Antonio,GA

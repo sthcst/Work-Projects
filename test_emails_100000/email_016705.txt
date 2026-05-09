@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Reeves",
+    "email": "richard.reeves6382@yahoo.com",
+    "phone": "784-904-1876",
+    "ssn": "676115605",
+    "dob": "09/20/1966",
+    "address": "2617 Park St",
+    "city": "San Antonio",
+    "state": "WI"
+  }
+}

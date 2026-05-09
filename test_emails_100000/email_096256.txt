@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Cooper,jessica.cooper5193@company.com,(458) 284-3274,579 62 6703,10/06/2000,"7214 Second Way",Chicago,TX

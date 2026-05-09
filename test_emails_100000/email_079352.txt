@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Robinson
+  email: katherine.robinson4732@outlook.com
+  phone: +1 821-756-6532
+  ssn: 302-22-1813
+  dob: 09/04/1973
+  address: 2024 South Ave
+  city: Phoenix
+  state: CA

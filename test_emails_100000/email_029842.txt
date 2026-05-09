@@ -1,0 +1,9 @@
+contact:
+  name: Michael Parker
+  email: michael.parker303@example.com
+  phone: 333-971-9052
+  ssn: 473173694
+  dob: 08/12/1982
+  address: 7004 Third St
+  city: Houston
+  state: PA

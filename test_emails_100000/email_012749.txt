@@ -1,0 +1,14 @@
+INVOICE 907246
+
+Bill To:
+Name: Michael Taylor
+Email: michael.taylor9307@mail.com
+Phone: 878 648 8435
+SSN: 155216728
+
+Address: 4149 Third Blvd
+San Diego, NJ
+
+Date of Birth: 9/6/1987
+
+Amount Due: $9162

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Roberts,amanda.roberts6097@mail.com,686-821-3077,283-66-1582,05/06/1977,"6697 Summer Ave",Denver,AZ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Martinez",
+    "email": "michael.martinez8744@gmail.com",
+    "phone": "(853) 460-2196",
+    "ssn": "269124733",
+    "dob": "07-18-1981",
+    "address": "6390 East Dr",
+    "city": "Dallas",
+    "state": "VA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Jackson",
+    "email": "michael.jackson2530@yahoo.com",
+    "phone": "(731) 280-3300",
+    "ssn": "634 99 2965",
+    "dob": "08-18-2005",
+    "address": "5401 Birch Blvd",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

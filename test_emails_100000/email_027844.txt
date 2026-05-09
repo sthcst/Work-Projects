@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Davis",
+    "email": "ronald.davis1958@example.com",
+    "phone": "(707) 305-3775",
+    "ssn": "162 74 5805",
+    "dob": "03/12/1979",
+    "address": "9093 East Court",
+    "city": "New York",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Helen Campbell
+  email: helen.campbell6437@yahoo.com
+  phone: 380-850-7955
+  ssn: 086-47-4576
+  dob: 06/03/1965
+  address: 6434 East Dr
+  city: Denver
+  state: WA

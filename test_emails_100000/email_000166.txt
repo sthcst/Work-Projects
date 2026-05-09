@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Gonzalez,william.gonzalez2743@gmail.com,415-886-4492,886-88-7950,18/04/2003,"1191 Maple St",Seattle,VA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Smith",
+    "email": "david.smith3343@mail.com",
+    "phone": "+1 746-758-2193",
+    "ssn": "371 37 2329",
+    "dob": "19/05/1986",
+    "address": "5235 Third Court",
+    "city": "Austin",
+    "state": "DC"
+  }
+}

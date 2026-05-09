@@ -1,0 +1,9 @@
+contact:
+  name: Brian Alvarado
+  email: brian.alvarado6363@company.com
+  phone: (486) 293-7050
+  ssn: 175-70-5779
+  dob: 10/10/1996
+  address: 9336 Cedar Court
+  city: New York
+  state: FL

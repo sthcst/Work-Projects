@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Rodriguez",
+    "email": "michael.rodriguez6366@yahoo.com",
+    "phone": "577 747 3702",
+    "ssn": "299 06 1608",
+    "dob": "01/28/1959",
+    "address": "7362 Third Blvd",
+    "city": "New York",
+    "state": "PA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Nelson",
+    "email": "jason.nelson6861@work.org",
+    "phone": "+1 852-453-6770",
+    "ssn": "122539038",
+    "dob": "2/26/1960",
+    "address": "8081 West Ln",
+    "city": "Jacksonville",
+    "state": "MO"
+  }
+}

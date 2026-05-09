@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Collins",
+    "email": "katherine.collins257@gmail.com",
+    "phone": "+1 450-753-6053",
+    "ssn": "241909699",
+    "dob": "20/06/2000",
+    "address": "7940 Maple St",
+    "city": "Los Angeles",
+    "state": "NY"
+  }
+}

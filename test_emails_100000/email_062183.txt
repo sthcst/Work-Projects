@@ -1,0 +1,9 @@
+contact:
+  name: Brian Brown
+  email: brian.brown163@work.org
+  phone: 651-552-3896
+  ssn: 535984031
+  dob: 12-27-1957
+  address: 4305 First Rd
+  city: Boston
+  state: CA

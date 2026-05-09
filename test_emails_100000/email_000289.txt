@@ -1,0 +1,14 @@
+INVOICE 307897
+
+Bill To:
+Name: Charles Gomez
+Email: charles.gomez5234@work.org
+Phone: +1 952-336-5270
+SSN: 178 88 6367
+
+Address: 2990 East Way
+San Diego, NY
+
+Date of Birth: 04-03-1976
+
+Amount Due: $4389

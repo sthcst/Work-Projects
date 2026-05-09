@@ -1,0 +1,9 @@
+contact:
+  name: Jason Serrano
+  email: jason.serrano7943@mail.com
+  phone: 674 706 5985
+  ssn: 129685595
+  dob: 06-16-1983
+  address: 4157 Birch Rd
+  city: San Diego
+  state: WA

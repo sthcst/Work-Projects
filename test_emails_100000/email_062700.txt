@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Martin",
+    "email": "jason.martin4229@gmail.com",
+    "phone": "(841) 531-1089",
+    "ssn": "518-87-8145",
+    "dob": "12/12/1974",
+    "address": "5349 Maple Rd",
+    "city": "Los Angeles",
+    "state": "VA"
+  }
+}

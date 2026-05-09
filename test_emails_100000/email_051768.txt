@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Stewart",
+    "email": "james.stewart2126@gmail.com",
+    "phone": "+1 553-350-2518",
+    "ssn": "945 37 7439",
+    "dob": "11/23/1984",
+    "address": "1748 First Way",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

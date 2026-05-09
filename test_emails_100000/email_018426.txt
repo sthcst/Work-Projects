@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Phillips,daniel.phillips1204@business.net,(563) 315-4515,551-75-9617,02/15/1985,"7183 Second St",New York,AZ

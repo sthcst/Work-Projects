@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Taylor",
+    "email": "ryan.taylor1272@company.com",
+    "phone": "845-656-5227",
+    "ssn": "216-18-9708",
+    "dob": "6/20/2003",
+    "address": "3475 Summer Dr",
+    "city": "Austin",
+    "state": "OH"
+  }
+}

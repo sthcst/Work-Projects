@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Moore",
+    "email": "lauren.moore8444@business.net",
+    "phone": "(751) 437-3042",
+    "ssn": "123-67-8813",
+    "dob": "03/05/1966",
+    "address": "9125 Summer Rd",
+    "city": "Philadelphia",
+    "state": "CA"
+  }
+}

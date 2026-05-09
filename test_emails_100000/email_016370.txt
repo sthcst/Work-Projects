@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Hall,william.hall2752@business.net,941 223 8950,128882559,04/17/1977,"1168 Elm Blvd",Washington,NJ

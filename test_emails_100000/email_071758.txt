@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Stewart",
+    "email": "deborah.stewart6609@outlook.com",
+    "phone": "758-950-3117",
+    "ssn": "826711826",
+    "dob": "05-14-1975",
+    "address": "9625 Birch Court",
+    "city": "Philadelphia",
+    "state": "MA"
+  }
+}

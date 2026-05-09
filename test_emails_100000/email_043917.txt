@@ -1,0 +1,14 @@
+INVOICE 575779
+
+Bill To:
+Name: Michael Harris
+Email: michael.harris7126@work.org
+Phone: 215 271 7785
+SSN: 593-08-9001
+
+Address: 6590 Spring Court
+San Diego, CA
+
+Date of Birth: 08-16-1950
+
+Amount Due: $265

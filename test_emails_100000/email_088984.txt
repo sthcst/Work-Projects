@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Reyes",
+    "email": "jeffrey.reyes8042@yahoo.com",
+    "phone": "986-340-3179",
+    "ssn": "830 65 4262",
+    "dob": "08/02/1950",
+    "address": "2152 Birch Blvd",
+    "city": "Austin",
+    "state": "WA"
+  }
+}

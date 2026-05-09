@@ -1,0 +1,14 @@
+INVOICE 331203
+
+Bill To:
+Name: Edward Brown
+Email: edward.brown1653@business.net
+Phone: 388-436-8374
+SSN: 976 10 3345
+
+Address: 5586 Maple St
+Boston, AZ
+
+Date of Birth: 2/24/1982
+
+Amount Due: $1065

@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Dominguez
+  email: andrew.dominguez5681@gmail.com
+  phone: (625) 367-6169
+  ssn: 134 26 5310
+  dob: 03-19-1950
+  address: 3988 Spring Rd
+  city: Washington
+  state: IL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Hall",
+    "email": "jacob.hall1133@business.net",
+    "phone": "(258) 558-9921",
+    "ssn": "815-99-4635",
+    "dob": "03/11/1969",
+    "address": "3772 First Ln",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

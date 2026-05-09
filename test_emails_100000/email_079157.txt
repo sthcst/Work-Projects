@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Collins",
+    "email": "helen.collins4159@company.com",
+    "phone": "937 787 9060",
+    "ssn": "124-55-7296",
+    "dob": "05/06/1992",
+    "address": "4794 West Court",
+    "city": "Jacksonville",
+    "state": "IL"
+  }
+}

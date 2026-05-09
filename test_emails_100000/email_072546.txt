@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Thompson,david.thompson4781@mail.com,+1 500-574-5877,094275672,20/04/1988,"3667 East St",Boston,MA

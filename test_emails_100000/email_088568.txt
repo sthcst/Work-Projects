@@ -1,0 +1,14 @@
+INVOICE 293331
+
+Bill To:
+Name: George Reeves
+Email: george.reeves2624@business.net
+Phone: 429-315-4407
+SSN: 843-53-1262
+
+Address: 6478 Maple Way
+Phoenix, CA
+
+Date of Birth: 06/23/1993
+
+Amount Due: $7311

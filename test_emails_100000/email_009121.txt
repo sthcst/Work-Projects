@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Robinson",
+    "email": "matthew.robinson6829@example.com",
+    "phone": "776-393-2040",
+    "ssn": "432043575",
+    "dob": "20/05/1997",
+    "address": "7498 Fourth Blvd",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

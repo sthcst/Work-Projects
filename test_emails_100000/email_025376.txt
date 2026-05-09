@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Rodriguez",
+    "email": "ashley.rodriguez422@example.com",
+    "phone": "(293) 488-6332",
+    "ssn": "117-43-3497",
+    "dob": "11/10/1984",
+    "address": "9241 Birch Dr",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

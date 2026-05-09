@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Perez,anthony.perez4211@yahoo.com,527-481-3594,880 30 4402,10/06/1960,"3389 Fifth Ln",Denver,DC

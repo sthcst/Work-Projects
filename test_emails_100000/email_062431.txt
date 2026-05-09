@@ -1,0 +1,9 @@
+contact:
+  name: Emily Guerrero
+  email: emily.guerrero7553@business.net
+  phone: 365-269-4630
+  ssn: 770711323
+  dob: 06-27-1995
+  address: 274 Summer Dr
+  city: San Diego
+  state: CA

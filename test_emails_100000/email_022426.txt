@@ -1,0 +1,14 @@
+INVOICE 552545
+
+Bill To:
+Name: Jacob Carter
+Email: jacob.carter3981@company.com
+Phone: 269 309 5699
+SSN: 469385826
+
+Address: 9941 Spring Dr
+Dallas, WA
+
+Date of Birth: 10/07/1952
+
+Amount Due: $5466

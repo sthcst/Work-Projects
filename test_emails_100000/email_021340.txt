@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Reed,amanda.reed1225@company.com,260-320-6689,451 66 9844,22/05/1976,"7922 Maple Ln",Philadelphia,MA

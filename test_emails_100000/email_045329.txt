@@ -1,0 +1,9 @@
+contact:
+  name: Charles Reyes
+  email: charles.reyes8565@example.com
+  phone: 434-396-7375
+  ssn: 016 75 1692
+  dob: 4/24/1972
+  address: 284 Main Way
+  city: Seattle
+  state: WA

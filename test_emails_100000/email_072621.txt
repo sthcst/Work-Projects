@@ -1,0 +1,14 @@
+INVOICE 655204
+
+Bill To:
+Name: George Anderson
+Email: george.anderson8527@mail.com
+Phone: 272-320-3410
+SSN: 410 89 4404
+
+Address: 2237 North Ln
+San Diego, TX
+
+Date of Birth: 06/10/1964
+
+Amount Due: $3514

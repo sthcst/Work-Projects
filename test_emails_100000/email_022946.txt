@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Jones",
+    "email": "stephanie.jones8805@business.net",
+    "phone": "(764) 489-9591",
+    "ssn": "460143706",
+    "dob": "01/08/1977",
+    "address": "1491 Main Way",
+    "city": "Philadelphia",
+    "state": "IL"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Reed",
+    "email": "sarah.reed2911@mail.com",
+    "phone": "419-686-2955",
+    "ssn": "340578735",
+    "dob": "9/14/1973",
+    "address": "9949 Park Dr",
+    "city": "Boston",
+    "state": "CA"
+  }
+}

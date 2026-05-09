@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Nelson
+  email: nicole.nelson6972@example.com
+  phone: (237) 613-2032
+  ssn: 338 12 9413
+  dob: 10/14/1981
+  address: 3461 Summer Ln
+  city: San Antonio
+  state: TX

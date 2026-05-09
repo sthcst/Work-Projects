@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Jackson",
+    "email": "stephanie.jackson9708@work.org",
+    "phone": "430-273-1221",
+    "ssn": "315 20 4678",
+    "dob": "7/13/1956",
+    "address": "4402 Park Dr",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Sanchez,nicholas.sanchez1703@company.com,312 821 2917,820 76 1031,12/19/1963,"5747 Park Ave",San Antonio,FL

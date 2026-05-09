@@ -1,0 +1,12 @@
+SUPPORT TICKET #86746
+
+Customer: Kevin Serrano
+Email: kevin.serrano1098@example.com
+Phone: +1 783-373-8427
+Account: 912 61 8803
+
+Issue Description: Technical problem reported
+DOB on file: 12/06/1994
+Address: 756 Birch Ln, Philadelphia, WA
+
+Status: OPEN

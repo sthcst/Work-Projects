@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Moore
+  email: katherine.moore3190@mail.com
+  phone: 835-578-4600
+  ssn: 791326086
+  dob: 2/6/1958
+  address: 1273 East Ln
+  city: Austin
+  state: MO

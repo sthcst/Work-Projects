@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Thomas,joseph.thomas647@gmail.com,463 982 3324,658-28-4780,02-09-1978,"8624 Sixth Way",Seattle,TN

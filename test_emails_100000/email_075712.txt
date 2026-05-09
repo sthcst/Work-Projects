@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Martin",
+    "email": "anna.martin6197@mail.com",
+    "phone": "+1 872-387-6850",
+    "ssn": "225-86-2213",
+    "dob": "10/14/1960",
+    "address": "2094 Fifth Dr",
+    "city": "San Jose",
+    "state": "FL"
+  }
+}

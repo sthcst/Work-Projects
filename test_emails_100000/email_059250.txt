@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Romero
+  email: katherine.romero799@business.net
+  phone: 215-360-8216
+  ssn: 690206862
+  dob: 5/24/1954
+  address: 9538 Oak St
+  city: Phoenix
+  state: CA

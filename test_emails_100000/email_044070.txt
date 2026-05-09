@@ -1,0 +1,14 @@
+INVOICE 989479
+
+Bill To:
+Name: Samantha Lee
+Email: samantha.lee8683@business.net
+Phone: 556 414 1008
+SSN: 629 54 9193
+
+Address: 927 North Court
+Austin, MD
+
+Date of Birth: 28/06/1966
+
+Amount Due: $4885

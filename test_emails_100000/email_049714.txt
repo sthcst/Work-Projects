@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Rodriguez",
+    "email": "cynthia.rodriguez5908@yahoo.com",
+    "phone": "487 415 6386",
+    "ssn": "781 12 4223",
+    "dob": "24/12/1979",
+    "address": "6849 North Way",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

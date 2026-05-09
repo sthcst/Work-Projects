@@ -1,0 +1,9 @@
+contact:
+  name: Maria Serrano
+  email: maria.serrano2795@outlook.com
+  phone: (636) 223-4010
+  ssn: 286-40-3912
+  dob: 7/19/1951
+  address: 2172 South Court
+  city: San Jose
+  state: MA

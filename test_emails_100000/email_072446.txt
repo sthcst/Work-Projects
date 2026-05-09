@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Rodriguez,joseph.rodriguez271@gmail.com,247-586-4753,149-43-8041,02-28-1951,"7067 Cedar St",Denver,CO

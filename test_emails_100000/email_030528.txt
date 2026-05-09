@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Johnson",
+    "email": "maria.johnson5197@business.net",
+    "phone": "+1 855-257-8117",
+    "ssn": "878209727",
+    "dob": "12/04/1970",
+    "address": "7561 Elm Dr",
+    "city": "Philadelphia",
+    "state": "WI"
+  }
+}

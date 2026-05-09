@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Ramirez",
+    "email": "jacob.ramirez2940@company.com",
+    "phone": "+1 740-531-7341",
+    "ssn": "167 70 3983",
+    "dob": "12/13/1956",
+    "address": "7344 Main Blvd",
+    "city": "Washington",
+    "state": "GA"
+  }
+}

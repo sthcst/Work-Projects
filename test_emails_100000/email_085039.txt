@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Martinez
+  email: deborah.martinez3321@business.net
+  phone: +1 419-369-3607
+  ssn: 894-94-1500
+  dob: 01-19-1951
+  address: 4544 Fourth Blvd
+  city: Chicago
+  state: CA

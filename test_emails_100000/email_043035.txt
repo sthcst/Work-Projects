@@ -1,0 +1,9 @@
+contact:
+  name: John Serrano
+  email: john.serrano6502@example.com
+  phone: +1 484-535-8023
+  ssn: 322 72 8393
+  dob: 27/08/1975
+  address: 5375 West Blvd
+  city: New York
+  state: WA

@@ -1,0 +1,9 @@
+contact:
+  name: Jane Gomez
+  email: jane.gomez2303@company.com
+  phone: +1 925-915-8323
+  ssn: 780 59 8644
+  dob: 07-12-1952
+  address: 7713 Fourth St
+  city: Seattle
+  state: AZ

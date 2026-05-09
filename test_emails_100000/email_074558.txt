@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Romero,megan.romero1455@business.net,+1 356-738-5877,586-90-8872,09-25-1951,"9358 Main Ln",Chicago,OH

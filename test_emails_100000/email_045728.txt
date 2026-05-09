@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Jimenez
+  email: ashley.jimenez1133@outlook.com
+  phone: (811) 490-8319
+  ssn: 060-64-7525
+  dob: 06-20-1981
+  address: 3357 Summer Ave
+  city: Boston
+  state: DC

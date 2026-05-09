@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Guerrero",
+    "email": "joshua.guerrero6589@business.net",
+    "phone": "(306) 273-7156",
+    "ssn": "350 06 6483",
+    "dob": "03-24-1967",
+    "address": "2303 Elm Dr",
+    "city": "Denver",
+    "state": "FL"
+  }
+}

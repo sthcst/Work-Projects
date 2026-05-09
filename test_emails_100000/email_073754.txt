@@ -1,0 +1,14 @@
+INVOICE 824536
+
+Bill To:
+Name: Jane Hernandez
+Email: jane.hernandez7388@example.com
+Phone: +1 738-294-8007
+SSN: 938 60 9921
+
+Address: 9084 Birch St
+Philadelphia, CO
+
+Date of Birth: 3/25/1952
+
+Amount Due: $1399

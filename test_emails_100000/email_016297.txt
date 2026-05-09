@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Rodriguez,edward.rodriguez8108@business.net,+1 613-649-6313,711 54 6134,03/13/2001,"8769 Summer Dr",San Diego,MI

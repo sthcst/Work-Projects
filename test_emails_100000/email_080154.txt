@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Reyes",
+    "email": "brian.reyes3142@yahoo.com",
+    "phone": "364-282-4087",
+    "ssn": "485496629",
+    "dob": "6/27/1954",
+    "address": "3115 First Ave",
+    "city": "Houston",
+    "state": "AZ"
+  }
+}

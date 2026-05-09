@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Parker",
+    "email": "jeffrey.parker2791@yahoo.com",
+    "phone": "(604) 593-5242",
+    "ssn": "229688594",
+    "dob": "05-27-1954",
+    "address": "2362 Summer Dr",
+    "city": "New York",
+    "state": "VA"
+  }
+}

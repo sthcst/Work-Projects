@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Jackson,pamela.jackson9629@example.com,+1 271-918-9787,469783324,11/13/1973,"1001 First Dr",Austin,AZ

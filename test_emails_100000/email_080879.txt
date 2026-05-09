@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Perez,robert.perez1617@example.com,763-202-6579,270 10 6464,02/10/1970,"5150 West Dr",Los Angeles,WI

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Walker,amanda.walker5448@company.com,(755) 571-4061,435-21-1673,07-20-1973,"5513 Fifth Ln",Washington,PA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Johnson,ronald.johnson8117@mail.com,668 333 8320,137 91 9332,07-12-1961,"2896 Summer St",San Diego,MI

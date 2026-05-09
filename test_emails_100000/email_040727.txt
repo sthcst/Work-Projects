@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Walker",
+    "email": "timothy.walker2774@business.net",
+    "phone": "+1 491-597-2371",
+    "ssn": "896 47 2273",
+    "dob": "8/19/2003",
+    "address": "8435 Spring Dr",
+    "city": "Houston",
+    "state": "OH"
+  }
+}

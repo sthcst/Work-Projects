@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Rogers,deborah.rogers8242@example.com,(506) 648-7280,204432085,9/13/1987,"932 Fourth Ln",Philadelphia,IL

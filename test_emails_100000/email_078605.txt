@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Reyes,angela.reyes2950@mail.com,+1 511-935-2793,175 34 9546,20/11/1969,"2326 Elm Ln",Phoenix,TX

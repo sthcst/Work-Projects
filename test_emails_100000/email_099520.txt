@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Martinez
+  email: andrew.martinez2009@outlook.com
+  phone: (695) 444-4791
+  ssn: 787 90 8803
+  dob: 1/20/1975
+  address: 2789 Spring Ave
+  city: Dallas
+  state: AZ

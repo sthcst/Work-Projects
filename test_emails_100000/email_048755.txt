@@ -1,0 +1,14 @@
+INVOICE 168042
+
+Bill To:
+Name: Jeffrey Johnson
+Email: jeffrey.johnson6449@business.net
+Phone: 588 302 3445
+SSN: 333 37 1792
+
+Address: 4002 West Court
+Los Angeles, TX
+
+Date of Birth: 11/9/1964
+
+Amount Due: $935

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Jackson",
+    "email": "robert.jackson7582@work.org",
+    "phone": "(624) 854-7648",
+    "ssn": "236 23 1887",
+    "dob": "11/10/1993",
+    "address": "6284 Park Blvd",
+    "city": "Dallas",
+    "state": "AZ"
+  }
+}

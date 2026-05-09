@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Jones,john.jones9914@outlook.com,(698) 236-4004,617 87 1773,19/10/1988,"5683 Oak Court",Denver,TN

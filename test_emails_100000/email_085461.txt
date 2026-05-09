@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Stewart
+  email: stephanie.stewart3775@company.com
+  phone: 371 848 8824
+  ssn: 178-64-3723
+  dob: 06-19-2000
+  address: 5334 Cedar Ave
+  city: Philadelphia
+  state: PA

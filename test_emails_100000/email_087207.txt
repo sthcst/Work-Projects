@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Miller",
+    "email": "david.miller3016@gmail.com",
+    "phone": "+1 626-888-4536",
+    "ssn": "498 72 3469",
+    "dob": "04/24/1998",
+    "address": "7616 Summer Court",
+    "city": "Houston",
+    "state": "MA"
+  }
+}

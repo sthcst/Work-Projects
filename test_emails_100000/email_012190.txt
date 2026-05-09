@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Jimenez",
+    "email": "angela.jimenez754@business.net",
+    "phone": "(802) 870-9295",
+    "ssn": "802-42-3742",
+    "dob": "18/07/1998",
+    "address": "5106 First Ave",
+    "city": "Jacksonville",
+    "state": "NY"
+  }
+}

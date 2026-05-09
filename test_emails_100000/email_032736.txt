@@ -1,0 +1,9 @@
+contact:
+  name: Mark Ramirez
+  email: mark.ramirez5155@company.com
+  phone: 630 944 5044
+  ssn: 417-27-2546
+  dob: 06/14/1955
+  address: 682 Third Way
+  city: Austin
+  state: CA

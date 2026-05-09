@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Dominguez
+  email: daniel.dominguez1284@yahoo.com
+  phone: +1 435-552-6977
+  ssn: 575324139
+  dob: 09/09/1982
+  address: 4412 Birch Ave
+  city: Phoenix
+  state: TX

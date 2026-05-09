@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Hall",
+    "email": "megan.hall2093@outlook.com",
+    "phone": "+1 904-806-1076",
+    "ssn": "026-47-4022",
+    "dob": "11/20/1970",
+    "address": "4258 Third Dr",
+    "city": "Philadelphia",
+    "state": "IL"
+  }
+}

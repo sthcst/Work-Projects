@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Johnson
+  email: sarah.johnson4170@gmail.com
+  phone: (504) 976-2884
+  ssn: 828459290
+  dob: 21/06/1981
+  address: 6882 Oak Ln
+  city: New York
+  state: AZ

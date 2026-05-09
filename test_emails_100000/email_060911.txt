@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Clark",
+    "email": "ashley.clark5650@company.com",
+    "phone": "530 336 7268",
+    "ssn": "010-36-4879",
+    "dob": "2/3/1990",
+    "address": "9478 Pine Ln",
+    "city": "Denver",
+    "state": "MI"
+  }
+}

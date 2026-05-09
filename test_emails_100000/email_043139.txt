@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Ortiz",
+    "email": "katherine.ortiz4884@business.net",
+    "phone": "548 725 7768",
+    "ssn": "919939000",
+    "dob": "11-19-1971",
+    "address": "5272 Pine Dr",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Jones",
+    "email": "katherine.jones6719@outlook.com",
+    "phone": "447-469-3414",
+    "ssn": "559 17 6362",
+    "dob": "11-25-1985",
+    "address": "3744 Spring Dr",
+    "city": "Dallas",
+    "state": "FL"
+  }
+}

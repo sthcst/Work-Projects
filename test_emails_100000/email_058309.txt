@@ -1,0 +1,9 @@
+contact:
+  name: Megan Robinson
+  email: megan.robinson2259@business.net
+  phone: 599 206 8060
+  ssn: 931969666
+  dob: 01-02-1958
+  address: 3339 Elm Dr
+  city: Chicago
+  state: NJ

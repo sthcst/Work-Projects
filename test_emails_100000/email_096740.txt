@@ -1,0 +1,14 @@
+INVOICE 699828
+
+Bill To:
+Name: Anna Young
+Email: anna.young9900@work.org
+Phone: 918 397 6737
+SSN: 293 22 5179
+
+Address: 4067 Cedar Dr
+San Jose, OH
+
+Date of Birth: 7/27/2005
+
+Amount Due: $9496

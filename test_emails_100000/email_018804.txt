@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Alvarado,emma.alvarado4384@mail.com,612 452 1697,875184075,09/05/1996,"1156 Third St",Denver,GA

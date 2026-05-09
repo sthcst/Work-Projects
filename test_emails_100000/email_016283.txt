@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Perez",
+    "email": "lauren.perez8159@outlook.com",
+    "phone": "(798) 649-8835",
+    "ssn": "597465938",
+    "dob": "7/16/1991",
+    "address": "1267 Sixth Blvd",
+    "city": "Seattle",
+    "state": "GA"
+  }
+}

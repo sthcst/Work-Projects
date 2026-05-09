@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Edwards",
+    "email": "edward.edwards9861@outlook.com",
+    "phone": "229 909 4380",
+    "ssn": "349092523",
+    "dob": "01-24-2005",
+    "address": "4480 Park St",
+    "city": "Los Angeles",
+    "state": "AZ"
+  }
+}

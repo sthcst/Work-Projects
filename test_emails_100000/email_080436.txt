@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Jones",
+    "email": "mark.jones3183@example.com",
+    "phone": "756-801-3877",
+    "ssn": "569 33 7225",
+    "dob": "27/07/1988",
+    "address": "5250 Pine Way",
+    "city": "Houston",
+    "state": "WI"
+  }
+}

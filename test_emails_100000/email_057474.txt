@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Peterson",
+    "email": "katherine.peterson1742@company.com",
+    "phone": "+1 332-268-8759",
+    "ssn": "289628422",
+    "dob": "05/15/1954",
+    "address": "4545 Third Ln",
+    "city": "San Jose",
+    "state": "MI"
+  }
+}

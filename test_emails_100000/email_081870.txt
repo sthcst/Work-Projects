@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Jimenez",
+    "email": "sarah.jimenez417@example.com",
+    "phone": "(879) 266-6800",
+    "ssn": "288754236",
+    "dob": "09-11-1969",
+    "address": "7162 Pine Dr",
+    "city": "Austin",
+    "state": "AZ"
+  }
+}

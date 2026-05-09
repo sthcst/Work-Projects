@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Campbell,richard.campbell4514@company.com,353-429-4578,887109696,07-05-1999,"1399 Third Blvd",San Antonio,DC

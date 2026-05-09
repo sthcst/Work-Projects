@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Rogers,timothy.rogers6497@gmail.com,250-779-2464,732794900,06/08/1972,"4605 Fourth Ave",San Diego,CO

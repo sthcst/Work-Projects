@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Rodriguez",
+    "email": "gary.rodriguez885@outlook.com",
+    "phone": "+1 248-771-3356",
+    "ssn": "252-44-5177",
+    "dob": "8/28/1999",
+    "address": "9182 First Court",
+    "city": "Boston",
+    "state": "OH"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Johnson",
+    "email": "cynthia.johnson2641@mail.com",
+    "phone": "350 709 5494",
+    "ssn": "071-24-5423",
+    "dob": "10/9/1984",
+    "address": "2396 Summer Ln",
+    "city": "Houston",
+    "state": "FL"
+  }
+}

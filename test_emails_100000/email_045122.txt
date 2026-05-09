@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Garcia
+  email: stephanie.garcia3789@business.net
+  phone: (389) 672-1339
+  ssn: 540-73-5127
+  dob: 07-23-1984
+  address: 2219 Sixth St
+  city: Dallas
+  state: TX

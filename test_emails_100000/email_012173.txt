@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Hall,angela.hall9630@outlook.com,484-316-3821,071-28-7250,18/10/1970,"9060 Spring Ave",San Antonio,MA

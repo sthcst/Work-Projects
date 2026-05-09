@@ -1,0 +1,14 @@
+INVOICE 823943
+
+Bill To:
+Name: Emma Rodriguez
+Email: emma.rodriguez1096@outlook.com
+Phone: (345) 823-8329
+SSN: 198 43 4442
+
+Address: 4814 Second Way
+Seattle, MD
+
+Date of Birth: 11/22/1975
+
+Amount Due: $9866

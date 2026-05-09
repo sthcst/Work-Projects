@@ -1,0 +1,14 @@
+INVOICE 298985
+
+Bill To:
+Name: Edward Romero
+Email: edward.romero9340@gmail.com
+Phone: (529) 982-5186
+SSN: 508-20-3519
+
+Address: 1288 Pine St
+San Jose, TX
+
+Date of Birth: 19/10/2004
+
+Amount Due: $3928

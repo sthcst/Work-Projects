@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Martinez,deborah.martinez4057@business.net,+1 711-249-3033,533 29 2938,13/12/1966,"659 Summer Rd",San Antonio,CO

@@ -1,0 +1,9 @@
+contact:
+  name: Anna White
+  email: anna.white4466@yahoo.com
+  phone: (586) 972-8927
+  ssn: 432 93 6455
+  dob: 03/24/1974
+  address: 9723 Main Ln
+  city: Chicago
+  state: CO

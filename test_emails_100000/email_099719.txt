@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Gomez",
+    "email": "ronald.gomez1400@example.com",
+    "phone": "647 727 6275",
+    "ssn": "828 58 8480",
+    "dob": "10/12/1951",
+    "address": "8205 Third Blvd",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

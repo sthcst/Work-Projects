@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Wilson",
+    "email": "christopher.wilson2176@mail.com",
+    "phone": "+1 983-533-6229",
+    "ssn": "340939845",
+    "dob": "1/10/1971",
+    "address": "6309 Park Dr",
+    "city": "Chicago",
+    "state": "MI"
+  }
+}

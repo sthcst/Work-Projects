@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Ramirez",
+    "email": "david.ramirez2631@example.com",
+    "phone": "+1 661-361-9914",
+    "ssn": "608729007",
+    "dob": "12/1/2004",
+    "address": "5252 Main Ave",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

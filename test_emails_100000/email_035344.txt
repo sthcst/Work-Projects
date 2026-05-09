@@ -1,0 +1,14 @@
+INVOICE 490522
+
+Bill To:
+Name: George Jackson
+Email: george.jackson3135@work.org
+Phone: +1 986-465-6170
+SSN: 175343367
+
+Address: 142 North Court
+New York, MA
+
+Date of Birth: 11-05-1961
+
+Amount Due: $5751

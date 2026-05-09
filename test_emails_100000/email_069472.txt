@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Flores
+  email: rebecca.flores5843@example.com
+  phone: 804-294-4926
+  ssn: 916 27 9997
+  dob: 09-02-1974
+  address: 6727 Fourth Court
+  city: Houston
+  state: CA

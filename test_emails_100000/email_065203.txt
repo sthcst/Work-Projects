@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Thomas,jennifer.thomas6359@mail.com,628 590 3542,466711663,5/7/1967,"9822 Second Ln",Washington,WI

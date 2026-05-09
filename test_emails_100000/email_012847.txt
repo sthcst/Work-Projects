@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Serrano",
+    "email": "george.serrano7401@example.com",
+    "phone": "449-857-9086",
+    "ssn": "940 17 9112",
+    "dob": "09-20-1996",
+    "address": "6396 Elm Ln",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

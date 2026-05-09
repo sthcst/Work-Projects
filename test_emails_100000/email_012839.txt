@@ -1,0 +1,9 @@
+contact:
+  name: Richard Martinez
+  email: richard.martinez7784@company.com
+  phone: 781-573-7589
+  ssn: 439-44-9570
+  dob: 04/25/1976
+  address: 191 Sixth Ave
+  city: San Diego
+  state: CA

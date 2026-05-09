@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Garcia
+  email: michelle.garcia6968@outlook.com
+  phone: (680) 448-2419
+  ssn: 636 12 5086
+  dob: 01-26-1980
+  address: 4319 South Dr
+  city: Seattle
+  state: TX

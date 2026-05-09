@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Thomas,jennifer.thomas1821@work.org,+1 608-906-6280,439-92-6810,5/18/1972,"7979 North Rd",Jacksonville,CA

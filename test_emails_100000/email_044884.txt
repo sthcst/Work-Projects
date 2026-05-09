@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Lee,megan.lee4338@gmail.com,(837) 712-4254,476487149,13/05/1954,"2078 Elm Rd",Seattle,MD

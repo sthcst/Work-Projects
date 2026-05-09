@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Reyes
+  email: katherine.reyes9192@outlook.com
+  phone: (240) 944-3274
+  ssn: 652-94-7525
+  dob: 09/05/1984
+  address: 1271 Birch Ave
+  city: Jacksonville
+  state: GA

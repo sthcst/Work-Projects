@@ -1,0 +1,9 @@
+contact:
+  name: Emma Cooper
+  email: emma.cooper3334@business.net
+  phone: (380) 332-5372
+  ssn: 229124424
+  dob: 12-03-1972
+  address: 5676 Third Ln
+  city: Philadelphia
+  state: MI

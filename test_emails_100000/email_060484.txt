@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Peterson
+  email: sarah.peterson9904@outlook.com
+  phone: (313) 322-5628
+  ssn: 928 10 9832
+  dob: 04/24/1990
+  address: 5421 Spring Dr
+  city: Houston
+  state: MA

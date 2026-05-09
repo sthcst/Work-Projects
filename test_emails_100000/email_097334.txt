@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Jimenez",
+    "email": "lisa.jimenez4179@gmail.com",
+    "phone": "(370) 441-5586",
+    "ssn": "079-72-6628",
+    "dob": "11-10-2002",
+    "address": "4952 Pine Blvd",
+    "city": "Chicago",
+    "state": "WA"
+  }
+}

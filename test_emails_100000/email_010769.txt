@@ -1,0 +1,14 @@
+INVOICE 325742
+
+Bill To:
+Name: James Carter
+Email: james.carter8116@work.org
+Phone: +1 985-594-9112
+SSN: 440 61 8054
+
+Address: 5539 Birch St
+Chicago, TX
+
+Date of Birth: 08-26-1958
+
+Amount Due: $288

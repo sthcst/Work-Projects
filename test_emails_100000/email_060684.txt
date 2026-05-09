@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Collins,andrew.collins3893@outlook.com,+1 225-784-7228,703-39-4053,10/13/1959,"142 Cedar Dr",Los Angeles,NY

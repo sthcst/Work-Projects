@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Edwards
+  email: katherine.edwards7434@mail.com
+  phone: +1 788-403-8351
+  ssn: 661068884
+  dob: 26/04/1990
+  address: 9677 North Ave
+  city: Seattle
+  state: WA

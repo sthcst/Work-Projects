@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Morris,paul.morris7833@business.net,(757) 814-6203,363-86-6398,27/10/1971,"8675 Park Ln",Phoenix,WA

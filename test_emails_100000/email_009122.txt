@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Parker",
+    "email": "nicholas.parker963@work.org",
+    "phone": "996-638-7568",
+    "ssn": "684-94-6146",
+    "dob": "06-09-1963",
+    "address": "8404 Fifth Blvd",
+    "city": "Washington",
+    "state": "AZ"
+  }
+}

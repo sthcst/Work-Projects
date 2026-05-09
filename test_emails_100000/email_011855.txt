@@ -1,0 +1,9 @@
+contact:
+  name: Jane Martinez
+  email: jane.martinez2788@mail.com
+  phone: 262-785-7787
+  ssn: 662 41 4410
+  dob: 02/09/1958
+  address: 3092 Oak Blvd
+  city: Phoenix
+  state: MA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria White",
+    "email": "maria.white8503@mail.com",
+    "phone": "825 782 8731",
+    "ssn": "009041097",
+    "dob": "1/19/1973",
+    "address": "1287 Oak Dr",
+    "city": "Houston",
+    "state": "MO"
+  }
+}

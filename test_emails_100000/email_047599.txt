@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Johnson,michelle.johnson3574@business.net,(397) 644-3206,846-59-4096,11/3/1996,"386 Maple St",San Diego,NJ

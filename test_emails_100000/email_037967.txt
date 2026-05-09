@@ -1,0 +1,14 @@
+INVOICE 387331
+
+Bill To:
+Name: Daniel Guerrero
+Email: daniel.guerrero310@mail.com
+Phone: 805 336 7867
+SSN: 936 62 5455
+
+Address: 1078 Cedar Way
+Austin, GA
+
+Date of Birth: 12/01/2000
+
+Amount Due: $8877

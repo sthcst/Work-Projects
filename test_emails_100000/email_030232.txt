@@ -1,0 +1,14 @@
+INVOICE 662603
+
+Bill To:
+Name: Ashley Young
+Email: ashley.young8552@company.com
+Phone: 480-428-2316
+SSN: 858 90 5444
+
+Address: 2734 Maple Rd
+New York, MI
+
+Date of Birth: 10/19/1983
+
+Amount Due: $2232

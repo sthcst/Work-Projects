@@ -1,0 +1,9 @@
+contact:
+  name: Helen Jimenez
+  email: helen.jimenez2423@gmail.com
+  phone: +1 693-634-2957
+  ssn: 211 02 9126
+  dob: 11/07/1960
+  address: 9604 Summer Ln
+  city: Washington
+  state: CA

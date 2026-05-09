@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Martin",
+    "email": "maria.martin1052@example.com",
+    "phone": "984 920 8201",
+    "ssn": "132-30-3483",
+    "dob": "08-23-1976",
+    "address": "7292 Fourth St",
+    "city": "San Diego",
+    "state": "PA"
+  }
+}

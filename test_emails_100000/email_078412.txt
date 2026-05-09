@@ -1,0 +1,14 @@
+INVOICE 376111
+
+Bill To:
+Name: Lauren Ortiz
+Email: lauren.ortiz7287@example.com
+Phone: 824-971-3870
+SSN: 200-42-1032
+
+Address: 7221 Sixth Ave
+Denver, IL
+
+Date of Birth: 05-21-1984
+
+Amount Due: $9120

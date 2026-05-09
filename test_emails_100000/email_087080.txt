@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Hall,jennifer.hall4312@gmail.com,425 756 7664,447 07 6228,05/15/2004,"1596 Sixth Dr",Dallas,AZ

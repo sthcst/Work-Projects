@@ -1,0 +1,9 @@
+contact:
+  name: Steven Thomas
+  email: steven.thomas1183@mail.com
+  phone: 825 319 2573
+  ssn: 060-05-7755
+  dob: 09/03/1959
+  address: 2505 Birch Rd
+  city: Phoenix
+  state: MO

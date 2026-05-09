@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Morris
+  email: anthony.morris9444@company.com
+  phone: (909) 980-2599
+  ssn: 673-84-6606
+  dob: 05/09/2002
+  address: 8571 Birch Ln
+  city: Boston
+  state: WA

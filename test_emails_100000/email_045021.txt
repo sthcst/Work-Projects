@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Roberts",
+    "email": "jacob.roberts7137@business.net",
+    "phone": "413-645-3867",
+    "ssn": "868 44 5362",
+    "dob": "7/24/1962",
+    "address": "7182 Maple St",
+    "city": "Dallas",
+    "state": "NJ"
+  }
+}

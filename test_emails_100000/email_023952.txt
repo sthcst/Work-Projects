@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Lopez",
+    "email": "anna.lopez333@yahoo.com",
+    "phone": "701-923-8064",
+    "ssn": "747 91 6983",
+    "dob": "09-24-1950",
+    "address": "4992 Sixth Court",
+    "city": "Philadelphia",
+    "state": "MA"
+  }
+}

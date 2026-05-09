@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Clark",
+    "email": "angela.clark3903@business.net",
+    "phone": "951-822-9248",
+    "ssn": "750-68-6868",
+    "dob": "21/04/1988",
+    "address": "6587 Cedar Court",
+    "city": "Philadelphia",
+    "state": "MA"
+  }
+}

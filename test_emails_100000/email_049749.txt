@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Phillips
+  email: christopher.phillips3503@company.com
+  phone: 769-629-6035
+  ssn: 993919438
+  dob: 07-17-1975
+  address: 3891 Maple Blvd
+  city: San Diego
+  state: DC

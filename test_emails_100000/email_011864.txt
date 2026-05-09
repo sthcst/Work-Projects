@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Serrano",
+    "email": "joshua.serrano7520@company.com",
+    "phone": "+1 659-261-3592",
+    "ssn": "215-53-1378",
+    "dob": "04/22/1975",
+    "address": "9486 South Way",
+    "city": "Jacksonville",
+    "state": "NC"
+  }
+}

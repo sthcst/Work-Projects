@@ -1,0 +1,9 @@
+contact:
+  name: David Stewart
+  email: david.stewart3445@business.net
+  phone: 533-311-4757
+  ssn: 052049198
+  dob: 06/01/1999
+  address: 4542 Cedar Ln
+  city: New York
+  state: CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Carter,stephanie.carter4671@example.com,(673) 310-4705,723811200,10/25/1963,"9611 Summer St",Denver,AZ

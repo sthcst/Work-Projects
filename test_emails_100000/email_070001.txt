@@ -1,0 +1,14 @@
+INVOICE 483382
+
+Bill To:
+Name: James Wilson
+Email: james.wilson5244@example.com
+Phone: (600) 367-2041
+SSN: 167 75 7188
+
+Address: 3383 Third Ln
+Philadelphia, NY
+
+Date of Birth: 03-13-1996
+
+Amount Due: $9801

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Roberts,sarah.roberts8110@outlook.com,(388) 525-7785,467613041,7/16/1986,"2777 Elm Ave",San Antonio,TN

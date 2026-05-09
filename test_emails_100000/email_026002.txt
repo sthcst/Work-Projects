@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Smith,donald.smith5161@work.org,315-759-1928,083497875,7/21/1953,"4023 Second Ave",Boston,CO

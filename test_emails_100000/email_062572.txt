@@ -1,0 +1,14 @@
+INVOICE 287240
+
+Bill To:
+Name: Jessica Davis
+Email: jessica.davis36@example.com
+Phone: (760) 629-6441
+SSN: 830 15 9594
+
+Address: 2340 Elm Rd
+Dallas, GA
+
+Date of Birth: 21/05/1969
+
+Amount Due: $2425

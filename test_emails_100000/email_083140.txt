@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Peterson",
+    "email": "jennifer.peterson7460@outlook.com",
+    "phone": "(448) 858-4055",
+    "ssn": "731511151",
+    "dob": "06/12/2000",
+    "address": "4993 Maple Court",
+    "city": "San Diego",
+    "state": "WA"
+  }
+}

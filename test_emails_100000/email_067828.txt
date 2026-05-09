@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Smith",
+    "email": "jennifer.smith2708@work.org",
+    "phone": "333 232 7361",
+    "ssn": "673-24-6244",
+    "dob": "12/5/1999",
+    "address": "5070 Birch Ave",
+    "city": "Seattle",
+    "state": "FL"
+  }
+}

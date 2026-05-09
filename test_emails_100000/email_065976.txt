@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Parker",
+    "email": "emily.parker9610@gmail.com",
+    "phone": "+1 898-811-3834",
+    "ssn": "782-67-5339",
+    "dob": "26/04/1979",
+    "address": "5541 Pine Blvd",
+    "city": "New York",
+    "state": "WA"
+  }
+}

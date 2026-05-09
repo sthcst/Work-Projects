@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Nelson
+  email: katherine.nelson4489@yahoo.com
+  phone: 233-562-3307
+  ssn: 425-35-2249
+  dob: 27/08/1972
+  address: 4345 Fifth Blvd
+  city: Los Angeles
+  state: NJ

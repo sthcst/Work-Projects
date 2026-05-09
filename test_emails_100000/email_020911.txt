@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Garcia
+  email: daniel.garcia6689@work.org
+  phone: 234-890-8357
+  ssn: 836 90 8374
+  dob: 05-15-1998
+  address: 4063 East Rd
+  city: Chicago
+  state: WA

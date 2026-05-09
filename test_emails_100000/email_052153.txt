@@ -1,0 +1,9 @@
+contact:
+  name: Maria Flores
+  email: maria.flores6476@yahoo.com
+  phone: +1 732-979-5515
+  ssn: 136-40-5609
+  dob: 10-27-1992
+  address: 6096 North Rd
+  city: Chicago
+  state: AZ

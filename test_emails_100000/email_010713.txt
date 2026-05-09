@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Campbell",
+    "email": "maria.campbell33@gmail.com",
+    "phone": "(240) 584-1964",
+    "ssn": "558-28-6925",
+    "dob": "08/27/2003",
+    "address": "3501 Second Court",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica White",
+    "email": "jessica.white5297@yahoo.com",
+    "phone": "(861) 887-3674",
+    "ssn": "110-71-7609",
+    "dob": "26/11/1986",
+    "address": "4771 East Way",
+    "city": "Phoenix",
+    "state": "NY"
+  }
+}

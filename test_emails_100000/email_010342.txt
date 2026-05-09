@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Lee",
+    "email": "brenda.lee5694@outlook.com",
+    "phone": "+1 975-364-1246",
+    "ssn": "217115714",
+    "dob": "03/19/1962",
+    "address": "283 East Ave",
+    "city": "San Antonio",
+    "state": "NJ"
+  }
+}

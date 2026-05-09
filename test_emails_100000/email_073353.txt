@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Flores,helen.flores1644@yahoo.com,667 821 1079,293962546,10-14-1985,"9325 West Ave",San Antonio,NJ

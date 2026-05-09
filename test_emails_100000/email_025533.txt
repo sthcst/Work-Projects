@@ -1,0 +1,14 @@
+INVOICE 422175
+
+Bill To:
+Name: Megan Gomez
+Email: megan.gomez7360@example.com
+Phone: +1 682-788-4778
+SSN: 121238289
+
+Address: 8599 East Court
+Austin, FL
+
+Date of Birth: 13/03/1956
+
+Amount Due: $9218

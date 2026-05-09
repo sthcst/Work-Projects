@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Morgan",
+    "email": "timothy.morgan7317@business.net",
+    "phone": "+1 918-990-3670",
+    "ssn": "737-26-6836",
+    "dob": "8/7/1956",
+    "address": "3715 West Court",
+    "city": "Seattle",
+    "state": "FL"
+  }
+}

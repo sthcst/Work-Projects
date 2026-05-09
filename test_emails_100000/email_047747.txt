@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Morgan,lisa.morgan1360@business.net,796-688-3907,580806793,11/12/1983,"7405 Fourth Court",Washington,WI

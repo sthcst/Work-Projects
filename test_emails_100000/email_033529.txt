@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Romero",
+    "email": "jane.romero4442@outlook.com",
+    "phone": "261 574 6462",
+    "ssn": "330459670",
+    "dob": "03/28/1966",
+    "address": "71 Fourth Rd",
+    "city": "San Antonio",
+    "state": "NY"
+  }
+}

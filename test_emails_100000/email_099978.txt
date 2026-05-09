@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Miller,joseph.miller6209@mail.com,493-839-4971,768-84-8059,17/09/1982,"9391 South Court",Dallas,MD

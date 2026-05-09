@@ -1,0 +1,9 @@
+contact:
+  name: Anna Smith
+  email: anna.smith3666@yahoo.com
+  phone: 924 435 2556
+  ssn: 692 59 2110
+  dob: 4/8/1970
+  address: 6178 South Ln
+  city: Boston
+  state: NC

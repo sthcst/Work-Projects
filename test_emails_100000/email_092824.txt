@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Hernandez,timothy.hernandez8083@mail.com,+1 613-867-7877,455564617,05-18-1986,"1207 Pine Rd",Denver,WI

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Garcia,nicholas.garcia9277@gmail.com,(475) 432-7282,186997861,12/15/1988,"9597 Summer Dr",San Diego,AZ

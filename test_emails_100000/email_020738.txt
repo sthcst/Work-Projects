@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Jackson",
+    "email": "ashley.jackson5833@yahoo.com",
+    "phone": "+1 840-808-8913",
+    "ssn": "173311919",
+    "dob": "23/07/1972",
+    "address": "1775 Elm Blvd",
+    "city": "Washington",
+    "state": "MO"
+  }
+}

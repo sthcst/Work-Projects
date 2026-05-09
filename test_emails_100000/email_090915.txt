@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Perez",
+    "email": "anna.perez4859@example.com",
+    "phone": "677 664 6348",
+    "ssn": "989-08-6031",
+    "dob": "9/26/1983",
+    "address": "3393 Oak Court",
+    "city": "Houston",
+    "state": "AZ"
+  }
+}

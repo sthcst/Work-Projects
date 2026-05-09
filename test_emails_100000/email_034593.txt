@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Wilson",
+    "email": "brenda.wilson1314@business.net",
+    "phone": "(736) 922-1390",
+    "ssn": "431-62-6475",
+    "dob": "8/5/1978",
+    "address": "6552 Fourth Way",
+    "city": "Dallas",
+    "state": "OH"
+  }
+}

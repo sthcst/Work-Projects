@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Collins,katherine.collins1023@mail.com,963-312-2586,106178190,16/03/1998,"2825 Oak St",Austin,TX

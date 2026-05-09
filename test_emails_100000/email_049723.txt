@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Wilson
+  email: jessica.wilson486@company.com
+  phone: +1 204-210-4902
+  ssn: 629 96 6972
+  dob: 06-19-1959
+  address: 1541 South Blvd
+  city: Washington
+  state: MI

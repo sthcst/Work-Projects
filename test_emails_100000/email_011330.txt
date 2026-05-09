@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Flores",
+    "email": "jessica.flores1278@yahoo.com",
+    "phone": "(698) 867-2382",
+    "ssn": "051 46 5891",
+    "dob": "03/06/1959",
+    "address": "1786 Birch Ln",
+    "city": "Boston",
+    "state": "AZ"
+  }
+}

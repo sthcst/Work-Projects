@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Edwards",
+    "email": "jacob.edwards4561@yahoo.com",
+    "phone": "(372) 655-1650",
+    "ssn": "016 72 1275",
+    "dob": "06-09-2005",
+    "address": "2955 North Ln",
+    "city": "San Jose",
+    "state": "FL"
+  }
+}

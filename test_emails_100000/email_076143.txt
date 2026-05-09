@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Nelson,maria.nelson8516@company.com,287-641-9693,109-19-3079,4/17/1984,"3420 Cedar St",Denver,VA

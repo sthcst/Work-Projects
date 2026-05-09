@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Wilson,jessica.wilson257@company.com,(840) 541-4012,392 92 4836,01-12-1965,"7683 Oak St",Philadelphia,TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Anderson,charles.anderson1748@example.com,+1 428-802-6122,504 50 6372,05-09-1998,"6449 Park Way",Washington,CA

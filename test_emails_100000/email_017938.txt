@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Wilson
+  email: katherine.wilson8030@outlook.com
+  phone: (836) 291-7271
+  ssn: 453-36-4307
+  dob: 01/07/1993
+  address: 774 Fifth Blvd
+  city: San Jose
+  state: PA

@@ -1,0 +1,14 @@
+INVOICE 123906
+
+Bill To:
+Name: Edward Williams
+Email: edward.williams5684@business.net
+Phone: (798) 724-2790
+SSN: 626 62 4539
+
+Address: 6311 Elm Rd
+Boston, VA
+
+Date of Birth: 01/14/1955
+
+Amount Due: $4641

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Gomez,lauren.gomez5580@gmail.com,649-382-1244,594 86 1928,6/28/1997,"6629 West St",New York,CA

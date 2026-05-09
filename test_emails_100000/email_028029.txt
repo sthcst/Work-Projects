@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Dominguez",
+    "email": "emma.dominguez5106@yahoo.com",
+    "phone": "+1 762-608-9420",
+    "ssn": "630 80 2997",
+    "dob": "05/26/1996",
+    "address": "7926 Cedar Rd",
+    "city": "San Antonio",
+    "state": "NY"
+  }
+}

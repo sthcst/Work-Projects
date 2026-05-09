@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Alvarado,christopher.alvarado532@example.com,+1 941-518-3279,859876703,07-25-1951,"5481 Second Ln",San Jose,GA

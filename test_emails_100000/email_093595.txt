@@ -1,0 +1,9 @@
+contact:
+  name: David Gonzalez
+  email: david.gonzalez5123@outlook.com
+  phone: 333-316-9561
+  ssn: 932-75-4128
+  dob: 03-25-1984
+  address: 8784 Main Way
+  city: Denver
+  state: TX

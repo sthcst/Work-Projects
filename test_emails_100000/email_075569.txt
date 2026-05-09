@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Reeves",
+    "email": "michael.reeves459@example.com",
+    "phone": "+1 409-701-9925",
+    "ssn": "739228695",
+    "dob": "12/06/1979",
+    "address": "7075 Elm Ave",
+    "city": "Philadelphia",
+    "state": "CA"
+  }
+}

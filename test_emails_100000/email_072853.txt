@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Romero,maria.romero8198@company.com,315-382-8049,534314365,03/11/1962,"616 Main Court",Dallas,WA

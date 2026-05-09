@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Jones",
+    "email": "gary.jones6401@work.org",
+    "phone": "+1 759-474-6814",
+    "ssn": "610-92-3592",
+    "dob": "05/16/1958",
+    "address": "7158 South Dr",
+    "city": "New York",
+    "state": "MA"
+  }
+}

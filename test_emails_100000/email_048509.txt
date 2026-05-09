@@ -1,0 +1,9 @@
+contact:
+  name: James Guerrero
+  email: james.guerrero5083@company.com
+  phone: 565 998 6341
+  ssn: 138-39-4791
+  dob: 1/17/1950
+  address: 9799 Third Ave
+  city: Washington
+  state: DC

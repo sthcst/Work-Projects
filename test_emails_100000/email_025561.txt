@@ -1,0 +1,14 @@
+INVOICE 471355
+
+Bill To:
+Name: William Collins
+Email: william.collins2624@example.com
+Phone: 571 391 7233
+SSN: 454433169
+
+Address: 282 West Blvd
+Phoenix, VA
+
+Date of Birth: 11/26/2000
+
+Amount Due: $9305

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Nunez,jennifer.nunez1884@mail.com,496 932 7423,475995137,08/13/1996,"1577 Main St",Washington,FL

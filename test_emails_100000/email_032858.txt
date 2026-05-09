@@ -1,0 +1,12 @@
+SUPPORT TICKET #46430
+
+Customer: Kenneth Delgado
+Email: kenneth.delgado9223@example.com
+Phone: 237-798-9907
+Account: 575654246
+
+Issue Description: Technical problem reported
+DOB on file: 2/13/1993
+Address: 7455 Fourth Court, San Diego, DC
+
+Status: OPEN

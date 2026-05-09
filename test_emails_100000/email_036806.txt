@@ -1,0 +1,9 @@
+contact:
+  name: Christine Clark
+  email: christine.clark9582@outlook.com
+  phone: (420) 710-1947
+  ssn: 302-66-8724
+  dob: 11-11-1992
+  address: 8072 Second Blvd
+  city: Philadelphia
+  state: TX

@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Jimenez
+  email: joseph.jimenez2780@example.com
+  phone: +1 521-919-7555
+  ssn: 027517761
+  dob: 10/17/1997
+  address: 7760 Summer Way
+  city: Washington
+  state: MI

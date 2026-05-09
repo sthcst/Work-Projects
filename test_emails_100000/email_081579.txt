@@ -1,0 +1,9 @@
+contact:
+  name: James Harris
+  email: james.harris3386@work.org
+  phone: 746 390 1319
+  ssn: 441 13 3632
+  dob: 12/01/1989
+  address: 9626 North Blvd
+  city: Austin
+  state: TX

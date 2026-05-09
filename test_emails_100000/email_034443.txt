@@ -1,0 +1,14 @@
+INVOICE 298410
+
+Bill To:
+Name: Christine Martin
+Email: christine.martin9353@company.com
+Phone: (755) 736-4831
+SSN: 643 67 8609
+
+Address: 515 Sixth St
+San Diego, NC
+
+Date of Birth: 27/09/1970
+
+Amount Due: $7950

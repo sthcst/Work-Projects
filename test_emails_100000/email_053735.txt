@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Gonzalez,rachel.gonzalez8705@company.com,929 775 7856,213 38 5958,8/5/1952,"958 East Blvd",Chicago,MA

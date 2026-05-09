@@ -1,0 +1,9 @@
+contact:
+  name: Matthew Edwards
+  email: matthew.edwards1232@example.com
+  phone: 801 401 6489
+  ssn: 300-75-9499
+  dob: 11-12-1967
+  address: 4851 Fourth Dr
+  city: Austin
+  state: WI

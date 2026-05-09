@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Lewis,john.lewis1989@yahoo.com,+1 500-838-4174,061497872,09/27/1995,"4566 Sixth St",Philadelphia,NJ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Campbell",
+    "email": "john.campbell2709@gmail.com",
+    "phone": "772-338-2245",
+    "ssn": "609-54-1740",
+    "dob": "06/11/1980",
+    "address": "1697 First Dr",
+    "city": "Los Angeles",
+    "state": "VA"
+  }
+}

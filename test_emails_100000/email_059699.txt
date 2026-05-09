@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Lee,lauren.lee2678@gmail.com,853 905 3687,090-19-4693,7/27/1994,"5494 North Dr",San Jose,MI

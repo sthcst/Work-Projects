@@ -1,0 +1,9 @@
+contact:
+  name: Christine Young
+  email: christine.young7930@company.com
+  phone: +1 796-635-9852
+  ssn: 387 05 4543
+  dob: 02/15/1969
+  address: 3768 Oak Ln
+  city: San Antonio
+  state: CA

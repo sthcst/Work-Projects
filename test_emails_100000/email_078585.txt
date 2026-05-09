@@ -1,0 +1,14 @@
+INVOICE 757458
+
+Bill To:
+Name: Jacob Thomas
+Email: jacob.thomas3409@company.com
+Phone: +1 370-957-5904
+SSN: 190542142
+
+Address: 8788 Fifth Ave
+Los Angeles, WA
+
+Date of Birth: 03/08/2004
+
+Amount Due: $9903

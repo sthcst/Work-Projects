@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Peterson,michael.peterson4823@example.com,241 465 1595,749 41 3157,7/21/1975,"4049 Maple Rd",San Antonio,NJ

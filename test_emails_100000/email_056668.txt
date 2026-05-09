@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Young
+  email: samantha.young4490@company.com
+  phone: 622 284 1834
+  ssn: 263-57-5646
+  dob: 11/16/1950
+  address: 3109 Maple Court
+  city: Austin
+  state: FL

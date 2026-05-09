@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Dominguez
+  email: daniel.dominguez9809@business.net
+  phone: (846) 261-7736
+  ssn: 736-41-3581
+  dob: 04/13/1967
+  address: 8906 Fourth Dr
+  city: Jacksonville
+  state: AZ

@@ -1,0 +1,9 @@
+contact:
+  name: Jason Gomez
+  email: jason.gomez8447@mail.com
+  phone: (935) 972-3409
+  ssn: 335 17 9546
+  dob: 03-04-1953
+  address: 6433 Summer Ln
+  city: San Jose
+  state: NJ

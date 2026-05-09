@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Martinez",
+    "email": "megan.martinez165@gmail.com",
+    "phone": "(207) 975-5736",
+    "ssn": "477 96 9831",
+    "dob": "08/23/1994",
+    "address": "6250 Fifth St",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

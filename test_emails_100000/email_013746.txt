@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Harris,joseph.harris9996@outlook.com,471 547 8120,745 96 4408,25/09/1976,"504 Fourth Rd",San Diego,TX

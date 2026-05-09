@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Romero
+  email: pamela.romero5498@example.com
+  phone: 732-504-5722
+  ssn: 406306656
+  dob: 9/1/1984
+  address: 5808 North Way
+  city: Seattle
+  state: CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Harris,kevin.harris8789@work.org,+1 761-587-4732,739 47 6526,09-08-1971,"2891 Spring Ave",Boston,TX

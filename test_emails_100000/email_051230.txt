@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Alvarado,rebecca.alvarado8703@outlook.com,609 660 7938,864 13 9966,11-05-1952,"331 North Way",Los Angeles,FL

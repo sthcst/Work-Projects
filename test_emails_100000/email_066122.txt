@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Murillo,katherine.murillo7311@mail.com,986 330 2791,210-32-6921,2/22/1999,"2006 Cedar Rd",San Diego,WA

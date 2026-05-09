@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Moore
+  email: rebecca.moore5167@gmail.com
+  phone: (342) 644-2914
+  ssn: 082 90 3637
+  dob: 09/08/1995
+  address: 6816 Elm Way
+  city: Chicago
+  state: TN

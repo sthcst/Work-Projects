@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Davis",
+    "email": "rebecca.davis4104@work.org",
+    "phone": "594-656-1000",
+    "ssn": "294-14-4899",
+    "dob": "12/20/2004",
+    "address": "489 First St",
+    "city": "San Diego",
+    "state": "WA"
+  }
+}

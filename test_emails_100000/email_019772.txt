@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Anderson,andrew.anderson186@gmail.com,360 915 2229,221-68-9703,11/09/1982,"4493 Fifth Ave",Chicago,TN

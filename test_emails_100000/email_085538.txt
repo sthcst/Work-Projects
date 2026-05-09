@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Bell",
+    "email": "nicholas.bell3938@outlook.com",
+    "phone": "(306) 368-5799",
+    "ssn": "387 17 1692",
+    "dob": "23/02/1994",
+    "address": "9509 South St",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

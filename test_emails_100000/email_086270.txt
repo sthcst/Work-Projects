@@ -1,0 +1,9 @@
+contact:
+  name: Emma Peterson
+  email: emma.peterson3182@business.net
+  phone: (922) 584-2573
+  ssn: 082 47 8360
+  dob: 2/6/1998
+  address: 7688 South Blvd
+  city: Denver
+  state: CA

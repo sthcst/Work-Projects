@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Jackson,emma.jackson5859@gmail.com,+1 453-743-7977,407-68-3838,01/01/1964,"5708 North Blvd",Washington,TX

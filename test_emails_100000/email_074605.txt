@@ -1,0 +1,9 @@
+contact:
+  name: Paul Martin
+  email: paul.martin9659@business.net
+  phone: +1 310-581-6454
+  ssn: 403098242
+  dob: 08-09-1956
+  address: 3391 Main Blvd
+  city: Jacksonville
+  state: AZ

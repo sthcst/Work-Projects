@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Lewis,jason.lewis2555@mail.com,+1 391-462-5961,128-78-4923,7/28/1969,"2851 Birch Ave",Seattle,CA

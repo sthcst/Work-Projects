@@ -1,0 +1,9 @@
+contact:
+  name: Megan Serrano
+  email: megan.serrano130@business.net
+  phone: 957-293-3651
+  ssn: 629 09 6916
+  dob: 12/04/1987
+  address: 2012 Third Way
+  city: Los Angeles
+  state: TN

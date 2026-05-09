@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Young,anna.young9067@outlook.com,946-318-1076,703 19 2638,03/22/1984,"5751 Oak Rd",Dallas,NY

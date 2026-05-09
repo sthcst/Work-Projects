@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Anderson
+  email: stephanie.anderson7572@mail.com
+  phone: 815-998-8529
+  ssn: 899 95 8376
+  dob: 02-17-1999
+  address: 5959 First Ln
+  city: Boston
+  state: WA

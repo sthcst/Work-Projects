@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Campbell",
+    "email": "pamela.campbell5198@example.com",
+    "phone": "342 239 4847",
+    "ssn": "735324897",
+    "dob": "11/24/1994",
+    "address": "5735 South Way",
+    "city": "Boston",
+    "state": "OH"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Reeves",
+    "email": "shirley.reeves3782@business.net",
+    "phone": "477-843-2711",
+    "ssn": "135-21-6659",
+    "dob": "04-11-2002",
+    "address": "8042 West Rd",
+    "city": "Philadelphia",
+    "state": "AZ"
+  }
+}

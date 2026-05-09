@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Harris,pamela.harris6843@work.org,293 686 6583,014483597,12-03-1999,"3316 First St",Washington,DC

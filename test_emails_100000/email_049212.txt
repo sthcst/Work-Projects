@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Johnson",
+    "email": "christine.johnson906@work.org",
+    "phone": "881 542 4358",
+    "ssn": "211-52-5057",
+    "dob": "02-09-1995",
+    "address": "8414 Fourth Ave",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

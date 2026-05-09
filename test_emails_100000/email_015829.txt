@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Lewis
+  email: jacob.lewis7962@company.com
+  phone: 761-817-3224
+  ssn: 704 51 1303
+  dob: 18/08/1987
+  address: 8483 Second Court
+  city: San Diego
+  state: PA

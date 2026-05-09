@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Rogers,emma.rogers8809@yahoo.com,414 340 2794,672-43-3012,07/07/1951,"3066 West Ave",Los Angeles,TX

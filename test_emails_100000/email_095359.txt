@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Gomez
+  email: ronald.gomez3203@gmail.com
+  phone: +1 906-857-1220
+  ssn: 504 54 7091
+  dob: 10-26-1963
+  address: 9487 Fourth Court
+  city: Phoenix
+  state: AZ

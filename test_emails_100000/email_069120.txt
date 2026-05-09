@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Clark",
+    "email": "paul.clark171@gmail.com",
+    "phone": "(382) 773-8140",
+    "ssn": "565 65 9102",
+    "dob": "01/07/1955",
+    "address": "5338 Spring Blvd",
+    "city": "San Jose",
+    "state": "OH"
+  }
+}

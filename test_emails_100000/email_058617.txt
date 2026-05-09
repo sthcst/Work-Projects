@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Lopez,george.lopez1870@company.com,517 307 4374,811 40 6571,10/22/1999,"3489 South Blvd",Chicago,OH

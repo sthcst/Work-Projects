@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Flores,emma.flores9835@mail.com,(736) 651-6854,602836292,10/12/1989,"6767 Maple Dr",Seattle,MI

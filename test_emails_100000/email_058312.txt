@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Lewis",
+    "email": "katherine.lewis2572@business.net",
+    "phone": "699 224 6070",
+    "ssn": "367-49-5551",
+    "dob": "25/09/1998",
+    "address": "6176 Pine Way",
+    "city": "Austin",
+    "state": "WA"
+  }
+}

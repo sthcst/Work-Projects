@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Hernandez",
+    "email": "rebecca.hernandez808@business.net",
+    "phone": "+1 395-464-4788",
+    "ssn": "491033812",
+    "dob": "02-01-1957",
+    "address": "4060 Second Ln",
+    "city": "Los Angeles",
+    "state": "WI"
+  }
+}

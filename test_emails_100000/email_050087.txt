@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Martinez",
+    "email": "michelle.martinez8675@work.org",
+    "phone": "255 296 1803",
+    "ssn": "179-18-6723",
+    "dob": "04/11/1975",
+    "address": "1843 Third Rd",
+    "city": "Phoenix",
+    "state": "AZ"
+  }
+}

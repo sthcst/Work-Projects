@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Jones",
+    "email": "anna.jones629@example.com",
+    "phone": "715-597-8292",
+    "ssn": "574982117",
+    "dob": "05/10/1954",
+    "address": "2469 Maple Court",
+    "city": "Houston",
+    "state": "WA"
+  }
+}

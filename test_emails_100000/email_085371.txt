@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Phillips
+  email: stephanie.phillips6950@gmail.com
+  phone: 895 787 2255
+  ssn: 075 70 2308
+  dob: 2/11/1950
+  address: 8292 First Way
+  city: Phoenix
+  state: NJ

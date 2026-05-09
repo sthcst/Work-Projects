@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Romero,gary.romero7211@company.com,273 615 5426,252356707,09-19-1956,"2490 Maple Court",Phoenix,TN

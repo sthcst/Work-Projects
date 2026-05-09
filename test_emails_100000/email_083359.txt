@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Stewart,maria.stewart4383@business.net,(245) 427-8475,972-74-2211,9/20/1985,"828 West Way",San Diego,TX

@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Peterson
+  email: kimberly.peterson7150@gmail.com
+  phone: 443-208-8821
+  ssn: 394-85-4997
+  dob: 12/09/2003
+  address: 1661 West Ave
+  city: New York
+  state: TX

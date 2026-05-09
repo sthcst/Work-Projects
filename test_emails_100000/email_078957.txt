@@ -1,0 +1,9 @@
+contact:
+  name: Helen Rogers
+  email: helen.rogers5452@yahoo.com
+  phone: 818 509 4131
+  ssn: 277956019
+  dob: 28/07/1964
+  address: 1416 Sixth St
+  city: Jacksonville
+  state: MA

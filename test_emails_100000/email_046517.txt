@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Moore
+  email: lisa.moore6923@mail.com
+  phone: (965) 548-5129
+  ssn: 526-89-5619
+  dob: 8/27/1958
+  address: 9791 East Way
+  city: Washington
+  state: DC

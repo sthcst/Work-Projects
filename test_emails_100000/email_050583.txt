@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Young",
+    "email": "steven.young301@company.com",
+    "phone": "879 781 8209",
+    "ssn": "281 97 1309",
+    "dob": "07/10/2001",
+    "address": "5070 Fifth Ln",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

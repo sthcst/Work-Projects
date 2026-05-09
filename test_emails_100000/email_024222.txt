@@ -1,0 +1,9 @@
+contact:
+  name: Christine Rodriguez
+  email: christine.rodriguez8173@company.com
+  phone: 921-317-4765
+  ssn: 327 24 5352
+  dob: 05/06/1958
+  address: 8936 Birch Ln
+  city: San Diego
+  state: CA

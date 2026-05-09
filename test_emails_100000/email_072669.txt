@@ -1,0 +1,14 @@
+INVOICE 303468
+
+Bill To:
+Name: Nicole Lewis
+Email: nicole.lewis2787@company.com
+Phone: (795) 787-5919
+SSN: 269932233
+
+Address: 1464 Third Dr
+Boston, DC
+
+Date of Birth: 01/24/1957
+
+Amount Due: $3515

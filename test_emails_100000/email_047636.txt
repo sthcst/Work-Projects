@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Miller",
+    "email": "daniel.miller662@work.org",
+    "phone": "641 505 1775",
+    "ssn": "590 09 3044",
+    "dob": "25/03/1980",
+    "address": "4472 Fourth Court",
+    "city": "San Jose",
+    "state": "DC"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Ortiz
+  email: brenda.ortiz2973@business.net
+  phone: (734) 860-9511
+  ssn: 316 81 8276
+  dob: 11-06-1998
+  address: 9585 Maple St
+  city: Washington
+  state: MI

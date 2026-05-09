@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Gomez",
+    "email": "ryan.gomez1478@example.com",
+    "phone": "511-647-7018",
+    "ssn": "554 93 7337",
+    "dob": "11/18/1988",
+    "address": "2696 Fifth Rd",
+    "city": "San Diego",
+    "state": "FL"
+  }
+}

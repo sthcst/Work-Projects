@@ -1,0 +1,9 @@
+contact:
+  name: Anna Clark
+  email: anna.clark8766@gmail.com
+  phone: +1 791-469-4451
+  ssn: 946-83-4886
+  dob: 10-16-1985
+  address: 4711 Elm Ave
+  city: New York
+  state: TX

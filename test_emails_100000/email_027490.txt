@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Romero,rebecca.romero6822@yahoo.com,(640) 487-6060,468 59 4784,03-09-1981,"4265 Birch Ave",Philadelphia,FL

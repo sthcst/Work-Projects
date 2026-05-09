@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Serrano,gary.serrano2088@gmail.com,726-772-2299,460-06-7387,01-19-1958,"8571 Fifth Way",San Jose,IL

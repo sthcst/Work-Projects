@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Johnson
+  email: rachel.johnson2853@work.org
+  phone: 501 979 8614
+  ssn: 173369487
+  dob: 10/26/1969
+  address: 9704 Birch Ln
+  city: Boston
+  state: IL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Guerrero",
+    "email": "emma.guerrero4432@gmail.com",
+    "phone": "(541) 369-5982",
+    "ssn": "387 31 6429",
+    "dob": "01-06-1986",
+    "address": "1905 Spring Way",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

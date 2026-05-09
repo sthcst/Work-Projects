@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Moore",
+    "email": "daniel.moore9918@mail.com",
+    "phone": "(922) 963-8584",
+    "ssn": "018 30 1699",
+    "dob": "09/17/1993",
+    "address": "5769 Fifth Blvd",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

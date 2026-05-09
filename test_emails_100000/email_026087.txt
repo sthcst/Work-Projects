@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Edwards,paul.edwards6464@gmail.com,(768) 751-5084,961723218,05/08/2000,"6015 Sixth Way",San Jose,MI

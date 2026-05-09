@@ -1,0 +1,9 @@
+contact:
+  name: Paul Lee
+  email: paul.lee1017@company.com
+  phone: +1 888-430-9538
+  ssn: 630154877
+  dob: 04-13-2005
+  address: 3930 East Dr
+  city: San Diego
+  state: CA

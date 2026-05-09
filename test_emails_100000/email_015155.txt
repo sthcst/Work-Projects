@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Delgado,ryan.delgado8424@gmail.com,(508) 476-4426,904939237,2/15/1969,"7109 Maple Blvd",San Diego,CA

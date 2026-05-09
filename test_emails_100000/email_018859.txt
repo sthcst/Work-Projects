@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul White",
+    "email": "paul.white8779@company.com",
+    "phone": "666 934 9549",
+    "ssn": "028403488",
+    "dob": "11/12/1980",
+    "address": "638 West Dr",
+    "city": "Houston",
+    "state": "MD"
+  }
+}

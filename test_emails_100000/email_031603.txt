@@ -1,0 +1,14 @@
+INVOICE 481489
+
+Bill To:
+Name: John Miller
+Email: john.miller4742@yahoo.com
+Phone: (684) 348-1996
+SSN: 401 55 7959
+
+Address: 401 Oak Ln
+Los Angeles, TX
+
+Date of Birth: 09-06-1992
+
+Amount Due: $5746

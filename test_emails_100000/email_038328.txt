@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Johnson,nicholas.johnson9136@gmail.com,626 995 7777,267601714,09-18-1972,"390 Summer Way",Houston,TX

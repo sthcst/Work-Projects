@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Walker,robert.walker3242@business.net,536-681-5504,912 18 1502,21/08/1992,"1347 First Blvd",Austin,DC

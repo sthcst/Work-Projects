@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson8430@mail.com",
+    "phone": "(573) 831-7370",
+    "ssn": "013579068",
+    "dob": "06/15/1998",
+    "address": "5695 First Way",
+    "city": "Austin",
+    "state": "OH"
+  }
+}

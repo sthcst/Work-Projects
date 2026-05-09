@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Rogers,ronald.rogers2295@mail.com,(457) 383-8576,078783718,6/19/1958,"3707 Maple Rd",San Jose,CO

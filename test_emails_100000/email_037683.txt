@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Reed,rachel.reed693@yahoo.com,+1 444-709-4718,935753991,10/27/1988,"9217 Second Way",San Jose,FL

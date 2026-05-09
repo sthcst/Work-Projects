@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Stewart
+  email: timothy.stewart4339@outlook.com
+  phone: +1 385-673-1075
+  ssn: 374087363
+  dob: 2/24/1979
+  address: 9131 South Blvd
+  city: New York
+  state: AZ

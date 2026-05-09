@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Hernandez",
+    "email": "shirley.hernandez9644@company.com",
+    "phone": "275 335 6758",
+    "ssn": "084967695",
+    "dob": "24/01/1995",
+    "address": "7016 Summer Way",
+    "city": "Phoenix",
+    "state": "AZ"
+  }
+}

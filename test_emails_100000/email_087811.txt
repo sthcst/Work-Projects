@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Murillo,robert.murillo4999@yahoo.com,279-279-7052,101-38-4081,12/27/1991,"9316 East Ln",Denver,CA

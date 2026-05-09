@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Collins,rebecca.collins2093@mail.com,433-422-9167,214191428,5/26/1959,"6639 Cedar Way",Phoenix,NC

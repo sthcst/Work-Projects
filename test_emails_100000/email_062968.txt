@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Johnson",
+    "email": "john.johnson1745@mail.com",
+    "phone": "858-295-2491",
+    "ssn": "255-64-6611",
+    "dob": "09/10/1970",
+    "address": "800 West Dr",
+    "city": "Chicago",
+    "state": "NY"
+  }
+}

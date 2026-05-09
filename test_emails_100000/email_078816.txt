@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Walker,ryan.walker135@gmail.com,438-891-7716,422851094,08/01/1989,"1240 Cedar Way",Austin,GA

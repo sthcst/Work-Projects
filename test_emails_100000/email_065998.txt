@@ -1,0 +1,14 @@
+INVOICE 958732
+
+Bill To:
+Name: Amanda Taylor
+Email: amanda.taylor4196@company.com
+Phone: +1 786-788-9812
+SSN: 495569052
+
+Address: 5434 South Ave
+San Diego, TX
+
+Date of Birth: 08-04-1967
+
+Amount Due: $8449

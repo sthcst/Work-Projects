@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Gonzalez",
+    "email": "maria.gonzalez4058@yahoo.com",
+    "phone": "+1 584-665-6772",
+    "ssn": "939677661",
+    "dob": "09-15-1966",
+    "address": "8172 Cedar Ave",
+    "city": "Los Angeles",
+    "state": "NY"
+  }
+}

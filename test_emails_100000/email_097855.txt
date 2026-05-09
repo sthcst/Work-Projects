@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Perez",
+    "email": "michael.perez2300@work.org",
+    "phone": "(704) 602-6477",
+    "ssn": "898 77 7798",
+    "dob": "06/02/1965",
+    "address": "5838 West Blvd",
+    "city": "San Diego",
+    "state": "IL"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Dominguez",
+    "email": "anthony.dominguez6637@mail.com",
+    "phone": "408 885 4281",
+    "ssn": "280-51-2026",
+    "dob": "09-24-1995",
+    "address": "2336 Sixth Ln",
+    "city": "Austin",
+    "state": "WI"
+  }
+}

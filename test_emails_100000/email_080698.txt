@@ -1,0 +1,9 @@
+contact:
+  name: Angela Anderson
+  email: angela.anderson7822@business.net
+  phone: (208) 341-5219
+  ssn: 010357795
+  dob: 8/18/1972
+  address: 4530 Sixth Court
+  city: Boston
+  state: WA

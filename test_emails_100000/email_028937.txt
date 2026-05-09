@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Thomas,emma.thomas5216@example.com,+1 801-272-1447,024 75 3539,1/26/1965,"1365 Third St",Denver,WA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Roberts",
+    "email": "richard.roberts1764@gmail.com",
+    "phone": "684-498-5130",
+    "ssn": "918-05-5281",
+    "dob": "9/12/1977",
+    "address": "4906 Pine Ave",
+    "city": "San Antonio",
+    "state": "MA"
+  }
+}

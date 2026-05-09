@@ -1,0 +1,14 @@
+INVOICE 937901
+
+Bill To:
+Name: Katherine Ortiz
+Email: katherine.ortiz4956@company.com
+Phone: 454-573-6412
+SSN: 845-42-3198
+
+Address: 9472 Third St
+Dallas, MA
+
+Date of Birth: 7/27/1958
+
+Amount Due: $6201

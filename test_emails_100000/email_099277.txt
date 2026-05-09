@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Jones
+  email: joshua.jones6874@outlook.com
+  phone: 849 208 5279
+  ssn: 104-58-8098
+  dob: 7/5/1993
+  address: 5262 Spring Ave
+  city: Boston
+  state: FL

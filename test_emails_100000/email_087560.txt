@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Moore",
+    "email": "jane.moore6225@company.com",
+    "phone": "626 534 3383",
+    "ssn": "129217172",
+    "dob": "11-09-1979",
+    "address": "3665 South St",
+    "city": "San Antonio",
+    "state": "WI"
+  }
+}

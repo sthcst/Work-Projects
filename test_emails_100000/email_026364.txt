@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Collins,lisa.collins2233@mail.com,877 543 9348,544-16-4675,12/05/1995,"9262 Cedar Ave",Houston,TN

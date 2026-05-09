@@ -1,0 +1,9 @@
+contact:
+  name: Robert Brown
+  email: robert.brown2264@outlook.com
+  phone: 514-722-7700
+  ssn: 036-07-8066
+  dob: 05-13-1969
+  address: 5309 East Ave
+  city: Washington
+  state: VA

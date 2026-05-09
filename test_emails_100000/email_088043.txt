@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Garcia",
+    "email": "george.garcia9322@example.com",
+    "phone": "345 729 4863",
+    "ssn": "371727422",
+    "dob": "05-06-1994",
+    "address": "4668 Fourth Ln",
+    "city": "San Jose",
+    "state": "WA"
+  }
+}

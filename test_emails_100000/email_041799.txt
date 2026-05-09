@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Perez,george.perez3331@business.net,240 558 4484,448386197,12/04/1972,"652 Third Ave",Dallas,WA

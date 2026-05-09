@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Sanchez",
+    "email": "michael.sanchez1119@gmail.com",
+    "phone": "(646) 414-8306",
+    "ssn": "179318353",
+    "dob": "09-27-1998",
+    "address": "5265 Sixth St",
+    "city": "New York",
+    "state": "TX"
+  }
+}

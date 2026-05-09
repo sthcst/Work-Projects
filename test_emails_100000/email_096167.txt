@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Delgado
+  email: andrew.delgado7707@company.com
+  phone: +1 613-909-6627
+  ssn: 112922560
+  dob: 02/22/1991
+  address: 4142 Elm Court
+  city: Washington
+  state: NY

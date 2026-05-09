@@ -1,0 +1,9 @@
+contact:
+  name: Maria Rodriguez
+  email: maria.rodriguez8351@outlook.com
+  phone: +1 296-554-9536
+  ssn: 550-96-9343
+  dob: 07/04/1980
+  address: 6178 West Way
+  city: Houston
+  state: CA

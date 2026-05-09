@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Stewart,richard.stewart8651@mail.com,802-581-1103,954-11-6172,11/21/1968,"5852 Main Court",Washington,WA

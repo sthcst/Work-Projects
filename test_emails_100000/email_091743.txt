@@ -1,0 +1,14 @@
+INVOICE 386554
+
+Bill To:
+Name: Angela Ramirez
+Email: angela.ramirez1576@example.com
+Phone: 527 719 7261
+SSN: 896559261
+
+Address: 5038 Summer Rd
+San Antonio, MD
+
+Date of Birth: 12/13/1957
+
+Amount Due: $2607

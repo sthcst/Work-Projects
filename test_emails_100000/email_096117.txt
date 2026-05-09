@@ -1,0 +1,9 @@
+contact:
+  name: Maria Cooper
+  email: maria.cooper3719@company.com
+  phone: 877 949 4574
+  ssn: 858 19 7141
+  dob: 8/4/1976
+  address: 3092 Spring Dr
+  city: Philadelphia
+  state: FL

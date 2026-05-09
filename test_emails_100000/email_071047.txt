@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Reyes,ashley.reyes2644@gmail.com,(302) 739-7685,680 47 1843,6/5/1965,"1117 North Blvd",San Antonio,CA

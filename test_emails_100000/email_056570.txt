@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Taylor,lauren.taylor9052@mail.com,219 604 2039,807293336,6/25/2004,"446 West Ln",Phoenix,NY

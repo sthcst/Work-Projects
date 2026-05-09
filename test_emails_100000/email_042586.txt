@@ -1,0 +1,14 @@
+INVOICE 926032
+
+Bill To:
+Name: William Williams
+Email: william.williams9862@company.com
+Phone: (319) 381-1773
+SSN: 699 65 4347
+
+Address: 145 Main Ave
+Philadelphia, MD
+
+Date of Birth: 11/09/1986
+
+Amount Due: $4340

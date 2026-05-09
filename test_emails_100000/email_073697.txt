@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Miller,kimberly.miller3114@work.org,218 531 7788,301-22-6289,9/2/1998,"9333 Pine Ave",Seattle,MA

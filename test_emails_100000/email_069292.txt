@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Campbell,shirley.campbell2629@business.net,282-517-6061,262 16 5121,09/07/1976,"3871 Spring Way",Dallas,MI

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Evans,joseph.evans6612@gmail.com,+1 274-605-4949,255-75-4284,9/4/1962,"7012 West Ln",San Diego,TN

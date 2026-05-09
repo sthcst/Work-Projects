@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Ramirez,megan.ramirez1907@example.com,+1 920-996-9873,372-66-5699,14/12/1988,"3573 Elm Ave",San Antonio,CA

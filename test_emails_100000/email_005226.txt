@@ -1,0 +1,14 @@
+INVOICE 394789
+
+Bill To:
+Name: Christopher Delgado
+Email: christopher.delgado7083@gmail.com
+Phone: 978 471 1180
+SSN: 051556702
+
+Address: 2480 South St
+San Jose, AZ
+
+Date of Birth: 8/19/1957
+
+Amount Due: $4979

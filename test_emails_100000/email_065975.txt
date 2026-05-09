@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Rodriguez,kimberly.rodriguez94@yahoo.com,631 666 6792,039614087,11/26/1964,"3121 East St",New York,MO

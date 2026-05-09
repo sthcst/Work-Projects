@@ -1,0 +1,14 @@
+INVOICE 904903
+
+Bill To:
+Name: William Morgan
+Email: william.morgan587@yahoo.com
+Phone: +1 356-238-8615
+SSN: 136 63 8910
+
+Address: 5069 Pine Dr
+San Antonio, FL
+
+Date of Birth: 12-10-1959
+
+Amount Due: $3588

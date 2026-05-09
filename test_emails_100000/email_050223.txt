@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Clark,edward.clark6145@example.com,(841) 526-2852,908-34-6354,03/10/1990,"8282 Fourth Ave",Los Angeles,TX

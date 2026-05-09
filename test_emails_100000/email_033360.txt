@@ -1,0 +1,14 @@
+INVOICE 323868
+
+Bill To:
+Name: Jeffrey Garcia
+Email: jeffrey.garcia6537@mail.com
+Phone: 629 264 9001
+SSN: 747715491
+
+Address: 1933 Sixth Way
+Phoenix, FL
+
+Date of Birth: 01/03/1951
+
+Amount Due: $8960

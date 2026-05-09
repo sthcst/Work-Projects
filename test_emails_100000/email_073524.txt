@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Garcia,richard.garcia183@yahoo.com,+1 605-920-8176,056045921,06-04-2005,"222 Oak Rd",San Antonio,DC

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Sanchez",
+    "email": "emily.sanchez2053@gmail.com",
+    "phone": "+1 833-503-1255",
+    "ssn": "171-55-6730",
+    "dob": "6/4/1966",
+    "address": "3268 Birch Ave",
+    "city": "Jacksonville",
+    "state": "DC"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Gary Morgan
+  email: gary.morgan6746@mail.com
+  phone: +1 849-912-8789
+  ssn: 395144282
+  dob: 06/06/1960
+  address: 5375 East St
+  city: Dallas
+  state: CA

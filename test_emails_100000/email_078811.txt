@@ -1,0 +1,14 @@
+INVOICE 381096
+
+Bill To:
+Name: Gary Lewis
+Email: gary.lewis4420@example.com
+Phone: (534) 656-5781
+SSN: 992-26-2568
+
+Address: 621 Park Court
+Jacksonville, NY
+
+Date of Birth: 02-23-1968
+
+Amount Due: $321

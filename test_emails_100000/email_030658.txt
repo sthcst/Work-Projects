@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Rodriguez,brian.rodriguez6155@gmail.com,+1 632-933-7302,950452675,28/12/2002,"6558 West Dr",Boston,PA

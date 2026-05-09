@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Edwards,sarah.edwards9817@yahoo.com,653 890 7307,971831319,09-01-1985,"558 Summer Blvd",Jacksonville,MO

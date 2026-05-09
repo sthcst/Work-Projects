@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Moore",
+    "email": "james.moore1931@mail.com",
+    "phone": "210 215 1896",
+    "ssn": "480468838",
+    "dob": "9/12/1962",
+    "address": "6270 Second Ave",
+    "city": "Chicago",
+    "state": "IL"
+  }
+}

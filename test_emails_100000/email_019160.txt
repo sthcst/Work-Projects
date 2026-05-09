@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Clark",
+    "email": "emma.clark1843@yahoo.com",
+    "phone": "717-574-5487",
+    "ssn": "371 39 8996",
+    "dob": "24/12/1997",
+    "address": "9395 West Way",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

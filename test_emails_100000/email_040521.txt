@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Garcia",
+    "email": "anthony.garcia7699@company.com",
+    "phone": "+1 967-502-5985",
+    "ssn": "684084325",
+    "dob": "8/11/1969",
+    "address": "1883 Second Way",
+    "city": "Boston",
+    "state": "AZ"
+  }
+}

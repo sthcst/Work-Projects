@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Harris",
+    "email": "george.harris3197@work.org",
+    "phone": "703 306 7460",
+    "ssn": "154-38-9333",
+    "dob": "20/01/1989",
+    "address": "3773 Oak Way",
+    "city": "San Diego",
+    "state": "WA"
+  }
+}

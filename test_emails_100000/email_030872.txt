@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Stewart",
+    "email": "kenneth.stewart3255@mail.com",
+    "phone": "416-481-4862",
+    "ssn": "443551328",
+    "dob": "11-28-2004",
+    "address": "8552 Cedar St",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

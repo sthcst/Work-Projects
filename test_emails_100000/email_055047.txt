@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Cooper",
+    "email": "james.cooper1034@work.org",
+    "phone": "564 471 2998",
+    "ssn": "876-01-5333",
+    "dob": "25/10/1997",
+    "address": "1238 West Court",
+    "city": "Houston",
+    "state": "MO"
+  }
+}

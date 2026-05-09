@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Lewis,john.lewis2471@outlook.com,(894) 241-4846,725 53 1442,16/05/1957,"4867 Oak Ave",Dallas,VA

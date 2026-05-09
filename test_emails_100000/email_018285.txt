@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Jackson",
+    "email": "pamela.jackson6403@work.org",
+    "phone": "578 686 5684",
+    "ssn": "275-42-3071",
+    "dob": "09-26-1952",
+    "address": "9019 Birch Way",
+    "city": "New York",
+    "state": "NJ"
+  }
+}

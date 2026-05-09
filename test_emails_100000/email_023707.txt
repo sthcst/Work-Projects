@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Campbell",
+    "email": "jason.campbell3651@yahoo.com",
+    "phone": "(958) 780-9535",
+    "ssn": "993-37-4425",
+    "dob": "07-23-2004",
+    "address": "5069 First St",
+    "city": "Seattle",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Harris",
+    "email": "pamela.harris6933@yahoo.com",
+    "phone": "932-277-3078",
+    "ssn": "443-72-6856",
+    "dob": "11/8/1965",
+    "address": "2214 First Ln",
+    "city": "San Diego",
+    "state": "IL"
+  }
+}

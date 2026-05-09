@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Lewis,rebecca.lewis522@gmail.com,(638) 710-6615,076-22-7639,2/2/2000,"2245 Fourth St",Seattle,CO

@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Ramirez
+  email: michelle.ramirez2577@gmail.com
+  phone: (747) 382-1924
+  ssn: 071-39-1036
+  dob: 1/21/1959
+  address: 7105 First Court
+  city: Austin
+  state: NJ

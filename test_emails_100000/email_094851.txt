@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Stewart",
+    "email": "rachel.stewart4624@work.org",
+    "phone": "(989) 227-5537",
+    "ssn": "892-88-6110",
+    "dob": "10/4/1962",
+    "address": "1602 Cedar Ave",
+    "city": "New York",
+    "state": "TX"
+  }
+}

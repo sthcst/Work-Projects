@@ -1,0 +1,9 @@
+contact:
+  name: Angela Nunez
+  email: angela.nunez2997@mail.com
+  phone: (615) 960-7323
+  ssn: 031 99 8561
+  dob: 05/02/1992
+  address: 2196 Maple Blvd
+  city: Phoenix
+  state: AZ

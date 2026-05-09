@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Thompson",
+    "email": "helen.thompson4620@business.net",
+    "phone": "+1 649-914-6025",
+    "ssn": "757-05-6719",
+    "dob": "04/25/1959",
+    "address": "6738 Fifth Ln",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

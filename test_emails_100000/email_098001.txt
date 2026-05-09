@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Murillo",
+    "email": "pamela.murillo159@business.net",
+    "phone": "293 847 9878",
+    "ssn": "420-29-5603",
+    "dob": "05-10-1959",
+    "address": "1144 Third Way",
+    "city": "San Antonio",
+    "state": "WA"
+  }
+}

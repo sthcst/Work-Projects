@@ -1,0 +1,14 @@
+INVOICE 673331
+
+Bill To:
+Name: Cynthia Jones
+Email: cynthia.jones848@business.net
+Phone: 867-209-9679
+SSN: 346-48-7942
+
+Address: 8586 Cedar Blvd
+San Jose, WI
+
+Date of Birth: 07/24/2001
+
+Amount Due: $7298

@@ -1,0 +1,9 @@
+contact:
+  name: Paul Thomas
+  email: paul.thomas799@company.com
+  phone: +1 640-656-2492
+  ssn: 967-55-3789
+  dob: 23/08/1985
+  address: 1006 Main St
+  city: Austin
+  state: NJ

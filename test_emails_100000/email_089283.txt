@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Parker",
+    "email": "matthew.parker9700@company.com",
+    "phone": "(469) 503-2740",
+    "ssn": "721166577",
+    "dob": "07/07/1967",
+    "address": "6442 West Ave",
+    "city": "Seattle",
+    "state": "WI"
+  }
+}

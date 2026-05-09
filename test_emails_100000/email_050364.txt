@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Jackson",
+    "email": "timothy.jackson4028@gmail.com",
+    "phone": "988 375 6916",
+    "ssn": "109-21-6771",
+    "dob": "01-08-1964",
+    "address": "3688 Fifth Court",
+    "city": "Chicago",
+    "state": "NC"
+  }
+}

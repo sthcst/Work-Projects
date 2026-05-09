@@ -1,0 +1,9 @@
+contact:
+  name: Charles Garcia
+  email: charles.garcia7787@work.org
+  phone: +1 638-549-6548
+  ssn: 985969745
+  dob: 06/19/1970
+  address: 9861 West Rd
+  city: Boston
+  state: MA

@@ -1,0 +1,14 @@
+INVOICE 125475
+
+Bill To:
+Name: Samantha Thompson
+Email: samantha.thompson2953@mail.com
+Phone: (679) 491-1879
+SSN: 726364537
+
+Address: 315 North Way
+Dallas, CO
+
+Date of Birth: 02/12/1955
+
+Amount Due: $4573

@@ -1,0 +1,14 @@
+INVOICE 164285
+
+Bill To:
+Name: Timothy Jones
+Email: timothy.jones5138@yahoo.com
+Phone: (560) 779-9491
+SSN: 634 18 5017
+
+Address: 1469 Sixth Ln
+Denver, PA
+
+Date of Birth: 25/01/2002
+
+Amount Due: $8696

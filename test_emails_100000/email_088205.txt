@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Lee",
+    "email": "matthew.lee789@gmail.com",
+    "phone": "663 468 2586",
+    "ssn": "915-13-5832",
+    "dob": "05/01/1969",
+    "address": "4734 Cedar Ln",
+    "city": "Chicago",
+    "state": "WI"
+  }
+}

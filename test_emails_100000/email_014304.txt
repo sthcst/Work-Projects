@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Brown
+  email: sarah.brown8170@example.com
+  phone: (220) 550-4109
+  ssn: 843 81 7265
+  dob: 06-28-2003
+  address: 5469 First Blvd
+  city: Philadelphia
+  state: NY

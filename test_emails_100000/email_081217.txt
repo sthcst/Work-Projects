@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Perez",
+    "email": "james.perez3402@work.org",
+    "phone": "(812) 740-4666",
+    "ssn": "191139141",
+    "dob": "02-07-1991",
+    "address": "1205 East Dr",
+    "city": "Houston",
+    "state": "MA"
+  }
+}

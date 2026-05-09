@@ -1,0 +1,14 @@
+INVOICE 312439
+
+Bill To:
+Name: Kenneth Lopez
+Email: kenneth.lopez2942@company.com
+Phone: 970 897 2550
+SSN: 687093455
+
+Address: 9431 Fourth Rd
+Phoenix, MA
+
+Date of Birth: 10/06/1953
+
+Amount Due: $4789

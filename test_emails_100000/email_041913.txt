@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Reeves",
+    "email": "megan.reeves4182@company.com",
+    "phone": "661-672-1821",
+    "ssn": "633634579",
+    "dob": "03-04-1981",
+    "address": "4702 Oak Blvd",
+    "city": "Seattle",
+    "state": "FL"
+  }
+}

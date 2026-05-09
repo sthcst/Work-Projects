@@ -1,0 +1,14 @@
+INVOICE 275153
+
+Bill To:
+Name: Christine Lopez
+Email: christine.lopez4359@company.com
+Phone: (280) 735-2221
+SSN: 298 49 8715
+
+Address: 27 East Blvd
+Boston, TX
+
+Date of Birth: 12/22/1951
+
+Amount Due: $5839

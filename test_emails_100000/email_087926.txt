@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Ramirez
+  email: katherine.ramirez6827@mail.com
+  phone: 227 391 1176
+  ssn: 331626886
+  dob: 20/06/1962
+  address: 3287 North St
+  city: Los Angeles
+  state: AZ

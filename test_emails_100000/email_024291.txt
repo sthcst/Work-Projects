@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Lopez",
+    "email": "edward.lopez7747@gmail.com",
+    "phone": "683-220-6079",
+    "ssn": "355283568",
+    "dob": "01/18/1975",
+    "address": "208 South Dr",
+    "city": "Austin",
+    "state": "FL"
+  }
+}

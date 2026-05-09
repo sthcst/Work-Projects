@@ -1,0 +1,9 @@
+contact:
+  name: Charles Taylor
+  email: charles.taylor1495@outlook.com
+  phone: 730 994 5562
+  ssn: 319 47 9421
+  dob: 6/11/1989
+  address: 4197 Spring Rd
+  city: Dallas
+  state: NJ

@@ -1,0 +1,12 @@
+SUPPORT TICKET #84590
+
+Customer: Steven Jones
+Email: steven.jones4733@example.com
+Phone: 235-475-5394
+Account: 723 79 5178
+
+Issue Description: Technical problem reported
+DOB on file: 05/07/1997
+Address: 2112 Elm Blvd, San Jose, TN
+
+Status: OPEN

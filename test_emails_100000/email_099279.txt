@@ -1,0 +1,14 @@
+INVOICE 917450
+
+Bill To:
+Name: Steven Dominguez
+Email: steven.dominguez3560@work.org
+Phone: (950) 624-2499
+SSN: 736 79 1598
+
+Address: 6875 Summer Court
+Washington, MI
+
+Date of Birth: 01/02/1972
+
+Amount Due: $4785

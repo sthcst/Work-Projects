@@ -1,0 +1,14 @@
+INVOICE 380567
+
+Bill To:
+Name: Michael Evans
+Email: michael.evans4531@mail.com
+Phone: (609) 304-7305
+SSN: 672838475
+
+Address: 7965 Fourth Way
+Phoenix, NC
+
+Date of Birth: 03-03-1983
+
+Amount Due: $5606

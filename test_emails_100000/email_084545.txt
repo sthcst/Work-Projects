@@ -1,0 +1,14 @@
+INVOICE 675718
+
+Bill To:
+Name: Paul Wilson
+Email: paul.wilson9576@example.com
+Phone: (505) 441-2082
+SSN: 139-09-6700
+
+Address: 37 Elm Ave
+Washington, NY
+
+Date of Birth: 06-15-1954
+
+Amount Due: $2613

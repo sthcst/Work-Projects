@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Alvarado,brenda.alvarado6318@gmail.com,379 985 1004,131277562,2/9/1958,"4603 Main Blvd",Houston,TX

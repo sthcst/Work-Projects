@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Martinez",
+    "email": "mark.martinez4004@outlook.com",
+    "phone": "764-757-4379",
+    "ssn": "904-80-3953",
+    "dob": "12-06-1991",
+    "address": "7914 Second Ave",
+    "city": "Boston",
+    "state": "IL"
+  }
+}

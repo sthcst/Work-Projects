@@ -1,0 +1,14 @@
+INVOICE 512677
+
+Bill To:
+Name: Ashley Lee
+Email: ashley.lee21@business.net
+Phone: (569) 848-6661
+SSN: 315-61-6309
+
+Address: 5180 Cedar Dr
+San Antonio, AZ
+
+Date of Birth: 04/04/1979
+
+Amount Due: $4893

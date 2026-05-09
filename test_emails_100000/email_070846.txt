@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Thompson",
+    "email": "pamela.thompson2539@yahoo.com",
+    "phone": "349-840-2814",
+    "ssn": "966164150",
+    "dob": "3/26/1990",
+    "address": "344 Sixth Court",
+    "city": "Boston",
+    "state": "NC"
+  }
+}

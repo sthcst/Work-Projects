@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Hernandez",
+    "email": "james.hernandez1570@company.com",
+    "phone": "741-928-3647",
+    "ssn": "867611485",
+    "dob": "06-08-2001",
+    "address": "7359 Oak Blvd",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

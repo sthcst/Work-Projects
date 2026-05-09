@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Jimenez
+  email: lauren.jimenez2187@work.org
+  phone: (678) 335-8611
+  ssn: 545289058
+  dob: 5/10/1961
+  address: 7577 West Way
+  city: Los Angeles
+  state: TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Thompson",
+    "email": "katherine.thompson486@outlook.com",
+    "phone": "+1 563-242-9319",
+    "ssn": "253 74 6480",
+    "dob": "16/04/2001",
+    "address": "752 Third Ln",
+    "city": "Philadelphia",
+    "state": "VA"
+  }
+}

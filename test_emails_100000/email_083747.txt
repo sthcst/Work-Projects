@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Sanchez
+  email: cynthia.sanchez7436@mail.com
+  phone: +1 706-617-6410
+  ssn: 574 37 9771
+  dob: 17/03/1980
+  address: 3194 Park Ave
+  city: Phoenix
+  state: CA

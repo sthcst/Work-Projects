@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Collins",
+    "email": "john.collins4228@company.com",
+    "phone": "+1 947-435-6859",
+    "ssn": "440 23 5589",
+    "dob": "19/01/2001",
+    "address": "4838 Elm Blvd",
+    "city": "Philadelphia",
+    "state": "WI"
+  }
+}

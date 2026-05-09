@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Delgado",
+    "email": "richard.delgado8499@work.org",
+    "phone": "+1 499-980-2553",
+    "ssn": "700-31-1832",
+    "dob": "02/13/1958",
+    "address": "7281 Third Way",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

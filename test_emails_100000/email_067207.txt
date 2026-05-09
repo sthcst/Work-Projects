@@ -1,0 +1,14 @@
+INVOICE 525473
+
+Bill To:
+Name: Megan Thompson
+Email: megan.thompson3221@example.com
+Phone: 710-655-5200
+SSN: 753505468
+
+Address: 5423 East Ave
+Dallas, FL
+
+Date of Birth: 04/03/1984
+
+Amount Due: $1024

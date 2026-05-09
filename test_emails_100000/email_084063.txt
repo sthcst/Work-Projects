@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Ortiz",
+    "email": "deborah.ortiz4294@business.net",
+    "phone": "259 538 3448",
+    "ssn": "536-38-4438",
+    "dob": "1/1/1983",
+    "address": "958 Pine Rd",
+    "city": "Philadelphia",
+    "state": "MI"
+  }
+}

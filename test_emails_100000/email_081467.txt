@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Ramirez,joshua.ramirez9060@outlook.com,(609) 539-9325,001 76 5604,2/12/1988,"5793 Spring Blvd",Chicago,MA

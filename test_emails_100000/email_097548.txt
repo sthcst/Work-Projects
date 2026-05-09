@@ -1,0 +1,14 @@
+INVOICE 344470
+
+Bill To:
+Name: Angela Flores
+Email: angela.flores5224@company.com
+Phone: 819 831 4557
+SSN: 152 79 1053
+
+Address: 2544 Park Way
+Austin, TX
+
+Date of Birth: 06-13-1985
+
+Amount Due: $1922

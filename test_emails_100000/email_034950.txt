@@ -1,0 +1,9 @@
+contact:
+  name: Brian Taylor
+  email: brian.taylor8635@work.org
+  phone: 282-721-3289
+  ssn: 948-07-3118
+  dob: 27/11/1972
+  address: 7355 Pine St
+  city: San Diego
+  state: CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Murillo",
+    "email": "joshua.murillo2824@example.com",
+    "phone": "372 260 6473",
+    "ssn": "485-81-6058",
+    "dob": "07/20/1967",
+    "address": "784 Pine Blvd",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

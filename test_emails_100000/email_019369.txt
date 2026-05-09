@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Miller
+  email: samantha.miller6659@company.com
+  phone: 334-323-3028
+  ssn: 783091056
+  dob: 07/11/1952
+  address: 6021 Third Blvd
+  city: Dallas
+  state: FL

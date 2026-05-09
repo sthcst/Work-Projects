@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Gomez,samantha.gomez4646@company.com,(689) 381-6202,703197004,08/12/1980,"7364 Fifth Way",New York,OH

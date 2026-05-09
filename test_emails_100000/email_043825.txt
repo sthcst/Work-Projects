@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Rogers
+  email: michelle.rogers9031@outlook.com
+  phone: (987) 868-5569
+  ssn: 111314506
+  dob: 08/03/1964
+  address: 2470 Cedar Ln
+  city: San Diego
+  state: NY

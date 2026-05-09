@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Rodriguez
+  email: lisa.rodriguez6901@mail.com
+  phone: +1 983-374-5068
+  ssn: 272 50 5186
+  dob: 03/28/1963
+  address: 5189 Summer Dr
+  city: Phoenix
+  state: TX

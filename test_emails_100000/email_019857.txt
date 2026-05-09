@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Nunez,angela.nunez2787@outlook.com,653 228 5202,451-99-5019,17/06/1967,"1931 Birch St",San Diego,MA

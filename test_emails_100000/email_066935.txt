@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Romero,jeffrey.romero4409@work.org,251-534-2715,639 49 6220,05/18/1976,"8093 Sixth Court",Seattle,CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Rodriguez,pamela.rodriguez6674@yahoo.com,+1 912-209-4596,606 91 8570,5/24/1972,"5813 Birch Dr",Washington,MO

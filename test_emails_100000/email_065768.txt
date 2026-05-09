@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Hernandez
+  email: daniel.hernandez8568@outlook.com
+  phone: +1 524-994-9849
+  ssn: 390-83-5043
+  dob: 12/7/2001
+  address: 8827 Summer Dr
+  city: Houston
+  state: MO

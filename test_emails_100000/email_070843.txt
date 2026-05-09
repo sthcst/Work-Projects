@@ -1,0 +1,9 @@
+contact:
+  name: Christine Nelson
+  email: christine.nelson5649@outlook.com
+  phone: +1 229-908-1928
+  ssn: 180536875
+  dob: 11/02/1959
+  address: 6972 Sixth Ave
+  city: Los Angeles
+  state: WI

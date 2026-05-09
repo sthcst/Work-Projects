@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Rodriguez
+  email: samantha.rodriguez849@outlook.com
+  phone: 596 253 9613
+  ssn: 119 21 5609
+  dob: 09/01/1988
+  address: 6454 Park Ave
+  city: Denver
+  state: NC

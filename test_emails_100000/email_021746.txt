@@ -1,0 +1,14 @@
+INVOICE 249039
+
+Bill To:
+Name: Jason Gomez
+Email: jason.gomez193@company.com
+Phone: (253) 865-7782
+SSN: 027506296
+
+Address: 6121 Sixth Rd
+Chicago, CO
+
+Date of Birth: 11-10-1990
+
+Amount Due: $9436

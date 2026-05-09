@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Anderson,rebecca.anderson2487@work.org,(984) 700-8143,528958974,4/8/1979,"483 North Rd",Chicago,MD

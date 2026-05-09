@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Brown,edward.brown5131@gmail.com,(751) 751-5134,249049078,28/09/1971,"8904 Second St",Washington,DC

@@ -1,0 +1,9 @@
+contact:
+  name: Paul White
+  email: paul.white4654@yahoo.com
+  phone: +1 416-247-7014
+  ssn: 524-86-2030
+  dob: 02/20/1966
+  address: 1767 Pine Ave
+  city: San Diego
+  state: TX

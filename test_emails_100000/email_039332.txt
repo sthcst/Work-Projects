@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Roberts",
+    "email": "robert.roberts8415@yahoo.com",
+    "phone": "+1 420-678-4376",
+    "ssn": "404748501",
+    "dob": "08-26-1972",
+    "address": "2267 Summer Way",
+    "city": "New York",
+    "state": "CA"
+  }
+}

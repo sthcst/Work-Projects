@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Nunez",
+    "email": "edward.nunez9890@gmail.com",
+    "phone": "(738) 309-3150",
+    "ssn": "437206386",
+    "dob": "09-16-1988",
+    "address": "7908 Third Court",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

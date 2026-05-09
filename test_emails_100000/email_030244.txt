@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Carter",
+    "email": "emily.carter3172@mail.com",
+    "phone": "647 855 9939",
+    "ssn": "196-47-1105",
+    "dob": "12/21/1975",
+    "address": "9238 Fifth Ln",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

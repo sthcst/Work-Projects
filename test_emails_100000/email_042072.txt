@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Davis",
+    "email": "angela.davis607@outlook.com",
+    "phone": "+1 965-573-8389",
+    "ssn": "164606692",
+    "dob": "06-22-1980",
+    "address": "5801 North St",
+    "city": "San Jose",
+    "state": "NC"
+  }
+}

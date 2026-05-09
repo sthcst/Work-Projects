@@ -1,0 +1,9 @@
+contact:
+  name: Christine Murillo
+  email: christine.murillo3772@outlook.com
+  phone: 289-216-8927
+  ssn: 550-51-1460
+  dob: 03/03/2001
+  address: 9786 North Rd
+  city: San Diego
+  state: NY

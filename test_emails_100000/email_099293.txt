@@ -1,0 +1,14 @@
+INVOICE 536434
+
+Bill To:
+Name: Timothy Morgan
+Email: timothy.morgan541@example.com
+Phone: (742) 796-9748
+SSN: 937-96-3820
+
+Address: 3482 Park Ave
+Dallas, CA
+
+Date of Birth: 11-15-1984
+
+Amount Due: $8539

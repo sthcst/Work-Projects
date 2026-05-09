@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth White,kenneth.white4293@work.org,870 831 5408,839221906,9/22/1967,"3394 First Way",San Antonio,WI

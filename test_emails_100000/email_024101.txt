@@ -1,0 +1,14 @@
+INVOICE 298094
+
+Bill To:
+Name: Jacob Gomez
+Email: jacob.gomez1611@business.net
+Phone: 680-248-3084
+SSN: 225396271
+
+Address: 3805 Fifth St
+Los Angeles, WA
+
+Date of Birth: 03/04/1995
+
+Amount Due: $8295

@@ -1,0 +1,9 @@
+contact:
+  name: Donald Carter
+  email: donald.carter6544@example.com
+  phone: +1 715-692-3488
+  ssn: 738 54 8767
+  dob: 8/6/1986
+  address: 227 East Way
+  city: Houston
+  state: FL

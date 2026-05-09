@@ -1,0 +1,14 @@
+INVOICE 143985
+
+Bill To:
+Name: James Sanchez
+Email: james.sanchez3745@example.com
+Phone: (581) 770-2060
+SSN: 717962299
+
+Address: 8618 Fifth Dr
+Los Angeles, OH
+
+Date of Birth: 11-01-1983
+
+Amount Due: $8448

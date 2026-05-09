@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Gonzalez,lauren.gonzalez5970@business.net,(569) 282-2027,059-03-9827,02-10-1950,"1660 Spring Ave",Washington,MA

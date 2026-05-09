@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Thompson,kevin.thompson2239@yahoo.com,787-862-7207,120-30-6883,24/02/1966,"5865 Fourth St",San Diego,AZ

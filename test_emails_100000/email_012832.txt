@@ -1,0 +1,9 @@
+contact:
+  name: Mark Walker
+  email: mark.walker3026@example.com
+  phone: 901 487 7327
+  ssn: 393-48-1298
+  dob: 2/4/1972
+  address: 2395 Elm Dr
+  city: Washington
+  state: FL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Nunez",
+    "email": "rachel.nunez4133@outlook.com",
+    "phone": "+1 597-497-7634",
+    "ssn": "762-73-7348",
+    "dob": "14/04/1984",
+    "address": "3293 Birch Blvd",
+    "city": "Phoenix",
+    "state": "TN"
+  }
+}

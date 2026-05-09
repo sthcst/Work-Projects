@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Gomez,charles.gomez3927@gmail.com,212 351 6809,457-61-2984,11/17/2003,"8492 East St",Los Angeles,PA

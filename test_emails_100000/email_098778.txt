@@ -1,0 +1,14 @@
+INVOICE 910558
+
+Bill To:
+Name: Nicole Flores
+Email: nicole.flores3436@example.com
+Phone: (513) 264-4843
+SSN: 433 96 7688
+
+Address: 7486 West Rd
+Austin, AZ
+
+Date of Birth: 2/23/1974
+
+Amount Due: $6817

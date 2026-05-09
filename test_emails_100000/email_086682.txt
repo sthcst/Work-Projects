@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Campbell,joshua.campbell367@outlook.com,+1 897-584-7676,029 85 4161,08/19/1965,"6851 Elm Ln",Denver,PA

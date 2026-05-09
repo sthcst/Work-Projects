@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Thomas",
+    "email": "nicholas.thomas8394@work.org",
+    "phone": "200-603-8225",
+    "ssn": "532493645",
+    "dob": "12-28-1989",
+    "address": "2779 Sixth Ave",
+    "city": "Boston",
+    "state": "WA"
+  }
+}

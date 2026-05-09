@@ -1,0 +1,14 @@
+INVOICE 871085
+
+Bill To:
+Name: Helen Thompson
+Email: helen.thompson848@example.com
+Phone: 279-662-5699
+SSN: 883-91-7776
+
+Address: 3448 Third St
+Chicago, CA
+
+Date of Birth: 04-22-1964
+
+Amount Due: $803

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Delgado,brian.delgado4518@company.com,815 438 4829,291-64-9129,06-20-1963,"6625 West Ave",San Diego,VA

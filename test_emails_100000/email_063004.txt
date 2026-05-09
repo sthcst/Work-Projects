@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Rodriguez
+  email: kenneth.rodriguez2625@yahoo.com
+  phone: (572) 641-2561
+  ssn: 585 44 6740
+  dob: 12/11/1994
+  address: 9321 Oak Blvd
+  city: Dallas
+  state: PA

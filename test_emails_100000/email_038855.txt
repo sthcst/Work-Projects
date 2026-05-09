@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Nunez
+  email: joseph.nunez6824@company.com
+  phone: (977) 405-8744
+  ssn: 927 60 4382
+  dob: 10-19-1978
+  address: 1898 Oak Rd
+  city: San Jose
+  state: CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Martin",
+    "email": "megan.martin5433@gmail.com",
+    "phone": "(558) 336-3687",
+    "ssn": "160-05-9020",
+    "dob": "1/12/1955",
+    "address": "8829 Park Dr",
+    "city": "Seattle",
+    "state": "MI"
+  }
+}

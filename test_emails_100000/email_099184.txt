@@ -1,0 +1,14 @@
+INVOICE 630248
+
+Bill To:
+Name: Jacob Gonzalez
+Email: jacob.gonzalez3354@outlook.com
+Phone: 792-832-6680
+SSN: 162-10-3094
+
+Address: 2461 Cedar Way
+Houston, PA
+
+Date of Birth: 09/24/1963
+
+Amount Due: $5995

@@ -1,0 +1,14 @@
+INVOICE 599269
+
+Bill To:
+Name: Amanda Jimenez
+Email: amanda.jimenez5313@work.org
+Phone: +1 456-682-9047
+SSN: 111-37-1377
+
+Address: 3068 South St
+New York, CA
+
+Date of Birth: 10-20-1950
+
+Amount Due: $6033

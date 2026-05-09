@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Robinson,edward.robinson5561@yahoo.com,587 347 5680,297274622,11-17-1991,"1035 East St",Chicago,IL

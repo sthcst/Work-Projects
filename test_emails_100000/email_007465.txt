@@ -1,0 +1,9 @@
+contact:
+  name: Angela Rodriguez
+  email: angela.rodriguez4913@company.com
+  phone: 855-883-4981
+  ssn: 844491051
+  dob: 05/19/1989
+  address: 5559 Second Dr
+  city: Austin
+  state: NC

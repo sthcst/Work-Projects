@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Harris",
+    "email": "george.harris4000@business.net",
+    "phone": "+1 999-259-3519",
+    "ssn": "420 45 3818",
+    "dob": "5/8/1978",
+    "address": "556 Third St",
+    "city": "Jacksonville",
+    "state": "MA"
+  }
+}

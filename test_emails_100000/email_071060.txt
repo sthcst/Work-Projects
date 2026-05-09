@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Romero",
+    "email": "stephanie.romero3695@example.com",
+    "phone": "986 425 3387",
+    "ssn": "406 54 6303",
+    "dob": "09-06-1950",
+    "address": "5268 Sixth Ave",
+    "city": "San Jose",
+    "state": "MD"
+  }
+}

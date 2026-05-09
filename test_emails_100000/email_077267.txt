@@ -1,0 +1,9 @@
+contact:
+  name: Christine Sanchez
+  email: christine.sanchez2074@example.com
+  phone: 332 377 3235
+  ssn: 336 39 2654
+  dob: 5/12/1977
+  address: 2829 Oak Blvd
+  city: Phoenix
+  state: TX

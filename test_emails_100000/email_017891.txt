@@ -1,0 +1,9 @@
+contact:
+  name: Anna Dominguez
+  email: anna.dominguez882@outlook.com
+  phone: +1 813-837-2556
+  ssn: 977 25 8207
+  dob: 12/16/1985
+  address: 3454 First Dr
+  city: Denver
+  state: MA

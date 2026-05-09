@@ -1,0 +1,9 @@
+contact:
+  name: Christine Parker
+  email: christine.parker6229@work.org
+  phone: 510 686 9762
+  ssn: 143 25 2794
+  dob: 09/08/1990
+  address: 1362 Second Ave
+  city: San Diego
+  state: NY

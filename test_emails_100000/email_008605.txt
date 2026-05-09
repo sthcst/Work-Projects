@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Gomez",
+    "email": "daniel.gomez3743@yahoo.com",
+    "phone": "(670) 225-2745",
+    "ssn": "355632830",
+    "dob": "08-22-2005",
+    "address": "5168 Maple Ln",
+    "city": "Seattle",
+    "state": "PA"
+  }
+}

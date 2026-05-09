@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Cooper",
+    "email": "brenda.cooper254@outlook.com",
+    "phone": "+1 507-347-6220",
+    "ssn": "471-33-3309",
+    "dob": "18/01/1952",
+    "address": "8484 Maple Blvd",
+    "city": "Houston",
+    "state": "MA"
+  }
+}

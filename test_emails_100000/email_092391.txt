@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Jackson",
+    "email": "deborah.jackson5216@yahoo.com",
+    "phone": "+1 202-698-8866",
+    "ssn": "120054318",
+    "dob": "19/01/1994",
+    "address": "728 South Dr",
+    "city": "Denver",
+    "state": "DC"
+  }
+}

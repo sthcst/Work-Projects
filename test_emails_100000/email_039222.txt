@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Serrano
+  email: ashley.serrano7941@yahoo.com
+  phone: 790-692-4183
+  ssn: 285 90 1295
+  dob: 05/01/2001
+  address: 954 Sixth Blvd
+  city: Dallas
+  state: OH

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Dominguez",
+    "email": "jessica.dominguez9168@gmail.com",
+    "phone": "+1 248-214-3307",
+    "ssn": "545648061",
+    "dob": "17/01/1998",
+    "address": "5942 South Court",
+    "city": "New York",
+    "state": "VA"
+  }
+}

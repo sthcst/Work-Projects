@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Morgan,emma.morgan6866@example.com,(233) 671-9319,084-08-5307,16/08/1979,"7551 Park Rd",Chicago,TX

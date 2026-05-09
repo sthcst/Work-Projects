@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Edwards,kenneth.edwards7767@work.org,+1 777-202-2597,177 58 3206,20/01/1975,"7607 Fourth Ave",San Diego,DC

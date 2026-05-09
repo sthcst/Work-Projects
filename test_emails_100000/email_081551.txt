@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Moore",
+    "email": "pamela.moore7204@yahoo.com",
+    "phone": "+1 428-355-9662",
+    "ssn": "233 39 7360",
+    "dob": "01/05/2005",
+    "address": "6707 Pine Ln",
+    "city": "San Jose",
+    "state": "CA"
+  }
+}

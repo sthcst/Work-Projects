@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Guerrero,deborah.guerrero4543@mail.com,225 480 2744,553 63 5510,10-11-1964,"6394 Fourth Ln",Chicago,CA

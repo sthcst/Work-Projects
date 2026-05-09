@@ -1,0 +1,14 @@
+INVOICE 838326
+
+Bill To:
+Name: Jacob Thomas
+Email: jacob.thomas7537@company.com
+Phone: 483-378-5543
+SSN: 200 39 6136
+
+Address: 9155 East Dr
+Houston, AZ
+
+Date of Birth: 09/06/1961
+
+Amount Due: $7783

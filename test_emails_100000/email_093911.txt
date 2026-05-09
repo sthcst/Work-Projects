@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Ortiz",
+    "email": "jason.ortiz5810@example.com",
+    "phone": "(491) 523-5394",
+    "ssn": "690 02 3068",
+    "dob": "3/1/1974",
+    "address": "1142 First Blvd",
+    "city": "Seattle",
+    "state": "MD"
+  }
+}

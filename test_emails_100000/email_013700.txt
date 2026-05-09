@@ -1,0 +1,9 @@
+contact:
+  name: Jane Harris
+  email: jane.harris2148@mail.com
+  phone: 982-439-8316
+  ssn: 061 92 2669
+  dob: 17/11/1993
+  address: 7221 Elm Way
+  city: Boston
+  state: WA

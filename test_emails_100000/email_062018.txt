@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Jones",
+    "email": "pamela.jones5588@work.org",
+    "phone": "+1 595-871-7973",
+    "ssn": "143-22-1355",
+    "dob": "11/01/1982",
+    "address": "2023 Main St",
+    "city": "Seattle",
+    "state": "FL"
+  }
+}

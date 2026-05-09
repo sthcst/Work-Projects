@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Reed,steven.reed7629@outlook.com,(807) 628-1393,392 94 1982,5/20/1971,"4482 Elm Ave",Los Angeles,IL

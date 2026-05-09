@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Stewart
+  email: joshua.stewart4026@outlook.com
+  phone: (564) 325-9411
+  ssn: 820 91 7405
+  dob: 06/01/2002
+  address: 4394 Park Ln
+  city: San Jose
+  state: GA

@@ -1,0 +1,14 @@
+INVOICE 805905
+
+Bill To:
+Name: James Collins
+Email: james.collins5106@mail.com
+Phone: 546 494 5754
+SSN: 600443038
+
+Address: 942 North Dr
+Denver, NJ
+
+Date of Birth: 01-17-1959
+
+Amount Due: $5949

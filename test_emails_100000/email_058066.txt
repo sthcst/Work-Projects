@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Ortiz
+  email: ryan.ortiz3920@example.com
+  phone: +1 382-270-7567
+  ssn: 813-27-7330
+  dob: 11-21-2000
+  address: 3310 Park Ave
+  city: Boston
+  state: MD

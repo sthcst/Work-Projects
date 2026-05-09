@@ -1,0 +1,14 @@
+INVOICE 141110
+
+Bill To:
+Name: Anthony Thompson
+Email: anthony.thompson3345@outlook.com
+Phone: 439 949 2969
+SSN: 547-88-6502
+
+Address: 9122 Birch Dr
+Dallas, MA
+
+Date of Birth: 05/09/1961
+
+Amount Due: $8265

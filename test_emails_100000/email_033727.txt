@@ -1,0 +1,9 @@
+contact:
+  name: Maria Campbell
+  email: maria.campbell6452@outlook.com
+  phone: 975 801 6948
+  ssn: 322208214
+  dob: 12-06-1961
+  address: 1887 Main St
+  city: Boston
+  state: TX

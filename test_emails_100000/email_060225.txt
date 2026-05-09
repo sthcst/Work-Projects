@@ -1,0 +1,14 @@
+INVOICE 347820
+
+Bill To:
+Name: Maria Hernandez
+Email: maria.hernandez5916@company.com
+Phone: (237) 842-2040
+SSN: 043 42 6570
+
+Address: 1388 Third Dr
+San Antonio, GA
+
+Date of Birth: 11-17-1962
+
+Amount Due: $8714

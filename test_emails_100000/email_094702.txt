@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Lewis",
+    "email": "mark.lewis8309@outlook.com",
+    "phone": "554-273-9119",
+    "ssn": "454907748",
+    "dob": "06-11-1965",
+    "address": "3415 Main Dr",
+    "city": "New York",
+    "state": "VA"
+  }
+}

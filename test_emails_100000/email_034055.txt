@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Murillo",
+    "email": "helen.murillo2041@outlook.com",
+    "phone": "998 582 1768",
+    "ssn": "521 91 1307",
+    "dob": "11/9/1978",
+    "address": "8363 Fourth Blvd",
+    "city": "Chicago",
+    "state": "FL"
+  }
+}

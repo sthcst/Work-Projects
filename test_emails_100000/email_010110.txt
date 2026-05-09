@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Ramirez,rebecca.ramirez3376@yahoo.com,937 763 2786,101 69 5294,01-02-1971,"5016 Pine Ave",Boston,TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Roberts",
+    "email": "amanda.roberts8194@business.net",
+    "phone": "483 387 6176",
+    "ssn": "333 55 6223",
+    "dob": "3/19/1967",
+    "address": "5132 Sixth Court",
+    "city": "Boston",
+    "state": "AZ"
+  }
+}

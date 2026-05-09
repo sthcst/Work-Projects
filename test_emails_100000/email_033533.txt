@@ -1,0 +1,14 @@
+INVOICE 198188
+
+Bill To:
+Name: Kimberly Thomas
+Email: kimberly.thomas911@example.com
+Phone: (447) 603-6697
+SSN: 823 72 9214
+
+Address: 6656 Park Dr
+Dallas, PA
+
+Date of Birth: 06/14/1952
+
+Amount Due: $8601

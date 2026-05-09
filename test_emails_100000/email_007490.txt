@@ -1,0 +1,14 @@
+INVOICE 460831
+
+Bill To:
+Name: Kathleen Morgan
+Email: kathleen.morgan3675@company.com
+Phone: (944) 371-7209
+SSN: 130143496
+
+Address: 1070 Oak Way
+Boston, VA
+
+Date of Birth: 02/25/1953
+
+Amount Due: $8361

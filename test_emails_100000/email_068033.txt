@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Dominguez",
+    "email": "joshua.dominguez7990@work.org",
+    "phone": "+1 312-664-8954",
+    "ssn": "236-76-6662",
+    "dob": "06/27/1996",
+    "address": "3429 Sixth Blvd",
+    "city": "San Jose",
+    "state": "MA"
+  }
+}

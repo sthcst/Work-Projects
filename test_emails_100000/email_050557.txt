@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Nunez,edward.nunez1881@gmail.com,595 827 8981,977282378,06/10/2004,"1958 South St",Philadelphia,OH

@@ -1,0 +1,9 @@
+contact:
+  name: Donald Collins
+  email: donald.collins8568@outlook.com
+  phone: +1 792-919-1680
+  ssn: 289-21-7556
+  dob: 07/23/1958
+  address: 4085 First Ave
+  city: San Diego
+  state: TX

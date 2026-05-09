@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Gomez
+  email: ryan.gomez9890@example.com
+  phone: 883 877 8114
+  ssn: 228 06 5335
+  dob: 08-18-1985
+  address: 4709 Birch Ln
+  city: San Diego
+  state: CA

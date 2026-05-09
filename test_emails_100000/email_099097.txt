@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Thomas",
+    "email": "william.thomas219@gmail.com",
+    "phone": "398 727 3735",
+    "ssn": "475-42-2410",
+    "dob": "07/21/1982",
+    "address": "963 South Court",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

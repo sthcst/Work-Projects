@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Evans
+  email: ashley.evans4815@work.org
+  phone: 217-655-6317
+  ssn: 150 02 2310
+  dob: 06/24/1950
+  address: 2841 Sixth Way
+  city: Los Angeles
+  state: CA

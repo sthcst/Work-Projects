@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Peterson",
+    "email": "emily.peterson5127@business.net",
+    "phone": "733-311-8399",
+    "ssn": "468065025",
+    "dob": "09/13/1997",
+    "address": "9147 East St",
+    "city": "San Antonio",
+    "state": "CA"
+  }
+}

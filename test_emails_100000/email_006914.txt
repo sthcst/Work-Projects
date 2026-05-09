@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Jackson",
+    "email": "pamela.jackson897@example.com",
+    "phone": "331-235-5160",
+    "ssn": "175-63-7063",
+    "dob": "01-11-1955",
+    "address": "6162 Oak Rd",
+    "city": "Houston",
+    "state": "AZ"
+  }
+}

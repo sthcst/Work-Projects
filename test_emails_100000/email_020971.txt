@@ -1,0 +1,9 @@
+contact:
+  name: John Walker
+  email: john.walker5423@work.org
+  phone: 936 283 2501
+  ssn: 792 17 4975
+  dob: 07-21-1952
+  address: 9362 Birch Blvd
+  city: Washington
+  state: MA

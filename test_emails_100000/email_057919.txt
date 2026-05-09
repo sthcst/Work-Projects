@@ -1,0 +1,14 @@
+INVOICE 856428
+
+Bill To:
+Name: John Gonzalez
+Email: john.gonzalez7542@outlook.com
+Phone: (284) 461-2959
+SSN: 048857566
+
+Address: 3158 First Blvd
+Seattle, IL
+
+Date of Birth: 05/15/1953
+
+Amount Due: $2129

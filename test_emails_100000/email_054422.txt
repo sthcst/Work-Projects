@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Morris
+  email: daniel.morris8816@business.net
+  phone: 506 775 3850
+  ssn: 681-61-2997
+  dob: 04-22-1956
+  address: 3848 Fourth Blvd
+  city: Boston
+  state: GA

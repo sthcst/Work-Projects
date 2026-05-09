@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Reed",
+    "email": "christine.reed9074@work.org",
+    "phone": "890-543-5120",
+    "ssn": "087598839",
+    "dob": "1/23/1967",
+    "address": "4473 Spring Dr",
+    "city": "Los Angeles",
+    "state": "PA"
+  }
+}

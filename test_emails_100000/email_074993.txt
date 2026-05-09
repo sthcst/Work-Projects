@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Gonzalez",
+    "email": "david.gonzalez6673@yahoo.com",
+    "phone": "977 724 5640",
+    "ssn": "186723962",
+    "dob": "12/19/1986",
+    "address": "6592 Oak Rd",
+    "city": "San Antonio",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: William Morgan
+  email: william.morgan6654@outlook.com
+  phone: +1 997-543-5420
+  ssn: 725 33 6892
+  dob: 01/19/1986
+  address: 8187 Third Rd
+  city: Phoenix
+  state: NC

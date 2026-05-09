@@ -1,0 +1,9 @@
+contact:
+  name: Brenda White
+  email: brenda.white5041@mail.com
+  phone: 298 251 5206
+  ssn: 546 46 7600
+  dob: 9/13/1987
+  address: 6522 First St
+  city: San Antonio
+  state: AZ

@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Carter
+  email: deborah.carter6358@company.com
+  phone: 452-210-8170
+  ssn: 677793457
+  dob: 24/05/1996
+  address: 7043 Main St
+  city: New York
+  state: TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Thompson,kenneth.thompson7003@outlook.com,488 221 8074,224-15-9158,04/26/1952,"4083 Cedar Way",San Diego,MI

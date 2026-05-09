@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Dominguez
+  email: nicole.dominguez5079@business.net
+  phone: (325) 968-6083
+  ssn: 780417120
+  dob: 10/11/1989
+  address: 8003 Park Dr
+  city: Philadelphia
+  state: CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Murillo,angela.murillo2086@mail.com,+1 797-899-5184,361 59 4903,11/11/1987,"8713 Main St",Phoenix,CA

@@ -1,0 +1,14 @@
+INVOICE 428779
+
+Bill To:
+Name: Kevin Young
+Email: kevin.young3101@mail.com
+Phone: +1 881-287-6574
+SSN: 475802903
+
+Address: 6438 South Dr
+Washington, OH
+
+Date of Birth: 12/20/1966
+
+Amount Due: $8226

@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Smith
+  email: michelle.smith2080@yahoo.com
+  phone: 959-977-8959
+  ssn: 404 08 1057
+  dob: 01/07/1985
+  address: 4089 Summer Way
+  city: Austin
+  state: GA

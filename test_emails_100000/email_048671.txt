@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Clark
+  email: sarah.clark4833@example.com
+  phone: (777) 617-8381
+  ssn: 567741397
+  dob: 10/18/1993
+  address: 560 Fourth Ln
+  city: San Antonio
+  state: GA

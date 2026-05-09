@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Edwards",
+    "email": "william.edwards8227@outlook.com",
+    "phone": "(785) 374-7229",
+    "ssn": "799 39 9327",
+    "dob": "10/07/1999",
+    "address": "6732 Main Court",
+    "city": "Philadelphia",
+    "state": "DC"
+  }
+}

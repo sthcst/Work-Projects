@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Guerrero",
+    "email": "lauren.guerrero8318@gmail.com",
+    "phone": "738 429 1069",
+    "ssn": "636615372",
+    "dob": "07/25/1968",
+    "address": "3526 Main Ave",
+    "city": "San Jose",
+    "state": "MI"
+  }
+}

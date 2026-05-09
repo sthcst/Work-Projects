@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Sanchez",
+    "email": "anna.sanchez7262@yahoo.com",
+    "phone": "687-671-8944",
+    "ssn": "578741483",
+    "dob": "10-06-1993",
+    "address": "6298 Park Ln",
+    "city": "Denver",
+    "state": "OH"
+  }
+}

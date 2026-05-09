@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Reeves
+  email: lisa.reeves4302@mail.com
+  phone: (701) 684-8984
+  ssn: 072-78-4952
+  dob: 18/11/1954
+  address: 4932 Park St
+  city: Denver
+  state: CA

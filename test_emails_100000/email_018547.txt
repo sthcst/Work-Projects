@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Jimenez,rachel.jimenez4056@mail.com,(851) 680-2177,403-07-6194,24/02/1964,"9481 Cedar Court",Jacksonville,AZ

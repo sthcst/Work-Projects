@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa White",
+    "email": "lisa.white3523@business.net",
+    "phone": "(669) 268-2660",
+    "ssn": "309297577",
+    "dob": "05/10/1993",
+    "address": "5496 Fourth Rd",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

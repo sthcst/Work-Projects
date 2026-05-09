@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Miller,joseph.miller421@outlook.com,+1 526-599-1595,379-32-6535,06/23/1995,"909 Oak Way",Boston,NJ

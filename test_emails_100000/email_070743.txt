@@ -1,0 +1,14 @@
+INVOICE 555968
+
+Bill To:
+Name: Timothy Rodriguez
+Email: timothy.rodriguez6577@business.net
+Phone: 576-865-5090
+SSN: 493352832
+
+Address: 2525 Summer Way
+Denver, TX
+
+Date of Birth: 03-15-1991
+
+Amount Due: $3046

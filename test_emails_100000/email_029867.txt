@@ -1,0 +1,14 @@
+INVOICE 504666
+
+Bill To:
+Name: Kimberly Johnson
+Email: kimberly.johnson6765@outlook.com
+Phone: 379-426-1086
+SSN: 780-40-2327
+
+Address: 7850 West Ln
+Houston, CA
+
+Date of Birth: 05-02-1978
+
+Amount Due: $5323

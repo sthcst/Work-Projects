@@ -1,0 +1,9 @@
+contact:
+  name: Maria Garcia
+  email: maria.garcia5861@example.com
+  phone: 779 422 6149
+  ssn: 212-69-9789
+  dob: 07/09/1995
+  address: 3997 Main Blvd
+  city: Phoenix
+  state: NY

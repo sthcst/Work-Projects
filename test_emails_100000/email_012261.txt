@@ -1,0 +1,9 @@
+contact:
+  name: James Reyes
+  email: james.reyes7602@work.org
+  phone: 761 342 2934
+  ssn: 797 42 9545
+  dob: 9/17/1976
+  address: 9105 First Blvd
+  city: San Jose
+  state: TX

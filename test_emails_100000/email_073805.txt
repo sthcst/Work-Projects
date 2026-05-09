@@ -1,0 +1,14 @@
+INVOICE 274720
+
+Bill To:
+Name: Samantha Reeves
+Email: samantha.reeves9063@example.com
+Phone: 820-952-6465
+SSN: 182 32 5923
+
+Address: 6849 North Ave
+Jacksonville, NC
+
+Date of Birth: 11/21/1994
+
+Amount Due: $8383

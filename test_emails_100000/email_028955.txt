@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Thomas,christine.thomas954@gmail.com,779-808-8346,320 07 2254,02/08/1976,"8782 North Ln",Jacksonville,TX

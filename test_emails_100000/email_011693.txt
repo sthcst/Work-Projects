@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Miller",
+    "email": "andrew.miller4183@gmail.com",
+    "phone": "(831) 308-7962",
+    "ssn": "579-37-5554",
+    "dob": "1/1/2000",
+    "address": "3670 Spring Ln",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

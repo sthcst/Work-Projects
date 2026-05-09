@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Collins,brian.collins9389@example.com,+1 504-756-9172,042315159,15/05/1957,"7587 Elm Ln",Austin,CA

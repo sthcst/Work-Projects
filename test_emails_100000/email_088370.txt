@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Carter,daniel.carter2199@gmail.com,(865) 481-1775,624583913,05/19/1973,"5143 Main Way",Los Angeles,IL

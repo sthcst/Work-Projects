@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Sanchez,donald.sanchez3348@example.com,(650) 900-5272,412652918,01/19/1977,"1172 North St",Washington,FL

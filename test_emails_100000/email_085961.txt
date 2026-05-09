@@ -1,0 +1,9 @@
+contact:
+  name: Michael Peterson
+  email: michael.peterson3605@company.com
+  phone: (226) 513-9516
+  ssn: 719-97-9868
+  dob: 11/12/1987
+  address: 6533 Summer Blvd
+  city: Phoenix
+  state: AZ

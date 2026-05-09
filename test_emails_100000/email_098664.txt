@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Taylor
+  email: ashley.taylor5408@yahoo.com
+  phone: +1 757-369-6013
+  ssn: 124-32-9026
+  dob: 21/09/2000
+  address: 5839 Summer Court
+  city: Boston
+  state: PA

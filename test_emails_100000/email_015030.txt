@@ -1,0 +1,9 @@
+contact:
+  name: Megan Moore
+  email: megan.moore2390@company.com
+  phone: 241-229-5219
+  ssn: 490992320
+  dob: 10-27-1965
+  address: 2379 Summer Way
+  city: Denver
+  state: NY

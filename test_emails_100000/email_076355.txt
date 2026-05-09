@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Nelson",
+    "email": "william.nelson5454@business.net",
+    "phone": "(315) 761-9084",
+    "ssn": "548062451",
+    "dob": "03-06-2000",
+    "address": "1128 Maple Blvd",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

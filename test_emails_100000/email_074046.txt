@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Serrano
+  email: cynthia.serrano1671@mail.com
+  phone: 856-970-2333
+  ssn: 887 41 5328
+  dob: 10/14/1969
+  address: 4351 Second Ave
+  city: San Diego
+  state: PA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Jones,joshua.jones2433@outlook.com,973 897 1229,339 54 6644,1/17/1954,"3518 Spring Way",Boston,IL

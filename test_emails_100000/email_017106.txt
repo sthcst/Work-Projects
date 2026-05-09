@@ -1,0 +1,14 @@
+INVOICE 429297
+
+Bill To:
+Name: Kimberly Morris
+Email: kimberly.morris5351@example.com
+Phone: +1 650-997-3608
+SSN: 112-01-8641
+
+Address: 9586 First Dr
+Chicago, NC
+
+Date of Birth: 20/11/1989
+
+Amount Due: $6217

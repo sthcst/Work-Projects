@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Jackson
+  email: ryan.jackson6868@business.net
+  phone: 873-372-8755
+  ssn: 480-05-9079
+  dob: 12/03/1981
+  address: 3420 Park Blvd
+  city: Austin
+  state: AZ

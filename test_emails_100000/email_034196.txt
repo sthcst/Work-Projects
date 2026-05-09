@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Phillips",
+    "email": "cynthia.phillips7672@work.org",
+    "phone": "719 888 7668",
+    "ssn": "606746710",
+    "dob": "06/19/1976",
+    "address": "264 Second Dr",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

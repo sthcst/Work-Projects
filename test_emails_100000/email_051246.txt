@@ -1,0 +1,14 @@
+INVOICE 841518
+
+Bill To:
+Name: Brenda Hall
+Email: brenda.hall7181@example.com
+Phone: 786-908-9238
+SSN: 974748210
+
+Address: 9690 Spring Way
+Los Angeles, TX
+
+Date of Birth: 16/02/1988
+
+Amount Due: $1037

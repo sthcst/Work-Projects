@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Murillo,helen.murillo1045@company.com,+1 519-541-6627,285 78 6095,09/08/1969,"252 North Blvd",New York,IL

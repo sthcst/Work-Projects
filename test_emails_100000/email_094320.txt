@@ -1,0 +1,9 @@
+contact:
+  name: William Garcia
+  email: william.garcia9611@example.com
+  phone: 317-820-7726
+  ssn: 972 37 5360
+  dob: 03/11/1955
+  address: 8893 Second Way
+  city: Dallas
+  state: FL

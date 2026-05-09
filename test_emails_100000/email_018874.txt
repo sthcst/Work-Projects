@@ -1,0 +1,14 @@
+INVOICE 847593
+
+Bill To:
+Name: Christopher Clark
+Email: christopher.clark2268@gmail.com
+Phone: 905 454 4103
+SSN: 586114515
+
+Address: 4413 Fifth Blvd
+Boston, MA
+
+Date of Birth: 02/17/1964
+
+Amount Due: $7204

@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Collins
+  email: rachel.collins537@gmail.com
+  phone: 850-903-8517
+  ssn: 328-31-8681
+  dob: 19/07/1979
+  address: 4925 Birch Rd
+  city: San Jose
+  state: PA

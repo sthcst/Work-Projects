@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Stewart,lisa.stewart389@outlook.com,465-500-5987,540-57-9741,08/07/2002,"4865 South Dr",Austin,MA

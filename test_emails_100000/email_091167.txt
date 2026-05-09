@@ -1,0 +1,14 @@
+INVOICE 235399
+
+Bill To:
+Name: James Dominguez
+Email: james.dominguez1779@work.org
+Phone: (900) 399-9817
+SSN: 364-94-7649
+
+Address: 205 East Way
+San Antonio, MA
+
+Date of Birth: 07/20/2000
+
+Amount Due: $7445

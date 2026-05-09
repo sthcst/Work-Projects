@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Hall",
+    "email": "john.hall3655@outlook.com",
+    "phone": "508 483 1555",
+    "ssn": "189-73-2251",
+    "dob": "11-15-1985",
+    "address": "4035 South St",
+    "city": "Boston",
+    "state": "AZ"
+  }
+}

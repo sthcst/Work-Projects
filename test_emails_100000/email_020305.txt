@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Jones",
+    "email": "charles.jones6378@yahoo.com",
+    "phone": "715-570-2729",
+    "ssn": "152-30-4925",
+    "dob": "05-24-1995",
+    "address": "1752 Elm Court",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

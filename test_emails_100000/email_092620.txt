@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Roberts",
+    "email": "michelle.roberts8253@mail.com",
+    "phone": "907 894 9439",
+    "ssn": "898889935",
+    "dob": "06/13/1977",
+    "address": "1213 Spring Blvd",
+    "city": "San Antonio",
+    "state": "VA"
+  }
+}

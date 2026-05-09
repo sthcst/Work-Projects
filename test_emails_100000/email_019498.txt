@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Perez,emma.perez120@example.com,+1 581-475-9814,026789096,05/07/1999,"1784 Elm St",Austin,OH

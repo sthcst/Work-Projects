@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Reed",
+    "email": "christine.reed8264@yahoo.com",
+    "phone": "958 428 9052",
+    "ssn": "946 23 2813",
+    "dob": "11-02-1972",
+    "address": "7225 East Court",
+    "city": "San Antonio",
+    "state": "MD"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Martin",
+    "email": "emily.martin5206@gmail.com",
+    "phone": "(456) 491-8816",
+    "ssn": "510 41 2886",
+    "dob": "04/03/1968",
+    "address": "5761 Fifth St",
+    "city": "Washington",
+    "state": "MA"
+  }
+}

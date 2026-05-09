@@ -1,0 +1,12 @@
+SUPPORT TICKET #14441
+
+Customer: Emily Miller
+Email: emily.miller4138@example.com
+Phone: 317 530 1938
+Account: 933-85-6667
+
+Issue Description: Technical problem reported
+DOB on file: 06/24/1968
+Address: 4719 Cedar St, New York, AZ
+
+Status: OPEN

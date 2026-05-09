@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Reyes
+  email: katherine.reyes8213@yahoo.com
+  phone: 381-475-5439
+  ssn: 967739503
+  dob: 28/11/1982
+  address: 9009 Spring Blvd
+  city: San Antonio
+  state: TX

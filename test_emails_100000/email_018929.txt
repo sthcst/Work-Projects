@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Wilson
+  email: nicholas.wilson1812@gmail.com
+  phone: (745) 996-8087
+  ssn: 836 94 1479
+  dob: 04-22-1997
+  address: 4725 Park Ave
+  city: Denver
+  state: CO

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Smith",
+    "email": "christopher.smith3247@outlook.com",
+    "phone": "(646) 454-4124",
+    "ssn": "571995721",
+    "dob": "08/21/1981",
+    "address": "9497 Pine Dr",
+    "city": "San Antonio",
+    "state": "MI"
+  }
+}

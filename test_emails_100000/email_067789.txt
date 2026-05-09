@@ -1,0 +1,14 @@
+INVOICE 943655
+
+Bill To:
+Name: Emily Stewart
+Email: emily.stewart1602@yahoo.com
+Phone: 910-585-6665
+SSN: 858413960
+
+Address: 2351 Fourth St
+Boston, FL
+
+Date of Birth: 04/04/1970
+
+Amount Due: $2506

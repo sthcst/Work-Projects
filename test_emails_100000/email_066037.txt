@@ -1,0 +1,14 @@
+INVOICE 915717
+
+Bill To:
+Name: Charles Lopez
+Email: charles.lopez3608@example.com
+Phone: (731) 556-9640
+SSN: 442 32 7261
+
+Address: 7412 Fifth Ln
+San Antonio, CA
+
+Date of Birth: 08/26/1967
+
+Amount Due: $9982

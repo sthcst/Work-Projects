@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Davis
+  email: joseph.davis1423@gmail.com
+  phone: 807 465 1358
+  ssn: 867 98 3305
+  dob: 07/06/1984
+  address: 2671 Fourth Ave
+  city: Jacksonville
+  state: WI

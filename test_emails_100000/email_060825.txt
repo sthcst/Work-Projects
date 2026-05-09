@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Carter,donald.carter5542@mail.com,237-768-4274,890371016,06-11-1965,"4091 Second Dr",Phoenix,FL

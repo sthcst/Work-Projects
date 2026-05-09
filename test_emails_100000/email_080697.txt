@@ -1,0 +1,14 @@
+INVOICE 550406
+
+Bill To:
+Name: Joseph Sanchez
+Email: joseph.sanchez706@outlook.com
+Phone: 900-338-5573
+SSN: 186289648
+
+Address: 5337 North Ln
+San Jose, CA
+
+Date of Birth: 27/03/2000
+
+Amount Due: $519

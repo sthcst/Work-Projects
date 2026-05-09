@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Young,emma.young2712@outlook.com,617-329-9158,663-74-5030,11/6/1976,"5856 Main Ave",Houston,WA

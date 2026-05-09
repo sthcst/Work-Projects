@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Delgado
+  email: samantha.delgado5796@yahoo.com
+  phone: 655 605 4726
+  ssn: 815598214
+  dob: 04-10-1975
+  address: 4598 Sixth Ln
+  city: San Antonio
+  state: OH

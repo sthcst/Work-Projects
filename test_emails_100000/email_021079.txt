@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Peterson",
+    "email": "donald.peterson9105@work.org",
+    "phone": "534 577 9619",
+    "ssn": "843-71-1455",
+    "dob": "27/02/1975",
+    "address": "6300 Maple Court",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

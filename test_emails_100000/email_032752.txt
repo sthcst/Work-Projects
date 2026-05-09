@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Rodriguez,michael.rodriguez8551@mail.com,588 845 9152,845 76 8632,4/7/1993,"4084 Third Court",Jacksonville,TN

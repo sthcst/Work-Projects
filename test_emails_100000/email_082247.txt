@@ -1,0 +1,14 @@
+INVOICE 356077
+
+Bill To:
+Name: George Evans
+Email: george.evans1680@gmail.com
+Phone: (677) 366-2494
+SSN: 021559754
+
+Address: 9345 West Rd
+New York, AZ
+
+Date of Birth: 10/9/1984
+
+Amount Due: $1218

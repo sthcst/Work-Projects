@@ -1,0 +1,14 @@
+INVOICE 232918
+
+Bill To:
+Name: Angela Reeves
+Email: angela.reeves449@company.com
+Phone: 819-491-6538
+SSN: 834-95-9093
+
+Address: 9713 Summer Dr
+Chicago, PA
+
+Date of Birth: 03-27-1998
+
+Amount Due: $3521

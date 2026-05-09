@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Parker,donald.parker1618@mail.com,799 207 8521,811 11 9258,04-06-1970,"4576 Second Ln",Chicago,CA

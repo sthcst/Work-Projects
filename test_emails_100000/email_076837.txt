@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Thomas,timothy.thomas9077@mail.com,(324) 837-3620,002 69 3498,04/02/1966,"3942 Summer Ln",Houston,OH

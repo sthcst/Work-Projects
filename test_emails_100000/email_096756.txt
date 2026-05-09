@@ -1,0 +1,14 @@
+INVOICE 692695
+
+Bill To:
+Name: Charles Jones
+Email: charles.jones6080@outlook.com
+Phone: 471-343-9819
+SSN: 609 64 2299
+
+Address: 2232 Cedar Dr
+Chicago, AZ
+
+Date of Birth: 12/25/1983
+
+Amount Due: $3303

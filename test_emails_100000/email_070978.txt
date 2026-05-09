@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Jackson,maria.jackson7244@example.com,+1 579-566-7203,040-68-8232,10/07/1984,"4936 Elm Dr",San Diego,CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Harris,steven.harris6099@mail.com,633 841 3141,821-03-3899,07/15/1982,"882 Elm Way",Dallas,DC

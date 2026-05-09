@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Anderson
+  email: joseph.anderson3617@yahoo.com
+  phone: 758-684-7001
+  ssn: 991665657
+  dob: 06-02-1986
+  address: 5760 Spring Way
+  city: Austin
+  state: WA

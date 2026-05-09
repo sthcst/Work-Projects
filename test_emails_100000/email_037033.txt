@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony White,anthony.white5541@gmail.com,500 273 6647,618 08 9896,07-24-1973,"8181 Pine Ln",Seattle,WA

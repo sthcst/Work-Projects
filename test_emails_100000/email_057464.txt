@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Flores
+  email: katherine.flores8571@mail.com
+  phone: 945 726 7890
+  ssn: 081 99 6148
+  dob: 01/13/1981
+  address: 465 Main Rd
+  city: San Antonio
+  state: NC

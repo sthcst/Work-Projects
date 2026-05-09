@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Parker",
+    "email": "michelle.parker782@outlook.com",
+    "phone": "(664) 414-4929",
+    "ssn": "513579104",
+    "dob": "03/03/1973",
+    "address": "3957 Third St",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

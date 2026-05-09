@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Murillo",
+    "email": "kathleen.murillo5381@mail.com",
+    "phone": "+1 736-362-6999",
+    "ssn": "902076146",
+    "dob": "05/27/2000",
+    "address": "472 Spring Rd",
+    "city": "Seattle",
+    "state": "FL"
+  }
+}

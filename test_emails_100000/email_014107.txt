@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Phillips,cynthia.phillips518@company.com,481 385 8082,850558695,09/28/1981,"7747 West Blvd",Philadelphia,MA

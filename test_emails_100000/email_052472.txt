@@ -1,0 +1,14 @@
+INVOICE 226284
+
+Bill To:
+Name: Timothy Jones
+Email: timothy.jones960@mail.com
+Phone: +1 213-495-1768
+SSN: 120-82-9690
+
+Address: 2719 Fifth Way
+Seattle, TN
+
+Date of Birth: 2/1/1950
+
+Amount Due: $4162

@@ -1,0 +1,9 @@
+contact:
+  name: George Delgado
+  email: george.delgado7071@yahoo.com
+  phone: (990) 396-6154
+  ssn: 827 07 7058
+  dob: 08/06/1988
+  address: 5758 Fifth Dr
+  city: Denver
+  state: CO

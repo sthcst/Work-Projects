@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Ramirez,christopher.ramirez9428@example.com,659-255-8677,475-93-2983,05/28/1989,"3678 First Blvd",Phoenix,MA

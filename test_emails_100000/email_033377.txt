@@ -1,0 +1,14 @@
+INVOICE 562805
+
+Bill To:
+Name: Charles Parker
+Email: charles.parker1328@work.org
+Phone: 266-397-9239
+SSN: 044 73 9831
+
+Address: 5365 West Blvd
+Austin, MD
+
+Date of Birth: 10/20/1979
+
+Amount Due: $5865

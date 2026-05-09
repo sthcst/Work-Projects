@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Brown,lauren.brown2788@business.net,358 284 4094,220295026,10-20-1964,"6271 Summer Way",Dallas,CA

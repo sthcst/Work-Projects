@@ -1,0 +1,14 @@
+INVOICE 942687
+
+Bill To:
+Name: Michael Wilson
+Email: michael.wilson1821@example.com
+Phone: +1 490-608-1507
+SSN: 925-42-3052
+
+Address: 1674 Fifth Ln
+Houston, FL
+
+Date of Birth: 03/25/1986
+
+Amount Due: $1244

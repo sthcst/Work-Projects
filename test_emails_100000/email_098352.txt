@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Peterson,sarah.peterson2181@yahoo.com,(350) 541-5989,881028222,09/16/1958,"5135 Spring Ln",Chicago,IL

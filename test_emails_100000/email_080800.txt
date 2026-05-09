@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Phillips,george.phillips5617@yahoo.com,+1 922-255-4116,979 55 3062,12-16-1968,"1541 East St",Boston,CA

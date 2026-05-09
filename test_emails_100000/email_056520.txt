@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Gonzalez",
+    "email": "emma.gonzalez4824@yahoo.com",
+    "phone": "377 803 6277",
+    "ssn": "754 30 1152",
+    "dob": "12/11/1967",
+    "address": "9558 Fourth Ave",
+    "city": "Philadelphia",
+    "state": "CA"
+  }
+}

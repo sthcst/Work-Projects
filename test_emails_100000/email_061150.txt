@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Rogers,kimberly.rogers2312@mail.com,668-422-4977,342936930,09/05/1999,"5859 Fifth St",Denver,CA

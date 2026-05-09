@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Davis
+  email: brenda.davis6988@work.org
+  phone: (837) 502-7077
+  ssn: 140274446
+  dob: 03/17/1974
+  address: 7327 Pine Way
+  city: Jacksonville
+  state: CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Guerrero,rebecca.guerrero6298@company.com,+1 898-639-6868,211-36-2375,10/03/1954,"1176 North Ln",Chicago,CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Alvarado",
+    "email": "samantha.alvarado1750@yahoo.com",
+    "phone": "223 461 1646",
+    "ssn": "011907026",
+    "dob": "01/20/1951",
+    "address": "6252 Park Court",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

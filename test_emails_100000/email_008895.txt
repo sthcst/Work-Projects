@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Roberts",
+    "email": "jacob.roberts8982@yahoo.com",
+    "phone": "+1 733-830-4839",
+    "ssn": "053-22-5960",
+    "dob": "05/03/2003",
+    "address": "7948 Main Court",
+    "city": "Chicago",
+    "state": "FL"
+  }
+}

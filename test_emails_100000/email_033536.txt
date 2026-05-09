@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Johnson",
+    "email": "jacob.johnson3597@business.net",
+    "phone": "486-860-3130",
+    "ssn": "754124481",
+    "dob": "11/12/1978",
+    "address": "2167 Birch Blvd",
+    "city": "Chicago",
+    "state": "GA"
+  }
+}

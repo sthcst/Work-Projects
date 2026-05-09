@@ -1,0 +1,14 @@
+INVOICE 423103
+
+Bill To:
+Name: Jane Flores
+Email: jane.flores803@business.net
+Phone: 238-550-3118
+SSN: 121-43-6298
+
+Address: 1481 Cedar Ave
+Los Angeles, TX
+
+Date of Birth: 05-09-1993
+
+Amount Due: $8182

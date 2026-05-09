@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Walker",
+    "email": "katherine.walker3710@gmail.com",
+    "phone": "+1 721-832-4956",
+    "ssn": "639 62 9079",
+    "dob": "12/2/1969",
+    "address": "5742 Pine Blvd",
+    "city": "Philadelphia",
+    "state": "NC"
+  }
+}

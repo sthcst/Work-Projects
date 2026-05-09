@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Williams,katherine.williams3982@example.com,+1 340-959-5845,113571278,3/19/2003,"9643 Elm Way",Jacksonville,NC

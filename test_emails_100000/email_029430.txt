@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Williams",
+    "email": "anthony.williams2070@yahoo.com",
+    "phone": "964 703 4485",
+    "ssn": "333531047",
+    "dob": "01/11/1994",
+    "address": "4513 Summer Way",
+    "city": "Washington",
+    "state": "WA"
+  }
+}

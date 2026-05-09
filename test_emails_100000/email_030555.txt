@@ -1,0 +1,14 @@
+INVOICE 905851
+
+Bill To:
+Name: Kevin Romero
+Email: kevin.romero3570@work.org
+Phone: 948-716-4008
+SSN: 489 09 6403
+
+Address: 3584 First Blvd
+Chicago, MD
+
+Date of Birth: 05/17/1958
+
+Amount Due: $1210

@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Serrano
+  email: joseph.serrano7092@work.org
+  phone: 344-578-5176
+  ssn: 691 89 4356
+  dob: 2/7/1959
+  address: 511 Fourth Ave
+  city: Washington
+  state: CO

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Taylor",
+    "email": "mark.taylor5204@work.org",
+    "phone": "+1 510-753-6181",
+    "ssn": "004 53 3094",
+    "dob": "12/10/1951",
+    "address": "5666 Spring Ave",
+    "city": "San Antonio",
+    "state": "AZ"
+  }
+}

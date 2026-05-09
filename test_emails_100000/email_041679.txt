@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Lee",
+    "email": "gary.lee4508@mail.com",
+    "phone": "(875) 339-3710",
+    "ssn": "795 28 3787",
+    "dob": "06-28-1978",
+    "address": "5842 Second Way",
+    "city": "Chicago",
+    "state": "NJ"
+  }
+}

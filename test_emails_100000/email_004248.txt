@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Peterson,maria.peterson3051@business.net,420-370-3433,108-56-9640,09/01/1993,"6233 Cedar Ave",Washington,CA

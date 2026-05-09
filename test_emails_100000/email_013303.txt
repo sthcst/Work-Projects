@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Jackson,timothy.jackson2774@outlook.com,(259) 768-6396,453654613,10-11-1994,"4928 Elm Ln",Houston,CA

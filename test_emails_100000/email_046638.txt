@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Gonzalez",
+    "email": "maria.gonzalez9390@business.net",
+    "phone": "(547) 493-1485",
+    "ssn": "103 49 5211",
+    "dob": "23/07/1970",
+    "address": "1571 Fourth Dr",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

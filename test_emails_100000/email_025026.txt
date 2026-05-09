@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Gonzalez
+  email: lisa.gonzalez2699@company.com
+  phone: 445-492-9384
+  ssn: 227 85 8227
+  dob: 10/24/1980
+  address: 5928 Cedar Court
+  city: New York
+  state: FL

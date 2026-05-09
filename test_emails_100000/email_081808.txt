@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Williams,amanda.williams9166@work.org,(993) 331-8347,213-19-9729,11-03-2000,"1537 Fourth St",Jacksonville,TX

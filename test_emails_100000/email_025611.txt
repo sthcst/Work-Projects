@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Perez",
+    "email": "kimberly.perez3097@company.com",
+    "phone": "664 769 5035",
+    "ssn": "595 57 9447",
+    "dob": "4/27/1997",
+    "address": "8567 Birch Blvd",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

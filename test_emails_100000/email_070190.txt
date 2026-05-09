@@ -1,0 +1,14 @@
+INVOICE 912432
+
+Bill To:
+Name: Charles Peterson
+Email: charles.peterson575@outlook.com
+Phone: +1 307-753-9753
+SSN: 990 90 1142
+
+Address: 6006 West Way
+Chicago, WA
+
+Date of Birth: 7/6/1956
+
+Amount Due: $1393

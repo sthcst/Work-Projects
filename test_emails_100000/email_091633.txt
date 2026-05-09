@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Martin",
+    "email": "anthony.martin3143@gmail.com",
+    "phone": "447 381 8472",
+    "ssn": "751917334",
+    "dob": "02/12/1958",
+    "address": "7283 Elm St",
+    "city": "Jacksonville",
+    "state": "PA"
+  }
+}

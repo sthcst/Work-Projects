@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Perez",
+    "email": "rachel.perez2865@example.com",
+    "phone": "385-462-1673",
+    "ssn": "997-28-5330",
+    "dob": "1/10/1994",
+    "address": "7213 Spring Dr",
+    "city": "Seattle",
+    "state": "IL"
+  }
+}

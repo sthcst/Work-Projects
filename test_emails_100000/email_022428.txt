@@ -1,0 +1,14 @@
+INVOICE 358391
+
+Bill To:
+Name: Paul Ramirez
+Email: paul.ramirez2595@business.net
+Phone: 869-559-9836
+SSN: 662751151
+
+Address: 8668 Fourth St
+San Jose, MI
+
+Date of Birth: 3/7/1964
+
+Amount Due: $8297

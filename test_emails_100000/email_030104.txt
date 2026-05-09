@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Rogers",
+    "email": "samantha.rogers8959@work.org",
+    "phone": "+1 718-546-1705",
+    "ssn": "172 89 3963",
+    "dob": "06-26-1968",
+    "address": "5604 West Ln",
+    "city": "Philadelphia",
+    "state": "PA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle White,michelle.white3441@mail.com,722 619 7983,774583750,10/10/2005,"2378 First St",San Jose,TX

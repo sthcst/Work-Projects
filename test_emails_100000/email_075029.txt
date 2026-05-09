@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Bell",
+    "email": "rachel.bell8120@business.net",
+    "phone": "+1 860-515-5989",
+    "ssn": "936 25 3705",
+    "dob": "01-03-1971",
+    "address": "6069 Oak St",
+    "city": "Philadelphia",
+    "state": "NY"
+  }
+}

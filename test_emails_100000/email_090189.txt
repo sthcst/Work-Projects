@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Lewis",
+    "email": "andrew.lewis8294@outlook.com",
+    "phone": "+1 651-945-5082",
+    "ssn": "041 23 9999",
+    "dob": "02-08-1972",
+    "address": "5965 Pine Ln",
+    "city": "Jacksonville",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Ortiz,christine.ortiz4755@work.org,+1 580-572-7285,492021290,09/06/1989,"9474 Main Way",Jacksonville,TX

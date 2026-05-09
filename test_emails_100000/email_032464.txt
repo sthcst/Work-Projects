@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Murillo,emily.murillo6437@gmail.com,(658) 351-8260,893 11 4519,7/12/1957,"4616 Elm Blvd",San Antonio,NC

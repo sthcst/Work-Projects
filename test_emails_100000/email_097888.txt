@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Reeves",
+    "email": "rebecca.reeves8936@mail.com",
+    "phone": "(651) 343-9614",
+    "ssn": "150732921",
+    "dob": "9/19/1992",
+    "address": "6975 Fourth Ln",
+    "city": "Austin",
+    "state": "OH"
+  }
+}

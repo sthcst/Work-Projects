@@ -1,0 +1,14 @@
+INVOICE 827741
+
+Bill To:
+Name: David Williams
+Email: david.williams488@business.net
+Phone: 519-660-3160
+SSN: 196673040
+
+Address: 2724 Fifth St
+Seattle, NY
+
+Date of Birth: 4/11/1973
+
+Amount Due: $716

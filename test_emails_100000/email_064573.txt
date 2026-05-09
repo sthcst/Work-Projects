@@ -1,0 +1,9 @@
+contact:
+  name: Paul Flores
+  email: paul.flores6981@gmail.com
+  phone: 975-764-2455
+  ssn: 226-64-5478
+  dob: 22/04/1966
+  address: 3540 Spring Rd
+  city: Austin
+  state: NJ

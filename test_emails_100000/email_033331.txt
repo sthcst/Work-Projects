@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Williams
+  email: stephanie.williams1820@company.com
+  phone: 294 693 1763
+  ssn: 661 21 5417
+  dob: 11/08/1996
+  address: 1005 Summer St
+  city: Philadelphia
+  state: FL

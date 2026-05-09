@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Thomas,anna.thomas5617@mail.com,(407) 536-1120,799 46 7835,9/26/1979,"9074 Elm Court",Austin,TX

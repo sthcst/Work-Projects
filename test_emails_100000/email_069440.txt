@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Taylor
+  email: daniel.taylor5254@outlook.com
+  phone: 701 704 6543
+  ssn: 575-36-9059
+  dob: 5/27/1980
+  address: 9463 East Ln
+  city: Austin
+  state: WA

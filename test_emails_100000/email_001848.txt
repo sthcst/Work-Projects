@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Davis",
+    "email": "samantha.davis2699@outlook.com",
+    "phone": "(222) 815-5771",
+    "ssn": "302282149",
+    "dob": "3/3/2000",
+    "address": "4510 North Blvd",
+    "city": "Seattle",
+    "state": "OH"
+  }
+}

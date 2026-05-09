@@ -1,0 +1,9 @@
+contact:
+  name: Emily Romero
+  email: emily.romero3691@company.com
+  phone: 695-683-3082
+  ssn: 750192101
+  dob: 3/22/1979
+  address: 1685 Second Blvd
+  city: Los Angeles
+  state: PA

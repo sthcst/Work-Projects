@@ -1,0 +1,14 @@
+INVOICE 108248
+
+Bill To:
+Name: Helen White
+Email: helen.white2732@example.com
+Phone: (326) 294-4990
+SSN: 297847409
+
+Address: 7841 Birch Ln
+Seattle, CA
+
+Date of Birth: 09/07/2002
+
+Amount Due: $9317

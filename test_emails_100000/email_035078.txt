@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Ortiz,lisa.ortiz4814@example.com,+1 474-644-6256,519942143,03-15-1964,"2659 Third Blvd",Phoenix,PA

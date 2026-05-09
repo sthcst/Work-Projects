@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Martin",
+    "email": "emma.martin2156@mail.com",
+    "phone": "+1 690-615-8123",
+    "ssn": "192 40 2992",
+    "dob": "6/8/1991",
+    "address": "290 Spring Blvd",
+    "city": "Washington",
+    "state": "WA"
+  }
+}

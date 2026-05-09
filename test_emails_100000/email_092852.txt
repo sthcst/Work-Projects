@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Jimenez",
+    "email": "edward.jimenez8109@mail.com",
+    "phone": "(239) 776-1789",
+    "ssn": "401-97-8502",
+    "dob": "02-05-1987",
+    "address": "1190 Birch Dr",
+    "city": "Houston",
+    "state": "NC"
+  }
+}

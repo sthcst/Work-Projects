@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Anderson",
+    "email": "pamela.anderson4944@yahoo.com",
+    "phone": "+1 310-516-4496",
+    "ssn": "526 08 6773",
+    "dob": "11/20/1995",
+    "address": "8134 North Way",
+    "city": "Denver",
+    "state": "AZ"
+  }
+}

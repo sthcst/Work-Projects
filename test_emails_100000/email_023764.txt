@@ -1,0 +1,14 @@
+INVOICE 914208
+
+Bill To:
+Name: Gary Reeves
+Email: gary.reeves1493@example.com
+Phone: (978) 798-6925
+SSN: 103-16-7888
+
+Address: 5740 Park Ave
+Chicago, PA
+
+Date of Birth: 14/08/2005
+
+Amount Due: $6920

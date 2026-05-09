@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Moore",
+    "email": "anna.moore541@yahoo.com",
+    "phone": "454 830 2987",
+    "ssn": "232731166",
+    "dob": "10/11/1961",
+    "address": "9965 South Ln",
+    "city": "Boston",
+    "state": "CA"
+  }
+}

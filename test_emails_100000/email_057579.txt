@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Ramirez,ronald.ramirez6047@company.com,(710) 989-4593,912 77 1806,16/03/1983,"9680 South Dr",Austin,CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Carter",
+    "email": "steven.carter2622@work.org",
+    "phone": "+1 824-472-4030",
+    "ssn": "912787235",
+    "dob": "12/12/1984",
+    "address": "2924 Park Dr",
+    "city": "Los Angeles",
+    "state": "GA"
+  }
+}

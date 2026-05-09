@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Garcia",
+    "email": "timothy.garcia3800@company.com",
+    "phone": "815-652-5929",
+    "ssn": "320 89 3728",
+    "dob": "12/08/1962",
+    "address": "7770 Elm St",
+    "city": "New York",
+    "state": "NY"
+  }
+}

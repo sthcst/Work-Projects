@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Alvarado
+  email: joshua.alvarado7301@gmail.com
+  phone: (602) 472-9909
+  ssn: 456-43-6710
+  dob: 05-06-1958
+  address: 9223 Second St
+  city: Boston
+  state: MA

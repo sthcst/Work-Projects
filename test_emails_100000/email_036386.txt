@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Nunez,brenda.nunez6378@gmail.com,258 227 2380,526 68 8299,3/28/1964,"6080 Sixth Way",Boston,PA

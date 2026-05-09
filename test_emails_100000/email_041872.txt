@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Rogers,daniel.rogers1064@yahoo.com,415 760 3482,466211442,11-21-1953,"6553 West Blvd",San Diego,FL

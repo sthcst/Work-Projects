@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Carter,ashley.carter4451@example.com,(510) 272-1302,634962579,24/11/1972,"6186 Maple Ln",Chicago,DC

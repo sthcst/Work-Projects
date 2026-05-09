@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Edwards",
+    "email": "rebecca.edwards2521@gmail.com",
+    "phone": "576 989 2631",
+    "ssn": "875-29-8116",
+    "dob": "28/01/1985",
+    "address": "6741 Pine St",
+    "city": "New York",
+    "state": "IL"
+  }
+}

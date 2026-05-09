@@ -1,0 +1,9 @@
+contact:
+  name: Angela Peterson
+  email: angela.peterson6611@work.org
+  phone: 946-868-2357
+  ssn: 739-78-3509
+  dob: 04/27/1987
+  address: 1296 Third Rd
+  city: Los Angeles
+  state: VA

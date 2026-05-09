@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Thompson
+  email: deborah.thompson9202@example.com
+  phone: 656 709 4138
+  ssn: 571-23-2364
+  dob: 06/28/1977
+  address: 5112 Park Blvd
+  city: Washington
+  state: NC

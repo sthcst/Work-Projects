@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Romero",
+    "email": "kevin.romero1951@company.com",
+    "phone": "(661) 358-4422",
+    "ssn": "193-22-9476",
+    "dob": "08-05-1950",
+    "address": "9942 South St",
+    "city": "San Antonio",
+    "state": "IL"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Morgan",
+    "email": "ashley.morgan8987@outlook.com",
+    "phone": "+1 606-382-8700",
+    "ssn": "840 86 8062",
+    "dob": "3/19/1998",
+    "address": "8827 Summer Rd",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

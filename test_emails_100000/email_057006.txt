@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Romero",
+    "email": "jacob.romero5090@work.org",
+    "phone": "439 937 2873",
+    "ssn": "840-06-4341",
+    "dob": "12/20/1994",
+    "address": "4463 North Dr",
+    "city": "Los Angeles",
+    "state": "GA"
+  }
+}

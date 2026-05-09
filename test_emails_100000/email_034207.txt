@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Hall",
+    "email": "jason.hall2881@gmail.com",
+    "phone": "(396) 422-7547",
+    "ssn": "547-70-3601",
+    "dob": "3/3/1957",
+    "address": "3082 Fifth Rd",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 705398
+
+Bill To:
+Name: Cynthia Parker
+Email: cynthia.parker3318@mail.com
+Phone: 298 805 7548
+SSN: 580376048
+
+Address: 8727 Third Blvd
+Denver, OH
+
+Date of Birth: 28/01/1972
+
+Amount Due: $7232

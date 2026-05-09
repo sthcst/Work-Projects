@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Thomas,steven.thomas1025@mail.com,644-498-9680,275-85-4010,17/08/1984,"1446 North Way",Washington,CA

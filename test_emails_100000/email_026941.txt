@@ -1,0 +1,9 @@
+contact:
+  name: Emma Nelson
+  email: emma.nelson297@example.com
+  phone: (464) 924-3615
+  ssn: 588 33 1748
+  dob: 04/08/1953
+  address: 710 Fourth Ave
+  city: San Jose
+  state: CA

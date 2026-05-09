@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Bell,william.bell9338@gmail.com,707-746-1573,704-11-3195,11/09/1981,"8396 West Dr",Los Angeles,MO

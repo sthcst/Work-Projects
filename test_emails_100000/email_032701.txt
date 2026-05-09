@@ -1,0 +1,12 @@
+SUPPORT TICKET #73638
+
+Customer: James Lee
+Email: james.lee3493@example.com
+Phone: 444 662 5122
+Account: 158 93 2881
+
+Issue Description: Technical problem reported
+DOB on file: 03-23-1956
+Address: 9588 North Rd, Los Angeles, CA
+
+Status: OPEN

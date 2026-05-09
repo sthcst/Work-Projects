@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Stewart",
+    "email": "katherine.stewart613@company.com",
+    "phone": "(292) 787-2640",
+    "ssn": "867949007",
+    "dob": "09/08/1959",
+    "address": "205 Fourth Way",
+    "city": "Houston",
+    "state": "FL"
+  }
+}

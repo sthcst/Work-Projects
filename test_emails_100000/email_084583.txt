@@ -1,0 +1,9 @@
+contact:
+  name: William Jimenez
+  email: william.jimenez8679@outlook.com
+  phone: 844-517-1834
+  ssn: 172 70 6425
+  dob: 9/28/1993
+  address: 8264 Birch Blvd
+  city: Los Angeles
+  state: WA

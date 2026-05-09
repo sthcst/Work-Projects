@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Rodriguez,kathleen.rodriguez9418@outlook.com,982 409 2617,090467650,20/11/1970,"330 West Dr",San Antonio,WA

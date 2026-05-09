@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Hernandez",
+    "email": "steven.hernandez6561@example.com",
+    "phone": "959 822 8481",
+    "ssn": "664-79-7077",
+    "dob": "19/07/1980",
+    "address": "6340 Elm Dr",
+    "city": "San Diego",
+    "state": "MA"
+  }
+}

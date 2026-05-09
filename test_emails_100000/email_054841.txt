@@ -1,0 +1,9 @@
+contact:
+  name: Angela Peterson
+  email: angela.peterson2563@company.com
+  phone: 666 510 5653
+  ssn: 544414639
+  dob: 7/18/1984
+  address: 3755 Sixth Rd
+  city: San Diego
+  state: GA

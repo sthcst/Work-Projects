@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Alvarado,robert.alvarado8453@work.org,990 460 3708,931236623,11/28/1978,"531 Birch Court",Dallas,FL

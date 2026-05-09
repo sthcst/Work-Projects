@@ -1,0 +1,9 @@
+contact:
+  name: Steven Ramirez
+  email: steven.ramirez7486@yahoo.com
+  phone: +1 552-592-3680
+  ssn: 216 65 2305
+  dob: 11/10/1966
+  address: 7598 Second Rd
+  city: San Diego
+  state: DC

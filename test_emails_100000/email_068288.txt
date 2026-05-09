@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Gonzalez,samantha.gonzalez3044@example.com,397-684-9562,996 88 4868,12/04/1955,"7281 Fourth Ave",Boston,TX

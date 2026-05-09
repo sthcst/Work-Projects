@@ -1,0 +1,9 @@
+contact:
+  name: Richard Taylor
+  email: richard.taylor8787@mail.com
+  phone: 737-321-8180
+  ssn: 383763821
+  dob: 04/14/1977
+  address: 4273 Main Dr
+  city: Seattle
+  state: AZ

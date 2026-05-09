@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Rodriguez,edward.rodriguez5598@mail.com,278 813 7597,679-71-5560,01/19/1969,"7312 South St",Jacksonville,DC

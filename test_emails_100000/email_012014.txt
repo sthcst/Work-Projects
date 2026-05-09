@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Jackson",
+    "email": "john.jackson1861@company.com",
+    "phone": "(698) 746-7728",
+    "ssn": "442012476",
+    "dob": "07-06-1963",
+    "address": "3970 Second Dr",
+    "city": "San Antonio",
+    "state": "NC"
+  }
+}

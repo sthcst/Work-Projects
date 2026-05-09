@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Reyes,charles.reyes8647@example.com,460-674-9740,984-66-2973,08-16-1983,"8289 Pine Dr",Seattle,WA

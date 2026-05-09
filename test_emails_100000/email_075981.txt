@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Guerrero,steven.guerrero6406@gmail.com,674-363-4268,501734771,06-04-1954,"1578 East Ln",Dallas,NJ

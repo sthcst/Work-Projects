@@ -1,0 +1,9 @@
+contact:
+  name: Anna Davis
+  email: anna.davis2307@mail.com
+  phone: (499) 253-9931
+  ssn: 136 72 5336
+  dob: 02-23-1984
+  address: 1938 Sixth Way
+  city: New York
+  state: DC

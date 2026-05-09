@@ -1,0 +1,14 @@
+INVOICE 927275
+
+Bill To:
+Name: William Delgado
+Email: william.delgado6090@company.com
+Phone: (477) 535-5325
+SSN: 817467090
+
+Address: 6922 First Blvd
+Phoenix, GA
+
+Date of Birth: 12/08/1954
+
+Amount Due: $5475

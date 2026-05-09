@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Alvarado",
+    "email": "kathleen.alvarado2788@company.com",
+    "phone": "+1 355-429-1260",
+    "ssn": "365836199",
+    "dob": "5/20/1961",
+    "address": "7448 Fourth St",
+    "city": "Houston",
+    "state": "FL"
+  }
+}

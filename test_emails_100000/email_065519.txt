@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Rogers
+  email: nicholas.rogers3196@work.org
+  phone: (972) 589-8510
+  ssn: 271-84-9249
+  dob: 3/5/1956
+  address: 4350 North Ln
+  city: San Diego
+  state: CO

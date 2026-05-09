@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Lee",
+    "email": "angela.lee2197@business.net",
+    "phone": "+1 891-996-4941",
+    "ssn": "794214560",
+    "dob": "1/4/1985",
+    "address": "6971 East Blvd",
+    "city": "Phoenix",
+    "state": "WI"
+  }
+}

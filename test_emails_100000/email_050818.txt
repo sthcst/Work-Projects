@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph White,joseph.white5929@company.com,+1 672-509-3283,549-34-5529,09-17-2001,"4280 Fifth St",Phoenix,VA

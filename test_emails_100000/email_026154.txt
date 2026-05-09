@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Delgado,charles.delgado1908@work.org,601 879 4674,943414509,12/13/1969,"4323 Pine Dr",Seattle,AZ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Garcia",
+    "email": "samantha.garcia9664@mail.com",
+    "phone": "510-345-8027",
+    "ssn": "089 07 7620",
+    "dob": "05-14-1953",
+    "address": "8477 Second Court",
+    "city": "Philadelphia",
+    "state": "NC"
+  }
+}

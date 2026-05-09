@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Morgan
+  email: cynthia.morgan7775@outlook.com
+  phone: 413-332-6200
+  ssn: 191-08-2079
+  dob: 07/20/1959
+  address: 6114 First Rd
+  city: Los Angeles
+  state: TX

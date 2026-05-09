@@ -1,0 +1,14 @@
+INVOICE 223962
+
+Bill To:
+Name: Paul Parker
+Email: paul.parker8178@mail.com
+Phone: 355-335-5752
+SSN: 162 48 4459
+
+Address: 8596 First Dr
+Boston, MD
+
+Date of Birth: 9/25/1970
+
+Amount Due: $9644

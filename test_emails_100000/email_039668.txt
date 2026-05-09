@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Gomez,pamela.gomez8051@example.com,354-828-4174,669-55-7428,17/05/1972,"6937 Spring Rd",Denver,VA

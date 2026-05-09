@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Campbell",
+    "email": "emily.campbell8671@business.net",
+    "phone": "+1 549-517-7021",
+    "ssn": "067591115",
+    "dob": "01-22-1990",
+    "address": "4211 Cedar Ave",
+    "city": "Phoenix",
+    "state": "MI"
+  }
+}

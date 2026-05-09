@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Ortiz,kenneth.ortiz4257@example.com,(416) 988-8284,600866915,9/11/1956,"8623 Second Rd",Seattle,CO

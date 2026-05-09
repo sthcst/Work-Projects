@@ -1,0 +1,9 @@
+contact:
+  name: Maria Johnson
+  email: maria.johnson2460@mail.com
+  phone: +1 540-339-8001
+  ssn: 995-25-5092
+  dob: 02/22/1971
+  address: 7927 Summer Blvd
+  city: Chicago
+  state: GA

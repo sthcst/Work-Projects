@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Edwards
+  email: timothy.edwards776@company.com
+  phone: +1 665-969-2670
+  ssn: 795 89 3583
+  dob: 06/20/1993
+  address: 3419 Second Dr
+  city: Jacksonville
+  state: MO

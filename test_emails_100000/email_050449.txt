@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Wilson,anna.wilson2021@mail.com,838 614 3785,478 33 6603,01-16-1997,"1190 Main Rd",Austin,FL

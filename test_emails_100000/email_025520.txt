@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Clark,jessica.clark4889@mail.com,+1 417-245-7315,050-62-7273,10/1/1971,"9264 Maple Ave",Denver,TX

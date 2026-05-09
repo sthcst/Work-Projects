@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Hernandez",
+    "email": "edward.hernandez5789@outlook.com",
+    "phone": "287 852 1544",
+    "ssn": "811457308",
+    "dob": "10/9/1974",
+    "address": "5550 Spring Blvd",
+    "city": "San Diego",
+    "state": "DC"
+  }
+}

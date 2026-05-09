@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Smith",
+    "email": "jane.smith7656@yahoo.com",
+    "phone": "471 743 5802",
+    "ssn": "690516031",
+    "dob": "08/14/2000",
+    "address": "9179 Fifth Rd",
+    "city": "Chicago",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Collins,samantha.collins1125@mail.com,+1 587-635-9587,620637310,17/10/2003,"1152 Park Court",Phoenix,GA

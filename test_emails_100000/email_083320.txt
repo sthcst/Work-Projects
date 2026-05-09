@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Brown",
+    "email": "emily.brown6921@yahoo.com",
+    "phone": "(551) 517-7072",
+    "ssn": "482 72 2041",
+    "dob": "08/06/1991",
+    "address": "7917 Second Blvd",
+    "city": "Los Angeles",
+    "state": "MD"
+  }
+}

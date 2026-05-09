@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Williams",
+    "email": "michelle.williams3450@example.com",
+    "phone": "528 966 8293",
+    "ssn": "485-50-4070",
+    "dob": "06/08/1999",
+    "address": "8890 Elm Rd",
+    "city": "Seattle",
+    "state": "MA"
+  }
+}

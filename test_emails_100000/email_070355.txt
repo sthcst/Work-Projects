@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Reyes,kenneth.reyes4567@outlook.com,703 345 2258,550 81 2422,12/18/1979,"6734 First Dr",Philadelphia,TX

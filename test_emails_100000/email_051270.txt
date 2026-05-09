@@ -1,0 +1,14 @@
+INVOICE 650837
+
+Bill To:
+Name: Timothy Hernandez
+Email: timothy.hernandez7388@mail.com
+Phone: 903 583 3794
+SSN: 552 61 2373
+
+Address: 3427 Elm Rd
+Boston, VA
+
+Date of Birth: 03/20/1996
+
+Amount Due: $2229

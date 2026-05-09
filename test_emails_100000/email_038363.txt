@@ -1,0 +1,9 @@
+contact:
+  name: Megan Reed
+  email: megan.reed862@mail.com
+  phone: 672-483-7794
+  ssn: 891-82-5718
+  dob: 27/05/2000
+  address: 8420 East St
+  city: Los Angeles
+  state: VA

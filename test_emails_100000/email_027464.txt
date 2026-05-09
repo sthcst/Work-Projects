@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Reyes
+  email: timothy.reyes9339@outlook.com
+  phone: +1 548-404-5181
+  ssn: 927 26 7529
+  dob: 06/02/1986
+  address: 2794 Park Court
+  city: Phoenix
+  state: PA

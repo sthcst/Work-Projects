@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Morgan",
+    "email": "cynthia.morgan4936@gmail.com",
+    "phone": "710 226 2870",
+    "ssn": "258-14-6940",
+    "dob": "8/7/1998",
+    "address": "2884 East St",
+    "city": "Philadelphia",
+    "state": "MD"
+  }
+}

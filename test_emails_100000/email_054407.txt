@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Ortiz",
+    "email": "helen.ortiz4457@company.com",
+    "phone": "+1 891-932-6556",
+    "ssn": "276 98 7184",
+    "dob": "7/18/1990",
+    "address": "6452 Birch Blvd",
+    "city": "Jacksonville",
+    "state": "MA"
+  }
+}

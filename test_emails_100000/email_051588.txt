@@ -1,0 +1,14 @@
+INVOICE 623894
+
+Bill To:
+Name: Timothy Harris
+Email: timothy.harris6609@company.com
+Phone: 847-314-6846
+SSN: 944-95-5685
+
+Address: 501 Elm St
+Jacksonville, GA
+
+Date of Birth: 3/5/1984
+
+Amount Due: $7241

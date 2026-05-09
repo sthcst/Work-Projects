@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Nelson",
+    "email": "emma.nelson1449@company.com",
+    "phone": "788 394 2946",
+    "ssn": "818-69-1365",
+    "dob": "8/9/1956",
+    "address": "8994 South Ln",
+    "city": "Philadelphia",
+    "state": "AZ"
+  }
+}

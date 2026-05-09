@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Brown,jacob.brown4669@outlook.com,594 751 4109,528891711,7/4/1956,"1192 Spring Blvd",Phoenix,NC

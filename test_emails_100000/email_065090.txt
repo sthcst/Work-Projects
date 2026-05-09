@@ -1,0 +1,9 @@
+contact:
+  name: Richard Walker
+  email: richard.walker1835@yahoo.com
+  phone: 711 788 1880
+  ssn: 177 84 9282
+  dob: 15/06/1954
+  address: 4589 Oak Court
+  city: Austin
+  state: TX

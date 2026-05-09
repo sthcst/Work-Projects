@@ -1,0 +1,9 @@
+contact:
+  name: Emma Young
+  email: emma.young5197@example.com
+  phone: 850 888 1065
+  ssn: 154597328
+  dob: 12-06-1990
+  address: 3221 Third Blvd
+  city: Philadelphia
+  state: IL

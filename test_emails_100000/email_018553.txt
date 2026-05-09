@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Garcia
+  email: ronald.garcia8037@yahoo.com
+  phone: 981 316 6532
+  ssn: 918502233
+  dob: 07-20-1969
+  address: 1681 East Court
+  city: Dallas
+  state: MA

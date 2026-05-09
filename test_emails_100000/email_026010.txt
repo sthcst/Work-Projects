@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Lee,helen.lee1429@business.net,984-874-7736,072 02 5317,10/2/1978,"4550 Second Court",Philadelphia,IL

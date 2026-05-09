@@ -1,0 +1,14 @@
+INVOICE 562540
+
+Bill To:
+Name: James Cooper
+Email: james.cooper4913@example.com
+Phone: 979-374-5181
+SSN: 309246243
+
+Address: 8427 Birch Blvd
+San Diego, GA
+
+Date of Birth: 9/27/1952
+
+Amount Due: $4366

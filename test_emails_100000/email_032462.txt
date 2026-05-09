@@ -1,0 +1,14 @@
+INVOICE 315215
+
+Bill To:
+Name: Amanda White
+Email: amanda.white1089@company.com
+Phone: 691 405 1841
+SSN: 066 73 9725
+
+Address: 651 Oak Ave
+Denver, MO
+
+Date of Birth: 08/14/1997
+
+Amount Due: $3370

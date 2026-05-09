@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Nelson
+  email: katherine.nelson586@mail.com
+  phone: 374 573 3379
+  ssn: 846497905
+  dob: 01-28-1951
+  address: 5473 West Ln
+  city: San Diego
+  state: MO

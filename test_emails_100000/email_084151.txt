@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Murillo",
+    "email": "lauren.murillo2018@gmail.com",
+    "phone": "428-700-3866",
+    "ssn": "798 12 4621",
+    "dob": "05/14/1961",
+    "address": "1560 Main Way",
+    "city": "Jacksonville",
+    "state": "DC"
+  }
+}

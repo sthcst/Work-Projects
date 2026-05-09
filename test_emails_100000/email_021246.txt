@@ -1,0 +1,14 @@
+INVOICE 235870
+
+Bill To:
+Name: Joseph Hernandez
+Email: joseph.hernandez3868@business.net
+Phone: +1 434-658-8154
+SSN: 404-03-4709
+
+Address: 631 Third Ln
+Dallas, AZ
+
+Date of Birth: 23/02/1991
+
+Amount Due: $1108

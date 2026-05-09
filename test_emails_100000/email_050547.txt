@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Parker
+  email: rachel.parker7786@work.org
+  phone: (252) 479-5236
+  ssn: 729-97-5124
+  dob: 4/16/1964
+  address: 9539 Fifth Way
+  city: Houston
+  state: NY

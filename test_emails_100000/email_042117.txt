@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Bell",
+    "email": "deborah.bell6011@business.net",
+    "phone": "(346) 786-3651",
+    "ssn": "151-55-5027",
+    "dob": "12/1/1989",
+    "address": "5820 Park Way",
+    "city": "San Jose",
+    "state": "WA"
+  }
+}

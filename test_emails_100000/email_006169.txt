@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Brown",
+    "email": "amanda.brown3619@work.org",
+    "phone": "936-787-3579",
+    "ssn": "830-40-5353",
+    "dob": "07/26/1965",
+    "address": "1408 First St",
+    "city": "Boston",
+    "state": "NJ"
+  }
+}

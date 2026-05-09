@@ -1,0 +1,14 @@
+INVOICE 673755
+
+Bill To:
+Name: Jeffrey Jones
+Email: jeffrey.jones3734@yahoo.com
+Phone: 491 568 4244
+SSN: 137208080
+
+Address: 4329 Summer Blvd
+San Jose, NJ
+
+Date of Birth: 07-01-1978
+
+Amount Due: $7748

@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Collins
+  email: jacob.collins1217@example.com
+  phone: 948 653 3023
+  ssn: 819 80 3203
+  dob: 11/01/1956
+  address: 9858 Birch Way
+  city: San Jose
+  state: NC

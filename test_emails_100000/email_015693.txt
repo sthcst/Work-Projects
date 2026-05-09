@@ -1,0 +1,12 @@
+SUPPORT TICKET #15535
+
+Customer: Charles Evans
+Email: charles.evans9942@example.com
+Phone: +1 750-420-6567
+Account: 226 90 8500
+
+Issue Description: Technical problem reported
+DOB on file: 10/01/2004
+Address: 770 Spring Dr, Denver, VA
+
+Status: OPEN

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Davis",
+    "email": "jennifer.davis6011@business.net",
+    "phone": "(886) 690-4673",
+    "ssn": "537-22-9226",
+    "dob": "17/02/1999",
+    "address": "6206 South Rd",
+    "city": "San Antonio",
+    "state": "MD"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Phillips",
+    "email": "joseph.phillips6804@yahoo.com",
+    "phone": "837-777-1167",
+    "ssn": "366-37-1973",
+    "dob": "09/01/1960",
+    "address": "903 North St",
+    "city": "New York",
+    "state": "WI"
+  }
+}

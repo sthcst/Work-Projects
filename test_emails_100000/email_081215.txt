@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Roberts",
+    "email": "rebecca.roberts4505@mail.com",
+    "phone": "+1 890-372-2668",
+    "ssn": "551053092",
+    "dob": "05/24/1986",
+    "address": "5717 Sixth Ln",
+    "city": "San Antonio",
+    "state": "WA"
+  }
+}

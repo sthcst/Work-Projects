@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Carter,amanda.carter8860@outlook.com,392-578-3264,983-42-2631,8/8/1981,"6779 South Court",Austin,VA

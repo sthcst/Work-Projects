@@ -1,0 +1,9 @@
+contact:
+  name: Steven Campbell
+  email: steven.campbell6802@mail.com
+  phone: (454) 971-3400
+  ssn: 523194178
+  dob: 1/25/1993
+  address: 633 Third Rd
+  city: Austin
+  state: MO

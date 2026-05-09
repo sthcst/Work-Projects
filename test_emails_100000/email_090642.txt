@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Phillips,ashley.phillips7546@business.net,603 442 1499,934-48-4463,25/07/1962,"3824 Oak Dr",Boston,DC

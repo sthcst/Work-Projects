@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Hernandez",
+    "email": "ronald.hernandez4619@work.org",
+    "phone": "666 629 8549",
+    "ssn": "974-76-5471",
+    "dob": "02-26-1978",
+    "address": "6294 Pine Rd",
+    "city": "San Diego",
+    "state": "GA"
+  }
+}

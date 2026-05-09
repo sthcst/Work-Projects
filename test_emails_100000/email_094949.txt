@@ -1,0 +1,14 @@
+INVOICE 625908
+
+Bill To:
+Name: Christopher Smith
+Email: christopher.smith5793@business.net
+Phone: 637-790-2965
+SSN: 055-18-7699
+
+Address: 6331 Park Court
+Seattle, FL
+
+Date of Birth: 06/13/1977
+
+Amount Due: $5261

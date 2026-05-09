@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Guerrero",
+    "email": "edward.guerrero2845@yahoo.com",
+    "phone": "(680) 325-6180",
+    "ssn": "532 46 5345",
+    "dob": "8/25/1965",
+    "address": "3944 Pine Dr",
+    "city": "Chicago",
+    "state": "CO"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Bell
+  email: cynthia.bell478@gmail.com
+  phone: 823-812-1449
+  ssn: 765-89-6588
+  dob: 12/12/1957
+  address: 6370 East Ave
+  city: Dallas
+  state: NJ

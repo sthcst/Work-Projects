@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Carter,jeffrey.carter7839@yahoo.com,251 870 8539,099-30-4866,05-19-2003,"8437 Elm Rd",Washington,OH

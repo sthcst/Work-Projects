@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Lopez",
+    "email": "jacob.lopez2192@example.com",
+    "phone": "+1 903-643-6361",
+    "ssn": "526061833",
+    "dob": "22/06/2000",
+    "address": "9582 South Ave",
+    "city": "Austin",
+    "state": "TN"
+  }
+}

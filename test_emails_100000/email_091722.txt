@@ -1,0 +1,9 @@
+contact:
+  name: Megan Nelson
+  email: megan.nelson2350@yahoo.com
+  phone: 219 268 8877
+  ssn: 003-68-1783
+  dob: 03-15-1967
+  address: 7019 Spring Way
+  city: Philadelphia
+  state: MA

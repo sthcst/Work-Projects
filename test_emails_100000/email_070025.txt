@@ -1,0 +1,9 @@
+contact:
+  name: Anna Delgado
+  email: anna.delgado2579@yahoo.com
+  phone: 632 887 7489
+  ssn: 168 69 1617
+  dob: 05/19/1986
+  address: 3680 West Blvd
+  city: New York
+  state: CA

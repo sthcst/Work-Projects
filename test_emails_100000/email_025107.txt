@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Miller,william.miller1676@yahoo.com,371 287 8114,964128931,23/09/1972,"2152 Pine Blvd",Phoenix,AZ

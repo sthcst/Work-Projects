@@ -1,0 +1,14 @@
+INVOICE 764239
+
+Bill To:
+Name: Ronald Gomez
+Email: ronald.gomez6602@example.com
+Phone: 610 861 1385
+SSN: 874-40-5542
+
+Address: 1237 First Dr
+Seattle, TN
+
+Date of Birth: 03-23-2000
+
+Amount Due: $5340

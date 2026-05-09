@@ -1,0 +1,9 @@
+contact:
+  name: Emily Davis
+  email: emily.davis9319@outlook.com
+  phone: 622-374-3387
+  ssn: 420316441
+  dob: 4/21/1961
+  address: 1800 Third Way
+  city: San Antonio
+  state: PA

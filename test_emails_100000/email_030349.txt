@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Delgado",
+    "email": "mark.delgado2920@example.com",
+    "phone": "+1 673-382-4316",
+    "ssn": "250 88 1401",
+    "dob": "03/19/1970",
+    "address": "1678 Main St",
+    "city": "San Jose",
+    "state": "AZ"
+  }
+}

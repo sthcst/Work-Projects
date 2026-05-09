@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Cooper,amanda.cooper5561@example.com,633-415-6803,480-10-5433,11/4/1960,"5471 East Dr",Washington,MD

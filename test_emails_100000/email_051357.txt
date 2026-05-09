@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Cooper,kenneth.cooper7042@gmail.com,241-360-4539,597-90-4854,08-11-1992,"6830 Fourth Blvd",New York,NC

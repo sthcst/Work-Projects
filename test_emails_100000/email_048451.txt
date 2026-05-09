@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Morgan",
+    "email": "anna.morgan3894@gmail.com",
+    "phone": "723-511-6096",
+    "ssn": "300766902",
+    "dob": "02-28-1981",
+    "address": "2765 Birch Dr",
+    "city": "Phoenix",
+    "state": "WI"
+  }
+}

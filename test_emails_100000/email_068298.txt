@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Anderson",
+    "email": "helen.anderson787@gmail.com",
+    "phone": "(749) 266-3467",
+    "ssn": "680 68 9266",
+    "dob": "10/4/2005",
+    "address": "2669 North Ln",
+    "city": "Austin",
+    "state": "MO"
+  }
+}

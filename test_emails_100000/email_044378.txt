@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Lewis
+  email: katherine.lewis428@mail.com
+  phone: +1 520-558-3824
+  ssn: 046 94 3450
+  dob: 03/27/1980
+  address: 4360 Maple Way
+  city: Houston
+  state: TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Reeves",
+    "email": "charles.reeves2141@gmail.com",
+    "phone": "(433) 426-4934",
+    "ssn": "497-82-5433",
+    "dob": "03-17-1984",
+    "address": "3127 Maple Rd",
+    "city": "San Jose",
+    "state": "AZ"
+  }
+}

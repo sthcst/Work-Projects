@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Ortiz
+  email: samantha.ortiz1238@company.com
+  phone: +1 997-250-6145
+  ssn: 193316474
+  dob: 09-13-1961
+  address: 1477 Second Way
+  city: Washington
+  state: TN

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Nelson",
+    "email": "mark.nelson1850@example.com",
+    "phone": "(852) 958-7460",
+    "ssn": "166459686",
+    "dob": "22/05/1960",
+    "address": "5201 Summer St",
+    "city": "Boston",
+    "state": "AZ"
+  }
+}

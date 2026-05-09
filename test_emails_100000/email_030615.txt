@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Collins
+  email: jennifer.collins3182@work.org
+  phone: 991 559 2167
+  ssn: 902-64-5930
+  dob: 08-28-1950
+  address: 7699 Second Dr
+  city: Austin
+  state: IL

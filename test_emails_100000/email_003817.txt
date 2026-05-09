@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Smith
+  email: brenda.smith2417@mail.com
+  phone: 913 344 9374
+  ssn: 021 06 3080
+  dob: 07/03/1968
+  address: 2408 Maple Blvd
+  city: New York
+  state: TX

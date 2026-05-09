@@ -1,0 +1,9 @@
+contact:
+  name: Angela Phillips
+  email: angela.phillips1559@business.net
+  phone: 464 965 8500
+  ssn: 358618190
+  dob: 06-28-1980
+  address: 4847 Fifth Rd
+  city: San Diego
+  state: WA

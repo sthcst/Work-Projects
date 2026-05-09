@@ -1,0 +1,9 @@
+contact:
+  name: Robert Reeves
+  email: robert.reeves6390@company.com
+  phone: (579) 796-3277
+  ssn: 942-51-7652
+  dob: 12/8/1955
+  address: 8136 Second Dr
+  city: Austin
+  state: CA

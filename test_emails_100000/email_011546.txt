@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Sanchez,kevin.sanchez328@business.net,+1 623-212-7058,519712136,8/26/1965,"9575 Pine Ln",Boston,NC

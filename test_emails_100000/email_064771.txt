@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Hall
+  email: cynthia.hall8153@outlook.com
+  phone: 227-247-1213
+  ssn: 158689817
+  dob: 10/10/1972
+  address: 3007 South Ln
+  city: San Diego
+  state: NJ

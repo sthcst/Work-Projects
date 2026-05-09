@@ -1,0 +1,9 @@
+contact:
+  name: Megan Rodriguez
+  email: megan.rodriguez5683@mail.com
+  phone: 735 955 5620
+  ssn: 359-15-4604
+  dob: 07/09/1984
+  address: 7146 Main Dr
+  city: Phoenix
+  state: DC

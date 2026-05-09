@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Taylor",
+    "email": "angela.taylor1768@work.org",
+    "phone": "931 507 1829",
+    "ssn": "522 89 8000",
+    "dob": "15/11/1986",
+    "address": "6550 Cedar Dr",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

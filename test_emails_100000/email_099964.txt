@@ -1,0 +1,14 @@
+INVOICE 744535
+
+Bill To:
+Name: Paul Rogers
+Email: paul.rogers5567@example.com
+Phone: 925-968-8179
+SSN: 657638043
+
+Address: 5814 Cedar Blvd
+Boston, DC
+
+Date of Birth: 07/09/1991
+
+Amount Due: $8937

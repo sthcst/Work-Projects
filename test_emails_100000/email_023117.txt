@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Lewis",
+    "email": "lauren.lewis793@yahoo.com",
+    "phone": "638 462 5357",
+    "ssn": "078691740",
+    "dob": "02/07/1959",
+    "address": "7444 Birch Blvd",
+    "city": "Washington",
+    "state": "NJ"
+  }
+}

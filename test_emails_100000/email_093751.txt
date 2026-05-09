@@ -1,0 +1,9 @@
+contact:
+  name: Christine Lee
+  email: christine.lee9592@outlook.com
+  phone: (466) 400-8679
+  ssn: 071 65 3418
+  dob: 07-21-1994
+  address: 9677 West Court
+  city: Denver
+  state: MA

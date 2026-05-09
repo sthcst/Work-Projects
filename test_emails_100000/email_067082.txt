@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Garcia",
+    "email": "rachel.garcia417@business.net",
+    "phone": "+1 294-817-9320",
+    "ssn": "310571629",
+    "dob": "9/13/1992",
+    "address": "3494 Pine St",
+    "city": "Houston",
+    "state": "DC"
+  }
+}

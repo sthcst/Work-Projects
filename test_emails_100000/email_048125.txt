@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Smith",
+    "email": "brian.smith2808@mail.com",
+    "phone": "(217) 496-5433",
+    "ssn": "589 44 1853",
+    "dob": "08/17/1967",
+    "address": "8450 East Dr",
+    "city": "Phoenix",
+    "state": "OH"
+  }
+}

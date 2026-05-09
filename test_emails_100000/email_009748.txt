@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Williams,michael.williams8819@gmail.com,381 261 1876,244754406,09/19/1991,"9025 Elm Ln",New York,MD

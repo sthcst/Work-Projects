@@ -1,0 +1,9 @@
+contact:
+  name: Christine Walker
+  email: christine.walker8666@mail.com
+  phone: 432 533 1599
+  ssn: 926146010
+  dob: 12/27/1997
+  address: 207 East Court
+  city: Boston
+  state: MO

@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Parker
+  email: joseph.parker5196@mail.com
+  phone: 286 404 6526
+  ssn: 487 47 9438
+  dob: 12/07/1997
+  address: 4421 Third St
+  city: Jacksonville
+  state: MI

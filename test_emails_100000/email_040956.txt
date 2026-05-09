@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Walker",
+    "email": "gary.walker2189@yahoo.com",
+    "phone": "735 451 4664",
+    "ssn": "540-98-4521",
+    "dob": "11/05/2003",
+    "address": "7320 Main Court",
+    "city": "Houston",
+    "state": "PA"
+  }
+}

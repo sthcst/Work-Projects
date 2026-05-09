@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Hall,christopher.hall6385@outlook.com,753 953 4389,758 26 4844,01/04/1983,"2489 Birch Ave",Dallas,NC

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Carter",
+    "email": "joshua.carter489@mail.com",
+    "phone": "+1 483-980-8694",
+    "ssn": "206042088",
+    "dob": "28/05/1990",
+    "address": "744 Fourth Way",
+    "city": "San Antonio",
+    "state": "GA"
+  }
+}

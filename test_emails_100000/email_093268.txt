@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Young",
+    "email": "amanda.young1024@gmail.com",
+    "phone": "307 575 5908",
+    "ssn": "952 61 8133",
+    "dob": "08-23-1981",
+    "address": "132 Cedar Rd",
+    "city": "Austin",
+    "state": "NJ"
+  }
+}

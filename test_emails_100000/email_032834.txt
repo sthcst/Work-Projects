@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Jimenez,katherine.jimenez6847@example.com,+1 642-380-3684,127615893,02-11-1962,"4213 Fourth St",Denver,NJ

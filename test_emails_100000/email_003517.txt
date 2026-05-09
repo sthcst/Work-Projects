@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Hernandez,mark.hernandez1842@gmail.com,(907) 842-8435,891944135,6/5/1979,"6722 Second Dr",Houston,TX

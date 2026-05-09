@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Stewart",
+    "email": "kimberly.stewart9120@business.net",
+    "phone": "+1 799-254-5337",
+    "ssn": "307 91 6524",
+    "dob": "7/19/1998",
+    "address": "3240 Summer St",
+    "city": "Jacksonville",
+    "state": "OH"
+  }
+}

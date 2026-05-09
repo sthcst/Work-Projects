@@ -1,0 +1,12 @@
+SUPPORT TICKET #88450
+
+Customer: Rebecca Peterson
+Email: rebecca.peterson1343@example.com
+Phone: +1 429-925-5227
+Account: 134926088
+
+Issue Description: Technical problem reported
+DOB on file: 3/23/1975
+Address: 2534 Maple Ln, Chicago, AZ
+
+Status: OPEN

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Jones",
+    "email": "george.jones331@company.com",
+    "phone": "213 455 3993",
+    "ssn": "303-46-1711",
+    "dob": "01/04/1986",
+    "address": "6986 Second Blvd",
+    "city": "New York",
+    "state": "CO"
+  }
+}

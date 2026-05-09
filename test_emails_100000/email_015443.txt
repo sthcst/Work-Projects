@@ -1,0 +1,14 @@
+INVOICE 445462
+
+Bill To:
+Name: Edward Delgado
+Email: edward.delgado5150@outlook.com
+Phone: +1 307-603-3896
+SSN: 931-03-3277
+
+Address: 8042 Second Court
+Chicago, CA
+
+Date of Birth: 09/11/1967
+
+Amount Due: $865

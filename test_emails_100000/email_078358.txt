@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Hall",
+    "email": "donald.hall439@mail.com",
+    "phone": "394-607-2393",
+    "ssn": "022-19-6839",
+    "dob": "07-18-1962",
+    "address": "1783 Fifth Court",
+    "city": "New York",
+    "state": "CO"
+  }
+}

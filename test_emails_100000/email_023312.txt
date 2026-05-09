@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Smith",
+    "email": "brenda.smith9944@business.net",
+    "phone": "863 483 3607",
+    "ssn": "703-30-3266",
+    "dob": "07/16/1981",
+    "address": "3099 North Ave",
+    "city": "Austin",
+    "state": "OH"
+  }
+}

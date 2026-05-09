@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Garcia
+  email: anthony.garcia699@gmail.com
+  phone: (519) 997-3753
+  ssn: 855 40 1164
+  dob: 27/10/1951
+  address: 3404 Summer Ln
+  city: Philadelphia
+  state: MA

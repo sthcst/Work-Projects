@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Edwards",
+    "email": "amanda.edwards5428@business.net",
+    "phone": "+1 629-828-2630",
+    "ssn": "285 63 5495",
+    "dob": "6/4/1973",
+    "address": "6744 Birch Blvd",
+    "city": "Phoenix",
+    "state": "WA"
+  }
+}

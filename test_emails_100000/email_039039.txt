@@ -1,0 +1,9 @@
+contact:
+  name: Jane Harris
+  email: jane.harris7872@company.com
+  phone: (908) 297-5704
+  ssn: 792 11 4132
+  dob: 06/04/1952
+  address: 6248 Spring Court
+  city: Washington
+  state: PA

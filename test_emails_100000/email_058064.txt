@@ -1,0 +1,9 @@
+contact:
+  name: Gary Thompson
+  email: gary.thompson9841@work.org
+  phone: (316) 799-4900
+  ssn: 405 68 7294
+  dob: 08-10-1966
+  address: 7331 Elm Ln
+  city: Los Angeles
+  state: WI

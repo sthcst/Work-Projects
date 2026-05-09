@@ -1,0 +1,9 @@
+contact:
+  name: Jane Anderson
+  email: jane.anderson7076@company.com
+  phone: (977) 819-5178
+  ssn: 966 62 8587
+  dob: 05-14-1986
+  address: 7361 First Blvd
+  city: Chicago
+  state: NC

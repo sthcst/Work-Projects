@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Gomez,katherine.gomez9806@company.com,(418) 994-5690,905763250,4/19/1978,"527 Fifth Rd",San Antonio,NJ

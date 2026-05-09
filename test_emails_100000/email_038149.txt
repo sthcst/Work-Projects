@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Reyes,joseph.reyes2073@work.org,606 988 5428,354-90-8795,07/06/1969,"7856 Second St",Austin,CA

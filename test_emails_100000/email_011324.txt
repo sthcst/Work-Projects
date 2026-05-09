@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Perez
+  email: anthony.perez6600@mail.com
+  phone: 785 581 6022
+  ssn: 009 38 3678
+  dob: 1/8/1953
+  address: 7166 Park Way
+  city: Seattle
+  state: MD

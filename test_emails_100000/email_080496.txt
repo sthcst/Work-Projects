@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Dominguez",
+    "email": "kimberly.dominguez3946@work.org",
+    "phone": "+1 888-246-4510",
+    "ssn": "679-36-4189",
+    "dob": "08-26-1976",
+    "address": "4014 West Rd",
+    "city": "New York",
+    "state": "NC"
+  }
+}

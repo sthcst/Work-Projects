@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Jones
+  email: pamela.jones2125@yahoo.com
+  phone: 442 700 2157
+  ssn: 627-54-9660
+  dob: 07/08/1995
+  address: 8924 Park Ave
+  city: Chicago
+  state: CA

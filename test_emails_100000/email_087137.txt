@@ -1,0 +1,9 @@
+contact:
+  name: Donald Smith
+  email: donald.smith7410@gmail.com
+  phone: 605 819 3721
+  ssn: 443-54-2676
+  dob: 11-10-1994
+  address: 3305 Third Rd
+  city: Jacksonville
+  state: OH

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Moore",
+    "email": "jacob.moore1475@outlook.com",
+    "phone": "(857) 470-7626",
+    "ssn": "432-10-1082",
+    "dob": "01-18-1964",
+    "address": "9101 Elm Court",
+    "city": "San Jose",
+    "state": "MO"
+  }
+}

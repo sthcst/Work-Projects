@@ -1,0 +1,9 @@
+contact:
+  name: Angela Collins
+  email: angela.collins8579@business.net
+  phone: (366) 304-8782
+  ssn: 806 37 9723
+  dob: 12/21/1975
+  address: 7609 Elm Ln
+  city: Los Angeles
+  state: MA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Romero",
+    "email": "brenda.romero3962@gmail.com",
+    "phone": "(231) 561-2985",
+    "ssn": "297 22 5367",
+    "dob": "08/21/1999",
+    "address": "4050 Spring Ln",
+    "city": "Houston",
+    "state": "CA"
+  }
+}

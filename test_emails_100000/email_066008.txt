@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Wilson,rachel.wilson3916@example.com,636 492 7983,809 72 8623,06-25-1960,"9697 Fourth Ln",Phoenix,AZ

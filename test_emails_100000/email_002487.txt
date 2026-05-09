@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Davis",
+    "email": "timothy.davis4201@business.net",
+    "phone": "452 227 1443",
+    "ssn": "450 21 6006",
+    "dob": "07/13/1994",
+    "address": "5858 Birch Ave",
+    "city": "San Antonio",
+    "state": "OH"
+  }
+}

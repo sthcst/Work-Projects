@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Thomas,ryan.thomas2036@gmail.com,+1 969-544-5779,508-35-1600,07/07/1994,"4800 North Ave",San Jose,AZ

@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Walker
+  email: brenda.walker830@example.com
+  phone: 513 465 1501
+  ssn: 436 65 5353
+  dob: 12/07/1998
+  address: 3566 Main Blvd
+  city: Washington
+  state: GA

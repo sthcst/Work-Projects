@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Reyes
+  email: jeffrey.reyes9944@yahoo.com
+  phone: 324-768-8148
+  ssn: 008 59 5448
+  dob: 02-28-1975
+  address: 7963 Oak Blvd
+  city: Denver
+  state: CA

@@ -1,0 +1,9 @@
+contact:
+  name: Brian Johnson
+  email: brian.johnson4046@business.net
+  phone: (657) 590-1324
+  ssn: 620-32-9210
+  dob: 04-10-1987
+  address: 2088 Oak Blvd
+  city: Seattle
+  state: TX

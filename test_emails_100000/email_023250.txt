@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Sanchez,katherine.sanchez3597@business.net,560 553 6512,650314117,7/4/1954,"7317 North St",San Jose,CA

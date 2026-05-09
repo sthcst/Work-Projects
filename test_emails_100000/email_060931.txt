@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Ortiz",
+    "email": "ryan.ortiz4251@example.com",
+    "phone": "285-987-3320",
+    "ssn": "308-94-6913",
+    "dob": "5/6/1990",
+    "address": "5173 Fifth Blvd",
+    "city": "San Jose",
+    "state": "WI"
+  }
+}

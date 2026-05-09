@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Harris",
+    "email": "steven.harris8052@company.com",
+    "phone": "223-629-1589",
+    "ssn": "398-42-6785",
+    "dob": "08-11-1951",
+    "address": "8440 Maple Ln",
+    "city": "Phoenix",
+    "state": "NJ"
+  }
+}

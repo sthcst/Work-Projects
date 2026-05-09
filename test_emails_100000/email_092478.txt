@@ -1,0 +1,14 @@
+INVOICE 479493
+
+Bill To:
+Name: Matthew Perez
+Email: matthew.perez725@example.com
+Phone: 758 222 4577
+SSN: 535 17 9956
+
+Address: 203 Cedar Way
+New York, NY
+
+Date of Birth: 02/17/1952
+
+Amount Due: $931

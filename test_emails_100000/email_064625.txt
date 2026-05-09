@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Young,rachel.young1463@gmail.com,+1 838-695-5571,222341943,03/17/1952,"7088 Third Rd",Phoenix,WA

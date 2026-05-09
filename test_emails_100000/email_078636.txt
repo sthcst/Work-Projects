@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Lewis,george.lewis5448@mail.com,215 740 5288,464-74-5885,8/11/2003,"2666 South Blvd",Washington,TX

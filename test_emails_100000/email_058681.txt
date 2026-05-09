@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Garcia,edward.garcia9062@example.com,(415) 874-8370,350 41 2041,01/03/1973,"796 Elm Ave",Boston,FL

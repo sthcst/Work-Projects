@@ -1,0 +1,9 @@
+contact:
+  name: Angela Jackson
+  email: angela.jackson9775@company.com
+  phone: +1 806-595-3484
+  ssn: 401 38 5908
+  dob: 06-13-1951
+  address: 5051 Summer Court
+  city: San Antonio
+  state: TX

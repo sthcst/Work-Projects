@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Martin",
+    "email": "daniel.martin5369@yahoo.com",
+    "phone": "729 392 2406",
+    "ssn": "447243445",
+    "dob": "02-23-1958",
+    "address": "283 Park Ave",
+    "city": "Dallas",
+    "state": "NJ"
+  }
+}

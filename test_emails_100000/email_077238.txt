@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Smith
+  email: katherine.smith5519@yahoo.com
+  phone: 410-416-4562
+  ssn: 318-10-6149
+  dob: 11/10/1975
+  address: 8799 South Court
+  city: San Jose
+  state: NC

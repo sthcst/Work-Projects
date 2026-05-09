@@ -1,0 +1,14 @@
+INVOICE 126187
+
+Bill To:
+Name: Paul Campbell
+Email: paul.campbell1246@work.org
+Phone: 524 688 2520
+SSN: 690-23-3706
+
+Address: 3534 Elm Ln
+Austin, CO
+
+Date of Birth: 11/23/1963
+
+Amount Due: $4787

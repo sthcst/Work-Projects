@@ -1,0 +1,9 @@
+contact:
+  name: George Edwards
+  email: george.edwards9704@outlook.com
+  phone: +1 956-334-2543
+  ssn: 497239183
+  dob: 8/13/1981
+  address: 7392 Fourth Ln
+  city: Los Angeles
+  state: MI

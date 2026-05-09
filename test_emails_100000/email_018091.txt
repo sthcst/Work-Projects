@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Delgado
+  email: katherine.delgado6354@mail.com
+  phone: +1 439-726-6713
+  ssn: 783823772
+  dob: 07/19/1972
+  address: 1715 Birch St
+  city: Denver
+  state: TX

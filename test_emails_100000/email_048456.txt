@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Rodriguez,anthony.rodriguez9419@work.org,(969) 725-3718,747842137,11/12/1957,"4988 Sixth Ave",Seattle,FL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Serrano",
+    "email": "david.serrano2424@business.net",
+    "phone": "+1 441-445-3934",
+    "ssn": "931899497",
+    "dob": "9/6/1961",
+    "address": "6058 South Rd",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

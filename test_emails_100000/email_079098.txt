@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Gonzalez,jennifer.gonzalez8904@example.com,+1 691-241-9944,196-77-7680,10/27/1976,"3348 Summer Rd",San Jose,IL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Edwards",
+    "email": "mark.edwards4070@outlook.com",
+    "phone": "(265) 437-1830",
+    "ssn": "810-45-3404",
+    "dob": "19/04/2005",
+    "address": "7169 East Court",
+    "city": "Dallas",
+    "state": "NJ"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Emily Young
+  email: emily.young4461@outlook.com
+  phone: (410) 486-6184
+  ssn: 273998017
+  dob: 05/05/1952
+  address: 3281 Oak Ave
+  city: New York
+  state: CA

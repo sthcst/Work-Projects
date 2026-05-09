@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Young,christine.young9177@outlook.com,782-966-4627,032911340,09/13/1960,"9696 Spring Rd",Denver,AZ

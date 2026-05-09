@@ -1,0 +1,14 @@
+INVOICE 533202
+
+Bill To:
+Name: Cynthia White
+Email: cynthia.white5223@company.com
+Phone: 797-663-8235
+SSN: 370316578
+
+Address: 724 East St
+Dallas, TX
+
+Date of Birth: 19/07/1987
+
+Amount Due: $8370

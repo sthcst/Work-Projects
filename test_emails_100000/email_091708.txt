@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Martin",
+    "email": "megan.martin654@mail.com",
+    "phone": "+1 368-378-9871",
+    "ssn": "328437660",
+    "dob": "05/12/1955",
+    "address": "7443 Third Way",
+    "city": "Phoenix",
+    "state": "WI"
+  }
+}

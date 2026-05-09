@@ -1,0 +1,9 @@
+contact:
+  name: Gary Robinson
+  email: gary.robinson767@business.net
+  phone: +1 808-975-2446
+  ssn: 832-93-6254
+  dob: 06/04/1962
+  address: 1716 Sixth Rd
+  city: Houston
+  state: NC

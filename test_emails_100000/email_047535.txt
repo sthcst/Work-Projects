@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Martinez,lisa.martinez337@mail.com,536-971-9825,749-21-8200,18/12/2000,"4729 Second Ave",Houston,TN

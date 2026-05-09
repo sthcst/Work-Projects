@@ -1,0 +1,14 @@
+INVOICE 308648
+
+Bill To:
+Name: Timothy Romero
+Email: timothy.romero6064@company.com
+Phone: 489-406-8237
+SSN: 191-49-5055
+
+Address: 5261 Park Ave
+San Diego, TX
+
+Date of Birth: 12/11/1982
+
+Amount Due: $9338

@@ -1,0 +1,14 @@
+INVOICE 920377
+
+Bill To:
+Name: Katherine Johnson
+Email: katherine.johnson9908@example.com
+Phone: (744) 690-3996
+SSN: 159-07-2252
+
+Address: 5649 West Blvd
+Boston, DC
+
+Date of Birth: 03/26/1991
+
+Amount Due: $3939

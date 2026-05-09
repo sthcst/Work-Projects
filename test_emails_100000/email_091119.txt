@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Brown,christine.brown8792@gmail.com,+1 314-707-9470,990-38-3599,01/04/1972,"20 Third Dr",Seattle,CA

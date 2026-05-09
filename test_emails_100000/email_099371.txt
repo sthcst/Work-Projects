@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Perez",
+    "email": "william.perez595@gmail.com",
+    "phone": "734 547 9728",
+    "ssn": "671 07 9946",
+    "dob": "10-21-1969",
+    "address": "6778 First Way",
+    "city": "Phoenix",
+    "state": "DC"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Anderson",
+    "email": "william.anderson3743@outlook.com",
+    "phone": "+1 293-621-8993",
+    "ssn": "734699996",
+    "dob": "05/28/1972",
+    "address": "6607 Spring Court",
+    "city": "Dallas",
+    "state": "NY"
+  }
+}

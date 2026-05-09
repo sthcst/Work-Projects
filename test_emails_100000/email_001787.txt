@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Nelson",
+    "email": "katherine.nelson6885@yahoo.com",
+    "phone": "(353) 819-9376",
+    "ssn": "225039406",
+    "dob": "08-18-1983",
+    "address": "7695 First Rd",
+    "city": "Dallas",
+    "state": "AZ"
+  }
+}

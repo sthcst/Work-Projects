@@ -1,0 +1,9 @@
+contact:
+  name: David Hall
+  email: david.hall2462@outlook.com
+  phone: (580) 522-5242
+  ssn: 319-08-5124
+  dob: 1/28/1979
+  address: 5359 Sixth Ln
+  city: Denver
+  state: GA

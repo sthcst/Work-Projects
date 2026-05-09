@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Davis,michelle.davis3437@work.org,(867) 639-9496,849-09-1281,09/23/1974,"582 East Blvd",New York,MA

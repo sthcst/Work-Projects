@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Dominguez,timothy.dominguez7960@gmail.com,810 447 4600,921 97 2624,22/05/1991,"1890 Third Dr",Dallas,TX

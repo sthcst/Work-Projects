@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Rodriguez",
+    "email": "deborah.rodriguez4567@company.com",
+    "phone": "938-347-7938",
+    "ssn": "380-56-3320",
+    "dob": "04/04/1956",
+    "address": "5530 Fifth Way",
+    "city": "Dallas",
+    "state": "MO"
+  }
+}

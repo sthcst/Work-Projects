@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Jones
+  email: sarah.jones6631@company.com
+  phone: 494-668-6490
+  ssn: 677056562
+  dob: 6/17/1990
+  address: 7223 Park St
+  city: Houston
+  state: FL

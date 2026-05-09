@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Serrano
+  email: nicole.serrano873@outlook.com
+  phone: +1 702-571-9454
+  ssn: 226-94-1312
+  dob: 7/18/2000
+  address: 5446 Summer Blvd
+  city: Denver
+  state: NJ

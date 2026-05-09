@@ -1,0 +1,14 @@
+INVOICE 166371
+
+Bill To:
+Name: John Brown
+Email: john.brown3512@gmail.com
+Phone: 273 659 5547
+SSN: 604-87-9004
+
+Address: 8492 Fourth Dr
+San Antonio, NY
+
+Date of Birth: 22/07/2003
+
+Amount Due: $1177

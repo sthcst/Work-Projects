@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Jimenez",
+    "email": "lauren.jimenez7343@yahoo.com",
+    "phone": "705-282-2881",
+    "ssn": "212 06 1107",
+    "dob": "11-10-1965",
+    "address": "3358 East Ln",
+    "city": "New York",
+    "state": "OH"
+  }
+}

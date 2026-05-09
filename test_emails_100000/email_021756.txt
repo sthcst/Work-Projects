@@ -1,0 +1,9 @@
+contact:
+  name: William Wilson
+  email: william.wilson2401@business.net
+  phone: (658) 392-8880
+  ssn: 988313798
+  dob: 01/05/1971
+  address: 8514 Elm Way
+  city: San Jose
+  state: IL

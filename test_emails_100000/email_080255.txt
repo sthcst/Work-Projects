@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Walker
+  email: lauren.walker7914@example.com
+  phone: +1 329-247-3205
+  ssn: 339 65 2775
+  dob: 01/05/2000
+  address: 9669 Elm Court
+  city: New York
+  state: NY

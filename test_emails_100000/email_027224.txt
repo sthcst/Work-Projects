@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Dominguez",
+    "email": "katherine.dominguez8125@gmail.com",
+    "phone": "989-628-5366",
+    "ssn": "078-74-4403",
+    "dob": "08/07/1975",
+    "address": "4514 Cedar Ave",
+    "city": "New York",
+    "state": "PA"
+  }
+}

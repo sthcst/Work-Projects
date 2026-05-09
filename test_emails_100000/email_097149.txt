@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Collins,angela.collins7664@outlook.com,+1 459-886-3867,361187277,23/09/1961,"2994 Maple Ave",Denver,MD

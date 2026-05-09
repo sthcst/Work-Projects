@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Morgan,michael.morgan9331@yahoo.com,(473) 459-2587,673444429,8/20/1971,"715 South Rd",Seattle,MA

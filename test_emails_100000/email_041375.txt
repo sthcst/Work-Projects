@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Anderson",
+    "email": "angela.anderson7264@mail.com",
+    "phone": "744-375-2545",
+    "ssn": "843-69-5622",
+    "dob": "05/06/1996",
+    "address": "6396 Fourth Ln",
+    "city": "Phoenix",
+    "state": "FL"
+  }
+}

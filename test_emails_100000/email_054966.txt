@@ -1,0 +1,14 @@
+INVOICE 701841
+
+Bill To:
+Name: William Lee
+Email: william.lee101@gmail.com
+Phone: (303) 667-5749
+SSN: 293-40-2345
+
+Address: 3733 East Ln
+New York, MI
+
+Date of Birth: 07/26/1975
+
+Amount Due: $2443

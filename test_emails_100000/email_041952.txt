@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Rodriguez,pamela.rodriguez695@business.net,+1 323-978-9702,902-87-7730,06/15/1990,"4356 South Ave",Chicago,TX

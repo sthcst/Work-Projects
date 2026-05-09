@@ -1,0 +1,14 @@
+INVOICE 768589
+
+Bill To:
+Name: Joseph Jimenez
+Email: joseph.jimenez870@yahoo.com
+Phone: 955-582-2635
+SSN: 193-51-9926
+
+Address: 7585 Spring Rd
+Houston, TX
+
+Date of Birth: 10/13/1979
+
+Amount Due: $6620

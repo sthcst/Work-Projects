@@ -1,0 +1,14 @@
+INVOICE 976994
+
+Bill To:
+Name: Kimberly Martinez
+Email: kimberly.martinez8390@example.com
+Phone: 713-809-3789
+SSN: 888-83-7301
+
+Address: 8532 Main St
+Jacksonville, WA
+
+Date of Birth: 01-08-1983
+
+Amount Due: $6002

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Robinson,stephanie.robinson2668@mail.com,238-841-5526,778563771,11/09/1954,"2844 Fourth Ln",Dallas,TN

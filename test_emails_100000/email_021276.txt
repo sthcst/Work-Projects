@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Ramirez",
+    "email": "paul.ramirez3638@outlook.com",
+    "phone": "+1 487-865-5177",
+    "ssn": "058-15-2834",
+    "dob": "07/04/1967",
+    "address": "3574 Third Blvd",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

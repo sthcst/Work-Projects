@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Phillips,lisa.phillips2385@gmail.com,(529) 790-2846,575889095,10-01-1965,"1990 Pine Ave",New York,MO

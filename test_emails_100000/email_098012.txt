@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Morris",
+    "email": "john.morris4826@gmail.com",
+    "phone": "350-243-7663",
+    "ssn": "855454153",
+    "dob": "01/24/1990",
+    "address": "974 West Blvd",
+    "city": "Jacksonville",
+    "state": "PA"
+  }
+}

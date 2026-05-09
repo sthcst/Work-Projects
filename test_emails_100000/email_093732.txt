@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Collins",
+    "email": "emma.collins1431@business.net",
+    "phone": "247 495 5625",
+    "ssn": "420 04 3156",
+    "dob": "01/19/1966",
+    "address": "7284 Pine Ln",
+    "city": "Phoenix",
+    "state": "CO"
+  }
+}

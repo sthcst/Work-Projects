@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Serrano",
+    "email": "ryan.serrano1726@mail.com",
+    "phone": "829 624 4063",
+    "ssn": "017-42-5215",
+    "dob": "10/7/1963",
+    "address": "9217 West Court",
+    "city": "Houston",
+    "state": "MA"
+  }
+}

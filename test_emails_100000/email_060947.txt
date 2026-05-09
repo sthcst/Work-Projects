@@ -1,0 +1,14 @@
+INVOICE 247873
+
+Bill To:
+Name: Brian Romero
+Email: brian.romero7376@example.com
+Phone: (746) 282-5683
+SSN: 179 46 4871
+
+Address: 3859 Maple Dr
+Dallas, CO
+
+Date of Birth: 26/01/1977
+
+Amount Due: $1964

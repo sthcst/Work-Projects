@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Gonzalez,rebecca.gonzalez6361@business.net,(741) 298-6885,126 28 5441,03-22-1959,"274 Elm Ln",Jacksonville,CA

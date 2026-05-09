@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Evans
+  email: nicholas.evans4050@mail.com
+  phone: 303-651-6458
+  ssn: 677-30-4299
+  dob: 08/11/2002
+  address: 365 West Court
+  city: Chicago
+  state: TX

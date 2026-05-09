@@ -1,0 +1,9 @@
+contact:
+  name: David Ramirez
+  email: david.ramirez3357@mail.com
+  phone: +1 354-788-1151
+  ssn: 456529355
+  dob: 6/4/1968
+  address: 9509 West Rd
+  city: Chicago
+  state: TX

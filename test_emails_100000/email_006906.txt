@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Edwards",
+    "email": "nicholas.edwards4553@example.com",
+    "phone": "+1 202-541-1331",
+    "ssn": "818624898",
+    "dob": "19/04/1987",
+    "address": "3532 First Dr",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

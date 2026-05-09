@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Thomas",
+    "email": "anna.thomas5795@outlook.com",
+    "phone": "523-343-9365",
+    "ssn": "097933023",
+    "dob": "13/11/2002",
+    "address": "7191 Pine Court",
+    "city": "Washington",
+    "state": "MI"
+  }
+}

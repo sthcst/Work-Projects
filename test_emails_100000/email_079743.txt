@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Murillo",
+    "email": "ryan.murillo1421@yahoo.com",
+    "phone": "983 259 4612",
+    "ssn": "082 41 9607",
+    "dob": "07/04/1997",
+    "address": "2470 Park Way",
+    "city": "San Jose",
+    "state": "MO"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Serrano
+  email: samantha.serrano179@mail.com
+  phone: 466-434-4508
+  ssn: 002943008
+  dob: 10/10/1997
+  address: 1210 Park Way
+  city: Chicago
+  state: MI

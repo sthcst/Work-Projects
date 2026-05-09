@@ -1,0 +1,14 @@
+INVOICE 999322
+
+Bill To:
+Name: Katherine Alvarado
+Email: katherine.alvarado9482@mail.com
+Phone: 820-715-8028
+SSN: 625-77-4720
+
+Address: 5343 East Court
+San Jose, MI
+
+Date of Birth: 04/15/1987
+
+Amount Due: $9785

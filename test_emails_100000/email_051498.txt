@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Stewart
+  email: amanda.stewart7585@mail.com
+  phone: 551-590-9026
+  ssn: 502-65-4516
+  dob: 16/09/1975
+  address: 2610 Spring Court
+  city: Jacksonville
+  state: TX

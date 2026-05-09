@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Walker",
+    "email": "brenda.walker3374@yahoo.com",
+    "phone": "(718) 575-1577",
+    "ssn": "129-16-4773",
+    "dob": "10/10/1980",
+    "address": "522 Cedar Way",
+    "city": "Phoenix",
+    "state": "NC"
+  }
+}

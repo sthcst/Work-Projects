@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Reyes,kenneth.reyes2123@outlook.com,517 850 5869,715885605,11-16-1956,"1548 Birch Way",Denver,OH

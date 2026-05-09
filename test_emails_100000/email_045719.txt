@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Flores",
+    "email": "joshua.flores6782@gmail.com",
+    "phone": "(420) 463-8714",
+    "ssn": "851-22-8127",
+    "dob": "5/4/1956",
+    "address": "2122 Cedar Way",
+    "city": "Seattle",
+    "state": "VA"
+  }
+}

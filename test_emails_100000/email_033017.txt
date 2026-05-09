@@ -1,0 +1,14 @@
+INVOICE 427921
+
+Bill To:
+Name: Jennifer Gomez
+Email: jennifer.gomez9997@example.com
+Phone: +1 981-640-9209
+SSN: 890 24 5786
+
+Address: 8856 Pine Rd
+Seattle, MA
+
+Date of Birth: 09/11/1954
+
+Amount Due: $1001

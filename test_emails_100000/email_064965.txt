@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Carter",
+    "email": "joseph.carter6662@business.net",
+    "phone": "+1 566-594-2174",
+    "ssn": "388471312",
+    "dob": "09-02-1954",
+    "address": "7838 Third Dr",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Taylor",
+    "email": "mark.taylor4439@business.net",
+    "phone": "899 720 1269",
+    "ssn": "871-52-7072",
+    "dob": "09-20-1967",
+    "address": "8289 Cedar Ln",
+    "city": "Austin",
+    "state": "MD"
+  }
+}

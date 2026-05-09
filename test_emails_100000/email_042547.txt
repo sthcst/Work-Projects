@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Jimenez,john.jimenez4787@outlook.com,+1 445-412-1579,068-17-3785,24/02/1994,"5787 South St",Philadelphia,MA

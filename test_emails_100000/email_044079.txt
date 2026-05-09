@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Reeves
+  email: sarah.reeves4735@gmail.com
+  phone: +1 702-682-7212
+  ssn: 139 32 9504
+  dob: 07-09-1950
+  address: 7611 First Dr
+  city: Dallas
+  state: IL

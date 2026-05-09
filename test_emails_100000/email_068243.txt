@@ -1,0 +1,14 @@
+INVOICE 107425
+
+Bill To:
+Name: Mark Bell
+Email: mark.bell6209@company.com
+Phone: 482 788 6437
+SSN: 146-32-5966
+
+Address: 9127 Main Dr
+New York, TX
+
+Date of Birth: 06/14/1962
+
+Amount Due: $3890

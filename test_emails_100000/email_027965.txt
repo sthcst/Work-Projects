@@ -1,0 +1,14 @@
+INVOICE 980431
+
+Bill To:
+Name: Jacob Taylor
+Email: jacob.taylor1081@example.com
+Phone: 331 386 5841
+SSN: 365-50-1204
+
+Address: 5744 Fourth Way
+Dallas, VA
+
+Date of Birth: 08-09-2000
+
+Amount Due: $4267

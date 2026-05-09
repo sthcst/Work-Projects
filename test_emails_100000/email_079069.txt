@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Lewis",
+    "email": "john.lewis840@outlook.com",
+    "phone": "425 446 5591",
+    "ssn": "076-76-7141",
+    "dob": "12/02/1965",
+    "address": "9867 Summer Blvd",
+    "city": "New York",
+    "state": "MO"
+  }
+}

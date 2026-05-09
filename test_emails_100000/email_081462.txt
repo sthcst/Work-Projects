@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Thomas",
+    "email": "ronald.thomas2288@example.com",
+    "phone": "+1 320-954-7402",
+    "ssn": "925017867",
+    "dob": "10-14-1968",
+    "address": "6976 Sixth Ave",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

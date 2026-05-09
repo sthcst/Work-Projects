@@ -1,0 +1,14 @@
+INVOICE 733763
+
+Bill To:
+Name: Andrew Guerrero
+Email: andrew.guerrero5768@example.com
+Phone: 847-550-5052
+SSN: 836-58-6643
+
+Address: 1907 Pine Way
+San Diego, CO
+
+Date of Birth: 07-22-1969
+
+Amount Due: $1140

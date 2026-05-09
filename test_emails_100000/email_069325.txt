@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Ramirez,steven.ramirez4363@example.com,(449) 492-1670,325-97-4591,08-18-1996,"288 Spring Way",Boston,MO

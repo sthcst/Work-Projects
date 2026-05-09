@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Parker",
+    "email": "paul.parker9269@business.net",
+    "phone": "(804) 756-3212",
+    "ssn": "100815746",
+    "dob": "10/9/1969",
+    "address": "636 Sixth Blvd",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

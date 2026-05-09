@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Edwards,brenda.edwards8018@example.com,341-771-5577,341948944,02/06/1996,"3504 Birch Court",San Jose,MO

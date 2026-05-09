@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Lopez",
+    "email": "katherine.lopez5981@company.com",
+    "phone": "774 714 8293",
+    "ssn": "684-41-8030",
+    "dob": "27/06/1975",
+    "address": "6223 Spring Way",
+    "city": "San Jose",
+    "state": "MA"
+  }
+}

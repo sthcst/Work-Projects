@@ -1,0 +1,9 @@
+contact:
+  name: David Rogers
+  email: david.rogers6999@yahoo.com
+  phone: +1 399-556-6357
+  ssn: 617-78-3102
+  dob: 08-09-1993
+  address: 4677 West St
+  city: Los Angeles
+  state: AZ

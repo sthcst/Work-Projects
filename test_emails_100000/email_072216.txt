@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Hall,ronald.hall1232@example.com,714 572 5335,852 24 8365,04-27-1975,"9452 West Blvd",Austin,NC

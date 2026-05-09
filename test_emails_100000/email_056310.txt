@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Gomez,daniel.gomez1377@business.net,264 752 8551,595-24-1055,11/11/1997,"7510 First Ave",Philadelphia,TX

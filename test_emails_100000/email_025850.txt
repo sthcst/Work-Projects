@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Reed,charles.reed4983@outlook.com,(821) 728-9721,455-55-3778,02-06-1993,"6359 East Dr",San Antonio,FL

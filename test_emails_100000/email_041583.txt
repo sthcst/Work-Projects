@@ -1,0 +1,9 @@
+contact:
+  name: Anna Jones
+  email: anna.jones6887@gmail.com
+  phone: +1 751-939-2863
+  ssn: 639-56-1471
+  dob: 06/11/1976
+  address: 2791 Park Court
+  city: Los Angeles
+  state: NC

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Collins",
+    "email": "john.collins433@mail.com",
+    "phone": "(999) 210-8361",
+    "ssn": "165-61-8702",
+    "dob": "9/21/1995",
+    "address": "7789 East Blvd",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

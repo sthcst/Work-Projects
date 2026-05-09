@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Morris",
+    "email": "donald.morris8948@example.com",
+    "phone": "+1 869-466-5386",
+    "ssn": "766-92-2419",
+    "dob": "11/08/1974",
+    "address": "5911 South St",
+    "city": "San Antonio",
+    "state": "VA"
+  }
+}

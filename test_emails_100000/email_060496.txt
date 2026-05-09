@@ -1,0 +1,9 @@
+contact:
+  name: George Garcia
+  email: george.garcia4012@example.com
+  phone: 459 993 2788
+  ssn: 063 26 1793
+  dob: 07/27/1965
+  address: 1003 Fourth Dr
+  city: Boston
+  state: IL

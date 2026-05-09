@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Brown
+  email: daniel.brown8085@example.com
+  phone: +1 591-743-2010
+  ssn: 754465915
+  dob: 16/01/1986
+  address: 2851 Oak Blvd
+  city: Dallas
+  state: FL

@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Brown
+  email: lisa.brown5542@gmail.com
+  phone: 883-678-4950
+  ssn: 841-81-7131
+  dob: 7/18/1969
+  address: 5496 First Blvd
+  city: San Diego
+  state: MA

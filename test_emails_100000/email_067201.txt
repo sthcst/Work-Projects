@@ -1,0 +1,14 @@
+INVOICE 412988
+
+Bill To:
+Name: Charles Gomez
+Email: charles.gomez837@gmail.com
+Phone: 359 890 4100
+SSN: 313427335
+
+Address: 157 Fifth Way
+San Diego, FL
+
+Date of Birth: 03/23/1991
+
+Amount Due: $5469

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Thompson",
+    "email": "megan.thompson3613@gmail.com",
+    "phone": "(866) 681-3470",
+    "ssn": "009 67 2015",
+    "dob": "09-06-1986",
+    "address": "7857 Fourth Blvd",
+    "city": "San Diego",
+    "state": "PA"
+  }
+}

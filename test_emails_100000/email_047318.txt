@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Martin
+  email: christopher.martin7677@company.com
+  phone: 373-735-6976
+  ssn: 183 88 3245
+  dob: 01/02/1982
+  address: 6105 First Rd
+  city: New York
+  state: MI

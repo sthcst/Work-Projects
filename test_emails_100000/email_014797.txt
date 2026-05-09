@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Walker",
+    "email": "joseph.walker7042@business.net",
+    "phone": "640-620-5462",
+    "ssn": "484-35-3691",
+    "dob": "03/02/1951",
+    "address": "3243 Cedar Court",
+    "city": "Chicago",
+    "state": "GA"
+  }
+}

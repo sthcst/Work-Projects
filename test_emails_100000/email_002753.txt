@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Serrano,maria.serrano3909@yahoo.com,978-907-7493,252641073,08-06-1954,"609 Fourth Rd",Phoenix,MA

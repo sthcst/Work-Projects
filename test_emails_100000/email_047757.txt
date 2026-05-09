@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Thomas",
+    "email": "angela.thomas379@company.com",
+    "phone": "822 888 3834",
+    "ssn": "150 79 5369",
+    "dob": "9/11/2005",
+    "address": "2732 Sixth Way",
+    "city": "New York",
+    "state": "MA"
+  }
+}

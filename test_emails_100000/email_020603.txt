@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Carter",
+    "email": "maria.carter9779@business.net",
+    "phone": "(883) 203-9620",
+    "ssn": "648077751",
+    "dob": "8/25/1951",
+    "address": "5341 Second Dr",
+    "city": "Jacksonville",
+    "state": "FL"
+  }
+}

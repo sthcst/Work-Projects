@@ -1,0 +1,9 @@
+contact:
+  name: Jane Davis
+  email: jane.davis9360@outlook.com
+  phone: +1 977-729-8775
+  ssn: 445 86 3692
+  dob: 5/8/1986
+  address: 7895 Summer Ave
+  city: Los Angeles
+  state: OH

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Martin",
+    "email": "anna.martin9072@mail.com",
+    "phone": "(944) 894-5072",
+    "ssn": "810-98-1397",
+    "dob": "04/17/1987",
+    "address": "8491 Fifth Blvd",
+    "city": "New York",
+    "state": "GA"
+  }
+}

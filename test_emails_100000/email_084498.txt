@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Parker",
+    "email": "angela.parker7880@mail.com",
+    "phone": "(801) 439-7346",
+    "ssn": "792 93 4281",
+    "dob": "01-13-1978",
+    "address": "9380 Elm Dr",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

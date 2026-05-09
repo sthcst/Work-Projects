@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Parker,katherine.parker1723@gmail.com,862-447-5647,169 49 6067,19/11/1971,"3103 North Rd",Washington,TN

@@ -1,0 +1,14 @@
+INVOICE 750582
+
+Bill To:
+Name: Gary Hernandez
+Email: gary.hernandez2304@outlook.com
+Phone: 448-981-9065
+SSN: 063-23-7028
+
+Address: 1891 Second Blvd
+San Antonio, MI
+
+Date of Birth: 12/01/1974
+
+Amount Due: $4597

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Lee,joseph.lee3303@example.com,961 349 5274,432411188,03/12/1998,"5778 Spring St",Austin,MA

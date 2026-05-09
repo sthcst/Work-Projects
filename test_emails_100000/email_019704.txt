@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Reyes
+  email: pamela.reyes6988@work.org
+  phone: 463-975-3027
+  ssn: 947-56-7380
+  dob: 06-19-1987
+  address: 5651 Spring Court
+  city: Washington
+  state: MA

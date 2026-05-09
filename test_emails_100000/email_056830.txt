@@ -1,0 +1,14 @@
+INVOICE 522008
+
+Bill To:
+Name: George Robinson
+Email: george.robinson8501@work.org
+Phone: 300 786 4884
+SSN: 952 75 9885
+
+Address: 9846 Summer St
+Chicago, WA
+
+Date of Birth: 20/04/1972
+
+Amount Due: $4528

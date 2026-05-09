@@ -1,0 +1,9 @@
+contact:
+  name: David Robinson
+  email: david.robinson3302@example.com
+  phone: 677-746-3155
+  ssn: 883098051
+  dob: 7/21/1963
+  address: 9257 Maple Blvd
+  city: Houston
+  state: WA

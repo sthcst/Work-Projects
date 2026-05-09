@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Stewart
+  email: deborah.stewart7331@example.com
+  phone: 915-510-9355
+  ssn: 516-86-1132
+  dob: 24/03/1957
+  address: 5607 Park Court
+  city: Philadelphia
+  state: TX

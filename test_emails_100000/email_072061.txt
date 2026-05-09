@@ -1,0 +1,14 @@
+INVOICE 338850
+
+Bill To:
+Name: Ashley Moore
+Email: ashley.moore3889@example.com
+Phone: 235 240 7349
+SSN: 721 51 4805
+
+Address: 8912 Second Ln
+Chicago, MA
+
+Date of Birth: 5/10/1962
+
+Amount Due: $6775

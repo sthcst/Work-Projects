@@ -1,0 +1,14 @@
+INVOICE 224680
+
+Bill To:
+Name: Mark Serrano
+Email: mark.serrano6799@business.net
+Phone: 808 432 8493
+SSN: 579645100
+
+Address: 9918 Birch Ln
+Seattle, GA
+
+Date of Birth: 16/06/1953
+
+Amount Due: $5829

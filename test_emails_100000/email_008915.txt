@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Lopez
+  email: michelle.lopez8948@outlook.com
+  phone: (906) 306-6466
+  ssn: 993 76 1484
+  dob: 04/28/1968
+  address: 444 South Dr
+  city: Chicago
+  state: CO

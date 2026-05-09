@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Taylor",
+    "email": "katherine.taylor2652@yahoo.com",
+    "phone": "602-241-5471",
+    "ssn": "174-69-8885",
+    "dob": "8/3/1982",
+    "address": "582 Second Court",
+    "city": "New York",
+    "state": "CA"
+  }
+}

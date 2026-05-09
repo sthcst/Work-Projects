@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Stewart",
+    "email": "nicholas.stewart7559@yahoo.com",
+    "phone": "+1 297-696-4244",
+    "ssn": "276-32-8827",
+    "dob": "07/08/2003",
+    "address": "9960 Spring St",
+    "city": "Denver",
+    "state": "NJ"
+  }
+}

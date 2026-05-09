@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Lopez
+  email: jeffrey.lopez1560@gmail.com
+  phone: (688) 279-3174
+  ssn: 608299510
+  dob: 08-01-1950
+  address: 1985 West Rd
+  city: Washington
+  state: IL

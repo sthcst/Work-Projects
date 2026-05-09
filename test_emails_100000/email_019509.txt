@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Gomez",
+    "email": "charles.gomez3098@yahoo.com",
+    "phone": "+1 711-392-3506",
+    "ssn": "766-06-9256",
+    "dob": "11-23-1979",
+    "address": "2493 North Dr",
+    "city": "New York",
+    "state": "AZ"
+  }
+}

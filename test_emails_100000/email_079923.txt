@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Hernandez",
+    "email": "rebecca.hernandez7582@outlook.com",
+    "phone": "(865) 864-8288",
+    "ssn": "062045298",
+    "dob": "05/25/1969",
+    "address": "8701 Oak Ln",
+    "city": "Austin",
+    "state": "DC"
+  }
+}

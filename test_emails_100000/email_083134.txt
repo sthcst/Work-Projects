@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Romero",
+    "email": "lauren.romero7989@example.com",
+    "phone": "+1 302-800-9061",
+    "ssn": "838 29 5236",
+    "dob": "7/23/1965",
+    "address": "8713 South St",
+    "city": "Boston",
+    "state": "DC"
+  }
+}

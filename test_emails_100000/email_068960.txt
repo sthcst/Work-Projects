@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Romero,jane.romero3653@outlook.com,926 471 6291,319 77 5603,12/8/1978,"3074 Main Court",Dallas,MA

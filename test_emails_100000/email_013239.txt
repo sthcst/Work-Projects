@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Murillo,brenda.murillo6682@yahoo.com,288 422 2667,854259205,5/21/1965,"2525 Pine St",Phoenix,MO

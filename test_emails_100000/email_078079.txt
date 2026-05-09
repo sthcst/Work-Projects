@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Nunez,ashley.nunez4723@mail.com,757-792-8877,853-24-2340,08-08-1952,"2484 Pine Dr",Denver,VA

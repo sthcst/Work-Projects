@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Parker",
+    "email": "james.parker5238@example.com",
+    "phone": "(817) 607-6970",
+    "ssn": "080-51-1185",
+    "dob": "04/27/1997",
+    "address": "4860 Spring Ave",
+    "city": "Houston",
+    "state": "GA"
+  }
+}

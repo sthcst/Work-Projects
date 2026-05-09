@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Hall
+  email: kathleen.hall3677@company.com
+  phone: 789-529-1762
+  ssn: 515603364
+  dob: 15/04/1979
+  address: 5124 West Court
+  city: Denver
+  state: MA

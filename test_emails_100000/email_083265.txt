@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Williams,mark.williams3762@company.com,422-596-8037,409 13 5496,20/07/1988,"3516 Pine Ave",New York,CA

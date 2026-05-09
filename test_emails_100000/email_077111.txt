@@ -1,0 +1,14 @@
+INVOICE 837842
+
+Bill To:
+Name: Ashley Garcia
+Email: ashley.garcia9817@business.net
+Phone: 987 497 4214
+SSN: 357417166
+
+Address: 7354 First Court
+Los Angeles, TX
+
+Date of Birth: 27/05/1986
+
+Amount Due: $2403

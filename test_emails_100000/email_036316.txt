@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Nunez,james.nunez1310@example.com,587-379-9427,210 03 2222,09/17/1965,"5296 Oak Rd",Phoenix,MI

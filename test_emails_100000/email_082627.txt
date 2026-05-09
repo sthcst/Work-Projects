@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Moore,andrew.moore8160@example.com,+1 787-894-9420,841 34 1074,11/14/1993,"7144 South St",Austin,FL

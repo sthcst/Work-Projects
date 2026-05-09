@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Lopez
+  email: cynthia.lopez2649@work.org
+  phone: 571 665 3676
+  ssn: 475 23 3412
+  dob: 01-17-2001
+  address: 1555 Cedar Rd
+  city: Philadelphia
+  state: MO

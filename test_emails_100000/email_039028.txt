@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Robinson,william.robinson1339@outlook.com,+1 393-551-6640,802 64 2153,09-03-1976,"4662 Elm Ave",Seattle,CA

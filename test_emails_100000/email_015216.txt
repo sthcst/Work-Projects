@@ -1,0 +1,9 @@
+contact:
+  name: Mark Phillips
+  email: mark.phillips8589@example.com
+  phone: +1 201-996-6840
+  ssn: 533665026
+  dob: 4/2/1975
+  address: 4333 Sixth St
+  city: Denver
+  state: VA

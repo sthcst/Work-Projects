@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Davis,james.davis9209@business.net,+1 554-496-6363,739 73 8931,06/04/1964,"2418 South Blvd",Denver,NJ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Murillo",
+    "email": "deborah.murillo1279@gmail.com",
+    "phone": "289-391-3604",
+    "ssn": "995884537",
+    "dob": "11-08-1972",
+    "address": "5252 Sixth Ave",
+    "city": "San Antonio",
+    "state": "MO"
+  }
+}

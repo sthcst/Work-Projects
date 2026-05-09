@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Morris,nicole.morris2362@outlook.com,+1 659-250-7935,329 32 1952,2/3/1979,"1907 Birch Ave",San Jose,CA

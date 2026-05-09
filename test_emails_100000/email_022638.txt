@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Alvarado",
+    "email": "edward.alvarado2143@example.com",
+    "phone": "+1 499-939-5950",
+    "ssn": "104 65 1772",
+    "dob": "10/21/1996",
+    "address": "1934 Birch Ave",
+    "city": "Jacksonville",
+    "state": "TN"
+  }
+}

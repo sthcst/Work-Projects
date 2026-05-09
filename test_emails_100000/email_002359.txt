@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas White",
+    "email": "nicholas.white8866@outlook.com",
+    "phone": "228 941 2627",
+    "ssn": "888226813",
+    "dob": "03-02-1952",
+    "address": "4033 Cedar St",
+    "city": "Chicago",
+    "state": "GA"
+  }
+}

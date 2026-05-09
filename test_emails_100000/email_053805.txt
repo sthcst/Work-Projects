@@ -1,0 +1,9 @@
+contact:
+  name: George Rogers
+  email: george.rogers3754@yahoo.com
+  phone: 392-839-4914
+  ssn: 257-86-7132
+  dob: 3/27/1952
+  address: 2446 Park Way
+  city: New York
+  state: AZ

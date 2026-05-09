@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Delgado",
+    "email": "david.delgado6191@yahoo.com",
+    "phone": "827 762 5996",
+    "ssn": "201359008",
+    "dob": "07/04/1967",
+    "address": "4595 Pine Blvd",
+    "city": "Phoenix",
+    "state": "NC"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Bell
+  email: joseph.bell4295@yahoo.com
+  phone: (634) 479-5842
+  ssn: 769 84 3248
+  dob: 03-11-1966
+  address: 7528 Spring Court
+  city: Houston
+  state: NC

@@ -1,0 +1,9 @@
+contact:
+  name: Edward Johnson
+  email: edward.johnson3864@gmail.com
+  phone: (827) 227-5896
+  ssn: 552-29-3964
+  dob: 04/03/1962
+  address: 7998 Main Ave
+  city: Denver
+  state: AZ

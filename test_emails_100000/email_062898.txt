@@ -1,0 +1,9 @@
+contact:
+  name: Megan Ramirez
+  email: megan.ramirez7345@work.org
+  phone: (877) 991-3773
+  ssn: 990 12 5036
+  dob: 07/19/1964
+  address: 2049 Cedar St
+  city: Houston
+  state: GA

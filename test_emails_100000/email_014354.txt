@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Flores,emma.flores2794@gmail.com,803-725-5130,577-61-8076,08-27-1991,"6072 Third St",Denver,FL

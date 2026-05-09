@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Rodriguez,charles.rodriguez536@gmail.com,(701) 329-1889,761 69 6571,02/08/1964,"9818 Sixth Court",San Antonio,OH

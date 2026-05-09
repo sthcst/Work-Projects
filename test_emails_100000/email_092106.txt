@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Brown
+  email: nicole.brown9583@yahoo.com
+  phone: 237-669-7390
+  ssn: 235 29 8773
+  dob: 8/10/1976
+  address: 3854 Fourth St
+  city: Austin
+  state: NY

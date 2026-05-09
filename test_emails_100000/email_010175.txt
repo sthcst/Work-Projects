@@ -1,0 +1,9 @@
+contact:
+  name: Angela Martin
+  email: angela.martin89@company.com
+  phone: +1 504-701-4603
+  ssn: 852206210
+  dob: 8/11/2001
+  address: 1673 Cedar Rd
+  city: Dallas
+  state: CO

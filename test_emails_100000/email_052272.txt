@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Rodriguez",
+    "email": "angela.rodriguez844@work.org",
+    "phone": "891 769 7608",
+    "ssn": "648-57-8491",
+    "dob": "3/16/1975",
+    "address": "2171 Oak Court",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

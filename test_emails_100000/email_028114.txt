@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Smith
+  email: pamela.smith2979@yahoo.com
+  phone: +1 712-420-4864
+  ssn: 666-76-2237
+  dob: 07/11/1953
+  address: 2945 Summer Court
+  city: Philadelphia
+  state: OH

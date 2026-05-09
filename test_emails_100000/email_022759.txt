@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Edwards,jessica.edwards2332@yahoo.com,957 935 8904,303 71 8009,05-18-2005,"673 Maple Dr",Dallas,CA

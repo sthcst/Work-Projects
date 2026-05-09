@@ -1,0 +1,9 @@
+contact:
+  name: George Nunez
+  email: george.nunez9446@work.org
+  phone: +1 793-856-2058
+  ssn: 022709997
+  dob: 02-21-1951
+  address: 706 East Blvd
+  city: Seattle
+  state: TX

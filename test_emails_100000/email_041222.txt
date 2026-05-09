@@ -1,0 +1,9 @@
+contact:
+  name: Angela Johnson
+  email: angela.johnson7943@company.com
+  phone: +1 478-687-7253
+  ssn: 766 09 4095
+  dob: 11/18/1979
+  address: 6234 East St
+  city: Los Angeles
+  state: WA

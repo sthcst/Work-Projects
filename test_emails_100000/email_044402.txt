@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Anderson",
+    "email": "daniel.anderson9856@business.net",
+    "phone": "237-655-5962",
+    "ssn": "235-42-4563",
+    "dob": "05-08-1975",
+    "address": "2746 Cedar Ave",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Johnson",
+    "email": "paul.johnson3120@work.org",
+    "phone": "813 345 2408",
+    "ssn": "766298918",
+    "dob": "10-03-1973",
+    "address": "6673 Third Blvd",
+    "city": "San Diego",
+    "state": "CO"
+  }
+}

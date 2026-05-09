@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Jackson",
+    "email": "michael.jackson4910@company.com",
+    "phone": "769-285-1597",
+    "ssn": "016-79-9294",
+    "dob": "12/21/1973",
+    "address": "3511 Summer Ln",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

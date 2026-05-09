@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Jimenez",
+    "email": "timothy.jimenez7011@mail.com",
+    "phone": "+1 306-331-4772",
+    "ssn": "083-10-2041",
+    "dob": "12/17/1982",
+    "address": "9672 Fifth St",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

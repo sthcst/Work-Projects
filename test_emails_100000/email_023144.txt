@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Reeves",
+    "email": "amanda.reeves1744@company.com",
+    "phone": "(390) 859-5743",
+    "ssn": "415-36-7535",
+    "dob": "11-20-1960",
+    "address": "5207 Summer Way",
+    "city": "San Diego",
+    "state": "VA"
+  }
+}

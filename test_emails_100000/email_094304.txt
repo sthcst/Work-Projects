@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Nelson",
+    "email": "emma.nelson3604@business.net",
+    "phone": "822-281-3234",
+    "ssn": "925 49 3138",
+    "dob": "10/02/1951",
+    "address": "626 First Ave",
+    "city": "Denver",
+    "state": "AZ"
+  }
+}

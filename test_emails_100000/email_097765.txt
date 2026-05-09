@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Williams
+  email: nicole.williams5105@mail.com
+  phone: (755) 778-9657
+  ssn: 762-68-8869
+  dob: 18/07/1963
+  address: 8724 Third Blvd
+  city: Denver
+  state: TN

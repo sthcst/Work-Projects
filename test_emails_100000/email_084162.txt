@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Carter",
+    "email": "pamela.carter5740@work.org",
+    "phone": "606-383-4011",
+    "ssn": "725 33 2506",
+    "dob": "13/08/1961",
+    "address": "4440 Sixth Way",
+    "city": "Los Angeles",
+    "state": "NY"
+  }
+}

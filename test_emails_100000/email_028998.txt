@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Smith,donald.smith502@yahoo.com,+1 460-895-8132,246996814,10/08/1967,"4673 West Blvd",Phoenix,AZ

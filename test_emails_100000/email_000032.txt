@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Roberts",
+    "email": "lisa.roberts4633@work.org",
+    "phone": "903-439-5334",
+    "ssn": "807 81 4241",
+    "dob": "2/18/1964",
+    "address": "4362 Maple Ave",
+    "city": "Los Angeles",
+    "state": "PA"
+  }
+}

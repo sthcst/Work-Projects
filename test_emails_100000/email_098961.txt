@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin White",
+    "email": "kevin.white9475@example.com",
+    "phone": "656-693-5616",
+    "ssn": "472 39 6793",
+    "dob": "02-12-1957",
+    "address": "78 First Court",
+    "city": "Los Angeles",
+    "state": "WA"
+  }
+}

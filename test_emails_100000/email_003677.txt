@@ -1,0 +1,14 @@
+INVOICE 600526
+
+Bill To:
+Name: David Lewis
+Email: david.lewis1002@company.com
+Phone: +1 944-935-9359
+SSN: 498295011
+
+Address: 3341 Oak Ave
+San Diego, WI
+
+Date of Birth: 02-04-1971
+
+Amount Due: $4775

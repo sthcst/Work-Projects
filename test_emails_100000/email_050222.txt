@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Lee",
+    "email": "christopher.lee7335@yahoo.com",
+    "phone": "311 929 7170",
+    "ssn": "030-64-3516",
+    "dob": "02-23-1957",
+    "address": "3645 Fourth Court",
+    "city": "Denver",
+    "state": "MI"
+  }
+}

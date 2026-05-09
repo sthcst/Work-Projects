@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Robinson",
+    "email": "nicole.robinson1890@business.net",
+    "phone": "724 512 6048",
+    "ssn": "567-85-3724",
+    "dob": "11-10-1993",
+    "address": "276 Pine Ave",
+    "city": "Chicago",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Morris",
+    "email": "john.morris7737@mail.com",
+    "phone": "607-838-8516",
+    "ssn": "777357167",
+    "dob": "07/23/1979",
+    "address": "9788 Pine Ave",
+    "city": "Austin",
+    "state": "FL"
+  }
+}

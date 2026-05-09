@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Romero",
+    "email": "james.romero1707@yahoo.com",
+    "phone": "947 215 3269",
+    "ssn": "554-66-6610",
+    "dob": "07/03/1952",
+    "address": "2905 Elm Rd",
+    "city": "Boston",
+    "state": "WA"
+  }
+}

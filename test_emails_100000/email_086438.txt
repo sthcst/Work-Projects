@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Reyes",
+    "email": "kathleen.reyes7173@yahoo.com",
+    "phone": "(303) 595-1715",
+    "ssn": "689349430",
+    "dob": "02/27/1953",
+    "address": "5476 Second Court",
+    "city": "San Jose",
+    "state": "CA"
+  }
+}

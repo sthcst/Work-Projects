@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Collins
+  email: jeffrey.collins5247@mail.com
+  phone: (974) 510-7721
+  ssn: 775945896
+  dob: 01-19-1952
+  address: 5079 Main Blvd
+  city: Phoenix
+  state: MA

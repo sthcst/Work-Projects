@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Reeves,lisa.reeves8550@mail.com,818-685-1772,241-98-7506,12-09-1983,"7995 First Ave",Austin,CA

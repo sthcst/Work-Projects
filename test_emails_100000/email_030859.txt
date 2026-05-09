@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Martin
+  email: samantha.martin4584@gmail.com
+  phone: 340-599-9119
+  ssn: 829 73 6396
+  dob: 3/20/1991
+  address: 6244 First Rd
+  city: San Jose
+  state: MA

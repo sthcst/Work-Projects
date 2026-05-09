@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George White,george.white679@gmail.com,(280) 627-1069,576 96 5562,09/20/2000,"9711 Fourth Court",Seattle,MA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Phillips,ronald.phillips8564@yahoo.com,442 275 8214,230353477,03/04/1983,"5543 Main Court",San Antonio,MA

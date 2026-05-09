@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Stewart",
+    "email": "katherine.stewart484@example.com",
+    "phone": "925-753-1109",
+    "ssn": "573 94 8621",
+    "dob": "10-25-1971",
+    "address": "991 Fifth Way",
+    "city": "Jacksonville",
+    "state": "DC"
+  }
+}

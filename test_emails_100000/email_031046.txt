@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Collins",
+    "email": "paul.collins5840@work.org",
+    "phone": "495 761 4986",
+    "ssn": "287135208",
+    "dob": "11-13-2005",
+    "address": "8255 Spring Dr",
+    "city": "Dallas",
+    "state": "WA"
+  }
+}

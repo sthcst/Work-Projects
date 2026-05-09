@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Jackson",
+    "email": "katherine.jackson9875@company.com",
+    "phone": "+1 268-767-8020",
+    "ssn": "782 70 5307",
+    "dob": "04/21/1956",
+    "address": "540 Third Blvd",
+    "city": "Houston",
+    "state": "AZ"
+  }
+}

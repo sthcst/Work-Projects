@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Robinson
+  email: nicholas.robinson308@outlook.com
+  phone: (241) 607-9007
+  ssn: 011-87-2415
+  dob: 2/8/1967
+  address: 5935 North Dr
+  city: San Antonio
+  state: DC

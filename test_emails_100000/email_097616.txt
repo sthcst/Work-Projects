@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Jones",
+    "email": "james.jones6787@outlook.com",
+    "phone": "412 977 6289",
+    "ssn": "231 65 1081",
+    "dob": "04/03/1977",
+    "address": "4484 Oak Blvd",
+    "city": "Boston",
+    "state": "CO"
+  }
+}

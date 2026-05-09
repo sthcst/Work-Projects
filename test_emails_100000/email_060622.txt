@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Wilson",
+    "email": "jeffrey.wilson5618@gmail.com",
+    "phone": "568 264 5979",
+    "ssn": "182-82-1798",
+    "dob": "10/15/1984",
+    "address": "4190 Sixth Way",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Mark Garcia
+  email: mark.garcia2030@business.net
+  phone: 524-308-2961
+  ssn: 653314164
+  dob: 05/14/2002
+  address: 2019 South Court
+  city: Phoenix
+  state: AZ

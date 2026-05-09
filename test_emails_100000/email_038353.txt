@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Anderson
+  email: kathleen.anderson7466@work.org
+  phone: 458 578 7755
+  ssn: 202 38 3514
+  dob: 08/03/1954
+  address: 1852 Fifth Ave
+  city: Seattle
+  state: FL

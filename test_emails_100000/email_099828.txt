@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Hall,rachel.hall9130@outlook.com,789-941-2320,408 06 4122,09/05/1977,"4188 Summer Ln",Phoenix,CA

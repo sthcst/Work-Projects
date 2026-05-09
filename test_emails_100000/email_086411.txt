@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Miller",
+    "email": "michelle.miller7278@outlook.com",
+    "phone": "+1 529-382-5331",
+    "ssn": "476-56-4571",
+    "dob": "8/6/1999",
+    "address": "466 Spring Ln",
+    "city": "Boston",
+    "state": "CO"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Alvarado
+  email: nicholas.alvarado2208@mail.com
+  phone: 262 915 8551
+  ssn: 570-44-3989
+  dob: 11/09/2005
+  address: 1763 Sixth Court
+  city: San Diego
+  state: TX

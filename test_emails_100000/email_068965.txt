@@ -1,0 +1,14 @@
+INVOICE 380966
+
+Bill To:
+Name: Rachel Morgan
+Email: rachel.morgan5082@outlook.com
+Phone: 273-859-3013
+SSN: 850-97-9256
+
+Address: 6916 Pine Dr
+Washington, TN
+
+Date of Birth: 11/04/1992
+
+Amount Due: $8760

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Delgado",
+    "email": "angela.delgado4558@company.com",
+    "phone": "+1 330-799-2455",
+    "ssn": "948878123",
+    "dob": "10/24/2001",
+    "address": "586 Spring Ave",
+    "city": "Philadelphia",
+    "state": "AZ"
+  }
+}

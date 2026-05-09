@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Perez,william.perez1183@example.com,745-534-4771,010-66-9175,5/23/1956,"2261 Elm St",Dallas,FL

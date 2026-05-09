@@ -1,0 +1,14 @@
+INVOICE 938475
+
+Bill To:
+Name: Charles Taylor
+Email: charles.taylor4199@company.com
+Phone: +1 978-848-5549
+SSN: 859471614
+
+Address: 3883 West Way
+San Diego, MI
+
+Date of Birth: 11/25/1983
+
+Amount Due: $740

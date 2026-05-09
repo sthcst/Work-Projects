@@ -1,0 +1,9 @@
+contact:
+  name: Angela Martin
+  email: angela.martin8207@company.com
+  phone: (885) 719-6416
+  ssn: 297 03 5787
+  dob: 17/12/1997
+  address: 2921 Oak St
+  city: Washington
+  state: TX

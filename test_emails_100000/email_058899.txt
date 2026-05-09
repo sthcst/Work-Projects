@@ -1,0 +1,9 @@
+contact:
+  name: Michael Martinez
+  email: michael.martinez8467@yahoo.com
+  phone: 330-351-9302
+  ssn: 164 08 6294
+  dob: 04/09/1989
+  address: 3669 East Blvd
+  city: Chicago
+  state: MI

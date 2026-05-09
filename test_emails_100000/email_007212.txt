@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Evans",
+    "email": "mark.evans9155@example.com",
+    "phone": "(442) 944-2955",
+    "ssn": "288 21 1007",
+    "dob": "07/09/1986",
+    "address": "3314 Elm St",
+    "city": "Jacksonville",
+    "state": "MI"
+  }
+}

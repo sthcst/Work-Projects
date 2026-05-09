@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Anderson",
+    "email": "stephanie.anderson2557@mail.com",
+    "phone": "(842) 641-7858",
+    "ssn": "352819495",
+    "dob": "01/08/2005",
+    "address": "2544 Elm Court",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

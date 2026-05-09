@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Moore,maria.moore5059@example.com,384-231-6320,934 54 4538,09-08-1966,"1034 Third St",Los Angeles,FL

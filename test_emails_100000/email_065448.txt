@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Reed,jane.reed8578@yahoo.com,367-583-6979,665-34-5166,11/23/1968,"199 East Blvd",New York,TN

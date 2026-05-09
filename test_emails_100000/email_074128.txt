@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Nelson",
+    "email": "kevin.nelson4391@example.com",
+    "phone": "+1 636-664-4280",
+    "ssn": "190-40-3952",
+    "dob": "04/20/1954",
+    "address": "7382 Pine Court",
+    "city": "San Antonio",
+    "state": "AZ"
+  }
+}

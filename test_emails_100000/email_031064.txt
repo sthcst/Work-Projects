@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Campbell",
+    "email": "deborah.campbell4733@outlook.com",
+    "phone": "777 891 2569",
+    "ssn": "802 51 9126",
+    "dob": "17/04/1959",
+    "address": "4222 Second Dr",
+    "city": "San Antonio",
+    "state": "MI"
+  }
+}

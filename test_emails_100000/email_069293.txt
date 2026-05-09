@@ -1,0 +1,9 @@
+contact:
+  name: Mark Jackson
+  email: mark.jackson9905@gmail.com
+  phone: 510 207 4561
+  ssn: 602-11-7011
+  dob: 05/16/1967
+  address: 2056 Cedar Way
+  city: Philadelphia
+  state: MO

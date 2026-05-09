@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Thomas",
+    "email": "maria.thomas6348@mail.com",
+    "phone": "889-398-8808",
+    "ssn": "063 76 4539",
+    "dob": "10/08/1989",
+    "address": "4317 Fourth Blvd",
+    "city": "San Antonio",
+    "state": "NJ"
+  }
+}

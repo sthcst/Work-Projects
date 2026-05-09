@@ -1,0 +1,14 @@
+INVOICE 514831
+
+Bill To:
+Name: Cynthia Morris
+Email: cynthia.morris3952@company.com
+Phone: 414-420-4505
+SSN: 170387243
+
+Address: 1581 Park Blvd
+Washington, TX
+
+Date of Birth: 01-02-2004
+
+Amount Due: $3832

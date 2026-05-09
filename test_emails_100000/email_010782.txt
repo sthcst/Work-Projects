@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Hall
+  email: katherine.hall5349@mail.com
+  phone: +1 843-802-9229
+  ssn: 485495300
+  dob: 10/03/1999
+  address: 4380 Third Rd
+  city: Washington
+  state: GA

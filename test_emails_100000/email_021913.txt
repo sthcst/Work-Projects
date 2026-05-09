@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Walker,angela.walker6839@example.com,+1 449-738-8281,633-94-2027,03/11/1973,"6893 Third Rd",New York,CA

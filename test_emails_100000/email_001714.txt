@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Lopez",
+    "email": "shirley.lopez4361@example.com",
+    "phone": "220 205 6071",
+    "ssn": "394 44 9919",
+    "dob": "7/8/2000",
+    "address": "4748 Fourth Court",
+    "city": "New York",
+    "state": "MI"
+  }
+}

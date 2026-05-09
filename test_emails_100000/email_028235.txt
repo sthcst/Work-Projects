@@ -1,0 +1,12 @@
+SUPPORT TICKET #88149
+
+Customer: Anthony Jimenez
+Email: anthony.jimenez617@example.com
+Phone: (205) 299-3913
+Account: 992817053
+
+Issue Description: Technical problem reported
+DOB on file: 4/11/1975
+Address: 9618 Sixth Way, Phoenix, AZ
+
+Status: OPEN

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Reed",
+    "email": "jacob.reed4050@example.com",
+    "phone": "(359) 979-5463",
+    "ssn": "638332720",
+    "dob": "12/23/1955",
+    "address": "9686 South Ave",
+    "city": "New York",
+    "state": "OH"
+  }
+}

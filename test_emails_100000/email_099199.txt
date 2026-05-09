@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Gomez,deborah.gomez3471@work.org,+1 605-812-7792,893-52-8175,07/24/1955,"866 Oak Dr",Houston,MO

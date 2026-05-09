@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Reyes
+  email: kevin.reyes6397@example.com
+  phone: 358-988-3076
+  ssn: 175193824
+  dob: 02-03-1999
+  address: 3364 Second St
+  city: Denver
+  state: DC

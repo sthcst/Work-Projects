@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Phillips
+  email: katherine.phillips7764@mail.com
+  phone: +1 473-899-3095
+  ssn: 048263690
+  dob: 13/11/1978
+  address: 7686 Cedar Ave
+  city: Houston
+  state: MI

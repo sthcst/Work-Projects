@@ -1,0 +1,14 @@
+INVOICE 422715
+
+Bill To:
+Name: Rebecca Hernandez
+Email: rebecca.hernandez6653@company.com
+Phone: +1 624-728-8033
+SSN: 410 25 7085
+
+Address: 1829 North Rd
+San Diego, DC
+
+Date of Birth: 05-11-2003
+
+Amount Due: $1432

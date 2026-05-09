@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Harris",
+    "email": "richard.harris7258@yahoo.com",
+    "phone": "(586) 745-7205",
+    "ssn": "537486074",
+    "dob": "04-01-1954",
+    "address": "2753 Fifth Dr",
+    "city": "Austin",
+    "state": "FL"
+  }
+}

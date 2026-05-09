@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Gonzalez",
+    "email": "joseph.gonzalez5631@gmail.com",
+    "phone": "249-784-6790",
+    "ssn": "327 36 5690",
+    "dob": "1/23/1950",
+    "address": "3441 Elm Way",
+    "city": "Philadelphia",
+    "state": "NY"
+  }
+}

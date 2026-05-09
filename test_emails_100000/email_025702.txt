@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Morgan,maria.morgan1622@yahoo.com,941 890 7583,120-89-9095,07-14-1972,"7522 North St",Los Angeles,CA

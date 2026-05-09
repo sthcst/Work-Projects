@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Bell,emma.bell2412@example.com,260-345-8091,381 95 8163,04/05/1966,"698 East Rd",San Jose,WI

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Parker,andrew.parker3733@gmail.com,700 538 5729,926031907,01/08/1956,"620 Maple Blvd",Seattle,TN

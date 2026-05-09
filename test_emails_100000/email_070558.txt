@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Hernandez,david.hernandez4021@yahoo.com,946-272-7102,335486084,03/05/1997,"75 Elm Dr",San Antonio,TX

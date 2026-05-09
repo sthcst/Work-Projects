@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Guerrero",
+    "email": "james.guerrero5506@yahoo.com",
+    "phone": "+1 603-530-7600",
+    "ssn": "658-18-3310",
+    "dob": "09/14/1957",
+    "address": "3813 Spring Rd",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

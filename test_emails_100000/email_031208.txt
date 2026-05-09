@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Morgan
+  email: brenda.morgan6207@work.org
+  phone: 842 548 2198
+  ssn: 935-04-3174
+  dob: 10-14-1983
+  address: 9679 Main Way
+  city: Los Angeles
+  state: WI

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Perez,edward.perez1903@mail.com,+1 637-926-8348,688-94-4174,6/17/1995,"2248 Pine Dr",San Antonio,GA

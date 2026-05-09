@@ -1,0 +1,9 @@
+contact:
+  name: Maria Anderson
+  email: maria.anderson4490@work.org
+  phone: (453) 577-5207
+  ssn: 084661210
+  dob: 11/12/1981
+  address: 9519 Maple Court
+  city: Los Angeles
+  state: NY

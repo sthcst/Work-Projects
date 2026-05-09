@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Romero",
+    "email": "joshua.romero7980@business.net",
+    "phone": "(945) 840-5853",
+    "ssn": "517 80 5974",
+    "dob": "08-12-1964",
+    "address": "6391 Fifth Ave",
+    "city": "Boston",
+    "state": "CA"
+  }
+}

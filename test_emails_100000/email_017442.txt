@@ -1,0 +1,9 @@
+contact:
+  name: Edward Stewart
+  email: edward.stewart28@example.com
+  phone: (394) 797-7448
+  ssn: 133 46 4141
+  dob: 03-09-1960
+  address: 9727 Cedar Dr
+  city: Chicago
+  state: NY

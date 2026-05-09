@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Rodriguez",
+    "email": "steven.rodriguez5393@mail.com",
+    "phone": "784 853 5719",
+    "ssn": "396 84 5468",
+    "dob": "12/9/2000",
+    "address": "8563 Elm Dr",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

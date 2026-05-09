@@ -1,0 +1,9 @@
+contact:
+  name: Richard Flores
+  email: richard.flores8209@gmail.com
+  phone: 859-545-5349
+  ssn: 137 94 6267
+  dob: 8/23/2003
+  address: 6613 Spring Rd
+  city: Dallas
+  state: VA

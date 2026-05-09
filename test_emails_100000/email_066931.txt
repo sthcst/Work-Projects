@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Moore
+  email: shirley.moore2851@company.com
+  phone: (791) 722-8168
+  ssn: 783-86-6255
+  dob: 09/05/1994
+  address: 7819 Park Rd
+  city: Chicago
+  state: AZ

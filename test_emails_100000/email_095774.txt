@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Sanchez,ryan.sanchez4955@yahoo.com,(589) 614-5123,946 48 7617,08/11/1954,"3858 First Ln",Seattle,WI

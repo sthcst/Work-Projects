@@ -1,0 +1,9 @@
+contact:
+  name: William Moore
+  email: william.moore9825@example.com
+  phone: (890) 394-5392
+  ssn: 261-45-9423
+  dob: 21/03/2004
+  address: 9311 Sixth Dr
+  city: Austin
+  state: CA

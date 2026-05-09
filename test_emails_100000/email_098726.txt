@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Peterson,richard.peterson8954@example.com,+1 617-865-3323,188537776,1/11/1998,"1265 North St",Chicago,CA

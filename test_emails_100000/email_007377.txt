@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Williams
+  email: katherine.williams5811@company.com
+  phone: (245) 431-5109
+  ssn: 833 94 4219
+  dob: 08/27/1994
+  address: 77 Sixth St
+  city: San Jose
+  state: MO

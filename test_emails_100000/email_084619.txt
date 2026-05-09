@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Jackson,nicole.jackson5526@business.net,(523) 644-9416,432-71-4972,06-23-1965,"8674 West Ave",Houston,MA

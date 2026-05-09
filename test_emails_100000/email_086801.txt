@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Carter,ronald.carter3703@mail.com,619-773-8524,894-88-4749,04/05/1997,"1335 Second Way",New York,OH

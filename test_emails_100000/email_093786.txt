@@ -1,0 +1,14 @@
+INVOICE 215140
+
+Bill To:
+Name: Sarah Thomas
+Email: sarah.thomas2315@gmail.com
+Phone: (984) 672-8435
+SSN: 400735622
+
+Address: 4895 Fourth St
+Jacksonville, TX
+
+Date of Birth: 02/01/1977
+
+Amount Due: $2120

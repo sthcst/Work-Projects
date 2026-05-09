@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Gonzalez
+  email: anthony.gonzalez116@yahoo.com
+  phone: (423) 869-4002
+  ssn: 852-36-3377
+  dob: 02/12/1964
+  address: 310 South Blvd
+  city: Denver
+  state: DC

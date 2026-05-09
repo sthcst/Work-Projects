@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Thompson",
+    "email": "amanda.thompson693@business.net",
+    "phone": "387 745 4468",
+    "ssn": "869 06 4735",
+    "dob": "08/12/1952",
+    "address": "778 Birch Way",
+    "city": "New York",
+    "state": "PA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Flores",
+    "email": "timothy.flores2523@gmail.com",
+    "phone": "984 279 3551",
+    "ssn": "861579082",
+    "dob": "09/17/2003",
+    "address": "3304 Pine Rd",
+    "city": "Los Angeles",
+    "state": "NJ"
+  }
+}

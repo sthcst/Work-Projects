@@ -1,0 +1,14 @@
+INVOICE 713389
+
+Bill To:
+Name: Ryan Thomas
+Email: ryan.thomas7945@company.com
+Phone: +1 954-772-2920
+SSN: 463 43 9680
+
+Address: 5093 Fourth Ln
+Phoenix, WA
+
+Date of Birth: 05/04/1956
+
+Amount Due: $6396

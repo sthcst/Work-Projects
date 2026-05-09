@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Reed",
+    "email": "kenneth.reed8276@yahoo.com",
+    "phone": "(754) 695-1453",
+    "ssn": "110 60 8783",
+    "dob": "06-20-1961",
+    "address": "1436 Pine Blvd",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

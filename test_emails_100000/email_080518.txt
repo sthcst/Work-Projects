@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Parker,ryan.parker4477@business.net,759-594-1743,241-85-1710,07/04/1967,"6030 Fourth Way",Denver,MD

@@ -1,0 +1,11 @@
+INCIDENT REPORT
+
+Reported By: James Cooper
+Contact Email: james.cooper1490@example.com
+Contact Phone: +1 602-510-8950
+ID/SSN: 237 41 2188
+Residence: 8224 East Ln, Phoenix, CO
+Birth Date: 02/04/1986
+
+Description: Security incident investigation in progress.
+Status: PENDING

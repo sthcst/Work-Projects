@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Smith,sarah.smith196@yahoo.com,532-486-8336,481184562,24/04/1957,"5531 Park St",San Diego,MO

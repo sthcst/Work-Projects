@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Rodriguez",
+    "email": "amanda.rodriguez7947@yahoo.com",
+    "phone": "(467) 500-3178",
+    "ssn": "962 04 1627",
+    "dob": "12/16/1989",
+    "address": "3655 Cedar Court",
+    "city": "Austin",
+    "state": "WI"
+  }
+}

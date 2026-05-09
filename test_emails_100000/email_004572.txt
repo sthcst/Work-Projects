@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Thompson,angela.thompson4708@example.com,365 839 4830,257 42 5288,25/03/1976,"6092 Second Blvd",San Jose,NY

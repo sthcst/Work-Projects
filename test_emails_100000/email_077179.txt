@@ -1,0 +1,14 @@
+INVOICE 924641
+
+Bill To:
+Name: Cynthia Thompson
+Email: cynthia.thompson7487@company.com
+Phone: +1 949-794-6392
+SSN: 095524902
+
+Address: 395 Third Rd
+Washington, DC
+
+Date of Birth: 11/28/1977
+
+Amount Due: $3446

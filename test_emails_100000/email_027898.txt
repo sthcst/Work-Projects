@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Lee",
+    "email": "amanda.lee5657@yahoo.com",
+    "phone": "+1 854-939-1050",
+    "ssn": "481664215",
+    "dob": "11-07-1955",
+    "address": "8249 Birch St",
+    "city": "Chicago",
+    "state": "CO"
+  }
+}

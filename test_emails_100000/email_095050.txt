@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Wilson
+  email: ashley.wilson4529@work.org
+  phone: 944-706-5692
+  ssn: 157-88-6540
+  dob: 01/07/2003
+  address: 2591 East St
+  city: Chicago
+  state: TX

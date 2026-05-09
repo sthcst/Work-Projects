@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Anderson",
+    "email": "maria.anderson2380@example.com",
+    "phone": "820-859-7256",
+    "ssn": "464-80-7016",
+    "dob": "10/14/1967",
+    "address": "3309 Birch Rd",
+    "city": "Seattle",
+    "state": "FL"
+  }
+}

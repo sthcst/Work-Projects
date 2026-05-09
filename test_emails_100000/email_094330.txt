@@ -1,0 +1,9 @@
+contact:
+  name: Angela Lopez
+  email: angela.lopez132@yahoo.com
+  phone: +1 249-440-3352
+  ssn: 271-24-4327
+  dob: 07/04/1998
+  address: 2424 Sixth Rd
+  city: Dallas
+  state: CA

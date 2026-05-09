@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Sanchez
+  email: samantha.sanchez8040@work.org
+  phone: +1 553-365-6299
+  ssn: 442 33 8712
+  dob: 09/10/1974
+  address: 9749 Fifth St
+  city: Washington
+  state: CA

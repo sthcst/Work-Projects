@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Johnson",
+    "email": "angela.johnson4925@mail.com",
+    "phone": "262-945-1956",
+    "ssn": "571 89 7560",
+    "dob": "3/13/1997",
+    "address": "1583 Oak Ln",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

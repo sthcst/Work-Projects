@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Stewart",
+    "email": "kimberly.stewart3637@example.com",
+    "phone": "906-369-8482",
+    "ssn": "142694319",
+    "dob": "18/10/1986",
+    "address": "1985 Pine Ln",
+    "city": "Boston",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Cooper
+  email: jessica.cooper2505@business.net
+  phone: +1 958-332-3823
+  ssn: 588-44-3057
+  dob: 2/8/1979
+  address: 6360 Park Way
+  city: San Diego
+  state: TN

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Guerrero,donald.guerrero5842@example.com,+1 944-249-2710,002029369,04-26-1976,"7752 Third Dr",Dallas,TX

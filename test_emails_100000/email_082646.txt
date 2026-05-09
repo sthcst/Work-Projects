@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Rogers",
+    "email": "michelle.rogers288@business.net",
+    "phone": "(762) 940-3919",
+    "ssn": "895 36 4056",
+    "dob": "01-15-1964",
+    "address": "8745 Park Ln",
+    "city": "Austin",
+    "state": "AZ"
+  }
+}

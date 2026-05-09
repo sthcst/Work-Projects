@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Sanchez
+  email: samantha.sanchez9945@mail.com
+  phone: (879) 386-8178
+  ssn: 083 70 2827
+  dob: 05-22-2005
+  address: 6209 Park St
+  city: Washington
+  state: AZ

@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Rodriguez
+  email: kimberly.rodriguez2819@example.com
+  phone: 282 625 3023
+  ssn: 947 23 8210
+  dob: 3/10/1981
+  address: 9706 Third Blvd
+  city: Boston
+  state: MO

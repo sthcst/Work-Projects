@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Anderson,donald.anderson610@yahoo.com,+1 910-657-3455,384897592,09-21-2000,"4681 West Dr",Boston,MA

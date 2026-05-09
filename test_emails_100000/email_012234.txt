@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Anderson",
+    "email": "david.anderson1599@example.com",
+    "phone": "(910) 260-9486",
+    "ssn": "548548885",
+    "dob": "06-08-1999",
+    "address": "1948 South Rd",
+    "city": "Jacksonville",
+    "state": "MA"
+  }
+}

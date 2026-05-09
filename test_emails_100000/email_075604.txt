@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Hall",
+    "email": "joseph.hall8839@mail.com",
+    "phone": "+1 556-926-8380",
+    "ssn": "052-01-1067",
+    "dob": "13/02/1965",
+    "address": "5941 Fifth Ave",
+    "city": "Boston",
+    "state": "FL"
+  }
+}

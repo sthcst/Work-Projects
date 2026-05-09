@@ -1,0 +1,9 @@
+contact:
+  name: David Rogers
+  email: david.rogers9543@yahoo.com
+  phone: 523-896-5966
+  ssn: 396-32-8308
+  dob: 10/1/1962
+  address: 6860 Third Dr
+  city: Austin
+  state: VA

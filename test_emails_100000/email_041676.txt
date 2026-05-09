@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Murillo",
+    "email": "anna.murillo9251@yahoo.com",
+    "phone": "+1 737-888-6044",
+    "ssn": "938 42 1689",
+    "dob": "5/16/1998",
+    "address": "4474 Elm Rd",
+    "city": "Boston",
+    "state": "WI"
+  }
+}

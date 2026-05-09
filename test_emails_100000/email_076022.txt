@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Ortiz
+  email: brenda.ortiz7080@company.com
+  phone: 241-384-7657
+  ssn: 940 08 2484
+  dob: 09/07/1990
+  address: 6094 Spring St
+  city: Austin
+  state: WA

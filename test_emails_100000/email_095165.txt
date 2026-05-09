@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Harris
+  email: cynthia.harris9610@business.net
+  phone: 588 732 3473
+  ssn: 047749588
+  dob: 05/16/1950
+  address: 2884 South Blvd
+  city: Chicago
+  state: CA

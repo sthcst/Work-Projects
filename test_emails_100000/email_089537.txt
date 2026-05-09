@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Clark",
+    "email": "shirley.clark5163@gmail.com",
+    "phone": "+1 581-268-4955",
+    "ssn": "001-77-5626",
+    "dob": "7/21/1952",
+    "address": "2870 Birch Dr",
+    "city": "Washington",
+    "state": "FL"
+  }
+}

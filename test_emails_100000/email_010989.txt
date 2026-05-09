@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Taylor",
+    "email": "helen.taylor641@mail.com",
+    "phone": "+1 466-683-9473",
+    "ssn": "973 66 9024",
+    "dob": "03-17-1993",
+    "address": "6460 Oak Ave",
+    "city": "Washington",
+    "state": "WA"
+  }
+}

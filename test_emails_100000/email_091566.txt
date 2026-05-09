@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Delgado
+  email: ronald.delgado5538@gmail.com
+  phone: 530-818-5599
+  ssn: 800 49 7546
+  dob: 3/16/1967
+  address: 2989 West Dr
+  city: San Antonio
+  state: AZ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Thomas,jessica.thomas1469@company.com,920 892 8172,682 21 4169,03-26-1995,"608 Cedar Dr",San Antonio,MA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Reyes",
+    "email": "jennifer.reyes9038@yahoo.com",
+    "phone": "998 962 3947",
+    "ssn": "141373570",
+    "dob": "3/19/1981",
+    "address": "9847 Cedar Rd",
+    "city": "San Jose",
+    "state": "AZ"
+  }
+}

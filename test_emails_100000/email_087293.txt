@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Harris
+  email: sarah.harris5763@example.com
+  phone: (532) 460-5485
+  ssn: 146906871
+  dob: 01-22-1980
+  address: 1832 Second Way
+  city: Philadelphia
+  state: CA

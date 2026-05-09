@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Lee,samantha.lee3305@mail.com,+1 371-582-9689,873 69 2989,11-03-1986,"8260 Cedar Court",Austin,IL

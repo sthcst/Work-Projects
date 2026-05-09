@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Moore",
+    "email": "helen.moore9952@mail.com",
+    "phone": "(734) 757-6219",
+    "ssn": "374183057",
+    "dob": "02/25/1985",
+    "address": "7024 Pine St",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

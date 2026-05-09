@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Thompson",
+    "email": "deborah.thompson5819@example.com",
+    "phone": "(242) 824-3755",
+    "ssn": "648848022",
+    "dob": "18/01/1976",
+    "address": "9325 Fourth Dr",
+    "city": "San Antonio",
+    "state": "NJ"
+  }
+}

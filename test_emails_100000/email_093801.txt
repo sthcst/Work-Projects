@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Johnson,katherine.johnson6690@gmail.com,293 964 7044,017038131,7/16/1986,"8055 Cedar Ln",Seattle,TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Jackson,edward.jackson9978@business.net,+1 550-621-9745,656863182,01-10-1951,"7884 East St",Chicago,NY

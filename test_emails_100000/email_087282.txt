@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Cooper,mark.cooper2543@gmail.com,459-402-3903,077-52-6936,06/01/1995,"9051 Summer Ln",Houston,MA

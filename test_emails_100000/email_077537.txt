@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Clark
+  email: katherine.clark6456@work.org
+  phone: (669) 392-3368
+  ssn: 193734013
+  dob: 04/02/1999
+  address: 8809 Fifth Dr
+  city: Washington
+  state: MA

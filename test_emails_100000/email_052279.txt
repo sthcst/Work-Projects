@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Young",
+    "email": "david.young2052@example.com",
+    "phone": "(514) 958-5150",
+    "ssn": "546 85 1095",
+    "dob": "09/22/1991",
+    "address": "2038 Pine Ln",
+    "city": "Chicago",
+    "state": "AZ"
+  }
+}

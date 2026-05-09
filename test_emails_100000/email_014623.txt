@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Campbell,richard.campbell8923@example.com,+1 489-230-3836,748785808,01/06/1956,"2644 First St",Chicago,CO

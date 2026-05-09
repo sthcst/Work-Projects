@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Gomez,david.gomez2786@work.org,870 230 1551,444 95 8363,10-26-1988,"2168 Park Court",Seattle,MI

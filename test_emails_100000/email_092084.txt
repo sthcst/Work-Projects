@@ -1,0 +1,9 @@
+contact:
+  name: Christine Williams
+  email: christine.williams7394@mail.com
+  phone: +1 440-806-8971
+  ssn: 352489726
+  dob: 28/06/1982
+  address: 4687 North Blvd
+  city: Washington
+  state: MD

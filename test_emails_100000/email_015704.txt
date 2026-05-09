@@ -1,0 +1,12 @@
+SUPPORT TICKET #98854
+
+Customer: Jane Thompson
+Email: jane.thompson9037@example.com
+Phone: 406 897 9566
+Account: 585 47 8288
+
+Issue Description: Technical problem reported
+DOB on file: 02/16/1966
+Address: 4697 East Way, San Jose, MO
+
+Status: OPEN

@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Thomas
+  email: shirley.thomas1446@company.com
+  phone: 371-732-3668
+  ssn: 286805002
+  dob: 4/6/1985
+  address: 7217 First Ln
+  city: Washington
+  state: OH

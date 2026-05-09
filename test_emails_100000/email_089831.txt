@@ -1,0 +1,12 @@
+SUPPORT TICKET #15694
+
+Customer: Robert Evans
+Email: robert.evans1996@example.com
+Phone: 461-568-5543
+Account: 535-46-8734
+
+Issue Description: Technical problem reported
+DOB on file: 21/10/1990
+Address: 4481 Maple Ln, Los Angeles, MD
+
+Status: OPEN

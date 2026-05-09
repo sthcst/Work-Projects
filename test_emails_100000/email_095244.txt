@@ -1,0 +1,9 @@
+contact:
+  name: Brian Romero
+  email: brian.romero1350@mail.com
+  phone: (214) 250-1498
+  ssn: 384374624
+  dob: 04-19-1960
+  address: 8633 Park Rd
+  city: Boston
+  state: MD

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Matthew Cooper,matthew.cooper335@example.com,768 496 6109,644955981,10/26/1981,"9902 Fourth St",New York,AZ

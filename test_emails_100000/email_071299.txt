@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Delgado
+  email: kimberly.delgado6434@business.net
+  phone: 415 379 7962
+  ssn: 861 42 4007
+  dob: 24/08/1952
+  address: 3647 Summer Rd
+  city: Houston
+  state: CA

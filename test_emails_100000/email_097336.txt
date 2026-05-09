@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Ramirez",
+    "email": "jessica.ramirez9230@business.net",
+    "phone": "+1 261-560-5664",
+    "ssn": "795 07 2646",
+    "dob": "04-17-1971",
+    "address": "4369 Pine Court",
+    "city": "San Jose",
+    "state": "OH"
+  }
+}

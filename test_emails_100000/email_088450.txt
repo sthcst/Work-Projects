@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Lewis",
+    "email": "angela.lewis2649@outlook.com",
+    "phone": "489 953 2927",
+    "ssn": "842967876",
+    "dob": "09/10/1983",
+    "address": "3623 Maple Court",
+    "city": "Houston",
+    "state": "CA"
+  }
+}

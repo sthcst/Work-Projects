@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Davis,andrew.davis4613@mail.com,600 952 4770,088 91 9425,03/05/1995,"5961 Second Ave",San Diego,AZ

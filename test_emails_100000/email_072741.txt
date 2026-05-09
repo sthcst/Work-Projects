@@ -1,0 +1,14 @@
+INVOICE 469328
+
+Bill To:
+Name: Emily Roberts
+Email: emily.roberts8674@example.com
+Phone: (242) 344-5463
+SSN: 800-85-8246
+
+Address: 6206 South Ave
+Philadelphia, NJ
+
+Date of Birth: 09-17-1997
+
+Amount Due: $1391

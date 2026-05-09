@@ -1,0 +1,14 @@
+INVOICE 991705
+
+Bill To:
+Name: Richard Taylor
+Email: richard.taylor5961@work.org
+Phone: +1 232-300-4629
+SSN: 183-07-6290
+
+Address: 5803 Summer Rd
+San Diego, VA
+
+Date of Birth: 04-13-1974
+
+Amount Due: $3313

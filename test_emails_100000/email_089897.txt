@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Serrano",
+    "email": "robert.serrano6342@yahoo.com",
+    "phone": "+1 751-904-6396",
+    "ssn": "247-10-8211",
+    "dob": "12/21/1955",
+    "address": "8155 Maple Blvd",
+    "city": "San Diego",
+    "state": "MI"
+  }
+}

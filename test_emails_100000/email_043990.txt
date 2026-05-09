@@ -1,0 +1,14 @@
+INVOICE 132286
+
+Bill To:
+Name: Pamela Brown
+Email: pamela.brown5337@yahoo.com
+Phone: 478-489-5779
+SSN: 314251519
+
+Address: 3097 Oak Ln
+Seattle, TX
+
+Date of Birth: 2/12/1991
+
+Amount Due: $6644

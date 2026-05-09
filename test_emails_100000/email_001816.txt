@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Lee,amanda.lee6388@work.org,+1 849-562-1342,288 52 2542,11/6/1992,"8451 Summer Ln",Denver,FL

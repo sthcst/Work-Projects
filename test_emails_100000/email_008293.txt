@@ -1,0 +1,14 @@
+INVOICE 923874
+
+Bill To:
+Name: Sarah Thompson
+Email: sarah.thompson1367@yahoo.com
+Phone: 233-623-9336
+SSN: 579-10-6303
+
+Address: 5129 Pine Dr
+Dallas, MO
+
+Date of Birth: 28/05/1990
+
+Amount Due: $3730

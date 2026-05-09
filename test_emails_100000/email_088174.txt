@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Ramirez
+  email: kimberly.ramirez4237@business.net
+  phone: +1 580-855-2596
+  ssn: 891471968
+  dob: 6/19/1991
+  address: 7799 North Dr
+  city: Boston
+  state: MA

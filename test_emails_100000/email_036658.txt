@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Jimenez",
+    "email": "anthony.jimenez4145@gmail.com",
+    "phone": "+1 804-814-2390",
+    "ssn": "528-59-8579",
+    "dob": "4/1/1986",
+    "address": "837 Third St",
+    "city": "Washington",
+    "state": "MI"
+  }
+}

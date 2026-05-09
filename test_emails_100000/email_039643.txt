@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Collins
+  email: kimberly.collins2008@mail.com
+  phone: (950) 853-5352
+  ssn: 562279474
+  dob: 04-09-2001
+  address: 6890 Maple Ln
+  city: Washington
+  state: CA

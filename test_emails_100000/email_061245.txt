@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Flores,nicole.flores4794@business.net,617-576-6699,499041326,07/12/1976,"7174 Second Rd",Houston,MI

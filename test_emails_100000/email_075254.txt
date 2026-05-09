@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Reed",
+    "email": "sarah.reed7886@example.com",
+    "phone": "(741) 483-1463",
+    "ssn": "855-99-1663",
+    "dob": "08-04-1969",
+    "address": "2917 Oak St",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

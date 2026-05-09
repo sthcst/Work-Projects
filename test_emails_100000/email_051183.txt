@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Dominguez,richard.dominguez6072@yahoo.com,925 988 1579,219 36 1436,12/7/1954,"935 South Dr",Seattle,CA

@@ -1,0 +1,14 @@
+INVOICE 630640
+
+Bill To:
+Name: Samantha Walker
+Email: samantha.walker9882@work.org
+Phone: (242) 595-3064
+SSN: 512-50-3202
+
+Address: 1345 Elm Dr
+Chicago, NC
+
+Date of Birth: 02/01/1973
+
+Amount Due: $9848

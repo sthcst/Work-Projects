@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Bell",
+    "email": "angela.bell6327@gmail.com",
+    "phone": "340 567 9228",
+    "ssn": "999608436",
+    "dob": "5/12/2004",
+    "address": "7897 Spring Rd",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

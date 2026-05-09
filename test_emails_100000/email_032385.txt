@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Sanchez
+  email: samantha.sanchez6406@mail.com
+  phone: (380) 669-5715
+  ssn: 908835953
+  dob: 01/25/1974
+  address: 4503 Spring Court
+  city: New York
+  state: FL

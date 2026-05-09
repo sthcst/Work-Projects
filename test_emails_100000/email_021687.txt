@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Robinson",
+    "email": "rachel.robinson1135@yahoo.com",
+    "phone": "262-612-6821",
+    "ssn": "139 62 4203",
+    "dob": "02/01/1982",
+    "address": "7192 First Rd",
+    "city": "Dallas",
+    "state": "MA"
+  }
+}

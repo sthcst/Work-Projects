@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Walker,sarah.walker5258@gmail.com,839-367-5583,531318376,2/13/1969,"4209 Main Court",Phoenix,GA

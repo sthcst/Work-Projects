@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Clark",
+    "email": "john.clark2236@example.com",
+    "phone": "375 817 4281",
+    "ssn": "386064538",
+    "dob": "06-03-2000",
+    "address": "3149 First Rd",
+    "city": "Chicago",
+    "state": "IL"
+  }
+}

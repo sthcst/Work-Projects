@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Rodriguez
+  email: stephanie.rodriguez6778@outlook.com
+  phone: +1 251-224-3813
+  ssn: 061864175
+  dob: 5/20/1962
+  address: 9221 Summer Ln
+  city: Phoenix
+  state: FL

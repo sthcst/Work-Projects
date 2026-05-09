@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Young,nicholas.young3588@yahoo.com,868-912-2354,837-23-2638,9/2/2002,"5728 Spring Ln",Washington,NC

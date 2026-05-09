@@ -1,0 +1,14 @@
+INVOICE 978967
+
+Bill To:
+Name: Michelle Perez
+Email: michelle.perez8701@company.com
+Phone: 717-609-7041
+SSN: 175 89 5635
+
+Address: 9529 Maple Way
+San Jose, WA
+
+Date of Birth: 19/09/1950
+
+Amount Due: $8967

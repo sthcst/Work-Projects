@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Collins
+  email: pamela.collins809@mail.com
+  phone: 758 728 1723
+  ssn: 283 64 7732
+  dob: 04/24/1956
+  address: 602 Cedar Dr
+  city: New York
+  state: TX

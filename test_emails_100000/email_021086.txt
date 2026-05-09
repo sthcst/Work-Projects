@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Miller",
+    "email": "kenneth.miller5040@example.com",
+    "phone": "(378) 825-2349",
+    "ssn": "810-77-3163",
+    "dob": "2/12/1977",
+    "address": "3410 Sixth Way",
+    "city": "Phoenix",
+    "state": "AZ"
+  }
+}

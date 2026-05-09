@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Murillo
+  email: ashley.murillo4040@outlook.com
+  phone: 882 646 7655
+  ssn: 156 70 4677
+  dob: 11/05/1976
+  address: 6243 Spring Ave
+  city: Los Angeles
+  state: MA

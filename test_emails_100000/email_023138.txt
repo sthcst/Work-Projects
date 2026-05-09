@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Garcia,nicholas.garcia4603@company.com,(479) 235-3843,171-68-6813,02/26/1952,"8744 Park Ln",Dallas,NJ

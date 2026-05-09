@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Garcia
+  email: daniel.garcia5646@company.com
+  phone: (411) 578-1684
+  ssn: 527927293
+  dob: 7/3/1961
+  address: 4907 Summer Rd
+  city: Philadelphia
+  state: OH

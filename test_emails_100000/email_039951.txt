@@ -1,0 +1,14 @@
+INVOICE 731235
+
+Bill To:
+Name: Shirley Flores
+Email: shirley.flores7276@company.com
+Phone: 944 798 5813
+SSN: 984 06 1722
+
+Address: 3118 Fourth Dr
+Houston, PA
+
+Date of Birth: 21/01/1985
+
+Amount Due: $2438

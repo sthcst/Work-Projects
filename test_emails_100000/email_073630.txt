@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Martinez,ryan.martinez8218@gmail.com,993-812-2989,397-26-1987,08/24/1954,"8167 North Ave",Dallas,CO

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Parker",
+    "email": "richard.parker2454@company.com",
+    "phone": "436-990-9260",
+    "ssn": "460 89 2142",
+    "dob": "03-18-1978",
+    "address": "5804 Park Ave",
+    "city": "Houston",
+    "state": "IL"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Alvarado",
+    "email": "michelle.alvarado8683@company.com",
+    "phone": "680-707-8954",
+    "ssn": "793-76-3742",
+    "dob": "02/04/1982",
+    "address": "3494 Summer Ave",
+    "city": "New York",
+    "state": "OH"
+  }
+}

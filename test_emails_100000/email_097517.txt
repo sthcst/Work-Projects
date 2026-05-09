@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Lopez,sarah.lopez5858@example.com,+1 632-811-3748,068458050,02/05/1956,"417 East St",Boston,NY

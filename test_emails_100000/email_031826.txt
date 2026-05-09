@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Gomez,anna.gomez180@outlook.com,521-681-8748,982102769,4/27/1990,"5118 West Blvd",Phoenix,CA

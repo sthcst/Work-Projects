@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Nunez,mark.nunez4579@gmail.com,630-205-8997,795-29-5460,12/03/2003,"6322 Third Rd",Dallas,TX

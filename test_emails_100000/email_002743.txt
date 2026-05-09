@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Jimenez,jacob.jimenez1774@work.org,647 586 5046,321-63-1016,17/12/1954,"8526 Birch Rd",Los Angeles,NY

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Ramirez",
+    "email": "gary.ramirez3123@gmail.com",
+    "phone": "539 883 3557",
+    "ssn": "857826442",
+    "dob": "28/03/2005",
+    "address": "1408 Park Ave",
+    "city": "Phoenix",
+    "state": "OH"
+  }
+}

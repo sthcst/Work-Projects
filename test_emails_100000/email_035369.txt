@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Alvarado,sarah.alvarado3581@company.com,+1 542-353-8087,846 14 4808,01-15-1978,"4357 Spring Ave",Austin,MD

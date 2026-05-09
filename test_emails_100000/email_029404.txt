@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Jackson
+  email: lisa.jackson87@gmail.com
+  phone: 845 711 7546
+  ssn: 689-39-1383
+  dob: 01/04/1957
+  address: 6298 Maple Blvd
+  city: Philadelphia
+  state: TX

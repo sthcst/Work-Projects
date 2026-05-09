@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Matthew Ortiz,matthew.ortiz3467@business.net,(449) 841-6977,734781797,08/18/1996,"2757 Summer Way",San Jose,MI

@@ -1,0 +1,14 @@
+INVOICE 102909
+
+Bill To:
+Name: Kevin Gomez
+Email: kevin.gomez5651@example.com
+Phone: 224-613-8747
+SSN: 041927220
+
+Address: 4026 Fifth Ln
+Jacksonville, CA
+
+Date of Birth: 07-22-2000
+
+Amount Due: $7475

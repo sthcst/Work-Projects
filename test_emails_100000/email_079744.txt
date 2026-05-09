@@ -1,0 +1,9 @@
+contact:
+  name: Steven Walker
+  email: steven.walker3315@yahoo.com
+  phone: (353) 869-4991
+  ssn: 577-99-5738
+  dob: 11/22/2001
+  address: 8940 Spring Ln
+  city: Phoenix
+  state: DC

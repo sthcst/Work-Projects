@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Campbell",
+    "email": "shirley.campbell1273@work.org",
+    "phone": "(431) 447-7265",
+    "ssn": "849724903",
+    "dob": "05/02/1956",
+    "address": "9139 First Rd",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

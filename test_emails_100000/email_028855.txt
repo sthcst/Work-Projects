@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Phillips",
+    "email": "jennifer.phillips331@work.org",
+    "phone": "243-550-1935",
+    "ssn": "149 38 7935",
+    "dob": "10-25-1957",
+    "address": "2477 Third Ave",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

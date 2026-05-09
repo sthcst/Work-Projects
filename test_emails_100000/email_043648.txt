@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Lopez",
+    "email": "pamela.lopez6082@company.com",
+    "phone": "492 559 6066",
+    "ssn": "828-86-9101",
+    "dob": "27/08/1974",
+    "address": "195 Summer Blvd",
+    "city": "San Jose",
+    "state": "NY"
+  }
+}

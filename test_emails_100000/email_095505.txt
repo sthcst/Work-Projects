@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Davis,daniel.davis8370@mail.com,941-938-3274,714 13 9637,5/24/1969,"306 Spring Court",Jacksonville,WA

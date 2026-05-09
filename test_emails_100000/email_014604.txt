@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Lee
+  email: nicholas.lee849@mail.com
+  phone: +1 750-633-2164
+  ssn: 230222422
+  dob: 11/8/1997
+  address: 2509 Spring Ave
+  city: Jacksonville
+  state: AZ

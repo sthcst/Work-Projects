@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Lewis",
+    "email": "matthew.lewis8624@mail.com",
+    "phone": "673-621-6527",
+    "ssn": "595-49-5965",
+    "dob": "12/01/1954",
+    "address": "2381 South Ln",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

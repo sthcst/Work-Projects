@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Rodriguez",
+    "email": "michael.rodriguez5231@yahoo.com",
+    "phone": "939 410 9064",
+    "ssn": "419-50-4487",
+    "dob": "04/10/1972",
+    "address": "4364 East Court",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

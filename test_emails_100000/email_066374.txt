@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Morgan,anthony.morgan1395@mail.com,773-449-3716,300119823,12/24/1988,"7420 Second Dr",Seattle,IL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Parker",
+    "email": "william.parker2052@gmail.com",
+    "phone": "375-644-4003",
+    "ssn": "180 31 5759",
+    "dob": "09/21/1961",
+    "address": "5045 Birch Way",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

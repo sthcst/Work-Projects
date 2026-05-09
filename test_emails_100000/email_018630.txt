@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Peterson",
+    "email": "angela.peterson3850@work.org",
+    "phone": "308-301-6000",
+    "ssn": "214-81-2296",
+    "dob": "11/28/1968",
+    "address": "738 Third Blvd",
+    "city": "Washington",
+    "state": "TN"
+  }
+}

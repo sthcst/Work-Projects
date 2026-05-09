@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Nelson",
+    "email": "jane.nelson7646@business.net",
+    "phone": "945 433 9978",
+    "ssn": "890 68 2305",
+    "dob": "08/14/1991",
+    "address": "8489 Summer Ln",
+    "city": "Austin",
+    "state": "NY"
+  }
+}

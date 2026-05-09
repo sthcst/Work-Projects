@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Peterson",
+    "email": "joseph.peterson1180@mail.com",
+    "phone": "+1 758-649-4226",
+    "ssn": "074-47-3195",
+    "dob": "10/03/1988",
+    "address": "7649 Second St",
+    "city": "San Diego",
+    "state": "CO"
+  }
+}

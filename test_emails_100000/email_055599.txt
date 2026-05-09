@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Gomez,helen.gomez3545@gmail.com,+1 949-341-2612,852-98-3150,09-07-1992,"3604 West Ln",San Diego,TN

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Parker",
+    "email": "nicholas.parker3658@outlook.com",
+    "phone": "(296) 257-7350",
+    "ssn": "411 22 9157",
+    "dob": "20/09/1964",
+    "address": "3851 North Blvd",
+    "city": "Austin",
+    "state": "MI"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Ortiz,stephanie.ortiz6249@company.com,+1 842-397-7235,994-79-3859,07/01/1984,"4716 Fifth Dr",Austin,WA

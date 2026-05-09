@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Peterson",
+    "email": "lauren.peterson4487@gmail.com",
+    "phone": "+1 280-656-2655",
+    "ssn": "581-70-5990",
+    "dob": "4/15/1955",
+    "address": "2431 Cedar Court",
+    "city": "San Antonio",
+    "state": "AZ"
+  }
+}

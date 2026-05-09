@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Phillips",
+    "email": "katherine.phillips5783@business.net",
+    "phone": "955-347-9023",
+    "ssn": "608-94-4125",
+    "dob": "27/05/1955",
+    "address": "38 Maple St",
+    "city": "New York",
+    "state": "WA"
+  }
+}

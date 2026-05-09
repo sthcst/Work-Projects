@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Thompson",
+    "email": "anna.thompson7323@example.com",
+    "phone": "769-987-8833",
+    "ssn": "811 52 5932",
+    "dob": "03/11/1967",
+    "address": "3467 Cedar Blvd",
+    "city": "Denver",
+    "state": "FL"
+  }
+}

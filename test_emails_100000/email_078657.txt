@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Johnson",
+    "email": "andrew.johnson8981@company.com",
+    "phone": "+1 691-958-4891",
+    "ssn": "734856733",
+    "dob": "05/20/1961",
+    "address": "3932 West Rd",
+    "city": "San Diego",
+    "state": "CO"
+  }
+}

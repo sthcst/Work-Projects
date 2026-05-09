@@ -1,0 +1,14 @@
+INVOICE 817108
+
+Bill To:
+Name: Helen Miller
+Email: helen.miller9823@work.org
+Phone: 970 695 2220
+SSN: 134109231
+
+Address: 3728 Fifth Rd
+San Jose, DC
+
+Date of Birth: 12/7/1982
+
+Amount Due: $3671

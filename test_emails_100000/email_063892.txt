@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Garcia",
+    "email": "david.garcia5062@company.com",
+    "phone": "+1 819-438-3361",
+    "ssn": "439 63 8755",
+    "dob": "12/28/1986",
+    "address": "2918 Fifth Way",
+    "city": "Dallas",
+    "state": "MA"
+  }
+}

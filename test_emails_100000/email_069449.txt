@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Thompson",
+    "email": "sarah.thompson2153@mail.com",
+    "phone": "+1 266-687-3446",
+    "ssn": "893546921",
+    "dob": "10/08/1987",
+    "address": "3746 Fourth Ave",
+    "city": "Philadelphia",
+    "state": "VA"
+  }
+}

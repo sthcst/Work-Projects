@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Ramirez,sarah.ramirez2507@mail.com,630 741 1481,741525395,6/23/1980,"5635 Pine Ln",Jacksonville,AZ

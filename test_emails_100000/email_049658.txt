@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Smith",
+    "email": "emily.smith7969@mail.com",
+    "phone": "740 507 9179",
+    "ssn": "733-78-2526",
+    "dob": "1/17/1959",
+    "address": "2830 North Ln",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

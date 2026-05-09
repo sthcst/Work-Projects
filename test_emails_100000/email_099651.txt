@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Stewart
+  email: rebecca.stewart84@mail.com
+  phone: 259-930-9448
+  ssn: 278 11 6016
+  dob: 05/06/1954
+  address: 1551 Sixth Blvd
+  city: Jacksonville
+  state: WA

@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Reeves
+  email: kenneth.reeves2396@mail.com
+  phone: +1 354-260-6274
+  ssn: 352 21 9705
+  dob: 05/09/1971
+  address: 9560 Sixth Court
+  city: Chicago
+  state: MA

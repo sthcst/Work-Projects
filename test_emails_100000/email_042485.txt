@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Martin,christopher.martin8365@company.com,422-263-9614,143-34-4937,12/25/1960,"4288 First Ln",Los Angeles,FL

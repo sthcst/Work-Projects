@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Anderson,mark.anderson3144@business.net,789-329-9575,144-22-5243,12/07/1952,"2284 Fifth Dr",Boston,TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Clark,angela.clark2373@work.org,(231) 910-1837,766-20-8663,07/01/1955,"6400 Oak Dr",Philadelphia,IL

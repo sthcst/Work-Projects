@@ -1,0 +1,12 @@
+SUPPORT TICKET #64942
+
+Customer: Lisa Ramirez
+Email: lisa.ramirez7451@example.com
+Phone: 812 711 8179
+Account: 151-04-3605
+
+Issue Description: Technical problem reported
+DOB on file: 01/05/1986
+Address: 610 Second Way, San Jose, NC
+
+Status: OPEN

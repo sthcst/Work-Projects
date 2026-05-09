@@ -1,0 +1,14 @@
+INVOICE 957289
+
+Bill To:
+Name: George Smith
+Email: george.smith4071@company.com
+Phone: 919-355-3645
+SSN: 883 22 2619
+
+Address: 3699 Fourth Blvd
+Denver, MI
+
+Date of Birth: 11/07/1962
+
+Amount Due: $8376

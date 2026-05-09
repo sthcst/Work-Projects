@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Perez",
+    "email": "daniel.perez2084@company.com",
+    "phone": "506 904 6420",
+    "ssn": "284479671",
+    "dob": "12/8/1969",
+    "address": "6179 Summer Court",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

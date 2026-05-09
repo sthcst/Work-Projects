@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Miller,edward.miller2211@outlook.com,+1 615-269-3804,800-99-7129,12-24-1970,"4326 Fourth Rd",Seattle,AZ

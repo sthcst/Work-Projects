@@ -1,0 +1,14 @@
+INVOICE 763215
+
+Bill To:
+Name: John Romero
+Email: john.romero4083@business.net
+Phone: 308 554 5597
+SSN: 632-90-9993
+
+Address: 1298 Oak Blvd
+San Jose, TX
+
+Date of Birth: 08-09-2002
+
+Amount Due: $7718

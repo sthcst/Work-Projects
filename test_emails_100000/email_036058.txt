@@ -1,0 +1,14 @@
+INVOICE 573411
+
+Bill To:
+Name: Maria Hall
+Email: maria.hall2596@outlook.com
+Phone: 726 850 1594
+SSN: 862 26 2003
+
+Address: 6715 Summer Ave
+Los Angeles, WA
+
+Date of Birth: 11/26/1992
+
+Amount Due: $2168

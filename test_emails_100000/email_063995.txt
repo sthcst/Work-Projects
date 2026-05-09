@@ -1,0 +1,9 @@
+contact:
+  name: John Reed
+  email: john.reed7838@company.com
+  phone: (898) 800-5311
+  ssn: 709845538
+  dob: 7/11/1998
+  address: 157 Cedar Dr
+  city: Dallas
+  state: IL

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Johnson,lisa.johnson225@outlook.com,516-969-7928,105-25-4502,08/20/1975,"709 Cedar Ln",Washington,TX

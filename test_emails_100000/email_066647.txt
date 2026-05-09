@@ -1,0 +1,9 @@
+contact:
+  name: Christine Walker
+  email: christine.walker4198@business.net
+  phone: 697 572 6227
+  ssn: 989-50-6930
+  dob: 05/04/1996
+  address: 725 Third Ln
+  city: Los Angeles
+  state: TX

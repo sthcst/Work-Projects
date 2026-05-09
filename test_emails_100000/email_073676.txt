@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Gomez,helen.gomez4033@yahoo.com,478 238 1764,431 71 4823,14/08/1971,"5764 Maple Dr",Austin,NC

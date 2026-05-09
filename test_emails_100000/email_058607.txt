@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Murillo,brian.murillo7598@yahoo.com,(678) 436-3293,719-06-8555,2/3/1964,"2242 Third Ave",Houston,TX

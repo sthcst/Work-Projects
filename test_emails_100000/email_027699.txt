@@ -1,0 +1,14 @@
+INVOICE 232726
+
+Bill To:
+Name: Jacob Morris
+Email: jacob.morris2721@company.com
+Phone: 920-887-9345
+SSN: 742-04-3570
+
+Address: 48 Fifth Way
+New York, TX
+
+Date of Birth: 04/10/1966
+
+Amount Due: $9863

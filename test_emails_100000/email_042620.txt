@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Reed",
+    "email": "gary.reed4586@business.net",
+    "phone": "(847) 393-5239",
+    "ssn": "353-79-5920",
+    "dob": "03-22-1997",
+    "address": "4847 Park Dr",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Rodriguez,timothy.rodriguez7013@gmail.com,535-909-1697,166 15 3139,03/03/1998,"3614 Fourth Rd",San Diego,OH

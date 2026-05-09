@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Serrano",
+    "email": "emma.serrano4654@gmail.com",
+    "phone": "463-203-8303",
+    "ssn": "724 94 3486",
+    "dob": "09/07/2003",
+    "address": "8839 West Dr",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

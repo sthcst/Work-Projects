@@ -1,0 +1,9 @@
+contact:
+  name: George Bell
+  email: george.bell6958@mail.com
+  phone: (987) 794-7349
+  ssn: 279 26 2166
+  dob: 01-11-1980
+  address: 4403 Cedar Court
+  city: Jacksonville
+  state: TX

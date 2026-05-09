@@ -1,0 +1,14 @@
+INVOICE 210006
+
+Bill To:
+Name: Kathleen Campbell
+Email: kathleen.campbell8687@work.org
+Phone: (636) 360-3450
+SSN: 348086472
+
+Address: 8317 East Court
+Denver, MA
+
+Date of Birth: 10/04/1975
+
+Amount Due: $3422

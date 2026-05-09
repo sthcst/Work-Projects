@@ -1,0 +1,12 @@
+SUPPORT TICKET #80916
+
+Customer: Angela Anderson
+Email: angela.anderson5002@example.com
+Phone: 455-862-5957
+Account: 540-20-3169
+
+Issue Description: Technical problem reported
+DOB on file: 05/12/1976
+Address: 1008 Third Ave, San Antonio, WI
+
+Status: OPEN

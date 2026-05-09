@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Martin",
+    "email": "steven.martin2946@work.org",
+    "phone": "(392) 301-5837",
+    "ssn": "218628047",
+    "dob": "25/11/2000",
+    "address": "8616 Fourth Way",
+    "city": "Washington",
+    "state": "OH"
+  }
+}

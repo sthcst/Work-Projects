@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Peterson",
+    "email": "michael.peterson1453@business.net",
+    "phone": "+1 588-667-6065",
+    "ssn": "788 65 7882",
+    "dob": "09/12/2003",
+    "address": "978 Summer Rd",
+    "city": "Boston",
+    "state": "WA"
+  }
+}

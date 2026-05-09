@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Gomez,jane.gomez3348@example.com,+1 941-487-4012,209-77-6310,11/5/1952,"3002 Cedar St",Denver,AZ

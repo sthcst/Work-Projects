@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Delgado",
+    "email": "angela.delgado9613@company.com",
+    "phone": "714 493 7180",
+    "ssn": "179477857",
+    "dob": "24/04/1976",
+    "address": "2935 North St",
+    "city": "Houston",
+    "state": "OH"
+  }
+}

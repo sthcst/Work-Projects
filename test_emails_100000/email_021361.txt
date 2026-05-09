@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Garcia",
+    "email": "donald.garcia9525@business.net",
+    "phone": "(230) 376-7566",
+    "ssn": "702 64 1154",
+    "dob": "10/09/1975",
+    "address": "6897 Fourth St",
+    "city": "Denver",
+    "state": "PA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Edwards
+  email: kathleen.edwards1023@gmail.com
+  phone: (514) 448-6480
+  ssn: 517 55 1259
+  dob: 9/20/1975
+  address: 6304 Summer Ave
+  city: Dallas
+  state: AZ

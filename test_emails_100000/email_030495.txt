@@ -1,0 +1,9 @@
+contact:
+  name: Jane Anderson
+  email: jane.anderson978@outlook.com
+  phone: (648) 677-4295
+  ssn: 812634125
+  dob: 04-10-1984
+  address: 5620 Elm Court
+  city: Houston
+  state: PA

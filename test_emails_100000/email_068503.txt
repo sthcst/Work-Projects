@@ -1,0 +1,14 @@
+INVOICE 285668
+
+Bill To:
+Name: Edward Hernandez
+Email: edward.hernandez8283@work.org
+Phone: 277-483-4371
+SSN: 001 57 3723
+
+Address: 7189 Sixth Dr
+Jacksonville, DC
+
+Date of Birth: 4/22/1970
+
+Amount Due: $7564

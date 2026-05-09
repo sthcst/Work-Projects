@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Evans",
+    "email": "emily.evans4955@company.com",
+    "phone": "(866) 930-1270",
+    "ssn": "010443925",
+    "dob": "10/10/1968",
+    "address": "617 Main Rd",
+    "city": "Jacksonville",
+    "state": "MO"
+  }
+}

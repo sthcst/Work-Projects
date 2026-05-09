@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Brown,james.brown6767@work.org,308 617 6129,575 13 2032,28/09/1998,"2457 Pine Rd",Washington,TX

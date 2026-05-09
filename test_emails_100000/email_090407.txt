@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Parker,charles.parker8772@yahoo.com,+1 281-428-7543,312 95 5653,18/08/1996,"2920 Oak Way",San Antonio,MA

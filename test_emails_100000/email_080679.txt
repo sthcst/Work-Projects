@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Stewart,amanda.stewart8767@company.com,668 533 3966,435016052,17/03/1960,"2291 Maple Blvd",Houston,NC

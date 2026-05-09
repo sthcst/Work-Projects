@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Moore",
+    "email": "anthony.moore3286@yahoo.com",
+    "phone": "724-880-9189",
+    "ssn": "088991656",
+    "dob": "05/09/1962",
+    "address": "6167 Main St",
+    "city": "Denver",
+    "state": "MD"
+  }
+}

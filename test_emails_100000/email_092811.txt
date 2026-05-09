@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Rodriguez,jane.rodriguez9698@mail.com,+1 817-317-9987,785-58-6605,5/27/1989,"3473 Park Court",Dallas,TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Moore,helen.moore5521@gmail.com,388 574 6265,406257104,04/18/1996,"5248 Spring Court",Denver,CA

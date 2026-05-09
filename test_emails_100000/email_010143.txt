@@ -1,0 +1,9 @@
+contact:
+  name: Maria Campbell
+  email: maria.campbell1718@company.com
+  phone: +1 319-468-3103
+  ssn: 824 70 9834
+  dob: 11-12-1967
+  address: 3090 Oak Dr
+  city: Boston
+  state: PA

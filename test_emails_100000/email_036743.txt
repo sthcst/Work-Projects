@@ -1,0 +1,14 @@
+INVOICE 547094
+
+Bill To:
+Name: Maria Smith
+Email: maria.smith2526@business.net
+Phone: 970 742 5168
+SSN: 840497263
+
+Address: 9129 Pine Dr
+Seattle, CA
+
+Date of Birth: 28/03/1995
+
+Amount Due: $829

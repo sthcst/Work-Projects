@@ -1,0 +1,9 @@
+contact:
+  name: David Dominguez
+  email: david.dominguez9852@outlook.com
+  phone: 619 579 7056
+  ssn: 884767119
+  dob: 08/11/1987
+  address: 4620 East St
+  city: Jacksonville
+  state: MD

@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Martin
+  email: stephanie.martin6985@company.com
+  phone: 830-882-6222
+  ssn: 121 16 6740
+  dob: 27/02/1969
+  address: 979 West Ave
+  city: Austin
+  state: WA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Cooper",
+    "email": "donald.cooper2936@outlook.com",
+    "phone": "(315) 328-5992",
+    "ssn": "618-10-6146",
+    "dob": "5/2/1952",
+    "address": "153 Park St",
+    "city": "Washington",
+    "state": "OH"
+  }
+}

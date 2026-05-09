@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Sanchez",
+    "email": "jennifer.sanchez7778@gmail.com",
+    "phone": "307-324-5513",
+    "ssn": "058848366",
+    "dob": "04/10/1971",
+    "address": "7755 West Court",
+    "city": "Los Angeles",
+    "state": "NJ"
+  }
+}

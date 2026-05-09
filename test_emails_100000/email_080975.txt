@@ -1,0 +1,14 @@
+INVOICE 951225
+
+Bill To:
+Name: George Hernandez
+Email: george.hernandez6265@mail.com
+Phone: +1 781-774-2720
+SSN: 133 12 6075
+
+Address: 7101 Oak Ln
+Seattle, CO
+
+Date of Birth: 5/21/1965
+
+Amount Due: $8450

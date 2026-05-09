@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Garcia,edward.garcia9028@gmail.com,279 729 8004,628 20 8893,01-05-1987,"6810 Third Ln",Los Angeles,MO

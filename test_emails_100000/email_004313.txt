@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Walker",
+    "email": "angela.walker3870@example.com",
+    "phone": "(584) 492-1914",
+    "ssn": "040 65 9541",
+    "dob": "11/27/1989",
+    "address": "7309 Summer Rd",
+    "city": "New York",
+    "state": "DC"
+  }
+}

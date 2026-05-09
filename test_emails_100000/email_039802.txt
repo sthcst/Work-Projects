@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Martin
+  email: sarah.martin9554@mail.com
+  phone: (779) 914-9157
+  ssn: 694478103
+  dob: 18/08/1970
+  address: 3710 Sixth Ln
+  city: New York
+  state: AZ

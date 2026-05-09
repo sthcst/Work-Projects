@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Miller",
+    "email": "brenda.miller8670@gmail.com",
+    "phone": "634 592 2161",
+    "ssn": "870-58-2909",
+    "dob": "2/10/1980",
+    "address": "4328 First Blvd",
+    "city": "Houston",
+    "state": "AZ"
+  }
+}

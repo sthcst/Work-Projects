@@ -1,0 +1,14 @@
+INVOICE 882507
+
+Bill To:
+Name: Daniel Hall
+Email: daniel.hall3638@company.com
+Phone: (973) 602-7570
+SSN: 528803961
+
+Address: 2864 West Ln
+Boston, FL
+
+Date of Birth: 12/9/2000
+
+Amount Due: $7768

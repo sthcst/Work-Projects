@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Lopez",
+    "email": "anna.lopez1323@example.com",
+    "phone": "+1 560-333-8069",
+    "ssn": "016-10-2557",
+    "dob": "11/11/1957",
+    "address": "9011 Elm Court",
+    "city": "San Antonio",
+    "state": "OH"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Young
+  email: kevin.young1047@example.com
+  phone: +1 427-635-9997
+  ssn: 119 81 2985
+  dob: 10/5/1967
+  address: 3523 Maple Way
+  city: Denver
+  state: FL

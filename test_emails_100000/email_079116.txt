@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Lee",
+    "email": "timothy.lee411@business.net",
+    "phone": "755-624-3093",
+    "ssn": "320-88-1560",
+    "dob": "04/11/1986",
+    "address": "703 First Blvd",
+    "city": "San Antonio",
+    "state": "WA"
+  }
+}

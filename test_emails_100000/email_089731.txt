@@ -1,0 +1,14 @@
+INVOICE 842923
+
+Bill To:
+Name: Michelle Martinez
+Email: michelle.martinez2354@company.com
+Phone: 613 227 4490
+SSN: 435-04-9726
+
+Address: 3103 Summer Ln
+Los Angeles, FL
+
+Date of Birth: 10/18/2002
+
+Amount Due: $4568

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Perez,kenneth.perez6500@business.net,738 867 1711,429-74-2244,07/02/1983,"2402 First Way",Phoenix,TX

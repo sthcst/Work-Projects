@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Taylor",
+    "email": "deborah.taylor6858@company.com",
+    "phone": "577-684-8391",
+    "ssn": "207-12-1383",
+    "dob": "1/18/2004",
+    "address": "4993 South Court",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

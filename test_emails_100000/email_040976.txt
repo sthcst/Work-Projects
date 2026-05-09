@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Lopez,sarah.lopez1639@example.com,985-731-1364,120-51-4195,05-11-1954,"7177 Second Dr",Chicago,VA

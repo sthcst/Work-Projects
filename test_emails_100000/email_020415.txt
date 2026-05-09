@@ -1,0 +1,9 @@
+contact:
+  name: Charles Edwards
+  email: charles.edwards4457@company.com
+  phone: +1 940-620-6302
+  ssn: 166-82-4180
+  dob: 11/17/1998
+  address: 5363 Cedar Court
+  city: San Diego
+  state: WI

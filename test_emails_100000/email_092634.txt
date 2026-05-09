@@ -1,0 +1,14 @@
+INVOICE 909005
+
+Bill To:
+Name: Jane Davis
+Email: jane.davis3820@outlook.com
+Phone: 398-891-9950
+SSN: 588904017
+
+Address: 1789 East Blvd
+Phoenix, AZ
+
+Date of Birth: 04-02-1999
+
+Amount Due: $7854

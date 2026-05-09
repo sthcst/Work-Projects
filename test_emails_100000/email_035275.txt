@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Harris",
+    "email": "gary.harris4361@gmail.com",
+    "phone": "287 712 6119",
+    "ssn": "887 83 3874",
+    "dob": "11/14/1964",
+    "address": "3460 Maple Way",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

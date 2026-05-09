@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Carter,george.carter6704@yahoo.com,(291) 958-4152,701-18-7012,09-07-1977,"6600 Sixth Rd",Boston,WA

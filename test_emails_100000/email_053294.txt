@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Reyes,nicole.reyes5419@work.org,985-824-3646,578 48 5737,03-04-1953,"4382 Pine Ave",Chicago,CA

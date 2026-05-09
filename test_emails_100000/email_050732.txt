@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Edwards,michael.edwards9978@company.com,(892) 352-1243,179 79 7970,7/20/2004,"523 West Court",Dallas,WA

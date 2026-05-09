@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Dominguez,robert.dominguez9467@gmail.com,357 986 5645,720351840,05-04-1968,"2153 Summer Court",New York,TX

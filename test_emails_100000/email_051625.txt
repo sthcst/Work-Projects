@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Cooper
+  email: andrew.cooper4835@example.com
+  phone: (327) 978-4555
+  ssn: 500 80 8468
+  dob: 6/2/1986
+  address: 922 East Court
+  city: Boston
+  state: CA

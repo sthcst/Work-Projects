@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie White,stephanie.white1322@example.com,929 364 4292,706-24-9084,11/13/1954,"5460 North Blvd",Phoenix,OH

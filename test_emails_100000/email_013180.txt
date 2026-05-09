@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Rodriguez",
+    "email": "richard.rodriguez8354@business.net",
+    "phone": "+1 954-205-8172",
+    "ssn": "589 67 2618",
+    "dob": "11/10/1985",
+    "address": "7494 West Rd",
+    "city": "Philadelphia",
+    "state": "WI"
+  }
+}

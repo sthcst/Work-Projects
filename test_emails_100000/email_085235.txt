@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Gomez,megan.gomez4742@example.com,(989) 631-9737,644-64-2904,12-09-1968,"4840 Pine Blvd",Los Angeles,MA

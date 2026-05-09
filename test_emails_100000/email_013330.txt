@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Dominguez",
+    "email": "jacob.dominguez2198@mail.com",
+    "phone": "273 944 7118",
+    "ssn": "427-31-8038",
+    "dob": "07-22-1993",
+    "address": "2981 Main Way",
+    "city": "Denver",
+    "state": "MO"
+  }
+}

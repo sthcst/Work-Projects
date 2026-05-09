@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Bell
+  email: daniel.bell3343@example.com
+  phone: 207 503 6055
+  ssn: 541-36-3017
+  dob: 10/08/1958
+  address: 7874 Fifth Rd
+  city: San Antonio
+  state: WI

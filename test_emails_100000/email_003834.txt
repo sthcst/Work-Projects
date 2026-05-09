@@ -1,0 +1,14 @@
+INVOICE 588825
+
+Bill To:
+Name: Donald Martinez
+Email: donald.martinez2546@example.com
+Phone: +1 953-808-5142
+SSN: 252 29 2352
+
+Address: 6638 West Dr
+Dallas, WA
+
+Date of Birth: 12/21/1959
+
+Amount Due: $4313

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Anderson,deborah.anderson9039@gmail.com,292-377-1847,632457384,01-13-1956,"6335 Elm Way",New York,GA

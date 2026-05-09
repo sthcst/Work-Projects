@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Nelson",
+    "email": "rebecca.nelson3357@company.com",
+    "phone": "804 439 3804",
+    "ssn": "152 96 8402",
+    "dob": "22/07/1954",
+    "address": "8657 Park Ln",
+    "city": "Seattle",
+    "state": "TN"
+  }
+}

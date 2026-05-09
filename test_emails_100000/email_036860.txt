@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Anderson,james.anderson8279@yahoo.com,306-297-2813,905029066,01/22/1978,"3884 Elm Ave",San Diego,OH

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Young,pamela.young5049@gmail.com,903-854-9223,059714187,7/24/1981,"4635 Cedar St",San Diego,MA

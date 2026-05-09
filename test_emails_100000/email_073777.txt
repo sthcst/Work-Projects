@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Martinez
+  email: anthony.martinez1284@company.com
+  phone: +1 794-202-4207
+  ssn: 545972229
+  dob: 02/01/1986
+  address: 8663 Cedar Court
+  city: San Antonio
+  state: CA

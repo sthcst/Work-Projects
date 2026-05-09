@@ -1,0 +1,9 @@
+contact:
+  name: Paul Taylor
+  email: paul.taylor6688@gmail.com
+  phone: 677 731 2034
+  ssn: 737-32-4849
+  dob: 08-20-1951
+  address: 2259 Fourth Way
+  city: San Antonio
+  state: WA

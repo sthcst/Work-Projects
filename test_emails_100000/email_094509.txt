@@ -1,0 +1,14 @@
+INVOICE 471528
+
+Bill To:
+Name: Donald Garcia
+Email: donald.garcia1704@example.com
+Phone: 526-745-4308
+SSN: 609 61 7084
+
+Address: 6228 Third Way
+Houston, CA
+
+Date of Birth: 7/4/2002
+
+Amount Due: $5705

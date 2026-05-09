@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Edwards,rachel.edwards2957@outlook.com,310-721-1273,113901288,26/10/2002,"6756 Pine Ln",San Diego,AZ

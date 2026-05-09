@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Cooper
+  email: daniel.cooper4311@yahoo.com
+  phone: (246) 489-8097
+  ssn: 616263795
+  dob: 05/14/1955
+  address: 2612 Fourth Ln
+  city: San Diego
+  state: NY

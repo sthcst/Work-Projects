@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Ortiz",
+    "email": "donald.ortiz8858@yahoo.com",
+    "phone": "331-484-5339",
+    "ssn": "270 99 3564",
+    "dob": "04-18-1969",
+    "address": "6485 Spring St",
+    "city": "Chicago",
+    "state": "TN"
+  }
+}

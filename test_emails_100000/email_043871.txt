@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Serrano,daniel.serrano1341@work.org,408-942-3211,520693895,06/18/1982,"9866 Pine Way",San Diego,TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Reed,megan.reed8485@company.com,727-791-1709,460373152,21/10/1987,"242 North Way",San Jose,DC

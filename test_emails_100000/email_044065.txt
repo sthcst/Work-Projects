@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Gonzalez",
+    "email": "brian.gonzalez2938@example.com",
+    "phone": "417 543 5941",
+    "ssn": "801258045",
+    "dob": "04/09/1993",
+    "address": "9746 Maple Blvd",
+    "city": "Dallas",
+    "state": "MA"
+  }
+}

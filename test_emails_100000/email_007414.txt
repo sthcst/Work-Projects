@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Wilson",
+    "email": "ronald.wilson5820@example.com",
+    "phone": "(391) 268-7448",
+    "ssn": "268-40-8187",
+    "dob": "06/03/1970",
+    "address": "9155 Fifth Blvd",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

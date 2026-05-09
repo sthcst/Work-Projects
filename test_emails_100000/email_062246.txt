@@ -1,0 +1,12 @@
+SUPPORT TICKET #77910
+
+Customer: Andrew Moore
+Email: andrew.moore435@example.com
+Phone: +1 511-366-2710
+Account: 459-14-8036
+
+Issue Description: Technical problem reported
+DOB on file: 12-03-1964
+Address: 3850 Spring Way, Chicago, CA
+
+Status: OPEN

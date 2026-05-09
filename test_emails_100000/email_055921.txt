@@ -1,0 +1,9 @@
+contact:
+  name: Donald Romero
+  email: donald.romero2834@company.com
+  phone: (466) 428-8783
+  ssn: 517349171
+  dob: 09/01/1963
+  address: 8755 Third Rd
+  city: Boston
+  state: MA

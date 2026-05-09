@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Lewis",
+    "email": "anthony.lewis2169@gmail.com",
+    "phone": "689-541-1765",
+    "ssn": "699-92-4906",
+    "dob": "06/06/1953",
+    "address": "9656 Oak Rd",
+    "city": "Dallas",
+    "state": "VA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Jimenez
+  email: kimberly.jimenez5765@outlook.com
+  phone: 253 987 2143
+  ssn: 159 69 6893
+  dob: 03/05/1957
+  address: 9714 Cedar Court
+  city: Washington
+  state: NY

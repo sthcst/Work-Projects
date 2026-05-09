@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Edwards,samantha.edwards4282@gmail.com,912 526 7153,379415714,02/02/1980,"3835 Maple Ave",Seattle,MA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Hernandez",
+    "email": "william.hernandez3432@business.net",
+    "phone": "356 291 6228",
+    "ssn": "286-18-4972",
+    "dob": "7/11/1981",
+    "address": "721 Pine Ln",
+    "city": "San Antonio",
+    "state": "PA"
+  }
+}

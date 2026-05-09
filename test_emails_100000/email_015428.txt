@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Moore",
+    "email": "anna.moore3564@outlook.com",
+    "phone": "929 503 4691",
+    "ssn": "218605781",
+    "dob": "07-23-1979",
+    "address": "6463 Oak Court",
+    "city": "Washington",
+    "state": "NC"
+  }
+}

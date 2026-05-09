@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Nelson
+  email: ashley.nelson7275@yahoo.com
+  phone: (542) 540-2617
+  ssn: 355386813
+  dob: 01/16/1982
+  address: 4574 Fifth Blvd
+  city: Philadelphia
+  state: AZ

@@ -1,0 +1,9 @@
+contact:
+  name: Angela Garcia
+  email: angela.garcia6687@business.net
+  phone: (543) 603-5338
+  ssn: 626-44-4104
+  dob: 11/12/1962
+  address: 2919 Fourth Dr
+  city: New York
+  state: GA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen White,kathleen.white6781@mail.com,954 653 6020,781 56 4608,5/12/2005,"3793 East Ave",Boston,WI

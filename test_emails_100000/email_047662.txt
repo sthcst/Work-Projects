@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Taylor",
+    "email": "deborah.taylor7414@outlook.com",
+    "phone": "343 286 6270",
+    "ssn": "464 58 2097",
+    "dob": "11/27/1957",
+    "address": "313 South Rd",
+    "city": "Philadelphia",
+    "state": "NJ"
+  }
+}

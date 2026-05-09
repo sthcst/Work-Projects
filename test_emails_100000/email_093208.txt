@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Ortiz",
+    "email": "katherine.ortiz2545@gmail.com",
+    "phone": "303 812 8404",
+    "ssn": "646 81 8902",
+    "dob": "12/05/1967",
+    "address": "3612 Cedar St",
+    "city": "Jacksonville",
+    "state": "AZ"
+  }
+}

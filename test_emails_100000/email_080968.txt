@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Miller,rebecca.miller3489@business.net,+1 394-753-1678,380955496,8/27/1965,"5112 Spring Rd",San Jose,CA

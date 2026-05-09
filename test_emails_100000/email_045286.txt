@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Sanchez
+  email: kimberly.sanchez7645@company.com
+  phone: (502) 511-6424
+  ssn: 135-26-9217
+  dob: 07-16-1997
+  address: 5891 Spring Rd
+  city: Philadelphia
+  state: MA

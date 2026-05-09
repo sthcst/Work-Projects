@@ -1,0 +1,14 @@
+INVOICE 842838
+
+Bill To:
+Name: Andrew Reyes
+Email: andrew.reyes5494@example.com
+Phone: +1 622-584-5267
+SSN: 556 49 5270
+
+Address: 5886 West Rd
+Austin, MD
+
+Date of Birth: 12/7/1973
+
+Amount Due: $541

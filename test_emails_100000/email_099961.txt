@@ -1,0 +1,14 @@
+INVOICE 100194
+
+Bill To:
+Name: Joseph Reeves
+Email: joseph.reeves6556@example.com
+Phone: +1 473-223-5350
+SSN: 189-42-9946
+
+Address: 8412 Pine Way
+San Antonio, NY
+
+Date of Birth: 04-10-1999
+
+Amount Due: $8774

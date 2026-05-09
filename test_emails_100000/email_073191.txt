@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Johnson",
+    "email": "jane.johnson4755@company.com",
+    "phone": "366 848 2840",
+    "ssn": "560 31 5343",
+    "dob": "25/05/1965",
+    "address": "1100 Oak Blvd",
+    "city": "Denver",
+    "state": "NJ"
+  }
+}

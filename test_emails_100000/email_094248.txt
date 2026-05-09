@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Ramirez",
+    "email": "joseph.ramirez3570@business.net",
+    "phone": "534-672-5502",
+    "ssn": "792-92-9028",
+    "dob": "12/1/1963",
+    "address": "5135 West Ln",
+    "city": "Dallas",
+    "state": "TN"
+  }
+}

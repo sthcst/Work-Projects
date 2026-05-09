@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Garcia
+  email: kimberly.garcia8624@company.com
+  phone: 384 205 3244
+  ssn: 160 94 4205
+  dob: 11/18/1961
+  address: 2190 Third Dr
+  city: Denver
+  state: MI

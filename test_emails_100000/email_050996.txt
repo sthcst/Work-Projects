@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Gomez",
+    "email": "gary.gomez3571@business.net",
+    "phone": "701-442-5814",
+    "ssn": "122 95 7061",
+    "dob": "03-13-1983",
+    "address": "3337 Third Rd",
+    "city": "Denver",
+    "state": "CO"
+  }
+}

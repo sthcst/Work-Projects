@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Guerrero",
+    "email": "jennifer.guerrero3437@business.net",
+    "phone": "(732) 955-6954",
+    "ssn": "236 83 4531",
+    "dob": "27/06/1950",
+    "address": "5156 North Ave",
+    "city": "San Antonio",
+    "state": "NY"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Davis,deborah.davis2547@outlook.com,+1 384-656-5098,454 36 1446,09/28/1954,"9954 Spring Way",Houston,AZ

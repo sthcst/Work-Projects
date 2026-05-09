@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Cooper",
+    "email": "shirley.cooper7731@work.org",
+    "phone": "887 451 4027",
+    "ssn": "111042485",
+    "dob": "08-16-1964",
+    "address": "1761 North Court",
+    "city": "Houston",
+    "state": "WA"
+  }
+}

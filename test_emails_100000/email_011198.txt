@@ -1,0 +1,14 @@
+INVOICE 636154
+
+Bill To:
+Name: James Delgado
+Email: james.delgado8607@example.com
+Phone: 999 901 8582
+SSN: 030307674
+
+Address: 9630 Pine Way
+San Jose, CA
+
+Date of Birth: 03-17-1969
+
+Amount Due: $1035

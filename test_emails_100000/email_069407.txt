@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Cooper,kenneth.cooper4520@gmail.com,964 977 9638,533-06-8104,11/22/1954,"3387 Birch Ave",Jacksonville,OH

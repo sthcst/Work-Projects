@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Jones
+  email: jessica.jones6952@outlook.com
+  phone: +1 946-956-4988
+  ssn: 341 43 4689
+  dob: 06-21-1990
+  address: 3473 Park Way
+  city: Denver
+  state: FL

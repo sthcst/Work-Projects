@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Nunez",
+    "email": "david.nunez160@outlook.com",
+    "phone": "+1 706-215-3941",
+    "ssn": "023 85 9943",
+    "dob": "06/05/1991",
+    "address": "8475 Park Ln",
+    "city": "Dallas",
+    "state": "WA"
+  }
+}

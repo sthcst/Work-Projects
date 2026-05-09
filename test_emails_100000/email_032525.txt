@@ -1,0 +1,9 @@
+contact:
+  name: David Romero
+  email: david.romero2271@outlook.com
+  phone: +1 977-816-9567
+  ssn: 717 22 9721
+  dob: 10/25/1960
+  address: 2205 Pine Way
+  city: Philadelphia
+  state: PA

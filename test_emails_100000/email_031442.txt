@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Campbell",
+    "email": "christine.campbell5310@business.net",
+    "phone": "(357) 323-1343",
+    "ssn": "868 31 5535",
+    "dob": "14/10/1987",
+    "address": "6181 Spring Blvd",
+    "city": "Boston",
+    "state": "WA"
+  }
+}

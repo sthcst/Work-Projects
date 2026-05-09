@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Bell,william.bell3903@example.com,+1 967-979-7916,605-33-7095,04/11/1971,"9568 Sixth St",Phoenix,CA

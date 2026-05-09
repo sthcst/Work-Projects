@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Collins",
+    "email": "deborah.collins9782@mail.com",
+    "phone": "+1 324-418-1997",
+    "ssn": "563564326",
+    "dob": "09-06-2002",
+    "address": "3236 Maple Court",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Anderson",
+    "email": "brenda.anderson8704@yahoo.com",
+    "phone": "780-656-9638",
+    "ssn": "380185842",
+    "dob": "03/07/2004",
+    "address": "7944 Spring Way",
+    "city": "Philadelphia",
+    "state": "VA"
+  }
+}

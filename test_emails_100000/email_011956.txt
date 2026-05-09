@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Hernandez",
+    "email": "ashley.hernandez2086@company.com",
+    "phone": "897 261 9884",
+    "ssn": "278-08-7830",
+    "dob": "05-09-1985",
+    "address": "666 Fourth Blvd",
+    "city": "Chicago",
+    "state": "MA"
+  }
+}

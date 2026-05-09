@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Lewis,brenda.lewis7477@gmail.com,375-717-2471,137-01-4389,25/08/1963,"1702 Fourth Court",Dallas,VA

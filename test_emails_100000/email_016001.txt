@@ -1,0 +1,14 @@
+INVOICE 490780
+
+Bill To:
+Name: Brenda Walker
+Email: brenda.walker2008@example.com
+Phone: 790 910 9210
+SSN: 299595076
+
+Address: 4643 Main Rd
+San Jose, CO
+
+Date of Birth: 02-26-1996
+
+Amount Due: $9497

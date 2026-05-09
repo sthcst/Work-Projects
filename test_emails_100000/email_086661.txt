@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Clark",
+    "email": "jacob.clark5563@work.org",
+    "phone": "(500) 685-5032",
+    "ssn": "253-80-8832",
+    "dob": "12/23/1989",
+    "address": "4114 East Way",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

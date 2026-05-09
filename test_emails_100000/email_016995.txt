@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Lee
+  email: samantha.lee4728@business.net
+  phone: 967 352 8452
+  ssn: 083 26 9493
+  dob: 06/08/1974
+  address: 2362 Spring Ln
+  city: San Jose
+  state: CA

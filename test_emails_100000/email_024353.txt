@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Stewart",
+    "email": "megan.stewart8410@work.org",
+    "phone": "(766) 685-9289",
+    "ssn": "396263542",
+    "dob": "08/09/1996",
+    "address": "5784 Cedar Dr",
+    "city": "Austin",
+    "state": "MD"
+  }
+}

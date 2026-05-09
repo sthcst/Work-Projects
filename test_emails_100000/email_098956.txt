@@ -1,0 +1,9 @@
+contact:
+  name: Emma Williams
+  email: emma.williams5868@mail.com
+  phone: (859) 980-2380
+  ssn: 972468919
+  dob: 14/08/1972
+  address: 4967 Main Dr
+  city: Los Angeles
+  state: MD

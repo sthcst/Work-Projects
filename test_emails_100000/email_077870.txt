@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Parker,richard.parker411@gmail.com,(476) 929-9774,831-07-1452,08/16/1966,"2395 East Blvd",Philadelphia,CA

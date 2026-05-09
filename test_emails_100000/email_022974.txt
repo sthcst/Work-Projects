@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Thomas,jeffrey.thomas8581@yahoo.com,214 481 4631,929 22 1043,10/08/1971,"4891 Oak Court",Austin,IL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Miller",
+    "email": "angela.miller7293@example.com",
+    "phone": "+1 817-957-5643",
+    "ssn": "161-69-6677",
+    "dob": "12/25/1966",
+    "address": "8886 North Blvd",
+    "city": "Los Angeles",
+    "state": "DC"
+  }
+}

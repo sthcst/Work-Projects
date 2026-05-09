@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Gomez
+  email: pamela.gomez1637@outlook.com
+  phone: 787-718-4103
+  ssn: 172678545
+  dob: 3/28/2000
+  address: 1027 Park Dr
+  city: Jacksonville
+  state: TX

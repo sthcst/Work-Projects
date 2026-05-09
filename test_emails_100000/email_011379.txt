@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Reed",
+    "email": "shirley.reed8442@example.com",
+    "phone": "+1 766-559-9445",
+    "ssn": "975019164",
+    "dob": "03/24/1985",
+    "address": "8160 Pine Way",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

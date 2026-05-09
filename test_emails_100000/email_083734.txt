@@ -1,0 +1,14 @@
+INVOICE 745840
+
+Bill To:
+Name: Edward Carter
+Email: edward.carter3651@mail.com
+Phone: 354 528 2952
+SSN: 176 77 9107
+
+Address: 8572 First Court
+Philadelphia, TX
+
+Date of Birth: 06/10/1960
+
+Amount Due: $1934

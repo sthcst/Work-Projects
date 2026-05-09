@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Martin,megan.martin5425@work.org,+1 655-997-1383,264-71-9753,7/6/1971,"7506 Elm St",San Antonio,MO

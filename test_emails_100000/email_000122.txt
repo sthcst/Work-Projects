@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Walker
+  email: shirley.walker6820@mail.com
+  phone: 279 785 7108
+  ssn: 123-65-1862
+  dob: 04/26/1983
+  address: 6578 Elm Court
+  city: San Jose
+  state: AZ

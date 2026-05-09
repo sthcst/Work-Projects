@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Morris
+  email: brenda.morris5623@outlook.com
+  phone: 608 277 4799
+  ssn: 476763307
+  dob: 3/18/1970
+  address: 837 Fourth Way
+  city: Phoenix
+  state: MA

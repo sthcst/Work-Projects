@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Lopez,mark.lopez2153@outlook.com,741-646-4121,249 81 9519,27/03/1957,"5111 Fourth Way",Houston,TX

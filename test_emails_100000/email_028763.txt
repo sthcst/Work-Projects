@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Campbell,timothy.campbell784@gmail.com,(311) 799-4436,195 28 3066,01-24-1986,"6034 Third Rd",San Jose,PA

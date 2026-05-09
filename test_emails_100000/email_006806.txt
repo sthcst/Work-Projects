@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Reyes",
+    "email": "michelle.reyes5169@company.com",
+    "phone": "856-525-8931",
+    "ssn": "562-56-5287",
+    "dob": "10/16/2000",
+    "address": "1070 Elm Ln",
+    "city": "Dallas",
+    "state": "MI"
+  }
+}

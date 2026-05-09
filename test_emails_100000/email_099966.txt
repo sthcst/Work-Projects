@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Dominguez,robert.dominguez9050@mail.com,903-267-9097,133716239,8/7/1970,"1985 Park Ave",Denver,VA

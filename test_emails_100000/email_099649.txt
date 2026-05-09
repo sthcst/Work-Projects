@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Bell",
+    "email": "john.bell8915@gmail.com",
+    "phone": "594 484 1699",
+    "ssn": "224094035",
+    "dob": "9/10/2003",
+    "address": "7423 Elm Dr",
+    "city": "San Jose",
+    "state": "WI"
+  }
+}

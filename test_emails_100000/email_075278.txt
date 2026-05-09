@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Reed",
+    "email": "kevin.reed6034@gmail.com",
+    "phone": "+1 875-515-4112",
+    "ssn": "752015082",
+    "dob": "08/13/1954",
+    "address": "4363 Fifth Blvd",
+    "city": "Denver",
+    "state": "NC"
+  }
+}

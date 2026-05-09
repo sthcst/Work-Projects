@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Nunez
+  email: nicholas.nunez2245@mail.com
+  phone: 906-925-4509
+  ssn: 532-45-8027
+  dob: 06/07/1994
+  address: 1912 Spring Ave
+  city: San Antonio
+  state: TX

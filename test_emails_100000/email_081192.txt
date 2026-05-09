@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Roberts,david.roberts1261@company.com,240 271 6236,907-88-1927,10/10/1997,"1332 Main Rd",San Diego,NC

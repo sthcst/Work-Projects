@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Moore,ashley.moore1107@work.org,+1 786-826-9145,490236550,07-14-1952,"5877 North Ave",Seattle,GA

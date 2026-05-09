@@ -1,0 +1,14 @@
+INVOICE 555221
+
+Bill To:
+Name: Michelle Alvarado
+Email: michelle.alvarado1487@gmail.com
+Phone: 545-830-7538
+SSN: 725 26 4599
+
+Address: 4788 Summer Ln
+Dallas, WI
+
+Date of Birth: 01/02/1965
+
+Amount Due: $1964

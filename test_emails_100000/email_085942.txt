@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Jackson",
+    "email": "ryan.jackson4395@business.net",
+    "phone": "637 561 9686",
+    "ssn": "380-02-3875",
+    "dob": "06-11-1982",
+    "address": "2422 Third St",
+    "city": "Seattle",
+    "state": "WA"
+  }
+}

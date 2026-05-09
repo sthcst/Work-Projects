@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Carter",
+    "email": "stephanie.carter4097@business.net",
+    "phone": "(239) 645-4555",
+    "ssn": "850 31 7336",
+    "dob": "17/08/1953",
+    "address": "3543 North Ln",
+    "city": "New York",
+    "state": "CA"
+  }
+}

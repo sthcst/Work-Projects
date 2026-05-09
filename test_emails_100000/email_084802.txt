@@ -1,0 +1,14 @@
+INVOICE 901196
+
+Bill To:
+Name: Katherine Johnson
+Email: katherine.johnson4305@outlook.com
+Phone: 332-310-3417
+SSN: 613-94-4200
+
+Address: 8540 Third Ln
+Seattle, MD
+
+Date of Birth: 28/07/1991
+
+Amount Due: $8021

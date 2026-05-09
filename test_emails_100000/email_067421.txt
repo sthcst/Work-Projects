@@ -1,0 +1,9 @@
+contact:
+  name: Edward Gomez
+  email: edward.gomez703@yahoo.com
+  phone: +1 762-861-1390
+  ssn: 359-07-9077
+  dob: 05-07-1979
+  address: 4166 Maple Court
+  city: Jacksonville
+  state: FL

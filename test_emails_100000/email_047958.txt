@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Serrano
+  email: lisa.serrano9469@mail.com
+  phone: (487) 222-8522
+  ssn: 296 47 4926
+  dob: 09/27/1971
+  address: 5348 Oak Court
+  city: New York
+  state: NY

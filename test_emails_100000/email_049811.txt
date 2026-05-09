@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Gonzalez",
+    "email": "james.gonzalez1205@company.com",
+    "phone": "+1 923-211-7196",
+    "ssn": "149-34-1200",
+    "dob": "11/15/1999",
+    "address": "4775 Pine Dr",
+    "city": "San Diego",
+    "state": "NJ"
+  }
+}

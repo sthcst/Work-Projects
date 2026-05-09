@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Johnson",
+    "email": "kevin.johnson9041@gmail.com",
+    "phone": "+1 940-845-2203",
+    "ssn": "379491624",
+    "dob": "25/08/1980",
+    "address": "4118 Third Blvd",
+    "city": "Houston",
+    "state": "MA"
+  }
+}

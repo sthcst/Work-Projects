@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Garcia",
+    "email": "kimberly.garcia1138@gmail.com",
+    "phone": "344 812 4757",
+    "ssn": "130 86 3432",
+    "dob": "05/08/1953",
+    "address": "2692 Pine Dr",
+    "city": "Los Angeles",
+    "state": "FL"
+  }
+}

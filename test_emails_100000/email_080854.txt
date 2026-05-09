@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Alvarado,kevin.alvarado4504@gmail.com,468-781-8418,872-05-3524,05-05-1974,"7060 Birch Rd",Jacksonville,MD

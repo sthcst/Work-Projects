@@ -1,0 +1,14 @@
+INVOICE 559640
+
+Bill To:
+Name: Emma Carter
+Email: emma.carter7835@example.com
+Phone: 231 997 1598
+SSN: 233-81-2190
+
+Address: 233 Maple Dr
+Jacksonville, DC
+
+Date of Birth: 02/05/1956
+
+Amount Due: $5692

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Martinez,david.martinez9456@outlook.com,427-757-6149,306-27-2159,09/03/1995,"5428 Birch Ave",Boston,WA

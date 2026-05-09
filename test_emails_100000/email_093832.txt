@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Nunez
+  email: pamela.nunez2496@gmail.com
+  phone: (834) 865-5251
+  ssn: 019-21-9227
+  dob: 02/02/1984
+  address: 4214 North St
+  city: Boston
+  state: TX

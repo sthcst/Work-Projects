@@ -1,0 +1,14 @@
+INVOICE 800045
+
+Bill To:
+Name: Ronald Delgado
+Email: ronald.delgado3388@outlook.com
+Phone: 931-435-8177
+SSN: 640948202
+
+Address: 4996 Pine Dr
+Washington, CA
+
+Date of Birth: 01/08/1982
+
+Amount Due: $6548

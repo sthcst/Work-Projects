@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Carter",
+    "email": "michael.carter8435@mail.com",
+    "phone": "331 543 1642",
+    "ssn": "884 91 4766",
+    "dob": "19/10/1981",
+    "address": "5001 Sixth Court",
+    "city": "Chicago",
+    "state": "MA"
+  }
+}

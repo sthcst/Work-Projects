@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Morgan
+  email: brenda.morgan6232@example.com
+  phone: 882 685 5077
+  ssn: 038-29-7163
+  dob: 01/01/1981
+  address: 6769 Sixth Blvd
+  city: New York
+  state: TX

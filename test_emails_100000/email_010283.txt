@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Roberts",
+    "email": "christine.roberts2153@company.com",
+    "phone": "253 377 1940",
+    "ssn": "371 67 3726",
+    "dob": "16/04/1951",
+    "address": "3111 Oak Court",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

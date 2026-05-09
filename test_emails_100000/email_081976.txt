@@ -1,0 +1,9 @@
+contact:
+  name: Edward Young
+  email: edward.young8911@example.com
+  phone: +1 623-704-3722
+  ssn: 714 63 8842
+  dob: 2/2/1962
+  address: 3669 Fourth Dr
+  city: Austin
+  state: TN

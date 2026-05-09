@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Nunez",
+    "email": "robert.nunez2298@business.net",
+    "phone": "201-730-9153",
+    "ssn": "611-14-6239",
+    "dob": "09-17-1998",
+    "address": "6616 Birch Blvd",
+    "city": "Washington",
+    "state": "WA"
+  }
+}

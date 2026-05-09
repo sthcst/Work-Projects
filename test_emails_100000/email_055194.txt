@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Morgan
+  email: andrew.morgan7137@gmail.com
+  phone: 673 912 7823
+  ssn: 817 92 8103
+  dob: 01/10/2004
+  address: 9461 Third Ln
+  city: New York
+  state: WA

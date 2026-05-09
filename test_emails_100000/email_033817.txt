@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Nelson,maria.nelson9803@business.net,644 288 5188,863-35-9743,07/12/1964,"4280 Oak Dr",Washington,TX

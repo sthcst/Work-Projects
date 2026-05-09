@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Romero,stephanie.romero4546@example.com,(613) 757-6899,808-31-2698,3/24/1991,"8557 Sixth Dr",Boston,FL

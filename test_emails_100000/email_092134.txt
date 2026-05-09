@@ -1,0 +1,14 @@
+INVOICE 342945
+
+Bill To:
+Name: Amanda White
+Email: amanda.white3280@example.com
+Phone: 202-664-8006
+SSN: 548426079
+
+Address: 6708 First Rd
+Philadelphia, AZ
+
+Date of Birth: 10-14-1989
+
+Amount Due: $7648

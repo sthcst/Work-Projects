@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Brown",
+    "email": "edward.brown208@company.com",
+    "phone": "309-787-2717",
+    "ssn": "747739115",
+    "dob": "01-24-1950",
+    "address": "8268 Birch Rd",
+    "city": "Houston",
+    "state": "DC"
+  }
+}

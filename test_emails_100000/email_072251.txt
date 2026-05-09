@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Nelson
+  email: kevin.nelson7186@company.com
+  phone: 556-747-8489
+  ssn: 812-80-4287
+  dob: 12/01/1951
+  address: 8049 Birch Blvd
+  city: New York
+  state: TX

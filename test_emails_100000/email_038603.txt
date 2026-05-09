@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Rogers
+  email: lauren.rogers1142@outlook.com
+  phone: 440 605 9405
+  ssn: 498 32 1972
+  dob: 10/01/1965
+  address: 505 Main Court
+  city: San Antonio
+  state: MA

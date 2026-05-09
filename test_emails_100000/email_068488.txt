@@ -1,0 +1,9 @@
+contact:
+  name: Michael Robinson
+  email: michael.robinson2153@yahoo.com
+  phone: 873 952 5292
+  ssn: 347704140
+  dob: 11/22/1996
+  address: 3642 South Ln
+  city: Denver
+  state: TX

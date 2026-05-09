@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Carter",
+    "email": "john.carter1401@outlook.com",
+    "phone": "658-742-3293",
+    "ssn": "563-98-8663",
+    "dob": "08/11/1966",
+    "address": "5766 Fifth Ln",
+    "city": "New York",
+    "state": "TX"
+  }
+}

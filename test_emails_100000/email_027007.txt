@@ -1,0 +1,14 @@
+INVOICE 363101
+
+Bill To:
+Name: James Garcia
+Email: james.garcia3335@example.com
+Phone: +1 957-530-7005
+SSN: 534643985
+
+Address: 9410 Sixth Way
+Boston, FL
+
+Date of Birth: 5/12/1999
+
+Amount Due: $7522

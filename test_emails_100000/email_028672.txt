@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Garcia",
+    "email": "charles.garcia3152@example.com",
+    "phone": "+1 885-901-1859",
+    "ssn": "259 93 4599",
+    "dob": "02-21-1995",
+    "address": "6205 Park Way",
+    "city": "Austin",
+    "state": "VA"
+  }
+}

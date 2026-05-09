@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Clark
+  email: rachel.clark6503@mail.com
+  phone: 860-786-7350
+  ssn: 421 69 1675
+  dob: 9/23/1962
+  address: 9133 Spring Rd
+  city: Denver
+  state: AZ

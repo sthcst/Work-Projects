@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Parker",
+    "email": "steven.parker4997@gmail.com",
+    "phone": "570 298 9859",
+    "ssn": "844 23 8777",
+    "dob": "07/07/1982",
+    "address": "2723 North St",
+    "city": "Chicago",
+    "state": "AZ"
+  }
+}

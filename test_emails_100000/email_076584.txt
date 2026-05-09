@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Edwards",
+    "email": "anthony.edwards5174@company.com",
+    "phone": "+1 890-600-2108",
+    "ssn": "555468027",
+    "dob": "01/08/1966",
+    "address": "4529 Birch Rd",
+    "city": "Philadelphia",
+    "state": "NJ"
+  }
+}

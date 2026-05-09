@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Williams",
+    "email": "lauren.williams446@outlook.com",
+    "phone": "+1 542-437-4382",
+    "ssn": "366-57-2439",
+    "dob": "10/04/1999",
+    "address": "9922 Park Court",
+    "city": "New York",
+    "state": "DC"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Peterson
+  email: nicole.peterson3674@mail.com
+  phone: 774-873-9962
+  ssn: 889 28 8846
+  dob: 10/4/1976
+  address: 919 Third Court
+  city: Dallas
+  state: NC

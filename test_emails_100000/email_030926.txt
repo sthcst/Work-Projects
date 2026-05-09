@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Campbell
+  email: kenneth.campbell5196@work.org
+  phone: 859-355-9169
+  ssn: 598 18 1996
+  dob: 03-17-1953
+  address: 8508 West Blvd
+  city: San Diego
+  state: IL

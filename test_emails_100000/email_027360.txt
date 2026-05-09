@@ -1,0 +1,14 @@
+INVOICE 848385
+
+Bill To:
+Name: Cynthia Moore
+Email: cynthia.moore128@example.com
+Phone: (890) 307-1291
+SSN: 844 19 6055
+
+Address: 8686 Oak St
+Seattle, TX
+
+Date of Birth: 08/07/1956
+
+Amount Due: $9516

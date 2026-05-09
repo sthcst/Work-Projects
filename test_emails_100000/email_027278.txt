@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Delgado",
+    "email": "john.delgado1501@outlook.com",
+    "phone": "+1 901-736-9175",
+    "ssn": "177 18 8467",
+    "dob": "06/07/1978",
+    "address": "6640 Second Ln",
+    "city": "Austin",
+    "state": "DC"
+  }
+}

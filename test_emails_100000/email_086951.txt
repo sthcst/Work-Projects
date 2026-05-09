@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer White,jennifer.white9263@example.com,(482) 705-3162,637512354,07/09/2000,"4501 Elm Ave",Houston,FL

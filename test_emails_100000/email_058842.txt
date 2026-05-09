@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Nunez",
+    "email": "steven.nunez122@work.org",
+    "phone": "(971) 973-3003",
+    "ssn": "945291316",
+    "dob": "10/09/1974",
+    "address": "6260 East Dr",
+    "city": "Jacksonville",
+    "state": "AZ"
+  }
+}

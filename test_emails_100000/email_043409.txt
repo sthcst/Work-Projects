@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Lewis,jeffrey.lewis6106@mail.com,+1 857-859-9745,940657908,6/23/1963,"5874 East Court",Los Angeles,WA

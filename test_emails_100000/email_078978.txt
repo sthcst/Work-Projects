@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Perez",
+    "email": "jane.perez5495@business.net",
+    "phone": "+1 340-783-1837",
+    "ssn": "820-04-5489",
+    "dob": "01/15/1959",
+    "address": "1250 Sixth Ave",
+    "city": "Washington",
+    "state": "AZ"
+  }
+}

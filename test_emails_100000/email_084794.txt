@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Harris",
+    "email": "gary.harris7736@company.com",
+    "phone": "405-575-9319",
+    "ssn": "675 30 7974",
+    "dob": "03/04/1972",
+    "address": "7158 Fifth Dr",
+    "city": "Seattle",
+    "state": "MD"
+  }
+}

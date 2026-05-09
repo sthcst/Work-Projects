@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Alvarado,nicole.alvarado1167@yahoo.com,(532) 323-4444,503902639,11/7/1973,"6005 Main Rd",Boston,MD

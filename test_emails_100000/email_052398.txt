@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Romero,katherine.romero3641@mail.com,446 991 5294,728371668,2/1/1996,"2023 Sixth Ln",Phoenix,AZ

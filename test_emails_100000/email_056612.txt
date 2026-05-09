@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Harris",
+    "email": "ashley.harris2886@work.org",
+    "phone": "(335) 496-4406",
+    "ssn": "470966102",
+    "dob": "11/21/1962",
+    "address": "5796 Fourth Court",
+    "city": "Dallas",
+    "state": "VA"
+  }
+}

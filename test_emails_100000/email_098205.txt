@@ -1,0 +1,9 @@
+contact:
+  name: Anna Wilson
+  email: anna.wilson580@work.org
+  phone: 311 428 1070
+  ssn: 053966795
+  dob: 03/26/1994
+  address: 3324 Maple Ave
+  city: Jacksonville
+  state: WA

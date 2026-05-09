@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Rogers
+  email: anthony.rogers252@yahoo.com
+  phone: +1 406-871-8674
+  ssn: 781 65 6833
+  dob: 06/12/1964
+  address: 7894 Fourth Dr
+  city: Austin
+  state: WA

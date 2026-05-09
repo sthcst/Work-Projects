@@ -1,0 +1,9 @@
+contact:
+  name: Megan Thomas
+  email: megan.thomas9186@example.com
+  phone: (340) 965-7899
+  ssn: 646 08 3011
+  dob: 07/24/1994
+  address: 5833 First Dr
+  city: Los Angeles
+  state: MA

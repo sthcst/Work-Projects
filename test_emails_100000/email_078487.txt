@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Phillips
+  email: lauren.phillips3384@mail.com
+  phone: 698-438-4920
+  ssn: 517231951
+  dob: 16/08/1971
+  address: 7401 Birch Blvd
+  city: Dallas
+  state: AZ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Thompson",
+    "email": "jason.thompson7194@company.com",
+    "phone": "(730) 370-2360",
+    "ssn": "422 02 4157",
+    "dob": "8/8/1990",
+    "address": "8973 Fourth Ave",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,12 @@
+SUPPORT TICKET #11872
+
+Customer: Jeffrey Williams
+Email: jeffrey.williams701@example.com
+Phone: 456-609-1624
+Account: 630042644
+
+Issue Description: Technical problem reported
+DOB on file: 22/09/1973
+Address: 2239 Park Rd, Washington, GA
+
+Status: OPEN

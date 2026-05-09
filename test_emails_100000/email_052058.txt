@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Perez",
+    "email": "kenneth.perez3815@company.com",
+    "phone": "+1 463-646-8185",
+    "ssn": "757521395",
+    "dob": "06-27-1973",
+    "address": "999 Park Rd",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

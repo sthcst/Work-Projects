@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Anderson",
+    "email": "jessica.anderson1478@example.com",
+    "phone": "+1 656-834-6867",
+    "ssn": "592-66-3734",
+    "dob": "09/21/1964",
+    "address": "8921 Birch Ave",
+    "city": "Philadelphia",
+    "state": "AZ"
+  }
+}

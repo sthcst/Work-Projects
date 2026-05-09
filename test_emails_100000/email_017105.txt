@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Martinez,mark.martinez5697@gmail.com,686-938-9301,757675290,03/10/2001,"8439 Pine Rd",Washington,WA

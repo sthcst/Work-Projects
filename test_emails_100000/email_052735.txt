@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Thompson",
+    "email": "edward.thompson8317@example.com",
+    "phone": "319-277-5553",
+    "ssn": "594146715",
+    "dob": "14/06/1986",
+    "address": "4967 Third Ave",
+    "city": "Washington",
+    "state": "CO"
+  }
+}

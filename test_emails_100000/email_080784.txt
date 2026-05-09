@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Rogers
+  email: daniel.rogers9340@yahoo.com
+  phone: +1 628-627-3761
+  ssn: 333634639
+  dob: 10/8/1971
+  address: 8151 Oak Blvd
+  city: San Jose
+  state: WA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Cooper,angela.cooper726@mail.com,793 977 4113,084 98 8227,10-19-1967,"9729 Pine Court",San Diego,AZ

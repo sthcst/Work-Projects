@@ -1,0 +1,14 @@
+INVOICE 325724
+
+Bill To:
+Name: Daniel White
+Email: daniel.white1735@example.com
+Phone: 538 896 1779
+SSN: 634799844
+
+Address: 4823 Summer Ave
+Los Angeles, OH
+
+Date of Birth: 11-16-1999
+
+Amount Due: $4120

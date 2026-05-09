@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Brown,nicholas.brown8263@company.com,(987) 455-2827,700-43-4319,05/28/1974,"5930 East St",Austin,MA

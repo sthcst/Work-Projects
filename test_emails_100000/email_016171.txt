@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Lopez",
+    "email": "gary.lopez6202@yahoo.com",
+    "phone": "308 896 9092",
+    "ssn": "320 28 7842",
+    "dob": "07-20-1968",
+    "address": "4705 Spring Way",
+    "city": "San Jose",
+    "state": "MA"
+  }
+}

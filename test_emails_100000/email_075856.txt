@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Thomas,rachel.thomas650@gmail.com,(765) 496-5766,543 58 5189,01/02/1968,"3927 First Ln",Austin,AZ

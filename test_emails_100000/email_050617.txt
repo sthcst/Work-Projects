@@ -1,0 +1,14 @@
+INVOICE 543831
+
+Bill To:
+Name: George Romero
+Email: george.romero1998@business.net
+Phone: (325) 946-2769
+SSN: 561554813
+
+Address: 1065 Fourth Ave
+Boston, MD
+
+Date of Birth: 06-18-1959
+
+Amount Due: $3663

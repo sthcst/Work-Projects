@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Rodriguez",
+    "email": "mark.rodriguez9925@business.net",
+    "phone": "291-478-1139",
+    "ssn": "150 97 1996",
+    "dob": "5/23/1961",
+    "address": "4629 Third Blvd",
+    "city": "Washington",
+    "state": "AZ"
+  }
+}

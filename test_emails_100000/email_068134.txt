@@ -1,0 +1,9 @@
+contact:
+  name: Matthew Hall
+  email: matthew.hall6910@yahoo.com
+  phone: (592) 512-3820
+  ssn: 708-39-6515
+  dob: 06-11-1989
+  address: 8201 Pine Ln
+  city: Denver
+  state: CA

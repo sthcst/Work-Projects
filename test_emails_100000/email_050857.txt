@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Ramirez,richard.ramirez4152@business.net,+1 443-712-5199,815-62-2812,07/22/1968,"2693 First Blvd",San Jose,AZ

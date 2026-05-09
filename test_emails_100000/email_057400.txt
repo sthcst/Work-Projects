@@ -1,0 +1,14 @@
+INVOICE 564881
+
+Bill To:
+Name: Steven Carter
+Email: steven.carter933@company.com
+Phone: 427 958 5507
+SSN: 920 22 2835
+
+Address: 6083 Pine St
+Houston, CA
+
+Date of Birth: 05-11-1995
+
+Amount Due: $3984

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Delgado,gary.delgado3542@example.com,579 672 8407,293-18-6126,06-07-1950,"3844 Elm Court",Austin,NC

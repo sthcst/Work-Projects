@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Peterson",
+    "email": "katherine.peterson4161@company.com",
+    "phone": "+1 318-560-6544",
+    "ssn": "121205675",
+    "dob": "09/01/2005",
+    "address": "5068 Oak Ave",
+    "city": "Jacksonville",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 643762
+
+Bill To:
+Name: Michael Perez
+Email: michael.perez8265@work.org
+Phone: 572 868 5516
+SSN: 250 03 5954
+
+Address: 5953 Oak Ave
+Austin, FL
+
+Date of Birth: 3/16/1956
+
+Amount Due: $4713

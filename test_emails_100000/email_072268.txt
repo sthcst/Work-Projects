@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Parker,jason.parker1108@mail.com,957 642 7080,648873055,24/03/1950,"3497 Fifth St",Washington,CA

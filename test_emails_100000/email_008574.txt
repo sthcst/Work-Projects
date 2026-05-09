@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Martin,deborah.martin7393@mail.com,670-228-1951,936449740,20/03/1957,"7995 Pine Way",Seattle,WI

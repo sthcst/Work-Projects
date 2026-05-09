@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Miller,deborah.miller2245@outlook.com,(352) 463-4394,691 82 6343,04-03-2005,"2879 Elm Way",Dallas,NJ

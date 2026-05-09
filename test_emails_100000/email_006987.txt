@@ -1,0 +1,12 @@
+SUPPORT TICKET #72859
+
+Customer: Andrew Morris
+Email: andrew.morris909@example.com
+Phone: 332-411-8300
+Account: 848-17-1785
+
+Issue Description: Technical problem reported
+DOB on file: 6/3/1959
+Address: 4506 Cedar St, San Antonio, PA
+
+Status: OPEN

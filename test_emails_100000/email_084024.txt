@@ -1,0 +1,14 @@
+INVOICE 644794
+
+Bill To:
+Name: Steven Brown
+Email: steven.brown2982@gmail.com
+Phone: 465 994 8398
+SSN: 811738807
+
+Address: 611 Maple Way
+Houston, MA
+
+Date of Birth: 23/02/1990
+
+Amount Due: $2458

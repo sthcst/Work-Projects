@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Gonzalez
+  email: anthony.gonzalez6135@business.net
+  phone: +1 533-914-7101
+  ssn: 614033704
+  dob: 6/17/1992
+  address: 9273 Pine Way
+  city: Washington
+  state: WI

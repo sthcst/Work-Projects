@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Peterson,sarah.peterson9425@yahoo.com,(812) 335-5921,181541695,19/04/1973,"4929 Park Way",Washington,NJ

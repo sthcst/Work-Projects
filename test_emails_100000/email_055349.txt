@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Martin",
+    "email": "sarah.martin8739@yahoo.com",
+    "phone": "+1 588-812-1056",
+    "ssn": "594 21 3726",
+    "dob": "06/01/2002",
+    "address": "4017 Fourth St",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}

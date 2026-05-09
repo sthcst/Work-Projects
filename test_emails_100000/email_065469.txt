@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Rodriguez,brian.rodriguez9583@business.net,731 899 9671,139 84 1326,03-06-1976,"6100 Second Blvd",Denver,MD

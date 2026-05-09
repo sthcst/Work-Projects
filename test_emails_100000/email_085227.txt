@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Johnson
+  email: sarah.johnson9924@outlook.com
+  phone: 772-743-4321
+  ssn: 995293301
+  dob: 05-18-1997
+  address: 8175 Fourth St
+  city: Denver
+  state: VA

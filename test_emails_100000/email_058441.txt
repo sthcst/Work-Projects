@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Lee,angela.lee6962@gmail.com,(860) 813-4902,916 93 5059,5/13/1963,"734 Summer Way",Los Angeles,NC

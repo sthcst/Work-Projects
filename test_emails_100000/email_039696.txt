@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Alvarado,helen.alvarado6743@work.org,(588) 373-6356,524 44 8355,12/06/1952,"9546 Elm Rd",Chicago,TX

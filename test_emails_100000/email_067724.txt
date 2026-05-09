@@ -1,0 +1,14 @@
+INVOICE 664462
+
+Bill To:
+Name: Kimberly Guerrero
+Email: kimberly.guerrero3288@company.com
+Phone: 265-211-1808
+SSN: 993-34-5065
+
+Address: 28 South Dr
+Washington, GA
+
+Date of Birth: 06-12-1984
+
+Amount Due: $852

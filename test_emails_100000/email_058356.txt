@@ -1,0 +1,14 @@
+INVOICE 239532
+
+Bill To:
+Name: Nicholas Garcia
+Email: nicholas.garcia7927@example.com
+Phone: 635-222-4720
+SSN: 275 61 9068
+
+Address: 3303 Main St
+Jacksonville, AZ
+
+Date of Birth: 12/16/1976
+
+Amount Due: $7697

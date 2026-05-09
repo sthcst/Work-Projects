@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Smith
+  email: jennifer.smith9210@example.com
+  phone: +1 591-848-5388
+  ssn: 941 38 4747
+  dob: 10-12-1983
+  address: 5308 Spring Way
+  city: Seattle
+  state: CO

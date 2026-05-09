@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Reed",
+    "email": "gary.reed7952@mail.com",
+    "phone": "714-251-6336",
+    "ssn": "130-76-8431",
+    "dob": "3/16/1959",
+    "address": "1557 Maple Ave",
+    "city": "Washington",
+    "state": "MO"
+  }
+}

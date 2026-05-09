@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Rodriguez",
+    "email": "michael.rodriguez2521@business.net",
+    "phone": "(958) 876-5990",
+    "ssn": "907588947",
+    "dob": "4/16/1967",
+    "address": "1691 Summer St",
+    "city": "San Jose",
+    "state": "TN"
+  }
+}

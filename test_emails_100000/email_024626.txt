@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Guerrero
+  email: rachel.guerrero6569@yahoo.com
+  phone: +1 711-546-9547
+  ssn: 207-89-6244
+  dob: 23/01/1967
+  address: 9073 Pine Way
+  city: Jacksonville
+  state: TX

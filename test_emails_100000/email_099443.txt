@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Jackson
+  email: ryan.jackson955@mail.com
+  phone: 613-810-3851
+  ssn: 620689658
+  dob: 11-18-2002
+  address: 6260 North Blvd
+  city: Austin
+  state: MI

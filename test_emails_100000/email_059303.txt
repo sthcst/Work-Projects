@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Gomez
+  email: rebecca.gomez6365@example.com
+  phone: 202-360-7068
+  ssn: 172-55-7888
+  dob: 5/3/1998
+  address: 7146 North Ln
+  city: Boston
+  state: TX

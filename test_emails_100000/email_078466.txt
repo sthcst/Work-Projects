@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Delgado,pamela.delgado408@gmail.com,336-652-7393,319 88 2300,5/2/1967,"4775 Cedar Court",Dallas,AZ

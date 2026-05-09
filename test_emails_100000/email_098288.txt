@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Martinez
+  email: rachel.martinez9371@mail.com
+  phone: +1 600-912-1312
+  ssn: 924 53 3359
+  dob: 05-26-1995
+  address: 3211 Maple Blvd
+  city: Boston
+  state: TX

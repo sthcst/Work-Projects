@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Thompson",
+    "email": "rachel.thompson6256@company.com",
+    "phone": "903 488 3434",
+    "ssn": "554 02 6808",
+    "dob": "04/26/1976",
+    "address": "7527 Fourth Ave",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

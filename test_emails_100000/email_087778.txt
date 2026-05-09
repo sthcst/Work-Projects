@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Parker,joseph.parker7981@mail.com,(612) 669-7283,082744647,10/28/1999,"180 Cedar Way",Dallas,MA

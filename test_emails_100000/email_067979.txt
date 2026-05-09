@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Martinez",
+    "email": "katherine.martinez6625@business.net",
+    "phone": "428-959-7188",
+    "ssn": "161942448",
+    "dob": "09-19-1961",
+    "address": "4428 Summer Rd",
+    "city": "Dallas",
+    "state": "MD"
+  }
+}

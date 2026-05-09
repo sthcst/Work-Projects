@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Jimenez
+  email: rebecca.jimenez4403@company.com
+  phone: 771-708-6544
+  ssn: 900 84 1366
+  dob: 10/12/1975
+  address: 9886 West Ln
+  city: San Antonio
+  state: TX

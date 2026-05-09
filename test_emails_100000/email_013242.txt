@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Evans",
+    "email": "katherine.evans1050@gmail.com",
+    "phone": "+1 296-501-7928",
+    "ssn": "547 82 7693",
+    "dob": "02-09-1981",
+    "address": "6790 Spring Blvd",
+    "city": "Dallas",
+    "state": "NY"
+  }
+}

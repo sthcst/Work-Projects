@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Flores
+  email: jeffrey.flores6124@company.com
+  phone: 806-893-7644
+  ssn: 423 97 1035
+  dob: 02/07/1956
+  address: 8425 Birch St
+  city: Washington
+  state: CA

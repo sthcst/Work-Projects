@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Lewis",
+    "email": "edward.lewis5597@work.org",
+    "phone": "+1 778-915-4590",
+    "ssn": "187024608",
+    "dob": "09-20-1962",
+    "address": "9115 Summer Way",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Dominguez",
+    "email": "daniel.dominguez4878@company.com",
+    "phone": "+1 751-841-4091",
+    "ssn": "659-87-3136",
+    "dob": "07/25/1951",
+    "address": "6606 Fifth Rd",
+    "city": "San Diego",
+    "state": "PA"
+  }
+}

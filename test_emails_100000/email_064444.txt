@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Walker,charles.walker420@mail.com,(975) 586-2521,884-09-1737,05/05/1985,"9456 Sixth Ln",Seattle,NY

@@ -1,0 +1,14 @@
+INVOICE 417299
+
+Bill To:
+Name: David Miller
+Email: david.miller7227@outlook.com
+Phone: 740-689-4832
+SSN: 788234611
+
+Address: 9437 Main Blvd
+Boston, WA
+
+Date of Birth: 6/24/1978
+
+Amount Due: $8265

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Smith",
+    "email": "james.smith8510@example.com",
+    "phone": "(802) 400-8586",
+    "ssn": "917 76 3095",
+    "dob": "24/06/1962",
+    "address": "2537 Summer Way",
+    "city": "Denver",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Dominguez,robert.dominguez2643@company.com,899-451-9322,962 28 6596,01/01/1971,"6676 Fifth Way",Austin,AZ

@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Harris
+  email: shirley.harris9718@example.com
+  phone: (911) 556-6231
+  ssn: 862293210
+  dob: 6/15/1965
+  address: 4972 Pine Court
+  city: New York
+  state: TX

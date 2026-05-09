@@ -1,0 +1,14 @@
+INVOICE 355950
+
+Bill To:
+Name: David Ortiz
+Email: david.ortiz295@business.net
+Phone: (641) 593-6789
+SSN: 698726702
+
+Address: 4186 First Way
+Houston, MA
+
+Date of Birth: 17/08/1993
+
+Amount Due: $7959

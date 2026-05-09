@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Anderson",
+    "email": "gary.anderson1820@yahoo.com",
+    "phone": "+1 429-960-1193",
+    "ssn": "054 80 6789",
+    "dob": "12-18-1971",
+    "address": "5888 East Ln",
+    "city": "Phoenix",
+    "state": "WA"
+  }
+}

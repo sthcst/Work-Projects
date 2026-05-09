@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Reed
+  email: timothy.reed4817@outlook.com
+  phone: +1 835-528-5815
+  ssn: 227709439
+  dob: 24/10/1971
+  address: 1583 Oak Way
+  city: Los Angeles
+  state: MA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Reyes,kevin.reyes9366@business.net,(747) 985-7000,151864742,21/04/1992,"8259 Oak Dr",Phoenix,TX

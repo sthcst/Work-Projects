@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Reyes",
+    "email": "michelle.reyes5433@company.com",
+    "phone": "(268) 291-7312",
+    "ssn": "805-58-2092",
+    "dob": "09-09-1995",
+    "address": "2650 Oak Rd",
+    "city": "Denver",
+    "state": "AZ"
+  }
+}

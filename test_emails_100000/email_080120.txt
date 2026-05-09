@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Morgan",
+    "email": "kimberly.morgan5677@outlook.com",
+    "phone": "997 721 2391",
+    "ssn": "526488881",
+    "dob": "05/08/1958",
+    "address": "6736 Park Rd",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

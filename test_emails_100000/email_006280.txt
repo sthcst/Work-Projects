@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Sanchez,brenda.sanchez4138@outlook.com,898-771-9246,914-67-5971,01-11-1998,"7345 Fifth Blvd",San Antonio,NJ

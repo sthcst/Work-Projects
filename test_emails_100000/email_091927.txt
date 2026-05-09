@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Guerrero",
+    "email": "kathleen.guerrero8028@yahoo.com",
+    "phone": "+1 384-249-9923",
+    "ssn": "413 67 7308",
+    "dob": "9/15/1960",
+    "address": "3085 Birch Ave",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

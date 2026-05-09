@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Sanchez",
+    "email": "matthew.sanchez5627@mail.com",
+    "phone": "(974) 341-7862",
+    "ssn": "384-54-1631",
+    "dob": "21/12/1975",
+    "address": "696 Cedar Blvd",
+    "city": "San Antonio",
+    "state": "GA"
+  }
+}

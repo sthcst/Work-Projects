@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Lopez,rebecca.lopez6796@yahoo.com,+1 782-659-1339,339527903,07/18/1956,"5180 Cedar Court",Denver,WA

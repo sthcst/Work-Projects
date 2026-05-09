@@ -1,0 +1,14 @@
+INVOICE 165502
+
+Bill To:
+Name: Nicole Sanchez
+Email: nicole.sanchez9157@example.com
+Phone: 859-421-3437
+SSN: 001 01 5095
+
+Address: 4371 First Rd
+San Jose, TX
+
+Date of Birth: 12/09/1963
+
+Amount Due: $703

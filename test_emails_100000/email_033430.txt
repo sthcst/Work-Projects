@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Nelson",
+    "email": "pamela.nelson5986@example.com",
+    "phone": "336-778-5635",
+    "ssn": "181 74 8724",
+    "dob": "11-21-1982",
+    "address": "939 Fourth St",
+    "city": "San Jose",
+    "state": "DC"
+  }
+}

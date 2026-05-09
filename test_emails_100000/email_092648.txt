@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Reed",
+    "email": "sarah.reed4841@gmail.com",
+    "phone": "+1 269-249-1920",
+    "ssn": "453-49-6639",
+    "dob": "08/19/1995",
+    "address": "4746 Park Court",
+    "city": "Los Angeles",
+    "state": "MI"
+  }
+}

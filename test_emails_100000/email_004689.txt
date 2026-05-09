@@ -1,0 +1,9 @@
+contact:
+  name: Christine Smith
+  email: christine.smith5322@mail.com
+  phone: 825 608 1521
+  ssn: 830 15 6199
+  dob: 10/26/1982
+  address: 8125 Oak Blvd
+  city: Washington
+  state: TX

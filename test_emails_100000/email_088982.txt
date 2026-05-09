@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Murillo,maria.murillo2948@mail.com,(945) 974-6447,599489534,9/14/1960,"3975 South St",Philadelphia,MI

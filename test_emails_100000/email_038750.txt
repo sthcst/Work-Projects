@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Clark",
+    "email": "ryan.clark5652@example.com",
+    "phone": "975-926-6408",
+    "ssn": "555 43 9293",
+    "dob": "09-05-1984",
+    "address": "956 Pine Rd",
+    "city": "San Jose",
+    "state": "WI"
+  }
+}

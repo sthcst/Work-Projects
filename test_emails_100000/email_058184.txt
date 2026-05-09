@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Smith",
+    "email": "nicholas.smith3512@yahoo.com",
+    "phone": "438-549-4646",
+    "ssn": "835-60-6178",
+    "dob": "9/3/1989",
+    "address": "654 Sixth Court",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

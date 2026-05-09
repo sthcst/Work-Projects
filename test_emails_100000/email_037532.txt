@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Lee",
+    "email": "megan.lee251@business.net",
+    "phone": "+1 993-267-6408",
+    "ssn": "944-21-7132",
+    "dob": "05-21-2001",
+    "address": "9631 Cedar Blvd",
+    "city": "Los Angeles",
+    "state": "OH"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Bell,charles.bell5403@company.com,+1 240-506-5017,489 59 8834,20/10/2001,"2424 Sixth Ave",Houston,AZ

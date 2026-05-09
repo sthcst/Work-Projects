@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Reyes
+  email: kevin.reyes1857@gmail.com
+  phone: 759 476 5654
+  ssn: 536-32-5156
+  dob: 12/08/1975
+  address: 6935 Pine Court
+  city: San Jose
+  state: IL

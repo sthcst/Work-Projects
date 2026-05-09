@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Stewart,emily.stewart6256@yahoo.com,(330) 439-6666,432-32-1694,4/9/1958,"1855 East Court",Chicago,AZ

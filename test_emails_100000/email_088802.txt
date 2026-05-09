@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Dominguez",
+    "email": "edward.dominguez1275@mail.com",
+    "phone": "699-205-4149",
+    "ssn": "666 41 8147",
+    "dob": "16/12/1991",
+    "address": "3325 Pine Blvd",
+    "city": "Houston",
+    "state": "WA"
+  }
+}

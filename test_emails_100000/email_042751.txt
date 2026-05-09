@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Dominguez",
+    "email": "daniel.dominguez1356@mail.com",
+    "phone": "+1 601-817-9841",
+    "ssn": "578 09 6183",
+    "dob": "4/14/1972",
+    "address": "2574 Oak Way",
+    "city": "Austin",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Guerrero,nicole.guerrero8482@business.net,(727) 486-8676,677564155,07/15/1965,"2414 Park Blvd",San Diego,VA

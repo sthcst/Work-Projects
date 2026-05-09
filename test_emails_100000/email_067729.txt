@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Roberts,samantha.roberts5718@business.net,904 929 8383,884915303,01/02/1997,"9097 Third Ave",San Jose,MO

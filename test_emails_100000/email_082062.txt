@@ -1,0 +1,14 @@
+INVOICE 360925
+
+Bill To:
+Name: Amanda Taylor
+Email: amanda.taylor7806@example.com
+Phone: 993 892 2532
+SSN: 497 88 3523
+
+Address: 403 Sixth Court
+Dallas, NJ
+
+Date of Birth: 11/13/1987
+
+Amount Due: $358

@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Lee
+  email: brenda.lee7198@example.com
+  phone: (805) 646-1095
+  ssn: 021351678
+  dob: 01-24-1994
+  address: 3260 Fourth Dr
+  city: Jacksonville
+  state: AZ

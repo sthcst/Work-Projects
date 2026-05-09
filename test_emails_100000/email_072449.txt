@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Sanchez
+  email: kenneth.sanchez1466@yahoo.com
+  phone: +1 477-923-3056
+  ssn: 256905429
+  dob: 01/27/1972
+  address: 2544 West St
+  city: Austin
+  state: WA

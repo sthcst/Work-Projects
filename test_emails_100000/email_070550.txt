@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Phillips
+  email: nicole.phillips7815@business.net
+  phone: +1 509-569-8500
+  ssn: 838 62 1699
+  dob: 25/06/1953
+  address: 1108 North Court
+  city: Phoenix
+  state: WA

@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Thomas
+  email: katherine.thomas8863@mail.com
+  phone: (309) 307-4689
+  ssn: 730 64 6310
+  dob: 12/15/1999
+  address: 9711 Spring Dr
+  city: Chicago
+  state: MO

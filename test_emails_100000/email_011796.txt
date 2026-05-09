@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Lewis
+  email: daniel.lewis7518@company.com
+  phone: 497-824-6430
+  ssn: 742-69-6261
+  dob: 04/28/1952
+  address: 6185 Spring Dr
+  city: Houston
+  state: VA

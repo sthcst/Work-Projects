@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Ortiz
+  email: lisa.ortiz545@company.com
+  phone: (926) 244-1471
+  ssn: 940 33 2811
+  dob: 09/24/2002
+  address: 1602 Third Court
+  city: Seattle
+  state: TX

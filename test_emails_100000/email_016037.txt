@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Gonzalez",
+    "email": "jeffrey.gonzalez5770@business.net",
+    "phone": "792 413 8348",
+    "ssn": "611 13 9762",
+    "dob": "07-27-1977",
+    "address": "8768 Summer Rd",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

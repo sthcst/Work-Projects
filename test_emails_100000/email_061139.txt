@@ -1,0 +1,9 @@
+contact:
+  name: Maria Jimenez
+  email: maria.jimenez6946@gmail.com
+  phone: (808) 709-2854
+  ssn: 480-36-8064
+  dob: 20/10/1988
+  address: 5917 Cedar Ln
+  city: Phoenix
+  state: NC

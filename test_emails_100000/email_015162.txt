@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Jimenez",
+    "email": "samantha.jimenez6206@yahoo.com",
+    "phone": "(402) 637-8893",
+    "ssn": "841 26 9570",
+    "dob": "08-09-1993",
+    "address": "5936 North Ln",
+    "city": "San Jose",
+    "state": "WA"
+  }
+}

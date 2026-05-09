@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Hernandez",
+    "email": "michael.hernandez4634@mail.com",
+    "phone": "(346) 994-6569",
+    "ssn": "264 71 4775",
+    "dob": "12/11/1969",
+    "address": "1934 Birch St",
+    "city": "New York",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Serrano,mark.serrano5801@mail.com,456-208-6545,081 42 3789,1/7/1993,"3298 South Court",Washington,FL

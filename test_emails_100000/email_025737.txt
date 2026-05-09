@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Lopez
+  email: michelle.lopez5164@mail.com
+  phone: 981-677-9285
+  ssn: 549 82 4043
+  dob: 28/09/1950
+  address: 8474 Elm Dr
+  city: Philadelphia
+  state: CA

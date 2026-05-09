@@ -1,0 +1,14 @@
+INVOICE 963851
+
+Bill To:
+Name: Helen Ortiz
+Email: helen.ortiz7302@work.org
+Phone: 508-873-8570
+SSN: 992-89-4250
+
+Address: 7130 Pine St
+San Diego, WA
+
+Date of Birth: 20/05/1975
+
+Amount Due: $2384

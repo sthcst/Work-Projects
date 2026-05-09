@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Bell",
+    "email": "lisa.bell7276@yahoo.com",
+    "phone": "310-299-9968",
+    "ssn": "907-06-4918",
+    "dob": "10/24/1993",
+    "address": "7224 Park Ln",
+    "city": "San Antonio",
+    "state": "CA"
+  }
+}

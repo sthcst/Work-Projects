@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Edwards
+  email: kimberly.edwards8316@yahoo.com
+  phone: 646 454 3147
+  ssn: 980242567
+  dob: 06-17-2000
+  address: 7259 Summer Court
+  city: Philadelphia
+  state: NC

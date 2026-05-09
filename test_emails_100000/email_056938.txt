@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Reeves",
+    "email": "christopher.reeves7180@mail.com",
+    "phone": "(377) 961-9702",
+    "ssn": "485 95 7629",
+    "dob": "02/06/1994",
+    "address": "3568 West Ln",
+    "city": "San Antonio",
+    "state": "MD"
+  }
+}

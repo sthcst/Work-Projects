@@ -1,0 +1,14 @@
+INVOICE 192611
+
+Bill To:
+Name: Richard Jackson
+Email: richard.jackson6664@outlook.com
+Phone: (216) 223-2869
+SSN: 285-21-1135
+
+Address: 9072 Park St
+Los Angeles, NC
+
+Date of Birth: 08-09-2001
+
+Amount Due: $9645

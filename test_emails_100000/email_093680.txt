@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Parker",
+    "email": "kevin.parker5836@company.com",
+    "phone": "(550) 550-5007",
+    "ssn": "679-40-6317",
+    "dob": "14/04/1970",
+    "address": "505 Birch Way",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

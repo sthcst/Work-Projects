@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Robinson",
+    "email": "rachel.robinson5355@company.com",
+    "phone": "276-502-8123",
+    "ssn": "164811121",
+    "dob": "11/17/1974",
+    "address": "8950 Elm Court",
+    "city": "Houston",
+    "state": "NC"
+  }
+}

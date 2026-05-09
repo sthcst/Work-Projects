@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Matthew Smith,matthew.smith7388@outlook.com,295-958-3800,641-44-1009,5/28/1988,"8292 Sixth Way",Jacksonville,MI

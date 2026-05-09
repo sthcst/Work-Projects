@@ -1,0 +1,14 @@
+INVOICE 442970
+
+Bill To:
+Name: Kathleen Robinson
+Email: kathleen.robinson5420@example.com
+Phone: 720-612-9108
+SSN: 564808583
+
+Address: 7515 Birch Ave
+Dallas, NC
+
+Date of Birth: 22/01/1951
+
+Amount Due: $389

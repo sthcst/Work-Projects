@@ -1,0 +1,14 @@
+INVOICE 161598
+
+Bill To:
+Name: Kevin Sanchez
+Email: kevin.sanchez1824@outlook.com
+Phone: 368-374-4422
+SSN: 209-42-1749
+
+Address: 1904 Spring Rd
+San Diego, MI
+
+Date of Birth: 10/05/1977
+
+Amount Due: $8284

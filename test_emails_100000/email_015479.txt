@@ -1,0 +1,9 @@
+contact:
+  name: Anna Smith
+  email: anna.smith154@gmail.com
+  phone: (441) 712-1194
+  ssn: 883-41-7249
+  dob: 6/21/2001
+  address: 1426 Pine Ave
+  city: Washington
+  state: CA

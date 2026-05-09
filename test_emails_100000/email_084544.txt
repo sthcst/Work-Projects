@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Delgado
+  email: rachel.delgado7171@business.net
+  phone: 365 764 2882
+  ssn: 161 31 3199
+  dob: 10/08/1957
+  address: 213 Fourth Dr
+  city: New York
+  state: VA

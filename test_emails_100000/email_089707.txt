@@ -1,0 +1,9 @@
+contact:
+  name: Emily Flores
+  email: emily.flores1248@work.org
+  phone: 395-678-6190
+  ssn: 343 17 8024
+  dob: 01/01/1952
+  address: 2666 West Court
+  city: Boston
+  state: PA

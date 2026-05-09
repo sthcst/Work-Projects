@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Clark,andrew.clark9469@mail.com,959-431-7481,103-52-4695,11/17/1985,"2559 Sixth Ln",Los Angeles,AZ

@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Morris
+  email: deborah.morris2842@business.net
+  phone: 871 930 1134
+  ssn: 405-24-1839
+  dob: 18/12/1962
+  address: 1761 East Dr
+  city: New York
+  state: DC

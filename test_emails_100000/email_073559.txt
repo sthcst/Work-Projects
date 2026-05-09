@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Wilson",
+    "email": "edward.wilson745@outlook.com",
+    "phone": "969 412 6207",
+    "ssn": "109-45-4916",
+    "dob": "02-22-1981",
+    "address": "2131 Park Ln",
+    "city": "Denver",
+    "state": "IL"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Hernandez,jane.hernandez5296@business.net,231 365 5539,851-39-3618,11/2/1952,"6937 Park Rd",Washington,WA

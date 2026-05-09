@@ -1,0 +1,9 @@
+contact:
+  name: Emma Roberts
+  email: emma.roberts7655@mail.com
+  phone: 226-627-6358
+  ssn: 770556932
+  dob: 11/2/1972
+  address: 7870 Birch Blvd
+  city: San Diego
+  state: WI

@@ -1,0 +1,9 @@
+contact:
+  name: Robert Nelson
+  email: robert.nelson7590@outlook.com
+  phone: (631) 832-4499
+  ssn: 647021613
+  dob: 03-02-1996
+  address: 6273 Pine Rd
+  city: Dallas
+  state: MA

@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Parker
+  email: ronald.parker4523@work.org
+  phone: 580 598 1587
+  ssn: 913051774
+  dob: 01-21-1997
+  address: 9386 Maple Rd
+  city: Jacksonville
+  state: CO

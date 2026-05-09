@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Flores",
+    "email": "jessica.flores2817@business.net",
+    "phone": "+1 891-307-3964",
+    "ssn": "316117760",
+    "dob": "08/12/1991",
+    "address": "6809 West Blvd",
+    "city": "Jacksonville",
+    "state": "FL"
+  }
+}

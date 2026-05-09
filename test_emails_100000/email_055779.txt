@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Rogers",
+    "email": "ronald.rogers9365@yahoo.com",
+    "phone": "+1 331-467-2336",
+    "ssn": "075 54 4365",
+    "dob": "2/21/1982",
+    "address": "1061 Park St",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

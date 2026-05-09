@@ -1,0 +1,14 @@
+INVOICE 703670
+
+Bill To:
+Name: Andrew Ortiz
+Email: andrew.ortiz530@work.org
+Phone: +1 865-380-4285
+SSN: 049 44 8950
+
+Address: 7447 First Ave
+San Diego, TX
+
+Date of Birth: 09-19-1951
+
+Amount Due: $6685

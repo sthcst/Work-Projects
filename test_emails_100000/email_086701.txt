@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Hernandez,william.hernandez3108@work.org,376-839-6088,245 68 3308,04/08/1998,"9900 Pine Ave",Boston,IL

@@ -1,0 +1,14 @@
+INVOICE 311126
+
+Bill To:
+Name: Steven Hall
+Email: steven.hall3888@outlook.com
+Phone: 680-495-1442
+SSN: 332565145
+
+Address: 117 East Dr
+New York, MI
+
+Date of Birth: 10/03/2000
+
+Amount Due: $8294

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Jones",
+    "email": "jason.jones2008@company.com",
+    "phone": "(629) 382-2848",
+    "ssn": "458 40 5299",
+    "dob": "06-10-1971",
+    "address": "1179 Spring Ave",
+    "city": "San Antonio",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 550002
+
+Bill To:
+Name: Timothy Edwards
+Email: timothy.edwards1287@gmail.com
+Phone: 460-859-2218
+SSN: 530 65 9151
+
+Address: 6167 Cedar Ln
+San Jose, TX
+
+Date of Birth: 3/11/1952
+
+Amount Due: $2494

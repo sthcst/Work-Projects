@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Robinson",
+    "email": "brian.robinson8614@business.net",
+    "phone": "+1 319-989-9794",
+    "ssn": "949 43 3244",
+    "dob": "08/06/1971",
+    "address": "5627 Birch Court",
+    "city": "Austin",
+    "state": "MO"
+  }
+}

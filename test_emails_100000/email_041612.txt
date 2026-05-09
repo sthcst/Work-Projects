@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Hernandez",
+    "email": "joseph.hernandez1416@yahoo.com",
+    "phone": "(331) 889-7816",
+    "ssn": "299 65 4292",
+    "dob": "04-26-1999",
+    "address": "159 South St",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

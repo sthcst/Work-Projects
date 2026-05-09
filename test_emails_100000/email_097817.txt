@@ -1,0 +1,9 @@
+contact:
+  name: William Walker
+  email: william.walker5966@example.com
+  phone: (299) 900-6356
+  ssn: 756377193
+  dob: 19/06/1952
+  address: 799 Main Court
+  city: Seattle
+  state: WI

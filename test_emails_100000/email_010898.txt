@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Phillips,timothy.phillips7575@business.net,932 446 1031,333-02-1441,05-28-1972,"5491 Pine Blvd",Chicago,TX

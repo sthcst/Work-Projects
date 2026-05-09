@@ -1,0 +1,14 @@
+INVOICE 210901
+
+Bill To:
+Name: Megan Davis
+Email: megan.davis2897@yahoo.com
+Phone: (592) 909-9487
+SSN: 249491416
+
+Address: 740 Oak Ave
+Philadelphia, MO
+
+Date of Birth: 02-10-1975
+
+Amount Due: $6123

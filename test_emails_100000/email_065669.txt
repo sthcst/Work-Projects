@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Robinson
+  email: anthony.robinson5875@work.org
+  phone: +1 341-492-7772
+  ssn: 894-09-2383
+  dob: 04/17/1987
+  address: 6981 Cedar Blvd
+  city: Denver
+  state: AZ

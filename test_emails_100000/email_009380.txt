@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Wilson",
+    "email": "emma.wilson9938@gmail.com",
+    "phone": "657 662 7864",
+    "ssn": "259-66-7289",
+    "dob": "10/18/1971",
+    "address": "2604 Oak Court",
+    "city": "Boston",
+    "state": "WA"
+  }
+}

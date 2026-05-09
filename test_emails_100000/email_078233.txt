@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Dominguez,joshua.dominguez2662@outlook.com,(909) 518-8336,444 25 2799,07-20-1951,"3804 First St",Washington,NY

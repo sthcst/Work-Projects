@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Carter",
+    "email": "ronald.carter241@work.org",
+    "phone": "+1 790-792-7951",
+    "ssn": "980 96 4848",
+    "dob": "11/20/1975",
+    "address": "4443 Park Dr",
+    "city": "San Jose",
+    "state": "AZ"
+  }
+}

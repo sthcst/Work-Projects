@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Taylor,daniel.taylor1830@example.com,+1 360-756-6102,616-96-4615,06/08/2004,"3427 Main Blvd",Boston,NY

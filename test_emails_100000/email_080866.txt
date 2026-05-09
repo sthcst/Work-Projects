@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Carter
+  email: nicholas.carter8314@yahoo.com
+  phone: 344-333-2367
+  ssn: 017 40 2831
+  dob: 05/28/1968
+  address: 2999 Fifth Court
+  city: San Diego
+  state: WA

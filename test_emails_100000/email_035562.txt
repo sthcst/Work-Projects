@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Carter",
+    "email": "pamela.carter7462@yahoo.com",
+    "phone": "293 372 6928",
+    "ssn": "653-10-6276",
+    "dob": "06/28/1954",
+    "address": "3254 Oak Blvd",
+    "city": "Houston",
+    "state": "MA"
+  }
+}

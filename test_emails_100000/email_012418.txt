@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Lopez
+  email: kenneth.lopez9161@mail.com
+  phone: 368-699-7264
+  ssn: 712 79 5164
+  dob: 10/19/1983
+  address: 5810 Spring Ln
+  city: Dallas
+  state: NC

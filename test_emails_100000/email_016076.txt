@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Collins,nicole.collins2721@yahoo.com,(859) 392-4687,410-62-6764,11/20/1961,"7864 West Rd",San Diego,NC

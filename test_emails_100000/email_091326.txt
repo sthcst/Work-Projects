@@ -1,0 +1,14 @@
+INVOICE 366864
+
+Bill To:
+Name: George Parker
+Email: george.parker2984@business.net
+Phone: 692 991 2363
+SSN: 301 25 9795
+
+Address: 1265 Third Way
+Washington, TX
+
+Date of Birth: 07/07/1990
+
+Amount Due: $4191

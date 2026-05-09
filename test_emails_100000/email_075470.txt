@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Collins
+  email: brenda.collins9016@company.com
+  phone: +1 901-923-6840
+  ssn: 709805994
+  dob: 9/15/1964
+  address: 7676 Fourth Ave
+  city: Denver
+  state: NC

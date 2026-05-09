@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Ortiz",
+    "email": "jessica.ortiz7095@work.org",
+    "phone": "(246) 704-5714",
+    "ssn": "632 23 7127",
+    "dob": "3/20/1958",
+    "address": "8610 Third Rd",
+    "city": "Seattle",
+    "state": "MA"
+  }
+}

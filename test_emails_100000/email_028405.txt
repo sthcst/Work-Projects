@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Miller",
+    "email": "ronald.miller9002@work.org",
+    "phone": "+1 635-848-7957",
+    "ssn": "780-44-8739",
+    "dob": "09-02-1980",
+    "address": "1438 Main Ave",
+    "city": "Washington",
+    "state": "DC"
+  }
+}

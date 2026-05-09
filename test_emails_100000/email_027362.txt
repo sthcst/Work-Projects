@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Roberts
+  email: nicholas.roberts7974@business.net
+  phone: (712) 558-9756
+  ssn: 606 95 9110
+  dob: 11/06/1967
+  address: 2364 North Dr
+  city: Boston
+  state: CA

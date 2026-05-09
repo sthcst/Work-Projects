@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Martinez",
+    "email": "john.martinez8313@mail.com",
+    "phone": "+1 416-359-3537",
+    "ssn": "962148025",
+    "dob": "10-15-1968",
+    "address": "7657 East Way",
+    "city": "Austin",
+    "state": "CO"
+  }
+}

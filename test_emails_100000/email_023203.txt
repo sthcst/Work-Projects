@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Jimenez",
+    "email": "stephanie.jimenez6221@outlook.com",
+    "phone": "(314) 444-2346",
+    "ssn": "991-93-9724",
+    "dob": "07/21/1957",
+    "address": "8411 South Ln",
+    "city": "Chicago",
+    "state": "TN"
+  }
+}

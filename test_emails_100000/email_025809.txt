@@ -1,0 +1,14 @@
+INVOICE 889165
+
+Bill To:
+Name: Katherine Perez
+Email: katherine.perez1603@mail.com
+Phone: 267 557 5633
+SSN: 136-51-4535
+
+Address: 3350 Sixth Blvd
+New York, AZ
+
+Date of Birth: 8/22/1990
+
+Amount Due: $5852

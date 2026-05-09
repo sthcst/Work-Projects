@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Campbell",
+    "email": "ryan.campbell5579@example.com",
+    "phone": "(349) 957-7151",
+    "ssn": "439377849",
+    "dob": "3/23/1997",
+    "address": "5289 Summer Blvd",
+    "city": "Houston",
+    "state": "NY"
+  }
+}

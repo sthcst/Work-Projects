@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Martin",
+    "email": "jason.martin6951@outlook.com",
+    "phone": "213-477-9972",
+    "ssn": "853 95 6809",
+    "dob": "11/24/1999",
+    "address": "1131 Oak Ave",
+    "city": "San Antonio",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Lee,shirley.lee4857@example.com,(942) 871-8908,814-30-8667,1/28/1972,"9188 Park Court",San Jose,WA

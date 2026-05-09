@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Moore
+  email: joseph.moore562@yahoo.com
+  phone: 679-228-4624
+  ssn: 824 47 8979
+  dob: 10/10/1964
+  address: 1653 First Ave
+  city: Philadelphia
+  state: GA

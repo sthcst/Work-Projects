@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Smith",
+    "email": "samantha.smith671@outlook.com",
+    "phone": "826 558 4482",
+    "ssn": "918 14 7185",
+    "dob": "02-08-1976",
+    "address": "7513 Birch Ln",
+    "city": "New York",
+    "state": "MA"
+  }
+}

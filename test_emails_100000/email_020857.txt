@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Harris
+  email: ashley.harris4216@company.com
+  phone: (589) 367-2621
+  ssn: 172272123
+  dob: 02/10/1952
+  address: 7498 Maple St
+  city: San Jose
+  state: OH

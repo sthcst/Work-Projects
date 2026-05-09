@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Sanchez,jennifer.sanchez5788@work.org,+1 534-956-6046,395731866,08-08-1976,"9687 North Rd",New York,FL

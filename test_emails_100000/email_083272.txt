@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Flores",
+    "email": "deborah.flores7324@work.org",
+    "phone": "775-505-1058",
+    "ssn": "039-37-2532",
+    "dob": "04-26-1975",
+    "address": "9967 Sixth Court",
+    "city": "Jacksonville",
+    "state": "IL"
+  }
+}

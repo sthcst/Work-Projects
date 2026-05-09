@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Garcia",
+    "email": "nicole.garcia6390@mail.com",
+    "phone": "774 551 4902",
+    "ssn": "369-03-3164",
+    "dob": "06-20-1970",
+    "address": "7242 North Ln",
+    "city": "Los Angeles",
+    "state": "PA"
+  }
+}

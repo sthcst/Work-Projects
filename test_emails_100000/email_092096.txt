@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Young
+  email: ashley.young2482@work.org
+  phone: 486 931 5277
+  ssn: 742 68 5484
+  dob: 16/11/1963
+  address: 805 Sixth Rd
+  city: Seattle
+  state: TX

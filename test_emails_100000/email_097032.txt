@@ -1,0 +1,9 @@
+contact:
+  name: Brian Robinson
+  email: brian.robinson3020@work.org
+  phone: (836) 327-7926
+  ssn: 324-36-2933
+  dob: 1/27/1988
+  address: 8549 Fifth Blvd
+  city: Philadelphia
+  state: AZ

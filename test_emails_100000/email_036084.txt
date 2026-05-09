@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Smith,timothy.smith1006@yahoo.com,(428) 408-3639,199 32 5798,03/16/1959,"4338 Summer Ave",Phoenix,PA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Romero,cynthia.romero4533@company.com,767 805 1014,575-88-4058,02/27/1994,"1608 Fifth St",Chicago,TN

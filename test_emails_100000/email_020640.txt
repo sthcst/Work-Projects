@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Thompson",
+    "email": "joshua.thompson5799@outlook.com",
+    "phone": "(312) 652-5833",
+    "ssn": "126 35 2553",
+    "dob": "10-02-1953",
+    "address": "2271 Birch Blvd",
+    "city": "Philadelphia",
+    "state": "MO"
+  }
+}

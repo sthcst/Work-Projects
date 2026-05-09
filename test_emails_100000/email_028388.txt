@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Clark,kenneth.clark5869@example.com,783-758-8066,065-63-1220,11-21-1997,"7441 Second Way",Jacksonville,NJ

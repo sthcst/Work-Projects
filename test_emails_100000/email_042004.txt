@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Jackson,sarah.jackson5711@yahoo.com,+1 806-744-3693,218-61-7955,12-12-2000,"6408 Cedar Dr",San Antonio,CA

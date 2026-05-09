@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Reyes,jennifer.reyes9058@yahoo.com,+1 420-591-1702,315 59 4615,10-02-1954,"1827 First Blvd",Seattle,FL

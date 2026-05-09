@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Phillips
+  email: jeffrey.phillips490@outlook.com
+  phone: (510) 696-3354
+  ssn: 539512196
+  dob: 7/28/1990
+  address: 1545 Third Rd
+  city: Jacksonville
+  state: MI

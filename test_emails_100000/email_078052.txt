@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Stewart,sarah.stewart8249@gmail.com,(293) 840-4240,830 19 7300,3/10/1990,"9076 Third Dr",San Diego,CA

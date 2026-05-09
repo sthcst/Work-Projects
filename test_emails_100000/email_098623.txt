@@ -1,0 +1,14 @@
+INVOICE 810475
+
+Bill To:
+Name: Charles Peterson
+Email: charles.peterson276@work.org
+Phone: 672-506-4930
+SSN: 679-82-3198
+
+Address: 6497 Summer St
+New York, TX
+
+Date of Birth: 25/06/1962
+
+Amount Due: $6696

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Anderson",
+    "email": "robert.anderson3764@mail.com",
+    "phone": "+1 427-416-7494",
+    "ssn": "259719100",
+    "dob": "10-18-1964",
+    "address": "2323 Main Blvd",
+    "city": "San Diego",
+    "state": "MA"
+  }
+}

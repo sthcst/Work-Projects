@@ -1,0 +1,9 @@
+contact:
+  name: Edward Delgado
+  email: edward.delgado3129@outlook.com
+  phone: +1 693-980-6434
+  ssn: 147729678
+  dob: 28/12/1982
+  address: 3464 Pine Way
+  city: Los Angeles
+  state: FL

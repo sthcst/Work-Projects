@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Rodriguez",
+    "email": "pamela.rodriguez1457@example.com",
+    "phone": "880-739-7309",
+    "ssn": "685-59-4493",
+    "dob": "7/3/1956",
+    "address": "2711 South Blvd",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

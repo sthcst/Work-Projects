@@ -1,0 +1,9 @@
+contact:
+  name: Emma Romero
+  email: emma.romero3908@work.org
+  phone: 914 689 2697
+  ssn: 561 28 9203
+  dob: 06-11-1989
+  address: 4375 Birch St
+  city: Austin
+  state: WA

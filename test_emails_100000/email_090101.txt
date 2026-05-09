@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Ramirez,anna.ramirez7550@outlook.com,964-669-4122,790-52-8425,28/09/1978,"1193 Second Court",Dallas,TN

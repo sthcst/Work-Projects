@@ -1,0 +1,14 @@
+INVOICE 128302
+
+Bill To:
+Name: Timothy Bell
+Email: timothy.bell3259@example.com
+Phone: 565-299-5440
+SSN: 941-91-9470
+
+Address: 2040 First Blvd
+New York, PA
+
+Date of Birth: 22/04/1980
+
+Amount Due: $8076

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Lewis",
+    "email": "rebecca.lewis2052@outlook.com",
+    "phone": "961-761-3463",
+    "ssn": "166-18-7020",
+    "dob": "10-08-1954",
+    "address": "7159 Fifth Rd",
+    "city": "Phoenix",
+    "state": "WI"
+  }
+}

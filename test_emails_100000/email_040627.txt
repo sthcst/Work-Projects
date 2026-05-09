@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Martin,andrew.martin6679@mail.com,485-305-1488,044972723,25/11/1960,"5265 Spring Court",Seattle,FL

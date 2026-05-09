@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Sanchez",
+    "email": "kevin.sanchez1327@example.com",
+    "phone": "428 283 6015",
+    "ssn": "964-99-8653",
+    "dob": "5/9/1993",
+    "address": "2845 Pine Ln",
+    "city": "Los Angeles",
+    "state": "NY"
+  }
+}

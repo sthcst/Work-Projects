@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Murillo,deborah.murillo4573@mail.com,805-300-8413,172-53-7603,20/07/1984,"3423 Park Court",Phoenix,PA

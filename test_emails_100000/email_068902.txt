@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Thomas,michael.thomas593@mail.com,(401) 996-8413,076-15-6044,04/03/1989,"8727 Fourth Court",New York,DC

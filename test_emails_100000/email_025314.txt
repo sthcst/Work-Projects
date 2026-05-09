@@ -1,0 +1,14 @@
+INVOICE 967142
+
+Bill To:
+Name: Rachel Cooper
+Email: rachel.cooper486@mail.com
+Phone: +1 406-309-7433
+SSN: 713 25 9259
+
+Address: 8670 Summer Court
+Houston, VA
+
+Date of Birth: 08/13/1986
+
+Amount Due: $5810

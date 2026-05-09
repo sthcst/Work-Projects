@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Parker",
+    "email": "john.parker9108@business.net",
+    "phone": "913 629 6659",
+    "ssn": "149459398",
+    "dob": "09/04/1992",
+    "address": "4179 Third Ave",
+    "city": "Houston",
+    "state": "CA"
+  }
+}

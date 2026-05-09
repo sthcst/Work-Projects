@@ -1,0 +1,9 @@
+contact:
+  name: David Cooper
+  email: david.cooper404@mail.com
+  phone: 459-793-3924
+  ssn: 990-89-2269
+  dob: 04-01-1956
+  address: 6027 First Way
+  city: New York
+  state: CA

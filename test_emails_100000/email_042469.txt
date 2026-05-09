@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Morris
+  email: deborah.morris293@company.com
+  phone: 422-674-8785
+  ssn: 023-62-4250
+  dob: 08-23-1974
+  address: 2123 Third St
+  city: Denver
+  state: WA

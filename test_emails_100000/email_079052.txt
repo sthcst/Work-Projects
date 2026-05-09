@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Nunez,mark.nunez6781@gmail.com,589-345-6946,419-63-5440,27/01/1996,"493 West Rd",Jacksonville,AZ

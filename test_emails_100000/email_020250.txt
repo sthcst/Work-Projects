@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Brown
+  email: nicholas.brown5359@company.com
+  phone: 519 824 4545
+  ssn: 726 40 1402
+  dob: 09-13-1992
+  address: 1906 Fourth Ave
+  city: Chicago
+  state: VA

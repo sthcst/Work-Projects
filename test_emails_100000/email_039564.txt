@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Martinez",
+    "email": "gary.martinez141@business.net",
+    "phone": "882-969-8960",
+    "ssn": "974 20 9225",
+    "dob": "07-01-2005",
+    "address": "50 Pine Blvd",
+    "city": "Phoenix",
+    "state": "MA"
+  }
+}

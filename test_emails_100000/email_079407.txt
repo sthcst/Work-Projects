@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Johnson",
+    "email": "maria.johnson283@company.com",
+    "phone": "466 873 4352",
+    "ssn": "714 23 9862",
+    "dob": "03-17-1952",
+    "address": "4370 Birch Way",
+    "city": "Los Angeles",
+    "state": "DC"
+  }
+}

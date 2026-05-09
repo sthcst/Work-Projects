@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Thomas",
+    "email": "robert.thomas5058@company.com",
+    "phone": "412 755 1876",
+    "ssn": "852553981",
+    "dob": "26/07/1997",
+    "address": "4116 Main Blvd",
+    "city": "New York",
+    "state": "IL"
+  }
+}

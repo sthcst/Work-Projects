@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Stewart
+  email: andrew.stewart5813@example.com
+  phone: 986-704-7854
+  ssn: 827 63 8495
+  dob: 4/17/1960
+  address: 8377 Second Ln
+  city: Denver
+  state: TX

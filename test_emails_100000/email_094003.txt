@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Gonzalez
+  email: deborah.gonzalez4557@example.com
+  phone: +1 663-365-1794
+  ssn: 604327752
+  dob: 8/1/1951
+  address: 8670 Second Dr
+  city: Dallas
+  state: WA

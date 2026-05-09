@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Roberts",
+    "email": "maria.roberts7099@yahoo.com",
+    "phone": "572 529 6896",
+    "ssn": "399418957",
+    "dob": "04/24/1994",
+    "address": "7674 Spring Ln",
+    "city": "Los Angeles",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Brown,nicole.brown4300@example.com,+1 898-922-7753,104143471,07/15/1974,"1783 East Ave",Boston,PA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Johnson",
+    "email": "daniel.johnson9504@mail.com",
+    "phone": "365-741-6132",
+    "ssn": "547026585",
+    "dob": "04-27-1995",
+    "address": "2420 Pine Court",
+    "city": "Phoenix",
+    "state": "FL"
+  }
+}

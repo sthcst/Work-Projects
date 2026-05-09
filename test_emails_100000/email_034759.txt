@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Johnson
+  email: kathleen.johnson5167@company.com
+  phone: (683) 205-8139
+  ssn: 874292943
+  dob: 22/06/1950
+  address: 2069 Pine Ln
+  city: Denver
+  state: VA

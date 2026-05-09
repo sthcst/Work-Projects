@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Dominguez,jacob.dominguez9900@yahoo.com,(411) 281-3841,142 87 8871,10-10-1972,"2786 East Dr",Seattle,PA

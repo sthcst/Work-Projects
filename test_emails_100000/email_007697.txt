@@ -1,0 +1,9 @@
+contact:
+  name: Mark Bell
+  email: mark.bell7193@business.net
+  phone: +1 983-666-7819
+  ssn: 872346036
+  dob: 12/26/1976
+  address: 8961 Fourth Ave
+  city: Seattle
+  state: OH

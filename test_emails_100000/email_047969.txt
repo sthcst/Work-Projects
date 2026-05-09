@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Delgado
+  email: jennifer.delgado3121@gmail.com
+  phone: 289 211 8423
+  ssn: 880 88 2471
+  dob: 01/06/1978
+  address: 908 Summer Court
+  city: Los Angeles
+  state: TN

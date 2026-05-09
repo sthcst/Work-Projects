@@ -1,0 +1,14 @@
+INVOICE 368678
+
+Bill To:
+Name: Michelle Nelson
+Email: michelle.nelson3716@example.com
+Phone: (586) 241-5424
+SSN: 642147065
+
+Address: 6780 East Rd
+Houston, MA
+
+Date of Birth: 03/05/1950
+
+Amount Due: $6142

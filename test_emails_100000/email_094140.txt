@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Garcia
+  email: jennifer.garcia662@work.org
+  phone: +1 469-307-5466
+  ssn: 859 68 5028
+  dob: 09/06/1988
+  address: 1824 West Blvd
+  city: San Antonio
+  state: CO

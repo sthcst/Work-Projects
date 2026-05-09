@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Romero
+  email: jeffrey.romero4423@business.net
+  phone: (708) 489-9050
+  ssn: 053-31-1267
+  dob: 13/07/1965
+  address: 893 Maple Way
+  city: Seattle
+  state: TN

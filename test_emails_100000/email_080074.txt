@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Clark,amanda.clark4735@yahoo.com,727 684 6195,382149893,05/26/1988,"640 North Blvd",San Antonio,VA

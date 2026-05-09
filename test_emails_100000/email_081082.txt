@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Alvarado,amanda.alvarado7619@company.com,+1 941-369-6000,558-51-8059,9/17/1967,"3691 West St",San Jose,CA

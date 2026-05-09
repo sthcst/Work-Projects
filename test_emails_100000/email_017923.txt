@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Peterson,nicole.peterson3018@outlook.com,(968) 233-9332,196-17-7201,04-12-1982,"1917 First Ln",Jacksonville,CA

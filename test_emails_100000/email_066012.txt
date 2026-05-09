@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Serrano,brian.serrano4383@company.com,815-386-5005,364 32 1198,09/24/1962,"1056 Sixth Dr",Denver,MI

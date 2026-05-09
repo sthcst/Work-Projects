@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Wilson",
+    "email": "kathleen.wilson5270@outlook.com",
+    "phone": "244 468 1895",
+    "ssn": "092 47 6997",
+    "dob": "08/21/1977",
+    "address": "5995 Spring Rd",
+    "city": "Los Angeles",
+    "state": "FL"
+  }
+}

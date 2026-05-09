@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Delgado,nicole.delgado7411@example.com,252 995 8219,578 93 5121,8/16/2003,"2133 Sixth St",Phoenix,TX

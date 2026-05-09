@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Jimenez",
+    "email": "gary.jimenez2604@business.net",
+    "phone": "+1 710-515-2850",
+    "ssn": "256068233",
+    "dob": "19/10/1995",
+    "address": "440 Cedar St",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

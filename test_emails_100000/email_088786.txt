@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Anderson,daniel.anderson2801@work.org,(917) 865-3433,472-33-6106,03-03-1961,"4867 Second Way",Los Angeles,CA

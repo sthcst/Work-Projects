@@ -1,0 +1,9 @@
+contact:
+  name: Michael Robinson
+  email: michael.robinson94@business.net
+  phone: 929 595 5575
+  ssn: 144 60 3891
+  dob: 05/26/1977
+  address: 1154 Sixth Rd
+  city: San Antonio
+  state: WI

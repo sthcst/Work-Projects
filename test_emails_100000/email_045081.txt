@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Peterson,jeffrey.peterson3739@work.org,+1 831-631-4309,070075460,12/8/1958,"9308 East Blvd",Los Angeles,TX

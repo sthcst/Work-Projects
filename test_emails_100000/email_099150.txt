@@ -1,0 +1,14 @@
+INVOICE 814084
+
+Bill To:
+Name: Brenda Phillips
+Email: brenda.phillips6087@company.com
+Phone: 224-984-6278
+SSN: 767 27 6769
+
+Address: 7437 Main Blvd
+Los Angeles, TX
+
+Date of Birth: 12/28/1955
+
+Amount Due: $5834

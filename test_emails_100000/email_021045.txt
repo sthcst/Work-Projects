@@ -1,0 +1,14 @@
+INVOICE 434103
+
+Bill To:
+Name: Rachel Lewis
+Email: rachel.lewis6399@example.com
+Phone: (630) 585-2149
+SSN: 045-50-5231
+
+Address: 5984 First Rd
+Seattle, CO
+
+Date of Birth: 01/15/1996
+
+Amount Due: $3476

@@ -1,0 +1,9 @@
+contact:
+  name: Helen Murillo
+  email: helen.murillo6670@mail.com
+  phone: +1 317-604-6191
+  ssn: 088 16 2674
+  dob: 01-12-2000
+  address: 2516 Elm Court
+  city: Seattle
+  state: MI

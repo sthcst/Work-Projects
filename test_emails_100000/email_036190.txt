@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Lopez,emma.lopez2822@example.com,+1 631-669-5944,506929418,14/09/1989,"2001 Pine Ln",Washington,CA

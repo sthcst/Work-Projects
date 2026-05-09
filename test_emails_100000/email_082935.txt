@@ -1,0 +1,9 @@
+contact:
+  name: John Smith
+  email: john.smith7564@company.com
+  phone: +1 757-310-6816
+  ssn: 901905667
+  dob: 3/12/1974
+  address: 3638 Birch Court
+  city: Los Angeles
+  state: AZ

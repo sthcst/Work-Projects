@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Nunez
+  email: ashley.nunez2637@mail.com
+  phone: +1 228-646-1235
+  ssn: 749 26 7320
+  dob: 09-07-1968
+  address: 6483 Birch Dr
+  city: Chicago
+  state: IL

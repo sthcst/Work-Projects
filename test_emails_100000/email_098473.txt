@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Evans",
+    "email": "kimberly.evans4676@yahoo.com",
+    "phone": "(393) 765-5000",
+    "ssn": "780-49-9334",
+    "dob": "03-12-1999",
+    "address": "2818 Fifth Blvd",
+    "city": "Boston",
+    "state": "PA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Donald Hall
+  email: donald.hall1420@gmail.com
+  phone: +1 550-323-4916
+  ssn: 932-62-1608
+  dob: 10-15-1959
+  address: 7863 Park Dr
+  city: Boston
+  state: MI

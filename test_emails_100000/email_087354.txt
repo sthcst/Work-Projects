@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Williams",
+    "email": "michael.williams4218@mail.com",
+    "phone": "(788) 973-3506",
+    "ssn": "262-16-3602",
+    "dob": "03-03-1966",
+    "address": "5638 Second Ave",
+    "city": "Houston",
+    "state": "MO"
+  }
+}

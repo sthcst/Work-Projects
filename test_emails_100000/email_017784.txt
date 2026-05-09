@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Guerrero",
+    "email": "donald.guerrero4382@work.org",
+    "phone": "757 622 9467",
+    "ssn": "389 15 8713",
+    "dob": "12/08/1958",
+    "address": "422 Pine Court",
+    "city": "Seattle",
+    "state": "WI"
+  }
+}

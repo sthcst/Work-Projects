@@ -1,0 +1,14 @@
+INVOICE 990553
+
+Bill To:
+Name: Michelle Anderson
+Email: michelle.anderson8520@example.com
+Phone: (954) 768-5625
+SSN: 112-99-4502
+
+Address: 2635 Pine Ln
+Austin, CO
+
+Date of Birth: 16/09/1956
+
+Amount Due: $8218

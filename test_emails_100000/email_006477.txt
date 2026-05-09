@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Bell",
+    "email": "brenda.bell7270@business.net",
+    "phone": "+1 354-356-3072",
+    "ssn": "672743704",
+    "dob": "08-04-1997",
+    "address": "126 Cedar Ln",
+    "city": "Phoenix",
+    "state": "AZ"
+  }
+}

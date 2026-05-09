@@ -1,0 +1,14 @@
+INVOICE 155456
+
+Bill To:
+Name: Steven Rodriguez
+Email: steven.rodriguez1789@business.net
+Phone: (297) 346-5920
+SSN: 492-66-7838
+
+Address: 6258 Summer Ln
+Houston, FL
+
+Date of Birth: 25/02/1990
+
+Amount Due: $2005

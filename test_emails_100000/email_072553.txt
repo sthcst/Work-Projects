@@ -1,0 +1,14 @@
+INVOICE 201871
+
+Bill To:
+Name: Richard Johnson
+Email: richard.johnson7700@yahoo.com
+Phone: 219 357 2470
+SSN: 035-76-4691
+
+Address: 7102 Oak Rd
+Jacksonville, FL
+
+Date of Birth: 08-20-1969
+
+Amount Due: $6549

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Brown,richard.brown9982@company.com,322-439-6649,231959964,4/26/1993,"9349 Sixth Way",Chicago,OH

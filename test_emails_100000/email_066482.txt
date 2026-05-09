@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Jones",
+    "email": "helen.jones7948@outlook.com",
+    "phone": "513 945 2276",
+    "ssn": "588-98-9153",
+    "dob": "23/10/1986",
+    "address": "5238 Fourth Rd",
+    "city": "Jacksonville",
+    "state": "NC"
+  }
+}

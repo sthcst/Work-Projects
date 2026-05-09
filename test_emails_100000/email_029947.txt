@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Ramirez",
+    "email": "angela.ramirez6402@gmail.com",
+    "phone": "724-564-9538",
+    "ssn": "232753096",
+    "dob": "01-14-1982",
+    "address": "4428 North St",
+    "city": "San Diego",
+    "state": "FL"
+  }
+}

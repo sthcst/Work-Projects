@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Ortiz,brian.ortiz1380@gmail.com,443-509-4463,901-77-7118,01/16/1993,"5023 Maple Ave",Denver,CA

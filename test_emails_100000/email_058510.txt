@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Perez",
+    "email": "kevin.perez3778@gmail.com",
+    "phone": "738-720-1374",
+    "ssn": "209 40 5632",
+    "dob": "10/5/1960",
+    "address": "7933 First Ave",
+    "city": "New York",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: George Alvarado
+  email: george.alvarado299@mail.com
+  phone: 766 916 2040
+  ssn: 274 22 1763
+  dob: 07/23/1970
+  address: 1862 Fourth St
+  city: Washington
+  state: WA

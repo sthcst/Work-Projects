@@ -1,0 +1,14 @@
+INVOICE 573638
+
+Bill To:
+Name: Emily Johnson
+Email: emily.johnson2585@example.com
+Phone: 900 976 2558
+SSN: 318-47-2206
+
+Address: 8856 Fourth Way
+San Diego, TX
+
+Date of Birth: 8/4/1953
+
+Amount Due: $936

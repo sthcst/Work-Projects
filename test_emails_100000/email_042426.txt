@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Reed",
+    "email": "jason.reed9683@example.com",
+    "phone": "760-871-9384",
+    "ssn": "101373934",
+    "dob": "10/23/1960",
+    "address": "639 First St",
+    "city": "Seattle",
+    "state": "WA"
+  }
+}

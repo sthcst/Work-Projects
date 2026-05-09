@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Reed
+  email: katherine.reed8094@mail.com
+  phone: 804 478 9262
+  ssn: 177 15 6766
+  dob: 5/28/1953
+  address: 4830 Pine Dr
+  city: Chicago
+  state: FL

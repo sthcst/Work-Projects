@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Nelson
+  email: nicholas.nelson3134@mail.com
+  phone: +1 345-883-6693
+  ssn: 270 59 9045
+  dob: 02-10-1995
+  address: 7047 Summer Court
+  city: Denver
+  state: MD

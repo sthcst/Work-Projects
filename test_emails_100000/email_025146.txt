@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Nunez",
+    "email": "katherine.nunez6262@business.net",
+    "phone": "+1 508-441-2852",
+    "ssn": "016712589",
+    "dob": "08-28-1967",
+    "address": "805 Fourth St",
+    "city": "Austin",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Wilson,robert.wilson325@outlook.com,+1 640-652-6056,654 43 9192,08/16/1988,"2006 Main Blvd",Chicago,CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Martin",
+    "email": "deborah.martin2111@work.org",
+    "phone": "809-737-9383",
+    "ssn": "591-03-9172",
+    "dob": "22/12/1971",
+    "address": "4370 East Dr",
+    "city": "Los Angeles",
+    "state": "MI"
+  }
+}

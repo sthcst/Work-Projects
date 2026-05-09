@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Romero,nicholas.romero4469@mail.com,965 357 2106,365 42 9090,10-08-1971,"2568 East Blvd",Houston,MA

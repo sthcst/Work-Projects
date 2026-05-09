@@ -1,0 +1,14 @@
+INVOICE 519580
+
+Bill To:
+Name: William Robinson
+Email: william.robinson675@mail.com
+Phone: 754 633 1040
+SSN: 087609834
+
+Address: 8862 Second Court
+New York, FL
+
+Date of Birth: 12/26/1955
+
+Amount Due: $9829

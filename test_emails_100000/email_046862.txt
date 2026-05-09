@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Martinez
+  email: joseph.martinez8938@work.org
+  phone: +1 338-852-8872
+  ssn: 742-61-5630
+  dob: 09/10/2001
+  address: 6687 Main Ave
+  city: San Diego
+  state: WA

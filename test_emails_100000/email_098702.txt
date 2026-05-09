@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Miller,jessica.miller8396@outlook.com,+1 564-336-7684,625739694,11-19-1976,"4613 East Ave",Seattle,AZ

@@ -1,0 +1,9 @@
+contact:
+  name: Edward Jimenez
+  email: edward.jimenez4100@gmail.com
+  phone: 268-429-4609
+  ssn: 276209566
+  dob: 06-02-1953
+  address: 4528 Elm Ln
+  city: Austin
+  state: DC

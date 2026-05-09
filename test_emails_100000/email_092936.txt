@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Clark",
+    "email": "david.clark4203@yahoo.com",
+    "phone": "292 695 6049",
+    "ssn": "813414539",
+    "dob": "01/16/1952",
+    "address": "6661 South Rd",
+    "city": "San Antonio",
+    "state": "MI"
+  }
+}

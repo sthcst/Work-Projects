@@ -1,0 +1,9 @@
+contact:
+  name: Charles Serrano
+  email: charles.serrano9165@mail.com
+  phone: 496-669-8796
+  ssn: 446948873
+  dob: 04/01/1982
+  address: 8283 Oak Ave
+  city: San Diego
+  state: MA

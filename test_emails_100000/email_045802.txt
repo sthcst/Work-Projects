@@ -1,0 +1,14 @@
+INVOICE 762828
+
+Bill To:
+Name: Stephanie Lee
+Email: stephanie.lee5560@example.com
+Phone: +1 451-771-4066
+SSN: 262861970
+
+Address: 613 Maple Ln
+Washington, DC
+
+Date of Birth: 15/06/1997
+
+Amount Due: $5324

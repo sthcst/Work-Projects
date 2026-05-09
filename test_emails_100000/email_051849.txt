@@ -1,0 +1,9 @@
+contact:
+  name: Mark Bell
+  email: mark.bell8713@work.org
+  phone: 642-896-1606
+  ssn: 884 35 1222
+  dob: 04/17/2003
+  address: 3769 Cedar Rd
+  city: Jacksonville
+  state: TX

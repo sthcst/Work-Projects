@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Carter
+  email: nicole.carter58@mail.com
+  phone: 268-752-4271
+  ssn: 740 09 9044
+  dob: 08/12/1961
+  address: 9616 Summer Way
+  city: Los Angeles
+  state: FL

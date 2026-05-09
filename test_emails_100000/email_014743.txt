@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Ortiz,kathleen.ortiz3439@business.net,+1 589-423-8811,945404523,03/27/2001,"6251 Pine St",Phoenix,NY

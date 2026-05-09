@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Phillips",
+    "email": "rachel.phillips6811@example.com",
+    "phone": "(811) 558-1935",
+    "ssn": "306-03-9575",
+    "dob": "3/2/1981",
+    "address": "955 Fifth Way",
+    "city": "Seattle",
+    "state": "NC"
+  }
+}

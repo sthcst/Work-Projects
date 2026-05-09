@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Garcia
+  email: samantha.garcia184@example.com
+  phone: (827) 615-1660
+  ssn: 324 63 8374
+  dob: 25/05/1964
+  address: 6934 Sixth Dr
+  city: San Antonio
+  state: PA

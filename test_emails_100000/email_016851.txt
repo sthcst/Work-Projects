@@ -1,0 +1,9 @@
+contact:
+  name: Mark Wilson
+  email: mark.wilson4017@company.com
+  phone: 928-299-5194
+  ssn: 193 77 2969
+  dob: 04-01-1971
+  address: 982 Maple Way
+  city: Philadelphia
+  state: NJ

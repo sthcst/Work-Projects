@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Gomez",
+    "email": "deborah.gomez2526@work.org",
+    "phone": "+1 210-459-4467",
+    "ssn": "921-27-8718",
+    "dob": "3/5/1972",
+    "address": "36 Summer Way",
+    "city": "San Antonio",
+    "state": "CO"
+  }
+}

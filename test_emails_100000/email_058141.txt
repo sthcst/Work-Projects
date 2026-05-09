@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Campbell",
+    "email": "jane.campbell5382@company.com",
+    "phone": "638-853-5167",
+    "ssn": "194-58-4707",
+    "dob": "02/11/1999",
+    "address": "2667 Oak Way",
+    "city": "Phoenix",
+    "state": "PA"
+  }
+}

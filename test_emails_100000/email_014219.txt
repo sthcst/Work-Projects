@@ -1,0 +1,9 @@
+contact:
+  name: Helen Harris
+  email: helen.harris9517@mail.com
+  phone: +1 206-839-2047
+  ssn: 117 11 2106
+  dob: 11/22/1964
+  address: 1538 Main Blvd
+  city: Philadelphia
+  state: WA

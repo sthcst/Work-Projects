@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Stewart",
+    "email": "john.stewart672@work.org",
+    "phone": "(472) 222-4824",
+    "ssn": "687602577",
+    "dob": "17/11/1973",
+    "address": "9490 West Way",
+    "city": "San Jose",
+    "state": "AZ"
+  }
+}

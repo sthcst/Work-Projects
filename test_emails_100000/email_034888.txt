@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Murillo
+  email: ryan.murillo6163@outlook.com
+  phone: 882-715-4160
+  ssn: 100-30-8227
+  dob: 08/17/1970
+  address: 5085 Park Ln
+  city: New York
+  state: TX

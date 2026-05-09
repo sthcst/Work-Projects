@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Brown,andrew.brown1517@example.com,+1 859-845-7320,393-87-2700,1/1/1960,"185 South Ave",San Jose,AZ

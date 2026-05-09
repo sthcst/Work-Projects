@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Nunez",
+    "email": "jason.nunez3166@business.net",
+    "phone": "+1 448-750-4896",
+    "ssn": "886495781",
+    "dob": "17/12/1968",
+    "address": "9796 Summer Ave",
+    "city": "Los Angeles",
+    "state": "DC"
+  }
+}

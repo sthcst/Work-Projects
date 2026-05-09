@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Peterson
+  email: amanda.peterson7557@company.com
+  phone: 281 612 3101
+  ssn: 655-08-2494
+  dob: 08/11/2003
+  address: 78 North Dr
+  city: Los Angeles
+  state: VA

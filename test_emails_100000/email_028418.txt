@@ -1,0 +1,12 @@
+SUPPORT TICKET #31495
+
+Customer: Joseph Edwards
+Email: joseph.edwards7103@example.com
+Phone: (259) 344-1444
+Account: 782-22-5250
+
+Issue Description: Technical problem reported
+DOB on file: 09/03/1992
+Address: 4096 Sixth Way, Dallas, OH
+
+Status: OPEN

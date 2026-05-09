@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Reed,emily.reed2609@example.com,480 250 9726,509848119,10/07/1965,"6207 Maple St",Phoenix,AZ

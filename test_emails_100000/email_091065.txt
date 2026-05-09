@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Morgan,pamela.morgan1981@example.com,417-883-8693,048041647,12-08-1972,"2931 Maple Way",San Diego,MA

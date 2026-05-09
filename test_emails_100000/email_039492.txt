@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Wilson",
+    "email": "michelle.wilson2566@business.net",
+    "phone": "799 472 1852",
+    "ssn": "098788718",
+    "dob": "12-05-1964",
+    "address": "6911 Maple Blvd",
+    "city": "Seattle",
+    "state": "WI"
+  }
+}

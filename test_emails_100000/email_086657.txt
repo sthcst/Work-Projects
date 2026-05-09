@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Sanchez,jane.sanchez6145@company.com,945 248 7357,485-27-7713,7/28/1962,"1048 First Ave",Boston,WA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Stewart",
+    "email": "shirley.stewart3329@company.com",
+    "phone": "(886) 584-6256",
+    "ssn": "068 54 3187",
+    "dob": "06-21-1954",
+    "address": "8959 First Dr",
+    "city": "Austin",
+    "state": "CO"
+  }
+}

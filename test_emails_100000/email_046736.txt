@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Bell,donald.bell8021@company.com,386-518-9820,203 49 9343,04/15/1973,"8459 First Blvd",Los Angeles,CO

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Guerrero",
+    "email": "katherine.guerrero2604@business.net",
+    "phone": "664 630 2418",
+    "ssn": "846 88 2203",
+    "dob": "03-22-1960",
+    "address": "4482 Summer Court",
+    "city": "Chicago",
+    "state": "IL"
+  }
+}

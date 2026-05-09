@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Perez,christopher.perez9248@outlook.com,(955) 799-4279,946 62 1119,04/05/1969,"5479 Sixth Ave",Seattle,TN

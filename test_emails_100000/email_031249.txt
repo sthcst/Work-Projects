@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Alvarado
+  email: anthony.alvarado6618@outlook.com
+  phone: (331) 724-7660
+  ssn: 208 25 8609
+  dob: 4/28/1976
+  address: 1865 Spring Ln
+  city: San Jose
+  state: NJ

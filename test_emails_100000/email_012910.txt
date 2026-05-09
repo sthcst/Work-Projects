@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Jones",
+    "email": "kimberly.jones6638@outlook.com",
+    "phone": "458 470 3659",
+    "ssn": "355-87-3454",
+    "dob": "10/12/1988",
+    "address": "7696 East Dr",
+    "city": "Houston",
+    "state": "NJ"
+  }
+}

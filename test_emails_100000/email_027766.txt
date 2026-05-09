@@ -1,0 +1,14 @@
+INVOICE 998823
+
+Bill To:
+Name: Pamela Thompson
+Email: pamela.thompson771@example.com
+Phone: (931) 252-2391
+SSN: 858248254
+
+Address: 4373 Maple Blvd
+Austin, WA
+
+Date of Birth: 08/02/1954
+
+Amount Due: $1380

@@ -1,0 +1,14 @@
+INVOICE 217656
+
+Bill To:
+Name: Nicholas Williams
+Email: nicholas.williams1252@example.com
+Phone: +1 330-457-4914
+SSN: 531 10 6479
+
+Address: 1782 Fifth Way
+New York, NJ
+
+Date of Birth: 6/12/1958
+
+Amount Due: $9364

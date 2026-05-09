@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Johnson
+  email: samantha.johnson4397@yahoo.com
+  phone: (529) 611-3543
+  ssn: 784 34 9356
+  dob: 9/3/1988
+  address: 5847 Second Rd
+  city: Jacksonville
+  state: CO

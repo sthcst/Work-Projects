@@ -1,0 +1,9 @@
+contact:
+  name: Richard Hernandez
+  email: richard.hernandez5628@business.net
+  phone: 212 898 9116
+  ssn: 809-85-9076
+  dob: 01/10/1989
+  address: 1613 South Blvd
+  city: San Antonio
+  state: MI

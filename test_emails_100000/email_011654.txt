@@ -1,0 +1,9 @@
+contact:
+  name: Robert Lee
+  email: robert.lee20@business.net
+  phone: (481) 969-2232
+  ssn: 815585398
+  dob: 3/21/1992
+  address: 4385 East St
+  city: Phoenix
+  state: FL

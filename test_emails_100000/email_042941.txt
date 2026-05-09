@@ -1,0 +1,14 @@
+INVOICE 964251
+
+Bill To:
+Name: Maria Miller
+Email: maria.miller4632@company.com
+Phone: 485-256-2029
+SSN: 056561840
+
+Address: 4199 North Ln
+Denver, IL
+
+Date of Birth: 27/03/1961
+
+Amount Due: $9745

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Ortiz,rachel.ortiz9355@yahoo.com,(515) 682-4885,547-36-4694,10/19/1996,"6487 Maple St",Houston,CA

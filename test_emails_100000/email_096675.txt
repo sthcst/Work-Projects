@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Delgado",
+    "email": "lisa.delgado5746@work.org",
+    "phone": "449-676-9984",
+    "ssn": "778068058",
+    "dob": "10/16/1990",
+    "address": "7541 North Ave",
+    "city": "Jacksonville",
+    "state": "MA"
+  }
+}

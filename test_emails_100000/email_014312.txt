@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Carter,maria.carter7259@outlook.com,+1 846-573-1864,966658692,06-26-1994,"2079 Fourth Ln",Philadelphia,VA

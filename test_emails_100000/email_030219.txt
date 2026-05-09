@@ -1,0 +1,14 @@
+INVOICE 823909
+
+Bill To:
+Name: Kevin Johnson
+Email: kevin.johnson3546@business.net
+Phone: +1 494-406-4134
+SSN: 016 36 9441
+
+Address: 777 West Court
+Philadelphia, MA
+
+Date of Birth: 25/07/1964
+
+Amount Due: $5251

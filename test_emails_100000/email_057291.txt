@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Bell
+  email: lauren.bell7511@company.com
+  phone: 919 960 6840
+  ssn: 459 41 8061
+  dob: 04/04/1964
+  address: 5226 Cedar Dr
+  city: Boston
+  state: MI

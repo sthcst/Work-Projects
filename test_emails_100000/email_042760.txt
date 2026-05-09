@@ -1,0 +1,14 @@
+INVOICE 310849
+
+Bill To:
+Name: James Carter
+Email: james.carter9159@mail.com
+Phone: 464 624 6320
+SSN: 347968980
+
+Address: 6890 North Blvd
+New York, GA
+
+Date of Birth: 4/25/1979
+
+Amount Due: $9789

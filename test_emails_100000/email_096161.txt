@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Gonzalez
+  email: rachel.gonzalez2092@outlook.com
+  phone: (324) 504-8529
+  ssn: 132055560
+  dob: 1/7/1999
+  address: 3703 Fifth St
+  city: San Diego
+  state: PA

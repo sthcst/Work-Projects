@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Lewis",
+    "email": "kimberly.lewis2610@gmail.com",
+    "phone": "220 267 7433",
+    "ssn": "757 96 6545",
+    "dob": "19/07/1985",
+    "address": "9951 East Rd",
+    "city": "Seattle",
+    "state": "GA"
+  }
+}

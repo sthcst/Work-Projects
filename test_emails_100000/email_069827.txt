@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Roberts",
+    "email": "anthony.roberts4391@outlook.com",
+    "phone": "(464) 210-7066",
+    "ssn": "324 41 3042",
+    "dob": "4/4/1990",
+    "address": "4435 Summer Ave",
+    "city": "Washington",
+    "state": "GA"
+  }
+}

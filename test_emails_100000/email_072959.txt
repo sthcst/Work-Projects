@@ -1,0 +1,14 @@
+INVOICE 434229
+
+Bill To:
+Name: Donald Delgado
+Email: donald.delgado1636@example.com
+Phone: (934) 928-9726
+SSN: 207822848
+
+Address: 3898 Spring Dr
+Washington, GA
+
+Date of Birth: 03/23/1969
+
+Amount Due: $2492

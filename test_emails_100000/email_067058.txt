@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Alvarado
+  email: brenda.alvarado7355@mail.com
+  phone: 851-222-1121
+  ssn: 122746879
+  dob: 01-26-1976
+  address: 2646 Cedar Way
+  city: San Diego
+  state: MI

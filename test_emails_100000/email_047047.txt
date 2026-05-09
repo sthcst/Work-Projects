@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Edwards",
+    "email": "maria.edwards1491@gmail.com",
+    "phone": "+1 745-637-2681",
+    "ssn": "132 77 1980",
+    "dob": "12-04-1981",
+    "address": "2886 Second Dr",
+    "city": "San Antonio",
+    "state": "NY"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Perez",
+    "email": "david.perez6647@yahoo.com",
+    "phone": "733 627 2770",
+    "ssn": "566-81-7184",
+    "dob": "12-27-1965",
+    "address": "7364 Elm Court",
+    "city": "Boston",
+    "state": "MI"
+  }
+}

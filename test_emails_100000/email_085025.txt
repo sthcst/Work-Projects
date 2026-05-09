@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Hall",
+    "email": "joshua.hall8113@gmail.com",
+    "phone": "384 835 3154",
+    "ssn": "396 42 1063",
+    "dob": "06/09/1985",
+    "address": "9880 Oak Way",
+    "city": "Houston",
+    "state": "AZ"
+  }
+}

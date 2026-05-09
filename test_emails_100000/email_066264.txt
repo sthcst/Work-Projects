@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Dominguez,angela.dominguez2997@company.com,+1 333-489-4909,911185034,01/04/1990,"893 Spring Ave",Phoenix,PA

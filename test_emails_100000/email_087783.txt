@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Jones,donald.jones4692@example.com,524 430 9470,780 77 6994,03/18/1955,"4119 Spring Rd",New York,MD

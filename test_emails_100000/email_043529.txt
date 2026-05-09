@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Guerrero,john.guerrero6260@gmail.com,(963) 855-2519,587 13 9943,09/21/1977,"7314 Oak Court",Los Angeles,WA

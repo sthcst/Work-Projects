@@ -1,0 +1,9 @@
+contact:
+  name: Gary Clark
+  email: gary.clark2651@business.net
+  phone: (724) 663-8287
+  ssn: 432-62-4021
+  dob: 4/25/1969
+  address: 3170 Cedar Dr
+  city: Denver
+  state: MA

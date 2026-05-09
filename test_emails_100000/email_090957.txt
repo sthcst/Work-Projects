@@ -1,0 +1,14 @@
+INVOICE 506214
+
+Bill To:
+Name: Jacob Parker
+Email: jacob.parker7924@example.com
+Phone: 285 460 6456
+SSN: 093-24-6659
+
+Address: 9455 Main Dr
+Washington, CA
+
+Date of Birth: 2/23/1961
+
+Amount Due: $3894

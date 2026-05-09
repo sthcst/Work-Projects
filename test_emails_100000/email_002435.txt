@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Alvarado",
+    "email": "joseph.alvarado666@work.org",
+    "phone": "(481) 218-1090",
+    "ssn": "461572236",
+    "dob": "11/14/1990",
+    "address": "1648 Main Ln",
+    "city": "Houston",
+    "state": "MO"
+  }
+}

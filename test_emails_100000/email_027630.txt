@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Anderson,nicole.anderson1765@gmail.com,(780) 393-5873,601-87-9713,03-13-1974,"652 Cedar Way",Los Angeles,OH

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Morris",
+    "email": "angela.morris7771@outlook.com",
+    "phone": "456-813-2293",
+    "ssn": "481-49-2283",
+    "dob": "8/16/1981",
+    "address": "3858 Main Court",
+    "city": "Denver",
+    "state": "OH"
+  }
+}

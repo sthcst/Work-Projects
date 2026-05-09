@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Taylor
+  email: amanda.taylor8604@outlook.com
+  phone: +1 283-281-4837
+  ssn: 692-54-5769
+  dob: 05/02/1954
+  address: 6877 Oak Ave
+  city: Austin
+  state: AZ

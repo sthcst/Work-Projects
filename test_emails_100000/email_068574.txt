@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Sanchez",
+    "email": "megan.sanchez4641@mail.com",
+    "phone": "+1 612-258-6509",
+    "ssn": "617-49-8690",
+    "dob": "05-16-1999",
+    "address": "1608 West Court",
+    "city": "San Jose",
+    "state": "NY"
+  }
+}

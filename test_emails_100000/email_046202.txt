@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Ortiz
+  email: brenda.ortiz285@example.com
+  phone: (854) 890-9070
+  ssn: 301-53-2647
+  dob: 27/01/1958
+  address: 4020 Elm Ave
+  city: Los Angeles
+  state: FL

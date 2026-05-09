@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Reeves",
+    "email": "charles.reeves5167@example.com",
+    "phone": "(208) 798-8623",
+    "ssn": "578 58 7182",
+    "dob": "19/04/1953",
+    "address": "1332 Birch Dr",
+    "city": "Jacksonville",
+    "state": "NY"
+  }
+}

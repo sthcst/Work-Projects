@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Delgado
+  email: joseph.delgado8672@gmail.com
+  phone: (226) 671-2718
+  ssn: 383196164
+  dob: 03/15/1971
+  address: 7061 Fifth Court
+  city: Denver
+  state: AZ

@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Johnson
+  email: kevin.johnson9492@company.com
+  phone: +1 214-268-3319
+  ssn: 528-20-6941
+  dob: 04-12-1952
+  address: 4656 Oak Dr
+  city: Phoenix
+  state: MD

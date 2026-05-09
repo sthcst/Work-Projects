@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Brown",
+    "email": "charles.brown2301@mail.com",
+    "phone": "+1 293-516-6690",
+    "ssn": "421-08-2534",
+    "dob": "05-22-1954",
+    "address": "3090 Birch Court",
+    "city": "Los Angeles",
+    "state": "AZ"
+  }
+}

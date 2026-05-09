@@ -1,0 +1,9 @@
+contact:
+  name: Gary Carter
+  email: gary.carter8542@work.org
+  phone: +1 986-476-1913
+  ssn: 684 58 5760
+  dob: 6/15/2000
+  address: 9141 East Court
+  city: Phoenix
+  state: CO

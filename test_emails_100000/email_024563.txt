@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Garcia,nicholas.garcia4209@gmail.com,343 836 9468,232 41 6015,08/11/1993,"2298 Spring Way",Washington,NJ

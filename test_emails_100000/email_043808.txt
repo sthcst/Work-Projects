@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Guerrero
+  email: jacob.guerrero8354@outlook.com
+  phone: 556 361 7824
+  ssn: 943-44-1324
+  dob: 03/16/1971
+  address: 3332 Oak Ave
+  city: Seattle
+  state: PA

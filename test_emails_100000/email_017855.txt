@@ -1,0 +1,14 @@
+INVOICE 574312
+
+Bill To:
+Name: Kathleen Smith
+Email: kathleen.smith5046@outlook.com
+Phone: +1 343-382-2038
+SSN: 764463791
+
+Address: 2932 Sixth Blvd
+Chicago, TX
+
+Date of Birth: 08/02/1977
+
+Amount Due: $1781

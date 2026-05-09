@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Gomez,deborah.gomez2675@business.net,709 946 7798,001-55-1696,20/09/1990,"3755 Oak Ave",Los Angeles,AZ

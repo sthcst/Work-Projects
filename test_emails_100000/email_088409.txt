@@ -1,0 +1,9 @@
+contact:
+  name: Mark Anderson
+  email: mark.anderson953@outlook.com
+  phone: 952-298-9849
+  ssn: 098-03-2514
+  dob: 7/19/1993
+  address: 6977 Maple Ave
+  city: Austin
+  state: MD

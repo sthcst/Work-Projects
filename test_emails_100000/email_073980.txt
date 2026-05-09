@@ -1,0 +1,9 @@
+contact:
+  name: Jane Gomez
+  email: jane.gomez4163@work.org
+  phone: 685 531 6690
+  ssn: 404-55-2413
+  dob: 4/15/1972
+  address: 9238 Second Ln
+  city: Washington
+  state: CA

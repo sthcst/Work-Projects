@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Walker,jennifer.walker8789@business.net,(218) 261-4225,533 83 9621,03/09/1955,"3386 Birch Blvd",Phoenix,CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Guerrero,nicole.guerrero9391@company.com,391-661-4468,561 95 5194,09-21-2005,"3810 Main St",Philadelphia,OH

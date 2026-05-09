@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Flores
+  email: nicholas.flores6952@company.com
+  phone: +1 509-226-5284
+  ssn: 256 53 9948
+  dob: 09-28-1998
+  address: 5274 North Blvd
+  city: Washington
+  state: WA

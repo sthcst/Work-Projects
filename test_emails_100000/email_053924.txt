@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Moore",
+    "email": "angela.moore1281@work.org",
+    "phone": "709 653 5278",
+    "ssn": "828742630",
+    "dob": "4/9/1997",
+    "address": "5992 Main Ln",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

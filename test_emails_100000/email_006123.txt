@@ -1,0 +1,14 @@
+INVOICE 683257
+
+Bill To:
+Name: Maria Bell
+Email: maria.bell770@company.com
+Phone: (250) 515-6053
+SSN: 251-08-5649
+
+Address: 6909 Fifth Rd
+Philadelphia, MA
+
+Date of Birth: 4/2/1970
+
+Amount Due: $2450

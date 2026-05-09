@@ -1,0 +1,14 @@
+INVOICE 976943
+
+Bill To:
+Name: Richard Miller
+Email: richard.miller6270@gmail.com
+Phone: (840) 323-3755
+SSN: 130-67-5130
+
+Address: 8830 Fifth Ln
+Jacksonville, MD
+
+Date of Birth: 04/22/1971
+
+Amount Due: $6666

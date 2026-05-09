@@ -1,0 +1,14 @@
+INVOICE 148518
+
+Bill To:
+Name: Charles Lopez
+Email: charles.lopez4254@example.com
+Phone: +1 362-287-3400
+SSN: 951904687
+
+Address: 2025 Sixth Blvd
+Dallas, MD
+
+Date of Birth: 05-17-1994
+
+Amount Due: $9868

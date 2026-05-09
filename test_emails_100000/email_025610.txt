@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Garcia
+  email: katherine.garcia8041@company.com
+  phone: +1 255-575-3963
+  ssn: 689-71-9506
+  dob: 24/08/2005
+  address: 5369 East Dr
+  city: Jacksonville
+  state: TX

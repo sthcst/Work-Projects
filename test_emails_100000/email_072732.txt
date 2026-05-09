@@ -1,0 +1,9 @@
+contact:
+  name: Maria Young
+  email: maria.young208@company.com
+  phone: 716-438-4305
+  ssn: 045 22 3275
+  dob: 05/09/1988
+  address: 797 Spring Rd
+  city: Philadelphia
+  state: OH

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Wilson",
+    "email": "sarah.wilson7572@company.com",
+    "phone": "(348) 602-9484",
+    "ssn": "272 31 9520",
+    "dob": "11/24/1987",
+    "address": "9873 Second St",
+    "city": "Los Angeles",
+    "state": "DC"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 951430
+
+Bill To:
+Name: Jeffrey Sanchez
+Email: jeffrey.sanchez9190@example.com
+Phone: (271) 580-3455
+SSN: 067-53-6942
+
+Address: 6568 Maple St
+Jacksonville, DC
+
+Date of Birth: 01/16/1954
+
+Amount Due: $426

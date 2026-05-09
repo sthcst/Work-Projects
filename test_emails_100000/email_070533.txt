@@ -1,0 +1,9 @@
+contact:
+  name: Mark Nelson
+  email: mark.nelson2771@outlook.com
+  phone: 366 769 2263
+  ssn: 369071355
+  dob: 01-03-1954
+  address: 5752 Fourth Rd
+  city: San Diego
+  state: CO

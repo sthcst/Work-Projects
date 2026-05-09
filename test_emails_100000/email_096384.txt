@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Jones
+  email: lauren.jones2338@business.net
+  phone: +1 429-844-3790
+  ssn: 326 41 3217
+  dob: 7/16/1982
+  address: 7240 Main Way
+  city: Dallas
+  state: IL

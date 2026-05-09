@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Moore",
+    "email": "emily.moore4223@mail.com",
+    "phone": "526 314 7103",
+    "ssn": "951 24 1350",
+    "dob": "22/06/1953",
+    "address": "9483 Second Court",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

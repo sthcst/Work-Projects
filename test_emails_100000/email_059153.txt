@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Thompson
+  email: rachel.thompson5621@yahoo.com
+  phone: 594 243 5046
+  ssn: 730623867
+  dob: 07-25-1972
+  address: 1609 East Court
+  city: New York
+  state: MI

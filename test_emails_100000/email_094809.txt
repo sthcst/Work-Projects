@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Stewart,joseph.stewart6549@yahoo.com,(910) 830-8667,285993044,04/17/1978,"7386 Oak St",Dallas,TX

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Williams,rebecca.williams4081@gmail.com,985 833 3170,996-30-7502,12/01/1992,"7753 Summer St",Denver,TX

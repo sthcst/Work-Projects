@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Roberts,brian.roberts2813@outlook.com,356 396 6254,763-73-8341,3/22/1995,"754 East Ln",Denver,DC

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Parker,rebecca.parker9763@yahoo.com,412-390-3445,422725375,08/01/1958,"3443 Birch Way",Chicago,MA

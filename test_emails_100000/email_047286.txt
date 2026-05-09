@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Lewis,rachel.lewis830@example.com,835 949 8149,984 87 2893,10/09/1999,"4014 South Dr",San Jose,PA

@@ -1,0 +1,14 @@
+INVOICE 668264
+
+Bill To:
+Name: Sarah Ramirez
+Email: sarah.ramirez3299@outlook.com
+Phone: 886-748-8768
+SSN: 880188305
+
+Address: 6642 Main Blvd
+Dallas, FL
+
+Date of Birth: 07/01/1951
+
+Amount Due: $9182

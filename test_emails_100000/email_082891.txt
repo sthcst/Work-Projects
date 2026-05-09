@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha White",
+    "email": "samantha.white8663@company.com",
+    "phone": "346 250 4432",
+    "ssn": "032-72-3696",
+    "dob": "09/08/1979",
+    "address": "8511 Fourth Blvd",
+    "city": "Austin",
+    "state": "MI"
+  }
+}

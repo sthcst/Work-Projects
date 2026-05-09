@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Dominguez,christopher.dominguez7561@business.net,(747) 567-6513,974967180,5/19/1974,"7365 North Blvd",Los Angeles,CA

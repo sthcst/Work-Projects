@@ -1,0 +1,9 @@
+contact:
+  name: Edward Wilson
+  email: edward.wilson3453@business.net
+  phone: 533-971-2888
+  ssn: 337 85 9123
+  dob: 6/22/1981
+  address: 4284 Third Rd
+  city: San Antonio
+  state: TX

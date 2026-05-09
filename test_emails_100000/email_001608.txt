@@ -1,0 +1,14 @@
+INVOICE 616437
+
+Bill To:
+Name: Edward Lopez
+Email: edward.lopez7907@work.org
+Phone: 277 799 4289
+SSN: 487675103
+
+Address: 7453 Birch Dr
+Dallas, MA
+
+Date of Birth: 6/7/1954
+
+Amount Due: $7032

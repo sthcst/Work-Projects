@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Roberts",
+    "email": "jessica.roberts7164@work.org",
+    "phone": "909 891 4434",
+    "ssn": "295-13-5366",
+    "dob": "07/25/1997",
+    "address": "962 Fourth Ave",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Hernandez
+  email: ronald.hernandez1722@mail.com
+  phone: +1 415-636-6535
+  ssn: 303681072
+  dob: 3/15/1960
+  address: 9745 South St
+  city: Denver
+  state: CA

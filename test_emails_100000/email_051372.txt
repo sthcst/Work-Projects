@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Ortiz",
+    "email": "cynthia.ortiz2033@company.com",
+    "phone": "(251) 863-7544",
+    "ssn": "043-33-1581",
+    "dob": "12/16/1990",
+    "address": "4740 Third Rd",
+    "city": "New York",
+    "state": "CA"
+  }
+}

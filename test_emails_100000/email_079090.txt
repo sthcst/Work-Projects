@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Gomez",
+    "email": "lisa.gomez7757@company.com",
+    "phone": "749-355-6300",
+    "ssn": "386-77-6016",
+    "dob": "2/1/1962",
+    "address": "3261 Oak St",
+    "city": "San Diego",
+    "state": "MA"
+  }
+}

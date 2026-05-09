@@ -1,0 +1,9 @@
+contact:
+  name: Angela Wilson
+  email: angela.wilson8664@gmail.com
+  phone: +1 709-203-1786
+  ssn: 716406436
+  dob: 05-16-1997
+  address: 6416 Birch Way
+  city: Los Angeles
+  state: NJ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Nelson,richard.nelson3417@yahoo.com,+1 499-301-9050,410-44-2331,01/08/1955,"483 Oak Way",Philadelphia,WI

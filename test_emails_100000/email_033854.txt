@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Sanchez,samantha.sanchez4290@company.com,+1 600-915-4057,314-88-7915,05/20/1955,"888 Fifth Blvd",San Antonio,MD

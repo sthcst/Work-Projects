@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Hall,anthony.hall3767@company.com,404-759-6177,267 25 6403,12/16/1981,"7020 Oak Blvd",New York,FL

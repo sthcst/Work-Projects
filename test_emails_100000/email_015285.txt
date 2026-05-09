@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Jimenez
+  email: cynthia.jimenez8210@company.com
+  phone: +1 539-622-2258
+  ssn: 632 71 7967
+  dob: 12-22-1972
+  address: 1842 Birch Blvd
+  city: San Jose
+  state: TX

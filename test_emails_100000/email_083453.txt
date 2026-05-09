@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Bell,katherine.bell489@gmail.com,568-651-6489,444-28-7722,09/09/1963,"9141 Oak St",Los Angeles,FL

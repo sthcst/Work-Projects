@@ -1,0 +1,14 @@
+INVOICE 534105
+
+Bill To:
+Name: Brian Gonzalez
+Email: brian.gonzalez3224@yahoo.com
+Phone: +1 504-833-5126
+SSN: 692977722
+
+Address: 7666 Third Court
+Phoenix, CA
+
+Date of Birth: 6/17/1972
+
+Amount Due: $7709

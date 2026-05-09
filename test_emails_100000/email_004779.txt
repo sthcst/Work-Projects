@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Alvarado
+  email: katherine.alvarado887@yahoo.com
+  phone: 301-962-7622
+  ssn: 016 80 2785
+  dob: 06/27/1963
+  address: 9512 East Blvd
+  city: Dallas
+  state: TX

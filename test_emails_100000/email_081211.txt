@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Wilson,emma.wilson8101@business.net,252 623 4160,144 94 9294,05/21/1987,"3957 Birch Way",Washington,CA

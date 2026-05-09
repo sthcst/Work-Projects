@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Gomez,andrew.gomez2802@example.com,379 423 5172,504923838,09/11/1968,"1228 Cedar Ave",Washington,AZ

@@ -1,0 +1,14 @@
+INVOICE 494349
+
+Bill To:
+Name: John Sanchez
+Email: john.sanchez1480@gmail.com
+Phone: 870 347 7478
+SSN: 560937519
+
+Address: 9763 Sixth Court
+Boston, CO
+
+Date of Birth: 04/09/1989
+
+Amount Due: $6624

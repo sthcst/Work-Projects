@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Williams",
+    "email": "nicholas.williams7995@mail.com",
+    "phone": "322-434-9383",
+    "ssn": "553753404",
+    "dob": "04-23-1967",
+    "address": "6557 Second Blvd",
+    "city": "New York",
+    "state": "MA"
+  }
+}

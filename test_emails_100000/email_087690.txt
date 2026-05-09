@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Lewis",
+    "email": "steven.lewis5958@mail.com",
+    "phone": "(330) 558-5894",
+    "ssn": "861 33 4128",
+    "dob": "08/02/1970",
+    "address": "4286 Fourth Ave",
+    "city": "Washington",
+    "state": "NC"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: John Stewart
+  email: john.stewart6632@gmail.com
+  phone: 922-361-8807
+  ssn: 209-37-1816
+  dob: 02-20-2002
+  address: 34 Maple Way
+  city: Denver
+  state: IL

@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Roberts
+  email: joseph.roberts108@gmail.com
+  phone: 374-556-1147
+  ssn: 534182671
+  dob: 07/06/1992
+  address: 741 Elm Ave
+  city: Dallas
+  state: DC

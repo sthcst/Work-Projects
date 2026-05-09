@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Ortiz,christine.ortiz7163@yahoo.com,+1 381-455-6198,159-93-1904,03/03/1957,"1605 Birch Court",Chicago,TX

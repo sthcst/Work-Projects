@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Jackson
+  email: jennifer.jackson2431@gmail.com
+  phone: (959) 418-2771
+  ssn: 428-85-3848
+  dob: 11/11/2004
+  address: 8963 Sixth Dr
+  city: Denver
+  state: NY

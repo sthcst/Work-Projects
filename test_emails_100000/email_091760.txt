@@ -1,0 +1,14 @@
+INVOICE 298743
+
+Bill To:
+Name: Charles Robinson
+Email: charles.robinson7299@mail.com
+Phone: (556) 755-7672
+SSN: 315 97 6748
+
+Address: 792 Birch Blvd
+Chicago, MA
+
+Date of Birth: 10-15-1979
+
+Amount Due: $7055

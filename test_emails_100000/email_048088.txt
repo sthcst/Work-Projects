@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Lee",
+    "email": "angela.lee5563@work.org",
+    "phone": "841 274 2203",
+    "ssn": "609812504",
+    "dob": "16/04/1961",
+    "address": "3158 Oak Rd",
+    "city": "Houston",
+    "state": "VA"
+  }
+}

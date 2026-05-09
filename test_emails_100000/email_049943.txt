@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Lopez
+  email: samantha.lopez7232@yahoo.com
+  phone: 231 791 7669
+  ssn: 702-19-2149
+  dob: 9/11/1972
+  address: 1808 Birch Ave
+  city: San Antonio
+  state: MA

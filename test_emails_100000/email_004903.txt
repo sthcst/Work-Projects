@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Jones",
+    "email": "richard.jones597@business.net",
+    "phone": "425 900 9808",
+    "ssn": "092518570",
+    "dob": "26/06/1960",
+    "address": "7848 Second Dr",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

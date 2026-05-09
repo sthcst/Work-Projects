@@ -1,0 +1,14 @@
+INVOICE 695536
+
+Bill To:
+Name: Nicholas Sanchez
+Email: nicholas.sanchez9178@example.com
+Phone: (725) 305-8141
+SSN: 881-44-4527
+
+Address: 252 Pine Rd
+San Diego, CA
+
+Date of Birth: 13/01/1994
+
+Amount Due: $1769

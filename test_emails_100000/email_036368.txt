@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Sanchez,paul.sanchez5734@work.org,373 943 8057,304 01 3208,09-09-1978,"6802 Third Court",Washington,MA

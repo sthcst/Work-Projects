@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Sanchez,jane.sanchez5486@mail.com,+1 745-659-5612,807 92 1681,02/01/1970,"1301 Fourth Ave",Austin,MI

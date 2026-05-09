@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Murillo,ashley.murillo1859@work.org,789 587 6163,979 61 3255,24/04/1960,"9241 Spring Blvd",Philadelphia,TX

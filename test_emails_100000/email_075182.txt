@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Rodriguez",
+    "email": "david.rodriguez3052@yahoo.com",
+    "phone": "334 531 5811",
+    "ssn": "080955314",
+    "dob": "04-06-1969",
+    "address": "6403 Oak Blvd",
+    "city": "San Antonio",
+    "state": "AZ"
+  }
+}

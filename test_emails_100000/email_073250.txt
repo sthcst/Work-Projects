@@ -1,0 +1,9 @@
+contact:
+  name: Charles Guerrero
+  email: charles.guerrero4027@company.com
+  phone: 600-256-1436
+  ssn: 735585908
+  dob: 16/03/1961
+  address: 2072 Birch Court
+  city: Denver
+  state: AZ

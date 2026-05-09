@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Jimenez",
+    "email": "pamela.jimenez313@outlook.com",
+    "phone": "653-811-9717",
+    "ssn": "617-84-8018",
+    "dob": "08/12/1993",
+    "address": "7055 First Way",
+    "city": "Washington",
+    "state": "MA"
+  }
+}

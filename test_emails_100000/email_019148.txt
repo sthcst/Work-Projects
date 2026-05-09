@@ -1,0 +1,9 @@
+contact:
+  name: Charles Nelson
+  email: charles.nelson7374@company.com
+  phone: (863) 283-8074
+  ssn: 396 66 1919
+  dob: 07-25-1990
+  address: 7974 Fifth Court
+  city: Denver
+  state: MA

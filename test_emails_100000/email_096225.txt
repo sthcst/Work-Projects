@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Jackson,samantha.jackson276@gmail.com,202-459-8224,814 47 2536,03/11/1980,"2218 Fifth Ave",Jacksonville,DC

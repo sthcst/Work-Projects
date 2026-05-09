@@ -1,0 +1,14 @@
+INVOICE 615728
+
+Bill To:
+Name: Timothy Parker
+Email: timothy.parker8984@example.com
+Phone: 286-703-5703
+SSN: 693 84 1436
+
+Address: 9514 West Rd
+Los Angeles, TX
+
+Date of Birth: 16/02/1964
+
+Amount Due: $2804

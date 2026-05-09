@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Walker",
+    "email": "anthony.walker5838@yahoo.com",
+    "phone": "(459) 638-8547",
+    "ssn": "078113425",
+    "dob": "08-02-1953",
+    "address": "8447 Pine St",
+    "city": "New York",
+    "state": "TX"
+  }
+}

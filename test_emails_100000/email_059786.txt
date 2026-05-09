@@ -1,0 +1,9 @@
+contact:
+  name: James Parker
+  email: james.parker4149@yahoo.com
+  phone: +1 312-406-1407
+  ssn: 335-96-5570
+  dob: 06/08/1987
+  address: 290 East Way
+  city: Houston
+  state: NC

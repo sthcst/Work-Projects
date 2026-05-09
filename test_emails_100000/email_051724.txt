@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Gonzalez",
+    "email": "daniel.gonzalez3334@work.org",
+    "phone": "693-800-4606",
+    "ssn": "558379846",
+    "dob": "11-16-1999",
+    "address": "3754 Fourth Court",
+    "city": "San Jose",
+    "state": "MO"
+  }
+}

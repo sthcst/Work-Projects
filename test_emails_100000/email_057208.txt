@@ -1,0 +1,9 @@
+contact:
+  name: Michael Campbell
+  email: michael.campbell4711@company.com
+  phone: +1 536-824-6490
+  ssn: 878-01-5721
+  dob: 5/9/1950
+  address: 1641 Elm Ave
+  city: Chicago
+  state: FL

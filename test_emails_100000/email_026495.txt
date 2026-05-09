@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Ortiz",
+    "email": "daniel.ortiz7306@work.org",
+    "phone": "(661) 842-8212",
+    "ssn": "059825067",
+    "dob": "03/03/1998",
+    "address": "6381 Oak Way",
+    "city": "Phoenix",
+    "state": "OH"
+  }
+}

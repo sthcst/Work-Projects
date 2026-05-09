@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Moore",
+    "email": "joshua.moore4521@outlook.com",
+    "phone": "555-994-3827",
+    "ssn": "125085646",
+    "dob": "25/02/1982",
+    "address": "7838 Sixth Rd",
+    "city": "San Jose",
+    "state": "MI"
+  }
+}

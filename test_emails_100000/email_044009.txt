@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Thompson",
+    "email": "kathleen.thompson793@business.net",
+    "phone": "463-633-5570",
+    "ssn": "400 58 9321",
+    "dob": "02/12/1990",
+    "address": "7458 Pine Ave",
+    "city": "Boston",
+    "state": "CA"
+  }
+}

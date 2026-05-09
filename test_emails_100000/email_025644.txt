@@ -1,0 +1,9 @@
+contact:
+  name: Richard Ramirez
+  email: richard.ramirez7464@gmail.com
+  phone: 249 311 6134
+  ssn: 442788039
+  dob: 10-23-1969
+  address: 5950 Birch Rd
+  city: Houston
+  state: MI

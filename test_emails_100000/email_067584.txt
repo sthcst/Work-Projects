@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Thomas,joseph.thomas711@gmail.com,+1 672-764-5707,690-87-9894,6/5/1999,"62 Pine Dr",San Antonio,NJ

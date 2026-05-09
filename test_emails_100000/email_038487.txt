@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Phillips",
+    "email": "james.phillips7391@work.org",
+    "phone": "992-463-8141",
+    "ssn": "796453160",
+    "dob": "6/2/1986",
+    "address": "8825 Sixth Blvd",
+    "city": "Jacksonville",
+    "state": "MD"
+  }
+}

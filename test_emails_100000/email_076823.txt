@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Reed",
+    "email": "rebecca.reed2592@outlook.com",
+    "phone": "648-794-2504",
+    "ssn": "493283792",
+    "dob": "04/02/2004",
+    "address": "5605 Spring St",
+    "city": "Philadelphia",
+    "state": "WA"
+  }
+}

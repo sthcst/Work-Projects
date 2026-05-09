@@ -1,0 +1,9 @@
+contact:
+  name: Jane Edwards
+  email: jane.edwards6932@business.net
+  phone: +1 328-970-8845
+  ssn: 499023147
+  dob: 04-07-1950
+  address: 7798 Sixth St
+  city: San Jose
+  state: MA

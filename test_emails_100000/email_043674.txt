@@ -1,0 +1,14 @@
+INVOICE 171463
+
+Bill To:
+Name: Kevin Davis
+Email: kevin.davis1347@work.org
+Phone: 926 368 7033
+SSN: 458-71-8106
+
+Address: 4481 West Way
+Seattle, CO
+
+Date of Birth: 10/28/1964
+
+Amount Due: $5867

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Moore,kathleen.moore2867@gmail.com,(663) 560-7273,229115364,17/04/1969,"4303 Summer Way",San Diego,TX

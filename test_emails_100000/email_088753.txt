@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Lewis
+  email: kevin.lewis6955@company.com
+  phone: +1 699-682-9165
+  ssn: 163 36 2208
+  dob: 01/03/1972
+  address: 5010 Third Ln
+  city: San Diego
+  state: NC

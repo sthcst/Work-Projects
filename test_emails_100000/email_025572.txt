@@ -1,0 +1,12 @@
+SUPPORT TICKET #97474
+
+Customer: Samantha Young
+Email: samantha.young6932@example.com
+Phone: 567-450-9009
+Account: 535789512
+
+Issue Description: Technical problem reported
+DOB on file: 10-26-1998
+Address: 6859 Main Dr, Dallas, TX
+
+Status: OPEN

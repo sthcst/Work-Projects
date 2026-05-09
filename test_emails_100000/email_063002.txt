@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Parker",
+    "email": "james.parker7247@work.org",
+    "phone": "(320) 560-1396",
+    "ssn": "881-62-2564",
+    "dob": "04-26-1999",
+    "address": "2857 North Dr",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

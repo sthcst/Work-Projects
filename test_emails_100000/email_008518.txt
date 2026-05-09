@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Lopez
+  email: jennifer.lopez2723@work.org
+  phone: (848) 663-8422
+  ssn: 368-75-6791
+  dob: 09/24/1981
+  address: 8501 Third Way
+  city: Houston
+  state: CA

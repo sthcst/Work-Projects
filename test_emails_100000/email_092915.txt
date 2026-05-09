@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Bell
+  email: nicole.bell9712@company.com
+  phone: 354-433-6831
+  ssn: 775 33 5218
+  dob: 3/10/1969
+  address: 4309 East Dr
+  city: Boston
+  state: AZ

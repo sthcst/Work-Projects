@@ -1,0 +1,14 @@
+INVOICE 849070
+
+Bill To:
+Name: Jennifer Thomas
+Email: jennifer.thomas3395@company.com
+Phone: 948 924 9140
+SSN: 754-70-5413
+
+Address: 7019 Park Rd
+San Jose, TX
+
+Date of Birth: 10-08-1990
+
+Amount Due: $4935

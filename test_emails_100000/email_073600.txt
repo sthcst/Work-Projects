@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Rodriguez",
+    "email": "emma.rodriguez2483@gmail.com",
+    "phone": "323-910-1410",
+    "ssn": "622-72-8809",
+    "dob": "05/09/1966",
+    "address": "2431 Oak Dr",
+    "city": "San Antonio",
+    "state": "NC"
+  }
+}

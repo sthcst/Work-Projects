@@ -1,0 +1,9 @@
+contact:
+  name: Megan Hernandez
+  email: megan.hernandez576@company.com
+  phone: 556 322 3915
+  ssn: 873289329
+  dob: 27/10/1978
+  address: 9970 First Dr
+  city: Washington
+  state: PA

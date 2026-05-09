@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Robinson
+  email: kimberly.robinson7807@company.com
+  phone: (249) 515-1576
+  ssn: 290 34 8667
+  dob: 05-19-1987
+  address: 3552 First Rd
+  city: Washington
+  state: AZ

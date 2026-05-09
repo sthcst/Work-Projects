@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Reeves",
+    "email": "steven.reeves7841@outlook.com",
+    "phone": "+1 696-348-6355",
+    "ssn": "043785109",
+    "dob": "10/17/1972",
+    "address": "9703 Birch Blvd",
+    "city": "Chicago",
+    "state": "AZ"
+  }
+}

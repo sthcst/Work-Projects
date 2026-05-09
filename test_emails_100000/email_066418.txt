@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Hall,angela.hall7169@work.org,394-213-1558,631451752,9/13/1962,"7494 East Blvd",San Diego,CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Thomas",
+    "email": "joseph.thomas1959@mail.com",
+    "phone": "355-415-6511",
+    "ssn": "489637066",
+    "dob": "03-16-1979",
+    "address": "448 East Way",
+    "city": "Chicago",
+    "state": "NJ"
+  }
+}

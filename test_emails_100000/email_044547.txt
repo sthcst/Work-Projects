@@ -1,0 +1,14 @@
+INVOICE 748745
+
+Bill To:
+Name: Andrew Reeves
+Email: andrew.reeves2233@mail.com
+Phone: +1 214-973-4812
+SSN: 754 51 3514
+
+Address: 6363 East Ave
+Houston, TX
+
+Date of Birth: 09/08/1990
+
+Amount Due: $3647

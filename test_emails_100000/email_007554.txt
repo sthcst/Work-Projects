@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Bell
+  email: jessica.bell4698@company.com
+  phone: 255 275 3726
+  ssn: 051-32-5367
+  dob: 01/04/1975
+  address: 6188 Birch Ave
+  city: Washington
+  state: MD

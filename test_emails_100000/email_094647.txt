@@ -1,0 +1,9 @@
+contact:
+  name: William Rogers
+  email: william.rogers8408@gmail.com
+  phone: 804 930 3763
+  ssn: 926 47 9534
+  dob: 11/24/1958
+  address: 8686 Oak Dr
+  city: Houston
+  state: MI

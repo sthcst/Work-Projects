@@ -1,0 +1,14 @@
+INVOICE 363084
+
+Bill To:
+Name: Joshua Jones
+Email: joshua.jones5479@mail.com
+Phone: 947 464 8809
+SSN: 028582644
+
+Address: 4044 Summer Ave
+San Jose, TX
+
+Date of Birth: 11/11/1987
+
+Amount Due: $956

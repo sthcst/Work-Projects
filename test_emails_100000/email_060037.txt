@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Reeves,kevin.reeves5241@company.com,+1 528-872-8676,330-68-1197,06/14/1963,"4417 Second Way",Phoenix,NJ

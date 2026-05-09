@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Peterson",
+    "email": "michael.peterson6082@outlook.com",
+    "phone": "977 930 3496",
+    "ssn": "128 67 6856",
+    "dob": "02/09/1994",
+    "address": "3947 Main Way",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

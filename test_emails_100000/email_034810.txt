@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Miller,james.miller6260@example.com,817-836-3676,494722843,09/21/1956,"7822 Cedar Court",Seattle,CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Guerrero",
+    "email": "brenda.guerrero6169@business.net",
+    "phone": "960 969 1671",
+    "ssn": "268777216",
+    "dob": "09/26/2005",
+    "address": "9168 Third Court",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

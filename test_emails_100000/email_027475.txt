@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Carter,megan.carter7144@mail.com,(823) 837-9729,596 69 5869,07/07/1973,"2725 North Rd",Dallas,AZ

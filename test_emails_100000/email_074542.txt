@@ -1,0 +1,9 @@
+contact:
+  name: Paul Gonzalez
+  email: paul.gonzalez1251@company.com
+  phone: 772-724-2716
+  ssn: 761-12-3087
+  dob: 10-19-1983
+  address: 1581 Fourth Way
+  city: San Diego
+  state: NY

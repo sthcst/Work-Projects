@@ -1,0 +1,14 @@
+INVOICE 856898
+
+Bill To:
+Name: James Johnson
+Email: james.johnson8512@outlook.com
+Phone: (271) 378-1031
+SSN: 517 59 4234
+
+Address: 3118 Elm Dr
+Dallas, WA
+
+Date of Birth: 03/25/1991
+
+Amount Due: $982

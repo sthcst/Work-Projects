@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Roberts",
+    "email": "deborah.roberts3199@work.org",
+    "phone": "743 493 3408",
+    "ssn": "462 71 8391",
+    "dob": "07-09-1987",
+    "address": "9266 East Ln",
+    "city": "Jacksonville",
+    "state": "MO"
+  }
+}

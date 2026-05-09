@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Alvarado
+  email: lisa.alvarado2642@business.net
+  phone: (809) 942-6226
+  ssn: 093641620
+  dob: 11-22-1976
+  address: 3467 Maple Ave
+  city: Seattle
+  state: TX

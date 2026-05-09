@@ -1,0 +1,9 @@
+contact:
+  name: Christine Parker
+  email: christine.parker9168@outlook.com
+  phone: 749 332 6771
+  ssn: 684 62 4343
+  dob: 05/14/1952
+  address: 9619 Pine Court
+  city: Philadelphia
+  state: WA

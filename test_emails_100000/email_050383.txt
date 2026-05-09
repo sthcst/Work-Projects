@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Rogers",
+    "email": "deborah.rogers3430@outlook.com",
+    "phone": "(599) 366-7492",
+    "ssn": "960 01 9998",
+    "dob": "10/11/1976",
+    "address": "4869 Summer Dr",
+    "city": "New York",
+    "state": "VA"
+  }
+}

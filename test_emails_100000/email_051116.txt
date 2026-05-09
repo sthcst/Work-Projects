@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Serrano",
+    "email": "jennifer.serrano6586@business.net",
+    "phone": "(716) 373-2260",
+    "ssn": "579124723",
+    "dob": "10-10-1982",
+    "address": "7764 Maple Rd",
+    "city": "New York",
+    "state": "TX"
+  }
+}

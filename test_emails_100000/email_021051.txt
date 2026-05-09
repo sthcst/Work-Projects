@@ -1,0 +1,14 @@
+INVOICE 160354
+
+Bill To:
+Name: Brenda Jones
+Email: brenda.jones7956@company.com
+Phone: +1 275-372-3818
+SSN: 858-75-9831
+
+Address: 1302 East Blvd
+Dallas, MO
+
+Date of Birth: 06-20-2002
+
+Amount Due: $7173

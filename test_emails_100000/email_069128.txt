@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Parker,anthony.parker3448@example.com,+1 322-686-5108,174-89-9672,09/14/1964,"553 Third Dr",San Jose,NJ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Miller",
+    "email": "helen.miller3123@business.net",
+    "phone": "457 570 6366",
+    "ssn": "387372505",
+    "dob": "27/12/1971",
+    "address": "4578 Maple St",
+    "city": "Dallas",
+    "state": "TN"
+  }
+}

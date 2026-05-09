@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Morgan,edward.morgan5054@example.com,(299) 753-3570,034 50 1575,8/23/1969,"1983 West Ln",Philadelphia,NC

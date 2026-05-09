@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Collins,jessica.collins1012@mail.com,(617) 517-2243,564-22-3280,04/15/1975,"1834 Pine Court",San Diego,NC

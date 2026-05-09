@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Brown
+  email: ashley.brown2284@company.com
+  phone: (328) 300-4805
+  ssn: 946-84-4865
+  dob: 09-24-1982
+  address: 3152 Park Ave
+  city: Jacksonville
+  state: MA

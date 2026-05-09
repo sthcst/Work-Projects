@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Campbell,charles.campbell9311@business.net,+1 285-851-9199,209197116,26/03/1965,"9105 First St",New York,TN

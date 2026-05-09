@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Thomas
+  email: jeffrey.thomas4371@example.com
+  phone: 846-421-8141
+  ssn: 516063563
+  dob: 07-06-1988
+  address: 4980 Oak Way
+  city: Washington
+  state: MI

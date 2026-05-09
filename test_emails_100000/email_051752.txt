@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Peterson",
+    "email": "emily.peterson4205@example.com",
+    "phone": "+1 972-792-9698",
+    "ssn": "121 39 5731",
+    "dob": "04/05/1971",
+    "address": "8951 Oak Rd",
+    "city": "Dallas",
+    "state": "IL"
+  }
+}

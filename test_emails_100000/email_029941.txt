@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Lewis,donald.lewis4062@company.com,863 858 5128,604 73 5442,10-03-1959,"9886 First Way",Seattle,OH

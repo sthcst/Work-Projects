@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary White",
+    "email": "gary.white6770@example.com",
+    "phone": "+1 493-927-9488",
+    "ssn": "141 96 9424",
+    "dob": "01-11-1964",
+    "address": "4304 North Dr",
+    "city": "Jacksonville",
+    "state": "WA"
+  }
+}

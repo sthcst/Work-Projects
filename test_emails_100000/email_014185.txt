@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Alvarado",
+    "email": "shirley.alvarado4902@example.com",
+    "phone": "569 335 7391",
+    "ssn": "417 85 9516",
+    "dob": "09/20/2003",
+    "address": "7814 Cedar Blvd",
+    "city": "Los Angeles",
+    "state": "MA"
+  }
+}

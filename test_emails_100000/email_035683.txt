@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Jimenez",
+    "email": "anna.jimenez2245@company.com",
+    "phone": "524 225 6267",
+    "ssn": "100 23 7884",
+    "dob": "11/21/1974",
+    "address": "6826 Third Dr",
+    "city": "Houston",
+    "state": "MI"
+  }
+}

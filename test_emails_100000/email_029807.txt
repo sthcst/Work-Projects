@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Serrano,charles.serrano1759@mail.com,+1 915-539-6803,128-58-6110,09-13-1993,"5562 Elm Court",New York,WI

@@ -1,0 +1,9 @@
+contact:
+  name: James Parker
+  email: james.parker1822@business.net
+  phone: 684-201-4041
+  ssn: 372-60-7917
+  dob: 04-24-1953
+  address: 550 North Court
+  city: San Antonio
+  state: MA

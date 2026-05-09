@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Serrano",
+    "email": "jacob.serrano7727@outlook.com",
+    "phone": "331 327 6267",
+    "ssn": "120-43-3277",
+    "dob": "08/07/1952",
+    "address": "2067 Spring Rd",
+    "city": "Seattle",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Christine Stewart
+  email: christine.stewart6618@gmail.com
+  phone: 943-839-1317
+  ssn: 685-25-2736
+  dob: 22/07/2001
+  address: 5033 East Rd
+  city: Austin
+  state: OH

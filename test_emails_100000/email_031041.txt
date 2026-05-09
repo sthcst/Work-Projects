@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Alvarado",
+    "email": "anthony.alvarado8661@example.com",
+    "phone": "+1 967-681-1619",
+    "ssn": "699-53-6814",
+    "dob": "08-12-1973",
+    "address": "8303 Cedar Way",
+    "city": "Seattle",
+    "state": "FL"
+  }
+}

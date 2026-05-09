@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Phillips,katherine.phillips1592@mail.com,+1 601-406-9932,186 50 3128,7/28/1979,"7915 Elm Ln",Phoenix,NJ

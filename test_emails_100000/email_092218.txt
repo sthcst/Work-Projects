@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Clark
+  email: christopher.clark9545@business.net
+  phone: +1 937-445-5897
+  ssn: 069722691
+  dob: 25/04/1950
+  address: 5245 Oak Ln
+  city: San Diego
+  state: OH

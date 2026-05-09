@@ -1,0 +1,14 @@
+INVOICE 985568
+
+Bill To:
+Name: Joseph Roberts
+Email: joseph.roberts9594@example.com
+Phone: 680 745 1258
+SSN: 589906558
+
+Address: 8323 Pine Dr
+Dallas, CA
+
+Date of Birth: 10/06/1987
+
+Amount Due: $2855

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Serrano",
+    "email": "samantha.serrano7650@business.net",
+    "phone": "442 348 6212",
+    "ssn": "823173786",
+    "dob": "06/16/1967",
+    "address": "5609 Summer Court",
+    "city": "Philadelphia",
+    "state": "WA"
+  }
+}

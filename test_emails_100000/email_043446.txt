@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Nelson",
+    "email": "ronald.nelson9286@work.org",
+    "phone": "924-418-2533",
+    "ssn": "258 26 4807",
+    "dob": "27/01/1968",
+    "address": "2367 Second St",
+    "city": "Phoenix",
+    "state": "VA"
+  }
+}

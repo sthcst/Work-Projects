@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Moore,william.moore8842@outlook.com,875 334 4469,075 89 1732,10/20/1989,"9494 Fourth Ave",Phoenix,VA

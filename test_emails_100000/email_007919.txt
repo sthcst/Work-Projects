@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Lopez",
+    "email": "brenda.lopez9223@yahoo.com",
+    "phone": "(301) 457-4644",
+    "ssn": "464888671",
+    "dob": "08/14/1975",
+    "address": "8229 First Way",
+    "city": "San Diego",
+    "state": "WA"
+  }
+}

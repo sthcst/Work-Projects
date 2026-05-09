@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Evans,nicholas.evans2794@company.com,(997) 282-3504,067 44 1366,03-02-1951,"2652 Summer Rd",Denver,TX

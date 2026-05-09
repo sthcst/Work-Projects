@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Morris",
+    "email": "megan.morris8359@gmail.com",
+    "phone": "(256) 588-5664",
+    "ssn": "068-39-4355",
+    "dob": "04/13/1993",
+    "address": "509 Elm Ln",
+    "city": "New York",
+    "state": "TX"
+  }
+}

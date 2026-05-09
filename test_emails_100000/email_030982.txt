@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Hernandez,ashley.hernandez5814@business.net,538-722-4999,169 62 1243,2/7/1977,"7887 Oak Court",Los Angeles,DC

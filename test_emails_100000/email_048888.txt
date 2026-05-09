@@ -1,0 +1,9 @@
+contact:
+  name: Kathleen Clark
+  email: kathleen.clark5329@example.com
+  phone: (629) 694-5078
+  ssn: 066851164
+  dob: 06/22/2002
+  address: 5046 Cedar Rd
+  city: New York
+  state: MO

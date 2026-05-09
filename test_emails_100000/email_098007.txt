@@ -1,0 +1,14 @@
+INVOICE 343423
+
+Bill To:
+Name: Brenda Stewart
+Email: brenda.stewart9670@yahoo.com
+Phone: 684-327-2904
+SSN: 314 17 9849
+
+Address: 8321 Second Blvd
+Boston, MA
+
+Date of Birth: 14/12/1989
+
+Amount Due: $9690

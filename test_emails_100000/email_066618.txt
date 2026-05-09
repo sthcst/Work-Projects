@@ -1,0 +1,14 @@
+INVOICE 400498
+
+Bill To:
+Name: Samantha Reeves
+Email: samantha.reeves4828@work.org
+Phone: 206-574-1210
+SSN: 068-50-8537
+
+Address: 3791 Spring Blvd
+Houston, TX
+
+Date of Birth: 10/20/1985
+
+Amount Due: $8324

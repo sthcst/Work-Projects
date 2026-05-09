@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Edwards",
+    "email": "jessica.edwards3326@mail.com",
+    "phone": "(296) 871-6106",
+    "ssn": "318-10-7666",
+    "dob": "04/09/2000",
+    "address": "1262 Fourth Blvd",
+    "city": "Denver",
+    "state": "MO"
+  }
+}

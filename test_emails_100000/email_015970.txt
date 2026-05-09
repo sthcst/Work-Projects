@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Reyes",
+    "email": "kathleen.reyes949@example.com",
+    "phone": "(426) 919-7213",
+    "ssn": "868026521",
+    "dob": "05-03-1982",
+    "address": "9361 Sixth Court",
+    "city": "New York",
+    "state": "WA"
+  }
+}

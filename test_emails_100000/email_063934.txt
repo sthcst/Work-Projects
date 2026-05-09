@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Taylor,jennifer.taylor7269@gmail.com,874 787 2077,352 51 6067,08/24/1983,"9571 Pine Way",Boston,TX

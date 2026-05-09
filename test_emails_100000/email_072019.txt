@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Williams",
+    "email": "joshua.williams3424@work.org",
+    "phone": "521-532-2751",
+    "ssn": "015 32 8354",
+    "dob": "2/25/1969",
+    "address": "5299 Summer Court",
+    "city": "Los Angeles",
+    "state": "IL"
+  }
+}

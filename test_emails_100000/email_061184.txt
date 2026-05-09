@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Jackson,brenda.jackson2109@gmail.com,836 596 1370,442-41-7879,08-24-1997,"4493 South Ave",Dallas,CO

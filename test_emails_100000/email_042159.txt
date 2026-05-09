@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Moore
+  email: katherine.moore5514@company.com
+  phone: +1 976-555-6100
+  ssn: 947447898
+  dob: 7/21/1953
+  address: 3286 Spring Ln
+  city: San Diego
+  state: CA

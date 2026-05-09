@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Peterson",
+    "email": "nicole.peterson6921@outlook.com",
+    "phone": "627 438 4107",
+    "ssn": "476 65 2317",
+    "dob": "09/06/1991",
+    "address": "7636 Fourth Way",
+    "city": "San Jose",
+    "state": "CA"
+  }
+}

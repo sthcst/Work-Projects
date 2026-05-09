@@ -1,0 +1,9 @@
+contact:
+  name: Charles Robinson
+  email: charles.robinson4760@mail.com
+  phone: 745-875-9345
+  ssn: 859537653
+  dob: 06/07/1955
+  address: 8883 Third Dr
+  city: San Diego
+  state: TN

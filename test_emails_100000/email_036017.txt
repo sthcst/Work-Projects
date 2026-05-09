@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Collins",
+    "email": "jessica.collins4164@outlook.com",
+    "phone": "(710) 613-6252",
+    "ssn": "048238543",
+    "dob": "07/01/1991",
+    "address": "1727 Cedar Blvd",
+    "city": "Austin",
+    "state": "DC"
+  }
+}

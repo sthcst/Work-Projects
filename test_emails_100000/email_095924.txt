@@ -1,0 +1,9 @@
+contact:
+  name: Steven Peterson
+  email: steven.peterson16@yahoo.com
+  phone: 568 975 5667
+  ssn: 874-74-4451
+  dob: 05/27/2003
+  address: 1381 West Dr
+  city: Denver
+  state: MA

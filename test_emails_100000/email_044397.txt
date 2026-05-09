@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Moore
+  email: deborah.moore244@work.org
+  phone: 362-852-2555
+  ssn: 131 18 2383
+  dob: 09/05/1980
+  address: 5635 Second Rd
+  city: Boston
+  state: MA

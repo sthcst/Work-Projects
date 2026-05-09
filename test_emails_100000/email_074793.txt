@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Campbell,maria.campbell6819@company.com,+1 556-780-3580,988 93 9417,12/05/1961,"6485 Cedar Ln",Chicago,CA

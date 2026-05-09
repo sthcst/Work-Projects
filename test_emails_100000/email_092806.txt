@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Carter",
+    "email": "katherine.carter9130@business.net",
+    "phone": "+1 891-213-2707",
+    "ssn": "799363565",
+    "dob": "12/19/1960",
+    "address": "8193 Park Court",
+    "city": "Seattle",
+    "state": "WA"
+  }
+}

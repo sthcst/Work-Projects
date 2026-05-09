@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Stewart,sarah.stewart4114@yahoo.com,587 759 8089,242-12-4639,03/06/1956,"5599 Birch Court",Washington,NC

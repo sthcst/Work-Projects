@@ -1,0 +1,9 @@
+contact:
+  name: Emily Moore
+  email: emily.moore4202@outlook.com
+  phone: 292 776 9205
+  ssn: 149 30 1187
+  dob: 12-03-1983
+  address: 2975 Cedar Ave
+  city: Dallas
+  state: WA

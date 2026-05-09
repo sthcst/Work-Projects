@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Serrano",
+    "email": "samantha.serrano1498@gmail.com",
+    "phone": "+1 426-624-8363",
+    "ssn": "697896478",
+    "dob": "01/20/1984",
+    "address": "8741 Elm Ln",
+    "city": "Seattle",
+    "state": "MD"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Emma Bell
+  email: emma.bell1205@business.net
+  phone: +1 910-644-7272
+  ssn: 837 39 1619
+  dob: 17/11/1987
+  address: 3844 First Ln
+  city: Phoenix
+  state: MO

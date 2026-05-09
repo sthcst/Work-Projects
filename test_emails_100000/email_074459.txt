@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Wilson",
+    "email": "anthony.wilson597@example.com",
+    "phone": "911-639-7974",
+    "ssn": "190 77 7084",
+    "dob": "7/6/1958",
+    "address": "3683 West Blvd",
+    "city": "Washington",
+    "state": "OH"
+  }
+}

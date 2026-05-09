@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Anderson
+  email: kenneth.anderson8107@yahoo.com
+  phone: (249) 460-8378
+  ssn: 705 89 9342
+  dob: 09/12/1974
+  address: 6812 Oak St
+  city: San Jose
+  state: AZ

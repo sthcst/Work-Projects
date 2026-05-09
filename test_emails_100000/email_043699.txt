@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Cooper,pamela.cooper9820@business.net,(455) 683-6234,301-74-9925,06/18/2002,"5480 South Court",Chicago,AZ

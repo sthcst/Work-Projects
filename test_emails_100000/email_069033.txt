@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Ortiz,brian.ortiz8810@example.com,(205) 341-2484,185761231,01/08/1969,"4397 First Court",Jacksonville,CO

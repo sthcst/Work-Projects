@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Lopez
+  email: nicole.lopez4177@outlook.com
+  phone: +1 378-464-7883
+  ssn: 458-04-3516
+  dob: 12/12/2003
+  address: 738 Oak Ln
+  city: Phoenix
+  state: CA

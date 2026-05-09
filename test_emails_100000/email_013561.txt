@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Morgan,shirley.morgan5139@business.net,(735) 627-6291,564341565,04/27/1968,"1660 Spring Blvd",Houston,WA

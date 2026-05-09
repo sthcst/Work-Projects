@@ -1,0 +1,14 @@
+INVOICE 108236
+
+Bill To:
+Name: Jeffrey Martinez
+Email: jeffrey.martinez3228@example.com
+Phone: 328-989-9526
+SSN: 339886750
+
+Address: 4324 Oak Ave
+San Diego, VA
+
+Date of Birth: 04/06/1979
+
+Amount Due: $2885

@@ -1,0 +1,9 @@
+contact:
+  name: Emma Garcia
+  email: emma.garcia7208@example.com
+  phone: (572) 847-7781
+  ssn: 240584878
+  dob: 01/12/1995
+  address: 2029 Cedar Rd
+  city: Austin
+  state: DC

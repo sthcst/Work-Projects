@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Gonzalez
+  email: jacob.gonzalez6402@business.net
+  phone: (917) 836-2144
+  ssn: 609 24 9679
+  dob: 08-26-1991
+  address: 6616 Birch Ln
+  city: San Antonio
+  state: NJ

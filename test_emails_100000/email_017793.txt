@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Guerrero,george.guerrero2075@mail.com,219 720 7401,665 69 3577,11/11/1957,"8436 Spring Rd",Chicago,TX

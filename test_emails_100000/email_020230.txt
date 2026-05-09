@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Johnson,steven.johnson7739@example.com,+1 605-457-8001,654 72 8423,12/15/1978,"6930 Elm Ln",Austin,FL

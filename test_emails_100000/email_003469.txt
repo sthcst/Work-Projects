@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Moore,ashley.moore5312@mail.com,680 833 3279,900-48-3137,5/21/1953,"1395 Pine St",Boston,CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Serrano",
+    "email": "edward.serrano9570@work.org",
+    "phone": "+1 578-615-2960",
+    "ssn": "747547640",
+    "dob": "6/25/1970",
+    "address": "7781 Oak St",
+    "city": "Los Angeles",
+    "state": "AZ"
+  }
+}

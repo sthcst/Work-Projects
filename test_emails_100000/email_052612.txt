@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Gomez,john.gomez5074@work.org,611-591-2540,315-05-6097,07/05/1978,"3047 Fourth St",Seattle,TX

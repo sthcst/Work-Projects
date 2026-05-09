@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Garcia
+  email: stephanie.garcia7131@business.net
+  phone: 595-853-3424
+  ssn: 899 97 5612
+  dob: 07-05-1970
+  address: 4567 Fifth Court
+  city: Philadelphia
+  state: MD

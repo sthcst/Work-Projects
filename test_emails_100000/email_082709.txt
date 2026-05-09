@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Nunez",
+    "email": "ashley.nunez567@outlook.com",
+    "phone": "723 237 5377",
+    "ssn": "978604432",
+    "dob": "13/10/1992",
+    "address": "485 Second Court",
+    "city": "New York",
+    "state": "TX"
+  }
+}

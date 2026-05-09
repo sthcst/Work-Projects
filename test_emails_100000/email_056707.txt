@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Martin",
+    "email": "brian.martin8295@business.net",
+    "phone": "509 376 9299",
+    "ssn": "117181807",
+    "dob": "01/04/1967",
+    "address": "9931 Elm Way",
+    "city": "Dallas",
+    "state": "MA"
+  }
+}

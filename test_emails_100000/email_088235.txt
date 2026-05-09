@@ -1,0 +1,9 @@
+contact:
+  name: James Miller
+  email: james.miller1177@example.com
+  phone: (872) 217-2890
+  ssn: 119 33 5660
+  dob: 1/5/1967
+  address: 9785 Birch Rd
+  city: Dallas
+  state: DC

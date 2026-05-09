@@ -1,0 +1,14 @@
+INVOICE 846836
+
+Bill To:
+Name: Jason Serrano
+Email: jason.serrano8241@example.com
+Phone: 283 673 2980
+SSN: 651387554
+
+Address: 5330 West St
+Washington, DC
+
+Date of Birth: 07-27-1972
+
+Amount Due: $6877

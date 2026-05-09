@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Carter,jeffrey.carter7975@business.net,(558) 868-8680,324473907,10/7/1960,"1304 First Ln",Los Angeles,DC

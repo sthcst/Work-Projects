@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Jackson,lauren.jackson4303@gmail.com,(583) 497-6521,329 04 1947,05/19/1952,"9243 Fifth Ln",Washington,MA

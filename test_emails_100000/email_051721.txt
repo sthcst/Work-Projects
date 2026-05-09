@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Alvarado
+  email: shirley.alvarado5542@yahoo.com
+  phone: 505 847 2720
+  ssn: 165-68-7831
+  dob: 9/14/1987
+  address: 5580 West Blvd
+  city: Washington
+  state: NC

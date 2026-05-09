@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Serrano,timothy.serrano1296@example.com,+1 752-452-7791,846192795,02/07/1995,"5159 Cedar St",Houston,WA

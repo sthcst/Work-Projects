@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Carter",
+    "email": "robert.carter2241@outlook.com",
+    "phone": "(416) 332-2689",
+    "ssn": "657492463",
+    "dob": "08/17/2005",
+    "address": "4593 Pine Ln",
+    "city": "Boston",
+    "state": "DC"
+  }
+}

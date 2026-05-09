@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Guerrero",
+    "email": "brenda.guerrero6479@yahoo.com",
+    "phone": "846-572-7323",
+    "ssn": "688637752",
+    "dob": "28/09/1990",
+    "address": "4855 Elm St",
+    "city": "Seattle",
+    "state": "MA"
+  }
+}

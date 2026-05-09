@@ -1,0 +1,9 @@
+contact:
+  name: Gary Brown
+  email: gary.brown6177@gmail.com
+  phone: 503 458 3549
+  ssn: 797-21-6589
+  dob: 01/04/1999
+  address: 3170 Maple Way
+  city: Boston
+  state: DC

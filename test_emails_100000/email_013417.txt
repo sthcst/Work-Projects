@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Jones",
+    "email": "jason.jones5678@outlook.com",
+    "phone": "(970) 843-6401",
+    "ssn": "604-64-8856",
+    "dob": "4/2/1983",
+    "address": "6331 Park Court",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

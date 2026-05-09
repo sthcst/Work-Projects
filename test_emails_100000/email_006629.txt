@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Moore,samantha.moore3646@example.com,+1 563-240-1811,979-37-1411,06/01/1959,"6778 Spring Ave",Denver,TX

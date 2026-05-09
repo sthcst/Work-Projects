@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Perez",
+    "email": "helen.perez3468@work.org",
+    "phone": "354 746 8335",
+    "ssn": "640 69 4346",
+    "dob": "09/18/1977",
+    "address": "8240 East Ave",
+    "city": "Denver",
+    "state": "MI"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Clark,anthony.clark6804@work.org,394 405 1079,683 73 2963,5/14/1973,"916 Spring Rd",San Antonio,FL

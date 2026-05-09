@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Miller
+  email: shirley.miller1424@gmail.com
+  phone: 885-660-5443
+  ssn: 083-59-3728
+  dob: 11/18/2000
+  address: 3115 First Rd
+  city: Jacksonville
+  state: TX

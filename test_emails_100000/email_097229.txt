@@ -1,0 +1,14 @@
+INVOICE 153812
+
+Bill To:
+Name: Maria Clark
+Email: maria.clark6484@example.com
+Phone: (744) 311-9239
+SSN: 494366734
+
+Address: 9265 Maple Rd
+Denver, NC
+
+Date of Birth: 12/19/1983
+
+Amount Due: $4752

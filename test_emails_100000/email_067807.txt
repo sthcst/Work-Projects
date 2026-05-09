@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Thompson,jessica.thompson4747@example.com,(480) 629-5692,030548705,02-04-1964,"6401 Cedar Way",Washington,MD

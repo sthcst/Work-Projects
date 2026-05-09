@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Alvarado
+  email: rachel.alvarado4777@company.com
+  phone: (578) 599-3849
+  ssn: 573033154
+  dob: 06/16/1995
+  address: 214 Maple Dr
+  city: Chicago
+  state: WA

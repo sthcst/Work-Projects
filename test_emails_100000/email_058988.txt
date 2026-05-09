@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Garcia,edward.garcia1664@company.com,+1 286-202-2430,200-75-2112,3/25/1962,"7379 Birch St",Jacksonville,CO

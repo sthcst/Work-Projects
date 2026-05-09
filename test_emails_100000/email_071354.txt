@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Hall,maria.hall1913@example.com,+1 461-328-1033,561-87-3814,23/04/1960,"5843 Birch Blvd",Jacksonville,PA

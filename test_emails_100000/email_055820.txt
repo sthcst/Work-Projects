@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Nelson",
+    "email": "robert.nelson1418@company.com",
+    "phone": "734 664 7230",
+    "ssn": "615 47 9380",
+    "dob": "6/21/1990",
+    "address": "278 South Dr",
+    "city": "Chicago",
+    "state": "CO"
+  }
+}

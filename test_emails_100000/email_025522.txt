@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Jimenez",
+    "email": "stephanie.jimenez7184@gmail.com",
+    "phone": "(885) 780-2166",
+    "ssn": "102178358",
+    "dob": "03/25/1971",
+    "address": "1838 North St",
+    "city": "Dallas",
+    "state": "DC"
+  }
+}

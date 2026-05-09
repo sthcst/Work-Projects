@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Sanchez",
+    "email": "emily.sanchez4790@company.com",
+    "phone": "692-890-6815",
+    "ssn": "552-27-9505",
+    "dob": "26/10/1975",
+    "address": "9196 Main Blvd",
+    "city": "Los Angeles",
+    "state": "CO"
+  }
+}

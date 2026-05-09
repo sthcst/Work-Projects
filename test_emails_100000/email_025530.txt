@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Martinez
+  email: ryan.martinez2428@gmail.com
+  phone: 481 534 1763
+  ssn: 286832172
+  dob: 06/07/2004
+  address: 3997 East Rd
+  city: Houston
+  state: WA

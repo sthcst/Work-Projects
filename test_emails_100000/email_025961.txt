@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Harris",
+    "email": "helen.harris196@work.org",
+    "phone": "499-685-9648",
+    "ssn": "335082368",
+    "dob": "02-25-1980",
+    "address": "8442 Oak Way",
+    "city": "Philadelphia",
+    "state": "NY"
+  }
+}

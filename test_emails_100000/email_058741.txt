@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Rodriguez",
+    "email": "jane.rodriguez769@gmail.com",
+    "phone": "+1 553-247-8991",
+    "ssn": "414426105",
+    "dob": "04/13/1956",
+    "address": "8548 Summer St",
+    "city": "Boston",
+    "state": "FL"
+  }
+}

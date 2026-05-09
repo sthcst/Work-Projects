@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Sanchez
+  email: sarah.sanchez3510@business.net
+  phone: (970) 587-3943
+  ssn: 870-12-9791
+  dob: 04-21-1973
+  address: 1268 Third Rd
+  city: Philadelphia
+  state: AZ

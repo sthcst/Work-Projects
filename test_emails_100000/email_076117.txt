@@ -1,0 +1,9 @@
+contact:
+  name: Mark Delgado
+  email: mark.delgado298@company.com
+  phone: 417 460 5265
+  ssn: 547 46 2361
+  dob: 1/4/1967
+  address: 5468 Second Blvd
+  city: Chicago
+  state: GA

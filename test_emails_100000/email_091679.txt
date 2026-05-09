@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Nunez",
+    "email": "shirley.nunez1289@company.com",
+    "phone": "(736) 971-6298",
+    "ssn": "923 07 4498",
+    "dob": "08-16-1999",
+    "address": "6095 West Way",
+    "city": "Denver",
+    "state": "NC"
+  }
+}

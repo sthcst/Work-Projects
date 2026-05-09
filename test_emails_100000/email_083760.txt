@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Collins",
+    "email": "amanda.collins6357@gmail.com",
+    "phone": "+1 284-556-1885",
+    "ssn": "478577786",
+    "dob": "3/5/1992",
+    "address": "3467 West St",
+    "city": "Jacksonville",
+    "state": "GA"
+  }
+}

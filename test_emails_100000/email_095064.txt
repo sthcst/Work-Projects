@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Thompson,ryan.thompson1026@example.com,588 355 5510,994-48-5000,07-09-1954,"9833 Main Blvd",Chicago,TX

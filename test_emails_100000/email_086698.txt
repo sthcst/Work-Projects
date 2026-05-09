@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Lewis,gary.lewis5893@gmail.com,577-536-6649,780-02-3766,05/16/1961,"776 Maple Way",San Antonio,NC

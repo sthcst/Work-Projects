@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Smith",
+    "email": "jacob.smith4759@business.net",
+    "phone": "+1 943-703-6942",
+    "ssn": "979054996",
+    "dob": "02/10/1963",
+    "address": "6650 Birch Ave",
+    "city": "Boston",
+    "state": "CA"
+  }
+}

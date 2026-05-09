@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Murillo",
+    "email": "joseph.murillo7526@outlook.com",
+    "phone": "937-209-5321",
+    "ssn": "687-68-1429",
+    "dob": "07-21-1957",
+    "address": "7871 Maple Ln",
+    "city": "Boston",
+    "state": "CA"
+  }
+}

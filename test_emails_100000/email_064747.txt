@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Lopez",
+    "email": "katherine.lopez9088@company.com",
+    "phone": "(578) 742-8746",
+    "ssn": "227 35 2983",
+    "dob": "22/01/1970",
+    "address": "6124 Pine Way",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

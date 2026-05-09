@@ -1,0 +1,9 @@
+contact:
+  name: Megan Bell
+  email: megan.bell7035@work.org
+  phone: (665) 363-1229
+  ssn: 257741143
+  dob: 7/2/1998
+  address: 1986 Main Court
+  city: Austin
+  state: NJ

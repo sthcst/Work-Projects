@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Ramirez",
+    "email": "michael.ramirez1394@gmail.com",
+    "phone": "236 889 2094",
+    "ssn": "615-73-5199",
+    "dob": "12-25-1990",
+    "address": "4843 Sixth Blvd",
+    "city": "Boston",
+    "state": "MD"
+  }
+}

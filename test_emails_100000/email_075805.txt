@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Rogers
+  email: amanda.rogers2295@gmail.com
+  phone: 332 291 8538
+  ssn: 355788081
+  dob: 27/01/1997
+  address: 2200 Oak Way
+  city: Boston
+  state: MI

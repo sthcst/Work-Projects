@@ -1,0 +1,14 @@
+INVOICE 109418
+
+Bill To:
+Name: Jeffrey Hernandez
+Email: jeffrey.hernandez6303@mail.com
+Phone: 219-860-9734
+SSN: 656199731
+
+Address: 4112 Birch Way
+Seattle, PA
+
+Date of Birth: 04-15-1957
+
+Amount Due: $4370

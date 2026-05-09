@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Gomez",
+    "email": "megan.gomez398@outlook.com",
+    "phone": "436-630-7281",
+    "ssn": "591563504",
+    "dob": "3/11/1975",
+    "address": "6122 Pine Ave",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

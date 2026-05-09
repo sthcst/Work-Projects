@@ -1,0 +1,14 @@
+INVOICE 694974
+
+Bill To:
+Name: James Martin
+Email: james.martin4665@example.com
+Phone: +1 733-700-2015
+SSN: 646 43 7795
+
+Address: 5678 Fifth Court
+San Jose, NC
+
+Date of Birth: 05-26-1960
+
+Amount Due: $2736

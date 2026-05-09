@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Dominguez
+  email: timothy.dominguez7183@gmail.com
+  phone: 758-310-5982
+  ssn: 853 26 8001
+  dob: 13/12/1964
+  address: 690 First St
+  city: Washington
+  state: PA

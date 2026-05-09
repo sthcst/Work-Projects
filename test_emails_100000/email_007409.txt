@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Jackson",
+    "email": "mark.jackson5517@company.com",
+    "phone": "264-536-5865",
+    "ssn": "949-13-8676",
+    "dob": "9/4/1993",
+    "address": "6687 Cedar St",
+    "city": "San Jose",
+    "state": "FL"
+  }
+}

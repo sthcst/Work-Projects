@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Miller,brenda.miller5318@mail.com,+1 606-759-6839,029 30 3172,11/06/2004,"5364 Third St",Seattle,WA

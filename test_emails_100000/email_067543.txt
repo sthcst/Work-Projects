@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Cooper",
+    "email": "katherine.cooper2293@company.com",
+    "phone": "904-994-6166",
+    "ssn": "550912910",
+    "dob": "09/23/1954",
+    "address": "5273 Cedar Ln",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

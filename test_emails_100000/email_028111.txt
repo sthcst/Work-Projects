@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Jimenez,daniel.jimenez2880@example.com,917-901-8842,060 22 7274,2/16/1999,"8948 North Ave",Seattle,AZ

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Walker",
+    "email": "sarah.walker6432@mail.com",
+    "phone": "387 778 8946",
+    "ssn": "908 19 4353",
+    "dob": "10/13/1978",
+    "address": "8602 First Dr",
+    "city": "Philadelphia",
+    "state": "TN"
+  }
+}

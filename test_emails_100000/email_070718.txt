@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Alvarado",
+    "email": "richard.alvarado4264@business.net",
+    "phone": "605-228-9013",
+    "ssn": "276 43 1494",
+    "dob": "18/04/1954",
+    "address": "7592 South Blvd",
+    "city": "San Jose",
+    "state": "CO"
+  }
+}

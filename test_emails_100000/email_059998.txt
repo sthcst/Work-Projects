@@ -1,0 +1,9 @@
+contact:
+  name: Maria Delgado
+  email: maria.delgado5803@outlook.com
+  phone: 989-586-5432
+  ssn: 455 93 3680
+  dob: 09/13/1994
+  address: 3921 Park Way
+  city: Phoenix
+  state: CA

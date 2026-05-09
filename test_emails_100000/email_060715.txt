@@ -1,0 +1,9 @@
+contact:
+  name: Emma Hernandez
+  email: emma.hernandez6626@work.org
+  phone: 670-292-1425
+  ssn: 711 39 9109
+  dob: 08-28-1978
+  address: 4441 First Blvd
+  city: Dallas
+  state: NJ

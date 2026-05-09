@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Guerrero",
+    "email": "jane.guerrero7186@yahoo.com",
+    "phone": "+1 209-237-1978",
+    "ssn": "588-56-4628",
+    "dob": "24/10/1987",
+    "address": "5188 First Blvd",
+    "city": "Washington",
+    "state": "MA"
+  }
+}

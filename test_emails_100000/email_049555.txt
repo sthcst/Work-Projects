@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Robinson,charles.robinson3175@gmail.com,(813) 645-5388,509383370,01/13/1957,"785 South Ln",Seattle,CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Martinez,anthony.martinez2729@business.net,328 611 1662,307803077,12/10/1950,"9285 Cedar Ave",Dallas,MO

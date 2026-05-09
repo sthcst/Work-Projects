@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Cooper,emma.cooper4109@outlook.com,365 493 2331,182989082,4/13/1971,"4009 Park Court",New York,MA

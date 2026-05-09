@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Smith,jeffrey.smith3928@example.com,+1 544-480-7265,976-03-2150,5/20/1977,"2596 Main Blvd",Washington,AZ

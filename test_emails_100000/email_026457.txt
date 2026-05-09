@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Morgan,anna.morgan6710@example.com,820-282-7283,672-81-5214,11/7/1970,"2804 Birch Dr",Philadelphia,TN

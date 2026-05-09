@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Martinez,lisa.martinez648@company.com,799 432 3534,520354803,26/01/1976,"5124 Elm St",Washington,CA

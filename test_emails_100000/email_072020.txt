@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Gonzalez,george.gonzalez8654@business.net,(751) 388-1740,936-73-2753,12-13-2000,"5029 East Rd",Jacksonville,TX

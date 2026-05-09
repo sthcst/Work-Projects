@@ -1,0 +1,14 @@
+INVOICE 462267
+
+Bill To:
+Name: Emma Thomas
+Email: emma.thomas5927@company.com
+Phone: (228) 299-9598
+SSN: 832-62-8688
+
+Address: 8684 Fourth Court
+New York, MI
+
+Date of Birth: 3/4/1968
+
+Amount Due: $3262

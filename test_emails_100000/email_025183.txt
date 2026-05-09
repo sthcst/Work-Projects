@@ -1,0 +1,9 @@
+contact:
+  name: Michael Jones
+  email: michael.jones2773@company.com
+  phone: 204 567 2906
+  ssn: 806-10-8975
+  dob: 04-26-1991
+  address: 9047 South Ln
+  city: Austin
+  state: IL

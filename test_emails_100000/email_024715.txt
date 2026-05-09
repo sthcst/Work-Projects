@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Williams",
+    "email": "anna.williams8076@yahoo.com",
+    "phone": "+1 363-999-4808",
+    "ssn": "239-01-6513",
+    "dob": "10-28-2004",
+    "address": "128 Pine Way",
+    "city": "San Diego",
+    "state": "WA"
+  }
+}

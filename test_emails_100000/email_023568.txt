@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Gonzalez
+  email: sarah.gonzalez7371@business.net
+  phone: (846) 821-6592
+  ssn: 715581546
+  dob: 1/15/1958
+  address: 6430 Cedar Dr
+  city: Jacksonville
+  state: TX

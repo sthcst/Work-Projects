@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Alvarado",
+    "email": "emily.alvarado9247@mail.com",
+    "phone": "(526) 541-4739",
+    "ssn": "951-48-2323",
+    "dob": "01/04/1963",
+    "address": "5663 Main Rd",
+    "city": "San Diego",
+    "state": "WI"
+  }
+}

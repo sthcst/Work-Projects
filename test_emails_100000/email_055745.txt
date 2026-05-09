@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Young
+  email: stephanie.young68@mail.com
+  phone: +1 437-680-5602
+  ssn: 625978115
+  dob: 24/03/2003
+  address: 7009 East Court
+  city: San Antonio
+  state: IL

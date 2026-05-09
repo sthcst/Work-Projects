@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Wilson",
+    "email": "richard.wilson2249@gmail.com",
+    "phone": "+1 792-755-2268",
+    "ssn": "999174554",
+    "dob": "01/19/2000",
+    "address": "9997 Pine Ave",
+    "city": "San Antonio",
+    "state": "DC"
+  }
+}

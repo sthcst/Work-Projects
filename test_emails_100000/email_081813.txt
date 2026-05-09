@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Morris,ryan.morris1004@example.com,636-515-7494,390-38-6955,06/13/1988,"3626 Park Ln",Jacksonville,FL

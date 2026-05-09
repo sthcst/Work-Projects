@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Flores,daniel.flores3104@business.net,+1 486-614-2976,466-54-2491,12/5/1965,"1506 North Way",Houston,GA

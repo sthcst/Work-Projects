@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Edwards",
+    "email": "nicole.edwards6972@company.com",
+    "phone": "907 766 5450",
+    "ssn": "482 50 9649",
+    "dob": "11/19/2001",
+    "address": "4361 South Blvd",
+    "city": "Seattle",
+    "state": "MA"
+  }
+}

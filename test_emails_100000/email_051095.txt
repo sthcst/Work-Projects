@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Cooper",
+    "email": "angela.cooper1103@yahoo.com",
+    "phone": "724-699-1658",
+    "ssn": "365671196",
+    "dob": "9/2/1956",
+    "address": "307 Maple Dr",
+    "city": "Chicago",
+    "state": "CO"
+  }
+}

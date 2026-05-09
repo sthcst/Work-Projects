@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Reed",
+    "email": "kenneth.reed5571@gmail.com",
+    "phone": "+1 784-687-5197",
+    "ssn": "988-12-7141",
+    "dob": "21/02/1997",
+    "address": "7815 Sixth Dr",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

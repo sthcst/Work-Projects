@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Lewis",
+    "email": "joshua.lewis519@gmail.com",
+    "phone": "(476) 695-1524",
+    "ssn": "892 06 7874",
+    "dob": "10-12-1969",
+    "address": "7277 Park Court",
+    "city": "Washington",
+    "state": "CO"
+  }
+}

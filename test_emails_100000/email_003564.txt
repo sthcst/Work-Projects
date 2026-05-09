@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Morgan",
+    "email": "shirley.morgan1435@outlook.com",
+    "phone": "334-270-9646",
+    "ssn": "279 08 8971",
+    "dob": "07/16/1965",
+    "address": "4796 Fifth St",
+    "city": "Seattle",
+    "state": "GA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Gary Sanchez
+  email: gary.sanchez4985@gmail.com
+  phone: (703) 991-1126
+  ssn: 212 64 4746
+  dob: 08-01-1960
+  address: 7171 Oak St
+  city: Denver
+  state: MA

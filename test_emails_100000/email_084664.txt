@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Hernandez",
+    "email": "jacob.hernandez2877@gmail.com",
+    "phone": "236-478-8916",
+    "ssn": "635 28 7429",
+    "dob": "03-26-1972",
+    "address": "2451 Spring Way",
+    "city": "Houston",
+    "state": "FL"
+  }
+}

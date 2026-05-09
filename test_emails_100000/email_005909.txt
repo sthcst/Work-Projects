@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Martinez",
+    "email": "anna.martinez402@gmail.com",
+    "phone": "762 479 3491",
+    "ssn": "320-08-6291",
+    "dob": "06-06-1999",
+    "address": "7176 West Blvd",
+    "city": "San Jose",
+    "state": "WA"
+  }
+}

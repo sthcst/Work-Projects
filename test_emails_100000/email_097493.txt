@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Collins,kimberly.collins7390@business.net,(775) 405-5059,418 86 5599,03-09-1991,"5042 Oak St",Denver,IL

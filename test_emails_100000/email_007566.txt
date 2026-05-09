@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Flores",
+    "email": "ronald.flores8604@work.org",
+    "phone": "+1 967-778-8724",
+    "ssn": "890-94-6761",
+    "dob": "4/27/1950",
+    "address": "2363 Summer Ln",
+    "city": "Houston",
+    "state": "AZ"
+  }
+}

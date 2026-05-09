@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Carter
+  email: rachel.carter7350@outlook.com
+  phone: +1 987-675-4971
+  ssn: 976922579
+  dob: 2/25/1962
+  address: 1585 Second Ave
+  city: Denver
+  state: IL

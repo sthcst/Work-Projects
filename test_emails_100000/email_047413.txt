@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Jones,jason.jones6174@company.com,(299) 561-2102,914872789,02-13-1987,"3141 Main Rd",Dallas,NJ

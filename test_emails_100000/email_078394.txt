@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Davis
+  email: rachel.davis1606@outlook.com
+  phone: (822) 722-4519
+  ssn: 711 26 3990
+  dob: 03/06/1975
+  address: 4162 Cedar St
+  city: New York
+  state: OH

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Davis",
+    "email": "robert.davis7224@mail.com",
+    "phone": "728 838 4075",
+    "ssn": "992-74-6968",
+    "dob": "08-21-1958",
+    "address": "3532 Summer Rd",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

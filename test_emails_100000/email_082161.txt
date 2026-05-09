@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Williams
+  email: joseph.williams6035@mail.com
+  phone: +1 902-613-8696
+  ssn: 997-14-3024
+  dob: 02-14-1950
+  address: 9663 Pine St
+  city: New York
+  state: WA

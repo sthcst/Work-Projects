@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Moore",
+    "email": "jason.moore131@business.net",
+    "phone": "342 339 4794",
+    "ssn": "649 27 6446",
+    "dob": "18/03/1955",
+    "address": "6053 First Ave",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

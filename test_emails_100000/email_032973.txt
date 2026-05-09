@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Ramirez,david.ramirez7726@outlook.com,(333) 549-7852,070 43 6240,02-05-1994,"8088 North Ave",Denver,TX

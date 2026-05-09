@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Clark",
+    "email": "jason.clark846@company.com",
+    "phone": "(206) 228-4225",
+    "ssn": "763 95 1918",
+    "dob": "6/11/1981",
+    "address": "2267 Pine Ln",
+    "city": "Los Angeles",
+    "state": "MI"
+  }
+}

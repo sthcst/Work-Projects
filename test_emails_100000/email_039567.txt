@@ -1,0 +1,14 @@
+INVOICE 115227
+
+Bill To:
+Name: Kenneth Davis
+Email: kenneth.davis2124@example.com
+Phone: (532) 897-2414
+SSN: 719791831
+
+Address: 6069 North Blvd
+San Antonio, MD
+
+Date of Birth: 2/2/1992
+
+Amount Due: $8050

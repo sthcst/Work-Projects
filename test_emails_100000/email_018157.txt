@@ -1,0 +1,9 @@
+contact:
+  name: Edward Hernandez
+  email: edward.hernandez4493@yahoo.com
+  phone: +1 892-507-5267
+  ssn: 583841230
+  dob: 12/04/1994
+  address: 8665 Fourth St
+  city: Dallas
+  state: WA

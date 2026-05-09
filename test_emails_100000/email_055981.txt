@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Flores,jacob.flores4185@gmail.com,+1 469-380-6181,440-66-2293,08-26-1994,"3556 Pine Ave",San Diego,WI

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Reed,nicholas.reed761@work.org,+1 531-520-3709,952944468,28/12/1994,"4770 Summer St",Boston,CA

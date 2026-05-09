@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Guerrero,william.guerrero2605@company.com,+1 585-282-7599,710086569,02/03/1984,"8172 Park Rd",San Antonio,NJ

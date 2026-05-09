@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Dominguez",
+    "email": "timothy.dominguez426@work.org",
+    "phone": "694-214-6152",
+    "ssn": "784 01 8717",
+    "dob": "10-07-1992",
+    "address": "5262 Fifth St",
+    "city": "Boston",
+    "state": "AZ"
+  }
+}

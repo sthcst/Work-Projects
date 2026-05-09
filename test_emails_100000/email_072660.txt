@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Jones",
+    "email": "emily.jones650@business.net",
+    "phone": "(228) 939-1693",
+    "ssn": "722528359",
+    "dob": "20/03/1956",
+    "address": "6268 South Ave",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

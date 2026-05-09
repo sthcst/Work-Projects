@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Walker
+  email: jeffrey.walker3466@gmail.com
+  phone: +1 820-639-8609
+  ssn: 065 12 8437
+  dob: 07-16-2001
+  address: 2346 West Dr
+  city: Phoenix
+  state: FL

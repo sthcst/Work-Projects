@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Moore",
+    "email": "megan.moore7517@company.com",
+    "phone": "405-582-2183",
+    "ssn": "770-75-3724",
+    "dob": "11/16/1980",
+    "address": "1333 South Way",
+    "city": "Philadelphia",
+    "state": "NJ"
+  }
+}

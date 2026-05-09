@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Hernandez,william.hernandez5224@yahoo.com,+1 714-419-5040,696 60 8828,10/28/1968,"1315 Fifth Ave",San Jose,CA

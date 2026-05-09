@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Johnson",
+    "email": "ronald.johnson8599@yahoo.com",
+    "phone": "(651) 995-4702",
+    "ssn": "680-25-3370",
+    "dob": "12/18/1960",
+    "address": "4399 East St",
+    "city": "New York",
+    "state": "VA"
+  }
+}

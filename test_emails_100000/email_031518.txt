@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Martinez",
+    "email": "lisa.martinez5225@outlook.com",
+    "phone": "277-574-6189",
+    "ssn": "087208215",
+    "dob": "12/16/1987",
+    "address": "7643 South Rd",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

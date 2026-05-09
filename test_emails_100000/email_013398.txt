@@ -1,0 +1,9 @@
+contact:
+  name: Angela Ramirez
+  email: angela.ramirez5973@yahoo.com
+  phone: (260) 724-3867
+  ssn: 876267560
+  dob: 01-22-1952
+  address: 2016 Summer St
+  city: Seattle
+  state: WA

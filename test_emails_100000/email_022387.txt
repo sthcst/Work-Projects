@@ -1,0 +1,14 @@
+INVOICE 626053
+
+Bill To:
+Name: Nicole Reyes
+Email: nicole.reyes684@company.com
+Phone: 463-950-1102
+SSN: 498409961
+
+Address: 5808 Fifth St
+Austin, NY
+
+Date of Birth: 23/06/1969
+
+Amount Due: $6884

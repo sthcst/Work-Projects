@@ -1,0 +1,14 @@
+INVOICE 663915
+
+Bill To:
+Name: James Dominguez
+Email: james.dominguez2095@example.com
+Phone: +1 771-800-6993
+SSN: 511 66 5667
+
+Address: 3921 Elm Blvd
+Jacksonville, NC
+
+Date of Birth: 2/22/1953
+
+Amount Due: $2626

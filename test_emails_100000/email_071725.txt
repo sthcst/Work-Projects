@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Perez",
+    "email": "jessica.perez7363@business.net",
+    "phone": "427-490-5873",
+    "ssn": "395-01-8158",
+    "dob": "25/09/1950",
+    "address": "9213 Park Ave",
+    "city": "San Diego",
+    "state": "GA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Sanchez",
+    "email": "timothy.sanchez7143@yahoo.com",
+    "phone": "(498) 218-8994",
+    "ssn": "758 22 8000",
+    "dob": "04-02-1982",
+    "address": "1637 Pine Ln",
+    "city": "Jacksonville",
+    "state": "NY"
+  }
+}

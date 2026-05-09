@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Stewart
+  email: daniel.stewart6884@mail.com
+  phone: 850 571 4558
+  ssn: 100-40-9302
+  dob: 12/14/2000
+  address: 8661 Elm Ln
+  city: Dallas
+  state: NC

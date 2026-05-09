@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Jones,john.jones4556@yahoo.com,812 322 9975,170 18 8342,2/21/1999,"4117 Maple Blvd",New York,CA

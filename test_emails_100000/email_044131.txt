@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Jones
+  email: cynthia.jones6495@mail.com
+  phone: (757) 295-2537
+  ssn: 054-52-1700
+  dob: 03/06/1969
+  address: 3633 Third Court
+  city: Chicago
+  state: TX

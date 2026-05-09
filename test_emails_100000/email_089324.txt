@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Ramirez,kimberly.ramirez3155@work.org,578-447-8688,046713472,21/11/1952,"7206 South Rd",Denver,TX

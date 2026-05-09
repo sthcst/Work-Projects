@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Williams
+  email: michelle.williams6885@outlook.com
+  phone: 786-446-2754
+  ssn: 251 39 9102
+  dob: 05/10/1997
+  address: 1050 Fifth Blvd
+  city: Phoenix
+  state: NY

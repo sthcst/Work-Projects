@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Perez,maria.perez2827@company.com,646 478 4903,369 64 8964,8/19/1986,"4679 South Court",Boston,TX

@@ -1,0 +1,14 @@
+INVOICE 158694
+
+Bill To:
+Name: Ryan Bell
+Email: ryan.bell3307@example.com
+Phone: 266 377 7534
+SSN: 917367470
+
+Address: 9610 South Dr
+Houston, GA
+
+Date of Birth: 17/04/1984
+
+Amount Due: $677

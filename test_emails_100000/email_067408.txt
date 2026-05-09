@@ -1,0 +1,14 @@
+INVOICE 392387
+
+Bill To:
+Name: James Bell
+Email: james.bell910@company.com
+Phone: +1 678-310-4051
+SSN: 683 06 8599
+
+Address: 2271 Third Ave
+New York, TX
+
+Date of Birth: 11-06-1973
+
+Amount Due: $9650

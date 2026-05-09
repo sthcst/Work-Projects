@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Lopez
+  email: pamela.lopez8539@mail.com
+  phone: +1 333-935-4597
+  ssn: 620871976
+  dob: 1/27/1997
+  address: 7065 East Ln
+  city: New York
+  state: GA

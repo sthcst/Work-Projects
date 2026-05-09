@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Taylor,edward.taylor2899@company.com,303-634-2353,693623783,07/17/1992,"4093 South Court",Philadelphia,FL

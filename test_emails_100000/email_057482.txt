@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Gonzalez",
+    "email": "cynthia.gonzalez9697@work.org",
+    "phone": "889-782-5531",
+    "ssn": "164-73-6305",
+    "dob": "26/09/1965",
+    "address": "2947 North Court",
+    "city": "Seattle",
+    "state": "MA"
+  }
+}

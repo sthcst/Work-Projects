@@ -1,0 +1,14 @@
+INVOICE 345806
+
+Bill To:
+Name: Timothy Romero
+Email: timothy.romero3727@mail.com
+Phone: 366-320-4630
+SSN: 189389971
+
+Address: 5821 Sixth St
+Jacksonville, IL
+
+Date of Birth: 09/05/1981
+
+Amount Due: $9268

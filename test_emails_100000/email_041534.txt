@@ -1,0 +1,9 @@
+contact:
+  name: Anna Thomas
+  email: anna.thomas4386@yahoo.com
+  phone: 756 955 5948
+  ssn: 730293183
+  dob: 10-23-1995
+  address: 7611 East Way
+  city: Dallas
+  state: FL

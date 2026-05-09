@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Jones,kenneth.jones8673@company.com,639 273 6845,797-68-7066,04/18/1973,"2073 Second Way",Philadelphia,WA

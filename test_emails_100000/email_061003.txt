@@ -1,0 +1,9 @@
+contact:
+  name: Kevin White
+  email: kevin.white4905@mail.com
+  phone: (348) 515-2285
+  ssn: 850 22 6696
+  dob: 8/23/1951
+  address: 2323 South St
+  city: San Diego
+  state: MI

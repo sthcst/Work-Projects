@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Hernandez,amanda.hernandez4809@yahoo.com,(850) 595-8192,424 06 4605,04/02/1973,"599 North Way",New York,MO

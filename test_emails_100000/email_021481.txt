@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Thompson",
+    "email": "nicholas.thompson1134@company.com",
+    "phone": "(394) 600-2949",
+    "ssn": "432 51 4061",
+    "dob": "05/11/1968",
+    "address": "7843 Summer Way",
+    "city": "Denver",
+    "state": "AZ"
+  }
+}

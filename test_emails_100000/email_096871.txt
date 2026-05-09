@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Peterson",
+    "email": "mark.peterson980@work.org",
+    "phone": "(208) 416-1499",
+    "ssn": "502456566",
+    "dob": "09/13/1951",
+    "address": "2123 North Ave",
+    "city": "San Antonio",
+    "state": "MI"
+  }
+}

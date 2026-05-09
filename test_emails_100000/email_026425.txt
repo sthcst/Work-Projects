@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Stewart",
+    "email": "brian.stewart4229@yahoo.com",
+    "phone": "+1 661-958-1378",
+    "ssn": "084 84 8757",
+    "dob": "01-10-1973",
+    "address": "5027 North Way",
+    "city": "Dallas",
+    "state": "WA"
+  }
+}

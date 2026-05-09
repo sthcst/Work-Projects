@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Roberts
+  email: lauren.roberts9083@company.com
+  phone: 437 934 5123
+  ssn: 047446371
+  dob: 08/28/2003
+  address: 6877 Third Dr
+  city: Dallas
+  state: NC

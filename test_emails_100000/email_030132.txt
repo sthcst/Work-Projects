@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Hall",
+    "email": "ryan.hall3024@yahoo.com",
+    "phone": "562 410 9368",
+    "ssn": "422528527",
+    "dob": "04-24-1952",
+    "address": "7572 First Court",
+    "city": "San Antonio",
+    "state": "DC"
+  }
+}

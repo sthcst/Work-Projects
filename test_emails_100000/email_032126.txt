@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Lopez,samantha.lopez2023@business.net,669 729 6883,534-97-3967,08/04/1957,"7867 Third Rd",Dallas,NC

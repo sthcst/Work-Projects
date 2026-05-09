@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Gonzalez",
+    "email": "edward.gonzalez4880@work.org",
+    "phone": "392 232 9796",
+    "ssn": "969 34 6785",
+    "dob": "04-07-1994",
+    "address": "3668 Main Way",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

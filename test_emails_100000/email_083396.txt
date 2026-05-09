@@ -1,0 +1,9 @@
+contact:
+  name: Mark Nelson
+  email: mark.nelson6969@mail.com
+  phone: 975 717 1421
+  ssn: 778 82 5422
+  dob: 05/01/1952
+  address: 9870 East Court
+  city: New York
+  state: TX

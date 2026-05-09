@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Flores,helen.flores9144@outlook.com,(397) 791-1272,957-31-9391,8/14/2002,"3575 Third Ln",Seattle,IL

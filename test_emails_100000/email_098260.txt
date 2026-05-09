@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Ramirez",
+    "email": "christopher.ramirez1944@gmail.com",
+    "phone": "414-969-3746",
+    "ssn": "890-82-6949",
+    "dob": "10/19/1979",
+    "address": "1127 Third Blvd",
+    "city": "Dallas",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Reeves",
+    "email": "jennifer.reeves6895@gmail.com",
+    "phone": "304 225 2333",
+    "ssn": "133-61-5214",
+    "dob": "07/01/2003",
+    "address": "2947 Third St",
+    "city": "Los Angeles",
+    "state": "VA"
+  }
+}

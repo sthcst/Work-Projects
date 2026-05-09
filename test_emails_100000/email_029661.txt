@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Alvarado,stephanie.alvarado2519@work.org,+1 712-718-9971,070 70 6458,12/23/1988,"7369 Fifth Ave",Denver,TX

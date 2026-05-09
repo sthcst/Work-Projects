@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Wilson,lauren.wilson4617@gmail.com,414-828-4475,008998835,01-23-2005,"9773 Third Ln",Phoenix,TN

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Young",
+    "email": "john.young2692@business.net",
+    "phone": "(242) 748-6059",
+    "ssn": "379-07-2122",
+    "dob": "16/07/1993",
+    "address": "2085 Sixth St",
+    "city": "New York",
+    "state": "VA"
+  }
+}

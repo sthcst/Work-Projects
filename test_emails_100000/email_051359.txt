@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Alvarado",
+    "email": "john.alvarado143@work.org",
+    "phone": "319-303-6866",
+    "ssn": "331301363",
+    "dob": "11-23-1961",
+    "address": "7096 Fourth Blvd",
+    "city": "Dallas",
+    "state": "NJ"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Emily Morris
+  email: emily.morris1665@company.com
+  phone: 745 867 6299
+  ssn: 931354085
+  dob: 19/07/1987
+  address: 5575 Spring Ln
+  city: Denver
+  state: MA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Matthew Parker,matthew.parker8027@company.com,571-622-8337,585-87-4626,3/1/1977,"3028 Oak St",Phoenix,WA

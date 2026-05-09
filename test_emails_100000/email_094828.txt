@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Nelson,megan.nelson1605@company.com,(976) 552-7100,041 43 2533,10/05/1967,"6131 Summer Rd",San Antonio,OH

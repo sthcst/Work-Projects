@@ -1,0 +1,9 @@
+contact:
+  name: Anna Serrano
+  email: anna.serrano983@gmail.com
+  phone: 607 560 3558
+  ssn: 488-45-8012
+  dob: 07/22/1990
+  address: 6737 Spring Way
+  city: Washington
+  state: MA

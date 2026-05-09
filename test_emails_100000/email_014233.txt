@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Evans
+  email: ronald.evans5983@business.net
+  phone: (831) 857-7544
+  ssn: 567 94 2232
+  dob: 12/19/1980
+  address: 314 Cedar St
+  city: Chicago
+  state: CA

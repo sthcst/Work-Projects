@@ -1,0 +1,14 @@
+INVOICE 139596
+
+Bill To:
+Name: Ashley Lopez
+Email: ashley.lopez2590@example.com
+Phone: (853) 766-1469
+SSN: 354043267
+
+Address: 3579 Summer Blvd
+Los Angeles, MD
+
+Date of Birth: 04-06-1983
+
+Amount Due: $2654

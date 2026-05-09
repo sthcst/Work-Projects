@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Nelson",
+    "email": "samantha.nelson200@gmail.com",
+    "phone": "746-694-5460",
+    "ssn": "933697156",
+    "dob": "07-23-1973",
+    "address": "2465 South St",
+    "city": "Los Angeles",
+    "state": "NC"
+  }
+}

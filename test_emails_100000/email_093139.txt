@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Brown",
+    "email": "samantha.brown7047@business.net",
+    "phone": "(245) 860-7412",
+    "ssn": "692-31-3306",
+    "dob": "5/11/1950",
+    "address": "4303 Sixth Dr",
+    "city": "Denver",
+    "state": "PA"
+  }
+}

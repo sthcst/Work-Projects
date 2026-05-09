@@ -1,0 +1,9 @@
+contact:
+  name: Anna Murillo
+  email: anna.murillo8584@outlook.com
+  phone: 629 342 9107
+  ssn: 252841662
+  dob: 2/3/1968
+  address: 2666 Summer Ave
+  city: Dallas
+  state: GA

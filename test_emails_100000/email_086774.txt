@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Stewart",
+    "email": "kathleen.stewart6170@example.com",
+    "phone": "(512) 588-6993",
+    "ssn": "342-08-3875",
+    "dob": "06-19-1957",
+    "address": "3749 Maple Ave",
+    "city": "Chicago",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Peterson
+  email: pamela.peterson7593@business.net
+  phone: 490-841-5204
+  ssn: 235352757
+  dob: 12/11/1970
+  address: 1238 Pine Blvd
+  city: Boston
+  state: MA

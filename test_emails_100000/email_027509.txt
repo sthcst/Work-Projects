@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Hernandez",
+    "email": "jeffrey.hernandez5483@company.com",
+    "phone": "232-393-8647",
+    "ssn": "014823811",
+    "dob": "05/02/1983",
+    "address": "1524 West Blvd",
+    "city": "New York",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Clark",
+    "email": "kathleen.clark6134@business.net",
+    "phone": "(345) 653-1814",
+    "ssn": "918-79-2596",
+    "dob": "01/14/1983",
+    "address": "333 North Ave",
+    "city": "San Antonio",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Hernandez,christine.hernandez4285@mail.com,948-340-1849,584 04 8094,03-24-1982,"6752 Fourth Way",Denver,AZ

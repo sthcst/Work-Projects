@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Moore,joseph.moore6974@company.com,885-264-6926,306-68-4968,06-28-2000,"507 Pine St",Los Angeles,WI

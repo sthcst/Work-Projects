@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Flores",
+    "email": "jennifer.flores9450@business.net",
+    "phone": "414-336-4746",
+    "ssn": "062 13 1808",
+    "dob": "07/15/1971",
+    "address": "7795 Second Blvd",
+    "city": "Denver",
+    "state": "NC"
+  }
+}

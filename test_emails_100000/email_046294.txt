@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Ramirez",
+    "email": "deborah.ramirez749@work.org",
+    "phone": "439-923-7590",
+    "ssn": "483-03-1588",
+    "dob": "11/19/1992",
+    "address": "1966 Sixth Court",
+    "city": "Chicago",
+    "state": "FL"
+  }
+}

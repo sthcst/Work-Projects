@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Flores
+  email: joseph.flores9411@business.net
+  phone: 382-958-8069
+  ssn: 196 86 4485
+  dob: 02-26-1969
+  address: 8057 Oak Rd
+  city: Denver
+  state: AZ

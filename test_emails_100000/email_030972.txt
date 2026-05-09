@@ -1,0 +1,14 @@
+INVOICE 924816
+
+Bill To:
+Name: Michael Bell
+Email: michael.bell9989@example.com
+Phone: +1 311-600-7713
+SSN: 918759033
+
+Address: 7215 Spring Ln
+Philadelphia, TX
+
+Date of Birth: 10/5/1985
+
+Amount Due: $9291

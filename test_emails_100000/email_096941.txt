@@ -1,0 +1,14 @@
+INVOICE 261328
+
+Bill To:
+Name: Michael Peterson
+Email: michael.peterson1517@company.com
+Phone: 762 292 1487
+SSN: 523 87 9818
+
+Address: 9833 Maple Dr
+San Antonio, TX
+
+Date of Birth: 04/06/1983
+
+Amount Due: $5622

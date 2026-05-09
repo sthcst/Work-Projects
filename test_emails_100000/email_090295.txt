@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Lewis",
+    "email": "katherine.lewis8426@business.net",
+    "phone": "(250) 273-2249",
+    "ssn": "155421721",
+    "dob": "26/06/1954",
+    "address": "793 Spring Court",
+    "city": "Dallas",
+    "state": "NY"
+  }
+}

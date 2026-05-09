@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Edwards
+  email: katherine.edwards1783@business.net
+  phone: 876 976 3929
+  ssn: 647 52 8501
+  dob: 17/04/1970
+  address: 1534 Second Court
+  city: Washington
+  state: CA

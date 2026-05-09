@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Serrano",
+    "email": "robert.serrano9644@example.com",
+    "phone": "(589) 512-6479",
+    "ssn": "288 80 4838",
+    "dob": "10/7/1989",
+    "address": "1663 West Dr",
+    "city": "San Diego",
+    "state": "MA"
+  }
+}

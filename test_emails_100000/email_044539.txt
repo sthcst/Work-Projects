@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Evans",
+    "email": "jennifer.evans8780@yahoo.com",
+    "phone": "(590) 907-6262",
+    "ssn": "364519363",
+    "dob": "04-25-1978",
+    "address": "6632 Cedar St",
+    "city": "Philadelphia",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Ramirez",
+    "email": "donald.ramirez7620@gmail.com",
+    "phone": "552-328-1497",
+    "ssn": "879-36-1555",
+    "dob": "05/26/1997",
+    "address": "6639 Park Ave",
+    "city": "San Jose",
+    "state": "MA"
+  }
+}

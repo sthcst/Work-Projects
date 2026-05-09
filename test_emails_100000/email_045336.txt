@@ -1,0 +1,9 @@
+contact:
+  name: Gary Guerrero
+  email: gary.guerrero5944@outlook.com
+  phone: +1 660-808-2605
+  ssn: 146-50-3553
+  dob: 08/24/2000
+  address: 5845 Main Rd
+  city: Dallas
+  state: TX

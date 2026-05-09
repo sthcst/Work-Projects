@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Carter,katherine.carter5163@company.com,+1 648-366-6766,758-09-7007,10/02/1990,"8853 Maple Blvd",Denver,MA

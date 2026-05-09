@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Campbell,paul.campbell4173@example.com,916-237-4713,801 82 7742,10/05/1985,"8299 Summer St",Seattle,GA

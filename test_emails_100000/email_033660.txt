@@ -1,0 +1,14 @@
+INVOICE 655592
+
+Bill To:
+Name: Emma Bell
+Email: emma.bell3607@company.com
+Phone: 778-510-3383
+SSN: 457407534
+
+Address: 4180 West Rd
+New York, CA
+
+Date of Birth: 8/20/1992
+
+Amount Due: $3345

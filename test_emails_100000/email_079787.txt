@@ -1,0 +1,14 @@
+INVOICE 911745
+
+Bill To:
+Name: Steven Williams
+Email: steven.williams9800@example.com
+Phone: (400) 687-7546
+SSN: 602802333
+
+Address: 7396 South Blvd
+Los Angeles, CA
+
+Date of Birth: 12/10/1955
+
+Amount Due: $2004

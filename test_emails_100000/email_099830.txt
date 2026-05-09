@@ -1,0 +1,9 @@
+contact:
+  name: Jane Miller
+  email: jane.miller2381@work.org
+  phone: 222 411 6508
+  ssn: 651 21 7807
+  dob: 21/09/2000
+  address: 2540 Elm Way
+  city: San Diego
+  state: WI

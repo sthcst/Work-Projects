@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Wilson",
+    "email": "jeffrey.wilson7874@work.org",
+    "phone": "(208) 998-2838",
+    "ssn": "505 28 2253",
+    "dob": "2/2/1956",
+    "address": "6486 Main Court",
+    "city": "Chicago",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Lee
+  email: samantha.lee8572@mail.com
+  phone: (576) 397-1741
+  ssn: 640114150
+  dob: 01-14-1981
+  address: 2476 Cedar Way
+  city: Washington
+  state: MA

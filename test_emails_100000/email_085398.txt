@@ -1,0 +1,9 @@
+contact:
+  name: Christine Jimenez
+  email: christine.jimenez6253@outlook.com
+  phone: (993) 312-4001
+  ssn: 267 30 7354
+  dob: 05-12-2000
+  address: 8590 Second Way
+  city: Austin
+  state: CO

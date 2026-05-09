@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Alvarado",
+    "email": "christine.alvarado1896@example.com",
+    "phone": "+1 515-717-2992",
+    "ssn": "379-93-5316",
+    "dob": "09/07/1965",
+    "address": "6314 Summer Ave",
+    "city": "Jacksonville",
+    "state": "NC"
+  }
+}

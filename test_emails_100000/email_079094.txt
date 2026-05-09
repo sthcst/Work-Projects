@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Guerrero",
+    "email": "nicholas.guerrero4079@gmail.com",
+    "phone": "(443) 973-9441",
+    "ssn": "983-09-4611",
+    "dob": "02-18-1967",
+    "address": "9333 West Dr",
+    "city": "Denver",
+    "state": "IL"
+  }
+}

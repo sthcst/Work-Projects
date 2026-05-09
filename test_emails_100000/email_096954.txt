@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Smith,andrew.smith5294@example.com,(678) 285-5145,736-18-2961,09-08-1972,"3986 Third St",New York,CA

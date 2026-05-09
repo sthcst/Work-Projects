@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Campbell,megan.campbell7527@work.org,232-923-2119,224 70 7972,12/06/1959,"3087 East Court",Los Angeles,CO

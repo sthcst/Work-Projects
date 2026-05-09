@@ -1,0 +1,14 @@
+INVOICE 168132
+
+Bill To:
+Name: Jeffrey Taylor
+Email: jeffrey.taylor9804@company.com
+Phone: 669-741-1386
+SSN: 925-90-4792
+
+Address: 9687 West Ln
+San Antonio, TX
+
+Date of Birth: 12/7/1962
+
+Amount Due: $4746

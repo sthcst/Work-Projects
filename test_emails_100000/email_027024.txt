@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Williams",
+    "email": "katherine.williams9115@business.net",
+    "phone": "(951) 836-4878",
+    "ssn": "607-63-8957",
+    "dob": "4/14/1984",
+    "address": "8793 Oak Way",
+    "city": "New York",
+    "state": "VA"
+  }
+}

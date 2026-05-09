@@ -1,0 +1,14 @@
+INVOICE 752968
+
+Bill To:
+Name: Stephanie Phillips
+Email: stephanie.phillips1885@company.com
+Phone: 342-991-6212
+SSN: 186 90 2880
+
+Address: 4052 Maple Blvd
+Los Angeles, AZ
+
+Date of Birth: 03/06/1976
+
+Amount Due: $5567

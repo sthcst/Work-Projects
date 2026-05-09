@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Delgado",
+    "email": "ronald.delgado1355@work.org",
+    "phone": "+1 276-453-6382",
+    "ssn": "119882244",
+    "dob": "12/05/1996",
+    "address": "2369 Maple Dr",
+    "city": "San Jose",
+    "state": "CA"
+  }
+}

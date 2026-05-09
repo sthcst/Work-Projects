@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Miller,steven.miller4652@yahoo.com,782-991-9660,122 96 3694,25/03/1980,"7075 Main Ave",Phoenix,PA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Evans,cynthia.evans8030@company.com,948 238 1215,326-55-8386,10/05/1988,"7066 Third Way",San Diego,VA

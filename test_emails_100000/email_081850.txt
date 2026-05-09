@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Ramirez,shirley.ramirez8618@gmail.com,(509) 252-1547,282 14 7673,12/21/1957,"9492 Main St",Washington,MA

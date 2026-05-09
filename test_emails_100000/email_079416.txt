@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Jones,rebecca.jones7824@company.com,+1 405-556-1903,216-89-4153,4/23/1980,"2188 South Ln",Jacksonville,CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Edwards",
+    "email": "george.edwards3728@work.org",
+    "phone": "361-449-7472",
+    "ssn": "434 67 9121",
+    "dob": "04/16/1962",
+    "address": "8887 Pine Dr",
+    "city": "Boston",
+    "state": "PA"
+  }
+}

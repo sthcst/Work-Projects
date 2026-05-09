@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Lewis,rachel.lewis48@example.com,(272) 518-7240,226 92 4639,8/2/1951,"2749 Oak Way",San Antonio,WI

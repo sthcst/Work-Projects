@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Edwards
+  email: jennifer.edwards4248@example.com
+  phone: (984) 897-4990
+  ssn: 308 74 8335
+  dob: 11/11/1997
+  address: 365 Pine Way
+  city: New York
+  state: TX

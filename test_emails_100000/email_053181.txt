@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Guerrero",
+    "email": "kenneth.guerrero6330@work.org",
+    "phone": "792 917 3072",
+    "ssn": "944-50-7357",
+    "dob": "22/02/1972",
+    "address": "9630 Fifth Ave",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

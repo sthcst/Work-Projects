@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Martinez",
+    "email": "lisa.martinez669@mail.com",
+    "phone": "(798) 729-8234",
+    "ssn": "845287405",
+    "dob": "08-10-1967",
+    "address": "2185 Cedar St",
+    "city": "Seattle",
+    "state": "PA"
+  }
+}

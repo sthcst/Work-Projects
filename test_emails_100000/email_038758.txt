@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Walker
+  email: lisa.walker1538@company.com
+  phone: 282-311-2875
+  ssn: 359-34-5237
+  dob: 09/16/1998
+  address: 6813 Spring Way
+  city: Phoenix
+  state: FL

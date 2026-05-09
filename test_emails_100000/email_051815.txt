@@ -1,0 +1,9 @@
+contact:
+  name: David Guerrero
+  email: david.guerrero388@mail.com
+  phone: 561 709 7833
+  ssn: 814-10-1431
+  dob: 01-10-1961
+  address: 6390 Fourth Rd
+  city: San Diego
+  state: CA

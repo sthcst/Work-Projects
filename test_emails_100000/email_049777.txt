@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Garcia,george.garcia4260@yahoo.com,725 252 4010,877 44 8072,11/06/2002,"3906 Main Ln",Chicago,MO

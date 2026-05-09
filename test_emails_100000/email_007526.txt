@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Johnson,david.johnson39@yahoo.com,+1 413-291-4230,078-21-8542,13/01/1957,"3066 Elm Ave",Dallas,AZ

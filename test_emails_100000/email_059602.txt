@@ -1,0 +1,14 @@
+INVOICE 473200
+
+Bill To:
+Name: Daniel Wilson
+Email: daniel.wilson3941@company.com
+Phone: (517) 636-6974
+SSN: 480 18 8138
+
+Address: 7193 South Way
+Jacksonville, VA
+
+Date of Birth: 10-17-1970
+
+Amount Due: $9350

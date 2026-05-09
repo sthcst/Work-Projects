@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Bell",
+    "email": "ashley.bell8171@mail.com",
+    "phone": "231-648-3816",
+    "ssn": "142564039",
+    "dob": "06/07/1996",
+    "address": "9403 Maple Blvd",
+    "city": "Austin",
+    "state": "MO"
+  }
+}

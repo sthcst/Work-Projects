@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Stewart",
+    "email": "paul.stewart2026@mail.com",
+    "phone": "+1 233-807-6647",
+    "ssn": "694 48 8743",
+    "dob": "06-25-1962",
+    "address": "4825 Fifth Dr",
+    "city": "Boston",
+    "state": "CA"
+  }
+}

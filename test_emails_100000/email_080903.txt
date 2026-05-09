@@ -1,0 +1,14 @@
+INVOICE 190571
+
+Bill To:
+Name: Ashley Harris
+Email: ashley.harris7558@example.com
+Phone: 402 811 3210
+SSN: 889 66 7431
+
+Address: 1202 Summer St
+Seattle, TX
+
+Date of Birth: 04/05/1953
+
+Amount Due: $3707

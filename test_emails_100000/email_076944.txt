@@ -1,0 +1,9 @@
+contact:
+  name: Donald Delgado
+  email: donald.delgado7794@yahoo.com
+  phone: (368) 605-8369
+  ssn: 809 94 1085
+  dob: 10/07/1961
+  address: 6405 Cedar Way
+  city: Dallas
+  state: OH

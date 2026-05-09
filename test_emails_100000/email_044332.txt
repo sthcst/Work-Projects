@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Lewis",
+    "email": "nicole.lewis640@business.net",
+    "phone": "(431) 738-4278",
+    "ssn": "394 04 1383",
+    "dob": "03/05/1967",
+    "address": "6876 Oak St",
+    "city": "Austin",
+    "state": "NC"
+  }
+}

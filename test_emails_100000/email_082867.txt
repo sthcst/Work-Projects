@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Taylor,lauren.taylor4911@gmail.com,736-327-7812,181-88-2707,02/25/1976,"8161 Spring Court",Philadelphia,WA

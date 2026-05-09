@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Hall,lauren.hall2511@example.com,(573) 620-7696,433 79 3945,10-21-1972,"4685 Oak Rd",Dallas,TX

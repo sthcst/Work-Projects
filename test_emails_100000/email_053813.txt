@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Roberts,paul.roberts6406@outlook.com,(432) 656-7174,185 58 4394,24/06/1950,"1632 Main Rd",San Diego,TX

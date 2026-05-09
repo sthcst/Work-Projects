@@ -1,0 +1,9 @@
+contact:
+  name: George Bell
+  email: george.bell3975@outlook.com
+  phone: (822) 220-6256
+  ssn: 937 09 6450
+  dob: 12/25/2005
+  address: 7853 North Court
+  city: Washington
+  state: NJ

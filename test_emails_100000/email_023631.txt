@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Martinez",
+    "email": "stephanie.martinez2745@work.org",
+    "phone": "(713) 971-3644",
+    "ssn": "672-74-7297",
+    "dob": "5/13/1971",
+    "address": "2452 First Court",
+    "city": "Dallas",
+    "state": "WI"
+  }
+}

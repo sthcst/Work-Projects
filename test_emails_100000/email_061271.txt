@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Edwards,timothy.edwards7145@company.com,416 240 2827,823805016,6/17/1991,"1248 Birch Rd",Chicago,GA

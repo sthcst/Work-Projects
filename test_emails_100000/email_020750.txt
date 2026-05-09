@@ -1,0 +1,9 @@
+contact:
+  name: Brian Collins
+  email: brian.collins2475@work.org
+  phone: (665) 516-7442
+  ssn: 147-63-2915
+  dob: 12/21/1989
+  address: 8904 Main Way
+  city: San Antonio
+  state: WI

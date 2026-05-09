@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Lopez,william.lopez8850@work.org,790 785 2859,430 36 3808,5/2/1967,"7887 Cedar Ave",Los Angeles,MA

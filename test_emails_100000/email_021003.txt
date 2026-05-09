@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Campbell",
+    "email": "jennifer.campbell4028@company.com",
+    "phone": "+1 826-282-5560",
+    "ssn": "827-09-2030",
+    "dob": "24/08/2001",
+    "address": "3913 Sixth Ave",
+    "city": "Phoenix",
+    "state": "WA"
+  }
+}

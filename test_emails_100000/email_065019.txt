@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Davis",
+    "email": "david.davis4477@gmail.com",
+    "phone": "+1 561-260-2557",
+    "ssn": "807-14-1862",
+    "dob": "11/14/1952",
+    "address": "6608 Sixth Rd",
+    "city": "Washington",
+    "state": "VA"
+  }
+}

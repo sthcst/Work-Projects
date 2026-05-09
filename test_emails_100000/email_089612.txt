@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Collins",
+    "email": "ryan.collins1065@company.com",
+    "phone": "(699) 202-5523",
+    "ssn": "815 11 4309",
+    "dob": "03/11/1955",
+    "address": "5011 Sixth Court",
+    "city": "Los Angeles",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Morgan,michael.morgan6736@example.com,+1 793-384-7375,327-92-4713,12/16/1960,"3050 Spring Blvd",Dallas,NJ

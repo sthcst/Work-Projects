@@ -1,0 +1,12 @@
+SUPPORT TICKET #89737
+
+Customer: Christopher Smith
+Email: christopher.smith6248@example.com
+Phone: +1 332-739-3559
+Account: 266 22 1594
+
+Issue Description: Technical problem reported
+DOB on file: 05-05-1964
+Address: 2799 Fifth Dr, Washington, IL
+
+Status: OPEN

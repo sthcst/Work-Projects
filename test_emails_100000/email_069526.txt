@@ -1,0 +1,9 @@
+contact:
+  name: Emma Delgado
+  email: emma.delgado9266@example.com
+  phone: +1 946-913-3481
+  ssn: 262-27-2957
+  dob: 09/09/1980
+  address: 8523 First Court
+  city: Phoenix
+  state: GA

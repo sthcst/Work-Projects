@@ -1,0 +1,14 @@
+INVOICE 295571
+
+Bill To:
+Name: James Evans
+Email: james.evans5754@example.com
+Phone: (875) 308-5429
+SSN: 244 64 3962
+
+Address: 7935 South Rd
+San Jose, DC
+
+Date of Birth: 07/03/1994
+
+Amount Due: $3497

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Williams",
+    "email": "sarah.williams6412@business.net",
+    "phone": "+1 478-244-1290",
+    "ssn": "738044918",
+    "dob": "04-25-1965",
+    "address": "965 Oak Way",
+    "city": "Seattle",
+    "state": "MA"
+  }
+}

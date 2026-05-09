@@ -1,0 +1,14 @@
+INVOICE 268923
+
+Bill To:
+Name: Jane Jones
+Email: jane.jones9544@outlook.com
+Phone: (965) 684-3017
+SSN: 453962789
+
+Address: 5129 Maple Blvd
+Austin, FL
+
+Date of Birth: 11-22-1975
+
+Amount Due: $2450

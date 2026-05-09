@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Phillips
+  email: ronald.phillips6852@mail.com
+  phone: (326) 888-3246
+  ssn: 637259825
+  dob: 11-24-2005
+  address: 4250 West St
+  city: Dallas
+  state: OH

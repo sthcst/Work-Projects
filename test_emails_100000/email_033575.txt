@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Alvarado",
+    "email": "emily.alvarado5502@business.net",
+    "phone": "839-891-2123",
+    "ssn": "494963641",
+    "dob": "11/12/1971",
+    "address": "8766 Spring Dr",
+    "city": "Dallas",
+    "state": "WI"
+  }
+}

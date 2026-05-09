@@ -1,0 +1,14 @@
+INVOICE 116683
+
+Bill To:
+Name: George Williams
+Email: george.williams7821@company.com
+Phone: (582) 982-5290
+SSN: 424 71 3500
+
+Address: 4358 South Ave
+Los Angeles, FL
+
+Date of Birth: 12/15/1995
+
+Amount Due: $5308

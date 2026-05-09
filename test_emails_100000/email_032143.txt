@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Peterson,deborah.peterson5867@yahoo.com,(461) 825-3035,297-43-6175,11/18/1965,"3415 Second Ln",Boston,GA

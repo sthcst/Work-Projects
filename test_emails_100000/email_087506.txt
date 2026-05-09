@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Johnson
+  email: anthony.johnson3498@outlook.com
+  phone: 319-738-3151
+  ssn: 757 58 2288
+  dob: 04/06/2001
+  address: 6124 Spring Way
+  city: San Jose
+  state: CA

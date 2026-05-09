@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Flores,joshua.flores1636@outlook.com,613 520 4185,500735124,6/18/1968,"7824 Oak Ave",New York,PA

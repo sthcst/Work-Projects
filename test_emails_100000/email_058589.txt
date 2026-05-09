@@ -1,0 +1,9 @@
+contact:
+  name: Christine Anderson
+  email: christine.anderson6356@outlook.com
+  phone: +1 605-466-2623
+  ssn: 255622394
+  dob: 10/25/1975
+  address: 1317 Third Court
+  city: Phoenix
+  state: PA

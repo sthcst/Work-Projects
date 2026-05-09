@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Wilson",
+    "email": "emily.wilson7771@gmail.com",
+    "phone": "676-877-4016",
+    "ssn": "447 90 1833",
+    "dob": "15/05/1965",
+    "address": "7122 Sixth Dr",
+    "city": "San Antonio",
+    "state": "MI"
+  }
+}

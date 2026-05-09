@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Garcia,kevin.garcia2345@example.com,739 242 2362,484 76 8608,06/27/1971,"4126 First Way",Chicago,MI

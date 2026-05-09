@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Dominguez,ashley.dominguez6049@yahoo.com,+1 936-412-8592,803 05 3240,06/05/1981,"8009 First Blvd",Houston,TX

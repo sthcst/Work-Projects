@@ -1,0 +1,14 @@
+INVOICE 812175
+
+Bill To:
+Name: Brian Campbell
+Email: brian.campbell6624@example.com
+Phone: 920-587-3645
+SSN: 992387102
+
+Address: 697 Fourth Blvd
+San Jose, FL
+
+Date of Birth: 2/22/1987
+
+Amount Due: $1606

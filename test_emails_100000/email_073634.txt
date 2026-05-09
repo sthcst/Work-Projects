@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Parker",
+    "email": "mark.parker442@outlook.com",
+    "phone": "766-335-7966",
+    "ssn": "152 35 1179",
+    "dob": "02-08-1983",
+    "address": "4509 Sixth Way",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

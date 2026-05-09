@@ -1,0 +1,9 @@
+contact:
+  name: George Martinez
+  email: george.martinez1613@gmail.com
+  phone: 368-978-7114
+  ssn: 246 79 5204
+  dob: 16/02/2004
+  address: 9083 West Ave
+  city: Los Angeles
+  state: MD

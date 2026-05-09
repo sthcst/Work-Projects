@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Collins",
+    "email": "stephanie.collins3549@mail.com",
+    "phone": "(647) 300-9101",
+    "ssn": "296 06 8368",
+    "dob": "10/23/1962",
+    "address": "9292 East Blvd",
+    "city": "Austin",
+    "state": "AZ"
+  }
+}

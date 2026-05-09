@@ -1,0 +1,14 @@
+INVOICE 130614
+
+Bill To:
+Name: George Clark
+Email: george.clark765@company.com
+Phone: (960) 508-8082
+SSN: 221-47-1195
+
+Address: 5109 North Ln
+San Jose, MO
+
+Date of Birth: 07-10-2004
+
+Amount Due: $3769

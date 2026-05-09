@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Gomez",
+    "email": "jeffrey.gomez3948@example.com",
+    "phone": "(695) 910-6371",
+    "ssn": "355428074",
+    "dob": "06/12/2005",
+    "address": "1188 West St",
+    "city": "Chicago",
+    "state": "WA"
+  }
+}

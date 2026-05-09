@@ -1,0 +1,14 @@
+INVOICE 588549
+
+Bill To:
+Name: Robert Wilson
+Email: robert.wilson2001@business.net
+Phone: (206) 244-8775
+SSN: 632-81-6171
+
+Address: 1343 Elm Blvd
+Dallas, TX
+
+Date of Birth: 01-16-1989
+
+Amount Due: $2225

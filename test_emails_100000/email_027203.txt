@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Parker,paul.parker3104@yahoo.com,327-774-8264,601 33 6210,06/10/1952,"862 West Ave",Los Angeles,MO

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Wilson,pamela.wilson8883@business.net,+1 551-386-5053,636 24 7759,12-14-1950,"1574 Sixth Way",San Jose,DC

@@ -1,0 +1,9 @@
+contact:
+  name: James Martinez
+  email: james.martinez7855@yahoo.com
+  phone: +1 344-536-5071
+  ssn: 256 16 4654
+  dob: 04-21-1978
+  address: 4528 Park St
+  city: Los Angeles
+  state: NJ

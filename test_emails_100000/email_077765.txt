@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Thomas,donald.thomas5500@mail.com,805-529-7860,306 24 4379,09-05-2002,"411 Cedar St",Austin,GA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Anderson,anthony.anderson8409@yahoo.com,222 475 8135,880784975,06/08/1971,"5088 Fifth Court",Los Angeles,AZ

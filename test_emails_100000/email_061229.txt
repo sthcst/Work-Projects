@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Johnson",
+    "email": "christine.johnson437@example.com",
+    "phone": "806-774-5941",
+    "ssn": "366421678",
+    "dob": "08/28/1966",
+    "address": "9800 Fourth Ln",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

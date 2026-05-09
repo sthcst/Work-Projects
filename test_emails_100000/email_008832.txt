@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Serrano",
+    "email": "mark.serrano1877@yahoo.com",
+    "phone": "750 360 3212",
+    "ssn": "468-99-6223",
+    "dob": "02/15/1953",
+    "address": "6099 South Ave",
+    "city": "San Jose",
+    "state": "VA"
+  }
+}

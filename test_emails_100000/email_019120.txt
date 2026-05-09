@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Reeves",
+    "email": "joshua.reeves3952@example.com",
+    "phone": "(209) 432-4270",
+    "ssn": "870-17-2760",
+    "dob": "05/25/1950",
+    "address": "551 First St",
+    "city": "Dallas",
+    "state": "WI"
+  }
+}

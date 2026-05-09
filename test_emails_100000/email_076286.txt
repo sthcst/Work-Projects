@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Jimenez,angela.jimenez5727@yahoo.com,220-241-3858,621-57-8791,01-19-1953,"9446 Second Dr",San Jose,PA

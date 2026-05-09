@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David White",
+    "email": "david.white2476@gmail.com",
+    "phone": "(864) 502-3697",
+    "ssn": "994 99 5071",
+    "dob": "12/06/1992",
+    "address": "4218 Cedar Court",
+    "city": "Denver",
+    "state": "NY"
+  }
+}

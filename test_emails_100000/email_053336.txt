@@ -1,0 +1,14 @@
+INVOICE 609975
+
+Bill To:
+Name: Robert Garcia
+Email: robert.garcia2910@gmail.com
+Phone: 969 248 2816
+SSN: 181 96 8786
+
+Address: 1611 Sixth Ave
+Seattle, NJ
+
+Date of Birth: 19/06/1995
+
+Amount Due: $8958

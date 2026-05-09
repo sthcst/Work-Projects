@@ -1,0 +1,9 @@
+contact:
+  name: Emily Davis
+  email: emily.davis3087@outlook.com
+  phone: +1 636-943-6714
+  ssn: 933533866
+  dob: 09/02/1964
+  address: 6917 East Rd
+  city: Seattle
+  state: CA

@@ -1,0 +1,14 @@
+INVOICE 675543
+
+Bill To:
+Name: Kimberly Morgan
+Email: kimberly.morgan8120@outlook.com
+Phone: +1 841-663-3828
+SSN: 584574043
+
+Address: 9086 Maple Rd
+San Jose, IL
+
+Date of Birth: 03/09/1975
+
+Amount Due: $5374

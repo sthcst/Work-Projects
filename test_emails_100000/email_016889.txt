@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Lee,michelle.lee736@mail.com,(952) 627-3557,801 79 9144,04-20-1985,"7683 Third Dr",Seattle,CA

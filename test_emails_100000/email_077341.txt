@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Jackson
+  email: ryan.jackson4406@example.com
+  phone: 518-477-4596
+  ssn: 018701982
+  dob: 11/12/1958
+  address: 5694 Second Ave
+  city: Denver
+  state: NY

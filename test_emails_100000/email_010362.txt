@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Jones",
+    "email": "brian.jones3626@mail.com",
+    "phone": "735 703 1748",
+    "ssn": "170 57 8778",
+    "dob": "08/13/2003",
+    "address": "9452 Fourth Rd",
+    "city": "Houston",
+    "state": "AZ"
+  }
+}

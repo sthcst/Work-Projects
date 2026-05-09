@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Hernandez
+  email: joseph.hernandez2585@gmail.com
+  phone: 388 436 8720
+  ssn: 494 94 5502
+  dob: 22/12/2005
+  address: 1937 Birch Blvd
+  city: Phoenix
+  state: MD

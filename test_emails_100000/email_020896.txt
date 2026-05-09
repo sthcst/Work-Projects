@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Dominguez",
+    "email": "jessica.dominguez9282@mail.com",
+    "phone": "(370) 839-7169",
+    "ssn": "860828121",
+    "dob": "02/07/1974",
+    "address": "1579 Park Ln",
+    "city": "Seattle",
+    "state": "TN"
+  }
+}

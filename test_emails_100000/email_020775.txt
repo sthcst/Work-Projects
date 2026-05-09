@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Taylor,angela.taylor6664@company.com,773 837 9272,925287245,09/08/1973,"3106 Maple Ln",San Diego,FL

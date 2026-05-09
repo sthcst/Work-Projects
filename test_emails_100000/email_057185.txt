@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Reeves",
+    "email": "anna.reeves8739@company.com",
+    "phone": "752-868-2133",
+    "ssn": "629 52 6902",
+    "dob": "1/8/1964",
+    "address": "3124 Cedar Dr",
+    "city": "Austin",
+    "state": "MA"
+  }
+}

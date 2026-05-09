@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Lewis",
+    "email": "robert.lewis6437@outlook.com",
+    "phone": "(627) 689-1202",
+    "ssn": "240-64-8609",
+    "dob": "1/23/2000",
+    "address": "417 Cedar Dr",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Lopez,kenneth.lopez3266@company.com,443 595 2013,678-56-6891,07/15/1960,"4345 Third Way",Denver,DC

@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Serrano
+  email: kevin.serrano8219@example.com
+  phone: 263 244 3509
+  ssn: 954-54-5125
+  dob: 06/26/1974
+  address: 7239 Third Way
+  city: San Diego
+  state: IL

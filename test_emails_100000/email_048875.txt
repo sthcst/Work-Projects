@@ -1,0 +1,14 @@
+INVOICE 305122
+
+Bill To:
+Name: Katherine Gonzalez
+Email: katherine.gonzalez6053@work.org
+Phone: (364) 819-7738
+SSN: 844-53-1286
+
+Address: 26 Birch Ln
+New York, MI
+
+Date of Birth: 28/04/1975
+
+Amount Due: $3890

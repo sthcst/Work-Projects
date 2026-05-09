@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jeffrey Dominguez,jeffrey.dominguez4285@outlook.com,781 815 1041,287928811,12/25/1989,"8980 Spring Ave",Boston,VA

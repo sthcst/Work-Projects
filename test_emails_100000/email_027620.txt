@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Davis",
+    "email": "sarah.davis5378@company.com",
+    "phone": "+1 644-906-3789",
+    "ssn": "369 05 3506",
+    "dob": "10-27-2004",
+    "address": "4871 Cedar Ln",
+    "city": "Houston",
+    "state": "WI"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Sanchez,rachel.sanchez7082@company.com,(401) 442-2478,605182300,23/09/1968,"2409 Sixth Way",Houston,NJ

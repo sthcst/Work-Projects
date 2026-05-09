@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Moore
+  email: kenneth.moore2260@yahoo.com
+  phone: (456) 581-5025
+  ssn: 588-66-6634
+  dob: 01-28-1954
+  address: 4196 Oak Rd
+  city: Boston
+  state: NJ

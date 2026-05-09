@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Campbell,kevin.campbell8043@example.com,256 408 8633,299-71-7998,11/5/1985,"8046 Elm Blvd",New York,MI

@@ -1,0 +1,9 @@
+contact:
+  name: Maria Davis
+  email: maria.davis9951@company.com
+  phone: (368) 645-3766
+  ssn: 524-42-3347
+  dob: 03/23/1992
+  address: 6185 Summer Ave
+  city: Dallas
+  state: GA

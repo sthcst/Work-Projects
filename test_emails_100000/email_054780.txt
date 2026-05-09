@@ -1,0 +1,14 @@
+INVOICE 506101
+
+Bill To:
+Name: Angela Peterson
+Email: angela.peterson8241@yahoo.com
+Phone: (630) 207-7705
+SSN: 134 74 4482
+
+Address: 876 Elm Court
+Chicago, AZ
+
+Date of Birth: 01-16-1967
+
+Amount Due: $9371

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Evans,jane.evans8852@company.com,537 840 6046,893 59 8757,09-28-1992,"2582 First Way",Dallas,NC

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Clark,jessica.clark9585@yahoo.com,573 605 7076,838 84 4252,08-18-1957,"6803 Elm Rd",Denver,OH

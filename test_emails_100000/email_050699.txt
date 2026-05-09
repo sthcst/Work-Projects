@@ -1,0 +1,14 @@
+INVOICE 367481
+
+Bill To:
+Name: Robert Jackson
+Email: robert.jackson3012@company.com
+Phone: (536) 468-7189
+SSN: 784129659
+
+Address: 5566 Maple Court
+Washington, WA
+
+Date of Birth: 08-27-1969
+
+Amount Due: $4199

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Rogers,timothy.rogers3016@gmail.com,432 570 2660,238-03-4186,06/21/1970,"7309 Sixth St",Houston,MI

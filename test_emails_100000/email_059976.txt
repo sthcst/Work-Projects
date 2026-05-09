@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Walker
+  email: joseph.walker445@outlook.com
+  phone: (237) 223-6236
+  ssn: 245 72 1423
+  dob: 7/18/1951
+  address: 1159 Third Rd
+  city: Denver
+  state: NC

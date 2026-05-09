@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Miller
+  email: lauren.miller2208@business.net
+  phone: (995) 949-8988
+  ssn: 763 02 9965
+  dob: 04/13/1978
+  address: 3264 Main St
+  city: San Diego
+  state: FL

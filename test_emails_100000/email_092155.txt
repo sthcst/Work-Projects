@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Cooper",
+    "email": "emily.cooper6020@example.com",
+    "phone": "(422) 937-8418",
+    "ssn": "528563502",
+    "dob": "12-18-1999",
+    "address": "1407 Second Court",
+    "city": "Philadelphia",
+    "state": "NC"
+  }
+}

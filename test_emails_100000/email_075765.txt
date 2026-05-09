@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Garcia",
+    "email": "michelle.garcia4414@gmail.com",
+    "phone": "288-655-9672",
+    "ssn": "465-62-1957",
+    "dob": "04/28/1974",
+    "address": "2351 Fourth Way",
+    "city": "Los Angeles",
+    "state": "NY"
+  }
+}

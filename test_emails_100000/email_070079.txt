@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Campbell",
+    "email": "michael.campbell4695@example.com",
+    "phone": "(971) 512-2015",
+    "ssn": "452-12-9216",
+    "dob": "09/26/2003",
+    "address": "7150 Cedar Dr",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

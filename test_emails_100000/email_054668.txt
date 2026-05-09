@@ -1,0 +1,9 @@
+contact:
+  name: Donald Young
+  email: donald.young6655@company.com
+  phone: +1 330-364-6172
+  ssn: 593 98 5292
+  dob: 12/13/2005
+  address: 7754 West Ln
+  city: Washington
+  state: CA

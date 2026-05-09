@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Reeves",
+    "email": "ashley.reeves6228@work.org",
+    "phone": "355-439-5469",
+    "ssn": "758527034",
+    "dob": "13/02/2002",
+    "address": "3079 Maple Way",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Evans,paul.evans857@outlook.com,836-685-4630,705184119,03-28-1979,"782 Maple Rd",San Diego,WA

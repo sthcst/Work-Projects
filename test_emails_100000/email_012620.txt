@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Parker",
+    "email": "cynthia.parker2421@outlook.com",
+    "phone": "431-469-3832",
+    "ssn": "288576626",
+    "dob": "12/12/1952",
+    "address": "8256 Birch Dr",
+    "city": "Phoenix",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Jimenez",
+    "email": "kathleen.jimenez1612@business.net",
+    "phone": "208 894 8932",
+    "ssn": "588721001",
+    "dob": "05-13-1966",
+    "address": "4564 First Ave",
+    "city": "San Antonio",
+    "state": "MA"
+  }
+}

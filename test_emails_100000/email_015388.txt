@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Rogers,shirley.rogers6174@work.org,(392) 700-7072,596-32-8206,03/28/1959,"7437 First Blvd",Houston,WI

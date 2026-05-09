@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Cooper,gary.cooper2525@gmail.com,+1 879-861-5837,433967997,11/15/1972,"6909 First Court",San Jose,NJ

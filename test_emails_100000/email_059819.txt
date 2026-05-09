@@ -1,0 +1,14 @@
+INVOICE 466293
+
+Bill To:
+Name: Jennifer Bell
+Email: jennifer.bell3017@example.com
+Phone: (942) 214-6951
+SSN: 202 61 5964
+
+Address: 7838 Third Rd
+San Jose, CO
+
+Date of Birth: 03-17-1975
+
+Amount Due: $5037

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Walker,joseph.walker6074@business.net,+1 887-291-8978,902-22-9494,7/13/1985,"7589 Maple Court",San Diego,CA

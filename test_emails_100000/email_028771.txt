@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Reyes",
+    "email": "brenda.reyes5824@outlook.com",
+    "phone": "+1 568-413-8247",
+    "ssn": "556-79-6361",
+    "dob": "26/02/1967",
+    "address": "155 Birch Ln",
+    "city": "San Diego",
+    "state": "NC"
+  }
+}

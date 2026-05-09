@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Parker",
+    "email": "robert.parker204@company.com",
+    "phone": "620-363-6798",
+    "ssn": "294-36-8763",
+    "dob": "10/21/1992",
+    "address": "3124 Second Dr",
+    "city": "Jacksonville",
+    "state": "CA"
+  }
+}

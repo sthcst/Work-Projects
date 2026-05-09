@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Evans",
+    "email": "samantha.evans1901@outlook.com",
+    "phone": "(629) 398-6522",
+    "ssn": "398046422",
+    "dob": "07/16/1975",
+    "address": "6503 Pine Ave",
+    "city": "Washington",
+    "state": "AZ"
+  }
+}

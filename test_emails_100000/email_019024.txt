@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Stewart,james.stewart1624@business.net,991-923-7496,252106048,11/27/1997,"6853 Maple St",Dallas,TX

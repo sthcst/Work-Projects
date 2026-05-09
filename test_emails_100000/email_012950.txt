@@ -1,0 +1,9 @@
+contact:
+  name: Gary Clark
+  email: gary.clark7453@example.com
+  phone: +1 893-526-8335
+  ssn: 905-57-6157
+  dob: 5/2/1991
+  address: 3257 Cedar Blvd
+  city: San Antonio
+  state: TX

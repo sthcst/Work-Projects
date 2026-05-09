@@ -1,0 +1,9 @@
+contact:
+  name: Michael Bell
+  email: michael.bell6813@work.org
+  phone: +1 406-323-1104
+  ssn: 795 71 4956
+  dob: 09-25-1975
+  address: 1993 Sixth Ln
+  city: Seattle
+  state: CA

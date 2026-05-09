@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Nunez
+  email: katherine.nunez8052@company.com
+  phone: 891-283-9806
+  ssn: 902229687
+  dob: 18/07/1992
+  address: 2478 East Dr
+  city: Philadelphia
+  state: CA

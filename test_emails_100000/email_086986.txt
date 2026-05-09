@@ -1,0 +1,14 @@
+INVOICE 344251
+
+Bill To:
+Name: Jeffrey Perez
+Email: jeffrey.perez1558@outlook.com
+Phone: +1 355-822-6167
+SSN: 617-52-7328
+
+Address: 4283 Maple Ln
+San Jose, TX
+
+Date of Birth: 05-15-2003
+
+Amount Due: $5654

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Lee,anthony.lee3245@company.com,+1 665-897-9394,865 37 4755,19/09/1996,"8291 Cedar Dr",San Diego,AZ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Gonzalez,john.gonzalez1753@outlook.com,(431) 433-1184,284384769,21/04/1988,"7489 Fourth Rd",Jacksonville,DC

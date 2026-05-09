@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Rogers",
+    "email": "brenda.rogers3211@business.net",
+    "phone": "(494) 656-3179",
+    "ssn": "403-49-3141",
+    "dob": "01/22/1993",
+    "address": "7397 Birch St",
+    "city": "Austin",
+    "state": "MI"
+  }
+}

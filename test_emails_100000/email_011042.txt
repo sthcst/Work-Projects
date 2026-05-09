@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Peterson,cynthia.peterson4897@gmail.com,+1 377-863-5214,132825312,09/22/1984,"1710 North Ln",Seattle,AZ

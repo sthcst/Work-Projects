@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Davis",
+    "email": "samantha.davis6136@work.org",
+    "phone": "800-741-6381",
+    "ssn": "896025036",
+    "dob": "1/18/1985",
+    "address": "2146 Second Way",
+    "city": "Boston",
+    "state": "PA"
+  }
+}

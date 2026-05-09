@@ -1,0 +1,9 @@
+contact:
+  name: Maria Sanchez
+  email: maria.sanchez5768@gmail.com
+  phone: (702) 830-8642
+  ssn: 496 89 4580
+  dob: 18/06/1964
+  address: 2690 Elm St
+  city: New York
+  state: FL

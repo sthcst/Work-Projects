@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Anderson",
+    "email": "brenda.anderson7405@outlook.com",
+    "phone": "(388) 555-6910",
+    "ssn": "220 11 6464",
+    "dob": "12-16-1995",
+    "address": "2755 Second Court",
+    "city": "Seattle",
+    "state": "DC"
+  }
+}

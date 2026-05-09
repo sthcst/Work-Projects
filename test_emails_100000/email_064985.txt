@@ -1,0 +1,14 @@
+INVOICE 715980
+
+Bill To:
+Name: Pamela Johnson
+Email: pamela.johnson2954@work.org
+Phone: 895 753 1013
+SSN: 568 64 9235
+
+Address: 5418 Spring Ln
+New York, CA
+
+Date of Birth: 3/5/1951
+
+Amount Due: $4638

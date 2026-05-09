@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Taylor",
+    "email": "joseph.taylor154@mail.com",
+    "phone": "810 771 5610",
+    "ssn": "264-58-7099",
+    "dob": "10/07/1977",
+    "address": "466 Second Dr",
+    "city": "Houston",
+    "state": "WI"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 161698
+
+Bill To:
+Name: Robert Guerrero
+Email: robert.guerrero4072@business.net
+Phone: 958 555 2524
+SSN: 119384248
+
+Address: 6189 South Ave
+Dallas, TX
+
+Date of Birth: 14/09/1978
+
+Amount Due: $7092

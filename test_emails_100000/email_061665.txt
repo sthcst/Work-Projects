@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Miller",
+    "email": "ashley.miller1794@business.net",
+    "phone": "+1 769-701-7261",
+    "ssn": "368184365",
+    "dob": "2/27/1997",
+    "address": "5416 Main Rd",
+    "city": "San Diego",
+    "state": "MO"
+  }
+}

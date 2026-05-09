@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Delgado
+  email: cynthia.delgado8438@gmail.com
+  phone: +1 374-365-4605
+  ssn: 337-22-9309
+  dob: 3/3/2005
+  address: 2626 Cedar Way
+  city: Phoenix
+  state: WA

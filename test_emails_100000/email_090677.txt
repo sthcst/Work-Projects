@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Hernandez,lisa.hernandez103@business.net,(679) 478-6266,857-40-2144,09/11/2005,"9921 Cedar Dr",Los Angeles,WI

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Lopez",
+    "email": "rebecca.lopez5087@gmail.com",
+    "phone": "+1 869-624-6139",
+    "ssn": "106-88-5029",
+    "dob": "16/05/1975",
+    "address": "2198 North Blvd",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

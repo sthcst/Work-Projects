@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Serrano,joseph.serrano6319@yahoo.com,548-899-1743,955341735,9/3/1955,"2568 Oak Court",Los Angeles,NY

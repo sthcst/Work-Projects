@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Campbell
+  email: amanda.campbell7317@business.net
+  phone: 533-943-9960
+  ssn: 962-11-4208
+  dob: 09/14/1986
+  address: 5126 South Court
+  city: San Diego
+  state: TX

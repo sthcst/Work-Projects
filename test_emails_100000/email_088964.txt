@@ -1,0 +1,9 @@
+contact:
+  name: Kimberly Serrano
+  email: kimberly.serrano1052@work.org
+  phone: (537) 558-6772
+  ssn: 849-42-9721
+  dob: 2/11/2003
+  address: 8004 Main St
+  city: Chicago
+  state: NY

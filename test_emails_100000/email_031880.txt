@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Johnson,helen.johnson8650@gmail.com,616 246 8178,712594094,28/12/1998,"6964 North Way",Austin,NY

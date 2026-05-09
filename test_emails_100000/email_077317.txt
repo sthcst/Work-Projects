@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Flores",
+    "email": "emily.flores7649@yahoo.com",
+    "phone": "871-700-1585",
+    "ssn": "392 58 8570",
+    "dob": "3/9/1977",
+    "address": "7343 Sixth Way",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

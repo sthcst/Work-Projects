@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Romero,john.romero2846@mail.com,815-880-7566,635808585,14/11/1956,"6853 West Court",Dallas,CO

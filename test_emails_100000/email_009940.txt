@@ -1,0 +1,14 @@
+INVOICE 170116
+
+Bill To:
+Name: Kimberly Garcia
+Email: kimberly.garcia9432@work.org
+Phone: +1 815-408-9545
+SSN: 938629675
+
+Address: 2693 Third Way
+San Jose, MD
+
+Date of Birth: 6/20/2003
+
+Amount Due: $3914

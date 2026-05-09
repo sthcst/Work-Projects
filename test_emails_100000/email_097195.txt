@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Carter
+  email: rebecca.carter7751@gmail.com
+  phone: 945 248 6562
+  ssn: 152185304
+  dob: 09-28-1959
+  address: 8915 Pine St
+  city: Los Angeles
+  state: TN

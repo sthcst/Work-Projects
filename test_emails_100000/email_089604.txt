@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Evans,rachel.evans7893@gmail.com,966 303 6511,008-08-6213,08/16/1966,"1089 Park Way",Phoenix,OH

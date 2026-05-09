@@ -1,0 +1,14 @@
+INVOICE 357678
+
+Bill To:
+Name: Charles Nelson
+Email: charles.nelson4245@company.com
+Phone: +1 839-448-5453
+SSN: 700-66-3197
+
+Address: 6031 Birch Rd
+San Jose, NC
+
+Date of Birth: 21/12/1972
+
+Amount Due: $2809

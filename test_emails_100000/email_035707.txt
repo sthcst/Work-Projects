@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Jackson",
+    "email": "brian.jackson2523@business.net",
+    "phone": "+1 535-559-9921",
+    "ssn": "983 61 4586",
+    "dob": "03/22/1964",
+    "address": "9994 Sixth Court",
+    "city": "San Jose",
+    "state": "MI"
+  }
+}

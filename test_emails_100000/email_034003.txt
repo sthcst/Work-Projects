@@ -1,0 +1,9 @@
+contact:
+  name: Mark Reyes
+  email: mark.reyes5489@company.com
+  phone: +1 438-662-8068
+  ssn: 374 92 4630
+  dob: 10/13/1956
+  address: 3029 Birch Blvd
+  city: Chicago
+  state: AZ

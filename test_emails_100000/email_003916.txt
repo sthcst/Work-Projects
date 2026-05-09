@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Jones",
+    "email": "gary.jones4311@gmail.com",
+    "phone": "(747) 412-5776",
+    "ssn": "846924098",
+    "dob": "01/14/1989",
+    "address": "4067 North Blvd",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

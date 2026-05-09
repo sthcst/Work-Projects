@@ -1,0 +1,9 @@
+contact:
+  name: Richard Lewis
+  email: richard.lewis8951@mail.com
+  phone: 998-547-8529
+  ssn: 298943311
+  dob: 06-08-1988
+  address: 6804 First Blvd
+  city: Seattle
+  state: MD

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Ramirez,jessica.ramirez1747@company.com,620-491-5025,296-17-9065,12/22/1960,"5681 North Way",San Jose,MA

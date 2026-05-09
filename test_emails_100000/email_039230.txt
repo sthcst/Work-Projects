@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Campbell
+  email: lisa.campbell1465@gmail.com
+  phone: 506 844 4866
+  ssn: 065 88 1681
+  dob: 12/12/1954
+  address: 7405 Pine Way
+  city: Washington
+  state: TX

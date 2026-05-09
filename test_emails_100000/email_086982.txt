@@ -1,0 +1,9 @@
+contact:
+  name: David Guerrero
+  email: david.guerrero8471@example.com
+  phone: (787) 289-7705
+  ssn: 446-98-8856
+  dob: 06-12-1973
+  address: 4354 Fourth Rd
+  city: Philadelphia
+  state: OH

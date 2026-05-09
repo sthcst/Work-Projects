@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Serrano,joseph.serrano8337@mail.com,627 220 4054,870064181,04-04-1967,"2226 Main Blvd",Austin,MA

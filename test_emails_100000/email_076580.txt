@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Taylor",
+    "email": "paul.taylor2394@outlook.com",
+    "phone": "883-550-6758",
+    "ssn": "309-49-6479",
+    "dob": "24/01/1959",
+    "address": "7754 Park St",
+    "city": "San Diego",
+    "state": "CO"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 367345
+
+Bill To:
+Name: Michael Reyes
+Email: michael.reyes2831@outlook.com
+Phone: (719) 952-4430
+SSN: 367-31-4170
+
+Address: 6235 South Ave
+Jacksonville, NC
+
+Date of Birth: 01/18/1999
+
+Amount Due: $4088

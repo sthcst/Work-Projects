@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Lewis
+  email: ronald.lewis5116@gmail.com
+  phone: (511) 871-5205
+  ssn: 685635587
+  dob: 28/11/1965
+  address: 7413 South Blvd
+  city: Los Angeles
+  state: TX

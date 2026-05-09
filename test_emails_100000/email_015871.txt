@@ -1,0 +1,14 @@
+INVOICE 308111
+
+Bill To:
+Name: Rebecca Young
+Email: rebecca.young2281@example.com
+Phone: (341) 211-5041
+SSN: 683-36-2690
+
+Address: 3346 Pine Ave
+Washington, WA
+
+Date of Birth: 4/20/1962
+
+Amount Due: $2455

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Taylor",
+    "email": "kathleen.taylor2575@mail.com",
+    "phone": "370-729-5248",
+    "ssn": "847-76-2554",
+    "dob": "15/05/1960",
+    "address": "6561 Main Rd",
+    "city": "Los Angeles",
+    "state": "NY"
+  }
+}

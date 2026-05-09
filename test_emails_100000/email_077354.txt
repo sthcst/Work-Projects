@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Phillips",
+    "email": "anna.phillips1918@yahoo.com",
+    "phone": "256-618-7264",
+    "ssn": "656-01-3751",
+    "dob": "3/5/1969",
+    "address": "8846 Fourth Blvd",
+    "city": "San Jose",
+    "state": "DC"
+  }
+}

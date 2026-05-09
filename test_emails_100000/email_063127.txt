@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Nunez,pamela.nunez9578@work.org,+1 378-265-8045,352-18-9945,09/13/1989,"436 Sixth Ln",Denver,MI

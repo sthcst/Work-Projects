@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Edwards",
+    "email": "david.edwards6482@business.net",
+    "phone": "+1 457-209-8724",
+    "ssn": "229-24-2942",
+    "dob": "04/24/2000",
+    "address": "4754 Maple St",
+    "city": "Phoenix",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 981453
+
+Bill To:
+Name: Cynthia Carter
+Email: cynthia.carter1915@example.com
+Phone: (925) 649-4907
+SSN: 274048010
+
+Address: 5723 Third Dr
+Austin, NJ
+
+Date of Birth: 04/22/1975
+
+Amount Due: $5723

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Garcia",
+    "email": "brenda.garcia6871@work.org",
+    "phone": "944 368 1952",
+    "ssn": "538 82 4191",
+    "dob": "08/10/1970",
+    "address": "8178 Fourth Way",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

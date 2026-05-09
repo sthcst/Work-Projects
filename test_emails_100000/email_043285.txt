@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Alvarado",
+    "email": "anthony.alvarado1855@gmail.com",
+    "phone": "537-523-5519",
+    "ssn": "003954783",
+    "dob": "5/9/2002",
+    "address": "639 Summer Rd",
+    "city": "New York",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Martinez",
+    "email": "amanda.martinez925@gmail.com",
+    "phone": "+1 254-295-1788",
+    "ssn": "427 54 2362",
+    "dob": "3/3/2005",
+    "address": "3994 Sixth Blvd",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

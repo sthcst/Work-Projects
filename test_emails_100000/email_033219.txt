@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Anderson
+  email: ashley.anderson4897@outlook.com
+  phone: 965-312-4902
+  ssn: 817-23-2114
+  dob: 10/01/1984
+  address: 1963 Sixth Court
+  city: Washington
+  state: MO

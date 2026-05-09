@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael White,michael.white238@outlook.com,241 727 7058,630 23 4750,06/06/1975,"6198 East Way",Washington,TX

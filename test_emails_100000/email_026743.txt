@@ -1,0 +1,9 @@
+contact:
+  name: George Lopez
+  email: george.lopez9543@mail.com
+  phone: 249-642-1514
+  ssn: 146 41 5270
+  dob: 04-06-2002
+  address: 4450 West Dr
+  city: Phoenix
+  state: NC

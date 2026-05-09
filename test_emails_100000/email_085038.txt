@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Delgado,michelle.delgado4126@company.com,451 760 1055,120703729,02-10-1950,"4828 Cedar Dr",San Diego,TX

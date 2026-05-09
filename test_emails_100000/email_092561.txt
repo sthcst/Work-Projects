@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Carter",
+    "email": "lisa.carter8143@business.net",
+    "phone": "489 826 9945",
+    "ssn": "534677168",
+    "dob": "02/06/1997",
+    "address": "3960 West Ln",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

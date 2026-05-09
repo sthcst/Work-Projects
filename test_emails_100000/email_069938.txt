@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ronald Clark,ronald.clark3016@mail.com,+1 580-271-6680,874085507,07/08/1969,"8001 South Way",Houston,MA

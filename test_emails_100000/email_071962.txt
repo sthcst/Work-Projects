@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Ramirez
+  email: kevin.ramirez1613@mail.com
+  phone: 863-776-4144
+  ssn: 920 81 2788
+  dob: 06-24-1954
+  address: 2615 Fifth Court
+  city: Austin
+  state: PA

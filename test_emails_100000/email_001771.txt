@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Taylor
+  email: amanda.taylor8238@outlook.com
+  phone: +1 564-718-6712
+  ssn: 984-78-8697
+  dob: 03/10/1983
+  address: 38 North Blvd
+  city: Washington
+  state: NC

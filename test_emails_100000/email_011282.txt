@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Thompson,steven.thompson2588@mail.com,440 568 1801,982 74 6500,01-07-2000,"1016 Second Ave",Phoenix,CO

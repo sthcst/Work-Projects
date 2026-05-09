@@ -1,0 +1,9 @@
+contact:
+  name: David Carter
+  email: david.carter1270@work.org
+  phone: (393) 975-8532
+  ssn: 074027328
+  dob: 21/08/2002
+  address: 7024 Spring Ln
+  city: Chicago
+  state: TX

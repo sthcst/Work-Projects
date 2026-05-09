@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Johnson",
+    "email": "samantha.johnson9455@example.com",
+    "phone": "438-440-3469",
+    "ssn": "810346331",
+    "dob": "09/20/1999",
+    "address": "9924 Second Ln",
+    "city": "Boston",
+    "state": "DC"
+  }
+}

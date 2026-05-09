@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Serrano,james.serrano1645@company.com,+1 991-896-1635,745853895,02/11/1977,"8118 North Dr",Denver,TX

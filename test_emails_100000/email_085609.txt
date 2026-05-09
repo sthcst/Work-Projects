@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Clark
+  email: rebecca.clark6546@mail.com
+  phone: (396) 375-9463
+  ssn: 521 52 5849
+  dob: 6/16/2005
+  address: 9664 Maple Ln
+  city: Phoenix
+  state: PA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Ramirez",
+    "email": "steven.ramirez3407@example.com",
+    "phone": "222 800 8074",
+    "ssn": "658624893",
+    "dob": "11/24/1974",
+    "address": "6013 South Rd",
+    "city": "Jacksonville",
+    "state": "NC"
+  }
+}

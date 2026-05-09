@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Evans,charles.evans3068@outlook.com,(856) 447-1636,548 06 4197,5/24/1977,"9215 North Way",Chicago,FL

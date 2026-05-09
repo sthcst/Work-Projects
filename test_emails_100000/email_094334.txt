@@ -1,0 +1,14 @@
+INVOICE 741014
+
+Bill To:
+Name: Gary Sanchez
+Email: gary.sanchez7485@gmail.com
+Phone: 204-581-7454
+SSN: 860-64-8481
+
+Address: 4786 Fourth St
+Seattle, WA
+
+Date of Birth: 10/12/1952
+
+Amount Due: $8983

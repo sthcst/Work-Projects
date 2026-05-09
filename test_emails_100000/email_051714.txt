@@ -1,0 +1,14 @@
+INVOICE 216583
+
+Bill To:
+Name: David Carter
+Email: david.carter9825@company.com
+Phone: 881-263-9070
+SSN: 567 75 3029
+
+Address: 1371 Second St
+Austin, MO
+
+Date of Birth: 07/02/1998
+
+Amount Due: $4707

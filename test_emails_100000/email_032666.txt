@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Hall,megan.hall3376@gmail.com,585 360 4700,638 98 5347,5/27/1998,"9577 Oak Blvd",Houston,VA

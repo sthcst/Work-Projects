@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Ramirez
+  email: cynthia.ramirez3699@outlook.com
+  phone: +1 825-421-4590
+  ssn: 075 47 2124
+  dob: 11-02-1976
+  address: 9366 Third Dr
+  city: Chicago
+  state: CO

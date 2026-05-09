@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Lee
+  email: christopher.lee8839@outlook.com
+  phone: 643 710 5847
+  ssn: 947672232
+  dob: 05/09/2000
+  address: 3911 Fifth Ln
+  city: Washington
+  state: CO

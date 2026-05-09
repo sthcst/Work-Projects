@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Alvarado,joshua.alvarado7247@outlook.com,(933) 800-9038,688037502,6/22/1977,"9794 Elm Ave",Seattle,TX

@@ -1,0 +1,9 @@
+contact:
+  name: Richard Lewis
+  email: richard.lewis201@company.com
+  phone: 923 524 5462
+  ssn: 521 32 6160
+  dob: 08/19/1971
+  address: 2925 Maple Way
+  city: Houston
+  state: GA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Thompson",
+    "email": "nicole.thompson7559@work.org",
+    "phone": "(725) 646-2816",
+    "ssn": "944-08-1761",
+    "dob": "5/1/2000",
+    "address": "1159 Birch Ln",
+    "city": "Washington",
+    "state": "PA"
+  }
+}

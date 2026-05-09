@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Martinez",
+    "email": "shirley.martinez9463@gmail.com",
+    "phone": "(248) 441-6127",
+    "ssn": "073387309",
+    "dob": "27/05/1968",
+    "address": "577 Fourth Blvd",
+    "city": "Austin",
+    "state": "MD"
+  }
+}

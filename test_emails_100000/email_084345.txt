@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Wilson,steven.wilson5957@example.com,313 892 8828,707-66-5763,08/12/1999,"8987 Elm Blvd",Boston,MI

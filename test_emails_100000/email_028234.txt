@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Parker",
+    "email": "cynthia.parker1396@work.org",
+    "phone": "+1 432-887-4084",
+    "ssn": "360 44 2462",
+    "dob": "11/08/1982",
+    "address": "9069 Maple Ln",
+    "city": "San Antonio",
+    "state": "CA"
+  }
+}

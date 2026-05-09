@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Wilson",
+    "email": "john.wilson9997@company.com",
+    "phone": "862 363 7702",
+    "ssn": "419364233",
+    "dob": "26/11/1992",
+    "address": "6888 Third St",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Reeves",
+    "email": "jeffrey.reeves5706@example.com",
+    "phone": "554 366 2189",
+    "ssn": "689-69-3031",
+    "dob": "10/10/1968",
+    "address": "7610 Cedar Ln",
+    "city": "New York",
+    "state": "PA"
+  }
+}

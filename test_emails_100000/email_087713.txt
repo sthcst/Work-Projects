@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Guerrero,sarah.guerrero5584@company.com,624-514-4803,474865119,05/02/1982,"1499 Second Dr",Jacksonville,AZ

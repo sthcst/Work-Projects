@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Gonzalez,helen.gonzalez5629@outlook.com,715 925 1832,417 80 3863,11/01/1975,"7180 Pine Rd",Phoenix,MO

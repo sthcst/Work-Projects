@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Reeves",
+    "email": "andrew.reeves9095@work.org",
+    "phone": "+1 318-284-5359",
+    "ssn": "460 88 1909",
+    "dob": "23/05/2002",
+    "address": "197 Third Court",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

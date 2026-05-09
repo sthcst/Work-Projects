@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Delgado",
+    "email": "jason.delgado1094@outlook.com",
+    "phone": "+1 979-361-8805",
+    "ssn": "748653297",
+    "dob": "8/13/1956",
+    "address": "1904 Oak Way",
+    "city": "San Antonio",
+    "state": "WI"
+  }
+}

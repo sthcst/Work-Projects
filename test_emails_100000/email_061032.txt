@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Lopez,joshua.lopez9510@business.net,(667) 569-2378,506-98-4149,01/08/1982,"7650 Maple Way",Washington,FL

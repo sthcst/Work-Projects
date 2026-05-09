@@ -1,0 +1,9 @@
+contact:
+  name: Emily Rogers
+  email: emily.rogers6195@outlook.com
+  phone: (482) 845-7464
+  ssn: 901-14-7632
+  dob: 05/21/1989
+  address: 8504 Fifth Court
+  city: Philadelphia
+  state: CO

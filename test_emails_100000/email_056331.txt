@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Smith",
+    "email": "kathleen.smith1270@mail.com",
+    "phone": "(810) 878-9297",
+    "ssn": "396-45-2920",
+    "dob": "03/08/1963",
+    "address": "2729 East Blvd",
+    "city": "Philadelphia",
+    "state": "OH"
+  }
+}

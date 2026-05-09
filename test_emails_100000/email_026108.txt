@@ -1,0 +1,14 @@
+INVOICE 117812
+
+Bill To:
+Name: Samantha Cooper
+Email: samantha.cooper681@mail.com
+Phone: 484 742 6822
+SSN: 465 27 7487
+
+Address: 5323 Summer Ln
+Seattle, NC
+
+Date of Birth: 03/02/1987
+
+Amount Due: $8780

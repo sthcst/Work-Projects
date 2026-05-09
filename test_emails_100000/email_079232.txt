@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Clark",
+    "email": "richard.clark219@example.com",
+    "phone": "897 578 2187",
+    "ssn": "410-23-9501",
+    "dob": "11/07/1956",
+    "address": "8428 Park Court",
+    "city": "San Jose",
+    "state": "IL"
+  }
+}

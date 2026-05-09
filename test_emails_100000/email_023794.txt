@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Perez",
+    "email": "megan.perez9997@mail.com",
+    "phone": "(823) 355-5572",
+    "ssn": "707-50-7557",
+    "dob": "15/02/1994",
+    "address": "3467 West Court",
+    "city": "Chicago",
+    "state": "MI"
+  }
+}

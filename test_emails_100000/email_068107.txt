@@ -1,0 +1,14 @@
+INVOICE 674796
+
+Bill To:
+Name: William Hall
+Email: william.hall189@company.com
+Phone: +1 306-983-8268
+SSN: 572-86-4643
+
+Address: 3134 Sixth St
+Denver, CA
+
+Date of Birth: 02-09-1967
+
+Amount Due: $8796

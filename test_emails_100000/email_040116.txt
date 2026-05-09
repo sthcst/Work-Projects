@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Collins,edward.collins4569@yahoo.com,+1 972-490-9936,098 01 5661,22/02/1998,"7794 Park Rd",Austin,MA

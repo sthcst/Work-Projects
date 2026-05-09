@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Williams",
+    "email": "paul.williams7195@mail.com",
+    "phone": "+1 322-569-2036",
+    "ssn": "163459886",
+    "dob": "01-02-2003",
+    "address": "3404 Elm Blvd",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

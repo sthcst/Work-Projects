@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Reyes
+  email: joshua.reyes2579@work.org
+  phone: 486-637-1438
+  ssn: 676-58-5223
+  dob: 11-08-1988
+  address: 90 Oak Dr
+  city: San Diego
+  state: FL

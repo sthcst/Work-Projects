@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Hall,amanda.hall3528@mail.com,+1 735-780-9035,120-75-8511,12/17/1965,"264 West Way",Jacksonville,AZ

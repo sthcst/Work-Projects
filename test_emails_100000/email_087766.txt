@@ -1,0 +1,9 @@
+contact:
+  name: Gary Evans
+  email: gary.evans1212@example.com
+  phone: (408) 656-2986
+  ssn: 675981761
+  dob: 03/27/2004
+  address: 4153 Third St
+  city: Chicago
+  state: MO

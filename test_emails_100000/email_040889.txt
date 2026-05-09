@@ -1,0 +1,9 @@
+contact:
+  name: John Dominguez
+  email: john.dominguez9780@example.com
+  phone: +1 804-431-5359
+  ssn: 024775679
+  dob: 09/24/1995
+  address: 8601 Third Blvd
+  city: Boston
+  state: DC

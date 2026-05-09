@@ -1,0 +1,14 @@
+INVOICE 321713
+
+Bill To:
+Name: Donald Alvarado
+Email: donald.alvarado5470@business.net
+Phone: 655-455-2082
+SSN: 667 77 2301
+
+Address: 9075 Birch Way
+Jacksonville, MA
+
+Date of Birth: 2/13/1969
+
+Amount Due: $317

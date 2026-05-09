@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Lopez",
+    "email": "michael.lopez9682@outlook.com",
+    "phone": "(382) 477-5466",
+    "ssn": "165 38 1486",
+    "dob": "12-11-1952",
+    "address": "7057 Pine Way",
+    "city": "Washington",
+    "state": "WI"
+  }
+}

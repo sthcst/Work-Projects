@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Martin",
+    "email": "angela.martin2267@mail.com",
+    "phone": "(693) 766-2542",
+    "ssn": "051 56 6322",
+    "dob": "07-08-2002",
+    "address": "8901 Second Ave",
+    "city": "Washington",
+    "state": "NY"
+  }
+}

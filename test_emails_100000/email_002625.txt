@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Martin",
+    "email": "christopher.martin6214@business.net",
+    "phone": "+1 655-431-5569",
+    "ssn": "635419553",
+    "dob": "07-02-1955",
+    "address": "596 Oak Blvd",
+    "city": "Austin",
+    "state": "AZ"
+  }
+}

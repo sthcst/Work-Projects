@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Rodriguez
+  email: ryan.rodriguez6597@outlook.com
+  phone: +1 775-338-9807
+  ssn: 151-29-3719
+  dob: 10/9/1986
+  address: 6404 Park Ln
+  city: Austin
+  state: CO

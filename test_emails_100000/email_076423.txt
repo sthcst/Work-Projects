@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Evans",
+    "email": "donald.evans7662@gmail.com",
+    "phone": "678-996-1017",
+    "ssn": "497-31-1227",
+    "dob": "12-23-1965",
+    "address": "9338 Oak Ln",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

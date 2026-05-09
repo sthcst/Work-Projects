@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rebecca Gomez,rebecca.gomez3057@outlook.com,443 921 3890,987299593,28/11/1953,"3973 Cedar Ln",Boston,MI

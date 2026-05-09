@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Rogers",
+    "email": "lisa.rogers8750@example.com",
+    "phone": "(698) 591-4327",
+    "ssn": "074 20 8610",
+    "dob": "02/25/1960",
+    "address": "9788 Spring Court",
+    "city": "San Diego",
+    "state": "OH"
+  }
+}

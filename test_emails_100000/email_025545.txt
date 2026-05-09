@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Hernandez,katherine.hernandez8819@work.org,(935) 469-8160,482145644,7/14/1952,"103 South Blvd",San Jose,NY

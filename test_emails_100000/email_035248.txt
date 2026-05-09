@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Cooper,james.cooper2600@mail.com,+1 653-655-7431,354-15-1975,09/01/1990,"617 Summer Dr",Boston,WA

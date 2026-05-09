@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Dominguez,emily.dominguez1269@business.net,(881) 793-4904,066066734,12-11-1991,"6271 North Rd",New York,CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Young",
+    "email": "katherine.young6994@outlook.com",
+    "phone": "+1 492-290-7765",
+    "ssn": "524 97 7350",
+    "dob": "06/23/1956",
+    "address": "493 West Rd",
+    "city": "Austin",
+    "state": "WI"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Michael Gomez
+  email: michael.gomez4186@outlook.com
+  phone: 284 815 7747
+  ssn: 572 85 2552
+  dob: 27/06/1971
+  address: 4380 North St
+  city: Los Angeles
+  state: CA

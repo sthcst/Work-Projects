@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Alvarado",
+    "email": "anna.alvarado1555@company.com",
+    "phone": "(701) 239-4251",
+    "ssn": "495-06-4543",
+    "dob": "02/24/1983",
+    "address": "9809 Fifth Ln",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

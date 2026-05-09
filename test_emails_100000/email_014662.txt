@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Thompson
+  email: ronald.thompson4795@business.net
+  phone: +1 681-397-3459
+  ssn: 519719622
+  dob: 01/01/1964
+  address: 6838 Summer Blvd
+  city: Seattle
+  state: WA

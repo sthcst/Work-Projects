@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Ortiz",
+    "email": "emily.ortiz2760@business.net",
+    "phone": "709 974 2841",
+    "ssn": "961836345",
+    "dob": "7/9/1957",
+    "address": "2063 East Rd",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

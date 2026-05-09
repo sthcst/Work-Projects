@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Phillips,helen.phillips8791@outlook.com,261-238-3335,418 24 7513,08/27/1999,"6122 South Way",San Jose,MI

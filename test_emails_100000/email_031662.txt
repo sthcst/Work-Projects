@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Delgado",
+    "email": "gary.delgado1254@work.org",
+    "phone": "393-634-6462",
+    "ssn": "706-35-3281",
+    "dob": "02/06/1956",
+    "address": "1567 South Ave",
+    "city": "Austin",
+    "state": "PA"
+  }
+}

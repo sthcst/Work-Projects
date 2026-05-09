@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Smith",
+    "email": "maria.smith7526@work.org",
+    "phone": "(873) 907-6316",
+    "ssn": "045 40 2436",
+    "dob": "24/09/1956",
+    "address": "3902 Pine Way",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

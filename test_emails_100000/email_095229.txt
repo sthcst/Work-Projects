@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kathleen Harris,kathleen.harris4942@business.net,(753) 803-5226,021 23 6939,03-17-1965,"2310 East St",Seattle,IL

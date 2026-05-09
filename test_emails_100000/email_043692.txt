@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Jones",
+    "email": "george.jones7131@yahoo.com",
+    "phone": "(956) 717-5740",
+    "ssn": "906-84-9542",
+    "dob": "5/19/1977",
+    "address": "6482 Pine Dr",
+    "city": "Houston",
+    "state": "OH"
+  }
+}

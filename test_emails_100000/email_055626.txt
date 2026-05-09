@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Paul Jimenez,paul.jimenez3622@outlook.com,565 466 2174,372928244,04-24-1967,"6852 Fifth St",Houston,TX

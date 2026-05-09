@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Martin,steven.martin8634@yahoo.com,+1 264-901-4100,762 38 3261,09/08/1991,"7039 West Ave",Dallas,MA

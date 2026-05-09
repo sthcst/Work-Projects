@@ -1,0 +1,14 @@
+INVOICE 538314
+
+Bill To:
+Name: Rachel Harris
+Email: rachel.harris3271@company.com
+Phone: 586 583 2961
+SSN: 387994060
+
+Address: 2120 North Ave
+Chicago, AZ
+
+Date of Birth: 09/03/1998
+
+Amount Due: $2515

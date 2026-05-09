@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Thompson,william.thompson4511@business.net,991 916 7062,044 07 9755,8/21/1992,"218 Summer Ave",Philadelphia,CA

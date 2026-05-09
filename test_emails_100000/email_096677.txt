@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Hall,angela.hall6176@outlook.com,626-862-9180,536347796,18/02/1968,"5032 Fourth Way",Denver,MA

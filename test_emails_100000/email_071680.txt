@@ -1,0 +1,9 @@
+contact:
+  name: Mark Gonzalez
+  email: mark.gonzalez7288@business.net
+  phone: 392 791 1993
+  ssn: 509 10 1584
+  dob: 11/04/1981
+  address: 4464 Fourth Way
+  city: Los Angeles
+  state: GA

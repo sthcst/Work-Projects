@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Edwards,lauren.edwards3270@mail.com,(984) 927-9663,339 89 5055,02/01/1967,"1054 First Ave",Seattle,MA

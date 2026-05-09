@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Flores,robert.flores464@work.org,779-243-3440,773-34-8468,4/3/1971,"654 Summer St",Phoenix,WA

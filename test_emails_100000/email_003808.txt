@@ -1,0 +1,14 @@
+INVOICE 585372
+
+Bill To:
+Name: Edward Davis
+Email: edward.davis8527@mail.com
+Phone: 356 482 1701
+SSN: 123-19-9273
+
+Address: 4806 Maple Ave
+Phoenix, FL
+
+Date of Birth: 08-07-1955
+
+Amount Due: $962

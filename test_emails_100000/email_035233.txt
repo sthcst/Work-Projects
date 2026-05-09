@@ -1,0 +1,9 @@
+contact:
+  name: William Davis
+  email: william.davis4287@business.net
+  phone: +1 536-731-9154
+  ssn: 744 21 4334
+  dob: 4/9/1992
+  address: 1042 East Dr
+  city: Boston
+  state: AZ

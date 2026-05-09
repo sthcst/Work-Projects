@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Brown,donald.brown7355@yahoo.com,+1 423-488-1782,905 78 5950,02/24/1958,"1371 Birch St",Dallas,WI

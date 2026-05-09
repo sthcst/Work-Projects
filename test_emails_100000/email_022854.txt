@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Miller
+  email: rachel.miller4086@business.net
+  phone: +1 986-573-6306
+  ssn: 785585879
+  dob: 24/02/1954
+  address: 6546 Summer Way
+  city: Houston
+  state: PA

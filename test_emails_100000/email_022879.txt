@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Reyes",
+    "email": "angela.reyes6000@mail.com",
+    "phone": "321 479 1489",
+    "ssn": "807 86 5600",
+    "dob": "02-19-1990",
+    "address": "7609 Spring Ave",
+    "city": "Dallas",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Guerrero",
+    "email": "charles.guerrero6745@work.org",
+    "phone": "322-832-2616",
+    "ssn": "693564235",
+    "dob": "2/28/1982",
+    "address": "414 Pine St",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

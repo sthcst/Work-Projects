@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Sanchez",
+    "email": "donald.sanchez2542@yahoo.com",
+    "phone": "628 584 5098",
+    "ssn": "797 86 7753",
+    "dob": "09/07/1979",
+    "address": "6357 East Court",
+    "city": "San Jose",
+    "state": "TX"
+  }
+}

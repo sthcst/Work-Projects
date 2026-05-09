@@ -1,0 +1,14 @@
+INVOICE 862042
+
+Bill To:
+Name: Richard Johnson
+Email: richard.johnson7738@yahoo.com
+Phone: 683-612-9402
+SSN: 356-44-9266
+
+Address: 9032 Maple Ln
+Philadelphia, VA
+
+Date of Birth: 03/26/1985
+
+Amount Due: $5073

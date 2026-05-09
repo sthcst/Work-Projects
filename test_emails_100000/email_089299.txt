@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Smith,angela.smith9186@gmail.com,+1 722-393-9610,650 46 2164,7/25/1960,"4899 Maple Court",Washington,DC

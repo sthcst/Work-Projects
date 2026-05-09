@@ -1,0 +1,9 @@
+contact:
+  name: Anna Ramirez
+  email: anna.ramirez4585@company.com
+  phone: +1 427-704-5841
+  ssn: 037 94 2438
+  dob: 3/5/1988
+  address: 8387 First Ave
+  city: Los Angeles
+  state: MA

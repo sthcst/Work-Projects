@@ -1,0 +1,14 @@
+INVOICE 976695
+
+Bill To:
+Name: Jane Sanchez
+Email: jane.sanchez6660@company.com
+Phone: +1 732-752-5011
+SSN: 517821923
+
+Address: 8981 Sixth Rd
+San Antonio, FL
+
+Date of Birth: 2/2/1994
+
+Amount Due: $6277

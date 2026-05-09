@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Moore",
+    "email": "amanda.moore9801@company.com",
+    "phone": "(857) 895-9064",
+    "ssn": "661-41-8982",
+    "dob": "26/08/1999",
+    "address": "6020 South Ln",
+    "city": "Dallas",
+    "state": "WA"
+  }
+}

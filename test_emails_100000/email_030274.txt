@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Morris",
+    "email": "joshua.morris5301@yahoo.com",
+    "phone": "(702) 839-1000",
+    "ssn": "469108240",
+    "dob": "5/14/1994",
+    "address": "2698 Spring Way",
+    "city": "Houston",
+    "state": "CO"
+  }
+}

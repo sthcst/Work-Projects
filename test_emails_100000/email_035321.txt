@@ -1,0 +1,14 @@
+INVOICE 897174
+
+Bill To:
+Name: Kevin Gonzalez
+Email: kevin.gonzalez280@outlook.com
+Phone: (303) 909-5526
+SSN: 116-74-2144
+
+Address: 301 Maple Ln
+Los Angeles, CA
+
+Date of Birth: 28/01/1991
+
+Amount Due: $9691

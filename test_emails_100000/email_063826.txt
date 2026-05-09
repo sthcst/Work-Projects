@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Gonzalez,charles.gonzalez3417@gmail.com,352 495 7043,137 35 4072,7/4/1961,"1553 South Blvd",Austin,CO

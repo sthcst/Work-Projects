@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Brown
+  email: ashley.brown8302@company.com
+  phone: 219 918 4469
+  ssn: 173-03-9110
+  dob: 3/15/1972
+  address: 1347 West Court
+  city: Jacksonville
+  state: CA

@@ -1,0 +1,9 @@
+contact:
+  name: Helen White
+  email: helen.white3916@yahoo.com
+  phone: 591 561 1901
+  ssn: 169747261
+  dob: 06/03/2001
+  address: 6494 Birch Blvd
+  city: Seattle
+  state: TN

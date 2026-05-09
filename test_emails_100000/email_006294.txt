@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Hall
+  email: joshua.hall7481@mail.com
+  phone: 883 784 6789
+  ssn: 936-19-1251
+  dob: 09/11/1986
+  address: 2502 Oak Ln
+  city: Jacksonville
+  state: TX

@@ -1,0 +1,9 @@
+contact:
+  name: Brian Phillips
+  email: brian.phillips4801@mail.com
+  phone: +1 707-790-6889
+  ssn: 904 06 3578
+  dob: 04/03/1976
+  address: 70 Park Rd
+  city: Houston
+  state: NJ

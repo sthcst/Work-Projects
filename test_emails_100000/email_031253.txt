@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Phillips",
+    "email": "cynthia.phillips3736@mail.com",
+    "phone": "(531) 445-5803",
+    "ssn": "596-68-7581",
+    "dob": "04/02/1957",
+    "address": "5486 Pine Ave",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

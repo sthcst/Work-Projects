@@ -1,0 +1,14 @@
+INVOICE 905958
+
+Bill To:
+Name: Anthony Morgan
+Email: anthony.morgan4428@mail.com
+Phone: +1 453-507-4820
+SSN: 714 63 8306
+
+Address: 2390 Fourth Blvd
+Boston, MA
+
+Date of Birth: 25/04/1972
+
+Amount Due: $1259

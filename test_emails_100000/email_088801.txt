@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Jimenez,amanda.jimenez7443@gmail.com,856 826 2678,917 72 1991,12/25/1956,"9593 Fourth Ln",San Diego,MA

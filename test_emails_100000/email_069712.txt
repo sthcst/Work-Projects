@@ -1,0 +1,9 @@
+contact:
+  name: William Hall
+  email: william.hall2966@business.net
+  phone: 417-533-7322
+  ssn: 424-74-5612
+  dob: 05/26/1998
+  address: 141 Fourth Ln
+  city: Dallas
+  state: AZ

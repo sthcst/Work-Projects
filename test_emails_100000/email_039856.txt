@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Thompson
+  email: samantha.thompson5283@yahoo.com
+  phone: 934-881-9078
+  ssn: 914 01 5957
+  dob: 07/06/1951
+  address: 1691 Maple Court
+  city: Dallas
+  state: WA

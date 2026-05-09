@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Phillips",
+    "email": "helen.phillips2571@yahoo.com",
+    "phone": "(369) 538-2747",
+    "ssn": "090869221",
+    "dob": "11/6/1975",
+    "address": "6581 North St",
+    "city": "Phoenix",
+    "state": "OH"
+  }
+}

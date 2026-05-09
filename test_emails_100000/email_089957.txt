@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Ramirez",
+    "email": "lisa.ramirez3243@business.net",
+    "phone": "(443) 955-8834",
+    "ssn": "944-42-4681",
+    "dob": "03-18-1953",
+    "address": "6170 Fourth Ave",
+    "city": "Chicago",
+    "state": "WA"
+  }
+}

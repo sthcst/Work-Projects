@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Roberts",
+    "email": "david.roberts6056@outlook.com",
+    "phone": "816 770 7917",
+    "ssn": "411148425",
+    "dob": "06/27/1956",
+    "address": "2312 Pine Ln",
+    "city": "Washington",
+    "state": "NC"
+  }
+}

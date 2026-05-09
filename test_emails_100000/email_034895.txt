@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Rogers,lauren.rogers8790@work.org,954-271-8385,857321803,12/20/1993,"3213 Park Ln",Chicago,FL

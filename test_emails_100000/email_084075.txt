@@ -1,0 +1,9 @@
+contact:
+  name: David Clark
+  email: david.clark1710@yahoo.com
+  phone: +1 721-905-1786
+  ssn: 213 83 5737
+  dob: 06-05-1956
+  address: 7912 Third Blvd
+  city: Washington
+  state: WI

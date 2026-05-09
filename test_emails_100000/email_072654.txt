@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Alvarado,kenneth.alvarado4170@mail.com,773 409 7004,573-80-2948,5/21/1966,"6680 West Way",Seattle,MO

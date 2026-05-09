@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Serrano,megan.serrano483@example.com,(690) 425-8989,573 45 4920,11-10-1998,"4641 Birch St",San Jose,AZ

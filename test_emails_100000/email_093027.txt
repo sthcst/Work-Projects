@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Collins",
+    "email": "anna.collins7489@business.net",
+    "phone": "869 976 7434",
+    "ssn": "191 28 3537",
+    "dob": "8/8/2002",
+    "address": "9146 South Ave",
+    "city": "Austin",
+    "state": "WI"
+  }
+}

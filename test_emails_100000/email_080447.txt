@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Peterson
+  email: shirley.peterson9023@mail.com
+  phone: +1 835-881-8069
+  ssn: 988 79 8709
+  dob: 08/06/1991
+  address: 3823 Fifth Way
+  city: Denver
+  state: WA

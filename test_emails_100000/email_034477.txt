@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Morgan
+  email: deborah.morgan8266@outlook.com
+  phone: (619) 676-7059
+  ssn: 719162632
+  dob: 05/05/1951
+  address: 8459 Birch Dr
+  city: Houston
+  state: WA

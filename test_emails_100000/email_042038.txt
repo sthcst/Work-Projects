@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Hall,emma.hall7127@outlook.com,622 246 2162,816-58-3160,12/03/2000,"8341 South Way",Seattle,WA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Davis,stephanie.davis4855@work.org,286 799 1972,041 18 5440,10/01/1970,"5695 Spring Blvd",Washington,IL

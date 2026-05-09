@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Reed",
+    "email": "charles.reed4836@outlook.com",
+    "phone": "(638) 399-4329",
+    "ssn": "818 14 3124",
+    "dob": "05/07/1958",
+    "address": "8021 North Dr",
+    "city": "Houston",
+    "state": "CO"
+  }
+}

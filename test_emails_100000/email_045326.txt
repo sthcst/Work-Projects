@@ -1,0 +1,14 @@
+INVOICE 196438
+
+Bill To:
+Name: Nicholas Walker
+Email: nicholas.walker4974@example.com
+Phone: 659 853 5085
+SSN: 991336793
+
+Address: 5020 South Dr
+Denver, AZ
+
+Date of Birth: 09-09-1958
+
+Amount Due: $4621

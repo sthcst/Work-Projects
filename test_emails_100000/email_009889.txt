@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Dominguez
+  email: ryan.dominguez6288@example.com
+  phone: +1 302-272-8472
+  ssn: 497-11-8387
+  dob: 01/21/1960
+  address: 1095 Cedar Rd
+  city: Houston
+  state: IL

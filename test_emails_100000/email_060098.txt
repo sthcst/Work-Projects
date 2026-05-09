@@ -1,0 +1,14 @@
+INVOICE 124644
+
+Bill To:
+Name: Ryan Campbell
+Email: ryan.campbell5943@company.com
+Phone: 695-461-5047
+SSN: 144977229
+
+Address: 1847 First Rd
+Los Angeles, GA
+
+Date of Birth: 09-12-2001
+
+Amount Due: $8338

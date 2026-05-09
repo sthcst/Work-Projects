@@ -1,0 +1,9 @@
+contact:
+  name: Anna Sanchez
+  email: anna.sanchez1626@outlook.com
+  phone: (520) 928-4801
+  ssn: 448163678
+  dob: 01/12/1998
+  address: 3559 Birch Rd
+  city: New York
+  state: CO

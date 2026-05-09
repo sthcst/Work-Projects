@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Dominguez
+  email: sarah.dominguez4044@business.net
+  phone: 730-506-7109
+  ssn: 286558652
+  dob: 5/1/1970
+  address: 3028 Fourth Dr
+  city: Philadelphia
+  state: CA

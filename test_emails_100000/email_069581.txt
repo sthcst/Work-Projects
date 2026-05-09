@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Miller,emily.miller2750@yahoo.com,+1 567-671-4490,885 95 5566,07-26-1997,"7144 Summer Rd",New York,CO

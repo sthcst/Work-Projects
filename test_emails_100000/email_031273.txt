@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Hernandez
+  email: shirley.hernandez8258@business.net
+  phone: 406-283-6352
+  ssn: 734-22-1433
+  dob: 22/04/1982
+  address: 9434 Elm Dr
+  city: San Jose
+  state: MA

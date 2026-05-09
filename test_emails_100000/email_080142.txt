@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Peterson,michael.peterson4988@business.net,(272) 292-4462,854 29 1670,03/18/1960,"8090 Maple Dr",Los Angeles,MA

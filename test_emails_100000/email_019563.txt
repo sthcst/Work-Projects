@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Jimenez",
+    "email": "megan.jimenez3442@yahoo.com",
+    "phone": "(551) 860-2104",
+    "ssn": "239-07-3511",
+    "dob": "01/20/1958",
+    "address": "6259 Spring Court",
+    "city": "Dallas",
+    "state": "WA"
+  }
+}

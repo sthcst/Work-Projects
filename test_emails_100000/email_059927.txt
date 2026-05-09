@@ -1,0 +1,9 @@
+contact:
+  name: Anna Morris
+  email: anna.morris6428@yahoo.com
+  phone: (978) 976-6305
+  ssn: 998 63 3595
+  dob: 04-07-1956
+  address: 7698 Elm Dr
+  city: Chicago
+  state: WI

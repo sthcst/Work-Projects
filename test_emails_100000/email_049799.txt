@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Robinson",
+    "email": "jane.robinson947@outlook.com",
+    "phone": "+1 878-377-9720",
+    "ssn": "417 16 9198",
+    "dob": "12/12/1983",
+    "address": "9516 Spring Blvd",
+    "city": "San Jose",
+    "state": "MA"
+  }
+}

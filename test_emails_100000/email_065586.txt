@@ -1,0 +1,14 @@
+INVOICE 767007
+
+Bill To:
+Name: Amanda Peterson
+Email: amanda.peterson9054@company.com
+Phone: +1 339-574-8819
+SSN: 739 41 3233
+
+Address: 8534 First Rd
+San Antonio, WI
+
+Date of Birth: 02-03-1969
+
+Amount Due: $5807

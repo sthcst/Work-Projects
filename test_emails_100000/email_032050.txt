@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Thomas",
+    "email": "andrew.thomas8924@mail.com",
+    "phone": "425-689-4946",
+    "ssn": "106 60 5836",
+    "dob": "10-16-1993",
+    "address": "4415 Maple Ave",
+    "city": "Jacksonville",
+    "state": "IL"
+  }
+}

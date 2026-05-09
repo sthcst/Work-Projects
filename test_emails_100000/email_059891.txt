@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Lee",
+    "email": "ashley.lee8052@outlook.com",
+    "phone": "952 560 3839",
+    "ssn": "893 58 3419",
+    "dob": "12/1/1984",
+    "address": "5622 Maple Ln",
+    "city": "Houston",
+    "state": "CA"
+  }
+}

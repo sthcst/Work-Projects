@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Smith,joseph.smith2449@business.net,773 556 1251,032807319,8/20/1965,"4240 Sixth Dr",San Diego,MA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Gomez,robert.gomez4389@gmail.com,(306) 741-3373,428-69-4966,20/02/1998,"9404 Cedar Way",Seattle,CO

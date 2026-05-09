@@ -1,0 +1,9 @@
+contact:
+  name: Donald Wilson
+  email: donald.wilson7471@mail.com
+  phone: 941-433-3001
+  ssn: 128 99 9357
+  dob: 24/08/1986
+  address: 1273 Park St
+  city: San Jose
+  state: MI

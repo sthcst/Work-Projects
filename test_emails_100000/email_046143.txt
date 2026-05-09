@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Nunez,john.nunez1285@outlook.com,+1 547-475-6375,749 70 5129,03/26/2002,"5645 North Way",New York,TX

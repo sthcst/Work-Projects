@@ -1,0 +1,9 @@
+contact:
+  name: William Garcia
+  email: william.garcia9854@mail.com
+  phone: 500 237 8120
+  ssn: 280149377
+  dob: 19/12/1960
+  address: 8826 Second Ave
+  city: Chicago
+  state: FL

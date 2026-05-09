@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Collins",
+    "email": "kimberly.collins6265@yahoo.com",
+    "phone": "624 623 3522",
+    "ssn": "169162653",
+    "dob": "12/21/1951",
+    "address": "2928 Summer Ave",
+    "city": "Jacksonville",
+    "state": "OH"
+  }
+}

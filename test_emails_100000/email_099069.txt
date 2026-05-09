@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Bell
+  email: shirley.bell6391@business.net
+  phone: (956) 252-1041
+  ssn: 367198760
+  dob: 12/7/1987
+  address: 2075 Park Rd
+  city: Boston
+  state: AZ

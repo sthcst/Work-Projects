@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Lewis,pamela.lewis5038@gmail.com,+1 885-847-6431,699439606,28/12/1965,"2173 Second Way",New York,MA

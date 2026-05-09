@@ -1,0 +1,14 @@
+INVOICE 425900
+
+Bill To:
+Name: Emma Jackson
+Email: emma.jackson1308@yahoo.com
+Phone: 325 301 7651
+SSN: 592-25-3683
+
+Address: 45 First Ln
+Washington, NY
+
+Date of Birth: 07-08-1991
+
+Amount Due: $2460

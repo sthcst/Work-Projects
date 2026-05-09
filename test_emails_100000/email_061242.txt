@@ -1,0 +1,14 @@
+INVOICE 368386
+
+Bill To:
+Name: Rachel Gonzalez
+Email: rachel.gonzalez1677@mail.com
+Phone: +1 216-898-9702
+SSN: 331 51 3489
+
+Address: 4623 Summer Blvd
+Seattle, DC
+
+Date of Birth: 19/08/1970
+
+Amount Due: $4398

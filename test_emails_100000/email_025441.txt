@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Nunez",
+    "email": "samantha.nunez2166@example.com",
+    "phone": "+1 433-407-8045",
+    "ssn": "990-29-4974",
+    "dob": "2/27/2002",
+    "address": "4412 East Blvd",
+    "city": "Seattle",
+    "state": "OH"
+  }
+}

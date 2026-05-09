@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Dominguez",
+    "email": "emily.dominguez3300@example.com",
+    "phone": "+1 888-959-9635",
+    "ssn": "552-20-1965",
+    "dob": "06-20-1999",
+    "address": "2944 Second Court",
+    "city": "New York",
+    "state": "DC"
+  }
+}

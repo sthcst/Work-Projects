@@ -1,0 +1,14 @@
+INVOICE 666909
+
+Bill To:
+Name: Edward Parker
+Email: edward.parker6037@mail.com
+Phone: +1 838-773-4944
+SSN: 370-95-5623
+
+Address: 9749 South Ave
+Philadelphia, FL
+
+Date of Birth: 1/22/1987
+
+Amount Due: $6478

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Rogers",
+    "email": "kenneth.rogers5721@yahoo.com",
+    "phone": "+1 823-795-4299",
+    "ssn": "560 62 9172",
+    "dob": "10/04/1957",
+    "address": "2097 Second Court",
+    "city": "Washington",
+    "state": "AZ"
+  }
+}

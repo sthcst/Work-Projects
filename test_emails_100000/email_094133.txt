@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Serrano
+  email: timothy.serrano9324@example.com
+  phone: (249) 442-3071
+  ssn: 505585315
+  dob: 5/19/1998
+  address: 1105 First Ave
+  city: Dallas
+  state: PA

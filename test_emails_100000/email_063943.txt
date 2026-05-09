@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Romero
+  email: joshua.romero6264@outlook.com
+  phone: 293-258-6152
+  ssn: 330409731
+  dob: 12/20/1985
+  address: 1998 Birch St
+  city: Seattle
+  state: AZ

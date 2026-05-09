@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Taylor
+  email: ryan.taylor660@work.org
+  phone: 552 412 8623
+  ssn: 774 57 7023
+  dob: 18/03/1997
+  address: 9719 Third Rd
+  city: San Jose
+  state: CA

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicole Reed,nicole.reed3558@yahoo.com,491-872-5726,393 64 7319,19/02/1967,"2055 Pine St",Phoenix,MA

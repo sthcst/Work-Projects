@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Martin",
+    "email": "emma.martin4166@example.com",
+    "phone": "+1 736-927-2170",
+    "ssn": "386 01 4943",
+    "dob": "19/06/1995",
+    "address": "9062 Spring St",
+    "city": "Phoenix",
+    "state": "CA"
+  }
+}

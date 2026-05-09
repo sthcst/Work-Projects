@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Cooper
+  email: katherine.cooper7376@outlook.com
+  phone: 515-619-4473
+  ssn: 286 13 8506
+  dob: 04-10-1987
+  address: 7990 Birch Rd
+  city: Dallas
+  state: CO

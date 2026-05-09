@@ -1,0 +1,14 @@
+INVOICE 959987
+
+Bill To:
+Name: Cynthia Williams
+Email: cynthia.williams4467@company.com
+Phone: (530) 558-6429
+SSN: 231 30 8823
+
+Address: 5687 East St
+Philadelphia, CA
+
+Date of Birth: 04/13/1988
+
+Amount Due: $7660

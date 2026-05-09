@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Brown,charles.brown5958@company.com,+1 940-795-8946,402 36 9450,09/10/1951,"5618 Fifth Ln",Washington,WA

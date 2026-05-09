@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Ramirez",
+    "email": "charles.ramirez1778@business.net",
+    "phone": "912 404 2361",
+    "ssn": "136 72 9867",
+    "dob": "06-12-1993",
+    "address": "4180 Spring Dr",
+    "city": "Dallas",
+    "state": "MA"
+  }
+}

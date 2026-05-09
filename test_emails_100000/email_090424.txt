@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Parker,edward.parker489@example.com,+1 481-879-9366,477166094,06/04/1975,"4023 West Ln",Seattle,MI

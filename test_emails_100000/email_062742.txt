@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Perez",
+    "email": "amanda.perez2752@example.com",
+    "phone": "359 313 6900",
+    "ssn": "556 44 8110",
+    "dob": "07-23-1962",
+    "address": "4326 Main Way",
+    "city": "San Antonio",
+    "state": "CA"
+  }
+}

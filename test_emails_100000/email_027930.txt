@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Gomez,emily.gomez5796@business.net,(930) 598-7709,802629129,16/12/1998,"7939 Fourth Blvd",Dallas,MA

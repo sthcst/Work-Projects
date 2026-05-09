@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Phillips",
+    "email": "kathleen.phillips9594@mail.com",
+    "phone": "(338) 248-3434",
+    "ssn": "084-48-4317",
+    "dob": "06/01/1975",
+    "address": "4075 Sixth Court",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

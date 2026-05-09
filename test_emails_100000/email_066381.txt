@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Sanchez,megan.sanchez5855@example.com,501-273-7633,086965812,01/28/1984,"3957 First Court",Denver,MA

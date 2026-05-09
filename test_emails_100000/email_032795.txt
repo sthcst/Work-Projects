@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Cooper",
+    "email": "donald.cooper1335@business.net",
+    "phone": "(820) 351-9417",
+    "ssn": "910 23 3907",
+    "dob": "12/25/2001",
+    "address": "9656 South St",
+    "city": "Washington",
+    "state": "MA"
+  }
+}

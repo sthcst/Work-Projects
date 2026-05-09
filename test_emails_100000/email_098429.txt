@@ -1,0 +1,14 @@
+INVOICE 156656
+
+Bill To:
+Name: Amanda Perez
+Email: amanda.perez4726@example.com
+Phone: 952-451-4640
+SSN: 925-75-8249
+
+Address: 3941 Fifth Ln
+Seattle, NC
+
+Date of Birth: 2/27/1958
+
+Amount Due: $5880

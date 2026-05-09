@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Morgan,andrew.morgan4213@gmail.com,465 631 5507,772-25-3012,05/10/1980,"4494 Elm Court",Chicago,MO

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Alvarado",
+    "email": "jessica.alvarado5989@business.net",
+    "phone": "(718) 716-4616",
+    "ssn": "708-98-4217",
+    "dob": "05/28/1981",
+    "address": "3515 Spring Dr",
+    "city": "Seattle",
+    "state": "AZ"
+  }
+}

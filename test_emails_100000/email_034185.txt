@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Harris",
+    "email": "joseph.harris2686@yahoo.com",
+    "phone": "(204) 343-1750",
+    "ssn": "722545253",
+    "dob": "07/26/2002",
+    "address": "2013 Park Ave",
+    "city": "Boston",
+    "state": "GA"
+  }
+}

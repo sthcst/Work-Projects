@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Robinson,robert.robinson5345@outlook.com,522 885 7262,688292704,02/04/1999,"7456 Main Court",Los Angeles,TX

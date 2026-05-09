@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Ortiz,david.ortiz792@gmail.com,(243) 651-6318,059-38-9894,08/25/1952,"9238 Fourth Rd",San Diego,MI

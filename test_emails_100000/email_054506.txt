@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Gomez
+  email: katherine.gomez9286@gmail.com
+  phone: (203) 273-6854
+  ssn: 882-03-3699
+  dob: 09-13-1989
+  address: 7471 Park Rd
+  city: San Jose
+  state: WI

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Brown",
+    "email": "ronald.brown6853@example.com",
+    "phone": "+1 783-424-3626",
+    "ssn": "184185914",
+    "dob": "07/23/1969",
+    "address": "6206 Park Ave",
+    "city": "Philadelphia",
+    "state": "VA"
+  }
+}

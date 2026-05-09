@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Davis,emily.davis4687@business.net,872-864-6122,614-62-2535,09-19-1957,"5023 Birch Ave",Denver,CA

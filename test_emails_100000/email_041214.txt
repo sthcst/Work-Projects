@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Hall,donald.hall2269@outlook.com,803 201 7407,614893177,07-01-1974,"9290 East Ln",Phoenix,AZ

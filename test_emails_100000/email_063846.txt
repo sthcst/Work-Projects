@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Jimenez,kenneth.jimenez1255@company.com,+1 706-573-9610,341509417,19/03/1982,"1376 Sixth Ln",Dallas,AZ

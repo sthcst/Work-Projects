@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Collins",
+    "email": "stephanie.collins7232@company.com",
+    "phone": "824 983 4878",
+    "ssn": "844 65 8957",
+    "dob": "11/15/1979",
+    "address": "1768 Second Rd",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

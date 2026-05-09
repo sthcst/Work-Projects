@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Young
+  email: daniel.young6732@yahoo.com
+  phone: +1 418-321-2279
+  ssn: 881503501
+  dob: 11-21-1956
+  address: 7027 Pine Blvd
+  city: New York
+  state: NJ

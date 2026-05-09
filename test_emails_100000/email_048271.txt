@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Johnson",
+    "email": "angela.johnson7323@mail.com",
+    "phone": "(707) 976-4426",
+    "ssn": "835223977",
+    "dob": "01/06/2002",
+    "address": "366 Elm Way",
+    "city": "Dallas",
+    "state": "GA"
+  }
+}

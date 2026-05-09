@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Morris,donald.morris8550@outlook.com,+1 946-914-5448,521 19 9807,24/06/1974,"2161 Fifth Way",New York,NY

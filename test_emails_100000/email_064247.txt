@@ -1,0 +1,14 @@
+INVOICE 529923
+
+Bill To:
+Name: Joseph Williams
+Email: joseph.williams111@company.com
+Phone: 208 874 6981
+SSN: 773326157
+
+Address: 7326 Fifth Way
+Dallas, MD
+
+Date of Birth: 06/01/1957
+
+Amount Due: $3402

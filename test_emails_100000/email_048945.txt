@@ -1,0 +1,14 @@
+INVOICE 230833
+
+Bill To:
+Name: Michelle Robinson
+Email: michelle.robinson4387@yahoo.com
+Phone: 999-201-8516
+SSN: 621 82 5202
+
+Address: 8703 Summer St
+Phoenix, PA
+
+Date of Birth: 7/26/1986
+
+Amount Due: $8434

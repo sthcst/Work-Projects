@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Dominguez
+  email: timothy.dominguez8634@company.com
+  phone: 415 632 7937
+  ssn: 232 34 9152
+  dob: 01/21/1957
+  address: 2659 Third Ln
+  city: Austin
+  state: TX

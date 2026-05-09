@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John White,john.white3303@gmail.com,480-820-8811,283052843,1/1/1981,"9641 West Blvd",New York,CO

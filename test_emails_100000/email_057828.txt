@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Walker",
+    "email": "christine.walker857@outlook.com",
+    "phone": "887 666 1466",
+    "ssn": "234-80-4412",
+    "dob": "01/02/1969",
+    "address": "1811 Oak Dr",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

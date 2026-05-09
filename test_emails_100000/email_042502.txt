@@ -1,0 +1,14 @@
+INVOICE 301796
+
+Bill To:
+Name: Sarah Martin
+Email: sarah.martin6585@mail.com
+Phone: 295 883 9126
+SSN: 254-90-5035
+
+Address: 9114 West Ave
+Austin, TX
+
+Date of Birth: 20/03/1985
+
+Amount Due: $7110

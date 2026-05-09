@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Lewis",
+    "email": "john.lewis9096@gmail.com",
+    "phone": "884-710-8144",
+    "ssn": "516-04-1049",
+    "dob": "3/27/1993",
+    "address": "6306 First Ln",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

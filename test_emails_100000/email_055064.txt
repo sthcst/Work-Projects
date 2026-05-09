@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Hernandez,edward.hernandez2484@example.com,816-599-7123,450-53-4227,07/18/1988,"4432 Maple St",Denver,PA

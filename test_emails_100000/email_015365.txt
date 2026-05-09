@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Garcia,ashley.garcia8609@company.com,(997) 756-7911,665 43 7709,6/11/1996,"397 Maple Blvd",Washington,PA

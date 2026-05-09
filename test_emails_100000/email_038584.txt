@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Walker,steven.walker3823@business.net,563 897 1335,370989551,12/4/1982,"5077 Summer St",Dallas,AZ

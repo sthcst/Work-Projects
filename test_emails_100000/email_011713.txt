@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christopher Carter",
+    "email": "christopher.carter3276@business.net",
+    "phone": "(949) 996-2541",
+    "ssn": "923-75-9540",
+    "dob": "8/10/1986",
+    "address": "7554 Elm Ave",
+    "city": "Austin",
+    "state": "AZ"
+  }
+}

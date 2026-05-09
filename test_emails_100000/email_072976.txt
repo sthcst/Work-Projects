@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Timothy Anderson,timothy.anderson942@work.org,+1 847-714-1182,874956905,1/18/1993,"5635 Park Blvd",Seattle,IL

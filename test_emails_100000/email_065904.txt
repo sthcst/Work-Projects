@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Reeves,kenneth.reeves5751@gmail.com,220 396 2680,147 27 5365,11-03-1998,"346 East Way",Denver,OH

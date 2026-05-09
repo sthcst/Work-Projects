@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica White,jessica.white847@example.com,(935) 658-7652,534-98-2455,6/14/1993,"9053 Park Blvd",Houston,OH

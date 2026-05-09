@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Thomas,joseph.thomas8840@outlook.com,614-256-5982,076 09 1760,26/11/1957,"5011 South Way",Chicago,WI

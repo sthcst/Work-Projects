@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Wilson",
+    "email": "katherine.wilson3062@mail.com",
+    "phone": "403 349 9618",
+    "ssn": "201 86 4437",
+    "dob": "01/10/1980",
+    "address": "5129 Third Way",
+    "city": "New York",
+    "state": "FL"
+  }
+}

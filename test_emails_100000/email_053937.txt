@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Lee
+  email: joseph.lee6797@company.com
+  phone: (212) 235-8817
+  ssn: 964 88 8406
+  dob: 08/09/1950
+  address: 6208 Park Ave
+  city: Chicago
+  state: NJ

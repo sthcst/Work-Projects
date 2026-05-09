@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Nunez",
+    "email": "samantha.nunez9818@example.com",
+    "phone": "(627) 280-9683",
+    "ssn": "497-45-6203",
+    "dob": "08/23/1984",
+    "address": "3819 West Court",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

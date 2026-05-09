@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Carter
+  email: kevin.carter2997@work.org
+  phone: (216) 377-8819
+  ssn: 678-90-6847
+  dob: 07-12-1976
+  address: 382 Fifth Way
+  city: Seattle
+  state: WA

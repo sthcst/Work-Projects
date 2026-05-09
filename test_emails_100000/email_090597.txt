@@ -1,0 +1,9 @@
+contact:
+  name: Jane Thompson
+  email: jane.thompson2678@company.com
+  phone: (657) 638-5801
+  ssn: 342-68-7368
+  dob: 10/7/1972
+  address: 7953 Third Rd
+  city: Phoenix
+  state: TX

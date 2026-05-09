@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Morgan",
+    "email": "kenneth.morgan4545@gmail.com",
+    "phone": "+1 451-784-4693",
+    "ssn": "629 47 2810",
+    "dob": "3/22/2005",
+    "address": "4300 Second Way",
+    "city": "Austin",
+    "state": "NJ"
+  }
+}

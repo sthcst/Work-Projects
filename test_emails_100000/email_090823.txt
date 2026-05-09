@@ -1,0 +1,9 @@
+contact:
+  name: Megan Anderson
+  email: megan.anderson3296@example.com
+  phone: 816 712 8901
+  ssn: 720 36 3625
+  dob: 6/13/1963
+  address: 9322 Main St
+  city: Phoenix
+  state: NC

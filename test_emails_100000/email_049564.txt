@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Anderson",
+    "email": "anthony.anderson7041@yahoo.com",
+    "phone": "(908) 392-4632",
+    "ssn": "513744795",
+    "dob": "2/26/1973",
+    "address": "7430 South Ln",
+    "city": "Jacksonville",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Brian Harris
+  email: brian.harris7344@example.com
+  phone: 981 705 5239
+  ssn: 852 07 8504
+  dob: 03-08-1993
+  address: 9434 Fourth Ln
+  city: San Jose
+  state: TX

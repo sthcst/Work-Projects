@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Moore",
+    "email": "emma.moore2185@business.net",
+    "phone": "392-361-5825",
+    "ssn": "474302372",
+    "dob": "9/13/1989",
+    "address": "6936 Pine Blvd",
+    "city": "New York",
+    "state": "FL"
+  }
+}

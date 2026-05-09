@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anna Bell,anna.bell8476@gmail.com,+1 637-677-8941,427677627,8/1/2002,"4871 Maple Dr",Dallas,TX

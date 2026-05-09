@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Rodriguez
+  email: shirley.rodriguez7825@gmail.com
+  phone: (966) 487-4898
+  ssn: 511 31 6734
+  dob: 05-03-1989
+  address: 8682 South Dr
+  city: San Antonio
+  state: CA

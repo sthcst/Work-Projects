@@ -1,0 +1,12 @@
+SUPPORT TICKET #18346
+
+Customer: Anthony Delgado
+Email: anthony.delgado81@example.com
+Phone: 571-684-1895
+Account: 676-23-2566
+
+Issue Description: Technical problem reported
+DOB on file: 08/04/1983
+Address: 6040 Main Ln, Boston, CA
+
+Status: OPEN

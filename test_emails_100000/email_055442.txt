@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Moore
+  email: shirley.moore5840@work.org
+  phone: (490) 302-4126
+  ssn: 531 34 6795
+  dob: 07/02/1971
+  address: 5187 Third St
+  city: Houston
+  state: MA

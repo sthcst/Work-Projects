@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Martinez,emily.martinez3894@business.net,800-455-3230,064 91 4172,05-18-1976,"8468 West Ave",Phoenix,WA

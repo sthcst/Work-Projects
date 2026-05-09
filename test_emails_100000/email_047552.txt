@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Gonzalez,steven.gonzalez4620@business.net,+1 765-774-6343,377-87-7224,23/10/2001,"1958 South Rd",Jacksonville,DC

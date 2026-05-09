@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Hernandez",
+    "email": "timothy.hernandez5165@outlook.com",
+    "phone": "414-740-9230",
+    "ssn": "406-11-8366",
+    "dob": "04-20-1956",
+    "address": "776 Elm Way",
+    "city": "Chicago",
+    "state": "FL"
+  }
+}

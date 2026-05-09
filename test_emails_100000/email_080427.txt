@@ -1,0 +1,14 @@
+INVOICE 233877
+
+Bill To:
+Name: Pamela Lopez
+Email: pamela.lopez6872@gmail.com
+Phone: 901 581 8758
+SSN: 988153241
+
+Address: 7814 Park Way
+Phoenix, CA
+
+Date of Birth: 10-23-1987
+
+Amount Due: $3376

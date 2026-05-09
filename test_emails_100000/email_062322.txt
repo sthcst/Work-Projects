@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Johnson",
+    "email": "nicole.johnson4201@business.net",
+    "phone": "353 393 4107",
+    "ssn": "171212422",
+    "dob": "07-20-1976",
+    "address": "1941 West Blvd",
+    "city": "Los Angeles",
+    "state": "FL"
+  }
+}

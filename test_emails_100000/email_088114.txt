@@ -1,0 +1,14 @@
+INVOICE 519395
+
+Bill To:
+Name: Rachel Morgan
+Email: rachel.morgan9012@example.com
+Phone: (676) 200-7845
+SSN: 698851594
+
+Address: 3912 Cedar Rd
+Los Angeles, MI
+
+Date of Birth: 05-19-1956
+
+Amount Due: $948

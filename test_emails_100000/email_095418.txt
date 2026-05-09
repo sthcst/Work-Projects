@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Perez,kevin.perez2791@company.com,320 570 8749,024-75-8504,09/12/1963,"1263 Cedar Rd",San Jose,IL

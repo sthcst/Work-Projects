@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ryan Carter,ryan.carter2829@business.net,(714) 753-2902,572399193,6/26/1965,"9628 Fourth Rd",Philadelphia,OH

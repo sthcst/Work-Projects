@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Edwards,christine.edwards2447@yahoo.com,+1 393-701-9967,436588411,10/15/1991,"6303 Fourth Court",Boston,WA

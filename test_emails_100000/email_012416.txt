@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Ramirez",
+    "email": "timothy.ramirez4749@yahoo.com",
+    "phone": "598 329 1026",
+    "ssn": "729842259",
+    "dob": "11/09/1990",
+    "address": "5191 Oak Ln",
+    "city": "Boston",
+    "state": "WA"
+  }
+}

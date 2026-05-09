@@ -1,0 +1,14 @@
+INVOICE 648201
+
+Bill To:
+Name: Rachel Thompson
+Email: rachel.thompson4890@example.com
+Phone: (451) 663-2223
+SSN: 662331361
+
+Address: 2395 Main Ave
+Chicago, CO
+
+Date of Birth: 07-06-1988
+
+Amount Due: $2365

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Walker",
+    "email": "richard.walker9335@gmail.com",
+    "phone": "982 540 6567",
+    "ssn": "807-07-5047",
+    "dob": "9/10/1968",
+    "address": "7415 West St",
+    "city": "Austin",
+    "state": "CA"
+  }
+}

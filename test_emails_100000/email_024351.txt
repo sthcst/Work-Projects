@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Jones",
+    "email": "joshua.jones3186@yahoo.com",
+    "phone": "+1 866-782-5919",
+    "ssn": "202642653",
+    "dob": "02-26-1972",
+    "address": "8739 Fourth Way",
+    "city": "Phoenix",
+    "state": "FL"
+  }
+}

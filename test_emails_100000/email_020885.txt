@@ -1,0 +1,14 @@
+INVOICE 360625
+
+Bill To:
+Name: Angela Davis
+Email: angela.davis3155@example.com
+Phone: +1 423-390-1611
+SSN: 274-93-7332
+
+Address: 9332 Cedar Way
+Jacksonville, IL
+
+Date of Birth: 05-17-1952
+
+Amount Due: $3164

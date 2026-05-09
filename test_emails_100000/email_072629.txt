@@ -1,0 +1,14 @@
+INVOICE 770982
+
+Bill To:
+Name: Nicholas Jimenez
+Email: nicholas.jimenez7043@company.com
+Phone: 810-386-2649
+SSN: 407 30 5719
+
+Address: 289 Fifth Ave
+Los Angeles, TX
+
+Date of Birth: 19/07/1987
+
+Amount Due: $5477

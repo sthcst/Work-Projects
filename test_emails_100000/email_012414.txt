@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Bell",
+    "email": "megan.bell9279@yahoo.com",
+    "phone": "(820) 635-8116",
+    "ssn": "329 18 1162",
+    "dob": "03/28/1985",
+    "address": "3586 Sixth St",
+    "city": "Seattle",
+    "state": "MI"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Alvarado
+  email: daniel.alvarado7056@gmail.com
+  phone: (590) 258-7891
+  ssn: 393-11-8248
+  dob: 2/6/1997
+  address: 9447 Cedar Court
+  city: Houston
+  state: NC

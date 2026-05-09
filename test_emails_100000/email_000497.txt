@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Peterson",
+    "email": "richard.peterson8399@yahoo.com",
+    "phone": "852 967 5947",
+    "ssn": "433-52-1366",
+    "dob": "12/09/1996",
+    "address": "7111 Pine Ln",
+    "city": "Dallas",
+    "state": "CA"
+  }
+}

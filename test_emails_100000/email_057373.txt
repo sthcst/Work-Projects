@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Thomas",
+    "email": "daniel.thomas3675@gmail.com",
+    "phone": "627-735-2587",
+    "ssn": "199 40 8035",
+    "dob": "12-12-1997",
+    "address": "9044 First Rd",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

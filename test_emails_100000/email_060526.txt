@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Hernandez",
+    "email": "anthony.hernandez3086@company.com",
+    "phone": "(387) 375-2820",
+    "ssn": "245 11 9246",
+    "dob": "06-06-1954",
+    "address": "4040 First Court",
+    "city": "Philadelphia",
+    "state": "CA"
+  }
+}

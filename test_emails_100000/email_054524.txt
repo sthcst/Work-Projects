@@ -1,0 +1,14 @@
+INVOICE 249403
+
+Bill To:
+Name: Joseph Delgado
+Email: joseph.delgado6490@work.org
+Phone: 851-493-3928
+SSN: 148-72-6563
+
+Address: 155 South Way
+Dallas, VA
+
+Date of Birth: 12/05/1985
+
+Amount Due: $1326

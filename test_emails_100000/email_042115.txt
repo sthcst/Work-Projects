@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Walker
+  email: rachel.walker2087@gmail.com
+  phone: 872-777-4306
+  ssn: 383 03 1449
+  dob: 09-22-1972
+  address: 3371 North Dr
+  city: San Jose
+  state: FL

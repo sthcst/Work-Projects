@@ -1,0 +1,14 @@
+INVOICE 807006
+
+Bill To:
+Name: Kimberly Peterson
+Email: kimberly.peterson3392@yahoo.com
+Phone: 253 924 9520
+SSN: 313428135
+
+Address: 8674 Third Ln
+Washington, CA
+
+Date of Birth: 05/13/2003
+
+Amount Due: $6722

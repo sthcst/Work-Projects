@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Gonzalez
+  email: michelle.gonzalez7209@company.com
+  phone: 408-671-3560
+  ssn: 671 53 3621
+  dob: 8/28/1997
+  address: 4548 Maple Way
+  city: Chicago
+  state: FL

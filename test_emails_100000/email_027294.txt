@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Harris,pamela.harris9475@company.com,+1 920-425-7166,833 03 4746,7/5/1966,"3144 Maple Way",Jacksonville,MA

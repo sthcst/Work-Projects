@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Hall,richard.hall2102@gmail.com,(470) 273-3380,035-82-6396,11/26/2002,"2625 East St",Chicago,MA

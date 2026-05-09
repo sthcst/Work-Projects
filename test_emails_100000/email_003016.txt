@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Davis,emma.davis7885@company.com,(769) 349-2748,059-77-3977,01/20/1956,"4578 Sixth Rd",Houston,NJ

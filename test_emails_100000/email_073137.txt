@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Smith",
+    "email": "helen.smith5065@business.net",
+    "phone": "311 874 7539",
+    "ssn": "346 89 7633",
+    "dob": "11/23/1989",
+    "address": "5109 Cedar St",
+    "city": "Jacksonville",
+    "state": "DC"
+  }
+}

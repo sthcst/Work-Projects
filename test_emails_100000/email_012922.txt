@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Peterson,jason.peterson2371@yahoo.com,+1 228-656-8052,293-55-3451,25/03/1950,"6095 Main St",San Jose,FL

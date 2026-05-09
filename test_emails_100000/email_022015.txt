@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Stewart
+  email: sarah.stewart9494@yahoo.com
+  phone: (739) 903-2642
+  ssn: 239555756
+  dob: 23/11/1998
+  address: 8568 First Dr
+  city: Washington
+  state: CA

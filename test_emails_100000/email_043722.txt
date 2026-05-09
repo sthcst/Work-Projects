@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Thompson
+  email: stephanie.thompson4883@work.org
+  phone: 848-249-1415
+  ssn: 333 60 8022
+  dob: 2/8/1962
+  address: 3067 Elm Blvd
+  city: San Antonio
+  state: TX

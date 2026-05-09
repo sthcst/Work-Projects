@@ -1,0 +1,14 @@
+INVOICE 319582
+
+Bill To:
+Name: Lauren Nunez
+Email: lauren.nunez318@example.com
+Phone: 638 858 3044
+SSN: 206097571
+
+Address: 8277 Summer Court
+Boston, MO
+
+Date of Birth: 04-23-1951
+
+Amount Due: $9293

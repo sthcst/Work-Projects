@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Reed,ashley.reed5348@gmail.com,(300) 622-3288,796803260,10/22/1968,"1396 Spring St",Seattle,DC

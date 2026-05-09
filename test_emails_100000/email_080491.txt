@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Lewis
+  email: joshua.lewis9835@gmail.com
+  phone: 677 439 8995
+  ssn: 815045441
+  dob: 23/07/1966
+  address: 7770 Birch Dr
+  city: Phoenix
+  state: DC

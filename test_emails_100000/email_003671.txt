@@ -1,0 +1,9 @@
+contact:
+  name: Matthew Garcia
+  email: matthew.garcia2627@example.com
+  phone: 542 878 9560
+  ssn: 628073807
+  dob: 04/23/1981
+  address: 2142 Spring St
+  city: Phoenix
+  state: TX

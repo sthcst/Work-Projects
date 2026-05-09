@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark White",
+    "email": "mark.white8601@example.com",
+    "phone": "829-436-5642",
+    "ssn": "521 77 4283",
+    "dob": "06-22-1963",
+    "address": "7249 West Ln",
+    "city": "Boston",
+    "state": "VA"
+  }
+}

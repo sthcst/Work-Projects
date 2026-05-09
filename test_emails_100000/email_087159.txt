@@ -1,0 +1,14 @@
+INVOICE 821997
+
+Bill To:
+Name: Michael Davis
+Email: michael.davis9908@company.com
+Phone: 891-297-8120
+SSN: 857 54 8542
+
+Address: 1534 Birch Rd
+Houston, PA
+
+Date of Birth: 9/4/1973
+
+Amount Due: $9770

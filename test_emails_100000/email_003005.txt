@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Taylor",
+    "email": "lauren.taylor3935@yahoo.com",
+    "phone": "876 899 2375",
+    "ssn": "277 22 2340",
+    "dob": "09-05-1971",
+    "address": "5610 Pine Dr",
+    "city": "San Diego",
+    "state": "CA"
+  }
+}

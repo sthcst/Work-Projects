@@ -1,0 +1,9 @@
+contact:
+  name: Cynthia Serrano
+  email: cynthia.serrano4964@example.com
+  phone: +1 572-406-6128
+  ssn: 336 69 5137
+  dob: 04/11/1980
+  address: 7707 North Court
+  city: Philadelphia
+  state: MA

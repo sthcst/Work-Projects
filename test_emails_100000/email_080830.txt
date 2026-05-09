@@ -1,0 +1,14 @@
+INVOICE 832254
+
+Bill To:
+Name: James Perez
+Email: james.perez2786@work.org
+Phone: (811) 826-1507
+SSN: 180 30 2563
+
+Address: 8933 West Way
+New York, MA
+
+Date of Birth: 24/11/2001
+
+Amount Due: $8771

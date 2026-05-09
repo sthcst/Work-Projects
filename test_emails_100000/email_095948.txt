@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Moore",
+    "email": "timothy.moore9120@mail.com",
+    "phone": "+1 892-599-8547",
+    "ssn": "382 63 2950",
+    "dob": "04/09/1975",
+    "address": "3415 Third St",
+    "city": "San Antonio",
+    "state": "NY"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Megan Alvarado,megan.alvarado6630@mail.com,649 810 8084,201524581,12-05-1982,"7313 Pine Dr",Chicago,MO

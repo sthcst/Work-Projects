@@ -1,0 +1,9 @@
+contact:
+  name: Anna Bell
+  email: anna.bell9224@gmail.com
+  phone: 943 584 2269
+  ssn: 777 96 9122
+  dob: 9/5/1957
+  address: 7263 North St
+  city: San Antonio
+  state: FL

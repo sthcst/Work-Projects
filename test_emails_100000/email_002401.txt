@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Garcia
+  email: daniel.garcia550@example.com
+  phone: 849-353-4519
+  ssn: 678-36-3176
+  dob: 08/04/1993
+  address: 3463 Fourth Dr
+  city: Jacksonville
+  state: WI

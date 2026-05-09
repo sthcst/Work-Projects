@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Helen Phillips,helen.phillips3795@work.org,835-838-2530,048-85-9203,7/9/1957,"324 Cedar Dr",Boston,CO

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Reyes,emma.reyes7248@gmail.com,892 992 3118,756756882,8/20/1951,"5288 Spring St",Boston,TX

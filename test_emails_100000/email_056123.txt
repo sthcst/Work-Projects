@@ -1,0 +1,9 @@
+contact:
+  name: James Romero
+  email: james.romero3055@yahoo.com
+  phone: (567) 564-5282
+  ssn: 942-15-3924
+  dob: 9/18/1998
+  address: 2467 Sixth Court
+  city: San Antonio
+  state: VA

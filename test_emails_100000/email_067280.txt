@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Bell",
+    "email": "kevin.bell5800@yahoo.com",
+    "phone": "942-874-9112",
+    "ssn": "107564475",
+    "dob": "05/28/1958",
+    "address": "271 Summer Ln",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Flores",
+    "email": "richard.flores6900@company.com",
+    "phone": "+1 217-577-9082",
+    "ssn": "424-64-4469",
+    "dob": "5/4/1963",
+    "address": "8752 Park Blvd",
+    "city": "Houston",
+    "state": "MA"
+  }
+}

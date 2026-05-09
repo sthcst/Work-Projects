@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Parker",
+    "email": "stephanie.parker5049@company.com",
+    "phone": "(366) 495-8674",
+    "ssn": "230113013",
+    "dob": "11-07-1952",
+    "address": "6703 Fifth Court",
+    "city": "Boston",
+    "state": "AZ"
+  }
+}

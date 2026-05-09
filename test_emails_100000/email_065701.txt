@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Campbell",
+    "email": "mark.campbell6054@company.com",
+    "phone": "(569) 462-3420",
+    "ssn": "655732035",
+    "dob": "06/10/1960",
+    "address": "3459 Elm Way",
+    "city": "Philadelphia",
+    "state": "NJ"
+  }
+}

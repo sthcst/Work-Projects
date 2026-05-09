@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Anderson",
+    "email": "anthony.anderson9109@gmail.com",
+    "phone": "510 664 9690",
+    "ssn": "768 02 2241",
+    "dob": "10-23-1991",
+    "address": "6124 Cedar Court",
+    "city": "San Antonio",
+    "state": "TN"
+  }
+}

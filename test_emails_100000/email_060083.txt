@@ -1,0 +1,14 @@
+INVOICE 137752
+
+Bill To:
+Name: James Peterson
+Email: james.peterson949@outlook.com
+Phone: 663 972 7424
+SSN: 709-61-2148
+
+Address: 6267 Summer Way
+Seattle, MD
+
+Date of Birth: 5/26/1954
+
+Amount Due: $9907

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Anderson,james.anderson2957@business.net,657 853 3765,271-51-8235,07/06/1952,"3849 Elm Dr",New York,NC

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Collins",
+    "email": "mark.collins6019@example.com",
+    "phone": "618-322-1894",
+    "ssn": "365-29-6127",
+    "dob": "3/15/1955",
+    "address": "7851 Spring St",
+    "city": "Austin",
+    "state": "NY"
+  }
+}

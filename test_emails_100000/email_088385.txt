@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Evans",
+    "email": "lauren.evans9332@company.com",
+    "phone": "334 540 1819",
+    "ssn": "875 15 5019",
+    "dob": "01/06/1959",
+    "address": "4363 Summer Blvd",
+    "city": "Phoenix",
+    "state": "GA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Carter",
+    "email": "cynthia.carter796@yahoo.com",
+    "phone": "(400) 913-2756",
+    "ssn": "706771497",
+    "dob": "02-02-1973",
+    "address": "3767 Second Ln",
+    "city": "New York",
+    "state": "MA"
+  }
+}

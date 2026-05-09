@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Romero,emily.romero3505@example.com,+1 904-246-6617,693-19-9097,08-10-1977,"725 Fourth St",San Antonio,TX

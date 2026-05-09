@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Alvarado,donald.alvarado9274@gmail.com,+1 645-483-9606,125-36-7786,10/19/1994,"8226 Spring Court",Los Angeles,IL

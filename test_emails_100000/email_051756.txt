@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Morgan",
+    "email": "william.morgan4902@yahoo.com",
+    "phone": "545 837 4461",
+    "ssn": "336-58-8662",
+    "dob": "10-10-2000",
+    "address": "6719 Main Ave",
+    "city": "Seattle",
+    "state": "NC"
+  }
+}

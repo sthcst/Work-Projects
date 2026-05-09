@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Cynthia Reyes,cynthia.reyes6530@gmail.com,642 507 6098,994 55 5343,4/8/1981,"8413 South Court",Jacksonville,CA

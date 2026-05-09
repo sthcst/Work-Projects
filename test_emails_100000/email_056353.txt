@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Delgado,edward.delgado724@gmail.com,831-587-6203,328868689,04/06/2001,"4225 Main Ln",San Jose,AZ

@@ -1,0 +1,9 @@
+contact:
+  name: Gary Williams
+  email: gary.williams2468@business.net
+  phone: +1 390-347-8284
+  ssn: 759673838
+  dob: 01/21/2003
+  address: 5942 Fourth Ave
+  city: San Antonio
+  state: GA

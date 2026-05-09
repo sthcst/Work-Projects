@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Hernandez",
+    "email": "andrew.hernandez5918@mail.com",
+    "phone": "+1 961-466-3553",
+    "ssn": "063-10-8271",
+    "dob": "11/4/1997",
+    "address": "5967 Main Blvd",
+    "city": "Boston",
+    "state": "VA"
+  }
+}

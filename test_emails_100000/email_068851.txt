@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Matthew Lopez,matthew.lopez7797@yahoo.com,(695) 208-2886,270-05-2255,07/13/1985,"1180 North Court",Denver,IL

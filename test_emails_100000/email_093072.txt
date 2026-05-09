@@ -1,0 +1,9 @@
+contact:
+  name: Maria Reed
+  email: maria.reed8125@outlook.com
+  phone: (561) 735-7436
+  ssn: 133 81 3851
+  dob: 07/26/1957
+  address: 8536 West St
+  city: Seattle
+  state: MD

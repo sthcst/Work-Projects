@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Jones",
+    "email": "lisa.jones9996@gmail.com",
+    "phone": "(841) 328-6361",
+    "ssn": "233602374",
+    "dob": "24/01/1955",
+    "address": "7831 Third Blvd",
+    "city": "Philadelphia",
+    "state": "MO"
+  }
+}

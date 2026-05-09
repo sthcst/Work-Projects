@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Morris,william.morris6952@gmail.com,(779) 348-8155,592 24 7349,02-15-1958,"9629 Elm Ln",Denver,AZ

@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Morris
+  email: samantha.morris6022@mail.com
+  phone: 747 455 6641
+  ssn: 374 92 1626
+  dob: 10/12/1950
+  address: 3217 Sixth Court
+  city: Dallas
+  state: TX

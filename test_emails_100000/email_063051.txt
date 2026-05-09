@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Harris
+  email: katherine.harris4822@example.com
+  phone: (910) 851-7451
+  ssn: 462 44 1656
+  dob: 8/21/1981
+  address: 4640 Birch St
+  city: San Diego
+  state: FL

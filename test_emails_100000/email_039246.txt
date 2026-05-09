@@ -1,0 +1,9 @@
+contact:
+  name: Edward Reeves
+  email: edward.reeves6670@yahoo.com
+  phone: (597) 427-2476
+  ssn: 372-19-6286
+  dob: 06/13/1991
+  address: 1089 Third Ln
+  city: Jacksonville
+  state: AZ

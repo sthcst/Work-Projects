@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Serrano
+  email: sarah.serrano934@business.net
+  phone: 894 279 2515
+  ssn: 890 19 3377
+  dob: 9/20/2003
+  address: 1073 Summer Rd
+  city: Jacksonville
+  state: CA

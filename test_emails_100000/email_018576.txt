@@ -1,0 +1,9 @@
+contact:
+  name: Brian Gomez
+  email: brian.gomez9349@gmail.com
+  phone: (743) 740-9842
+  ssn: 830 85 8658
+  dob: 25/03/1976
+  address: 3382 Elm Rd
+  city: Boston
+  state: FL

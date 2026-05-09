@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Hernandez,jennifer.hernandez4116@gmail.com,(384) 645-2333,462 42 9296,10/10/1996,"2680 Sixth Dr",Dallas,DC

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Sanchez",
+    "email": "david.sanchez8672@business.net",
+    "phone": "829-328-5576",
+    "ssn": "719-83-1847",
+    "dob": "1/26/2003",
+    "address": "4917 Main Ave",
+    "city": "Austin",
+    "state": "CO"
+  }
+}

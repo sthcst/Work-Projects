@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Nunez",
+    "email": "edward.nunez8846@business.net",
+    "phone": "+1 525-450-6208",
+    "ssn": "126 43 5727",
+    "dob": "12/9/1952",
+    "address": "2270 Main St",
+    "city": "Phoenix",
+    "state": "WA"
+  }
+}

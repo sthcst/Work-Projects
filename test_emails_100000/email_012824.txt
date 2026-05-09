@@ -1,0 +1,9 @@
+contact:
+  name: James Gonzalez
+  email: james.gonzalez6527@work.org
+  phone: 711-579-3365
+  ssn: 916914373
+  dob: 05-20-1995
+  address: 6890 Second Way
+  city: Jacksonville
+  state: FL

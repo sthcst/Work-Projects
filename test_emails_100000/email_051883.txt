@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Reeves",
+    "email": "timothy.reeves6760@mail.com",
+    "phone": "922 745 9805",
+    "ssn": "488 85 8011",
+    "dob": "06-01-1976",
+    "address": "6730 East Way",
+    "city": "Dallas",
+    "state": "MA"
+  }
+}

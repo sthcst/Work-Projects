@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Nunez",
+    "email": "james.nunez4465@business.net",
+    "phone": "715 472 2359",
+    "ssn": "458-27-6003",
+    "dob": "06-13-1950",
+    "address": "6467 Main Rd",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

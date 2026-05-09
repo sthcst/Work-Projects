@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Garcia,joshua.garcia873@business.net,311-233-5082,891 98 5372,7/21/1963,"729 Summer St",Los Angeles,MA

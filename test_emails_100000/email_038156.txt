@@ -1,0 +1,14 @@
+INVOICE 981377
+
+Bill To:
+Name: Joshua Stewart
+Email: joshua.stewart8836@example.com
+Phone: (959) 342-8002
+SSN: 443502101
+
+Address: 394 North Court
+Los Angeles, OH
+
+Date of Birth: 7/2/1953
+
+Amount Due: $6446

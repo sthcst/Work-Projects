@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Lee",
+    "email": "katherine.lee8979@work.org",
+    "phone": "+1 684-347-5692",
+    "ssn": "469-45-9076",
+    "dob": "08-09-1990",
+    "address": "4463 First Dr",
+    "city": "New York",
+    "state": "PA"
+  }
+}

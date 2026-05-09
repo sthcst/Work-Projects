@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Parker,nicholas.parker8005@work.org,(528) 943-2738,444-96-4293,24/03/1952,"9291 East Court",Austin,MD

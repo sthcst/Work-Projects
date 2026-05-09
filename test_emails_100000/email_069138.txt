@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Romero",
+    "email": "christine.romero3713@yahoo.com",
+    "phone": "(229) 298-9704",
+    "ssn": "050-52-9448",
+    "dob": "19/08/1965",
+    "address": "3343 Maple Ave",
+    "city": "Boston",
+    "state": "NJ"
+  }
+}

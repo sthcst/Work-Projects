@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Phillips
+  email: joseph.phillips3353@business.net
+  phone: 430-412-2614
+  ssn: 534 82 4820
+  dob: 05/28/1950
+  address: 491 Fifth Ave
+  city: Los Angeles
+  state: WA

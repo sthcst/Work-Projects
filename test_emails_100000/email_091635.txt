@@ -1,0 +1,9 @@
+contact:
+  name: Robert Nunez
+  email: robert.nunez8637@work.org
+  phone: +1 545-240-3191
+  ssn: 192 14 4469
+  dob: 04/06/1977
+  address: 351 Fourth Blvd
+  city: Austin
+  state: MA

@@ -1,0 +1,14 @@
+INVOICE 722765
+
+Bill To:
+Name: Nicole Reeves
+Email: nicole.reeves7495@company.com
+Phone: 604 430 1051
+SSN: 922 13 5948
+
+Address: 9303 Fourth Dr
+Los Angeles, CA
+
+Date of Birth: 03/26/1991
+
+Amount Due: $3523

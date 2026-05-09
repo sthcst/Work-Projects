@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Peterson",
+    "email": "nicholas.peterson5886@business.net",
+    "phone": "570-879-9439",
+    "ssn": "510119497",
+    "dob": "11/15/1953",
+    "address": "6495 South Blvd",
+    "city": "Philadelphia",
+    "state": "CO"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Jeffrey Romero
+  email: jeffrey.romero4954@mail.com
+  phone: 756-722-6746
+  ssn: 090-25-7281
+  dob: 7/6/1954
+  address: 8062 Sixth Way
+  city: San Antonio
+  state: MD

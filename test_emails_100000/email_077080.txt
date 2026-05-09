@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Davis",
+    "email": "nicholas.davis656@example.com",
+    "phone": "(594) 768-3061",
+    "ssn": "533709504",
+    "dob": "08/04/1969",
+    "address": "7036 Main Rd",
+    "city": "Boston",
+    "state": "NC"
+  }
+}

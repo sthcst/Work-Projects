@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Wilson",
+    "email": "megan.wilson3233@company.com",
+    "phone": "381 850 1819",
+    "ssn": "043694846",
+    "dob": "14/02/1997",
+    "address": "1870 Fifth Ln",
+    "city": "New York",
+    "state": "CA"
+  }
+}

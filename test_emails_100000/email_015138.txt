@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Thomas,michelle.thomas6600@gmail.com,+1 355-264-7223,051795954,01/07/1958,"186 Third Ln",Los Angeles,AZ

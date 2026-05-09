@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Davis",
+    "email": "megan.davis4439@gmail.com",
+    "phone": "467-580-5681",
+    "ssn": "441-92-4024",
+    "dob": "8/7/1965",
+    "address": "6994 Oak Ln",
+    "city": "Los Angeles",
+    "state": "WI"
+  }
+}

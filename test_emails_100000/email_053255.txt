@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Moore,gary.moore9094@gmail.com,(840) 424-3409,626538238,07-25-1968,"917 Birch Ave",Chicago,CA

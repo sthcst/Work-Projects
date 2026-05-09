@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Gonzalez
+  email: sarah.gonzalez5986@outlook.com
+  phone: +1 878-712-2103
+  ssn: 314831693
+  dob: 12-24-1969
+  address: 2638 First Court
+  city: San Antonio
+  state: CA

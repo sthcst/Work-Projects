@@ -1,0 +1,14 @@
+INVOICE 200235
+
+Bill To:
+Name: Mark Phillips
+Email: mark.phillips6976@company.com
+Phone: (532) 358-5970
+SSN: 235775400
+
+Address: 7223 First Way
+New York, GA
+
+Date of Birth: 12/12/1979
+
+Amount Due: $9507

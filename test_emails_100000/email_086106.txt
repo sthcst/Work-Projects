@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Campbell
+  email: timothy.campbell1598@gmail.com
+  phone: 286-742-7567
+  ssn: 113285821
+  dob: 12-03-1974
+  address: 1277 Fifth Dr
+  city: San Jose
+  state: TX

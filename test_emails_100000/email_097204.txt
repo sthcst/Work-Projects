@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Taylor",
+    "email": "joshua.taylor3653@business.net",
+    "phone": "295 486 9456",
+    "ssn": "822-26-4443",
+    "dob": "10/7/1968",
+    "address": "1523 Park Ave",
+    "city": "San Jose",
+    "state": "MI"
+  }
+}

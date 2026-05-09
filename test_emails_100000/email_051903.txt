@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Reyes,jennifer.reyes4874@mail.com,451 534 5839,107638850,8/15/1958,"715 Main Rd",Philadelphia,CO

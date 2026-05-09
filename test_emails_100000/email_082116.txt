@@ -1,0 +1,9 @@
+contact:
+  name: William Martinez
+  email: william.martinez7934@example.com
+  phone: 555 950 3870
+  ssn: 277-75-8560
+  dob: 09/04/1975
+  address: 4135 Summer Rd
+  city: Houston
+  state: PA

@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Harris
+  email: joshua.harris4766@example.com
+  phone: +1 837-835-8985
+  ssn: 941771933
+  dob: 23/07/1966
+  address: 1506 East Way
+  city: Seattle
+  state: PA

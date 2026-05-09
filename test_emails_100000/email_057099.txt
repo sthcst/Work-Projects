@@ -1,0 +1,9 @@
+contact:
+  name: Emma Cooper
+  email: emma.cooper4462@business.net
+  phone: 999-488-7609
+  ssn: 661 83 1426
+  dob: 05-01-1957
+  address: 3660 Oak Blvd
+  city: Los Angeles
+  state: WI

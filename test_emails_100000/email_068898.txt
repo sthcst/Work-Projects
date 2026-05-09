@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Lopez,joseph.lopez2391@yahoo.com,900 471 7565,382-71-7472,12-03-1983,"9443 Pine Blvd",Los Angeles,WI

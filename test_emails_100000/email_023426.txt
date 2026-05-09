@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Moore,brenda.moore631@gmail.com,(422) 383-1356,340 86 3873,10/08/2005,"2451 North Court",Los Angeles,DC

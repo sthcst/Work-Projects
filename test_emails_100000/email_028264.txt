@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Parker
+  email: stephanie.parker5525@mail.com
+  phone: 922 756 9448
+  ssn: 963-63-7781
+  dob: 07/27/1974
+  address: 5539 Summer St
+  city: Boston
+  state: CA

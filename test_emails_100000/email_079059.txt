@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Sarah Perez,sarah.perez3354@mail.com,(952) 657-2056,266 67 8073,01/17/1978,"36 North St",Philadelphia,CO

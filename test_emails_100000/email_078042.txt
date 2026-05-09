@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Gomez
+  email: deborah.gomez6374@mail.com
+  phone: 992-887-6872
+  ssn: 198-86-2638
+  dob: 21/10/1985
+  address: 3161 Sixth St
+  city: Denver
+  state: AZ

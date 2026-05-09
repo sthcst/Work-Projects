@@ -1,0 +1,9 @@
+contact:
+  name: Megan Morris
+  email: megan.morris7510@mail.com
+  phone: +1 704-565-4219
+  ssn: 368 38 9046
+  dob: 5/17/1987
+  address: 2469 North Ln
+  city: Austin
+  state: WA

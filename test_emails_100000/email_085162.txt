@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Edward Davis",
+    "email": "edward.davis5259@outlook.com",
+    "phone": "+1 677-645-6737",
+    "ssn": "397-35-3578",
+    "dob": "01/04/1953",
+    "address": "1674 Second Ave",
+    "city": "New York",
+    "state": "NJ"
+  }
+}

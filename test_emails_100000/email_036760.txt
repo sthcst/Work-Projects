@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Morris
+  email: brenda.morris879@example.com
+  phone: 732 237 9671
+  ssn: 065987804
+  dob: 6/5/1964
+  address: 1021 West Way
+  city: Austin
+  state: TN

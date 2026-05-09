@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Lee,emily.lee8381@company.com,344-768-8502,427949025,03-26-1986,"8067 First Court",Dallas,CO

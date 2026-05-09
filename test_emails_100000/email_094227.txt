@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Davis,angela.davis6695@outlook.com,224 227 7619,904-35-3635,09/13/1989,"4698 Birch Blvd",San Antonio,MI

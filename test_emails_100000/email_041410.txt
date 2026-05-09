@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Jones",
+    "email": "donald.jones8235@gmail.com",
+    "phone": "+1 745-320-1350",
+    "ssn": "961512872",
+    "dob": "08/08/2004",
+    "address": "3789 West Way",
+    "city": "Philadelphia",
+    "state": "TX"
+  }
+}

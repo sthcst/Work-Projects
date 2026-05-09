@@ -1,0 +1,14 @@
+INVOICE 891906
+
+Bill To:
+Name: Jessica Evans
+Email: jessica.evans4248@example.com
+Phone: +1 777-977-6144
+SSN: 926-52-9672
+
+Address: 9213 Elm Blvd
+Philadelphia, CO
+
+Date of Birth: 16/06/1975
+
+Amount Due: $7085

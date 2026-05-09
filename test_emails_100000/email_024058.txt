@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Rogers",
+    "email": "timothy.rogers2889@mail.com",
+    "phone": "+1 281-594-7885",
+    "ssn": "205 89 5596",
+    "dob": "06-28-1993",
+    "address": "6786 First Ln",
+    "city": "San Jose",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 126590
+
+Bill To:
+Name: George Bell
+Email: george.bell3242@example.com
+Phone: +1 593-974-7626
+SSN: 439311227
+
+Address: 5842 Park St
+Houston, NY
+
+Date of Birth: 12-03-1987
+
+Amount Due: $3830

@@ -1,0 +1,14 @@
+INVOICE 839035
+
+Bill To:
+Name: Edward Martinez
+Email: edward.martinez2701@company.com
+Phone: 773-265-5245
+SSN: 841 41 2276
+
+Address: 9351 Cedar Dr
+San Antonio, GA
+
+Date of Birth: 24/02/1951
+
+Amount Due: $5155

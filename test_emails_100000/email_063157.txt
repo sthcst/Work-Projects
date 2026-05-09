@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Lopez,brian.lopez145@yahoo.com,(216) 846-7801,512 85 1937,06/11/1996,"2058 Oak Ln",Los Angeles,PA

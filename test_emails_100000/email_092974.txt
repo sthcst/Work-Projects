@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Jimenez,david.jimenez4320@business.net,+1 393-379-9206,737 48 7760,2/10/1950,"2046 Oak Ln",Boston,GA

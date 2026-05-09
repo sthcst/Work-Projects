@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Roberts",
+    "email": "cynthia.roberts911@example.com",
+    "phone": "+1 987-883-1355",
+    "ssn": "772258081",
+    "dob": "08/08/1989",
+    "address": "8510 East Court",
+    "city": "Jacksonville",
+    "state": "DC"
+  }
+}

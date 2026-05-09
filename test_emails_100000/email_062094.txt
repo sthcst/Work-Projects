@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Roberts
+  email: ryan.roberts9365@mail.com
+  phone: 743-363-6729
+  ssn: 066-34-6957
+  dob: 05-09-2005
+  address: 9692 North Rd
+  city: Jacksonville
+  state: CO

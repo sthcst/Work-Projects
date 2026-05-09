@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Martin",
+    "email": "jacob.martin3429@yahoo.com",
+    "phone": "275 596 5299",
+    "ssn": "992-17-2463",
+    "dob": "12/09/1989",
+    "address": "4230 Elm Rd",
+    "city": "Jacksonville",
+    "state": "MD"
+  }
+}

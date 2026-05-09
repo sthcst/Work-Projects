@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Romero",
+    "email": "lisa.romero9037@outlook.com",
+    "phone": "(894) 470-3152",
+    "ssn": "405 78 8260",
+    "dob": "12-18-1999",
+    "address": "2322 Fourth Way",
+    "city": "Washington",
+    "state": "FL"
+  }
+}

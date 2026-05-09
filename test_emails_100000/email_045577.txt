@@ -1,0 +1,9 @@
+contact:
+  name: John Thompson
+  email: john.thompson7085@company.com
+  phone: (900) 369-5800
+  ssn: 137-48-9828
+  dob: 11/17/2002
+  address: 8981 South Ave
+  city: Denver
+  state: DC

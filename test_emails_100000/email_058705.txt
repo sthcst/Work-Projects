@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Edwards",
+    "email": "kenneth.edwards6435@gmail.com",
+    "phone": "316 986 5029",
+    "ssn": "363793954",
+    "dob": "3/25/2003",
+    "address": "4126 North Court",
+    "city": "Denver",
+    "state": "MA"
+  }
+}

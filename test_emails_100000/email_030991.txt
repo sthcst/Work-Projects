@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Robinson",
+    "email": "steven.robinson4534@outlook.com",
+    "phone": "316-440-5190",
+    "ssn": "370814778",
+    "dob": "06-23-2004",
+    "address": "3235 Elm Way",
+    "city": "Boston",
+    "state": "PA"
+  }
+}

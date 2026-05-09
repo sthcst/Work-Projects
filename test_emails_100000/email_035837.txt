@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Dominguez",
+    "email": "lauren.dominguez2734@company.com",
+    "phone": "986-984-4945",
+    "ssn": "345482231",
+    "dob": "7/20/2000",
+    "address": "760 Fourth Blvd",
+    "city": "Austin",
+    "state": "PA"
+  }
+}

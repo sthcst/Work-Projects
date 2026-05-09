@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Anderson",
+    "email": "shirley.anderson4174@gmail.com",
+    "phone": "885 527 5139",
+    "ssn": "292-42-9269",
+    "dob": "02/15/1957",
+    "address": "9494 Main Dr",
+    "city": "San Diego",
+    "state": "OH"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Cooper",
+    "email": "john.cooper3581@yahoo.com",
+    "phone": "430-729-9337",
+    "ssn": "602 68 4120",
+    "dob": "11/10/1970",
+    "address": "556 Fourth St",
+    "city": "San Diego",
+    "state": "IL"
+  }
+}

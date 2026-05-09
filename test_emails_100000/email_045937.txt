@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Thompson",
+    "email": "robert.thompson1355@outlook.com",
+    "phone": "(350) 441-7600",
+    "ssn": "235 85 5942",
+    "dob": "09-02-1958",
+    "address": "551 West Ave",
+    "city": "Seattle",
+    "state": "NJ"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Sanchez,kevin.sanchez8934@work.org,(468) 976-4454,215 42 7448,08/08/1972,"1945 West Ave",San Antonio,MD

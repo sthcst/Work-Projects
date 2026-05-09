@@ -1,0 +1,14 @@
+INVOICE 546748
+
+Bill To:
+Name: Paul Perez
+Email: paul.perez432@yahoo.com
+Phone: 935 640 7505
+SSN: 072317220
+
+Address: 2217 First Ave
+Boston, FL
+
+Date of Birth: 9/4/1961
+
+Amount Due: $2185

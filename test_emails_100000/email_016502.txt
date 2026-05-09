@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Morgan",
+    "email": "rachel.morgan7749@business.net",
+    "phone": "+1 894-273-8742",
+    "ssn": "735 49 3806",
+    "dob": "03/24/1999",
+    "address": "7310 Pine Dr",
+    "city": "Chicago",
+    "state": "FL"
+  }
+}

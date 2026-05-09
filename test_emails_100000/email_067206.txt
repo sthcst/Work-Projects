@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Wilson",
+    "email": "william.wilson9745@outlook.com",
+    "phone": "408-805-1525",
+    "ssn": "894-91-1409",
+    "dob": "07-03-1965",
+    "address": "5528 Birch Rd",
+    "city": "Los Angeles",
+    "state": "OH"
+  }
+}

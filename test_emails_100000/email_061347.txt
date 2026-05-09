@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Campbell,lauren.campbell6249@mail.com,+1 213-853-9917,235 48 3775,10-20-1952,"133 Spring Dr",Houston,MO

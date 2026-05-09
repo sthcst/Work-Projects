@@ -1,0 +1,14 @@
+INVOICE 311264
+
+Bill To:
+Name: Kathleen Hernandez
+Email: kathleen.hernandez5375@mail.com
+Phone: 557 946 8258
+SSN: 633581560
+
+Address: 823 Fifth Ave
+Los Angeles, CO
+
+Date of Birth: 8/1/2005
+
+Amount Due: $2712

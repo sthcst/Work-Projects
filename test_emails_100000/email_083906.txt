@@ -1,0 +1,9 @@
+contact:
+  name: Michael Cooper
+  email: michael.cooper679@yahoo.com
+  phone: 902-807-8493
+  ssn: 733 80 4554
+  dob: 11-10-1969
+  address: 9338 Pine Court
+  city: Seattle
+  state: WI

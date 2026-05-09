@@ -1,0 +1,9 @@
+contact:
+  name: Christine Johnson
+  email: christine.johnson4756@business.net
+  phone: +1 829-582-5305
+  ssn: 057714299
+  dob: 7/6/2002
+  address: 633 Elm Ave
+  city: Phoenix
+  state: NJ

@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Edwards
+  email: pamela.edwards5981@example.com
+  phone: +1 990-332-4374
+  ssn: 631-59-7695
+  dob: 22/11/1983
+  address: 6681 Maple Court
+  city: Denver
+  state: DC

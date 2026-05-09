@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Murillo",
+    "email": "david.murillo321@gmail.com",
+    "phone": "324 450 7034",
+    "ssn": "345-91-7063",
+    "dob": "09-17-1967",
+    "address": "4044 First Way",
+    "city": "San Jose",
+    "state": "FL"
+  }
+}

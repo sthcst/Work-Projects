@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Guerrero",
+    "email": "kevin.guerrero1180@example.com",
+    "phone": "405 892 7905",
+    "ssn": "570-77-1179",
+    "dob": "08/08/1987",
+    "address": "9710 East Rd",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

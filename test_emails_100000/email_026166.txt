@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Flores,william.flores1282@company.com,890-418-5155,036 04 3509,07/28/1998,"3635 Sixth Court",New York,MO

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Moore,joseph.moore2305@gmail.com,683 977 8837,578 09 1933,16/04/2003,"8392 Summer Ave",San Diego,VA

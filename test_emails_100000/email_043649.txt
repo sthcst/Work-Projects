@@ -1,0 +1,12 @@
+SUPPORT TICKET #42004
+
+Customer: Helen Moore
+Email: helen.moore2283@example.com
+Phone: 564-528-9908
+Account: 564042889
+
+Issue Description: Technical problem reported
+DOB on file: 05/10/1994
+Address: 6314 Second Dr, Washington, MO
+
+Status: OPEN

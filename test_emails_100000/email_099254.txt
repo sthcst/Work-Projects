@@ -1,0 +1,9 @@
+contact:
+  name: Stephanie Nelson
+  email: stephanie.nelson6127@example.com
+  phone: +1 312-434-5099
+  ssn: 050435334
+  dob: 10/06/1961
+  address: 5212 Elm Way
+  city: San Antonio
+  state: CA

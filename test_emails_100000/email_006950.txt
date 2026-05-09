@@ -1,0 +1,9 @@
+contact:
+  name: Christopher Hall
+  email: christopher.hall9387@mail.com
+  phone: 653-895-7640
+  ssn: 169 23 4930
+  dob: 23/09/1999
+  address: 4247 Sixth Ln
+  city: Denver
+  state: TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Roberts",
+    "email": "timothy.roberts1986@work.org",
+    "phone": "780-578-4875",
+    "ssn": "445 95 7990",
+    "dob": "9/8/1996",
+    "address": "2374 Second Court",
+    "city": "Washington",
+    "state": "FL"
+  }
+}

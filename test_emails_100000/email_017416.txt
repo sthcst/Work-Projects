@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Taylor",
+    "email": "helen.taylor3293@outlook.com",
+    "phone": "310-327-3439",
+    "ssn": "896282129",
+    "dob": "28/07/2005",
+    "address": "1843 Third Blvd",
+    "city": "Phoenix",
+    "state": "CO"
+  }
+}

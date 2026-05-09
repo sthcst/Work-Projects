@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Clark,shirley.clark6742@company.com,927-309-5896,369632330,01/05/1983,"8182 Park Rd",San Antonio,MA

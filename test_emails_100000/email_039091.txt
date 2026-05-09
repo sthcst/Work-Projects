@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Lewis",
+    "email": "daniel.lewis4695@example.com",
+    "phone": "347-327-7929",
+    "ssn": "677076784",
+    "dob": "12/06/1983",
+    "address": "9742 West Blvd",
+    "city": "Washington",
+    "state": "WA"
+  }
+}

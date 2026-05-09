@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Martinez",
+    "email": "emma.martinez8104@yahoo.com",
+    "phone": "791 409 5472",
+    "ssn": "015533704",
+    "dob": "17/12/1962",
+    "address": "310 Birch Blvd",
+    "city": "Chicago",
+    "state": "FL"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Delgado,john.delgado7676@work.org,(386) 690-3957,434-70-5402,11/16/2003,"4996 Maple Way",Phoenix,MD

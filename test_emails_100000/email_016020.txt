@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Delgado",
+    "email": "ryan.delgado1972@company.com",
+    "phone": "312 555 4904",
+    "ssn": "107-29-5699",
+    "dob": "03-06-1996",
+    "address": "8833 Oak Way",
+    "city": "Seattle",
+    "state": "TN"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Taylor",
+    "email": "kenneth.taylor406@gmail.com",
+    "phone": "+1 982-333-4829",
+    "ssn": "356-27-6591",
+    "dob": "26/11/1956",
+    "address": "1160 First Ln",
+    "city": "Phoenix",
+    "state": "FL"
+  }
+}

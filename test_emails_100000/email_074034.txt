@@ -1,0 +1,14 @@
+INVOICE 989606
+
+Bill To:
+Name: Rebecca Guerrero
+Email: rebecca.guerrero7415@example.com
+Phone: +1 755-455-6081
+SSN: 907-26-6572
+
+Address: 3836 Elm Ave
+San Jose, AZ
+
+Date of Birth: 04-19-1951
+
+Amount Due: $4681

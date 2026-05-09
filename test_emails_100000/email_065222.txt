@@ -1,0 +1,9 @@
+contact:
+  name: Angela Edwards
+  email: angela.edwards1699@business.net
+  phone: 898 436 2704
+  ssn: 481-54-1528
+  dob: 10-22-1990
+  address: 2110 Summer Ave
+  city: Philadelphia
+  state: OH

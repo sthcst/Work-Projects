@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Nelson,charles.nelson8341@business.net,857-976-8520,192 63 1260,09-18-1973,"5683 Park Ln",Chicago,WA

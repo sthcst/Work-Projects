@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Nelson
+  email: kenneth.nelson1550@mail.com
+  phone: 267 669 6261
+  ssn: 563828578
+  dob: 06/13/1972
+  address: 8504 Spring Court
+  city: Los Angeles
+  state: CA

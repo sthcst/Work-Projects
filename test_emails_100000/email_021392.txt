@@ -1,0 +1,14 @@
+INVOICE 597980
+
+Bill To:
+Name: Jeffrey Garcia
+Email: jeffrey.garcia2379@mail.com
+Phone: +1 320-656-9397
+SSN: 738-70-8991
+
+Address: 7698 Oak Court
+Washington, MI
+
+Date of Birth: 03/07/1972
+
+Amount Due: $5822

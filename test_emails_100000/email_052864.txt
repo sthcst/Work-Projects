@@ -1,0 +1,14 @@
+INVOICE 159919
+
+Bill To:
+Name: Steven Ramirez
+Email: steven.ramirez7479@mail.com
+Phone: 255 463 9768
+SSN: 541316627
+
+Address: 7355 Oak Way
+Chicago, MD
+
+Date of Birth: 09-06-1980
+
+Amount Due: $4008

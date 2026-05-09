@@ -1,0 +1,14 @@
+INVOICE 307684
+
+Bill To:
+Name: Charles Reeves
+Email: charles.reeves7220@business.net
+Phone: 807-631-5190
+SSN: 492-79-6905
+
+Address: 5646 First Court
+Houston, MO
+
+Date of Birth: 10/02/1953
+
+Amount Due: $4874

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Martin,angela.martin647@company.com,(292) 373-4564,389-96-1031,5/6/1983,"2101 Fourth Dr",Washington,GA

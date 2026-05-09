@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Clark",
+    "email": "kevin.clark641@yahoo.com",
+    "phone": "+1 684-242-1932",
+    "ssn": "956 88 4829",
+    "dob": "06-24-1980",
+    "address": "7120 North Rd",
+    "city": "San Diego",
+    "state": "AZ"
+  }
+}

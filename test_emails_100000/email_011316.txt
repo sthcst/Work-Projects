@@ -1,0 +1,9 @@
+contact:
+  name: Anna Ramirez
+  email: anna.ramirez5637@business.net
+  phone: (740) 544-2378
+  ssn: 433 14 1842
+  dob: 05-15-1966
+  address: 5970 Sixth Ln
+  city: Seattle
+  state: MO

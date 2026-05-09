@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Ramirez
+  email: nicholas.ramirez5455@work.org
+  phone: +1 278-679-1113
+  ssn: 590 37 5636
+  dob: 07-20-1972
+  address: 461 Pine Dr
+  city: San Diego
+  state: MA

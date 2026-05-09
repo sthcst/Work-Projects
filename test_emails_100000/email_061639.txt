@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Reyes",
+    "email": "brian.reyes7647@yahoo.com",
+    "phone": "759-343-1924",
+    "ssn": "752999196",
+    "dob": "08/17/1953",
+    "address": "8090 East Ave",
+    "city": "Dallas",
+    "state": "CO"
+  }
+}

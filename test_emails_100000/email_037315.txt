@@ -1,0 +1,14 @@
+INVOICE 357739
+
+Bill To:
+Name: Andrew Miller
+Email: andrew.miller4093@company.com
+Phone: (747) 387-1198
+SSN: 374 70 2659
+
+Address: 4131 Birch Court
+Dallas, TX
+
+Date of Birth: 06-17-1968
+
+Amount Due: $8385

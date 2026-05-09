@@ -1,0 +1,14 @@
+INVOICE 730812
+
+Bill To:
+Name: Gary Hall
+Email: gary.hall272@yahoo.com
+Phone: +1 563-248-2897
+SSN: 572 32 5023
+
+Address: 6851 First Court
+Chicago, CA
+
+Date of Birth: 06/16/1955
+
+Amount Due: $4110

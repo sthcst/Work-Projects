@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Parker",
+    "email": "samantha.parker6622@work.org",
+    "phone": "894 425 6936",
+    "ssn": "866-47-2013",
+    "dob": "06/07/1982",
+    "address": "9849 Fourth Blvd",
+    "city": "Los Angeles",
+    "state": "TN"
+  }
+}

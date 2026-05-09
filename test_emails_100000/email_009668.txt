@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Jackson,richard.jackson9174@work.org,785-391-9913,050332141,5/9/2001,"8408 Second Dr",New York,MI

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Mark Garcia",
+    "email": "mark.garcia8433@company.com",
+    "phone": "(270) 826-7450",
+    "ssn": "881 39 5297",
+    "dob": "13/12/1994",
+    "address": "7616 Park Rd",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

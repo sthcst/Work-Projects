@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Dominguez",
+    "email": "jessica.dominguez6096@example.com",
+    "phone": "241 327 4230",
+    "ssn": "062716745",
+    "dob": "16/07/1951",
+    "address": "4313 Maple Ln",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lisa Perez",
+    "email": "lisa.perez7481@mail.com",
+    "phone": "(537) 960-9386",
+    "ssn": "743-51-1620",
+    "dob": "4/2/1988",
+    "address": "7578 Birch Dr",
+    "city": "Houston",
+    "state": "PA"
+  }
+}

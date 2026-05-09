@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Evans",
+    "email": "jason.evans8748@example.com",
+    "phone": "587-312-4922",
+    "ssn": "666 07 4260",
+    "dob": "27/11/1989",
+    "address": "765 North St",
+    "city": "Chicago",
+    "state": "NC"
+  }
+}

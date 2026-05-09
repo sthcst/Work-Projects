@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Campbell",
+    "email": "david.campbell4130@business.net",
+    "phone": "(887) 432-7968",
+    "ssn": "371-15-4855",
+    "dob": "8/10/1976",
+    "address": "8169 Fifth Court",
+    "city": "Philadelphia",
+    "state": "CO"
+  }
+}

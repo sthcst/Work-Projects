@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Peterson,brenda.peterson2691@mail.com,(773) 838-7992,372-20-4088,08-10-1985,"3461 Birch Court",New York,GA

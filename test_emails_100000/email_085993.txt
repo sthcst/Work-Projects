@@ -1,0 +1,14 @@
+INVOICE 879386
+
+Bill To:
+Name: Daniel Stewart
+Email: daniel.stewart7624@gmail.com
+Phone: 924 724 8390
+SSN: 601-12-1624
+
+Address: 2032 Park Ln
+Houston, TX
+
+Date of Birth: 02/05/1981
+
+Amount Due: $5536

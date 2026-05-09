@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christine Murillo,christine.murillo313@company.com,(560) 624-2788,211802130,08/28/1976,"1921 Main Ln",Dallas,NC

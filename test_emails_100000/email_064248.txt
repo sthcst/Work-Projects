@@ -1,0 +1,9 @@
+contact:
+  name: Lisa Bell
+  email: lisa.bell4935@gmail.com
+  phone: +1 417-792-6249
+  ssn: 645993100
+  dob: 02-09-1983
+  address: 2861 Sixth Way
+  city: Dallas
+  state: AZ

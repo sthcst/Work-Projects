@@ -1,0 +1,14 @@
+INVOICE 518178
+
+Bill To:
+Name: Lisa Hall
+Email: lisa.hall4729@mail.com
+Phone: 556-353-2534
+SSN: 887-93-4231
+
+Address: 5439 Fifth Court
+San Antonio, WI
+
+Date of Birth: 7/6/1976
+
+Amount Due: $7043

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Anderson,samantha.anderson2081@business.net,729 472 2214,010662103,10/11/1991,"6550 South Way",San Antonio,CA

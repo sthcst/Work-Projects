@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Johnson",
+    "email": "pamela.johnson8892@company.com",
+    "phone": "+1 208-326-4015",
+    "ssn": "498-67-5623",
+    "dob": "26/04/1965",
+    "address": "1283 First Ln",
+    "city": "Denver",
+    "state": "IL"
+  }
+}

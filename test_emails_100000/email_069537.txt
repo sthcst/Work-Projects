@@ -1,0 +1,14 @@
+INVOICE 801912
+
+Bill To:
+Name: Andrew Alvarado
+Email: andrew.alvarado2112@company.com
+Phone: +1 593-860-5276
+SSN: 298-22-3411
+
+Address: 2639 South Rd
+San Jose, MA
+
+Date of Birth: 15/07/1953
+
+Amount Due: $735

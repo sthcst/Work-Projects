@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Bell",
+    "email": "david.bell80@business.net",
+    "phone": "(494) 555-2770",
+    "ssn": "635736012",
+    "dob": "5/25/1976",
+    "address": "5869 Fifth Dr",
+    "city": "Denver",
+    "state": "PA"
+  }
+}

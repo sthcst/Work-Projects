@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Martinez",
+    "email": "matthew.martinez7118@example.com",
+    "phone": "+1 728-560-2519",
+    "ssn": "828 40 5241",
+    "dob": "08-19-2004",
+    "address": "3873 Spring Way",
+    "city": "San Antonio",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jane Nelson,jane.nelson9310@outlook.com,348-558-6699,534418291,10/04/2005,"1537 Spring Way",Philadelphia,PA

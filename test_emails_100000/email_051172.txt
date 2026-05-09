@@ -1,0 +1,14 @@
+INVOICE 995457
+
+Bill To:
+Name: Matthew Alvarado
+Email: matthew.alvarado2395@example.com
+Phone: (985) 863-7802
+SSN: 880634122
+
+Address: 4825 Main St
+San Jose, TX
+
+Date of Birth: 6/26/1951
+
+Amount Due: $5804

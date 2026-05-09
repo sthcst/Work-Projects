@@ -1,0 +1,14 @@
+INVOICE 148125
+
+Bill To:
+Name: Stephanie Gomez
+Email: stephanie.gomez7987@company.com
+Phone: +1 473-574-8620
+SSN: 918703015
+
+Address: 9056 Pine St
+Houston, CA
+
+Date of Birth: 26/11/1960
+
+Amount Due: $3424

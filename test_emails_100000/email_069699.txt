@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Carter",
+    "email": "jeffrey.carter1643@business.net",
+    "phone": "545 272 5351",
+    "ssn": "077-80-2783",
+    "dob": "4/4/1994",
+    "address": "8158 Fifth Ave",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

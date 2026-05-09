@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Thompson",
+    "email": "robert.thompson9923@work.org",
+    "phone": "812-441-9634",
+    "ssn": "210279589",
+    "dob": "15/04/1961",
+    "address": "1322 West Way",
+    "city": "Houston",
+    "state": "MA"
+  }
+}

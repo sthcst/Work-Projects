@@ -1,0 +1,14 @@
+INVOICE 950386
+
+Bill To:
+Name: Sarah Rogers
+Email: sarah.rogers8052@company.com
+Phone: +1 572-902-2955
+SSN: 841998245
+
+Address: 5104 Maple Court
+San Diego, WA
+
+Date of Birth: 06/11/1990
+
+Amount Due: $4525

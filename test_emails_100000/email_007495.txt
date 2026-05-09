@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Collins,pamela.collins8287@yahoo.com,(385) 778-3473,108 58 9447,7/27/1962,"9207 Second Blvd",San Diego,NY

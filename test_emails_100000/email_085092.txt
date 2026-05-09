@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Phillips,katherine.phillips1757@work.org,461-913-3901,178 41 7331,23/03/1951,"5978 Park Rd",Seattle,NC

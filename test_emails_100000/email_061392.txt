@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Reeves
+  email: amanda.reeves9781@gmail.com
+  phone: 288 504 7047
+  ssn: 214783299
+  dob: 04-28-1992
+  address: 8895 Elm Ave
+  city: Dallas
+  state: NC

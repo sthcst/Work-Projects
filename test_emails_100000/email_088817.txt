@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kathleen Gonzalez",
+    "email": "kathleen.gonzalez8477@gmail.com",
+    "phone": "+1 981-416-2829",
+    "ssn": "129-31-1104",
+    "dob": "08-22-1961",
+    "address": "4008 Pine Dr",
+    "city": "Houston",
+    "state": "AZ"
+  }
+}

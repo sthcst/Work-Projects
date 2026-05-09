@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Brown,michael.brown1041@mail.com,695-514-5437,234 95 6316,15/11/1991,"1696 South Ave",Denver,PA

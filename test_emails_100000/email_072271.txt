@@ -1,0 +1,9 @@
+contact:
+  name: George Jones
+  email: george.jones2740@mail.com
+  phone: (442) 572-3135
+  ssn: 532-11-6533
+  dob: 5/9/1985
+  address: 4677 Second Dr
+  city: Seattle
+  state: MA

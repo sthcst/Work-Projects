@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Phillips",
+    "email": "kevin.phillips1050@outlook.com",
+    "phone": "937 379 2591",
+    "ssn": "763112951",
+    "dob": "13/12/1987",
+    "address": "3121 East Way",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

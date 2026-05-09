@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Moore
+  email: jennifer.moore5585@business.net
+  phone: 429 814 1653
+  ssn: 200-98-6475
+  dob: 10/19/1968
+  address: 7109 Maple Ave
+  city: Dallas
+  state: NY

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Thompson,pamela.thompson8292@business.net,+1 572-714-3507,741 77 4446,01-16-1993,"8962 Sixth Way",Los Angeles,MI

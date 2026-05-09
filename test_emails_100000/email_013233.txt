@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Murillo",
+    "email": "kevin.murillo9986@company.com",
+    "phone": "386 418 3535",
+    "ssn": "852979742",
+    "dob": "10/17/1997",
+    "address": "8648 Elm Ave",
+    "city": "Philadelphia",
+    "state": "VA"
+  }
+}

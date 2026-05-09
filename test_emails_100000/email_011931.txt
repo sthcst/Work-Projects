@@ -1,0 +1,9 @@
+contact:
+  name: George Reed
+  email: george.reed6540@company.com
+  phone: +1 517-370-9085
+  ssn: 986039391
+  dob: 3/17/1969
+  address: 9879 Pine Ave
+  city: Dallas
+  state: TN

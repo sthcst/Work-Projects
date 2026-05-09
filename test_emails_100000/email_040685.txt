@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Martinez",
+    "email": "stephanie.martinez3142@mail.com",
+    "phone": "(655) 289-3796",
+    "ssn": "379-98-9260",
+    "dob": "07/22/1959",
+    "address": "3128 Fifth Way",
+    "city": "Washington",
+    "state": "TX"
+  }
+}

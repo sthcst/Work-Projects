@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Johnson",
+    "email": "david.johnson5867@business.net",
+    "phone": "(640) 571-3444",
+    "ssn": "258 05 5176",
+    "dob": "20/05/1995",
+    "address": "9550 Pine Court",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

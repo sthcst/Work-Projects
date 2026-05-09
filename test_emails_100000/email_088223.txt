@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Anderson
+  email: katherine.anderson1866@yahoo.com
+  phone: (507) 564-9277
+  ssn: 250 52 3198
+  dob: 17/01/1950
+  address: 6506 Second Way
+  city: Los Angeles
+  state: WA

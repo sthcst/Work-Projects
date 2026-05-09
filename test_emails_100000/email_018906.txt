@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Nelson,lisa.nelson7799@example.com,360-889-3790,835 58 9374,01-05-2002,"9025 North Dr",Boston,TX

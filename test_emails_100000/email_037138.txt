@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Delgado",
+    "email": "ashley.delgado2618@example.com",
+    "phone": "959 742 3559",
+    "ssn": "560385835",
+    "dob": "18/12/1995",
+    "address": "4493 Summer Dr",
+    "city": "Austin",
+    "state": "FL"
+  }
+}

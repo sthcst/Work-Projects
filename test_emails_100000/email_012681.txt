@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Thomas",
+    "email": "timothy.thomas7943@business.net",
+    "phone": "384 717 2845",
+    "ssn": "341067081",
+    "dob": "25/08/1960",
+    "address": "1123 Elm St",
+    "city": "Jacksonville",
+    "state": "NC"
+  }
+}

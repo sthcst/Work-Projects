@@ -1,0 +1,14 @@
+INVOICE 559442
+
+Bill To:
+Name: Paul Smith
+Email: paul.smith6072@company.com
+Phone: +1 899-320-8964
+SSN: 582733583
+
+Address: 9097 Second St
+Seattle, MO
+
+Date of Birth: 19/11/1990
+
+Amount Due: $2346

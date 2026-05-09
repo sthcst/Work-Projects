@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Sarah Guerrero",
+    "email": "sarah.guerrero475@company.com",
+    "phone": "781 335 4286",
+    "ssn": "593427298",
+    "dob": "08-12-1999",
+    "address": "5387 First Dr",
+    "city": "Philadelphia",
+    "state": "MO"
+  }
+}

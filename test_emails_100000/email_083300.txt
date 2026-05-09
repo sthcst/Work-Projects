@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Clark",
+    "email": "richard.clark1506@mail.com",
+    "phone": "(251) 820-2284",
+    "ssn": "957703092",
+    "dob": "05/06/1985",
+    "address": "2589 East Way",
+    "city": "Philadelphia",
+    "state": "MA"
+  }
+}

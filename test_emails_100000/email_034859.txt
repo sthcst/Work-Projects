@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey Morris",
+    "email": "jeffrey.morris9010@yahoo.com",
+    "phone": "+1 273-503-7703",
+    "ssn": "667-79-7618",
+    "dob": "20/12/1958",
+    "address": "7221 Pine Dr",
+    "city": "Washington",
+    "state": "CA"
+  }
+}

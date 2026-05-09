@@ -1,0 +1,9 @@
+contact:
+  name: Richard Anderson
+  email: richard.anderson16@yahoo.com
+  phone: 406 559 5612
+  ssn: 841-39-3874
+  dob: 4/27/1959
+  address: 1233 Sixth Rd
+  city: San Diego
+  state: CO

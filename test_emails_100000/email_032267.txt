@@ -1,0 +1,9 @@
+contact:
+  name: William Smith
+  email: william.smith5113@company.com
+  phone: 942-388-5083
+  ssn: 510 71 7009
+  dob: 6/25/1994
+  address: 9035 Cedar Ave
+  city: Philadelphia
+  state: NJ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Collins,joshua.collins2092@mail.com,+1 998-662-6518,163-64-2755,4/23/1999,"5917 Maple Ln",Boston,MO

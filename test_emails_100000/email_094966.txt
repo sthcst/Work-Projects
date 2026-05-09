@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jennifer Jones",
+    "email": "jennifer.jones3855@mail.com",
+    "phone": "489 647 4973",
+    "ssn": "155165415",
+    "dob": "12/07/1975",
+    "address": "6401 Cedar Dr",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

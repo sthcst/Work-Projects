@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Johnson",
+    "email": "gary.johnson1942@outlook.com",
+    "phone": "(773) 337-3500",
+    "ssn": "194-65-2163",
+    "dob": "03/15/1983",
+    "address": "3059 Spring Blvd",
+    "city": "Boston",
+    "state": "WA"
+  }
+}

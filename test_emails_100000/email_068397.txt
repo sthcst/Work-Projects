@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Edwards
+  email: katherine.edwards7439@yahoo.com
+  phone: +1 831-481-4567
+  ssn: 601756218
+  dob: 8/28/1972
+  address: 8238 Park Way
+  city: Washington
+  state: IL

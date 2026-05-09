@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Jackson",
+    "email": "steven.jackson4818@work.org",
+    "phone": "720 542 8685",
+    "ssn": "353304178",
+    "dob": "18/09/1997",
+    "address": "3001 Pine Ln",
+    "city": "Chicago",
+    "state": "MA"
+  }
+}

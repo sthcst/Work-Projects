@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Smith",
+    "email": "jane.smith3151@gmail.com",
+    "phone": "(370) 779-1732",
+    "ssn": "883-52-5283",
+    "dob": "20/10/1998",
+    "address": "5347 Fourth Dr",
+    "city": "Los Angeles",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Garcia",
+    "email": "angela.garcia3128@work.org",
+    "phone": "356-803-5476",
+    "ssn": "893 41 8267",
+    "dob": "07-28-1986",
+    "address": "7026 Pine Court",
+    "city": "Jacksonville",
+    "state": "VA"
+  }
+}

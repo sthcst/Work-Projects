@@ -1,0 +1,9 @@
+contact:
+  name: Gary Nunez
+  email: gary.nunez764@mail.com
+  phone: 826-683-5642
+  ssn: 203 23 5998
+  dob: 12-22-1952
+  address: 5081 First Ave
+  city: Phoenix
+  state: MA

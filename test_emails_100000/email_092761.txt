@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth White",
+    "email": "kenneth.white5556@company.com",
+    "phone": "675 809 5627",
+    "ssn": "170 85 5710",
+    "dob": "11/10/1980",
+    "address": "9175 Maple Dr",
+    "city": "Houston",
+    "state": "WA"
+  }
+}

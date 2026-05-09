@@ -1,0 +1,12 @@
+SUPPORT TICKET #41880
+
+Customer: Jane Nelson
+Email: jane.nelson4718@example.com
+Phone: 986 381 4731
+Account: 534059276
+
+Issue Description: Technical problem reported
+DOB on file: 5/15/1993
+Address: 814 South Rd, Boston, NJ
+
+Status: OPEN

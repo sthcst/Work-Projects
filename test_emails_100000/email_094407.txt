@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Brown",
+    "email": "shirley.brown1669@gmail.com",
+    "phone": "+1 599-894-9613",
+    "ssn": "671 39 5631",
+    "dob": "20/01/1979",
+    "address": "8171 Park Blvd",
+    "city": "Chicago",
+    "state": "TX"
+  }
+}

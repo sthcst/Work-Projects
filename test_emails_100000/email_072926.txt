@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Smith,steven.smith4749@company.com,946-357-5417,336665894,4/13/1984,"411 West Way",Boston,MA

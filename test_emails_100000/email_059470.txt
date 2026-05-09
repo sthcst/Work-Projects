@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Jones",
+    "email": "kevin.jones6535@yahoo.com",
+    "phone": "+1 274-478-4993",
+    "ssn": "703-77-2889",
+    "dob": "02/01/1951",
+    "address": "1035 Second Ln",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Gary Evans
+  email: gary.evans5526@mail.com
+  phone: (246) 547-7475
+  ssn: 036-82-5152
+  dob: 10/06/1971
+  address: 6359 Sixth Dr
+  city: San Antonio
+  state: WA

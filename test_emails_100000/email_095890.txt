@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Peterson
+  email: ronald.peterson5931@mail.com
+  phone: 200 274 9198
+  ssn: 567729022
+  dob: 1/26/1991
+  address: 7117 North Rd
+  city: Boston
+  state: TX

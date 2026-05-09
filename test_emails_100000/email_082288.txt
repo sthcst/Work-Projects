@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Pamela Gonzalez,pamela.gonzalez3851@company.com,994 995 3693,569 90 5463,17/03/1972,"3420 Second St",Chicago,NC

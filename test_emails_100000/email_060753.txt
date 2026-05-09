@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Bell,kevin.bell9083@company.com,(797) 320-1296,279 45 6700,09/06/1995,"5929 Main Rd",Houston,MD

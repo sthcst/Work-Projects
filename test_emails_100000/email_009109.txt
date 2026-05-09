@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Walker",
+    "email": "andrew.walker5723@yahoo.com",
+    "phone": "+1 415-312-9332",
+    "ssn": "112 89 2339",
+    "dob": "06-22-1952",
+    "address": "8156 Spring Way",
+    "city": "Seattle",
+    "state": "TX"
+  }
+}

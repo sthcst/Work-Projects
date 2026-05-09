@@ -1,0 +1,14 @@
+INVOICE 650833
+
+Bill To:
+Name: Timothy Gomez
+Email: timothy.gomez6388@work.org
+Phone: 390-474-9596
+SSN: 710-42-1367
+
+Address: 4028 Maple Court
+Dallas, WA
+
+Date of Birth: 4/21/1989
+
+Amount Due: $3175

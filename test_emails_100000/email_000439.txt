@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Ortiz",
+    "email": "maria.ortiz2019@business.net",
+    "phone": "(851) 222-4027",
+    "ssn": "146-96-4943",
+    "dob": "9/24/1994",
+    "address": "7811 Second Dr",
+    "city": "San Jose",
+    "state": "NJ"
+  }
+}

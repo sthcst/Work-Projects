@@ -1,0 +1,14 @@
+INVOICE 295586
+
+Bill To:
+Name: Jane Thomas
+Email: jane.thomas8831@outlook.com
+Phone: 580 798 2495
+SSN: 985967394
+
+Address: 2230 Park Blvd
+New York, CO
+
+Date of Birth: 12/12/1959
+
+Amount Due: $4193

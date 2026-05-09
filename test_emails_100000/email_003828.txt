@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Phillips",
+    "email": "robert.phillips1850@yahoo.com",
+    "phone": "314-983-7578",
+    "ssn": "517-72-1021",
+    "dob": "09-04-1961",
+    "address": "9594 South Dr",
+    "city": "Philadelphia",
+    "state": "FL"
+  }
+}

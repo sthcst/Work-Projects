@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Brown",
+    "email": "anthony.brown9057@yahoo.com",
+    "phone": "(344) 871-6356",
+    "ssn": "867-79-9644",
+    "dob": "11/28/2003",
+    "address": "1659 North Blvd",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

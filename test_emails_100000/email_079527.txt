@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Walker,robert.walker4748@work.org,(205) 224-2492,045-68-7404,4/27/1951,"7490 North Court",Chicago,IL

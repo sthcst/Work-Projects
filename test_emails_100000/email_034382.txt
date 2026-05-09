@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Gomez",
+    "email": "cynthia.gomez7256@yahoo.com",
+    "phone": "+1 955-212-7429",
+    "ssn": "712098084",
+    "dob": "7/2/1985",
+    "address": "4606 Cedar St",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

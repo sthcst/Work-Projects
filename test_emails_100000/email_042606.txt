@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Jones,samantha.jones9638@company.com,613-369-3483,327-77-9109,14/10/2003,"4172 Birch Court",Austin,CO

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Gonzalez,nicholas.gonzalez2377@mail.com,(478) 451-6479,168975790,10-07-1955,"1957 Sixth Blvd",Denver,NJ

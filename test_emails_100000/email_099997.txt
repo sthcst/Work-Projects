@@ -1,0 +1,14 @@
+INVOICE 486987
+
+Bill To:
+Name: Kathleen Bell
+Email: kathleen.bell2995@example.com
+Phone: 597 426 3617
+SSN: 672-97-6472
+
+Address: 172 North Dr
+Boston, TX
+
+Date of Birth: 08-07-2003
+
+Amount Due: $7832

@@ -1,0 +1,14 @@
+INVOICE 340988
+
+Bill To:
+Name: Brian Harris
+Email: brian.harris342@yahoo.com
+Phone: +1 599-367-6439
+SSN: 794-09-3807
+
+Address: 5778 Cedar St
+Seattle, TX
+
+Date of Birth: 2/9/1974
+
+Amount Due: $9644

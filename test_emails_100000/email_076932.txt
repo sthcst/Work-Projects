@@ -1,0 +1,14 @@
+INVOICE 509471
+
+Bill To:
+Name: Charles Nunez
+Email: charles.nunez515@gmail.com
+Phone: 813 265 7277
+SSN: 777014549
+
+Address: 3405 Second Blvd
+Seattle, AZ
+
+Date of Birth: 25/10/1974
+
+Amount Due: $5010

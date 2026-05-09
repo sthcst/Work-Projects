@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Rodriguez,steven.rodriguez8088@outlook.com,+1 523-472-5185,574951692,15/08/1967,"6753 Cedar Ave",Houston,CO

@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Perez
+  email: ryan.perez6603@company.com
+  phone: 744 496 5668
+  ssn: 100727627
+  dob: 03/06/1953
+  address: 6035 Second Ln
+  city: Los Angeles
+  state: TX

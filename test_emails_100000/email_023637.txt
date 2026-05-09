@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Brown",
+    "email": "samantha.brown1841@company.com",
+    "phone": "(755) 985-4339",
+    "ssn": "660-35-8142",
+    "dob": "9/24/1974",
+    "address": "6194 Fourth Ave",
+    "city": "San Jose",
+    "state": "FL"
+  }
+}

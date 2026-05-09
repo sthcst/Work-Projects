@@ -1,0 +1,14 @@
+INVOICE 113764
+
+Bill To:
+Name: Jeffrey Clark
+Email: jeffrey.clark479@yahoo.com
+Phone: +1 435-911-5976
+SSN: 931-51-7898
+
+Address: 255 Cedar Rd
+San Diego, NJ
+
+Date of Birth: 1/8/1992
+
+Amount Due: $7545

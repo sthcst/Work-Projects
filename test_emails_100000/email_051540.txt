@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Collins
+  email: kenneth.collins4370@mail.com
+  phone: +1 866-857-6835
+  ssn: 841 61 5333
+  dob: 13/04/1992
+  address: 7287 Oak Dr
+  city: San Jose
+  state: IL

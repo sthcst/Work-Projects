@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Gomez,michelle.gomez965@outlook.com,951-854-2064,214-76-5004,05-22-1985,"7501 Pine Ave",San Antonio,WI

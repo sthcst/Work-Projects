@@ -1,0 +1,9 @@
+contact:
+  name: Helen Young
+  email: helen.young1758@example.com
+  phone: +1 386-878-9927
+  ssn: 583 55 2686
+  dob: 04/04/1996
+  address: 3141 Spring Blvd
+  city: San Jose
+  state: CA

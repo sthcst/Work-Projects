@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Clark,angela.clark3188@company.com,691-245-2643,767 47 3278,10/15/1980,"5329 West Ln",San Diego,VA

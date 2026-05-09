@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joseph Nelson,joseph.nelson9726@business.net,+1 854-627-6311,151-22-9688,9/21/1987,"6470 Third Blvd",Dallas,WA

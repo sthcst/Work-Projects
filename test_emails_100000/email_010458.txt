@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Dominguez,stephanie.dominguez4552@outlook.com,+1 853-699-2161,639955286,16/01/2000,"318 Main Way",San Jose,CA

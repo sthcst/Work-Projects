@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Davis",
+    "email": "anthony.davis8130@yahoo.com",
+    "phone": "985-404-8446",
+    "ssn": "550424637",
+    "dob": "5/2/1985",
+    "address": "6111 Birch Rd",
+    "city": "Denver",
+    "state": "MO"
+  }
+}

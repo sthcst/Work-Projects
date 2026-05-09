@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Bell,angela.bell4777@yahoo.com,(418) 740-5627,823101737,10/26/1994,"5747 Cedar Court",Jacksonville,MD

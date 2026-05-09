@@ -1,0 +1,14 @@
+INVOICE 803126
+
+Bill To:
+Name: John Wilson
+Email: john.wilson2196@company.com
+Phone: 967 751 2077
+SSN: 956-57-5394
+
+Address: 6420 East Blvd
+Seattle, DC
+
+Date of Birth: 08-04-1963
+
+Amount Due: $8410

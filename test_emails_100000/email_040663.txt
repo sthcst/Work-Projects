@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Anderson,george.anderson3059@yahoo.com,+1 284-909-5888,673-50-8419,04/12/1994,"2280 Birch Dr",Austin,CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Johnson",
+    "email": "donald.johnson8084@outlook.com",
+    "phone": "715 838 6191",
+    "ssn": "590 43 1336",
+    "dob": "12/07/2005",
+    "address": "1053 West Way",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

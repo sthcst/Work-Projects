@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Wilson,ashley.wilson6685@outlook.com,421-960-6418,017-16-3994,07/08/1978,"7407 Main Rd",New York,CA

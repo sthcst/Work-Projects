@@ -1,0 +1,14 @@
+INVOICE 941912
+
+Bill To:
+Name: Nicole Rodriguez
+Email: nicole.rodriguez4061@mail.com
+Phone: (878) 570-8878
+SSN: 606 55 3015
+
+Address: 294 Elm Dr
+Houston, WA
+
+Date of Birth: 02-18-1999
+
+Amount Due: $4573

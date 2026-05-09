@@ -1,0 +1,9 @@
+contact:
+  name: Maria Martin
+  email: maria.martin632@work.org
+  phone: (722) 510-3869
+  ssn: 865 15 3714
+  dob: 16/01/1959
+  address: 971 Birch Ln
+  city: Washington
+  state: CO

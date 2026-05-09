@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Ramirez,david.ramirez7184@outlook.com,850-600-4540,536905525,03-12-1966,"1259 Cedar St",Jacksonville,TX

@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Delgado
+  email: ryan.delgado176@mail.com
+  phone: 988 200 3414
+  ssn: 943414589
+  dob: 11/02/1986
+  address: 3591 Oak Way
+  city: Los Angeles
+  state: AZ

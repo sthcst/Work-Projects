@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Sanchez,mark.sanchez1016@business.net,+1 310-483-8996,362 32 5952,4/15/1991,"1796 Oak Ave",Boston,TX

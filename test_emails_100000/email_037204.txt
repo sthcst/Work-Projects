@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Bell",
+    "email": "nicole.bell3357@outlook.com",
+    "phone": "+1 914-847-7300",
+    "ssn": "592834072",
+    "dob": "10/26/1998",
+    "address": "2948 Fourth Dr",
+    "city": "Phoenix",
+    "state": "MI"
+  }
+}

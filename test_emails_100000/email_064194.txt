@@ -1,0 +1,9 @@
+contact:
+  name: Anna Robinson
+  email: anna.robinson1271@company.com
+  phone: +1 684-690-8796
+  ssn: 500271718
+  dob: 03-06-1998
+  address: 3373 East Way
+  city: San Jose
+  state: IL

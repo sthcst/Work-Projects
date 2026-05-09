@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Guerrero",
+    "email": "charles.guerrero6265@work.org",
+    "phone": "311-685-8264",
+    "ssn": "148-93-6669",
+    "dob": "11/20/1997",
+    "address": "1688 Maple Court",
+    "city": "Jacksonville",
+    "state": "MA"
+  }
+}

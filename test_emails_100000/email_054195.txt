@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Wilson,mark.wilson1695@gmail.com,261-425-1608,577 75 7687,8/9/2000,"1819 Birch Way",Austin,MD

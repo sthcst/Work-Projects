@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Thomas
+  email: rachel.thomas9382@yahoo.com
+  phone: 999 996 6267
+  ssn: 252 31 9629
+  dob: 10/08/1978
+  address: 4505 West St
+  city: Phoenix
+  state: TN

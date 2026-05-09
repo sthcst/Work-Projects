@@ -1,0 +1,9 @@
+contact:
+  name: Anna Phillips
+  email: anna.phillips1011@company.com
+  phone: (699) 491-7745
+  ssn: 510022001
+  dob: 10/10/1957
+  address: 907 Maple St
+  city: Los Angeles
+  state: CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Jimenez",
+    "email": "christine.jimenez5537@business.net",
+    "phone": "267-594-5971",
+    "ssn": "690-86-2302",
+    "dob": "01-28-1973",
+    "address": "1410 Fifth Ln",
+    "city": "New York",
+    "state": "DC"
+  }
+}

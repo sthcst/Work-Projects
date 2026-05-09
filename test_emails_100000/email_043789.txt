@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Delgado,maria.delgado150@example.com,+1 345-381-9158,482 51 8205,3/9/1990,"8353 Maple Court",Seattle,MO

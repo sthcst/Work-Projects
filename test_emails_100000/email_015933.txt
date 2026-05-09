@@ -1,0 +1,14 @@
+INVOICE 795229
+
+Bill To:
+Name: Jane Smith
+Email: jane.smith823@gmail.com
+Phone: 715-848-2415
+SSN: 679369350
+
+Address: 621 First Court
+San Antonio, NJ
+
+Date of Birth: 01/02/1953
+
+Amount Due: $1070

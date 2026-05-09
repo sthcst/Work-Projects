@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Moore,david.moore7293@company.com,+1 597-601-6375,942 91 4253,1/24/1984,"7597 North St",Dallas,WA

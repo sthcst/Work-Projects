@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Miller,ashley.miller5113@yahoo.com,+1 288-703-9700,957 61 8590,10-04-1966,"1022 Oak Dr",Washington,NJ

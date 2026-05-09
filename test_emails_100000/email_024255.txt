@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Young",
+    "email": "brian.young9341@gmail.com",
+    "phone": "999-530-5610",
+    "ssn": "350 97 7493",
+    "dob": "06-10-1960",
+    "address": "3603 South Rd",
+    "city": "New York",
+    "state": "TN"
+  }
+}

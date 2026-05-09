@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Ramirez
+  email: nicholas.ramirez4273@company.com
+  phone: +1 424-850-2181
+  ssn: 040461441
+  dob: 04/06/1989
+  address: 5767 Fifth Way
+  city: Chicago
+  state: MD

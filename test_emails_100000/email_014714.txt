@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+George Davis,george.davis208@gmail.com,+1 845-559-1204,965076361,09-24-1998,"6763 Fourth Blvd",Dallas,CA

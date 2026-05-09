@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Lopez,lauren.lopez4134@yahoo.com,550 273 7537,883-62-5469,6/25/2000,"2879 East Dr",Chicago,TX

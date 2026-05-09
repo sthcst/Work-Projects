@@ -1,0 +1,12 @@
+SUPPORT TICKET #50156
+
+Customer: Kenneth Wilson
+Email: kenneth.wilson112@example.com
+Phone: 984 530 5338
+Account: 403849933
+
+Issue Description: Technical problem reported
+DOB on file: 3/3/1970
+Address: 7635 Spring Ave, Philadelphia, TX
+
+Status: OPEN

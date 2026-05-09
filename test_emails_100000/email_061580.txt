@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Phillips,james.phillips5760@mail.com,+1 756-293-5824,493 62 4523,02/06/1996,"4252 Second Blvd",Chicago,TX

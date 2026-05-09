@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Evans,lauren.evans6704@yahoo.com,989 473 4294,742-70-9335,06/24/1953,"8476 Fifth St",Seattle,WA

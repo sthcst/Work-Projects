@@ -1,0 +1,14 @@
+INVOICE 502055
+
+Bill To:
+Name: Daniel Rodriguez
+Email: daniel.rodriguez2711@work.org
+Phone: 397-833-7037
+SSN: 444-02-6012
+
+Address: 1617 Sixth Blvd
+Los Angeles, OH
+
+Date of Birth: 11/08/1983
+
+Amount Due: $5811

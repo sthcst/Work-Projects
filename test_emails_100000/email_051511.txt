@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Thomas",
+    "email": "james.thomas6593@work.org",
+    "phone": "372 913 5535",
+    "ssn": "513 57 9032",
+    "dob": "03/02/1972",
+    "address": "7786 East Blvd",
+    "city": "Chicago",
+    "state": "MA"
+  }
+}

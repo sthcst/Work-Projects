@@ -1,0 +1,14 @@
+INVOICE 567629
+
+Bill To:
+Name: Daniel Reed
+Email: daniel.reed7194@gmail.com
+Phone: +1 454-906-4652
+SSN: 355292531
+
+Address: 2335 Maple Ave
+New York, DC
+
+Date of Birth: 02/07/1969
+
+Amount Due: $8341

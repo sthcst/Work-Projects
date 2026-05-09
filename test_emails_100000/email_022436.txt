@@ -1,0 +1,9 @@
+contact:
+  name: Brian Parker
+  email: brian.parker6603@company.com
+  phone: +1 745-969-8507
+  ssn: 128058979
+  dob: 8/7/1988
+  address: 2065 Main Blvd
+  city: Philadelphia
+  state: GA

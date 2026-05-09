@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Anderson",
+    "email": "stephanie.anderson8084@mail.com",
+    "phone": "647-602-6044",
+    "ssn": "932-25-6913",
+    "dob": "01/06/1994",
+    "address": "3735 Summer Way",
+    "city": "Washington",
+    "state": "DC"
+  }
+}

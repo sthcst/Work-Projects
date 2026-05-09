@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Edwards
+  email: rachel.edwards8555@business.net
+  phone: +1 511-412-8048
+  ssn: 970 60 3984
+  dob: 23/10/1984
+  address: 6068 Second Dr
+  city: Seattle
+  state: NY

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Matthew Cooper,matthew.cooper3900@gmail.com,553-862-8693,222625477,05/04/1958,"5280 North Court",Chicago,WA

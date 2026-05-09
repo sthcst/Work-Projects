@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Campbell",
+    "email": "joshua.campbell2955@company.com",
+    "phone": "(885) 202-1560",
+    "ssn": "964-33-6350",
+    "dob": "4/7/1979",
+    "address": "6272 West Ave",
+    "city": "New York",
+    "state": "TX"
+  }
+}

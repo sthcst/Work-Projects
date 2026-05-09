@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Hall",
+    "email": "christine.hall1197@yahoo.com",
+    "phone": "407-617-9089",
+    "ssn": "993-81-7969",
+    "dob": "18/05/2000",
+    "address": "9670 Oak Ave",
+    "city": "Austin",
+    "state": "PA"
+  }
+}

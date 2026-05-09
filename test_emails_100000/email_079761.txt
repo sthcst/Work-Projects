@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Andrew Nunez",
+    "email": "andrew.nunez7898@mail.com",
+    "phone": "736 451 4191",
+    "ssn": "960783204",
+    "dob": "02/20/1975",
+    "address": "748 Cedar Rd",
+    "city": "Washington",
+    "state": "PA"
+  }
+}

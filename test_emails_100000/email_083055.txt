@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Flores",
+    "email": "maria.flores9786@mail.com",
+    "phone": "742-658-5988",
+    "ssn": "228 90 2122",
+    "dob": "04-05-1996",
+    "address": "7352 Spring Court",
+    "city": "San Antonio",
+    "state": "AZ"
+  }
+}

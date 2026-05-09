@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Peterson,lauren.peterson2144@company.com,(439) 376-9503,691 51 4204,11/02/1983,"3096 Fourth Dr",Houston,NC

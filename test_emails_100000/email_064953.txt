@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Hernandez
+  email: daniel.hernandez4023@yahoo.com
+  phone: 778 567 2242
+  ssn: 203-17-3544
+  dob: 05/19/1960
+  address: 4679 Pine Court
+  city: San Antonio
+  state: DC

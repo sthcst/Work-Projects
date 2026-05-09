@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Nelson",
+    "email": "katherine.nelson6383@example.com",
+    "phone": "+1 341-964-6709",
+    "ssn": "201-86-7826",
+    "dob": "07/17/1968",
+    "address": "7264 Fifth Ln",
+    "city": "San Antonio",
+    "state": "MA"
+  }
+}

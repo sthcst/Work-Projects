@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Gomez,william.gomez8999@business.net,(650) 469-8303,564-96-3357,10/18/1977,"5142 Main Ln",Austin,PA

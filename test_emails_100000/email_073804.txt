@@ -1,0 +1,9 @@
+contact:
+  name: George Edwards
+  email: george.edwards2172@mail.com
+  phone: (464) 471-3808
+  ssn: 840302918
+  dob: 1/6/1970
+  address: 464 East St
+  city: Philadelphia
+  state: NY

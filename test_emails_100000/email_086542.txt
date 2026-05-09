@@ -1,0 +1,14 @@
+INVOICE 825016
+
+Bill To:
+Name: Daniel Young
+Email: daniel.young9063@mail.com
+Phone: 657 614 2597
+SSN: 125781328
+
+Address: 6963 Cedar Rd
+Denver, OH
+
+Date of Birth: 02/02/1989
+
+Amount Due: $5896

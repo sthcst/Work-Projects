@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Hernandez
+  email: sarah.hernandez501@gmail.com
+  phone: +1 568-527-4521
+  ssn: 994-26-1940
+  dob: 21/02/1966
+  address: 2139 South St
+  city: San Jose
+  state: PA

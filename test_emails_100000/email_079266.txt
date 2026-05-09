@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Collins",
+    "email": "samantha.collins1885@outlook.com",
+    "phone": "563-283-1938",
+    "ssn": "772798170",
+    "dob": "5/18/1991",
+    "address": "2702 Cedar Ln",
+    "city": "Philadelphia",
+    "state": "MD"
+  }
+}

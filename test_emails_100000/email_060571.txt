@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Morgan,jessica.morgan8174@company.com,(319) 691-2736,618726251,10-19-1970,"4793 Maple Dr",Seattle,MI

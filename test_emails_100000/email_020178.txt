@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Guerrero",
+    "email": "richard.guerrero3270@outlook.com",
+    "phone": "415-956-7180",
+    "ssn": "907 10 8438",
+    "dob": "11/11/1965",
+    "address": "6972 West Court",
+    "city": "Denver",
+    "state": "OH"
+  }
+}

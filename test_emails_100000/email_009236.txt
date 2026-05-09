@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Nelson",
+    "email": "samantha.nelson9815@yahoo.com",
+    "phone": "727 853 7748",
+    "ssn": "717421808",
+    "dob": "1/16/1968",
+    "address": "5627 East Court",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

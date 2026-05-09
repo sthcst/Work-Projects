@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Ortiz,angela.ortiz9096@outlook.com,893-362-9559,656-75-4751,06/07/1987,"7886 Summer Court",Dallas,NC

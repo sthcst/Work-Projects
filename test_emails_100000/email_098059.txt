@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Serrano,jessica.serrano4429@outlook.com,(246) 604-4079,721609031,11/18/1988,"1832 Fifth Rd",Denver,WA

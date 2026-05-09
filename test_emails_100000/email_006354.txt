@@ -1,0 +1,14 @@
+INVOICE 801508
+
+Bill To:
+Name: Emma Morris
+Email: emma.morris8004@yahoo.com
+Phone: 992 426 3852
+SSN: 006-03-4850
+
+Address: 4905 North Rd
+Phoenix, OH
+
+Date of Birth: 04/14/2005
+
+Amount Due: $2268

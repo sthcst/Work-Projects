@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Lopez",
+    "email": "kimberly.lopez6931@example.com",
+    "phone": "(919) 703-9322",
+    "ssn": "038119719",
+    "dob": "06/09/1999",
+    "address": "6966 Fifth Ln",
+    "city": "San Jose",
+    "state": "CA"
+  }
+}

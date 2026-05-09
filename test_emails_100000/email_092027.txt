@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Jimenez",
+    "email": "kenneth.jimenez2835@example.com",
+    "phone": "(578) 476-4852",
+    "ssn": "405907733",
+    "dob": "04/12/1990",
+    "address": "7109 East St",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

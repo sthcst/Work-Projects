@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Gomez,lauren.gomez9529@example.com,665-264-5403,104-10-3747,07-11-1952,"3880 North Dr",Denver,NJ

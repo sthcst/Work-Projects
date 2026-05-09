@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Hall
+  email: nicholas.hall6740@work.org
+  phone: 260-679-6188
+  ssn: 471 30 5068
+  dob: 10/07/1989
+  address: 9234 First Blvd
+  city: New York
+  state: IL

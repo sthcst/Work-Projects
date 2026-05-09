@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jennifer Reed,jennifer.reed8312@yahoo.com,(215) 877-2518,677 01 5343,10/3/1965,"4241 Pine St",Houston,MO

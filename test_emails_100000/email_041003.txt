@@ -1,0 +1,9 @@
+contact:
+  name: Steven Rodriguez
+  email: steven.rodriguez1234@gmail.com
+  phone: +1 541-793-1889
+  ssn: 546-28-1863
+  dob: 06-23-1979
+  address: 5194 Main St
+  city: Austin
+  state: CA

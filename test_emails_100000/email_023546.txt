@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Brown,angela.brown6644@mail.com,+1 980-330-9133,333 07 5462,11/20/1981,"9624 Summer Court",San Jose,AZ

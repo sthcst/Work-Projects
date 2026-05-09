@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Bell,david.bell2129@mail.com,573-453-3310,606722849,06-05-1986,"5612 Second Ln",San Diego,MA

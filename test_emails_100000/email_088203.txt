@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Ashley Stewart,ashley.stewart6153@outlook.com,475-543-9951,092-60-8056,07/10/1956,"6839 Sixth Way",Washington,MD

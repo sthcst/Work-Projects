@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Gonzalez",
+    "email": "steven.gonzalez6389@work.org",
+    "phone": "(559) 891-8435",
+    "ssn": "242917024",
+    "dob": "11/18/1964",
+    "address": "7466 Sixth Court",
+    "city": "Phoenix",
+    "state": "MI"
+  }
+}

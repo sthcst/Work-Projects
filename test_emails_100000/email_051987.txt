@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Davis
+  email: rachel.davis3848@example.com
+  phone: 352-515-6769
+  ssn: 561 68 5857
+  dob: 03/12/1953
+  address: 6718 South Court
+  city: Jacksonville
+  state: NC

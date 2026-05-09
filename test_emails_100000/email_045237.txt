@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Hall",
+    "email": "jacob.hall22@example.com",
+    "phone": "+1 645-833-8069",
+    "ssn": "515-01-2464",
+    "dob": "03-25-1963",
+    "address": "4024 Park Court",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}

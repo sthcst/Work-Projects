@@ -1,0 +1,12 @@
+SUPPORT TICKET #63312
+
+Customer: Anna Clark
+Email: anna.clark2497@example.com
+Phone: 570-235-4272
+Account: 513-54-4007
+
+Issue Description: Technical problem reported
+DOB on file: 23/08/1993
+Address: 5705 South Ave, Philadelphia, AZ
+
+Status: OPEN

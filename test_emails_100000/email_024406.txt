@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Harris",
+    "email": "robert.harris1918@gmail.com",
+    "phone": "(669) 302-7319",
+    "ssn": "235 44 5157",
+    "dob": "9/2/1956",
+    "address": "9392 Park St",
+    "city": "Los Angeles",
+    "state": "PA"
+  }
+}

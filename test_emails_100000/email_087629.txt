@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Edwards",
+    "email": "katherine.edwards1252@company.com",
+    "phone": "275 280 6166",
+    "ssn": "806-76-8634",
+    "dob": "03-28-1958",
+    "address": "6064 Maple Rd",
+    "city": "New York",
+    "state": "DC"
+  }
+}

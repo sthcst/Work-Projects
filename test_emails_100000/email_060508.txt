@@ -1,0 +1,9 @@
+contact:
+  name: Paul Stewart
+  email: paul.stewart2883@mail.com
+  phone: 218-909-5482
+  ssn: 311 35 4856
+  dob: 07/07/1986
+  address: 9188 Third Dr
+  city: Denver
+  state: CA

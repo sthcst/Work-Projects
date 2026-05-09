@@ -1,0 +1,9 @@
+contact:
+  name: Christine Nunez
+  email: christine.nunez5617@gmail.com
+  phone: +1 860-379-3429
+  ssn: 634428904
+  dob: 24/03/1990
+  address: 2912 Sixth Dr
+  city: New York
+  state: IL

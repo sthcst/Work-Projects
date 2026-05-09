@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Walker",
+    "email": "anthony.walker4138@outlook.com",
+    "phone": "+1 303-991-4182",
+    "ssn": "688-70-1410",
+    "dob": "05/24/2001",
+    "address": "8355 Fifth Ave",
+    "city": "San Antonio",
+    "state": "CO"
+  }
+}

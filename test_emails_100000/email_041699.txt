@@ -1,0 +1,14 @@
+INVOICE 840523
+
+Bill To:
+Name: Nicholas Lewis
+Email: nicholas.lewis6706@example.com
+Phone: +1 231-266-8349
+SSN: 858918756
+
+Address: 7760 Maple Court
+Austin, AZ
+
+Date of Birth: 4/17/1961
+
+Amount Due: $6624

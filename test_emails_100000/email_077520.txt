@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joseph Ramirez",
+    "email": "joseph.ramirez7629@company.com",
+    "phone": "446-692-7145",
+    "ssn": "315451988",
+    "dob": "10-21-1966",
+    "address": "548 First Blvd",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}

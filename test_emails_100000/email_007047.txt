@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Dominguez",
+    "email": "gary.dominguez2110@gmail.com",
+    "phone": "638 680 3904",
+    "ssn": "785492536",
+    "dob": "1/15/1960",
+    "address": "1441 Birch Rd",
+    "city": "Phoenix",
+    "state": "TX"
+  }
+}

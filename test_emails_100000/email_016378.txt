@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jane Walker",
+    "email": "jane.walker9362@yahoo.com",
+    "phone": "+1 436-947-3477",
+    "ssn": "675-83-7926",
+    "dob": "03/22/1976",
+    "address": "923 First Ln",
+    "city": "Boston",
+    "state": "GA"
+  }
+}

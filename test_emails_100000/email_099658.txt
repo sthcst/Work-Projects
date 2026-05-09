@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Sanchez",
+    "email": "pamela.sanchez6521@yahoo.com",
+    "phone": "+1 312-716-2317",
+    "ssn": "588 77 3038",
+    "dob": "10/10/1955",
+    "address": "9596 Fourth Dr",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

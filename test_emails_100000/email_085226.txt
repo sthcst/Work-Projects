@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kimberly Brown",
+    "email": "kimberly.brown2361@outlook.com",
+    "phone": "569 200 7827",
+    "ssn": "774-56-1198",
+    "dob": "13/03/1988",
+    "address": "7317 Maple Way",
+    "city": "San Diego",
+    "state": "DC"
+  }
+}

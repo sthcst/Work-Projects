@@ -1,0 +1,14 @@
+INVOICE 755643
+
+Bill To:
+Name: Sarah Bell
+Email: sarah.bell4764@work.org
+Phone: 950 739 3135
+SSN: 013863411
+
+Address: 991 Second Ave
+New York, MA
+
+Date of Birth: 27/10/1970
+
+Amount Due: $8138

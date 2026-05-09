@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Lewis,samantha.lewis6561@yahoo.com,245 731 4418,523 67 5719,09/27/1969,"8764 Pine Ln",Austin,CO

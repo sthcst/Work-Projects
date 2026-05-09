@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Delgado
+  email: samantha.delgado5768@yahoo.com
+  phone: 883 322 7016
+  ssn: 568 02 7892
+  dob: 11/3/1993
+  address: 138 Fifth Dr
+  city: Los Angeles
+  state: CO

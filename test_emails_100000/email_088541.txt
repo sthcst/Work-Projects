@@ -1,0 +1,9 @@
+contact:
+  name: Amanda Davis
+  email: amanda.davis4800@outlook.com
+  phone: 582-416-8583
+  ssn: 859-58-8308
+  dob: 03/09/1968
+  address: 9450 Elm Blvd
+  city: San Diego
+  state: MA

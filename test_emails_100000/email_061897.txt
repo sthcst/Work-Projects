@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emily Clark",
+    "email": "emily.clark2910@gmail.com",
+    "phone": "276-892-3810",
+    "ssn": "251-11-4549",
+    "dob": "19/12/1966",
+    "address": "130 Birch Way",
+    "city": "Seattle",
+    "state": "OH"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Collins
+  email: jennifer.collins6475@work.org
+  phone: 326 458 3667
+  ssn: 851536474
+  dob: 11-15-2004
+  address: 6523 Birch Ln
+  city: San Jose
+  state: FL

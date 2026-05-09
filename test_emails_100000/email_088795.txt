@@ -1,0 +1,9 @@
+contact:
+  name: Timothy Nunez
+  email: timothy.nunez2828@gmail.com
+  phone: (298) 236-1386
+  ssn: 877 98 5420
+  dob: 07-19-1951
+  address: 2948 East Way
+  city: Seattle
+  state: GA

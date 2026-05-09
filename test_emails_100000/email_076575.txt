@@ -1,0 +1,9 @@
+contact:
+  name: George Lewis
+  email: george.lewis2585@work.org
+  phone: (484) 745-9499
+  ssn: 254-82-9615
+  dob: 7/24/1950
+  address: 1846 North Ave
+  city: Chicago
+  state: MI

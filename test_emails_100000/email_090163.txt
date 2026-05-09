@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Martin",
+    "email": "cynthia.martin6579@example.com",
+    "phone": "897-569-1843",
+    "ssn": "642569505",
+    "dob": "12-04-1974",
+    "address": "9088 Spring Dr",
+    "city": "Los Angeles",
+    "state": "AZ"
+  }
+}

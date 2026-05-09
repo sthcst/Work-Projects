@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Delgado",
+    "email": "stephanie.delgado8325@work.org",
+    "phone": "356-914-1364",
+    "ssn": "184-11-5291",
+    "dob": "22/10/1954",
+    "address": "524 South Way",
+    "city": "New York",
+    "state": "NJ"
+  }
+}

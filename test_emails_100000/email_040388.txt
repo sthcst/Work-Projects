@@ -1,0 +1,9 @@
+contact:
+  name: Jason Campbell
+  email: jason.campbell3086@example.com
+  phone: (943) 689-7231
+  ssn: 056124812
+  dob: 1/18/1953
+  address: 3129 North Ln
+  city: Denver
+  state: AZ

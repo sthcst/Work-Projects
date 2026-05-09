@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Stewart
+  email: joseph.stewart599@outlook.com
+  phone: 443-668-7644
+  ssn: 215096867
+  dob: 10/04/1974
+  address: 2451 South Dr
+  city: Washington
+  state: CA

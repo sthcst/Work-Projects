@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Perez",
+    "email": "donald.perez7474@company.com",
+    "phone": "941-464-7565",
+    "ssn": "706188969",
+    "dob": "9/4/2003",
+    "address": "1817 Fifth Rd",
+    "city": "Washington",
+    "state": "AZ"
+  }
+}

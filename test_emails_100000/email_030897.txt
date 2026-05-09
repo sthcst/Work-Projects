@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Gomez,joshua.gomez2373@example.com,(868) 629-8713,005 66 2163,11/16/1961,"260 Summer Court",Seattle,MD

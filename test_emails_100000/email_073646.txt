@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Lee",
+    "email": "nicole.lee8084@business.net",
+    "phone": "433 333 6352",
+    "ssn": "237 91 7344",
+    "dob": "02/11/1954",
+    "address": "6625 Pine St",
+    "city": "San Jose",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Rodriguez,andrew.rodriguez4211@outlook.com,(251) 475-8948,135026544,10/03/1988,"1862 Elm St",Dallas,MA

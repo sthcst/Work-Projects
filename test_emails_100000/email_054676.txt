@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Wilson",
+    "email": "david.wilson2142@example.com",
+    "phone": "(345) 707-7140",
+    "ssn": "969-76-5635",
+    "dob": "01/20/1964",
+    "address": "7955 West Rd",
+    "city": "New York",
+    "state": "CA"
+  }
+}

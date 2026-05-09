@@ -1,0 +1,9 @@
+contact:
+  name: Rachel White
+  email: rachel.white5368@business.net
+  phone: (606) 920-1351
+  ssn: 483516068
+  dob: 10/15/1971
+  address: 1691 Elm St
+  city: Phoenix
+  state: MI

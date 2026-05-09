@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Reyes",
+    "email": "shirley.reyes4518@work.org",
+    "phone": "567-508-6976",
+    "ssn": "875-91-8863",
+    "dob": "05/03/1993",
+    "address": "8032 Fifth Ave",
+    "city": "Phoenix",
+    "state": "GA"
+  }
+}

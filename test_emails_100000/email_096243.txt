@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Cooper",
+    "email": "emma.cooper1010@work.org",
+    "phone": "712 564 1373",
+    "ssn": "707 66 2269",
+    "dob": "18/11/1956",
+    "address": "7457 Summer Rd",
+    "city": "Denver",
+    "state": "WI"
+  }
+}

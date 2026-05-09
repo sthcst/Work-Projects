@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Nelson",
+    "email": "samantha.nelson9411@work.org",
+    "phone": "262-369-7467",
+    "ssn": "772 28 9933",
+    "dob": "05-12-1962",
+    "address": "55 Spring St",
+    "city": "Boston",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: George Brown
+  email: george.brown735@business.net
+  phone: 210 564 9886
+  ssn: 159 95 2111
+  dob: 11/12/1986
+  address: 9822 Main Blvd
+  city: New York
+  state: TX

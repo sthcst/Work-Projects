@@ -1,0 +1,14 @@
+INVOICE 222742
+
+Bill To:
+Name: Amanda Stewart
+Email: amanda.stewart973@mail.com
+Phone: 805 944 9453
+SSN: 466304987
+
+Address: 5729 First Dr
+Seattle, TX
+
+Date of Birth: 12-03-1966
+
+Amount Due: $4213

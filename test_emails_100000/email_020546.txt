@@ -1,0 +1,14 @@
+INVOICE 343463
+
+Bill To:
+Name: Paul Reyes
+Email: paul.reyes4611@company.com
+Phone: 505 876 1625
+SSN: 207 38 4981
+
+Address: 5572 Park Ave
+San Jose, FL
+
+Date of Birth: 06/11/1965
+
+Amount Due: $9504

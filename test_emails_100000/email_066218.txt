@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine White",
+    "email": "katherine.white7262@example.com",
+    "phone": "(229) 728-4490",
+    "ssn": "380193376",
+    "dob": "12/10/1997",
+    "address": "6042 Pine Court",
+    "city": "Boston",
+    "state": "TX"
+  }
+}

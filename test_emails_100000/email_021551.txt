@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Reyes",
+    "email": "nicole.reyes5803@outlook.com",
+    "phone": "601 758 6872",
+    "ssn": "998 20 3835",
+    "dob": "06/03/1963",
+    "address": "4813 Oak Dr",
+    "city": "Dallas",
+    "state": "AZ"
+  }
+}

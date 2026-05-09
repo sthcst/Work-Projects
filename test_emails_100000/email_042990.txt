@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Guerrero,katherine.guerrero6560@company.com,+1 291-877-2785,722044303,09/06/2003,"8302 Oak Ave",San Diego,MA

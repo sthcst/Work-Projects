@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Clark,charles.clark3728@yahoo.com,397 632 8360,132272268,01-14-1961,"9567 Fourth Way",San Diego,TX

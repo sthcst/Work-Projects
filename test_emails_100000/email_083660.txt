@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Robert Hall,robert.hall7617@example.com,213 380 6672,383099258,04/15/1954,"3474 Main Blvd",Houston,TX

@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Hernandez
+  email: shirley.hernandez731@outlook.com
+  phone: +1 372-855-5290
+  ssn: 630 83 2215
+  dob: 12/1/1985
+  address: 1506 Third Blvd
+  city: Seattle
+  state: AZ

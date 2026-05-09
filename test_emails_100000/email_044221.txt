@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Peterson,angela.peterson1870@example.com,986 376 5748,958924163,03/04/1999,"2597 South Rd",Dallas,FL

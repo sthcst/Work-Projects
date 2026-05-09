@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Romero",
+    "email": "lauren.romero7886@yahoo.com",
+    "phone": "543 653 2878",
+    "ssn": "353 75 7919",
+    "dob": "2/4/1967",
+    "address": "1749 Main Rd",
+    "city": "Denver",
+    "state": "NC"
+  }
+}

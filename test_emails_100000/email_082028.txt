@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Wilson
+  email: ryan.wilson8640@business.net
+  phone: 709-354-7886
+  ssn: 881 14 5395
+  dob: 19/03/1984
+  address: 3507 Pine Ave
+  city: Dallas
+  state: PA

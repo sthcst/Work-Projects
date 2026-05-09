@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Lauren Rodriguez",
+    "email": "lauren.rodriguez9665@company.com",
+    "phone": "(227) 724-8335",
+    "ssn": "235-77-3953",
+    "dob": "4/12/1954",
+    "address": "5716 Park Way",
+    "city": "Houston",
+    "state": "OH"
+  }
+}

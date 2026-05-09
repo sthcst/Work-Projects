@@ -1,0 +1,14 @@
+INVOICE 997672
+
+Bill To:
+Name: Lauren Phillips
+Email: lauren.phillips8104@company.com
+Phone: (756) 511-1282
+SSN: 432 36 3135
+
+Address: 3306 Elm Rd
+Philadelphia, WA
+
+Date of Birth: 06/19/1979
+
+Amount Due: $848

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Paul Gonzalez",
+    "email": "paul.gonzalez5061@example.com",
+    "phone": "307-517-8961",
+    "ssn": "412509802",
+    "dob": "8/2/1967",
+    "address": "6579 Oak Court",
+    "city": "Jacksonville",
+    "state": "GA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Garcia",
+    "email": "angela.garcia9990@outlook.com",
+    "phone": "549-204-8709",
+    "ssn": "643 11 9429",
+    "dob": "06/26/1973",
+    "address": "9727 Oak Dr",
+    "city": "Dallas",
+    "state": "PA"
+  }
+}

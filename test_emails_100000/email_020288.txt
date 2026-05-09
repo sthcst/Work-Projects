@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Williams",
+    "email": "michael.williams9975@business.net",
+    "phone": "(913) 326-3838",
+    "ssn": "929-27-1195",
+    "dob": "16/02/2001",
+    "address": "3306 Park Blvd",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

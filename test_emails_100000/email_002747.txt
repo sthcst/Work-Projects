@@ -1,0 +1,14 @@
+INVOICE 860104
+
+Bill To:
+Name: Emma Campbell
+Email: emma.campbell1226@mail.com
+Phone: 685 960 3231
+SSN: 125-87-5063
+
+Address: 9556 East Ln
+Los Angeles, PA
+
+Date of Birth: 12/20/1955
+
+Amount Due: $2990

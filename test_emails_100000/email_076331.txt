@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Cooper
+  email: brenda.cooper1542@mail.com
+  phone: 920 626 8727
+  ssn: 847 24 1640
+  dob: 14/10/1959
+  address: 5329 Main Rd
+  city: New York
+  state: NY

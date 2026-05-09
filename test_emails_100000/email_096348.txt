@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Evans",
+    "email": "emma.evans6175@mail.com",
+    "phone": "847-216-8047",
+    "ssn": "945-20-1797",
+    "dob": "5/10/1954",
+    "address": "4151 Cedar Way",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Hernandez,brian.hernandez3360@example.com,(518) 885-2747,083-51-3932,12/7/1957,"7277 Oak Way",New York,DC

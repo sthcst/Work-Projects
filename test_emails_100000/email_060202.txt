@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Delgado
+  email: lauren.delgado8623@business.net
+  phone: 470 387 1231
+  ssn: 170952329
+  dob: 26/06/1953
+  address: 9729 Pine Way
+  city: Seattle
+  state: MI

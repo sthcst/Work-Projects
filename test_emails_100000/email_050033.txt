@@ -1,0 +1,9 @@
+contact:
+  name: George Young
+  email: george.young1200@example.com
+  phone: 660 480 4727
+  ssn: 186 49 7073
+  dob: 4/20/2001
+  address: 9968 Fifth St
+  city: San Jose
+  state: NY

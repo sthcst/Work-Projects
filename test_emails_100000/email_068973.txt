@@ -1,0 +1,9 @@
+contact:
+  name: George Rodriguez
+  email: george.rodriguez6192@mail.com
+  phone: (373) 329-1342
+  ssn: 328606334
+  dob: 1/11/1972
+  address: 1363 Oak Rd
+  city: Washington
+  state: MA

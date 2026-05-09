@@ -1,0 +1,9 @@
+contact:
+  name: Christopher White
+  email: christopher.white4006@outlook.com
+  phone: 860 619 4610
+  ssn: 332278831
+  dob: 06/03/1964
+  address: 9880 Main Way
+  city: Phoenix
+  state: WI

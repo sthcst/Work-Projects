@@ -1,0 +1,14 @@
+INVOICE 102414
+
+Bill To:
+Name: Brenda Miller
+Email: brenda.miller2082@mail.com
+Phone: (890) 653-3939
+SSN: 816038433
+
+Address: 2980 Fourth Rd
+Austin, DC
+
+Date of Birth: 10/06/1957
+
+Amount Due: $604

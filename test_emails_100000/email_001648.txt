@@ -1,0 +1,14 @@
+INVOICE 729776
+
+Bill To:
+Name: Robert Romero
+Email: robert.romero7466@company.com
+Phone: (647) 594-7748
+SSN: 028739184
+
+Address: 5498 Main St
+San Jose, TX
+
+Date of Birth: 10-16-1982
+
+Amount Due: $6649

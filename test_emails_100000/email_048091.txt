@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Robinson",
+    "email": "jessica.robinson487@example.com",
+    "phone": "393-472-6756",
+    "ssn": "781 27 5094",
+    "dob": "09/05/1993",
+    "address": "477 Second Blvd",
+    "city": "Chicago",
+    "state": "FL"
+  }
+}

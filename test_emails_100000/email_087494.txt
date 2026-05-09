@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lisa Brown,lisa.brown1831@work.org,(505) 952-8566,330 47 9626,04/10/1987,"9526 South St",New York,NJ

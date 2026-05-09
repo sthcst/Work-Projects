@@ -1,0 +1,14 @@
+INVOICE 691357
+
+Bill To:
+Name: Emily Brown
+Email: emily.brown6756@gmail.com
+Phone: (965) 329-4049
+SSN: 443573207
+
+Address: 7800 Maple Dr
+Chicago, IL
+
+Date of Birth: 21/06/1983
+
+Amount Due: $2506

@@ -1,0 +1,12 @@
+SUPPORT TICKET #19226
+
+Customer: Shirley Thomas
+Email: shirley.thomas18@example.com
+Phone: 958-425-6350
+Account: 871-85-4973
+
+Issue Description: Technical problem reported
+DOB on file: 07-24-1980
+Address: 4509 Fourth Rd, Jacksonville, WA
+
+Status: OPEN

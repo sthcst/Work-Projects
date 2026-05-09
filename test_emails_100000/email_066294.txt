@@ -1,0 +1,9 @@
+contact:
+  name: Edward Brown
+  email: edward.brown1406@mail.com
+  phone: 229-475-7603
+  ssn: 065398793
+  dob: 1/12/1982
+  address: 6390 Maple Dr
+  city: Denver
+  state: FL

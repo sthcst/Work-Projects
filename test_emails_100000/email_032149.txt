@@ -1,0 +1,14 @@
+INVOICE 184471
+
+Bill To:
+Name: Andrew Smith
+Email: andrew.smith7733@outlook.com
+Phone: (922) 483-2826
+SSN: 238-73-9449
+
+Address: 9487 North Rd
+San Antonio, TX
+
+Date of Birth: 06/11/1961
+
+Amount Due: $758

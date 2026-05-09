@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Lee",
+    "email": "helen.lee6087@example.com",
+    "phone": "620 480 7096",
+    "ssn": "302166389",
+    "dob": "07/02/1951",
+    "address": "6240 Sixth Court",
+    "city": "San Jose",
+    "state": "NJ"
+  }
+}

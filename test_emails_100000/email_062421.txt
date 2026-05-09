@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Guerrero
+  email: jennifer.guerrero2713@company.com
+  phone: (604) 804-4619
+  ssn: 652-51-9272
+  dob: 03-14-1952
+  address: 826 North Ave
+  city: Austin
+  state: WA

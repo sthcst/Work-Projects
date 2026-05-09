@@ -1,0 +1,9 @@
+contact:
+  name: Nicole Peterson
+  email: nicole.peterson2345@outlook.com
+  phone: (261) 300-1660
+  ssn: 815 98 3802
+  dob: 1/26/1991
+  address: 7856 Third Ave
+  city: Houston
+  state: FL

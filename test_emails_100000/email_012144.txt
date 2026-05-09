@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Cooper,richard.cooper256@example.com,838-405-5729,093-12-2914,10/28/1990,"3778 South Dr",Philadelphia,TX

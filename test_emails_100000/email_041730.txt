@@ -1,0 +1,9 @@
+contact:
+  name: Joshua Gomez
+  email: joshua.gomez3825@work.org
+  phone: 647 421 5759
+  ssn: 342-24-6579
+  dob: 2/4/1951
+  address: 4227 Birch Way
+  city: Jacksonville
+  state: DC

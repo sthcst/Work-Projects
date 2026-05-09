@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Dominguez
+  email: jennifer.dominguez3879@outlook.com
+  phone: 927 247 6577
+  ssn: 450544755
+  dob: 28/03/1995
+  address: 813 Fifth Blvd
+  city: Washington
+  state: PA

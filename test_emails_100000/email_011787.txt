@@ -1,0 +1,9 @@
+contact:
+  name: Michelle Parker
+  email: michelle.parker5211@example.com
+  phone: 962-741-9732
+  ssn: 835-16-5041
+  dob: 10/21/1950
+  address: 4467 First Way
+  city: San Jose
+  state: CA

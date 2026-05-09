@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Jones",
+    "email": "amanda.jones6047@business.net",
+    "phone": "(800) 823-2589",
+    "ssn": "160-06-2408",
+    "dob": "10-18-1962",
+    "address": "180 Spring Rd",
+    "city": "New York",
+    "state": "MD"
+  }
+}

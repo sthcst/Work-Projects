@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Serrano",
+    "email": "brian.serrano821@company.com",
+    "phone": "764 641 5212",
+    "ssn": "410-39-7010",
+    "dob": "07-04-1977",
+    "address": "5031 Second Ave",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

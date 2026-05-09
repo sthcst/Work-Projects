@@ -1,0 +1,14 @@
+INVOICE 968508
+
+Bill To:
+Name: John Gonzalez
+Email: john.gonzalez315@business.net
+Phone: 458-891-9981
+SSN: 408212870
+
+Address: 8269 Sixth Ave
+Washington, WA
+
+Date of Birth: 05/13/1971
+
+Amount Due: $5249

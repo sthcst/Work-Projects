@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Thompson,brian.thompson5362@outlook.com,905 303 1865,549 89 8364,9/20/1989,"652 West Way",Boston,TX

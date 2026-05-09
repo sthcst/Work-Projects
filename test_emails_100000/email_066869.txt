@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Martin,john.martin618@business.net,(357) 469-4123,686-03-9114,06-25-1973,"7671 North Rd",San Jose,MA

@@ -1,0 +1,14 @@
+INVOICE 768664
+
+Bill To:
+Name: Ashley Peterson
+Email: ashley.peterson434@example.com
+Phone: (690) 489-3314
+SSN: 058-61-8879
+
+Address: 8817 Second Rd
+San Diego, WA
+
+Date of Birth: 06/06/2000
+
+Amount Due: $9120

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Christopher Lopez,christopher.lopez9787@company.com,851-798-2963,225 20 4409,06/08/1997,"9649 Cedar Ave",Dallas,MA

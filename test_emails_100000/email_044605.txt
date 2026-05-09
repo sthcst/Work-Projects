@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Angela Martin",
+    "email": "angela.martin7484@example.com",
+    "phone": "608 278 9502",
+    "ssn": "467-61-9987",
+    "dob": "8/22/1980",
+    "address": "7159 East St",
+    "city": "Washington",
+    "state": "DC"
+  }
+}

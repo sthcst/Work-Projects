@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Hall
+  email: anthony.hall788@example.com
+  phone: 325-432-6668
+  ssn: 452-05-5868
+  dob: 12/17/1968
+  address: 2750 North St
+  city: San Antonio
+  state: MA

@@ -1,0 +1,14 @@
+INVOICE 484447
+
+Bill To:
+Name: George Sanchez
+Email: george.sanchez3486@mail.com
+Phone: 229-380-2125
+SSN: 003-78-5208
+
+Address: 9563 Third Court
+New York, DC
+
+Date of Birth: 03/24/1971
+
+Amount Due: $7521

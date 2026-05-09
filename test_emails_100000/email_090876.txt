@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Jackson",
+    "email": "ryan.jackson884@mail.com",
+    "phone": "+1 883-593-3832",
+    "ssn": "802791774",
+    "dob": "04/16/1999",
+    "address": "8500 Oak Blvd",
+    "city": "Philadelphia",
+    "state": "FL"
+  }
+}

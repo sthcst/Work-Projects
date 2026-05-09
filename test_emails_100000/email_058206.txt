@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Anderson
+  email: shirley.anderson529@work.org
+  phone: 872-575-9346
+  ssn: 117 43 8748
+  dob: 11/28/1973
+  address: 6772 Main Court
+  city: San Antonio
+  state: OH

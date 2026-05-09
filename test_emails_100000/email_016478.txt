@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Campbell",
+    "email": "nicholas.campbell8147@yahoo.com",
+    "phone": "556-405-7320",
+    "ssn": "429648170",
+    "dob": "07/04/1995",
+    "address": "7413 North Court",
+    "city": "Washington",
+    "state": "VA"
+  }
+}

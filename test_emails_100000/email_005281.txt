@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+John Gomez,john.gomez4625@mail.com,(752) 991-9683,927-09-2403,05/07/1985,"5709 Park Way",Phoenix,PA

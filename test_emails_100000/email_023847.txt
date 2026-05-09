@@ -1,0 +1,9 @@
+contact:
+  name: Nicholas Morris
+  email: nicholas.morris7808@yahoo.com
+  phone: +1 789-693-3509
+  ssn: 674-72-2055
+  dob: 05-09-1994
+  address: 8123 Elm Ln
+  city: Los Angeles
+  state: AZ

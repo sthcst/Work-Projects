@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Flores",
+    "email": "helen.flores8492@business.net",
+    "phone": "841 378 7160",
+    "ssn": "147815401",
+    "dob": "11/7/1951",
+    "address": "6221 Summer Way",
+    "city": "Jacksonville",
+    "state": "FL"
+  }
+}

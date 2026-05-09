@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Harris,anthony.harris9123@yahoo.com,411 504 5587,748 05 6032,17/12/1994,"5846 West St",Los Angeles,TX

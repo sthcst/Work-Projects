@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Gonzalez",
+    "email": "emma.gonzalez6711@mail.com",
+    "phone": "+1 394-534-3246",
+    "ssn": "250649128",
+    "dob": "6/6/1990",
+    "address": "7098 Maple Blvd",
+    "city": "Philadelphia",
+    "state": "OH"
+  }
+}

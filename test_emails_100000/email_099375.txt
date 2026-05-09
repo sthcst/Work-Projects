@@ -1,0 +1,9 @@
+contact:
+  name: Donald Nelson
+  email: donald.nelson7488@business.net
+  phone: 492 766 5781
+  ssn: 846351962
+  dob: 12/19/2002
+  address: 4556 Pine Dr
+  city: Los Angeles
+  state: MI

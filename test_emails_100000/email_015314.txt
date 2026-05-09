@@ -1,0 +1,9 @@
+contact:
+  name: Ronald Williams
+  email: ronald.williams6026@company.com
+  phone: (731) 317-6460
+  ssn: 550455469
+  dob: 08-21-1999
+  address: 1966 North Ave
+  city: Boston
+  state: MI

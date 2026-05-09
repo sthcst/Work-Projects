@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Serrano
+  email: ashley.serrano7563@company.com
+  phone: (613) 883-1438
+  ssn: 674 03 4193
+  dob: 22/11/1958
+  address: 2337 Summer Rd
+  city: Los Angeles
+  state: TX

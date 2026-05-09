@@ -1,0 +1,9 @@
+contact:
+  name: Charles Evans
+  email: charles.evans6725@outlook.com
+  phone: 612-412-5392
+  ssn: 504-03-9915
+  dob: 5/26/1977
+  address: 3088 Second Way
+  city: New York
+  state: CA

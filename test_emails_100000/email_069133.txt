@@ -1,0 +1,9 @@
+contact:
+  name: Edward Moore
+  email: edward.moore6404@company.com
+  phone: (863) 950-8259
+  ssn: 770 35 1435
+  dob: 11/05/1953
+  address: 3272 Pine Way
+  city: New York
+  state: WA

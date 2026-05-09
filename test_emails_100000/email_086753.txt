@@ -1,0 +1,9 @@
+contact:
+  name: Paul Rodriguez
+  email: paul.rodriguez1403@business.net
+  phone: +1 211-552-5712
+  ssn: 582515524
+  dob: 04/18/1973
+  address: 8501 Pine Blvd
+  city: Dallas
+  state: FL

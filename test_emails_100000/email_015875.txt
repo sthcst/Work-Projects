@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+William Delgado,william.delgado7280@business.net,541-950-7005,642499656,03/20/1987,"4762 Park Ave",Boston,WI

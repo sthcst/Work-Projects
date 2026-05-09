@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Serrano,michelle.serrano543@yahoo.com,+1 577-243-6246,774 61 6135,3/6/1970,"4695 East Way",Dallas,NY

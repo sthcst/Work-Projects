@@ -1,0 +1,14 @@
+INVOICE 834598
+
+Bill To:
+Name: George Ortiz
+Email: george.ortiz4721@gmail.com
+Phone: 615 748 2023
+SSN: 789623078
+
+Address: 1278 Summer Blvd
+Chicago, NJ
+
+Date of Birth: 11-24-1991
+
+Amount Due: $3878

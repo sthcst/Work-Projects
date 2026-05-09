@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Rogers
+  email: joseph.rogers3690@outlook.com
+  phone: +1 426-566-8965
+  ssn: 545-14-7058
+  dob: 09-18-1954
+  address: 8765 West Blvd
+  city: Seattle
+  state: CA

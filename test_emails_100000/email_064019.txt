@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emma Ortiz,emma.ortiz22@example.com,559 487 8639,111 71 4497,26/01/1953,"9327 Spring Rd",New York,NY

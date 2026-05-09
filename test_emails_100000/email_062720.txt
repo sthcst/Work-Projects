@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Dominguez",
+    "email": "ronald.dominguez6881@example.com",
+    "phone": "+1 886-355-8810",
+    "ssn": "637-09-3689",
+    "dob": "03/05/1959",
+    "address": "1246 North Blvd",
+    "city": "Los Angeles",
+    "state": "MI"
+  }
+}

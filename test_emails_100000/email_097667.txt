@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Stewart,andrew.stewart1706@outlook.com,769 510 8760,615 59 3978,03-04-1973,"9731 Pine Rd",Denver,TX

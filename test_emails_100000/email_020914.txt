@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Peterson
+  email: jessica.peterson8637@mail.com
+  phone: 821-515-8149
+  ssn: 486-34-4407
+  dob: 09/11/1968
+  address: 3082 Spring Rd
+  city: Houston
+  state: MI

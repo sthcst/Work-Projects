@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Campbell,kenneth.campbell7402@example.com,618 664 1937,844 31 4917,07/10/2002,"461 East Dr",Jacksonville,GA

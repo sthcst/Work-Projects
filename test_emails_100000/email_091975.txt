@@ -1,0 +1,14 @@
+INVOICE 345139
+
+Bill To:
+Name: Jacob Bell
+Email: jacob.bell7660@example.com
+Phone: (785) 851-9302
+SSN: 183 97 9492
+
+Address: 682 West Way
+Phoenix, GA
+
+Date of Birth: 1/17/1976
+
+Amount Due: $353

@@ -1,0 +1,9 @@
+contact:
+  name: Deborah Smith
+  email: deborah.smith5469@gmail.com
+  phone: 816 594 4760
+  ssn: 545527066
+  dob: 11/26/1996
+  address: 4102 First Ln
+  city: San Diego
+  state: DC

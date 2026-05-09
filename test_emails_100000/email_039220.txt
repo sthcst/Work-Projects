@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Rogers,daniel.rogers7434@mail.com,488-381-2068,259 32 2780,10/17/1975,"2609 Oak St",Seattle,MI

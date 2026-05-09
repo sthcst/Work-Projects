@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Clark,gary.clark1091@example.com,+1 846-424-3003,091852045,8/27/2005,"9530 Third Ln",San Antonio,NY

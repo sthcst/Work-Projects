@@ -1,0 +1,9 @@
+contact:
+  name: Steven Romero
+  email: steven.romero5899@yahoo.com
+  phone: (201) 728-6653
+  ssn: 796-12-9785
+  dob: 15/11/1993
+  address: 6376 Birch Dr
+  city: Chicago
+  state: CA

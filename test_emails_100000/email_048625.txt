@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Reed",
+    "email": "maria.reed8088@yahoo.com",
+    "phone": "+1 833-269-9620",
+    "ssn": "772-58-3876",
+    "dob": "2/5/1968",
+    "address": "8824 First Blvd",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}

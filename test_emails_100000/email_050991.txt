@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "John Phillips",
+    "email": "john.phillips4150@mail.com",
+    "phone": "787 867 1319",
+    "ssn": "463 70 4368",
+    "dob": "2/16/1952",
+    "address": "554 Birch Ln",
+    "city": "Boston",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Moore",
+    "email": "deborah.moore8514@gmail.com",
+    "phone": "774-736-4450",
+    "ssn": "605 95 4180",
+    "dob": "22/12/1968",
+    "address": "3065 Sixth Rd",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

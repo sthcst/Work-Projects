@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Garcia
+  email: ashley.garcia3930@company.com
+  phone: (443) 810-6336
+  ssn: 385-45-1482
+  dob: 10/2/1996
+  address: 8072 Summer St
+  city: Dallas
+  state: NY

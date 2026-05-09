@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Roberts",
+    "email": "brian.roberts9345@gmail.com",
+    "phone": "804-660-9148",
+    "ssn": "720-27-2598",
+    "dob": "01/11/1953",
+    "address": "1283 South Ln",
+    "city": "San Diego",
+    "state": "VA"
+  }
+}

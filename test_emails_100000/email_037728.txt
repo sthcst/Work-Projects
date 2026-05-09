@@ -1,0 +1,9 @@
+contact:
+  name: Michael Miller
+  email: michael.miller9350@example.com
+  phone: 585-683-7001
+  ssn: 934-13-7316
+  dob: 09-17-1964
+  address: 5800 Main Dr
+  city: Phoenix
+  state: NJ

@@ -1,0 +1,14 @@
+INVOICE 962126
+
+Bill To:
+Name: Nicole Morris
+Email: nicole.morris4523@company.com
+Phone: 691 845 6454
+SSN: 458 16 8627
+
+Address: 4545 Park Ave
+Boston, TX
+
+Date of Birth: 08-03-1956
+
+Amount Due: $6861

@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Taylor
+  email: shirley.taylor2291@mail.com
+  phone: 228 300 7910
+  ssn: 696562295
+  dob: 05/11/1954
+  address: 5720 Maple Rd
+  city: San Jose
+  state: IL

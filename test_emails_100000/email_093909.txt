@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Emma Rodriguez",
+    "email": "emma.rodriguez6263@company.com",
+    "phone": "327 322 7497",
+    "ssn": "001 70 7120",
+    "dob": "4/10/1955",
+    "address": "376 Summer Ln",
+    "city": "Jacksonville",
+    "state": "DC"
+  }
+}

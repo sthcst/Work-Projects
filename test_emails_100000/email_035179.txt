@@ -1,0 +1,9 @@
+contact:
+  name: George Evans
+  email: george.evans3400@work.org
+  phone: 657-660-9225
+  ssn: 095-81-1958
+  dob: 11/27/1959
+  address: 8796 East Way
+  city: Chicago
+  state: NC

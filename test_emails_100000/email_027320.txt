@@ -1,0 +1,9 @@
+contact:
+  name: Emma Phillips
+  email: emma.phillips4193@work.org
+  phone: (214) 939-7164
+  ssn: 242 74 2309
+  dob: 07/23/1995
+  address: 5285 North Court
+  city: Houston
+  state: AZ

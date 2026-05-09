@@ -1,0 +1,14 @@
+INVOICE 535203
+
+Bill To:
+Name: Emily Rodriguez
+Email: emily.rodriguez4193@mail.com
+Phone: 210-544-6504
+SSN: 541-04-8552
+
+Address: 2100 Cedar Dr
+San Antonio, WA
+
+Date of Birth: 3/27/1979
+
+Amount Due: $8412

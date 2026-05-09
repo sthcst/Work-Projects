@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Richard Carter,richard.carter7052@example.com,363 862 7488,770865861,04-23-1984,"3939 Spring St",Seattle,WI

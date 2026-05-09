@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Nelson
+  email: sarah.nelson2574@company.com
+  phone: (389) 601-6347
+  ssn: 335 59 1207
+  dob: 06-25-1971
+  address: 6841 Spring Dr
+  city: Dallas
+  state: FL

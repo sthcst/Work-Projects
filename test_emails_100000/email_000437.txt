@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jacob Miller,jacob.miller1388@gmail.com,865 309 6463,609135760,08/23/1971,"1999 Fifth St",San Antonio,FL

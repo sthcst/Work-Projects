@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Shirley Delgado,shirley.delgado9355@outlook.com,654-256-4759,044-35-8561,01-06-1957,"7245 Pine Rd",Los Angeles,CA

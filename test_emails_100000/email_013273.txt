@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Parker",
+    "email": "stephanie.parker3529@work.org",
+    "phone": "635 373 3338",
+    "ssn": "242-63-7478",
+    "dob": "12/14/1975",
+    "address": "7901 South Court",
+    "city": "San Diego",
+    "state": "MA"
+  }
+}

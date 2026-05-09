@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Anthony Robinson,anthony.robinson6832@mail.com,+1 627-933-3925,026-63-5868,06/01/1967,"4208 North Court",Los Angeles,MA

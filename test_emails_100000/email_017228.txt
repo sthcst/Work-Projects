@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Edwards",
+    "email": "pamela.edwards8844@mail.com",
+    "phone": "+1 704-324-7741",
+    "ssn": "731-87-5263",
+    "dob": "07/12/1963",
+    "address": "8096 Fourth St",
+    "city": "San Diego",
+    "state": "MO"
+  }
+}

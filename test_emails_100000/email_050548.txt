@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "David Flores",
+    "email": "david.flores3915@company.com",
+    "phone": "+1 572-881-8657",
+    "ssn": "605 82 1453",
+    "dob": "07/20/1977",
+    "address": "553 North Rd",
+    "city": "Los Angeles",
+    "state": "TX"
+  }
+}

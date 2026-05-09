@@ -1,0 +1,9 @@
+contact:
+  name: Kevin Rodriguez
+  email: kevin.rodriguez3149@gmail.com
+  phone: 520 987 5264
+  ssn: 764-26-8690
+  dob: 10/06/1996
+  address: 3769 Sixth Ln
+  city: Philadelphia
+  state: FL

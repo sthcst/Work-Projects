@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "George Miller",
+    "email": "george.miller190@outlook.com",
+    "phone": "732 352 3907",
+    "ssn": "858022929",
+    "dob": "5/26/1963",
+    "address": "241 Third Blvd",
+    "city": "Austin",
+    "state": "PA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Ortiz,lauren.ortiz9261@yahoo.com,470-497-3640,855056250,9/27/1955,"9520 Second Way",Chicago,CA

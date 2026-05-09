@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Donald Reed,donald.reed4602@work.org,454 804 4290,693 74 9629,10/22/1999,"2716 Elm St",Philadelphia,CO

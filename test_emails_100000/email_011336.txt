@@ -1,0 +1,9 @@
+contact:
+  name: Steven Thomas
+  email: steven.thomas431@mail.com
+  phone: +1 424-761-8239
+  ssn: 057-58-9159
+  dob: 12/16/1963
+  address: 5570 Sixth Court
+  city: New York
+  state: AZ

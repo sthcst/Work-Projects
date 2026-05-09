@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Jackson,katherine.jackson6971@gmail.com,500 490 3904,116211085,10/09/1972,"4070 Birch Court",Dallas,DC

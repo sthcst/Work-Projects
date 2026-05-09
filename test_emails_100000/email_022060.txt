@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Daniel Evans",
+    "email": "daniel.evans5815@yahoo.com",
+    "phone": "+1 821-314-7925",
+    "ssn": "241-18-3703",
+    "dob": "10-10-1950",
+    "address": "8443 Fourth St",
+    "city": "Houston",
+    "state": "TX"
+  }
+}

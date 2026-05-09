@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Edwards
+  email: anthony.edwards5349@gmail.com
+  phone: 935-274-3065
+  ssn: 901-65-6923
+  dob: 06/04/1966
+  address: 8830 Park Blvd
+  city: New York
+  state: AZ

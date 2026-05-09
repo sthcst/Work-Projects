@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Rachel Delgado,rachel.delgado3127@company.com,216 511 2905,104 72 6965,06/03/1957,"1128 Sixth Court",New York,AZ

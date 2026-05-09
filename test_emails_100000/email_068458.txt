@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Angela Morgan,angela.morgan4800@business.net,+1 255-254-1233,535674294,02/10/2003,"199 Birch Rd",New York,WA

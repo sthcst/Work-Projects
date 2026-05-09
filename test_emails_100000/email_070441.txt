@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Lewis,jessica.lewis2873@work.org,572 364 2342,707 36 9296,9/10/1973,"7041 Sixth St",New York,NJ

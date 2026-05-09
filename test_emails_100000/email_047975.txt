@@ -1,0 +1,9 @@
+contact:
+  name: Megan Bell
+  email: megan.bell8917@company.com
+  phone: +1 890-497-1719
+  ssn: 949 03 9670
+  dob: 11/10/1979
+  address: 6449 North St
+  city: San Diego
+  state: TN

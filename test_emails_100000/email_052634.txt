@@ -1,0 +1,14 @@
+INVOICE 580467
+
+Bill To:
+Name: David Clark
+Email: david.clark361@work.org
+Phone: +1 535-700-6172
+SSN: 172-87-8590
+
+Address: 3112 Main Blvd
+New York, DC
+
+Date of Birth: 13/04/1995
+
+Amount Due: $1902

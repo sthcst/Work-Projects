@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anna Brown",
+    "email": "anna.brown8036@gmail.com",
+    "phone": "(547) 810-5343",
+    "ssn": "131-61-5756",
+    "dob": "11-20-2005",
+    "address": "3391 Sixth Court",
+    "city": "San Antonio",
+    "state": "CA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Martinez",
+    "email": "stephanie.martinez653@mail.com",
+    "phone": "+1 603-348-4034",
+    "ssn": "597193428",
+    "dob": "03/06/1985",
+    "address": "187 Park Rd",
+    "city": "Houston",
+    "state": "MO"
+  }
+}

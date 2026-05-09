@@ -1,0 +1,14 @@
+INVOICE 734639
+
+Bill To:
+Name: Stephanie Reeves
+Email: stephanie.reeves7806@company.com
+Phone: (784) 320-3695
+SSN: 329553512
+
+Address: 5138 Third Way
+Los Angeles, CA
+
+Date of Birth: 09/22/1975
+
+Amount Due: $4490

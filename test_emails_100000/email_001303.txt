@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Maria Williams,maria.williams3942@example.com,775 478 4093,893 96 8763,01/01/1994,"2839 Second Blvd",Austin,MD

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Walker",
+    "email": "timothy.walker7923@example.com",
+    "phone": "285-715-3127",
+    "ssn": "096044970",
+    "dob": "07/01/1984",
+    "address": "669 Park St",
+    "city": "Dallas",
+    "state": "OH"
+  }
+}

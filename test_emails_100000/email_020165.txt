@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Murillo
+  email: lauren.murillo3250@outlook.com
+  phone: +1 948-229-5386
+  ssn: 519 16 1498
+  dob: 02-19-1985
+  address: 8724 Main Ln
+  city: Denver
+  state: TN

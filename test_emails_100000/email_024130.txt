@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Steven Brown,steven.brown599@example.com,+1 456-253-2353,479-91-7187,04/01/1974,"856 Elm Court",Washington,MD

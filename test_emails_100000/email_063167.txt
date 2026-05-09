@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Lewis",
+    "email": "ronald.lewis2201@business.net",
+    "phone": "+1 466-800-9173",
+    "ssn": "052 51 6803",
+    "dob": "9/28/1958",
+    "address": "5153 Pine Blvd",
+    "city": "Los Angeles",
+    "state": "NJ"
+  }
+}

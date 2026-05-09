@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Lee",
+    "email": "jessica.lee1484@gmail.com",
+    "phone": "+1 931-882-9022",
+    "ssn": "123-68-8075",
+    "dob": "3/23/1991",
+    "address": "2120 Main Rd",
+    "city": "Austin",
+    "state": "NC"
+  }
+}

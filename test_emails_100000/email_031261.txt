@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicholas Anderson",
+    "email": "nicholas.anderson525@company.com",
+    "phone": "+1 259-906-4838",
+    "ssn": "497-77-8987",
+    "dob": "8/21/1976",
+    "address": "322 South Dr",
+    "city": "Los Angeles",
+    "state": "MO"
+  }
+}

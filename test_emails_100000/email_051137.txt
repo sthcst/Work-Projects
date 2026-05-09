@@ -1,0 +1,9 @@
+contact:
+  name: Anthony Martinez
+  email: anthony.martinez1129@business.net
+  phone: 701-368-2662
+  ssn: 053-27-1851
+  dob: 06-18-1997
+  address: 9420 Summer Ln
+  city: Philadelphia
+  state: CA

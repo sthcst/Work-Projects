@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Richard Lee",
+    "email": "richard.lee8304@example.com",
+    "phone": "840-492-8814",
+    "ssn": "947-09-8870",
+    "dob": "08/04/2000",
+    "address": "7068 Second Dr",
+    "city": "Phoenix",
+    "state": "FL"
+  }
+}

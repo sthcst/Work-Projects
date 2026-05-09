@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Young",
+    "email": "pamela.young7666@yahoo.com",
+    "phone": "485-213-9597",
+    "ssn": "969-06-3996",
+    "dob": "10/15/1954",
+    "address": "7497 Third Way",
+    "city": "Austin",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE 804328
+
+Bill To:
+Name: Maria Garcia
+Email: maria.garcia6264@company.com
+Phone: +1 247-441-8451
+SSN: 858-96-5618
+
+Address: 1201 Sixth St
+Chicago, MI
+
+Date of Birth: 7/7/1992
+
+Amount Due: $8085

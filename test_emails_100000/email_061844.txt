@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Carter",
+    "email": "helen.carter4071@gmail.com",
+    "phone": "(718) 620-2653",
+    "ssn": "636581632",
+    "dob": "19/03/1987",
+    "address": "2798 Second Rd",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

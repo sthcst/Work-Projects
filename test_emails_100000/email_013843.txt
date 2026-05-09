@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Maria Reed",
+    "email": "maria.reed9540@example.com",
+    "phone": "824 767 9466",
+    "ssn": "053-93-3002",
+    "dob": "21/02/1970",
+    "address": "8505 Sixth Rd",
+    "city": "Dallas",
+    "state": "DC"
+  }
+}

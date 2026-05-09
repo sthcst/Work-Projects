@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brenda Phillips,brenda.phillips9418@example.com,480-725-4413,588296481,6/21/1996,"5111 Birch Rd",Washington,MA

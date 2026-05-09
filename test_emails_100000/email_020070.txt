@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jessica Carter",
+    "email": "jessica.carter2897@business.net",
+    "phone": "(790) 953-3705",
+    "ssn": "895-47-7013",
+    "dob": "17/02/1990",
+    "address": "5855 First Dr",
+    "city": "Denver",
+    "state": "CA"
+  }
+}

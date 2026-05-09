@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ryan Flores",
+    "email": "ryan.flores4503@gmail.com",
+    "phone": "897-901-4544",
+    "ssn": "734153019",
+    "dob": "01/23/1956",
+    "address": "2781 Maple Ln",
+    "city": "Austin",
+    "state": "AZ"
+  }
+}

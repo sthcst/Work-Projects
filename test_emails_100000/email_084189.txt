@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Roberts,michelle.roberts4659@outlook.com,406 985 5627,913 10 6294,09/02/1963,"5746 Main Dr",Los Angeles,TX

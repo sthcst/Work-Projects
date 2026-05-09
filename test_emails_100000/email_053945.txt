@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Collins",
+    "email": "ronald.collins2058@gmail.com",
+    "phone": "778-846-6154",
+    "ssn": "246 64 4111",
+    "dob": "8/4/1966",
+    "address": "2466 Fourth Ave",
+    "city": "San Jose",
+    "state": "MA"
+  }
+}

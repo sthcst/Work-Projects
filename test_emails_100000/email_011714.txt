@@ -1,0 +1,9 @@
+contact:
+  name: Kenneth Guerrero
+  email: kenneth.guerrero4789@work.org
+  phone: +1 854-244-4366
+  ssn: 701063643
+  dob: 15/09/1967
+  address: 3484 Maple Dr
+  city: Phoenix
+  state: NJ

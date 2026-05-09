@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jason Ramirez,jason.ramirez6537@business.net,+1 516-537-2346,349 41 6516,07/12/1995,"7414 Maple St",Chicago,NJ

@@ -1,0 +1,9 @@
+contact:
+  name: Gary Taylor
+  email: gary.taylor766@yahoo.com
+  phone: (871) 320-6446
+  ssn: 497-20-1001
+  dob: 02/09/1985
+  address: 8931 Elm Way
+  city: Los Angeles
+  state: GA

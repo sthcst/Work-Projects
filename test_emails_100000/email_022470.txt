@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Jones",
+    "email": "kenneth.jones7547@example.com",
+    "phone": "462 615 5986",
+    "ssn": "478 78 6890",
+    "dob": "12-28-2003",
+    "address": "7631 Main Dr",
+    "city": "Houston",
+    "state": "IL"
+  }
+}

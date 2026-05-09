@@ -1,0 +1,9 @@
+contact:
+  name: Angela Martinez
+  email: angela.martinez2025@mail.com
+  phone: (328) 710-9074
+  ssn: 893037164
+  dob: 19/11/1996
+  address: 434 Fourth Ln
+  city: Boston
+  state: TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jeffrey White",
+    "email": "jeffrey.white9255@gmail.com",
+    "phone": "+1 556-704-4537",
+    "ssn": "641299287",
+    "dob": "08/13/1953",
+    "address": "6063 Pine Court",
+    "city": "Jacksonville",
+    "state": "TN"
+  }
+}

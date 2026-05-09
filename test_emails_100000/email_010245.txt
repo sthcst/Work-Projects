@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+David Reed,david.reed7266@mail.com,663 540 9849,746 93 6732,1/22/1994,"1672 Second Dr",Dallas,FL

@@ -1,0 +1,9 @@
+contact:
+  name: Jane Harris
+  email: jane.harris4702@work.org
+  phone: 243-226-3636
+  ssn: 987 05 7755
+  dob: 12-05-1958
+  address: 8641 Park Ave
+  city: Chicago
+  state: MO

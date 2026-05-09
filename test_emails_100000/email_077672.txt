@@ -1,0 +1,9 @@
+contact:
+  name: Lauren Campbell
+  email: lauren.campbell2612@business.net
+  phone: 510-369-2188
+  ssn: 869-29-6114
+  dob: 11-19-1995
+  address: 1164 Cedar Rd
+  city: San Diego
+  state: TX

@@ -1,0 +1,9 @@
+contact:
+  name: Angela Thompson
+  email: angela.thompson530@work.org
+  phone: 794 539 7871
+  ssn: 585-82-9027
+  dob: 10/18/1970
+  address: 3743 Maple Dr
+  city: San Jose
+  state: MI

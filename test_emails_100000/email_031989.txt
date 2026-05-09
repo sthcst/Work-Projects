@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Reyes,brian.reyes18@business.net,(206) 429-3237,548802998,15/11/1970,"315 First Court",Boston,CA

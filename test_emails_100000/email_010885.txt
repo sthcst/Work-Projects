@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ashley Bell",
+    "email": "ashley.bell5967@mail.com",
+    "phone": "(735) 963-1871",
+    "ssn": "780-06-5805",
+    "dob": "01-01-1998",
+    "address": "4964 West Way",
+    "city": "Dallas",
+    "state": "NC"
+  }
+}

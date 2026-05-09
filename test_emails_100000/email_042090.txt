@@ -1,0 +1,14 @@
+INVOICE 346189
+
+Bill To:
+Name: William Martinez
+Email: william.martinez3597@example.com
+Phone: +1 465-829-6690
+SSN: 366-59-8760
+
+Address: 4940 South Blvd
+Austin, NC
+
+Date of Birth: 11-11-1975
+
+Amount Due: $6449

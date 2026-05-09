@@ -1,0 +1,14 @@
+INVOICE 680310
+
+Bill To:
+Name: Anthony Peterson
+Email: anthony.peterson342@mail.com
+Phone: 820-495-1655
+SSN: 892157839
+
+Address: 7525 Elm Dr
+Jacksonville, OH
+
+Date of Birth: 02/21/1992
+
+Amount Due: $2351

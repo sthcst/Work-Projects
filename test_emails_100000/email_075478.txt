@@ -1,0 +1,9 @@
+contact:
+  name: David Davis
+  email: david.davis5914@company.com
+  phone: (521) 384-8368
+  ssn: 354-17-5069
+  dob: 10/09/1975
+  address: 5374 Third Dr
+  city: Phoenix
+  state: FL

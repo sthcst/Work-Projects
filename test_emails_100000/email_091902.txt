@@ -1,0 +1,9 @@
+contact:
+  name: Jennifer Flores
+  email: jennifer.flores9746@example.com
+  phone: +1 530-624-7169
+  ssn: 929-66-4604
+  dob: 11-23-1980
+  address: 339 Second St
+  city: Houston
+  state: IL

@@ -1,0 +1,14 @@
+INVOICE 575136
+
+Bill To:
+Name: Andrew Romero
+Email: andrew.romero6113@work.org
+Phone: +1 656-782-6066
+SSN: 492-37-4341
+
+Address: 8555 First Blvd
+Dallas, CA
+
+Date of Birth: 02-20-1974
+
+Amount Due: $3224

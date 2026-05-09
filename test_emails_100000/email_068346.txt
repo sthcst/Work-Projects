@@ -1,0 +1,9 @@
+contact:
+  name: Paul Carter
+  email: paul.carter5855@business.net
+  phone: +1 364-215-8919
+  ssn: 579 94 3848
+  dob: 18/08/1979
+  address: 3964 Cedar Dr
+  city: Austin
+  state: MO

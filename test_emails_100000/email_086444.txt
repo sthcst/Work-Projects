@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Campbell,kenneth.campbell1282@example.com,(943) 992-4684,344-93-9705,28/10/1977,"1679 First St",Seattle,IL

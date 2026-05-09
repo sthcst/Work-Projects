@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Taylor
+  email: katherine.taylor8296@example.com
+  phone: +1 853-501-8604
+  ssn: 352-91-8218
+  dob: 02/11/1952
+  address: 3908 West Rd
+  city: San Diego
+  state: MA

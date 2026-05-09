@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Edwards",
+    "email": "cynthia.edwards5916@example.com",
+    "phone": "+1 395-432-6858",
+    "ssn": "056-44-3805",
+    "dob": "28/01/1985",
+    "address": "1541 East Court",
+    "city": "Denver",
+    "state": "WA"
+  }
+}

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Charles Cooper,charles.cooper2133@work.org,(394) 494-9266,439-74-2497,25/11/1976,"3470 North Ln",Denver,IL

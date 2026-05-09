@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Murillo",
+    "email": "timothy.murillo1256@mail.com",
+    "phone": "+1 843-975-2432",
+    "ssn": "088-78-1695",
+    "dob": "03/15/1965",
+    "address": "6510 First Dr",
+    "city": "Jacksonville",
+    "state": "TX"
+  }
+}

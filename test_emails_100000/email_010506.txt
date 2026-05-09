@@ -1,0 +1,9 @@
+contact:
+  name: Megan Peterson
+  email: megan.peterson1773@business.net
+  phone: 926 753 5236
+  ssn: 722 36 3582
+  dob: 3/17/1998
+  address: 3114 Spring Ln
+  city: Los Angeles
+  state: NC

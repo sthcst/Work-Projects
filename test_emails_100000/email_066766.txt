@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Gonzalez",
+    "email": "helen.gonzalez5241@gmail.com",
+    "phone": "704 636 2317",
+    "ssn": "527-88-8504",
+    "dob": "03-03-1994",
+    "address": "9601 Summer Way",
+    "city": "San Diego",
+    "state": "NJ"
+  }
+}

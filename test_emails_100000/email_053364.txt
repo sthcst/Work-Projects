@@ -1,0 +1,9 @@
+contact:
+  name: Jane Sanchez
+  email: jane.sanchez664@mail.com
+  phone: (852) 762-8495
+  ssn: 984979518
+  dob: 01-20-1960
+  address: 2839 Sixth Court
+  city: Seattle
+  state: AZ

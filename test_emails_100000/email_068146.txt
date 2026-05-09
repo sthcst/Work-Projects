@@ -1,0 +1,14 @@
+INVOICE 144958
+
+Bill To:
+Name: Cynthia Johnson
+Email: cynthia.johnson4588@example.com
+Phone: (456) 772-6639
+SSN: 395 76 2503
+
+Address: 4583 Pine Dr
+New York, IL
+
+Date of Birth: 04-03-1973
+
+Amount Due: $1350

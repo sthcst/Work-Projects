@@ -1,0 +1,14 @@
+INVOICE 994709
+
+Bill To:
+Name: Kimberly Perez
+Email: kimberly.perez3919@example.com
+Phone: +1 888-498-3196
+SSN: 669-22-4587
+
+Address: 8146 Park Dr
+San Jose, CA
+
+Date of Birth: 09-19-1999
+
+Amount Due: $9801

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Nelson,brian.nelson8434@work.org,(215) 647-4586,023 90 2352,21/04/1987,"2635 First Rd",Austin,WA

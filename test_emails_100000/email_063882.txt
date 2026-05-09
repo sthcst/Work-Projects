@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Wilson
+  email: andrew.wilson6857@business.net
+  phone: +1 805-533-9950
+  ssn: 531 20 1340
+  dob: 9/22/1968
+  address: 8288 Third Blvd
+  city: Denver
+  state: MD

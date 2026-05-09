@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Serrano",
+    "email": "robert.serrano3534@mail.com",
+    "phone": "887 237 3994",
+    "ssn": "460055508",
+    "dob": "18/10/1986",
+    "address": "8641 Fifth St",
+    "city": "Philadelphia",
+    "state": "OH"
+  }
+}

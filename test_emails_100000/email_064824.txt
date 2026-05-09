@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Ortiz",
+    "email": "katherine.ortiz7728@mail.com",
+    "phone": "+1 941-643-8399",
+    "ssn": "255714113",
+    "dob": "07/04/1975",
+    "address": "1075 Fifth Rd",
+    "city": "Boston",
+    "state": "NJ"
+  }
+}

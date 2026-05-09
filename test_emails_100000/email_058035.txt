@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Shirley Smith",
+    "email": "shirley.smith7874@work.org",
+    "phone": "+1 762-575-1655",
+    "ssn": "541065359",
+    "dob": "07/11/1991",
+    "address": "1165 Birch Court",
+    "city": "Boston",
+    "state": "CA"
+  }
+}

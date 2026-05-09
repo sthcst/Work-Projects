@@ -1,0 +1,9 @@
+contact:
+  name: Emily Reyes
+  email: emily.reyes6462@company.com
+  phone: 741-936-7110
+  ssn: 515824805
+  dob: 06/17/1981
+  address: 2371 East Dr
+  city: Phoenix
+  state: PA

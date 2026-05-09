@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Sanchez,edward.sanchez3773@outlook.com,+1 632-664-2027,520 98 2645,07/13/1998,"623 Cedar Rd",Los Angeles,AZ

@@ -1,0 +1,14 @@
+INVOICE 666778
+
+Bill To:
+Name: Anthony Morris
+Email: anthony.morris348@business.net
+Phone: 704-216-9908
+SSN: 616 42 5818
+
+Address: 4780 Main St
+Washington, GA
+
+Date of Birth: 8/6/1968
+
+Amount Due: $2018

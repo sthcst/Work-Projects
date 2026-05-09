@@ -1,0 +1,9 @@
+contact:
+  name: Angela White
+  email: angela.white637@yahoo.com
+  phone: 836 440 9561
+  ssn: 626691532
+  dob: 12/14/1962
+  address: 7281 Maple Rd
+  city: San Jose
+  state: TX

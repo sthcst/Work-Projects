@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Andrew Harris,andrew.harris8908@business.net,(999) 732-5529,372-42-2847,06/03/1973,"4675 Fifth Dr",Dallas,AZ

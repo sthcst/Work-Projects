@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+James Gonzalez,james.gonzalez8740@mail.com,837-823-4403,600511335,01/17/1953,"1604 Fifth St",San Antonio,OH

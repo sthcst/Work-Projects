@@ -1,0 +1,9 @@
+contact:
+  name: Andrew Anderson
+  email: andrew.anderson3607@work.org
+  phone: 525-509-1039
+  ssn: 481-39-4624
+  dob: 02/08/2002
+  address: 7679 West Way
+  city: Los Angeles
+  state: WI

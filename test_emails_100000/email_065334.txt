@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Nicole Moore",
+    "email": "nicole.moore9181@example.com",
+    "phone": "(941) 919-2162",
+    "ssn": "159 39 2223",
+    "dob": "12/01/1991",
+    "address": "3878 Cedar Way",
+    "city": "Jacksonville",
+    "state": "FL"
+  }
+}

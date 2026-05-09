@@ -1,0 +1,9 @@
+contact:
+  name: Christine Hernandez
+  email: christine.hernandez9580@gmail.com
+  phone: +1 366-233-9023
+  ssn: 279196059
+  dob: 12/9/1957
+  address: 3759 Fifth Rd
+  city: San Antonio
+  state: IL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Charles Harris",
+    "email": "charles.harris1557@gmail.com",
+    "phone": "+1 554-455-8414",
+    "ssn": "703208017",
+    "dob": "5/7/1977",
+    "address": "1969 Elm Dr",
+    "city": "Philadelphia",
+    "state": "VA"
+  }
+}

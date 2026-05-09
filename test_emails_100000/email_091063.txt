@@ -1,0 +1,9 @@
+contact:
+  name: Michael Martin
+  email: michael.martin8445@mail.com
+  phone: 542-927-4998
+  ssn: 005 85 6137
+  dob: 06-20-1973
+  address: 2150 West St
+  city: Seattle
+  state: MI

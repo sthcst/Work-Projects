@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Cooper",
+    "email": "michelle.cooper1736@example.com",
+    "phone": "324-413-3045",
+    "ssn": "502278064",
+    "dob": "24/10/2005",
+    "address": "7255 Summer Blvd",
+    "city": "San Jose",
+    "state": "NC"
+  }
+}

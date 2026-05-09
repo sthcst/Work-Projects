@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Jimenez
+  email: katherine.jimenez5834@example.com
+  phone: +1 718-876-8429
+  ssn: 727751114
+  dob: 8/4/1986
+  address: 1382 Pine St
+  city: Washington
+  state: OH

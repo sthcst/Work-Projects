@@ -1,0 +1,9 @@
+contact:
+  name: Samantha Robinson
+  email: samantha.robinson852@mail.com
+  phone: 616 303 2830
+  ssn: 670209168
+  dob: 05-28-1953
+  address: 7509 Sixth Rd
+  city: Houston
+  state: PA

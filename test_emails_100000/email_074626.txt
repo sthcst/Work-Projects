@@ -1,0 +1,9 @@
+contact:
+  name: Jason Thomas
+  email: jason.thomas6352@example.com
+  phone: 921 631 1852
+  ssn: 785405266
+  dob: 11/4/1972
+  address: 8834 Park Ln
+  city: Washington
+  state: TX

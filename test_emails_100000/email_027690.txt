@@ -1,0 +1,9 @@
+contact:
+  name: Shirley Thompson
+  email: shirley.thompson3079@yahoo.com
+  phone: (796) 689-8272
+  ssn: 047032903
+  dob: 2/23/1960
+  address: 9432 Elm St
+  city: Los Angeles
+  state: TX

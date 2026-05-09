@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Hall,lauren.hall5680@example.com,(621) 672-2301,267 50 8877,02/10/1977,"8641 Third Way",Seattle,FL

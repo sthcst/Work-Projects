@@ -1,0 +1,14 @@
+INVOICE 876023
+
+Bill To:
+Name: Sarah Perez
+Email: sarah.perez1692@yahoo.com
+Phone: 824-770-9952
+SSN: 861844234
+
+Address: 6032 Oak Ave
+Dallas, TX
+
+Date of Birth: 07/04/2004
+
+Amount Due: $5447

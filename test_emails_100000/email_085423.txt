@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Davis",
+    "email": "ronald.davis56@yahoo.com",
+    "phone": "(448) 948-7192",
+    "ssn": "892-65-5654",
+    "dob": "05/19/1959",
+    "address": "3761 Second Court",
+    "city": "Phoenix",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,9 @@
+contact:
+  name: Edward Smith
+  email: edward.smith2857@example.com
+  phone: 255 736 7780
+  ssn: 544-40-8063
+  dob: 25/04/1953
+  address: 3133 Fifth Rd
+  city: Los Angeles
+  state: OH

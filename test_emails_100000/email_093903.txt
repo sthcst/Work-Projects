@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kevin Flores",
+    "email": "kevin.flores3720@company.com",
+    "phone": "+1 262-511-5912",
+    "ssn": "126 15 3792",
+    "dob": "07/22/1983",
+    "address": "4675 Fourth St",
+    "city": "Phoenix",
+    "state": "WA"
+  }
+}

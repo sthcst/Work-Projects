@@ -1,0 +1,9 @@
+contact:
+  name: Jessica Ramirez
+  email: jessica.ramirez7627@outlook.com
+  phone: +1 987-624-2665
+  ssn: 990941349
+  dob: 23/05/1952
+  address: 8748 Main Way
+  city: San Diego
+  state: AZ

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Miller,daniel.miller5218@example.com,654-712-7585,965-80-8775,23/09/1977,"179 Cedar Blvd",San Antonio,WI

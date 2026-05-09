@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Morris
+  email: brenda.morris6069@yahoo.com
+  phone: +1 485-374-5337
+  ssn: 570 98 2614
+  dob: 18/04/1999
+  address: 7395 East Dr
+  city: Austin
+  state: CO

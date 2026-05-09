@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jason Rogers",
+    "email": "jason.rogers3486@gmail.com",
+    "phone": "903-549-6037",
+    "ssn": "417455771",
+    "dob": "11/17/1960",
+    "address": "2186 Fourth Rd",
+    "city": "Washington",
+    "state": "MD"
+  }
+}

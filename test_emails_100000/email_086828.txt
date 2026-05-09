@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Emily Delgado,emily.delgado5905@business.net,448-943-8518,923 70 7593,2/23/1952,"5095 First Court",New York,IL

@@ -1,0 +1,14 @@
+INVOICE 623922
+
+Bill To:
+Name: Helen Brown
+Email: helen.brown7588@business.net
+Phone: 496-392-5901
+SSN: 963-27-8506
+
+Address: 1413 Summer Court
+Chicago, WI
+
+Date of Birth: 5/1/1950
+
+Amount Due: $8792

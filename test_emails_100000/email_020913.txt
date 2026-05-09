@@ -1,0 +1,9 @@
+contact:
+  name: Angela Evans
+  email: angela.evans6522@work.org
+  phone: 513 991 5432
+  ssn: 339-37-4324
+  dob: 24/05/1981
+  address: 8068 Sixth Court
+  city: Denver
+  state: MA

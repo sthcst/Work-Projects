@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Jimenez,mark.jimenez1244@yahoo.com,974-779-5167,274-85-6692,8/10/1962,"2634 Cedar St",Chicago,CA

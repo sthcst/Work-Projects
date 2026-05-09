@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Jessica Carter,jessica.carter3716@gmail.com,984-472-5805,114548158,06-09-1968,"7151 Cedar Ln",San Antonio,GA

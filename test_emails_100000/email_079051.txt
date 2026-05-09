@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Garcia",
+    "email": "timothy.garcia8734@gmail.com",
+    "phone": "(989) 364-4033",
+    "ssn": "898-24-1211",
+    "dob": "10/8/1998",
+    "address": "7256 South Blvd",
+    "city": "San Antonio",
+    "state": "MA"
+  }
+}

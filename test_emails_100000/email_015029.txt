@@ -1,0 +1,14 @@
+INVOICE 350400
+
+Bill To:
+Name: Maria Jones
+Email: maria.jones4688@example.com
+Phone: (403) 478-8308
+SSN: 718 70 8968
+
+Address: 2168 Park Dr
+Austin, WI
+
+Date of Birth: 12/05/1979
+
+Amount Due: $5742

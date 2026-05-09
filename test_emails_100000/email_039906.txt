@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Davis,lauren.davis2459@example.com,589-863-3181,778 80 5786,06-10-1971,"7438 East Blvd",Denver,DC

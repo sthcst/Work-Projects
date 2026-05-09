@@ -1,0 +1,14 @@
+INVOICE 331898
+
+Bill To:
+Name: Ryan Lee
+Email: ryan.lee3911@example.com
+Phone: +1 919-403-1800
+SSN: 564 43 6956
+
+Address: 2226 South Dr
+Philadelphia, WI
+
+Date of Birth: 10/15/1950
+
+Amount Due: $3605

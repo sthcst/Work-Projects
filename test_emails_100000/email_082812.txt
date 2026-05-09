@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Phillips
+  email: joseph.phillips7019@company.com
+  phone: (474) 598-1036
+  ssn: 595-24-2802
+  dob: 18/11/1988
+  address: 172 Summer Rd
+  city: Chicago
+  state: TX

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Parker",
+    "email": "samantha.parker1013@outlook.com",
+    "phone": "(388) 360-4495",
+    "ssn": "294 76 2180",
+    "dob": "3/23/1983",
+    "address": "8047 Oak St",
+    "city": "San Diego",
+    "state": "PA"
+  }
+}

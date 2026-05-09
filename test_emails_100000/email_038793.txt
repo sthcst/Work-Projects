@@ -1,0 +1,9 @@
+contact:
+  name: James Roberts
+  email: james.roberts2783@mail.com
+  phone: (614) 507-4844
+  ssn: 354-02-2420
+  dob: 06-11-1999
+  address: 5196 Sixth Dr
+  city: San Antonio
+  state: CA

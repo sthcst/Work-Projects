@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Amanda Rogers",
+    "email": "amanda.rogers4662@yahoo.com",
+    "phone": "985 720 9771",
+    "ssn": "566-96-9628",
+    "dob": "05/01/1994",
+    "address": "9722 West St",
+    "city": "San Antonio",
+    "state": "OH"
+  }
+}

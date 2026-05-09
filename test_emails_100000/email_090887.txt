@@ -1,0 +1,14 @@
+INVOICE 794008
+
+Bill To:
+Name: Jeffrey Brown
+Email: jeffrey.brown5646@example.com
+Phone: 845 794 3055
+SSN: 831-42-8282
+
+Address: 5992 Second Dr
+Los Angeles, PA
+
+Date of Birth: 21/06/1981
+
+Amount Due: $4362

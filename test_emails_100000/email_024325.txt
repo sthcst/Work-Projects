@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Carter,daniel.carter5420@company.com,977-671-6567,261 50 1268,06/04/1956,"1819 Second Ln",Boston,CO

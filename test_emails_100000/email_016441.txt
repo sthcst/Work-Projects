@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Stewart
+  email: joseph.stewart9470@outlook.com
+  phone: (712) 421-6475
+  ssn: 290 14 8965
+  dob: 11-05-2005
+  address: 1762 Park Dr
+  city: Washington
+  state: WI

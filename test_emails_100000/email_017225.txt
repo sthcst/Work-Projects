@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Lauren Smith,lauren.smith5048@mail.com,893-450-3820,933 42 2454,4/25/1950,"6276 Maple Blvd",San Diego,OH

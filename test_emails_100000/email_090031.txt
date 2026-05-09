@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Delgado,gary.delgado9149@gmail.com,965-921-5132,695568902,12/27/1954,"2720 Park Ln",Dallas,WA

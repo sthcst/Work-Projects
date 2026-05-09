@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michelle Jimenez,michelle.jimenez2146@gmail.com,253-784-6019,839-57-9028,02/08/1996,"9611 Elm Way",Dallas,MI

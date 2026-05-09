@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Ronald Sanchez",
+    "email": "ronald.sanchez6760@gmail.com",
+    "phone": "296-811-7689",
+    "ssn": "876 17 8248",
+    "dob": "14/03/2001",
+    "address": "840 Third Way",
+    "city": "San Jose",
+    "state": "WA"
+  }
+}

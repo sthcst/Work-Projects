@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Cooper
+  email: daniel.cooper2738@gmail.com
+  phone: (488) 713-3518
+  ssn: 174-01-7363
+  dob: 08/22/1960
+  address: 1876 Oak Ave
+  city: San Antonio
+  state: IL

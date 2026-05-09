@@ -1,0 +1,9 @@
+contact:
+  name: Jacob Morris
+  email: jacob.morris8590@business.net
+  phone: 627 541 2610
+  ssn: 493-59-9415
+  dob: 11/4/1998
+  address: 5851 Sixth Dr
+  city: Los Angeles
+  state: AZ

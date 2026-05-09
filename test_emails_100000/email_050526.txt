@@ -1,0 +1,9 @@
+contact:
+  name: Steven Taylor
+  email: steven.taylor1765@outlook.com
+  phone: +1 204-339-7784
+  ssn: 100225220
+  dob: 09/12/2003
+  address: 9379 South Court
+  city: San Jose
+  state: TX

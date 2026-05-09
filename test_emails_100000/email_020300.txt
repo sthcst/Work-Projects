@@ -1,0 +1,9 @@
+contact:
+  name: Gary Young
+  email: gary.young3564@company.com
+  phone: +1 930-514-2917
+  ssn: 858-59-9280
+  dob: 3/12/1954
+  address: 4782 Park Court
+  city: Dallas
+  state: CA

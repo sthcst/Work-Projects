@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Christine Young",
+    "email": "christine.young5326@yahoo.com",
+    "phone": "(420) 576-5371",
+    "ssn": "666994532",
+    "dob": "08-01-1965",
+    "address": "1633 Maple Ln",
+    "city": "Denver",
+    "state": "PA"
+  }
+}

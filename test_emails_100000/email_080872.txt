@@ -1,0 +1,14 @@
+INVOICE 999890
+
+Bill To:
+Name: Michael Romero
+Email: michael.romero3078@work.org
+Phone: (665) 339-5732
+SSN: 362235815
+
+Address: 8875 Spring St
+San Antonio, MA
+
+Date of Birth: 09/19/1971
+
+Amount Due: $2305

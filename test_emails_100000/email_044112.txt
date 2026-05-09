@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Amanda Reed,amanda.reed8408@work.org,+1 886-341-2073,051462811,03/03/1955,"1071 First Court",Philadelphia,TX

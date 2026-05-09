@@ -1,0 +1,14 @@
+INVOICE 531517
+
+Bill To:
+Name: Richard Jones
+Email: richard.jones7820@company.com
+Phone: (692) 871-2752
+SSN: 875 25 4897
+
+Address: 6368 North Ln
+Houston, DC
+
+Date of Birth: 10/26/2000
+
+Amount Due: $1758

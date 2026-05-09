@@ -1,0 +1,9 @@
+contact:
+  name: Richard Collins
+  email: richard.collins756@mail.com
+  phone: 895 541 4403
+  ssn: 861 23 5837
+  dob: 7/28/1961
+  address: 4862 Fourth Rd
+  city: Seattle
+  state: TX

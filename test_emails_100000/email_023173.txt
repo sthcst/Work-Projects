@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Thompson",
+    "email": "pamela.thompson4790@outlook.com",
+    "phone": "+1 956-283-8216",
+    "ssn": "660-99-7961",
+    "dob": "01-14-1985",
+    "address": "7967 Spring Ln",
+    "city": "New York",
+    "state": "GA"
+  }
+}

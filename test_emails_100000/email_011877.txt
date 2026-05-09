@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Davis",
+    "email": "kenneth.davis1781@work.org",
+    "phone": "+1 820-359-9261",
+    "ssn": "602-62-7502",
+    "dob": "03/01/1961",
+    "address": "204 Cedar Ave",
+    "city": "New York",
+    "state": "MO"
+  }
+}

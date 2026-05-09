@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Cynthia Reyes",
+    "email": "cynthia.reyes6870@work.org",
+    "phone": "+1 987-775-6697",
+    "ssn": "705-29-2199",
+    "dob": "16/11/1952",
+    "address": "8940 Second Ln",
+    "city": "Denver",
+    "state": "AZ"
+  }
+}

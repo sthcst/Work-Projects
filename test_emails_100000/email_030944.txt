@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Samantha Wilson",
+    "email": "samantha.wilson775@mail.com",
+    "phone": "386-628-3517",
+    "ssn": "484-41-2096",
+    "dob": "12/01/1995",
+    "address": "4665 Second Court",
+    "city": "Chicago",
+    "state": "FL"
+  }
+}

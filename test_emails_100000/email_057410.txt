@@ -1,0 +1,9 @@
+contact:
+  name: Rebecca Murillo
+  email: rebecca.murillo9343@mail.com
+  phone: 567-297-9058
+  ssn: 893736611
+  dob: 09/04/1994
+  address: 7672 Summer Court
+  city: San Jose
+  state: TX

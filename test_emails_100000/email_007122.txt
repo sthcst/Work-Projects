@@ -1,0 +1,14 @@
+INVOICE 742148
+
+Bill To:
+Name: Jacob Lee
+Email: jacob.lee157@gmail.com
+Phone: 739-972-9481
+SSN: 781687170
+
+Address: 2136 Third Dr
+Denver, IL
+
+Date of Birth: 1/25/1959
+
+Amount Due: $7390

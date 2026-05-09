@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Lopez
+  email: joseph.lopez6262@outlook.com
+  phone: (841) 341-4960
+  ssn: 499-44-6259
+  dob: 12-17-1964
+  address: 1815 West Way
+  city: San Diego
+  state: NY

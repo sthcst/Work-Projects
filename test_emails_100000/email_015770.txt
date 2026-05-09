@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Gary Nunez",
+    "email": "gary.nunez1358@outlook.com",
+    "phone": "(596) 655-3301",
+    "ssn": "990391366",
+    "dob": "05-26-1986",
+    "address": "5912 Sixth Rd",
+    "city": "Los Angeles",
+    "state": "GA"
+  }
+}

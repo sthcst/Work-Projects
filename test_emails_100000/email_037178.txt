@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Thompson",
+    "email": "timothy.thompson669@gmail.com",
+    "phone": "479-697-2408",
+    "ssn": "517446532",
+    "dob": "06-13-1952",
+    "address": "8137 Pine Dr",
+    "city": "Austin",
+    "state": "MA"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rachel Jimenez",
+    "email": "rachel.jimenez3545@mail.com",
+    "phone": "(389) 857-9213",
+    "ssn": "863-22-1042",
+    "dob": "11-11-1958",
+    "address": "4221 Fifth Ave",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+}

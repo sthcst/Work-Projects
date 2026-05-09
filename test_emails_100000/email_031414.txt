@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Joshua Serrano",
+    "email": "joshua.serrano424@outlook.com",
+    "phone": "814 403 1502",
+    "ssn": "707-58-5888",
+    "dob": "22/02/1982",
+    "address": "2511 Main Rd",
+    "city": "Chicago",
+    "state": "CO"
+  }
+}

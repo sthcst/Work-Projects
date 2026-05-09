@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Collins",
+    "email": "helen.collins8308@work.org",
+    "phone": "260-612-1337",
+    "ssn": "098 41 6264",
+    "dob": "11/06/1980",
+    "address": "9457 Oak Way",
+    "city": "San Jose",
+    "state": "IL"
+  }
+}

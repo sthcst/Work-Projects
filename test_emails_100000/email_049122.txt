@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Helen Johnson",
+    "email": "helen.johnson9526@outlook.com",
+    "phone": "(592) 780-9484",
+    "ssn": "503404755",
+    "dob": "5/11/1963",
+    "address": "5267 Birch St",
+    "city": "Houston",
+    "state": "WI"
+  }
+}

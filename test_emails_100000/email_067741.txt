@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Daniel Delgado,daniel.delgado395@company.com,+1 268-676-6414,403 24 1429,11-20-2004,"4710 First Court",Boston,IL

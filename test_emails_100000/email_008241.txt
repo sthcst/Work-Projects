@@ -1,0 +1,14 @@
+INVOICE 289008
+
+Bill To:
+Name: William Martinez
+Email: william.martinez8055@example.com
+Phone: (295) 681-2638
+SSN: 419-51-6748
+
+Address: 1219 Fourth Way
+San Diego, FL
+
+Date of Birth: 5/21/1976
+
+Amount Due: $2223

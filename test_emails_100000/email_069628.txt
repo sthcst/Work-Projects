@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Morgan,katherine.morgan1636@outlook.com,767 533 1405,572 13 4998,17/01/1998,"2716 Spring Way",San Jose,NJ

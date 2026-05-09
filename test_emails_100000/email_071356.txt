@@ -1,0 +1,14 @@
+INVOICE 384722
+
+Bill To:
+Name: Ashley Campbell
+Email: ashley.campbell1028@company.com
+Phone: +1 587-722-7073
+SSN: 340 98 4566
+
+Address: 2071 First Dr
+Chicago, TX
+
+Date of Birth: 11/04/1950
+
+Amount Due: $7473

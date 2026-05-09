@@ -1,0 +1,14 @@
+INVOICE 758207
+
+Bill To:
+Name: John Reed
+Email: john.reed956@gmail.com
+Phone: (581) 924-3553
+SSN: 414 83 1892
+
+Address: 6968 Cedar Dr
+Los Angeles, DC
+
+Date of Birth: 18/04/1969
+
+Amount Due: $742

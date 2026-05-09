@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Mark Roberts,mark.roberts3577@outlook.com,817-781-1039,979 85 2157,02-11-1974,"9745 Cedar Way",Seattle,MI

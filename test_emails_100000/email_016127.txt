@@ -1,0 +1,9 @@
+contact:
+  name: Ryan Brown
+  email: ryan.brown6495@business.net
+  phone: 661 318 9032
+  ssn: 042 74 4400
+  dob: 04-15-1978
+  address: 9690 Summer St
+  city: San Diego
+  state: FL

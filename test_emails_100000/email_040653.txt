@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Delgado",
+    "email": "donald.delgado3522@example.com",
+    "phone": "739-284-3820",
+    "ssn": "796 80 4268",
+    "dob": "05/15/2001",
+    "address": "4075 Second Ave",
+    "city": "Phoenix",
+    "state": "MD"
+  }
+}

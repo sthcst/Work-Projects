@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Lewis",
+    "email": "steven.lewis497@mail.com",
+    "phone": "+1 408-705-3597",
+    "ssn": "019 87 5051",
+    "dob": "03/08/1953",
+    "address": "6318 Spring Rd",
+    "city": "San Diego",
+    "state": "TX"
+  }
+}

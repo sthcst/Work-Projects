@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "William Guerrero",
+    "email": "william.guerrero1308@business.net",
+    "phone": "520-823-4072",
+    "ssn": "127-43-7525",
+    "dob": "03/07/1989",
+    "address": "189 Park Dr",
+    "city": "Chicago",
+    "state": "CA"
+  }
+}

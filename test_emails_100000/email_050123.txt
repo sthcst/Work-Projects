@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Carter
+  email: ashley.carter9335@mail.com
+  phone: 809-875-7783
+  ssn: 352-96-9277
+  dob: 9/18/1953
+  address: 1276 Cedar Court
+  city: Austin
+  state: WI

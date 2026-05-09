@@ -1,0 +1,9 @@
+contact:
+  name: Mark Serrano
+  email: mark.serrano9806@work.org
+  phone: (448) 541-3496
+  ssn: 988587361
+  dob: 05/16/1955
+  address: 9444 Maple Ln
+  city: Seattle
+  state: MO

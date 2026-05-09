@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kenneth Brown,kenneth.brown7173@company.com,(322) 335-8000,301-58-1207,12-19-1967,"6478 Park St",Dallas,MA

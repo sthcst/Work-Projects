@@ -1,0 +1,9 @@
+contact:
+  name: Donald Nelson
+  email: donald.nelson5640@company.com
+  phone: 374 212 5962
+  ssn: 210957163
+  dob: 04-17-1965
+  address: 4041 Main Court
+  city: Phoenix
+  state: CO

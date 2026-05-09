@@ -1,0 +1,14 @@
+INVOICE 324558
+
+Bill To:
+Name: William Ramirez
+Email: william.ramirez936@example.com
+Phone: +1 726-519-6524
+SSN: 886306433
+
+Address: 4764 Fifth Ln
+San Antonio, MO
+
+Date of Birth: 11/1/1967
+
+Amount Due: $899

@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Parker
+  email: sarah.parker5544@work.org
+  phone: 434 662 8452
+  ssn: 415943725
+  dob: 6/28/1973
+  address: 4837 Park Rd
+  city: San Diego
+  state: MO

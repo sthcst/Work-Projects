@@ -1,0 +1,9 @@
+contact:
+  name: Emily Gonzalez
+  email: emily.gonzalez6512@yahoo.com
+  phone: (487) 740-3418
+  ssn: 234-23-5856
+  dob: 03/11/1971
+  address: 4221 Maple Dr
+  city: New York
+  state: GA

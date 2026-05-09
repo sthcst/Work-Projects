@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Jacob Morgan",
+    "email": "jacob.morgan4977@business.net",
+    "phone": "(490) 744-6375",
+    "ssn": "246-62-3822",
+    "dob": "01/16/1978",
+    "address": "7308 Third Ln",
+    "city": "San Antonio",
+    "state": "WI"
+  }
+}

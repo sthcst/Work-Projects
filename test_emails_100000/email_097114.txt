@@ -1,0 +1,9 @@
+contact:
+  name: Rachel Guerrero
+  email: rachel.guerrero8249@gmail.com
+  phone: 233-839-3463
+  ssn: 875 32 5085
+  dob: 05-23-1978
+  address: 1418 First Way
+  city: Dallas
+  state: PA

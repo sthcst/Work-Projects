@@ -1,0 +1,14 @@
+INVOICE 656106
+
+Bill To:
+Name: Joseph Gomez
+Email: joseph.gomez5605@outlook.com
+Phone: 401-524-1490
+SSN: 270-74-8432
+
+Address: 9140 First Court
+Washington, AZ
+
+Date of Birth: 5/8/1980
+
+Amount Due: $2253

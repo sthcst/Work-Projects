@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Pamela Reeves",
+    "email": "pamela.reeves9327@mail.com",
+    "phone": "+1 823-565-6947",
+    "ssn": "406-96-6994",
+    "dob": "4/17/1998",
+    "address": "5260 Fifth Ln",
+    "city": "Washington",
+    "state": "TN"
+  }
+}

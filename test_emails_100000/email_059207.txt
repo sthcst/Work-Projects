@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Timothy Murillo",
+    "email": "timothy.murillo4265@example.com",
+    "phone": "276 458 5418",
+    "ssn": "280-32-4818",
+    "dob": "6/16/1969",
+    "address": "5441 First St",
+    "city": "Los Angeles",
+    "state": "WI"
+  }
+}

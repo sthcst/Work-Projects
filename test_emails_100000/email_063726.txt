@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kevin Murillo,kevin.murillo7911@outlook.com,272-371-9307,074-13-6720,22/09/1964,"5908 Birch St",Denver,CA

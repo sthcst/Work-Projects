@@ -1,0 +1,9 @@
+contact:
+  name: Paul Walker
+  email: paul.walker3791@work.org
+  phone: +1 885-803-6872
+  ssn: 805 29 1671
+  dob: 10/26/1963
+  address: 2317 Spring Way
+  city: Phoenix
+  state: WA

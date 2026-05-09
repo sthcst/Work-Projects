@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Katherine Lee,katherine.lee8836@work.org,357 617 6041,825 87 7088,12/26/1997,"6039 Park Dr",Phoenix,MI

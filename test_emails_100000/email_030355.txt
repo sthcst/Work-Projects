@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Stephanie Bell,stephanie.bell7662@business.net,792 639 6623,542531738,12/02/1955,"3495 Cedar St",Philadelphia,IL

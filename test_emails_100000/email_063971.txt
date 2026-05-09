@@ -1,0 +1,14 @@
+INVOICE 541525
+
+Bill To:
+Name: Ashley Lopez
+Email: ashley.lopez6500@example.com
+Phone: 462 279 4934
+SSN: 985703011
+
+Address: 6283 First Ave
+Jacksonville, MA
+
+Date of Birth: 02-09-1967
+
+Amount Due: $4718

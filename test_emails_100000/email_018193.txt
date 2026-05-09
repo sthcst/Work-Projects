@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Kenneth Taylor",
+    "email": "kenneth.taylor6643@company.com",
+    "phone": "206 525 8691",
+    "ssn": "335-21-1777",
+    "dob": "07-20-1965",
+    "address": "481 First Ln",
+    "city": "Denver",
+    "state": "MA"
+  }
+}

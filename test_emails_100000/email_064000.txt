@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Samantha Ortiz,samantha.ortiz165@yahoo.com,+1 493-686-1237,894-83-5062,01-15-1997,"4044 West St",Phoenix,CA

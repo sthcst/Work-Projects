@@ -1,0 +1,14 @@
+INVOICE 590044
+
+Bill To:
+Name: Jeffrey Clark
+Email: jeffrey.clark6484@company.com
+Phone: +1 765-787-4336
+SSN: 089835389
+
+Address: 4961 Spring Blvd
+Philadelphia, CO
+
+Date of Birth: 09/26/1988
+
+Amount Due: $1043

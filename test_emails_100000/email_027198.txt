@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brenda Ortiz",
+    "email": "brenda.ortiz2781@example.com",
+    "phone": "+1 856-700-1855",
+    "ssn": "266 37 7256",
+    "dob": "8/4/1980",
+    "address": "7804 First Dr",
+    "city": "Austin",
+    "state": "TX"
+  }
+}

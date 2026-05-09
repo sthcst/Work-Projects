@@ -1,0 +1,9 @@
+contact:
+  name: Anna Anderson
+  email: anna.anderson4438@example.com
+  phone: +1 527-617-9082
+  ssn: 127-32-5582
+  dob: 26/03/2000
+  address: 9524 Sixth Blvd
+  city: Phoenix
+  state: AZ

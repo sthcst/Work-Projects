@@ -1,0 +1,9 @@
+contact:
+  name: Brenda Stewart
+  email: brenda.stewart7776@outlook.com
+  phone: 962 472 8567
+  ssn: 521-87-2935
+  dob: 12/16/1961
+  address: 7910 East Rd
+  city: Los Angeles
+  state: CA

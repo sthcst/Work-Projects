@@ -1,0 +1,14 @@
+INVOICE 747801
+
+Bill To:
+Name: Stephanie Martinez
+Email: stephanie.martinez3994@example.com
+Phone: 384 577 9088
+SSN: 647 07 8252
+
+Address: 6873 Sixth Blvd
+Phoenix, AZ
+
+Date of Birth: 11/14/1963
+
+Amount Due: $7523

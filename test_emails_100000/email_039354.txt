@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Anthony Reeves",
+    "email": "anthony.reeves266@example.com",
+    "phone": "(920) 633-6016",
+    "ssn": "677 09 8229",
+    "dob": "20/06/2001",
+    "address": "8200 Third St",
+    "city": "Dallas",
+    "state": "FL"
+  }
+}

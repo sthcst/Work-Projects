@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "James Campbell",
+    "email": "james.campbell3833@gmail.com",
+    "phone": "+1 641-788-8345",
+    "ssn": "130-34-3473",
+    "dob": "2/23/1982",
+    "address": "6126 South Rd",
+    "city": "Denver",
+    "state": "MA"
+  }
+}

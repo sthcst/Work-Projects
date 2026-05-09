@@ -1,0 +1,9 @@
+contact:
+  name: Sarah Romero
+  email: sarah.romero351@outlook.com
+  phone: (916) 260-5786
+  ssn: 007 28 3485
+  dob: 02-18-1950
+  address: 4901 Pine Dr
+  city: Washington
+  state: WI

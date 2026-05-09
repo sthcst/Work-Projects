@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michael Hernandez",
+    "email": "michael.hernandez3190@yahoo.com",
+    "phone": "(791) 485-2638",
+    "ssn": "664053907",
+    "dob": "4/18/1952",
+    "address": "5431 Fourth Rd",
+    "city": "Denver",
+    "state": "TX"
+  }
+}

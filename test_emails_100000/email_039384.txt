@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Stephanie Lopez",
+    "email": "stephanie.lopez7964@yahoo.com",
+    "phone": "(262) 679-7999",
+    "ssn": "050 38 5399",
+    "dob": "12-16-1964",
+    "address": "6596 Sixth Ln",
+    "city": "Chicago",
+    "state": "AZ"
+  }
+}

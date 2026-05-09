@@ -1,0 +1,9 @@
+contact:
+  name: Daniel Jackson
+  email: daniel.jackson825@gmail.com
+  phone: 819-430-7051
+  ssn: 539-18-5923
+  dob: 10/08/1989
+  address: 5567 First Way
+  city: Boston
+  state: TX

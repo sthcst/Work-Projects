@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Megan Delgado",
+    "email": "megan.delgado230@yahoo.com",
+    "phone": "609-548-5594",
+    "ssn": "208131707",
+    "dob": "10/11/1985",
+    "address": "6456 Sixth Court",
+    "city": "San Jose",
+    "state": "MA"
+  }
+}

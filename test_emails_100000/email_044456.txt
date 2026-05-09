@@ -1,0 +1,9 @@
+contact:
+  name: Jane Peterson
+  email: jane.peterson3086@gmail.com
+  phone: 233 409 5265
+  ssn: 048267774
+  dob: 11-27-2005
+  address: 3536 Sixth Dr
+  city: Chicago
+  state: FL

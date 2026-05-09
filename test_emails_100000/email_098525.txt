@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Gary Smith,gary.smith7079@mail.com,546-869-1705,807-64-4102,04/05/1951,"389 Birch Way",Jacksonville,GA

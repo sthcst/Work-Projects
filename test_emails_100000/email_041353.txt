@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Deborah Perez,deborah.perez8479@yahoo.com,+1 990-477-6477,289979109,06/07/1991,"6983 Main Ave",San Diego,CA

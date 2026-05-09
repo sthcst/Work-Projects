@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Joshua Rogers,joshua.rogers8643@mail.com,(302) 668-4783,232203041,03/23/1951,"9689 First Court",Seattle,WA

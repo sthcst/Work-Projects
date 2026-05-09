@@ -1,0 +1,9 @@
+contact:
+  name: Joseph Morris
+  email: joseph.morris2011@work.org
+  phone: 446-454-8542
+  ssn: 635 04 4282
+  dob: 17/03/1979
+  address: 8306 First Dr
+  city: Dallas
+  state: WI

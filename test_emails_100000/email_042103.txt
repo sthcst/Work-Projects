@@ -1,0 +1,14 @@
+INVOICE 985025
+
+Bill To:
+Name: James Morgan
+Email: james.morgan2513@work.org
+Phone: (895) 824-4112
+SSN: 565 81 3624
+
+Address: 9768 Spring Way
+New York, FL
+
+Date of Birth: 06/01/1988
+
+Amount Due: $9697

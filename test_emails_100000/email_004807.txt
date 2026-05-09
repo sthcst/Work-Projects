@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Anderson,brian.anderson4160@company.com,596-468-2115,250 91 5770,10/01/1988,"3239 Spring Ave",Boston,NC

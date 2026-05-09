@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Brian Morgan,brian.morgan4906@outlook.com,701 721 5115,204583120,18/07/2005,"5962 North Way",Denver,IL

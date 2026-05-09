@@ -1,0 +1,9 @@
+contact:
+  name: Ashley Garcia
+  email: ashley.garcia6153@mail.com
+  phone: (200) 419-6140
+  ssn: 603 15 4674
+  dob: 03/05/1983
+  address: 140 East Dr
+  city: Boston
+  state: FL

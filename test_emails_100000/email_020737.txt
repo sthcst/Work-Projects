@@ -1,0 +1,9 @@
+contact:
+  name: Richard Walker
+  email: richard.walker7095@yahoo.com
+  phone: (562) 452-3088
+  ssn: 083 23 8290
+  dob: 27/07/1967
+  address: 7573 North Dr
+  city: Boston
+  state: MO

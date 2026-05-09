@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Rebecca Flores",
+    "email": "rebecca.flores2764@outlook.com",
+    "phone": "522-604-8951",
+    "ssn": "828-09-7483",
+    "dob": "9/4/1967",
+    "address": "8697 Third Rd",
+    "city": "Washington",
+    "state": "MO"
+  }
+}

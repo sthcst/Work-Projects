@@ -1,0 +1,9 @@
+contact:
+  name: William Guerrero
+  email: william.guerrero9944@gmail.com
+  phone: (344) 343-6050
+  ssn: 678 48 4834
+  dob: 11-14-1994
+  address: 6339 Maple Ln
+  city: Seattle
+  state: CA

@@ -1,0 +1,9 @@
+contact:
+  name: Megan Flores
+  email: megan.flores3214@gmail.com
+  phone: 815-306-1345
+  ssn: 137078056
+  dob: 01/25/1984
+  address: 2830 West Blvd
+  city: Washington
+  state: WA

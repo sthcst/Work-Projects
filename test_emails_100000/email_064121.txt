@@ -1,0 +1,9 @@
+contact:
+  name: Katherine Smith
+  email: katherine.smith8378@outlook.com
+  phone: (234) 334-4318
+  ssn: 056414930
+  dob: 12/15/1973
+  address: 508 Sixth Ln
+  city: Boston
+  state: FL

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Donald Jackson",
+    "email": "donald.jackson5981@company.com",
+    "phone": "919-253-7192",
+    "ssn": "756 96 2327",
+    "dob": "11/10/1990",
+    "address": "7885 Summer Court",
+    "city": "Seattle",
+    "state": "WA"
+  }
+}

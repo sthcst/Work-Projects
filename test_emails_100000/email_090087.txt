@@ -1,0 +1,9 @@
+contact:
+  name: Pamela Alvarado
+  email: pamela.alvarado7013@company.com
+  phone: (442) 545-8539
+  ssn: 774 39 9216
+  dob: 06-16-1980
+  address: 2146 Pine Court
+  city: New York
+  state: IL

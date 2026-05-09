@@ -1,0 +1,9 @@
+contact:
+  name: Donald Peterson
+  email: donald.peterson5740@mail.com
+  phone: +1 619-879-8717
+  ssn: 439-86-8807
+  dob: 7/5/1961
+  address: 5849 Third Ln
+  city: Los Angeles
+  state: MA

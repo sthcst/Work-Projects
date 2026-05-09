@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Michael Martinez,michael.martinez9362@business.net,753-639-6571,165 68 4766,9/27/1956,"4612 Park St",San Jose,MO

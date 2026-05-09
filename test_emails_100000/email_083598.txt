@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Edward Sanchez,edward.sanchez8819@gmail.com,+1 344-907-1171,848-10-5322,3/14/1977,"8903 Oak Blvd",Boston,AZ

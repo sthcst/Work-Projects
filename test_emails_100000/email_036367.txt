@@ -1,0 +1,9 @@
+contact:
+  name: Paul Serrano
+  email: paul.serrano3056@work.org
+  phone: +1 559-988-4096
+  ssn: 065121679
+  dob: 11/27/1953
+  address: 1933 Cedar Way
+  city: Los Angeles
+  state: CA

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Brian Perez",
+    "email": "brian.perez7059@gmail.com",
+    "phone": "825 241 1221",
+    "ssn": "548117303",
+    "dob": "07/03/1975",
+    "address": "7856 South Dr",
+    "city": "Chicago",
+    "state": "VA"
+  }
+}

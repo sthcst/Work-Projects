@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Deborah Anderson",
+    "email": "deborah.anderson2710@example.com",
+    "phone": "815 341 2287",
+    "ssn": "322372151",
+    "dob": "09/07/1971",
+    "address": "9673 First St",
+    "city": "Phoenix",
+    "state": "AZ"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Steven Morgan",
+    "email": "steven.morgan8042@gmail.com",
+    "phone": "257 825 1095",
+    "ssn": "349812622",
+    "dob": "08-15-1989",
+    "address": "5537 Cedar St",
+    "city": "New York",
+    "state": "NY"
+  }
+}

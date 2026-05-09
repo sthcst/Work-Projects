@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Katherine Flores",
+    "email": "katherine.flores2952@yahoo.com",
+    "phone": "461 583 5029",
+    "ssn": "889 44 3623",
+    "dob": "07/11/2003",
+    "address": "9542 South Rd",
+    "city": "Seattle",
+    "state": "MA"
+  }
+}

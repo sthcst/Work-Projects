@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Michelle Evans",
+    "email": "michelle.evans4454@business.net",
+    "phone": "556-849-6870",
+    "ssn": "001 94 7419",
+    "dob": "10/20/1999",
+    "address": "878 West Court",
+    "city": "San Diego",
+    "state": "PA"
+  }
+}

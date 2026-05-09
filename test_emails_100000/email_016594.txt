@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Nicholas Stewart,nicholas.stewart4239@yahoo.com,706-262-7476,651435496,03-14-1972,"7128 Second Court",Los Angeles,MD

@@ -1,0 +1,2 @@
+name,email,phone,ssn,dob,address,city,state
+Kimberly Miller,kimberly.miller8552@work.org,(607) 646-3434,304457266,5/4/2004,"4599 Maple Ave",Jacksonville,TN

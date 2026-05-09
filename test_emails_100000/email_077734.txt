@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Matthew Ramirez",
+    "email": "matthew.ramirez6592@mail.com",
+    "phone": "812 506 9879",
+    "ssn": "246565498",
+    "dob": "9/24/2002",
+    "address": "8494 Pine Ave",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+}

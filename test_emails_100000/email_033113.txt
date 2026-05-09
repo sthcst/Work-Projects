@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "name": "Robert Lewis",
+    "email": "robert.lewis7943@mail.com",
+    "phone": "+1 893-607-8544",
+    "ssn": "950-17-8183",
+    "dob": "08-10-1974",
+    "address": "7884 South Court",
+    "city": "New York",
+    "state": "GA"
+  }
+}

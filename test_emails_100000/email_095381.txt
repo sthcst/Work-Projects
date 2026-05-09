@@ -1,0 +1,14 @@
+INVOICE 241718
+
+Bill To:
+Name: Ronald Carter
+Email: ronald.carter9314@company.com
+Phone: 320-539-1113
+SSN: 519325220
+
+Address: 6926 Birch Ln
+San Antonio, CO
+
+Date of Birth: 06-01-1988
+
+Amount Due: $2101
