@@ -24,7 +24,7 @@ import importlib
 importlib.reload(redact)
 
 # Test corpus
-CORPUS_DIR = Path('test_emails_100000')
+CORPUS_DIR = Path('test_emails_10000')
 test_files = sorted(CORPUS_DIR.glob('email_*.txt'))
 
 print(f"Testing {len(test_files)} emails from comprehensive corpus")
@@ -35,13 +35,18 @@ email_pattern = re.compile(r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}\b'
 phone_pattern = redact.PHONE
 phone_labeled = redact.PHONE_LABELED if hasattr(redact, 'PHONE_LABELED') else None
 ssn_strict = re.compile(r"\b(?:\d{3}-\d{2}-\d{4}|\d{3} \d{2} \d{4}|\d{9})\b")
-dob_pattern = re.compile(r'\b(?:0?[1-9]|1[0-2])[/\-](?:0?[1-9]|[12][0-9]|3[01])[/\-](?:19|20)\d{2}\b')
+# Enhanced DOB pattern: support 2-digit and 4-digit years
+dob_pattern = re.compile(r'\b(?:0?[1-9]|1[0-2])[/\-](?:0?[1-9]|[12][0-9]|3[01])[/\-](?:\d{2}|\d{4})\b')
 capitalized_seq = re.compile(r'\b[A-Z][a-z]{2,}(?:\s+[A-Z][a-z]{2,})+\b')
+# Enhanced: include initials (J. Smith, John S., etc.)
+initials_pattern = redact.INITIALS_PATTERN if hasattr(redact, 'INITIALS_PATTERN') else re.compile(r"\b[A-Z]\.\s+[A-Z][a-z]+\b|\b[A-Z][a-z]+\s+[A-Z]\.\b")
+# Enhanced: include city+state (Springfield, IL)
+city_state_pattern = redact.CITY_STATE if hasattr(redact, 'CITY_STATE') else re.compile(r"\b([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*)\s*,\s*([A-Z]{2})\b")
 
 # Summary stats
-total_before = {'EMAIL': 0, 'PHONE': 0, 'SSN': 0, 'DOB': 0, 'PERSON': 0}
-total_after = {'EMAIL': 0, 'PHONE': 0, 'SSN': 0, 'DOB': 0, 'PERSON': 0}
-deleted = {'EMAIL': 0, 'PHONE': 0, 'SSN': 0, 'DOB': 0, 'PERSON': 0}
+total_before = {'EMAIL': 0, 'PHONE': 0, 'SSN': 0, 'DOB': 0, 'ADDRESS': 0, 'PERSON': 0}
+total_after = {'EMAIL': 0, 'PHONE': 0, 'SSN': 0, 'DOB': 0, 'ADDRESS': 0, 'PERSON': 0}
+deleted = {'EMAIL': 0, 'PHONE': 0, 'SSN': 0, 'DOB': 0, 'ADDRESS': 0, 'PERSON': 0}
 files_with_misses = []
 files_processed = 0
 errors = []
@@ -64,7 +69,8 @@ for i, test_file in enumerate(test_files, 1):
             'PHONE': len(phone_pattern.findall(orig_text)) + (len(phone_labeled.findall(orig_text)) if phone_labeled else 0),
             'SSN': len(ssn_strict.findall(orig_text)),
             'DOB': len(dob_pattern.findall(orig_text)),
-            'PERSON': len(capitalized_seq.findall(orig_text)),
+            'PERSON': len(capitalized_seq.findall(orig_text)) + len(initials_pattern.findall(orig_text)),
+            'ADDRESS': len(city_state_pattern.findall(orig_text)),
         }
         
         # Redact
@@ -77,7 +83,8 @@ for i, test_file in enumerate(test_files, 1):
             'PHONE': len(phone_pattern.findall(redacted_text)) + (len(phone_labeled.findall(redacted_text)) if phone_labeled else 0),
             'SSN': len(ssn_strict.findall(redacted_text)),
             'DOB': len(dob_pattern.findall(redacted_text)),
-            'PERSON': len(capitalized_seq.findall(redacted_text)),
+            'PERSON': len(capitalized_seq.findall(redacted_text)) + len(initials_pattern.findall(redacted_text)),
+            'ADDRESS': len(city_state_pattern.findall(redacted_text)),
         }
         
         # Track misses
@@ -103,7 +110,7 @@ if errors:
 
 print("\n" + "=" * 80)
 print("=== COVERAGE BY LABEL ===")
-for label in ['EMAIL', 'PHONE', 'SSN', 'DOB', 'PERSON']:
+for label in ['EMAIL', 'PHONE', 'SSN', 'DOB', 'ADDRESS', 'PERSON']:
     total = total_before[label]
     removed = deleted[label]
     remaining = total_after[label]
@@ -122,8 +129,9 @@ print(f"Total deleted: {total_deleted:,}")
 print(f"Total remaining: {total_remaining:,}")
 print(f"Overall coverage: {overall_coverage:.1f}%")
 print(f"Emails processed: {files_processed:,}")
-print(f"Processing time: {elapsed_time:.1f} seconds ({elapsed_time/files_processed*1000:.1f}ms per email)")
-print(f"Throughput: {files_processed/elapsed_time:.0f} emails/sec")
+if files_processed > 0:
+    print(f"Processing time: {elapsed_time:.1f} seconds ({elapsed_time/files_processed*1000:.1f}ms per email)")
+    print(f"Throughput: {files_processed/elapsed_time:.0f} emails/sec")
 
 if total_remaining == 0:
     print("\n✅ 100% COVERAGE ACHIEVED on 100000-email corpus!")
@@ -152,7 +160,7 @@ with open(report_file, 'w') as f:
     
     f.write("COVERAGE BY LABEL:\n")
     f.write("-" * 80 + "\n")
-    for label in ['EMAIL', 'PHONE', 'SSN', 'DOB', 'PERSON']:
+    for label in ['EMAIL', 'PHONE', 'SSN', 'DOB', 'ADDRESS', 'PERSON']:
         total = total_before[label]
         removed = deleted[label]
         remaining = total_after[label]

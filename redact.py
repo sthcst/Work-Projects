@@ -135,24 +135,32 @@ SSN_LOOSE = re.compile(r"\b\d{9}\b")
 # Labeled-line SSN patterns like 'SSN: 123456789' or 'Social Security: 123456789'
 SSN_LABEL_LINE = re.compile(r'(?im)^(?:\s*(?:ssn|social security|social-security)\s*[:\-]?\s*)(\d{9})\s*$')
 
-# Common date-of-birth formats (require a 4-digit year to reduce false positives)
+# Common date-of-birth formats (support 2-digit and 4-digit years)
 _MONTHS = r'(?:Jan|January|Feb|February|Mar|March|Apr|April|May|Jun|June|Jul|July|Aug|August|Sep|September|Oct|October|Nov|November|Dec|December)'
+# 4-digit year formats (MM/DD/YYYY, DD/MM/YYYY, YYYY-MM-DD, etc.)
 _NUM_MONTH_DAY = r'(?:0?[1-9]|1[0-2])[\/\-](?:0?[1-9]|[12][0-9]|3[01])[\/\-](?:19|20)\d{2}'
 _NUM_DAY_MONTH = r'(?:0?[1-9]|[12][0-9]|3[01])[\/\-](?:0?[1-9]|1[0-2])[\/\-](?:19|20)\d{2}'
 _ISO = r'(?:19|20)\d{2}[\/\-](?:0?[1-9]|1[0-2])[\/\-](?:0?[1-9]|[12][0-9]|3[01])'
 _MONTH_NAME = rf'{_MONTHS}\.?' + r'\s+\d{1,2},?\s+(?:19|20)\d{2}'
+# 2-digit year formats (MM/DD/YY or DD/MM/YY where YY is 00-99, typically 20-99 for future-safe)
+_NUM_MONTH_DAY_2Y = r'(?:0?[1-9]|1[0-2])[\/\-](?:0?[1-9]|[12][0-9]|3[01])[\/\-](?:[0-9]{2})'
+_NUM_DAY_MONTH_2Y = r'(?:0?[1-9]|[12][0-9]|3[01])[\/\-](?:0?[1-9]|1[0-2])[\/\-](?:[0-9]{2})'
+# Month name without comma (e.g., "January 15 1990")
+_MONTH_NAME_NO_COMMA = rf'{_MONTHS}\.?\s+\d{{1,2}}\s+(?:19|20)\d{{2}}'
 
 # Ensure DOB matches are bounded by non-digit characters to avoid leaving trailing digits
-DOB = re.compile(rf"(?<!\d)(?:{_NUM_MONTH_DAY}|{_NUM_DAY_MONTH}|{_ISO}|{_MONTH_NAME})(?!\d)", re.IGNORECASE)
+DOB = re.compile(rf"(?<!\d)(?:{_NUM_MONTH_DAY}|{_NUM_DAY_MONTH}|{_ISO}|{_MONTH_NAME}|{_NUM_MONTH_DAY_2Y}|{_NUM_DAY_MONTH_2Y}|{_MONTH_NAME_NO_COMMA})(?!\d)", re.IGNORECASE)
 
 GREETING = re.compile(r'\b(Hi|Hello|Dear)\s+([A-Z][a-z]+)\b')
 SIGNOFF = re.compile(r'(Thanks|Best|Sincerely|Regards)[,\n\s]+([A-Z][a-z]+(?:\s[A-Z][a-z]+)?)')
 
-# Address patterns: include PO Box and common street type patterns.
-# We require either an explicit PO Box or a numeric street number and a street type
+# Address patterns: include PO Box, rural routes, and common street type patterns.
+# We require either an explicit PO Box, rural route, or a numeric street number and a street type
 ADDRESS = re.compile(
     r"\b(?:"
     r"(?:P\.?\s*O\.?\s*Box\s+\d{1,6})"  # PO Box 1234
+    r"|"  # or
+    r"(?:R\.?R\.?|Rural\s+Route)\s+\d{1,3}(?:\s+Box\s+\d{1,3})?"  # Rural Route 5 or RR 5 Box 123
     r"|"  # or
     r"(?:\d{1,5}\s+[A-Za-z0-9.\- ]{2,80}\s+(?:Street|St|Avenue|Ave|Road|Rd|Boulevard|Blvd|Lane|Ln|Drive|Dr|Court|Ct|Terrace|Ter|Place|Pl|Square|Sq|Highway|Hwy|Route|Rte|Way|Walk|Row)\b(?:,?\s*[A-Za-z .]{2,80},\s*[A-Z]{2,3})?)"
     r")",
@@ -170,6 +178,10 @@ APT_REGEX = re.compile(r'\b(?:Apt|Apartment|Unit|Suite|#)\s*\d+\b', re.IGNORECAS
 # Low-confidence; useful for auditing and later threshold tuning.
 ADDRESS_LOOSE = re.compile(r"\b\d{1,5}\s+[A-Z][a-z0-9]+(?:\s+[A-Z][a-z0-9]+){0,4}\b")
 
+# City + State pattern: "Springfield, IL" or "New York, NY" (capitalized city, comma, 2-letter state)
+# Requires a capital letter, then optional words, then comma, then 2-letter state code
+CITY_STATE = re.compile(r"\b([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*)\s*,\s*([A-Z]{2})\b")
+
 # Generic postal code patterns (US, Canada-ish, simple international fallback)
 POSTAL_CODE = re.compile(r"\b(?:\d{5}(?:-\d{4})?|[A-Z]\d[A-Z][ -]?\d[A-Z]\d)\b", re.IGNORECASE)
 
@@ -178,6 +190,10 @@ POSTAL_CODE = re.compile(r"\b(?:\d{5}(?:-\d{4})?|[A-Z]\d[A-Z][ -]?\d[A-Z]\d)\b",
 FALLBACK_NAME_MULTI = re.compile(r"\b(?:[A-Z][a-z]{3,})(?:\s+[A-Z][a-z]{3,})+\b")
 # Single capitalized words are only replaced when they appear alone on a line
 FALLBACK_NAME_SINGLE_LINE = re.compile(r"(?m)^\s*([A-Z][a-z]{3,}(?:\s+[A-Z][a-z]{3,})?)\s*$")
+# Initials pattern: "J. Smith", "John S.", "J.S.", etc. (high confidence for name detection)
+INITIALS_PATTERN = re.compile(r"\b[A-Z]\.\s+[A-Z][a-z]+\b|\b[A-Z][a-z]+\s+[A-Z]\.\b|\b[A-Z]\.[A-Z]\.\b")
+# Single-word names with context (e.g., "Name: John" or "Called by John today")
+NAME_CONTEXT = re.compile(r"(?:Name|Called|By|From|To|With|As|Mr|Ms|Dr|Prof|St|Mr\.|Ms\.|Dr\.)\s+([A-Z][a-z]{3,})\b", re.IGNORECASE)
 
 SAFE_WORDS = {
     "Admissions", "University", "College", "Semester",
@@ -436,6 +452,22 @@ def redact(text: str, stats: Optional[Dict[str, int]] = None, source_name: Optio
         if POSTAL_CODE.search(lookahead) or re.search(r'\b[A-Z]{2}\b', lookahead) or POSTAL_CODE.search(lookbehind):
             spans.append((start, end, 'ADDRESS', 'regex_address_loose_boost', 0.75))
 
+    # City + State pattern detection (e.g., "Springfield, IL", "New York, NY")
+    # This is particularly useful for finding addresses that are just city+state
+    for m in CITY_STATE.finditer(text):
+        city = m.group(1)
+        state = m.group(2)
+        # Avoid matching common words that might look like city names
+        if city in SAFE_WORDS or city.title() in SAFE_WORDS:
+            continue
+        start, end = m.start(), m.end()
+        if REDACT_AGGRESSIVE or not STRICT_PERSON:
+            spans.append((start, end, 'ADDRESS', 'regex_city_state', 0.85))
+        else:
+            # In conservative mode, add to audit
+            snippet = text[max(0, start-40):min(len(text), end+40)].replace('\n',' ')
+            LOW_CONF_CANDIDATES.append((source_name or '<unknown>', 'ADDRESS', start, end, 0.80, snippet, 'audit_city_state'))
+
     # NER spans (PERSON) and higher-confidence address parses via libpostal/matcher
     if nlp is not None:
         doc = nlp(text)
@@ -616,6 +648,27 @@ def redact(text: str, stats: Optional[Dict[str, int]] = None, source_name: Optio
                         LOW_CONF_CANDIDATES.append((source_name or '<unknown>', 'PERSON', m.start(1), m.end(1), 0.6, snippet, 'audit_fallback_single'))
                     else:
                         spans.append((m.start(1), m.end(1), 'PERSON', 'fallback_single', 0.6))
+
+        # Initials pattern detection (high confidence): "J. Smith", "John S.", etc.
+        for m in INITIALS_PATTERN.finditer(text):
+            start, end = m.start(), m.end()
+            if REDACT_AGGRESSIVE or not FORCE_NER_PERSON:
+                spans.append((start, end, 'PERSON', 'regex_initials', 0.90))
+            else:
+                snippet = text[max(0, start-40):min(len(text), end+40)].replace('\n',' ')
+                LOW_CONF_CANDIDATES.append((source_name or '<unknown>', 'PERSON', start, end, 0.85, snippet, 'audit_initials'))
+
+        # NAME_CONTEXT pattern detection: "Name: John", "Called by John", etc.
+        for m in NAME_CONTEXT.finditer(text):
+            name = m.group(1)
+            start, end = m.start(1), m.end(1)
+            if name in SAFE_WORDS or name.title() in SAFE_WORDS:
+                continue
+            if REDACT_AGGRESSIVE or not FORCE_NER_PERSON:
+                spans.append((start, end, 'PERSON', 'regex_name_context', 0.88))
+            else:
+                snippet = text[max(0, start-40):min(len(text), end+40)].replace('\n',' ')
+                LOW_CONF_CANDIDATES.append((source_name or '<unknown>', 'PERSON', start, end, 0.80, snippet, 'audit_name_context'))
 
     # Aggressive capitalized-sequence catch-all (only added when aggressive)
     if REDACT_AGGRESSIVE:
