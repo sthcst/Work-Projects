@@ -3,6 +3,7 @@ import re
 import sys
 from typing import Optional, Dict, Tuple, List
 
+# For some reason, spacy sometimes does not work so we want to be able to run without it and degrade gracefully.
 try:
     import spacy
 except ImportError:
