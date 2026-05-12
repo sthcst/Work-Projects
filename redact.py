@@ -1171,11 +1171,167 @@ def process_folder(input_folder, output_file):
             outfile.write("No redaction stats were collected.\n")
 
 
+# === MULTIPROCESSING VERSION ===
+import multiprocessing as mp
+import time
+
+def redact_single_email(email_text, filename):
+    """Wrapper function that redacts a single email and returns results.
+    
+    This function is called by worker processes.
+    """
+    stats = {}
+    redacted = redact(email_text, stats, source_name=filename)
+    if isinstance(redacted, tuple):
+        redacted_text, _spans = redacted
+    else:
+        redacted_text = redacted
+    return (filename, redacted_text, stats)
+
+
+def process_folder_multiprocess(input_folder, output_file, num_workers=None):
+    """Process all emails in a folder using multiprocessing.
+    
+    Optimized for M4 Pro: intelligently selects worker count.
+    
+    Args:
+        input_folder: path to folder with .txt files
+        output_file: path to output redacted file
+        num_workers: number of CPU cores to use (default: auto-detect optimal)
+    """
+    if num_workers is None:
+        # Auto-detect: M4 Pro has 12 cores, use 6 for balanced performance
+        cpu_count = mp.cpu_count()
+        num_workers = min(8, max(2, cpu_count // 2))
+    
+    print(f"\n{'='*70}")
+    print(f"MULTIPROCESSING MODE (M4 Pro Optimized)")
+    print(f"{'='*70}")
+    print(f"Available CPU cores: {mp.cpu_count()}")
+    print(f"Using worker processes: {num_workers}")
+    print(f"{'='*70}\n")
+    
+    # Collect all email texts with their filenames
+    email_jobs = []
+    
+    print("Loading emails from folder...")
+    for filename in sorted(os.listdir(input_folder)):
+        if not filename.endswith(".txt"):
+            continue
+        
+        file_path = os.path.join(input_folder, filename)
+        
+        with open(file_path, "r", encoding="utf-8", errors="ignore") as infile:
+            buffer = []
+            
+            for line in infile:
+                if line.startswith("From "):
+                    if buffer:
+                        email_text = "".join(buffer)
+                        email_jobs.append((email_text, filename))
+                        buffer = []
+                
+                buffer.append(line)
+            
+            # Last email
+            if buffer:
+                email_text = "".join(buffer)
+                email_jobs.append((email_text, filename))
+    
+    total_emails = len(email_jobs)
+    print(f"Total emails to process: {total_emails:,}")
+    
+    if total_emails == 0:
+        print("No emails found!")
+        return
+    
+    # Estimate time based on single-core performance (123 emails/sec)
+    estimated_time = total_emails / (123 * num_workers)
+    print(f"Estimated time: {estimated_time:.1f} minutes ({estimated_time*60:.0f} seconds)")
+    print(f"\nStarting redaction...\n")
+    
+    # Create a pool of worker processes
+    start_time = time.time()
+    
+    with mp.Pool(processes=num_workers) as pool:
+        # Map the redact function across all emails
+        results = pool.starmap(redact_single_email, email_jobs)
+    
+    elapsed = time.time() - start_time
+    throughput = total_emails / elapsed if elapsed > 0 else 0
+    
+    # Aggregate results and write to output file
+    overall_stats = {}
+    
+    print(f"Writing results to {output_file}...")
+    with open(output_file, "w", encoding="utf-8") as outfile:
+        for filename, redacted_text, stats in results:
+            outfile.write("\n--- EMAIL START ---\n")
+            outfile.write(f"SOURCE: {filename}\n")
+            outfile.write(redacted_text)
+            outfile.write("\n--- EMAIL END ---\n\n")
+            
+            # Merge stats from this email into overall stats
+            for key, value in stats.items():
+                overall_stats[key] = overall_stats.get(key, 0) + value
+    
+    # Write aggregated stats
+    with open(output_file, "a", encoding="utf-8") as outfile:
+        outfile.write("\n" + "="*70 + "\n")
+        outfile.write("=== AGGREGATED REDACTION STATS ===\n")
+        outfile.write("="*70 + "\n")
+        if overall_stats:
+            for k in sorted(overall_stats.keys()):
+                outfile.write(f"{k}: {overall_stats[k]}\n")
+        else:
+            outfile.write("No redaction stats were collected.\n")
+        
+        outfile.write("\n" + "="*70 + "\n")
+        outfile.write("=== PERFORMANCE METRICS ===\n")
+        outfile.write("="*70 + "\n")
+        outfile.write(f"Total emails processed: {total_emails:,}\n")
+        outfile.write(f"Worker processes: {num_workers}\n")
+        outfile.write(f"Time elapsed: {elapsed:.2f} seconds ({elapsed/60:.1f} minutes)\n")
+        outfile.write(f"Throughput: {throughput:.1f} emails/second\n")
+        outfile.write(f"Total throughput: {throughput * num_workers:.1f} emails/sec (all cores)\n")
+    
+    # Print summary
+    print(f"\n{'='*70}")
+    print(f"✅ REDACTION COMPLETE")
+    print(f"{'='*70}")
+    print(f"Processed: {total_emails:,} emails")
+    print(f"Time: {elapsed:.2f} seconds ({elapsed/60:.1f} minutes)")
+    print(f"Throughput: {throughput:.1f} emails/second per worker")
+    print(f"Total throughput: {throughput * num_workers:.1f} emails/second (all {num_workers} cores)")
+    print(f"Output: {output_file}")
+    print(f"\nRedaction Stats:")
+    for k in sorted(overall_stats.keys()):
+        print(f"  {k}: {overall_stats[k]:,}")
+    print(f"{'='*70}\n")
+
+
 # === RUN SCRIPT ===
 if __name__ == "__main__":
+    import sys
+    
     input_folder = "emails_folder"   # folder with your .txt files
     output_file = "redacted_output.txt"
-
-    print("Starting redaction on folder...")
-    process_folder(input_folder, output_file)
-    print("Done. Output saved to:", output_file)
+    
+    # Check for command-line arguments
+    use_multiprocessing = True
+    num_workers = None
+    
+    if len(sys.argv) > 1:
+        try:
+            num_workers = int(sys.argv[1])
+            print(f"User specified {num_workers} workers")
+        except ValueError:
+            pass
+    
+    # Use multiprocessing by default
+    if use_multiprocessing:
+        process_folder_multiprocess(input_folder, output_file, num_workers=num_workers)
+    else:
+        print("Starting redaction on folder (single-core)...")
+        process_folder(input_folder, output_file)
+        print("Done. Output saved to:", output_file)

@@ -3,8 +3,8 @@
 ================================================================================
 
 Emails processed: 10,000
-Processing time: 81.4 seconds
-Throughput: 123 emails/sec
+Processing time: 77.2 seconds
+Throughput: 130 emails/sec
 Total PII found: 82,224
 Total deleted: 82,224
 Total remaining: 0
