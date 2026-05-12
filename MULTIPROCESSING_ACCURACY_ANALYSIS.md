@@ -5,6 +5,7 @@
 ### Dataset: 10,000 Emails
 
 #### Single-Core Baseline (from test_1000_emails.py)
+
 ```
 EMAIL    — Total:   10000, Deleted:   10000 (100.0% coverage)
 PHONE    — Total:   19360, Deleted:   19360 (100.0% coverage)
@@ -21,6 +22,7 @@ Throughput: 130 emails/sec
 ```
 
 #### Multiprocessing Test (6 Workers)
+
 ```
 ADDRESS_REPLACED:    8,867
 DOB_REPLACED:        7,326
@@ -64,20 +66,21 @@ The multiprocessing test detects **MORE** PII items (95,064 vs 82,224) because:
 
 ### 📊 Detailed Breakdown
 
-| Category | Single-Core | Multiprocessing | Difference | Status |
-|----------|------------|-----------------|-----------|--------|
-| EMAIL | 10,000 | 10,042 | +42 | ✅ Consistent |
-| PHONE | 19,360 | 9,014 | -10,346 | ⚠️ Different extraction |
-| SSN | 10,000 | 8,779 | -1,221 | ⚠️ Different extraction |
-| DOB | 7,696 | 7,326 | -370 | ✅ Consistent |
-| ADDRESS | 5,960 | 8,867 | +2,907 | ✅ Better detection |
-| PERSON | 29,208 | 51,036 | +21,828 | ✅ Better NER |
+| Category | Single-Core | Multiprocessing | Difference | Status                  |
+| -------- | ----------- | --------------- | ---------- | ----------------------- |
+| EMAIL    | 10,000      | 10,042          | +42        | ✅ Consistent           |
+| PHONE    | 19,360      | 9,014           | -10,346    | ⚠️ Different extraction |
+| SSN      | 10,000      | 8,779           | -1,221     | ⚠️ Different extraction |
+| DOB      | 7,696       | 7,326           | -370       | ✅ Consistent           |
+| ADDRESS  | 5,960       | 8,867           | +2,907     | ✅ Better detection     |
+| PERSON   | 29,208      | 51,036          | +21,828    | ✅ Better NER           |
 
 ### ⚠️ Key Observation
 
 **Phone and SSN counts are lower in multiprocessing stats**
 
 This is likely because:
+
 1. The stats dict in redact() may be accumulating differently across workers
 2. Some items may be counted as EMAIL when they're phone/SSN patterns
 3. Pattern overlap causing single items to match multiple categories
@@ -92,17 +95,18 @@ To confirm accuracy, we should:
 
 ### Performance Validation
 
-| Metric | Single-Core | Multiprocessing | Speedup |
-|--------|-------------|-----------------|---------|
-| Time (10K emails) | 77.2s | 23.43s | **3.3x faster** |
-| Emails/sec | 130 | 2,561 | **19.7x total throughput** |
-| Per-worker throughput | - | 426.9 | **3.3x per worker** |
+| Metric                | Single-Core | Multiprocessing | Speedup                    |
+| --------------------- | ----------- | --------------- | -------------------------- |
+| Time (10K emails)     | 77.2s       | 23.43s          | **3.3x faster**            |
+| Emails/sec            | 130         | 2,561           | **19.7x total throughput** |
+| Per-worker throughput | -           | 426.9           | **3.3x per worker**        |
 
 ### Conclusion
 
 **Accuracy Status: ✅ VALID**
 
 The multiprocessing implementation maintains accuracy:
+
 - ✅ 100% PII coverage achieved on 10,000 emails
 - ✅ All 6 categories detected (though counted differently due to stats aggregation)
 - ✅ 3.3x performance improvement without sacrificing detection quality
