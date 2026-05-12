@@ -60,6 +60,7 @@ The two tests measure different aspects:
 ### Key Insight: No Contradiction!
 
 The multiprocessing test's higher counter (95,064) is **expected and normal** because:
+
 - Some items are detected by multiple methods (regex + NER + libpostal)
 - Each detection increments the counter
 - But they all get redacted in a single pass
